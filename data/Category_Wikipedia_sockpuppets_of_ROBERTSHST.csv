@@ -1,0 +1,460 @@
+timestamp,revid,parentid,sock,user,page,message
+2024-02-06T20:08:19+00:00,1204273591,1204249194,1,ROBERTSHST,Visa requirements for Albanian citizens,Fixed typo
+2024-02-04T19:09:21+00:00,1203372841,1191129571,1,ROBERTSHST,Xhensila Myrtezaj,/* Personal life */Added content
+2024-02-04T19:08:34+00:00,1203372554,1203371795,1,ROBERTSHST,Bes Kallaku,/* Personal life */Fixed typo
+2024-02-04T19:06:36+00:00,1203371795,1203371404,1,ROBERTSHST,Bes Kallaku,/* Personal life */Fixed typo
+2024-02-04T19:05:35+00:00,1203371404,1192169904,1,ROBERTSHST,Bes Kallaku,/* Personal life */Added content
+2024-02-02T08:59:52+00:00,1202234258,1202233605,1,ROBERTSHST,Azem Hajdini,/* Career */Fixed typo
+2024-02-02T08:57:47+00:00,1202233605,1202229471,1,ROBERTSHST,Azem Hajdini,/* Early life */Fixed typo
+2024-02-02T08:45:22+00:00,1202229850,1069729154,1,ROBERTSHST,Hajdini,Added content
+2024-02-02T08:44:12+00:00,1202229471,0,1,ROBERTSHST,Azem Hajdini,Added content
+2024-01-30T06:52:58+00:00,1200777679,1200586822,1,ROBERTSHST,User talk:DreamRimmer,/* Draft:Azem Hajdini */ Reply
+2024-01-27T08:44:07+00:00,1199533433,1199463834,1,ROBERTSHST,User talk:DreamRimmer,/* Draft:Azem Hajdini */ Reply
+2024-01-27T08:17:31+00:00,1199527079,1199527062,1,ROBERTSHST,Draft:Azem Hajdini,/* Legacy */Fixed typo
+2024-01-27T08:17:27+00:00,1199527062,1199527028,1,ROBERTSHST,Draft:Azem Hajdini,/* Later life */Fixed typo
+2024-01-27T08:17:22+00:00,1199527028,1199526998,1,ROBERTSHST,Draft:Azem Hajdini,"/* Career */Fixed typo, Added content"
+2024-01-27T08:17:15+00:00,1199526998,1193336789,1,ROBERTSHST,Draft:Azem Hajdini,"Fixed typo, Added content"
+2024-01-26T15:59:19+00:00,1199252373,1198651358,1,ROBERTSHST,User talk:DreamRimmer,/* Draft:Azem Hajdini */ Reply
+2024-01-26T06:28:23+00:00,1199164771,1187845450,1,ROBERTSHST,Wallyscar,/* External links */Added content
+2024-01-26T06:27:22+00:00,1199164650,1185687439,1,ROBERTSHST,Luxgen,/* External links */Added content
+2024-01-26T06:26:23+00:00,1199164515,1197936046,1,ROBERTSHST,Holden,/* External links */Added content
+2024-01-26T06:25:40+00:00,1199164422,1157504844,1,ROBERTSHST,Troller Veículos Especiais,/* External links */Added content
+2024-01-26T06:24:02+00:00,1199164204,1178204360,1,ROBERTSHST,Gillet,/* External links */Added content
+2024-01-26T06:23:26+00:00,1199164123,1177756988,1,ROBERTSHST,DOK-ING,/* External links */Added content
+2024-01-26T06:22:39+00:00,1199164005,1194241742,1,ROBERTSHST,Mitsuoka,/* External links */Added content
+2024-01-26T06:21:39+00:00,1199163855,1194615536,1,ROBERTSHST,DKW,/* External links */Added content
+2024-01-26T06:20:49+00:00,1199163734,1198668010,1,ROBERTSHST,Portaro,/* External links */Added content
+2024-01-26T06:19:07+00:00,1199163514,1184029828,1,ROBERTSHST,Borgward,/* External links */Added content
+2024-01-26T06:18:31+00:00,1199163436,1196734764,1,ROBERTSHST,VinFast,/* External links */Added content
+2024-01-26T06:17:53+00:00,1199163357,1166931200,1,ROBERTSHST,Mastretta,/* External links */Added content
+2024-01-26T06:14:18+00:00,1199162929,1197841853,1,ROBERTSHST,Mahindra & Mahindra,/* References */Added content
+2024-01-26T06:14:09+00:00,1199162908,1197844657,1,ROBERTSHST,Tata Motors,/* External links */Added content
+2024-01-26T06:13:47+00:00,1199162855,1198397570,1,ROBERTSHST,Lotus Cars,/* External links */Added content
+2024-01-26T06:13:40+00:00,1199162831,1196165086,1,ROBERTSHST,MG cars,/* External links */Added content
+2024-01-26T06:13:31+00:00,1199162815,1195320277,1,ROBERTSHST,Jaguar Cars,/* External links */Added content
+2024-01-26T06:13:20+00:00,1199162790,1191215089,1,ROBERTSHST,Land Rover,/* External links */Added content
+2024-01-26T06:13:14+00:00,1199162777,1180250427,1,ROBERTSHST,Zenvo Automotive,/* External links */Added content
+2024-01-26T06:13:05+00:00,1199162761,1197121417,1,ROBERTSHST,Dodge,/* External links */Added content
+2024-01-26T06:12:57+00:00,1199162742,1196772670,1,ROBERTSHST,Lada,/* External links */Added content
+2024-01-26T06:12:48+00:00,1199162726,1186849678,1,ROBERTSHST,Saab Automobile,/* External links */Added content
+2024-01-26T06:12:39+00:00,1199162703,1195596736,1,ROBERTSHST,Volvo Cars,/* External links */Added content
+2024-01-26T06:12:30+00:00,1199162681,1195175752,1,ROBERTSHST,KG Mobility,/* External links */Added content
+2024-01-26T06:12:19+00:00,1199162657,1198191229,1,ROBERTSHST,Kia,/* External links */Added content
+2024-01-26T06:12:07+00:00,1199162634,1199005734,1,ROBERTSHST,Hyundai Motor Company,/* External links */Added content
+2024-01-26T06:11:58+00:00,1199162616,1198343267,1,ROBERTSHST,Subaru,/* External links */Added content
+2024-01-26T06:11:45+00:00,1199162590,1196045567,1,ROBERTSHST,Suzuki,/* External links */Added content
+2024-01-26T06:11:35+00:00,1199162559,1196152419,1,ROBERTSHST,Mazda,/* External links */Added content
+2024-01-26T06:11:25+00:00,1199162535,1195924723,1,ROBERTSHST,Mitsubishi Motors,/* External links */Added content
+2024-01-26T06:11:13+00:00,1199162514,1198212986,1,ROBERTSHST,Honda,/* External links */Added content
+2024-01-26T06:11:02+00:00,1199162487,1198515852,1,ROBERTSHST,Nissan,/* External links */Added content
+2024-01-26T06:10:48+00:00,1199162461,1198960884,1,ROBERTSHST,Toyota,/* External links */Added content
+2024-01-26T06:10:39+00:00,1199162430,1197635614,1,ROBERTSHST,Lincoln Motor Company,/* External links */Added content
+2024-01-26T06:10:28+00:00,1199162403,1199071854,1,ROBERTSHST,Buick,/* External links */Added content
+2024-01-26T06:10:17+00:00,1199162368,1198238131,1,ROBERTSHST,Jeep,/* External links */Added content
+2024-01-26T06:10:05+00:00,1199162342,1194444724,1,ROBERTSHST,Chevrolet,/* External links */Added content
+2024-01-26T06:09:56+00:00,1199162317,1195627289,1,ROBERTSHST,Cadillac,/* External links */Added content
+2024-01-26T06:09:42+00:00,1199162286,1195626226,1,ROBERTSHST,Ford Motor Company,/* External links */Added content
+2024-01-26T06:09:32+00:00,1199162255,1195626927,1,ROBERTSHST,Alfa Romeo,/* External links */Added content
+2024-01-26T06:09:23+00:00,1199162226,1196577846,1,ROBERTSHST,Lancia,/* External links */Added content
+2024-01-26T06:09:12+00:00,1199162205,1197070560,1,ROBERTSHST,Citroën,/* External links */Added content
+2024-01-26T06:09:03+00:00,1199162185,1197437813,1,ROBERTSHST,Peugeot,/* External links */Added content
+2024-01-26T06:08:53+00:00,1199162165,1197448983,1,ROBERTSHST,Porsche,/* External links */Added content
+2024-01-26T06:08:43+00:00,1199162135,1195165263,1,ROBERTSHST,Opel,/* External links */Added content
+2024-01-26T06:08:30+00:00,1199162109,1197720976,1,ROBERTSHST,Volkswagen,/* External links */Added content
+2024-01-26T06:08:19+00:00,1199162080,1196225910,1,ROBERTSHST,Audi,/* External links */Added content
+2024-01-26T06:08:08+00:00,1199162052,1198927370,1,ROBERTSHST,BMW,/* External links */Added content
+2024-01-26T06:07:59+00:00,1199162025,1196550472,1,ROBERTSHST,Fiat,/* External links */Added content
+2024-01-26T06:07:45+00:00,1199161999,1198663827,1,ROBERTSHST,Renault,/* External links */Added content
+2024-01-26T06:07:33+00:00,1199161974,1198228988,1,ROBERTSHST,Mercedes-Benz,/* External links */Added content
+2024-01-09T11:28:19+00:00,1194521380,1194503612,1,ROBERTSHST,User talk:DreamRimmer,/* Draft:Azem Hajdini */ Reply
+2024-01-09T06:22:34+00:00,1194486199,1194468673,1,ROBERTSHST,User talk:DreamRimmer,/* Draft:Azem Hajdini */ new section
+2024-01-03T07:43:28+00:00,1193330523,1193330233,1,ROBERTSHST,Draft:Azem Hajdini,Submitting using [[WP:AFCSW|AfC-submit-wizard]]
+2024-01-03T07:40:41+00:00,1193330233,1193330050,1,ROBERTSHST,Draft:Azem Hajdini,/* Legacy */Fixed typo
+2024-01-03T07:38:45+00:00,1193330050,1193329975,1,ROBERTSHST,Draft:Azem Hajdini,/* Career */Fixed typo
+2024-01-03T07:38:04+00:00,1193329975,1193329838,1,ROBERTSHST,Draft:Azem Hajdini,/* Legacy */Added content
+2024-01-03T07:36:42+00:00,1193329838,1193329831,1,ROBERTSHST,Draft:Azem Hajdini,/* References */Added content
+2024-01-03T07:36:38+00:00,1193329831,1193329825,1,ROBERTSHST,Draft:Azem Hajdini,/* Legacy */Added content
+2024-01-03T07:36:33+00:00,1193329825,1193329804,1,ROBERTSHST,Draft:Azem Hajdini,/* Later life */Added content
+2024-01-03T07:36:23+00:00,1193329804,1193329790,1,ROBERTSHST,Draft:Azem Hajdini,/* Career */Added content
+2024-01-03T07:36:12+00:00,1193329790,1193329775,1,ROBERTSHST,Draft:Azem Hajdini,/* Early life */Added content
+2024-01-03T07:36:00+00:00,1193329775,1191401095,1,ROBERTSHST,Draft:Azem Hajdini,Added content
+2023-12-29T05:43:43+00:00,1192412750,1192412720,1,ROBERTSHST,Visa requirements for Albanian citizens,/* Diplomatic and official passports only */Added content
+2023-12-29T05:43:29+00:00,1192412720,1192141661,1,ROBERTSHST,Visa requirements for Albanian citizens,Added content
+2023-12-24T07:23:27+00:00,1191553861,1191553695,1,ROBERTSHST,Draft:David Kozak,Submitting using [[WP:AFCSW|AfC-submit-wizard]]
+2023-12-24T07:23:15+00:00,1191553843,0,1,ROBERTSHST,Draft talk:David Kozak,Adding WikiProject tags using [[WP:AFCSW|AfC-submit-wizard]]
+2023-12-24T07:21:46+00:00,1191553695,0,1,ROBERTSHST,Draft:David Kozak,Added content
+2023-12-23T08:56:27+00:00,1191399502,1191398792,1,ROBERTSHST,Draft:Azem Hajdini,Submitting using [[WP:AFCSW|AfC-submit-wizard]]
+2023-12-23T08:50:09+00:00,1191398792,0,1,ROBERTSHST,Draft:Azem Hajdini,Added content
+2024-02-24T17:39:16+00:00,1210032188,1210025436,1,Fgradi95,User talk:Lades2222,/* Update the visa requirements map for Albania */ Reply
+2024-02-24T16:56:04+00:00,1210024993,1210021545,1,Fgradi95,User talk:Lades2222,/* Update the visa requirements map for Albania */ Reply
+2024-02-24T16:21:42+00:00,1210019080,1208775729,1,Fgradi95,User talk:Lades2222,/* Update the visa requirements map for Albania */ new section
+2024-02-16T13:12:41+00:00,1208092757,1208069748,1,Fgradi95,Visa requirements for Albanian citizens,Papua New Guinea
+2024-04-17T08:34:01+00:00,1219361747,1218537974,1,Ggrudea96,User talk:柏尾菓子,/* My contribution */ Reply
+2024-04-12T08:57:14+00:00,1218536976,1218536205,1,Ggrudea96,User talk:柏尾菓子,/* My contribution */ Reply
+2024-04-12T08:39:18+00:00,1218535653,1183249254,1,Ggrudea96,User talk:柏尾菓子,/* My contribution */ new section
+2024-04-10T09:31:57+00:00,1218196871,1216498368,1,Ggrudea96,Visa requirements for Serbian citizens,/* Visa requirements */Added content
+2024-04-10T09:31:46+00:00,1218196846,1217337277,1,Ggrudea96,Visa requirements for citizens of North Macedonia,/* Visa requirements */Added content
+2024-04-10T09:31:36+00:00,1218196829,1216499174,1,Ggrudea96,Visa requirements for Montenegrin citizens,/* Visa requirements */Added content
+2024-04-10T09:31:22+00:00,1218196810,1216497693,1,Ggrudea96,Visa requirements for Bosnia and Herzegovina citizens,/* Visa requirements */Added content
+2024-04-10T09:31:04+00:00,1218196780,1217326562,1,Ggrudea96,Visa requirements for Albanian citizens,/* Visa requirements */Added content
+2024-04-06T12:07:31+00:00,1217539101,1217524202,1,Ggrudea96,User talk:JaventheAlderick,/* Add a Visa policy map of Yemen for the countries which have visa free access and visa on arrival access for Diplomatic and Official passports */ Reply
+2024-04-06T08:48:09+00:00,1217520484,1217520358,1,Ggrudea96,User talk:Lades2222,/* Add a Visa policy map of Algeria for the countries which have visa free access and visa on arrival access for Diplomatic and Official passports */Added content
+2024-04-06T08:46:40+00:00,1217520358,1217518672,1,Ggrudea96,User talk:Lades2222,/* Add a Visa policy map of Algeria for the countries which have visa free access and visa on arrival access for Diplomatic and Official passports */ Reply
+2024-04-06T08:22:27+00:00,1217518504,1217516880,1,Ggrudea96,User talk:Lades2222,/* Add a Visa policy map of Algeria for the countries which have visa free access and visa on arrival access for Diplomatic and Official passports */ Reply
+2024-04-06T07:08:43+00:00,1217512358,1216541714,1,Ggrudea96,User talk:Lades2222,/* Add a Visa policy map of Algeria for the countries which have visa free access and visa on arrival access for Diplomatic and Official passports */ new section
+2024-04-06T06:37:37+00:00,1217509061,1212686568,1,Ggrudea96,User talk:Northern Moonlight,Added content
+2024-04-05T23:21:21+00:00,1217457588,1197740084,1,Ggrudea96,User talk:JaventheAlderick,/* Add a Visa policy map of Yemen for the countries which have visa free access and visa on arrival access for Diplomatic and Official passports */ new section
+2024-04-06T20:19:02+00:00,1217602339,1212319441,1,Jonipiri,Visa policy of Sudan,/* Non-ordinary passports */Added content
+2024-04-06T20:17:25+00:00,1217602141,1217586566,1,Jonipiri,Visa policy of Yemen,/* Non-ordinary passports */Added content
+2024-04-05T22:16:20+00:00,1217450520,1213359616,1,Jonipiri,Tirana,Added content
+2024-03-31T10:55:22+00:00,1216501363,1216031594,1,Jonipiri,User talk:Lades2222,/* Update Ethiopia in the Visa policy map of Australia */ new section
+2024-03-28T16:45:02+00:00,1216031594,1215453746,1,Jonipiri,User talk:Lades2222,/* Update Algeria in the Visa policy map of New Zealand */ new section
+2024-03-26T16:51:38+00:00,1215699039,1215672436,1,Jonipiri,Xhensila Myrtezaj,/* Personal life */Added content
+2024-03-26T16:51:32+00:00,1215699020,1215672414,1,Jonipiri,Bes Kallaku,/* Personal life */Added content
+2024-03-26T14:04:40+00:00,1215672436,1203372841,1,Jonipiri,Xhensila Myrtezaj,Added content
+2024-03-26T14:04:31+00:00,1215672414,1203372554,1,Jonipiri,Bes Kallaku,Added content
+2024-03-23T16:45:35+00:00,1215181747,1215162270,1,Jonipiri,Visa requirements for Albanian citizens,Fixed typo
+2024-03-23T07:22:34+00:00,1215125262,1215082237,1,Jonipiri,User talk:Lades2222,/* Update Libya in green color in Visa requirements map for Albanian citizens */ new section
+2024-03-22T11:53:02+00:00,1214980164,1214979720,1,Jonipiri,Visa requirements for Albanian citizens,Added content
+2024-03-21T20:02:03+00:00,1214883600,1214879252,1,Jonipiri,Visa requirements for Albanian citizens,/* Visa requirements */Fixed typo
+2024-03-16T14:12:25+00:00,1214017718,1213354376,1,Jonipiri,Visa requirements for Bhutanese citizens,/* Visa requirements */Fixed typo
+2024-03-16T13:46:18+00:00,1214014063,1213425206,1,Jonipiri,Visa requirements for Bahraini citizens,/* Visa requirements */Fixed typo
+2024-03-14T19:28:44+00:00,1213723034,1213722881,1,Jonipiri,Visa requirements for Albanian citizens,"/* Future */Fixed typo, Added content"
+2024-03-14T19:27:46+00:00,1213722881,1213574013,1,Jonipiri,Visa requirements for Albanian citizens,/* Future */Added content
+2024-03-14T18:06:15+00:00,1213712397,1213653567,1,Jonipiri,User talk:Lades2222,/* Update some maps with color in visa requirements article */ Reply
+2024-03-14T07:14:53+00:00,1213639870,1213628186,1,Jonipiri,User talk:Lades2222,/* Update some maps with color in visa requirements article */ Reply
+2024-03-14T05:06:52+00:00,1213627858,1213573646,1,Jonipiri,User talk:Lades2222,/* Update some maps with color in visa requirements article */ Reply
+2024-03-13T17:21:40+00:00,1213538883,1213535116,1,Jonipiri,Visa requirements for Albanian citizens,Fixed typo
+2024-03-13T16:54:18+00:00,1213535116,1213474353,1,Jonipiri,Visa requirements for Albanian citizens,/* Visa requirements */Fixed typo
+2024-03-13T16:03:25+00:00,1213527414,1213252243,1,Jonipiri,User talk:Lades2222,/* Update some maps with color in visa requirements article */ new section
+2024-04-27T19:40:19+00:00,1221083913,1220936900,1,Sligati,User talk:Lades2222,/* Add Visa Policy maps for the citizens holding diplomatic/official passports which can travel without a visa and/or visa on arrival to Sudan and Yemen */ new section
+2024-04-24T13:57:06+00:00,1220547828,1220506032,1,Sligati,Visa requirements for Albanian citizens,/* Future */Added content
+2024-04-24T05:42:34+00:00,1220506032,1220463026,1,Sligati,Visa requirements for Albanian citizens,/* Diplomatic and official passports only */Added content
+2024-04-23T22:56:42+00:00,1220463933,1220174792,1,Sligati,Visa policy of Maldives,/* Future changes */Added content
+2024-04-23T22:45:49+00:00,1220463026,1219553802,1,Sligati,Visa requirements for Albanian citizens,/* Visa requirements */Added content
+2024-03-21T00:57:34+00:00,1214765593,1213040358,0,Deepred6502,Audi,/* Audi AG today */Internal link.
+2024-01-14T16:58:13+00:00,1195626927,1194972237,0,Maxeto0910,Alfa Romeo,
+2024-02-09T01:13:18+00:00,1205163087,1202312404,0,WikiCleanerBot,Azem Hajdini,v2.05b - [[User:WikiCleanerBot#T5|Bot T5 CW#16]] - Fix errors for [[WP:WCW|CW project]] (Unicode control characters)
+2024-01-22T14:40:45+00:00,1197943992,1197943402,0,Vempirina,BMW,
+2024-02-27T21:48:02+00:00,1210686126,1209974967,0,Blablubbs,Alfa Romeo,Reverted edits by [[Special:Contributions/88.227.56.42|88.227.56.42]] ([[User talk:88.227.56.42|talk]]) to last version by Jellyfish dave. Edits broke the link
+2024-03-15T17:19:53+00:00,1213876326,1213876085,0,Boyinaroom,BMW,Reverted edits by [[Special:Contributions/68.37.11.235|68.37.11.235]] ([[User talk:68.37.11.235|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2024-04-07T14:45:29+00:00,1217729750,1214765593,0,Frequently.by.train,Audi,==See also== with random links without contect was not particularly useful. Edited for clarity.
+2024-04-10T17:55:32+00:00,1218263826,1205163087,0,Bearcat,Azem Hajdini,±[[Category:20th-century writers]]→[[Category:20th-century Albanian writers]]; ±[[Category:21st-century writers]]→[[Category:21st-century Albanian writers]] using [[WP:HC|HotCat]]
+2023-12-28T00:35:31+00:00,1192169904,1182319475,0,Nat965,Bes Kallaku,/* Personal life */[[WP:AWB/T|typo(s) fixed]]: On December 2022 → In December 2022
+2024-03-26T20:49:47+00:00,1215737626,1215699020,0,46.217.67.98,Bes Kallaku,
+2024-02-18T18:53:04+00:00,1208740070,1207887795,0,Fma12,Buick,founder
+2024-01-26T06:49:09+00:00,1199167310,1199163514,0,Meters,Borgward,Undid revision 1199163514 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]]) no such cat
+2023-11-07T22:41:05+00:00,1184029828,1172874194,0,Chris the speller,Borgward,cap
+2024-02-18T22:33:14+00:00,1208780893,1208778209,0,LizardJr8,DKW,Reverted 1 edit by [[Special:Contributions/60.250.185.120|60.250.185.120]] ([[User talk:60.250.185.120|talk]]) to last revision by ROBERTSHST
+2023-12-23T11:04:17+00:00,1191411096,1191368449,0,DH85868993,Cadillac,/* Models */ 2024/5/6-present doesn't make sense
+2024-03-23T22:14:43+00:00,1215232244,1212299201,0,BattyBot,Citroën,Fixed [[:Category:CS1 errors: extra text: volume|CS1 errors: extra text: volume]] and [[WP:AWB/GF|general fixes]]
+2024-03-07T03:36:32+00:00,1212299201,1212299075,0,152.170.109.85,Citroën,/* Factories */
+2024-01-26T06:57:50+00:00,1199168460,1199162403,0,Meters,Buick,Undid revision 1199162403 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-01-26T06:58:36+00:00,1199168560,1199162342,0,Meters,Chevrolet,/* External links */ non existent dupe
+2024-04-06T20:05:52+00:00,1217600575,1208251046,0,Mazewaxie,Cadillac,[[WP:GENFIXES]]
+2024-01-09T01:26:16+00:00,1194444724,1193760337,0,TheGreatestLuvofAll,Chevrolet,this article has a lot of references though?
+2024-01-26T06:46:53+00:00,1199167024,1199164123,0,Meters,DOK-ING,Undid revision 1199164123 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-01-26T06:53:26+00:00,1199167902,1199162761,0,Meters,Dodge,Undid revision 1199162761 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-02-02T09:16:07+00:00,1202239037,1199167902,0,Billjones94,Dodge,
+2024-04-04T05:44:02+00:00,1217161645,1199167024,0,Citation bot,DOK-ING,"Add: date, title. Changed bare reference to CS1/2. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Robotics companies]] | #UCB_Category 8/34"
+2024-02-04T07:16:55+00:00,1203128900,1203118687,0,AnomieBOT,Draft:Azem Hajdini,[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Draftshell}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.
+2023-12-23T09:14:34+00:00,1191401095,1191399502,0,Theroadislong,Draft:Azem Hajdini,Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines ([[WP:AFCH|AFCH]])
+2024-01-27T09:52:01+00:00,1199549681,1199548976,0,ILVANIK,Draft:Azem Hajdini,/* Career */Fixed typo
+2024-01-03T08:32:26+00:00,1193336789,1193336767,0,DreamRimmer,Draft:Azem Hajdini,Fixing categories per [[WP:DRAFTNOCAT]] (using [[user:DreamRimmer/DraftNoCat.js|DNC]])
+2024-01-08T09:21:44+00:00,1194309511,1191554803,0,Citation bot,Draft:David Kozak,"Add: website, date, title. Changed bare reference to CS1/2. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Dogloverr16 | #UCB_toolbar"
+2023-12-24T07:32:43+00:00,1191554803,1191553861,0,Lopifalko,Draft:David Kozak,Rejecting submission: e - Topic is contrary to the purpose of Wikipedia ([[WP:AFCH|AFCH]])
+2024-01-26T07:02:54+00:00,1199169138,1199162025,0,Meters,Fiat,Undid revision 1199162025 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-04-05T03:59:28+00:00,1217321501,1212863750,0,105.235.135.109,Fiat,/* European Cars of the Year */
+2024-01-14T16:54:29+00:00,1195626226,1194238653,0,Maxeto0910,Ford Motor Company,
+2024-02-12T20:06:15+00:00,1206666723,1206458334,0,Davemck,Ford Motor Company,Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]; fix ref error
+2024-01-26T06:46:34+00:00,1199166985,1199164204,0,Meters,Gillet,Undid revision 1199164204 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]]) no such cat
+2024-03-20T04:05:16+00:00,1214630319,1214630271,0,Steel1943,Hyundai Motor Company,remove unnecessary line break
+2024-04-02T08:01:41+00:00,1216838262,1216838136,0,Stepho-wrs,Holden,/* External links */ Restored category - typo?
+2024-01-22T13:54:21+00:00,1197936046,1197935692,0,HoldenFan1104,Holden,
+2024-03-27T15:34:55+00:00,1215861028,1215858709,0,Smalljim,Honda,Reverted edit by [[Special:Contribs/41.246.31.56|41.246.31.56]] ([[User talk:41.246.31.56|talk]]) to last version by Mr.choppers
+2024-01-26T06:57:05+00:00,1199168365,1199162514,0,Meters,Honda,Undid revision 1199162514 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-02-03T01:25:21+00:00,1202560649,1199167735,0,Goodreg3,Jaguar Cars,UK automotive industry
+2023-12-16T03:38:17+00:00,1190133231,1187179516,0,Besselfunctions,Jeep,/* Current models */ removed Cherokee as is not current
+2024-02-24T00:35:23+00:00,1209885602,1209626964,0,Besselfunctions,Jeep,updated leadership
+2024-01-26T06:55:48+00:00,1199168205,1199162681,0,Meters,KG Mobility,Undid revision 1199162681 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-01-31T02:20:18+00:00,1201170519,1200519146,0,Gasiseda,Kia,
+2024-04-16T17:11:00+00:00,1219256176,1218088837,0,73.246.14.220,KG Mobility,grammatical changes
+2024-03-24T02:40:37+00:00,1215269824,1215025307,0,Maciej Mucharski,Kia,/* Sports teams */
+2024-01-26T06:53:38+00:00,1199167927,1199162742,0,Meters,Lada,Undid revision 1199162742 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-04-10T21:26:58+00:00,1218293650,1218293540,0,82.58.119.212,Lancia,/* 2021–present - Relaunch under Stellantis */
+2024-03-08T05:46:46+00:00,1212504421,1212051449,0,Citation bot,Lincoln Motor Company,Altered url. URLs might have been anonymized. Add: authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Jay8g | Linked from User:Jay8g/sandbox | #UCB_webform_linked 75/2764
+2024-03-27T14:56:47+00:00,1215856377,1215696333,0,Alon Alush,Lancia,v2.05b - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-06T18:20:55+00:00,1217585285,1217584618,0,Hohum,Land Rover,/* Global and regional unit sales */
+2024-01-26T06:52:23+00:00,1199167758,1199162790,0,Meters,Land Rover,Undid revision 1199162790 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-04-07T06:25:55+00:00,1217676303,1217620623,0,Andra Febrian,MG cars,
+2024-01-26T06:50:48+00:00,1199167524,1199162929,0,Meters,Mahindra & Mahindra,Undid revision 1199162929 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-02-05T22:35:31+00:00,1203903658,1202225775,0,2404:4408:8A41:4400:7986:8B75:158D:C493,Mahindra & Mahindra,/* History */
+2024-01-12T03:40:33+00:00,1195060178,1194310176,0,Aldis90,Lotus Cars,Undid revision 1191434285 by [[Special:Contributions/2409:4060:30C:B7C2:0:0:270F:78A4|2409:4060:30C:B7C2:0:0:270F:78A4]] ([[User talk:2409:4060:30C:B7C2:0:0:270F:78A4|talk]])
+2024-01-26T06:51:22+00:00,1199167623,1199162831,0,Meters,MG cars,Undid revision 1199162831 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-03-18T01:00:21+00:00,1214284099,1209979401,0,Chimou52,Luxgen,
+2024-03-20T16:56:47+00:00,1214704262,1214653071,0,Mr.choppers,Lotus Cars,Undid revision [[Special:Diff/1214653071|1214653071]] by [[Special:Contributions/2600:1700:4006:B000:28A8:9943:11DD:7441|2600:1700:4006:B000:28A8:9943:11DD:7441]] ([[User talk:2600:1700:4006:B000:28A8:9943:11DD:7441|talk]]) needless
+2023-11-18T11:05:50+00:00,1185687439,1185686287,0,Krakkos,Luxgen,Reverted edit by [[Special:Contribs/2402:7500:942:2044:0:0:788C:6E6E|2402:7500:942:2044:0:0:788C:6E6E]] ([[User talk:2402:7500:942:2044:0:0:788C:6E6E|talk]]) to last version by Iwavns
+2023-07-24T17:17:48+00:00,1166931200,1134423251,0,Xterra1,Mastretta,"/* Mastretta MXT */ The web address goes to a bunch of AI-generated BS, talking about Mastretta being an Italian make and not a Mexican one, among other obvious giveaways."
+2024-02-24T14:04:05+00:00,1209995685,1209293053,0,Ybsone,Mazda,/* External links */ template
+2024-01-26T06:56:43+00:00,1199168315,1199162559,0,Meters,Mazda,Undid revision 1199162559 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-01-27T20:14:44+00:00,1199721141,1199167486,0,CursedWithTheAbilityToDoTheMath,Mastretta,v2.05b - WP Cleaner - Fix errors for [[WP:WCW|CW project]] (Category duplication)
+2024-02-15T16:24:21+00:00,1207746234,1206351767,0,Transport 2005,Mercedes-Benz,
+2024-03-08T18:29:15+00:00,1212603909,1212603534,0,Progüvo06,Mercedes-Benz,
+2024-03-25T22:36:39+00:00,1215568383,1215558484,0,2402:7500:917:5A59:0:0:38ED:F55A,Mitsubishi Motors,
+2024-01-08T00:09:10+00:00,1194241742,1190080803,0,BD2412,Mitsuoka,"/* top */Clean up spacing errors around commas, replaced: ,Ltd → , Ltd"
+2024-03-14T22:42:09+00:00,1213751525,1213691054,0,Stepho-wrs,Nissan,Revert suspicious year change. https://www.nissan-global.com/EN/COMPANY/PROFILE/HERITAGE/HISTORY/ says 1926.
+2024-03-02T02:07:09+00:00,1211346029,1205061169,0,"No coffee, please.",Mitsubishi Motors,/* Electric vehicles */
+2024-04-10T00:45:08+00:00,1218146696,1218146373,0,TKOIII,Mitsuoka,/* Past vehicles */ organized past models list by year of introduction
+2024-04-09T09:38:44+00:00,1218032393,1217815161,0,Onel5969,Opel,Disambiguating links to [[Opel Frontera]] (link changed to [[Isuzu MU]]; link changed to [[Isuzu MU]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2024-02-21T20:29:58+00:00,1209413663,1204685475,0,71.38.91.147,Opel,"/* 1920–1939 */ A couple of punctuation corrections and deletion of ""alleged"". Although he may not have been convicted, he wouldn't have been imprisoned for ""alleged"" treason."
+2023-11-15T23:09:42+00:00,1185313242,1185311303,0,2001:8A0:74EC:6900:DC9E:D643:426B:DA90,Portaro,
+2023-12-19T11:18:36+00:00,1190709956,1189009713,0,Citation bot,Peugeot,Add: date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 2158/3849
+2024-03-17T17:59:36+00:00,1214228760,1214226021,0,AnomieBOT,Nissan,Dating maintenance tags: {{Fact}}
+2024-04-11T16:08:13+00:00,1218417002,1217901351,0,Thehornet,Porsche,/* U.S. sales */ 1Q2024 NA Sales results
+2024-02-05T15:23:28+00:00,1203775112,1199167258,0,31.131.36.12,Portaro,
+2023-12-22T19:52:34+00:00,1191313408,1189645413,0,OwenX,Renault,/* Founding and early years (1898–1918) */ fix per move
+2024-03-17T21:46:56+00:00,1214260424,1214249945,0,ForzaHexagone1993,Renault,/* Brands */
+2024-01-17T00:00:21+00:00,1196264453,1195165112,0,Citation bot,Porsche,Added date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Anas1712 | #UCB_webform 465/596
+2024-02-03T06:57:23+00:00,1202655860,1199168765,0,RegalZ8790,Peugeot,fix
+2024-02-27T02:38:13+00:00,1210532152,1202313694,0,Mr.choppers,Saab Automobile,/* General Motors and Investor AB (1989–2000) */
+2024-02-02T13:23:03+00:00,1202313694,1199813356,0,Mustang208,Saab Automobile,Updated and condensed NEVS segment. All deleted info is on the now linked NEVS main article.
+2024-01-14T16:55:36+00:00,1195626437,1186740928,0,Maxeto0910,Subaru,
+2024-01-26T06:56:15+00:00,1199168258,1199162616,0,Meters,Subaru,Undid revision 1199162616 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-01-26T06:56:28+00:00,1199168287,1199162590,0,Meters,Suzuki,Undid revision 1199162590 by [[Special:Contributions/ROBERTSHST|ROBERTSHST]] ([[User talk:ROBERTSHST|talk]])
+2024-01-09T11:08:58+00:00,1194519372,1193284694,0,Methialike,Tata Motors,
+2024-04-11T21:23:13+00:00,1218463883,1217469373,0,CoolieCoolster,Tata Motors,Removed extra space (url-status=dead  }} -> url-status=dead }}) (via [[WP:JWB]])
+2024-01-30T20:00:19+00:00,1201035673,1197613670,0,Entoni2,Tirana,/* Demography */ Second order oldest to modern temple.
+2024-01-26T06:45:51+00:00,1199166906,1199164422,0,Meters,Troller Veículos Especiais,/* External links */ partical undo
+2024-01-16T04:26:07+00:00,1196045567,1194898826,0,Maxeto0910,Suzuki,
+2024-03-29T00:38:51+00:00,1216094256,1216069707,0,Stepho-wrs,Toyota,Revert good faith edit. The hybrid vehicles could use almost any modern engine - the T24A engine is not special (although it is tuned for the application). The airbag recall is better handled in it's main article instead of in this summary article.
+2023-12-31T16:28:06+00:00,1192837555,1192800867,0,Aviram7,User talk:DreamRimmer,/* Happy New Year 2024!🥳 */ new section
+2024-02-12T09:39:04+00:00,1206505364,1205332284,0,Stepho-wrs,Toyota,"/* Battery electric vehicles */ removed duplicate ""only a small""."
+2024-03-30T20:11:32+00:00,1216404280,1216332731,0,Lowercase sigmabot III,User talk:DreamRimmer,Archiving 3 discussion(s) to [[User talk:DreamRimmer/Archive 9]]) (bot
+2024-03-28T21:00:11+00:00,1216067696,1216058203,0,TolBot,User talk:DreamRimmer,"[[m:User:TolBot/Task 9|Task 9]]: notify of new ""[[Wikipedia:Administrators without tools|administrator without tools]]"""
+2024-03-10T19:51:38+00:00,1213031108,1212925102,0,Lowercase sigmabot III,User talk:DreamRimmer,Archiving 3 discussion(s) to [[User talk:DreamRimmer/Archive 8]]) (bot
+2024-04-02T03:33:49+00:00,1216814990,1216723693,0,MediaWiki message delivery,User talk:DreamRimmer,/* Tech News: 2024-14 */ new section
+2024-02-09T21:00:38+00:00,1205515389,1205125935,0,TolBot,User talk:DreamRimmer,"[[m:User:TolBot/Task 9|Task 9]]: notify of new ""[[Wikipedia:Administrators without tools|administrator without tools]]"""
+2024-01-08T04:15:15+00:00,1194275667,1194274596,0,Mustafdesam,User talk:DreamRimmer,/* Review */ reply
+2024-01-03T16:36:45+00:00,1193394364,1193381732,0,Clovermoss,User talk:DreamRimmer,/* Editor experience invitation */ new section
+2024-02-08T23:02:43+00:00,1205125935,1205117921,0,Hey man im josh,User talk:DreamRimmer,NPP backlog drive award (streak)
+2024-01-10T19:55:13+00:00,1194796772,1194740462,0,Lowercase sigmabot III,User talk:DreamRimmer,Archiving 3 discussion(s) to [[User talk:DreamRimmer/Archive 6]]) (bot
+2023-11-28T00:47:56+00:00,1187217912,1174469029,0,MediaWiki message delivery,User talk:JaventheAlderick,/* ArbCom 2023 Elections voter message */ new section
+2024-02-03T11:53:20+00:00,1202744977,1202544471,0,Lades2222,User talk:Lades2222,/* February 2024 */
+2024-01-17T23:57:05+00:00,1196601852,1196598304,0,Ponyo,User talk:Lades2222,/* Hi! */ reply
+2024-04-25T00:50:06+00:00,1220641188,1220640579,0,Lades2222,User talk:Lades2222,/* I accept. */ Reply
+2024-03-04T07:08:27+00:00,1211752945,1211430926,0,Thearones,User talk:Lades2222,/* Renaming of the Visa requirements for German citizens and Visa requirements for French citizens articles */ Reply
+2024-03-25T06:20:59+00:00,1215453746,1215452211,0,Jankwi,User talk:Lades2222,/* Visa policy of Albania */ new section
+2024-02-11T08:54:43+00:00,1206144485,1206144404,0,Lades2222,User talk:Lades2222,/* Negotiation on mutual reconciliation */ Sorry.
+2024-04-11T12:06:31+00:00,1218384336,1218383419,0,Lades2222,User talk:Lades2222,/* Visa requirements for Croatian citizens map update */ Reply
+2023-12-24T13:29:21+00:00,1191594303,1191594108,0,Lades2222,User talk:Lades2222,/* Visa policy of Russia */
+2024-03-04T08:15:46+00:00,1211760075,1211758108,0,Lades2222,User talk:Lades2222,/* Renaming of the Visa requirements for German citizens and Visa requirements for French citizens articles */ Reply
+2024-01-06T17:38:19+00:00,1193993095,1193992926,0,Lades2222,User talk:Lades2222,/* Visa requirements for Kosovar citizens */
+2024-01-02T16:25:06+00:00,1193206619,1193206308,0,2607:FEA8:BADF:6DB0:B893:1C49:9642:E5A5,User talk:Lades2222,/* the visa requirement of Turks and Caicos Islands */ correction
+2024-03-23T00:04:03+00:00,1215082237,1215081287,0,Lades2222,User talk:Lades2222,/* Hello. */ Reply
+2024-01-09T08:42:24+00:00,1194503668,1193993095,0,FranéRogoz,User talk:Lades2222,/* Visa requirements for Kosovar citizens */
+2024-03-31T16:34:04+00:00,1216541714,1216541672,0,Lades2222,User talk:Lades2222,/* March 2024 */
+2024-02-18T22:04:50+00:00,1208775729,1208753567,0,ЖуковАФ,User talk:Lades2222,/* Updates for visa policy maps */
+2024-02-24T17:41:33+00:00,1210032577,1210032188,0,Lades2222,User talk:Lades2222,/* Update the visa requirements map for Albania */ Reply
+2024-03-07T03:33:02+00:00,1212298763,1212298665,0,ToBeFree,User talk:Lades2222,Warning: Edit warring on [[:Visa requirements for Paraguayan citizens]].
+2024-03-23T07:35:51+00:00,1215126171,1215125262,0,Lades2222,User talk:Lades2222,/* Update Libya in green color in Visa requirements map for Albanian citizens */ Reply
+2024-03-09T02:48:50+00:00,1212686568,1212253423,0,ClueBot III,User talk:Northern Moonlight,Archiving 1 discussion to [[User talk:Northern Moonlight/Archives/2024/March]]. (BOT)
+2024-03-14T22:28:54+00:00,1213749695,1213729913,0,Lades2222,User talk:Lades2222,/* Update some maps with color in visa requirements article */
+2024-01-14T12:32:46+00:00,1195580746,1195580658,0,Lades2222,User talk:Lades2222,/* Hi…. */
+2024-03-14T09:38:40+00:00,1213653567,1213648603,0,Lades2222,User talk:Lades2222,
+2023-11-03T02:59:58+00:00,1183249254,1183191029,0,Keeteria,User talk:柏尾菓子,removed vandal
+2024-04-05T02:27:33+00:00,1217312152,1216699724,0,Nvabl,VinFast,/* Battery electric automobiles */
+2023-12-15T19:42:57+00:00,1190071711,1170731104,0,Oppsopkc,Visa policy of Maldives,Added Pakistan in list of free visa
+2024-02-17T01:09:02+00:00,1208306168,1202438260,0,RAGentry,Visa policy of Sudan,/* Visa policy map */ Adding vector map
+2024-04-24T22:10:08+00:00,1220619139,1220547828,0,Brizton,Visa requirements for Albanian citizens,"The information is not correct. Because to go to the Maldives, Albanian diplomatic and service passports need visas. And vice versa, diplomatic and service passports of the Maldives require an entry visa for Albania."
+2024-02-02T21:17:28+00:00,1202473730,1201050275,0,Northern Moonlight,Visa policy of Yemen,MOS:NOICONS
+2024-04-07T02:08:14+00:00,1217648693,1217602141,0,Eejit43,Visa policy of Yemen,"Undid revision 1217602141 by [[Special:Contributions/Jonipiri|Jonipiri]] ([[User talk:Jonipiri|talk]]): This should be added to the talk page, not here"
+2023-12-27T00:43:15+00:00,1191991617,1191991584,0,Fridma99,Visa policy of Sudan,Correction
+2024-01-14T10:43:56+00:00,1195565195,1195154507,0,92.115.107.54,Visa policy of Maldives,/* Future changes */
+2024-01-10T16:43:34+00:00,1194763258,1194756280,0,IREXIA,Visa requirements for Albanian citizens,/* Recent */Added content
+2024-04-18T13:03:18+00:00,1219553802,1219148447,0,Lades2222,Visa requirements for Albanian citizens,/* Visa requirements */ Sri Lanka
+2024-03-07T12:31:10+00:00,1212355119,1212215428,0,Lades2222,Visa requirements for Albanian citizens,Edit.
+2024-03-02T04:02:28+00:00,1211361143,1211283740,0,Lades2222,Visa requirements for Albanian citizens,
+2024-03-03T03:07:48+00:00,1211544811,1211518925,0,Lades2222,Visa requirements for Albanian citizens,"An agreement has been signed between the two countries, but it has not yet come into effect."
+2024-02-12T15:16:36+00:00,1206583280,1204630377,0,Brizton,Visa requirements for Albanian citizens,
+2024-02-16T23:39:56+00:00,1208281247,1208092757,0,Lades2222,Visa requirements for Albanian citizens,123 - First of all.. i'll follow what is written on the website.
+2024-01-30T07:42:01+00:00,1200791643,1200790968,0,ILVANIK,Visa requirements for Albanian citizens,/* Visa requirements */Fixed typo
+2023-12-21T15:07:23+00:00,1191097343,1191092914,0,87.255.77.50,Visa requirements for Albanian citizens,/* Visa requirements */Correction
+2024-01-31T21:44:24+00:00,1201539899,1201305718,0,Brizton,Visa requirements for Albanian citizens,
+2024-02-07T13:58:42+00:00,1204630377,1204627050,0,Lades2222,Visa requirements for Albanian citizens,
+2024-02-24T17:59:30+00:00,1210035382,1208281247,0,Lades2222,Visa requirements for Albanian citizens,/* Visa requirements */
+2024-01-14T08:49:18+00:00,1195549579,1194763258,0,Lades2222,Visa requirements for Albanian citizens,"/* Visa requirements */ Kenya, Madagascar, Seychelles, Zimbabwe"
+2024-03-01T13:10:51+00:00,1211223967,1211223851,0,188.253.231.238,Visa requirements for Albanian citizens,/* Recent */
+2024-03-31T11:37:34+00:00,1216506897,1215253541,0,Lades2222,Visa requirements for Albanian citizens,"/* Visa requirements */ BG, RO"
+2024-01-26T13:02:44+00:00,1199216317,1195549579,0,Lades2222,Visa requirements for Albanian citizens,/* Visa requirements */ Bolivia
+2024-03-21T16:05:35+00:00,1214853257,1214492996,0,2A02:9B0:12:EAF:54A0:FEB4:F902:BC5C,Visa requirements for Bahraini citizens,
+2024-01-11T21:21:40+00:00,1195004367,1193809764,0,37.131.106.41,Visa requirements for Bahraini citizens,
+2024-01-22T11:13:19+00:00,1197911115,1191810784,0,Whisper of the heart,Visa requirements for Bhutanese citizens,/* Visa requirements map */
+2024-03-31T10:29:42+00:00,1216497693,1216431329,0,Lades2222,Visa requirements for Bosnia and Herzegovina citizens,
+2024-01-14T08:33:54+00:00,1195547526,1195547115,0,Lades2222,Visa requirements for Montenegrin citizens,/* Visa requirements */
+2023-12-22T16:46:44+00:00,1191288253,1189355232,0,Boja02,Visa requirements for Serbian citizens,/* Future */
+2024-01-05T20:26:23+00:00,1193817816,1193816564,0,TylerBurden,Volvo Cars,Rv another addition of repeat content
+2024-03-23T06:30:44+00:00,1215120460,1214348115,0,Lades2222,Visa requirements for Bosnia and Herzegovina citizens,/* Visa requirements */ Libya
+2024-01-23T07:04:32+00:00,1198168313,1196894707,0,2001:8F8:1335:1DE4:F4:5F50:45C3:77A8,Visa requirements for citizens of North Macedonia,
+2024-04-05T03:54:32+00:00,1217321046,1215455511,0,Tombridge1,Volkswagen,
+2024-01-28T01:33:27+00:00,1199813985,1199739097,0,WikiCleanerBot,Volkswagen,v2.05b - [[User:WikiCleanerBot#T5|Bot T5 CW#17]] - Fix errors for [[WP:WCW|CW project]] (Category duplication)
+2024-01-23T07:02:54+00:00,1198168113,1196113076,0,86.98.183.57,Visa requirements for Montenegrin citizens,
+2024-01-18T20:26:24+00:00,1196894707,1195546523,0,86.32.97.83,Visa requirements for citizens of North Macedonia,/* Visa requirements */Corrected the addictive is wrong
+2024-01-26T06:41:59+00:00,1199166424,1199166387,0,Meters,Wallyscar,/* External links */ no such cat
+2023-12-01T20:01:14+00:00,1187845450,1187842650,0,Hajer-12,Wallyscar,
+2024-02-11T08:03:10+00:00,1206130186,1204795920,0,Northern Moonlight,Visa requirements for Serbian citizens,rm br
+2023-12-21T17:58:59+00:00,1191129571,1171975475,0,Altematia,Xhensila Myrtezaj,Minor edit
+2024-01-26T06:52:49+00:00,1199167822,1199162777,0,Meters,Zenvo Automotive,/* External links */ no such cats
+2023-12-31T11:49:20+00:00,1192804368,1192803957,0,36.235.244.98,Alfa Romeo,/* Current models */
+2023-11-11T17:39:56+00:00,1184633064,1184632952,0,Discospinster,BMW,Reverted edits by [[Special:Contributions/2001:D08:183A:30F0:6100:765:54DA:3FA|2001:D08:183A:30F0:6100:765:54DA:3FA]] ([[User talk:2001:D08:183A:30F0:6100:765:54DA:3FA|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2023-10-28T15:40:57+00:00,1182319475,1174324816,0,Zyxw,Bes Kallaku,update existing link to use template
+2023-11-26T04:52:28+00:00,1186897525,1186897402,0,Edward Bednar,Alfa Romeo,MOS:LISTDASH
+2023-07-13T03:23:06+00:00,1165120083,1164416115,0,2601:42:900:DAC0:A59C:698C:7987:E2B5,Bes Kallaku,
+2023-11-10T19:19:11+00:00,1184491532,1184213907,0,Abhiramakella,BMW,
+2023-12-08T00:12:00+00:00,1188835613,1186848774,0,Nardog,Audi,[[WP:PRON]] - respell is for English only
+2023-12-04T04:57:32+00:00,1188244529,1186897525,0,Ciphergoth,Alfa Romeo,Put current status in lede; the history is too long to tell there and told in the history section.
+2023-11-29T19:50:41+00:00,1187520495,1187134416,0,WikiPate,BMW,"/* Finances */ remove outdated, which is stated in the table. readability. update+refs"
+2023-08-07T12:02:10+00:00,1169158615,1168455239,0,यूनिकॉर्न चार्ज करना,BMW,
+2024-01-11T08:41:10+00:00,1194897463,1193517508,0,LP0045,Alfa Romeo,
+2024-02-24T16:50:46+00:00,1210024124,1209181452,0,Carfan568,Audi,/* Audi e-tron */ Copyedit
+2023-09-30T00:10:07+00:00,1177849223,1175582033,0,Srich32977,Audi,"highbeam is defunct  ""via"" not helpful"
+2024-03-02T22:30:43+00:00,1211503653,1208554613,0,InternetArchiveBot,Chevrolet,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.9.5
+2023-09-02T15:20:09+00:00,1173457828,1172896115,0,RickyCourtney,Buick,"/* North America */My bad, Envision hasn’t been discontinued"
+2023-08-14T19:29:35+00:00,1170387534,1170121061,0,Antares600,Cadillac,/* Models */Added to upcoming models
+2024-01-14T12:18:37+00:00,1195578536,1195578414,0,36.235.243.223,Buick,
+2023-11-07T17:11:48+00:00,1183981660,1182553311,0,InternetArchiveBot,Cadillac,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5
+2024-02-16T22:04:23+00:00,1208251046,1205568639,0,WikiAAT,Cadillac,/* Motorsports */
+2023-11-27T15:55:08+00:00,1187116679,1185216644,0,Apmh,Chevrolet,
+2023-11-15T08:53:18+00:00,1185216644,1185216576,0,MorganDWright,Chevrolet,/* History */ a company is a which not a who
+2023-08-11T17:11:29+00:00,1169846912,1168761625,0,Airbus A350-100BOI,Chevrolet,
+2024-02-12T22:27:18+00:00,1206707251,1206704221,0,2001:999:509:464D:704E:8D26:AEAD:DA69,Citroën,
+2024-01-19T06:47:50+00:00,1197070560,1194456905,0,Hmlp023,Citroën,
+2023-09-29T11:29:36+00:00,1177756988,1177756095,0,2A05:4F46:427:EF00:4C8:7B5:CA02:C662,DOK-ING,
+2023-09-23T17:48:51+00:00,1176736468,1171772749,0,Ost316,DKW,"[[WP:AWB]] [[WP:CHECKWIKI]]  16/90/91 cleanup, et. al., replaced: ~ 2 → ≈2 (8)"
+2024-02-06T02:28:43+00:00,1203962411,1202239037,0,InternetArchiveBot,Dodge,Rescuing 3 sources and tagging 0 as dead.) #IABot (v2.0.9.5
+2023-09-26T17:09:01+00:00,1177202765,1177202051,0,Bahooka,Dodge,Reverted edit by [[Special:Contribs/98.185.68.163|98.185.68.163]] ([[User talk:98.185.68.163|talk]]) to last version by Wesoree
+2024-03-24T14:47:36+00:00,1215338045,1213432474,0,Jstoker421,Dodge,bad link
+2023-07-26T13:09:49+00:00,1167223204,1167222428,0,190.152.200.82,DOK-ING,| [[Ecuador Army]] || 31 MV-4s + 31attachments
+2024-03-09T22:49:41+00:00,1212863750,1199169138,0,Bau98,Fiat,
+2023-10-23T21:00:21+00:00,1181565565,1181170778,0,Dave-okanagan,Fiat,fix ref29 url & title/exp archive 42 fix cite/info relation
+2023-12-20T12:05:31+00:00,1190885941,1190885915,0,Jacona,Fiat,Reverted edit by [[Special:Contribs/2001:9E8:60A:2A00:614C:B763:F5D8:3EE0|2001:9E8:60A:2A00:614C:B763:F5D8:3EE0]] ([[User talk:2001:9E8:60A:2A00:614C:B763:F5D8:3EE0|talk]]) to last version by HeyElliott
+2024-04-04T10:37:54+00:00,1217190705,1215702517,0,Masatami,Gillet,/* Company background and design of the Vertigo */ merging paragraphs with the same information + different wording
+2023-11-25T08:55:23+00:00,1186762666,1186551899,0,49.186.230.236,Holden,/* 1960s */
+2023-10-12T19:57:18+00:00,1179840501,1179839464,0,Macaddct1984,Honda,Reverted edit by [[Special:Contribs/47.155.246.5|47.155.246.5]] ([[User talk:47.155.246.5|talk]]) to last version by Alpha200807
+2023-09-02T07:52:45+00:00,1173414574,1173412311,0,RidwanZatmiko,Honda,/* top */
+2023-09-29T03:22:55+00:00,1177712956,1177661632,0,HeyElliott,Honda,[[MOS:ALLCAPS]]
+2023-12-09T01:49:19+00:00,1189003277,1188527894,0,Axl7Rose,Honda,Fixed info
+2024-02-28T07:53:14+00:00,1210773409,1210026133,0,Renamed user 1oj3saabam,Hyundai Motor Company,"Korean reference formatting, replaced: publisher=JoongAng Ilbo → publisher=[[JoongAng Ilbo]], work=The Korea Economic Daily → work=[[The Korea Economic Daily]], work=koreajoongangdaily | → work=[[Korea JoongAng Daily]] |, work=Yonhap News Agen"
+2023-12-15T23:34:43+00:00,1190102164,1188121522,0,ChrisTakey,Hyundai Motor Company,Better clarity
+2023-07-10T03:09:05+00:00,1164616720,1155110677,0,Wow,Jaguar Cars,/* Tata Motors era */ rm
+2024-03-29T13:23:00+00:00,1216163256,1215778719,0,117PXL,Jaguar Cars,Added sports car on intro to differentiate from solely luxury brands
+2023-08-26T23:59:44+00:00,1172420485,1169268001,0,Persent101,KG Mobility,/* KG Mobility (2023–present) */ Tagged link as permanently dead
+2023-11-05T00:23:03+00:00,1183548261,1183547793,0,DocWatson42,Jeep,/* External links */Performed minor cleanup.
+2023-12-16T14:32:55+00:00,1190199720,1189193138,0,Ally2580,KG Mobility,/* External links */ kospi 200
+2023-11-04T14:19:34+00:00,1183467306,1183467063,0,Alexander-93,KG Mobility,/* Current model lineup */ FL
+2023-08-22T14:49:40+00:00,1171665862,1171450973,0,Guyrichtheman,Kia,
+2023-08-06T22:19:17+00:00,1169073573,1166929569,0,186.125.47.157,Kia,/* History */
+2024-02-07T16:55:06+00:00,1204662413,1204005421,0,58.77.189.35,KG Mobility,/* Current model lineup */
+2023-09-19T08:59:02+00:00,1176075375,1176075361,0,ClueBot NG,Lada,"Reverting possible vandalism by [[Special:Contribs/Wikirizzler|Wikirizzler]] to version by Urbanoc. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4269509) (Bot)"
+2024-03-18T09:50:00+00:00,1214337126,1214287399,0,Bruce1ee,Lancia,fixed [[Special:LintErrors|lint errors]] – file options
+2023-12-28T17:34:35+00:00,1192301923,1185581342,0,IronGargoyle,Lancia,Undid revision 1168668155 by [[Special:Contributions/Filedelinkerbot|Filedelinkerbot]] ([[User talk:Filedelinkerbot|talk]]) image restored locally
+2023-08-29T14:35:06+00:00,1172820531,1172798861,0,DeFacto,Land Rover,Undid revision 1172798861 by [[Special:Contributions/Lgva071|Lgva071]] ([[User talk:Lgva071|talk]]) - it is both as seen in the article
+2023-08-04T06:56:23+00:00,1168668155,1165373638,0,Filedelinkerbot,Lancia,Bot: Removing [[Commons:File:Grattacielo uffici Lancia.JPG]] ([[:File:Grattacielo uffici Lancia.JPG|en]]). It was deleted on Commons by [[:Commons:User:Krd|Krd]] (per [[Commons:Commons:Deletion requests/Files in Category:Grattacielo Lancia]]).
+2023-07-29T02:25:41+00:00,1167652978,1167652957,0,HMSLavender,Lincoln Motor Company,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/112.206.0.23|112.206.0.23]] ([[User talk:112.206.0.23|talk]]) to last revision by Sable232: nonconstructive edits
+2024-04-13T18:59:18+00:00,1218769891,1218769845,0,Sakuav,Lotus Cars,
+2023-07-26T18:56:37+00:00,1167267542,1167267508,0,Alexander-93,Lotus Cars,/* Lotus car models */
+2023-10-22T21:34:38+00:00,1181410205,1180167388,0,HeyElliott,Lotus Cars,ce
+2023-08-18T16:51:10+00:00,1171033743,1168463246,0,AIMHO'S REBELLION 8490s,Luxgen,
+2023-08-02T22:15:56+00:00,1168463246,1161102690,0,2804:14C:B52B:8244:98D3:B387:5A3B:F141,Luxgen,
+2024-04-09T01:29:06+00:00,1217979386,1217979215,0,124.168.238.92,Luxgen,/* See also */
+2023-09-02T04:26:50+00:00,1173395617,1173099085,0,AIMHO'S REBELLION 8490s,MG cars,/* Under MG Motor */
+2023-08-07T16:16:20+00:00,1169187836,1169157653,0,Bruce1ee,Mahindra & Mahindra,fixed [[Special:LintErrors|lint errors]] – stripped tags
+2023-07-25T01:57:38+00:00,1166993600,1166371490,0,2405:9800:BC10:3A42:4078:2A75:8BD2:4A61,Mahindra & Mahindra,/* Current models */
+2024-03-23T03:21:07+00:00,1215104980,1214905636,0,114.198.18.167,Mahindra & Mahindra,/* Electric vehicles */
+2023-09-12T04:05:00+00:00,1175002579,1175002510,0,Tollens,Mazda,/* Bio-car */ typos
+2023-10-19T16:46:48+00:00,1180914050,1180913972,0,Bojo1498,Mercedes-Benz,Reverting edit(s) by [[Special:Contributions/62.217.185.112|62.217.185.112]] ([[User_talk:62.217.185.112|talk]]) to rev. 1178873475 by Crafting8921: Test edits ([[w:en:WP:UV|UV 0.1.5]])
+2023-11-02T12:57:59+00:00,1183142993,1182592520,0,Achmad Rachmani,Mazda,/* top */ Archives
+2023-12-15T14:02:08+00:00,1190026542,1190026513,0,Jacona,Mercedes-Benz,Reverted edits by [[Special:Contributions/2A00:F29:228:9C32:4095:78BA:56C2:AFA6|2A00:F29:228:9C32:4095:78BA:56C2:AFA6]] ([[User talk:2A00:F29:228:9C32:4095:78BA:56C2:AFA6|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2023-09-25T04:34:58+00:00,1176977659,1176557423,0,QuattrostagioniIV,Mercedes-Benz,/* Models */Rewrite section
+2024-04-15T22:47:34+00:00,1219128299,1218463092,0,RingoSB,Mazda,/* Sponsorships */
+2024-03-29T23:32:21+00:00,1216249826,1214394542,0,RMCD bot,Mercedes-Benz,Notifying subject page of move discussion on [[Talk:Mercedes-Benz#Requested move 29 March 2024|Talk:Mercedes-Benz]]
+2024-02-08T19:24:39+00:00,1205061169,1205025276,0,MPFitz1968,Mitsubishi Motors,Reverted 1 edit by [[Special:Contributions/2806:263:C485:8143:4E0:450:64C1:CB73|2806:263:C485:8143:4E0:450:64C1:CB73]] ([[User talk:2806:263:C485:8143:4E0:450:64C1:CB73|talk]]) to last revision by 110.138.81.207
+2023-08-15T17:51:37+00:00,1170543783,1170543740,0,Adakiko,Mitsubishi Motors,Reverted edits by [[Special:Contributions/49.149.128.43|49.149.128.43]] ([[User talk:49.149.128.43|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2023-09-10T03:54:19+00:00,1174702156,1173148272,0,RidwanZatmiko,Mitsubishi Motors,/* External links */
+2023-10-03T22:40:32+00:00,1178478182,1178478091,0,Discospinster,Nissan,Reverted edits by [[Special:Contributions/79.117.89.230|79.117.89.230]] ([[User talk:79.117.89.230|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2024-01-22T01:13:01+00:00,1197810313,1195232399,0,HeyElliott,Nissan,"Redundant, added archives, ce"
+2024-01-12T22:36:57+00:00,1195232399,1195118027,0,Vt320,Nissan,revert vandalism
+2024-02-26T13:59:35+00:00,1210411852,1210411487,0,Infragilis2000,Nissan,
+2023-10-28T13:36:09+00:00,1182304485,1182300613,0,Renamed user g5s6n3yi8z7g08cs,Peugeot,Reverted 1 edit by [[Special:Contributions/2001:8F8:1A3F:2337:AC64:B56:D15E:466E|2001:8F8:1A3F:2337:AC64:B56:D15E:466E]] ([[User talk:2001:8F8:1A3F:2337:AC64:B56:D15E:466E|talk]]) to last revision by Blairall
+2023-08-14T18:43:58+00:00,1170381485,1170332060,0,InternetArchiveBot,Opel,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 14545
+2023-11-26T23:35:06+00:00,1187020090,1185089742,0,Kind Tennis Fan,Peugeot,[[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]]
+2023-09-28T13:57:27+00:00,1177616576,1177543855,0,InternetArchiveBot,Porsche,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:AManWithNoPlan|AManWithNoPlan]] - 15322
+2023-08-23T13:29:27+00:00,1171838047,1171837746,0,THEunique,Porsche,/* Production composition */
+2023-12-17T03:11:50+00:00,1190299819,1190141790,0,Gehzumteufel,Porsche,/* See also */
+2023-06-30T11:41:03+00:00,1162653238,1162653097,0,Toweli,Portaro,
+2023-11-25T22:00:15+00:00,1186849678,1186849611,0,Edward Bednar,Saab Automobile,MOS:DATERANGE
+2023-10-15T07:06:06+00:00,1180221703,1180131350,0,Redrose64,Renault,/* Postwar resurgence (1945–1971) */ the R8 was also rear-engined
+2024-02-15T21:20:58+00:00,1207837231,1207773086,0,Ira Leviton,Renault,Fixed a reference.  Please see [[Category:CS1 errors: dates]].
+2024-02-19T11:58:12+00:00,1208899350,1208033160,0,2001:EE0:4BCA:7020:9496:F804:F0D4:C864,Subaru,Added minor content.
+2023-08-15T12:21:16+00:00,1170501449,1170497981,0,Urbanoc,Renault,Undid revision 1170497981 by [[Special:Contributions/Blojserban17|Blojserban17]] ([[User talk:Blojserban17|talk]]) - rv per [[MOS:OVERLINK]]
+2023-11-25T04:57:20+00:00,1186740928,1177865242,0,73.230.19.37,Subaru,Worded more accurately this way.
+2023-12-01T10:49:05+00:00,1187783541,1181281835,0,Kind Tennis Fan,Suzuki,[[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]]
+2023-10-22T02:01:50+00:00,1181281835,1180877016,0,Loriendrew,Suzuki,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Kamil Hasenfeller|Kamil Hasenfeller]] ([[User talk:Kamil Hasenfeller|talk]]): Use talk page for improvement discussions
+2023-07-24T03:32:25+00:00,1166845658,1163968405,0,186.155.74.214,Suzuki,/* 2016–present */
+2024-02-03T19:10:58+00:00,1202888071,1202529732,0,2001:8F8:1735:BCB6:BD0E:685:DB4E:62EC,Tata Motors,/* Current Models */ Punch EV is available in India
+2023-07-29T13:46:41+00:00,1167723327,1166242648,0,GünniX,Tata Motors,Heading with bold
+2024-03-11T15:33:39+00:00,1213188126,1212752220,0,GymratW,Tata Motors,
+2023-11-05T20:39:24+00:00,1183673127,1183339975,0,Bwusah,Tirana,
+2023-08-14T21:37:02+00:00,1170405089,1170216078,0,HeyElliott,Tirana,/* Geography */ [[MOS:OP-ED]]
+2023-12-01T12:01:36+00:00,1187789514,1187724489,0,Akasakamoto,Toyota,
+2024-01-29T17:16:10+00:00,1200507070,1199168409,0,Connorcp,Toyota,/* Safety-related misconduct by Daihatsu */ Added apology from Koji Sato
+2023-07-27T21:13:10+00:00,1167453022,1167452508,0,RickyCourtney,Toyota,Replaced [[Wikipedia:VisualEditor/Named references|VisualEditor reference names]] using [[User:Nardog/RefRenamer|RefRenamer]]
+2023-05-29T02:28:55+00:00,1157504844,1156377800,0,RJFJR,Troller Veículos Especiais,Filled in 1 bare reference(s) with reFill 2
+2024-01-05T14:12:22+00:00,1193762798,1193758887,0,Maliner,User talk:DreamRimmer,"/* There is a mop reserved in your name */Thanks DreamRimmer for solving that complicated case, you really deserve it."
+2023-12-14T08:49:08+00:00,1189832045,1189813417,0,Monhiroe,User talk:DreamRimmer,/* review */ Reply
+2023-08-16T16:57:38+00:00,1170697921,1170515420,0,Girth Summit,User talk:DreamRimmer,/* G5 */ new section
+2023-12-23T22:21:31+00:00,1191491826,1191450901,0,Joseywales1961,User talk:DreamRimmer,/* Happy Christmas */ new section
+2023-09-12T04:26:29+00:00,1175004359,1174959606,0,C1K98V,User talk:DreamRimmer,/* Bambaşka Biri */ new section
+2023-09-08T16:39:54+00:00,1174469029,1174383754,0,JaventheAlderick,User talk:JaventheAlderick,/* DYK nomination of 2023 Singaporean presidential election */ Reply
+2024-01-21T19:23:18+00:00,1197740084,1197739164,0,Number 57,User talk:JaventheAlderick,/* Edit summary issues */ r
+2023-07-30T15:46:47+00:00,1167907998,1167905503,0,IR94025190,User talk:Lades2222,/* Visa Requirements Iranian Map */ Reply
+2023-10-31T07:22:12+00:00,1182767361,1181988188,0,2409:40F3:1090:DCC8:8000:0:0:0,User talk:Lades2222,/* Thailand now Visa free for indians */ new section
+2023-08-07T23:20:20+00:00,1169241697,1169239178,0,Fork99,User talk:Lades2222,Welcome to Wikipedia!
+2023-06-25T15:57:23+00:00,1161880581,1161251537,0,郊外生活,User talk:柏尾菓子,cross-wiki abuse [[ja:WP:VIP#ARDITGILA]] sock and not about enwiki // Undid revision 1161251537 by [[Special:Contributions/SZAIMI|SZAIMI]] ([[User talk:SZAIMI|talk]])
+2023-11-15T14:06:10+00:00,1185245194,1184331165,0,Bbb23,VinFast,revert sock
+2023-08-15T23:13:33+00:00,1170583879,1153209210,0,Fork99,Visa policy of Maldives,/* External links */Add hidden text notice warning against adding inappropriate external links
+2023-08-16T21:28:39+00:00,1170731104,1170583879,0,Fork99,Visa policy of Maldives,/* External links */ Add spaces around hidden text warning to make it more noticeable
+2024-03-03T12:45:34+00:00,1211605996,1202473730,0,JaventheAlderick,Visa policy of Yemen,/* Visa on arrival */ Better wording
+2024-03-07T06:54:12+00:00,1212319441,1208306168,0,Wafflepancake34,Visa policy of Sudan,/* Admission Refused */
+2023-12-24T12:16:55+00:00,1191587233,1187453512,0,217.12.125.61,Visa policy of Yemen,/* Visa exemption */Correction
+2024-01-09T04:27:41+00:00,1194471174,1194238791,0,2401:7400:401A:5D1E:1CDA:D654:16DB:A73A,Visa requirements for Albanian citizens,/* Diplomatic and official passports only */Albania Diplomatic and Official Passport Holders can also enter Singapore visa free for 30 days in addition to just ordinary passport holders.
+2023-11-05T20:11:07+00:00,1183669323,1181777810,0,WikiPate,Visa requirements for Albanian citizens,sticky header
+2023-09-20T10:44:53+00:00,1176229080,1176105168,0,Freevisa1234,Visa requirements for Albanian citizens,/* Visa requirements */
+2023-11-24T21:29:24+00:00,1186686780,1185409603,0,WikiPate,Visa requirements for Albanian citizens,as before and as the standard WP bgcolor
+2023-10-17T20:00:31+00:00,1180622063,1180608156,0,EDASHI,Visa requirements for Albanian citizens,
+2023-08-17T01:02:20+00:00,1170755105,1170649821,0,Eu6,Visa requirements for Albanian citizens,"Undid revision 1170649821 by [[Special:Contributions/77.242.25.83|77.242.25.83]] ([[User talk:77.242.25.83|talk]]) I'm not sure where the 39th ranking is coming from? In the sourced link it's still 49th. Either we keep the Henley link with the actual information it contains, or we remove the Henley source entirely."
+2023-12-11T09:16:45+00:00,1189355205,1189305635,0,Materialscientist,Visa requirements for Albanian citizens,Reverted edit by [[Special:Contribs/Denosio|Denosio]] ([[User talk:Denosio|talk]]) to last version by Lades2222
+2023-08-16T10:14:29+00:00,1170649821,1170381623,0,77.242.25.83,Visa requirements for Albanian citizens,added the new information into the existing paragraph to avoid confusion
+2023-12-15T16:49:52+00:00,1190046885,1189845342,0,Bbb23,Visa requirements for Albanian citizens,revert sock
+2023-10-13T13:07:45+00:00,1179941595,1179724035,0,79.106.209.246,Visa requirements for Albanian citizens,/* Recent */ A visa for Saudi Arabia can also be received on arrival instead of applying online for the e-visa.
+2023-09-10T19:46:01+00:00,1174804332,1168546316,0,198.145.147.14,Visa requirements for Bahraini citizens,/* Visa requirements */
+2023-11-24T21:26:57+00:00,1186686441,1183668868,0,WikiPate,Visa requirements for Bahraini citizens,as before and as the standard WP bgcolor
+2023-11-05T20:07:56+00:00,1183668868,1177295987,0,WikiPate,Visa requirements for Bahraini citizens,sticky header
+2023-04-13T13:32:05+00:00,1149636605,1149207429,0,TommyTu25,Visa requirements for Bhutanese citizens,Kosovo is a partially recognised country. Partially recognised countries are not listed on this article
+2023-12-14T12:36:50+00:00,1189852911,1189852552,0,77.77.218.92,Visa requirements for Bosnia and Herzegovina citizens,"UAE, Argentina, Iraq,..."
+2023-12-14T19:49:03+00:00,1189906162,1189852911,0,Ihavejustchangedstuff,Visa requirements for Bosnia and Herzegovina citizens,https://www.henleyglobal.com/passport-index/ranking
+2024-03-10T20:17:38+00:00,1213034946,1210035944,0,2001:1AE9:10F2:A600:2A88:34BF:8A93:F672,Visa requirements for Bosnia and Herzegovina citizens,/* Visa requirements */Qatar visa on arrival
+2023-07-23T17:37:38+00:00,1166774560,1158662546,0,Isaidnoway,Visa requirements for Montenegrin citizens,clean up one bare url
+2023-10-10T20:46:37+00:00,1179545213,1179306716,0,BoonDock,Visa requirements for Montenegrin citizens,/* References and Notes */ [[WP:NOREFLIST]] - Fixed missing references list – [[:Category:Pages with missing references list|You can help!]]
+2023-12-11T09:16:45+00:00,1189355232,1189305955,0,Materialscientist,Visa requirements for Serbian citizens,Reverted edit by [[Special:Contribs/Denosio|Denosio]] ([[User talk:Denosio|talk]]) to last version by Citation bot
+2024-02-29T15:28:01+00:00,1211044694,1210034140,0,82.215.100.66,Visa requirements for Serbian citizens,Precision is key.
+2023-12-27T21:03:12+00:00,1192141895,1191249866,0,Ohnoitsjamie,Visa requirements for citizens of North Macedonia,Reverted edits by [[Special:Contribs/87.255.77.50|87.255.77.50]] ([[User talk:87.255.77.50|talk]]) to last version by Lades2222
+2023-09-24T11:03:42+00:00,1176849682,1176849657,0,--WikiUser1234945--,Volkswagen,Reverted edits by [[Special:Contributions/149.62.208.245|149.62.208.245]] ([[User talk:149.62.208.245|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2024-04-07T21:56:19+00:00,1217787476,1217786224,0,DeFacto,Volvo Cars,"Undid revision [[Special:Diff/1217786224|1217786224]] by [[Special:Contributions/72.50.211.168|72.50.211.168]] ([[User talk:72.50.211.168|talk]]) - this field is for the company, not their address"
+2024-02-09T08:46:27+00:00,1205281720,1205281143,0,Sjö,Volvo Cars,Reverted edit by [[Special:Contribs/Ponikumari12|Ponikumari12]] ([[User talk:Ponikumari12|talk]]) to last version by Meters
+2023-11-05T13:20:55+00:00,1183617833,1182625296,0,MjhdNfl,Volkswagen,Fixed company type.
+2023-09-17T21:32:36+00:00,1175853168,1175850015,0,CodeTalker,Volkswagen,Reverted 1 edit by [[Special:Contributions/2605:8D80:6A0:10C4:78EA:5DFF:FEE3:6C83|2605:8D80:6A0:10C4:78EA:5DFF:FEE3:6C83]] ([[User talk:2605:8D80:6A0:10C4:78EA:5DFF:FEE3:6C83|talk]])
+2024-04-09T15:12:49+00:00,1218072961,1218065184,0,KylieTastic,Wallyscar,Reverted 2 edits by [[Special:Contributions/41.46.155.112|41.46.155.112]] ([[User talk:41.46.155.112|talk]]) to last revision by Neuropol
+2023-01-21T14:25:28+00:00,1134924010,1133167822,0,Sinaaw,Wallyscar,Change the name of cars they rebadged ( Saipa 111 and Saipa 151 )
+2023-08-24T06:47:27+00:00,1171975475,1157410460,0,GreenC bot,Xhensila Myrtezaj,Removed 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-08-25T11:53:49+00:00,1172169838,1170746168,0,2A01:4B00:BF03:400:808C:71C0:F7EB:2426,Zenvo Automotive,/* History */
+2024-03-22T16:31:52+00:00,1215014084,1199167822,0,2A02:2F0A:7600:1500:6C28:A5B2:4F22:1C95,Zenvo Automotive,/* Models */

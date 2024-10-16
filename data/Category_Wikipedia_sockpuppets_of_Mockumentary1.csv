@@ -1,0 +1,28 @@
+timestamp,revid,parentid,sock,user,page,message
+2017-10-25T04:02:41+00:00,806963224,806962988,1,Justinjo777,Thermography,
+2017-10-25T04:00:52+00:00,806962988,806410884,1,Justinjo777,Thermography,/* Advantages of thermography */
+2017-10-15T14:26:41+00:00,805453877,805453322,1,Justinjo777,Respiratory monitoring,
+2017-10-15T14:26:18+00:00,805453807,805453699,1,Justinjo777,Respiratory rate,capitalize a word
+2017-10-15T14:25:39+00:00,805453699,804778384,1,Justinjo777,Respiratory rate,
+2017-10-15T14:22:32+00:00,805453322,805453142,1,Justinjo777,Respiratory monitoring,
+2017-10-15T14:21:06+00:00,805453142,804428330,1,Justinjo777,Respiratory monitoring,added a figure
+2017-10-15T14:15:07+00:00,805452441,805452303,1,Justinjo777,Thermography,a bit changed a location of text
+2017-10-15T14:14:02+00:00,805452303,804525558,1,Justinjo777,Thermography,added a figure
+2017-10-09T15:21:14+00:00,804519591,804427386,1,Justinjo777,Thermography,
+2017-10-08T23:28:56+00:00,804429259,799922776,1,Justinjo777,Respiratory rate,added references on respiration measurement
+2017-10-08T23:19:23+00:00,804428330,804428143,1,Justinjo777,Respiratory monitoring,delete dots
+2017-10-08T23:17:35+00:00,804428143,804428096,1,Justinjo777,Respiratory monitoring,
+2017-10-08T23:17:08+00:00,804428096,673897048,1,Justinjo777,Respiratory monitoring,added references on respiratory monitoring
+2017-10-08T23:09:27+00:00,804427386,804427161,1,Justinjo777,Thermography,
+2017-10-08T23:07:20+00:00,804427161,804426788,1,Justinjo777,Thermography,correct typos
+2017-10-08T23:03:22+00:00,804426788,804426337,1,Justinjo777,Thermography,correct reference errors
+2017-10-08T22:59:17+00:00,804426337,804425525,1,Justinjo777,Thermography,/* Applications */
+2017-10-08T22:52:10+00:00,804425525,804424655,1,Justinjo777,Thermography,correct typos
+2017-10-08T22:44:15+00:00,804424655,804424416,1,Justinjo777,Thermography,correct typos
+2017-10-08T22:42:13+00:00,804424416,803913846,1,Justinjo777,Thermography,added references on thermal imaging
+2017-10-25T04:12:00+00:00,806964440,806963224,1,Maronbusso,Thermography,
+2017-10-21T20:30:08+00:00,806405519,805453807,0,Glrx,Respiratory rate,/* Noncontact Measurement */ delete section; based on recent primary source
+2017-10-21T21:15:31+00:00,806410884,806407960,0,Glrx,Thermography,/* Applications */ revert more of recent addition
+2017-10-21T20:28:21+00:00,806405332,805453877,0,Glrx,Respiratory monitoring,revert last several; recent primary source
+2017-10-11T02:36:51+00:00,804778384,804429259,0,42.61.189.66,Respiratory rate,Removed extraneous hyphen
+2017-10-09T16:04:23+00:00,804525558,804524534,0,Vsmith,Thermography,/* See also */ remove redirects add Non-contact thermography

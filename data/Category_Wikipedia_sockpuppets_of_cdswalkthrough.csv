@@ -1,0 +1,528 @@
+timestamp,revid,parentid,sock,user,page,message
+2014-12-11T03:07:17+00:00,637570423,633998392,1,Cdswalkthrough,Liu Wenjing,
+2014-12-11T03:04:16+00:00,637570161,634450442,1,Cdswalkthrough,Li Shang,
+2014-12-11T02:48:16+00:00,637568577,637568541,1,Cdswalkthrough,Emperor Guangwu of Han,
+2014-12-11T02:47:56+00:00,637568541,636532125,1,Cdswalkthrough,Emperor Guangwu of Han,
+2014-12-11T02:40:28+00:00,637567605,627400567,1,Cdswalkthrough,Emperor Fei of Jin,
+2014-12-11T02:38:19+00:00,637567322,627400522,1,Cdswalkthrough,Emperor Yuan of Jin,fixing reign year as a emperor 276 was the birth date
+2014-12-11T02:24:07+00:00,637565552,634540924,1,Cdswalkthrough,Emperor Ming of Han,
+2014-12-11T02:22:27+00:00,637565348,635971216,1,Cdswalkthrough,Emperor Ai of Han,
+2014-12-11T02:21:26+00:00,637565214,635969974,1,Cdswalkthrough,Emperor Cheng of Han,
+2014-12-11T02:20:01+00:00,637565036,635971651,1,Cdswalkthrough,Emperor Yuan of Han,
+2014-12-11T02:18:28+00:00,637564826,635970777,1,Cdswalkthrough,Emperor Xuan of Han,
+2014-12-11T02:15:33+00:00,637564477,635973141,1,Cdswalkthrough,Emperor Wen of Han,
+2014-12-11T02:13:44+00:00,637564274,637564231,1,Cdswalkthrough,Emperor Wu of Han,
+2014-12-11T02:13:25+00:00,637564231,637294635,1,Cdswalkthrough,Emperor Wu of Han,only mention courtesy name outside of infobox
+2014-12-11T02:11:41+00:00,637563989,637563955,1,Cdswalkthrough,Li Yiji,
+2014-12-11T02:11:22+00:00,637563955,607745955,1,Cdswalkthrough,Li Yiji,
+2014-12-11T02:07:28+00:00,637563471,637563432,1,Cdswalkthrough,Peng Yue,
+2014-12-11T02:07:09+00:00,637563432,636079711,1,Cdswalkthrough,Peng Yue,
+2014-12-11T02:04:51+00:00,637563162,634246882,1,Cdswalkthrough,Ying Bu,
+2014-12-11T02:01:18+00:00,637562760,636285279,1,Cdswalkthrough,Cao Shen,
+2014-12-11T01:43:33+00:00,637560524,607742690,1,Cdswalkthrough,Xiang Zhuang,
+2014-12-11T01:40:33+00:00,637560152,607742968,1,Cdswalkthrough,Xiang Bo,
+2014-12-11T01:37:17+00:00,637559690,607743358,1,Cdswalkthrough,Zhongli Mo,
+2014-12-11T01:34:28+00:00,637559357,607742568,1,Cdswalkthrough,Consort Yu (Xiang Yu's wife),
+2014-12-11T01:28:25+00:00,637558478,637558411,1,Cdswalkthrough,Xiahou Ying,
+2014-12-11T01:27:56+00:00,637558411,611370139,1,Cdswalkthrough,Xiahou Ying,
+2014-12-11T01:24:28+00:00,637557936,636411865,1,Cdswalkthrough,Zhou Bo,
+2014-12-11T01:23:50+00:00,637557844,637557827,1,Cdswalkthrough,Guan Ying,/* =Life */
+2014-12-11T01:23:39+00:00,637557827,636550996,1,Cdswalkthrough,Guan Ying,
+2014-12-11T01:22:29+00:00,637557686,636837886,1,Cdswalkthrough,Xiao Yu,
+2014-05-11T23:12:55+00:00,608139037,606995879,1,Cdswalkthrough,Sun Jian,
+2014-04-28T21:26:27+00:00,606238212,591596822,1,Cdswalkthrough,Yu (Chinese surname),
+2014-04-27T23:18:02+00:00,606102137,605529344,1,Cdswalkthrough,Zhang (surname),
+2014-04-27T23:17:51+00:00,606102113,604600918,1,Cdswalkthrough,Xu (surname),
+2014-04-27T23:04:44+00:00,606100896,605595109,1,Cdswalkthrough,Chen (surname),
+2015-06-04T19:01:09+00:00,665508986,665508901,1,Yiwenshi,Hua Xin,
+2015-06-04T19:00:31+00:00,665508901,665508548,1,Yiwenshi,Hua Xin,
+2015-06-04T18:57:48+00:00,665508548,644326478,1,Yiwenshi,Hua Xin,
+2015-06-04T18:56:44+00:00,665508422,665508106,1,Yiwenshi,Sun Quan,/* Middle reign */
+2015-06-04T18:54:26+00:00,665508106,665508060,1,Yiwenshi,Sun Quan,"/* Cao Pi,s Invasion of Eastern Wu */"
+2015-06-04T18:54:04+00:00,665508060,665507845,1,Yiwenshi,Sun Quan,/* Early reign */
+2015-06-04T18:52:16+00:00,665507845,665507802,1,Yiwenshi,Sun Quan,/* Late reign */
+2015-06-04T18:52:02+00:00,665507802,665507651,1,Yiwenshi,Sun Quan,/* Late reign */
+2015-06-04T18:50:48+00:00,665507651,665507267,1,Yiwenshi,Sun Quan,/* In Fiction */
+2015-06-04T18:48:01+00:00,665507267,664580998,1,Yiwenshi,Sun Quan,/* Family */
+2015-06-04T18:39:43+00:00,665506221,665505935,1,Yiwenshi,Liu Bei,/* Taking refuge under Liu Biao */
+2015-06-04T18:37:11+00:00,665505935,665505791,1,Yiwenshi,Liu Bei,/* Pedigree */
+2015-06-04T18:36:01+00:00,665505791,660841220,1,Yiwenshi,Liu Bei,adding emperor in posthomous name
+2015-06-04T18:34:37+00:00,665505597,665331820,1,Yiwenshi,Emperor Xuan of Chen,
+2015-06-04T14:04:07+00:00,665472688,665464824,1,Yiwenshi,Du Ruhui,
+2015-06-04T12:57:43+00:00,665465043,660046351,1,Yiwenshi,Li Shiji,
+2015-06-04T12:56:23+00:00,665464911,665464876,1,Yiwenshi,Zhangsun Wuji,
+2015-06-04T12:56:04+00:00,665464876,664426514,1,Yiwenshi,Zhangsun Wuji,
+2015-06-04T12:55:36+00:00,665464824,660055400,1,Yiwenshi,Du Ruhui,
+2015-06-03T14:41:21+00:00,665331820,614775609,1,Yiwenshi,Emperor Xuan of Chen,
+2015-06-03T14:35:05+00:00,665331088,665330713,1,Yiwenshi,Emperor Fei of Chen,
+2015-06-03T14:33:05+00:00,665330881,665014366,1,Yiwenshi,Emperor Wu of Chen,
+2015-06-03T14:31:33+00:00,665330713,665169116,1,Yiwenshi,Emperor Fei of Chen,
+2015-06-02T12:57:49+00:00,665169116,665169089,1,Yiwenshi,Emperor Fei of Chen,
+2015-06-02T12:57:30+00:00,665169089,627423035,1,Yiwenshi,Emperor Fei of Chen,
+2015-06-02T12:50:36+00:00,665168386,665022691,1,Yiwenshi,Emperor Wen of Chen,
+2015-06-01T14:21:28+00:00,665022691,665022648,1,Yiwenshi,Emperor Wen of Chen,
+2015-06-01T14:21:10+00:00,665022648,614770214,1,Yiwenshi,Emperor Wen of Chen,add infobox
+2015-06-01T13:02:04+00:00,665014366,614770856,1,Yiwenshi,Emperor Wu of Chen,add infobox
+2015-05-29T17:44:40+00:00,664590190,664589958,1,Yiwenshi,Yuwen Tai,
+2015-05-29T17:42:50+00:00,664589958,636183377,1,Yiwenshi,Yuwen Tai,
+2015-05-29T17:38:40+00:00,664589391,624518908,1,Yiwenshi,Gao Jiong,
+2015-05-29T17:26:10+00:00,664587860,664587720,1,Yiwenshi,Emperor Wu of Northern Zhou,
+2015-05-29T17:24:58+00:00,664587720,664586308,1,Yiwenshi,Emperor Wu of Northern Zhou,
+2015-05-29T17:13:29+00:00,664586308,664585858,1,Yiwenshi,Emperor Wu of Northern Zhou,
+2015-05-29T17:09:30+00:00,664585858,664585577,1,Yiwenshi,Emperor Wu of Northern Zhou,
+2015-05-29T17:07:05+00:00,664585577,664585512,1,Yiwenshi,Emperor Wu of Northern Zhou,Undid revision 664585512 by [[Special:Contributions/Yiwenshi|Yiwenshi]] ([[User talk:Yiwenshi|talk]])
+2015-05-29T17:06:32+00:00,664585512,664585036,1,Yiwenshi,Emperor Wu of Northern Zhou,
+2015-05-29T17:02:31+00:00,664585036,664584570,1,Yiwenshi,Emperor Wu of Northern Zhou,
+2015-05-29T16:58:40+00:00,664584570,664583007,1,Yiwenshi,Emperor Wu of Northern Zhou,
+2015-05-29T16:45:14+00:00,664583007,664582453,1,Yiwenshi,Emperor Wu of Northern Zhou,change infobox
+2015-05-29T16:40:04+00:00,664582453,664582410,1,Yiwenshi,Emperor Wu of Northern Zhou,change infobox
+2015-05-29T16:39:43+00:00,664582410,658470568,1,Yiwenshi,Emperor Wu of Northern Zhou,change infobox
+2015-05-29T16:30:39+00:00,664581367,664581309,1,Yiwenshi,Cao Pi,/* Marriage and succession issues */
+2015-05-29T16:30:08+00:00,664581309,663237583,1,Yiwenshi,Cao Pi,/* Family background and early career */
+2015-05-29T16:27:14+00:00,664580998,663237575,1,Yiwenshi,Sun Quan,adding Sun Quan Temple name
+2015-05-29T16:24:42+00:00,664580707,664580408,1,Yiwenshi,Qin Shi Huang,
+2015-05-29T16:21:54+00:00,664580408,664580338,1,Yiwenshi,Qin Shi Huang,
+2015-05-29T16:21:16+00:00,664580338,664579928,1,Yiwenshi,Qin Shi Huang,
+2015-05-29T16:17:46+00:00,664579928,664558020,1,Yiwenshi,Qin Shi Huang,change infobox
+2015-05-29T12:53:18+00:00,664556723,664456325,1,Yiwenshi,Qin Shi Huang,Undid revision 664456325 by [[Special:Contributions/Zanhe|Zanhe]] ([[User talk:Zanhe|talk]])
+2015-05-28T19:05:56+00:00,664455926,664412026,1,Yiwenshi,Qin Shi Huang,
+2015-05-28T15:15:49+00:00,664427624,664427556,1,Yiwenshi,Fang Xuanling,/* Later Life and Death */
+2015-05-28T15:15:20+00:00,664427556,664427443,1,Yiwenshi,Fang Xuanling,/* Sucession Dispute */
+2015-05-28T15:14:39+00:00,664427443,664426931,1,Yiwenshi,Fang Xuanling,/* During Emperor Taizong's reign */
+2015-05-28T15:11:20+00:00,664426931,664426749,1,Yiwenshi,Fang Xuanling,/* During Emperor Gaozu's reign */
+2015-05-28T15:10:06+00:00,664426749,662721880,1,Yiwenshi,Fang Xuanling,/* During the Sui dynasty */
+2015-05-28T15:08:22+00:00,664426514,664422982,1,Yiwenshi,Zhangsun Wuji,/* Background */
+2015-05-28T15:07:14+00:00,664426357,664426289,1,Yiwenshi,Xiao Yu,/* During Emperor Gong's reign */
+2015-05-28T15:06:34+00:00,664426289,662274842,1,Yiwenshi,Xiao Yu,
+2015-05-28T14:44:38+00:00,664423680,664423505,1,Yiwenshi,Yuchi Gong,
+2015-05-28T14:43:18+00:00,664423505,664423291,1,Yiwenshi,Yuchi Gong,/* During Emperor Taizong's reign */
+2015-05-28T14:41:40+00:00,664423291,664423071,1,Yiwenshi,Yuchi Gong,/* During Emperor Gaozu's reign */
+2015-05-28T14:40:02+00:00,664423071,660042525,1,Yiwenshi,Yuchi Gong,/* Involvement at the Incident at Xuanwu Gate */
+2015-05-28T14:39:19+00:00,664422982,664422765,1,Yiwenshi,Zhangsun Wuji,/* During Emperor Gaozong's reign */
+2015-05-28T14:37:29+00:00,664422765,664422495,1,Yiwenshi,Zhangsun Wuji,/* During Emperor Taizong's reign */
+2015-05-28T14:35:21+00:00,664422495,663411008,1,Yiwenshi,Zhangsun Wuji,/* During Emperor Gaozu's reign */
+2015-05-28T14:34:26+00:00,664422377,664422300,1,Yiwenshi,Wei Zheng,"/* Taizong,s campaign against the Eastern Tujue */"
+2015-05-28T14:33:41+00:00,664422300,664421031,1,Yiwenshi,Wei Zheng,/* Emperor Taizong's reign */
+2015-05-28T14:25:25+00:00,664421448,664111910,1,Yiwenshi,Emperor Taizong of Tang,/* Early reign (626–633) */
+2015-05-28T14:21:50+00:00,664421031,664420849,1,Yiwenshi,Wei Zheng,/* Emperor Gaozu's reign */
+2015-05-28T14:20:09+00:00,664420849,662721960,1,Yiwenshi,Wei Zheng,setting birth place and death place
+2015-05-28T14:15:55+00:00,664420386,664420360,1,Yiwenshi,Zhang Liang (Western Han),/* Eighteen Kingdoms */
+2015-05-28T14:15:45+00:00,664420360,664420304,1,Yiwenshi,Zhang Liang (Western Han),/* Feast at Hong Gate */
+2015-05-28T14:15:20+00:00,664420304,663540026,1,Yiwenshi,Zhang Liang (Western Han),move feast at hong gate and Eighteen Kingdoms to chu han Contention
+2015-05-28T12:59:37+00:00,664412026,664411783,1,Yiwenshi,Qin Shi Huang,/* Death and postmortem events */
+2015-05-28T12:57:17+00:00,664411783,664411746,1,Yiwenshi,Qin Shi Huang,/* Emperor of Qin */
+2015-05-28T12:56:54+00:00,664411746,664411695,1,Yiwenshi,Qin Shi Huang,/* King of Qin */
+2015-05-28T12:56:21+00:00,664411695,664274995,1,Yiwenshi,Qin Shi Huang,no reason to revert this edit please explain the reason
+2015-05-27T13:59:12+00:00,664274341,664274223,1,Yiwenshi,Qin Shi Huang,/* Death */
+2015-05-27T13:58:06+00:00,664274223,664274094,1,Yiwenshi,Qin Shi Huang,/* Second Emperor conspiracy */
+2015-05-27T13:57:04+00:00,664274094,664273928,1,Yiwenshi,Qin Shi Huang,/* Family */
+2015-05-27T13:55:32+00:00,664273928,664273716,1,Yiwenshi,Qin Shi Huang,
+2015-05-27T13:53:29+00:00,664273716,664273659,1,Yiwenshi,Qin Shi Huang,/* Life */
+2015-05-27T13:52:48+00:00,664273659,664273629,1,Yiwenshi,Qin Shi Huang,/* Elixir of Life */
+2015-05-27T13:52:26+00:00,664273629,664273599,1,Yiwenshi,Qin Shi Huang,/* Public Works */
+2015-05-27T13:52:09+00:00,664273599,664273556,1,Yiwenshi,Qin Shi Huang,/* Philosophy */
+2015-05-27T13:51:49+00:00,664273556,664273477,1,Yiwenshi,Qin Shi Huang,/* Economic reforms */
+2015-05-27T13:51:09+00:00,664273477,664273400,1,Yiwenshi,Qin Shi Huang,/* King of Qin */
+2015-05-27T13:50:35+00:00,664273400,664273307,1,Yiwenshi,Qin Shi Huang,/* Administrative reforms */
+2015-05-27T13:49:52+00:00,664273307,663802605,1,Yiwenshi,Qin Shi Huang,/* King of Qin */
+2015-05-26T12:58:51+00:00,664111910,664111881,1,Yiwenshi,Emperor Taizong of Tang,/* Campaign against the Western Turk */
+2015-05-26T12:58:34+00:00,664111881,664111835,1,Yiwenshi,Emperor Taizong of Tang,/* Campaign against the Tuyuhun */
+2015-05-26T12:58:13+00:00,664111835,663538115,1,Yiwenshi,Emperor Taizong of Tang,/* Middle reign (634–641) */
+2015-05-22T18:16:46+00:00,663573231,662899716,1,Yiwenshi,Zhao Gao,/* Coup following Qin Shi Huang's death */
+2015-05-22T18:12:54+00:00,663572722,663572414,1,Yiwenshi,Emperor Gaozu of Han,/* Chu–Han Contention */
+2015-05-22T18:10:39+00:00,663572414,663572172,1,Yiwenshi,Emperor Gaozu of Han,
+2015-05-22T18:08:35+00:00,663572172,663571619,1,Yiwenshi,Emperor Gaozu of Han,
+2015-05-22T18:06:19+00:00,663571838,662431771,1,Yiwenshi,Chang Yuchun,
+2015-05-22T18:04:20+00:00,663571619,663561045,1,Yiwenshi,Emperor Gaozu of Han,
+2015-05-22T18:00:52+00:00,663571220,663571090,1,Yiwenshi,Hongwu Emperor,
+2015-05-22T17:59:42+00:00,663571090,663571063,1,Yiwenshi,Hongwu Emperor,
+2015-05-22T17:59:26+00:00,663571063,662970563,1,Yiwenshi,Hongwu Emperor,add courtesy name outside of infobox
+2015-05-22T16:30:20+00:00,663561045,663543665,1,Yiwenshi,Emperor Gaozu of Han,
+2015-05-22T16:21:21+00:00,663560061,663542389,1,Yiwenshi,Xiao He,/* Chu–Han Contention */
+2015-05-22T14:15:31+00:00,663543665,663543505,1,Yiwenshi,Emperor Gaozu of Han,
+2015-05-22T14:13:57+00:00,663543505,663543457,1,Yiwenshi,Emperor Gaozu of Han,
+2015-05-22T14:13:25+00:00,663543457,663543303,1,Yiwenshi,Emperor Gaozu of Han,
+2015-05-22T14:11:58+00:00,663543303,663542688,1,Yiwenshi,Emperor Gaozu of Han,
+2015-05-22T14:05:48+00:00,663542688,658888955,1,Yiwenshi,Emperor Gaozu of Han,/* Family and descendants */
+2015-05-22T14:03:05+00:00,663542389,663542364,1,Yiwenshi,Xiao He,/* Recommending Han Xin */
+2015-05-22T14:02:54+00:00,663542364,663542284,1,Yiwenshi,Xiao He,set reomanding han xin in chu han contention
+2015-05-22T14:02:16+00:00,663542284,663542226,1,Yiwenshi,Xiao He,/* Recommending Han Xin */
+2015-05-22T14:01:53+00:00,663542226,663542149,1,Yiwenshi,Xiao He,/* Chu–Han Contention */
+2015-05-22T14:01:09+00:00,663542149,663539160,1,Yiwenshi,Xiao He,
+2015-05-22T13:54:47+00:00,663541519,659961485,1,Yiwenshi,Fan Kuai,/* Chu–Han contention */
+2015-05-22T13:53:48+00:00,663541432,663541353,1,Yiwenshi,Cao Shen,
+2015-05-22T13:53:08+00:00,663541353,663541272,1,Yiwenshi,Cao Shen,/* In Service of the Han Dynasty */
+2015-05-22T13:52:21+00:00,663541272,663541237,1,Yiwenshi,Cao Shen,/* In Service of the Han Dynasty */
+2015-05-22T13:52:00+00:00,663541237,663541009,1,Yiwenshi,Cao Shen,/* Death */
+2015-05-22T13:49:59+00:00,663541009,663540901,1,Yiwenshi,Cao Shen,/* Death */
+2015-05-22T13:49:02+00:00,663540901,663540837,1,Yiwenshi,Cao Shen,/* As chancellor */
+2015-05-22T13:48:25+00:00,663540837,663540807,1,Yiwenshi,Cao Shen,/* In Service of the Han Dynasty */
+2015-05-22T13:48:12+00:00,663540807,663540788,1,Yiwenshi,Cao Shen,/* =In Service of the Han Dynasty */
+2015-05-22T13:48:03+00:00,663540788,663540758,1,Yiwenshi,Cao Shen,/* Chu–Han Contention */
+2015-05-22T13:47:46+00:00,663540758,663540543,1,Yiwenshi,Cao Shen,/* As chancellor */
+2015-05-22T13:45:51+00:00,663540543,662722064,1,Yiwenshi,Cao Shen,
+2015-05-22T13:44:32+00:00,663540403,663540336,1,Yiwenshi,Han Xin,/* Death */
+2015-05-22T13:44:00+00:00,663540336,663540288,1,Yiwenshi,Han Xin,/* Lengend */
+2015-05-22T13:43:35+00:00,663540288,663540169,1,Yiwenshi,Han Xin,/* Death */
+2015-05-22T13:42:35+00:00,663540169,663540150,1,Yiwenshi,Han Xin,/* Death */
+2015-05-22T13:42:25+00:00,663540150,663539658,1,Yiwenshi,Han Xin,/* Demotion */
+2015-05-22T13:41:18+00:00,663540026,663539777,1,Yiwenshi,Zhang Liang (Western Han),/* Conquest of the Three Qin */
+2015-05-22T13:38:55+00:00,663539777,663539731,1,Yiwenshi,Zhang Liang (Western Han),/* Assassination attempt on Qin Shi Huang */
+2015-05-22T13:38:13+00:00,663539731,663539345,1,Yiwenshi,Zhang Liang (Western Han),/* Meeting Huang Shigong */
+2015-05-22T13:37:34+00:00,663539658,663538849,1,Yiwenshi,Han Xin,
+2015-05-22T13:35:11+00:00,663539345,654086305,1,Yiwenshi,Zhang Liang (Western Han),/* Chu–Han Contention */
+2015-05-22T13:33:37+00:00,663539160,662722131,1,Yiwenshi,Xiao He,add birthplace as stated in early life
+2015-05-22T13:30:56+00:00,663538849,663538662,1,Yiwenshi,Han Xin,add where he had died and his place of death was from his previous infobox
+2015-05-22T13:29:23+00:00,663538662,661064753,1,Yiwenshi,Han Xin,
+2015-05-22T13:23:33+00:00,663538115,663537906,1,Yiwenshi,Emperor Taizong of Tang,/* Late reign (642–649) */
+2015-05-22T13:21:19+00:00,663537906,663537618,1,Yiwenshi,Emperor Taizong of Tang,/* Sucession Dispute */
+2015-05-22T13:18:09+00:00,663537618,660860124,1,Yiwenshi,Emperor Taizong of Tang,/* Sucession Dispute */
+2015-05-21T14:37:00+00:00,663411008,662721925,1,Yiwenshi,Zhangsun Wuji,
+2015-05-21T14:31:26+00:00,663410402,659961731,1,Yiwenshi,Sima Yi,/* Rebellion in Shouchun */
+2015-05-21T14:30:02+00:00,663410248,663410195,1,Yiwenshi,Xu Chu,/* Service under Cao Pi */
+2015-05-21T14:29:32+00:00,663410195,640362179,1,Yiwenshi,Xu Chu,/* Service under Cao Cao */
+2015-05-21T14:25:45+00:00,663409803,663409707,1,Yiwenshi,Zhao Yun,/* Service under Liu Bei */
+2015-05-21T14:24:50+00:00,663409707,663409611,1,Yiwenshi,Zhao Yun,
+2015-05-21T14:23:41+00:00,663409611,663409517,1,Yiwenshi,Zhao Yun,/* Guarding Jing Province */
+2015-05-21T14:22:33+00:00,663409517,663409500,1,Yiwenshi,Zhao Yun,/* Battle of Changban */
+2015-05-21T14:22:19+00:00,663409500,663409213,1,Yiwenshi,Zhao Yun,/* Coming to serve Liu Bei */
+2015-05-21T14:19:14+00:00,663409213,662899759,1,Yiwenshi,Zhao Yun,/* Early career under Gongsun Zan */
+2015-05-17T01:49:26+00:00,662691301,662691243,1,Yiwenshi,Cao Chun,
+2015-05-17T01:48:57+00:00,662691243,607136715,1,Yiwenshi,Cao Chun,
+2015-05-17T01:45:05+00:00,662690800,650335969,1,Yiwenshi,Liu Biao,
+2015-05-17T01:42:54+00:00,662690562,601130015,1,Yiwenshi,Yuan Xi,
+2015-05-17T01:40:59+00:00,662690368,640182619,1,Yiwenshi,Ma Teng,
+2015-05-17T01:40:37+00:00,662690322,657008523,1,Yiwenshi,Ma Chao,/* Family background */
+2015-05-17T01:36:19+00:00,662689827,662675266,1,Yiwenshi,Sun Quan,/* Middle reign */
+2015-05-16T23:38:55+00:00,662675266,662675057,1,Yiwenshi,Sun Quan,/* Late reign */
+2015-05-16T23:37:14+00:00,662675057,662674894,1,Yiwenshi,Sun Quan,/* Early reign */
+2015-05-16T23:35:43+00:00,662674894,659981603,1,Yiwenshi,Sun Quan,/* Breaking of alliance with Liu Bei */
+2014-05-05T08:33:50+00:00,607136715,600919451,0,Lds,Cao Chun,/* Family */ fix
+2015-02-13T15:48:29+00:00,646966010,645571390,0,Lds,Cao Shen,revert to BC + minor changes
+2014-12-11T10:34:57+00:00,637606997,637562760,0,JBW,Cao Shen,Reverted edits by [[Special:Contribs/Cdswalkthrough|Cdswalkthrough]] ([[User talk:Cdswalkthrough|talk]]) to last version by Underbar dk
+2014-08-22T11:13:48+00:00,622323949,622258754,0,Lds,Cao Shen,/* References */ fix
+2014-08-13T07:50:25+00:00,621026524,621026157,0,Minhle20002013,Cao Pi,
+2014-05-09T07:47:08+00:00,607744875,607193448,0,Lds,Cao Shen,minor changes
+2015-01-21T07:30:06+00:00,643488325,642645040,0,2602:304:B271:6490:A495:8721:B97E:6F6E,Cao Pi,Grammar
+2014-06-07T05:42:29+00:00,611911925,611834431,0,Underbar dk,Cao Pi,/* Modern references */ weak source
+2014-07-24T08:25:25+00:00,618244028,618225668,0,Gråbergs Gråa Sång,Chang Yuchun,/* Dispute on Chang's religion and ethnic group */
+2015-02-04T08:35:49+00:00,645574424,645546094,0,Lds,Chang Yuchun,/* top */ add infobox
+2015-01-16T21:44:18+00:00,642825419,642449791,0,WeijiBaikeBianji,Chen (surname),"checked source, and updated article text to match source"
+2014-12-30T19:34:41+00:00,640278225,640270603,0,JBW,Consort Yu (Xiang Yu's wife),Reverted edits by [[Special:Contribs/184.148.70.33|184.148.70.33]] ([[User talk:184.148.70.33|talk]]) to last version by JamesBWatson
+2014-10-09T08:07:19+00:00,628895858,628895760,0,174.6.92.141,Chen (surname),
+2014-07-13T22:28:46+00:00,616837131,614786349,0,2601:6:7F80:601:E05C:4419:FA78:A0D8,Du Ruhui,/* During Emperor Taizong's reign */ Edited pronunciation of 僕射
+2015-04-04T09:07:54+00:00,654890238,654720560,0,Shanghainese.ua,Du Ruhui,/* During Emperor Gaozu's reign */
+2015-03-22T00:21:40+00:00,652947454,648391875,0,Wavelength,Emperor Ai of Han,"applying [[WP:MOS]] in regard to [[hyphenation]]: —> ""four-year-old"" [1 instance]—[[WP:HYPHEN]], sub-subsection 3, points 3 and 8"
+2014-06-28T15:40:11+00:00,614769771,609697807,0,Cydebot,Emperor Fei of Chen,Robot - Speedily moving category Chen Dynasty emperors to [[:Category:Chen dynasty emperors]] per [[WP:CFDS|CFDS]].
+2014-05-20T04:13:40+00:00,609335758,609335711,0,Zanhe,Emperor Cheng of Han,template
+2014-08-18T18:15:49+00:00,621803278,616837131,0,Timmyshin,Du Ruhui,"clean up, replaced: [[Old Book of Tang|Book of Tang]] → [[Old Book of Tang]] (2), ''Book of Tang'' → ''Old Book of Tang'' (2) using [[Project:AWB|AWB]]"
+2014-05-20T04:16:27+00:00,609335978,609335942,0,Zanhe,Emperor Ai of Han,/* Family background and early life as the Prince of Dingtao */
+2014-12-11T10:34:55+00:00,637606980,637567605,0,JBW,Emperor Fei of Jin,Reverted edits by [[Special:Contribs/Cdswalkthrough|Cdswalkthrough]] ([[User talk:Cdswalkthrough|talk]]) to last version by DrKiernan
+2014-09-28T15:14:27+00:00,627423035,614769771,0,DrKay,Emperor Fei of Chen,per [[Wikipedia:Templates for discussion/Log/2013 July 13#Template:Infobox royalty]] using [[Project:AWB|AWB]]
+2014-09-28T10:47:15+00:00,627400567,614776837,0,DrKay,Emperor Fei of Jin,per [[Wikipedia:Templates for discussion/Log/2013 July 13#Template:Infobox royalty]] using [[Project:AWB|AWB]]
+2014-05-22T17:40:14+00:00,609697807,609613261,0,Waacstats,Emperor Fei of Chen,Persondata
+2015-01-10T02:25:34+00:00,641817382,641817299,0,Lds,Emperor Gaozu of Han,accidentally pressed rollback
+2015-02-28T12:39:04+00:00,649221698,649218255,0,Gog the Mild,Emperor Gaozu of Han,
+2014-05-27T15:36:30+00:00,610360543,610293551,0,Lds,Emperor Gaozu of Han,"/* top */ He had no predecessor. If there must be a predecessor, it should probably be either Xiang Yu or Emperor Yi of Chu instead of Qin Er Shi."
+2014-06-07T16:27:02+00:00,611964561,611948985,0,Lds,Emperor Gaozu of Han,Reverted to revision 610360543 by [[Special:Contributions/Lds|Lds]] ([[User talk:Lds|talk]]): Rv edit tests. ([[WP:TW|TW]])
+2014-07-24T02:56:29+00:00,618212402,611964561,0,Robert4565,Emperor Gaozu of Han,/* See also */
+2014-09-03T10:05:58+00:00,623988608,622314023,0,Dexbot,Emperor Gaozu of Han,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2015-04-23T20:00:04+00:00,658888955,649221698,0,Zanhe,Emperor Gaozu of Han,fix link
+2014-12-03T21:12:11+00:00,636511856,635967160,0,Frayten,Emperor Gaozu of Han,
+2014-05-20T03:53:01+00:00,609334071,608546516,0,Zanhe,Emperor Gaozu of Han,/* External links */ template
+2014-10-11T11:46:15+00:00,629165346,623988608,0,FrikkiFrix,Emperor Gaozu of Han,/* Birth and early life */
+2014-11-09T07:48:00+00:00,633063678,633063465,0,Frosty,Emperor Gaozu of Han,Reverted edits by [[Special:Contributions/139.168.135.89|139.168.135.89]] ([[User talk:139.168.135.89|talk]]) ([[WP:HG|HG]])
+2014-08-05T22:57:59+00:00,620019999,619740990,0,103.252.200.228,Emperor Guangwu of Han,/* Gradual victories over other regional powers */
+2015-01-15T20:36:43+00:00,642651822,640546687,0,77.56.53.183,Emperor Guangwu of Han,
+2014-09-03T10:08:09+00:00,623988807,620019999,0,Dexbot,Emperor Guangwu of Han,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2015-01-01T19:29:12+00:00,640546710,637642223,0,Dexbot,Emperor Ming of Han,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2014-05-20T04:28:53+00:00,609336866,601124207,0,Zanhe,Emperor Ming of Han,template
+2014-07-14T11:34:09+00:00,616899503,616899470,0,Cold Season,Emperor Taizong of Tang,...
+2015-05-05T00:09:39+00:00,660860124,659960394,0,KasparBot,Emperor Taizong of Tang,authority control moved to wikidata
+2014-04-21T22:48:54+00:00,605215569,604954645,0,83.56.226.156,Emperor Taizong of Tang,/* Family */
+2014-05-13T18:44:10+00:00,608426304,608425629,0,Dewritech,Emperor Taizong of Tang,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/XinChiJuan|XinChiJuan]] using [[WP:STiki|STiki]]
+2015-03-07T19:37:12+00:00,650335827,650332195,0,Lds,Emperor Taizong of Tang,rv edits by sockpuppet of blocked user
+2014-08-18T16:48:06+00:00,621792301,616899503,0,Timmyshin,Emperor Taizong of Tang,"/* References */clean up, replaced: [[Old Book of Tang|Book of Tang]] → [[Old Book of Tang]] using [[Project:AWB|AWB]]"
+2015-04-28T03:41:05+00:00,659612306,659604328,0,Everyking,Emperor Taizong of Tang,
+2015-02-25T04:41:53+00:00,648740995,648732508,0,Ponyo,Emperor Taizong of Tang,Reverted edits by [[Special:Contribs/Yuanwudi|Yuanwudi]] ([[User talk:Yuanwudi|talk]]) to last version by ClueBot NG
+2014-06-24T12:34:23+00:00,614221400,614221338,0,1.36.8.239,Emperor Taizong of Tang,/* Era name */
+2015-03-22T10:01:04+00:00,652993058,651425346,0,Zanhe,Emperor Taizong of Tang,-[[Category:7th-century monarchs in Asia]]; +[[Category:7th-century Chinese poets]] using [[WP:HC|HotCat]]
+2014-09-12T04:41:39+00:00,625192860,624920768,0,204.197.177.191,Emperor Taizong of Tang,
+2013-04-13T14:00:26+00:00,550154861,550136897,0,Nedim Ardoğa,Emperor Wen of Chen,removed [[Category:6th-century Chinese people]]; added [[Category:6th-century Chinese monarchs]] using [[WP:HC|HotCat]]
+2014-05-22T02:49:02+00:00,609613165,550154861,0,Zanhe,Emperor Wen of Chen,navbox
+2014-06-28T15:44:10+00:00,614770214,614769968,0,Cydebot,Emperor Wen of Chen,Robot - Speedily moving category Liang Dynasty people to [[:Category:Liang dynasty people]] per [[WP:CFDS|CFDS]].
+2014-05-19T07:05:56+00:00,609202872,608426304,0,Zanhe,Emperor Taizong of Tang,/* External links */ template
+2015-03-23T17:09:56+00:00,653180671,653167624,0,Lds,Emperor Wen of Han,Undid revision 653167624 by [[Special:Contributions/Zhongwudi|Zhongwudi]] ([[User talk:Zhongwudi|talk]]) rv edits by sockpuppet of blocked user
+2014-12-14T08:43:12+00:00,638019214,637949084,0,JBW,Emperor Wen of Han,Reverted edits by [[Special:Contribs/Xiaoweiji|Xiaoweiji]] ([[User talk:Xiaoweiji|talk]]) to last version by JamesBWatson
+2014-06-28T15:49:35+00:00,614770856,614770563,0,Cydebot,Emperor Wu of Chen,Robot - Speedily moving category Liang Dynasty regents to [[:Category:Liang dynasty regents]] per [[WP:CFDS|CFDS]].
+2015-03-04T19:28:17+00:00,649879844,649879757,0,108.171.128.189,Emperor Wu of Han,
+2014-12-21T11:35:13+00:00,639035707,638121623,0,HRW in the 1900,Emperor Wu of Han,/* Late reign and death */
+2014-06-29T20:23:43+00:00,614926140,614780669,0,173.25.203.153,Emperor Wu of Han,/* Legacy */
+2014-11-13T00:23:38+00:00,633598735,633597948,0,Underbar dk,Emperor Wu of Han,Undid revision 633597948 by [[Special:Contributions/24.18.111.12|24.18.111.12]] ([[User talk:24.18.111.12|talk]])
+2014-11-22T10:10:07+00:00,634945258,614540973,0,MoredanKantose,Emperor Wu of Northern Zhou,/* Relation with xiangqi */A space was needed.
+2014-06-26T19:09:32+00:00,614540973,611009887,0,John of Reading,Emperor Wu of Northern Zhou,"/* Middle reign */Typo fixing, replaced: stike → strike using [[Project:AWB|AWB]]"
+2014-06-01T01:33:33+00:00,611009887,609616275,0,174.57.12.45,Emperor Wu of Northern Zhou,/* Late reign */ removed repeated word
+2013-11-22T02:52:37+00:00,582764503,577099982,0,TheLeopard,Emperor Wu of Northern Zhou,Removed anachronistic label and irrelevant link
+2015-04-22T15:49:45+00:00,658470568,658470454,0,BranStark,Emperor Wu of Northern Zhou,Reverted edits by [[Special:Contributions/69.67.83.56|69.67.83.56]] ([[User talk:69.67.83.56|talk]]) to last revision by MoredanKantose ([[WP:HG|HG]])
+2014-05-22T03:27:46+00:00,609616275,606501780,0,Zanhe,Emperor Wu of Northern Zhou,navbox
+2014-04-30T17:09:45+00:00,606501780,582764503,0,John of Reading,Emperor Wu of Northern Zhou,"Typo/[[WP:AWB/GF|general]] fixing, replaced: publiclly → publicly using [[Project:AWB|AWB]]"
+2014-06-28T16:27:51+00:00,614775609,614770223,0,Cydebot,Emperor Xuan of Chen,Robot - Speedily moving category Northern Zhou Dynasty people to [[:Category:Northern Zhou people]] per [[WP:CFDS|CFDS]].
+2014-03-25T01:40:57+00:00,601130623,596514167,0,Cydebot,Emperor Xuan of Han,Robot - Speedily moving category Western Han Dynasty emperors‎ to [[:Category:Western Han dynasty emperors‎]] per [[WP:CFDS|CFDS]].
+2014-05-20T04:10:11+00:00,609335459,609335390,0,Zanhe,Emperor Xuan of Han,
+2014-03-25T01:40:59+00:00,601130628,583809971,0,Cydebot,Emperor Yuan of Han,Robot - Speedily moving category Western Han Dynasty emperors‎ to [[:Category:Western Han dynasty emperors‎]] per [[WP:CFDS|CFDS]].
+2014-11-25T04:00:34+00:00,635335033,627792377,0,66.74.176.59,Fang Xuanling,sp
+2014-05-11T13:18:55+00:00,608050443,607745173,0,Lugnuts,Fan Kuai,/* References */
+2014-05-20T05:59:32+00:00,609344599,609252557,0,Zanhe,Emperor Yuan of Jin,template
+2014-06-28T16:38:19+00:00,614776893,609344599,0,Cydebot,Emperor Yuan of Jin,Robot - Speedily moving category Jin Dynasty (265–420) emperors to [[:Category:Jin dynasty (265–420) emperors]] per [[WP:CFDS|CFDS]].
+2015-02-07T17:49:51+00:00,646063393,646063183,0,Lds,Fang Xuanling,some fixes
+2014-12-14T08:43:12+00:00,638019218,637949670,0,JBW,Emperor Yuan of Han,Reverted edits by [[Special:Contribs/Xiaoweiji|Xiaoweiji]] ([[User talk:Xiaoweiji|talk]]) to last version by JamesBWatson
+2014-08-18T18:13:54+00:00,621803059,614786364,0,Timmyshin,Fang Xuanling,"clean up, replaced: [[Old Book of Tang|Book of Tang]] → [[Old Book of Tang]] (2) using [[Project:AWB|AWB]]"
+2014-09-10T09:23:03+00:00,624921024,621803059,0,Niceguyedc,Fang Xuanling,[[:en:WP:CLEANER|WPCleaner]] v1.33 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Li Jing]]
+2014-06-28T17:47:48+00:00,614786364,601115743,0,Cydebot,Fang Xuanling,Robot - Speedily moving category Sui Dynasty politicians to [[:Category:Sui dynasty politicians]] per [[WP:CFDS|CFDS]].
+2014-11-30T22:07:34+00:00,636082149,635615992,0,Nlu,Fang Xuanling,added [[Category:Politicians from Zibo]] using [[WP:HC|HotCat]]
+2015-04-30T13:32:50+00:00,660055662,659960924,0,Lds,Fang Xuanling,/* top */ some fixes to match [[Du Ruhui]]'s article
+2014-03-24T23:55:39+00:00,601115743,596343709,0,Cydebot,Fang Xuanling,Robot - Speedily moving category Tang Dynasty historians‎ to [[:Category:Tang dynasty historians‎]] per [[WP:CFDS|CFDS]].
+2014-06-28T17:47:52+00:00,614786377,614786046,0,Cydebot,Gao Jiong,Robot - Speedily moving category Sui Dynasty politicians to [[:Category:Sui dynasty politicians]] per [[WP:CFDS|CFDS]].
+2014-12-11T10:34:58+00:00,637607004,637557844,0,JBW,Guan Ying,Reverted edits by [[Special:Contribs/Cdswalkthrough|Cdswalkthrough]] ([[User talk:Cdswalkthrough|talk]]) to last version by Lds
+2014-05-09T07:44:42+00:00,607744735,607744673,0,Lds,Han Xin,/* Battle of Gaixia */ fix
+2015-01-11T08:18:46+00:00,641983449,641972319,0,Ponyo,Han Xin,Reverted edits by [[Special:Contribs/Drayten|Drayten]] ([[User talk:Drayten|talk]]) to last version by Dexbot
+2014-08-27T10:14:56+00:00,623004605,622314176,0,RjwilmsiBot,Han Xin,/* Notes and references */Adding/updating Persondata using [[Project:AWB|AWB]] (10414)
+2015-04-02T20:41:55+00:00,654683413,654670752,0,Underbar dk,Han Xin,Undid revision 654670752 by [[Special:Contributions/209.202.109.146|209.202.109.146]] ([[User talk:209.202.109.146|talk]]) sockpuppet and bad grammar
+2014-12-01T23:36:12+00:00,636239364,636090364,0,Underbar dk,Han Xin,/* Notes and references */ commonscat
+2014-11-17T17:19:16+00:00,634244660,630581936,0,Nlu,Han Xin,-[[Category:Generals from Jiangsu]]; ±[[Category:Han dynasty generals]]→[[Category:Han dynasty generals from Jiangsu]] using [[WP:HC|HotCat]]
+2015-03-23T17:10:15+00:00,653180708,653166505,0,Lds,Han Xin,Reverted 7 edits by [[Special:Contributions/Zhongwudi|Zhongwudi]] ([[User talk:Zhongwudi|talk]]): Rv edits by sockpuppet of blocked user. ([[WP:TW|TW]])
+2015-02-13T15:45:38+00:00,646965699,646965354,0,Lds,Han Xin,/* top */ the
+2014-11-10T05:27:05+00:00,633192145,633192078,0,175.143.222.49,Hongwu Emperor,/* Early life */
+2014-09-25T13:02:55+00:00,627022884,626426222,0,468SM,Hongwu Emperor,/* Relations with Muslims */
+2014-07-11T00:29:38+00:00,616461798,616040391,0,SandeepSinghToor,Hongwu Emperor,/* Relations with Muslims */ changed hehad to he had.   Also changed caiming to these sources claim  - good still use some restructuring though --- Grammar/Spelling fixes
+2014-11-30T21:43:44+00:00,636079350,601128404,0,Nlu,Hua Xin,removed [[Category:People from Dezhou]]; added [[Category:Politicians from Dezhou]] using [[WP:HC|HotCat]]
+2015-04-06T20:53:58+00:00,655243069,655242663,0,71.59.82.107,Hongwu Emperor,
+2014-03-25T01:26:22+00:00,601128404,588616341,0,Cydebot,Hua Xin,Robot - Speedily moving category Han Dynasty politicians from Shandong‎ to [[:Category:Han dynasty politicians from Shandong‎]] per [[WP:CFDS|CFDS]].
+2014-05-26T00:41:49+00:00,610140573,608095134,0,Zanhe,Li Shang,template
+2015-01-26T23:50:34+00:00,644326478,644326430,0,Amortias,Hua Xin,Reverted edits by [[Special:Contribs/Xianwendi|Xianwendi]] ([[User talk:Xianwendi|talk]]) to last version by Amortias
+2015-02-25T04:41:51+00:00,648740974,648733705,0,Ponyo,Li Shiji,Reverted edits by [[Special:Contribs/Yuanwudi|Yuanwudi]] ([[User talk:Yuanwudi|talk]]) to last version by Lds
+2014-09-10T09:51:14+00:00,624923403,624921380,0,Niceguyedc,Li Shiji,[[:en:WP:CLEANER|WPCleaner]] v1.33 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Li Jing]]
+2015-02-13T15:53:58+00:00,646966626,645572747,0,Lds,Li Shang,fix
+2014-05-14T05:45:48+00:00,608500672,607424016,0,Lucidite,Hongwu Emperor,
+2015-02-04T08:09:50+00:00,645572572,645546604,0,Lds,Li Yiji,/* top */ add infobox
+2014-05-09T08:04:06+00:00,607745955,601127893,0,Lds,Li Yiji,minor changes
+2014-11-23T05:29:06+00:00,635062464,634249778,0,Nlu,Liu Bei,removed [[Category:People from Baoding]]; added [[Category:Politicians from Baoding]] using [[WP:HC|HotCat]]
+2015-03-01T08:47:59+00:00,649349163,649310649,0,Underbar dk,Liu Bei,absolutely no need for thai
+2014-09-03T09:30:01+00:00,623984840,623929551,0,Dexbot,Liu Bei,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2015-04-18T15:31:32+00:00,657047222,657045073,0,Underbar dk,Liu Bei,Undid revision 657045073 by [[Special:Contributions/2002:1B4E:D3B6:0:0:0:1B4E:D3B6|2002:1B4E:D3B6:0:0:0:1B4E:D3B6]] ([[User talk:2002:1B4E:D3B6:0:0:0:1B4E:D3B6|talk]]) that's the same thing as one line below.
+2014-07-16T19:26:35+00:00,617218987,616642913,0,Mogism,Liu Biao,"/* Family */Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ,  → , using [[Project:AWB|AWB]]"
+2015-03-07T19:38:18+00:00,650335969,650335385,0,Lds,Liu Biao,rv edits by sockpuppet of blocked user
+2014-12-14T08:43:11+00:00,638019205,637976567,0,JBW,Liu Wenjing,Reverted edits by [[Special:Contribs/Xiaoweiji|Xiaoweiji]] ([[User talk:Xiaoweiji|talk]]) to last version by JamesBWatson
+2015-02-04T08:46:18+00:00,645575196,645575152,0,Lds,Liu Wenjing,/* top */ {{Chinese name}}
+2014-06-13T15:23:12+00:00,612778089,612729441,0,Lds,Ma Chao,/* Battle of Tong Pass */ delinked some names
+2014-12-30T02:54:21+00:00,640182619,634249914,0,Kamek98,Ma Teng,
+2014-05-09T07:57:24+00:00,607745539,607193473,0,Lds,Peng Yue,minor changes
+2015-02-13T15:52:58+00:00,646966523,645572480,0,Lds,Peng Yue,revert to BC + minor changes
+2014-03-25T01:35:08+00:00,601129786,601129189,0,Cydebot,Ma Teng,Robot - Speedily moving category People executed by the Han Dynasty‎ to [[:Category:People executed by the Han dynasty‎]] per [[WP:CFDS|CFDS]].
+2015-01-21T00:02:51+00:00,643445333,640544986,0,108.40.165.186,Ma Chao,"Lady Dong was Ma Chao's second wife, not concubine."
+2014-03-25T01:30:41+00:00,601129148,601127745,0,Cydebot,Liu Bei,Robot - Speedily moving category Han Dynasty warlords‎ to [[:Category:Han dynasty warlords‎]] per [[WP:CFDS|CFDS]].
+2014-09-03T18:03:46+00:00,624043457,607745539,0,Dexbot,Peng Yue,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2014-09-19T01:56:59+00:00,626160487,626160419,0,Llightex,Qin Shi Huang,fixed placement of TOC
+2014-05-27T00:53:36+00:00,610281458,610260602,0,Digit overdose,Qin Shi Huang,/* Birth */
+2015-02-14T10:19:27+00:00,647080483,647080114,0,Materialscientist,Qin Shi Huang,Reverted 1 edit by [[Special:Contributions/Failureboy123|Failureboy123]] identified as test/vandalism using [[WP:STiki|STiki]]
+2014-09-08T20:35:40+00:00,624716994,624716718,0,White whirlwind,Qin Shi Huang,oops
+2014-06-05T20:20:12+00:00,611729199,611726854,0,Widr,Qin Shi Huang,Reverted 1 edit by [[Special:Contributions/2601:A:5800:485:3483:6974:F0D1:5EB3|2601:A:5800:485:3483:6974:F0D1:5EB3]]  using [[WP:STiki|STiki]]
+2014-05-30T07:24:40+00:00,610756934,610691632,0,144.131.91.167,Qin Shi Huang,/* Video games */
+2015-03-11T15:41:37+00:00,650914715,650914707,0,ClueBot NG,Qin Shi Huang,"Reverting possible vandalism by [[Special:Contributions/Onion2400|Onion2400]] to version by 69.146.160.119. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (2157037) (Bot)"
+2014-07-25T01:31:16+00:00,618355339,618248400,0,Kgrad,Qin Shi Huang,/* Death */ corrected comma faults
+2014-10-15T00:33:02+00:00,629648061,626435655,0,Italia2006,Qin Shi Huang,
+2014-06-29T13:53:30+00:00,614884937,614784593,0,FeanorStar7,Qin Shi Huang,"/* External links */ align birth date; change cat, etc."
+2015-03-30T20:36:47+00:00,654234723,654233129,0,Hzh,Qin Shi Huang,/* Name */
+2015-05-05T05:07:11+00:00,660895286,659143055,0,KasparBot,Qin Shi Huang,authority control moved to wikidata
+2015-05-23T02:22:44+00:00,663621569,661746462,0,AnomieBOT,Qin Shi Huang,Moving refs out of templates
+2014-04-26T13:39:21+00:00,605893722,605892783,0,Philg88,Qin Shi Huang,Reverted 1 edit by [[Special:Contributions/24.215.148.99|24.215.148.99]] ([[User talk:24.215.148.99|talk]]) to last revision by 114.108.216.48. ([[WP:TW|TW]])
+2015-05-30T23:00:49+00:00,664772274,664580707,0,Zanhe,Qin Shi Huang,removed [[Category:3rd-century BC rulers]]; added [[Category:3rd-century BC Chinese monarchs]] using [[WP:HC|HotCat]]
+2015-04-21T13:30:55+00:00,657516714,657516665,0,KrakatoaKatie,Qin Shi Huang,Adding {{pp-sock}}
+2015-02-17T08:21:52+00:00,647521222,647080483,0,Ricky81682,Qin Shi Huang,rm incorrect protection notice
+2015-01-20T00:29:06+00:00,643289734,642651189,0,Brad E. Williams,Qin Shi Huang,/* Films */ added note about Big Trouble in Little China
+2014-08-10T21:47:20+00:00,620688270,620598853,0,Tbhotch,Qin Shi Huang,Adding {{pp-protected}} ([[WP:TW|TW]])
+2014-09-21T05:33:51+00:00,626435655,626160487,0,Zanhe,Qin Shi Huang,/* Historiography */ correct pinyin
+2015-01-14T03:52:38+00:00,642403458,642402086,0,Modernist,Qin Shi Huang,Reverted edits by [[Special:Contribs/DroaDonKaivaban|DroaDonKaivaban]] ([[User talk:DroaDonKaivaban|talk]]) to last version by Italia2006
+2015-04-21T01:04:44+00:00,657408957,657408950,0,ClueBot NG,Qin Shi Huang,"Reverting possible vandalism by [[Special:Contributions/Broke Yo Kankles|Broke Yo Kankles]] to version by 173.72.54.64. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (2202887) (Bot)"
+2014-08-08T20:01:26+00:00,620416414,620309817,0,7Sidz,Qin Shi Huang,Disambiguated: [[Sinosphere]] → [[East Asian cultural sphere]]
+2015-03-23T02:38:19+00:00,653101004,653101000,0,ClueBot NG,Qin Shi Huang,"Reverting possible vandalism by [[Special:Contributions/173.69.23.17|173.69.23.17]] to version by Crh23. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (2170008) (Bot)"
+2014-06-01T14:48:01+00:00,611084398,610756934,0,Kendroche,Qin Shi Huang,/* Death */ BC -> BCE (modern usage - BC should only be used in reference to Christian articles)
+2015-02-08T06:34:46+00:00,646150404,646061703,0,Lds,Sima Yi,/* Eastern Wu invasion */ fix link
+2014-05-04T06:37:06+00:00,606991379,606664820,0,Lds,Sima Yi,"lowercase for ""dynasty"""
+2014-06-03T06:04:57+00:00,611340430,609857246,0,Underbar dk,Sun Jian,/* Coalition against Dong Zhuo */ commander-in-chief would be someone like barack obama
+2014-05-23T20:24:05+00:00,609857246,608155261,0,Russ3Z,Sun Jian,
+2014-05-20T05:31:17+00:00,609341917,606991455,0,Zanhe,Sun Quan,template
+2014-11-30T20:39:39+00:00,636071725,636036500,0,Underbar dk,Sun Quan,come back when you grammar
+2015-02-13T15:36:02+00:00,646964597,646900483,0,Lds,Sun Quan,trivial
+2014-09-02T07:22:02+00:00,623824204,622688897,0,Dexbot,Sun Quan,Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2014-08-25T03:04:34+00:00,622688897,622670610,0,Lds,Sun Quan,Undid revision 622670610 by [[Special:Contributions/76.90.162.177|76.90.162.177]] ([[User talk:76.90.162.177|talk]])
+2014-08-16T06:44:44+00:00,621454731,621454596,0,Minhle20002013,Sun Quan,
+2015-01-28T15:38:07+00:00,644565184,641265072,0,Damián A. Fernández Beanato,Sun Quan,–
+2015-01-06T17:03:44+00:00,641265072,636071725,0,14.200.68.118,Sun Quan,Removed inapposite comma.
+2014-12-06T02:48:44+00:00,636837926,636552319,0,Nick Number,Wei Zheng,repaired link(s) to disambiguation page ([[WP:DPL|you can help]]) - Wen Yanbo
+2014-03-24T23:57:03+00:00,601115936,601113508,0,Cydebot,Wei Zheng,Robot - Speedily moving category Tang Dynasty historians‎ to [[:Category:Tang dynasty historians‎]] per [[WP:CFDS|CFDS]].
+2014-09-10T09:46:23+00:00,624923050,621800714,0,Niceguyedc,Wei Zheng,[[:en:WP:CLEANER|WPCleaner]] v1.33 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Li Jing]]
+2014-06-04T06:25:56+00:00,611488999,601115936,0,Zanhe,Wei Zheng,
+2014-08-18T17:56:26+00:00,621800714,614786178,0,Timmyshin,Wei Zheng,"clean up, replaced: [[Old Book of Tang|Book of Tang]] → [[Old Book of Tang]] using [[Project:AWB|AWB]]"
+2015-04-03T03:01:01+00:00,654720619,654671501,0,Lds,Wei Zheng,Undid revision 654671501 by [[Special:Contributions/209.202.109.146|209.202.109.146]] ([[User talk:209.202.109.146|talk]]) rv edit by sockpuppet of blocked user
+2015-02-19T07:24:55+00:00,647843541,647130429,0,Lds,Xiahou Ying,Reverted to revision 646966890 by [[Special:Contributions/Lds|Lds]] ([[User talk:Lds|talk]]): Not long enough to warrant splitting up into sections. ([[WP:TW|TW]])
+2014-06-03T12:09:16+00:00,611370139,607746574,0,Madalibi,Xiahou Ying,/* Life */ linking to [[Liu Bang]] and [[Han dynasty]] on first mention outside the lede
+2014-05-09T08:13:10+00:00,607746574,601127595,0,Lds,Xiahou Ying,minor changes
+2014-05-09T07:19:08+00:00,607742968,589744347,0,Lds,Xiang Bo,minor changes
+2015-02-13T16:32:24+00:00,646971151,646971026,0,Lds,Xiang Bo,year of death
+2014-05-09T07:15:44+00:00,607742690,546786912,0,Lds,Xiang Zhuang,minor changes
+2015-02-13T16:29:16+00:00,646970785,645571665,0,Lds,Xiang Zhuang,revert to BC + minor changes
+2014-05-09T07:37:55+00:00,607744284,607193214,0,Lds,Xiao He,minor changes
+2014-08-22T11:09:47+00:00,622323571,622158295,0,Lds,Xiao He,Rv good faith edits. Wrong infobox to be used.
+2014-09-30T22:00:28+00:00,627736171,622323571,0,Dexbot,Xiao He,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2015-02-09T22:21:42+00:00,646411602,646411549,0,99.234.147.71,Xiao He,/* Role in Han Xin's downfall */
+2015-02-19T07:25:53+00:00,647843631,647129593,0,Lds,Xiao He,/* Later life and Death */ decaps
+2015-05-17T06:11:55+00:00,662722131,662692647,0,Lds,Xiao He,Reverted 5 edits by [[Special:Contributions/104.243.98.80|104.243.98.80]] ([[User talk:104.243.98.80|talk]]):  rv edit(s) by IP sockpuppet of blocked user. ([[WP:TW|TW]])
+2014-08-18T18:13:38+00:00,621803018,614786295,0,Timmyshin,Xiao Yu,"/* References */clean up, replaced: [[Old Book of Tang|Book of Tang]] → [[Old Book of Tang]] using [[Project:AWB|AWB]]"
+2015-03-16T04:53:11+00:00,651588487,651169333,0,HenryXVII,Xiao Yu,/* During Emperor Gaozu's reign */
+2014-12-30T19:34:40+00:00,640278221,640270351,0,JBW,Xiao Yu,Reverted edits by [[Special:Contribs/184.148.70.33|184.148.70.33]] ([[User talk:184.148.70.33|talk]]) to last version by JamesBWatson
+2014-09-10T09:47:37+00:00,624923157,624519345,0,Niceguyedc,Xiao Yu,[[:en:WP:CLEANER|WPCleaner]] v1.33 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Li Jing]]
+2015-02-02T14:35:08+00:00,645309523,642561886,0,86.136.5.245,Xu (surname),
+2014-06-12T05:30:53+00:00,612592978,606991874,0,Lds,Xu Chu,minor changes
+2014-09-11T04:48:53+00:00,625043053,624132907,0,K.b.cheng,Xu (surname),
+2014-07-22T10:18:53+00:00,617967126,607747349,0,LlywelynII,Ying Bu,fixing link
+2014-12-31T09:41:03+00:00,640362179,640301463,0,Lds,Xu Chu,/* top */ A
+2015-02-13T15:51:27+00:00,646966342,645572372,0,Lds,Ying Bu,revert to BC + minor changes
+2014-11-22T21:07:42+00:00,635010375,635009764,0,Underbar dk,Yu (Chinese surname),/* See also */
+2014-06-07T17:38:53+00:00,611972470,611972019,0,175.142.97.158,Yu (Chinese surname),"cleaning some rubbish, don't mind me"
+2014-03-25T01:36:37+00:00,601130015,601129266,0,Cydebot,Yuan Xi,Robot - Speedily moving category People executed by the Han Dynasty by decapitation‎ to [[:Category:People executed by the Han dynasty by decapitation‎]] per [[WP:CFDS|CFDS]].
+2015-04-03T03:01:21+00:00,654720649,654671304,0,Lds,Yuchi Gong,Undid revision 654671304 by [[Special:Contributions/209.202.109.146|209.202.109.146]] ([[User talk:209.202.109.146|talk]]) rv edit by sockpuppet of blocked user
+2015-02-25T04:41:52+00:00,648740983,648733197,0,Ponyo,Yuchi Gong,Reverted edits by [[Special:Contribs/Yuanwudi|Yuanwudi]] ([[User talk:Yuanwudi|talk]]) to last version by Lds
+2014-06-28T17:42:12+00:00,614785544,601115249,0,Cydebot,Yuchi Gong,Robot - Speedily moving category Sui Dynasty people to [[:Category:Sui dynasty people]] per [[WP:CFDS|CFDS]].
+2014-03-24T23:51:53+00:00,601115249,587247479,0,Cydebot,Yuchi Gong,Robot - Speedily moving category Tang Dynasty generals related to Göktürks‎ to [[:Category:Tang dynasty generals related to Göktürks‎]] per [[WP:CFDS|CFDS]].
+2014-12-07T02:43:10+00:00,636969534,614785544,0,Nlu,Yuchi Gong,removed [[Category:Generals from Shanxi]]; added [[Category:Tang dynasty generals from Shanxi]] using [[WP:HC|HotCat]]
+2014-06-28T14:52:19+00:00,614764580,614764191,0,99.234.180.241,Zhang (surname),
+2013-12-21T17:02:27+00:00,587114796,541392570,0,Nlu,Yuwen Tai,added [[Category:Generals from Inner Mongolia]] using [[WP:HC|HotCat]]
+2014-12-01T16:04:34+00:00,636183377,622513513,0,Khorichar,Yuwen Tai,
+2014-08-23T20:29:06+00:00,622513513,622513284,0,HenryXVII,Yuwen Tai,/* Personal information */
+2015-05-16T12:40:03+00:00,662580677,661099139,0,Stemonitis,Zhang (surname),"remove ""op. cit."" - no such citation present; etc."
+2014-05-09T07:33:01+00:00,607744006,601128002,0,Lds,Zhang Liang (Western Han),some cleanup
+2015-03-29T21:13:56+00:00,654086305,654043214,0,Underbar dk,Zhang Liang (Western Han),/* Modern references */
+2014-08-22T11:11:14+00:00,622323722,622256645,0,Lds,Zhang Liang (Western Han),Rv good faith edit. The wrong infobox was used.
+2014-12-02T01:07:37+00:00,636250045,636148063,0,Underbar dk,Zhang Liang (Western Han),/* References */ fix
+2015-01-02T13:30:57+00:00,640651700,638019209,0,Dexbot,Zhang Liang (Western Han),Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2015-02-13T15:47:18+00:00,646965864,645570443,0,Lds,Zhang Liang (Western Han),revert to BC + minor changes
+2014-10-22T08:24:52+00:00,630626962,630626684,0,Timmyshin,Zhangsun Wuji,"/* During Emperor Gaozong's reign */clean up, replaced: Liu Shi (chancellor) → Liu Shi (Tang chancellor) using [[Project:AWB|AWB]]"
+2014-08-18T17:56:31+00:00,621800724,614785569,0,Timmyshin,Zhangsun Wuji,"clean up, replaced: [[Old Book of Tang|Book of Tang]] → [[Old Book of Tang]] (3), ''Book of Tang'' → ''Old Book of Tang'' (2) using [[Project:AWB|AWB]]"
+2015-03-02T21:07:59+00:00,649588554,648740989,0,Albertofujimoribund the Burgermeister,Zhangsun Wuji,
+2015-02-25T04:41:52+00:00,648740989,648732871,0,Ponyo,Zhangsun Wuji,Reverted edits by [[Special:Contribs/Yuanwudi|Yuanwudi]] ([[User talk:Yuanwudi|talk]]) to last version by Lds
+2015-04-25T06:00:49+00:00,659096828,654720720,0,Underbar dk,Zhangsun Wuji,+img
+2015-04-30T13:42:52+00:00,660056995,659960533,0,Lds,Zhangsun Wuji,/* top */ add infobox + cleanup
+2015-03-23T17:15:44+00:00,653181363,653162449,0,Lds,Zhangsun Wuji,Reverted 5 edits by [[Special:Contributions/Zhongwudi|Zhongwudi]] ([[User talk:Zhongwudi|talk]]): Rv edits by sockpuppet of blocked user. ([[WP:TW|TW]])
+2014-09-03T09:49:33+00:00,623986911,614784895,0,Dexbot,Zhao Gao,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2014-06-28T17:37:12+00:00,614784895,614531343,0,Cydebot,Zhao Gao,Robot - Speedily moving category Qin Dynasty politicians to [[:Category:Qin dynasty politicians]] per [[WP:CFDS|CFDS]].
+2014-09-06T00:38:42+00:00,624354935,622017224,0,Egsan Bacon,Zhao Yun,Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2014-11-18T23:23:47+00:00,634449789,634449453,0,Widr,Zhao Yun,Reverted 1 edit by [[Special:Contributions/Bret bookspree|Bret bookspree]]  using [[WP:STiki|STiki]]
+2015-03-14T17:46:42+00:00,651361992,651346665,0,Underbar dk,Zhao Yun,rv subtle year changes
+2014-05-16T13:58:21+00:00,608834833,606992311,0,Lds,Zhao Yun,Yun Biezhuan --> Zhao Yun Biezhuan
+2015-05-11T03:49:31+00:00,661790746,661790626,0,Banedon,Zhao Yun,/* In fiction */
+2014-05-04T06:50:24+00:00,606992311,600261950,0,Lds,Zhao Yun,"lowercase for ""dynasty"""
+2014-07-27T01:36:13+00:00,618615837,612734279,0,Lds,Zhao Yun,caps
+2014-05-09T07:23:18+00:00,607743358,607743316,0,Lds,Zhongli Mo,/* Death */ L2 heading
+2014-12-11T10:34:58+00:00,637607003,637557936,0,JBW,Zhou Bo,Reverted edits by [[Special:Contribs/Cdswalkthrough|Cdswalkthrough]] ([[User talk:Cdswalkthrough|talk]]) to last version by Rpyle731
+2014-06-05T06:24:12+00:00,611639607,604805279,0,Zanhe,Zhangsun Wuji,c/e
+2015-03-09T01:09:44+00:00,650537458,649541515,0,Yobot,Cao Pi,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10850)
+2014-08-27T15:14:54+00:00,623038825,621026524,0,14.192.208.84,Cao Pi,
+2013-05-11T07:37:52+00:00,554559400,541086844,0,Bility,Chang Yuchun,Template:Expert-subject-multiple → Template:Expert-subject per [[Wikipedia:Templates for discussion/Log/2012 June 8#Template:Expert-subject-multiple|TfD]] using [[Project:AWB|AWB]]
+2013-12-04T02:37:45+00:00,584463572,545449530,0,集团冲锋侯镜如,Consort Yu (Xiang Yu's wife),
+2013-05-31T19:39:00+00:00,557728872,557711103,0,Singtiang,Chen (surname),
+2013-02-19T18:56:29+00:00,539086594,524526082,0,Addbot,Du Ruhui,[[User:Addbot|Bot:]] Updating 9 interwikilinks per [[Wikipedia:Wikidata|Wikidata]] [[d:q701445]] ([[User talk:Addbot|Report Errors]])
+2014-05-27T13:40:54+00:00,610347618,609831551,0,99.238.74.216,Chen (surname),/* References */ linkrot
+2014-04-16T02:17:45+00:00,604391213,601895470,0,103.17.199.243,Emperor Gaozu of Han,
+2014-11-01T13:34:15+00:00,632009657,629165346,0,Y-S.Ko,Emperor Gaozu of Han,
+2014-01-27T16:10:35+00:00,592651951,591235893,0,Citation bot,Emperor Gaozu of Han,[487]Tweak: url. Combined duplicate references.  | [[User:EdwardH|EdwardH]]
+2013-09-26T16:38:27+00:00,574625041,574265790,0,Ulric1313,Emperor Gaozu of Han,dab
+2014-04-22T17:44:34+00:00,605326005,601124187,0,LilHelpa,Emperor Guangwu of Han,typo
+2015-03-13T19:58:52+00:00,651236005,645360133,0,Wiae,Emperor Guangwu of Han,Disambiguating links to [[Henei]] (link changed to [[Henei (ancient China)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2014-01-13T21:21:11+00:00,590568402,590568322,0,Leoesb1032,Emperor Gaozu of Han,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Leoesb1032|Leoesb1032]] ([[User talk:Leoesb1032|talk]]) to last version by 24.12.110.13
+2013-03-02T10:45:57+00:00,541696388,539089712,0,Klemen Kocjancic,Emperor Ming of Han,+ Persondata using [[Project:AWB|AWB]] (8853)
+2015-05-20T23:33:45+00:00,663330393,659961959,0,Rigadoun,Emperor Guangwu of Han,link
+2013-11-29T02:06:57+00:00,583733544,583726847,0,KAVEBEAR,Emperor Guangwu of Han,KAVEBEAR moved page [[Guangwu of Han]] to [[Emperor Guangwu of Han]] over redirect: undo undiscussed move in violation of [[Wikipedia:History standards for China-related articles]]
+2013-10-17T04:04:11+00:00,577524254,577125518,0,Guoshengsword,Emperor Taizong of Tang,/* Family */
+2013-07-05T08:15:32+00:00,562948245,562867919,0,Khanate General,Emperor Taizong of Tang,full title
+2013-07-27T06:27:25+00:00,565986406,564650329,0,Khanate General,Emperor Taizong of Tang,/* Literary and other cultural references */
+2014-11-16T16:37:15+00:00,634093658,633183054,0,99.235.106.13,Emperor Taizong of Tang,
+2014-01-27T16:09:04+00:00,592651767,587246085,0,Citation bot,Emperor Taizong of Tang,"[487]Tweak: pages, url.  | [[User:EdwardH|EdwardH]]"
+2014-02-20T14:48:36+00:00,596343362,592651767,0,BD2412,Emperor Taizong of Tang,"/* References */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: [[Book of Tang]] → [[Old Book of Tang|Book of Tang]] using [[Project:AWB|AWB]]"
+2013-10-14T18:32:35+00:00,577168673,576966235,0,Nimetapoeg,Emperor Wen of Han,removed [[Category:2nd-century BC Asian rulers]]; added [[Category:2nd-century BC Chinese monarchs]] using [[WP:HC|HotCat]]
+2013-08-24T22:02:07+00:00,570051322,550506209,0,Colonies Chris,Emperor Wu of Chen,"/* Background and early career */sp, date & link fixes; unlinking common words, replaced: Thanh Hoa → Thanh Hóa using [[Project:AWB|AWB]]"
+2013-09-23T16:59:03+00:00,574204713,574080474,0,210.49.78.200,Emperor Wu of Han,
+2014-05-02T17:14:18+00:00,606793178,605422805,0,Ellesil,Emperor Wu of Han,/* Heir apparent */
+2014-07-14T10:29:48+00:00,616894952,614926140,0,123.28.163.28,Emperor Wu of Han,/* Biography */
+2014-10-06T04:09:26+00:00,628427763,627374001,0,138.86.194.115,Emperor Wu of Han,
+2014-04-01T01:49:52+00:00,602202168,601921705,0,Rich Farmbrough,Emperor Wu of Han,/* Heir apparent */
+2014-03-10T14:59:28+00:00,598992006,598991684,0,Dcattell,Emperor Wu of Han,/* Late reign and death */ direct link
+2013-03-18T19:58:36+00:00,545263103,540410127,0,Rigley,Emperor Wu of Northern Zhou,from [[Xiaodao Lun]]
+2013-06-23T16:27:36+00:00,561225695,545263103,0,Rjwilmsi,Emperor Wu of Northern Zhou,"/* Middle reign */Citation parameter fixes, , publisher using [[Project:AWB|AWB]] (9289)"
+2014-10-05T15:37:17+00:00,628344050,628140264,0,KylieTastic,Emperor Xuan of Han,pointless adding back link to a file that has been deleted (unless re-upload or restored by OTRS first)
+2013-11-29T02:01:21+00:00,583732953,583726700,0,KAVEBEAR,Emperor Xuan of Han,KAVEBEAR moved page [[Xuan of Han]] to [[Emperor Xuan of Han]] over redirect: undo undiscussed move in violation of Wikipedia:History standards for China-related articles
+2013-03-24T04:21:31+00:00,546671342,543727341,0,Khazar2,Emperor Yuan of Han,"/* Reign as emperor */clean up, replaced: first born son → first-born son using [[Project:AWB|AWB]] (8853)"
+2013-02-27T08:44:47+00:00,540885607,539014882,0,Addbot,Fan Kuai,"[[User:Addbot|Bot:]] Migrating 6 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1149550]] ([[User talk:Addbot|Report Errors]])"
+2013-02-19T19:41:57+00:00,539094464,524526625,0,Addbot,Fang Xuanling,[[User:Addbot|Bot:]] Updating 11 interwikilinks per [[Wikipedia:Wikidata|Wikidata]] [[d:q736647]] ([[User talk:Addbot|Report Errors]])
+2013-03-01T10:09:39+00:00,541483865,541369288,0,Addbot,Gao Jiong,"Bot: Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q711652]]"
+2013-05-29T22:44:49+00:00,557423033,556482207,0,71.243.109.65,Hongwu Emperor,
+2013-12-06T20:12:45+00:00,584895922,584895790,0,K6ka,Hongwu Emperor,Reverted 1 edit by [[Special:Contributions/75.141.138.210|75.141.138.210]] ([[User talk:75.141.138.210|talk]]) to last revision by Atethnekos. [[:User_talk:K6ka|Mistake?]] ([[WP:TW|TW]])
+2015-02-27T08:06:22+00:00,649058056,648740994,0,66.255.202.214,Hongwu Emperor,"/* Relations with Muslims */ removed reference to ""Muslim sources.""  NONE of the sources cited are overtly (or covertly afaik) Muslim.  The claim (that only ""Muslim sources"" record these things of the Emperor) appears to reflect ideology more than fact."
+2015-02-13T09:30:38+00:00,646929187,643958076,0,Yobot,Hongwu Emperor,"[[WP:CHECKWIKI]] error fixes (Unnecessary pipe template), replaced: [[:zh:s:明史/卷1{{!}}vol. 1]] → [[:zh:s:明史/卷1|vol. 1]] using [[Project:AWB|AWB]] (10823)"
+2013-10-31T01:30:33+00:00,579553936,579553835,0,K6ka,Hongwu Emperor,Reverted 2 edits by [[Special:Contributions/72.201.166.55|72.201.166.55]] ([[User talk:72.201.166.55|talk]]). ([[WP:TW|TW]])
+2013-08-24T16:14:08+00:00,570010529,555167189,0,125.165.107.251,Hua Xin,
+2015-01-27T00:07:39+00:00,644328594,637606976,0,Xianwendi,Li Shang,
+2013-04-04T09:16:27+00:00,548631835,541064855,0,76.181.73.99,Li Shiji,/* During Emperor Taizong's reign */
+2014-06-29T06:08:33+00:00,614849364,614845236,0,Arxiloxos,Liu Bei,Reverted edits by [[Special:Contribs/50.184.118.238|50.184.118.238]] ([[User talk:50.184.118.238|talk]]) to last version by Magioladitis
+2013-07-18T09:17:53+00:00,564764839,551909736,0,Numbermaniac,Li Yiji,General fixes using [[Project:AWB|AWB]]
+2014-12-11T04:10:35+00:00,637576028,636511947,0,Dissident93,Liu Bei,
+2013-06-05T19:23:15+00:00,558489982,557904083,0,JustAGal,Liu Bei,"Disambiguated: [[Cao Bao (Han Dynasty)]] → [[Cao Bao (died 196)]], [[Battle of Jiangling]] → [[Battle of Jiangling (disambiguation)]], [[Xu Jing]] → [[Xu Jing (Three Kingdoms)]]"
+2014-03-15T16:58:43+00:00,599741900,594478130,0,Hanchi,Liu Bei,"/* In fiction */  linked ""sword"" to Chinese Jian"
+2013-03-16T22:38:27+00:00,544768295,527659791,0,Addbot,Liu Wenjing,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q701539]]"
+2013-09-20T18:14:30+00:00,573810208,573809962,0,125.165.107.251,Liu Biao,
+2014-06-28T17:47:46+00:00,614786361,601112642,0,ArmbrustBot,Liu Wenjing,"/* References */re-categorisation per [[WP:CFDS|CFDS]], replaced: Category:Sui Dynasty politicians → Category:Sui dynasty politicians using [[Project:AWB|AWB]]"
+2013-09-20T17:38:08+00:00,573805773,551910060,0,125.165.107.251,Ma Teng,
+2013-10-01T20:57:09+00:00,575342161,575341895,0,Shii,Peng Yue,
+2014-08-29T02:33:04+00:00,623258383,620688270,0,The dog2,Qin Shi Huang,
+2014-03-14T14:00:11+00:00,599582829,599582637,0,72.49.242.65,Qin Shi Huang,/* Second Emperor conspiracy */
+2013-10-28T00:41:41+00:00,579034654,578975985,0,Bkwillwm,Qin Shi Huang,Revert to revision 578874136 dated 2013-10-26 21:28:17 by Lowercase sigmabot using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2013-07-26T05:33:09+00:00,565851863,565589365,0,PhnomPencil,Qin Shi Huang,/* Family history and birth */Disambiguating [[Zhao]] using [[Project:AWB|AWB]]
+2013-07-24T08:49:46+00:00,565589365,564940644,0,TRMC,Qin Shi Huang,
+2013-09-18T21:27:53+00:00,573557433,573556841,0,Phlar,Qin Shi Huang,"Undid revision 573556841 by [[Special:Contributions/Phlar|Phlar]] ([[User talk:Phlar|talk]]) oops, I was too hasty"
+2013-05-27T21:20:43+00:00,557073242,557065123,0,RolandR,Qin Shi Huang,Reverted 1 edit by [[Special:Contributions/Jiataozhang|Jiataozhang]] ([[User talk:Jiataozhang|talk]]): Gibberish. ([[WP:TW|TW]])
+2014-06-21T15:21:22+00:00,613820757,613807321,0,Coldcreation,Qin Shi Huang,Undid revision 613807321 by [[Special:Contributions/174.61.250.208|174.61.250.208]] ([[User talk:174.61.250.208|talk]])
+2013-05-24T04:39:31+00:00,556534566,556534533,0,Graphium,Qin Shi Huang,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/99.6.249.83|99.6.249.83]] ([[User talk:99.6.249.83|talk]]) to last version by Zanhe
+2015-03-17T09:21:17+00:00,651758050,651757310,0,Chewings72,Qin Shi Huang,Revert to revision 650914715 dated 2015-03-11 15:41:37 by ClueBot NG using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2013-05-10T17:47:59+00:00,554476169,554333399,0,212.12.211.235,Qin Shi Huang,
+2014-05-08T08:09:06+00:00,607598470,607522630,0,114.108.216.240,Qin Shi Huang,/* Cultural references */
+2014-07-22T10:55:24+00:00,617969892,617935523,0,Coldcreation,Qin Shi Huang,Undid revision 617935523 by [[Special:Contributions/218.215.133.174|218.215.133.174]] ([[User talk:218.215.133.174|talk]])
+2014-02-07T16:54:12+00:00,594389411,594294201,0,Esetzeko,Qin Shi Huang,Format Changed to standard layout. No content altered
+2013-11-03T17:36:03+00:00,580029596,579436704,0,220.255.193.107,Qin Shi Huang,/* Naming taboo */
+2013-04-26T01:12:09+00:00,552205138,552204813,0,Jasper Deng,Qin Shi Huang,Rejected the last text change (by [[Special:Contributions/108.50.207.48|108.50.207.48]]) and restored revision 552051831 by ClueBot NG
+2013-04-30T16:27:43+00:00,552905519,540123700,0,171.6.148.238,Sima Yi,/* Service under Cao Cao */
+2013-04-24T04:35:06+00:00,551907527,551894361,0,Pratyya Ghosh,Sun Quan,Reverted edit(s) by [[Special:Contributions/Wuchinchuen|Wuchinchuen]] identified as test/vandalism using [[WP:STiki|STiki]]
+2014-03-16T15:28:14+00:00,599870905,596344029,0,Mx. Granger,Wei Zheng,adding tones
+2013-02-22T00:39:44+00:00,539567619,524339394,0,Addbot,Wei Zheng,"[[User:Addbot|Bot:]] Migrating 11 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q378356]] ([[User talk:Addbot|Report Errors]])"
+2014-02-20T14:51:56+00:00,596344029,539567619,0,BD2412,Wei Zheng,"/* References */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: [[Book of Tang]] → [[Old Book of Tang|Book of Tang]] using [[Project:AWB|AWB]]"
+2013-03-01T01:20:32+00:00,541383170,539016941,0,Addbot,Xiahou Ying,"[[User:Addbot|Bot:]] Migrating 5 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1071398]] ([[User talk:Addbot|Report Errors]])"
+2013-03-25T18:00:54+00:00,546943481,541383641,0,Khazar2,Xiang Bo,"/* Later life */clean up, replaced: four year long  → four-year-long using [[Project:AWB|AWB]] (8853)"
+2013-03-24T19:55:53+00:00,546786912,539017815,0,Addbot,Xiang Zhuang,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q8044154]]"
+2013-03-01T01:28:07+00:00,541384401,524527978,0,Addbot,Xiao Yu,"[[User:Addbot|Bot:]] Migrating 5 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1291074]] ([[User talk:Addbot|Report Errors]])"
+2014-11-15T22:52:29+00:00,633998772,624923157,0,99.235.106.13,Xiao Yu,
+2015-05-15T12:27:30+00:00,662439318,660799039,0,20jeromec,Xu (surname),
+2014-07-04T03:10:35+00:00,615517998,611489818,0,彭家杰,Xu (surname),
+2013-08-19T08:41:16+00:00,569192027,560425395,0,125.165.107.251,Xu Chu,Add People of Cao Wei template
+2014-01-20T18:45:50+00:00,591596822,581303472,0,145.107.10.55,Yu (Chinese surname),
+2013-08-07T09:21:09+00:00,567514345,567462028,0,DPL bot,Yu (Chinese surname),removing dablinks template; fewer than 4 disambig links (see the [[Template:Dablinks/FAQ|FAQ]])
+2013-03-01T02:15:32+00:00,541392492,538559787,0,Addbot,Yuchi Gong,"Bot: Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1272192]]"
+2013-03-01T02:15:44+00:00,541392570,537408043,0,Addbot,Yuwen Tai,"[[User:Addbot|Bot:]] Migrating 5 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1071587]] ([[User talk:Addbot|Report Errors]])"
+2013-05-21T01:44:51+00:00,556037484,555160629,0,Aberdeen01,Zhang (surname),"/* {{lang|zh|張}} and {{lang|zh|张}} */ mention Zhang Yi Tang, mathematician"
+2013-07-15T08:08:42+00:00,564332208,564262416,0,Numbermaniac,Zhang Liang (Western Han),General fixes using [[Project:AWB|AWB]]
+2013-09-30T21:14:46+00:00,575197294,571433850,0,Laninini,Zhang (surname),/* List of persons with the surname */
+2013-05-09T15:35:08+00:00,554302918,541401738,0,Folly Mox,Zhangsun Wuji,/* During Emperor Taizong's reign */ Hu Sansheng -> Hu Sanxing
+2015-04-28T02:45:56+00:00,659605739,659605406,0,Yueshimin,Zhangsun Wuji,/* During Emperor Gaozong's reign */
+2013-03-01T02:51:24+00:00,541401738,512739274,0,Addbot,Zhangsun Wuji,"[[User:Addbot|Bot:]] Migrating 7 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1192341]] ([[User talk:Addbot|Report Errors]])"
+2014-02-11T13:45:09+00:00,594976900,565828357,0,201.153.24.103,Zhao Gao,/* Coup following Qin Shi Huang's death */
+2014-02-20T14:57:21+00:00,596345038,583785470,0,BD2412,Zhangsun Wuji,"Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: [[Book of Tang]] → [[Old Book of Tang|Book of Tang]] (3) using [[Project:AWB|AWB]]"
+2014-06-04T11:19:44+00:00,611513357,605525041,0,Rjwilmsi,Zhao Gao,/* Early life */Added 1 doi to a journal cite using [[Project:AWB|AWB]] (10216)
+2014-03-19T04:36:12+00:00,600261950,599746074,0,72.201.0.95,Zhao Yun,/* Video games */

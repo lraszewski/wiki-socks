@@ -1,0 +1,343 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-06-20T02:40:32+00:00,1029453516,1029415494,1,Nia503,The Karate Kid (2010 film),/* Future sequel */
+2021-06-20T00:52:08+00:00,1029442057,1022772213,1,Nia503,The Woman in Black: Angel of Death,/* Development */
+2021-06-19T23:20:39+00:00,1029431682,1028610698,1,Nia503,Girls Trip,/* Potential sequel */
+2021-06-19T23:02:03+00:00,1029429544,1028746308,1,Nia503,Venom (2018 film),/* Sequel */
+2021-08-03T16:19:27+00:00,1036943388,1034349603,1,Adeola_mathew,Gaston Browne,/* Family and personal life */
+2021-08-03T14:56:49+00:00,1036931085,1036637198,1,Adeola_mathew,Shrek Forever After,/* Possible sequel */
+2021-08-03T13:23:51+00:00,1036919359,1036626388,1,Adeola_mathew,Maleficent: Mistress of Evil,/* Sequel */
+2021-08-03T12:53:44+00:00,1036915638,1036914242,1,Adeola_mathew,Jungle Cruise (film),/* Future */
+2021-08-03T04:01:17+00:00,1036860235,1036851707,1,Adeola_mathew,Jungle Cruise (film),/* Future */
+2021-06-22T16:14:13+00:00,1029885486,1029240657,1,AlmarieCoates,The Twilight Saga: Breaking Dawn – Part 2,/* Production */
+2021-06-22T15:46:45+00:00,1029880453,1029322564,1,AlmarieCoates,Child's Play (2019 film),/* Possible sequel */
+2021-06-28T11:25:37+00:00,1030854491,1030696085,1,AmiraBrowne,Venom (2018 film),/* Sequel */
+2021-06-28T11:19:03+00:00,1030853621,1030794952,1,AmiraBrowne,Girls Trip,/* Potential sequel */
+2021-06-28T02:06:43+00:00,1030792963,1030476103,1,AmiraBrowne,Girls Trip,/* Potential sequel */
+2021-06-28T01:23:23+00:00,1030786482,1030671465,1,AmiraBrowne,Captain Marvel (film),/* Sequel */
+2021-07-05T22:42:34+00:00,1032177239,1032160011,1,Angella_Joseph,Venom (2018 film),/* Sequel */
+2021-06-21T13:16:13+00:00,1029691558,1029612492,1,BrandonCoates,Venom (2018 film),/* Sequel */
+2021-06-21T02:06:23+00:00,1029615586,1029431762,1,BrandonCoates,Girls Trip,/* Potential sequel */
+2021-06-21T01:39:17+00:00,1029612215,1029604366,1,BrandonCoates,Venom (2018 film),/* Sequel */
+2021-06-21T00:33:03+00:00,1029604331,1029429585,1,BrandonCoates,Venom (2018 film),/* Sequel */
+2021-06-20T22:23:11+00:00,1029588603,1029379574,1,BrandonCoates,Iron Man 3,/* Future */
+2021-06-22T18:44:10+00:00,1029905891,1029127288,1,CandiCoates,Antigua and Barbuda,/* Geography */
+2021-08-06T16:31:39+00:00,1037448884,1037126919,1,Clair_chastanet,Warcraft (film),/* Future */
+2021-08-06T16:11:02+00:00,1037446195,1036526015,1,Clair_chastanet,Shazam! (film),/* Sequel */
+2021-08-06T14:05:01+00:00,1037429274,1037419251,1,Clair_chastanet,Rampage (2018 film),/* Possible sequel */
+2021-08-06T12:43:24+00:00,1037419243,1037354932,1,Clair_chastanet,Rampage (2018 film),/* Possible sequel */
+2022-01-10T23:12:04+00:00,1064932589,1064907613,1,Coates_brandon,Thor: Ragnarok,/* Future */
+2022-01-10T20:16:15+00:00,1064906896,1057948812,1,Coates_brandon,Thor: Ragnarok,/* Future */
+2021-07-07T16:56:57+00:00,1032472865,1032376613,1,Cynthia_Quallis,Captain Marvel (film),/* Sequel */
+2021-07-07T16:25:17+00:00,1032468812,1031963226,1,Cynthia_Quallis,Girls Trip,/* Potential sequel */
+2021-08-05T04:29:10+00:00,1037206341,1037203232,1,Denelie_callender,Deadpool 2,/* Sequel */
+2021-08-05T03:54:45+00:00,1037203130,1037184162,1,Denelie_callender,Deadpool 2,/* Sequel */
+2021-08-05T00:18:05+00:00,1037178888,1036637255,1,Denelie_callender,Deadpool 2,/* Sequel */
+2021-08-04T23:40:27+00:00,1037174482,1037171992,1,Denelie_callender,Shrek Forever After,/* Possible sequel */
+2021-08-04T23:13:51+00:00,1037171913,1037150263,1,Denelie_callender,Shrek Forever After,/* Possible sequel */
+2021-08-04T23:09:56+00:00,1037171564,1036524911,1,Denelie_callender,Thor: Ragnarok,/* Future */
+2021-08-04T19:05:19+00:00,1037141055,1036931095,1,Denelie_callender,Shrek Forever After,/* Possible sequel */
+2022-04-11T22:38:10+00:00,1082208128,1082171520,1,Gamyle_Lyne,Thor: Ragnarok,/* Future */
+2022-04-11T20:34:53+00:00,1082190013,1081963727,1,Gamyle_Lyne,Black Panther (film),/* Future */
+2022-04-11T17:35:07+00:00,1082162700,1081314702,1,Gamyle_Lyne,Hocus Pocus (1993 film),/* Sequel */
+2022-04-11T14:54:15+00:00,1082136909,1081930645,1,Gamyle_Lyne,Thor: Ragnarok,/* Future */
+2022-04-11T12:12:40+00:00,1082115398,1082004312,1,Gamyle_Lyne,Shrek Forever After,/* Possible sequel */
+2021-08-01T20:18:54+00:00,1036637166,1036627164,1,Holliet_valentine,Shrek Forever After,/* Possible sequel */
+2021-08-01T20:13:59+00:00,1036636622,1036616612,1,Holliet_valentine,Deadpool 2,/* Sequel */
+2021-08-01T18:51:37+00:00,1036626381,1035199088,1,Holliet_valentine,Maleficent: Mistress of Evil,/* Sequel */
+2021-08-01T18:26:15+00:00,1036623361,1036470128,1,Holliet_valentine,Shrek Forever After,/* Possible sequel */
+2021-08-01T17:30:48+00:00,1036615874,1036424306,1,Holliet_valentine,Deadpool 2,/* Sequel */
+2021-06-25T16:27:17+00:00,1030387536,1030240565,1,IkeemaGreenaway,Venom (2018 film),/* Sequel */
+2021-07-31T14:05:57+00:00,1036432904,1036429781,1,Kiana_joseph,Iron Man 3,/* Future */
+2021-07-31T13:38:16+00:00,1036429697,1036178926,1,Kiana_joseph,Iron Man 3,/* Future */
+2021-07-31T12:47:42+00:00,1036424292,1036283533,1,Kiana_joseph,Deadpool 2,/* Sequel */
+2021-06-22T11:53:20+00:00,1029850150,1028049950,1,KianCoates,Mama (2013 film),/* Production */
+2021-06-22T11:49:35+00:00,1029849759,1029840998,1,KianCoates,Venom (2018 film),/* Sequel */
+2021-06-22T03:17:12+00:00,1029801594,1029800364,1,KianCoates,Venom (2018 film),/* Sequel */
+2021-06-22T02:12:32+00:00,1029795109,1029078664,1,KianCoates,Captain Marvel (film),/* Sequel */
+2021-06-22T02:03:51+00:00,1029794047,1029742426,1,KianCoates,Venom (2018 film),/* Sequel */
+2021-06-21T18:28:32+00:00,1029737967,1029727207,1,KianCoates,Venom (2018 film),/* Sequel */
+2021-06-21T17:05:31+00:00,1029725893,1029720889,1,KianCoates,Venom (2018 film),/* Sequel */
+2021-06-21T16:32:41+00:00,1029720874,1029692460,1,KianCoates,Venom (2018 film),/* Sequel */
+2021-07-30T01:20:00+00:00,1036187235,1036145735,1,Madea_Simons,Deadpool 2,/* Sequel */
+2021-07-29T22:26:44+00:00,1036167414,1036059879,1,Madea_Simons,Hancock (film),/* Possible sequel */
+2021-07-29T19:31:08+00:00,1036145270,1036136316,1,Madea_Simons,Deadpool 2,/* Sequel */
+2021-07-29T18:11:40+00:00,1036134679,1036115526,1,Madea_Simons,Deadpool 2,/* Sequel */
+2021-07-29T15:47:21+00:00,1036114636,1035858763,1,Madea_Simons,Deadpool 2,/* Sequel */
+2021-06-22T13:46:31+00:00,1029864502,1029859688,1,MitchelleCoates,Venom (2018 film),/* Sequel */
+2021-06-22T13:11:35+00:00,1029859670,1029850549,1,MitchelleCoates,Venom (2018 film),/* Sequel */
+2021-07-04T19:00:18+00:00,1031963136,1030241741,1,Nama_Roberts,The Nun (2018 film),/* Planned sequel */
+2021-07-04T18:41:33+00:00,1031960553,1031868812,1,Nama_Roberts,Venom (2018 film),/* Sequel */
+2021-07-04T13:23:09+00:00,1031919402,1030854021,1,Nama_Roberts,Girls Trip,/* Potential sequel */
+2021-07-04T04:22:34+00:00,1031868033,1031867022,1,Nama_Roberts,Venom (2018 film),/* Sequel */
+2021-07-04T04:11:22+00:00,1031866859,1031866539,1,Nama_Roberts,Venom (2018 film),/* Sequel */
+2021-07-04T03:57:46+00:00,1031865289,1031819767,1,Nama_Roberts,Venom (2018 film),/* Sequel */
+2021-07-04T03:32:09+00:00,1031862557,1031567512,1,Nama_Roberts,Peter Rabbit (film),/* Sequel */
+2021-06-23T03:41:12+00:00,1029970531,1029967751,1,SeniceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-23T03:01:06+00:00,1029965271,1029918053,1,SeniceGreenaway,Child's Play (2019 film),/* Possible sequel */
+2021-06-23T02:54:55+00:00,1029964515,1029936582,1,SeniceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-22T21:49:25+00:00,1029930790,1029929570,1,SeniceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-22T20:07:34+00:00,1029917354,1029876717,1,SeniceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-22T19:42:41+00:00,1029914011,1029880461,1,SeniceGreenaway,Child's Play (2019 film),/* Possible sequel */
+2021-06-26T04:42:12+00:00,1030475582,1030474653,1,SharonGreenaway,Girls Trip,/* Potential sequel */
+2021-06-26T04:31:31+00:00,1030474606,1030450411,1,SharonGreenaway,Girls Trip,/* Potential sequel */
+2021-06-26T04:08:54+00:00,1030472643,1030470746,1,SharonGreenaway,Captain Marvel (film),/* Sequel */
+2021-06-26T03:14:23+00:00,1030467850,1029982726,1,SharonGreenaway,Captain Marvel (film),/* Sequel */
+2021-07-28T03:34:40+00:00,1035862647,1034359235,1,Sweet_krist,The Twilight Saga: Breaking Dawn – Part 2,/* Spin-offs */
+2021-07-28T02:52:55+00:00,1035857776,1035821269,1,Sweet_krist,Deadpool 2,/* Sequel */
+2021-07-27T21:04:04+00:00,1035815950,1034921178,1,Sweet_krist,Shazam! (film),/* Sequel */
+2021-07-27T19:22:17+00:00,1035802131,1035792487,1,Sweet_krist,Deadpool 2,/* Sequel */
+2021-07-27T18:19:53+00:00,1035794542,1035188934,1,Sweet_krist,Girls Trip,/* Potential sequel */
+2021-07-27T18:03:16+00:00,1035792396,1035776435,1,Sweet_krist,Deadpool 2,/* Sequel */
+2021-07-27T16:05:17+00:00,1035776258,1035768082,1,Sweet_krist,Deadpool 2,/* Sequel */
+2021-07-27T15:09:56+00:00,1035768063,1035739319,1,Sweet_krist,Deadpool 2,/* Sequel */
+2021-06-24T18:50:08+00:00,1030240159,1030229572,1,VinceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-24T17:14:13+00:00,1030226027,1030210878,1,VinceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-24T15:20:42+00:00,1030210737,1030195489,1,VinceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-24T13:21:17+00:00,1030195443,1030112426,1,VinceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-23T22:43:59+00:00,1030106618,1030102965,1,VinceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-23T16:44:27+00:00,1030059238,1029965283,1,VinceGreenaway,Child's Play (2019 film),/* Possible sequel */
+2021-06-23T14:35:32+00:00,1030041816,1029997719,1,VinceGreenaway,Venom (2018 film),/* Sequel */
+2021-06-23T07:40:25+00:00,1029997160,1029977588,1,VinceGreenaway,Venom (2018 film),/* Sequel */
+2021-09-09T22:43:55+00:00,1043397507,1043395734,0,TriiipleThreat,Captain Marvel (film),Reverted edits by [[Special:Contribs/2600:6C44:417F:F9C6:255F:76AA:886E:B1A0|2600:6C44:417F:F9C6:255F:76AA:886E:B1A0]] ([[User talk:2600:6C44:417F:F9C6:255F:76AA:886E:B1A0|talk]]) to last version by Facu-el Millo
+2021-08-31T05:52:43+00:00,1041554833,1041551395,0,Adamstom.97,Captain Marvel (film),Undid revision 1041551395 by [[Special:Contributions/Ulises1126|Ulises1126]] ([[User talk:Ulises1126|talk]]) this summary was discussed and agreed upon at the talk page
+2021-12-29T11:18:00+00:00,1062595642,1062578286,0,Mascarbone,Antigua and Barbuda,
+2021-09-02T03:00:00+00:00,1041885427,1041885145,0,Chompy Ace,Black Panther (film),/* References */Added access parameter for Forbes
+2021-11-27T14:25:26+00:00,1057416139,1055999142,0,Citation bot,Antigua and Barbuda,"Alter: template type. Add: magazine, pages, authors 1-1. Removed proxy/dead URL that duplicated identifier. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_webform 2080/2195"
+2021-10-08T06:40:03+00:00,1048828311,1048610913,0,(a)nnihilation97,Captain Marvel (film),/* External links */
+2021-09-10T16:58:04+00:00,1043545464,1043539830,0,Serols,Child's Play (2019 film),Reverted edits by [[Special:Contributions/208.83.82.217|208.83.82.217]] ([[User talk:208.83.82.217|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-11-30T19:31:12+00:00,1057979886,1057977578,0,Spanneraol,Captain Marvel (film),Reverted edits by [[Special:Contribs/96.66.44.150|96.66.44.150]] ([[User talk:96.66.44.150|talk]]) to last version by Asdfghjkl9658
+2022-02-16T22:51:04+00:00,1072287699,1072287627,0,Extraordinary Writ,Captain Marvel (film),Reverted 1 edit by [[Special:Contributions/2601:8C2:8200:85F0:0:0:0:DF18|2601:8C2:8200:85F0:0:0:0:DF18]] ([[User talk:2601:8C2:8200:85F0:0:0:0:DF18|talk]]) to last revision by Favre1fan93
+2021-07-24T10:56:13+00:00,1035216150,1035214325,0,Zanimum,Captain Marvel (film),"/* Home media */ The discussion was closed on February 3, 2021."
+2021-11-16T02:44:45+00:00,1055477812,1054855088,0,Favre1fan93,Black Panther (film),
+2021-08-18T19:39:10+00:00,1039449584,1039386177,0,73.177.212.98,Child's Play (2019 film),Unsourced.
+2021-12-11T16:06:37+00:00,1059781512,1058880105,0,CourtneyTheFortney,Child's Play (2019 film),/* Plot */Improved grammar
+2021-10-18T22:56:32+00:00,1050620492,1050619888,0,Chompy Ace,Captain Marvel (film),Update
+2021-08-08T22:44:55+00:00,1037821957,1037821909,0,IronManCap,Captain Marvel (film),Sorted categories alphabetically via [[User:Alex 21/script-categoriessort|script]].
+2021-12-01T01:30:12+00:00,1058030174,1058025813,0,InEventOf,Child's Play (2019 film),/* Plot */
+2022-03-27T01:10:57+00:00,1079482682,1078711216,0,161.174.1.129,Child's Play (2019 film),
+2022-02-23T10:49:50+00:00,1073568923,1073564761,0,JJMC89 bot III,Child's Play (2019 film),Moving [[:Category:Canadian film remakes]] to [[:Category:Remakes of Canadian films]] per [[Wikipedia:Categories for discussion/Log/2022 January 8#Film remakes by country]]
+2021-12-28T00:20:39+00:00,1062357037,1061921181,0,BrownHairedGirl,Child's Play (2019 film),"some ref cleanup tags should be AFTER </ref>, replaced: {{Primary source inline|date=August 2020}}</ref> → </ref>{{Primary source inline|date=August 2020}} (2)"
+2022-03-31T02:17:52+00:00,1080236051,1079844268,0,H2828,Deadpool 2,
+2021-06-27T14:15:12+00:00,1030693292,1030693211,0,Renamed user 6196787986447,Deadpool 2,Undid revision 1030692965 by [[Special:Contributions/99.21.120.234|99.21.120.234]] ([[User talk:99.21.120.234|talk]])
+2021-10-30T20:04:26+00:00,1052730180,1050461214,0,Rlink2,Deadpool 2,"/* References */Archiving, identifying, and fixing live and dead Youtube videos (https://en.wikipedia.org/wiki/Wikipedia:Link_rot)"
+2021-09-15T16:14:31+00:00,1044508041,1043816644,0,38.146.204.238,Deadpool 2,
+2022-02-03T04:04:18+00:00,1069599772,1069571932,0,Adamstom.97,Deadpool 2,Undid revision 1069571932 by [[Special:Contributions/2806:101E:3:C55:1CE0:8E1A:2D1:EE14|2806:101E:3:C55:1CE0:8E1A:2D1:EE14]] ([[User talk:2806:101E:3:C55:1CE0:8E1A:2D1:EE14|talk]])
+2022-01-01T03:00:18+00:00,1063078870,1062214518,0,2601:603:4C80:9F90:3908:2411:3E07:2876,Deadpool 2,/* Plot */Wording
+2022-02-17T12:40:57+00:00,1072386696,1071887156,0,Rüsselsheim Main,Deadpool 2,
+2021-09-26T18:54:35+00:00,1046644189,1046644070,0,Crboyer,Deadpool 2,Rollback edit(s) by [[Special:Contributions/2601:81:447E:7980:0:0:0:551F|2601:81:447E:7980:0:0:0:551F]] ([[User_talk:2601:81:447E:7980:0:0:0:551F|talk]]): [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2022-02-14T21:42:27+00:00,1071887156,1071755633,0,Adamstom.97,Deadpool 2,Undid revision 1071755633 by [[Special:Contributions/173.2.237.207|173.2.237.207]] ([[User talk:173.2.237.207|talk]]) [[WP:LQ]]
+2022-01-25T01:55:24+00:00,1067764596,1064720709,0,2001:1388:111:BC44:695D:2A5A:E7A8:6725,Deadpool 2,/* Production */
+2022-01-09T21:40:53+00:00,1064720709,1064374371,0,AnonymousUser12375,Deadpool 2,/* Plot */
+2021-10-17T23:50:21+00:00,1050461214,1050284106,0,97.80.116.211,Deadpool 2,
+2021-10-05T03:51:20+00:00,1048271068,1048227102,0,Adamstom.97,Deadpool 2,Revert
+2021-07-02T10:51:03+00:00,1031573678,1030633888,0,Arimaboss,Gaston Browne,
+2021-11-11T16:36:56+00:00,1054700742,1054506031,0,94.109.50.215,Deadpool 2,
+2022-03-21T20:01:17+00:00,1078482311,1078068771,0,Llammakey,Deadpool 2,/* Marvel Cinematic Universe */ fixed bareurl
+2021-08-07T19:31:51+00:00,1037635450,1037635410,0,Discospinster,Girls Trip,Reverted edits by [[Special:Contributions/Winifred_sanderson|Winifred_sanderson]] ([[User talk:Winifred_sanderson|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-08-01T20:19:40+00:00,1036637255,1036636622,0,DonQuixote,Deadpool 2,Undid revision 1036636622 by [[Special:Contributions/Holliet valentine|Holliet valentine]] ([[User talk:Holliet valentine|talk]])
+2021-08-30T23:57:19+00:00,1041515477,1037995511,0,Cheney123,Gaston Browne,
+2021-08-21T20:41:24+00:00,1039961577,1039871233,0,Adamstom.97,Deadpool 2,Undid revision 1039871233 by [[Special:Contributions/97.80.116.211|97.80.116.211]] ([[User talk:97.80.116.211|talk]])
+2021-07-04T19:00:56+00:00,1031963226,1031919402,0,Discospinster,Girls Trip,Reverted edits by [[Special:Contribs/Nama Roberts|Nama Roberts]] ([[User talk:Nama Roberts|talk]]) to last version by Materialscientist
+2021-11-19T19:27:55+00:00,1056105355,1056103781,0,Jauerback,Deadpool 2,Reverted edits by [[Special:Contribs/66.11.106.130|66.11.106.130]] ([[User talk:66.11.106.130|talk]]) to last version by ChristianJosephAllbee
+2021-06-28T11:22:00+00:00,1030854021,1030853621,0,Materialscientist,Girls Trip,Reverted edits by [[Special:Contributions/AmiraBrowne|AmiraBrowne]] ([[User talk:AmiraBrowne|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-06-21T13:23:13+00:00,1029692483,1029615586,0,Serols,Girls Trip,Reverted edits by [[Special:Contributions/BrandonCoates|BrandonCoates]] ([[User talk:BrandonCoates|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-01-24T16:49:33+00:00,1067680375,1062662355,0,Volten001,Girls Trip,/* top */Added links
+2021-11-09T09:23:29+00:00,1054314785,1053120588,0,192.114.91.243,Girls Trip,
+2022-02-05T01:21:27+00:00,1069974401,1069974275,0,2603:8000:2F00:F1EC:CC:7095:6A94:6054,Girls Trip,/* See also */
+2022-02-09T22:57:47+00:00,1070910537,1070813632,0,157.52.54.11,Hocus Pocus (1993 film),
+2021-12-29T20:08:55+00:00,1062662355,1054314785,0,Citation bot,Girls Trip,Alter: template type. Add: magazine. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1345/2197
+2022-03-15T02:52:02+00:00,1077210534,1076096794,0,Citation bot,Girls Trip,Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 662/2846
+2022-01-31T10:16:57+00:00,1069037305,1068619799,0,Packer1028,Hancock (film),/* Sequel */ fixed typo
+2022-02-20T21:17:14+00:00,1073065456,1072786117,0,24.34.100.64,Hancock (film),/* Marketing */ removed unverified and unsourced myth
+2022-03-15T01:22:25+00:00,1077198227,1077169028,0,Facu-el Millo,Iron Man 3,Undid revision 1077169028 by [[Special:Contributions/2600:100D:B04F:17F8:3837:7953:14EA:5E3|2600:100D:B04F:17F8:3837:7953:14EA:5E3]] ([[User talk:2600:100D:B04F:17F8:3837:7953:14EA:5E3|talk]])
+2021-07-17T16:51:12+00:00,1034076101,1034074986,0,SierraTangoCharlie1,Girls Trip,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/208.83.85.142|208.83.85.142]] ([[User talk:208.83.85.142|talk]]): Reverted last damaging/unconstructive edits
+2022-01-17T19:36:34+00:00,1066309668,1064866155,0,Citation bot,Hocus Pocus (1993 film),Alter: title. Add: website. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_webform 527/1354
+2022-01-04T21:02:39+00:00,1063772284,1063311497,0,2601:195:C200:2660:5100:8408:F377:594,Iron Man 3,/* Plot */
+2021-06-29T18:58:53+00:00,1031087102,1030804438,0,82.164.24.202,Iron Man 3,
+2021-08-15T13:46:53+00:00,1038905689,1038836516,0,IronManCap,Iron Man 3,
+2022-02-13T02:42:25+00:00,1071521972,1071521960,0,ClueBot NG,Jungle Cruise (film),"Reverting possible vandalism by [[Special:Contribs/2603:7000:413B:F7C6:F875:5DFC:BB62:A61A|2603:7000:413B:F7C6:F875:5DFC:BB62:A61A]] to version by Dominique.ruszala. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4128739) (Bot)"
+2021-09-03T05:05:04+00:00,1042092104,1041884318,0,JonSydel,Iron Man 3,
+2021-07-27T00:00:25+00:00,1035660165,1030263295,0,PrimeBOT,Mama (2013 film),/* top */[[User:PrimeBOT/30|Task 30]]: infobox wikilink cleanup following [[Special:PermaLink/1033820166#Request_for_comments|an RFC]]
+2022-02-17T09:27:04+00:00,1072365782,1072001917,0,John of Reading,Jungle Cruise (film),"Typo/[[WP:AWB/GF|general]] fixes, replaced: latern → lantern, ’s → 's (3)"
+2021-12-31T04:41:48+00:00,1062915629,1062915519,0,And1987,Maleficent: Mistress of Evil,/* Future */ We Got This Covered is clickbait.
+2021-06-27T23:45:19+00:00,1030773339,1030416008,0,190.113.248.108,Jungle Cruise (film),
+2022-03-09T11:19:16+00:00,1076106187,1075870566,0,117.202.201.54,Maleficent: Mistress of Evil,/* Cast */
+2022-02-12T15:10:50+00:00,1071425451,1071425242,0,Ромми,Peter Rabbit (film),/* Voice actors */
+2022-02-19T11:54:36+00:00,1072775201,1072775005,0,Treybien2,Mama (2013 film),/* Accolades */
+2021-08-22T02:12:11+00:00,1039997048,1039996850,0,109.76.192.179,Peter Rabbit (film),"Revert unexplained change. Not an improvement. [[WP:MOSFILM]] recommends ""Accolades"" as the section heading. Undid revision 1030456801 by [[Special:Contributions/2401:7000:DDC7:A300:E8CE:16B5:8C1D:9ADD|2401:7000:DDC7:A300:E8CE:16B5:8C1D:9ADD]] ([[User talk:2401:7000:DDC7:A300:E8CE:16B5:8C1D:9ADD|talk]])"
+2021-11-28T20:20:17+00:00,1057639453,1057639303,0,Rtkat3,Jungle Cruise (film),Making a correction.
+2022-01-24T11:05:36+00:00,1067624149,1067623109,0,Juneilluve,Maleficent: Mistress of Evil,Added additional info on the box office performance
+2021-07-17T17:12:26+00:00,1034079108,1034078819,0,SierraTangoCharlie1,Rampage (2018 film),"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/208.83.85.142|208.83.85.142]] ([[User talk:208.83.85.142|talk]]): Rv, disruption"
+2021-08-17T18:54:13+00:00,1039273527,1039269535,0,Crboyer,Rampage (2018 film),Rollback edit(s) by [[Special:Contributions/2A02:C7D:E409:7B00:45BB:8D2D:9979:EC30|2A02:C7D:E409:7B00:45BB:8D2D:9979:EC30]] ([[User_talk:2A02:C7D:E409:7B00:45BB:8D2D:9979:EC30|talk]]): [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2021-08-15T15:23:50+00:00,1038918426,1038917955,0,Serols,Rampage (2018 film),Reverted edits by [[Special:Contributions/2603:8080:8C01:6279:4123:A61E:A06C:FF64|2603:8080:8C01:6279:4123:A61E:A06C:FF64]] ([[User talk:2603:8080:8C01:6279:4123:A61E:A06C:FF64|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-11-21T02:31:48+00:00,1056318346,1056232161,0,2600:1702:4990:2140:7197:6926:AAF0:AFF5,Rampage (2018 film),
+2021-12-17T08:15:44+00:00,1060725940,1059985197,0,2600:1001:B111:CAA6:E97B:B733:A833:1758,Shazam! (film),/* Cast */
+2021-07-15T20:52:14+00:00,1033786281,1033785747,0,Facu-el Millo,Shazam! (film),"Undid revision 1033785747 by [[Special:Contributions/Martinewhitley|Martinewhitley]] ([[User talk:Martinewhitley|talk]]) Restore, the character is currently known by both names"
+2021-09-01T17:38:30+00:00,1041815857,1041808017,0,GoneIn60,Shrek Forever After,Reverted 1 edit by [[Special:Contributions/172.58.99.188|172.58.99.188]] ([[User talk:172.58.99.188|talk]]): Excessive and this is already expressed in the paragraph's opening sentence.
+2022-03-12T15:55:23+00:00,1076718549,1076230793,0,172.127.114.212,Shazam! (film),/* Sequel */
+2022-01-17T04:38:11+00:00,1066175071,1066151331,0,DonQuixote,Shazam! (film),Undid revision 1066151331 by [[Special:Contributions/2601:18A:0:9070:84F8:2AC2:A836:58A7|2601:18A:0:9070:84F8:2AC2:A836:58A7]] ([[User talk:2601:18A:0:9070:84F8:2AC2:A836:58A7|talk]]) primary genre in lede only
+2022-01-19T04:42:34+00:00,1066598852,1066479373,0,NinjaRobotPirate,Shrek Forever After,Restored revision 1065983221 by [[Special:Contributions/Citation bot|Citation bot]] ([[User talk:Citation bot|talk]]): Blanking
+2021-11-12T21:24:12+00:00,1054934618,1054934605,0,Isabelle Belato,Shrek Forever After,Reverted edits by [[Special:Contributions/2600:1008:B0DE:ABA4:E0D5:A089:5BCC:A1DC|2600:1008:B0DE:ABA4:E0D5:A089:5BCC:A1DC]] ([[User talk:2600:1008:B0DE:ABA4:E0D5:A089:5BCC:A1DC|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-08-03T14:56:57+00:00,1036931095,1036931085,0,ClueBot NG,Shrek Forever After,"Reverting possible vandalism by [[Special:Contribs/Adeola mathew|Adeola mathew]] to version by Discospinster. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4016873) (Bot)"
+2022-01-21T17:37:55+00:00,1067090523,1067075858,0,Geraldo Perez,Shrek Forever After,Reverted edits by [[Special:Contribs/24.239.194.50|24.239.194.50]] ([[User talk:24.239.194.50|talk]]) to last version by GoneIn60
+2021-12-17T19:54:55+00:00,1060806095,1060546851,0,2603:7000:C300:862F:D483:58D4:978B:DD90,Shrek Forever After,/* External links */
+2022-03-30T19:06:16+00:00,1080183645,1080180932,0,Doniago,Shrek Forever After,"[[Help:Reverting|Reverted]] edits by [[Special:Contributions/ZX2006XZ|ZX2006XZ]] ([[User talk:ZX2006XZ|talk]]) to last version by Fieryninja nothing special about it being the 21st, and [[WP:EGG]] as written"
+2021-10-12T01:47:13+00:00,1049475608,1049464053,0,KigToons,Shrek Forever After,/* Possible sequel */Screen Rant is not a reliable source
+2022-02-15T22:52:34+00:00,1072091429,1070598686,0,Brian K. Tyler,Shrek Forever After,
+2021-08-05T17:30:16+00:00,1037294234,1032953493,0,2601:84:8700:21D0:C05E:192C:8DFD:B1C3,The Karate Kid (2010 film),"/* Plot */Fixed typo, added content."
+2022-02-08T09:02:07+00:00,1070598686,1068928644,0,GoneIn60,Shrek Forever After,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Harryprotter2003|Harryprotter2003]] ([[User talk:Harryprotter2003|talk]]): Awkward description...although Shrek guesses correctly, ultimately Rumpel is revealing the information, including the confirmation he gives."
+2021-09-30T09:48:26+00:00,1047338207,1047108669,0,Gbgbgbgbj,Shrek Forever After,/* Possible sequel */
+2021-06-28T04:21:17+00:00,1030807188,1030627383,0,2601:600:9680:570:7CFA:778D:B02F:43B1,Shrek Forever After,
+2021-11-01T05:07:13+00:00,1052975552,1052974485,0,Geraldo Perez,Shrek Forever After,Reverted edits by [[Special:Contribs/177.245.114.16|177.245.114.16]] ([[User talk:177.245.114.16|talk]]) to last version by Tbhotch
+2021-11-26T06:06:57+00:00,1057217296,1057216967,0,Scorpions13256,The Nun (2018 film),Removing from [[Category:English-language films]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2021-11-26T10:04:04+00:00,1057236716,1057056517,0,Ft763,The Karate Kid (2010 film),
+2022-02-05T02:23:54+00:00,1069984027,1066711209,0,A person in Georgia,The Nun (2018 film),/* External links */
+2021-07-19T12:00:47+00:00,1034359235,1032663257,0,60.254.6.162,The Twilight Saga: Breaking Dawn – Part 2,/* Plot */
+2022-03-14T17:16:15+00:00,1077126761,1075462272,0,UDScott,The Twilight Saga: Breaking Dawn – Part 2,/* External links */
+2021-06-28T22:23:33+00:00,1030943544,1030941753,0,Notwally,The Twilight Saga: Breaking Dawn – Part 2,"Undid revision 1030941753 by [[Special:Contributions/Just another anon|Just another anon]] ([[User talk:Just another anon|talk]]) restoring link, see [[WP:DEADREF]]"
+2022-01-21T21:13:00+00:00,1067122256,1063442499,0,81.109.31.199,The Woman in Black: Angel of Death,/* Plot */
+2021-07-08T21:22:45+00:00,1032663257,1032013055,0,Neateditor123,The Twilight Saga: Breaking Dawn – Part 2,/* Plot */
+2021-10-14T23:43:44+00:00,1049968819,1049283215,0,47.33.71.63,The Woman in Black: Angel of Death,
+2021-10-19T01:15:47+00:00,1050637726,1050630134,0,Chompy Ace,Thor: Ragnarok,/* References */Update access date
+2021-07-12T09:44:33+00:00,1033216070,1033211410,0,VeryRarelyStable,Thor: Ragnarok,Undid revision 1033211410 by [[Special:Contributions/Frederick Blagouish|Frederick Blagouish]] ([[User talk:Frederick Blagouish|talk]]) Meaning unclear.  Not an improvement.
+2021-11-30T16:06:17+00:00,1057948812,1057879704,0,Favre1fan93,Thor: Ragnarok,Undid revision 1057879704 by [[Special:Contributions/Edsandeggs|Edsandeggs]] ([[User talk:Edsandeggs|talk]]) unexplained paragraph reformatting
+2022-02-23T19:53:11+00:00,1073643757,1073575096,0,Jgstokes,Thor: Ragnarok,Undid revision 1073575096 by [[Special:Contributions/Deeds04|Deeds04]] ([[User talk:Deeds04|talk]]). Was correct as shown.
+2021-11-23T19:42:55+00:00,1056824546,1056820615,0,Facu-el Millo,Thor: Ragnarok,Undid revision 1056813964 by [[Special:Contributions/The8mansick|The8mansick]] ([[User talk:The8mansick|talk]]) Unnecessary
+2022-02-14T01:12:06+00:00,1071721256,1067897105,0,Noahfgodard,Thor: Ragnarok,/* Critical response */ ce
+2021-09-15T15:08:09+00:00,1044498758,1044466841,0,TriiipleThreat,Thor: Ragnarok,Reverted edits by [[Special:Contribs/42.60.36.79|42.60.36.79]] ([[User talk:42.60.36.79|talk]]) to last version by NinjaRobotPirate
+2022-01-24T01:24:50+00:00,1067541817,1067468836,0,SirDot,Venom (2018 film),/* Cast */Redlink
+2021-11-19T10:01:33+00:00,1056038053,1055541893,0,TheLooseRap,Thor: Ragnarok,
+2021-10-14T22:12:59+00:00,1049960644,1049744689,0,2601:8C2:4280:14C0:497D:D52A:61CC:F35E,Venom (2018 film),/* Critical response */
+2022-01-04T18:44:53+00:00,1063753763,1063752720,0,InfiniteNexus,Venom (2018 film),/* top */ I don't think we need to specify this
+2021-08-15T05:09:29+00:00,1038852545,1038465231,0,ZI Jony,Venom (2018 film),clean up
+2022-03-10T17:05:25+00:00,1076345369,1076313623,0,Facu-el Millo,Venom (2018 film),Not [[WP:NPOV]]
+2021-06-23T23:40:56+00:00,1030112426,1030112323,0,Notwally,Venom (2018 film),"Reverted 1 edit by [[Special:Contributions/Favre1fan93|Favre1fan93]] ([[User talk:Favre1fan93|talk]]): Reverting per [[WP:BURDEN]], please see talk page as this content is not supported by the article and is even contradicted by the individual reviews"
+2021-08-20T19:12:33+00:00,1039788869,1038852545,0,Citation bot,Venom (2018 film),Alter: title. Add: authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 782/2200
+2021-06-29T02:10:13+00:00,1030972140,1030963605,0,Adamstom.97,Venom (2018 film),Undid revision 1030963605 by [[Special:Contributions/2603:8081:1000:DBC5:D80A:7979:3352:8DF|2603:8081:1000:DBC5:D80A:7979:3352:8DF]] ([[User talk:2603:8081:1000:DBC5:D80A:7979:3352:8DF|talk]]) unexplained change
+2021-12-29T15:17:39+00:00,1062622174,1062519196,0,2804:431:CFDC:3ACF:9C75:25B8:2967:1DA2,Venom (2018 film),
+2022-03-28T16:28:54+00:00,1079787085,1079784413,0,SirDot,Venom (2018 film),/* Cast */Unexplained changes
+2021-09-18T13:34:10+00:00,1045044431,1044891672,0,58.176.110.90,Venom (2018 film),
+2022-01-01T22:48:07+00:00,1063220688,1063215904,0,82.26.18.239,Venom (2018 film),Undid revision 1063215904 by [[Special:Contributions/203.122.4.210|203.122.4.210]] ([[User talk:203.122.4.210|talk]]) / Vandalism
+2021-12-09T03:57:09+00:00,1059384814,1058020134,0,F1fans,Venom (2018 film),/* Cast */
+2021-06-21T19:05:19+00:00,1029742426,1029737967,0,Ravensfire,Venom (2018 film),Reverting edit(s) by [[Special:Contributions/KianCoates|KianCoates]] ([[User_talk:KianCoates|talk]]) to rev. 1029727207 by Serols:  [[w:en:WP:RW|(RW 16.1)]]
+2021-09-05T07:18:14+00:00,1042488506,1042486111,0,Facu-el Millo,Venom (2018 film),Undid revision 1042486111 by [[Special:Contributions/2603:8081:1000:DBC5:5D5B:6DB1:3F92:AADB|2603:8081:1000:DBC5:5D5B:6DB1:3F92:AADB]] ([[User talk:2603:8081:1000:DBC5:5D5B:6DB1:3F92:AADB|talk]]) [[WP:BRD]]; the release date of the sequel is relevant in the section about the sequel. This is [[WP:STATUSQUO]] and you have to discuss at the talk page before reinstating your edit
+2022-01-12T06:44:58+00:00,1065180852,1065129524,0,InfiniteNexus,Venom (2018 film),
+2021-06-19T23:02:25+00:00,1029429585,1029429544,0,Donner60,Venom (2018 film),Reverted edits by [[Special:Contributions/Nia503|Nia503]] ([[User talk:Nia503|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-11-10T13:31:09+00:00,1054514545,1054089107,0,RottenBot,Venom (2018 film),Updating Rotten Tomatoes info with Wikidata.
+2021-08-28T03:45:31+00:00,1041026657,1041017948,0,Isi96,Venom (2018 film),/* Critical response */
+2021-07-20T19:00:00+00:00,1034586760,1034567583,0,Facu-el Millo,Venom (2018 film),Undid revision 1034567583 by [[Special:Contributions/The Marvelverse|The Marvelverse]] ([[User talk:The Marvelverse|talk]]) Not directly correlated
+2021-12-21T16:31:07+00:00,1061420675,1061386976,0,Facu-el Millo,Venom (2018 film),Unexplained removal of info and removed implied correlation between critics and box office
+2021-10-24T15:38:55+00:00,1051609749,1051569420,0,86.160.182.108,Venom (2018 film),"/* top */Fixed typo, Fixed grammar, Added links"
+2021-12-15T14:16:43+00:00,1060437182,1059384814,0,173.166.60.89,Venom (2018 film),/* Critical response */ Grammar fix
+2021-12-30T14:51:10+00:00,1062788035,1062678939,0,136.158.7.11,Venom (2018 film),/* Plot */
+2022-01-15T22:16:36+00:00,1065906303,1065881476,0,Adamstom.97,Venom (2018 film),"Undid revision 1065881476 by [[Special:Contributions/Carterja12345|Carterja12345]] ([[User talk:Carterja12345|talk]]) we can't really say that, we only know that some fans were positive about their relationship which is already discussed in this paragraph"
+2022-03-21T04:11:35+00:00,1078352437,1078323808,0,Facu-el Millo,Venom (2018 film),Undid revision 1078323808 by [[Special:Contributions/Artbanklife|Artbanklife]] ([[User talk:Artbanklife|talk]]) Per billing block credits
+2021-09-23T08:21:15+00:00,1045960731,1045902896,0,SirDot,Venom (2018 film),/* Cast */surname
+2022-01-10T11:59:26+00:00,1064830514,1064830081,0,183.171.141.122,Venom (2018 film),
+2021-09-27T04:04:01+00:00,1046723409,1046723338,0,Facu-el Millo,Venom (2018 film),"/* Accolades, awards and nominations */ Redundant"
+2021-07-06T20:55:10+00:00,1032340047,1032309642,0,Chompy Ace,Venom (2018 film),[[MOS:ORDER]] + tweak {{pp}}
+2021-12-18T06:07:54+00:00,1060875202,1060703110,0,Notwally,Venom (2018 film),Reverted 1 edit by [[Special:Contributions/223.226.75.212|223.226.75.212]] ([[User talk:223.226.75.212|talk]]): Restore sourced content
+2021-09-17T12:09:34+00:00,1044855749,1044847959,0,Facu-el Millo,Venom (2018 film),Undid revision 1044847959 by [[Special:Contributions/2402:4CC0:2502:424:2897:A802:A5AF:CDA5|2402:4CC0:2502:424:2897:A802:A5AF:CDA5]] ([[User talk:2402:4CC0:2502:424:2897:A802:A5AF:CDA5|talk]]) Unsourced
+2022-01-05T23:13:49+00:00,1063978628,1063943298,0,Adamstom.97,Venom (2018 film),Revert
+2021-12-16T01:06:32+00:00,1060517845,1060517526,0,Dibol,Venom (2018 film),Promotion film about Into The Spider-Verse had no bearing on Venom’s plot. ([[User talk:75.118.75.159|talk]])
+2021-07-04T19:01:09+00:00,1031963257,1031960553,0,Discospinster,Venom (2018 film),Reverted edits by [[Special:Contribs/Nama Roberts|Nama Roberts]] ([[User talk:Nama Roberts|talk]]) to last version by Facu-el Millo
+2022-03-27T09:24:50+00:00,1079538722,1079388179,0,Fortunewriter,Warcraft (film),
+2022-04-03T16:53:23+00:00,1080816519,1080632310,0,Indagate,Warcraft (film),Updating Rotten Tomatoes info with Wikidata.
+2021-09-27T02:53:45+00:00,1046713823,1044334197,0,Sc2353,Captain Marvel (film),removed [[Category:English-language films]]; added [[Category:2010s English-language films]] using [[WP:HC|HotCat]]
+2021-09-12T06:17:45+00:00,1043827436,1043826768,0,0Michael105,Captain Marvel (film),Reverting edit(s) by [[Special:Contributions/86.98.69.203|86.98.69.203]] ([[User_talk:86.98.69.203|talk]]) to rev. 1043695809 by IronManCap: non-constructive [[w:en:WP:RW|(RW 16.1)]]
+2022-02-05T10:06:55+00:00,1070038433,1069929251,0,Vanished user 6482581,Antigua and Barbuda,Spelling and grammer fixes.
+2022-01-17T20:41:21+00:00,1066320302,1066284585,0,Chrome Boy,Child's Play (2019 film),Undid revision 1066284585 by [[Special:Contributions/102.66.21.97|102.66.21.97]] ([[User talk:102.66.21.97|talk]])
+2021-11-05T08:21:10+00:00,1053666530,1052413407,0,Anthroxous,Child's Play (2019 film),/* Production */Fixed grammar
+2021-10-10T23:02:01+00:00,1049278521,1049223980,0,Art1991,Child's Play (2019 film),/* Plot */
+2021-11-11T03:51:52+00:00,1054619961,1054256347,0,207.140.196.7,Child's Play (2019 film),/* Plot */
+2021-09-06T09:02:17+00:00,1042699400,1042585043,0,CabriniGreenChicago,Child's Play (2019 film),
+2021-07-24T19:36:44+00:00,1035285716,1035104844,0,2A02:C7F:719F:4300:5889:A17F:7747:F333,Child's Play (2019 film),
+2021-08-05T22:30:14+00:00,1037331710,1035285716,0,Jojo701,Child's Play (2019 film),
+2021-07-16T17:19:05+00:00,1033921109,1033793932,0,2601:543:4380:3A10:8D76:256D:36F8:912E,Child's Play (2019 film),"Title is the proper form not ""name."""
+2021-08-29T01:51:58+00:00,1041177248,1040556208,0,2603:6011:4F00:4E00:8DF6:D0C9:5734:41E3,Child's Play (2019 film),/* Plot */
+2022-03-19T17:52:29+00:00,1078068771,1077184550,0,2601:681:8800:BB0:DD1F:9DE7:452E:85F2,Deadpool 2,
+2021-11-28T16:10:48+00:00,1057602435,1056857871,0,Tom.Reding,Deadpool 2,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q25431158|3 IDs]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2021-08-12T12:37:46+00:00,1038419629,1038294132,0,DumbBOT,Deadpool 2,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2021-12-27T02:08:31+00:00,1062214518,1061954852,0,Pdhadam,Deadpool 2,/* Marvel Cinematic Universe */
+2022-03-28T22:31:54+00:00,1079844268,1079735671,0,ChristianJosephAllbee,Deadpool 2,/* Marvel Cinematic Universe */Leslie Uggams
+2021-06-23T05:14:51+00:00,1029982058,1029872298,0,BattyBot,Deadpool 2,"/* References */Removed/fixed incorrect author parameter(s), performed [[WP:AWB/GF|general fixes]]"
+2021-11-18T20:19:01+00:00,1055950497,1055481171,0,ChristianJosephAllbee,Deadpool 2,Some critics took issue with some jokes from the first film being reused
+2021-12-18T03:57:05+00:00,1060864321,1059944665,0,Nicholas0,Deadpool 2,correct preposition
+2021-11-24T00:14:11+00:00,1056857871,1056105355,0,Saimcheeda,Deadpool 2,
+2021-07-19T10:38:15+00:00,1034349603,1031573678,0,VaibhavX789,Gaston Browne,birth place
+2021-09-27T22:51:08+00:00,1046890171,1041515477,0,CROIX,Gaston Browne,
+2021-10-06T15:18:53+00:00,1048541829,1048541757,0,Lazy Maniik,Gaston Browne,Reverted 1 edit by [[Special:Contributions/2603:8080:1F40:59:55E9:F334:66F4:A255|2603:8080:1F40:59:55E9:F334:66F4:A255]] ([[User talk:2603:8080:1F40:59:55E9:F334:66F4:A255|talk]]) to last revision by 123waawaaaa
+2022-03-09T09:54:45+00:00,1076096794,1069974401,0,InternetArchiveBot,Girls Trip,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.8.6
+2021-07-27T18:22:14+00:00,1035794823,1035794542,0,CodeTalker,Girls Trip,Reverted 1 edit by [[Special:Contributions/Sweet krist|Sweet krist]] ([[User talk:Sweet krist|talk]]) to last revision by Citation bot
+2021-11-02T01:23:21+00:00,1053120588,1051119090,0,Sc2353,Girls Trip,removed [[Category:English-language films]]; added [[Category:2010s English-language films]] using [[WP:HC|HotCat]]
+2022-04-01T06:08:00+00:00,1080426267,1080269275,0,Kailash29792,Girls Trip,
+2022-03-12T00:59:52+00:00,1076609975,1076058733,0,66.226.46.5,Hancock (film),
+2021-09-08T20:11:49+00:00,1043187724,1043187247,0,82.96.34.216,Hancock (film),/* Cast */
+2021-07-18T05:33:40+00:00,1034159170,1033969469,0,Leiwang7,Hocus Pocus (1993 film),/* Cast */ Fixed grammar.
+2022-01-10T16:09:00+00:00,1064866155,1064860311,0,My Pants Metal,Hocus Pocus (1993 film),Reverted 1 edit by [[Special:Contributions/MarinellaCoates|MarinellaCoates]] ([[User talk:MarinellaCoates|talk]]) to last revision by My Pants Metal
+2022-01-31T16:00:06+00:00,1069087779,1066311697,0,RayneVanDunem,Iron Man 3,/* External links */
+2021-08-10T13:10:59+00:00,1038090190,1038086334,0,103.85.38.114,Hocus Pocus (1993 film),Re-added proper home media information and added UHD Blu-ray release
+2022-03-27T15:45:17+00:00,1079586392,1079585843,0,Egsan Bacon,Iron Man 3,Undid revision 1079585843 by [[Special:Contributions/71.3.75.198|71.3.75.198]] ([[User talk:71.3.75.198|talk]]) altering quotes
+2022-03-30T21:48:06+00:00,1080203856,1079586392,0,109.77.199.151,Iron Man 3,"Math fail. Restore status quo. More than half normally rounds up, $1,214,811,252 rounds to $1.215 billion. Undid revision 1061051390 by [[Special:Contributions/Ijick|Ijick]] ([[User talk:Ijick|talk]])"
+2022-02-15T13:22:15+00:00,1072001917,1071521972,0,130.68.183.4,Jungle Cruise (film),
+2022-03-16T17:03:06+00:00,1077497423,1077154132,0,QuasyBoy,Hocus Pocus (1993 film),Infobox edits based on film poster.
+2022-03-09T21:59:58+00:00,1076199626,1076170597,0,2600:1012:B058:DF7:994:BF60:1B10:B8C9,Jungle Cruise (film),
+2021-09-20T06:40:13+00:00,1045367913,1045296239,0,Yohan Anthony Sunanda,Jungle Cruise (film),/* Cast */ Fixed spacing error
+2021-09-02T07:37:34+00:00,1041913523,1041900598,0,119.74.86.48,Jungle Cruise (film),/* top */removed false info about brie Larson replacing Emily blunt
+2021-11-01T22:26:11+00:00,1053100494,1052921582,0,AbsolutelyFiring,Jungle Cruise (film),/* Box office */
+2021-09-26T19:53:35+00:00,1046653656,1046637002,0,Evope,Jungle Cruise (film),/* Box office */
+2021-11-15T01:58:09+00:00,1055297022,1055296897,0,99.87.203.32,Jungle Cruise (film),/* Plot */
+2021-09-25T05:26:40+00:00,1046344197,1045744061,0,John Hakater,Maleficent: Mistress of Evil,/* External links */
+2021-12-05T17:13:02+00:00,1058794605,1058120039,0,2003:DD:C74E:3C80:F9D2:1DAA:C54E:1854,Mama (2013 film),
+2021-07-26T00:00:59+00:00,1035485821,1035447500,0,All Hallow's Wraith,Jungle Cruise (film),
+2022-03-31T17:21:04+00:00,1080337699,1080250003,0,65.93.235.242,Peter Rabbit (film),
+2021-07-10T18:21:56+00:00,1032959144,1032956809,0,Philipnelson99,Maleficent: Mistress of Evil,Reverted edits by [[Special:Contributions/208.83.85.37|208.83.85.37]] ([[User talk:208.83.85.37|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-12-01T15:56:32+00:00,1058120039,1057682990,0,2003:DD:C72A:C777:A4AA:7F92:21D7:C049,Mama (2013 film),
+2021-08-22T06:10:26+00:00,1040021573,1039015603,0,73.206.215.130,Maleficent: Mistress of Evil,/* Sequel */
+2021-09-14T19:26:02+00:00,1044347227,1044116043,0,188.236.121.89,Maleficent: Mistress of Evil,/* Future */
+2021-11-19T06:36:34+00:00,1056018919,1054511604,0,Ali17082001,Peter Rabbit (film),/* External links */
+2021-12-13T11:41:42+00:00,1060089554,1060089097,0,Fieryninja,Peter Rabbit (film),Reverted 2 edits by [[Special:Contributions/92.29.52.239|92.29.52.239]] ([[User talk:92.29.52.239|talk]]): Rv possible vandalism
+2022-02-13T21:47:48+00:00,1071692430,1069359394,0,2601:58A:8A81:C820:C817:1140:AD0B:2DE1,Rampage (2018 film),/* Potential sequel */Fixed typo.
+2021-09-11T13:40:57+00:00,1043698385,1043462094,0,GünniX,Maleficent: Mistress of Evil,https
+2022-03-31T18:32:10+00:00,1080346932,1072775201,0,86.133.242.39,Mama (2013 film),/* Plot */
+2021-07-07T09:53:58+00:00,1032422077,1032207890,0,148.252.27.8,Peter Rabbit (film),
+2021-11-24T21:12:45+00:00,1057004910,1056403407,0,2600:1700:F91:B320:C855:BD0A:48FF:FA9A,Rampage (2018 film),/* Marketing */
+2021-09-04T14:58:47+00:00,1042353312,1041278288,0,221.124.204.222,Rampage (2018 film),
+2022-03-29T17:24:28+00:00,1079976926,1079976899,0,186.151.141.92,Rampage (2018 film),
+2022-02-20T23:04:34+00:00,1073080824,1073075995,0,Rfl0216,Shazam! (film),Reverted 1 edit by [[Special:Contributions/Gracelandist|Gracelandist]] ([[User talk:Gracelandist|talk]]): Ungrammatical comma
+2022-04-10T12:20:02+00:00,1081917447,1081916233,0,Gray eyes,Shazam! (film),added [[Category:4DX films]] using [[WP:HC|HotCat]]
+2021-09-11T20:39:04+00:00,1043758940,1043510090,0,71.28.169.28,Rampage (2018 film),/* Accolades */Got rid of a wall of text describing random characters following Davis okoye anywhere he go
+2021-09-17T10:33:13+00:00,1044844079,1044013076,0,XSMan2016,Shazam! (film),/* Cast */ Sivana family
+2022-01-08T14:53:15+00:00,1064471863,1064018933,0,103.85.9.218,Shazam! (film),lead
+2021-10-26T22:31:02+00:00,1052021613,1052014597,0,IAmNMFlores,Shazam! (film),Matching original format
+2021-12-05T22:57:46+00:00,1058844389,1058189939,0,Smjg,Shrek Forever After,[[MOS:COMMONALITY]]
+2021-07-23T21:23:08+00:00,1035129954,1035129869,0,Fieryninja,Shrek Forever After,Undid revision 1035129057 by [[Special:Contributions/2804:14D:C887:903A:C81F:408A:3C4D:FF96|2804:14D:C887:903A:C81F:408A:3C4D:FF96]] ([[User talk:2804:14D:C887:903A:C81F:408A:3C4D:FF96|talk]])contradicts citation
+2021-08-09T04:30:26+00:00,1037863633,1037862165,0,MusikBot II,Shrek Forever After,Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]])
+2021-10-15T21:01:17+00:00,1050111189,1049475608,0,BergeronOrr,Shrek Forever After,/* External links */
+2022-03-22T17:32:07+00:00,1078656756,1078656661,0,Fieryninja,Shrek Forever After,Reverted 1 edit by [[Special:Contributions/69.167.206.138|69.167.206.138]] ([[User talk:69.167.206.138|talk]]) to last revision by ChristianJosephAllbee
+2022-01-30T20:49:53+00:00,1068928644,1068500315,0,Harryprotter2003,Shrek Forever After,/* Plot */Rumpel didn't tell Shrek. Shrek figured it out himself
+2021-07-18T03:32:46+00:00,1034148284,1034148046,0,Nightscream,Shrek Forever After,This just leads back to this article.
+2022-01-12T01:17:07+00:00,1065139278,1065139183,0,Tommi1986,Shrek Forever After,Reverted 5 edits by [[Special:Contributions/2603:7080:293F:F765:B073:A8D2:E8E8:D50D|2603:7080:293F:F765:B073:A8D2:E8E8:D50D]] ([[User talk:2603:7080:293F:F765:B073:A8D2:E8E8:D50D|talk]])
+2021-08-23T03:01:32+00:00,1040183732,1037294234,0,2603:6011:BB00:26:131:CD02:BB1D:AB02,The Karate Kid (2010 film),/* Plot */
+2021-12-07T20:28:24+00:00,1059161259,1057236716,0,50.58.246.154,The Karate Kid (2010 film),/* Plot */ Minor edits and cleanup
+2022-03-19T05:20:23+00:00,1077969270,1077968237,0,MusikBot II,The Karate Kid (2010 film),Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]])
+2022-04-07T20:05:09+00:00,1081501329,1080299566,0,Terasail,The Karate Kid (2010 film),Removed any id values that are stored at WikiData from template: {{[[Template:Metacritic film|Metacritic film]]}} ([[d:Q327685#P1712|Identifier]]). ([[User:Terasail#User Scripts|User JS]])
+2021-08-18T16:04:17+00:00,1039418886,1039406972,0,Nardog,The Twilight Saga: Breaking Dawn – Part 2,infobox wikilink cleanup following [[Special:PermanentLink/1033820166#Request for comments|an RFC]]
+2021-12-23T20:00:33+00:00,1061760129,1061182906,0,41.193.226.2,The Twilight Saga: Breaking Dawn – Part 2,
+2021-11-30T18:45:31+00:00,1057972832,1057969968,0,AnomieBOT,The Nun (2018 film),Dating maintenance tags: {{Cn}}
+2022-03-15T18:40:45+00:00,1077320590,1077320474,0,HelenDegenerate,The Nun (2018 film),Reverted 1 edit by [[Special:Contributions/2A02:2F0A:C710:3900:ED0F:E8A7:972E:72B2|2A02:2F0A:C710:3900:ED0F:E8A7:972E:72B2]] ([[User talk:2A02:2F0A:C710:3900:ED0F:E8A7:972E:72B2|talk]]) to last revision by Serols
+2021-11-18T11:47:59+00:00,1055885509,1055416605,0,109.76.202.230,The Nun (2018 film),/* Accolades */ [[WP:PROSE]]
+2021-06-18T18:47:35+00:00,1029240657,1027393129,0,Corey2003,The Twilight Saga: Breaking Dawn – Part 2,/* External links */
+2021-09-16T20:40:39+00:00,1044738506,1043222364,0,Malcolmxl5,The Twilight Saga: Breaking Dawn – Part 2,Removing link(s) [[Wikipedia:Articles for deletion/Marisa Quinn]] closed as delete ([[WP:XFDC#4.0.12|XFDcloser]])
+2021-07-05T00:53:19+00:00,1032005706,1031523369,0,2001:48F8:2A:196F:44DF:34ED:90EE:4C5,Thor: Ragnarok,/* Development */Fixed grammar.
+2021-09-05T12:24:42+00:00,1042524830,1042524395,0,Gatemansgc,Thor: Ragnarok,Undid revision 1042524395 by [[Special:Contributions/Nia coates|Nia coates]] ([[User talk:Nia coates|talk]]) rV obvious joke
+2022-01-25T18:18:24+00:00,1067897105,1066202404,0,Gonnym,Thor: Ragnarok,/* External links */clean up
+2021-10-21T10:33:41+00:00,1051056335,1050637726,0,Surge elec,Thor: Ragnarok,Critical response update
+2021-07-28T14:04:58+00:00,1035934639,1034586760,0,Bender the Bot,Venom (2018 film),"/* References */HTTP to HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/ (4)"
+2022-01-05T15:22:39+00:00,1063911756,1063911656,0,Alexwoolford100,Venom (2018 film),
+2021-10-16T23:08:11+00:00,1050288665,1050284962,0,IAmNMFlores,Venom (2018 film),/* Development */ sorry wrong source
+2021-09-19T20:45:20+00:00,1045292046,1045073756,0,2603:8081:1000:DBC5:1D34:53C4:350:3971,Venom (2018 film),/* Sequel */
+2021-12-17T04:34:28+00:00,1060703110,1060517845,0,223.226.75.212,Venom (2018 film),
+2021-10-22T06:29:44+00:00,1051217881,1046943704,0,Adakiko,Warcraft (film),rv unsourced
+2021-07-01T06:56:49+00:00,1031368328,1031361664,0,TheHumanIntersect,Warcraft (film),Undid revision 1031361664 by [[Special:Contributions/2001:48F8:3006:1F68:B463:18B4:DC4D:BCDD|2001:48F8:3006:1F68:B463:18B4:DC4D:BCDD]] ([[User talk:2001:48F8:3006:1F68:B463:18B4:DC4D:BCDD|talk]])
+2022-03-10T00:03:09+00:00,1076217558,1074475034,0,104.243.60.212,Warcraft (film),/* Release */ Minor comma typo

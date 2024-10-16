@@ -1,0 +1,47 @@
+timestamp,revid,parentid,sock,user,page,message
+2024-02-15T20:36:16+00:00,1207823400,1207822567,1,Dabadeeda5,XTEA,
+2024-02-15T20:33:09+00:00,1207822567,1199517353,1,Dabadeeda5,XTEA,
+2024-04-07T18:43:16+00:00,1217760868,1217760761,1,Astragan,Treyfer,/* TREYFER2 */
+2024-04-07T18:42:24+00:00,1217760761,1216603205,1,Astragan,Treyfer,
+2024-03-14T15:35:51+00:00,1213692724,1210846538,1,Darkinor,GOST (block cipher),
+2024-03-06T15:18:12+00:00,1212186581,1212184078,1,Digfuse6,Data Encryption Standard,/* External links */
+2024-03-06T15:15:31+00:00,1212186248,1212185165,1,Digfuse6,International Data Encryption Algorithm,/* External links */
+2024-03-06T15:08:07+00:00,1212185165,1202937322,1,Digfuse6,International Data Encryption Algorithm,
+2024-03-06T15:01:03+00:00,1212184078,1211102143,1,Digfuse6,Data Encryption Standard,/* DES-768 */
+2024-02-20T14:26:11+00:00,1209141708,1195272394,1,Fouglino,Red Pike (cipher),
+2024-02-26T22:12:21+00:00,1210493698,1197913236,1,Liberlali,Triple DES,
+2024-02-26T22:07:20+00:00,1210492838,1210492008,1,Liberlali,Data Encryption Standard,
+2024-02-26T22:01:49+00:00,1210492008,1209766421,1,Liberlali,Data Encryption Standard,
+2024-04-05T19:57:59+00:00,1217431151,1217430749,1,Morninggood8,RC2,/* RC2+ */
+2024-04-05T19:54:52+00:00,1217430749,1180505937,1,Morninggood8,RC2,
+2024-02-22T20:53:39+00:00,1209625075,1209624809,1,Naskrida,Blowfish (cipher),/* Blowfish in practice */
+2024-02-22T20:52:05+00:00,1209624809,1198145387,1,Naskrida,Blowfish (cipher),/* Weakness and successors */
+2024-02-29T21:39:06+00:00,1211102305,1210847315,1,Niowall,Triple DES,/* Triple DES-2304 */
+2024-02-29T21:37:56+00:00,1211102143,1210866993,1,Niowall,Data Encryption Standard,/* DES-768 */
+2024-04-05T20:59:27+00:00,1217440122,1217439547,1,Rarovini,MD2 (hash function),/* External links */
+2024-04-05T20:55:17+00:00,1217439547,1201027951,1,Rarovini,MD2 (hash function),
+2024-02-23T13:37:53+00:00,1209766421,1209766314,1,Rassmussenis,Data Encryption Standard,
+2024-02-23T13:37:06+00:00,1209766314,1199229788,1,Rassmussenis,Data Encryption Standard,
+2024-04-06T22:34:07+00:00,1217621740,1178492660,1,Straping,Secure voice,/* Digital */
+2024-02-28T16:53:07+00:00,1210847995,1210748902,1,Tardigrad7,Data Encryption Standard,/* DES-768 */
+2024-02-28T16:49:09+00:00,1210847315,1210847261,1,Tardigrad7,Triple DES,/* Triple DES-2304 */
+2024-02-28T16:48:49+00:00,1210847261,1210784845,1,Tardigrad7,Triple DES,/* Triple DES-2304 */
+2024-02-28T16:43:57+00:00,1210846538,1182472082,1,Tardigrad7,GOST (block cipher),/* Cryptanalysis of GOST */
+2024-01-26T14:30:22+00:00,1199229788,1196713969,0,Kku,Data Encryption Standard,link information security
+2024-03-09T05:00:11+00:00,1212702357,1212187030,0,WikiCleanerBot,Data Encryption Standard,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-02-28T18:54:26+00:00,1210866993,1210847995,0,WikiLinuz,Data Encryption Standard,Reverted 1 edit by [[Special:Contributions/Tardigrad7|Tardigrad7]] ([[User talk:Tardigrad7|talk]]): Rvt [[WP:OR]]
+2024-01-23T04:22:40+00:00,1198145387,1180741013,0,Citation bot,Blowfish (cipher),Altered archive-url. URLs might have been anonymized. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_CommandLine
+2024-02-26T22:34:32+00:00,1210497343,1210492838,0,AnomieBOT,Data Encryption Standard,[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Lien web}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.
+2023-10-29T15:11:15+00:00,1182472082,1171687187,0,Citation bot,GOST (block cipher),Add: authors 1-3. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 171/895
+2024-03-19T06:39:29+00:00,1214482615,1213692724,0,WikiCleanerBot,GOST (block cipher),v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-01-30T19:40:08+00:00,1201027951,1201019875,0,MrsGusted,MD2 (hash function),"The two references point to the same paper, but the earlier one was never published. Via https://sacworkshop.org/SAC-history.html"
+2023-10-04T00:53:28+00:00,1178492660,1107518553,0,178.71.133.194,Secure voice,Link to a fiction story. Adds nothing to the article.
+2023-10-17T01:43:51+00:00,1180505937,1171673677,0,InternetArchiveBot,RC2,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 15814
+2023-08-27T19:39:52+00:00,1172544615,1149614610,0,Ira Leviton,Treyfer,Fixed a reference.  Please see [[Category:CS1 errors: unsupported parameter]].
+2024-03-16T13:24:39+00:00,1214010640,1211102305,0,BlauerBaum,Triple DES,which government?
+2024-01-22T11:28:12+00:00,1197913236,1180506181,0,93.181.54.185,Triple DES,"Update to note that SP-800-67-R2 was withdrawn, https://csrc.nist.gov/news/2023/nist-to-withdraw-sp-800-67-rev-2"
+2023-11-20T17:26:01+00:00,1186055600,1182471857,0,2605:8D80:465:F456:D4E9:542C:25FA:CB7,Data Encryption Standard,"/* Brute-force attack */it contained 1,856 chips, not 256,856"
+2023-09-08T14:11:43+00:00,1174447253,1170940290,0,Slipan8,Blowfish (cipher),/* Blowfish in practice */
+2023-10-28T17:50:56+00:00,1182337842,1179108243,0,128.234.96.103,MD2 (hash function),/* External links */
+2022-08-30T11:54:23+00:00,1107518553,1083079696,0,Explicit,Secure voice,Removing link(s) [[undefined]] ([[WP:XFDC#4.0.13|XFDcloser]])
+2023-08-19T22:25:13+00:00,1171243760,1171240637,0,Bruce1ee,Triple DES,"thumbnails shouldn't be used with infobox images, see [[WP:INFOBOXIMAGE]]"

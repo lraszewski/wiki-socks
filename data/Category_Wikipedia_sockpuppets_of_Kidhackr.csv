@@ -1,0 +1,976 @@
+timestamp,revid,parentid,sock,user,page,message
+2019-08-25T16:51:58+00:00,912444273,912442159,1,Kidhackr,Patrick Fiori,/* Television */
+2019-08-25T16:31:45+00:00,912442159,912441873,1,Kidhackr,Patrick Fiori,
+2019-08-25T16:29:19+00:00,912441873,912441841,1,Kidhackr,Patrick Fiori,/* Television */
+2019-08-25T16:29:00+00:00,912441841,912441660,1,Kidhackr,Patrick Fiori,
+2019-08-25T16:27:28+00:00,912441660,912441575,1,Kidhackr,Patrick Fiori,/* Television */
+2019-08-25T16:26:55+00:00,912441575,912431757,1,Kidhackr,Patrick Fiori,/* Television */
+2019-08-25T16:24:54+00:00,912441321,912441132,1,Kidhackr,Hélène Ségara,/* Television */
+2019-08-25T16:23:27+00:00,912441132,912441096,1,Kidhackr,Hélène Ségara,/* Television */
+2019-08-25T16:23:11+00:00,912441096,912440944,1,Kidhackr,Hélène Ségara,/* Television */
+2019-08-25T16:22:07+00:00,912440944,912432718,1,Kidhackr,Hélène Ségara,/* Television */
+2019-08-25T15:13:36+00:00,912432718,912278631,1,Kidhackr,Hélène Ségara,/* Movie */
+2019-08-25T15:03:35+00:00,912431757,912431711,1,Kidhackr,Patrick Fiori,
+2019-08-25T15:03:09+00:00,912431711,912431661,1,Kidhackr,Patrick Fiori,
+2019-08-25T15:02:35+00:00,912431661,912294079,1,Kidhackr,Patrick Fiori,
+2019-08-25T01:52:19+00:00,912364933,912364908,1,Kidhackr,Jean Garcia,/* Television */
+2019-08-25T01:51:55+00:00,912364908,912364800,1,Kidhackr,Jean Garcia,/* Films */
+2019-08-25T01:50:38+00:00,912364800,912364689,1,Kidhackr,Jean Garcia,/* Television */
+2019-08-25T01:49:29+00:00,912364689,910183222,1,Kidhackr,Jean Garcia,
+2019-08-25T01:04:07+00:00,912360848,912340152,1,Kidhackr,Carmina Villarroel,
+2019-08-24T22:06:01+00:00,912343349,912343054,1,Kidhackr,Jake Vargas,/* Television */
+2019-08-24T22:03:25+00:00,912343054,912343010,1,Kidhackr,Jake Vargas,
+2019-08-24T22:03:02+00:00,912343010,912342732,1,Kidhackr,Jake Vargas,
+2019-08-24T22:00:50+00:00,912342732,912337343,1,Kidhackr,Jake Vargas,/* Television */
+2019-08-24T21:37:07+00:00,912340152,912340066,1,Kidhackr,Carmina Villarroel,/* Television */
+2019-08-24T21:36:22+00:00,912340066,912339555,1,Kidhackr,Carmina Villarroel,/* Television */
+2019-08-24T21:31:37+00:00,912339555,912339374,1,Kidhackr,Carmina Villarroel,/* Television */
+2019-08-24T21:29:56+00:00,912339374,912335347,1,Kidhackr,Carmina Villarroel,/* Television */
+2019-08-24T21:12:54+00:00,912337511,912309907,1,Kidhackr,User talk:Kidhackr,
+2019-08-24T21:11:20+00:00,912337343,912162815,1,Kidhackr,Jake Vargas,
+2019-08-24T20:54:00+00:00,912335347,912335290,1,Kidhackr,Carmina Villarroel,
+2019-08-24T20:53:36+00:00,912335290,912229571,1,Kidhackr,Carmina Villarroel,/* Television */
+2019-08-24T19:44:36+00:00,912327058,912278227,1,Kidhackr,Hélène Rollès,
+2019-08-24T14:56:31+00:00,912294079,912293695,1,Kidhackr,Patrick Fiori,/* Movie */
+2019-08-24T14:53:12+00:00,912293695,912290685,1,Kidhackr,Patrick Fiori,
+2019-08-24T14:29:01+00:00,912290685,912231467,1,Kidhackr,Patrick Fiori,
+2019-08-24T12:45:42+00:00,912278631,912278558,1,Kidhackr,Hélène Ségara,
+2019-08-24T12:44:55+00:00,912278558,912278497,1,Kidhackr,Hélène Ségara,
+2019-08-24T12:44:25+00:00,912278497,912230687,1,Kidhackr,Hélène Ségara,
+2019-08-24T12:41:50+00:00,912278227,912278149,1,Kidhackr,Hélène Rollès,
+2019-08-24T12:41:23+00:00,912278149,912162871,1,Kidhackr,Hélène Rollès,
+2019-08-24T03:39:09+00:00,912231467,912230610,1,Kidhackr,Patrick Fiori,/* Movie */
+2019-08-24T03:29:52+00:00,912230687,912229411,1,Kidhackr,Hélène Ségara,/* Movie */
+2019-08-24T03:28:39+00:00,912230610,912229714,1,Kidhackr,Patrick Fiori,/* Discography */
+2019-08-24T03:15:49+00:00,912229714,912205873,1,Kidhackr,Patrick Fiori,
+2019-08-24T03:11:56+00:00,912229411,912207605,1,Kidhackr,Hélène Ségara,
+2019-08-24T02:06:02+00:00,912222987,912220356,1,Kidhackr,Carmina Villarroel,/* Television */
+2019-08-24T01:35:52+00:00,912220356,907806119,1,Kidhackr,Carmina Villarroel,
+2019-08-23T23:18:33+00:00,912207605,912207196,1,Kidhackr,Hélène Ségara,/* Discography */
+2019-08-23T23:13:51+00:00,912207196,912206113,1,Kidhackr,Hélène Ségara,/* Discography */
+2019-08-23T23:03:00+00:00,912206113,912180844,1,Kidhackr,Hélène Ségara,
+2019-08-23T23:00:33+00:00,912205873,912180818,1,Kidhackr,Patrick Fiori,
+2019-08-23T18:56:07+00:00,912176000,912175268,1,Kidhackr,Patrick Fiori,
+2019-08-23T18:51:20+00:00,912175268,912174030,1,Kidhackr,Patrick Fiori,
+2019-08-23T18:50:08+00:00,912175082,911766825,1,Kidhackr,User talk:Discospinster,
+2019-08-23T18:47:08+00:00,912174648,912174471,1,Kidhackr,Hélène Ségara,
+2019-08-23T18:45:59+00:00,912174471,912174440,1,Kidhackr,Hélène Ségara,
+2019-08-23T18:45:48+00:00,912174440,912163038,1,Kidhackr,Hélène Ségara,
+2019-08-23T18:43:07+00:00,912174030,912173855,1,Kidhackr,Patrick Fiori,
+2019-08-23T18:41:57+00:00,912173855,912163103,1,Kidhackr,Patrick Fiori,
+2019-08-23T17:02:31+00:00,912160351,911784885,1,Kidhackr,Jake Vargas,/* Television */
+2019-08-23T16:59:32+00:00,912159986,912159911,1,Kidhackr,Lea Salonga,
+2019-08-23T16:58:54+00:00,912159911,911860558,1,Kidhackr,Lea Salonga,
+2019-08-23T13:46:17+00:00,912135014,912134787,1,Kidhackr,Hélène Rollès,
+2019-08-23T13:44:36+00:00,912134787,911837400,1,Kidhackr,Hélène Rollès,
+2019-08-21T13:32:51+00:00,911837400,911824226,1,Kidhackr,Hélène Rollès,/* Filmography */
+2019-08-21T11:57:11+00:00,911826344,911647345,1,Kidhackr,Lea Salonga,
+2019-08-21T11:53:40+00:00,911825909,911825828,1,Kidhackr,Tajči,
+2019-08-21T11:52:56+00:00,911825828,907077942,1,Kidhackr,Tajči,
+2019-08-21T11:37:24+00:00,911824226,911246518,1,Kidhackr,Hélène Rollès,
+2019-08-21T11:26:06+00:00,911823106,911159196,1,Kidhackr,Patrick Fiori,
+2019-08-19T11:02:29+00:00,911514887,911311005,1,Kidhackr,Hélène Ségara,
+2019-08-18T01:53:34+00:00,911311005,910640301,1,Kidhackr,Hélène Ségara,
+2019-08-17T15:37:31+00:00,911246518,910927479,1,Kidhackr,Hélène Rollès,
+2019-08-16T22:34:31+00:00,911159196,911099447,1,Kidhackr,Patrick Fiori,
+2019-08-16T14:13:37+00:00,911099447,910864912,1,Kidhackr,Patrick Fiori,
+2019-08-15T12:52:34+00:00,910927479,909770076,1,Kidhackr,Hélène Rollès,
+2019-08-15T00:26:08+00:00,910864912,910863538,1,Kidhackr,Patrick Fiori,
+2019-08-15T00:12:22+00:00,910863538,910725405,1,Kidhackr,Patrick Fiori,
+2019-08-14T00:51:35+00:00,910725405,910496428,1,Kidhackr,Patrick Fiori,
+2019-08-13T13:04:40+00:00,910640301,910358059,1,Kidhackr,Hélène Ségara,
+2019-08-13T11:53:24+00:00,910633440,910347789,1,Kidhackr,Angelika Dela Cruz,
+2019-08-12T13:45:25+00:00,910496428,910496149,1,Kidhackr,Patrick Fiori,
+2019-08-12T13:42:45+00:00,910496149,910494946,1,Kidhackr,Patrick Fiori,
+2019-08-12T13:30:44+00:00,910494946,910494907,1,Kidhackr,Patrick Fiori,
+2019-08-12T13:30:26+00:00,910494907,910494725,1,Kidhackr,Patrick Fiori,
+2019-08-12T13:28:42+00:00,910494725,910379066,1,Kidhackr,Patrick Fiori,
+2019-08-12T13:25:38+00:00,910494390,0,1,Kidhackr,User talk:Kidhackr/sandbox,[[WP:AES|←]]Created page with 'Hello  My Name Is Kidhackr I Need To Use agent So You Can Actor'
+2019-08-12T13:25:07+00:00,910494302,0,1,Kidhackr,User:Kidhackr/sandbox,[[WP:AES|←]]Created page with '{{User sandbox}} <!-- EDIT BELOW THIS LINE --> Can I Use agent I need It'
+2019-08-12T13:24:06+00:00,910494159,909925240,1,Kidhackr,Kyline Alcantara,
+2019-08-11T17:40:46+00:00,910379066,910289261,1,Kidhackr,Patrick Fiori,
+2019-08-11T14:34:02+00:00,910358059,909440261,1,Kidhackr,Hélène Ségara,
+2019-08-11T12:54:19+00:00,910347789,907769245,1,Kidhackr,Angelika Dela Cruz,
+2019-08-11T00:45:22+00:00,910289261,910288910,1,Kidhackr,Patrick Fiori,
+2019-08-11T00:41:48+00:00,910288910,910288682,1,Kidhackr,Patrick Fiori,
+2019-08-11T00:39:35+00:00,910288682,910287483,1,Kidhackr,Patrick Fiori,
+2019-08-11T00:29:09+00:00,910287483,910284995,1,Kidhackr,Patrick Fiori,
+2019-08-11T00:06:23+00:00,910284995,909914456,1,Kidhackr,Patrick Fiori,Patrick Fiori
+2019-08-11T00:04:34+00:00,910284772,0,1,Kidhackr,User:Kidhackr,[[WP:AES|←]]Created page with 'Jaiden san Pedro'
+2019-08-11T00:04:13+00:00,910284723,0,1,Kidhackr,User talk:Kidhackr,[[WP:AES|←]]Created page with 'excuse me I need To Make The Page Ok'
+2019-08-10T00:17:55+00:00,910148166,909815740,1,Kidhackr,Lea Salonga,
+2019-08-09T13:44:14+00:00,910072466,889204835,1,Kidhackr,Jake Vargas,
+2019-08-08T12:59:33+00:00,909914456,909914360,1,Kidhackr,Patrick Fiori,/* Singles */
+2019-08-08T12:58:34+00:00,909914360,909914187,1,Kidhackr,Patrick Fiori,
+2019-08-08T12:57:04+00:00,909914187,909914128,1,Kidhackr,Patrick Fiori,/* Movie Full */
+2019-08-08T12:56:34+00:00,909914128,909913969,1,Kidhackr,Patrick Fiori,/* Movie Full */
+2019-08-08T12:54:46+00:00,909913969,909913603,1,Kidhackr,Patrick Fiori,/* Movie Full */
+2019-08-08T12:50:53+00:00,909913603,909912749,1,Kidhackr,Patrick Fiori,/* Discography */
+2019-08-08T12:43:06+00:00,909912749,909448774,1,Kidhackr,Patrick Fiori,
+2019-08-07T14:05:42+00:00,909770076,909664424,1,Kidhackr,Hélène Rollès,Helene Rolles
+2019-08-06T20:32:29+00:00,909664424,874695436,1,Kidhackr,Hélène Rollès,
+2019-08-05T14:06:30+00:00,909448774,909448729,1,Kidhackr,Patrick Fiori,
+2019-08-05T14:06:07+00:00,909448729,909448285,1,Kidhackr,Patrick Fiori,
+2019-08-05T14:01:59+00:00,909448285,909448113,1,Kidhackr,Patrick Fiori,
+2019-08-05T14:00:32+00:00,909448113,906457234,1,Kidhackr,Patrick Fiori,Patrick Fiori
+2019-08-05T12:59:27+00:00,909440859,909440494,1,Kidhackr,Jean Garcia,
+2019-08-05T12:55:47+00:00,909440494,905095490,1,Kidhackr,Jean Garcia,
+2019-08-05T12:53:22+00:00,909440261,909440009,1,Kidhackr,Hélène Ségara,
+2019-08-05T12:50:39+00:00,909440009,909439694,1,Kidhackr,Hélène Ségara,
+2019-08-05T12:47:34+00:00,909439694,909439465,1,Kidhackr,Hélène Ségara,
+2019-06-16T02:33:33+00:00,902035982,902035766,1,Kidhackr,Patrick Fiori,
+2019-06-16T02:30:33+00:00,902035766,902035251,1,Kidhackr,Patrick Fiori,
+2019-06-16T02:24:20+00:00,902035251,900525130,1,Kidhackr,Patrick Fiori,
+2021-09-11T12:49:54+00:00,1043691966,1043421253,1,Jaiden_ABS-CBN_11,Legal Wives,/* Cast and characters */
+2021-09-11T12:49:05+00:00,1043691858,1043691808,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T12:48:41+00:00,1043691808,1043691789,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T12:48:29+00:00,1043691789,1043691767,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T12:48:18+00:00,1043691767,1043691459,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T12:47:23+00:00,1043691669,1043630840,1,Jaiden_ABS-CBN_11,Dennis Trillo,
+2021-09-11T12:45:44+00:00,1043691459,1043691362,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T12:44:57+00:00,1043691362,1043691301,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T12:44:28+00:00,1043691301,1043675785,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T10:34:27+00:00,1043675785,1043675492,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T10:31:54+00:00,1043675543,0,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11/Userboxes/GMA network,"[[WP:AES|←]]Created page with 'This user watches [[GMA Network]] programs and is ""proud to be a Kapuso.""'"
+2021-09-11T10:31:28+00:00,1043675492,1043675285,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T10:30:00+00:00,1043675285,1043674907,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T10:26:49+00:00,1043674907,1043626387,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,
+2021-09-11T03:44:33+00:00,1043630753,1043630576,1,Jaiden_ABS-CBN_11,Dennis Trillo,
+2021-09-11T03:43:11+00:00,1043630576,1043627379,1,Jaiden_ABS-CBN_11,Dennis Trillo,
+2021-09-11T03:38:21+00:00,1043630010,1026777823,1,Jaiden_ABS-CBN_11,Talk:Dennis Trillo,/* Semi protected on 11 September 2021 */ new section
+2021-09-11T03:15:09+00:00,1043627328,1043626612,1,Jaiden_ABS-CBN_11,Dennis Trillo,
+2021-09-11T03:14:40+00:00,1043627267,1043489216,1,Jaiden_ABS-CBN_11,User talk:WayKurat,
+2021-09-11T03:08:08+00:00,1043626517,1043626129,1,Jaiden_ABS-CBN_11,Dennis Trillo,"come on dude, is not even, check in the program, boy https://en.wikipedia.org/wiki/On_the_Job:_The_Missing_8"
+2021-09-11T03:06:58+00:00,1043626387,0,1,Jaiden_ABS-CBN_11,User:Jaiden ABS-CBN 11,[[WP:AES|←]]Created page with 'Hello i will to do since from 2001.'
+2021-09-11T03:01:15+00:00,1043625745,1043068637,1,Jaiden_ABS-CBN_11,Love. Die. Repeat.,/* Cast and characters */
+2021-09-11T02:53:08+00:00,1043624859,0,1,Jaiden_ABS-CBN_11,User talk:Jaiden ABS-CBN 11,[[WP:AES|←]]Created page with 'Hello! i'm the since again the 2021'
+2021-09-11T02:51:19+00:00,1043624651,1032499730,1,Jaiden_ABS-CBN_11,John Arcilla,/* Film */
+2021-09-11T02:50:03+00:00,1043624493,1043624285,1,Jaiden_ABS-CBN_11,Dennis Trillo,"/* Film */  is a On the Job: The Missing 8, It's not even the vandalize!"
+2021-09-11T02:48:06+00:00,1043624285,1043624149,1,Jaiden_ABS-CBN_11,Dennis Trillo,SEE THE ON THE JOB: THE MISSING 8 WILL START BEGIN IN SEPTEMBER 10!
+2021-09-11T02:47:00+00:00,1043624149,1043622917,1,Jaiden_ABS-CBN_11,Dennis Trillo,"HEY! NO WAY, YOU ARE NOT REMOVING THAT DENNIS TRILLO'S FILMS!"
+2021-06-28T17:06:43+00:00,1030901166,1030887355,1,Jaiden's_ABS-CBN_8,User talk:Jaiden's ABS-CBN 8,/* Blocked as a sockpuppet */
+2021-06-28T15:18:39+00:00,1030885539,0,1,Jaiden's_ABS-CBN_8,User:Jaiden's ABS-CBN 8,[[WP:AES|←]]Created page with 'Sorry! I Decide to Wikipedia! I just Since in 2019!'
+2021-06-28T15:17:13+00:00,1030885355,1030885250,1,Jaiden's_ABS-CBN_8,User talk:WayKurat,"/* June 28, 2021 */"
+2021-06-28T15:16:25+00:00,1030885250,1029989437,1,Jaiden's_ABS-CBN_8,User talk:WayKurat,
+2021-07-01T11:58:08+00:00,1031402106,1031402066,1,Jaiden's_ABS-CBN_9,Eurovision Song Contest 2022,
+2021-07-01T11:57:50+00:00,1031402066,1031320205,1,Jaiden's_ABS-CBN_9,Eurovision Song Contest 2022,/* Provisional list of participating countries */
+2021-06-29T19:13:37+00:00,1031089121,1031089087,1,Jaiden's_ABS-CBN_9,Eurovision Song Contest 2022,
+2021-06-29T19:13:22+00:00,1031089087,1031005130,1,Jaiden's_ABS-CBN_9,Eurovision Song Contest 2022,/* Provisional list of participating countries */
+2021-09-11T02:03:26+00:00,1043619167,1043619081,1,Jaiden's_ABS-CBN_11,Dennis Trillo,
+2021-09-11T02:02:51+00:00,1043619081,1043618994,1,Jaiden's_ABS-CBN_11,Dennis Trillo,
+2021-09-11T02:02:24+00:00,1043618994,1043618932,1,Jaiden's_ABS-CBN_11,Dennis Trillo,/* Film */
+2021-09-11T02:01:57+00:00,1043618932,1042416253,1,Jaiden's_ABS-CBN_11,Dennis Trillo,/* Film */
+2021-11-21T19:15:10+00:00,1056430242,1056430207,1,Jaiden4,Kazakhstan in the ABU TV Song Festival,
+2021-11-21T19:14:55+00:00,1056430207,1056394676,1,Jaiden4,Kazakhstan in the ABU TV Song Festival,
+2021-11-21T19:14:26+00:00,1056430123,1056394669,1,Jaiden4,India in the ABU TV Song Festival,
+2021-11-21T19:13:46+00:00,1056430023,1056394665,1,Jaiden4,Turkey in the ABU TV Song Festival,GOD STOP!
+2021-11-21T00:51:13+00:00,1056306463,1056263060,1,Jaiden4,ABU TV Song Festival,*Fixed*
+2021-11-20T17:08:04+00:00,1056246476,1056246435,1,Jaiden4,ABU TV Song Festival,/* Participation */
+2021-11-20T17:07:42+00:00,1056246435,1056246391,1,Jaiden4,ABU TV Song Festival,/* Other ABU members */
+2021-11-20T17:07:21+00:00,1056246391,1056246328,1,Jaiden4,ABU TV Song Festival,/* Participation */
+2021-11-20T17:06:49+00:00,1056246328,1056243918,1,Jaiden4,ABU TV Song Festival,/* Participation */
+2021-11-20T16:50:33+00:00,1056243918,1056242507,1,Jaiden4,ABU TV Song Festival,/* Participation */
+2021-11-20T16:40:54+00:00,1056242507,1056240447,1,Jaiden4,ABU TV Song Festival,/* Notes */
+2021-11-20T16:25:38+00:00,1056240447,1056236565,1,Jaiden4,ABU TV Song Festival,
+2021-11-20T16:01:48+00:00,1056237339,1056119713,1,Jaiden4,Turkey in the ABU TV Song Festival,
+2021-11-20T15:56:23+00:00,1056236565,1056236449,1,Jaiden4,ABU TV Song Festival,/* Participation */
+2021-11-20T15:55:34+00:00,1056236449,1056236152,1,Jaiden4,ABU TV Song Festival,/* Participation */
+2021-11-20T15:53:03+00:00,1056236152,1056236035,1,Jaiden4,ABU TV Song Festival,/* Participation */
+2021-11-20T15:52:01+00:00,1056236035,1056235928,1,Jaiden4,ABU TV Song Festival,/* Participation */
+2021-11-20T15:51:08+00:00,1056235928,1056235815,1,Jaiden4,ABU TV Song Festival,/* Participation */
+2021-11-20T15:50:19+00:00,1056235815,1055999989,1,Jaiden4,ABU TV Song Festival,/* Participation */  can you update the Debuting please? and even map
+2021-11-20T15:47:33+00:00,1056235462,1056235304,1,Jaiden4,India in the ABU TV Song Festival,/* Participation overview */
+2021-11-20T15:46:08+00:00,1056235304,1052751406,1,Jaiden4,India in the ABU TV Song Festival,/* Participation overview */
+2021-11-19T22:57:36+00:00,1056131474,1051388033,1,Jaiden4,Dennis Trillo,
+2021-11-19T21:35:22+00:00,1056122020,1051942310,1,Jaiden4,Kazakhstan in the ABU TV Song Festival,/* Participation overview */
+2021-11-19T21:16:05+00:00,1056119713,1051944722,1,Jaiden4,Turkey in the ABU TV Song Festival,/* Participation overview */
+2021-11-12T21:28:09+00:00,1054935113,0,1,Jaiden4,User:Jaiden4/sandbox,[[WP:AES|←]]Created page with '{{User sandbox}} Hello guys. i'm going to create anything my Festival and song Contest and Infobox'
+2021-06-12T19:30:41+00:00,1028245502,0,1,JaidenABS-CBN4,User:JaidenABS-CBN4,[[WP:AES|←]]Created page with '[[File:Untitled79.png|45px|thumb|center|This is i live my Flag]]'
+2021-06-12T19:24:34+00:00,1028244734,1028015403,1,JaidenABS-CBN4,Talk:Eurovision Song Contest 2022,/* Semi-protected edit request on 12 June 2021 */ new section
+2021-06-12T14:37:59+00:00,1028207099,1027822949,1,JaidenABS-CBN4,List of countries in the Eurovision Song Contest,/* Participants */
+2021-06-09T16:49:30+00:00,1027727493,1027727196,1,JaidenABS-CBN4,Eurovision Song Contest 2022,
+2021-06-09T15:38:51+00:00,1027718071,1027716276,1,JaidenABS-CBN4,Eurovision Song Contest 2022,/* Active EBU members */
+2021-06-09T15:25:21+00:00,1027716276,1027706216,1,JaidenABS-CBN4,Eurovision Song Contest 2022,
+2019-09-29T13:14:55+00:00,918595882,918586978,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-29T12:57:02+00:00,918593889,918484908,1,JaidenFolf,Hélène Ségara,/* Television */
+2019-09-29T12:55:30+00:00,918593688,918196785,1,JaidenFolf,The General's Daughter (TV series),/* Cast and characters */
+2019-09-29T12:53:22+00:00,918593411,918593292,1,JaidenFolf,Dennis Trillo,/* Television series */
+2019-09-29T12:52:32+00:00,918593292,918593150,1,JaidenFolf,Dennis Trillo,/* Television series */
+2019-09-29T12:51:29+00:00,918593150,918438314,1,JaidenFolf,Dennis Trillo,/* Television */
+2019-09-29T12:25:38+00:00,918590512,918447821,1,JaidenFolf,Hélène Rollès,/* Agent */
+2019-09-29T11:52:21+00:00,918586978,918586869,1,JaidenFolf,Patrick Fiori,/* Singles */
+2019-09-29T11:51:20+00:00,918586869,918586824,1,JaidenFolf,Patrick Fiori,/* Singles */
+2019-09-29T11:51:00+00:00,918586824,918532440,1,JaidenFolf,Patrick Fiori,/* Singles */
+2019-09-29T03:55:03+00:00,918532440,918532284,1,JaidenFolf,Patrick Fiori,/* Agent */
+2019-09-29T03:53:59+00:00,918532284,918532221,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-29T03:53:34+00:00,918532221,918532149,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-29T03:53:02+00:00,918532149,918531170,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-29T03:48:25+00:00,918531537,916672945,1,JaidenFolf,Esperanza (Philippine TV series),/* Cast and characters */
+2019-09-29T03:45:43+00:00,918531170,918531145,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-29T03:45:32+00:00,918531145,918530865,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-29T03:43:22+00:00,918530865,918528040,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-29T03:24:14+00:00,918528040,918527943,1,JaidenFolf,Patrick Fiori,/* Singles */
+2019-09-29T03:23:40+00:00,918527943,918499932,1,JaidenFolf,Patrick Fiori,/* Singles */
+2019-09-28T22:23:02+00:00,918485786,918485715,1,JaidenFolf,Love Sick,/* Films and television */
+2019-09-28T22:22:32+00:00,918485715,862636232,1,JaidenFolf,Love Sick,/* Films and television */
+2019-09-28T22:16:55+00:00,918484908,918316288,1,JaidenFolf,Hélène Ségara,/* Television */
+2019-09-28T21:20:15+00:00,918477104,918448634,1,JaidenFolf,Jake Vargas,
+2019-09-28T21:13:39+00:00,918476025,918419956,1,JaidenFolf,Cain at Abel,/* Cast and characters */
+2019-09-28T20:23:23+00:00,918467228,918467072,1,JaidenFolf,"Kambal, Karibal",/* Cast and characters */
+2019-09-28T20:22:24+00:00,918467072,918325397,1,JaidenFolf,"Kambal, Karibal",/* Cast and characters */
+2019-09-28T18:30:04+00:00,918448634,918433093,1,JaidenFolf,Jake Vargas,
+2019-09-28T18:25:02+00:00,918447821,916856307,1,JaidenFolf,Hélène Rollès,
+2019-09-28T17:24:33+00:00,918438314,918433229,1,JaidenFolf,Dennis Trillo,
+2019-09-28T15:43:35+00:00,918419956,918388568,1,JaidenFolf,Cain at Abel,/* Cast and characters */
+2019-09-28T15:38:22+00:00,918419188,918418795,1,JaidenFolf,Jake Vargas,/* Television */
+2019-09-28T15:35:33+00:00,918418795,916850960,1,JaidenFolf,Jake Vargas,
+2019-09-28T14:15:43+00:00,918406651,918403630,1,JaidenFolf,Dennis Trillo,
+2019-09-28T13:38:34+00:00,918400796,918257131,1,JaidenFolf,Dennis Trillo,
+2019-09-28T13:36:54+00:00,918400542,918384487,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-28T12:15:18+00:00,918388359,918382348,1,JaidenFolf,Cain at Abel,/* Cast and characters */
+2019-09-28T11:46:06+00:00,918384487,918384441,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-28T11:45:49+00:00,918384441,918382906,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-28T11:33:34+00:00,918382906,918382793,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-28T11:32:37+00:00,918382793,918382441,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-28T11:28:58+00:00,918382441,918381908,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-28T11:28:10+00:00,918382348,917267146,1,JaidenFolf,Cain at Abel,/* Cast and characters */
+2019-09-28T11:23:27+00:00,918381908,918381848,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-28T11:22:51+00:00,918381848,918309173,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-28T10:59:34+00:00,918378606,918266350,1,JaidenFolf,Kampanerang Kuba,/* Supporting cast */
+2019-09-28T02:44:18+00:00,918319039,918318975,1,JaidenFolf,Bituing Walang Ningning,/* Cast and characters */
+2019-09-28T02:43:48+00:00,918318975,918318596,1,JaidenFolf,Bituing Walang Ningning,/* Cast and characters */
+2019-09-28T02:41:01+00:00,918318596,916659176,1,JaidenFolf,Bituing Walang Ningning,/* Cast and characters */
+2019-09-28T02:24:43+00:00,918316288,918297727,1,JaidenFolf,Hélène Ségara,/* Agent */
+2019-09-28T01:35:13+00:00,918309173,918308896,1,JaidenFolf,Patrick Fiori,/* Agent */
+2019-09-28T01:33:08+00:00,918308896,918279330,1,JaidenFolf,Patrick Fiori,
+2019-09-28T00:09:09+00:00,918297727,918094787,1,JaidenFolf,Hélène Ségara,
+2019-09-27T21:58:17+00:00,918279330,918273687,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-27T21:21:20+00:00,918273687,918273542,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-27T21:20:12+00:00,918273542,918267696,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-27T20:49:28+00:00,918268511,918268345,1,JaidenFolf,"Kambal, Karibal",/* Cast and characters */
+2019-09-27T20:48:42+00:00,918268345,918268186,1,JaidenFolf,"Kambal, Karibal",/* Cast and characters */
+2019-09-27T20:47:54+00:00,918268186,915872905,1,JaidenFolf,"Kambal, Karibal",/* Cast and characters */
+2019-09-27T20:45:29+00:00,918267696,918267574,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-27T20:44:59+00:00,918267574,918267525,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-27T20:44:46+00:00,918267525,918267206,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-27T20:43:16+00:00,918267206,918059087,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-27T20:39:25+00:00,918266350,918266245,1,JaidenFolf,Kampanerang Kuba,/* Supporting cast */
+2019-09-27T20:38:57+00:00,918266245,909125794,1,JaidenFolf,Kampanerang Kuba,/* Supporting cast */
+2019-09-27T20:33:15+00:00,918265028,918257313,1,JaidenFolf,Mara Clara,/* Recurring cast */
+2019-09-27T19:47:32+00:00,918257313,916111855,1,JaidenFolf,Mara Clara,/* Recurring cast */
+2019-09-27T19:46:28+00:00,918257131,918257084,1,JaidenFolf,Dennis Trillo,/* Television */
+2019-09-27T19:46:08+00:00,918257084,918256526,1,JaidenFolf,Dennis Trillo,/* Television */
+2019-09-27T19:42:37+00:00,918256526,918256425,1,JaidenFolf,Dennis Trillo,
+2019-09-27T19:41:55+00:00,918256425,918054805,1,JaidenFolf,Dennis Trillo,
+2019-09-27T00:39:36+00:00,918094787,918094747,1,JaidenFolf,Hélène Ségara,
+2019-09-27T00:39:20+00:00,918094747,918055603,1,JaidenFolf,Hélène Ségara,
+2019-09-26T20:49:01+00:00,918061219,915683809,1,JaidenFolf,Mula sa Puso (2011 TV series),/* Supporting cast */
+2019-09-26T20:48:29+00:00,918061129,918061040,1,JaidenFolf,Mula sa Puso,/* Supporting cast */
+2019-09-26T20:48:03+00:00,918061040,916040877,1,JaidenFolf,Mula sa Puso,/* Supporting cast */
+2019-09-26T20:35:35+00:00,918059087,918059049,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-26T20:35:20+00:00,918059049,917870443,1,JaidenFolf,Patrick Fiori,/* Agent */
+2019-09-26T20:18:56+00:00,918056504,918056472,1,JaidenFolf,Vincent Niclo,/* Agent */
+2019-09-26T20:18:43+00:00,918056472,887708596,1,JaidenFolf,Vincent Niclo,
+2019-09-26T20:12:47+00:00,918055603,918054938,1,JaidenFolf,Hélène Ségara,/* Agent */
+2019-09-26T20:01:59+00:00,918053978,918053916,1,JaidenFolf,Hélène Ségara,/* Agent */
+2019-09-26T20:01:35+00:00,918053916,917872324,1,JaidenFolf,Hélène Ségara,/* Agent */
+2019-09-26T19:47:31+00:00,918051576,918051507,1,JaidenFolf,Dennis Trillo,
+2019-09-26T19:47:04+00:00,918051507,918051405,1,JaidenFolf,Dennis Trillo,
+2019-09-26T19:46:24+00:00,918051405,918051279,1,JaidenFolf,Dennis Trillo,
+2019-09-26T19:45:40+00:00,918051279,917734738,1,JaidenFolf,Dennis Trillo,
+2019-09-25T22:04:26+00:00,917872324,917153647,1,JaidenFolf,Hélène Ségara,
+2019-09-25T21:53:38+00:00,917870443,917870390,1,JaidenFolf,Patrick Fiori,
+2019-09-25T21:53:19+00:00,917870390,917852953,1,JaidenFolf,Patrick Fiori,
+2019-09-24T20:10:12+00:00,917648361,0,1,JaidenFolf,User:JaidenFolf,[[WP:AES|←]]Created page with '=Habang May Buhay='
+2019-09-24T20:07:41+00:00,917647913,917647818,1,JaidenFolf,Dennis Trillo,
+2019-09-24T20:07:07+00:00,917647818,917647769,1,JaidenFolf,Dennis Trillo,/* Singles */
+2019-09-24T20:06:51+00:00,917647769,917134909,1,JaidenFolf,Dennis Trillo,/* Singles */
+2019-09-24T19:55:47+00:00,917645754,917435354,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-23T20:46:50+00:00,917439263,0,1,JaidenFolf,User talk:JaidenFolf,[[WP:AES|←]]Created page with 'i'm sorry'
+2019-09-23T20:24:30+00:00,917435354,917434854,1,JaidenFolf,Patrick Fiori,
+2019-09-23T20:21:51+00:00,917434854,917423310,1,JaidenFolf,Patrick Fiori,
+2019-09-23T19:31:13+00:00,917423310,917423205,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-09-23T19:30:46+00:00,917423205,917150420,1,JaidenFolf,Patrick Fiori,/* Television */
+2019-10-10T20:18:28+00:00,920605234,920605129,1,JaidenLala,Christian Bautista,/* Television */
+2019-10-10T20:17:50+00:00,920605129,915969255,1,JaidenLala,Christian Bautista,
+2019-10-10T20:15:30+00:00,920604738,920604571,1,JaidenLala,Hélène Ségara,/* Agent */
+2019-10-10T20:14:36+00:00,920604571,920604549,1,JaidenLala,Hélène Ségara,/* Television */
+2019-10-10T20:14:27+00:00,920604549,920418782,1,JaidenLala,Hélène Ségara,/* Television */
+2019-10-10T20:09:07+00:00,920603683,920603612,1,JaidenLala,Sa Dulo ng Walang Hanggan,
+2019-10-10T20:08:41+00:00,920603612,920363858,1,JaidenLala,Sa Dulo ng Walang Hanggan,/* Main cast */
+2019-10-10T20:05:09+00:00,920603120,920362111,1,JaidenLala,Esperanza (Philippine TV series),
+2019-10-10T19:56:02+00:00,920601806,920601745,1,JaidenLala,Patrick Fiori,/* Television */
+2019-10-10T19:55:32+00:00,920601745,920601411,1,JaidenLala,Patrick Fiori,/* Television */
+2019-10-10T19:53:12+00:00,920601411,920600221,1,JaidenLala,Patrick Fiori,/* Television */
+2019-10-10T19:48:02+00:00,920600669,920286043,1,JaidenLala,Jake Vargas,/* Television */
+2019-10-10T19:44:51+00:00,920600221,920571355,1,JaidenLala,Patrick Fiori,
+2019-10-09T19:22:07+00:00,920433075,920432980,1,JaidenLala,Dennis Trillo,/* Associated acts */
+2019-10-09T19:21:25+00:00,920432980,920360621,1,JaidenLala,Dennis Trillo,
+2019-10-09T17:39:26+00:00,920418782,919481222,1,JaidenLala,Hélène Ségara,
+2019-10-09T11:49:12+00:00,920378187,920291040,1,JaidenLala,Patrick Fiori,/* Agent */
+2019-10-09T01:24:31+00:00,920324024,920033580,1,JaidenLala,Pangako Sa 'Yo,/* Supporting cast */
+2019-10-09T01:16:17+00:00,920323141,920161026,1,JaidenLala,Dennis Trillo,
+2019-10-08T22:00:56+00:00,920302310,920302267,1,JaidenLala,Sunshine Dizon,/* Television */
+2019-10-08T22:00:41+00:00,920302267,920302234,1,JaidenLala,Sunshine Dizon,/* Television */
+2019-10-08T22:00:28+00:00,920302234,920076679,1,JaidenLala,Sunshine Dizon,/* Television */
+2019-10-08T20:30:14+00:00,920291117,911827792,1,JaidenLala,Mulawin,/* Cast and characters */
+2019-10-08T20:29:37+00:00,920291040,920290332,1,JaidenLala,Patrick Fiori,/* Television */
+2019-10-08T20:26:09+00:00,920290615,917166138,1,JaidenLala,That's Entertainment (Philippine TV program),/* Cast */
+2019-10-08T20:24:02+00:00,920290332,920290254,1,JaidenLala,Patrick Fiori,
+2019-10-08T20:23:29+00:00,920290254,920290185,1,JaidenLala,Patrick Fiori,/* Agent */
+2019-10-08T20:22:55+00:00,920290185,920290109,1,JaidenLala,Patrick Fiori,/* Television */
+2019-10-08T20:22:27+00:00,920290109,920290040,1,JaidenLala,Patrick Fiori,/* Television */
+2019-10-08T20:21:56+00:00,920290040,919781015,1,JaidenLala,Patrick Fiori,/* Television */
+2019-10-08T20:16:25+00:00,920289297,920289259,1,JaidenLala,Dingdong Dantes,/* Television */
+2019-10-08T20:16:04+00:00,920289259,920289120,1,JaidenLala,Dingdong Dantes,/* Television */
+2019-10-08T20:15:01+00:00,920289120,920289057,1,JaidenLala,Dingdong Dantes,/* Television */
+2019-10-08T20:14:29+00:00,920289057,920289035,1,JaidenLala,Dingdong Dantes,/* Television */
+2019-10-08T20:14:16+00:00,920289035,920288870,1,JaidenLala,Dingdong Dantes,/* Television series */
+2019-10-08T20:12:40+00:00,920288870,916478457,1,JaidenLala,Dingdong Dantes,/* Television series */
+2019-10-08T19:50:13+00:00,920286043,920286006,1,JaidenLala,Jake Vargas,/* Television */
+2019-10-08T19:49:51+00:00,920286006,920285960,1,JaidenLala,Jake Vargas,/* Television */
+2019-10-08T19:49:34+00:00,920285960,920285940,1,JaidenLala,Jake Vargas,/* Television */
+2019-10-08T19:49:25+00:00,920285940,920285917,1,JaidenLala,Jake Vargas,/* Television */
+2019-10-08T19:49:13+00:00,920285917,920285895,1,JaidenLala,Jake Vargas,/* Television */
+2019-10-08T19:49:04+00:00,920285895,918612571,1,JaidenLala,Jake Vargas,
+2019-10-08T19:42:50+00:00,920285036,920284945,1,JaidenLala,Tom Rodriguez,/* Television */
+2019-10-08T19:41:59+00:00,920284945,920284684,1,JaidenLala,Tom Rodriguez,/* Television */
+2019-10-08T19:40:03+00:00,920284684,917965441,1,JaidenLala,Tom Rodriguez,
+2019-10-08T19:34:47+00:00,920284041,916505055,1,JaidenLala,Kristine Hermosa,/* Television */
+2019-10-07T20:08:52+00:00,920122913,920122731,1,JaidenLala,Dennis Trillo,/* Singles */
+2019-10-07T20:07:41+00:00,920122731,920122689,1,JaidenLala,Dennis Trillo,/* Singles */
+2019-10-07T20:07:27+00:00,920122689,920122081,1,JaidenLala,Dennis Trillo,/* Singles */
+2019-10-07T20:03:26+00:00,920122081,920121865,1,JaidenLala,Dennis Trillo,
+2019-10-07T20:01:58+00:00,920121865,920121825,1,JaidenLala,Dennis Trillo,/* Studio albums */
+2019-10-07T20:01:42+00:00,920121825,920121660,1,JaidenLala,Dennis Trillo,/* Studio albums */
+2019-10-07T20:00:28+00:00,920121660,919880249,1,JaidenLala,Dennis Trillo,/* Studio albums */
+2019-10-06T11:32:18+00:00,919881606,919881569,1,JaidenLala,Esperanza (Philippine TV series),/* Supporting Cast */
+2019-10-06T11:31:55+00:00,919881569,919881562,1,JaidenLala,Esperanza (Philippine TV series),/* Supporting Cast */
+2019-10-06T11:31:51+00:00,919881562,919780828,1,JaidenLala,Esperanza (Philippine TV series),/* Supporting Cast */
+2019-10-06T11:18:20+00:00,919880249,919792742,1,JaidenLala,Dennis Trillo,/* References */
+2019-10-05T20:46:29+00:00,919792742,919792710,1,JaidenLala,Dennis Trillo,/* Television */
+2019-10-05T20:46:16+00:00,919792710,919776862,1,JaidenLala,Dennis Trillo,/* Television series */
+2019-10-05T19:17:45+00:00,919781015,919776528,1,JaidenLala,Patrick Fiori,/* Television */
+2019-10-05T19:16:24+00:00,919780828,919777972,1,JaidenLala,Esperanza (Philippine TV series),/* Supporting Cast */
+2019-10-05T18:53:55+00:00,919777972,918612436,1,JaidenLala,Esperanza (Philippine TV series),/* Supporting Cast */
+2019-10-05T18:46:27+00:00,919776862,919135775,1,JaidenLala,Dennis Trillo,
+2019-10-05T18:44:07+00:00,919776528,919642642,1,JaidenLala,Patrick Fiori,
+2019-10-05T12:28:26+00:00,919730441,919730433,1,JaidenLala,Angelika Dela Cruz,/* Television */
+2019-10-05T12:28:17+00:00,919730433,919730253,1,JaidenLala,Angelika Dela Cruz,/* Television */
+2019-10-05T12:25:58+00:00,919730253,911399546,1,JaidenLala,Angelika Dela Cruz,/* Television */
+2019-10-05T01:49:51+00:00,919673818,918315029,1,JaidenLala,Magpakailanman,
+2019-10-04T22:04:43+00:00,919650388,0,1,JaidenLala,User:JaidenLala,[[WP:AES|←]]Created page with 'hol'
+2019-10-04T21:56:24+00:00,919649541,0,1,JaidenLala,User:JaidenLala/sandbox,[[WP:AES|←]]Created page with '{{User sandbox}} <!-- EDIT BELOW THIS LINE --> hi'
+2019-10-04T21:56:15+00:00,919649524,0,1,JaidenLala,User talk:JaidenLala,[[WP:AES|←]]Created page with '==Help== Hi My Name Is Jaidenlala ==Create=='
+2019-10-04T20:56:06+00:00,919642642,919549148,1,JaidenLala,Patrick Fiori,
+2019-10-03T23:30:50+00:00,919481222,919481192,1,JaidenLala,Hélène Ségara,
+2019-10-03T23:30:35+00:00,919481192,918861795,1,JaidenLala,Hélène Ségara,
+2019-10-03T23:27:50+00:00,919480845,919480603,1,JaidenLala,Patrick Fiori,/* Actor */
+2019-10-03T23:25:53+00:00,919480603,919480521,1,JaidenLala,Patrick Fiori,/* Actor */
+2019-10-03T23:25:14+00:00,919480521,919480369,1,JaidenLala,Patrick Fiori,/* Actor */
+2019-10-03T23:24:04+00:00,919480369,919480298,1,JaidenLala,Patrick Fiori,/* Actor */
+2019-10-03T23:23:27+00:00,919480298,919479555,1,JaidenLala,Patrick Fiori,
+2019-10-03T23:16:53+00:00,919479555,919117242,1,JaidenLala,Patrick Fiori,
+2019-10-01T22:54:40+00:00,919117242,918861785,1,JaidenLala,Patrick Fiori,
+2019-10-14T22:21:41+00:00,921279652,921279556,1,JaidenLolf,Patrick Fiori,/* Television */
+2019-10-14T22:21:11+00:00,921279556,921279514,1,JaidenLolf,Patrick Fiori,/* Television */
+2019-10-14T22:20:56+00:00,921279514,921279413,1,JaidenLolf,Patrick Fiori,/* Television */
+2019-10-14T22:20:21+00:00,921279413,920645797,1,JaidenLolf,Patrick Fiori,
+2019-09-30T15:42:49+00:00,918850035,918843794,1,JaidenUnblock,Patrick Fiori,/* Discography */
+2019-09-30T15:15:22+00:00,918845027,918844920,1,JaidenUnblock,Dennis Trillo,
+2019-09-30T15:14:42+00:00,918844920,918612169,1,JaidenUnblock,Dennis Trillo,
+2019-09-30T15:13:54+00:00,918844775,918605980,1,JaidenUnblock,Hélène Ségara,
+2019-09-30T15:08:22+00:00,918843794,918601759,1,JaidenUnblock,Patrick Fiori,
+2019-11-17T15:41:40+00:00,926612936,925882474,1,Kidhackrs,Dennis Trillo,/* Television */
+2019-11-16T03:32:11+00:00,926402100,912462119,1,Kidhackrs,Temptation of an Angel,
+2020-01-05T12:41:06+00:00,934234308,933175098,1,New_Kidhackr,Dennis Trillo,
+2020-01-05T01:13:42+00:00,934154874,934154802,1,New_Kidhackr,Judy Ann Santos filmography,/* 2000 to 2002 */
+2020-01-05T01:13:28+00:00,934154802,934154738,1,New_Kidhackr,Judy Ann Santos filmography,/* 2000 to 2002 */
+2020-01-05T01:12:59+00:00,934154738,933983399,1,New_Kidhackr,Judy Ann Santos filmography,/* 2000 to 2002 */
+2020-01-04T12:47:18+00:00,934045198,933024100,1,New_Kidhackr,Glaiza de Castro,/* Film */
+2020-01-04T02:21:13+00:00,933983399,933982843,1,New_Kidhackr,Judy Ann Santos filmography,/* 2000 to 2002 */
+2020-01-04T02:16:50+00:00,933982843,933982768,1,New_Kidhackr,Judy Ann Santos filmography,/* 2000 to 2002 */
+2020-01-04T02:16:15+00:00,933982768,933982654,1,New_Kidhackr,Judy Ann Santos filmography,/* 2000 to 2002 */
+2020-01-04T02:15:22+00:00,933982654,933982570,1,New_Kidhackr,Judy Ann Santos filmography,/* 2000 to 2002 */
+2020-01-04T02:14:44+00:00,933982570,933982498,1,New_Kidhackr,Judy Ann Santos filmography,/* 2000 to 2002 */
+2020-01-04T02:14:15+00:00,933982498,932833073,1,New_Kidhackr,Judy Ann Santos filmography,/* 2000 to 2002 */
+2020-12-14T21:45:13+00:00,994270412,992593080,0,Mimimatz,ABU TV Song Festival,/* Hosting */
+2019-11-29T13:44:44+00:00,928477892,927460878,0,Allio19,ABU TV Song Festival,/* Hosting */
+2021-04-16T22:23:00+00:00,1018228173,1003887933,0,Jochem van Hees,ABU TV Song Festival,/* Hosting */ The [[List of host cities of the ABU Song Festivals]] article got moved
+2020-06-06T11:46:44+00:00,961063132,957643254,0,InternetArchiveBot,ABU TV Song Festival,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.1
+2019-09-27T02:22:42+00:00,918109380,908388805,0,Monkbot,ABU TV Song Festival,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (4×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2021-08-24T19:21:44+00:00,1040473786,1018228173,0,122.11.212.93,ABU TV Song Festival,Updated
+2021-01-31T05:02:24+00:00,1003887933,994270412,0,Monkbot,ABU TV Song Festival,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 19 templates: hyphenate params (25×);
+2019-07-29T11:58:55+00:00,908388805,902946342,0,DOBEIS,ABU TV Song Festival,/* See also */
+2020-11-05T13:39:39+00:00,987187566,961063132,0,Peepeetee1,ABU TV Song Festival,
+2020-02-20T09:11:29+00:00,941730622,928477892,0,JESCFan11,ABU TV Song Festival,Mongolia has never participated
+2019-06-22T13:26:38+00:00,902946342,896931942,0,Thalaja,ABU TV Song Festival,/* Hosting */Added host city.
+2019-10-21T09:59:08+00:00,922311978,921555063,0,112.205.151.57,Angelika Dela Cruz,/* Television */
+2020-08-17T12:51:02+00:00,973479601,969726940,0,2001:F40:906:D4F1:7CD6:58F6:A5EC:9361,Angelika Dela Cruz,
+2020-05-13T19:11:39+00:00,956508976,935978046,0,RobertskySemi,Angelika Dela Cruz,"redirect fixing ABS-CBN -> ABS-CBN Corporation., replaced: [[ABS-CBN]] → [[ABS-CBN Corporation|ABS-CBN]] (3)"
+2021-04-14T07:22:11+00:00,1017715019,1016865494,0,JJMC89 bot III,Angelika Dela Cruz,Removing [[:Category:Actresses of Italian descent]] per [[Wikipedia:Categories for discussion/Log/2021 March 22]]
+2021-08-29T15:23:41+00:00,1041265466,1036841224,0,2001:FD8:2118:44C2:4DD0:9036:1AC:2B75,Angelika Dela Cruz,/* top */
+2019-12-05T05:21:59+00:00,929342339,929337897,0,WayKurat,Angelika Dela Cruz,Reverted edits by [[Special:Contribs/49.144.5.222|49.144.5.222]] ([[User talk:49.144.5.222|talk]]) to last version by Sun Creator
+2021-06-12T07:23:34+00:00,1028159472,1028148137,0,WayKurat,Angelika Dela Cruz,Reverted edits by [[Special:Contribs/2001:4450:46B4:6000:D04E:2B37:6C3B:B91B|2001:4450:46B4:6000:D04E:2B37:6C3B:B91B]] ([[User talk:2001:4450:46B4:6000:D04E:2B37:6C3B:B91B|talk]]) to last version by 2001:4450:46B4:6000:6886:1B6C:357:590B
+2020-05-11T08:54:46+00:00,956060738,949666662,0,Gardo Versace,Bituing Walang Ningning,Clean-up.
+2021-06-14T01:56:00+00:00,1028449728,1028431552,0,WayKurat,Angelika Dela Cruz,"rv, unsourced"
+2020-09-18T00:06:01+00:00,978964231,978964130,0,ParillasAndrie,Angelika Dela Cruz,
+2020-11-14T13:47:11+00:00,988655686,988120880,0,120.29.113.58,Bituing Walang Ningning,removed list of episodes
+2020-02-01T09:45:55+00:00,938616761,932300099,0,The Anome,Bituing Walang Ningning,"Adding local [[Wikipedia:Short description|short description]]: ""2006 Philippine television drama"", overriding Wikidata description ""television series"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-11-29T01:58:05+00:00,991245333,991234109,0,120.29.113.198,Cain at Abel,removed spaced.
+2019-06-17T12:25:39+00:00,902225077,893404867,0,Eric abiog,Bituing Walang Ningning,/* Cast */
+2020-04-07T20:21:44+00:00,949666662,941959971,0,65.28.105.247,Bituing Walang Ningning,/* Cast and characters */
+2019-06-15T22:32:13+00:00,902015465,902015395,0,Jayvee B. Orbillo,Cain at Abel,
+2019-09-29T03:26:51+00:00,918528483,918476025,0,Hotwiki,Cain at Abel,Removed fake information
+2021-07-03T21:22:29+00:00,1031822532,991245333,0,Hotwiki,Cain at Abel,Added audio format
+2021-02-25T04:25:42+00:00,1008809830,1007831343,0,Sea29,Carmina Villarroel,Fixed page.
+2019-07-25T12:05:54+00:00,907806119,907116050,0,Lorenzo Kiel,Carmina Villarroel,
+2020-04-29T15:20:19+00:00,953883693,953022518,0,Hotwiki,Cain at Abel,Fixed
+2019-10-31T05:31:17+00:00,923851830,922690614,0,InternetArchiveBot,Carmina Villarroel,Rescuing 3 sources and tagging 0 as dead.) #IABot (v2.0
+2019-09-27T01:11:25+00:00,918099064,915841555,0,182.255.43.146,Carmina Villarroel,
+2021-06-06T15:34:32+00:00,1027181155,1025239128,0,2601:8C:4401:2EE0:F16D:EA8:20A2:B491,Carmina Villarroel,
+2019-12-05T14:02:26+00:00,929385794,929385390,0,Trappist the monk,Carmina Villarroel,/* Television */ dashes;
+2021-09-29T03:46:32+00:00,1047121402,1046757836,0,Tamzin,Carmina Villarroel,/* Personal life */ [[WP:BLPNAME]]: no indication that the twins are noteworthy
+2021-11-06T10:00:16+00:00,1053831784,1053828186,0,Princess Faye,Carmina Villarroel,not providing a reliable source
+2020-05-16T09:34:20+00:00,956971594,956965948,0,WayKurat,Carmina Villarroel,Reverted edits by [[Special:Contribs/49.144.194.41|49.144.194.41]] ([[User talk:49.144.194.41|talk]]) to last version by RobertskySemi
+2021-07-07T08:27:45+00:00,1032413789,1032413724,0,150.107.175.190,Carmina Villarroel,/* Film */
+2021-02-20T04:07:51+00:00,1007831343,1007831293,0,2001:4450:49FB:0:B003:8285:915C:608,Carmina Villarroel,
+2020-04-07T02:47:46+00:00,949543702,949062474,0,152.32.108.180,Carmina Villarroel,/* Television */
+2021-09-10T08:11:37+00:00,1043475022,1043474637,0,Princess Faye,Carmina Villarroel,Fixed
+2020-01-05T05:27:29+00:00,934188999,932232846,0,Tony1,Christian Bautista,"[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+2021-08-21T03:47:13+00:00,1039846055,1038699960,0,Ortizesp,Christian Bautista,for
+2020-08-18T06:54:04+00:00,973616975,972620652,0,WayKurat,Carmina Villarroel,Reverted edits by [[Special:Contribs/49.145.1.93|49.145.1.93]] ([[User talk:49.145.1.93|talk]]) to last version by WayKurat
+2020-03-14T14:34:02+00:00,945519206,945210768,0,71.179.0.235,Dennis Trillo,
+2019-11-08T20:33:00+00:00,925247816,925247399,0,Hotwiki,Dennis Trillo,Undid revision 925247399 by [[Special:Contributions/71.244.180.178|71.244.180.178]] ([[User talk:71.244.180.178|talk]])
+2020-05-14T18:57:18+00:00,956688703,950519625,0,RobertskySemi,Christian Bautista,"clean up, replaced: [[ABS-CBN]] → [[ABS-CBN Corporation|ABS-CBN]] (4)"
+2020-10-28T23:26:52+00:00,985957028,983399346,0,120.29.106.63,Carmina Villarroel,/* Television */
+2019-10-11T00:52:43+00:00,920641443,920640918,0,NJA,Dennis Trillo,deleted image removed
+2021-01-03T10:29:20+00:00,998014898,996674730,0,Sea29,Dennis Trillo,Dashes fixed.
+2020-11-26T22:12:30+00:00,990856434,985276670,0,Monkbot,Dennis Trillo,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 98 templates: del empty params (3×); hyphenate params (91×);
+2020-04-19T05:45:38+00:00,951843934,950518346,0,152.32.108.180,Carmina Villarroel,/* Film */
+2021-10-23T06:04:44+00:00,1051388033,1051366594,0,Quisqualis,Dennis Trillo,/* 2011–present: GMA's Drama King; My Husband's Lover */ rm duplicated image
+2019-12-07T23:12:47+00:00,929743920,929743839,0,JaidenWorld,Dennis Trillo,/* Television */
+2021-05-17T00:40:13+00:00,1023551611,1022037810,0,PrimeBOT,Dennis Trillo,/* top */[[User:PrimeBOT/30|Task 30]]: removal of invalid parameters in [[Template:Infobox musical artist]] (+ib genfixes)
+2020-10-05T05:00:57+00:00,981920802,981670793,0,111.125.108.95,Dennis Trillo,
+2019-11-21T07:27:00+00:00,927252337,926688350,0,Sanglahi86,Dennis Trillo,Removed vague/inapplicable tags.
+2021-06-10T18:22:13+00:00,1027909859,1027904989,0,SaviorclawX,Dennis Trillo,
+2019-07-22T21:47:44+00:00,907435874,904767325,0,InternetArchiveBot,Dennis Trillo,Rescuing 4 sources and tagging 1 as dead. #IABot (v2.0beta15)
+2019-07-04T11:47:22+00:00,904767325,902130135,0,Lorenzo Kiel,Dennis Trillo,/* External links */
+2020-10-25T01:14:57+00:00,985276670,985274670,0,WayKurat,Dennis Trillo,Reverted edits by [[Special:Contribs/Kidhackra|Kidhackra]] ([[User talk:Kidhackra|talk]]) to last version by 120.29.102.214
+2021-04-08T03:18:23+00:00,1016611276,1016330097,0,Citation bot,Dennis Trillo,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Jamesluiz102 | [[Category:People from Quezon City]] | via #UCB_Category 86/240
+2020-06-23T14:02:29+00:00,964083565,963034922,0,Sanglahi86,Dennis Trillo,Standardized some references.
+2020-07-05T18:29:23+00:00,966206461,965126441,0,Sdillonripley,Dennis Trillo,#wpwp
+2021-04-29T10:21:35+00:00,1020486312,1019966776,0,2001:FD8:B199:394B:B8E3:3B23:F761:2EE5,Dennis Trillo,/* Television series */
+2019-08-12T16:24:27+00:00,910514783,910492698,0,KylieTastic,Dennis Trillo,Reverted 1 edit by [[Special:Contributions/58.71.30.68|58.71.30.68]] ([[User talk:58.71.30.68|talk]]) to last revision by InternetArchiveBot ([[WP:TW|TW]])
+2021-08-11T16:54:51+00:00,1038287443,1031043231,0,Hoangminhloc,Dennis Trillo,/* Personal life */
+2021-06-19T18:03:23+00:00,1029392724,1029385490,0,WayKurat,Dennis Trillo,Reverted edits by [[Special:Contribs/JaidenABS-CBN5|JaidenABS-CBN5]] ([[User talk:JaidenABS-CBN5|talk]]) to last version by SaviorclawX
+2020-06-08T10:47:33+00:00,961420040,960889332,0,Pandakekok9,Dennis Trillo,rv unsourced additions by sock
+2020-02-02T12:53:51+00:00,938804477,938800626,0,NJA,Dennis Trillo,Undid revision 938800626 by [[Special:Contributions/Jilians|Jilians]] ([[User talk:Jilians|talk]]) unsourced sock changes
+2020-09-06T14:56:10+00:00,977033840,976983442,0,Davidwr,Dennis Trillo,Reverted to revision 976915472 by [[Special:Contributions/Davidwr|Davidwr]] ([[User talk:Davidwr|talk]]): Previous 2 edits by same editor adds factually incorrect information
+2019-11-02T04:41:06+00:00,924156327,924139406,0,Hotwiki,Dennis Trillo,Undid revision 924139406 by [[Special:Contributions/LoveEach|LoveEach]] ([[User talk:LoveEach|talk]]) stop trolling
+2020-08-24T16:12:15+00:00,974718533,974717354,0,Chlod,Dennis Trillo,Reverting edit(s) by [[Special:Contributions/JaidenPaPa|JaidenPaPa]] ([[User_talk:JaidenPaPa|talk]]) to rev. 974715573 by DESiegel: Link to draft in mainspace [[w:en:WP:RW|(RW 15)]]
+2021-06-05T17:23:44+00:00,1027027790,1027027359,0,WayKurat,Dennis Trillo,rv edits by Kidhackr sock
+2019-10-30T12:04:27+00:00,923727157,923726384,0,Sea29,Dennis Trillo,
+2020-04-29T13:53:42+00:00,953870864,952783744,0,Cortezjayel,Dennis Trillo,
+2021-10-15T20:53:32+00:00,1050110211,1049728073,0,WikiCleanerBot,Dennis Trillo,v2.04b - [[User:WikiCleanerBot#T5|Bot T5 CW#16]] - Fix errors for [[WP:WCW|CW project]] (Unicode control characters - Missing end tag)
+2020-04-17T16:35:36+00:00,951527660,950862776,0,DemonDays64 Bot,Dennis Trillo,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2021-05-31T15:58:37+00:00,1026134874,1026134738,0,72.85.61.163,Dennis Trillo,/* Drama anthologies */
+2021-03-26T02:58:23+00:00,1014267404,1014102412,0,222.127.248.176,Dennis Trillo,/* Television series */
+2019-11-02T13:52:28+00:00,924209293,924156327,0,112.206.196.29,Dennis Trillo,/* Television */
+2021-06-29T13:20:12+00:00,1031043231,1031043078,0,MarcGarver,Dennis Trillo,Undid revision 1031043078 by [[Special:Contributions/2001:4451:1D3:3A00:307B:B847:90B8:39D1|2001:4451:1D3:3A00:307B:B847:90B8:39D1]] ([[User talk:2001:4451:1D3:3A00:307B:B847:90B8:39D1|talk]]) not in the reference
+2020-06-05T13:09:47+00:00,960889332,960694294,0,NJA,Dennis Trillo,Undid revision 960694294 by [[Special:Contributions/96.244.128.94|96.244.128.94]] ([[User talk:96.244.128.94|talk]]) unsourced
+2020-05-25T10:38:34+00:00,958718601,958718552,0,98.117.48.6,Dennis Trillo,/* Drama anthologies */
+2019-08-21T11:04:59+00:00,911821061,910514783,0,CommonsDelinker,Dennis Trillo,"Removing [[:c:File:Dennis_Triilo_at_the_press_conference_of_The_One_That_Got_Away,_January_2018.jpg|Dennis_Triilo_at_the_press_conference_of_The_One_That_Got_Away,_January_2018.jpg]], it has been deleted from Commons by [[:c:User:Yann|Yann]] because: Copy"
+2020-09-19T11:16:57+00:00,979199626,977033840,0,HueMan1,Dennis Trillo,"clean up, replaced: ABS-CBN (TV network) → ABS-CBN (2)"
+2020-08-18T04:51:19+00:00,973604296,973403832,0,ParillasAndrie,Dennis Trillo,
+2020-06-01T11:29:08+00:00,960151719,960151687,0,Jaidens,Dennis Trillo,/* 2011–present: GMA's Drama King; My Husband's Lover */
+2019-09-30T16:48:49+00:00,918861792,918845027,0,NJA,Dennis Trillo,Reverted edits by [[Special:Contribs/JaidenUnblock|JaidenUnblock]] ([[User talk:JaidenUnblock|talk]]) to last version by Discospinster
+2020-06-17T12:08:51+00:00,963034922,963022362,0,WayKurat,Dennis Trillo,Reverted edits by [[Special:Contribs/111.125.110.179|111.125.110.179]] ([[User talk:111.125.110.179|talk]]) to last version by Pandakekok9
+2021-06-23T13:52:50+00:00,1030036222,1029959230,0,WayKurat,Dennis Trillo,rv edits by Kidhackr sock
+2019-10-24T13:05:43+00:00,922807527,922734902,0,NJA,Dennis Trillo,Undid revision 922734902 by [[Special:Contributions/71.244.192.109|71.244.192.109]] ([[User talk:71.244.192.109|talk]]) rv unsourced LTA
+2020-08-16T15:55:17+00:00,973321760,973321404,0,75.168.107.25,Dennis Trillo,
+2021-09-16T06:52:33+00:00,1044627019,1043700524,0,MarkH21,Dennis Trillo,"/* Personal life */link, ce"
+2020-10-13T13:30:27+00:00,983303025,983302953,0,Olrac625,Dennis Trillo,
+2020-04-24T02:01:28+00:00,952783744,951527660,0,WikiCleanerBot,Dennis Trillo,v2.02b - [[User:WikiCleanerBot#T13|Bot T13 CW#549]] - [[WP:WCW]] project (Split link)
+2019-12-18T23:29:17+00:00,931447006,931230331,0,175.176.15.157,Dennis Trillo,
+2020-01-05T12:50:20+00:00,934235397,934234308,0,NJA,Dennis Trillo,Reverted edits by [[Special:Contribs/New Kidhackr|New Kidhackr]] ([[User talk:New Kidhackr|talk]]) to last version by NJA
+2020-06-29T15:22:53+00:00,965126441,964083565,0,John of Reading,Dennis Trillo,"/* top */Typo fixing, replaced: In May 22, 2017 → On May 22, 2017"
+2021-09-04T22:02:40+00:00,1042416253,1042261115,0,MB,Dennis Trillo,"cleanup, [[WP:AWB/T|typo(s) fixed]]: May 12, 1981 → May 12, 1981,"
+2020-07-18T18:01:33+00:00,968328769,966206461,0,WayKurat,Dennis Trillo,rm guestings and -gonist tags
+2020-01-21T10:17:27+00:00,936843777,936843758,0,113.175.4.115,Dingdong Dantes,
+2019-10-11T00:54:34+00:00,920641715,920359793,0,NJA,Dingdong Dantes,Reverted to revision 916478457 by [[Special:Contributions/Tony1|Tony1]] ([[User talk:Tony1|talk]]): Pre-socking stable version
+2020-10-25T01:15:03+00:00,985276690,985243935,0,WayKurat,Dingdong Dantes,Reverted edits by [[Special:Contribs/Kidhackra|Kidhackra]] ([[User talk:Kidhackra|talk]]) to last version by Jaeklmn
+2021-04-08T03:22:39+00:00,1016611740,1009947248,0,Citation bot,Dingdong Dantes,Alter: title. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Jamesluiz102 | [[Category:People from Quezon City]] | via #UCB_Category 150/240
+2020-08-02T23:12:37+00:00,970879887,969901483,0,Bearcat,Dingdong Dantes,/* Film */dabfix
+2020-09-10T03:32:34+00:00,977648257,974718585,0,ParillasAndrie,Dingdong Dantes,/* Television series */fixed
+2020-02-09T04:35:15+00:00,939860833,938804143,0,Hannahgracegallano,Dingdong Dantes,/* Television series */
+2019-08-11T13:32:39+00:00,910351780,908700164,0,120.29.85.233,Dingdong Dantes,
+2021-03-03T02:28:31+00:00,1009947248,1009909613,0,1997kB,Dingdong Dantes,Reverted edits by [[Special:Contribs/Vanarosse|Vanarosse]] ([[User talk:Vanarosse|talk]]) to last version by Opalzukor
+2020-05-25T19:50:42+00:00,958802463,956067802,0,Phuzion,Esperanza (Philippine TV series),Fix invalid parameter in infobox
+2020-02-02T12:50:27+00:00,938804143,938779262,0,NJA,Dingdong Dantes,Undid revision 938779262 by [[Special:Contributions/112.204.75.150|112.204.75.150]] ([[User talk:112.204.75.150|talk]]) still unsourced regardless of changing IP
+2020-12-01T02:50:20+00:00,991642081,986240034,0,120.29.113.234,Esperanza (Philippine TV series),no to sequels
+2020-10-30T17:03:11+00:00,986240034,985276977,0,Sea29,Esperanza (Philippine TV series),Apostrophes.
+2019-08-03T08:09:30+00:00,909124867,907771565,0,Eric abiog,Esperanza (Philippine TV series),/* Cast and characters */
+2020-02-06T23:13:34+00:00,939516055,939515931,0,Gardo Versace,Esperanza (Philippine TV series),
+2019-06-26T03:55:55+00:00,903517943,902177499,0,Eric abiog,Esperanza (Philippine TV series),
+2020-07-05T07:01:07+00:00,966127187,966099977,0,2001:4455:593:7F00:4135:2E45:39DC:9F4,Esperanza (Philippine TV series),/* Cast and characters */
+2019-11-04T01:12:15+00:00,924465191,924439295,0,WayKurat,Esperanza (Philippine TV series),Reverted edits by [[Special:Contribs/121.99.231.31|121.99.231.31]] ([[User talk:121.99.231.31|talk]]) to last version by 112.204.66.246
+2020-02-27T07:14:41+00:00,942852168,939516055,0,112.204.87.68,Esperanza (Philippine TV series),/* Cast and characters */
+2021-08-26T22:58:05+00:00,1040830630,1038544706,0,Olrac625,Esperanza (Philippine TV series),
+2021-08-09T04:56:49+00:00,1037866271,1037866076,0,Pdhadam,Eurovision Song Contest 2022,/* Provisional list of participating countries */
+2021-09-01T13:35:28+00:00,1041784343,1041783796,0,Jochem van Hees,Eurovision Song Contest 2022,Undid revision 1041783796 by [[Special:Contributions/HTMLCAN from Sploder Group|HTMLCAN from Sploder Group]] ([[User talk:HTMLCAN from Sploder Group|talk]]); please provide a reliable source
+2021-03-15T20:06:19+00:00,1012330341,1012318083,0,Jochem van Hees,Eurovision Song Contest 2022,/* References */ restored newline for readability
+2021-09-21T14:27:41+00:00,1045617466,1045617141,0,Jochem van Hees,Eurovision Song Contest 2022,Undid revision 1045617141 by [[Special:Contributions/Felix2008.1|Felix2008.1]] ([[User talk:Felix2008.1|talk]]) unsourced
+2021-07-28T05:28:15+00:00,1035874250,1035862778,0,Heitordp,Eurovision Song Contest 2022,"revert, no source"
+2020-04-29T00:15:31+00:00,953772836,953757607,0,WayKurat,Glaiza de Castro,Reverted edits by [[Special:Contribs/49.144.96.24|49.144.96.24]] ([[User talk:49.144.96.24|talk]]) to last version by WayKurat
+2020-11-10T00:41:19+00:00,987918629,984378363,0,StarTrekker,Eurovision Song Contest 2022,
+2021-03-30T14:49:06+00:00,1015079407,1014070270,0,Magindara,Glaiza de Castro,/* Filmography */
+2020-01-19T14:09:26+00:00,936534732,933802845,0,InternetArchiveBot,Hélène Rollès,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2018-12-20T23:49:12+00:00,874695436,874602313,0,TheGeneralUser,Hélène Rollès,Reverted edits by [[Special:Contribs/92.100.83.174|92.100.83.174]] ([[User talk:92.100.83.174|talk]]) to last version by 73.93.143.69
+2021-04-11T21:33:19+00:00,1017277934,1014259974,0,Simeon,Hélène Rollès,"Adding local [[Wikipedia:Short description|short description]]: ""French actress and singer"", overriding Wikidata description ""French actor-singer"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-01-01T13:36:15+00:00,997627892,997627767,0,Materialscientist,Hélène Rollès,Reverted edits by [[Special:Contributions/2407:7000:A2D0:6500:D813:3F26:511:675B|2407:7000:A2D0:6500:D813:3F26:511:675B]] ([[User talk:2407:7000:A2D0:6500:D813:3F26:511:675B|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2019-09-29T15:00:06+00:00,918612255,918590512,0,Discospinster,Hélène Rollès,revert edits by sockpuppets
+2020-11-22T19:53:17+00:00,990094379,936534732,0,Iridescent,Hélène Rollès,"/* Life and career */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: the USA → the US"
+2021-05-23T20:40:13+00:00,1024732420,1017277934,0,PrimeBOT,Hélène Rollès,/* top */[[User:PrimeBOT/30|Task 30]]: removal of invalid parameters in [[Template:Infobox musical artist]] (+ib genfixes)
+2021-10-10T08:58:48+00:00,1049173185,1049152321,0,Rodw,Hélène Ségara,Disambiguating links to [[Armenian]] (link changed to [[Armenians]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2019-12-31T03:21:26+00:00,933301100,931737186,0,Monkbot,Hélène Ségara,/* External links */[[User:Monkbot/task 15: normalize lang icon templates|Task 15]]:  language icon template(s) replaced (1×);
+2019-11-03T02:47:31+00:00,924315219,924208128,0,NJA,Hélène Ségara,Reverted to revision 921870251 by [[Special:Contributions/NJA|NJA]] ([[User talk:NJA|talk]]): Rv sock
+2021-09-14T18:49:52+00:00,1044340751,1038423481,0,JJMC89 bot III,Hélène Ségara,Moving [[:Category:French female pop singers]] to [[:Category:French women pop singers]] per [[Wikipedia:Categories for discussion/Speedy]]
+2021-05-06T12:03:40+00:00,1021738933,1021578131,0,NJA,Hélène Ségara,"Reverted 1 edit by [[Special:Contributions/41.100.18.105|41.100.18.105]] ([[User talk:41.100.18.105|talk]]): Unsourced, song title suspicious. please source or take to talk"
+2020-10-26T15:44:38+00:00,985543890,972321525,0,Certes,Hélène Ségara,Disambiguating links to [[Anastasia]] (link changed to [[Anastasia (1997 film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-04-28T19:34:10+00:00,953729997,933301100,0,Esperfulmo,Hélène Ségara,/* Life in Paris */ corrected wiki link
+2020-08-11T12:26:44+00:00,972321525,965614171,0,Dawnseeker2000,Hélène Ségara,"[[WP:AWB/T|Typo fixing]], [[Template:Use dmy dates|date format audit]], [[WP:AWB/T|typo(s) fixed]]: italian → Italian"
+2019-06-22T17:48:44+00:00,902977145,902976678,0,71.179.204.36,Hélène Ségara,
+2021-08-12T13:11:37+00:00,1038423481,1021738933,0,Sahaib,Hélène Ségara,
+2019-11-15T06:38:16+00:00,926266420,924315219,0,Ser Amantio di Nicolao,Hélène Ségara,/* References */recategorize
+2021-04-11T21:42:12+00:00,1017279190,985543890,0,Simeon,Hélène Ségara,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""French singer"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2019-08-30T15:35:28+00:00,913201870,912457402,0,96.244.56.57,Hélène Ségara,
+2020-07-02T11:04:22+00:00,965614171,953729997,0,91.216.61.38,Hélène Ségara,
+2019-10-18T12:44:50+00:00,921870251,921811956,0,NJA,Hélène Ségara,Undid revision 921811956 by [[Special:Contributions/71.179.86.15|71.179.86.15]] ([[User talk:71.179.86.15|talk]]) rv unsourced additions by blocked sock
+2021-05-01T11:23:35+00:00,1020846482,1020714498,0,NJA,Hélène Ségara,Reverted 1 edit by [[Special:Contributions/41.101.198.54|41.101.198.54]] ([[User talk:41.101.198.54|talk]]): Please source
+2018-12-14T04:24:13+00:00,873637277,873633900,0,Gotitbro,India in the ABU TV Song Festival,Spelling/grammar correction
+2020-01-22T20:43:21+00:00,937079000,873637277,0,InternetArchiveBot,India in the ABU TV Song Festival,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2020-02-12T21:52:11+00:00,940495562,940495396,0,Larry Hockett,Jake Vargas,Reverted edits by [[Special:Contribs/120.29.89.97|120.29.89.97]] ([[User talk:120.29.89.97|talk]]) to last version by Larry Hockett
+2021-06-21T08:13:26+00:00,1029656873,1028820922,0,WikiCleanerBot,Jake Vargas,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation - Link equal to linktext)
+2019-03-24T05:00:05+00:00,889204835,888913698,0,PohranicniStraze,Jake Vargas,Reverted edits by [[Special:Contribs/Norman M Quizon|Norman M Quizon]] ([[User talk:Norman M Quizon|talk]]) to last version by Ser Amantio di Nicolao
+2020-04-22T07:06:34+00:00,952439365,951893050,0,Sea29,Jake Vargas,
+2019-08-23T17:21:33+00:00,912162815,912160351,0,Discospinster,Jake Vargas,not a thing
+2019-11-25T10:14:19+00:00,927878044,925340594,0,Marknamz8931,Jake Vargas,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Filipino actor"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-11-09T00:09:17+00:00,925272714,925272681,0,Jaidengodus,Jake Vargas,
+2021-04-20T20:48:35+00:00,1018969362,1018969259,0,MB,Jake Vargas,"Changing [[Wikipedia:Short description|short description]] from ""Filipino actor"" to ""Filipino actor (born 1992)"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-07-11T12:31:56+00:00,967149824,967149775,0,111.125.108.217,Jake Vargas,
+2020-11-15T06:55:28+00:00,988787787,981559719,0,49.149.23.96,Jake Vargas,/* Studio album */
+2020-06-21T11:11:48+00:00,963715445,963558552,0,111.125.120.177,Jake Vargas,
+2020-10-03T02:18:39+00:00,981559719,981559658,0,2001:FD8:3296:5760:F448:3262:CEC5:813D,Jake Vargas,/* Television */
+2020-06-16T04:07:40+00:00,962806948,952439365,0,WikiCleanerBot,Jake Vargas,v2.02b - [[User:WikiCleanerBot#T7|Special:LintError/missing-end-tag]] - [[WP:WCW]] project (Missing end bold/italic)
+2019-10-11T00:50:25+00:00,920641124,920600669,0,NJA,Jake Vargas,Reverted to revision 918612571 by [[Special:Contributions/Discospinster|Discospinster]] ([[User talk:Discospinster|talk]]): Sock edits last version stable
+2021-10-13T14:15:21+00:00,1049729512,1029656873,0,Rathfelder,Jake Vargas,−[[Category:21st-century Filipino singers]]; −[[Category:21st-century male singers]]; ±[[Category:Filipino male singers]]→[[Category:21st-century Filipino male singers]] using [[WP:HC|HotCat]]
+2021-06-16T06:29:53+00:00,1028820922,1028667927,0,Itsmaaark,Jake Vargas,/* Film */ 2010 film role
+2020-12-10T16:59:56+00:00,993441241,986020766,0,Citation bot,Jean Garcia,Alter: title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:ABS-CBN personalities]] | via #UCB_Category 116/386
+2021-04-18T19:59:25+00:00,1018573579,1015072441,0,Tassedethe,Jean Garcia,v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Once Again (TV series)]]
+2021-05-19T05:04:04+00:00,1023932358,1023730166,0,2001:4451:469A:C800:E842:6645:A567:4A58,Jean Garcia,/* Television */
+2019-11-23T21:09:33+00:00,927643577,923111006,0,Marknamz8931,Jean Garcia,"Adding local [[Wikipedia:Short description|short description]]: ""Filipino television and film actress"", overriding Wikidata description ""actress"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-12-25T11:43:58+00:00,932373491,932373445,0,217.165.68.133,Jean Garcia,/* Awards and nominations */
+2019-07-06T20:24:23+00:00,905095490,904295056,0,Sea29,Jean Garcia,/* Television */
+2020-03-03T11:53:11+00:00,943694952,943684481,0,WayKurat,Jean Garcia,Reverted edits by [[Special:Contribs/208.71.226.161|208.71.226.161]] ([[User talk:208.71.226.161|talk]]) to last version by ToBeFree
+2021-03-30T14:08:37+00:00,1015072441,1014368024,0,Subwaymuncher,Jean Garcia,minor ce
+2021-02-06T18:32:29+00:00,1005243937,1005222728,0,WayKurat,Jean Garcia,Reverted edits by [[Special:Contribs/2001:D08:182D:CFC4:9529:D65C:426A:F537|2001:D08:182D:CFC4:9529:D65C:426A:F537]] ([[User talk:2001:D08:182D:CFC4:9529:D65C:426A:F537|talk]]) to last version by Monkbot
+2019-08-17T05:54:15+00:00,911194655,909471636,0,SaviorclawX,John Arcilla,
+2021-04-16T13:34:29+00:00,1018139134,1017170992,0,LionFosset,John Arcilla,Added links (blue and red).
+2020-01-12T17:12:58+00:00,935448730,934235408,0,GreenC bot,Judy Ann Santos filmography,Rescued 1 archive link; reformat 2 links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-06-10T17:37:47+00:00,1027903607,1025741775,0,SaviorclawX,Jean Garcia,
+2019-11-19T16:20:01+00:00,926977123,925656616,0,InternetArchiveBot,Judy Ann Santos filmography,Rescuing 8 sources and tagging 1 as dead.) #IABot (v2.0) ([[User:GreenC|GreenC]] - 4666
+2021-05-28T18:22:47+00:00,1025645878,1021702817,0,SaviorclawX,Judy Ann Santos filmography,/* Television */
+2020-09-19T13:00:20+00:00,979210068,978539868,0,HueMan1,Judy Ann Santos filmography,"clean up, replaced: ABS-CBN (TV network) → ABS-CBN (5)"
+2019-08-02T06:18:00+00:00,908970711,906477152,0,2001:56A:F5C5:100:D864:4AA5:4EC2:41AD,Judy Ann Santos filmography,
+2021-01-09T23:58:59+00:00,999398689,998519191,0,119.92.228.200,Judy Ann Santos filmography,/* 2010 to present */
+2020-11-27T11:32:31+00:00,990942390,990942288,0,49.145.3.174,Judy Ann Santos filmography,/* Television */
+2020-06-10T03:21:32+00:00,961732826,961553765,0,120.28.239.212,Judy Ann Santos filmography,it's a new show for this channel only
+2019-08-26T16:55:38+00:00,912591427,911659434,0,Tassedethe,Judy Ann Santos filmography,v2.01 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Don't Give Up on Us]] / [[WP:WCW]] project (Missing end bold/italic)
+2020-02-26T06:36:12+00:00,942691439,942691248,0,Motherlily,Judy Ann Santos filmography,/* 2003 to 2009 */
+2020-10-14T06:59:30+00:00,983438358,981558927,0,Hotwiki,"Kambal, Karibal",/* Accolades */ fixed
+2021-10-10T05:40:19+00:00,1049154339,1049154264,0,Hotwiki,"Kambal, Karibal",/* Ratings */ unreliable unverified Twitter account
+2021-09-27T16:38:55+00:00,1046830972,1025645878,0,Itsmaaark,Judy Ann Santos filmography,/* 1996 to 1999 */ mara clara the movie hyperlink
+2021-01-29T01:36:16+00:00,1003451968,995855769,0,Monkbot,"Kambal, Karibal",[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 13 templates: hyphenate params (10×);
+2019-06-30T06:33:41+00:00,904138979,902321734,0,Hotwiki,"Kambal, Karibal",Per [[Wikipedia:Manual of Style/Lead section]]
+2020-10-29T16:51:19+00:00,986072644,986052320,0,Hotwiki,"Kambal, Karibal",Original broadcast only!
+2020-10-03T02:11:18+00:00,981558927,981557075,0,Hotwiki,"Kambal, Karibal",Restored
+2019-10-22T00:22:45+00:00,922416136,920365136,0,121.99.231.31,Kampanerang Kuba,
+2020-07-07T11:58:07+00:00,966490928,966101320,0,Timrollpickering,Kampanerang Kuba,Moving from [[Category:Television programs based on comics]] to [[Category:Television shows based on comics]] per [[WP:CFDS]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2020-01-27T14:55:52+00:00,937839165,931737806,0,Gardo Versace,Kampanerang Kuba,
+2021-05-29T05:07:48+00:00,1025722748,1018021473,0,152.32.107.239,Kampanerang Kuba,/* Main cast */
+2021-07-28T11:03:37+00:00,1035911732,1027337198,0,124.106.226.215,Kampanerang Kuba,
+2020-08-31T14:36:58+00:00,975983844,974902163,0,WayKurat,Kampanerang Kuba,Undid revision 973934393 by [[Special:Contributions/122.2.108.104|122.2.108.104]] ([[User talk:122.2.108.104|talk]])
+2019-04-19T09:06:34+00:00,893143956,893143402,0,2001:8004:1BB0:B67:3027:5547:B2D8:9F79,Kazakhstan in the ABU TV Song Festival,
+2020-08-26T12:19:08+00:00,975046100,965903513,0,Esc0fans,Kazakhstan in the ABU TV Song Festival,
+2019-11-10T21:35:07+00:00,925554707,893143956,0,Fadesga,Kazakhstan in the ABU TV Song Festival,/* References */
+2020-11-17T12:05:49+00:00,989162835,983749836,0,49.149.15.208,Kristine Hermosa,
+2021-06-17T19:56:45+00:00,1029083577,1027122088,0,2407:7000:8CE2:6800:1C3C:122:C798:2634,Kristine Hermosa,
+2021-10-19T11:14:59+00:00,1050697433,1050309497,0,Spinacheaenan,Kyline Alcantara,I updated her height based on 2021
+2021-06-29T05:06:15+00:00,1030992134,1030775600,0,222.127.248.176,Kyline Alcantara,/* Television */
+2021-04-21T07:55:14+00:00,1019049859,1018032623,0,2601:18C:500:5DA0:F92B:9803:844A:6B6D,Lea Salonga,
+2020-01-18T03:05:22+00:00,936327563,936327500,0,Ssilvers,Lea Salonga,/* Voice and musical ability */ clarify
+2020-12-27T22:52:56+00:00,996657450,996453541,0,Sophiam122,Lea Salonga,/* Voice and musical ability */
+2019-11-26T02:23:27+00:00,927990021,927154593,0,BattyBot,Lea Salonga,"/* 1989–1992: ''Miss Saigon'' and ''Aladdin'' */Fixed magazine link(s) and [[WP:AWB/GF|general fixes]], replaced: | magazine = [[Time]] → | magazine = [[Time (magazine)|Time]]"
+2019-08-31T00:33:26+00:00,913269792,913269006,0,Archer1234,Lea Salonga,ref maintenance
+2021-08-04T21:22:56+00:00,1037159635,1037058395,0,Ssilvers,Lea Salonga,/* Film and television */ +ref
+2020-09-19T20:34:01+00:00,979273233,979214849,0,Ssilvers,Lea Salonga,/* Filmography and television appearances */ put 2017 and 2020 together
+2020-01-01T12:20:48+00:00,933509636,0,0,Hotwiki,Legal Wives,Redirect for now
+2021-03-28T21:54:56+00:00,1014751997,1014717484,0,Ssilvers,Lea Salonga,fixed link
+2019-08-03T20:17:50+00:00,909198552,909197971,0,IceWelder,List of countries in the Eurovision Song Contest,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/81.104.218.206|81.104.218.206]] ([[User talk:81.104.218.206|talk]]): Netflix is not a broadcaster, it is a video on demand service ([[WP:TW|TW]])"
+2021-05-03T14:40:10+00:00,1021214980,1019115324,0,ShelfSkewed,Love Sick,Disambig page style repair
+2020-06-11T01:59:38+00:00,961909115,918530047,0,WikiCleanerBot,Love Sick,v2.02b - [[User:WikiCleanerBot#T7|Special:LintError/missing-end-tag]] - [[WP:WCW]] project (Missing end bold/italic - Link equal to linktext)
+2019-09-29T03:37:35+00:00,918530047,918485786,0,Fyrael,Love Sick,there needs to be an actual article first
+2019-07-13T20:28:26+00:00,906125919,906121334,0,IceWelder,List of countries in the Eurovision Song Contest,"Oh, I really hope it wasn't the last one :)"
+2020-02-07T17:12:43+00:00,939624359,939624264,0,Hotwiki,Magpakailanman,Added description
+2019-12-02T03:20:12+00:00,928861969,928720706,0,119.93.111.94,Magpakailanman,
+2021-02-25T15:05:48+00:00,1008878673,1008877902,0,ROBLOXGamingDavid,Mara Clara,
+2020-04-10T09:36:17+00:00,950121585,947127617,0,Ayeespino,Mara Clara,/* Cast and characters */Fixed Vandalism
+2020-04-26T10:40:24+00:00,953235617,953222179,0,WayKurat,Mula sa Puso,Reverted edits by [[Special:Contribs/122.2.96.25|122.2.96.25]] ([[User talk:122.2.96.25|talk]]) to last version by Sea29
+2020-10-31T13:31:30+00:00,986377393,986240189,0,Sea29,Mula sa Puso,No extra spacing.
+2019-12-26T08:02:35+00:00,932486782,931942631,0,49.149.79.229,Mara Clara,/* Film adaptation */
+2019-11-05T10:55:28+00:00,924695058,923016614,0,2604:2000:1741:857E:556C:696D:3619:8B18,Mula sa Puso,/* Special participation */
+2019-06-26T03:54:38+00:00,903517825,902175315,0,Eric abiog,Mara Clara,
+2021-09-13T01:42:33+00:00,1043988816,1043824758,0,Coyote wadi,Mula sa Puso,Add NTSC
+2020-10-14T07:35:49+00:00,983441867,980234536,0,WikiCleanerBot,Mula sa Puso (2011 TV series),v2.03b - [[User:WikiCleanerBot#T22|Bot 22 bogus-image-options]] - [[WP:WCW]] project (Bogus image options)
+2021-03-25T09:30:53+00:00,1014124505,1004302912,0,Yitzilitt,Pangako Sa 'Yo,removed unnecessary link to [[sex]]
+2019-12-20T04:33:39+00:00,931637960,931603683,0,Hotwiki,Mulawin,Restored
+2021-06-21T00:45:34+00:00,1029605756,1029453170,0,WayKurat,Patrick Fiori,rv to cleaner version
+2019-05-04T04:49:28+00:00,895425431,895411886,0,Hotwiki,Mulawin,/* Cast and characters */ clean up
+2020-02-15T19:46:41+00:00,940966240,940552509,0,Werldwayd,Patrick Fiori,/* Theatre */
+2021-10-16T12:19:20+00:00,1050205767,1044523124,0,Ви́ктор Хе́лен,Patrick Fiori,
+2020-05-28T01:44:18+00:00,959289605,959289400,0,Ayeespino,Pangako Sa 'Yo,Fix link
+2019-10-15T22:34:32+00:00,921470151,918061219,0,121.99.231.31,Mula sa Puso (2011 TV series),
+2021-05-29T17:33:05+00:00,1025805223,1025704565,0,Dicklyon,Patrick Fiori,genocide case cleanup (via [[WP:JWB]])
+2021-08-15T21:36:56+00:00,1038967702,1036655682,0,Rathfelder,Patrick Fiori,removed [[Category:People from Marseille]]; added [[Category:Musicians from Marseille‎]] using [[WP:HC|HotCat]]
+2019-07-15T23:39:13+00:00,906457234,906457159,0,96.244.48.184,Patrick Fiori,/* Singles */
+2019-12-27T08:29:57+00:00,932635158,932553697,0,Niceguyedc,Patrick Fiori,v2.02 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Garou]]
+2021-01-02T23:21:34+00:00,997932846,997551402,0,Fort esc,Patrick Fiori,/* External links */
+2020-07-15T13:26:22+00:00,967813120,957941139,0,211.13.40.113,Patrick Fiori,/* Debut albums and Notre-Dame de Paris (1994-2000) */
+2021-09-15T17:54:24+00:00,1044523124,1044523022,0,Werldwayd,Patrick Fiori,/* Singles */
+2021-03-16T23:31:21+00:00,1012544694,1001641563,0,Rickyharder,Patrick Fiori,
+2019-06-16T14:17:00+00:00,902093300,902035982,0,96.234.145.202,Patrick Fiori,
+2021-01-20T16:37:10+00:00,1001641563,997932846,0,John of Reading,Patrick Fiori,"/* Further successes (2000 - present) */Typo fixing, replaced: Decembre → December"
+2020-05-21T06:40:48+00:00,957941139,957941096,0,Lekkha Moun,Patrick Fiori,/* Further successes (2000 - present) */
+2019-09-08T13:18:31+00:00,914626471,914623574,0,JaidenYosh,Patrick Fiori,/* Television */
+2020-04-12T20:37:01+00:00,950579282,950578955,0,Popularss,Patrick Fiori,
+2020-01-14T15:25:23+00:00,935759655,935756047,0,Lulusword,Patrick Fiori,Reverted 1 pending edit by [[Special:Contributions/71.244.193.218|71.244.193.218]] to revision 932635158 by Niceguyedc: Vandal
+2019-11-03T02:46:37+00:00,924315105,924315045,0,NJA,Patrick Fiori,Reverted to revision 922807548 by [[Special:Contributions/NJA|NJA]] ([[User talk:NJA|talk]]): Rv further edits
+2020-10-25T11:07:08+00:00,985338055,984822001,0,Foxnpichu,Patrick Fiori,/* Filmography */ Removing series which is 99% likely a hoax.
+2020-10-22T09:12:05+00:00,984822001,982640950,0,Lk95,Patrick Fiori,/* Studio albums */ new peaks
+2019-11-10T13:20:24+00:00,925493763,925493760,0,NJA,Patrick Fiori,Adding {{pp-sock}}
+2020-09-05T18:44:10+00:00,976899173,976881716,0,Davidwr,Patrick Fiori,"Undid revision 976881716 by [[Special:Contributions/Jaidenmala|Jaidenmala]] ([[User talk:Jaidenmala|talk]]) possibly true, but dubious without evidence"
+2021-08-30T08:25:45+00:00,1041391751,1038967702,0,WikiCleanerBot,Patrick Fiori,v2.04b - [[User:WikiCleanerBot#T5|Bot T5 CW#16]] - Fix errors for [[WP:WCW|CW project]] (Unicode control characters)
+2020-12-10T12:34:44+00:00,993401810,993026648,0,NJA,Patrick Fiori,Undid revision 993026648 by [[Special:Contributions/141.136.80.23|141.136.80.23]] ([[User talk:141.136.80.23|talk]]) please discuss addition of naming
+2020-01-27T17:52:29+00:00,937861871,935759655,0,MarnetteD,Patrick Fiori,rmv as the protection has expired
+2020-05-01T13:03:34+00:00,954252862,954193111,0,InternetArchiveBot,Patrick Fiori,Rescuing 1 sources and tagging 1 as dead.) #IABot (v2.0
+2019-10-18T12:45:46+00:00,921870345,921865499,0,NJA,Patrick Fiori,Reverted to revision 921301089 by [[Special:Contributions/NJA|NJA]] ([[User talk:NJA|talk]]): Rv unsourced additions by blocked sock
+2019-12-14T01:41:54+00:00,930664098,930658120,0,NJA,Patrick Fiori,Reverted edits by [[Special:Contribs/JaidenPinoy|JaidenPinoy]] ([[User talk:JaidenPinoy|talk]]) to last version by Dawnseeker2000
+2020-02-11T07:42:21+00:00,940226516,940226385,0,Werldwayd,Patrick Fiori,/* Further successes (2000 - present) */
+2020-10-09T12:10:56+00:00,982640950,976899173,0,Lk95,Patrick Fiori,/* Studio albums */ add album and new peak
+2019-12-07T16:13:36+00:00,929695019,929694803,0,JaidenWorld,Patrick Fiori,/* Television */
+2020-08-24T16:15:21+00:00,974718957,974718130,0,Chlod,Patrick Fiori,Reverting edit(s) by [[Special:Contributions/JaidenPaPa|JaidenPaPa]] ([[User_talk:JaidenPaPa|talk]]) to rev. 974715657 by DESiegel: Link to draft in mainspace [[w:en:WP:RW|(RW 15)]]
+2019-09-21T02:04:47+00:00,916866181,916865233,0,71.121.157.200,Patrick Fiori,/* Television */
+2019-09-29T13:56:01+00:00,918601759,918595882,0,Wakowako,Patrick Fiori,Reverted to revision 912457495 by [[Special:Contributions/Discospinster|Discospinster]] ([[User talk:Discospinster|talk]]): Heavily vandalized ([[WP:TW|TW]])
+2020-12-08T11:50:26+00:00,993026648,985338055,0,141.136.80.23,Patrick Fiori,
+2019-12-24T12:15:48+00:00,932243889,932243887,0,Deepfriedokra,Patrick Fiori,Adding {{pp-pc}} ([[WP:TW|TW]])
+2021-08-01T23:04:39+00:00,1036655682,1029605756,0,John Wilfred S. Tating,Patrick Fiori,
+2019-10-24T13:05:56+00:00,922807548,922722868,0,NJA,Patrick Fiori,Undid revision 922722868 by [[Special:Contributions/71.244.192.109|71.244.192.109]] ([[User talk:71.244.192.109|talk]]) rv unsourced LTA
+2020-02-13T05:31:57+00:00,940552509,940226516,0,PearBOT II,Patrick Fiori,Adding automatically generated short description. For more information see [[Wikipedia:Bots/Requests for approval/PearBOT 5]] Feedback appreciated at [[User talk:Trialpears]]
+2019-11-09T15:20:32+00:00,925351796,925349004,0,Hajiru,Patrick Fiori,Didn't realize I forgot to edit something. Whoops.
+2021-02-19T12:05:54+00:00,1007688874,1007688740,0,Aquarianman0216,Sa Dulo ng Walang Hanggan,Added links
+2019-09-02T19:44:40+00:00,913714628,909125346,0,24.47.241.40,Sa Dulo ng Walang Hanggan,Corrected grammar
+2020-04-20T14:29:44+00:00,952088730,952088635,0,Gardo Versace,Sa Dulo ng Walang Hanggan,/* In other media and popular culture */Fixed redlink.
+2021-04-20T19:17:02+00:00,1018953424,1018844681,0,Robertogamerxxx,Sunshine Dizon,
+2021-09-26T09:42:09+00:00,1046563547,1046562939,0,119.94.185.85,Sunshine Dizon,/* Biography */
+2020-01-28T01:06:10+00:00,937919892,929342368,0,Tony1,Sunshine Dizon,"[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+2020-09-04T05:59:05+00:00,976652560,966300633,0,LionFosset,Sunshine Dizon,Added a film.
+2020-12-17T19:15:20+00:00,994828105,957026963,0,Monkbot,Tajči,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 6 templates: del empty params (8×); hyphenate params (3×); cvt lang vals (1×);
+2019-09-28T21:07:04+00:00,918474887,912162916,0,89.172.166.225,Tajči,
+2019-08-23T17:22:21+00:00,912162916,911825909,0,Discospinster,Tajči,uncited
+2021-03-12T04:42:21+00:00,1011669336,1011669168,0,112.201.35.85,Sa Dulo ng Walang Hanggan,/* Recurring and guest cast *//*Sa Dulo ng Walang Hanggan*/
+2021-09-10T01:17:29+00:00,1043418176,1027435616,0,JJMC89 bot III,Tajči,Moving [[:Category:Croatian female singers]] to [[:Category:Croatian women singers]] per [[Wikipedia:Categories for discussion/Speedy]]
+2019-10-17T10:39:50+00:00,921702873,921702491,0,49.146.4.180,Sunshine Dizon,
+2019-08-21T01:22:52+00:00,911770355,708507518,0,Community Tech bot,Talk:Dennis Trillo,Files used on this page are up for speedy deletion
+2020-09-05T20:51:16+00:00,976915585,976909367,0,Davidwr,Talk:Dennis Trillo,/* Need reliable sources for agent history */ update
+2020-12-12T09:31:08+00:00,993756974,993755810,0,Rickrick93,Temptation of an Angel,/* External links */
+2021-07-22T09:20:34+00:00,1034873862,1034121827,0,IvanScrooge98,Talk:Eurovision Song Contest 2022,/* Map marker colors */
+2021-06-21T06:29:35+00:00,1029645332,1029605195,0,Hotwiki,That's Entertainment (Philippine TV program),Unreferenced
+2020-06-08T04:58:36+00:00,961384723,960572156,0,120.29.117.162,The General's Daughter (TV series),/* Supporting */
+2020-05-24T02:12:01+00:00,958485410,957723802,0,Muatsem90,Temptation of an Angel,
+2020-11-11T17:07:06+00:00,988186710,988167323,0,Hotwiki,That's Entertainment (Philippine TV program),/* Cast */ clean up
+2020-11-22T07:14:46+00:00,990007131,986896453,0,Jusgtr,The General's Daughter (TV series),/* Reruns */
+2019-10-11T01:00:30+00:00,920642614,920285036,0,NJA,Tom Rodriguez,Reverted to revision 917965441 by [[Special:Contributions/Monkbot|Monkbot]] ([[User talk:Monkbot|talk]]): Revert sock edits
+2019-06-30T11:37:46+00:00,904165473,896587299,0,Monkbot,Tom Rodriguez,/* References */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/2×); skipped: unrecognized periodical (1×);
+2019-05-11T14:55:55+00:00,896587299,894189398,0,49.144.10.77,Tom Rodriguez,
+2020-05-25T06:44:03+00:00,958692351,957398285,0,110.93.94.70,Tom Rodriguez,
+2020-06-25T23:32:03+00:00,964515114,964515063,0,111.125.110.97,Tom Rodriguez,
+2021-10-23T22:17:07+00:00,1051501926,1051501709,0,Carl Francis,Tom Rodriguez,ref for gold record
+2019-07-19T07:46:14+00:00,906926145,803960310,0,2001:8004:1BA0:C3D8:7867:C6AC:D677:F185,Turkey in the ABU TV Song Festival,/* History */
+2021-09-16T16:16:21+00:00,1044700055,906926145,0,KingDriverFC,Turkey in the ABU TV Song Festival,
+2019-12-27T02:51:22+00:00,932602413,932584013,0,Discospinster,User talk:Discospinster,/* List of Billboard Hot 100 number-one singles of 2020 */ reply
+2020-10-21T17:13:06+00:00,984711753,984650279,0,Tamzin,User talk:Discospinster,/* Untrusted */ rv sock
+2019-09-29T14:13:31+00:00,918604118,918602988,0,NJA,User talk:JaidenFolf,You have been indefinitely blocked from editing because it appears that you are not here to [[WP:NOTHERE|build an encyclopedia]].
+2021-06-28T17:06:43+00:00,1030901166,1030887355,0,Jaiden's ABS-CBN 8,User talk:Jaiden's ABS-CBN 8,/* Blocked as a sockpuppet */
+2021-09-11T13:54:26+00:00,1043700239,1043626305,0,Callanecc,User talk:Jaiden ABS-CBN 11,Adding sockpuppetry block notice per [[:w:en:Wikipedia:Sockpuppet investigations/Kidhackr]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2020-04-05T13:20:17+00:00,949258762,943989447,0,JMHamo,User talk:JaidenLala,"Notification: speedy deletion nomination of [[:Draft:Ang Una, Sa Lovesick]]. ([[WP:TW|TW]])"
+2020-02-14T15:06:22+00:00,940774351,935836279,0,Bkissin,User talk:Kidhackr,Notification: [[WP:G13|G13]] speedy deletion nomination of [[Draft:Inah de belen]] ([[WP:AFCH|AFCH]] 0.9.1)
+2019-08-25T18:43:19+00:00,912457442,912337511,0,Discospinster,User talk:Kidhackr,You have been blocked from editing for persistent addition of [[WP:INTREF|unsourced content]]. ([[WP:TW|TW]])
+2019-09-15T00:30:04+00:00,915729345,912457442,0,JalenFolf,User talk:Kidhackr,Notifying about suspicion of sockpuppeteering. ([[WP:TW|TW]])
+2021-08-30T02:57:32+00:00,1041358126,1041231407,0,Lowercase sigmabot III,User talk:WayKurat,Archiving 1 discussion(s) to [[User talk:WayKurat/Archive 11]]) (bot
+2019-10-25T04:08:05+00:00,922917827,922913491,0,Spicy,User talk:WayKurat,/* Philippine TV station edits */ r
+2021-04-10T02:49:55+00:00,1016976835,1016607430,0,Lowercase sigmabot III,User talk:WayKurat,Archiving 1 discussion(s) to [[User talk:WayKurat/Archive 11]]) (bot
+2019-11-02T22:49:39+00:00,924285102,924285085,0,LuK3,User talk:WayKurat,Reverted edits by [[Special:Contribs/RadioStation on the Loose!|RadioStation on the Loose!]] ([[User talk:RadioStation on the Loose!|talk]]) to last version by MarnetteD
+2020-07-07T06:03:14+00:00,966451389,966450810,0,Materialscientist,User talk:WayKurat,"Changed protection level for ""[[User talk:WayKurat]]"": Persistent [[WP:Sock puppetry|sock puppetry]] ([Edit=Require autoconfirmed or confirmed access] (expires 06:03, 8 July 2020 (UTC)) [Move=Require administrator access] (indefinite))"
+2021-03-14T05:11:44+00:00,1012026448,1011339364,0,Boombastic061,User talk:WayKurat,"/* March 13, 2021 */ new section"
+2021-09-11T13:54:24+00:00,1043700236,1043691858,0,Callanecc,User:Jaiden ABS-CBN 11,Adding sockpuppetry tag per [[:w:en:Wikipedia:Sockpuppet investigations/Kidhackr]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2019-10-15T01:37:02+00:00,921308634,918613420,0,SQL,User:JaidenFolf,Adding sockpuppetry tag per [[Wikipedia:Sockpuppet investigations/Kidhackr]]
+2019-10-15T01:37:02+00:00,921308633,921301509,0,SQL,User:JaidenLala,Adding sockpuppetry tag per [[Wikipedia:Sockpuppet investigations/Kidhackr]]
+2019-10-15T01:37:02+00:00,921308632,915731007,0,SQL,User:Kidhackr,Adding sockpuppetry tag per [[Wikipedia:Sockpuppet investigations/Kidhackr]]
+2021-06-04T14:41:34+00:00,1026836998,1026836084,0,Steffan t,Vincent Niclo,"same as previous link edit (removal of www, addition of s to https) in section ""External links"""
+2021-02-01T09:00:05+00:00,1004153872,1002798385,0,Werldwayd,Vincent Niclo,/* Albums */
+2021-02-18T17:51:17+00:00,1007539748,1004153872,0,John of Reading,Vincent Niclo,"Typo fixing, replaced: Novembre → November, to met → to meet"
+2020-07-27T11:11:27+00:00,969778860,931725942,0,Citizenmedia,Vincent Niclo,add references and informations
+2020-12-06T02:40:09+00:00,992593080,992460464,0,TuxStrikesBack,ABU TV Song Festival,/* Hosting */
+2019-10-26T11:53:53+00:00,923106208,918109380,0,EuroFan98,ABU TV Song Festival,/* Participation */
+2019-02-16T20:31:17+00:00,883664964,883271990,0,2600:1:91F5:4647:B472:78A4:BB25:486B,Angelika Dela Cruz,
+2021-04-30T21:57:19+00:00,1020763088,1017715019,0,2001:F40:906:F6B1:2400:92B9:93BC:A028,Angelika Dela Cruz,Empty
+2018-12-13T23:41:24+00:00,873603391,871924939,0,180.191.71.134,Angelika Dela Cruz,
+2019-03-21T07:21:08+00:00,888762243,888472376,0,112.209.247.176,Angelika Dela Cruz,
+2019-04-19T06:00:24+00:00,893129464,891664935,0,175.158.217.107,Angelika Dela Cruz,/* Films */
+2019-11-25T23:26:25+00:00,927969090,927602332,0,Sun Creator,Angelika Dela Cruz,"[[WP:AWB/GF|General fixes]], replaced: a Antagonost → an Antagonost, [[WP:AWB/T|typo(s) fixed]]: award winning → award-winning, ’s → 's (3)"
+2021-06-14T15:44:12+00:00,1028540831,1028449728,0,2001:4450:46B4:6000:60A8:A7DE:839E:1947,Angelika Dela Cruz,/* top */
+2019-01-23T21:20:47+00:00,879860834,879301117,0,144.230.82.243,Angelika Dela Cruz,/* Early success */
+2019-04-07T10:16:19+00:00,891348597,891348545,0,61.6.232.94,Angelika Dela Cruz,/* Villain with Present roles */
+2020-07-04T11:28:15+00:00,965947958,964333471,0,2001:F40:906:D4F1:79A2:A609:9736:4A91,Angelika Dela Cruz,
+2021-10-28T06:13:49+00:00,1052261437,1052261075,0,Ricky Luague,Bituing Walang Ningning,
+2020-11-29T18:22:51+00:00,991370790,991366913,0,Davey2010,Angelika Dela Cruz,Reverted to revision 969726940 by [[Special:Contributions/CuteCat123|CuteCat123]] ([[User talk:CuteCat123|talk]]): Unsourced
+2019-09-01T07:11:23+00:00,913466934,909125960,0,49.146.15.16,Bituing Walang Ningning,
+2021-09-15T21:22:11+00:00,1044555358,1042910745,0,RandomCanadian,Bituing Walang Ningning,Reverted edits by [[Special:Contribs/Russel641|Russel641]] ([[User talk:Russel641|talk]]) to last version by Rsjaffe
+2020-09-16T14:05:59+00:00,978708853,977681103,0,112.203.235.233,Bituing Walang Ningning,Fixed incorrect information
+2019-10-28T21:49:39+00:00,923489836,923488046,0,Kore's Cosmaupia,Bituing Walang Ningning,/* Cast and characters */The Cast and characters section of the same page has been fixed and updated since it's no longer upcoming.
+2019-10-10T22:23:51+00:00,920621570,920621470,0,150.107.175.92,Bituing Walang Ningning,/* Trivia about the TV series */
+2021-09-07T11:18:50+00:00,1042910745,1034791617,0,Russel641,Bituing Walang Ningning,Update
+2019-01-23T20:31:21+00:00,879853784,879625222,0,Chompy Ace,Cain at Abel,
+2018-12-27T09:13:23+00:00,875544044,875542493,0,TrillanessssSen.,Carmina Villarroel,
+2019-01-13T18:13:32+00:00,878206378,878206362,0,2605:E000:30D0:3E00:7C9B:B7D9:E377:BBF8,Carmina Villarroel,
+2020-01-23T11:22:18+00:00,937173969,934740867,0,120.29.75.220,Carmina Villarroel,/* Television */
+2021-01-06T13:28:35+00:00,998667424,998454365,0,JamieezoneCurry,Carmina Villarroel,
+2020-01-08T05:20:25+00:00,934740867,929385794,0,Isko1901,Carmina Villarroel,
+2020-09-30T22:27:00+00:00,981205506,979198778,0,2605:E000:30D0:3E00:E959:C919:DC9D:EC49,Carmina Villarroel,/* Career */
+2019-04-28T04:49:51+00:00,894484255,887471209,0,120.29.109.211,Carmina Villarroel,/* Filmography */
+2021-05-17T09:38:38+00:00,1023607339,1021191280,0,MyDay2015,Carmina Villarroel,/* Television */
+2019-03-12T21:49:42+00:00,887471209,884602125,0,FromFrank,Carmina Villarroel,/* Film */
+2021-04-06T14:15:15+00:00,1016311910,1014998960,0,119.74.143.201,Carmina Villarroel,
+2019-07-20T16:13:45+00:00,907116050,903971646,0,Bhozhjb,Carmina Villarroel,/* Career */
+2021-06-29T06:01:56+00:00,1030997229,1030996903,0,IJBall,Carmina Villarroel,Reverted 1 edit by [[Special:Contributions/Claederis17|Claederis17]] ([[User talk:Claederis17|talk]]) to last revision by 2601:8C:4401:2EE0:F16D:EA8:20A2:B491
+2020-11-29T06:20:02+00:00,991278449,990958106,0,Haveyouseenthisboy,Carmina Villarroel,/* Film */
+2020-09-17T15:43:34+00:00,978896784,978558522,0,2404:E801:2007:365:857B:7E91:D648:B8CD,Carmina Villarroel,/* Personal life */
+2019-06-15T16:54:17+00:00,901979536,901197334,0,158.140.167.40,Carmina Villarroel,
+2021-08-04T10:17:13+00:00,1037072024,1036398789,0,Rdp060707,Carmina Villarroel,"Changing [[Wikipedia:Short description|short description]] from ""Filipino actress"" to ""Filipina actress"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2019-02-22T08:43:30+00:00,884539044,880100918,0,119.95.164.162,Christian Bautista,/* Childhood and youth */
+2021-05-24T03:05:00+00:00,1024789669,1023507312,0,JamesLuiz,Christian Bautista,"/* Childhood and youth */clean up, [[WP:AWB/T|typo(s) fixed]]: ,  → ,"
+2021-03-14T23:03:52+00:00,1012160979,1011482113,0,WOSlinker,Christian Bautista,tidy table style
+2019-08-30T19:16:10+00:00,913229673,913229411,0,Derek R Bullamore,Christian Bautista,Removed clean-up tag
+2020-09-13T16:19:17+00:00,978216760,978216650,0,SwitchBladeZer0,Christian Bautista,/* Awards and nominations */
+2020-01-16T23:37:10+00:00,936145582,934235397,0,Willamsss,Dennis Trillo,/* Television series */
+2021-05-08T02:21:21+00:00,1022037810,1022037738,0,JaidenABS-CBN,Dennis Trillo,
+2020-02-17T02:01:59+00:00,941179761,941071879,0,CHASE1979,Dennis Trillo,
+2021-01-31T03:41:46+00:00,1003878273,998014898,0,LovesMe 2021,Dennis Trillo,
+2019-03-31T11:55:52+00:00,890285795,890285616,0,49.148.23.233,Dennis Trillo,
+2019-02-04T07:02:28+00:00,881700902,881523867,0,Federicparedes,Dennis Trillo,/* Film */
+2020-10-03T19:03:34+00:00,981670793,981585523,0,Kidhackra,Dennis Trillo,/* Film */
+2019-01-23T07:22:52+00:00,879766764,874736677,0,Fandi89,Dennis Trillo,Update picture.
+2021-09-21T07:46:34+00:00,1045570614,1038200467,0,112.204.160.96,Dingdong Dantes,
+2019-05-03T11:16:41+00:00,895308738,894209558,0,Feliciavanessav.oyson10,Dingdong Dantes,/* Television series */
+2021-07-17T17:06:25+00:00,1034078262,1031602224,0,124.104.1.75,Dingdong Dantes,
+2019-04-26T10:20:59+00:00,894209558,894209293,0,112.203.11.120,Dingdong Dantes,/* Television series */
+2021-08-11T03:29:32+00:00,1038200467,1038126169,0,Dieter Lloyd Wexler,Dingdong Dantes,Reverted edits by [[Special:Contribs/Jobimism|Jobimism]] ([[User talk:Jobimism|talk]]) to last version by 124.104.1.75
+2021-10-20T13:19:27+00:00,1050884547,1046938625,0,Kielcerin,Dingdong Dantes,/* Film */
+2019-07-01T14:16:08+00:00,904339555,904339209,0,112.200.13.87,Dingdong Dantes,
+2020-06-17T16:37:15+00:00,963066355,962935689,0,Frietjes,Dingdong Dantes,Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]
+2020-12-05T09:15:49+00:00,992447628,990719622,0,Image2012,Dingdong Dantes,
+2019-06-04T14:59:05+00:00,900272013,900060508,0,89.110.2.193,Dingdong Dantes,/* Television series */
+2021-09-03T23:56:58+00:00,1042247822,1041864820,0,Geraldo Perez,Esperanza (Philippine TV series),per infobox instruction for attribute
+2019-02-23T19:20:05+00:00,884747821,884747734,0,Filipinoman9103,Esperanza (Philippine TV series),/* Cast and characters */
+2021-05-28T04:40:24+00:00,1025542765,1025253537,0,45.202.22.109,Esperanza (Philippine TV series),/* Plot */
+2019-04-11T06:09:11+00:00,891950564,889974215,0,112.210.51.48,Dingdong Dantes,
+2021-06-21T02:35:11+00:00,1029619584,1029619509,0,Abrilando232,Esperanza (Philippine TV series),fixed
+2021-05-07T05:07:21+00:00,1021876244,1020650224,0,2001:4452:477:F000:3184:6C40:352:D095,Esperanza (Philippine TV series),"/* Cast and characters */==Cast and characters==
+<!--Official cast billing from ABS-CBN.-->
+
+===Protagonist===
+* [[Judy Ann Santos]] as Esperanza Estrera 
+
+===Main cast===
+* [[Wowie de Guzman]] as Anton Montejo
+* [[Piolo Pascual]] as Brian
+* [[Angelika dela Cruz]] as Cecille Montejo  
+* [[Marvin Agustin]] as Danilo 
+* [[Jolina Magdangal]] as Karen Carvajal de Montejo
+* [[Carmina Villarroel]] as Cynthia Salazar 
+* [[Jericho Rosales]] as Buboy
+
+===Supporting cast===
+*[[Charo Santos-Concio]] as..."
+2021-04-18T10:23:50+00:00,1018492602,1018464435,0,112.201.142.231,Esperanza (Philippine TV series),
+2021-06-14T07:19:34+00:00,1028481262,1028481082,0,130.105.133.26,Esperanza (Philippine TV series),"/* Recurring, extended and guest cast */"
+2021-04-19T12:05:58+00:00,1018702168,1018572683,0,136.158.35.215,Esperanza (Philippine TV series),
+2021-11-08T18:00:39+00:00,1054206905,1054206140,0,Sims2aholic8,Eurovision Song Contest 2022,"Undid revision 1054206140 by [[Special:Contributions/009988aaabbbccc|009988aaabbbccc]] ([[User talk:009988aaabbbccc|talk]]) because it is not included in other years is not justification for not having it here, and having it here may help prompt other users to include similar information in other articles"
+2021-08-23T15:09:54+00:00,1040263784,1039889214,0,Michele1999,Eurovision Song Contest 2022,/* Provisional list of participating countries */
+2021-06-29T19:13:37+00:00,1031089121,1031089087,0,Jaiden's ABS-CBN 9,Eurovision Song Contest 2022,
+2021-10-22T00:37:05+00:00,1051179803,1051045194,0,Iamscmain,Eurovision Song Contest 2022,/* Semi-finals */
+2020-08-29T10:24:48+00:00,975588277,975588103,0,Vjms,Glaiza de Castro,/* Awards and nominations */
+2020-05-31T22:15:24+00:00,960054969,960026894,0,49.144.101.249,Glaiza de Castro,/* Television */
+2020-12-13T11:55:03+00:00,993958959,993366452,0,ScarletViolet,Glaiza de Castro,
+2020-12-20T14:13:13+00:00,995339026,994910293,0,Chompy Ace,Glaiza de Castro,
+2019-04-04T23:02:03+00:00,890996361,890885592,0,Oripaypaykim,Glaiza de Castro,/* Television */  unnecessary
+2020-09-18T15:03:21+00:00,979061183,978146192,0,Jonesey95,Glaiza de Castro,Fix [[Special:LintErrors|Linter]] errors using [[WP:AutoEd|AutoEd]]
+2021-09-14T05:51:35+00:00,1044224254,1043788272,0,Jonesey95,Hélène Rollès,Fix [[Special:LintErrors|Linter]] errors.
+2021-03-26T01:56:03+00:00,1014259974,1013654593,0,YUEdits,Hélène Rollès,/* Life and career */
+2018-12-20T09:35:38+00:00,874602313,874360730,0,92.100.83.174,Hélène Rollès,/* Life and career */
+2019-04-30T16:29:27+00:00,894883273,874713427,0,Paine Ellsworth,Hélène Ségara,Disambiguate [[Memory (song)]] to [[Memory (Cats song)]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2019-06-13T03:34:13+00:00,901614595,894883273,0,Vmavanti,Hélène Ségara,/* top */ del dates next to labels
+2019-08-11T16:00:02+00:00,910367593,910072466,0,49.149.155.113,Jake Vargas,
+2019-09-01T17:54:58+00:00,913537945,913251879,0,108.40.32.59,Jake Vargas,/* Films */
+2021-01-14T15:56:15+00:00,1000308666,999691274,0,112.200.102.203,Jake Vargas,/* Television */ typo
+2020-01-31T05:51:56+00:00,938441554,927878044,0,120.29.108.149,Jake Vargas,
+2021-07-04T16:16:33+00:00,1031939656,1031734788,0,Lennart97,Jean Garcia,Disambiguating links to [[The Gift]] (link changed to [[The Gift (2019 Philippine TV series)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-10-29T09:38:09+00:00,986020766,985971202,0,Iamdumdum,Jean Garcia,/* Biography */
+2021-03-07T15:50:49+00:00,1010832405,1010831934,0,2.50.170.11,Jean Garcia,/* Films */
+2021-09-27T21:04:41+00:00,1046873841,1046125515,0,DanCherek,Jean Garcia,/* External links */ remove external links; one is dead and the other redirects to https://www.gmanetwork.com/entertainment/
+2019-10-26T12:42:31+00:00,923111006,923110921,0,112.211.38.31,Jean Garcia,
+2021-07-07T20:07:26+00:00,1032499730,1030817174,0,FrescoBot,John Arcilla,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2018-12-29T17:46:38+00:00,875886259,862847644,0,49.150.92.54,John Arcilla,/* Television */
+2021-03-16T17:31:26+00:00,1012491911,1007310770,0,WOSlinker,John Arcilla,tidy table style
+2021-01-16T14:17:55+00:00,1000745273,1000679593,0,Kuya walter,John Arcilla,/* Filmography */
+2020-05-22T07:59:58+00:00,958169403,958169350,0,Scorchingfire,John Arcilla,
+2020-11-29T09:08:32+00:00,991294459,975885931,0,130.105.167.231,John Arcilla,
+2019-03-13T06:24:07+00:00,887532419,887532139,0,175.158.218.236,Judy Ann Santos filmography,/* 2010 to present */
+2018-08-13T07:49:21+00:00,854711450,848162396,0,141.239.216.245,Judy Ann Santos filmography,/* Television */
+2019-01-18T05:38:07+00:00,878981785,854711450,0,113.252.42.253,Judy Ann Santos filmography,/* TV series */
+2019-02-12T06:08:57+00:00,882929227,882928358,0,222.127.101.22,Judy Ann Santos filmography,/* 2003 to 2009 */
+2021-11-18T14:50:49+00:00,1055904858,1046830972,0,2001:4451:A0E:9C00:6CC5:6DA8:B962:5ECC,Judy Ann Santos filmography,/* Television */
+2019-05-11T13:36:41+00:00,896578576,892145449,0,VertaxApolinariax,Judy Ann Santos filmography,/* Maalaala Mo Kaya */
+2019-10-07T13:35:27+00:00,920063871,912591427,0,49.146.12.92,Judy Ann Santos filmography,/* Television */
+2021-03-16T12:39:56+00:00,1012447724,1012447661,0,114.108.224.54,Kampanerang Kuba,/* Main cast */
+2021-09-29T00:24:51+00:00,1047097010,1047096781,0,112.208.115.214,Kampanerang Kuba,
+2020-07-04T03:14:49+00:00,965903513,965903383,0,Jasmin Ariane,Kazakhstan in the ABU TV Song Festival,"Removed sentence ""Qudaybergen Dinmuxammed will represent the nation at the 2015 festival."". --> wrong spelling of the artist's name ans not suitable for the lead"
+2018-09-02T07:58:19+00:00,857671968,852972757,0,LWL12345,Kazakhstan in the ABU TV Song Festival,/* Contestants */
+2020-01-18T02:39:12+00:00,936325141,932109453,0,2601:40C:8203:C110:ACD3:FE5E:D8F8:FF76,Kristine Hermosa,/* Personal life */
+2021-09-21T07:33:48+00:00,1045569248,1037542618,0,Glennznl,Kristine Hermosa,link [[Philippine mythology]] using [[:en:User:Edward/Find link|Find link]]
+2020-12-19T11:35:51+00:00,995130308,995130229,0,2001:4454:55E:5300:CEE:EDF3:45EA:B3C6,Kristine Hermosa,
+2021-07-05T19:07:59+00:00,1032145763,1030132812,0,FrescoBot,Kristine Hermosa,Bot: [[User:FrescoBot/Links|link syntax]]
+2021-08-07T06:54:13+00:00,1037542618,1037542460,0,2001:4454:55A:D500:116A:E66E:7567:3461,Kristine Hermosa,/* Personal life */
+2019-02-26T13:20:03+00:00,885179403,885170379,0,Davey2010,Kristine Hermosa,date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]
+2021-04-03T09:10:08+00:00,1015748208,1015741321,0,Kleinpecan,Kyline Alcantara,Reverted 1 edit by [[Special:Contributions/111.125.105.126|111.125.105.126]] ([[User talk:111.125.105.126|talk]]) to last revision by 222.127.248.176
+2019-04-05T09:02:07+00:00,891047561,890740434,0,222.127.67.11,Kyline Alcantara,/* Music and Variety */
+2020-10-03T11:48:02+00:00,981611410,981447639,0,112.198.169.91,Kyline Alcantara,
+2020-01-11T12:04:48+00:00,935241030,935241004,0,Britishfinance,Kyline Alcantara,Reverted edits by [[Special:Contribs/Britishfinance|Britishfinance]] ([[User talk:Britishfinance|talk]]) to last version by Davey2010
+2021-08-21T01:24:04+00:00,1039832038,1038516965,0,Sc2353,Kyline Alcantara,removed [[Category:21st-century Filipino singers]] using [[WP:HC|HotCat]]
+2020-08-05T01:17:55+00:00,971257700,966288873,0,WhiteStar2000,Kyline Alcantara,/* Discography */
+2019-11-23T12:06:57+00:00,927582002,927581951,0,Britishfinance,Kyline Alcantara,/* Film */  de-bold
+2019-10-10T07:06:51+00:00,920511054,920505966,0,Davey2010,Kyline Alcantara,date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]
+2019-01-06T18:49:16+00:00,877123229,877123063,0,And1987,Lea Salonga,/* Notable stage credits */
+2020-08-06T13:04:03+00:00,971488353,970479350,0,2600:8806:3400:113:C55B:5B03:5883:FC0A,Lea Salonga,
+2019-05-24T19:30:00+00:00,898612779,898612730,0,C.Fred,Lea Salonga,/* Voice and musical ability */ range not in source
+2021-08-19T15:35:46+00:00,1039589759,1039589576,0,Young English Actor,Lea Salonga,
+2021-01-30T22:32:00+00:00,1003833432,1003150567,0,81.104.156.202,Lea Salonga,
+2020-07-31T11:42:41+00:00,970455910,968639992,0,2001:4450:47EB:4C00:6DAD:4F7E:3632:946A,Lea Salonga,
+2021-04-15T23:08:04+00:00,1018032623,1017403305,0,SporkBot,Lea Salonga,Remove template per [[Wikipedia:Templates for discussion/Log/2021 April 7|TFD outcome]]
+2021-02-12T19:20:40+00:00,1006411964,1003802518,0,August-54,List of countries in the Eurovision Song Contest,/* 1950s */
+2020-04-12T11:30:50+00:00,950501253,950403963,0,August-54,List of countries in the Eurovision Song Contest,/* Participating countries in the decades */
+2020-06-10T19:39:39+00:00,961857295,959351648,0,BugsFan17,List of countries in the Eurovision Song Contest,/* Broadcast in non-participating countries */ Just mentioning what's on the 1971 page
+2019-11-17T12:33:01+00:00,926594178,925989690,0,009988aaabbbccc,List of countries in the Eurovision Song Contest,"/* Participants */ Latest entry column can be updated now, as we know the list for 2020 contest. There's no need to wait up until May to update this."
+2019-06-25T16:18:39+00:00,903421911,902543241,0,Aikonamee,List of countries in the Eurovision Song Contest,/* Soviet Union */
+2019-07-12T21:40:05+00:00,905993213,905819966,0,BrownHairedGirl,List of countries in the Eurovision Song Contest,remove links to deleted portals
+2019-03-18T19:27:17+00:00,888380835,887986823,0,200.0.118.162,List of countries in the Eurovision Song Contest,
+2021-03-26T20:31:23+00:00,1014394235,1014392781,0,Sims2aholic8,List of countries in the Eurovision Song Contest,/* Participating countries by decade */
+2018-10-05T17:32:51+00:00,862636232,862636167,0,X-Savitar,Love Sick,Undid revision 862636167 by [[Special:Contributions/209.237.111.162|209.237.111.162]] ([[User talk:209.237.111.162|talk]])
+2020-06-08T16:18:21+00:00,961460542,960154888,0,Ionmars10,Magpakailanman,"/* Overview */clean up, replaced: in January 23 → on January 23"
+2020-01-07T03:23:13+00:00,934545340,934545079,0,49.149.67.125,Mara Clara,/* Supporting cast */
+2021-09-25T14:17:47+00:00,1046407611,1044555286,0,112.208.30.255,Mara Clara,
+2021-11-11T06:14:40+00:00,1054632837,1054589615,0,2406:5A00:A232:7B00:5DCD:D414:A6A9:BB44,Mara Clara,
+2021-04-13T03:29:48+00:00,1017500523,1017500416,0,203.189.118.31,Mara Clara,/* Timeslot */
+2020-08-06T12:45:09+00:00,971486104,971324705,0,SporkBot,Mara Clara,Remove template per [[Wikipedia:Templates for discussion/Log/2020 July 29|TFD outcome]]
+2021-04-28T15:46:40+00:00,1020343674,1019569944,0,49.145.69.178,Mara Clara,/* Timeslot */
+2021-06-08T09:31:16+00:00,1027505491,1021322469,0,112.201.214.202,Mara Clara,/*Mara Clara*/
+2020-05-27T18:37:07+00:00,959225942,958650538,0,122.2.20.202,Mula sa Puso,/* Plot */
+2021-03-05T16:38:57+00:00,1010466937,1010386143,0,136.158.35.70,Mula sa Puso,Fixed corrections.
+2021-07-12T19:18:11+00:00,1033288371,1032449662,0,Geraldo Perez,Mula sa Puso,-unsourced
+2020-01-23T06:58:17+00:00,937151956,936057425,0,58.69.8.34,Mula sa Puso,/* Main cast */
+2020-01-28T19:34:12+00:00,938039239,937151956,0,1.53.216.142,Mula sa Puso,/* Main cast */
+2020-08-10T15:41:07+00:00,972169968,971486402,0,Iaintfaking,Mula sa Puso,"/* top */unlinked language and country as per [[WP:Overlink]] and cleanup, replaced: [[Filipino language|Filipino]] → Filipino, [[Philippines]] → Philippines (3), [[ABS-CBN (TV network)|ABS-CBN]] → [[ABS-CBN]] (2)"
+2021-01-18T10:39:54+00:00,1001128294,1001128191,0,Ram1055,Mula sa Puso,Reverted to revision 998801299 by [[Special:Contributions/WayKurat|WayKurat]] ([[User talk:WayKurat|talk]]): No reliable source
+2019-03-02T03:19:15+00:00,885755454,885164672,0,2600:6C50:380:43AD:2D79:5E30:67D6:851F,Mula sa Puso (2011 TV series),
+2021-01-01T04:46:51+00:00,997569645,997569142,0,223.25.50.193,Mula sa Puso (2011 TV series),Paul Salas is in the show and watch it.
+2020-01-20T04:28:00+00:00,936652476,936648345,0,2600:1700:2CE0:1BB0:8C78:7C86:A216:1BA0,Mula sa Puso (2011 TV series),/* Special participation */
+2021-08-05T12:10:12+00:00,1037253492,1037238932,0,CruzRamiss2002,Mula sa Puso (2011 TV series),Reverting edit(s) by [[Special:Contributions/Alanconsebido|Alanconsebido]] ([[User_talk:Alanconsebido|talk]]) to rev. 1037097786 by CruzRamiss2002: [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16.1)]]
+2018-12-01T09:35:44+00:00,871476284,863749242,0,126.140.254.146,Mula sa Puso (2011 TV series),
+2020-07-31T11:02:32+00:00,970451613,966102724,0,Nat965,Mula sa Puso (2011 TV series),"/* Adaptation */Apply [[WP:AWB/GF|Gen fix(es)]], [[WP:AWB/T|typo(s) fixed]]: On March 2011 → In March 2011"
+2020-10-26T03:25:42+00:00,985468345,984318700,0,Iaintfaking,Mulawin,"cleanup, replaced: plain list → plainlist (7), |URL → |url (2), removed: | location = Philippines"
+2021-03-05T20:58:45+00:00,1010506912,1009913079,0,Theobscure,Mulawin,/* External links */ Added category Mulawin
+2021-09-07T03:21:10+00:00,1042852257,1042663544,0,Russel641,Pangako Sa 'Yo,Update
+2020-10-02T05:00:23+00:00,981414697,981413063,0,47.221.118.16,Pangako Sa 'Yo,/* Plot */
+2019-11-01T09:40:11+00:00,924025876,923997381,0,Iamdumdum,Pangako Sa 'Yo,Undid revision 923997381 by [[Special:Contributions/Sea29|Sea29]] ([[User talk:Sea29|talk]])
+2020-10-20T05:57:11+00:00,984459200,981414697,0,Bluemask,Pangako Sa 'Yo,removed [[Category:Philippine drama television series]] using [[WP:HC|HotCat]]
+2018-12-26T12:04:47+00:00,875417989,870674553,0,LordeLibra,Pangako Sa 'Yo,Corrected grammar
+2020-02-17T19:42:04+00:00,941301371,941301340,0,GorillaWarfare,Pangako Sa 'Yo,Reverted edits by [[Special:Contributions/196.201.218.178|196.201.218.178]] ([[User talk:196.201.218.178|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2021-10-22T16:05:24+00:00,1051288567,1051288012,0,Nessun Burma,Pangako Sa 'Yo,
+2018-11-30T21:24:44+00:00,871408564,847511151,0,Linguist111,Patrick Fiori,/* External links */removed category that has been tagged for speedy deletion and that will be replaced by a list that is in Draft: space
+2019-06-06T06:25:51+00:00,900525130,871408564,0,37.169.36.153,Patrick Fiori,
+2019-09-01T13:39:18+00:00,913503173,913491816,0,108.40.32.59,Patrick Fiori,
+2020-08-11T10:47:53+00:00,972308525,971487316,0,Iaintfaking,Sa Dulo ng Walang Hanggan,"/* top */unlinked language and country as per [[WP:Overlink]] and cleanup, replaced: [[Filipino language|Filipino]] → Filipino, [[Philippines]] → Philippines, [[ABS-CBN (TV network)|ABS-CBN]] → [[ABS-CBN]] (2)"
+2021-08-12T09:10:32+00:00,1038399023,1038399001,0,Rdp060707,Sa Dulo ng Walang Hanggan,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/49.144.8.229|49.144.8.229]] ([[User talk:49.144.8.229|talk]]) to last revision by 112.201.35.85: nonconstructive edits
+2020-10-19T13:40:05+00:00,984317966,975212976,0,Bluemask,Sa Dulo ng Walang Hanggan,Removing from [[Category:Philippine drama television series]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2019-07-16T02:57:01+00:00,906476217,905767626,0,Mc Eduard Figueroa,Sa Dulo ng Walang Hanggan,Mc Eduard Figueroa moved page [[Sa Dulo Ng Walang Hanggan]] to [[Sa Dulo ng Walang Hanggan]]: caps off
+2021-04-28T04:32:25+00:00,1020267933,1020267772,0,Ervin111899,Sunshine Dizon,
+2019-10-14T08:44:26+00:00,921163428,920836601,0,Harryboyles,Sa Dulo ng Walang Hanggan,"clean up; fix heading level, [[WP:AWB/T|typo(s) fixed]]: Barretto’s → Barretto's (2)"
+2019-10-03T22:31:46+00:00,919473501,918584482,0,203.177.90.130,Sunshine Dizon,
+2019-07-06T11:35:41+00:00,905038020,899194201,0,49.144.4.248,Sunshine Dizon,/* Comedy shows */
+2019-03-26T13:52:27+00:00,889561721,889153636,0,112.206.159.73,Sunshine Dizon,/* Films */
+2020-12-18T01:35:27+00:00,994886539,994886516,0,ClueBot NG,Sunshine Dizon,"Reverting possible vandalism by [[Special:Contribs/124.104.194.5|124.104.194.5]] to version by LionFosset. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3848763) (Bot)"
+2019-05-28T13:34:03+00:00,899194201,895484294,0,112.211.59.113,Sunshine Dizon,
+2019-02-14T22:09:12+00:00,883352986,881244368,0,Keith D,Tajči,/* Personal life */Fix cite date error
+2019-02-01T09:29:59+00:00,881244368,874951624,0,Telex80,Tajči,/* Personal life */
+2016-03-06T00:06:23+00:00,708507518,330843442,0,Cyberbot II,Talk:Dennis Trillo,Notification of altered sources needing review #IABot
+2021-06-04T06:03:16+00:00,1026777823,976915585,0,MalnadachBot,Talk:Dennis Trillo,Fixed [[WP:LINT|Lint errors]] in Cyberbot II's signature ([[User:MalnadachBot/Task 1|Task 1]])
+2020-09-23T17:55:47+00:00,979945685,979945619,0,Ritchie333,Talk:Eurovision Song Contest 2022,Ritchie333 moved page [[Talk:Eurovision Song Contest 2022]] to [[Draft talk:Eurovision Song Contest 2022]] without leaving a redirect: [[Wikipedia:Articles for deletion/Eurovision Song Contest 2022]]
+2019-02-12T22:27:14+00:00,883040100,876911800,0,Zackmann08,Temptation of an Angel,/* External links */removing deprecated template per [[Wikipedia:Templates_for_discussion/Log/2019_February_5#Template:SBS_Monday–Tuesday_dramas]]
+2020-11-01T10:16:02+00:00,986516150,978972838,0,152.32.113.251,Temptation of an Angel,/* Ratings */
+2020-09-18T01:16:50+00:00,978972838,975117438,0,ProcBot,Temptation of an Angel,[[Wikipedia:Bots/Requests for approval/ProcBot 2|Task 2]]: Change text dates to use date templates
+2020-03-17T15:32:32+00:00,946017908,940213775,0,Redalert2fan,Temptation of an Angel,Cleaned up using [[WP:AutoEd|AutoEd]]
+2019-07-11T20:26:54+00:00,905844158,902684987,0,Alexf,That's Entertainment (Philippine TV program),Reverted edits by [[Special:Contribs/122.53.111.18|122.53.111.18]] ([[User talk:122.53.111.18|talk]]) to last version by 47.153.50.235
+2020-02-27T06:58:20+00:00,942851034,942197574,0,112.198.219.185,That's Entertainment (Philippine TV program),
+2021-03-27T18:10:31+00:00,1014543104,1013381116,0,VibrantYouth,The General's Daughter (TV series),/* Reruns */
+2019-08-03T07:23:06+00:00,909121600,909108970,0,49.149.111.12,The General's Daughter (TV series),/* Special participation */
+2019-01-16T15:54:10+00:00,878723871,878707703,0,112.200.41.78,The General's Daughter (TV series),/* Main cast */
+2019-12-25T14:18:53+00:00,932385493,931951854,0,49.146.5.35,The General's Daughter (TV series),
+2021-05-17T07:07:16+00:00,1023592971,1022819570,0,112.141.20.205,Tom Rodriguez,
+2021-07-06T16:10:42+00:00,1032300664,1032290616,0,PDMT,Tom Rodriguez,
+2020-01-31T13:10:50+00:00,938479327,936213549,0,49.146.10.70,Tom Rodriguez,
+2021-05-12T17:36:54+00:00,1022819570,1016465502,0,Philippine 1812,Tom Rodriguez,
+2019-03-07T05:31:11+00:00,886586178,886586076,0,112.200.17.70,Tom Rodriguez,/* Television */
+2019-04-02T01:09:08+00:00,890551609,890550893,0,S0091,Tom Rodriguez,Reverted 1 edit by [[Special:Contributions/2600:1:92D1:D72:C902:58DE:1122:BD7|2600:1:92D1:D72:C902:58DE:1122:BD7]] ([[User talk:2600:1:92D1:D72:C902:58DE:1122:BD7|talk]]): Unconstructive ([[WP:TW|TW]])
+2020-09-15T10:23:37+00:00,978511261,972119035,0,120.29.67.24,Tom Rodriguez,/* Transfer to GMA Network */
+2019-04-23T09:46:21+00:00,893746108,892237663,0,Erickvillanueva1,Tom Rodriguez,/* Film */
+2017-10-05T19:41:33+00:00,803960310,732430788,0,Ira Leviton,Turkey in the ABU TV Song Festival,d
+2021-01-31T02:31:32+00:00,1003869046,1003810269,0,Renamed user 16438AHSBA,User talk:Discospinster,
+2020-10-10T21:43:38+00:00,982870716,982861514,0,Gagarine,User talk:Discospinster,/* Chill! */
+2020-04-10T06:47:30+00:00,950101607,950099561,0,176.54.125.39,User talk:Discospinster,/* Atto Abbas */
+2020-06-07T21:17:09+00:00,961331940,961330105,0,1234qwer1234qwer4,User talk:Discospinster,Notification: [[Wikipedia:Redirects for discussion/Log/2020 June 7#Rao Dargahi Singh Bhati ( Dadri King )|listing]] of [[:Rao Dargahi Singh Bhati ( Dadri King )]] at [[WP:RFD|redirects for discussion]]. ([[WP:TW|TW]])
+2020-08-08T16:06:55+00:00,971846681,971110535,0,GaA24,User talk:Discospinster,/* 2018 Duhallow Junior A Hurling Championship */ new section
+2020-02-03T19:18:18+00:00,939005207,938987527,0,Joãolumo,User talk:Discospinster,/* hi */
+2019-10-11T00:56:24+00:00,920642006,920640232,0,Sawol,User talk:JaidenLala,/* Speedy deletion nomination of Template:1993 */
+2021-01-16T11:59:57+00:00,1000727973,1000727416,0,Acrom12,User talk:WayKurat,
+2021-07-29T14:52:42+00:00,1036107038,1036105535,0,Iggy the Swan,User talk:WayKurat,/* Usapang tagamit:Iggy the Swan */ Thanks
+2020-05-27T17:12:33+00:00,959209926,959150781,0,GeneralNotability,User talk:WayKurat,Notifying about declined speedy deletion ([[User:Ale_jrb/Scripts|CSDH]])
+2021-05-09T01:05:02+00:00,1022188671,1021862844,0,Rdp060707,User talk:WayKurat,Notification: [[Wikipedia:Articles for deletion/Flash Report|listing]] of [[:Flash Report]] at [[WP:Articles for deletion]].
+2019-08-03T06:29:12+00:00,909118126,909118081,0,Blakegripling ph,User talk:WayKurat,Reverted edits by [[Special:Contribs/109.101.139.106|109.101.139.106]] ([[User talk:109.101.139.106|talk]]) to last version by Lowercase sigmabot III
+2020-10-03T07:47:23+00:00,981588155,981466254,0,Jangmi20,User talk:WayKurat,
+2020-03-12T03:08:09+00:00,945149064,945145572,0,B-bot,User talk:WayKurat,Notification that [[:File:24 Oras logo (2014).png]] is orphaned and will be deleted in seven days per [[WP:CSD#F5]]
+2019-09-10T15:37:52+00:00,914990047,913282694,0,Drmies,User talk:WayKurat,
+2021-08-26T13:14:49+00:00,1040754659,1026836998,0,محمد أحمد عبد الفتاح,Vincent Niclo,/* O Fortuna (Germany) */
+2019-12-20T19:52:36+00:00,931725942,931725900,0,96.237.118.58,Vincent Niclo,/* Singles */
+2019-03-14T09:55:16+00:00,887708596,887574863,0,Alpesh698,Vincent Niclo,i have changed album because i have saw album detail in his  vincent website
+2019-03-02T03:23:32+00:00,885755919,885755720,0,207.171.233.37,Vincent Niclo,/* Tours */

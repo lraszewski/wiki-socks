@@ -1,0 +1,331 @@
+timestamp,revid,parentid,sock,user,page,message
+2022-03-08T05:48:38+00:00,1075884386,1071307925,1,AlpineCory324,"Merion Station, Pennsylvania",
+2022-01-23T11:17:14+00:00,1067422284,1067421898,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:13:08+00:00,1067421818,1067421799,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:12:24+00:00,1067421726,1067421631,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:11:44+00:00,1067421631,1067421607,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:11:33+00:00,1067421607,1067421573,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:11:14+00:00,1067421573,1067421478,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:10:27+00:00,1067421471,1067421448,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:10:17+00:00,1067421448,1067421381,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:09:34+00:00,1067421359,1067421308,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:09:09+00:00,1067421308,1067420788,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:07:53+00:00,1067421147,1067421083,1,BayPackers1444,Chapman University,
+2022-01-23T11:07:21+00:00,1067421083,1067420980,1,BayPackers1444,Chapman University,
+2022-01-23T11:06:30+00:00,1067420980,1067420557,1,BayPackers1444,Chapman University,
+2022-01-23T11:04:37+00:00,1067420788,1067342487,1,BayPackers1444,Northern Arizona University,
+2022-01-23T11:02:46+00:00,1067420557,1067420469,1,BayPackers1444,Chapman University,
+2022-01-23T11:01:58+00:00,1067420469,1067420394,1,BayPackers1444,Chapman University,
+2022-01-23T11:01:26+00:00,1067420377,1067405913,1,BayPackers1444,Chapman University,
+2022-01-23T05:33:36+00:00,1067381646,1067381369,1,BayPackers1444,Collin Morikawa,
+2022-05-04T15:32:32+00:00,1086174198,1086174117,1,Hyatt4333,Collin Morikawa,
+2022-05-04T15:31:57+00:00,1086174108,1086173895,1,Hyatt4333,Collin Morikawa,
+2022-05-04T15:30:09+00:00,1086173857,1086173824,1,Hyatt4333,Collin Morikawa,
+2022-05-04T15:29:38+00:00,1086173790,1086173757,1,Hyatt4333,Collin Morikawa,
+2022-05-04T15:29:24+00:00,1086173757,1082986828,1,Hyatt4333,Collin Morikawa,
+2022-03-27T19:04:15+00:00,1079617610,1079617086,1,Loyola6363,Northern Arizona University,
+2022-03-27T19:01:30+00:00,1079617222,1078915845,1,Loyola6363,"University of California, Davis",
+2022-03-27T18:59:03+00:00,1079616861,1076721603,1,Loyola6363,Northern Arizona University,
+2022-03-27T18:17:46+00:00,1079610425,1078939506,1,Loyola6363,Allison Stokke,
+2022-03-24T03:47:24+00:00,1078939408,1078939364,1,Loyola6363,Allison Stokke,
+2022-03-24T03:47:02+00:00,1078939364,1074048186,1,Loyola6363,Allison Stokke,
+2022-03-24T03:46:08+00:00,1078939264,1078939099,1,Loyola6363,Chapman University,
+2022-03-24T03:44:53+00:00,1078939099,1078939064,1,Loyola6363,Chapman University,
+2022-03-24T03:44:42+00:00,1078939064,1078882032,1,Loyola6363,Chapman University,
+2022-03-08T17:49:00+00:00,1075975929,1060143372,1,Merion454,Marian Marsh,
+2022-01-21T02:56:12+00:00,1066977689,1066936544,1,Merlot1340,Harveys Lake Tahoe,
+2022-01-21T02:53:07+00:00,1066977277,1018077583,1,Merlot1340,Microsoft Office 98 Macintosh Edition,
+2022-05-01T17:50:24+00:00,1085650659,1085650344,1,Mills54545,Allison Stokke,
+2022-05-01T17:48:21+00:00,1085650270,1079610583,1,Mills54545,Allison Stokke,
+2022-02-13T23:02:56+00:00,1071703658,1071639980,1,Mojave122,Microsoft Office 2019,
+2022-02-13T23:02:35+00:00,1071703604,1071640470,1,Mojave122,Microsoft Office 2016,
+2022-02-13T16:43:12+00:00,1071641798,1071641684,1,Mojave122,Microsoft Office 2013,
+2022-02-13T16:42:33+00:00,1071641684,1071641592,1,Mojave122,Microsoft Office 2013,/* Development */
+2022-02-13T16:42:08+00:00,1071641592,1068678998,1,Mojave122,Microsoft Office 2013,
+2022-02-13T16:35:46+00:00,1071640470,1071129388,1,Mojave122,Microsoft Office 2016,
+2022-02-13T16:32:55+00:00,1071639980,1071639528,1,Mojave122,Microsoft Office 2019,
+2022-02-13T16:31:26+00:00,1071639717,1071535682,1,Mojave122,Microsoft Office 2021,
+2022-02-13T16:30:22+00:00,1071639528,1071639217,1,Mojave122,Microsoft Office 2019,
+2022-02-13T16:28:31+00:00,1071639217,1071535262,1,Mojave122,Microsoft Office 2019,
+2022-03-28T15:34:09+00:00,1079777814,1079777791,1,MonallToby6834,Northern Arizona University,
+2022-03-28T15:34:00+00:00,1079777791,1079777779,1,MonallToby6834,Northern Arizona University,
+2022-03-28T15:33:53+00:00,1079777779,1079617642,1,MonallToby6834,Northern Arizona University,
+2022-03-28T15:23:13+00:00,1079776023,1079775543,1,MonallToby6834,Chapman University,
+2022-03-28T15:20:24+00:00,1079775575,1079423232,1,MonallToby6834,Collin Morikawa,
+2022-03-28T15:19:53+00:00,1079775492,1079775383,1,MonallToby6834,Chapman University,
+2022-03-28T15:19:16+00:00,1079775383,1079775333,1,MonallToby6834,Chapman University,
+2022-03-28T15:18:56+00:00,1079775333,1079660834,1,MonallToby6834,Chapman University,
+2021-12-19T22:37:28+00:00,1061142185,1061139893,1,Padres89,Microsoft Office 2003,
+2021-12-19T22:17:30+00:00,1061139893,1061139682,1,Padres89,Microsoft Office 2003,
+2021-12-19T22:15:50+00:00,1061139682,1058217016,1,Padres89,Microsoft Office 2003,
+2021-12-19T22:07:15+00:00,1061138715,1058827696,1,Padres89,Microsoft Office XP,"According to the sources, Office 2003 is supported on any version of Windows XP."
+2021-10-29T01:59:38+00:00,1052420934,1047190805,1,Padres89,Leap year starting on Wednesday,
+2021-10-29T01:40:34+00:00,1052418078,1052417783,1,Padres89,User talk:Padres89,
+2021-10-29T01:39:32+00:00,1052417908,1047191839,1,Padres89,Leap year starting on Thursday,
+2021-10-29T01:37:12+00:00,1052417543,1051067133,1,Padres89,Common year starting on Friday,
+2022-01-31T06:57:47+00:00,1069012292,1050476757,1,Seahawks151515,Penny Publications,/* Magazines and imprints published */
+2022-01-29T19:36:07+00:00,1068680164,1068334134,1,Seahawks151515,"Utqiagvik, Alaska",/* Climate */
+2022-01-29T19:28:08+00:00,1068678998,1068678943,1,Seahawks151515,Microsoft Office 2013,
+2022-01-29T19:27:49+00:00,1068678943,1068678895,1,Seahawks151515,Microsoft Office 2013,
+2022-01-29T19:27:27+00:00,1068678895,1067507306,1,Seahawks151515,Microsoft Office 2013,
+2022-01-29T19:25:57+00:00,1068678672,1068676879,1,Seahawks151515,Microsoft Office 2010,Office 2010 is not supported on Windows 11
+2022-01-29T00:15:35+00:00,1068537314,1068537243,1,Seahawks151515,Microsoft Office,/* History of releases */
+2022-01-29T00:15:03+00:00,1068537243,1068536783,1,Seahawks151515,Microsoft Office,/* History of releases */
+2022-01-29T00:11:53+00:00,1068536783,1067741467,1,Seahawks151515,Microsoft Office,
+2022-01-29T00:08:01+00:00,1068536239,1068536115,1,Seahawks151515,History of Microsoft Office,
+2022-01-29T00:07:12+00:00,1068536115,1068121331,1,Seahawks151515,History of Microsoft Office,
+2022-01-28T23:46:53+00:00,1068533440,1067730582,1,Seahawks151515,Microsoft Office 95,
+2022-01-28T23:44:51+00:00,1068533217,1067730849,1,Seahawks151515,Microsoft Office 97,
+2022-01-28T23:43:19+00:00,1068533061,1067731201,1,Seahawks151515,Microsoft Office 2000,
+2022-01-28T23:41:01+00:00,1068532854,1068121587,1,Seahawks151515,Microsoft Office XP,
+2022-01-28T23:37:40+00:00,1068532546,1067731974,1,Seahawks151515,Microsoft Office 2003,
+2022-01-28T23:35:44+00:00,1068532387,1068529558,1,Seahawks151515,Microsoft Office 2007,
+2022-01-28T23:31:11+00:00,1068531908,1068531807,1,Seahawks151515,Microsoft Office 2010,
+2022-01-28T23:30:21+00:00,1068531807,1068531476,1,Seahawks151515,Microsoft Office 2010,
+2022-01-28T23:26:41+00:00,1068531476,1068531105,1,Seahawks151515,Microsoft Office 2010,
+2022-01-28T23:22:58+00:00,1068531105,1068530888,1,Seahawks151515,Microsoft Office 2010,
+2022-01-28T23:21:03+00:00,1068530888,1068123657,1,Seahawks151515,Microsoft Office 2010,
+2022-01-28T23:09:27+00:00,1068529558,1068529252,1,Seahawks151515,Microsoft Office 2007,
+2022-01-28T23:06:57+00:00,1068529252,1067896624,1,Seahawks151515,Microsoft Office 2007,
+2022-05-05T15:41:11+00:00,1086335972,1086335715,1,TauBetaAlpha490,Collin Morikawa,
+2022-05-05T15:38:59+00:00,1086335687,1086335566,1,TauBetaAlpha490,Collin Morikawa,
+2022-05-05T15:37:39+00:00,1086335512,1086335455,1,TauBetaAlpha490,Collin Morikawa,
+2022-05-05T15:37:12+00:00,1086335455,1086334564,1,TauBetaAlpha490,Collin Morikawa,
+2022-05-05T15:31:40+00:00,1086334643,1084742432,1,TauBetaAlpha490,Chapman University,
+2022-05-05T15:30:36+00:00,1086334507,1086334460,1,TauBetaAlpha490,Collin Morikawa,
+2022-05-05T15:30:14+00:00,1086334460,1086334165,1,TauBetaAlpha490,Collin Morikawa,
+2022-05-05T15:28:09+00:00,1086334165,1086174233,1,TauBetaAlpha490,Collin Morikawa,
+2022-05-05T19:17:12+00:00,1086365279,1086365070,1,TheVillas4321,Collin Morikawa,
+2022-05-05T19:16:21+00:00,1086365163,1085827426,1,TheVillas4321,Lydia Ko,
+2022-05-05T19:15:52+00:00,1086365070,1086364890,1,TheVillas4321,Collin Morikawa,
+2022-05-05T19:14:34+00:00,1086364890,1086364525,1,TheVillas4321,Collin Morikawa,
+2022-05-05T19:11:35+00:00,1086364487,1086336025,1,TheVillas4321,Collin Morikawa,
+2022-02-01T21:54:32+00:00,1069353877,1069353493,1,Toby167644,User talk:Toby167644,
+2022-02-01T21:52:14+00:00,1069353493,1069352044,1,Toby167644,User talk:Toby167644,
+2022-02-01T21:42:03+00:00,1069352044,1069350996,1,Toby167644,User talk:Toby167644,
+2022-02-01T21:34:43+00:00,1069350996,1069350595,1,Toby167644,User talk:Toby167644,
+2022-02-01T21:31:53+00:00,1069350595,1069348321,1,Toby167644,User talk:Toby167644,
+2022-02-01T20:24:16+00:00,1069341017,1069340977,1,Toby167644,User talk:Toby167644,/* Edits on Microsoft Office 2007 */
+2022-02-01T20:24:03+00:00,1069340977,1069337321,1,Toby167644,User talk:Toby167644,
+2022-02-01T20:00:15+00:00,1069337321,1069335852,1,Toby167644,User talk:Toby167644,
+2022-02-01T19:50:17+00:00,1069335852,1069335798,1,Toby167644,User talk:Toby167644,[[WP:AES|←]]Blanked the page
+2022-02-01T19:47:28+00:00,1069335478,1069324387,1,Toby167644,User talk:Toby167644,/* February 2022 */
+2022-02-01T18:24:40+00:00,1069323099,1069219124,1,Toby167644,Microsoft Office 2007,
+2022-02-07T02:29:56+00:00,1070358434,1070352724,1,Zinfandel343,User talk:Zinfandel343,/* Username Not a Violation if Wikipedia Policy */
+2022-02-06T23:02:51+00:00,1070331794,1070330847,1,Zinfandel343,User talk:Zinfandel343,Requesting to be unblocked
+2022-02-06T22:56:07+00:00,1070330847,1070329250,1,Zinfandel343,User talk:Zinfandel343,
+2022-04-05T22:04:27+00:00,1081195954,1081195741,0,2600:6C50:37F:475D:85CE:F469:609B:E702,Chapman University,
+2021-12-08T00:44:57+00:00,1059193881,1059187301,0,TJRC,Allison Stokke,Reverted 1 edit by [[Special:Contributions/2A00:23C6:5589:E700:2D49:4A85:2B6B:7410|2A00:23C6:5589:E700:2D49:4A85:2B6B:7410]] ([[User talk:2A00:23C6:5589:E700:2D49:4A85:2B6B:7410|talk]]) to last revision by LizardJr8
+2022-03-27T18:18:47+00:00,1079610583,1079610425,0,Dove's talk,Allison Stokke,Reverted 1 edit by [[Special:Contributions/Loyola6363|Loyola6363]] ([[User talk:Loyola6363|talk]]) to last revision by Svartava
+2022-03-28T15:23:28+00:00,1079776071,1079776023,0,Serols,Chapman University,Reverted edits by [[Special:Contributions/MonallToby6834|MonallToby6834]] ([[User talk:MonallToby6834|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-09-08T20:16:47+00:00,1043188489,1036803986,0,ZemanZorg,Allison Stokke,/* Personal life */
+2021-12-08T16:11:57+00:00,1059290478,1059193135,0,Gentry862,Chapman University,add citation
+2022-02-13T20:50:18+00:00,1071683108,1071681416,0,MusikBot II,Allison Stokke,Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]])
+2022-01-09T03:56:26+00:00,1064584034,1064565541,0,Johnny Rose 11,Allison Stokke,Imperial first.
+2021-12-20T23:45:50+00:00,1061311576,1061311326,0,98.51.15.196,Chapman University,Added Jon link
+2021-12-03T19:26:48+00:00,1058476727,1058224696,0,198.175.251.209,Chapman University,
+2021-11-20T14:45:57+00:00,1056227388,1056226494,0,TSventon,Chapman University,"/* Brandman University */ add transfer to UMass using copied content from [[University of Massachusetts Global]], see that page's history for attribution"
+2021-11-26T07:55:04+00:00,1057226021,1057225805,0,AssumeGoodWraith,Chapman University,Rollback edit(s) by [[Special:Contributions/174.251.160.171|174.251.160.171]] ([[User_talk:174.251.160.171|talk]]): [[WP:CRV|Unexplained content removal]] [[w:en:WP:RW|(RW 16.1)]]
+2022-04-22T05:47:36+00:00,1084034179,1084034100,0,2601:602:A000:9590:0:0:0:928A,Chapman University,/* Argyros School of Business and Economics */
+2021-11-04T16:23:49+00:00,1053556661,1053317012,0,71.167.245.71,Chapman University,/* Dodge College of Film and Media Arts */Updated ranking
+2022-01-19T00:59:42+00:00,1066568709,1061311576,0,2607:FEA8:80A7:700:C82B:8F2F:6D10:E0AE,Chapman University,/* Brandman University */
+2022-02-12T17:00:19+00:00,1071441801,1071439315,0,MusikBot II,Chapman University,Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]])
+2022-03-02T18:57:04+00:00,1074886702,1071441801,0,InternetArchiveBot,Chapman University,Rescuing 4 sources and tagging 0 as dead.) #IABot (v2.0.8.6
+2021-10-29T18:56:46+00:00,1052537719,1052527195,0,Tewapack,Collin Morikawa,/* Summary */
+2022-03-25T15:11:29+00:00,1079199846,1079133220,0,Tewapack,Collin Morikawa,/* Personal life */
+2022-02-06T18:41:46+00:00,1070294301,1069128645,0,Jimmymci234,Collin Morikawa,
+2021-11-23T20:40:36+00:00,1056832832,1056600455,0,Jimmymci234,Collin Morikawa,
+2022-03-28T15:20:53+00:00,1079775664,1079775575,0,Serols,Collin Morikawa,Reverted edits by [[Special:Contributions/MonallToby6834|MonallToby6834]] ([[User talk:MonallToby6834|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2022-01-23T06:44:25+00:00,1067389541,1067389535,0,EvergreenFir,Collin Morikawa,Adding {{pp-vandalism}}
+2022-04-04T17:42:50+00:00,1080996238,1080806353,0,Jimmymci234,Collin Morikawa,/* Results timeline */
+2022-04-16T08:46:41+00:00,1082986828,1082070193,0,2601:985:780:F30:954A:7826:1E26:1916,Collin Morikawa,/* Personal life */
+2021-11-30T01:04:07+00:00,1057847478,1057847353,0,2601:CF:8201:440:24B1:F3C1:62B3:3CEA,Collin Morikawa,/* Summary */
+2022-03-19T16:44:54+00:00,1078057334,1076942983,0,Jimmymci234,Collin Morikawa,/* Results timeline */
+2022-03-13T19:28:47+00:00,1076942983,1075789138,0,Jimmymci234,Collin Morikawa,/* Results in The Players Championship */
+2021-12-17T17:20:31+00:00,1060786397,1060785926,0,2407:7000:9C9D:FD00:50E1:FC9A:AC94:2159,Collin Morikawa,/* Summary */
+2022-03-07T18:06:25+00:00,1075789138,1074781547,0,Jimmymci234,Collin Morikawa,/* Results in The Players Championship */
+2022-04-11T06:16:10+00:00,1082070193,1082035948,0,Almostaghost,Collin Morikawa,/* Summary */
+2022-01-10T01:54:39+00:00,1064755517,1064694134,0,Brandonlw97,Collin Morikawa,
+2021-12-30T06:04:47+00:00,1062735401,1062721623,0,Tewapack,Collin Morikawa,move section
+2021-08-21T08:09:07+00:00,1039871483,1028795594,0,Edwardx,Harveys Lake Tahoe,Filled in 4 bare reference(s) with reFill 2
+2021-11-12T19:37:06+00:00,1054919445,1054328967,0,Frietjes,Common year starting on Friday,
+2021-12-31T11:43:38+00:00,1062958727,1054919445,0,68.197.54.51,Common year starting on Friday,
+2022-03-14T06:48:17+00:00,1077034930,1066982411,0,JJMC89 bot III,Harveys Lake Tahoe,Moving [[:Category:Caesars Entertainment (2020)]] to [[:Category:Caesars Entertainment]] per [[Wikipedia:Categories for discussion/Speedy]]
+2022-03-12T11:36:01+00:00,1076684045,1073195349,0,Seloloving,History of Microsoft Office,v2.04 - Fix errors for [[WP:WCW|CW project]] (Unbalanced quotes in ref name or illegal character.)
+2021-12-05T16:47:23+00:00,1058790172,1057169191,0,79.125.241.179,History of Microsoft Office,/* Office versions */
+2021-11-17T17:42:01+00:00,1055766629,1053079367,0,Citation bot,History of Microsoft Office,"Add: title, date, year, authors 1-1. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1139/2192"
+2021-12-29T21:20:18+00:00,1062672348,1062672223,0,Nick Levine,History of Microsoft Office,"Restored revision 1058790172 by [[Special:Contributions/79.125.241.179|79.125.241.179]] ([[User talk:79.125.241.179|talk]]): Rvv, multiple related IPs but same vandalism style"
+2021-10-29T18:34:39+00:00,1052535310,1052417908,0,Allan Bao,Leap year starting on Thursday,Unneeded to say that since both [[Independence Day (United States)|U.S. Independence Day]] and [[Halloween]] fall on the same day of the week.
+2022-03-18T00:12:50+00:00,1077743102,1068845548,0,Petr1998,Leap year starting on Thursday,twice
+2021-12-03T01:02:33+00:00,1058350983,1048234204,0,Citation bot,Marian Marsh,Alter: url. URLs might have been anonymized. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_webform 606/2200
+2022-04-18T20:26:26+00:00,1083437666,1083408427,0,TheWxResearcher,Leap year starting on Wednesday,
+2021-12-03T14:21:05+00:00,1058437394,1058350983,0,Ser Amantio di Nicolao,Marian Marsh,add category [[Category:21st-century American women]]
+2021-11-16T12:22:47+00:00,1055535866,1055480349,0,KH-1,Microsoft Office,
+2021-11-15T22:48:12+00:00,1055446414,1055412086,0,Tewapack,Lydia Ko,/* LPGA Tour career summary */
+2022-01-31T14:38:27+00:00,1069071650,1068981512,0,Citation bot,Microsoft Office,Alter: template type. Add: newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_toolbar
+2022-02-26T04:21:04+00:00,1074050685,1073537488,0,S. Abhiram,Microsoft Office,
+2022-01-04T18:58:30+00:00,1063755612,1063135115,0,Frietjes,Leap year starting on Wednesday,
+2021-05-23T13:55:34+00:00,1024667206,1024662151,0,Jonesey95,"Merion Station, Pennsylvania",Fix [[Special:LintErrors|Linter]] errors.
+2021-10-28T13:53:34+00:00,1052312882,1051947715,0,Herobrine,Microsoft Office,
+2022-02-11T23:54:37+00:00,1071307925,1024667206,0,Galactic-Radiance,"Merion Station, Pennsylvania",correct area_code parameter (via [[WP:JWB]])
+2022-05-02T17:43:19+00:00,1085827426,1085731838,0,Zefr,Lydia Ko,/* World ranking */ OWGR
+2021-12-12T21:14:59+00:00,1059988857,1059089600,0,Citation bot,Microsoft Office,"Add: website, date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 1969/2186"
+2022-02-17T17:35:04+00:00,1072426573,1071904173,0,92.53.16.179,Microsoft Office 2000,New changes
+2021-11-22T03:09:14+00:00,1056490177,1056357996,0,Trivialist,Microsoft Office 2003,Restored revision 1052247581 by [[Special:Contributions/135.26.190.155|135.26.190.155]] ([[User talk:135.26.190.155|talk]])
+2022-01-14T18:07:18+00:00,1065669538,1065169302,0,92.53.17.84,Microsoft Office 2003,
+2022-02-27T15:49:07+00:00,1074308132,1073599183,0,195.174.137.203,Microsoft Office 2003,/* Editions */
+2021-12-02T04:47:10+00:00,1058217016,1057170461,0,135.26.187.87,Microsoft Office 2003,
+2022-02-14T23:56:04+00:00,1071904171,1068532546,0,Drmies,Microsoft Office 2003,"rv sock, vandal"
+2021-12-30T21:27:09+00:00,1062841229,1062671311,0,185.83.254.248,Microsoft Office 2003,
+2022-02-23T14:48:37+00:00,1073599183,1072426987,0,S. Abhiram,Microsoft Office 2003,"""not officially supported"" to ""officially unsupported"""
+2021-12-12T21:20:21+00:00,1059989522,1057769463,0,Citation bot,Microsoft Office 2007,Add: website. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 1979/2186
+2022-03-16T05:44:21+00:00,1077416386,1076369564,0,ZI Jony,Microsoft Office 2007,v2.04b - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2022-01-10T18:59:36+00:00,1064894279,1064689003,0,Star Garnet,Microsoft Office 2007,sp
+2021-11-29T15:32:47+00:00,1057769463,1057769446,0,ClueBot NG,Microsoft Office 2007,"Reverting possible vandalism by [[Special:Contribs/2402:4000:20C2:285E:EA:C1AA:D64:895C|2402:4000:20C2:285E:EA:C1AA:D64:895C]] to version by Serols. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4085706) (Bot)"
+2022-02-22T14:25:50+00:00,1073396875,1072427404,0,Renamed user 23o2iqy4ewqoiudh,Microsoft Office 2007,
+2021-10-18T12:30:07+00:00,1050535878,1048533259,0,Citation bot,Microsoft Office 2007,"Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_new_bare_URL_refs | #UCB_webform_linked 1215/2000"
+2021-12-08T20:48:27+00:00,1059328924,1058791176,0,2601:204:C403:1A80:7493:9D0:6B5C:8ABA,Microsoft Office 2010,add years to succession in infobox to match other MSO wikipedia entries
+2022-01-09T18:51:34+00:00,1064691930,1063144973,0,92.53.17.89,Microsoft Office 2010,
+2021-11-25T22:24:51+00:00,1057170872,1056785250,0,92.53.44.168,Microsoft Office 2010,
+2022-03-11T04:29:52+00:00,1076444614,1076444206,0,134.71.161.48,Microsoft Office 2010,Undid revision 1075172257 by [[Special:Contributions/Pritomroys|Pritomroys]] ([[User talk:Pritomroys|talk]]) because of vandalism
+2021-10-13T03:25:16+00:00,1049663252,1049582401,0,135.26.190.155,Microsoft Office 2010,such pointless distinctions; no need for 'RTM'
+2021-11-23T14:49:37+00:00,1056785250,1056490145,0,Jdee4,Microsoft Office 2010,Discontinued
+2022-01-03T14:33:02+00:00,1063522782,1060721783,0,ZI Jony,Microsoft Office 2013,v2.04b - Fix errors for [[WP:WCW|CW project]] (Break in list)
+2022-04-10T08:22:04+00:00,1081888480,1080952144,0,92.53.17.236,Microsoft Office 2013,New changes
+2022-04-21T20:38:47+00:00,1083965401,1081888480,0,92.53.17.236,Microsoft Office 2013,New changes
+2022-04-04T12:44:32+00:00,1080952144,1078151014,0,Bchoi152,Microsoft Office 2013,"Changed an incorrect ""have to ""has"" in ""Microsoft have stated that Office 2013 is not supported in Windows 11."""
+2021-12-17T07:38:48+00:00,1060721783,1060721421,0,171.252.189.62,Microsoft Office 2013,
+2022-01-23T20:57:14+00:00,1067507306,1067506476,0,174.251.169.144,Microsoft Office 2013,
+2021-12-19T21:19:48+00:00,1061132947,1060838792,0,93.42.71.16,Microsoft Office 2016,
+2022-04-17T07:18:55+00:00,1083136822,1083019012,0,92.53.17.236,Microsoft Office 2016,New changes
+2022-03-20T03:57:01+00:00,1078150740,1076411600,0,Xiejunmingsa,Microsoft Office 2016,
+2021-10-13T15:58:52+00:00,1049743077,1048534604,0,Thirdie Ogena,Microsoft Office 2019,
+2021-11-25T17:57:25+00:00,1057136980,1057135869,0,138.75.36.199,Microsoft Office 2019,
+2022-03-06T07:18:06+00:00,1075521058,1075521032,0,HMSLavender,Microsoft Office 2016,Reverted edits by [[Special:Contributions/2409:4053:17:C16:0:0:1962:78B0|2409:4053:17:C16:0:0:1962:78B0]] ([[User talk:2409:4053:17:C16:0:0:1962:78B0|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-03-14T12:28:40+00:00,1077078702,1077078642,0,SkyWolf369,Microsoft Office 2019,Reverted 1 edit by [[Special:Contributions/Zoualie|Zoualie]] ([[User talk:Zoualie|talk]]) to last revision by SkyeWolf369
+2022-03-07T04:37:19+00:00,1075691103,1075677561,0,Schierbecker,Microsoft Office 2019,Reverted edits by [[Special:Contribs/118.68.165.40|118.68.165.40]] ([[User talk:118.68.165.40|talk]]) to last version by Mojave122
+2022-02-13T20:04:28+00:00,1071676256,1071639717,0,118.211.168.159,Microsoft Office 2021,
+2022-01-16T14:13:13+00:00,1066034392,1063352332,0,Newzack,Microsoft Office 2021,"added a link to the missing definition of ""XLOOKUP"" feature"
+2022-03-27T12:45:35+00:00,1079561648,1072426109,0,92.53.16.187,Microsoft Office 95,New changes
+2022-01-09T18:29:30+00:00,1064688496,1063034171,0,92.53.17.89,Microsoft Office 95,
+2022-01-20T17:27:01+00:00,1066895896,1060722010,0,Flexperte,Microsoft Office 2019,/* OS Support */  Last supported Release versions for Office 2019 for Mac
+2021-11-25T22:11:11+00:00,1057169377,1048532666,0,92.53.44.168,Microsoft Office 97,
+2022-02-17T21:40:05+00:00,1072460319,1072426291,0,Keith D,Microsoft Office 97,Remove ref year as mismatches date field
+2021-04-16T04:41:35+00:00,1018077583,989630734,0,NaTRenKO,Microsoft Office 98 Macintosh Edition,Updating Infobox (Removing unknown parameter 'status')
+2022-01-21T03:32:15+00:00,1066982413,1066977277,0,C.Fred,Microsoft Office 98 Macintosh Edition,Reverted edits by [[Special:Contribs/Merlot1340|Merlot1340]] ([[User talk:Merlot1340|talk]]) to last version by NaTRenKO
+2022-01-07T14:51:54+00:00,1064277189,1063594444,0,Dorrough618,Microsoft Office XP,
+2021-11-25T22:18:20+00:00,1057170145,1056490162,0,92.53.44.168,Microsoft Office XP,
+2022-03-27T19:00:50+00:00,1079617123,1079562428,0,185.100.245.225,Microsoft Office XP,New changes
+2021-11-09T13:24:43+00:00,1054340264,1050097613,0,Explicit,Microsoft Office XP,Removing link(s) [[Wikipedia:Articles for deletion/Paul Thurrott]] closed as delete ([[WP:XFDC#4.0.12|XFDcloser]])
+2022-01-11T17:04:27+00:00,1065067446,1065062878,0,174.17.60.189,Northern Arizona University,put campus name into proper style
+2021-11-23T20:18:30+00:00,1056829671,1056721471,0,WikiCleanerBot,Northern Arizona University,v2.04b - [[User:WikiCleanerBot#T23|Bot T23 CW#558]] - Fix errors for [[WP:WCW|CW project]] (Duplicated reference)
+2022-01-30T21:00:55+00:00,1068930372,1068928793,0,WhisperToMe,Northern Arizona University,/* External links */
+2022-02-15T00:03:22+00:00,1071905176,1070167596,0,134.114.101.49,Northern Arizona University,/* Statewide campuses and NAU Online */ fixed grammar issues
+2022-03-31T03:28:51+00:00,1080243490,1080215098,0,ElKevbo,Northern Arizona University,/* top */ unnecessarily detailed
+2022-04-20T21:29:26+00:00,1083810816,1083810703,0,134.114.101.52,Northern Arizona University,Changed article.
+2021-11-02T16:31:04+00:00,1053218503,1053216919,0,134.114.101.50,Northern Arizona University,fixed broken link
+2021-12-27T18:32:34+00:00,1062315073,1059021457,0,Orenburg1,Northern Arizona University,sp
+2021-10-27T19:57:23+00:00,1052173776,1052172680,0,174.26.73.193,Northern Arizona University,updated URL
+2021-11-28T21:32:20+00:00,1057650397,1057650252,0,76.69.10.251,Northern Arizona University,/* Academics */
+2022-03-12T16:12:14+00:00,1076721603,1075889330,0,Dewritech,Northern Arizona University,"clean up, [[WP:AWB/T|typo(s) fixed]]: Institute → institute, full time → full-time"
+2022-01-11T20:13:48+00:00,1065095019,1065067446,0,174.17.60.189,Northern Arizona University,edited for clarity and accuracy
+2022-01-25T03:38:03+00:00,1067778949,1067778923,0,GoldMiner24,Northern Arizona University,Reverting edit(s) by [[Special:Contributions/174.251.162.28|174.251.162.28]] ([[User_talk:174.251.162.28|talk]]) to rev. 1067778841 by ClueBot NG: [[WP:CRV|Unexplained content removal]] [[w:en:WP:RW|(RW 16.1)]]
+2021-12-06T23:51:53+00:00,1059021457,1058726042,0,Guomuxing,Northern Arizona University,Edited introduction and the text structure of academics.
+2022-04-05T22:06:35+00:00,1081196175,1081195964,0,134.114.101.52,Northern Arizona University,/* Recreation services */ updated name of building
+2021-11-22T08:40:17+00:00,1056524449,1056269005,0,Guomuxing,Northern Arizona University,Edited introductory page.
+2022-02-06T02:02:33+00:00,1070167596,1070167245,0,Alpaca the Wizard,Northern Arizona University,Reverted 1 edit by [[Special:Contributions/73.192.226.42|73.192.226.42]] ([[User talk:73.192.226.42|talk]]) to last revision by Njd-de
+2021-10-18T02:19:51+00:00,1050476757,1024028198,0,Shortride,Penny Publications,
+2022-01-23T11:17:27+00:00,1067422320,1067422284,0,AssumeGoodWraith,Northern Arizona University,Reverted edits by [[Special:Contribs/BayPackers1444|BayPackers1444]] ([[User talk:BayPackers1444|talk]]) to last version by ਰਵੀ ਸਹਿਗਲ
+2022-01-25T01:17:53+00:00,1067759613,1067759439,0,Suonii180,"University of California, Davis",Restored revision 1067759411 by [[Special:Contributions/ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]): Unexplained removal of content
+2022-04-21T22:21:06+00:00,1083977847,1083964619,0,ElKevbo,"University of California, Davis","no thanks; the ""academic affiliations"" parameter of the [[:Template:Infobox university|Infobox university template]] is intended for ""Academic organizations of which the institution is a member and provide [[Wikipedia:Defining|essential definition]] of the institution (mission, values, activities, etc.)."""
+2022-02-01T23:00:18+00:00,1069362047,1069361962,0,Bbb23,User talk:Toby167644,/* Edits on Microsoft Office 2007 */ tpa revoked
+2021-12-13T09:06:14+00:00,1060075708,1059494604,0,Cyanidethistles,"Utqiagvik, Alaska",/* Education */
+2022-03-30T23:36:39+00:00,1080215638,1077187334,0,DesertInfo,"Utqiagvik, Alaska",changed 'also' to 'formerly'
+2021-06-07T12:41:57+00:00,1027353600,1026542521,0,Belevalo,Allison Stokke,removing unsourced opinion
+2021-05-02T23:12:26+00:00,1021106736,1020633898,0,GetOverYourWikiSelf,Allison Stokke,/* Later career */
+2021-08-10T00:11:51+00:00,1038007725,1036967474,0,Sdkb,Chapman University,"/* top */[[WP:GENFIX|General]] clean up and update [[Template_talk:Infobox_university#Template_shortcomings|deprecated name]] of parameter, replaced: | staff = → | administrative_staff ="
+2021-08-21T19:10:39+00:00,1039949259,1038007725,0,98.191.146.202,Chapman University,/* Alumni */
+2022-01-13T06:06:09+00:00,1065371611,1064584034,0,Killerbkh,Allison Stokke,
+2021-06-02T22:01:44+00:00,1026542521,1026539833,0,AnomieBOT,Allison Stokke,Dating maintenance tags: {{Citation needed}}
+2021-09-15T15:38:41+00:00,1044503229,1044327316,0,206.211.155.20,Chapman University,/* Notable people */
+2021-04-25T09:55:51+00:00,1019774200,1015922283,0,WereSpielChequers,Chapman University,c/e
+2022-03-10T02:00:17+00:00,1076234452,1076233996,0,Ooligan,Chapman University,Description added
+2021-05-17T05:18:55+00:00,1023583037,1022906212,0,2603:8001:3944:2534:B83D:5EF3:C7B0:782A,Chapman University,
+2021-08-03T19:01:47+00:00,1036967474,1036295807,0,Vns08121721,Chapman University,
+2022-03-02T04:13:17+00:00,1074781547,1074781505,0,Mako001,Collin Morikawa,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/2601:204:4100:AC60:DCA6:95D1:39BB:F40|2601:204:4100:AC60:DCA6:95D1:39BB:F40]] ([[User talk:2601:204:4100:AC60:DCA6:95D1:39BB:F40|talk]]) to last revision by Oopsemoops: unexplained content removal
+2021-05-08T20:25:35+00:00,1022157089,1022156895,0,BlueMoon65625,Collin Morikawa,Undid revision 1022156895 by [[Special:Contributions/BlueMoon65625|BlueMoon65625]] ([[User talk:BlueMoon65625|talk]])
+2021-07-21T11:36:50+00:00,1034710317,1034710179,0,BlueMoon65625,Collin Morikawa,
+2021-10-27T07:04:36+00:00,1052074362,1052067275,0,174.251.167.239,Collin Morikawa,
+2022-02-23T12:23:42+00:00,1073581540,1070294301,0,DumbBOT,Collin Morikawa,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2021-04-22T07:03:26+00:00,1019237881,1018946172,0,CommonsDelinker,Collin Morikawa,"Removing [[:c:File:Collin_Morikawa_Wins_2020_PGA_Championship.jpg|Collin_Morikawa_Wins_2020_PGA_Championship.jpg]]; it has been deleted from Commons by [[:c:User:Gbawden|Gbawden]] because: [[:c:COM:NETCOPYRIGHT|Copyright violation]], found elsewhere on th"
+2021-06-03T20:38:43+00:00,1026710418,1025493219,0,Reopenmyschool,Common year starting on Friday,
+2021-09-28T01:15:28+00:00,1046908508,1044071989,0,76.189.167.161,Common year starting on Friday,
+2021-04-25T02:35:58+00:00,1019729678,1019618127,0,Toohool,Harveys Lake Tahoe,restore correct year
+2022-01-15T21:05:01+00:00,1065895935,1064813415,0,92.53.16.29,History of Microsoft Office,
+2021-10-06T14:21:46+00:00,1048533641,1048533538,0,69.120.241.199,History of Microsoft Office,/* Office versions */
+2021-04-20T18:35:56+00:00,1018946172,1017292904,0,Resynkkk,Collin Morikawa,Added image reference of individual.
+2022-01-26T19:10:00+00:00,1068121331,1067730267,0,92.53.17.96,History of Microsoft Office,New changes
+2021-11-01T19:39:27+00:00,1053079367,1048533641,0,Er Maqui,History of Microsoft Office,Added Office 2021 to list
+2021-05-01T23:45:00+00:00,1020941552,1020941504,0,LizardJr8,History of Microsoft Office,Reverted edits by [[Special:Contributions/37.236.160.19|37.236.160.19]] ([[User talk:37.236.160.19|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-05-05T18:36:55+00:00,1021620288,1021618378,0,BlueMoon65625,Leap year starting on Thursday,
+2021-04-24T15:54:29+00:00,1019647490,1019079712,0,40bus,Leap year starting on Thursday,/* Gregorian Calendar */
+2021-06-15T12:49:15+00:00,1028687629,1026711055,0,2601:14A:600:7450:F1B5:DBC4:1662:E3F9,Leap year starting on Wednesday,
+2021-12-13T18:44:52+00:00,1060143372,1058437394,0,Fayenatic london,Marian Marsh,Removing from [[Category:Disease-related deaths in California]] [[Wikipedia:Categories_for_discussion/Log/2021_October_31#Disease-related_deaths]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2021-04-26T04:54:58+00:00,1019921206,1019652771,0,Y-take,Marian Marsh,
+2021-10-04T23:05:18+00:00,1048234204,1048232005,0,Bruce1ee,Marian Marsh,fixed [[Special:LintErrors|lint errors]] – multiple unclosed formatting tags
+2022-03-08T06:57:44+00:00,1075892491,1075884386,0,Materialscientist,"Merion Station, Pennsylvania",Reverted edits by [[Special:Contribs/AlpineCory324|AlpineCory324]] ([[User talk:AlpineCory324|talk]]) to last version by Galactic-Radiance
+2021-06-18T23:00:52+00:00,1029269905,1029068947,0,Inverted Hourglass,Microsoft Office,/* Core apps and services */ fixed comma splice
+2021-05-25T11:53:10+00:00,1025041263,1024951459,0,Computerdogs517,Microsoft Office,update outdated info
+2021-08-15T08:53:02+00:00,1038874026,1037558896,0,Officer781,Microsoft Office,/* Core apps and services */Teams has already replaced skype for business
+2021-09-16T22:32:23+00:00,1044754382,1044716069,0,TheBuddy92,Microsoft Office,Office 2021 release date revealed.
+2021-04-26T08:33:08+00:00,1019943278,1019320936,0,KuiperDash,Microsoft Office,Added info to the page...
+2021-05-13T17:09:57+00:00,1022986104,1022793233,0,Paper Luigi,Microsoft Office,Cleaned up using [[WP:AutoEd|AutoEd]]- Reference edited with [[Wikipedia:ProveIt|ProveIt]]
+2021-07-18T07:31:53+00:00,1034170137,1032859558,0,Isi96,Microsoft Office 2000,
+2021-10-06T14:14:00+00:00,1048532600,1048531741,0,69.120.241.199,Microsoft Office 2000,
+2021-07-17T13:53:15+00:00,1034052079,1032785644,0,Old Naval Rooftops,Microsoft Office,/* Microsoft Office 2021 */
+2021-10-06T14:25:14+00:00,1048534087,1048532510,0,69.120.241.199,Microsoft Office 2003,
+2021-07-28T21:19:37+00:00,1035994091,1035991881,0,66.212.221.249,Microsoft Office 2003,
+2021-07-12T15:52:56+00:00,1033260509,1032996340,0,66.212.221.249,Microsoft Office 2007,
+2021-06-08T14:57:26+00:00,1027544639,1027544389,0,66.212.221.249,Microsoft Office 2003,/* Support Lifecycle */
+2021-05-06T18:49:17+00:00,1021796979,1021351276,0,Rozniak,Microsoft Office 2007,/* Editions */ Missing space.
+2022-03-23T21:57:43+00:00,1078891875,1077416386,0,66.116.49.34,Microsoft Office 2007,
+2021-09-17T04:20:40+00:00,1044797780,1044583278,0,66.116.54.187,Microsoft Office 2010,
+2021-08-18T11:00:00+00:00,1039380514,1039380411,0,93.44.108.28,Microsoft Office 2010,Conflicts with source
+2021-07-02T14:25:32+00:00,1031599615,1030901938,0,Purplneon486,Microsoft Office 2010,/* Comparison */ Fixed slightly broken table
+2021-07-12T21:04:13+00:00,1033303717,1033300692,0,146.212.88.227,Microsoft Office 2010,
+2021-05-04T07:59:27+00:00,1021353763,1021353329,0,KuiperDash,Microsoft Office 2013,Undid revision 1021353329 by [[Special:Contributions/KuiperDash|KuiperDash]] ([[User talk:KuiperDash|talk]])
+2022-02-19T11:03:05+00:00,1072769095,1072428099,0,92.53.17.12,Microsoft Office 2013,New changes
+2021-07-27T05:39:00+00:00,1035697849,1035697821,0,Rdp060707,Microsoft Office 2016,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/2402:3A80:691:23E1:0:44:A04D:8401|2402:3A80:691:23E1:0:44:A04D:8401]] ([[User talk:2402:3A80:691:23E1:0:44:A04D:8401|talk]]) to last revision by AnomieBOT: not adhering to [[WP:MOS|manual of style]]
+2021-04-26T14:59:25+00:00,1019986740,1019986546,0,JaykeBird,Microsoft Office 2016,/* Removed features */ removed extra space
+2021-08-15T14:35:24+00:00,1038911988,1037638364,0,69.120.241.199,Microsoft Office 2016,
+2021-05-14T16:33:03+00:00,1023142958,1019986740,0,24.16.194.98,Microsoft Office 2016,
+2021-07-24T06:56:45+00:00,1035190049,1031874019,0,117.1.111.160,Microsoft Office 2019,/* Traditional editions */
+2021-07-25T22:07:18+00:00,1035473393,1009756215,0,Uzume,Microsoft Office 95,/* Issues */ [[JET Database Engine]]
+2021-10-08T11:52:34+00:00,1048860361,1048533035,0,STshivam,Microsoft Office 95,
+2021-10-18T12:54:43+00:00,1050539128,1049888117,0,TheBuddy92,Microsoft Office 2021,
+2021-12-31T21:19:32+00:00,1063034171,1062873162,0,92.53.16.8,Microsoft Office 95,
+2021-10-06T14:14:30+00:00,1048532666,1048531699,0,69.120.241.199,Microsoft Office 97,
+2021-05-04T07:18:21+00:00,1021349809,1020700986,0,KuiperDash,Microsoft Office XP,Added info to the page...
+2021-06-08T15:03:38+00:00,1027545442,1027545413,0,66.212.221.249,Microsoft Office XP,/* Service packs */
+2021-08-25T19:06:29+00:00,1040636592,1040636406,0,208.107.146.216,Microsoft Office XP,/* Support Lifecycle */
+2021-04-30T15:35:35+00:00,1020700986,1019868606,0,SmartyPants22,Microsoft Office XP,"Restored revision 1018980591 by [[Special:Contributions/66.116.53.123|66.116.53.123]] ([[User talk:66.116.53.123|talk]]): Unsourced, please read [[WP:CS]] and [[WP:CITE]] on how to reliably source your edits"
+2021-09-17T21:56:27+00:00,1044943841,1041523877,0,Xpclient,Microsoft Office XP,There is no such product.
+2021-08-28T17:47:49+00:00,1041119753,1041118249,0,CodeTalker,Northern Arizona University,Reverted 3 edits by [[Special:Contributions/134.114.223.252|134.114.223.252]] ([[User talk:134.114.223.252|talk]]) to last revision by Goszei
+2021-04-10T19:20:21+00:00,1017091045,1014513180,0,PolySciRBWGirl,Northern Arizona University,/* Statewide campuses and NAU Online */ fixed sentence structure
+2021-10-21T20:06:02+00:00,1051140836,1047997262,0,134.114.223.254,Northern Arizona University,/* Alumni */
+2021-11-20T19:50:05+00:00,1056269005,1055453210,0,Joshua Whitman,Northern Arizona University,
+2021-07-21T21:16:15+00:00,1034793703,1034608721,0,Goszei,Northern Arizona University,/* top */more concise SD per [[WP:SDSHORT]]
+2021-09-12T02:07:53+00:00,1043798372,1043229869,0,134.114.223.243,Northern Arizona University,/* Freshman residence halls */
+2021-12-05T06:21:05+00:00,1058726042,1058725990,0,Melecie,Northern Arizona University,Reverting edit(s) by [[Special:Contributions/174.251.160.255|174.251.160.255]] ([[User_talk:174.251.160.255|talk]]) to rev. 1058725377 by LizardJr8: [[WP:CRV|Unexplained content removal]] [[w:en:WP:RW|(RW 16.1)]]
+2021-05-18T20:34:19+00:00,1023872778,1017091045,0,103.211.60.50,Northern Arizona University,
+2021-06-14T18:25:17+00:00,1028566005,1028538262,0,134.114.107.172,Northern Arizona University,
+2021-09-20T22:28:18+00:00,1045508572,1045507488,0,134.114.107.74,Northern Arizona University,updated number of currently available degree programs
+2021-10-03T18:17:43+00:00,1047997262,1047976746,0,76.66.167.75,Northern Arizona University,/* Academics */
+2021-06-05T15:45:39+00:00,1027015012,1025156423,0,2002zk,Northern Arizona University,
+2022-04-08T18:54:25+00:00,1081646643,1081196175,0,Chris the speller,Northern Arizona University,cap
+2021-05-19T18:00:31+00:00,1024028198,1022475323,0,167.100.66.130,Penny Publications,/* History */Fixed date typo.
+2021-05-26T01:44:21+00:00,1025156423,1023872778,0,Oooooooseven,Northern Arizona University,Removed confusing address
+2021-12-17T17:37:51+00:00,1060789031,1059066713,0,I dream of horses,"University of California, Davis",[[WP:RANPP|Random page patrol]] with [[WP:AWB|AutoWikiBrowser]]
+2021-06-13T05:55:09+00:00,1028308330,1025987276,0,Stephan Leeds,"Utqiagvik, Alaska",/* top */ nonsense “ frequent prevalence of [[permafrost]].”
+2021-05-10T18:36:30+00:00,1022477340,1022456007,0,TOttenville8,"Utqiagvik, Alaska","/* Endless daylight, midnight sun */ The sun does/did not set on May 10, 2021"
+2021-08-27T20:46:37+00:00,1040981139,1040879204,0,Shamm01,"Utqiagvik, Alaska",

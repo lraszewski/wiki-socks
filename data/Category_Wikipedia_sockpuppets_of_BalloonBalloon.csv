@@ -1,0 +1,36 @@
+timestamp,revid,parentid,sock,user,page,message
+2020-12-12T17:03:04+00:00,993813411,993813230,1,BalloonBalloon,Moran Cerf,/* Neuroscience */
+2020-12-12T17:02:04+00:00,993813230,993813154,1,BalloonBalloon,Moran Cerf,/* Neuroscience */
+2020-12-12T17:01:41+00:00,993813154,993813058,1,BalloonBalloon,Moran Cerf,/* Education */
+2020-12-12T17:01:07+00:00,993813058,993812901,1,BalloonBalloon,Moran Cerf,/* Hollywood */
+2020-12-12T17:00:20+00:00,993812901,993812748,1,BalloonBalloon,Moran Cerf,/* Personal life */
+2020-12-12T16:59:34+00:00,993812748,993811346,1,BalloonBalloon,Moran Cerf,Removed faulty refs.
+2020-12-12T16:51:59+00:00,993811346,993811065,1,BalloonBalloon,Moran Cerf,"/* Philanthropy */ Removed un-sourced ""rumors""."
+2020-12-12T16:50:29+00:00,993811065,993810826,1,BalloonBalloon,Moran Cerf,/* Neuroscience */ Removed subjective comments by Cerf.
+2020-12-12T16:48:54+00:00,993810826,993810597,1,BalloonBalloon,Moran Cerf,Some cleaning up.
+2020-12-12T16:47:27+00:00,993810597,993809906,1,BalloonBalloon,Moran Cerf,
+2020-12-12T16:43:29+00:00,993809906,993808892,1,BalloonBalloon,Moran Cerf,/* Career */
+2020-12-12T16:37:54+00:00,993808892,993808558,1,BalloonBalloon,Moran Cerf,/* Hacking */
+2020-12-12T16:35:42+00:00,993808558,993806823,1,BalloonBalloon,Moran Cerf,/* Education */ Edited out some unnecessary claims by Cerf.
+2020-12-12T16:25:30+00:00,993806823,993805285,1,BalloonBalloon,Moran Cerf,/* Research */ Removed non-existing quote from Philip Kotler. Also removed references to articles not written by Cerf.
+2020-12-12T16:15:35+00:00,993805285,993804404,1,BalloonBalloon,Moran Cerf,/* Early life and background */ Removed unsupported claims.
+2020-12-12T16:09:42+00:00,993804404,993803982,1,BalloonBalloon,Moran Cerf,/* Neuroscience */ Removal of self aggrandizement.
+2020-12-12T16:06:52+00:00,993803982,993803533,1,BalloonBalloon,Moran Cerf,/* Notable research */ This section needs references to published academic papers.
+2020-12-12T16:03:59+00:00,993803533,993802848,1,BalloonBalloon,Moran Cerf,Removed factually-incorrect description.
+2020-12-12T16:00:13+00:00,993802848,993802372,1,BalloonBalloon,Moran Cerf,/* Education */
+2020-12-12T15:56:51+00:00,993802372,993801437,1,BalloonBalloon,Moran Cerf,/* Early life and background */  Removed self-aggrandizement.
+2020-12-12T15:50:48+00:00,993801437,993801199,1,BalloonBalloon,Moran Cerf,/* Notable research */  Correction of syntax.
+2020-12-12T15:49:27+00:00,993801199,993800142,1,BalloonBalloon,Moran Cerf,"/* Notable research */ Removed reference to Ted talk since it does not belong under ""Notable research""."
+2020-12-12T15:43:06+00:00,993800142,993799373,1,BalloonBalloon,Moran Cerf,/* Filmography */ Removed un-sourced data.
+2020-12-12T15:38:25+00:00,993799373,993798408,1,BalloonBalloon,Moran Cerf,Removed unsupported personal acclaim. (Suspected to be written by Cerf himself.)
+2020-12-12T15:32:20+00:00,993798408,993797489,1,BalloonBalloon,Moran Cerf,/* Hollywood */  Removed redundant name-dropping.
+2020-12-12T15:26:25+00:00,993797489,993795927,1,BalloonBalloon,Moran Cerf,Removed poorly referenced sections.
+2020-12-12T15:16:08+00:00,993795927,993794992,1,BalloonBalloon,Moran Cerf,Removed due to lack of reference.
+2020-12-12T15:09:37+00:00,993794992,993669238,1,BalloonBalloon,Moran Cerf,/* Personal life */
+2020-12-12T19:43:23+00:00,993841202,993839145,1,SuryavanshiRajesh,Moran Cerf,/* Hollywood */ Renamed this section. Also removed an unrelated ref.
+2020-12-12T19:30:35+00:00,993839145,993838891,1,SuryavanshiRajesh,Moran Cerf,Removed hearsay.
+2020-12-12T19:28:49+00:00,993838844,993837820,1,SuryavanshiRajesh,Moran Cerf,/* Education */ Put some order into this very disorganized section.
+2020-12-12T19:23:05+00:00,993837820,993837271,1,SuryavanshiRajesh,Moran Cerf,"Again, removal of claims with no sources. What is going on here?"
+2020-12-12T19:20:12+00:00,993837271,993835028,1,SuryavanshiRajesh,Moran Cerf,/* Neuroscience */ Removal because of lack of references and sources.
+2020-12-12T18:56:45+00:00,993833140,993813411,1,SuryavanshiRajesh,Moran Cerf,/* Hacking */ Removed unverifiable information.
+2020-12-12T19:08:11+00:00,993835028,993833140,0,Govercon,Moran Cerf,Reverted to revision 993813411 by [[Special:Contributions/BalloonBalloon|BalloonBalloon]] ([[User talk:BalloonBalloon|talk]])

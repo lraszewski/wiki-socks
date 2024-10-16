@@ -1,0 +1,888 @@
+timestamp,revid,parentid,sock,user,page,message
+2018-04-05T21:53:39+00:00,834467386,830342671,1,Michael_182,Primetime Emmy Award for Outstanding Television Movie,1990s and 2010s into two single tables
+2018-04-05T21:47:36+00:00,834466282,830342529,1,Michael_182,Primetime Emmy Award for Outstanding Limited or Anthology Series,integrated 1990s into one table
+2018-04-04T21:56:10+00:00,834285655,834074378,1,Michael_182,Primetime Emmy Award for Outstanding Drama Series,not relevant
+2018-04-03T20:14:15+00:00,834074378,833790199,1,Michael_182,Primetime Emmy Award for Outstanding Drama Series,not necessary
+2018-04-02T13:01:52+00:00,833790199,830340929,1,Michael_182,Primetime Emmy Award for Outstanding Drama Series,merged cells
+2018-04-02T12:52:55+00:00,833788819,833648961,1,Michael_182,Academy Award for Best Director,one sortable table per WP consensus with added decades
+2018-04-02T12:47:28+00:00,833787998,833737602,1,Michael_182,Academy Award for Best Supporting Actress,one sortable table per WP consensus with added decades
+2018-04-02T12:43:35+00:00,833787428,833663967,1,Michael_182,Academy Award for Best Supporting Actor,one sortable table per WP consensus with added decades
+2018-04-02T12:37:25+00:00,833786458,833663606,1,Michael_182,Academy Award for Best Actress,one sortable table per WP consensus with added decades
+2018-04-02T12:32:15+00:00,833785663,833663815,1,Michael_182,Academy Award for Best Actor,different shade
+2018-04-01T12:46:34+00:00,833579989,833303083,1,Michael_182,Academy Award for Best Actor,one sortable table per WP consensus with added decades
+2018-04-01T12:40:18+00:00,833579020,833542229,1,Michael_182,Talk:Academy Award for Best Actor,/* Splitting table by decade */
+2018-03-31T12:23:52+00:00,833419697,833419665,1,Michael_182,Talk:Academy Award for Best Actor,/* Splitting table by decade */
+2018-03-31T12:23:36+00:00,833419665,833306777,1,Michael_182,Talk:Academy Award for Best Actor,/* Splitting table by decade */
+2018-03-30T13:15:29+00:00,833246588,831078898,1,Michael_182,Academy Award for Best Director,division by decades. See [[Talk:Academy Award for Best Actor]].
+2018-03-30T13:06:03+00:00,833245386,833006478,1,Michael_182,Academy Award for Best Supporting Actress,division by decades. See [[Talk:Academy Award for Best Actor]].
+2018-03-30T13:00:19+00:00,833244667,832685305,1,Michael_182,Academy Award for Best Supporting Actor,division by decades. See [[Talk:Academy Award for Best Actor]].
+2018-03-30T12:52:29+00:00,833243738,830395739,1,Michael_182,Academy Award for Best Actress,division by decades. See [[Talk:Academy Award for Best Actor]].
+2018-03-30T12:43:31+00:00,833242484,830910099,1,Michael_182,Academy Award for Best Actor,changes discussed in the talk page.
+2018-03-30T12:34:16+00:00,833241311,832391899,1,Michael_182,Talk:Academy Award for Best Actor,/* Splitting table by decade */
+2018-03-30T12:27:05+00:00,833240492,833055503,1,Michael_182,Primetime Emmy Award for Outstanding Comedy Series,not necessary
+2018-03-29T12:34:06+00:00,833055503,832936200,1,Michael_182,Primetime Emmy Award for Outstanding Comedy Series,not relevant
+2018-03-28T19:37:01+00:00,832936200,830340806,1,Michael_182,Primetime Emmy Award for Outstanding Comedy Series,merged cells
+2018-03-25T18:38:50+00:00,832391899,822668256,1,Michael_182,Talk:Academy Award for Best Actor,/* Splitting table by decade */
+2018-03-25T13:40:57+00:00,832353561,832351707,1,Michael_182,Palme d'Or,
+2018-03-25T13:22:31+00:00,832351707,832336313,1,Michael_182,Palme d'Or,"added decades, like Golden Lion and Golden Bear"
+2018-03-24T20:20:35+00:00,832253829,832249322,1,Michael_182,Golden Lion,one sortable table
+2018-03-24T19:52:53+00:00,832250748,824602867,1,Michael_182,Cannes Film Festival Award for Best Director,new column and decades
+2018-03-24T19:12:59+00:00,832246079,832246040,1,Michael_182,Cannes Film Festival Award for Best Actor,
+2018-03-24T19:12:40+00:00,832246040,832221307,1,Michael_182,Cannes Film Festival Award for Best Actor,
+2018-03-24T14:06:36+00:00,832207904,832207388,1,Michael_182,Cannes Film Festival Award for Best Actor,
+2018-03-24T14:02:15+00:00,832207388,829288333,1,Michael_182,Cannes Film Festival Award for Best Actor,see also
+2018-03-24T13:52:44+00:00,832206343,832206228,1,Michael_182,Cannes Film Festival Award for Best Actress,
+2018-03-24T13:51:30+00:00,832206228,832206116,1,Michael_182,Cannes Film Festival Award for Best Actress,/* See also */
+2018-03-24T13:50:40+00:00,832206116,832104707,1,Michael_182,Cannes Film Festival Award for Best Actress,
+2018-03-23T21:38:05+00:00,832104707,829258101,1,Michael_182,Cannes Film Festival Award for Best Actress,
+2018-03-23T20:50:02+00:00,832098817,832074598,1,Michael_182,Volpi Cup for Best Actor,
+2018-03-23T17:44:04+00:00,832074598,831433881,1,Michael_182,Volpi Cup for Best Actor,added new sections
+2018-03-23T17:43:06+00:00,832074418,832070693,1,Michael_182,Volpi Cup for Best Actress,links
+2018-03-23T17:18:33+00:00,832070693,829652189,1,Michael_182,Volpi Cup for Best Actress,changed columns and added decades
+2018-03-20T15:55:08+00:00,831433881,829273742,1,Michael_182,Volpi Cup for Best Actor,changed columns and added decades
+2018-03-20T15:35:26+00:00,831430643,831202779,1,Michael_182,Golden Bear,one sortable table
+2018-03-18T20:33:40+00:00,831111621,830045430,1,Michael_182,Silver Bear for Best Actor,Column arrangement.
+2018-03-18T20:25:31+00:00,831110512,829061493,1,Michael_182,Silver Bear for Best Actress,Changed column arrangement
+2018-03-07T13:50:52+00:00,829245636,790581852,1,Michael_182,Talk:Cannes Film Festival Award for Best Actress,/* Division by decades */ new section
+2018-03-02T02:05:39+00:00,828357018,828341227,1,Michael_182,Wikipedia talk:WikiProject Film,/* Discussion */
+2018-03-01T19:07:16+00:00,828297092,828295388,1,Michael_182,Wikipedia talk:WikiProject Film,"/* Request for comment on splitting film, director and actor award articles by decades */"
+2018-03-01T12:52:50+00:00,828249353,828181108,1,Michael_182,Wikipedia talk:WikiProject Film,/* Again the issue of splitting film award articles by decade */
+2018-02-28T14:53:36+00:00,828094164,828038554,1,Michael_182,Wikipedia talk:WikiProject Film,/* Again the issue of splitting film award articles by decade */
+2018-02-23T20:59:06+00:00,827285376,827281472,1,Michael_182,Wikipedia talk:WikiProject Film,/* Again the issue of splitting film award articles by decade */
+2018-02-23T01:55:03+00:00,827151727,827145074,1,Michael_182,Wikipedia talk:WikiProject Film,/* Again the issue of splitting film award articles by decade */
+2018-02-23T01:51:41+00:00,827151270,827136075,1,Michael_182,Golden Lion,"It was suggested in the talk page that the table should be divided by decades while also maintaining its sortability. As there wasn't a consensus against this idea, I proceed to restore the page."
+2018-02-13T13:19:42+00:00,825447406,0,1,Michael_182,Talk:Berlin Film Festival Award for Best Actress,Michael 182 moved page [[Talk:Berlin Film Festival Award for Best Actress]] to [[Talk:Silver Bear for Best Actress]] over redirect: It will make it easier for user to find the article.
+2018-02-13T13:19:42+00:00,825447405,824309399,1,Michael_182,Talk:Silver Bear for Best Actress,Michael 182 moved page [[Talk:Berlin Film Festival Award for Best Actress]] to [[Talk:Silver Bear for Best Actress]] over redirect: It will make it easier for user to find the article.
+2018-02-13T13:19:41+00:00,825447403,0,1,Michael_182,Berlin Film Festival Award for Best Actress,Michael 182 moved page [[Berlin Film Festival Award for Best Actress]] to [[Silver Bear for Best Actress]] over redirect: It will make it easier for user to find the article.
+2018-02-13T13:19:41+00:00,825447401,822599322,1,Michael_182,Silver Bear for Best Actress,Michael 182 moved page [[Berlin Film Festival Award for Best Actress]] to [[Silver Bear for Best Actress]] over redirect: It will make it easier for user to find the article.
+2018-02-06T16:06:44+00:00,824309399,824148822,1,Michael_182,Talk:Silver Bear for Best Actress,
+2017-11-28T19:08:41+00:00,812594090,812593297,1,Michael_182,Academy Award for Best Picture,Undid revision 812593297 by [[Special:Contributions/AldezD|AldezD]] ([[User talk:AldezD|talk]])
+2017-11-28T18:52:02+00:00,812591762,812573969,1,Michael_182,Academy Award for Best Picture,Name of Directors and Division by decades included.
+2017-11-28T17:23:20+00:00,812579372,812576810,1,Michael_182,Wikipedia talk:WikiProject Film,/* User splitting award lists by decades & disabling sortability */
+2017-11-28T17:19:29+00:00,812578827,777551279,1,Michael_182,Talk:Academy Award for Best Picture,/* Directors? */
+2017-11-28T16:43:21+00:00,812573648,812461830,1,Michael_182,Academy Award for Best Picture,Division by decades and directors included.
+2017-11-28T16:22:40+00:00,812570894,812556724,1,Michael_182,Wikipedia talk:WikiProject Film,/* User splitting award lists by decades & disabling sortability */
+2017-11-27T22:56:01+00:00,812455023,812454187,1,Michael_182,Academy Award for Best Picture,
+2017-11-27T18:42:36+00:00,812410554,812405104,1,Michael_182,Academy Award for Best Picture,
+2017-11-27T18:06:27+00:00,812405104,812395827,1,Michael_182,Academy Award for Best Picture,Division by decades included.
+2017-11-27T16:40:16+00:00,812392734,811768530,1,Michael_182,Academy Award for Best Picture,
+2017-11-24T18:19:17+00:00,811889887,810266051,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:18:08+00:00,811889739,810265901,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:16:29+00:00,811889584,810265835,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:15:21+00:00,811889472,810266102,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:14:26+00:00,811889372,810265048,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:13:05+00:00,811889188,810265723,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:12:07+00:00,811889081,811374507,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:11:13+00:00,811888986,810266250,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:10:30+00:00,811888913,810265598,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:09:45+00:00,811888814,811374429,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:08:42+00:00,811888678,810265506,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:07:24+00:00,811888539,811180011,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:06:16+00:00,811888409,810266494,1,Michael_182,Primetime Emmy Award for Outstanding Limited or Anthology Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:05:12+00:00,811888278,810265302,1,Michael_182,Primetime Emmy Award for Outstanding Drama Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-24T18:03:23+00:00,811888076,811179628,1,Michael_182,Primetime Emmy Award for Outstanding Comedy Series,This format allows a better comprehension of the text. Do not modify since the rest of the categories from Primetime Emmy Award will be changed into this format.
+2017-11-23T20:51:00+00:00,811768530,811628964,1,Michael_182,Academy Award for Best Picture,Column format changed.
+2017-11-22T17:26:39+00:00,811595558,811595399,1,Michael_182,Academy Award for Best Picture,
+2017-11-22T17:25:23+00:00,811595399,811551699,1,Michael_182,Academy Award for Best Picture,Modification of the columns in which the text is presented.
+2017-11-21T16:54:20+00:00,811440795,809674466,1,Michael_182,List of Academy Award winners and nominees for Best International Feature Film,
+2017-11-21T16:46:18+00:00,811439675,809687781,1,Michael_182,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",
+2017-11-21T16:39:52+00:00,811438745,809665607,1,Michael_182,Golden Globe Award for Best Actress – Television Series Drama,
+2017-11-21T16:32:19+00:00,811437625,811180121,1,Michael_182,Golden Globe Award for Best Actor – Television Series Musical or Comedy,
+2017-11-21T16:27:58+00:00,811437071,808130611,1,Michael_182,Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy,
+2017-11-21T16:24:44+00:00,811436650,803524582,1,Michael_182,Golden Globe Award for Best Actor in a Motion Picture – Drama,
+2017-11-21T16:20:26+00:00,811436046,807701121,1,Michael_182,Golden Globe Award for Best Motion Picture – Musical or Comedy,
+2017-11-21T16:16:44+00:00,811435531,807701093,1,Michael_182,Golden Globe Award for Best Motion Picture – Drama,
+2017-11-21T16:12:05+00:00,811434880,807126810,1,Michael_182,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,
+2017-11-21T16:04:08+00:00,811433830,811325938,1,Michael_182,Silver Bear for Best Actress,
+2017-11-20T22:30:24+00:00,811325938,808226976,1,Michael_182,Silver Bear for Best Actress,Photograph format changed.
+2017-11-20T21:20:59+00:00,811316951,808227168,1,Michael_182,Silver Bear for Best Actor,
+2017-11-20T21:10:32+00:00,811314880,808226427,1,Michael_182,Volpi Cup for Best Actress,
+2017-11-18T20:48:13+00:00,810990643,810910002,1,Michael_182,Academy Award for Best Supporting Actress,Undid revision 810910002 by [[Special:Contributions/189.209.30.179|189.209.30.179]] ([[User talk:189.209.30.179|talk]])
+2017-11-18T20:47:33+00:00,810990565,810909918,1,Michael_182,Academy Award for Best Supporting Actor,Undid revision 810909918 by [[Special:Contributions/189.209.30.179|189.209.30.179]] ([[User talk:189.209.30.179|talk]])
+2017-11-18T20:46:31+00:00,810990450,810930568,1,Michael_182,Academy Award for Best Actor,Undid revision 810909788 by [[Special:Contributions/189.209.30.179|189.209.30.179]] ([[User talk:189.209.30.179|talk]])
+2017-11-18T18:13:31+00:00,810972921,810012369,1,Michael_182,Golden Bear,
+2017-11-18T17:58:14+00:00,810971185,802575857,1,Michael_182,Red Beard,The added information is relevant as it presents wards recieved by the main actor.
+2017-11-18T17:55:36+00:00,810970912,805873048,1,Michael_182,The Hidden Fortress,
+2017-11-18T17:50:25+00:00,810970376,810691451,1,Michael_182,Palme d'Or,The division by deacdes allows a better comprehension of the text.
+2017-11-16T18:06:47+00:00,810667098,809528771,1,Michael_182,Palme d'Or,
+2017-11-15T15:08:29+00:00,810483902,810483492,1,Michael_182,Cannes Film Festival Award for Best Director,
+2017-11-15T15:05:50+00:00,810483492,800967725,1,Michael_182,Cannes Film Festival Award for Best Director,
+2017-11-15T14:48:29+00:00,810481384,808174266,1,Michael_182,Cannes Film Festival Award for Best Actress,
+2017-11-15T13:56:59+00:00,810475412,808174384,1,Michael_182,Cannes Film Festival Award for Best Actor,
+2017-11-14T18:21:05+00:00,810344869,809405574,1,Michael_182,Academy Award for Best Supporting Actress,
+2017-11-14T17:31:37+00:00,810338277,809829254,1,Michael_182,Academy Award for Best Supporting Actor,
+2017-11-12T22:09:13+00:00,810012369,808316016,1,Michael_182,Golden Bear,The most important information is presented in the main paragraph. The division by decades is more efficient.
+2017-11-12T22:06:59+00:00,810012056,809680279,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,The current version presents the information in a better way.
+2017-11-12T22:06:04+00:00,810011929,808497459,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,This allows the content of the text to be better understood.
+2017-11-12T22:05:06+00:00,810011788,808497431,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,The current version allows a better comprehension of the text.
+2017-11-12T22:04:28+00:00,810011678,809680247,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,The current version presents the information in a better way.
+2017-11-12T22:03:27+00:00,810011526,809682375,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,This allows the content of the text to be better understood.
+2017-11-12T22:02:12+00:00,810011331,808707122,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,It helps to undertstand the text in a better way.
+2017-11-12T22:01:24+00:00,810011201,809680191,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,This allows the content of the text to be better understood.
+2017-11-12T21:59:04+00:00,810010806,809680153,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,The changes help to improve the undertanding of the text.
+2017-11-12T21:57:55+00:00,810010625,809213953,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,The current version allows a better comprehension of the text.
+2017-11-12T21:56:37+00:00,810010429,809680217,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,It helps to undertstand the text in a better way.
+2017-11-12T21:55:35+00:00,810010276,808497014,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,The changes help to improve the undertanding of the text.
+2017-11-12T21:53:56+00:00,810010028,809680494,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,It helps to undertstand the text in a better way.
+2017-11-12T21:52:27+00:00,810009813,809678322,1,Michael_182,Primetime Emmy Award for Outstanding Limited or Anthology Series,The current version allows a better understanding of the text.
+2017-11-12T21:51:24+00:00,810009647,809810852,1,Michael_182,Primetime Emmy Award for Outstanding Drama Series,The current version allows a better comprehension of the text.
+2017-11-12T21:50:04+00:00,810009415,809680695,1,Michael_182,Primetime Emmy Award for Outstanding Comedy Series,The current version allows a better understanding of the text.
+2017-11-12T18:14:06+00:00,809977862,775325378,1,Michael_182,Moby Dick (1998 miniseries),
+2017-11-10T18:46:36+00:00,809681962,809411589,1,Michael_182,Academy Award for Best Actor,
+2017-11-02T01:05:13+00:00,808299056,807607573,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,
+2017-11-01T20:50:44+00:00,808260119,806165048,1,Michael_182,Academy Award for Best Supporting Actress,It helps to better comprehend the text.
+2017-11-01T20:49:47+00:00,808259986,806164798,1,Michael_182,Academy Award for Best Supporting Actor,It helps to undestand the content.
+2017-11-01T20:46:08+00:00,808259454,805706090,1,Michael_182,Academy Award for Best Actress,It helps to better comprehend the text.
+2017-11-01T20:43:07+00:00,808258969,808031190,1,Michael_182,Academy Award for Best Actor,It allows a better comprehension on the text.
+2017-11-01T15:58:59+00:00,808217094,808058639,1,Michael_182,Golden Lion,
+2017-11-01T15:49:39+00:00,808215929,808177820,1,Michael_182,Volpi Cup for Best Actor,It allows a better comprehension of the content of the text.
+2017-10-31T22:26:10+00:00,808104624,803336365,1,Michael_182,Cannes Film Festival Award for Best Actor,
+2017-10-31T22:18:44+00:00,808103624,801961409,1,Michael_182,Cannes Film Festival Award for Best Actress,
+2017-10-31T21:49:58+00:00,808100178,808066192,1,Michael_182,Volpi Cup for Best Actor,
+2017-10-31T21:48:35+00:00,808100020,808099890,1,Michael_182,Volpi Cup for Best Actress,
+2017-10-31T21:47:33+00:00,808099890,803130412,1,Michael_182,Volpi Cup for Best Actress,
+2017-10-31T17:45:18+00:00,808066192,803129364,1,Michael_182,Volpi Cup for Best Actor,
+2017-10-31T17:21:04+00:00,808062802,799768892,1,Michael_182,Silver Lion,
+2017-10-31T16:49:58+00:00,808058639,806091076,1,Michael_182,Golden Lion,
+2017-10-31T15:47:19+00:00,808049871,801819695,1,Michael_182,Silver Bear for Best Actress,
+2017-10-31T01:48:20+00:00,807960820,801812885,1,Michael_182,Silver Bear for Best Actor,
+2017-10-31T01:28:40+00:00,807958060,800929501,1,Michael_182,Silver Bear for Best Director,
+2017-10-31T01:10:27+00:00,807955168,807732619,1,Michael_182,Primetime Emmy Award for Outstanding Drama Series,
+2017-10-31T00:37:48+00:00,807950897,807733416,1,Michael_182,Primetime Emmy Award for Outstanding Comedy Series,
+2017-10-29T22:09:54+00:00,807743662,807743545,1,Michael_182,Golden Bear,
+2017-10-29T22:08:56+00:00,807743545,800928169,1,Michael_182,Golden Bear,
+2017-10-29T21:35:15+00:00,807738982,807185592,1,Michael_182,List of Academy Award winners and nominees for Best International Feature Film,
+2017-10-29T20:49:41+00:00,807732619,807613467,1,Michael_182,Primetime Emmy Award for Outstanding Drama Series,
+2017-10-29T20:39:26+00:00,807731058,807610853,1,Michael_182,Primetime Emmy Award for Outstanding Comedy Series,
+2017-10-29T01:56:12+00:00,807613467,807064483,1,Michael_182,Primetime Emmy Award for Outstanding Drama Series,
+2017-10-29T01:37:09+00:00,807610853,805631371,1,Michael_182,Primetime Emmy Award for Outstanding Comedy Series,
+2017-10-29T01:15:23+00:00,807607573,802569729,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,
+2017-10-29T00:09:26+00:00,807599219,803933769,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,
+2017-10-28T23:44:27+00:00,807596085,807555814,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,
+2017-10-28T18:38:51+00:00,807556333,805508004,1,Michael_182,My Name Is Earl,/* Critical reception */
+2017-10-28T18:35:34+00:00,807555814,803306650,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,
+2017-10-28T18:20:33+00:00,807553545,807440798,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,/* 1970s */
+2017-10-28T18:17:27+00:00,807553072,807226617,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,/* 1980s */
+2017-10-28T18:06:20+00:00,807551366,807550390,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,
+2017-10-28T17:58:50+00:00,807550390,807442116,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,
+2017-10-28T00:08:53+00:00,807442116,802015363,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,
+2017-10-27T23:56:54+00:00,807440798,807440721,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,
+2017-10-27T23:56:02+00:00,807440721,807433938,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,
+2017-10-27T22:51:38+00:00,807433938,802997394,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,
+2017-10-27T00:31:28+00:00,807278537,803905298,1,Michael_182,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,
+2017-10-26T18:15:55+00:00,807226617,801584535,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,
+2017-10-26T02:23:02+00:00,807127968,806533751,1,Michael_182,Golden Globe Award for Best Supporting Actress – Motion Picture,
+2017-10-26T02:12:08+00:00,807126810,807115703,1,Michael_182,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,
+2017-10-26T02:05:51+00:00,807126120,803521925,1,Michael_182,Golden Globe Award for Best Motion Picture – Drama,
+2017-10-26T02:01:28+00:00,807125652,804856671,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,
+2017-10-26T00:58:13+00:00,807118302,807097393,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,
+2017-10-25T21:57:50+00:00,807098520,806393532,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,
+2017-10-25T21:49:36+00:00,807097393,806623074,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,
+2017-10-25T17:23:36+00:00,807062590,806001410,1,Michael_182,Primetime Emmy Award for Outstanding Limited or Anthology Series,
+2017-10-25T17:03:41+00:00,807060090,806004302,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,
+2017-10-25T16:54:31+00:00,807058834,807053989,1,Michael_182,"Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film",
+2017-10-25T16:49:37+00:00,807058254,807058008,1,Michael_182,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",
+2017-10-25T16:47:15+00:00,807058008,804592398,1,Michael_182,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",
+2017-10-25T16:14:00+00:00,807053989,804581972,1,Michael_182,"Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film",
+2017-10-25T15:59:07+00:00,807052170,803851816,1,Michael_182,Golden Globe Award for Best Actor – Miniseries or Television Film,
+2017-10-22T22:07:21+00:00,806573495,804579551,1,Michael_182,Golden Globe Award for Best Actress – Television Series Musical or Comedy,
+2017-10-22T16:10:54+00:00,806525101,804003889,1,Michael_182,Golden Globe Award for Best Limited or Anthology Series or Television Film,
+2017-10-22T16:07:23+00:00,806524587,804456374,1,Michael_182,Golden Globe Award for Best Actress – Television Series Drama,
+2017-10-22T15:53:25+00:00,806522703,806009545,1,Michael_182,Golden Globe Award for Best Actor – Television Series Musical or Comedy,
+2017-10-22T02:34:50+00:00,806447364,806446900,1,Michael_182,Golden Globe Award for Best Actor – Television Series Drama,
+2017-10-22T02:30:47+00:00,806446900,804445656,1,Michael_182,Golden Globe Award for Best Actor – Television Series Drama,
+2017-10-22T02:02:59+00:00,806444237,805235198,1,Michael_182,Golden Globe Award for Best Television Series – Musical or Comedy,
+2017-10-22T01:54:02+00:00,806443383,806411423,1,Michael_182,Golden Globe Award for Best Motion Picture – Musical or Comedy,
+2017-10-21T21:20:27+00:00,806411423,806246683,1,Michael_182,Golden Globe Award for Best Motion Picture – Musical or Comedy,
+2017-10-21T18:56:27+00:00,806393532,806393404,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,
+2017-10-21T18:55:16+00:00,806393404,806393113,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,/* 2010s */
+2017-10-21T18:53:08+00:00,806393113,806392422,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,
+2017-10-21T18:47:08+00:00,806392422,801186958,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,
+2017-10-20T17:56:15+00:00,806242247,804580901,1,Michael_182,Golden Globe Award for Best Actress – Miniseries or Television Film,
+2017-10-20T00:32:40+00:00,806145419,805705911,1,Michael_182,Academy Award for Best Supporting Actress,
+2017-10-20T00:26:40+00:00,806144764,805352114,1,Michael_182,Academy Award for Best Supporting Actor,
+2017-10-20T00:13:23+00:00,806143213,806045427,1,Michael_182,Academy Award for Best Actor,
+2017-10-19T01:48:59+00:00,806007543,804222414,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,
+2017-10-19T01:23:48+00:00,806004302,801797126,1,Michael_182,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,
+2017-10-19T00:56:40+00:00,806001410,805999841,1,Michael_182,Primetime Emmy Award for Outstanding Limited or Anthology Series,
+2017-10-19T00:41:40+00:00,805999841,801273008,1,Michael_182,Primetime Emmy Award for Outstanding Limited or Anthology Series,
+2017-12-05T16:54:20+00:00,813860754,779668252,1,TwentySteps,Talk:Primetime Emmy Award for Outstanding Drama Series,/* Winners in bold */ new section
+2017-12-05T16:53:34+00:00,813860652,813860560,1,TwentySteps,Talk:Primetime Emmy Award for Outstanding Comedy Series,/* Winners in bold */
+2017-12-05T16:52:00+00:00,813860411,556764071,1,TwentySteps,Talk:Primetime Emmy Award for Outstanding Comedy Series,/* Winners in bold */ new section
+2017-12-05T16:47:03+00:00,813859723,812581183,1,TwentySteps,Talk:Academy Award for Best Picture,/* Directors? */
+2017-12-05T16:41:06+00:00,813858902,809529391,1,TwentySteps,Talk:Palme d'Or,/* Division by decades */ new section
+2017-12-05T16:36:38+00:00,813858326,812635258,1,TwentySteps,Golden Lion,Undid undiscussed changes by [[Special:Contributions/Hoverfish|Hoverfish]] ([[User talk:Hoverfish|talk]])
+2017-12-05T16:34:28+00:00,813858063,812634600,1,TwentySteps,Golden Bear,Undid undiscussed changes by [[Special:Contributions/Hoverfish|Hoverfish]] ([[User talk:Hoverfish|talk]])
+2017-12-05T16:33:49+00:00,813858001,812809698,1,TwentySteps,Cannes Film Festival Award for Best Actor,Undid undiscussed changes by [[Special:Contributions/Hoverfish|Hoverfish]] ([[User talk:Hoverfish|talk]])
+2017-12-05T16:32:48+00:00,813857859,813062328,1,TwentySteps,Cannes Film Festival Award for Best Actress,Undid undiscussed changes by [[Special:Contributions/Hoverfish|Hoverfish]] ([[User talk:Hoverfish|talk]])
+2017-12-05T16:32:08+00:00,813857763,812808708,1,TwentySteps,Cannes Film Festival Award for Best Director,Undid undiscussed changes by [[Special:Contributions/Hoverfish|Hoverfish]] ([[User talk:Hoverfish|talk]])
+2017-12-05T16:31:00+00:00,813857625,813488437,1,TwentySteps,User talk:Hoverfish,/* Undiscussed changes in article */ new section
+2017-12-05T16:20:33+00:00,813856250,813463872,1,TwentySteps,Talk:Academy Award for Best Supporting Actress,/* Splitting table by decade */
+2017-12-05T16:19:18+00:00,813856079,813463673,1,TwentySteps,Talk:Academy Award for Best Supporting Actor,/* Splitting table by decade */
+2017-12-05T16:18:45+00:00,813855996,813855393,1,TwentySteps,Talk:Academy Award for Best Actor,/* Splitting table by decade */
+2017-12-05T16:17:20+00:00,813855756,813463539,1,TwentySteps,Talk:Academy Award for Best Actress,/* Splitting table by decade */
+2017-12-05T16:13:31+00:00,813855238,813574228,1,TwentySteps,Talk:Academy Award for Best Actor,/* Splitting table by decade */
+2018-03-17T16:55:40+00:00,830910099,830909913,0,Serols,Academy Award for Best Actor,Reverted edits by [[Special:Contributions/210.18.175.113|210.18.175.113]] ([[User talk:210.18.175.113|talk]]) ([[WP:HG|HG]]) (3.3.3)
+2017-11-30T06:11:08+00:00,812847949,812845702,0,Crboyer,Academy Award for Best Actor,Reverted 1 edit by [[Special:Contributions/2606:6000:6104:AA00:541A:B793:DFC3:5D9A|2606:6000:6104:AA00:541A:B793:DFC3:5D9A]] ([[User talk:2606:6000:6104:AA00:541A:B793:DFC3:5D9A|talk]]): Only one of his awards was Best Actor. ([[WP:TW|TW]])
+2017-11-01T20:43:07+00:00,808258969,808031190,0,Michael 182,Academy Award for Best Actor,It allows a better comprehension on the text.
+2018-01-04T09:52:52+00:00,818574708,818004752,0,HesioneHushabye,Academy Award for Best Actress,link
+2018-01-04T18:00:18+00:00,818631570,818375091,0,Brian W. Schaller,Academy Award for Best Actor,/* External links */ replace main link to the complete image gallery
+2017-12-15T19:33:38+00:00,815588130,814765513,0,Krimuk2.0,Academy Award for Best Actress,/* Winners and nominees */ prevent from bleeding into next section; rm some pics
+2017-12-04T17:24:48+00:00,813671436,813670482,0,84.229.121.163,Academy Award for Best Actress,/* Multiple wins and nominations */
+2017-12-12T11:29:03+00:00,815039550,815009753,0,Brian W. Schaller,Academy Award for Best Actor,/* top */ ce; winners gallery in Wikimedia is now complete
+2018-02-23T18:00:54+00:00,827259435,827223128,0,12.174.10.28,Academy Award for Best Actor,
+2018-01-11T22:13:49+00:00,819898466,819661558,0,Brian W. Schaller,Academy Award for Best Actress,Undid revision 819661558 by [[Special:Contributions/87.56.246.76|87.56.246.76]] ([[User talk:87.56.246.76|talk]])
+2017-11-10T18:46:36+00:00,809681962,809411589,0,Michael 182,Academy Award for Best Actor,
+2017-12-19T05:50:21+00:00,816091456,815953757,0,SoraRikuKairi,Academy Award for Best Actor,
+2017-11-18T20:46:31+00:00,810990450,810930568,0,Michael 182,Academy Award for Best Actor,Undid revision 810909788 by [[Special:Contributions/189.209.30.179|189.209.30.179]] ([[User talk:189.209.30.179|talk]])
+2018-03-09T23:15:44+00:00,829652847,829428642,0,Neo-Jay,Academy Award for Best Actress,[[The Queen (film)]] was moved to [[The Queen (2006 film)]]
+2017-10-20T03:37:29+00:00,806164583,806143213,0,Brian W. Schaller,Academy Award for Best Actor,Undid revision 806143213 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) pls use [[Talk:Academy Award for Best Actor|Talk]] before making large changes to a featured list - the ability to sort the entire list is lost
+2018-02-06T06:53:16+00:00,824255717,824255582,0,Crboyer,Academy Award for Best Actor,Reverted edits by [[Special:Contribs/203.116.30.111|203.116.30.111]] ([[User talk:203.116.30.111|talk]]) to last version by WOSlinker
+2017-11-22T10:32:43+00:00,811553040,810990450,0,Certes,Academy Award for Best Actor,Disambiguating links to [[Network]] (link changed to [[Network (1976 film)]]; link changed to [[Network (1976 film)]]) using [[User:Certes/DisamAssist|DisamAssist]].
+2018-01-23T14:29:57+00:00,821942418,821940855,0,144.38.233.185,Academy Award for Best Actor,/* Winners and nominees */
+2018-01-30T01:58:15+00:00,823068313,822196485,0,KolbertBot,Academy Award for Best Director,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481)
+2017-11-23T20:51:00+00:00,811768530,811628964,0,Michael 182,Academy Award for Best Picture,Column format changed.
+2018-02-18T06:31:30+00:00,826277578,826277491,0,Dlambe3,Academy Award for Best Director,/* Female nominees/winners */
+2018-03-25T03:37:21+00:00,832302740,832302504,0,Crboyer,Academy Award for Best Picture,Reverted 1 edit by [[Special:Contributions/2601:409:8400:D59:7CB5:C75B:ECA2:5774|2601:409:8400:D59:7CB5:C75B:ECA2:5774]]: I believe this list is for when the award went to the Studio. Fox Searchlight didn't exist back then. ([[WP:TW|TW]])
+2018-01-07T17:38:55+00:00,819134850,819011959,0,89.95.48.145,Academy Award for Best Picture,/* Controversies */
+2018-02-14T08:22:36+00:00,825595253,825581242,0,2001:56A:F0A7:CD00:4529:C72F:FE2A:49B6,Academy Award for Best Picture,/* Individuals with multiple nominations */
+2017-10-31T21:10:02+00:00,808095140,807885258,0,Plasma Twa 2,Academy Award for Best Picture,/* Controversies */ It makes more sense to say only rather than last.
+2017-12-15T23:30:23+00:00,815618357,815617798,0,27pc,Academy Award for Best Picture,/* Silent film winners */ not useful at all
+2017-10-11T02:47:11+00:00,804779558,804771256,0,AldezD,Academy Award for Best Picture,Undid revision 804771256 by [[Special:Contributions/190.19.29.242|190.19.29.242]] ([[User talk:190.19.29.242|talk]])
+2017-10-11T02:52:16+00:00,804780126,804772292,0,2001:8003:A93E:8500:A8AC:5032:4B59:394B,Academy Award for Best Director,
+2018-02-03T16:56:51+00:00,823819801,823766043,0,104.143.50.123,Academy Award for Best Picture,/* Winners and nominees */
+2018-03-21T16:40:51+00:00,831655266,831648045,0,Crboyer,Academy Award for Best Picture,Reverted 2 edits by [[Special:Contributions/131.238.225.122|131.238.225.122]] ([[User talk:131.238.225.122|talk]]): Not a nominated producer. ([[WP:TW|TW]])
+2018-01-17T20:03:33+00:00,820990728,820812532,0,Tajotep,Academy Award for Best Picture,Undid revision 819134850 by [[Special:Contributions/89.95.48.145|89.95.48.145]] ([[User talk:89.95.48.145|talk]]). Nominated = no one won
+2017-12-18T00:48:14+00:00,815912261,815912244,0,ClueBot NG,Academy Award for Best Picture,"Reverting possible vandalism by [[Special:Contribs/162.254.169.17|162.254.169.17]] to version by AldezD. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3225807) (Bot)"
+2017-11-06T00:14:57+00:00,808913767,808095140,0,86.2.65.41,Academy Award for Best Picture,
+2018-02-05T03:46:45+00:00,824068704,824064996,0,Wario garlic,Academy Award for Best Picture,Adding list for production companies with multiple nominations
+2018-03-12T11:55:53+00:00,830044709,829985785,0,Onel5969,Academy Award for Best Picture,Disambiguating links to [[The Defiant_Ones]] (link changed to [[The Defiant Ones (film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2018-03-11T21:47:00+00:00,829961446,829961381,0,23.159.64.253,Academy Award for Best Supporting Actor,"Added first recipient, Walter Brennan"
+2018-01-16T19:22:52+00:00,820812532,820811831,0,CaptainCanada,Academy Award for Best Picture,Undid revision 820811831 by [[Special:Contributions/174.105.188.173|174.105.188.173]] ([[User talk:174.105.188.173|talk]]) as it is vandalism.
+2018-03-06T00:09:09+00:00,828991158,828912610,0,AgWoolridge,Academy Award for Best Supporting Actor,Image from [[90th Academy Awards]]
+2017-12-03T18:45:42+00:00,813437380,813429608,0,Brian W. Schaller,Academy Award for Best Supporting Actor,/* Winners and nominees */ +sort keys for some films
+2017-10-20T03:40:25+00:00,806164798,806144764,0,Brian W. Schaller,Academy Award for Best Supporting Actor,Undid revision 806144764 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) pls use [[Talk:Academy Award for Best Supporting Actor|Talk]] before making large changes to a featured list
+2018-02-17T23:41:06+00:00,826229296,826143055,0,Wario garlic,Academy Award for Best Picture,"The Oscar database (http://awardsdatabase.oscars.org/) lists the film as being entered under the name of just ""Hollywood Revue"""
+2017-12-04T04:30:57+00:00,813578160,812595629,0,MusikBot,Academy Award for Best Picture,removing {{pp-protected}} as page is not -protected
+2017-11-04T05:07:24+00:00,808643254,808643102,0,208.117.127.135,Academy Award for Best Supporting Actor,/* 1980s */
+2018-01-21T17:53:29+00:00,821631209,821003980,0,Thomas Mulligan,Academy Award for Best Supporting Actor,/* Winners and nominees */
+2017-11-14T17:31:37+00:00,810338277,809829254,0,Michael 182,Academy Award for Best Supporting Actor,
+2017-11-22T10:18:51+00:00,811551707,810990643,0,Certes,Academy Award for Best Supporting Actress,Disambiguating links to [[Network]] (link changed to [[Network (1976 film)]]) using [[User:Certes/DisamAssist|DisamAssist]].
+2017-11-01T20:50:44+00:00,808260119,806165048,0,Michael 182,Academy Award for Best Supporting Actress,It helps to better comprehend the text.
+2018-01-05T16:24:08+00:00,818792377,818577153,0,51.9.184.251,Academy Award for Best Supporting Actress,/* Winners and nominees */
+2018-02-19T15:05:53+00:00,826509412,826487360,0,209.119.225.241,Academy Award for Best Supporting Actress,/* Winners and nominees */
+2018-01-24T11:26:38+00:00,822100015,822062265,0,Kaneshirojj,Academy Award for Best Supporting Actress,/* Winners and nominees */
+2017-12-15T16:57:34+00:00,815567800,815567727,0,Thomas Mulligan,Academy Award for Best Supporting Actress,
+2018-04-04T03:23:01+00:00,834134355,834062844,0,Brian W. Schaller,Academy Award for Best Supporting Actress,"set all images to a standard of '120px' width; -unneeded, default 'right' param"
+2018-02-11T04:09:00+00:00,825043325,824657487,0,2600:1004:B109:6D57:6D7D:15A5:7401:2A3E,Academy Award for Best Supporting Actress,
+2017-11-30T00:28:43+00:00,812809698,811833878,0,Hoverfish,Cannes Film Festival Award for Best Actor,"revert to version before splitting table to decades, reisert infobox manually"
+2017-12-06T00:02:10+00:00,813928029,813858001,0,Hoverfish,Cannes Film Festival Award for Best Actor,Undid revision 813858001 by [[Special:Contributions/TwentySteps|TwentySteps]] ([[User talk:TwentySteps|talk]]) User blocked for abusing multiple accounts
+2018-03-07T18:55:00+00:00,829288333,829261003,0,Hoverfish,Cannes Film Festival Award for Best Actor,sorting
+2018-03-24T19:12:59+00:00,832246079,832246040,0,Michael 182,Cannes Film Festival Award for Best Actor,
+2017-11-15T13:56:59+00:00,810475412,808174384,0,Michael 182,Cannes Film Festival Award for Best Actor,
+2017-11-01T09:45:14+00:00,808174384,808104624,0,Hoverfish,Cannes Film Festival Award for Best Actor,There is no reason to put contents of table in bold
+2017-12-10T05:08:35+00:00,814668091,813928152,0,KolbertBot,Cannes Film Festival Award for Best Actress,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v478)
+2017-09-23T01:55:20+00:00,801961409,801961178,0,Hoverfish,Cannes Film Festival Award for Best Actress,better
+2017-11-01T09:43:57+00:00,808174266,808103624,0,Hoverfish,Cannes Film Festival Award for Best Actress,There is no need to put all the contents of the table in bold.
+2017-09-16T21:11:07+00:00,800967725,796831060,0,Mortimer1976,Cannes Film Festival Award for Best Director,
+2017-12-06T00:03:20+00:00,813928219,813857763,0,Hoverfish,Cannes Film Festival Award for Best Director,Undid revision 813857763 by [[Special:Contributions/TwentySteps|TwentySteps]] ([[User talk:TwentySteps|talk]])  User blocked for abusing multiple accounts
+2017-11-15T15:08:29+00:00,810483902,810483492,0,Michael 182,Cannes Film Festival Award for Best Director,
+2018-02-08T10:31:02+00:00,824602867,824557403,0,Hoverfish,Cannes Film Festival Award for Best Director,per country as stated in film article
+2017-11-02T03:39:48+00:00,808316016,808228557,0,Filmested,Golden Bear,"Its more important to highlight how the process has changed, as being awarded by the audience is drastically different than being awarded by a jury."
+2017-12-06T00:01:30+00:00,813927905,813858063,0,Hoverfish,Golden Bear,Undid revision 813858063 by [[Special:Contributions/TwentySteps|TwentySteps]] ([[User talk:TwentySteps|talk]]) User blocked for abusing multiple accounts
+2018-03-24T10:31:05+00:00,832184028,832160690,0,Hoverfish,Golden Bear,"Academy awards are outside of the scope of this festival, please do not insert."
+2018-03-12T11:57:15+00:00,830044872,828171812,0,Onel5969,Golden Globe Award for Best Actor in a Motion Picture – Drama,Disambiguating links to [[The Defiant_Ones]] (link changed to [[The Defiant Ones (film)]]; link changed to [[The Defiant Ones (film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-11-23T15:02:35+00:00,811727630,811727520,0,Dimadick,Golden Globe Award for Best Actor in a Motion Picture – Drama,/* 1950s */
+2018-01-12T14:24:45+00:00,820001546,819884454,0,Thomas Mulligan,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,/* 2010s */
+2018-01-23T16:11:23+00:00,821955756,821949547,0,Diopic,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,
+2018-01-28T16:43:31+00:00,822807656,819211163,0,FrescoBot,Golden Globe Award for Best Actor – Television Series Drama,Bot: [[User:FrescoBot/Links|link syntax]]
+2018-01-30T02:10:28+00:00,823069855,822840179,0,KolbertBot,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481)
+2018-01-10T12:32:29+00:00,819630684,819630402,0,Saiph121,Golden Globe Award for Best Actor – Miniseries or Television Film,
+2018-02-14T18:49:23+00:00,825673082,825488997,0,GünniX,Golden Globe Award for Best Actor – Television Series Drama,unbalanced brackets using [[Project:AWB|AWB]]
+2018-02-22T18:21:43+00:00,827087738,827086969,0,FrB.TG,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,/* top */ +
+2018-01-04T18:49:25+00:00,818639463,816562253,0,Broccoli and Coffee,Golden Globe Award for Best Actor – Television Series Musical or Comedy,Disambiguating links to [[Louie]] (link changed to [[Louie (U.S. TV series)]]; link changed to [[Louie (U.S. TV series)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-10-09T01:39:23+00:00,804445656,801641602,0,190.19.29.242,Golden Globe Award for Best Actor – Television Series Drama,
+2018-02-06T07:38:33+00:00,824258878,823901576,0,Diopic,Golden Globe Award for Best Actor – Miniseries or Television Film,/* 2010s */
+2018-03-01T01:20:04+00:00,828183783,828111549,0,173.12.99.49,Golden Globe Award for Best Actor – Television Series Musical or Comedy,
+2017-10-22T15:53:25+00:00,806522703,806009545,0,Michael 182,Golden Globe Award for Best Actor – Television Series Musical or Comedy,
+2018-01-08T03:49:01+00:00,819218019,819217793,0,2600:1004:B16E:127D:8925:8CFC:AEDB:AD7B,Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy,/* 2010s */
+2018-02-03T15:37:55+00:00,823809907,822604305,0,2404:E800:E60E:197:CD84:2255:4486:CE88,Golden Globe Award for Best Actress – Miniseries or Television Film,/* Winners and nominees */
+2017-11-21T16:39:52+00:00,811438745,809665607,0,Michael 182,Golden Globe Award for Best Actress – Television Series Drama,
+2018-01-11T19:43:50+00:00,819878223,819746247,0,96.88.224.49,Golden Globe Award for Best Actress – Television Series Drama,/* 2010s */
+2018-01-13T21:46:46+00:00,820246092,820213741,0,Loopy30,Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy,Correcting spelling: perfomance->performance
+2017-11-10T16:37:25+00:00,809665661,808184239,0,Onel5969,Golden Globe Award for Best Actress – Miniseries or Television Film,Disambiguating links to [[TNT (disambiguation)]] (link changed to [[TNT (U.S. TV network)]]; link changed to [[TNT (U.S. TV network)]]; link changed to [[TNT (U.S. TV network)]]; link changed to [[TNT (U.S. TV network)]]; link changed to [[TNT (U.S. TV...
+2018-01-08T03:21:18+00:00,819215093,819215016,0,Dhalh,Golden Globe Award for Best Actress – Television Series Musical or Comedy,
+2018-03-06T16:58:22+00:00,829098369,822522994,0,72,Golden Globe Award for Best Limited or Anthology Series or Television Film,Disambiguating links to [[Elizabeth I (disambiguation)]] (link changed to [[Elizabeth I (2005 miniseries)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-10-29T17:00:29+00:00,807701093,807126120,0,173.9.162.157,Golden Globe Award for Best Motion Picture – Drama,
+2018-03-05T00:30:35+00:00,828829136,825072214,0,Rhododendrites,Golden Globe Award for Best Motion Picture – Musical or Comedy,wl
+2018-01-26T21:29:44+00:00,822522994,822445016,0,Diopic,Golden Globe Award for Best Limited or Anthology Series or Television Film,
+2018-02-17T10:27:16+00:00,826128845,826003389,0,Rodw,Golden Globe Award for Best Motion Picture – Drama,Disambiguated: [[John Beck]] → [[John Beck (producer)]]
+2017-10-29T17:00:38+00:00,807701121,807522564,0,173.9.162.157,Golden Globe Award for Best Motion Picture – Musical or Comedy,
+2018-02-16T17:20:48+00:00,826003389,825951709,0,Diopic,Golden Globe Award for Best Motion Picture – Drama,
+2017-12-23T12:53:12+00:00,816756045,814933021,0,Onel5969,Golden Globe Award for Best Motion Picture – Musical or Comedy,Disambiguating links to [[Men in Black (disambiguation)]] (link changed to [[Men in Black (1997 film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2018-01-30T18:19:30+00:00,823175103,823175013,0,Diopic,Golden Globe Award for Best Actress – Television Series Drama,/* Superlatives */
+2018-01-23T15:09:10+00:00,821947277,821840622,0,183.82.139.216,Golden Globe Award for Best Motion Picture – Drama,/* 2010s */
+2018-02-11T09:16:22+00:00,825072214,825062194,0,The Noire Kid,Golden Globe Award for Best Motion Picture – Musical or Comedy,
+2017-12-21T15:34:26+00:00,816472225,814994361,0,EdNewey,"Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film",
+2018-01-08T11:56:00+00:00,819266943,819210773,0,51.9.184.251,"Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film",/* 2010s */
+2018-03-06T16:58:46+00:00,829098418,827706502,0,72,"Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film",Disambiguating links to [[Elizabeth I (disambiguation)]] (link changed to [[Elizabeth I (2005 miniseries)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2018-01-31T01:46:02+00:00,823238756,821937004,0,Bovineboy2008,Golden Globe Award for Best Supporting Actress – Motion Picture,"clean up, replaced: Bird (film) → Bird (1988 film) (2) using [[Project:AWB|AWB]]"
+2018-03-12T11:58:25+00:00,830045005,829725202,0,Onel5969,Golden Globe Award for Best Supporting Actress – Motion Picture,Disambiguating links to [[The Defiant_Ones]] (link changed to [[The Defiant Ones (film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2018-01-08T02:43:51+00:00,819211073,819211026,0,68.118.182.241,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",/* 2010s */
+2017-12-12T03:10:01+00:00,814994550,814979317,0,Taloson,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",/* 2010s */
+2017-12-12T00:24:16+00:00,814976098,814975997,0,Taloson,Golden Globe Award for Best Television Series – Musical or Comedy,/* Series with multiple nominations */
+2017-11-01T11:29:24+00:00,808184260,807701208,0,FrescoBot,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-11-21T16:46:18+00:00,811439675,809687781,0,Michael 182,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",
+2017-10-29T17:01:08+00:00,807701208,807058254,0,173.9.162.157,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",
+2017-10-31T16:49:58+00:00,808058639,806091076,0,Michael 182,Golden Lion,
+2018-03-24T20:20:35+00:00,832253829,832249322,0,Michael 182,Golden Lion,one sortable table
+2018-01-26T21:02:13+00:00,822519269,819214688,0,Diopic,Golden Globe Award for Best Television Series – Musical or Comedy,
+2018-03-03T22:12:47+00:00,828649075,828297914,0,2A01:388:289:150:0:0:1:147,Golden Lion,
+2018-03-26T16:41:02+00:00,832540713,832538673,0,Hoverfish,Golden Lion,/* Golden Lion */ more recent
+2018-02-19T19:17:41+00:00,826546760,826333306,0,91.158.35.126,Golden Lion,/* Golden Lion */
+2017-12-06T00:00:58+00:00,813927831,813858326,0,Hoverfish,Golden Lion,Undid revision 813858326 by [[Special:Contributions/TwentySteps|TwentySteps]] ([[User talk:TwentySteps|talk]]) User blocked for abusing multiple accounts
+2017-12-14T23:37:19+00:00,815461426,815461334,0,177.208.170.193,Golden Lion,/* Golden Lion */
+2017-10-19T16:52:01+00:00,806091076,801622007,0,91.125.45.49,Golden Lion,/* Golden Lion */
+2018-02-23T02:57:56+00:00,827159844,827151270,0,Hoverfish,Golden Lion,Undid revision 827151270 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]])
+2018-03-05T07:34:29+00:00,828873486,828861544,0,176.63.138.111,List of Academy Award winners and nominees for Best International Feature Film,/* Winners and nominees */original letters
+2018-01-11T16:01:35+00:00,819844092,818602219,0,Inupendi,List of Academy Award winners and nominees for Best International Feature Film,
+2017-11-24T05:49:16+00:00,811820754,811470725,0,Inwind,List of Academy Award winners and nominees for Best International Feature Film,"/* 1980s */clean up, link using [[Project:AWB|AWB]]"
+2018-03-25T15:31:32+00:00,832367368,832366958,0,Hoverfish,Palme d'Or,/* Award winners */ 2 more
+2018-01-09T16:54:14+00:00,819486258,819486133,0,Spintendo,Palme d'Or,/* Award winners */ Spelling/grammar correction
+2017-04-14T04:33:23+00:00,775325378,746585987,0,PWPW32478,Moby Dick (1998 miniseries),copy edits.
+2017-12-15T09:00:28+00:00,815515973,815514718,0,Alex 21,My Name Is Earl,Reverted 1 edit by [[Special:Contributions/97.115.4.76|97.115.4.76]] ([[User talk:97.115.4.76|talk]]): Unsourced. ([[WP:TW|TW]])
+2017-10-16T22:59:51+00:00,805678818,802618867,0,J4lambert,Palme d'Or,/* Award winners */
+2017-12-11T06:16:40+00:00,814838403,809977862,0,KolbertBot,Moby Dick (1998 miniseries),Bot: [[User:KolbertBot|HTTP→HTTPS]] (v478)
+2018-03-16T12:49:57+00:00,830700292,827833374,0,193.62.184.25,My Name Is Earl,/* Synopsis */ slang
+2018-01-26T10:14:30+00:00,822433462,821538229,0,Kim Leung,Palme d'Or,/* History */
+2017-11-18T20:37:05+00:00,810989350,810970376,0,Hoverfish,Palme d'Or,"You have not discussed this change. And the edit summary ""the division by deacdes allows a better comprehension of the text"" does not make sense."
+2018-01-21T03:00:19+00:00,821538229,821537688,0,Kim Leung,Palme d'Or,
+2017-11-03T05:46:32+00:00,808496534,807950897,0,Rburton66,Primetime Emmy Award for Outstanding Comedy Series,Reverting edit inconsistent with Primetime Emmy pages formatting
+2018-02-27T13:44:23+00:00,827912245,827474434,0,FrescoBot,Primetime Emmy Award for Outstanding Comedy Series,Bot: [[User:FrescoBot/Links|link syntax]]
+2018-01-27T23:12:44+00:00,822692157,818597644,0,Tassedethe,Primetime Emmy Award for Outstanding Comedy Series,
+2017-11-04T23:32:27+00:00,808757108,808496534,0,FrescoBot,Primetime Emmy Award for Outstanding Comedy Series,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2018-02-14T14:36:29+00:00,825636925,823482151,0,190.192.83.170,Primetime Emmy Award for Outstanding Comedy Series,Column size.
+2017-11-25T08:13:01+00:00,811995580,811888076,0,Rburton66,Primetime Emmy Award for Outstanding Comedy Series,Undid revision 811888076 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverting edit inconsistent with Emmy page formatting. Please discuss on Talk page before instituting such changes.
+2017-12-19T13:10:52+00:00,816127336,811995580,0,SoraRikuKairi,Primetime Emmy Award for Outstanding Comedy Series,
+2018-02-01T15:00:32+00:00,823482151,822692157,0,190.19.15.126,Primetime Emmy Award for Outstanding Comedy Series,"Changed the winners format, as suggested in the talk page."
+2017-11-18T15:55:47+00:00,810956697,810265245,0,Patapsco913,Primetime Emmy Award for Outstanding Comedy Series,wikilink
+2018-03-14T06:24:05+00:00,830340806,829671307,0,NathanielTheBold,Primetime Emmy Award for Outstanding Comedy Series,
+2018-01-04T13:56:04+00:00,818597644,816127336,0,Woodensuperman,Primetime Emmy Award for Outstanding Comedy Series,
+2017-10-29T20:55:34+00:00,807733416,807731058,0,190.19.9.51,Primetime Emmy Award for Outstanding Comedy Series,
+2017-11-14T06:36:02+00:00,810265302,810009647,0,Rburton66,Primetime Emmy Award for Outstanding Drama Series,Undid revision 810009647 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverted edit inconsistent with Primetime Emmy page formatting
+2017-11-25T08:13:38+00:00,811995626,811888278,0,Rburton66,Primetime Emmy Award for Outstanding Drama Series,Undid revision 811888278 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverting edit inconsistent with Emmy page formatting. Please discuss on Talk page before instituting such changes.
+2018-03-14T06:26:00+00:00,830340929,829674030,0,NathanielTheBold,Primetime Emmy Award for Outstanding Drama Series,
+2018-01-31T14:51:54+00:00,823316884,821652788,0,190.19.7.82,Primetime Emmy Award for Outstanding Drama Series,"Changed the winners format, as it was suggested in the talk page."
+2017-10-16T17:00:25+00:00,805631013,805536900,0,190.19.7.122,Primetime Emmy Award for Outstanding Drama Series,
+2017-11-01T13:58:41+00:00,808201125,808201069,0,109.252.105.70,Primetime Emmy Award for Outstanding Drama Series,
+2018-02-27T21:29:31+00:00,827980622,827474707,0,FrescoBot,Primetime Emmy Award for Outstanding Drama Series,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-10-25T17:36:38+00:00,807064483,805631013,0,LittleWink,Primetime Emmy Award for Outstanding Drama Series,Disambiguating links to [[Hawaii Five-O]] (link changed to [[Hawaii Five-O (1968 TV series)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-11-03T10:17:29+00:00,808519668,808496702,0,George Ho,Primetime Emmy Award for Outstanding Drama Series,"/* 1970s */ dab-bing [[Hawaii Five-O (1968 TV series, season 5)]]"
+2018-03-14T06:46:39+00:00,830342261,829668637,0,NathanielTheBold,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,
+2017-11-20T00:52:26+00:00,811180011,810265453,0,Sd2315g86435sdsdg,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,"/* 2010s */bypassing redirect, replaced: Louie (U.S. TV series) → Louie (TV series) (5) using [[Project:AWB|AWB]]"
+2017-11-11T15:53:00+00:00,809810852,808519668,0,Patapsco913,Primetime Emmy Award for Outstanding Drama Series,wikilink
+2017-10-19T01:23:48+00:00,806004302,801797126,0,Michael 182,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,
+2018-03-10T01:27:39+00:00,829668637,827860140,0,FrescoBot,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,Bot: [[User:FrescoBot/Links|link syntax]]
+2017-10-25T17:03:41+00:00,807060090,806004302,0,Michael 182,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,
+2017-11-03T05:51:03+00:00,808497014,808193855,0,Rburton66,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,Reverting edit inconsistent with Primetime Emmy pages formatting
+2017-12-31T23:27:41+00:00,818006332,815276140,0,216.241.192.33,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,/* Multiple nominations */
+2017-11-25T08:15:18+00:00,811995788,811888678,0,Rburton66,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,Undid revision 811888678 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverting edit inconsistent with Emmy page formatting. Please discuss on Talk page before instituting such changes.
+2018-02-27T07:23:14+00:00,827877989,824009501,0,FrescoBot,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,Bot: [[User:FrescoBot/Links|link syntax]]
+2017-12-13T21:47:34+00:00,815276140,811995788,0,Rburton66,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,/* Multiple nominations */ Column breaks
+2017-10-21T18:56:27+00:00,806393532,806393404,0,Michael 182,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,
+2018-03-14T06:18:37+00:00,830340460,829669884,0,NathanielTheBold,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,Excessive apostrophes
+2018-03-10T01:37:09+00:00,829669884,827878014,0,FrescoBot,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,Bot: [[User:FrescoBot/Links|link syntax]]
+2017-12-13T21:44:43+00:00,815275760,814782009,0,Rburton66,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,/* Multiple nominations */ Column break
+2018-02-14T14:41:08+00:00,825637557,824313203,0,190.192.83.170,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,Undid revision 824313203 by [[Special:Contributions/51.9.184.251|51.9.184.251]] ([[User talk:51.9.184.251|talk]])
+2017-11-14T06:45:01+00:00,810266461,810124234,0,Rburton66,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,Reverted edit inconsistent with Primetime Emmy page formatting
+2018-02-06T16:35:41+00:00,824313203,824138428,0,51.9.184.251,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,/* 2010s */
+2018-02-27T07:23:36+00:00,827878014,825637557,0,FrescoBot,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-11-03T05:51:33+00:00,808497067,807098520,0,Rburton66,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,Reverting edit inconsistent with Primetime Emmy pages formatting
+2018-03-14T06:49:14+00:00,830342418,829668614,0,NathanielTheBold,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,
+2018-02-05T15:30:11+00:00,824139921,822717562,0,190.19.4.179,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,Winners format and column size changed.
+2017-11-03T05:52:17+00:00,808497155,807118302,0,Rburton66,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,Reverting edit inconsistent with Primetime Emmy pages formatting
+2017-11-14T06:38:16+00:00,810265598,810010625,0,Rburton66,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,Undid revision 810010625 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverted edit inconsistent with Primetime Emmy page formatting
+2018-02-27T04:06:44+00:00,827859519,824139921,0,FrescoBot,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,Bot: [[User:FrescoBot/Links|link syntax]]
+2017-11-28T14:35:45+00:00,812555825,811995930,0,Gorpik,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,A little additional info for the lede
+2017-11-25T08:16:29+00:00,811995889,811888913,0,Rburton66,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,Undid revision 811888913 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverting edit inconsistent with Emmy page formatting. Please discuss on Talk page before instituting such changes.
+2018-03-10T01:34:48+00:00,829669557,827877841,0,FrescoBot,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,Bot: [[User:FrescoBot/Links|link syntax]]
+2018-02-27T07:21:22+00:00,827877841,824141358,0,FrescoBot,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-12-23T06:45:17+00:00,816722852,811995541,0,2601:152:4500:166B:F838:29B6:42DA:7BFA,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,/* 1980s */
+2018-01-05T19:24:45+00:00,818816979,816722852,0,Hitcher vs. Candyman,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,/* 1980s */
+2018-03-14T05:59:39+00:00,830339159,829669865,0,NathanielTheBold,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,excessive apostrophes
+2018-02-05T15:40:57+00:00,824141358,822717115,0,190.19.4.179,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,Winners format and column size changed.
+2018-02-27T07:23:28+00:00,827878004,827119747,0,FrescoBot,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-10-25T17:23:36+00:00,807062590,806001410,0,Michael 182,Primetime Emmy Award for Outstanding Limited or Anthology Series,
+2018-02-01T15:05:20+00:00,823482680,822519772,0,190.19.15.126,Primetime Emmy Award for Outstanding Limited or Anthology Series,"Changed the winners format, as suggested in the talk page."
+2018-03-06T16:59:48+00:00,829098557,827822913,0,72,Primetime Emmy Award for Outstanding Limited or Anthology Series,Disambiguating links to [[Elizabeth I (disambiguation)]] (link changed to [[Elizabeth I (2005 miniseries)]]; link changed to [[Elizabeth I (2005 miniseries)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-12-07T08:26:57+00:00,814176700,811995679,0,Mild Bill Hiccup,Primetime Emmy Award for Outstanding Limited or Anthology Series,/* 1970s */ Fixing style/layout errors
+2018-03-14T06:51:06+00:00,830342529,829666363,0,NathanielTheBold,Primetime Emmy Award for Outstanding Limited or Anthology Series,
+2018-02-24T22:53:31+00:00,827474247,823482680,0,Nabla,Primetime Emmy Award for Outstanding Limited or Anthology Series,rm deprecated template (creates dead links)
+2017-11-03T05:49:32+00:00,808496851,807062590,0,Rburton66,Primetime Emmy Award for Outstanding Limited or Anthology Series,Reverting edit inconsistent with Primetime Emmy pages formatting
+2018-03-05T15:59:24+00:00,828922685,827860177,0,100.12.248.68,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,/* Superlatives */
+2017-11-25T08:17:36+00:00,811995983,811889188,0,Rburton66,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,Undid revision 811889188 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverting edit inconsistent with Emmy page formatting. Please discuss on Talk page before instituting such changes.
+2017-11-04T16:39:23+00:00,808707122,808497292,0,Drow,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,
+2017-12-14T01:09:10+00:00,815299968,815296484,0,AldezD,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,Reverted to revision 814082385 by [[Special:Contributions/AldezD|AldezD]] ([[User talk:AldezD|talk]]). ([[WP:TW|TW]])
+2018-02-11T15:51:04+00:00,825113863,825113148,0,Hoverfish,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,column widths should add up to 100% (or less)
+2017-11-25T08:18:02+00:00,811996015,811889372,0,Rburton66,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,Undid revision 811889372 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverting edit inconsistent with Emmy page formatting. Please discuss on Talk page before instituting such changes.
+2018-02-11T15:52:51+00:00,825114080,825113343,0,Hoverfish,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,column widths should add up to 100% (or less)
+2018-03-14T06:35:31+00:00,830341554,829675269,0,NathanielTheBold,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,
+2018-03-14T07:03:10+00:00,830343322,829098628,0,RelativeHope,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,/* 2010s */
+2017-11-03T05:54:33+00:00,808497336,807553545,0,Rburton66,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,Reverting edit inconsistent with Primetime Emmy pages formatting
+2018-03-06T17:00:25+00:00,829098628,825114254,0,72,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,Disambiguating links to [[Elizabeth I (disambiguation)]] (link changed to [[Elizabeth I (2005 miniseries)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-11-25T08:18:32+00:00,811996066,811962096,0,Rburton66,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,Reverting edit inconsistent with Emmy page formatting. Please discuss on Talk page before instituting such changes.
+2018-02-11T15:54:06+00:00,825114254,825113227,0,Hoverfish,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,column widths should add up to 100% (or less)
+2017-09-23T12:34:26+00:00,802015363,801895395,0,Francuaza,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,/* Multiple nominations */
+2017-11-25T08:19:01+00:00,811996101,811889584,0,Rburton66,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,Undid revision 811889584 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverting edit inconsistent with Emmy page formatting. Please discuss on Talk page before instituting such changes.
+2018-02-21T20:11:00+00:00,826931222,826930441,0,50.127.220.91,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,/* Superlatives */
+2017-10-28T23:44:27+00:00,807596085,807555814,0,Michael 182,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,
+2018-02-27T04:12:37+00:00,827860163,826931222,0,FrescoBot,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,Bot: [[User:FrescoBot/Links|link syntax]]
+2017-10-01T18:31:30+00:00,803306650,803300666,0,Francuaza,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,/* 1950s */
+2018-02-12T15:22:32+00:00,825288947,821653739,0,190.19.11.96,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,Winners highlightened and column size
+2017-11-25T08:19:28+00:00,811996140,811889739,0,Rburton66,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,Undid revision 811889739 by [[Special:Contributions/Michael 182|Michael 182]] ([[User talk:Michael 182|talk]]) Reverting edit inconsistent with Emmy page formatting. Please discuss on Talk page before instituting such changes.
+2018-01-21T20:36:43+00:00,821653739,817974023,0,Diopic,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,
+2017-10-05T16:17:08+00:00,803933769,801797870,0,Francuaza,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,/* 1960s */
+2017-12-14T23:06:11+00:00,815457705,811996184,0,KolbertBot,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v478)
+2018-03-14T06:22:21+00:00,830340698,829669932,0,NathanielTheBold,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,
+2017-11-14T06:41:40+00:00,810266051,810124275,0,Rburton66,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,Reverted edit inconsistent with Primetime Emmy page formatting
+2017-11-03T05:56:08+00:00,808497459,807599219,0,Rburton66,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,Reverting edit inconsistent with Primetime Emmy pages formatting
+2017-11-01T16:59:50+00:00,808227168,807960820,0,Hoverfish,Silver Bear for Best Actor,remove boldface from table entries per [[MOS:NOBOLD]]
+2017-11-18T03:37:56+00:00,810892267,809689959,0,GreenC,Primetime Emmy Award for Outstanding Television Movie,wiki-l
+2018-02-12T15:07:47+00:00,825286999,821411374,0,190.19.11.96,Primetime Emmy Award for Outstanding Television Movie,Changed the format according to the talk page.
+2018-01-04T18:52:50+00:00,818640032,818014039,0,DDDnfl,Red Beard,/* Cast */ Added Koji Mitsui and Haruko Sugimura; corrected credit of brothel madam to Sugimura
+2017-09-27T01:50:27+00:00,802575857,802575607,0,MarnetteD,Red Beard,/* External links */ restore navbox but keep it in the gathered template
+2017-12-08T01:54:18+00:00,814312667,811316951,0,FrescoBot,Silver Bear for Best Actor,Bot: [[User:FrescoBot/Links|link syntax]]
+2018-03-05T13:46:31+00:00,828906809,828889242,0,Hoverfish,Silver Bear for Best Actor,/* Awards */ corr
+2018-03-12T12:01:54+00:00,830045430,829061429,0,Onel5969,Silver Bear for Best Actor,Disambiguating links to [[The Defiant_Ones]] (link changed to [[The Defiant Ones (film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-12-08T01:54:36+00:00,814312696,811433830,0,FrescoBot,Silver Bear for Best Actress,Bot: [[User:FrescoBot/Links|link syntax]]
+2018-02-13T13:19:41+00:00,825447401,822599322,0,Michael 182,Silver Bear for Best Actress,Michael 182 moved page [[Berlin Film Festival Award for Best Actress]] to [[Silver Bear for Best Actress]] over redirect: It will make it easier for user to find the article.
+2017-11-01T16:58:40+00:00,808226976,808049871,0,Hoverfish,Silver Bear for Best Actress,remove boldface from table entries per [[MOS:NOBOLD]]
+2018-01-27T10:07:20+00:00,822599322,822599302,0,Kim Leung,Silver Bear for Best Actress,
+2018-03-06T11:45:14+00:00,829061493,828972852,0,Hoverfish,Silver Bear for Best Actress,/* top */ reduce logo size
+2018-03-18T20:25:31+00:00,831110512,829061493,0,Michael 182,Silver Bear for Best Actress,Changed column arrangement
+2017-11-01T17:02:00+00:00,808227539,807958060,0,Hoverfish,Silver Bear for Best Director,remove boldface from table entries per [[MOS:NOBOLD]]
+2017-12-16T12:26:16+00:00,815689198,814329470,0,Timmyshin,Silver Lion,/* 1990s */
+2018-01-27T20:12:58+00:00,822668256,815962154,0,190.19.5.35,Talk:Academy Award for Best Actor,/* Splitting table by decade */
+2017-11-01T16:57:14+00:00,808226761,808062802,0,Hoverfish,Silver Lion,remove boldface from table entries per [[MOS:NOBOLD]]
+2017-11-03T02:22:04+00:00,808474140,808297363,0,Lowercase sigmabot III,Talk:Academy Award for Best Actor,Archiving 1 discussion(s) to [[Talk:Academy Award for Best Actor/Archive 4]]) (bot
+2017-11-08T22:54:43+00:00,809411284,808474140,0,Brian W. Schaller,Talk:Academy Award for Best Actor,/* Splitting table by decade */
+2017-12-18T10:00:42+00:00,815962154,815142768,0,Brian W. Schaller,Talk:Academy Award for Best Actor,/* Move most of the images to a Wikimedia gallery? */ link
+2017-12-13T00:40:35+00:00,815142768,813947805,0,Brian W. Schaller,Talk:Academy Award for Best Actor,/* Move most of the images to a Wikimedia gallery? */ cmt
+2017-11-08T23:35:14+00:00,809416646,808297686,0,Brian W. Schaller,Talk:Academy Award for Best Actress,/* Splitting table by decade */
+2017-12-07T20:26:54+00:00,814271685,814269461,0,AldezD,Talk:Academy Award for Best Picture,"/* Remakes */ Indent, reply"
+2017-12-06T02:31:29+00:00,813947714,813856079,0,AldezD,Talk:Academy Award for Best Supporting Actor,"Reverted to revision 813463673 by [[Special:Contributions/Brian W. Schaller|Brian W. Schaller]] ([[User talk:Brian W. Schaller|talk]]): Abusing multiple accounts, blocked user. ([[WP:TW|TW]])"
+2017-12-06T02:34:33+00:00,813948102,813932723,0,AldezD,Talk:Academy Award for Best Supporting Actress,"abusing multiple accounts, blocked user"
+2018-02-13T13:19:42+00:00,825447406,0,0,Michael 182,Talk:Berlin Film Festival Award for Best Actress,Michael 182 moved page [[Talk:Berlin Film Festival Award for Best Actress]] to [[Talk:Silver Bear for Best Actress]] over redirect: It will make it easier for user to find the article.
+2017-11-09T18:28:37+00:00,809529391,809528913,0,Ammarpad,Talk:Palme d'Or,/* Multiple Palme winners */ fix
+2017-07-14T17:58:05+00:00,790581852,790581777,0,Hoverfish,Talk:Cannes Film Festival Award for Best Actress,/* No flag icons please */ v
+2018-03-30T14:51:58+00:00,833260596,833259496,0,Spintendo,Talk:Palme d'Or,/* Semi-protected edit request on 9 January 2018 */ Visitors to the Cannes archival documents page for the film Hets must click 'Palmarès' (prize list) to see the awards given
+2017-12-06T02:31:14+00:00,813947683,813860652,0,AldezD,Talk:Primetime Emmy Award for Outstanding Comedy Series,"Reverted to revision 556764071 by [[Special:Contributions/BattyBot|BattyBot]] ([[User talk:BattyBot|talk]]): Abusing multiple accounts, blocked user. ([[WP:TW|TW]])"
+2013-05-25T18:49:34+00:00,556764071,520823646,0,BattyBot,Talk:Primetime Emmy Award for Outstanding Comedy Series,[[WP:AWB/GF#Talk page general fixes|Talk page general fixes]] & other cleanup using [[Project:AWB|AWB]]
+2017-12-06T02:30:59+00:00,813947661,813860754,0,AldezD,Talk:Primetime Emmy Award for Outstanding Drama Series,"Undid revision 813860754 by [[Special:Contributions/TwentySteps|TwentySteps]] ([[User talk:TwentySteps|talk]]) abusing multiple accounts, blocked user"
+2018-01-24T15:46:16+00:00,822131116,813947661,0,181.170.25.228,Talk:Primetime Emmy Award for Outstanding Drama Series,/* Winners in bold */ new section
+2018-02-13T13:19:42+00:00,825447405,824309399,0,Michael 182,Talk:Silver Bear for Best Actress,Michael 182 moved page [[Talk:Berlin Film Festival Award for Best Actress]] to [[Talk:Silver Bear for Best Actress]] over redirect: It will make it easier for user to find the article.
+2018-03-01T10:57:55+00:00,828238462,828238238,0,Hoverfish,Talk:Silver Bear for Best Actress,/* Moving page */ +
+2017-10-18T04:59:33+00:00,805873048,804281846,0,97.125.106.44,The Hidden Fortress,"Fixing spelling for Kamatari Fujiwara, and thus proper wiki linking."
+2015-06-28T03:36:10+00:00,668991240,230072756,0,HesioneHushabye,Talk:Silver Bear for Best Actress,HesioneHushabye moved page [[Talk:Silver Bear for Best Actress]] to [[Talk:Berlin Film Festival Award for Best Actress]]: more clear and identifiable
+2017-09-22T01:36:23+00:00,801817629,797120508,0,Hoverfish,User talk:Hoverfish,i'm back
+2017-12-03T05:49:02+00:00,813347694,812332566,0,TGCP,The Hidden Fortress,/* Influence */ no connection between entries
+2018-03-21T10:12:47+00:00,831592959,831585309,0,Hoverfish,User talk:Hoverfish,"/* Disambiguation link notification for March 21 */ fixed, thanks"
+2017-12-30T00:19:22+00:00,817691782,812946126,0,CAWylie,Volpi Cup for Best Actor,/* External links */
+2017-11-30T20:50:52+00:00,812946126,808226089,0,Werldwayd,Volpi Cup for Best Actor,/* 2010s */
+2017-09-30T16:54:19+00:00,803129364,802576592,0,Sheila1988,Volpi Cup for Best Actor,/* Volpi Cup winners (1935–1942) */ Italian flags
+2018-03-26T18:16:31+00:00,832555914,832548077,0,Hoverfish,Volpi Cup for Best Actor,/* Winners */ one more
+2017-12-08T07:34:03+00:00,814348244,811314880,0,FrescoBot,Volpi Cup for Best Actress,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-11-01T16:54:41+00:00,808226427,808100020,0,Hoverfish,Volpi Cup for Best Actress,remove boldface from table entries per [[MOS:NOBOLD]]
+2017-11-20T21:10:32+00:00,811314880,808226427,0,Michael 182,Volpi Cup for Best Actress,
+2018-03-23T01:12:54+00:00,831961791,831961684,0,Hoverfish,Wikipedia talk:WikiProject Film,/* Linking directly to IMDb title or name from within lists */ v
+2017-10-30T01:24:56+00:00,807770196,807764878,0,Clarityfiend,Wikipedia talk:WikiProject Film,/* IMDb expert */
+2017-12-12T00:56:57+00:00,814979942,814979806,0,Betty Logan,Wikipedia talk:WikiProject Film,/* Scott Pilgrim vs. the World */
+2017-12-04T02:34:02+00:00,813562773,813390036,0,Lowercase sigmabot III,Wikipedia talk:WikiProject Film,Archiving 2 discussion(s) to [[Wikipedia talk:WikiProject Film/Archive 67]]) (bot
+2017-12-04T18:00:57+00:00,813677525,813677216,0,Lugnuts,Wikipedia talk:WikiProject Film,/* Does the Re-release Matter? */
+2018-02-28T18:57:14+00:00,828129885,828129564,0,Hoverfish,Wikipedia talk:WikiProject Film,/* Again the issue of splitting film award articles by decade */ corr
+2018-02-24T19:38:46+00:00,827444642,827444421,0,Erik,Wikipedia talk:WikiProject Film,/* Best Directing Academy Award and related changes */ expanded suggestion
+2018-02-20T02:18:53+00:00,826610880,826583114,0,Lowercase sigmabot III,Wikipedia talk:WikiProject Film,Archiving 2 discussion(s) to [[Wikipedia talk:WikiProject Film/Archive 68]]) (bot
+2017-12-20T14:03:46+00:00,816300302,816220339,0,Argento Surfer,Wikipedia talk:WikiProject Film,"/* Could somebody keep an eye on Asmaa, please? */ replay"
+2017-12-04T15:00:10+00:00,813649709,813648494,0,Lugnuts,Wikipedia talk:WikiProject Film,/* Does the Re-release Matter? */
+2018-02-09T00:55:34+00:00,824711940,824675323,0,Lowercase sigmabot III,Wikipedia talk:WikiProject Film,Archiving 2 discussion(s) to [[Wikipedia talk:WikiProject Film/Archive 68]]) (bot
+2018-04-05T04:15:30+00:00,834332938,834326492,0,Deathawk,Wikipedia talk:WikiProject Film,/* Box Office Predictions */
+2017-12-02T15:09:47+00:00,813226960,813140354,0,Headbomb,Wikipedia talk:WikiProject Film,/* WP:AALERTS need some help on Community Wishlist Survey */ new section
+2017-11-19T14:46:13+00:00,811101135,811093154,0,NinjaRobotPirate,Wikipedia talk:WikiProject Film,/* User splitting award lists by decades & disabling sortability */
+2018-02-15T00:58:20+00:00,825721648,825695415,0,Lowercase sigmabot III,Wikipedia talk:WikiProject Film,Archiving 3 discussion(s) to [[Wikipedia talk:WikiProject Film/Archive 68]]) (bot
+2017-12-23T03:16:04+00:00,816702179,816692613,0,Spanneraol,Wikipedia talk:WikiProject Film,/* Visual Effects Society award nominations - to be included? */
+2014-09-21T22:51:30+00:00,626539295,626522437,0,Birdienest81,Academy Award for Best Actor,/* Winners and nominees */
+2017-09-20T22:32:01+00:00,801639721,801602129,0,190.19.10.71,Academy Award for Best Actor,
+2016-08-08T23:16:42+00:00,733607602,730966822,0,2601:C9:3:E0B0:3C3D:C071:4A98:C0D9,Academy Award for Best Actor,/* Winners and nominees */
+2013-05-27T23:38:32+00:00,557090238,557006172,0,Jjjakegittes,Academy Award for Best Actor,/* 1930s */
+2015-09-17T15:15:42+00:00,681494033,680032595,0,Paulobrian,Academy Award for Best Actor,"Removing errant ""62"""
+2014-09-08T20:53:24+00:00,624719043,624718929,0,Birdienest81,Academy Award for Best Actor,/* Winners and nominees */
+2014-02-22T19:31:12+00:00,596670197,596666194,0,Flyer22 Frozen,Academy Award for Best Actor,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/50.152.173.141|50.152.173.141]] using [[WP:STiki|STiki]]
+2013-07-13T08:18:37+00:00,564077808,563253524,0,KIRILL1995,Academy Award for Best Actor,"/* Multiple nominations for Best Actor */ 1 nomination for 2 films, I wrong."
+2015-03-01T19:41:30+00:00,649419414,649294737,0,137.207.232.81,Academy Award for Best Actor,/* Winners and nominees */
+2015-04-19T17:19:19+00:00,657208090,657207880,0,24.57.61.0,Academy Award for Best Actor,/* Winners and nominees */
+2014-11-07T14:50:46+00:00,632832345,632832089,0,Ruthead,Academy Award for Best Actor,/* Winners and nominees */
+2015-12-19T05:45:39+00:00,695865859,695865801,0,Birdienest81,Academy Award for Best Actor,/* Winners and nominees */ Too many photos
+2016-12-14T07:21:58+00:00,754742855,754109776,0,Birdienest81,Academy Award for Best Actor,/* Winners and nominees */ Rin Tin Tin reference is marked in table.
+2014-01-05T13:04:59+00:00,589284989,589284749,0,41.143.138.81,Academy Award for Best Actor,/* Winners and nominees */
+2014-02-05T03:45:20+00:00,593994741,593789536,0,Jimmypopeyedoyle,Academy Award for Best Actor,/* Winners and nominees */
+2014-02-24T20:14:08+00:00,596964468,596963824,0,Horseless Headman,Academy Award for Best Actress,Reverted 1 edit by [[Special:Contributions/Ilovetheater|Ilovetheater]] ([[User talk:Ilovetheater|talk]]) to last revision by L1975p. ([[WP:TW|TW]])
+2016-10-16T06:18:35+00:00,744588215,742345164,0,24.85.167.59,Academy Award for Best Actor,/* Winners and nominees */
+2017-07-11T23:00:25+00:00,790157308,790153732,0,Emmy Expert,Academy Award for Best Actress,
+2016-03-27T08:14:10+00:00,712148898,712138307,0,Yobot,Academy Award for Best Actress,/* Winners and nominees */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (11979)
+2015-07-13T15:43:58+00:00,671268764,671201420,0,BeforeSunrise96,Academy Award for Best Actress,/* Winners and nominees */
+2015-09-26T20:21:36+00:00,682894685,682599565,0,Wikipedical,Academy Award for Best Director,fix redirects
+2015-05-13T18:53:47+00:00,662191160,662188182,0,Wgolf,Academy Award for Best Director,Reverted 6 edits by [[Special:Contributions/207.157.180.77|207.157.180.77]] ([[User talk:207.157.180.77|talk]]) to last revision by Crboyer. ([[WP:TW|TW]])
+2016-06-29T06:45:14+00:00,727475711,727475675,0,JonathanLSydel,Academy Award for Best Actress,
+2014-08-19T05:52:29+00:00,621876892,621794512,0,Birdienest81,Academy Award for Best Actor,/* Multiple nominations for Best Actor without winning */ No citation
+2014-08-03T10:33:43+00:00,619657124,619550809,0,Sfan00 IMG,Academy Award for Best Actress,[[:en:WP:CLEANER|WPCleaner]] v1.33 - Fixed using [[WP:WCW]] (Template without correct beginning)
+2015-01-16T06:53:29+00:00,642721535,642701107,0,Blitz Lutte 2,Academy Award for Best Actress,Undid revision 642701107 by [[Special:Contributions/HesioneHushabye|HesioneHushabye]] ([[User talk:HesioneHushabye|talk]])
+2015-10-25T21:06:02+00:00,687479027,687478944,0,Stefan2,Academy Award for Best Director,"Commenting out use(s) of file ""File:William Wyler.jpg"": See [[WP:NFCC#10c]]. ([[WP:TW|TW]])"
+2017-06-30T19:25:58+00:00,788316134,788292563,0,Cinemaniac86,Academy Award for Best Director,"Undid revision 788292563 by [[Special:Contributions/Diopic|Diopic]] ([[User talk:Diopic|talk]]) If you want to propose the (#/#) format, start a talk page discussion. Also, the accents over the names must remain in place."
+2016-09-07T02:36:12+00:00,738131624,736696776,0,GcSwRhIc,Academy Award for Best Director,/* Winners and nominees */ spelling
+2015-12-25T17:41:31+00:00,696763770,696762990,0,Heisenberg0893,Academy Award for Best Director,
+2016-04-29T05:10:14+00:00,717692668,717688504,0,2605:E000:1313:1D9:B746:77D5:84FE:D23B,Academy Award for Best Picture,/* 1920s */
+2014-10-31T17:00:09+00:00,631908132,631080627,0,Welsh,Academy Award for Best Picture,fix link
+2017-02-14T09:38:31+00:00,765424958,765385297,0,Mymis,Academy Award for Best Picture,
+2017-07-11T23:55:20+00:00,790162854,789569125,0,Emmy Expert,Academy Award for Best Picture,
+2013-06-21T18:40:56+00:00,560952668,560952592,0,Everyoneandeveryone,Academy Award for Best Picture,/* 1990s */
+2016-08-13T17:27:02+00:00,734337660,733682243,0,2A02:C7F:8601:2E00:B9D4:263A:DC76:3A23,Academy Award for Best Picture,
+2014-03-29T03:57:41+00:00,601756705,601711185,0,58.93.46.88,Academy Award for Best Picture,"Irrelevant, Unique and Artistic Production is NOT part of the Best Picture Award and is seen as separate according to official sources and as such shouldn't listed, nevertheless said article redirects to the 1st Academy Awards which shows the nominees"
+2015-01-23T17:09:35+00:00,643841404,643738920,0,Captain Assassin!,Academy Award for Best Picture,/* 2000s */  Voltage Pictures
+2013-06-28T10:34:09+00:00,561946751,560952668,0,Mariosamus,Academy Award for Best Picture,Nominated as The Invaders according to Oscar Database
+2017-01-16T20:41:07+00:00,760411818,760147102,0,Sunshineisles2,Academy Award for Best Picture,No evidence that it was not last pre-1973
+2017-05-09T11:25:15+00:00,779518935,779505103,0,Darksknight,Academy Award for Best Picture,Undid revision 779505103 by [[Special:Contributions/91.41.49.79|91.41.49.79]] ([[User talk:91.41.49.79|talk]])
+2016-11-10T04:44:44+00:00,748752928,748752859,0,General Ization,Academy Award for Best Picture,Reverted edits by [[Special:Contribs/173.72.133.100|173.72.133.100]] ([[User talk:173.72.133.100|talk]]) to last version by 2A02:C7D:AA02:5D00:454:8889:B80A:67D4
+2015-06-06T18:46:13+00:00,665791064,664754792,0,68.40.206.30,Academy Award for Best Picture,/* 1970s */
+2013-07-24T08:48:20+00:00,565589263,565589152,0,Jonjon082693,Academy Award for Best Picture,/* See also */
+2014-05-18T04:24:51+00:00,609048442,608217216,0,112.164.25.88,Academy Award for Best Picture,/* Silent film winners */
+2018-02-11T05:31:42+00:00,825051558,824779480,0,175.28.167.51,Academy Award for Best Picture,"Combining stats in table for production studios that were under the same Parent company (eg. Paramount Laskey and Paramount Publix were under Paramount, Warner Bros owned First National, Fox and 20th Century Merger)"
+2016-12-09T05:35:45+00:00,753791755,753608703,0,Emmy Expert,Academy Award for Best Picture,
+2013-07-15T18:06:28+00:00,564392004,564387673,0,Wtwilson3,Academy Award for Best Picture,[[Help:Reverting|Reverted]] 1 [[Wikipedia:Pending changes|pending]] edit by [[Special:Contributions/138.162.8.59|138.162.8.59]] to revision 563896372 by Wetdogmeat
+2014-06-28T07:49:10+00:00,614732361,614732353,0,Download,Academy Award for Best Picture,Reverted edits by [[Special:Contributions/92.98.167.108|92.98.167.108]] ([[User talk:92.98.167.108|talk]]) ([[WP:HG|HG]])
+2015-01-31T17:35:50+00:00,645017297,644610202,0,94.10.156.49,Academy Award for Best Picture,/* 1930s */
+2013-12-02T18:13:03+00:00,584237821,584237411,0,Appl3pi3888888,Academy Award for Best Picture,/* History */
+2017-02-21T19:43:14+00:00,766723239,766627483,0,81.129.106.36,Academy Award for Best Supporting Actor,
+2015-02-08T18:11:10+00:00,646216587,646185064,0,24.57.61.0,Academy Award for Best Supporting Actor,/* 2010s */
+2013-08-28T01:30:09+00:00,570474678,570306298,0,Musdan77,Academy Award for Best Supporting Actor,Undid revision 570229993 by [[Special:Contributions/Jonjon082693|Jonjon082693]] ([[User talk:Jonjon082693|talk]])
+2016-03-13T02:23:18+00:00,709786650,707852123,0,Joseph A. Spadaro,Academy Award for Best Supporting Actor,/* External links */
+2016-06-29T06:43:16+00:00,727475563,727475140,0,JonathanLSydel,Academy Award for Best Supporting Actor,
+2016-11-18T02:07:54+00:00,750147085,748581839,0,128.223.223.123,Academy Award for Best Supporting Actor,Added links
+2014-09-21T08:55:21+00:00,626452943,624720093,0,Gonnym,Academy Award for Best Supporting Actor,/* Winners and nominees */
+2015-12-28T00:00:50+00:00,697059886,697059528,0,Jobu0101,Academy Award for Best Supporting Actor,/* Winners and nominees */ Redirections resolved
+2015-03-18T09:00:45+00:00,651901917,650439541,0,Ulric1313,Academy Award for Best Supporting Actor,dab
+2015-05-18T03:30:17+00:00,662877402,662876632,0,Cowlibob,Academy Award for Best Supporting Actor,/* Age superlatives */
+2015-02-23T15:12:14+00:00,648485092,648424029,0,Niceguyedc,Academy Award for Best Supporting Actor,[[:en:WP:CLEANER|WPCleaner]] v1.34 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Whiplash]]
+2015-07-07T16:12:30+00:00,670379182,670359239,0,Birdienest81,Academy Award for Best Supporting Actress,Restored version reviewed by FLC
+2016-12-15T12:04:34+00:00,754954031,753792505,0,GusF,Academy Award for Best Supporting Actress,
+2014-01-19T19:49:58+00:00,591454533,591005837,0,24.57.61.0,Academy Award for Best Supporting Actress,/* 2000s */
+2016-03-13T00:17:11+00:00,709771918,708764414,0,BD2412,Academy Award for Best Supporting Actress,"/* Winners and nominees */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: [[The V.I.P.s]] → [[The V.I.P.s (film)|The V.I.P.s]] using [[Project:AWB|AWB]]"
+2016-04-09T17:47:54+00:00,714423523,709786650,0,24.51.199.152,Academy Award for Best Supporting Actor,
+2016-10-30T12:41:03+00:00,746934995,746840544,0,81.129.106.176,Academy Award for Best Supporting Actor,
+2014-01-10T08:58:48+00:00,590049474,589122907,0,StAnselm,Academy Award for Best Supporting Actress,Disambiguated: [[Nine (film)]] → [[Nine (2009 live-action film)]]
+2013-08-30T17:16:40+00:00,570834500,570230010,0,Borxdeluxe,Academy Award for Best Supporting Actress,/* 1990s */
+2015-02-08T13:24:01+00:00,646185125,646174978,0,86.155.83.84,Academy Award for Best Supporting Actress,/* 2010s */
+2015-11-23T22:55:43+00:00,692118140,691086001,0,Lockley,Academy Award for Best Supporting Actress,dab
+2015-01-29T21:25:52+00:00,644752491,644752356,0,150.108.238.57,Academy Award for Best Supporting Actress,/* 1930s */
+2014-09-24T16:10:01+00:00,626912247,616409344,0,81.84.69.77,Cannes Film Festival Award for Best Actor,
+2013-09-20T17:47:07+00:00,573806851,563771954,0,Hmainsbot1,Cannes Film Festival Award for Best Actor,"AWB general fixes and delink dates per [[:WP:DATELINK]], [[:WP:YEARLINK]] and [[:MOS:UNLINKYEARS]] using [[Project:AWB|AWB]]"
+2016-07-08T05:52:42+00:00,728868942,728030662,0,Csurla,Cannes Film Festival Award for Best Actor,unoffical flag change to offical
+2014-12-29T02:09:10+00:00,640027425,640027373,0,171.232.16.221,Academy Award for Best Supporting Actress,
+2015-05-24T18:12:51+00:00,663830521,663830331,0,Jonah2557,Cannes Film Festival Award for Best Actor,/* Award Winners */
+2014-03-04T18:19:44+00:00,598138728,590320440,0,Ulric1313,Cannes Film Festival Award for Best Actor,dab
+2016-07-02T17:53:25+00:00,728030662,726137662,0,Ddlfan,Cannes Film Festival Award for Best Actor,Ddlfan moved page [[Best Actor Award (Cannes Film Festival)]] to [[Cannes Film Festival Award for Best Actor]]: Best Actress page is similarly formatted - pages should be similar
+2013-06-02T13:38:13+00:00,557972240,557971625,0,79.50.152.128,Cannes Film Festival Award for Best Actor,/* Award Winners */
+2016-05-23T03:00:11+00:00,721629111,721629025,0,Hariboneagle927,Cannes Film Festival Award for Best Actor,/* Award Winners */
+2014-04-07T23:32:25+00:00,603226684,603188539,0,Vanthorn,Cannes Film Festival Award for Best Actress,Rv - unsourced info
+2017-06-24T10:40:13+00:00,787256915,782734925,0,Emmy Expert,Cannes Film Festival Award for Best Actor,
+2016-05-23T02:44:45+00:00,721627545,721627437,0,Hariboneagle927,Cannes Film Festival Award for Best Actress,/* Award Winners */
+2014-10-02T21:20:41+00:00,628003012,624452537,0,Mazandar,Cannes Film Festival Award for Best Director,formatting: 59x whitespace (using [[User:Cameltrader#Advisor.js|Advisor.js]])
+2013-06-02T13:36:28+00:00,557972037,557861707,0,79.50.152.128,Cannes Film Festival Award for Best Actress,/* Award Winners */
+2013-06-05T05:10:07+00:00,558397568,557053725,0,189.186.217.42,Cannes Film Festival Award for Best Director,/* Award winners */
+2013-11-07T22:15:53+00:00,580666389,558397568,0,Jonjon889933,Cannes Film Festival Award for Best Director,/* Award winners */
+2014-04-17T19:51:56+00:00,604637535,598138833,0,Gomuse17,Cannes Film Festival Award for Best Director,/* Award winners */
+2015-09-08T10:33:50+00:00,680044407,666221452,0,Panzer,Golden Bear,/* Golden Bear Winners */
+2017-02-05T23:02:43+00:00,763909496,757581331,0,Deoliveirafan,Golden Bear,/* Golden Bear – Honorary Award */
+2014-10-22T22:02:54+00:00,630710626,628010067,0,JustAGal,Golden Globe Award for Best Actor in a Motion Picture – Drama,"Disambiguated: [[Friendly Persuasion]] → [[Friendly Persuasion (film)]], [[The Rainmaker]] → [[The Rainmaker (1956 film)]]"
+2014-10-15T13:23:23+00:00,629709409,629709127,0,Felix Pirvan,Golden Bear,/* Golden Bear winners */
+2014-03-24T17:19:12+00:00,601058935,601058620,0,166.48.92.200,Golden Bear,/* Golden Bear winners */
+2017-01-24T14:08:18+00:00,761727832,759091272,0,2602:306:CDAF:9B60:C913:78C7:BCDB:D3D2,Golden Globe Award for Best Actor in a Motion Picture – Drama,/* 2010s */
+2016-09-07T21:59:00+00:00,738260691,738152807,0,Cnwilliams,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,Disambiguated: [[George Hamilton]] → [[George Hamilton (actor)]]
+2016-02-08T22:12:33+00:00,703995838,703668057,0,BG19bot,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,/* 2010s */[[WP:CHECKWIKI]] error fix for #64.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11876)
+2017-07-14T04:24:24+00:00,790503120,789569584,0,Emmy Expert,Golden Globe Award for Best Actor in a Motion Picture – Drama,
+2014-09-22T00:40:22+00:00,626551133,622094066,0,Kresblain,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,Reverted 1 edit by [[Special:Contributions/70.189.117.220|70.189.117.220]] ([[User talk:70.189.117.220|talk]]) to last revision by BD2412. ([[WP:TW|TW]])
+2013-08-02T23:11:44+00:00,566919848,561312144,0,74.240.8.150,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,/* 1980s */
+2014-04-04T22:08:28+00:00,602785161,600804606,0,BrownHairedGirl,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,/* 1980s */ dab
+2014-02-26T01:31:02+00:00,597157678,590973551,0,81.155.86.94,Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy,/* 2000s */
+2015-05-21T16:01:24+00:00,663420707,650519286,0,Heisenberg0893,Golden Globe Award for Best Actor – Miniseries or Television Film,/* 2010s */
+2017-03-12T07:05:32+00:00,769896549,769895944,0,Emmy Expert,Golden Globe Award for Best Actor – Miniseries or Television Film,
+2015-05-18T21:17:46+00:00,662993148,662191865,0,2804:14C:116:2318:3452:5F78:29BE:8B85,Golden Globe Award for Best Actor – Television Series Drama,/* Multiple Winners */
+2013-12-30T00:16:12+00:00,588287496,588176080,0,Mjlcatlin,Golden Globe Award for Best Actor – Television Series Drama,"2010 Winner, Steve Buscemi, was broken"
+2013-04-20T09:32:05+00:00,551259992,546502826,0,Yobot,Golden Globe Award for Best Actor – Television Series Drama,[[WP:CHECKWIKI]] error fixes - Replaced endash with hyphen  in sortkey per [[WP:MCSTJR]] using [[Project:AWB|AWB]] (9100)
+2018-03-05T23:36:05+00:00,828987452,828607812,0,Wkyken,Golden Globe Award for Best Actor – Television Series Drama,/* 2010s */
+2016-01-12T06:52:56+00:00,699425903,699264298,0,BG19bot,Golden Globe Award for Best Actor – Television Series Drama,[[WP:CHECKWIKI]] error fix for #64.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11756)
+2015-12-11T01:32:27+00:00,694712414,694632857,0,ColRad85,Golden Globe Award for Best Actor – Miniseries or Television Film,Disambiguated: [[Patrick Wilson]] → [[Patrick Wilson (American actor)]]
+2014-02-08T15:39:11+00:00,594528314,593374276,0,PKT,Golden Globe Award for Best Actor – Television Series Musical or Comedy,Disambiguated: [[Michael Scott]] → [[Michael Scott (The Office)]]
+2016-01-11T20:57:39+00:00,699355988,699234322,0,68.184.142.177,Golden Globe Award for Best Actor – Television Series Musical or Comedy,
+2013-07-02T21:36:27+00:00,562603804,562603603,0,Psychadelicboy33,Golden Globe Award for Best Actor – Television Series Musical or Comedy,
+2014-05-27T04:21:22+00:00,610299249,594528314,0,24.184.193.162,Golden Globe Award for Best Actor – Television Series Musical or Comedy,
+2016-02-14T20:37:53+00:00,704982544,704853859,0,Musdan77,Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy,"General clean up per MOS and standards, etc."
+2013-09-01T03:21:45+00:00,571027601,566155983,0,Vytal,Golden Globe Award for Best Actor – Television Series Musical or Comedy,American English
+2017-02-27T05:43:10+00:00,767658163,766279829,0,187.188.11.219,Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy,
+2014-07-11T02:54:01+00:00,616474541,614803400,0,BD2412,Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy,"/* 1990s */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: Evita (film) → Evita (1996 film) using [[Project:AWB|AWB]]"
+2016-10-08T05:40:56+00:00,743155965,740154659,0,Emmy Expert,Golden Globe Award for Best Actress – Miniseries or Television Film,/* See also */
+2018-03-01T12:53:00+00:00,828249366,827045901,0,TwoTwoHello,Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy,"clean up, replaced: [[1951 in film|1951]] → 1951, [[WP:AWB/T|typo(s) fixed]]: perfomances → performances (2) using [[Project:AWB|AWB]]"
+2014-04-17T23:39:19+00:00,604664504,601421793,0,Jonjon889933,Golden Globe Award for Best Actress – Miniseries or Television Film,/* 2010s */
+2017-03-10T16:39:47+00:00,769612522,769572604,0,PKT,Golden Globe Award for Best Actress – Miniseries or Television Film,Disambiguated: [[The Man Upstairs]] → [[The Man Upstairs (1992 film)]]
+2014-04-26T19:09:03+00:00,605931385,604664504,0,Jonjon889933,Golden Globe Award for Best Actress – Miniseries or Television Film,/* 2010s */
+2016-01-11T03:28:40+00:00,699239392,694640869,0,Dancedom,Golden Globe Award for Best Actress – Television Series Drama,/* 2010s */
+2017-07-14T06:25:37+00:00,790512916,788298874,0,Emmy Expert,Golden Globe Award for Best Actress – Television Series Drama,
+2017-06-30T17:24:15+00:00,788298874,788293445,0,79.95.176.227,Golden Globe Award for Best Actress – Television Series Drama,/* 2000s */
+2016-09-06T16:56:30+00:00,738049449,735824263,0,GcSwRhIc,Golden Globe Award for Best Actress – Television Series Drama,actress not queen
+2014-03-15T07:00:20+00:00,599688788,599596510,0,Jonjon889933,Golden Globe Award for Best Actress – Television Series Musical or Comedy,/* 2010s */
+2016-02-11T05:03:15+00:00,704373024,699301223,0,HappyAppy10,Golden Globe Award for Best Actress – Television Series Musical or Comedy,/* 2000s */
+2017-12-03T04:38:36+00:00,813339373,809665634,0,Painting is fun,Golden Globe Award for Best Limited or Anthology Series or Television Film,/* 1980s */
+2017-04-30T04:31:14+00:00,777931659,770519936,0,InternetArchiveBot,Golden Globe Award for Best Motion Picture – Drama,Rescuing 6 sources and tagging 0 as dead. #IABot (v1.3beta8) ([[User:Elisfkc|Elisfkc]])
+2013-02-26T01:18:51+00:00,540432379,532953079,0,Addbot,Golden Globe Award for Best Limited or Anthology Series or Television Film,"[[User:Addbot|Bot:]] Migrating 9 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q265435]] ([[User talk:Addbot|Report Errors]])"
+2013-11-22T21:46:50+00:00,582873971,580362369,0,Cnwilliams,Golden Globe Award for Best Motion Picture – Drama,Disambiguated: [[The Man Who Wasn't There]] → [[The Man Who Wasn't There (2001 film)]]
+2015-11-26T05:36:48+00:00,692508288,690499293,0,78.148.86.144,Golden Globe Award for Best Limited or Anthology Series or Television Film,/* 2010s */
+2015-03-06T16:53:04+00:00,650166401,649346155,0,Captain Assassin!,Golden Globe Award for Best Motion Picture – Drama,/* 2000s */  Daniel Dubiecki
+2015-09-24T19:17:05+00:00,682601255,650166401,0,Niceguyedc,Golden Globe Award for Best Motion Picture – Drama,v1.36 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Hud (film)]]
+2013-12-20T07:20:29+00:00,586917013,586256199,0,122.106.189.100,Golden Globe Award for Best Motion Picture – Drama,
+2016-04-08T03:15:16+00:00,714175874,708656676,0,Wgolf,Golden Globe Award for Best Motion Picture – Drama,/* 1980s */
+2016-03-24T13:46:00+00:00,711727913,711727852,0,24.51.199.152,Golden Globe Award for Best Motion Picture – Musical or Comedy,/* 2000s */
+2017-08-05T07:12:42+00:00,794008227,794008180,0,2600:6C50:427F:EF98:E996:B38E:183:D91C,Golden Globe Award for Best Motion Picture – Musical or Comedy,fixing
+2016-06-02T01:06:25+00:00,723264772,723264725,0,JonathanLSydel,Golden Globe Award for Best Motion Picture – Musical or Comedy,/* See also */
+2016-01-17T17:56:08+00:00,700299678,700286728,0,Captain Assassin!,Golden Globe Award for Best Motion Picture – Musical or Comedy,/* 2010s */  Mark Huffam
+2015-03-24T22:54:27+00:00,653377809,646976846,0,Alfrew,"Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film","/* 1980s */ added tag to match Magnum, P.I. article"
+2013-12-12T14:03:25+00:00,585742713,585387638,0,Itxia,Golden Globe Award for Best Motion Picture – Musical or Comedy,/* 2010s */
+2014-01-13T02:05:31+00:00,590446202,590446062,0,181.66.157.251,"Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film",/* 2010s */
+2017-02-04T07:18:09+00:00,763625761,759212816,0,Emmy Expert,"Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film",
+2017-08-31T15:06:26+00:00,798201749,798201730,0,91.152.245.75,Golden Globe Award for Best Supporting Actress – Motion Picture,
+2016-11-21T02:02:35+00:00,750653991,745853674,0,47.145.200.14,"Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film",/* Multiple nominations */
+2014-10-03T16:53:49+00:00,628102119,623493030,0,DrKay,Golden Globe Award for Best Supporting Actress – Motion Picture,/* 2000s */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]] using [[Project:AWB|AWB]]
+2014-08-20T19:41:17+00:00,622098588,617918696,0,70.189.117.220,Golden Globe Award for Best Supporting Actress – Motion Picture,
+2016-07-17T07:31:37+00:00,730174708,728285877,0,5.55.82.111,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",/* 2010s */
+2016-01-11T01:19:50+00:00,699224600,694641801,0,208.118.203.24,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",/* 2010s */
+2014-07-16T01:39:03+00:00,617124920,615277123,0,Jaespinoza,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",/* 1990s */
+2017-07-30T10:01:11+00:00,793056388,790213867,0,Emmy Expert,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",
+2016-09-07T00:44:01+00:00,738117477,734020557,0,GcSwRhIc,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",/* 2010s */ spelling
+2014-02-08T15:34:09+00:00,594527752,594527590,0,TonyTheTiger,"Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film",/* 1990s */ link
+2014-06-04T21:02:30+00:00,611583305,600512844,0,67.83.61.170,Golden Globe Award for Best Television Series – Musical or Comedy,/* Series with multiple wins */
+2015-01-12T01:48:40+00:00,642092308,637686822,0,Nichirob,Golden Globe Award for Best Television Series – Musical or Comedy,/* 2010s */
+2015-05-15T10:06:48+00:00,662427506,662168024,0,AleCapHollywood,Golden Lion,/* Golden Lion Honorary Award */
+2014-10-17T10:37:01+00:00,629967222,629422316,0,Moonriddengirl,Golden Lion,"article created with content copied from [[Palme d'Or]], which see for attribution"
+2016-11-08T15:35:51+00:00,748509008,739160969,0,AleCapHollywood,Golden Lion,/* Golden Lion */
+2017-07-17T10:08:35+00:00,790980408,775060054,0,AleCapHollywood,Golden Lion,/* Golden Lion Honorary Award */
+2015-09-12T18:42:34+00:00,680717240,662427506,0,87.5.93.141,Golden Lion,/* Golden Lion */
+2018-01-17T20:37:47+00:00,820995445,815461426,0,189.162.153.44,Golden Lion,/* Golden Lion */
+2016-08-12T12:07:34+00:00,734140892,731161928,0,Hipersyl,Golden Lion,/* Multiple winners */
+2013-07-03T17:22:34+00:00,562718341,557262107,0,66.212.64.252,Golden Lion,/* Golden Lion – Honorary Award */
+2016-09-13T03:45:27+00:00,739160969,738728851,0,172.9.35.60,Golden Lion,/* Golden Lion */
+2014-05-09T09:45:00+00:00,607753667,607753605,0,146.159.132.46,Golden Lion,/* Golden Lion */
+2016-04-29T23:43:47+00:00,717829354,717700108,0,Krejulespt,Golden Lion,
+2015-04-06T23:53:00+00:00,655265117,629967222,0,TherasTaneel,Golden Lion,/* External links */  added commons
+2016-06-19T22:22:32+00:00,726081771,725264776,0,JonathanLSydel,List of Academy Award winners and nominees for Best International Feature Film,
+2013-10-11T20:38:54+00:00,576771414,573851352,0,Ulric1313,List of Academy Award winners and nominees for Best International Feature Film,dab
+2013-05-06T17:33:12+00:00,553809917,545465000,0,Birdienest81,List of Academy Award winners and nominees for Best International Feature Film,
+2014-04-10T23:31:46+00:00,603670428,602679979,0,Santa41116,List of Academy Award winners and nominees for Best International Feature Film,Corrected languages of winning film 1990 - Journey of Hope
+2014-05-26T22:20:09+00:00,610267347,603670428,0,MrLinkinPark333,List of Academy Award winners and nominees for Best International Feature Film,"Disambiguated: [[Z (film)]] → [[Z (1969 film)]], [[The Counterfeiters (film)]] → [[The Counterfeiters (2007 film)]]"
+2017-02-27T03:00:23+00:00,767640942,767640794,0,Ss112,List of Academy Award winners and nominees for Best International Feature Film,/* Winners and nominees */
+2015-11-14T07:19:17+00:00,690572322,690572301,0,Neptune's Trident,My Name Is Earl,/* Recurring cast and characters */
+2016-10-28T08:48:44+00:00,746585987,739334830,0,76.194.222.242,Moby Dick (1998 miniseries),/* Cast */ minor edit
+2013-02-27T18:59:55+00:00,541014731,522200806,0,Addbot,Moby Dick (1998 miniseries),"[[User:Addbot|Bot:]] Migrating 5 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q512137]] ([[User talk:Addbot|Report Errors]])"
+2015-11-04T23:53:46+00:00,689107757,675519537,0,Boraxepalm5,Moby Dick (1998 miniseries),
+2017-08-15T13:45:56+00:00,795631861,795631765,0,2001:630:53:F0:A097:2C6D:161:8025,My Name Is Earl,/* Synopsis */
+2015-04-01T19:51:42+00:00,654536809,652709792,0,JohnGormleyJG,My Name Is Earl,/* Cancellation and future */
+2016-07-07T03:48:09+00:00,728710359,728710279,0,2607:FB90:6487:36C3:0:43:1AD6:3E01,My Name Is Earl,
+2015-11-19T06:59:21+00:00,691349060,688634204,0,Givern,Palme d'Or,/* Palme d'Or (1975–present) */
+2014-09-02T21:12:57+00:00,623914341,614785785,0,Timbouctou,Palme d'Or,/* Award winners */
+2015-03-10T02:01:38+00:00,650699464,647638528,0,TKreuz,Palme d'Or,/* Palme d'Or (1975–present) */
+2014-04-17T14:03:33+00:00,604597120,603319142,0,Jvm21,Palme d'Or,/* Palme d'Or (1975–present) */
+2015-07-20T20:16:40+00:00,672321207,672320995,0,Darkcritic,Palme d'Or,/* Palme d'Or (1955–63) */
+2017-02-28T17:28:19+00:00,767908645,767463738,0,Stewader91,Palme d'Or,/* History */
+2015-02-07T03:27:16+00:00,645985689,640826816,0,Loriendrew,Palme d'Or,clean up using [[Project:AWB|AWB]]
+2013-06-09T05:42:19+00:00,559013986,558975228,0,67.190.45.196,Palme d'Or,
+2015-04-05T19:44:10+00:00,655083054,653911292,0,67.100.127.21,Primetime Emmy Award for Outstanding Comedy Series,The Odd Couple (1970 TV series)
+2016-03-07T19:59:57+00:00,708821162,708820948,0,MiniEstadi1982,Palme d'Or,/* History */
+2016-10-24T03:46:26+00:00,745913874,740490987,0,BD2412,Primetime Emmy Award for Outstanding Comedy Series,"/* 2000s */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: Entourage (TV series) → Entourage (U.S. TV series) (3) using [[Project:AWB|AWB]]"
+2017-05-29T02:10:41+00:00,782770324,782590359,0,Emmy Expert,Primetime Emmy Award for Outstanding Comedy Series,
+2014-01-04T01:09:06+00:00,589065853,588436512,0,Charge2charge,Primetime Emmy Award for Outstanding Comedy Series,/* Multiple nominations */
+2016-02-20T04:41:10+00:00,705891702,705753932,0,BG19bot,Primetime Emmy Award for Outstanding Comedy Series,[[WP:CHECKWIKI]] error fix for #03.  Missing Reflist.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11914)
+2017-11-10T18:36:38+00:00,809680695,808757108,0,Netoholic,Primetime Emmy Award for Outstanding Comedy Series,"bypassing redirect/disambig, replaced: Louie (TV series) → Louie (U.S. TV series) (3) using [[Project:AWB|AWB]]"
+2016-07-22T01:24:17+00:00,730968878,729958251,0,Niceguyedc,Palme d'Or,v1.39 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[The Go-Between (film)]]
+2013-09-24T01:46:47+00:00,574264764,574128463,0,1906cubs,Primetime Emmy Award for Outstanding Comedy Series,/* Superlatives */
+2017-03-06T04:09:00+00:00,768849749,768848166,0,96.94.230.14,Primetime Emmy Award for Outstanding Comedy Series,added links
+2014-01-27T14:30:38+00:00,592640157,589065853,0,210.56.88.252,Primetime Emmy Award for Outstanding Comedy Series,
+2014-06-12T02:59:12+00:00,612581822,612287331,0,Doc Strange,Primetime Emmy Award for Outstanding Comedy Series,Reverted to revision 601571482 by [[Special:Contributions/Buffalutheran|Buffalutheran]] ([[User talk:Buffalutheran|talk]]): Rvt vandalism. ([[WP:TW|TW]])
+2015-09-18T02:03:40+00:00,681574335,681528290,0,JustBerry,Primetime Emmy Award for Outstanding Comedy Series,Reverted 2 [[WP:AGF|good faith]] edits by [[Special:Contributions/97.127.64.54|97.127.64.54]] using [[WP:STiki|STiki]]
+2015-08-17T01:25:07+00:00,676444052,676414174,0,Ilumina93,Primetime Emmy Award for Outstanding Comedy Series,removed misleading link
+2014-04-24T18:32:55+00:00,605641426,605023302,0,68.188.30.186,Primetime Emmy Award for Outstanding Comedy Series,
+2016-07-14T18:55:16+00:00,729814753,729808006,0,2600:1012:B01E:4274:68C6:10D6:F160:CC5D,Primetime Emmy Award for Outstanding Comedy Series,
+2013-10-17T21:33:26+00:00,577628470,574264764,0,StAnselm,Primetime Emmy Award for Outstanding Comedy Series,"Disambiguated: [[Paul Corrigan]] → [[Paul Corrigan (producer)]], [[David Miner]] → [[David Miner (television producer)]], [[Steve Holland]] → [[Steve Holland (producer)]]"
+2013-06-22T09:23:52+00:00,561038135,560991693,0,DPL bot,Primetime Emmy Award for Outstanding Comedy Series,adding dablinks template; 7 or more disambig links (see the [[Template:Dablinks/FAQ|FAQ]])
+2015-07-21T04:40:51+00:00,672377571,672375492,0,Musdan77,Primetime Emmy Award for Outstanding Drama Series,/* Total Awards by Network */ ce
+2013-08-12T00:16:19+00:00,568141393,566611949,0,186.204.113.81,Primetime Emmy Award for Outstanding Drama Series,/* 2010s */
+2014-06-30T16:56:05+00:00,615038733,609298839,0,Ulric1313,Primetime Emmy Award for Outstanding Drama Series,dab
+2016-04-08T14:33:47+00:00,714238330,706391445,0,80.131.31.11,Primetime Emmy Award for Outstanding Drama Series,
+2014-11-14T15:49:36+00:00,633821627,625288289,0,Dexbot,Primetime Emmy Award for Outstanding Drama Series,Bot: Fixing broken section link
+2015-07-16T23:00:47+00:00,671780344,671777056,0,Giggling Baby,Primetime Emmy Award for Outstanding Drama Series,/* 2010s */
+2014-03-29T03:24:22+00:00,601754228,601754185,0,24.192.153.233,Primetime Emmy Award for Outstanding Drama Series,/* 2010s */
+2015-09-28T23:00:33+00:00,683222949,682562950,0,181.228.163.95,Primetime Emmy Award for Outstanding Drama Series,/* Multiple awards */
+2017-01-19T03:52:55+00:00,760800065,760648060,0,68.45.25.137,Primetime Emmy Award for Outstanding Drama Series,/* 1960s */ copy edit
+2017-08-13T01:45:35+00:00,795256946,795256789,0,118.92.100.49,Primetime Emmy Award for Outstanding Drama Series,
+2014-09-12T20:50:05+00:00,625288289,625288173,0,Jonjon889933,Primetime Emmy Award for Outstanding Drama Series,/* Total awards */
+2017-08-04T09:29:51+00:00,793843711,793843457,0,118.92.100.49,Primetime Emmy Award for Outstanding Drama Series,
+2015-08-02T12:02:24+00:00,674213068,674212946,0,Heisenberg0893,Primetime Emmy Award for Outstanding Drama Series,/* Multiple nominations */
+2013-11-25T22:38:03+00:00,583299176,581205776,0,71.171.108.76,Primetime Emmy Award for Outstanding Drama Series,/* Total awards */
+2015-11-28T01:25:13+00:00,692750006,692635157,0,Anopheles~enwiki,Primetime Emmy Award for Outstanding Drama Series,/* 1990s */  1992 winner and nominees were not listed.  Added info from emmys.com
+2014-06-27T15:00:03+00:00,614643368,614643279,0,Jonjon889933,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,/* 2010s */
+2015-08-21T05:35:05+00:00,677112051,676956223,0,BG19bot,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,[[WP:CHECKWIKI]] error fix for #64.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11377)
+2015-11-06T09:20:34+00:00,689316753,684834517,0,AussieLegend2,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,fix unnecessary piping using [[Project:AWB|AWB]]
+2015-10-09T01:58:16+00:00,684834517,684834502,0,MasonBanks,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,/* 2000s */
+2015-04-05T19:42:26+00:00,655082832,655082284,0,67.100.127.21,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,The Odd Couple (1970 TV series)
+2015-04-24T03:15:17+00:00,658936224,655082832,0,98.251.144.133,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,/* Multiple wins */
+2016-08-16T15:40:02+00:00,734765260,734765038,0,Emmy Expert,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series,/* 1990s */
+2015-08-09T12:56:54+00:00,675265313,675265094,0,Heisenberg0893,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,/* 2010s */
+2014-05-24T06:18:40+00:00,609909060,609867309,0,SubSeven,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,Reverted edits by [[Special:Contribs/96.27.66.156|96.27.66.156]] ([[User talk:96.27.66.156|talk]]) to last version by SubSeven
+2014-09-12T21:02:40+00:00,625289726,624909708,0,Jonjon889933,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,
+2014-08-26T05:18:47+00:00,622843583,622834659,0,Jonjon889933,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,/* Multiple wins */
+2014-11-17T02:56:25+00:00,634171198,632091508,0,24.34.26.161,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,/* Multiple nominations */
+2016-05-20T05:50:48+00:00,721179404,721178862,0,JonathanLSydel,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,
+2015-03-02T06:41:19+00:00,649499606,649499550,0,216.157.85.109,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,
+2016-05-24T12:52:13+00:00,721852178,721179404,0,JonathanLSydel,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series,
+2014-02-10T13:57:30+00:00,594825784,590006806,0,BD2412,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,/* 1980s */repairing [[Wikipedia:Disambiguation pages with links|Disambiguation pages with links]] using [[Project:AWB|AWB]]
+2013-11-28T13:07:38+00:00,583660816,580760397,0,47.17.30.2,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,/* Multiple nominations */
+2016-05-22T10:52:35+00:00,721516616,721516582,0,JonathanLSydel,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,/* 1970s */
+2017-01-13T17:16:58+00:00,759876712,757683987,0,213.122.230.21,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,/* 2010s */
+2015-04-30T00:08:12+00:00,659964910,632082825,0,TAnthony,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,/* 1970s */
+2016-01-28T08:21:57+00:00,702077981,702077703,0,2601:642:4401:3BF5:2D8A:EB71:256F:9FE,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,/* Most wins */
+2016-08-16T10:52:17+00:00,734735596,734734652,0,Emmy Expert,Primetime Emmy Award for Outstanding Lead Actor in a Limited or Anthology Series or Movie,
+2016-10-23T02:34:01+00:00,745750122,741063214,0,165.228.23.22,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,"/* Multiple nominations for lead, supporting and guest actress combined */"
+2016-08-16T10:52:24+00:00,734735620,734735134,0,Emmy Expert,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,
+2016-01-08T01:00:33+00:00,698753109,693136912,0,97.104.220.8,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,/* 2010s */
+2015-07-31T06:06:12+00:00,673892813,673889585,0,Heisenberg0893,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,/* 2000s */
+2016-04-03T01:01:17+00:00,713270819,713270783,0,Joef1234,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,/* Superlatives */
+2013-08-10T06:49:52+00:00,567915920,567835884,0,BG19bot,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,[[WP:CHECKWIKI]] error fix for #48.  Remove link to the title inside the text. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (9399)
+2013-07-21T03:56:22+00:00,565140233,564856916,0,Rlandry84,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,/* Multiple nominations for Lead Actress */
+2015-09-21T04:04:57+00:00,682039118,682026587,0,216.165.95.76,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,/* Total Awards by Network */
+2015-03-10T08:40:16+00:00,650732031,650392116,0,209.30.80.189,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,/* Multiple wins */
+2013-12-31T03:41:23+00:00,588467873,588394669,0,Charge2charge,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,removing Julianna Margulies (she has 7 nominations)
+2015-05-20T05:29:04+00:00,663209171,663209074,0,AwardShowFan123,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,/* 2000s */
+2013-06-28T19:31:35+00:00,562010579,552047552,0,1906cubs,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,
+2016-09-26T21:15:57+00:00,741336227,740197888,0,Bearcat,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,head of dedicated category
+2015-07-25T17:03:19+00:00,673039351,672617987,0,109.155.52.94,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,/* 2010s */
+2016-09-04T22:15:31+00:00,737763055,737755119,0,Emmy Expert,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,
+2017-03-22T17:27:42+00:00,771631547,770892018,0,Wbm1058,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,Spelling correction; redirect bypass from [[Katherine Hepburn]] to [[Katharine Hepburn]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2017-09-22T22:22:57+00:00,801940052,801939673,0,190.19.10.71,Primetime Emmy Award for Outstanding Lead Actress in a Drama Series,
+2015-09-23T01:46:17+00:00,682334406,682334080,0,Phuccc,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,
+2014-05-11T18:41:21+00:00,608092767,608020043,0,GoingBatty,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,[[:en:WP:CLEANER|WPCleaner]] v1.32 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[ABC]]
+2017-06-18T13:23:00+00:00,786286050,786278615,0,Emmy Expert,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,
+2013-07-28T13:15:57+00:00,566146848,565092881,0,Nues20,Primetime Emmy Award for Outstanding Lead Actress in a Limited or Anthology Series or Movie,
+2015-08-21T07:11:03+00:00,677119609,676781609,0,Niceguyedc,Primetime Emmy Award for Outstanding Limited or Anthology Series,"[[:en:WP:CLEANER|WPCleaner]] v1.36 - Repaired 2 links to disambiguation pages - [[WP:DPL|(You can help)]] - [[John Yorke]], [[Polly Hill]]"
+2017-01-30T05:48:29+00:00,762692514,762690643,0,96.94.230.14,Primetime Emmy Award for Outstanding Limited or Anthology Series,/* 1970s */ added season for Upstairs
+2015-12-01T18:18:22+00:00,693302245,682048692,0,Primefac,Primetime Emmy Award for Outstanding Limited or Anthology Series,change wikilink using [[Project:AWB|AWB]]
+2017-09-18T18:32:21+00:00,801273008,801223755,0,181.228.123.24,Primetime Emmy Award for Outstanding Limited or Anthology Series,/* Total awards by network */
+2014-04-28T19:02:53+00:00,606219592,603756846,0,68.113.31.143,Primetime Emmy Award for Outstanding Limited or Anthology Series,/* 2010s */
+2015-05-28T12:24:29+00:00,664408450,656907429,0,96.2.54.36,Primetime Emmy Award for Outstanding Limited or Anthology Series,
+2014-07-10T20:55:07+00:00,616433945,613724256,0,71.235.123.46,Primetime Emmy Award for Outstanding Limited or Anthology Series,/* 2010s */
+2013-04-25T01:01:06+00:00,552047841,551777983,0,1906cubs,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,
+2017-03-02T12:31:08+00:00,768205568,763545202,0,144.124.97.189,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,/* 2010s */
+2013-08-12T20:33:24+00:00,568260396,566148090,0,BG19bot,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,[[WP:CHECKWIKI]] error fix for #48.  Remove link to the title inside the text. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (9399)
+2013-10-03T21:58:44+00:00,575643728,574263364,0,Jedi94,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,/* See also */
+2014-12-02T06:06:34+00:00,636276749,627329487,0,Egsan Bacon,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2015-07-31T06:19:41+00:00,673893886,672939660,0,Heisenberg0893,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,/* 2000s */
+2016-11-23T18:07:24+00:00,751149303,751149273,0,74.203.107.11,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,/* 1960s */
+2015-11-20T17:18:50+00:00,691561955,684346501,0,Mymis,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,no need to capitalize it
+2013-08-10T14:55:46+00:00,567954364,567953853,0,95.93.170.199,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,/* Most nominations */
+2014-05-03T11:41:41+00:00,606887301,604920663,0,50.182.47.65,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,
+2013-09-27T11:32:14+00:00,574726362,574686787,0,93.46.67.177,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,/* 1980s */
+2016-02-16T08:11:34+00:00,705233762,689882932,0,24.51.199.152,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,/* 2010s */
+2015-07-31T07:45:55+00:00,673901191,673893774,0,Heisenberg0893,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,/* 2000s */
+2015-11-10T00:06:41+00:00,689882932,684504804,0,98.165.17.190,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,/* 1970s */ changed to correct link
+2016-04-17T02:18:33+00:00,715638292,714021426,0,BD2412bot,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,"/* 2010s */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: History (TV channel) → History (U.S. TV channel) using [[Project:AWB|AWB]]"
+2015-12-13T13:35:10+00:00,695055791,689029732,0,31.52.112.14,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,/* 2010s */
+2013-08-12T01:07:48+00:00,568146315,566152038,0,188.168.19.200,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,link added
+2015-02-20T22:39:15+00:00,648102941,642172704,0,TAnthony,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,/* 1990s */
+2014-09-04T22:21:41+00:00,624215132,623243617,0,87.122.121.154,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,Changed link
+2016-08-16T10:53:05+00:00,734735701,734734373,0,Emmy Expert,Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie,
+2015-11-20T17:17:40+00:00,691561813,686936569,0,Mymis,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,no need to capitalize it
+2013-08-12T20:33:30+00:00,568260406,566153750,0,BG19bot,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,[[WP:CHECKWIKI]] error fix for #48.  Remove link to the title inside the text. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (9399)
+2016-12-01T22:33:18+00:00,752550758,751736220,0,Fabrício Fernando,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,/* 2010s */
+2016-04-03T01:19:26+00:00,713273147,697850352,0,Joef1234,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,
+2015-08-01T23:58:42+00:00,674146379,674146256,0,Eiffelmau,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,/* 2000s */
+2013-08-29T00:50:45+00:00,570606104,569668015,0,24.233.188.31,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,/* 1950s */
+2014-04-12T23:17:51+00:00,603941335,600929510,0,67.173.83.45,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,/* 1960s */
+2016-10-14T13:03:13+00:00,744316226,741063216,0,Emmy Expert,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series,
+2016-09-28T08:57:22+00:00,741567582,740379817,0,121.244.210.146,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,/* 2010s */
+2013-10-03T22:52:33+00:00,575650138,574942852,0,Jedi94,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,/* See also */
+2014-01-26T00:44:20+00:00,592406084,575650138,0,1906cubs,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,added all unlisted years.
+2015-10-06T02:18:43+00:00,684348707,682362214,0,Rainingtalent,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,/* 2000s */
+2015-07-20T15:51:45+00:00,672288632,672288564,0,MiewEN,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,/* 2010s */
+2014-02-11T22:42:52+00:00,595048485,590006864,0,Jonjon889933,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,/* Award winners */
+2017-06-29T01:00:16+00:00,788021580,787160571,0,Emmy Expert,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,
+2015-03-19T16:42:11+00:00,652096233,646041813,0,86.185.127.212,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,/* 2010s */
+2014-01-10T01:04:42+00:00,590006864,589690456,0,BD2412,Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie,"/* 2000s */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: Into the Storm (film) → Into the Storm (2009 film) using [[Project:AWB|AWB]]"
+2014-12-05T02:51:22+00:00,636702934,636551850,0,50.195.224.153,Primetime Emmy Award for Outstanding Television Movie,/* 2000s */ copy edit
+2016-03-30T03:50:36+00:00,712615182,712369173,0,181.54.209.5,Red Beard,
+2013-10-04T17:29:20+00:00,575756472,566783435,0,Vlad b,Red Beard,/* External links */
+2014-01-13T15:41:29+00:00,590521065,582239663,0,Od Mishehu AWB,Red Beard,/* External links */Category upmerges per [[Wikipedia:Categories for discussion/Log/2014 January 3#Films by country and year]] using [[Project:AWB|AWB]]
+2018-02-07T14:59:56+00:00,824467523,824317950,0,181.170.26.9,Silver Bear for Best Actor,
+2016-06-12T22:01:04+00:00,724990258,711166494,0,Eric Pode lives,Silver Bear for Best Actor,link
+2014-05-04T19:26:53+00:00,607062961,607057491,0,Matheus6666,Silver Bear for Best Actor,/* External links */
+2013-08-25T02:39:12+00:00,570075030,565791024,0,Jonjon082693,Silver Bear for Best Actor,
+2013-02-26T22:26:22+00:00,540762828,538601372,0,Addbot,Silver Bear for Best Actor,"[[User:Addbot|Bot:]] Migrating 9 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q819973]] ([[User talk:Addbot|Report Errors]])"
+2017-02-18T21:22:28+00:00,766204853,766182899,0,F3RaN,Silver Bear for Best Actor,/* Awards */ Georg Friedrich actor
+2013-04-14T18:23:53+00:00,550344743,540762846,0,OpaqueFree,Silver Bear for Best Actress,/* Awards */
+2016-12-18T15:59:51+00:00,755523712,738770294,0,Bearcat,Silver Bear for Best Actress,clean up using [[Project:AWB|AWB]]
+2016-02-20T21:16:56+00:00,706000686,705984203,0,83.92.108.169,Silver Bear for Best Actress,
+2016-05-14T10:12:10+00:00,720203708,720203397,0,82.216.202.82,Silver Bear for Best Actress,
+2016-05-23T01:45:12+00:00,721621054,720203708,0,JonathanLSydel,Silver Bear for Best Actress,/* See also */
+2015-01-22T14:25:16+00:00,643670317,636025578,0,AFstuart,Silver Bear for Best Actress,Adding 1984 co-winner
+2015-07-17T20:37:53+00:00,671904274,669034822,0,190.234.105.197,Silver Bear for Best Actress,
+2013-11-15T12:52:49+00:00,581763856,577107768,0,Cydebot,Silver Bear for Best Director,Robot - Speedily moving category Berlin Film Festival to [[:Category:Berlin International Film Festival]] per [[WP:CFDS|CFDS]].
+2016-05-16T19:25:41+00:00,720580911,708824460,0,Rexodus,Silver Lion,
+2017-09-09T18:46:41+00:00,799768892,792717132,0,95.248.31.137,Silver Lion,/* Silver Lion for Best Direction (1990-present) */
+2015-10-05T07:24:08+00:00,684208711,681400600,0,SJ Defender,Silver Lion,Disambiguated: [[Oasis (film)]] → [[Oasis (2002 film)]]
+2013-05-15T07:18:43+00:00,555179968,551983829,0,Cantalapiedralalalá,Silver Lion,
+2014-04-19T02:24:43+00:00,604824265,604677101,0,Musdan77,Talk:Academy Award for Best Actor,/* Mismatched references */ Fixed
+2014-02-12T03:06:59+00:00,595081638,595073145,0,76.170.88.72,Talk:Academy Award for Best Actor,/* Someone is trying to ruin this article */ what is the status of any change?
+2015-05-06T07:19:49+00:00,661066022,654995034,0,Birdienest81,Talk:Academy Award for Best Actor,Changed to FL class
+2014-10-23T01:18:21+00:00,630732374,624719286,0,Giants2008,Talk:Academy Award for Best Actor,Manually closing FLC
+2015-05-06T02:24:24+00:00,661041200,656970599,0,Cowlibob,Talk:Academy Award for Best Actress,update article history
+2014-07-14T20:21:33+00:00,616958030,600948499,0,Goldnpuppy,Talk:Academy Award for Best Picture,/* Silent Film Winners */ new section
+2011-06-08T03:09:36+00:00,433144016,433143951,0,Tbhotch,Talk:Academy Award for Best Supporting Actor,fix
+2014-08-14T03:41:52+00:00,621157452,621157308,0,SineBot,Talk:Academy Award for Best Supporting Actor,"Signing comment by [[Special:Contributions/207.237.34.211|207.237.34.211]] - ""/* Max Von Sydow  */ new section"""
+2014-04-03T18:25:26+00:00,602614182,602611824,0,Musdan77,Talk:Academy Award for Best Supporting Actress,/* Multiple nominations table */
+2013-01-24T04:47:03+00:00,534608222,534608095,0,SineBot,Talk:Palme d'Or,"Signing comment by [[Special:Contributions/121.73.157.56|121.73.157.56]] - ""/* Eternity Invades Darkness */ new section"""
+2014-12-20T21:23:03+00:00,638957853,608880685,0,Yobot,Talk:Palme d'Or,Tagging using [[Project:AWB|AWB]] (10524)
+2016-06-22T09:21:32+00:00,726459699,726459645,0,SineBot,Talk:Palme d'Or,"Signing comment by [[Special:Contributions/91.116.136.90|91.116.136.90]] - ""/* Palme d'Or - Award Winners */"""
+2012-06-22T04:50:45+00:00,498783298,417100862,0,TRLIJC19,Talk:Primetime Emmy Award for Outstanding Drama Series,this is a list
+2018-01-23T15:16:02+00:00,821948180,813947683,0,181.170.28.8,Talk:Primetime Emmy Award for Outstanding Comedy Series,/* Winners in Bold */
+2008-08-05T22:00:36+00:00,230072756,0,0,Girolamo Savonarola,Talk:Silver Bear for Best Actress,[[WP:AES|←]] Created page with '{{Film|class=List|Awards-task-force=yes|Festival-task-force=yes|German-task-force=yes}}'
+2017-10-07T23:27:25+00:00,804281846,804235584,0,Andy Dingley,The Hidden Fortress,restore links Undid revision 804235584 by [[Special:Contributions/45.50.177.146|45.50.177.146]] ([[User talk:45.50.177.146|talk]])
+2015-04-25T23:06:17+00:00,659211454,654044030,0,Bysmuth,The Hidden Fortress,/* Critical reception */ Fixed the link to The Indian Tomb.
+2017-11-01T22:55:40+00:00,808280563,801817629,0,67.14.236.50,User talk:Hoverfish,/* Replied at WT:FILM */ new section
+2014-03-08T18:27:09+00:00,598723340,584510107,0,MediaWiki message delivery,User talk:Hoverfish,/* An RfC that you may be interested in... */ new section
+2017-03-08T05:57:44+00:00,769215662,766159622,0,68.169.157.190,Volpi Cup for Best Actor,/* Volpi Cup winners (1988–present) */
+2015-06-28T16:39:42+00:00,669062891,669040064,0,Cavarrone,Volpi Cup for Best Actor,/* Volpi Cup Winners (1951–1968) */ wikilinks
+2016-11-15T18:18:03+00:00,749691197,749691138,0,Comrade Graham,The Hidden Fortress,/* Influence */
+2017-01-27T19:17:12+00:00,762270547,757230927,0,190.233.169.229,Volpi Cup for Best Actress,/* Winners */
+2015-01-03T14:31:21+00:00,640803632,640592985,0,191.190.1.61,Volpi Cup for Best Actress,
+2014-08-19T12:21:10+00:00,621906776,621494438,0,Cavarrone,Volpi Cup for Best Actress,/* Volpi Cup Winners (1988–present) */ wikilink
+2014-07-09T18:12:52+00:00,616257717,616256260,0,Cyphoidbomb,Wikipedia talk:WikiProject Film,/* WikiProject Film featured on Wikimedia blog */ R
+2016-08-11T12:20:16+00:00,733991865,733470933,0,IndianBio,Wikipedia talk:WikiProject Film,/* American Film Institute recognition */
+2017-09-19T19:07:08+00:00,801449915,801449836,0,Flyer22 Frozen,Wikipedia talk:WikiProject Film,/* Nominating the Star Wars:The Force Awakens article for GA? */
+2013-06-11T02:55:47+00:00,559328979,559281282,0,65.94.79.6,Wikipedia talk:WikiProject Film,
+2013-11-21T17:33:51+00:00,582698083,582601796,0,Flyer22 Frozen,Wikipedia talk:WikiProject Film,/* The Tourist (2010 film) article again */ new section
+2013-12-07T15:22:48+00:00,584999744,584990190,0,TheOldJacobite,Wikipedia talk:WikiProject Film,/* The English Patient */ new section
+2016-01-30T10:12:31+00:00,702402559,702402342,0,TriiipleThreat,Wikipedia talk:WikiProject Film,/* Production section problems */
+2015-10-17T15:19:17+00:00,686183851,686166710,0,TenTonParasol,Wikipedia talk:WikiProject Film,/* Awards section at Serenity (film) */ new section
+2014-03-12T22:15:21+00:00,599351272,599291056,0,Status,Wikipedia talk:WikiProject Film,/* Release year of films */ re
+2015-06-08T00:47:55+00:00,665966694,665965858,0,MichaelQSchmidt,Wikipedia talk:WikiProject Film,/* AfD of Leatherface film */ cmnt
+2013-10-30T16:39:03+00:00,579490062,579282933,0,Doniago,Wikipedia talk:WikiProject Film,/* The Bourne Ultimatum - Plot Summary Length */ new section
+2016-04-02T05:43:37+00:00,713143133,713018353,0,Moxy,Wikipedia talk:WikiProject Film,/* Wikipedia:WikiProject Council‎ - Proposals */ new section
+2016-04-09T03:02:38+00:00,714334187,714325155,0,Cirt,Wikipedia talk:WikiProject Film,/* Created article on satirical comedy film - Climate Change Denial Disorder */ new section
+2016-02-14T23:30:35+00:00,705007648,705007459,0,BrownHairedGirl,Wikipedia talk:WikiProject Film,/* Category:Film directors from Africa‎ has been nominated for discussion */ ce
+2014-06-27T23:55:01+00:00,614700716,614700476,0,Flyer22 Frozen,Wikipedia talk:WikiProject Film,/* Epic plot summaries */
+2015-01-18T12:37:21+00:00,643043373,642840521,0,Hugo999,Wikipedia talk:WikiProject Film,/* 87th Academy Awards */
+2014-08-09T02:00:59+00:00,620449968,620449917,0,Cnilep,Wikipedia talk:WikiProject Film,typo

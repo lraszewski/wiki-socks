@@ -1,0 +1,426 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-12-21T21:55:52+00:00,1061466005,1061328236,1,TornadoFan45,Talk:Tornadoes of 2021,/* Semi-protected edit request on 21 December 2021 (2) */ new section
+2021-12-21T21:53:19+00:00,1061465663,1061357986,1,TornadoFan45,List of United States tornadoes from April to June 2021,/* April 10 event */
+2021-12-21T21:47:49+00:00,1061464959,1060164267,1,TornadoFan45,"Tornado outbreak sequence of March 24–28, 2021","/* Franklin–Newnan–Peachtree City, Georgia */"
+2021-12-21T21:46:52+00:00,1061464826,1061464765,1,TornadoFan45,Hurricane Ida tornado outbreak,/* September 1 event */
+2021-12-21T21:46:25+00:00,1061464765,1060267924,1,TornadoFan45,Hurricane Ida tornado outbreak,
+2021-12-21T21:40:01+00:00,1061463842,1060703159,1,TornadoFan45,2008 Poland tornado outbreak,
+2022-07-24T00:36:24+00:00,1100053500,1100053400,1,2022Heat,2021–22 North American winter,/* Late March Northeast cold snap */
+2022-07-24T00:35:45+00:00,1100053400,1100040426,1,2022Heat,2021–22 North American winter,/* Late March Northeast cold snap */
+2022-07-24T00:30:14+00:00,1100052616,1096177666,1,2022Heat,December 2021 Midwest derecho and tornado outbreak,/* Meteorological synopsis */
+2022-07-23T23:59:47+00:00,1100047959,1100047806,1,2022Heat,2022 heat waves,/* July */
+2022-07-23T23:58:42+00:00,1100047806,1100047562,1,2022Heat,2022 heat waves,/* July */ ugh
+2022-07-23T23:56:57+00:00,1100047562,1100045440,1,2022Heat,2022 heat waves,/* July */
+2022-07-23T23:40:08+00:00,1100045440,1099741582,1,2022Heat,2022 heat waves,/* July */ rewriting this properly
+2022-06-18T16:32:26+00:00,1093753448,1093628488,1,BlueMet48493,2022 heat waves,/* June */
+2022-06-18T15:59:38+00:00,1093748792,1093748744,1,BlueMet48493,Storm Dudley,
+2022-06-18T15:59:17+00:00,1093748744,1093748704,1,BlueMet48493,Storm Dudley,
+2022-06-18T15:59:00+00:00,1093748704,1093748608,1,BlueMet48493,Storm Dudley,change due to tornadoes not showing up
+2022-06-18T15:58:16+00:00,1093748608,1089800525,1,BlueMet48493,Storm Dudley,/* Preparations and impacts */ copied content from [[List of European tornadoes in 2022]] see that pages history for attribution
+2022-06-18T15:55:53+00:00,1093748325,1093748276,1,BlueMet48493,Tornadoes of 2022,
+2022-06-18T15:55:34+00:00,1093748276,1093662121,1,BlueMet48493,Tornadoes of 2022,/* March 29–31 */ update
+2022-06-18T15:52:09+00:00,1093747875,1093747780,1,BlueMet48493,2021–22 North American winter,
+2022-06-18T15:51:35+00:00,1093747780,1093747693,1,BlueMet48493,2021–22 North American winter,/* Late February winter storm */
+2022-06-18T15:50:48+00:00,1093747693,1093729436,1,BlueMet48493,2021–22 North American winter,/* Early February winter storm */
+2022-06-18T15:36:18+00:00,1093745820,1091631219,1,BlueMet48493,2020–21 North American winter,/* Season effects */
+2022-06-18T15:31:25+00:00,1093745205,1093745025,1,BlueMet48493,"Tornado outbreak of March 29–31, 2022",
+2022-06-18T15:30:11+00:00,1093745025,1093744869,1,BlueMet48493,"Tornado outbreak of March 29–31, 2022",/* March 30 event */
+2022-06-18T15:29:05+00:00,1093744869,1093734439,1,BlueMet48493,"Tornado outbreak of March 29–31, 2022",
+2022-06-18T15:28:48+00:00,1093744829,1081326687,1,BlueMet48493,"Talk:Tornado outbreak of March 29–31, 2022",/* Help */ new section
+2022-06-18T14:09:46+00:00,1093734439,1092572647,1,BlueMet48493,"Tornado outbreak of March 29–31, 2022",/* March 30 event */
+2022-06-18T14:07:19+00:00,1093734103,1093733958,1,BlueMet48493,"Tornado outbreak of March 21–23, 2022",+1 indirect tornado death (so non tornadic) in Louisiana
+2022-06-18T14:06:18+00:00,1093733958,1093733343,1,BlueMet48493,"Tornado outbreak of March 21–23, 2022",dmg
+2022-06-18T14:02:04+00:00,1093733343,1093460868,1,BlueMet48493,"Tornado outbreak of March 21–23, 2022","/* Gretna–Arabi–New Orleans East, Louisiana */"
+2022-06-18T13:56:40+00:00,1093732591,1093732554,1,BlueMet48493,"Tornado outbreak of March 5–7, 2022","/* Macksburg–Winterset–Norwalk–Newton, Iowa */"
+2022-06-18T13:56:21+00:00,1093732554,1093518918,1,BlueMet48493,"Tornado outbreak of March 5–7, 2022","/* Macksburg–Winterset–Norwalk–Newton, Iowa */"
+2022-06-18T13:52:06+00:00,1093731983,1093731581,1,BlueMet48493,2022 Montana floods,/* Yellowstone National Park */
+2022-06-18T13:49:36+00:00,1093731581,1093671017,1,BlueMet48493,2022 Montana floods,
+2022-06-18T13:40:10+00:00,1093730140,1093624301,1,BlueMet48493,May 2022 Canadian derecho,/* Meteorological history */ adding to make explicitly clear this was unrelated to the gaylord tornado
+2022-06-18T13:36:10+00:00,1093729572,1091849353,1,BlueMet48493,May 2022 Midwest derecho,resubmit because previous decline was found to be unproductive on the talk page
+2022-06-18T13:34:54+00:00,1093729436,1093636247,1,BlueMet48493,2021–22 North American winter,/* Late May winter storm */
+2022-06-23T12:10:15+00:00,1094570019,1094387734,1,CaliforniaLightning,Weather of 2022,/* June */
+2022-06-02T19:42:00+00:00,1091194535,1090866407,1,Chars403030,List of heat waves,/* 2021 */ Not a heat wave. One day heat snap prior to a crashing cold front. Can be adequately covered in [[December 2021 Midwest derecho and tornado outbreak]]
+2022-06-02T19:40:06+00:00,1091194307,1091194238,1,Chars403030,May 2022 Midwest derecho,
+2022-06-02T19:39:30+00:00,1091194238,1089726155,1,Chars403030,May 2022 Midwest derecho,/* Confirmed tornadoes */
+2022-06-02T19:29:00+00:00,1091192923,1091191596,1,Chars403030,"Tornado outbreak sequence of April 4–7, 2022","/* Pembroke–Black Creek, Georgia */"
+2022-06-02T19:25:30+00:00,1091192435,1091186417,1,Chars403030,Tornadoes of 2022,/* May 18–21 (United States and Canada) */
+2022-06-02T19:24:46+00:00,1091192323,1091192292,1,Chars403030,May 2022 Canadian derecho,
+2022-06-02T19:24:33+00:00,1091192292,1091192247,1,Chars403030,May 2022 Canadian derecho,
+2022-06-02T19:24:11+00:00,1091192247,1090849288,1,Chars403030,May 2022 Canadian derecho,/* Tornadoes */
+2022-06-03T00:40:53+00:00,1091228213,1084705301,1,Chars403030-2,"Tornado outbreak of April 27–30, 2014",
+2022-06-03T00:34:53+00:00,1091227518,1091227482,1,Chars403030-2,May 2022 Canadian derecho,/* References */
+2022-06-03T00:34:31+00:00,1091227482,1091220420,1,Chars403030-2,May 2022 Canadian derecho,note
+2022-06-26T00:11:28+00:00,1095027888,1095017790,1,ColdWaveHunter,2021–22 North American winter,/* Seasonal summary */
+2022-06-26T00:02:51+00:00,1095026761,1093454317,1,ColdWaveHunter,February 2022 North American winter storm,/* Northeast */
+2022-06-25T23:42:44+00:00,1095024408,1092390488,1,ColdWaveHunter,2010 Bronx tornado,/* Impact and aftermath */
+2022-06-25T23:40:44+00:00,1095024192,1095024067,1,ColdWaveHunter,January–March 2014 North American cold wave,/* United States */
+2022-06-25T23:39:27+00:00,1095024067,1091477702,1,ColdWaveHunter,January–March 2014 North American cold wave,/* United States */
+2022-06-25T23:27:51+00:00,1095022785,1092391680,1,ColdWaveHunter,2013–14 North American winter,/* Early January blizzard */
+2022-06-25T23:26:04+00:00,1095022595,1095021952,1,ColdWaveHunter,2015–16 North American winter,/* Seasonal summary */
+2022-06-25T23:20:12+00:00,1095021952,1095021182,1,ColdWaveHunter,2015–16 North American winter,/* Mid-February cold wave */
+2022-06-25T23:13:45+00:00,1095021182,1095021155,1,ColdWaveHunter,2015–16 North American winter,/* Mid-February cold wave */
+2022-06-25T23:13:31+00:00,1095021155,1094992937,1,ColdWaveHunter,2015–16 North American winter,/* Mid-February cold wave */
+2022-06-25T23:10:50+00:00,1095020821,1095020234,1,ColdWaveHunter,2017–18 North American winter,/* April cold wave */
+2022-06-25T23:06:09+00:00,1095020234,1093141036,1,ColdWaveHunter,2017–18 North American winter,/* Late February flooding */ not winter related and covered heavily in both [[Floods_in_the_United_States_(2000–present)#2018_Ohio_River_floods]] and [[Tornadoes of 2018#February 24]]
+2022-06-25T22:59:09+00:00,1095019335,1095019260,1,ColdWaveHunter,2020–21 North American winter,/* February 13–17 winter storm */
+2022-06-25T22:58:36+00:00,1095019260,1093762399,1,ColdWaveHunter,2020–21 North American winter,this needs more info considering it was literally the most significant winter storm EVER /* February 13–17 winter storm */
+2022-06-25T22:46:53+00:00,1095017790,1095016581,1,ColdWaveHunter,2021–22 North American winter,/* Mid-March winter storm and cold wave */
+2022-06-25T22:38:02+00:00,1095016581,1094993245,1,ColdWaveHunter,2021–22 North American winter,/* Late March Northeast cold snap */ add info
+2022-05-23T01:17:25+00:00,1089300982,1089297727,1,DerechoTracker,Tornadoes of 2022,/* May 18–22 */
+2022-05-22T13:34:10+00:00,1089204788,1088167338,1,Fireman3949,2022 heat waves,
+2022-05-22T13:22:43+00:00,1089203590,1089201872,1,Fireman3949,Tornadoes of 2022,/* May 18–20 */
+2022-05-22T13:18:10+00:00,1089203090,1089202995,1,Fireman3949,2022 Texas wildfires,/* List of wildfires and Prescribed Fires */
+2022-05-22T13:17:33+00:00,1089202995,1089202497,1,Fireman3949,2022 Texas wildfires,/* References */
+2022-05-22T13:17:01+00:00,1089202935,1089182217,1,Fireman3949,Template:2022 wildfires,
+2022-05-22T13:13:45+00:00,1089202566,1089202346,1,Fireman3949,Draft:2022 Texas wildfires,redirect
+2022-05-22T13:13:15+00:00,1089202497,1089151080,1,Fireman3949,2022 Texas wildfires,merge from [[Draft:2022 Texas wildfires]]
+2022-05-22T13:12:01+00:00,1089202346,1089151415,1,Fireman3949,Draft:2022 Texas wildfires,
+2022-06-04T15:46:24+00:00,1091481602,1091480027,1,FloridaTC2,Draft:Tropical Storm Mindy,/* Meteorological History */
+2022-06-04T15:36:41+00:00,1091480027,1091479997,1,FloridaTC2,Draft:Tropical Storm Mindy,/* Meteorological History */
+2022-06-04T15:36:28+00:00,1091479997,1089064265,1,FloridaTC2,Draft:Tropical Storm Mindy,"start for now as cp from [[2021 Atlantic hurricane season]], see that articles history for attribution"
+2022-06-04T15:29:42+00:00,1091478931,1091474470,1,FloridaTC2,Tropical Storm Alex (2022),update
+2022-06-04T15:21:36+00:00,1091477702,1088773517,1,FloridaTC2,January–March 2014 North American cold wave,/* United States */
+2022-06-04T15:14:26+00:00,1091476466,1083801244,1,FloridaTC2,Effects of Hurricane Dennis in Cuba,
+2022-06-04T15:07:03+00:00,1091475325,1091475257,1,FloridaTC2,Effects of Hurricane Katrina in Alabama,Submitting using [[WP:AFCSW|AfC-submit-wizard]]
+2022-06-04T15:06:37+00:00,1091475257,1091475129,1,FloridaTC2,Effects of Hurricane Katrina in Alabama,
+2022-06-04T15:05:51+00:00,1091475129,1091475094,1,FloridaTC2,Effects of Hurricane Katrina in Alabama,
+2022-06-04T15:05:36+00:00,1091475094,1091474913,1,FloridaTC2,Effects of Hurricane Katrina in Alabama,
+2022-06-04T15:04:26+00:00,1091474913,1091474028,1,FloridaTC2,Effects of Hurricane Katrina in Alabama,/* Impacts */
+2022-06-04T14:58:52+00:00,1091474028,1091473908,1,FloridaTC2,Effects of Hurricane Katrina in Alabama,/* Impacts */
+2022-06-04T14:58:05+00:00,1091473908,1091472888,1,FloridaTC2,Effects of Hurricane Katrina in Alabama,/* Impacts */
+2022-06-04T14:51:15+00:00,1091472888,1091472476,1,FloridaTC2,Effects of Hurricane Katrina in Alabama,/* Impacts */
+2022-06-04T14:48:37+00:00,1091472476,1061868003,1,FloridaTC2,Effects of Hurricane Katrina in Alabama,tad bit lower winds in alabama
+2022-06-04T14:42:10+00:00,1091471359,1091471244,1,FloridaTC2,Draft:Effects of Hurricane Ida in Louisiana,Submitting using [[WP:AFCSW|AfC-submit-wizard]]
+2022-06-04T14:42:02+00:00,1091471332,1086763303,1,FloridaTC2,Draft talk:Effects of Hurricane Ida in Louisiana,Adding WikiProject tags using [[WP:AFCSW|AfC-submit-wizard]]
+2022-06-04T14:41:35+00:00,1091471244,1091471113,1,FloridaTC2,Draft:Effects of Hurricane Ida in Louisiana,/* Background */
+2022-06-04T14:40:43+00:00,1091471113,1085519645,1,FloridaTC2,Draft:Effects of Hurricane Ida in Louisiana,/* Impact */
+2022-06-04T14:40:10+00:00,1091471011,1090175583,1,FloridaTC2,2022 Texas wildfires,
+2022-06-04T14:19:33+00:00,1091467801,1091442526,1,FloridaTC2,Tropical Storm Alex (2022),/* Preparations and impact */
+2022-07-30T18:19:09+00:00,1101377587,1101377536,1,Fortune700,July–August 2022 United States floods,/* Las Vegas */
+2022-07-30T18:18:45+00:00,1101377536,1101353443,1,Fortune700,July–August 2022 United States floods,/* Kentucky */
+2022-07-30T14:18:45+00:00,1101342068,1101341396,1,Fortune700,2022 Eastern Kentucky floods,/* Impact */
+2022-07-30T14:13:20+00:00,1101341396,1101340669,1,Fortune700,2022 Eastern Kentucky floods,/* Impact */
+2022-07-30T14:08:05+00:00,1101340669,1101332552,1,Fortune700,2022 Eastern Kentucky floods,/* Impact */
+2022-07-30T14:01:27+00:00,1101339799,1101338711,1,Fortune700,Wikipedia:In the news/Candidates,/* Kentucky floods */
+2022-07-30T14:00:04+00:00,1101339588,1098091691,1,Fortune700,2018 North American heat wave,/* Montana */ unsourced
+2022-07-17T17:25:27+00:00,1098822460,1096165839,1,Halloween_Chill,2020–21 North American winter,/* Hurricane Zeta-related snow event */
+2022-07-17T17:24:45+00:00,1098822307,1087502295,1,Halloween_Chill,Hurricane Zeta,/* East Coast of the United States */
+2022-08-12T22:02:20+00:00,1104131371,1104130957,1,HeatWave2022,2019–20 North American winter,/* Early November cold wave */
+2022-08-12T21:58:18+00:00,1104130957,1104129559,1,HeatWave2022,2019–20 North American winter,/* Early November cold wave */
+2022-08-12T21:44:05+00:00,1104129559,1104122568,1,HeatWave2022,2019–20 North American winter,/* Early November cold wave */
+2022-08-12T21:02:01+00:00,1104125092,1104118587,1,HeatWave2022,"Great Blue Norther of November 11, 1911",/* Impact */
+2022-08-12T20:45:41+00:00,1104123233,1104112420,1,HeatWave2022,2017–18 North American winter,/* Mid-November cold wave */
+2022-08-12T20:40:59+00:00,1104122568,1104122539,1,HeatWave2022,2019–20 North American winter,cold wave up 4 deaths
+2022-08-12T20:40:44+00:00,1104122539,1104115114,1,HeatWave2022,2019–20 North American winter,/* Early November cold wave */
+2022-08-12T20:06:43+00:00,1104118587,1104111726,1,HeatWave2022,"Great Blue Norther of November 11, 1911",/* Impact */ broken in '86 https://www.weathergamut.com/2019/11/13/arctic-blast-brings-record-cold-temperatures-to-nyc/
+2022-08-12T19:53:16+00:00,1104117225,1104113584,1,HeatWave2022,2015–16 North American winter,/* Seasonal summary */
+2022-08-12T19:43:54+00:00,1104115911,1104114024,1,HeatWave2022,Talk:2017–18 North American winter,"/* Mid-February Mid-Atlantic winter storm (February 17-18, 2018) */"
+2022-08-12T19:25:59+00:00,1104113584,1103323451,1,HeatWave2022,2015–16 North American winter,/* Seasonal summary */
+2022-08-12T19:15:19+00:00,1104112420,1104102055,1,HeatWave2022,2017–18 North American winter,"Undid revision 1104101159 by [[Special:Contributions/Elijahandskip|Elijahandskip]] ([[User talk:Elijahandskip|talk]]) If you want to keep it, spam it with accumulations. As of right now it can easily be summarized in the season section. 2 references and 2 sentences with no deaths and no google hits doesn't satisfy a section. Sections should be a paragraph at least."
+2022-08-12T18:06:13+00:00,1104105452,1104104826,1,HeatWave2022,"Great Blue Norther of November 11, 1911",/* Impact */ it actually began 11/9
+2022-08-12T18:00:51+00:00,1104104826,1104092252,1,HeatWave2022,"Great Blue Norther of November 11, 1911",/* Impact */
+2022-08-12T17:49:22+00:00,1104103626,1104103301,1,HeatWave2022,March 2012 North American heat wave,
+2022-08-12T17:46:53+00:00,1104103301,1079827167,1,HeatWave2022,March 2012 North American heat wave,
+2022-08-12T17:39:19+00:00,1104102531,1104093276,1,HeatWave2022,2019–20 North American winter,/* Seasonal Summary */ deleting blank table
+2022-08-12T17:34:46+00:00,1104102055,1104101159,1,HeatWave2022,2017–18 North American winter,/* Seasonal summary */
+2022-08-12T17:29:24+00:00,1104101471,1100083862,1,HeatWave2022,1994 North American cold wave,
+2022-08-12T17:28:16+00:00,1104101350,1095046266,1,HeatWave2022,November 2014 North American cold wave,/* Government response */ empty for over 7 years...
+2022-08-12T17:22:14+00:00,1104100677,1103320855,1,HeatWave2022,2017–18 North American winter,/* Mid-February Mid-Atlantic winter storm */ not notable
+2022-08-12T16:51:08+00:00,1104096998,1103929814,1,HeatWave2022,2021–22 North American winter,/* Late February winter storm */
+2022-08-12T16:16:59+00:00,1104093276,1104091881,1,HeatWave2022,2019–20 North American winter,/* Early November cold wave */
+2022-08-12T16:07:56+00:00,1104092392,1095539618,1,HeatWave2022,"Tornado outbreak of November 11, 1911",/* Background */
+2022-08-12T16:06:32+00:00,1104092252,1103080249,1,HeatWave2022,"Great Blue Norther of November 11, 1911",/* Impact */
+2022-08-12T16:06:19+00:00,1104092226,1101581891,1,HeatWave2022,December 2021 Midwest derecho and tornado outbreak,/* Meteorological synopsis */
+2022-08-12T16:03:00+00:00,1104091881,1104091839,1,HeatWave2022,2019–20 North American winter,/* Early November cold wave */
+2022-08-12T16:02:37+00:00,1104091839,1102546748,1,HeatWave2022,2019–20 North American winter,/* Early November cold wave */ record breaking temps need to be added
+2022-08-12T15:29:40+00:00,1104088003,1097051296,1,HeatWave2022,Effects of Hurricane Irene in New York,/* New York City */
+2022-08-12T15:29:04+00:00,1104087939,1099189155,1,HeatWave2022,Effects of Hurricane Irene in New Jersey,/* Impact */
+2022-08-12T15:22:56+00:00,1104087257,1104087077,1,HeatWave2022,2011 North American heat wave,
+2022-08-12T15:21:27+00:00,1104087077,1104086800,1,HeatWave2022,2011 North American heat wave,/* July 2011 */
+2022-08-12T15:18:53+00:00,1104086800,1098572913,1,HeatWave2022,2011 North American heat wave,/* July 2011 */ fix unsourced material
+2022-07-15T22:27:49+00:00,1098452288,1091525011,1,MariahCarey5.3,2020–2023 North American drought,/* West */
+2022-07-15T22:18:39+00:00,1098451086,1097643628,1,MariahCarey5.3,May 2022 Midwest derecho,
+2022-07-15T22:17:45+00:00,1098450945,1095022044,1,MariahCarey5.3,"Tornado outbreak sequence of April 4–7, 2022",
+2022-07-15T22:15:01+00:00,1098450557,1098306815,1,MariahCarey5.3,"Tornado outbreak of March 29–31, 2022",
+2022-07-04T15:14:21+00:00,1096450510,1095979391,1,NYnoreaster,October 2017 nor'easter,
+2022-07-04T15:10:04+00:00,1096450016,1092392388,1,NYnoreaster,2018–19 North American winter,/* Mid-November winter storm */
+2022-07-04T14:55:44+00:00,1096448321,1094992696,1,NYnoreaster,2014–15 North American winter,/* Early December nor'easter */
+2022-07-04T14:47:04+00:00,1096447261,1096447224,1,NYnoreaster,March 2010 nor'easter,/* Synoptic conditions */
+2022-07-04T14:46:43+00:00,1096447224,1096447140,1,NYnoreaster,March 2010 nor'easter,needs more sources
+2022-07-04T14:46:08+00:00,1096447140,1083098360,1,NYnoreaster,March 2010 nor'easter,/* New York */
+2022-07-04T14:43:29+00:00,1096446764,1096445348,1,NYnoreaster,"Tornado outbreak of April 27–30, 2014",/* Mid-Atlantic states (April 29 – May 1) */
+2022-07-04T14:33:21+00:00,1096445348,1096445309,1,NYnoreaster,"Tornado outbreak of April 27–30, 2014",/* Notes */
+2022-07-04T14:33:02+00:00,1096445309,1096445260,1,NYnoreaster,"Tornado outbreak of April 27–30, 2014",/* References */
+2022-07-04T14:32:37+00:00,1096445260,1095539607,1,NYnoreaster,"Tornado outbreak of April 27–30, 2014",
+2022-07-04T14:28:02+00:00,1096444714,1089207931,1,NYnoreaster,October 2021 nor'easter,/* Elsewhere */
+2022-06-22T01:13:06+00:00,1094337572,1094318793,1,TropicalStormHunter4555,Tropical Storm Mindy,totals
+2022-06-22T01:12:31+00:00,1094337505,1094294057,1,TropicalStormHunter4555,2021 Atlantic hurricane season,/* Season effects */
+2022-06-22T01:11:46+00:00,1094337423,1090877916,1,TropicalStormHunter4555,Hurricane Henri,/* Elsewhere */
+2022-06-05T21:27:27+00:00,1091705905,1091705387,1,WeatherChaser5949,2022 Atlantic hurricane season,"/* Tropical Storm Alex */ cp from [[Draft:Tropical Storm Alex (2022)]], see that history for attribution"
+2022-05-19T19:51:02+00:00,1088725373,1088690318,1,Weatherfan849933,Wikipedia:Edit filter/False positives/Reports,/* {{subst:currentuser}} {{subst:^|DO NOT EDIT THIS LINE}} */ new section
+2022-07-02T20:51:32+00:00,1096177666,1092582006,1,WinterFan49494,December 2021 Midwest derecho and tornado outbreak,/* Non-wind impacts */
+2022-07-02T20:47:08+00:00,1096177183,1096036505,1,WinterFan49494,"Tornado outbreak of December 10–11, 2021",
+2022-07-02T20:35:20+00:00,1096175771,1096174581,1,WinterFan49494,2021–22 North American winter,/* January cold wave */
+2022-07-02T20:26:50+00:00,1096174581,1096174128,1,WinterFan49494,2021–22 North American winter,/* Mid-April nor'easter */
+2022-07-02T20:22:39+00:00,1096174128,1096149038,1,WinterFan49494,2021–22 North American winter,/* January cold wave */
+2022-07-02T16:58:24+00:00,1096149038,1096036044,1,WinterFan49494,2021–22 North American winter,/* First storm (January 3–4) */
+2022-07-02T16:52:51+00:00,1096148329,1096148096,1,WinterFan49494,2020–21 North American winter,/* Seasonal summary */
+2022-07-02T16:50:49+00:00,1096148096,1096146975,1,WinterFan49494,2020–21 North American winter,/* United States */
+2022-07-02T16:41:21+00:00,1096146975,1096146936,1,WinterFan49494,2020–21 North American winter,/* Christmas Week blizzard */
+2022-07-02T16:40:58+00:00,1096146936,1096036222,1,WinterFan49494,2020–21 North American winter,/* Christmas Week blizzard */
+2022-02-19T14:21:47+00:00,1072795662,1071299230,0,12.246.51.130,2008 Poland tornado outbreak,
+2022-04-27T00:05:32+00:00,1084849008,1063759232,0,ChessEric,2010 Bronx tornado,
+2022-02-01T23:34:04+00:00,1069365968,1069365945,0,108.170.65.170,1994 North American cold wave,
+2022-02-02T06:07:10+00:00,1069416624,1069416344,0,MarioProtIV,2014–15 North American winter,
+2022-02-02T06:06:21+00:00,1069416504,1068172795,0,MarioProtIV,2013–14 North American winter,
+2022-01-04T19:25:47+00:00,1063759232,1062472797,0,98.116.128.15,2010 Bronx tornado,
+2022-05-03T23:54:47+00:00,1086064003,1069416624,0,Citation bot,2014–15 North American winter,"Alter: template type. Add: date, newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_toolbar"
+2022-01-02T20:22:02+00:00,1063386879,1058183301,0,188.142.179.15,1994 North American cold wave,/* Temperature records */
+2022-02-14T08:17:44+00:00,1071773719,1064382117,0,BrownHairedGirl,2011 North American heat wave,{{[[Template:Dead link|Dead link]]}} tag on [[WP:Bare URLs|bare URL]] refs which return [[HTTP 404]] or [[List_of_HTTP_status_codes#410|410]]
+2022-06-03T05:26:31+00:00,1091260162,1091260105,0,BrownHairedGirl,2011 North American heat wave,removed {{Cleanup bare URLs}} -- non-dead refs all fixed
+2021-12-13T21:55:56+00:00,1060172008,1055884209,0,2A02:C7F:E833:9300:9D98:AB29:F83F:104B,2011 North American heat wave,
+2022-05-20T06:02:50+00:00,1088803467,1083597076,0,MarioProtIV,2015–16 North American winter,Expand infobox
+2022-07-31T23:29:50+00:00,1101612742,1101585707,0,74.101.118.197,2015–16 North American winter,/* Seasonal summary */
+2021-10-05T21:19:10+00:00,1048413734,1037015739,0,DrewVeenstra,2015–16 North American winter,
+2022-06-28T18:12:14+00:00,1095497435,1095022595,0,Gilda0404,2015–16 North American winter,/* Mid-February cold wave */
+2022-05-26T06:55:55+00:00,1089895775,1089895742,0,MarioProtIV,2015–16 North American winter,
+2022-01-23T13:36:14+00:00,1067439183,1048413734,0,MarioProtIV,2015–16 North American winter,
+2022-07-31T20:16:14+00:00,1101583845,1101583782,0,74.101.118.197,2017–18 North American winter,/* United States */
+2022-01-21T15:55:21+00:00,1067074097,1067071772,0,MarioProtIV,2017–18 North American winter,/* Events */
+2022-05-26T05:40:44+00:00,1089888301,1089837127,0,MarioProtIV,2017–18 North American winter,
+2022-01-30T20:27:14+00:00,1068925322,1068366550,0,104.246.113.199,2017–18 North American winter,"/* Events */Nor’easter caused 4 deaths, but blizzard only caused 3 (tornadoes killed 1)"
+2022-04-10T16:54:35+00:00,1081956936,1067439183,0,160.72.80.50,2015–16 North American winter,/* Late November ice storm */
+2022-06-14T20:31:47+00:00,1093141036,1093140338,0,108.5.14.52,2017–18 North American winter,
+2022-06-27T16:20:14+00:00,1095305288,1095036166,0,BrownHairedGirl,2017–18 North American winter,clean up
+2022-03-08T23:49:55+00:00,1076020249,1068925322,0,InternetArchiveBot,2017–18 North American winter,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.6) ([[User:Lallint|Lallint]] - 9693
+2022-04-22T19:35:16+00:00,1084141969,1083598312,0,108.170.71.106,2017–18 North American winter,/* March 12–14 nor'easter */ $670k
+2021-09-13T22:13:46+00:00,1044164654,1039812815,0,Izno,2018 North American heat wave,std template
+2022-04-19T17:06:10+00:00,1083595769,1067439466,0,68.129.11.36,2018–19 North American winter,
+2022-01-23T13:38:32+00:00,1067439466,1048413829,0,MarioProtIV,2018–19 North American winter,
+2022-02-11T20:55:49+00:00,1071287239,1071287215,0,69.118.232.58,2018 North American heat wave,
+2022-06-15T07:49:46+00:00,1093218004,1083595526,0,GreenC bot,2019–20 North American winter,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-02-01T15:09:30+00:00,1069289485,1067439519,0,69.118.232.58,2019–20 North American winter,/* Early November cold wave */
+2022-04-19T17:04:26+00:00,1083595526,1080717605,0,68.129.11.36,2019–20 North American winter,
+2022-08-05T16:25:21+00:00,1102546748,1093218004,0,2601:8C:417F:B80:51C9:FA12:A272:ED61,2019–20 North American winter,/* Mid February Southeast U.S snowstorm */
+2022-04-03T00:38:54+00:00,1080717605,1069289485,0,MarioProtIV,2019–20 North American winter,
+2021-11-13T21:08:36+00:00,1055096199,1054913718,0,LightandDark2000,2019–20 North American winter,/* Seasonal Summary */ Fix.
+2021-11-17T05:15:36+00:00,1055675488,1054473290,0,Tundraski,2020–2023 North American drought,
+2022-02-20T19:25:33+00:00,1073048875,1071731559,0,Featous,2020–2023 North American drought,/* West */ {{see also|Southwestern North American megadrought}}
+2022-03-07T04:17:49+00:00,1075688662,1075659805,0,MarioProtIV,2020–21 North American winter,/* Post-Tropical Cyclone Zeta */ Zeta dissipated a full day earlier before the snow came through
+2022-05-16T08:46:23+00:00,1088122851,1088095391,0,Citation bot,2020–21 North American winter,Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 511/3847
+2022-07-24T15:38:01+00:00,1100178536,1098822460,0,69.116.96.17,2020–21 North American winter,/* United States */Grammar fix
+2022-07-17T17:25:27+00:00,1098822460,1096165839,0,Halloween Chill,2020–21 North American winter,/* Hurricane Zeta-related snow event */
+2022-01-23T13:39:34+00:00,1067439611,1067439551,0,MarioProtIV,2020–21 North American winter,
+2022-04-02T23:36:48+00:00,1080710601,1080710554,0,72.68.148.22,2020–21 North American winter,
+2022-03-01T10:56:38+00:00,1074648039,1071730182,0,BrownHairedGirl,2020–21 North American winter,{{[[Template:Bare URL inline|Bare URL inline]]}} → {{[[Template:Bare URL PDF|Bare URL PDF]]}}
+2022-06-18T17:36:22+00:00,1093762399,1093745820,0,AnomieBOT,2020–21 North American winter,Dating maintenance tags: {{Update}}
+2022-07-02T19:09:25+00:00,1096165839,1096148329,0,Woodlot,2020–21 North American winter,c/e
+2021-12-23T02:26:03+00:00,1061659712,1060559550,0,Rlink2,2020–21 North American winter,/* Seasonal summary */Fixing bare references [[Wikipedia:Bare_URLs]]
+2021-12-28T21:21:02+00:00,1062502686,1062411647,0,Corn cheese,2020–21 North American winter,Filled in 4 bare reference(s) with reFill 2
+2022-07-08T18:27:31+00:00,1097109667,1097010398,0,Drdpw,2021 Atlantic hurricane season,/* Seasonal summary */ +citation
+2022-01-10T20:38:25+00:00,1064910186,1064877529,0,MarioProtIV,2021 Atlantic hurricane season,
+2022-06-23T22:40:52+00:00,1094674356,1094674283,0,68.198.188.106,2021–22 North American winter,
+2022-07-04T12:04:08+00:00,1096428639,1096213079,0,Cnwilliams,2021–22 North American winter,"v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Worcester]], 1 to be fixed - [[Waverly, New York]]"
+2022-02-20T16:45:34+00:00,1073022161,1073011622,0,MarioProtIV,2021–22 North American winter,
+2022-01-22T03:19:48+00:00,1067168222,1067168124,0,WeatherWriter,2021–22 North American winter,/* Mid-January winter storm */
+2022-03-14T23:57:33+00:00,1077187096,1077181967,0,104.148.217.191,2021–22 North American winter,/* Mid-March winter storm and cold wave */
+2022-05-03T16:13:43+00:00,1086000063,1085959207,0,75.99.68.66,2021–22 North American winter,
+2022-07-07T15:59:05+00:00,1096933600,1096428639,0,173.77.8.52,2021–22 North American winter,/* January cold wave */
+2022-04-05T22:45:22+00:00,1081200315,1081191534,0,MarioProtIV,2021–22 North American winter,restore section since this broke numerous records
+2022-06-28T18:02:01+00:00,1095495877,1095027888,0,Gilda0404,2021–22 North American winter,/* Late March Northeast cold snap */  Added more infomation into sentence.
+2022-03-20T15:37:10+00:00,1078236439,1078129830,0,MarioProtIV,2021–22 North American winter,
+2022-04-15T02:26:15+00:00,1082780475,1082710296,0,Worthy Tsoi,2021–22 North American winter,
+2022-06-29T02:20:42+00:00,1095559446,1095495877,0,HeartGlow30797,2021–22 North American winter,/* Late February winter storm */ fixed ref
+2022-02-14T03:59:56+00:00,1071740801,1071727604,0,MarioProtIV,2021–22 North American winter,/* Seasonal summary */
+2022-03-29T05:24:43+00:00,1079890752,1079890329,0,Sblover99,2021–22 North American winter,/* First storm (January 3–4) */
+2022-04-12T05:49:49+00:00,1082259882,1082013591,0,MarioProtIV,2021–22 North American winter,/* Late March Northeast cold snap */ add to fill in later
+2022-01-30T20:55:07+00:00,1068929443,1068929067,0,104.246.113.199,2021–22 North American winter,/* January cold wave */
+2022-02-08T04:31:39+00:00,1070565309,1070564592,0,MarioProtIV,2021–22 North American winter,
+2021-12-30T14:45:11+00:00,1062787319,1062654017,0,WeatherWriter,2021–22 North American winter,/* See also */
+2022-02-03T02:00:18+00:00,1069584615,1069308829,0,HikingHurricane,2021–22 North American winter,/* Early February winter storm */ infobox
+2022-06-06T21:33:41+00:00,1091868688,1091150625,0,HikingHurricane,2021–22 North American winter,/* External links */ add
+2022-06-14T08:22:33+00:00,1093055730,1092987131,0,DeadbeefBot,2021–22 North American winter,"Removing Twitter tracker params ([[Wikipedia:Bots/Requests_for_approval/ScannerBot|BRFA]]) (1 link(s) fixed, 0 archive link(s) changed)"
+2022-03-07T18:33:52+00:00,1075793269,1075664715,0,MarioProtIV,2021–22 North American winter,/* Early February winter storm */ add since some wintry stuff happened on the cold side of this
+2022-06-12T15:58:59+00:00,1092787193,1092757767,0,Drdpw,2022 Atlantic hurricane season,/* Tropical Storm Alex */ better cloud definition in this image a few hours later and closer to peak than the other
+2022-04-11T22:15:05+00:00,1082204592,1082159163,0,Drdpw,2022 Atlantic hurricane season,TL background
+2022-06-20T04:29:40+00:00,1093997819,1093951030,0,WikiCleanerBot,2022 Montana floods,v2.04b - [[User:WikiCleanerBot#T5|Bot T5 CW#88]] - Fix errors for [[WP:WCW|CW project]] (DEFAULTSORT with a blank at first position)
+2022-07-27T15:40:03+00:00,1100766546,1100568873,0,Tchouppy,2022 Montana floods,/* Clarks Fork of the Yellowstone */ citation added
+2022-06-23T00:50:12+00:00,1094499869,1094497679,0,2607:FEA8:2A80:DF00:10A4:6DE:AC1:ED96,2022 Texas wildfires,
+2022-07-30T15:22:05+00:00,1101351215,1101064176,0,Rcb1,2022 Texas wildfires,/* Borrega Fire */ typo
+2022-05-16T14:49:15+00:00,1088167338,1087649096,0,Jim Michael 2,2022 heat waves,
+2022-04-28T07:59:17+00:00,1085077012,1084970237,0,Cosmicseeds,2022 heat waves,"/* April */ Citation: ""Heatwave in India breaks records, still worsening"""
+2022-03-26T00:50:52+00:00,1079289863,1078140446,0,2600:1700:3040:E990:C5BA:EBD0:1B1C:FEC9,2022 heat waves,/* January */
+2022-01-28T15:29:19+00:00,1068466443,1068466166,0,Alpha Piscis Austrini,2022 heat waves,/* January */ nowhere in the article does it mention south america
+2022-05-25T21:54:44+00:00,1089829870,1089393465,0,Numberguy6,2022 heat waves,/* May */
+2022-02-20T05:23:48+00:00,1072931825,1072665555,0,DrainFly2020,2022 heat waves,Added citation and details for February
+2022-05-05T19:53:18+00:00,1086370910,1085077012,0,Joaquin89uy,2022 heat waves,/* January */ Syntax correction.
+2022-06-09T04:24:31+00:00,1092255888,1090970058,0,Losipov,December 2021 Midwest derecho and tornado outbreak,link [[Laura Kelly]] using [[:en:User:Edward/Find link|Find link]]
+2022-01-14T22:20:45+00:00,1065712149,1065699545,0,Reneza,2022 heat waves,"/* January */ Argentina in Guardian: ""‘Another hellish day’: South America sizzles in record summer temperatures"""
+2022-04-02T14:32:46+00:00,1080644073,1080501201,0,HikingHurricane,December 2021 Midwest derecho and tornado outbreak,"/* Confirmed tornadoes */cleanup using AWB, [[WP:AWB/T|typo(s) fixed]]: newly- → newly"
+2022-04-18T21:26:48+00:00,1083446491,1082683580,0,Wxtrackercody,December 2021 Midwest derecho and tornado outbreak,/* Confirmed tornadoes */ FSD in
+2021-09-08T18:08:32+00:00,1043168516,0,0,Chlod,Draft talk:Effects of Hurricane Ida in Louisiana,Adding {{[[Template:Copied|copied]]}} templates ([[User:Chlod/CTE|CopiedTemplateEditor]])
+2022-06-05T02:16:28+00:00,1091564014,1091507508,0,Fakescientist8000,Draft:Effects of Hurricane Ida in Louisiana,Rejecting submission: e - Topic is contrary to the purpose of Wikipedia ([[WP:AFCH|AFCH]] 0.9.1)
+2022-05-01T00:22:15+00:00,1085519645,1085489694,0,Icarus58,Draft:Effects of Hurricane Ida in Louisiana,"/* Impact */Fixed the link and archive sources, and reword."
+2022-01-03T05:10:09+00:00,1063456896,1050221991,0,Citation bot,Draft:Effects of Hurricane Ida in Louisiana,Alter: template type. Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Awkwafaba | [[Category:Pages with reference errors]] | #UCB_Category 140/433
+2022-06-23T22:49:55+00:00,1094675323,1091564014,0,68.198.188.106,Draft:Effects of Hurricane Ida in Louisiana,[[WP:AES|←]]Redirected page to [[Hurricane Ida#Louisiana]]
+2021-09-14T20:43:27+00:00,1044360284,1044349209,0,Destroyeraa-alt,Draft:Tropical Storm Mindy,"copy-pastes of the season article will not stand. Also, the previous Mindy draft was merged as Mindy is not notable enough."
+2022-06-15T09:56:45+00:00,1093231746,1093136859,0,HurricaneEdgar,Draft:Tropical Storm Mindy,[[WP:AES|←]]Changed redirect target from [[Tropical Storm Mindy (2021)]] to [[Tropical Storm Mindy]]
+2022-01-18T13:28:17+00:00,1066461128,1066082311,0,BattyBot,Effects of Hurricane Irene in New Jersey,/* Impact */Fixed reference date error(s) (see [[:Category:CS1 errors: dates|CS1 errors: dates]] for details) and [[WP:AWB/GF|AWB general fixes]]
+2021-01-11T03:24:44+00:00,999623296,999428783,0,Cyclone Toby,Effects of Hurricane Dennis in Cuba,basic
+2021-12-24T14:31:03+00:00,1061868003,1061803878,0,Cyclone Toby,Effects of Hurricane Katrina in Alabama,strong winds go woooo
+2021-10-11T14:16:45+00:00,1049377907,1049113487,0,24.187.248.162,Effects of Hurricane Irene in New York,
+2022-04-05T20:15:57+00:00,1081182982,1080792145,0,ActivelyDisinterested,Effects of Hurricane Irene in New York,"Removed undefined ref name, added CN tags."
+2022-07-06T00:45:35+00:00,1096680630,1096623189,0,Rynb99,Effects of Hurricane Katrina in Alabama,+[[Category:2005 in Alabama]]; +[[Category:Hurricane Katrina]] using [[WP:HC|HotCat]]
+2022-06-04T15:30:16+00:00,1091479031,1091475325,0,DoubleGrazing,Effects of Hurricane Katrina in Alabama,DoubleGrazing moved page [[User:Cyclone Toby/Effects of Hurricane Katrina in Alabama]] to [[Draft:Effects of Hurricane Katrina in Alabama]]: Preferred location for [[WP:AFC|AfC]] submissions
+2021-11-12T21:37:29+00:00,1054936328,1034942273,0,OlliverWithDoubleL,"Great Blue Norther of November 11, 1911",
+2022-03-12T16:40:30+00:00,1076726850,1074568010,0,WikiCleanerMan,February 2022 North American winter storm,/* References */
+2022-02-27T17:42:19+00:00,1074326524,1054936328,0,InfiniteNexus,"Great Blue Norther of November 11, 1911",/* See also */ As this is 11/11/11
+2022-04-21T14:52:52+00:00,1083916291,1080644304,0,160.72.80.50,February 2022 North American winter storm,
+2022-02-02T19:58:01+00:00,1069536005,1069535745,0,Tails Wx,Hurricane Henri,Rescuing 71 sources and tagging 0 as dead.) #IABot (v2.0.8.6
+2022-01-05T10:35:25+00:00,1063874935,1063571251,0,Orenburg1,Hurricane Ida tornado outbreak,sp
+2022-01-09T19:56:25+00:00,1064703826,1063874935,0,160.72.80.50,Hurricane Ida tornado outbreak,
+2022-07-28T19:15:07+00:00,1100994664,1100993184,0,Akbermamps,Hurricane Henri,Reverting edit(s) by [[Special:Contributions/2600:1015:A013:71FA:74E3:5475:436E:4E81|2600:1015:A013:71FA:74E3:5475:436E:4E81]] ([[User_talk:2600:1015:A013:71FA:74E3:5475:436E:4E81|talk]]) to rev. 1096659381 by Avman89: Vandalism ([[w:en:WP:UV|UV 0.1.3]])
+2022-04-14T00:26:06+00:00,1082584570,1081036672,0,ChessEric,Hurricane Ida tornado outbreak,
+2022-05-12T21:22:12+00:00,1087502295,1082049209,0,Drdpw,Hurricane Zeta,/* Impact */ mdy
+2022-02-09T00:38:51+00:00,1070734051,1066744640,0,Citation bot,January–March 2014 North American cold wave,"Add: newspaper, title, date. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Headbomb | Linked from Wikipedia:WikiProject_Academic_Journals/Journals_cited_by_Wikipedia/Sandbox | #UCB_webform_linked 224/801"
+2022-05-20T01:39:00+00:00,1088773517,1085763181,0,Ffffrr,January–March 2014 North American cold wave,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Extreme weather event affecting parts of Canada and the United States"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-11-26T16:04:19+00:00,1057275196,1031311409,0,2601:582:303:4A40:195B:787E:5970:585,January–March 2014 North American cold wave,"/* United States */ In the context of a drop in temperature measured in degrees Fahrenheit, the convert feature gives an incorrect change in degrees Celsius."
+2022-01-01T18:34:39+00:00,1063181063,1063079088,0,Neconnaitpoint,Hurricane Zeta,Spelling correction.
+2022-08-07T00:53:49+00:00,1102808705,1102807033,0,Blythwood,July–August 2022 United States floods,/* Kentucky/Virginia */ add source
+2022-08-07T20:14:51+00:00,1102964827,1102773171,0,139.104.3.24,January–March 2014 North American cold wave,
+2022-02-12T20:00:55+00:00,1071471015,1067451716,0,69.118.232.58,List of United States tornadoes from April to June 2021,
+2022-04-10T05:51:46+00:00,1081871816,1079166784,0,Citation bot,List of heat waves,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1191/2841
+2021-10-31T16:17:56+00:00,1052875451,1022402270,0,Drdpw,March 2010 nor'easter,/* References */ sorting
+2022-07-05T05:45:11+00:00,1096552227,1096551914,0,MB,March 2010 nor'easter,cleanup
+2022-02-25T19:47:37+00:00,1073989673,1072212838,0,Oculi,List of heat waves,/* 2022 */ last=
+2022-04-17T01:05:10+00:00,1083098360,1052875451,0,Sadads,March 2010 nor'easter,link [[urban flooding]] using [[:en:User:Edward/Find link|Find link]]
+2022-01-08T01:48:14+00:00,1064377206,1055883990,0,Rlink2,March 2012 North American heat wave,Fixing bare references [[Wikipedia:Bare_URLs]]
+2022-03-28T20:37:05+00:00,1079827167,1072300439,0,BrownHairedGirl,March 2012 North American heat wave,"tag {{[[Template:BUIMG|Bare URL image]]}}, {{[[Template:BUPDF|Bare URL PDF]]}} or {{[[Template:BUtxt|Bare URL plain text]]}} per HTTP [[MIME type]]"
+2022-02-17T00:35:40+00:00,1072300439,1064377206,0,Citation bot,March 2012 North American heat wave,Alter: template type. Add: newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 492/2189
+2022-06-07T14:11:20+00:00,1091978537,1091978175,0,WikiCleanerBot,May 2022 Canadian derecho,v2.04b - [[User:WikiCleanerBot#T5|Bot T5 CW#85]] - Fix errors for [[WP:WCW|CW project]] (Tags without content)
+2022-06-10T08:02:52+00:00,1092436169,1092194172,0,Citation bot,May 2022 Canadian derecho,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 373/597
+2022-06-23T22:22:14+00:00,1094671909,1094320487,0,68.198.188.106,May 2022 Canadian derecho,"Typically USD is included; found the exchange value from 5/23, the oldest one available."
+2022-07-29T05:00:13+00:00,1101071587,1100988921,0,Deltablu,May 2022 Midwest derecho,/* Meteorological synopsis */ sp
+2022-06-06T19:22:37+00:00,1091849353,1091510571,0,TornadoLGS,May 2022 Midwest derecho,"/* Meteorological synopsis */ Readers not familiar with SPC products will not know what a ""hatched area"" is."
+2022-07-11T21:25:12+00:00,1097643628,1096945253,0,2600:1014:B1E4:B268:49B1:8CC9:DAB1:2A0C,May 2022 Midwest derecho,Added a better description and wording
+2022-02-01T15:16:05+00:00,1069290533,1069290449,0,69.118.232.58,November 2014 North American cold wave,
+2022-04-20T18:32:30+00:00,1083788266,1083773092,0,AnomieBOT,November 2014 North American cold wave,Dating maintenance tags: {{Cn}}
+2022-04-20T16:44:34+00:00,1083774517,1083774377,0,134.6.156.30,October 2017 nor'easter,/* New England */
+2022-03-19T15:00:12+00:00,1078041177,1076646855,0,ABC paulista,October 2021 nor'easter,Clarification
+2022-03-12T06:08:57+00:00,1076646855,1073650485,0,TropicalCyclone101,October 2021 nor'easter,Deleted overlinking.
+2021-08-02T20:54:07+00:00,1036811171,1036794712,0,Amakuru,Talk:2017–18 North American winter,Amakuru moved page [[Talk:2017–2018 North American winter]] to [[Talk:2017–18 North American winter]] over redirect: rv bold good faith move; [[MOS:DATERANGE]] permits two-digits for consecutive years
+2022-04-21T14:55:22+00:00,1083916577,1082681942,0,160.72.80.50,Storm Dudley,
+2022-02-08T23:36:32+00:00,1070726658,1070542162,0,108.170.65.170,Talk:Tornadoes of 2021,/* Article for October 9-13 outbreak */
+2022-01-13T00:45:12+00:00,1065330010,1065329876,0,United States Man,Talk:Tornadoes of 2021,/* Tornadoes of 2022 */ rmv unconstructive forum
+2022-06-18T17:17:45+00:00,1093759716,1093758400,0,ChessEric,"Talk:Tornado outbreak of March 29–31, 2022",/* Help */ Reply
+2022-02-27T17:32:24+00:00,1074324951,1073729725,0,Sietecolores,Template:2022 wildfires,
+2022-01-03T02:06:58+00:00,1063435082,0,0,Love of Corey,Template:2022 wildfires,Creating template.
+2022-03-12T17:51:55+00:00,1076739739,1076627543,0,38.125.67.137,"Tornado outbreak of April 27–30, 2014",
+2022-03-27T14:45:02+00:00,1079577284,1076739739,0,MarioProtIV,"Tornado outbreak of April 27–30, 2014",
+2022-02-07T23:06:15+00:00,1070526284,1069065010,0,108.170.65.170,"Tornado outbreak of April 27–30, 2014",
+2022-04-06T19:36:07+00:00,1081326687,1081326610,0,Mjeims,"Talk:Tornado outbreak of March 29–31, 2022",/* Duplicate St. Tammany tornado */
+2022-04-26T02:49:08+00:00,1084705301,1084699732,0,United States Man,"Tornado outbreak of April 27–30, 2014",/* top */ fix injury count
+2021-12-27T23:54:31+00:00,1062353650,1062353592,0,108.170.65.170,"Tornado outbreak of April 27–30, 2014",
+2022-01-31T13:58:29+00:00,1069065010,1065383364,0,128.231.234.22,"Tornado outbreak of April 27–30, 2014",Removed redundancy ('completely' obliterated).
+2022-02-11T21:02:43+00:00,1071288169,1071288064,0,69.118.232.58,"Tornado outbreak of December 10–11, 2021",
+2022-07-28T18:32:42+00:00,1100988469,1100988270,0,WeatherWriter,"Tornado outbreak of March 21–23, 2022",/* References */
+2022-07-22T15:50:11+00:00,1099787721,1098947139,0,Orenburg1,"Tornado outbreak of March 21–23, 2022",sp
+2022-02-26T17:22:05+00:00,1074145207,1074073375,0,United States Man,"Tornado outbreak of December 10–11, 2021",fix link
+2022-05-01T13:09:27+00:00,1085611065,1085584687,0,United States Man,"Tornado outbreak of March 21–23, 2022",/* March 21 */ wording
+2022-07-18T07:21:20+00:00,1098947139,1098730256,0,TornadoInformation12,"Tornado outbreak of March 21–23, 2022",
+2022-07-27T03:51:40+00:00,1100675885,1099787721,0,96.91.3.165,"Tornado outbreak of March 21–23, 2022",
+2022-07-17T21:17:27+00:00,1098863929,1098450557,0,TornadoInformation12,"Tornado outbreak of March 29–31, 2022",
+2022-04-18T03:59:36+00:00,1083296888,1083281297,0,TornadoInformation12,"Tornado outbreak of March 29–31, 2022",/* March 30 event */
+2022-06-21T05:20:56+00:00,1094175371,1094175288,0,TornadoInformation12,"Tornado outbreak of March 29–31, 2022",/* March 30 event */
+2022-08-01T14:31:45+00:00,1101729941,1101386650,0,Josvebot,"Tornado outbreak of March 29–31, 2022",v2.04b - Fix errors for [[WP:WCW|CW project]] (DEFAULTSORT with special characters)
+2022-05-10T19:51:44+00:00,1087166344,1086501952,0,ChessEric,"Tornado outbreak of March 5–7, 2022","/* Macksburg–Winterset–Norwalk–Newton, Iowa */ Added this town."
+2022-01-10T19:54:56+00:00,1064903402,1047318932,0,Colonies Chris,"Tornado outbreak of November 11, 1911",/* Sources */
+2022-02-12T20:35:39+00:00,1071476431,1071287806,0,173.251.82.226,"Tornado outbreak sequence of March 24–28, 2021",
+2022-04-03T21:46:07+00:00,1080857111,1080722981,0,United States Man,"Tornado outbreak sequence of March 24–28, 2021",/* March 25 event */ specify indirect
+2022-02-24T09:59:58+00:00,1073744114,1073654738,0,2A02:C7E:2C20:D700:9CD9:8695:326E:4B54,Tornadoes of 2022,Huh?
+2021-12-30T14:44:46+00:00,1062787270,1062675904,0,WeatherWriter,Tornadoes of 2022,
+2022-05-15T02:56:26+00:00,1087891822,1087891390,0,ChessEric,Tornadoes of 2022,/* May 12 */ Two of the watches were tornado watches.
+2022-04-08T23:44:49+00:00,1081680721,1081676648,0,ChessEric,Tornadoes of 2022,/* April 4–6 */ NWS says this tornado may get a higher rating.
+2022-06-18T02:15:44+00:00,1093662121,1093631243,0,ChessEric,Tornadoes of 2022,/* June 7–9 */
+2022-06-03T03:01:39+00:00,1091245292,1091228449,0,2600:100A:B121:A177:3486:3CE5:BF97:174D,Tornadoes of 2022,/* May 30 */
+2022-06-05T00:10:40+00:00,1091549133,1091548543,0,ChessEric,Tornadoes of 2022,It has finally been updated.
+2022-03-20T17:53:43+00:00,1078263309,1078263268,0,Hurricanetrack,Tornadoes of 2022,/* United States yearly total */
+2022-08-04T00:28:32+00:00,1102222056,1102147950,0,Gummycow,Tropical Storm Alex (2022),added link
+2022-06-30T19:08:19+00:00,1095846243,1095821667,0,2003:EA:8700:3D54:7826:85A1:8FFC:2B0B,Tornadoes of 2022,
+2022-05-20T20:55:27+00:00,1088919251,1088265435,0,47.21.202.18,Weather of 2022,/* May */Sorry for the bare link it’s raining
+2022-05-28T16:36:33+00:00,1090286805,1090286447,0,KN2731,Weather of 2022,/* Extratropical cyclones and European windstorms */ ...seriously?????
+2022-07-21T22:37:14+00:00,1099650781,1099650663,0,Ais523,Wikipedia:Edit filter/False positives/Reports,/* 50.197.170.139 */ {{EFFP|p}}
+2022-05-25T02:30:00+00:00,1089676054,1089672349,0,Casualdejekyll,Wikipedia:Edit filter/False positives/Reports,/* 49.195.53.230 */ reply: {{EFFP|v}} (-) ([[c:Special:MyLanguage/User:JWBTH/CD|CD]])
+2022-03-13T12:46:46+00:00,1076884480,1076878811,0,Fakescientist8000,Wikipedia:In the news/Candidates,/* RD: Bruce Duffy */
+2022-06-06T11:39:24+00:00,1091789633,1091787681,0,Melmann,Wikipedia:In the news/Candidates,/* Kazakh constitutional referendum */ Support altblurb3
+2021-12-22T20:19:22+00:00,1061618389,1051395626,0,2600:1700:5D92:8010:6416:97E3:71CB:293D,2013–14 North American winter,~123 (according to the cumulative numbers from linked storms from the complex that appear on this Wikipedia page.)
+2021-03-09T19:00:51+00:00,1011227226,1011226972,0,Marioedit8,2011 North American heat wave,"/* Amarillo, Texas */"
+2022-07-16T13:35:50+00:00,1098572913,1091260162,0,68.82.140.199,2011 North American heat wave,/* July 2011 */Typo
+2021-06-25T07:35:04+00:00,1030327451,1012548552,0,217.96.144.209,2008 Poland tornado outbreak,Corrected a typo in the table.
+2021-02-01T14:09:23+00:00,1004196998,1004126726,0,2607:FEA8:4F5F:C9C0:D003:F9D1:C4B4:5DF4,2011 North American heat wave,/* July 2011 */
+2021-02-19T13:53:59+00:00,1007701479,1007701368,0,214.1.47.210,1994 North American cold wave,/* Temperature records */
+2022-07-24T04:25:47+00:00,1100083862,1069365968,0,2601:240:4202:EF50:896:F1C0:97C0:C3EB,1994 North American cold wave,/* Chicago */
+2021-12-22T20:33:34+00:00,1061620273,1048413641,0,2600:1700:5D92:8010:6416:97E3:71CB:293D,2014–15 North American winter,"According to the linked storms, there were an accumulated 83 fatalities, not including those sustained in the 'Tornado outbreak sequence of May 5–10, 2015'"
+2021-06-22T20:41:50+00:00,1029922128,1019904209,0,SdkbBot,2015–16 North American winter,"[[WP:GENFIX|General fixes]], removed [[WP:REFPUNCT|erroneous]] space"
+2021-04-19T18:36:00+00:00,1018761032,1000456040,0,RandomIntrigue,2018 North American heat wave,/* Alberta */ Corrected temperature - see weatherbox.
+2021-07-03T21:57:55+00:00,1031826438,1026915887,0,Dino,2018 North American heat wave,[[Heat Dome]]
+2021-06-05T00:03:34+00:00,1026915887,1026915437,0,Classenc,2018 North American heat wave,/* Manitoba */Updated grammar
+2021-01-15T05:09:31+00:00,1000456040,993054918,0,ZappaOMatic,2018 North American heat wave,/* Wildfires */ Tweak
+2021-05-17T18:13:46+00:00,1023675029,1019872438,0,Marioedit8,2019–20 North American winter,/* January–February cold waves */
+2021-01-28T16:57:55+00:00,1003363695,1002365365,0,Derpdadoodle,2019–20 North American winter,/* Mid-March blizzard */ typo
+2021-11-02T06:20:46+00:00,1053149248,1053097388,0,GünniX,2020–21 North American winter,ref name
+2022-08-08T09:19:39+00:00,1103096584,1103014919,0,TheWxResearcher,2020–2023 North American drought,
+2021-08-27T13:36:44+00:00,1040922378,1036807813,0,Romer234,2020–21 North American winter,/* United States */Should be July 30
+2021-02-11T19:45:55+00:00,1006234337,1006234188,0,Snowonhardwood,2020–21 North American winter,/* Early December bomb cyclone */
+2021-06-20T04:47:47+00:00,1029464792,1028114378,0,SuperMightyMikester,2020–21 North American winter,/* Northern Mexico */Fixed typo
+2021-03-26T21:33:41+00:00,1014403920,1014403853,0,Modokai,2021 Atlantic hurricane season,
+2022-07-19T02:29:49+00:00,1099115055,1099073685,0,98.100.40.118,2021–22 North American winter,/* Late March Northeast cold snap */
+2021-10-05T22:51:25+00:00,1048426238,1048423071,0,TSK 2021,2021 Atlantic hurricane season,
+2021-10-13T16:31:54+00:00,1049748376,1049664953,0,TheWxResearcher,2021 Atlantic hurricane season,/* Seasonal summary */ Also in this new image Grace is more to the bottom.
+2021-08-01T23:10:19+00:00,1036656197,1022341836,0,Robert McClenon,2021–22 North American winter,Added {{[[:Template:R to list entry|R to list entry]]}} and {{[[:Template:R with possibilities|R with possibilities]]}} tags to redirect
+2022-01-20T14:24:18+00:00,1066865569,1066652202,0,76.69.7.202,2021–22 North American winter,/* Season effects */ Canada is pretty big
+2022-04-27T03:23:18+00:00,1084875334,1084875241,0,Eastern Cougar,2021–22 North American winter,
+2022-05-28T21:22:18+00:00,1090320469,1090320432,0,152.179.137.198,2021–22 North American winter,/* Late May winter storm */
+2022-03-01T20:36:22+00:00,1074723512,1074242246,0,2601:183:CA80:21A0:AD1C:C36A:B507:DC82,2021–22 North American winter,
+2022-01-19T12:03:39+00:00,1066652202,1066608397,0,Dimadick,2021–22 North American winter,/* External links */
+2021-01-05T02:15:52+00:00,998370356,998356565,0,Onel5969,2022 Atlantic hurricane season,Reverted to revision 848216786 by [[Special:Contributions/Dylan De Jesus|Dylan De Jesus]] ([[User talk:Dylan De Jesus|talk]]): Uncited - restore redirect
+2022-07-19T02:15:44+00:00,1099112856,1097118057,0,98.100.40.118,2022 Montana floods,
+2022-05-16T16:50:23+00:00,1088186720,1088186681,0,Serols,2022 Atlantic hurricane season,Reverted edits by [[Special:Contributions/Jacks343sea|Jacks343sea]] ([[User talk:Jacks343sea|talk]]): disruptive edits ([[WP:HG|HG]]) (3.4.10)
+2022-08-08T05:43:43+00:00,1103063057,1101944318,0,Moondragon21,2022 Montana floods,Added navigational box
+2022-07-30T21:39:01+00:00,1101406799,1101406694,0,Darter746,2022 heat waves,/* July */  Fat fingers
+2022-01-19T18:37:03+00:00,1066710112,1066340680,0,Thrakkx,2022 heat waves,See [[WP:SDNONE]]
+2022-03-20T02:30:00+00:00,1078140446,1078139543,0,Hughesdarren,2022 heat waves,/* Heat waves */ + WA
+2022-01-16T22:40:29+00:00,1066122955,1066122471,0,Helvetic21,December 2021 Midwest derecho and tornado outbreak,/* Non-wind impacts */ Add link about atmospheric river scale
+2022-05-21T18:24:24+00:00,1089064265,1086661434,0,Nioni1234,Draft:Tropical Storm Mindy,/* Meteorologist History */
+2021-01-12T06:47:29+00:00,999845571,963655455,0,Cewbot,Effects of Hurricane Irene in New York,[[User:Cewbot/log/20201008/configuration|Fix broken anchor]]: [[Special:Diff/709178890|2016-03-09T15:25:23Z]] #Agritourism in the United States→[[Agritourism#United States]]
+2021-05-05T16:50:46+00:00,1021603697,1021235892,0,OAbot,"Great Blue Norther of November 11, 1911",[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2021-01-27T12:59:57+00:00,1003107635,990754988,0,Monkbot,"Great Blue Norther of November 11, 1911",[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 6 templates: hyphenate params (9×);
+2022-04-28T16:02:12+00:00,1085130804,1084145939,0,J11csd,Hurricane Henri,/* New Jersey */ Changed URL param to number in Rotella Twitter citation
+2020-11-26T09:17:14+00:00,990754988,981828061,0,193.64.228.146,"Great Blue Norther of November 11, 1911","/* Springfield, Missouri */"
+2021-05-22T03:00:59+00:00,1024434298,1024434207,0,CrazyC83,Hurricane Zeta,/* Meteorological history */
+2022-03-11T15:56:45+00:00,1076531434,1075221321,0,Qwerfjkl (bot),List of heat waves,"Changing short description ""Wikipedia list article"" to ""none"" per [[WP:SDNONE]] (via [[de:Benutzer:Schnark/js/bandersnatch|Bandersnatch]])"
+2021-04-18T07:04:03+00:00,1018466672,1017801885,0,Evolauxia,List of heat waves,"Undid revision 1017801885 by [[Special:Contributions/92.7.14.170|92.7.14.170]] ([[User talk:92.7.14.170|talk]]) (if true, needs to be significant and needs to be sourced)"
+2022-06-21T01:54:22+00:00,1094151294,1093168670,0,Cjfullz07,List of heat waves,/* 2022 */
+2021-05-10T09:26:25+00:00,1022402270,988383630,0,Lennart97,March 2010 nor'easter,fixed link to disambiguation page per [[WP:INTDAB]]
+2021-08-15T14:45:26+00:00,1038913276,1033605874,0,93.105.165.252,March 2012 North American heat wave,
+2021-02-09T18:43:07+00:00,1005847899,993439830,0,104.244.243.96,March 2012 North American heat wave,The solar flare claim seems highly dubious. See paragraphs 5 and 6 here: https://www.climate.gov/news-features/climate-qa/do-solar-storms-cause-heat-waves-earth
+2022-07-21T01:03:15+00:00,1099482104,1098668575,0,TweetCiteBot,May 2022 Canadian derecho,Converted Tweet URLs to [[Template:Cite tweet|{{cite tweet}}]]. See [[WP:TCBE]] for further explanation. Mistake? [[User talk:TheSandDoctor|msg TSD!]]
+2021-06-16T12:52:31+00:00,1028861073,1027750818,0,Beraniladri19,October 2017 nor'easter,"Adding local [[Wikipedia:Short description|short description]]: ""Bomb cyclone that affected United States and Canada"", overriding Wikidata description ""Bombe météorologique"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-04-01T23:34:43+00:00,1015523468,1015296223,0,Bender the Bot,October 2017 nor'easter,"/* top */HTTP → HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/"
+2022-01-05T11:55:51+00:00,1063884348,1061803761,0,Chicdat,October 2021 nor'easter,/* Massachusetts */ past tense
+2021-07-05T22:07:19+00:00,1032172969,1012183386,0,PearBOT II,Talk:2017–18 North American winter,/* top */Merge WikiProject Non-tropical storms banner to WikiProject Weather
+2018-11-25T21:34:50+00:00,870597413,869446904,0,Master of Time,Talk:2017–18 North American winter,
+2021-01-14T19:50:17+00:00,1000356265,983987835,0,Yobot,"Tornado outbreak of April 27–30, 2014","/* Louisville, Mississippi */References after punctuation per [[WP:REFPUNCT]], [[WP:CITEFOOT]], [[WP:PAIC]] + other fixes"
+2021-02-09T16:48:33+00:00,1005829728,1005829458,0,OakhurstWX,"Tornado outbreak of April 27–30, 2014",Undid revision 1005829458 by [[Special:Contributions/Marc remilliard|Marc remilliard]] ([[User talk:Marc remilliard|talk]]) Stop vandalizing
+2021-02-26T02:28:33+00:00,1008981412,1008981351,0,45.51.120.82,"Tornado outbreak of April 27–30, 2014","/* Mayflower–Vilonia, Arkansas */"
+2021-11-04T19:55:12+00:00,1053587746,1053587508,0,108.170.68.186,"Tornado outbreak sequence of March 24–28, 2021",Undid revision 1053587508 by [[Special:Contributions/108.170.68.186|108.170.68.186]] ([[User talk:108.170.68.186|talk]])
+2022-06-14T22:38:39+00:00,1093156051,1093128565,0,JimmyTheMarble,Tornadoes of 2022,
+2022-01-13T18:56:33+00:00,1065474252,1065449115,0,GünniX,Weather of 2022,v2.04 - Fix errors for [[WP:WCW|CW project]] (Unbalanced quotes in ref name or illegal character.)
+2021-02-12T20:33:22+00:00,1006423676,1006423615,0,MajavahBot,Wikipedia:Edit filter/False positives/Reports,Bot clerking: Archive 2 sections
+2022-07-19T19:13:18+00:00,1099245201,1099132004,0,Bsooooli034,Weather of 2022,
+2022-04-26T03:04:21+00:00,1084706833,1084704449,0,Suffusion of Yellow,Wikipedia:Edit filter/False positives/Reports,"/* 2600:1017:B80B:3501:2807:CA4:1B8C:4DEC */ troll elsewhere, please"
+2022-04-14T14:14:06+00:00,1082690453,1082690449,0,MajavahBot,Wikipedia:Edit filter/False positives/Reports,"Bot clerking: Processed section  62.209.141.113  : Add affected page name (task 1a), Add private filter notice (task 1c)"
+2021-04-09T21:48:23+00:00,1016939919,1016939694,0,Masem,Wikipedia:In the news/Candidates,/* RD: DMX */
+2021-07-15T23:33:06+00:00,1033804255,1033804244,0,MajavahBot,Wikipedia:Edit filter/False positives/Reports,Bot clerking: Processed section 2001:569:F873:3900:D8D5:EC14:52D2:C573: Add affected page name (task 1a)
+2022-03-04T12:21:27+00:00,1075192114,1075191630,0,BabbaQ,Wikipedia:In the news/Candidates,/* 2022 Winter Paralympics */
+2022-07-15T02:06:40+00:00,1098272921,1098271268,0,PFHLai,Wikipedia:In the news/Candidates,/* RD: Zahia Mentouri */ +  | creator       = Curbon7

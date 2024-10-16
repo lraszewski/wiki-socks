@@ -1,0 +1,347 @@
+timestamp,revid,parentid,sock,user,page,message
+2015-08-04T08:43:35+00:00,674492603,578570790,1,FranTudor32,NK Rudar 47,
+2015-08-04T08:24:56+00:00,674490998,673297503,1,FranTudor32,Jherson Vergara,
+2015-08-04T08:24:29+00:00,674490956,673965954,1,FranTudor32,AC Milan,/* First team squad */
+2015-08-03T14:37:53+00:00,674374273,672129215,1,FranTudor32,Stadion Hrvatski vitezovi,
+2015-08-03T14:34:31+00:00,674373893,671717655,1,FranTudor32,Stadion Poljud,
+2015-08-03T14:24:25+00:00,674372715,674372650,1,FranTudor32,AS Roma,/* Current squad */
+2015-08-03T14:23:47+00:00,674372650,674355618,1,FranTudor32,AS Roma,/* Current squad */
+2015-08-03T14:17:23+00:00,674371942,672977900,1,FranTudor32,Hrvoje Milić,
+2015-08-02T11:23:47+00:00,674210083,674209875,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-08-02T11:21:25+00:00,674209875,674209705,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-08-02T11:19:15+00:00,674209705,674194272,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-08-02T08:56:16+00:00,674196153,674097493,1,FranTudor32,Alessio Romagnoli,
+2015-08-02T08:35:59+00:00,674194272,674080463,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-08-02T08:34:40+00:00,674194153,674079234,1,FranTudor32,Alen Halilović,
+2015-08-02T08:33:00+00:00,674193975,674163813,1,FranTudor32,FC Barcelona,/* Current squad */
+2015-08-01T14:04:52+00:00,674079400,673830585,1,FranTudor32,2015–16 FC Barcelona season,/* Squad information */
+2015-08-01T14:02:57+00:00,674079234,673832436,1,FranTudor32,Alen Halilović,
+2015-08-01T14:02:19+00:00,674079181,674078041,1,FranTudor32,FC Barcelona,/* Current squad */
+2015-08-01T13:56:55+00:00,674078688,674075293,1,FranTudor32,Inter Milan,/* First team squad */
+2015-08-01T13:49:45+00:00,674078041,673657924,1,FranTudor32,FC Barcelona,/* Current squad */
+2015-08-01T13:47:18+00:00,674077815,673918521,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-08-01T13:45:08+00:00,674077591,673506105,1,FranTudor32,HNK Hajduk Split,/* Retired numbers */
+2015-08-01T13:42:16+00:00,674077300,674077241,1,FranTudor32,West Ham United F.C.,/* Retired numbers */
+2015-08-01T13:41:38+00:00,674077241,674077160,1,FranTudor32,West Ham United F.C.,/* Retired numbers */
+2015-08-01T13:40:49+00:00,674077160,674004023,1,FranTudor32,West Ham United F.C.,/* Retired numbers */
+2015-08-01T10:29:38+00:00,674061389,673631292,1,FranTudor32,Colombia national football team,/* Players */
+2015-08-01T10:00:11+00:00,674059220,674059122,1,FranTudor32,"Jô (footballer, born 1988)",
+2015-08-01T09:58:43+00:00,674059122,674058946,1,FranTudor32,"Jô (footballer, born 1988)",
+2015-08-01T09:56:25+00:00,674058946,674058574,1,FranTudor32,"Jô (footballer, born 1988)",
+2015-08-01T09:52:05+00:00,674058574,663818665,1,FranTudor32,"Jô (footballer, born 1988)",
+2015-07-31T10:54:37+00:00,673918521,673796673,1,FranTudor32,GNK Dinamo Zagreb,/* Out on loan */
+2015-07-30T16:19:02+00:00,673805884,673804293,1,FranTudor32,2015–16 AC Milan season,/* Squad Information */
+2015-07-30T16:00:55+00:00,673803561,673803352,1,FranTudor32,AS Roma,/* Current squad */
+2015-07-30T15:59:30+00:00,673803352,673734202,1,FranTudor32,AS Roma,/* Current squad */
+2015-07-30T11:36:40+00:00,673774171,673697609,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-28T13:55:23+00:00,673471752,673471579,1,FranTudor32,Elvir Maloku,
+2015-07-28T13:54:01+00:00,673471579,672128348,1,FranTudor32,Elvir Maloku,
+2015-07-28T13:51:39+00:00,673471318,673470978,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-28T13:48:57+00:00,673470978,673470847,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-28T13:47:56+00:00,673470847,673470762,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-28T13:47:19+00:00,673470762,673470668,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-28T13:46:38+00:00,673470668,673470491,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-28T13:45:18+00:00,673470491,673448581,1,FranTudor32,HNK Hajduk Split,/* Out on loan */
+2015-07-28T10:27:30+00:00,673448794,673386869,1,FranTudor32,SSC Napoli,/* First team squad */
+2015-07-28T10:25:06+00:00,673448581,673448431,1,FranTudor32,HNK Hajduk Split,/* Out on loan */
+2015-07-28T10:23:16+00:00,673448431,673448350,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-28T10:22:03+00:00,673448350,673435157,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-28T10:21:13+00:00,673448267,673447688,1,FranTudor32,NK Slaven Belupo,/* Current squad */
+2015-07-28T10:14:29+00:00,673447688,672277907,1,FranTudor32,NK Slaven Belupo,/* Current squad */
+2015-07-28T10:11:07+00:00,673447420,673447189,1,FranTudor32,2015–16 HNK Hajduk Split season,/* Out */
+2015-07-28T10:08:34+00:00,673447189,673354801,1,FranTudor32,2015–16 HNK Hajduk Split season,/* Out */
+2015-07-28T10:06:13+00:00,673447007,640807565,1,FranTudor32,GNK Dinamo Zagreb B,
+2015-07-28T09:45:42+00:00,673445183,673444052,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-28T09:33:25+00:00,673444052,673443895,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-28T09:31:52+00:00,673443895,673435047,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-28T08:05:23+00:00,673435571,673435454,1,FranTudor32,Croatia national football team,/* Current squad */
+2015-07-28T08:04:51+00:00,673435454,673435340,1,FranTudor32,Croatia national football team,/* Current squad */
+2015-07-28T08:04:14+00:00,673435340,673433542,1,FranTudor32,Croatia national football team,/* Current squad */
+2015-07-28T08:03:08+00:00,673435157,673435110,1,FranTudor32,HNK Hajduk Split,/* Reserves */
+2015-07-28T08:02:32+00:00,673435110,673285309,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-28T08:01:51+00:00,673435047,673434460,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-28T07:54:50+00:00,673434460,673434356,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-28T07:53:59+00:00,673434356,673434277,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-28T07:53:17+00:00,673434277,673433980,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-28T07:51:09+00:00,673434080,673136408,1,FranTudor32,GNK Dinamo Zagreb Academy,/* Players */
+2015-07-28T07:50:02+00:00,673433980,673285907,1,FranTudor32,GNK Dinamo Zagreb,/* Academy and feeder club */
+2015-07-28T07:44:37+00:00,673433427,673433342,1,FranTudor32,Croatia national football team,/* Recent call-ups */
+2015-07-28T07:43:45+00:00,673433342,673069520,1,FranTudor32,Croatia national football team,/* Recent call-ups */
+2015-07-28T07:32:29+00:00,673432301,673277079,1,FranTudor32,Toma Bašić,
+2015-07-27T10:39:26+00:00,673285907,673285877,1,FranTudor32,GNK Dinamo Zagreb,/* Out on loan */
+2015-07-27T10:39:00+00:00,673285877,673285797,1,FranTudor32,GNK Dinamo Zagreb,/* Out on loan */
+2015-07-27T10:37:51+00:00,673285797,673139570,1,FranTudor32,GNK Dinamo Zagreb,/* Out on loan */
+2015-07-27T10:35:38+00:00,673285624,672766886,1,FranTudor32,Duje Čop,
+2015-07-27T10:32:11+00:00,673285309,673159395,1,FranTudor32,HNK Hajduk Split,/* Reserves */
+2015-07-26T14:32:16+00:00,673159395,673158357,1,FranTudor32,HNK Hajduk Split,/* Reserves */
+2015-07-26T14:30:38+00:00,673159233,673159163,1,FranTudor32,NK Inter Zaprešić,/* Notable players */
+2015-07-26T14:29:58+00:00,673159163,672062951,1,FranTudor32,NK Inter Zaprešić,/* Notable players */
+2015-07-26T14:22:12+00:00,673158357,673149350,1,FranTudor32,HNK Hajduk Split,/* Reserves */
+2015-07-26T13:15:27+00:00,673151371,673150653,1,FranTudor32,Toma Bašić,
+2015-07-26T13:09:43+00:00,673150802,673150574,1,FranTudor32,2015–16 HNK Hajduk Split season,/* Transfers */
+2015-07-26T13:07:09+00:00,673150574,673149125,1,FranTudor32,2015–16 HNK Hajduk Split season,/* First-team squad */
+2015-07-26T13:05:21+00:00,673150397,673150320,1,FranTudor32,Toma Bašić,
+2015-07-26T13:04:36+00:00,673150320,0,1,FranTudor32,Toma Bašić,[[WP:AES|←]]Created page with '{{Infobox football biography | name                =Toma Bašić | image               =  | birth_date          = {{Birth date and age|df=yes|1996|9|25}} | birth...'
+2015-07-26T12:54:18+00:00,673149350,673098004,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-26T12:51:26+00:00,673149125,673148985,1,FranTudor32,2015–16 HNK Hajduk Split season,/* Out */
+2015-07-26T12:50:01+00:00,673148985,673030198,1,FranTudor32,2015–16 HNK Hajduk Split season,/* Transfers */
+2015-07-26T10:57:26+00:00,673139570,673139511,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-26T10:56:53+00:00,673139511,673138499,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-26T10:44:37+00:00,673138499,673138454,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-26T10:44:11+00:00,673138454,673138410,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-26T10:43:36+00:00,673138410,673138248,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-26T10:41:59+00:00,673138248,673137169,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-26T10:38:54+00:00,673137945,0,1,FranTudor32,User:FranTudor32,[[WP:AES|←]]Created page with '{{Infobox football biography | name               = Marko Mikulić | image              =  | birth_date         = {{Birth date and age|df=yes|1994|1|30}} | birth...'
+2015-07-26T10:29:22+00:00,673137169,673136636,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-26T10:22:17+00:00,673136636,672852544,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-21T16:20:49+00:00,672448817,672448570,1,FranTudor32,GNK Dinamo Zagreb,/* Players */
+2015-07-21T16:19:57+00:00,672448680,672447540,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-21T16:19:11+00:00,672448570,672448438,1,FranTudor32,GNK Dinamo Zagreb,/* Players */
+2015-07-21T16:18:15+00:00,672448438,672448381,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-21T16:17:51+00:00,672448381,672447951,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-21T16:14:39+00:00,672447951,672447893,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-21T16:14:11+00:00,672447893,672446036,1,FranTudor32,GNK Dinamo Zagreb,/* Current squad */
+2015-07-07T10:58:08+00:00,670343743,670343602,1,FranTudor32,HNK Hajduk Split,
+2015-07-07T10:56:31+00:00,670343602,670061564,1,FranTudor32,HNK Hajduk Split,/* First-team squad */
+2015-07-07T13:03:10+00:00,670355001,669191720,1,Naill_Nišić,Talk:AC Milan,/* Semi-protected edit request on 7 July 2015 */ new section
+2015-07-07T12:59:05+00:00,670354606,670354507,1,Naill_Nišić,HNK Hajduk Split,/* First-team squad */
+2015-07-07T12:58:01+00:00,670354507,670354038,1,Naill_Nišić,HNK Hajduk Split,/* First-team squad */
+2015-07-07T12:51:26+00:00,670353829,670353117,1,Naill_Nišić,HNK Hajduk Split,/* First-team squad */
+2015-07-07T12:44:42+00:00,670353117,670351831,1,Naill_Nišić,HNK Hajduk Split,/* First-team squad */
+2015-07-07T11:17:00+00:00,670345143,670345082,1,Naill_Nišić,HNK Hajduk Split,/* First-team squad */
+2015-07-07T11:16:15+00:00,670345082,670343743,1,Naill_Nišić,HNK Hajduk Split,/* First-team squad */
+2015-07-27T12:57:12+00:00,673299427,673295846,0,Lafuzion,2015–16 FC Barcelona season,/* Pre-season and friendlies */
+2015-07-20T23:05:09+00:00,672344197,672252165,0,93.139.104.12,2015–16 HNK Hajduk Split season,/* Results by round */
+2015-07-16T19:02:33+00:00,671748493,671579246,0,Dr. Vicodine,2015–16 HNK Hajduk Split season,
+2015-07-25T17:34:24+00:00,673042796,673029632,0,Lafuzion,2015–16 FC Barcelona season,Undid revision 673029632 by [[Special:Contributions/62.69.220.6|62.69.220.6]] ([[User talk:62.69.220.6|talk]])
+2015-07-29T10:51:00+00:00,673616652,673615190,0,Ammarof,2015–16 AC Milan season,/* Squad Information */
+2015-08-02T21:55:19+00:00,674279816,674258635,0,Dale.hžv,2015–16 HNK Hajduk Split season,/* Prva HNL */ attendance + report
+2015-07-09T21:20:22+00:00,670732808,670713530,0,Jolicnikola,2015–16 HNK Hajduk Split season,/* Matches */
+2015-07-11T00:45:23+00:00,670905865,670791174,0,Emalas,AS Roma,
+2015-07-31T11:59:05+00:00,673924353,673919428,0,Dale.hžv,2015–16 HNK Hajduk Split season,/* Europa League */ attendance + report
+2015-07-22T13:37:52+00:00,672580464,672569878,0,Luxic,AC Milan,/* Players */ fixes
+2015-07-08T21:20:49+00:00,670577648,670091272,0,MonFrontieres,AS Roma,"/* Current squad */ José Machín is sportingly known as Pepín. He's from Equatorial Guinea, born in Bata and U-16 member in 2011."
+2015-07-07T21:00:33+00:00,670420452,670395256,0,Luxic,AC Milan,"since he played for Italy U17, [[Wikipedia talk:WikiProject Football/Nationality|consensus at Wikiproject Football]] is that we display his nationality as Italian; should he ever play for Argentina, nationality will be changed accordingly"
+2015-07-13T05:11:50+00:00,671207377,671076232,0,46.176.85.147,2015–16 AC Milan season,/* First team squad */
+2015-07-28T15:39:05+00:00,673485348,673485184,0,Dale.hžv,2015–16 HNK Hajduk Split season,/* In */ Bašić was a Hajduk (U19) player since August 2014
+2015-07-20T10:10:38+00:00,672252165,672251978,0,Jolicnikola,2015–16 HNK Hajduk Split season,/* Europa League */
+2015-07-15T16:36:36+00:00,671579246,671428605,0,78.0.202.152,2015–16 HNK Hajduk Split season,"/* In */ according to the official organ of the HNS, Ohandza was signed from Golden Lions Sport Academy, not Dinamo Zagreb."
+2015-07-10T06:49:51+00:00,670791174,670577648,0,Yobot,AS Roma,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (11310)
+2015-07-13T08:44:52+00:00,671225418,670252677,0,195.29.212.140,Alen Halilović,
+2015-07-21T10:12:31+00:00,672405859,672022616,0,Blocci,AS Roma,/* Current squad */
+2015-07-14T15:48:10+00:00,671418447,671304662,0,Italia2006,AS Roma,/* Current squad */
+2015-07-06T20:43:08+00:00,670252677,670251233,0,Agtx,Alen Halilović,Reverted edits by [[Special:Contribs/92.53.63.234|92.53.63.234]] ([[User talk:92.53.63.234|talk]]) to last version by Adnan n2
+2015-07-22T11:35:37+00:00,672568152,672564693,0,Mosmof,Alen Halilović,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/89.233.196.31|89.233.196.31]] ([[User talk:89.233.196.31|talk]]): No league matches yet. ([[WP:TW|TW]])
+2015-07-31T17:28:40+00:00,673962114,673961245,0,Matthew hk,AS Roma,/* Current squad */ {{fs mid}}
+2015-07-11T16:49:24+00:00,670990567,670652771,0,188.252.206.158,Croatia national football team,/* Friendly titles */
+2015-07-28T17:49:05+00:00,673503438,673443512,0,Alonsolaguilar2,Croatia national football team,/* Recent call-ups */
+2015-07-16T05:21:00+00:00,671662908,671652800,0,BG19bot,Colombia national football team,/* 1990s Golden Era */[[WP:CHECKWIKI]] error fix for #64.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]]
+2015-07-25T21:38:34+00:00,673069520,673062359,0,ProKro,Croatia national football team,Undid revision 673062359 by [[Special:Contributions/87.254.144.191|87.254.144.191]] ([[User talk:87.254.144.191|talk]])
+2015-07-25T17:02:29+00:00,673039260,673025330,0,79.126.183.233,Alessio Romagnoli,
+2015-07-07T14:00:13+00:00,670361233,670332340,0,Matthew hk,Alessio Romagnoli,Revert. No sources
+2015-08-02T13:03:47+00:00,674218609,673842222,0,93.143.176.127,Croatia national football team,
+2015-07-12T01:35:51+00:00,671046466,671029143,0,186.82.94.152,Colombia national football team,/* Current squad */
+2015-07-18T15:07:24+00:00,672001087,671965394,0,ProKro,Croatia national football team,Undid revision 671965394 by [[Special:Contributions/31.217.60.13|31.217.60.13]] ([[User talk:31.217.60.13|talk]])
+2015-07-28T19:20:25+00:00,673515497,673471752,0,Dr. Vicodine,Elvir Maloku,rvv
+2015-07-07T07:32:47+00:00,670326631,670326426,0,93.137.159.213,Croatia national football team,
+2015-07-19T13:22:20+00:00,672128348,672125132,0,Dr. Vicodine,Elvir Maloku,rvv
+2015-07-29T16:47:14+00:00,673657924,673575245,0,Lafuzion,FC Barcelona,/* Current squad */
+2015-07-24T08:39:03+00:00,672852544,672852424,0,188.129.33.191,GNK Dinamo Zagreb,
+2015-07-09T22:36:29+00:00,670742587,670739084,0,Yobot,FC Barcelona,Removed invisible unicode characters + other fixes using [[Project:AWB|AWB]] (11310)
+2015-07-26T10:35:30+00:00,673137651,673125964,0,Mattythewhite,FC Barcelona,Reverted 1 edit by [[Special:Contributions/Eliasbalne2|Eliasbalne2]] ([[User talk:Eliasbalne2|talk]]). ([[WP:TW|TW]])
+2015-05-21T05:11:39+00:00,663363037,660963725,0,Cydebot,Elvir Maloku,Robot - Speedily moving category Prva HNL players to [[:Category:Croatian First Football League players]] per [[WP:CFDS|CFDS]].
+2015-07-29T02:39:47+00:00,673571734,673536988,0,Krtakis,GNK Dinamo Zagreb,/* Out on loan */
+2015-07-13T06:34:33+00:00,671214116,671213990,0,93.137.174.178,GNK Dinamo Zagreb,/* Best 11 */
+2015-07-19T21:37:01+00:00,672182464,672128273,0,Msb73505,GNK Dinamo Zagreb,/* Current squad */
+2015-07-09T12:27:16+00:00,670668862,670591827,0,31.147.69.47,GNK Dinamo Zagreb,/* Players */
+2015-07-10T22:45:53+00:00,670895086,670868808,0,Qed237,GNK Dinamo Zagreb,
+2015-07-22T21:42:21+00:00,672639557,672448817,0,Tezwoo,GNK Dinamo Zagreb,
+2015-07-29T07:25:33+00:00,673597366,673571734,0,93.143.61.32,GNK Dinamo Zagreb,
+2015-08-01T14:15:13+00:00,674080463,674077815,0,Dr. Vicodine,GNK Dinamo Zagreb,Undid revision 674077815 by [[Special:Contributions/FranTudor32|FranTudor32]] ([[User talk:FranTudor32|talk]])
+2015-07-14T21:34:03+00:00,671462171,671214116,0,Wavelength,GNK Dinamo Zagreb,"applying [[WP:MOS]] in regard to [[hyphenation]]: —> ""18-year-old"" [1 instance]—[[WP:MOS#Numbers]] (point 1)—[[WP:HYPHEN]], sub-subsection 3, points 3 and 8"
+2015-07-16T09:19:22+00:00,671684543,671684073,0,93.137.223.250,GNK Dinamo Zagreb,/* Current squad */
+2015-07-12T09:09:42+00:00,671085184,670895086,0,93.143.134.138,GNK Dinamo Zagreb,/* Current squad */
+2015-07-06T17:24:39+00:00,670226208,670225646,0,Tezwoo,GNK Dinamo Zagreb,Undid revision 670225646 by [[Special:Contributions/109.60.61.76|109.60.61.76]] ([[User talk:109.60.61.76|talk]])
+2015-07-29T21:57:42+00:00,673697609,673697558,0,Tezwoo,GNK Dinamo Zagreb,/* Domestic */
+2015-07-19T13:21:26+00:00,672128273,672126320,0,Dr. Vicodine,GNK Dinamo Zagreb,rvv
+2015-07-30T15:07:45+00:00,673796673,673774171,0,Dr. Vicodine,GNK Dinamo Zagreb,
+2015-07-28T19:25:09+00:00,673516451,673447007,0,Dr. Vicodine,GNK Dinamo Zagreb B,Undid revision 673447007 by [[Special:Contributions/FranTudor32|FranTudor32]] ([[User talk:FranTudor32|talk]])
+2015-01-03T15:12:44+00:00,640807565,640803624,0,Timbouctou,GNK Dinamo Zagreb B,Undid revision 640803624 by [[Special:Contributions/31.147.72.241|31.147.72.241]] ([[User talk:31.147.72.241|talk]])
+2015-07-12T19:53:33+00:00,671149319,670801975,0,Zlopseto,HNK Hajduk Split,/* First-team squad */
+2015-07-10T09:03:41+00:00,670801975,670801863,0,78.0.27.232,HNK Hajduk Split,/* Out on loan */
+2015-08-01T14:14:45+00:00,674080405,674077591,0,Dr. Vicodine,HNK Hajduk Split,Undid revision 674077591 by [[Special:Contributions/FranTudor32|FranTudor32]] ([[User talk:FranTudor32|talk]])
+2015-07-19T13:20:09+00:00,672128142,672126531,0,Dr. Vicodine,HNK Hajduk Split,rvv
+2015-07-15T10:05:32+00:00,671537225,671537152,0,78.0.26.76,HNK Hajduk Split,/* Out on loan */
+2014-11-14T11:31:55+00:00,633797856,624569277,0,Oltianruci,GNK Dinamo Zagreb Academy,/* U19 & U17 */
+2015-07-22T16:57:11+00:00,672603991,672603915,0,Dale.hžv,HNK Hajduk Split,/* Reserves */ date
+2015-07-21T17:17:56+00:00,672455823,672448680,0,Dr. Vicodine,HNK Hajduk Split,rvv
+2015-07-28T18:10:39+00:00,673506105,673471318,0,Jolicnikola,HNK Hajduk Split,/* First-team squad */
+2015-07-14T16:17:54+00:00,671422278,671411932,0,62.206.82.236,HNK Hajduk Split,/* First-team squad */
+2015-07-25T15:42:13+00:00,673030187,673029233,0,Dr. Vicodine,HNK Hajduk Split,rvv
+2015-07-07T14:10:44+00:00,670362469,670362033,0,Tezwoo,HNK Hajduk Split,
+2015-07-16T20:27:14+00:00,671760295,671684099,0,83.249.92.167,HNK Hajduk Split,/* First-team squad */
+2015-07-08T09:06:33+00:00,670491907,670362469,0,213.149.61.122,HNK Hajduk Split,/* First-team squad */
+2015-07-09T12:29:04+00:00,670669052,670663959,0,TorcaST,HNK Hajduk Split,
+2015-07-14T09:19:09+00:00,671378382,664747444,0,93.140.232.17,Hrvoje Milić,
+2015-07-19T00:14:46+00:00,672060972,672060597,0,Adnan n2,Inter Milan,/* Out on loan */
+2015-07-25T05:34:58+00:00,672977900,671378382,0,N1cky,Hrvoje Milić,
+2015-07-11T22:01:03+00:00,671025818,669792180,0,Matthew hk running AWB,Jherson Vergara,"link fix, replaced: [[A.S. Avellino 1912|Avellino]] → [[U.S. Avellino 1912|Avellino]] (2) using [[Project:AWB|AWB]]"
+2015-05-24T16:42:43+00:00,663818665,663362643,0,CentarDJ,"Jô (footballer, born 1988)",
+2015-08-01T14:17:32+00:00,674080720,674059220,0,Dr. Vicodine,"Jô (footballer, born 1988)",rvv
+2015-07-19T00:37:43+00:00,672062951,670951683,0,77.237.111.32,NK Inter Zaprešić,/* History */
+2015-07-11T10:03:23+00:00,670951683,670951565,0,Zlopseto,NK Inter Zaprešić,/* Current squad */
+2015-06-02T21:48:20+00:00,665238118,664829961,0,Timbouctou,NK Inter Zaprešić,/* Honours */
+2013-10-24T16:57:22+00:00,578570790,545987911,0,Jolicnikola,NK Rudar 47,
+2015-07-31T08:35:36+00:00,673905375,673159233,0,Zagorec92,NK Inter Zaprešić,/* Current squad */
+2015-07-12T12:48:23+00:00,671102943,671009279,0,Zlopseto,NK Slaven Belupo,/* Current squad */
+2015-07-10T19:15:52+00:00,670870263,670670563,0,31.147.69.47,NK Slaven Belupo,/* Current squad */
+2015-07-07T10:45:03+00:00,670342521,670208412,0,Serginho91,SSC Napoli,
+2015-07-14T11:48:24+00:00,671391311,671391162,0,Serginho91,SSC Napoli,/* First team squad */
+2015-07-19T13:31:49+00:00,672129215,671744792,0,Dr. Vicodine,Stadion Hrvatski vitezovi,rvv
+2015-07-12T06:55:15+00:00,671073659,671014903,0,Dr. Vicodine,Stadion Poljud,
+2015-07-16T14:53:19+00:00,671717655,671685165,0,Dr. Vicodine,Stadion Poljud,Undid revision 671685165 by [[Special:Contributions/93.137.223.250|93.137.223.250]] ([[User talk:93.137.223.250|talk]])
+2014-08-11T15:05:18+00:00,620779117,620779083,0,213.191.145.134,Stadion Hrvatski vitezovi,
+2015-07-07T13:07:04+00:00,670355415,670355001,0,ElHef,Talk:AC Milan,/* Semi-protected edit request on 7 July 2015 */ blank
+2015-07-28T09:02:19+00:00,673441053,673436422,0,Racklever,Toma Bašić,clean up using [[Project:AWB|AWB]]
+2015-08-02T17:02:28+00:00,674245916,674245287,0,Sir Sputnik,Toma Bašić,Proposing article for deletion per [[WP:PROD]]. ([[WP:TW|TW]])
+2015-07-08T03:55:05+00:00,670466094,670370426,0,99.109.128.56,West Ham United F.C.,
+2015-07-18T22:43:16+00:00,672052898,672052196,0,2.120.201.139,West Ham United F.C.,
+2015-08-02T13:34:18+00:00,674221684,674080425,0,Hc94,West Ham United F.C.,/* Players */
+2015-07-16T15:36:20+00:00,671723829,671670631,0,73.14.60.209,West Ham United F.C.,
+2015-07-21T20:22:05+00:00,672479133,672478469,0,Egghead06,West Ham United F.C.,Reverted 1 edit by [[Special:Contributions/82.132.230.149|82.132.230.149]] ([[User talk:82.132.230.149|talk]]) to last revision by 82.44.57.104. ([[WP:TW|TW]])
+2015-07-29T19:08:11+00:00,673675990,673675766,0,190.150.35.182,2015–16 FC Barcelona season,/* International Champions Cup */
+2015-07-25T02:54:58+00:00,672965822,672965600,0,Eliasbalne2,2015–16 FC Barcelona season,/* Squad information */
+2014-04-14T22:12:16+00:00,604219234,603102074,0,Danteilperuaviano,AC Milan,"fix, Al-Ahly is now the record holder."
+2014-01-13T13:11:47+00:00,590504441,590497475,0,Rizky Iconia,AC Milan,/* First team squad */
+2015-02-10T11:15:49+00:00,646483889,646483823,0,Urbanistkn,AC Milan,/* AC Milan Emirates Stadium */
+2013-11-01T20:54:20+00:00,579787769,578732217,0,Sport and politics,AC Milan,"/* Honours */ runner up is not an ""honour"" and some of the events are one of games with only two teams entered."
+2015-05-21T05:10:42+00:00,663362919,663357935,0,Erik the Evil,AC Milan,/* League */
+2015-05-31T22:44:13+00:00,664931399,664412520,0,Vaselineeeeeeee,AS Roma,
+2014-10-30T13:39:43+00:00,631750600,631028127,0,Riktetta,AS Roma,/* Out on loan */
+2014-05-15T08:12:30+00:00,608659751,608632098,0,Number 57,AS Roma,/* Players */ Restore nationalities
+2015-01-17T23:17:30+00:00,642972914,642025621,0,Eden10Hazard,AS Roma,/* Youth team */
+2015-02-12T22:59:41+00:00,646863928,646324441,0,Magioladitis,AS Roma,/* Current squad */clean up using [[Project:AWB|AWB]] (10823)
+2014-07-08T17:08:03+00:00,616109170,616020480,0,Lckyby,AS Roma,/* Players */
+2015-02-01T02:28:31+00:00,645083028,645034556,0,Divine time,AS Roma,/* Current squad */
+2014-04-07T02:51:46+00:00,603094779,601821663,0,Bandy boy,AS Roma,
+2014-06-09T14:52:59+00:00,612222244,612216951,0,Dewritech,AS Roma,"clean up, [[WP:AWB/T|typo(s) fixed]]: march 2004, → March 2004, using [[Project:AWB|AWB]]"
+2014-03-29T16:06:04+00:00,601821663,601361188,0,Footwiks,AS Roma,/* Stadiums */
+2013-12-04T12:51:38+00:00,584514002,584427999,0,David-golota,AS Roma,
+2014-09-07T14:05:55+00:00,624540757,624055013,0,Delusion23,AS Roma,not featured on that Wikipedia
+2014-12-16T07:42:32+00:00,638325571,638325478,0,175.110.155.119,Alen Halilović,
+2014-03-09T13:47:42+00:00,598836527,598836427,0,Chinaski1987,Alen Halilović,
+2015-01-20T15:25:48+00:00,643379883,643327662,0,188.252.215.176,Alen Halilović,/* External links */
+2014-02-14T00:46:57+00:00,595382034,594823379,0,Tbhotch,Alen Halilović,{{pp-semi|small=yes}}
+2014-05-23T18:42:05+00:00,609845078,609845015,0,Lionelmessi1o1,Alen Halilović,
+2015-06-24T15:12:22+00:00,668478355,668085714,0,2A02:A03F:14F9:6400:F424:9A26:A402:C877,Alessio Romagnoli,/* International career */
+2014-06-01T10:10:08+00:00,611055137,604655003,0,90.203.244.18,Alessio Romagnoli,
+2015-02-01T16:23:39+00:00,645175612,644327548,0,91.182.253.47,Alessio Romagnoli,update club appearances
+2014-11-15T00:27:10+00:00,633879767,631190415,0,Monkbot,Alessio Romagnoli,/* Sampdoria (loan) */[[User:Monkbot/Task_6:_CS1_language_support|Task 6c]]: add |script-title=; replace {{xx icon}} with |language= in CS1 citations; clean up language icons;
+2014-02-01T03:46:19+00:00,593384033,593354324,0,2601:E:800:26A:68A4:98F2:CF6:FBBF,Colombia national football team,/* Current squad */
+2015-07-14T23:34:18+00:00,671476762,671274482,0,87.16.224.2,Alessio Romagnoli,
+2013-12-27T00:15:16+00:00,587825359,587666390,0,Brayan Jaimes,Colombia national football team,/* Schedule and results */
+2015-06-14T03:04:58+00:00,666848186,666848094,0,Intruder007,Croatia national football team,/* Recent call-ups */
+2015-04-16T21:27:02+00:00,656810486,656722110,0,83.71.69.146,Colombia national football team,/* 1990s Golden Era */
+2013-12-07T15:50:50+00:00,585002378,584940132,0,Swagamaholic,Colombia national football team,
+2013-12-01T15:36:15+00:00,584065243,584024445,0,Brayan Jaimes,Colombia national football team,
+2015-03-29T14:53:13+00:00,654041212,653948483,0,Amanuensis Balkanicus,Croatia national football team,/* Recent results and fixtures */
+2014-05-29T00:59:31+00:00,610572456,610556860,0,190.25.192.213,Colombia national football team,/* Current squad */
+2014-04-13T13:48:51+00:00,604011300,603696658,0,86.92.65.187,Croatia national football team,
+2015-02-04T21:34:10+00:00,645658741,645658185,0,Djln,Croatia national football team,removed [[Category:Franjo Bučar Award winners]] using [[WP:HC|HotCat]]
+2015-04-16T19:31:58+00:00,656796950,655633195,0,JerrySa1,Croatia national football team,
+2015-07-07T18:50:20+00:00,670402180,670352661,0,Joeykai,Croatia national football team,
+2015-02-15T03:28:30+00:00,647193148,645658741,0,TheSoccerBoy,Croatia national football team,
+2014-02-13T18:07:11+00:00,595329843,592858526,0,Cloudz679,Elvir Maloku,/* External links */ removing Transfermarkt template - being deleted
+2015-01-12T02:59:35+00:00,642100059,642092162,0,Alza08,Croatia national football team,added section on rivalries
+2013-11-13T08:43:28+00:00,581452285,581452157,0,93.142.150.43,Elvir Maloku,
+2015-04-11T08:15:43+00:00,655942215,655822612,0,2602:306:32C5:D8D0:2950:17AD:EA2E:AC23,FC Barcelona,/* External links */
+2013-11-06T23:38:14+00:00,580524627,580524383,0,Suitcivil133,FC Barcelona,/* Records */
+2014-02-21T18:50:46+00:00,596526891,596399494,0,Justkartik10,FC Barcelona,Undid revision 596399494 by [[Special:Contributions/SupernovaeIA|SupernovaeIA]] ([[User talk:SupernovaeIA|talk]]) No exaggeration. It is well referenced.
+2013-11-11T20:19:34+00:00,581230390,581228436,0,Justkartik10,FC Barcelona,"trying to bring it to its position as on November 2, 2013, before the first of many deletions & edits by SupernovaelA."
+2014-07-01T13:58:54+00:00,615156275,615140643,0,Joe Sins,FC Barcelona,/* Players */ Bojan's loan at Ajax has expired today
+2014-01-16T21:41:06+00:00,591028229,591027734,0,Walter Görlitz,FC Barcelona,around to just under
+2015-05-22T19:39:29+00:00,663582710,663581307,0,LivivMarivs,FC Barcelona,Undid revision 663581307 by [[Special:Contributions/Carlos Rojas77|Carlos Rojas77]] ([[User talk:Carlos Rojas77|talk]]) - You are blind? I don't delete Copa Eva Duarte from honours. Look at the honours section carefully!!!
+2015-04-29T22:44:44+00:00,659954383,659661432,0,Forza NYCFC !!,FC Barcelona,/* Support */
+2015-03-30T02:21:36+00:00,654120038,653925192,0,Wweromanreigns11,GNK Dinamo Zagreb,/* Current squad */
+2014-05-19T12:38:10+00:00,609230674,609230459,0,31.176.142.13,GNK Dinamo Zagreb,/* Current squad */
+2014-04-23T21:17:58+00:00,605514599,605458731,0,Jardel99,GNK Dinamo Zagreb,/* Current squad */
+2015-01-05T19:23:00+00:00,641126628,641126568,0,94.253.129.173,GNK Dinamo Zagreb,/* Current squad */
+2015-04-04T17:08:14+00:00,654933278,654933185,0,89.154.106.250,GNK Dinamo Zagreb,/* Current squad */
+2014-02-21T18:25:15+00:00,596523327,596401831,0,78.3.76.193,GNK Dinamo Zagreb,
+2014-03-05T12:02:23+00:00,598245230,597708494,0,46.99.3.216,GNK Dinamo Zagreb,/* UEFA club coefficient ranking */
+2015-03-15T16:01:19+00:00,651495021,649982331,0,31.147.35.5,GNK Dinamo Zagreb,/* Current squad */
+2014-08-06T20:30:41+00:00,620139991,620075685,0,Matej1234,GNK Dinamo Zagreb,
+2013-12-04T07:37:29+00:00,584489297,584192365,0,93.139.41.223,GNK Dinamo Zagreb,/* First team squad */
+2014-08-29T02:33:25+00:00,623258413,623258404,0,ClueBot NG,GNK Dinamo Zagreb,"Reverting possible vandalism by [[Special:Contributions/190.43.181.24|190.43.181.24]] to version by 109.60.111.116. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1934453) (Bot)"
+2014-10-31T12:33:54+00:00,631879740,631099921,0,79.141.160.94,GNK Dinamo Zagreb,
+2014-04-06T03:44:20+00:00,602955517,602901466,0,Chris the speller,GNK Dinamo Zagreb,sp
+2014-05-14T22:37:36+00:00,608610557,608405170,0,185.18.63.155,GNK Dinamo Zagreb,Added reference about year of foundation from uefa.com club profile
+2014-02-01T14:19:21+00:00,593433725,593360369,0,Tomi.zg.hr,GNK Dinamo Zagreb,/* First team squad */
+2014-05-07T09:29:10+00:00,607454666,607009616,0,Royroydeb,GNK Dinamo Zagreb,/* Current squad */
+2015-01-01T18:53:05+00:00,640542949,640413372,0,94.253.131.35,GNK Dinamo Zagreb,/* Current squad */
+2014-01-30T03:08:45+00:00,593058242,592297267,0,93.136.15.69,GNK Dinamo Zagreb,
+2013-12-20T00:45:15+00:00,586873275,586858635,0,37.205.97.66,GNK Dinamo Zagreb,
+2014-08-16T21:09:36+00:00,621536069,621393051,0,Eden10Hazard,GNK Dinamo Zagreb,/* Current squad */ +Ante Coric
+2014-05-21T18:57:41+00:00,609563145,609264064,0,Rabota15,GNK Dinamo Zagreb,/* Current squad */
+2013-11-17T14:53:08+00:00,582056161,581721806,0,Cromium,GNK Dinamo Zagreb,"removed [[Category:Association football clubs never relegated from national premier leagues]] using [[WP:HC|HotCat]], no evidence found to support this yet"
+2014-03-20T09:23:28+00:00,600426963,600422036,0,78.3.250.162,GNK Dinamo Zagreb,/* Finances and ownership */
+2013-10-20T11:21:06+00:00,577961797,571414398,0,Jtoml3,GNK Dinamo Zagreb Academy,/* Notable academy graduates */
+2015-05-29T00:04:57+00:00,664492789,664425271,0,Bosnalopta,GNK Dinamo Zagreb,
+2014-03-06T16:52:24+00:00,598419352,597800936,0,93.136.222.89,GNK Dinamo Zagreb Academy,
+2014-09-12T12:30:18+00:00,625230698,624731059,0,Rbc12,HNK Hajduk Split,/* First-team squad */
+2015-02-14T20:18:54+00:00,647145953,647100103,0,109.60.60.146,HNK Hajduk Split,/* First-team squad */
+2014-12-12T22:07:04+00:00,637828042,636014963,0,109.163.149.95,HNK Hajduk Split,/* First-team squad */
+2015-06-20T17:43:55+00:00,667792552,667792501,0,31.147.72.22,HNK Hajduk Split,/* First-team squad */
+2015-05-08T19:51:45+00:00,661459710,661074259,0,Mogism,HNK Hajduk Split,"/* Hajduk in the HNL */Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: one goal → one-goal using [[Project:AWB|AWB]]"
+2013-12-29T23:02:18+00:00,588278629,587904545,0,109.60.51.36,HNK Hajduk Split,typo
+2014-09-26T19:03:25+00:00,627192094,627160571,0,93.140.168.167,HNK Hajduk Split,/* Retired numbers */
+2014-09-02T18:16:48+00:00,623892842,623892743,0,Gnooi,HNK Hajduk Split,/* First-team squad */
+2015-03-18T03:39:31+00:00,651877972,651781255,0,Kornjaca,HNK Hajduk Split,
+2015-01-08T15:41:29+00:00,641588669,640829110,0,37.203.73.113,HNK Hajduk Split,/* First-team squad */
+2014-05-27T04:51:28+00:00,610301404,610077677,0,FkpCascais,HNK Hajduk Split,/* First-team squad */
+2014-07-03T16:04:20+00:00,615449116,615350744,0,5.81.83.174,HNK Hajduk Split,/* First-team squad */ Put players without numbers in position order (Luka Lučić & Ismar Hairlahović)
+2015-01-26T15:02:06+00:00,644258459,644252867,0,109.163.154.37,HNK Hajduk Split,/* First-team squad */
+2015-06-26T13:00:26+00:00,668756806,668756776,0,93.142.152.178,HNK Hajduk Split,
+2014-08-18T10:16:18+00:00,621754425,621609167,0,188.252.214.104,HNK Hajduk Split,
+2015-06-17T12:56:05+00:00,667343228,667338668,0,83.131.90.6,HNK Hajduk Split,
+2014-05-05T20:03:11+00:00,607229199,606900156,0,93.143.59.191,HNK Hajduk Split,Undid revision 606900156 by [[Special:Contributions/Jolicnikola|Jolicnikola]] ([[User talk:Jolicnikola|talk]])
+2014-07-11T23:52:41+00:00,616591362,616580612,0,5.133.142.244,HNK Hajduk Split,/* Out on loan */
+2013-12-08T15:00:26+00:00,585131148,584246587,0,Geregen2,Hrvoje Milić,
+2014-05-02T20:34:50+00:00,606816653,606108233,0,Geregen2,Hrvoje Milić,
+2013-10-27T01:55:08+00:00,578899550,577982748,0,Geregen2,Hrvoje Milić,
+2014-04-17T17:20:07+00:00,604618771,604618608,0,93.137.9.60,HNK Hajduk Split,
+2014-11-22T22:21:20+00:00,635019514,633954286,0,Geregen2,Hrvoje Milić,
+2015-03-22T02:35:56+00:00,652962045,651673012,0,Geregen2,Hrvoje Milić,
+2015-05-27T16:06:22+00:00,664289961,664289829,0,Sacchipersempr,Inter Milan,/* FC Internazionale Milano as a company */
+2014-07-11T09:42:35+00:00,616502259,616460812,0,Gelu6,Inter Milan,
+2014-10-09T14:31:37+00:00,628930437,628805506,0,Dhwaneelshah,Inter Milan,/* One-club men */ Added links
+2014-10-06T19:44:14+00:00,628526904,627300172,0,68.199.15.47,Jherson Vergara,wrong number of caps
+2013-10-24T16:27:52+00:00,578567131,577932378,0,DinoAvdic94,Inter Milan,/* Out on loan */
+2014-06-26T20:28:05+00:00,614550093,614549985,0,Chalim Kenabru,Jherson Vergara,added [[Category:Parma F.C. players]] using [[WP:HC|HotCat]]
+2015-06-12T03:56:27+00:00,666577184,663852012,0,Joeykai,Jherson Vergara,added [[Category:2013 FIFA U-20 World Cup players]] using [[WP:HC|HotCat]]
+2014-11-11T09:04:06+00:00,633357049,633356939,0,91.194.243.11,"Jô (footballer, born 1988)",
+2015-05-05T13:08:44+00:00,660942376,659685228,0,John of Reading,"Jô (footballer, born 1988)","Typo fixing, replaced: fotball → football using [[Project:AWB|AWB]]"
+2014-08-13T13:02:32+00:00,621056363,621056118,0,LRD NO,"Jô (footballer, born 1988)",Reverted 3 edits by [[Special:Contributions/Ivan1603|Ivan1603]] ([[User talk:Ivan1603|talk]]) to last revision by 91.194.243.11. ([[WP:TW|TW]])
+2014-09-13T19:04:04+00:00,625416862,625416697,0,78.1.105.127,"Jô (footballer, born 1988)",
+2015-04-07T18:15:46+00:00,655382785,648602891,0,78.128.117.121,NK Inter Zaprešić,/* Current squad */
+2014-10-13T09:45:13+00:00,629417844,628924770,0,31.147.84.121,NK Inter Zaprešić,/* Current squad */
+2014-01-23T16:29:18+00:00,592040211,590495377,0,109.175.73.113,NK Inter Zaprešić,/* Notable players */
+2015-02-17T17:53:39+00:00,647580784,647413373,0,90.29.195.7,NK Inter Zaprešić,/* Current squad */
+2014-09-16T07:53:10+00:00,625780330,623695044,0,31.147.80.173,NK Slaven Belupo,/* Current squad */
+2014-07-07T09:04:37+00:00,615924501,615863385,0,Ayomaju,SSC Napoli,/* External links */
+2013-10-17T22:33:00+00:00,577635169,577629619,0,108.54.229.131,SSC Napoli,/* The Derby */
+2015-06-06T15:19:19+00:00,665767572,665767500,0,FifthAve101,SSC Napoli,"/* Current coaching, technical and administrative staff */"
+2015-07-16T18:32:58+00:00,671744792,671539120,0,94.250.176.190,Stadion Hrvatski vitezovi,
+2013-03-21T07:00:40+00:00,545913172,504462686,0,Addbot,Stadion Hrvatski vitezovi,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q3499835]]"
+2014-09-29T22:09:03+00:00,627603147,627602918,0,72.23.86.202,Stadion Poljud,
+2015-02-04T20:09:54+00:00,645647989,645643625,0,188.252.203.244,Stadion Poljud,
+2014-04-05T23:59:59+00:00,602936117,602527596,0,Magioladitis,Stadion Poljud,++
+2013-11-10T13:26:45+00:00,581039370,580928798,0,Ivan T.,Stadion Poljud,/* Events and Concerts */ pleonasm
+2014-05-14T09:36:25+00:00,608521783,608502654,0,GiantSnowman,West Ham United F.C.,Reverted edits by [[Special:Contribs/2602:30A:2CA3:8290:15AB:A88B:9D62:152C|2602:30A:2CA3:8290:15AB:A88B:9D62:152C]] ([[User talk:2602:30A:2CA3:8290:15AB:A88B:9D62:152C|talk]]) to last version by 2602:30A:2CA3:8290:382D:7C3C:CF8C:75B1
+2014-10-20T22:28:45+00:00,630435888,630203721,0,Guinnessguy,West Ham United F.C.,/* Development squad */
+2014-02-22T03:05:54+00:00,596582599,596283717,0,85.51.196.190,West Ham United F.C.,/* First-team squad */
+2014-01-16T22:56:00+00:00,591038244,590838024,0,92.59.194.84,West Ham United F.C.,/* First-team squad */
+2013-11-23T15:34:36+00:00,582962316,582957526,0,JMHamo,West Ham United F.C.,Reverted 1 edit by [[Special:Contributions/Daftcelt|Daftcelt]] ([[User talk:Daftcelt|talk]]): Non-notable competition. ([[WP:TW|TW]])
+2015-04-17T21:21:01+00:00,656954287,656952393,0,Struway2,West Ham United F.C.,Reverted edits by [[Special:Contribs/187.237.231.5|187.237.231.5]] ([[User talk:187.237.231.5|talk]]) to last version by Egghead06
+2014-02-13T13:06:39+00:00,595292699,595066743,0,Skyblueshaun,West Ham United F.C.,/* Players */ Turgott loan ended
+2015-03-01T18:24:00+00:00,649409122,649240926,0,86.129.115.172,West Ham United F.C.,/* Managers */

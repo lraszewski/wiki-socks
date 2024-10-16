@@ -1,0 +1,396 @@
+timestamp,revid,parentid,sock,user,page,message
+2020-08-19T15:17:57+00:00,973845252,973053144,1,Manu31415,Specification and Description Language,Added a external link to the list of SDL tools
+2020-07-29T08:52:12+00:00,970106877,957642470,1,Manu31415,PragmaDev Studio,Safety requirements verification applied to European Train Control System paper added.
+2020-05-15T12:05:16+00:00,956802975,956789647,1,Manu31415,User talk:Manu31415,Response to COI
+2020-05-15T12:02:51+00:00,956802641,956648135,1,Manu31415,Wikipedia:Articles for deletion/PragmaDev Process,Connected contributor template added
+2020-05-15T09:03:18+00:00,956783607,956503469,1,Manu31415,User talk:Manu31415,/* May 2020 */ Responding to conflict of interest.
+2020-05-14T14:20:29+00:00,956647992,956461118,1,Manu31415,Wikipedia:Articles for deletion/PragmaDev Process,Adding a reference to PR announcing partnership between PragmaDev and MEGA International.
+2020-05-13T13:44:59+00:00,956461118,956275809,1,Manu31415,Wikipedia:Articles for deletion/PragmaDev Process,Responding to Elmidae
+2020-05-11T09:34:16+00:00,956064533,955892068,1,Manu31415,Wikipedia:Articles for deletion/PragmaDev Process,Argumentation to keep the article
+2020-02-18T16:36:07+00:00,941443933,928606008,1,Manu31415,PragmaDev Studio,Latest release updated
+2020-02-13T16:16:18+00:00,940615218,939638847,1,Manu31415,Comparison of Business Process Model and Notation modeling tools,/* General */ PragmaDev Process added.
+2018-12-05T08:56:05+00:00,872125804,860530895,1,Manu31415,ASN.1,/* External links */ Added a link to ASN.1 video introduction
+2018-11-08T15:21:50+00:00,867877884,837899373,1,Manu31415,PragmaDev Studio,"Latest release updated, Raspbian platform added, issue messages removed because enough citations, links, and context have been previously provided."
+2018-08-21T13:23:30+00:00,855883003,855866785,1,Manu31415,ASN.1,"Language support and Tools paragraphs added, other paragraphs reorganized, and reference warning box removed."
+2018-08-21T10:30:46+00:00,855866785,855865986,1,Manu31415,ASN.1,Reference to ITU-T X.680 recommendation added.
+2018-08-21T10:22:17+00:00,855865986,855865309,1,Manu31415,ASN.1,Two external links to ITU recommendation removed cause they are already listed in the References.
+2018-08-21T10:14:54+00:00,855865309,855753274,1,Manu31415,ASN.1,References added for E-XER and GSER.
+2018-08-20T16:06:20+00:00,855753274,855159740,1,Manu31415,ASN.1,References to ITU-T recommendations added. ECN added.
+2018-04-23T13:06:40+00:00,837856127,836896038,1,Manu31415,PragmaDev Studio,Completed the article with all the references. Please consider removing the notice.
+2018-04-17T12:53:08+00:00,836885362,836884446,1,Manu31415,PragmaDev Studio,
+2018-04-17T12:44:20+00:00,836884446,836881671,1,Manu31415,PragmaDev Studio,Links to other articles added.
+2018-04-17T12:20:28+00:00,836881671,835913152,1,Manu31415,PragmaDev Studio,Context has been improved.
+2018-04-11T14:54:39+00:00,835913152,835912213,1,Manu31415,PragmaDev Studio,"Better references for licensing, and added additional references."
+2018-04-11T13:05:26+00:00,835899161,835693996,1,Manu31415,PragmaDev Studio,Removed redundant references.
+2018-04-09T12:22:56+00:00,835557414,835103819,1,Manu31415,PragmaDev Studio,References to comply to GNG have been restored.
+2018-03-22T13:27:14+00:00,831846230,830710857,1,Manu31415,Wikipedia:Articles for deletion/PragmaDev Studio,Added a comment to demonstrate notability.
+2018-03-21T11:10:50+00:00,831600427,831586816,1,Manu31415,PragmaDev Studio,Application domain section added as well as many references to published papers.
+2018-03-19T10:28:50+00:00,831204540,831203051,1,Manu31415,List of Unified Modeling Language tools,/* Features */ PragmaDev Studio re-inserted in the list.
+2018-03-19T10:17:55+00:00,831203051,829430512,1,Manu31415,List of Unified Modeling Language tools,/* General */ PragmaDev Studio re-introduced in the list.
+2018-01-02T10:49:57+00:00,818232640,800662741,1,Manu31415,Specification and Description Language,/* SDL tools */ Safire tool removed from the list of tools.
+2017-08-28T12:43:36+00:00,797651601,786941238,1,Manu31415,TTCN-3,/* Example code */ Graphical representation of the test case added.
+2017-06-22T13:58:58+00:00,786941238,786929369,1,Manu31415,TTCN-3,Module definition was not correct
+2017-06-22T12:53:20+00:00,786932909,786932384,1,Manu31415,TTCN,Wikipedia references updated
+2017-06-22T12:49:13+00:00,786932384,786930559,1,Manu31415,TTCN,Versions rewritten to be more accurate.
+2017-06-22T12:33:57+00:00,786930559,767867346,1,Manu31415,TTCN,Removed dummy example and dead links
+2017-06-22T12:22:19+00:00,786929369,786929165,1,Manu31415,TTCN-3,/* Language organization */ Use singular for Port and Template
+2017-06-22T12:20:21+00:00,786929165,786928953,1,Manu31415,TTCN-3,Example added
+2017-06-22T12:18:13+00:00,786928953,786785956,1,Manu31415,TTCN-3,Verdict construct added
+2017-06-21T16:01:47+00:00,786785956,768972146,1,Manu31415,TTCN-3,Major rewriting and reorganization of the whole page.
+2016-12-02T14:42:07+00:00,752655913,746329400,1,Manu31415,PragmaDev Studio,Added information on V5.1 and freemium licensing model.
+2016-12-02T14:35:23+00:00,752655096,750093021,1,Manu31415,List of Unified Modeling Language tools,PragmaDev offering updated. The tool is called PragmaDev Studio since V5.0 and is based on a freemium licensing model since V5.1.
+2016-04-13T15:27:37+00:00,715074879,671553112,1,Manu31415,Requirements Interchange Format,Updated broken link to ireb.org article.
+2016-04-13T09:11:45+00:00,715033955,667887605,1,Manu31415,Specification and Description Language,/* SDL tools */ Change PragmaDev Real Time Developer Studio to its new name PragmaDev Studio.
+2016-04-13T09:10:13+00:00,715033818,715033546,1,Manu31415,PragmaDev Studio,Rephrase the introduction to fit the new article title.
+2016-04-13T09:06:52+00:00,715033552,0,1,Manu31415,Talk:Real Time Developer Studio,Manu31415 moved page [[Talk:Real Time Developer Studio]] to [[Talk:PragmaDev Studio]]: Real Time Developer Studio has been renamed PragmaDev Studio
+2016-04-13T09:06:51+00:00,715033549,603266975,1,Manu31415,Talk:PragmaDev Studio,Manu31415 moved page [[Talk:Real Time Developer Studio]] to [[Talk:PragmaDev Studio]]: Real Time Developer Studio has been renamed PragmaDev Studio
+2016-04-13T09:06:51+00:00,715033547,0,1,Manu31415,Real Time Developer Studio,Manu31415 moved page [[Real Time Developer Studio]] to [[PragmaDev Studio]]: Real Time Developer Studio has been renamed PragmaDev Studio
+2016-04-13T09:06:50+00:00,715033546,689296149,1,Manu31415,PragmaDev Studio,Manu31415 moved page [[Real Time Developer Studio]] to [[PragmaDev Studio]]: Real Time Developer Studio has been renamed PragmaDev Studio
+2016-04-12T12:10:38+00:00,714885413,691062069,1,Manu31415,TTCN-3,/* External links */ Updated link to PragmaDev tools.
+2015-11-05T17:07:37+00:00,689209793,661582334,1,Manu31415,PragmaDev Studio,Since V5 Real Time Developer Studio is now called PragmaDev Studio. The article has been updated accordingly.
+2015-02-16T09:04:47+00:00,647370733,634852372,1,Manu31415,PragmaDev Studio,Changed the latest stable release to 4.6.
+2014-11-26T09:25:53+00:00,635491108,625638469,1,Manu31415,Specification and Description Language,/* SDL-RT */ Renamed the SDL-RT chapter to variants and added TNSDL to the variants.
+2014-08-27T10:17:36+00:00,623004793,623004611,1,Manu31415,Specification and Description Language,
+2014-08-27T10:15:07+00:00,623004611,622337071,1,Manu31415,Specification and Description Language,/* Overview */ Added reference to SDL Profiles.
+2014-08-25T14:14:09+00:00,622744694,622744387,1,Manu31415,Message sequence chart,/* Comparison to UML */ Link to reference updated.
+2014-08-25T14:11:50+00:00,622744387,618830517,1,Manu31415,Message sequence chart,HMSC are not state machines !!
+2014-08-22T13:32:15+00:00,622337071,622336992,1,Manu31415,Specification and Description Language,/* See also */ UML tool has been removed from the See also section.
+2014-08-22T13:31:36+00:00,622336992,622335816,1,Manu31415,Specification and Description Language,/* Related technologies */ UML added as a related technology.
+2014-08-22T13:27:59+00:00,622336575,621765924,1,Manu31415,List of Unified Modeling Language tools,Latest Real Time Developer Studio stable release date updated in the General table.
+2014-08-22T13:20:46+00:00,622335816,622332577,1,Manu31415,Specification and Description Language,/* Hierarchy level */ Organization section re-written with graphics deeply inspired from the French page.
+2014-08-22T12:48:36+00:00,622332577,622331175,1,Manu31415,Specification and Description Language,/* SDL tools */ Telelogic Tau 4.2 removed because it is not based on SDL but on UML.
+2014-08-22T12:34:47+00:00,622331175,618833474,1,Manu31415,Specification and Description Language,/* Related technologies */ TTCN-3 added as a related technology.
+2014-07-31T09:39:50+00:00,619266032,619250187,1,Manu31415,Wikipedia:Categories for discussion/Log/2014 July 27,/* Category:Software modeling tools */ Argue in favor of a Software modeling tool category.
+2014-07-30T07:59:26+00:00,619097755,618874825,1,Manu31415,Wikipedia:Categories for discussion/Log/2014 July 27,/* Category:Software modeling tools */ Comment on Modeling software category
+2014-07-28T15:50:32+00:00,618833474,609654234,1,Manu31415,Specification and Description Language,/* Related technologies */ Change the link from MSC to Message Sequence Chart
+2014-07-28T15:27:27+00:00,618830517,618820445,1,Manu31415,Message sequence chart,Added Symbols in MSC section
+2014-07-28T14:04:41+00:00,618820445,613273717,1,Manu31415,Message sequence chart,/* Comparison to UML */ UML 2 sequence diagram is strongly inspired by MSC.
+2014-07-28T13:41:52+00:00,618817759,618809687,1,Manu31415,Wikipedia:Categories for discussion/Log/2014 July 27,/* Category:Software modeling tools */ Keep the Software modeling tool category and make it part of CASE tools.
+2014-07-17T10:09:10+00:00,617295691,613298939,1,Manu31415,PragmaDev Studio,Update of the link to ENSEEIHT handout.
+2014-06-17T12:12:04+00:00,613273717,603139562,1,Manu31415,Message sequence chart,New reference for PSC to an SDL Forum paper.
+2014-06-17T11:46:16+00:00,613271727,608388015,1,Manu31415,PragmaDev Studio,Change the latest stable release to 4.5 and add MacOS support.
+2014-05-13T12:09:42+00:00,608368445,603149098,1,Manu31415,PragmaDev Studio,/* Features */ Model Based Testing section added
+2014-04-07T12:16:57+00:00,603142336,602721588,1,Manu31415,Talk:PragmaDev Studio,New reference
+2014-04-03T16:15:36+00:00,602597290,602577213,1,Manu31415,Talk:PragmaDev Studio,Question on sources
+2014-03-28T14:42:10+00:00,601659811,601586543,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,Comments on merging proposal
+2014-03-26T12:24:54+00:00,601343261,601273600,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,Question to the comment
+2014-03-14T14:47:39+00:00,599588127,599502541,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,New coverage introduced.
+2014-03-13T11:24:07+00:00,599419471,599134433,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,New coverage in reliable and independent industrial source.
+2014-03-11T09:57:19+00:00,599111248,598902106,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,Comment on the meaning of notability
+2014-03-01T10:31:30+00:00,597649209,597535290,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,The listed publications are the best coverage such a tool can get.
+2014-02-28T08:58:37+00:00,597498238,597379003,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,Response to the latest comment
+2014-02-27T10:28:36+00:00,597353824,597249437,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,Response to the latest comment
+2014-02-26T16:27:57+00:00,597241260,597111604,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,A response to the comment has been added.
+2014-02-25T11:42:00+00:00,597056603,597050903,1,Manu31415,MATLAB,Introducing Software modeling language category
+2014-02-25T11:03:53+00:00,597053826,594427719,1,Manu31415,LabVIEW,Introducing Software modeling language and tool categories
+2014-02-25T11:02:11+00:00,597053670,593708334,1,Manu31415,SIGNAL (programming language),Introducing Software modeling language category
+2014-02-25T11:01:21+00:00,597053601,547865025,1,Manu31415,Category:Unified Modeling Language,Introducing Software modeling language category
+2014-02-25T10:59:45+00:00,597053481,593255357,1,Manu31415,Message sequence chart,Introducing Software modeling language category
+2014-02-25T10:58:50+00:00,597053418,591478833,1,Manu31415,Petri net,Introducing Software modeling language category
+2014-02-25T10:56:16+00:00,597053232,595504265,1,Manu31415,Unified Modeling Language,Introducing Software modeling language category
+2014-02-25T10:54:55+00:00,597053139,585850549,1,Manu31415,Architecture Analysis & Design Language,Introducing Software modeling language category
+2014-02-25T10:54:07+00:00,597053076,563935534,1,Manu31415,Lustre (programming language),Introducing Software modeling language category
+2014-02-25T10:49:32+00:00,597052754,0,1,Manu31415,Category:Software modeling language,Category creation
+2014-02-25T10:48:45+00:00,597052706,596809606,1,Manu31415,Specification and Description Language,Introducing Software modeling language category
+2014-02-25T10:30:07+00:00,597051337,589324682,1,Manu31415,MetaCASE tool,Introducing Software modeling tools category
+2014-02-25T10:24:24+00:00,597050903,594478624,1,Manu31415,MATLAB,Introducing Software modeling tools category
+2014-02-25T10:23:01+00:00,597050786,593799233,1,Manu31415,Esterel Technologies,Introducing Software modeling tools category
+2014-02-25T10:21:54+00:00,597050696,0,1,Manu31415,Category:Software for modeling software,Category creation
+2014-02-25T10:19:41+00:00,597050524,547870958,1,Manu31415,Category:UML tools,Introducing Software modeling tools category
+2014-02-24T15:24:50+00:00,596923740,596189656,1,Manu31415,TTCN-3,/* External links */ Made a link to Real Time Developer Studio wikipedia page.
+2014-02-23T19:12:56+00:00,596809606,593262654,1,Manu31415,Specification and Description Language,/* SDL tools */ Made a link to Real Time Developer Studio wikipedia page.
+2014-02-23T10:44:04+00:00,596756958,596710546,1,Manu31415,Wikipedia:Articles for deletion/Real Time Developer Studio,~~~~Explanations on who wrote the article and why.
+2014-02-23T00:47:12+00:00,596707276,596707073,1,Manu31415,List of Unified Modeling Language tools,Undid revision 596508371 by [[Special:Contributions/Walter Görlitz|Walter Görlitz]] ([[User talk:Walter Görlitz|talk]]) RTDS put back in because a page has been created since then.
+2014-02-23T00:45:25+00:00,596707073,596514226,1,Manu31415,List of Unified Modeling Language tools,Undid revision 596514226 by [[Special:Contributions/Walter Görlitz|Walter Görlitz]] ([[User talk:Walter Görlitz|talk]]) Because RTDS entry has been created since then.
+2014-02-22T18:50:46+00:00,596665653,0,1,Manu31415,PragmaDev Studio,Real Time Developer Studio article creation
+2014-02-21T16:33:16+00:00,596509135,596508371,1,Manu31415,List of Unified Modeling Language tools,/* Features */ RTDS entry added.
+2014-02-21T16:11:59+00:00,596506401,595346327,1,Manu31415,List of Unified Modeling Language tools,/* General */ PragmaDev RTDS tool entry added.
+2014-02-19T15:02:16+00:00,596189656,542923073,1,Manu31415,TTCN-3,/* External links */ Link to PragmaDev tool.
+2014-01-31T11:25:53+00:00,593262654,593262025,1,Manu31415,Specification and Description Language,/* Overview */ Introduced C data types in SDL-2010.
+2014-01-31T11:17:19+00:00,593262025,593256080,1,Manu31415,Specification and Description Language,Related technologies section added.
+2014-01-31T09:57:33+00:00,593256080,593256014,1,Manu31415,Specification and Description Language,/* External links */ List of tools has been moved to the Tools section and removed from the External link section.
+2014-01-31T09:56:50+00:00,593256014,578370672,1,Manu31415,Specification and Description Language,/* SDL tools */ List of tools has been moved to the Tools section and removed from the External link section.
+2014-01-31T09:48:57+00:00,593255357,593254999,1,Manu31415,Message sequence chart,/* See also */ A link to PSC has been added.
+2014-01-31T09:44:18+00:00,593254999,586330116,1,Manu31415,Message sequence chart,/* See also */ SDL added to languages related to MSC.
+2013-08-09T16:08:18+00:00,567834966,547681400,1,Manu31415,Message sequence chart,Purpose has been re-written with the ITU-T official scope.
+2013-08-09T15:25:26+00:00,567829804,0,1,Manu31415,Langage de description et de spécification,Redirection de Langage de Description et de Spécification vers Specification and Description Language
+2013-08-09T15:15:18+00:00,567828614,567715956,1,Manu31415,Unified Modeling Language,/* See also */ Z.109 standard UML profile added.
+2013-08-09T15:07:20+00:00,567827677,567827005,1,Manu31415,Domain-specific language,Specification and Description Language added to the list of domain specific languages
+2013-08-09T15:01:30+00:00,567827005,560064780,1,Manu31415,Domain-specific language,/* See also */ Specification and Description Language added to the list of domain specific languages
+2013-08-09T14:59:03+00:00,567826671,567826173,1,Manu31415,Model-driven engineering,/* External links */ Why modelling is the most advanced in telecommunication article added.
+2013-08-09T14:55:28+00:00,567826173,566295205,1,Manu31415,Model-driven engineering,/* Tools */ PragmaDev Real Time Developer Studio and ESA TASTE added to the list of tools.
+2013-03-29T16:55:11+00:00,547646743,540062441,1,Manu31415,Message sequence chart,I have removed the UML Sequence Chart picture that actually does not exist. And I have listed the usual misunderstanding between UML Sequence Diagram and ITU-T MSC.
+2013-02-18T16:32:54+00:00,538895341,527717695,1,Manu31415,Telelogic,Added SDL support to Tau tool
+2012-04-27T14:41:31+00:00,489477061,489040588,1,Manu31415,List of Unified Modeling Language tools,Added RTDS to the list
+2012-03-28T09:54:47+00:00,484334386,484290035,1,Manu31415,Wikipedia:Articles for deletion/PragmaDev RTDS,
+2012-03-27T21:00:30+00:00,484244541,484201607,1,Manu31415,Wikipedia:Articles for deletion/PragmaDev RTDS,/* PragmaDev RTDS */ Argue for this page not to be deleted.
+2012-03-27T15:52:15+00:00,484196421,483531369,1,Manu31415,List of Unified Modeling Language tools,/* Other UML tools */ PragmaDev RTDS has been added to the list.
+2011-09-01T17:30:03+00:00,447888089,447888004,1,Manu31415,Event-driven finite-state machine,I removed the issue box because I rewrote most of the article.
+2011-09-01T17:29:26+00:00,447888004,429292568,1,Manu31415,Event-driven finite-state machine,I completely rewrote the example that was a non-sense. There was actually no events in the example...
+2011-09-01T17:06:37+00:00,447884670,447884315,1,Manu31415,Finite-state machine,I removed the issue box because I rewrote most of the article.
+2011-09-01T17:03:58+00:00,447884315,446008623,1,Manu31415,Finite-state machine,I rewrote parts of it that were mixing up different notions. Hope the result makes sense...
+2011-09-01T14:40:37+00:00,447864083,446101448,1,Manu31415,Digital electronics,I removed the link to the [[finite state machine]] page because the concept of signal state in this page has nothing to do with the concept of state in the [[finite state machine]] page.
+2011-09-01T14:07:57+00:00,447859683,0,1,Manu31415,User:Manu31415,New user page through [[:outreach:Account Creation Improvement Project|Outreach:ACIP]]
+2020-05-18T08:27:07+00:00,957326609,957234730,1,Mihal_Brumbulli,Comparison of Business Process Model and Notation modeling tools,/* General */ Added link reference for PragmaDev Process.
+2020-05-12T08:44:19+00:00,956243967,956149236,1,Mihal_Brumbulli,Wikipedia:Articles for deletion/PragmaDev Process,
+2018-03-21T13:30:38+00:00,831621099,831600427,1,Mihal_Brumbulli,PragmaDev Studio,Added reference to Security section of Application domains. Clean-up of Further reading.
+2018-03-21T09:23:17+00:00,831586816,831233849,1,Mihal_Brumbulli,PragmaDev Studio,/* Deployment simulation*/ Added references to research where this feature is based on.
+2018-03-19T10:38:40+00:00,831205738,831200712,1,Mihal_Brumbulli,PragmaDev Studio,/* Features */ Added CPS simulation feature.
+2018-03-19T10:13:23+00:00,831202656,826651783,1,Mihal_Brumbulli,Functional Mock-up Interface,/* Tools support */
+2018-03-19T09:53:00+00:00,831200712,831199919,1,Mihal_Brumbulli,PragmaDev Studio,Added link to wikipedia article.
+2018-03-19T09:44:17+00:00,831199919,830944992,1,Mihal_Brumbulli,PragmaDev Studio,Updated supported operating systems. Added link to another wikipedia article.
+2018-03-17T21:20:44+00:00,830944992,830710538,1,Mihal_Brumbulli,PragmaDev Studio,"Added some references, links to wikipedia pages, and further readings. Corrected minor spelling errors."
+2011-12-22T22:13:40+00:00,467251959,464470958,0,Jpatokal,ASN.1,"move generic explanation lower down, doesn't belong in the lead"
+2020-07-19T13:31:29+00:00,968449997,968225067,0,Jonathanwilbur1993,ASN.1,Add more rows to the Encodings table
+2011-11-17T11:17:58+00:00,461094724,461094591,0,Raanoo,ASN.1,Removed {Technical} note
+2015-11-16T11:17:28+00:00,690899280,690500529,0,189.77.226.1,Architecture Analysis & Design Language,/* Related Projects */
+2020-06-21T02:39:25+00:00,963664771,961903286,0,BHGbot,ASN.1,"[[WP:BHGbot 6]] ([[User:BHGbot/6/List 5|List 5]]): eponymous category first, per [[MOS:CATORDER]]; fixed sort key; [[WP:GENFIXES]]"
+2014-01-09T16:44:53+00:00,589942150,589888723,0,ASN1-Updates,ASN.1,/* External links */  link correction
+2011-09-20T21:59:03+00:00,451574750,431023359,0,89.163.21.214,ASN.1,minor changes in URL
+2017-06-23T21:41:14+00:00,787173321,786427744,0,Klbrain,ASN.1,/* Encodings */ Bold merge from [[Packed Encoding Rules]] following unopposed 2014 merge proposal; incoming is a subset of the target and benefits from its context
+2015-10-19T12:20:16+00:00,686488587,672552700,0,Miroslav T,ASN.1,/* Standards */ - 2008 specs were superseded by 2015 specs
+2016-08-12T11:21:18+00:00,734136872,734136346,0,Alexey Voronov,ASN.1,Add OCaml ASN.1 tool
+2015-09-15T14:23:38+00:00,681156263,628672576,0,AvicBot,Category:UML tools,Bot: Fixing commonscat per [[:Category:Commons category template with no category set]]. ([[User talk:Avicennasis|Report error]])
+2014-10-07T16:45:11+00:00,628672526,0,0,Cydebot,Category:Software for modeling software,"Robot: Moved from Category:Software modeling tools. Authors: JMP EAX, Manu31415, BrownHairedGirl"
+2019-10-25T10:25:16+00:00,922950024,862388867,0,Spinningspark,Category:Software modeling language,not a specific model
+2014-07-23T05:45:15+00:00,618081949,613333147,0,80.245.147.81,ASN.1,/* ASN.1 in transfer */
+2014-03-23T15:45:33+00:00,600888580,597052754,0,BrownHairedGirl,Category:Software modeling language,[[Category:Scientific modeling]] [[Category:Specific models|Modelling languages]] [[Category:Specification languages]]
+2013-06-25T17:56:35+00:00,561550556,556401455,0,77.40.2.120,ASN.1,/* External links */
+2011-06-05T11:41:47+00:00,432665693,379553735,0,Danim,Category:Unified Modeling Language,+portal
+2018-10-04T00:30:38+00:00,862378144,701120656,0,Anetman,Category:Unified Modeling Language,
+2019-03-09T02:26:28+00:00,886872296,886865239,0,MrOllie,Comparison of Business Process Model and Notation modeling tools,Reverted 1 edit by [[Special:Contributions/2600:8806:A300:81D0:DC68:33AB:F2BF:28FD|2600:8806:A300:81D0:DC68:33AB:F2BF:28FD]] ([[User talk:2600:8806:A300:81D0:DC68:33AB:F2BF:28FD|talk]]): Rm external link ([[WP:TW|TW]])
+2014-09-28T18:14:29+00:00,627442187,627441882,0,75.88.95.164,Domain-specific language,/* Game Maker Language */
+2016-05-30T14:37:57+00:00,722855023,717542409,0,165.225.72.55,Comparison of Business Process Model and Notation modeling tools,/* General */
+2012-10-13T23:44:26+00:00,517649539,517647522,0,Bhanks,Comparison of Business Process Model and Notation modeling tools,Undid revision 517647522 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]]) can we talk about this? I don't know why you are deleting relevant content without comment.
+2013-10-21T21:10:36+00:00,578168250,519397243,0,95.91.240.250,Event-driven finite-state machine,"Marked as stub because of badly written, very few information and hard to understand because the example requieres knowledge of C-language"
+2018-09-27T13:56:18+00:00,861445685,861208669,0,Feeler-serge,Digital electronics,
+2012-10-23T14:45:36+00:00,519397243,447922504,0,Teuxe,Event-driven finite-state machine,/* Example in C */ Updated the source code so that it may eventually be compiled without syntax error.
+2016-02-06T09:21:26+00:00,703576744,703576667,0,Attilios,Esterel Technologies,/* History */ wikified
+2015-04-17T21:44:51+00:00,656957038,653521401,0,Julesd,Digital electronics,
+2016-03-02T16:42:25+00:00,707927151,703576744,0,213.30.139.86,Esterel Technologies,/* Products */
+2016-05-27T10:00:19+00:00,722320726,720871911,0,Comp.arch,Domain-specific language,"/* Overview */ Maybe target should have been, always, on languages, see my edit there.. The page could potentially be moved to ""Tiny (programming language)"", a one language."
+2012-07-23T18:51:49+00:00,503812763,499738957,0,Phil Boswell,Domain-specific language,/* External links */convert dodgy URL to ID using [[Project:AWB|AWB]]
+2016-01-27T01:01:15+00:00,701862176,701816457,0,Eminclake,Comparison of Business Process Model and Notation modeling tools,/* General */ Added citations for Bizagi latest versions
+2016-11-30T07:06:03+00:00,752243958,752243782,0,113.90.182.8,Finite-state machine,/* Example: coin-operated turnstile */
+2019-10-06T12:38:25+00:00,919888257,916440562,0,Banelyxxx,Domain-specific language,/* Examples */
+2018-05-07T00:08:20+00:00,839984069,839980917,0,GliderMaven,Finite-state machine,rv: unreferenced content
+2017-04-11T13:46:36+00:00,774915048,774914112,0,Past,Functional Mock-up Interface,List ordering
+2014-02-12T17:20:57+00:00,595166074,594023531,0,Jochen Burghardt,Finite-state machine,"unified ""word""-->""string"""
+2018-10-14T17:12:18+00:00,864029629,862473931,0,2001:240:2407:8229:ACD4:4A1B:90C9:84E0,List of Unified Modeling Language tools,
+2013-08-09T13:15:11+00:00,567815809,566599146,0,PanderMusubi,List of Unified Modeling Language tools,
+2015-02-03T23:13:33+00:00,645520554,645520146,0,206.15.75.194,List of Unified Modeling Language tools,/* Features */
+2015-10-22T09:56:35+00:00,686942969,685316884,0,Qwertyus,Finite-state machine,- 5 categories; +[[Category:Finite automata]] using [[WP:HC|HotCat]]
+2017-09-30T00:21:55+00:00,803026680,802178396,0,FastBlader,LabVIEW,"Moved LabVIEW 2017 release date to May, 2017 and mentioned the new LabVIEW NXG 1.0."
+2013-12-20T17:28:26+00:00,586979333,586120409,0,Mogism,List of Unified Modeling Language tools,"/* Features */Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ,,  → ,  (2), etc → etc. using [[Project:AWB|AWB]]"
+2019-05-22T14:24:53+00:00,898270812,898270317,0,62.153.150.211,LabVIEW,Also updated text with new 2019 release version
+2015-06-19T07:16:02+00:00,667595461,667352939,0,NaitSirch,List of Unified Modeling Language tools,Updated last release date of Software Ideas Modeler
+2019-11-20T14:19:50+00:00,927126051,927013631,0,Certes,List of Unified Modeling Language tools,Remove advertising from title
+2013-09-11T12:59:19+00:00,572481029,572480904,0,Mc laudt,List of Unified Modeling Language tools,/* Features */
+2017-05-04T12:00:59+00:00,778645111,775063056,0,Kku,List of Unified Modeling Language tools,link [[JQuery]] using [[:en:User:Edward/Find link|Find link]]
+2019-07-02T13:50:55+00:00,904483323,903676717,0,Jarble,List of Unified Modeling Language tools,linking
+2017-07-13T10:47:27+00:00,790377656,790377605,0,85.248.18.122,List of Unified Modeling Language tools,/* Features */
+2013-07-22T08:55:13+00:00,565304494,565304167,0,217.118.104.5,List of Unified Modeling Language tools,/* Features */ Software Ideas Modeler - Details
+2011-09-06T00:58:15+00:00,448673877,447862424,0,Bomazi,List of Unified Modeling Language tools,Unlinked: [[Lumpy]] using [[tools:~dispenser/view/Dab_solver|Dab solver]]
+2012-12-07T18:11:36+00:00,526898872,526896858,0,MrOllie,List of Unified Modeling Language tools,Reverted 1 edit by [[Special:Contributions/Bhanks|Bhanks]] ([[User talk:Bhanks|talk]]): Rv linkspam by lucidchart SPA. ([[WP:TW|TW]])
+2019-08-24T10:33:54+00:00,912264549,911888423,0,BrownHairedGirl,List of Unified Modeling Language tools,remove links to deleted [[Portal:Software]]
+2017-03-13T15:25:00+00:00,770122499,765957687,0,130.190.39.69,Lustre (programming language),
+2016-08-17T16:27:23+00:00,734932884,734932533,0,David Gerard,List of Unified Modeling Language tools,rm redlink
+2020-02-05T17:14:29+00:00,939305506,937493321,0,Signix,List of Unified Modeling Language tools,Update Umbrello to last version
+2012-10-28T07:08:25+00:00,520229341,520035743,0,Sea-monsters,MATLAB,/* Release history */
+2020-03-22T09:45:00+00:00,946774341,939305506,0,2A01:CB04:FA:4500:C42F:8B8:6186:1F78,List of Unified Modeling Language tools,
+2016-07-25T14:14:44+00:00,731459531,731052693,0,Walter Görlitz,List of Unified Modeling Language tools,not a notable product. Add back if the article lasts
+2019-06-17T13:59:51+00:00,902236753,886340915,0,193.56.37.9,Lustre (programming language),
+2011-10-20T07:19:24+00:00,456479618,456432064,0,217.118.104.5,List of Unified Modeling Language tools,/* General */
+2016-06-03T15:25:05+00:00,723526771,712005191,0,Dcirovic,Message sequence chart,clean up using [[Project:AWB|AWB]]
+2012-12-20T20:51:50+00:00,529010805,528941326,0,Synthebot,Message sequence chart,r2.7.3) (Robot: Adding [[sv:Message sequence chart]]
+2015-12-11T07:28:17+00:00,694745097,694505456,0,103.24.173.62,MATLAB,/* Vectors and matrices */
+2019-01-16T07:27:58+00:00,878672007,877453160,0,Softzen,Message sequence chart,/* Comparison to UML */ Sequence Diagram wikified
+2013-02-02T05:41:34+00:00,536143075,536062474,0,InverseHypercube,MATLAB,/* History */ rm hyphen
+2017-09-04T21:24:34+00:00,798967144,782192192,0,KolbertBot,Message sequence chart,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2013-02-24T12:51:16+00:00,540062441,529010805,0,Addbot,Message sequence chart,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1923934]] ([[User talk:Addbot|Report Errors]])"
+2012-03-21T06:18:03+00:00,483051539,483051340,0,Tony1,Message sequence chart,fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]; c-e
+2019-11-01T17:41:18+00:00,924080151,924075964,0,Amroamroamro,MATLAB,add refs to file extensions
+2013-03-29T20:27:12+00:00,547681400,547646743,0,Jerome Charles Potts,Message sequence chart,"Link ""interaction diagram"" in intro"
+2015-04-02T01:52:46+00:00,654576450,654576323,0,Journeyonmyway,Message sequence chart,/* Tools */
+2014-04-07T11:52:24+00:00,603139562,597053481,0,109.0.35.198,Message sequence chart,add hyperlink to the tool PlantUML
+2019-10-04T02:00:10+00:00,919499781,878672007,0,Monkbot,Message sequence chart,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (2×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2014-06-28T14:55:29+00:00,614764929,606856770,0,109.190.149.32,Model-driven engineering,/* Tools */
+2016-03-07T06:02:22+00:00,708723122,708660779,0,BG19bot,Model-driven engineering,/* Tools */[[WP:CHECKWIKI]] error fix.  Syntax fixes.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11939)
+2013-10-30T15:40:03+00:00,579482111,579420344,0,Fluffernutter,Message sequence chart,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/202.54.134.178|202.54.134.178]] ([[User talk:202.54.134.178|talk]]) to last version by 216.208.29.140
+2015-01-16T21:52:04+00:00,642826294,642826144,0,81.11.204.187,MetaCASE tool,/* metaCASE tools */ typo
+2016-08-19T14:08:05+00:00,735250098,697346764,0,Dewritech,MetaCASE tool,"clean up, [[WP:AWB/T|typo(s) fixed]]: Nevertheless → Nevertheless,, However  → However, using [[Project:AWB|AWB]]"
+2015-07-19T12:49:04+00:00,672125264,654576450,0,Pol098,Message sequence chart,/* Live Sequence Charts */ wording
+2017-10-23T05:29:53+00:00,806627588,806590526,0,D98rolb,Model-driven engineering,/* Tools */
+2018-01-26T13:06:29+00:00,822451493,798967144,0,InternetArchiveBot,Message sequence chart,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.2)
+2011-10-27T10:50:52+00:00,457637024,438914920,0,141.76.75.50,Message sequence chart,
+2015-06-10T11:48:00+00:00,666325136,657191226,0,Jtroset,Model-driven engineering,Added Genus Application Framework
+2012-06-12T17:42:13+00:00,497254992,488783170,0,Iancarpenterv,Message sequence chart,Added a free tool link that converts pcap files to msc charts
+2019-11-19T23:41:50+00:00,927037928,925149312,0,2001:861:3AC0:4FA0:3CD6:1605:EBDA:2F02,Petri net,
+2017-06-28T03:37:52+00:00,787880950,752655913,0,Magic links bot,PragmaDev Studio,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2014-11-06T22:07:54+00:00,632750528,628672568,0,Mogism,PragmaDev Studio,"/* Further reading */Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ,  → , using [[Project:AWB|AWB]]"
+2016-04-30T00:46:37+00:00,717836406,717318635,0,167.62.108.101,Petri net,
+2019-11-30T12:31:40+00:00,928606008,921290244,0,Citation bot,PragmaDev Studio,Add: url. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Nemo bis]] | via #UCB_webform
+2020-05-19T20:54:29+00:00,957642470,957639070,0,AnomieBOT,PragmaDev Studio,Dating maintenance tags: {{COI}}
+2019-02-22T08:15:22+00:00,884537004,867877884,0,Citation bot,PragmaDev Studio,"Alter: url, template type, issue, others, title. Add: citeseerx, isbn, pages, year, author pars. 1-4. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]]."
+2016-05-18T23:33:52+00:00,720960273,715062943,0,BG19bot,PragmaDev Studio,Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2014-11-21T17:05:38+00:00,634852372,632750528,0,80.14.160.235,PragmaDev Studio,/* Further reading */ SAM 2014 paper added.
+2015-11-06T05:11:53+00:00,689296149,689209793,0,Walter Görlitz,PragmaDev Studio,per [[MOSNUM]]
+2014-10-07T16:45:32+00:00,628672568,618710484,0,Cydebot,PragmaDev Studio,Robot - Moving category Software modeling tools to [[:Category:Software for modeling software]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories_for_discussion/Log/2014_July_27]].
+2016-10-26T18:54:08+00:00,746329400,720960273,0,Bender235,PragmaDev Studio,/* Further reading */clean up; http&rarr;https for [[Google Books]] using [[Project:AWB|AWB]]
+2015-05-09T17:54:42+00:00,661582334,647370733,0,Mogism,PragmaDev Studio,"/* Further reading */Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ,  → , using [[Project:AWB|AWB]]"
+2018-04-23T18:06:01+00:00,837899373,837856127,0,Keith D,PragmaDev Studio,/* Code generation (compiler) */ Fix cite date error
+2016-04-13T14:02:46+00:00,715062943,715033818,0,Walter Görlitz,PragmaDev Studio,the article title should be bold.
+2013-03-22T03:54:42+00:00,546179223,544063518,0,Addbot,Requirements Interchange Format,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2145498]]"
+2020-07-29T16:06:49+00:00,970157384,970157081,0,Walter Görlitz,PragmaDev Studio,/* Application domains */ again
+2017-01-10T16:37:08+00:00,759342157,745111144,0,Jastram,Requirements Interchange Format,"Updated to Version 1.2, improvements"
+2018-12-04T04:46:45+00:00,871912668,862836631,0,GoingBatty,SIGNAL (programming language),"/* The Polychrony Toolsets */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: [[Open Source]] development → [[open-source software development|open-source development]]"
+2013-02-26T23:59:11+00:00,540782960,521045722,0,Addbot,Specification and Description Language,"[[User:Addbot|Bot:]] Migrating 8 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q600637]] ([[User talk:Addbot|Report Errors]])"
+2011-01-11T08:06:29+00:00,407237636,394765165,0,122.152.164.6,Specification and Description Language,/* SDL tools */  Its cinderella not cinderalla
+2019-01-28T14:50:20+00:00,880635262,818232640,0,Citation bot,Specification and Description Language,"Alter: title, template type. Add: hdl, chapter, isbn, year, series, doi, pages, volume. Removed accessdate with no specified URL. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]]."
+2015-06-21T07:14:57+00:00,667887605,635491108,0,AtagoKohun,Specification and Description Language,/* See also */  added Ivar Jacobson
+2012-06-21T16:54:52+00:00,498691154,493237489,0,RedBot,Specification and Description Language,r2.7.2) (Robot: Modifying [[ca:SDL]]
+2014-09-15T09:25:37+00:00,625638469,623142183,0,Un11imig,Specification and Description Language,
+2014-05-22T11:00:27+00:00,609654234,609652788,0,147.83.59.236,Specification and Description Language,/* SDL tools */
+2012-01-04T09:10:47+00:00,469479540,469479466,0,Aclassifier,Specification and Description Language,/* Overview */ ~~~~
+2012-11-02T12:54:53+00:00,521045722,521045623,0,192.93.164.28,Specification and Description Language,typo
+2019-03-26T15:43:44+00:00,889575411,880635262,0,Jarble,Specification and Description Language,linking
+2016-11-13T21:32:52+00:00,749344747,723901990,0,Jandalhandler,Specification and Description Language,/* Overview */
+2016-06-05T23:50:20+00:00,723901990,720529477,0,Dcirovic,Specification and Description Language,"refs, [[WP:AWB/T|typo(s) fixed]]: Java based → Java-based using [[Project:AWB|AWB]]"
+2012-04-30T14:03:16+00:00,489952407,473522933,0,80.14.160.235,Specification and Description Language,/* SDL tools */ Added that ObjectGeode is now out of the market.
+2015-05-11T09:27:01+00:00,661817257,568522251,0,Alexttcn,TTCN,direct link to PDF of TTCN-3 QRC
+2013-08-14T15:56:24+00:00,568522251,540927351,0,Mercy11,TTCN,/* Background information */ 5 year no citation given
+2013-03-08T23:09:14+00:00,542923073,533115795,0,Addbot,TTCN-3,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q491174]]"
+2018-12-09T05:22:47+00:00,872784174,862431193,0,KolbertBot,TTCN-3,[[User:KolbertBot#Tasks|Task #2]] : Remove link referral data
+2011-09-22T21:33:25+00:00,451918031,450944094,0,67.210.196.5,TTCN,fix list
+2014-04-10T20:05:32+00:00,603644120,596923740,0,Yobot,TTCN-3,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10077)
+2017-03-06T20:49:06+00:00,768972146,754755271,0,Jacob.hoffmanandrews,TTCN-3,Add ASN.1 category.
+2012-12-03T10:11:27+00:00,526150698,473153027,0,DVT123987,TTCN-3,/* External links */
+2016-05-26T06:51:29+00:00,722140540,721698855,0,Ushkin N,TTCN-3,
+2019-08-14T12:14:10+00:00,910782694,872784174,0,Alexttcn,TTCN-3,correction of reference 1
+2017-12-07T01:26:17+00:00,814129988,797651601,0,Cedar101,TTCN-3,"/* Example code */ lang=""mscgen"""
+2015-05-11T15:24:29+00:00,661853756,661817315,0,Danhash,TTCN-3,"Reverting several edits by [[User talk:91.213.118.66|91.213.118.66]] which introduce ""NOT"" in the lead"
+2018-04-06T15:32:01+00:00,835100683,715033549,0,Serial Number 54129,Talk:PragmaDev Studio,Old AFD – 16 March 2018: no consensus ([[WP:XFDC|XFDcloser]])
+2019-12-10T20:39:03+00:00,930189042,907793413,0,Uzume,Telelogic,/* Acquisitions */ sortable
+2018-01-26T21:51:20+00:00,822526090,819289806,0,204.246.246.254,Unified Modeling Language,
+2019-12-18T00:33:38+00:00,931272358,929911039,0,InternetArchiveBot,Unified Modeling Language,Bluelinking 1 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3
+2011-09-21T14:30:20+00:00,451680681,450088556,0,Ihcoyc,Telelogic,"NPOV, rem. needless adjectives"
+2014-04-08T06:42:07+00:00,603266975,603230031,0,Walter Görlitz,Talk:PragmaDev Studio,/* New reference */ Reply
+2020-04-03T00:03:21+00:00,948779035,943565174,0,Citation bot,Unified Modeling Language,Alter: isbn. Add: year. Removed URL that duplicated unique identifier. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by Zppix | [[Category:Knowledge representation‎]] | via #UCB_Category
+2018-03-16T07:34:15+00:00,830670757,618694206,0,Velella,User talk:Manu31415,Notification: listing at [[WP:AFD|articles for deletion]] of [[PragmaDev Studio]]. using [[WP:TW|TW]]
+2018-07-21T17:05:40+00:00,851343973,851170265,0,68.33.71.49,Unified Modeling Language,"/* Cardinality notation */ Fixed ""et. alia"" to ""et al."" (""et"" is a full word, not an abbreviation; ""al."" is the abbreviation of ""alia"")"
+2012-03-28T22:46:36+00:00,484450545,484201605,0,Roscelese,User talk:Manu31415,Notification: speedy deletion nomination of [[PragmaDev RTDS]]. ([[WP:TW|TW]])
+2014-07-27T17:01:23+00:00,618694206,602028998,0,JMP EAX,User talk:Manu31415,Notification: listing at [[WP:CFD|categories for discussion]] of [[Category:Software modeling tools]]. ([[WP:TW|TW]])
+2012-03-29T10:49:43+00:00,484520531,484457720,0,Pepper,Wikipedia:Articles for deletion/PragmaDev RTDS,"close as ""Speedy deleted"""
+2018-04-06T15:32:00+00:00,835100679,833295163,0,Serial Number 54129,Wikipedia:Articles for deletion/PragmaDev Studio,/* PragmaDev Studio */ Closed as no consensus ([[WP:XFDC|XFDcloser]])
+2014-11-01T22:49:09+00:00,632068946,601994408,0,SporkBot,Wikipedia:Articles for deletion/Real Time Developer Studio,Replace template per [[Wikipedia:Templates for discussion/Log/2014 October 11|TFD outcome]]; no change in content
+2014-03-30T19:01:01+00:00,601994408,601990063,0,Legobot,Wikipedia:Articles for deletion/Real Time Developer Studio,Removing Category:Relisted AfD debates
+2014-03-15T19:08:40+00:00,599757471,599757120,0,Unscintillating,Wikipedia:Articles for deletion/Real Time Developer Studio,/* Real Time Developer Studio */ typo
+2014-10-07T16:41:15+00:00,628671960,628671315,0,Fayenatic london,Wikipedia:Categories for discussion/Log/2014 July 27,"/* Category:Software modeling tools */ revise close to [[:Category:Software for modeling software]], I did not mean to change the spelling"
+2018-12-04T15:04:11+00:00,871977648,628671960,0,BsherrAWBBOT,Wikipedia:Categories for discussion/Log/2014 July 27,"(AWB auto fixes plus) orphaning per [[Wikipedia:Templates for discussion/Log/2018 November 23#Template:Lc1]], replaced: [[:Category:Fictional puppet designers]] - {{lc1| → {{Lc| (4)"
+2012-09-21T21:00:11+00:00,513927944,511719760,0,Rich Farmbrough,ASN.1,Copyedit.
+2015-07-22T09:01:49+00:00,672552700,670333468,0,84.241.57.162,ASN.1,/* Fixed typo */
+2012-04-05T16:41:57+00:00,485742197,477463226,0,Shannondalemann,ASN.1,Latest version of ASN.1 and associated standards is 2008.
+2013-01-28T21:34:11+00:00,535406990,535385822,0,12.198.241.130,ASN.1,/* Example encoded in DER */
+2013-09-25T14:31:21+00:00,574466970,561550556,0,98.28.166.53,ASN.1,/* Example encoded in DER */
+2019-08-06T16:44:24+00:00,909633487,906808616,0,90.156.100.241,ASN.1,Fixed a typo
+2018-06-07T17:09:34+00:00,844858680,842797355,0,Poppenhe,ASN.1,/* Applications */
+2020-05-03T07:20:07+00:00,954586689,951921545,0,107.77.231.36,ASN.1,/* Language support */
+2012-11-27T11:46:10+00:00,525120953,523878074,0,199.64.72.252,ASN.1,/* Standards */ - latest revisions of standards
+2016-11-17T02:07:26+00:00,749956958,748831650,0,GreenC bot,ASN.1,1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])
+2017-04-18T05:56:30+00:00,775975162,772902719,0,YuviPanda,ASN.1,/* Comparison to similar schemes */
+2017-03-23T08:20:45+00:00,771747129,770228553,0,Paulethorpe,ASN.1,Added OER - Octet Encoding Rules
+2019-10-04T22:21:40+00:00,919651925,915966987,0,MwGamera,ASN.1,refspace
+2012-02-18T01:26:38+00:00,477463226,475575037,0,FrescoBot,ASN.1,Bot: [[User:FrescoBot/Links|link syntax/spacing]]
+2016-03-10T13:31:31+00:00,709358580,708337975,0,91.186.65.139,ASN.1,Missing word in sentence structure
+2019-03-22T22:41:19+00:00,889025377,889024207,0,Siddharthist,Architecture Analysis & Design Language,Add a needed citation about code generation
+2016-01-22T16:35:46+00:00,701120656,701116776,0,Horcrux,Category:Unified Modeling Language,removed [[Category:Data modeling]]; added [[Category:Data modeling languages]] using [[WP:HC|HotCat]]
+2015-02-05T08:36:15+00:00,645722784,641895921,0,Sebbu~enwiki,ASN.1,/* Standards */ adding latest ASN.1 encoding rules
+2015-08-24T12:01:53+00:00,677611843,675425834,0,83.144.124.74,Comparison of Business Process Model and Notation modeling tools,updated year of last release
+2013-05-20T23:42:17+00:00,556023597,552604652,0,72.193.53.62,Comparison of Business Process Model and Notation modeling tools,
+2017-06-12T01:41:47+00:00,785170818,749556500,0,67.171.26.94,Architecture Analysis & Design Language,
+2016-11-28T15:23:08+00:00,751924777,747816888,0,Kgordos,Comparison of Business Process Model and Notation modeling tools,/* General */
+2012-02-02T17:33:07+00:00,474609754,474609468,0,Desphi,Comparison of Business Process Model and Notation modeling tools,
+2014-11-28T18:55:17+00:00,635798640,635797475,0,Widr,Digital electronics,Reverted 1 edit by [[Special:Contributions/213.55.111.150|213.55.111.150]]  using [[WP:STiki|STiki]]
+2017-03-13T03:06:07+00:00,770043904,769270861,0,KANGOD,Domain-specific language,/* Other examples */ add an example for DSL
+2019-02-15T22:39:02+00:00,883525985,882320091,0,Prof dr finkelstein,Domain-specific language,"typo ""readltime"" -> ""realtime"""
+2017-03-06T06:13:05+00:00,768863368,768863347,0,Wmdly,Digital electronics,/* top */
+2016-11-30T16:27:33+00:00,752318450,749307141,0,188.172.150.114,Digital electronics,interwiki links
+2014-04-07T15:17:40+00:00,603162096,601005813,0,JS Hoyer,Domain-specific language,"/* Statistical modelling languages */ Active voice, link to Stan"
+2015-11-09T23:00:26+00:00,689874432,682646873,0,105.112.22.86,Domain-specific language,Fixed typo
+2014-12-21T23:12:06+00:00,639102964,636195091,0,152.83.194.137,Domain-specific language,"/* Advantages and disadvantages */ no rationale for self-documenting, if anything, DSL's tend to obfuscate instead of document, reducing maintability also"
+2013-12-09T12:43:40+00:00,585269176,585266380,0,Materialscientist,Digital electronics,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/111.93.24.54|111.93.24.54]] using [[WP:STiki|STiki]]
+2014-07-06T14:21:53+00:00,615823103,615823070,0,TLSuda,Esterel Technologies,move image
+2013-04-13T22:52:21+00:00,550224365,544292877,0,Squids and Chips,Esterel Technologies,[[:en:WP:CLEANER|WPCleaner]] v1.27 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[EDA]]
+2018-04-19T12:32:31+00:00,837213496,837213427,0,96.248.68.199,Esterel Technologies,/* History */
+2018-02-27T11:59:09+00:00,827901987,827901940,0,Shellwood,Domain-specific language,Reverted edits by [[Special:Contributions/149.62.201.135|149.62.201.135]] ([[User talk:149.62.201.135|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2012-03-22T03:42:56+00:00,483305891,483001258,0,174.253.116.180,Finite-state machine,Corrected redirect for the band of the same name
+2017-07-20T16:36:11+00:00,791491345,788242496,0,129.132.4.87,Finite-state machine,/* Hardware applications */ The circuit is a *medvedev* machine iff the output is *directly* connected to the state as the text states - with the resulting minimization in delay. The *moore* automaton can include logic between state and output.
+2011-05-15T21:08:02+00:00,429292568,417734862,0,Frap,Event-driven finite-state machine,
+2018-10-09T09:25:43+00:00,863198415,861603183,0,Kri,Finite-state machine,Substituted [[Category:Behavior selection algorithms]] for [[Category:Behavior models]]
+2016-11-02T14:30:04+00:00,747461322,747460207,0,Pintoch,Finite-state machine,"fix broken links to nist.gov/dads and switch to HTTPS (sorry, forgot one occurrence)"
+2015-07-05T15:39:18+00:00,670063314,667592816,0,115.188.151.48,Finite-state machine,/* Example: a turnstile */
+2014-03-09T18:33:01+00:00,598868020,598867953,0,86.26.7.115,Finite-state machine,/* Accept (or final) states{{anchor |Accept state or final state}} */
+2018-05-22T08:46:47+00:00,842414253,842410475,0,Richard Stephens,Functional Mock-up Interface,/* Tools support */ Consolidated entries for Simulink and added native support.
+2012-04-12T19:31:43+00:00,487055387,485641962,0,Snood1,LabVIEW,grammar
+2019-09-05T19:33:44+00:00,914197007,914192482,0,Materialscientist,LabVIEW,Reverted 1 edit by [[Special:Contributions/184.70.124.202|184.70.124.202]] identified as test/vandalism using [[WP:STiki|STiki]]
+2016-03-09T09:37:42+00:00,709134531,708672949,0,86.128.145.186,LabVIEW,/* External links */ link with additional tutorial style information
+2019-01-21T13:23:27+00:00,879471857,873315148,0,MaximeValdemarin,LabVIEW,Update of the last version of LabVIEW NXG.
+2011-11-20T01:08:29+00:00,461516582,460968472,0,151.75.45.193,Finite-state machine,/* Representations */ + link to [[State diagram]]
+2015-09-02T14:43:05+00:00,679114119,677978096,0,Nick Number,List of Unified Modeling Language tools,repaired link(s) to disambiguation pages ([[WP:DPL|you can help]]) - SDL
+2011-02-27T10:01:13+00:00,416181405,415695471,0,84.168.180.35,List of Unified Modeling Language tools,
+2014-04-25T13:16:14+00:00,605745636,604644092,0,Paulwells,List of Unified Modeling Language tools,/* General */
+2018-04-20T18:28:41+00:00,837420614,837381624,0,79.249.21.168,List of Unified Modeling Language tools,Add C++ as supported Language to Visual Paradigm. Source: https://www.visual-paradigm.com/features/code-engineering-tools/
+2017-02-22T04:32:21+00:00,766788345,765954441,0,Xiaoyuxee,List of Unified Modeling Language tools,Change the latest stable release version of starUML
+2019-12-28T11:36:10+00:00,932821816,927126051,0,77.182.150.253,List of Unified Modeling Language tools,Updated latest Modelio version
+2012-06-25T08:00:58+00:00,499250108,499164188,0,Ftiercel,List of Unified Modeling Language tools,Organization.
+2019-08-14T07:24:48+00:00,910757562,909970969,0,165.225.77.143,List of Unified Modeling Language tools,update BOUML last release date
+2012-05-22T20:50:32+00:00,493881777,490785280,0,Auremel,List of Unified Modeling Language tools,/* Other UML tools */
+2011-12-22T08:34:34+00:00,467157765,467089793,0,Ftiercel,List of Unified Modeling Language tools,[[Poseidon for UML]]
+2012-03-08T00:02:42+00:00,480752243,480617643,0,Lmerwin,List of Unified Modeling Language tools,/* Other UML tools */ extended tool description
+2017-10-16T00:38:59+00:00,805532173,805531845,0,Lee Ho Ma,List of Unified Modeling Language tools,/* Features */
+2016-01-20T09:12:55+00:00,700738413,700543013,0,84.132.214.173,List of Unified Modeling Language tools,/* General */
+2018-01-06T09:44:51+00:00,818913959,817449171,0,Bartlomiej c,List of Unified Modeling Language tools,Removed ER diagram editors from UML editors.
+2012-11-09T23:43:28+00:00,522254132,520601949,0,KConWiki,List of Unified Modeling Language tools,/* External links */
+2015-03-21T23:01:10+00:00,652939326,652939215,0,24.45.1.27,List of Unified Modeling Language tools,Should have updated the other gliffy date at the same time...
+2019-08-08T20:33:23+00:00,909970969,909970518,0,Anajand,List of Unified Modeling Language tools,
+2016-04-25T14:48:12+00:00,717065457,716551969,0,Wxblcl,List of Unified Modeling Language tools,/* General */
+2020-01-25T10:55:51+00:00,937493321,937098792,0,Marcus scipio,List of Unified Modeling Language tools,/* General */
+2012-08-07T14:24:54+00:00,506235510,501532704,0,109.195.86.68,List of Unified Modeling Language tools,/* General */
+2016-02-03T08:57:31+00:00,703070071,703069841,0,Billlion,MATLAB,Undid revision 703069841 by [[Special:Contributions/210.212.170.66|210.212.170.66]] ([[User talk:210.212.170.66|talk]]) Formatting problem with code
+2018-01-31T13:55:40+00:00,823309815,822257463,0,8.21.84.126,MATLAB,/* Functions */Removed repetition of same sentence
+2013-06-22T03:14:47+00:00,561011313,560492387,0,Bubba73,MATLAB,fix isbn and typo
+2017-05-27T17:57:42+00:00,782557670,780354852,0,Talagan,MATLAB,updated stat
+2014-05-29T07:45:42+00:00,610606666,610606581,0,122.161.49.175,MATLAB,/* Release history */
+2013-08-20T02:20:05+00:00,569315350,568999658,0,165.132.56.150,MATLAB,/* Release history */
+2010-12-14T22:59:15+00:00,402418989,384276159,0,Alvin Seville,Message sequence chart,"removing and categorizing, removing spaces"
+2017-06-24T03:08:10+00:00,787213004,754935907,0,PrimeBOT,MetaCASE tool,Replace [[Help:Magic_links|magic links]] with templates per [[Special:PermaLink/772743896#Future_of_magic_links|local RfC]] - [[User:PrimeBOT/13|BRFA]]
+2011-05-14T00:52:17+00:00,429010070,374534357,0,CanisRufus,MetaCASE tool,Bot-assisted dab: UML - Changed link(s) to [[Unified Modeling Language]]
+2017-10-10T01:05:58+00:00,804597978,804597956,0,I dream of horses,Model-driven engineering,Reverted edits by [[Special:Contributions/I_am_business562|I_am_business562]] ([[User talk:I_am_business562|talk]]) ([[WP:HG|HG]]) (3.3.0)
+2012-08-03T10:24:20+00:00,505557755,505557568,0,194.29.65.21,Model-driven engineering,/* Tools */
+2017-06-24T15:19:59+00:00,787289397,783947220,0,PrimeBOT,Model-driven engineering,Replace [[Help:Magic_links|magic links]] with templates per [[Special:PermaLink/772743896#Future_of_magic_links|local RfC]] - [[User:PrimeBOT/13|BRFA]]
+2020-04-12T23:40:47+00:00,950606655,949425065,0,OAbot,Model-driven engineering,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2017-08-04T12:54:33+00:00,793868786,793868302,0,5vijay5,Model-driven engineering,
+2012-12-14T11:57:11+00:00,528001292,527992420,0,138.48.72.69,Model-driven engineering,/* Tools */
+2011-04-13T13:53:30+00:00,423857575,423857515,0,Rp,Petri net,/* Boundedness */
+2013-11-12T14:30:26+00:00,581336217,578600067,0,Sxc731,Model-driven engineering,Added EMF link
+2014-05-14T15:45:09+00:00,608558983,608558550,0,Lotje,Petri net,Filling in 3 references using [[WP:REFLINKS|Reflinks]]
+2018-04-18T05:37:53+00:00,837013115,831631049,0,FTSharp,Petri net,/* Petri net basics */
+2016-05-13T15:09:48+00:00,720072236,717836406,0,96.45.197.254,Petri net,"/* Petri net basics */ ""execution policy"" is unexplained, needs an example"
+2015-07-15T12:44:20+00:00,671553112,671552522,0,JnRouvignac,Requirements Interchange Format,/* Structure of ReqIF files */
+2016-03-08T11:38:03+00:00,708956695,698742698,0,Hroptatyr,SIGNAL (programming language),Delete non-sense introduced with Revision as of 2015-01-06T13:50:37 by Faizhaider
+2012-06-01T12:36:55+00:00,495449949,484360498,0,Fram,Requirements Interchange Format,Correct HPBot error
+2011-12-28T11:25:34+00:00,468066446,468066383,0,193.49.212.107,SIGNAL (programming language),
+2012-05-18T19:23:02+00:00,493237489,489952407,0,EleferenBot,Specification and Description Language,r2.7.3) (Robot: Adding [[ru:Specification and Description Language]]
+2018-07-12T07:20:59+00:00,849910061,849909900,0,143.89.189.115,TTCN,
+2012-01-25T13:23:55+00:00,473153027,436205619,0,Ripchip Bot,TTCN-3,r2.7.1) (Robot: Adding [[zh:TTCN-3]]
+2014-05-22T08:11:18+00:00,609640469,603644120,0,Bgwhite,TTCN-3,[[WP:CHECKWIKI]] error fix #97. No content between TOC and first headline per [[WP:TOC]] and [[WP:LEAD]]. This is an accessibility issue for users of screen readers.  Do general fixes and cleanup if needed. - using [[Project:AWB|AWB]]
+2010-12-02T16:24:11+00:00,400145484,388663651,0,R'n'B,TTCN-3,Fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[SIP]]
+2011-06-25T20:15:56+00:00,436205619,400145484,0,Escarbot,TTCN-3,"r2.7.2) (robot Removing: fr, ja, sv, zh"
+2018-10-04T09:49:50+00:00,862431193,814129988,0,Xeracon,TTCN-3,"Link to ""strongly typed"""
+2014-03-20T15:43:15+00:00,600462942,600462907,0,Dragos.cojocari,Telelogic,/* Former Products */
+2018-02-23T01:00:34+00:00,827144345,692423262,0,Tom.Reding,Telelogic,"Fix [[:Category:Pages using deprecated image syntax]]; [[WP:GenFixes]] on, using [[Project:AWB|AWB]]"
+2017-02-27T10:10:42+00:00,767684355,767684350,0,ClueBot NG,Unified Modeling Language,"Reverting possible vandalism by [[Special:Contribs/210.212.253.72|210.212.253.72]] to older version. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2950981) (Bot)"
+2019-08-25T09:06:34+00:00,912398283,912316196,0,188.230.187.149,Unified Modeling Language,
+2016-11-15T18:20:09+00:00,749691610,749361845,0,GreenC bot,Unified Modeling Language,1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])
+2013-03-28T17:22:26+00:00,547474779,547474638,0,Lwoodyiii,Unified Modeling Language,/* Overview */
+2014-08-19T12:26:27+00:00,621907235,621895433,0,MadScientistX11,Unified Modeling Language,Undid unconstructive revision 621895433 by [[Special:Contributions/112.121.55.5|112.121.55.5]] ([[User talk:112.121.55.5|talk]])

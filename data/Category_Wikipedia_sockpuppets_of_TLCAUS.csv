@@ -1,0 +1,19 @@
+timestamp,revid,parentid,sock,user,page,message
+2024-01-12T23:56:52+00:00,1195243702,1195243438,1,TLCAUS,TLC (Australian TV channel),
+2024-01-12T23:54:38+00:00,1195243438,1173997937,1,TLCAUS,TLC (Australian TV channel),
+2024-01-12T23:10:21+00:00,1195237761,1195237607,1,TLCAUS,TLC (TV network),
+2024-01-12T23:09:10+00:00,1195237607,1190862519,1,TLCAUS,TLC (TV network),
+2024-01-15T15:46:33+00:00,1195844293,1195275111,1,AATLC,TLC (Australian TV channel),
+2024-01-15T15:45:53+00:00,1195844188,1195273696,1,AATLC,TLC (TV network),
+2024-01-15T16:19:17+00:00,1195849228,1195848883,1,AOEAUS,Animal Planet,
+2024-01-15T16:17:21+00:00,1195848883,1192619947,1,AOEAUS,Animal Planet,
+2024-01-17T16:57:30+00:00,1196479623,1196240551,1,Viorer,TLC (Australian TV channel),
+2024-01-17T16:56:49+00:00,1196479429,1196239582,1,Viorer,TLC (TV network),
+2024-01-16T20:36:23+00:00,1196212557,1195849228,0,CursedWithTheAbilityToDoTheMath,Animal Planet,v2.05b - WPcleaner - Fix errors for [[WP:WCW|CW project]] (Heading hierarchy)
+2023-12-30T11:08:47+00:00,1192619947,1187413279,0,Neils51,Animal Planet,/* Programming */ add template
+2024-01-13T04:12:40+00:00,1195275111,1195273583,0,TechGeek105,TLC (Australian TV channel),"I have modified a ref about Discovery: Travel and Living rebranding to TLC from David Knox's [[TV Tonight]], by adjusting the first and last name params to his name, set the work and publisher params to TV Tonight, modifying the URL and modified the access-date parameter."
+2024-01-16T22:19:13+00:00,1196239582,1195844188,0,TechGeek105,TLC (TV network),"Reverted 1 edit by [[Special:Contributions/AATLC|AATLC]] ([[User talk:AATLC|talk]]): Your edits seem promotional, per your AATLC username."
+2024-01-16T22:22:56+00:00,1196240551,1195844293,0,TechGeek105,TLC (Australian TV channel),"Reverted 1 edit by [[Special:Contributions/AATLC|AATLC]] ([[User talk:AATLC|talk]]): Your edits seem promotional, per your AATLC username."
+2024-01-13T03:58:27+00:00,1195273696,1195237761,0,TechGeek105,TLC (TV network),"Reverted 2 edits by [[Special:Contributions/TLCAUS|TLCAUS]] ([[User talk:TLCAUS|talk]]): Your edits seem promotional, per your TLCAUS username."
+2023-09-05T17:30:25+00:00,1173997937,1143511979,0,137.186.18.117,TLC (Australian TV channel),Added in.
+2023-12-20T07:39:25+00:00,1190862519,1190682026,0,1AmNobody24,TLC (TV network),"NOTE: The edit dated 06:05, 19 December 2023, copied content from the Wikipedia page at [[BBC Two]]; see its history for attribution. ([[WP:RIA]])"

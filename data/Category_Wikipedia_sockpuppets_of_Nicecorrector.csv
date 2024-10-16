@@ -1,0 +1,81 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-04-18T13:27:36+00:00,1018514070,1014166627,1,Nicecorrector,Rolls-Royce Cullinan,
+2021-04-18T13:23:52+00:00,1018513595,1018513464,1,Nicecorrector,Audi Q7,
+2021-04-18T13:22:42+00:00,1018513464,1016863282,1,Nicecorrector,Audi Q7,
+2021-04-18T14:05:36+00:00,1018518858,1006109284,1,Correctorbaby,Mercedes-Benz EQB,
+2021-04-18T14:03:48+00:00,1018518648,1016989129,1,Correctorbaby,Mercedes-Benz GLB,
+2021-05-09T12:57:02+00:00,1022254686,1022254645,1,Donotchangeedits,Mercedes-AMG GT 4-Door Coupé,
+2021-05-09T12:56:42+00:00,1022254645,1017043460,1,Donotchangeedits,Mercedes-AMG GT 4-Door Coupé,
+2021-05-09T12:53:51+00:00,1022254356,1022254302,1,Donotchangeedits,BMW 8 Series (G15),
+2021-05-09T12:53:17+00:00,1022254302,1022254238,1,Donotchangeedits,BMW 8 Series (G15),
+2021-05-09T12:52:46+00:00,1022254238,1022254126,1,Donotchangeedits,BMW 8 Series (G15),
+2021-05-09T12:51:53+00:00,1022254126,1022200517,1,Donotchangeedits,BMW 8 Series (G15),
+2021-05-09T12:46:34+00:00,1022253497,1022252855,1,Donotchangeedits,Tesla Model S,classification errors
+2021-05-09T12:40:55+00:00,1022252855,1021882332,1,Donotchangeedits,Tesla Model S,"Class described as full-size, though dimensions are much closer to rivals described as executive cars."
+2021-05-09T12:35:48+00:00,1022252323,1021532242,1,Donotchangeedits,Mercedes-Benz EQB,
+2021-05-09T12:34:38+00:00,1022252204,1019864839,1,Donotchangeedits,Mercedes-Benz GLB,
+2021-05-09T12:27:22+00:00,1022251457,1020161928,1,Donotchangeedits,Kia Telluride,
+2021-05-09T12:26:14+00:00,1022251340,1018845417,1,Donotchangeedits,Hyundai Palisade,
+2021-04-21T10:01:22+00:00,1019064560,1008985978,1,Donotchangepleaseanon,Range Rover Velar,
+2021-04-21T09:54:00+00:00,1019063663,1018656938,1,Donotchangepleaseanon,Tesla Model S,
+2021-04-21T09:51:01+00:00,1019063330,1018986925,1,Donotchangepleaseanon,Audi Q7,
+2021-04-25T09:01:11+00:00,1019769310,1019323451,1,Editingthisiswar,Audi Q7,
+2021-05-04T09:06:14+00:00,1021361019,1021360744,1,Hondahaterpak,Honda Atlas Cars,
+2021-05-04T09:03:37+00:00,1021360744,1016500419,1,Hondahaterpak,Honda Atlas Cars,
+2021-04-19T05:04:29+00:00,1018651852,1018624355,1,Icanfixitwiki,Mercedes-Benz EQB,
+2021-04-22T15:51:37+00:00,1019303373,1015226025,1,Kim_Arnolds,Range Rover,"Full size, not midsize. May be smaller than other full sized SUVs, but it larger than the Land cruiser prado which is also a full sized, though it is similar in size to the discovery and defender, which are both midsized. The LWB however is definately full sized."
+2021-04-22T15:47:32+00:00,1019302691,1019280568,1,Kim_Arnolds,Range Rover Velar,
+2021-04-22T15:43:48+00:00,1019302171,1019301984,1,Kim_Arnolds,Tesla Model S,
+2021-04-22T15:42:21+00:00,1019301984,1019274167,1,Kim_Arnolds,Tesla Model S,"The dimensions similar to other executive cars show that this is not a full-sized vehicle. Much like the Taycan and e-tron GT, this is an E segment car."
+2021-04-22T15:39:42+00:00,1019301557,1019280704,1,Kim_Arnolds,Audi Q7,
+2021-05-04T09:17:54+00:00,1021362257,1021361389,1,Mohammad_Bilal_Rehman,Honda Atlas Cars,
+2021-05-04T09:09:36+00:00,1021361389,1021361019,1,Mohammad_Bilal_Rehman,Honda Atlas Cars,
+2021-04-22T10:44:03+00:00,1019262182,1019262087,1,Theonlycoreectcar,Range Rover Velar,
+2021-04-22T10:43:17+00:00,1019262087,1019261971,1,Theonlycoreectcar,Range Rover Velar,
+2021-04-22T10:42:26+00:00,1019261971,1019229750,1,Theonlycoreectcar,Range Rover Velar,
+2021-04-22T09:54:55+00:00,1019256482,1018514070,1,Theonlycoreectcar,Rolls-Royce Cullinan,
+2021-04-22T09:52:55+00:00,1019256253,1019063719,1,Theonlycoreectcar,Tesla Model S,
+2021-04-22T09:50:02+00:00,1019255933,1019186145,1,Theonlycoreectcar,Audi Q7,"Q7 is a mid size SUV, not Full size. Audi's upcoming Q9 SUV has been spotted. That is full-size, not this one. Q7 rivals the GLE and X5. Q9 will rival the GLS and X7."
+2021-03-22T05:27:42+00:00,1013543439,1013521561,0,Andra Febrian,BMW 8 Series (G15),
+2021-04-26T13:00:37+00:00,1019971097,1019769310,0,73.2.129.126,Audi Q7,"FOR THE LAST TIME, STOP REVERTING EDITS FROM PEOPLE WHO KNOW A LOT ABOUT CARS"
+2021-05-05T01:18:02+00:00,1021496108,1021479780,0,2008 Dodge Ram,Audi Q7,
+2021-04-22T18:01:53+00:00,1019323451,1019301557,0,73.2.129.126,Audi Q7,Looks like you don't care that other editors on here disagree with the classification. Many sources say it's full-size.
+2021-05-08T23:55:43+00:00,1022181091,1022181056,0,182.239.87.169,BMW 8 Series (G15),
+2021-04-19T05:16:04+00:00,1018653363,1018513595,0,47.210.87.36,Audi Q7,
+2021-04-07T14:21:46+00:00,1016500419,1015061429,0,Billinghurst,Honda Atlas Cars,rm link spam
+2021-04-20T06:08:41+00:00,1018845417,1018833045,0,Alawadhi3000,Hyundai Palisade,Undid revision 1018833045 by [[Special:Contributions/Dibyam Das|Dibyam Das]] ([[User talk:Dibyam Das|talk]]) No relation
+2021-05-04T13:08:56+00:00,1021389480,1021362257,0,DFW FAA Brianvators,Honda Atlas Cars,Reverted 2 edits by [[Special:Contributions/Mohammad Bilal Rehman|Mohammad Bilal Rehman]] ([[User talk:Mohammad Bilal Rehman|talk]]) to last revision by Hondahaterpak
+2021-04-27T14:54:02+00:00,1020161928,1020161717,0,Fyrael,Kia Telluride,Filled in 2 bare reference(s) with reFill 2
+2021-04-10T13:32:09+00:00,1017043460,1017043075,0,Coronation street07,Mercedes-AMG GT 4-Door Coupé,Mercedes-Benz also sells an exclusive model of the gt 4 door in China as the GT 50 which is available in other countries outside of China as the GT 43 and is the same car but with 43 replaced by the number 50
+2021-04-20T12:37:25+00:00,1018886835,1018886747,0,Fon4o2,Mercedes-Benz EQB,
+2021-04-19T23:56:46+00:00,1018805592,1018805294,0,2001:FB1:10:C4A8:452B:852E:C0A4:EB8D,Mercedes-Benz EQB,
+2021-04-25T14:48:29+00:00,1019806383,1019252936,0,Jengtingchen,Mercedes-Benz EQB,
+2021-05-05T06:43:02+00:00,1021532242,1020594573,0,Fon4o2,Mercedes-Benz EQB,
+2021-04-28T08:53:57+00:00,1020292636,1020285573,0,103.152.53.254,Mercedes-Benz EQB,
+2021-04-20T07:24:52+00:00,1018852420,1018852223,0,182.29.3.197,Mercedes-Benz GLB,
+2021-04-25T21:10:38+00:00,1019864839,1018852420,0,Baris Kayadelen,Mercedes-Benz GLB,/* Transmissions */ GLB 200 4MATIC added
+2021-04-29T23:22:42+00:00,1020594573,1020594542,0,Airbus A350-100BOI,Mercedes-Benz EQB,/* Overview */
+2021-04-22T18:04:27+00:00,1019323904,1019302691,0,73.2.129.126,Range Rover Velar,Stop edit warring and stop making different accounts every two hours. It will count as sockpuppeting.
+2021-04-23T09:58:25+00:00,1019437492,1019437337,0,HumanBodyPiloter5,Range Rover,it's a car
+2021-04-30T21:38:57+00:00,1020760445,1019437492,0,86.129.146.77,Range Rover,rm verbiage
+2021-05-06T11:38:01+00:00,1021735851,1021721372,0,Colanao Khod,Range Rover Velar,/* External links */
+2021-04-23T14:31:09+00:00,1019470372,1019256482,0,FlyingOko,Rolls-Royce Cullinan,/* Suspension */  Replacing comparative preposition 'whilst' with temporal preposition 'while'
+2021-05-06T03:50:06+00:00,1021688762,1019470372,0,FrescoBot,Rolls-Royce Cullinan,Bot: [[User:FrescoBot/Links|link syntax]]
+2021-04-29T06:13:27+00:00,1020459767,1019778339,0,Cewbot,Tesla Model S,[[User:Cewbot/log/20201008/configuration|Fix broken anchor]]: [[Special:Diff/890869669|2019-04-04T02:25:30Z]] #CEE 7 standards→[[AC power plugs and sockets#CEE 7 standard]]
+2021-04-25T10:39:09+00:00,1019778339,1019322834,0,Maxeto0910,Tesla Model S,Per WP:HOWTOSD
+2021-04-11T05:52:41+00:00,1017162325,1017162191,0,Ndsm,Tesla Model S,
+2021-05-07T06:02:21+00:00,1021882332,1021872417,0,Andra Febrian,Tesla Model S,Undid revision 1021872417 by [[Special:Contributions/Generallee1979|Generallee1979]] ([[User talk:Generallee1979|talk]])
+2021-04-22T17:57:43+00:00,1019322834,1019302357,0,73.2.129.126,Tesla Model S,Executive car is also considered full-size. And stop coming on with different accounts. It will count as sockpuppeting.
+2021-04-21T09:54:26+00:00,1019063719,1019063663,0,ClueBot NG,Tesla Model S,"Reverting possible vandalism by [[Special:Contribs/Donotchangepleaseanon|Donotchangepleaseanon]] to version by 182.29.3.197. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3952274) (Bot)"
+2021-03-20T04:00:20+00:00,1013123009,1013118662,0,Toasted Meter,Audi Q7,/* {{Anchor|Mk1|4L}}First generation (Typ 4L: 2005–2015) */
+2021-03-25T06:42:45+00:00,1014109041,1007643164,0,115.186.189.181,Honda Atlas Cars,Irrelevant for lead section and dead sources.
+2021-02-11T02:53:49+00:00,1006109284,1006109221,0,Fixer88,Mercedes-Benz EQB,typo
+2021-04-09T05:57:17+00:00,1016809171,1016800008,0,AnomieBOT,Kia Telluride,"Fixing reference errors and rescuing orphaned refs (""paultan"" from rev 1016798416)"
+2021-03-09T23:25:14+00:00,1011268965,1010101674,0,50.46.195.205,Kia Telluride,
+2021-03-31T08:36:57+00:00,1015226025,1015225892,0,DeFacto,Range Rover,/* top */ irrelevant and out of context
+2021-05-06T09:19:29+00:00,1021720980,1021720559,0,182.30.85.0,Range Rover,
+2021-02-26T02:57:39+00:00,1008985978,1002058896,0,Vauxford,Range Rover Velar,Add
+2021-03-25T15:20:01+00:00,1014166627,1014165711,0,Johannes Maximilian,Rolls-Royce Cullinan,/* Mansory Coastline */CE
+2021-03-28T04:20:51+00:00,1014619475,1014619021,0,Horseradix,Tesla Model S,/* Instrument panel */ Grammatical fixes
+2021-03-21T07:07:05+00:00,1013367768,1012929642,0,Paper9oll,Tesla Model S,Clean up using [[WP:AWB|AWB]]
+2021-04-03T13:59:05+00:00,1015775651,1014619475,0,2A00:801:740:A734:41D2:2881:F342:9486,Tesla Model S,/* History */Fixed typo

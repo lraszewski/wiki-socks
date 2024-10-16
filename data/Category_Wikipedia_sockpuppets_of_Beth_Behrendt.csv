@@ -1,0 +1,531 @@
+timestamp,revid,parentid,sock,user,page,message
+2023-09-20T02:44:25+00:00,1176191784,1176188446,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-20T02:41:37+00:00,1176191539,1176191499,1,Beth_Behrendt,Mufasa: The Lion King,
+2023-09-20T02:41:15+00:00,1176191499,1176170868,1,Beth_Behrendt,Mufasa: The Lion King,
+2023-09-20T02:37:52+00:00,1176191144,1176183952,1,Beth_Behrendt,The Little Mermaid (2023 film),
+2023-09-20T02:33:36+00:00,1176190708,1176186059,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-20T02:27:49+00:00,1176190116,1176185951,1,Beth_Behrendt,The Lion King,
+2023-09-20T02:18:24+00:00,1176189214,1176185840,1,Beth_Behrendt,Lady and the Tramp (2019 film),
+2023-09-20T02:17:19+00:00,1176189112,1176185846,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-20T02:16:16+00:00,1176189009,1176188807,1,Beth_Behrendt,Dumbo (2019 film),
+2023-09-20T02:14:14+00:00,1176188807,1176185852,1,Beth_Behrendt,Dumbo (2019 film),
+2023-09-20T02:10:39+00:00,1176188446,1176185858,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-20T01:48:06+00:00,1176185994,1176185912,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-20T01:47:14+00:00,1176185912,1176165816,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-20T01:39:30+00:00,1176185123,1176165937,1,Beth_Behrendt,Lady and the Tramp (2019 film),
+2023-09-20T01:38:10+00:00,1176184983,1176165780,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-20T01:37:50+00:00,1176184945,1176170882,1,Beth_Behrendt,Dumbo (2019 film),
+2023-09-20T01:37:32+00:00,1176184912,1176170809,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-20T00:54:08+00:00,1176180575,1176180481,1,Beth_Behrendt,The Lion King,
+2023-09-20T00:53:11+00:00,1176180481,1176179739,1,Beth_Behrendt,The Lion King,
+2023-09-20T00:46:08+00:00,1176179739,1176179626,1,Beth_Behrendt,The Lion King,
+2023-09-20T00:45:09+00:00,1176179626,1176179463,1,Beth_Behrendt,The Lion King,
+2023-09-20T00:43:43+00:00,1176179463,1176110218,1,Beth_Behrendt,The Lion King,
+2023-09-20T00:39:17+00:00,1176178993,1176178794,1,Beth_Behrendt,Dumbo,/* Plot */
+2023-09-20T00:37:22+00:00,1176178794,1176178248,1,Beth_Behrendt,Dumbo,/* Plot */
+2023-09-20T00:32:29+00:00,1176178248,1176178122,1,Beth_Behrendt,Dumbo,
+2023-09-20T00:31:23+00:00,1176178122,1175618176,1,Beth_Behrendt,Dumbo,
+2023-09-19T22:37:35+00:00,1176167038,1176152734,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-19T22:33:43+00:00,1176166661,1176165966,1,Beth_Behrendt,The Jungle Book (1994 film),
+2023-09-19T22:32:43+00:00,1176166566,1168240525,1,Beth_Behrendt,The Jungle Book 2,
+2023-09-19T22:28:26+00:00,1176166151,1176021791,1,Beth_Behrendt,The Jungle Book (1967 film),
+2023-09-19T22:26:24+00:00,1176165966,1176082303,1,Beth_Behrendt,The Jungle Book (1994 film),
+2023-09-19T22:23:15+00:00,1176165672,1176164092,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-19T22:08:34+00:00,1176164302,1176163667,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-19T22:06:02+00:00,1176164038,1176150824,1,Beth_Behrendt,Lady and the Tramp (2019 film),
+2023-09-19T22:02:42+00:00,1176163667,1176163447,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-19T22:00:37+00:00,1176163447,1176121252,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-19T21:54:17+00:00,1176162723,1176029721,1,Beth_Behrendt,Mulan (2020 film),
+2023-09-19T21:54:14+00:00,1176162720,1176073136,1,Beth_Behrendt,The Little Mermaid (2023 film),
+2023-09-19T21:54:14+00:00,1176162717,1176120998,1,Beth_Behrendt,Mufasa: The Lion King,
+2023-09-19T21:54:10+00:00,1176162712,1176029433,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-19T21:54:03+00:00,1176162699,1176150939,1,Beth_Behrendt,Dumbo (2019 film),
+2023-09-19T21:34:39+00:00,1176160519,1176148520,1,Beth_Behrendt,List of Disney live-action adaptations and remakes of Disney animated films,/* Other projects */
+2023-09-19T21:29:46+00:00,1176159980,1176159681,1,Beth_Behrendt,Snow White (2025 film),
+2023-09-19T21:27:22+00:00,1176159681,1176159044,1,Beth_Behrendt,Snow White (2025 film),
+2023-09-19T21:22:37+00:00,1176159044,1175896679,1,Beth_Behrendt,Snow White (2025 film),
+2023-09-19T20:30:37+00:00,1176152734,1176150876,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-19T20:18:15+00:00,1176150824,1176121549,1,Beth_Behrendt,Lady and the Tramp (2019 film),
+2023-09-19T20:16:09+00:00,1176150580,1176121589,1,Beth_Behrendt,Dumbo (2019 film),
+2023-09-19T20:12:52+00:00,1176150182,1176109209,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-19T19:59:01+00:00,1176148520,1176102780,1,Beth_Behrendt,List of Disney live-action adaptations and remakes of Disney animated films,
+2023-09-19T00:28:05+00:00,1176027769,1176025663,1,Beth_Behrendt,Mufasa: The Lion King,
+2023-09-19T00:21:04+00:00,1176026920,1176005965,1,Beth_Behrendt,The Lion King (franchise),
+2023-09-19T00:12:37+00:00,1176026059,1174442239,1,Beth_Behrendt,Mulan (2020 film),
+2023-09-19T00:08:39+00:00,1176025608,1176022187,1,Beth_Behrendt,Mufasa: The Lion King,
+2023-09-19T00:08:26+00:00,1176025588,1176021467,1,Beth_Behrendt,The Little Mermaid (2023 film),
+2023-09-19T00:08:14+00:00,1176025570,1176021460,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-19T00:08:03+00:00,1176025554,1176021524,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-18T23:40:57+00:00,1176022828,1175876983,1,Beth_Behrendt,The Lion King,
+2023-09-18T23:33:04+00:00,1176022080,1175853387,1,Beth_Behrendt,Mufasa: The Lion King,
+2023-09-18T23:15:21+00:00,1176020411,1175884638,1,Beth_Behrendt,The Little Mermaid (2023 film),
+2023-09-18T23:15:11+00:00,1176020391,1173003474,1,Beth_Behrendt,The Little Mermaid (1989 film),
+2023-09-18T23:02:53+00:00,1176019252,1173454269,1,Beth_Behrendt,The Jungle Book (1994 film),
+2023-09-18T23:01:14+00:00,1176019099,1176018933,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-18T22:59:33+00:00,1176018933,1176018753,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-18T22:58:48+00:00,1176018850,1175441112,1,Beth_Behrendt,The Jungle Book (1967 film),
+2023-09-18T22:57:41+00:00,1176018753,1175564578,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-18T22:52:23+00:00,1176018236,1176010859,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-18T22:52:20+00:00,1176018228,1176011849,1,Beth_Behrendt,Beauty and the Beast (2017 film),
+2023-09-18T22:52:12+00:00,1176018221,1176012010,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-18T22:31:11+00:00,1176016050,1176015826,1,Beth_Behrendt,List of films with live action and animation,/* 2000s */
+2023-09-18T22:28:53+00:00,1176015826,1176015668,1,Beth_Behrendt,List of films with live action and animation,/* 2000s */
+2023-09-18T22:26:55+00:00,1176015668,1176015476,1,Beth_Behrendt,List of films with live action and animation,/* 2000s */
+2023-09-18T22:25:04+00:00,1176015476,1176013694,1,Beth_Behrendt,List of films with live action and animation,/* 2000s */
+2023-09-18T22:23:52+00:00,1176015359,1176015072,1,Beth_Behrendt,The Wild Thornberrys Movie,
+2023-09-18T22:21:03+00:00,1176015072,1175142415,1,Beth_Behrendt,The Wild Thornberrys Movie,/* Voice cast */
+2023-09-18T22:14:04+00:00,1176014386,1176014057,1,Beth_Behrendt,Father and Daughter,
+2023-09-18T22:10:39+00:00,1176014057,1176014012,1,Beth_Behrendt,Father and Daughter,
+2023-09-18T22:10:11+00:00,1176014012,1122516191,1,Beth_Behrendt,Father and Daughter,
+2023-09-18T22:06:48+00:00,1176013694,1175297222,1,Beth_Behrendt,List of films with live action and animation,/* 2000s */
+2023-09-18T21:54:04+00:00,1176012314,1170193666,1,Beth_Behrendt,Lady and the Tramp (2019 film),
+2023-09-18T21:51:42+00:00,1176012037,1173148053,1,Beth_Behrendt,Dumbo (2019 film),
+2023-09-18T21:48:12+00:00,1176011664,1176010971,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-18T21:40:03+00:00,1176010819,1175902166,1,Beth_Behrendt,Aladdin (2019 film),
+2023-09-18T21:36:14+00:00,1176010383,1175730445,1,Beth_Behrendt,Beauty and the Beast (2017 film),
+2023-09-18T21:31:29+00:00,1176009853,1176009493,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-18T21:28:06+00:00,1176009493,1176009017,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-18T21:23:47+00:00,1176009017,1176008665,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-18T21:20:35+00:00,1176008665,1175825890,1,Beth_Behrendt,The Lion King (2019 film),
+2023-09-18T21:13:08+00:00,1176007798,1174381537,1,Beth_Behrendt,List of Disney live-action adaptations and remakes of Disney animated films,
+2023-09-18T21:09:41+00:00,1176007372,1176006667,1,Beth_Behrendt,Gertie the Dinosaur,
+2023-09-18T21:03:23+00:00,1176006667,1168159937,1,Beth_Behrendt,Gertie the Dinosaur,
+2023-09-02T19:26:24+00:00,1173489621,1169545137,1,Beth_Behrendt,The Legend of Tarzan (TV series),
+2023-09-02T19:24:00+00:00,1173489310,1173489089,1,Beth_Behrendt,Tarzan & Jane,
+2023-09-02T19:22:12+00:00,1173489089,1171513648,1,Beth_Behrendt,Tarzan & Jane,
+2023-09-02T19:18:31+00:00,1173488634,1172986558,1,Beth_Behrendt,Tarzan (1999 film),
+2023-09-02T19:13:43+00:00,1173488051,1169793801,1,Beth_Behrendt,Tarzan's Treehouse,
+2023-09-02T19:05:51+00:00,1173487150,1144254965,1,Beth_Behrendt,The Night Before Christmas (1933 film),
+2023-09-02T19:01:14+00:00,1173486614,1168286727,1,Beth_Behrendt,Old King Cole (film),
+2023-09-02T19:00:29+00:00,1173486516,1173485907,1,Beth_Behrendt,Father Noah's Ark,
+2023-09-02T18:55:23+00:00,1173485907,1173485764,1,Beth_Behrendt,Father Noah's Ark,
+2023-09-02T18:54:13+00:00,1173485764,1149388856,1,Beth_Behrendt,Father Noah's Ark,
+2023-09-02T18:53:38+00:00,1173485690,1159522766,1,Beth_Behrendt,Mother Goose Melodies,
+2023-09-02T18:53:13+00:00,1173485651,1172915932,1,Beth_Behrendt,Puss in Boots (1922 film),
+2023-09-02T18:48:22+00:00,1173485124,1173009069,1,Beth_Behrendt,Little Red Riding Hood (1922 film),
+2023-09-02T18:44:23+00:00,1173484585,1173484186,1,Beth_Behrendt,The Little Mermaid (TV series),/* Premise */
+2023-09-02T18:41:33+00:00,1173484186,1172610850,1,Beth_Behrendt,The Little Mermaid (TV series),
+2023-09-02T18:38:45+00:00,1173483792,1172861165,1,Beth_Behrendt,Fantasyland,
+2023-09-02T18:36:59+00:00,1173483541,1173066738,1,Beth_Behrendt,Cinderella Castle,
+2023-09-02T17:49:08+00:00,1173477064,1173472333,1,Beth_Behrendt,The Lion King (franchise),/* Other media */
+2023-09-02T17:28:07+00:00,1173474333,1168038167,1,Beth_Behrendt,The Lion King 1½ (video game),
+2023-09-02T17:19:06+00:00,1173473188,1173468303,1,Beth_Behrendt,Jonathan Taylor Thomas,
+2023-09-02T17:14:34+00:00,1173472636,1167479535,1,Beth_Behrendt,The Lion King (video game),
+2023-09-02T17:11:58+00:00,1173472333,1172604858,1,Beth_Behrendt,The Lion King (franchise),
+2023-09-01T20:30:56+00:00,1173340262,1173340163,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-01T20:30:17+00:00,1173340163,1173339689,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-01T20:26:34+00:00,1173339689,1170593725,1,Beth_Behrendt,The Jungle Book (2016 film),
+2023-09-01T20:23:52+00:00,1173339393,1170552243,1,Beth_Behrendt,Dean DeBlois,
+2023-09-24T21:09:01+00:00,1176924986,1176774247,1,Cole_Behrendt,Alice in Wonderland (2010 film),
+2023-09-24T21:06:29+00:00,1176924606,1176924408,1,Cole_Behrendt,Beauty and the Beast (2017 film),
+2023-09-24T21:05:22+00:00,1176924408,1176793528,1,Cole_Behrendt,Beauty and the Beast (2017 film),
+2023-09-24T20:59:08+00:00,1176923421,1176120952,1,Cole_Behrendt,Lilo & Stitch (upcoming film),
+2023-09-24T20:52:53+00:00,1176922508,1176922230,1,Cole_Behrendt,Aladdin (2019 film),
+2023-09-24T20:51:17+00:00,1176922230,1176922103,1,Cole_Behrendt,Aladdin (2019 film),
+2023-09-24T20:50:38+00:00,1176922103,1176920857,1,Cole_Behrendt,Aladdin (2019 film),
+2023-09-24T20:41:37+00:00,1176920518,1175778490,1,Cole_Behrendt,Pinocchio (2022 live-action film),
+2023-09-24T20:41:23+00:00,1176920480,1176919959,1,Cole_Behrendt,Cinderella (2015 American film),
+2023-09-24T20:38:20+00:00,1176919959,1176729081,1,Cole_Behrendt,Cinderella (2015 American film),
+2023-09-24T20:35:30+00:00,1176919476,1176793748,1,Cole_Behrendt,Mufasa: The Lion King,
+2023-09-24T20:32:15+00:00,1176918924,1176918593,1,Cole_Behrendt,The Jungle Book (2016 film),
+2023-09-24T20:30:16+00:00,1176918593,1176706329,1,Cole_Behrendt,The Jungle Book (2016 film),
+2023-09-24T20:26:27+00:00,1176918004,1176917883,1,Cole_Behrendt,Dumbo (2019 film),
+2023-09-24T20:25:42+00:00,1176917883,1176917706,1,Cole_Behrendt,Dumbo (2019 film),
+2023-09-24T20:24:42+00:00,1176917706,1176706566,1,Cole_Behrendt,Dumbo (2019 film),
+2023-09-24T20:21:41+00:00,1176917241,1176811883,1,Cole_Behrendt,Aladdin (2019 film),
+2023-09-24T20:12:28+00:00,1176916088,1176915507,1,Cole_Behrendt,The Lion King,
+2023-09-24T20:08:15+00:00,1176915507,1176914177,1,Cole_Behrendt,The Lion King,
+2023-09-24T19:58:15+00:00,1176914177,1176759525,1,Cole_Behrendt,The Lion King,
+2023-09-24T19:55:54+00:00,1176913852,1175663584,1,Cole_Behrendt,Can You Feel the Love Tonight,
+2023-09-24T19:43:18+00:00,1176912170,0,1,Cole_Behrendt,User:Cole Behrendt/Sample page,Creating sandbox
+2024-02-10T23:27:50+00:00,1205992836,1205291213,1,Elizabethbehrendt3132,Lady and the Tramp II: Scamp's Adventure,
+2024-02-20T02:23:19+00:00,1209051688,1208956942,1,Elizabethbeyond21,The Little Mermaid (2023 film),
+2024-02-20T02:21:21+00:00,1209051357,1209051173,1,Elizabethbeyond21,The Lion King (2019 film),
+2024-02-20T02:20:15+00:00,1209051173,1209050347,1,Elizabethbeyond21,The Lion King (2019 film),
+2024-02-20T02:16:23+00:00,1209050453,1195670257,1,Elizabethbeyond21,The Lion King (musical),
+2024-02-20T02:13:39+00:00,1209050035,1209048796,1,Elizabethbeyond21,The Lion King (2019 film),
+2024-02-20T02:10:32+00:00,1209049605,1206696390,1,Elizabethbeyond21,Mulan (2020 film),
+2024-02-20T02:08:28+00:00,1209049242,1206775888,1,Elizabethbeyond21,Mufasa: The Lion King,
+2024-02-20T02:04:58+00:00,1209048660,1208547934,1,Elizabethbeyond21,The Lion King (2019 film),
+2024-02-20T02:00:47+00:00,1209047902,1207305474,1,Elizabethbeyond21,The Lion King,
+2024-02-20T01:58:28+00:00,1209047474,1188828803,1,Elizabethbeyond21,Lady and the Tramp (2019 film),
+2024-02-20T01:57:19+00:00,1209047233,1207784252,1,Elizabethbeyond21,Lady and the Tramp,
+2024-02-20T01:54:55+00:00,1209046844,1209046703,1,Elizabethbeyond21,The Jungle Book (2016 film),
+2024-02-20T01:53:57+00:00,1209046703,1208478236,1,Elizabethbeyond21,The Jungle Book (2016 film),
+2024-02-20T01:52:33+00:00,1209046482,1208506887,1,Elizabethbeyond21,The Jungle Book (1994 film),
+2024-02-20T01:50:35+00:00,1209046132,1206982859,1,Elizabethbeyond21,The Jungle Book (1967 film),
+2024-02-20T01:48:59+00:00,1209045908,1209045835,1,Elizabethbeyond21,Cinderella (2015 American film),
+2024-02-20T01:48:26+00:00,1209045835,1207798573,1,Elizabethbeyond21,Cinderella (2015 American film),
+2024-02-20T01:46:49+00:00,1209045568,1208784383,1,Elizabethbeyond21,Beauty and the Beast (2017 film),
+2024-02-20T01:42:17+00:00,1209044878,1208547324,1,Elizabethbeyond21,Aladdin (2019 film),
+2024-02-20T01:37:35+00:00,1209044196,1205557001,1,Elizabethbeyond21,Dumbo (2019 film),
+2024-02-11T20:17:41+00:00,1206309833,1204261439,1,Elizabethbeyond21,Disney Vault,
+2024-01-19T17:44:33+00:00,1197232901,1197231627,0,Barry Wom,Aladdin (2019 film),Reverted edit by [[Special:Contribs/77.65.96.34|77.65.96.34]] ([[User talk:77.65.96.34|talk]]) to last version by SnapSnap
+2023-09-02T13:53:46+00:00,1173448070,1171895331,0,Quilterdebbie,Aladdin (2019 film),/* Plot */
+2023-11-02T19:17:32+00:00,1183192439,1180967130,0,86.146.239.90,Aladdin (2019 film),/* Plot */
+2023-10-20T00:07:01+00:00,1180967130,1180937818,0,2603:8000:FE03:6A9F:15AB:7067:F7B3:6FE0,Aladdin (2019 film),/* Plot */
+2023-12-10T20:14:04+00:00,1189266028,1189262965,0,Geraldo Perez,Aladdin (2019 film),Reverted edit by [[Special:Contribs/12.190.236.42|12.190.236.42]] ([[User talk:12.190.236.42|talk]]) to last version by OpalYosutebito
+2023-12-23T19:19:53+00:00,1191469363,1191469220,0,Geraldo Perez,Aladdin (2019 film),Reverted 1 edit by [[Special:Contributions/2600:1017:B8B6:9CCC:60E5:5418:D198:48CD|2600:1017:B8B6:9CCC:60E5:5418:D198:48CD]] ([[User talk:2600:1017:B8B6:9CCC:60E5:5418:D198:48CD|talk]]): Unsourced change
+2023-11-19T07:53:44+00:00,1185832381,1185829770,0,RobertskySemi,Aladdin (2019 film),"/* External links */see [[Special:Permalink/1185829146#Requested move 11 November 2023]], replaced: {{Aladdin and the Magic Lamp}} → {{Aladdin}}"
+2024-01-05T02:45:05+00:00,1193685020,1193683651,0,WTillman149,Aladdin (2019 film),/* Plot */
+2023-12-19T23:35:33+00:00,1190804880,1190801339,0,Crboyer,Aladdin (2019 film),"incorrect, as he appears in person"
+2023-09-27T21:14:27+00:00,1177505858,1177407422,0,Sphere2014,Aladdin (2019 film),/* Box office */
+2024-01-15T04:46:43+00:00,1195774436,1195401363,0,SnapSnap,Aladdin (2019 film),Undid revision 1194537835 by [[Special:Contributions/2601:803:4380:E5B0:A936:6203:FE21:C677|2601:803:4380:E5B0:A936:6203:FE21:C677]] ([[User talk:2601:803:4380:E5B0:A936:6203:FE21:C677|talk]]) Redundant
+2023-12-17T06:57:34+00:00,1190319370,1190284855,0,Geraldo Perez,Aladdin (2019 film),Reverted edit by [[Special:Contribs/12.190.236.40|12.190.236.40]] ([[User talk:12.190.236.40|talk]]) to last version by My3littlecritters
+2023-09-24T22:26:21+00:00,1176936615,1176935448,0,WikiPediaAid,Aladdin (2019 film),Restored revision 1176920857 by [[Special:Contributions/LancedSoul|LancedSoul]] ([[User talk:LancedSoul|talk]]): Reverted disruptive edits.
+2024-01-23T18:59:31+00:00,1198295315,1197686622,0,JecoGS,Aladdin (2019 film),
+2024-02-05T02:09:52+00:00,1203522951,1203516760,0,Geraldo Perez,Aladdin (2019 film),Reverted edit by [[Special:Contribs/2600:4808:88D0:1F00:AD8C:D915:9D5F:838A|2600:4808:88D0:1F00:AD8C:D915:9D5F:838A]] ([[User talk:2600:4808:88D0:1F00:AD8C:D915:9D5F:838A|talk]]) to last version by MinorCJ620
+2023-12-22T06:20:35+00:00,1191219281,1191036237,0,Brimacki23,Aladdin (2019 film),Spelling
+2023-12-29T20:12:50+00:00,1192515924,1192514435,0,Geraldo Perez,Aladdin (2019 film),Reverted 1 edit by [[Special:Contributions/2600:1017:B049:FCDF:A9A8:D6D3:CE2B:D2D5|2600:1017:B049:FCDF:A9A8:D6D3:CE2B:D2D5]] ([[User talk:2600:1017:B049:FCDF:A9A8:D6D3:CE2B:D2D5|talk]]): More words to say basically the same thing
+2024-01-08T16:14:24+00:00,1194358181,1194342729,0,Geraldo Perez,Aladdin (2019 film),Reverted 1 edit by [[Special:Contributions/47.19.201.167|47.19.201.167]] ([[User talk:47.19.201.167|talk]]): No need to obscure the title
+2024-01-09T13:48:07+00:00,1194537835,1194358181,0,2601:803:4380:E5B0:A936:6203:FE21:C677,Aladdin (2019 film),/* External links */
+2023-10-17T14:25:34+00:00,1180574958,1180573517,0,Geraldo Perez,Aladdin (2019 film),Reverted edit by [[Special:Contribs/77.65.103.243|77.65.103.243]] ([[User talk:77.65.103.243|talk]]) to last version by Citation bot
+2024-02-10T19:17:48+00:00,1205916115,1204694143,0,Toughpigs,Beauty and the Beast (2017 film),/* Music */
+2023-11-17T00:54:41+00:00,1185480332,1185480315,0,GorillaWarfare,Beauty and the Beast (2017 film),Reverted edits by [[Special:Contributions/71.241.243.204|71.241.243.204]] ([[User talk:71.241.243.204|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2023-10-10T19:57:08+00:00,1179539040,1179538439,0,Hy Brasil,Alice in Wonderland (2010 film),Plot bloat Undid revision 1179538439 by [[Special:Contributions/90.126.157.205|90.126.157.205]] ([[User talk:90.126.157.205|talk]])
+2023-10-20T21:57:13+00:00,1181107335,1180411129,0,ImBlueDaBaDee,Alice in Wonderland (2010 film),/* top */There was a mistake in the plot; Dome parts were switched around.
+2023-12-21T05:14:47+00:00,1191033905,1190678161,0,Geraldo Perez,Beauty and the Beast (2017 film),Undid edits by [[Special:Contributions/My3littlecritters|My3littlecritters]] ([[User talk:My3littlecritters|talk]]) grammar errors
+2023-10-29T23:54:07+00:00,1182545287,1182545230,0,2001:E68:7E8A:F200:6D6A:3716:BAAD:7F4E,Beauty and the Beast (2017 film),
+2024-02-18T22:51:18+00:00,1208784383,1208776828,0,Geraldo Perez,Beauty and the Beast (2017 film),Reverted edit by [[Special:Contribs/2601:8C3:8587:5340:F872:C6E2:B1E1:A98B|2601:8C3:8587:5340:F872:C6E2:B1E1:A98B]] ([[User talk:2601:8C3:8587:5340:F872:C6E2:B1E1:A98B|talk]]) to last version by Toughpigs
+2023-08-27T01:02:52+00:00,1172428538,1172426523,0,Crboyer,Beauty and the Beast (2017 film),Reverted 1 edit by [[Special:Contributions/2600:1001:B11B:AA80:65CF:F98E:5AB:6819|2600:1001:B11B:AA80:65CF:F98E:5AB:6819]] ([[User talk:2600:1001:B11B:AA80:65CF:F98E:5AB:6819|talk]]): Sidekick is concise
+2023-12-24T12:16:51+00:00,1191587221,1191368648,0,KIRILL1995,Beauty and the Beast (2017 film),/* Software usage */
+2023-12-11T10:05:02+00:00,1189359790,1189260530,0,101.2.164.14,Beauty and the Beast (2017 film),/* Plot */
+2023-12-29T14:49:19+00:00,1192467337,1188650358,0,InternetArchiveBot,Can You Feel the Love Tonight,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:The Herald|The Herald]] - 16545
+2023-10-11T21:10:15+00:00,1179699204,1178104735,0,193.233.106.23,Cinderella (2015 American film),/* Release */
+2023-12-10T23:53:15+00:00,1189296187,1189098488,0,86.21.231.163,Cinderella (2015 American film),
+2023-09-23T17:04:17+00:00,1176731415,1174684525,0,Barry Wom,Disney Vault,Reverted edit by [[Special:Contribs/24.101.169.62|24.101.169.62]] ([[User talk:24.101.169.62|talk]]) to last version by Primium
+2023-09-18T18:21:29+00:00,1175984969,1173483541,0,68.203.165.135,Cinderella Castle,"/* The Magic, the Memories and You */"
+2023-12-20T05:22:13+00:00,1190847090,1190737050,0,125.238.20.165,Dean DeBlois,/* Films */
+2023-11-03T04:06:09+00:00,1183255320,1180771671,0,Evelyn Cactus,Cinderella (2015 American film),"put an ""i"" in ""Granger"""
+2023-09-01T15:55:58+00:00,1173305326,1173204125,0,Ponyo,Dumbo,Undid revision 1173204125 by [[Special:Contributions/Dr. House Was Always Right|Dr. House Was Always Right]] ([[User talk:Dr. House Was Always Right|talk]]) [[WP:BANREVERT]]
+2024-02-07T21:13:07+00:00,1204728646,1201819617,0,2601:589:4E00:D6F0:1EE:36AA:A84C:9F6C,Cinderella (2015 American film),/* Plot */
+2023-09-16T15:05:31+00:00,1175663584,1175649794,0,Binksternet,Can You Feel the Love Tonight,Reverted 1 edit by [[Special:Contributions/24.101.169.62|24.101.169.62]] ([[User talk:24.101.169.62|talk]]) to last revision by CLOaker2
+2023-11-14T04:06:02+00:00,1185035539,1184149212,0,Brian K. Tyler,Cinderella (2015 American film),"Fairy Tale short stories should be in quotes, not italics. See MOS:QUOTETITLE."
+2023-11-14T12:25:46+00:00,1185080363,1181468663,0,Suleeabc2,Dean DeBlois,
+2023-12-17T22:25:11+00:00,1190438670,1185972026,0,JJMC89 bot III,Cinderella Castle,Moving [[:Category:Fictional locations of Disney]] to [[:Category:Fictional Disney locations]] per [[Wikipedia:Categories for discussion/Log/2023 November 28#Category:Fictional locations of Disney]]
+2024-02-01T12:22:27+00:00,1201819617,1201818795,0,Rampage470,Cinderella (2015 American film),hopefully restored correct cast and crew names after vandalism
+2023-09-20T01:41:28+00:00,1176185304,1176178993,0,MikeAllen,Dumbo,Restored revision 1175618176 by [[Special:Contributions/GreenC bot|GreenC bot]] ([[User talk:GreenC bot|talk]])
+2023-11-22T01:43:57+00:00,1186274397,1185765060,0,CopperyMarrow15,Dumbo,/* Controversy */ removed [[MOS:OL|excessive links]]. removed [[MOS:DL|duplicate link]]
+2023-11-14T19:54:14+00:00,1185133255,1185130807,0,Macaddct1984,Dumbo (2019 film),Reverted edit by [[Special:Contribs/24.185.146.217|24.185.146.217]] ([[User talk:24.185.146.217|talk]]) to last version by Geraldo Perez
+2023-10-16T00:10:53+00:00,1180334093,1178699486,0,Citation bot,Dumbo,Add: date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_toolbar
+2024-01-31T20:41:39+00:00,1201518421,1198231516,0,ForsythiaJo,Dumbo,removed [[Category:Animated films about animals]]; added [[Category:Animated films about corvids]] using [[WP:HC|HotCat]]
+2023-12-28T23:00:50+00:00,1192358078,1192356674,0,Crboyer,Dumbo (2019 film),Reverting edit(s) by [[Special:Contributions/2600:8800:116:5400:BDB4:130A:AFF9:8F90|2600:8800:116:5400:BDB4:130A:AFF9:8F90]] ([[User_talk:2600:8800:116:5400:BDB4:130A:AFF9:8F90|talk]]) to rev. 1191013819 by Geraldo Perez: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2023-08-31T15:41:07+00:00,1173148053,1171233761,0,92.40.192.195,Dumbo (2019 film),"Reverted vandalism by Cosmic2992. Alan Arkin's final film was actually ""Minions: The Rise of Gru"" (that's also theatrical)."
+2024-01-01T17:39:58+00:00,1193027055,1192358078,0,99.149.243.175,Dumbo (2019 film),/* Cast */
+2023-12-21T02:20:43+00:00,1191013819,1191013114,0,Geraldo Perez,Dumbo (2019 film),Reverted 2 edits by [[Special:Contributions/2600:8800:116:5400:28FC:7204:7708:7CB2|2600:8800:116:5400:28FC:7204:7708:7CB2]] ([[User talk:2600:8800:116:5400:28FC:7204:7708:7CB2|talk]]): [[WP:EGG]] - piped destination is not a definition of the term displayed
+2024-01-20T18:05:02+00:00,1197480414,1197480174,0,2607:9880:2C40:19B:799B:B498:39D2:C352,Dumbo (2019 film),
+2023-12-13T22:34:11+00:00,1189771939,1188167552,0,OpalYosutebito,Dumbo (2019 film),removed [[:Category:Pages using infobox film with unknown parameters|unknown parameter(s)]] in the film infobox
+2024-02-09T23:05:09+00:00,1205557001,1205482248,0,Geraldo Perez,Dumbo (2019 film),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Lostaddictbill|Lostaddictbill]] ([[User talk:Lostaddictbill|talk]]): See [[WP:IMDB]] as for why we can't directly use IMDb as a reference for pretty much anything
+2023-10-11T13:02:57+00:00,1179638361,1179638304,0,דוב,Dumbo (2019 film),Undid revision 1179638304 by [[Special:Contributions/199.202.76.82|199.202.76.82]] ([[User talk:199.202.76.82|talk]])
+2023-11-01T03:05:07+00:00,1182907310,1182907241,0,134.22.132.61,Fantasyland,/* Former attractions and entertainment */
+2023-12-29T14:57:44+00:00,1192468416,1186059539,0,InternetArchiveBot,Father and Daughter,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:The Herald|The Herald]] - 16543
+2023-09-02T19:03:09+00:00,1173486839,1173486516,0,Visokor,Father Noah's Ark,
+2024-02-09T19:18:25+00:00,1205478599,1204783023,0,2607:9880:2C40:19B:A19F:903E:8F33:6246,Fantasyland,/* Current shops */
+2023-11-20T17:56:20+00:00,1186059539,1176121519,0,ResolutionsPerMinute,Father and Daughter,"Major cleanup; +YE Charts, Release history"
+2023-10-11T02:40:01+00:00,1179583449,1178818495,0,Geraldo Perez,Father Noah's Ark,Reverted edit by [[Special:Contribs/189.219.33.74|189.219.33.74]] ([[User talk:189.219.33.74|talk]]) to last version by Visokor
+2024-01-28T08:19:51+00:00,1199920760,1199920667,0,89.164.192.65,Father Noah's Ark,
+2023-09-19T16:21:28+00:00,1176121519,1176014386,0,Barry Wom,Father and Daughter,Reverted edits by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by Citation bot
+2024-02-03T20:01:56+00:00,1202905347,1202498136,0,141.136.212.14,Gertie the Dinosaur,/* Background */
+2023-10-16T20:44:59+00:00,1180467574,1176121733,0,HeyElliott,Gertie the Dinosaur,[[MOS:CQ]]
+2023-09-19T16:23:18+00:00,1176121733,1176007372,0,Barry Wom,Gertie the Dinosaur,Reverted edits by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by Tourorist
+2023-08-01T04:19:47+00:00,1168159937,1166070480,0,Tourorist,Gertie the Dinosaur,/* Release */ its own article exists
+2023-09-01T15:59:16+00:00,1173305767,1173135169,0,Ponyo,Lady and the Tramp,Undid revision 1170396680 by [[Special:Contributions/Dr. House Was Always Right|Dr. House Was Always Right]] ([[User talk:Dr. House Was Always Right|talk]]) rv sock
+2023-09-17T14:36:36+00:00,1175801170,1175800051,0,DB1729,Jonathan Taylor Thomas,Reverted 1 edit by [[Special:Contributions/75.118.121.71|75.118.121.71]] ([[User talk:75.118.121.71|talk]]) to last revision by Doniago
+2023-12-07T23:14:56+00:00,1188828803,1180063362,0,Cody Fearless-Lee,Lady and the Tramp (2019 film),/* Critical response */
+2023-10-10T14:26:32+00:00,1179497294,1176412032,0,KinoFan2021,Lady and the Tramp,/* External links */
+2023-10-14T07:51:14+00:00,1180063362,1176192086,0,Citation bot,Lady and the Tramp (2019 film),Alter: title. Add: date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Walt Disney Pictures films]] | #UCB_Category 11/381
+2023-09-20T02:47:30+00:00,1176192086,1176189214,0,Ad Orientem,Lady and the Tramp (2019 film),Reverted edit by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by MikeAllen
+2023-09-15T03:38:10+00:00,1175448294,1175250957,0,2601:195:C47E:5E10:C15B:BF37:18AE:5103,Lady and the Tramp II: Scamp's Adventure,/* Plot */
+2023-08-21T15:33:29+00:00,1171514670,1168539280,0,ForsythiaJo,Lady and the Tramp II: Scamp's Adventure,+[[Category:Animated films set in the 1910s]]; ±[[Category:Films set in the United States]]→[[Category:Animated films set in the United States]] using [[WP:HC|HotCat]]
+2023-12-05T13:59:05+00:00,1188447161,1188333552,0,Red4Smash,Lilo & Stitch (upcoming film),
+2023-10-14T19:18:39+00:00,1180137603,1180136277,0,Yoshi24517,Lilo & Stitch (upcoming film),Reverted edits by [[Special:Contributions/2A02:C7C:D222:6000:C0F9:C414:6225:AE5C|2A02:C7C:D222:6000:C0F9:C414:6225:AE5C]] ([[User talk:2A02:C7C:D222:6000:C0F9:C414:6225:AE5C|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.12)
+2023-10-03T05:10:17+00:00,1178361268,1178335092,0,Waxworker,List of films with live action and animation,Undid revision 1178335092 by [[Special:Contributions/1.40.66.64|1.40.66.64]] ([[User talk:1.40.66.64|talk]]) unsourced
+2023-12-23T00:59:31+00:00,1191353542,1191353330,0,89.164.61.79,List of Disney live-action adaptations and remakes of Disney animated films,
+2023-09-19T23:18:30+00:00,1176170884,1176160519,0,MikeAllen,List of Disney live-action adaptations and remakes of Disney animated films,Reverted edits by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by Red4Smash
+2024-01-19T17:55:54+00:00,1197235352,1197235123,0,106.214.173.189,List of Disney live-action adaptations and remakes of Disney animated films,/* Box office performance */
+2024-01-11T21:36:24+00:00,1195006715,1194833040,0,User-duck,List of Disney live-action adaptations and remakes of Disney animated films,Combine refs.
+2024-02-15T18:46:50+00:00,1207790734,1206860021,0,Citation bot,List of films with live action and animation,"Altered publisher. Add: title, date. Changed bare reference to CS1/2. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Mako001 | Linked from User:Mako001/Missingtitle | #UCB_webform_linked 1558/2854"
+2023-09-19T21:53:45+00:00,1176162655,1176036393,0,2607:FEA8:761F:4600:B973:2E6D:DD4B:E005,List of films with live action and animation,/* 2020s */ Mufasa: The Lion King and Sonic the Hedgehog 3 film articles are now live.
+2024-01-02T20:31:58+00:00,1193244643,1193189588,0,200.68.172.27,List of Disney live-action adaptations and remakes of Disney animated films,Undid revision 1193189588 by [[Special:Contributions/198.176.113.148|198.176.113.148]] ([[User talk:198.176.113.148|talk]])
+2024-01-16T15:35:11+00:00,1196147897,1196035775,0,Waxworker,List of films with live action and animation,Undid revision 1196035775 by [[Special:Contributions/198.176.113.148|198.176.113.148]] ([[User talk:198.176.113.148|talk]]) unsourced
+2023-12-29T15:21:29+00:00,1192471538,1192471466,0,The Editor 155,List of films with live action and animation,Details.
+2023-12-06T15:05:55+00:00,1188612822,1188612669,0,68.204.255.221,List of films with live action and animation,
+2023-09-27T00:37:19+00:00,1177272863,1176162655,0,Bruce1ee,List of films with live action and animation,fixed [[Special:LintErrors|lint errors]] – missing end tag
+2023-12-11T00:18:20+00:00,1189299706,1189299393,0,148.170.130.239,List of films with live action and animation,/* 1990s */
+2023-11-24T19:28:23+00:00,1186669417,1186669368,0,Nostalgia Zone,List of films with live action and animation,/* 1980s */
+2024-01-16T22:56:18+00:00,1196248486,1196089064,0,Wheatzilopochtli,Little Red Riding Hood (1922 film),Undid revision 1196089064 by [[Special:Contributions/2605:B100:111C:EF5A:0:15:4D60:F001|2605:B100:111C:EF5A:0:15:4D60:F001]] ([[User talk:2605:B100:111C:EF5A:0:15:4D60:F001|talk]]) rvt added disambig link
+2023-09-20T02:47:49+00:00,1176192116,1173485124,0,Ad Orientem,Little Red Riding Hood (1922 film),Reverted edit by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by ForsythiaJo
+2023-09-05T17:39:30+00:00,1173998988,1170915271,0,The Media Expert,Mufasa: The Lion King,/* top */
+2023-09-09T07:44:52+00:00,1174563940,1174563905,0,Materialscientist,Mufasa: The Lion King,Reverted edits by [[Special:Contributions/99.232.250.101|99.232.250.101]] ([[User talk:99.232.250.101|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2023-10-01T13:20:36+00:00,1178079263,1178018489,0,Barry Wom,Mufasa: The Lion King,Restored revision 1177687316 by [[Special:Contributions/BattyBot|BattyBot]] ([[User talk:BattyBot|talk]]): Unsourced
+2023-12-25T01:36:47+00:00,1191680337,1179583404,0,OpalYosutebito,Mother Goose Melodies,"cleaning up nonexistent parameters across Wikipedia using AutoWikiBrowser, removed: | image_size        ="
+2024-01-11T22:12:07+00:00,1195012348,1194970103,0,MikeAllen,Mufasa: The Lion King,Undid revision 1194970103 by [[Special:Contributions/Danger Ashu|Danger Ashu]] ([[User talk:Danger Ashu|talk]])
+2024-01-09T13:09:35+00:00,1194533170,1194441970,0,Barry Wom,Mufasa: The Lion King,Reverted edit by [[Special:Contribs/2601:902:C201:4760:C082:E03:1CCE:E787|2601:902:C201:4760:C082:E03:1CCE:E787]] ([[User talk:2601:902:C201:4760:C082:E03:1CCE:E787|talk]]) to last version by Rusted AutoParts
+2023-09-20T02:47:23+00:00,1176192073,1176191539,0,Ad Orientem,Mufasa: The Lion King,Reverted edits by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by MikeAllen
+2023-12-06T15:36:34+00:00,1188616516,1188566940,0,2601:283:4A81:F560:44BC:FA58:54DF:982D,Mufasa: The Lion King,
+2023-10-11T02:39:43+00:00,1179583404,1178828727,0,Geraldo Perez,Mother Goose Melodies,Reverted edit by [[Special:Contribs/189.219.33.74|189.219.33.74]] ([[User talk:189.219.33.74|talk]]) to last version by ForsythiaJo
+2023-12-22T20:56:36+00:00,1191323195,1191323078,0,Mirela63,Mufasa: The Lion King,
+2023-10-30T13:26:50+00:00,1182636144,1182636004,0,2600:6C5E:597F:8064:4F50:36D2:FA2F:8B99,Mufasa: The Lion King,/* External links */
+2023-11-23T07:27:02+00:00,1186456250,1186452416,0,Suleeabc2,Mufasa: The Lion King,
+2023-10-14T08:48:16+00:00,1180067802,1179280416,0,Citation bot,Mufasa: The Lion King,Alter: title. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Walt Disney Pictures films]] | #UCB_Category 131/381
+2023-11-20T03:11:43+00:00,1185971685,1185971593,0,LancedSoul,Mufasa: The Lion King,Undid revision 1185970856 by [[Special:Contributions/2601:248:5600:6000:70D1:C042:33CF:5028|2601:248:5600:6000:70D1:C042:33CF:5028]] ([[User talk:2601:248:5600:6000:70D1:C042:33CF:5028|talk]])
+2024-02-13T02:53:17+00:00,1206775888,1205319909,0,2001:1388:111:ABB6:1D9E:AF0B:E4BD:226,Mufasa: The Lion King,/* Voice cast */
+2023-09-30T11:24:18+00:00,1177908235,1177906572,0,JoãoRI,Mulan (2020 film),Undid revision 1177906572 by [[Special:Contributions/JoãoRI|JoãoRI]] ([[User talk:JoãoRI|talk]])
+2024-01-15T12:11:23+00:00,1195819352,1195817201,0,Quick and Dirty User Account,Mulan (2020 film),/* Music */ corrected spelling variant in quotation back to original as per [[MOS:CONFORM]].
+2023-09-02T05:30:54+00:00,1173401856,1172684763,0,GreenC bot,Mulan (2020 film),Reformat 4 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-09-10T22:43:58+00:00,1174825291,1174623244,0,70.163.208.142,Pinocchio (2022 live-action film),is it explicitly set in [[Collodi (Italy)]]?
+2023-10-11T02:40:01+00:00,1179583452,1178818257,0,Geraldo Perez,Old King Cole (film),Reverted edit by [[Special:Contribs/189.219.33.74|189.219.33.74]] ([[User talk:189.219.33.74|talk]]) to last version by ForsythiaJo
+2024-01-28T08:50:49+00:00,1199928490,1199928398,0,89.164.192.65,Old King Cole (film),
+2024-01-16T16:54:07+00:00,1196162276,1195972694,0,Knowledgekid87,Snow White (2025 film),"/* Controversies */ I'm not sure exactly what is disputed here? [[WP:NOCRIT]] is an essay, not a policy/guideline, if there is an [[WP:UNDUE]] issue then please address it on the talkpage so editors know what needs fixing."
+2023-09-19T23:19:59+00:00,1176170991,1173485651,0,MikeAllen,Puss in Boots (1922 film),Reverted edit by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by ForsythiaJo
+2023-10-03T16:15:19+00:00,1178427553,1176170991,0,ForsythiaJo,Puss in Boots (1922 film),removed [[Category:Films based on Puss in Boots]]; added [[Category:Animated films based on Puss in Boots]] using [[WP:HC|HotCat]]
+2023-10-30T01:53:29+00:00,1182562891,1182560204,0,The Green Star Collector,Snow White (2025 film),Fixed archive date.
+2024-01-27T17:04:57+00:00,1199664096,1199630099,0,AnomieBOT,Snow White (2025 film),Dating maintenance tags: {{Better source needed}}
+2024-02-14T05:01:50+00:00,1207175435,1207148199,0,NinjaRobotPirate,Tarzan & Jane,per source
+2023-09-14T13:16:29+00:00,1175351229,1175304938,0,62.18.37.37,Snow White (2025 film),
+2023-09-24T13:37:35+00:00,1176865303,1176727876,0,HM2021,Snow White (2025 film),"/* Music */ Zegler has already confirmed ""Whistle While You Work"" from the original film will be in the remake."
+2024-01-10T17:23:28+00:00,1194770031,1194769935,0,Geardona,Snow White (2025 film),Reverting edit(s) by [[Special:Contributions/142.186.78.124|142.186.78.124]] ([[User_talk:142.186.78.124|talk]]) to rev. 1194429835 by And1987: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2023-08-28T05:34:46+00:00,1172612083,1172489917,0,InfiniteNexus,Pinocchio (2022 live-action film),Undid revision 1172489917 by [[Special:Contributions/156.57.129.56|156.57.129.56]] ([[User talk:156.57.129.56|talk]])
+2024-01-23T15:00:04+00:00,1198236252,1188379451,0,PrimeBOT,Tarzan & Jane,/* External links */[[User:PrimeBOT/24|Task 24]]: elink template removal following [[Wikipedia:Templates_for_discussion/Log/2024_January_16|a TFD]]
+2024-01-19T05:54:41+00:00,1197057357,1197055822,0,Hiperjavier2006,Tarzan's Treehouse,/* top */
+2023-09-21T05:55:40+00:00,1176359247,1176358234,0,Geraldo Perez,Tarzan (1999 film),Reverted 1 edit by [[Special:Contributions/2001:8003:1498:B600:6423:CBE5:3189:267A|2001:8003:1498:B600:6423:CBE5:3189:267A]] ([[User talk:2001:8003:1498:B600:6423:CBE5:3189:267A|talk]]): Unsourced
+2023-11-13T06:35:30+00:00,1184884693,1179129398,0,Davidgoodheart,Tarzan & Jane,/* External links */
+2023-09-22T23:31:00+00:00,1176627405,1176627359,0,Materialscientist,The Jungle Book (1967 film),Reverted edits by [[Special:Contributions/75.170.61.129|75.170.61.129]] ([[User talk:75.170.61.129|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2023-12-08T06:19:34+00:00,1188876027,1186964933,0,Bahooka,Tarzan's Treehouse,status is open per referenced content in body of article
+2023-12-15T04:41:42+00:00,1189975165,1189972386,0,Geraldo Perez,Tarzan (1999 film),Reverted 1 edit by [[Special:Contributions/2001:8003:1498:B600:885F:6B24:26B2:E1EB|2001:8003:1498:B600:885F:6B24:26B2:E1EB]] ([[User talk:2001:8003:1498:B600:885F:6B24:26B2:E1EB|talk]]): Unsourced
+2024-01-17T10:37:15+00:00,1196411544,1196410846,0,De Disney,The Jungle Book (1967 film),Undid revision 1196410846 by [[Special:Contributions/Jungle boys ca|Jungle boys ca]] ([[User talk:Jungle boys ca|talk]]) Vandalism
+2023-10-07T17:15:09+00:00,1179066773,1178558547,0,Groupir !,The Jungle Book (1967 film),/* Original theatrical run */
+2023-12-23T15:08:29+00:00,1191438307,1191437783,0,De Disney,The Jungle Book (1967 film),/* Early development */
+2024-02-11T10:51:17+00:00,1206168398,1206113955,0,De Disney,The Jungle Book (1967 film),
+2024-01-08T02:31:04+00:00,1194263231,1194023529,0,Giraffedata,The Jungle Book (1994 film),[[User:Giraffedata/comprised of|comprised of]]
+2024-02-04T15:53:24+00:00,1203297758,1195854644,0,2600:6C50:5B3F:9A42:F8B8:7FB1:6AAB:AD6D,The Jungle Book (1994 film),
+2023-09-27T23:04:28+00:00,1177524003,1177258851,0,Citation bot,The Jungle Book (1994 film),Removed parameters. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_CommandLine
+2023-09-02T14:50:48+00:00,1173454269,1173378113,0,Massi illi,The Jungle Book (1994 film),
+2023-11-10T04:38:30+00:00,1184398237,1180962817,0,96.32.42.168,The Jungle Book (1994 film),simplified some plot summary sentences
+2023-11-27T02:40:32+00:00,1187042423,1186614507,0,Massi illi,The Jungle Book (1994 film),
+2024-02-10T19:00:22+00:00,1205910560,1205896098,0,Toughpigs,The Jungle Book (1994 film),/* Reception */
+2024-01-15T16:54:36+00:00,1195854644,1195743348,0,2A00:23C5:F19C:E401:B435:BD4D:9308:4976,The Jungle Book (1994 film),/* Plot */
+2023-09-04T16:32:33+00:00,1173821728,1173814455,0,Geraldo Perez,The Jungle Book (2016 film),Reverted edits by [[Special:Contribs/Caleblaw85|Caleblaw85]] ([[User talk:Caleblaw85|talk]]) to last version by 2603:6010:B02:A70:E02A:F5A5:D276:68A1
+2024-02-10T19:02:04+00:00,1205911112,1205257774,0,Toughpigs,The Jungle Book (2016 film),/* Cast */
+2023-09-04T22:29:02+00:00,1173867454,1173821728,0,Austin012599,The Jungle Book (2016 film),
+2023-10-26T18:23:46+00:00,1182030586,1182030469,0,Filmssssssssssss,The Jungle Book (2016 film),Reverted edit by [[Special:Contribs/76.9.205.94|76.9.205.94]] ([[User talk:76.9.205.94|talk]]) to last version by DrJuiceBoy
+2023-11-20T01:51:37+00:00,1185963081,1185939157,0,80.111.140.53,The Jungle Book (2016 film),"/* Plot */ I wouldn’t say defeat considering they didn’t lose to him,"
+2024-02-06T19:32:57+00:00,1204261210,1204240167,0,Geraldo Perez,The Jungle Book (2016 film),Reverted 1 edit by [[Special:Contributions/208.89.33.80|208.89.33.80]] ([[User talk:208.89.33.80|talk]]): Original more accurate to the sources
+2023-10-08T12:29:25+00:00,1179180249,1179084455,0,Barry Wom,The Jungle Book (2016 film),Reverted edits by [[Special:Contribs/2601:1C2:4E00:A1D0:4568:D644:6A9E:23ED|2601:1C2:4E00:A1D0:4568:D644:6A9E:23ED]] ([[User talk:2601:1C2:4E00:A1D0:4568:D644:6A9E:23ED|talk]]) to last version by Persent101
+2024-01-08T03:22:39+00:00,1194269130,1192364061,0,2804:1B3:ADC0:75F:A1D1:1E71:1371:FE6E,The Jungle Book (2016 film),
+2023-10-15T06:02:10+00:00,1180216234,1179180249,0,GreenC bot,The Jungle Book (2016 film),Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-10-20T20:30:03+00:00,1181093933,1180216234,0,37.30.10.58,The Jungle Book (2016 film),/* Cast */
+2023-09-20T02:47:33+00:00,1176192096,1176189112,0,Ad Orientem,The Jungle Book (2016 film),Reverted edit by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by MikeAllen
+2024-01-23T17:17:50+00:00,1198265681,1198263984,0,Geraldo Perez,The Jungle Book (2016 film),Reverted edit by [[Special:Contribs/2601:803:4380:E5B0:50CE:F775:AE1F:28D3|2601:803:4380:E5B0:50CE:F775:AE1F:28D3]] ([[User talk:2601:803:4380:E5B0:50CE:F775:AE1F:28D3|talk]]) to last version by Dubfancake
+2023-12-21T05:09:21+00:00,1191033443,1190735860,0,Geraldo Perez,The Jungle Book (2016 film),"Restored revision 1188871851 by [[Special:Contributions/SamuelLovesFilms|SamuelLovesFilms]] ([[User talk:SamuelLovesFilms|talk]]): Dubious changes, grammar errors"
+2024-01-13T21:27:34+00:00,1195439537,1195208534,0,Dubfancake,The Jungle Book (2016 film),/* Sequel */
+2023-12-08T05:29:15+00:00,1188871851,1188663572,0,SamuelLovesFilms,The Jungle Book (2016 film),/* Critical response */Zero in the average rating was unnecessary similar to the other film and television articles.
+2023-09-24T22:35:47+00:00,1176937954,1176933792,0,WikiPediaAid,The Jungle Book (2016 film),Restored revision 1176706329 by [[Special:Contributions/Barry Wom|Barry Wom]] ([[User talk:Barry Wom|talk]])
+2023-12-28T23:39:32+00:00,1192364061,1192361699,0,Crboyer,The Jungle Book (2016 film),Reverting edit(s) by [[Special:Contributions/2600:8800:116:5400:BDB4:130A:AFF9:8F90|2600:8800:116:5400:BDB4:130A:AFF9:8F90]] ([[User_talk:2600:8800:116:5400:BDB4:130A:AFF9:8F90|talk]]) to rev. 1192358247 by Crboyer: Vandalism (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]]
+2023-12-04T14:19:30+00:00,1188297078,1174176617,0,J 1982,The Legend of Tarzan (TV series),± 2 categories using [[WP:HC|HotCat]]
+2023-09-19T22:38:31+00:00,1176167124,1176166566,0,Tacyarg,The Jungle Book 2,"Reverted 1 edit by [[Special:Contributions/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]): Not constructive - for example, ""that Baloo the [[Rabies|rabid animal]] who"" is less grammatical than the previous version"
+2023-11-03T00:31:23+00:00,1183230599,1180296019,0,AlienChex,The Jungle Book 2,/* Plot */
+2024-02-09T04:34:55+00:00,1205219192,1205104911,0,YordleSquire,The Lion King,/* Other honors */ Add AFI cheers nomination
+2023-09-19T14:58:33+00:00,1176110218,1176109893,0,Barry Wom,The Lion King,Restored revision 1176082275 by [[Special:Contributions/Barry Wom|Barry Wom]] ([[User talk:Barry Wom|talk]])
+2023-10-24T23:59:21+00:00,1181748025,1181516277,0,Bloob93,The Lion King,/* Disney100 */ 2023 theatrical re-release
+2024-01-21T18:07:11+00:00,1197723796,1195837110,0,RMCD bot,The Lion King,Removing notice of move discussion
+2024-02-05T14:28:10+00:00,1203755978,1203711410,0,WikiCleanerBot,The Lion King,v2.05b - [[User:WikiCleanerBot#T13|Bot T13 CW#549]] - Fix errors for [[WP:WCW|CW project]] (Split link)
+2023-10-05T19:49:17+00:00,1178771909,1178764493,0,Filmssssssssssss,The Lion King,Padlock
+2023-12-06T11:32:44+00:00,1188592392,1188151720,0,Antonio Freddy,The Lion King,
+2023-11-20T22:20:48+00:00,1186096200,1186047480,0,JonahCampbellRocks2004,The Lion King,"Hasn't this movie been considered ""epic"" on Wikipedia before? Also, whatever happened to linking animation on this website?"
+2023-11-10T13:11:24+00:00,1184446437,1183909165,0,TheOmniDex,The Lion King,
+2023-10-23T14:44:29+00:00,1181516277,1181297869,0,Omnipaedista,The Lion King,see MOS:SECTIONORDER
+2024-01-24T19:27:53+00:00,1198672576,1198231280,0,Changedforbetter,The Lion King,
+2024-02-14T13:37:09+00:00,1207305474,1205219192,0,Conte Grievous,The Lion King,
+2023-09-06T23:08:08+00:00,1174198902,1174198817,0,Bojo1498,The Lion King,Reverted 1 edit by [[Special:Contributions/50.242.101.254|50.242.101.254]] ([[User talk:50.242.101.254|talk]]) to last revision by MinionsFan1998
+2023-10-01T01:55:54+00:00,1178010116,1177995943,0,Kiwipete,The Lion King,Reverted 1 pending edit by [[Special:Contributions/92.64.217.84|92.64.217.84]] to revision 1177987660 by Manticore - still [[WP:NOTBROKEN]]
+2023-09-17T18:06:34+00:00,1175825890,1174378481,0,Bearcat,The Lion King (2019 film),removed [[Category:Animated drama films]]; added [[Category:American children's animated drama films]] using [[WP:HC|HotCat]]
+2024-01-15T14:51:21+00:00,1195837110,1195637810,0,Citation bot,The Lion King,"Altered last. Add: s2cid, doi, date, publisher. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Films involved in plagiarism controversies]] | #UCB_Category 144/161"
+2023-11-16T23:35:23+00:00,1185470784,1185342770,0,Antonio Freddy,The Lion King (2019 film),/* Prequel */
+2023-10-30T14:20:34+00:00,1182642664,1182642439,0,Fleyzk,The Lion King (2019 film),
+2023-12-04T03:45:55+00:00,1188237698,1187545666,0,BaldiBasicsFan,The Lion King (2019 film),Clean-up in head to reflect what is currently the second and third highest-grossing animated films
+2023-11-28T19:43:34+00:00,1187360899,1186550236,0,Doraemonworld2112,The Lion King (2019 film),
+2024-02-17T23:35:37+00:00,1208547934,1201579281,0,Sjones23,The Lion King (2019 film),Minor trim.
+2023-10-23T19:11:15+00:00,1181550649,1181245317,0,LancedSoul,The Lion King (2019 film),Ce
+2024-01-21T15:21:20+00:00,1197691019,1194248738,0,Keith-264,The Lion King (2019 film),/* Production */
+2023-09-06T19:36:56+00:00,1174170879,1174158253,0,MinionsFan1998,The Lion King (2019 film),
+2023-09-24T10:28:25+00:00,1176846617,1176192083,0,Minu1979,The Lion King (2019 film),"misspelling of the surname ""Preto"" - fixed to ""Preti"""
+2023-09-08T02:35:33+00:00,1174378481,1174306021,0,LancedSoul,The Lion King (2019 film),"""Co-produced"" is unnecessary because it is different credit. Ce."
+2023-10-03T08:05:55+00:00,1178377056,1176846617,0,Gonnym,The Lion King (2019 film),fix website links; cleanup
+2024-01-31T23:36:02+00:00,1201579281,1201527064,0,ForsythiaJo,The Lion King (2019 film),removed [[Category:Films about meerkats]]; added [[Category:Animated films about meerkats]] using [[WP:HC|HotCat]]
+2023-11-20T16:24:39+00:00,1186047544,1185750430,0,JCWoodberry1234,The Lion King (2019 film),
+2023-11-23T23:38:16+00:00,1186550236,1186047544,0,Rhosnes,The Lion King (2019 film),
+2024-01-04T02:50:57+00:00,1193494007,1192632241,0,RicLightning,The Lion King (2019 film),
+2024-01-08T00:54:21+00:00,1194248738,1193494007,0,Chompy Ace,The Lion King (2019 film),
+2023-09-20T02:47:27+00:00,1176192083,1176190708,0,Ad Orientem,The Lion King (2019 film),Reverted edit by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by MikeAllen
+2023-11-27T00:49:42+00:00,1187029289,1185400033,0,BrookTheHumming,The Lion King (franchise),
+2024-01-29T15:41:24+00:00,1200472609,1195186440,0,Jean-de-Nivelle,The Lion King (franchise),Quick cleanup per [[WP:NOPIPE]]
+2023-11-07T06:37:06+00:00,1183909351,1183864035,0,Cewbot,The Lion King (franchise),[[User:Cewbot/log/20201008/configuration|Fixing broken anchor]]: [[Special:Diff/678533077|2015-08-30]] #Parallel⇝[[Sequel#Paraquel]]
+2024-01-03T06:05:55+00:00,1193321368,1193078275,0,Consistently Heinous,The Lion King (franchise),
+2023-12-12T01:54:21+00:00,1189473029,1184892719,0,Citation bot,The Lion King (musical),Alter: title. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 2115/2344
+2024-01-04T04:06:24+00:00,1193502474,1193321368,0,Tribal-Mand0,The Lion King (franchise),/* Cast and characters */
+2024-01-12T18:14:32+00:00,1195186440,1194193017,0,Henjin Dono,The Lion King (franchise),/* Critical response */Minor correction
+2023-09-15T03:31:42+00:00,1175447774,1170175144,0,Jtmorgan,The Lion King (musical),Added links
+2023-12-04T17:03:37+00:00,1188316835,1188213074,0,PCN02WPS,The Lion King (video game),fixing Newspapers.com link(s) to allow non-logged-in users to access; other fixes
+2023-11-02T00:24:57+00:00,1183068342,1182953323,0,GreenC bot,The Lion King 1½ (video game),Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-09-20T02:47:55+00:00,1176192125,1173472636,0,Ad Orientem,The Lion King (video game),Reverted edit by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by NakhlaMan
+2023-09-20T02:47:53+00:00,1176192123,1173474333,0,Ad Orientem,The Lion King 1½ (video game),Reverted edit by [[Special:Contribs/Beth Behrendt|Beth Behrendt]] ([[User talk:Beth Behrendt|talk]]) to last version by Renewal6
+2023-10-20T20:52:49+00:00,1181097385,1180771313,0,Bender the Bot,The Little Mermaid (1989 film),"/* Home media */HTTP to HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/"
+2023-09-21T21:07:33+00:00,1176459242,1176022101,0,Pablov95,The Little Mermaid (1989 film),Film summaries are advised to be 400-700 words long.
+2023-11-02T11:43:15+00:00,1183135417,1183135047,0,Pussshhh,The Little Mermaid (2023 film),/* Critical response */
+2023-10-18T21:32:04+00:00,1180792254,1180771232,0,MinionsFan1998,The Little Mermaid (2023 film),/* Home media */
+2023-11-30T23:32:01+00:00,1187710274,1186993584,0,And1987,The Little Mermaid (2023 film),/* Casting of Ariel */ It's been delayed a year.
+2023-10-26T18:12:25+00:00,1182028889,1181786269,0,AverageLogic,The Little Mermaid (2023 film),
+2023-10-03T14:23:34+00:00,1178413578,1177516855,0,Diddy-sama6,The Little Mermaid (2023 film),/* External links */
+2023-09-18T02:06:02+00:00,1175884638,1175713625,0,Kumagoro-42,The Little Mermaid (2023 film),Polished
+2024-01-10T00:28:11+00:00,1194637871,1194480645,0,Ernsanchez00,The Little Mermaid (TV series),added [[Category:CBS animated television series]] using [[WP:HC|HotCat]]
+2023-12-31T16:01:58+00:00,1192833753,1192781489,0,QuietCicada,The Little Mermaid (2023 film),Removed dog casting trivia that I couldn't find a source for
+2023-12-30T02:47:55+00:00,1192570187,1192563693,0,Swadge2,The Little Mermaid (TV series),"Reverted 1 edit by [[Special:Contributions/71.223.165.240|71.223.165.240]] ([[User talk:71.223.165.240|talk]]): I think the main fact of relevance to this article is that he was a writer on the show, rather than a father."
+2024-01-23T13:41:36+00:00,1198222697,1197551386,0,PrimeBOT,The Little Mermaid (TV series),/* External links */[[User:PrimeBOT/24|Task 24]]: elink template removal following [[Wikipedia:Templates_for_discussion/Log/2024_January_16|a TFD]]
+2023-09-15T01:09:10+00:00,1175434819,1175427243,0,2601:4C4:4000:A8C0:4D49:2E3A:7D16:96D6,The Little Mermaid (TV series),Undid revision 1175427243 by [[Special:Contributions/2601:18C:CD80:F530:1132:28F3:FF58:273F|2601:18C:CD80:F530:1132:28F3:FF58:273F]] ([[User talk:2601:18C:CD80:F530:1132:28F3:FF58:273F|talk]])
+2024-01-24T17:26:46+00:00,1198641071,1198338270,0,S51438,The Little Mermaid (2023 film),/* Box office */
+2023-09-02T19:05:51+00:00,1173487150,1144254965,0,Beth Behrendt,The Night Before Christmas (1933 film),
+2023-09-12T13:11:12+00:00,1175047774,1174847903,0,80.47.27.9,The Night Before Christmas (1933 film),/* Home media */ Added additional source of home media available
+2023-11-20T22:47:24+00:00,1186099878,1185331991,0,JCWoodberry1234,The Wild Thornberrys Movie,
+2024-01-09T21:49:30+00:00,1194611335,1194611215,0,86.2.139.127,The Wild Thornberrys Movie,/* Voice cast */
+2023-12-25T03:56:47+00:00,1191694956,1191434003,0,Rob T Firefly,The Little Mermaid (2023 film),/* Reception */ Fixed typo
+2023-10-05T14:43:04+00:00,1178734422,1176388820,0,OBCPO1,The Wild Thornberrys Movie,
+2023-10-29T16:32:53+00:00,1182483485,1182467742,0,Waxworker,The Wild Thornberrys Movie,Undid revision 1182467742 by [[Special:Contributions/45.31.176.165|45.31.176.165]] ([[User talk:45.31.176.165|talk]]) unsourced
+2023-09-24T19:43:18+00:00,1176912170,0,0,Cole Behrendt,User:Cole Behrendt/Sample page,Creating sandbox
+2023-08-23T19:56:29+00:00,1171895331,1171027907,0,216.154.26.102,Aladdin (2019 film),/* Future */
+2023-12-02T20:20:43+00:00,1188004744,1187946123,0,Cat's Tuxedo,Aladdin (2019 film),/* External links */
+2023-08-05T23:00:51+00:00,1168921926,1168047621,0,Spj345,Aladdin (2019 film),changed information about another actor was looked at for the role of genie when it was not true only will smith was in talks for the genie role and some website made it up anyone who adds that information i would respectfully like to know why?
+2024-01-31T16:18:06+00:00,1201427684,1201426251,0,JustAMuggle,Aladdin (2019 film),Copy edit
+2023-10-09T00:32:08+00:00,1179265721,1179180039,0,2601:195:C47E:5E10:4C48:5FE6:4426:CF7A,Aladdin (2019 film),/* Cast */
+2023-11-09T00:28:22+00:00,1184207472,1183192439,0,Mebigrouxboy,Aladdin (2019 film),Typo
+2023-11-15T21:44:16+00:00,1185301331,1185251549,0,Peaceray,Aladdin (2019 film),Reverting edit(s) by [[Special:Contributions/46.198.249.205|46.198.249.205]] ([[User_talk:46.198.249.205|talk]]) to rev. 1185035922 by Brian K. Tyler: Reverting [[WP:AGF|good faith]] edits: typically we round off to the largest million. [[w:en:WP:RW|(RW 16.1)]]
+2023-12-01T13:00:28+00:00,1187794241,1187645646,0,92.40.192.156,Alice in Wonderland (2010 film),Missing punctuation.
+2023-09-02T15:53:13+00:00,1173461810,1172798373,0,Smjg,Alice in Wonderland (2010 film),/* Plot */ accuracy
+2023-08-21T19:44:26+00:00,1171545893,1170521933,0,216.154.26.102,Beauty and the Beast (2017 film),/* top */
+2023-08-03T10:25:54+00:00,1168535851,1168017773,0,31.22.148.147,Beauty and the Beast (2017 film),/* Plot */
+2024-02-07T19:10:40+00:00,1204694143,1204259144,0,174.66.157.92,Beauty and the Beast (2017 film),/* Home media */
+2023-10-01T20:33:26+00:00,1178137138,1178011889,0,Nusrat21,Beauty and the Beast (2017 film),/* Plot */
+2024-01-16T15:17:36+00:00,1196145320,1195930113,0,ShelfSkewed,Beauty and the Beast (2017 film),Updated link
+2023-12-30T02:14:17+00:00,1192566702,1192363845,0,2601:589:4E00:D6F0:C422:3097:1C71:9512,Beauty and the Beast (2017 film),/* Plot */
+2023-08-15T15:08:46+00:00,1170521933,1169699210,0,Hugo Lumo,Beauty and the Beast (2017 film),
+2023-08-30T00:38:50+00:00,1172894830,1168247557,0,JoshuaArcilla20000716,Can You Feel the Love Tonight,/* See also */
+2023-12-06T20:10:36+00:00,1188650358,1188648813,0,Dhoffryn,Can You Feel the Love Tonight,Undid revision 1188648813 by [[Special:Contributions/24.101.169.215|24.101.169.215]] ([[User talk:24.101.169.215|talk]])
+2023-08-01T17:41:15+00:00,1168247557,1167595085,0,Angmering,Can You Feel the Love Tonight,there is more than one song in the film
+2024-02-03T01:21:20+00:00,1202559284,1192467337,0,76.90.173.35,Can You Feel the Love Tonight,/* Personnel */
+2024-01-16T07:38:18+00:00,1196089603,1193862141,0,ShelfSkewed,Cinderella (2015 American film),Updated link
+2024-02-15T19:14:35+00:00,1207798573,1207796704,0,82.103.76.97,Cinderella (2015 American film),
+2024-01-06T01:03:39+00:00,1193862141,1193075373,0,Urbanracer34,Cinderella (2015 American film),/* Critical response */ another list where it was ranked
+2023-09-18T23:04:33+00:00,1176019403,1176019311,0,Adakiko,Cinderella (2015 American film),Reverted edits by [[Special:Contributions/2601:58C:281:4520:D25:DB26:99A4:608|2601:58C:281:4520:D25:DB26:99A4:608]] ([[User talk:2601:58C:281:4520:D25:DB26:99A4:608|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.12)
+2023-08-18T20:18:15+00:00,1171059241,1168701432,0,2603:8001:1D02:4AE7:E455:A3FE:28AE:9354,Cinderella Castle,/* Tokyo Disneyland */
+2023-10-27T18:06:02+00:00,1182188985,1182188843,0,"Me, Myself, and I are Here",Cinderella Castle,/* Logo usage */ overlink
+2023-10-16T09:51:31+00:00,1180390066,1178463192,0,Harris7,Cinderella Castle,"/* Magic Kingdom */ add details to photo caption - obscure reference to something called ""Grad Nite"""
+2023-12-28T22:14:13+00:00,1192350355,1192350241,0,InedibleHulk,Dumbo,"/* Critical reception */ Time after time, it all adds up."
+2023-12-04T19:47:36+00:00,1188337769,1188333093,0,2804:2894:F0C1:AB00:AD74:5A69:667B:B319,Disney Vault,/* History */
+2024-01-17T17:17:22+00:00,1196485322,1192350355,0,Specialsam110,Dumbo,/* Voice cast */
+2023-08-19T21:00:05+00:00,1171233761,1170642751,0,Rusted AutoParts,Dumbo (2019 film),
+2023-09-22T18:20:07+00:00,1176588995,1176588415,0,2603:9000:A006:B2AB:D5CB:B350:5D50:F983,Dumbo (2019 film),a little update. the smack will be arkin's final film except it will be a posthmous release.
+2023-12-05T18:26:40+00:00,1188480244,1187495972,0,AnthonyN090,Fantasyland,/* Hong Kong Disneyland */Tagged
+2024-01-07T14:06:08+00:00,1194154781,1188925759,0,Mazewaxie,Gertie the Dinosaur,[[WP:GENFIXES]]
+2023-04-11T22:43:24+00:00,1149388856,1137920619,0,MissBarker93,Father Noah's Ark,/* Plot */
+2023-12-08T15:30:36+00:00,1188925759,1188718385,0,Apokryltaros,Gertie the Dinosaur,Reverted edits by [[Special:Contribs/66.58.186.63|66.58.186.63]] ([[User talk:66.58.186.63|talk]]) to last version by Gamerknowitall
+2023-11-16T17:30:57+00:00,1185425074,1183005452,0,DragonflySixtyseven,Gertie the Dinosaur,([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Winsor McCay (1914) Gertie the Dinosaur - Gerite carries MccCay in her mouth.jpg]] → [[File:Winsor McCay (1914) Gertie the Dinosaur - Gertie carries MccCay in her mouth.jpg]] spelling
+2023-10-24T19:22:07+00:00,1181712126,1181708338,0,Doniago,Jonathan Taylor Thomas,undo date vandalism
+2023-09-06T12:43:26+00:00,1174116738,1174016020,0,Doniago,Jonathan Taylor Thomas,/* top */ fix
+2023-08-13T17:19:14+00:00,1170193666,1162049184,0,William Avery,Lady and the Tramp (2019 film),[[MOS:LQ]]
+2024-01-29T22:20:47+00:00,1200615431,1198231848,0,2A04:4A43:8EFF:FFB1:983F:1A3E:8BDF:F7B4,Lady and the Tramp II: Scamp's Adventure,Added critical reviews to the lead section.
+2023-07-12T22:16:27+00:00,1165084765,1163610774,0,24.101.169.54,Lady and the Tramp II: Scamp's Adventure,
+2024-01-31T07:52:18+00:00,1201271026,1201258410,0,ZooBlazer,Lilo & Stitch (upcoming film),Reverted 1 edit by [[Special:Contributions/AlienChex|AlienChex]] ([[User talk:AlienChex|talk]]): Source?
+2023-08-14T20:34:49+00:00,1170396680,1170288132,0,Dr. House Was Always Right,Lady and the Tramp,Cast
+2024-01-10T17:30:25+00:00,1194771235,1194769165,0,MusikBot II,Lilo & Stitch (upcoming film),Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]])
+2024-01-05T19:44:37+00:00,1193811504,1193788832,0,189.220.43.254,List of Disney live-action adaptations and remakes of Disney animated films,Undid revision 1193788832 by [[Special:Contributions/93.173.1.18|93.173.1.18]] ([[User talk:93.173.1.18|talk]])
+2023-12-28T21:37:18+00:00,1192343746,1192186786,0,141.138.56.81,List of Disney live-action adaptations and remakes of Disney animated films,
+2024-01-02T08:03:56+00:00,1193140803,1193140255,0,2806:250:414:BFE0:D109:7F1D:91CD:AB02,List of Disney live-action adaptations and remakes of Disney animated films,Undid revision 1193140255 by [[Special:Contributions/NP2293|NP2293]] ([[User talk:NP2293|talk]])
+2023-09-06T16:33:16+00:00,1174145819,1174123387,0,2603:8090:5F00:7:A14B:195E:EAF7:4FD3,List of films with live action and animation,/* 2020s */
+2023-08-17T08:30:46+00:00,1170801847,1170674982,0,Kailash29792,List of films with live action and animation,Rescuing 80 sources and tagging 0 as dead.) #IABot (v2.0.9.5
+2023-11-28T10:35:52+00:00,1187296263,1187295988,0,Belbury,List of films with live action and animation,Reverted 1 edit by [[Special:Contributions/49.150.159.110|49.150.159.110]] ([[User talk:49.150.159.110|talk]]) to last revision by 184.176.129.118
+2024-02-13T09:12:02+00:00,1206860021,1206383676,0,Rodw,List of films with live action and animation,Disambiguating links to [[Frida]] (link changed to [[Frida (2002 film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-12-21T02:37:27+00:00,1191016421,1191016288,0,198.176.113.148,List of films with live action and animation,/* 2020s */
+2024-02-03T13:01:51+00:00,1202763960,1202763564,0,Fanoflionking,List of films with live action and animation,/* 2020s */
+2023-10-30T21:42:08+00:00,1182702196,1182701931,0,68.192.77.28,List of films with live action and animation,
+2023-10-23T20:30:29+00:00,1181561217,1181559077,0,83.51.194.198,List of films with live action and animation,/* 2020s */
+2024-01-26T16:05:50+00:00,1199254366,1196248486,0,89.164.191.139,Little Red Riding Hood (1922 film),
+2023-03-19T00:20:27+00:00,1145403989,1145108005,0,GrafiXal,Little Red Riding Hood (1922 film),rv of edit of title in the [[Wikipedia:Manual of Style/Lead section|lead]] which is likely vandalism
+2023-11-19T01:52:21+00:00,1185796501,1185796380,0,Inhighspeed,Little Red Riding Hood (1922 film),
+2023-08-17T23:49:25+00:00,1170915271,1170914965,0,Youknowmyname657,Mufasa: The Lion King,Added producers and jenkin’s company
+2023-07-17T16:28:46+00:00,1165819379,1165489421,0,AnthonyN090,Mufasa: The Lion King,"/* External links */Cat, per page sources"
+2024-01-20T05:32:50+00:00,1197360242,1197360237,0,Daniel Quinlan,Mufasa: The Lion King,Adding {{pp-protected}}
+2023-10-27T10:36:49+00:00,1182135947,1182135668,0,109.79.73.89,Mufasa: The Lion King,[[WP:FANSITE]] not a reliable source. Use better sources.
+2024-01-02T23:54:52+00:00,1193274846,1193272017,0,Sc2353,Mufasa: The Lion King,removed [[Category:English-language films]]; added [[Category:Upcoming English-language films]] using [[WP:HC|HotCat]]
+2023-12-14T20:11:11+00:00,1189909506,1188616516,0,2603:3002:A:8000:F4CA:1FD6:7341:BAC6,Mufasa: The Lion King,/* Voice cast */
+2023-09-12T05:12:29+00:00,1175007714,1174563940,0,2604:3D08:5C87:4500:C6A:2894:625A:8950,Mufasa: The Lion King,
+2023-09-08T13:30:13+00:00,1174442239,1173401856,0,FrescoBot,Mulan (2020 film),Bot: [[User:FrescoBot/Links|link syntax]]
+2024-01-12T20:56:43+00:00,1195216811,1191685104,0,Mostafamirchouli,Old King Cole (film),/* top */Added links
+2024-02-14T19:39:50+00:00,1207416123,1205874199,0,2A02:C7C:613D:E700:B969:C36C:2B3:A6CB,Pinocchio (2022 live-action film),/* Plot */
+2024-01-14T22:02:22+00:00,1195688320,1195673189,0,Spanneraol,Pinocchio (2022 live-action film),Undid revision 1195673189 by [[Special:Contributions/Anonypedia69|Anonypedia69]] ([[User talk:Anonypedia69|talk]]) Its actually a legitimate thing to mention in the article
+2023-12-30T04:54:48+00:00,1192583030,1192583010,0,Thomas Wiencek,Pinocchio (2022 live-action film),/* Plot */
+2023-11-27T14:14:52+00:00,1187104231,1186878904,0,Sock,Snow White (2025 film),"/* Cast */ Reformatted to remove repetitive and unhelpful ""TBA""s in cast"
+2023-12-05T04:18:40+00:00,1188397633,1188397464,0,136.37.58.34,Snow White (2025 film),
+2023-12-11T19:40:50+00:00,1189428552,1189428443,0,76.152.3.25,Snow White (2025 film),
+2024-01-14T09:30:32+00:00,1195555496,1194770031,0,2A02:C7C:7C8F:A000:D1B3:89C7:FF8F:98F2,Snow White (2025 film),/* Cast */
+2023-12-09T22:46:09+00:00,1189131646,1189071077,0,Beach drifter,Snow White (2025 film),/* Zegler's criticism of the 1937 film */ restoring removed sourced content
+2024-01-02T17:05:34+00:00,1193212731,1193078744,0,Shamus248,Snow White (2025 film),
+2023-12-05T01:28:25+00:00,1188379451,1184884693,0,Cat's Tuxedo,Tarzan & Jane,/* External links */
+2023-08-26T18:31:54+00:00,1172382185,1172122793,0,92.40.192.203,Tarzan (1999 film),/* Adaptations */
+2023-09-30T18:29:20+00:00,1177957134,1177952210,0,82.1.70.56,Tarzan (1999 film),
+2023-10-15T06:08:39+00:00,1180217023,1180215426,0,Hyphenation Expert,Snow White (2025 film),Undid revision 1176727410 by [[Special:Contributions/MusikBot II|MusikBot II]] ([[User talk:MusikBot II|talk]])
+2023-08-04T22:22:53+00:00,1168771057,1168467316,0,86.167.210.72,Tarzan (1999 film),/* Plot */
+2023-10-27T06:08:52+00:00,1182112869,1181967678,0,Contributor19,Tarzan's Treehouse,/* Disneyland version */ Corrected grammatical error.
+2023-12-20T08:45:40+00:00,1190869108,1188876027,0,Contributor19,Tarzan's Treehouse,Undid revision 1186964933 by [[Special:Contributions/2600:1001:A002:3727:C4A1:FBDE:9F90:512|2600:1001:A002:3727:C4A1:FBDE:9F90:512]] ([[User talk:2600:1001:A002:3727:C4A1:FBDE:9F90:512|talk]]) not needed.
+2023-12-16T22:55:40+00:00,1190268392,1190268284,0,89.164.147.219,The Jungle Book (1967 film),
+2023-08-27T17:17:28+00:00,1172525685,1172309971,0,2601:240:CB00:330D:C8E6:4156:BD09:35DF,The Jungle Book (1967 film),The narration field is only for documentaries
+2023-10-04T12:20:35+00:00,1178558547,1177341520,0,58.178.248.21,The Jungle Book (1967 film),/* Casting */There are no vultures in the book.
+2023-09-13T05:46:28+00:00,1175165999,1175126105,0,Hqb,The Jungle Book (1967 film),Reverted edit by [[Special:Contribs/2A02:A44B:5D3E:0:9087:A290:A28E:37C2|2A02:A44B:5D3E:0:9087:A290:A28E:37C2]] ([[User talk:2A02:A44B:5D3E:0:9087:A290:A28E:37C2|talk]]) to last version by ForsythiaJo
+2023-12-02T12:48:14+00:00,1187944613,1187042423,0,FloorMadeOuttaFloor,The Jungle Book (1994 film),Fixed info as per source
+2023-10-19T23:28:02+00:00,1180962817,1180773054,0,Aspects,The Jungle Book (1994 film),Restored revision 1177524003 by [[Special:Contributions/Citation bot|Citation bot]] ([[User talk:Citation bot|talk]]): Rv unsourced number/non-existent infobox field
+2023-08-15T01:59:33+00:00,1170440404,1165716800,0,ChristianJosephAllbee,The Jungle Book (1994 film),Fixed
+2023-08-16T00:49:07+00:00,1170593725,1170585016,0,174.234.10.81,The Jungle Book (2016 film),
+2023-08-10T13:41:29+00:00,1169663280,1169018855,0,Schazjmd,The Jungle Book (2016 film),/* Sequel */ remove
+2023-07-25T18:39:11+00:00,1167103990,1166620029,0,5.95.87.6,The Jungle Book (2016 film),/* Filming and visual effects */
+2024-01-12T20:09:09+00:00,1195208534,1194269130,0,2601:589:4E00:D6F0:2572:2ABF:819D:A9E5,The Jungle Book (2016 film),/* Plot */
+2023-10-04T22:56:43+00:00,1178637222,1178134631,0,Persent101,The Jungle Book (2016 film),/* Critical response */ Expanded URL
+2023-12-10T05:20:31+00:00,1189173358,1188386135,0,Retrosunshine2006,The Jungle Book 2,/* Home media */ Updating writing that was past tense
+2023-08-13T21:31:09+00:00,1170232272,1170178317,0,2601:283:4C00:8AD0:28B3:8C68:CA3F:3400,The Lion King,
+2023-08-01T23:47:39+00:00,1168296450,1168296277,0,City of Silver,The Lion King,"Reverted 1 pending edit by [[Special:Contributions/170.78.153.48|170.78.153.48]] to revision 1168230036 by ForsythiaJo: Unexplained, inappropriate changes"
+2023-12-01T19:55:32+00:00,1187844765,1187545661,0,CMD212007,The Lion King,
+2023-08-21T02:09:43+00:00,1171432578,1171110482,0,Wikipedialuva,The Lion King,"clean up, [[WP:AWB/T|typo(s) fixed]]: June 23, 2022 → June 23, 2022, (2)"
+2024-01-07T06:38:07+00:00,1194104808,1193493950,0,PrinceArchelaus,The Lion King,
+2023-09-12T04:20:48+00:00,1175003870,1174961633,0,2001:579:8154:850:BCFB:A0A0:1154:ED5C,The Lion King,/* Disney100 */
+2023-09-20T05:41:15+00:00,1176204934,1176204548,0,Neonorange,The Lion King,Reverted 1 pending edit by [[Special:Contributions/2001:579:8154:850:6CA6:9CA2:4CC:D98D|2001:579:8154:850:6CA6:9CA2:4CC:D98D]] to revision 1176192087 by Ad Orientem: addition of McDonald's as part of marketing campaign not supported by citation
+2023-12-09T03:13:43+00:00,1189011605,1189011551,0,LittleJerry,The Lion King,/* Plot */
+2023-09-19T13:43:09+00:00,1176100937,1176082275,0,116.15.144.75,The Lion King,/* Plot */
+2023-09-09T01:41:23+00:00,1174531500,1174531264,0,Manticore,The Lion King,Reverted 1 pending edit by [[Special:Contributions/2600:6C4C:40F0:8A80:2106:B87B:6518:7E11|2600:6C4C:40F0:8A80:2106:B87B:6518:7E11]] to revision 1174198902 by Bojo1498: factual errors
+2023-09-03T20:30:41+00:00,1173673315,1172727788,0,2A00:23C7:AC7:3601:6D2B:3066:3E2C:9090,The Lion King,/* Plot */
+2023-08-21T02:34:22+00:00,1171435965,1171313985,0,Wikipedialuva,The Lion King (2019 film),"clean up, [[WP:AWB/T|typo(s) fixed]]: highest grossing → highest-grossing"
+2023-10-16T08:45:57+00:00,1180384376,1180322351,0,Orenburg1,The Lion King (2019 film),/* Visual effects */ ce
+2023-12-22T21:39:12+00:00,1191329789,1191222328,0,Sahaib,The Lion King (2019 film),[[wp:NOTAMB]]
+2023-08-26T00:42:52+00:00,1172264232,1172065973,0,Mattmeine2023,The Lion King (2019 film),
+2023-08-15T00:01:09+00:00,1170422036,1170421797,0,142.190.74.226,The Lion King (franchise),
+2023-10-01T17:58:28+00:00,1178114794,1177421935,0,Rmidy1993,The Lion King (franchise),/* Films */
+2023-11-16T13:59:17+00:00,1185400033,1185399769,0,Indagate,The Lion King (franchise),Reverted 1 edit by [[Special:Contributions/Musyaka20022022|Musyaka20022022]] ([[User talk:Musyaka20022022|talk]]) to last revision by MinionsFan1998
+2023-11-13T08:05:46+00:00,1184892719,1183476015,0,BroadwaySpain,The Lion King (musical),/* United Kingdom */
+2023-07-23T17:43:19+00:00,1166775270,1166775197,0,24.101.169.54,The Lion King (franchise),
+2024-01-14T20:50:57+00:00,1195670257,1195670137,0,HomogenicIE,The Lion King (musical),/* United Kingdom */
+2023-10-19T22:03:33+00:00,1180954412,1180954371,0,Achmad Rachmani,The Little Mermaid (2023 film),/* top */ Wrong date
+2023-08-03T19:11:51+00:00,1168592794,1168589623,0,Tnays20,The Little Mermaid (2023 film),
+2023-11-13T21:44:59+00:00,1184990058,1184803864,0,Aquila89,The Little Mermaid (2023 film),
+2024-02-14T08:11:47+00:00,1207227042,1206999006,0,HunterKev,The Little Mermaid (2023 film),/* Accolades */ remove non-notable awards per [[WP:INDISCRIMINATE]]
+2023-08-31T15:53:55+00:00,1173149614,1173037734,0,Rincemermaid,The Little Mermaid (2023 film),/* Accolades */
+2023-11-18T03:18:24+00:00,1185648667,1185379165,0,Iacowriter,The Little Mermaid (2023 film),
+2024-01-18T14:15:24+00:00,1196796434,1196332729,0,Οἶδα,The Little Mermaid (2023 film),Polish Ł
+2023-09-27T22:24:29+00:00,1177516855,1177280918,0,Sambenyoseph,The Little Mermaid (2023 film),
+2023-12-12T04:42:57+00:00,1189489172,1189347873,0,ShelfSkewed,The Little Mermaid (2023 film),/* Accolades */ Unlinked ambiguous—no article
+2023-09-22T18:48:05+00:00,1176592349,1176592287,0,Age20035,The Little Mermaid (2023 film),
+2023-12-15T22:17:26+00:00,1190091521,1189489172,0,Merzostin,The Little Mermaid (2023 film),"/* Casting of Ariel */ removing completely unrelated article, this was about movie not politic"
+2023-12-26T21:23:27+00:00,1191964966,1191694956,0,Fixer23,The Little Mermaid (2023 film),/* Critical response */ grouping similar reviews together
+2023-11-11T20:45:36+00:00,1184657409,1184625545,0,Dirkbb,The Little Mermaid (TV series),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/87.21.153.157|87.21.153.157]] ([[User talk:87.21.153.157|talk]]): Sexist
+2023-10-26T02:01:22+00:00,1181927433,1181337938,0,2601:4C4:4000:A8C0:C5F4:276C:94C2:5297,The Little Mermaid (TV series),"VHS tapes were still manufactured in 2004 and 2005. They were not discontinued until sometime around the late 2000s—early 2010s. Therefore, all of the releases listed here that were available on DVD were also available on VHS."
+2023-07-23T22:25:38+00:00,1166811963,1163462407,0,LifeWithDerek05,The Little Mermaid (TV series),
+2023-10-19T06:16:41+00:00,1180847283,1180012090,0,2601:380:837E:89E0:8D15:DCD5:C6CE:F26C,The Wild Thornberrys Movie,/* Voice cast */The name is only Bree
+2023-10-30T21:05:05+00:00,1182697181,1182625041,0,75.90.47.4,The Wild Thornberrys Movie,/* Voice cast */
+2023-12-26T04:22:18+00:00,1191841243,1191379706,0,Esagurton,The Wild Thornberrys Movie,Modified plot
+2023-09-13T02:13:48+00:00,1175142415,1174192074,0,208.92.185.250,The Wild Thornberrys Movie,/* Voice cast */

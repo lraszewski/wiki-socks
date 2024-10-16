@@ -1,0 +1,172 @@
+timestamp,revid,parentid,sock,user,page,message
+2023-08-25T13:20:51+00:00,1172179378,1171698637,1,Enrico.cambiaso,Denial-of-service attack,/* History */
+2023-08-08T10:48:43+00:00,1169320745,1169320715,1,Enrico.cambiaso,Denial-of-service attack,
+2023-08-08T10:48:24+00:00,1169320715,1169320679,1,Enrico.cambiaso,Denial-of-service attack,
+2023-08-08T10:47:52+00:00,1169320679,1166976453,1,Enrico.cambiaso,Denial-of-service attack,
+2023-03-16T08:43:12+00:00,1144919277,1129446485,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-10-03T15:14:10+00:00,1113854390,1113854343,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-10-03T15:13:57+00:00,1113854343,1113854299,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-10-03T15:13:44+00:00,1113854299,1113589580,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-08-02T13:23:06+00:00,1101920404,1100841188,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-07-04T10:13:48+00:00,1096417656,1096417631,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-07-04T10:13:31+00:00,1096417631,1096007888,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-07-01T08:29:52+00:00,1095933915,1082813801,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-04-15T07:33:15+00:00,1082813801,1082813684,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-04-15T07:32:17+00:00,1082813684,1082728510,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-04-14T09:41:07+00:00,1082656633,1080515717,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-04-01T15:50:57+00:00,1080486942,1080484028,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-04-01T13:23:39+00:00,1080467110,1080465817,1,Enrico.cambiaso,User talk:Enrico.cambiaso,
+2022-03-03T10:03:39+00:00,1075000654,1074999905,1,Enrico.cambiaso,Slow DoS attack,
+2022-03-03T09:57:13+00:00,1074999905,1074999876,1,Enrico.cambiaso,Slow DoS attack,
+2022-03-03T09:56:59+00:00,1074999876,1074854782,1,Enrico.cambiaso,Slow DoS attack,"Removed the reference to the creators, added description on similar but different definitions"
+2022-03-02T15:36:00+00:00,1074856255,1074852004,1,Enrico.cambiaso,Slowdroid,
+2022-03-02T15:08:16+00:00,1074852814,0,1,Enrico.cambiaso,Slow DoS attack,[[WP:AES|←]]Created page with 'The term Slow DoS Attack (abbreviated to SDA) was coined<ref>{{cite journal|last1=Cambiaso|first1=Enrico|last2=Papaleo|first2=Gianluca|last3=Chiola|first3=Giovanni|last4=Aiello|first4=Maurizio|title=Slow DoS attacks: definition and categorisation|journal=International Journal of Trust Management in Computing and Communications|date=2013|volume=1|issue=3/4|pages=300–319|doi=10.1504/IJTMCC.2013.056440}}</ref> by [[Maurizio Aiello]] and [[Enrico Cambiaso]] d...'
+2022-03-02T15:06:50+00:00,1074852637,1059651710,1,Enrico.cambiaso,Slowloris (computer security),/* Similar software */
+2022-03-02T15:04:59+00:00,1074852386,1074852231,1,Enrico.cambiaso,Denial-of-service attack,
+2022-03-02T15:03:46+00:00,1074852231,1074851910,1,Enrico.cambiaso,Denial-of-service attack,
+2022-03-02T15:01:53+00:00,1074852004,1073026703,1,Enrico.cambiaso,Slowdroid,
+2022-03-02T15:00:43+00:00,1074851865,1074489266,1,Enrico.cambiaso,Denial-of-service attack,
+2022-03-02T14:56:01+00:00,1074851348,0,1,Enrico.cambiaso,User:Enrico.cambiaso,[[WP:AES|←]]Created page with '{{UserboxCOI|1=Slow DoS Attack}}'
+2017-03-10T13:21:47+00:00,769588007,736585732,1,Enrico.cambiaso,Slowdroid,
+2015-08-04T13:43:02+00:00,674522050,673212852,1,Enrico.cambiaso,Denial-of-service attack,/* See also */
+2015-08-04T13:41:52+00:00,674521926,674521887,1,Enrico.cambiaso,Slowloris (computer security),/* See also */
+2015-08-04T13:41:29+00:00,674521887,671364994,1,Enrico.cambiaso,Slowloris (computer security),/* See also */
+2015-07-22T13:58:05+00:00,672582510,670328357,1,Enrico.cambiaso,Slowdroid,
+2015-07-06T09:32:10+00:00,670174091,0,1,Enrico.cambiaso,Slowdroid,[[WP:AES|←]]Created page with ''''SlowDroid''' is a [[Denial-of-service_attack|denial of service attack]] which allows a single mobile device to take down a network server requiring minimal ba...'
+2022-03-08T15:18:36+00:00,1075953603,1075951900,1,Fimodi5192,Tunneling protocol,
+2022-03-08T15:13:28+00:00,1075952902,1075931890,1,Fimodi5192,SMS,
+2022-03-08T15:11:56+00:00,1075952715,1075280930,1,Fimodi5192,Signal (messaging app),
+2022-03-08T15:09:40+00:00,1075952445,1075754569,1,Fimodi5192,Telegram (software),
+2022-03-08T15:05:43+00:00,1075951900,1073016360,1,Fimodi5192,Tunneling protocol,
+2022-03-08T09:20:41+00:00,1075908811,1075699535,1,Fimodi5192,Slow DoS attack,
+2022-03-08T09:19:14+00:00,1075908639,1074973446,1,Fimodi5192,Denial-of-service attack,/* Application-layer attacks */
+2022-04-01T15:15:03+00:00,1080482104,1080481202,1,MaurizioAiello2,User talk:MaurizioAiello2,
+2022-04-01T13:16:02+00:00,1080466129,1080465918,1,MaurizioAiello2,User talk:MaurizioAiello2,
+2022-04-01T13:03:31+00:00,1080464546,1080464342,1,MaurizioAiello2,User:MaurizioAiello2/sandbox,[[WP:AES|←]]Blanked the page
+2022-04-01T13:01:57+00:00,1080464342,1080464314,1,MaurizioAiello2,User:MaurizioAiello2/sandbox,
+2022-04-01T13:01:40+00:00,1080464314,0,1,MaurizioAiello2,User:MaurizioAiello2/sandbox,"[[WP:AES|←]]Created page with '{{Short description|Cyber-security expert}} {{Infobox scientist | name                    = Enrico Cambiaso | image                   =  | caption                 =  | birth_date              =  | birth_place             = Genoa, Italy | death_date              = | death_place             =  | residence               =  | citizenship             = [[Italy|Italian]] | nationality             = Italian | education               = {{Plainlist| * University o...'"
+2022-04-01T12:47:13+00:00,1080462719,1080462537,1,MaurizioAiello2,Tunneling protocol,
+2022-04-01T12:45:37+00:00,1080462537,1077775021,1,MaurizioAiello2,Tunneling protocol,
+2022-04-01T12:15:32+00:00,1080459259,1080459234,1,MaurizioAiello2,Encapsulation (networking),
+2022-04-01T12:15:18+00:00,1080459234,1080459209,1,MaurizioAiello2,Encapsulation (networking),
+2022-04-01T12:15:05+00:00,1080459209,1080459176,1,MaurizioAiello2,Encapsulation (networking),
+2022-04-01T12:14:49+00:00,1080459176,1080459157,1,MaurizioAiello2,Encapsulation (networking),
+2022-04-01T12:14:36+00:00,1080459157,1080459052,1,MaurizioAiello2,Encapsulation (networking),
+2022-04-01T12:13:30+00:00,1080459052,1037461805,1,MaurizioAiello2,Encapsulation (networking),
+2022-04-01T12:07:29+00:00,1080458459,1080458325,1,MaurizioAiello2,Slow DoS attack,
+2022-04-01T12:06:05+00:00,1080458325,1078976539,1,MaurizioAiello2,Slow DoS attack,
+2019-07-22T16:12:10+00:00,907395768,907395751,0,ClueBot NG,Denial-of-service attack,"Reverting possible vandalism by [[Special:Contribs/105.159.42.191|105.159.42.191]] to version by InternetArchiveBot. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3639074) (Bot)"
+2021-02-17T04:26:12+00:00,1007249444,1005304924,0,Pihsdneirfsicigam,Denial-of-service attack,
+2021-02-07T01:03:17+00:00,1005304924,1003995822,0,InternetArchiveBot,Denial-of-service attack,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8) ([[User:Cyberpower678|Cyberpower678]] - 7074
+2020-06-20T22:12:36+00:00,963631334,963629146,0,MrOllie,Denial-of-service attack,Reverted 1 edit by [[Special:Contributions/51.195.21.187|51.195.21.187]] ([[User talk:51.195.21.187|talk]]) to last revision by MrOllie ([[WP:TW|TW]])
+2018-02-07T19:05:48+00:00,824502371,823287925,0,SimplexityBot,Denial-of-service attack,Removing links to current page
+2021-01-15T22:35:22+00:00,1000617664,998896669,0,Kaustin6969,Denial-of-service attack,/* History */ updated based on final sentence of the paragraph. Grammatical corrections.
+2017-02-26T10:26:09+00:00,767512382,767220214,0,2601:58B:100:76AE:B4C0:13D:E16B:2A10,Denial-of-service attack,/* Types */Fixed typo
+2019-12-05T12:16:24+00:00,929376480,929333393,0,MrOllie,Denial-of-service attack,Reverted 1 edit by [[Special:Contributions/Jumedeenkhan|Jumedeenkhan]] ([[User talk:Jumedeenkhan|talk]]) to last revision by LiberatorG ([[WP:TW|TW]])
+2017-11-09T09:52:02+00:00,809473818,809473803,0,ClueBot NG,Denial-of-service attack,"Reverting possible vandalism by [[Special:Contribs/85.12.84.1|85.12.84.1]] to version by Bonadea. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3183534) (Bot)"
+2022-12-05T16:17:31+00:00,1125742042,1084904962,0,Polyphemus Goode,Encapsulation (networking),/* See also */ [[application-layer framing]]
+2017-03-30T19:16:47+00:00,773015514,773015389,0,Dawnseeker2000,Denial-of-service attack,Reverted 1 edit by [[Special:Contributions/2600:1010:B166:2FC0:5738:B79E:EE40:F5E2|2600:1010:B166:2FC0:5738:B79E:EE40:F5E2]] ([[User talk:2600:1010:B166:2FC0:5738:B79E:EE40:F5E2|talk]]) to last revision by Gilliam. ([[WP:TW|TW]])
+2015-08-21T14:16:39+00:00,677157309,677156813,0,ApolloLV,Denial-of-service attack,/* Reflected / spoofed attack */  fixed reference
+2017-02-14T01:45:50+00:00,765375130,765375099,0,ClueBot NG,Denial-of-service attack,"Reverting possible vandalism by [[Special:Contribs/Kiernaoneill|Kiernaoneill]] to version by Bejnar. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2934165) (Bot)"
+2021-06-30T00:24:00+00:00,1031132495,1031132224,0,Mindmatrix,Denial-of-service attack,Reverted edits by [[Special:Contribs/2601:901:8180:9C70:3031:F856:355A:E09C|2601:901:8180:9C70:3031:F856:355A:E09C]] ([[User talk:2601:901:8180:9C70:3031:F856:355A:E09C|talk]]) to last version by 172.127.7.13
+2020-09-04T23:11:06+00:00,976776815,976675157,0,Widefox,Encapsulation (networking),"/* top */ def acros, links"
+2023-02-15T17:24:13+00:00,1139541788,1139473170,0,Fred Gandt,Denial-of-service attack,Undid revision 1139473170 by [[Special:Contributions/49.38.248.184|49.38.248.184]] ([[User talk:49.38.248.184|talk]])
+2016-04-11T22:15:44+00:00,714796136,714752483,0,FockeWulf FW 190,Denial-of-service attack,/* Content Delivery Networks (CDN) */ removed potential advertisement and/or possible Conflict of interest edit.
+2022-04-12T19:31:35+00:00,1082364323,1082364063,0,Tobi 406,Denial-of-service attack,Reverted 2 edits by [[Special:Contributions/Cyber235|Cyber235]] ([[User talk:Cyber235|talk]]) to last revision by Mindmatrix
+2017-07-24T19:15:34+00:00,792146882,790124228,0,172.88.206.187,Denial-of-service attack,/* Advanced persistent DoS */
+2021-04-25T06:40:32+00:00,1019755105,1019185316,0,Denmum,Denial-of-service attack,Removed sentence without citation
+2020-01-18T06:39:21+00:00,936346346,919484851,0,68.70.242.139,Encapsulation (networking),/* See also */
+2017-09-14T17:44:35+00:00,800621180,800620985,0,JimVC3,Encapsulation (networking),Reverted 1 edit by [[Special:Contributions/163.150.50.43|163.150.50.43]] ([[User talk:163.150.50.43|talk]]) to last revision by 92.16.38.151. ([[WP:TW|TW]])
+2016-06-11T03:38:57+00:00,724731746,718308570,0,Tom.Reding,Encapsulation (networking),/* top */Fix [[:Category:Pages using citations with accessdate and no URL]] when permanent identifier present (doi|bibcode|arxiv|pmid|jstor|isbn|issn|lccn|oclc|ismn|hdl) using [[Project:AWB|AWB]]
+2018-05-31T18:54:14+00:00,843829186,838527489,0,2620:83:8001:572:0:0:1:8AF,Encapsulation (networking),Basic punctuation plus improved the wording at the end of the sentence
+2023-07-08T01:31:47+00:00,1164126761,1151332834,0,Citation bot,Encapsulation (networking),"Alter: isbn. Add: doi-access, pages, volume. Upgrade ISBN10 to 13. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_CommandLine"
+2020-02-02T12:51:03+00:00,938804194,936346346,0,Narky Blert,Encapsulation (networking),dab-needed tag
+2018-07-17T21:33:49+00:00,850768964,850752209,0,Jessicapierce,SMS,Undid unexplained removal of content.
+2021-11-18T14:02:57+00:00,1055899124,1055193330,0,Citation bot,SMS,Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 463/2190
+2017-11-09T22:48:46+00:00,809563694,809300185,0,Dodi 8238,Signal (messaging app),/* Features */ added parentheses; users can also send GIFs
+2017-01-19T18:35:08+00:00,760898050,760641615,0,Loadmaster,Signal (messaging app),/* top */ Link
+2019-03-13T17:57:56+00:00,887604107,822265477,0,Citation bot,Slowdroid,Add: isbn. Removed URL that duplicated unique identifier. Removed accessdate with no specified URL. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].
+2018-01-25T10:53:55+00:00,822265477,793063092,0,150.145.21.124,Slowdroid,
+2023-04-14T10:54:32+00:00,1149778135,1136083852,0,Cewbot,Slowdroid,[[User:Cewbot/log/20201008/configuration|Fixing broken anchor]]: [[Special:Diff/1067162606|2022-01-22]] #Play Store on Android→[[Google Play#Google Play Store on Android]]
+2022-11-11T21:06:20+00:00,1121353598,1113880133,0,Liz,Slowdroid,"Removing link(s) to ""Maurizio Aiello"": Removing links to deleted page Maurizio Aiello."
+2016-08-28T14:15:55+00:00,736585732,727305723,0,LilHelpa,Slowdroid,/* top */General fixes and [[WP:AWB/T|Typo fixing]] using [[Project:AWB|AWB]]
+2023-07-25T15:30:13+00:00,1167081204,1149778135,0,Citation bot,Slowdroid,"Alter: title, template type. Add: chapter-url, chapter. Removed or converted URL. Removed parameters. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Headbomb | Linked from Wikipedia:WikiProject_Academic_Journals/Journals_cited_by_Wikipedia/Sandbox2 | #UCB_webform_linked 1826/2384"
+2021-01-19T20:57:50+00:00,1001473290,998253565,0,Davidhu0903ex3,Slowloris (computer security),/* Mitigating the Slowloris attack */ replace broken link with Webarchive
+2023-07-30T04:36:35+00:00,1167833636,1167081380,0,2A01:110F:4919:F200:8A26:35A7:1F62:F6F4,Slowloris (computer security),/* Affected web servers */ Fix a typo in nginx version number.
+2018-02-18T00:19:59+00:00,826234312,800144327,0,2601:647:300:C779:28F4:4F5D:9D15:2505,Slowloris (computer security),Added a Node.js Slowloris implementation to Similar Software section.
+2021-05-18T12:50:45+00:00,1023803347,1001473290,0,Kzkzb,Slowloris (computer security),"Adding [[Wikipedia:Short description|short description]]: ""Software for executing a denial-of-service attack"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2022-06-22T16:31:03+00:00,1094438791,1094397140,0,InternetArchiveBot,Telegram (software),Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:Q28|Q28]] - 10142
+2020-11-18T07:37:12+00:00,989312907,989029059,0,AB BLEL,Telegram (software),
+2023-05-16T16:18:57+00:00,1155094827,1149738123,0,24.38.189.221,Tunneling protocol,/* Secure Shell tunneling */Dead reference
+2022-08-23T09:00:00+00:00,1106128399,1091140654,0,Qeqo,Tunneling protocol,Abundant inner-link.
+2016-09-20T08:26:23+00:00,740311643,737075295,0,Bomazi,Tunneling protocol,Disambiguated: [[SSH]] → [[Secure Shell]]
+2021-03-10T14:53:20+00:00,1011370408,998662504,0,Trappist the monk,Tunneling protocol,/* {{Anchor|SSH}}Secure Shell tunneling */ cite repair;
+2019-10-05T11:59:38+00:00,919727221,919727066,0,Weegaweek,Tunneling protocol,Reverted to revision 909767096 by [[Special:Contributions/BrownHairedGirl|BrownHairedGirl]] ([[User talk:BrownHairedGirl|talk]]): Broken page ([[WP:TW|TW]])
+2020-08-19T08:20:23+00:00,973801915,959165033,0,Citation bot,Tunneling protocol,"Add: editor1-last, editor1-first, editor2-last, editor2-first, s2cid. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Ost316 | [[Category:CS1 errors: chapter ignored‎]] | via #UCB_Category"
+2023-06-11T11:10:34+00:00,1159602455,1157468300,0,MusikBot II,User talk:Enrico.cambiaso,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2022-12-25T11:44:01+00:00,1129446485,1120134736,0,Yamla,User talk:Enrico.cambiaso,Decline stale
+2022-03-04T11:43:03+00:00,1075187839,1075182030,0,AnomieBOT,User talk:Enrico.cambiaso,[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Uw-coi}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.
+2022-05-28T17:41:08+00:00,1090295244,1080485321,0,North8000,User talk:MaurizioAiello2,Notification: [[Wikipedia:Articles for deletion/Enrico Cambiaso|listing]] of [[:Enrico Cambiaso]] at [[WP:Articles for deletion]].
+2017-03-30T07:40:19+00:00,772936134,772936029,0,Gilliam,Denial-of-service attack,Reverted edits by [[Special:Contribs/197.93.128.53|197.93.128.53]] ([[User talk:197.93.128.53|talk]]) to last version by MrOllie
+2019-01-08T14:28:28+00:00,877413733,876910430,0,Kvng,Denial-of-service attack,cleanup
+2019-07-03T01:32:54+00:00,904566314,904341154,0,203.186.157.162,Denial-of-service attack,/* History */
+2021-08-08T06:17:15+00:00,1037703468,1037701869,0,SunDawn,Denial-of-service attack,Reverted edits by [[Special:Contributions/36.74.46.59|36.74.46.59]] ([[User talk:36.74.46.59|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-10-28T15:18:59+00:00,1118733674,1118259679,0,Kvng,Denial-of-service attack,unit formatting
+2020-11-14T03:21:45+00:00,988595666,988595495,0,Fuzheado,Denial-of-service attack,Reverted edits by [[Special:Contributions/2601:86:600:26:BD23:1A8B:8DAD:DA98|2601:86:600:26:BD23:1A8B:8DAD:DA98]] ([[User talk:2601:86:600:26:BD23:1A8B:8DAD:DA98|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2015-07-08T13:29:26+00:00,670515701,670398237,0,173.10.197.225,Denial-of-service attack,/* Legality */
+2017-12-07T13:58:35+00:00,814213790,814128960,0,Mjsa,Denial-of-service attack,/* Application layer attacks */ Added 2017 data
+2018-12-23T09:07:56+00:00,875036077,875034729,0,Bonadea,Denial-of-service attack,Reverted 1 edit by [[Special:Contributions/202.91.193.17|202.91.193.17]] ([[User talk:202.91.193.17|talk]]): Restore wikilink. ([[WP:TW|TW]])
+2016-01-04T11:43:37+00:00,698167266,697697529,0,GGShinobi,Denial-of-service attack,"/* HTTP POST DoS attack */ ""slowing it down"" was misleading: the attack is not CPU or bandwith consuming, it targets the logical resources of the server."
+2019-09-08T02:16:19+00:00,914548357,914548194,0,Samf4u,Denial-of-service attack,Reverted edits by [[Special:Contributions/2600:1700:8800:9950:5923:8F52:E564:589A|2600:1700:8800:9950:5923:8F52:E564:589A]] ([[User talk:2600:1700:8800:9950:5923:8F52:E564:589A|talk]]): disruptive edits ([[WP:HG|HG]]) (3.4.9)
+2018-11-12T11:54:42+00:00,868472489,867942901,0,Josve05a,Denial-of-service attack,/* Amplification */  | [[WP:UCB|Assisted by Citation bot]]
+2018-09-07T13:21:45+00:00,858476440,857985381,0,Kvng,Denial-of-service attack,"Adding local [[Wikipedia:Short description|short description]]: ""cyber attack disrupting service by overloading the provider of the service"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2015-08-09T08:35:52+00:00,675244012,675243925,0,Kurousagi,Denial-of-service attack,Reverted 1 edit by [[Special:Contributions/96.253.202.220|96.253.202.220]] ([[User talk:96.253.202.220|talk]]) to last revision by GliderMaven. ([[WP:TW|TW]])
+2020-10-16T06:49:51+00:00,983784444,983784214,0,Jennablurrs7575,Denial-of-service attack,Rvt last clean
+2017-03-20T20:13:46+00:00,771307718,771307703,0,Excirial,Denial-of-service attack,Reverted edits by [[Special:Contributions/213.233.149.5|213.233.149.5]] ([[User talk:213.233.149.5|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2022-12-12T19:05:07+00:00,1127071936,1125528506,0,Kvng,Denial-of-service attack,review: rm ambiguous heading. rm rep link. rm unnec parens. light ce.
+2016-12-18T15:33:20+00:00,755520723,754924615,0,Kvng,Denial-of-service attack,rm already linked in body
+2016-11-22T16:52:42+00:00,750978008,750328407,0,2001:DA8:8002:7000:2AD2:44BC:790E:7D50,Denial-of-service attack,
+2017-09-13T07:23:08+00:00,800391860,800389286,0,Timawesomeness,Denial-of-service attack,Reverted 1 edit by [[Special:Contributions/117.205.191.213|117.205.191.213]] ([[User talk:117.205.191.213|talk]]) to last revision by Jon Kolbert. ([[WP:TW|TW]])
+2019-11-03T15:01:39+00:00,924385304,921702526,0,Kvng,Denial-of-service attack,review: [[MOS:ORDER]]. trim to [[WP:V]].
+2020-09-14T16:12:06+00:00,978384719,978383690,0,Chris55,Denial-of-service attack,/* Application layer attacks */ grammar
+2015-09-10T18:06:19+00:00,680408901,680408296,0,Dsimic,Encapsulation (networking),"/* top */ actually, this reads better"
+2018-08-21T18:15:33+00:00,855918878,855918847,0,Entranced98,Denial-of-service attack,Reverted edits by [[Special:Contribs/207.166.59.198|207.166.59.198]] ([[User talk:207.166.59.198|talk]]) to last version by XLinkBot
+2020-05-29T18:58:28+00:00,959625160,938804194,0,Harshmoney,Encapsulation (networking),Unlinked: [[Identify]]
+2021-08-06T18:06:09+00:00,1037461805,1037428142,0,24.55.202.49,Encapsulation (networking),"Canceled previous change, made by error - sorry!"
+2019-06-29T10:47:05+00:00,904009484,903466857,0,Laval,SMS,links
+2019-10-04T00:01:11+00:00,919484851,909872167,0,Monkbot,Encapsulation (networking),/* top */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2017-09-06T18:49:30+00:00,799276634,724731746,0,92.16.38.151,Encapsulation (networking),
+2021-01-22T03:52:28+00:00,1001955467,976776815,0,Monkbot,Encapsulation (networking),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 3 templates: hyphenate params (2×);
+2017-12-10T12:14:16+00:00,814706648,814689694,0,KH-1,SMS,Reverted 1 edit by [[Special:Contributions/Mosesgreene|Mosesgreene]] ([[User talk:Mosesgreene|talk]]). ([[WP:TW|TW]])
+2017-08-16T19:13:59+00:00,795830916,795830620,0,Favonian,SMS,Reverted edits by [[Special:Contribs/45.112.176.162|45.112.176.162]] ([[User talk:45.112.176.162|talk]]) to last version by Jon Kolbert
+2017-03-07T19:54:46+00:00,769137130,769136725,0,NeilN,SMS,Reverted 1 edit by [[Special:Contributions/2602:306:C469:55A0:D02E:D149:F78:1C9A|2602:306:C469:55A0:D02E:D149:F78:1C9A]] ([[User talk:2602:306:C469:55A0:D02E:D149:F78:1C9A|talk]]): Spam. ([[WP:TW|TW]])
+2023-04-23T10:48:58+00:00,1151332834,1151194855,0,7e8y,Encapsulation (networking),improve: consistency &ndash; i.e. add 1 bibliographic/scientific reference for supporting the propositions/statements of 3 sentences
+2022-05-23T14:52:12+00:00,1089394764,1089394714,0,Bruce1ee,SMS,Reverted edits by [[Special:Contribs/41.44.190.244|41.44.190.244]] ([[User talk:41.44.190.244|talk]]) to last version by Ohnoitsjamie
+2020-02-11T21:45:23+00:00,940325897,940324518,0,Srich32977,SMS,ce
+2020-11-20T01:06:40+00:00,989616064,989613602,0,Boud,Signal (messaging app),/* Developers and funding */ [[WP:']]
+2016-12-05T21:57:17+00:00,753218357,750794646,0,84.215.9.172,Signal (messaging app),/* Metadata */ Correct placement of either/or structure.
+2023-07-04T05:42:43+00:00,1163317820,1161906568,0,2603:8000:9E3E:941B:557A:EAC1:AA0B:9EB2,Signal (messaging app),/* top */Fixed grammar
+2022-08-19T19:37:20+00:00,1105341059,1104813837,0,Tga.D,Signal (messaging app),cite Vice article
+2021-05-29T09:15:14+00:00,1025746390,1025745099,0,ASpacemanFalls,Signal (messaging app),Removed bit in the intro (do we really need to specify a mobile messaging app uses the internet right in the intro?) and cut a bit from the Limitations section as it messes with [[WP:NPOV]] and doesn't add much value
+2021-05-14T10:51:52+00:00,1023099070,1023099057,0,93.41.143.148,Slowdroid,
+2015-08-04T09:29:39+00:00,674497252,674497002,0,150.145.11.96,Slowdroid,
+2017-07-30T11:15:55+00:00,793063092,769588007,0,Codename Lisa,Slowdroid,Infobox cleanup
+2022-11-17T01:57:32+00:00,1122336076,1120983112,0,Rtrb,Slowloris (computer security),/* Notable usage */ Link added
+2019-09-29T20:12:15+00:00,918670442,914215336,0,Monkbot,Slowloris (computer security),[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (4×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2021-05-26T15:23:19+00:00,1025251568,1023803347,0,176.216.207.69,Slowloris (computer security),Update link due to auto-redirect
+2016-09-12T12:40:21+00:00,739038304,730953205,0,GreenC bot,Slowloris (computer security),[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]
+2016-07-21T22:36:25+00:00,730953205,727167320,0,Bender235,Slowloris (computer security),clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]
+2018-06-20T04:05:13+00:00,846658878,846618998,0,Anonymous1941,Slowloris (computer security),Added a picture of slowloris running on cmd
+2015-08-10T04:36:11+00:00,675367895,675270713,0,BG19bot,Telegram (software),/* History */[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]]
+2017-05-18T08:55:50+00:00,780972780,780932490,0,5.75.13.19,Telegram (software),Added new stat 40 mil user
+2022-12-27T23:25:15+00:00,1129960606,1129960499,0,Lœnidra,Telegram (software),
+2023-02-04T07:47:59+00:00,1137370911,1136390283,0,Meow,Telegram (software),/* top */
+2021-11-30T20:17:37+00:00,1057986480,1011370408,0,Kvng,Tunneling protocol,mv {{FOLDOC}} to talk
+2017-07-11T12:27:47+00:00,790072283,789599599,0,Kvng,Tunneling protocol,Reverted 1 edit by [[Special:Contributions/111.119.39.8|111.119.39.8]] ([[User talk:111.119.39.8|talk]]) to last revision by Kvng. ([[WP:TW|TW]])
+2016-12-22T13:51:25+00:00,756176061,753659558,0,David Sims,Tunneling protocol,
+2022-04-10T23:04:15+00:00,1082017588,1080462719,0,WikiCleanerBot,Tunneling protocol,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2018-10-31T16:42:25+00:00,866644606,866638944,0,Whispering,Tunneling protocol,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Kiransai nani|Kiransai nani]] ([[User talk:Kiransai nani|talk]]): Yeah no. ([[WP:TW|TW]])
+2017-01-11T12:25:42+00:00,759481481,756176061,0,JEG14,Tunneling protocol,GPRS Tunnelling Protocol (GTP) added
+2018-05-30T02:11:08+00:00,843578141,843577941,0,Enthusiast01,Tunneling protocol,
+2016-02-21T15:42:33+00:00,706118828,697769854,0,Noggo,Tunneling protocol,cleanup image caption
+2022-02-20T16:09:13+00:00,1073016360,1067636163,0,Kvng,Tunneling protocol,sort

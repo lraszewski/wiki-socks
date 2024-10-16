@@ -1,0 +1,48 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-02-01T21:27:36+00:00,1004277959,1004276745,1,DarwinQowin381,Protests against Donald Trump,
+2021-02-01T21:20:28+00:00,1004276745,1004276039,1,DarwinQowin381,Protests against Donald Trump,
+2021-02-01T21:16:20+00:00,1004276039,1003607890,1,DarwinQowin381,Protests against Donald Trump,
+2021-02-01T21:12:13+00:00,1004275347,1004240978,1,DarwinQowin381,2017 Women's March,
+2021-02-01T19:19:41+00:00,1004253973,1004253856,1,DarwinQowin381,Tea Party protests,/* Tax day events */
+2021-02-01T19:19:01+00:00,1004253856,1004253446,1,DarwinQowin381,Tea Party protests,/* Tax day events */
+2021-02-01T19:16:46+00:00,1004253446,1004151147,1,DarwinQowin381,Tea Party protests,
+2021-02-01T17:41:36+00:00,1004235099,1004234931,1,DarwinQowin381,Protests against the Iraq War,/* September 2002 */
+2021-02-01T17:40:38+00:00,1004234931,999658772,1,DarwinQowin381,Protests against the Iraq War,/* September 2002 */
+2021-02-01T17:35:17+00:00,1004234022,1003575137,1,DarwinQowin381,2017 Women's March,
+2021-02-01T17:02:30+00:00,1004227757,1004226907,1,DarwinQowin381,Inauguration of Donald Trump,"/* Crowd size */Fixed typo, corrected some mistakes."
+2021-02-01T16:57:23+00:00,1004226907,1004201967,1,DarwinQowin381,Inauguration of Donald Trump,Corrected some mistakes
+2021-02-01T22:30:30+00:00,1004290012,1004289412,1,Qolem_01,Second inauguration of Barack Obama,
+2021-02-01T22:27:49+00:00,1004289412,1003038371,1,Qolem_01,Second inauguration of Barack Obama,
+2021-02-01T22:14:19+00:00,1004286649,1004242939,1,Qolem_01,Inauguration of Donald Trump,
+2021-02-01T22:10:19+00:00,1004285894,1004285669,1,Qolem_01,2017 Women's March,
+2021-02-01T22:09:12+00:00,1004285669,1004285287,1,Qolem_01,2017 Women's March,
+2021-02-01T22:07:16+00:00,1004285287,1004284518,1,Qolem_01,2017 Women's March,
+2021-02-01T22:03:16+00:00,1004284518,1004284032,1,Qolem_01,2017 Women's March,Fixed errors
+2021-02-01T22:00:31+00:00,1004284032,1004278945,1,Qolem_01,2017 Women's March,Fixed errors
+2021-02-01T18:12:23+00:00,1004240978,1004234022,0,NorthBySouthBaranof,2017 Women's March,Reverted edits by [[Special:Contribs/DarwinQowin381|DarwinQowin381]] ([[User talk:DarwinQowin381|talk]]) to last version by NorthBySouthBaranof
+2021-01-29T17:12:30+00:00,1003575137,1003569905,0,NorthBySouthBaranof,2017 Women's March,Reverted edits by [[Special:Contribs/99.29.132.60|99.29.132.60]] ([[User talk:99.29.132.60|talk]]) to last version by BattyBot
+2021-02-01T18:23:11+00:00,1004242939,1004242901,0,ClueBot NG,Inauguration of Donald Trump,"Reverting possible vandalism by [[Special:Contribs/2600:1702:4380:3520:F161:5E08:D62F:DA8D|2600:1702:4380:3520:F161:5E08:D62F:DA8D]] to version by NorthBySouthBaranof. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3885874) (Bot)"
+2021-02-01T22:07:16+00:00,1004285287,1004284518,0,Qolem 01,2017 Women's March,
+2021-02-01T21:33:19+00:00,1004278945,1004275347,0,NorthBySouthBaranof,2017 Women's March,Reverted edits by [[Special:Contribs/DarwinQowin381|DarwinQowin381]] ([[User talk:DarwinQowin381|talk]]) to last version by NorthBySouthBaranof
+2021-02-01T22:00:31+00:00,1004284032,1004278945,0,Qolem 01,2017 Women's March,Fixed errors
+2021-01-29T20:20:27+00:00,1003607890,1002538828,0,KnightPower17,Protests against Donald Trump,
+2021-02-01T18:14:46+00:00,1004241445,1004235099,0,NorthBySouthBaranof,Protests against the Iraq War,Reverted edits by [[Special:Contribs/DarwinQowin381|DarwinQowin381]] ([[User talk:DarwinQowin381|talk]]) to last version by Monkbot
+2021-02-01T21:30:00+00:00,1004278360,1004277959,0,Muboshgu,Protests against Donald Trump,Reverted edits by [[Special:Contribs/DarwinQowin381|DarwinQowin381]] ([[User talk:DarwinQowin381|talk]]) to last version by KnightPower17
+2021-01-27T04:14:03+00:00,1003038371,1002949916,0,2607:FEA8:20C0:FE:5D19:31AE:2A49:77EA,Second inauguration of Barack Obama,/* External links */
+2021-01-11T08:13:31+00:00,999658772,997967362,0,Monkbot,Protests against the Iraq War,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 91 templates: hyphenate params (82×);
+2021-02-01T08:34:44+00:00,1004151147,1002485744,0,Citation bot,Tea Party protests,"Alter: url, title. URLs might have been internationalized/anonymized. Add: work, author pars. 1-1. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Use American English from April 2019]] | via #UCB_Category 450/956"
+2021-01-09T05:53:43+00:00,999246647,998738214,0,MagicatthemovieS,2017 Women's March,"/* External links */ I added this page to the category ""Articles containing video clips."""
+2021-01-19T22:57:00+00:00,1001492024,1001463758,0,BattyBot,2017 Women's March,Fixed reference date error(s) (see [[:Category:CS1 errors: dates|CS1 errors: dates]] for details) and [[WP:AWB/GF|AWB general fixes]]
+2021-01-16T10:53:26+00:00,1000720181,999246647,0,Deb,2017 Women's March,improve wording
+2021-01-15T02:23:37+00:00,1000431969,1000378213,0,Cyberbot II,Inauguration of Donald Trump,"Tagging page with {{pp-pc1|expiry=June 11, 2021}}. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2021-01-18T20:39:45+00:00,1001234221,1000720181,0,BelowTheSun,2017 Women's March,corrected typo in infobox (contradicted source)
+2021-01-30T10:04:21+00:00,1003718470,1003718379,0,Asartea,Inauguration of Donald Trump,Reverting 2 pending edits by [[Special:Contributions/BoykinSpaniels24|BoykinSpaniels24]] to last accepted version by [[Special:Contributions/Schazjmd|Schazjmd]]: unexplained content removal ([[w:en:Wikipedia:RedWarn|RW 16]])
+2021-01-12T07:29:42+00:00,999850118,999845447,0,Theleekycauldron,Inauguration of Donald Trump,"Reverted 1 pending edit by [[Special:Contributions/2604:2D80:6A9B:F300:28C7:3A17:EBD6:357E|2604:2D80:6A9B:F300:28C7:3A17:EBD6:357E]] to revision 999818480 by PohranicniStraze: Vandalism - GHWB's inaug page also says ""only"""
+2021-01-12T06:17:02+00:00,999841679,999841521,0,Tbhotch,Protests against Donald Trump,Tbhotch moved page [[Orange Man Bad]] to [[Protests against Donald Trump]] over a redirect without leaving a redirect: rvv
+2021-01-13T18:48:28+00:00,1000129740,1000129357,0,Amkgp,Inauguration of Donald Trump,Reverted 1 pending edit by [[Special:Contributions/2601:6C3:8200:5AB0:C401:81E4:D88C:5B0C|2601:6C3:8200:5AB0:C401:81E4:D88C:5B0C]] to revision 1000053070 by Pahunkat: as per [[WP:CRYSTALBALL]]
+2021-01-20T19:09:26+00:00,1001669658,1001669406,0,2607:FEA8:E340:17F8:DC95:4A8:10F5:C0B3,Protests against Donald Trump,
+2021-01-23T17:22:21+00:00,1002273113,1002246503,0,WikiCleanerBot,Protests against Donald Trump,v2.04b - [[User:WikiCleanerBot#T23|Bot T23 CW#558]] - Fix errors for [[WP:WCW|CW project]] (Duplicated reference - Title linked in text)
+2021-01-21T03:46:44+00:00,1001748949,1001731652,0,Beccalyn137,Inauguration of Donald Trump,Moved Dolly Parton and removed a couple words to help the sentence make sense
+2021-01-24T17:58:29+00:00,1002485744,991021706,0,Chris the speller,Tea Party protests,"cap, punct"
+2021-01-26T19:41:52+00:00,1002949916,1002223508,0,216.249.144.28,Second inauguration of Barack Obama,"/* Public inauguration: ""Faith in America's Future"" */ Removed ""-elect"" from ""Vice President,"" because Biden was the incumbent vice president at the time of the second inauguration in 2013."
+2021-01-21T21:29:27+00:00,1001891300,1001305747,0,Troutfarm27,Second inauguration of Barack Obama,"/* Public inauguration: ""Faith in America's Future"" */ added line about the pa announcer courtney williams"

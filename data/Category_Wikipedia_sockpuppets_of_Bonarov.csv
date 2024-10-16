@@ -1,0 +1,1463 @@
+timestamp,revid,parentid,sock,user,page,message
+2019-07-18T18:32:02+00:00,906853389,905434727,1,Bonarov,Brigadier Gerard,/* Biography */
+2019-07-10T09:36:38+00:00,905631226,904462827,1,Bonarov,Frits Thaulow,
+2019-07-02T11:25:14+00:00,904468774,904468602,1,Bonarov,Anders Beer Wilse,
+2019-07-02T11:23:22+00:00,904468602,904467632,1,Bonarov,Anders Beer Wilse,
+2019-07-02T11:12:37+00:00,904467632,904467195,1,Bonarov,Anders Beer Wilse,
+2019-07-02T11:07:38+00:00,904467195,873672391,1,Bonarov,Anders Beer Wilse,
+2019-07-02T10:18:49+00:00,904462827,904462044,1,Bonarov,Frits Thaulow,
+2019-07-02T10:08:53+00:00,904462044,904414486,1,Bonarov,Frits Thaulow,
+2019-07-02T00:38:21+00:00,904414486,904406561,1,Bonarov,Frits Thaulow,
+2019-07-01T23:18:17+00:00,904406561,904405228,1,Bonarov,Frits Thaulow,
+2019-07-01T23:03:50+00:00,904405228,904404102,1,Bonarov,Frits Thaulow,/* Selected gallery */
+2019-07-01T22:52:22+00:00,904404102,876173426,1,Bonarov,Frits Thaulow,
+2019-06-24T20:28:51+00:00,903291631,903289106,1,Bonarov,Marcellin Marbot,
+2019-06-24T20:09:36+00:00,903289106,900966308,1,Bonarov,Marcellin Marbot,
+2019-06-23T13:57:29+00:00,903091271,838032651,1,Bonarov,Claude Ambroise Régnier,
+2019-06-23T13:47:37+00:00,903090169,903089707,1,Bonarov,Emmanuel Crétet,
+2019-06-23T13:44:29+00:00,903089707,895241730,1,Bonarov,Emmanuel Crétet,
+2019-06-23T13:33:15+00:00,903088433,903086325,1,Bonarov,André-Daniel Laffon de Ladebat,
+2019-06-23T13:10:58+00:00,903086325,867265482,1,Bonarov,André-Daniel Laffon de Ladebat,
+2019-06-22T15:55:01+00:00,902961433,882266262,1,Bonarov,Valentine de Sainte-Aldegonde,
+2019-06-21T19:53:29+00:00,902859500,900968400,1,Bonarov,Jean-Antoine Marbot,
+2019-06-20T18:57:17+00:00,902716569,902714050,1,Bonarov,"Louis Pierre Édouard, Baron Bignon",
+2019-06-20T18:36:24+00:00,902714172,871697166,1,Bonarov,1771 in France,/* Births */
+2019-06-20T18:36:01+00:00,902714128,874013760,1,Bonarov,List of ambassadors of France to Poland,/* 19th century: Duchy of Warsaw */
+2019-06-20T18:35:19+00:00,902714050,849124394,1,Bonarov,"Louis Pierre Édouard, Baron Bignon",
+2019-06-20T17:21:50+00:00,902704885,894429237,1,Bonarov,Charles-Pierre Augereau,
+2019-06-14T18:19:21+00:00,901853265,893197260,1,Bonarov,Catherine-Dominique de Pérignon,
+2019-06-10T12:15:34+00:00,901216512,901147258,1,Bonarov,Louis Philippe I,
+2019-06-10T00:31:22+00:00,901147258,901146920,1,Bonarov,Louis Philippe I,
+2019-06-10T00:28:27+00:00,901146920,901141339,1,Bonarov,Louis Philippe I,
+2019-06-09T23:44:25+00:00,901141339,901135966,1,Bonarov,Louis Philippe I,
+2019-06-09T22:59:13+00:00,901135966,900857472,1,Bonarov,Louis Philippe I,
+2019-06-08T20:02:37+00:00,900968400,900965471,1,Bonarov,Jean-Antoine Marbot,
+2019-06-08T19:42:38+00:00,900966308,900965815,1,Bonarov,Marcellin Marbot,
+2019-06-08T19:37:36+00:00,900965815,900965086,1,Bonarov,Marcellin Marbot,
+2019-06-08T19:34:00+00:00,900965471,900477242,1,Bonarov,Jean-Antoine Marbot,
+2019-06-08T19:29:53+00:00,900965086,900632498,1,Bonarov,Marcellin Marbot,
+2019-06-06T19:26:59+00:00,900632498,900473359,1,Bonarov,Marcellin Marbot,
+2019-06-05T23:31:01+00:00,900477436,882228905,1,Bonarov,François Joseph Lefebvre,
+2019-06-05T23:29:11+00:00,900477242,900473813,1,Bonarov,Jean-Antoine Marbot,
+2019-06-05T22:54:32+00:00,900473813,899250942,1,Bonarov,Jean-Antoine Marbot,
+2019-06-05T22:51:40+00:00,900473548,900037515,1,Bonarov,Adolphe Marbot,
+2019-06-05T22:49:54+00:00,900473359,900341541,1,Bonarov,Marcellin Marbot,
+2019-06-05T00:58:07+00:00,900341541,900041138,1,Bonarov,Marcellin Marbot,
+2019-05-28T20:04:02+00:00,899250942,898326299,1,Bonarov,Jean-Antoine Marbot,
+2019-05-28T19:27:26+00:00,899245757,894202402,1,Bonarov,Jacques-François Menou,
+2019-05-20T18:39:12+00:00,898000075,875253199,1,Bonarov,Joseph Boze,
+2019-05-20T18:38:49+00:00,898000033,895674753,1,Bonarov,List of Assassin's Creed characters,/* Honore Gabriel Riqueti */
+2019-05-20T18:38:19+00:00,897999958,886803185,1,Bonarov,1791,/* Deaths */
+2019-05-20T18:34:59+00:00,897999458,895600857,1,Bonarov,"Honoré Gabriel Riqueti, comte de Mirabeau",
+2019-05-03T20:50:39+00:00,895377875,895360255,1,Bonarov,Antoine Lavoisier,
+2019-05-03T18:28:12+00:00,895360255,895360150,1,Bonarov,Antoine Lavoisier,
+2019-05-03T18:27:25+00:00,895360150,894132742,1,Bonarov,Antoine Lavoisier,
+2019-04-26T18:59:10+00:00,894269575,893025879,1,Bonarov,Adolphe Marbot,
+2019-04-26T18:58:14+00:00,894269457,889774668,1,Bonarov,Jean-Antoine Marbot,
+2019-04-26T18:39:01+00:00,894267338,894133590,1,Bonarov,Marcellin Marbot,
+2019-04-25T21:29:15+00:00,894133590,894132296,1,Bonarov,Marcellin Marbot,
+2019-04-25T21:18:59+00:00,894132296,894132089,1,Bonarov,Marcellin Marbot,
+2019-04-25T21:16:57+00:00,894132089,893291700,1,Bonarov,Marcellin Marbot,
+2019-04-17T01:52:42+00:00,892813871,892813373,1,Bonarov,Adolphe Marbot,
+2019-04-17T01:49:04+00:00,892813373,892810410,1,Bonarov,Adolphe Marbot,
+2019-04-17T01:28:16+00:00,892810410,888718765,1,Bonarov,Adolphe Marbot,
+2019-04-17T00:36:04+00:00,892805208,892475759,1,Bonarov,Marcellin Marbot,
+2019-04-08T21:05:55+00:00,891577712,891386687,1,Bonarov,Amédée Willot,
+2019-04-07T16:59:51+00:00,891388116,863830606,1,Bonarov,Fabre d'Églantine,
+2019-04-07T16:52:45+00:00,891387374,875335103,1,Bonarov,Albert Jean Michel de Rocca,
+2019-04-07T16:46:46+00:00,891386687,876423917,1,Bonarov,Amédée Willot,
+2019-03-29T16:16:45+00:00,890035063,878077441,1,Bonarov,Jean-Baptiste Debret,
+2019-03-29T16:11:22+00:00,890034523,889954252,1,Bonarov,Louis-Alexandre Berthier,
+2019-03-29T01:32:21+00:00,889952440,880367199,1,Bonarov,French Consulate,
+2019-03-27T21:28:39+00:00,889774668,889760667,1,Bonarov,Jean-Antoine Marbot,
+2019-03-27T19:47:48+00:00,889760667,888682759,1,Bonarov,Jean-Antoine Marbot,/* Tribute */
+2019-03-21T05:06:34+00:00,888753692,888751868,1,Bonarov,Marcellin Marbot,
+2019-03-21T04:43:57+00:00,888752052,888751061,1,Bonarov,VII Corps (Grande Armée),
+2019-03-21T04:41:30+00:00,888751868,888751517,1,Bonarov,Marcellin Marbot,
+2019-03-21T04:36:31+00:00,888751517,888718263,1,Bonarov,Marcellin Marbot,
+2019-03-21T04:30:33+00:00,888751061,882229432,1,Bonarov,VII Corps (Grande Armée),/* Orders of battle */
+2019-03-21T04:24:35+00:00,888750612,888750557,1,Bonarov,Laurent de Gouvion Saint-Cyr,/* Revolutionary Wars */
+2019-03-21T04:23:51+00:00,888750557,888750484,1,Bonarov,Laurent de Gouvion Saint-Cyr,
+2019-03-21T04:22:53+00:00,888750484,869331961,1,Bonarov,Laurent de Gouvion Saint-Cyr,
+2019-03-20T23:08:24+00:00,888718765,888681708,1,Bonarov,Adolphe Marbot,
+2019-03-20T23:03:25+00:00,888718263,888716234,1,Bonarov,Marcellin Marbot,
+2019-03-20T22:44:12+00:00,888716234,888683988,1,Bonarov,Marcellin Marbot,
+2019-03-18T20:54:23+00:00,888392382,888054825,1,Bonarov,Jean-Antoine Marbot,
+2019-03-18T14:08:09+00:00,888337843,883313608,1,Bonarov,"Adam Philippe, Comte de Custine",
+2019-03-16T00:37:51+00:00,887965453,887876335,1,Bonarov,Jean-Antoine Marbot,/* Conseil des Anciens */
+2019-03-15T12:00:00+00:00,887876975,887874740,1,Bonarov,Charles-Pierre Augereau,/* French Revolutionary Wars */
+2019-03-15T11:52:56+00:00,887876335,887874484,1,Bonarov,Jean-Antoine Marbot,/* Conseil des Anciens */
+2019-03-15T11:37:17+00:00,887874740,869330439,1,Bonarov,Charles-Pierre Augereau,/* French Revolutionary Wars */
+2019-03-15T11:34:50+00:00,887874484,887864792,1,Bonarov,Jean-Antoine Marbot,/* Conseil des Anciens */
+2019-03-14T18:42:02+00:00,887769842,887763159,1,Bonarov,Henri Gatien Bertrand,
+2019-03-14T18:07:00+00:00,887765412,887564536,1,Bonarov,Jean-Antoine Marbot,/* Military governor of Paris */
+2019-03-14T17:50:40+00:00,887763159,829416058,1,Bonarov,Henri Gatien Bertrand,
+2019-03-13T12:39:57+00:00,887564536,887557654,1,Bonarov,Jean-Antoine Marbot,
+2019-03-13T11:33:50+00:00,887557654,887405566,1,Bonarov,Jean-Antoine Marbot,/* Italian campaign */
+2019-03-12T13:25:30+00:00,887405566,887404932,1,Bonarov,Jean-Antoine Marbot,
+2019-03-12T13:20:13+00:00,887404932,887398609,1,Bonarov,Jean-Antoine Marbot,
+2019-03-12T10:57:17+00:00,887391684,887389163,1,Bonarov,Barthélemy Catherine Joubert,
+2019-03-12T10:29:46+00:00,887389163,867731106,1,Bonarov,Barthélemy Catherine Joubert,
+2019-03-12T08:51:23+00:00,887380873,887380794,1,Bonarov,Jean-Antoine Marbot,/* Military governor of Paris */
+2019-03-12T08:50:08+00:00,887380794,887380689,1,Bonarov,Jean-Antoine Marbot,/* Military governor of Paris */
+2019-03-12T08:48:31+00:00,887380689,887346644,1,Bonarov,Jean-Antoine Marbot,/* Military governor of Paris */
+2019-03-12T01:54:46+00:00,887346644,887346317,1,Bonarov,Jean-Antoine Marbot,/* Conseil des Anciens */
+2019-03-12T01:51:18+00:00,887346317,887345798,1,Bonarov,Jean-Antoine Marbot,/* Assemblée législative */
+2019-03-12T01:45:49+00:00,887345798,887345511,1,Bonarov,Jean-Antoine Marbot,
+2019-03-12T01:43:45+00:00,887345511,887345183,1,Bonarov,Jean-Antoine Marbot,/* Military governor of Paris */
+2019-03-12T01:40:25+00:00,887345183,887344882,1,Bonarov,Jean-Antoine Marbot,
+2019-03-12T01:36:38+00:00,887344882,887344559,1,Bonarov,Jean-Antoine Marbot,/* Italian campaign */
+2019-03-12T01:33:10+00:00,887344559,887344314,1,Bonarov,Jean-Antoine Marbot,/* Italian campaign */
+2019-03-12T01:30:46+00:00,887344314,887343547,1,Bonarov,Jean-Antoine Marbot,/* Conseil des Anciens */
+2019-03-12T01:23:09+00:00,887343547,887343393,1,Bonarov,Jean-Antoine Marbot,/* War of the Pyrenées */
+2019-03-12T01:22:03+00:00,887343393,887343211,1,Bonarov,Jean-Antoine Marbot,/* Conseil des Anciens */
+2019-03-12T01:20:12+00:00,887343211,887342771,1,Bonarov,Jean-Antoine Marbot,/* Conseil des Anciens */
+2019-03-12T01:16:35+00:00,887342771,887342183,1,Bonarov,Jean-Antoine Marbot,
+2019-03-12T01:11:28+00:00,887342183,887338846,1,Bonarov,Jean-Antoine Marbot,
+2019-03-12T00:45:19+00:00,887338846,887338509,1,Bonarov,Jean-Antoine Marbot,
+2019-03-12T00:42:21+00:00,887338509,887337755,1,Bonarov,Jean-Antoine Marbot,/* Italian campaign */
+2019-03-12T00:35:38+00:00,887337755,885692357,1,Bonarov,Jean-Antoine Marbot,
+2019-02-25T19:39:16+00:00,885069312,885067769,1,Bonarov,Joséphine de Beauharnais,
+2019-02-25T19:30:05+00:00,885067769,885064626,1,Bonarov,Joséphine de Beauharnais,/* Empress of the French */
+2019-02-25T19:14:37+00:00,885065541,857672833,1,Bonarov,Eugène de Beauharnais,
+2019-02-25T19:08:50+00:00,885064626,885063172,1,Bonarov,Joséphine de Beauharnais,"/* Titles, styles, and arms */"
+2019-02-25T18:59:22+00:00,885063172,883708804,1,Bonarov,Joséphine de Beauharnais,
+2019-02-24T21:39:37+00:00,884921643,884616842,1,Bonarov,Erik Magnus Staël von Holstein,
+2019-02-23T02:51:50+00:00,884658735,884640035,1,Bonarov,Suzanne Curchod,
+2019-02-23T02:03:10+00:00,884654648,877602596,1,Bonarov,Coppet group,
+2019-02-22T23:48:52+00:00,884640035,880410344,1,Bonarov,Suzanne Curchod,
+2019-02-22T21:21:01+00:00,884623961,884363703,1,Bonarov,Germaine de Staël,"/* Eastern Europe */ Newer version of previous image by Vladimir Borovikovsky, more relevant to this section about Eastern Europe."
+2019-02-22T20:22:51+00:00,884616842,855086348,1,Bonarov,Erik Magnus Staël von Holstein,
+2019-02-20T02:07:39+00:00,884186111,842855600,1,Bonarov,Battle of Genola,
+2019-02-20T02:06:15+00:00,884185945,884185165,1,Bonarov,Marengo order of battle,
+2019-02-20T02:05:58+00:00,884185905,884185117,1,Bonarov,Michael von Melas,
+2019-02-20T02:05:46+00:00,884185885,884185081,1,Bonarov,Battle of Trebbia (1799),
+2019-02-20T02:05:25+00:00,884185855,884185035,1,Bonarov,Battle of Novi (1799),
+2019-02-20T02:05:03+00:00,884185816,884184992,1,Bonarov,Battle of Marengo,
+2019-02-20T01:59:34+00:00,884185165,841871477,1,Bonarov,Marengo order of battle,
+2019-02-20T01:59:05+00:00,884185117,746033830,1,Bonarov,Michael von Melas,
+2019-02-20T01:58:44+00:00,884185081,871070956,1,Bonarov,Battle of Trebbia (1799),
+2019-02-20T01:58:21+00:00,884185035,869377678,1,Bonarov,Battle of Novi (1799),
+2019-02-20T01:57:55+00:00,884184992,875875497,1,Bonarov,Battle of Marengo,
+2019-02-20T00:29:52+00:00,884176284,884176210,1,Bonarov,Germaine de Staël,/* German travels */
+2019-02-20T00:29:17+00:00,884176210,884173382,1,Bonarov,Germaine de Staël,/* German travels */
+2019-02-20T00:09:50+00:00,884173601,861910941,1,Bonarov,"Louise de Broglie, Countess d'Haussonville",
+2019-02-20T00:09:24+00:00,884173541,882792027,1,Bonarov,Marguerite Gérard,
+2019-02-20T00:09:01+00:00,884173466,861257122,1,Bonarov,Coppet,
+2019-02-20T00:08:22+00:00,884173382,884161156,1,Bonarov,Germaine de Staël,/* Offspring */
+2019-02-20T00:07:32+00:00,884173252,884129901,1,Bonarov,Benjamin Constant,
+2019-02-19T22:26:19+00:00,884161156,884160525,1,Bonarov,Germaine de Staël,/* Salons at Coppet and Paris */
+2019-02-19T22:21:02+00:00,884160525,884159899,1,Bonarov,Germaine de Staël,/* German travels */
+2019-02-19T22:16:14+00:00,884159899,884151229,1,Bonarov,Germaine de Staël,/* German travels */
+2019-02-19T21:12:14+00:00,884151229,884150643,1,Bonarov,Germaine de Staël,/* Eastern Europe */
+2019-02-19T21:07:30+00:00,884150643,884148363,1,Bonarov,Germaine de Staël,/* Restoration */
+2019-02-19T20:52:47+00:00,884148363,884145507,1,Bonarov,Germaine de Staël,/* German travels */
+2019-02-19T20:31:31+00:00,884145507,884145124,1,Bonarov,Germaine de Staël,/* Revolutionary activities */
+2019-02-19T20:28:59+00:00,884145124,884144021,1,Bonarov,Germaine de Staël,/* Revolutionary activities */
+2019-02-19T20:28:23+00:00,884145036,884144995,1,Bonarov,Estates General of 1789,
+2019-02-19T20:27:58+00:00,884144995,882592995,1,Bonarov,Estates General of 1789,
+2019-02-19T20:20:25+00:00,884144021,884143262,1,Bonarov,Germaine de Staël,/* Restoration */
+2019-02-19T20:14:01+00:00,884143262,884133300,1,Bonarov,Germaine de Staël,/* Offspring */
+2019-02-19T20:09:25+00:00,884142724,873334943,1,Bonarov,Herminie Déhérain,
+2019-02-19T20:09:02+00:00,884142681,857709295,1,Bonarov,"Louis, comte de Narbonne-Lara",
+2019-02-19T18:58:15+00:00,884133300,884133002,1,Bonarov,Germaine de Staël,/* Conflict with Napoleon */
+2019-02-19T18:56:09+00:00,884133002,884130457,1,Bonarov,Germaine de Staël,/* Salons at Coppet and Paris */
+2019-02-19T18:36:54+00:00,884130457,884130421,1,Bonarov,Germaine de Staël,/* Restoration */
+2019-02-19T18:36:32+00:00,884130421,884125704,1,Bonarov,Germaine de Staël,/* Restoration */
+2019-02-19T18:32:17+00:00,884129901,883517304,1,Bonarov,Benjamin Constant,
+2019-02-19T18:02:03+00:00,884125783,874593646,1,Bonarov,Characters of Shakespear's Plays,/* Themes */
+2019-02-19T18:01:32+00:00,884125704,884028434,1,Bonarov,Germaine de Staël,
+2019-02-19T18:01:04+00:00,884125633,868033494,1,Bonarov,August Wilhelm Schlegel,
+2019-02-17T22:00:32+00:00,883828652,846054700,1,Bonarov,Gui-Jean-Baptiste Target,
+2019-02-17T17:38:59+00:00,883791693,869956185,1,Bonarov,Charles-François Lebrun,
+2019-02-17T17:02:26+00:00,883787193,882012492,1,Bonarov,Antoine Quentin Fouquier-Tinville,
+2019-02-17T16:25:34+00:00,883782788,883774344,1,Bonarov,List of heads of state of France,
+2019-02-17T16:24:50+00:00,883782688,883774305,1,Bonarov,List of presidents of the National Convention,
+2019-02-17T16:24:22+00:00,883782628,883782586,1,Bonarov,Committee of Public Safety,
+2019-02-17T16:24:00+00:00,883782586,883775197,1,Bonarov,Committee of Public Safety,
+2019-02-17T16:20:54+00:00,883782177,796430748,1,Bonarov,"Claude Antoine, comte Prieur-Duvernois",
+2019-02-17T15:28:23+00:00,883775197,883774164,1,Bonarov,Committee of Public Safety,
+2019-02-17T15:20:49+00:00,883774344,883759346,1,Bonarov,List of heads of state of France,
+2019-02-17T15:20:31+00:00,883774305,883759293,1,Bonarov,List of presidents of the National Convention,
+2019-02-17T15:19:52+00:00,883774228,883066178,1,Bonarov,Georges Couthon,
+2019-02-17T15:19:20+00:00,883774164,880900576,1,Bonarov,Committee of Public Safety,
+2019-02-17T14:29:10+00:00,883768562,883450401,1,Bonarov,Battle of Fère-Champenoise,/* Pacthod's disaster */
+2019-02-17T14:28:08+00:00,883768458,842614245,1,Bonarov,Michel-Marie Pacthod,
+2019-02-17T12:53:10+00:00,883759346,882890549,1,Bonarov,List of heads of state of France,
+2019-02-17T12:52:37+00:00,883759293,869504463,1,Bonarov,List of presidents of the National Convention,
+2019-02-17T12:52:14+00:00,883759251,877368424,1,Bonarov,Pierre Louis Prieur,
+2019-02-17T12:24:26+00:00,883756841,733667064,1,Bonarov,Jean Léchelle,/* Entrames */
+2019-02-17T12:23:53+00:00,883756797,822695422,1,Bonarov,Army of the West (France),/* Creation */
+2019-02-17T12:23:20+00:00,883756753,833976303,1,Bonarov,François Séverin Marceau,
+2019-02-17T10:29:59+00:00,883747474,853969110,1,Bonarov,1712 in France,
+2019-02-17T10:29:37+00:00,883747443,869613645,1,Bonarov,Dauphine of France,/* House of Bourbon */
+2019-02-17T10:08:36+00:00,883745506,857382215,1,Bonarov,Victor Joseph Delcambre,
+2019-02-17T09:20:40+00:00,883741215,878404019,1,Bonarov,Battle of Kaiserslautern (1794),/* Background */
+2019-02-17T09:19:58+00:00,883741159,882961293,1,Bonarov,Battle of Wattignies,/* Blockade of Maubeuge */
+2019-02-15T13:55:41+00:00,883450622,811692041,1,Bonarov,"Jean-Gérard Lacuée, count of Cessac",
+2019-02-12T16:28:47+00:00,882990227,881860504,1,Bonarov,History of economic thought,
+2019-02-12T16:28:23+00:00,882990162,880896696,1,Bonarov,Pierre Samuel du Pont de Nemours,
+2019-02-12T16:28:06+00:00,882990110,878290235,1,Bonarov,Physiocracy,
+2019-02-12T13:53:04+00:00,882970568,853151826,1,Bonarov,"Louis Antoine, Duke of Enghien",
+2019-02-12T13:52:39+00:00,882970496,867920232,1,Bonarov,Charlotte Louise de Rohan,
+2019-02-12T13:52:08+00:00,882970418,879531752,1,Bonarov,Bathilde d'Orléans,
+2019-02-12T12:35:08+00:00,882962208,747345878,1,Bonarov,William Essex (painter),
+2019-02-12T12:34:43+00:00,882962181,800819985,1,Bonarov,Fleurus 1794 order of battle,
+2019-02-12T12:34:00+00:00,882962123,878313903,1,Bonarov,Low Countries theatre of the War of the First Coalition,
+2019-02-12T12:33:20+00:00,882962055,879698570,1,Bonarov,Prince Josias of Saxe-Coburg-Saalfeld,
+2019-02-12T12:24:31+00:00,882961293,854479509,1,Bonarov,Battle of Wattignies,
+2019-02-12T10:57:48+00:00,882953979,882953901,1,Bonarov,1775–1795 in Western fashion,/* French fashion */
+2019-02-12T10:56:55+00:00,882953901,880962756,1,Bonarov,1775–1795 in Western fashion,
+2019-02-12T10:56:30+00:00,882953871,880705492,1,Bonarov,Marie Joséphine of Savoy,
+2019-02-12T10:55:52+00:00,882953816,882225333,1,Bonarov,Louis XVIII,
+2019-02-07T17:39:14+00:00,882229485,787189801,1,Bonarov,List of rulers of Partitioned Poland,/* Dukes of Danzig (Gdańsk) */
+2019-02-07T17:38:53+00:00,882229432,866532746,1,Bonarov,VII Corps (Grande Armée),/* April 1809 */
+2019-02-07T17:37:57+00:00,882229295,873334837,1,Bonarov,Césarine Davin-Mirvault,
+2019-02-07T17:37:39+00:00,882229254,877862418,1,Bonarov,Jena–Auerstedt campaign order of battle,/* Imperial Guard */
+2019-02-07T17:37:24+00:00,882229229,866533489,1,Bonarov,Tyrol 1809 order of battle,/* Bavarian forces */
+2019-02-07T17:37:06+00:00,882229178,875870629,1,Bonarov,Abensberg 1809 order of battle,/* VII (Bavarian) Corps */
+2019-02-07T17:36:46+00:00,882229134,866529696,1,Bonarov,List of Marshals of the First French Empire,/* Portraits */
+2019-02-07T17:36:22+00:00,882229075,872159512,1,Bonarov,Army of Sambre and Meuse,/* Commanders */
+2019-02-07T17:35:49+00:00,882229003,866532942,1,Bonarov,Battle of Abensberg,/* French-Allied forces */
+2019-02-07T17:35:05+00:00,882228905,869331087,1,Bonarov,François Joseph Lefebvre,
+2019-02-07T16:52:29+00:00,882222918,871511480,1,Bonarov,Fall of the Republic of Venice,/* Failure of the Austrian offensive */
+2019-02-07T16:52:04+00:00,882222852,804644450,1,Bonarov,Battle of Haguenau,/* Background */
+2019-02-07T16:51:47+00:00,882222815,804644549,1,Bonarov,First Battle of Wissembourg,/* Background */
+2019-02-07T16:51:35+00:00,882222786,862567371,1,Bonarov,Castiglione 1796 campaign order of battle,/* Austrian Army */
+2019-02-07T16:51:19+00:00,882222761,825159898,1,Bonarov,Battle of Rovereto,/* Background */
+2019-02-07T16:51:01+00:00,882222724,860442013,1,Bonarov,Dagobert Sigmund von Wurmser,
+2019-02-07T16:50:47+00:00,882222685,842099593,1,Bonarov,Charles Edward Jennings,/* Italian Campaign */
+2019-02-07T13:59:44+00:00,882201351,881754892,1,Bonarov,Timeline of the French Revolution,
+2019-02-07T13:59:13+00:00,882201292,859419955,1,Bonarov,Jean Sylvain Bailly,
+2019-02-07T13:40:14+00:00,882199057,836110954,1,Bonarov,Assembly of Vizille,
+2019-02-06T22:32:33+00:00,882114043,872028627,1,Bonarov,List of scientists whose names are used as units,
+2019-02-06T22:31:40+00:00,882113928,878767050,1,Bonarov,Charles-Augustin de Coulomb,
+2019-02-06T22:31:22+00:00,882113895,881762082,1,Bonarov,1736,
+2019-02-06T22:30:10+00:00,882113745,876988429,1,Bonarov,1806,/* July&ndash;December */
+2019-02-03T18:57:44+00:00,881616029,786913015,1,Bonarov,Elements of the Philosophy of Newton,
+2019-02-03T18:57:19+00:00,881615971,879940072,1,Bonarov,Voltaire,/* Great Britain */
+2019-02-03T18:04:29+00:00,881607379,876358989,1,Bonarov,Louis-Gabriel Suchet,/* Life */
+2019-02-03T16:50:18+00:00,881597093,881595942,1,Bonarov,Joseph Bonaparte,/* King of Naples */
+2019-02-03T16:41:54+00:00,881595942,880031457,1,Bonarov,Joseph Bonaparte,/* King of Naples */
+2019-01-27T14:49:10+00:00,880453936,879175932,1,Bonarov,Treaty of Versailles,/* French aims */
+2019-01-11T12:20:37+00:00,877870429,877443541,1,Bonarov,Marcellin Marbot,
+2019-01-11T12:19:54+00:00,877870373,877443486,1,Bonarov,Adolphe Marbot,
+2019-01-11T12:16:18+00:00,877870077,877443517,1,Bonarov,Jean-Antoine Marbot,
+2019-01-09T08:56:08+00:00,877539033,796431387,1,Bonarov,Charles Malo François Lameth,
+2019-01-08T18:08:53+00:00,877443541,876646576,1,Bonarov,Marcellin Marbot,
+2019-01-08T18:08:39+00:00,877443517,876645803,1,Bonarov,Jean-Antoine Marbot,
+2019-01-08T18:08:24+00:00,877443486,876651802,1,Bonarov,Adolphe Marbot,
+2019-01-04T15:52:11+00:00,876804002,876802967,1,Bonarov,Army of the Western Pyrenees,
+2019-01-04T15:43:27+00:00,876802967,866547729,1,Bonarov,Army of the Western Pyrenees,/* Other generals */
+2019-01-03T17:46:25+00:00,876659587,876658283,1,Bonarov,Philip José Farmer,Better layout
+2019-01-03T17:36:34+00:00,876658283,875230327,1,Bonarov,Philip José Farmer,Better image
+2018-12-31T16:54:11+00:00,876173426,876158097,1,Bonarov,Frits Thaulow,
+2018-11-20T23:05:22+00:00,869875727,797366150,1,Bonarov,1753 in France,/* Births */
+2018-11-20T23:03:22+00:00,869875495,743532325,1,Bonarov,Jacques-Augustin-Catherine Pajou,
+2018-11-20T23:02:06+00:00,869875336,819210199,1,Bonarov,Grand Dignitaries of the French Empire,/* Gallery */
+2018-11-20T23:00:45+00:00,869875158,869330296,1,Bonarov,Louis-Alexandre Berthier,
+2018-11-20T23:00:26+00:00,869875119,858466953,1,Bonarov,Bamberg,/* Notable people */
+2018-11-17T19:27:16+00:00,869305007,869304413,1,Bonarov,Jean-Baptiste Jourdan,
+2018-11-17T19:22:08+00:00,869304413,866530020,1,Bonarov,Jean-Baptiste Jourdan,
+2018-11-16T17:04:44+00:00,869134918,867066234,1,Bonarov,Jean Lannes,
+2018-11-11T21:49:12+00:00,868387516,868104987,1,Bonarov,French Revolution,
+2018-11-11T21:47:18+00:00,868387254,858743340,1,Bonarov,List of intellectuals of the Enlightenment,
+2018-11-11T21:46:50+00:00,868387182,865200141,1,Bonarov,Women in the French Revolution,/* Women writers */
+2018-11-11T21:46:31+00:00,868387144,866304783,1,Bonarov,Declaration of the Rights of Woman and of the Female Citizen,/* The Declaration */
+2018-11-11T21:46:10+00:00,868387088,868257737,1,Bonarov,Olympe de Gouges,
+2018-11-11T21:45:52+00:00,868387041,866848185,1,Bonarov,List of civil rights leaders,
+2018-11-11T21:35:56+00:00,868385646,867797581,1,Bonarov,A Vindication of the Rights of Woman,/* Historical context */
+2018-11-10T22:28:17+00:00,868236427,865275148,1,Bonarov,List of Swiss people,/* Writers */
+2018-11-08T20:43:58+00:00,867919461,864690563,1,Bonarov,French Revolution,Storming of the Bastille images switched. Better and more detailed image placed in infobox.
+2018-11-08T20:22:29+00:00,867916980,858367153,1,Bonarov,Arc de Triomphe,Better image
+2018-11-07T17:06:14+00:00,867731106,862395113,1,Bonarov,Barthélemy Catherine Joubert,
+2018-11-06T15:04:27+00:00,867565321,867554551,1,Bonarov,Jean-Antoine Marbot,/* Family */
+2018-11-06T14:58:47+00:00,867564665,867554017,1,Bonarov,Adolphe Marbot,/* Honours */
+2018-11-06T14:55:35+00:00,867564318,867553432,1,Bonarov,Marcellin Marbot,/* Honours */
+2018-11-06T13:35:02+00:00,867554551,866752874,1,Bonarov,Jean-Antoine Marbot,
+2018-11-06T13:32:13+00:00,867554246,859735271,1,Bonarov,Marbot family,/* Members */
+2018-11-06T13:30:01+00:00,867554017,866500506,1,Bonarov,Adolphe Marbot,
+2018-11-06T13:23:58+00:00,867553432,866500556,1,Bonarov,Marcellin Marbot,
+2018-11-02T16:01:25+00:00,866944193,855297194,1,Bonarov,Army of Italy (France),
+2018-11-02T15:48:38+00:00,866942466,861960305,1,Bonarov,Coup of 18 Brumaire,
+2018-11-02T15:26:56+00:00,866939755,864114077,1,Bonarov,Council of Ancients,
+2018-11-02T15:24:44+00:00,866939502,866529611,1,Bonarov,Army of the Eastern Pyrenees,
+2018-11-02T15:04:23+00:00,866937175,0,1,Bonarov,Talk:Jean Étienne Championnet,Bonarov moved page [[Talk:Jean Étienne Championnet]] to [[Talk:Jean-Étienne Championnet]]: Correct name
+2018-11-02T15:04:20+00:00,866937169,645853394,1,Bonarov,Talk:Jean-Étienne Championnet,Bonarov moved page [[Talk:Jean Étienne Championnet]] to [[Talk:Jean-Étienne Championnet]]: Correct name
+2018-11-02T15:04:19+00:00,866937166,0,1,Bonarov,Jean Étienne Championnet,Bonarov moved page [[Jean Étienne Championnet]] to [[Jean-Étienne Championnet]]: Correct name
+2018-11-02T15:04:19+00:00,866937165,866936450,1,Bonarov,Jean-Étienne Championnet,Bonarov moved page [[Jean Étienne Championnet]] to [[Jean-Étienne Championnet]]: Correct name
+2018-11-02T14:58:11+00:00,866936450,853236027,1,Bonarov,Jean-Étienne Championnet,
+2018-11-01T22:31:01+00:00,866844081,866843947,1,Bonarov,Gardes du Corps du Roi (France),
+2018-11-01T22:29:57+00:00,866843947,866842269,1,Bonarov,Gardes du Corps du Roi (France),
+2018-11-01T22:16:27+00:00,866842269,862608306,1,Bonarov,Gardes du Corps du Roi (France),
+2018-10-30T22:41:12+00:00,866533537,853497968,1,Bonarov,Jena–Auerstedt campaign order of battle,/* Imperial Guard */
+2018-10-30T22:40:47+00:00,866533489,796094246,1,Bonarov,Tyrol 1809 order of battle,/* Bavarian forces */
+2018-10-30T22:40:26+00:00,866533443,827239041,1,Bonarov,Abensberg 1809 order of battle,/* VII (Bavarian) Corps */
+2018-10-30T22:37:05+00:00,866533019,862964852,1,Bonarov,Army of Sambre and Meuse,/* Commanders */
+2018-10-30T22:36:27+00:00,866532942,855733367,1,Bonarov,Battle of Abensberg,
+2018-10-30T22:35:08+00:00,866532746,846335471,1,Bonarov,VII Corps (Grande Armée),/* April 1809 */
+2018-10-30T22:29:12+00:00,866532038,866531957,1,Bonarov,Jean Gabriel Marchand,/* Revolution */
+2018-10-30T22:28:31+00:00,866531957,866531797,1,Bonarov,Jean Gabriel Marchand,/* Revolution */
+2018-10-30T22:27:23+00:00,866531797,855196721,1,Bonarov,Jean Gabriel Marchand,/* Revolution */
+2018-10-30T22:26:57+00:00,866531732,866529503,1,Bonarov,Battle of Novi (1799),
+2018-10-30T22:12:07+00:00,866529766,847757890,1,Bonarov,Siege of Roses (1794–1795),
+2018-10-30T22:11:37+00:00,866529696,852396908,1,Bonarov,List of Marshals of the First French Empire,/* Portraits */
+2018-10-30T22:11:01+00:00,866529611,825494186,1,Bonarov,Army of the Eastern Pyrenees,/* 1794: French victories */
+2018-10-30T22:10:20+00:00,866529503,858360474,1,Bonarov,Battle of Novi (1799),
+2018-10-30T21:18:09+00:00,866522969,832178326,1,Bonarov,Henri François Delaborde,
+2018-10-30T21:17:39+00:00,866522910,866518359,1,Bonarov,Army of the Western Pyrenees,
+2018-10-30T20:46:13+00:00,866518542,860891546,1,Bonarov,War of the Pyrenees,/* Western Pyrenees */
+2018-10-30T20:45:44+00:00,866518454,855414417,1,Bonarov,Louis François Félix Musnier,/* Invasion of Spain */
+2018-10-30T20:45:04+00:00,866518359,866512159,1,Bonarov,Army of the Western Pyrenees,
+2018-10-30T20:44:26+00:00,866518285,843340691,1,Bonarov,Antoine Morlot,/* Empire */
+2018-10-30T19:59:14+00:00,866512277,705389081,1,Bonarov,Augustin de Lespinasse,
+2018-10-30T19:58:27+00:00,866512159,864046447,1,Bonarov,Army of the Western Pyrenees,
+2018-10-30T18:58:25+00:00,866504157,866468860,1,Bonarov,Luc Siméon Auguste Dagobert,
+2018-10-30T18:34:07+00:00,866500701,866314916,1,Bonarov,François Certain de Canrobert,
+2018-10-30T18:32:49+00:00,866500556,866500359,1,Bonarov,Marcellin Marbot,
+2018-10-30T18:32:24+00:00,866500506,866146216,1,Bonarov,Adolphe Marbot,
+2018-10-30T18:31:17+00:00,866500359,866146317,1,Bonarov,Marcellin Marbot,
+2018-10-30T14:42:14+00:00,866468860,736808907,1,Bonarov,Luc Siméon Auguste Dagobert,
+2018-10-29T02:59:49+00:00,866230822,866213970,1,Bonarov,Military governor of Paris,
+2018-10-29T02:18:17+00:00,866225818,866143746,1,Bonarov,François Certain de Canrobert,
+2018-10-29T00:41:46+00:00,866213970,866166051,1,Bonarov,Military governor of Paris,/* Military Governors of Paris after the French Revolution */
+2018-10-28T18:22:37+00:00,866166051,866165350,1,Bonarov,Military governor of Paris,
+2018-10-28T18:17:16+00:00,866165350,850426523,1,Bonarov,Military governor of Paris,Photos
+2018-10-28T15:45:45+00:00,866146317,857062352,1,Bonarov,Marcellin Marbot,
+2018-10-28T15:44:50+00:00,866146216,857062379,1,Bonarov,Adolphe Marbot,
+2018-10-28T15:24:44+00:00,866143746,866141252,1,Bonarov,François Certain de Canrobert,
+2018-10-28T15:03:23+00:00,866141252,865997452,1,Bonarov,François Certain de Canrobert,
+2018-10-27T15:55:12+00:00,865997452,865982518,1,Bonarov,François Certain de Canrobert,
+2018-10-27T13:39:34+00:00,865982518,865982370,1,Bonarov,François Certain de Canrobert,
+2018-10-27T13:38:05+00:00,865982370,865981842,1,Bonarov,François Certain de Canrobert,
+2018-10-27T13:32:42+00:00,865981842,865853130,1,Bonarov,François Certain de Canrobert,
+2018-10-26T16:22:42+00:00,865853130,865849989,1,Bonarov,François Certain de Canrobert,
+2018-10-26T15:57:21+00:00,865849989,865843356,1,Bonarov,François Certain de Canrobert,
+2018-10-26T15:51:04+00:00,865849199,852812001,1,Bonarov,Nadar,/* Gallery */
+2018-10-26T14:57:03+00:00,865843363,0,1,Bonarov,Talk:François Certain Canrobert,Bonarov moved page [[Talk:François Certain Canrobert]] to [[Talk:François Certain de Canrobert]]: Correct name
+2018-10-26T14:57:01+00:00,865843359,356200754,1,Bonarov,Talk:François Certain de Canrobert,Bonarov moved page [[Talk:François Certain Canrobert]] to [[Talk:François Certain de Canrobert]]: Correct name
+2018-10-26T14:57:00+00:00,865843358,0,1,Bonarov,François Certain Canrobert,Bonarov moved page [[François Certain Canrobert]] to [[François Certain de Canrobert]] over redirect: Correct name
+2018-10-26T14:56:59+00:00,865843356,851455194,1,Bonarov,François Certain de Canrobert,Bonarov moved page [[François Certain Canrobert]] to [[François Certain de Canrobert]] over redirect: Correct name
+2018-10-08T10:52:25+00:00,863046094,859914920,1,Bonarov,Antoine,
+2018-10-08T10:40:34+00:00,863045097,860807082,1,Bonarov,Jean-Baptiste,
+2018-10-08T10:30:01+00:00,863044173,815312735,1,Bonarov,Jean-Antoine,
+2018-04-15T11:07:34+00:00,836535314,827939098,1,Bonarov,Antoine Charles Louis de Lasalle,/* Interlude in France */
+2018-02-17T12:09:46+00:00,826137801,820631593,1,Bonarov,Marbot,
+2018-02-08T23:16:14+00:00,824699916,821076956,1,Bonarov,Altillac,
+2018-02-08T22:56:26+00:00,824697433,824696750,1,Bonarov,Beaulieu-sur-Dordogne,
+2018-02-08T22:51:16+00:00,824696750,824696033,1,Bonarov,Beaulieu-sur-Dordogne,People
+2018-02-08T22:45:11+00:00,824696033,792765567,1,Bonarov,Beaulieu-sur-Dordogne,
+2018-01-29T20:49:04+00:00,823016181,818154448,1,Bonarov,Jean-Antoine Marbot,/* Tribute */
+2017-12-27T18:12:49+00:00,817330711,817329237,1,Bonarov,Marbot,
+2017-12-27T17:59:58+00:00,817329237,817326539,1,Bonarov,Marbot,/* Literature */
+2017-12-27T17:36:06+00:00,817326539,817306709,1,Bonarov,Marbot,/* Literature */
+2017-12-27T17:35:24+00:00,817326492,817325791,1,Bonarov,Wolfgang Hildesheimer,
+2017-12-27T17:31:13+00:00,817325791,770550311,1,Bonarov,Wolfgang Hildesheimer,Infobox
+2017-12-27T14:50:32+00:00,817306709,817214495,1,Bonarov,Marbot,
+2017-12-21T21:04:34+00:00,816515835,804645379,1,Bonarov,Siege of Genoa (1800),
+2017-12-21T20:46:14+00:00,816513818,816274004,1,Bonarov,Jean-Antoine Marbot,
+2017-12-16T20:42:20+00:00,815740164,815707647,1,Bonarov,Bourbon Restoration in France,Undid revision 815707647 by [[Special:Contributions/Bonarov|Bonarov]] ([[User talk:Bonarov|talk]])
+2017-12-16T15:49:18+00:00,815707647,812329089,1,Bonarov,Bourbon Restoration in France,
+2017-12-13T20:30:58+00:00,815266475,813293422,1,Bonarov,Legislative Assembly (France),New medal
+2017-11-24T02:39:28+00:00,811803985,791176340,1,Bonarov,Duc de Montebello,/* References */
+2017-11-24T02:30:32+00:00,811802929,804644665,1,Bonarov,Battle of Orbaizeta,/* Battle */
+2017-11-24T02:26:08+00:00,811802582,803875405,1,Bonarov,Battle of Friedland,/* References */
+2017-11-24T02:23:21+00:00,811802370,802824314,1,Bonarov,The Battle (Rambaud novel),/* The book */
+2017-11-24T02:20:35+00:00,811802113,811236956,1,Bonarov,Spanish invasion of Portugal (1762),/* The reasons of a victory */
+2017-11-24T02:17:45+00:00,811801912,810796266,1,Bonarov,Army of the Western Pyrenees,
+2017-11-24T02:13:22+00:00,811801575,810697261,1,Bonarov,Order of battle of the Waterloo campaign,/* I Corps */
+2017-11-24T02:09:42+00:00,811801294,811801255,1,Bonarov,Battle of Eylau,/* Second day */
+2017-11-24T02:08:56+00:00,811801255,803536756,1,Bonarov,Battle of Eylau,/* First day */
+2017-11-24T02:06:16+00:00,811801046,808732994,1,Bonarov,Battle of Austerlitz,
+2017-11-24T02:02:54+00:00,811800805,806504978,1,Bonarov,Battle of Aspern-Essling,
+2017-11-24T01:59:20+00:00,811800457,810071771,1,Bonarov,Fire of Moscow (1812),
+2017-11-24T01:56:36+00:00,811800257,811800127,1,Bonarov,Marcellin Marbot,
+2017-11-24T01:54:55+00:00,811800127,811736685,1,Bonarov,Marcellin Marbot,
+2017-11-24T01:28:39+00:00,811797665,811795960,1,Bonarov,7th Hussar Regiment (France),/* The Napoleonic Wars */
+2017-11-23T23:05:19+00:00,811783417,717563417,1,Bonarov,"Joseph, Baron von Mesko de Felsö-Kubiny",
+2017-11-23T22:40:37+00:00,811780864,791235597,1,Bonarov,Army of the North (France),
+2017-11-23T08:24:55+00:00,811692511,770132841,1,Bonarov,Jean-Baptiste Bessières,
+2017-11-23T08:22:39+00:00,811692359,782560697,1,Bonarov,Charles-Pierre Augereau,
+2017-08-20T14:28:59+00:00,796390012,788555080,1,Bonarov,Frits Thaulow,Updated and corrected gallery
+2015-05-20T09:07:46+00:00,663234022,662753670,1,Bonarov,Luigi Veronelli,Photo description
+2015-05-17T11:15:49+00:00,662753670,662186030,1,Bonarov,Luigi Veronelli,New picture
+2019-07-17T11:38:35+00:00,906667990,906663220,1,Archivuswiki,Germaine de Staël,
+2019-07-17T11:24:40+00:00,906666804,906346531,1,Archivuswiki,Corinna,
+2019-07-17T10:46:37+00:00,906663220,906662702,1,Archivuswiki,Germaine de Staël,
+2019-07-17T10:40:38+00:00,906662702,904769278,1,Archivuswiki,Germaine de Staël,Reverted to previous image: Portrait by Vladimir Borovikovsky more suitable for this section relating to Germaine de Staël’s Eastern European travels (+ better visual quality and image size)
+2019-06-03T21:21:02+00:00,900165168,896856427,1,Archivuswiki,Paul Barras,
+2019-06-03T01:23:44+00:00,900041138,900037859,1,Archivuswiki,Marcellin Marbot,/* Napoleonic wars */
+2019-06-03T00:56:56+00:00,900037859,897887551,1,Archivuswiki,Marcellin Marbot,
+2019-06-03T00:54:08+00:00,900037515,897887974,1,Archivuswiki,Adolphe Marbot,
+2019-05-29T20:55:20+00:00,899407448,899406928,1,Archivuswiki,Jacques-François Menou,
+2019-05-29T20:51:19+00:00,899406928,899324625,1,Archivuswiki,Jacques-François Menou,"Reverted to previous version: Portrait by Joseph Ducreux more suitable for infobox (better visual quality and image size). Original, uncropped portrait by Jean-Baptiste Vérité very suitable in section about the French Revolution."
+2019-05-22T20:38:31+00:00,898326299,897889929,1,Archivuswiki,Jean-Antoine Marbot,
+2019-05-20T01:01:34+00:00,897889929,897879976,1,Archivuswiki,Jean-Antoine Marbot,
+2019-05-20T00:49:26+00:00,897887974,897882024,1,Archivuswiki,Adolphe Marbot,
+2019-05-20T00:46:41+00:00,897887551,897887240,1,Archivuswiki,Marcellin Marbot,
+2019-05-20T00:44:01+00:00,897887240,897886757,1,Archivuswiki,Marcellin Marbot,
+2019-05-20T00:39:05+00:00,897886757,897884748,1,Archivuswiki,Marcellin Marbot,
+2019-05-20T00:18:26+00:00,897884748,897879921,1,Archivuswiki,Marcellin Marbot,
+2019-05-19T23:57:55+00:00,897882024,897880033,1,Archivuswiki,Adolphe Marbot,
+2019-05-19T23:36:28+00:00,897880033,895216966,1,Archivuswiki,Adolphe Marbot,
+2019-05-19T23:35:54+00:00,897879976,895216116,1,Archivuswiki,Jean-Antoine Marbot,
+2019-05-19T23:35:22+00:00,897879921,895217560,1,Archivuswiki,Marcellin Marbot,
+2019-05-02T22:42:59+00:00,895241730,870679139,1,Archivuswiki,Emmanuel Crétet,
+2019-05-02T19:30:08+00:00,895217560,894267338,1,Archivuswiki,Marcellin Marbot,/* Decorations */
+2019-05-02T19:26:09+00:00,895216966,895152175,1,Archivuswiki,Adolphe Marbot,/* Decorations */
+2019-05-02T19:19:25+00:00,895216116,895215226,1,Archivuswiki,Jean-Antoine Marbot,
+2019-05-02T19:12:33+00:00,895215226,895214880,1,Archivuswiki,Jean-Antoine Marbot,
+2019-05-02T19:09:47+00:00,895214880,894269457,1,Archivuswiki,Jean-Antoine Marbot,
+2019-05-02T10:12:52+00:00,895152175,894269575,1,Archivuswiki,Adolphe Marbot,
+2019-03-01T21:17:31+00:00,885718363,876609201,1,Archivuswiki,Marbot family,
+2019-03-01T17:55:19+00:00,885692357,877870077,1,Archivuswiki,Jean-Antoine Marbot,
+2018-08-14T09:52:20+00:00,854867411,853198045,1,Archivuswiki,Aesop's Fables,Improved image
+2018-03-21T19:38:42+00:00,831685154,574671449,1,Archivuswiki,De Marbot,
+2018-01-02T12:59:05+00:00,818246035,818205824,1,Archivuswiki,Wikipedia:Changing username/Simple,
+2019-05-21T05:29:52+00:00,898068712,885718363,1,Famillemarbot,Marbot family,
+2019-05-20T20:37:48+00:00,898015662,882246784,1,Famillemarbot,Marbot,/* Marbot (surname) */
+2018-12-27T20:16:42+00:00,875609563,869084982,1,Famillemarbot,Marcellin Marbot,
+2017-12-11T20:13:51+00:00,814940397,814940054,1,Famillemarbot,Adolphe Marbot,
+2017-12-11T20:12:37+00:00,814940207,814930820,1,Famillemarbot,Jean-Antoine Marbot,
+2017-12-11T20:11:39+00:00,814940054,814798604,1,Famillemarbot,Adolphe Marbot,
+2017-12-11T19:11:20+00:00,814930820,814789923,1,Famillemarbot,Jean-Antoine Marbot,
+2017-12-11T00:24:53+00:00,814798604,811737727,1,Famillemarbot,Adolphe Marbot,
+2017-12-10T23:20:58+00:00,814789923,814479532,1,Famillemarbot,Jean-Antoine Marbot,
+2017-12-09T02:00:04+00:00,814479532,814479385,1,Famillemarbot,Jean-Antoine Marbot,
+2017-12-09T01:59:04+00:00,814479385,814479292,1,Famillemarbot,Jean-Antoine Marbot,
+2017-12-09T01:58:14+00:00,814479292,814479119,1,Famillemarbot,Jean-Antoine Marbot,
+2017-12-09T01:56:47+00:00,814479119,814365361,1,Famillemarbot,Jean-Antoine Marbot,
+2017-05-02T10:40:04+00:00,778311968,778309441,1,Famillemarbot,Adolphe Marbot,
+2017-05-02T10:36:25+00:00,778311574,764552059,1,Famillemarbot,Jean-Antoine Marbot,
+2017-05-02T10:11:59+00:00,778309441,702891743,1,Famillemarbot,Adolphe Marbot,Portrait added
+2016-05-20T23:05:42+00:00,721303663,676822855,0,BG19bot,1712 in France,/* Events */Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2017-10-03T06:30:15+00:00,803555515,799029231,0,Menacinghat,1775–1795 in Western fashion,modesty pieces
+2017-11-30T14:24:47+00:00,812893544,812893289,0,Mill 1,1736,/* Deaths */ Corrected erroneous date
+2018-12-17T20:34:26+00:00,874206187,874043748,0,Mill 1,1791,/* Deaths */ added entry
+2015-08-19T13:44:12+00:00,676837155,0,0,Oceanh,1771 in France,[[WP:AES|←]]Created page with '{{yearbox|  in?= in France| }}  Events from the year '''1771 in [[France]]'''  ==Incumbents== * [[List of French monarchs|Monarch]] &ndash; Louis XV of France|...'
+2016-02-17T18:34:37+00:00,705475137,704116087,0,128.230.246.111,A Vindication of the Rights of Woman,Grammar
+2016-03-03T19:20:26+00:00,708119834,700733151,0,Mdnavman,1806,/* January&ndash;June */ Added birth.
+2019-03-29T03:28:39+00:00,889964484,888173338,0,Zumalabe,1775–1795 in Western fashion,/* Spanish fashion */
+2015-08-20T14:34:42+00:00,677007600,0,0,Oceanh,1753 in France,[[WP:AES|←]]Created page with '{{yearbox|  in?= in France| }}  Events from the year '''1753 in [[France]]'''  ==Incumbents== * [[List of French monarchs|Monarch]] &ndash; Louis XV of France|...'
+2015-09-25T21:00:31+00:00,682760131,682759725,0,Syclp,1791,/* January&ndash;June */
+2016-09-30T14:15:29+00:00,741919855,740530650,0,18.138.1.194,1775–1795 in Western fashion,/* Working-class clothing */
+2016-05-25T15:56:02+00:00,722037947,721895353,0,217.20.42.14,1775–1795 in Western fashion,/* Overview */ typo
+2019-01-05T20:38:10+00:00,876988429,876914360,0,Mill 1,1806,/* July&ndash;December */ added entry
+2018-05-04T18:16:05+00:00,839638164,839621191,0,AnomieBOT,7th Hussar Regiment (France),Dating maintenance tags: {{References}}
+2013-11-11T23:46:58+00:00,581256799,581256752,0,TorpetLegionary,7th Hussar Regiment (France),
+2018-04-06T11:35:49+00:00,834560111,813051097,0,Simon Peter Hughes,A Vindication of the Rights of Woman,/* External links */ Removing duplicate link to Wikisource.
+2017-11-11T03:09:13+00:00,809742317,809742213,0,MapleStreet,1736,Put period inside of quotation marks.
+2015-08-19T11:29:13+00:00,676822855,0,0,Oceanh,1712 in France,[[WP:AES|←]]Created page with '{{yearbox|  in?= in France| }}  Events from the year '''1712 in [[France]]'''  ==Incumbents== * [[List of French monarchs|Monarch]] &ndash; Louis XIV of France...'
+2015-08-03T19:08:00+00:00,674409132,611641028,0,Hampton11235,Abensberg 1809 order of battle,"Typo fix, replaced: External references → External links using [[Project:AWB|AWB]]"
+2017-05-24T10:21:31+00:00,781992717,761379338,0,Magic links bot,Abensberg 1809 order of battle,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2016-02-02T06:50:02+00:00,702891743,698938138,0,KasparBot,Adolphe Marbot,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Antoine Adolphe Marcelin Marbot|challenges for this article]]"
+2014-10-13T16:30:54+00:00,629455557,574671458,0,Waacstats,Adolphe Marbot,Persondata
+2017-12-25T13:22:55+00:00,817018401,816394452,0,Histoiremarbot,Adolphe Marbot,
+2018-02-23T15:44:10+00:00,827239041,781992717,0,Jip Orlando,Abensberg 1809 order of battle,remove redundant text
+2018-02-19T03:51:14+00:00,826445053,808648311,0,DavidBrooks-AWB,"Adam Philippe, Comte de Custine",Correct wstitle using [[Project:AWB|AWB]]
+2017-12-21T01:59:34+00:00,816394452,816354591,0,Histoiremarbot,Adolphe Marbot,
+2015-09-29T07:28:27+00:00,683274809,669453921,0,PMLawrence,"Adam Philippe, Comte de Custine","Wrong accent, typo, not a compound word, etc."
+2018-07-05T07:17:47+00:00,848917885,848917757,0,Rcb1,Adolphe Marbot,amended category
+2017-07-27T17:41:30+00:00,792631836,778311968,0,Suslindisambiguator,Adolphe Marbot,/* References */ added wstitle for EB1911 article
+2018-03-18T12:06:27+00:00,831045337,817018401,0,Wikimarbot,Adolphe Marbot,
+2015-05-02T10:51:37+00:00,660408333,638155584,0,KasparBot,Albert Jean Michel de Rocca,authority control moved to wikidata
+2017-11-19T00:02:08+00:00,811013681,810675505,0,Histoiremarbot,Adolphe Marbot,Infobox
+2016-02-17T03:49:12+00:00,705378655,660408333,0,KasparBot,Albert Jean Michel de Rocca,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Albert Jean Michel de Rocca|challenges for this article]]"
+2018-08-19T16:38:42+00:00,855617353,855577836,0,FieldMarine,Aesop's Fables,/* Musical treatments */ + link.
+2017-02-21T19:47:48+00:00,766723891,766723826,0,Oshwah,Aesop's Fables,Reverted edits by [[Special:Contributions/2600:100C:B225:E39E:ACEB:7E66:113C:7BBB|2600:100C:B225:E39E:ACEB:7E66:113C:7BBB]] ([[User talk:2600:100C:B225:E39E:ACEB:7E66:113C:7BBB|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2018-05-14T04:09:21+00:00,841113464,824699916,0,DeprecatedFixerBot,Altillac,"Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of ""cols"" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))"
+2017-07-28T14:47:25+00:00,792765444,788701794,0,Markussep,Altillac,arrondissement using [[Project:AWB|AWB]]
+2016-07-12T15:08:05+00:00,729489991,729104854,0,Jdcrutch,Amédée Willot,/* top */ Rm editorializing epithet.
+2018-05-26T16:12:31+00:00,843063004,800215249,0,Tom.Reding,Amédée Willot,"+{{[[Template:Authority control|Authority control]]}} (4 sources from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]"
+2015-09-07T02:57:46+00:00,679839229,670762010,0,Djmaschek,Amédée Willot,"/* Exile and return */ ""Soon after he"" > ""Soon afterward, he""."
+2016-02-24T11:59:09+00:00,706633909,694120352,0,KasparBot,Anders Beer Wilse,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Anders Beer Wilse|challenges for this article]]"
+2015-09-16T13:42:02+00:00,681311831,677335720,0,AvicBot,Anders Beer Wilse,Bot: Fixing commonscat per [[:Category:Commons category template with no category set]]. ([[User talk:Avicennasis|Report error]])
+2016-03-10T06:41:17+00:00,709311848,703651931,0,KasparBot,André-Daniel Laffon de Ladebat,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/André-Daniel Laffon de Ladebat|challenges for this article]]"
+2018-10-12T07:39:19+00:00,863672490,863046094,0,Ddjingjing,Antoine,/* As a first name */
+2018-04-17T19:05:42+00:00,836937737,835544146,0,66.112.177.234,Antoine,/* As a first name */
+2016-12-11T18:36:28+00:00,754260227,750077015,0,69.119.220.6,Antoine Charles Louis de Lasalle,
+2017-08-18T20:15:11+00:00,796146516,789631888,0,DavidBrooks-AWB,Antoine Charles Louis de Lasalle,+EB1911 page number; ce using [[Project:AWB|AWB]]
+2017-10-15T03:32:02+00:00,805399353,804601472,0,Michael Frind,Antoine Lavoisier,/* Sponsorship of the sciences */ Minor wording
+2018-12-09T22:33:23+00:00,872895180,870374951,0,Sandbh,Antoine Lavoisier,/* top */ Errancis Cemetery was closed in 1797; the skeletal remains were subsequently moved to the Catacombs of France
+2015-10-16T00:54:52+00:00,685949972,685947916,0,Materialscientist,Antoine Lavoisier,Reverted edits by [[Special:Contribs/71.251.38.239|71.251.38.239]] ([[User talk:71.251.38.239|talk]]) to last version by DMacks
+2016-08-20T19:35:51+00:00,735446199,735445833,0,Mayas h,Antoine Lavoisier,/* Post-mortem */
+2016-12-21T13:06:14+00:00,756009351,751993851,0,Billinghurst,Antoine Lavoisier,/* External links */remove parameters following WD-ified {{wikisource author-inline}} using [[Project:AWB|AWB]]
+2016-08-01T10:28:35+00:00,732495265,725728638,0,Dewritech,Antoine Morlot,"clean up, [[WP:AWB/T|typo(s) fixed]]: cannon balls → cannonballs using [[Project:AWB|AWB]]"
+2015-05-05T00:53:59+00:00,660866106,659417201,0,KasparBot,Antoine Quentin Fouquier-Tinville,authority control moved to wikidata
+2016-06-29T19:51:52+00:00,727560412,727560383,0,Jllm06,Arc de Triomphe,removed [[Category:17th arrondissement of Paris]]; added [[Category:Buildings and structures in the 17th arrondissement of Paris]] using [[WP:HC|HotCat]]
+2015-07-20T16:40:28+00:00,672294466,574087868,0,54.240.196.170,Army of Italy (France),
+2018-08-17T08:28:39+00:00,855297194,836840681,0,Ricbep,Army of Italy (France),/* History */
+2015-06-13T01:07:34+00:00,666700273,594646777,0,Srnec,Army of Sambre and Meuse,image
+2017-07-29T18:36:09+00:00,792942229,792939601,0,AnomieBOT,Arc de Triomphe,Dating maintenance tags: {{Ref improve}}
+2015-09-07T20:56:16+00:00,679956383,668009620,0,Djmaschek,Army of the Eastern Pyrenees,"/* 1793: Invasion and defeats */ Add Battle of Collioure, Fort Saint-Elme & Port-Vendres links."
+2019-05-01T05:10:38+00:00,894970816,869455455,0,InternetArchiveBot,Army of the Eastern Pyrenees,Rescuing 0 sources and tagging 3 as dead. #IABot (v2.0beta14)
+2017-07-19T00:07:29+00:00,791235597,785375602,0,Calliopejen1,Army of the North (France),Reverted edits by [[Special:Contribs/Ettrig|Ettrig]] ([[User talk:Ettrig|talk]]) to last version by Magic links bot
+2016-08-24T00:17:53+00:00,735921193,713924771,0,Alex Daily,Army of the North (France),/* References */ That's not what that word means here.
+2016-09-21T04:22:19+00:00,740450762,679686230,0,Zorion,Army of the Western Pyrenees,
+2013-03-19T17:36:52+00:00,545473657,433533057,0,Addbot,Army of the West (France),"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2862892]]"
+2015-09-06T04:38:08+00:00,679686230,670423157,0,Djmaschek,Army of the Western Pyrenees,/* Commanders */ Add Bourdonnaye link.
+2016-10-29T18:24:19+00:00,746810585,740450762,0,Bender the Bot,Army of the Western Pyrenees,/* References */http&rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]
+2018-10-31T00:47:16+00:00,866547729,866522910,0,Kozam,Army of the Western Pyrenees,/* Operations */
+2018-02-13T17:53:19+00:00,825488136,811801912,0,Tom.Reding,Army of the Western Pyrenees,"Fix [[:Category:Pages using deprecated image syntax]]; [[WP:GenFixes]] on, using [[Project:AWB|AWB]]"
+2014-12-02T23:48:59+00:00,636387807,616595964,0,WQUlrich,Assembly of Vizille,/* Day of the Tiles */ link
+2018-03-14T21:49:31+00:00,830447010,830378775,0,Bmcln1,August Wilhelm Schlegel,typo
+2017-02-11T12:54:01+00:00,764877006,764864718,0,AnomieBOT,August Wilhelm Schlegel,Dating maintenance tags: {{Cn}}
+2016-02-17T05:38:05+00:00,705389081,680498367,0,TAnthony,Augustin de Lespinasse,"Update Infobox template image parameter to bare filename per template documentation, and other cleanup using [[Project:AWB|AWB]]"
+2015-05-10T20:02:43+00:00,661740830,661610760,0,Giraffedata,Bamberg,[[User:Giraffedata/comprised of|comprised of]]
+2019-06-02T11:33:44+00:00,899941752,898865115,0,InternetArchiveBot,Bamberg,Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta15)
+2018-05-29T02:38:23+00:00,843426534,835413829,0,Clarityfiend,Barthélemy Catherine Joubert,/* 1796–97 */ -italics and spaces
+2016-01-31T20:06:36+00:00,702634553,672862436,0,KasparBot,Barthélemy Catherine Joubert,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Barthélemy Catherine Joubert|challenges for this article]]"
+2018-04-08T15:38:07+00:00,835413829,787781803,0,Jdaloner,Barthélemy Catherine Joubert,Updated two piped links.
+2016-03-25T10:22:19+00:00,711863758,709492521,0,Magioladitis,Battle of Abensberg,/* References */clean up using [[Project:AWB|AWB]] (11979)
+2017-05-01T22:42:51+00:00,778244006,778208296,0,Aciram,Bathilde d'Orléans,Undid revision 778208296 by [[Special:Contributions/50.5.93.225|50.5.93.225]] ([[User talk:50.5.93.225|talk]])
+2015-07-16T03:36:07+00:00,671652838,611641014,0,Midas02,Battle of Abensberg,Disambiguating links to [[Rottenburg]] (link changed to [[Rottenburg an der Laaber]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2015-11-04T21:57:47+00:00,689090757,689089641,0,Cydebot,Bathilde d'Orléans,Robot - Removing category Members of Masonic Lodges of Adoption per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2015 October 24]].
+2015-07-09T18:50:46+00:00,670713434,669454175,0,WQUlrich,Battle of Aspern-Essling,link
+2015-08-10T06:08:49+00:00,675375997,670713434,0,Yobot,Battle of Aspern-Essling,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (11362)
+2019-02-01T03:47:36+00:00,881212841,874581308,0,Carmen 1977,Battle of Austerlitz,/* Preliminary moves */
+2015-10-24T22:07:13+00:00,687332903,686448586,0,76.68.10.100,Battle of Eylau,"Fixed an instance of ""Lestoq"" --> ""L'Estocq"" so the article is consistent."
+2019-03-14T03:37:59+00:00,887676488,881212841,0,DannyS712,Battle of Austerlitz,"Adding local [[Wikipedia:Short description|short description]]: ""A battle of the Napoleonic Wars"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2018-07-09T13:27:25+00:00,849505691,849505557,0,Arado,Battle of Eylau,/* Prelude */
+2018-01-05T07:37:48+00:00,818735723,816844853,0,Mild Bill Hiccup,Battle of Eylau,/* Second day */ Spelling/grammar correction
+2019-01-03T12:12:46+00:00,876620007,867533498,0,Chuntuk,Battle of Friedland,"Added ""main"" link from ""Results"" section to ""Treaties of Tilsit"" article"
+2018-10-15T13:45:17+00:00,864159541,863343044,0,Tom.Reding,Battle of Friedland,"[[WP:GenFixes]] on, [[WP:AWB/T|typo(s) fixed]]: n’s → n's"
+2017-10-03T03:04:37+00:00,803536756,802307563,0,Banedon,Battle of Eylau,/* First day */ Syntax fix
+2018-05-25T03:47:04+00:00,842855600,804645297,0,Djmaschek,Battle of Genola,"/* Operations */ Add Andreas Karaczay, 2nd Novi & 3rd Novi links."
+2014-11-22T11:17:41+00:00,634950345,624065089,0,Blaue Max,Battle of Fère-Champenoise,
+2014-06-18T00:49:31+00:00,613360246,613232428,0,Djmaschek,Battle of Genola,Add Italy campaignbox. Add Results section.
+2017-10-10T08:34:43+00:00,804645391,804508176,0,Cydebot,Battle of Marengo,Robot - Removing category 1800 events per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 September 24]].
+2015-11-19T19:55:25+00:00,691429664,691429427,0,Natg 19,Battle of Marengo,Undid revision 691429427 by [[Special:Contributions/207.195.79.250|207.195.79.250]] ([[User talk:207.195.79.250|talk]])
+2016-07-06T10:46:46+00:00,728595903,728595179,0,Anadessma,Battle of Marengo,/* Propaganda */
+2017-07-21T00:18:37+00:00,791550816,790796679,0,BobHalford806,Battle of Marengo,Undid revision 776945718 by [[Special:Contributions/Aunaud Hussard|Aunaud Hussard]] ([[User talk:Aunaud Hussard|talk]])
+2017-03-11T13:00:03+00:00,769754138,760232739,0,Tim!,Battle of Haguenau,+[[Category:November 1793 events]]; +[[Category:December 1793 events]] using [[WP:HC|HotCat]]
+2014-12-06T14:50:46+00:00,636889653,636718325,0,Djmaschek,Battle of Novi (1799),/* Background */ Add Rosenberg link.
+2018-04-04T18:23:24+00:00,834248946,825223672,0,Eric Corbett,Battle of Novi (1799),"/* top */clean up, replaced: located in → in using [[Project:AWB|AWB]]"
+2018-11-18T06:08:10+00:00,869377678,866531732,0,Djmaschek,Battle of Novi (1799),/* Background */ Add Wilhelm Derfelden link.
+2016-07-09T06:18:36+00:00,729010180,729009776,0,LouisAragon,Battle of Novi (1799),moved refs/info
+2016-09-21T04:19:22+00:00,740450423,740450392,0,Zorion,Battle of Orbaizeta,Zorion moved page [[Battle of Orbaitzeta]] to [[Battle of Orbaizeta]]
+2017-11-12T05:04:23+00:00,809896932,804645314,0,95.235.28.105,Battle of Novi (1799),/* See also */
+2019-05-16T12:05:59+00:00,897343358,884185855,0,Inctructor,Battle of Novi (1799),
+2018-02-11T17:21:36+00:00,825127000,811802929,0,Tom.Reding,Battle of Orbaizeta,"Fix [[:Category:Pages using deprecated image syntax]]; [[WP:GenFixes]] on, using [[Project:AWB|AWB]]"
+2016-03-23T21:29:35+00:00,711607033,679557687,0,Bender235,Battle of Rovereto,clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]
+2016-10-07T20:49:24+00:00,743102319,711607033,0,Iseult,Battle of Rovereto,/* Result */ whitespace
+2017-10-04T01:27:56+00:00,803692722,785215338,0,180.71.85.115,Battle of Trebbia (1799),Added a commander to the list
+2017-03-15T22:01:27+00:00,770515952,769756284,0,Rich Farmbrough,Battle of Trebbia (1799),Date format. using [[Project:AWB|AWB]]
+2018-09-29T09:27:48+00:00,861695696,841938884,0,Khruner,Battle of Trebbia (1799),added [[Category:Battles in Emilia-Romagna]] using [[WP:HC|HotCat]]
+2016-03-26T01:53:56+00:00,711970424,704375005,0,45.51.167.246,Battle of Trebbia (1799),/* Result */
+2016-03-03T04:58:15+00:00,708028067,700300156,0,Checkn8,Battle of Wattignies,
+2018-08-11T17:26:47+00:00,854479509,825222577,0,2A01:CB06:485:A300:6C89:C33C:DFD2:9338,Battle of Wattignies,
+2016-07-04T02:56:41+00:00,728227187,727262749,0,ImageRemovalBot,Battle of Wattignies,Removing links to deleted file [[:File:Count of Clerfayt.jpg]]
+2017-06-12T08:11:45+00:00,785221927,772443906,0,Cydebot,Battle of Wattignies,Robot - Moving category October 1793 events‎ to [[:Category:1793 events‎]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 May 26]].
+2019-04-04T19:18:40+00:00,890970227,888491193,0,Conlinp,Beaulieu-sur-Dordogne,/* Middle ages */ fixed
+2017-07-28T14:48:24+00:00,792765567,785271449,0,Markussep,Beaulieu-sur-Dordogne,arrondissement using [[Project:AWB|AWB]]
+2015-09-17T00:05:20+00:00,681399321,667934715,0,AvicBot,Beaulieu-sur-Dordogne,Bot: Fixing commonscat per [[:Category:Commons category template with no category set]]. ([[User talk:Avicennasis|Report error]])
+2017-11-28T15:00:05+00:00,812559315,811860263,0,InternetArchiveBot,Benjamin Constant,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])
+2017-01-06T01:42:11+00:00,758539788,758531460,0,Quisqualis,Benjamin Constant,/* Political philosophy */ caption detail
+2018-07-09T11:37:41+00:00,849493867,824697433,0,Conlinp,Beaulieu-sur-Dordogne,updated mayoral details
+2019-05-04T22:22:08+00:00,895531422,895094813,0,85.168.239.79,Benjamin Constant,Classical more precisely.
+2015-05-05T02:28:36+00:00,660878245,659545069,0,KasparBot,Benjamin Constant,authority control moved to wikidata
+2019-02-19T00:41:12+00:00,884016675,884014289,0,Magyar25,Bourbon Restoration in France,/* {{anchor|Second Restoration}}Second Restoration (1815) */
+2018-10-12T13:27:08+00:00,863703731,861805447,0,80.187.109.80,Bourbon Restoration in France,/* Constitutionnels and Doctrinaires */
+2017-01-04T22:18:35+00:00,758349447,758339783,0,Funnyhat,Bourbon Restoration in France,"/* Charles X, 1824–1830 */"
+2017-08-26T15:23:40+00:00,797359674,795908294,0,Cb6,Bourbon Restoration in France,/* The Hundred Days */ Clarified grammar.
+2016-03-24T17:53:34+00:00,711756947,681662458,0,203.76.147.146,Brigadier Gerard,
+2015-05-18T19:39:13+00:00,662980028,662979957,0,Jack Breeze,Brigadier Gerard,/* Stories */
+2018-10-05T06:32:40+00:00,862567371,783191339,0,A22234798,Castiglione 1796 campaign order of battle,/* French Army */
+2015-09-09T17:56:55+00:00,680253163,680252627,0,Lekoren,Catherine-Dominique de Pérignon,Category
+2017-05-31T17:59:28+00:00,783191339,731954243,0,Magic links bot,Castiglione 1796 campaign order of battle,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2017-08-01T09:03:49+00:00,793363894,713364532,0,Sodacan,Catherine-Dominique de Pérignon,vectorize ([[Commons:Commons:GlobalReplace|GlobalReplace v0.6.5]])
+2016-07-06T17:47:07+00:00,728644165,711493241,0,Bender235,Characters of Shakespear's Plays,/* External links */clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]
+2017-02-26T06:30:14+00:00,767488642,767423207,0,Alan W,Characters of Shakespear's Plays,Undid revision 767423207 by [[Special:Contributions/Ira Leviton|Ira Leviton]] ([[User talk:Ira Leviton|talk]]) These are not spelling errors. They are quotations from earlier sources with older spellings.
+2017-03-30T17:42:13+00:00,773002076,772896377,0,Chris Archer,Charles-Augustin de Coulomb,Undid revision 772896377 by [[Special:Contributions/179.42.171.2|179.42.171.2]] ([[User talk:179.42.171.2|talk]]) vandalism
+2017-08-20T20:01:01+00:00,796431387,789210917,0,Onel5969,Charles Malo François Lameth,Disambiguating links to [[National Constituent Assembly]] (link changed to [[National Constituent Assembly (France)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2016-06-20T15:13:35+00:00,726179269,726178911,0,RA0808,Charles-Augustin de Coulomb,Reverted edits by [[Special:Contributions/192.230.255.110|192.230.255.110]] ([[User talk:192.230.255.110|talk]]): Nonconstructive editing ([[WP:HG|HG]]) (3.1.20)
+2018-05-20T06:37:44+00:00,842099593,830877951,0,ชาวไทย,Charles Edward Jennings,Correct The Irish and French Flags.
+2018-11-12T13:32:45+00:00,868482072,864931945,0,Necrothesp,Charles-François Lebrun,"Necrothesp moved page [[Charles-François Lebrun, duc de Plaisance]] to [[Charles-François Lebrun]] over redirect: common name"
+2019-05-08T02:41:42+00:00,896046006,883791693,0,Gouldianf,Charles-François Lebrun,Fine instrument collection added
+2017-08-30T12:35:51+00:00,798007686,795181704,0,KolbertBot,Charles Edward Jennings,Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]
+2016-02-01T15:46:47+00:00,702768427,688880635,0,KasparBot,Charles-Pierre Augereau,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Pierre Augereau|challenges for this article]]"
+2017-12-26T01:19:23+00:00,817083909,811692359,0,Histoiremarbot,Charles-Pierre Augereau,/* French Revolutionary Wars */
+2016-04-02T16:55:37+00:00,713208871,702768427,0,LiamKasbar,Charles-Pierre Augereau,
+2017-05-27T18:23:26+00:00,782560697,740472986,0,Magic links bot,Charles-Pierre Augereau,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2015-10-16T10:39:40+00:00,686003570,684301695,0,Colonies Chris,Charles-Pierre Augereau,
+2016-09-21T08:18:43+00:00,740472986,724900859,0,Eusebius,Charles-Pierre Augereau,"/* Napoleonic Wars */ same bust, better lighting (I hope)"
+2017-04-13T13:48:10+00:00,775221861,775221763,0,50.5.93.225,Charlotte Louise de Rohan,/* Coats of arms */
+2015-12-12T17:24:31+00:00,694936455,694910421,0,77.46.245.181,Charlotte Louise de Rohan,
+2017-03-28T21:51:51+00:00,772711572,724336804,0,Oskar71,Claude Ambroise Régnier,
+2018-10-28T23:29:25+00:00,866205701,866205382,0,Materialscientist,Committee of Public Safety,Reverted 1 edit by [[Special:Contributions/104.169.226.30|104.169.226.30]] identified as test/vandalism using [[WP:STiki|STiki]]
+2015-07-23T20:53:13+00:00,672783595,670263520,0,Rms125a@hotmail.com,"Claude Antoine, comte Prieur-Duvernois",rv deprecated persondata per https://en.wikipedia.org/wiki/Wikipedia_talk:Persondata
+2015-06-01T21:17:59+00:00,665073615,665073592,0,ClueBot NG,Committee of Public Safety,"Reverting possible vandalism by [[Special:Contributions/162.78.0.42|162.78.0.42]] to version by Gobonobo. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (2259752) (Bot)"
+2016-01-13T02:53:28+00:00,699567021,699566975,0,General Ization,Committee of Public Safety,Reverted 1 edit by [[Special:Contributions/104.148.240.12|104.148.240.12]] ([[User talk:104.148.240.12|talk]]) to last revision by General Ization. ([[WP:TW|TW]])
+2017-04-24T21:42:07+00:00,777039788,776939246,0,Dhtwiki,Committee of Public Safety,slightly copy-editing lead
+2019-03-25T16:24:40+00:00,889424063,885394856,0,Holly Cheng,Committee of Public Safety,section has no references
+2018-04-02T02:33:30+00:00,833720917,823100577,0,Darthkenobi0,Committee of Public Safety,Could be conflated as meaning that the month was particularly associated with revolutionary activity
+2018-09-22T06:29:10+00:00,860661339,860285490,0,AddMore-III,Committee of Public Safety,
+2017-11-07T07:53:41+00:00,809126138,761459095,0,Cote d'Azur,Coppet,/* References */
+2019-04-20T20:10:11+00:00,893354174,893353383,0,ArbieP,Coppet,/* Twin Towns */ twin town with flag icons into two boxes
+2018-03-05T14:14:51+00:00,828910202,828909439,0,Dejvid,Corinna,/* Reception */ page of reff
+2015-05-20T00:46:31+00:00,663176476,662218994,0,KasparBot,Corinna,embed authority control with wikidata information
+2017-05-01T11:42:03+00:00,778143030,778142981,0,Mccapra,Council of Ancients,
+2015-07-01T08:50:10+00:00,669453852,667970188,0,Bender235,Coup of 18 Brumaire,clean up; http->https after permanent move of Wikimedia to [[HTTPS]] using [[Project:AWB|AWB]]
+2017-07-27T14:21:36+00:00,792605720,790243162,0,Display name 99,Coup of 18 Brumaire,"/* Events of 18 Brumaire, Year VIII */ No periods in captions unless they follow complete sentences."
+2017-08-13T05:20:21+00:00,795277608,795250050,0,RussBot,Césarine Davin-Mirvault,Robot: [[WP:DPL|fix links]] to disambiguation page [[French]]
+2015-07-03T05:44:19+00:00,669739120,669589674,0,Ser Amantio di Nicolao,Césarine Davin-Mirvault,/* References */add category using [[Project:AWB|AWB]]
+2016-01-27T12:54:41+00:00,701933428,684107195,0,Marcus Cyron,Dauphine of France,"([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Charlotte-de-Savoie.jpg]] → [[File:Margaret Stuart Dauphine of France.jpg]] <span style=""color:red;"">You need to input a value between 1 and 6 which corresponds to the [[c:COM:FR#reasons|file renaming c..."
+2016-01-03T21:28:45+00:00,698074193,692933074,0,Steverci,Dagobert Sigmund von Wurmser,
+2013-09-26T23:25:46+00:00,574671449,306183962,0,ArmbrustBot,De Marbot,"re-categorisation per [[WP:CFDS|CFDS]], replaced: Category:Marbot Family → Category:Marbot family using [[Project:AWB|AWB]]"
+2019-01-30T22:04:36+00:00,881013301,868387144,0,174.107.125.174,Declaration of the Rights of Woman and of the Female Citizen,/* United Kingdom */
+2016-06-13T06:55:40+00:00,725048707,725030518,0,Bgwhite,Declaration of the Rights of Woman and of the Female Citizen,Reverted to revision 722226208 by [[Special:Contributions/Omnipaedista|Omnipaedista]] ([[User talk:Omnipaedista|talk]]). ([[WP:TW|TW]])
+2017-07-18T16:30:19+00:00,791176340,777667951,0,Lourdes,Duc de Montebello,clean up and fixes
+2015-09-12T13:33:25+00:00,680679063,666250903,0,Wieralee,Duc de Montebello,"([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Jean Charles Nicaise Perrin 001.jpg]] → [[File:Lannes par Volpeliere.jpg]] [[c:COM:FR#reasons|File renaming criterion #3]]: To correct obvious errors in file names, including misspelled [[c::en:Noun#Pro..."
+2015-10-13T19:58:34+00:00,685596923,669299329,0,TonyTheTiger,Elements of the Philosophy of Newton,/* External links */  {{Isaac Newton}}
+2016-12-11T23:39:49+00:00,754309933,685596923,0,Faolin42,Elements of the Philosophy of Newton,"-> By, Descartes, Galileo, Cartesianism, sufficient"
+2016-07-13T20:07:06+00:00,729673239,724332374,0,Bender235,Emmanuel Crétet,/* References */clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]
+2017-07-06T01:19:42+00:00,789210733,729673239,0,BrownHairedGirl,Emmanuel Crétet,Remove [[Category:French politicians]] -- already in a sub-category of [[:Category:Political office-holders in France]] (see [[WP:SUBCAT]]) using [[Project:AWB|AWB]]
+2018-04-24T20:19:25+00:00,838081381,789210733,0,Tom.Reding,Emmanuel Crétet,"+{{[[Template:Authority control|Authority control]]}} (6 sources from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]"
+2016-06-08T15:18:36+00:00,724332374,609199540,0,KasparBot,Emmanuel Crétet,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Emmanuel Crétet|challenges for this article]]"
+2018-08-15T21:01:49+00:00,855086348,855085622,0,Devadatta Joardar,Erik Magnus Staël von Holstein,/* Children */Spelling
+2018-12-17T01:35:31+00:00,874086087,874084152,0,KatnissEverdeen,Estates General of 1789,Reverted 1 edit by [[Special:Contributions/2606:A000:1321:C136:9C48:444:6522:E73A|2606:A000:1321:C136:9C48:444:6522:E73A]] ([[User talk:2606:A000:1321:C136:9C48:444:6522:E73A|talk]]) to last revision by Randy Kryn. ([[WP:TW|TW]])
+2015-07-29T19:44:04+00:00,673680376,669454936,0,Iridescent,Estates General of 1789,"/* Elections of early Spring 1789 */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: Consequently → Consequently, using [[Project:AWB|AWB]]"
+2015-09-07T03:19:23+00:00,679841858,660136868,0,Midas02,Erik Magnus Staël von Holstein,Disambiguating links to [[Herman Lindqvist]] (link changed to [[Herman Lindqvist (journalist)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2019-02-10T04:33:11+00:00,882592995,874086087,0,Vycl1994,Estates General of 1789,/* Elections of early Spring 1789 */
+2018-08-21T17:40:08+00:00,855914397,855613625,0,Darthkenobi0,Estates General of 1789,
+2018-02-24T13:42:52+00:00,827393831,827322382,0,Bmcln1,Eugène de Beauharnais,Undid revision 827322382 by [[Special:Contributions/47.202.22.186|47.202.22.186]] ([[User talk:47.202.22.186|talk]])Hardly an improvement. Riddled with typos.
+2018-06-13T09:18:12+00:00,845663905,835146438,0,Rcb1,Eugène de Beauharnais,amended category
+2018-04-01T13:02:11+00:00,833582372,812556536,0,86.13.185.246,Fabre d'Églantine,/* References */
+2016-09-06T01:46:09+00:00,737953474,734040621,0,Ser Amantio di Nicolao,Fabre d'Églantine,[[Help:Cat-a-lot|Cat-a-lot]]: Copying from [[Category:Deputies to the French National Convention]] to [[Category:18th-century French politicians]]
+2018-07-20T08:00:54+00:00,851126945,848118812,0,2601:204:D400:7310:AC4B:82DF:A537:AD53,Fall of the Republic of Venice,
+2016-02-10T20:52:39+00:00,704308921,698720776,0,Doug Weller,Fire of Moscow (1812),/* Causes */restore text deleted Dec 24th
+2018-12-07T05:17:37+00:00,872423814,866651121,0,Niceguyedc,Fire of Moscow (1812),v2.0 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Theatre Square]] / [[WP:WCW]] project (Spelling and typography)
+2015-04-06T19:11:32+00:00,655228526,655227848,0,Auntieruth55,First Battle of Wissembourg,/* Austrian-Allied Army */ ed links
+2016-04-01T22:52:08+00:00,713097456,679558093,0,BG19bot,First Battle of Wissembourg,Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2015-03-21T21:03:05+00:00,652926299,652925134,0,Djmaschek,Fleurus 1794 order of battle,/* Army of the North */ Expand divisions Daurier & Dubois.
+2019-06-21T15:53:36+00:00,902835018,902694305,0,Mikeblas,François Certain de Canrobert,fix duplicate ref def due to edits by [[User:Chris the speller]]
+2016-05-18T19:09:51+00:00,720919410,702678801,0,Steverci,François Certain de Canrobert,
+2018-11-24T05:59:06+00:00,870352798,870233304,0,Lotje,François Certain de Canrobert,-red wikilink in see also section
+2015-06-03T11:23:17+00:00,665310188,664698392,0,Cydebot,François Certain de Canrobert,Robot - Removing category Knights of the Royal Order of the Seraphim per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2015 May 24]].
+2017-01-07T15:39:10+00:00,758783933,720919410,0,209.93.208.176,François Certain de Canrobert,date format as per infobox
+2018-02-25T14:59:55+00:00,827577298,818007888,0,OJOM,François Certain de Canrobert,
+2019-03-15T00:54:13+00:00,887815252,887815078,0,Hannaford,François Certain de Canrobert,/* Passage to the Legion */
+2015-12-15T15:58:25+00:00,695368943,681698972,0,Comes Dunelmensis,François Certain de Canrobert,
+2017-11-25T00:08:43+00:00,811948494,811720884,0,GoingBatty,François Certain de Canrobert,"v1.43 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Nadar]], 2 to be fixed - [[Dean]], [[Louis-Napoléon Bonaparte]] / [[WP:WCW]] project (Reference before punctuation - Spelling and typography)"
+2016-02-01T01:32:05+00:00,702678801,695368943,0,KasparBot,François Certain de Canrobert,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/François Certain Canrobert|challenges for this article]]"
+2018-07-22T11:57:29+00:00,851455194,840494884,0,2A00:23C4:1150:CF00:1D48:9D92:F267:323B,François Certain de Canrobert,Edited the opening summary to improve the (rather odd) English. ~~ Rædwulf
+2017-12-31T23:40:23+00:00,818007888,816634587,0,Aymatth2,François Certain de Canrobert,added [[Category:Senators of Charente]] using [[WP:HC|HotCat]]
+2017-12-14T23:14:15+00:00,815458701,813035720,0,Melcous,François Certain de Canrobert,[[WP:EUPHEMISM]]
+2017-07-19T04:36:19+00:00,791266547,783153431,0,RPH,François Joseph Lefebvre,/* Early life */
+2015-11-04T07:53:44+00:00,688993905,688879360,0,Magioladitis,François Joseph Lefebvre,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (11727)
+2016-02-05T12:06:36+00:00,703419756,699904716,0,KasparBot,François Joseph Lefebvre,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/François Joseph Lefebvre|challenges for this article]]"
+2016-02-01T11:41:11+00:00,702739832,701900882,0,KasparBot,François Séverin Marceau,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/François Séverin Marceau-Desgraviers|challenges for this article]]"
+2015-08-22T04:42:08+00:00,677266260,677265686,0,Djmaschek,François Séverin Marceau,"/* Vendée */ Add battle links for Saumur, Chantonnay, Cholet, Le Mans and Savenay."
+2016-11-09T19:51:47+00:00,748696931,748696745,0,Rif Winfield,French Consulate,/* Fall of the Directory government */
+2018-09-23T10:06:05+00:00,860829488,853357108,0,Dimadick,French Consulate,/* Bibliography */
+2017-05-20T18:26:12+00:00,781353025,781131500,0,Tobby72,French Revolution,add images
+2019-02-15T20:41:50+00:00,883507674,883507572,0,Nashhinton,French Revolution,
+2016-10-29T19:00:39+00:00,746815659,745213424,0,Antiqueight,French Revolution,clean up using [[Project:AWB|AWB]]
+2017-02-12T20:24:53+00:00,765135792,764324781,0,Corriebertus,French Revolution,/* Constitutional Monarchy */ clearer separation of sections 3.1 and 3.2
+2016-04-16T00:36:51+00:00,715470398,715438324,0,Oceanh,Frits Thaulow,/* Biography */ wl
+2016-07-23T08:48:09+00:00,731147100,731084898,0,P0mbal,Frits Thaulow,/* Biography */ ce shorten sentence
+2017-12-23T07:30:04+00:00,816727735,804324480,0,InternetArchiveBot,Frits Thaulow,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])
+2016-06-15T14:07:55+00:00,725411692,715470398,0,2.120.162.226,Frits Thaulow,
+2017-05-16T00:16:51+00:00,780580146,751194622,0,Red Director,Frits Thaulow,v1.42 - Minor cleanup
+2015-08-27T23:49:25+00:00,678202366,660173405,0,Cydebot,Frits Thaulow,Robot - Removing category Commanders of the Order of St. Olav‎‎ per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2015 June 22]].
+2015-05-01T02:50:13+00:00,660173405,649448735,0,KasparBot,Frits Thaulow,authority control moved to wikidata
+2017-10-08T06:59:11+00:00,804324480,796390012,0,InternetArchiveBot,Frits Thaulow,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5.5)
+2016-11-23T23:55:20+00:00,751194622,731147100,0,WQUlrich,Frits Thaulow,
+2017-01-04T14:44:35+00:00,758282395,748241082,0,Chris the speller,Gardes du Corps du Roi (France),"[[WP:AWB/T|typo(s) fixed]]: Subsequently → Subsequently,, replaced: ill fated → ill-fated using [[Project:AWB|AWB]]"
+2015-01-03T11:11:12+00:00,640784456,640741235,0,Geekdiva,Gardes du Corps du Roi (France),"Very few minor copy edits; more are needed. Added added some templates & [[livery]]. Should the French words be italicized on first mention (as it seems to be right now, but even that its inconsistent in later sections) or all throughout the article?"
+2017-06-10T13:34:15+00:00,784870775,758282395,0,Magic links bot,Gardes du Corps du Roi (France),Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2018-03-06T03:47:33+00:00,829018205,829017238,0,Buistr,Gardes du Corps du Roi (France),/* Gallery */ translate captions for illustrations
+2018-08-05T19:25:43+00:00,853580117,833000172,0,2.100.21.88,Georges Couthon,/* Law of 22 Prairial */Correction. Executions in this period were moved from the Place de la Révolution.
+2017-04-23T22:07:56+00:00,776883330,770822849,0,DivermanAU,Georges Couthon,"add wstitle,volume & page to EB1911 ref."
+2015-11-16T20:24:57+00:00,690962842,690214862,0,John of Reading,Germaine de Staël,"/* Childhood */Typo fixing, replaced: according the → according to the using [[Project:AWB|AWB]]"
+2019-03-02T21:53:46+00:00,885871975,884623961,0,WereSpielChequers,Germaine de Staël,"/* Revolutionary activities */[[WP:AWB/T|Typo fixing]], replaced: her self  →  herself"
+2018-12-25T04:35:32+00:00,875275131,874059760,0,Ser Amantio di Nicolao,Germaine de Staël,remove category
+2019-05-23T17:13:30+00:00,898450869,898450757,0,Taksen,Germaine de Staël,
+2017-03-17T19:00:45+00:00,770813230,770812978,0,189.92.229.6,Germaine de Staël,/* External links */
+2015-07-08T19:36:07+00:00,670562205,669455175,0,Eroica,Germaine de Staël,/* Childhood */ wikilink
+2017-02-05T00:59:13+00:00,763745393,763745220,0,Dimadick,Germaine de Staël,/* External links */
+2017-05-01T11:54:06+00:00,778144201,776802913,0,Chackerian,Germaine de Staël,
+2016-04-24T18:15:51+00:00,716918572,714049275,0,87.6.247.217,Germaine de Staël,
+2018-01-30T06:16:04+00:00,823096768,816877349,0,Hugo999,Germaine de Staël,+[[Category:19th-century Swiss women]]; +[[Category:18th-century Swiss women]] using [[WP:HC|HotCat]]
+2018-04-20T10:01:17+00:00,837358904,837329646,0,Taksen,Germaine de Staël,/* Salons at Coppet and Paris */ mainly style
+2016-10-10T00:21:40+00:00,743511170,739818983,0,Hiddenherepress,Germaine de Staël,Corrected spelling
+2016-06-22T05:58:29+00:00,726442631,726441305,0,Omnipaedista,Germaine de Staël,the commonest variant
+2017-12-24T09:20:41+00:00,816877349,814609973,0,Icarusgeek,Germaine de Staël,+[[Category:18th-century Swiss women writers]]; ±[[Category:18th-century women writers]]→[[Category:18th-century French women writers]] using [[WP:HC|HotCat]]
+2018-11-10T01:25:47+00:00,868105322,868105317,0,ClueBot NG,Germaine de Staël,"Reverting possible vandalism by [[Special:Contribs/104.182.102.30|104.182.102.30]] to version by Taksen. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3536402) (Bot)"
+2019-03-05T02:49:39+00:00,886252798,886251419,0,Hairy Dude,Germaine de Staël,/* In popular culture */sidebar template is producing broken markup. Working around it
+2017-07-01T11:36:48+00:00,788439584,787308427,0,Magic links bot,Germaine de Staël,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2018-03-23T04:10:57+00:00,831986746,831834318,0,Magic links bot,Germaine de Staël,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2018-03-20T09:45:10+00:00,831387565,831309117,0,Taksen,Germaine de Staël,/* Restoration */ lf
+2015-09-17T18:16:33+00:00,681519732,676528214,0,173.49.70.205,Germaine de Staël,
+2016-11-09T16:43:44+00:00,748675328,743511170,0,86.45.226.161,Germaine de Staël,According to the Restoration section of this article
+2018-02-07T07:54:22+00:00,824428841,823096768,0,Taksen,Germaine de Staël,/* Further reading */ item
+2017-01-05T02:58:16+00:00,758383847,758382974,0,Aldebaran69,Germaine de Staël,minor edit
+2016-09-17T06:10:28+00:00,739818983,726442631,0,SteveStrummer,Germaine de Staël,Rmvd spam link.
+2018-10-28T14:47:44+00:00,866139424,866139031,0,Taksen,Germaine de Staël,moved down the sidebar
+2018-04-27T12:12:59+00:00,838498756,838488026,0,Taksen,Germaine de Staël,/* German travels */ style
+2018-10-13T04:34:15+00:00,863803404,863559135,0,AbsoluteEgoist,Germaine de Staël,removed speculation
+2019-01-12T20:42:32+00:00,878071742,878067978,0,Taksen,Germaine de Staël,/* Revolutionary activities */ lf
+2017-01-27T16:59:07+00:00,762252461,762252450,0,ClueBot NG,Germaine de Staël,"Reverting possible vandalism by [[Special:Contribs/66.173.58.90|66.173.58.90]] to version by Aldebaran69. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2913125) (Bot)"
+2017-05-24T17:05:35+00:00,782044856,781902893,0,Hilmorel,Germaine de Staël,/* German travels */
+2017-06-24T17:23:03+00:00,787308427,787292592,0,LordNikolaŠ.,Germaine de Staël,
+2015-08-17T15:42:48+00:00,676528214,676501310,0,Bmcln1,Germaine de Staël,Undid revision 676501310 by [[Special:Contributions/31.33.59.20|31.33.59.20]] ([[User talk:31.33.59.20|talk]])Please provide a reference.
+2016-04-07T09:38:08+00:00,714049275,712269720,0,86.161.128.209,Germaine de Staël,/* Works */
+2005-04-13T16:45:17+00:00,17388370,0,0,Tomtom~enwiki,Grand Dignitaries of the French Empire,
+2017-08-20T19:57:56+00:00,796430951,702732455,0,Onel5969,Gui-Jean-Baptiste Target,Disambiguating links to [[National Constituent Assembly]] (link changed to [[National Constituent Assembly (France)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2016-02-01T10:23:31+00:00,702732455,700124059,0,KasparBot,Gui-Jean-Baptiste Target,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Gui-Jean-Baptiste Target|challenges for this article]]"
+2018-03-24T09:31:20+00:00,832178326,822294120,0,2A01:CB04:63A:500:9C44:ABDF:707A:4203,Henri François Delaborde,
+2016-02-12T19:11:34+00:00,704650656,700038366,0,KasparBot,Henri François Delaborde,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Henri François Delaborde|challenges for this article]]"
+2018-03-08T14:23:57+00:00,829416058,817685386,0,2.24.52.19,Henri Gatien Bertrand,
+2016-02-19T15:08:27+00:00,705782269,660374678,0,KasparBot,Henri Gatien Bertrand,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Henri Gatien Bertrand|challenges for this article]]"
+2019-04-07T00:56:57+00:00,891297266,891297050,0,173.177.220.122,Henri Gatien Bertrand,
+2018-07-24T20:32:06+00:00,851820324,846217693,0,InternetArchiveBot,History of economic thought,Rescuing 4 sources and tagging 0 as dead. #IABot (v2.0beta3) ([[User:Feminist|Feminist]])
+2016-03-25T06:35:33+00:00,711841967,703089284,0,Neil Shah-Quinn,"Honoré Gabriel Riqueti, comte de Mirabeau",Add links. Improve formatting. Trim in popular culture section.
+2018-12-22T11:14:44+00:00,874908067,869319191,0,Marco Chemello (BEIC),History of economic thought,/* Sir James Steuart */ +image
+2019-02-14T13:03:34+00:00,883283690,882038217,0,27andahalf,"Honoré Gabriel Riqueti, comte de Mirabeau",
+2015-04-27T06:45:18+00:00,659422358,618398712,0,KasparBot,Jacques-Augustin-Catherine Pajou,authority control moved to wikidata
+2016-04-06T17:12:32+00:00,713936169,713936147,0,Serols,Jacques-François Menou,Reverted edits by [[Special:Contributions/2A02:C7D:3AE:7400:7E91:22FF:FE63:A472|2A02:C7D:3AE:7400:7E91:22FF:FE63:A472]] ([[User talk:2A02:C7D:3AE:7400:7E91:22FF:FE63:A472|talk]]) ([[WP:HG|HG]]) (3.1.19)
+2015-05-08T19:26:32+00:00,661456266,661203740,0,Alexander Tendler,Jacques-François Menou,/* French Revolution */
+2017-08-20T14:17:57+00:00,796388868,713936169,0,Onel5969,Jacques-François Menou,Disambiguated: [[National Constituent Assembly]] → [[National Constituent Assembly (France)]]
+2016-10-10T02:40:47+00:00,743532325,718651870,0,Ser Amantio di Nicolao,Jacques-Augustin-Catherine Pajou,[[Help:Cat-a-lot|Cat-a-lot]]: Copying from [[Category:18th-century French painters]] to [[Category:French male painters]]
+2018-04-02T22:33:32+00:00,833894093,796388868,0,23.31.90.201,Jacques-François Menou,"Capitalization on ""Baron of Boussay""."
+2017-07-04T23:39:25+00:00,789037649,787223230,0,LilHelpa,Jean Gabriel Marchand,mnr copy edit
+2018-10-30T10:59:21+00:00,866442724,866442578,0,Mariannn,Jacques-François Menou,
+2016-04-04T23:51:05+00:00,713599391,712907916,0,LiamKasbar,Jean Gabriel Marchand,
+2015-03-28T03:10:37+00:00,653839986,653839387,0,Djmaschek,Jean Gabriel Marchand,/* Peninsular War */ Add Battle of Puerto de Baños & Duke del Parque links. Make Kellermann caption fit.
+2018-08-10T22:20:55+00:00,854379238,854379020,0,Philotam,Jean Lannes,
+2016-04-20T13:56:04+00:00,716195533,712304992,0,The Average Wikipedian,Jean Lannes,/* Family */ Added link
+2016-08-09T10:04:12+00:00,733667064,730949019,0,Fitindia,Jean Léchelle,"/* Early life */clean up, [[WP:AWB/T|typo(s) fixed]]: newly- → newly using [[Project:AWB|AWB]]"
+2015-05-05T04:28:07+00:00,660890766,655538000,0,KasparBot,Jean Sylvain Bailly,authority control moved to wikidata
+2015-09-23T16:45:52+00:00,682421617,682215579,0,DrKay,Jean Sylvain Bailly,"Per [[WP:TOOMANY]] and ""Do not repurpose icons beyond their legitimate scope"" using [[Project:AWB|AWB]]"
+2015-07-31T06:21:13+00:00,673894017,369241578,0,Caftaric,Jean-Antoine,Category:French masculine compound given names
+2018-07-05T07:17:20+00:00,848917844,846880580,0,Rcb1,Jean-Antoine Marbot,amended category
+2015-04-29T00:22:38+00:00,659776105,640459857,0,KasparBot,Jean-Antoine Marbot,authority control moved to wikidata
+2018-06-21T12:55:15+00:00,846880580,838170649,0,Kelutral,Jean-Antoine Marbot,
+2017-12-20T09:37:49+00:00,816274004,816273326,0,Histoiremarbot,Jean-Antoine Marbot,
+2018-03-30T09:08:19+00:00,833218845,823016181,0,Wikimarbot,Jean-Antoine Marbot,
+2017-11-18T01:36:16+00:00,810880687,810878582,0,Histoiremarbot,Jean-Antoine Marbot,
+2017-11-03T10:38:52+00:00,808521529,808424220,0,Wikimarbot,Jean-Antoine Marbot,
+2018-04-15T22:59:12+00:00,836630756,836425688,0,GELongstreet,Jean-Antoine Marbot,- 6 categories using [[WP:HC|HotCat]] double/sub cats
+2019-01-03T16:02:53+00:00,876645803,876645639,0,Wikimarbot,Jean-Antoine Marbot,
+2018-04-25T10:32:40+00:00,838170649,837688457,0,Histoiremarbot,Jean-Antoine Marbot,
+2017-02-09T16:02:36+00:00,764552059,659776105,0,Narky Blert,Jean-Antoine Marbot,Link to DAB page repaired
+2019-03-20T18:27:10+00:00,888682759,888681477,0,83.28.124.113,Jean-Antoine Marbot,
+2017-12-22T02:45:16+00:00,816552538,816513818,0,Wikimarbot,Jean-Antoine Marbot,
+2016-11-30T15:59:48+00:00,752314100,739963265,0,Neddyseagoon,Jean-Baptiste Bessières,
+2019-01-10T17:32:58+00:00,877751600,875789964,0,Moonraker,Jean-Baptiste,/* Persons */  add one
+2017-07-01T18:24:33+00:00,788488888,718661442,0,A Thousand Doors,Jean-Baptiste,/* Persons */ Adding [[Jean-Baptiste Nolin]]
+2016-10-10T02:37:30+00:00,743531729,734175119,0,Ser Amantio di Nicolao,Jean-Baptiste Debret,[[Help:Cat-a-lot|Cat-a-lot]]: Copying from [[Category:18th-century French painters]] to [[Category:French male painters]]
+2018-11-17T23:04:59+00:00,869330987,867614782,0,GELongstreet,Jean-Baptiste Bessières,-[[Category:French commanders of the Napoleonic Wars]]; ±[[Category:Marshals of France]]→[[Category:Marshals of the First French Empire]] using [[WP:HC|HotCat]]
+2016-06-19T11:46:33+00:00,726012861,721300649,0,Opera hat,Jean-Baptiste Jourdan,
+2018-03-29T06:13:13+00:00,833015071,822080481,0,John of Reading,Jean-Baptiste Jourdan,"/* War of the First Coalition */Typo fixing, replaced: An 41,000 → A 41,000 using [[Project:AWB|AWB]]"
+2016-02-01T14:48:39+00:00,702760476,660846548,0,KasparBot,Jean-Baptiste Jourdan,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Jean-Baptiste Jourdan|challenges for this article]]"
+2016-04-21T15:44:37+00:00,716405646,710090914,0,KasparBot,"Jean-Gérard Lacuée, count of Cessac","migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Jean-Gérard Lacuée, count of Cessac|challenges for this article]]"
+2015-05-05T01:02:05+00:00,660867153,653842669,0,KasparBot,Jean-Étienne Championnet,authority control moved to wikidata
+2018-08-03T09:43:30+00:00,853236027,822655055,0,Arado,Jean-Étienne Championnet,
+2018-01-24T07:57:38+00:00,822080481,812409452,0,OJOM,Jean-Baptiste Jourdan,
+2016-02-18T04:52:33+00:00,705557255,702695960,0,TAnthony,Jean-Étienne Championnet,"/* top */Update Infobox template image parameter to bare filename per template documentation, and other cleanup using [[Project:AWB|AWB]]"
+2016-07-09T19:00:11+00:00,729079610,728970364,0,Djmaschek,Jena–Auerstedt campaign order of battle,/* VII Corps */ Add Francois Amey link.
+2019-01-11T10:39:27+00:00,877862418,866533537,0,Kevinlinch,Jena–Auerstedt campaign order of battle,/* Hohenlohe's Army */
+2018-01-23T01:59:12+00:00,821864678,821864290,0,Djmaschek,Jena–Auerstedt campaign order of battle,/* VI Corps */ Add Francois Roguet link. Add red Delabassee link.
+2016-01-12T22:32:55+00:00,699535275,695465673,0,William Avery,Joseph Bonaparte,Persondata has been deprecated by  [[Wikipedia:Village pump (proposals)/Archive 122#RfC: Should Persondata template be deprecated and methodically removed from articles?|this RfC]]
+2015-06-20T22:38:56+00:00,667828072,663745456,0,KasparBot,Joseph Boze,embed {{Authority control}} with wikidata information
+2018-05-26T13:27:50+00:00,843041081,810062765,0,Qetuth,Joseph Boze,stub sorting
+2018-01-02T01:17:56+00:00,818173709,812877361,0,BD2412,Joseph Bonaparte,"clean up punctuation and spacing issues, primarily spacing around commas, replaced: ,  → , using [[Project:AWB|AWB]]"
+2015-12-16T07:52:56+00:00,695465673,695436680,0,Philg88,Joseph Bonaparte,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Susan punzel conner|Susan punzel conner]] ([[User talk:Susan punzel conner|talk]]): Sorry, but this is not relevant to the article. ([[WP:TW|TW]])"
+2017-10-09T05:05:53+00:00,804465097,797549812,0,Srnec,Joseph Bonaparte,colour image in lead
+2018-10-15T00:45:58+00:00,864085349,863397349,0,2601:640:8300:BAF0:B130:FA70:5A9E:EBE7,Joséphine de Beauharnais,Added a book in which she appears.
+2017-03-12T10:53:32+00:00,769918573,769480082,0,Gryffindor,Joséphine de Beauharnais,
+2016-04-28T13:05:05+00:00,717563417,697352356,0,KasparBot,"Joseph, Baron von Mesko de Felsö-Kubiny","migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Joseph, Baron von Mesko de Felsö-Kubiny|challenges for this article]]"
+2018-12-03T05:58:54+00:00,871755089,864085349,0,2600:8800:3985:4800:FD93:67A6:681A:8160,Joséphine de Beauharnais,/* Early life and first marriage */ add comma per MoS
+2018-05-28T04:08:19+00:00,843286373,843148133,0,138.251.244.169,Joséphine de Beauharnais,end of tenure as Queen consort of Italy changed from 1999 to 1810
+2017-05-08T20:10:12+00:00,779418744,778006067,0,Flyte35,Joséphine de Beauharnais,/* Descendants */ Stéphanie de Beauharnais was married to the grand duke of Baden.
+2016-05-16T13:03:53+00:00,720531170,716390972,0,Josephine'sDescendants,Joséphine de Beauharnais,
+2015-05-22T17:53:09+00:00,663570363,661791640,0,Mata Hari Krishna,Joséphine de Beauharnais,Added citation
+2017-07-15T19:30:36+00:00,790736844,785234826,0,Oliver Goransson,Laurent de Gouvion Saint-Cyr,
+2016-11-12T22:59:38+00:00,749184028,742053901,0,BD2412bot,Laurent de Gouvion Saint-Cyr,"/* Early life */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: a [[tanning|tanner]] → a [[Tanning (leather)|tanner]] using [[Project:AWB|AWB]]"
+2018-07-23T00:23:07+00:00,851537270,831423755,0,Charbroil,Laurent de Gouvion Saint-Cyr,
+2017-09-10T02:25:03+00:00,799825468,796431415,0,DivermanAU,Legislative Assembly (France),"add wstitle, volume and author to EB1911 template"
+2016-01-11T12:02:53+00:00,699285862,698203157,0,Athalaric,Legislative Assembly (France),/* Background */
+2016-10-27T08:39:03+00:00,746419616,746365108,0,Jasca Ducato,List of Assassin's Creed characters,/* {{anchor|Ratonhnhaké:ton}}Connor Kenway */ Still no.
+2015-11-03T16:32:48+00:00,688880501,688880389,0,5.50.49.159,Laurent de Gouvion Saint-Cyr,
+2017-03-07T18:19:28+00:00,769122019,768045068,0,WereSpielChequers,List of Assassin's Creed characters,"/* Italian Renaissance */[[WP:AWB/T|Typo fixing]], replaced: know as → known as using [[Project:AWB|AWB]]"
+2015-09-12T13:33:27+00:00,680679070,675383980,0,Wieralee,List of Marshals of the First French Empire,"([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Jean Charles Nicaise Perrin 001.jpg]] → [[File:Lannes par Volpeliere.jpg]] [[c:COM:FR#reasons|File renaming criterion #3]]: To correct obvious errors in file names, including misspelled [[c::en:Noun#Pro..."
+2016-10-21T22:18:38+00:00,745567817,736476017,0,2601:646:100:5F00:7575:AB68:44C0:661A,List of Marshals of the First French Empire,/* Marshals */  Jean Baptiste Jules Bernadotte (Charles XIV John of Sweden) was also King of Norway as Charles III John from his coronation in 1818 following the the Swedish-Norwegian war which resulted in Norway entering into personal union with Sweden.
+2017-03-19T23:58:33+00:00,771172653,770747187,0,66.74.8.59,List of Swiss people,
+2018-07-07T02:21:55+00:00,849174752,846161070,0,2603:9001:368B:8F00:222:15FF:FE3E:AB27,List of Swiss people,/* Business */
+2016-04-27T12:57:18+00:00,717397253,715109493,0,Clare.,List of ambassadors of France to Poland,
+2018-03-20T18:33:06+00:00,831461217,790538744,0,Tim!,List of ambassadors of France to Poland,Tim! moved page [[List of Ambassadors of France to Poland]] to [[List of ambassadors of France to Poland]]: naming conventions
+2018-12-17T23:21:41+00:00,874233161,874232566,0,2A00:23C4:C90:DF00:A11D:12:3621:A186,List of civil rights leaders,/* List */Removed a group of terrorists from this list
+2015-11-06T12:38:32+00:00,689332949,689179188,0,StefenTower,List of civil rights leaders,"cleanup articles linked from [[Abraham Lincoln]] for [[WP:KY|WikiProject Kentucky]], [[WP:AWB/T|typo(s) fixed]]: bussinesswoman → businesswoman using [[Project:AWB|AWB]]"
+2019-06-28T15:34:59+00:00,903889292,903889241,0,Serols,List of heads of state of France,Reverted edits by [[Special:Contributions/2409:4071:238E:3407:4E5:6668:F83B:813F|2409:4071:238E:3407:4E5:6668:F83B:813F]] ([[User talk:2409:4071:238E:3407:4E5:6668:F83B:813F|talk]]) ([[WP:HG|HG]]) (3.4.8)
+2016-12-02T11:53:06+00:00,752638201,745347310,0,Zumalabe,List of heads of state of France,/* The Consulate */
+2019-01-02T18:52:01+00:00,876505415,869504529,0,Nick.mon,List of heads of state of France,/* French State (1940–1944) */
+2015-09-09T23:12:09+00:00,680293314,680292264,0,Cards84664,List of presidents of the National Convention,
+2017-04-20T20:42:32+00:00,776410319,776410196,0,216.186.97.26,List of intellectuals of the Enlightenment,removed stuffsts
+2019-06-25T04:38:50+00:00,903343527,883782688,0,BrownHairedGirl,List of presidents of the National Convention,"clean up, [[WP:ELLINKS]] (1/1): [[French National Convention election, 1792]] → [[1792 French National Convention election]];"
+2016-01-04T16:56:48+00:00,698201516,698200469,0,Omnipaedista,List of presidents of the National Convention,rm tag; [[Talk:List_of_Presidents_of_France#Sugested_Merge_of_Articles_to_List_of_heads_of_state_of_France|no consensus]] since September
+2017-03-31T20:47:10+00:00,773182684,773182486,0,Guise,List of presidents of the National Convention,/* Reaction: July 1794–1795 */
+2019-03-21T16:09:10+00:00,888812624,882229485,0,Double sharp,List of rulers of Partitioned Poland,/* Kings and Tsars of the Kingdom of Poland */
+2014-01-26T06:27:17+00:00,592439105,591303829,0,BG19bot,List of rulers of Partitioned Poland,[[WP:CHECKWIKI]] error fix. Section heading problem. Violates [[WP:MOSHEAD]].
+2017-08-22T16:51:33+00:00,796713014,796712906,0,39.36.233.243,List of scientists whose names are used as units,/* Napier and Bell */
+2018-07-12T22:42:08+00:00,850005436,849993567,0,EdmundT,List of scientists whose names are used as units,/* Scientists and the SI units */ Spelling
+2015-09-23T16:48:48+00:00,682421970,682229254,0,DrKay,"Louis Antoine, Duke of Enghien","Per [[WP:TOOMANY]] and ""Do not repurpose icons beyond their legitimate scope"" using [[Project:AWB|AWB]]"
+2016-02-03T20:25:21+00:00,703150396,696595442,0,KasparBot,"Louis Antoine, Duke of Enghien","migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Louis Antoine, Duke of Enghien|challenges for this article]]"
+2016-05-22T21:33:47+00:00,721590191,713289491,0,KasparBot,Louis François Félix Musnier,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Louis François Félix Musnier|challenges for this article]]"
+2014-11-20T07:59:27+00:00,634664637,601624779,0,Monkbot,Louis François Félix Musnier,/* Bibliography */[[User:Monkbot/Task_6:_CS1_language_support|Task 6h]]: add |script-title=; replace {{xx icon}} with |language= in CS1 citations; clean up language icons;
+2016-02-22T06:22:50+00:00,706237683,705072419,0,2601:645:8300:8C89:857B:123C:E071:99B1,Louis Philippe I,/* The clash of the pretenders */
+2019-03-25T19:05:40+00:00,889446366,889214866,0,Duchess Begum,Louis Philippe I,/* Titles and styles */
+2017-02-21T15:08:27+00:00,766682476,766682301,0,Favonian,Louis Philippe I,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/173.67.41.51|173.67.41.51]] ([[User talk:173.67.41.51|talk]]): Not a typo, just a long sentence. ([[WP:TW|TW]])"
+2016-03-13T03:21:22+00:00,709792907,709000250,0,2602:306:32B0:F130:D8C0:94D1:E3DC:339F,Louis Philippe I,"Changed ""his"" to ""him"""
+2017-11-27T04:53:14+00:00,812305829,811459238,0,Rrostrom,Louis Philippe I,"/* Travels */gram, punct, phrase fixes; linkage"
+2016-09-16T18:49:10+00:00,739750185,739750146,0,NottNott,Louis Philippe I,Reverted edits by [[Special:Contributions/206.78.212.61|206.78.212.61]] ([[User talk:206.78.212.61|talk]]) ([[WP:HG|HG]]) (3.1.21)
+2016-04-04T18:36:22+00:00,713553586,709792907,0,183.81.12.28,Louis Philippe I,/* See also */
+2016-11-11T04:03:37+00:00,748913621,747486753,0,TheHistoryMen,Louis Philippe I,/* External links */
+2018-05-16T07:02:46+00:00,841500573,839463291,0,Lexicógrafo feliz,"Louis Pierre Édouard, Baron Bignon",/* Biography */
+2018-07-06T18:04:37+00:00,849124394,849124256,0,Kelutral,"Louis Pierre Édouard, Baron Bignon",
+2016-07-14T17:40:34+00:00,729805450,703070336,0,KasparBot,"Louis Pierre Édouard, Baron Bignon",remove [[Wikipedia:Persondata|Persondata]] comment
+2016-06-05T17:28:07+00:00,723847964,723718306,0,M. Armando,Louis XVIII,
+2017-12-17T19:03:06+00:00,815870343,814910922,0,Sruva123,Louis XVIII,"Simplified his predecessor of ""King of France"" being Louis XVI."
+2018-09-02T14:14:01+00:00,857709295,837067973,0,2605:E000:9149:A600:505D:A440:6F0B:C911,"Louis, comte de Narbonne-Lara",sp
+2018-04-18T14:42:16+00:00,837067973,815609697,0,Frietjes,"Louis, comte de Narbonne-Lara",update ahnentafel syntax per TfD
+2018-10-15T00:52:20+00:00,864086004,849504150,0,2601:640:8300:BAF0:B130:FA70:5A9E:EBE7,Louis-Alexandre Berthier,Added a note about a story in which he appears.
+2017-02-25T04:15:05+00:00,767309948,765228146,0,86.45.226.161,Louis-Alexandre Berthier,
+2016-02-24T13:27:14+00:00,706642877,706642581,0,213.86.221.35,Louis-Alexandre Berthier,/* Marriage and family */
+2016-10-10T19:53:55+00:00,743701588,723400925,0,Ser Amantio di Nicolao,Louis-Alexandre Berthier,[[Help:Cat-a-lot|Cat-a-lot]]: Copying from [[Category:19th-century French sculptors]] to [[Category:French male sculptors]]
+2015-06-14T22:07:24+00:00,666963784,660883460,0,174.24.241.84,Louis-Gabriel Suchet,/* Napoleonic Wars */
+2018-04-28T00:30:07+00:00,838589834,826119830,0,Djmaschek,Louis-Gabriel Suchet,"Add Phipps ref, citation and incident of Suchet's promotion to colonel."
+2016-06-14T02:53:03+00:00,725183956,723853633,0,The Almightey Drill,"Louise de Broglie, Countess d'Haussonville",removed [[Category:People from Vaud]]; added [[Category:People from Nyon District]] using [[WP:HC|HotCat]]
+2015-11-18T15:55:28+00:00,691244477,691238415,0,Vesuvius Dogg,"Louise de Broglie, Countess d'Haussonville",/* Portrait by Ingres */ Ingres's notes on a working draft
+2017-07-05T16:35:43+00:00,789143721,787562802,0,Frans Fowler,Low Countries theatre of the War of the First Coalition,"/* Dumouriez's invasion of the Dutch Republic */ Wrong river (same pronunciation, though)"
+2016-10-10T23:30:36+00:00,743733038,740666941,0,Bender235,Low Countries theatre of the War of the First Coalition,"clean up; http&rarr;https for [[Google Books]], [[WP:AWB/T|typo(s) fixed]]: Meanwhile → Meanwhile, using [[Project:AWB|AWB]]"
+2015-04-28T23:25:29+00:00,659769029,648816819,0,KasparBot,Luc Siméon Auguste Dagobert,authority control moved to wikidata
+2016-06-22T18:14:41+00:00,726519207,713364815,0,KasparBot,Luc Siméon Auguste Dagobert,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Luc Siméon Auguste Dagobert|challenges for this article]]"
+2016-08-30T00:04:33+00:00,736808907,726519207,0,SteveStrummer,Luc Siméon Auguste Dagobert,+1 wl
+2015-08-19T10:05:10+00:00,676816067,659769029,0,Niceguyedc,Luc Siméon Auguste Dagobert,[[:en:WP:CLEANER|WPCleaner]] v1.36 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Corbières]]
+2017-12-08T17:23:15+00:00,814409643,707840017,0,InternetArchiveBot,Luigi Veronelli,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])
+2016-03-02T02:34:03+00:00,707840017,685681020,0,KasparBot,Luigi Veronelli,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Luigi Veronelli|challenges for this article]]"
+2012-08-06T20:13:43+00:00,506118896,506118377,0,Malcolmxl5,Marbot,long comment
+2018-04-22T11:15:51+00:00,837688779,827113566,0,Histoiremarbot,Marbot,
+2018-01-15T18:51:59+00:00,820631593,818132124,0,Wikimarbot,Marbot,/* Places */
+2019-01-09T12:30:55+00:00,877558376,877558238,0,Wikimarbot,Marbot,
+2016-12-31T16:53:56+00:00,757604328,744163498,0,Wikimarbot,Marbot family,Corrected description and formatting
+2018-04-22T11:03:25+00:00,837687778,817213121,0,Histoiremarbot,Marbot family,
+2015-04-06T11:33:46+00:00,655174092,628172140,0,Wikimarbot,Marbot family,External links update
+2019-01-03T10:19:53+00:00,876609201,876504716,0,Wikimarbot,Marbot family,
+2017-12-26T23:00:26+00:00,817213121,817183837,0,Wikimarbot,Marbot family,/* Members */
+2015-09-22T13:13:41+00:00,682242143,648256778,0,John of Reading,Marcellin Marbot,"Typo fixing, replaced: iin → in using [[Project:AWB|AWB]]"
+2019-01-03T16:07:33+00:00,876646576,876625689,0,Wikimarbot,Marcellin Marbot,
+2018-02-10T10:35:49+00:00,824920542,817018381,0,FrescoBot,Marcellin Marbot,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2016-02-02T06:49:51+00:00,702891728,682242143,0,KasparBot,Marcellin Marbot,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Jean Baptiste Antoine Marcellin de Marbot|challenges for this article]]"
+2017-12-25T13:22:30+00:00,817018381,817018350,0,Histoiremarbot,Marcellin Marbot,
+2016-10-30T22:52:59+00:00,747010569,747010491,0,86.190.217.38,Marcellin Marbot,/* Literary References */
+2019-04-20T10:28:29+00:00,893291700,893291487,0,SJCreecy,Marcellin Marbot,/* Biography */ Capitalizing proper nouns.
+2017-04-22T20:17:29+00:00,776711917,774177106,0,Rrostrom,Marcellin Marbot,"/* Literary References */ ital, punct, redir fix"
+2016-07-13T14:27:19+00:00,729628545,702891728,0,87.113.117.140,Marcellin Marbot,Additional information.
+2017-12-21T02:09:50+00:00,816395455,816357189,0,Histoiremarbot,Marcellin Marbot,
+2015-02-22T00:25:10+00:00,648256778,629455543,0,GreenC,Marcellin Marbot,"[[User:Green Cardamom/WorksByProject|""Works By"" Project]] (see proj notes for WorldCat); [[WP:AWB/GF|General fixes]] using [[Project:AWB|AWB]]"
+2018-05-07T05:50:48+00:00,840016833,839620883,0,GSS,Marcellin Marbot,/* External links */[[WP:CHECKWIKI|Checkwiki]] error fix #17. Unnecessary duplicate categories found using [[Project:AWB|AWB]]
+2017-08-27T01:38:37+00:00,797437408,776711917,0,Spiderjerky,Marcellin Marbot,removed [[Category:House of Marbot]]; added [[Category:Marbot]] using [[WP:HC|HotCat]]
+2018-07-05T07:18:08+00:00,848917921,848917804,0,Rcb1,Marcellin Marbot,amended category
+2019-02-13T09:44:24+00:00,883108415,877870429,0,Opencooper,Marcellin Marbot,/* Biography */ [[MOS:NOITALQUOTE]]; quotation marks in a blockquote are redundant ([[MOS:BLOCKQUOTE]])
+2018-08-29T09:18:42+00:00,857062352,848917921,0,Iamthecheese44,Marcellin Marbot,removed [[Category:Marbot]] using [[WP:HC|HotCat]]
+2018-11-16T09:11:07+00:00,869084982,869084903,0,Necrothesp,Marcellin Marbot,
+2018-11-08T00:10:03+00:00,867784053,867691884,0,Wikimarbot,Marcellin Marbot,/* Family */
+2015-03-03T03:28:54+00:00,649635014,593841014,0,Djmaschek,Marengo order of battle,/* Center */ Add Wolff de la Marselle link.
+2015-10-12T16:14:40+00:00,685392654,674425899,0,Akela,Marengo order of battle,/* Left Wing */ image from Commons
+2018-05-18T16:25:45+00:00,841871477,838745750,0,Rodw,Marengo order of battle,Disambiguating links to [[6th Dragoons]] (link changed to [[6th Dragoon Regiment (France)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2018-04-12T21:18:57+00:00,836133214,833728226,0,Rathfelder,Marguerite Gérard,Not a stub
+2016-07-30T13:19:05+00:00,732223889,730217926,0,LouisAlain,Marguerite Gérard,link to new article
+2018-08-17T02:37:12+00:00,855266999,853559031,0,Векочел,Marie Joséphine of Savoy,
+2017-12-11T18:09:44+00:00,814918678,803256957,0,Abdicata,Marie Joséphine of Savoy,
+2016-10-24T22:03:56+00:00,746033830,737968054,0,Just a guy from the KP,Michael von Melas,/* top */ Typo
+2015-04-30T03:47:28+00:00,659993229,628459815,0,KasparBot,Michael von Melas,authority control moved to wikidata
+2016-09-06T03:51:47+00:00,737968054,737967812,0,Bardrick,Michael von Melas,
+2016-05-13T13:11:17+00:00,720058348,710587511,0,KasparBot,Michel-Marie Pacthod,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Michel-Marie Pacthod|challenges for this article]]"
+2018-05-23T15:19:01+00:00,842614245,787481177,0,Tom.Reding,Michel-Marie Pacthod,"+{{[[Template:Authority control|Authority control]]}} (3 sources from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]"
+2018-07-15T20:04:07+00:00,850426523,850426324,0,2001:7E8:D3E2:A701:89F:8991:6191:7DC4,Military governor of Paris,/* Military Governor of Paris since 1944 */
+2016-10-30T00:04:20+00:00,746854695,613523048,0,SuperTah,Military governor of Paris,Clarification
+2014-06-19T05:40:30+00:00,613523048,613522957,0,Bondaruk85,Military governor of Paris,/* External links */
+2017-12-09T15:49:57+00:00,814563774,814563727,0,OJOM,Military governor of Paris,
+2015-06-06T02:03:13+00:00,665701955,662022638,0,Fma12,Nadar,portrait added
+2019-04-04T05:52:18+00:00,890886871,887470611,0,Adam Cuerden,Nadar,Useful to explain P. Nadar to those who would otherwise presume it's the same person
+2017-07-15T04:02:42+00:00,790649540,781763299,0,BD2412,Olympe de Gouges,"/* Biography */[[Wikipedia:Disambiguation pages with links|Fixing links to disambiguation pages]], improving links, other minor cleanup tasks using [[Project:AWB|AWB]]"
+2018-04-27T02:49:21+00:00,838451045,838451039,0,ClueBot NG,Olympe de Gouges,"Reverting possible vandalism by [[Special:Contribs/59.93.48.94|59.93.48.94]] to version by 73.172.99.105. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3361329) (Bot)"
+2016-03-18T02:19:54+00:00,710626085,709790932,0,BG19bot,Order of battle of the Waterloo campaign,Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2018-07-06T21:42:03+00:00,849149029,845289431,0,Kelutral,Paul Barras,
+2015-11-11T10:05:45+00:00,690109911,689765966,0,Philg88,Order of battle of the Waterloo campaign,/* Reserves */ correct name
+2018-01-04T11:15:22+00:00,818581484,818581478,0,ClueBot NG,Paul Barras,"Reverting possible vandalism by [[Special:Contribs/5.186.120.165|5.186.120.165]] to version by Tom.Reding. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3237368) (Bot)"
+2017-09-22T19:11:30+00:00,801916312,800648688,0,Nightscream,Philip José Farmer,/* External links */ Commons link
+2018-04-03T03:13:04+00:00,833938763,826789246,0,KolbertBot,Philip José Farmer,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2016-07-24T04:42:24+00:00,731257195,724077782,0,JJMC89,Philip José Farmer,Remove parameter from {{Goodreads author}} to use Wikidata) ([[Project:AWB|AWB]] (12054)
+2018-01-22T20:25:36+00:00,821817181,813993111,0,GreenC bot,Philip José Farmer,Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]
+2016-10-14T16:50:21+00:00,744345859,744345384,0,DlronW,Physiocracy,/* Private property */ typo
+2016-05-13T17:44:41+00:00,720091985,697968302,0,Topstar80,Physiocracy,/* Private property */
+2017-08-20T19:56:32+00:00,796430716,788839298,0,Onel5969,Pierre Louis Prieur,Disambiguating links to [[National Constituent Assembly]] (link changed to [[National Constituent Assembly (France)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-08-20T19:54:44+00:00,796430481,788839287,0,Onel5969,Pierre Samuel du Pont de Nemours,Disambiguating links to [[National Constituent Assembly]] (link changed to [[National Constituent Assembly (France)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2016-12-02T13:09:19+00:00,752645872,718625246,0,Catlemur,Prince Josias of Saxe-Coburg-Saalfeld,/* References */
+2015-08-03T18:29:30+00:00,674403800,671830148,0,Tim!,Siege of Genoa (1800),removed [[Category:1800 in Italy]]; added [[Category:1800 in the Ligurian Republic]] using [[WP:HC|HotCat]]
+2016-02-03T04:26:36+00:00,703046160,668025989,0,KasparBot,Prince Josias of Saxe-Coburg-Saalfeld,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Prince Josias of Saxe-Coburg-Saalfeld|challenges for this article]]"
+2016-09-12T05:10:09+00:00,738993760,738960502,0,Hugo999,Siege of Roses (1794–1795),/* External links */
+2018-02-11T20:43:10+00:00,825158503,738993760,0,Tom.Reding,Siege of Roses (1794–1795),"Fix [[:Category:Pages using deprecated image syntax]]; [[WP:GenFixes]] on, using [[Project:AWB|AWB]]"
+2017-03-18T00:59:59+00:00,770859244,770610639,0,Rich Farmbrough,Spanish invasion of Portugal (1762),Fix spelling Encyclopaedia Britannica or similar; using [[Project:AWB|AWB]]
+2018-07-14T18:57:33+00:00,850254376,850202934,0,TropicAces,Suzanne Curchod,Marriage template
+2017-09-26T19:58:03+00:00,802536899,802494554,0,Hispanicultur,Spanish invasion of Portugal (1762),Adding a footnote.
+2016-03-19T01:54:19+00:00,710791072,689973056,0,KasparBot,Suzanne Curchod,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Suzanne Curchod|challenges for this article]]"
+2017-08-21T07:10:09+00:00,796496452,794706312,0,Icarusgeek,Suzanne Curchod,removed [[Category:18th-century women writers]]; added [[Category:18th-century Swiss women writers]] using [[WP:HC|HotCat]]
+2015-04-30T01:23:17+00:00,659974917,629698151,0,KasparBot,Suzanne Curchod,authority control moved to wikidata
+2010-04-15T16:35:20+00:00,356200754,296894565,0,ListasBot,Talk:François Certain de Canrobert,Applied fixes to WPBiography template.  [[User talk:ListasBot|Did I get it wrong?]]
+2015-02-06T05:04:43+00:00,645853394,584545897,0,Djmaschek,Talk:Jean-Étienne Championnet,Add Gibraltar comment.
+2018-02-16T19:13:56+00:00,826020897,817758918,0,Kjell Knudde,The Battle (Rambaud novel),Added more categories.
+2017-09-28T18:19:16+00:00,802824314,800794878,0,Rodw,The Battle (Rambaud novel),Disambiguated: [[The Retreat (novel)]] → [[The Retreat (Patrick Rambaud novel)]]
+2018-03-05T21:12:39+00:00,828967446,828967393,0,Pablomartinez,Timeline of the French Revolution,Reverted edits by [[Special:Contributions/142.60.15.111|142.60.15.111]] ([[User talk:142.60.15.111|talk]]) ([[WP:HG|HG]]) (3.3.3)
+2018-11-15T00:33:54+00:00,868875441,868868517,0,Telfordbuck,Timeline of the French Revolution,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/204.116.209.23|204.116.209.23]] using [[WP:STiki|STiki]]
+2018-07-24T12:37:01+00:00,851761100,851131650,0,InternetArchiveBot,Treaty of Versailles,Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta3) ([[User:Feminist|Feminist]])
+2019-03-19T05:25:39+00:00,888443720,887673054,0,Zsj199969,Treaty of Versailles,Link more exactly
+2017-08-18T13:00:50+00:00,796094246,788852260,0,Rich Farmbrough,Tyrol 1809 order of battle,Fix caps in section header and other minor fixes using [[Project:AWB|AWB]]
+2016-03-12T06:16:43+00:00,709654578,678731092,0,Djmaschek,VII Corps (Grande Armée),Update refs & add Nafziger ref. Expand introduction with 1814 material.
+2015-08-31T08:15:46+00:00,678731092,675374779,0,GELongstreet,VII Corps (Grande Armée),/* Orders of battle */ wikify
+2014-09-24T10:27:40+00:00,626880061,577360086,0,Hamish59,VII Corps (Grande Armée),/* References */ [[:Category:Corps of France in the Napoleonic Wars]] is on the same tree as [[:Category:Corps of France]]
+2016-07-06T03:44:04+00:00,728555614,709654578,0,Djmaschek,VII Corps (Grande Armée),/* October 1806 */ Add Francois Amey link.
+2016-06-23T06:16:34+00:00,726606201,723739806,0,KasparBot,Valentine de Sainte-Aldegonde,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Valentine de Sainte-Aldegonde|challenges for this article]]"
+2018-02-07T22:44:51+00:00,824534652,726606201,0,Jarould,Valentine de Sainte-Aldegonde,"([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Valentine de Sainte-Aldegonde.jpg]] → [[File:Madame Catherine-Noële Worlée Grand, later Princess de Talleyrand-Périgord.jpg]] [[c:COM:FR#FR2|Criterion 2]] (meaningless or ambiguous name) · the dress..."
+2017-04-05T19:48:26+00:00,774015549,774015537,0,ClueBot NG,Voltaire,"Reverting possible vandalism by [[Special:Contribs/Y U N O ctc|Y U N O ctc]] to version by Srich32977. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2996997) (Bot)"
+2019-04-08T17:56:23+00:00,891552315,891465441,0,Hob Gadling,Voltaire,[[Category:Critics of Judaism]] removed; nothing about that in the article. [[Category:Antisemitism in France]] is better
+2017-11-23T17:22:05+00:00,811743520,811743429,0,Favonian,War of the Pyrenees,Padlock
+2015-06-08T14:43:43+00:00,666042892,663162757,0,Carlstak,War of the Pyrenees,/* Eastern Pyrenees */ ce
+2019-01-19T23:27:46+00:00,879240142,879240026,0,K6ka,Wikipedia:Changing username/Simple,/* Freedomofspeech97 → Sappho118 */ d
+2018-08-16T13:10:10+00:00,855176692,855175725,0,Cyberbot I,Wikipedia:Changing username/Simple,Clerking (bot) ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])
+2016-08-06T19:46:45+00:00,733293247,719653808,0,Neddyseagoon,William Essex (painter),/* External links */
+2016-02-01T11:55:11+00:00,702741301,686050429,0,KasparBot,Wolfgang Hildesheimer,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Wolfgang Hildesheimer|challenges for this article]]"
+2016-11-01T21:07:04+00:00,747345878,733293247,0,Ser Amantio di Nicolao,William Essex (painter),[[Help:Cat-a-lot|Cat-a-lot]]: Copying from [[Category:19th-century English painters]] to [[Category:English male painters]]
+2018-11-18T03:58:54+00:00,869365748,853615817,0,Ser Amantio di Nicolao,Wolfgang Hildesheimer,/* References */add category
+2017-01-03T13:01:42+00:00,758094853,758089668,0,Michael Bednarek,Wolfgang Hildesheimer,spelling Turandot; ordering works; -[[Category:20th-century composers]] (?); -[[Category:Mozart scholarship]] (1 slim book doesn't amount to scholarship).
+2016-07-30T03:24:17+00:00,732171248,732091034,0,Michael Bednarek,Wolfgang Hildesheimer,Undid revision 732091034 by [[Special:Contributions/A hungate|A hungate]] ([[User talk:A hungate|talk]]): false wikilink to [[Tynset]] (& [[Mozart]]; mention where he died.
+2015-07-19T05:10:21+00:00,672086914,669457059,0,112.196.137.59,Women in the French Revolution,
+2019-01-15T23:28:42+00:00,878624786,878624776,0,ClueBot NG,Women in the French Revolution,"Reverting possible vandalism by [[Special:Contribs/Party monster 21|Party monster 21]] to version by SteveStrummer. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3578156) (Bot)"
+2012-11-27T20:00:12+00:00,525197677,514032167,0,GrouchoBot,1736,r2.7.2) (Robot: Adding [[yi:1736]]
+2010-02-06T20:22:41+00:00,342347356,326948131,0,TXiKiBoT,1736,robot Adding: [[qu:1736]]
+2008-02-09T05:13:10+00:00,190118354,180227984,0,SieBot,1736,robot  Adding: [[sa:१७३६]]
+2018-08-08T02:55:21+00:00,853969110,721303663,0,OccultZone,1712 in France,/* References */
+2015-10-08T17:28:06+00:00,684772805,684695983,0,Armbrust,1775–1795 in Western fashion,([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Gilbert Stuart 002.jpg]] → [[File:Gilbert Stuart - Catherine Brass Yates.jpg]] To change from a meaningless or ambiguous name to a name that describes what the image displays.
+2012-04-11T14:20:52+00:00,486823802,480810779,0,R'n'B,1736,Fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Mecklenburg-Strelitz]]
+2012-03-08T17:45:02+00:00,480865365,480685547,0,TutterMouse,1775–1795 in Western fashion,[[Wikipedia:Wikiproject Check Wiki|WP:WCW]] - repairing error #81 and gen. fixes using [[Project:AWB|AWB]]
+2014-07-17T18:57:45+00:00,617354561,617158169,0,Skoglund,1791,/* Deaths */
+2018-10-10T05:26:28+00:00,863342003,863341871,0,203.82.106.10,1791,
+2012-04-23T06:01:42+00:00,488768840,487469897,0,Luckas-bot,1791,r2.7.1) (Robot: Adding [[te:1791]]
+2011-10-20T07:53:17+00:00,456481947,454942387,0,Escarbot,1806,r2.7.2) (Robot: Adding [[ne:सन् १८०६]]
+2008-05-07T01:25:50+00:00,210707728,207574548,0,DerbyCountyinNZ,1806,/* October - December */ Add wikilink
+2014-06-05T06:41:47+00:00,611641028,572739963,0,CommonsDelinker,Abensberg 1809 order of battle,Replacing Abensberg_.jpg with [[File:Abensberg.jpg]] (by [[commons:User:Ymblanter|Ymblanter]] because: Robot: Removing space(s) before file extension).
+2008-02-04T18:11:11+00:00,189066889,188869766,0,Ulflarsen,A Vindication of the Rights of Woman,Corrected link to National Constituent Assembly
+2005-05-27T14:34:08+00:00,15318979,14315253,0,Red Winged Duck,1806,+ be:
+2006-11-07T13:29:21+00:00,86263990,86244122,0,Draxar,1806,Removal of a string of random text at the end of the March 23rd events entry
+2010-09-21T14:04:44+00:00,386107404,386100183,0,Lquilter,A Vindication of the Rights of Woman,"/* Reception and legacy */ removing ""who had"" which renders this a sentence fragment ...."
+2010-04-15T02:54:53+00:00,356099180,356099044,0,SusanLesch,A Vindication of the Rights of Woman,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/68.190.234.152|68.190.234.152]] ([[User talk:68.190.234.152|talk]]) to last version by Andreworkney
+2012-12-03T14:58:53+00:00,526177451,526176597,0,RobertG,A Vindication of the Rights of Woman,"Undid revision 526176597 by [[Special:Contributions/112.79.36.179|112.79.36.179]] ([[User talk:112.79.36.179|talk]]) rm copyvio, pasted from Claudia L. Johnson's book"
+2008-02-09T10:10:50+00:00,190150335,182980685,0,SieBot,1791,robot  Adding: [[sa:१७९१]]
+2010-05-14T02:49:16+00:00,362018057,361099617,0,PeterHuntington,"Adam Philippe, Comte de Custine",/* References */
+2007-03-21T19:24:17+00:00,116848045,63762663,0,Stijn Calle,Adolphe Marbot,
+2008-11-30T09:39:52+00:00,254966256,254966224,0,213.192.60.111,Adolphe Marbot,/* References */
+2004-11-21T15:30:44+00:00,13426880,7719035,0,D6,Adolphe Marbot,"adding [[Category:1781 births]] [[Category:1844 deaths]] , see [[Wikipedia:People by year|WP:People by year]]"
+2011-03-18T06:06:20+00:00,419421743,398234058,0,Kober,Adolphe Marbot,added [[Category:French military personnel of the Napoleonic Wars]] using [[WP:HC|HotCat]]
+2008-05-18T15:19:41+00:00,213257946,209335861,0,Sevela.p,"Adam Philippe, Comte de Custine",+cs iw
+2008-04-22T23:47:39+00:00,207483771,205317250,0,Flauto Dolce,Adolphe Marbot,Disambiguate [[Louis Philippe]] to [[Louis-Philippe of France]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2011-11-07T22:07:20+00:00,459526278,459034145,0,Mzilikazi1939,Aesop's Fables,transferred fable not by Aesop
+2014-03-15T20:33:58+00:00,599768647,597719731,0,Stephen MUFC,Aesop's Fables,breve > háček
+2010-03-16T22:07:45+00:00,350286214,350088028,0,A4bot,Altillac,robot Adding: [[uk:Альтіяк]]
+2010-05-18T21:26:42+00:00,362888197,362887701,0,65.8.46.70,Aesop's Fables,/* Aesop's Fables in other languages */
+2010-11-22T19:06:02+00:00,398296138,332213110,0,RjwilmsiBot,Albert Jean Michel de Rocca,Adding Persondata using [[Project:AWB|AWB]] (7393)
+2006-01-27T16:25:42+00:00,36958633,34644279,0,Leifern,Anders Beer Wilse,
+2017-08-13T11:20:04+00:00,795306287,709311848,0,M2545,André-Daniel Laffon de Ladebat,/* Sources */ link Centre des archives d'outre-mer
+2009-09-15T21:10:38+00:00,314192365,312406199,0,SmackBot,André-Daniel Laffon de Ladebat,/* Sources */Birth/death cats from lifetime and general  fixes
+2008-09-18T08:57:52+00:00,239227598,229940097,0,Lightbot,Anders Beer Wilse,Units/dates/other
+2012-06-23T05:41:34+00:00,498946014,498945936,0,Mark Arsten,Antoine,Reverted edits by [[Special:Contributions/70.81.117.150|70.81.117.150]] ([[User talk:70.81.117.150|talk]]) addition of [[WP:References|unsourced]] content ([[WP:HG|HG]])
+2014-11-28T04:42:52+00:00,635732382,628043227,0,Herostratus,Antoine,"/* As a family name */ add antoine, other fixes whil im at it"
+2006-10-13T01:55:15+00:00,81129814,79759082,0,Albrecht,Antoine Charles Louis de Lasalle,Fix links
+2014-05-30T05:44:22+00:00,610748349,604439488,0,CyberSach,Antoine Charles Louis de Lasalle,"add disambig to lasalle, qc"
+2007-09-30T00:19:17+00:00,161216886,154736370,0,Xn4,Antoine Charles Louis de Lasalle,general of brigade -> brigadier general
+2007-07-08T05:08:10+00:00,143237375,141304364,0,Schlier22,Antoine Lavoisier,/* External links */
+2011-05-13T06:43:33+00:00,428883022,428881802,0,130.194.220.190,Antoine Lavoisier,"/* Final days, execution, and aftermath */"
+2008-04-29T11:40:43+00:00,208974409,208971294,0,Astrochemist,Antoine Lavoisier,Revert to recover format
+2009-08-16T01:10:39+00:00,308220416,308007024,0,Numbo3-bot,Antoine Lavoisier,robot Adding: [[mwl:Antoine Lavoisier]]
+2016-11-28T22:27:21+00:00,751993851,751130847,0,Fayenatic london,Antoine Lavoisier,[[Help:Cat-a-lot|Cat-a-lot]]: Removing from [[Category:Scientists who have asteroids named after them]]
+2014-07-21T10:34:05+00:00,617827105,605611533,0,PBS-AWB,Antoine Quentin Fouquier-Tinville,"/* External links */modification to Cite Collier's and some other similar templates, replaced: {{Cite Collier's|Fouquier-Tinville, Antoine Quentin|year=1921 |short=x → {{Cite Collier's|Fouquier-Tinville, Antoine Quentin|y using [[Project:AWB|AWB]]"
+2016-04-08T00:37:27+00:00,714159322,714158659,0,Scottyoak2,Antoine Lavoisier,Reverted 1 edit by [[Special:Contributions/144.139.48.193|144.139.48.193]] ([[User talk:144.139.48.193|talk]]): Unconstructive. ([[WP:TW|TW]])
+2019-06-24T17:46:39+00:00,903270728,897262754,0,Tc06rtw,Antoine Lavoisier,/* Legacy */ proper link
+2018-01-10T02:40:08+00:00,819567706,818339847,0,Three-quarter-ten,Antoine Lavoisier,|year=1942
+2018-11-11T19:47:13+00:00,868370873,867916980,0,AyodeleA1,Arc de Triomphe,/* Access */
+2018-05-01T17:34:31+00:00,839161539,827706059,0,LucaGaletti95,Arc de Triomphe,
+2012-10-17T12:46:47+00:00,518314492,508364355,0,ZéroBot,Arc de Triomphe,r2.7.1) (Robot: Adding [[hy:Հաղթանակի կամար (Փարիզ)]]
+2013-08-11T10:43:13+00:00,568058219,557137331,0,Morningstar1814,Arc de Triomphe,
+2012-03-28T12:05:27+00:00,484352580,427859013,0,Helpful Pixie Bot,Antoine Morlot,Added translation link. (Build KB)
+2010-11-02T12:38:18+00:00,394367754,393225007,0,Topbanana,Army of Italy (France),Link repair:  Maréchal d'Empire -> Maréchal d’Empire  - [[Wikipedia:WikiProject Red Link Recovery|You can help!]]
+2006-12-12T22:31:18+00:00,93917054,67237427,0,SmackBot,Army of Sambre and Meuse,Date/correct the maintenance tags  using [[Project:AWB|AWB]]
+2008-07-14T18:17:28+00:00,225642028,217790665,0,Tpbradbury,Army of Italy (France),/* Commanders */ french empire only started in 1804 after the first consulate
+2010-12-05T14:18:00+00:00,400669180,395590277,0,84.192.234.146,Army of Sambre and Meuse,
+2018-11-18T18:48:49+00:00,869455455,866939502,0,OgreBot,Army of the Eastern Pyrenees,Replacing [[File:Eastern Theater Pyrenees War 1793 to 1795.JPG]] with Commons version [[File:Eastern Theater Pyrenees War 1793 to 1795.jpg]] ([[User talk:Magog the Ogre|report errors here]])
+2008-04-29T12:09:17+00:00,208977975,208977740,0,Thijs!bot,Army of the Eastern Pyrenees,robot  Modifying: [[fr:Armée des Pyrénées-Orientales]]
+2011-03-11T10:42:09+00:00,418278681,408167771,0,EmausBot,Army of the North (France),r2.6.4) (robot Modifying: [[fr:Armée du Nord (1791)]]
+2007-07-28T18:44:46+00:00,147704461,43775949,0,Carl Logan,Army of the North (France),field armies of france
+2013-10-06T16:29:08+00:00,576010810,545319818,0,Ohconfucius,Army of the Western Pyrenees,"correct format drift per [[WP:MOSNUM]], [[WP:Linking]] using [[Project:AWB|AWB]]"
+2009-05-24T19:09:39+00:00,292066321,281489926,0,DrilBot,Army of the Western Pyrenees,[[WP:CHECKWIKI|Check Wikipedia]] cleanup ([[User:DrilBot/Summaries#Miac|Misplaced interwikis and categories]]) + [[WP:GENFIXES|gen. fixes]]
+2008-05-19T17:35:32+00:00,213508433,213301329,0,Jeff3000,Army of the Western Pyrenees,Disambiguate [[Basque]] to [[Basque Country (historical territory)]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2012-01-29T22:24:29+00:00,473934423,435341631,0,JamesAM,Army of the Western Pyrenees,/* Operations */ Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2016-05-07T03:42:59+00:00,719025807,709563013,0,Gilliam,Assembly of Vizille,Reverted edits by [[Special:Contribs/50.59.234.18|50.59.234.18]] ([[User talk:50.59.234.18|talk]]) to last version by WQUlrich
+2014-02-08T21:56:04+00:00,594575574,571537153,0,DanielPerrine,August Wilhelm Schlegel,/* Life and work */
+2007-10-31T22:35:45+00:00,168394814,162805277,0,Jvhertum,Barthélemy Catherine Joubert,nl:Barthélemy Catherine Joubert
+2016-08-01T23:31:20+00:00,732590556,730840698,0,Vanjagenije,Bamberg,"This is English Wikipedia, and this article is not about Bavaria. No need for German name."
+2019-07-10T15:43:11+00:00,905668664,905668567,0,Flibirigit,Bamberg,/* L-Z */ remove duplicate entry
+2006-11-08T13:40:59+00:00,86487033,86484823,0,€pa~enwiki,August Wilhelm Schlegel,/* Life and work */
+2011-04-11T23:11:58+00:00,423595782,421338159,0,Ulric1313,August Wilhelm Schlegel,dab
+2011-01-03T06:48:00+00:00,405645249,401190978,0,TXiKiBoT,Barthélemy Catherine Joubert,robot Adding: [[es:Barthélemy Catherine Joubert]]
+2008-09-28T18:45:17+00:00,241584779,239281471,0,Ginosbot,Barthélemy Catherine Joubert,robot  Modifying: [[bg:Бартелеми Жубер]]
+2014-04-10T14:13:03+00:00,603599203,600119075,0,67.51.200.206,Barthélemy Catherine Joubert,/* 1796–97 */
+2018-10-04T03:11:39+00:00,862395113,856762824,0,Mack2,Barthélemy Catherine Joubert,/* Footnotes */ em
+2007-09-15T10:58:40+00:00,158029924,154993157,0,MARKELLOS,Bathilde d'Orléans,+interwiki el
+2012-11-25T06:46:47+00:00,524759829,523607614,0,108.237.60.165,Battle of Abensberg,/* Abensberg */
+2010-02-14T13:12:30+00:00,344016034,334550034,0,Xqbot,Battle of Abensberg,robot Modifying: [[pl:Bitwa pod Abensbergiem]]
+2005-05-03T22:41:20+00:00,16586408,13194637,0,213.73.241.140,Battle of Aspern-Essling,
+2009-07-23T01:47:29+00:00,303650976,303650827,0,XavierGreen,Battle of Abensberg,
+2012-09-04T20:21:54+00:00,510810397,510808814,0,Alexandru.demian,Battle of Aspern-Essling,Undid revision 510808814 by [[Special:Contributions/109.178.123.121|109.178.123.121]] ([[User talk:109.178.123.121|talk]])
+2006-10-10T09:01:43+00:00,80581951,77812069,0,Carl Logan,Battle of Aspern-Essling,Clean up
+2011-07-13T15:14:35+00:00,439271759,439248754,0,RibotBOT,Battle of Aspern-Essling,r2.7.1+) (robot Modifying: [[lt:Asperno-Eslingo mūšis]]
+2013-01-25T14:36:32+00:00,534827275,534695826,0,Dexbot,Battle of Austerlitz,r2.7.1) (Robot: Adding [[fa:نبرد استرلیتز]]
+2016-09-29T20:54:17+00:00,741814193,741521829,0,Library Guy,Battle of Austerlitz,/* External links */ add 1905 NIE poster
+2007-08-23T06:59:29+00:00,153100661,153100624,0,Tulkolahten,Battle of Austerlitz,
+2014-07-25T15:40:26+00:00,618429442,617253801,0,49.2.6.154,Battle of Austerlitz,
+2013-07-24T21:30:35+00:00,565668437,559558611,0,Grigo92,Battle of Eylau,/* References */
+2014-11-26T00:32:19+00:00,635449309,635106598,0,PBS,Battle of Eylau,Franceschi seems to be how the author's name is spelled
+2006-05-10T08:15:20+00:00,52456898,49284757,0,Nuno Tavares,Battle of Eylau,pt:
+2009-09-24T15:02:34+00:00,315927343,313262852,0,Silverhorse,Battle of Eylau,
+2012-01-25T04:00:18+00:00,473099201,472692660,0,98.223.234.54,Battle of Eylau,Undid revision 472692660 by [[Special:Contributions/99.25.5.35|99.25.5.35]] ([[User talk:99.25.5.35|talk]])
+2014-07-10T22:00:58+00:00,616442705,611102746,0,Alexander Gellos,Battle of Eylau,
+2018-02-18T19:03:47+00:00,826369957,826300821,0,93.184.83.75,Battle of Eylau,
+2012-05-17T23:22:52+00:00,493107293,493107022,0,-Ilhador-,Battle of Friedland,
+2012-07-04T20:39:10+00:00,500702481,493107293,0,RibotBOT,Battle of Friedland,Robot: Adding [[uk:Битва під Фрідландом]]
+2010-04-28T11:24:30+00:00,358830216,358830119,0,93.74.76.29,Battle of Fère-Champenoise,
+2017-01-30T15:47:02+00:00,762757201,760628540,0,2A01:CB1C:8172:5400:FC02:45E6:558D:ABA5,Battle of Fère-Champenoise,
+2013-11-02T16:05:20+00:00,579882687,579169422,0,Skteosk,Battle of Friedland,/* Notes */ Adding template
+2007-08-04T06:36:54+00:00,149096080,143574997,0,68.40.65.164,Battle of Marengo,/* Background */
+2005-07-14T08:33:13+00:00,18801148,16045239,0,83.113.192.190,Battle of Marengo,
+2005-05-02T21:46:10+00:00,13492063,13147783,0,Onco p53,Battle of Marengo,Not a stub; see [[User:Triddle/stubsensor|stubsensor]] and {{cleanup}}
+2013-03-03T20:14:50+00:00,541936938,541936716,0,PBS,Battle of Marengo,/* External links */ {{wikisource|Convention of Alessandria}}
+2010-07-09T15:17:11+00:00,372593231,372231582,0,The Anomebot2,Battle of Marengo,Replacing geodata: {{coord missing|Italy|conflict=yes}}
+2008-09-27T17:50:35+00:00,241359962,241157388,0,Elliskev,Battle of Marengo,"Date audit, [[User:Lightmouse/monobook.js/script.js|script]]-assisted; see [[Wikipedia:MOSNUM#Date_autoformatting|mosnum]]"
+2012-03-16T13:19:23+00:00,482189607,480716547,0,RedBot,Battle of Marengo,r2.7.2) (Robot: Adding [[he:קרב מרנגו]]
+2013-11-02T22:52:55+00:00,579928820,578493952,0,75.157.48.89,Battle of Novi (1799),/* The battle */
+2007-01-31T22:40:52+00:00,104694649,104694219,0,Gomm,Battle of Novi (1799),typo
+2010-02-17T20:51:39+00:00,344682447,344272024,0,78.36.191.179,Battle of Novi (1799),
+2011-12-12T22:07:05+00:00,465528950,465520307,0,Afairall,Battle of Novi (1799),
+2014-08-16T23:35:46+00:00,621551943,545930446,0,The Anomebot2,Battle of Orbaizeta,Adding geodata: {{coord|42.9744|N|1.2294|W|source:wikidata|display=title}}
+2015-09-05T08:45:54+00:00,679557687,670251106,0,Marcocapelle,Battle of Rovereto,removed parent categories of Battles of the War of the First Coalition
+2010-03-23T23:28:49+00:00,351663166,351663160,0,ClueBot,Battle of Trebbia (1799),"Reverting possible vandalism by [[Special:Contributions/72.92.234.239|72.92.234.239]] to version by La Fère-Champenoise. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (573209) (Bot)"
+2007-12-27T21:02:26+00:00,180487995,179575295,0,Gomm,Battle of Trebbia (1799),
+2010-09-07T14:59:17+00:00,383463902,372591744,0,Luckas-bot,Battle of Trebbia (1799),robot Adding: [[el:Μάχη του Τρέβια (1799)]]
+2008-03-12T03:56:35+00:00,197643958,177550702,0,CenturionZ 1,Battle of Wattignies,clean up  using [[Project:AutoWikiBrowser|AWB]]
+2010-07-13T16:42:54+00:00,373284325,371523979,0,EmausBot,Battle of Wattignies,robot Adding: [[es:Batalla de Wattignies]]
+2009-04-09T19:39:46+00:00,282829892,263727348,0,Xeno,Beaulieu-sur-Dordogne,/* References */ remove self-ref line per [[WP:SELFREF]]
+2012-12-03T01:45:04+00:00,526104620,520566184,0,EmausBot,Beaulieu-sur-Dordogne,r2.7.3) (Robot: Adding [[kk:Болье-сюр-Дордонь]]
+2015-02-24T19:05:58+00:00,648666097,647380160,0,EP111,Beaulieu-sur-Dordogne,ibx details
+2013-11-10T17:21:03+00:00,581064141,567613923,0,Nick Number,Beaulieu-sur-Dordogne,sp depredations [[WP:TYPO]]
+2013-02-02T00:02:38+00:00,536108207,534398263,0,SchreiberBike,Benjamin Constant,"[[WP:DPL|You can help.]] Repaired link to the disambiguation page, [[Liberal]]."
+2012-03-16T01:16:01+00:00,482122389,472989619,0,EmausBot,Benjamin Constant,r2.7.2+) (Robot: Modifying [[pt:Benjamin Constant (pensador)]]
+2015-06-21T14:40:01+00:00,667934715,663205772,0,Bermicourt,Beaulieu-sur-Dordogne,link(s) added
+2015-01-27T08:57:02+00:00,644377071,644279192,0,188.155.124.6,Benjamin Constant,
+2008-09-20T19:45:15+00:00,239843493,238138986,0,Zigzig20s,Benjamin Constant,biography subhead
+2008-02-07T18:35:23+00:00,189777415,189621279,0,74.135.196.209,Benjamin Constant,
+2008-03-31T08:38:51+00:00,202253782,196857241,0,208.27.230.239,Benjamin Constant,History 122
+2014-08-27T02:56:14+00:00,622970577,622968928,0,CountMacula,Bourbon Restoration in France,wording
+2015-10-05T15:52:49+00:00,684261407,681845838,0,87.224.72.175,Bourbon Restoration in France,/* Republicans */
+2010-06-09T17:10:35+00:00,367015786,365974506,0,72.54.234.97,Bourbon Restoration in France,
+2018-03-29T18:50:03+00:00,833114076,832356312,0,2605:E000:C745:6200:CD63:7E17:8C12:CF6D,Bourbon Restoration in France,
+2007-11-19T17:17:13+00:00,172514824,172472083,0,RazwshRhZgrc11234,Bourbon Restoration in France,
+2012-06-03T06:09:24+00:00,495726627,495331623,0,198.145.85.226,Bourbon Restoration in France,
+2012-12-25T00:56:55+00:00,529666269,516155366,0,92.27.240.117,Brigadier Gerard,/* The Adventures of Gerard */
+2014-08-04T23:11:49+00:00,619886461,619886408,0,77.56.53.183,Castiglione 1796 campaign order of battle,/* See also */
+2010-09-20T08:16:14+00:00,385874436,385874385,0,Xveys,Catherine-Dominique de Pérignon,/* Revolutionary Wars */
+2006-04-17T02:52:18+00:00,48789033,43805655,0,MaratL,Catherine-Dominique de Pérignon,+ru
+2005-07-18T11:45:49+00:00,19074426,16570243,0,Darkan,Catherine-Dominique de Pérignon,+fr
+2016-11-03T02:04:12+00:00,747563017,745698638,0,Pyprneil,Charles Edward Jennings,
+2016-01-30T10:48:08+00:00,702405756,675928424,0,Pulciazzo,Charles Edward Jennings,/* Kilmaine the Brave */
+2006-12-07T21:14:13+00:00,92779742,29598630,0,Jaraalbe,Charles Edward Jennings,native category
+2014-05-02T20:57:17+00:00,606819150,600859263,0,MaxEnt,Charles-Augustin de Coulomb,link article to [[electrostatics]]
+2013-04-07T04:53:01+00:00,549104037,541152228,0,KLBot2,Charles Malo François Lameth,"Bot: Migrating 1 interwiki links, now provided by [[Wikidata]] on [[:d:Q920472]]"
+2006-10-26T21:17:30+00:00,83920631,83920556,0,Jmabel,Charles Malo François Lameth,No need to link externally for same image
+2011-05-29T21:24:50+00:00,431548800,423823080,0,Lockley,Charles-François Lebrun,/* External links */ cat
+2010-08-21T01:25:58+00:00,380067632,369067285,0,Xveys,Charles-Pierre Augereau,
+2008-09-19T05:45:20+00:00,239484219,233130961,0,Lightbot,Charles-François Lebrun,Units/dates/other
+2009-12-13T00:57:35+00:00,331348119,330277307,0,68.197.66.107,Charles-Pierre Augereau,
+2015-07-28T18:58:40+00:00,673512550,669456217,0,Wavelength,Charles-Pierre Augereau,"applying [[WP:MOS]] in regard to [[hyphenation]]: —> ""19-year-old"" [1 instance]—[[WP:MOS#Numbers]] (point 1)—[[WP:HYPHEN]], sub-subsection 3, points 3 and 8"
+2005-11-16T16:24:53+00:00,28513928,27885154,0,Marbot,Charles-Pierre Augereau,linkfix
+2010-02-03T21:25:02+00:00,341756784,341734692,0,Carl Logan,Charles-Pierre Augereau,marshal of france was not a rank by this time
+2010-09-07T04:58:47+00:00,383393845,381722485,0,RjwilmsiBot,Charles-Pierre Augereau,/* External links */Persondata completion using [[Project:AWB|AWB]] (7095)
+2008-10-21T16:41:17+00:00,246750255,239460495,0,Valentinejoesmith,Charles-Pierre Augereau,duelist category
+2014-03-17T14:18:03+00:00,600011776,545768042,0,OccultZone,Charlotte Louise de Rohan,clean up using [[Project:AWB|AWB]]
+2018-11-08T20:50:56+00:00,867920232,856661970,0,GünniX,Charlotte Louise de Rohan,v2.0 - [[WP:WCW]] project (Template without correct beginning)
+2009-04-13T22:20:21+00:00,283659855,264288392,0,Monegasque,Charles-Pierre Augereau,
+2008-09-19T12:43:35+00:00,239548109,176415878,0,Lightbot,"Claude Antoine, comte Prieur-Duvernois",Units/dates/other
+2005-10-13T06:10:01+00:00,25412901,25325658,0,Jmabel,Committee of Public Safety,Reverted edits by [[Special:Contributions/69.120.216.115|69.120.216.115]] to last version by Jmabel
+2010-03-23T04:45:45+00:00,351510460,351505257,0,Darkwind,Committee of Public Safety,Reverted edits by [[Special:Contributions/143.89.188.2|143.89.188.2]] to last revision by 173.89.67.169 ([[WP:HG|HG]])
+2011-07-24T20:38:37+00:00,441231771,432505798,0,Btritchie,Committee of Public Safety,/* Committee of discussion */ Fixed sentence fragment.
+2018-08-26T20:02:47+00:00,856661970,856661533,0,50.5.87.62,Charlotte Louise de Rohan,
+2018-12-20T02:45:49+00:00,874567142,870795690,0,Ira Leviton,Committee of Public Safety,Fixed a typo found with [[Wikipedia:Typo_Team/moss]].
+2018-06-25T10:23:20+00:00,847435777,817083909,0,Alvin Seville,Charles-Pierre Augereau,adding and removing spaces
+2009-09-30T16:00:36+00:00,317106893,317105708,0,Durova,Committee of Public Safety,[[WP:RBK|Reverted]] edits by [[Special:Contributions/64.90.243.207|64.90.243.207]] ([[User talk:64.90.243.207|talk]]) to last version by B.s.n.R.N.
+2010-02-19T00:31:46+00:00,344924350,344717422,0,Brandon5485,Committee of Public Safety,Undid revision 344717422 by [[Special:Contributions/68.28.137.228|68.28.137.228]] ([[User talk:68.28.137.228|talk]]) messed up the link
+2016-05-17T04:08:41+00:00,720649074,719993809,0,The Blade of the Northern Lights,Committee of Public Safety,rv MOSDATE violation
+2009-04-27T10:46:06+00:00,286414601,280889177,0,207.103.215.2,Committee of Public Safety,/* Composition */
+2006-12-21T23:21:18+00:00,95819204,95817575,0,216.37.147.157,Committee of Public Safety,added Revolutionary Tribunal link
+2012-05-30T21:57:58+00:00,495200851,486999358,0,Tobyc75,Coppet,"Update SFSO website link, replaced: List of universities in Switzerland|University → List of universities in Switzerland|university using [[Project:AWB|AWB]]"
+2011-09-22T20:34:36+00:00,451908464,443540612,0,Tobyc75,Coppet,/* Demographics */Fix link using [[Project:AWB|AWB]]
+2010-03-08T14:03:35+00:00,348531038,347887633,0,Chronicler~enwiki,Corinna,/* External links */
+2006-12-16T01:24:17+00:00,94622093,92282512,0,SmackBot,Corinna,ISBN formatting/gen fixes  using [[Project:AWB|AWB]]
+2010-10-04T15:21:12+00:00,388695385,368997661,0,Tswl,Corinna,
+2017-11-01T10:40:14+00:00,808179457,778143030,0,Marko Parabucki,Council of Ancients,"Explanation for the name of the legislative body, the placing may be corrected"
+2017-04-27T19:33:09+00:00,777540894,777517268,0,Caeciliusinhorto,Corinna,/* Works cited */ removed Guy Vottero: not cited
+2011-07-22T13:56:18+00:00,440831400,440830702,0,Helpful Pixie Bot,Coup of 18 Brumaire,Dated {{Unreferenced}}. (Build p613)
+2019-05-01T20:24:04+00:00,895072118,890907114,0,Cplakidas,Coup of 18 Brumaire,added [[Category:French Consulate]] using [[WP:HC|HotCat]]
+2006-02-21T18:47:15+00:00,40597030,39409107,0,Lockley,Dagobert Sigmund von Wurmser,mergefrom tag
+2014-01-22T19:57:53+00:00,591916884,553729257,0,Sionk,Césarine Davin-Mirvault,removed [[Category:Portrait artists]]; added [[Category:French portrait painters]] using [[WP:HC|HotCat]]
+2007-12-27T18:02:36+00:00,180455658,174072245,0,StephenWeber,Dagobert Sigmund von Wurmser,add image (from [[:en:User:BOTijo/Images for biographies|Images for biographies]])
+2013-07-30T04:28:46+00:00,566379071,564197189,0,The Emperor's New Spy,Dauphine of France,
+2014-10-07T13:28:49+00:00,628644162,608475019,0,BreakfastJr,Declaration of the Rights of Woman and of the Female Citizen,"Cosmetic changes, including de-italicising the document's name (the MoS says that ""Legal or constitutional documents"" should be neither italicised nor in quote marks)"
+2009-04-12T23:37:29+00:00,283453624,281032577,0,24.252.204.102,Declaration of the Rights of Woman and of the Female Citizen,/* The Declaration */
+2006-02-18T17:20:50+00:00,40162960,39768722,0,71.251.138.95,Declaration of the Rights of Woman and of the Female Citizen,
+2009-04-15T19:53:53+00:00,284058629,281864408,0,Jarry1250,Duc de Montebello,Removed extraneous <small> tags from image caption ([[WP:WikiProject Check Wikipedia|CW]]) using [[Project:AutoWikiBrowser|AWB]]
+2017-06-22T09:54:33+00:00,786913015,781375575,0,Randy Kryn,Elements of the Philosophy of Newton,/* External links */ add italics
+2005-12-19T01:07:36+00:00,31910481,31886185,0,Kappa,Elements of the Philosophy of Newton,"stub cats, [[Category:1738 books]] [[Category:Voltaire]]"
+2008-08-03T14:35:51+00:00,229588746,229114241,0,Lestrade,Elements of the Philosophy of Newton,Glossary
+2018-11-26T10:49:01+00:00,870679139,861960052,0,88.167.171.215,Emmanuel Crétet,"Crétet was not a Protestant. His brother was a Catholic priest and his funerals were celebrated at St Thomas d'Aquin (Catholic church in Paris). See Chroniques d'une frontière à l'Epoque Contemporaine: Les 2 Pont de Beauvoisin, by Serge Guiboud-Ribaud"
+2008-01-02T19:24:14+00:00,181671517,174965458,0,VolkovBot,Erik Magnus Staël von Holstein,robot  Adding: [[sv:Erik Magnus Staël von Holstein]]
+2006-09-19T13:27:14+00:00,76578640,74541378,0,203.173.30.157,Estates General of 1789,/* Preparation */ ref a whole bunch of books. It was Dec 27.
+2010-05-04T09:17:10+00:00,360028195,359427973,0,Xqbot,Erik Magnus Staël von Holstein,robot Modifying: [[it:Erik Magnus Staël von Holstein]]
+2010-07-09T13:47:03+00:00,372581157,372204337,0,93.186.66.131,Estates General of 1789,/* Preparation */
+2010-06-09T12:35:13+00:00,366976756,366956036,0,Frania Wisniewska,Estates General of 1789,rv as edits by [[Special:Contributions/129.171.150.71|129.171.150.71]] ([[User talk:129.171.150.71|talk]]) were obvious vandalism
+2006-03-27T18:20:50+00:00,45733948,45733356,0,Squell,Estates General of 1789,Nothing in life is true. Reverting to latest version by Jmabel.
+2014-04-11T11:54:23+00:00,603732990,603277976,0,109.152.149.188,Estates General of 1789,
+2012-06-13T07:51:48+00:00,497361976,495000754,0,Newyork1501,Estates General of 1789,
+2013-04-22T03:50:04+00:00,551571485,547144029,0,The Emperor's New Spy,Eugène de Beauharnais,
+2011-05-06T05:24:44+00:00,427702728,427434450,0,Michaelmas1957,Estates General of 1789,
+2009-10-26T09:32:30+00:00,322102097,322087612,0,Monegasque,Eugène de Beauharnais,Category.
+2008-09-02T20:33:26+00:00,235886875,235179507,0,Rjwilmsi,Fabre d'Églantine,[[User:Rjwilmsi#Other_fixes|gen fixes]] and/or [[User:Rjwilmsi#My_correction_of_citation_templates|cite template fixes]]  using [[Project:AutoWikiBrowser|AWB]]
+2017-10-21T21:24:31+00:00,806411890,801544957,0,Sheila1988,Eugène de Beauharnais,pronunciation
+2006-07-19T02:25:51+00:00,64585893,58052609,0,Eskimbot,Fabre d'Églantine,robot  Modifying: [[hu:Fabre d’Églantine]]
+2015-08-26T11:32:21+00:00,677929068,663396842,0,86.43.165.206,Fire of Moscow (1812),
+2008-06-27T17:11:18+00:00,222116434,216980677,0,Wikifrédéric~enwiki,Fabre d'Églantine,/* External links */
+2018-03-30T14:20:59+00:00,833256265,814932608,0,Maximajorian Viridio,Fall of the Republic of Venice,/* Aftermath */
+2013-03-01T07:32:45+00:00,541455449,539094380,0,Legobot,Eugène de Beauharnais,Bot: Migrating langlinks to [[WP:Wikidata]] - [[d:q155545]]
+2017-03-26T06:50:25+00:00,772260152,767199214,0,TheGracefulSlick,Fire of Moscow (1812),
+2007-09-14T21:45:05+00:00,157933620,157878849,0,PRRfan,Fire of Moscow (1812),minor edits
+2011-05-10T17:13:53+00:00,428445260,428445187,0,Bwcajp,Fleurus 1794 order of battle,/* Austrian-Dutch Army */
+2011-07-26T18:13:15+00:00,441573042,438631662,0,Valentinejoesmith,François Certain de Canrobert,cat
+2007-01-11T11:25:46+00:00,99970828,93876432,0,Carl Logan,François Certain de Canrobert,+image
+2012-11-20T04:56:33+00:00,523967642,510845825,0,VIAFbot,François Certain de Canrobert,Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 17213989: http://viaf.org/viaf/17213989 . Please [[WP:VIAF/errors|report any errors]].
+2007-07-21T02:48:45+00:00,146051041,146033031,0,Kingbird1,François Certain de Canrobert,/* References */ addcat
+2007-12-29T13:26:24+00:00,180793162,180793102,0,Chris 73,François Certain de Canrobert,Reverted edits by [[Special:Contributions/86.157.6.75|86.157.6.75]] ([[User talk:86.157.6.75|talk]]) to last version by Valentinejoesmith
+2009-08-07T14:50:55+00:00,306610886,293551717,0,RogDel,François Certain de Canrobert,Cleanup - vital dates
+2009-01-25T19:57:11+00:00,266371958,263480715,0,Jack1956,François Certain de Canrobert,
+2009-05-31T17:52:16+00:00,293551717,291750591,0,213.63.157.209,François Certain de Canrobert,+pt
+2012-01-08T12:55:23+00:00,470250794,441573042,0,ZéroBot,François Certain de Canrobert,r2.7.1) (Robot: Adding [[la:Franciscus Certinus de Canrobert]]
+2008-09-19T02:22:36+00:00,239442573,230581828,0,Lightbot,François Certain de Canrobert,Units/dates/other
+2008-08-08T09:50:13+00:00,230581828,224274732,0,Carl Logan,François Certain de Canrobert,/* References */ added category
+2018-06-14T15:11:18+00:00,845848169,830216495,0,Maczkopeti,François Joseph Lefebvre,French IPA
+2005-10-31T02:44:26+00:00,26938220,19071889,0,64.228.92.210,François Joseph Lefebvre,
+2011-03-08T19:20:22+00:00,417828387,409035913,0,ChuispastonBot,François Joseph Lefebvre,r2.7.1) (robot Adding: [[sv:François Joseph Lefebvre]]
+2010-11-21T16:14:33+00:00,398072840,393701745,0,RjwilmsiBot,François Joseph Lefebvre,Adding Persondata using [[Project:AWB|AWB]] (7393)
+2009-06-14T13:16:05+00:00,296348153,293936416,0,АлександрВв,François Séverin Marceau,ru iwiki
+2006-06-05T03:58:01+00:00,56943427,50240519,0,Dahn,François Séverin Marceau,
+2007-10-31T12:47:15+00:00,168289693,167813506,0,Ground Zero,French Consulate,/* Government under the Consulate and Napoleon's consolidation of Power */ remove links to plain English words per [[WP:CONTEXT]]
+2017-02-11T22:58:52+00:00,764965102,764964772,0,Str1977,French Consulate,
+2017-12-02T02:55:52+00:00,813152640,813121049,0,Thenightaway,French Revolution,/* Economics */ study
+2017-12-22T20:39:50+00:00,816658684,813164951,0,2602:306:CEAB:8320:31CF:AB60:9B40:5B77,French Consulate,/* Fall of the Directory government */
+2009-05-13T00:30:08+00:00,289581832,289581624,0,Camr,French Revolution,/* Royal flight to Varennes */
+2007-07-12T14:19:47+00:00,144186145,144134567,0,Beyond silence,French Revolution,/* Constitutional crisis */ The Storming of the Tuileries Palace
+2005-11-03T19:24:11+00:00,27275759,27275700,0,64.83.234.164,French Revolution,/* Ha Ha From the anniversary of the Bastille to the death of Mirabeau */
+2010-02-13T09:12:52+00:00,343696963,336776565,0,Woohookitty,Frits Thaulow,[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.98 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2018-08-09T02:35:02+00:00,854119189,854119114,0,Jprg1966,French Revolution,/* Legislative Assembly (Oct.1791–Sept.1792) */
+2014-01-06T10:24:22+00:00,589425171,588509389,0,Roede,Frits Thaulow,
+2010-11-13T22:01:05+00:00,396585171,396585080,0,Top.Squark,French Revolution,/* Role of women */
+2011-05-07T03:43:14+00:00,427853387,416558763,0,Lockley,Frits Thaulow,narrow cat
+2012-05-07T03:54:33+00:00,491119266,485205079,0,Helpful Pixie Bot,Frits Thaulow,ISBNs (Build KC)
+2017-07-02T02:30:26+00:00,788555080,780580146,0,PrimeBOT,Frits Thaulow,Replace [[Help:Magic_links|magic links]] with templates per [[Special:PermaLink/772743896#Future_of_magic_links|local RfC]] - [[User:PrimeBOT/13|BRFA]]
+2016-05-22T18:12:23+00:00,721564680,717461569,0,94.211.219.206,Gardes du Corps du Roi (France),/* Motto */
+2010-11-23T01:28:47+00:00,398355539,384849707,0,Xyzzyva,Gardes du Corps du Roi (France),added IPA
+2008-11-13T02:30:33+00:00,251474697,232871518,0,Rjwilmsi,Gardes du Corps du Roi (France),"[[User:Rjwilmsi#Other_fixes|gen fixes]]: (2) apply [[Template:Lang]] (2),  using [[Project:AutoWikiBrowser|AWB]]"
+2006-12-07T14:25:14+00:00,92698895,85199645,0,OM,Georges Couthon,language link: fi
+2007-03-13T17:52:16+00:00,114846148,114621359,0,Drinibot,Georges Couthon,"""Wikipedia:Categories for discussion/Log/2007 March 4"" removing:French Freemasons"
+2014-05-14T17:35:22+00:00,608572687,599780679,0,Str1977,Georges Couthon,/* Legacy */ rm POV paragraph - who deemed this necessary?
+2011-09-11T22:42:57+00:00,449899899,448625565,0,Hillock65,Germaine de Staël,/* External links */ iw
+2017-11-16T19:02:46+00:00,810674134,810609127,0,Dyersgoodness,Germaine de Staël,Removed dead link on the book Corinne ou L'Italie. I could not find an existing Wikipedia page for it.
+2010-03-14T14:56:10+00:00,349810394,347826855,0,Luckas-bot,Germaine de Staël,robot Adding: [[zh:杰曼·德斯戴尔]]
+2005-09-08T11:31:25+00:00,22836241,22457115,0,Saga City,Germaine de Staël,/* Salons at Coppet and Paris */  dab Mickleham
+2010-03-30T06:56:48+00:00,352906671,352806198,0,Bob Burkhardt,Germaine de Staël,/* References */ EB1911 article in Wikisource
+2009-07-05T21:26:49+00:00,300476851,300017014,0,Nielspeterqm,Germaine de Staël,/* Further reading */ Added the central reference on Staël & her also famous 2 parents.
+2013-07-29T02:43:47+00:00,566231684,566230869,0,Emdavid,Germaine de Staël,I've made some minor changes in style and grammar.
+2014-01-07T16:06:01+00:00,589616730,580430663,0,PBS-AWB,Germaine de Staël,"modification to EB1911 and or Cite NIE and some other similar templates, replaced: {{Cite EB1911| → {{Cite EB1911|wstitle= using [[Project:AWB|AWB]]"
+2013-07-23T01:00:18+00:00,565407705,565322403,0,83d40m,Germaine de Staël,light edit to revolutionary activities
+2007-06-25T20:27:23+00:00,140595968,137561503,0,Dj Capricorn,Germaine de Staël,/* External links */ et coming very soon !
+2012-05-23T15:28:44+00:00,494003827,492981113,0,186.120.96.154,Germaine de Staël,/* Cultural references */
+2017-06-10T13:25:54+00:00,784868657,782044856,0,GegeZ,Germaine de Staël,/* German travels */
+2017-12-09T21:31:19+00:00,814609973,814609841,0,Chrisdoyleorwell,Germaine de Staël,/* Restoration */
+2013-07-07T19:06:51+00:00,563272556,563270724,0,Widr,Germaine de Staël,Reverted edit(s) by [[Special:Contributions/82.21.56.107|82.21.56.107]] identified as test/vandalism using [[WP:STiki|STiki]]
+2006-09-11T18:58:16+00:00,75139044,75138696,0,Kungfuadam,Germaine de Staël,Reverted edits by [[Special:Contributions/68.9.63.221|68.9.63.221]] ([[User talk:68.9.63.221|talk]]) to last version by 71.77.12.224
+2009-08-24T20:19:31+00:00,309842626,309781985,0,Orthorhombic,Germaine de Staël,/* Salons at Coppet and Paris */
+2011-04-09T17:04:44+00:00,423197185,423195462,0,Shape Prior,Germaine de Staël,/* Restoration */
+2008-11-09T23:08:20+00:00,250747732,250742253,0,TXiKiBoT,Germaine de Staël,robot  Adding: [[eo:Madame de Staël]]
+2007-08-28T20:29:24+00:00,154242570,141666500,0,Afasmit,Germaine de Staël,defaultsort (acc. to Chicago Manual of Style and Library of Congress Authorities)
+2008-04-23T00:48:00+00:00,207495274,206675707,0,70.77.76.127,Germaine de Staël,/* Revolutionary activities */
+2005-07-26T07:51:13+00:00,19628938,18595978,0,YurikBot,Germaine de Staël,robot  Modifying: de
+2005-06-04T16:56:57+00:00,14933691,14696270,0,Gdrbot,Germaine de Staël,Robot-assisted disambiguation: Bonaparte
+2013-10-05T11:14:16+00:00,575847108,566231684,0,Ohconfucius,Germaine de Staël,"correct format drift per [[WP:MOSNUM]], [[WP:Linking]] using [[Project:AWB|AWB]]"
+2007-03-29T16:57:57+00:00,118815683,113981785,0,Jmabel,Germaine de Staël,"/* Assessment */ ""philosophe"", not ""philosopher"", was correct here. And this is in an (easily verified) quote. Please don't change direct quotations to suit your tastes!"
+2015-01-12T16:06:13+00:00,642169540,638442274,0,Ulflarsen,Germaine de Staël,Internal link added
+2009-10-12T15:43:57+00:00,319437537,313110297,0,Monegasque,Germaine de Staël,
+2014-12-17T02:45:58+00:00,638442274,624829817,0,108.209.190.161,Germaine de Staël,
+2006-08-10T10:39:56+00:00,68793654,68009874,0,Emre D.,Germaine de Staël,/* Salons at Coppet and Paris */ [[directory]] ->Disambiguation link repair - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2012-04-28T05:27:18+00:00,489580710,488641997,0,Codster9,Germaine de Staël,/* Cultural references */
+2008-01-18T19:56:30+00:00,185267757,182843707,0,Rei-bot,Germaine de Staël,robot  Modifying: [[bg:Ан Луиз Жермен дьо Стал]]
+2009-12-09T07:43:32+00:00,330628639,330575014,0,Dinamik-bot,Germaine de Staël,robot Adding: [[tr:Anne Louise Germaine de Staël]]
+2011-05-28T12:45:20+00:00,431328176,429316548,0,Ccarroll,Germaine de Staël,/* Childhood */changed typo
+2006-04-30T02:06:07+00:00,50828269,50040504,0,Montrealais,Germaine de Staël,
+2009-10-30T15:31:58+00:00,322936015,322933934,0,Jusdafax,Germaine de Staël,Reverted edits by [[Special:Contributions/12.107.72.2|12.107.72.2]] to last revision by Monegasque ([[WP:HG|HG]])
+2017-01-26T07:43:08+00:00,762038400,728937696,0,Marcocapelle,Grand Dignitaries of the French Empire,removed [[Category:History of France]]; added [[Category:First French Empire]] using [[WP:HC|HotCat]]
+2006-04-23T01:24:07+00:00,49684473,47963437,0,Ronline,Gui-Jean-Baptiste Target,
+2012-06-29T05:54:22+00:00,499865180,497374949,0,Papalopolis,Gui-Jean-Baptiste Target,
+2008-01-17T10:15:48+00:00,184945651,162881776,0,SieBot,Gui-Jean-Baptiste Target,robot  Adding: [[nl:Guy-Jean-Baptiste Target]] Modifying: [[fr:Guy-Jean-Baptiste Target]]
+2005-07-18T18:54:43+00:00,19096141,18741772,0,Jonel,Henri François Delaborde,link to other Henri Delaborde
+2011-05-29T16:21:57+00:00,431505849,431187293,0,Lockley,Gui-Jean-Baptiste Target,/* References */ center box
+2006-11-16T02:00:58+00:00,88118533,59268792,0,FlaBot,Henri François Delaborde,robot  Adding: [[fr:Henri François Delaborde]]
+2006-03-13T05:27:27+00:00,43547160,32515007,0,Olivier,Henri François Delaborde,dabs
+2009-12-03T00:18:43+00:00,329347483,328578929,0,Full-date unlinking bot,Henri Gatien Bertrand,Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: BRreg(×3)
+2005-09-11T12:08:06+00:00,23036062,22934158,0,FeanorStar7,Henri Gatien Bertrand,
+2008-02-22T13:22:09+00:00,193264161,162911383,0,Johnthescavenger,Henri Gatien Bertrand,El spelling-o
+2011-09-08T23:56:19+00:00,449228914,329347483,0,RjwilmsiBot,Henri Gatien Bertrand,/* References */Adding Persondata using [[Project:AWB|AWB]] (7822)
+2008-08-09T00:36:54+00:00,230722275,230668407,0,Wikidea,History of economic thought,I wrote it you moron.
+2012-04-23T09:04:23+00:00,488782034,488781977,0,J. Milch,History of economic thought,/* External links */
+2009-01-17T08:14:51+00:00,264632006,264373852,0,Citation bot,History of economic thought,Citation maintenance. Added: doi.  You can [[WP:DOI|use this bot]] yourself! Please [[User:DOI_bot/bugs|report any bugs]].
+2012-01-19T13:42:12+00:00,472059912,472059368,0,Lorzu,"Honoré Gabriel Riqueti, comte de Mirabeau",/* Early life */
+2008-10-13T00:29:06+00:00,244882278,244882195,0,24.143.51.174,"Honoré Gabriel Riqueti, comte de Mirabeau",
+2018-04-21T08:44:05+00:00,837511082,797382946,0,Tony1,"Honoré Gabriel Riqueti, comte de Mirabeau","[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+2014-12-30T19:54:46+00:00,640280592,637793530,0,Absolute98,"Honoré Gabriel Riqueti, comte de Mirabeau",
+2010-11-30T11:17:01+00:00,399703463,398212017,0,Art&concepts,Jacques-Augustin-Catherine Pajou,image
+2013-07-07T17:50:56+00:00,563264226,554974323,0,M-le-mot-dit,Jacques-Augustin-Catherine Pajou,[[:en:WP:CLEANER|WPCleaner]] v1.27 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Trianon]]
+2013-10-31T16:54:28+00:00,579632921,570636420,0,Ericoides,Jacques-François Menou,dash
+2006-11-23T07:43:46+00:00,89614222,85171771,0,Art LaPella,Jacques-François Menou,link to the twin article - one should probably be a redirect to the other
+2007-03-19T04:55:22+00:00,116185816,115831109,0,Yahel Guhan,Jacques-François Menou,/* Notes */
+2013-07-26T23:51:08+00:00,565955845,549371335,0,XPTO,Jean Gabriel Marchand,Disambiguated: [[Siege of Almeida]] → [[Siege of Almeida (1810)]]
+2009-06-19T13:04:23+00:00,297354132,280785300,0,Netelo,Jean Gabriel Marchand,"+ [[:ru:Маршан, Жан Габриэль]]"
+2009-08-02T12:52:27+00:00,305625397,297354132,0,GcSwRhIc,Jean Gabriel Marchand,/* References */ removed cat  for which one of existing categories is a subcategory
+2011-01-17T21:27:25+00:00,408464937,405245815,0,188.112.77.58,Jean Gabriel Marchand,
+2014-08-26T16:28:01+00:00,622904100,601624203,0,Vivaelcelta,Jean Gabriel Marchand,
+2016-08-03T07:28:20+00:00,732788219,720271305,0,Zawed,Jean Lannes,/* Early life */ delete surplus full stop
+2006-09-04T07:43:18+00:00,73718815,71465128,0,Wetman,Jean Lannes,Maisons
+2014-03-28T07:55:39+00:00,601623878,600764588,0,PBS-AWB,Jean Lannes,/* External links */Add [[Cagegory:Names inscribed under the Arc de Triomphe]] using [[Project:AWB|AWB]]
+2012-11-17T01:40:24+00:00,523422210,522608078,0,VIAFbot,Jean Sylvain Bailly,Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 27174087: http://viaf.org/viaf/27174087 . Please [[WP:VIAF/errors|report any errors]].
+2007-09-19T00:46:30+00:00,158849895,158849423,0,Phoebe,Jean Sylvain Bailly,/* Further reading */  +dict sci bio reference
+2015-12-25T16:53:59+00:00,696760237,693328003,0,87.18.246.147,Jean Sylvain Bailly,
+2017-12-14T03:10:26+00:00,815312735,815304163,0,Tavix,Jean-Antoine,"cat removal, tidy"
+2012-10-10T22:45:34+00:00,517085967,461273157,0,VIAFbot,Jean-Antoine Marbot,Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 15884072.
+2008-04-13T15:16:52+00:00,205339023,205319050,0,Fdewaele,Jean-Antoine Marbot,
+2010-12-18T10:03:26+00:00,402996167,402996127,0,Pavel Vozenilek,Jean-Antoine Marbot,Jean-Antoine
+2009-06-13T12:14:50+00:00,296155237,292347679,0,DefaultsortBot,Jean-Antoine Marbot,"Added DEFAULTSORT to page (used a WikiProject banner's listas parameter on the talk page), removed redundant category sort tags. [[User talk:DefaultsortBot|Did I get it wrong?]]"
+2014-03-15T19:37:24+00:00,599760912,574671485,0,OccultZone,Jean-Antoine Marbot,clean up using [[Project:AWB|AWB]]
+2009-11-11T13:25:38+00:00,325239607,296155237,0,RogDel,Jean-Antoine Marbot,Cleanup - vital dates
+2009-01-23T08:34:35+00:00,265882046,263464661,0,193.205.194.155,Jean-Baptiste,
+2015-09-13T02:01:50+00:00,680769844,678530011,0,Winkelvi,Jean-Baptiste,Reverted 1 edit by [[Special:Contributions/Cagepanes|Cagepanes]] ([[User talk:Cagepanes|talk]]): Revert per [[WP:DENY]] - user is sock of indeffed user Kbabej. ([[WP:TW|TW]])
+2009-09-09T14:35:57+00:00,312786628,299824416,0,Jorgebarrios,Jean-Baptiste,
+2014-12-21T20:46:33+00:00,639086461,637584582,0,76.100.252.24,Jean-Baptiste Bessières,
+2006-09-23T16:58:26+00:00,77380193,76934338,0,Carl Logan,Jean-Baptiste Bessières,small corrections
+2005-12-09T07:07:02+00:00,30688291,27641793,0,Albrecht,Jean-Baptiste Bessières,
+2011-11-29T16:32:40+00:00,463126498,463126451,0,209.114.128.51,Jean-Baptiste Debret,/* Biography */
+2007-02-12T19:44:56+00:00,107630637,103657969,0,SashatoBot,Jean-Baptiste Jourdan,robot  Adding: [[sr:Жан-Батист Журдан]]
+2011-01-15T12:14:14+00:00,408007672,398118054,0,Alexandru.demian,Jean-Baptiste Jourdan,
+2010-01-16T14:24:58+00:00,338182177,337834197,0,Mathiasrex,Jean-Baptiste Jourdan,cat.
+2009-12-24T04:23:13+00:00,333727102,331984336,0,Full-date unlinking bot,"Jean-Gérard Lacuée, count of Cessac",Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: BRreg(×2)
+2010-07-30T11:17:00+00:00,376244485,375467204,0,Woohookitty,Jean-Baptiste Jourdan,[[:en:WP:CLEANER|WikiCleaner]] 0.99 - Repairing link to disambiguation page - [[WP:DPL|You can help!]]
+2009-06-17T21:58:58+00:00,297038830,293910807,0,Robbot,"Jean-Gérard Lacuée, count of Cessac",robot Adding: [[sl:Jean-Girard Lacuée]]
+2006-01-29T10:37:08+00:00,37198921,37197750,0,Chris93,Jean-Étienne Championnet,
+2004-11-25T07:27:19+00:00,16077172,7839758,0,Jumbuck,Jean-Étienne Championnet,robot  Modifying:de
+2010-12-04T14:57:31+00:00,400491583,398115852,0,JackieBot,Jean-Étienne Championnet,"r2.6.4) (robot Adding: [[ru:Шампионне, Жан Этьен Вашье]]"
+2008-12-29T20:04:28+00:00,260729937,260729792,0,Al-Nofi,Jean-Étienne Championnet,
+2015-03-07T01:06:49+00:00,650229046,645199287,0,107.107.187.181,Jena–Auerstedt campaign order of battle,Fixed typo
+2014-04-14T05:19:40+00:00,604113143,582687187,0,Klemen Kocjancic,Jena–Auerstedt campaign order of battle,/* Hohenlohe's Army */
+2013-02-25T18:45:06+00:00,540323935,528751380,0,PBS-AWB,Jena–Auerstedt campaign order of battle,"Some general fixes and, replaced: [[General der Kavallerie → [[General of the Cavalry (Germany)|General der Kavallerie using [[Project:AWB|AWB]]"
+2010-10-09T01:03:44+00:00,389623496,388104546,0,24.115.174.71,Joseph Bonaparte,
+2010-01-17T22:02:36+00:00,338438861,338438163,0,Mikeo,Joseph Bonaparte,Reverted edits by [[Special:Contributions/24.191.224.65|24.191.224.65]] to last revision by 71.163.25.92 ([[WP:HG|HG]])
+2009-08-12T21:20:44+00:00,307630049,307630013,0,68.38.84.218,Joseph Bonaparte,/* In America */
+2018-12-04T23:32:30+00:00,872059082,872058975,0,190.111.82.218,Joseph Bonaparte,/* Titles and styles */
+2005-11-28T23:54:02+00:00,29535614,29213885,0,138.130.76.183,Joseph Bonaparte,
+2013-07-20T13:15:58+00:00,565052123,563148356,0,Vanasan,Joseph Bonaparte,/* External links */
+2010-05-30T07:26:47+00:00,364983294,361879436,0,Attilios,Joseph Bonaparte,birt/death places must be inline in the article
+2012-06-09T08:11:26+00:00,496718234,495609841,0,Ewulp,Joseph Boze,ce
+2011-12-10T00:10:39+00:00,465041874,438139924,0,Aldis90,"Joseph, Baron von Mesko de Felsö-Kubiny",/* External Links (Sources) */
+2007-08-31T11:31:49+00:00,154788208,150796516,0,SmackBot,Joséphine de Beauharnais,Set up birth date/death date template and/or general fixes
+2013-03-31T14:31:49+00:00,547985356,546755886,0,CSsk151g,Joséphine de Beauharnais,/* Marriage to Napoléon */
+2011-07-28T00:45:03+00:00,441794877,439592124,0,Josephinebonaparte,Joséphine de Beauharnais,/* Early life */
+2007-09-12T17:19:41+00:00,157417068,157416422,0,Kstelmack,Joséphine de Beauharnais,/* Later life */
+2005-06-10T21:06:19+00:00,15293315,14994573,0,80.98.240.245,Joséphine de Beauharnais,
+2011-10-18T15:20:39+00:00,456195655,454987220,0,MonsieurET,Joséphine de Beauharnais,/* Early life */ spell
+2009-12-09T00:51:28+00:00,330574160,327886617,0,The Emperor's New Spy,Joséphine de Beauharnais,
+2007-01-13T21:34:08+00:00,100517161,100403722,0,213.67.244.185,Joséphine de Beauharnais,
+2019-04-10T17:26:28+00:00,891868813,891868789,0,Surtsicna,Joséphine de Beauharnais,
+2010-05-13T03:40:44+00:00,361817154,361790021,0,PeterHuntington,Joséphine de Beauharnais,/* External links */
+2018-08-20T15:28:17+00:00,855748903,851601610,0,Ira Leviton,Joséphine de Beauharnais,Deleted the phrasing 'it is also interesting to note that' - see [[Wikipedia:Manual_of_Style/Words_to_watch#editorializing]].
+2009-05-23T21:35:34+00:00,291885713,283659678,0,MauritsBot,Laurent de Gouvion Saint-Cyr,robot  Adding: [[sl:Laurent de Gouvion-Saint-Cyr]]
+2006-07-07T07:48:34+00:00,62518274,57512267,0,YurikBot,Laurent de Gouvion Saint-Cyr,robot  Modifying: [[nl:Laurent de Gouvion Saint-Cyr]]
+2010-05-14T03:00:37+00:00,362019585,358016152,0,PeterHuntington,Laurent de Gouvion Saint-Cyr,/* References */
+2013-10-04T14:55:48+00:00,575736582,563975053,0,Moswento,Laurent de Gouvion Saint-Cyr,Disambiguated: [[Daugava]] → [[Daugava River]]
+2007-01-20T21:33:52+00:00,102075094,102072835,0,Carl Logan,Laurent de Gouvion Saint-Cyr,/* Reference */ clean up and added some things
+2010-04-17T07:28:52+00:00,356558257,352558612,0,Louperibot,Laurent de Gouvion Saint-Cyr,robot Adding: [[cs:Laurent Gouvion de Saint-Cyr]]
+2011-02-13T09:13:10+00:00,413656078,413210181,0,Charvex,Laurent de Gouvion Saint-Cyr,/* References */ Fix link to Molé
+2011-11-04T21:37:27+00:00,459039176,453236435,0,ZéroBot,Legislative Assembly (France),r2.7.1) (Robot: Adding [[uk:Законодавчі збори Франції (1791-1792)]]
+2010-11-09T08:04:52+00:00,395703767,395642948,0,Jeanne boleyn,Joséphine de Beauharnais,Undid revision 395642948 by [[Special:Contributions/98.232.216.216|98.232.216.216]] ([[User talk:98.232.216.216|talk]])
+2004-11-30T22:10:22+00:00,16567534,7996129,0,Jmabel,Legislative Assembly (France),Reverted edits by [[Special:Contributions/209.7.171.19|209.7.171.19]] to last version by 141.216.1.44
+2016-02-28T16:48:50+00:00,707395070,707395042,0,94.116.20.45,Legislative Assembly (France),
+2016-01-31T18:56:08+00:00,702624077,702609828,0,68.170.71.98,List of Assassin's Creed characters,Fixed typo
+2016-09-04T01:03:47+00:00,737620308,737444394,0,67.235.111.145,List of Assassin's Creed characters,/* Daniel Cross */
+2013-04-26T15:48:12+00:00,552289434,552022252,0,Khazar2,List of Assassin's Creed characters,"clean up, [[WP:AWB/T|typos fixed]]: breifly → briefly, commited → committed (2), disasterously → disastrously, prominant → prominent, interupted → interrupted, chinese → Chinese (2) using [[Project:AWB|AWB]]"
+2017-11-19T11:43:16+00:00,811078762,810683067,0,Ipigott,List of Swiss people,/* Music */ Caroline Charrière
+2015-11-08T17:05:52+00:00,689658816,686920996,0,Blethering Scot,List of Swiss people,Disambiguated: [[Finding Neverland]] → [[Finding Neverland (film)]]
+2009-05-13T20:25:35+00:00,289741023,288472084,0,84.73.97.16,List of Swiss people,/* Art */
+2018-01-11T14:53:05+00:00,819835205,816294416,0,Excubitorcaecus,List of Swiss people,
+2006-04-18T14:51:53+00:00,49009249,49008853,0,Znlrwl,List of civil rights leaders,
+2015-05-16T02:10:38+00:00,662530990,659203949,0,173.3.222.239,List of civil rights leaders,
+2007-04-30T22:21:48+00:00,127263271,127260188,0,68.186.93.55,List of civil rights leaders,"I changed ""US president"" to ""President of the United States"" and linked it to it's appropriate Wiki Page. In addition, I've added that Abraham Lincoln was the sixteenth US President."
+2018-10-10T18:57:36+00:00,863434261,863414608,0,RSStockdale,List of civil rights leaders,/* References */ added that individuals should be used for their own references
+2012-07-27T15:26:41+00:00,504443022,499985156,0,Hmainsbot1,List of presidents of the National Convention,"/* 1792 */AWB general fixes and delink dates per [[:WP:DATELINK]], [[:WP:YEARLINK]] and [[:MOS:UNLINKYEARS]] using [[Project:AWB|AWB]] (8097)"
+2018-02-10T18:04:53+00:00,824968515,809604381,0,178.92.148.243,List of presidents of the National Convention,/* Sources */
+2010-12-12T17:44:31+00:00,401984369,372037332,0,Plastikspork,List of presidents of the National Convention,layout
+2010-04-29T10:06:09+00:00,359029316,358431765,0,SmackBot,List of presidents of the National Convention,/* 1795 */Tag uncategorised and general fixes:
+2015-04-14T13:16:23+00:00,656433136,656432790,0,Sundostund,List of presidents of the National Convention,/* 1794 */
+2015-10-10T16:56:55+00:00,685074143,685050687,0,Shakko,List of rulers of Partitioned Poland,"([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Makovsky Alexander II of Russia.jpg]] → [[File:Alexander II of Russia by K.Makovskiy (1881, GTG).jpg]]"
+2016-08-16T01:14:40+00:00,734684874,685074143,0,188.216.177.117,List of rulers of Partitioned Poland,/* Dukes of Warsaw (Warszawa) */
+2014-06-16T13:08:27+00:00,613140020,602843207,0,66.186.101.222,List of scientists whose names are used as units,/* Napier and Bell */
+2018-05-13T20:13:41+00:00,841057649,832304815,0,Comp.arch,List of scientists whose names are used as units,
+2008-09-19T10:49:54+00:00,239524677,229040198,0,Lightbot,"Louis Antoine, Duke of Enghien",Units/dates/other
+2006-11-06T18:15:15+00:00,86089191,76742854,0,RodC,"Louis Antoine, Duke of Enghien",
+2012-08-05T21:24:16+00:00,505964906,491146499,0,RjwilmsiBot,Louis François Félix Musnier,/* Bibliography */Adding/updating Persondata using [[Project:AWB|AWB]] (8226)
+2012-09-03T15:29:24+00:00,510601654,505964906,0,Asalrifai,Louis François Félix Musnier,/* Bibliography */
+2010-01-09T01:25:55+00:00,336716502,336671460,0,BoBo,Louis Philippe I,/* Early life */
+2014-05-27T16:51:48+00:00,610369150,610369011,0,Evanmcookies,Louis Philippe I,
+2007-12-09T09:25:25+00:00,176738745,176371115,0,DaddyWarlock,Louis Philippe I,
+2016-12-15T04:35:37+00:00,754907994,748913621,0,86.69.180.94,Louis Philippe I,
+2008-04-11T17:22:55+00:00,204956765,204927437,0,BoBo,Louis Philippe I,/* Ancestors */
+2018-12-12T05:34:54+00:00,873278013,873265184,0,Rjensen,Louis Philippe I,/* Bourbon Restoration (1815–1830) */ not true--see https://books.google.com/books?id=tLD72dc8vnYC&pg=PA257
+2014-05-16T11:25:45+00:00,608820864,608820815,0,Spiceman54j,Louis Philippe I,
+2014-11-23T01:33:47+00:00,635041181,630752731,0,68.38.134.148,Louis Philippe I,
+2012-02-13T22:01:12+00:00,476723752,475824591,0,81.148.219.169,Louis Philippe I,/* Ancestors */
+2010-12-23T01:11:01+00:00,403798428,402533510,0,Indisciplined,Louis Philippe I,
+2006-07-03T10:08:52+00:00,61825586,61825535,0,Attilios,Louis Philippe I,removed side space
+2006-09-28T10:57:17+00:00,78282688,78282551,0,Lazynitwit,Louis Philippe I,rvv
+2007-10-07T18:16:14+00:00,162909425,150209135,0,BOTijo,"Louis Pierre Édouard, Baron Bignon",+DEFAULTSORT
+2011-05-27T12:31:51+00:00,431169833,398112836,0,EmausBot,"Louis Pierre Édouard, Baron Bignon",r2.6.4) (robot Modifying: [[sv:Louis Bignon]]
+2014-10-01T15:37:48+00:00,627830569,627830334,0,AmaryllisGardener,Louis XVIII,Reverted 1 edit by [[Special:Contributions/109.151.48.9|109.151.48.9]] ([[User talk:109.151.48.9|talk]]) to last revision by BG19bot. ([[WP:TW|TW]])
+2007-04-13T16:09:50+00:00,122517623,122266577,0,Renamed user abcedarium,Louis XVIII,
+2009-08-03T14:42:09+00:00,305823437,298132270,0,Netelo,"Louis, comte de Narbonne-Lara",+ image
+2007-12-25T18:29:03+00:00,180131427,141685987,0,Piotrus,"Louis, comte de Narbonne-Lara",stub{{France-mil-bio-stub}}
+2011-01-02T22:22:30+00:00,405571183,405077820,0,Gaius Octavius Princeps,Louis-Alexandre Berthier,/* Military career */ added quote
+2013-09-26T21:21:47+00:00,574658286,566744362,0,Nimetapoeg,"Louis, comte de Narbonne-Lara",removed [[Category:French diplomats]]; added [[Category:19th-century French diplomats]] using [[WP:HC|HotCat]]
+2012-05-09T04:11:21+00:00,491522926,484062355,0,Helpful Pixie Bot,Louis-Alexandre Berthier,ISBNs (Build KE)
+2007-04-06T10:50:09+00:00,120704631,116569332,0,Thijs!bot,Louis-Alexandre Berthier,robot  Adding: [[pl:Louis Alexandre Berthier]]
+2012-01-22T20:30:09+00:00,472669996,472217657,0,188.66.85.142,Louis-Alexandre Berthier,/* In Popular Culture */
+2010-05-13T03:40:06+00:00,361817076,361714147,0,PeterHuntington,Louis-Alexandre Berthier,/* Suggested Reading */
+2005-09-30T00:07:29+00:00,24358676,22737615,0,71.112.137.180,Louis-Gabriel Suchet,
+2007-04-01T03:39:51+00:00,119411570,106474268,0,Roboto de Ajvol,Louis-Gabriel Suchet,"robot  Adding: [[ru:Сюше, Луи Габриэль]]"
+2014-03-17T21:25:27+00:00,600068222,556639213,0,OccultZone,Louis-Gabriel Suchet,clean up using [[Project:AWB|AWB]]
+2009-05-20T06:44:16+00:00,291124067,288665783,0,PigFlu Oink,Low Countries theatre of the War of the First Coalition,[[Wikipedia:Lists of common misspellings | Spelling Fix]] equiped->equipped
+2010-11-21T11:49:47+00:00,398040337,381779676,0,RjwilmsiBot,Luc Siméon Auguste Dagobert,/* Bibliography */Adding Persondata using [[Project:AWB|AWB]] (7393)
+2015-10-14T09:37:17+00:00,685681020,685680982,0,WG Wine,Luigi Veronelli,
+2008-09-19T12:35:42+00:00,239546384,187610482,0,Lightbot,Luigi Veronelli,Units/dates/other
+2009-12-03T23:40:51+00:00,329565164,297173317,0,Full-date unlinking bot,Luigi Veronelli,Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: AMreg(×2)
+2005-07-30T07:27:53+00:00,19907600,0,0,Marbot,Marbot family,new
+2007-06-15T20:29:33+00:00,138423185,127536980,0,Marbot,Marbot family,+ fr
+2009-08-13T16:31:05+00:00,307769361,306762315,0,Stanford12345,Marbot family,
+2007-07-02T22:32:08+00:00,142109597,142109489,0,Topbanana,Marcellin Marbot,Fix link to Sam Clemens
+2005-05-28T15:17:13+00:00,16196544,14361894,0,213.6.10.2,Marcellin Marbot,
+2005-07-06T13:57:09+00:00,18258913,16196544,0,82.120.1.160,Marcellin Marbot,
+2006-07-14T10:55:36+00:00,63762623,41362358,0,FeanorStar7,Marcellin Marbot,
+2007-04-05T17:48:53+00:00,120532480,120532211,0,76.183.153.103,Marcellin Marbot,/* Trivia */
+2011-03-23T02:57:11+00:00,420260560,419421819,0,Asketix,Marcellin Marbot,
+2007-12-07T11:47:54+00:00,176349237,142109597,0,SmackBot,Marcellin Marbot,Standard headings &/or gen fixes.  using [[Project:AutoWikiBrowser|AWB]]
+2008-07-01T10:47:01+00:00,222838453,220826457,0,JAnDbot,Marcellin Marbot,robot  Modifying: [[fr:Jean-Baptiste Antoine Marcellin de Marbot]]
+2006-02-10T15:48:30+00:00,39078340,35198241,0,80.33.2.202,Marcellin Marbot,
+2009-12-21T23:24:13+00:00,333146522,314746790,0,Full-date unlinking bot,Marcellin Marbot,Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: AMreg(×2)
+2007-01-02T15:56:06+00:00,97956980,96870533,0,JAnDbot,Marcellin Marbot,robot  Modifying: [[fr:Marcellin de Marbot]]
+2010-11-22T13:13:03+00:00,398239360,362018815,0,RjwilmsiBot,Marcellin Marbot,/* External links */Adding Persondata using [[Project:AWB|AWB]] (7393)
+2008-09-19T05:01:52+00:00,239475555,222838453,0,Lightbot,Marcellin Marbot,Units/dates/other
+2010-10-24T17:26:48+00:00,392626709,384970395,0,Alexandru.demian,Marengo order of battle,/* French Army */
+2013-05-10T03:38:46+00:00,554392620,541394004,0,Lockley,Marguerite Gérard,/* References */ cats
+2015-09-30T09:48:49+00:00,683443647,674725953,0,188.135.8.75,Marguerite Gérard,/* Notes */
+2007-02-03T18:16:23+00:00,105374598,105374326,0,Sotakeit,Marie Joséphine of Savoy,
+2007-05-09T16:00:14+00:00,129544453,118770104,0,212.76.37.196,Marie Joséphine of Savoy,
+2012-11-16T20:38:22+00:00,523383654,485499958,0,VIAFbot,Michael von Melas,Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 81247390: http://viaf.org/viaf/81247390 . Please [[WP:VIAF/errors|report any errors]].
+2013-07-17T02:01:45+00:00,564595249,542293685,0,Jfmantis,Michael von Melas,"replaced ""affected the outcome"" with something less vague"
+2009-11-06T18:38:44+00:00,324318698,324318664,0,86.42.217.137,Military governor of Paris,
+2017-07-28T14:25:54+00:00,792762369,792762260,0,79.141.139.36,Nadar,/* Life */
+2011-06-15T20:02:50+00:00,434466367,434466148,0,Plindenbaum,Nadar,Ardan
+2007-04-29T19:07:22+00:00,126916313,126908120,0,Nopira,Nadar,+ja
+2010-11-13T19:55:50+00:00,396565220,394139591,0,RjwilmsiBot,Nadar,/* External links */Adding Persondata using [[Project:AWB|AWB]] (7374)
+2012-11-20T06:53:14+00:00,523979027,522518752,0,VIAFbot,Olympe de Gouges,Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 9846924: http://viaf.org/viaf/9846924 . Please [[WP:VIAF/errors|report any errors]].
+2008-03-12T10:28:08+00:00,197689288,197034894,0,TuringTestPilot,Olympe de Gouges,removed vandalism from [[Special:Contributions/71.145.177.94|71.145.177.94]]
+2010-02-18T02:49:35+00:00,344743705,344742550,0,Eric,Olympe de Gouges,Undid revision 344742550 by [[Special:Contributions/208.100.171.218|208.100.171.218]] ([[User talk:208.100.171.218|talk]])rvv
+2016-03-13T03:02:41+00:00,709790932,709721751,0,70.50.98.202,Order of battle of the Waterloo campaign,/* I Corps */
+2006-04-28T07:29:04+00:00,50549439,45069475,0,Travelbird,Order of battle of the Waterloo campaign,/* Reserves */ Disambiguation link repair - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2014-07-04T18:50:39+00:00,615607036,615603687,0,PBS,Order of battle of the Waterloo campaign,/* II Corps */ wrong brother in last edit
+2012-11-23T18:56:47+00:00,524536159,512810921,0,Keith D,Order of battle of the Waterloo campaign,/* II Corps */ Date format
+2009-03-25T12:00:57+00:00,279565589,265425271,0,Monegasque,Paul Barras,Category.
+2009-07-02T06:22:22+00:00,299839141,299839050,0,173.66.251.215,Paul Barras,
+2006-08-20T13:42:24+00:00,70761172,70552407,0,C. C. Perez,Paul Barras,
+2017-07-23T21:12:04+00:00,792005258,786958444,0,Anita5192,Philip José Farmer,Disambiguated [[Fantastic (magazine)]] in lead
+2016-06-07T00:48:29+00:00,724077782,722913111,0,Marc Kupper,Philip José Farmer,/* Religious */ wikilink
+2012-09-01T04:17:25+00:00,510224298,509134689,0,ShelfSkewed,Philip José Farmer,"fix isbn, rm notice"
+2005-11-08T08:29:20+00:00,27704125,27639369,0,Lokicarbis,Philip José Farmer,add cat
+2009-12-12T07:02:13+00:00,331227145,331154382,0,Ekabhishek,Physiocracy,/* References */
+2008-07-25T15:23:53+00:00,227842642,225922245,0,VBGFscJUn3,Physiocracy,"removed statement with ""citation needed"" tag for over a month"
+2013-04-01T13:47:43+00:00,548145213,545936782,0,Iamisha,Physiocracy,/* Precursors */ Changed centered around to centered on
+2008-09-19T04:23:59+00:00,239468454,235449424,0,Lightbot,Pierre Louis Prieur,Units/dates/other
+2013-12-21T02:14:47+00:00,587041968,581423483,0,Tony1,Pierre Samuel du Pont de Nemours,"[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+2013-11-26T19:37:19+00:00,583426332,540675073,0,Bermicourt,Prince Josias of Saxe-Coburg-Saalfeld,added [[Category:Imperial generals of the Holy Roman Empire]] using [[WP:HC|HotCat]]
+2012-06-04T12:31:32+00:00,495925401,495404464,0,217.83.111.238,Philip José Farmer,/* Religious */ linked JoM to its respective article
+2010-09-11T00:30:54+00:00,384115964,384115681,0,John K,Prince Josias of Saxe-Coburg-Saalfeld,/* Biography */
+2010-09-08T02:00:15+00:00,383565561,376396015,0,RjwilmsiBot,Prince Josias of Saxe-Coburg-Saalfeld,/* References */Persondata completion using [[Project:AWB|AWB]] (7100)
+2008-10-31T03:08:09+00:00,248750465,237270596,0,66.30.251.12,Siege of Genoa (1800),/* Background */
+2012-11-19T11:24:58+00:00,523830142,511835276,0,212.38.132.66,Spanish invasion of Portugal (1762),The Spanis-Portuguese War and the Anglo-Spanish War were both part of the larger Seven Years' War.
+2010-03-07T20:31:23+00:00,348388321,341473160,0,Lord Cornwallis,Spanish invasion of Portugal (1762),changed Lippe's flag to Portuguese
+2017-02-02T19:23:59+00:00,763354137,763018508,0,GünniX,Spanish invasion of Portugal (1762),ref name fixed [[WP:REFNAME]] using [[Project:AWB|AWB]]
+2012-08-03T01:46:56+00:00,505511594,503822611,0,Hmainsbot1,Suzanne Curchod,"AWB general fixes and delink dates per [[:WP:DATELINK]], [[:WP:YEARLINK]] and [[:MOS:UNLINKYEARS]] using [[Project:AWB|AWB]] (8097)"
+2013-03-03T20:47:56+00:00,541941330,540802856,0,66.152.117.130,Suzanne Curchod,
+2009-09-04T15:49:46+00:00,311850872,301532430,0,D'ohBot,Suzanne Curchod,robot Adding: [[it:Suzanne Curchod]]
+2010-02-03T14:34:35+00:00,341685978,334255731,0,85.226.42.181,Suzanne Curchod,/* References */
+2007-12-09T18:24:31+00:00,176815871,158741143,0,86.147.74.176,Suzanne Curchod,
+2006-08-03T16:34:26+00:00,67463607,64874096,0,Laserbeamcrossfire,Talk:François Certain de Canrobert,
+2007-09-08T10:07:45+00:00,156455496,156455446,0,Roger Davies,Talk:Jean-Étienne Championnet,bio = stub
+2010-12-01T03:12:48+00:00,399853102,395759865,0,Varlaam,The Battle (Rambaud novel),/* External links */
+2015-11-23T17:20:33+00:00,692068391,692068351,0,In ictu oculi,The Battle (Rambaud novel),In ictu oculi moved page [[The Battle (novel)]] to [[The Battle (Patrick Rimbaud novel)]]
+2016-12-18T03:02:25+00:00,755452466,754653727,0,108.45.180.19,Timeline of the French Revolution,/* 1788  - The royal treasury is empty; Prelude to the Revolution */
+2016-04-06T14:44:29+00:00,713915567,713915540,0,Patient Zero,Timeline of the French Revolution,Reverted edits by [[Special:Contributions/72.159.148.124|72.159.148.124]] ([[User talk:72.159.148.124|talk]]) ([[WP:HG|HG]]) (3.1.20)
+2007-03-16T00:04:57+00:00,115441505,114235511,0,74.33.122.30,Timeline of the French Revolution,/* The National Convention */
+2012-10-10T23:47:11+00:00,517094988,517037220,0,Elginapples,Treaty of Versailles,
+2010-09-26T10:08:57+00:00,387099486,386606249,0,94.1.102.255,Treaty of Versailles,
+2015-01-31T20:23:53+00:00,645040004,642842007,0,Richard Keatinge,Treaty of Versailles,/* Territorial changes */ typo fix
+2018-11-25T22:45:26+00:00,870606832,870605922,0,Guest2625,Treaty of Versailles,
+2014-10-30T02:03:30+00:00,631696867,624024109,0,Gunnar.offel,Tyrol 1809 order of battle,Replaced with Picture without construction site
+2017-05-20T16:09:37+00:00,781335131,761379343,0,Ira Leviton,VII Corps (Grande Armée),Fixed typos.
+2018-06-18T02:35:30+00:00,846335471,787659809,0,BeatrixBelibaste,VII Corps (Grande Armée),+color image for Durutte
+2009-06-18T09:42:53+00:00,297129332,292775564,0,71.142.244.172,Valentine de Sainte-Aldegonde,
+2010-11-13T20:11:22+00:00,396567707,395252497,0,RjwilmsiBot,Valentine de Sainte-Aldegonde,/* Issue */Adding Persondata using [[Project:AWB|AWB]] (7374)
+2019-02-07T22:14:25+00:00,882266262,824534652,0,DACC23,Valentine de Sainte-Aldegonde,"added additional information, sources and links"
+2017-08-02T11:22:46+00:00,793539815,792825157,0,Oscar666kta420swag,Voltaire,
+2005-09-05T07:48:09+00:00,22605540,16969617,0,Caerwine,War of the Pyrenees,
+2008-10-24T10:54:28+00:00,247359724,247345570,0,Fram,Voltaire,/* Letters */ Removed link to non notable book
+2010-10-09T23:20:27+00:00,389787291,386668618,0,Andrwsc,War of the Pyrenees,update flag template usage using [[Project:AWB|AWB]]
+2011-08-09T23:44:56+00:00,443960389,443960148,0,83.29.59.1,War of the Pyrenees,
+2015-11-18T16:31:11+00:00,691248858,691248069,0,217.124.188.6,War of the Pyrenees,Correct a misspelling of a Catalan geographical name
+2012-04-18T20:40:12+00:00,488061365,488060321,0,Chris G Bot 3,Wikipedia:Changing username/Simple,Clerking (bot)
+2013-11-29T23:00:31+00:00,583841078,583835058,0,Legobot,Wikipedia:Changing username/Simple,Clerking (bot)
+2011-11-19T00:10:15+00:00,461357276,461355553,0,Chris G Bot 3,Wikipedia:Changing username/Simple,Clerking (bot)
+2013-07-15T15:14:06+00:00,564371034,558518890,0,DBD,William Essex (painter),"/* Life */links, fm, etc. using [[Project:AWB|AWB]]"
+2010-11-20T19:35:45+00:00,397915192,389623788,0,87.113.181.65,Wolfgang Hildesheimer,
+2009-03-17T15:27:13+00:00,277878929,239636826,0,Kbdankbot,Wolfgang Hildesheimer,Robot - rename category per [[WP:CFD|CFD]] [[Wikipedia:Categories for discussion/Log/2009 March 11|2009 March 11]]
+2007-01-10T19:26:55+00:00,99819339,66859629,0,FlaBot,Wolfgang Hildesheimer,robot  Adding: [[es:Wolfgang Hildesheimer]]
+2014-04-17T20:38:23+00:00,604643172,559280376,0,Whatkatydid,Wolfgang Hildesheimer,
+2011-12-29T19:53:55+00:00,468325066,455336595,0,TXiKiBoT,Wolfgang Hildesheimer,r2.7.2) (Robot: Adding [[eu:Wolfgang Hildesheimer]]

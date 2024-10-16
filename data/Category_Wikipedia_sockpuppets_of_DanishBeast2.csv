@@ -1,0 +1,4 @@
+timestamp,revid,parentid,sock,user,page,message
+2013-10-14T11:09:04+00:00,577117073,577035777,1,DanishBeast2,Denmark,
+2013-10-14T11:13:44+00:00,577117436,577117088,1,DanishBeast1,Denmark,A fact heard in Denmark
+2013-10-14T11:09:17+00:00,577117088,577117073,0,ClueBot NG,Denmark,"Reverting possible vandalism by [[Special:Contributions/DanishBeast2|DanishBeast2]] to version by William Avery. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. () (Bot)"

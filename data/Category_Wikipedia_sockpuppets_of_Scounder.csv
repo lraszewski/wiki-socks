@@ -1,0 +1,677 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-02-23T09:14:36+00:00,1008441184,1008441145,1,Scounder,Bigg Boss (Tamil TV series),
+2021-02-23T09:14:10+00:00,1008441145,1008440531,1,Scounder,Bigg Boss (Tamil TV series),
+2021-02-23T09:07:51+00:00,1008440531,1008440384,1,Scounder,Bigg Boss (Tamil TV series),/* Housemates pattern */
+2021-02-23T09:06:37+00:00,1008440384,1008277057,1,Scounder,Bigg Boss (Tamil TV series),/* Housemates pattern */
+2021-02-22T14:02:23+00:00,1008277057,1005008972,1,Scounder,Bigg Boss (Tamil TV series),
+2021-02-22T12:16:45+00:00,1008263785,1008228483,1,Scounder,Bigg Boss (Hindi TV series) season 14,/* Housemates status */
+2021-02-21T22:42:48+00:00,1008167959,1008167742,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-02-21T22:41:29+00:00,1008167742,1008158854,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-02-21T06:58:41+00:00,1008038624,1008036973,1,Scounder,Super Singer (Tamil TV series),/* Season 8 contestants */
+2021-02-21T02:02:50+00:00,1008005471,1008003924,1,Scounder,Bigg Boss (Hindi TV series) season 14,/* Housemates status */
+2021-02-02T05:13:21+00:00,1004351556,1004104831,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-02-01T02:33:29+00:00,1004105603,1003605208,1,Scounder,Bigg Boss,/* Versions */
+2021-02-01T02:28:09+00:00,1004104831,1003513395,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-25T05:00:39+00:00,1002597590,1002185113,1,Scounder,Bigg Boss (Tamil TV series),
+2021-01-23T06:34:24+00:00,1002185113,1002151443,1,Scounder,Bigg Boss (Tamil TV series),/* Housemates pattern */
+2021-01-23T06:33:27+00:00,1002184983,1002150367,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2021-01-23T02:37:04+00:00,1002150367,1001759221,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-21T05:17:58+00:00,1001759221,1001756690,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-21T04:56:53+00:00,1001756967,1000375058,1,Scounder,Soorarai Pottru,/* Cast */
+2021-01-21T04:55:56+00:00,1001756854,987697656,1,Scounder,Meendum Oru Kadhal Kadhai,/* Cast */
+2021-01-21T04:55:02+00:00,1001756766,1001738630,1,Scounder,Bigg Boss (Tamil TV series),/* Housemates pattern */
+2021-01-21T04:54:15+00:00,1001756690,1001740616,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates */
+2021-01-21T02:49:31+00:00,1001740616,1001739479,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-21T02:42:34+00:00,1001739479,1001738315,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2021-01-21T02:38:30+00:00,1001738766,1001545260,1,Scounder,Bigg Boss,/* Versions */
+2021-01-21T02:37:44+00:00,1001738630,1001512577,1,Scounder,Bigg Boss (Tamil TV series),
+2021-01-21T02:36:03+00:00,1001738315,1001643880,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2021-01-20T08:26:42+00:00,1001573634,1001527249,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-20T02:25:28+00:00,1001527249,1001526777,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2021-01-20T01:10:02+00:00,1001512577,1001360592,1,Scounder,Bigg Boss (Tamil TV series),/* Series Overview */
+2021-01-20T01:07:10+00:00,1001512066,1001511317,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-20T01:03:32+00:00,1001511317,1001464657,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-19T04:42:57+00:00,1001317499,1001104453,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-18T05:40:19+00:00,1001089918,1001071208,1,Scounder,Bigg Boss (Tamil TV series) season 2,/* Nominations table */
+2021-01-18T03:38:50+00:00,1001073481,1001072434,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-18T02:50:30+00:00,1001066984,1001066866,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-18T02:49:25+00:00,1001066866,1001066782,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-18T02:48:35+00:00,1001066782,1001066495,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-18T02:46:11+00:00,1001066495,1001059084,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-18T01:56:38+00:00,1001059385,1000993680,1,Scounder,Bigg Boss (Tamil TV series) season 2,/* Nominations table */
+2021-01-18T01:54:58+00:00,1001059084,1001035241,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-17T17:43:45+00:00,1000979997,1000972009,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-17T16:54:32+00:00,1000972009,1000970247,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-17T16:43:56+00:00,1000970247,1000969947,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T16:32:21+00:00,1000968447,1000968322,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T16:30:53+00:00,1000968233,1000968100,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-17T16:30:01+00:00,1000968100,1000968065,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T15:30:10+00:00,1000958689,1000958582,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T15:29:23+00:00,1000958582,1000957854,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-17T15:22:02+00:00,1000957540,1000957406,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-17T15:20:00+00:00,1000957216,1000956989,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T14:07:39+00:00,1000946736,1000945881,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T13:26:47+00:00,1000941408,1000925789,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T05:10:18+00:00,1000879065,1000878294,1,Scounder,Bigg Boss (Tamil TV series),/* Housemates pattern */
+2021-01-17T05:06:59+00:00,1000878696,1000878552,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T05:05:33+00:00,1000878552,1000877812,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-17T04:17:29+00:00,1000873597,1000871946,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-17T03:42:53+00:00,1000869386,1000866506,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-17T02:54:29+00:00,1000863420,1000862932,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T02:52:08+00:00,1000863133,1000850964,1,Scounder,Bigg Boss,/* Versions */
+2021-01-17T02:51:10+00:00,1000863005,1000767983,1,Scounder,Bigg Boss (Tamil TV series),
+2021-01-17T02:50:33+00:00,1000862932,1000862451,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-17T02:10:19+00:00,1000857898,1000851821,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-17T01:31:24+00:00,1000851821,1000850631,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T01:26:31+00:00,1000850964,1000788588,1,Scounder,Bigg Boss,/* Versions */
+2021-01-17T01:24:35+00:00,1000850631,1000777092,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-16T16:48:28+00:00,1000768741,1000766531,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-16T16:44:03+00:00,1000767983,1000663684,1,Scounder,Bigg Boss (Tamil TV series),
+2021-01-16T16:35:43+00:00,1000766531,1000766201,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-16T16:34:01+00:00,1000766201,1000760090,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-16T16:14:26+00:00,1000762573,1000757914,1,Scounder,Aari Arujunan,/* Television */
+2021-01-16T11:13:58+00:00,1000723049,1000718714,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-16T10:39:21+00:00,1000718714,1000573780,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-16T03:20:19+00:00,1000663684,1000663654,1,Scounder,Bigg Boss (Tamil TV series),
+2021-01-16T03:20:05+00:00,1000663654,1000571638,1,Scounder,Bigg Boss (Tamil TV series),
+2021-01-15T18:19:15+00:00,1000573780,1000571477,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-15T18:06:23+00:00,1000571638,1000507212,1,Scounder,Bigg Boss (Tamil TV series),/* Finalists */
+2021-01-15T18:05:30+00:00,1000571477,1000500623,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-15T10:05:54+00:00,1000500623,1000472154,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-15T07:26:08+00:00,1000472154,1000406701,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-14T17:30:45+00:00,1000328383,1000328369,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-14T16:08:57+00:00,1000311085,1000278796,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* House */
+2021-01-14T13:12:15+00:00,1000278796,1000270587,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-14T12:04:16+00:00,1000270587,1000269472,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-14T11:55:06+00:00,1000269472,1000266611,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-14T11:31:17+00:00,1000266351,1000264104,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-14T10:29:14+00:00,1000257428,1000255729,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-14T08:06:56+00:00,1000241543,1000235851,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-14T07:05:25+00:00,1000235851,1000235223,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-14T06:58:21+00:00,1000235223,1000234462,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-14T06:47:05+00:00,1000233945,1000233452,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-14T06:24:12+00:00,1000231409,1000231298,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-14T06:23:16+00:00,1000231298,1000229677,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-14T06:08:44+00:00,1000229776,999446788,1,Scounder,Bigg Boss (Tamil TV series),
+2021-01-14T06:07:47+00:00,1000229677,1000216642,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-14T03:56:05+00:00,1000215145,1000184681,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Celebrations */
+2021-01-14T00:42:43+00:00,1000184681,1000157260,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-13T07:55:21+00:00,1000047008,1000034767,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-13T04:31:15+00:00,1000027014,999932982,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-12T17:57:55+00:00,999932982,999873694,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-12T07:50:17+00:00,999851998,999785473,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-11T17:40:37+00:00,999730121,999706713,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-11T12:54:38+00:00,999689574,999636657,1,Scounder,Aari Arujunan,/* Television */
+2021-01-11T06:59:57+00:00,999650764,999634904,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-11T04:51:49+00:00,999634904,999600469,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-11T00:51:10+00:00,999600130,999504546,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-10T14:50:11+00:00,999504546,999503963,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-10T14:46:02+00:00,999503963,999469624,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-10T05:53:14+00:00,999445185,999258770,1,Scounder,Bigg Boss (Tamil TV series),
+2021-01-10T05:26:08+00:00,999442441,999328236,1,Scounder,Rio Raj,/* Television */
+2021-01-10T05:25:35+00:00,999442380,999308577,1,Scounder,Ramya Pandian,/* Television */
+2021-01-10T05:25:12+00:00,999442344,999404641,1,Scounder,Gabriella Charlton,/* Television */
+2021-01-10T04:38:26+00:00,999437555,999432234,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-10T03:53:58+00:00,999432234,999426532,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-10T03:00:44+00:00,999426532,999425808,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-10T02:54:35+00:00,999425808,999425026,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Hamam Caller Of The Week */
+2021-01-10T02:47:36+00:00,999425026,999424926,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-10T02:46:40+00:00,999424926,999424214,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-10T02:40:04+00:00,999424214,999424148,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Note */
+2021-01-10T02:39:29+00:00,999424148,999422164,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-10T02:24:59+00:00,999422164,999401719,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-09T09:30:22+00:00,999269731,999269633,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-09T09:29:21+00:00,999269633,999267367,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-09T09:07:24+00:00,999267367,999267058,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-09T09:04:27+00:00,999267058,999265750,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-09T08:50:21+00:00,999265750,999265291,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-09T06:32:17+00:00,999251090,999059140,1,Scounder,Shivani Narayanan,/* Television */
+2021-01-09T06:31:20+00:00,999250951,999250724,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-09T06:29:33+00:00,999250724,999250544,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-09T06:28:06+00:00,999250544,999232950,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-09T03:51:50+00:00,999232950,999232357,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-09T03:47:53+00:00,999232357,999180520,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-08T21:52:31+00:00,999180520,999179611,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-08T21:46:12+00:00,999179611,999179385,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss Prison */
+2021-01-08T21:44:49+00:00,999179385,999155568,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-08T19:00:19+00:00,999151001,999148493,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-08T18:46:21+00:00,999148493,999105508,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-08T14:37:06+00:00,999105508,999103034,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-08T14:21:56+00:00,999103034,998975126,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-07T18:01:12+00:00,998929432,998843356,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-07T02:19:40+00:00,998797397,998685491,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-06T15:24:05+00:00,998684758,998664915,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-06T08:51:50+00:00,998632280,998612953,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-06T06:00:46+00:00,998612953,998611516,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-06T05:52:22+00:00,998611516,998610930,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-06T05:46:32+00:00,998610930,998575647,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-06T01:09:59+00:00,998575647,998552040,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-05T00:48:49+00:00,998356845,998354703,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-05T00:35:19+00:00,998354703,998351416,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-05T00:14:02+00:00,998351416,998351381,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-05T00:13:46+00:00,998351381,998276502,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-04T14:51:29+00:00,998256066,998248361,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-04T08:27:17+00:00,998205463,998195699,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-04T04:43:28+00:00,998175484,998113307,1,Scounder,Aari Arujunan,/* Television */
+2021-01-04T04:17:55+00:00,998171495,998169411,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-04T04:04:27+00:00,998169411,998160730,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-04T03:03:49+00:00,998160780,998157239,1,Scounder,Bigg Boss (Tamil TV series),/* Series Overview */
+2021-01-04T03:03:26+00:00,998160730,998156385,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-04T02:36:34+00:00,998157239,998156481,1,Scounder,Bigg Boss (Tamil TV series),/* Airing */
+2021-01-04T02:29:48+00:00,998156481,998155850,1,Scounder,Bigg Boss (Tamil TV series),/* Series Overview */
+2021-01-04T02:29:02+00:00,998156385,998155963,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Special episodes */
+2021-01-04T02:25:54+00:00,998155963,998150831,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-04T02:24:53+00:00,998155850,997219869,1,Scounder,Bigg Boss (Tamil TV series),/* Series Overview */
+2021-01-04T01:36:38+00:00,998148429,998147788,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-04T01:32:37+00:00,998147788,998144052,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Hamam Caller Of The Week */
+2021-01-04T01:09:15+00:00,998144052,998142088,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-04T00:58:32+00:00,998142088,998056944,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-03T16:24:13+00:00,998056944,998038006,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-03T01:52:37+00:00,997956394,997956326,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-03T01:52:17+00:00,997956326,997955950,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-03T01:49:40+00:00,997955950,997881767,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-01T16:21:20+00:00,997654012,997652943,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-01T16:16:40+00:00,997652943,997647453,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2021-01-01T13:30:57+00:00,997627243,997627092,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-01T05:44:30+00:00,997576017,997573480,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-01T05:18:48+00:00,997573353,997572324,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-01T05:04:20+00:00,997571847,997571513,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-31T19:08:51+00:00,997486835,997470312,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-31T08:45:30+00:00,997397187,997375124,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-29T16:17:10+00:00,997008814,997006073,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-29T14:20:06+00:00,996989496,996987748,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-29T14:07:17+00:00,996987748,996987638,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-29T14:06:35+00:00,996987638,996984693,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-29T01:17:06+00:00,996878551,996878402,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-29T01:16:05+00:00,996878402,996787215,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-28T05:55:15+00:00,996711834,996711289,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-28T05:49:56+00:00,996711289,996709842,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-28T04:48:03+00:00,996704255,996595904,1,Scounder,Bigg Boss (Tamil TV series),/* Housemates pattern */
+2020-12-28T04:06:17+00:00,996698570,996683925,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-28T02:06:58+00:00,996683925,996658351,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-27T15:44:06+00:00,996597767,996552068,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2020-12-27T03:50:58+00:00,996529396,996529298,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Guests */
+2020-12-27T03:49:54+00:00,996529298,996525863,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Guests */
+2020-12-27T03:14:42+00:00,996525436,996516029,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-27T01:59:13+00:00,996516029,996439836,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-25T06:57:54+00:00,996221976,996221167,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-25T06:48:27+00:00,996221167,996220591,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-25T06:42:02+00:00,996220591,996214445,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-25T01:20:43+00:00,996188593,996188447,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-25T01:19:33+00:00,996188447,996186431,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss Prison */
+2020-12-25T01:02:28+00:00,996186431,996186374,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-25T01:02:09+00:00,996186374,996186235,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-25T01:01:25+00:00,996186235,996131611,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-24T06:09:56+00:00,996044299,996043509,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-24T06:08:02+00:00,996044124,995920961,1,Scounder,Bigg Boss (Tamil TV series) season 1,
+2020-12-24T06:06:53+00:00,996044031,995667018,1,Scounder,Bigg Boss (Tamil TV series) season 2,/* Housemate Status */
+2020-12-24T06:01:17+00:00,996043509,996016576,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-24T02:05:12+00:00,996016576,996016515,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-24T02:04:54+00:00,996016515,996015612,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-24T01:59:58+00:00,996015612,996011558,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-24T01:36:00+00:00,996011558,995981858,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-23T09:06:15+00:00,995869534,995867125,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-23T08:37:24+00:00,995867125,995866034,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-23T08:25:22+00:00,995866034,995817367,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-23T01:33:46+00:00,995818676,995462364,1,Scounder,Aari Arujunan,/* Television */
+2020-12-23T01:24:29+00:00,995817367,995710611,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-22T08:57:46+00:00,995680680,995680275,1,Scounder,Bigg Boss (Telugu TV series) season 4,/* Nomination table */
+2020-12-22T08:52:13+00:00,995680275,995680248,1,Scounder,Bigg Boss (Telugu TV series) season 4,/* Nomination table */
+2020-12-22T08:51:53+00:00,995680248,995670868,1,Scounder,Bigg Boss (Telugu TV series) season 4,/* Nomination table */
+2020-12-22T07:40:40+00:00,995674404,995674387,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2020-12-22T07:40:24+00:00,995674387,995672859,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2020-12-22T07:19:34+00:00,995672859,995623366,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-21T23:58:16+00:00,995610346,995610239,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-21T23:57:06+00:00,995610124,995538560,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-21T06:45:09+00:00,995478764,995475801,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-21T06:15:56+00:00,995475801,995463651,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-21T03:48:19+00:00,995458712,995446982,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-21T02:30:33+00:00,995448226,995087329,1,Scounder,Bigg Boss (Tamil TV series),/* Series Overview */
+2020-12-21T02:20:20+00:00,995446982,995429067,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-21T00:11:29+00:00,995429067,995429011,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-21T00:10:59+00:00,995429011,995415727,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Hamam Caller Of The Week */
+2020-12-20T17:05:15+00:00,995362631,995132094,1,Scounder,Abijeet,/* Television */
+2020-12-20T17:04:40+00:00,995362540,995358351,1,Scounder,Bigg Boss,/* Versions */
+2020-12-20T16:55:12+00:00,995361173,995280821,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-20T04:34:43+00:00,995280821,995280688,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Hamam Caller Of The Week */
+2020-12-20T04:33:05+00:00,995280688,995278032,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-20T04:11:50+00:00,995278695,995254331,1,Scounder,Archana Chandhoke,/* Reality Show */
+2020-12-20T04:05:44+00:00,995278032,995175140,1,Scounder,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-19T04:09:19+00:00,995087410,995034810,1,Scounder,Bigg Boss,/* Versions */
+2020-12-19T04:08:29+00:00,995087329,995087276,1,Scounder,Bigg Boss (Tamil TV series),/* Series Overview */
+2020-12-19T04:07:58+00:00,995087276,995084606,1,Scounder,Bigg Boss (Tamil TV series),/* Series Overview */
+2020-12-19T04:00:13+00:00,995086518,995034398,1,Scounder,Bigg Boss (Tamil TV series) season 4,
+2020-12-19T03:42:13+00:00,995084606,995083619,1,Scounder,Bigg Boss (Tamil TV series),/* Housemates pattern */
+2020-12-19T03:37:58+00:00,995084143,992841421,1,Scounder,Dhanusu Raasi Neyargale,/* Cast */
+2020-12-19T03:37:29+00:00,995084091,995084049,1,Scounder,Oolu,/* Cast */
+2020-12-19T03:37:01+00:00,995084049,993668301,1,Scounder,Oolu,/* Cast */
+2020-12-19T03:32:43+00:00,995083619,995034739,1,Scounder,Bigg Boss (Tamil TV series),/* Series Overview */
+2020-12-16T05:24:07+00:00,994531297,994428408,1,Scounder,Bigg Boss (Tamil TV series) season 3,/* Nominations table */
+2020-12-15T07:05:33+00:00,994349395,993350935,1,Scounder,Anuya Y Bhagwat,
+2020-12-15T06:59:49+00:00,994348915,992011956,1,Scounder,Harish Kalyan,/* Filmography */
+2020-12-15T06:55:35+00:00,994348458,993947760,1,Scounder,Jithan Ramesh,
+2020-12-15T06:53:36+00:00,994348249,992909911,1,Scounder,Sherin Shringar,
+2020-12-15T06:52:42+00:00,994348130,982472662,1,Scounder,Riythvika,
+2020-12-15T06:51:51+00:00,994348014,991483612,1,Scounder,Janani (actress),
+2020-12-15T06:35:28+00:00,994346172,993935567,1,Scounder,Bigg Boss (Tamil TV series) season 1,
+2020-12-15T06:30:12+00:00,994345676,994178067,1,Scounder,Bigg Boss (Tamil TV series) season 3,/* Original Contestants */
+2020-12-15T06:25:34+00:00,994345204,994345166,1,Scounder,Vanitha Vijayakumar,/* Television */
+2020-12-15T06:25:14+00:00,994345166,993751384,1,Scounder,Vanitha Vijayakumar,/* Television */
+2021-03-04T12:27:44+00:00,1010226912,1010226461,1,Stephanie_Williams21,Riythvika,
+2021-03-04T12:26:54+00:00,1010226792,1010226739,1,Stephanie_Williams21,Snehan,
+2021-03-04T12:26:27+00:00,1010226739,1001562596,1,Stephanie_Williams21,Snehan,
+2021-03-04T12:25:49+00:00,1010226659,1010201837,1,Stephanie_Williams21,Ganesh Venkatraman,
+2021-03-04T12:24:59+00:00,1010226556,1006347135,1,Stephanie_Williams21,Harish Kalyan,
+2021-03-04T12:24:15+00:00,1010226461,1007883203,1,Stephanie_Williams21,Riythvika,
+2021-03-04T12:23:42+00:00,1010226391,1010226345,1,Stephanie_Williams21,Aishwarya Dutta,
+2021-03-04T12:23:18+00:00,1010226345,1008569466,1,Stephanie_Williams21,Aishwarya Dutta,
+2021-03-04T12:22:24+00:00,1010226235,1008842943,1,Stephanie_Williams21,Janani (actress),
+2021-03-04T12:20:41+00:00,1010226057,1009768301,1,Stephanie_Williams21,Rio Raj,
+2021-03-04T12:19:02+00:00,1010225871,1009634875,1,Stephanie_Williams21,Ramya Pandian,
+2021-03-04T12:17:57+00:00,1010225747,1008565490,1,Stephanie_Williams21,Sherin Shringar,
+2021-01-12T03:41:47+00:00,999822178,999822103,0,117.209.161.193,Aari Arujunan,/* Television */
+2021-02-28T13:26:54+00:00,1009415776,1008694678,0,FrescoBot,Aari Arujunan,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2021-01-10T19:16:35+00:00,999548896,999533644,0,183.83.108.138,Aari Arujunan,/* Television */
+2021-01-04T12:35:00+00:00,998236362,997885046,0,WikiCleanerBot,Aishwarya Dutta,v2.04b - [[User:WikiCleanerBot#T5|Bot T5 CW#17]] - Fix errors for [[WP:WCW|CW project]] (Category duplication)
+2021-02-27T15:19:19+00:00,1009248868,1009248734,0,Ab207,Abijeet,"/* Filmography */ Shelved film, covered in prose"
+2021-02-24T00:09:46+00:00,1008569466,1008565225,0,Ponyo,Aishwarya Dutta,rm copyvio
+2021-01-18T03:40:22+00:00,1001073725,1000719829,0,106.198.87.18,Aishwarya Dutta,
+2021-01-20T09:56:13+00:00,1001583911,1001583408,0,2402:8100:2880:F2DF:0:0:0:1,Anuya Y Bhagwat,
+2021-01-30T20:43:16+00:00,1003815519,1003812873,0,108.56.139.120,Aari Arujunan,"/* Personal life */ remove names and birth details of incidental, non-notable minor children (see [[WP:BLPPRIVACY]], [[WP:BLPNAMES]], [[WP:MINORS]], [[WP:NONAME]]). add CNs"
+2020-12-15T04:48:08+00:00,994334609,994217109,0,90.212.90.197,Aari Arujunan,/* Filmography */
+2021-02-24T02:16:41+00:00,1008588871,1008562462,0,Ravensfire,Aari Arujunan,/* Career */
+2021-02-08T06:21:38+00:00,1005544164,1005543974,0,2409:4072:692:B55A:0:0:250C:50AC,Aari Arujunan,
+2020-12-25T15:54:39+00:00,996275244,996213488,0,220.158.142.57,Aari Arujunan,
+2021-02-01T11:05:40+00:00,1004171041,1004169473,0,Pawan Sparkle,Abijeet,
+2021-01-05T17:37:05+00:00,998501934,998501639,0,Pawan Sparkle,Bigg Boss,
+2020-12-26T09:10:53+00:00,996392205,996389619,0,BoyTheKingCanDance,Anuya Y Bhagwat,Reverted to revision 994349395 by [[Special:Contributions/Scounder|Scounder]] ([[User talk:Scounder|talk]]): Unreferenced
+2021-02-13T13:05:59+00:00,1006545754,1006405549,0,39.45.145.251,Bigg Boss,
+2021-02-14T18:18:55+00:00,1006768623,1006768489,0,Sh ktn78,Archana Chandhoke,
+2020-12-21T08:56:21+00:00,995490212,995486778,0,2409:4072:E8D:1233:53B8:CC7F:E707:CF02,Archana Chandhoke,
+2021-03-01T07:23:40+00:00,1009572841,1009572552,0,58.108.86.194,Bigg Boss,/* Versions */
+2021-01-11T10:10:57+00:00,999671791,999628883,0,Pawan Sparkle,Bigg Boss,
+2021-01-18T19:11:39+00:00,1001215573,1001214445,0,TL The Legend,Bigg Boss,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2409:4072:203:8BF1:9D87:4673:E509:EE64|2409:4072:203:8BF1:9D87:4673:E509:EE64]] ([[User talk:2409:4072:203:8BF1:9D87:4673:E509:EE64|talk]]): Turned a correctly spelled word into a typo
+2021-01-06T16:20:11+00:00,998694444,998604504,0,Lesenwriter,Bigg Boss,/* Versions */
+2021-03-02T18:09:02+00:00,1009868210,1009782449,0,46.49.35.110,Bigg Boss,/* Versions */
+2021-01-26T11:48:04+00:00,1002869897,1002851072,0,Jenifree,Bigg Boss (Hindi TV series) season 14,
+2021-01-16T06:28:07+00:00,1000686716,1000105596,0,146.196.38.66,Bigg Boss,/* Versions */
+2021-01-28T02:09:04+00:00,1003243385,1003211670,0,Gunjan surti,Bigg Boss (Hindi TV series) season 14,/* Housemates status */
+2021-01-11T04:06:44+00:00,999628883,999239667,0,43.247.160.64,Bigg Boss,
+2021-02-04T00:10:01+00:00,1004712190,1004586804,0,175.38.79.91,Bigg Boss,/* Versions */
+2021-02-05T14:22:07+00:00,1005008972,1003444243,0,Eddie891,Bigg Boss (Tamil TV series),Removing link(s) [[Wikipedia:Articles for deletion/Balaji Murugadoss (2nd nomination)]] closed as delete ([[WP:XFDC#4.0.11-beta|XFDcloser]])
+2021-01-22T04:26:39+00:00,1001960996,1001747127,0,Pàgjk,Bigg Boss (Hindi TV series) season 14,/* Housemates status */
+2021-02-04T17:46:57+00:00,1004843707,1004759176,0,Kaustubh42,Bigg Boss (Hindi TV series) season 14,/* Nominations table */
+2021-01-04T11:53:13+00:00,998230887,998160780,0,Pawan Sparkle,Bigg Boss (Tamil TV series),
+2021-02-23T14:31:32+00:00,1008479296,1008441184,0,Sungodtemple,Bigg Boss (Tamil TV series),removed empty ref tags
+2020-12-30T14:45:04+00:00,997219869,997219646,0,Pawan Sparkle,Bigg Boss (Tamil TV series),
+2020-12-25T05:34:33+00:00,996214539,995448226,0,Giriprasad Damodar 02,Bigg Boss (Tamil TV series),
+2021-01-29T00:52:14+00:00,1003444243,1002597590,0,Pawan Sparkle,Bigg Boss (Tamil TV series),/* Series Overview */
+2020-12-18T11:01:57+00:00,994948805,994790664,0,Pawan Sparkle,Bigg Boss (Tamil TV series),/* Series Overview */
+2020-12-18T21:32:24+00:00,995034739,994948805,0,Ravensfire,Bigg Boss (Tamil TV series),perMOS
+2021-01-10T06:09:19+00:00,999446788,999445185,0,SPEcial EDItor 2020,Bigg Boss (Tamil TV series),/* Housemates pattern */
+2021-01-15T11:01:29+00:00,1000507212,1000507144,0,SPEcial EDItor 2020,Bigg Boss (Tamil TV series),/* Finalists */
+2020-12-27T15:29:48+00:00,996595904,996214539,0,Harishlash,Bigg Boss (Tamil TV series),I added the missing things
+2021-01-09T07:42:38+00:00,999258770,998669120,0,Jaya Soorya 24,Bigg Boss (Tamil TV series),
+2021-01-28T15:01:51+00:00,1003342697,1003205694,0,175.38.79.91,Bigg Boss (Tamil TV series) season 2,/* Nominations table */
+2021-01-09T17:06:09+00:00,999329688,998529665,0,Pugazhssp,Bigg Boss (Tamil TV series) season 1,/* Housemate status */
+2021-01-15T17:44:27+00:00,1000567819,1000072963,0,2001:D08:1203:7A9A:1:0:A3AA:2FAE,Bigg Boss (Tamil TV series) season 1,/* Nominations table */
+2021-01-17T08:02:56+00:00,1000900361,1000878155,0,2409:4072:6D07:E63D:0:0:C408:F02,Bigg Boss (Tamil TV series) season 1,Harish to harish kalyan
+2021-01-19T09:21:21+00:00,1001354510,1001151948,0,2405:201:D001:680A:C93F:2ED3:911C:F6DF,Bigg Boss (Tamil TV series) season 2,/* Housemates */
+2021-01-08T09:56:56+00:00,999069301,999069226,0,183.83.153.205,Bigg Boss (Tamil TV series) season 2,/* Housemate Status */
+2021-02-06T12:45:36+00:00,1005194025,1005069939,0,2001:D08:D6:F786:5984:9F4F:F5BF:39B2,Bigg Boss (Tamil TV series) season 3,
+2020-12-27T08:11:58+00:00,996553013,996397025,0,106.198.90.148,Bigg Boss (Tamil TV series) season 3,
+2021-02-17T07:09:27+00:00,1007272982,1007205980,0,58.108.86.194,Bigg Boss (Tamil TV series) season 3,/* Nominations table */
+2021-02-12T23:33:37+00:00,1006451010,1006450894,0,58.108.86.194,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-02-05T17:26:46+00:00,1005036430,1005035939,0,Mickeydkop,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-30T04:17:21+00:00,997135259,997135035,0,Iimpostor,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-02-10T14:39:53+00:00,1006002892,1005904550,0,175.38.79.91,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2020-12-18T13:56:45+00:00,994966768,994966395,0,Pawan Sparkle,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss Prison */
+2021-02-03T16:00:23+00:00,1004630417,1004629472,0,MusikBot II,Bigg Boss (Tamil TV series) season 4,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2021-02-06T00:23:30+00:00,1005101255,1005036706,0,175.38.79.91,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-26T19:22:03+00:00,1002946281,1002184983,0,Arjayay,Bigg Boss (Tamil TV series) season 4,a > an
+2021-02-10T01:03:56+00:00,1005904550,1005896648,0,Ravensfire,Bigg Boss (Tamil TV series) season 4,"/* Weekly summary */ SUJMMARY - way too much [[WP:FANCRUFT]] here (mostly unsourced, of course), this should be a SHORT summary of what happened.  Will finish up later"
+2021-02-13T23:53:27+00:00,1006640309,1006599940,0,58.108.86.194,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-29T23:02:19+00:00,997085135,997083571,0,2601:646:8F00:B2D0:C008:FC2:4584:9275,Bigg Boss (Tamil TV series) season 4,
+2021-02-09T18:10:45+00:00,1005842630,1005842572,0,47.204.17.27,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-02-08T07:46:00+00:00,1005553129,1005553024,0,175.38.79.91,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-07T04:11:39+00:00,998813049,998797397,0,Pawan Sparkle,Bigg Boss (Tamil TV series) season 4,
+2021-01-29T10:24:51+00:00,1003513395,1003350667,0,Bhuv1147,Bigg Boss (Tamil TV series) season 4,
+2021-01-16T17:37:26+00:00,1000777092,1000768741,0,Lenin210399,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-02-25T01:42:01+00:00,1008786425,1008778918,0,Ravensfire,Bigg Boss (Tamil TV series) season 4,Reverted 1 edit by [[Special:Contributions/184.145.101.249|184.145.101.249]] ([[User talk:184.145.101.249|talk]]) to last revision by Ravensfire
+2021-01-02T18:17:08+00:00,997881767,997881364,0,Honeyintruder888,Bigg Boss (Tamil TV series) season 4,
+2020-12-21T16:16:35+00:00,995538560,995522058,0,Honeyintruder888,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-03-01T06:51:07+00:00,1009569438,1009569361,0,58.108.86.194,Bigg Boss (Tamil TV series) season 4,
+2020-12-22T13:56:35+00:00,995710611,995674404,0,Lesenwriter,Bigg Boss (Tamil TV series) season 4,/* Wildcard entrants */
+2021-01-19T20:10:10+00:00,1001464657,1001464396,0,Cyphoidbomb,Bigg Boss (Tamil TV series) season 4,Fixing the runner-up crap again.
+2021-02-13T06:43:31+00:00,1006506359,1006451010,0,2409:4072:184:71C3:0:0:28A5:40A0,Bigg Boss (Tamil TV series) season 4,Deleted unwanted  column
+2021-02-24T06:52:57+00:00,1008624610,1008594412,0,Anonymous9802,Bigg Boss (Tamil TV series) season 4,
+2020-12-29T13:25:58+00:00,996981677,996981400,0,2409:4072:6C88:555E:96DF:8FD0:53CB:9075,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-20T16:50:58+00:00,1001643880,1001602130,0,Pugazhssp,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss (Tamil season 4) */
+2021-02-07T17:43:22+00:00,1005439501,1005363278,0,2409:4072:6D90:3BBE:A3B0:1BCF:EA85:24B8,Bigg Boss (Tamil TV series) season 4,Deleted not needed columns
+2021-02-22T14:01:35+00:00,1008276938,1008276876,0,58.108.86.194,Bigg Boss (Tamil TV series) season 4,
+2020-12-17T15:54:45+00:00,994795356,994773081,0,Mohamednainar54,Bigg Boss (Tamil TV series) season 4,
+2021-02-05T17:28:34+00:00,1005036706,1005036624,0,Mickeydkop,Bigg Boss (Tamil TV series) season 4,Undid revision 1005036624 by [[Special:Contributions/Mickeydkop|Mickeydkop]] ([[User talk:Mickeydkop|talk]])
+2021-01-13T15:32:40+00:00,1000097601,1000081147,0,TracyBeker0910,Bigg Boss (Tamil TV series) season 4,Undid revision 1000080873 by [[Special:Contributions/SPEcial EDItor 2020|SPEcial EDItor 2020]] ([[User talk:SPEcial EDItor 2020|talk]]) - it does not make a difference so leave it please
+2021-01-07T22:27:26+00:00,998975126,998929432,0,Kristineew,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss Prison */
+2021-02-08T16:23:35+00:00,1005615931,1005615807,0,Jellysandwich0,Bigg Boss (Tamil TV series) season 4,
+2020-12-17T07:11:08+00:00,994730856,994714551,0,Articist,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss Prison */
+2021-01-18T07:33:48+00:00,1001104453,1001101310,0,Ppp33445566,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-11T07:38:01+00:00,999655180,999650764,0,Pawan Sparkle,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-25T18:39:17+00:00,996296106,996295784,0,Honeyintruder888,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-10T06:07:00+00:00,999446564,999446448,0,SPEcial EDItor 2020,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-29T17:34:07+00:00,997024055,997021602,0,49.37.217.124,Bigg Boss (Tamil TV series) season 4,
+2021-01-14T21:50:46+00:00,1000385550,1000379376,0,Cyphoidbomb,Bigg Boss (Tamil TV series) season 4,[[WP:CRYSTAL]] violation and inconsistent with *all* quality television articles.
+2021-01-10T10:05:21+00:00,999469624,999446564,0,Pawan Sparkle,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-15T18:06:26+00:00,994431095,994430580,0,Praveentech,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss 4 Voting */ Added another source of truth.
+2021-02-05T09:05:36+00:00,1004971775,1004971553,0,2409:4072:6E14:3A7E:0:0:C448:6B0B,Bigg Boss (Tamil TV series) season 4,Included the sixth runner up
+2021-02-19T14:57:42+00:00,1007710766,1007655381,0,Jaya Soorya 24,Bigg Boss (Tamil TV series) season 4,
+2021-02-09T06:51:30+00:00,1005749839,1005615931,0,2409:4072:4:D8DD:AD3E:FF97:668:B94,Bigg Boss (Tamil TV series) season 4,Included Gabriella name in walked column
+2021-03-04T03:09:54+00:00,1010165500,1010142346,0,2409:4072:692:8797:0:0:2482:A8A0,Bigg Boss (Tamil TV series) season 4,Deleted unwanted  words
+2021-02-18T17:43:04+00:00,1007538519,1006640309,0,49.207.143.24,Bigg Boss (Tamil TV series) season 4,Added content
+2020-12-19T17:18:04+00:00,995175140,995086518,0,Mohamednainar54,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-05T14:18:44+00:00,998465546,998464878,0,Jaya Soorya 24,Bigg Boss (Tamil TV series) season 4,/* Hamam Caller Of The Week */
+2021-01-09T13:23:00+00:00,999296210,999296168,0,Southindianfilmhistory,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-02-24T17:40:16+00:00,1008710956,1008701184,0,115.99.115.34,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-13T21:38:27+00:00,1000157260,1000157187,0,Kristineew,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2020-12-22T01:13:33+00:00,995623366,995622973,0,Master4uall,Bigg Boss (Tamil TV series) season 4,"Rio nominated Anitha with a confusing reason, not Ramya"
+2021-02-05T14:22:18+00:00,1005009012,1004971775,0,Eddie891,Bigg Boss (Tamil TV series) season 4,Removing link(s) [[Wikipedia:Articles for deletion/Balaji Murugadoss (2nd nomination)]] closed as delete ([[WP:XFDC#4.0.11-beta|XFDcloser]])
+2020-12-28T16:39:20+00:00,996787215,996785468,0,Articist,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-12T11:08:38+00:00,999873694,999873586,0,SPEcial EDItor 2020,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-01T07:21:20+00:00,997585814,997585643,0,2405:201:E01B:E00C:AD8D:C64F:664D:8E34,Bigg Boss (Tamil TV series) season 4,/* Guests */
+2021-01-05T09:19:15+00:00,998425012,998424468,0,Pugazhssp,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss (Tamil season 4) */
+2020-12-18T09:17:00+00:00,994937520,994906998,0,Honeyintruder888,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2021-01-04T12:15:13+00:00,998233833,998205463,0,SPEcial EDItor 2020,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-29T07:03:06+00:00,996935403,996913620,0,223.185.69.226,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-02-21T18:45:46+00:00,1008129745,1008129561,0,2607:9880:2158:84:9DF7:3A4A:6CDF:6A30,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-02-07T02:05:52+00:00,1005314494,1005314419,0,47.204.17.27,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-17T07:25:43+00:00,1000896454,1000894475,0,Pawan Sparkle,Bigg Boss (Tamil TV series) season 4,
+2020-12-30T03:37:14+00:00,997129100,997121658,0,2409:4072:6C85:6CBC:0:0:A94A:7810,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-02-19T03:20:34+00:00,1007632514,1007538519,0,27.7.169.206,Bigg Boss (Tamil TV series) season 4,
+2020-12-23T17:20:42+00:00,995932572,995929272,0,Lesenwriter,Bigg Boss (Tamil TV series) season 4,/* Housemates status */ Added citiations(references) for evictions
+2021-01-03T09:11:36+00:00,998007937,998004677,0,AKing 1127,Bigg Boss (Tamil TV series) season 4,
+2021-02-13T12:19:19+00:00,1006540682,1006540479,0,58.108.86.194,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-04T16:54:08+00:00,998276502,998275769,0,TracyBeker0910,Bigg Boss (Tamil TV series) season 4,/* Housemates */- oops [[Celebrity Big Brother (British series 5)]] look in here as well
+2021-02-11T23:22:20+00:00,1006264518,1006262171,0,58.108.86.194,Bigg Boss (Tamil TV series) season 4,/* Notes */
+2020-12-18T04:26:30+00:00,994906998,994906635,0,Articist,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-24T18:42:43+00:00,996131611,996122690,0,SPEcial EDItor 2020,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-06T11:59:39+00:00,998655712,998632280,0,Arjayay,Bigg Boss (Tamil TV series) season 4,Broadcasted > broadcast
+2020-12-26T16:55:24+00:00,996439836,996296106,0,Honeyintruder888,Bigg Boss (Tamil TV series) season 4,/* Housemates */
+2021-01-07T07:51:46+00:00,998843356,998842803,0,SPEcial EDItor 2020,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-29T22:19:05+00:00,997078529,997078464,0,2607:9880:2158:84:92B:ED50:5B29:966C,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-13T10:33:36+00:00,1000060933,1000047008,0,TracyBeker0910,Bigg Boss (Tamil TV series) season 4,/* Nomination table */- this blockquote is needed as the font is gone to 85% the table is going off the page. I am using this because blockquote helps it stay within the page please don’t remove this and understand
+2021-02-21T02:18:37+00:00,1008007692,1008006791,0,58.108.86.194,Bigg Boss (Tamil TV series) season 4,
+2021-02-20T01:51:57+00:00,1007813062,1007806282,0,58.108.86.194,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-11T23:22:40+00:00,999785473,999730121,0,Kristineew,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-09T20:04:21+00:00,999360699,999360580,0,Kristineew,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-04T07:08:13+00:00,998195699,998195356,0,Pugazhssp,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-19T10:00:14+00:00,1001359041,1001317499,0,Pugazhssp,Bigg Boss (Tamil TV series) season 4,/* Housemates */
+2021-02-11T12:12:21+00:00,1006165348,1006002892,0,Neils51,Bigg Boss (Tamil TV series) season 4,"grammar/usage - 'bars','points', are countable nouns, [[WP:AWB/T|typo(s) fixed]]: returning back → returning"
+2021-01-16T14:07:44+00:00,1000743731,1000743317,0,Pugazhssp,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-02T01:46:45+00:00,997751561,997749295,0,219.91.232.210,Bigg Boss (Tamil TV series) season 4,
+2021-01-03T07:20:09+00:00,997997591,997997304,0,Jaya Soorya 24,Bigg Boss (Tamil TV series) season 4,
+2020-12-24T10:28:48+00:00,996070111,996052905,0,Neils51,Bigg Boss (Tamil TV series) season 4,"sp, expansion"
+2021-01-01T11:29:53+00:00,997612270,997611544,0,2401:4900:4919:377D:4273:2831:D0DD:9F7D,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-03-04T00:35:40+00:00,1010142346,1010137775,0,Ravensfire,Bigg Boss (Tamil TV series) season 4,Reverting edit(s) by [[Special:Contributions/184.145.101.249|184.145.101.249]] ([[User_talk:184.145.101.249|talk]]) to rev. 1009833274 by ClueBot NG: Vandalism (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16)]]
+2021-02-04T18:25:58+00:00,1004849863,1004825901,0,Ravensfire,Bigg Boss (Tamil TV series) season 4,Reverting edit(s) by [[Special:Contributions/42.191.240.60|42.191.240.60]] ([[User_talk:42.191.240.60|talk]]) to rev. 1004774518 by Hello Animal: must be supported by a [[WP:RS|reliable source]] [[w:en:WP:RW|(RW 16)]]
+2020-12-29T04:00:46+00:00,996908725,996907905,0,106.211.225.48,Bigg Boss (Tamil TV series) season 4,Add the name guest
+2021-02-04T16:06:34+00:00,1004825901,1004774518,0,42.191.240.60,Bigg Boss (Tamil TV series) season 4,
+2021-01-02T05:11:08+00:00,997778257,997777821,0,2405:201:E01B:E00C:21AF:3EF2:2924:3B8E,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss Prison */
+2021-01-05T03:57:42+00:00,998384703,998356845,0,Pawan Sparkle,Bigg Boss (Tamil TV series) season 4,
+2020-12-29T19:27:46+00:00,997045686,997042758,0,47.204.17.27,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-02-19T06:46:31+00:00,1007655381,1007632514,0,2405:201:E01B:E959:C5A9:2660:1D92:5AC6,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss Prison */
+2021-02-24T12:44:26+00:00,1008665554,1008665311,0,தமிழன் நான்,Bigg Boss (Tamil TV series) season 4,Edited spelling error of Balaji Murugadoss
+2021-03-02T14:33:11+00:00,1009833274,1009833169,0,ClueBot NG,Bigg Boss (Tamil TV series) season 4,"Reverting possible vandalism by [[Special:Contribs/Anonymous9802|Anonymous9802]] to version by 58.108.86.194. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3912390) (Bot)"
+2021-01-14T04:09:31+00:00,1000216642,1000215145,0,Kirubar,Bigg Boss (Tamil TV series) season 4,/* Special episodes */Fixed typo
+2020-12-23T16:59:55+00:00,995929272,995928980,0,Lesenwriter,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-17T23:20:22+00:00,1001035241,1001034924,0,Alucard 16,Bigg Boss (Tamil TV series) season 4,"/* Nomination table */ Other finalists (i.e. 3rd runner-up, etc.) do not get a seperate color they share the same color"
+2021-02-24T02:58:02+00:00,1008594412,1008594297,0,27.7.80.47,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2021-02-09T22:45:44+00:00,1005885862,1005885437,0,175.38.79.91,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-02T05:01:16+00:00,997777062,997776713,0,2405:201:E01B:E00C:21AF:3EF2:2924:3B8E,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2021-01-18T03:54:37+00:00,1001075853,1001074251,0,Pugazhssp,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-15T11:45:17+00:00,994375803,994375657,0,SPEcial EDItor 2020,Bigg Boss (Tamil TV series) season 4,/* Nomination topple */
+2021-01-09T16:30:48+00:00,999323731,999321483,0,Pawan Sparkle,Bigg Boss (Tamil TV series) season 4,/* Nomination table */Actual order of colour's
+2020-12-27T07:57:52+00:00,996552068,996551966,0,SPEcial EDItor 2020,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-02T07:05:47+00:00,997791039,997791007,0,SpuriousCorrelation,Bigg Boss (Tamil TV series) season 4,Reverting edit(s) by [[Special:Contributions/182.65.252.120|182.65.252.120]] ([[User_talk:182.65.252.120|talk]]) to rev. 997790744 by 2607:9880:2158:84:92B:ED50:5B29:966C: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16)]]
+2021-02-23T22:22:05+00:00,1008554746,1008276938,0,184.145.101.249,Bigg Boss (Tamil TV series) season 4,
+2020-12-21T04:24:15+00:00,995463651,995462954,0,Master4uall,Bigg Boss (Tamil TV series) season 4,
+2021-02-04T09:16:13+00:00,1004774518,1004758809,0,Hello Animal,Bigg Boss (Tamil TV series) season 4,
+2021-01-28T15:51:49+00:00,1003350667,1003350231,0,Pugazhssp,Bigg Boss (Tamil TV series) season 4,/* Production */
+2021-01-14T17:37:47+00:00,1000329645,1000329580,0,Kristineew,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2020-12-29T01:20:27+00:00,996879093,996878551,0,MusikBot II,Bigg Boss (Tamil TV series) season 4,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2021-01-02T10:39:22+00:00,997814967,997814887,0,78.148.96.47,Bigg Boss (Tamil TV series) season 4,/* Freeze Task */
+2021-01-01T16:58:47+00:00,997661438,997660397,0,2001:D08:D2:561C:4987:A74A:F8EC:D620,Bigg Boss (Tamil TV series) season 4,
+2021-01-02T01:07:15+00:00,997744646,997744122,0,47.204.17.27,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-02T08:59:10+00:00,997803992,997803932,0,2409:4072:610B:21F4:5D4:7188:1615:ED4A,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-01-17T03:12:57+00:00,1000865788,1000865012,0,Pawan Sparkle,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-30T00:21:02+00:00,997097454,997090053,0,86.0.196.16,Bigg Boss (Tamil TV series) season 4,
+2020-12-29T14:38:15+00:00,996992237,996990348,0,Czech26,Bigg Boss (Tamil TV series) season 4,/* Original entrants */
+2021-01-27T15:10:57+00:00,1003130149,1003129936,0,59.92.32.145,Bigg Boss (Telugu TV series) season 4,/* Housemates status */
+2021-01-16T17:06:39+00:00,1000771898,1000771873,0,Martin Urbanec,Bigg Boss (Telugu TV series) season 4,Reverted to revision 999786326 by [[Special:Contributions/Kristineew|Kristineew]] ([[User talk:Kristineew|talk]]): Removal of content
+2021-01-02T08:08:02+00:00,997798309,997579417,0,Pawan Sparkle,Bigg Boss (Telugu TV series) season 4,/* Reception */
+2021-01-10T01:38:08+00:00,999414898,999264685,0,DumbBOT,Bigg Boss (Telugu TV series) season 4,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2021-02-20T00:40:17+00:00,1007802164,1007364491,0,LilHelpa,Bigg Boss (Telugu TV series) season 4,typo
+2021-02-17T19:22:54+00:00,1007364491,1007364255,0,Mickeydkop,Bigg Boss (Telugu TV series) season 4,/* Nomination table */
+2021-01-14T15:19:08+00:00,1000301566,1000301514,0,210.18.135.158,Gabriella Charlton,
+2021-01-18T16:37:49+00:00,1001186930,1000952619,0,EN-Jungwon,Gabriella Charlton,Rollback edit(s) by [[Special:Contributions/Honeyintruder888|Honeyintruder888]] ([[User_talk:Honeyintruder888|talk]]): [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16)]]
+2021-02-22T10:09:39+00:00,1008249699,1008249659,0,Czech26,Ganesh Venkatraman,/* Television */
+2020-12-14T12:07:31+00:00,994167439,994167390,0,Ab207,Ganesh Venkatraman,typo
+2021-02-12T11:32:24+00:00,1006347135,1005965692,0,Auramstate,Harish Kalyan,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Tamil actor and bigg boss contest"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-01-04T15:19:21+00:00,998260421,995960580,0,Hyderabadi,Harish Kalyan,
+2021-01-14T16:31:05+00:00,1000315328,999299601,0,106.208.131.48,Janani (actress),/* Early life */
+2021-01-01T16:25:11+00:00,997654917,997654667,0,Anaxial,Janani (actress),"Reverted 1 edit by [[Special:Contributions/183.83.154.170|183.83.154.170]] ([[User talk:183.83.154.170|talk]]): Match to article title (if it's wrong, please request a Page Move)"
+2021-02-25T09:56:45+00:00,1008842943,1008842879,0,Czech26,Janani (actress),/* Filmography */
+2021-01-15T03:11:34+00:00,1000438822,998526762,0,Pugazhssp,Jithan Ramesh,/* Filmography */
+2020-11-08T18:06:10+00:00,987697656,986270838,0,Barkeep49,Meendum Oru Kadhal Kadhai,Removing link(s): [[Wikipedia:Articles for deletion/Shan (actor)]] closed as delete ([[WP:XFDC|XFDcloser]])
+2021-01-03T18:19:22+00:00,998076360,998065075,0,103.118.164.59,Ramya Pandian,
+2021-01-10T23:13:37+00:00,999585479,999584556,0,108.56.139.120,Ramya Pandian,revert malformed self-revert by 162.216.140.7
+2021-02-17T07:23:21+00:00,1007274797,1006859122,0,58.108.86.194,Ramya Pandian,/* Career */
+2021-01-11T11:43:36+00:00,999681971,999681908,0,117.194.139.219,Rio Raj,/* Television */
+2021-01-07T22:20:33+00:00,998974043,998949262,0,Kristineew,Rio Raj,
+2021-01-31T17:52:02+00:00,1004000839,1003988443,0,108.56.139.120,Ramya Pandian,Undid revision 1003988443 by [[Special:Contributions/Mickeydkop|Mickeydkop]] ([[User talk:Mickeydkop|talk]]) unexplained removal of infobox image
+2021-02-21T06:37:12+00:00,1008036426,1008036191,0,58.108.86.194,Rio Raj,/* Television */
+2021-01-19T13:33:18+00:00,1001389370,1001389365,0,Deepfriedokra,Rio Raj,Adding {{pp-protected}}
+2021-01-10T00:07:59+00:00,999400215,998488076,0,Monkbot,Riythvika,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 5 templates: del empty params (4×); hyphenate params (4×); del |url-status= (1×);
+2021-01-24T04:54:47+00:00,1002386140,1001941673,0,108.56.139.120,Sherin Shringar,Undid revision 1001941673 by [[Special:Contributions/175.38.79.91|175.38.79.91]] ([[User talk:175.38.79.91|talk]]) [[WP:UNSOURCED]]
+2021-01-07T19:00:59+00:00,998940176,998939966,0,Ponyo,Sherin Shringar,remove personal information not supported by a reliable source
+2021-02-15T01:53:18+00:00,1006835123,1005268634,0,Ravensfire,Shivani Narayanan,/* Awards and nominations */ unsourced and non-notable award
+2021-01-30T21:01:42+00:00,1003818612,1003787318,0,Cyphoidbomb,Shivani Narayanan,Reverted to revision 1003159124 by [[Special:Contributions/El C|El C]] ([[User talk:El C|talk]]): [[WP:FILMOGRAPHY]]
+2021-01-08T06:04:33+00:00,999042885,997494598,0,175.38.79.91,Snehan,
+2021-01-20T06:47:50+00:00,1001562596,999042885,0,Monkbot,Snehan,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 18 templates: hyphenate params (1×);
+2020-12-22T14:45:12+00:00,995717633,995692507,0,103.70.199.200,Soorarai Pottru,Exact date not yet finalised
+2021-01-14T21:04:42+00:00,1000375058,1000332984,0,SuriyaCR7Fan,Soorarai Pottru,
+2020-12-27T15:05:31+00:00,996592779,995487712,0,Ppp33445566,Super Singer (Tamil TV series),/* Season 7 */
+2020-12-21T08:25:36+00:00,995487712,994958714,0,Kboomika33,Super Singer (Tamil TV series),
+2021-01-21T00:22:51+00:00,1001717250,1001263873,0,Monkbot,Vanitha Vijayakumar,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 25 templates: hyphenate params (2×);
+2021-02-27T12:47:00+00:00,1009229316,1009229228,0,Czech26,Vanitha Vijayakumar,/* Selected filmography */
+2021-02-14T02:45:50+00:00,1006664169,1006522170,0,2405:201:E019:9007:487E:743E:2A19:6406,Vanitha Vijayakumar,/* Television */
+2020-12-07T18:02:59+00:00,992896532,992896497,0,Materialscientist,Aari Arujunan,Reverted edits by [[Special:Contributions/78.100.231.111|78.100.231.111]] ([[User talk:78.100.231.111|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-02-19T15:04:03+00:00,1007711667,1007711546,0,ItzJustLucky,Aari Arujunan,IM NEW EDTOR MISTAKE
+2021-02-14T02:57:58+00:00,1006665749,1006665352,0,HMSLavender,Aari Arujunan,Reverted edits by [[Special:Contributions/2405:201:E019:9007:487E:743E:2A19:6406|2405:201:E019:9007:487E:743E:2A19:6406]] ([[User talk:2405:201:E019:9007:487E:743E:2A19:6406|talk]]): addition of [[WP:BLP|unsourced content]] to a biographical article ([[WP:HG|HG]]) (3.4.10)
+2021-01-08T09:15:00+00:00,999064350,999062768,0,Rizkiya beejan,Aari Arujunan,
+2020-11-22T03:43:46+00:00,989985424,989985355,0,2409:4072:6387:128C:70DD:8BF0:7B31:EB66,Aari Arujunan,
+2021-03-02T06:59:43+00:00,1009775822,1009415776,0,Ragavarya,Aari Arujunan,"Citation provided for the following details: Parents details, Big boss winner details"
+2020-11-09T04:38:11+00:00,987774798,987681023,0,122.174.132.12,Aari Arujunan,/* Filmography */
+2020-12-18T14:06:42+00:00,994968096,994610343,0,112.134.117.115,Aari Arujunan,
+2021-01-15T02:06:52+00:00,1000429164,1000428778,0,164.78.250.119,Aari Arujunan,
+2020-12-27T17:46:58+00:00,996615241,996586384,0,S0091,Aari Arujunan,Reverted 1 edit by [[Special:Contributions/Jeva10|Jeva10]] ([[User talk:Jeva10|talk]]): [[WP:CRYSTAL]]
+2021-01-05T22:16:12+00:00,998550187,998543235,0,2402:1980:8282:8819:97FF:BA02:4821:9DF1,Aari Arujunan,/* Television */
+2021-01-12T14:34:52+00:00,999899857,999899773,0,Materialscientist,Aari Arujunan,Reverted edits by [[Special:Contributions/KaruppasamyRKs1988|KaruppasamyRKs1988]] ([[User talk:KaruppasamyRKs1988|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-11-30T01:43:21+00:00,991436724,990954459,0,WeirdMatter,Aari Arujunan,Added to Bigg Boss Tamil contestants subcategory.
+2021-01-14T00:41:08+00:00,1000184467,1000087513,0,49.206.125.197,Aari Arujunan,Updated content
+2021-01-02T00:19:36+00:00,997737406,996795417,0,GrahamHardy,Abijeet,- defsort
+2020-11-26T07:36:54+00:00,990745274,990735265,0,183.83.253.247,Abijeet,/* Television */
+2020-11-13T00:06:08+00:00,988407250,988317265,0,58.108.33.213,Aishwarya Dutta,/* Television */
+2020-12-21T13:20:24+00:00,995514205,995513851,0,Vithursan1003,Abijeet,/* Career */
+2020-11-27T16:59:38+00:00,990981829,990981741,0,Materialscientist,Abijeet,Reverted edits by [[Special:Contributions/2405:204:540A:735B:5D77:464B:31DD:D8CA|2405:204:540A:735B:5D77:464B:31DD:D8CA]] ([[User talk:2405:204:540A:735B:5D77:464B:31DD:D8CA|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2020-12-21T04:15:03+00:00,995462364,995460760,0,115.99.239.141,Aari Arujunan,/* Personal life */
+2020-11-14T04:07:45+00:00,988600335,988597518,0,Solidhelium,Abijeet,Undid revision 988597518 by [[Special:Contributions/205.154.255.134|205.154.255.134]] ([[User talk:205.154.255.134|talk]])
+2020-11-25T17:50:10+00:00,990642027,990606374,0,Tom.Reding,Abijeet,[[Category:CS1 errors: empty unknown parameters]]; [[WP:GenFixes]] on
+2020-11-30T06:05:42+00:00,991469207,988407250,0,WeirdMatter,Aishwarya Dutta,Bigg Boss contestant subcategorisation.
+2021-02-08T13:51:37+00:00,1005594223,1005593800,0,Kline,Anuya Y Bhagwat,
+2020-11-09T17:16:30+00:00,987855464,987855424,0,Materialscientist,Aishwarya Dutta,Reverted edits by [[Special:Contributions/49.207.142.205|49.207.142.205]] ([[User talk:49.207.142.205|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-02-27T17:53:18+00:00,1009271975,1009219264,0,Suneye1,Anuya Y Bhagwat,Reverted 2 edits by [[Special:Contributions/2405:201:E008:881C:4122:4866:5168:5BB9|2405:201:E008:881C:4122:4866:5168:5BB9]] ([[User talk:2405:201:E008:881C:4122:4866:5168:5BB9|talk]]): Unsourced
+2021-02-19T22:58:01+00:00,1007787084,1005594223,0,2A01:CB00:19:5C00:6896:7A15:E135:70FE,Anuya Y Bhagwat,
+2020-10-12T00:35:38+00:00,983058222,980554828,0,Rabbithat43,Anuya Y Bhagwat,Rescuing 11 sources and tagging 0 as dead.) #IABot (v2.0.7
+2021-02-27T11:19:07+00:00,1009219264,1009218729,0,2405:201:E008:881C:4122:4866:5168:5BB9,Anuya Y Bhagwat,/* Film career */
+2020-11-30T02:29:54+00:00,991444062,983058222,0,WeirdMatter,Anuya Y Bhagwat,Bigg Boss contestant subcategorisation.
+2020-12-12T10:13:40+00:00,993760571,993749223,0,Anianju,Archana Chandhoke,/* Awards */
+2021-01-20T03:42:50+00:00,1001538923,1000961936,0,203.115.27.18,Archana Chandhoke,/* Presenter */
+2020-11-27T21:55:03+00:00,991028093,991027932,0,Neutral Fan,Archana Chandhoke,
+2020-11-07T22:45:49+00:00,987572708,987572650,0,171.61.110.214,Archana Chandhoke,
+2021-02-05T15:47:53+00:00,1005021609,1005008973,0,Egidio24,Bigg Boss,v2.04 - Fix errors for [[WP:WCW|CW project]] (Link equal to linktext)
+2021-01-24T06:49:15+00:00,1002398780,1002398755,0,B732,Archana Chandhoke,Reverted edits by [[Special:Contributions/115.97.234.12|115.97.234.12]] ([[User talk:115.97.234.12|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-11-18T16:32:19+00:00,989371972,989371778,0,Materialscientist,Archana Chandhoke,Reverted edits by [[Special:Contributions/Spellcaster6231|Spellcaster6231]] ([[User talk:Spellcaster6231|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-02-02T12:42:11+00:00,1004404564,1002398780,0,2409:4072:97:DF3A:9D0:8756:90FD:87EB,Archana Chandhoke,/* Presenter */
+2021-01-01T08:43:12+00:00,997593840,997570815,0,89.211.248.161,Bigg Boss,/* Versions */
+2021-03-02T07:52:00+00:00,1009782449,1009572841,0,2402:3A80:A3A:D334:C04A:637A:2EF4:4F71,Bigg Boss,/* Versions */
+2020-12-01T12:08:35+00:00,991707753,991686548,0,223.178.146.240,Bigg Boss,/* Bigg Boss Marathi */
+2021-02-07T19:44:17+00:00,1005460093,1005355642,0,59.103.126.1,Bigg Boss,/* Versions */
+2021-02-27T12:01:53+00:00,1009223816,1009213263,0,49.207.197.159,Bigg Boss,/* Versions */
+2020-12-11T11:07:00+00:00,993585458,993585414,0,103.134.27.245,Bigg Boss,
+2020-11-17T17:50:34+00:00,989209192,989209001,0,182.186.7.64,Bigg Boss,/* Versions */
+2020-11-04T03:49:00+00:00,986983787,986938382,0,2409:4072:19:C8C7:552A:3CE0:B7A3:8065,Bigg Boss,/* Bigg Boss Tamil */
+2020-11-22T17:20:02+00:00,990072579,990072462,0,Nithya Vikashini,Bigg Boss,/* Bigg Boss */
+2020-11-26T09:41:09+00:00,990757572,990715820,0,58.108.124.9,Bigg Boss,/* Summary */
+2021-02-11T10:54:01+00:00,1006157424,1005975813,0,2409:4041:2E07:579C:70AD:A0C7:636E:9F05,Bigg Boss,
+2021-02-24T18:37:16+00:00,1008720384,1008720293,0,ThisIsHowIAm,Bigg Boss,hey
+2020-11-22T03:10:41+00:00,989981631,989698325,0,58.108.124.9,Bigg Boss,/* Summary */
+2020-11-28T13:23:22+00:00,991137293,991137216,0,Materialscientist,Bigg Boss,"Reverted edits by [[Special:Contributions/149.167.141.101|149.167.141.101]] ([[User talk:149.167.141.101|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.10)"
+2021-02-09T10:48:37+00:00,1005778649,1005460093,0,106.212.141.185,Bigg Boss,Unnecessary content removed q
+2020-11-14T08:54:52+00:00,988626845,988625704,0,2A01:4C8:A2:7E3B:819C:774C:5A90:776,Bigg Boss (Hindi TV series) season 14,Undid revision 988625704 by [[Special:Contributions/2405:201:12:A01B:EC96:D944:58C9:FED0|2405:201:12:A01B:EC96:D944:58C9:FED0]] ([[User talk:2405:201:12:A01B:EC96:D944:58C9:FED0|talk]]) - please no last names here and it’s Sara Gurpal why would [[Sara Ali Khan]] be in bb
+2020-12-01T10:01:48+00:00,991691898,991681683,0,GujaratLion,Bigg Boss (Hindi TV series) season 14,
+2020-12-05T04:48:20+00:00,992420514,992419096,0,Wikivasug,Bigg Boss (Hindi TV series) season 14,
+2020-11-13T20:00:18+00:00,988538211,988538026,0,182.186.46.254,Bigg Boss (Hindi TV series) season 14,/* Through Direct contact */
+2021-01-22T13:39:01+00:00,1002026269,1002025446,0,Charan311,Bigg Boss (Tamil TV series),
+2020-12-14T10:44:15+00:00,994158305,994158083,0,Ashnu,Bigg Boss (Tamil TV series),/* Series Overview */
+2020-11-11T00:09:26+00:00,988087806,987816375,0,58.108.33.213,Bigg Boss (Tamil TV series) season 1,
+2020-11-30T00:09:33+00:00,991423009,991422652,0,162.0.72.143,Bigg Boss (Tamil TV series) season 1,/* Housemate status */
+2020-12-02T00:16:43+00:00,991820768,991553221,0,58.108.124.9,Bigg Boss (Tamil TV series) season 1,/* Nominations table */
+2020-11-26T10:00:03+00:00,990759417,990403443,0,58.108.124.9,Bigg Boss (Tamil TV series) season 1,/* Nominations table */
+2020-12-24T14:32:46+00:00,996097070,996044124,0,2409:4072:382:88F2:0:0:974:78AC,Bigg Boss (Tamil TV series) season 1,/* Housemate status */
+2020-11-08T05:31:20+00:00,987615522,987611847,0,2A01:4C8:77:DA49:95D2:EF2D:B004:5527,Bigg Boss (Tamil TV series) season 2,Undid revision 987611847 by [[Special:Contributions/184.148.84.39|184.148.84.39]] ([[User talk:184.148.84.39|talk]])
+2020-11-09T13:17:33+00:00,987824340,987816987,0,59.92.194.3,Bigg Boss (Tamil TV series) season 2,
+2021-01-20T03:52:30+00:00,1001540091,1001354510,0,JPxG,Bigg Boss (Tamil TV series) season 2,Reverted edits by [[Special:Contribs/2405:201:D001:680A:C93F:2ED3:911C:F6DF|2405:201:D001:680A:C93F:2ED3:911C:F6DF]] ([[User talk:2405:201:D001:680A:C93F:2ED3:911C:F6DF|talk]]) to last version by ClueBot NG
+2021-01-04T03:09:11+00:00,998161576,997854484,0,59.89.204.36,Bigg Boss (Tamil TV series) season 2,/* Housemate Status */
+2020-12-02T00:14:35+00:00,991820467,991820378,0,58.108.124.9,Bigg Boss (Tamil TV series) season 2,/* Nominations table */
+2020-11-19T17:20:42+00:00,989551754,989344171,0,Lennart97,Bigg Boss (Tamil TV series) season 2,Disambiguated: [[Vaishnavi]] → [[Vaishnavi Prasad]] using [[WP:DABSOLVER|Dab solver]]
+2020-11-25T10:20:31+00:00,990589135,990391961,0,58.108.124.9,Bigg Boss (Tamil TV series) season 2,/* Nominations table */
+2021-01-03T14:30:43+00:00,998041099,998040078,0,Nobodywanted,Bigg Boss (Tamil TV series) season 3,Spelling error
+2020-12-20T16:33:12+00:00,995357895,995352966,0,2A01:4C8:43:B01D:7544:BFC1:E804:7974,Bigg Boss (Tamil TV series) season 3,Undid revision 995352666 by [[Special:Contributions/Pawan Sparkle|Pawan Sparkle]] ([[User talk:Pawan Sparkle|talk]]) - [[User:Pawan Sparkle]] this is needed as the table goes off the page please don’t remove this and doesn’t matter If it is like that when it’s in mobile version it is ok in desktop please stop or you will get reported
+2020-12-01T04:23:42+00:00,991654705,991483720,0,2409:4072:6D1C:B2A2:5A8:E05E:7136:52E8,Bigg Boss (Tamil TV series) season 3,
+2020-11-21T09:27:35+00:00,989837174,989837031,0,58.108.124.9,Bigg Boss (Tamil TV series) season 4,/* Nominations Table */
+2020-11-24T19:10:20+00:00,990485772,990485202,0,2A01:4C8:A2:7E3B:5421:E8E3:7256:841C,Bigg Boss (Tamil TV series) season 4,/* Bigg Boss prison */- as per [[WP:MOSHEAD]] and [[User:SPEcial EDItor 2020]] dont change the size 70 is the right and better as everyone can see
+2020-11-10T15:31:04+00:00,988013189,988006694,0,49.37.219.213,Bigg Boss (Tamil TV series) season 4,
+2020-11-22T14:29:05+00:00,990049049,990048995,0,58.108.124.9,Bigg Boss (Tamil TV series) season 4,/* Weekly Summary */
+2020-11-13T18:50:32+00:00,988528069,988527980,0,2607:FEA8:A35F:D20:2162:4229:789C:1256,Bigg Boss (Tamil TV series) season 4,
+2020-11-12T13:18:14+00:00,988320222,988318273,0,202.83.59.94,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-10T10:12:36+00:00,993387596,993381313,0,49.196.148.170,Bigg Boss (Tamil TV series) season 4,/* Nominations table */
+2021-01-02T08:46:57+00:00,997802650,997802631,0,2409:4070:4087:2B45:F37C:FBF0:7BEA:EAA,Bigg Boss (Tamil TV series) season 4,
+2020-11-09T16:31:06+00:00,987848981,987843599,0,2401:4900:4AC2:24E2:28B9:DD06:5F49:7399,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-11-27T03:47:50+00:00,990896828,990883311,0,2001:D08:102C:E5AF:1:2:409:6CFE,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-11-13T15:33:03+00:00,988498599,988498540,0,2405:201:E01B:E881:105A:DDA:2B0D:5860,Bigg Boss (Tamil TV series) season 4,/* Weekly Summary */
+2020-12-31T17:20:10+00:00,997468029,997467978,0,AV3NG3RR PUBG,Bigg Boss (Tamil TV series) season 4,/* Audience and Guests */
+2020-12-30T08:11:08+00:00,997166861,997164755,0,2405:201:E01B:E00C:C9CB:E393:F28A:B1F0,Bigg Boss (Tamil TV series) season 4,/* Guests */
+2020-11-11T17:25:40+00:00,988189427,988185209,0,2405:201:E01B:E881:E082:9A61:14BF:E593,Bigg Boss (Tamil TV series) season 4,/* Weekly Summary */
+2021-03-01T04:24:17+00:00,1009553157,1009431418,0,115.99.109.219,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-11-08T18:27:16+00:00,987700643,987693616,0,2001:D08:1A80:711F:E023:1BC4:7A03:448F,Bigg Boss (Tamil TV series) season 4,/* Award Function */
+2020-11-27T15:29:25+00:00,990968630,990961741,0,58.108.124.9,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2021-02-28T15:28:06+00:00,1009431418,1008786425,0,86.143.60.67,Bigg Boss (Tamil TV series) season 4,/* Prison */Don’t need to add Bigg boss as we know it’s that reality show just leave it as Prison
+2020-12-12T21:31:47+00:00,993858022,993856562,0,2409:4072:999:5391:0:0:1591:40AD,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-11-18T23:57:36+00:00,989437489,989358085,0,58.108.33.213,Bigg Boss (Tamil TV series) season 4,/* Nominations Table */
+2020-11-09T18:37:33+00:00,987867414,987861311,0,173.66.99.5,Bigg Boss (Tamil TV series) season 4,/* Nominations Table */Fixed Gabriella name
+2020-11-27T17:26:23+00:00,990985642,990983113,0,2A01:4C8:B4:5056:609B:131D:EE0C:CA7F,Bigg Boss (Tamil TV series) season 4,- look please look at [[WP:MOSHEAD]] and stop changing it back I will now report you and you will be reported [[User:42.60.30.242]] please stop captilzing every thing and follow the Wikipedia rules and last warning I have had enough of you annoying behaviour stop changing the size to 60 as 70 it’s the right size so stop
+2020-12-03T04:54:07+00:00,992044348,992043741,0,Akash aaryann,Bigg Boss (Tamil TV series) season 4,
+2020-12-09T20:11:28+00:00,993282889,993261280,0,109.158.70.122,Bigg Boss (Tamil TV series) season 4,/* Nominations table */ - dont use the green color as that is only for the winner
+2020-12-13T07:40:10+00:00,993937716,993937657,0,Ashnu,Bigg Boss (Tamil TV series) season 4,/* Nomination table */
+2021-01-03T10:57:55+00:00,998017400,998007937,0,Selvan1164,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-11-16T15:39:12+00:00,989013515,989010356,0,115.97.50.194,Bigg Boss (Tamil TV series) season 4,/* Guests */Fixed information
+2020-11-26T17:35:30+00:00,990815808,990813493,0,1.38.196.202,Bigg Boss (Tamil TV series) season 4,
+2020-11-16T18:11:56+00:00,989035987,989029587,0,141.156.180.205,Bigg Boss (Tamil TV series) season 4,/* Nominations Table */Fixed a possible typo
+2020-12-05T23:23:49+00:00,992566699,992534208,0,Bioten,Bigg Boss (Tamil TV series) season 4,
+2020-11-09T17:04:07+00:00,987853629,987852691,0,1.38.196.187,Bigg Boss (Tamil TV series) season 4,/* Nominations Table */
+2020-12-11T17:07:52+00:00,993632246,993632024,0,2405:201:E01B:E00C:A955:7F04:A9A4:1579,Bigg Boss (Tamil TV series) season 4,/* Nominations table */
+2020-12-01T17:40:04+00:00,991756172,991756092,0,2405:201:E01B:E00C:894D:6F98:6ABA:5650,Bigg Boss (Tamil TV series) season 4,/* Nominations table */
+2020-12-13T11:01:03+00:00,993953990,993953933,0,Le Deluge,Bigg Boss (Tamil TV series) season 4,removed [[Category:2030 Tamil-language television series debuts]]; added [[Category:2020 Tamil-language television series debuts]] using [[WP:HC|HotCat]]
+2020-11-18T04:22:50+00:00,989295134,989294556,0,2405:201:E01B:E881:6C45:4EDA:D983:AE54,Bigg Boss (Tamil TV series) season 4,/* Nominations Table */
+2020-12-31T12:45:15+00:00,997424214,997424110,0,223.182.218.108,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-11-25T22:13:06+00:00,990679417,990660466,0,2607:FEA8:A35F:D20:556E:F5A8:DED8:2C94,Bigg Boss (Tamil TV series) season 4,
+2021-01-02T13:37:14+00:00,997837692,997835432,0,Selvan1164,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-11-14T04:47:42+00:00,988604681,988604609,0,2405:201:E01B:E881:58D8:6995:EB17:D400,Bigg Boss (Tamil TV series) season 4,/* Guests */
+2020-11-23T08:57:06+00:00,990189401,990187022,0,2405:201:E01B:E86F:C57F:25D5:6EE9:9365,Bigg Boss (Tamil TV series) season 4,/* Nominations Table */
+2020-11-19T11:59:03+00:00,989511730,989506643,0,117.213.247.165,Bigg Boss (Tamil TV series) season 4,/* Award Function */
+2020-12-31T04:39:36+00:00,997368095,997367134,0,2405:201:E01B:E00C:AD5A:A87A:E5FF:F4E7,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-11-23T03:07:54+00:00,990156188,990151991,0,115.97.44.100,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-12-08T22:38:41+00:00,993124262,993124023,0,47.201.103.14,Bigg Boss (Tamil TV series) season 4,/* Weekly summary */
+2020-12-10T20:29:12+00:00,993476694,993446436,0,2402:3A80:191E:7FA6:FC74:4413:4CA0:67C6,Bigg Boss (Tamil TV series) season 4,/* Nominations table */
+2021-02-24T00:27:27+00:00,1008571861,1008571555,0,45.116.115.14,Bigg Boss (Tamil TV series) season 4,
+2020-11-23T08:31:05+00:00,990187022,990183761,0,58.108.124.9,Bigg Boss (Tamil TV series) season 4,/* Weekly Summary */
+2020-11-15T17:43:44+00:00,988856447,988856203,0,Materialscientist,Bigg Boss (Tamil TV series) season 4,Reverted edits by [[Special:Contributions/223.181.240.156|223.181.240.156]] ([[User talk:223.181.240.156|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-12-01T19:02:24+00:00,991770497,991769229,0,2607:FEA8:A35F:D20:54F:4CA5:D1C3:2CDC,Bigg Boss (Tamil TV series) season 4,
+2020-11-19T04:10:40+00:00,989467549,989467249,0,2405:201:E01B:E881:B492:2B1F:953A:9046,Bigg Boss (Tamil TV series) season 4,/* Weekly Summary */
+2021-01-17T04:04:07+00:00,1000871946,1000871905,0,Balurbala,Bigg Boss (Tamil TV series) season 4,
+2020-11-27T07:49:04+00:00,990922059,990921932,0,2A01:4C8:B4:5056:681C:86E9:EBE9:6C61,Bigg Boss (Tamil TV series) season 4,/* Nominations table */- - stop changing the size or you will be blocked and reported for vandalism
+2020-11-18T00:22:44+00:00,989265500,989264591,0,58.108.33.213,Bigg Boss (Tamil TV series) season 4,/* Housemates status */
+2020-11-19T21:32:23+00:00,989588796,989588654,0,47.201.103.14,Bigg Boss (Telugu TV series) season 4,/* Nomination table */
+2020-12-22T12:27:12+00:00,995699988,995690297,0,122.175.72.188,Bigg Boss (Telugu TV series) season 4,
+2020-11-19T21:08:22+00:00,989585706,989585520,0,2A02:C7D:46DF:3900:ED2C:1C34:8B7B:E2B4,Bigg Boss (Telugu TV series) season 4,/* Nomination table */
+2020-11-12T04:51:36+00:00,988273845,988273361,0,2405:201:E01B:E881:E593:B31A:FC6B:453B,Bigg Boss (Telugu TV series) season 4,/* Housemates status */
+2020-12-10T15:40:15+00:00,993427157,993425059,0,43.227.131.133,Bigg Boss (Telugu TV series) season 4,Sohel evicted... It will known on sunday 13 dec someone placed it before
+2020-11-09T12:03:14+00:00,987816787,987812475,0,2405:201:E01D:4045:31EF:AC88:CFBD:1E3B,Bigg Boss (Telugu TV series) season 4,/* Housemates status */Added content
+2020-11-28T01:02:33+00:00,991055703,991030435,0,2405:201:E01B:E00C:CD3F:47E5:7380:B379,Bigg Boss (Telugu TV series) season 4,/* Bigg Boss 4 Voting */
+2020-12-26T16:01:55+00:00,996432830,996432820,0,Fvasconcellos,Bigg Boss (Telugu TV series) season 4,Adding {{pp-protected}}
+2020-12-13T16:40:41+00:00,993996456,993979494,0,2405:201:E002:6826:A438:AC6D:2C2E:DE99,Gabriella Charlton,
+2020-11-20T14:47:25+00:00,989702289,989654180,0,27.62.2.200,Gabriella Charlton,/* Television */
+2021-01-15T08:39:00+00:00,1000486622,1000437386,0,Filedelinkerbot,Gabriella Charlton,Bot: Removing [[Commons:File:Gabriella-Charlton.jpg]] ([[:File:Gabriella-Charlton.jpg|en]]). It was deleted on Commons by [[:Commons:User:Fitindia|Fitindia]] (No permission since 7 January 2021).
+2020-11-04T18:49:32+00:00,987070538,983014554,0,2409:4072:20D:5873:0:0:1927:B0AD,Ganesh Venkatraman,/* Personal life */
+2020-11-11T10:16:25+00:00,988142314,988142279,0,Riya Iyer S Menon,Harish Kalyan,
+2021-02-04T01:54:01+00:00,1004727282,1004727209,0,2607:FEA8:EDF:1F20:49EA:C4AD:7D04:8046,Harish Kalyan,/* Filmography */
+2020-12-03T00:47:56+00:00,992011956,992011795,0,Riya Iyer S Menon,Harish Kalyan,/* Television */
+2020-11-30T22:30:21+00:00,991602284,991507643,0,Missvain,Harish Kalyan,/* Career beginnings (2010–2017) */
+2020-11-07T08:47:30+00:00,987475383,984606330,0,Sandstein,Harish Kalyan,Removing link(s): [[Wikipedia:Articles for deletion/Sanjay Bharathi]] closed as delete ([[WP:XFDC|XFDcloser]])
+2020-10-17T04:26:58+00:00,983936618,983936547,0,2601:188:180:B8E0:65F5:930C:B0B2:CD63,Janani (actress),Undid revision 983936547 by [[Special:Contributions/Anonymous agni|Anonymous agni]] ([[User talk:Anonymous agni|talk]])
+2020-11-22T11:49:21+00:00,990032867,990032837,0,2409:4072:6C9E:4449:C71D:DB57:276B:81BC,Janani (actress),Undid revision 980307002 by [[Special:Contributions/122.174.228.179|122.174.228.179]] ([[User talk:122.174.228.179|talk]])
+2020-12-29T15:56:52+00:00,997005242,996324727,0,Tassedethe,Jithan Ramesh,v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Madhu (film)]]
+2020-11-10T17:28:45+00:00,988032564,988032400,0,117.209.162.49,Jithan Ramesh,/* Television */
+2020-11-28T03:06:35+00:00,991072358,990857174,0,58.108.124.9,Ramya Pandian,
+2020-11-14T20:50:03+00:00,988713971,988712856,0,Keith D,Ramya Pandian,Reverted edits by [[Special:Contribs/2409:4072:51E:D038:B580:751A:237B:4C7|2409:4072:51E:D038:B580:751A:237B:4C7]] ([[User talk:2409:4072:51E:D038:B580:751A:237B:4C7|talk]]) to last version by Eswnav
+2020-11-21T19:36:26+00:00,989918743,989917985,0,KylieTastic,Ramya Pandian,Undid revision 989917985 by [[Special:Contributions/117.193.138.198|117.193.138.198]] ([[User talk:117.193.138.198|talk]]) Revert - not a recognised image file - Note images must be uploaded [[WP:UPIMAGE]] (copyright allowing)
+2020-11-15T01:57:09+00:00,988755836,988713971,0,Riya Iyer S Menon,Ramya Pandian,/* Filmography */
+2020-12-08T00:51:54+00:00,992955269,992954940,0,Binho24,Ramya Pandian,
+2021-01-15T05:20:44+00:00,1000457847,1000457838,0,Zetana,Ramya Pandian,Reverted 2 edits by [[Special:Contributions/2409:4072:217:4D8:3050:734C:7F09:117|2409:4072:217:4D8:3050:734C:7F09:117]] ([[User talk:2409:4072:217:4D8:3050:734C:7F09:117|talk]]) to last revision by Cyphoidbomb
+2021-02-06T17:08:33+00:00,1005231218,1005231010,0,Njd-de,Ramya Pandian,Reverting edit(s) by [[Special:Contributions/2409:4072:99B:B0FA:65A6:2C86:B208:3EFF|2409:4072:99B:B0FA:65A6:2C86:B208:3EFF]] ([[User_talk:2409:4072:99B:B0FA:65A6:2C86:B208:3EFF|talk]]) to rev. 1005060072 by ClueBot NG: [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16)]]
+2020-12-12T06:31:08+00:00,993742171,993742007,0,2402:1980:8248:C44D:AC98:D808:631E:BC64,Ramya Pandian,/* Television */
+2020-12-02T01:57:05+00:00,991836411,991782402,0,118.100.191.73,Ramya Pandian,/* Web series */
+2021-03-02T05:55:46+00:00,1009768301,1009638733,0,27.7.137.166,Rio Raj,
+2021-02-13T07:00:06+00:00,1006508293,1006287656,0,2409:4072:640E:7678:0:0:51A:C0A4,Rio Raj,
+2020-11-07T15:10:18+00:00,987514110,987514063,0,58.108.33.213,Rio Raj,/* Television */
+2020-11-24T06:15:39+00:00,990391965,988984529,0,106.198.65.244,Rio Raj,/* Career */
+2021-01-07T09:09:14+00:00,998852628,998846888,0,106.220.240.233,Rio Raj,/* Flim */
+2020-11-26T22:11:59+00:00,990856367,990856291,0,Neutral Fan,Rio Raj,Filled in 7 bare reference(s) with reFill 2
+2021-01-29T17:09:49+00:00,1003574692,1003574646,0,Aseleste,Rio Raj,"Changing [[Wikipedia:Short description|short description]] from ""Indian actor"" to ""Indian movie actor"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-10-08T10:52:22+00:00,982472662,982472552,0,Materialscientist,Riythvika,Reverted edits by [[Special:Contributions/2409:4072:690:8972:711D:66A9:9411:4139|2409:4072:690:8972:711D:66A9:9411:4139]] ([[User talk:2409:4072:690:8972:711D:66A9:9411:4139|talk]]): Failure to [[WP:CITE|cite]] a reliable source ([[WP:HG|HG]]) (3.2.0)
+2021-02-20T12:07:40+00:00,1007883203,1007862123,0,KylieTastic,Riythvika,Reverted 2 edits by [[Special:Contributions/2409:4072:19:30E1:ADFA:8202:223B:DC90|2409:4072:19:30E1:ADFA:8202:223B:DC90]] ([[User talk:2409:4072:19:30E1:ADFA:8202:223B:DC90|talk]]) to last revision by Monkbot
+2020-12-29T06:19:41+00:00,996930561,996930234,0,Dinesh1104,Sherin Shringar,
+2021-01-01T21:55:57+00:00,997714800,997492360,0,Tassedethe,Sherin Shringar,
+2020-12-05T06:28:34+00:00,992430752,990849046,0,147.158.44.59,Sherin Shringar,/* Filmography */
+2020-11-20T17:31:49+00:00,989724408,989713420,0,Suneye1,Sherin Shringar,Reverted 2 edits by [[Special:Contributions/2409:4072:6294:B64C:D2A3:E048:8067:4A7|2409:4072:6294:B64C:D2A3:E048:8067:4A7]] ([[User talk:2409:4072:6294:B64C:D2A3:E048:8067:4A7|talk]]): Unsourced
+2020-11-13T00:01:59+00:00,988406697,988406609,0,Neutral Fan,Sherin Shringar,/* Career */
+2021-02-23T18:23:33+00:00,1008517318,1006835123,0,Ken Gallager,Shivani Narayanan,cat sort
+2020-12-11T18:12:59+00:00,993641838,993641769,0,Materialscientist,Snehan,Reverted edits by [[Special:Contributions/217.224.220.31|217.224.220.31]] ([[User talk:217.224.220.31|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-11-14T21:20:30+00:00,988718510,987663908,0,2600:1700:F20:4810:44B3:85F7:D1D1:8DFE,Snehan,/* Early life */
+2021-02-11T13:15:14+00:00,1006172023,1006040081,0,Citation bot,Soorarai Pottru,"Alter: title, first3, first2. Add: author pars. 1-1. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:EngvarB from November 2020]] | via #UCB_Category 120/319"
+2021-01-22T20:56:47+00:00,1002095429,1001756967,0,Mjetal7lica9,Soorarai Pottru,/* Home media */Fixed mistake
+2020-11-11T09:02:13+00:00,988136158,988049195,0,Kailash29792,Soorarai Pottru,
+2021-01-10T14:10:36+00:00,999499376,998069832,0,Gokul BM,Soorarai Pottru,
+2020-12-13T07:11:54+00:00,993935161,993920705,0,182.65.244.171,Soorarai Pottru,added content and fixed citations
+2020-11-20T09:00:20+00:00,989664948,989611552,0,Gautham offl,Soorarai Pottru,"Can anyone humbly explain what is wrong adding the words ""positive reviews"". I am NOT marketing or promoting the film, Even I am a neutral person who doesnt type any untruly/fake facts, I have proof for every fact/informat I type here. If wikipedia articles of other good films had the same line like ""highly positive reviews from critics"" (which is true) in the ""reception"" subtopic then why cant this film, which already received positive response from critics and this truth cant be denied right??"
+2020-12-16T17:16:42+00:00,994616347,994610086,0,Suneye1,Soorarai Pottru,Undid revision 994610086 by [[Special:Contributions/27.62.134.50|27.62.134.50]] ([[User talk:27.62.134.50|talk]])?
+2021-02-22T03:26:20+00:00,1008209405,1008209298,0,111.92.81.0,Soorarai Pottru,/* Impact */
+2020-11-09T16:26:43+00:00,987848312,987843748,0,77Survivor,Soorarai Pottru,"Suriya has himself clarified it's not a biopic, only inspired from some events."
+2020-11-06T10:39:21+00:00,987336100,978545179,0,49.207.142.116,Super Singer (Tamil TV series),/* Season 6 */
+2021-03-02T14:30:18+00:00,1009832887,1009832829,0,2402:3A80:160D:28F6:638D:20AC:8E64:76DB,Super Singer (Tamil TV series),
+2020-11-18T21:08:05+00:00,989414029,989203146,0,Rodw,Super Singer (Tamil TV series),Disambiguating links to [[Tamil]] (link changed to [[Tamil language]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-02-01T02:19:52+00:00,1004103562,1004102755,0,2001:D08:1829:614F:1:2:B6C5:1FD8,Super Singer (Tamil TV series),/* Season 8 contestants */
+2021-01-30T06:49:10+00:00,1003696999,1003259401,0,122.171.39.72,Super Singer (Tamil TV series),/* Season 7 */
+2021-01-25T15:22:05+00:00,1002670862,1002429314,0,42.191.228.54,Super Singer (Tamil TV series),
+2021-01-06T16:55:48+00:00,998700815,998700648,0,Materialscientist,Vanitha Vijayakumar,Reverted edits by [[Special:Contributions/2409:4072:6C8E:9372:0:0:1CCA:C10E|2409:4072:6C8E:9372:0:0:1CCA:C10E]] ([[User talk:2409:4072:6C8E:9372:0:0:1CCA:C10E|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-12-26T19:57:19+00:00,996467394,996467271,0,Riya Iyer S Menon,Vanitha Vijayakumar,/* Stage Shows */

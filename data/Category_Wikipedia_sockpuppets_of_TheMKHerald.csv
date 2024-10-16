@@ -1,0 +1,18 @@
+timestamp,revid,parentid,sock,user,page,message
+2016-10-24T15:18:18+00:00,745979511,705492238,1,TheMKHerald,OneMK,
+2016-10-24T15:08:09+00:00,745978285,717348620,1,TheMKHerald,Milton Keynes Citizen,
+2016-10-24T15:00:35+00:00,745977390,745976321,1,TheMKHerald,Milton Keynes,
+2016-10-24T14:52:27+00:00,745976321,745008069,1,TheMKHerald,Milton Keynes,
+2016-10-25T18:08:20+00:00,746170877,746166370,1,Dillbox1,Milton Keynes Citizen,
+2016-10-25T15:48:00+00:00,746153097,746142075,1,Dillbox1,Milton Keynes Citizen,
+2016-10-25T13:44:12+00:00,746138640,746136963,1,Dillbox1,Milton Keynes Citizen,
+2016-10-25T04:20:08+00:00,746079875,746035964,1,Dillbox1,Milton Keynes Citizen,
+2016-10-24T19:49:47+00:00,746017138,745988015,1,Dillbox1,OneMK,
+2016-10-24T19:47:32+00:00,746016819,746016742,1,Dillbox1,Milton Keynes Citizen,
+2016-10-24T19:46:55+00:00,746016742,745988093,1,Dillbox1,Milton Keynes Citizen,
+2016-10-24T15:00:40+00:00,745977403,745977390,0,ClueBot NG,Milton Keynes,"Reverting possible vandalism by [[Special:Contribs/TheMKHerald|TheMKHerald]] to version by John Maynard Friedman. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2808664) (Bot)"
+2016-10-25T17:35:51+00:00,746166370,746153097,0,JMF,Milton Keynes Citizen,Undid revision 746153097 by [[Special:Contributions/Dillbox1|Dillbox1]] ([[User talk:Dillbox1|talk]])rv hoax
+2016-10-24T16:22:04+00:00,745988093,745978285,0,Gnome de plume,Milton Keynes Citizen,Undid revision 745978285 by [[Special:Contributions/TheMKHerald|TheMKHerald]] ([[User talk:TheMKHerald|talk]])
+2016-10-24T22:21:41+00:00,746036000,746017138,0,Drm310,OneMK,Reverted to revision 745988015 by [[Special:Contributions/Gnome de plume|Gnome de plume]] ([[User talk:Gnome de plume|talk]]): Rv advert. ([[WP:TW|TW]])
+2016-10-24T22:21:19+00:00,746035964,746016819,0,Drm310,Milton Keynes Citizen,Reverted to revision 745988093 by [[Special:Contributions/Gnome de plume|Gnome de plume]] ([[User talk:Gnome de plume|talk]]): Rv advert. ([[WP:TW|TW]])
+2016-04-27T05:12:48+00:00,717348620,689212068,0,Hmains,Milton Keynes Citizen,"/* top */copyedit,standard WP date handling; general fixes using AWB using [[Project:AWB|AWB]]"

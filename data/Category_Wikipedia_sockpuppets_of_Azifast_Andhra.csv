@@ -1,0 +1,780 @@
+timestamp,revid,parentid,sock,user,page,message
+2020-05-12T11:16:51+00:00,956260080,956258434,1,Azifast_Andhra,Visakhapatnam district,Visakhapatnam District
+2020-05-12T11:15:31+00:00,956259944,956258436,1,Azifast_Andhra,Kurnool district,Kurnool District
+2020-05-12T11:12:27+00:00,956259635,956259491,1,Azifast_Andhra,Guntur district,Guntur Amaravathi District
+2020-05-12T11:10:45+00:00,956259491,956257763,1,Azifast_Andhra,Guntur district,Guntur District
+2020-05-12T11:03:24+00:00,956258692,956258532,1,Azifast_Andhra,Visakhapatnam,Visakhapatnam
+2020-05-12T11:01:39+00:00,956258532,956257850,1,Azifast_Andhra,Visakhapatnam,Visakhapatnam executive
+2020-05-12T11:00:34+00:00,956258404,956257845,1,Azifast_Andhra,Amaravati,Amaravati Legislative
+2020-05-12T10:59:11+00:00,956258249,956258010,1,Azifast_Andhra,Kurnool,Kurnool Judicial
+2020-05-12T10:57:47+00:00,956258109,955884137,1,Azifast_Andhra,Kurnool district,Kurnool district
+2020-05-12T10:56:10+00:00,956257961,955554162,1,Azifast_Andhra,Kurnool,Kurnool Judicial
+2020-05-12T10:54:30+00:00,956257811,954850175,1,Azifast_Andhra,Visakhapatnam district,Visakhapatnam district
+2020-05-12T10:52:46+00:00,956257623,956257574,1,Azifast_Andhra,Guntur district,Guntur Amaravathi District
+2020-05-12T10:52:05+00:00,956257574,955897272,1,Azifast_Andhra,Guntur district,Guntur Amaravathi District
+2020-05-12T10:50:41+00:00,956257436,956057354,1,Azifast_Andhra,Amaravati,Amaravati Legislative
+2020-05-12T10:48:43+00:00,956257168,956134736,1,Azifast_Andhra,Visakhapatnam,Visakhapatnam executive
+2020-05-12T10:12:06+00:00,956253123,956251261,1,Azifast_Andhra,Krishna district,Vijayawada Amaravathi
+2020-05-12T09:56:54+00:00,956251261,956250617,1,Azifast_Andhra,Krishna district,Krishna
+2020-05-12T09:50:04+00:00,956250617,956250543,1,Azifast_Andhra,Krishna district,Vijayawada Amaravathi
+2020-05-12T09:49:24+00:00,956250543,956203023,1,Azifast_Andhra,Krishna district,Vijayawada Amaravathi
+2020-05-11T17:49:43+00:00,956135118,956116470,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-11T10:20:29+00:00,956069185,956068846,1,Azifast_Andhra,User:Azifast Andhra,Andhra
+2020-05-11T10:19:30+00:00,956069083,956068564,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-11T10:16:42+00:00,956068846,0,1,Azifast_Andhra,User:Azifast Andhra,Andhra
+2020-05-11T10:13:38+00:00,956068564,956068366,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-11T10:11:53+00:00,956068366,956049064,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-10T15:51:38+00:00,955929442,955928545,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-10T12:23:50+00:00,955901702,955901403,1,Azifast_Andhra,Visakhapatnam,Visakhapatnam
+2020-05-10T12:21:02+00:00,955901403,955703722,1,Azifast_Andhra,Visakhapatnam,Visakhapatnam
+2020-05-10T12:16:30+00:00,955900822,955899379,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-10T12:02:27+00:00,955899379,955899202,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-10T12:00:54+00:00,955899202,955890304,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-10T11:48:53+00:00,955897890,955897633,1,Azifast_Andhra,Vijayawada,Vijayawada Amaravathi
+2020-05-10T11:46:17+00:00,955897633,955895028,1,Azifast_Andhra,Vijayawada,Vijayawada Amaravathi
+2020-05-10T11:44:56+00:00,955897511,949335669,1,Azifast_Andhra,Krishna district,Krishna district
+2020-05-10T11:42:43+00:00,955897272,955895176,1,Azifast_Andhra,Guntur district,Guntur Amaravathi District
+2020-05-10T11:21:52+00:00,955895176,955885678,1,Azifast_Andhra,Guntur district,Guntur Amaravathi District
+2020-05-10T11:20:42+00:00,955895028,955894610,1,Azifast_Andhra,Vijayawada,Vijayawada Amaravathi District
+2020-05-10T11:16:59+00:00,955894610,955135717,1,Azifast_Andhra,Vijayawada,Vijayawada Amaravathi
+2020-05-10T10:36:16+00:00,955890304,955888322,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-10T10:31:16+00:00,955889789,955889508,1,Azifast_Andhra,Amaravati,Amaravathi
+2020-05-10T10:28:20+00:00,955889508,955331141,1,Azifast_Andhra,Amaravati,Amaravathi
+2020-05-10T10:18:02+00:00,955888322,955888187,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-10T10:06:23+00:00,955886865,955886049,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-10T10:00:15+00:00,955886049,955781678,1,Azifast_Andhra,Andhra Pradesh,Andhra Pradesh
+2020-05-10T09:56:56+00:00,955885678,955885525,1,Azifast_Andhra,Guntur district,Guntur Amaravathi
+2020-05-10T09:55:51+00:00,955885525,955885268,1,Azifast_Andhra,Guntur district,Guntur Amaravathi district
+2020-05-10T09:53:33+00:00,955885268,937503449,1,Azifast_Andhra,Guntur district,Guntur Amaravathi district
+2020-05-10T09:43:30+00:00,955884137,953472479,1,Azifast_Andhra,Kurnool district,Andhra Pradesh
+2020-03-08T11:21:46+00:00,944529276,944068618,1,Azifast_Andhra,Talk:Andhra Pradesh,/* Semi-protected edit request on 8 March 2020 */ new section
+2020-02-28T05:34:22+00:00,942997508,942892247,1,Azifast_Andhra,Talk:Andhra Pradesh,/* Semi-protected edit request on 28 February 2020 */ new section
+2020-02-27T14:44:03+00:00,942892247,942891647,1,Azifast_Andhra,Talk:Andhra Pradesh,
+2020-02-27T14:37:59+00:00,942891647,940189375,1,Azifast_Andhra,Talk:Andhra Pradesh,"/* Capital Visakhapatnam, Amaravathi, Kurnool */ new section"
+2023-05-12T12:15:26+00:00,1154429460,1154429409,1,ANDHRA_WORLD_CITY,Talk:Andhra Pradesh Capital Region,"/* Visakhapatnam Capital No Clarity, Amaravati Capital Seen */ Reply"
+2023-05-12T12:14:51+00:00,1154429409,1154429286,1,ANDHRA_WORLD_CITY,Talk:Andhra Pradesh Capital Region,"/* Visakhapatnam Capital No Clarity, Amaravati Capital Seen */ Reply"
+2023-05-12T12:13:25+00:00,1154429286,1154428267,1,ANDHRA_WORLD_CITY,Talk:Andhra Pradesh Capital Region,"/* Visakhapatnam Capital No Clarity, Amaravati Capital Seen */ Reply"
+2023-05-12T12:02:55+00:00,1154428267,1154428036,1,ANDHRA_WORLD_CITY,Talk:Andhra Pradesh Capital Region,"/* Visakhapatnam Capital No Clarity, Amaravati Capital Seen */ Reply"
+2023-05-12T12:00:38+00:00,1154428036,789035912,1,ANDHRA_WORLD_CITY,Talk:Andhra Pradesh Capital Region,"/* Visakhapatnam Capital No Clarity, Amaravati Capital Seen */ new section"
+2023-05-12T11:40:24+00:00,1154425849,1154425539,1,ANDHRA_WORLD_CITY,User talk:ANDHRA WORLD CITY,/* May 2023 */ Reply
+2023-05-12T11:35:45+00:00,1154425292,1154425153,1,ANDHRA_WORLD_CITY,Andhra Pradesh Capital Region,/* top */Fixed typo Jai Telugu Andhra Capital Visakhapatnam ❤️
+2023-05-12T11:32:47+00:00,1154424962,1154424676,1,ANDHRA_WORLD_CITY,Andhra Pradesh Capital Region,/* top */Fixed typo Jai Telugu Andhra Capital Visakhapatnam ❤️
+2023-05-12T11:30:14+00:00,1154424676,1154424244,1,ANDHRA_WORLD_CITY,Andhra Pradesh Capital Region,/* top */Fixed typo Jai Telugu Andhra Capital Visakhapatnam ❤️
+2023-05-12T11:25:55+00:00,1154424244,1152100133,1,ANDHRA_WORLD_CITY,Andhra Pradesh Capital Region,/* top */Fixed typo Jai Telugu Andhra Capital Visakhapatnam ❤️
+2023-05-12T11:18:36+00:00,1154423476,1153619227,1,ANDHRA_WORLD_CITY,Government of Andhra Pradesh,/* top */Fixed typo Jai Telugu Andhra Visakhapatnam ❤️
+2023-05-12T03:47:24+00:00,1154385671,1154385632,1,ANDHRA_WORLD_CITY,User talk:ANDHRA WORLD CITY,/* May 2023 */ Reply
+2023-05-12T03:46:57+00:00,1154385632,1154384168,1,ANDHRA_WORLD_CITY,User talk:ANDHRA WORLD CITY,/* May 2023 */ Reply
+2023-05-12T03:30:47+00:00,1154384132,1146417029,1,ANDHRA_WORLD_CITY,Talk:Telugu people,"/* Amaravati One Nagar Not Capital, Jai India, Jai World Countries ❤️ */ new section"
+2023-05-12T03:22:36+00:00,1154383450,1153242718,1,ANDHRA_WORLD_CITY,Talk:Andhra Pradesh,/* Change Capital Vijayawada AP */ new section
+2023-05-12T03:05:11+00:00,1154381850,1154381597,1,ANDHRA_WORLD_CITY,User talk:ANDHRA WORLD CITY,/* Welcome! */ Reply
+2023-05-12T02:54:47+00:00,1154380861,1152215949,1,ANDHRA_WORLD_CITY,Telugu people,/* top */Fixed typo Telugu ❤️
+2023-07-18T04:35:57+00:00,1165904718,1165136494,1,Capital_IndAP,Kurnool district,Jai Andhra Pradesh
+2023-07-18T04:26:49+00:00,1165903847,1165498659,1,Capital_IndAP,Visakhapatnam district,Jai Andhra Pradesh
+2023-07-14T02:01:06+00:00,1165262580,1165165286,1,Capital_IndAP,Andhra Pradesh,Jai Andhra Pradesh
+2023-07-12T03:56:53+00:00,1164956424,1164545329,1,Capital_IndAP,Andhra Pradesh,"Jai Andhra Pradesh, Jai Visakhapatnam"
+2023-12-26T15:33:36+00:00,1191914036,1191913834,1,Capital_Telugu,Telangana,Jai Telangana
+2023-12-26T15:32:24+00:00,1191913834,1190869129,1,Capital_Telugu,Telangana,Jai Telangana
+2023-12-15T04:51:15+00:00,1189976258,1189975879,1,Capital_Telugu,Andhra Pradesh,"Jai Visakhapatnam, Jai Andhra Pradesh"
+2023-12-15T04:47:39+00:00,1189975879,1189974473,1,Capital_Telugu,Andhra Pradesh,"Jai Visakhapatnam, Jai Andhra"
+2023-12-15T04:36:08+00:00,1189974473,1189974069,1,Capital_Telugu,Andhra Pradesh,"Jai Visakhapatnam, Jai Andhra Pradesh"
+2023-12-15T04:32:46+00:00,1189974069,1189923498,1,Capital_Telugu,Andhra Pradesh,"Jai Visakhapatnam, Jai Andhra"
+2023-11-19T12:48:56+00:00,1185862561,1185848404,1,Capital_Telugu,Andhra Pradesh,Jai Andhra Pradesh
+2023-11-12T13:14:15+00:00,1184761294,1183712959,1,Capital_Telugu,Andhra Pradesh,Jai Andhra Pradesh
+2023-10-13T08:08:41+00:00,1179916509,1179916299,1,Capital_Telugu,Andhra Pradesh,Jai Andhra Pradesh Jai Visakhapatnam Jai Vijayawada Jai Kurnool
+2023-10-13T08:05:49+00:00,1179916299,1179914071,1,Capital_Telugu,Andhra Pradesh,Jai Visakhapatnam Jai Vijayawada Jai Kurnool Jai Andhra Pradesh
+2022-10-08T06:28:53+00:00,1114778096,1114776964,1,Golden_India,Andhra Pradesh,/* top */Fixed typo
+2022-10-08T06:13:35+00:00,1114776592,1114774866,1,Golden_India,Andhra Pradesh,/* top */Fixed typo
+2022-10-08T06:04:49+00:00,1114775624,1114771338,1,Golden_India,Kurnool,/* top */Fixed typo
+2022-10-08T06:01:42+00:00,1114775234,1114613443,1,Golden_India,Bapatla district,
+2022-10-08T05:59:20+00:00,1114774907,1114614166,1,Golden_India,Krishna district,
+2022-10-08T05:58:03+00:00,1114774745,1111675195,1,Golden_India,NTR district,
+2022-10-08T05:25:05+00:00,1114771338,1110079625,1,Golden_India,Kurnool,/* top */Fixed typo
+2022-10-08T05:08:34+00:00,1114769552,1114628694,1,Golden_India,Alluri Sitharama Raju district,
+2022-10-08T05:06:23+00:00,1114769285,1112690024,1,Golden_India,Parvathipuram Manyam district,
+2022-10-08T05:05:11+00:00,1114769173,1112690043,1,Golden_India,Srikakulam district,
+2022-10-08T05:00:33+00:00,1114768714,1114617203,1,Golden_India,Vizianagaram district,
+2022-10-08T04:57:01+00:00,1114768284,1111713601,1,Golden_India,Anakapalli district,
+2022-10-08T04:53:42+00:00,1114767895,1114033096,1,Golden_India,Amaravati,
+2022-10-08T04:52:07+00:00,1114767720,1113676753,1,Golden_India,Guntur district,
+2022-10-08T04:50:18+00:00,1114767520,1114065891,1,Golden_India,Palnadu district,
+2022-10-08T04:46:48+00:00,1114767150,1113675552,1,Golden_India,Kurnool district,
+2022-10-08T04:44:54+00:00,1114766896,1112692139,1,Golden_India,Visakhapatnam district,
+2022-10-08T04:09:35+00:00,1114762435,1114019820,1,Golden_India,Andhra Pradesh,/* top */Fixed typo
+2023-01-02T20:45:53+00:00,1131155924,1130109372,1,INDIA_ANDHRA_Capital_Vizag_Guntur_Kurnool,Visakhapatnam district,
+2022-12-11T06:01:10+00:00,1126782013,1119072068,1,Jai_Vizag,Andhra Pradesh Capital Region Development Authority,/* History */ Fixed typo
+2022-12-11T05:40:27+00:00,1126779981,1126779859,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-11T05:39:11+00:00,1126779859,1126778132,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-11T05:28:08+00:00,1126778707,1126776429,1,Jai_Vizag,Guntur district,/* top */Fixed typo
+2022-12-11T05:26:42+00:00,1126778563,1126776668,1,Jai_Vizag,Bapatla district,/* top */Fixed typo
+2022-12-11T05:25:11+00:00,1126778402,1126776786,1,Jai_Vizag,Prakasam district,/* top */Fixed typo
+2022-12-11T05:22:43+00:00,1126778132,1126777991,1,Jai_Vizag,Andhra Pradesh,/* Administrative divisions */ Fixed typo
+2022-12-11T05:21:14+00:00,1126777991,1126683192,1,Jai_Vizag,Andhra Pradesh,/* Administrative divisions */ Fixed typo
+2022-12-11T05:11:29+00:00,1126777033,1126771351,1,Jai_Vizag,Rayalaseema,/* top */Fixed typo
+2022-12-11T05:10:21+00:00,1126776899,1123031803,1,Jai_Vizag,Nellore district,/* top */Fixed typo
+2022-12-11T05:09:18+00:00,1126776786,1119205959,1,Jai_Vizag,Prakasam district,/* top */Fixed typo
+2022-12-11T05:08:06+00:00,1126776668,1120545268,1,Jai_Vizag,Bapatla district,/* top */Fixed typo
+2022-12-11T05:06:53+00:00,1126776552,1117816192,1,Jai_Vizag,Palnadu district,/* top */Fixed typo
+2022-12-11T05:05:45+00:00,1126776429,1126633917,1,Jai_Vizag,Guntur district,/* top */Fixed typo
+2022-12-11T05:01:33+00:00,1126775986,1121419528,1,Jai_Vizag,Visakhapatnam,/* top */Fixed typo
+2022-12-11T04:46:41+00:00,1126774403,1126774243,1,Jai_Vizag,Andhra Pradesh Legislative Assembly,/* top */Fixed typo
+2022-12-11T04:45:12+00:00,1126774243,1126667738,1,Jai_Vizag,Andhra Pradesh Legislative Assembly,/* top */Fixed typo
+2022-12-11T04:35:18+00:00,1126773212,1126772377,1,Jai_Vizag,Coastal Andhra,/* Geography */ Fixed typo
+2022-12-11T04:28:02+00:00,1126772377,1126772177,1,Jai_Vizag,Coastal Andhra,/* top */Fixed typo
+2022-12-11T04:26:22+00:00,1126772177,1126770472,1,Jai_Vizag,Coastal Andhra,/* top */Fixed typo
+2022-12-11T04:24:50+00:00,1126772010,1126766953,1,Jai_Vizag,List of districts of Andhra Pradesh,/* top */Fixed typo
+2022-12-11T04:18:43+00:00,1126771351,1126771264,1,Jai_Vizag,Rayalaseema,/* top */Fixed typo
+2022-12-11T04:17:45+00:00,1126771264,1126768620,1,Jai_Vizag,Rayalaseema,/* top */Fixed typo
+2022-12-11T04:12:26+00:00,1126770472,1126770040,1,Jai_Vizag,Coastal Andhra,/* top */Fixed typo
+2022-12-11T04:08:43+00:00,1126770040,1126769728,1,Jai_Vizag,Coastal Andhra,/* top */Fixed typo
+2022-12-11T04:05:43+00:00,1126769728,1124632940,1,Jai_Vizag,Coastal Andhra,/* top */Fixed grammar
+2022-12-11T03:55:45+00:00,1126768620,1120886869,1,Jai_Vizag,Rayalaseema,/* top */Fixed typo
+2022-12-11T03:47:56+00:00,1126767686,1126667378,1,Jai_Vizag,Andhra Pradesh High Court,/* top */Fixed typo
+2022-12-11T03:41:19+00:00,1126766953,1126766629,1,Jai_Vizag,List of districts of Andhra Pradesh,/* top */Fixed typo
+2022-12-11T03:38:25+00:00,1126766629,1126766466,1,Jai_Vizag,List of districts of Andhra Pradesh,/* top */Fixed typo
+2022-12-11T03:36:55+00:00,1126766466,1126766193,1,Jai_Vizag,List of districts of Andhra Pradesh,/* top */Fixed typo
+2022-12-11T03:34:32+00:00,1126766193,1123722637,1,Jai_Vizag,List of districts of Andhra Pradesh,/* top */Fixed grammar
+2022-12-10T16:37:33+00:00,1126671969,1126671708,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-10T16:35:19+00:00,1126671708,1126667950,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-10T16:04:23+00:00,1126667950,1126664722,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-10T16:02:59+00:00,1126667738,1126634171,1,Jai_Vizag,Andhra Pradesh Legislative Assembly,/* top */Fixed typo
+2022-12-10T16:00:34+00:00,1126667378,1126634158,1,Jai_Vizag,Andhra Pradesh High Court,/* top */Fixed typo
+2022-12-10T15:58:20+00:00,1126667041,1126634175,1,Jai_Vizag,Government of Andhra Pradesh,/* top */Fixed typo
+2022-12-10T15:55:38+00:00,1126666687,1121321587,1,Jai_Vizag,Talk:Andhra Pradesh,/* Andhra Pradesh */ new section
+2022-12-10T15:39:00+00:00,1126664722,1126624257,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-10T02:37:18+00:00,1126575618,1126575052,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-10T02:32:19+00:00,1126575052,1126572501,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-10T02:12:46+00:00,1126572768,1125557760,1,Jai_Vizag,Guntur district,
+2022-12-10T02:10:07+00:00,1126572501,1126482543,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-10T02:04:55+00:00,1126571892,1125001111,1,Jai_Vizag,Andhra Pradesh High Court,/* top */Fixed typo
+2022-12-10T01:59:10+00:00,1126571054,1126409519,1,Jai_Vizag,Andhra Pradesh Legislative Assembly,/* top */Fixed typo
+2022-12-10T01:57:34+00:00,1126570881,1125241492,1,Jai_Vizag,Government of Andhra Pradesh,/* top */Fixed typo
+2022-12-10T01:55:04+00:00,1126570586,1124309936,1,Jai_Vizag,Nandyal district,
+2022-12-10T01:53:33+00:00,1126570413,1125558025,1,Jai_Vizag,Kurnool district,
+2022-12-10T01:50:32+00:00,1126570064,1116423294,1,Jai_Vizag,Anakapalli district,
+2022-12-10T01:47:00+00:00,1126569629,1126266257,1,Jai_Vizag,Vizianagaram district,
+2022-12-10T01:35:14+00:00,1126568007,1125762405,1,Jai_Vizag,Visakhapatnam district,
+2022-12-04T16:46:54+00:00,1125553999,1119748214,1,Jai_Vizag,Guntur district,
+2022-12-02T23:46:22+00:00,1125243151,1125240361,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-02T23:32:24+00:00,1125241492,1125240875,1,Jai_Vizag,Government of Andhra Pradesh,/* top */Fixed typo
+2022-12-02T23:27:11+00:00,1125240875,1125169503,1,Jai_Vizag,Government of Andhra Pradesh,/* top */Fixed typo
+2022-12-02T23:24:25+00:00,1125240532,1119932840,1,Jai_Vizag,Kurnool district,
+2022-12-02T23:23:00+00:00,1125240361,1125239477,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2022-12-02T23:20:22+00:00,1125240066,1124796149,1,Jai_Vizag,Visakhapatnam district,
+2022-12-02T23:15:28+00:00,1125239477,1125205211,1,Jai_Vizag,Andhra Pradesh,/* top */Fixed typo
+2023-05-17T03:08:28+00:00,1155193390,1154425378,1,TAJKV,Government of Andhra Pradesh,Jai Andhra Pradesh
+2023-05-17T03:05:59+00:00,1155193099,1155190713,1,TAJKV,Andhra Pradesh Capital Region,Jai Andhra Pradesh
+2023-05-17T02:52:57+00:00,1155190713,1154530655,1,TAJKV,Andhra Pradesh Capital Region,Jai Andhra Pradesh
+2022-10-19T01:30:19+00:00,1116923235,1115558200,1,VGK_Andhra,Talk:Andhra Pradesh,"/* Unlike Amaravati Means Bramaravati, AP CM Jagan Proposed 3 Capitals ❤️ Visakhapatnam, Guntur, Kurnool: Jai Jagan: Waiting Future: 🇮🇳Jai India♾️☸️☪️✡️☯️🔯🕎☮️✝️🛐⚛️🕉️🌍🌎🌏 */ new section"
+2022-10-19T01:03:06+00:00,1116919142,1114775046,1,VGK_Andhra,Kurnool district,
+2022-10-19T01:02:03+00:00,1116919010,1115031437,1,VGK_Andhra,Guntur district,
+2022-10-19T00:56:53+00:00,1116918244,1115444937,1,VGK_Andhra,Visakhapatnam district,
+2022-10-19T00:34:54+00:00,1116915203,1116914534,1,VGK_Andhra,Andhra Pradesh,/* top */Fixed typo
+2022-10-19T00:28:20+00:00,1116914256,1116913952,1,VGK_Andhra,Andhra Pradesh,/* top */Fixed typo
+2022-10-19T00:25:57+00:00,1116913952,1116913655,1,VGK_Andhra,Andhra Pradesh,/* top */Fixed typo
+2022-10-19T00:23:45+00:00,1116913655,1116912911,1,VGK_Andhra,Andhra Pradesh,/* top */Fixed typo
+2022-10-19T00:13:37+00:00,1116912151,1116911097,1,VGK_Andhra,Government of Andhra Pradesh,/* top */Fixed typo
+2022-10-19T00:11:44+00:00,1116911924,1116911084,1,VGK_Andhra,Andhra Pradesh,/* top */Fixed typo
+2022-10-19T00:01:27+00:00,1116910153,1115381348,1,VGK_Andhra,Andhra Pradesh Legislature,/* top */Fixed typo
+2022-10-18T23:49:00+00:00,1116908463,1116902825,1,VGK_Andhra,Andhra Pradesh,/* top */Fixed typo
+2022-10-18T23:39:18+00:00,1116907288,1112238764,1,VGK_Andhra,Andhra Pradesh Capital Region Development Authority,/* top */Fixed typo
+2022-10-18T23:31:51+00:00,1116906377,1115201805,1,VGK_Andhra,Andhra Pradesh Legislative Assembly,/* top */Fixed typo
+2022-10-18T23:29:27+00:00,1116906053,1113845492,1,VGK_Andhra,Andhra Pradesh High Court,/* top */Fixed typo
+2022-10-18T23:25:33+00:00,1116905578,1116905459,1,VGK_Andhra,Government of Andhra Pradesh,/* top */Fixed typo
+2022-10-18T23:24:26+00:00,1116905459,1114988536,1,VGK_Andhra,Government of Andhra Pradesh,/* top */Fixed typo
+2022-10-18T23:03:12+00:00,1116902825,1116902143,1,VGK_Andhra,Andhra Pradesh,/* top */Fixed typo
+2022-10-18T22:58:00+00:00,1116902143,1116849317,1,VGK_Andhra,Andhra Pradesh,/* top */Fixed typo
+2022-11-12T03:04:36+00:00,1121401849,1120761332,1,VGK_Vizag,Andhra Pradesh,/* top */Fixed typo
+2023-06-14T03:26:54+00:00,1160047970,1159343898,1,Vizag_Global_City,Government of Andhra Pradesh,/* top */Fixed typo Jai Visakhapatnam Jai Andhra
+2023-06-14T03:19:13+00:00,1160047207,1159862671,1,Vizag_Global_City,Andhra Pradesh,/* top */Fixed typo Jai Visakhapatnam Jai Andhra
+2020-07-01T15:04:48+00:00,965476575,965476398,0,27.7.50.129,Amaravati,Small correction
+2021-01-18T09:05:38+00:00,1001114998,1000124643,0,Rakesh Mish,Amaravati,
+2023-01-23T10:07:09+00:00,1135217409,1127792976,0,MindConqurer,Alluri Sitharama Raju district,
+2023-02-01T02:50:32+00:00,1136780986,1136780074,0,MusikBot II,Amaravati,Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]])
+2020-03-15T04:54:48+00:00,945628251,945627855,0,220 of Borg,Amaravati,/* Events */ Clean up/copyedit
+2021-06-25T11:13:02+00:00,1030348634,1030348520,0,HelpfulPi,Andhra Pradesh,Reverting edit(s) by [[Special:Contributions/103.41.96.111|103.41.96.111]] ([[User_talk:103.41.96.111|talk]]) to rev. 1030020935 by Serols: not correct placement [[w:en:WP:RW|(RW 16.1)]]
+2022-10-09T17:07:06+00:00,1115063269,1114785717,0,Rlink2,Andhra Pradesh,/* top */Adding archives [[WP:LINKROT]]
+2022-01-29T05:46:46+00:00,1068573835,1068429686,0,Citation bot,Andhra Pradesh,"Add: date, s2cid. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_toolbar"
+2023-12-06T01:06:14+00:00,1188533511,1188440589,0,Arjunaraoc,Andhra Pradesh,Reverted 1 edit by [[Special:Contributions/2003:F1:C73C:85E5:9501:C954:12BD:FE86|2003:F1:C73C:85E5:9501:C954:12BD:FE86]] ([[User talk:2003:F1:C73C:85E5:9501:C954:12BD:FE86|talk]]) to last revision by Materialscientist
+2021-07-16T10:07:33+00:00,1033867375,1033866439,0,Sharkslayer87,Amaravati,Restored revision 1033755359 by [[Special:Contributions/DaxServer|DaxServer]] ([[User talk:DaxServer|talk]]): Unsourced
+2022-03-09T13:02:35+00:00,1076118221,1076083658,0,117.249.176.228,Amaravati,"It is an actual alive city and the ""proposed"" status is irrelevant now as the city is built partially and there are people living in it."
+2023-03-12T18:46:51+00:00,1144260020,1144258292,0,Arjayay,Anakapalli district,Undid revision 1144258292 by [[Special:Contributions/Bhashashastri1234|Bhashashastri1234]] ([[User talk:Bhashashastri1234|talk]]) Rv as [[WP:NOINDICSCRIPT]]
+2022-08-20T18:20:22+00:00,1105538275,1105302227,0,Farolif,Amaravati,Undid revision 1068574144 by [[Special:Contributions/Jayanthkumar123|Jayanthkumar123]] ([[User talk:Jayanthkumar123|talk]])
+2020-11-04T14:46:12+00:00,987041626,987018367,0,136.185.100.180,Amaravati,
+2020-12-29T01:35:10+00:00,996881747,994970773,0,Monkbot,Amaravati,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 88 templates: hyphenate params (27×);
+2022-07-14T08:57:35+00:00,1098125894,1098125374,0,MANDADI LUCKY,Amaravati,
+2020-10-23T06:23:17+00:00,984975701,984896318,0,Prolix,Andhra Pradesh,IPA fix
+2022-03-17T11:13:50+00:00,1077637408,1077308780,0,Arjunaraoc,Andhra Pradesh,"/* Art and cinema */ Sujatha puligella name removed, as there is no reference to it in main articles for the section."
+2023-08-02T00:43:51+00:00,1168304631,1167426796,0,Headbomb,Andhra Pradesh,"clean up, [[WP:AWB/T|typo(s) fixed]]: new year's eve → New Year's Eve, 2020-21 → 2020–21, an alumni of → an alumnus of, upto → up to, state wide → statewide, employement → employment, Certficate → Certificate, 1946-47 → 1946–47"
+2022-07-15T10:26:37+00:00,1098341008,1098340969,0,Mako001,Andhra Pradesh,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/110.235.228.98|110.235.228.98]] ([[User talk:110.235.228.98|talk]]) to last revision by Fylindfotberserk: nonconstructive edits
+2020-08-17T17:24:38+00:00,973518105,973510445,0,Fylindfotberserk,Andhra Pradesh,/* top */ [[MOS:ORDER]]
+2020-07-27T12:39:43+00:00,969789088,969589291,0,R'n'B,Andhra Pradesh,Disambiguating links to [[Telugu]] (link changed to [[Telugu language]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-10-23T09:21:49+00:00,1051405847,1051391134,0,Mutt Lunker,Andhra Pradesh,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Ffffrr|Ffffrr]] ([[User talk:Ffffrr|talk]]): [[MOS:TIES]]/[[MOS:COMPASS]]
+2023-10-10T10:27:53+00:00,1179472479,1179406875,0,Fylindfotberserk,Andhra Pradesh,"[[MOS:CURLY]]; [[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]], Indian English"
+2020-11-02T14:58:26+00:00,986709430,986706088,0,Prolix,Andhra Pradesh,[[MOS:IS]]
+2022-03-11T16:50:45+00:00,1076541328,1076541268,0,Serols,Andhra Pradesh,Reverted edits by [[Special:Contributions/2409:4053:2D97:EA3D:F844:6E21:B765:D19D|2409:4053:2D97:EA3D:F844:6E21:B765:D19D]] ([[User talk:2409:4053:2D97:EA3D:F844:6E21:B765:D19D|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-05-10T11:59:14+00:00,1022418466,1022403296,0,DaxServer,Andhra Pradesh,Undid revision 1022305482 by [[Special:Contributions/Markisgreen|Markisgreen]] ([[User talk:Markisgreen|talk]])
+2022-10-19T00:50:04+00:00,1116917309,1116915203,0,MrOllie,Andhra Pradesh,Reverted 1 edit by [[Special:Contributions/VGK Andhra|VGK Andhra]] ([[User talk:VGK Andhra|talk]]) to last revision by MrOllie
+2021-08-23T11:10:19+00:00,1040234526,1039951685,0,175.101.68.79,Andhra Pradesh,
+2022-01-26T06:02:22+00:00,1068004498,1067879163,0,2405:201:C019:E021:E4C5:7E2D:2714:CDA,Andhra Pradesh,
+2020-06-07T16:18:19+00:00,961286139,961037012,0,Jugwinder20,Andhra Pradesh,/* Andhra Pradesh */ updated information
+2023-01-13T20:46:27+00:00,1133442573,1132950850,0,FlyJet777,Andhra Pradesh,/* Religion */
+2021-05-23T13:00:32+00:00,1024660179,1024337659,0,Markisgreen,Andhra Pradesh,grammar
+2022-05-04T20:40:21+00:00,1086214397,1086213964,0,G5SMKR,Andhra Pradesh,
+2023-09-17T01:04:46+00:00,1175728645,1175725521,0,Arjunaraoc,Andhra Pradesh,"Restore coords to Amaravathi, the capital. Request @[[User:Deor]] to discuss on talk page for any changes"
+2022-03-27T07:51:37+00:00,1079528642,1079526352,0,Gurava somu,Andhra Pradesh,
+2020-05-17T08:51:01+00:00,957150136,957149846,0,Outlander07,Andhra Pradesh,Reverted 1 edit by [[Special:Contributions/106.51.20.170|106.51.20.170]] ([[User talk:106.51.20.170|talk]]): Revert. Disruptive edit.  ([[WP:TW|TW]])
+2021-11-29T17:32:31+00:00,1057786581,1057613161,0,223.184.65.89,Andhra Pradesh,
+2023-09-18T12:25:37+00:00,1175941661,1175869709,0,Quebec99,Andhra Pradesh,fixed duplicate references
+2022-06-05T07:38:39+00:00,1091601150,1091601092,0,Mako001,Andhra Pradesh,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/2409:4070:438A:210D:0:0:69E:28AD|2409:4070:438A:210D:0:0:69E:28AD]] ([[User talk:2409:4070:438A:210D:0:0:69E:28AD|talk]]) to last revision by Arjayay: nonconstructive edits
+2023-06-03T11:58:01+00:00,1158332907,1158329586,0,Fylindfotberserk,Andhra Pradesh,[[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]]
+2022-07-10T20:25:42+00:00,1097452153,1097452071,0,Arjayay,Andhra Pradesh,Reverted edits by [[Special:Contribs/103.135.205.7|103.135.205.7]] ([[User talk:103.135.205.7|talk]]) to last version by Arjayay
+2023-03-09T18:27:54+00:00,1143759716,1143613837,0,Rodw,Andhra Pradesh,Disambiguating links to [[Telugu]] (link changed to [[Telugu language]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-06-05T10:18:25+00:00,1158645415,1158645000,0,Arjunaraoc,Andhra Pradesh,cp
+2022-04-05T23:37:24+00:00,1081205967,1081095927,0,MJL,Andhra Pradesh,use [[Template:Infobox region symbols]] to prevent catgorization into [[Category:Pages using infobox place symbols with unknown parameters]]
+2020-05-18T15:31:40+00:00,957378868,957378054,0,Outlander07,Andhra Pradesh,Reverted 1 edit by [[Special:Contributions/37.122.173.80|37.122.173.80]] ([[User talk:37.122.173.80|talk]]): Disruptive editing ([[WP:TW|TW]])
+2023-04-06T12:33:21+00:00,1148482028,1148481565,0,Arjayay,Andhra Pradesh,Undid revision 1148481565 by [[Special:Contributions/Jai Visakhapatnam Guntur Kurnool|Jai Visakhapatnam Guntur Kurnool]] ([[User talk:Jai Visakhapatnam Guntur Kurnool|talk]]) error
+2023-05-02T12:14:09+00:00,1152804232,1152800275,0,Arjunaraoc,Andhra Pradesh,"fix citation error, pointed out by [[user: ActivelyDisinterested]]"
+2023-11-23T09:37:40+00:00,1186467484,1186452165,0,Arjayay,Andhra Pradesh,Reverted edit by [[Special:Contribs/Surya gedda|Surya gedda]] ([[User talk:Surya gedda|talk]]) to last version by 456legend
+2022-05-18T18:55:43+00:00,1088556087,1088237855,0,Thewikizoomer,Andhra Pradesh,Konaseema district link updated
+2022-05-04T04:35:23+00:00,1086096154,1086086756,0,Arjunaraoc,Andhra Pradesh,"Changing [[Wikipedia:Short description|short description]] from ""State in south-eastern India"" to ""State in south India"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2022-02-17T11:04:58+00:00,1072376481,1072321862,0,Fylindfotberserk,Andhra Pradesh,date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]
+2021-09-30T15:25:43+00:00,1047379147,1047377810,0,2401:4900:51DD:3CE3:C5C4:82EE:DA36:E69E,Andhra Pradesh,/* Early and medieval history */
+2022-05-24T11:32:59+00:00,1089540905,1089530014,0,Arjayay,Andhra Pradesh,Rm Indic script as [[WP:NOINDICSCRIPT]]
+2021-06-30T06:16:35+00:00,1031179839,1031172390,0,Rasnaboy,Andhra Pradesh,Undid revision 1031172390 by [[Special:Contributions/223.185.85.147|223.185.85.147]] ([[User talk:223.185.85.147|talk]])
+2022-06-29T05:38:50+00:00,1095581512,1095217343,0,117.249.144.2,Andhra Pradesh,
+2022-01-19T16:20:58+00:00,1066688733,1066187154,0,223.178.91.162,Andhra Pradesh,Fixed typo
+2023-10-20T09:03:38+00:00,1181015080,1180894852,0,Arjunaraoc,Andhra Pradesh,Reverted 1 edit by [[Special:Contributions/Mpmanthan7|Mpmanthan7]] ([[User talk:Mpmanthan7|talk]]) to last revision by Arjunaraoc
+2022-07-25T02:47:00+00:00,1100276946,1100182858,0,Tbm,Andhra Pradesh,Fix cosmetic issues
+2021-11-14T23:54:59+00:00,1055281228,1055274013,0,Plastikspork,Andhra Pradesh,Format
+2020-09-19T13:53:36+00:00,979216278,979024928,0,Kingsubash11,Andhra Pradesh,Andhra pradesh emblem change
+2022-03-29T17:32:58+00:00,1079978170,1079977275,0,Arjayay,Andhra Pradesh,"Undid revision 1079977275 by [[Special:Contributions/106.208.152.220|106.208.152.220]] ([[User talk:106.208.152.220|talk]]) Only existing districts please, not proposed ones"
+2021-01-25T13:40:58+00:00,1002655272,1002641681,0,Rasnaboy,Andhra Pradesh,En-dash
+2023-12-13T16:35:01+00:00,1189726209,1189726063,0,Arjayay,Andhra Pradesh,Reverted edit by [[Special:Contribs/103.167.127.13|103.167.127.13]] ([[User talk:103.167.127.13|talk]]) to last version by Arjayay
+2022-09-08T04:57:07+00:00,1109134357,1109134179,0,Arjunaraoc,Andhra Pradesh,no official fish as per the citation
+2022-08-18T06:01:01+00:00,1105038811,1104687968,0,WikiHannibal,Andhra Pradesh,/* Demographics */ better way to handle the tag; census was postponed due to covid
+2023-04-25T10:25:26+00:00,1151650323,1151650209,0,Arjunaraoc,Andhra Pradesh,/* Religion */
+2021-09-01T17:18:44+00:00,1041813379,1041812587,0,Sharkslayer87,Andhra Pradesh,Restored revision 1041372309 by [[Special:Contributions/Pachu Kannan|Pachu Kannan]] ([[User talk:Pachu Kannan|talk]]): Please see [[wp:or]]
+2022-11-28T16:55:20+00:00,1124381677,1123537366,0,43.227.130.154,Andhra Pradesh,
+2020-05-27T11:44:30+00:00,959155772,959091299,0,VGMax,Andhra Pradesh,Corrected the state's official portal
+2020-03-17T12:59:36+00:00,945999931,944053449,0,InternetArchiveBot,Andhra Pradesh,Bluelink 3 books for [[Wikipedia:Verifiability|verifiability]] ([[WP:GBWP|goog]])) #IABot (v2.0) ([[User:GreenC bot|GreenC bot]]
+2022-12-03T08:22:41+00:00,1125300746,1125259539,0,Aithus,Andhra Pradesh,/* Demographics */ {{Largest cities}} template can  accommodate only 4 pictures
+2021-01-02T15:37:48+00:00,997854485,997853303,0,Fylindfotberserk,Andhra Pradesh,Reverted 1 edit by [[Special:Contributions/Chinnusaikrish|Chinnusaikrish]] ([[User talk:Chinnusaikrish|talk]]): You are doing it again without consensus.
+2020-07-11T15:27:51+00:00,967169958,967168955,0,Arjayay,Andhra Pradesh,Undid revision 967168955 by [[Special:Contributions/117.204.50.70|117.204.50.70]] ([[User talk:117.204.50.70|talk]]) Rv NN addition
+2022-06-26T19:01:40+00:00,1095160683,1094080904,0,117.246.1.216,Andhra Pradesh,
+2021-10-14T07:53:55+00:00,1049856093,1049856040,0,Sharkslayer87,Andhra Pradesh,Restored revision 1049815717 by [[Special:Contributions/DaxServer|DaxServer]] ([[User talk:DaxServer|talk]]): Revert
+2022-09-27T18:24:25+00:00,1112719523,1112651362,0,43.225.21.50,Andhra Pradesh,
+2023-04-03T12:55:47+00:00,1147998585,1147963894,0,Jayanthkumar123,Andhra Pradesh,
+2022-06-12T19:34:53+00:00,1092814008,1092314274,0,2409:4070:4888:2A00:B75E:C9D5:B0C6:4BF7,Andhra Pradesh,/* Space research organisation */
+2023-02-03T03:30:05+00:00,1137161609,1137110625,0,Rasnaboy,Andhra Pradesh,Expanding citation
+2020-07-03T05:28:09+00:00,965747566,965110811,0,117.206.88.137,Andhra Pradesh,better image
+2023-02-28T02:14:52+00:00,1142016018,1141470598,0,Giraffedata,Andhra Pradesh,"[[User:Giraffedata/comprised of|comprised of]], simplify"
+2021-07-24T14:53:27+00:00,1035247380,1034616600,0,DaxServer,Andhra Pradesh,clean up
+2023-04-11T13:31:48+00:00,1149317903,1148482028,0,FrescoBot,Andhra Pradesh,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2021-05-12T20:08:27+00:00,1022840954,1022832919,0,Arjayay,Andhra Pradesh,Reverted edits by [[Special:Contribs/198.175.68.42|198.175.68.42]] ([[User talk:198.175.68.42|talk]]) to last version by DaxServer
+2021-02-20T03:50:24+00:00,1007829425,1007828416,0,MusikBot II,Andhra Pradesh,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2022-09-10T07:15:07+00:00,1109501931,1109487099,0,Arjunaraoc,Andhra Pradesh,"revert Repeat Vandalism, Undid revision 1109331090 by [[Special:Contributions/New Andhra|New Andhra]] ([[User talk:New Andhra|talk]])"
+2020-09-08T21:28:45+00:00,977441647,977182511,0,Thrashunreality,Andhra Pradesh,capitalisation
+2021-04-14T04:53:06+00:00,1017696539,1017696358,0,Jayanthkumar123,Andhra Pradesh,
+2021-06-04T13:13:10+00:00,1026824736,1026814296,0,Ab207,Andhra Pradesh,Rollback edit(s) by [[Special:Contributions/27.7.17.171|27.7.17.171]] ([[User_talk:27.7.17.171|talk]]): non-constructive [[w:en:WP:RW|(RW 16.1)]]
+2023-06-13T00:50:54+00:00,1159862671,1159590433,0,MusikBot II,Andhra Pradesh,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2020-12-12T06:22:13+00:00,993741224,993592908,0,Monkbot,Andhra Pradesh,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 204 templates: del empty params (7×); hyphenate params (185×); del |url-status= (1×); cvt lang vals (1×);
+2022-02-25T12:12:09+00:00,1073924116,1073911545,0,Arjunaraoc,Andhra Pradesh,vandalism fix
+2021-09-09T15:50:40+00:00,1043338701,1043338181,0,Sharkslayer87,Andhra Pradesh,Restored revision 1043187323 by [[Special:Contributions/Citation bot|Citation bot]] ([[User talk:Citation bot|talk]]): Please stick to the source
+2020-03-01T09:40:31+00:00,943340391,943320953,0,Ktdk,Andhra Pradesh,
+2023-07-25T16:05:28+00:00,1167085647,1167047173,0,Iolar~enwiki,Andhra Pradesh,"Wikilink city of ""Chennai"""
+2023-07-04T09:50:23+00:00,1163342862,1163339034,0,Amory ryan,Andhra Pradesh Capital Region,
+2021-04-13T14:01:32+00:00,1017565923,1017563873,0,Jayanthkumar123,Andhra Pradesh,
+2020-03-26T04:17:02+00:00,947414571,947414248,0,Iamraviteja,Andhra Pradesh Capital Region,
+2020-01-16T06:35:26+00:00,936025156,936024449,0,El C,Andhra Pradesh Capital Region,Reverted edits by [[Special:Contribs/2409:4070:882:1E64:5EBC:D22A:EBDD:7021|2409:4070:882:1E64:5EBC:D22A:EBDD:7021]] ([[User talk:2409:4070:882:1E64:5EBC:D22A:EBDD:7021|talk]]) to last version by 45.251.33.252
+2022-02-24T23:45:51+00:00,1073842538,1073753044,0,JalenFolf,Andhra Pradesh,Reverted 1 edit by [[Special:Contributions/117.213.238.222|117.213.238.222]] ([[User talk:117.213.238.222|talk]]): Unsourced
+2022-02-25T08:07:25+00:00,1073898134,1073897861,0,117.221.72.55,Andhra Pradesh,|photo =Incumbent centre Vizag
+2020-05-08T13:47:48+00:00,955559494,951204137,0,Elninopanza,Andhra Pradesh Capital Region,
+2021-10-02T14:59:34+00:00,1047784123,1047778980,0,DaxServer,Andhra Pradesh,Rollback edit(s) by [[Special:Contributions/Kigu1101|Kigu1101]] ([[User_talk:Kigu1101|talk]]): non-constructive [[w:en:WP:RW|(RW 16.1)]]
+2023-06-17T00:00:45+00:00,1160513669,1160122844,0,CommonsDelinker,Andhra Pradesh Capital Region,Removing [[:c:File:Emblem_of_Andhra_Pradesh.svg|Emblem_of_Andhra_Pradesh.svg]]; it has been deleted from Commons by [[:c:User:Infrogmation|Infrogmation]] because: per [[:c:Commons:Deletion requests/File:Emblem of Andhra Pradesh.svg|]].
+2023-02-15T10:18:40+00:00,1139479425,1139478667,0,Arjayay,Andhra Pradesh,Reduce overlinking - only link the first use
+2023-01-13T12:02:23+00:00,1133365234,1133365020,0,Mandasa,Andhra Pradesh Capital Region,
+2023-07-20T18:03:35+00:00,1166304302,1163342862,0,Revanth Yadav 9959,Andhra Pradesh Capital Region,
+2021-12-12T06:10:24+00:00,1059883584,1059872088,0,AnomieBOT,Andhra Pradesh Capital Region,"Rescuing orphaned refs (""crda"" from rev 1059868524)"
+2022-06-06T14:50:59+00:00,1091811484,1084447287,0,Ravtsteja,Andhra Pradesh Capital Region,
+2021-12-23T09:13:35+00:00,1061695564,1058527322,0,61.2.2.51,Andhra Pradesh Capital Region Development Authority,
+2023-04-13T09:50:58+00:00,1149614205,1149613887,0,Mandasa,Andhra Pradesh Capital Region Development Authority,
+2022-12-11T09:35:58+00:00,1126806727,1126782013,0,DaxServer,Andhra Pradesh Capital Region Development Authority,Rollback edit(s) by [[Special:Contributions/Jai Vizag|Jai Vizag]] ([[User_talk:Jai Vizag|talk]]): likely [[WP:PROVEIT|factual errors]] [[w:en:WP:RW|(RW 16.1)]]
+2023-11-21T11:26:29+00:00,1186175650,1179454566,0,2409:40F2:1031:7FFF:8000:0:0:0,Andhra Pradesh Capital Region Development Authority,
+2021-01-07T21:59:33+00:00,998970783,998846509,0,WikiCleanerBot,Andhra Pradesh High Court,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-02-10T21:04:15+00:00,1006063573,1006061817,0,KylieTastic,Andhra Pradesh High Court,Removed missing image - File was deleted from Wikimedia Commons - 10 February 2021
+2023-09-27T13:02:40+00:00,1177403564,1177402854,0,2600:4040:7B75:2200:C42:F447:629F:6894,Andhra Pradesh High Court,/* Additional judges */
+2020-08-19T01:55:54+00:00,973754787,961993323,0,BrownHairedGirl,Andhra Pradesh High Court,added [[Category:Courts and tribunals established in 2019]] using [[WP:HC|HotCat]]
+2022-10-19T00:06:21+00:00,1116911093,1116906053,0,Dhruv edits,Andhra Pradesh High Court,Reverted 1 edit by [[Special:Contributions/VGK Andhra|VGK Andhra]] ([[User talk:VGK Andhra|talk]]) to last revision by Qwerfjkl (bot)
+2020-12-29T13:25:12+00:00,996981573,993742927,0,Sbb1413,Andhra Pradesh Capital Region,
+2021-01-27T23:51:36+00:00,1003219414,998970783,0,PohranicniStraze,Andhra Pradesh High Court,sp
+2023-12-14T08:37:56+00:00,1189831268,1189792537,0,Dhruv edits,Andhra Pradesh Legislative Assembly,Undid revision 1189792537 by [[Special:Contributions/96.245.185.247|96.245.185.247]] ([[User talk:96.245.185.247|talk]]). Not a major party of the state
+2020-04-25T07:16:55+00:00,953013653,941610400,0,Lakun.patra,Andhra Pradesh High Court,"/* History */clean up, [[WP:AWB/T|typo(s) fixed]]: Telengana → Telangana"
+2022-06-09T01:16:48+00:00,1092237387,1092232870,0,Dhruv edits,Andhra Pradesh Legislative Assembly,Undid revision 1092232870 by [[Special:Contributions/Sandeep kumar 83|Sandeep kumar 83]] ([[User talk:Sandeep kumar 83|talk]]). Continuous unconstructive edits
+2023-11-07T06:08:52+00:00,1183906435,1183615886,0,Md. Sirajuddaula,Andhra Pradesh Legislative Assembly,There are no minister outside YSR Congress
+2020-03-06T12:50:24+00:00,944215661,942859127,0,Nahtrav,Andhra Pradesh Legislative Assembly,
+2021-09-06T02:39:30+00:00,1042651455,1039749676,0,Agnihothri Sharath,Andhra Pradesh Legislative Assembly,
+2022-11-30T22:48:27+00:00,1124865546,1124862362,0,2603:6081:4900:762:5104:2DEA:87C6:E69F,Andhra Pradesh Legislative Assembly,/* Members of Legislative Assembly */
+2022-02-19T11:05:30+00:00,1072769377,1072715868,0,DaxServer,Andhra Pradesh Legislative Assembly,"Rollback edit(s) by [[Special:Contributions/Teluguchamaku|Teluguchamaku]] ([[User_talk:Teluguchamaku|talk]]): Reverting [[WP:AGF|good faith]] edits, [[WP:NOINDICSCRIPTS]] [[w:en:WP:RW|(RW 16.1)]]"
+2023-04-30T01:20:06+00:00,1152402846,1151966934,0,Rohitsetthachok,Andhra Pradesh Legislative Assembly,/* United Andhra Pradesh (1956–2014) */
+2023-12-21T19:46:37+00:00,1191143314,1189831268,0,203.192.251.173,Andhra Pradesh Legislative Assembly,/* Andhra State (1953–1956) */
+2020-06-04T03:51:50+00:00,960649185,953621268,0,BHGbot,Andhra Pradesh Legislature,"[[WP:BHGbot 6]] ([[User:BHGbot/6/List 3|List 3]]): eponymous category first, per [[MOS:CATORDER]]; fixed sort key; [[WP:GENFIXES]]"
+2022-12-07T09:42:46+00:00,1126066177,1126065767,0,Chinnusaikrish,Andhra Pradesh Legislative Assembly,
+2021-03-19T11:41:15+00:00,1012984434,1011106570,0,Tom.Reding,Andhra Pradesh Legislature,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q3764174|3 IDs]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2022-03-01T15:28:50+00:00,1074682686,1074674360,0,The Anomebot2,Bapatla district,Replacing geodata: {{coord missing|Andhra Pradesh}}
+2023-06-18T20:30:09+00:00,1160793371,1157334845,0,Filedelinkerbot,Bapatla district,Bot: Removing [[Commons:File:Andhraseal.png]] ([[:File:Andhraseal.png|en]]). It was deleted on Commons by [[:Commons:User:Yann|Yann]] (per [[Commons:COM:SPEEDY]].).
+2023-04-08T03:57:38+00:00,1148758136,1148599149,0,Arjunaraoc,Bapatla district,
+2023-06-18T20:30:18+00:00,1160793400,1160177202,0,Filedelinkerbot,Coastal Andhra,Bot: Removing [[Commons:File:Andhraseal.png]] ([[:File:Andhraseal.png|en]]). It was deleted on Commons by [[:Commons:User:Yann|Yann]] (per [[Commons:COM:SPEEDY]].).
+2020-11-21T14:06:45+00:00,989868721,989867590,0,BoyTheKingCanDance,Coastal Andhra,Reverted to revision 979778882 by [[Special:Contributions/Killerbee1222|Killerbee1222]] ([[User talk:Killerbee1222|talk]]): Unreferenced. Do you have a source?
+2020-07-06T16:38:58+00:00,966353191,962925906,0,Ab207,Coastal Andhra,"/* Notable personalities */ Neither born nor lived at this place; if we are looking for roots and ancestry, then we all belong to Africa."
+2022-02-21T14:02:47+00:00,1073201543,1073201462,0,DesiGnyan,Coastal Andhra,/* Demographics */
+2023-11-24T06:11:49+00:00,1186590147,1185393731,0,Cewbot,Coastal Andhra,[[User:Cewbot/log/20150916/configuration|Normalize {{Multiple issues}}]]: Merge 1 template into {{Multiple issues}}: Original research
+2023-08-27T05:27:18+00:00,1172453118,1172453083,0,49.37.219.85,Coastal Andhra,
+2023-01-13T06:19:22+00:00,1133323843,1133320817,0,149.111.28.128,Coastal Andhra,Coastal Andhra
+2022-11-29T18:31:50+00:00,1124632940,1120822738,0,106.76.212.114,Coastal Andhra,
+2021-04-02T09:33:10+00:00,1015586595,1015547291,0,BoyTheKingCanDance,Coastal Andhra,
+2022-01-17T00:21:57+00:00,1066136886,1060408869,0,Rlink2,Coastal Andhra,Fixing completely bare references [[Wikipedia:Bare_URLs]]
+2023-04-03T07:49:26+00:00,1147964009,1147916434,0,DaxServer,Government of Andhra Pradesh,Rollback edit(s) by [[Special:Contributions/Jai Visakhapatnam Guntur Kurnool|Jai Visakhapatnam Guntur Kurnool]] ([[User_talk:Jai Visakhapatnam Guntur Kurnool|talk]]): [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16.1)]]
+2020-09-22T19:05:41+00:00,979778882,977182258,0,Killerbee1222,Coastal Andhra,
+2020-08-17T12:43:46+00:00,973478689,973478218,0,Fylindfotberserk,Government of Andhra Pradesh,EngvarB
+2021-10-17T18:35:31+00:00,1050421994,1049582661,0,From Anony,Government of Andhra Pradesh,
+2022-04-15T07:54:16+00:00,1082816055,1082160480,0,124.123.169.25,Government of Andhra Pradesh,
+2020-05-10T10:36:15+00:00,955890299,955890241,0,KutaCharantejareddy,Government of Andhra Pradesh,
+2020-01-12T08:17:23+00:00,935392504,933476954,0,NS Dibyojyoti,Government of Andhra Pradesh,Edited (Added members in council)
+2023-07-28T09:56:08+00:00,1167536504,1167171926,0,Ankit8968Soni,Government of Andhra Pradesh,
+2023-06-25T05:37:56+00:00,1161806391,1161590719,0,Turtle-bienhoa,Government of Andhra Pradesh,
+2022-03-09T09:17:59+00:00,1076092354,1076092227,0,DaxServer,Government of Andhra Pradesh,en-IN
+2022-12-16T06:36:41+00:00,1127709014,1127578207,0,InternetArchiveBot,Government of Andhra Pradesh,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.2
+2021-03-13T13:58:19+00:00,1011900113,1011899615,0,Jayanthkumar123,Government of Andhra Pradesh,
+2023-03-03T01:12:47+00:00,1142546768,1141165766,0,2603:6082:E40:28:F979:5DB4:3815:898C,Government of Andhra Pradesh,/* Legislature */
+2023-01-18T20:42:50+00:00,1134462540,1134455606,0,Arjayay,Guntur district,Rv unsourced changes + unexplained deletions
+2023-11-23T15:07:33+00:00,1186497049,1184886264,0,456legend,Guntur district,/* Mandals */ reorder in alphabetic order
+2021-06-08T06:29:30+00:00,1027486703,1023067182,0,Siram.Naidu,Guntur district,
+2021-02-13T17:35:20+00:00,1006582008,1006543114,0,DaxServer,Guntur district,Update Collector
+2022-01-17T06:11:20+00:00,1066188621,1059167144,0,117.209.254.113,Guntur district,
+2022-05-24T11:37:31+00:00,1089541521,1089526602,0,Arjayay,Guntur district,Rm Indic script as [[WP:NOINDICSCRIPT]]
+2020-11-11T04:53:17+00:00,988116220,988116191,0,JackintheBox,Guntur district,Reverted edits by [[Special:Contributions/146.196.36.104|146.196.36.104]] ([[User talk:146.196.36.104|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2021-05-14T04:52:07+00:00,1023067182,1018934415,0,MB,Guntur district,"cleanup, [[WP:AWB/T|typo(s) fixed]]: Head Quarter → Headquarter, situtated → situated"
+2020-06-27T06:09:05+00:00,964724035,964723828,0,103.203.172.222,Guntur district,/* Administrative divisions */
+2020-11-17T18:17:02+00:00,989212972,989206806,0,Arjayay,Guntur district,Reverted edits by [[Special:Contribs/223.238.27.58|223.238.27.58]] ([[User talk:223.238.27.58|talk]]) to last version by JackintheBox
+2023-01-01T11:11:16+00:00,1130869286,1130528518,0,117.202.110.168,Guntur district,
+2020-10-07T11:29:30+00:00,982312201,982311071,0,Arjayay,Guntur district,Reverted edits by [[Special:Contribs/106.76.232.167|106.76.232.167]] ([[User talk:106.76.232.167|talk]]) to last version by Citation bot
+2023-04-10T00:21:53+00:00,1149064940,1148369748,0,Arjunaraoc,Guntur district,add OSM map link in the lead
+2023-06-18T20:30:46+00:00,1160793455,1160581387,0,Filedelinkerbot,Guntur district,Bot: Removing [[Commons:File:Andhraseal.png]] ([[:File:Andhraseal.png|en]]). It was deleted on Commons by [[:Commons:User:Yann|Yann]] (per [[Commons:COM:SPEEDY]].).
+2020-01-25T12:42:02+00:00,937503449,937470885,0,Kautilya3,Guntur district,Reverted to revision 937470243 by [[Special:Contributions/Rohit Webscrap|Rohit Webscrap]] ([[User talk:Rohit Webscrap|talk]]): Unexplained modification of sourced content ([[WP:TW|TW]])
+2023-08-24T04:27:06+00:00,1171957917,1170785957,0,117.206.233.195,Guntur district,
+2023-04-05T19:30:35+00:00,1148369748,1148368691,0,Arjayay,Guntur district,Undid revision 1148368691 by [[Special:Contributions/2601:41:C500:4D80:68AA:8AC9:BB97:36BC|2601:41:C500:4D80:68AA:8AC9:BB97:36BC]] ([[User talk:2601:41:C500:4D80:68AA:8AC9:BB97:36BC|talk]]) Unexplained / PoV deletion of eligible people
+2022-07-08T12:48:12+00:00,1097070308,1097070270,0,12.20.49.11,Guntur district,/* Cities and towns */
+2023-04-13T19:46:07+00:00,1149684006,1149683825,0,2601:41:C500:4D80:9173:3293:7E06:C166,Guntur district,
+2020-09-28T04:10:50+00:00,980734794,980274248,0,Citation bot,Guntur district,"Alter: url, title. URLs might have been internationalized/anonymized. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox2 | via #UCB_webform_linked"
+2022-09-22T14:59:12+00:00,1111722256,1111711702,0,456legend,Guntur district,Undid revision 1111711702 by [[Special:Contributions/2601:41:C500:4D80:540C:1E6D:E0FF:15F0|2601:41:C500:4D80:540C:1E6D:E0FF:15F0]] ([[User talk:2601:41:C500:4D80:540C:1E6D:E0FF:15F0|talk]]) unexplained content removal
+2022-03-30T17:10:46+00:00,1080165115,1078505183,0,147.97.136.91,Guntur district,/* Mandals */
+2021-03-07T14:02:19+00:00,1010816975,1006582008,0,DaxServer,Guntur district,Update official website address
+2021-03-09T01:43:41+00:00,1011106601,1010816975,0,OgreBot,Guntur district,Replacing [[File:Andhra Pradesh Secreteriat.jpg]] with Commons version [[File:Andhra Pradesh Secretariat.jpg]] ([[User talk:Magog the Ogre|report errors here]])
+2022-06-29T18:45:03+00:00,1095683773,1095631773,0,Thewikizoomer,Krishna district,Corrected unnecessary and non factual addition. Check geographical map of Krishna district as published by the state government of Andhra Pradesh.
+2022-04-16T06:58:46+00:00,1082974426,1082038870,0,C1MM,Guntur district,Corrected demographics to account for bifurcation
+2020-06-25T08:37:08+00:00,964400709,956257607,0,Hatchens,Krishna district,"Adding custom [[Wikipedia:Short description|short description]]: ""District of Andhra Pradesh in India"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-04-06T17:26:04+00:00,1016341910,1010179792,0,DaxServer,Krishna district,Add archival urls to citations
+2021-05-31T06:37:52+00:00,1026072130,1016341910,0,Mahesh Kariyala99,Krishna district,
+2022-10-08T06:08:49+00:00,1114776088,1114774907,0,Arjunaraoc,Krishna district,Reverted 1 edit by [[Special:Contributions/Golden India|Golden India]] ([[User talk:Golden India|talk]]) to last revision by 49.37.218.199
+2023-11-13T06:56:36+00:00,1184886259,1184885781,0,Robertsky,Krishna district,No native name per [[WP:NOINDICSCRIPTS]]
+2022-04-09T07:42:12+00:00,1081726517,1081638619,0,Thewikizoomer,Krishna district,Added citation to district divison
+2021-03-04T05:06:29+00:00,1010179792,1005917828,0,Zcxvbnm,Krishna district,
+2020-10-11T14:32:55+00:00,982977443,979681715,0,WikiCleanerBot,Krishna district,v2.03b - [[User:WikiCleanerBot#T22|Bot 22 bogus-image-options]] - [[WP:WCW]] project (Bogus image options)
+2020-05-12T10:52:38+00:00,956257607,956253123,0,Arjayay,Krishna district,Rv-V
+2022-08-31T10:13:21+00:00,1107690127,1107669482,0,Storchy,Kurnool,Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]
+2021-08-09T16:38:01+00:00,1037947844,1033752453,0,Vatsmaxed,Krishna district,"/* top */replace, replaced: Indian road network → Roads in India"
+2022-06-13T15:59:40+00:00,1092944734,1092944690,0,MrOllie,Kurnool,Restored revision 1091964559 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]]): Not notable as wikipedia defines it
+2023-11-23T21:19:19+00:00,1186535808,1184434047,0,Vishnu821789,Kurnool,
+2020-10-28T15:03:15+00:00,985886577,985886366,0,Arjayay,Kurnool,correct lead - the multi-capitals are still not agreed
+2022-09-13T13:08:26+00:00,1110079625,1109319610,0,Singhal.sasthry,Kurnool,
+2023-03-05T13:18:54+00:00,1143012640,1143012565,0,2405:204:A78E:B8D7:45EC:7A91:B007:C1FA,Kurnool,/* Palaeolithic era */
+2021-04-12T03:22:31+00:00,1017320454,1017196030,0,Ssbbplayer,Kurnool,/* Climate */
+2020-10-09T19:13:28+00:00,982696158,982105002,0,Yamaguchi先生,Kurnool district,Reverted edits by [[Special:Contribs/VikramVS0812|VikramVS0812]] ([[User talk:VikramVS0812|talk]]) to last version by VikramVS1208
+2023-02-26T06:50:41+00:00,1141677802,1141621380,0,DaxServer,Kurnool district,Rollback edit(s) by [[Special:Contributions/Koti2162|Koti2162]] ([[User_talk:Koti2162|talk]]): english wiki [[w:en:WP:RW|(RW 16.1)]]
+2023-05-16T09:47:33+00:00,1155048929,1154991012,0,Arjunaraoc,Kurnool district,rv  mandal links change to place articles by IP editor
+2021-06-18T10:38:39+00:00,1029176085,1027565122,0,RamuSR2212,Kurnool district,
+2023-11-13T06:58:08+00:00,1184886386,1184886221,0,Robertsky,Kurnool district,No native name per [[WP:NOINDICSCRIPTS]]
+2022-05-31T13:08:21+00:00,1090803867,1090603654,0,2409:4072:807:FFC7:8D4A:A40A:851F:7042,Kurnool district,/* Mandals */
+2022-11-04T05:39:34+00:00,1119932840,1119932802,0,49.37.221.67,Kurnool district,/* Legislative Assembly constituencies */
+2022-12-02T23:24:25+00:00,1125240532,1119932840,0,Jai Vizag,Kurnool district,
+2022-07-30T16:20:22+00:00,1101360003,1101124495,0,12.20.49.12,Kurnool district,/* Notable people */
+2020-05-10T09:43:30+00:00,955884137,953472479,0,Azifast Andhra,Kurnool district,Andhra Pradesh
+2020-12-02T20:07:42+00:00,991971472,982696158,0,Monkbot,Kurnool district,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 23 templates: del empty params (5×); hyphenate params (12×);
+2021-09-22T09:06:53+00:00,1045761949,1045761431,0,Archanarun,Kurnool district,Change in geographic location
+2022-05-24T11:39:29+00:00,1089541800,1089525520,0,Arjayay,Kurnool district,Rm Indic script as [[WP:NOINDICSCRIPT]]
+2021-02-25T05:24:25+00:00,1008816353,1005917907,0,C1MM,Kurnool district,/* Demographics */ Added language data
+2021-01-11T09:07:52+00:00,999664508,991859868,0,Monkbot,List of districts of Andhra Pradesh,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 1 template: hyphenate params (3×);
+2021-03-13T06:25:24+00:00,1011854142,1011854024,0,Sandeep kumar 83,List of districts of Andhra Pradesh,/* Districts */
+2021-07-05T15:01:42+00:00,1032104167,1023609373,0,FrescoBot,List of districts of Andhra Pradesh,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2023-02-27T09:13:46+00:00,1141879174,1141737416,0,WikiCleanerBot,List of districts of Andhra Pradesh,v2.05b - [[User:WikiCleanerBot#T18|Bot T18 CW#553]] - Fix errors for [[WP:WCW|CW project]] (<nowiki> tags)
+2023-06-24T11:48:54+00:00,1161692496,1161692481,0,49.206.40.160,List of districts of Andhra Pradesh,/* Districts */
+2022-11-25T09:10:58+00:00,1123722637,1123190805,0,183.82.112.243,List of districts of Andhra Pradesh,/* Districts */
+2022-07-27T07:37:27+00:00,1100705668,1100704522,0,456legend,List of districts of Andhra Pradesh,/* Districts */
+2020-02-26T08:38:38+00:00,942701135,931541374,0,2409:4070:492:DF9B:0:0:1478:20A1,List of districts of Andhra Pradesh,/* Districts */Hi
+2023-03-17T16:31:05+00:00,1145167212,1145166676,0,BVBREDDY'S,NTR district,/* History */
+2022-04-19T04:43:43+00:00,1083502138,1082633352,0,2409:4070:4D18:1EFA:1E8B:E73C:BAD7:9911,NTR district,
+2022-02-11T11:06:56+00:00,1071204988,1068115581,0,DaxServer,Nandyal district,"ce, add"
+2022-12-10T11:20:29+00:00,1126633873,1126570586,0,DaxServer,Nandyal district,Reverted edits by [[Special:Contribs/Jai Vizag|Jai Vizag]] ([[User talk:Jai Vizag|talk]]) to last version by Storchy
+2022-12-11T09:38:42+00:00,1126806992,1126776899,0,DaxServer,Nellore district,Rollback edit(s) by [[Special:Contributions/Jai Vizag|Jai Vizag]] ([[User_talk:Jai Vizag|talk]]): Vandalism (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]]
+2020-06-26T15:36:34+00:00,964619469,963956028,0,BHGbot,Nellore district,"[[WP:BHGbot 6]] ([[User:BHGbot/6/List 5|List 5]]): eponymous category first, per [[MOS:CATORDER]]; [[WP:GENFIXES]]"
+2022-10-23T18:55:17+00:00,1117816192,1117777900,0,Subhamsahoo2008,Palnadu district,/* Cities and towns */
+2022-03-01T15:29:46+00:00,1074682824,1074673303,0,The Anomebot2,Palnadu district,Replacing geodata: {{coord missing|Andhra Pradesh}}
+2022-12-11T09:38:47+00:00,1126806999,1126776552,0,DaxServer,Palnadu district,Rollback edit(s) by [[Special:Contributions/Jai Vizag|Jai Vizag]] ([[User_talk:Jai Vizag|talk]]): Vandalism (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]]
+2023-03-04T16:50:11+00:00,1142835035,1142834989,0,49.37.219.181,Prakasam district,
+2020-06-12T04:41:32+00:00,962110890,955885840,0,C1MM,Prakasam district,Added image
+2022-09-27T15:20:20+00:00,1112689919,1111675959,0,Filedelinkerbot,Prakasam district,Bot: Removing [[Commons:File:Prakasam zilla.jpg]] ([[:File:Prakasam zilla.jpg|en]]). It was deleted on Commons by [[:Commons:User:Strakhov|Strakhov]] (per [[Commons:Commons:Deletion requests/Files uploaded by MANDADI LUCKY]]).
+2021-08-15T15:39:38+00:00,1038920678,1038807929,0,Citation bot,Rayalaseema,"Alter: template type. Add: newspaper, title, authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 946/2200"
+2022-02-13T09:36:03+00:00,1071581172,1070265314,0,Elli,Rayalaseema,"Removing link(s) to ""Administrative territorial entity"": [[Wikipedia:Articles for deletion/Territorial entity|determined at AfD]] that this is not a meaningful topic and therefore not a useful redlink to keep."
+2022-08-06T10:40:05+00:00,1102689388,1101838602,0,115.99.22.7,Rayalaseema,
+2021-09-12T10:53:02+00:00,1043860958,1043835713,0,DaxServer,Rayalaseema,Rollback edit(s) by [[Special:Contributions/Shaikusman173|Shaikusman173]] ([[User_talk:Shaikusman173|talk]]): non-constructive [[w:en:WP:RW|(RW 16.1)]]
+2022-09-10T07:03:50+00:00,1109499597,1109499395,0,Materialscientist,Rayalaseema,Reverted edits by [[Special:Contributions/New_Andhra|New_Andhra]] ([[User talk:New_Andhra|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-01-20T06:47:15+00:00,936663745,929775849,0,Chaos1618,Srikakulam district,/* Geography */ removed sentence that is repeated in the same paragraph
+2023-05-29T11:59:24+00:00,1157557086,1157133593,0,Furfur,Srikakulam district,/* Geography */ Australia's Trinidad and Tobago ?
+2020-09-07T17:47:45+00:00,977231193,977230759,0,Khizer06,Rayalaseema,
+2023-01-18T20:44:42+00:00,1134462854,1134456075,0,Arjayay,Prakasam district,Reverted edits by [[Special:Contribs/2601:41:C500:4D80:1857:D801:FAC:94BC|2601:41:C500:4D80:1857:D801:FAC:94BC]] ([[User talk:2601:41:C500:4D80:1857:D801:FAC:94BC|talk]]) to last version by Jeevan naidu
+2023-06-18T20:32:09+00:00,1160793664,1159776840,0,Filedelinkerbot,Rayalaseema,Bot: Removing [[Commons:File:Andhraseal.png]] ([[:File:Andhraseal.png|en]]). It was deleted on Commons by [[:Commons:User:Yann|Yann]] (per [[Commons:COM:SPEEDY]].).
+2020-03-08T12:12:24+00:00,944533827,944529276,0,Þjarkur,Talk:Andhra Pradesh,/* Semi-protected edit request on 8 March 2020 */ Removed edit request ([[WP:EPH|EPH]])
+2022-08-10T13:48:57+00:00,1103655362,1101144426,0,Arjunaraoc,Talk:Andhra Pradesh,/* AP districts restructure on 2002-04-04 - Interwiki coordination */ Reply
+2020-06-04T02:02:10+00:00,960636898,956012132,0,Lowercase sigmabot III,Talk:Andhra Pradesh,Archiving 1 discussion(s) to [[Talk:Andhra Pradesh/Archive 2]]) (bot
+2022-11-11T17:32:15+00:00,1121321587,1121244471,0,K6ka,Talk:Andhra Pradesh,"Malfunctioning bot, see [[Wikipedia:Administrators%27_noticeboard/Incidents#Vital_articles_and_Cewbot]]"
+2022-01-30T08:08:54+00:00,1068803470,1062598258,0,Community Tech bot,Talk:Andhra Pradesh,Files used on this page or its Wikidata item are up for deletion
+2020-09-29T07:35:47+00:00,980920507,974558532,0,SanjayRam1431,Talk:Andhra Pradesh,/* Semi-protected edit request on 29 September 2020 */ new section
+2023-03-08T20:42:03+00:00,1143612058,1143611974,0,Prarambh20,Talk:Andhra Pradesh,/* Infobox replacement */
+2021-01-17T02:34:23+00:00,1000860948,991552332,0,Lowercase sigmabot III,Talk:Andhra Pradesh,Archiving 1 discussion(s) to [[Talk:Andhra Pradesh/Archive 2]]) (bot
+2023-10-23T09:17:35+00:00,1181483360,1181454707,0,Arjunaraoc,Talk:Andhra Pradesh,/* Native name */ Reply
+2023-12-15T02:27:25+00:00,1189961961,1187485242,0,Lowercase sigmabot III,Talk:Andhra Pradesh,Archiving 1 discussion(s) to [[Talk:Andhra Pradesh/Archive 2]]) (bot
+2022-04-09T02:15:59+00:00,1081696399,1081560351,0,Lowercase sigmabot III,Talk:Andhra Pradesh,Archiving 1 discussion(s) to [[Talk:Andhra Pradesh/Archive 2]]) (bot
+2017-07-04T23:21:27+00:00,789035912,726625109,0,InternetArchiveBot,Talk:Andhra Pradesh Capital Region,Notification of altered sources needing review #IABot (v1.4)
+2023-05-17T10:04:47+00:00,1155249351,1155248801,0,Grachester,Talk:Andhra Pradesh Capital Region,Reverted 1 edit by [[Special:Contributions/AMPINTA|AMPINTA]] ([[User talk:AMPINTA|talk]]) to last revision by Grachester
+2022-09-20T13:57:37+00:00,1111341064,1060793693,0,Community Tech bot,Talk:Telugu people,Files used on this page or its Wikidata item are up for deletion
+2021-12-17T18:13:12+00:00,1060793693,1046638180,0,2409:4060:E87:581F:7C40:BB1F:3661:6E93,Talk:Telugu people,Tidy using [[WP:AWB|AWB]]
+2020-05-08T15:44:32+00:00,955576249,955576212,0,Serols,Telangana,Reverted edits by [[Special:Contributions/49.204.188.103|49.204.188.103]] ([[User talk:49.204.188.103|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2023-07-27T11:17:26+00:00,1167379251,1167367572,0,Fylindfotberserk,Telangana,Reverted edit by [[Special:Contribs/Bhukya Dhasaradh|Bhukya Dhasaradh]] ([[User talk:Bhukya Dhasaradh|talk]]) to last version by Citation bot
+2021-03-08T17:04:15+00:00,1011027578,1010865130,0,Tom.Reding,Telangana,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q677037|4 IDs]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2023-04-24T13:10:59+00:00,1151500643,1151190431,0,Reo kwon,Telugu people,
+2021-01-14T11:18:56+00:00,1000264919,1000264862,0,ClueBot NG,Telangana,"Reverting possible vandalism by [[Special:Contribs/112.196.163.110|112.196.163.110]] to version by Fylindfotberserk. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3866913) (Bot)"
+2021-05-04T02:59:44+00:00,1021323920,1021012282,0,FrescoBot,Telugu people,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2023-06-10T13:19:49+00:00,1159461190,1154444963,0,SheepLinterBot,User talk:ANDHRA WORLD CITY,/* Welcome! */[t. [[WP:Bots/Requests for approval/SheepLinterBot|1]]] fix [[WP:HTML5#font|font tags]] [[WP:Linter|linter errors]]
+2020-05-12T23:50:37+00:00,956366060,956103626,0,JJMC89,User:Azifast Andhra,not the place for an article
+2023-01-02T23:32:54+00:00,1131183332,956366060,0,Blablubbs,User:Azifast Andhra,Adding sockpuppetry tag per [[:w:en:Wikipedia:Sockpuppet investigations/Azifast Andhra]] (using [[:w:en:WP:SPIH|spihelper.js]])
+2022-09-06T04:05:29+00:00,1108762846,1108762709,0,MB,Vijayawada,Spelling/grammar/punctuation/typographical correction
+2020-06-20T14:41:25+00:00,963567166,963567133,0,Dl2000,Vijayawada,/* References */ reflist auto
+2023-04-30T20:01:24+00:00,1152529477,1152259004,0,Dileepsettipalli,Vijayawada,
+2023-01-03T06:08:30+00:00,1131239591,1130875941,0,Jasti 55,Vijayawada,/* Toponymy */
+2022-04-02T09:04:57+00:00,1080612736,1080589221,0,Ab207,Vijayawada,Rollback edit(s) by [[Special:Contributions/106.76.202.171|106.76.202.171]] ([[User_talk:106.76.202.171|talk]]): not formally created yet [[w:en:WP:RW|(RW 16.1)]]
+2020-06-28T04:00:27+00:00,964882077,963567166,0,Ktdk,Vijayawada,/* Economy */
+2021-05-19T05:24:01+00:00,1023934580,1023931574,0,Ab207,Vijayawada,Undid revision 1023931574 by [[Special:Contributions/Saiteja Jasti|Saiteja Jasti]] ([[User talk:Saiteja Jasti|talk]]) Flag icons only allowed in the country parm. for human settlements; [[MOS:INFOBOXFLAG]]
+2021-04-14T09:23:54+00:00,1017731639,1017706102,0,Sneedistani,Vijayawada,
+2022-01-16T20:30:35+00:00,1066101453,1063110545,0,JayPlaysStuff,Visakhapatnam,"Waltair is a very antiquated colonial name that very few people use, if at all. There are some suburbs that retain ' Waltair ' but not the city itself."
+2021-03-18T09:00:04+00:00,1012783980,1012783917,0,Ab207,Visakhapatnam,Bold misuse
+2022-01-01T07:37:51+00:00,1063110545,1063110489,0,I ame shears,Visakhapatnam,/* Naval base */
+2023-01-03T17:01:48+00:00,1131324840,1130901406,0,Jayanthkumar123,Visakhapatnam,
+2021-01-31T14:37:08+00:00,1003959642,1003957159,0,Chinnusaikrish,Visakhapatnam,
+2020-06-22T20:28:10+00:00,963965909,959837590,0,Filedelinkerbot,Visakhapatnam,Bot: Removing [[Commons:File:Kailasagiri View.jpg]] ([[:File:Kailasagiri View.jpg|en]]). It was deleted on Commons by [[:Commons:User:Ellin Beltz|Ellin Beltz]] (Copyright violation; see [[Commons:COM:Licensing|Commons:Licensing]]).
+2023-04-26T03:57:55+00:00,1151771816,1150363292,0,Ruud Buitelaar,Visakhapatnam,/* Notable people */ added Gode Venkata Juggarow
+2021-08-28T10:09:26+00:00,1041064105,1040240335,0,Chinnusaikrish,Visakhapatnam,
+2023-09-05T08:41:39+00:00,1173936346,1173776016,0,Onel5969,Visakhapatnam,Disambiguating links to [[X (disambiguation)]] (link changed to [[X Development]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-07-08T13:41:03+00:00,966673028,966666110,0,Jeevan naidu,Visakhapatnam,
+2022-02-20T09:11:20+00:00,1072960404,1072960325,0,DaxServer,Visakhapatnam district,Rollback edit(s) by [[Special:Contributions/Aravi021|Aravi021]] ([[User_talk:Aravi021|talk]]): Disruptive editing [[w:en:WP:RW|(RW 16.1)]]
+2023-02-24T01:24:10+00:00,1141233841,1132410075,0,Ultimate goal by the government,Visakhapatnam district,/* Demographics */Minor edit
+2022-01-07T06:15:18+00:00,1064216200,1048816553,0,C1MM,Visakhapatnam district,/* Demographics */ Added religion bar chart
+2021-03-26T17:30:17+00:00,1014363261,1014315054,0,Tom.Reding,Visakhapatnam district,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q15394|2 IDs]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2022-01-23T09:01:21+00:00,1067405841,1064216200,0,2405:201:C01B:1081:856F:795E:1F66:192A,Visakhapatnam district,/* Demographics */
+2021-01-06T12:44:12+00:00,998661665,998661565,0,2405:201:E01B:E00C:980A:375B:C564:10E,Visakhapatnam district,/* Mandals */
+2020-06-02T14:03:15+00:00,960355384,956960887,0,Citation bot,Visakhapatnam district,"Alter: url, title. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by AManWithNoPlan | [[Category:CS1 maint: archived copy as title]] | via #UCB_Category"
+2021-10-08T04:32:43+00:00,1048816553,1046471308,0,MPGuy2824,Visakhapatnam district,Added coords
+2022-10-19T11:31:27+00:00,1116995226,1116957565,0,MrOllie,Visakhapatnam district,Reverted 4 edits by [[Special:Contributions/14.139.180.133|14.139.180.133]] ([[User talk:14.139.180.133|talk]]) to last revision by MrOllie
+2022-09-02T03:22:59+00:00,1108015487,1106928912,0,117.202.253.63,Visakhapatnam district,/* Administratve divisions */
+2022-12-16T18:53:06+00:00,1127801805,1127791565,0,AnomieBOT,Visakhapatnam district,"Rescuing orphaned refs (""map"" from rev 1126633889)"
+2023-07-18T13:36:31+00:00,1165955862,1165903847,0,DaxServer,Visakhapatnam district,Rollback edit(s) by [[Special:Contributions/Capital IndAP|Capital IndAP]] ([[User_talk:Capital IndAP|talk]]): rv sock (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]]
+2020-09-17T05:18:11+00:00,978829586,972177819,0,C1MM,Visakhapatnam district,Added language
+2022-12-10T11:20:32+00:00,1126633885,1126569629,0,DaxServer,Vizianagaram district,Reverted edits by [[Special:Contribs/Jai Vizag|Jai Vizag]] ([[User talk:Jai Vizag|talk]]) to last version by ବିଷ୍ଣୁ ମୋହନ ଅଧିକାରୀ
+2021-10-14T02:03:12+00:00,1049824523,1049012505,0,Premeditated Chaos,Vizianagaram district,see also [[List of villages in Vizianagaram district]]
+2022-12-29T06:57:23+00:00,1130240652,1128927403,0,Jeevan naidu,Vizianagaram district,After district s reorganized complete forest  area is moved to newly formed parvathipuram manyam district
+2023-11-13T06:56:36+00:00,1184886260,1184885029,0,Robertsky,Vizianagaram district,No native name per [[WP:NOINDICSCRIPTS]]
+2022-08-27T22:11:31+00:00,1107053873,1106925998,0,115.97.249.141,Alluri Sitharama Raju district,
+2018-11-16T06:00:59+00:00,869070623,868955998,0,IM3847,Amaravati,Reverted 3 edits by [[Special:Contributions/220.253.70.112|220.253.70.112]] ([[User talk:220.253.70.112|talk]]) to last revision by 223.182.62.51. ([[WP:TW|TW]])
+2021-08-03T17:23:53+00:00,1036953360,1036953149,0,M.Bitton,Amaravati,Reverted 2 edits by [[Special:Contributions/59.96.215.233|59.96.215.233]] ([[User talk:59.96.215.233|talk]]) to last revision by Robertsky
+2023-11-05T00:27:54+00:00,1183548811,1176588612,0,HeyElliott,Amaravati,[[MOS:CAPS]]
+2021-12-22T10:15:14+00:00,1061548511,1061260589,0,117.221.84.187,Amaravati,
+2021-10-19T11:10:50+00:00,1050696986,1050696903,0,Isochrone,Amaravati,Reverted edits by [[Special:Contributions/Mahaseya|Mahaseya]] ([[User talk:Mahaseya|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2018-06-27T16:14:30+00:00,847762747,847762528,0,IM3847,Amaravati,copyedit
+2021-09-23T14:44:25+00:00,1046015949,1045991441,0,2406:B400:A9:A822:71FC:9846:64AB:D44D,Amaravati,
+2022-01-22T09:08:38+00:00,1067211702,1067211464,0,Amakuru,Amaravati,use article title in hatnote
+2020-11-23T00:14:46+00:00,990131937,990131753,0,2409:4070:91:1CF1:0:0:E1C:E0B1,Amaravati,
+2020-02-28T09:34:00+00:00,943018619,943001454,0,Invisibelibrarian,Amaravati,Undid revision 943001454 by [[Special:Contributions/61.0.231.69|61.0.231.69]] ([[User talk:61.0.231.69|talk]])
+2018-08-26T21:48:16+00:00,856674841,856332219,0,43.224.128.80,Amaravati,
+2021-10-04T23:23:54+00:00,1048236343,1048170408,0,Ram Ponam,Andhra Pradesh,Added clarity
+2023-07-05T20:41:05+00:00,1163629355,1163371033,0,HeyElliott,Andhra Pradesh,/* Museums */ [[MOS:CQ]]
+2019-06-26T07:08:51+00:00,903534037,903531886,0,Begoon,Andhra Pradesh,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Sai Krishna bonda|Sai Krishna bonda]]: Then you won't have any difficulty providing some updsted content with s reliable source, will you? See [[WP:RS]], [[WP:REFB]] ([[WP:TW|TW]])"
+2020-07-23T12:35:16+00:00,969105920,968964534,0,Narky Blert,Andhra Pradesh,Link to DAB page repaired. ce
+2020-08-29T15:46:53+00:00,975628141,975216625,0,GreenC bot,Andhra Pradesh,[[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2019-06-06T09:50:29+00:00,900549691,900549315,0,Vin09,Andhra Pradesh,/* Education and research */ Adding/improving reference(s)
+2023-02-12T05:07:28+00:00,1138887066,1138325167,0,WikiEdits2003,Andhra Pradesh,
+2023-10-24T10:06:44+00:00,1181643103,1180367903,0,Wikishovel,Anakapalli district,reverted [[WP:Sockpuppet investigations/Applus2021]]
+2019-05-13T03:09:49+00:00,896825047,895890040,0,AtticusX,Andhra Pradesh,ce
+2022-02-26T06:41:13+00:00,1074065513,1073924116,0,ZI Jony,Andhra Pradesh,v2.04b - Fix errors for [[WP:WCW|CW project]] (Title linked in text - Link equal to linktext)
+2019-04-02T13:24:41+00:00,890617943,890582748,0,IM3847,Andhra Pradesh,Reverted 3 edits by [[Special:Contributions/Reo kwon|Reo kwon]] ([[User talk:Reo kwon|talk]]): Removing unhelpful edits ([[WP:TW|TW]])
+2022-04-08T08:00:10+00:00,1081572795,1081572739,0,Kpgjhpjm,Andhra Pradesh,Rollback edit(s) by [[Special:Contributions/MANDADI LAKSHMI PAVANI|MANDADI LAKSHMI PAVANI]] ([[User_talk:MANDADI LAKSHMI PAVANI|talk]]): non-constructive [[w:en:WP:RW|(RW 16.1)]]
+2022-08-04T20:04:42+00:00,1102383685,1101935831,0,86.98.42.136,Andhra Pradesh,
+2018-03-02T16:26:37+00:00,828448289,827757505,0,180.151.218.104,Andhra Pradesh,/* Demographics */
+2017-08-13T22:54:16+00:00,795389422,795324677,0,Johnuniq,Andhra Pradesh,"rv to version at 19:26, 11 August 2017: unexplained changes that broke template; is the reference wrong? is there a newer reference?"
+2019-04-30T21:47:01+00:00,894926672,894322784,0,Gog the Mild,Andhra Pradesh,Rescuing 124 sources and tagging 0 as dead. #IABot (v2.0beta14)
+2020-09-15T19:18:35+00:00,978579411,977441647,0,TerraCyprus,Andhra Pradesh,
+2021-08-26T00:32:55+00:00,1040674501,1040234526,0,Ksh.andronexus,Andhra Pradesh,/* Demographics */
+2017-11-19T17:37:41+00:00,811122877,811122295,0,Av9,Andhra Pradesh,Changing the district classifications to reflect the two regions; adding more subregions of Coastal Andhra
+2019-01-18T06:32:51+00:00,878986068,878923756,0,171.60.156.182,Andhra Pradesh,
+2019-12-04T06:20:57+00:00,929190163,929188024,0,Hmains,Andhra Pradesh,"AWB general fixes and delink dates per [[:WP:DATELINK]], [[:WP:YEARLINK]] and [[:MOS:UNLINKYEARS]]"
+2019-07-20T12:04:14+00:00,907088701,906663613,0,Cordyceps-Zombie,Andhra Pradesh,
+2019-01-02T06:37:42+00:00,876424783,876281972,0,160.238.72.247,Andhra Pradesh,/* Infrastructure */
+2019-11-22T15:22:10+00:00,927443786,925896720,0,Lakshmisreekanth,Andhra Pradesh,Fixed grammar corrections
+2019-01-01T08:00:50+00:00,876268545,876268457,0,2401:4900:2791:C852:82A2:CAAB:C8EA:6FC2,Andhra Pradesh,
+2020-05-04T20:04:47+00:00,954884175,954881992,0,DonSpencer1,Andhra Pradesh,Removing sentence about river banks per [[WP:TMI]]
+2019-12-09T15:39:14+00:00,929997079,929777329,0,2409:4070:251C:F31E:20B3:CE43:E51:D560,Andhra Pradesh,/* Cities */Dp
+2020-07-18T09:12:47+00:00,968267517,968169738,0,Sai Krishna bonda,Andhra Pradesh,The 3 capitals bill has been sent to the governor . Please don't edit capital city information until governor of Andhra Pradesh release the gazette notification for 3 capitals bill.
+2022-12-25T21:53:18+00:00,1129522275,1126817834,0,JMK,Andhra Pradesh,punct in intro
+2019-07-01T11:27:47+00:00,904321066,904313277,0,Malcolmxl5,Andhra Pradesh,Undid revision 904313277 by [[Special:Contributions/Begoon|Begoon]] ([[User talk:Begoon|talk]]). Rev del done.
+2017-10-25T03:03:54+00:00,806955834,806955510,0,Puppalaguda,Andhra Pradesh,references
+2017-12-04T14:47:00+00:00,813647806,813591368,0,Diannaa,Andhra Pradesh,"/* Early and medieval history */ Attribution: content in this section was copied from [[Lepakshi]] on December 4, 2017. Please see the history of that page for full attribution."
+2019-02-20T12:55:03+00:00,884245869,883583716,0,106.51.186.3,Andhra Pradesh,
+2022-08-07T18:32:04+00:00,1102943670,1102743695,0,117.209.212.57,Andhra Pradesh,
+2019-11-13T00:26:44+00:00,925896720,925478590,0,2402:8100:2883:1D90:3AA2:DD6A:98D8:518F,Andhra Pradesh,/* Early and medieval history */
+2018-05-22T15:58:25+00:00,842458147,842458059,0,LakesideMiners,Andhra Pradesh,Reverted edits by [[Special:Contributions/2405:204:D084:4F0E:30F7:F43B:D876:F2F6|2405:204:D084:4F0E:30F7:F43B:D876:F2F6]] ([[User talk:2405:204:D084:4F0E:30F7:F43B:D876:F2F6|talk]]): Failure to [[WP:CITE|cite]] a reliable source ([[WP:HG|HG]]) (3.1.20)
+2020-09-05T15:06:00+00:00,976868740,976719741,0,VikramVS1208,Andhra Pradesh,Andhra Pradesh Cites population with source of 2011 census mentioned.
+2017-11-03T11:45:42+00:00,808527776,808527672,0,175.101.144.104,Andhra Pradesh,
+2018-07-25T14:40:42+00:00,851935687,851924144,0,IM3847,Andhra Pradesh,Reverted 7 edits by [[Special:Contributions/49.206.237.163|49.206.237.163]] ([[User talk:49.206.237.163|talk]]) to last revision by IM3847. ([[WP:TW|TW]])
+2020-05-10T16:16:32+00:00,955933652,955929442,0,46.11.130.131,Andhra Pradesh,
+2019-04-07T05:40:28+00:00,891326504,890617943,0,Tbhotch,Andhra Pradesh,Adding {{pp-protected}} ([[WP:TW|TW]])
+2019-08-07T20:16:25+00:00,909820345,909820224,0,Madds212,Andhra Pradesh,
+2020-03-28T15:07:51+00:00,947798097,945999931,0,Cordyceps-Zombie,Andhra Pradesh,
+2018-06-12T14:08:17+00:00,845549174,845363060,0,Nardog,Andhra Pradesh,/* top */fixing {{[[Template:IPAc-en|IPAc-en]]}} using [[Project:AWB|AWB]]
+2018-09-18T15:44:53+00:00,860138060,860134337,0,Gazoth,Andhra Pradesh,Reverted 1 edit by [[Special:Contributions/2405:204:6496:BEF:F8E1:6413:9497:72B2|2405:204:6496:BEF:F8E1:6413:9497:72B2]] ([[User talk:2405:204:6496:BEF:F8E1:6413:9497:72B2|talk]]) to last revision by Sri Harsha Bhogi. ([[WP:TW|TW]])
+2021-04-28T04:15:56+00:00,1020266604,1020266467,0,122.163.103.166,Andhra Pradesh,
+2022-07-19T18:17:44+00:00,1099237111,1098341008,0,Billjones94,Andhra Pradesh,
+2018-08-18T04:48:26+00:00,855420138,855192544,0,223.223.142.101,Andhra Pradesh,rmv duplicate parms
+2022-10-04T11:13:26+00:00,1114019820,1114018989,0,JBW,Andhra Pradesh,Reverted edits by [[Special:Contribs/Rocketrocker|Rocketrocker]] ([[User talk:Rocketrocker|talk]]) to last version by 2409:4055:298:A3A2:31D0:CF2D:579F:544C
+2022-11-24T08:00:57+00:00,1123537366,1123537316,0,Marleeashton,Andhra Pradesh,Reverted 1 edit by [[Special:Contributions/2405:201:C00D:7295:B052:547C:CFD3:579E|2405:201:C00D:7295:B052:547C:CFD3:579E]] ([[User talk:2405:201:C00D:7295:B052:547C:CFD3:579E|talk]]) to last revision by Adpscm
+2018-01-25T06:02:51+00:00,822240708,822240414,0,2405:204:609E:91A0:0:0:597:E0AD,Andhra Pradesh,
+2022-12-30T02:21:36+00:00,1130419050,1130119802,0,BD2412,Andhra Pradesh,"clean up spacing around commas and other punctuation, replaced: ] ,[ → ], [, ,t → , t,  ,  → , , inline, title → inline,title"
+2018-02-07T15:19:16+00:00,824470078,824423535,0,157.48.52.253,Andhra Pradesh,
+2019-02-16T08:40:00+00:00,883583716,883583671,0,Anirudh Emani,Andhra Pradesh,
+2020-04-27T21:08:49+00:00,953559291,953530177,0,LilHelpa,Andhra Pradesh,it's → its (4); mos
+2017-10-29T05:32:27+00:00,807634709,807634580,0,103.245.188.137,Andhra Pradesh,/* Education and research */
+2020-05-06T00:06:33+00:00,955102865,955102687,0,DonSpencer1,Andhra Pradesh,Adding acronym
+2020-03-05T12:42:57+00:00,944053449,944053323,0,Raghuveer Aavula,Andhra Pradesh,
+2021-06-07T19:16:06+00:00,1027410121,1027120409,0,Cordyceps-Zombie,Andhra Pradesh,mottos should only be placed in infoboxes for sub-national entities if different from those of the central state
+2019-06-09T19:01:19+00:00,901107058,901106021,0,Vin09,Andhra Pradesh,Copyedit (minor) Adding/improving reference(s)
+2022-09-02T06:16:39+00:00,1108039778,1107732925,0,GreenC bot,Andhra Pradesh,Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2019-08-11T14:58:04+00:00,910360721,909820345,0,TerraCyprus,Andhra Pradesh,[[Human sex ratio]]
+2022-09-04T18:49:39+00:00,1108500095,1108258068,0,2409:4055:2DCE:906B:0:0:A9CA:8C0B,Andhra Pradesh,
+2018-02-22T06:27:43+00:00,827008181,826973776,0,Av9,Andhra Pradesh,Adding an infobox image
+2019-01-05T09:56:53+00:00,876917651,876917554,0,Gazoth,Andhra Pradesh,Restoring cited content
+2023-04-16T14:25:17+00:00,1150136427,1149735148,0,Navi guy,Andhra Pradesh,
+2018-02-06T06:05:38+00:00,824251387,824032232,0,49.156.157.194,Andhra Pradesh,/* Demographics */
+2018-04-26T11:01:03+00:00,838335541,838291943,0,Gazoth,Andhra Pradesh,Reverted 3 edits by [[Special:Contributions/183.83.119.74|183.83.119.74]] ([[User talk:183.83.119.74|talk]]): You need to provide a reference [[WP:INTREF]]. ([[WP:TW|TW]])
+2018-10-01T18:07:54+00:00,862027461,862000869,0,Gazoth,Andhra Pradesh,"Too wordy, adding year"
+2021-07-20T22:42:16+00:00,1034616600,1033580295,0,GreenC bot,Andhra Pradesh,Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2018-09-09T06:58:39+00:00,858732582,858730379,0,2606:A000:660A:2D00:4125:A2BD:B3EB:F826,Andhra Pradesh,/* Sports */
+2023-08-06T15:21:16+00:00,1169022196,1168969191,0,Bhuvaneshkaturi2007,Andhra Pradesh,added chief secretary name
+2023-10-06T15:54:16+00:00,1178897942,1178851269,0,45.112.29.110,Andhra Pradesh,
+2017-12-03T17:14:33+00:00,813424660,813422696,0,Srikaraa,Andhra Pradesh,/* Cuisine */
+2018-01-01T00:26:56+00:00,818013515,817841616,0,Piledhigheranddeeper,Andhra Pradesh,intro edits
+2018-10-12T18:06:10+00:00,863739197,863738830,0,Hemant Dabral,Andhra Pradesh,
+2020-01-09T10:16:51+00:00,934927214,934418712,0,Lakshmisreekanth,Andhra Pradesh,/* See also */Fixed dead link(s)
+2019-04-23T18:31:35+00:00,893811154,893688690,0,Haakonsson,Andhra Pradesh,fix ref error
+2021-12-10T16:42:11+00:00,1059631205,1057786581,0,Munna Aawara,Andhra Pradesh,/* Education and research */
+2018-11-13T07:02:05+00:00,868600387,868600197,0,2405:204:6792:CA79:59C5:633D:425C:7FF9,Andhra Pradesh,/* Education and research */
+2017-11-08T05:55:31+00:00,809287927,808969697,0,Mccapra,Andhra Pradesh,"/* See also */ Adding link to orphaned article, Wikiproject Orphanage: [[Wikipedia:ORPHAN|You can help!]]"
+2023-01-23T01:10:12+00:00,1135166816,1133442573,0,Hasta luego,Andhra Pradesh,/* Toponym */
+2020-05-02T13:01:48+00:00,954446936,954413329,0,Ravensfire,Andhra Pradesh,"Reverted 1 edit by [[Special:Contributions/Sai Krishna Kanakala|Sai Krishna Kanakala]] ([[User talk:Sai Krishna Kanakala|talk]]): Challenges edit reverted without discussion, discuss on article talk page ([[WP:TW|TW]])"
+2018-07-10T15:14:04+00:00,849671530,849621149,0,Gazoth,Andhra Pradesh,"Reverted 1 edit by [[Special:Contributions/86.98.145.11|86.98.145.11]] ([[User talk:86.98.145.11|talk]]): Legislature is already covered, there is no need to mention every post. ([[WP:TW|TW]])"
+2018-08-27T09:32:37+00:00,856752865,856751352,0,Pathawi,Andhra Pradesh,I have removed the Indian language names that I posted in a previous edit. Gazoth has brought to my attention a consensus recorded in the Manual of Style against use of Indian-language names in India-related articles.
+2018-10-20T11:41:53+00:00,864915471,864915322,0,223.238.45.132,Andhra Pradesh,
+2018-12-21T08:26:58+00:00,874744259,874724263,0,160.238.72.105,Andhra Pradesh,/* Languages */
+2018-05-29T06:02:18+00:00,843444698,843430609,0,Gazoth,Andhra Pradesh,Reverted 2 edits by [[Special:Contributions/106.207.36.215|106.207.36.215]] ([[User talk:106.207.36.215|talk]]) to last revision by C.Fred. ([[WP:TW|TW]])
+2019-11-03T10:57:39+00:00,924358336,924358310,0,27.5.183.161,Andhra Pradesh Capital Region,/* Urban local bodies */
+2021-04-17T07:11:51+00:00,1018285370,1017921584,0,Goszei,Andhra Pradesh,[[WP:GENFIXES|General fixes]]
+2022-12-29T22:32:56+00:00,1130383882,1123056461,0,Horologium,Andhra Pradesh Capital Region,Populated->populous.
+2019-12-09T06:14:33+00:00,929940376,929940327,0,2409:4070:251C:F31E:D0DE:54AB:716A:C7FA,Andhra Pradesh Capital Region,Ek
+2018-04-04T05:16:08+00:00,834147492,833294742,0,Googleuser999,Andhra Pradesh Capital Region,
+2020-12-05T06:18:35+00:00,992429698,980825069,0,Tarunq,Andhra Pradesh Capital Region,
+2023-01-05T17:20:29+00:00,1131765889,1130383882,0,203.192.253.74,Andhra Pradesh Capital Region,
+2019-08-07T22:51:11+00:00,909838817,904417704,0,Naucatcone,Andhra Pradesh Capital Region,It cannot be called as Metropolitan area as it doesn't include single city defined area
+2017-09-08T15:53:45+00:00,799580534,793539900,0,SpacemanSpiff,Andhra Pradesh Capital Region,Reverted edits by [[Special:Contribs/Bumbravathi|Bumbravathi]] ([[User talk:Bumbravathi|talk]]) to last version by InternetArchiveBot
+2018-10-05T14:27:32+00:00,862612577,858139389,0,Diddi ct,Andhra Pradesh Capital Region,
+2022-07-19T20:47:21+00:00,1099258936,1098043122,0,2601:647:5000:34:BC73:2E62:F443:43B,Andhra Pradesh Capital Region Development Authority,
+2022-05-02T22:32:28+00:00,1085873613,1085827264,0,Certes,Andhra Pradesh Capital Region Development Authority,typo: Audimulapu Suresh (via [[WP:JWB]])
+2023-06-12T20:08:16+00:00,1159829335,1155409125,0,2601:41:C500:4D80:A9EB:6C87:8575:E814,Andhra Pradesh Capital Region Development Authority,/* Jurisdiction */
+2022-05-26T02:00:15+00:00,1089864321,1089864145,0,Samba.jammula,Andhra Pradesh High Court,Updated location as per AP High court website https://hc.ap.nic.in/
+2022-02-15T15:10:35+00:00,1072018488,1071786892,0,223.196.163.43,Andhra Pradesh High Court,Justice Prashant Kumar Mishra who is appointed as the chief justice of High Court of Andhra Pradesh by The President of India on the advice of CJI and Governor of AP taken charge on 13th October 2021
+2017-12-25T14:06:17+00:00,817021961,815524688,0,49.206.69.139,Andhra Pradesh Capital Region Development Authority,/* mana amaravati App */ Fixed typo
+2019-02-18T06:45:37+00:00,883887861,882338167,0,2405:204:6510:9DE3:B4CC:7B1E:6DA:4A34,Andhra Pradesh High Court,/* Geography */ justice city
+2023-11-07T13:44:06+00:00,1183952315,1181834647,0,2409:40F0:1196:DB5:7053:1388:E885:DCC9,Andhra Pradesh High Court,The link to ap high court
+2014-06-01T19:49:09+00:00,611126278,0,0,MohitSingh,Andhra Pradesh High Court,MohitSingh moved page [[Andhra Pradesh High Court]] to [[High Court of Judicature at Hyderabad]]: High Court has been renamed so as per the Reorganisation Act
+2023-11-29T20:59:17+00:00,1187528799,1187472802,0,GoingBatty,Andhra Pradesh High Court,Reverted 1 edit by [[Special:Contributions/202.83.35.138|202.83.35.138]] ([[User talk:202.83.35.138|talk]]) to last revision by 2409:40F0:1196:DB5:7053:1388:E885:DCC9
+2021-09-03T08:12:11+00:00,1042115019,1042114787,0,Billjones94,Andhra Pradesh High Court,/* History */
+2019-12-10T06:04:12+00:00,930097228,923729866,0,Sid54126,Andhra Pradesh High Court,/* List of Chief Justices */ updated
+2019-01-31T05:24:47+00:00,881061165,880929014,0,124.123.61.41,Andhra Pradesh Legislative Assembly,
+2019-10-12T11:04:36+00:00,920861576,920045150,0,103.232.154.229,Andhra Pradesh High Court,
+2020-07-18T04:58:43+00:00,968246491,968246454,0,27.4.212.58,Andhra Pradesh Legislative Assembly,
+2021-05-16T10:08:06+00:00,1023425510,1023425495,0,2409:4071:2088:B545:0:0:827:48A1,Andhra Pradesh Legislative Assembly,
+2022-07-28T04:11:08+00:00,1100873496,1100871474,0,Editrite!,Andhra Pradesh Legislative Assembly,/* Members of Legislative Assembly */ Fixed spelling
+2021-02-23T05:44:06+00:00,1008416339,1008099194,0,Dev Adhi,Andhra Pradesh Legislative Assembly,
+2022-08-10T08:12:46+00:00,1103616893,1103343693,0,PARAMESWARA REDDY KANUBUDDI,Andhra Pradesh Legislative Assembly,/* top */
+2020-06-24T11:19:24+00:00,964245257,964243116,0,Raja Kumar 8121,Andhra Pradesh Legislative Assembly,/* Constituencies */
+2017-10-07T06:26:50+00:00,804170247,804115530,0,Adamgerber80,Andhra Pradesh Legislative Assembly,per indic scripts
+2022-12-18T20:58:58+00:00,1128178156,1127729574,0,Liz,Andhra Pradesh Legislative Assembly,"Removing link(s) to ""Leader of the Opposition in Andhra Pradesh Legislative Assembly"": Deleted article."
+2019-05-01T19:23:14+00:00,895064578,894394708,0,Alextejthompson,Andhra Pradesh Legislative Assembly,"/* List of members */typo fixing, [[WP:AWB/T|typo(s) fixed]]: september → September"
+2018-03-09T13:53:52+00:00,829574292,829372925,0,2405:204:4007:B66A:10A1:463A:4302:6CF5,Andhra Pradesh Legislative Assembly,
+2022-12-18T20:58:58+00:00,1128178152,1116911073,0,Liz,Andhra Pradesh Legislature,"Removing link(s) to ""Leader of the Opposition in Andhra Pradesh Legislative Assembly"": Deleted article."
+2020-03-24T08:41:34+00:00,947097864,947097817,0,KumarVenati,Andhra Pradesh Legislative Assembly,
+2017-11-22T00:49:48+00:00,811497753,811497290,0,14.142.118.68,Andhra Pradesh Legislature,changes about Legislative Council Deputy Chairman's
+2020-03-06T05:17:39+00:00,944176845,941534145,0,Junior Jumper,Andhra Pradesh Legislature,Update
+2019-05-16T03:22:37+00:00,897299011,896987795,0,Deesalamma,Coastal Andhra,/* Cities and towns */
+2018-08-12T19:45:55+00:00,854636097,852516651,0,DePiep,Coastal Andhra,clean up citation needed template using [[Project:AWB|AWB]]
+2023-05-19T09:53:03+00:00,1155702653,1155702497,0,103.170.50.49,Coastal Andhra,/* Cities and towns */
+2019-03-11T04:54:42+00:00,887195382,886726563,0,123.201.248.207,Coastal Andhra,/* Notable personalities */
+2018-07-29T14:45:18+00:00,852516651,851905090,0,ForumRocker,Coastal Andhra,
+2020-06-07T13:02:07+00:00,961257832,961257694,0,Maker1987,Coastal Andhra,/* Demographics */ added ref
+2020-06-16T19:51:19+00:00,962925906,961257832,0,Sai Krishna bonda,Coastal Andhra,/* Cities and towns */
+2017-07-12T18:40:32+00:00,790282036,790281808,0,223.182.96.43,Coastal Andhra,/* Notable Personalities */
+2021-01-14T20:01:21+00:00,1000358749,1000356766,0,72.45.40.173,Coastal Andhra,/* Cities and towns */Fixed typo and added information.
+2021-08-06T06:25:48+00:00,1037380233,1015586595,0,Saiteja Jasti,Coastal Andhra,/* Transport */
+2023-04-07T15:52:32+00:00,1148668154,1148409874,0,71.179.88.40,Coastal Andhra,
+2017-10-23T21:00:19+00:00,806735787,805889090,0,Srichirs11,Government of Andhra Pradesh,
+2018-09-07T08:21:16+00:00,858450545,857841701,0,JJMC89 bot,Government of Andhra Pradesh,Removed [[WP:NFCC]] violation(s). No valid  [[WP:NFUR|non-free use rationale]] for this page. See [[WP:NFC#Implementation]]. Questions? [[WP:MCQ|Ask here]].
+2019-01-30T18:29:58+00:00,880982235,880975944,0,Muhandes,Government of Andhra Pradesh,Reverted 2 edits by [[Special:Contributions/157.44.19.199|157.44.19.199]] ([[User talk:157.44.19.199|talk]]): Spam ([[WP:TW|TW]])
+2023-05-07T10:52:53+00:00,1153619227,1153619172,0,49.206.134.240,Government of Andhra Pradesh,
+2021-08-21T14:39:40+00:00,1039912646,1035270666,0,Cordyceps-Zombie,Government of Andhra Pradesh,
+2022-06-02T16:20:18+00:00,1091167654,1086642248,0,2409:4071:240F:1562:0:0:112D:78AC,Government of Andhra Pradesh,
+2017-09-30T11:49:20+00:00,803092918,803092797,0,103.217.240.26,Government of Andhra Pradesh,WP: NOINDISCRIPT
+2021-07-01T22:43:47+00:00,1031489792,1027486703,0,BattyBot,Guntur district,"/* Education and research */Removed/fixed incorrect author parameter(s), performed [[WP:AWB/GF|general fixes]]"
+2018-12-20T05:41:33+00:00,874583638,866108721,0,192.140.153.113,Guntur district,/* Demographics */
+2019-01-09T21:49:21+00:00,877629323,877627381,0,Gnt,Guntur district,re-org
+2021-12-07T21:09:09+00:00,1059167144,1056821739,0,Gnt,Guntur district,/* Education and research */ wiki link added.
+2017-09-21T12:49:05+00:00,801723415,801718371,0,MER-C,Guntur district,Reverted edits by [[Special:Contribs/Sanjaydev11|Sanjaydev11]] ([[User talk:Sanjaydev11|talk]]) to last version by Arjayay
+2022-10-02T18:27:05+00:00,1113676753,1111722256,0,Cmr08,Guntur district,headers in sentence case per [[MOS:Head]]
+2019-12-08T04:06:49+00:00,929775393,921687952,0,2806:102E:7:762B:CC37:DF17:FF66:B05F,Guntur district,
+2023-09-17T15:24:13+00:00,1175806629,1175806545,0,2601:41:C500:4D80:9987:B961:BAA9:C22D,Guntur district,/* Cities and towns */
+2017-07-03T05:03:46+00:00,788736430,787757674,0,106.66.132.32,Guntur district,
+2019-05-18T14:54:49+00:00,897662353,896568229,0,Narky Blert,Guntur district,Link to DAB page repaired
+2019-08-11T10:38:14+00:00,910335500,910105488,0,2401:4900:4823:9E00:2:1:E67C:B595,Guntur district,/* Culture */
+2020-07-23T19:45:36+00:00,969167543,969167409,0,Jroberson108,Guntur district,/* History */ Fix spelling. Add italics.
+2019-10-17T07:41:06+00:00,921687952,921687820,0,Neil S Walker,Guntur district,Undid revision 921687820 by [[Special:Contributions/2409:4072:6115:C256:AC63:2C89:708A:CAD8|2409:4072:6115:C256:AC63:2C89:708A:CAD8]] ([[User talk:2409:4072:6115:C256:AC63:2C89:708A:CAD8|talk]])
+2022-11-03T05:49:47+00:00,1119748214,1117875835,0,Billjones94,Guntur district,/* Notable people */
+2020-12-09T14:14:09+00:00,993230447,993230092,0,2405:201:E01B:E00C:ED62:6638:383:6FB8,Guntur district,/* Mandals */
+2018-01-29T13:29:19+00:00,822952914,822945153,0,Sathishkagitha,Krishna district,/* Divisions */
+2023-03-15T21:21:18+00:00,1144838565,1144838490,0,2601:41:C500:4D80:4CF2:A684:4EEE:3741,Guntur district,/* Cities and towns */
+2022-12-20T02:08:51+00:00,1128426269,1128397547,0,Kaltenmeyer,Krishna district,/* top */[[MOS:OVERLINK]]
+2022-01-29T07:34:56+00:00,1068584652,1068584604,0,Greyjoy,Krishna district,/* top */
+2020-11-28T03:06:53+00:00,991072407,985569015,0,JustAGunNut,Krishna district,
+2017-08-18T09:06:29+00:00,796074192,796073846,0,CyanoTex,Krishna district,Reverted edits by [[Special:Contributions/203.134.215.79|203.134.215.79]] ([[User talk:203.134.215.79|talk]]) ([[WP:HG|HG]]) (3.2.1)
+2019-02-18T07:42:44+00:00,883891932,882493323,0,160.238.72.225,Krishna district,/* Education */
+2022-05-10T20:49:51+00:00,1087173707,1087141664,0,Alexf,Krishna district,Reverted edits by [[Special:Contribs/117.209.128.155|117.209.128.155]] ([[User talk:117.209.128.155|talk]]) to last version by 49.204.216.196
+2017-11-09T17:16:24+00:00,809519939,809518721,0,117.98.140.223,Krishna district,NH214 changed to NH 165
+2019-04-09T03:17:25+00:00,891617555,891617239,0,65.35.138.252,Krishna district,
+2020-03-28T17:14:31+00:00,947814981,945323660,0,NicoScribe,Krishna district,Undid revisions by [[Special:Contributions/Yousikar|Yousikar]] ([[User talk:Yousikar|talk]]) it seems that this is not notable enough for WP
+2018-03-03T01:42:17+00:00,828519065,828063074,0,Jabberjaw,Krishna district,"clean up, [[WP:AWB/T|typo(s) fixed]]: independantly → independently, sq.km → km<sup>2</sup> using [[Project:AWB|AWB]]"
+2017-11-17T17:33:41+00:00,810822783,810586642,0,GünniX,Kurnool,unbalanced brackets
+2017-09-12T15:19:42+00:00,800282775,800277875,0,GermanJoe,Kurnool,Undid revision 800277875 by [[Special:Contributions/110.34.10.238|110.34.10.238]] ([[User talk:110.34.10.238|talk]]) WP:INFOBOXFLAG
+2017-12-13T19:52:59+00:00,815261822,815216776,0,Mpolluchalla,Kurnool,/* Cityscape */
+2020-04-26T20:48:59+00:00,953325738,953325574,0,JimVC3,Kurnool,Reverted 3 edits by [[Special:Contributions/223.228.116.60|223.228.116.60]] ([[User talk:223.228.116.60|talk]]) to last revision by Arjayay ([[WP:TW|TW]])
+2019-06-15T13:41:32+00:00,901959036,901959007,0,2407:8C00:135:2CF0:71E3:12E2:49F9:C611,Kurnool,
+2020-09-18T06:11:02+00:00,979006082,978678586,0,VikramVS1208,Kurnool,
+2019-03-20T10:07:23+00:00,888622770,888457263,0,183.83.185.212,Kurnool,notable people
+2018-08-01T09:13:06+00:00,852929245,851409031,0,103.245.119.250,Kurnool,
+2019-02-07T14:59:28+00:00,882208772,882208287,0,Ervinsandeep,Kurnool,/* Education */
+2022-03-02T08:47:31+00:00,1074809992,1074809949,0,Pls I dank memer,Kurnool,/* Nawabs */
+2018-12-20T21:45:06+00:00,874679247,872995269,0,BD2412,Kurnool district,"/* Demographics */Fixing incoming links to [[Christian]] to sort out bad links., replaced: {{bar percent|[[Christian]]| → {{bar percent|[[Christians|Christian]]|"
+2019-05-23T10:05:21+00:00,898402353,898402083,0,CAPTAIN RAJU,Kurnool district,Reverted 1 edit by [[Special:Contributions/2409:4070:2E15:DDBE:41B:6C71:5D3F:12CC|2409:4070:2E15:DDBE:41B:6C71:5D3F:12CC]] identified as test/vandalism using [[WP:STiki|STiki]]
+2020-08-12T06:17:56+00:00,972462864,970677701,0,49.207.213.131,Kurnool district,
+2022-08-02T06:43:36+00:00,1101865879,1101865750,0,110.235.227.250,Kurnool district,
+2022-02-02T17:12:13+00:00,1069506145,1069310717,0,2405:201:E01B:E10A:BC3B:84B8:8F76:86C9,Kurnool district,/* Mandals */
+2021-09-11T07:02:42+00:00,1043651699,1032803084,0,175.101.104.141,Kurnool district,
+2018-06-20T15:24:06+00:00,846733015,842897762,0,2405:204:6388:64A:3EA1:759F:C2BC:84A5,Kurnool district,
+2020-06-08T14:43:58+00:00,961447558,958948704,0,202.83.44.79,Kurnool district,/* External links */
+2023-07-29T13:23:30+00:00,1167720476,1165955858,0,JoeNMLC,Kurnool district,"/* Villages */ ce, add section; add Mittakandala; add cite from article"
+2017-11-13T06:24:13+00:00,810076999,810076931,0,Merchant of Meluha,Kurnool district,
+2018-10-16T14:51:52+00:00,864330735,855483449,0,Sitush,Kurnool district,"/* Mandals */ why complicate things? these numbers have no meaning, and the additional sources are not required"
+2020-06-26T18:05:15+00:00,964640287,964640232,0,Landonrules,Kurnool district,Reverted 1 edit by [[Special:Contributions/2409:4070:F:2BA6:0:0:115C:50A5|2409:4070:F:2BA6:0:0:115C:50A5]] ([[User talk:2409:4070:F:2BA6:0:0:115C:50A5|talk]]) to last revision by 106.208.63.189 ([[WP:TW|TW]])
+2018-05-24T04:49:05+00:00,842709900,842564612,0,2409:4070:2215:428C:0:0:292:B8A0,List of districts of Andhra Pradesh,/* Proposed Districts */
+2019-12-19T14:19:08+00:00,931541374,924038263,0,106.51.24.237,List of districts of Andhra Pradesh,Kadapa is now YSR District
+2019-02-09T13:17:28+00:00,882488044,875403198,0,123.201.241.91,List of districts of Andhra Pradesh,/* Districts */
+2019-04-15T13:51:46+00:00,892577482,892245924,0,2405:204:64AF:C4FA:0:0:8C4:58AD,List of districts of Andhra Pradesh,/* Districts */
+2020-12-02T04:45:00+00:00,991859868,987020961,0,49.204.225.219,List of districts of Andhra Pradesh,
+2023-10-26T10:55:05+00:00,1181976289,1179177128,0,175.101.110.46,List of districts of Andhra Pradesh,/* Districts */
+2018-12-26T08:40:50+00:00,875403198,875402991,0,AVI3347,List of districts of Andhra Pradesh,
+2021-05-17T09:58:18+00:00,1023609373,1022141500,0,Ronherry,List of districts of Andhra Pradesh,fix
+2023-10-03T14:36:15+00:00,1178415296,1178081384,0,RWILDONLINE,NTR district,NTR district temp added
+2022-10-02T18:30:53+00:00,1113677331,1113677266,0,Cmr08,Nellore district,/* Peoplr from Nellore district */ fix typo?
+2020-08-07T06:47:33+00:00,971616903,971616527,0,Sukku24,Nellore district,/* Administrative divisions */
+2017-11-12T09:46:32+00:00,809920935,804317150,0,49.207.190.71,Nellore district,"/* Mauryas, early Cholas and Pallavas */"
+2019-02-02T19:23:45+00:00,881463027,878842595,0,24.129.165.119,Nellore district,Added temple
+2023-09-17T13:13:22+00:00,1175791662,1175791594,0,Voglam,Palnadu district,
+2017-12-21T09:58:08+00:00,816437611,815337538,0,117.211.160.45,Prakasam district,/* See also */
+2018-04-14T05:22:48+00:00,836342031,836341847,0,Sriyerram,Prakasam district,/* Notable personalities */
+2020-09-16T13:23:26+00:00,978703515,978665112,0,VikramVS1208,Prakasam district,
+2020-09-13T06:42:26+00:00,978154667,976536418,0,VikramVS1208,Prakasam district,Added images of 1961
+2021-10-17T08:33:22+00:00,1050346637,1050346494,0,Phanipedia123,Prakasam district,
+2023-09-09T13:44:02+00:00,1174596615,1169684348,0,Sa6h9hheje,Rayalaseema,/* top */
+2020-12-07T08:41:04+00:00,992826013,992366485,0,Venkatcbm,Prakasam district,/* Tourism */
+2020-04-23T12:01:50+00:00,952659847,952606789,0,2409:4070:2096:1BE8:774:2F8E:9259:23,Rayalaseema,
+2023-11-24T13:19:51+00:00,1186628546,1185873210,0,27.5.83.54,Rayalaseema,
+2021-04-11T15:54:20+00:00,1017226403,1017226047,0,XLinkBot,Rayalaseema,BOT--Reverting reference addition(s) by [[:en:Special:Contributions/27.59.206.171|27.59.206.171]] to revision 1016193158 (www.mapsofindia.com/maps/Tamilnadu/Tamilnadu-factsheet.htm [\bmapsofindia\.com\b])
+2023-12-10T01:20:18+00:00,1189149846,1186628546,0,37.231.131.25,Rayalaseema,
+2019-02-14T15:23:21+00:00,883301161,883110579,0,Sitush,Rayalaseema,/* References */ further reading
+2018-01-31T07:55:20+00:00,823276132,823275579,0,223.182.98.34,Srikakulam district,/* Mandals */Fixed
+2019-12-27T16:28:48+00:00,932685803,932685764,0,Munna Aawara,Rayalaseema,/* Central institutions */
+2021-01-22T22:09:00+00:00,1002106692,998921889,0,Colonies Chris,Rayalaseema,"minor fixes, replaced: “ → "", ” → "", [[India]] → India, ,''  → '', , Dehli → Delhi, {{IND}} → {{flagu|India}}, |title=The Indian Express – Google News Archive Search| → |work=The Indian Express|via=Google News Archive Search| (2)"
+2018-02-17T04:30:51+00:00,826094908,825500072,0,Bhaskar vardi prasad,Rayalaseema,Rayalaseema has 4 districts
+2021-07-09T04:55:50+00:00,1032709114,1032708909,0,Singupuramtown,Srikakulam district,
+2019-12-08T04:11:40+00:00,929775849,922655563,0,2806:102E:7:762B:CC37:DF17:FF66:B05F,Srikakulam district,
+2017-10-24T00:57:14+00:00,806766548,806755673,0,77.179.108.66,Rayalaseema,
+2020-08-23T18:10:52+00:00,974558532,974556789,0,Njd-de,Talk:Andhra Pradesh,/* Semi-protected edit request on 23 August 2020 */
+2022-05-24T16:23:04+00:00,1089581118,1081696399,0,2409:4054:15:5F44:0:0:15F1:68A4,Talk:Andhra Pradesh,/* Capital change */ new section
+2021-08-05T23:03:25+00:00,1037335556,1037021288,0,PearBOT II,Talk:Andhra Pradesh,Merge Talk header and Auto archiving notice per [[Wikipedia:Templates_for_discussion/Log/2021_May_13#Template:Auto_archiving_notice|TfD]]
+2018-08-18T05:28:43+00:00,855423005,817332818,0,223.223.142.101,Talk:Telugu people,
+2018-01-21T05:28:10+00:00,821553187,821098909,0,Sathishkagitha,Telangana,
+2022-12-11T13:02:14+00:00,1126831863,1126829944,0,Adakiko,Telangana,Reverted edits by [[Special:Contributions/2405:201:C40B:E01B:DDE2:DD8F:130F:6E8A|2405:201:C40B:E01B:DDE2:DD8F:130F:6E8A]] ([[User talk:2405:201:C40B:E01B:DDE2:DD8F:130F:6E8A|talk]]): [[WP:SANDBOX|editing tests]] ([[WP:HG|HG]]) (3.4.10)
+2022-11-16T16:10:02+00:00,1122244160,1122244115,0,Haoreima,Telugu people,
+2020-05-12T14:41:31+00:00,956286702,954509002,0,Bhagya2,Telugu people,/* History */
+2018-03-25T00:00:53+00:00,832279608,831988028,0,DragoMynaa,Telangana,/* Culture */
+2023-12-23T21:02:28+00:00,1191481367,1190512480,0,Anandwiki.ind,Telugu people,Telugu etymology correction.
+2018-10-21T21:42:42+00:00,865121306,864612541,0,Mccapra,Telugu people,/* See also */ added link
+2023-09-25T22:41:58+00:00,1177093064,1176834159,0,ARandomName123,Vijayawada,/* References */ +notelist
+2017-10-20T11:35:41+00:00,806200241,806200159,0,Puppalaguda,Vijayawada,clean up
+2017-09-14T15:07:48+00:00,800600963,800588323,0,Kondabaabu,Vijayawada,
+2019-11-13T06:43:31+00:00,925936666,925450983,0,43.229.90.183,Vijayawada,/* Toponomy */Fixed typo
+2020-02-24T21:02:38+00:00,942465119,942357116,0,Bellowhead678,Vijayawada,Bezawada(as->Bezawada (as - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2019-07-16T20:46:35+00:00,906587632,906587354,0,Jack31ap,Vijayawada,
+2018-09-28T05:43:00+00:00,861541953,861276019,0,103.206.105.66,Vijayawada,
+2022-04-30T00:56:23+00:00,1085349677,1085143265,0,Michael Devore,Vijayawada,"/* Cityscape */ rm extraneous ""on the"" before ""on a"""
+2023-05-18T10:02:00+00:00,1155478750,1154769405,0,RWILDONLINE,Vijayawada,/* Notable people */ removed unreferenced
+2019-10-04T05:36:12+00:00,919523732,918912543,0,Cnwilliams,Vijayawada,Disambiguated: [[commercial]] → [[commerce]]
+2018-09-08T17:51:05+00:00,858647896,858565387,0,AVI3347,Visakhapatnam,/* Civic administration */
+2021-05-16T07:00:25+00:00,1023407258,1021328428,0,Kwamikagami,Visakhapatnam,/* top */
+2020-04-17T20:58:05+00:00,951579581,951579225,0,Sai Krishna Kanakala,Visakhapatnam,Minor change about page' status as smart city with original and verified inline citations
+2023-10-07T13:28:54+00:00,1179039931,1179015536,0,Rajaraj1983,Visakhapatnam,/* Economy */ global summits
+2023-02-02T21:37:14+00:00,1137111951,1137111688,0,Ayonpradhan,Visakhapatnam,
+2019-07-15T12:45:14+00:00,906374955,905612872,0,AVI3347,Visakhapatnam,
+2022-12-29T21:00:53+00:00,1130369600,1130369412,0,GoingBatty,Visakhapatnam,/* Demographics */ fixed reference
+2019-06-07T08:01:45+00:00,900726489,900583084,0,Engrtech,Visakhapatnam,
+2019-09-21T16:05:52+00:00,916965970,916603696,0,Plumbius minimus,Visakhapatnam,/* Etymology */ Copy-edits
+2018-10-23T07:21:44+00:00,865330093,864909498,0,Cdjp1,Visakhapatnam,
+2021-06-01T15:30:52+00:00,1026316273,1026000490,0,RudolphHitz,Visakhapatnam,Added information with source
+2023-10-24T10:05:07+00:00,1181642935,1181487525,0,Wikishovel,Visakhapatnam,reverted [[WP:Sockpuppet investigations/Applus2021]]
+2019-07-24T14:07:56+00:00,907675059,906374955,0,IM3847,Visakhapatnam,/* Geography */ added an image w.r.t. context
+2023-11-26T06:29:53+00:00,1186905731,1186905681,0,Arjunbath,Visakhapatnam,
+2017-12-20T13:00:44+00:00,816293229,812607235,0,106.220.1.173,Visakhapatnam district,/* Divisions */
+2021-07-24T14:41:32+00:00,1035245500,1032111628,0,JJMC89 bot III,Visakhapatnam district,Removing [[:Category:Aspirational Districts in India]] per [[Wikipedia:Categories for discussion/Log/2021 June 28#Category:Aspirational Districts in India]]
+2018-05-13T16:42:12+00:00,841029491,841029272,0,2405:204:5223:F64C:38E8:EC74:E539:9194,Visakhapatnam district,Fixed typo
+2020-03-14T16:18:45+00:00,945532316,945531910,0,FULBERT,Visakhapatnam district,Undid revision 945531910 by [[Special:Contributions/Manivarna Dirisina|Manivarna Dirisina]] ([[User talk:Manivarna Dirisina|talk]]): Identified as test/vandalism using [[:m:WikiLoop Battlefield]] version 3.0.1-beta. See it or provide your opinion at http://battlefield.wikiloop.org/revision/enwiki/945531910
+2022-04-16T17:07:07+00:00,1083040787,1083040632,0,49.205.98.222,Visakhapatnam district,
+2019-06-18T11:48:56+00:00,902376126,901898547,0,AVI3347,Visakhapatnam district,
+2019-02-19T17:22:33+00:00,884120062,879327138,0,AVI3347,Visakhapatnam district,/* Mandals */
+2019-08-16T12:17:18+00:00,911087040,910356548,0,Bender the Bot,Visakhapatnam district,"/* top */switch to [[.com]] for [[Google Books]]; same content, but more trustworthy [[top-level domain]], replaced: https://books.google.co.in/ → https://books.google.com/"
+2021-04-23T02:28:24+00:00,1019393949,1014363261,0,Ksh.andronexus,Visakhapatnam district,
+2022-02-07T17:07:39+00:00,1070474052,1067405841,0,223.196.164.201,Visakhapatnam district,Dr Annam Mallikharjuna Yadav is an Indian Civil Servent who has been appointed as the collector and district magistrate of Visakhapatnam in 2021
+2019-03-09T19:54:06+00:00,886974547,886973633,0,Sivasai223,Vizianagaram district,some info
+2019-12-08T04:14:23+00:00,929776125,929398903,0,2806:102E:7:762B:CC37:DF17:FF66:B05F,Vizianagaram district,
+2018-02-23T04:19:48+00:00,827170902,827170575,0,Sistlajr,Vizianagaram district,/* Education */

@@ -1,0 +1,115 @@
+timestamp,revid,parentid,sock,user,page,message
+2012-05-25T16:43:07+00:00,494334591,494333982,1,MadridjaimeME,Locke High School,/* Academics */
+2012-05-25T16:33:49+00:00,494333482,494332818,1,MadridjaimeME,Locke High School,/* Academics */
+2012-05-25T16:24:00+00:00,494332384,494331754,1,MadridjaimeME,Locke High School,/* Student Life */
+2012-03-06T19:47:02+00:00,480541977,480528520,1,MadridjaimeME,Locke High School,
+2012-03-06T17:21:51+00:00,480520059,480519071,1,Lockeedit1,"Watts, Los Angeles",/* Community Activities */
+2012-03-06T17:14:27+00:00,480519071,480518429,1,Lockeedit1,"Watts, Los Angeles",/* Parks and recreation */
+2012-02-15T21:04:50+00:00,477071647,477071548,1,Lockeedit1,Locke High School,
+2012-02-15T20:57:00+00:00,477070288,476860649,1,Lockeedit1,Locke High School,/* Community Service Programs */
+2012-03-06T17:27:38+00:00,480520879,480520663,1,Lockeedit2,"Watts, Los Angeles",/* Media */
+2012-03-06T17:25:47+00:00,480520603,480520450,1,Lockeedit2,"Watts, Los Angeles",
+2012-03-06T16:59:38+00:00,480516910,480516509,1,Lockeedit2,"Watts, Los Angeles",
+2012-03-06T16:56:38+00:00,480516509,480516246,1,Lockeedit2,"Watts, Los Angeles",
+2012-02-15T21:04:17+00:00,477071548,477070288,1,Lockeedit2,Locke High School,/* History */
+2012-03-06T17:24:41+00:00,480520450,480520315,1,Lockeedit3,"Watts, Los Angeles",/* Epifani Dance Company */
+2012-03-06T17:23:42+00:00,480520315,480520059,1,Lockeedit3,"Watts, Los Angeles",
+2012-03-06T17:07:45+00:00,480518083,480516910,1,Lockeedit3,"Watts, Los Angeles",/* Parks and recreation */
+2012-02-15T21:10:05+00:00,477072497,477071647,1,Lockeedit3,Locke High School,/* History */
+2012-02-14T17:05:59+00:00,476860649,476860370,1,Lockeedit3,Locke High School,
+2012-02-14T17:04:17+00:00,476860370,476830688,1,Lockeedit3,Locke High School,
+2012-03-06T17:32:00+00:00,480521449,480517054,1,Lockeedit4,Locke High School,
+2012-03-06T17:10:18+00:00,480518429,480518264,1,Lockeedit4,"Watts, Los Angeles",/* Community Activities */
+2012-03-06T17:09:02+00:00,480518264,480518083,1,Lockeedit4,"Watts, Los Angeles",
+2012-03-06T16:51:57+00:00,480515807,480515610,1,Lockeedit4,Locke High School,/* Athletics */
+2012-03-06T16:50:22+00:00,480515610,480321473,1,Lockeedit4,Locke High School,
+2012-02-15T21:19:15+00:00,477073901,477073705,1,Lockeedit4,"Watts, Los Angeles",/* Newspaper */
+2012-03-06T17:26:14+00:00,480520663,480520603,1,Lockeedit5,"Watts, Los Angeles",/* Community Service */
+2012-03-06T16:54:48+00:00,480516246,479397137,1,Lockeedit5,"Watts, Los Angeles",/* Parks and recreation */
+2012-02-14T13:44:04+00:00,476830688,476830644,1,Reemedits,Locke High School,/* Notable Events= */
+2012-02-14T13:43:35+00:00,476830644,476778118,1,Reemedits,Locke High School,
+2012-02-14T04:39:31+00:00,476778118,476778051,1,Reemedits,Locke High School,/* Locke #3 */
+2012-02-14T04:39:00+00:00,476778051,476778000,1,Reemedits,Locke High School,/* Schools */
+2012-02-14T04:38:30+00:00,476778000,476777897,1,Reemedits,Locke High School,
+2012-02-14T04:37:44+00:00,476777897,476775320,1,Reemedits,Locke High School,
+2012-02-14T04:12:40+00:00,476775320,476775181,1,Reemedits,Locke High School,
+2012-02-14T04:11:15+00:00,476775181,476774109,1,Reemedits,Locke High School,
+2012-02-14T04:08:33+00:00,476774876,476774779,1,Reemedits,"Watts, Los Angeles",/* Attractions */
+2012-02-14T04:07:40+00:00,476774779,476773283,1,Reemedits,"Watts, Los Angeles",/* Attractions */
+2012-02-14T04:01:37+00:00,476774109,476773973,1,Reemedits,Locke High School,
+2012-02-14T04:00:35+00:00,476773973,476772347,1,Reemedits,Locke High School,/* History */
+2012-02-14T03:54:16+00:00,476773283,476773025,1,Reemedits,"Watts, Los Angeles",/* Notable residents */
+2012-02-14T03:51:48+00:00,476773025,476770571,1,Reemedits,"Watts, Los Angeles",/* Notable residents */
+2012-02-14T03:45:34+00:00,476772347,476772065,1,Reemedits,Locke High School,/* History */
+2012-02-14T03:42:46+00:00,476772065,476771837,1,Reemedits,Locke High School,/* Student Life */
+2012-02-14T03:40:54+00:00,476771837,476771769,1,Reemedits,Locke High School,/* controversy */
+2012-02-14T03:40:15+00:00,476771769,476080381,1,Reemedits,Locke High School,/* History */
+2012-02-14T03:29:21+00:00,476770571,476770293,1,Reemedits,"Watts, Los Angeles",/* Attractions */
+2012-02-14T03:26:28+00:00,476770293,476770184,1,Reemedits,"Watts, Los Angeles",/* Attractions */
+2012-02-14T03:25:23+00:00,476770184,476770001,1,Reemedits,"Watts, Los Angeles",/* Attractions */
+2012-02-14T03:23:42+00:00,476770001,476474019,1,Reemedits,"Watts, Los Angeles",/* Attractions */
+2012-02-10T08:30:58+00:00,476087311,476087190,1,Reemedits,"Watts, Los Angeles",/* Newspaper */
+2012-02-10T08:29:26+00:00,476087190,476086344,1,Reemedits,"Watts, Los Angeles",/* Media */
+2012-02-10T08:18:38+00:00,476086344,476086261,1,Reemedits,"Watts, Los Angeles",/* Attractions */
+2012-02-10T08:17:38+00:00,476086261,476082632,1,Reemedits,"Watts, Los Angeles",
+2012-02-10T07:28:52+00:00,476082632,476082535,1,Reemedits,"Watts, Los Angeles",/* Media/Newspapers */
+2012-02-10T07:27:49+00:00,476082535,476081704,1,Reemedits,"Watts, Los Angeles",
+2012-02-10T07:17:48+00:00,476081704,476081645,1,Reemedits,"Watts, Los Angeles",/* Parks and recreation */
+2012-02-10T07:17:08+00:00,476081645,476081541,1,Reemedits,"Watts, Los Angeles",/* Parks and recreation */
+2012-02-10T07:16:04+00:00,476081541,476081279,1,Reemedits,"Watts, Los Angeles",/* Parks and recreation */
+2012-02-10T07:12:41+00:00,476081279,474008414,1,Reemedits,"Watts, Los Angeles",/* Public schools */
+2012-02-10T07:02:32+00:00,476080381,476079612,1,Reemedits,Locke High School,
+2012-02-10T06:53:58+00:00,476079612,476078874,1,Reemedits,Locke High School,/* Athletics */
+2012-02-10T06:45:13+00:00,476078874,476078715,1,Reemedits,Locke High School,/* History */
+2012-02-10T06:43:33+00:00,476078715,476078619,1,Reemedits,Locke High School,/* Athletics */
+2012-02-10T06:42:40+00:00,476078619,476078207,1,Reemedits,Locke High School,/* Locke #3 */
+2012-02-10T06:37:35+00:00,476078207,476078094,1,Reemedits,Locke High School,/* Student Demographics */
+2012-02-10T06:36:11+00:00,476078094,476077865,1,Reemedits,Locke High School,/* Student Demographics */
+2012-02-10T06:33:22+00:00,476077865,476077834,1,Reemedits,Locke High School,/* Uniforms */
+2012-02-10T06:32:57+00:00,476077834,476077309,1,Reemedits,Locke High School,/* Locke #3 */
+2012-02-10T06:26:08+00:00,476077309,476077177,1,Reemedits,Locke High School,/* Student Life */
+2012-02-10T06:24:16+00:00,476077177,476076836,1,Reemedits,Locke High School,/* Schools */
+2012-02-10T06:19:30+00:00,476076836,476076763,1,Reemedits,Locke High School,/* Community Service Programs */
+2012-02-10T06:18:34+00:00,476076763,476076586,1,Reemedits,Locke High School,/* Community Service Programs */
+2012-02-10T06:16:06+00:00,476076586,476076474,1,Reemedits,Locke High School,/* Community Service Programs */
+2012-02-10T06:14:41+00:00,476076474,476076405,1,Reemedits,Locke High School,/* Community Service Programs */
+2012-02-10T06:13:53+00:00,476076405,476075734,1,Reemedits,Locke High School,/* Community Service Programs */
+2012-02-10T06:03:48+00:00,476075734,476075653,1,Reemedits,Locke High School,/* Community Service Programs */
+2012-02-10T06:02:35+00:00,476075653,476074958,1,Reemedits,Locke High School,/* Locke #3 */
+2012-02-10T05:53:35+00:00,476074958,476074894,1,Reemedits,Locke High School,/* History */
+2012-02-10T05:52:46+00:00,476074894,476074703,1,Reemedits,Locke High School,/* History */
+2012-02-10T05:50:45+00:00,476074703,476074536,1,Reemedits,Locke High School,/* Academics */
+2012-02-10T05:49:04+00:00,476074536,476074372,1,Reemedits,Locke High School,/* Academics */
+2012-02-10T05:47:24+00:00,476074372,476074225,1,Reemedits,Locke High School,/* Academics */
+2012-02-10T05:46:04+00:00,476074225,476073700,1,Reemedits,Locke High School,/* Academics */
+2012-02-10T05:39:49+00:00,476073700,476072646,1,Reemedits,Locke High School,/* Schools */
+2012-02-10T05:26:56+00:00,476072646,476071744,1,Reemedits,Locke High School,/* History */
+2012-02-10T05:15:34+00:00,476071744,476070641,1,Reemedits,Locke High School,/* Student Demographics */
+2012-02-10T05:02:19+00:00,476070641,476070564,1,Reemedits,Locke High School,/* 1 Student demographics */
+2012-02-10T05:01:19+00:00,476070564,476070474,1,Reemedits,Locke High School,/* History */
+2012-02-10T05:00:22+00:00,476070474,476070323,1,Reemedits,Locke High School,/* =1 Student demographics */
+2012-02-10T04:58:47+00:00,476070323,476067732,1,Reemedits,Locke High School,/* Locke #3 */
+2012-02-10T04:31:00+00:00,476067732,476061513,1,Reemedits,Locke High School,/* History */
+2012-02-10T03:31:15+00:00,476061513,476061437,1,Reemedits,Locke High School,/* Section */
+2012-02-10T03:30:25+00:00,476061437,472915681,1,Reemedits,Locke High School,/* History */
+2012-03-29T04:00:13+00:00,484485635,480541977,0,76.171.135.235,Locke High School,/* Schools */
+2012-02-15T21:35:37+00:00,477076309,477076165,0,173.196.174.216,Locke High School,/* Student Activism */
+2012-03-05T13:59:47+00:00,480321473,480238641,0,PhnomPencil,Locke High School,"Normal AWB stuff, and fixed disambiguation link -- Cynthia Cooper, typos fixed: continously → continuously, sophmores → sophomores, removed stub tag using [[Project:AWB|AWB]]"
+2012-03-05T00:23:03+00:00,480238641,477076309,0,Tabletop,Locke High School,Spell vioce => voice (10)
+2012-02-16T22:21:28+00:00,477264565,477110489,0,159.83.54.2,"Watts, Los Angeles","/* Attractions */ -section on Carolyn's Kitchen, advertising, methinks..."
+2012-05-12T06:02:29+00:00,492158985,491126389,0,81.178.210.15,"Watts, Los Angeles",/* Toys for Watts */ Cleared up grammar and punctuation
+2012-05-07T05:00:16+00:00,491126389,491012890,0,Vanished user 3.1415926535897932384626433,"Watts, Los Angeles",/* CicLAvia Tour */ Sp
+2012-04-11T05:37:19+00:00,486761365,486353757,0,75.83.110.79,"Watts, Los Angeles",/* Demographics */
+2012-04-09T01:26:13+00:00,486353757,485988670,0,173.202.140.141,"Watts, Los Angeles",/* Parks and recreation */
+2012-04-06T22:55:17+00:00,485988670,485683014,0,AnomieBOT,"Watts, Los Angeles","Rescuing orphaned refs (""nhlsum"" from [[Watts Towers]])"
+2012-02-27T20:42:13+00:00,479180009,477264565,0,71.134.39.155,"Watts, Los Angeles",/* Attractions */
+2012-03-24T10:30:28+00:00,483670753,483636937,0,AnomieBOT,"Watts, Los Angeles",Moving refs out of templates
+2012-05-20T19:26:22+00:00,493546188,493448435,0,KudzuVine,"Watts, Los Angeles",/* Attractions */ replaced deadlink with nrhp nomination
+2012-04-20T13:03:55+00:00,488329496,486761365,0,DadaNeem,"Watts, Los Angeles",/* Demographics */ 3 wikilinks
+2012-02-12T16:58:18+00:00,476474019,476472262,0,Wildbell,"Watts, Los Angeles",/* History */
+2012-02-29T01:34:07+00:00,479397137,479180009,0,BeenAroundAWhile,"Watts, Los Angeles","/* Attractions */ Replacing this rather disjointed graf with the lede graf from the WP article, which has the advantage of being thoroughly vetted."
+2012-03-24T03:32:22+00:00,483636937,483636735,0,76.168.176.78,"Watts, Los Angeles",/* Community Activities */
+2012-04-05T08:50:17+00:00,485683014,485547085,0,RjwilmsiBot,"Watts, Los Angeles","CiteCompletion, dates: 2, works/pubs: 2, authors: 2, titles: 2,  using [[Project:AWB|AWB]] (8010)"
+2012-05-20T05:46:42+00:00,493448435,493411644,0,98.237.99.0,"Watts, Los Angeles",
+2012-05-06T16:27:56+00:00,491012890,491012728,0,134.173.93.64,"Watts, Los Angeles",/* Film Shoots */
+2012-01-30T09:57:12+00:00,474008414,465915510,0,76.90.198.17,"Watts, Los Angeles",

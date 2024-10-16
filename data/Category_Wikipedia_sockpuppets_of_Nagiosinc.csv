@@ -1,0 +1,90 @@
+timestamp,revid,parentid,sock,user,page,message
+2011-06-28T19:38:47+00:00,436726777,435047091,1,Nagiosinc,Nagios,
+2011-05-27T17:42:46+00:00,431210995,431210802,1,Nagiosinc,Nagios,/* External links */
+2011-05-27T17:41:21+00:00,431210802,431128305,1,Nagiosinc,Nagios,/* See also */
+2011-03-13T19:50:28+00:00,418660725,418660688,1,Nagiosinc,Nagios,/* See also */
+2011-03-13T19:50:10+00:00,418660688,417209354,1,Nagiosinc,Nagios,/* External links */
+2011-03-05T03:54:15+00:00,417199482,417199445,1,Nagiosinc,Nagios,/* See also */
+2011-03-05T03:53:53+00:00,417199445,417199318,1,Nagiosinc,Nagios,/* External links */
+2011-03-05T03:52:37+00:00,417199318,417022929,1,Nagiosinc,Nagios,/* See also */
+2011-02-25T17:50:11+00:00,415897847,415897645,1,Nagiosinc,Shinken (software),/* External links */
+2011-02-25T17:48:49+00:00,415897645,410170660,1,Nagiosinc,Shinken (software),/* See also */
+2011-02-25T17:44:58+00:00,415897129,415783991,1,Nagiosinc,Nagios,/* See also */
+2011-02-24T21:51:37+00:00,415759287,415714680,1,Nagiosinc,Network monitoring,/* External links */
+2011-02-24T16:57:39+00:00,415713427,415542885,1,Nagiosinc,Network monitoring,/* External links */
+2011-02-23T17:39:31+00:00,415542371,415542291,1,Nagiosinc,Network monitoring,/* External links */
+2011-02-23T17:39:01+00:00,415542291,414232991,1,Nagiosinc,Network monitoring,/* External links */
+2011-02-23T17:36:32+00:00,415541885,415108186,1,Nagiosinc,Nagios,/* See also */
+2011-01-30T02:09:34+00:00,410879104,365049512,1,Nagiosinc,NRPE,Added links to Nagios Core
+2011-01-29T16:30:14+00:00,410779025,410778280,1,Nagiosinc,Nagios Core,"Removed pronunciation from this page, as its more appropriate for the general ""Nagios"" page"
+2011-01-29T16:25:49+00:00,410778280,410777879,1,Nagiosinc,Nagios Core,/* See also */
+2011-01-29T16:23:09+00:00,410777879,0,1,Nagiosinc,Nagios Core,"New page for Nagios Core - will update the main ""Nagios"" page to link to this and other Nagios software soon"
+2011-09-05T18:40:07+00:00,448620717,448619855,1,MrOllie2,Nagios,Undid revision 448619855 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2011-09-05T18:05:57+00:00,448615794,448581234,1,MrOllie2,Nagios,
+2011-09-05T01:25:28+00:00,448497999,446231223,1,MrOllie2,Icinga,/* External links */
+2011-09-04T00:10:38+00:00,448305363,448271372,1,Mstarr4,Talk:Nagios,"/* See also, external links */"
+2011-09-04T00:04:54+00:00,448304687,448271385,1,Mstarr4,Nagios,/* See also */
+2011-09-03T13:14:45+00:00,448221552,446793903,1,Mstarr4,Talk:Nagios,"/* See also, external links */"
+2011-09-03T12:41:31+00:00,448218147,448063791,1,Mstarr4,Nagios,Undid revision 447949109 by [[Special:Contributions/TJRC|TJRC]] ([[User talk:TJRC|talk]])
+2011-01-29T16:03:22+00:00,410774746,410773803,1,Mstarr4,Nagios,Changed incorrect information
+2011-01-29T15:56:52+00:00,410773803,410773463,1,Mstarr4,Nagios,/* Support sites */
+2011-01-29T15:54:40+00:00,410773463,410772725,1,Mstarr4,Nagios,Removed link to missing page
+2011-01-29T15:50:00+00:00,410772725,410761063,1,Mstarr4,Nagios,/* Support sites */
+2011-01-29T14:29:58+00:00,410761063,410760797,1,Mstarr4,Nagios,/* External links */
+2011-01-29T14:27:45+00:00,410760797,410688759,1,Mstarr4,Nagios,/* See also */
+2011-01-29T13:54:57+00:00,410756659,410755731,1,Mstarr4,Wikipedia:Sandbox,
+2011-09-05T18:47:07+00:00,448621767,448621025,1,Scenebad,Nagios,Undid revision 448621025 by [[Special:Contributions/Dawnseeker2000|Dawnseeker2000]] ([[User talk:Dawnseeker2000|talk]])
+2011-09-05T01:19:38+00:00,448497355,448495569,1,Scenebad,Nagios,/* External links */
+2011-05-19T23:11:11+00:00,429961276,428877498,0,69.158.4.138,Nagios,
+2011-05-13T05:36:29+00:00,428877498,428568387,0,Glasnt,Nagios,/* See also */ > NRPE now a self-referential redirect. Superfluous.
+2011-06-21T00:44:30+00:00,435375186,434666781,0,ImageRemovalBot,Icinga,Removing deleted [[:File:Icinga-Cronk-Hoststatus.png|image]]
+2011-03-01T23:54:07+00:00,416645200,416538533,0,70.98.39.250,Nagios,/* Nagios Remote Plugin Executor */
+2011-08-23T08:22:10+00:00,446285746,446252231,0,Naparuba,Nagios,Undid revision 446252231 by [[Special:Contributions/98.240.244.220|98.240.244.220]] ([[User talk:98.240.244.220|talk]]) Don't vandalism this page...
+2011-06-29T00:02:40+00:00,436763241,436726777,0,TJRC,Nagios,Reverted 1 edit by [[Special:Contributions/Nagiosinc|Nagiosinc]] ([[User talk:Nagiosinc|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Lucious. ([[WP:TW|TW]])
+2011-07-27T22:09:15+00:00,441777101,440718373,0,212.67.80.188,Icinga,
+2011-08-11T18:21:51+00:00,444304680,444179259,0,TJRC,Nagios,"Undid revision 444179259 by [[Special:Contributions/98.240.244.220|98.240.244.220]] ([[User talk:98.240.244.220|talk]]); see talk, consensus is to include"
+2011-08-08T23:56:22+00:00,443775522,443775443,0,173.160.118.149,Nagios,Undid revision 443272297 by [[Special:Contributions/TJRC|TJRC]] ([[User talk:TJRC|talk]])
+2011-04-02T12:54:34+00:00,421972358,419308063,0,R'n'B,Nagios,Fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Plug-in]]
+2011-02-07T21:03:24+00:00,412598339,410807137,0,86.142.7.50,Nagios,
+2011-03-05T05:34:37+00:00,417209354,417199482,0,MrOllie,Nagios,Reverted 3 edits by [[Special:Contributions/Nagiosinc|Nagiosinc]] ([[User talk:Nagiosinc|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Kop. ([[WP:TW|TW]])
+2011-03-01T23:52:07+00:00,416644888,415611699,0,70.98.39.250,NRPE,[[WP:AES|←]]Redirected page to [[Nagios#Nagios Remote Plugin Executor]]
+2011-02-24T01:12:31+00:00,415611699,414045476,0,TJRC,NRPE,Redirect former stub to main article after merging content
+2011-08-29T06:57:30+00:00,447271837,447155326,0,TJRC,Nagios,Reverted 2 edits by [[Special:Contributions/98.240.244.220|98.240.244.220]] ([[User talk:98.240.244.220|talk]]): Rvv. ([[WP:TW|TW]])
+2011-05-06T19:09:37+00:00,427792733,427575107,0,Naparuba,Nagios,Undid revision 427575107 by [[Special:Contributions/203.91.193.7|203.91.193.7]] ([[User talk:203.91.193.7|talk]]) vandalism
+2011-08-01T02:05:40+00:00,442444917,442437338,0,Tookr,Nagios,Bumped version in infobox to 3.3.1
+2011-07-25T19:11:22+00:00,441395378,436763241,0,JayMGoldberg,Nagios,Added feature that Nagios is DB-less
+2011-03-13T21:41:53+00:00,418677984,418660725,0,MrOllie,Nagios,Reverted 2 edits by [[Special:Contributions/Nagiosinc|Nagiosinc]] ([[User talk:Nagiosinc|talk]]) identified as [[WP:VAND|vandalism]] to last revision by MrOllie. ([[WP:TW|TW]])
+2011-06-12T00:16:51+00:00,433801272,433130212,0,174.46.233.130,Nagios,/* Nagios Remote Plugin Executor */  fix typo of NRPE
+2011-03-17T15:19:14+00:00,419308063,418677984,0,Naparuba,Nagios,Clean the Shinken link
+2011-08-26T09:01:01+00:00,446793637,446488267,0,Thumperward,Nagios,+seealso
+2011-04-04T21:24:41+00:00,422388677,421972358,0,70.88.103.253,Nagios,"Fixed ""hosts"" link"
+2011-02-24T01:07:07+00:00,415610979,411267280,0,TJRC,Nagios Core,"Redirect; this subject is rename of [[Nagios]]; nothing added here other than promotional content (which should be cut), so nothing to merge."
+2011-08-20T20:04:04+00:00,445873108,444304680,0,98.240.244.220,Nagios,Undid revision 444304680 by [[Special:Contributions/TJRC|TJRC]] ([[User talk:TJRC|talk]])
+2011-03-09T05:26:01+00:00,417910066,417910057,0,ClueBot NG,Network monitoring,"Reverting possible vandalism by [[Special:Contributions/121.54.29.30|121.54.29.30]] to version by Dawnseeker2000. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (339146) (Bot)"
+2011-01-31T23:18:28+00:00,411267280,411265638,0,SmackBot,Nagios Core,Dated {{Advert}}. (Build p605)
+2011-02-02T20:30:43+00:00,411643266,411624154,0,Dgtsyb,Network monitoring,Undid revision 411624154 by [[Special:Contributions/Shahmirj|Shahmirj]] ([[User talk:Shahmirj|talk]]) [[WP:EL]]
+2011-03-30T18:31:29+00:00,421522182,420360974,0,98.210.208.107,Network monitoring,Removes wisegeek references: those articles themselves are unreferenced and therefore less authoratative than Wikipedia
+2011-01-29T23:02:40+00:00,410847630,410640298,0,Muhandes,Network monitoring,Reverted 1 edit by [[Special:Contributions/173.160.118.149|173.160.118.149]] ([[User talk:173.160.118.149|talk]]); Spam. ([[WP:TW|TW]])
+2011-07-25T19:33:29+00:00,441399259,440405383,0,173.8.69.13,Network monitoring,/* Notable Network Monitoring Software */
+2011-05-06T19:10:40+00:00,427792886,416355670,0,Naparuba,Shinken (software),
+2011-03-01T11:17:42+00:00,416541486,414730046,0,Naparuba,Talk:Nagios,
+2011-08-24T13:36:59+00:00,446486924,427792886,0,Thumperward,Shinken (software),Added {{[[Template:advert|advert]]}} and {{[[Template:notability|notability]]}} tags to article ([[WP:TW|TW]])
+2011-06-15T06:47:37+00:00,434366601,434364650,0,67.188.57.135,Wikipedia:Sandbox,
+2011-05-01T16:33:27+00:00,426909555,426908626,0,174.101.171.113,Wikipedia:Sandbox,
+2011-05-02T04:16:19+00:00,427007946,420511292,0,Pmc,Icinga,added infobox
+2011-08-24T13:47:55+00:00,446488267,446487361,0,Helpful Pixie Bot,Nagios,Dated {{Copy edit}}. (Build p613)
+2011-06-05T01:43:23+00:00,432611140,431674838,0,Robofish,Nagios,/* See also */ removed link to deleted article
+2011-03-24T16:19:57+00:00,420511292,420127389,0,Hirsutism,Icinga,+category; general formatting
+2011-05-14T19:05:11+00:00,429122524,428972332,0,MystBot,Icinga,r2.7.1) (robot Adding: [[ja:Icinga]]
+2011-05-30T16:24:40+00:00,431674838,431598136,0,Bento00,Nagios,Reverted 1 edit by [[Special:Contributions/122.176.69.67|122.176.69.67]] ([[User talk:122.176.69.67|talk]]): Contrary to source. ([[WP:TW|TW]])
+2011-02-19T12:26:21+00:00,414772511,414772456,0,Dguenault,Nagios,"Why removing nagios related information. Marry you are not on nagios.org but on wikipedia. If you don't like this for trademark purpose, remove the page but don't remove content you does not like !"
+2011-06-19T06:05:27+00:00,435047091,433801272,0,Lucious,Nagios,/* Overview */
+2011-05-11T11:45:23+00:00,428568387,428568298,0,89.110.151.177,Nagios,revert vandalism (vandals sitting in minnesota of course)
+2011-02-16T12:04:57+00:00,414232991,414232423,0,Graeme Bartlett,Network monitoring,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/202.65.148.252|202.65.148.252]] ([[User talk:202.65.148.252|talk]]) to last version by Dgtsyb
+2011-02-28T10:31:36+00:00,416355670,416355634,0,Marasmusine,Shinken (software),/* See also */ rm EL from see also section
+2011-08-31T18:22:35+00:00,447697551,447609206,0,Sonic1980,Network monitoring,
+2011-06-02T12:25:44+00:00,432165188,432163879,0,211.31.59.181,Wikipedia:Sandbox,
+2011-05-27T13:45:12+00:00,431178098,431177815,0,193.177.183.210,Wikipedia:Sandbox,
+2011-02-16T19:32:18+00:00,414292962,414292726,0,ObviouslyNotFound,Wikipedia:Sandbox,
+2010-07-26T11:46:14+00:00,375534325,347698870,0,AugustinMa,Talk:Nagios,/* License */ new section
+2011-06-26T08:10:28+00:00,436297927,436296938,0,SimplicityCapturedPhotography,Wikipedia:Sandbox,

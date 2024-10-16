@@ -1,0 +1,252 @@
+timestamp,revid,parentid,sock,user,page,message
+2016-10-24T15:02:55+00:00,745977708,727317431,1,Narniawang,Apache Oozie,add a category
+2016-10-24T15:01:34+00:00,745977534,737135116,1,Narniawang,Pivotal Greenplum Database,add a category
+2016-10-24T14:57:57+00:00,745976995,595482086,1,Narniawang,Hadoop Distributed File System,add a category
+2016-10-24T14:54:43+00:00,745976556,745966896,1,Narniawang,Amazon S3,add a category
+2016-10-24T14:53:00+00:00,745976393,742823745,1,Narniawang,Google App Engine,add a category
+2016-10-24T14:50:20+00:00,745976086,745975811,1,Narniawang,Amazon Elastic Compute Cloud,
+2016-10-24T14:48:05+00:00,745975811,745969023,1,Narniawang,Amazon Elastic Compute Cloud,add a category
+2016-10-24T13:47:47+00:00,745969023,742587037,1,Narniawang,Amazon Elastic Compute Cloud,add a category
+2016-10-24T12:27:08+00:00,745960837,745453139,1,Narniawang,Amazon S3,add a category:Big data glossary
+2016-10-19T19:46:06+00:00,745190722,0,1,Narniawang,User:Narniawang/sandbox,big data glossary
+2016-10-25T10:55:53+00:00,746120465,746120016,1,Caoanexo,Weka (software),/* See also */
+2016-10-25T10:51:19+00:00,746120016,746119847,1,Caoanexo,Weka (software),/* See also */
+2016-10-25T10:49:31+00:00,746119847,734133076,1,Caoanexo,Weka (software),/* See also */
+2016-10-25T10:28:18+00:00,746117831,746116679,1,Caoanexo,Machine learning,/* See also */
+2016-10-25T10:15:49+00:00,746116679,746095639,1,Caoanexo,Machine learning,/* See also */
+2016-10-25T09:57:56+00:00,746115071,731446451,1,Caoanexo,Apache OpenNLP,
+2016-10-25T09:11:48+00:00,746110572,745739765,1,CJ2012215061,JSON,
+2016-10-25T02:16:01+00:00,746065767,746061721,1,CJ2012215061,MongoDB,
+2016-10-25T02:12:20+00:00,746065260,740574147,1,CJ2012215061,Voldemort (distributed data store),
+2016-10-25T02:03:16+00:00,746063973,740554750,1,CJ2012215061,Hypertable,
+2016-10-25T02:02:02+00:00,746063794,744596601,1,CJ2012215061,Apache HBase,
+2016-10-25T02:00:35+00:00,746063605,745506861,1,CJ2012215061,Bigtable,
+2016-10-25T01:59:12+00:00,746063381,745104498,1,CJ2012215061,Redis,
+2016-10-25T01:57:40+00:00,746063171,741519084,1,CJ2012215061,Cassandra,
+2016-10-25T01:55:49+00:00,746062909,745952346,1,CJ2012215061,Apache CouchDB,
+2016-10-25T01:47:51+00:00,746061721,746061004,1,CJ2012215061,MongoDB,
+2016-10-25T01:42:25+00:00,746061004,746059159,1,CJ2012215061,MongoDB,
+2016-10-25T01:28:07+00:00,746059159,745633571,1,CJ2012215061,MongoDB,
+2016-10-25T09:25:33+00:00,746112015,735518879,1,LeeQJing,QuickCode,
+2016-10-25T09:20:44+00:00,746111508,745991471,1,LeeQJing,Protocol Buffers,
+2016-10-25T09:19:39+00:00,746111391,671816460,1,LeeQJing,Thrift,
+2016-10-25T09:16:35+00:00,746111059,745387600,1,LeeQJing,BSON,
+2016-10-25T10:06:43+00:00,746115846,732330074,1,Yangyi123,Natural Language Toolkit,
+2016-10-25T09:29:30+00:00,746112429,745291734,1,Yangyi123,Elasticsearch,
+2016-10-25T09:27:56+00:00,746112255,743844407,1,Yangyi123,Apache Lucene,
+2016-10-25T09:27:04+00:00,746112177,744597499,1,Yangyi123,Apache Solr,
+2016-10-25T09:23:52+00:00,746111836,745827767,1,Yangyi123,Amazon Mechanical Turk,
+2016-10-25T08:27:45+00:00,746105555,744208380,1,Yangyi123,Yahoo! Pipes,
+2016-10-25T08:26:34+00:00,746105451,744362604,1,Yangyi123,R (programming language),
+2016-10-25T08:22:21+00:00,746104782,745710373,1,Yangyi123,Heroku,
+2016-10-25T08:20:16+00:00,746104407,740628394,1,Yangyi123,AWS Elastic Beanstalk,
+2016-10-25T11:59:32+00:00,746127398,746078775,1,Zkc131,Flume,
+2016-10-25T11:50:52+00:00,746126235,746126196,1,Zkc131,Azkaban,
+2016-10-25T11:50:29+00:00,746126196,345851049,1,Zkc131,Azkaban,
+2016-10-25T11:36:36+00:00,746124462,746112809,1,Zkc131,MapR,
+2016-10-25T11:19:00+00:00,746122560,745722566,1,Zkc131,Apache Hive,
+2016-10-25T11:14:21+00:00,746122166,745471535,1,Zkc131,Cascading (software),
+2016-10-25T03:54:48+00:00,746077065,733857202,1,Zkc131,Cascading,
+2016-10-25T03:39:51+00:00,746075279,746074111,1,Zkc131,Franz Kafka,
+2016-10-25T03:34:29+00:00,746074695,746074252,1,Zkc131,Places in Harry Potter,
+2016-10-25T03:30:31+00:00,746074252,745153739,1,Zkc131,Places in Harry Potter,
+2016-10-25T03:29:38+00:00,746074162,742494382,1,Zkc131,Flume,
+2016-10-25T03:29:11+00:00,746074111,745841009,1,Zkc131,Franz Kafka,
+2016-10-25T03:25:17+00:00,746073655,739427473,1,Zkc131,MapR,
+2016-10-25T03:24:51+00:00,746073594,742442750,1,Zkc131,S4,
+2016-10-23T15:32:32+00:00,745827767,745678676,0,92.45.144.90,Amazon Mechanical Turk,
+2016-10-17T20:09:27+00:00,744847993,744014785,0,Exdejesus,Amazon S3,/* Notable users */
+2016-10-16T08:00:44+00:00,744596601,744017245,0,InternetArchiveBot,Apache HBase,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.5)
+2016-10-04T15:44:54+00:00,742587037,741921835,0,50.235.40.14,Amazon Elastic Compute Cloud,Updated with new Reserved Instance types announced by AWS
+2016-10-22T22:34:51+00:00,745722566,745722288,0,80.221.159.67,Apache Hive,"/* Architecture */ Add [[Template:Prose]], section, date=October 2016"
+2016-09-22T07:31:56+00:00,740628394,740628032,0,Materialscientist,AWS Elastic Beanstalk,Reverted edits by [[Special:Contributions/180.211.99.238|180.211.99.238]] ([[User talk:180.211.99.238|talk]]) ([[WP:HG|HG]]) (3.1.20)
+2016-10-25T04:10:39+00:00,746078898,745976086,0,Fbergo,Amazon Elastic Compute Cloud,reverted good faith edits by Narniawang (WP:OVERCAT)
+2016-09-30T21:33:50+00:00,741975731,741975451,0,W Nowicki,Apache CouchDB,/* Enterprises that use CouchDB */ reduce uncited promotion
+2016-10-24T15:08:54+00:00,745978367,745976556,0,Renamed user 8gzkdu68phsoyd2,Amazon S3,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Narniawang|Narniawang]] ([[User talk:Narniawang|talk]]): Not a valid cat. ([[WP:TW|TW]])
+2016-10-20T00:42:05+00:00,745232958,742863856,0,2620:10D:C092:180:0:0:1:5669,Apache Hive,grammar
+2016-10-21T06:38:14+00:00,745453139,745452893,0,183.82.113.154,Amazon S3,
+2016-10-11T15:59:21+00:00,743844407,742752127,0,41.130.33.24,Apache Lucene,
+2010-02-23T10:29:38+00:00,345851049,189287634,0,Michaeltobbylee,Azkaban,
+2016-06-28T05:20:52+00:00,727317431,723953741,0,Marcocapelle,Apache Oozie,category deleted per Wikipedia:Categories_for_discussion/Log/2016_June_20#Category:Workflow_Scheduler_System
+2016-10-21T09:53:57+00:00,745471535,726710782,0,Bender the Bot,Cascading (software),/* Uses of Cascading */http&rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]
+2016-10-21T14:36:48+00:00,745506861,745506804,0,191.6.6.15,Bigtable,
+2016-08-10T15:12:56+00:00,733857202,578858111,0,Nick Number,Cascading,added R tag
+2016-10-16T08:11:47+00:00,744597499,740509454,0,InternetArchiveBot,Apache Solr,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.2.5)
+2016-10-20T20:36:49+00:00,745387600,742689325,0,Equinox,BSON,the second syllable is a [[schwa]]. compare [[JSON]]
+2016-07-25T12:12:37+00:00,731446451,682515166,0,Kku,Apache OpenNLP,l
+2016-10-08T22:07:24+00:00,743268499,742667715,0,Vítor,Bigtable,Reverted 1 edit by [[Special:Contributions/72.80.48.119|72.80.48.119]] identified as test/vandalism using [[WP:STiki|STiki]]
+2016-10-20T09:02:12+00:00,745291734,745106461,0,Yobot,Elasticsearch,/* History */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12095)
+2016-10-05T12:59:14+00:00,742733458,741973094,0,205.156.136.229,Franz Kafka,/* External links */ added link to extensive excerpts from Kafka's diaries
+2016-10-04T01:52:00+00:00,742494382,739483508,0,Redhorse819,Flume,/* Flow measurement flume */ link
+2016-10-23T17:22:38+00:00,745841009,745822423,0,Gerda Arendt,Franz Kafka,"Undid revision 745822423 by [[Special:Contributions/Saul Grant|Saul Grant]] ([[User talk:Saul Grant|talk]]) only true for the longest time, but not the last years of his life"
+2016-09-28T01:02:47+00:00,741519084,735488426,0,PericlesofAthens,Cassandra,/* Family and gift of prophecy */
+2016-10-06T01:08:57+00:00,742823745,740302701,0,Look2See1,Google App Engine,/* External links */
+2016-10-10T19:40:50+00:00,743698793,743355398,0,Cydebot,Heroku,"Robot - Moving category Companies based in San Francisco, California to [[:Category:Companies based in San Francisco]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]]."
+2016-10-22T20:54:12+00:00,745710373,745709762,0,80.221.159.67,Heroku,"/* Architecture */ Add [[Template:MOS]], section, date=October 2016"
+2016-09-21T20:10:16+00:00,740554750,740553680,0,W Nowicki,Hypertable,move one more into ref
+2014-02-14T18:42:07+00:00,595482086,420187297,0,DavidBiesack,Hadoop Distributed File System,"linked section name uses sentence case, not title case"
+2016-09-14T16:38:31+00:00,739427473,739426531,0,W Nowicki,MapR,add last week's news of CEO shakeup
+2016-10-22T22:20:18+00:00,745720768,745414920,0,Ajav13,Machine learning,/* Model assessments */
+2016-10-18T22:38:15+00:00,745031999,744751086,0,Dwo,MongoDB,/* Main features */ [[MOS:ANDOR]]
+2016-10-22T09:24:12+00:00,745633571,745633346,0,Notque,MongoDB,/* MongoDB World */ - remove more marketing
+2016-10-23T01:03:49+00:00,745739765,745346421,0,Pwforaker,JSON,/* AJAJ */ typo
+2016-07-31T06:38:50+00:00,732330074,732329945,0,138.80.98.88,Natural Language Toolkit,"Drop stale discussion of NLTK-Lite, which is no longer pertinent as it is more than a decade in the past"
+2016-10-20T16:13:32+00:00,745346421,745331000,0,Mindmatrix,JSON,Reverted edits by [[Special:Contribs/80.229.39.162|80.229.39.162]] ([[User talk:80.229.39.162|talk]]) to last version by FockeWulf FW 190
+2016-10-21T00:15:30+00:00,745414920,745396639,0,Flyer22 Frozen,Machine learning,Reverted edits by [[Special:Contribs/An Inconvenient Truth|An Inconvenient Truth]] ([[User talk:An Inconvenient Truth|talk]]) to last version by Serols
+2016-08-31T23:48:14+00:00,737135116,729436221,0,W Nowicki,Pivotal Greenplum Database,remove the promotion of MamothDB which does not mention this subject
+2016-10-19T15:25:31+00:00,745153739,745153720,0,ClueBot NG,Places in Harry Potter,"Reverting possible vandalism by [[Special:Contribs/86.159.241.133|86.159.241.133]] to version by Lord Opeth. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2802957) (Bot)"
+2016-08-21T08:37:36+00:00,735518879,730627674,0,Marcocapelle,QuickCode,removed [[Category:Data collection]]; added [[Category:Web analytics]] using [[WP:HC|HotCat]]
+2016-10-03T22:39:20+00:00,742469799,742360992,0,Crou,Protocol Buffers,Release version
+2016-10-19T07:55:45+00:00,745104498,743710811,0,Sazzad16,Redis,Release 3.2.4
+2016-10-14T18:48:31+00:00,744362604,744309444,0,Ananimo,R (programming language),Date of first release
+2015-07-17T05:55:15+00:00,671816460,671814273,0,Arthur Rubin,Thrift,Reverted edits by [[Special:Contribs/99.109.124.73|99.109.124.73]] ([[User talk:99.109.124.73|talk]]) to last version by Chruck
+2016-10-03T18:57:18+00:00,742442750,740294470,0,Prisencolin,S4,/* Other uses */
+2016-08-12T10:36:15+00:00,734133076,726782501,0,Materialscientist,Weka (software),Reverted edits by [[Special:Contribs/121.200.49.66|121.200.49.66]] ([[User talk:121.200.49.66|talk]]) to last version by 49.248.33.154
+2016-09-21T22:50:47+00:00,740574147,728974664,0,W Nowicki,Voldemort (distributed data store),unobfuscate an acronym and remove potentially dated vague sentence
+2016-10-13T19:52:49+00:00,744208380,744208352,0,Northamerica1000,Yahoo! Pipes,Added {{[[Template:refimprove|refimprove]]}} tag to article ([[WP:TW|TW]])
+2016-08-26T00:01:02+00:00,736214621,735711180,0,52.62.58.93,AWS Elastic Beanstalk,
+2011-10-26T16:13:39+00:00,457506764,454984604,0,Samdutton,Amazon Elastic Compute Cloud,/* Virtual machines */ removed redundant line space
+2013-12-30T12:16:18+00:00,588359739,588359511,0,117.204.125.218,Amazon S3,/* S3 API and competing services */  added link to Google Cloud Storage as S3 interoperable
+2014-07-15T00:56:01+00:00,616986918,615968805,0,199.241.200.248,AWS Elastic Beanstalk,/* Competitors */
+2014-07-03T10:02:13+00:00,615408841,615399238,0,Thumperward,Amazon Elastic Compute Cloud,Added {{[[Template:lead too short|lead too short]]}} tag to article ([[WP:TW|TW]])
+2012-07-03T10:27:58+00:00,500467053,497119807,0,Sambonim,Amazon Elastic Compute Cloud,/* See also */
+2016-03-10T23:34:40+00:00,709443250,709055566,0,173.73.242.76,Amazon S3,
+2014-01-16T16:34:27+00:00,590986025,590985758,0,Chester20,Amazon S3,/* Notable uses */ Added a link to an internal page
+2014-10-27T14:13:24+00:00,631324024,631122169,0,Ettrig,Amazon Mechanical Turk,
+2013-08-15T04:48:27+00:00,568609265,568609184,0,Cloud guru28,Amazon Elastic Compute Cloud,/* See also */
+2011-03-30T13:27:20+00:00,421480455,415652035,0,66.232.97.32,Amazon Mechanical Turk,/* See also */
+2011-10-03T01:12:34+00:00,453620362,453617831,0,AnomieBOT,Amazon Mechanical Turk,Dating maintenance tags: {{Deadlink}}
+2015-05-07T02:19:13+00:00,661193704,658794287,0,Daniel Mietchen,Amazon S3,better write that out here
+2012-02-27T22:29:56+00:00,479196955,476985616,0,Piotrus,Amazon Mechanical Turk,alexa table
+2010-09-10T11:19:58+00:00,384004563,375057347,0,88.96.112.180,Amazon S3,/* Notable uses */
+2011-02-22T06:07:10+00:00,415275881,414796251,0,129.97.235.30,Amazon Elastic Compute Cloud,/* Pricing */
+2012-03-12T14:11:23+00:00,481515454,480537367,0,92.29.129.88,Amazon Elastic Compute Cloud,/* Elastic compute units */
+2011-01-08T17:26:51+00:00,406708485,406540282,0,William Avery,Amazon S3,Disambiguated: [[Ajax]] → [[Ajax (programming)]] using [[tools:~dispenser/view/Dab_solver|Dab solver]]
+2011-05-23T22:17:52+00:00,430583449,429261665,0,Daniel.Cardenas,Amazon S3,0.1% of a month translates to approximately 43 minutes per month.<ref> 60 min/hour * 24 hours in a day * 30 days * 0.1% = 43.2 </ref>
+2014-05-30T20:31:01+00:00,610839040,610820636,0,24.5.40.101,Amazon S3,/* Notable users */
+2013-03-07T06:52:55+00:00,542531898,540515860,0,Vincent Lextrait,Apache HBase,
+2015-01-24T18:19:08+00:00,643987752,633584085,0,67.169.45.47,Apache HBase,/* See also */
+2015-07-07T18:28:41+00:00,670399111,669762459,0,64.234.49.106,Apache CouchDB,incorrect English
+2014-06-12T20:22:46+00:00,612679440,610284385,0,71.178.199.178,Apache Hive,
+2014-04-12T01:02:07+00:00,603817037,593863372,0,ScotXW,Apache CouchDB,added [[Category:Database-related software for Linux]] using [[WP:HC|HotCat]]
+2012-06-23T07:29:11+00:00,498954186,494566008,0,213.54.108.126,Apache CouchDB,"/* Accessing data via HTTP */  remove redundant ""using"""
+2013-06-03T09:27:26+00:00,558100408,557274963,0,Niceguyedc,Apache Hive,[[:en:WP:CLEANER|WPCleaner]] v1.27 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Snappy]]
+2011-02-08T16:07:52+00:00,412739701,412739213,0,194.78.35.195,Apache HBase,
+2016-07-21T06:24:21+00:00,730802328,728026920,0,61.30.51.61,Apache HBase,
+2015-02-10T13:46:33+00:00,646497550,646497284,0,62.214.21.170,Apache Lucene,/* Users */
+2010-03-25T16:50:20+00:00,351994772,351989404,0,Rror,Apache Lucene,/* Lucene-based projects */ page move
+2013-01-02T22:34:27+00:00,530989616,520921318,0,Aleroyw,Apache Hive,
+2016-07-16T03:19:41+00:00,730008987,729287907,0,CoatThese,Apache Lucene,"Changed the mention of the programming language Delphi to Object Pascal. Delphi is the IDE, not the programming language"
+2012-09-27T14:43:25+00:00,514810138,514810070,0,Kmote,Apache Hive,/* Features */
+2014-01-28T18:16:47+00:00,592828607,591945134,0,Josve05a,Apache Hive,[[:en:WP:CLEANER|WPCleaner]] v1.31 - Internal link written as an external link (Fixed using [[WP:WCW]])
+2015-10-21T18:13:14+00:00,686845591,686820799,0,130.126.255.188,Apache Lucene,/* Lucene-based projects */
+2014-01-12T21:04:54+00:00,590412282,584362862,0,The Transhumanist,Apache OpenNLP,/* See also */ add link
+2014-04-23T14:19:41+00:00,605458201,573117467,0,66.170.252.1,Apache Oozie,
+2015-10-31T05:48:21+00:00,688333603,688265789,0,BG19bot,Apache Oozie,[[WP:CHECKWIKI]] error fix for #03.  Missing Reflist.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11700)
+2008-05-29T02:01:09+00:00,215641695,72338492,0,Neelix,Apache Oozie,[[WP:AES|←]]Redirected page to [[Mahout]]
+2014-04-16T16:11:25+00:00,604465843,604272275,0,2003:72:8E39:FE6D:4092:A9F0:50CF:864,Apache Solr,/* Features */ typo
+2015-04-20T04:47:55+00:00,657282220,653463809,0,112.216.81.243,Apache Solr,
+2010-06-05T22:37:15+00:00,366266973,363877437,0,BOT-Superzerocool,BSON,robot Modifying: [[de:JavaScript Object Notation#Ähnliche Technologien]]
+2015-06-25T10:27:20+00:00,668597434,667955057,0,Mideal,Apache Solr,/* Features */
+2011-07-01T05:13:52+00:00,437180192,432524692,0,24.25.43.54,Apache Solr,add 3.3 release
+2014-03-28T21:58:28+00:00,601718609,592122457,0,Tsaloranta,BSON,"add links to alternative binary json encodings: Smile, UBJSON"
+2010-04-13T20:33:46+00:00,355823613,354518171,0,Cybercobra,BSON,/* Data types and syntax */ retarget
+2010-09-14T12:59:43+00:00,384778756,378205465,0,Roman Dawydkin,BSON,interwiki
+2011-12-17T16:28:00+00:00,466353988,466352931,0,Andy Dingley,Bigtable,Reverted 2 edits by [[Special:Contributions/219.143.129.22|219.143.129.22]] ([[User talk:219.143.129.22|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Bkonrad. ([[WP:TW|TW]])
+2013-10-26T19:06:20+00:00,578858111,578857765,0,ENeville,Cascading,#REDIRECT [[Cascade]] {{R from modification}}.
+2012-11-27T20:11:57+00:00,525199590,523768520,0,Fintler,Bigtable,/* History */ Replaced incorrect statement that says Spanner replaces BigTable. It's more of an evolutionary thing.
+2013-08-20T21:19:31+00:00,569478581,569478564,0,Discospinster,Bigtable,Reverted edits by [[Special:Contributions/115.113.30.230|115.113.30.230]] ([[User talk:115.113.30.230|talk]]) to last revision by 66.235.5.133 ([[WP:HG|HG]])
+2014-10-01T21:26:44+00:00,627872554,627499735,0,Intgr,Bigtable,/* Design */ Disambiguate
+2013-04-30T17:19:55+00:00,552912607,550321765,0,Larrymcp,Bigtable,Fix spelling
+2011-09-08T12:05:12+00:00,449125451,446235861,0,81.231.245.214,Bigtable,/* External links */ that space doesn't exist in the target
+2014-10-28T14:44:56+00:00,631469408,624270841,0,95.91.208.88,Cascading (software),latest release version is 2.6
+2013-10-26T19:03:12+00:00,578857763,578849326,0,ENeville,Cascading (software),ENeville moved page [[Cascading]] to [[Cascading (software)]]: Returning gerund to dab redirect: not primary per [[WP:PRIMARYTOPIC]].
+2016-04-10T14:00:58+00:00,714558089,714469636,0,Edward321,Cassandra,rv to better version
+2013-05-10T19:05:02+00:00,554487085,552226989,0,Hobart,Cassandra,Wikified reference to Harry Potter character
+2013-12-03T00:03:42+00:00,584285097,584285023,0,Clarkcj12,Cassandra,Reverted edits by [[Special:Contributions/76.104.55.190|76.104.55.190]] ([[User talk:76.104.55.190|talk]]): nonconstructive edits ([[WP:HG|HG]])
+2012-10-26T15:08:38+00:00,519959568,519958908,0,2.88.82.185,Elasticsearch,
+2016-08-22T12:03:05+00:00,735685441,734804439,0,217.36.84.26,Elasticsearch,Corrected link to point to the correct type of search engine
+2013-04-26T04:45:37+00:00,552226989,551211317,0,Pmj,Cassandra,grammar; whitespace
+2011-07-08T13:43:33+00:00,438414387,438414123,0,173.70.60.254,Flume,/* External links */
+2012-02-02T00:27:56+00:00,474494475,458813828,0,Astros4477,Flume,/* See also */ fixed link
+2012-10-15T09:00:47+00:00,517895346,516332097,0,Toreau,Elasticsearch,/* Comparison to other software */
+2015-05-24T22:23:13+00:00,663863904,663863827,0,SilverSurfingSerpent,Flume,/* Flow measurement flume */ No source.
+2012-08-29T07:32:48+00:00,509730815,500459721,0,Grutman,Flume,diff with aquaduct
+2012-05-12T17:58:48+00:00,492234470,491888381,0,Helpful Pixie Bot,Franz Kafka,ISBNs (Build KH)
+2011-07-16T07:59:18+00:00,439748145,439556093,0,78.184.229.217,Franz Kafka,/* Personality */
+2012-11-20T01:20:52+00:00,523942955,523855045,0,ZéroBot,Franz Kafka,r2.7.1) (Robot: Adding [[ia:Franz Kafka]]
+2012-04-10T23:29:44+00:00,486715450,486686912,0,Lembit Staan,Franz Kafka,Undid revision 486686912 by [[Special:Contributions/67.194.69.52|67.194.69.52]] ([[User talk:67.194.69.52|talk]])
+2015-08-13T01:12:26+00:00,675839977,672701822,0,Vinocui,Google App Engine,/* External links */
+2010-05-11T14:00:54+00:00,361472962,361433170,0,Littleolive oil,Franz Kafka,"Undid revision 361433170 by [[Special:Contributions/77.185.213.214|77.185.213.214]] ""work"" is the subject and is singular ([[User talk:77.185.213.214|talk]])"
+2012-07-17T11:06:54+00:00,502775276,500750200,0,Derek R Bullamore,Google App Engine,Filling in 11 references using [[WP:REFLINKS|Reflinks]]
+2010-05-12T21:11:53+00:00,361755708,361755652,0,152.7.51.187,Google App Engine,"Yeah, periods!"
+2011-03-22T18:40:30+00:00,420187297,370356694,0,EmausBot,Hadoop Distributed File System,Bot: Fixing double redirect to [[Apache Hadoop#Hadoop Distributed File System]]
+2014-12-11T06:52:25+00:00,637590760,637482686,0,79.179.121.21,Google App Engine,"A ""naked domain"" lets users access your app directly at the domain name (http://example.com), without requiring a subdomain such as http://www.example.com or http://myapp.example.com. You can set up your App Engine app with a naked domain in the Google De"
+2010-09-02T21:31:08+00:00,382553153,370504426,0,206.169.31.250,Hypertable,/* References */
+2014-07-07T16:41:13+00:00,615968550,615114193,0,72.215.161.77,Heroku,/* Competitors */
+2014-03-06T18:21:34+00:00,598431065,597236794,0,152.179.69.246,Heroku,Update key people
+2013-04-25T17:04:36+00:00,552146456,545430010,0,2602:306:CE87:7230:30A1:BCEE:F481:A1C1,Heroku,/* Competitors */
+2010-11-07T20:47:43+00:00,395414307,395413834,0,67.180.78.218,Heroku,
+2013-09-12T04:41:36+00:00,572577609,568871731,0,3ncrypter,Heroku,/* History */
+2015-07-04T07:39:43+00:00,669887486,669769096,0,BG19bot,Heroku,[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11282)
+2011-07-25T09:43:21+00:00,441320382,441320345,0,88.168.232.110,Hypertable,
+2015-08-06T14:50:25+00:00,674847193,674846943,0,138.91.123.70,JSON,
+2015-06-28T00:43:58+00:00,668976668,667244196,0,Dodiad,JSON,"/* Data types, syntax and example */"
+2013-04-04T09:05:48+00:00,548630897,548630759,0,Yenweiliu1,Hypertable,
+2011-09-16T08:38:55+00:00,450775069,450774987,0,Vrenator,JSON,Reverted edits by [[Special:Contributions/122.177.134.150|122.177.134.150]] to last version by ImageRemovalBot ([[User:Ale_jrb/Scripts/igloo|GLOO]])
+2013-05-15T18:15:28+00:00,555247835,555242457,0,Transcendence,JSON,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/50.20.87.130|50.20.87.130]] ([[User talk:50.20.87.130|talk]]): Rv edit that serves little purpose. ([[WP:TW|TW]])
+2014-09-10T17:08:31+00:00,624968685,624658444,0,Rnjckhpr,JSON,corrected respell
+2014-08-10T03:03:18+00:00,620587899,619047959,0,Daniel347x,Machine learning,Minor grammar fix
+2013-09-23T23:15:44+00:00,574250828,574250772,0,117.193.66.93,Machine learning,/* Human interaction */
+2012-03-12T08:40:30+00:00,481482926,481482691,0,87.198.53.168,Machine learning,/* Clustering */
+2012-08-21T00:20:44+00:00,508372932,508023841,0,Siculars,Machine learning,
+2016-04-18T21:19:47+00:00,715937798,715537165,0,Vladiatorr,Machine learning,/* See also */
+2014-03-07T01:26:58+00:00,598486722,598486689,0,Funandtrvl,MapR,"added [[Category:Companies based in San Jose, California]] using [[WP:HC|HotCat]]"
+2011-06-27T21:07:02+00:00,436565997,436428888,0,Athaenara,MapR,"advert, no indication of notability, citation needed"
+2010-02-27T01:12:51+00:00,346602769,346561623,0,James Kidd,Machine learning,Spacing
+2015-02-12T03:25:49+00:00,646746338,637302936,0,Vampiro993,MapR,
+2014-11-11T14:07:13+00:00,633382074,633381888,0,CanadianLinuxUser,MongoDB,Reverted edits by [[Special:Contributions/115.114.9.238|115.114.9.238]] ([[User talk:115.114.9.238|talk]]): nonconstructive edits ([[WP:HG|HG]])
+2012-02-08T22:13:48+00:00,475836583,451410171,0,184.57.32.14,MapR,+Category
+2013-11-12T16:04:21+00:00,581347019,581346918,0,The Herald,MongoDB,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/198.228.198.222|198.228.198.222]] ([[User talk:198.228.198.222|talk]]) to last version by Adallas
+2015-09-21T23:31:51+00:00,682165332,682165235,0,63.228.222.118,MongoDB,/* Performance */
+2011-09-20T17:29:30+00:00,451533827,451532857,0,Flying sheep,MongoDB,/* Master-slave */ emspaces in code?
+2014-08-21T05:34:17+00:00,622155903,622155881,0,77.56.53.183,MongoDB,
+2015-07-06T06:55:59+00:00,670160982,669992408,0,BG19bot,Pivotal Greenplum Database,[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11282)
+2012-03-27T21:43:08+00:00,484251610,478193231,0,ZéroBot,Natural Language Toolkit,r2.7.1) (Robot: Adding [[de:Natural Language Toolkit]]
+2014-10-23T09:36:41+00:00,630770749,628885349,0,Cs california,Natural Language Toolkit,Some features added
+2015-07-26T18:20:08+00:00,673186182,666515287,0,Thorwald,Natural Language Toolkit,updated release version/date
+2012-07-07T19:42:07+00:00,501142642,500556555,0,The Earwig,Natural Language Toolkit,clean up grammar/punctuation
+2014-01-12T20:39:09+00:00,590408876,590401077,0,Mezigue,Places in Harry Potter,
+2011-07-18T00:52:27+00:00,440037571,440008474,0,86.130.243.235,Places in Harry Potter,/* Hogsmeade */
+2013-05-20T23:40:47+00:00,556023439,555295129,0,Tang99,Places in Harry Potter,Added photo to page
+2010-06-22T13:11:08+00:00,369542311,368898190,0,67.191.48.145,Places in Harry Potter,"/* Beauxbatons */  appeared>appear, it's lit"
+2013-12-07T11:59:03+00:00,584981936,584981881,0,☼,Protocol Buffers,Reverted 1 edit by [[Special:Contributions/Googlevomit|Googlevomit]] ([[User talk:Googlevomit|talk]]) to last revision by 2Awwsome. ([[WP:TW|TW]])
+2014-10-30T18:57:49+00:00,631787118,624456812,0,Jjlin316,Protocol Buffers,Showing 2.6.1 as latest version
+2011-08-06T00:31:46+00:00,443269549,443157399,0,XP1,R (programming language),
+2015-05-26T18:37:35+00:00,664157029,647577704,0,Intgr,QuickCode,Remove unnecessary vertical space before section title
+2012-11-16T12:17:42+00:00,523315368,521992412,0,R'n'B,Protocol Buffers,"Disambiguated: [[services]] → [[service (systems architecture)]], [[schema]] → [[wikt:schema]]"
+2012-08-02T06:53:12+00:00,505385196,449000059,0,OKBot,QuickCode,Bot: Updating Alexa ranking ([[User talk:OsamaK/AlexaBot.js|Help get more pages covered]])
+2010-12-13T01:14:17+00:00,402058881,402057794,0,Intgr,QuickCode,See also: * [[Data driven journalism]]
+2013-09-18T12:19:18+00:00,573489455,569171398,0,Compfreak7,Protocol Buffers,Filling in 1 references using [[WP:REFLINKS|Reflinks]]
+2012-05-02T21:53:55+00:00,490369296,489772806,0,EmausBot,Redis,r2.6.4) (Robot: Adding [[uk:Redis]]
+2011-09-08T14:24:42+00:00,449142154,447804549,0,141.64.29.229,Redis,
+2010-07-11T09:05:07+00:00,372872886,372855476,0,Mrfebruary,R (programming language),/* Editors and IDEs */ NppToR: cite web
+2012-07-29T15:10:34+00:00,504773087,503907921,0,Xqbot,R (programming language),r2.7.3) (Robot: Modifying [[fr:GNU R]] to [[fr:R (langage de programmation et environnement statistique)]]
+2010-12-05T09:34:51+00:00,400643232,400542521,0,Mortense,Redis,"/* Data model */ Result of Reference desk/Language question on 2010-12-04, <http://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Language>, ""Possessive for proper noun ending in ""s""""."
+2016-08-24T00:03:13+00:00,735919809,735595361,0,54.240.196.186,Redis,"/* External links */ added ""What is Redis?"" page"
+2015-11-07T17:32:13+00:00,689510035,689509713,0,Id4abel,R (programming language),/* Examples */ Moved Structure of a function above Mandelbrot set as it is more fundamental and less complex
+2010-07-22T23:55:31+00:00,374943419,371800636,0,Truthanado,S4,/* As a train line */  add Berlin and Munich S4 lines
+2011-10-18T15:16:01+00:00,456195029,455169483,0,128.232.251.241,S4,
+2014-04-28T15:10:08+00:00,606188730,606188456,0,Ram Zaltsman,S4,/* Containing S4 */
+2013-08-05T01:52:11+00:00,567195634,567195563,0,RockJuno,S4,"/* See also */  Added Samsung Galaxy S4 to technology, so I removed it from the see also section"
+2014-05-08T13:40:55+00:00,607628760,606748496,0,Chruck,Thrift,"/* See also */ ""the thrift shop"" -> ""a thrift shop or a thrift store"""
+2015-02-10T00:20:21+00:00,646424911,646424740,0,94.195.225.195,Weka (software),
+2010-01-29T19:15:30+00:00,340766566,324026619,0,74.104.34.45,Thrift,
+2013-08-06T05:06:46+00:00,567358341,566522807,0,Lotje,Weka (software),"Filling in 1 references using [[WP:REFLINKS|Reflinks]], see also section"
+2014-03-12T17:04:10+00:00,599309678,593288137,0,119.63.177.92,Voldemort (distributed data store),Update lastest release. See http://engineering.linkedin.com/voldemort/announcing-voldemort-160-open-source-release
+2011-05-11T10:21:40+00:00,428560446,428560362,0,59.178.206.47,Weka (software),Undid revision 428560362 by [[Special:Contributions/59.178.206.47|59.178.206.47]] ([[User talk:59.178.206.47|talk]])
+2012-07-14T17:26:30+00:00,502259762,486261458,0,Cardinal Direction,Yahoo! Pipes,"minor typo ""pipe edition"" --> ""pipe editing"""
+2010-06-07T18:01:40+00:00,366607801,366350513,0,128.231.189.98,Weka (software),
+2015-08-05T05:04:31+00:00,674632254,674551286,0,BG19bot,Yahoo! Pipes,/* History */[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]]
+2013-10-06T05:02:25+00:00,575949726,574805780,0,Andrew Maiman,Yahoo! Pipes,clean up using [[Project:AWB|AWB]]
+2011-08-06T19:57:55+00:00,443396162,439227751,0,24.222.40.193,Yahoo! Pipes,/* External links */  broken link removed

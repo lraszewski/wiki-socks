@@ -1,0 +1,33 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-05-15T17:03:48+00:00,1023302810,1023302772,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T17:03:32+00:00,1023302772,1023302401,1,94seulgi,Compiler,
+2021-05-15T16:54:16+00:00,1023301569,1023301066,1,94seulgi,Compiler,
+2021-05-15T16:48:01+00:00,1023300748,1023299918,1,94seulgi,Compiler,
+2021-05-15T16:39:27+00:00,1023299741,1023299640,1,94seulgi,Compiler,
+2021-05-15T16:38:13+00:00,1023299576,1023298247,1,94seulgi,Compiler,
+2021-05-15T15:31:27+00:00,1023290407,1023290204,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T15:29:51+00:00,1023290204,1023290092,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T15:29:00+00:00,1023290092,1023289800,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T15:26:55+00:00,1023289800,1023289634,1,94seulgi,Compiler,
+2021-05-15T15:25:40+00:00,1023289634,1023289528,1,94seulgi,Compiler,
+2021-05-15T15:25:01+00:00,1023289528,1023289297,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T15:23:34+00:00,1023289297,1023262790,1,94seulgi,Compiler,
+2021-05-15T08:06:26+00:00,1023241523,1023241412,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T08:05:04+00:00,1023241412,1023241331,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T08:04:03+00:00,1023241331,1023241241,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T08:02:46+00:00,1023241241,1023241111,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T08:01:08+00:00,1023241111,1023240598,1,94seulgi,Compiler,/* Compiler execution process */
+2021-05-15T07:55:54+00:00,1023240598,1023239565,1,94seulgi,Compiler,
+2021-05-15T07:42:40+00:00,1023239565,1023239488,1,94seulgi,Compiler,
+2021-05-15T07:41:26+00:00,1023239488,1022356274,1,94seulgi,Compiler,
+2021-05-17T08:07:24+00:00,1023597991,1023592021,1,Dbtjdgns132,Compiler,
+2021-05-17T06:20:23+00:00,1023588372,1023449502,1,Dbtjdgns132,Compiler,
+2021-05-16T12:01:05+00:00,1023438849,1023433041,1,Dbtjdgns132,Compiler,
+2021-05-16T09:35:36+00:00,1023422387,1023303275,1,Dbtjdgns132,Compiler,
+2021-05-15T17:07:27+00:00,1023303275,1023302810,0,SunDawn,Compiler,"Restored revision 1023302401 by [[Special:Contributions/SunDawn|SunDawn]] ([[User talk:SunDawn|talk]]): Please get on the talk page before reverting, I will revert to the latest stable before edit war"
+2021-05-16T13:22:54+00:00,1023449502,1023438849,0,Murray Langton,Compiler,Please discuss this on talk page.  Undid text which almost duplicates material already in article. Undid revision 1023438849 by [[Special:Contributions/Dbtjdgns132|Dbtjdgns132]] ([[User talk:Dbtjdgns132|talk]])
+2021-05-17T06:55:53+00:00,1023592021,1023588372,0,Murray Langton,Compiler,Please discuss on talk page instead of continually adding duplicate info. Undid revision 1023588372 by [[Special:Contributions/Dbtjdgns132|Dbtjdgns132]] ([[User talk:Dbtjdgns132|talk]])
+2021-05-15T16:27:44+00:00,1023298247,1023290407,0,MrOllie,Compiler,"Restored revision 1023262790 by [[Special:Contributions/Murray Langton|Murray Langton]] ([[User talk:Murray Langton|talk]]): Unsourced, redundant"
+2021-05-15T11:41:44+00:00,1023262790,1023241523,0,Murray Langton,Compiler,Reverted edits by [[Special:Contribs/94seulgi|94seulgi]] ([[User talk:94seulgi|talk]]) to last version by 2409:4070:4009:4C18:9D95:2932:395C:48F9
+2021-05-16T11:15:45+00:00,1023433041,1023422387,0,MrOllie,Compiler,Restored revision 1023303275 by [[Special:Contributions/SunDawn|SunDawn]] ([[User talk:SunDawn|talk]]): Rv apparent sock puppet
+2021-05-15T16:40:57+00:00,1023299918,1023299741,0,2603:6080:6C04:C700:900F:572:7EFF:875F,Compiler,Undid revision 1023299741 by [[Special:Contributions/94seulgi|94seulgi]] ([[User talk:94seulgi|talk]]) Reverting Vandalism

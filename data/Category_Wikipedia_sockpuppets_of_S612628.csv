@@ -1,0 +1,531 @@
+timestamp,revid,parentid,sock,user,page,message
+2017-12-12T18:58:04+00:00,815094235,815094154,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T18:57:30+00:00,815094154,815093967,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T18:56:12+00:00,815093967,815093800,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T18:54:49+00:00,815093800,815093646,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T18:53:40+00:00,815093646,815093394,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T18:51:47+00:00,815093394,815093235,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T18:50:38+00:00,815093235,815093134,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T18:49:50+00:00,815093134,815093036,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T18:48:56+00:00,815093036,815092869,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T18:47:43+00:00,815092869,813937119,1,S612628,Deaths in December 2011,/* 6 */
+2017-12-12T22:47:31+00:00,815128739,815120099,1,612628ab,Deaths in November 2017,/* 1 */
+2017-12-12T22:45:53+00:00,815128510,815128473,1,612628ab,Deaths in August 2013,/* 10 */
+2017-12-12T22:45:39+00:00,815128473,813581543,1,612628ab,Deaths in August 2013,/* 10 */
+2017-12-12T22:42:12+00:00,815127929,815127864,1,612628ab,Deaths in 2001,/* 31 */
+2017-12-12T22:41:48+00:00,815127864,815122029,1,612628ab,Deaths in 2001,/* 31 */
+2017-12-12T22:40:35+00:00,815127699,815123415,1,612628ab,Deaths in 1999,/* August 1999 */
+2017-12-13T05:11:23+00:00,815168645,815161278,1,612628abc,Pierce Brothers Westwood Village Memorial Park and Mortuary,/* E */
+2017-12-13T05:08:02+00:00,815168347,815168251,1,612628abc,Deaths in January 2015,/* 31 */
+2017-12-13T05:07:50+00:00,815168326,815166777,1,612628abc,Deaths in 1999,/* 29 */
+2017-12-13T05:06:56+00:00,815168251,815166570,1,612628abc,Deaths in January 2015,/* 31 */
+2017-12-13T05:05:53+00:00,815168137,815168075,1,612628abc,Deaths in November 2017,/* 26 */
+2017-12-13T05:05:23+00:00,815168075,815168043,1,612628abc,Deaths in November 2017,/* 26 */
+2017-12-13T05:05:07+00:00,815168043,815167876,1,612628abc,Deaths in November 2017,/* 26 */
+2017-12-13T05:03:22+00:00,815167876,815167361,1,612628abc,Deaths in November 2017,/* 27 */
+2017-12-13T04:58:12+00:00,815167361,815167267,1,612628abc,Deaths in November 2017,/* 14 */
+2017-12-13T04:57:09+00:00,815167267,815167117,1,612628abc,Deaths in November 2017,/* 14 */
+2017-12-13T04:55:36+00:00,815167117,815166465,1,612628abc,Deaths in November 2017,/* 14 */
+2017-12-13T04:52:07+00:00,815166777,815166762,1,612628abc,Deaths in 1999,/* 30 */
+2017-12-13T04:51:56+00:00,815166762,815165834,1,612628abc,Deaths in 1999,/* 30 */
+2017-12-13T04:49:57+00:00,815166570,815166508,1,612628abc,Deaths in January 2015,/* 31 */
+2017-12-13T04:49:17+00:00,815166508,815165018,1,612628abc,Deaths in January 2015,/* 31 */
+2017-12-13T04:48:45+00:00,815166465,815166292,1,612628abc,Deaths in November 2017,/* November 2017 */
+2017-12-13T04:46:39+00:00,815166292,815164643,1,612628abc,Deaths in November 2017,/* 3 */
+2017-12-13T04:41:47+00:00,815165834,815165790,1,612628abc,Deaths in 1999,/* 29 */
+2017-12-13T04:41:25+00:00,815165790,815165767,1,612628abc,Deaths in 1999,/* 29 */
+2017-12-13T04:41:11+00:00,815165767,815164429,1,612628abc,Deaths in 1999,/* 29 */
+2017-12-13T04:38:57+00:00,815165563,815164061,1,612628abc,Deaths in December 2016,/* 6 */
+2017-12-13T04:33:32+00:00,815165018,814596487,1,612628abc,Deaths in January 2015,/* 31 */
+2017-12-13T04:29:47+00:00,815164643,815164586,1,612628abc,Deaths in November 2017,/* 3 */
+2017-12-13T04:29:12+00:00,815164586,815163814,1,612628abc,Deaths in November 2017,/* 3 */
+2017-12-13T04:27:22+00:00,815164429,815164400,1,612628abc,Deaths in 1999,/* August 1999 */
+2017-12-13T04:27:05+00:00,815164400,815164375,1,612628abc,Deaths in 1999,/* August 1999 */
+2017-12-13T04:26:50+00:00,815164375,815164152,1,612628abc,Deaths in 1999,/* August 1999 */
+2017-12-13T04:24:38+00:00,815164152,815164095,1,612628abc,Deaths in 1999,/* 12 */
+2017-12-13T04:24:05+00:00,815164095,815162504,1,612628abc,Deaths in 1999,/* 3 */
+2017-12-13T04:23:44+00:00,815164061,815164032,1,612628abc,Deaths in December 2016,/* 2 */
+2017-12-13T04:23:29+00:00,815164032,815163988,1,612628abc,Deaths in December 2016,/* 2 */
+2017-12-13T04:23:06+00:00,815163988,815163203,1,612628abc,Deaths in December 2016,/* 2 */
+2017-12-13T04:21:09+00:00,815163814,815163776,1,612628abc,Deaths in November 2017,/* 1 */
+2017-12-13T04:20:50+00:00,815163776,815163600,1,612628abc,Deaths in November 2017,/* 1 */
+2017-12-13T04:18:48+00:00,815163600,815158286,1,612628abc,Deaths in November 2017,/* 1 */
+2017-12-13T04:16:41+00:00,815163410,814631229,1,612628abc,Deaths in December 2014,/* 1 */
+2017-12-13T04:14:38+00:00,815163203,815163146,1,612628abc,Deaths in December 2016,/* 2 */
+2017-12-13T04:14:08+00:00,815163146,815163119,1,612628abc,Deaths in December 2016,/* 2 */
+2017-12-13T04:13:51+00:00,815163119,815163089,1,612628abc,Deaths in December 2016,/* 2 */
+2017-12-13T04:13:39+00:00,815163089,814981226,1,612628abc,Deaths in December 2016,/* 2 */
+2017-12-13T04:11:03+00:00,815162829,815162621,1,612628abc,Deaths in 2001,/* 31 */
+2017-12-13T04:08:59+00:00,815162621,815133039,1,612628abc,Deaths in 2001,/* 4 */
+2017-12-13T04:07:52+00:00,815162504,815162441,1,612628abc,Deaths in 1999,/* 29 */
+2017-12-13T04:07:07+00:00,815162441,815162410,1,612628abc,Deaths in 1999,/* 7 */
+2017-12-13T04:06:49+00:00,815162410,815161933,1,612628abc,Deaths in 1999,/* 7 */
+2017-12-13T13:44:45+00:00,815216222,815200073,1,Abcd228,Deaths in October 2017,/* October 2017 */
+2017-12-13T13:41:41+00:00,815215928,815200142,1,Abcd228,Deaths in December 2014,/* December 2014 */
+2017-12-13T13:39:46+00:00,815215742,815215710,1,Abcd228,Deaths in November 2017,/* 2 */
+2017-12-13T13:39:31+00:00,815215710,815215475,1,Abcd228,Deaths in November 2017,/* November 2017 */
+2017-12-13T13:37:08+00:00,815215475,815215322,1,Abcd228,Deaths in November 2017,/* 1 */
+2017-12-13T13:35:01+00:00,815215273,815215235,1,Abcd228,Deaths in November 2017,/* November 2017 */
+2017-12-13T13:34:09+00:00,815215195,815215052,1,Abcd228,Deaths in November 2017,/* November 2017 */
+2017-12-13T13:32:22+00:00,815215052,815202802,1,Abcd228,Deaths in November 2017,/* 1 */
+2017-12-13T06:00:58+00:00,815173551,814393850,1,Abcd228,1920,/* January */
+2017-12-13T05:58:40+00:00,815173331,815173205,1,Abcd228,1891,/* January&ndash;June */
+2017-12-13T05:57:15+00:00,815173205,810619117,1,Abcd228,1891,/* July&ndash;December */
+2017-12-13T05:53:50+00:00,815172882,815172752,1,Abcd228,1969,/* December */
+2017-12-13T05:52:30+00:00,815172752,814613175,1,Abcd228,1969,/* May */
+2017-12-13T05:49:42+00:00,815172485,815172352,1,Abcd228,1980,/* August */
+2017-12-13T05:48:30+00:00,815172352,815172299,1,Abcd228,1980,/* August */
+2017-12-13T05:47:54+00:00,815172299,814640764,1,Abcd228,1980,/* August */
+2017-12-13T05:42:08+00:00,815171774,814948895,1,Abcd228,Deaths in July 2017,/* 3 */
+2017-12-13T05:37:52+00:00,815171251,815171081,1,Abcd228,Deaths in 1999,/* 7 */
+2017-12-13T05:36:07+00:00,815171081,815170650,1,Abcd228,Deaths in 1999,/* 7 */
+2017-12-13T05:33:38+00:00,815170817,815170224,1,Abcd228,Pierce Brothers Westwood Village Memorial Park and Mortuary,/* G */
+2017-12-13T05:32:16+00:00,815170697,815168137,1,Abcd228,Deaths in November 2017,/* 27 */
+2017-12-13T05:31:44+00:00,815170650,815169785,1,Abcd228,Deaths in 1999,/* 29 */
+2017-12-13T05:30:49+00:00,815170571,815163410,1,Abcd228,Deaths in December 2014,/* 1 */
+2017-12-13T05:27:35+00:00,815170224,815168645,1,Abcd228,Pierce Brothers Westwood Village Memorial Park and Mortuary,/* N */
+2017-12-13T05:27:14+00:00,815170200,815169601,1,Abcd228,Deaths in October 2017,/* 1 */
+2017-12-13T05:25:33+00:00,815170036,815166225,1,Abcd228,Deaths in December 2016,/* 2 */
+2017-12-13T05:22:48+00:00,815169785,815169625,1,Abcd228,Deaths in 1999,/* 29 */
+2017-12-14T16:25:56+00:00,815398133,815398063,1,Bas612628,Deaths in November 2017,/* 3 */
+2017-12-14T16:25:26+00:00,815398063,815398029,1,Bas612628,Deaths in November 2017,/* 3 */
+2017-12-14T16:25:12+00:00,815398029,815397957,1,Bas612628,Deaths in November 2017,/* 3 */
+2017-12-14T16:22:11+00:00,815397602,815397185,1,Bas612628,Deaths in November 2017,/* 3 */
+2017-12-14T16:18:58+00:00,815397185,815396770,1,Bas612628,Deaths in November 2017,/* 1 */
+2017-12-14T16:16:20+00:00,815396770,815300272,1,Bas612628,Deaths in November 2017,/* 1 */
+2017-12-14T19:08:24+00:00,815421897,815215969,1,Basec6126,Deaths in December 2014,/* 1 */
+2017-12-14T19:06:25+00:00,815421652,815421618,1,Basec6126,Deaths in 2000,/* May 2000 */
+2017-12-14T19:06:07+00:00,815421618,815421586,1,Basec6126,Deaths in 2000,/* May 2000 */
+2017-12-14T19:05:51+00:00,815421586,815343634,1,Basec6126,Deaths in 2000,/* May 2000 */
+2017-12-14T19:03:28+00:00,815421236,815419709,1,Basec6126,Deaths in January 2004,/* 18 */
+2017-12-14T19:02:42+00:00,815421129,815418113,1,Basec6126,Deaths in November 2017,/* 26 */
+2017-12-14T18:51:55+00:00,815419709,815419644,1,Basec6126,Deaths in January 2004,/* 18 */
+2017-12-14T18:51:30+00:00,815419644,815418463,1,Basec6126,Deaths in January 2004,/* 31 */
+2017-12-14T18:50:49+00:00,815419559,815419529,1,Basec6126,Deaths in 1999,/* August 1999 */
+2017-12-14T18:50:34+00:00,815419529,815417857,1,Basec6126,Deaths in 1999,/* August 1999 */
+2017-12-14T18:43:26+00:00,815418463,815418395,1,Basec6126,Deaths in January 2004,/* 18 */
+2017-12-14T18:43:01+00:00,815418395,815175355,1,Basec6126,Deaths in January 2004,/* 18 */
+2017-12-14T18:41:10+00:00,815418113,815418041,1,Basec6126,Deaths in November 2017,/* 27 */
+2017-12-14T18:40:40+00:00,815418041,815417284,1,Basec6126,Deaths in November 2017,/* 27 */
+2017-12-14T18:39:23+00:00,815417857,815417363,1,Basec6126,Deaths in 1999,/* August 1999 */
+2017-12-14T18:36:01+00:00,815417363,815408680,1,Basec6126,Deaths in 1999,/* 7 */
+2017-12-14T18:35:28+00:00,815417284,815417172,1,Basec6126,Deaths in November 2017,/* 26 */
+2017-12-14T18:34:38+00:00,815417172,815416710,1,Basec6126,Deaths in November 2017,/* 26 */
+2017-12-14T18:31:12+00:00,815416710,815398133,1,Basec6126,Deaths in November 2017,/* 26 */
+2017-12-14T17:31:12+00:00,815408680,815408653,1,Basec6126,Deaths in 1999,/* 12 */
+2017-12-14T17:30:58+00:00,815408653,815407918,1,Basec6126,Deaths in 1999,/* 12 */
+2017-12-14T17:25:16+00:00,815407918,815407743,1,Basec6126,Deaths in 1999,/* 7 */
+2017-12-14T17:24:03+00:00,815407743,815406743,1,Basec6126,Deaths in 1999,/* 7 */
+2017-12-14T17:21:49+00:00,815407475,815407377,1,Basec6126,List of people with breast cancer,/* Acting */
+2017-12-14T17:20:59+00:00,815407377,815406967,1,Basec6126,List of people with breast cancer,/* Acting */
+2017-12-14T17:17:46+00:00,815406967,815127122,1,Basec6126,List of people with breast cancer,/* Acting */
+2017-12-14T17:16:07+00:00,815406743,815406624,1,Basec6126,Deaths in 1999,/* 7 */
+2017-12-14T17:15:08+00:00,815406624,815200579,1,Basec6126,Deaths in 1999,/* 7 */
+2017-12-14T17:11:44+00:00,815406175,815406095,1,Basec6126,1992,/* April */
+2017-12-14T17:11:05+00:00,815406095,815269978,1,Basec6126,1992,/* April */
+2018-01-26T05:36:52+00:00,822408419,821676700,1,Chicosolares,Capital punishment in the United States,/* Among sexes */
+2018-01-26T04:45:46+00:00,822403233,821170765,1,Chicosolares,Benjamin Atkins,/* Victims */
+2018-01-25T18:55:31+00:00,822325647,822325455,1,Chicosolares,List of people executed in South Dakota,/* Individuals executed by the State of South Dakota */
+2018-01-25T18:54:16+00:00,822325455,821960711,1,Chicosolares,List of people executed in South Dakota,/* Individuals executed by the State of South Dakota */
+2018-01-25T18:47:59+00:00,822324446,822323635,1,Chicosolares,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-25T18:42:49+00:00,822323635,822323425,1,Chicosolares,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-25T18:41:34+00:00,822323425,821961207,1,Chicosolares,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T16:00:10+00:00,821954163,821950786,1,Dalengoard,List of people executed in South Dakota,/* Individuals executed by the State of South Dakota */
+2018-01-23T15:58:52+00:00,821953977,821953830,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:57:57+00:00,821953830,821953518,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:55:58+00:00,821953518,821953339,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:54:52+00:00,821953339,821952673,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:50:16+00:00,821952673,821952618,1,Dalengoard,List of people executed in Arkansas,/* See also */
+2018-01-23T15:49:55+00:00,821952618,821952317,1,Dalengoard,List of people executed in Arkansas,/* See also */
+2018-01-23T15:47:41+00:00,821952317,821952271,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:47:19+00:00,821952271,821952225,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:46:57+00:00,821952225,821952157,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:46:30+00:00,821952157,821952037,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:45:42+00:00,821952037,821951944,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:45:07+00:00,821951944,821951780,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:43:50+00:00,821951780,821951593,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:42:29+00:00,821951593,787830134,1,Dalengoard,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T15:36:22+00:00,821950786,821950408,1,Dalengoard,List of people executed in South Dakota,/* Individuals executed by the State of South Dakota */
+2018-01-23T15:33:26+00:00,821950408,821944147,1,Dalengoard,List of people executed in South Dakota,/* Individuals executed by the State of South Dakota */
+2018-01-23T15:30:14+00:00,821950017,821949916,1,Dalengoard,List of governors of Alabama,/* Living former governors */
+2018-01-23T15:29:27+00:00,821949916,821949874,1,Dalengoard,List of governors of Alabama,/* Living former governors */
+2018-01-23T15:29:08+00:00,821949874,819608059,1,Dalengoard,List of governors of Alabama,/* Living former governors */
+2018-01-23T15:25:57+00:00,821949473,821949362,1,Dalengoard,List of governors of South Dakota,/* Living former U.S. governors of South Dakota */
+2018-01-23T15:25:08+00:00,821949362,821945189,1,Dalengoard,List of governors of South Dakota,/* Living former U.S. governors of South Dakota */
+2018-01-26T15:56:56+00:00,822474838,822474758,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:56:28+00:00,822474758,822474580,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:55:20+00:00,822474580,822474479,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:54:49+00:00,822474479,822474108,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:52:33+00:00,822474108,822474068,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:52:15+00:00,822474068,822473613,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:49:02+00:00,822473613,822473566,1,Dalengoars,List of people executed in the United States in 2018,/* Executions in recent years */
+2018-01-26T15:48:44+00:00,822473566,822473297,1,Dalengoars,List of people executed in the United States in 2018,/* Demographics */
+2018-01-26T15:47:00+00:00,822473297,822473070,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:46:32+00:00,822473224,822473181,1,Dalengoars,"List of people executed in Texas, 2010–2019",/* Executions since 2010 */
+2018-01-26T15:46:17+00:00,822473181,822471411,1,Dalengoars,"List of people executed in Texas, 2010–2019",/* Executions since 2010 */
+2018-01-26T15:45:31+00:00,822473070,822473015,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:45:07+00:00,822473015,822472862,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:44:09+00:00,822472862,822472544,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:42:00+00:00,822472544,822472128,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:39:16+00:00,822472128,822472049,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:38:46+00:00,822472049,822471971,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:38:14+00:00,822471971,822471916,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:37:52+00:00,822471916,822470601,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:34:28+00:00,822471411,822471291,1,Dalengoars,"List of people executed in Texas, 2010–2019",/* Executions since 2010 */
+2018-01-26T15:33:42+00:00,822471291,822471107,1,Dalengoars,"List of people executed in Texas, 2010–2019",/* Executions since 2010 */
+2018-01-26T15:32:21+00:00,822471107,822471058,1,Dalengoars,"List of people executed in Texas, 2010–2019",/* Executions since 2010 */
+2018-01-26T15:32:00+00:00,822471058,821219208,1,Dalengoars,"List of people executed in Texas, 2010–2019",/* Executions since 2010 */
+2018-01-26T15:31:33+00:00,822470988,822325647,1,Dalengoars,List of people executed in South Dakota,
+2018-01-26T15:28:37+00:00,822470601,822470573,1,Dalengoars,List of people executed in the United States in 2018,/* Executions in recent years */
+2018-01-26T15:28:26+00:00,822470573,822470317,1,Dalengoars,List of people executed in the United States in 2018,/* Demographics */
+2018-01-26T15:26:54+00:00,822470317,822470210,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:26:09+00:00,822470210,822470155,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:25:45+00:00,822470155,822470081,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:25:13+00:00,822470081,822407560,1,Dalengoars,List of people executed in the United States in 2018,/* List of offenders executed in the United States in 2018 */
+2018-01-26T15:19:57+00:00,822469295,822469252,1,Dalengoars,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-26T15:19:38+00:00,822469252,822324446,1,Dalengoars,List of people executed in Arkansas,
+2018-01-23T16:36:57+00:00,821959561,821958779,1,Danbuley,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T16:35:51+00:00,821959387,821954163,1,Danbuley,List of people executed in South Dakota,/* Individuals executed by the State of South Dakota */
+2018-01-23T16:32:26+00:00,821958779,821958736,1,Danbuley,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T16:32:09+00:00,821958736,821956247,1,Danbuley,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T16:29:28+00:00,821958355,821957758,1,Danbuley,Capital punishment in California,/* Executions after 1976 */
+2018-01-23T16:25:21+00:00,821957758,821957249,1,Danbuley,Capital punishment in California,/* Executions after 1976 */
+2018-01-23T16:21:53+00:00,821957249,821957081,1,Danbuley,Capital punishment in California,/* Executions after 1976 */
+2018-01-23T16:20:46+00:00,821957081,821956868,1,Danbuley,Capital punishment in California,/* Executions after 1976 */
+2018-01-23T16:19:26+00:00,821956868,821956732,1,Danbuley,Capital punishment in California,/* Executions after 1976 */
+2018-01-23T16:18:30+00:00,821956732,821598842,1,Danbuley,Capital punishment in California,/* Executions after 1976 */
+2018-01-23T16:14:48+00:00,821956247,821955992,1,Danbuley,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T16:13:03+00:00,821955992,821953977,1,Danbuley,List of people executed in Arkansas,/* List of individuals executed in Arkansas */
+2018-01-23T04:35:05+00:00,821882532,821882467,1,Deobuley,List of American film actresses,/* Q */
+2018-01-23T04:34:24+00:00,821882467,821882209,1,Deobuley,List of American film actresses,/* Q */
+2018-01-23T04:32:08+00:00,821882209,821882149,1,Deobuley,List of American film actresses,/* A */
+2018-01-23T04:31:39+00:00,821882149,821882025,1,Deobuley,List of American film actresses,/* A */
+2018-01-23T04:30:33+00:00,821882025,821881847,1,Deobuley,List of American film actresses,/* A */
+2018-01-23T04:29:07+00:00,821881847,821881645,1,Deobuley,List of American film actresses,/* A */
+2018-01-23T04:27:39+00:00,821881645,821869592,1,Deobuley,List of American film actresses,/* Z */
+2018-01-23T02:55:24+00:00,821871468,821871432,1,Deobuley,"List of people executed in Texas, 1960–1964",/* Executions 1960&ndash;64 */
+2018-01-23T02:55:09+00:00,821871432,821870840,1,Deobuley,"List of people executed in Texas, 1960–1964",/* Executions 1960&ndash;64 */
+2018-01-23T02:50:34+00:00,821870840,821870781,1,Deobuley,"List of people executed in Texas, 1960–1964",/* Executions 1960&ndash;64 */
+2018-01-23T02:50:05+00:00,821870781,821870734,1,Deobuley,"List of people executed in Texas, 1960–1964",/* Executions 1960&ndash;64 */
+2018-01-23T02:49:44+00:00,821870734,821870650,1,Deobuley,"List of people executed in Texas, 1960–1964",/* Executions 1960&ndash;64 */
+2018-01-23T02:49:10+00:00,821870650,818050073,1,Deobuley,"List of people executed in Texas, 1960–1964",/* Executions 1960&ndash;64 */
+2018-01-23T02:40:27+00:00,821869592,821867062,1,Deobuley,List of American film actresses,/* Q */
+2018-01-23T02:38:51+00:00,821869334,821869277,1,Deobuley,Deaths in 1998,/* March 1998 */
+2018-01-23T02:38:22+00:00,821869277,821869222,1,Deobuley,Deaths in 1998,/* March 1998 */
+2018-01-23T02:37:54+00:00,821869222,821868782,1,Deobuley,Deaths in 1998,/* March 1998 */
+2018-01-23T02:34:05+00:00,821868782,821867779,1,Deobuley,Deaths in 1998,/* June 1998 */
+2018-01-23T02:27:53+00:00,821868041,821867297,1,Deobuley,Deaths in June 2011,/* 26 */
+2018-01-23T02:25:35+00:00,821867779,821867741,1,Deobuley,Deaths in 1998,/* June 1998 */
+2018-01-23T02:25:19+00:00,821867741,821525210,1,Deobuley,Deaths in 1998,/* June 1998 */
+2018-01-23T02:22:02+00:00,821867297,821867266,1,Deobuley,Deaths in June 2011,/* 29 */
+2018-01-23T02:21:47+00:00,821867266,821866209,1,Deobuley,Deaths in June 2011,/* 29 */
+2018-01-23T02:20:05+00:00,821867062,821866745,1,Deobuley,List of American film actresses,/* Q */
+2018-01-23T02:17:48+00:00,821866745,821866629,1,Deobuley,List of American film actresses,/* U */
+2018-01-23T02:16:49+00:00,821866629,821866498,1,Deobuley,List of American film actresses,/* Z */
+2018-01-23T02:15:28+00:00,821866498,821866364,1,Deobuley,List of American film actresses,/* Y */
+2018-01-23T02:14:15+00:00,821866364,821228506,1,Deobuley,List of American film actresses,/* Z */
+2018-01-23T02:12:47+00:00,821866209,821865855,1,Deobuley,Deaths in June 2011,/* 1 */
+2018-01-23T02:09:10+00:00,821865855,821865723,1,Deobuley,Deaths in June 2011,/* 26 */
+2018-01-23T02:07:45+00:00,821865723,821865595,1,Deobuley,Deaths in June 2011,/* 24 */
+2018-01-23T02:06:41+00:00,821865595,821865542,1,Deobuley,Deaths in June 2011,/* 24 */
+2018-01-23T02:06:11+00:00,821865542,821865503,1,Deobuley,Deaths in June 2011,/* 24 */
+2018-01-23T02:05:53+00:00,821865503,821865484,1,Deobuley,Deaths in June 2011,/* 24 */
+2018-01-23T02:05:43+00:00,821865484,821864281,1,Deobuley,Deaths in June 2011,/* 24 */
+2018-01-23T02:03:57+00:00,821865294,821865255,1,Deobuley,Deaths in March 2017,/* 20 */
+2018-01-23T02:03:37+00:00,821865255,821865089,1,Deobuley,Deaths in March 2017,/* 20 */
+2018-01-23T02:01:53+00:00,821865089,821865031,1,Deobuley,Deaths in March 2017,/* 20 */
+2018-01-23T02:01:27+00:00,821865031,820157754,1,Deobuley,Deaths in March 2017,/* 20 */
+2018-01-23T01:55:16+00:00,821864281,821864261,1,Deobuley,Deaths in June 2011,/* 24 */
+2018-01-23T01:55:01+00:00,821864261,821863940,1,Deobuley,Deaths in June 2011,/* 24 */
+2018-01-23T01:52:25+00:00,821863940,821863650,1,Deobuley,Deaths in June 2011,/* 24 */
+2018-01-23T01:51:20+00:00,821863650,821862717,1,Deobuley,Deaths in June 2011,/* 24 */
+2018-01-23T01:50:06+00:00,821862717,821862135,1,Deobuley,Deaths in June 2011,/* 26 */
+2018-01-23T01:49:16+00:00,821862135,821861760,1,Deobuley,Deaths in June 2011,/* 26 */
+2018-01-23T01:48:29+00:00,821861760,821861321,1,Deobuley,Deaths in June 2011,/* 26 */
+2018-01-03T00:54:38+00:00,818345071,817783856,0,177.42.235.75,1920,1
+2017-12-23T15:16:53+00:00,816769059,816050382,0,31.52.135.36,1969,/* April */
+2017-12-16T19:41:50+00:00,815733161,815200830,0,201.240.21.14,1891,/* Births */
+2017-12-13T06:12:54+00:00,815174926,815172485,0,SugarRat,1980,No article
+2018-01-16T17:40:35+00:00,820797144,820233582,0,12.50.8.8,1969,/* September */
+2017-12-20T14:45:26+00:00,816305542,816172045,0,201.240.21.14,1980,/* October */
+2018-01-08T04:18:24+00:00,819221126,819220749,0,Histrydude,1891,
+2017-12-28T02:55:35+00:00,817391818,817209425,0,CommonsDelinker,1980,"Removing [[:c:File:KimKW2017.jpg|KimKW2017.jpg]], it has been deleted from Commons by [[:c:User:Didym|Didym]] because: per [[:c:Commons:Deletion requests/Files uploaded by Family and Friends|]]."
+2018-01-19T02:24:47+00:00,821216889,821167446,0,201.240.21.164,1992,/* Births */
+2018-01-10T23:28:49+00:00,819727321,819624359,0,Arthur Rubin,1992,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/V4dur|V4dur]] ([[User talk:V4dur|talk]]): No Wikipedia article . ([[WP:TW|TW]])
+2018-01-22T12:51:40+00:00,821755770,820759242,0,Sleepy Beauty,1920,/* January */
+2018-01-02T00:38:34+00:00,818169803,818139850,0,186.34.51.36,1980,/* Births */
+2018-01-21T13:38:17+00:00,821599882,821472442,0,41.252.138.118,1969,/* January */
+2018-01-25T02:13:17+00:00,822215830,821702582,0,177.98.249.31,1992,1
+2017-12-17T15:28:25+00:00,815845158,815174926,0,201.240.21.14,1980,/* November */
+2018-01-18T20:54:36+00:00,821170765,821170610,0,72.64.155.206,Benjamin Atkins,/* Victims */
+2017-12-11T05:54:50+00:00,814836455,812630509,0,InternetArchiveBot,Capital punishment in California,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])
+2018-01-09T16:52:51+00:00,819486058,819353356,0,Rcb1,Deaths in 1998,/* June 1998 */ Walsh
+2017-12-20T13:16:38+00:00,816295021,816124144,0,Rcb1,Deaths in 1998,/* January 1998 */ Schmitt
+2017-12-13T18:41:47+00:00,815252839,813403482,0,BD2412,Capital punishment in the United States,"clean up punctuation and spacing issues, primarily spacing around commas, replaced: ,  → ,  (2) using [[Project:AWB|AWB]]"
+2018-01-01T04:01:48+00:00,818037808,818014957,0,46.84.181.103,Capital punishment in the United States,/* Executions in 2017 */
+2017-12-13T17:34:44+00:00,815244188,815203560,0,Rcb1,Deaths in 1998,/* December 1998 */ Blaine
+2018-01-18T17:45:25+00:00,821144546,819306120,0,Rcb1,Deaths in 1999,"/* April 1999 */ Khan, and nationality for Remsen"
+2017-12-13T10:58:29+00:00,815200579,815171251,0,WWGB,Deaths in 1999,nn
+2018-01-24T14:35:37+00:00,822121598,822097302,0,Rcb1,Deaths in 1999,/* December 1999 */ Bertell
+2018-01-08T17:09:28+00:00,819306120,819257314,0,Rcb1,Deaths in 1999,/* August 1999 */ Pingel
+2017-12-12T21:48:11+00:00,815118243,815118139,0,198.147.198.121,Deaths in 1998,/* January 1998 */
+2018-01-03T16:37:22+00:00,818447716,818100121,0,Rcb1,Deaths in 1998,/* March 1998 */ Bagley
+2017-12-18T09:58:48+00:00,815962018,815422774,0,Rcb1,Deaths in 1999,/* March 1999 */ Øksnes
+2018-01-06T22:49:38+00:00,819017199,817979006,0,Rcb1,Deaths in 1999,/* December 1999 */ Brown
+2017-12-14T19:14:46+00:00,815422774,815419559,0,SarekOfVulcan,Deaths in 1999,Reverted edits by [[Special:Contribs/Basec6126|Basec6126]] ([[User talk:Basec6126|talk]]) to last version by WWGB
+2018-01-23T10:39:07+00:00,821916861,821144546,0,Rcb1,Deaths in 1999,/* October 1999 */ Mattocks
+2017-12-31T19:14:53+00:00,817979006,817818634,0,Rcb1,Deaths in 1999,"/* November 1999 */ Rowe, and deleted vandalism"
+2018-01-08T10:17:33+00:00,819257314,819017199,0,Rcb1,Deaths in 1999,/* October 1999 */ Chafee
+2018-01-14T17:01:39+00:00,820416952,820379070,0,Rcb1,Deaths in 2000,/* February 2000 */ Leake
+2018-01-03T14:44:09+00:00,818433312,818366628,0,Rcb1,Deaths in 2000,/* June 2000 */ Kabat
+2018-01-16T12:14:08+00:00,820753909,820740269,0,Rcb1,Deaths in 2000,/* July 2000 */ Karski
+2017-12-19T17:50:12+00:00,816161264,815953516,0,Rcb1,Deaths in 2001,"/* March 2001 */ Dantzer, and title for Onslow"
+2017-12-14T19:14:58+00:00,815422803,815421652,0,SarekOfVulcan,Deaths in 2000,Reverted edits by [[Special:Contribs/Basec6126|Basec6126]] ([[User talk:Basec6126|talk]]) to last version by Rcb1
+2017-12-24T05:41:11+00:00,816858683,816851012,0,WWGB,Deaths in 2001,/* April 2001 */ nn
+2017-12-20T12:35:51+00:00,816290725,816127830,0,Rcb1,Deaths in 2000,/* December 2000 */ Senda
+2017-12-27T09:05:52+00:00,817273558,817273525,0,Jim1138,Deaths in 2001,Reverted edits by [[Special:Contributions/125.209.137.6|125.209.137.6]] ([[User talk:125.209.137.6|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.3.3)
+2018-01-10T19:58:35+00:00,819694650,818872225,0,Rcb1,Deaths in 2001,/* May 2001 */ Natoli
+2018-01-13T09:51:56+00:00,820153701,819694650,0,Clynt,Deaths in 2001,Corrected age
+2018-01-21T12:06:26+00:00,821590888,821437912,0,Rcb1,Deaths in 2001,/* September 2001 */ Chowdhury
+2017-12-14T19:28:59+00:00,815424852,815128510,0,SarekOfVulcan,Deaths in August 2013,Reverted edits by [[Special:Contribs/612628ab|612628ab]] ([[User talk:612628ab|talk]]) to last version by KolbertBot
+2017-12-13T11:55:04+00:00,815205353,815112148,0,SugarRat,Deaths in December 2011,Reverted to revision 813937119 by [[Special:Contributions/Kerry Raymond|Kerry Raymond]] ([[User talk:Kerry Raymond|talk]]). ([[WP:TW|TW]])
+2018-01-22T06:35:15+00:00,821722730,815205353,0,InternetArchiveBot,Deaths in December 2011,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Iggy the Swan|Iggy the Swan]])
+2017-12-20T10:08:27+00:00,816276592,816217231,0,WWGB,Deaths in December 2014,/* 21 */ alpha
+2018-01-03T15:50:18+00:00,818441376,816276592,0,Gaius Cornelius,Deaths in December 2014,/* [[December 14|14]] */Clean up using [[Project:AWB|AWB]]
+2017-12-13T13:17:17+00:00,815213489,815200002,0,Jonny Nixon,Deaths in December 2016,/* 30 */
+2017-12-29T19:33:01+00:00,817654239,817654014,0,Rusted AutoParts,Deaths in December 2016,/* 30 */
+2017-12-20T09:32:35+00:00,816273497,816200011,0,GünniX,Deaths in January 2004,Reference list duplication
+2017-12-13T06:16:23+00:00,815175355,815163626,0,Jabberjaw,Deaths in January 2004,/* 31 */ moved section
+2018-01-03T18:25:14+00:00,818462072,816273497,0,Rcb1,Deaths in January 2004,/* 6 */ Bradford
+2017-12-14T19:14:56+00:00,815422793,815421236,0,SarekOfVulcan,Deaths in January 2004,Reverted edits by [[Special:Contribs/Basec6126|Basec6126]] ([[User talk:Basec6126|talk]]) to last version by Jabberjaw
+2018-01-02T09:03:26+00:00,818222511,815189842,0,Rcb1,Deaths in January 2015,/* 2 */ O'Neill
+2017-12-13T08:52:03+00:00,815189842,815168347,0,SugarRat,Deaths in January 2015,No article
+2018-01-11T14:24:09+00:00,819831563,818222511,0,Lugnuts,Deaths in January 2015,/* 24 */
+2017-12-19T17:34:54+00:00,816158971,815606569,0,206.167.17.66,Deaths in July 2017,/* 26 */
+2018-01-07T02:34:24+00:00,819043929,818746155,0,Rcb1,Deaths in July 2017,/* 22 */ deleted redlink
+2017-11-30T22:18:07+00:00,812959719,811693217,0,InternetArchiveBot,Deaths in June 2011,Rescuing 1 sources and tagging 1 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])
+2018-01-23T13:51:33+00:00,821936942,821936887,0,Deobushley,Deaths in June 2011,/* 9 */
+2017-12-19T06:24:42+00:00,816093856,815191656,0,Emk9,Deaths in March 2017,Jack Petosky died 3/3
+2017-12-13T09:11:55+00:00,815191656,814646856,0,KolbertBot,Deaths in March 2017,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v478)
+2018-01-03T20:48:40+00:00,818482073,817992270,0,Lugnuts,Deaths in March 2017,/* 17 */
+2018-01-13T10:30:10+00:00,820157754,819309335,0,Lugnuts,Deaths in March 2017,/* 16 */
+2017-12-27T12:37:39+00:00,817293231,816093856,0,SamuelTheGhost,Deaths in March 2017,/* 20 */ link
+2018-01-04T08:56:06+00:00,818569317,818423585,0,Lugnuts,Deaths in November 2017,/* 13 */
+2018-01-08T10:41:05+00:00,819259581,819259363,0,Racklever,Deaths in November 2017,/* 21 */ Alice Burks
+2017-12-19T00:10:42+00:00,816059737,816059035,0,WWGB,Deaths in November 2017,"Undid revision 816059035 by [[Special:Contributions/LE|LE]] ([[User talk:LE|talk]]) simply untrue, please do not invent a date of death, get consensus if you want to change established practice"
+2017-12-13T07:20:08+00:00,815182362,815170697,0,Rcb1,Deaths in November 2017,/* 30 */ Elibank
+2017-12-16T02:30:33+00:00,815638253,815635334,0,Rusted AutoParts,Deaths in November 2017,/* 17 */
+2018-01-22T22:52:38+00:00,821839509,821837730,0,Racklever,Deaths in November 2017,/* 26 */ Frances M. Gage
+2017-12-27T14:05:52+00:00,817302021,817299762,0,SugarRat,Deaths in November 2017,No article
+2018-01-23T20:41:25+00:00,821995303,821995174,0,Rusted AutoParts,Deaths in November 2017,/* 4 */
+2018-01-18T10:06:06+00:00,821094474,821081461,0,Axolotl Nr.733,Deaths in November 2017,/* 12 */ + [[James O'Connor (academic)]]; corr. typo
+2018-01-20T20:41:28+00:00,821492404,821094474,0,Rcb1,Deaths in November 2017,/* 29 */ Woods
+2017-12-13T14:54:40+00:00,815224220,815215765,0,Axolotl Nr.733,Deaths in November 2017,"/* 24 */ born in London, Eng. (per literature)"
+2018-01-03T13:22:51+00:00,818423585,818312825,0,Jkaharper,Deaths in November 2017,/* 22 */ + William J. White (general)
+2017-12-26T01:32:08+00:00,817085220,817084995,0,Rusted AutoParts,Deaths in November 2017,/* 27 */
+2017-12-25T01:38:38+00:00,816963338,816915391,0,Rusted AutoParts,Deaths in November 2017,/* 26 */
+2017-12-17T23:33:10+00:00,815904127,815900621,0,WWGB,Deaths in November 2017,/* 19 */ no article
+2017-12-29T00:53:28+00:00,817533510,817533093,0,WWGB,Deaths in November 2017,died 29th
+2017-12-17T00:10:53+00:00,815764776,815700551,0,Rusted AutoParts,Deaths in November 2017,/* 18 */
+2017-12-14T23:53:12+00:00,815463288,815422788,0,Rusted AutoParts,Deaths in November 2017,/* 16 */
+2018-01-02T21:06:17+00:00,818312825,818130826,0,Racklever,Deaths in November 2017,/* 6 */ Susan Linnee
+2017-12-29T21:30:49+00:00,817670079,817669861,0,Eksosrock,Deaths in November 2017,/* 29 */
+2018-01-07T06:32:28+00:00,819067637,819015551,0,WWGB,Deaths in November 2017,/* 20 */ ttl
+2017-12-24T17:06:15+00:00,816915391,816878451,0,Danielvis08,Deaths in November 2017,Heather North (30 -> 29) With a new source from TMZ that shows (and you can load) his death certificate
+2018-01-13T02:33:55+00:00,820106099,820058054,0,WWGB,Deaths in November 2017,/* 13 */ icon
+2017-12-18T08:34:54+00:00,815954715,815904127,0,Eksosrock,Deaths in November 2017,/* 19 */
+2018-01-01T01:17:30+00:00,818019420,818017412,0,Frickeg,Deaths in November 2017,/* 1 */ +Toms
+2018-01-06T14:25:52+00:00,818944431,818913842,0,SugarRat,Deaths in November 2017,"/* 29 */to be listed here, the deceased must have their own English Wikipedia article"
+2017-12-27T07:28:59+00:00,817265492,817206292,0,Jkaharper,Deaths in November 2017,/* 30 */ + Unity Bainbridge
+2018-01-06T09:43:15+00:00,818913842,818569317,0,Ilzhabimantara,Deaths in November 2017,/* 29 */
+2017-12-23T06:30:56+00:00,816721234,816708226,0,WWGB,Deaths in November 2017,/* November 2017 */ died 23rd
+2018-01-25T23:36:04+00:00,822366559,822366396,0,Rusted AutoParts,Deaths in November 2017,/* 30 */
+2017-12-22T03:59:59+00:00,816559445,816557118,0,Rusted AutoParts,Deaths in November 2017,/* 28 */
+2017-12-30T00:05:05+00:00,817690008,817676960,0,WWGB,Deaths in November 2017,"Undid revision 817676960 by [[Special:Contributions/Kjell Knudde|Kjell Knudde]] ([[User talk:Kjell Knudde|talk]]) it was correct, he came from Niger, not Nigeria"
+2017-12-29T11:56:17+00:00,817598289,817588094,0,Rusted AutoParts,Deaths in November 2017,/* 5 */
+2018-01-16T11:13:02+00:00,820748631,820608972,0,RFD,Deaths in November 2017,/* 30 */ bertha kawakami Hawaii house of representatives
+2017-12-16T10:30:36+00:00,815679106,815638253,0,Folengo,Deaths in November 2017,/* 25 */
+2017-12-31T00:58:41+00:00,817865635,817865006,0,WWGB,Deaths in November 2017,/* 30 */ Jon Naar
+2017-12-21T18:44:27+00:00,816494095,816458284,0,Rusted AutoParts,Deaths in November 2017,/* 30 */Did many series of Scooby
+2017-12-16T14:41:24+00:00,815700551,815679106,0,Bearcat,Deaths in November 2017,/* 29 */
+2018-01-08T10:31:40+00:00,819258696,819257560,0,Racklever,Deaths in October 2017,/* 28 */ Al Oster
+2017-12-29T20:52:27+00:00,817665317,817598926,0,Racklever,Deaths in October 2017,/* 24 */
+2018-01-19T04:26:04+00:00,821228506,821228192,0,Beddele,List of American film actresses,/* A */
+2017-11-30T04:46:23+00:00,812839930,808744346,0,Gidonb,List of American film actresses,/* Y */ demografix
+2017-12-29T06:41:10+00:00,817571326,817571215,0,VICTORYIN08,List of American film actresses,/* W */
+2018-01-23T11:19:56+00:00,821920773,821909348,0,Nooviiaan,List of American film actresses,
+2018-01-11T09:48:50+00:00,819798531,819791748,0,Nooviiaan,List of American film actresses,
+2018-01-13T13:32:37+00:00,820175961,819798531,0,VICTORYIN08,List of American film actresses,/* H */
+2018-01-08T23:20:15+00:00,819361071,817571326,0,DePiep,List of American film actresses,birth date and age: fix/cleanup template parameters (via [[WP:JWB]])
+2017-12-17T03:19:50+00:00,815783604,808029686,0,JaxisMaximus,List of governors of Alabama,Updated infobox and article regarding term limits to the office.
+2017-10-31T13:12:34+00:00,808029686,808009786,0,Golbez,List of governors of Alabama,as opposed to russian governors of afghanistan?
+2017-09-12T18:17:14+00:00,800305888,775151424,0,Kev519,List of governors of South Dakota,/* Governors of South Dakota */
+2017-06-27T20:17:02+00:00,787830134,778101227,0,90.22.227.68,List of people executed in Arkansas,"/* List of individuals executed in Arkansas */ Fixed typo, Added links"
+2018-01-23T16:48:57+00:00,821961207,821959561,0,Nthep,List of people executed in Arkansas,Reverted to revision 787830134 by [[Special:Contributions/90.22.227.68|90.22.227.68]] ([[User talk:90.22.227.68|talk]]): Rvv. ([[WP:TW|TW]])
+2017-06-08T15:06:45+00:00,784478112,784022717,0,Harry1835,List of people executed in South Dakota,
+2018-01-03T07:06:11+00:00,818388059,784478112,0,Afddiary,List of people executed in South Dakota,"Made sure the dates followed a consistent format (since some were in European format); also, Allen Walkingshield was executed in October, not January"
+2018-01-01T06:19:49+00:00,818050073,787354534,0,InternetArchiveBot,"List of people executed in Texas, 1960–1964",Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.1)
+2017-06-24T22:37:46+00:00,787354534,587041562,0,Jean Po,"List of people executed in Texas, 1960–1964",Added citations
+2017-11-12T23:05:04+00:00,810020549,810020528,0,XenonNSMB,"List of people executed in Texas, 2010–2019",([[WP:HG|HG]]) (3.3.2)
+2018-01-03T02:19:34+00:00,818355919,818018342,0,24.162.134.57,"List of people executed in Texas, 2010–2019",/* Executions since 2010 */
+2018-01-19T02:50:49+00:00,821219208,821218577,0,24.162.134.57,"List of people executed in Texas, 2010–2019",Undid revision 821218577 by [[Special:Contributions/Beddele|Beddele]] ([[User talk:Beddele|talk]]) rvv
+2018-01-19T01:46:20+00:00,821212937,821212784,0,24.162.134.57,"List of people executed in Texas, 2010–2019",Rvv
+2017-04-16T01:57:00+00:00,775619833,774190047,0,AvicBot,List of people executed in the United States in 2018,Bot: Fixing double redirect to [[List of offenders scheduled to be executed in the United States]]
+2018-01-20T21:49:13+00:00,821502053,821453090,0,24.162.134.57,List of people executed in the United States in 2018,Dash
+2018-01-20T05:28:18+00:00,821392558,821392469,0,Debychail,List of people executed in the United States in 2018,/* Demographics */
+2018-01-19T06:40:34+00:00,821241423,821232958,0,NapoliRoma,List of people executed in the United States in 2018,"Fix ""This is a list"""
+2018-01-06T01:55:36+00:00,818865694,818865597,0,Genarians,List of people with breast cancer,/* Acting */
+2017-12-12T22:36:47+00:00,815127122,815126737,0,Paulinho28,List of people with breast cancer,/* Acting */
+2018-01-08T23:06:43+00:00,819359138,819358880,0,Rms125a@hotmail.com,List of people with breast cancer,c/e
+2017-12-14T19:15:37+00:00,815422893,815407475,0,SarekOfVulcan,List of people with breast cancer,Reverted edits by [[Special:Contribs/Basec6126|Basec6126]] ([[User talk:Basec6126|talk]]) to last version by Paulinho28
+2018-01-22T20:28:25+00:00,821817631,821618957,0,GreenC bot,List of people with breast cancer,Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]
+2017-12-19T23:48:48+00:00,816210955,815827908,0,2600:387:B:F:0:0:0:C1,Pierce Brothers Westwood Village Memorial Park and Mortuary,/* C */
+2017-12-30T08:05:46+00:00,817738196,817512605,0,2601:1C0:5A01:6D40:60BA:3337:AC18:5110,Pierce Brothers Westwood Village Memorial Park and Mortuary,"Added Tom Petty with appropriate page links, birth year, and death year."
+2018-01-15T18:34:45+00:00,820629144,820041044,0,Discospinster,Pierce Brothers Westwood Village Memorial Park and Mortuary,/* A */missing bracket using [[Project:AWB|AWB]]
+2017-08-26T18:14:36+00:00,797380159,796199098,0,24.180.168.42,1891,/* October&ndash;December */ Adding [[Béla Imrédy]] to Births
+2017-05-17T11:49:32+00:00,780824602,779777522,0,GoodDay,1891,Reduce whitespace
+2017-09-01T18:41:45+00:00,798404022,797380159,0,24.180.168.42,1891,/* January&ndash;June */ Adding [[Carl Johan Thyselius]] to Deaths
+2017-08-19T05:32:03+00:00,796199098,795544155,0,Eumolpo,1891,orthographic
+2017-06-01T05:16:27+00:00,783268416,780824602,0,Rjensen,1891,/* References */ cite
+2017-11-16T11:23:38+00:00,810619117,809086249,0,201.240.21.105,1891,/* October&ndash;December */
+2017-07-10T19:37:17+00:00,789969862,789969785,0,24.180.168.42,1891,/* April&ndash;June */
+2017-12-27T23:09:23+00:00,817369344,817369162,0,46.224.249.162,1891,/* July–September */
+2017-09-21T20:51:41+00:00,801784111,800526958,0,24.180.168.42,1891,/* July&ndash;December */ Adding [[José María Urvina]] to Deaths
+2017-10-15T15:36:47+00:00,805462596,805352077,0,191.251.202.41,1920,34
+2017-04-19T22:38:08+00:00,776261628,774499985,0,-- -- --,1891,/* January&ndash;June */ [[Joachim Oppenheim]]
+2017-09-04T08:38:18+00:00,798870562,798404022,0,2804:7F7:A691:8E14:E168:5E25:388C:62FF,1891,Bvr
+2017-05-09T12:46:33+00:00,779527586,779277846,0,187.108.43.78,1920,2e
+2017-10-07T17:00:39+00:00,804233574,804148927,0,24.180.168.42,1891,/* January&ndash;June */ Adding [[Ion C. Brătianu]] to Deaths
+2017-07-18T13:08:27+00:00,791150320,790980779,0,179.177.187.204,1920,3r
+2017-09-09T20:52:32+00:00,799785941,799757555,0,177.43.141.85,1920,31
+2017-07-07T03:42:14+00:00,789404187,788811613,0,172.222.10.47,1920,/* December */
+2017-05-25T13:46:47+00:00,782198407,781848349,0,94.254.138.147,1920,/* June */
+2017-06-26T12:20:12+00:00,787610052,785925056,0,201.30.109.226,1920,f
+2017-08-31T10:43:58+00:00,798167647,797568543,0,191.33.107.163,1920,43
+2017-10-31T15:20:45+00:00,808046371,807882754,0,46.224.206.227,1920,/* April */
+2018-01-16T13:01:08+00:00,820759242,820003519,0,Unknown artist,1920,/* March */
+2017-04-20T09:48:41+00:00,776328310,776192503,0,Rjensen,1920,/* References */ year book
+2017-11-15T22:59:26+00:00,810546795,810546679,0,201.240.21.105,1969,/* August */
+2017-04-09T16:38:10+00:00,774610998,774375463,0,Alaney2k,1969,bypass redir using [[Project:AWB|AWB]]
+2017-10-09T22:59:03+00:00,804583906,803857987,0,24.180.168.42,1969,/* July */ Adding [[Dacian Cioloș]] to Births
+2017-08-19T05:43:46+00:00,796200095,796174463,0,Eumolpo,1969,orthographic
+2017-08-14T04:09:10+00:00,795424597,794848800,0,Dawnseeker2000,1969,"[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: cathecist → catechist using [[Project:AWB|AWB]]"
+2017-11-29T07:53:00+00:00,812687135,812685142,0,124.186.252.157,1969,/* July */
+2017-07-12T07:10:50+00:00,790201763,790044076,0,Emmy Expert,1969,
+2017-08-05T14:06:08+00:00,794046941,793994591,0,186.29.245.229,1969,/* November */
+2017-09-16T09:16:19+00:00,800889002,800888956,0,Dark-World25,1969,Reverted edits by [[Special:Contributions/42.109.72.46|42.109.72.46]] ([[User talk:42.109.72.46|talk]]) to last version by Mill 1
+2017-07-16T19:14:10+00:00,790883751,790201763,0,Camboxer,1969,/* February */ entries for people of no traceable notability replaced
+2017-08-07T15:27:51+00:00,794366288,794046941,0,Reaper1433,1969,
+2017-05-10T11:58:26+00:00,779691336,778893294,0,ItaMatt,1969,/* November */
+2017-07-20T09:21:06+00:00,791445231,791445138,0,124.106.243.20,1969,/* March */
+2017-06-21T09:25:59+00:00,786738368,786591058,0,Corkythehornetfan,1980,"/* October */ Joe Kennedy III, 115th official photo (cropped).jpg"
+2017-11-07T03:13:42+00:00,809098181,809093690,0,Loriendrew,1980,Reverted 3 edits by [[Special:Contributions/2602:306:C5CF:5740:850E:12A8:CAB3:8E2|2602:306:C5CF:5740:850E:12A8:CAB3:8E2]] ([[User talk:2602:306:C5CF:5740:850E:12A8:CAB3:8E2|talk]]): Rv unclear addition. ([[WP:TW|TW]])
+2017-06-19T11:54:16+00:00,786426391,786425687,0,Malmcp85,1980,/* January */
+2017-06-07T13:25:11+00:00,784286317,783992866,0,Emmy Expert,1969,/* May */ A more current/recent picture of Wes Anderson and Cate Blanchett seems more appropriate; please respect my change
+2017-08-29T14:08:36+00:00,797844326,797844284,0,MrMimikyu1998,1980,/* January */
+2017-06-04T21:23:21+00:00,783819078,783812336,0,Andre Kritzinger,1980,"Undid revision 783812336 by [[Special:Contributions/190.236.81.3|190.236.81.3]] ([[User talk:190.236.81.3|talk]])No, sort them alphabetically by Surname, not first name"
+2018-01-22T16:02:57+00:00,821779174,821258099,0,ZH8000,1980,President of the Swiss Confederation (official term)
+2017-11-27T14:47:52+00:00,812377256,811467345,0,170.24.151.104,1980,
+2017-06-09T15:38:34+00:00,784685695,784666464,0,Narky Blert,1980,Link to DAB page repaired
+2017-05-08T05:23:08+00:00,779312734,779102291,0,97.87.184.18,1980,added comma
+2017-09-21T02:02:27+00:00,801663723,801636930,0,Acabtp,1980,/* Births */ removed image of tom franco with copyright notice in image
+2017-11-21T20:24:38+00:00,811467345,810755617,0,HandsomeFella,1980,
+2017-05-28T15:30:15+00:00,782691645,782667430,0,190.236.81.3,1980,/* January */
+2017-12-28T12:55:13+00:00,817449348,817391818,0,190.82.20.156,1980,/* March */
+2018-01-19T10:09:52+00:00,821258099,820206735,0,Brigitte Neuschwander-Kasselordner,1980,
+2017-11-17T06:19:44+00:00,810755617,810109182,0,Jdx,1980,The file has been renamed on Commons
+2017-08-03T14:39:21+00:00,793721487,793721358,0,167.206.227.210,1980,/* December */
+2017-10-01T19:19:16+00:00,803314111,803205124,0,190.235.229.86,1980,/* November */
+2017-11-02T08:36:12+00:00,808341232,807676622,0,BCJW,1980,5 October Elisabeth
+2017-04-20T03:27:12+00:00,776293871,776215062,0,MrMimikyu1998,1980,/* May */  Removing fair use image.
+2017-05-04T14:56:53+00:00,778664991,778664899,0,Mdnavman,1980,/* August */ Clean-up.
+2017-08-26T20:29:24+00:00,797398424,797242487,0,24.180.168.42,1992,/* December */
+2017-10-27T16:44:53+00:00,807387065,806852287,0,124.106.247.223,1992,/* December */
+2017-12-19T22:33:22+00:00,816200619,815622805,0,Jim jimson5,1992,/* December */
+2017-07-24T21:11:25+00:00,792161862,792047297,0,124.106.243.20,1992,
+2017-08-15T00:23:42+00:00,795556485,795406665,0,GJK1966,1992,/* December */
+2017-06-10T22:46:58+00:00,784971803,784875754,0,HyBn51702,1992,/* January */
+2017-06-22T03:49:34+00:00,786879156,785927028,0,124.106.249.187,1992,/* March */
+2017-11-02T23:37:12+00:00,808454955,808454594,0,190.232.74.24,1992,/* February */
+2017-06-14T18:40:01+00:00,785659521,785652340,0,Irn,1992,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2601:243:C701:F00:A81C:1067:1857:4478|2601:243:C701:F00:A81C:1067:1857:4478]] ([[User talk:2601:243:C701:F00:A81C:1067:1857:4478|talk]]): Not a significant event. ([[WP:TW|TW]])
+2017-07-27T01:44:48+00:00,792527498,792161862,0,DSmurf,1992,/* January */
+2017-11-11T02:34:39+00:00,809739118,809738274,0,80.4.91.157,1992,/* December */
+2017-11-25T19:57:38+00:00,812064659,811938739,0,Mantisasterisk,1992,/* July */
+2017-11-25T14:21:21+00:00,812025074,804417158,0,Vwanweb,Benjamin Atkins,added stub(s) to increase article exposure to more editors with the intention for improvement of the article's grade.
+2017-10-08T21:40:37+00:00,804417158,803894003,0,Foo39,Benjamin Atkins,Added to categories
+2017-03-25T18:06:14+00:00,772164338,772159946,0,Arodriguez61,Benjamin Atkins,I added an image of a chart from when the police force was trying to catch Benjamin Atkins.
+2017-08-27T20:31:58+00:00,797554539,797521771,0,Berean Hunter,Benjamin Atkins,rv disruptive editing
+2017-08-29T16:36:55+00:00,797865433,797499010,0,68.65.79.210,Capital punishment in California,
+2017-05-12T23:10:47+00:00,780097634,771873992,0,2602:306:307A:9F20:E9C8:866:EDD8:9A88,Capital punishment in California,/* Propositions 62 and 66 */
+2017-06-03T08:33:30+00:00,783584274,780097634,0,Freeknowledgecreator,Capital punishment in California,tweak
+2017-03-24T00:30:40+00:00,771873992,768741360,0,138.38.210.183,Capital punishment in California,
+2018-01-21T13:27:29+00:00,821598842,814836455,0,AndrewWTaylor,Capital punishment in California,/* History */ trim
+2018-01-01T20:11:34+00:00,818133520,818132870,0,General Ization,Capital punishment in the United States,Reverted 3 edits by [[Special:Contributions/46.84.181.103|46.84.181.103]] ([[User talk:46.84.181.103|talk]]): Unneeded; see [[List of offenders executed in the United States in 2017]]. ([[WP:TW|TW]])
+2017-04-30T23:15:28+00:00,778068327,777862171,0,Longlivejt,Capital punishment in the United States,/* Aggravated murder */Fixed typos/sentence structure
+2017-11-27T19:16:20+00:00,812415735,812213118,0,177.42.156.212,Capital punishment in the United States,
+2017-09-21T00:35:02+00:00,801653725,801653223,0,Malinion,Capital punishment in the United States,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/67.187.128.165|67.187.128.165]] ([[User talk:67.187.128.165|talk]]): More detailed information preferred. ([[WP:TW|TW]])
+2017-08-23T22:03:22+00:00,796926668,796817374,0,Shakehandsman,Deaths in 1998,"/* January 1998 */ remove Dinkheller - case is notable, individual is not"
+2017-07-02T14:28:52+00:00,788625949,788311084,0,PrimeBOT,Capital punishment in the United States,/* Debate */remove [[UTM parameters]] (Google analytics) from URLs - [[Wikipedia:Bots/Requests for approval/PrimeBOT 17|BRFA]]
+2017-09-02T02:55:54+00:00,798458603,798458449,0,Shakehandsman,Deaths in 1998,"/* February 1998 */ remove Angleton - no article, just a redirect"
+2017-12-03T14:28:45+00:00,813403482,812963926,0,PopSci,Capital punishment in the United States,"uncited sentence removed, if this is accurate a source should not be hard to find"
+2017-08-23T06:43:13+00:00,796817374,794430646,0,97.90.93.200,Deaths in 1998,/* March 1998 */
+2017-09-15T17:37:17+00:00,800788260,800785441,0,General Ization,Capital punishment in the United States,Reverted edits by [[Special:Contribs/199.96.190.123|199.96.190.123]] ([[User talk:199.96.190.123|talk]]) to last version by Harry1835
+2017-04-08T13:22:24+00:00,774438362,757509499,0,201.240.21.103,Deaths in 1998,
+2017-04-15T19:20:54+00:00,775572405,773331151,0,190.236.197.187,Deaths in 1999,
+2017-10-21T22:11:45+00:00,806417217,806312664,0,2600:8800:5904:F680:E983:3464:DAD2:F42D,Deaths in 1999,/* May 1999 */
+2017-07-06T00:24:57+00:00,789204041,780933494,0,Bender the Bot,Deaths in 1999,"/* March 1999 */HTTP&rarr;HTTPS for [[ProQuest]] newspaper archive, per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]"
+2017-08-31T11:13:26+00:00,798170576,797503681,0,Rjwilmsi,Deaths in 1999,"Journal cites:,  using [[Project:AWB|AWB]] (12158)"
+2017-08-18T14:42:43+00:00,796106526,795815908,0,MrMimikyu1998,Deaths in 2000,/* January 2000 */
+2017-07-11T23:14:21+00:00,790158783,790158713,0,LiamKasbar,Deaths in 2000,/* May 2000 */
+2017-06-30T03:31:47+00:00,788209876,787955151,0,Dawnleelynn,Deaths in 2000,/* May 2000 */ Bodacious made more descriptive.
+2017-08-12T06:46:06+00:00,795133318,794546800,0,HandsomeFella,Deaths in 2001,/* August 2001 */
+2017-06-27T04:42:18+00:00,787722691,787432886,0,216.137.197.70,Deaths in 2001,/* January 2001 */
+2017-06-08T22:40:45+00:00,784548992,783903528,0,PrimeBOT,Deaths in August 2013,/* [[August 27|27]] */remove [[UTM parameters]] (Google analytics) from URLs - [[Wikipedia:Bots/Requests for approval/PrimeBOT 17|BRFA]]
+2017-10-19T09:21:23+00:00,806046200,806046060,0,Filelakeshoe,Deaths in August 2013,oops wrong date
+2017-06-21T14:34:41+00:00,786772804,784548992,0,Bender the Bot,Deaths in August 2013,"HTTP&rarr;HTTPS for [[Boston Globe]], per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]"
+2017-10-30T15:31:01+00:00,807868794,807837580,0,FrescoBot,Deaths in August 2013,Bot: removing misplaced special [[no-break space]] character and minor changes
+2017-06-08T22:40:29+00:00,784548954,783886342,0,PrimeBOT,Deaths in December 2011,/* [[December 16|16]] */remove [[UTM parameters]] (Google analytics) from URLs - [[Wikipedia:Bots/Requests for approval/PrimeBOT 17|BRFA]]
+2017-07-22T21:15:27+00:00,791847104,784548954,0,Dead.rabbit,Deaths in December 2011,/* 28 */
+2017-11-12T17:10:46+00:00,809968566,807812138,0,NihlusBOT,Deaths in December 2011,Bot: fix deprecated Citation Style 1 parameters ([[Wikipedia:Bots/Requests for approval/NihlusBOT 9|Task 9]])
+2017-06-08T22:46:13+00:00,784549771,784492495,0,PrimeBOT,Deaths in December 2014,/* [[December 22|22]] */remove [[UTM parameters]] (Google analytics) from URLs - [[Wikipedia:Bots/Requests for approval/PrimeBOT 17|BRFA]]
+2017-12-13T13:42:08+00:00,815215969,815215928,0,ClueBot NG,Deaths in December 2014,"Reverting possible vandalism by [[Special:Contribs/Abcd228|Abcd228]] to version by WWGB. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3221633) (Bot)"
+2017-11-04T17:52:28+00:00,808715748,808714214,0,Zzuuzz,Deaths in December 2016,Undid revision 808714214 by [[Special:Contributions/FlightTime|FlightTime]] ([[User talk:FlightTime|talk]]) see reference
+2017-04-11T05:05:09+00:00,774869876,773666460,0,Grayfell,Deaths in December 2016,/* 12 */  Replacing source which has spam/[[WP:CIRC]] problems.
+2017-02-08T16:52:16+00:00,764382599,764379577,0,GDEBE,Deaths in January 2004,/* 22 */
+2017-08-05T01:35:32+00:00,793975051,789316163,0,The Optimistic One,Deaths in January 2015,/* 30 */
+2017-07-06T17:40:03+00:00,789316163,789316022,0,2601:588:C401:3E50:508A:8A7D:E6A8:B08D,Deaths in January 2015,/* 30 */
+2017-12-30T18:02:50+00:00,817803648,817088132,0,113.203.168.40,Deaths in July 2017,Corrected a nationality.
+2018-01-18T04:44:30+00:00,821058427,821058200,0,Snickers2686,Deaths in July 2017,/* 5 */
+2017-07-02T17:02:47+00:00,788645937,788645667,0,24.192.201.47,Deaths in July 2017,[[WP:AES|←]]Redirected page to [[Deaths in 2017#July]]
+2017-09-12T16:37:39+00:00,800292812,800270423,0,Jarvishunt,Deaths in July 2017,added Rago cause
+2017-10-05T19:41:00+00:00,803960245,803959092,0,192.102.0.219,Deaths in July 2017,/* 21 */
+2017-02-26T11:28:48+00:00,767518991,762094593,0,Bender the Bot,Deaths in June 2011,HTTP&rarr;HTTPS for [[The New York Times]]. using [[Project:AWB|AWB]]
+2017-07-02T15:32:06+00:00,788634021,784081169,0,PrimeBOT,Deaths in June 2011,/* [[June 1|1]] */remove [[UTM parameters]] (Google analytics) from URLs - [[Wikipedia:Bots/Requests for approval/PrimeBOT 17|BRFA]]
+2017-07-30T12:12:27+00:00,793068134,792476973,0,ShakespeareFan00,Deaths in March 2017,
+2017-08-04T11:27:59+00:00,793858748,793858118,0,Cyberbubbba2013,Deaths in March 2017,/* 2 */
+2017-07-15T16:12:03+00:00,790713320,789839286,0,Zyxw,Deaths in March 2017,update language template using deprecated code using [[Project:AWB|AWB]]
+2018-01-08T17:31:14+00:00,819309335,819306599,0,Zocke1r,Deaths in March 2017,Reverted 1 edit by [[Special:Contributions/209.147.50.206|209.147.50.206]] ([[User talk:209.147.50.206|talk]]) to last revision by Lugnuts. ([[WP:TW|TW]])
+2017-05-25T17:06:49+00:00,782226264,782052877,0,Nukualofa,Deaths in March 2017,/* 27 */ John Newton
+2017-11-06T23:20:39+00:00,809070110,0,0,CAWylie,Deaths in November 2017,Created redirect for future expansion.
+2017-12-02T00:02:36+00:00,813134076,813133664,0,77.97.233.128,Deaths in October 2017,/* 1 */Removed vandalism
+2017-10-21T04:50:34+00:00,806314022,805487020,0,137.119.104.134,List of American film actresses,/* J */ added Anne Jeffreys
+2017-08-22T05:23:34+00:00,796636882,795042562,0,Alyssa Lykki,List of American film actresses,/* H */
+2017-06-16T04:33:13+00:00,785913670,785549363,0,47.145.69.153,List of American film actresses,/* A */
+2017-08-11T16:50:48+00:00,795042562,793624969,0,Vincelord,List of American film actresses,/* S */
+2018-01-10T08:46:57+00:00,819608059,819606219,0,Kingofthedead,List of governors of Alabama,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/174.206.10.42|174.206.10.42]] ([[User talk:174.206.10.42|talk]]). ([[WP:TW|TW]])
+2017-08-17T13:57:35+00:00,795943206,795293327,0,Lambuth2007,List of governors of Alabama,updated Kay Ivey photo to official photo
+2017-04-28T04:37:17+00:00,777604685,776477345,0,67.44.193.188,List of governors of Alabama,
+2017-04-13T00:25:09+00:00,775151424,773542045,0,Kingofthedead,List of governors of South Dakota,/* Governors of South Dakota */ image
+2017-05-01T03:42:50+00:00,778101227,777658344,0,Gene93k,List of people executed in Arkansas,unlinked 2 names for deleted articles
+2017-04-26T14:11:49+00:00,777322117,775696499,0,UnitedStatesian,List of people executed in South Dakota,"UnitedStatesian moved page [[List of individuals executed in South Dakota]] to [[List of people executed in South Dakota]]: WP title preference is for ""people"", not ""individuals"""
+2017-06-06T01:23:00+00:00,784022717,777322117,0,2605:6000:3B87:D500:200E:A4A1:A3A9:CC7,List of people executed in South Dakota,
+2013-12-21T02:10:32+00:00,587041562,582075079,0,BrownHairedGirl,"List of people executed in Texas, 1960–1964",categs
+2017-07-28T02:56:45+00:00,792701072,792700933,0,67.243.41.225,"List of people executed in Texas, 2010–2019",updated latest execution
+2017-08-05T16:04:51+00:00,794062745,782388757,0,47.145.69.153,List of people with breast cancer,/* Music */
+2017-09-27T13:53:35+00:00,802638694,802638633,0,2A01:110F:B4A:7000:5011:F647:9A7:D55F,List of people with breast cancer,
+2017-12-23T15:34:31+00:00,816770711,815422893,0,2A01:110F:B4A:7000:A8BD:D5D1:D1BB:4916,List of people with breast cancer,
+2017-10-25T20:57:29+00:00,807090276,806944901,0,168.161.192.15,Pierce Brothers Westwood Village Memorial Park and Mortuary,/* P */
+2017-04-29T01:59:27+00:00,777755608,777066099,0,Taylordw,Pierce Brothers Westwood Village Memorial Park and Mortuary,/* W */ Added Albert and Roberta Wohlstetter
+2017-04-15T21:38:48+00:00,775589654,773697561,0,140.230.129.221,Pierce Brothers Westwood Village Memorial Park and Mortuary,Added links
+2017-09-23T16:15:52+00:00,802040908,790191141,0,173.212.101.123,Pierce Brothers Westwood Village Memorial Park and Mortuary,
+2017-09-30T19:56:22+00:00,803152805,803152615,0,Mrceleb2007,Pierce Brothers Westwood Village Memorial Park and Mortuary,/* D */

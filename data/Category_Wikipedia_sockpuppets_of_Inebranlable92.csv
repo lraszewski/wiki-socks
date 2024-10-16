@@ -1,0 +1,916 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-11-22T16:56:45+00:00,1056587492,1056587429,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-22T16:56:07+00:00,1056587429,1056586990,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-22T16:53:09+00:00,1056586990,1056583185,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-22T10:45:59+00:00,1056539662,1056462953,1,Inebranlable92,Royal Moroccan Air Force,/* Current inventory */
+2021-11-21T23:27:11+00:00,1056461570,1056357599,1,Inebranlable92,MIM-104 Patriot,/* Operators */
+2021-11-21T22:54:45+00:00,1056457818,1056457746,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-11-21T22:53:57+00:00,1056457746,1056457663,1,Inebranlable92,Algerian National Navy,/* Aircraft */
+2021-11-21T22:53:13+00:00,1056457663,1056457331,1,Inebranlable92,Algerian National Navy,/* Aircraft */
+2021-11-21T22:50:11+00:00,1056457331,1056457293,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-11-21T22:49:48+00:00,1056457293,1056457243,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-11-21T22:49:19+00:00,1056457243,1056352522,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-11-21T20:44:35+00:00,1056442104,1056416583,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-21T20:35:54+00:00,1056441098,1056150474,1,Inebranlable92,Royal Moroccan Air Force,/* Current inventory */
+2021-11-21T14:22:36+00:00,1056390880,1056390138,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-21T14:16:22+00:00,1056390138,1056389536,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-21T14:11:06+00:00,1056389536,1056389469,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-21T14:10:26+00:00,1056389469,1056389399,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-21T14:09:45+00:00,1056389399,1056389310,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-21T14:08:53+00:00,1056389310,1056389269,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-21T14:08:30+00:00,1056389269,1056389007,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-21T14:05:59+00:00,1056389007,1056373085,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-20T23:09:36+00:00,1056294160,1056292729,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-20T22:56:30+00:00,1056292729,1056291913,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-20T22:49:20+00:00,1056291913,1056065278,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-20T01:41:13+00:00,1056149156,1056057285,1,Inebranlable92,Royal Moroccan Air Force,/* Current inventory */
+2021-11-19T15:57:56+00:00,1056075698,1056058302,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-11-19T14:33:04+00:00,1056065278,1056065194,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-19T14:32:18+00:00,1056065194,1056064923,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-19T14:30:05+00:00,1056064923,1056064555,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-19T14:26:58+00:00,1056064555,1056064165,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-19T14:23:46+00:00,1056064165,1056025332,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-10-10T03:39:39+00:00,1049142821,1048452116,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-09-29T19:35:52+00:00,1047241186,1047239197,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-29T19:24:50+00:00,1047239197,1047238690,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-29T19:21:18+00:00,1047238690,1047238613,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-29T19:20:50+00:00,1047238613,1047238500,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-29T19:19:59+00:00,1047238500,1047099841,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-29T00:46:35+00:00,1047099841,1047099518,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:44:06+00:00,1047099518,1047099412,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:43:19+00:00,1047099412,1047098972,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:40:09+00:00,1047098972,1047098856,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:39:14+00:00,1047098856,1047098745,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:38:30+00:00,1047098745,1047098636,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:37:45+00:00,1047098636,1047098271,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:34:43+00:00,1047098271,1047098189,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:34:03+00:00,1047098189,1047097865,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:31:28+00:00,1047097865,1047097009,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-09-29T00:24:52+00:00,1047097009,1046308302,1,Inebranlable92,Algerian National Navy,
+2021-09-28T22:36:31+00:00,1047082767,1047082704,1,Inebranlable92,YJ-12,/* Current operators */
+2021-09-28T22:36:03+00:00,1047082704,1047082555,1,Inebranlable92,YJ-12,/* Current operators */
+2021-09-28T22:34:50+00:00,1047082555,1047082400,1,Inebranlable92,YJ-12,/* Current operators */
+2021-09-28T22:33:20+00:00,1047082400,1047082322,1,Inebranlable92,YJ-12,/* Current operators */
+2021-09-28T22:32:33+00:00,1047082322,1046924142,1,Inebranlable92,YJ-12,/* Operators */
+2021-09-28T22:29:23+00:00,1047081877,1040204401,1,Inebranlable92,Kh-35,/* Current operators */
+2021-09-27T22:18:12+00:00,1046885180,1046885088,1,Inebranlable92,YJ-12,/* Current operators */
+2021-09-27T22:17:36+00:00,1046885088,1046885024,1,Inebranlable92,YJ-12,/* Current operators */
+2021-09-27T22:17:09+00:00,1046885024,1046884894,1,Inebranlable92,YJ-12,/* Current operators */
+2021-09-27T22:16:11+00:00,1046884894,1046884703,1,Inebranlable92,YJ-12,/* Current operators */
+2021-09-27T22:14:53+00:00,1046884703,1046472424,1,Inebranlable92,YJ-12,/* Operators */
+2021-09-25T14:42:20+00:00,1046411204,1046410951,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-09-25T14:40:32+00:00,1046410951,1046410745,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-09-25T14:39:05+00:00,1046410745,1045378513,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-09-25T14:36:50+00:00,1046410418,1045022788,1,Inebranlable92,List of equipment of the Royal Moroccan Army,"/* Armoured personnel carriers, infantry fighting vehicles and support vehicles */"
+2021-09-25T00:46:56+00:00,1046308302,1046308240,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-25T00:46:25+00:00,1046308240,1046308139,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-25T00:45:32+00:00,1046308139,1046307646,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-25T00:41:15+00:00,1046307646,1046307421,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-25T00:38:56+00:00,1046307421,1046273040,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-09-25T00:35:32+00:00,1046306967,1046306792,1,Inebranlable92,S-400 missile system,/* Operators */
+2021-09-25T00:34:08+00:00,1046306792,1046306735,1,Inebranlable92,S-400 missile system,/* Operators */
+2021-09-25T00:33:31+00:00,1046306735,1046306636,1,Inebranlable92,S-400 missile system,/* Suspected operators */
+2021-09-25T00:32:41+00:00,1046306636,1046306523,1,Inebranlable92,S-400 missile system,/* Current operators */
+2021-09-25T00:31:39+00:00,1046306523,1045706768,1,Inebranlable92,S-400 missile system,/* Suspected operators */
+2021-09-25T00:23:53+00:00,1046305680,1046305510,1,Inebranlable92,YJ-12,/* Future operators */
+2021-09-25T00:22:29+00:00,1046305510,1046300409,1,Inebranlable92,YJ-12,/* Future operators */
+2021-09-24T20:14:57+00:00,1046273040,1046272937,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-24T20:14:13+00:00,1046272937,1046272466,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-24T20:10:48+00:00,1046272466,1046271416,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-24T20:03:14+00:00,1046271416,1046271139,1,Inebranlable92,Algerian National Navy,/* SAM */
+2021-09-24T20:01:33+00:00,1046271139,1046270937,1,Inebranlable92,Algerian National Navy,/* SAM */
+2021-09-24T20:00:14+00:00,1046270937,1046270485,1,Inebranlable92,Algerian National Navy,/* Munitions */
+2021-09-24T19:57:17+00:00,1046270485,1046270335,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-24T19:56:24+00:00,1046270335,1046270136,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-24T19:55:00+00:00,1046270136,1046269826,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-24T19:53:05+00:00,1046269826,1046260313,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-24T18:50:31+00:00,1046260313,1046260143,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-24T18:49:17+00:00,1046260143,1046259972,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-24T18:48:02+00:00,1046259972,1043399402,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-09-23T21:21:24+00:00,1046078989,1046078430,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-09-23T21:17:22+00:00,1046078430,1046077099,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-09-23T21:07:49+00:00,1046077099,1046076493,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-09-23T21:02:35+00:00,1046076493,1046075011,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-09-23T20:50:09+00:00,1046075011,1046074217,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-09-23T20:44:23+00:00,1046074217,1046069518,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-09-23T20:17:18+00:00,1046070341,1046069952,1,Inebranlable92,CAIG Wing Loong II,/* Operators */
+2021-09-23T20:14:40+00:00,1046069952,1044836337,1,Inebranlable92,CAIG Wing Loong II,/* Operators */
+2021-09-23T20:11:29+00:00,1046069518,1046069292,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-09-23T20:09:50+00:00,1046069292,1044227775,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-09-13T21:21:12+00:00,1044157357,1042558684,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-09-10T23:50:17+00:00,1043602939,1043602870,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-09-10T23:49:26+00:00,1043602870,1043602291,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-09-10T23:43:43+00:00,1043602291,1041716649,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-09-09T23:00:42+00:00,1043399402,1043352346,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-07-16T02:02:44+00:00,1033820938,1033820866,1,Inebranlable92,Algerian People's National Army,/* Composition */
+2021-07-16T02:02:12+00:00,1033820866,1033820795,1,Inebranlable92,Algerian People's National Army,/* Composition */
+2021-07-16T02:01:48+00:00,1033820795,1033820120,1,Inebranlable92,Algerian People's National Army,/* Composition */
+2021-07-16T01:56:13+00:00,1033820120,1033820043,1,Inebranlable92,Algerian People's National Army,/* Composition */
+2021-07-16T01:55:30+00:00,1033820043,1033800713,1,Inebranlable92,Algerian People's National Army,/* Composition */
+2021-07-16T01:42:45+00:00,1033818575,1033818027,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T01:37:09+00:00,1033818027,1033817399,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T01:27:07+00:00,1033816969,1033816353,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T01:21:04+00:00,1033816264,1033814911,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T01:07:59+00:00,1033814911,1033814869,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T01:07:35+00:00,1033814869,1033814736,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T01:06:24+00:00,1033814736,1033814252,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T01:02:39+00:00,1033814252,1033813830,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:58:57+00:00,1033813830,1033813780,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:58:30+00:00,1033813780,1033812123,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:38:03+00:00,1033811581,1033811316,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:35:42+00:00,1033811316,1033810928,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:32:14+00:00,1033810928,1033810608,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:29:25+00:00,1033810608,1033810347,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:26:52+00:00,1033810347,1033810184,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:25:23+00:00,1033810184,1033809826,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:22:16+00:00,1033809826,1033809591,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:18:09+00:00,1033809382,1033807973,1,Inebranlable92,Algerian Air Forces,
+2021-07-16T00:05:53+00:00,1033807973,1033806182,1,Inebranlable92,Algerian Air Forces,
+2021-07-15T23:50:07+00:00,1033806182,1033805970,1,Inebranlable92,Algerian Air Forces,
+2021-07-15T23:48:05+00:00,1033805970,1033805931,1,Inebranlable92,Algerian Air Forces,
+2021-07-15T23:47:45+00:00,1033805931,1033805870,1,Inebranlable92,Algerian Air Forces,
+2021-07-15T23:47:16+00:00,1033805870,1033805764,1,Inebranlable92,Algerian Air Forces,
+2021-07-15T23:46:19+00:00,1033805764,1033805255,1,Inebranlable92,Algerian Air Forces,
+2021-07-15T23:41:57+00:00,1033805255,0,1,Inebranlable92,Algerian Air Forces,[[WP:AES|←]]Created page with '| nom_unite = Algerian Air Force القوات الجوية الجزائرية  | image = Algerian Air Force wings.svg  | image size = 250  | legend = Official badge of the Algerian air force command  | creation = {{Date|5|July|1962}}  | dissolution =  | country = {{Algeria}}  | allegeance = [[National People's Army (Algeria)| National People's Army]]  | branch =  | type = [[Military air component| Air force]]  | role =  | effective = {{formatnum: 25000}}  |...'
+2021-07-15T23:00:11+00:00,1033800713,1033800621,1,Inebranlable92,Algerian People's National Army,/* Composition */
+2021-07-15T22:59:12+00:00,1033800621,1030384048,1,Inebranlable92,Algerian People's National Army,/* Composition */
+2021-07-15T19:09:30+00:00,1033772073,1033771496,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-07-15T19:04:44+00:00,1033771496,1032678723,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-07-08T23:56:29+00:00,1032678543,1032677070,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-07-08T23:38:21+00:00,1032677070,1032676825,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-07-08T23:35:35+00:00,1032676825,1031095318,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-07-08T20:13:03+00:00,1032654306,1032654244,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-07-08T20:12:29+00:00,1032654244,1032654150,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-07-08T20:11:46+00:00,1032654150,1032032707,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-03-16T16:10:30+00:00,1012479197,1010895277,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-21T00:14:04+00:00,1007990517,1007990448,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-21T00:13:41+00:00,1007990448,1007990295,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-21T00:12:35+00:00,1007990295,1007990093,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-21T00:11:12+00:00,1007990093,1007989923,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-21T00:10:05+00:00,1007989923,1007565773,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-14T23:11:51+00:00,1006812626,1006807448,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-14T22:31:39+00:00,1006807448,1006806314,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-14T22:22:50+00:00,1006806314,1006767103,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-14T18:09:11+00:00,1006767103,1006748353,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-14T16:07:17+00:00,1006748353,1006748009,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-14T16:05:10+00:00,1006748009,1006747356,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-14T16:01:20+00:00,1006747356,1006743763,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-14T15:38:52+00:00,1006744421,1006744358,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-02-14T15:38:21+00:00,1006744358,1006744287,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-02-14T15:37:50+00:00,1006744287,1006744127,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-02-14T15:36:26+00:00,1006744127,1006743999,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-02-14T15:35:22+00:00,1006743999,1006657333,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-02-14T15:33:35+00:00,1006743763,1006743557,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-14T15:32:04+00:00,1006743557,1006743400,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-14T15:30:53+00:00,1006743400,1006741816,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-14T15:19:09+00:00,1006741816,1006741640,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-14T15:17:41+00:00,1006741640,1006740937,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-02-14T15:12:22+00:00,1006740937,1006739629,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-14T15:02:26+00:00,1006739629,1006739064,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-14T14:57:21+00:00,1006739064,1006653619,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-14T01:54:30+00:00,1006657333,1006354290,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-02-14T01:26:40+00:00,1006653619,1006650741,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-14T01:06:58+00:00,1006650741,1006648980,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-14T00:56:26+00:00,1006648980,1006643918,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-12T23:30:18+00:00,1006450633,989614901,1,Inebranlable92,Lerici-class minehunter,/* List */
+2021-02-12T23:00:37+00:00,1006445966,1006445320,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-12T22:56:45+00:00,1006445320,1006445074,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-12T22:55:19+00:00,1006445074,1005659103,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-12T22:51:41+00:00,1006444477,1004870877,1,Inebranlable92,CASC Rainbow,/* Operators */
+2021-02-12T21:04:10+00:00,1006428392,1006427971,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-12T16:21:17+00:00,1006384358,1006383534,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-12T16:16:14+00:00,1006383534,1006381329,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-12T16:02:53+00:00,1006381329,1006377025,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-12T15:35:03+00:00,1006377025,1006376362,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-12T15:30:57+00:00,1006376362,1006375250,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-12T15:23:10+00:00,1006375250,1006374649,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-12T15:19:02+00:00,1006374649,1006373801,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-12T15:12:51+00:00,1006373801,1006372830,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-02-12T15:05:48+00:00,1006372830,1006369396,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-02-12T14:38:47+00:00,1006369396,1006364777,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-12T14:06:44+00:00,1006364777,1006362247,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-12T13:47:37+00:00,1006362247,1006361948,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-12T13:45:25+00:00,1006361948,1006361461,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-12T13:41:39+00:00,1006361461,1006358902,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-12T13:20:56+00:00,1006358902,1006357626,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-12T13:09:41+00:00,1006357626,1006356583,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-12T13:02:04+00:00,1006356583,1006356022,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-12T12:57:19+00:00,1006356022,1006350871,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-12T12:42:13+00:00,1006354290,1006277468,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-02-12T12:10:15+00:00,1006350871,1006349265,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-12T11:55:07+00:00,1006349265,1006279905,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-12T01:25:59+00:00,1006279905,1006246256,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-12T01:06:44+00:00,1006277468,1006277334,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-02-12T01:05:30+00:00,1006277334,1006273232,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-02-12T00:31:33+00:00,1006273232,1006269671,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-02-12T00:04:16+00:00,1006269671,1006265039,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-02-11T23:26:46+00:00,1006265039,1006264988,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-02-11T23:26:19+00:00,1006264988,1006261276,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-02-11T22:56:20+00:00,1006261276,1000431694,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-02-11T21:08:10+00:00,1006246256,1006244751,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-11T20:56:42+00:00,1006244751,1006244522,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-11T20:55:13+00:00,1006244522,1006244214,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-11T20:52:56+00:00,1006244214,1006243370,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-11T20:46:10+00:00,1006243370,1006242998,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-11T20:43:40+00:00,1006242998,1006242589,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-11T20:40:44+00:00,1006242589,1006151888,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-11T10:07:21+00:00,1006151888,1006151651,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-11T10:05:56+00:00,1006151651,1004996284,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-02-09T15:26:07+00:00,1005816302,1005816101,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-02-09T15:24:51+00:00,1005816101,1005815938,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-02-09T15:23:54+00:00,1005815938,1005815787,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-02-09T15:22:56+00:00,1005815787,1005815519,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-02-09T15:21:35+00:00,1005815519,1005613500,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-02-05T13:03:36+00:00,1004998864,1004998407,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-05T12:59:39+00:00,1004998407,1004998273,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-05T12:58:23+00:00,1004998273,1004997566,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-05T12:52:04+00:00,1004997566,1004997068,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-05T12:47:00+00:00,1004997068,1004996663,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-05T12:43:32+00:00,1004996663,1004913661,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-05T12:39:55+00:00,1004996284,1004996203,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-05T12:39:00+00:00,1004996203,1004253630,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-04T21:18:26+00:00,1004877146,1004876818,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-04T21:16:34+00:00,1004876818,1004876723,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-04T21:15:59+00:00,1004876723,1004876129,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-04T21:11:58+00:00,1004876129,1004651326,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-03T18:03:41+00:00,1004651326,1003628255,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-02-01T13:40:36+00:00,1004192246,1004053679,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-02-01T12:24:05+00:00,1004181440,1004181276,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-02-01T12:22:53+00:00,1004181276,1003640029,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-29T22:27:20+00:00,1003628989,1003628830,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-29T22:26:24+00:00,1003628830,1003618705,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-29T22:23:02+00:00,1003628255,1003430702,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-29T19:45:47+00:00,1003601920,1003601741,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-29T19:44:49+00:00,1003601741,1003601245,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-29T19:41:55+00:00,1003601245,1003601007,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-29T19:40:39+00:00,1003601007,1002968372,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-26T14:05:30+00:00,1002888484,1002887796,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-26T14:01:09+00:00,1002887796,1002887355,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-26T13:58:34+00:00,1002887355,1002887177,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-26T13:57:31+00:00,1002887177,1002886533,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-26T13:53:44+00:00,1002886533,1002886440,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-26T13:53:03+00:00,1002886440,1002683458,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-21T14:41:21+00:00,1001822062,1001821932,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-21T14:40:19+00:00,1001821932,1001821637,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-21T14:38:00+00:00,1001821637,1001821284,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-21T14:35:28+00:00,1001821284,1001821154,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-21T14:34:24+00:00,1001821154,1001820495,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-21T14:29:20+00:00,1001820495,1001474729,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-18T14:25:56+00:00,1001164889,1001162717,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-18T14:12:53+00:00,1001162717,1001162386,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-18T14:10:50+00:00,1001162386,1001131181,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-15T11:47:07+00:00,1000512311,1000511068,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-15T11:36:47+00:00,1000511068,1000510385,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-15T11:30:39+00:00,1000510385,1000508139,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-15T11:09:55+00:00,1000508139,1000499598,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-15T10:34:16+00:00,1000504246,1000432312,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-15T09:59:11+00:00,1000499598,1000499136,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-15T09:55:46+00:00,1000499136,1000440040,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-15T03:21:21+00:00,1000440040,1000439294,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-15T03:15:52+00:00,1000439294,1000430917,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-15T02:25:32+00:00,1000432312,1000423908,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-15T02:21:51+00:00,1000431694,1000428089,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-15T02:17:37+00:00,1000430917,1000430563,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-15T02:15:22+00:00,1000430563,1000425474,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-15T02:01:09+00:00,1000428089,1000426992,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-01-15T01:54:59+00:00,1000426992,1000426523,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-01-15T01:51:57+00:00,1000426523,1000234003,1,Inebranlable92,Algerian National Navy,/* Anti-ship Missiles */
+2021-01-15T01:45:30+00:00,1000425474,1000424606,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-15T01:40:36+00:00,1000424606,1000366633,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-15T01:36:47+00:00,1000423908,1000423323,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-15T01:33:25+00:00,1000423323,999956805,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-14T20:33:48+00:00,1000366633,1000350455,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-14T12:33:29+00:00,1000273988,1000272199,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T12:17:14+00:00,1000272199,1000270956,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T12:07:30+00:00,1000270956,1000268054,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T12:03:47+00:00,1000270525,1000270279,1,Inebranlable92,HQ-9,/* Operators */
+2021-01-14T12:01:46+00:00,1000270279,999153208,1,Inebranlable92,HQ-9,/* Operators */
+2021-01-14T11:43:22+00:00,1000268054,1000202356,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-14T11:39:33+00:00,1000267367,1000074562,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-14T02:42:14+00:00,1000202356,1000201336,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T02:35:22+00:00,1000201336,1000197492,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T02:11:03+00:00,1000197492,1000197271,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T02:09:51+00:00,1000197271,1000196865,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T02:07:27+00:00,1000196865,1000196763,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T02:06:44+00:00,1000196763,1000196476,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T02:04:51+00:00,1000196476,1000193369,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T01:44:36+00:00,1000193369,1000193142,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T01:42:48+00:00,1000193142,1000192914,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-14T01:41:01+00:00,1000192914,1000118132,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-13T13:00:26+00:00,1000075884,1000075641,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-13T12:58:26+00:00,1000075641,1000075326,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-13T12:55:54+00:00,1000075326,1000075083,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-13T12:54:05+00:00,1000075083,1000074253,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-13T12:49:28+00:00,1000074562,1000074490,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-13T12:48:46+00:00,1000074490,1000073069,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-13T12:46:22+00:00,1000074253,1000073368,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-13T12:36:54+00:00,1000073368,1000073225,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-13T12:35:16+00:00,1000073225,999953738,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-13T12:33:35+00:00,1000073069,1000072770,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-13T12:29:54+00:00,1000072770,1000072741,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-13T12:29:36+00:00,1000072741,1000072674,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-13T12:28:51+00:00,1000072674,1000071855,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-13T12:20:27+00:00,1000071855,999952299,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-12T19:26:47+00:00,999947633,999945470,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-12T19:15:26+00:00,999945470,999945389,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-12T19:15:04+00:00,999945389,999944657,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-12T19:10:40+00:00,999944657,999944589,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-12T19:10:15+00:00,999944589,999384149,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-12T07:13:43+00:00,999848349,999848263,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-12T07:12:46+00:00,999848263,999846771,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-12T06:57:51+00:00,999846771,999502281,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-11T20:04:55+00:00,999753491,999753095,1,Inebranlable92,Nora B-52,/* Current operators */
+2021-01-11T20:02:38+00:00,999753095,999101815,1,Inebranlable92,Nora B-52,/* Current operators */
+2021-01-10T14:33:37+00:00,999502281,999389213,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-10T02:38:54+00:00,999424083,999423902,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-10T02:37:23+00:00,999423902,999423795,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-10T02:36:27+00:00,999423795,999422644,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-10T02:28:18+00:00,999422644,999407685,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-10T00:54:57+00:00,999407685,999407051,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-10T00:50:56+00:00,999407051,999400286,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-10T00:08:24+00:00,999400286,999400085,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-10T00:07:19+00:00,999400085,999399710,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-10T00:05:00+00:00,999399710,999373765,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-09T22:56:43+00:00,999390294,999346827,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-09T22:49:14+00:00,999389213,999383669,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-09T22:16:29+00:00,999384149,999383976,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-09T22:15:32+00:00,999383976,999347608,1,Inebranlable92,Algerian National Navy,/* Aircraft */
+2021-01-09T22:13:36+00:00,999383669,999347347,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-09T21:15:45+00:00,999373765,999372621,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T21:09:21+00:00,999372621,999369869,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-09T20:55:03+00:00,999369869,999368888,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-09T20:50:11+00:00,999368888,999368408,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-09T20:48:00+00:00,999368408,999366564,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-09T20:38:41+00:00,999366564,999366001,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-09T20:35:51+00:00,999366001,999364722,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-09T20:28:43+00:00,999364722,999364392,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-09T20:26:43+00:00,999364392,999364240,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-09T20:25:44+00:00,999364240,999363485,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-09T20:21:10+00:00,999363485,999363136,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-09T20:19:09+00:00,999363136,999362139,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-09T20:13:49+00:00,999362139,999357116,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-09T19:41:23+00:00,999357116,999356717,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-09T19:38:57+00:00,999356717,999356381,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-09T19:37:11+00:00,999356381,999355737,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-09T19:33:16+00:00,999355737,999355071,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-09T19:28:51+00:00,999355071,999354771,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-09T19:27:26+00:00,999354771,999354307,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-09T19:25:27+00:00,999354307,999353838,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T19:23:16+00:00,999353838,999353422,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T19:21:05+00:00,999353422,999353086,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T19:19:13+00:00,999353086,999352442,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T19:15:41+00:00,999352442,999350521,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T19:06:10+00:00,999350521,999350291,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T19:04:43+00:00,999350291,999349711,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T19:01:21+00:00,999349711,999349368,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T18:59:24+00:00,999349368,999348518,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T18:54:35+00:00,999348518,999309006,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-09T18:49:11+00:00,999347608,999344336,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-09T18:47:46+00:00,999347347,999337845,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-09T18:44:44+00:00,999346827,999346077,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-09T18:40:15+00:00,999346077,999345810,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-09T18:38:41+00:00,999345810,999345556,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-09T18:37:14+00:00,999345556,999345260,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-09T18:35:34+00:00,999345260,999307686,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-09T18:30:28+00:00,999344336,999338282,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-09T17:58:25+00:00,999338282,999307227,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-09T17:55:56+00:00,999337845,999336794,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-09T17:50:33+00:00,999336794,999336271,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-09T17:47:28+00:00,999336271,999332272,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-09T17:22:18+00:00,999332272,999331840,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-09T17:19:40+00:00,999331840,999331511,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-09T17:17:30+00:00,999331511,999157767,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-09T14:53:28+00:00,999309006,999150995,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-01-09T14:44:23+00:00,999307686,999143583,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-09T14:41:12+00:00,999307227,999133492,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-08T19:39:38+00:00,999157767,999157657,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T19:39:00+00:00,999157657,999148691,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T18:47:27+00:00,999148691,999144028,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T18:39:03+00:00,999147202,999145819,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-08T18:31:24+00:00,999145819,999140332,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-08T18:21:03+00:00,999144028,999132882,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T18:18:31+00:00,999143583,999083063,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-08T17:59:18+00:00,999140332,999139979,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-08T17:57:18+00:00,999139979,999138772,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-08T17:50:17+00:00,999138772,999137567,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-01-08T17:43:13+00:00,999137567,998875397,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-08T17:20:10+00:00,999133492,999116056,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-08T17:16:34+00:00,999132882,999107167,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T15:40:35+00:00,999116056,999115403,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-08T15:37:18+00:00,999115403,999115266,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-01-08T15:36:34+00:00,999115266,999115168,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-08T15:36:00+00:00,999115168,999114781,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-08T15:33:59+00:00,999114781,999114310,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-08T15:31:41+00:00,999114310,999113917,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-08T15:29:29+00:00,999113917,999113033,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-08T15:24:09+00:00,999113033,999112879,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-08T15:23:12+00:00,999112879,999112614,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-08T15:21:41+00:00,999112614,999110961,1,Inebranlable92,Algerian National Navy,/* Equipment */
+2021-01-08T15:12:16+00:00,999110961,999109781,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-08T15:05:20+00:00,999109781,999109056,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-08T15:00:38+00:00,999109056,999108817,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-08T14:59:02+00:00,999108817,999108607,1,Inebranlable92,Algerian National Navy,/* Equipment */
+2021-01-08T14:57:28+00:00,999108607,999108467,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-08T14:56:39+00:00,999108467,999108314,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-08T14:55:41+00:00,999108314,999108035,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-08T14:53:48+00:00,999108035,999107709,1,Inebranlable92,Algerian National Navy,/* Aircraft */
+2021-01-08T14:51:28+00:00,999107709,999107657,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-01-08T14:51:08+00:00,999107657,999107620,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-08T14:50:51+00:00,999107620,999107538,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-08T14:50:23+00:00,999107538,999103574,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-08T14:48:05+00:00,999107167,999106750,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T14:45:25+00:00,999106750,999106400,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T14:43:21+00:00,999106400,999104002,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T14:28:16+00:00,999104002,999103634,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T14:25:52+00:00,999103634,999102876,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T14:20:51+00:00,999102876,999102784,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T14:20:18+00:00,999102784,998967147,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-08T11:43:08+00:00,999083063,999082547,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-08T11:38:45+00:00,999082547,999081811,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-08T11:32:24+00:00,999081811,999080560,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-08T11:25:04+00:00,999080560,999002032,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-08T01:14:35+00:00,999002032,998977478,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-08T00:15:52+00:00,998992330,998979919,1,Inebranlable92,Algerian People's National Army,/* Composition */
+2021-01-07T23:00:37+00:00,998980100,998663737,1,Inebranlable92,Algerian Land Forces,
+2021-01-07T22:59:29+00:00,998979919,998663477,1,Inebranlable92,Algerian People's National Army,
+2021-01-07T22:43:11+00:00,998977478,998977271,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:41:41+00:00,998977271,998976635,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:37:20+00:00,998976635,998976143,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:33:59+00:00,998976143,998976021,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:33:11+00:00,998976021,998974998,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:26:39+00:00,998974998,998974624,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:24:08+00:00,998974624,998974015,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:20:19+00:00,998974015,998973904,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:19:32+00:00,998973904,998973687,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:18:01+00:00,998973687,998973210,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:15:03+00:00,998973210,998972851,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:12:36+00:00,998972851,998971801,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:05:46+00:00,998971801,998970991,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T22:00:51+00:00,998970991,998970786,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T21:59:35+00:00,998970786,998970533,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T21:57:53+00:00,998970533,998969819,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T21:53:29+00:00,998969819,998969610,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T21:52:14+00:00,998969610,998968350,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T21:43:54+00:00,998968350,998968191,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T21:42:54+00:00,998968191,998967618,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T21:39:29+00:00,998967618,995433809,1,Inebranlable92,Territorial Air Defence Forces,/* Equipment */
+2021-01-07T21:36:24+00:00,998967147,998960396,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T21:33:43+00:00,998966739,998966572,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-07T21:32:24+00:00,998966572,998966440,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-01-07T21:31:25+00:00,998966440,998965897,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-07T21:27:31+00:00,998965897,998964300,1,Inebranlable92,Algerian National Navy,/* Aircraft */
+2021-01-07T21:17:00+00:00,998964300,998964096,1,Inebranlable92,Algerian National Navy,/* Aircraft */
+2021-01-07T21:15:42+00:00,998964096,998963843,1,Inebranlable92,Algerian National Navy,/* Aircraft */
+2021-01-07T21:13:55+00:00,998963843,998963699,1,Inebranlable92,Algerian National Navy,/* Fleet auxiliaries */
+2021-01-07T21:12:52+00:00,998963699,998963286,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-07T21:10:15+00:00,998963286,998963152,1,Inebranlable92,Algerian National Navy,/* Amphibious warfare vessels */
+2021-01-07T21:09:27+00:00,998963152,998962947,1,Inebranlable92,Algerian National Navy,/* Submarines */
+2021-01-07T21:08:09+00:00,998962947,998962893,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-07T21:07:50+00:00,998962893,998845348,1,Inebranlable92,Algerian National Navy,/* Surface combatants */
+2021-01-07T20:52:15+00:00,998960396,998958475,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T20:40:49+00:00,998958475,998958408,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T20:40:26+00:00,998958408,998958171,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T20:38:56+00:00,998958171,998957423,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T20:35:05+00:00,998957423,998943591,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T19:18:57+00:00,998943591,998943139,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T19:16:40+00:00,998943139,998942526,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T19:13:25+00:00,998942526,998939872,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T18:59:15+00:00,998939872,998923347,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:51:41+00:00,998915866,998915748,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:50:58+00:00,998915748,998915597,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:50:05+00:00,998915597,998914548,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:44:38+00:00,998914548,998913776,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:40:16+00:00,998913776,998913174,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:36:56+00:00,998913174,998911947,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:29:23+00:00,998911947,998911699,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:27:54+00:00,998911699,998911581,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:27:09+00:00,998911581,998911195,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:25:09+00:00,998911195,998911007,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:24:07+00:00,998911007,998908934,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:13:39+00:00,998908934,998908105,1,Inebranlable92,Algerian Air Force,/* Aircraft */
+2021-01-07T16:08:42+00:00,998908105,998907131,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T16:03:12+00:00,998907131,998899380,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T15:17:45+00:00,998899380,998899330,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T15:17:27+00:00,998899330,998899231,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T15:16:51+00:00,998899231,998899092,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T15:16:03+00:00,998899092,998898845,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T15:14:44+00:00,998898845,998898596,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T15:13:15+00:00,998898596,998777602,1,Inebranlable92,Algerian Air Force,/* Current inventory */
+2021-01-07T12:17:50+00:00,998875397,998875067,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-07T12:15:15+00:00,998875067,998872004,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-07T11:48:25+00:00,998872004,998871839,1,Inebranlable92,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-28T22:42:58+00:00,1057659723,1057659346,1,Mascara75,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-28T22:39:40+00:00,1057659346,1057659113,1,Mascara75,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-28T22:37:21+00:00,1057659113,1057657345,1,Mascara75,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-28T22:23:37+00:00,1057657345,1057654989,1,Mascara75,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-28T22:05:36+00:00,1057654989,1057654829,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T22:04:19+00:00,1057654829,1057654442,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T22:01:38+00:00,1057654442,1057653792,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:56:21+00:00,1057653792,1057653310,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:52:15+00:00,1057653310,1057652344,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:45:25+00:00,1057652344,1057652190,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:44:21+00:00,1057652190,1057652012,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:43:13+00:00,1057652012,1057651404,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:39:01+00:00,1057651404,1057651214,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:37:47+00:00,1057651214,1057650154,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:30:44+00:00,1057650154,1057649369,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:25:14+00:00,1057649369,1057647447,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:12:23+00:00,1057647447,1057647016,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:09:37+00:00,1057647016,1057645860,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T21:01:48+00:00,1057645860,1057645015,1,Mascara75,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-28T20:49:58+00:00,1057644114,1057643273,1,Mascara75,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-28T20:40:38+00:00,1057642638,1057642548,1,Mascara75,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-28T20:40:02+00:00,1057642548,1057641891,1,Mascara75,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-28T20:36:00+00:00,1057641891,1057641285,1,Mascara75,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-11-28T20:31:49+00:00,1057641285,1057640731,1,Mascara75,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-11-28T20:28:29+00:00,1057640731,1057640500,1,Mascara75,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-11-28T20:26:59+00:00,1057640500,1057640308,1,Mascara75,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-11-28T20:25:37+00:00,1057640308,1057637136,1,Mascara75,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-11-28T20:05:55+00:00,1057637136,1057636876,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T20:04:13+00:00,1057636876,1057636783,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T20:03:36+00:00,1057636783,1057636675,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T20:02:51+00:00,1057636675,1057635921,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-28T19:58:08+00:00,1057635921,1056848213,1,Mascara75,List of equipment of the Algerian Land Forces,/* Command and control */
+2021-11-23T22:52:59+00:00,1056848721,1056845955,1,Mascara75,List of equipment of the Royal Moroccan Army,/* Weapons */
+2021-11-23T22:47:52+00:00,1056848213,1056848079,1,Mascara75,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-23T22:46:42+00:00,1056848079,1056847588,1,Mascara75,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-23T22:42:31+00:00,1056847588,1056809190,1,Mascara75,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-11-23T22:27:35+00:00,1056845955,1056843497,1,Mascara75,List of equipment of the Royal Moroccan Army,"/* Armoured personnel carriers, infantry fighting vehicles and support vehicles */"
+2021-11-23T22:07:26+00:00,1056843497,1056843118,1,Mascara75,List of equipment of the Royal Moroccan Army,"/* Armoured personnel carriers, infantry fighting vehicles and support vehicles */"
+2021-11-23T22:04:03+00:00,1056843118,1056841476,1,Mascara75,List of equipment of the Royal Moroccan Army,"/* Armoured personnel carriers, infantry fighting vehicles and support vehicles */"
+2021-11-23T21:50:53+00:00,1056841476,1056841250,1,Mascara75,List of equipment of the Royal Moroccan Army,/* Surface to surface artillery */
+2021-11-23T18:01:12+00:00,1056810888,1056810705,1,Mascara75,Royal Moroccan Air Force,/* Current inventory */
+2021-11-23T18:00:06+00:00,1056810705,1056698326,1,Mascara75,Royal Moroccan Air Force,/* Current inventory */
+2021-11-23T17:57:08+00:00,1056810274,1056571185,1,Mascara75,List of equipment of the Royal Moroccan Army,/* Weapons */
+2021-11-23T17:49:25+00:00,1056809190,1056620748,1,Mascara75,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-17T13:46:06+00:00,1000943982,1000504246,0,Nafis Fuad Ayon,Algerian Air Force,/* Current inventory */Information moved to proper place.
+2021-11-09T16:45:40+00:00,1054366925,1054202372,0,Fry1989,Algerian Air Force,/* top */
+2021-06-29T19:54:32+00:00,1031095318,1031092971,0,Sizito,Algerian Air Force,/* Current inventory */
+2021-09-05T16:10:16+00:00,1042558684,1042557476,0,GalloRuspante,Algerian Air Force,Undid revision 1042557476 by [[Special:Contributions/FOX 52|FOX 52]] ([[User talk:FOX 52|talk]]) The source talks about NIGERIA; no mention of Algeria in it.
+2021-01-12T20:21:07+00:00,999956805,999955656,0,Dodger67,Algerian Air Force,/* Current inventory */ The Algerian Superhind upgrade predates the Paramount group's takeover of ATE
+2021-03-17T12:35:56+00:00,1012627026,1009430278,0,Tom.Reding,Algerian Air Force,+{{Authority control}}; [[WP:GenFixes]] on
+2021-06-18T17:39:57+00:00,1029231610,1029219507,0,FOX 52,Algerian Air Force,spacing
+2021-08-27T17:31:43+00:00,1040954080,1040951290,0,AnomieBOT,Algerian Air Force,Dating maintenance tags: {{Citation needed}}
+2021-01-23T22:35:02+00:00,1002328622,1002138332,0,Wasteland1,Algerian Air Force,/* Current inventory */ Updated the numbers according to Flightglobal 2021 report
+2021-08-02T15:32:44+00:00,1036765000,1035881355,0,2400:ADC1:175:B300:5403:BC6A:7A2F:C84,Algerian Air Force,/* External links */
+2021-05-19T14:15:49+00:00,1023994644,1023951921,0,FOX 52,Algerian Air Force,unnecessary change(s)
+2021-04-21T05:15:32+00:00,1019033826,1018336135,0,InternetArchiveBot,Algerian Air Force,Rescuing 0 sources and tagging 1 as dead.) #IABot (v2.0.8
+2021-02-28T15:20:23+00:00,1009430278,1009376801,0,Mikeblas,Algerian Air Force,Reverted 1 edit by [[Special:Contributions/2A0F:D00:D100:A500:51D:7C22:5B60:A5D3|2A0F:D00:D100:A500:51D:7C22:5B60:A5D3]] ([[User talk:2A0F:D00:D100:A500:51D:7C22:5B60:A5D3|talk]]): Revert update based on undefined reference; fix undefined reference error
+2021-07-20T23:21:28+00:00,1034621051,1034615441,0,FOX 52,Algerian Air Force,revert un-sourced change(s) [[WP:PROVEIT]]
+2021-09-14T06:22:29+00:00,1044227775,1044157357,0,FOX 52,Algerian Air Force,that's a given
+2021-05-30T22:58:09+00:00,1026020403,1025511948,0,2A01:E0A:14C:8C60:C5F2:F433:A973:E29A,Algerian Air Force,/* Current inventory */
+2021-06-03T01:04:43+00:00,1026564473,1026542835,0,FOX 52,Algerian Air Force,repair table
+2021-02-08T20:27:05+00:00,1005659103,1004998864,0,Zemaninadir,Algerian Air Force,"Some information are not true in your site web so I did change them,because they are very important"
+2021-02-18T20:27:33+00:00,1007565773,1006599257,0,Jawi13,Algerian Air Force,/* Current inventory */
+2021-11-22T02:42:13+00:00,1056486877,1056485840,0,Ckfasdf,Algerian Air Force,replace facebook source
+2021-11-26T18:02:26+00:00,1057290298,1056486877,0,Ineffablebookkeeper,Algerian Air Force,"replaced line breaks in infobox with {{ubl}} format; small rewrite of one sentence, fixed ref spacing"
+2021-08-23T04:00:54+00:00,1040190534,1040186402,0,FOX 52,Algerian Air Force,revert un-sourced change(s) [[WP:PROVEIT]]
+2021-05-10T18:42:28+00:00,1022478212,1022324872,0,Maroc.n2,Algerian Air Force,/* Current inventory */ It didnt clearly state if there was going to be a purchase
+2021-02-13T19:28:43+00:00,1006599257,1006591814,0,Schlummerhimmel,Algerian Air Force,/* Current inventory */ Removed the claim that the SU-57 will replace the MiG-25 since there are no reliable sources for that claim. Also removed the claim that they will receive Su-34 and Su-35  as well since those are only rumors.
+2021-01-26T21:18:32+00:00,1002966553,1002966287,0,Wasteland1,Algerian Air Force,/* Current inventory */
+2021-07-15T21:03:57+00:00,1033787765,1033787700,0,FOX 52,Algerian Air Force,remove duplicate
+2021-04-17T14:41:59+00:00,1018336135,1012627026,0,Citation bot,Algerian Air Force,"Alter: title, journal. Removed access-date with no URL. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Grimes2 | [[Category:CS1 errors: access-date without URL]] | via #UCB_Category 1598/1764"
+2021-05-07T00:53:19+00:00,1021848730,1019033826,0,104.174.85.38,Algerian Air Force,/* Aircraft */
+2021-05-27T14:43:12+00:00,1025434068,1025177811,0,194.36.194.140,Algerian Air Force,/* Current inventory */
+2021-05-14T01:32:39+00:00,1023048532,1023036689,0,FOX 52,Algerian Air Force,revert un-sourced change(s) - [[WP:PROVEIT]]
+2021-05-26T05:14:18+00:00,1025177811,1024935875,0,2A00:1FA2:2C3:B188:91E6:B326:3052:74D6,Algerian Air Force,
+2021-05-28T00:37:15+00:00,1025511948,1025434756,0,FOX 52,Algerian Air Force,revert un-sourced change(s) - [[WP:PROVEIT]]
+2021-08-25T03:30:02+00:00,1040529368,1040190534,0,Citation bot,Algerian Air Force,"Alter: title, date. Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1821/2197"
+2021-08-18T19:03:05+00:00,1039444320,1036765000,0,Njd-de,Algerian Air Force,Reverted edits by [[Special:Contribs/2400:ADC1:175:B300:5403:BC6A:7A2F:C84|2400:ADC1:175:B300:5403:BC6A:7A2F:C84]] ([[User talk:2400:ADC1:175:B300:5403:BC6A:7A2F:C84|talk]]) to last version by Jeth888
+2021-09-05T10:12:52+00:00,1042508707,1042351883,0,GalloRuspante,Algerian Air Force,Undid revision 1042351883 by [[Special:Contributions/FOX 52|FOX 52]] ([[User talk:FOX 52|talk]])
+2021-07-08T23:59:06+00:00,1032678723,1032678543,0,FOX 52,Algerian Air Force,that's a given
+2021-05-24T20:43:57+00:00,1024935875,1023994644,0,2001:569:74DC:3000:FC30:DCC3:5A8E:D95F,Algerian Air Force,
+2021-08-26T20:25:01+00:00,1040811628,1040811521,0,2A01:E0A:14C:8C60:74B7:EABF:AF86:57F7,Algerian Air Force,/* Current inventory */
+2021-05-27T14:48:08+00:00,1025434756,1025434689,0,194.36.194.140,Algerian Air Force,/* Current inventory */
+2021-11-20T05:23:13+00:00,1056170956,1056164766,0,FOX 52,Algerian Air Force,No for English Wikipedia Roman text should be used
+2021-05-09T21:34:13+00:00,1022324872,1021848730,0,197.206.121.38,Algerian Air Force,/* Current inventory */
+2021-07-16T01:47:23+00:00,1033819056,1033818614,0,DanCherek,Algerian Air Forces,attribution: text from preceding edits was translated from the French Wikipedia article at [[fr:Forces aériennes algériennes]] — see that page's history for attribution
+2021-07-09T14:09:10+00:00,1032762262,1032761980,0,Llammakey,Algerian National Navy,/* Fleet auxiliaries */ general copyedit
+2021-06-04T11:43:21+00:00,1026814372,1024314844,0,Kku,Algerian National Navy,link [[maritime safety]] using [[:en:User:Edward/Find link|Find link]]
+2021-09-03T12:38:14+00:00,1042149373,1042142711,0,CaptainAngus,Algerian Land Forces,/* Military regions */ Updated to neutral language per [[Wikipedia:Typo Team/moss]]
+2021-06-06T09:31:43+00:00,1027136853,1027136487,0,Buckshot06,Algerian Land Forces,add ref
+2021-03-03T17:37:06+00:00,1010074039,1010072958,0,84.77.142.119,Algerian National Navy,/* Surface combatants */
+2021-05-21T11:28:36+00:00,1024314844,1010074039,0,DasHyphenator,Algerian National Navy,Added comma.
+2021-11-11T19:49:14+00:00,1054731682,1054202317,0,Jawi13,Algerian National Navy,/* Modernization */ I changed the picture
+2021-08-26T13:19:06+00:00,1040755209,1040753222,0,Kistara,Algerian National Navy,/* Surface combatants */ add content with source
+2021-10-09T18:12:49+00:00,1049076673,1049076479,0,41.102.43.233,Algerian National Navy,Text
+2021-01-14T06:47:36+00:00,1000234003,1000116751,0,ಮಲ್ನಾಡಾಚ್ ಕೊಂಕ್ಣೊ,Algerian National Navy,Fixed the file syntax Lint error.
+2021-11-08T17:29:43+00:00,1054202317,1049076673,0,Nubia86,Algerian National Navy,
+2021-06-20T23:14:55+00:00,1029594882,1026814372,0,SdkbBot,Algerian National Navy,"[[WP:GENFIX|General fixes]], removed [[WP:REFPUNCT|erroneous]] space"
+2021-02-16T19:59:26+00:00,1007166659,1006744421,0,Phso2,Algerian National Navy,"/* History */ unsourced exaggeration, the various attacks or bombing of Algiers were not repulsed by naval victories achieved by the navy against its opponents"
+2021-07-05T05:00:46+00:00,1032032707,1029594882,0,GreenC bot,Algerian National Navy,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-11-19T13:21:36+00:00,1056057115,1056056826,0,Pachu Kannan,Algerian National Navy,Restored revision 1054731682 by [[Special:Contributions/Jawi13|Jawi13]] ([[User talk:Jawi13|talk]]): Twitter is not a reliable source.
+2021-03-06T11:34:04+00:00,1010614717,1008162554,0,Kalimoun,Algerian People's National Army,/* History */ Adding [[Declaration of 1 November 1954]]
+2021-04-17T02:55:28+00:00,1018259807,1018256378,0,Thepharoah17,Algerian People's National Army,/* Border disputes */wl
+2021-09-03T12:02:08+00:00,1042144395,1040684396,0,Louenas.93,Algerian People's National Army,
+2021-11-11T19:43:28+00:00,1054730852,1054208791,0,Jawi13,Algerian People's National Army,I add 1 picture
+2021-10-09T18:19:48+00:00,1049077773,1049075653,0,Skjoldbro,Algerian People's National Army,unexplained removal
+2021-06-25T16:04:24+00:00,1030384048,1030316446,0,109.93.168.205,Algerian People's National Army,"Usually is taken total military budget for and ranking in billions, and it more matter about financing, not gdp part. And its not a page for competition who is more and better."
+2021-09-17T09:44:06+00:00,1044838400,1044737667,0,Skjoldbro,Algerian People's National Army,
+2021-01-27T14:46:38+00:00,1003124992,1002560171,0,Nubia86,Algerian People's National Army,
+2021-08-29T14:38:23+00:00,1041259515,1041258526,0,Sinwiki12,CAIG Wing Loong II,/* Specifications */
+2021-10-07T02:13:28+00:00,1048623738,1047032261,0,ZLEA,CAIG Wing Loong II,/* References */
+2021-09-20T21:17:40+00:00,1045497684,1045127793,0,Jchk2012,Algerian People's National Army,
+2021-02-25T13:21:04+00:00,1008864687,1006871397,0,77.40.34.90,CASC Rainbow,/* CH-10 */ wikification
+2021-01-08T21:21:08+00:00,999175441,992272398,0,Monkbot,CAIG Wing Loong II,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 16 templates: del empty params (1×); hyphenate params (19×);
+2021-03-28T03:05:39+00:00,1014612031,1014612005,0,LizardJr8,CAIG Wing Loong II,Reverted edits by [[Special:Contributions/58.145.190.250|58.145.190.250]] ([[User talk:58.145.190.250|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-07-12T06:08:50+00:00,1033195893,1032074439,0,Canberra2021,HQ-9,/* Operators */
+2021-09-16T21:53:03+00:00,1044749272,1041204429,0,MusikBot II,HQ-9,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2021-03-01T09:45:24+00:00,1009589365,1009589183,0,Hypersonic man 11,HQ-9,/* See also */
+2021-03-17T11:52:06+00:00,1012622265,1012622177,0,Hypersonic man 11,HQ-9,
+2021-01-13T18:20:57+00:00,1000125267,1000116746,0,XANTHO GENOS 2020,Kh-35,/* Current operators */
+2021-04-29T00:29:03+00:00,1020422894,1019777438,0,41.102.16.179,Kh-35,/* Current operators */
+2021-02-23T21:16:34+00:00,1008544961,1007529096,0,Chesipiero,Lerici-class minehunter,/* External links */
+2020-11-20T00:57:17+00:00,989614901,988188956,0,Kistara,Lerici-class minehunter,/* Mahamiru class */ Added date
+2021-04-26T12:22:44+00:00,1019966546,1018236614,0,2A01:E0A:1CE:74B0:387C:C2BA:67F0:47F9,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-08-02T19:55:34+00:00,1036802430,1036337297,0,GreenC bot,List of equipment of the Algerian Land Forces,Reformat 3 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-05-17T12:37:29+00:00,1023626279,1023038698,0,Maroc.n2,List of equipment of the Algerian Land Forces,Undid revision 1023038698 by [[Special:Contributions/2A01:E0A:1CE:74B0:C916:51B2:3F14:4B20|2A01:E0A:1CE:74B0:C916:51B2:3F14:4B20]] ([[User talk:2A01:E0A:1CE:74B0:C916:51B2:3F14:4B20|talk]])
+2021-04-13T15:35:19+00:00,1017580630,1016953606,0,Maroc.n2,List of equipment of the Algerian Land Forces,/* Vehicles */  Changed numbers information that was taken from the sources was incorrect
+2021-04-16T23:40:22+00:00,1018236614,1017580630,0,70.190.137.61,List of equipment of the Algerian Land Forces,
+2021-02-26T02:08:18+00:00,1008978571,1008977732,0,Eik Corell,List of equipment of the Algerian Land Forces,Removing several instances of a bad source
+2021-05-28T00:57:19+00:00,1025514287,1024857449,0,Citation bot,List of equipment of the Algerian Land Forces,Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Ost316 | [[Category:CS1 errors: invisible characters]] | #UCB_Category 275/459
+2021-06-27T07:01:13+00:00,1030645043,1027402997,0,Citation bot,List of equipment of the Algerian Land Forces,Add: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Ost316 | [[Category:CS1 errors: invisible characters]] | #UCB_Category 386/394
+2021-06-07T18:28:03+00:00,1027402997,1027400343,0,2A01:E0A:14C:8C60:ED8E:8036:ABCA:EAA3,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-03-25T20:17:55+00:00,1014213038,1014210248,0,Schlummerhimmel,List of equipment of the Algerian Land Forces,/* Vehicles */ A lot of citation's needed
+2021-09-20T08:14:08+00:00,1045378513,1036802430,0,2400:4050:80C2:DE00:686E:AFA8:853F:880,List of equipment of the Algerian Land Forces,
+2021-07-09T23:53:45+00:00,1032835601,1030645043,0,2A01:E0A:1CE:74B0:6D37:E3D3:4CA7:6EBB,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-07-30T22:38:43+00:00,1036337297,1036336998,0,Kevo327,List of equipment of the Algerian Land Forces,Duplicate refs
+2021-07-22T00:18:28+00:00,1034814690,1033111672,0,Canberra2021,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-04-07T22:52:02+00:00,1016580358,1016523430,0,2A01:E0A:1CE:74B0:9925:8F74:767D:1EFB,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-05-05T18:40:45+00:00,1021620862,1019966546,0,Maroc.n2,List of equipment of the Algerian Land Forces,Undid revision 1019966546 by [[Special:Contributions/2A01:E0A:1CE:74B0:387C:C2BA:67F0:47F9|2A01:E0A:1CE:74B0:387C:C2BA:67F0:47F9]] ([[User talk:2A01:E0A:1CE:74B0:387C:C2BA:67F0:47F9|talk]])
+2021-03-30T13:51:35+00:00,1015069888,1014911118,0,Maroc.n2,List of equipment of the Algerian Land Forces,numbers couldnt find sufficient source
+2021-01-30T21:40:43+00:00,1003825302,1003825173,0,2A01:E0A:1CE:74B0:51E:B3EC:385C:A3A,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-11-08T19:55:54+00:00,1054223066,1054220388,0,AnomieBOT,List of equipment of the Algerian Land Forces,Dating maintenance tags: {{Cn}}
+2021-01-28T00:36:31+00:00,1003227040,1002967122,0,2A01:E0A:1CE:74B0:99CE:6439:309F:F06D,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-10-06T02:17:40+00:00,1048452116,1047653719,0,186.89.151.249,List of equipment of the Algerian Land Forces,/* Vehicles */ https://armstrade.sipri.org/armstrade/page/trade_register.php
+2021-04-09T23:43:42+00:00,1016953606,1016953465,0,LizardJr8,List of equipment of the Algerian Land Forces,Reverted edits by [[Special:Contributions/212.88.7.217|212.88.7.217]] ([[User talk:212.88.7.217|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2021-01-28T16:03:09+00:00,1003352864,1003227040,0,Wasteland1,List of equipment of the Algerian Land Forces,"Undid revision 1003227040 by [[Special:Contributions/2A01:E0A:1CE:74B0:99CE:6439:309F:F06D|2A01:E0A:1CE:74B0:99CE:6439:309F:F06D]] ([[User talk:2A01:E0A:1CE:74B0:99CE:6439:309F:F06D|talk]]) For the last time, the source says 500 tanks, if you change the number again without providing a reliable source that backs the '1000' figure i will report you"
+2021-01-16T22:39:10+00:00,1000825661,1000512311,0,82.248.138.197,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-07-11T17:32:06+00:00,1033111672,1032835601,0,CommonsDelinker,List of equipment of the Algerian Land Forces,Removing [[:c:File:Norinco_type_56.jpg|Norinco_type_56.jpg]]; it has been deleted from Commons by [[:c:User:Rubin16|Rubin16]] because: per [[:c:Commons:Deletion requests/File:Norinco type 56.jpg|]].
+2021-03-07T22:41:42+00:00,1010895277,1010098924,0,2607:FEA8:A280:B:0:0:0:6,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-02-28T08:45:58+00:00,1009384933,1008978571,0,AnomieBOT,List of equipment of the Algerian Land Forces,"Rescuing orphaned refs (""worldinventory"" from rev 1008627646)"
+2021-02-01T19:17:53+00:00,1004253630,1004192246,0,Lennart97,List of equipment of the Algerian Land Forces,Disambiguated: [[AN/TPS]] → [[AN/TPS (disambiguation)]]
+2021-03-21T11:47:57+00:00,1013394894,1012479197,0,2A01:E0A:1CE:74B0:7159:4D9D:BB6:E973,List of equipment of the Algerian Land Forces,
+2021-01-19T21:06:20+00:00,1001474729,1001171502,0,Citation bot,List of equipment of the Algerian Land Forces,Alter: title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Ost316 | [[Category:CS1 errors: invisible characters]] | via #UCB_Category 162/295
+2021-01-13T17:39:51+00:00,1000118132,1000117999,0,Materialscientist,List of equipment of the Algerian Land Forces,Reverted edits by [[Special:Contributions/2A01:E0A:1CE:74B0:50C9:F8CC:8996:E633|2A01:E0A:1CE:74B0:50C9:F8CC:8996:E633]] ([[User talk:2A01:E0A:1CE:74B0:50C9:F8CC:8996:E633|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2021-09-27T12:24:59+00:00,1046787922,1046681159,0,Sizito,List of equipment of the Algerian Land Forces,"/* Vehicles */ source added, the same link talks about both the BTR-60 and the BTR-80"
+2021-05-14T00:10:16+00:00,1023038698,1022971580,0,2A01:E0A:1CE:74B0:C916:51B2:3F14:4B20,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-03-02T02:30:29+00:00,1009742946,1009384933,0,Citation bot,List of equipment of the Algerian Land Forces,Add: s2cid. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Ost316 | [[Category:CS1 errors: invisible characters]] | via #UCB_Category 88/365
+2021-02-20T23:54:33+00:00,1007987629,1007564346,0,Citation bot,List of equipment of the Algerian Land Forces,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Ost316 | [[Category:CS1 errors: invisible characters]] | via #UCB_Category 258/336
+2021-02-24T07:17:40+00:00,1008627646,1008621053,0,Sumanuil,List of equipment of the Algerian Land Forces,/* Small arms */
+2021-03-29T18:31:32+00:00,1014911118,1014907451,0,AnomieBOT,List of equipment of the Algerian Land Forces,Dating maintenance tags: {{Cn}}
+2021-05-24T12:52:24+00:00,1024857449,1024776725,0,Citation bot,List of equipment of the Algerian Land Forces,Alter: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Grimes2 | [[Category:CS1 errors: invisible characters]] | #UCB_Category 282/586
+2021-01-26T21:21:40+00:00,1002967122,1002951402,0,Wasteland1,List of equipment of the Algerian Land Forces,Undid revision 1002951402 by [[Special:Contributions/2A01:E0A:1CE:74B0:7C37:5E06:60F2:C085|2A01:E0A:1CE:74B0:7C37:5E06:60F2:C085]] ([[User talk:2A01:E0A:1CE:74B0:7C37:5E06:60F2:C085|talk]]) Not what the source says
+2021-04-02T23:21:21+00:00,1015692924,1015069888,0,Maxeto0910,List of equipment of the Algerian Land Forces,Added short description.
+2021-11-22T20:48:09+00:00,1056620748,1056603762,0,AnomieBOT,List of equipment of the Algerian Land Forces,Dating maintenance tags: {{Cn}}
+2021-10-01T22:10:09+00:00,1047653719,1046787922,0,2A01:E0A:1CE:74B0:917F:E1D1:DAC:B6A1,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-11-08T01:59:17+00:00,1054099475,1053841848,0,178.222.79.74,List of equipment of the Algerian Land Forces,Restored. Do not remove sources and content. The sipri data is not the only source.
+2021-03-03T20:00:06+00:00,1010098924,1010070309,0,AnomieBOT,List of equipment of the Algerian Land Forces,"Rescuing orphaned refs (""worldinventory"" from rev 1010028790)"
+2021-03-29T06:38:35+00:00,1014812589,1014213038,0,Citation bot,List of equipment of the Algerian Land Forces,Alter: template type. Removed Template redirect. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Ost316 | [[Category:CS1 errors: invisible characters]] | via #UCB_Category 259/593
+2021-11-22T18:37:17+00:00,1056602337,1056587492,0,FDW777,List of equipment of the Algerian Land Forces,rv. Disruption.Removed various entries tagged as unreferenced. Removed menadefense.net per [[WP:SPS]]
+2021-01-24T07:57:48+00:00,1002404980,1002404864,0,Sizito,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-09-26T22:54:45+00:00,1046681159,1046680955,0,Sizito,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-02-17T15:27:28+00:00,1007327869,1007327627,0,Eik Corell,List of equipment of the Algerian Land Forces,
+2021-01-18T15:07:05+00:00,1001171502,1001171370,0,194.36.194.140,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-01-12T20:03:21+00:00,999953738,999556205,0,Jawi13,List of equipment of the Algerian Land Forces,
+2021-11-21T20:57:04+00:00,1056443680,1056442714,0,2A01:E0A:14C:8C60:65AC:15F0:3EC6:4EF9,List of equipment of the Algerian Land Forces,/* Artillery */
+2021-02-18T20:20:06+00:00,1007564346,1007327869,0,Jawi13,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-11-21T11:33:56+00:00,1056373085,1056294160,0,FDW777,List of equipment of the Algerian Land Forces,rv unreferenced additions
+2021-11-21T17:42:15+00:00,1056416583,1056390880,0,FDW777,List of equipment of the Algerian Land Forces,"rv. Unreferenced or improperly referenced. Tweets by random people are not references, see [[WP:SPS]]."
+2021-11-06T11:44:07+00:00,1053841848,1049142821,0,Tactical Bear,List of equipment of the Algerian Land Forces,"updating the actual ,number of systems according to the sipri data base"
+2021-08-05T18:35:44+00:00,1037302541,1037302336,0,85.98.16.39,List of equipment of the Royal Moroccan Army,/* Weapons */
+2021-02-09T20:28:30+00:00,1005865568,1004654575,0,Maroc.n2,List of equipment of the Royal Moroccan Army,"Numbers,info"
+2021-07-22T12:49:28+00:00,1034899797,1034865006,0,Druschba 4,List of equipment of the Royal Moroccan Army,/* Surface to surface artillery */ tabfix
+2021-05-31T11:27:18+00:00,1026103124,1025346786,0,Rodw,List of equipment of the Royal Moroccan Army,Disambiguating links to [[Armored car]] (link changed to [[Armored car (military)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-05-18T20:29:03+00:00,1023871840,1023868447,0,85.99.17.125,List of equipment of the Royal Moroccan Army,/* Weapons */
+2021-09-18T10:29:50+00:00,1045022788,1045022504,0,88.240.157.99,List of equipment of the Royal Moroccan Army,/* Weapons */
+2021-05-11T13:40:44+00:00,1022610044,1021938119,0,Maroc.n2,List of equipment of the Royal Moroccan Army,/* Tanks */  Inventory of APcs IFVs
+2021-09-22T18:47:06+00:00,1045843811,1038647282,0,64.16.152.202,MIM-104 Patriot,/* Trial by fire */
+2021-02-11T11:43:38+00:00,1006162400,1002439493,0,2A00:23C8:A310:E901:B4C2:1448:DA47:9A1B,Nora B-52,/* Operators */
+2021-01-22T12:17:44+00:00,1002016573,1002015567,0,Comp.arch,MIM-104 Patriot,"The word isn't technically wrong (while not needed, here, in English WP), implies linking to [[Luftwaffe]] (piping is sometimes disallowed, e.g. I would think in that case). [[German Air Force]]: ""For the World War II air force of Germany, see [[Luftwaffe]]. [..] The German Air Force (German: Luftwaffe, lit. 'air arm' [..])"""
+2021-05-27T17:08:49+00:00,1025455531,1024185927,0,Sxbbetyy,Nora B-52,category
+2021-01-24T13:30:55+00:00,1002439493,1002439381,0,109.245.175.127,Nora B-52,/* Current operators */
+2021-01-16T08:40:35+00:00,1000704863,999753491,0,103.237.36.86,Nora B-52,
+2021-09-22T05:22:41+00:00,1045736839,1045735435,0,FOX 52,Royal Moroccan Air Force,image add
+2021-06-22T21:39:20+00:00,1029929493,1029570021,0,TSKEnjoyer,Royal Moroccan Air Force,Morocco does got NO Bayraktar TB2 on order
+2021-04-20T19:13:15+00:00,1018952822,1018581567,0,Keith D,Royal Moroccan Air Force,/* Current inventory */Fix cite date error
+2021-02-18T07:59:01+00:00,1007466743,1006451456,0,WikiCleanerBot,Royal Moroccan Air Force,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-07-21T20:48:58+00:00,1034790300,1032208725,0,Ira Leviton,Royal Moroccan Air Force,Fixed typos found with [[Wikipedia:Typo_Team/moss]].
+2021-03-26T19:01:33+00:00,1014378897,1013576840,0,Fry1989,Royal Moroccan Air Force,/* top */
+2021-02-02T17:02:07+00:00,1004446988,1002788630,0,InellectualThinker,Royal Moroccan Air Force,Undid revision 1002788630 by [[Special:Contributions/Maroc.n2|Maroc.n2]] ([[User talk:Maroc.n2|talk]]) No source provided
+2021-08-14T02:45:27+00:00,1038685954,1036259839,0,Citation bot,S-400 missile system,"Alter: template type. Add: title, date. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Josve05a | Linked from User:Josve05a/cite/Reuters | #UCB_webform_linked 395/499"
+2021-03-20T09:16:09+00:00,1013150630,1013150319,0,76.216.230.215,S-400 missile system,
+2021-07-05T15:24:40+00:00,1032107495,1031675450,0,Citation bot,S-400 missile system,Add: work. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by RoanokeVirginia | [[Category:Articles needing more detailed references]] | #UCB_Category 355/1385
+2021-09-10T20:44:36+00:00,1043580219,1043578250,0,105.156.43.80,S-400 missile system,/* Operators */ add Morocco to suspected operators list
+2021-06-29T11:02:38+00:00,1031027856,1031027822,0,N Jeevan,S-400 missile system,/* Future operators */
+2021-11-18T10:51:12+00:00,1055880278,1055880121,0,212.70.117.115,S-400 missile system,/* Future operators */
+2021-10-23T21:00:01+00:00,1051492960,1051056218,0,Zion.BenYaHoshuWaH,S-400 missile system,"Added the ""surface-to-air-missile (SAM)""proper phrasing and link, corrected some phrasing with the Marine Engineering branch of the Almaz program, posted the dates and time when it went into service and assumed combat duty, and corrected the date description of February 12, 1999 with also taking out some unnecessary punctuation and commas."
+2021-02-07T19:43:17+00:00,1005459923,1004823600,0,KarimAohh,S-400 missile system,/* Current operators */
+2021-07-30T12:33:17+00:00,1036259839,1035350036,0,Citation bot,S-400 missile system,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 2146/2199
+2021-05-08T07:58:07+00:00,1022067086,1022066820,0,95.24.24.25,S-400 missile system,/* Gallery */
+2021-06-17T20:43:35+00:00,1029090397,1007142395,0,EmperorRoosevelt,Territorial Air Defence Forces,"The page called zsu-23-4's 23mm cannons ""rockets"""
+2021-09-01T02:39:42+00:00,1041716649,1040272604,0,Citation bot,Territorial Air Defence Forces,"Alter: title. Add: title, date. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1871/2188"
+2021-02-16T17:43:59+00:00,1007142395,1005816302,0,FDW777,Territorial Air Defence Forces,"removed unreliable reference, see [[Wikipedia:Reliable sources/Noticeboard/Archive 320#defence-blog.com]]"
+2021-01-26T21:28:58+00:00,1002968372,1002495447,0,Wasteland1,Territorial Air Defence Forces,"/* Equipment */ Unreliable sources, check Talk page, no order for S400 ever confirmed, HQ-9 no reliable source, S-350 is a twitter post by a random person used as reference by the website!! is this a joke?"
+2021-11-08T17:41:04+00:00,1054203928,1054202440,0,Nubia86,Territorial Air Defence Forces,
+2021-01-24T18:40:22+00:00,1002495447,1000267367,0,GreenC bot,Territorial Air Defence Forces,Reformat 15 archive links; Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-11-06T11:12:29+00:00,1053838820,1043602939,0,Tactical Bear,Territorial Air Defence Forces,/* Equipment */  Updating the actual numbers of hardware according to the SIPRI arms trade registers
+2021-02-07T18:30:20+00:00,1005447204,1004181440,0,Zemaninadir,Territorial Air Defence Forces,I added an important informations about algerian army
+2021-06-22T18:51:13+00:00,1029906773,1026673842,0,SdkbBot,YJ-12,"[[WP:GENFIX|General fixes]], removed [[WP:REFPUNCT|erroneous]] space"
+2021-09-29T01:26:44+00:00,1047105408,1047082767,0,RovingPersonalityConstruct,YJ-12,"[[WP:RS]], non-notable publisher and/or author"
+2021-04-29T19:33:48+00:00,1020564462,998435646,0,Sinwiki12,YJ-12,/* Variants */
+2021-01-05T10:46:14+00:00,998435646,997745918,0,Monkbot,YJ-12,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 18 templates: hyphenate params (3×);
+2021-05-12T13:48:19+00:00,1022787203,1022756183,0,RovingPersonalityConstruct,YJ-12,Undid revision 1022756183 by [[Special:Contributions/Sinwiki12|Sinwiki12]] ([[User talk:Sinwiki12|talk]]) [[WP:BLOGS]]
+2020-12-19T00:49:44+00:00,995061230,995030757,0,Amigao,Algerian Air Force,/* Current inventory */ removed deprecated source per [[WP:DEPREC]]
+2021-07-28T06:41:51+00:00,1035881355,1034621051,0,Jeth888,Algerian Air Force,Added {{[[Template:Lead too short|Lead too short]]}} tag
+2020-12-16T22:40:53+00:00,994670415,994670236,0,Benguet,Algerian Air Force,/* Aircraft */
+2021-02-28T07:23:48+00:00,1009376801,1007990517,0,2A0F:D00:D100:A500:51D:7C22:5B60:A5D3,Algerian Air Force,/* Current inventory */
+2021-08-16T19:39:21+00:00,1039114735,1030186155,0,Renamed user 0cc563c9a3a40570041dfc29f9be333d17629f23c2bf2ac31907b8552351b377,Algerian Land Forces,
+2021-04-21T18:24:01+00:00,1019135332,1011182863,0,Progüvo06,Algerian Land Forces,
+2021-06-24T11:50:40+00:00,1030186155,1027136853,0,Narky Blert,Algerian Land Forces,Link to DAB page repaired
+2020-11-10T00:23:43+00:00,987916484,987761394,0,M.Bitton,Algerian Land Forces,Reverted 3 edits by [[Special:Contributions/2001:5B0:2544:4768:905F:1B5A:F6AA:8953|2001:5B0:2544:4768:905F:1B5A:F6AA:8953]] ([[User talk:2001:5B0:2544:4768:905F:1B5A:F6AA:8953|talk]]) to last revision by Eurohunter
+2020-12-04T15:00:48+00:00,992293063,992292751,0,M.Bitton,Algerian Land Forces,Reverted 1 edit by [[Special:Contributions/105.99.215.86|105.99.215.86]] ([[User talk:105.99.215.86|talk]]): Unexplained content removal
+2021-10-06T19:13:14+00:00,1048574419,1048574336,0,Uranium Site,Algerian National Navy,Reverted 1 edit by [[Special:Contributions/105.158.105.171|105.158.105.171]] ([[User talk:105.158.105.171|talk]]) to last revision by Inebranlable92
+2020-11-12T14:14:43+00:00,988327915,987761774,0,93.86.102.140,Algerian National Navy,Equipment aleeady noted in infobox
+2020-11-22T17:25:45+00:00,990073422,988327915,0,JLavigne508,Algerian National Navy,/* Submarines */
+2021-02-21T22:06:18+00:00,1008162554,1006892120,0,Mohammed 2976,Algerian People's National Army,Add a service branche inthe infobox
+2021-10-16T13:24:58+00:00,1050212925,1050212782,0,M.Bitton,Algerian People's National Army,Reverted 1 edit by [[Special:Contributions/105.66.6.24|105.66.6.24]] ([[User talk:105.66.6.24|talk]]) to last revision by Skjoldbro
+2020-12-18T17:53:04+00:00,995002918,995002806,0,109.93.55.230,Algerian People's National Army,/* Equipment */Equipment section and content about it
+2021-08-04T05:32:26+00:00,1037041301,1036285497,0,2x2leax,Algerian People's National Army,/* Composition */
+2021-11-01T23:44:29+00:00,1053108916,1053108835,0,Number 57,Algerian People's National Army,Fixes
+2020-12-01T19:32:56+00:00,991775692,981999899,0,2409:4072:6D15:6C04:F4F4:DE:DC67:1AD0,Algerian People's National Army,
+2021-01-25T00:56:12+00:00,1002560171,1002464779,0,M.Bitton,Algerian People's National Army,Restored the archived url and updated a number
+2020-12-22T16:16:34+00:00,995732131,995445193,0,Amigao,Algerian People's National Army,removed deprecated source per [[WP:DEPREC]]
+2021-08-26T01:56:12+00:00,1040684396,1037041301,0,125.239.157.161,Algerian People's National Army,/* History */
+2021-01-21T00:39:03+00:00,1001719785,1000995817,0,109.93.120.183,Algerian People's National Army,Source number
+2021-09-19T00:09:42+00:00,1045127793,1044838400,0,41.102.73.94,Algerian People's National Army,Text
+2021-01-17T19:13:21+00:00,1000995817,999750159,0,ShkoDev,Algerian People's National Army,
+2020-12-04T12:11:27+00:00,992272398,990963550,0,185.112.106.48,CAIG Wing Loong II,Typo
+2021-02-18T15:24:22+00:00,1007518278,1005813474,0,Andrew ranfurly,CAIG Wing Loong II,/* Operational history */ Hyperlink to LNA: Libyan National Army
+2021-05-25T07:02:57+00:00,1025011096,1025010959,0,Klueng,CAIG Wing Loong II,/* Operators */
+2021-07-27T21:17:42+00:00,1035817910,1035241312,0,195.29.234.174,CAIG Wing Loong II,Someone wrote Serbia ordered the drone which is not true.
+2021-06-19T09:42:28+00:00,1029333493,1025011096,0,93.87.128.3,CAIG Wing Loong II,
+2021-03-03T21:27:08+00:00,1010113499,1009511523,0,2603:8000:3900:B3:6CEB:405F:8A02:8EE4,CAIG Wing Loong II,/* Operators */
+2021-02-09T15:10:04+00:00,1005813474,999175441,0,Randomuser335S,CAIG Wing Loong II,/* Operational history */
+2021-06-30T12:20:34+00:00,1031221882,1030651260,0,Loned,CAIG Wing Loong II,
+2021-08-01T20:31:59+00:00,1036638751,1036523744,0,Worldbruce,CAIG Wing Loong II,Undid revision 1036523744 by [[Special:Contributions/Mehedi Hasan Israr|Mehedi Hasan Israr]] ([[User talk:Mehedi Hasan Israr|talk]]) rvt sock
+2021-11-14T18:07:04+00:00,1055235242,1054724181,0,Amigao,CAIG Wing Loong II,redundant
+2020-11-27T14:50:47+00:00,990963550,988078164,0,Lgnxz,CAIG Wing Loong II,/* Variants */
+2021-08-14T17:53:51+00:00,1038779683,1036638751,0,197.114.214.177,CAIG Wing Loong II,/* Operators */
+2021-03-15T00:28:07+00:00,1012173128,1011711574,0,Epluribusunumyall,CAIG Wing Loong II,/* Operators */ corrected gramatical issues.
+2021-09-28T17:14:24+00:00,1047032261,1046898110,0,Qwerfjkl (bot),CAIG Wing Loong II,Removed [[Help:Self link|link(s) to title]] ([[Wikipedia:WikiProject Check Wikipedia/List of errors#48|CW Error #48]]) (via [[de:Benutzer:Schnark/js/bandersnatch|Bandersnatch]])
+2021-07-22T03:40:54+00:00,1034837872,1031221882,0,Cwek,CAIG Wing Loong II,/* Operational history */
+2021-06-27T07:55:06+00:00,1030651260,1030247445,0,119.74.165.200,CAIG Wing Loong II,
+2021-02-28T23:52:11+00:00,1009511523,1007518278,0,Worldbruce,CAIG Wing Loong II,"Removed self-published blog defseca.com, not a [[WP:RS|reliable source]]"
+2021-11-01T06:20:50+00:00,1052982771,1052360517,0,Sgnpkd,CAIG Wing Loong II,/* Operators */
+2021-05-20T16:24:49+00:00,1024185023,1024184816,0,105.155.62.150,CAIG Wing Loong II,/* Operators */
+2020-11-10T22:43:37+00:00,988078164,988077736,0,Nusrat3636,CAIG Wing Loong II,added citation for Nigerian Airforce acquisition
+2021-01-27T15:38:34+00:00,1003134832,1001241509,0,Shkooo,CASC Rainbow,/* Operators */
+2021-07-09T01:03:17+00:00,1032685789,1032684733,0,Mr.User200,CASC Rainbow,/* Royal Saudi Land Force */
+2021-05-24T23:24:54+00:00,1024958231,1024880315,0,Amigao,CASC Rainbow,/* CH-4 */ need a reliable (non-deprecated) source for a historical fact
+2021-11-14T17:59:42+00:00,1055234070,1053498917,0,Amigao,CASC Rainbow,redundant
+2021-04-14T04:52:53+00:00,1017696519,1008864687,0,2402:B400:40D3:35E0:3D0B:B7E8:D622:60E7,CASC Rainbow,/* Operators */ Janes source
+2021-07-23T17:08:50+00:00,1035097957,1032685789,0,Infinty 0,CASC Rainbow,/* Comparison */
+2021-11-04T08:11:22+00:00,1053498917,1050583402,0,Orenburg1,CASC Rainbow,sp
+2021-02-04T20:35:49+00:00,1004870877,1003867362,0,188.255.239.55,CASC Rainbow,/* Operators */
+2021-09-24T04:27:44+00:00,1046138555,1044836611,0,58.105.197.81,CASC Rainbow,/* CH-4 */fixed engine power
+2021-06-10T10:10:40+00:00,1027845501,1024958231,0,Levo1Desno2,CASC Rainbow,/* CH-4 */
+2021-01-18T21:12:08+00:00,1001241509,1000704151,0,39.59.80.70,CASC Rainbow,/* CH-3 */Misleading association of a group with a religion is removed.
+2021-01-16T08:34:36+00:00,1000704151,995220641,0,Anonymous 13310,CASC Rainbow,
+2021-08-26T06:14:42+00:00,1040709926,1036166193,0,Mtkhan1989,CASC Rainbow,/* Operators */
+2021-07-27T14:22:35+00:00,1035760986,1035097957,0,102.186.238.55,CASC Rainbow,/* Operators */
+2021-09-05T01:05:45+00:00,1042440664,1042056678,0,TweetCiteBot,CASC Rainbow,Converted Tweet URLs to [[Template:Cite tweet|{{cite tweet}}]] Mistake? [[User talk:TheSandDoctor|msg TSD!]]
+2021-10-18T18:27:34+00:00,1050583402,1050157552,0,Mr.User200,CASC Rainbow,/* Operational history */
+2021-02-15T07:28:19+00:00,1006871397,1006444477,0,Jaysee101,CASC Rainbow,/* Operators */
+2021-04-17T05:30:31+00:00,1018274924,1012622265,0,Zhanjack822,HQ-9,Edited a citation because the URL no longer works. Archived URL now added
+2021-02-24T19:51:04+00:00,1008732860,1006408853,0,Anoncocoa1,HQ-9,Corrected minor typo.
+2020-11-29T14:13:48+00:00,991330668,990555234,0,213.93.9.75,HQ-9,/* Operators */
+2020-12-12T12:32:39+00:00,993774181,993774056,0,46.193.1.103,HQ-9,/* Operators */
+2021-01-08T19:13:40+00:00,999153208,997419522,0,WorldEditor22,HQ-9,Adding link
+2021-03-04T21:56:06+00:00,1010317994,1010317848,0,MaeseLeon,HQ-9,
+2021-08-29T06:21:18+00:00,1041204429,1041125362,0,TweetCiteBot,HQ-9,"Converted Tweet
+         URLs to [[Template:Cite tweet|{{cite tweet}}]] Mistake? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is the PyEdition!)"
+2021-05-22T19:21:59+00:00,1024542330,1021510876,0,2402:800:6173:2F7F:F9D6:15D8:EBF7:BEFD,HQ-9,/* Export */
+2021-02-12T19:00:53+00:00,1006408853,1001069748,0,Bender the Bot,HQ-9,"/* Export */HTTP → HTTPS for [[The Diplomat]], replaced: http://thediplomat.com/ → https://thediplomat.com/"
+2020-12-31T12:03:39+00:00,997419522,997333455,0,105.66.1.219,HQ-9,/* Operators */
+2021-10-16T05:38:57+00:00,1050164779,1050114287,0,Ytpks896,HQ-9,/* China */Clear explain
+2021-10-24T18:51:24+00:00,1051643822,1050655566,0,149.233.49.156,HQ-9,Iran is not an operator fake news no citation
+2021-05-29T11:31:54+00:00,1025758350,1024542330,0,Universe01,HQ-9,Appears that HQ-26 is not based on HQ-9.
+2020-11-25T04:23:22+00:00,990555234,990178739,0,103.132.183.114,HQ-9,Undid revision 990178739 by [[Special:Contributions/Ishmam35|Ishmam35]] ([[User talk:Ishmam35|talk]])
+2021-11-17T07:37:30+00:00,1055692456,1055692311,0,39.36.4.224,HQ-9,/* See also */Little change
+2020-12-21T10:55:06+00:00,995499732,995291673,0,Neosinan,HQ-9,/* See also */
+2021-08-22T05:03:04+00:00,1040013605,1037806871,0,Aldis90,HQ-9,/* External links */
+2021-10-19T04:07:04+00:00,1050655566,1050581992,0,86.8.177.103,HQ-9,/* Deployment in South China Sea */ Add mention of which islands 'north shore' is being discussed
+2020-11-23T06:58:12+00:00,990178739,986301969,0,Ishmam35,HQ-9,/* Operators */
+2021-06-14T16:40:16+00:00,1028551656,1026885951,0,Dawkeye,Kh-35,Filled in 16 bare reference(s) with reFill 2
+2020-10-09T09:02:21+00:00,982623529,981949453,0,Azuredivay,Kh-35,/* See also */
+2021-09-29T01:49:29+00:00,1047109367,1047109286,0,MB,Kh-35,"Adding custom [[Wikipedia:Short description|short description]]: ""Soviet anti-ship missile"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-02-19T14:28:17+00:00,1007706287,1006411903,0,192.24.181.243,Kh-35,Changed 'Vietnamese People's Navy' to 'Vietnam...' in order to prevent redirect.
+2021-06-26T16:11:32+00:00,1030543095,1028551656,0,XANTHO GENOS 5.5.2024,Kh-35,/* Operational history */ added new info
+2021-10-24T09:37:09+00:00,1051569573,1051569236,0,XANTHO GENOS 5.5.2024,Kh-35,/* Operational history */
+2021-11-03T14:33:27+00:00,1053375640,1051569573,0,Dirkk 123,Kh-35,/* Operators */ moved AZE to failed bid
+2021-05-17T10:24:30+00:00,1023611920,1020422894,0,208.64.158.49,Kh-35,category
+2021-02-12T19:20:16+00:00,1006411903,1000125267,0,Bender the Bot,Kh-35,"/* Variants */HTTP → HTTPS for [[The Diplomat]], replaced: http://thediplomat.com/ → https://thediplomat.com/"
+2021-08-20T02:25:20+00:00,1039676171,1038011050,0,Hwi.padam,Kh-35,/* Current operators */ Myanmar Navy >> Myanmar {{MYA}}
+2021-08-10T00:43:26+00:00,1038011050,1034205325,0,Gorden 2211,Kh-35,/* Operators */
+2021-04-04T06:59:52+00:00,1015902602,1015902305,0,Khaliwarriors,Kh-35,
+2021-04-15T04:06:47+00:00,1017886324,1015902602,0,Aacugna,Kh-35,
+2021-06-04T19:47:09+00:00,1026885951,1026680587,0,Amigao,Kh-35,/* Current operators */ deprecated and redundant
+2020-12-08T19:10:30+00:00,993092301,993089590,0,Ivan.levkivskyi,Kh-35,/* See also */
+2021-09-03T19:52:57+00:00,1042216326,1036787128,0,Derekbridges,Lerici-class minehunter,fix template links
+2021-07-10T02:58:45+00:00,1032856408,1032090218,0,Aerohydro,Lerici-class minehunter,
+2021-06-30T05:43:22+00:00,1031175553,1008544961,0,Aerohydro,Lerici-class minehunter,
+2020-12-01T01:39:49+00:00,991630846,991577935,0,Savagejet,List of equipment of the Algerian Land Forces,Fixed typo
+2021-01-25T13:51:45+00:00,1002656822,1002656682,0,2A01:E0A:1CE:74B0:B0E4:81F1:D25E:3687,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-08T19:00:18+00:00,999150995,999147202,0,KylieTastic,List of equipment of the Algerian Land Forces,Removed missing image - File was deleted from Wikimedia Commons - 8 January 2021
+2020-11-21T13:12:20+00:00,989861541,988011822,0,193.80.180.42,List of equipment of the Algerian Land Forces,/* Vehicles */
+2021-01-10T20:01:13+00:00,999556205,999424083,0,Amigao,List of equipment of the Algerian Land Forces,/* Vehicles */ deprecated inline tag
+2020-11-26T19:04:47+00:00,990829920,990585487,0,WorldEditor22,List of equipment of the Algerian Land Forces,
+2021-01-25T18:22:56+00:00,1002704320,1002683082,0,Amigao,List of equipment of the Algerian Land Forces,/* Small arms */ need a reliable source here
+2021-07-01T14:28:28+00:00,1031421139,1026103124,0,85.98.17.221,List of equipment of the Royal Moroccan Army,/* Tanks */
+2021-01-27T16:58:51+00:00,1003149742,1001147480,0,213.93.9.75,List of equipment of the Royal Moroccan Army,/* Tanks */
+2021-02-23T14:09:33+00:00,1008476023,1006363206,0,BrookKoorb,List of equipment of the Royal Moroccan Army,/* Tanks */
+2020-11-29T14:15:47+00:00,991330945,990829532,0,213.93.9.75,List of equipment of the Royal Moroccan Army,/* Air defense systems */
+2020-10-21T09:27:41+00:00,984655633,983304346,0,Eurohunter,List of equipment of the Royal Moroccan Army,/* References */ cat
+2021-02-12T13:55:34+00:00,1006363206,1005865568,0,WorldEditor22,List of equipment of the Royal Moroccan Army,Clearing some contradictions
+2021-10-29T14:10:42+00:00,1052498087,1046410418,0,178.85.179.181,List of equipment of the Royal Moroccan Army,"/* Armoured personnel carriers, infantry fighting vehicles and support vehicles */  fixing error"
+2021-08-02T10:10:52+00:00,1036724681,1036724534,0,41.141.221.45,List of equipment of the Royal Moroccan Army,"/* Armoured personnel carriers, infantry fighting vehicles and support vehicles */"
+2021-09-09T05:07:29+00:00,1043256785,1037302541,0,Niceguyedc,List of equipment of the Royal Moroccan Army,v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Misr]]
+2020-12-12T18:48:26+00:00,993831667,991330945,0,213.93.9.75,List of equipment of the Royal Moroccan Army,Updating content
+2021-01-14T17:22:32+00:00,1000326920,998874652,0,213.93.9.75,List of equipment of the Royal Moroccan Army,Updating and improving content.
+2021-01-04T14:47:51+00:00,998255546,998210150,0,213.93.9.75,List of equipment of the Royal Moroccan Army,adding source
+2021-05-15T14:14:27+00:00,1023279643,1022805481,0,Narky Blert,MIM-104 Patriot,Link to DAB page repaired
+2021-11-23T06:03:17+00:00,1056727497,1056472611,0,Walle83,MIM-104 Patriot,/* Operators */
+2021-04-03T21:34:01+00:00,1015840153,1015818066,0,Buidhe,MIM-104 Patriot,Undid revision 1015818066 by [[Special:Contributions/Garuda28|Garuda28]] ([[User talk:Garuda28|talk]])
+2020-11-02T13:12:45+00:00,986696590,986696519,0,217.213.104.113,MIM-104 Patriot,/* Future operators */
+2021-02-22T17:17:59+00:00,1008307214,1008305054,0,173.14.0.193,MIM-104 Patriot,"Changed ""fuze"" to ""fuse"""
+2021-07-26T16:52:40+00:00,1035604682,1035310612,0,51.235.8.186,MIM-104 Patriot,
+2021-04-22T22:02:45+00:00,1019359889,1015840153,0,America789,MIM-104 Patriot,/* Patriot Guided Missile */ range ref
+2021-11-03T20:16:52+00:00,1053425588,1045843811,0,12.172.60.138,MIM-104 Patriot,/* The EPP-III Electric Power Plant */
+2021-06-14T13:27:02+00:00,1028521501,1028386616,0,Aelita14,MIM-104 Patriot,/* Operators */
+2021-06-30T19:02:44+00:00,1031279241,1031279159,0,Trigenibinion,MIM-104 Patriot,/* Potential Operators */ Normalize
+2021-01-26T15:11:37+00:00,1002899210,1002509949,0,Mathew Roberson,MIM-104 Patriot,
+2021-02-28T10:16:45+00:00,1009395211,1009394974,0,D4R1U5,MIM-104 Patriot,Source
+2021-02-19T13:53:50+00:00,1007701463,1003241991,0,KD5TVI,MIM-104 Patriot,/* Patriot Guided Missile */Add [[Template:Convert]] and [[Template:Unbulleted list]] to Infobox.
+2021-11-14T03:48:28+00:00,1055141398,1055141295,0,TairaMai,MIM-104 Patriot,/* Operators */
+2021-03-15T14:54:11+00:00,1012277545,1009395211,0,Bliekindewater,MIM-104 Patriot,/* Operators */ Added link
+2021-01-24T01:45:28+00:00,1002360661,1002360472,0,196.217.114.87,MIM-104 Patriot,US Confirms sale of PATRIOT missiles to Morocco
+2021-06-09T13:23:46+00:00,1027699956,1026337803,0,ישרול,MIM-104 Patriot,/* See also */
+2021-01-02T07:17:04+00:00,997792247,997255180,0,219.240.214.178,MIM-104 Patriot,/* Operators */
+2021-07-11T18:06:40+00:00,1033117577,1030468593,0,178.221.151.141,Nora B-52,
+2021-08-11T19:38:58+00:00,1038310774,1035337539,0,S416Ban,Nora B-52,Changed the wrong figure of unit with the actual figure with reference to
+2021-10-14T11:45:45+00:00,1049879747,1041207825,0,Mikeytuku,Nora B-52,
+2021-08-29T06:51:25+00:00,1041207825,1040257014,0,39.36.100.32,Nora B-52,/* Potential operators */Little change
+2021-03-22T14:35:49+00:00,1013603031,1006162400,0,Loesorion,Nora B-52,"/* Operators */ Algeria is not a operator,  more references"
+2021-06-21T20:45:46+00:00,1029755668,1028003359,0,180.211.179.214,Nora B-52,/* Current operators */
+2021-01-02T18:05:13+00:00,997879795,996402233,0,Dibosh Chakma,Nora B-52,/* Current operators */
+2020-11-19T07:28:23+00:00,989486430,987701094,0,116.204.151.70,Nora B-52,/* Current operators */
+2021-05-15T10:15:50+00:00,1023254676,1022757597,0,180.211.179.214,Nora B-52,
+2021-04-09T08:58:50+00:00,1016830223,1013603031,0,109.93.227.172,Nora B-52,spelling
+2020-12-21T11:54:03+00:00,995505624,995499951,0,Loesorion,Nora B-52,More information's
+2021-06-11T08:20:34+00:00,1028003359,1025455531,0,2402:B400:40D4:DE60:AC8E:E0E9:699:EA74,Nora B-52,/* Operators */ see Bangladesh Army Equipment talk page and edit history
+2020-12-26T11:13:48+00:00,996402233,995505624,0,Loesorion,Nora B-52,/* Ammunition */ JBMOU-compatible
+2021-07-27T08:26:05+00:00,1035716576,1034790300,0,OlliverWithDoubleL,Royal Moroccan Air Force,"added short description, Lang templates, removed redundant word"
+2021-02-08T23:12:04+00:00,1005685724,1005685666,0,XForceX,Royal Moroccan Air Force,"Undid revision 1005442723 by [[Special:Contributions/Maroc.n2|Maroc.n2]] ([[User talk:Maroc.n2|talk]]) Please use sources, thanks"
+2020-12-26T22:09:58+00:00,996486923,996484294,0,McSly,Royal Moroccan Air Force,revert unsourced and unexplained changes
+2020-11-26T19:30:22+00:00,990833715,990083412,0,WorldEditor22,Royal Moroccan Air Force,Updating info to 2021.
+2021-08-21T01:06:18+00:00,1039830403,1039829385,0,Trigenibinion,Royal Moroccan Air Force,/* F-5 upgrades */ Wikilink
+2021-07-06T03:08:08+00:00,1032208725,1032199065,0,Amigao,Royal Moroccan Air Force,/* References */ rm deprecated
+2021-10-26T20:32:03+00:00,1052004889,1051749248,0,Rlink2,Royal Moroccan Air Force,/* History */archive.* -> archive.today ( (https://blog.archive.today/post/659307974748160000)
+2021-08-14T22:08:19+00:00,1038810775,1037491074,0,41.143.154.149,Royal Moroccan Air Force,/* Airbases */
+2021-09-07T23:03:39+00:00,1043017163,1041561755,0,Coolerpolk,Royal Moroccan Air Force,changed bmp description from tank to IFV
+2020-12-20T13:51:03+00:00,995335807,993646826,0,213.93.9.75,Royal Moroccan Air Force,/* Current inventory */  clearing mistake
+2021-04-18T20:52:08+00:00,1018581567,1018186948,0,Wbm1058,Royal Moroccan Air Force,redirect bypass from [[General Atomics GNAT]] to [[General Atomics Gnat]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2021-01-15T19:03:40+00:00,1000581438,1000544530,0,213.93.9.75,Royal Moroccan Air Force,/* Current inventory */
+2021-06-19T13:29:56+00:00,1029356095,1027728289,0,Musashi1600,Royal Moroccan Air Force,Disambiguated: [[F-5]] → [[Northrop F-5]]
+2021-05-05T10:13:28+00:00,1021552286,1021162504,0,2405:3800:880:5889:3D84:A3A:3D31:6F1C,Royal Moroccan Air Force,/* Current inventory */
+2021-08-22T12:33:06+00:00,1040063326,1040062729,0,Trigenibinion,Royal Moroccan Air Force,/* Other purchases and upgrades */ Correct version
+2021-05-07T23:36:18+00:00,1022019196,1021552286,0,197.153.67.173,Royal Moroccan Air Force,/* Accidents */
+2020-12-11T18:46:42+00:00,993646826,992704697,0,196.89.151.142,Royal Moroccan Air Force,
+2020-12-30T06:33:49+00:00,997153504,997151269,0,RenatUK,S-400 missile system,/* Structure */ please add a citation if you return the content
+2020-12-08T18:57:18+00:00,993090249,991935337,0,Benlar97,S-400 missile system,/* Current operators */
+2021-10-30T11:43:56+00:00,1052655397,1051492960,0,Lightoil,S-400 missile system,Added link
+2021-09-22T00:52:29+00:00,1045706768,1045228677,0,Coltsfan,S-400 missile system,
+2021-02-19T16:25:09+00:00,1007724324,1007724171,0,A.j.roberts,S-400 missile system,"Undid revision 1007724171 by [[Special:Contributions/A.j.roberts|A.j.roberts]] ([[User talk:A.j.roberts|talk]])reverted in error, wrong tab."
+2021-06-12T02:19:07+00:00,1028132517,1027647025,0,Oleg Bor,S-400 missile system,/* Operating history */
+2021-06-09T05:02:04+00:00,1027647025,1027514760,0,Lone Internaut,S-400 missile system,"I guess it is, as it's been widely used on similar articles."
+2021-07-11T08:14:32+00:00,1033049838,1033049783,0,27.57.64.16,S-400 missile system,/* India */
+2021-10-21T10:32:48+00:00,1051056218,1050995240,0,Cwmhiraeth,S-400 missile system,Revision deletion completed
+2021-03-17T21:37:47+00:00,1012708763,1012311613,0,RenatUK,S-400 missile system,/* Belarus */ unsourced news style
+2020-11-14T18:02:32+00:00,988689463,988525394,0,Amigao,S-400 missile system,/* Turkey */ unreliable source per [[WP:GUNREL]]
+2021-03-13T17:40:38+00:00,1011933331,1011763480,0,RenatUK,S-400 missile system,/* Belarus */ Removed unsourced; please add a citation if you return the content
+2021-09-27T16:43:35+00:00,1046831745,1046306967,0,95.8.173.123,S-400 missile system,"Revert edits by Inebranlable92, no reliable sources or official government announcement that Algeria operates the system"
+2021-02-10T21:23:40+00:00,1006066434,1005459923,0,Lone Internaut,S-400 missile system,
+2021-06-02T14:51:10+00:00,1026481123,1026481003,0,Fyrael,S-400 missile system,not a section
+2021-06-08T11:00:43+00:00,1027514760,1026788988,0,HalfdanRagnarsson,S-400 missile system,Doesn't seem to be RS
+2020-12-16T18:08:43+00:00,994625765,994578548,0,89.36.115.228,S-400 missile system,
+2020-12-11T14:49:47+00:00,993611482,993090249,0,2001:56A:73D1:C600:C0FB:8D49:33F:F59,S-400 missile system,/* United States of America */
+2021-11-02T13:51:46+00:00,1053195810,1053195137,0,2402:3A80:1F0C:CDD7:D53D:7ABE:AD72:A1FF,S-400 missile system,
+2021-04-29T09:17:57+00:00,1020479210,1020101808,0,Ecrusized,S-400 missile system,/* Operators */
+2021-11-09T14:00:37+00:00,1054344805,1054032864,0,2405:4803:C86E:CFD0:6C3C:15B8:7A23:9815,S-400 missile system,
+2021-10-16T19:38:11+00:00,1050263854,1050263018,0,Satyanshtrivedi,S-400 missile system,
+2021-04-09T08:17:46+00:00,1016825076,1013150630,0,Tobby72,S-400 missile system,update
+2020-07-19T17:03:04+00:00,968477410,963968372,0,192.164.14.51,Territorial Air Defence Forces,/* Equipment */
+2020-11-29T23:26:03+00:00,991416920,968477410,0,Amigao,Territorial Air Defence Forces,/* Equipment */ removed deprecated source per [[WP:DEPREC]]
+2021-08-23T16:09:48+00:00,1040272604,1029090397,0,154.121.16.182,Territorial Air Defence Forces,/* Equipment */
+2020-11-23T14:47:57+00:00,990226560,988236901,0,Vanished user 987,YJ-12,Created Operators section

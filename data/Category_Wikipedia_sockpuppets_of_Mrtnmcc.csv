@@ -1,0 +1,811 @@
+timestamp,revid,parentid,sock,user,page,message
+2023-02-20T12:46:59+00:00,1140519550,1140174583,1,Mrtnmcc,User talk:Mrtnmcc,[[WP:AES|←]]Replaced content with '{{db-u1}}'
+2022-07-12T15:34:01+00:00,1097764876,1097763286,1,Mrtnmcc,SpaceX,/* 2001–2004: Founding */fix citation
+2022-07-12T15:23:48+00:00,1097763286,1097749150,1,Mrtnmcc,SpaceX,"/* 2001–2004: Founding */improve flow, add reference to plenary talk"
+2022-07-09T23:14:19+00:00,1097304094,1097303361,1,Mrtnmcc,Elon Musk,fix typo by CurryCity
+2022-07-09T23:07:12+00:00,1097303361,1097302664,1,Mrtnmcc,Elon Musk,/* Neuralink */ better phrasing
+2022-06-18T20:34:46+00:00,1093787951,1093786170,1,Mrtnmcc,Starlink,/* 2020–2022 */
+2022-06-18T20:22:01+00:00,1093786170,1093783473,1,Mrtnmcc,Starlink,/* 2020–2022 */Add section link
+2022-06-11T18:31:50+00:00,1092660718,1092626667,1,Mrtnmcc,SpaceX,"detail inappropriate for introduction, covered well in Starlink page"
+2022-01-24T05:20:29+00:00,1067578257,1067575232,1,Mrtnmcc,Starlink,"Undid revision 1067575232 by [[Special:Contributions/2001:569:70E2:3900:ED7B:42A1:EDF7:2571|2001:569:70E2:3900:ED7B:42A1:EDF7:2571]] ([[User talk:2001:569:70E2:3900:ED7B:42A1:EDF7:2571|talk]]) 24 countries at end of paragraph, instead added ""coverage"" to distinguish from active service."
+2021-01-08T20:49:22+00:00,999170001,999169865,1,Mrtnmcc,TAI Anka,/* Anka-S */
+2021-01-08T20:48:40+00:00,999169865,997836164,1,Mrtnmcc,TAI Anka,/* Anka-S */ added reference
+2020-12-16T07:19:17+00:00,994544078,994465067,1,Mrtnmcc,Defence Industry Agency,Added U.S. sanctions info
+2020-12-15T21:17:46+00:00,994465067,994464333,1,Mrtnmcc,Defence Industry Agency,"Added back ""system and"", detail erroneously removed."
+2020-12-15T21:13:30+00:00,994464333,979008838,1,Mrtnmcc,Defence Industry Agency,Improved Wikipedia link to Turkish Defense Industry
+2020-12-02T07:25:48+00:00,991876378,991476347,1,Mrtnmcc,Türksat 5A,/* History */Citation added
+2020-11-26T02:44:08+00:00,990714267,990694399,1,Mrtnmcc,Bayraktar TB2,/* Kurdish–Turkish conflict */Typo fix
+2020-11-26T01:14:01+00:00,990703100,990682159,1,Mrtnmcc,Türksat 5A,Note Turksat functions
+2020-11-26T00:11:21+00:00,990694399,989545617,1,Mrtnmcc,Bayraktar TB2,Added TurkSat link
+2020-05-25T19:28:37+00:00,958798416,958721325,1,Mrtnmcc,Talk:Search for extraterrestrial intelligence,
+2020-05-25T00:29:29+00:00,958650672,958650555,1,Mrtnmcc,Search for extraterrestrial intelligence,/* Gamma-ray bursts */
+2020-05-25T00:28:18+00:00,958650555,958646127,1,Mrtnmcc,Search for extraterrestrial intelligence,/* Gamma-ray bursts */  Recent Queen's University Study
+2020-05-24T23:50:33+00:00,958646127,958638343,1,Mrtnmcc,Search for extraterrestrial intelligence,Undid revision 958346592 by [[Special:Contributions/50.111.19.21|50.111.19.21]] ([[User talk:50.111.19.21|talk]])  Gamma-ray bursts are included in NASA 2018 Technosignature report on pg 12-13
+2020-05-24T23:36:49+00:00,958644607,958644115,1,Mrtnmcc,Talk:Search for extraterrestrial intelligence,/* What do Gamma ray bursts have to do with this article? */
+2020-05-24T23:33:20+00:00,958644115,958643611,1,Mrtnmcc,Talk:Search for extraterrestrial intelligence,/* What do Gamma ray bursts have to do with this article? */
+2020-05-24T23:29:18+00:00,958643611,958346779,1,Mrtnmcc,Talk:Search for extraterrestrial intelligence,
+2020-05-24T22:42:10+00:00,958638343,958502480,1,Mrtnmcc,Search for extraterrestrial intelligence,Undid revision 958502480 by [[Special:Contributions/Crossroads|Crossroads]] ([[User talk:Crossroads|talk]]) - GRB addresses spectrum limit and makes discussion comprehensive.
+2014-03-12T18:40:50+00:00,599322874,599322593,1,Mrtnmcc,Fuel cell forklift,/* Uses */ fix link
+2014-03-12T18:38:23+00:00,599322593,599322530,1,Mrtnmcc,Fuel cell forklift,/* Market */
+2014-03-12T18:37:57+00:00,599322530,599322284,1,Mrtnmcc,Fuel cell forklift,"/* Market */ Removed advertising, market pitches."
+2014-03-12T18:35:57+00:00,599322284,583469569,1,Mrtnmcc,Fuel cell forklift,/* Uses */
+2014-03-12T17:53:00+00:00,599316536,599316321,1,Mrtnmcc,Fuel cell,/* Efficiency of leading fuel cell types */
+2014-03-12T17:51:22+00:00,599316321,599315555,1,Mrtnmcc,Fuel cell,/* Efficiency of leading fuel cell types */  comparison
+2013-04-24T00:13:30+00:00,551878901,551878534,1,Mrtnmcc,Cross-correlation,
+2013-04-24T00:10:15+00:00,551878534,551871093,1,Mrtnmcc,Cross-correlation,"Removed scaled correlation section (obscure, single paper topic), reorder."
+2013-04-23T23:30:18+00:00,551873999,551873906,1,Mrtnmcc,Estimation of covariance matrices,/* Estimation in a general context */
+2013-04-23T23:29:30+00:00,551873906,551873051,1,Mrtnmcc,Estimation of covariance matrices,"Undid revision 551873051, and moved sentence."
+2013-04-23T23:21:23+00:00,551873051,540802634,1,Mrtnmcc,Estimation of covariance matrices,/* Estimation in a general context */  correction of random missing values.
+2013-04-23T23:03:09+00:00,551871093,551870153,1,Mrtnmcc,Cross-correlation,swap sections simplest->more complicated
+2013-04-23T22:54:31+00:00,551870153,551869792,1,Mrtnmcc,Cross-correlation,"/* Time series analysis */ remove cross-correlation function, wrong section."
+2013-04-23T22:50:51+00:00,551869792,551850770,1,Mrtnmcc,Cross-correlation,"/* Time series analysis */ clean up, add estimation"
+2013-04-23T22:35:42+00:00,551868181,551867649,1,Mrtnmcc,Cross-covariance,/* Signal Processing */
+2013-04-23T22:31:00+00:00,551867649,551867449,1,Mrtnmcc,Cross-covariance,/* Signal Processing */  minor correction
+2013-04-23T22:29:28+00:00,551867449,551867360,1,Mrtnmcc,Cross-covariance,/* Statistics */ fix headings
+2013-04-23T22:28:38+00:00,551867360,551850599,1,Mrtnmcc,Cross-covariance,Cleaning up article
+2010-09-21T23:00:58+00:00,386190916,374472636,1,Mrtnmcc,Talk:N-dimensional space,"/* Common sense meaning of ""n-dimension""? */"
+2010-08-25T01:03:30+00:00,380826589,380825790,1,Mrtnmcc,Edward W. Morley,
+2010-08-25T00:57:56+00:00,380825790,380823469,1,Mrtnmcc,Edward W. Morley,/* Grave Hoax */
+2023-01-03T20:59:09+00:00,1131365426,1131365156,1,Elmofires,Space Development Agency,fix year
+2023-01-03T20:57:29+00:00,1131365156,1131356712,1,Elmofires,Space Development Agency,copyedit
+2023-01-03T20:07:59+00:00,1131356712,1131352582,1,Elmofires,Space Development Agency,"recent updates, and major contracts"
+2023-01-03T19:43:35+00:00,1131352582,1131261837,1,Elmofires,Space Development Agency,"congested, seems less relevant"
+2023-01-03T09:23:45+00:00,1131261837,1131261337,1,Elmofires,Space Development Agency,fix figure placement
+2023-01-03T09:19:47+00:00,1131261337,1131261085,1,Elmofires,Space Development Agency,move design and references to end under management
+2023-01-03T09:17:24+00:00,1131261085,1131251453,1,Elmofires,Space Development Agency,added concerns side of debate
+2023-01-03T08:00:30+00:00,1131251453,1129280543,1,Elmofires,Space Development Agency,major improvements to introduction
+2023-01-02T20:00:08+00:00,1131147799,0,1,Elmofires,User talk:Elmofires,/* SpaceX History */ new section
+2023-01-02T19:54:39+00:00,1131146889,1131101116,1,Elmofires,Starlink,/* Military satellites */ gs quote
+2022-12-31T20:50:26+00:00,1130760209,1130758040,1,Elmofires,Starlink,/* Background */ bp
+2022-12-31T20:36:42+00:00,1130758040,1130469117,1,Elmofires,Starlink,/* Background */Teledesic VP in timeline
+2022-12-31T20:20:50+00:00,1130755495,0,1,Elmofires,User:Elmofires,[[WP:AES|←]]Created page with 'Butterflies with blue halos'
+2023-02-18T20:33:29+00:00,1140173192,1140172437,1,Knilrats,Starlink,/* Satellite internet */ short blurb on new 'global roaming' added to services list
+2023-02-18T20:30:09+00:00,1140172437,1139944232,1,Knilrats,Starlink,/* Commercial service (2021–) */ new global roaming service reported by PC Mag
+2023-02-18T06:33:22+00:00,1140061333,1140058588,1,Knilrats,2023 Chinese balloon incident,fill out bare reference and cleanup recent edits
+2023-02-18T06:07:33+00:00,1140058588,1140050921,1,Knilrats,2023 Chinese balloon incident,"/* Background */ restore version containing talk improvements, after Restflux ban."
+2023-02-18T05:48:18+00:00,1140056522,1140056417,1,Knilrats,Talk:2023 Chinese balloon incident,/* original research? */
+2023-02-18T05:47:15+00:00,1140056417,1140055662,1,Knilrats,Talk:2023 Chinese balloon incident,/* original research? */
+2023-02-18T05:39:52+00:00,1140055662,1140050535,1,Knilrats,Talk:2023 Chinese balloon incident,/* original research? */ Reply
+2023-02-18T05:19:18+00:00,1140053288,1140041803,1,Knilrats,Wikipedia:Administrators' noticeboard/Edit warring,/* User:Restflux reported by User:{{subst:REVISIONUSER}} (Result: ) */ new section
+2023-02-18T05:18:15+00:00,1140053152,1140045130,1,Knilrats,User talk:Restflux,Administrators' noticeboard
+2023-02-18T04:14:09+00:00,1140045689,1139875833,1,Knilrats,SpaceX Dragon 2,/* Crew Dragon */ readability
+2023-02-18T03:49:37+00:00,1140042935,1140042798,1,Knilrats,User talk:Restflux,
+2023-02-18T03:48:33+00:00,1140042798,1139964243,1,Knilrats,User talk:Restflux,non-constructive reverting
+2023-02-18T03:39:22+00:00,1140041690,1140032208,1,Knilrats,Talk:2023 Chinese balloon incident,/* History of spy balloons section */ Reply
+2023-02-18T02:15:56+00:00,1140028475,1140027346,1,Knilrats,Talk:2023 Chinese balloon incident,WP:REVERT
+2023-02-18T02:07:21+00:00,1140027346,1140026820,1,Knilrats,Talk:2023 Chinese balloon incident,/* History of spy balloons section */ Reply
+2023-02-18T01:57:39+00:00,1140025563,1140018828,1,Knilrats,Talk:2023 Chinese balloon incident,/* History of spy balloons section */ Reply
+2023-02-18T01:52:55+00:00,1140024763,1140024164,1,Knilrats,2023 Chinese balloon incident,"/* Spy balloon history and technology */ can refine, added drug smuggling, from popularmechanics reference"
+2023-02-18T01:49:31+00:00,1140024164,1140021498,1,Knilrats,2023 Chinese balloon incident,"/* Background */ come on Restflux, don't revert everything, make a good faith effort to add the drug smuggling sentence you think is required."
+2023-02-17T23:10:51+00:00,1139999806,1139989649,1,Knilrats,Talk:2023 Chinese balloon incident,/* History of spy balloons section */ Reply
+2023-02-17T23:08:45+00:00,1139999527,1139998861,1,Knilrats,2023 Chinese balloon incident,"/* Spy balloon history and technology */ include Chinese Academy of Sciences reference in the new section, quote ""scientific instruments"",  feel free to remove if feel this doesn't add to article"
+2023-02-17T23:04:32+00:00,1139998861,1139998695,1,Knilrats,2023 Chinese balloon incident,minor fix
+2023-02-17T23:03:23+00:00,1139998695,1139991803,1,Knilrats,2023 Chinese balloon incident,"/* Spy balloon history and technology */ no longer mention [[World View Enterprises]] for Restflux, but keep the reference because it's a good one."
+2023-02-17T22:17:49+00:00,1139991803,1139987919,1,Knilrats,2023 Chinese balloon incident,"/* Spy balloon history and technology */ more precise summary, reorder references for clarity and shorten"
+2023-02-17T22:03:47+00:00,1139989649,1139971870,1,Knilrats,Talk:2023 Chinese balloon incident,/* History of spy balloons section */ Reply
+2023-02-17T07:48:20+00:00,1139865483,1139864529,1,Knilrats,World View Enterprises,/* History */ ceo comments on explosion
+2023-02-17T07:42:47+00:00,1139864529,1139481219,1,Knilrats,World View Enterprises,/* History */ hydrogen explosion
+2023-02-17T07:17:52+00:00,1139861219,1139861129,1,Knilrats,Mark Kelly,/* Aerospace work */
+2023-02-17T07:17:06+00:00,1139861129,1138827026,1,Knilrats,Mark Kelly,/* Aerospace work */ Director of Flight Crew Operations role
+2023-02-17T01:09:29+00:00,1139811893,1138664649,1,Knilrats,Rocket Lab,/* Ātea sounding rocket */
+2023-02-16T22:58:12+00:00,1139793515,1139783562,1,Knilrats,2023 Chinese balloon incident,"/* History of spy balloons */ Restflux, removed here all comparisons language per your preference. No remaining disputes in talk on this paragraph at least. It'd been a few days since your last response."
+2023-02-16T22:41:22+00:00,1139791330,1139778814,1,Knilrats,User talk:Restflux,
+2023-02-16T22:34:03+00:00,1139790370,1139783096,1,Knilrats,Talk:2023 Chinese balloon incident,/* History of spy balloons section */ Reply
+2023-02-16T17:22:14+00:00,1139737692,1139737261,1,Knilrats,2023 Chinese balloon incident,/* Background */ cas source
+2023-02-16T17:19:18+00:00,1139737261,1139655276,1,Knilrats,2023 Chinese balloon incident,/* Background */ per talk given no objections
+2023-02-15T23:20:24+00:00,1139599644,1138163413,1,Knilrats,AST SpaceMobile,reorder for lede relevance
+2023-02-15T23:08:07+00:00,1139597686,1139597364,1,Knilrats,China–United States relations,better
+2023-02-15T23:05:38+00:00,1139597364,1139597061,1,Knilrats,China–United States relations,
+2023-02-15T23:03:14+00:00,1139597061,1139530462,1,Knilrats,China–United States relations,tony blair from same reference
+2023-02-15T22:54:48+00:00,1139595903,1138974279,1,Knilrats,User talk:Restflux,looking forward to your response
+2023-02-15T19:31:26+00:00,1139564486,1139558745,1,Knilrats,Talk:2023 Chinese balloon incident,/* History of spy balloons section */ Reply
+2023-02-15T18:14:05+00:00,1139551621,1137923420,1,Knilrats,"Solar eclipse of April 8, 2024",ce
+2023-02-15T17:44:48+00:00,1139545663,1139544396,1,Knilrats,Talk:2023 Chinese balloon incident,clean
+2023-02-15T17:38:26+00:00,1139544396,1139541259,1,Knilrats,Talk:2023 Chinese balloon incident,/* History of spy balloons section */ clarify
+2023-02-15T17:20:58+00:00,1139541259,1139538921,1,Knilrats,Talk:2023 Chinese balloon incident,
+2023-02-15T17:07:48+00:00,1139538921,1139537762,1,Knilrats,Talk:2023 Chinese balloon incident,
+2023-02-15T12:46:57+00:00,1139496661,1139484912,1,Knilrats,2023 Chinese balloon incident,/* History of spy balloons */shorten/clean up and keep per N2e recommendation on talk.
+2023-02-15T11:07:36+00:00,1139484912,1139484111,1,Knilrats,2023 Chinese balloon incident,"Undid revision 1139484023 by [[Special:Contributions/Restflux|Restflux]] ([[User talk:Restflux|talk]]) please wait for the talk to get full input before nuking, the same courtesy was afforded to you."
+2023-02-15T11:05:08+00:00,1139484644,1139483461,1,Knilrats,Talk:2023 Chinese balloon incident,/* History of spy balloons section */ Reply
+2023-02-15T10:36:44+00:00,1139481219,1139481000,1,Knilrats,World View Enterprises,fill out references
+2023-02-15T10:34:43+00:00,1139481000,1133907022,1,Knilrats,World View Enterprises,mil use
+2023-02-15T10:09:02+00:00,1139478377,1139476932,1,Knilrats,Talk:2023 Chinese balloon incident,/* More Chinese views in the introduction section */ Reply
+2023-02-15T09:59:40+00:00,1139477318,1139477026,1,Knilrats,2023 Chinese balloon incident,incorporate prior updates that are not in dispute by User:Restflux
+2023-02-15T09:56:50+00:00,1139477026,1139471252,1,Knilrats,2023 Chinese balloon incident,incorporate prior updates that are not in dispute by User:Restflux
+2023-02-15T09:30:29+00:00,1139474296,1139473340,1,Knilrats,Talk:2023 Chinese balloon incident,/* U.S.–China tensions */ Reply
+2023-02-15T09:08:36+00:00,1139472149,1139471039,1,Knilrats,Talk:2023 Chinese balloon incident,/* U.S.–China tensions */ Reply
+2023-02-15T08:58:01+00:00,1139471053,1139470854,1,Knilrats,2023 Chinese balloon incident,Undid revision 1139470854 by [[Special:Contributions/Restflux|Restflux]] ([[User talk:Restflux|talk]]) return to status quo for talk discussion
+2023-02-15T08:55:08+00:00,1139470691,1139470339,1,Knilrats,2023 Chinese balloon incident,Restored version 1139470018 before Restflux non-NPOV edits
+2023-02-15T08:52:13+00:00,1139470339,1139470309,1,Knilrats,2023 Chinese balloon incident,Undid revision 1139470227 by [[Special:Contributions/Restflux|Restflux]] ([[User talk:Restflux|talk]])
+2023-02-15T08:51:48+00:00,1139470309,1139470227,1,Knilrats,2023 Chinese balloon incident,Undid revision 1139470022 by [[Special:Contributions/Restflux|Restflux]] ([[User talk:Restflux|talk]])
+2023-02-15T08:49:47+00:00,1139470095,1139386285,1,Knilrats,China–United States relations,/* Biden administration (2021–current) */ moved for Restflux from 2023 Chinese ballooning incident
+2023-02-15T08:49:07+00:00,1139470018,1139469754,1,Knilrats,2023 Chinese balloon incident,/* U.S.–China tensions */ moved to History of Military Ballooning article
+2023-02-15T04:50:47+00:00,1139444757,1139444546,1,Knilrats,2023 Chinese balloon incident,"Undid revision 1139440741 by [[Special:Contributions/Restflux|Restflux]] ([[User talk:Restflux|talk]]) seems technically relevant and well sourced, more pertinent than peripheral US-China relations lesson with questionable NPOV"
+2023-02-15T03:45:23+00:00,1139437397,1139436249,1,Knilrats,2023 Chinese balloon incident,/* History of spy balloons */more public-domain context details
+2023-02-15T03:34:43+00:00,1139436249,1139434066,1,Knilrats,2023 Chinese balloon incident,/* History of spy balloons */recent spy balloon development
+2023-02-15T02:58:38+00:00,1139431903,1139431410,1,Knilrats,2023 Chinese balloon incident,"Reorder, context first"
+2023-02-15T02:54:32+00:00,1139431410,1139425907,1,Knilrats,2023 Chinese balloon incident,"/* U.S.–China tensions */abbreviate, clean up, doesn't need to cover all relations"
+2022-11-10T23:04:50+00:00,1121181889,1121181819,1,Knilrats,Elon Musk,/* Starlink */ additional ref
+2022-11-10T23:04:17+00:00,1121181819,1121151215,1,Knilrats,Elon Musk,/* Starlink */ add SDA program
+2022-11-10T22:20:16+00:00,1121174878,1119486225,1,Knilrats,Office of Strategic Services,/* Facilities */ strange phrase
+2022-10-13T21:16:01+00:00,1115912738,1115912229,1,Knilrats,Dalai Lama,/* Re-unification of Tibet */
+2022-10-13T21:12:34+00:00,1115912229,1113770603,1,Knilrats,Dalai Lama,grammer: comma
+2022-09-15T21:51:25+00:00,1110506778,1110503988,1,Knilrats,Starlink,"/* History */ further cleanup, move citations into subscriber base table, move launch-specific updates into relevant section"
+2022-09-15T21:25:04+00:00,1110503988,1110503321,1,Knilrats,Starlink,/* History */ remove cleanup tag now that headings resolved
+2022-09-15T21:19:22+00:00,1110503321,1110487734,1,Knilrats,Starlink,"/* History */ bold cleanup, remove extra headings, obviated filings, better organization"
+2022-08-25T18:52:52+00:00,1106650129,1106354966,1,Knilrats,SpaceX,/* 2005–2009: Falcon 1 and first orbital launches */ naming
+2022-07-11T23:00:27+00:00,1097656797,1093025148,1,Knilrats,Swarm Technologies,add iqt reference
+2022-07-09T23:26:13+00:00,1097305311,1097304980,1,Knilrats,In-Q-Tel,add archive link to paywall article
+2022-07-09T23:22:56+00:00,1097304980,1095726803,1,Knilrats,In-Q-Tel,/* History */ more from reference
+2022-07-09T23:01:22+00:00,1097302664,1097291588,1,Knilrats,Elon Musk,/* SpaceX */ Griffin references
+2022-07-09T22:25:11+00:00,1097298891,1095421722,1,Knilrats,Michael D. Griffin,/* Career */ added the COTS NASA program
+2022-06-22T13:23:49+00:00,1094411411,1094407494,1,Knilrats,Talk:Starlink,/* Military Satellites Section */
+2022-06-22T13:17:31+00:00,1094410683,1094399028,1,Knilrats,Starlink,"change source sgp.fas.org -> crsreports.congress.gov, per WeylandWings/talk"
+2022-06-22T05:49:38+00:00,1094368407,1094298746,1,Knilrats,Hypersonic Air-breathing Weapon Concept,"aunch from a wider range of platforms, integrate seekers, MoHAWC reference"
+2022-06-22T05:11:19+00:00,1094364753,1094364081,1,Knilrats,John E. Hyten,add latest employment
+2022-06-22T05:04:19+00:00,1094364081,1093291381,1,Knilrats,John E. Hyten,/* Military career */ reference for hypersonics
+2022-06-22T04:04:00+00:00,1094356303,1094352371,1,Knilrats,Starlink,/* Military satellites */ solid reference
+2022-06-22T03:55:54+00:00,1094355115,1094349927,1,Knilrats,Talk:Starlink,/* Military Satellites Section */
+2022-06-22T03:05:24+00:00,1094350305,1094335351,1,Knilrats,Starlink,/* Military capabilities */ remove speculative references per WeylandsWings
+2022-06-22T03:02:04+00:00,1094349927,1094336329,1,Knilrats,Talk:Starlink,/* Military Satellites Section */
+2022-06-22T00:53:21+00:00,1094335351,1094333596,1,Knilrats,Starlink,"Undid revision 1094333596 by [[Special:Contributions/WeylandsWings|WeylandsWings]] ([[User talk:WeylandsWings|talk]]) Hi WeylandsWings, please add a section to talk and come to consensus before removing"
+2022-06-21T23:08:50+00:00,1094323282,1094320126,1,Knilrats,Starlink,"Undid revision 1094320126 by [[Special:Contributions/WeylandsWings|WeylandsWings]] ([[User talk:WeylandsWings|talk]]) material appears well cited, please improve instead of wholesale removal"
+2022-06-21T21:31:19+00:00,1094311872,1094311798,1,Knilrats,Starlink,Undid revision 1094298990 by [[Special:Contributions/Pots0bots|Pots0bots]] ([[User talk:Pots0bots|talk]])
+2022-06-21T21:30:57+00:00,1094311798,1094299535,1,Knilrats,Starlink,Undid revision 1094299535 by [[Special:Contributions/Pots0bots|Pots0bots]] ([[User talk:Pots0bots|talk]])
+2022-06-21T18:04:55+00:00,1094280113,1094273408,1,Knilrats,Starlink,"Undid revision 1094273408 by [[Special:Contributions/Pots0bots|Pots0bots]] ([[User talk:Pots0bots|talk]]) bogus, no reference"
+2022-06-19T17:53:12+00:00,1093922912,1093922576,1,Knilrats,Michael D. Griffin,/* Career */ chronological order
+2022-06-19T17:50:01+00:00,1093922576,1091089852,1,Knilrats,Michael D. Griffin,"/* Career */ add CRS contract, SDA"
+2022-06-17T19:23:44+00:00,1093617222,1084978238,1,Knilrats,Gwynne Shotwell,/* Career */ add CRS contract
+2022-06-17T18:57:12+00:00,1093614131,1093611714,1,Knilrats,SpaceX,/* 2005–2009: Falcon 1 and first orbital launches */ cite CRS contract
+2022-02-15T22:41:04+00:00,1072089964,1072080202,1,Knilrats,Strategic Defense Initiative,latest development
+2022-02-15T21:32:13+00:00,1072080202,1070938034,1,Knilrats,Strategic Defense Initiative,"unnecessary emphasis, see style guide"
+2022-02-13T05:12:22+00:00,1071544538,1071543105,1,Knilrats,Vladimir Putin,/* Military development */More context from reference included
+2022-02-13T05:03:53+00:00,1071543105,1071542318,1,Knilrats,Vladimir Putin,/* Military development */More complete quote.
+2022-02-13T04:59:57+00:00,1071542318,1071489504,1,Knilrats,Vladimir Putin,/* Military development */claim not supported by reference (also opinion piece)
+2022-01-28T16:28:58+00:00,1068475960,1065894993,1,Knilrats,Edward Teller,/* Decision to drop the bombs */
+2022-01-28T03:08:16+00:00,1068375406,1065923367,1,Knilrats,Fermi paradox,/* Electromagnetic emissions */
+2022-01-28T02:57:27+00:00,1068373920,1068373482,1,Knilrats,Elon Musk,/* SpaceX */
+2022-01-28T02:54:22+00:00,1068373482,1068372555,1,Knilrats,Elon Musk,/* SpaceX */ trip to Russia
+2022-01-28T02:46:24+00:00,1068372555,1068367941,1,Knilrats,Elon Musk,/* COVID-19 */
+2022-01-28T02:29:28+00:00,1068370430,1068369332,1,Knilrats,McDonnell Douglas DC-X,/* Future */ add citation - lars blackmore
+2022-01-28T02:20:15+00:00,1068369332,1068368629,1,Knilrats,McDonnell Douglas DC-X,/* SDIO requirement */ original no longer available
+2022-01-28T02:13:48+00:00,1068368629,1064717440,1,Knilrats,McDonnell Douglas DC-X,/* Background */ touch ups
+2022-01-28T02:02:58+00:00,1068367294,1068366542,1,Knilrats,SpaceX,/* 2001–2004: Founding */ link fix
+2022-01-28T01:57:41+00:00,1068366542,1068310016,1,Knilrats,SpaceX,/* 2001–2004: Founding */ early employees
+2022-01-21T21:46:10+00:00,1067126985,1067124876,1,Knilrats,Starlink,Undid revision 1067124876 by [[Special:Contributions/67.187.214.165|67.187.214.165]] ([[User talk:67.187.214.165|talk]])
+2022-01-17T09:14:39+00:00,1066214493,1065279259,1,Knilrats,Starlink,/* Military satellite bus */It doesn't have to
+2021-12-05T05:54:14+00:00,1058723655,1058722224,1,Knilrats,Starlink,/* Military Satellite Bus */ cleaned up links
+2021-12-05T05:39:16+00:00,1058722224,1058721630,1,Knilrats,Starlink,Added govt bus section
+2021-12-05T05:18:53+00:00,1058720398,0,1,Knilrats,User:Knilrats,"[[WP:AES|←]]Created page with '“Somewhere, something incredible is waiting to be known.”'"
+2023-02-18T22:47:01+00:00,1140194054,1140193708,1,Knilrats_2,User talk:Knilrats 2,
+2023-02-18T22:39:46+00:00,1140192958,1140192747,1,Knilrats_2,Wikipedia:Sockpuppet investigations/Mrtnmcc,/* Comments by other users */
+2023-02-18T22:37:07+00:00,1140192584,1140192273,1,Knilrats_2,Wikipedia:Sockpuppet investigations/Mrtnmcc,/* Comments by other users */
+2023-02-18T22:35:14+00:00,1140192313,0,1,Knilrats_2,User:Knilrats 2,"[[WP:AES|←]]Created page with 'Temporary account, responding to administrators about shared account User:Knilrats.'"
+2023-02-18T22:33:16+00:00,1140192053,1140192001,1,Knilrats_2,Wikipedia:Sockpuppet investigations/Mrtnmcc,/* Comments by other users */sign
+2023-02-18T22:32:57+00:00,1140192001,1140191837,1,Knilrats_2,Wikipedia:Sockpuppet investigations/Mrtnmcc,/* Comments by other users */
+2023-02-18T22:31:38+00:00,1140191837,1140191725,1,Knilrats_2,Wikipedia:Sockpuppet investigations/Mrtnmcc,/* Comments by other users */
+2023-02-18T22:28:21+00:00,1140191413,1140191195,1,Knilrats_2,Wikipedia:Sockpuppet investigations/Mrtnmcc,/* Comments by other users */
+2023-02-18T22:27:08+00:00,1140191195,1140175123,1,Knilrats_2,Wikipedia:Sockpuppet investigations/Mrtnmcc,/* Comments by other users */commenting for Knilrats
+2023-02-15T05:17:07+00:00,1139447635,1139447311,1,Kuipernet,2023 Chinese balloon incident,/* History of spy balloons */ce
+2023-02-15T05:14:11+00:00,1139447311,1139446582,1,Kuipernet,2023 Chinese balloon incident,Filled in 3 bare reference(s) with reFill 2
+2023-02-15T05:07:42+00:00,1139446582,1139446348,1,Kuipernet,2023 Chinese balloon incident,/* History of spy balloons */original Chinese reference
+2023-02-15T05:05:17+00:00,1139446348,1139445283,1,Kuipernet,2023 Chinese balloon incident,/* History of spy balloons */Chinese side pre-2023
+2023-02-15T04:55:53+00:00,1139445283,1139444757,1,Kuipernet,2023 Chinese balloon incident,"/* U.S.–China tensions */too biased as a summary, reader can refer to main article"
+2023-02-15T01:48:11+00:00,1139422113,1139421200,1,Kuipernet,2023 Chinese balloon incident,"geolocating, ce"
+2023-02-14T18:46:15+00:00,1139359346,1139346506,1,Kuipernet,2023 Chinese balloon incident,"/* History of spy balloons */ clean up, 18th century according to main History of military ballooning article"
+2023-02-14T17:09:22+00:00,1139343829,1139343279,1,Kuipernet,2023 Chinese balloon incident,/* History of spy balloons */ wiki
+2023-02-14T17:05:31+00:00,1139343279,1139342429,1,Kuipernet,2023 Chinese balloon incident,/* History of spy balloons */
+2023-02-14T16:59:43+00:00,1139342429,1139341931,1,Kuipernet,2023 Chinese balloon incident,/* History of spy balloons */
+2023-02-13T00:16:45+00:00,1139027345,1139015019,1,Kuipernet,Talk:Rocket Lab,/* Threaded discussion */fix
+2023-02-12T18:59:51+00:00,1138981176,1138692774,1,Kuipernet,Starlink,/* Military satellites */make intro clearer
+2023-02-11T02:46:31+00:00,1138698259,1138691566,1,Kuipernet,SpaceX,"Undid revision 1138691566 by [[Special:Contributions/47.204.235.138|47.204.235.138]] ([[User talk:47.204.235.138|talk]]) founded March 14, see Delaware reference, company was later registered in California as well in May but this wasn't founding"
+2023-02-10T23:48:26+00:00,1138674952,1138631806,1,Kuipernet,Talk:Rocket Lab,
+2023-02-10T21:51:23+00:00,1138659412,1138655453,1,Kuipernet,Rocket Lab,Reference
+2023-02-10T21:32:02+00:00,1138656740,1134647698,1,Kuipernet,Semi-Automatic Ground Environment,/* Project Lincoln */ citation
+2023-02-10T21:22:38+00:00,1138655453,1138654698,1,Kuipernet,Rocket Lab,move subsidiary down
+2023-02-10T21:17:20+00:00,1138654698,1137530742,1,Kuipernet,Rocket Lab,bold lede fix
+2023-02-10T20:59:44+00:00,1138652113,1138650415,1,Kuipernet,Starlink,"spaces, clean up"
+2023-02-10T20:49:21+00:00,1138650415,1138648461,1,Kuipernet,Starlink,update
+2023-02-10T20:37:03+00:00,1138648461,1138633653,1,Kuipernet,Starlink,move new leadership section further down and cleanup recent edits
+2023-02-08T20:35:45+00:00,1138269698,1138118157,1,Kuipernet,Starlink,various corrections
+2023-02-04T03:46:31+00:00,1137345935,1137332239,1,Kuipernet,Starlink,Undid revision 1137332239 by [[Special:Contributions/97.116.105.82|97.116.105.82]] ([[User talk:97.116.105.82|talk]]) mistake?
+2023-01-31T05:25:39+00:00,1136608160,1016393706,1,Kuipernet,Spaceball (album),/* Reception */quote
+2023-01-31T05:16:42+00:00,1136607313,1133816102,1,Kuipernet,Trustworthy AI,Clarity
+2023-01-31T02:23:31+00:00,1136586306,1136569637,1,Kuipernet,SpaceX Mars Colonization Program,"Undid revision 1136569637 by [[Special:Contributions/Jamal Dieffenbacher|Jamal Dieffenbacher]] ([[User talk:Jamal Dieffenbacher|talk]]) copyrighted material, npov"
+2023-01-28T20:48:46+00:00,1136117415,1136113612,1,Kuipernet,Starlink,Undid revision 1136112054 by [[Special:Contributions/5.52.186.154|5.52.186.154]] ([[User talk:5.52.186.154|talk]]) non constructive edit
+2023-01-21T05:33:17+00:00,1134877249,1134876890,1,Kuipernet,"Tesla, Inc.",/* Global expansion and Model Y (2019–present) */more precise
+2023-01-21T05:29:15+00:00,1134876890,1134274161,1,Kuipernet,"Tesla, Inc.",/* Global expansion and Model Y (2019–present) */Bloomberg report on Giga Shanghai
+2023-01-19T22:20:16+00:00,1134667089,1134139956,1,Kuipernet,SpaceX,"always was half defense-funded, now starshield is highest profile"
+2023-01-18T21:25:31+00:00,1134469506,1133490934,1,Kuipernet,Eutelsat OneWeb,/* Competition */update customer count
+2023-01-18T07:43:07+00:00,1134353679,1132394638,1,Kuipernet,Kuiper Systems,SDA compatibility reference
+2023-01-12T19:53:03+00:00,1133225367,1133219253,1,Kuipernet,Michael D. Griffin,reorder
+2023-01-12T19:20:23+00:00,1133219253,1131998574,1,Kuipernet,Michael D. Griffin,organize better
+2023-01-11T20:05:05+00:00,1133002375,1133000688,1,Kuipernet,Starlink,/* Starshield program */ wikilink
+2023-01-11T19:36:04+00:00,1132998838,1132998501,1,Kuipernet,Mike Rogers (Alabama politician),/* 115th Congress (2017–2019) */Fix reference
+2023-01-11T19:32:52+00:00,1132998501,1132886921,1,Kuipernet,Mike Rogers (Alabama politician),/* 115th Congress (2017–2019) */SDA
+2022-12-31T04:04:07+00:00,1130628063,1130577922,1,Kuipernet,SpaceX,/* Workplace culture */grammar
+2022-12-30T22:06:38+00:00,1130577922,1130577117,1,Kuipernet,SpaceX,/* Starlink */add first orders to timeline
+2022-12-30T22:01:24+00:00,1130577117,1130573639,1,Kuipernet,SpaceX,"/* Starlink */copyedit, update stale information"
+2022-12-30T21:39:18+00:00,1130573639,1130399241,1,Kuipernet,SpaceX,/* Starlink */not relevant
+2022-12-29T18:33:02+00:00,1130343562,1130233824,1,Kuipernet,Brilliant Pebbles,wikilink
+2022-12-29T18:32:16+00:00,1130343440,1129572730,1,Kuipernet,Missile defense,/* Boost phase */not a good example
+2022-12-29T05:37:34+00:00,1130230137,1130229125,1,Kuipernet,Brilliant Pebbles,citation
+2022-12-29T05:30:04+00:00,1130229125,1127161220,1,Kuipernet,Brilliant Pebbles,added brilliant pebbles national academy constellation image
+2022-12-16T07:55:42+00:00,1127716789,1127708825,1,Kuipernet,Elon Musk,"/* Business career */ minimal version, ce"
+2022-12-13T22:25:48+00:00,1127287903,1116171746,1,Kuipernet,Terrence J. O'Shaughnessy,starshield
+2022-12-13T21:24:28+00:00,1127278687,1127229679,1,Kuipernet,Elon Musk,restore starshield section (shortened)
+2022-12-13T20:47:51+00:00,1127273394,1127272702,1,Kuipernet,History of SpaceX,/* Overview */falcon contract
+2022-12-13T20:42:57+00:00,1127272702,1127272419,1,Kuipernet,History of SpaceX,/* Overview */
+2022-12-13T20:40:53+00:00,1127272419,1122817099,1,Kuipernet,History of SpaceX,/* Overview */mars society reference
+2022-12-13T20:36:42+00:00,1127271832,1127271348,1,Kuipernet,Mars Society,/* Mars analog habitats */ reference
+2022-12-13T20:33:11+00:00,1127271348,1107996404,1,Kuipernet,Mars Society,/* Mars analog habitats */
+2022-12-13T20:11:16+00:00,1127268165,1124863808,1,Kuipernet,Arms race,
+2022-12-13T06:26:36+00:00,1127161220,1117508596,1,Kuipernet,Brilliant Pebbles,LEO orbit
+2022-11-10T23:53:54+00:00,1121187967,1121186020,1,Kuipernet,Space Development Agency,2022 National Defense Strategy update
+2022-11-10T23:38:25+00:00,1121186020,1120271066,1,Kuipernet,Space Development Agency,MG reference
+2022-10-17T22:33:14+00:00,1116704338,1115816808,1,Kuipernet,Rocket Lab,added SDA references and New Zealand
+2022-09-18T19:50:07+00:00,1111000828,1110747614,1,Kuipernet,Starlink,/* Commercial Service (2021- ) */ additional govt use references
+2022-09-18T19:29:43+00:00,1110998306,0,1,Kuipernet,User:Kuipernet,"[[WP:AES|←]]Created page with 'One ring to rule them all, one ring to find them, One ring to bring them all, and in the darkness bind them.'"
+2021-12-09T00:13:53+00:00,1059357428,0,1,Taskrut,User:Taskrut/sandbox,[[WP:AES|←]]Created page with '{{User sandbox}} <!-- EDIT BELOW THIS LINE -->'
+2021-12-09T00:10:21+00:00,1059356874,0,1,Taskrut,User talk:Knilrats,[[WP:AES|←]]Created page with '~'
+2021-12-08T07:39:42+00:00,1059234942,1059234674,1,Taskrut,Türksat 5B,Undid revision 1059234674 by [[Special:Contributions/Taskrut|Taskrut]] ([[User talk:Taskrut|talk]])
+2021-12-08T07:36:40+00:00,1059234674,1059232985,1,Taskrut,Türksat 5B,/* Features */ better source
+2021-12-08T07:16:04+00:00,1059232985,1059231543,1,Taskrut,Türksat 5B,Fix table
+2021-12-08T07:11:45+00:00,1059232661,1032645127,1,Taskrut,Defence Industry Agency,fixed acronym
+2021-12-08T06:57:44+00:00,1059231543,1058744796,1,Taskrut,Türksat 5B,added x-band reference
+2021-12-08T06:47:05+00:00,1059230572,0,1,Taskrut,User:Taskrut,"[[WP:AES|←]]Created page with 'A human being is a part of the whole called by us universe,'"
+2008-04-20T21:47:06+00:00,206969040,17029584,0,Pie4all88,Brilliant Pebbles,#redirect [[Strategic Defense Initiative#Brilliant Pebbles]]
+2011-04-26T11:03:58+00:00,425992743,423899803,0,Ripchip Bot,Arms race,r2.7.1) (robot Adding: [[fa:مسابقه تسلیحاتی]]
+2020-08-28T05:38:23+00:00,975379662,975379644,0,Synoman Barris,Bayraktar TB2,Reverted edits by [[Special:Contribs/37.238.66.20|37.238.66.20]] ([[User talk:37.238.66.20|talk]]) to last version by Roller26
+2019-11-03T03:16:28+00:00,924318411,918634619,0,Kyreikal,Arms race,Moved other uses to their own section for easier readability.
+2018-06-14T10:59:47+00:00,845820121,845779539,0,Maury Markowitz,Brilliant Pebbles,/* Countermeasures */
+2017-11-30T18:16:59+00:00,812923999,812923922,0,Maury Markowitz,Brilliant Pebbles,/* SDS */
+2022-07-13T03:02:28+00:00,1097875595,1087862239,0,CactiStaccingCrane,Brilliant Pebbles,not + unlike = similar
+2016-11-08T20:51:22+00:00,748553602,748544744,0,Kyle223cat,China–United States relations,Reverted last two edits.
+2017-12-06T01:53:26+00:00,813943259,812468065,0,114.134.184.105,China–United States relations,/* Vietnam War */
+2013-08-21T07:47:38+00:00,569538567,569538392,0,Widr,China–United States relations,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/167.1.173.21|167.1.173.21]] ([[User talk:167.1.173.21|talk]]) to last version by Francvs
+2012-05-28T07:25:45+00:00,494742322,494730813,0,Woohookitty,China–United States relations,"[[:en:WP:CLEANER|WPCleaner]] v1.13 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Cairo Conference]], 1 to be fixed - [[Communist China]]"
+2017-05-15T06:59:49+00:00,780457647,780013916,0,116.34.137.11,China–United States relations,/* Country comparison */
+2018-04-16T17:48:36+00:00,836758757,836758741,0,ClueBot NG,China–United States relations,"Reverting possible vandalism by [[Special:Contribs/47.23.164.250|47.23.164.250]] to version by Davidbena. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3349810) (Bot)"
+2010-08-25T13:45:30+00:00,380914535,380914494,0,The Thing That Should Not Be,Cross-correlation,[[WP:RBK|Reverted]] edits by [[Special:Contributions/155.185.48.204|155.185.48.204]] ([[User_talk:155.185.48.204|talk]]) to last revision by 137.248.141.44 ([[WP:HG|HG (Custom)]])
+2017-05-11T11:12:13+00:00,779849165,779848886,0,87.254.84.219,Cross-correlation,/* Time series analysis */
+2020-12-05T13:31:59+00:00,992476453,986441624,0,Monkbot,Cross-correlation,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 11 templates: del empty params (2×);
+2020-01-22T15:36:36+00:00,937038368,936692754,0,1990'sguy,China–United States relations,/* Trump's presidency (2017–) */ Add.
+2018-01-06T23:26:08+00:00,819022436,819022284,0,AustralianRupert,Brilliant Pebbles,/* top */ unspaced emdash per [[WP:DASH]]
+2019-01-17T19:31:00+00:00,878916436,878916035,0,Fvultier,Cross-correlation,Subtitles.
+2020-07-30T11:03:25+00:00,970280267,970227676,0,Trappist the monk,China–United States relations,/* Military spending and planning */repair cs1 templates with [[:Category:Pages with citations using unsupported parameters|unsupported parameters]]; (1× url-status; parameters hyphenated)
+2022-09-09T18:07:01+00:00,1109416677,1107840497,0,Fabrickator,Cross-correlation,"correct ""incidences"" to ""instances"""
+2017-12-31T21:24:43+00:00,817992773,816406757,0,Loraof,Cross-correlation,/* Zero-Normalized cross-correlation (ZNCC) */  ce
+2017-11-17T14:41:08+00:00,810799832,800573921,0,Swact,Cross-covariance,/* Properties of cross-covariance matrix */ added formula which has famous scalar analogue
+2018-09-30T20:27:38+00:00,861895664,860241677,0,Michael Hardy,Cross-covariance,
+2015-11-12T16:17:13+00:00,690311871,689128419,0,MacPraughan,Dalai Lama,/* Ninth to Twelfth Dalai Lamas */ Addl opinion from 14th DL
+2020-01-21T01:16:32+00:00,936791961,932850347,0,78.42.105.64,Cross-correlation,/* External links */ deleted dead link (http://www.phys.ufl.edu/LIGO/stochastic/sign05.pdf)
+2019-01-05T19:28:17+00:00,876980023,876815446,0,Fvultier,Cross-covariance,Errors fixed.
+2017-01-07T16:08:51+00:00,758788287,756254819,0,Jamessungjin.kim,Cross-covariance,/* See also */ cross-correlation is added since it is most closely related to the item.
+2021-11-20T09:00:35+00:00,1056191499,1050045940,0,Olexa Riznyk,Cross-covariance,"Clarifying, fixing equation numbers, adding/updating wikilinks, spelling/grammar/punctuation/typographical correction, fixing style/layout errors"
+2019-04-13T15:31:39+00:00,892299915,892291583,0,Dereck Camacho,Dalai Lama,
+2011-11-13T07:35:16+00:00,460408216,434564071,0,Sss41,Cross-covariance,/* Signal processing */
+2013-04-23T16:26:31+00:00,551818345,551818301,0,Yintan,Dalai Lama,Reverted edits by [[Special:Contributions/189.204.47.20|189.204.47.20]] ([[User talk:189.204.47.20|talk]]) to last revision by Helpsome ([[WP:HG|HG]])
+2015-08-05T17:57:22+00:00,674717210,674709498,0,MacPraughan,Dalai Lama,/* 14th Dalai Lama */
+2020-06-24T13:36:41+00:00,964260798,876980023,0,2001:1715:9D95:6A00:C491:83AA:45BD:9975,Cross-covariance,/* Cross-covariance of stochastic processes */
+2017-06-23T15:56:46+00:00,787125942,787121233,0,213.137.9.174,Cross-correlation,/* Time series analysis */
+2014-05-13T23:51:58+00:00,608469345,606232742,0,Monkbot,Cross-correlation,/* Time delay analysis */Task 5: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]
+2021-04-30T10:51:34+00:00,1020664567,1013365196,0,176.198.183.23,Defence Industry Agency,fixes
+2022-10-26T22:27:06+00:00,1118417013,1117644717,0,DASDBILL2,Edward Teller,/* Early life and work */ grammar
+2011-07-23T11:59:55+00:00,440987735,440085193,0,85.101.38.184,Edward W. Morley,
+2011-03-28T01:33:28+00:00,421075751,421074317,0,Hardwigg,Edward Teller,/* Hydrogen Bomb */ minor rephrasing
+2011-05-13T05:54:07+00:00,428878899,425097704,0,All Hallow's Wraith,Elon Musk,
+2016-01-31T23:18:55+00:00,702661893,699594252,0,KasparBot,Edward W. Morley,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Edward W. Morley|challenges for this article]]"
+2011-10-26T22:28:14+00:00,457563332,457523327,0,Robert Horning,Elon Musk,Adding signature/autograph
+2012-02-27T09:40:37+00:00,479092587,474444508,0,128.227.104.157,Edward W. Morley,/* Biography */
+2015-08-30T18:57:16+00:00,678645790,678623624,0,Falcor84,Elon Musk,Added another use for the reference about Musk's children
+2016-12-20T19:32:37+00:00,755886943,755855797,0,Bit7ocker,Elon Musk,/* Awards and recognition */ Forbes Most Powerful People
+2021-09-16T03:26:44+00:00,1044602549,1038467700,0,OlliverWithDoubleL,Edward W. Morley,
+2013-07-02T18:08:07+00:00,562578187,562577686,0,50.137.77.245,Elon Musk,/* Philanthropy */
+2011-08-04T00:50:51+00:00,442935719,442682987,0,Courcelles,Elon Musk,Remove Time100 templates per [[Wikipedia:Templates for discussion/Log/2011 July 28|TFD]] using [[Project:AWB|AWB]]
+2017-11-25T17:25:39+00:00,812046103,811442861,0,Wllmevans,Elon Musk,/* Political views */
+2012-11-08T04:57:15+00:00,521947779,521593194,0,Booch,Elon Musk,/* Early life */ Fix link to matriculation
+2017-10-30T07:21:53+00:00,807812915,807812311,0,Ihardlythinkso,Elon Musk,/* Personal life */ was a quote
+2010-09-28T16:14:30+00:00,387553719,387541036,0,93.158.31.202,Elon Musk,
+2021-06-30T00:45:48+00:00,1031135368,1031134840,0,HAL333,Elon Musk,Nope - read the note
+2016-06-25T21:56:46+00:00,726993365,726829774,0,Jatkins,Elon Musk,/* SpaceX */ September 2009 -> September 2008 (first successful Falcon 1 launch)
+2015-01-04T16:08:37+00:00,640958160,640947857,0,Gopher65,Elon Musk,Undid revision 640947857 by [[Special:Contributions/Heuh0|Heuh0]] ([[User talk:Heuh0|talk]]) You completely inverted the original meaning of the quote.
+2011-11-21T01:36:24+00:00,461695426,460488056,0,Craigboy,Elon Musk,/* SpaceX */ Added image
+2017-07-22T10:28:18+00:00,791765568,790676627,0,DawsonCXVII,Elon Musk,Fixed minor grammatical errors.
+2017-02-18T00:25:13+00:00,766061288,766053537,0,Loginnigol,Elon Musk,/* Early childhood */ copyedit
+2022-10-09T23:45:15+00:00,1115131066,1115130372,0,QRep2020,Elon Musk,/* Politics */ Taiwan officials.
+2012-05-29T23:23:15+00:00,495036775,495036604,0,128.164.215.110,Elon Musk,/* SpaceX */
+2014-01-18T05:52:23+00:00,591231972,570093951,0,Monkbot,Estimation of covariance matrices,Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2020-11-03T20:32:52+00:00,986929308,986246047,0,WikiCleanerBot,Estimation of covariance matrices,v2.03b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - [[WP:WCW]] project (Reference before punctuation - Link equal to linktext)
+2020-06-17T22:43:16+00:00,963115706,959648894,0,David Eppstein,Estimation of covariance matrices,[[Susan J. Devlin]]
+2014-06-19T17:21:50+00:00,613584241,607153254,0,2601:2:4D00:27B:D9F8:4D1E:CABE:DA91,Estimation of covariance matrices,/* Concluding steps */
+2012-02-26T16:16:13+00:00,478965494,478919825,0,217.112.73.241,Elon Musk,/* Early life */ corrected immigrated to emigrated.
+2015-01-25T14:37:14+00:00,644106296,643549840,0,N2e,Eutelsat OneWeb,rm dbl redirect
+2011-12-04T06:27:48+00:00,463950293,463947231,0,71.199.204.156,Estimation of covariance matrices,"replaced = with \propto, corrected bit about condition implying positive definite S"
+2017-01-07T00:40:26+00:00,758697386,758598617,0,Latex-yow,Estimation of covariance matrices,
+2019-01-10T19:11:14+00:00,877765367,876466436,0,Dfoverdx,Fermi paradox,/* It's cheaper to transfer information for exploration */Fixed typo
+2012-01-16T13:39:44+00:00,471676310,471676132,0,Phinizyspalding,Fermi paradox,/* Earth is purposely not contacted (The zoo hypothesis) */
+2021-01-17T13:06:17+00:00,1000938804,997677810,0,51.223.112.133,Fuel cell,/* In practice */
+2012-09-23T22:05:00+00:00,514224985,514175815,0,Stepho-wrs,Fuel cell,/* History */ Fixed date format '2012-23-09' -> '2012-09-23'.
+2019-09-14T15:29:30+00:00,915660070,915029280,0,2601:3C8:300:9B10:7CC4:39DA:6EA3:11CB,Fuel cell,/* Comparison of fuel cell types */
+2013-06-04T16:18:54+00:00,558308513,558214133,0,Ssilvers,Fuel cell,rm repeated text.
+2016-04-22T19:48:15+00:00,716620589,708629735,0,78.3.111.67,Fuel cell forklift,/* Research */
+2021-07-13T09:56:24+00:00,1033380453,962665623,0,DesertPipeline,Fuel cell forklift,"Copyedit: Wording, punctuation. Tag statements needing clarification and missing context. Comment out promotional citation to a company website not serving as a reference"
+2022-06-28T19:17:56+00:00,1095507102,1093865201,0,GreenC bot,Gwynne Shotwell,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2017-03-01T17:46:01+00:00,768079440,768075914,0,TGCP,Fuel cell forklift,/* Uses */ ref efficiency
+2020-05-19T16:36:39+00:00,957596375,955063086,0,47.144.164.184,Gwynne Shotwell,"I think ""of"" is better than ""at"" when describing her being President and CEO."
+2018-03-31T01:41:31+00:00,833353474,833350576,0,AnomieBOT,History of SpaceX,Dating maintenance tags: {{Update after}}
+2012-09-12T21:41:21+00:00,512077441,508240036,0,AaronEndre,In-Q-Tel,Added Huddle as an investment
+2013-07-19T22:01:12+00:00,564981082,564974161,0,Legobot,In-Q-Tel,BOT: Dating templates: {{clarify}} (1). Errors? [[User:Legobot/Stop/II 2|stop me]]
+2015-09-17T19:20:31+00:00,681527435,669483842,0,MainFrame,In-Q-Tel,
+2012-01-03T00:15:07+00:00,469227280,467650314,0,220.239.38.28,In-Q-Tel,/* Hardware */
+2022-01-26T07:59:59+00:00,1068022517,1067146044,0,KingEdinburgh,John E. Hyten,svg
+2021-02-20T05:43:41+00:00,1007843676,1007565766,0,AlsoWukai,Mark Kelly,/* Donald Trump */
+2017-01-13T11:47:49+00:00,759836085,759779235,0,Andyjsmith,Mars Society,Reverted 1 edit by [[Special:Contributions/69.122.19.225|69.122.19.225]] ([[User talk:69.122.19.225|talk]]) to last revision by Prisencolin. ([[WP:TW|TW]])
+2022-09-02T00:45:23+00:00,1107996404,1107492384,0,Pomodecon,Mars Society,/* Mars analog habitats */ fixed grammar
+2013-07-05T05:35:39+00:00,562935772,562853905,0,Polmandc,Mark Kelly,Cleaned up using [[WP:AutoEd|AutoEd]]
+2020-09-25T23:14:20+00:00,980336852,980286283,0,Lochglasgowstrathyre,Mark Kelly,not grimacing in this one
+2017-04-11T13:48:00+00:00,774915319,773960307,0,MQMagoo,Mars Society,
+2017-04-14T18:32:35+00:00,775412562,775412226,0,108.232.45.164,Mark Kelly,he isn't active
+2016-10-16T20:47:50+00:00,744685472,735596412,0,N2e,McDonnell Douglas DC-X,"refine cat; a former concept, not currently active"
+2021-11-27T15:17:15+00:00,1057422950,1052736524,0,Great Brightstar,McDonnell Douglas DC-X,/* Background */ Minor correction
+2011-11-23T01:22:44+00:00,462034235,461987072,0,The Bushranger,McDonnell Douglas DC-X,infobox work
+2018-07-22T23:52:52+00:00,851534165,851524792,0,Nigel Ish,McDonnell Douglas DC-X,"Undid revision 851524792 by [[Special:Contributions/Nekulturni|Nekulturni]] ([[User talk:Nekulturni|talk]]) - doesn't really add anything - and if you did write the article, you shouldn't spam it"
+2017-03-01T21:03:08+00:00,768106960,766253520,0,John,McDonnell Douglas DC-X,"/* DC-XA */clean up, [[WP:MOSICON|deflag]], [[WP:OVERLINK|overlink]], replaced: [[Russia]] → Russia using [[Project:AWB|AWB]]"
+2021-12-08T10:43:06+00:00,1059252632,1057422950,0,Appu the Third,McDonnell Douglas DC-X,
+2011-11-14T18:58:10+00:00,460650065,460084323,0,Corlier,Michael D. Griffin,Category
+2020-12-04T19:56:31+00:00,992346407,990646953,0,Lennart97,Michael D. Griffin,Disambiguated: [[CSC]] → [[Computer Sciences Corporation]]
+2016-06-22T23:03:22+00:00,726556527,722581470,0,Cyberbot II,Michael D. Griffin,Removing {{[[Template:Blacklisted-links|Blacklisted-links]]}}.  No blacklisted links were found. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])
+2015-05-03T00:46:17+00:00,660518551,658215491,0,KasparBot,Michael D. Griffin,authority control moved to wikidata
+2016-02-13T06:20:55+00:00,704728482,704683318,0,KasparBot,Michael D. Griffin,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Michael D. Griffin|challenges for this article]]"
+2013-09-14T21:14:38+00:00,572936308,571279590,0,89.238.32.13,Michael D. Griffin,fixed web reference
+2011-04-19T15:54:16+00:00,424873098,421961741,0,Ireneschan,Michael D. Griffin,Added honors section
+2017-06-12T16:26:31+00:00,785277732,784694407,0,Magic links bot,Michael D. Griffin,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2019-04-29T21:43:34+00:00,894765338,882802876,0,Billybob2002,Mike Rogers (Alabama politician),/* External links */
+2017-06-22T20:31:28+00:00,786998455,786689490,0,Therequiembellishere,Mike Rogers (Alabama politician),
+2012-03-17T09:03:59+00:00,482337636,473982279,0,Waacstats,Mike Rogers (Alabama politician),Correct persondata short description using [[Project:AWB|AWB]]
+2012-11-25T06:59:01+00:00,524760808,521354342,0,AvicBot,Missile defense,"r2.6.5) (Robot: Adding ar, cs, de, et, fa, fr, he, ja, ko, pl, ro, ru"
+2021-05-28T19:53:00+00:00,1025658655,1023928058,0,Chris the speller,Office of Strategic Services,replaced: German occupied → German-occupied
+2019-04-29T06:45:33+00:00,894660458,894660292,0,Akld guy,Rocket Lab,/* Facilities */ Rmv spaces
+2011-02-16T09:37:44+00:00,414222260,414219994,0,Epeefleche,Office of Strategic Services,"ce, Filling in 8 references using [[WP:REFLINKS|Reflinks]] | fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]] | Script assisted date formatting"
+2020-04-05T05:44:23+00:00,949210662,948234767,0,DannyS712,Rocket Lab,Fixing the location of periods / full stops
+2011-09-11T07:40:31+00:00,449743065,439255367,0,XLerate,Rocket Lab,reference via template
+2019-02-17T06:04:04+00:00,883725712,883721200,0,240B:11:4C20:4710:7DC7:CE41:762D:B6C6,Rocket Lab,/* External links */
+2021-08-02T16:30:54+00:00,1036773451,1026699277,0,GreenC bot,Missile defense,Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2019-09-03T08:39:34+00:00,913803223,913800970,0,AnomieBOT,Rocket Lab,Dating maintenance tags: {{Use American English}}
+2019-01-05T08:14:36+00:00,876909087,875578604,0,Grutness,Rocket Lab,removed [[Category:Wairoa]]; added [[Category:Mahia Peninsula]] using [[WP:HC|HotCat]]
+2021-10-13T10:48:18+00:00,1049706262,1049494634,0,101.98.135.42,Rocket Lab,/* Manufacturing */ Removed more links to California and New Zealand and removed the link to building consent.
+2012-03-04T19:57:41+00:00,480200939,480199421,0,JohnBlackburne,Search for extraterrestrial intelligence,"Reverted 1 edit by [[Special:Contributions/87.114.213.204|87.114.213.204]] ([[User talk:87.114.213.204|talk]]): Unexplained, incorrect usage of template. ([[WP:TW|TW]])"
+2010-07-20T18:10:15+00:00,374531721,344797587,0,Chaosdruid,Rocket Lab,"clean up, replaced: . < → .< using [[Project:AWB|AWB]]"
+2016-08-31T17:16:51+00:00,737082735,736955316,0,Salvabl,Search for extraterrestrial intelligence,/* See also */
+2014-12-30T05:01:27+00:00,640193464,636360809,0,Tr00rle,Search for extraterrestrial intelligence,/* The SETI League and Project Argus */
+2016-10-16T00:21:12+00:00,744553108,744553069,0,BatteryIncluded,Rocket Lab,/* Electron launch vehicle */
+2013-01-15T14:55:23+00:00,533208398,532134069,0,213.104.69.168,Search for extraterrestrial intelligence,/* SETI@home */
+2014-09-25T10:19:07+00:00,627009692,626579967,0,Rjwilmsi,Search for extraterrestrial intelligence,"/* Search for extraterrestrial artifacts */Journal cites, Added 1 doi to a journal cite using [[Project:AWB|AWB]] (10473)"
+2018-04-09T23:30:38+00:00,835650389,831142900,0,2601:541:4500:1760:218:8BFF:FE74:FE4F,Search for extraterrestrial intelligence,edit
+2015-07-02T21:37:53+00:00,669690775,668588162,0,Hydrargyrum,Search for extraterrestrial intelligence,partial copy-edit
+2018-01-22T16:43:41+00:00,821785740,821679516,0,LouScheffer,Search for extraterrestrial intelligence,"/* Debate */ replaced link to San Marino scale (which is dead) with link to appropriate journal article.  This provides a source for the next sentence, which old source did not."
+2020-05-27T21:24:38+00:00,959255565,958769530,0,FrescoBot,Semi-Automatic Ground Environment,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2022-04-19T10:56:02+00:00,1083546781,1083455270,0,72.187.135.246,"Solar eclipse of April 8, 2024",Belize (not Belice)
+2013-11-18T05:48:17+00:00,582161002,577025136,0,99.65.176.161,Semi-Automatic Ground Environment,Manufacturers names are not prefixed to military designations.
+2011-10-18T05:59:53+00:00,456134106,436886660,0,EmausBot,"Solar eclipse of April 8, 2024",r2.6.4) (Robot: Modifying [[es:Eclipse solar del 8 de abril de 2024]]
+2015-08-21T21:59:07+00:00,677222478,675978843,0,Human3015,SpaceX,/* See also */ linking [[Tourism on Moon]]
+2014-07-15T12:46:11+00:00,617041313,616993496,0,Andyjsmith,SpaceX,Reverted to revision 616923517 by [[Special:Contributions/107.218.9.122|107.218.9.122]] ([[User talk:107.218.9.122|talk]]): Pedantic and misleading. ([[WP:TW|TW]])
+2021-10-01T17:15:17+00:00,1047607948,1047128650,0,Qwerfjkl (bot),Space Development Agency,Removed [[Help:Self link|link(s) to title]] ([[Wikipedia:WikiProject Check Wikipedia/List of errors#48|CW Error #48]]) (via [[de:Benutzer:Schnark/js/bandersnatch|Bandersnatch]])
+2019-05-07T01:28:26+00:00,895876045,895237813,0,Djajthesavage,SpaceX,
+2021-06-15T04:08:23+00:00,1028635105,1028168260,0,Burt Hagman,SpaceX,"/* Controversies */ Fixed a minor grammar error--someone forgot to include the ""has"" in ""has been."""
+2011-08-29T09:55:21+00:00,447290092,447289628,0,Craigboy,SpaceX,/* Future plans and concept vehicles */ Moved image
+2012-08-06T00:56:58+00:00,505993294,505992843,0,TMV943,SpaceX,
+2014-08-26T07:26:48+00:00,622852693,622848812,0,Andyjsmith,SpaceX,Reverted 1 edit by [[Special:Contributions/UnbiasedVictory|UnbiasedVictory]] ([[User talk:UnbiasedVictory|talk]]) to last revision by 65.94.169.222. ([[WP:TW|TW]])
+2018-04-08T17:47:30+00:00,835431931,835426819,0,LordLimaBean,SpaceX,"Fixed typo for the word ""Outline"" on the link to the Outline of space technologies page."
+2014-07-23T08:15:45+00:00,618093232,618078688,0,Arthur Rubin,SpaceX,Reverted edits by [[Special:Contribs/108.195.136.64|108.195.136.64]] ([[User talk:108.195.136.64|talk]]) to last version by Andyjsmith
+2020-10-18T16:05:29+00:00,984166392,983936794,0,Iridescent,SpaceX,"/* Launch market competition and pricing pressure */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ’s → 's"
+2015-09-01T05:09:37+00:00,678878280,678815132,0,BG19bot,SpaceX,/* Commercial cargo contracts */[[WP:CHECKWIKI]] error fix for #64.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11415)
+2020-03-30T04:37:23+00:00,948102257,947921425,0,PhilipTerryGraham,SpaceX,/* Dragon spacecraft */ Wikilinked [[Gateway Logistics Services]]
+2019-07-08T20:18:54+00:00,905389646,905125226,0,71.201.175.59,SpaceX,/* Interplanetary Transport System / BFR */
+2019-08-15T17:32:11+00:00,910961736,910961482,0,Barakokula31,SpaceX,Reverted 2 edits by [[Special:Contributions/2409:4063:4EA7:A9B7:97B4:E9CC:D2B:FE09|2409:4063:4EA7:A9B7:97B4:E9CC:D2B:FE09]] ([[User talk:2409:4063:4EA7:A9B7:97B4:E9CC:D2B:FE09|talk]]) ([[WP:TW|TW]])
+2013-10-16T20:20:11+00:00,577476743,577475541,0,77.13.195.23,SpaceX,better source for number of employees
+2021-07-10T02:32:08+00:00,1032853501,1032839418,0,Ita140188,SpaceX,Undid revision 1032839418 by [[Special:Contributions/Paulmec|Paulmec]] ([[User talk:Paulmec|talk]]) links already in article or not directly relevant (should be moved to the Starlink article)
+2021-12-24T18:44:43+00:00,1061898867,1061898495,0,Ita140188,SpaceX,/* Board of directors */ better source
+2014-09-12T00:27:25+00:00,625169372,625132055,0,Exonie,SpaceX,added [[Category:Spacecraft manufacturers]] using [[WP:HC|HotCat]]
+2020-09-24T05:43:16+00:00,980028571,980028000,0,CRS-20,SpaceX,
+2020-02-25T18:30:25+00:00,942606575,942044076,0,2A01:4C8:81E:20D5:1:1:68A1:E91F,SpaceX,Grammar
+2018-04-27T14:02:48+00:00,838512896,838471237,0,93.57.17.111,SpaceX,/* History */
+2011-12-10T14:54:17+00:00,465126290,465126043,0,Abebenjoe,SpaceX,/* Test vehicles */ copy-edited citation
+2020-11-17T18:57:06+00:00,989219662,989161029,0,Jtplona8942,SpaceX,Changed date of most recent launch from LC39A
+2022-04-07T17:31:32+00:00,1081481289,1081480974,0,Lol1VNIO,SpaceX,Reverted 1 edit by [[Special:Contributions/2409:4043:4E86:4ECA:0:0:4448:4F10|2409:4043:4E86:4ECA:0:0:4448:4F10]] ([[User talk:2409:4043:4E86:4ECA:0:0:4448:4F10|talk]]): Edit test
+2012-05-29T09:32:06+00:00,494923584,494689188,0,Victordk13,SpaceX,/* Air-launched rocket */
+2012-09-25T14:49:44+00:00,514496690,514466861,0,Yobot,SpaceX,"clean up, References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8435)"
+2021-03-07T08:00:50+00:00,1010777870,1010529923,0,Arado,SpaceX Dragon 2,/* Design */
+2018-09-05T14:10:02+00:00,858164076,857840681,0,121.219.104.107,SpaceX Dragon 2,
+2014-03-14T14:53:18+00:00,599588822,599584436,0,N2e,SpaceX Mars Colonization Program,/* History */ copyedit per source
+2021-11-19T18:07:57+00:00,1056093762,1054101139,0,CactiStaccingCrane,SpaceX Mars Colonization Program,add {{Starship sidebar}}
+2021-04-06T23:03:23+00:00,1016393706,1002141539,0,Brunton,Spaceball (album),Add Penguin guide rating
+2018-09-27T12:57:27+00:00,861438831,845115092,0,Philip Cross,Spaceball (album),{{Larry Young (musician)}}
+2021-05-23T21:32:55+00:00,1024740986,1024634111,0,87.116.173.99,Starlink,/* Constellation design and status */
+2021-08-31T20:50:35+00:00,1041675114,1041574963,0,Citation bot,Starlink,"Alter: template type. Add: pmid, s2cid, arxiv, work, date, newspaper, authors 1-1. Removed proxy/dead URL that duplicated identifier. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1086/2188"
+2017-06-10T16:05:41+00:00,784899404,784776187,0,Dan100,Starlink,/* See also */
+2021-05-23T00:45:45+00:00,1024581411,1024404037,0,96.19.134.14,Starlink,
+2020-09-30T05:07:23+00:00,981082653,981081404,0,Enigmasoldier,Starlink,/* Military user tests */ Added note about live fire test including a KC-135 Stratotanker
+2015-02-24T02:36:49+00:00,648572257,647698914,0,N2e,Starlink,"/* Internet business opportunity */ financial analyst questions for existing players in the commsat market, with citation"
+2018-12-30T21:19:15+00:00,876051771,876051647,0,Dl2000,Starlink,/* References */ reflist auto
+2015-05-15T04:13:02+00:00,662399938,660557288,0,N2e,Starlink,/* References */ multiple columns
+2019-12-28T06:10:29+00:00,932789988,932719757,0,Mfb,Starlink,/* Launches */ Jan 4
+2022-08-31T21:34:19+00:00,1107782484,1107781505,0,N2e,Starlink,/* Starlink Business */ tweak
+2020-07-17T16:35:06+00:00,968162417,968156132,0,176.74.15.170,Starlink,Add website
+2021-03-08T16:09:12+00:00,1011018703,1010844311,0,108.6.137.140,Starlink,
+2017-03-04T21:17:26+00:00,768615834,768493118,0,N2e,Starlink,"/* History */ copyedit (now) historical prose, proper verb tense, etc."
+2022-01-07T19:50:34+00:00,1064325260,1064321975,0,Meysam5670,Starlink,"update ""last launch"""
+2018-07-10T02:15:58+00:00,849595987,849595708,0,2606:6000:E6C5:2C00:BD73:A95:14A3:95D6,Starlink,Reverting to original 'internet traffic' statement for latency.
+2022-01-10T08:22:01+00:00,1064805952,1064802040,0,CRS-20,Starlink,Fixed ref
+2017-09-05T12:12:44+00:00,799064163,799063957,0,N2e,Starlink,/* History */ clarify time context
+2015-06-12T03:01:04+00:00,666572828,665794849,0,N2e,Starlink,/* Prototype development and testing */ add source of Wash Post article
+2022-10-09T06:47:10+00:00,1114976815,1114967981,0,Citation bot,Starlink,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 2/1934
+2019-01-18T09:38:38+00:00,878999874,876582913,0,Eric Kvaalen,Starlink,"Fix'd a sentence which someone mess'd up back in September about latency, and added a parenthesis that a signal going half way around the world takes at least 67 ms."
+2019-07-13T09:03:04+00:00,906053479,905264833,0,31.49.219.119,Starlink,Attribute the claim.
+2021-01-18T16:27:14+00:00,1001185202,1001167432,0,Baffjr,Starlink,
+2021-03-11T22:35:38+00:00,1011622301,1011555905,0,Baffjr,Starlink,/* Launches */ L22 Launch update
+2017-02-03T23:41:28+00:00,763570132,763563043,0,73.114.32.11,Starlink,Broadcom lawsuit
+2020-05-19T05:23:11+00:00,957503899,957503781,0,CRS-20,Starlink,No relation to Starlink
+2019-01-03T05:22:50+00:00,876582913,876051771,0,U-D13,Starlink,Undid revision 836054944 by [[Special:Contributions/Meneth|Meneth]] ([[User talk:Meneth|talk]]) — kBps are irrelevant in this context (of an estimated zettabyte per month) due to the inherent variability in the bandwidth consumption/traffic distribution
+2018-04-13T20:55:22+00:00,836288801,836277911,0,BatteryIncluded,Starlink,typo
+2016-10-25T20:18:17+00:00,746188451,745623470,0,N2e,Starlink,"/* History */ clarify the rationale behind bolding this term, per [[WP:MOSBOLD]]"
+2015-10-15T07:25:54+00:00,685832182,680498051,0,Cydebot,Starlink,Robot - Speedily moving category Satellite Internet to [[:Category:Satellite Internet access]] per [[WP:CFDS|CFDS]].
+2016-02-05T03:53:32+00:00,703376296,703375469,0,N2e,Starlink,"/* History */ update with November statements that walk back some of the enthusiasm about the sat network, with citation"
+2015-11-07T10:17:45+00:00,689466882,689466802,0,Arado,Starlink,
+2015-03-03T00:35:51+00:00,649615244,648572257,0,N2e,Starlink,"/* Internet communication satellite characteristics */ update with additional details on the satellite characteristics, with citation"
+2015-05-03T08:17:10+00:00,660557288,653340596,0,Arado,Starlink,/* Internet business opportunity */
+2022-04-08T09:04:50+00:00,1081577493,1081577161,0,Warbayx,Starlink,number of countries starlink availability
+2022-12-09T05:50:19+00:00,1126413153,1126359446,0,WikiCleanerBot,Starlink,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2022-10-16T19:10:26+00:00,1116471534,1116470891,0,Rhosnes,Starlink,/* Military satellites */
+2013-04-24T19:53:04+00:00,552010000,551543443,0,71.206.101.115,Strategic Defense Initiative,/* Hypervelocity Rail Gun (CHECMATE) */
+2016-11-16T18:17:44+00:00,749892055,749892006,0,Smd75jr,Strategic Defense Initiative,Reverted edits by [[Special:Contributions/173.86.246.9|173.86.246.9]] ([[User talk:173.86.246.9|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2016-03-08T13:15:58+00:00,708968107,703376296,0,N2e,Starlink,"/* Prototype development and testing */ add time context to prose, per source"
+2015-12-05T03:54:58+00:00,693824182,691397512,0,24.115.232.193,Strategic Defense Initiative,Fixed grammar
+2018-01-26T18:52:32+00:00,822500226,821870914,0,KolbertBot,Starlink,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481)
+2021-02-28T20:49:05+00:00,1009483464,1009380622,0,Fm3dici97,Swarm Technologies,/* Satellite constellation */
+2023-01-27T01:58:40+00:00,1135822216,1135821884,0,Citation bot,TAI Anka,Alter: title. Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Philoserf | #UCB_toolbar
+2020-07-05T23:10:47+00:00,966242549,964459775,0,Plastikspork,Strategic Defense Initiative,"/* Timeline */ Merge table created by User:Dual Freq with additional edits by User:CmdrObot, User:MrDolomite, and User:Serendipodous"
+2013-02-03T14:51:57+00:00,536364017,536230811,0,CeeGee,TAI Anka,fixed wikilink
+2015-08-26T06:14:17+00:00,677899661,677827407,0,Yobot,TAI Anka,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (11398)
+2015-05-20T12:05:58+00:00,663250264,660018337,0,60.241.130.229,TAI Anka,/* Specifications (Anka-A) */
+2011-08-14T22:38:51+00:00,444874822,444805352,0,Rybu,Talk:N-dimensional space,/* merge discussions */
+2014-10-06T17:47:26+00:00,628509328,444874822,0,Loraof,Talk:N-dimensional space,/* Target of redirect */ new section
+2018-06-23T02:59:02+00:00,847121340,822196292,0,John Broughton,Talk:Rocket Lab,"/* top */ reassessing as ""C"" class"
+2023-01-28T23:58:44+00:00,1136148205,1136071212,0,Grey Wanderer,Talk:Rocket Lab,/* Company nationality */ reply
+2019-05-19T00:02:08+00:00,897729856,896428526,0,Cunard,Talk:Rocket Lab,"/* RfC: Rocket lab is an ""American"" company? A ""New Zealand-American"" company? */ closed"
+2011-01-30T16:02:44+00:00,410979259,367903150,0,ChiZeroOne,Talk:Rocket Lab,Add banner
+2020-06-01T12:53:46+00:00,960162073,958798416,0,Kortoso,Talk:Search for extraterrestrial intelligence,/* What do Gamma ray bursts have to do with this article? */
+2015-11-21T23:14:25+00:00,691752714,691752586,0,186.59.5.169,Talk:Search for extraterrestrial intelligence,
+2015-02-27T15:28:38+00:00,649097512,649097490,0,The Herald,Talk:Search for extraterrestrial intelligence,[[User:Equazcion/OneClickArchiver|OneClickArchiver]] archived 1 discussion to [[Talk:SETI/Archive 2]]
+2011-12-07T06:58:03+00:00,464531579,463528714,0,75.61.135.225,Talk:Search for extraterrestrial intelligence,/* what happens if we find alien life? */
+2016-12-04T10:54:50+00:00,752960808,730257733,0,109.157.135.99,Talk:Search for extraterrestrial intelligence,/* what happens if we find alien life? */
+2019-02-10T07:02:42+00:00,882605793,852916009,0,GreenC bot,Talk:Search for extraterrestrial intelligence,Add {{[[Template:reflist-talk|reflist-talk]]}} to [[Talk%3ASearch%20for%20extraterrestrial%20intelligence#VASCO%20%26%20magic|#VASCO & magic]] (via [[User:GreenC bot/Job 8|reftalk]] bot)
+2021-05-26T07:25:52+00:00,1025190469,984879224,0,Rchard2scout,Talk:Search for extraterrestrial intelligence,Fix archive subpage after page move
+2017-03-26T12:47:37+00:00,772294558,752960808,0,A.Khamidullin,Talk:Search for extraterrestrial intelligence,
+2022-03-29T12:20:40+00:00,1079933754,1079902817,0,Warbayx,Talk:Starlink,/* Can we change Country availability? */ Reply
+2021-07-30T06:41:47+00:00,1036220321,1036053762,0,Lowercase sigmabot III,Talk:Starlink,Archiving 1 discussion(s) to [[Talk:Starlink/Archive 1]]) (bot
+2022-08-27T06:37:58+00:00,1106933827,1106745076,0,Lowercase sigmabot III,Talk:Starlink,Archiving 1 discussion(s) to [[Talk:Starlink/Archive 1]]) (bot
+2018-02-26T01:44:44+00:00,827671114,826941409,0,Wes Kyle,Talk:Starlink,/* Internet communication satellite characteristics */ new section
+2020-07-12T02:18:37+00:00,967242058,967241969,0,SineBot,Talk:Starlink,"Dating comment by [[User:Lgats|Lgats]] - ""cameras?"""
+2020-03-06T04:30:03+00:00,944171242,944170897,0,OhKayeSierra,Talk:Starlink,OhKayeSierra moved page [[Talk:SpaceX Starlink]] to [[Talk:Starlink]]: per consensus at RM
+2017-12-29T23:33:06+00:00,817685967,803744189,0,Illegitimate Barrister,Terrence J. O'Shaughnessy,([[Commons:Commons:GlobalReplace|GlobalReplace v0.6.5]])
+2018-10-25T21:56:31+00:00,865748477,865743785,0,209.133.79.5,"Tesla, Inc.","Listed Elon Musk as a founder \nPer Reuters and Business Insider, Eberhard stated publicly that Elon Musk is in fact a founder \n\nhttps://www.reuters.com/article/tesla-suit/electric-carmaker-tesla-former-ceo-settle-lawsuit-idUSN2131161020090921\n\nhttps://www.businessinsider.com/tesla-founders-end-bitter-legal-fight-2009-9"
+2019-12-09T10:12:19+00:00,929963549,929961334,0,Khiemmy,"Tesla, Inc.",/* Cybertruck */
+2014-04-02T15:43:20+00:00,602431187,602429915,0,Ahecht,"Tesla, Inc.","/* Crashes and fire */ copyedit for tense, flow, and missing words. Added ""as of"" to dated statement."
+2019-09-27T22:43:53+00:00,918286199,916925542,0,Monkbot,Türksat 5A,/* History */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2011-07-05T07:36:46+00:00,437832746,436677448,0,Woohookitty,"Tesla, Inc.",[[:en:WP:CLEANER|WPCleaner]] (v1.08) Repairing link to disambiguation page - [[WP:DPL|(You can help)]] - [[Top Gear]]
+2014-03-10T19:06:14+00:00,599023550,575504090,0,Ninney,Türksat 5A,Removing {{communications-satellite-stub}}
+2017-10-13T09:46:45+00:00,805140456,0,0,VauTee,Türksat 5B,[[WP:AES|←]]Redirected page to [[Turksat (satellite)]]
+2022-07-25T18:14:14+00:00,1100396170,1099681665,0,Ohnoitsjamie,Türksat 5B,Reverted edits by [[Special:Contribs/176.59.172.67|176.59.172.67]] ([[User talk:176.59.172.67|talk]]) to last version by Alexf
+2011-02-16T18:06:32+00:00,414278209,413936259,0,Narking,Vladimir Putin,/* KGB career */ Typo
+2010-10-20T14:10:22+00:00,391840547,391754352,0,Salah Mhamdi,Vladimir Putin,
+2017-02-02T19:58:48+00:00,763359410,763358661,0,EtienneDolet,Vladimir Putin,/* Polls and rankings */ ce
+2018-10-27T09:17:29+00:00,865960435,865846329,0,TheFreeWorld,Vladimir Putin,/* 2018–present: Fourth presidential term */
+2012-10-22T14:55:18+00:00,519211893,518646835,0,Lehaneb,Vladimir Putin,Updated official website URL
+2016-02-22T11:21:13+00:00,706269799,706194070,0,AndrewGulch,Vladimir Putin,
+2016-04-03T17:25:23+00:00,713373954,713373781,0,Gala19000,Wikipedia:Administrators' noticeboard/Edit warring,/* User:Robert Peterson 753 reported by User:Gala19000 (Result: ) */
+2022-12-04T02:53:23+00:00,1125456321,1125453579,0,Lowercase sigmabot III,Wikipedia:Administrators' noticeboard/Edit warring,Archiving 5 discussion(s) to [[Wikipedia:Administrators' noticeboard/3RRArchive462]]) (bot
+2017-09-18T20:45:55+00:00,801292583,788719870,0,KolbertBot,World View Enterprises,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2016-04-14T23:39:21+00:00,715305242,715304957,0,Cyphoidbomb,World View Enterprises,"/* Key people */ Misuse of boldface. Should ""co-founder"" really be capitalized?"
+2020-08-05T13:33:13+00:00,971333954,969526763,0,Cayman4us,World View Enterprises,"Changed County to a capitalized word, minor language changes for clarification."
+2020-11-30T23:57:20+00:00,991615790,990740430,0,Andrew11374265,World View Enterprises,/* Spaceport Tucson */ Fixed grammar
+2022-01-27T09:56:37+00:00,1068233621,1066707058,0,Beland,World View Enterprises,convert special characters found by [[Wikipedia:Typo Team/moss]] (via [[WP:JWB]])
+2020-07-03T05:37:24+00:00,965748327,965748283,0,Nyook,Arms race,Rollback edit(s) by [[Special:Contributions/2409:4063:2299:3CDD:182C:6888:4C31:C43|2409:4063:2299:3CDD:182C:6888:4C31:C43]] ([[User_talk:2409:4063:2299:3CDD:182C:6888:4C31:C43|talk]]): [[WP:VANDAL|Vandalism]] [[WP:REDWARN|(RedWarn rev14)]]
+2016-03-13T06:11:53+00:00,709810302,709810245,0,David.moreno72,Arms race,Reverted edits by [[Special:Contributions/110.174.58.39|110.174.58.39]] ([[User talk:110.174.58.39|talk]]): Editing tests ([[WP:HG|HG]]) (3.1.19)
+2021-09-20T13:54:40+00:00,1045418780,1035073756,0,GoingBatty,Brilliant Pebbles,link [[Smart Rocks]] using [[:en:User:Edward/Find link|Find link]]
+2021-11-19T19:52:07+00:00,1056108865,1056105671,0,Felida97,Arms race,Reverted edits by [[Special:Contribs/204.100.170.135|204.100.170.135]] ([[User talk:204.100.170.135|talk]]) to last version by Boynamedsue
+2020-11-15T14:05:17+00:00,988828241,988569404,0,UpdateNerd,Brilliant Pebbles,/*lead*/ remove redlink
+2022-01-29T05:42:01+00:00,1068573404,1068098205,0,218.147.110.225,China–United States relations,/* Country comparison */
+2019-12-13T17:09:24+00:00,930607148,926248434,0,Ich,Brilliant Pebbles,"Alter: title. Add: doi, bibcode, issue, volume. | You can [[WP:UCB|use this tool]] yourself. [[WP:DBUG|Report bugs here]]. | via #UCB_Gadget"
+2022-12-12T21:21:58+00:00,1127092539,1126708749,0,Rjensen,China–United States relations,/* Further reading */ citation
+2021-09-02T20:28:59+00:00,1042019326,1041893202,0,65.79.159.60,China–United States relations,/* Influence in Asia */  Note on evidence for Trans Pacific Partnership.
+2015-11-08T21:00:18+00:00,689690542,688436990,0,12.12.156.101,China–United States relations,Typo; Replaced period with comma
+2022-02-04T07:08:36+00:00,1069818272,1069818142,0,2603:6011:7501:7862:58B:68B2:8424:4A82,China–United States relations,Undid revision 1069818142 by [[Special:Contributions/2603:6011:7501:7862:58B:68B2:8424:4A82|2603:6011:7501:7862:58B:68B2:8424:4A82]] ([[User talk:2603:6011:7501:7862:58B:68B2:8424:4A82|talk]]) Reverting my edit
+2023-01-30T06:37:20+00:00,1136422291,1129710213,0,OAbot,Cross-correlation,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2010-10-03T15:01:24+00:00,388474101,387945170,0,"Chase me ladies, I'm the Cavalry",China–United States relations,Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]] using [[Project:AWB|AWB]]
+2013-05-15T11:36:00+00:00,555200587,555161480,0,Dewritech,China–United States relations,"clean up, [[WP:AWB/T|typos fixed]]: liason → liaison,  ,  → , using [[Project:AWB|AWB]]"
+2010-06-07T18:32:59+00:00,366614552,358163101,0,18.140.1.248,Cross-correlation,/* Explanation */ Used clearer word choice in the explanation
+2011-03-03T05:43:17+00:00,416864360,416864282,0,Good Olfactory,China–United States relations,proper use of dashes/hyphens
+2021-09-09T14:44:11+00:00,1043328402,1043103050,0,Hooman Mallahzadeh,Cross-correlation,/* Cross-covariance function */
+2009-06-09T07:38:45+00:00,295331896,294551920,0,Sławomir Biały,Cross-correlation,-cat: this should only be added by a template.  Added a cat./* External links */
+2014-12-01T06:40:42+00:00,636134614,635439937,0,Vnrakeshpnm,China–United States relations,"/* Liaison Office, 1973–1978 */"
+2015-03-22T11:06:20+00:00,652997880,651521141,0,TedColes,Cross-correlation,Added link
+2016-02-03T16:13:45+00:00,703115462,702670044,0,72.221.39.228,China–United States relations,
+2012-01-09T20:32:31+00:00,470495262,470049274,0,149.32.192.35,Cross-correlation,/* Properties */
+2010-11-25T02:32:44+00:00,398739244,397818603,0,99.108.253.107,China–United States relations,"/* Rapprochement */  China's market was, during the late 60's to early 70's, not ""over a billion.""  The statement ""nearly a billion"" would be more accurate for that period."
+2013-06-19T20:15:57+00:00,560655539,560655257,0,Wavelength,Cross-correlation,alphabetizing list of internal links—[[WP:ALSO]]
+2019-03-04T00:06:28+00:00,886050606,885085930,0,Bender235,Cross-correlation,"[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: However  → However, , usally → usually"
+2014-07-04T20:08:59+00:00,615615064,615612799,0,Bender235,Cross-correlation,
+2011-12-07T21:57:51+00:00,464648018,460406207,0,99.37.231.254,Cross-correlation,
+2008-04-25T15:14:30+00:00,208121443,206039251,0,MichaelRW1,Cross-correlation,Sign-change in last paragraph before contents.
+2015-06-30T02:48:13+00:00,669275713,661879054,0,SJ Defender,Cross-covariance,Disambiguated: [[sub-sampling]] → [[sampling (statistics)]]
+2008-03-27T09:55:56+00:00,201288116,201288070,0,130.83.110.3,Cross-covariance,
+2013-09-05T14:54:42+00:00,571652353,551868181,0,129.2.129.145,Cross-covariance,removed period in a list
+2015-06-30T02:47:24+00:00,669275635,666122753,0,SJ Defender,Cross-correlation,Disambiguated: [[sub-sampling]] → [[sampling (statistics)]]
+2012-07-31T08:54:35+00:00,505067473,460408216,0,Jowa fan,Cross-covariance,/* Statistics */ delete a comma
+2014-07-25T20:35:34+00:00,618461959,618461077,0,142.244.191.60,Cross-covariance,/* See also */
+2011-03-23T15:32:17+00:00,420332591,413121915,0,95.221.8.174,Cross-covariance,/* Signal processing */ {{main|Cross-correlation}}
+2010-01-29T18:34:06+00:00,340759506,332004952,0,ArthurBot,Cross-correlation,robot Adding: [[cs:Korelace (zpracování signálu)]]
+2019-03-18T23:55:12+00:00,888412247,886050606,0,2607:F140:400:A021:908F:DFAF:91F7:885D,Cross-correlation,/* Normalization */
+2013-12-29T02:20:51+00:00,588153107,587588758,0,Editor2020,Dalai Lama,can't find sino-mongolian
+2010-10-11T03:55:03+00:00,390001307,389996513,0,Rigley,Dalai Lama,Undid revision 389996513 by [[Special:Contributions/203.110.235.1|203.110.235.1]] ([[User talk:203.110.235.1|talk]]) original research
+2008-09-24T05:22:08+00:00,240618231,233421333,0,Ht686rg90,Cross-covariance,"duplicate contents, should be merged"
+2014-05-29T11:34:54+00:00,610627347,610612410,0,NeilN,Dalai Lama,Reverted to revision 610099480 by [[Special:Contributions/Editor2020|Editor2020]] ([[User talk:Editor2020|talk]]): Rv commentary. using [[WP:TWINKLE|TW]]
+2015-04-22T15:03:52+00:00,658430490,658429870,0,80.145.30.177,Edward Teller,/* Further reading */
+2012-06-07T15:42:52+00:00,496454996,496359029,0,ShelfSkewed,Dalai Lama,"fix isbn, rm notice"
+2020-04-27T19:32:56+00:00,953545839,952316172,0,Netoholic,Edward Teller,"cleanup, replaced: [[Einstein]] → [[Albert Einstein]]"
+2012-01-05T19:03:42+00:00,469763850,469733036,0,75.15.194.45,Dalai Lama,"restore category, the Dalai Lama is the highest [[Lama]]"
+2015-05-06T18:53:17+00:00,661140144,660875808,0,ArmbrustBot,Edward W. Morley,"/* External links */removing category per [[Wikipedia:Categories for discussion/Log/2015 February 25]], removed: Category:Elliott Cresson Medal recipients using [[Project:AWB|AWB]]"
+2012-05-12T16:16:03+00:00,492220410,491979569,0,Helpful Pixie Bot,Dalai Lama,ISBNs (Build KH)
+2020-03-10T14:50:57+00:00,944887810,944264968,0,119.207.115.159,Dalai Lama,
+2018-03-08T13:09:07+00:00,829407570,829407434,0,TropicAces,Edward W. Morley,
+2017-12-06T19:29:01+00:00,814074830,800176668,0,InternetArchiveBot,Edward W. Morley,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])
+2014-06-15T10:42:13+00:00,612997141,612997053,0,Sol1,Edward W. Morley,
+2009-05-16T04:22:29+00:00,290237231,289930001,0,SieBot,Edward W. Morley,robot  Modifying: [[ja:エドワード・モーリー]]
+2014-11-22T17:42:45+00:00,634986058,634985733,0,Heuh0,Elon Musk,/* Personal life */
+2009-05-30T02:42:34+00:00,293226135,292701536,0,NeuronExMachina,Elon Musk,/* Space-related activities */ added more recent article by Musk mentioning Mars Oasis
+2011-08-29T01:13:45+00:00,447229344,445693045,0,Alereon,Elon Musk,"/* Controversies */ ""Entrapment"" is poor word choice for NPOV reasons"
+2012-10-20T19:46:40+00:00,518915472,518914345,0,129.67.17.21,Elon Musk,Undid revision 518914345 by [[Special:Contributions/68.194.4.171|68.194.4.171]] ([[User talk:68.194.4.171|talk]])
+2014-11-11T10:37:55+00:00,633364716,633343622,0,CanadianLinuxUser,Elon Musk,Need a source for this statement please
+2011-10-22T12:13:27+00:00,456817363,454495680,0,ZéroBot,Edward W. Morley,r2.7.1) (Robot: Adding [[uk:Едвард Вільямс Морлі]]
+2018-06-29T11:10:44+00:00,848034488,847685855,0,Robcuiper,Elon Musk,Source formatting
+2008-10-16T07:14:28+00:00,245617098,245595033,0,76.126.244.1,Elon Musk,/* Family */
+2019-06-29T21:00:01+00:00,904078879,904039995,0,ImmortalWizard,Elon Musk,better suited
+2022-03-22T20:01:00+00:00,1078681976,1078509113,0,Nordostsüdwest,Elon Musk,Ukraine
+2012-11-12T09:52:50+00:00,522614458,521947779,0,88.109.14.79,Elon Musk,/* Awards and recognition */
+2012-02-03T16:50:07+00:00,474808470,474165616,0,76.21.105.184,Elon Musk,
+2013-11-25T15:58:33+00:00,583247153,583192767,0,46.65.29.141,Elon Musk,/* Philanthropy */ Fukhushima -> Fukushima
+2020-08-31T01:32:02+00:00,975899797,975899202,0,HaeB,Elon Musk,Reverted 1 edit by [[Special:Contributions/QRep2020|QRep2020]] ([[User talk:QRep2020|talk]]): Agree with HAL333's removal. Please explain on the talk page why one employee's test result should be considered a notable event that needs to be highlighted in this article subject's biography ([[WP:TW|TW]])
+2010-05-29T18:56:31+00:00,364890630,364888042,0,166.205.7.175,Elon Musk,Undid revision 364888042 by [[Special:Contributions/67.169.79.78|67.169.79.78]] ([[User talk:67.169.79.78|talk]]) please read the Controversies section.
+2012-06-29T06:56:45+00:00,499870434,499718350,0,97.117.186.133,Elon Musk,"/* Tesla Motors */ Tesla began shipping the model S on June 22, 2012.  Updated article reference to Model S to reflect that fact."
+2010-03-06T17:28:56+00:00,348135229,347366660,0,LilHelpa,Elon Musk,"General fixes and [[WP:AWB/T|Typo fixing]],  using [[Project:AWB|AWB]]"
+2017-09-11T00:07:46+00:00,799984842,799892282,0,Phinn,Elon Musk,
+2008-05-18T04:32:22+00:00,213185375,213185152,0,68.196.195.156,Elon Musk,/* Education */
+2022-02-03T09:51:50+00:00,1069644186,1069545459,0,Rosbif73,Elon Musk,/* top */ Bold attempt to find consensus re misinformation
+2022-09-24T13:06:06+00:00,1112060470,1111968038,0,Satricious,Elon Musk,/* Education */ ce
+2023-01-27T19:31:14+00:00,1135933151,1135932836,0,JackkBrown,Elon Musk,Overlink; and MOS:CAPTIONS
+2017-12-10T07:07:07+00:00,814678302,814310054,0,User-duck,Elon Musk,changed a couple of wikilinks
+2011-07-16T18:32:06+00:00,439816449,438837447,0,EdH,Elon Musk,/* Tesla Motors */
+2014-08-19T19:58:30+00:00,621959277,621933559,0,Rashaadjaffer,Elon Musk,added content
+2017-02-22T22:29:55+00:00,766919640,766846810,0,Yngvadottir,Elon Musk,Tweak in lede for clarity re Paypal name
+2019-12-30T23:07:43+00:00,933270133,933270096,0,分液漏斗,Elon Musk,Filled in 0 bare reference(s) with reFill 2
+2019-05-18T07:49:47+00:00,897618411,897589657,0,Ravenpuff,Elon Musk,/* top */ Date FRS
+2015-11-11T00:45:16+00:00,690055261,690050959,0,Ebyabe,Elon Musk,Reverted 1 pending edit by [[Special:Contributions/Junior JRC|Junior JRC]] to revision 690049229 by Baseball Watcher: unexplained change
+2016-07-14T09:30:33+00:00,729753507,729399217,0,WereSpielChequers,Elon Musk,"/* Destiny and religion */[[WP:AWB/T|Typo fixing]], replaced: wether → whether using [[Project:AWB|AWB]]"
+2016-04-14T09:23:28+00:00,715200910,704269280,0,83.103.127.220,Estimation of covariance matrices,Fixing sample covariance matrix definition
+2017-08-19T16:22:27+00:00,796260059,793721990,0,84.105.62.189,Estimation of covariance matrices,positive-define => positive-definite
+2010-11-24T05:40:44+00:00,398581690,392987608,0,71.183.248.124,Estimation of covariance matrices,/* Intrinsic expectation */
+2010-02-11T10:19:54+00:00,343321248,338861179,0,Biomenne,Estimation of covariance matrices,Venables/Ripley: Birkhäuser -> Springer
+2018-10-28T19:39:40+00:00,866177382,822504041,0,JCW-CleanerBot,Estimation of covariance matrices,"[[User:JCW-CleanerBot#Logic|task]], replaced: IEEE Trans. Signal Processing → IEEE Trans. Signal Process."
+2018-01-08T12:51:51+00:00,819273003,796260059,0,Maggus989,Estimation of covariance matrices,/* Bias of the sample covariance matrix */  Fixing Typo
+2010-05-09T20:01:41+00:00,361138490,356921009,0,80.202.212.44,Estimation of covariance matrices,/* Bias of the sample covariance matrix */
+2009-06-19T21:59:17+00:00,297438100,297436450,0,BobKawanaka,Fermi paradox,[[WP:UNDO|Undid]] revision 297436450 by [[Special:Contributions/DanB|DanB]] ([[User talk:DanB|talk]])
+2019-03-18T15:55:44+00:00,888351485,885816753,0,162.211.167.98,Eutelsat OneWeb,The changes were to ensure the summary was up to date with the latest company mission and plans.
+2023-01-07T10:26:27+00:00,1132122137,1131967127,0,Barny22,Eutelsat OneWeb,/* List of launches */ added Launch 19
+2008-11-09T05:39:55+00:00,250593246,250489704,0,Jmath666,Estimation of covariance matrices,[[Category:Probability theory]]
+2019-05-06T09:16:45+00:00,895754003,895753913,0,Chompy Ace,Fermi paradox,Reverted edits by [[Special:Contribs/178.232.15.41|178.232.15.41]] ([[User talk:178.232.15.41|talk]]) to last version by LouScheffer
+2012-08-14T03:08:01+00:00,507314139,507313998,0,Prax54,Estimation of covariance matrices,
+2013-08-12T23:08:02+00:00,568280622,567720069,0,75.1.52.5,Fermi paradox,
+2022-12-05T16:57:09+00:00,1125748222,1124513298,0,Comp.arch,Fuel cell,
+2009-09-16T20:56:13+00:00,314417589,314417539,0,Sesu Prime,Fuel cell,Reverted edits by [[Special:Contributions/213.104.211.37|213.104.211.37]] to last revision by Moogle001 ([[WP:HG|HG]])
+2017-09-16T02:39:00+00:00,800855205,800178151,0,Bibcode Bot,Fuel cell,"Adding 0 [[arXiv|arxiv eprint(s)]], 5 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2012-03-03T08:54:13+00:00,479950594,479720187,0,67.182.208.216,Fuel cell,/* Automobiles */
+2019-11-09T18:43:00+00:00,925376229,925096361,0,Sun Creator,Fuel cell,"/* History */[[WP:AWB/GF|General fixes]], [[WP:AWB/T|typo(s) fixed]]: ’s → 's"
+2015-07-25T20:04:10+00:00,673059099,669519453,0,GlorialeWithCheese,Gwynne Shotwell,
+2022-04-06T14:40:32+00:00,1081288756,1067323846,0,Hukunci Kawai,History of SpaceX,Ref
+2014-05-22T21:18:42+00:00,609723905,606310410,0,64.122.106.210,In-Q-Tel,"Added firm, Socrata, to the list of companies that In-Q-Tel has backed"
+2018-08-07T22:36:48+00:00,853938693,848898879,0,InternetArchiveBot,In-Q-Tel,Rescuing 3 sources and tagging 0 as dead. #IABot (v2.0beta5)
+2019-11-04T01:08:02+00:00,924464654,924464601,0,Nick Moyes,In-Q-Tel,Reverted 1 edit by [[Special:Contributions/2600:1012:B103:6A01:6DD2:B2AA:FA95:908C|2600:1012:B103:6A01:6DD2:B2AA:FA95:908C]] ([[User talk:2600:1012:B103:6A01:6DD2:B2AA:FA95:908C|talk]]) to last revision by Monkbot ([[WP:TW|TW]])
+2016-01-30T03:10:34+00:00,702362488,701938418,0,173.79.69.211,In-Q-Tel,/* Software */
+2008-05-14T09:56:06+00:00,212317538,201749287,0,66.56.8.248,In-Q-Tel,/* Other notable personnel */
+2017-08-06T10:51:25+00:00,794178628,794178033,0,2001:7E8:D390:EC01:A588:796E:5EF3:75A7,John E. Hyten,/* Awards and decorations */
+2010-02-18T15:37:55+00:00,344829597,334097770,0,63.99.162.99,In-Q-Tel,/* Governance */ Edit for punctuation and clarity
+2021-08-22T09:09:56+00:00,1040042682,1038731852,0,2001:7E8:C6BE:7901:40D8:D951:DA2A:E4F5,John E. Hyten,/* Awards and decorations */
+2009-12-13T14:38:23+00:00,331436126,327926499,0,Full-date unlinking bot,Mark Kelly,"Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: AMreg(×6), BRreg(×2), BRodd(×1)"
+2011-06-28T19:06:46+00:00,436721156,436718119,0,Rockhead126,Mark Kelly,/* Awards and decorations */
+2022-12-19T08:31:05+00:00,1128273099,1127260511,0,InternetArchiveBot,Mark Kelly,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.2) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 11744
+2013-03-11T04:53:04+00:00,543346064,543301185,0,Joe Decker,Mark Kelly,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/24.96.160.11|24.96.160.11]] ([[User talk:24.96.160.11|talk]]) to last version by Zagalejo
+2018-10-04T15:27:01+00:00,862467723,860703696,0,109.189.20.179,Mark Kelly,/* Naval career */
+2008-05-19T10:35:07+00:00,213440774,211655257,0,WDGraham,Mark Kelly,{{Launching/STS|type=astronaut}}
+2008-11-17T23:17:27+00:00,252462104,252256194,0,FlaBot,Mark Kelly,robot  Adding: [[pt:Mark Kelly]]
+2012-06-25T05:52:37+00:00,499240097,495072597,0,Despain05,Mark Kelly,
+2022-07-21T20:41:40+00:00,1099634322,1099320342,0,JCW-CleanerBot,Mars Society,"[[User:JCW-CleanerBot#Logic|task]], replaced: website=[[Science (magazine)]] → website=[[Science (magazine)|Science]]"
+2014-07-04T11:53:29+00:00,615560822,606531463,0,Mowiac,Mars Society,/* Germany */
+2013-01-03T00:02:14+00:00,531002678,530167590,0,Skyerise,Mars Society,/* External links */ rm parent cat
+2018-05-14T22:04:34+00:00,841275909,836018455,0,DeprecatedFixerBot,Mars Society,"Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of ""cols"" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))"
+2011-09-05T14:02:14+00:00,448583951,448583265,0,Helpful Pixie Bot,McDonnell Douglas DC-X,Dated {{Clarify}}{{When}} x 2{{Citation needed}}. (Build p613)
+2021-02-15T00:51:20+00:00,1006827323,1002333213,0,71.178.131.65,McDonnell Douglas DC-X,/* References */
+2015-08-16T10:35:37+00:00,676343116,676339323,0,Frosty,McDonnell Douglas DC-X,Reverted edits by [[Special:Contributions/37.227.39.55|37.227.39.55]] ([[User talk:37.227.39.55|talk]]) ([[WP:HG|HG]])
+2020-05-13T06:01:38+00:00,956411473,950476961,0,BilCat,McDonnell Douglas DC-X,/* External links */ Added navbox
+2014-04-02T23:55:28+00:00,602493543,598457899,0,Arb,Mars Society,"clean up, replaced: outside of → outside using [[Project:AWB|AWB]]"
+2018-09-23T03:33:36+00:00,860796490,859941299,0,X spager,McDonnell Douglas DC-X,Add reference
+2010-09-04T02:25:24+00:00,382796642,379967947,0,220.101.28.25,McDonnell Douglas DC-X,expand acronyms! [[Jerry  Pournelle]] is a writer ([[Sci-Fi]])
+2009-02-04T02:52:59+00:00,268394894,265992241,0,Hibernian,McDonnell Douglas DC-X,
+2017-04-14T17:18:13+00:00,775402049,770472139,0,David Gerard,Michael D. Griffin,dab
+2018-03-07T16:37:46+00:00,829269177,828964151,0,JocularJellyfish,Michael D. Griffin,
+2013-08-23T20:36:47+00:00,569908802,569394852,0,Craigoliver,McDonnell Douglas DC-X,/* See also */
+2015-10-25T08:20:46+00:00,687392457,678395430,0,Ser Amantio di Nicolao,Michael D. Griffin,[[Help:Cat-a-lot|Cat-a-lot]]: Moving from [[Category:The Catholic University of America alumni]] to [[Category:Catholic University of America alumni]]
+2018-09-12T15:50:28+00:00,859222279,851984067,0,144.126.127.129,Michael D. Griffin,Fixed typo
+2013-02-22T20:38:01+00:00,539744427,537584917,0,Addbot,Michael D. Griffin,"[[User:Addbot|Bot:]] Migrating 18 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q357956]] ([[User talk:Addbot|Report Errors]])"
+2018-12-22T06:35:51+00:00,874885424,859222279,0,Hmains,Michael D. Griffin,standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes
+2014-10-07T09:10:51+00:00,628615426,626355537,0,At252wikie,Michael D. Griffin,
+2012-08-29T19:49:03+00:00,509820571,509820191,0,94.189.203.94,Michael D. Griffin,
+2010-01-15T20:58:03+00:00,338062228,336159368,0,GirasoleDE,Michael D. Griffin,/* Global warming controversy */
+2010-07-18T14:47:56+00:00,374143834,372556357,0,93.195.133.41,Mike Rogers (Alabama politician),
+2012-09-09T00:26:44+00:00,511459748,509005849,0,ImageRemovalBot,Mike Rogers (Alabama politician),Removing links to deleted file [[:File:Mike D. Rogers.jpg]]
+2018-02-04T01:02:49+00:00,823887660,823887621,0,Malerooster,Mike Rogers (Alabama politician),/* Domestic issues */ ce
+2011-01-05T17:35:35+00:00,406115218,405610782,0,75.204.148.101,Mike Rogers (Alabama politician),/* External links */ Updated order of precedence box.
+2016-01-05T22:13:32+00:00,698403062,686401368,0,Dominik1509,Mike Rogers (Alabama politician),New photo.
+2009-12-26T18:08:28+00:00,334122499,326764235,0,68.38.104.95,Mike Rogers (Alabama politician),
+2009-10-16T01:00:17+00:00,320128329,320128231,0,Akrupin2,Missile defense,/* NATO and its Missile Defense Future */
+2009-09-27T17:40:00+00:00,316527310,315670160,0,72.90.151.230,Missile defense,/* Classified by trajectory phase */
+2008-05-19T13:24:34+00:00,213461681,213461560,0,Joema,Missile defense,
+2018-01-23T03:27:51+00:00,821875025,821827858,0,InternetArchiveBot,Missile defense,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]])
+2013-09-07T21:50:34+00:00,571971076,571735662,0,Beyond My Ken,Office of Strategic Services,Undid revision 571735662 by [[Special:Contributions/AdRem|AdRem]] ([[User talk:AdRem|talk]])
+2017-12-27T23:41:03+00:00,817372666,816659541,0,JzG,Office of Strategic Services,Tag self-published source using [[Project:AWB|AWB]]
+2020-11-21T18:10:27+00:00,989903761,989797322,0,138.38.175.128,Rocket Lab,/* Electron */
+2018-08-06T19:07:49+00:00,853745655,853741005,0,Sario528,Rocket Lab,Reverted 1 edit by [[Special:Contributions/2001:14BA:13F4:F800:EC29:1A1B:4965:6C59|2001:14BA:13F4:F800:EC29:1A1B:4965:6C59]] ([[User talk:2001:14BA:13F4:F800:EC29:1A1B:4965:6C59|talk]]): Sp. ([[WP:TW|TW]])
+2015-11-05T00:01:33+00:00,689108738,686554227,0,Jodosma,Rocket Lab,fixing typos
+2011-02-28T17:28:11+00:00,416403243,416231897,0,Nick Number,Office of Strategic Services,repaired link(s) to disambiguation page - ([[Wikipedia:Disambiguation pages with links|you can help]]) - Kachin
+2010-02-18T11:26:15+00:00,344797587,337443500,0,Snori,Rocket Lab,fix some shoddy stuff
+2013-01-22T01:31:02+00:00,534256252,534198532,0,Beyond My Ken,Office of Strategic Services,Undid revision 534198532 by [[Special:Contributions/JoeLoeb|JoeLoeb]] ([[User talk:JoeLoeb|talk]]) which is why it needs to be explaoined
+2022-03-26T17:48:56+00:00,1079418956,1077196542,0,28bytes,Rocket Lab,rm tracking id
+2020-07-14T16:46:51+00:00,967678088,967678000,0,Ser Amantio di Nicolao,Rocket Lab,Filled in 1 bare reference(s) with reFill 2
+2012-11-23T16:49:36+00:00,524520680,509143476,0,Makecat-bot,Rocket Lab,r2.7.3) (Robot: Adding [[pt:Rocket Lab]]
+2020-03-30T21:58:27+00:00,948234767,948234582,0,125.238.253.22,Rocket Lab,
+2015-08-06T00:01:45+00:00,674761140,673106940,0,Timtempleton,Rocket Lab,Added description of electron beam melting to clarify unfamiliar term without requiring navigation away from article.
+2020-05-12T18:42:22+00:00,956322559,949210662,0,GoingBatty,Rocket Lab,"[[WP:AWB/GF|General fixes]], [[WP:AWB/T|typo(s) fixed]]: publically → publicly"
+2018-11-23T21:00:13+00:00,870296481,870251873,0,Huntster,Rocket Lab,"Misc tidying, trim out some redundant material. Especially remove a lot of Lockheed stuff that had nothing to do with Rocket Lab."
+2012-03-26T15:00:56+00:00,484020631,471078981,0,178.204.36.173,Rocket Lab,
+2022-09-18T19:22:32+00:00,1110997378,1109643974,0,LowLevel73,Search for extraterrestrial intelligence,/* Post-detection disclosure protocol */ updated wikilink and name of the Rio scale
+2021-07-25T10:12:29+00:00,1035383794,1035058705,0,Prototyperspective,Search for extraterrestrial intelligence,"/* Criticism */ added info about Galileo Project, ce (added subsection-header)"
+2013-11-28T01:35:01+00:00,583607025,583069210,0,186.153.101.73,Search for extraterrestrial intelligence,/* Criticism */
+2008-06-30T16:10:51+00:00,222680123,221544422,0,79.176.136.152,Search for extraterrestrial intelligence,"/* Is ""active"" SETI dangerous? */"
+2021-03-25T23:46:20+00:00,1014241532,1012733263,0,Robo042,Search for extraterrestrial intelligence,"/* Early work */ added wikilink for Barney Oliver, clarified his origin as HP Labs rather than just HP"
+2014-04-15T20:22:30+00:00,604351032,602247279,0,Jytdog,Search for extraterrestrial intelligence,"/* Post detection disclosure protocol */  [[vested interest]] article is some obscure communication theory, not what is meant here"
+2018-11-29T11:38:00+00:00,871170117,871168633,0,Daiyusha,Search for extraterrestrial intelligence,Reverted 1 edit by [[Special:Contributions/Dr. Dave Daffodilis|Dr. Dave Daffodilis]] ([[User talk:Dr. Dave Daffodilis|talk]]) to last revision by Bazonka. ([[WP:TW|TW]])
+2014-09-22T06:04:49+00:00,626579967,626296410,0,Jimp,Search for extraterrestrial intelligence,
+2011-01-01T12:58:52+00:00,405314482,404155996,0,24.6.0.137,Search for extraterrestrial intelligence,
+2020-02-02T04:18:04+00:00,938751992,938737483,0,JeanLucMargot,Search for extraterrestrial intelligence,Undid revision 938737483 by [[Special:Contributions/2806:107E:19:648D:3DFB:1313:9CC0:BC02|2806:107E:19:648D:3DFB:1313:9CC0:BC02]] ([[User talk:2806:107E:19:648D:3DFB:1313:9CC0:BC02|talk]])
+2015-10-20T00:29:48+00:00,686579729,686579564,0,178.95.188.79,Search for extraterrestrial intelligence,subcat rule
+2016-12-31T08:54:49+00:00,757550705,756689824,0,Linguist2017,Search for extraterrestrial intelligence,/* See also */
+2008-04-28T19:12:55+00:00,208815974,208815966,0,ClueBot,Search for extraterrestrial intelligence,"Reverting possible vandalism by [[Special:Contributions/206.207.248.161|206.207.248.161]] to version by J.delanoy. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot]]. (344095) (Bot)"
+2020-08-16T23:18:12+00:00,973387233,972921352,0,47.6.196.78,Semi-Automatic Ground Environment,/* SAGE Sites */ Updated link to Adair AFS
+2021-04-11T23:04:52+00:00,1017289808,1012152236,0,Comp.arch,Semi-Automatic Ground Environment,
+2009-10-20T23:08:28+00:00,321092201,315789539,0,Tomruen,"Solar eclipse of April 8, 2024",{{Astronomy-stub}}
+2013-03-18T06:37:56+00:00,545166454,540975268,0,Addbot,"Solar eclipse of April 8, 2024","[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2620078]]"
+2017-02-27T23:37:05+00:00,767789111,741098721,0,Baltimatt,"Solar eclipse of April 8, 2024",Add day of week (Monday)
+2021-06-04T08:38:16+00:00,1026795099,1026792807,0,Ancheta Wis,Space Development Agency,+anchor
+2022-07-14T15:33:31+00:00,1098177181,1095974202,0,Ancheta Wis,Space Development Agency,+ named ref 29 software factories
+2010-03-08T04:32:43+00:00,348468317,348468168,0,RadioBroadcast,SpaceX,/* Falcon 1 */
+2010-05-15T19:17:54+00:00,362306652,362306564,0,99.66.137.96,SpaceX,/* Dragon */
+2016-04-27T01:01:18+00:00,717321663,717020637,0,Dawnseeker2000,SpaceX,Tidy using [[Project:AWB|AWB]]
+2014-12-16T02:39:02+00:00,638301954,637995084,0,Scottperry,SpaceX,/* Goals */ Target date for manned spacecraft flight
+2010-08-21T08:05:41+00:00,380114315,380114268,0,63.233.211.4,SpaceX,/* Launch sites */
+2016-09-16T01:55:34+00:00,739649988,739649950,0,Gestrid,SpaceX,Reverted edits by [[Special:Contributions/99.242.50.245|99.242.50.245]] ([[User talk:99.242.50.245|talk]]): Nonconstructive editing ([[WP:HG|HG]]) (3.1.21)
+2018-06-22T06:31:59+00:00,847000670,847000535,0,"Me, Myself, and I are Here",SpaceX,/* Achievements */ dashes
+2012-04-22T17:26:03+00:00,488677911,488239251,0,Blaspie55,SpaceX,/* External links */ added official company website
+2014-09-21T11:53:48+00:00,626467206,626068782,0,84.191.153.189,SpaceX,/* Test and post-flight disassembly facilities */
+2019-05-26T13:31:22+00:00,898873869,898873727,0,Mitchellhobbs,SpaceX,"/* Ownership, funding and valuation */"
+2019-01-28T15:51:22+00:00,880642676,880642635,0,Arjayay,SpaceX,Reverted edits by [[Special:Contribs/72.194.132.2|72.194.132.2]] ([[User talk:72.194.132.2|talk]]) to last version by MONGO
+2012-10-24T21:00:38+00:00,519639856,519196184,0,Tergenev,SpaceX,
+2018-02-28T17:56:57+00:00,828120306,828118442,0,RA0808,SpaceX,Reverted edits by [[Special:Contributions/Mckmal23|Mckmal23]] ([[User talk:Mckmal23|talk]]) ([[WP:HG|HG]]) (3.3.3)
+2010-12-18T03:57:55+00:00,402966901,402555163,0,122.106.39.44,SpaceX,/* Launch sites */
+2022-01-29T21:21:02+00:00,1068694315,1068518145,0,Absent.Editor,SpaceX,grammar and punctuation; word usage fix
+2019-03-19T21:23:03+00:00,888549264,888515973,0,66.86.44.5,SpaceX,/* Goals */
+2011-01-14T09:34:08+00:00,407814454,407705499,0,Arjayay,SpaceX,Sp - Retreived > Retrieved
+2016-10-05T15:56:19+00:00,742754307,742754137,0,2602:306:3673:CC10:943B:2AAA:551A:237B,SpaceX,/* Funding */
+2015-12-12T04:33:20+00:00,694871330,694508485,0,Gap9551,SpaceX,/* External links */ added category
+2015-09-13T09:34:00+00:00,680813218,680238556,0,DangerousJXD,SpaceX,Fix
+2013-05-15T20:19:43+00:00,555264525,555263468,0,IjonTichyIjonTichy,SpaceX,/* Facilities */
+2021-11-03T04:56:50+00:00,1053311445,1053310159,0,Arch dude,SpaceX,/* Launch market competition and pricing pressure */ make it clear that the $390M included both rockets.
+2020-11-23T01:22:49+00:00,990141667,990031011,0,201.233.34.188,SpaceX,/* Hardware */ Starship and Raptor
+2018-12-06T18:16:43+00:00,872331617,871959416,0,Rosswi88,SpaceX,"/* Ownership, funding and valuation */"
+2018-01-27T17:36:15+00:00,822648448,822648015,0,Fredlyfish4,SpaceX,better quality in flight photo
+2021-05-14T10:15:04+00:00,1023095933,1022953570,0,Murtaza.aliakbar,SpaceX,"/* 2019–present: Starship, Starlink, and first crewed launches */ gcp, azure, starlink"
+2014-01-30T20:26:56+00:00,593170080,593169876,0,Flynryan22,SpaceX,
+2021-10-28T09:25:16+00:00,1052282752,1049877423,0,Karandotg,SpaceX,
+2020-06-22T17:56:57+00:00,963943754,963851826,0,Leijurv,SpaceX,not just any
+2022-02-07T02:12:39+00:00,1070356623,1070356307,0,BrownHairedGirl,SpaceX,Rescuing 23 sources and tagging 0 as dead.) #IABot (v2.0.8.6
+2014-10-15T17:12:19+00:00,629735684,629735663,0,Razorflame,SpaceX,Reverted edits by [[Special:Contributions/69.195.36.131|69.195.36.131]] ([[User talk:69.195.36.131|talk]]) ([[WP:HG|HG]])
+2016-07-16T16:50:34+00:00,730087587,730085172,0,Bellowhead678,SpaceX,/* Other concepts under development */ date trim
+2013-09-22T03:18:41+00:00,573996939,573577008,0,BD2412,SpaceX,"/* Background */minor fixes, mostly [[Wikipedia:Disambiguation pages with links|disambig links]] using [[Project:AWB|AWB]]"
+2017-11-17T04:44:28+00:00,810746591,810689589,0,165.86.81.71,SpaceX,/* Interplanetary Transport System */ spelling correction
+2013-08-13T18:39:50+00:00,568394146,568311827,0,WikiU2013,SpaceX,/* External links */ official template
+2010-06-21T14:30:41+00:00,369364287,369363365,0,VasilievVV,SpaceX,Reverted edits by [[Special:Contributions/99.130.65.11|99.130.65.11]] ([[User talk:99.130.65.11|talk]]) to last revision by N3sq ([[WP:HG|HG]])
+2013-11-04T04:42:36+00:00,580111627,580006165,0,Huntster,SpaceX,"Fix template location issue, plus misc AWB fixes. using [[Project:AWB|AWB]]"
+2020-08-09T13:25:39+00:00,971979019,971978004,0,Sbb1413,SpaceX Dragon 2,/* External links */
+2018-12-13T11:27:37+00:00,873475040,873474949,0,Mikhail Ryazanov,SpaceX Dragon 2,/* Abort and hover tests */ punct.
+2020-04-30T09:12:30+00:00,954030886,954030708,0,Toby6250,SpaceX Dragon 2,/* Crewed flights */
+2018-06-28T16:31:03+00:00,847910119,847144597,0,DeprecatedFixerBot,SpaceX Mars Colonization Program,"Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of ""cols"" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))"
+2019-12-23T11:06:26+00:00,932092584,932092568,0,Sbb1413,SpaceX Mars Colonization Program,
+2018-10-28T05:05:49+00:00,866088630,861438831,0,DeprecatedFixerBot,Spaceball (album),Resolved deprecated parameter(s) from [[Template:Infobox album]]/[[Template:Extra chronology]]/[[Template:Extra album cover]]/[[Template:Extra track listing]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #3! [[Wikipedia:Bots/Requests for approval/DeprecatedFixerBot 3|approved BRFA]])
+2022-02-19T21:35:51+00:00,1072866123,1072864138,0,Yiosie2356,Starlink,/* 2020–2022 */ Updated aftermath of geomagnetic storm
+2017-03-06T02:17:02+00:00,768837923,768615834,0,73.61.17.59,Starlink,/* History */
+2015-01-27T04:46:52+00:00,644357649,644106060,0,Appable,Starlink,"Removed ""only"" because relative to all current satellite constellations 700 is a lot and the word ""only"" is unneeded unless it is exceptionally small."
+2020-04-11T15:38:33+00:00,950340472,950339885,0,Fgnievinski,Starlink,/* Criticism */ as per IAU statement
+2021-08-18T03:12:38+00:00,1039332920,1038998725,0,222.127.179.172,Starlink,Updated statistics of failed/deorbited satellites
+2022-07-18T20:09:28+00:00,1099057927,1098045360,0,Konstantin Kosachev,Starlink,/* 2020–2022 */ +Chapters for 2020s for convenience
+2022-03-01T11:39:35+00:00,1074653047,1074582440,0,SpikeToronto,Starlink,Wikilink
+2015-12-22T21:18:47+00:00,696394006,689466882,0,Art LaPella,Starlink,/* Internet business opportunity */ uncapitalize
+2019-05-18T20:48:02+00:00,897707058,897594647,0,Rowan Forest,Starlink,/* Launches */  Table format:  tweak in a manner to give large horizontal space to the Notes.
+2022-06-01T11:57:26+00:00,1090963830,1090963359,0,Xpenz,Starlink,/* V2.0 (planned) */
+2019-06-21T06:34:16+00:00,902781308,902015642,0,141.219.84.221,Starlink,/* Satellite hardware */ nothing in the references mention attitude control and it doesn't make sense either.
+2016-04-20T22:55:51+00:00,716292832,708968107,0,85.226.127.167,Starlink,/* Prototype development and testing */
+2020-02-04T02:26:05+00:00,939056737,938967358,0,Yarnalgo,Starlink,Changing it from “The SpaceX Starlink” to just “Starlink” in the intro. The former sounds awkward and isn’t it’s official name.
+2022-04-18T09:27:23+00:00,1083341223,1083225820,0,Rodw,Starlink,Disambiguating links to [[Bloomberg]] (link changed to [[Bloomberg News]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-05-30T00:06:56+00:00,1025855448,1025693697,0,Randey1970,Starlink,/* 2020–2021 */
+2022-02-15T18:53:30+00:00,1072056059,1071975988,0,Benthinking74,Starlink,"/* Services */ Changed ""continents"" to ""countries"" as the United Kingdom is not a continent."
+2021-08-06T06:59:52+00:00,1037383488,1037324846,0,222.127.179.172,Starlink,Updated statistics of working/operational and failed/deorbited satellites
+2010-11-30T21:16:30+00:00,399796400,398204679,0,68.38.69.143,Strategic Defense Initiative,"All information under source number 8 has been deleted as it is not a real source. It is a dead link to cnn, and I searched for these transcripts multiple times on google and cnn"
+2012-10-13T23:04:47+00:00,517645314,513257635,0,Bright Darkness,Strategic Defense Initiative,
+2012-03-19T14:36:36+00:00,482729253,482081667,0,86.46.202.143,Strategic Defense Initiative,/* Fiction and popular culture */
+2012-06-24T05:26:36+00:00,499089344,499089254,0,10stone5,Strategic Defense Initiative,
+2012-11-04T15:04:07+00:00,521364512,519103030,0,Syp,Strategic Defense Initiative,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/75.95.193.176|75.95.193.176]] ([[User talk:75.95.193.176|talk]]) to last version by SlingPro
+2022-10-11T05:10:24+00:00,1115379658,1115087784,0,176.88.98.182,TAI Anka,/* Anka-S */TEI is currently producing PD170 and PD180st engines. PD170 has its own wikipedia page.
+2022-03-16T16:23:16+00:00,1077490778,1074749809,0,The Gentle Daffodil,TAI Anka,/* Specifications (Anka-S) */Added information
+2022-02-13T20:00:11+00:00,1071675611,1067013495,0,Zenzyyx,TAI Anka,
+2020-06-20T11:14:26+00:00,963543285,963522098,0,Maistara,TAI Anka,/* Operational history */Changed to main operation
+2016-03-07T12:05:44+00:00,708756105,707689861,0,Dewritech,TAI Anka,"clean up, [[WP:AWB/T|typo(s) fixed]]: , → , using [[Project:AWB|AWB]]"
+2008-01-21T23:15:42+00:00,185988564,54527997,0,Girl2k,Talk:N-dimensional space,
+2016-09-27T20:20:42+00:00,741487016,699311754,0,Royalcourtier,Talk:Rocket Lab,/* US company */ new section
+2012-05-24T00:49:07+00:00,494076969,494076443,0,Wer900,Talk:Search for extraterrestrial intelligence,/* what happens if we find alien life? */
+2018-08-01T06:32:29+00:00,852916009,824417187,0,SSTbot,Talk:Search for extraterrestrial intelligence,/* top */Added {{vital article}}
+2013-12-16T22:25:06+00:00,586405006,583284448,0,MyMoloboaccount,Talk:Search for extraterrestrial intelligence,
+2009-10-02T17:16:08+00:00,317499525,303060756,0,96.54.53.165,Talk:Search for extraterrestrial intelligence,/* Radio Signal Destruction Past 2 Light Years Distance? */
+2011-05-02T07:13:28+00:00,427024994,425955283,0,65.93.12.8,Talk:Search for extraterrestrial intelligence,
+2013-01-13T04:44:26+00:00,532811313,505059494,0,96.54.42.226,Talk:Search for extraterrestrial intelligence,/* Detection Power Limits */
+2015-12-15T19:10:52+00:00,695390979,691752714,0,Fixuture,Talk:Search for extraterrestrial intelligence,/* Scientific discoveries derived from SETI data or SETI instruments */ pls add info on scientific discoveries unrelated to the search of alien intelligence to the article or create a new one (like [[NASA spin-off technologies]])
+2009-04-18T05:52:53+00:00,284568021,280617594,0,MiszaBot I,Talk:Search for extraterrestrial intelligence,Archiving 2 thread(s) (older than 365d) to [[Talk:SETI/Archive 1]].
+2015-08-04T23:51:10+00:00,674599699,674538448,0,Nren4237,Talk:Search for extraterrestrial intelligence,"/* Making a ""History of SETI"" main page */"
+2020-09-14T14:49:56+00:00,978374472,978331273,0,2001:7E8:C93A:AC00:DC7E:F302:C429:34B,Terrence J. O'Shaughnessy,/* Effective dates of promotion */
+2018-08-28T14:31:03+00:00,856940432,856938055,0,GroundFloor,"Tesla, Inc.","/* Toyota RAV4 EV */ added info, removed tag"
+2010-04-08T12:00:55+00:00,354730165,354729425,0,Billinghurst,"Tesla, Inc.",{{disambiguation needed}}
+2016-07-19T01:03:05+00:00,730437577,730437430,0,General Ization,"Tesla, Inc.",Reverted edits by [[Special:Contribs/139.181.7.34|139.181.7.34]] ([[User talk:139.181.7.34|talk]]) to last version by Ergzay
+2018-11-10T20:40:13+00:00,868224267,868224179,0,Shellwood,Terrence J. O'Shaughnessy,Reverted edits by [[Special:Contributions/107.77.205.76|107.77.205.76]] ([[User talk:107.77.205.76|talk]]) ([[WP:HG|HG]]) (3.4.4)
+2016-11-20T17:16:18+00:00,750580628,750580355,0,Maxime Vernier,"Tesla, Inc.",Added Finance links
+2013-03-25T16:36:59+00:00,546931592,546636848,0,Dewritech,"Tesla, Inc.","clean up, [[WP:AWB/T|typos fixed]]: mass producing → mass-producing (2) using [[Project:AWB|AWB]] (8853)"
+2021-11-23T12:35:34+00:00,1056769348,1056769177,0,Richard 3694,"Tesla, Inc.","/* Tesla, Inc. */"
+2017-04-16T03:17:23+00:00,775629602,775629091,0,General Ization,"Tesla, Inc.",Reverted edits by [[Special:Contribs/67.68.128.217|67.68.128.217]] ([[User talk:67.68.128.217|talk]]) to last version by 96.48.4.254
+2013-04-07T02:55:48+00:00,549092331,548767929,0,212.79.108.3,"Tesla, Inc.",updated financial data from 10-K
+2018-12-10T13:55:50+00:00,872986496,846295310,0,37.54.110.97,Türksat 5A,/* References */
+2019-09-21T11:06:38+00:00,916925343,805140456,0,JFG,Türksat 5B,Correct target; add rcat
+2015-06-24T01:11:10+00:00,668394197,668074655,0,Whydoesitfeelsogood,Vladimir Putin,
+2013-05-10T20:21:10+00:00,554497038,554494749,0,Cerabot~enwiki,Vladimir Putin,Task 1: Dating templates: {{very long}} (1). ([[User:Cerabot/Run/Task 1|bot]])
+2023-02-01T15:46:54+00:00,1136868933,1136858329,0,Curbon7,Vladimir Putin,Constituent republics are generally included.
+2018-06-27T18:10:48+00:00,847777286,847776875,0,Smeagol 17,Vladimir Putin,/* Sports */
+2011-08-12T00:55:27+00:00,444361792,444297758,0,Alex Bakharev,Vladimir Putin,no need for unrelated controversy  here
+2014-01-08T05:21:41+00:00,589717684,589426676,0,BattyBot,Vladimir Putin,/* Family */fixed [[:Category:CS1 errors: dates|CS1 errors: dates]] & [[WP:AWB/GF|General fixes]] using [[Project:AWB|AWB]] (9832)
+2013-10-13T21:43:46+00:00,577044704,576976258,0,Malick78,Vladimir Putin,Undid revision 576976258 by [[Special:Contributions/A1candidate|A1candidate]] ([[User talk:A1candidate|talk]])reverting. we don't need another image unless it's something special and adds significantly to article
+2022-02-22T03:28:55+00:00,1073316359,1073277892,0,Abbyjjjj96,Vladimir Putin,/* Family */ rephrase
+2015-04-17T15:24:04+00:00,656910279,656689962,0,Brandmeister,Vladimir Putin,"/* Personal image: ""Superputin"" */ redundant ""and"""
+2010-11-03T09:20:33+00:00,394548815,394402561,0,JBW,Vladimir Putin,Editing to make the text follow more clearly what the sources say.
+2010-01-31T02:37:45+00:00,341015902,341011826,0,ArmenianHistoryX,Vladimir Putin,/* Premiership (1999) */
+2017-08-03T08:23:35+00:00,793679109,793678886,0,DrStrauss,Wikipedia:Administrators' noticeboard/Edit warring,User blocked
+2017-06-29T02:37:34+00:00,788031251,788031183,0,Primefac,Wikipedia:Administrators' noticeboard/Edit warring,/* Proposal of interaction ban */ closing to avoid decentralized discussion
+2016-10-30T07:05:04+00:00,746899946,746869994,0,Qwirkle,Wikipedia:Administrators' noticeboard/Edit warring,
+2021-05-04T20:15:37+00:00,1021457347,1021338645,0,El Roih,World View Enterprises,/* See also */added link to deimos-one
+2018-08-10T14:47:08+00:00,854329575,853668292,0,107.182.67.69,World View Enterprises,grammar
+2020-01-20T19:50:31+00:00,936750384,933188950,0,GoingBatty,World View Enterprises,"[[WP:AWB/GF|General fixes]] and manual cleanup, replaced: U.S. [[Navy]] → [[U.S. Navy]], [[WP:AWB/T|typo(s) fixed]]: 20 year → 20-year"
+2016-09-13T16:21:31+00:00,739248670,739072649,0,Fanyavizuri,World View Enterprises,scientific payload flight 2016

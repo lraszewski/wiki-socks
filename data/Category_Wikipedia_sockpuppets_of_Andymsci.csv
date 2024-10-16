@@ -1,0 +1,434 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-08-15T03:25:29+00:00,1038843233,1038843157,1,Andymsci,Thermal management of high-power LEDs,/* Heat transfer procedure */
+2021-08-15T03:24:39+00:00,1038843157,1000501225,1,Andymsci,Thermal management of high-power LEDs,/* Heat transfer procedure */
+2021-08-15T03:11:29+00:00,1038841962,1038841188,1,Andymsci,Thermal management (electronics),/* Thermal interface material */
+2021-08-15T03:03:37+00:00,1038841188,1038840382,1,Andymsci,Thermal management (electronics),/* Recent developments */
+2021-08-15T02:55:40+00:00,1038840382,1038840094,1,Andymsci,Thermal management (electronics),/* Recent developments */
+2021-08-15T02:52:49+00:00,1038840094,1024237338,1,Andymsci,Thermal management (electronics),/* Recent developments */
+2021-08-15T02:48:09+00:00,1038839699,1038839441,1,Andymsci,List of semiconductor materials,/* Table of semiconductor materials */
+2021-08-15T02:45:43+00:00,1038839441,1036286351,1,Andymsci,List of semiconductor materials,/* Table of semiconductor materials */
+2020-11-17T08:24:22+00:00,989142657,989142553,1,Andymsci,Thermal interface material,
+2020-11-17T08:23:03+00:00,989142553,989142540,1,Andymsci,Thermal interface material,
+2020-11-17T08:22:51+00:00,989142540,989142376,1,Andymsci,Thermal interface material,
+2020-11-17T08:20:54+00:00,989142376,951733504,1,Andymsci,Thermal interface material,
+2020-11-17T08:13:23+00:00,989141707,977239364,1,Andymsci,Interfacial thermal resistance,
+2020-08-28T15:55:23+00:00,975451269,975451169,1,Andymsci,Boron phosphide,/* Physical properties */
+2020-08-28T15:54:46+00:00,975451169,975450919,1,Andymsci,Boron phosphide,/* Physical properties */
+2020-08-28T15:53:20+00:00,975450919,975449946,1,Andymsci,Boron phosphide,/* Physical properties */
+2020-08-28T15:46:11+00:00,975449946,965146039,1,Andymsci,Boron phosphide,
+2020-08-28T15:34:58+00:00,975448125,974239431,1,Andymsci,Tin selenide,
+2020-08-21T21:30:31+00:00,974238998,974238948,1,Andymsci,Tin selenide,/* Chemistry */
+2020-08-21T21:30:10+00:00,974238948,974232979,1,Andymsci,Tin selenide,/* Chemistry */
+2020-08-21T19:06:25+00:00,974219391,974219310,1,Andymsci,Tin selenide,/* Chemistry */
+2020-08-21T19:05:50+00:00,974219310,974218972,1,Andymsci,Tin selenide,/* Chemistry */
+2020-08-21T19:02:50+00:00,974218972,974218492,1,Andymsci,Tin selenide,/* Chemistry */
+2020-08-21T18:59:02+00:00,974218492,971672024,1,Andymsci,Tin selenide,
+2020-05-21T00:56:39+00:00,957895171,957894986,1,Andymsci,Boron arsenide,/* Properties */
+2020-05-21T00:55:33+00:00,957894986,957894736,1,Andymsci,Boron arsenide,
+2020-05-21T00:53:56+00:00,957894736,957893436,1,Andymsci,Boron arsenide,/* Boron subarsenide */
+2020-05-21T00:50:30+00:00,957894200,937840722,1,Andymsci,Boron phosphide,/* Physical properties */
+2020-05-21T00:45:51+00:00,957893436,957893192,1,Andymsci,Boron arsenide,/* Properties */
+2020-05-21T00:44:13+00:00,957893192,957893141,1,Andymsci,Boron arsenide,/* Properties */
+2020-05-21T00:43:49+00:00,957893141,957893032,1,Andymsci,Boron arsenide,/* Properties */
+2020-05-21T00:43:10+00:00,957893032,957892916,1,Andymsci,Boron arsenide,/* Properties */
+2020-05-21T00:42:17+00:00,957892916,957892270,1,Andymsci,Boron arsenide,/* Properties */
+2020-05-21T00:37:39+00:00,957892270,951933713,1,Andymsci,Boron arsenide,/* Properties */
+2019-07-25T18:45:56+00:00,907856269,907856177,1,Andymsci,Nanoscale vacuum-channel transistor,
+2019-07-25T18:45:12+00:00,907856177,907855747,1,Andymsci,Nanoscale vacuum-channel transistor,
+2019-07-25T18:41:15+00:00,907855747,892604937,1,Andymsci,Nanoscale vacuum-channel transistor,
+2019-06-05T04:55:39+00:00,900362240,897380045,1,Andymsci,Boron arsenide,/* Properties */
+2019-05-16T17:06:16+00:00,897380045,897379986,1,Andymsci,Boron arsenide,/* Properties */
+2019-05-16T17:05:47+00:00,897379986,897379898,1,Andymsci,Boron arsenide,/* Properties */
+2019-05-16T17:04:57+00:00,897379898,897379636,1,Andymsci,Boron arsenide,/* Properties */
+2019-05-16T17:02:42+00:00,897379636,886931632,1,Andymsci,Boron arsenide,
+2019-04-15T17:30:03+00:00,892604937,892604792,1,Andymsci,Nanoscale vacuum-channel transistor,
+2019-04-15T17:29:04+00:00,892604792,892604469,1,Andymsci,Nanoscale vacuum-channel transistor,
+2019-04-15T17:25:53+00:00,892604469,892604353,1,Andymsci,Nanoscale vacuum-channel transistor,/* History */
+2019-04-15T17:24:52+00:00,892604353,892604157,1,Andymsci,Nanoscale vacuum-channel transistor,/* History */
+2019-04-15T17:23:22+00:00,892604157,892604042,1,Andymsci,Nanoscale vacuum-channel transistor,/* History */
+2019-04-15T17:22:33+00:00,892604042,892603672,1,Andymsci,Nanoscale vacuum-channel transistor,
+2019-04-15T17:19:30+00:00,892603672,892416396,1,Andymsci,Nanoscale vacuum-channel transistor,/* History */
+2018-11-01T19:40:23+00:00,866821736,866821655,1,Andymsci,Phonon scattering,/* Three-phonon and four-phonon process */
+2018-11-01T19:39:49+00:00,866821655,866821478,1,Andymsci,Phonon scattering,/* Three-phonon and four-phonon process */
+2018-11-01T19:38:52+00:00,866821478,866819392,1,Andymsci,Phonon scattering,/* Three-phonon and four-phonon process */
+2018-11-01T19:37:03+00:00,866821090,863769551,1,Andymsci,Thermal management (electronics),/* Construction and materials */
+2018-11-01T19:31:10+00:00,866820264,866820028,1,Andymsci,Semiconductor,/* Properties */
+2018-11-01T19:29:11+00:00,866820028,863566716,1,Andymsci,Semiconductor,/* Properties */
+2018-11-01T19:23:56+00:00,866819392,866819323,1,Andymsci,Phonon scattering,/* Three-phonon and four-phonon process */
+2018-11-01T19:23:24+00:00,866819323,866818860,1,Andymsci,Phonon scattering,/* Three-phonon and four-phonon process */
+2018-11-01T19:19:50+00:00,866818860,858261345,1,Andymsci,Phonon scattering,/* Phonon-electron scattering */
+2018-11-01T19:06:25+00:00,866817317,857958613,1,Andymsci,Ballistic conduction,/* Examples */
+2018-11-01T18:57:18+00:00,866816184,862950339,1,Andymsci,List of thermal conductivities,/* Conductivity under standard conditions */
+2018-11-01T18:53:01+00:00,866815624,866815367,1,Andymsci,Thermal conductivity and resistivity,/* Lattice waves */
+2018-11-01T18:51:17+00:00,866815367,866815301,1,Andymsci,Thermal conductivity and resistivity,/* Physical origins */
+2018-11-01T18:50:49+00:00,866815301,866815253,1,Andymsci,Thermal conductivity and resistivity,/* Physical origins */
+2018-11-01T18:50:30+00:00,866815253,866815178,1,Andymsci,Thermal conductivity and resistivity,/* Physical origins */
+2018-11-01T18:49:50+00:00,866815178,865684953,1,Andymsci,Thermal conductivity and resistivity,/* Physical origins */
+2018-11-01T18:22:25+00:00,866811693,862676018,1,Andymsci,Boron arsenide,/* Applications */
+2018-08-14T17:01:21+00:00,854912234,854911924,1,Andymsci,List of thermal conductivities,
+2018-08-14T16:58:49+00:00,854911924,850801946,1,Andymsci,List of thermal conductivities,/* Conductivity under standard conditions */
+2018-07-08T06:44:03+00:00,849326262,849326130,1,Andymsci,Boron arsenide,
+2018-07-08T06:42:01+00:00,849326130,849326016,1,Andymsci,Boron arsenide,
+2018-07-08T06:40:23+00:00,849326016,849325913,1,Andymsci,Boron arsenide,
+2018-07-08T06:38:42+00:00,849325913,849298781,1,Andymsci,Boron arsenide,
+2018-07-08T01:03:33+00:00,849298781,849298737,1,Andymsci,Boron arsenide,
+2018-07-08T01:02:59+00:00,849298737,849298488,1,Andymsci,Boron arsenide,
+2018-07-08T01:00:18+00:00,849298488,849298397,1,Andymsci,Boron arsenide,
+2018-07-08T00:59:17+00:00,849298397,849254348,1,Andymsci,Boron arsenide,
+2018-02-05T01:56:49+00:00,824055547,824055239,1,Andymsci,Boron arsenide,/* Applications */
+2018-02-05T01:53:41+00:00,824055239,823245552,1,Andymsci,Boron arsenide,/* Applications */
+2018-01-26T20:12:46+00:00,822511687,822511571,1,Andymsci,Allotropes of phosphorus,/* Black phosphorus */
+2018-01-26T20:11:53+00:00,822511571,822510512,1,Andymsci,Allotropes of phosphorus,/* Black phosphorus */
+2018-01-26T20:04:19+00:00,822510512,822509921,1,Andymsci,Allotropes of phosphorus,/* Black phosphorus */
+2018-01-26T19:59:58+00:00,822509921,818475326,1,Andymsci,Allotropes of phosphorus,
+2021-11-08T09:10:25+00:00,1054141796,1054123987,1,Cydames,User talk:Cydames,"/* Per request, I have been and will continue to only make constructive buildings to wiki*/"
+2021-11-08T05:33:55+00:00,1054121701,1054121168,1,Cydames,User talk:Cydames,/* Unblock */
+2021-11-08T05:21:32+00:00,1054120589,1054120388,1,Cydames,Wikipedia:Sockpuppet investigations/Andymsci,/* Suspected sockpuppets */
+2021-11-08T05:18:52+00:00,1054120272,1054120084,1,Cydames,Wikipedia:Sockpuppet investigations/Andymsci,/* Suspected sockpuppets */
+2021-11-08T05:15:21+00:00,1054119930,1054119839,1,Cydames,Wikipedia:Sockpuppet investigations/Andymsci,
+2021-11-08T05:14:27+00:00,1054119839,1054119756,1,Cydames,Wikipedia:Sockpuppet investigations/Andymsci,
+2021-11-08T05:13:44+00:00,1054119756,1054119057,1,Cydames,Wikipedia:Sockpuppet investigations/Andymsci,
+2021-11-08T05:12:22+00:00,1054119623,1054118204,1,Cydames,Boron arsenide,/* Applications */
+2021-11-08T04:58:11+00:00,1054118204,1054117943,1,Cydames,Boron arsenide,/* Properties */
+2021-11-08T04:54:31+00:00,1054117832,1054113809,1,Cydames,Boron arsenide,/* Applications */
+2021-11-08T04:22:45+00:00,1054114684,1050074931,1,NikoNg6,Heat transfer,
+2021-11-08T04:21:10+00:00,1054114516,1054112875,1,NikoNg6,Thermal interface material,
+2024-01-24T19:07:44+00:00,1198667114,1193843301,1,ThermalRobot,Boron arsenide,
+2024-01-05T23:14:00+00:00,1193842966,1189599288,1,ThermalRobot,Boron arsenide,Missing key refs
+2024-01-05T22:55:01+00:00,1193840277,1193486795,1,ThermalRobot,Graphene,/* Thermal conductivity */
+2021-11-08T03:59:43+00:00,1054112340,1054112221,1,Turnbulldavid,User talk:MrOllie,"/* Re: MrOllie, please stop deleting wiki posts on purpose */"
+2021-11-08T03:58:36+00:00,1054112221,1054111963,1,Turnbulldavid,User talk:MrOllie,"/* Re: MrOllie, please stop deleting wiki posts on purpose */"
+2021-11-08T03:56:19+00:00,1054111963,1054111874,1,Turnbulldavid,User talk:MrOllie,"/* Re: MrOllie, please stop deleting wiki posts on purpose */"
+2021-11-08T03:55:26+00:00,1054111874,1054111357,1,Turnbulldavid,User talk:MrOllie,"/* Re: MrOllie, please stop deleting wiki posts on purpose */"
+2021-11-08T03:52:37+00:00,1054111559,1054111484,1,Turnbulldavid,Interfacial thermal resistance,
+2021-11-08T03:52:02+00:00,1054111484,1054109986,1,Turnbulldavid,Interfacial thermal resistance,
+2021-11-08T03:50:54+00:00,1054111364,1054110616,1,Turnbulldavid,Thermal transport in nanostructures,Undid revision 1054110616 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2021-11-08T03:50:03+00:00,1054111268,1054111206,1,Turnbulldavid,User talk:MrOllie,"/* Re: MrOllie, please stop deleting wiki posts on purpose */"
+2021-11-08T03:48:27+00:00,1054111087,1054110362,1,Turnbulldavid,User talk:MrOllie,"/* Re: MrOllie, please stop deleting wiki posts on purpose */"
+2021-11-08T03:37:16+00:00,1054109802,1053295256,1,Turnbulldavid,Interfacial thermal resistance,Undid revision 1053295256 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2021-11-08T03:30:31+00:00,1054109107,1054109001,1,Turnbulldavid,User talk:MrOllie,"/* Re: MrOllie, please stop deleting wiki posts on purpose */"
+2021-11-08T03:29:41+00:00,1054109001,1054107092,1,Turnbulldavid,User talk:MrOllie,"/* Re: MrOllie, please stop deleting wiki posts on purpose */"
+2021-11-08T03:23:21+00:00,1054108369,1016800487,1,Turnbulldavid,Thermal transport in nanostructures,
+2021-11-08T03:08:58+00:00,1054107071,1054106806,1,Turnbulldavid,User talk:Turnbulldavid,
+2021-11-08T03:04:08+00:00,1054106585,1054105474,1,Turnbulldavid,User talk:MrOllie,/* Re: adding content MrOllie */
+2021-11-08T02:59:04+00:00,1054106103,1054105875,1,Turnbulldavid,Thermal interface material,Undid revision 1054105875 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2021-11-08T02:58:26+00:00,1054106046,1054105590,1,Turnbulldavid,User talk:Turnbulldavid,/* November 2021 */
+2021-11-08T02:56:48+00:00,1054105870,1054104967,1,Turnbulldavid,Boron arsenide,Undid revision 1054104967 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2021-11-08T02:56:07+00:00,1054105788,1054104873,1,Turnbulldavid,Thermal interface material,Undid revision 1054104873 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2021-11-08T02:54:12+00:00,1054105590,1054105003,1,Turnbulldavid,User talk:Turnbulldavid,/* November 2021 */
+2021-11-08T02:51:33+00:00,1054105334,1054105263,1,Turnbulldavid,User talk:MrOllie,"/* Re: MrOllie, please stop deleting wiki posts on purpose */"
+2021-11-08T02:50:54+00:00,1054105263,1054105213,1,Turnbulldavid,User talk:MrOllie,/* Re: adding content MrOllie */
+2021-11-08T02:50:27+00:00,1054105213,1054105166,1,Turnbulldavid,User talk:MrOllie,/* Re: adding content MrOllie */
+2021-11-08T02:49:58+00:00,1054105166,1054019943,1,Turnbulldavid,User talk:MrOllie,
+2021-11-08T02:47:37+00:00,1054104926,1054104892,1,Turnbulldavid,Boron arsenide,Undid revision 1053294313 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2021-11-08T02:46:19+00:00,1054104795,1053294313,1,Turnbulldavid,Boron arsenide,Undid revision 1053294313 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2021-11-08T02:45:16+00:00,1054104689,1053295386,1,Turnbulldavid,Thermal interface material,
+2021-11-03T01:50:32+00:00,1053290878,1053290826,1,Turnbulldavid,Thermal mass,
+2021-11-03T01:50:13+00:00,1053290826,1038467334,1,Turnbulldavid,Thermal mass,
+2021-11-03T01:45:10+00:00,1053290186,1052931117,1,Turnbulldavid,Building material,/* The total cost of building materials */
+2021-11-03T01:41:48+00:00,1053289771,1053289700,1,Turnbulldavid,Thermal energy storage,/* Categories */
+2021-11-03T01:41:17+00:00,1053289700,1051170387,1,Turnbulldavid,Thermal energy storage,
+2021-11-03T01:37:52+00:00,1053289302,1052681455,1,Turnbulldavid,Passive cooling,
+2021-11-03T01:35:42+00:00,1053289007,1047144263,1,Turnbulldavid,Building insulation material,
+2021-11-03T01:34:24+00:00,1053288834,1053288664,1,Turnbulldavid,Building insulation,/* Materials */
+2021-11-03T01:33:08+00:00,1053288664,1053288483,1,Turnbulldavid,Building insulation,
+2021-11-03T01:31:45+00:00,1053288483,1053288170,1,Turnbulldavid,Building insulation,/* Thermal insulation */
+2021-11-03T01:29:31+00:00,1053288170,1050626522,1,Turnbulldavid,Building insulation,
+2021-10-11T04:34:36+00:00,1049322139,981491610,1,Turnbulldavid,Heat spreader,/* See also */
+2021-10-11T04:29:07+00:00,1049321608,1049321441,1,Turnbulldavid,Thermal interface material,
+2021-10-11T04:27:42+00:00,1049321441,1048269166,1,Turnbulldavid,Thermal interface material,This reference is for carbon nanotube and not appropriate for the general topic of thermal interface here.
+2021-09-17T01:49:00+00:00,1044778043,1044724984,1,Turnbulldavid,Boron arsenide,/* Applications */
+2021-09-16T18:59:01+00:00,1044724984,1044719607,1,Turnbulldavid,Boron arsenide,/* Applications */
+2021-09-16T18:21:36+00:00,1044719607,1044719495,1,Turnbulldavid,Boron arsenide,/* Applications */
+2021-09-16T18:20:52+00:00,1044719495,1044717535,1,Turnbulldavid,Boron arsenide,/* Applications */
+2021-09-16T18:09:03+00:00,1044717535,1041134260,1,Turnbulldavid,Boron arsenide,/* Applications */
+2019-10-14T23:15:09+00:00,921286985,921286880,1,Turnbulldavid,Boron arsenide,/* Properties */
+2019-10-14T23:14:19+00:00,921286880,921286754,1,Turnbulldavid,Boron arsenide,/* Properties */
+2019-10-14T23:13:28+00:00,921286754,921286478,1,Turnbulldavid,Boron arsenide,/* Properties */
+2019-10-14T23:11:29+00:00,921286478,919171775,1,Turnbulldavid,Boron arsenide,
+2021-11-08T04:13:39+00:00,1054113809,1054112931,1,WikiRobt9,Boron arsenide,/* Applications */
+2021-01-01T11:18:51+00:00,997610709,997610502,0,Citation bot,Boron arsenide,"Alter: pages. Add: hdl, s2cid, bibcode. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Graeme Bartlett | via #UCB_toolbar"
+2021-01-07T13:21:30+00:00,998883093,997634025,0,Kku,Allotropes of phosphorus,link [[thermal conductivity]] using [[:en:User:Edward/Find link|Find link]]
+2023-04-22T07:24:07+00:00,1151151784,1147901405,0,Citation bot,Boron arsenide,Add: bibcode. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Multiple Chemboxes]] | #UCB_Category 24/38
+2018-07-28T08:10:55+00:00,852340038,852131204,0,Grammarspellchecker,Allotropes of phosphorus,/* Applications */
+2024-01-05T23:16:46+00:00,1193843301,1193842966,0,MrOllie,Boron arsenide,Reverted 1 edit by [[Special:Contributions/ThermalRobot|ThermalRobot]] ([[User talk:ThermalRobot|talk]]): More citespam / sock edits / block evader
+2020-10-27T06:26:39+00:00,985665025,984031802,0,David Eppstein,Boron arsenide,[[Sarah Kurtz]]
+2022-10-14T23:00:55+00:00,1116121916,1105183504,0,Citation bot,Boron arsenide,"Add: s2cid, pmid, authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Kline | #UCB_webform"
+2021-02-14T23:59:35+00:00,1006819461,998883093,0,Firejuggler86,Allotropes of phosphorus,"/* Hittorf's violet phosphorus */the source doesn't specific that temperature is in Celsius, and due to the age of the source, Fahrenheit is not implausible"
+2022-04-27T09:11:00+00:00,1084914222,1080871267,0,Neils51,Allotropes of phosphorus,replaced: homogenous → homogeneous
+2022-08-01T21:33:27+00:00,1101797129,1053295987,0,172.82.46.195,Ballistic conduction,minor fmt
+2023-12-12T21:35:23+00:00,1189599288,1189597727,0,MrOllie,Boron arsenide,more citespam / sock edits
+2023-02-25T03:05:17+00:00,1141445371,1140429369,0,115.77.141.182,Boron arsenide,
+2019-10-13T20:06:19+00:00,921089202,919064571,0,WereSpielChequers,Allotropes of phosphorus,"/* Phosphorene */[[WP:AWB/T|Typo fixing]], replaced: dependant → dependent"
+2022-08-24T19:23:09+00:00,1106467968,1106467754,0,Bernardirfan,Allotropes of phosphorus,Replacing HTML with {{chem2}}
+2021-05-15T14:35:03+00:00,1023282572,1021933363,0,2800:40:13:7CC:5D02:AD51:AE5F:630F,Allotropes of phosphorus,Added discoverer of red phosphorus
+2020-10-01T08:31:35+00:00,981266027,975417797,0,WikiCleanerBot,Boron arsenide,v2.03b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - [[WP:WCW]] project (Reference before punctuation)
+2020-05-25T11:24:03+00:00,958724303,957895171,0,Rjwilmsi,Boron arsenide,"Journal cites:, added 3 Bibcodes"
+2022-04-03T23:52:55+00:00,1080871267,1080850025,0,Ira Leviton,Allotropes of phosphorus,Fixed a PMC parameter in a citation. Please see [[Category:CS1 maint: PMC format]].
+2019-02-01T13:30:04+00:00,881267128,868645325,0,MaxwellMolecule,Boron arsenide,/* Properties */ add colon
+2019-03-09T13:47:09+00:00,886931632,885773400,0,208.38.230.68,Boron arsenide,
+2018-11-13T15:14:39+00:00,868645325,868645197,0,208.103.124.156,Boron arsenide,
+2018-03-10T19:11:38+00:00,829775123,829775049,0,131.179.59.57,Boron arsenide,
+2021-04-18T12:11:15+00:00,1018505069,1014639356,0,Officer781,Boron arsenide,
+2022-06-07T12:16:07+00:00,1091960265,1091959930,0,Bernardirfan,Boron arsenide,Replacing HTML with {{chem2}}
+2022-03-09T17:00:21+00:00,1076152500,1065857855,0,Citation bot,Boron arsenide,"Alter: pages. Add: osti, pmc, pmid, issue, s2cid, bibcode, authors 1-6. Removed proxy/dead URL that duplicated identifier. Formatted [[WP:ENDASH|dashes]]. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | [[Category:Boron compounds]] | #UCB_Category 41/51"
+2022-01-15T17:32:14+00:00,1065857855,1065365458,0,WikiCleanerBot,Boron arsenide,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-06-08T18:45:30+00:00,1027575562,1021977618,0,Forbes72,Boron arsenide,added [[Category:Zincblende crystal structure]] using [[WP:HC|HotCat]]
+2022-05-03T11:57:11+00:00,1085964870,1076152500,0,MinusBot,Boron arsenide,"Proper minus signs and other cleanup. Report bugs, errors, and suggestions at [[User talk:MinusBot]]"
+2020-01-25T17:02:47+00:00,937533682,921286985,0,Rjwilmsi,Boron arsenide,"Journal cites:, added 3 PMIDs"
+2020-03-16T11:17:52+00:00,945826227,937533682,0,Citation bot,Boron arsenide,"Add: issue, pmid, arxiv. Removed URL that duplicated unique identifier. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:AManWithNoPlan]] | All pages linked from [[User:AManWithNoPlan/sandbox2]] | via #UCB_webform_linked"
+2018-07-27T02:41:37+00:00,852165114,851257316,0,Bibcode Bot,Boron arsenide,"Adding 0 [[arXiv|arxiv eprint(s)]], 1 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2022-08-19T00:13:03+00:00,1105183504,1105180670,0,Davidbena,Boron arsenide,/* External links */ + External link
+2022-01-13T05:06:01+00:00,1065365458,1063565512,0,Sgraham54,Boron arsenide,
+2021-03-23T03:09:54+00:00,1013724894,1009545252,0,Huravee,Boron arsenide,/* External links */
+2020-12-10T02:10:12+00:00,993335407,985665025,0,Monkbot,Boron arsenide,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 19 templates: del empty params (7×);
+2019-07-27T07:14:06+00:00,908071807,901277558,0,OAbot,Boron arsenide,[[Wikipedia:OABOT|Open access bot]]: add arxiv identifier to citation with #oabot.
+2021-10-09T00:59:35+00:00,1048958607,1044778043,0,Nihiltres,Boron arsenide,"/* Applications */ Some wikilinks, some whitespace normalization"
+2021-12-09T09:20:26+00:00,1059416432,1059375292,0,Ehrenkater,Boron arsenide,/* Boron subarsenide */
+2021-03-01T03:24:54+00:00,1009545252,997610709,0,153.145.176.120,Boron arsenide,/* Applications */ English corrections
+2018-11-04T02:03:18+00:00,867162928,867162833,0,DJep,Boron arsenide,"Updated band gap to 1.86 eV, in accordance with ref [2]"
+2018-06-07T21:20:10+00:00,844888338,843831285,0,131.179.59.57,Boron arsenide,/* Applications */
+2020-04-16T22:29:39+00:00,951388486,945826227,0,OAbot,Boron arsenide,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-10-17T19:10:40+00:00,984031802,981266027,0,WikiCleanerBot,Boron arsenide,v2.03b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - [[WP:WCW]] project (Reference before punctuation)
+2023-02-20T01:31:43+00:00,1140429369,1136380879,0,Citation bot,Boron arsenide,"Add: s2cid, pmid, authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Corvus florensis | #UCB_webform 1941/3500"
+2022-08-29T06:24:28+00:00,1107290905,1100847433,0,A1113595596,Boron phosphide,/* History */ Word not needed there
+2021-05-07T18:38:07+00:00,1021977618,1018505069,0,OAbot,Boron arsenide,[[Wikipedia:OABOT|Open access bot]]: hdl added to citation with #oabot.
+2021-11-08T07:40:14+00:00,1054133353,1054132428,0,MusikBot II,Boron arsenide,Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]])
+2023-11-06T16:47:52+00:00,1183807350,1177080557,0,Bernardirfan,Boron phosphide,"Incorrect unit of measurement (Confusing a/b×c with a/(b×c). The term a/b×c is not equal to a/(b×c), but to (a/b)×c!)"
+2021-11-22T20:05:32+00:00,1056614796,1054116285,0,WikiCleanerBot,Boron phosphide,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2017-12-17T20:00:09+00:00,815877396,815877100,0,131.179.59.57,Boron phosphide,/* Further reading */
+2020-09-16T00:28:50+00:00,978619238,967354595,0,Beland,Building insulation,convert special characters (via [[WP:JWB]])
+2019-10-25T14:23:03+00:00,922974888,922974597,0,Materialscientist,Building insulation,Reverted 1 edit by [[Special:Contributions/212.139.54.58|212.139.54.58]] identified as test/vandalism using [[WP:STiki|STiki]]
+2022-02-16T15:56:24+00:00,1072226232,1068387025,0,Holtseti,Building insulation,"/* In the United States of America */ Heading changed from ""In the United States of America"" to ""United States"""
+2022-11-18T15:33:27+00:00,1122620708,1122618772,0,Johnj1995,Building insulation,Undid revision 1122618772 by [[Special:Contributions/Vidmateapp1|Vidmateapp1]] ([[User talk:Vidmateapp1|talk]])
+2021-02-07T12:23:17+00:00,1005389701,1002015881,0,Narky Blert,Building insulation,Link to DAB page repaired
+2022-12-30T09:50:51+00:00,1130477660,1127758320,0,Eric Kvaalen,Building insulation material,"The text didn't reflect what the reference said, and the URL just gave a blank page."
+2022-06-01T20:50:05+00:00,1091039622,1089627290,0,Helper201,Building insulation,Added a link to the see also section.
+2023-10-02T00:32:15+00:00,1178172329,1165923416,0,BD2412,Building insulation material,"/* Types */Clean up spacing errors around ref tags., replaced: /ref>a → /ref> a"
+2023-01-19T13:22:41+00:00,1134596846,1134592595,0,MrOllie,Building material,Reverted 1 edit by [[Special:Contributions/Oluebube7|Oluebube7]] ([[User talk:Oluebube7|talk]]): Rv blog spam
+2019-11-13T14:37:24+00:00,925979106,925973963,0,Philroc,Building material,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Zohair sadikot|Zohair sadikot]] using [[WP:STiki|STiki]]: rv promotion of local business
+2024-01-04T02:07:28+00:00,1193486795,1191290378,0,OAbot,Graphene,[[Wikipedia:OABOT|Open access bot]]: hdl updated in citation with #oabot.
+2020-11-06T21:32:03+00:00,987411474,986990367,0,Y-S.Ko,Graphene,/* See also */
+2017-12-15T20:40:39+00:00,815596165,793385956,0,KolbertBot,Interfacial thermal resistance,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v478)
+2020-10-02T16:56:46+00:00,981491610,971948650,0,Senegal Parrots,Heat spreader,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Device that tends to equalize temperature over its surface"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2023-02-09T20:35:41+00:00,1138461140,1131269101,0,Citation bot,Interfacial thermal resistance,Add: pages. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Corvus florensis | #UCB_webform 1378/2999
+2018-10-15T23:15:17+00:00,864230732,864230671,0,Rheez,Interfacial thermal resistance,
+2020-08-22T06:23:06+00:00,974301654,973173995,0,42.106.10.168,Heat transfer,
+2022-09-30T16:07:48+00:00,1113260922,1102244947,0,JCW-CleanerBot,Interfacial thermal resistance,"[[User:JCW-CleanerBot#Logic|task]], replaced: Physica Status Solidi (A) → Physica Status Solidi A"
+2021-11-30T02:20:27+00:00,1057857826,1056848752,0,WikiCleanerBot,Interfacial thermal resistance,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2019-12-09T00:02:12+00:00,929900874,929149853,0,Forbes72,Interfacial thermal resistance,improve existing refs
+2018-06-11T08:38:40+00:00,845362102,844833026,0,Kku,Interfacial thermal resistance,link [[thermal conductivity]] using [[:en:User:Edward/Find link|Find link]]
+2023-04-06T21:35:10+00:00,1148552867,1138461140,0,Citation bot,Interfacial thermal resistance,Add: bibcode. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 67/3850
+2019-01-29T18:51:03+00:00,880828418,880828315,0,Fyrael,Heat transfer,Undid revision 880828315 by [[Special:Contributions/2A00:23C4:912:B01:198:45F0:52CB:C22D|2A00:23C4:912:B01:198:45F0:52CB:C22D]] ([[User talk:2A00:23C4:912:B01:198:45F0:52CB:C22D|talk]])
+2023-06-23T13:26:47+00:00,1161552734,1161552291,0,Citation bot,List of semiconductor materials,"Add: pages, volume, journal, year, title, doi, pmc, pmid, issue, authors 1-14. Changed bare reference to CS1/2. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Headbomb | #UCB_toolbar"
+2018-06-23T09:37:17+00:00,847159120,846998544,0,NicoScribe,List of semiconductor materials,Undid revision 846998544 by [[Special:Contributions/120.29.112.222|120.29.112.222]] ([[User talk:120.29.112.222|talk]]) ?
+2018-04-27T14:35:46+00:00,838517028,838415453,0,117.194.58.197,List of semiconductor materials,/* References */
+2022-11-09T08:26:36+00:00,1120875672,1120874135,0,Patriot1423,List of thermal conductivities,I corrected the shorthand notation W ⋅ m<sup>-1</sup> since it is W ⋅ m<sup>-1</sup> ⋅ K<sup>-1</sup>.
+2022-06-09T08:25:51+00:00,1092277369,1092276919,0,John Yunshire,List of semiconductor materials,Reverted 1 edit by [[Special:Contributions/2806:103E:D:A193:4982:463F:1CF7:FF57|2806:103E:D:A193:4982:463F:1CF7:FF57]] ([[User talk:2806:103E:D:A193:4982:463F:1CF7:FF57|talk]]) to last revision by Qwerfjkl (bot)
+2020-07-16T01:14:01+00:00,967904031,967573027,0,GreenC bot,List of thermal conductivities,Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-11-30T04:02:12+00:00,1187584508,1187202386,0,BhamBoi,List of thermal conductivities,/* Analytical list */ link article author to new page
+2018-03-25T18:08:06+00:00,832387670,829897033,0,Unbitwise,List of thermal conductivities,remove empty table cell making an extra column
+2020-03-22T02:45:34+00:00,946738145,945683073,0,Lepricavark,List of thermal conductivities,/* top */added short description
+2021-07-02T00:34:17+00:00,1031502902,995617845,0,2607:FEA8:1300:DBA:0:0:0:A,Nanoscale vacuum-channel transistor,
+2021-05-13T19:44:44+00:00,1023008223,1022506342,0,Dewritech,List of thermal conductivities,"/* Analytical list */clean up, [[WP:AWB/T|typo(s) fixed]]: 193-6 → 193–6 (24)"
+2019-12-19T01:39:31+00:00,931464347,930298549,0,InternetArchiveBot,Nanoscale vacuum-channel transistor,Bluelinking 1 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3
+2018-05-10T00:33:20+00:00,840456834,839644029,0,2601:1C0:6901:F96D:4591:5B6C:940E:AC06,Nanoscale vacuum-channel transistor,/* High speed */
+2020-09-03T04:22:47+00:00,976476976,956622973,0,Citation bot,Nanoscale vacuum-channel transistor,"Add: url, pmid, s2cid, author pars. 1-1. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by SemperIocundus | via #UCB_webform"
+2022-01-15T21:58:58+00:00,1065903754,1063484909,0,WikiCleanerBot,Nanoscale vacuum-channel transistor,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2019-09-07T11:33:21+00:00,914420726,907856269,0,InternetArchiveBot,Nanoscale vacuum-channel transistor,Bluelinking 1 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3
+2020-12-22T00:41:15+00:00,995617845,976476976,0,WikiCleanerBot,Nanoscale vacuum-channel transistor,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2017-09-13T06:42:11+00:00,800388503,799444958,0,Bibcode Bot,Nanoscale vacuum-channel transistor,"Adding 0 [[arXiv|arxiv eprint(s)]], 4 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2022-09-15T06:39:31+00:00,1110397386,1095722694,0,Gibranalnn,Nanoscale vacuum-channel transistor,Relocate link
+2023-05-08T11:54:24+00:00,1153801115,1153698673,0,Fephisto,Passive cooling,/* Radiative cooling */
+2022-06-17T15:20:18+00:00,1093585915,1093350527,0,Menchi,Passive cooling,distinguish [[template:transl|transliteration]] from [[template:lang#Rationale|lang tag]]
+2021-04-07T03:31:36+00:00,1016428786,959486447,0,Quantumislife1989,Phonon scattering,Added reference for electron-phonon scattering seen in semiconductor device behavior
+2018-12-04T04:46:02+00:00,871912595,871912494,0,208.38.230.68,Phonon scattering,
+2022-07-11T01:57:09+00:00,1097496970,1089527583,0,Citation bot,Phonon scattering,"Add: bibcode, arxiv, issue, s2cid. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | [[Category:Condensed matter physics]] | #UCB_Category 165/275"
+2020-05-29T01:07:43+00:00,959486447,951172577,0,InternetArchiveBot,Phonon scattering,Bluelink 1 book for [[Wikipedia:Verifiability|verifiability]] (prndis)) #IABot (v2.0.1) ([[User:GreenC bot|GreenC bot]]
+2019-03-03T08:08:05+00:00,885935970,871912595,0,Citation bot,Phonon scattering,"Alter: pages. Add: bibcode, issue, volume, pmid. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:Headbomb|Headbomb]]; [[Category:Scattering]]."
+2017-02-16T23:33:42+00:00,765882299,765507486,0,Primefac,Phonon scattering,Reverted edits by [[Special:Contribs/Fmadd|Fmadd]] ([[User talk:Fmadd|talk]]) to last version by 2601:2C6:4900:57E0:DDAD:B192:5CAC:F60E
+2018-06-11T08:21:09+00:00,845360421,832014779,0,Kku,Phonon scattering,link [[thermal conductivity]] using [[:en:User:Edward/Find link|Find link]]
+2019-08-29T18:16:16+00:00,913073092,913070412,0,130.113.129.36,Phonon scattering,"/* Boundary scattering */ The first equation was described incorrectly, where the parameter D was identified as the dimensionality of the system. In fact, D is the diameter of a cylindrical nanostructure. I have fixed this by replacing the expression with a more general form and providing the correct description. I have also added some information on the p parameter."
+2018-03-16T14:49:08+00:00,830716302,830664353,0,KAP03,Semiconductor,Cleaned up using [[WP:AutoEd|AutoEd]]
+2019-01-14T04:12:33+00:00,878319217,875859492,0,Dicklyon,Semiconductor,dash fix
+2022-11-01T18:49:27+00:00,1119463591,1119461568,0,115.96.144.23,Semiconductor,/* High thermal conductivity */
+2020-03-20T03:31:18+00:00,946433645,943976839,0,Citation bot,Semiconductor,Alter: title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:AManWithNoPlan]] | All pages linked from [[User:AManWithNoPlan/sandbox2]] | via #UCB_webform_linked
+2021-08-10T13:36:33+00:00,1038093320,1037233166,0,130.238.49.25,Thermal conductivity and resistivity,source reference provided
+2018-03-27T22:21:02+00:00,832770715,832770708,0,ClueBot NG,Thermal conductivity and resistivity,"Reverting possible vandalism by [[Special:Contribs/70.48.162.53|70.48.162.53]] to version by Kbrose. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3331656) (Bot)"
+2018-11-21T16:16:21+00:00,869976726,869976695,0,MaxwellMolecule,Thermal conductivity and resistivity,Undid revision 869974231 by [[Special:Contributions/2401:4900:36A4:BD7B:1:2:56DC:D802|2401:4900:36A4:BD7B:1:2:56DC:D802]] ([[User talk:2401:4900:36A4:BD7B:1:2:56DC:D802|talk]])
+2020-02-14T01:05:01+00:00,940688536,932281416,0,Indefatigable,Thermal conductivity and resistivity,Math notation tweaks
+2021-11-07T21:14:52+00:00,1054064247,1053795001,0,Indefatigable,Thermal conductivity and resistivity,/* Example calculation */ Add units so that equation is true.
+2023-10-14T14:52:43+00:00,1180101355,1179349602,0,Jeaucques Quœure,Thermal conductivity and resistivity,Added Infoboxes
+2020-12-15T05:09:09+00:00,994336782,994066541,0,Carchasm,Thermal conductivity and resistivity,removed [[Category:Concepts in physics]] using [[WP:HC|HotCat]] - already in subcategory
+2019-04-05T22:50:52+00:00,891138690,891138594,0,Rustic,Thermal conductivity and resistivity,Reverted 1 edit by [[Special:Contributions/71.197.225.44|71.197.225.44]] ([[User talk:71.197.225.44|talk]]) to last revision by OnceAndFutureFlopsy ([[WP:TW|TW]])
+2021-03-19T11:28:23+00:00,1012983037,1011106733,0,Adakiko,Thermal energy storage,"/* Thermo-chemical Heat Storage */ wikilink nitrosyl chloride, CaO, PbO, KO"
+2022-06-24T15:05:50+00:00,1094796875,1094796346,0,Citation bot,Thermal energy storage,Add: s2cid. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Horsesizedduck | #UCB_webform
+2018-11-22T13:34:58+00:00,870112869,866040353,0,87.190.243.142,Thermal energy storage,formatting
+2023-05-12T21:12:59+00:00,1154490476,1154118474,0,Citation bot,Thermal energy storage,"Alter: title. Add: s2cid, authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Eastmain | [[Category:Heating, ventilation, and air conditioning]] | #UCB_Category 215/247"
+2021-12-09T01:40:16+00:00,1059368678,1059367737,0,MusikBot II,Thermal interface material,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2019-03-19T16:04:04+00:00,888502357,883848297,0,2620:15C:280:0:ECD5:2E6:290F:62A2,Thermal interface material,
+2022-02-14T17:14:18+00:00,1071848269,1071848229,0,Realmartcraft,Thermal conductivity and resistivity,Reverted 1 edit by [[Special:Contributions/2409:4052:220A:FA68:8D20:BBEB:9D6E:7C3F|2409:4052:220A:FA68:8D20:BBEB:9D6E:7C3F]] ([[User talk:2409:4052:220A:FA68:8D20:BBEB:9D6E:7C3F|talk]]) to last revision by JoeNMLC
+2021-01-07T13:19:13+00:00,998882798,989949667,0,Kku,Thermal interface material,link [[thermal conductivity]] using [[:en:User:Edward/Find link|Find link]]
+2023-07-28T16:42:22+00:00,1167581061,1167138120,0,Citation bot,Thermal interface material,Add: bibcode. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by BorgQueen | [[Category:Materials science]] | #UCB_Category 35/428
+2021-08-23T04:32:12+00:00,1040194315,998882798,0,OAbot,Thermal interface material,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2017-12-16T14:43:04+00:00,815700743,803056138,0,42.107.87.184,Thermal interface material,Added one more material
+2020-11-21T22:59:38+00:00,989949667,989728822,0,Citation bot,Thermal interface material,Misc citation tidying. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | via #UCB_webform 30/210
+2023-12-12T23:57:57+00:00,1189617720,1189616833,0,MrOllie,Thermal interface material,Reverted 2 edits by [[Special:Contributions/MrsOllier|MrsOllier]] ([[User talk:MrsOllier|talk]]): Rv obvious block evader
+2022-08-21T11:48:52+00:00,1105711610,1059368678,0,Karengwes,Thermal interface material,thermal interface material (TIM)
+2018-11-15T14:46:43+00:00,868961505,866821090,0,Kuyabribri,Thermal management (electronics),/* Construction and materials */ corrected units per talk page request
+2018-07-11T19:35:37+00:00,849846028,837367191,0,A876,Thermal interface material,cleaned up some. +2 see-alsos. +3 categories.
+2020-01-03T10:09:35+00:00,933849169,929243650,0,Rjwilmsi,Thermal management (electronics),"/* Construction and materials */Journal cites:, added 1 PMID"
+2021-05-20T22:58:41+00:00,1024237338,1017371521,0,OlliverWithDoubleL,Thermal management (electronics),added short description
+2017-12-26T18:39:05+00:00,817181112,814527279,0,PrimeBOT,Thermal management (electronics),/* External links */remove [[UTM parameters]] (Google analytics) from URLs - [[Wikipedia:Bots/Requests for approval/PrimeBOT 17|BRFA]]
+2022-08-20T19:40:31+00:00,1105554774,1079994221,0,Citation bot,Thermal management (electronics),Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 2473/3836
+2022-03-29T19:18:10+00:00,1079994221,1054172221,0,MrOllie,Thermal management (electronics),rm vendor as source
+2023-09-18T21:07:57+00:00,1176007198,1176007102,0,A type of cabinet,Thermal management (electronics),Removed advertising
+2019-06-25T16:13:04+00:00,903421144,896592663,0,185.8.112.71,Thermal mass,Removed dead link
+2021-12-22T23:09:43+00:00,1061638040,1061636516,0,MaxEnt,Thermal management of high-power LEDs,add generalist blather to lead
+2020-04-13T22:12:08+00:00,950798894,943624540,0,OAbot,Thermal management of high-power LEDs,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2019-09-20T17:10:10+00:00,916790100,916734445,0,Keith D,Thermal management of high-power LEDs,Fix cite date error
+2018-04-03T01:47:14+00:00,833924897,781357996,0,2601:101:8200:50D0:39B6:E2C6:9483:C952,Thermal management of high-power LEDs,/* Package type */Fixed typo
+2021-04-28T17:47:35+00:00,1020362520,1020362054,0,Quondum,Thermal mass,nbsp; en dash
+2019-09-26T09:22:04+00:00,917959188,917868119,0,Monkbot,Thermal mass,/* Materials commonly used for thermal mass */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2022-12-24T17:15:47+00:00,1129309472,1114997612,0,Bikesrcool,Thermal mass,clarified complimentary roles of thermal inertia and thermal resistance/insulation in energy efficient building design
+2022-07-08T20:23:06+00:00,1097122255,1083313921,0,Oronsay,Thermal transport in nanostructures,/* Theoretical models for nanotubes */ added link
+2018-03-05T23:42:26+00:00,828988181,808442944,0,JCW-CleanerBot,Thermal transport in nanostructures,"/* Superlattices */[[User:JCW-CleanerBot#Logic|task]], replaced: Annu. Rev. Mater: Sci → Annu. Rev. Mater. Sci. using [[Project:AWB|AWB]]"
+2021-04-13T16:37:19+00:00,1017589793,978474941,0,Jonesey95,Tin selenide,"Fix empty citation, unnamed or unsupported parameter, or invalid parameter value using [[WP:AutoEd|AutoEd]]; see [[Help:CS1 errors]]. Fix cite title per source"
+2023-05-08T23:53:26+00:00,1153892482,1111108537,0,Sadads,Tin selenide,link [[material efficiency]] using [[:en:User:Edward/Find link|Find link]]
+2018-07-17T05:52:44+00:00,850651225,850651001,0,2601:646:8103:92DC:A5E4:5C17:A285:D69D,Tin selenide,
+2020-04-15T23:12:47+00:00,951189934,947099434,0,OAbot,Tin selenide,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-09-15T04:23:03+00:00,978474941,975467469,0,Citation bot,Tin selenide,"Add: pmid, s2cid, author pars. 1-1. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Chembox having DSD data]] | via #UCB_Category"
+2018-03-09T20:37:33+00:00,829632499,820765691,0,Bender the Bot,Tin selenide,"/* top */HTTP→HTTPS for [[Science Daily]], replaced: http://www.sciencedaily.com/ → https://www.sciencedaily.com/ using [[Project:AWB|AWB]]"
+2022-01-16T00:22:29+00:00,1065924275,1065363188,0,WikiCleanerBot,Tin selenide,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-11-08T13:43:20+00:00,1054171202,1054141796,0,Yamla,User talk:Cydames,Decline unblock
+2018-10-25T09:50:47+00:00,865656314,865655014,0,X201,User talk:MrOllie,Revert to revision 837329268 dated 2018-04-20 04:15:24 by Lowercase sigmabot III using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2022-07-05T21:47:18+00:00,1096658834,1096370676,0,84.229.167.218,User talk:MrOllie,/* recommender systems */ new section
+2021-01-04T19:39:40+00:00,998303385,998302392,0,MrOllie,User talk:MrOllie,/* Shmuley Boteach */
+2022-10-15T04:46:24+00:00,1116164762,1116136648,0,Lowercase sigmabot III,User talk:MrOllie,Archiving 2 discussion(s) to [[User talk:MrOllie/Archive 16]]) (bot
+2023-02-28T05:00:44+00:00,1142038243,1141966680,0,Lowercase sigmabot III,User talk:MrOllie,Archiving 1 discussion(s) to [[User talk:MrOllie/Archive 17]]) (bot
+2018-04-20T04:15:24+00:00,837329268,837213636,0,Lowercase sigmabot III,User talk:MrOllie,Archiving 2 discussion(s) to [[User talk:MrOllie/Archive 7]]) (bot
+2021-10-08T18:50:24+00:00,1048917377,1048916758,0,Widr,User talk:MrOllie,Reverted edits by [[Special:Contribs/Killtrigger|Killtrigger]] ([[User talk:Killtrigger|talk]]) to last version by MrOllie
+2019-05-23T13:03:01+00:00,898420331,898416102,0,MrOllie,User talk:MrOllie,/* advertising or promotion */
+2022-03-30T17:06:27+00:00,1080164338,1080153447,0,Yarillo-1,User talk:MrOllie,/* Fpv page records section. */ Reply
+2019-03-22T18:31:44+00:00,888991954,888991351,0,Wwsurfers,User talk:MrOllie,/* Replying MrOllie on His Reverting Actions on Dubai Mall and Dubai Trolley */
+2021-09-19T21:59:32+00:00,1045302530,1045279044,0,LifeDancePro,User talk:MrOllie,/* Your reverts */ new section
+2022-01-06T04:53:01+00:00,1064020901,1063976447,0,Lowercase sigmabot III,User talk:MrOllie,Archiving 2 discussion(s) to [[User talk:MrOllie/Archive 14]]) (bot
+2022-09-07T22:01:20+00:00,1109088906,1109070282,0,MrOllie,User talk:MrOllie,[[User:Technical 13/1CA|OneClickArchiver]] archived [[Special:Diff/1109088903|Multi stage fitness test]] to [[User talk:MrOllie/Archive 16#Multi stage fitness test|User talk:MrOllie/Archive 16]]
+2019-10-22T19:54:33+00:00,922542821,922542788,0,BonzoFestoon,User talk:MrOllie,/* User talk:BonzoFestoon */
+2021-09-25T09:05:24+00:00,1046368727,1046368652,0,A1avidreader,User talk:MrOllie,/* Edited Article/Removed Article */ new section
+2021-04-16T04:36:36+00:00,1018077063,1017926995,0,Lowercase sigmabot III,User talk:MrOllie,Archiving 2 discussion(s) to [[User talk:MrOllie/Archive 12]]) (bot
+2022-08-26T04:58:57+00:00,1106733120,1106725144,0,Lowercase sigmabot III,User talk:MrOllie,Archiving 2 discussion(s) to [[User talk:MrOllie/Archive 16]]) (bot
+2023-04-15T04:57:38+00:00,1149903517,1149844407,0,Lowercase sigmabot III,User talk:MrOllie,Archiving 1 discussion(s) to [[User talk:MrOllie/Archive 17]]) (bot
+2020-07-10T17:24:56+00:00,967023193,967023142,0,MrOllie,User talk:MrOllie,Reverted 1 edit by [[Special:Contributions/Siddharthbrol|Siddharthbrol]] ([[User talk:Siddharthbrol|talk]]) to last revision by MrOllie ([[WP:TW|TW]])
+2019-12-31T13:50:13+00:00,933364606,933363430,0,MrOllie,User talk:MrOllie,Reverted 1 edit by [[Special:Contributions/37.231.92.234|37.231.92.234]] ([[User talk:37.231.92.234|talk]]) to last revision by MrOllie ([[WP:TW|TW]])
+2023-12-10T05:13:10+00:00,1189172698,1189133938,0,Lowercase sigmabot III,User talk:MrOllie,Archiving 1 discussion(s) to [[User talk:MrOllie/Archive 18]]) (bot
+2021-12-20T17:19:27+00:00,1061260600,1061257832,0,MrOllie,User talk:MrOllie,/* Dr Mccullogh misinformation */ Reply
+2021-05-20T12:51:37+00:00,1024155421,1024155286,0,MrOllie,User talk:MrOllie,Reverted 1 edit by [[Special:Contributions/Rssushsusysg|Rssushsusysg]] ([[User talk:Rssushsusysg|talk]]) to last revision by MrOllie
+2020-09-10T04:48:40+00:00,977655790,977591778,0,Lowercase sigmabot III,User talk:MrOllie,Archiving 2 discussion(s) to [[User talk:MrOllie/Archive 11]]) (bot
+2021-11-09T15:23:30+00:00,1054355421,1054121172,0,Vanjagenije,Wikipedia:Sockpuppet investigations/Andymsci,Archiving case section to [[:w:en:Wikipedia:Sockpuppet investigations/Andymsci/Archive]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2023-08-31T16:26:40+00:00,1173153799,1171919084,0,RaincoatDance,Allotropes of phosphorus,/* Black phosphorus */ grammar
+2023-05-02T10:19:23+00:00,1152792773,1152792442,0,GuccizBud,Allotropes of phosphorus,/* Phosphorus nanorods */ Copy edit ▸ MTCE tags ▸ Redaction of redundant clarification request.
+2021-06-29T03:36:37+00:00,1030982198,1030845072,0,Smokefoot,Allotropes of phosphorus,"recent, different, reduce"
+2017-09-11T19:43:30+00:00,800149176,797163560,0,2610:E0:A040:CDFD:7D99:EC92:7966:2BB8,Ballistic conduction,
+2017-03-22T21:58:25+00:00,771674735,768992335,0,Equinox,Allotropes of phosphorus,
+2020-05-14T15:11:22+00:00,956655698,955366985,0,89.15.237.24,Allotropes of phosphorus,/* Non-existence of cubic-P8 */
+2023-01-30T01:49:25+00:00,1136380879,1116121916,0,Dabed,Boron arsenide,"/* Properties */ +""It has been reported that subjected to high high pressure BAs decrease its thermal conductivity contrary to the typical increase seen in most materials.""+2 ref"
+2019-02-27T10:11:29+00:00,885329154,882803822,0,79.70.246.64,Allotropes of phosphorus,/* Production and applications */ Correction of chemical equation
+2019-04-21T15:38:04+00:00,893469625,893469501,0,103.110.217.178,Allotropes of phosphorus,/* Production and applications */
+2023-06-16T11:59:38+00:00,1160429163,1156895065,0,78.128.186.139,Allotropes of phosphorus,/* Black phosphorus */ update about black phosphorus based sensors and citation
+2018-07-22T19:39:30+00:00,851506658,851294049,0,Dirac66,Allotropes of phosphorus,/* Blue phosphorus */ 1.Completed details of reference using Template:Cite journal  2.Added 1-sentence summary
+2018-06-08T16:03:18+00:00,844993103,842842637,0,98.242.97.153,Allotropes of phosphorus,/* Applications */
+2021-01-01T14:22:44+00:00,997634025,997401369,0,Yobot,Allotropes of phosphorus,"/* Hittorf's violet phosphorus */Removed invisible unicode characters + other fixes (Task 55), replaced: →   (2)"
+2019-06-10T20:34:51+00:00,901277558,900791822,0,Drsd1985,Boron arsenide,I added one more Reference about the defects in BAs crystal
+2017-11-23T01:25:43+00:00,811654301,798042507,0,Graeme Bartlett,Boron arsenide,chemspider
+2022-01-03T18:44:51+00:00,1063565512,1063565022,0,Alibbay,Boron arsenide,
+2021-12-18T05:54:59+00:00,1060874160,1059416432,0,DePiep,Boron arsenide,[[:Category:Multiple Chemboxes]]
+2017-03-13T21:20:10+00:00,770173479,769754360,0,Twirlip,Boron arsenide,/* Applications */ Re-order of wording
+2020-04-19T17:48:42+00:00,951933713,951933592,0,BetatronRadiation,Boron arsenide,/* Applications */ Clarifying ambiguous units
+2019-03-02T06:31:38+00:00,885773304,815877396,0,The Nth User,Boron phosphide,/* top */ Added SMILES to infobox
+2018-01-12T18:24:57+00:00,820035723,820035703,0,My name is not dave,Building insulation,Reverted edits by [[Special:Contribs/216.21.169.183|216.21.169.183]] ([[User talk:216.21.169.183|talk]]) to last version by InternetArchiveBot
+2023-03-19T19:55:37+00:00,1145557652,1145557624,0,Khrincan,Building insulation,Reverted 2 edits by [[Special:Contributions/2A00:23EE:1180:B30B:7C93:AD60:FFFA:FD87|2A00:23EE:1180:B30B:7C93:AD60:FFFA:FD87]] ([[User talk:2A00:23EE:1180:B30B:7C93:AD60:FFFA:FD87|talk]]) to last revision by Anderjef
+2022-08-05T06:34:06+00:00,1102466605,1091039622,0,Vikaskumar21,Building insulation,
+2022-07-16T00:14:15+00:00,1098466729,1095999008,0,KConWiki,Building insulation material,
+2022-03-18T20:54:39+00:00,1077905545,1072226232,0,2600:100A:B001:110C:3022:45E9:4C1A:7615,Building insulation,Fixed grammar
+2021-09-02T15:12:06+00:00,1041966128,1041965829,0,Hko2333,Building insulation,Necessary comma added
+2019-08-17T21:46:14+00:00,911288626,911132638,0,Susmuffin,Building insulation,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/2A02:C7F:D605:E00:2487:AA96:E2F2:AB76|2A02:C7F:D605:E00:2487:AA96:E2F2:AB76]] using [[WP:STiki|STiki]]
+2020-04-25T16:56:01+00:00,953084149,951297656,0,Rodw,Building insulation material,Disambiguating links to [[Enovate]] (link changed to [[Pentafluoropropane]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-10-19T14:48:35+00:00,984326838,984326478,0,Redav,Building insulation material,"/* Types */ , Volatile organic compounds (VOCs) Many → , volatile organic compounds (VOCs). Many {orthography; punctuation}; its extremely toxic → it is extremely toxic {grammar}"
+2021-07-11T21:20:51+00:00,1033141273,1033141090,0,C.Fred,Building material,Reverted edits by [[Special:Contribs/Tanzy21|Tanzy21]] ([[User talk:Tanzy21|talk]]) to last version by ClueBot NG
+2018-09-14T17:06:20+00:00,859534810,850705178,0,198.97.67.51,Building material,Undid revision 821141311 by [[Special:Contributions/165.225.106.59|165.225.106.59]] ([[User talk:165.225.106.59|talk]])
+2020-07-13T18:48:49+00:00,967521505,967473932,0,Ponor,Graphene,don't confuse hexagonal tiling with one atom in each vertex with hexagonal lattice; hexagonal Bravais lattice of graphene has two atoms in unit cell!
+2018-08-05T13:22:23+00:00,853539486,853449137,0,GünniX,Graphene,v1.43 - [[WP:WCW]] project (Reference duplication)
+2019-06-16T11:05:52+00:00,902075117,899047856,0,I dream of horses,Heat spreader,"Standard AWB cleanup, removed stub tag"
+2022-01-10T15:20:47+00:00,1064858037,1057857826,0,589q,Interfacial thermal resistance,ISSN of the reference
+2019-06-02T14:32:13+00:00,899959303,895636986,0,CAPTAIN RAJU,Heat transfer,Reverted 1 edit by [[Special:Contributions/136.56.41.197|136.56.41.197]] identified as test/vandalism using [[WP:STiki|STiki]]
+2018-02-16T00:54:37+00:00,825890436,825890401,0,Sakura Cartelet,Heat transfer,Reverted edits by [[Special:Contribs/2600:1:F40D:8A3A:E1B4:6D67:C426:ECF4|2600:1:F40D:8A3A:E1B4:6D67:C426:ECF4]] ([[User talk:2600:1:F40D:8A3A:E1B4:6D67:C426:ECF4|talk]]) to last version by Simplexity22
+2022-03-07T13:38:00+00:00,1075752188,1075752112,0,Serols,Heat transfer,Reverted edits by [[Special:Contributions/2409:4071:2019:E824:A01D:66FF:87C8:75A1|2409:4071:2019:E824:A01D:66FF:87C8:75A1]] ([[User talk:2409:4071:2019:E824:A01D:66FF:87C8:75A1|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2017-07-14T12:43:37+00:00,790544552,790543240,0,Vsmith,Heat transfer,Reverted to revision 790434258 by [[Special:Contributions/BD2412|BD2412]] ([[User talk:BD2412|talk]]): Poorly worded ... no. ([[WP:TW|TW]])
+2016-06-01T21:25:25+00:00,723238212,719377253,0,GrahamHardy,Interfacial thermal resistance,-sort
+2019-10-28T05:13:01+00:00,923381429,864230732,0,Sun Creator,Interfacial thermal resistance,"/* Liquid helium interfaces */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: wasn’t → wasn't"
+2017-10-14T08:23:41+00:00,805278128,799488553,0,178.151.189.28,List of semiconductor materials,/* Types of semiconductor materials */
+2021-04-01T22:34:09+00:00,1015516156,1015514526,0,Comp.arch,List of semiconductor materials,"""molecular beam"" isn't always with hyphen at target. US English: vapor (vs. vapour). [[Liquid-phase epitaxy]]?"
+2018-02-01T21:08:42+00:00,823535775,822470121,0,Arbor to SJ,List of semiconductor materials,+citation
+2021-09-07T21:28:25+00:00,1043004091,1042658551,0,JohnFromPinckney,List of semiconductor materials,lenghy->lengthy - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2017-04-19T13:19:59+00:00,776183841,776183808,0,ⵆ,List of thermal conductivities,Undid revision 776183808 by [[Special:Contributions/2606:A000:690C:2B00:3CC3:9EA0:1779:9924|2606:A000:690C:2B00:3CC3:9EA0:1779:9924]] ([[User talk:2606:A000:690C:2B00:3CC3:9EA0:1779:9924|talk]])
+2017-11-13T06:55:06+00:00,810080435,808437560,0,NihlusBOT,List of thermal conductivities,Bot: fix deprecated Citation Style 1 parameters ([[Wikipedia:Bots/Requests for approval/NihlusBOT 9|Task 9]])
+2020-01-07T03:43:39+00:00,934547967,931914701,0,Headbomb,List of thermal conductivities,"Alter: bibcode, journal. Add: date, chapter-url, pmid, issue, bibcode. Removed or converted URL. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this tool]] yourself. [[WP:DBUG|Report bugs here]]. | via #UCB_Gadget"
+2021-01-14T14:15:21+00:00,1000287875,997807991,0,Nikunj12387,List of thermal conductivities,/* Sortable list */ no need of rows
+2019-03-21T02:52:48+00:00,888741983,886102378,0,73.110.181.179,Nanoscale vacuum-channel transistor,/* Simplified operation */
+2023-10-23T13:17:20+00:00,1181506323,1179079234,0,Leyo,List of thermal conductivities,format
+2020-05-14T10:51:22+00:00,956622973,951817371,0,Lycopene579,Nanoscale vacuum-channel transistor,/* Further reading */ Template: Electronic components
+2017-07-08T14:52:21+00:00,789631632,788063310,0,Ulflund,Nanoscale vacuum-channel transistor,/* High speed */ corrected formatting of numbers
+2019-02-20T12:26:09+00:00,884243380,883982976,0,Trappist the monk,List of thermal conductivities,/* Analytical List */ cite repair;
+2019-01-13T23:33:17+00:00,878267221,877054824,0,Timrollpickering,Nanoscale vacuum-channel transistor,Removing from [[Category:Articles created via the Article Wizard]] per [[Wikipedia:Categories for discussion/Log/2019 January 6]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2022-08-21T22:12:42+00:00,1105806333,1105806116,0,HLHJ,Passive cooling,/* Evaporative cooling */ spo;
+2021-11-14T06:49:26+00:00,1055161071,1054133373,0,Jarrod Baniqued,Passive cooling,
+2021-08-17T21:02:35+00:00,1039290704,1039290600,0,Ashiskundu174,Phonon scattering,
+2018-07-08T14:12:36+00:00,849369642,849369587,0,Shellwood,Passive cooling,Reverted edits by [[Special:Contributions/174.117.116.169|174.117.116.169]] ([[User talk:174.117.116.169|talk]]) ([[WP:HG|HG]]) (3.4.3)
+2022-01-17T17:34:23+00:00,1066290023,1065914762,0,2607:FEA8:3D80:6E30:44B6:765F:7139:E230,Phonon scattering,/* Boundary scattering */
+2019-07-20T09:41:16+00:00,907076550,900839799,0,Pelirojopajaro,Phonon scattering,/* Phonon-phonon scattering */ ce
+2022-01-29T17:32:55+00:00,1068660520,1068658156,0,Vsmith,Semiconductor,/* Germanium and silicon semiconductors */
+2020-11-04T20:43:25+00:00,987085712,986786510,0,MicroTransactions,Semiconductor,"Merge references to ""A History of the World Semiconductor Industry""."
+2019-01-01T22:18:19+00:00,876363070,873256993,0,Shinkolobwe,Thermal conductivity and resistivity,removed [[Category:Rubber properties]] using [[WP:HC|HotCat]]: reason: property not specific to rubber
+2019-10-04T10:34:04+00:00,919552469,919552359,0,153.145.176.122,Thermal conductivity and resistivity,/* Equations */ Punctuation corrections for clarity
+2021-05-28T20:33:50+00:00,1025664516,1025663286,0,ERCaGuy,Thermal conductivity and resistivity,"/* Conversion from specific to absolute units, and vice versa */ Add temperature gradient"
+2023-11-06T08:15:54+00:00,1183754839,1182940659,0,FinnSoThin,Semiconductor,
+2022-10-19T00:36:18+00:00,1116915370,1113200538,0,Strayan,Thermal conductivity and resistivity,"Corrected spelling of SI unit watts per metre-kelvin. SI does not recognise the US spelling 'meter', only the spelling metre, centimetre etc"
+2021-03-10T16:21:03+00:00,1011384061,1011375712,0,Tom.Reding,Thermal conductivity and resistivity,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q487005|2 IDs]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2019-04-19T23:43:15+00:00,893234372,893216878,0,AnomieBOT,Thermal conductivity and resistivity,Dating maintenance tags: {{Clarify}}
+2023-03-24T09:02:52+00:00,1146343956,1144755161,0,143.55.60.20,Thermal conductivity and resistivity,/* Simple definition */
+2023-05-21T09:43:56+00:00,1156130090,1156125336,0,95.160.159.200,Thermal conductivity and resistivity,Undid revision 1156125336 by [[Special:Contributions/95.160.159.200|95.160.159.200]] ([[User talk:95.160.159.200|talk]])
+2018-07-10T04:08:28+00:00,849606737,844668183,0,Kanhaiya K Raj,Thermal conductivity and resistivity,/* Definitions */
+2017-04-28T19:08:53+00:00,777701839,771834436,0,151.241.151.52,Thermal energy storage,/* Endothermic/exothermic chemical reaction */
+2023-03-14T22:39:36+00:00,1144664178,1144656339,0,Bonadea,Thermal energy storage,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Yourdigitalbuddy|Yourdigitalbuddy]] ([[User talk:Yourdigitalbuddy|talk]]): Restore correct sentence structure
+2017-03-03T19:00:49+00:00,768427769,767651972,0,Magioladitis,Thermal energy storage,"Removed invisible unicode characters + other fixes, replaced: → using [[Project:AWB|AWB]]"
+2020-05-27T02:05:29+00:00,959081165,957271360,0,JohnMGuerra,Thermal energy storage,/* Molten-salt technology{{anchor|Molten_salt_technology}} */
+2022-09-19T08:42:34+00:00,1111099694,1110541937,0,Timpo,Thermal energy storage,/* Heat storage in hot rocks or concrete */ Add 1500ºc brick toaster
+2023-12-14T18:20:57+00:00,1189894907,1189599568,0,134.176.9.23,Thermal energy storage,/* MOST */
+2023-03-30T23:46:05+00:00,1147438624,1139871201,0,Dylan.shah.50,Thermal interface material,"Improve grammar & citations, expand the bullet points about thermal adhesive and metal TIMs"
+2020-04-18T16:06:18+00:00,951733504,888502357,0,SUM1,Thermal interface material,Updated links; grammar
+2017-01-28T00:19:39+00:00,762311028,710353905,0,"Me, Myself, and I are Here",Thermal interface material,"cap, punct."
+2018-04-20T11:33:52+00:00,837367191,815700743,0,Skony71,Thermal interface material,Added paragraph
+2017-01-28T00:19:16+00:00,762310977,762294394,0,"Me, Myself, and I are Here",Thermal management (electronics),/* Thermal interface material */ cap
+2023-01-07T14:28:53+00:00,1132153999,1105554774,0,RemotelyInterested,Thermal management (electronics),/* External links */ not passive
+2019-04-05T00:45:12+00:00,891006226,868961505,0,Trivialist,Thermal management (electronics),rm TM
+2018-11-26T19:23:13+00:00,870744008,833924897,0,99.237.112.45,Thermal management of high-power LEDs,minor copy editing
+2017-05-20T19:04:31+00:00,781357996,770343478,0,Wtshymanski,Thermal management of high-power LEDs,mention LED filament
+2021-01-08T22:10:40+00:00,999183401,998155261,0,Flobbadob,Thermal mass,
+2017-01-27T12:28:40+00:00,762220174,762219290,0,82.35.241.106,Thermal mass,/* External links */
+2017-07-02T15:11:40+00:00,788631565,762220174,0,WOSlinker,Thermal mass,convert param fix
+2018-11-04T13:40:08+00:00,867227513,865528745,0,Nemo bis,Thermal transport in nanostructures,Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot
+2020-01-29T20:05:07+00:00,938211972,938210201,0,Ponor,Tin selenide,"I don't see how this picture of a nanotube filled with SnSe of a different crystal structure is relevant. Also, sigmaaldrich has discontinued the product, the link to their page is now irrelevant."
+2022-07-07T06:23:17+00:00,1096878588,1094515864,0,RMCD bot,Tin selenide,Removing notice of move discussion
+2022-05-14T16:23:36+00:00,1087800960,1087782051,0,46.121.21.126,Tin selenide,/* Structure */
+2022-08-07T15:56:26+00:00,1102918135,1102678208,0,Nigel Cross,User talk:MrOllie,/* Design Thinking Lead */ Suggestion
+2023-07-12T04:55:22+00:00,1164961341,1164833160,0,Woovee,User talk:MrOllie,/* Regarding Dave Vanian in influences */
+2019-03-05T08:33:58+00:00,886282474,886260759,0,Somethingtoshare,User talk:MrOllie,/* Article Semantic Brand Score */
+2018-01-12T21:23:22+00:00,820060165,815787735,0,SherAsad,User talk:MrOllie,/* Removed NGO Names */ new section
+2023-08-02T02:58:25+00:00,1168322528,1168322429,0,General Ization,User talk:MrOllie,Reverted edit by [[Special:Contribs/86.190.221.194|86.190.221.194]] ([[User talk:86.190.221.194|talk]]) to last version by Lowercase sigmabot III
+2021-09-23T01:49:49+00:00,1045905389,1045905141,0,Paul Erik,User talk:MrOllie,Reverted edits by [[Special:Contribs/181.26.19.226|181.26.19.226]] ([[User talk:181.26.19.226|talk]]) to last version by MrOllie
+2021-08-16T06:00:42+00:00,1039021703,1039014684,0,Hossein309,User talk:MrOllie,/* deleting my external links in molecular dynamics page */ new section
+2021-02-01T18:59:46+00:00,1004249679,1004124415,0,2601:184:4A80:8180:219F:9BEF:C2C:B19B,User talk:MrOllie,/* CBIR entry */
+2019-10-10T17:10:21+00:00,920579186,920540763,0,C.Fred,User talk:MrOllie,/* Vandalism */ reply to Notrium; QSY my user talk or article talk
+2017-05-26T06:35:44+00:00,782331066,781726233,0,Esokullu,User talk:MrOllie,/* Removal of Software from Graph Theory */
+2019-03-03T10:17:10+00:00,885947893,885913539,0,ME2009,User talk:MrOllie,/* article Dream - addition: Historizing the Dream */ new section

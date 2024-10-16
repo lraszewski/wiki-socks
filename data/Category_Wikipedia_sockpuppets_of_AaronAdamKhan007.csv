@@ -1,0 +1,1362 @@
+timestamp,revid,parentid,sock,user,page,message
+2020-11-09T08:08:07+00:00,987793867,987771654,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-09T04:05:05+00:00,987771654,987771504,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-09T04:03:40+00:00,987771504,987771436,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-09T04:02:55+00:00,987771436,987754352,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-09T01:25:21+00:00,987754352,987754283,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-09T01:24:42+00:00,987754283,987754006,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */AOC
+2020-11-09T01:22:22+00:00,987754006,987753664,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-09T01:19:32+00:00,987753664,987753492,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-09T01:18:02+00:00,987753492,987753247,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */name
+2020-11-09T01:16:01+00:00,987753247,987753176,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-09T01:15:22+00:00,987753176,987752864,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */fixed alphabetical order
+2020-11-09T01:12:39+00:00,987752864,987752601,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Ref added for SWWA
+2020-11-09T01:10:04+00:00,987752601,987752444,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-09T01:08:43+00:00,987752444,987751260,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Emirates Sky Cargo and SF airlines offers and serves freighter services to DAC
+2020-11-09T00:59:15+00:00,987751260,987750894,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Alignment and name fixed
+2020-11-09T00:56:03+00:00,987750894,987748916,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */ref added
+2020-11-09T00:39:09+00:00,987748916,987748647,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Vistara offers DAC-DEL flights
+2020-11-09T00:36:31+00:00,987748647,987748268,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */GoAir offers DAC-CCU vv flights
+2020-11-09T00:33:13+00:00,987748268,987748205,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-09T00:32:35+00:00,987748205,987745056,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Cited  Biman route map reference
+2020-11-09T00:05:32+00:00,987745056,987744572,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */does not serve dxb
+2020-11-09T00:01:54+00:00,987744572,987744072,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Name correction
+2020-11-08T23:57:57+00:00,987744072,987743796,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Qatar Cargo serves Luxembourg and Zaragoza
+2020-11-08T23:55:28+00:00,987743796,987743657,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Doesn't serve AMS
+2020-11-08T23:54:05+00:00,987743657,987743587,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */doesn't serve CCU
+2020-11-08T23:53:27+00:00,987743587,987743428,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */No longer operates
+2020-11-08T23:52:06+00:00,987743428,987742754,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */EY 245 operates DAC-AUH flights
+2020-11-08T23:46:21+00:00,987742699,987741126,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T23:31:28+00:00,987741126,987741012,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-08T23:30:26+00:00,987741012,987740915,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T23:29:38+00:00,987740915,987740174,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-08T23:22:59+00:00,987740174,987739794,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T23:20:01+00:00,987739794,987739566,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T23:17:58+00:00,987739566,987739257,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-08T23:15:24+00:00,987739257,987738744,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-08T23:11:33+00:00,987738744,987738700,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-08T23:11:10+00:00,987738700,987738363,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-08T23:07:48+00:00,987738363,987738048,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T23:05:01+00:00,987738048,987737793,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T23:02:53+00:00,987737793,987737121,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T22:57:39+00:00,987737121,987736834,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T22:55:17+00:00,987736834,987736788,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-08T22:54:55+00:00,987736788,987736487,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T22:52:41+00:00,987736487,987735900,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T22:48:36+00:00,987735900,987735192,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-08T22:43:37+00:00,987735192,987734964,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-08T22:41:53+00:00,987734964,987734840,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-08T22:40:55+00:00,987734840,987734731,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T22:40:13+00:00,987734731,987640393,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-08T10:28:43+00:00,987640393,987414726,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-06T21:58:25+00:00,987414726,987368721,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-06T15:59:02+00:00,987368721,987364288,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */There is no such Cargo Airlines named Bismillah Airlines.
+2020-11-06T15:21:01+00:00,987364288,987363876,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */adding comma
+2020-11-06T15:17:36+00:00,987363876,987362453,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Updating Cargo section with scheduled freighter flights with reference. NB. Cargo flights are not Air bubble flights
+2020-11-06T15:06:16+00:00,987362453,987362138,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-06T15:03:45+00:00,987362138,987361888,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-06T15:01:53+00:00,987361888,987361293,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-06T14:57:07+00:00,987361293,987361225,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-06T14:56:36+00:00,987361225,987360299,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-06T14:49:20+00:00,987360299,987359835,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Flight EY 245 operates twice weekly DAC-AUH sector
+2020-11-06T14:45:34+00:00,987359835,987359659,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Ethiopian Airlines cargo has freighter flights.
+2020-11-06T14:44:02+00:00,987359659,987358068,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Removing Air bubble flights
+2020-11-06T14:31:40+00:00,987358068,987351972,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-06T12:15:24+00:00,987344499,987344263,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Added reference for Saudia Cargo
+2020-11-06T12:12:35+00:00,987344263,987343730,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Added reference for Etihad Cargo
+2020-11-06T12:06:41+00:00,987343730,987343412,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Added reference for Silk Way Airlines
+2020-11-06T12:03:23+00:00,987343412,987342833,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Added reference for Sky Gates Airlines
+2020-11-06T11:57:38+00:00,987342833,987342780,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-06T11:57:01+00:00,987342780,987342508,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Added reference for Cathay Pacific Cargo.
+2020-11-06T11:53:47+00:00,987342508,987308987,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Kunming Airlines operates daily flights between Kunming and Dhaka.
+2020-11-06T05:41:52+00:00,987308987,987308940,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-06T05:41:19+00:00,987308940,987260344,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Saudia has Cargo flights to Riyadh
+2020-11-05T22:36:25+00:00,987260344,987260016,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Reference for SIA Cargo
+2020-11-05T22:34:00+00:00,987260016,987259893,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */clean the mess
+2020-11-05T22:33:03+00:00,987259893,987259317,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Lufthansa Cargo
+2020-11-05T22:28:13+00:00,987259317,987259254,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */omitted comma
+2020-11-05T22:27:39+00:00,987259254,987259081,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Missed Lux
+2020-11-05T22:26:09+00:00,987259081,987258166,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */more BH freighter routes according to the cargo carrier's website
+2020-11-05T22:19:31+00:00,987258166,987257680,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */added more Cargo routes according to the freighter's website
+2020-11-05T22:15:10+00:00,987257680,987256771,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */BH Freighter routes
+2020-11-05T22:08:05+00:00,987256771,987255230,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Reference added for HK Airlines cargo
+2020-11-05T21:55:58+00:00,987255230,987254412,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */SF airlines has Cargo flights to China from Dhaka
+2020-11-05T21:49:44+00:00,987254412,987253775,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Korean Air serves freighter services to Dhaka
+2020-11-05T21:44:34+00:00,987253775,987253305,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Etihad resumes Dhaka flights
+2020-11-05T21:41:12+00:00,987253305,987253209,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T21:40:27+00:00,987253209,987252638,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Ceased operations
+2020-11-05T21:36:08+00:00,987252638,987251705,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */MASKARGO operates freighter to DAC
+2020-11-05T21:29:06+00:00,987251705,987251059,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Cited reference for Turkish Airlines Cargo
+2020-11-05T21:23:37+00:00,987251059,987250316,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Cited reference
+2020-11-05T21:17:49+00:00,987250316,987250198,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-05T21:16:48+00:00,987250198,987249224,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Cited reference for Qatar Airways Cargo
+2020-11-05T21:09:39+00:00,987249224,987248321,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Emirates SkyCargo has resumed Cargo services to Dhaka
+2020-11-05T21:03:31+00:00,987248321,987248175,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Saudia Cargo do not serve Riyadh
+2020-11-05T21:02:38+00:00,987248175,987242859,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */Qatar Cargo serves Luxembourg and Zaragoza from Dhaka.
+2020-11-05T20:26:30+00:00,987242859,987241394,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Arranging alphabetical order
+2020-11-05T20:16:32+00:00,987241394,987241284,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Adding comma
+2020-11-05T20:15:48+00:00,987241284,987240756,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Biman is launching MAA flights
+2020-11-05T20:11:47+00:00,987240756,987240443,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Vistara is serving DAC-DEL flights
+2020-11-05T20:09:36+00:00,987240443,987239981,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */GoAir is operating  DAC-CCU flights.
+2020-11-05T20:06:14+00:00,987239981,987239702,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,"/* Passenger */Maldivian has axed fifth freedom flights to Chennai and  now operates direct flights to Malé, Maldives"
+2020-11-05T20:04:15+00:00,987239702,987239416,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Fixed references and added new Indian routes.
+2020-11-05T19:58:28+00:00,987238760,987236771,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Iraqi Airways operates scheduled flights to Baghdad. (Non Air bubble)
+2020-11-05T19:46:01+00:00,987236771,987235665,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Corrected reference.
+2020-11-05T19:38:02+00:00,987235665,987235208,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Rectified the MAI mistake. Sorry
+2020-11-05T19:34:30+00:00,987235208,987234159,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */MAI offers Dhaka-Yangon flights (Flight 8M 651) and Dhaka-Kolkata fifth freedom flights (Flight 8M 650)
+2020-11-05T19:26:42+00:00,987234159,987233955,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T19:25:20+00:00,987233955,987233844,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T19:24:46+00:00,987233844,987226812,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */China Eastern offers Beijing flights.
+2020-11-05T18:36:36+00:00,987226812,987226481,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Suspension reference removed as Emirates already resumed flights.
+2020-11-05T18:34:31+00:00,987226481,987225587,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,"/* Passenger */Asiana operates one weekly charter flights to Seoul since Nov 15, 2019 even before  COVID 19  hence this is not an air bubble flight."
+2020-11-05T18:28:19+00:00,987225587,987225211,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Biman has already resumed flights to kuwait
+2020-11-05T18:25:29+00:00,987225211,987224718,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */FlyDubai has already resumed flights to Dhaka from Dubai and this is not an air bubble flight.
+2020-11-05T18:22:09+00:00,987224718,987223851,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Jazeera Airways has already launched new services to Dhaka to Kuwait which is not an air bubble flight.
+2020-11-05T18:15:58+00:00,987223708,987223309,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Removing old references  which are no longer required as these flights have been already operating over 12 months
+2020-11-05T18:13:20+00:00,987223309,987223119,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Emirates has already resumed flights so removed the suspension reference.
+2020-11-05T18:11:53+00:00,987223119,987222404,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Biman has Already resumed flights to Kuwait
+2020-11-05T18:02:00+00:00,987221667,987221521,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Air Arabia has already launched regular scheduled  (non Air bubble) Dhaka- Ras Al Khaimah flights
+2020-11-05T17:56:36+00:00,987220850,987218845,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */Kuwait Airways has already resumed flights to DAC.
+2020-11-05T17:51:59+00:00,987220223,987220124,1,AaronAdamKhan007,User talk:LeoFrank,
+2020-11-05T17:51:18+00:00,987220124,987142214,1,AaronAdamKhan007,User talk:LeoFrank,/* Stop removing scheduled flights (non Air bubble) from DAC airport. */ new section
+2020-11-05T16:50:25+00:00,987210906,987210365,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T16:47:13+00:00,987210365,987210018,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T16:45:15+00:00,987210018,987209867,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T16:44:12+00:00,987209867,987209617,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-05T16:42:39+00:00,987209617,987209284,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T16:40:31+00:00,987209284,987208519,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-05T16:35:48+00:00,987208519,987208374,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T16:34:49+00:00,987208374,987204007,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-05T16:02:20+00:00,987204007,987202951,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T15:54:22+00:00,987202951,987202706,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T15:52:23+00:00,987202706,987201875,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T15:45:19+00:00,987201875,987201692,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T15:43:46+00:00,987201692,987201282,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T15:40:09+00:00,987201282,987200783,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T15:35:29+00:00,987200783,987200277,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T15:31:20+00:00,987200277,987198484,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T15:16:26+00:00,987198484,987197494,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T15:08:25+00:00,987197494,987197436,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T15:07:56+00:00,987197436,987191199,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T14:15:16+00:00,987191199,987189220,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-05T14:04:11+00:00,987190034,986868453,1,AaronAdamKhan007,User talk:Doraemon25,/* User named LeoFrank Removing Airlines and destinations from DAC airport */ new section
+2020-11-05T13:56:44+00:00,987189220,987189062,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T13:55:11+00:00,987189062,987188868,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-05T13:52:55+00:00,987188868,987188561,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T13:49:46+00:00,987188561,987187001,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,"/* Passenger */LeoFrank, stop removing scheduled flights."
+2020-11-05T13:18:12+00:00,987185482,987185431,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T13:17:37+00:00,987185431,987182523,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-05T12:45:34+00:00,987182523,987179485,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T12:09:33+00:00,987179485,987178858,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T12:02:23+00:00,987178858,987178787,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-05T12:01:47+00:00,987178787,987178476,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:58:42+00:00,987178476,987177835,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:51:27+00:00,987177835,987176669,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T11:37:31+00:00,987176669,987175648,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:25:01+00:00,987175648,987175481,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:23:02+00:00,987175481,987175288,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Cargo */
+2020-11-05T11:20:46+00:00,987175288,987175113,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:18:36+00:00,987175113,987174988,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:17:09+00:00,987174988,987174743,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:14:27+00:00,987174743,987174591,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:12:51+00:00,987174591,987174160,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:08:27+00:00,987174160,987173774,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T11:04:17+00:00,987173774,987172999,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:57:09+00:00,987172999,987172709,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:54:08+00:00,987172709,987172610,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:53:00+00:00,987172610,987172167,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:48:21+00:00,987172167,987171979,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:46:17+00:00,987171979,987171589,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:42:14+00:00,987171589,987171273,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:39:07+00:00,987171273,987170988,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:35:51+00:00,987170988,987170774,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:33:25+00:00,987170774,987170603,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:31:50+00:00,987170603,987170371,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T10:29:40+00:00,987170371,987170290,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-05T10:28:52+00:00,987170290,987169992,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:25:57+00:00,987169992,987169774,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-05T10:23:34+00:00,987169774,987165543,1,AaronAdamKhan007,Hazrat Shahjalal International Airport,
+2020-11-03T00:38:24+00:00,986787532,986787474,1,AaronAdamKhan007,Cox's Bazar Airport,
+2020-11-03T00:38:00+00:00,986787474,986486502,1,AaronAdamKhan007,Cox's Bazar Airport,/* Passenger */
+2020-11-01T07:29:28+00:00,986500894,986500821,1,AaronAdamKhan007,Kabul International Airport,/* Passenger */
+2020-11-01T07:28:20+00:00,986500821,986500659,1,AaronAdamKhan007,Kabul International Airport,
+2020-11-01T07:25:50+00:00,986500659,981008213,1,AaronAdamKhan007,Kabul International Airport,/* Passenger */
+2020-10-31T10:05:15+00:00,986356260,985445207,1,AaronAdamKhan007,Wikipedia talk:WikiProject Airports,
+2020-10-30T23:07:00+00:00,986291035,986241022,1,AaronAdamKhan007,User talk:LeoFrank,
+2020-10-30T16:53:27+00:00,986238662,985878547,1,AaronAdamKhan007,Yangon International Airport,/* Passenger */
+2020-10-30T16:39:05+00:00,986236353,986230663,1,AaronAdamKhan007,User talk:LeoFrank,/* Update the Airlines and destinations section of DAC Airport */ new section
+2020-10-30T16:00:34+00:00,986230663,986162338,1,AaronAdamKhan007,User talk:LeoFrank,/* Don't remove information from DAC Airport and update it */ new section
+2020-10-30T11:40:32+00:00,986198154,986044281,1,AaronAdamKhan007,User talk:Rakibulbappy,/* PLEASE  UPDATE THE  AIRLINES   AND DESTINATIONS SECTION OF DHAKA AIRPORT */ new section
+2020-10-30T11:27:54+00:00,986196826,986196529,1,AaronAdamKhan007,Talk:Hazrat Shahjalal International Airport,/* Unblock page to update the airlines and destinations  section */ new section
+2020-10-30T11:24:44+00:00,986196529,986196224,1,AaronAdamKhan007,Talk:Hazrat Shahjalal International Airport,
+2020-10-30T11:22:00+00:00,986196224,982510678,1,AaronAdamKhan007,Talk:Hazrat Shahjalal International Airport,/* Edit Request: Update Airlines and Destinations and unblock page */ new section
+2021-10-16T06:46:10+00:00,1050172073,1050004379,1,Adamaaron007,User talk:ImSonyR9,/* Make a couple of omissions in Shahjalal International Airport Airlines and destinations section */ new section
+2021-10-16T06:40:32+00:00,1050171466,1050169513,1,Adamaaron007,Suvarnabhumi Airport,
+2021-10-16T06:22:35+00:00,1050169513,1050147024,1,Adamaaron007,Suvarnabhumi Airport,
+2021-10-16T01:12:45+00:00,1050139208,1048517843,1,Adamaaron007,Don Mueang International Airport,
+2021-10-16T01:03:59+00:00,1050138407,1050137910,1,Adamaaron007,Suvarnabhumi Airport,
+2021-10-16T00:58:18+00:00,1050137910,1050137686,1,Adamaaron007,Suvarnabhumi Airport,
+2021-10-16T00:55:44+00:00,1050137686,1050137233,1,Adamaaron007,Suvarnabhumi Airport,
+2021-10-16T00:50:50+00:00,1050137233,1050136890,1,Adamaaron007,Suvarnabhumi Airport,/* Passenger */
+2021-10-16T00:46:43+00:00,1050136890,1050136785,1,Adamaaron007,Suvarnabhumi Airport,
+2021-10-16T00:45:32+00:00,1050136785,1050136677,1,Adamaaron007,Suvarnabhumi Airport,
+2021-10-16T00:44:24+00:00,1050136677,1047352417,1,Adamaaron007,Suvarnabhumi Airport,/* Passenger */
+2021-10-14T17:56:35+00:00,1049927962,1048817754,1,Adamaaron007,User talk:ImSonyR9,/* Add missing Airlines in the Shahjalal International Airport Dhaka in the Airlines and destinations section */ new section
+2021-10-11T23:02:03+00:00,1049454751,1049454488,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-11T23:00:25+00:00,1049454488,1049453628,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-11T22:53:15+00:00,1049453628,1049453417,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-10-11T22:51:39+00:00,1049453417,1049237919,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-10-09T09:35:29+00:00,1049012193,1048106124,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-04T08:15:18+00:00,1048106124,1047548814,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-01T11:02:28+00:00,1047548814,1047484611,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-01T02:41:25+00:00,1047484611,1047484439,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-01T02:40:16+00:00,1047484439,1047484158,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-01T02:38:27+00:00,1047484158,1047483973,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-01T02:37:21+00:00,1047483973,1047483704,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-01T02:35:43+00:00,1047483704,1047483538,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-10-01T02:34:44+00:00,1047483538,1047483361,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-10-01T02:33:42+00:00,1047483361,1047277347,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-30T15:00:00+00:00,1047375445,1047364336,1,Adamaaron007,Bandaranaike International Airport,
+2021-09-30T13:41:40+00:00,1047364336,1047363890,1,Adamaaron007,Bandaranaike International Airport,/* Passenger */
+2021-09-30T13:38:20+00:00,1047363890,1047363656,1,Adamaaron007,Bandaranaike International Airport,
+2021-09-30T13:36:43+00:00,1047363656,1047363498,1,Adamaaron007,Bandaranaike International Airport,
+2021-09-30T13:35:39+00:00,1047363498,1047349236,1,Adamaaron007,Bandaranaike International Airport,
+2021-09-29T11:23:41+00:00,1047166500,1046684271,1,Adamaaron007,Dubai International Airport,/* Passenger */
+2021-09-29T10:00:50+00:00,1047158287,1047158214,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-29T10:00:14+00:00,1047158214,1047158089,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-29T09:58:49+00:00,1047158089,1047157076,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-29T09:50:06+00:00,1047157076,1046662708,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-27T03:09:55+00:00,1046716039,1045548684,1,Adamaaron007,Daniel K. Inouye International Airport,
+2021-09-26T20:50:39+00:00,1046662708,1046662155,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-26T20:46:57+00:00,1046662155,1046662080,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-26T20:46:27+00:00,1046662080,1046354054,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-25T05:15:33+00:00,1046342924,1045555028,1,Adamaaron007,Zayed International Airport,/* Passenger */
+2021-09-24T16:57:15+00:00,1046242205,1046241704,1,Adamaaron007,Shah Amanat International Airport,
+2021-09-24T16:53:58+00:00,1046241704,1045146043,1,Adamaaron007,Shah Amanat International Airport,/* Airlines and destinations */
+2021-09-24T16:19:08+00:00,1046235707,1046235274,1,Adamaaron007,Talk:Hazrat Shahjalal International Airport,
+2021-09-24T16:16:30+00:00,1046235274,1046232807,1,Adamaaron007,Talk:Hazrat Shahjalal International Airport,
+2021-09-24T16:02:01+00:00,1046232807,1045780587,1,Adamaaron007,Talk:Hazrat Shahjalal International Airport,/* Extended-confirmed-protected edit request on 24 September 2021 */ new section
+2021-09-23T16:15:50+00:00,1046031976,1046031606,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-23T16:13:45+00:00,1046031606,1045935590,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-23T05:11:59+00:00,1045935590,1045845605,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-22T18:56:21+00:00,1045845605,1045845063,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-22T18:53:26+00:00,1045845063,1045638235,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-21T16:38:58+00:00,1045638235,1045541401,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-21T16:10:29+00:00,1045633603,1045595515,1,Adamaaron007,Talk:Hazrat Shahjalal International Airport,/* Extended-confirmed-protected edit request on 21 September 2021 (2) */ new section
+2021-09-21T11:40:09+00:00,1045595515,1045593226,1,Adamaaron007,Talk:Hazrat Shahjalal International Airport,
+2021-09-21T10:47:31+00:00,1045589958,1041597472,1,Adamaaron007,Talk:Hazrat Shahjalal International Airport,/* Extended-confirmed-protected edit request on 21 September 2021 */ new section
+2021-09-21T04:18:42+00:00,1045548579,1045548435,1,Adamaaron007,Bangladeshi cricket team in South Africa in 2021–22,/* Test series */
+2021-09-21T04:17:05+00:00,1045548435,1045548346,1,Adamaaron007,Bangladeshi cricket team in South Africa in 2021–22,/* ODI series */
+2021-09-21T04:16:05+00:00,1045548346,1043366528,1,Adamaaron007,Bangladeshi cricket team in South Africa in 2021–22,/* ODI series */
+2021-09-21T03:07:30+00:00,1045541401,1045531536,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-21T02:27:26+00:00,1045536649,1045536297,1,Adamaaron007,Islamabad International Airport,
+2021-09-21T02:24:09+00:00,1045536297,1045528067,1,Adamaaron007,Islamabad International Airport,
+2021-09-21T01:44:08+00:00,1045531536,1045294771,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-21T01:12:07+00:00,1045528067,1045527756,1,Adamaaron007,Islamabad International Airport,
+2021-09-21T01:09:18+00:00,1045527756,1045527675,1,Adamaaron007,Islamabad International Airport,
+2021-09-21T01:08:36+00:00,1045527675,1045527489,1,Adamaaron007,Islamabad International Airport,
+2021-09-21T01:06:56+00:00,1045527489,1045526750,1,Adamaaron007,Islamabad International Airport,/* Passenger */
+2021-09-21T01:01:05+00:00,1045526750,1045526593,1,Adamaaron007,Islamabad International Airport,
+2021-09-21T00:59:42+00:00,1045526593,1045526536,1,Adamaaron007,Islamabad International Airport,
+2021-09-21T00:59:14+00:00,1045526536,1045128074,1,Adamaaron007,Islamabad International Airport,/* Passenger */
+2021-09-19T21:02:45+00:00,1045294771,1045209773,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-18T23:17:46+00:00,1045122462,1045122064,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-18T23:13:59+00:00,1045122064,1045121726,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-18T23:10:31+00:00,1045121726,1045041237,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-18T13:07:43+00:00,1045041237,1044755114,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-16T22:38:15+00:00,1044755114,1044554827,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-15T21:18:35+00:00,1044554827,1044375621,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-14T22:22:56+00:00,1044375621,1044169496,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-13T22:46:34+00:00,1044169496,1043934271,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-12T19:13:01+00:00,1043934271,1043933748,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-12T19:09:42+00:00,1043933748,1043775428,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-11T22:48:48+00:00,1043775428,1043775136,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-11T22:46:30+00:00,1043775136,1043774572,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-11T22:41:31+00:00,1043774572,1043562781,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-10T18:47:56+00:00,1043562781,1043462662,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-09T22:33:51+00:00,1043396346,1043395747,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-09T22:28:58+00:00,1043395747,1043345940,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-08T18:34:08+00:00,1043172385,1043171887,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-08T18:30:45+00:00,1043171887,1043171532,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-08T18:28:14+00:00,1043171532,1043171120,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-08T18:25:19+00:00,1043171120,1043170389,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-08T18:20:29+00:00,1043170389,1043170308,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-08T18:20:00+00:00,1043170308,1043170221,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-08T18:19:27+00:00,1043170221,1043170134,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-08T18:18:52+00:00,1043170134,1043170014,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-08T18:18:12+00:00,1043170014,1043169922,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-08T18:17:41+00:00,1043169922,1043167998,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-08T18:05:04+00:00,1043167998,1043009668,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-07T22:04:11+00:00,1043009668,1043009028,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-07T21:59:43+00:00,1043009028,1042756522,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-06T16:22:34+00:00,1042756522,1042755832,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-06T16:18:42+00:00,1042755832,1042707397,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-06T10:13:05+00:00,1042707397,1042680118,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-05T18:51:21+00:00,1042584769,1042584466,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-05T18:49:32+00:00,1042584466,1042583884,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-05T18:45:58+00:00,1042583884,1042583573,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-05T18:43:52+00:00,1042583573,1042492198,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-04T18:03:22+00:00,1042381304,1042381168,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-04T18:02:31+00:00,1042381168,1042380544,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-04T17:59:40+00:00,1042380544,1041993122,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-09-02T17:53:55+00:00,1041993122,1041993004,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-02T17:53:13+00:00,1041993004,1041992487,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-02T17:50:53+00:00,1041992487,1041992287,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-02T17:49:55+00:00,1041992287,1041970527,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-02T15:41:48+00:00,1041970527,1041970287,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-02T15:40:05+00:00,1041970287,1041969779,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-02T15:36:34+00:00,1041969779,1041945165,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-02T12:34:07+00:00,1041945165,1041805515,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-01T16:18:26+00:00,1041805515,1041805401,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-01T16:17:20+00:00,1041805401,1041805170,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-01T16:15:22+00:00,1041805170,1041805026,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-09-01T16:14:20+00:00,1041805026,1041646946,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-31T17:38:39+00:00,1041646946,1041590495,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-31T12:11:02+00:00,1041597472,1017523323,1,Adamaaron007,Talk:Hazrat Shahjalal International Airport,/* Airlines and destinations needs to be updated. */ new section
+2021-08-31T11:11:36+00:00,1041590495,1041590075,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-31T11:08:03+00:00,1041590075,1041391917,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-29T22:14:13+00:00,1041326917,1041300450,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-29T19:18:34+00:00,1041300450,1041300080,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-29T19:15:36+00:00,1041300080,1041299723,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-29T19:13:08+00:00,1041299723,1041207994,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-28T17:36:10+00:00,1041118278,1041118173,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-28T17:35:23+00:00,1041118173,1041117856,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-28T17:33:10+00:00,1041117856,1040775783,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-26T15:57:30+00:00,1040775783,1040775605,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-26T15:56:08+00:00,1040775605,1040775312,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-26T15:53:56+00:00,1040775312,1040628932,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-25T18:04:58+00:00,1040628932,1040628813,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-25T18:04:04+00:00,1040628813,1040628332,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-25T18:01:09+00:00,1040628332,1040628226,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-25T18:00:32+00:00,1040628226,1040463979,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-24T18:07:48+00:00,1040463979,1040463488,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-24T18:04:20+00:00,1040463488,1040463191,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-24T18:02:21+00:00,1040463191,1040296201,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-23T18:54:33+00:00,1040296201,1040295985,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-23T18:53:05+00:00,1040295985,1040295856,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-23T18:52:05+00:00,1040295856,1040295671,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-23T18:50:57+00:00,1040295671,1040295562,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-23T18:50:12+00:00,1040295562,1040219096,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-22T19:12:01+00:00,1040122232,1040121791,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-22T19:09:19+00:00,1040121791,1040121602,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-22T19:08:18+00:00,1040121602,1040121472,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-22T19:07:32+00:00,1040121472,1040121180,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-22T19:05:46+00:00,1040121180,1040120824,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-22T19:03:19+00:00,1040120824,1039942728,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-21T18:18:48+00:00,1039942728,1039942627,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-21T18:18:05+00:00,1039942627,1039942516,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-21T18:17:17+00:00,1039942516,1039942218,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-21T18:15:09+00:00,1039942218,1039942079,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-21T18:14:19+00:00,1039942079,1039890121,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-19T20:00:39+00:00,1039626704,1039626605,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-19T20:00:01+00:00,1039626605,1039589589,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-19T15:34:47+00:00,1039589589,1039589295,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-19T15:32:58+00:00,1039589295,1039589041,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-19T15:31:23+00:00,1039589041,1039449697,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-18T19:39:57+00:00,1039449697,1039449528,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-18T19:38:44+00:00,1039449528,1039449435,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-18T19:38:06+00:00,1039449435,1039449328,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-18T19:37:19+00:00,1039449328,1039449202,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-18T19:36:19+00:00,1039449202,1039449051,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-18T19:35:19+00:00,1039449051,1039448923,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-18T19:34:24+00:00,1039448923,1039448809,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-18T19:33:32+00:00,1039448809,1039448674,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-18T19:32:35+00:00,1039448674,1039282390,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-17T19:59:45+00:00,1039282390,1039277528,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-17T19:25:15+00:00,1039277528,1039218786,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-17T11:40:44+00:00,1039218786,1039189610,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-16T18:36:25+00:00,1039106471,1039106370,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-16T18:35:41+00:00,1039106370,1039106287,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-16T18:34:49+00:00,1039106287,1039106043,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-16T18:33:04+00:00,1039106043,1039105912,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-16T18:32:01+00:00,1039105912,1039105802,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-16T18:31:07+00:00,1039105802,1038775362,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-14T17:19:12+00:00,1038775362,1038775117,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-14T17:17:10+00:00,1038775117,1038774954,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-14T17:16:02+00:00,1038774954,1038774786,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-14T17:14:57+00:00,1038774786,1038774612,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-14T17:13:44+00:00,1038774612,1038706081,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-14T06:33:00+00:00,1038706081,1038638702,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-13T19:31:29+00:00,1038638702,1038617167,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-13T16:42:31+00:00,1038617167,1038563506,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-11T22:25:37+00:00,1038331707,1038331566,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-11T22:24:20+00:00,1038331566,1038331434,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-11T22:23:01+00:00,1038331434,1038331249,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-11T22:21:19+00:00,1038331249,1038330977,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-11T22:18:28+00:00,1038330977,1038301322,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-11T18:43:41+00:00,1038301322,1038262799,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-10T12:24:16+00:00,1038084556,1038059235,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-09T08:34:23+00:00,1037890090,1037889893,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-09T08:32:23+00:00,1037889893,1037889282,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-09T08:26:04+00:00,1037889282,1037889215,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-09T08:25:27+00:00,1037889215,1037889010,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-09T08:23:30+00:00,1037889010,1037888910,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-09T08:22:33+00:00,1037888910,1037888743,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-09T08:20:54+00:00,1037888743,1037888596,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-09T08:19:15+00:00,1037888596,1037888463,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-09T08:18:05+00:00,1037888463,1037726740,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-08T09:54:03+00:00,1037726740,1037726650,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-08T09:53:02+00:00,1037726650,1037716936,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-06T15:04:53+00:00,1037437103,1037419143,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T18:04:27+00:00,1037298832,1037298564,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T18:02:33+00:00,1037298564,1037298365,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T18:01:07+00:00,1037298365,1037298085,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T17:59:14+00:00,1037298085,1037297932,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T17:58:04+00:00,1037297932,1037297842,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T17:57:11+00:00,1037297842,1037297665,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T17:55:43+00:00,1037297665,1037297451,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-05T17:53:58+00:00,1037297451,1037271331,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T05:29:50+00:00,1037212259,1037212190,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T05:29:00+00:00,1037212190,1037212065,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T05:27:34+00:00,1037212065,1037211931,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T05:26:14+00:00,1037211931,1037211728,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-08-05T05:23:54+00:00,1037211728,1036888967,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-07-31T18:22:40+00:00,1036465276,1036449190,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-07-30T06:36:12+00:00,1036219754,1036171071,1,Adamaaron007,COVID-19 vaccination in Zimbabwe,/* Vaccine in order */
+2021-07-29T22:24:01+00:00,1036167120,1036156523,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-07-29T16:40:32+00:00,1036121702,1036117150,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-07-29T16:06:01+00:00,1036117150,1036107505,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-07-29T14:55:58+00:00,1036107505,1036067833,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-07-29T08:49:40+00:00,1036067833,1036067671,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-07-29T08:48:01+00:00,1036067671,1036067571,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-07-29T08:47:06+00:00,1036067571,1035711900,1,Adamaaron007,COVID-19 vaccination in Bangladesh,
+2021-07-27T07:45:05+00:00,1035711900,1035520608,1,Adamaaron007,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-06-30T15:50:33+00:00,1031251766,1026534516,1,Adamaaron007,LGBT rights in Bangladesh,/* Summary table */
+2021-06-25T21:33:26+00:00,1030430735,1030430686,1,Adamaaron007,Australian cricket team in Bangladesh in 2021,
+2021-06-25T21:33:10+00:00,1030430686,1030430625,1,Adamaaron007,Australian cricket team in Bangladesh in 2021,/* 4th T20I */
+2021-06-25T21:32:45+00:00,1030430625,1030430590,1,Adamaaron007,Australian cricket team in Bangladesh in 2021,/* 3rd T20I */
+2021-06-25T21:32:23+00:00,1030430590,1030430538,1,Adamaaron007,Australian cricket team in Bangladesh in 2021,
+2021-06-25T21:31:54+00:00,1030430538,1029863031,1,Adamaaron007,Australian cricket team in Bangladesh in 2021,/* 1st T20I */
+2021-05-23T00:40:06+00:00,1024580802,1022930607,1,Adamaaron007,2023 Thai general election,
+2021-05-22T12:25:22+00:00,1024487277,986117730,1,Adamaaron007,Talk:List of hypermarkets,/* Semi-protected edit request on 22 May 2021 */ new section
+2021-04-13T07:53:37+00:00,1017523323,1015930079,1,Kabirmoinbinsalim,Talk:Hazrat Shahjalal International Airport,/* Request for unblocking the page for editing purposes */ new section
+2020-11-17T10:19:00+00:00,989153309,989153193,1,Naziat,Talk:Hazrat Shahjalal International Airport,
+2020-11-17T10:17:35+00:00,989153193,989152927,1,Naziat,Talk:Hazrat Shahjalal International Airport,
+2020-11-17T10:14:17+00:00,989152927,988302788,1,Naziat,Talk:Hazrat Shahjalal International Airport,
+2021-04-08T22:12:47+00:00,1016758347,1016757941,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Cargo */
+2021-04-08T22:09:44+00:00,1016757941,1016757477,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-08T22:05:51+00:00,1016757477,1016649059,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-08T09:04:33+00:00,1016642952,1016636427,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-08T08:02:36+00:00,1016636427,1016636120,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-08T07:58:49+00:00,1016636120,1016624833,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-08T05:45:38+00:00,1016624833,1016561217,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Airlines and destinations */
+2021-04-07T19:20:39+00:00,1016547573,1016544641,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Cargo */
+2021-04-07T19:01:10+00:00,1016544641,1016544362,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T18:59:18+00:00,1016544362,1016544286,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T18:58:45+00:00,1016544286,1016544141,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T18:57:47+00:00,1016544141,1016544058,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Cargo */
+2021-04-07T18:57:11+00:00,1016544058,1016543831,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T18:55:48+00:00,1016543831,1016543452,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T18:53:21+00:00,1016543452,1016542880,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-07T18:49:45+00:00,1016542880,1016542811,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T18:49:16+00:00,1016542811,1016539431,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Airlines and destinations */
+2021-04-07T18:27:26+00:00,1016539431,1016496671,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-07T13:50:44+00:00,1016495399,1016495287,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T13:50:00+00:00,1016495287,1016495065,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Cargo */
+2021-04-07T13:48:35+00:00,1016495065,1016494956,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-07T13:47:48+00:00,1016494956,1016494875,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T13:47:18+00:00,1016494875,1016479384,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T11:51:23+00:00,1016479412,1016475843,1,Shahatshahbazshadman,Visa requirements for Bangladeshi citizens,/* Visa requirements */
+2021-04-07T11:21:36+00:00,1016475843,1016065467,1,Shahatshahbazshadman,Visa requirements for Bangladeshi citizens,/* Visa requirements */
+2021-04-07T08:07:45+00:00,1016455136,1016454414,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T08:00:42+00:00,1016454414,1016451825,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T07:31:54+00:00,1016451825,1016451498,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T07:28:03+00:00,1016451498,1016451089,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-07T07:23:20+00:00,1016451089,1016450981,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-07T07:22:16+00:00,1016450981,1016450739,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-07T07:19:10+00:00,1016450739,1016400601,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Airlines and destinations */
+2021-04-06T22:58:35+00:00,1016393050,1016383293,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Cargo */
+2021-04-06T21:47:58+00:00,1016383293,1016382496,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T21:42:53+00:00,1016382496,1016373026,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Cargo */
+2021-04-06T20:42:58+00:00,1016373026,1016370135,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Cargo */
+2021-04-06T20:24:15+00:00,1016370135,1016369696,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T20:21:19+00:00,1016369696,1016369572,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T20:20:29+00:00,1016369572,1016369437,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T20:19:39+00:00,1016369437,1016369122,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T20:17:22+00:00,1016369122,1016367607,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T20:07:23+00:00,1016367607,1016329175,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Airlines and destinations */
+2021-04-06T15:59:52+00:00,1016328017,1016325810,1,Shahatshahbazshadman,Biman Bangladesh Airlines,/* Current fleet */
+2021-04-06T15:45:40+00:00,1016325810,1016323661,1,Shahatshahbazshadman,Biman Bangladesh Airlines,/* Current fleet */
+2021-04-06T15:32:10+00:00,1016323661,1014667800,1,Shahatshahbazshadman,Biman Bangladesh Airlines,/* Current fleet */
+2021-04-06T15:27:47+00:00,1016322994,1016322673,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T15:26:26+00:00,1016322673,1016322243,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T15:23:41+00:00,1016322243,1016319086,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T15:03:53+00:00,1016319086,1016312654,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T14:20:16+00:00,1016312654,1016312557,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T14:19:39+00:00,1016312557,1016308746,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:50:47+00:00,1016308746,1016308621,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:49:49+00:00,1016308621,1016308377,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:47:56+00:00,1016308377,1016308201,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:46:37+00:00,1016308201,1016308101,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:45:52+00:00,1016308101,1016307669,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:42:27+00:00,1016307669,1016307533,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:41:30+00:00,1016307533,1016306198,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:31:14+00:00,1016306198,1016304176,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T13:16:49+00:00,1016304176,1016303999,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:15:39+00:00,1016303999,1016303886,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:14:55+00:00,1016303886,1016303660,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:13:09+00:00,1016303660,1016303492,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T13:12:06+00:00,1016303492,1016303136,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T13:10:04+00:00,1016303136,1016294737,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T11:48:02+00:00,1016293117,1016292675,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T11:43:35+00:00,1016292675,1016292337,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T11:40:18+00:00,1016292337,1016292101,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T11:37:51+00:00,1016292101,1016291988,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T11:36:45+00:00,1016291988,1016291548,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T11:32:42+00:00,1016291548,1016283392,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T10:22:10+00:00,1016282806,1016281142,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,
+2021-04-06T10:09:14+00:00,1016281142,1016280131,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T10:02:03+00:00,1016280131,1013420777,1,Shahatshahbazshadman,Hazrat Shahjalal International Airport,/* Passenger */
+2021-04-06T06:43:31+00:00,1016258243,1016257231,1,Shahatshahbazshadman,Queen Alia International Airport,/* Cargo */
+2021-04-06T06:33:10+00:00,1016257231,1016256777,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T06:27:29+00:00,1016256777,1016256695,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T06:26:17+00:00,1016256695,1016256624,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T06:25:23+00:00,1016256624,1016256460,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-06T06:23:29+00:00,1016256460,1016255842,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-06T06:16:08+00:00,1016255842,1016255607,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-06T06:13:37+00:00,1016255607,1016255233,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T06:09:49+00:00,1016255233,1016254969,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-06T06:07:01+00:00,1016254969,1016254680,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T06:03:50+00:00,1016254680,1016254207,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T05:59:08+00:00,1016254207,1016253871,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T05:55:19+00:00,1016253871,1016253377,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T05:49:22+00:00,1016253377,1016253162,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T05:46:31+00:00,1016253162,1016252318,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-06T05:37:23+00:00,1016252318,1016251595,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-06T05:28:19+00:00,1016251595,1016251457,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-06T05:26:26+00:00,1016251457,1016250852,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-06T05:19:07+00:00,1016250852,1016098921,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-05T11:09:00+00:00,1016098921,1016098853,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-05T11:08:09+00:00,1016098853,1016095632,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-05T10:33:58+00:00,1016095632,1016091781,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-05T09:57:05+00:00,1016091781,1016091616,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-05T09:55:14+00:00,1016091616,1016091279,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-05T09:52:05+00:00,1016091279,1016085388,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-05T08:54:08+00:00,1016085388,1016084795,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-05T08:49:24+00:00,1016084795,1016084025,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-05T08:43:36+00:00,1016084025,1016083526,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-05T08:39:44+00:00,1016083526,1016083220,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-05T08:37:25+00:00,1016083220,1016081959,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-05T08:26:48+00:00,1016081959,1016081521,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-05T08:23:04+00:00,1016081521,1016081465,1,Shahatshahbazshadman,Queen Alia International Airport,
+2021-04-05T08:22:40+00:00,1016081465,1016080723,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-05T08:16:38+00:00,1016080723,1015994919,1,Shahatshahbazshadman,Queen Alia International Airport,/* Passenger */
+2021-04-04T05:08:17+00:00,1015892948,1004801364,1,Shahatshahbazshadman,Talk:Hazrat Shahjalal International Airport,/* Request for unblocking the page for editing purposes */ new section
+2021-04-01T16:10:54+00:00,1015457903,1015457809,1,Shahatshahbazshadman,Dhaka Metro Rail,
+2021-04-01T16:10:19+00:00,1015457809,1015457682,1,Shahatshahbazshadman,Dhaka Metro Rail,/* Network */
+2021-04-01T16:09:22+00:00,1015457682,1015409091,1,Shahatshahbazshadman,Dhaka Metro Rail,
+2021-03-20T09:55:12+00:00,1013154517,1013140428,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-20T07:55:06+00:00,1013143898,1013142775,1,Vertexgodblessing,List of countries by GDP (nominal) per capita,
+2021-03-20T07:42:48+00:00,1013142775,1013142482,1,Vertexgodblessing,List of countries by GDP (nominal) per capita,
+2021-03-20T07:38:16+00:00,1013142482,1013141320,1,Vertexgodblessing,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-03-20T07:21:53+00:00,1013141320,1013130697,1,Vertexgodblessing,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-03-20T07:09:27+00:00,1013140428,1013140350,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-20T07:08:25+00:00,1013140350,1013140281,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-20T07:07:23+00:00,1013140281,1013140156,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-20T07:05:34+00:00,1013140156,1013139452,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-20T06:55:57+00:00,1013139452,1013138782,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-20T06:44:03+00:00,1013138466,1013138297,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-20T06:41:58+00:00,1013138297,1013138182,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-20T06:40:37+00:00,1013138182,1013137302,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-20T06:30:29+00:00,1013137302,1013137227,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-20T06:29:35+00:00,1013137227,1013136870,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-20T06:24:40+00:00,1013136870,1011761151,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T02:10:19+00:00,1010556034,1010555528,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Airlines and destinations */
+2021-03-06T02:07:32+00:00,1010555528,1010554577,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T02:02:24+00:00,1010554577,1010554011,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Airlines and destinations */
+2021-03-06T01:59:32+00:00,1010554011,1010553688,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T01:57:48+00:00,1010553688,1010553308,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T01:55:46+00:00,1010553308,1010552662,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T01:52:15+00:00,1010552662,1010550223,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T01:36:50+00:00,1010550223,1010549578,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T01:33:43+00:00,1010549578,1010549307,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T01:32:10+00:00,1010549307,1010547700,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T01:21:59+00:00,1010547700,1010547291,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T01:19:21+00:00,1010547291,1010547170,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T01:18:41+00:00,1010547170,1010544190,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T01:01:09+00:00,1010544190,1010543605,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T00:57:41+00:00,1010543605,1010543151,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T00:54:48+00:00,1010543151,1010542506,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T00:51:00+00:00,1010542506,1010540849,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T00:41:00+00:00,1010540849,1010540247,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T00:37:18+00:00,1010540247,1010539761,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T00:34:17+00:00,1010539761,1010538753,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T00:28:24+00:00,1010538753,1010538664,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T00:27:46+00:00,1010538664,1010538258,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Cargo */
+2021-03-06T00:25:12+00:00,1010538258,1010537861,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Cargo */
+2021-03-06T00:23:15+00:00,1010537861,1010537149,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-03-06T00:19:37+00:00,1010537149,1010536908,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-06T00:18:20+00:00,1010536908,1010533124,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-05T23:58:00+00:00,1010533124,1010533058,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-05T23:57:29+00:00,1010533058,1010532869,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-05T23:55:41+00:00,1010532869,1010532842,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-05T23:55:25+00:00,1010532842,1010532160,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Cargo */
+2021-03-05T23:49:32+00:00,1010532160,1010529597,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Cargo */
+2021-03-05T23:28:51+00:00,1010529597,1010529249,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-05T23:26:47+00:00,1010529249,1010529119,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-03-05T23:25:59+00:00,1010529119,1010225646,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-02-24T00:42:31+00:00,1008574145,1008573827,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-24T00:40:17+00:00,1008573827,1007505775,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-18T13:53:53+00:00,1007504705,1007496427,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-18T12:46:35+00:00,1007496427,1007495696,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Airlines and destinations */
+2021-02-18T12:40:51+00:00,1007495696,1007495507,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-02-18T12:39:18+00:00,1007495507,1007469077,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-02-17T12:20:53+00:00,1007306130,1007306070,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-17T12:20:13+00:00,1007306070,1007305976,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-17T12:19:05+00:00,1007305976,1007305720,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-17T12:16:34+00:00,1007305720,1007305435,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-17T12:13:26+00:00,1007305435,1006316090,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-02-08T22:33:47+00:00,1005679386,1005679135,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-08T22:32:07+00:00,1005679135,1005677615,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Cargo */
+2021-02-08T22:22:42+00:00,1005677615,1005677514,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-08T22:22:00+00:00,1005677514,1005676945,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-08T22:18:32+00:00,1005676945,1005676706,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-08T22:17:13+00:00,1005676706,1005676338,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-02-08T22:14:53+00:00,1005676338,1005222666,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-31T15:30:34+00:00,1003970259,1003912505,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-31T08:21:12+00:00,1003912505,1003912383,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Cargo */
+2021-01-31T08:20:15+00:00,1003912383,1003912320,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-31T08:19:43+00:00,1003912320,1003912081,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-31T08:17:55+00:00,1003912081,1003911733,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-31T08:15:22+00:00,1003911733,1003847827,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-31T00:07:03+00:00,1003847827,1003847549,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-31T00:05:35+00:00,1003847549,1003846914,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-31T00:02:21+00:00,1003846914,1003846622,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-31T00:01:07+00:00,1003846622,1003845653,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-30T23:54:50+00:00,1003845653,1003845523,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-30T23:54:04+00:00,1003845523,1003844305,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-30T23:45:05+00:00,1003844305,1003844050,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-30T23:43:35+00:00,1003844050,1003843767,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-30T23:41:49+00:00,1003843767,1003843488,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-30T23:40:08+00:00,1003843488,1003842630,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-30T23:34:02+00:00,1003842630,1003842161,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-30T23:30:56+00:00,1003842161,1003841810,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-30T23:28:40+00:00,1003841810,1000423167,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-16T04:56:19+00:00,1000675800,1000675600,1,Vertexgodblessing,Nursultan Nazarbayev International Airport,
+2021-01-16T04:54:39+00:00,1000675600,1000675488,1,Vertexgodblessing,Nursultan Nazarbayev International Airport,
+2021-01-16T04:53:43+00:00,1000675488,1000674815,1,Vertexgodblessing,Nursultan Nazarbayev International Airport,/* Passenger */
+2021-01-16T04:48:37+00:00,1000674815,1000253642,1,Vertexgodblessing,Nursultan Nazarbayev International Airport,/* Passenger */
+2021-01-13T08:27:13+00:00,1000049614,999995589,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-13T00:35:25+00:00,999995589,999995387,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-13T00:34:00+00:00,999995387,999993492,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-12T22:35:58+00:00,999978843,999974882,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-12T22:09:33+00:00,999974882,999919411,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Airlines and destinations */
+2021-01-12T14:30:53+00:00,999899172,999898613,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-12T14:26:57+00:00,999898613,999898540,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-12T14:26:25+00:00,999898540,999898466,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-12T14:25:54+00:00,999898466,999898061,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-12T14:23:11+00:00,999898061,999897928,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-12T14:22:36+00:00,999897928,999897825,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-12T14:21:48+00:00,999897825,999877942,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-12T07:15:44+00:00,999848555,999573112,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T07:23:15+00:00,999454272,999454150,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T07:22:03+00:00,999454150,999453582,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T07:16:23+00:00,999453582,999453079,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T07:11:26+00:00,999453079,999452432,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Airlines and destinations */
+2021-01-10T07:05:41+00:00,999452432,999452166,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T07:03:16+00:00,999452166,999451854,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T07:00:55+00:00,999451854,999451689,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T06:59:31+00:00,999451689,999451449,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T06:57:14+00:00,999451449,999450851,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T06:51:41+00:00,999450851,999450777,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T06:50:52+00:00,999450777,999450521,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T06:47:57+00:00,999450521,999450184,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T06:44:17+00:00,999450184,999449826,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T06:40:30+00:00,999449826,999449745,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T06:39:38+00:00,999449745,999449458,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T06:36:19+00:00,999449458,999449328,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T06:35:02+00:00,999449328,999449295,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T06:34:40+00:00,999449295,999447899,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T06:20:05+00:00,999447899,999447686,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T06:17:44+00:00,999447686,999447391,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T06:14:50+00:00,999447391,999447337,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T06:14:20+00:00,999447337,999447146,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-10T06:12:30+00:00,999447146,999371333,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-10T05:18:54+00:00,999441797,999440945,1,Vertexgodblessing,Jomo Kenyatta International Airport,
+2021-01-10T05:10:01+00:00,999440945,998598603,1,Vertexgodblessing,Jomo Kenyatta International Airport,
+2021-01-01T08:38:03+00:00,997593349,997593309,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-01T08:37:39+00:00,997593309,997572705,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-01T05:18:17+00:00,997573305,989153309,1,Vertexgodblessing,Talk:Hazrat Shahjalal International Airport,/* Request for Block User LeoFrank for vandalism and disruptive editing of Shahjalal International Airport. */ new section
+2021-01-01T05:12:03+00:00,997572705,997572544,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-01T05:10:39+00:00,997572544,997572151,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-01T05:07:08+00:00,997572151,997571891,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-01T05:04:41+00:00,997571891,997571662,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-01T05:02:43+00:00,997571662,997571424,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2021-01-01T05:00:40+00:00,997571424,997571345,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-01T05:00:08+00:00,997571345,997570926,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2021-01-01T04:56:49+00:00,997570926,997561820,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2020-12-31T17:50:15+00:00,997473062,997472980,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2020-12-31T17:49:45+00:00,997472980,997432815,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */leo frank don't remove non Air bubble flights otherwise you will be charged with vandalism. Prove by citing sources if they are Air bubble flights.
+2020-12-31T17:44:40+00:00,997472121,997432980,1,Vertexgodblessing,User talk:Vertexgodblessing,
+2020-12-31T10:22:19+00:00,997407420,997407357,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2020-12-31T10:21:53+00:00,997407357,997384535,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */Idiot LeoFrank removing non Air bubble flights.
+2020-12-30T10:19:45+00:00,997181890,997181612,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Passenger */
+2020-12-30T10:17:36+00:00,997181612,997180554,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Cargo */
+2020-12-30T10:09:12+00:00,997180554,997178965,1,Vertexgodblessing,Hazrat Shahjalal International Airport,/* Cargo */
+2020-12-30T09:56:08+00:00,997178965,997178737,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2020-12-30T09:54:06+00:00,997178737,997038623,1,Vertexgodblessing,Hazrat Shahjalal International Airport,
+2020-12-28T10:51:17+00:00,996741557,996741505,1,Vertexgodblessing,Banasree,
+2020-12-28T10:50:55+00:00,996741505,996128860,1,Vertexgodblessing,Banasree,
+2020-12-08T18:07:54+00:00,993081197,993040719,1,Vertexgodblessing,User talk:Tahsin Ahnav,
+2020-12-08T13:55:40+00:00,993040719,993040549,1,Vertexgodblessing,User talk:Tahsin Ahnav,
+2020-12-08T13:54:18+00:00,993040549,993039748,1,Vertexgodblessing,User talk:Tahsin Ahnav,
+2020-12-08T13:47:22+00:00,993039748,991569136,1,Vertexgodblessing,User talk:Tahsin Ahnav,/* Add some more missing Airlines and destinations at Shahjalal International Airport */ new section
+2020-11-12T10:16:12+00:00,988302788,988157612,1,Vertexgodblessing,Talk:Hazrat Shahjalal International Airport,/* Edit request: Unblock page to update Airlines and destinations section. */ new section
+2020-11-11T16:55:18+00:00,988185082,987454972,1,Vertexgodblessing,Workweek and weekend,/* Table */
+2020-11-11T13:06:49+00:00,988157612,988157527,1,Vertexgodblessing,Talk:Hazrat Shahjalal International Airport,
+2020-11-11T13:05:55+00:00,988157527,986241547,1,Vertexgodblessing,Talk:Hazrat Shahjalal International Airport,/* Some Airlines and destinations are missing */ new section
+2021-08-20T11:31:13+00:00,1039730781,1037944998,0,MusikBot II,Australian cricket team in Bangladesh in 2021,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2021-06-26T07:42:17+00:00,1030491825,1030464980,0,Lugnuts,Australian cricket team in Bangladesh in 2021,lgv
+2020-10-31T16:01:52+00:00,986395563,964955982,0,72.229.167.38,Banasree,
+2020-10-28T22:22:51+00:00,985949383,981757317,0,RJFF,2023 Thai general election,/* Preferred Prime Minister */ Thai people are referred to by their first name
+2021-05-21T07:04:17+00:00,1024288211,1024286132,0,Lugnuts,Australian cricket team in Bangladesh in 2021,
+2020-12-05T11:59:02+00:00,992464828,991509788,0,Guntipet,2023 Thai general election,/* Preferred party */ changing sources link.
+2021-02-01T20:29:38+00:00,1004266874,1004266760,0,Yamaguchi先生,Banasree,Removed poorly sourced and non-encyclopedic claims.
+2021-09-05T04:12:32+00:00,1042465488,1041658899,0,112.134.183.240,Bandaranaike International Airport,Added
+2021-08-02T06:39:19+00:00,1036702592,1036702396,0,Lugnuts,Australian cricket team in Bangladesh in 2021,
+2021-10-14T15:48:17+00:00,1049910194,1049875081,0,Rzxz0839,Bandaranaike International Airport,/* Passenger */ no traffic rights to MLE
+2021-02-21T14:42:02+00:00,1008090789,1007339815,0,20WashingtonPaul,Bandaranaike International Airport,/* Passenger */
+2021-04-06T15:39:10+00:00,1016324776,1016260737,0,Bremav2,Bandaranaike International Airport,/* Passenger */ Only a stopover flights cannot be purchased
+2021-09-13T05:30:37+00:00,1044020748,1043871244,0,97.82.30.107,Bandaranaike International Airport,/* Passenger */
+2021-10-12T02:27:42+00:00,1049480096,1049332568,0,175.157.40.131,Bandaranaike International Airport,/* Passenger */
+2021-02-08T16:31:47+00:00,1005617253,1005617197,0,Giraffer,Bandaranaike International Airport,Reverted edits by [[Special:Contributions/175.157.175.63|175.157.175.63]] ([[User talk:175.157.175.63|talk]]): disruptive edits ([[WP:HG|HG]]) (3.4.10)
+2021-05-20T12:17:29+00:00,1024151853,1024151717,0,97.82.30.107,Bandaranaike International Airport,/* Passenger */
+2021-08-01T11:07:00+00:00,1036568732,1036568715,0,ClueBot NG,Bandaranaike International Airport,"Reverting possible vandalism by [[Special:Contribs/PionelPessi10|PionelPessi10]] to version by Airportlover147812. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4015893) (Bot)"
+2021-05-27T17:11:28+00:00,1025455858,1025418872,0,Nathan2055,Bangladeshi cricket team in South Africa in 2021–22,Citation cleanup with [[Wikipedia:ProveIt|ProveIt]]; copyedit
+2021-07-13T06:44:23+00:00,1033361610,1033313094,0,Lugnuts,Bangladeshi cricket team in South Africa in 2021–22,
+2021-03-22T02:11:06+00:00,1013524634,1012792819,0,123.231.84.135,Bandaranaike International Airport,Undid revision 1012792819 by [[Special:Contributions/123.231.85.167|123.231.85.167]] ([[User talk:123.231.85.167|talk]])
+2021-08-08T09:10:08+00:00,1037722205,1033230673,0,49.206.9.164,Biman Bangladesh Airlines,"The wiki page looks at Bimans fleet in the 2000s, 2010s and 2020s. Hence, the heading 2021s is incoherent and does not follow the pattern."
+2021-03-06T12:25:52+00:00,1010620440,1010492102,0,103.115.26.232,Biman Bangladesh Airlines,
+2021-04-08T05:00:53+00:00,1016620750,1016328759,0,58.234.166.162,Biman Bangladesh Airlines,/* Current fleet */
+2021-05-12T21:02:22+00:00,1022849061,1022631632,0,Fire9600,Biman Bangladesh Airlines,/* 2021s */ spelling fix
+2020-10-23T00:55:01+00:00,984942392,980376149,0,Jellysandwich0,Biman Bangladesh Airlines,defunct
+2021-07-12T12:14:16+00:00,1033230673,1032868265,0,Drcarrot.phd,Biman Bangladesh Airlines,/* Current fleet */Only 1 orders in total.
+2021-08-01T16:52:35+00:00,1036610676,1036608942,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-05-15T13:00:44+00:00,1023270957,1023270839,0,Ehlatifee,COVID-19 vaccination in Bangladesh,
+2021-05-02T09:48:57+00:00,1020999620,1020846404,0,Nafis Fuad Ayon,COVID-19 vaccination in Bangladesh,/* History */Information added and copy edit.
+2021-07-01T20:53:00+00:00,1031476581,1031470510,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Graph of cumulative doses administered across the country */
+2021-09-25T07:00:39+00:00,1046354054,1046031976,0,Greatder,COVID-19 vaccination in Bangladesh,
+2021-06-01T12:10:23+00:00,1026288902,1026288874,0,Nafis Fuad Ayon,COVID-19 vaccination in Bangladesh,
+2021-07-08T13:28:38+00:00,1032603425,1032603214,0,Nafis Fuad Ayon,COVID-19 vaccination in Bangladesh,Copy edit.
+2021-08-30T08:27:19+00:00,1041391917,1041326917,0,Rsakib188,COVID-19 vaccination in Bangladesh,
+2021-05-27T12:58:55+00:00,1025419936,1024544593,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Background */
+2021-06-17T18:10:47+00:00,1029069032,1029002077,0,Siam2019,COVID-19 vaccination in Bangladesh,Fixed error in citation
+2021-06-12T19:10:53+00:00,1028243007,1028195083,0,Rodw,COVID-19 vaccination in Bangladesh,Disambiguating links to [[Daily Star]] (link changed to [[The Daily Star (Bangladesh)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-06-26T13:33:27+00:00,1030524727,1030524651,0,Adnan nijhum,COVID-19 vaccination in Bangladesh,/* Background */
+2021-07-04T09:57:45+00:00,1031898893,1031888028,0,KhanSaheb,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-05-22T19:39:15+00:00,1024544593,1023270957,0,Nafis Fuad Ayon,COVID-19 vaccination in Bangladesh,/* Background */Information added.
+2021-07-26T04:49:09+00:00,1035520608,1035517684,0,Rsakib188,COVID-19 vaccination in Bangladesh,
+2021-05-09T22:32:34+00:00,1022331778,1022218156,0,Ybsone,COVID-19 vaccination in Bangladesh,again citing US law as fearmongering tactics.
+2021-05-29T08:41:44+00:00,1025743434,1025654143,0,Rsakib188,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-02T10:24:53+00:00,1036726236,1036712034,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Graph of cumulative doses administered across the country */
+2021-05-02T14:11:41+00:00,1021028453,1020999620,0,Yamato Bismarck Hood Iowa,COVID-19 vaccination in Bangladesh,Update.
+2021-07-18T02:23:51+00:00,1034142230,1034097660,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Vaccines on order */ Add updated data
+2021-06-29T21:02:33+00:00,1031105305,1031104944,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,Undid revision 1031104944 by [[Special:Contributions/Jubair Sayeed Linas|Jubair Sayeed Linas]] ([[User talk:Jubair Sayeed Linas|talk]])
+2021-05-07T12:24:42+00:00,1021922685,1021921634,0,Nafis Fuad Ayon,COVID-19 vaccination in Bangladesh,/* History */Updated.
+2021-07-15T15:14:58+00:00,1033742812,1033613333,0,Rsjaffe,COVID-19 vaccination in Bangladesh,"clean up, [[WP:AWB/T|typo(s) fixed]]: ’s → 's (2)"
+2021-05-08T18:37:07+00:00,1022142482,1022103074,0,Yamato Bismarck Hood Iowa,COVID-19 vaccination in Bangladesh,/* Vaccines on order */New section.
+2021-10-10T17:36:47+00:00,1049237919,1049012193,0,Xeplyn,COVID-19 vaccination in Bangladesh,
+2021-07-19T17:47:55+00:00,1034407544,1034364931,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,Add updated data
+2021-06-06T07:41:25+00:00,1027124531,1027123372,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Vaccines on order */ Add Sinovac Data
+2021-07-22T06:54:03+00:00,1034857854,1034856624,0,Adnan nijhum,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-07-14T09:30:36+00:00,1033540555,1033540367,0,Imtiaz ahmed rifat,COVID-19 vaccination in Bangladesh,/* Graph of cumulative doses administered across the country */
+2021-08-03T08:43:01+00:00,1036888967,1036726236,0,Rsakib188,COVID-19 vaccination in Bangladesh,
+2021-07-11T21:28:06+00:00,1033142032,1033080874,0,Ftrebien,COVID-19 vaccination in Bangladesh,Johnson & Johnson → Janssen following consensus about common name in its main article
+2021-07-17T08:42:20+00:00,1034018995,1033983295,0,Rsakib188,COVID-19 vaccination in Bangladesh,
+2021-07-04T07:56:58+00:00,1031888028,1031887907,0,KhanSaheb,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-06-17T09:11:08+00:00,1029002077,1029001841,0,Shafiq Nadim,COVID-19 vaccination in Bangladesh,
+2021-04-30T13:46:51+00:00,1020684960,1020671837,0,John B123,COVID-19 vaccination in Bangladesh,Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (uncategorised)
+2021-07-24T13:48:31+00:00,1035237086,1034857854,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,Add updated data
+2021-07-03T12:56:05+00:00,1031755745,1031679971,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-08-21T11:21:33+00:00,1039890121,1039689109,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Background */
+2021-08-23T08:36:29+00:00,1040219096,1040122232,0,Valminovo,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-05-03T17:19:30+00:00,1021240843,1021240686,0,PerfectSoundWhatever,COVID-19 vaccination in Bangladesh,Correcting spelling: oposition->opposition
+2021-06-15T13:53:38+00:00,1028697523,1028696730,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Background */ Improved Data
+2021-05-06T18:48:38+00:00,1021796874,1021796597,0,Ybsone,COVID-19 vaccination in Bangladesh,section related to history and not to a particular vaccine.
+2021-04-30T20:23:19+00:00,1020749321,1020726471,0,Arjayay,COVID-19 vaccination in Bangladesh,Duplicate word removed
+2021-09-10T06:26:58+00:00,1043462662,1043461482,0,Xeplyn,COVID-19 vaccination in Bangladesh,
+2021-05-08T13:42:14+00:00,1022103074,1022074913,0,Nafis Fuad Ayon,COVID-19 vaccination in Bangladesh,"/* Vaccines on order */""Vaccines on order"" moved as section from Sub-section."
+2021-07-25T10:04:06+00:00,1035382854,1035382063,0,Adnan nijhum,COVID-19 vaccination in Bangladesh,/* Vaccines on order */
+2021-07-02T22:07:59+00:00,1031657126,1031476581,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Background */
+2021-07-14T19:23:17+00:00,1033613333,1033540555,0,Jubair Sayeed Linas,COVID-19 vaccination in Bangladesh,/* Vaccines on order */ Add updated data
+2021-08-12T23:54:24+00:00,1038505108,1038323651,0,Fuadach,COVID-19 vaccination in Zimbabwe,Update
+2021-10-06T23:51:14+00:00,1048607519,1047556012,0,Airportlover147812,Cox's Bazar Airport,/* Airlines and destinations */
+2021-01-25T20:07:14+00:00,1002727262,998933799,0,Worldbruce,Cox's Bazar Airport,"clean up, used script-title parameter, replaced generally unreliable IBT with alternative source, [[WP:AWB/T|typo(s) fixed]]: US $ → US$, ’s → 's"
+2021-04-07T04:00:10+00:00,1016431823,1016429385,0,Mahbub Newaz Munna,Cox's Bazar Airport,Addition
+2021-07-29T04:23:54+00:00,1036040236,1016431823,0,103.222.22.10,Cox's Bazar Airport,
+2021-03-07T21:08:03+00:00,1010881659,1010881422,0,2600:1013:B014:8CDD:7464:8A20:BA3C:DA39,Daniel K. Inouye International Airport,
+2020-12-18T19:00:34+00:00,995013247,994489602,0,Vmzp85,Daniel K. Inouye International Airport,/* Passenger */
+2021-09-23T16:38:33+00:00,1046035592,1045980039,0,Fascinating Fantasy,Dhaka Metro Rail,Alter: title. | [[WP:UCB|Use this tool]]. [[WP:DBUG|Report bugs]]. | #UCB_Gadget. (Add in planned system length)
+2021-02-18T15:57:37+00:00,1007523234,1007356024,0,Plastikspork,Dhaka Metro Rail,Format
+2020-12-12T13:22:46+00:00,993779731,993779678,0,116.204.255.16,Dhaka Metro Rail,"/* Project Components, Dates and Progress */"
+2021-05-29T12:06:55+00:00,1025761919,1025624717,0,171.101.96.36,Don Mueang International Airport,/* Historical[1][2][3] */
+2021-01-11T12:04:30+00:00,999684246,999682744,0,HeeheeYogen8,Don Mueang International Airport,
+2021-01-22T13:22:03+00:00,1002024154,1002023938,0,103.216.57.62,Dhaka Metro Rail,
+2021-02-24T03:06:42+00:00,1008595697,1008592665,0,Andrewgprout,Dubai International Airport,Reverted 1 edit by [[Special:Contributions/Corner2002|Corner2002]] ([[User talk:Corner2002|talk]]): Unnecessary Wikipedia is not a directory
+2021-03-12T17:51:49+00:00,1011761151,1010562484,0,Worldbruce,Hazrat Shahjalal International Airport,"clean up, used script-title parameter, filled in refs"
+2021-09-22T23:28:20+00:00,1045886334,1045886202,0,31.205.112.165,Dubai International Airport,/* Passenger */
+2021-07-28T21:30:58+00:00,1035995481,1035451068,0,Fascinating Fantasy,Dhaka Metro Rail,
+2021-03-06T02:58:32+00:00,1010562484,1010556034,0,LeoFrank,Hazrat Shahjalal International Airport,Restored revision 1007505775 by [[Special:Contributions/LeoFrank|LeoFrank]] ([[User talk:LeoFrank|talk]]): Revert all unsourced changes
+2021-05-06T18:46:36+00:00,1021796497,1017951457,0,M R Karim Reza,Hazrat Shahjalal International Airport,/* Terminal 3 */
+2021-04-06T23:57:28+00:00,1016400601,1016393050,0,Rzxz0839,Hazrat Shahjalal International Airport,rvv
+2021-08-19T16:14:27+00:00,1039595566,1039592454,0,AnomieBOT,Hazrat Shahjalal International Airport,Dating maintenance tags: {{Section expand}}
+2021-10-10T00:36:53+00:00,1049125573,1048292399,0,Rzxz0839,Hazrat Shahjalal International Airport,/* Passenger */ added date
+2021-08-06T07:29:21+00:00,1037387055,1034482680,0,OlliverWithDoubleL,Hazrat Shahjalal International Airport,
+2020-11-27T02:37:05+00:00,990888088,990656220,0,Fabrictramp,Hazrat Shahjalal International Airport,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Enter Inventive Studio|Enter Inventive Studio]] ([[User talk:Enter Inventive Studio|talk]]): Rollback change of citation
+2021-07-20T03:48:48+00:00,1034482680,1021796497,0,Jubair1985,Hazrat Shahjalal International Airport,/* Terminal 1 and 2 */
+2020-12-15T02:46:47+00:00,994319301,994313937,0,Johnj1995,Hazrat Shahjalal International Airport,Undid revision 994313937 by [[Special:Contributions/Izrul Hakimi|Izrul Hakimi]] ([[User talk:Izrul Hakimi|talk]]) Unsourced
+2021-01-15T01:32:32+00:00,1000423167,1000049614,0,Rzxz0839,Hazrat Shahjalal International Airport,/* Passenger */ this is an air bubble flight
+2021-01-31T15:58:08+00:00,1003975950,1003974317,0,LeoFrank,Hazrat Shahjalal International Airport,Reverted to revision 999877942 by [[Special:Contributions/FlyJet777|FlyJet777]] ([[User talk:FlyJet777|talk]]): Revert to last good revision
+2021-02-18T14:02:02+00:00,1007505775,1007504705,0,LeoFrank,Hazrat Shahjalal International Airport,Reverted 4 edits by [[Special:Contributions/Vertexgodblessing|Vertexgodblessing]] ([[User talk:Vertexgodblessing|talk]]): Addition of unsourced content and removal of sourced content
+2021-08-24T14:59:55+00:00,1040437841,1039595566,0,Bremav2,Hazrat Shahjalal International Airport,"/* Passenger */ Removed ref column, it's not in the guidelines and isn't being used fully anyway and added new MS route to CAI"
+2021-10-15T06:43:34+00:00,1050008383,1050008071,0,ImSonyR9,Hazrat Shahjalal International Airport,/* Passenger */ +Flydubai Dubai flight
+2021-04-15T14:20:29+00:00,1017951457,1016960402,0,Liberty Pedia,Hazrat Shahjalal International Airport,/* top */
+2021-04-07T13:58:47+00:00,1016496671,1016495399,0,Rzxz0839,Hazrat Shahjalal International Airport,removing disruptive edits
+2021-01-04T11:10:41+00:00,998226179,997593349,0,Monkbot,Hazrat Shahjalal International Airport,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 42 templates: hyphenate params (29×);
+2021-02-09T04:55:32+00:00,1005736162,1005679386,0,LeoFrank,Hazrat Shahjalal International Airport,Reverted 7 edits by [[Special:Contributions/Vertexgodblessing|Vertexgodblessing]] ([[User talk:Vertexgodblessing|talk]]): Unexplained removal of sourced content!
+2021-10-05T07:05:19+00:00,1048292399,1047413445,0,M R Karim Reza,Hazrat Shahjalal International Airport,/* Passenger */
+2020-12-09T08:40:27+00:00,993196919,993196850,0,Tahsin Ahnav,Hazrat Shahjalal International Airport,/* Cargo */
+2020-10-30T13:35:16+00:00,986211197,985834532,0,LeoFrank,Hazrat Shahjalal International Airport,/* Passenger */ no consensus on destination maps
+2021-03-21T15:02:04+00:00,1013420777,1013278620,0,Rzxz0839,Hazrat Shahjalal International Airport,rv further
+2021-04-10T00:36:40+00:00,1016960402,1016863892,0,Citation bot,Hazrat Shahjalal International Airport,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Wikipedia extended-confirmed-protected pages]] | via #UCB_Category 30/2054
+2021-02-24T15:21:35+00:00,1008688988,1008574145,0,Rzxz0839,Hazrat Shahjalal International Airport,
+2020-12-18T06:24:40+00:00,994920003,994919242,0,Tahsin Ahnav,Hazrat Shahjalal International Airport,/* Cargo */
+2020-12-07T18:00:05+00:00,992896036,992895845,0,Tahsin Ahnav,Hazrat Shahjalal International Airport,/* Passenger */
+2020-11-10T02:53:47+00:00,987934919,987866025,0,Johnj1995,Hazrat Shahjalal International Airport,Removing bubble flights and other unsourced flights; Cleaning up the cargo section
+2021-09-30T18:40:01+00:00,1047413445,1047226399,0,SeanM1997,Hazrat Shahjalal International Airport,/* Passenger */
+2021-02-06T16:16:50+00:00,1005222666,1003975950,0,Rakibulbappy,Hazrat Shahjalal International Airport,/* Passenger */
+2020-12-11T04:32:11+00:00,993545397,993196919,0,Johnj1995,Hazrat Shahjalal International Airport,Removed bubble flights and other unsourced flights
+2021-01-10T21:46:52+00:00,999573112,999454272,0,Johnj1995,Hazrat Shahjalal International Airport,Removing disruptive edits
+2020-11-16T17:41:15+00:00,989031087,987934919,0,LeoFrank,Hazrat Shahjalal International Airport,/* Passenger */ rm air bubble flight
+2021-03-20T18:23:49+00:00,1013278620,1013154517,0,Random Haste,Hazrat Shahjalal International Airport,/* Passenger */Indigo doesn't serve from chennai
+2020-11-25T19:28:52+00:00,990656220,989031087,0,Enter Inventive Studio,Hazrat Shahjalal International Airport,
+2021-02-12T06:17:42+00:00,1006316090,1005736162,0,Sayswalk,Hazrat Shahjalal International Airport,/* Passenger */US Bangla Airlines start direct flights on Dhaka-Dubai Route
+2021-04-06T16:06:40+00:00,1016329175,1016322994,0,Jetstreamer,Hazrat Shahjalal International Airport,Restored revision 1016294737 by [[Special:Contributions/LeoFrank|LeoFrank]] ([[User talk:LeoFrank|talk]]): Rv disruptive editing
+2021-04-09T06:03:54+00:00,1016809783,1016809775,0,Callanecc,Hazrat Shahjalal International Airport,Adding {{pp-30-500}}
+2020-12-31T06:55:49+00:00,997384535,997374346,0,LeoFrank,Hazrat Shahjalal International Airport,Reverted to revision 990888088 by [[Special:Contributions/Fabrictramp|Fabrictramp]] ([[User talk:Fabrictramp|talk]]): Revert to last good edit
+2021-01-12T16:34:15+00:00,999919411,999899172,0,Johnj1995,Hazrat Shahjalal International Airport,Removing disruptive edits
+2021-04-07T20:42:19+00:00,1016561217,1016547573,0,Jetstreamer,Hazrat Shahjalal International Airport,Restored revision 1016496671 by [[Special:Contributions/Rzxz0839|Rzxz0839]] ([[User talk:Rzxz0839|talk]]): Rvv
+2021-03-04T12:16:55+00:00,1010225646,1010208455,0,Orenburg1,Hazrat Shahjalal International Airport,sp
+2021-10-14T04:43:34+00:00,1049839127,1049838725,0,ImSonyR9,Hazrat Shahjalal International Airport,"/* Passenger */  | Add: title, date. Changed bare reference to CS1/2. | [[WP:UCB|Use this tool]]. [[WP:DBUG|Report bugs]]. | #UCB_Gadget"
+2021-02-17T17:19:03+00:00,1007344298,1007306130,0,LeoFrank,Hazrat Shahjalal International Airport,Reverted 5 edits by [[Special:Contributions/Vertexgodblessing|Vertexgodblessing]] ([[User talk:Vertexgodblessing|talk]]): Unexplained removal of content including removal of references
+2021-03-03T10:28:46+00:00,1010007903,1008688988,0,Proudly Indian09,Hazrat Shahjalal International Airport,/* Passenger */ added reliable source for US Bangla Dubai flight
+2021-04-08T10:02:21+00:00,1016649059,1016642952,0,LeoFrank,Hazrat Shahjalal International Airport,Reverted edits by [[Special:Contribs/Shahatshahbazshadman|Shahatshahbazshadman]] ([[User talk:Shahatshahbazshadman|talk]]) to last version by Jetstreamer
+2021-07-20T14:26:29+00:00,1034550523,1034198453,0,Pakieditor,Islamabad International Airport,/* Ground transport */
+2020-11-14T10:45:08+00:00,988637527,987938224,0,MeltdownSpectre,Islamabad International Airport,
+2020-11-10T03:23:39+00:00,987938224,987884869,0,Johnj1995,Islamabad International Airport,
+2020-12-24T20:04:39+00:00,996142648,996134538,0,Kslall8765,Islamabad International Airport,/* Passenger */
+2021-04-13T18:19:57+00:00,1017606731,1016229627,0,39.40.99.96,Islamabad International Airport,
+2020-11-30T20:18:23+00:00,991580563,989502179,0,Memascom,Islamabad International Airport,/* Passenger */ Added CZ's weekly Wuhan service
+2020-12-10T09:41:20+00:00,993384844,993263839,0,YH123,Islamabad International Airport,/* Passenger */
+2021-04-01T08:05:09+00:00,1015401699,1015363223,0,WhisperToMe,Islamabad International Airport,/* History and details */
+2020-10-24T02:05:06+00:00,985118671,985096770,0,Rzxz0839,Islamabad International Airport,/* Passenger */ already ended as per https://www.routesonline.com/news/38/airlineroute/293341/air-china-sepoct-2020-international-operations-as-of-25aug20/?highlight=Air%20China
+2021-08-12T13:45:40+00:00,1038427325,1038018592,0,2400:ADC1:175:B300:8498:5AC7:2684:CD4,Islamabad International Airport,/* See also */
+2021-01-17T09:14:36+00:00,1000908028,999835223,0,2001:A61:3A44:B201:6908:2873:4674:F544,Islamabad International Airport,"/* Airlines and destinations */ Oslo has only one active airport bearing its name, therefore no naming annex to be used as per WP:AIRPORTS and aviation portal consensus"
+2021-01-07T07:18:02+00:00,998838055,996142648,0,Monkbot,Islamabad International Airport,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 23 templates: del empty params (2×); hyphenate params (6×);
+2021-08-30T05:08:24+00:00,1041371774,1040778545,0,83.110.100.171,Islamabad International Airport,/* Passenger */
+2021-01-30T15:30:55+00:00,1003763074,1003763010,0,2001:A61:3A03:AB01:44B4:DD1D:A267:6407,Islamabad International Airport,/* Statistics */
+2021-08-17T17:00:08+00:00,1039258200,1038972486,0,Pakieditor,Islamabad International Airport,
+2021-08-18T19:23:10+00:00,1039447227,1039442886,0,Njd-de,Islamabad International Airport,urrg missed these
+2021-05-11T01:55:00+00:00,1022537359,1021954005,0,Johnj1995,Jomo Kenyatta International Airport,
+2020-11-23T21:09:21+00:00,990285861,990285828,0,Rzxz0839,Jomo Kenyatta International Airport,/* Cargo */
+2020-12-03T19:32:09+00:00,992148955,990285861,0,Chris the speller,Jomo Kenyatta International Airport,/* Accidents and incidents */replaced: 747–130 → 747-130
+2020-12-06T23:40:32+00:00,992763438,992245198,0,Monkbot,Kabul International Airport,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 38 templates: del empty params (6×); hyphenate params (2×);
+2021-01-15T01:43:58+00:00,1000425169,999689867,0,81.99.201.36,Kabul International Airport,/* History */
+2021-04-14T15:57:42+00:00,1017785310,1013363474,0,Jetstreamer,Kabul International Airport,/* Gallery */ Rm gallery per [[WP:GALLERY]]
+2021-07-12T14:03:18+00:00,1033243628,1033217268,0,Arjayay,LGBT rights in Bangladesh,Duplicate word removed
+2020-10-27T06:15:00+00:00,985663829,985648032,0,AnomieBOT,LGBT rights in Bangladesh,"Rescuing orphaned refs (""LGBT magazine"" from rev 985647660)"
+2021-09-25T23:49:09+00:00,1046490893,1042290126,0,Pppery,List of countries by GDP (nominal) per capita,Remove [[Template:Flaglist+link]] per TfD
+2020-11-04T19:51:40+00:00,987078860,987076552,0,Eblistx,List of countries by GDP (nominal) per capita,Undid revision 987076552 by [[Special:Contributions/176.92.73.135|176.92.73.135]] ([[User talk:176.92.73.135|talk]])
+2020-11-30T13:09:25+00:00,991510261,991243691,0,94.187.1.229,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-03-25T20:57:59+00:00,1014218641,1014216036,0,Abrar Aousaf,List of countries by GDP (nominal) per capita,
+2020-10-31T03:57:54+00:00,986324472,986070908,0,220.135.36.159,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */-Taiwan is a country with partial recognition but it’s not a dependency
+2021-05-01T18:22:26+00:00,1020900700,1020900226,0,Pyruvate,List of countries by GDP (nominal) per capita,"Corrected Taiwan's IMF figure, there has been vandalism"
+2020-12-12T06:20:57+00:00,993741069,993695372,0,1.54.103.30,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-05-31T15:36:23+00:00,1026131917,1026131372,0,FDW777,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */ corrected per IMF figures cited
+2021-05-12T20:15:43+00:00,1022842010,1019343622,0,Airportlover147812,Nursultan Nazarbayev International Airport,/* Passenger */
+2021-04-22T20:11:41+00:00,1019343622,1016745877,0,Johnj1995,Nursultan Nazarbayev International Airport,Not seperating AOCs
+2021-08-29T23:23:52+00:00,1041334049,1040664815,0,Citation bot,Nursultan Nazarbayev International Airport,"Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 1257/2200"
+2021-01-23T03:52:36+00:00,1002160852,1000683145,0,OlliverWithDoubleL,Nursultan Nazarbayev International Airport,added short description
+2021-07-06T13:51:12+00:00,1032281542,1027594988,0,Jellysandwich0,Nursultan Nazarbayev International Airport,defunct
+2021-09-27T18:10:53+00:00,1046845946,1041334049,0,IznoPublic,Nursultan Nazarbayev International Airport,clean tables
+2021-02-26T21:18:38+00:00,1009125598,1008660057,0,Pmbma,Queen Alia International Airport,/* Passenger */
+2021-04-06T16:08:50+00:00,1016329509,1016258243,0,Jetstreamer,Queen Alia International Airport,Rv unsourced/unexplained/disruptive edits
+2021-08-24T17:02:00+00:00,1040454459,1038596989,0,Bremav2,Queen Alia International Airport,/* Passenger */ Updated
+2021-08-30T00:54:57+00:00,1041344134,1040454459,0,Airportlover147812,Queen Alia International Airport,/* Passenger */
+2021-09-16T08:57:54+00:00,1044641231,1042097504,0,SeanM1997,Queen Alia International Airport,/* Passenger */ FR add MAD-AMM
+2021-08-13T14:13:40+00:00,1038596989,1038581226,0,147.161.167.95,Queen Alia International Airport,/* Passenger */ FR add VIE
+2021-01-17T20:02:12+00:00,1001004115,1000757820,0,116.86.39.5,Queen Alia International Airport,/* History */
+2021-03-14T05:05:50+00:00,1012025911,1012025820,0,185.134.129.40,Queen Alia International Airport,/* Passenger */
+2020-10-27T05:43:26+00:00,985660906,984897370,0,Rzxz0839,Queen Alia International Airport,/* Passenger */
+2021-09-03T05:53:08+00:00,1042097504,1042097447,0,202.83.57.94,Queen Alia International Airport,/* Passenger */
+2020-12-20T15:46:18+00:00,995351194,994441322,0,2A00:23C7:9097:D501:1148:B056:9880:75B5,Queen Alia International Airport,/* Passenger */
+2020-11-08T08:15:50+00:00,987628158,985660906,0,188.174.101.208,Queen Alia International Airport,"/* Passenger */ TXL closes today (8 November) for good, see its main article for refs"
+2021-02-17T16:38:23+00:00,1007338123,1007294901,0,Andrewgprout,Queen Alia International Airport,Reverted 1 edit by [[Special:Contributions/2001:A61:1077:4A01:B445:1E64:E91F:BD27|2001:A61:1077:4A01:B445:1E64:E91F:BD27]] ([[User talk:2001:A61:1077:4A01:B445:1E64:E91F:BD27|talk]]): [[WP:OR]]
+2021-01-27T16:05:48+00:00,1003140076,1003139885,0,2001:A61:10B3:7001:BCFE:5B74:28E9:3893,Queen Alia International Airport,/* Passenger */ layout fixed
+2020-12-06T12:41:33+00:00,992658623,991581354,0,188.174.165.116,Queen Alia International Airport,"/* Passenger */ HBE has been Alexandrias only operational airport since 2011, also ALY will not reopen as far as currently known"
+2021-01-20T07:26:35+00:00,1001567512,1001004115,0,Popust,Queen Alia International Airport,
+2021-07-30T07:44:14+00:00,1036227233,1034092576,0,SeanM1997,Queen Alia International Airport,/* Passenger */ FR add AMM-BVA/CIA/FMM
+2021-01-10T07:05:21+00:00,999452393,999452319,0,SrikTLG,Queen Alia International Airport,/* Statistics */
+2020-11-30T20:23:15+00:00,991581354,987628158,0,Monkbot,Queen Alia International Airport,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 56 templates: del empty params (15×); hyphenate params (12×);
+2021-08-08T01:20:30+00:00,1037673348,1036227233,0,Bentheswimmer11,Queen Alia International Airport,
+2021-10-08T12:53:46+00:00,1048867241,1048144799,0,Kapavita,Queen Alia International Airport,/* Passenger */
+2021-01-13T14:55:54+00:00,1000092068,1000091386,0,2001:A61:1059:E901:9123:A6F5:F21F:4625,Queen Alia International Airport,/* Cargo */ the airline does not state any intl scheduled routes - http://www.lynden.com/lac/alaska-air-cargo-service.html
+2021-07-17T18:59:06+00:00,1034092576,1016329509,0,NaniEmperor,Queen Alia International Airport,/* Airlines and destinations */
+2021-02-14T06:52:04+00:00,1006690424,1003140076,0,141.237.244.239,Queen Alia International Airport,/* Airlines and destinations */
+2021-05-20T01:36:30+00:00,1024088522,1018714491,0,Citation bot,Shah Amanat International Airport,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Wikipedia articles incorporating text from the Air Force Historical Research Agency‎]] | #UCB_Category 2858/4306
+2021-09-29T18:03:10+00:00,1047228134,1046242414,0,ImSonyR9,Shah Amanat International Airport,"/* Passenger */ added US Bangla Jessore, Saidpur flight, both starting from tomorrow"
+2021-03-22T10:21:14+00:00,1013570999,1013570910,0,M. Ishmam Abdullah,Shah Amanat International Airport,/* Taxiways and tarmac */
+2020-12-16T21:39:55+00:00,994660681,994650010,0,Mandarax,Suvarnabhumi Airport,Correct name
+2021-02-04T21:00:19+00:00,1004874489,1003686342,0,Bouzinac,Suvarnabhumi Airport,/* Traffic by calendar year */
+2020-12-03T07:17:53+00:00,992058800,992058759,0,Rzxz0839,Suvarnabhumi Airport,/* Passenger */
+2021-03-07T10:32:18+00:00,1010793366,1010767633,0,76.70.99.190,Suvarnabhumi Airport,
+2020-11-20T14:33:17+00:00,989700367,989639296,0,AviationEnzo,Suvarnabhumi Airport,/* Passenger */ ZIPAIR Toyko still flies to Bangkok.
+2021-05-31T21:09:07+00:00,1026182625,1025139002,0,Airportlover147812,Suvarnabhumi Airport,/* Airlines and destinations */
+2021-03-26T12:49:20+00:00,1014321572,1014307008,0,St3095,Suvarnabhumi Airport,/* Passenger */
+2021-01-30T05:18:10+00:00,1003686342,1003492518,0,HueMan1,Suvarnabhumi Airport,"/* Passenger */clean up, replaced: Mactan-Cebu → Mactan–Cebu"
+2021-07-16T04:11:52+00:00,1033832824,1033739766,0,115.178.196.1,Suvarnabhumi Airport,/* Cargo */
+2021-04-06T18:45:37+00:00,1016355278,1016337426,0,70.31.171.67,Suvarnabhumi Airport,
+2021-06-03T16:15:42+00:00,1026672238,1026672091,0,Kritphon,Suvarnabhumi Airport,/* Accidents and incidents */
+2021-01-17T19:53:30+00:00,1001002738,1000907944,0,HeeheeYogen8,Suvarnabhumi Airport,
+2021-01-02T23:54:10+00:00,997937825,997413608,0,171.97.223.64,Suvarnabhumi Airport,
+2020-12-27T08:54:32+00:00,996556114,996530368,0,LeoFrank,Suvarnabhumi Airport,Reverted 2 edits by [[Special:Contributions/HeeheeYogen8|HeeheeYogen8]] ([[User talk:HeeheeYogen8|talk]]): Not necessary
+2020-12-15T02:51:32+00:00,994319998,992652752,0,Monkbot,Suvarnabhumi Airport,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 84 templates: del empty params (11×); hyphenate params (73×); del |url-status= (2×);
+2021-05-05T05:47:33+00:00,1021526873,1021327568,0,207.237.46.186,Suvarnabhumi Airport,
+2020-10-30T17:13:28+00:00,986241547,986196826,0,LeoFrank,Talk:Hazrat Shahjalal International Airport,/* Edit Request: Update Airlines and Destinations and unblock page */ Replying to AaronAdamKhan007 (using [[w:en:User:Enterprisey/reply-link|reply-link]])
+2021-09-24T21:12:32+00:00,1046281758,1046235707,0,GreenC bot,Talk:Hazrat Shahjalal International Airport,Add {{[[Template:reflist-talk|reflist-talk]]}} to [[Talk%3AShahjalal%20International%20Airport#Extended%2Dconfirmed%2Dprotected%20edit%20request%20on%2024%20September%202021|#Extended-confirmed-protected edit request on 24 September 2021]] (via [[User:GreenC bot/Job 8|reftalk]] bot)
+2021-09-22T11:59:27+00:00,1045780587,1045633603,0,ScottishFinnishRadish,Talk:Hazrat Shahjalal International Airport,/* Extended-confirmed-protected edit request on 21 September 2021 (2) */ Responded to edit request
+2021-04-04T11:47:54+00:00,1015930079,1015892948,0,DrKay,Talk:Hazrat Shahjalal International Airport,
+2021-02-04T13:25:20+00:00,1004801364,1003976327,0,117.227.85.96,Talk:Hazrat Shahjalal International Airport,/* US Bangla adds new flight to Dubai */
+2021-05-22T14:28:36+00:00,1024501946,1024487277,0,RandomCanadian,Talk:List of hypermarkets,/* Semi-protected edit request on 22 May 2021 */ Not done - Needs reliable sources ([[User:Terasail/Edit_Request_Tool|Edit Request Tool]])
+2020-10-29T22:11:40+00:00,986117730,986059849,0,Terasail,Talk:List of hypermarkets,/* Semi-protected edit request on 29 October 2020 */ Responded to edit request
+2020-12-01T07:02:34+00:00,991673536,990351955,0,ReaderofthePack,User talk:Doraemon25,declined ([[WP:AFCH|AFCH]] 0.9.1)
+2020-12-29T10:20:21+00:00,996956653,996956599,0,ImSonyR9,User talk:ImSonyR9,/* Nomination of Viral Shah for deletion */
+2021-02-03T12:44:46+00:00,1004603575,1004461295,0,Joseph2302,User talk:ImSonyR9,Notification: [[Wikipedia:Templates for discussion/Log/2021 February 3#Template:Euro T20 Slam|listing]] of [[:Template:Euro T20 Slam]] at [[WP:Templates for discussion]].
+2021-08-28T18:01:45+00:00,1041121535,1039472326,0,MalnadachBot,User talk:Doraemon25,Fixed [[WP:LINT|Lint errors]] in welcome template ([[Wikipedia:Bots/Requests for approval/MalnadachBot 6|Task 6]])
+2021-09-15T11:00:39+00:00,1044466697,1044465686,0,Stefan2,User talk:ImSonyR9,Notification: tagging for deletion of [[:File:IPL 2019 logo.jpg]].
+2021-05-05T17:07:16+00:00,1021606295,1016029900,0,B-bot,User talk:ImSonyR9,Notification that [[:File:Bagdah High School.jpg]] is orphaned and will be deleted in seven days per [[WP:CSD#F5]]
+2021-01-15T04:47:48+00:00,1000452133,1000310108,0,Lowercase sigmabot III,User talk:LeoFrank,Archiving 1 discussion(s) to [[User talk:LeoFrank/Archive 20]]) (bot
+2021-08-24T05:20:10+00:00,1040371055,1040279031,0,Lowercase sigmabot III,User talk:LeoFrank,Archiving 1 discussion(s) to [[User talk:LeoFrank/Archive 21]]) (bot
+2021-01-14T06:19:40+00:00,1000230913,1000229708,0,Bingobro,User talk:LeoFrank,/* The International Airport Saga */ Replied
+2021-04-11T14:16:43+00:00,1017213005,1017189752,0,LeoFrank,User talk:LeoFrank,Reverted 1 edit by [[Special:Contributions/JND AMD|JND AMD]] ([[User talk:JND AMD|talk]]): Personal attack
+2020-11-08T04:53:11+00:00,987612233,987220526,0,Lowercase sigmabot III,User talk:LeoFrank,Archiving 1 discussion(s) to [[User talk:LeoFrank/Archive 20]]) (bot
+2020-12-12T04:48:50+00:00,993731025,993633439,0,Lowercase sigmabot III,User talk:LeoFrank,Archiving 1 discussion(s) to [[User talk:LeoFrank/Archive 20]]) (bot
+2020-11-24T02:32:27+00:00,990352073,986198154,0,MediaWiki message delivery,User talk:Rakibulbappy,/* ArbCom 2020 Elections voter message */ new section
+2021-03-22T09:03:28+00:00,1013562329,1008653560,0,FireflyBot,User talk:Tahsin Ahnav,([[Wikipedia:Bots/Requests_for_approval/Bot0612_11|BOT]]) Notification of potential [[WP:G13|CSD G13]] nomination of [[Draft:Chattogram City Corporation Election 2020]]
+2021-02-09T09:27:02+00:00,1005767123,1004131270,0,331dot,User talk:Vertexgodblessing,You have been blocked from editing for persistent addition of [[WP:INTREF|unsourced content]].
+2021-04-09T03:50:00+00:00,1016797748,1013157924,0,Oshwah,User talk:Vertexgodblessing,Adding sockpuppetry block notice per [[:w:en:Wikipedia:Sockpuppet investigations/Vertexgodblessing]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2020-12-01T14:01:39+00:00,991722592,986590243,0,Monkbot,Visa requirements for Bangladeshi citizens,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 25 templates: del empty params (6×); hyphenate params (2×);
+2020-11-01T20:05:00+00:00,986590243,986526821,0,Ayeshrajans,Visa requirements for Bangladeshi citizens,Undo vandalism
+2020-12-12T06:56:36+00:00,993744804,991722592,0,Worldbruce,Visa requirements for Bangladeshi citizens,/* Visa requirements */clean up
+2021-07-03T09:47:34+00:00,1031734607,1030468197,0,Garuda3,Wikipedia talk:WikiProject Airports,/* Concerning [[Template:Airport destination list]] */ new section
+2021-05-02T23:09:33+00:00,1021106358,1020854618,0,VenFlyer98,Wikipedia talk:WikiProject Airports,
+2021-06-12T13:49:57+00:00,1028200654,1028200495,0,Addie293,Workweek and weekend,/* India */
+2021-04-15T09:50:49+00:00,1017918898,1017918706,0,Linn Htet Ye Yint,Yangon International Airport,#suggestededit-add 1.0
+2021-07-05T04:20:14+00:00,1032028456,1031323653,0,103.94.24.202,Workweek and weekend,/* India */
+2021-05-14T08:04:57+00:00,1023082832,1023082399,0,HeeheeYogen8,Yangon International Airport,
+2020-12-10T14:15:04+00:00,993414221,993005628,0,92.193.80.157,Zayed International Airport,
+2020-11-11T06:14:18+00:00,988122743,987932138,0,Rzxz0839,Zayed International Airport,Undid revision 987932138 by [[Special:Contributions/103.113.17.86|103.113.17.86]] ([[User talk:103.113.17.86|talk]])unsourced
+2021-02-13T13:34:56+00:00,1006548985,1002487506,0,BSMIsEditing,2023 Thai general election,/* Opinion polls */ Add grqaph
+2021-08-14T03:22:10+00:00,1038689443,1038649664,0,36.71.141.209,2023 Thai general election,/* Opinion polls */
+2021-09-13T08:25:57+00:00,1044045976,1044045938,0,2406:3003:2076:B5:B4ED:2F31:9EF8:1E0A,2023 Thai general election,/* 2021 restoration of parallel voting system */
+2020-12-30T12:34:50+00:00,997198053,996686787,0,Emperork,2023 Thai general election,/* Preferred party */ made no party & other unsortable
+2021-06-06T10:09:06+00:00,1027140872,1026795730,0,BSMIsEditing,2023 Thai general election,/* Preferred party */ messes up formatting
+2021-03-29T10:22:45+00:00,1014834952,1014834181,0,Shiguhara,2023 Thai general election,/* Preferred Prime Minister */
+2021-06-25T12:17:45+00:00,1030355523,1030355419,0,Rameshe999,2023 Thai general election,
+2021-08-10T18:44:09+00:00,1038135480,1037405018,0,77.13.137.220,2023 Thai general election,
+2021-10-03T13:53:23+00:00,1047955363,1047116346,0,S maps,2023 Thai general election,/* Opinion polls */
+2020-12-28T02:27:36+00:00,996686787,992464828,0,182.232.19.103,2023 Thai general election,/* Preferred party */
+2021-08-06T10:34:15+00:00,1037405018,1037390004,0,DuncanHill,2023 Thai general election,fixing for [[Category:Pages with missing references list]]
+2021-05-13T10:04:14+00:00,1022930607,1019259998,0,2403:6200:88A4:A48B:E4CB:451E:3C84:8606,2023 Thai general election,/* Opinion polls */
+2021-04-22T10:26:48+00:00,1019259998,1014834952,0,Kornkaobat,2023 Thai general election,"/* Preferred Prime Minister */  Redo some wrong percentages, resource some old citiations and, general cleanup."
+2021-08-13T14:47:00+00:00,1038601518,1038135480,0,Seloloving,2023 Thai general election,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/77.13.137.220|77.13.137.220]] ([[User talk:77.13.137.220|talk]]): Adding the country name doesn't do anything.
+2021-07-27T20:59:44+00:00,1035815294,1035815290,0,MelanieN,Australian cricket team in Bangladesh in 2021,Adding {{pp-protected}}
+2020-12-24T18:20:20+00:00,996128860,996128726,0,Materialscientist,Banasree,"Reverted edits by [[Special:Contributions/72.229.167.38|72.229.167.38]] ([[User talk:72.229.167.38|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.10)"
+2021-01-11T11:48:55+00:00,999682502,999681506,0,Fokhrul 3671,Banasree,
+2020-12-08T21:51:20+00:00,993117675,993116696,0,IamNotU,Banasree,"Reverted to revision 990316111 by [[Special:Contributions/Yamaguchi先生|Yamaguchi先生]] ([[User talk:Yamaguchi先生|talk]]): On the other hand, deleting references and adding unsourced content without an edit summary is right out."
+2021-03-30T17:13:38+00:00,1015104390,1014786365,0,2402:4000:2280:BEAE:6CBB:5AAF:946B:8668,Bandaranaike International Airport,/* Project phases and construction */
+2020-12-18T09:31:41+00:00,994938860,994938034,0,123.231.122.220,Bandaranaike International Airport,/* Cargo */
+2021-01-23T01:21:16+00:00,1002137463,1002137348,0,Avuser2021,Bandaranaike International Airport,/* Available frequencies */
+2021-01-15T14:15:24+00:00,1000532392,1000494542,0,Alex Noble,Bandaranaike International Airport,"Reverted 1 edit by [[Special:Contributions/2405:204:A78F:8344:1F64:25AB:8D11:8963|2405:204:A78F:8344:1F64:25AB:8D11:8963]] ([[User talk:2405:204:A78F:8344:1F64:25AB:8D11:8963|talk]]): No source, not in the correct place"
+2020-11-15T11:43:15+00:00,988813307,988810725,0,123.231.122.220,Bandaranaike International Airport,Undid revision 988810725 by [[Special:Contributions/2001:EE0:55B6:83A0:853B:3977:6F42:F17C|2001:EE0:55B6:83A0:853B:3977:6F42:F17C]] ([[User talk:2001:EE0:55B6:83A0:853B:3977:6F42:F17C|talk]])
+2020-11-23T09:08:45+00:00,990190446,989344267,0,84.255.186.171,Bandaranaike International Airport,/* Passenger */
+2020-11-18T13:13:22+00:00,989344267,989344198,0,PepeBonus,Bandaranaike International Airport,
+2021-07-17T11:32:50+00:00,1034037151,1034037123,0,112.134.24.6,Bandaranaike International Airport,/* Airlines and destinations */
+2020-12-20T13:48:55+00:00,995335503,994938860,0,CHCBOY,Bandaranaike International Airport,/* Cargo */Remove fantasy stuff
+2021-03-18T10:28:08+00:00,1012792819,1011146186,0,123.231.85.167,Bandaranaike International Airport,/* Passenger */
+2021-03-09T08:30:47+00:00,1011146186,1011146108,0,175.157.43.26,Bandaranaike International Airport,/* Passenger */
+2021-02-25T03:06:28+00:00,1008800091,1008090789,0,2407:C00:4004:8090:1:1:926D:1378,Bandaranaike International Airport,/* Airlines and destinations */
+2021-04-28T14:40:18+00:00,1020334014,1020332599,0,2402:4000:12C3:33BF:ED4:9881:C070:D842,Bandaranaike International Airport,
+2021-05-29T11:38:54+00:00,1025759073,1025759041,0,RG067,Bandaranaike International Airport,Undid edits by [[Special:Contributions/2001:8004:2730:97DE:C1B7:CA7E:A435:2591|2001:8004:2730:97DE:C1B7:CA7E:A435:2591]] ([[User talk:2001:8004:2730:97DE:C1B7:CA7E:A435:2591|talk]]) to last revision by 97.82.30.107: nonconstructive edits
+2021-06-23T08:16:24+00:00,1030000805,1029357713,0,94.59.141.0,Bandaranaike International Airport,/* Airlines and destinations */
+2021-05-14T23:24:06+00:00,1023193902,1023183059,0,45.124.171.97,Bandaranaike International Airport,
+2021-07-09T17:01:00+00:00,1032784442,1032784323,0,72.138.222.247,Bandaranaike International Airport,/* Passenger */
+2021-10-01T04:31:14+00:00,1047500907,1047494106,0,2402:D000:A500:E6D5:5461:B890:8A9D:B428,Bandaranaike International Airport,
+2021-08-31T19:03:35+00:00,1041658899,1041552394,0,2003:C5:8F28:619E:701F:D901:B0B0:CB96,Bandaranaike International Airport,/* Passenger */
+2021-07-02T08:57:57+00:00,1031561792,1031561722,0,2402:4000:2280:3A15:5DD4:DA14:D82C:D354,Bandaranaike International Airport,/* Passenger */
+2021-04-10T17:05:25+00:00,1017073539,1016324776,0,Jonathanjfriend,Bandaranaike International Airport,/* Car */
+2021-01-02T17:33:43+00:00,997874357,997873830,0,2A00:23C7:E093:C01:7228:8BFF:FEC4:62BB,Biman Bangladesh Airlines,
+2021-06-17T00:40:03+00:00,1028953164,1026758635,0,Akif Mubarrat Bhuiyan,Biman Bangladesh Airlines,
+2021-08-13T07:30:26+00:00,1038552213,1037722205,0,114.31.15.114,Biman Bangladesh Airlines,
+2020-11-08T09:18:40+00:00,987633848,987631760,0,203.202.240.170,Biman Bangladesh Airlines,/* Subsidiaries */
+2021-06-04T03:00:08+00:00,1026758635,1026226478,0,SMMONIR2014,Biman Bangladesh Airlines,/* Current fleet */
+2020-11-27T07:27:47+00:00,990920013,990920002,0,Kosack,Biman Bangladesh Airlines,Adding {{pp-protected}}
+2021-05-01T16:26:44+00:00,1020885278,1016620750,0,Anumengelamun,Biman Bangladesh Airlines,Added on etymology
+2021-02-25T14:44:16+00:00,1008875576,1008869332,0,Sungodtemple,Biman Bangladesh Airlines,commented out unused list defined reference
+2020-11-30T13:38:31+00:00,991515713,990920013,0,DumbBOT,Biman Bangladesh Airlines,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2021-07-29T20:59:44+00:00,1036156523,1036143544,0,Albertaont,COVID-19 vaccination in Bangladesh,copy-edit
+2021-07-30T06:20:04+00:00,1036217916,1036167120,0,Hriday Kumar Shaha,COVID-19 vaccination in Bangladesh,
+2021-06-04T16:20:26+00:00,1026855396,1026751321,0,Albertaont,COVID-19 vaccination in Bangladesh,/* Background */ reorder as astra-zeneca vaccines were split into 2 sections
+2021-05-08T09:15:41+00:00,1022074913,1021922685,0,Abrilando232,COVID-19 vaccination in Bangladesh,"this is background, added vaccines order."
+2021-03-19T09:32:40+00:00,1012969460,1012542937,0,Chongkian,COVID-19 vaccination in Zimbabwe,add other stub tags per [[WP:STUBTAGS]]
+2021-03-05T21:26:54+00:00,1010511413,1010509750,0,Old Man Consequences,COVID-19 vaccination in Zimbabwe,stub sort
+2021-04-04T14:42:10+00:00,1015948634,1012969460,0,TapticInfo,COVID-19 vaccination in Zimbabwe,
+2021-06-01T01:16:55+00:00,1026215851,1026169268,0,Abrilando232,COVID-19 vaccination in Zimbabwe,/* References */  +cat
+2021-04-24T03:03:42+00:00,1019571994,1019525102,0,Filedelinkerbot,COVID-19 vaccination in Zimbabwe,Bot: Removing [[Commons:File:Zimbabwe Ministry of Health.png]] ([[:File:Zimbabwe Ministry of Health.png|en]]). It was deleted on Commons by [[:Commons:User:Fitindia|Fitindia]] (No permission since 16 April 2021).
+2020-11-22T16:45:09+00:00,990067358,990067277,0,Mehedi Abedin,Cox's Bazar Airport,/* Upgradation */Fixed typo
+2020-09-28T15:44:58+00:00,980807265,976825451,0,27.147.255.249,Cox's Bazar Airport,
+2020-12-28T16:47:16+00:00,996788601,993546510,0,Lcawte,Cox's Bazar Airport,Added {{[[Template:Copy edit|Copy edit]]}} tag
+2020-10-16T10:46:35+00:00,983808080,982904887,0,Sgly,Daniel K. Inouye International Airport,/* Cargo */
+2021-08-15T04:50:24+00:00,1038850736,1038724753,0,CDB-Man,Daniel K. Inouye International Airport,Adding [[Island Hopper]] scheduled air service to See also
+2020-12-22T15:01:55+00:00,995720320,995508766,0,2600:1013:B000:9BAB:A194:1A7D:A1E8:2D29,Daniel K. Inouye International Airport,
+2021-09-05T16:38:22+00:00,1042563431,1042303041,0,135.180.153.166,Daniel K. Inouye International Airport,/* Top destinations */
+2021-04-13T00:41:15+00:00,1017482054,1017475603,0,Coastie43,Daniel K. Inouye International Airport,rv vandalism
+2021-09-21T04:20:00+00:00,1045548684,1045167990,0,2806:107E:D:BBF:8415:F5C:3C98:14A7,Daniel K. Inouye International Airport,/* Top destinations */
+2021-07-29T16:59:55+00:00,1036124093,1035340371,0,135.180.153.166,Daniel K. Inouye International Airport,/* Passenger */
+2021-07-16T19:03:16+00:00,1033934416,1033924168,0,SkunkaMunka,Daniel K. Inouye International Airport,Added an interactive map for better usage
+2020-11-11T02:53:00+00:00,988104787,986857338,0,RedPanda25,Daniel K. Inouye International Airport,/* Facilities and aircraft */
+2021-01-12T01:40:20+00:00,999804648,999800985,0,118.208.7.144,Daniel K. Inouye International Airport,/* Traffic and statistics */ add hidden note
+2021-03-09T08:41:14+00:00,1011147058,1010881659,0,2603:800C:13F:EA55:B03E:59C0:A036:812C,Daniel K. Inouye International Airport,/* Top destinations */
+2020-12-09T08:25:05+00:00,993195572,993118217,0,WikiCleanerBot,Daniel K. Inouye International Airport,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-05-01T13:16:58+00:00,1020858205,1019030303,0,Benchu090,Daniel K. Inouye International Airport,/* Terminals */
+2021-04-08T14:57:13+00:00,1016684895,1016684819,0,Travisn917,Daniel K. Inouye International Airport,Undid revision 1016666653 by [[Special:Contributions/2600:1013:B01D:118C:D9CD:C853:5AD3:9FA1|2600:1013:B01D:118C:D9CD:C853:5AD3:9FA1]] ([[User talk:2600:1013:B01D:118C:D9CD:C853:5AD3:9FA1|talk]])
+2021-01-25T20:26:58+00:00,1002731116,1001273317,0,166.122.205.21,Daniel K. Inouye International Airport,/* Facilities */ TheBus route numbers that serve Honolulu Airport were changed/modified in December 2020.
+2021-03-11T02:53:48+00:00,1011476201,1011476137,0,2001:861:3E40:A00:D944:6B0:3E05:4782,Daniel K. Inouye International Airport,/* Airlines and destinations */
+2021-04-03T13:20:03+00:00,1015770963,1015757016,0,Coastie43,Daniel K. Inouye International Airport,rv vandalism.
+2021-09-27T18:31:03+00:00,1046849496,1046716039,0,2603:800C:13F:EA55:A10E:96C5:6DAC:9CCE,Daniel K. Inouye International Airport,/* Passenger */
+2021-02-16T22:32:14+00:00,1007192548,1006852220,0,142.147.71.109,Daniel K. Inouye International Airport,/* Top destinations */
+2021-07-11T05:41:06+00:00,1033034906,1031965285,0,CDB-Man,Daniel K. Inouye International Airport,/* Passenger */ consolidating [[Island Hopper]] destinations
+2021-08-22T22:15:46+00:00,1040148961,1039512344,0,76.88.250.233,Daniel K. Inouye International Airport,/* Modernization and history since 2006 */
+2021-09-11T07:10:48+00:00,1043652988,1042836018,0,176.200.66.149,Daniel K. Inouye International Airport,/* Traffic and statistics */
+2021-09-19T06:23:57+00:00,1045167990,1045157273,0,Coastie43,Daniel K. Inouye International Airport,revert - UA flights doesn't exist
+2021-06-10T23:45:28+00:00,1027951398,1027923015,0,Keith D,Daniel K. Inouye International Airport,/* Facilities */ Add missing pipe
+2021-07-03T14:09:12+00:00,1031763741,1031736477,0,47.144.90.48,Daniel K. Inouye International Airport,/* Cargo */
+2021-09-13T19:41:13+00:00,1044141240,1043652988,0,AmericanLemming,Daniel K. Inouye International Airport,/* Ground Transportation */ sentence case for section headings
+2021-04-05T17:23:06+00:00,1016151700,1016046618,0,157.131.123.208,Daniel K. Inouye International Airport,/* Passenger */
+2020-11-03T11:53:27+00:00,986857338,986857179,0,2600:1013:B02B:3BD3:DC8A:9067:E5CA:B6FE,Daniel K. Inouye International Airport,
+2020-10-12T11:01:27+00:00,983121435,981185169,0,GucciNuzayer,Dhaka Metro Rail,
+2021-02-13T10:14:51+00:00,1006527090,1003319135,0,ZoomZombie,Dhaka Metro Rail,/* Gallery */
+2020-12-30T20:07:59+00:00,997278004,997139172,0,Safwan sabbir78,Dhaka Metro Rail,/* Network */Fixed a word
+2021-03-06T19:58:06+00:00,1010690686,1007523234,0,Alimurahman,Dhaka Metro Rail,
+2021-01-28T12:23:36+00:00,1003319135,1002024154,0,103.126.60.138,Dhaka Metro Rail,
+2020-11-25T05:03:36+00:00,990559190,990192649,0,Abdullah8031,Dhaka Metro Rail,
+2021-06-30T21:23:47+00:00,1031298029,1031297769,0,Moneytrees,Dhaka Metro Rail,remove content copied from https://web.archive.org/web/20170202043414/http://www.daily-sun.com/printversion/details/156973/Metro-rail-construction-in-progress
+2021-04-28T05:38:11+00:00,1020273168,1020241447,0,114.79.5.217,Dhaka Metro Rail,RVT-Sock detected
+2021-05-12T08:18:17+00:00,1022751454,1020517194,0,Uss157,Dhaka Metro Rail,
+2021-04-22T19:49:27+00:00,1019340415,1019303183,0,Toha Bangladesh,Dhaka Metro Rail,/* Overview */
+2021-03-11T09:37:22+00:00,1011520320,1011520270,0,Dam222,Dhaka Metro Rail,Reverting edit(s) by [[Special:Contributions/2409:4060:41D:9FDB:0:0:1881:E8A5|2409:4060:41D:9FDB:0:0:1881:E8A5]] ([[User_talk:2409:4060:41D:9FDB:0:0:1881:E8A5|talk]]) to rev. 1011228151 by Mahir256: [[WP:CRV|Unexplained content removal]] [[w:en:WP:RW|(RW 16.1)]]
+2021-10-13T16:07:04+00:00,1049744544,1049743539,0,Shameemzafar,Dhaka Metro Rail,/* Gallery */
+2021-03-24T11:54:51+00:00,1013959060,1013958825,0,103.250.71.242,Dhaka Metro Rail,/* Route alignment */
+2020-11-03T16:03:24+00:00,986887489,986887230,0,157.119.239.214,Dhaka Metro Rail,/* Network */
+2021-04-11T10:48:52+00:00,1017189831,1015457903,0,103.144.161.0,Dhaka Metro Rail,There was a wrong Prime Minister's Name. The reference is given in [3]
+2021-04-29T14:31:26+00:00,1020517194,1020273168,0,Missjaenna,Dhaka Metro Rail,Rephrasing and punctuations.
+2021-04-16T17:18:27+00:00,1018181208,1017189831,0,Hms1103,Dhaka Metro Rail,/* Overview */ Added Wikilink
+2020-12-01T15:15:40+00:00,991733053,990559190,0,Tanvir Ahmed Zubair,Dhaka Metro Rail,Updated article
+2021-09-07T07:23:26+00:00,1042884422,1041961100,0,Seloloving,Dhaka Metro Rail,v2.04 - Fix errors for [[WP:WCW|CW project]] (Date format in templates)
+2021-01-08T17:04:45+00:00,999130794,999130730,0,Tanvir Ahmed Zubair,Dhaka Metro Rail,Undid revision 999130730 by [[Special:Contributions/Tanvir Ahmed Zubair|Tanvir Ahmed Zubair]] ([[User talk:Tanvir Ahmed Zubair|talk]])
+2021-05-31T22:51:03+00:00,1026196533,1024028846,0,BattyBot,Dhaka Metro Rail,Moved See also above References per [[MOS:ORDER]] and other [[WP:AWB/GF|General fixes]]
+2021-10-06T12:29:54+00:00,1048517843,1048337187,0,2001:FB1:111:69E2:48C7:C571:3742:FE13,Don Mueang International Airport,"/* Historical{{cite web|url=https://www.departedflights.com/BKK83intro.html |title= Airlines and Aircraft Serving Bangkok Effective July 1, 1983 |publisher=DepartedFlights.com}}{{cite web|url=https://www.departedflights.com/BKK89intro.html |title= Airlines and Aircraft Serving Bangkok Effective January 15, 1989 |publisher=DepartedFlights.com}}{{cite web|url=https://www.departedflights.com/BKK96intro.html |title= Airlines and Aircraft Serving Bangkok Effective October 1, 1996 |publisher=Depart..."
+2020-12-22T08:37:31+00:00,995679077,994605503,0,180.180.60.161,Don Mueang International Airport,/* Terminals */
+2021-07-01T07:47:44+00:00,1031374709,1031374346,0,183.78.44.154,Don Mueang International Airport,
+2020-10-28T07:49:48+00:00,985840724,981581733,0,WikiCleanerBot,Don Mueang International Airport,v2.03b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - [[WP:WCW]] project (Reference before punctuation)
+2021-05-03T19:37:34+00:00,1021264590,1019741657,0,FrescoBot,Don Mueang International Airport,Bot: [[User:FrescoBot/Links|link syntax]]
+2021-08-26T06:21:18+00:00,1040710513,1040710460,0,Hms1103,Don Mueang International Airport,/* Rail */ Fixed tense
+2021-08-04T16:49:51+00:00,1037120977,1036300700,0,82.30.61.80,Don Mueang International Airport,Corrected an omission.
+2021-07-06T02:52:43+00:00,1032206733,1031374709,0,Jellywings19,Don Mueang International Airport,/* Current */
+2021-04-25T04:22:12+00:00,1019741657,1018729444,0,103.149.18.255,Don Mueang International Airport,/* Current */
+2021-09-09T10:19:57+00:00,1043292939,1040710513,0,171.101.93.133,Don Mueang International Airport,/* Historical[1][2][3] */
+2021-07-30T17:49:07+00:00,1036300700,1032206733,0,2607:FEA8:6941:EC00:E59C:F6C5:BA9D:688C,Don Mueang International Airport,
+2021-04-02T05:13:19+00:00,1015561502,1015118752,0,Kinu,Don Mueang International Airport,Comma.
+2021-04-09T20:44:29+00:00,1016930617,1015561502,0,BoiT-98,Don Mueang International Airport,
+2020-11-22T15:12:20+00:00,990054124,990008108,0,WikiCleanerBot,Dubai International Airport,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-08-30T15:30:52+00:00,1041443736,1041339098,0,WikiCleanerBot,Dubai International Airport,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-04-07T21:20:19+00:00,1016567538,1015244449,0,Jakektraynor,Dubai International Airport,/* Runways */
+2021-08-08T00:34:00+00:00,1037668710,1037004108,0,LukeWWF,Dubai International Airport,
+2021-09-06T11:53:13+00:00,1042718876,1042713733,0,Wekahash,Dubai International Airport,/* Passenger */
+2020-11-10T09:38:51+00:00,987972992,987742727,0,Kahtar,Dubai International Airport,"Repair CS1 error(s), replaced: website=www. → website="
+2021-05-27T06:25:54+00:00,1025370955,1025045169,0,141.255.111.77,Dubai International Airport,/* Airlines and destinations */
+2021-08-25T01:47:57+00:00,1040518298,1040281398,0,Gorebath,Dubai International Airport,"/* Safety and security */ as per source, (source never mentioned a device that can screen for drugs in your blood)"
+2021-02-13T03:55:38+00:00,1006487065,1006342252,0,Joun Pablo,Dubai International Airport,/* Passenger */
+2021-03-09T18:45:07+00:00,1011224663,1010557301,0,Mariiovalera,Dubai International Airport,/* Passenger */
+2021-10-05T05:09:23+00:00,1048280140,1048271249,0,Muhammadibrahimshamsuddin,Dubai International Airport,/* History */
+2021-05-13T00:44:27+00:00,1022874214,1022841897,0,Maxeto0910,Dubai International Airport,Per WP:HOWTOSD
+2021-08-23T17:11:31+00:00,1040281398,1039288512,0,Gorebath,Dubai International Airport,/* Accidents and incidents */
+2021-01-08T22:27:01+00:00,999185899,998762390,0,UMANAIOP,Dubai International Airport,/* Passenger */
+2021-06-21T05:27:17+00:00,1029638483,1029212260,0,80.89.72.112,Dubai International Airport,/* Passenger */
+2021-02-02T04:08:50+00:00,1004343864,1004103688,0,103.70.197.157,Dubai International Airport,
+2021-07-02T11:28:16+00:00,1031577392,1031493289,0,41.109.101.17,Dubai International Airport,/* Passenger */
+2021-08-09T11:16:47+00:00,1037906356,1037668710,0,2A02:AB88:3643:3200:54E7:A84A:FBF:3216,Dubai International Airport,/* Airlines and destinations */
+2020-11-28T03:18:10+00:00,991074092,991073741,0,UMANAIOP,Dubai International Airport,Flight started
+2021-04-21T16:52:16+00:00,1019121483,1018898790,0,176.231.246.22,Dubai International Airport,/* Passenger */ there are no flights between TLV to Dubai on Emirates schedule
+2020-12-13T17:29:06+00:00,994004759,993547650,0,Tenacioussquirrel,Dubai International Airport,corrected error
+2020-11-13T23:49:41+00:00,988570608,988387531,0,192.80.103.189,Dubai International Airport,Emirates canceled their slots https://twitter.com/ItayBlumental/status/1326253422937600001
+2021-03-12T16:53:29+00:00,1011752049,1011633032,0,Ondrusj,Dubai International Airport,
+2020-12-17T02:48:40+00:00,994701010,994700863,0,UMANAIOP,Dubai International Airport,/* Airlines and destinations */ Designed with a lowercase f
+2020-12-09T08:46:47+00:00,993197509,993196783,0,186.15.108.159,Dubai International Airport,/* Passenger */
+2020-10-21T20:27:56+00:00,984740239,984506215,0,Peter1170,Hazrat Shahjalal International Airport,Out of Business
+2021-02-18T08:23:01+00:00,1007469077,1007344298,0,WikiCleanerBot,Hazrat Shahjalal International Airport,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-05-18T07:07:22+00:00,1023768847,1022873294,0,70.53.228.75,Islamabad International Airport,
+2020-11-19T10:18:43+00:00,989502179,989425316,0,2407:7000:883F:6100:6439:8FDA:87E7:965B,Islamabad International Airport,/* Passenger */
+2020-12-08T10:04:10+00:00,993015629,991580563,0,NISEA18798,Islamabad International Airport,/* Passenger */
+2021-03-05T09:22:26+00:00,1010409675,1009882136,0,Samham443,Islamabad International Airport,/* Passenger */
+2021-09-16T05:44:26+00:00,1044619537,1044185330,0,2001:8F8:1F51:8A62:3CC9:7FE6:7F4E:B618,Islamabad International Airport,/* Passenger */
+2021-10-01T16:15:10+00:00,1047597105,1046974289,0,2001:A61:3A8E:2401:D9CD:BA3E:6FFC:442,Islamabad International Airport,/* Airlines and destinations */ only used if there is a cargo section
+2021-02-20T01:14:27+00:00,1007807617,1007313955,0,The Bangsawan,Islamabad International Airport,Undid revision 1007313955 by [[Special:Contributions/77.248.42.128|77.248.42.128]] ([[User talk:77.248.42.128|talk]]) Correcting the format.
+2021-03-27T14:03:14+00:00,1014507515,1013013213,0,115.186.190.138,Islamabad International Airport,/* Passenger */
+2021-04-06T02:06:52+00:00,1016229627,1016229506,0,2001:56A:782C:E300:2966:72B6:171A:BAE6,Islamabad International Airport,/* Passenger */
+2021-06-04T07:51:39+00:00,1026789836,1025618841,0,Johnuniq,Islamabad International Airport,"unexplained changed, not a typo"
+2021-09-10T16:09:43+00:00,1043538120,1043296045,0,81.150.128.111,Islamabad International Airport,
+2021-10-15T15:39:15+00:00,1050068550,1050068486,0,Materialscientist,Islamabad International Airport,Reverted edits by [[Special:Contributions/Abu-DhabiUnitedArabEmirates|Abu-DhabiUnitedArabEmirates]] ([[User talk:Abu-DhabiUnitedArabEmirates|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-04-27T22:11:01+00:00,1020222359,1019232783,0,Zeex.rice,Islamabad International Airport,"Changing [[Wikipedia:Short description|short description]] from ""Largest airport located in Fateh Jang, Attock, Punjab, Pakistan"" to ""Airport serving the Islamabad–Rawalpindi metropolitan area of Pakistan"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-03-15T07:33:14+00:00,1012222677,1012222620,0,5.163.243.137,Islamabad International Airport,
+2021-09-22T03:14:00+00:00,1045723683,1045678086,0,Niceguyedc,Islamabad International Airport,v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Maldivian]]
+2020-12-18T11:53:11+00:00,994953632,994569449,0,Tahaaleem,Islamabad International Airport,Short description
+2021-08-15T22:21:17+00:00,1038972486,1038427325,0,CommonsDelinker,Islamabad International Airport,"Removing [[:c:File:New_Islamabad_International_Airport,.jpg|New_Islamabad_International_Airport,.jpg]]; it has been deleted from Commons by [[:c:User:Jdforrester|Jdforrester]] because: per [[:c:Commons:Deletion requests/File:New Islamabad International Ai"
+2021-09-19T00:12:04+00:00,1045128074,1044967013,0,Loqiical,Islamabad International Airport,Links
+2021-08-10T01:46:11+00:00,1038018592,1037279679,0,137.59.228.194,Islamabad International Airport,/* Airlines and destinations */
+2021-05-23T22:33:22+00:00,1024750636,1024567017,0,Inertia6084,Islamabad International Airport,([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:PIA maintainence hangar at ISB airport.jpg]] → [[File:PIA maintenance hangar at ISB airport.jpg]] [[c:COM:FR#FR3|Criterion 3]] (obvious error)
+2021-05-28T15:20:06+00:00,1025618841,1025617551,0,شیخ محمد اسامہ,Islamabad International Airport,/* Ground transport */Fixed Typo
+2021-03-12T13:47:20+00:00,1011725126,1010409675,0,5.107.230.243,Islamabad International Airport,/* Passenger */
+2021-10-11T02:57:28+00:00,1049308921,1049265463,0,JCPOA,Islamabad International Airport,
+2021-03-19T21:22:23+00:00,1013070355,1011204051,0,174.85.231.142,Jomo Kenyatta International Airport,Undid revision 1011204051 by [[Special:Contributions/131.106.41.220|131.106.41.220]] ([[User talk:131.106.41.220|talk]])we don’t list those flights
+2021-10-01T07:45:12+00:00,1047526420,1047384368,0,廣九直通車,Jomo Kenyatta International Airport,fix
+2021-04-13T05:30:52+00:00,1017510881,1015199107,0,Eddie Ogyner,Jomo Kenyatta International Airport,#suggestededit-add 1.0
+2021-01-13T18:40:44+00:00,1000128440,999575564,0,2001:A61:1059:E901:D594:BC96:4C92:B2B1,Jomo Kenyatta International Airport,/* Cargo */ name according to tkcargo.com
+2021-04-26T20:23:50+00:00,1020035525,1019132095,0,Sm105,Jomo Kenyatta International Airport,/* Passenger */ disambiguation for Monrovia-Roberts per WP:AIRPORT-CONTENT
+2021-03-09T16:27:42+00:00,1011204051,1008201417,0,131.106.41.220,Jomo Kenyatta International Airport,/* Passenger */https://www.moneycontrol.com/news/trends/travel-trends/international-flights-on-november-24-here-are-flights-operated-by-air-india-under-vande-bharat-mission-6149641.html
+2021-04-21T18:00:54+00:00,1019132095,1017510881,0,41.90.38.104,Jomo Kenyatta International Airport,Added missing info and corrected sentences
+2021-03-31T03:58:56+00:00,1015199107,1014625982,0,Nairobi123,Jomo Kenyatta International Airport,
+2020-11-09T00:48:44+00:00,987750026,987738605,0,67.218.217.86,Jomo Kenyatta International Airport,
+2021-02-02T07:52:39+00:00,1004369204,1004259070,0,Roundbush,Jomo Kenyatta International Airport,edit in-text link
+2020-12-31T11:54:26+00:00,997418502,997418456,0,197.250.228.140,Jomo Kenyatta International Airport,/* Jomo Kenyatta International Airport */
+2021-02-22T02:27:09+00:00,1008201417,1007583773,0,Truthanado,Jomo Kenyatta International Airport,"/* 1950s and 1960s */ c/e, grammar"
+2020-11-14T14:54:50+00:00,988664112,988664066,0,188.174.161.131,Jomo Kenyatta International Airport,/* Cargo */ standard spelling
+2021-09-29T21:24:28+00:00,1047255936,1047178461,0,LéKashmiriSocialiste,Kabul International Airport,
+2021-07-04T09:46:05+00:00,1031897809,1031897518,0,2001:A61:10C4:C201:617F:21EF:44BF:98DE,Kabul International Airport,/* History */ missing caption added
+2021-09-03T01:46:33+00:00,1042065769,1042014775,0,Maurice Oly,Kabul International Airport,[[WP:SPS]]
+2021-10-06T19:28:33+00:00,1048576414,1048049868,0,Zoozaz1,Kabul International Airport,removed undue coverage of current events from lead
+2021-09-08T20:29:17+00:00,1043190388,1043167851,0,Jasper Chu,Kabul International Airport,
+2021-09-14T06:32:15+00:00,1044229094,1044229041,0,LéKashmiriSocialiste,Kabul International Airport,/* History */
+2020-09-29T19:04:45+00:00,981008213,981003233,0,Danre98,Kabul International Airport,Undid revision 981003233 by [[Special:Contributions/62.74.11.105|62.74.11.105]] ([[User talk:62.74.11.105|talk]]) Now called Karzai
+2021-07-27T11:00:45+00:00,1035733242,1035733188,0,2A02:C7F:31CF:6400:4831:99A8:7F1B:7AE7,Kabul International Airport,
+2021-09-03T23:04:49+00:00,1042242090,1042065769,0,Karma1998,Kabul International Airport,
+2020-11-01T13:52:34+00:00,986537678,986506307,0,59.149.145.146,Kabul International Airport,
+2021-06-12T22:27:18+00:00,1028266054,1028266019,0,LizardJr8,Kabul International Airport,Reverted edits by [[Special:Contributions/81.92.27.192|81.92.27.192]] ([[User talk:81.92.27.192|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-09-14T16:43:32+00:00,1044318288,1044317910,0,5.213.33.240,Kabul International Airport,/* Airlines and destinations */
+2021-02-11T06:24:02+00:00,1006131364,1004912515,0,FutureLove,LGBT rights in Bangladesh,"Punctuation, capitalization, and spacing edit; simplified some of the sentences"
+2021-06-02T21:00:11+00:00,1026534516,1026346042,0,SimLibrarian,LGBT rights in Bangladesh,copy edits
+2021-04-19T19:08:17+00:00,1018766704,1018180577,0,188.211.161.127,LGBT rights in Bangladesh,
+2021-08-10T05:37:52+00:00,1038042419,1033243628,0,210.4.73.86,LGBT rights in Bangladesh,/* History */
+2021-08-31T11:45:21+00:00,1041594605,1041594155,0,Twotwice,LGBT rights in Bangladesh,The first reference is about Malaysia. The second does not mention HRW.
+2021-08-13T15:55:32+00:00,1038610976,1038610017,0,43.245.123.180,LGBT rights in Bangladesh,Some change
+2021-07-01T16:51:45+00:00,1031441353,1031364879,0,Drmies,LGBT rights in Bangladesh,"rv: likely block evasion, [[Wikipedia:Sockpuppet investigations/Jacobkennedy]]"
+2021-04-25T17:34:23+00:00,1019831687,1019831647,0,The Dauphin,LGBT rights in Bangladesh,Undid revision 1019831069 by [[Special:Contributions/103.143.34.210|103.143.34.210]] ([[User talk:103.143.34.210|talk]])
+2020-11-30T04:09:01+00:00,991457581,991457226,0,2601:184:4980:1180:3970:CB9E:A07C:85EF,LGBT rights in Bangladesh,
+2021-02-05T01:34:54+00:00,1004912515,1001261254,0,Paigesaitz,LGBT rights in Bangladesh,writing style
+2020-11-14T02:02:16+00:00,988587131,988480592,0,218.212.214.218,List of countries by GDP (nominal) per capita,
+2021-01-26T21:06:33+00:00,1002964542,1002964407,0,1.22.69.18,List of countries by GDP (nominal) per capita,Undid revision 1002891276 by [[Special:Contributions/MasterchiefJohn117Gopnik|MasterchiefJohn117Gopnik]] ([[User talk:MasterchiefJohn117Gopnik|talk]])   <--- This idiot Bob-Vagene Pajeet is fakely increasing India value and decreasing other countries
+2020-12-02T12:42:05+00:00,991904710,991510261,0,Innocent Paki,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */Added Benin as per given source. No official data has been released for Pakistan in year 2020.
+2021-04-28T14:44:34+00:00,1020334594,1020302475,0,Chii888,List of countries by GDP (nominal) per capita,
+2021-02-26T13:52:15+00:00,1009055360,1009055142,0,Ender650,List of countries by GDP (nominal) per capita,trying to repair vandalism
+2021-09-04T06:04:52+00:00,1042290126,1041830073,0,Allice Hunter,List of countries by GDP (nominal) per capita,2021 map
+2021-03-02T01:18:18+00:00,1009730699,1009730461,0,104.189.70.120,List of countries by GDP (nominal) per capita,
+2020-12-22T15:19:59+00:00,995723038,995722807,0,2A00:23C4:BC06:6301:44B1:E587:5D55:D526,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-06-13T18:07:01+00:00,1028390752,1028024759,0,EvergreenFir,List of countries by GDP (nominal) per capita,rvv
+2021-03-30T03:58:55+00:00,1014997333,1014992133,0,Q2f96k1z09tsny5iva29,List of countries by GDP (nominal) per capita,"/* List of per capita nominal GDP for countries and dependencies */ oh, also this one is 2020 too"
+2021-01-28T19:08:11+00:00,1003387110,1003383697,0,2600:8801:C500:60E:94C0:9972:D25C:FAEF,List of countries by GDP (nominal) per capita,Undid revision 1003383697 by [[Special:Contributions/2409:4063:2108:BBCC:17F8:4F7B:4A12:513C|2409:4063:2108:BBCC:17F8:4F7B:4A12:513C]] ([[User talk:2409:4063:2108:BBCC:17F8:4F7B:4A12:513C|talk]])
+2021-02-09T08:40:27+00:00,1005762024,1005690361,0,UnableDiver,List of countries by GDP (nominal) per capita,
+2021-07-12T14:01:00+00:00,1033243277,1031826952,0,16AdityaG09,List of countries by GDP (nominal) per capita,Removed obvious typo.
+2021-02-12T22:19:57+00:00,1006439407,1006438774,0,80.215.96.116,List of countries by GDP (nominal) per capita,
+2021-04-01T03:52:24+00:00,1015378147,1014997333,0,Q2f96k1z09tsny5iva29,List of countries by GDP (nominal) per capita,fixing wl
+2021-01-15T15:42:37+00:00,1000546003,1000545842,0,Applaused,List of countries by GDP (nominal) per capita,Undid revision 1000518314 by [[Special:Contributions/YASHU2004|YASHU2004]] ([[User talk:YASHU2004|talk]])
+2021-10-09T12:35:27+00:00,1049030975,1046490893,0,Hoangquoctrung1201,List of countries by GDP (nominal) per capita,
+2020-11-14T07:36:07+00:00,988620352,988587131,0,2402:7500:5D5:805:2C82:B4CD:17F7:B8F8,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */Fixed typo
+2020-12-29T19:10:17+00:00,997041902,997039227,0,Bhijo,List of countries by GDP (nominal) per capita,
+2021-05-21T17:34:07+00:00,1024365236,1024289529,0,Maqayum,List of countries by GDP (nominal) per capita,
+2021-02-24T00:19:06+00:00,1008570753,1008569130,0,125.161.130.38,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2020-12-30T03:18:13+00:00,997126155,997126078,0,71.202.124.35,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-01-02T19:24:34+00:00,997893430,997126155,0,67.216.55.206,List of countries by GDP (nominal) per capita,
+2021-07-17T13:30:38+00:00,1034049471,1034048877,0,LVTW2,List of countries by GDP (nominal) per capita,Undid revision 1034048877 by [[Special:Contributions/LVTW2|LVTW2]] ([[User talk:LVTW2|talk]]) My apology for previous reversion mistakenly. I did not notice it is a list in reference to GDP per capita
+2021-04-12T15:56:26+00:00,1017408869,1017159715,0,Dineshswamiin,List of countries by GDP (nominal) per capita,I just removing space
+2020-11-09T08:51:51+00:00,987797862,987797252,0,AbdullahYakub772,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-04-11T05:21:37+00:00,1017159715,1017155959,0,Q2f96k1z09tsny5iva29,List of countries by GDP (nominal) per capita,Undid revision 1017155959 by [[Special:Contributions/Masud984|Masud984]] ([[User talk:Masud984|talk]]) and again
+2020-10-25T16:27:46+00:00,985376504,985360166,0,99.199.175.110,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-01-08T00:04:55+00:00,998990416,998927395,0,188.253.224.154,List of countries by GDP (nominal) per capita,"/* List of per capita nominal GDP for countries and dependencies */ GDP (nominal) per capita (section) of Azerbaijan is 4,721 usd"
+2021-07-03T22:03:25+00:00,1031826952,1031776748,0,Mike19800101,List of countries by GDP (nominal) per capita,/* Table */
+2021-02-18T06:37:00+00:00,1007458100,1007446113,0,117.56.233.43,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2020-12-07T14:39:21+00:00,992864410,992827534,0,122.181.71.98,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-05-11T15:43:57+00:00,1022627341,1020900700,0,Pullar56,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-01-25T02:24:27+00:00,1002575851,1002575700,0,Fuzheado,List of countries by GDP (nominal) per capita,Reverted edits by [[Special:Contributions/2603:8080:C02:4D8A:4D23:C171:506D:8A20|2603:8080:C02:4D8A:4D23:C171:506D:8A20]] ([[User talk:2603:8080:C02:4D8A:4D23:C171:506D:8A20|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-05-15T04:55:51+00:00,1023225563,1022627341,0,Chxeese,List of countries by GDP (nominal) per capita,/* List of per capita nominal GDP for countries and dependencies */
+2021-06-28T12:52:21+00:00,1030866277,1030814599,0,LVTW2,List of countries by GDP (nominal) per capita,/* Table */ -updates
+2020-12-17T12:00:48+00:00,994763020,994762881,0,Nillurcheier,List of countries by GDP (nominal) per capita,subnational entities
+2020-12-04T18:30:34+00:00,992330813,992329664,0,76.69.69.88,List of countries by GDP (nominal) per capita,
+2021-03-21T15:05:05+00:00,1013421350,1013421285,0,87.117.62.230,List of countries by GDP (nominal) per capita,
+2021-08-16T12:49:36+00:00,1039062211,1034049471,0,Graham87,List of countries by GDP (nominal) per capita,"/* Distorted GDP-per-capita for tax havens */ add ""the"""
+2021-06-27T10:48:30+00:00,1030668584,1030667338,0,知识即力量,List of countries by GDP (nominal) per capita,
+2021-10-08T07:51:22+00:00,1048835927,1046845946,0,Kristianmusic,Nursultan Nazarbayev International Airport,/* Passenger */
+2020-11-26T03:14:34+00:00,990718330,990534461,0,Bohimei,List of countries by GDP (nominal) per capita,Bangladesh's per capita gdp projection is 1888 for 2020
+2021-03-21T22:18:22+00:00,1013491101,1012592511,0,Jomart Allaguliyev,Nursultan Nazarbayev International Airport,#suggestededit-add 1.0
+2021-05-26T12:27:37+00:00,1025224827,1025054335,0,Fippe,Nursultan Nazarbayev International Airport,
+2021-02-18T20:36:59+00:00,1007567502,1007566382,0,Fort esc,Nursultan Nazarbayev International Airport,/* Busiest routes */
+2021-06-02T19:02:03+00:00,1026517906,1025224827,0,Kristianmusic,Nursultan Nazarbayev International Airport,/* Passenger */
+2021-03-17T06:42:23+00:00,1012592511,1012048008,0,Kristianmusic,Nursultan Nazarbayev International Airport,/* Passenger */
+2020-10-31T13:05:30+00:00,986374396,982808558,0,Paine Ellsworth,Nursultan Nazarbayev International Airport,/* Passenger */dablinks
+2020-11-22T08:38:31+00:00,990013819,989901458,0,Kristianmusic,Nursultan Nazarbayev International Airport,/* Passenger */
+2021-02-24T11:56:20+00:00,1008660057,1008659986,0,2001:A61:1077:4A01:D4BC:C6C4:A503:78F4,Queen Alia International Airport,"Undid revision 1007338123 by [[Special:Contributions/Andrewgprout|Andrewgprout]] ([[User talk:Andrewgprout|talk]]) changes were adequately sourced, unexplained revision"
+2020-12-28T14:59:04+00:00,996771836,996181539,0,188.247.92.235,Queen Alia International Airport,/* Airport management */
+2021-09-28T20:47:03+00:00,1047067233,1047066977,0,78.98.49.120,Queen Alia International Airport,
+2021-01-02T13:51:20+00:00,997839736,996771836,0,188.174.170.35,Queen Alia International Airport,/* Passenger */ reference checked; route no longer available in the 2021 schedule while others are on their website
+2021-01-24T17:03:42+00:00,1002474931,1001567512,0,Romanian aviation,Queen Alia International Airport,/* Airlines and destinations */ Bucharest was written twice
+2020-10-22T19:17:19+00:00,984897370,982508650,0,Thenoflyzone,Queen Alia International Airport,/* Cargo */ Qatar Airways Cargo no longer serves AMM. Source: https://www.qrcargo.com/docs/Freight_Network_Map_W20-21.pdf
+2020-12-03T00:26:10+00:00,992009127,984506048,0,A bit iffy,Shah Amanat International Airport,+ short description
+2021-01-30T17:23:01+00:00,1003781771,1000720194,0,Uli Elch,Shah Amanat International Airport,lf
+2020-10-20T12:52:19+00:00,984506048,981138042,0,Wappy2008,Shah Amanat International Airport,/* Airlines and destinations */ service began
+2021-08-30T09:57:07+00:00,1041401360,1024088522,0,RiazACU,Shah Amanat International Airport,
+2021-04-19T13:40:21+00:00,1018714491,1016627921,0,CommonsDelinker,Shah Amanat International Airport,Removing [[:c:File:Special_big_bird!_Antonov_An124-100_CGP_VGEG_UT_ZYD.jpg|Special_big_bird!_Antonov_An124-100_CGP_VGEG_UT_ZYD.jpg]]; it has been deleted from Commons by [[:c:User:Túrelio|Túrelio]] because: [[:c:COM:L|Copyright violation]]: Uploaded as so
+2021-07-12T02:45:58+00:00,1033176008,1032968367,0,Jellywings19,Suvarnabhumi Airport,/* Passenger */
+2021-06-20T15:47:05+00:00,1029534834,1029306152,0,92.22.214.48,Suvarnabhumi Airport,/* Passenger */
+2021-04-14T11:29:28+00:00,1017747886,1017180397,0,Jaruphat,Suvarnabhumi Airport,
+2021-09-30T12:05:02+00:00,1047352417,1046096792,0,Doraemon25,Suvarnabhumi Airport,/* Passenger */
+2021-02-07T12:02:20+00:00,1005387009,1005349268,0,Jaruphat,Suvarnabhumi Airport,/* History */
+2021-08-06T04:59:25+00:00,1037371965,1037361890,0,Binksternet,Suvarnabhumi Airport,Reverted 1 edit by [[Special:Contributions/103.246.39.1|103.246.39.1]] ([[User talk:103.246.39.1|talk]]): Rv... Block evasion by [[Special:Contributions/103.246.39.2]].
+2021-08-22T03:31:58+00:00,1040005207,1039516138,0,Jaruphat,Suvarnabhumi Airport,
+2021-01-21T22:52:14+00:00,1001907843,1001907620,0,Sgly,Suvarnabhumi Airport,/* Cargo */
+2021-09-19T17:53:33+00:00,1045264096,1042663606,0,178.142.245.17,Suvarnabhumi Airport,/* Accidents and incidents */Typo
+2021-07-12T04:25:53+00:00,1033185465,1033176008,0,EricSDA,Suvarnabhumi Airport,Undid revision 1033176008 by [[Special:Contributions/Jellywings19|Jellywings19]] ([[User talk:Jellywings19|talk]])
+2020-11-13T13:36:59+00:00,988483963,987698668,0,2403:6200:88A3:231:842E:EBFB:D6BB:95EE,Suvarnabhumi Airport,/* Airlines and destinations */
+2021-09-06T04:14:14+00:00,1042663606,1042456503,0,Sastravuth1786,Suvarnabhumi Airport,/* Events */
+2021-05-25T23:11:24+00:00,1025139002,1024954381,0,BoiT-98,Suvarnabhumi Airport,
+2021-02-25T10:51:40+00:00,1008849148,1008780991,0,Doraemon25,Suvarnabhumi Airport,/* Passenger */
+2021-04-24T13:31:18+00:00,1019630273,1019558194,0,Jaruphat,Suvarnabhumi Airport,
+2021-07-21T17:30:33+00:00,1034763791,1034734017,0,Slawek DJ,Suvarnabhumi Airport,"/* Airlines and destinations */ The flights to Poznan, Poland are undertaken by LOT Polish Airlines as a seasonal charter on behalf of Rainbow Tour Agency. Its not part of LOT's scheduled flights."
+2021-04-20T09:57:32+00:00,1018869080,1018337042,0,Redakie,Suvarnabhumi Airport,
+2021-09-05T03:01:42+00:00,1042456503,1042394514,0,115.178.193.179,Suvarnabhumi Airport,/* Cargo */
+2021-07-01T09:19:01+00:00,1031384395,1031374295,0,Already Fixed It,Suvarnabhumi Airport,
+2021-08-29T09:51:24+00:00,1041226128,1041141856,0,Nick Moyes,Suvarnabhumi Airport,Reverted 1 edit by [[Special:Contributions/2607:FEA8:6960:3C00:39ED:2670:5E74:EE03|2607:FEA8:6960:3C00:39ED:2670:5E74:EE03]] ([[User talk:2607:FEA8:6960:3C00:39ED:2670:5E74:EE03|talk]]): Reverting blocked editor (HeeheeYogen8)
+2020-11-30T13:01:56+00:00,991509411,991041643,0,Filedelinkerbot,Suvarnabhumi Airport,"Bot: Removing [[c:File:Suvarnabhumi airport developpement phase 2.jpg]] , deleted by [[:C:User:Wdwd|Wdwd]] (per [[Commons:Commons:Deletion requests/File:Suvarnabhumi airport developpement phase 2.jpg]])."
+2021-08-11T15:12:25+00:00,1038273735,1037869001,0,Paris1127,Suvarnabhumi Airport,/* Bus */
+2021-07-30T18:01:29+00:00,1036302160,1036301222,0,2607:FEA8:6941:EC00:E59C:F6C5:BA9D:688C,Suvarnabhumi Airport,
+2021-08-25T05:18:01+00:00,1040540373,1040504066,0,Hms1103,Suvarnabhumi Airport,/* Future Expansion */ Fixed wording
+2021-06-19T05:08:51+00:00,1029306152,1029285591,0,Minorax,Suvarnabhumi Airport,([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Bangkok Suvarnabhumi 4.jpg]] → [[File:Thai Airways International Airbus A340-541 (HS-TLA) at Suvarnabhumi International Airport.jpg]] [[c:COM:FR#FR2|Criterion 2]]
+2021-08-02T19:22:40+00:00,1036797561,1036302160,0,114.79.0.185,Suvarnabhumi Airport,/* Cargo */
+2021-08-08T00:07:27+00:00,1037665763,1037371965,0,LukeWWF,Suvarnabhumi Airport,Updated history for 2021 - airport used as a hospital as well as vaccination centre
+2021-09-02T21:49:24+00:00,1042032478,1041226128,0,120.188.2.239,Suvarnabhumi Airport,/* Passenger */
+2020-10-25T06:00:52+00:00,985307835,984530750,0,FrescoBot,Suvarnabhumi Airport,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2021-01-31T15:59:58+00:00,1003976327,1003975988,0,117.227.25.211,Talk:Hazrat Shahjalal International Airport,/* US Bangla adds new flight to Dubai */
+2020-04-09T10:35:45+00:00,949937453,949937357,0,SineBot,Talk:List of hypermarkets,"Signing comment by [[User:MLA20|MLA20]] - ""/* Hungry -> Hungary */ new section"""
+2020-08-01T15:43:01+00:00,970647923,970596954,0,Diannaa,User talk:Doraemon25,/* February 2019 */ adequate
+2021-08-18T22:37:48+00:00,1039472326,1035725730,0,Liance,User talk:Doraemon25,declined ([[WP:AFCH|AFCH]] 0.9.1)
+2021-07-27T09:53:09+00:00,1035725730,1033932701,0,Cerebellum,User talk:Doraemon25,Notification: Your [[Wikipedia:Articles for creation|Articles for creation]] submission has been accepted ([[WP:AFCH|AFCH]] 0.9.1)
+2021-06-18T21:08:27+00:00,1029258153,1021167044,0,Zoozaz1,User talk:Doraemon25,Notification: Your [[Wikipedia:Articles for creation|Articles for creation]] submission has been accepted ([[WP:AFCH|AFCH]] 0.9.1)
+2021-07-16T18:48:47+00:00,1033932701,1029258153,0,TheBirdsShedTears,User talk:Doraemon25,declined ([[WP:AFCH|AFCH]] 0.9.1)
+2020-10-02T03:43:11+00:00,981408044,977343952,0,Hatchens,User talk:ImSonyR9,Notification: [[Wikipedia:Articles for deletion/Deepak Agrawal (2nd nomination)|nomination]] of [[:Deepak Agrawal]]  at [[WP:AFD|articles for deletion]].
+2021-01-27T06:57:13+00:00,1003063907,996956653,0,Störm,User talk:ImSonyR9,Notification: [[Wikipedia:Articles for deletion/List of international cricket centuries by Tamim Iqbal|listing]] of [[:List of international cricket centuries by Tamim Iqbal]] at [[WP:Articles for deletion]].
+2021-08-16T20:06:55+00:00,1039118940,1030315187,0,WaddlesJP13,User talk:ImSonyR9,Notification: speedy deletion nomination of [[:Pawandeep Rajan]].
+2021-04-05T01:00:12+00:00,1016029900,1015074389,0,FastilyBot,User talk:ImSonyR9,BOT: Some of your file(s) may need attention
+2021-06-04T12:34:22+00:00,1026819982,1024177655,0,Nomadicghumakkad,User talk:ImSonyR9,Notification: speedy deletion nomination of [[:Draft:Khushi Shah]].
+2020-12-14T00:57:59+00:00,994082110,994073375,0,HawkAussie,User talk:ImSonyR9,Notification: speedy deletion nomination of [[:Sri Lanka at the Cricket World Cup]].
+2021-06-12T23:02:42+00:00,1028269280,1026819982,0,Jpgordon,User talk:ImSonyR9,Accepting unblock request ([[User:Enterprisey/unblock-review|unblock-review]])
+2021-03-30T14:21:09+00:00,1015074389,1013541459,0,Explicit,User talk:ImSonyR9,Notification: tagging for deletion of [[:File:Mominul and Kohli poses with trophy.jpg]].
+2021-04-08T13:44:43+00:00,1016674093,1016673331,0,Corner2002,User talk:LeoFrank,"/* Anonymous user */Error, fixed typo"
+2021-07-24T22:25:27+00:00,1035308527,1032512331,0,PearBOT II,User talk:LeoFrank,Merge Archives and Auto archiving notice per [[Wikipedia:Templates_for_discussion/Log/2021_May_13#Template:Auto_archiving_notice|TfD]]
+2021-05-06T07:18:13+00:00,1021708616,1017213005,0,223.186.247.153,User talk:LeoFrank,
+2020-12-28T19:11:09+00:00,996814215,996814020,0,SineBot,User talk:LeoFrank,"Signing comment by [[User:Yellow alligator|Yellow alligator]] - ""/* Air India HYD - ORD */"""
+2021-03-01T12:12:58+00:00,1009609195,1009609134,0,Hari.shreyas08,User talk:LeoFrank,/* Major Missing Destinations - Hyderabad Airport */
+2020-06-21T13:51:29+00:00,963732657,963376918,0,220 of Borg,User talk:Tahsin Ahnav,Notice: Not using edit summary. ([[WP:TW|TW]])
+2021-02-24T10:59:48+00:00,1008653560,1008646640,0,Fylindfotberserk,User talk:Tahsin Ahnav,/* Religion and ethnicty */ new section
+2020-11-30T19:13:26+00:00,991569136,990372883,0,UnitedStatesian,User talk:Tahsin Ahnav,Notification: speedy deletion nomination of [[:Draft:Parbatya Bandarban]].
+2021-03-06T04:49:40+00:00,1010573915,1005767123,0,Deepfriedokra,User talk:Vertexgodblessing,You have been blocked from editing for persistent addition of [[WP:INTREF|unsourced content]].
+2021-03-20T10:20:56+00:00,1013157924,1010573915,0,HJ Mitchell,User talk:Vertexgodblessing,You have been indefinitely blocked from editing.
+2021-02-05T03:59:32+00:00,1004933450,1004637272,0,Ron2K,Visa requirements for Bangladeshi citizens,/* Visa requirements */ updated information for NZL
+2021-01-09T13:21:24+00:00,999296006,998220397,0,SalamAlayka,Visa requirements for Bangladeshi citizens,/* Visa requirements */
+2021-08-16T18:35:59+00:00,1039106420,1034393170,0,Trappist the monk,Visa requirements for Bangladeshi citizens,/* Visa requirements */replace {{[[Template:date|date]]}} in cs1|2 date-holding parameters; evaluated 28 templates; 1 parameter modified; removed redundant |df= (3×);
+2021-04-05T06:02:02+00:00,1016065467,1016062682,0,Enderian,Visa requirements for Bangladeshi citizens,/* Visa requirements */
+2021-09-07T04:05:59+00:00,1042858385,1039106420,0,201.219.234.162,Visa requirements for Bangladeshi citizens,/* Visa requirements */
+2021-05-13T16:53:10+00:00,1022983731,1022983272,0,2A02:8109:8540:4524:1C1A:2841:1FF2:FF0F,Visa requirements for Bangladeshi citizens,/* Visa requirements */
+2021-07-11T00:35:07+00:00,1033002807,1033001633,0,MrOllie,Visa requirements for Bangladeshi citizens,Reverted 1 edit by [[Special:Contributions/Imonkarim|Imonkarim]] ([[User talk:Imonkarim|talk]]): Linkspam
+2021-02-03T16:37:42+00:00,1004637272,1004019485,0,116.58.201.79,Visa requirements for Bangladeshi citizens,now the holder of BD passports can access 41 countries and territories
+2021-01-26T11:25:32+00:00,1002866949,999296006,0,220.152.115.59,Visa requirements for Bangladeshi citizens,There was a problem on issuing visa from both of the country. But recently Pakistan  removed the restrictions of visa for Bangladeshi people. You can see the link given by the previous editor.
+2020-10-26T00:27:32+00:00,985445207,985445134,0,MarkH21,Wikipedia talk:WikiProject Airports,/* Indirect destinations in airport articles */ +
+2021-05-16T05:41:02+00:00,1023399806,1022723519,0,Peaceray,Wikipedia talk:WikiProject Airports,Notifying WikiProject of proposed category deletion as per [[WP:CFD#Notifying interested projects and editors]]
+2021-08-18T00:15:28+00:00,1039312906,1037146794,0,GA-RT-22,Wikipedia talk:WikiProject Airports,/* Move discussion in progress */ new section
+2020-11-25T23:19:17+00:00,990687647,990687588,0,2601:581:8402:1EE0:304C:CD3D:3958:6A95,Wikipedia talk:WikiProject Airports,/* List of airports in the United States cleanup */
+2021-04-16T15:56:08+00:00,1018163976,1018162642,0,Canterbury Tail,Wikipedia talk:WikiProject Airports,/* Calais–Dunkerque Airport */ re
+2021-02-21T22:49:51+00:00,1008169135,1005326255,0,Instaurare,Wikipedia talk:WikiProject Airports,/* Historical destinations */ new section
+2021-02-28T15:15:33+00:00,1009429586,1009429288,0,2601:581:8402:6620:304C:CD3D:3958:6A95,Wikipedia talk:WikiProject Airports,/* Delta Air Lines Accidents and Incidents section Flight 2231 deletion */
+2021-03-28T04:26:03+00:00,1014619959,1014543529,0,Reywas92,Wikipedia talk:WikiProject Airports,/* RFC: Mainline/Regional and Annual Traffic */ Replying to Blissfield101 (using [[w:en:User:Enterprisey/reply-link|reply-link]])
+2021-04-27T02:16:20+00:00,1020080736,1019992223,0,2601:581:8402:6620:FD67:AC1:A7CE:1123,Wikipedia talk:WikiProject Airports,/* Changing/updating an FAA diagram */
+2021-04-10T08:54:46+00:00,1017012869,1017012732,0,Jan olieslagers,Wikipedia talk:WikiProject Airports,/* Discussion */
+2021-03-11T23:33:48+00:00,1011629740,1011592685,0,The Banner,Wikipedia talk:WikiProject Airports,/* Destination maps */
+2021-10-06T15:27:37+00:00,1048543141,1048412529,0,Pigsonthewing,Wikipedia talk:WikiProject Airports,/* Early UK airports */ c
+2020-11-06T02:21:09+00:00,987289882,987248421,0,Metropolitan90,Wikipedia talk:WikiProject Airports,/* What counts as a commercial enplanement? */
+2021-04-07T12:47:31+00:00,1016486431,1016434001,0,SportingFlyer,Wikipedia talk:WikiProject Airports,/* Discussion */ response
+2021-05-24T07:34:49+00:00,1024818740,1024818515,0,Inkfo,Wikipedia talk:WikiProject Airports,/* Pre-pandemic destination charts */ new section
+2021-04-09T14:35:10+00:00,1016871324,1016870756,0,Blissfield101,Wikipedia talk:WikiProject Airports,/* Discussion */
+2020-12-25T20:28:18+00:00,996311209,996216169,0,Ahunt,Wikipedia talk:WikiProject Airports,Notification of nomination for deletion of [[Austin–Bergstrom International Airport runway incident]]
+2021-05-21T21:19:26+00:00,1024396758,1024308638,0,142.73.16.9,Workweek and weekend,/* China (People's Republic) */ edited to correct grammar
+2021-07-28T09:36:59+00:00,1035900995,1034831484,0,50.35.99.54,Workweek and weekend,"/* Table */Corrected entry about working hours. Typical hours worked per day column indicated most people work Monday-Saturday, but it wasn't included in the working week. It's true, most Filipinos work Monday-Saturday. That's the standard expectation for most jobs. To work a five-day work week, most Filipinos need to work 10 hours per day to reach 48 hours by the end of Friday."
+2020-11-28T02:30:02+00:00,991067265,990922191,0,Biogeographist,Workweek and weekend,removed red link to deleted page
+2021-05-15T01:12:14+00:00,1023205432,1021274035,0,71.161.235.45,Workweek and weekend,/* Table */
+2021-08-30T09:35:08+00:00,1041399013,1041398893,0,2001:16A2:F151:D600:CDF6:E327:F0BB:BB21,Workweek and weekend,/* Table */
+2021-09-10T13:40:39+00:00,1043514647,1041399013,0,223.191.49.111,Workweek and weekend,
+2020-12-04T15:18:21+00:00,992295439,991888066,0,181.188.164.159,Workweek and weekend,/* Table */
+2020-12-31T21:59:17+00:00,997513262,995142482,0,MadTroll,Workweek and weekend,9 hour workday with 1 hour lunch - 40 hour workweek is standard.
+2021-02-20T03:28:18+00:00,1007826704,1007731651,0,Bender the Bot,Workweek and weekend,"/* History */HTTP → HTTPS for Bill Thayer's [[LacusCurtius]], replaced: =http://penelope.uchicago.edu/Thayer/ → =https://penelope.uchicago.edu/Thayer/"
+2021-08-14T14:22:13+00:00,1038752835,1036329966,0,41.224.214.168,Workweek and weekend,/* Friday–Saturday weekend */
+2020-11-13T02:14:24+00:00,988423122,988423075,0,Michaelwallace22,Workweek and weekend,/* See also */
+2021-07-29T10:39:58+00:00,1036079121,1036078080,0,ITBF,Workweek and weekend,/* Australia */
+2021-03-24T22:45:17+00:00,1014054903,1013164276,0,Lights and freedom,Workweek and weekend,This wasn't true
+2021-04-12T04:54:29+00:00,1017329936,1017329886,0,Tvtonightokc,Workweek and weekend,
+2020-12-01T04:06:54+00:00,991652646,991067265,0,Biogeographist,Workweek and weekend,restored link: page was recreated after being deleted
+2021-07-30T21:37:15+00:00,1036329966,1036079121,0,108.227.20.255,Workweek and weekend,/* Africa */
+2021-01-21T18:41:47+00:00,1001859654,1001824996,0,68.112.101.243,Workweek and weekend,/* Workweek and weekend */ Fixed typo
+2021-04-24T16:00:25+00:00,1019648425,1018340459,0,14.192.216.196,Workweek and weekend,
+2020-12-19T13:31:04+00:00,995142482,995142443,0,181.188.164.114,Workweek and weekend,/* Table */
+2021-03-16T15:40:30+00:00,1012474422,1012158032,0,KinsaleAnnette,Workweek and weekend,Added missing word and full stop before new sentence
+2021-02-11T11:54:36+00:00,1006163555,1006163433,0,511KeV,Workweek and weekend,Reverted edits by [[Special:Contributions/103.99.149.106|103.99.149.106]] ([[User talk:103.99.149.106|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-09-25T18:39:32+00:00,1046449742,1045537535,0,2409:4065:E04:9AA3:B91C:E241:D50D:702,Workweek and weekend,/* Table */
+2021-05-03T20:34:12+00:00,1021274035,1020472980,0,WikiCleanerBot,Workweek and weekend,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation - Title linked in text)
+2020-12-02T09:27:42+00:00,991888066,991652646,0,Mia yun Ruse,Workweek and weekend,Legality of UK working law (as it currently will apply following Brexit)
+2021-10-03T11:42:39+00:00,1047940388,1047639161,0,88.207.202.157,Workweek and weekend,/* Table */
+2021-06-21T15:55:45+00:00,1029715230,1029688781,0,Biogeographist,Workweek and weekend,removed [[WP:REFSPAM]]-like sentences added to multiple articles
+2020-11-19T19:22:08+00:00,989569238,989563754,0,2A02:C7D:B31C:6000:2DE4:A55D:D7AE:7EE0,Workweek and weekend,
+2020-11-07T04:26:04+00:00,987454972,987157437,0,Drsuess123,Workweek and weekend,
+2021-03-20T11:21:45+00:00,1013164276,1013164175,0,2A00:A040:194:34B6:9809:5767:E9A7:FC75,Workweek and weekend,/* Asia and Australia */
+2021-04-07T12:45:28+00:00,1016486135,1016471438,0,79.73.44.225,Workweek and weekend,/* Table */Fixed false content
+2021-10-01T05:23:41+00:00,1047507529,1047449496,0,37.111.15.189,Yangon International Airport,Yangon
+2021-02-14T11:25:31+00:00,1006716666,1006134383,0,LSGH,Yangon International Airport,ce
+2021-09-15T05:15:03+00:00,1044427288,1044380694,0,RaviVimana,Yangon International Airport,/* External links */
+2021-08-19T15:10:49+00:00,1039585954,1035919983,0,Kantabon,Yangon International Airport,/* Airport shuttle bus */
+2020-10-21T20:37:11+00:00,984741539,976024091,0,Peter1170,Yangon International Airport,/* Passenger */ Out of Business
+2021-02-11T06:57:35+00:00,1006134383,1004574677,0,1.22.98.84,Yangon International Airport,/* Passenger */
+2021-07-28T12:14:34+00:00,1035919983,1031330408,0,Kantabon,Yangon International Airport,/* Terminals */
+2020-12-11T08:32:49+00:00,993571837,992201095,0,203.190.55.26,Yangon International Airport,/* Passenger */
+2021-02-03T08:05:39+00:00,1004574677,1003656819,0,GraemeLeggett,Yangon International Airport,/* History */ use of italics
+2020-12-20T10:16:41+00:00,995309139,995266811,0,188.174.175.186,Zayed International Airport,Undid revision 995266811 by [[Special:Contributions/Gorebath|Gorebath]] ([[User talk:Gorebath|talk]])
+2021-01-22T04:40:55+00:00,1001963314,1001633011,0,176.205.102.65,Zayed International Airport,/* Airlines and destinations */
+2020-10-24T11:31:31+00:00,985170872,985140578,0,84.65.160.43,Zayed International Airport,/* Passenger */
+2021-08-31T16:46:17+00:00,1041639222,1041572739,0,75.102.135.228,Zayed International Airport,
+2021-01-01T03:56:38+00:00,997562681,997562357,0,UnguidedEmperor,Zayed International Airport,Reverting edit(s) by [[Special:Contributions/2409:4042:2E26:B81E:CC4B:78CC:AC82:3D4D|2409:4042:2E26:B81E:CC4B:78CC:AC82:3D4D]] ([[User_talk:2409:4042:2E26:B81E:CC4B:78CC:AC82:3D4D|talk]]) to rev. 997536527 by Gbrkk: non-constructive [[w:en:WP:RW|(RW 16)]]
+2021-08-13T03:54:28+00:00,1038531595,1038364614,0,2405:201:E018:F09D:2D55:4A32:98DF:AEB9,Zayed International Airport,/* Passenger */
+2021-04-17T06:52:37+00:00,1018283460,1018283415,0,2001:A61:1075:FF01:DDE4:D9F6:DDB1:1564,Zayed International Airport,/* Passenger */
+2021-07-29T12:41:39+00:00,1036091501,1035690022,0,Ryantioss,Zayed International Airport,/* Passenger */
+2021-09-21T05:14:33+00:00,1045555028,1045516606,0,59.167.59.32,Zayed International Airport,"Pictures of the crash, they have painted over the logo."
+2020-11-16T21:37:29+00:00,989068038,989040304,0,UMANAIOP,Zayed International Airport,/* Passenger */
+2020-11-18T19:29:46+00:00,989400001,989068038,0,174.119.186.208,Zayed International Airport,/* Midfield terminal */
+2021-07-27T04:21:25+00:00,1035690022,1035530775,0,5.31.18.13,Zayed International Airport,/* Passenger */ Added Iraqi Airways to Baghdad
+2021-02-03T13:20:34+00:00,1004608155,1004607639,0,Rightpath01,Zayed International Airport,
+2021-02-17T07:23:02+00:00,1007274767,1006832238,0,Goszei,Zayed International Airport,"unbold foreign names not used in English per [[MOS:LEADLANG]], [[WP:GENFIXES|general fixes]]"
+2021-10-04T08:08:45+00:00,1048105597,1047940364,0,T866,Zayed International Airport,
+2021-01-11T21:29:06+00:00,999767720,999767666,0,Wappy2008,Zayed International Airport,/* Airlines and destinations */ adding general ref.
+2020-10-27T05:48:34+00:00,985661323,985170872,0,101.181.138.115,Zayed International Airport,Female Passenger Strip Search Incident <ref>https://www.heraldsun.com.au/breaking-news/grossly-disturbing-foreign-minister-marise-payne-weighs-in-on-doha-incident/news-story/0c6ec6ac0e94223decd8a0e9b2a2e125 </ref>

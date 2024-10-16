@@ -1,0 +1,495 @@
+timestamp,revid,parentid,sock,user,page,message
+2018-07-18T17:24:27+00:00,850892432,850888636,1,UtherSB,User talk:UtherSB,/* Blocked for sockpuppetry */
+2018-07-18T14:52:14+00:00,850874897,850868689,1,UtherSB,User talk:UtherSB,/* Blocked for sockpuppetry */
+2018-07-18T12:08:02+00:00,850857572,850133366,1,UtherSB,User talk:UtherSB,/* Blocked for sockpuppetry */ Appeal.
+2018-06-11T09:45:32+00:00,845367570,845367473,1,UtherSB,Symplectic matrix,/* Properties */ Missed a full stop.
+2018-06-11T09:44:38+00:00,845367473,845258239,1,UtherSB,Symplectic matrix,"/* Properties */ The previous editor pointed out that one should include a proof that the transpose of a symplectic is symplectic. However, the proof given seemed to be circular, unless I missed something. I replaced it with the standard proof."
+2016-01-15T15:55:08+00:00,699972378,681320061,1,UtherSB,Symplectic matrix,/* Diagonalisation and decomposition */ It has nothing to do with Euler angles.
+2015-07-09T08:01:10+00:00,670646447,668403438,1,UtherSB,Symplectic group,/* Quantum mechanics */ Slight rewording.
+2015-04-16T10:21:13+00:00,656735938,651769702,1,UtherSB,Jordan normal form,/* Minimal polynomial */ Added link.
+2015-02-08T19:18:44+00:00,646226082,644888186,1,UtherSB,Symplectic group,Slight fixing of references.
+2015-02-06T17:05:04+00:00,645916289,637612558,1,UtherSB,Unbounded operator,/* Importance of self-adjoint operators */ Fixing link.
+2015-02-05T15:30:46+00:00,645760421,645758967,1,UtherSB,Metaplectic group,/* Definition */ Link for symplectic group.
+2015-02-05T15:21:17+00:00,645759260,626491108,1,UtherSB,Projective representation,/* Linear representations and projective representations */ Full stop.
+2015-02-05T15:18:29+00:00,645758967,645743054,1,UtherSB,Metaplectic group,/* Construction of the Weil representation */ Link for symplectic group.
+2015-02-05T15:06:21+00:00,645757595,635909658,1,UtherSB,Group extension,/* Central extension */ Link on exact sequence.
+2015-02-05T12:37:45+00:00,645743054,622669874,1,UtherSB,Metaplectic group,/* Generalizations */ Added link to symplectic group.
+2015-01-30T20:07:09+00:00,644888775,638033496,1,UtherSB,Template:Group theory sidebar,Added disambiguation in symplectic group page so it is OK to call general group Sp(n). Changed here.
+2015-01-30T20:02:29+00:00,644888186,644404842,1,UtherSB,Symplectic group,"Added subsection: Relationship with symplectic geometry; with a reference. Extended properties of Sp(2n,R) with references. Added disambiguation in introduction."
+2015-01-30T19:45:58+00:00,644885992,636873455,1,UtherSB,Symplectic matrix,Added diagonalisation and decomposition section.
+2015-01-30T19:43:05+00:00,644885588,644884934,1,UtherSB,Manifold,swapping anchor location
+2015-01-30T19:37:56+00:00,644884934,643392646,1,UtherSB,Manifold,/* Cartesian products */ Added an anchor
+2015-01-11T18:21:33+00:00,642040206,642004648,1,UtherSB,Symplectic group,/* Relationships between the symplectic groups */ Relationships -> Relationsip
+2015-01-11T12:29:43+00:00,642004648,641730759,1,UtherSB,Symplectic group,/* {{math|Sp(n)}} */ Rewording of my previous addition.
+2015-01-09T22:07:54+00:00,641789592,636829005,1,UtherSB,One-parameter group,Reference added for extra explanation of subtle point.
+2015-01-09T13:53:41+00:00,641730759,641730223,1,UtherSB,Symplectic group,Consistency with sidebar
+2015-01-09T13:52:39+00:00,641730664,641730593,1,UtherSB,Template:Lie groups,Undoing my mistake. Have added disambiguation on symplectic group page.
+2015-01-09T13:51:49+00:00,641730593,641730492,1,UtherSB,Template:Lie groups,Undid revision 641730492 by [[Special:Contributions/UtherSB|UtherSB]] ([[User talk:UtherSB|talk]])
+2015-01-09T13:50:55+00:00,641730492,641729389,1,UtherSB,Template:Lie groups,Undid revision 641729389 by [[Special:Contributions/UtherSB|UtherSB]] ([[User talk:UtherSB|talk]])
+2015-01-09T13:48:18+00:00,641730223,641723023,1,UtherSB,Symplectic group,/* {{math|Sp(n)}} */ Further disambiguation of notation.
+2015-01-09T13:40:19+00:00,641729389,638033588,1,UtherSB,Template:Lie groups,Template change. Field does not need to be specified for classical Lie groups.
+2015-01-09T12:28:09+00:00,641723023,639052256,1,UtherSB,Symplectic group,/* Important subgroups */ rewording to remove calling it symplectic group.
+2014-12-21T15:10:21+00:00,639052256,639052034,1,UtherSB,Symplectic group,"/* {{math|Sp(2n, R)}} */ Punctuation."
+2014-12-21T15:08:30+00:00,639052034,639051916,1,UtherSB,Symplectic group,Added Euler decomposition and a reference for it.
+2014-12-21T15:07:24+00:00,639051916,639051643,1,UtherSB,Symplectic group,Undid revision 639051643 by [[Special:Contributions/UtherSB|UtherSB]] ([[User talk:UtherSB|talk]]) I forgot to label.
+2014-12-21T15:05:05+00:00,639051643,638762270,1,UtherSB,Symplectic group,
+2014-12-19T10:27:57+00:00,638762270,638602695,1,UtherSB,Symplectic group,/* {{math|Sp(n)}} */ removal of repetition.
+2014-12-17T17:27:13+00:00,638518353,638515472,1,UtherSB,Symplectic group,/* {{math|Sp(n)}} */ Notation confusion made clearer.
+2014-12-17T17:05:43+00:00,638515472,638219735,1,UtherSB,Symplectic group,/* Relationships between the symplectic groups */ Mistake: Sp(2n) to Sp(n)
+2014-12-14T19:42:02+00:00,638085055,638084992,1,UtherSB,Symplectic group,/* Classical mechanics */
+2014-12-14T19:41:28+00:00,638084992,638041204,1,UtherSB,Symplectic group,/* Quantum mechanics */ Notation change.
+2014-12-14T12:44:50+00:00,638041204,638040874,1,UtherSB,Symplectic group,/* Quantum mechanics */ mathematise n
+2014-12-14T12:39:59+00:00,638040874,638038395,1,UtherSB,Symplectic group,"/* {{math|Sp(2n, R)}} */ Added reference for disambiguation of real simple Lie groups."
+2014-12-14T11:41:49+00:00,638036637,638036445,1,UtherSB,Symplectic group,Lie group properties to come above group properties.
+2014-12-14T11:39:36+00:00,638036445,638036241,1,UtherSB,Symplectic group,
+2014-12-14T11:36:33+00:00,638036241,638035792,1,UtherSB,Symplectic group,
+2014-12-14T11:29:56+00:00,638035792,638034878,1,UtherSB,Symplectic group,
+2014-12-14T11:17:20+00:00,638034878,638034296,1,UtherSB,Symplectic group,/* Relationships between the symplectic groups */ Rewording.
+2014-12-14T11:02:39+00:00,638033820,638032757,1,UtherSB,Symplectic group,/* Relationships between the symplectic groups */  Quick clarification.
+2014-12-14T10:59:28+00:00,638033588,636826928,1,UtherSB,Template:Lie groups,Changed sidebar to keep notation consistent.
+2014-12-14T10:58:18+00:00,638033496,634290020,1,UtherSB,Template:Group theory sidebar,"In sidebar change Sp(n) to Sp(2n,C) to keep notation consistent."
+2014-12-14T10:44:03+00:00,638032400,638030368,1,UtherSB,Symplectic group,Added the section 'Physical significance' to put the group in context with the physics.
+2014-12-14T09:33:47+00:00,638024745,637968883,1,UtherSB,Symplectic group,/* Relationships between the symplectic groups */ Re-organisation of this section so there is more `semisimple Lie algebra' context.
+2014-12-13T23:05:21+00:00,637968883,637968787,1,UtherSB,Symplectic group,/* Important subgroups */
+2014-12-13T23:04:23+00:00,637968787,637968675,1,UtherSB,Symplectic group,
+2014-12-13T23:03:05+00:00,637968675,637967898,1,UtherSB,Symplectic group,Changed the compact form link to a far more relevant page.
+2014-12-13T22:55:24+00:00,637967898,637967349,1,UtherSB,Symplectic group,"/* {{nowrap|Sp(2n,R)}} */"
+2014-12-13T22:50:50+00:00,637967349,636933540,1,UtherSB,Symplectic group,"The page has been reorganised in an attempt to group the correct sections together. More information has been added, especially on the real symplectic group."
+2014-12-05T11:52:27+00:00,636745128,634814469,1,UtherSB,Symplectic group,/* Infinitesimal generators */
+2018-07-02T12:57:26+00:00,848519071,848110015,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,
+2018-07-02T12:35:21+00:00,848516724,848508243,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-02T00:54:54+00:00,848456658,848455034,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T22:47:21+00:00,848443158,848423094,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T18:57:34+00:00,848411197,848411073,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T18:56:39+00:00,848411073,848393372,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T14:24:21+00:00,848370832,848370542,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T14:23:11+00:00,848370542,848360378,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T12:13:00+00:00,848356173,848350822,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T11:21:24+00:00,848350442,848350080,1,Renamed_user_stsrtbreybseystu,Wikipedia:Dispute resolution noticeboard,/* Talk:Lindelof hypothesis */
+2018-07-01T11:18:09+00:00,848350080,848336396,1,Renamed_user_stsrtbreybseystu,Wikipedia:Dispute resolution noticeboard,/* Talk:Lindelof hypothesis */ new section
+2018-07-01T11:05:44+00:00,848348814,848323905,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T02:20:45+00:00,848298090,848297706,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-07-01T02:16:53+00:00,848297706,848297641,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-07-01T02:16:07+00:00,848297641,848289024,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,Reference to the USC's initial report and to its amended version.
+2018-07-01T02:06:11+00:00,848296836,848296718,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T02:04:49+00:00,848296718,848296106,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T01:58:10+00:00,848296106,848295862,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T01:55:12+00:00,848295862,848293769,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T01:45:03+00:00,848295020,848291466,1,Renamed_user_stsrtbreybseystu,Wikipedia:Requests for page protection,
+2018-07-01T01:34:37+00:00,848294110,848293824,1,Renamed_user_stsrtbreybseystu,User talk:Xaosflux,
+2018-07-01T01:29:50+00:00,848293769,848292869,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T01:27:30+00:00,848293565,848232045,1,Renamed_user_stsrtbreybseystu,User talk:Xaosflux,
+2018-07-01T01:19:22+00:00,848292869,848290215,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T00:43:26+00:00,848289677,848289589,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T00:42:40+00:00,848289589,848289545,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T00:42:11+00:00,848289545,848289053,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T00:37:18+00:00,848289053,848288822,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-01T00:37:00+00:00,848289024,848283325,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Undid revision 848283325 by [[Special:Contributions/131.111.184.3|131.111.184.3]] ([[User talk:131.111.184.3|talk]]) Nobody is ""discussing"" anything on this page, and it is not disputed that there are verifiable and reliable sources for the making of the claim by Fokas."
+2018-07-01T00:34:35+00:00,848288822,848268404,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-30T21:09:36+00:00,848266010,848265742,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-30T21:07:19+00:00,848265742,848265670,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-30T21:06:43+00:00,848265670,848098836,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-30T21:04:06+00:00,848265389,848110904,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Source to paper amended by addition of two characters, ""v2"", to make it refer to the version of the paper in which the proof was first claimed."
+2018-06-29T21:00:53+00:00,848110015,848108556,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,[[WP:AES|←]]Blanked the page
+2018-06-29T20:39:19+00:00,848107174,848099457,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,Undid revision 848099457 by [[Special:Contributions/131.111.185.9|131.111.185.9]] ([[User talk:131.111.185.9|talk]]) The sources for the CLAIM are fully reliable: an article at Arxiv and a university press release. Cease your vandalism.
+2018-06-29T16:59:50+00:00,848077179,848076778,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T16:57:09+00:00,848076778,848076681,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T16:56:23+00:00,848076681,848075633,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T16:49:26+00:00,848075633,848075028,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T16:44:35+00:00,848075028,848074889,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T16:43:21+00:00,848074889,848074538,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T16:40:41+00:00,848074538,848073617,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T16:33:18+00:00,848073617,848062736,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T15:19:14+00:00,848062950,848062828,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-06-29T15:18:14+00:00,848062828,848062190,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Undid revision 848062190 by [[Special:Contributions/Sapphorain|Sapphorain]] ([[User talk:Sapphorain|talk]]) Stop your vandalism. This reference is to the claim of proof. There is no assertion that it is correct. He claims a proof; a university reports his claim; he is sufficiently promiment for this to be noteworthy. That is all there is to it. I have removed the assertion that his proof is correct. This is as it was before, with a ref to the USC statement and an update of the Arxiv ref."
+2018-06-29T15:09:01+00:00,848061611,848060797,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-06-29T15:07:39+00:00,848061427,848061060,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T15:05:05+00:00,848061060,848053540,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T15:03:10+00:00,848060797,848059876,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-06-29T14:58:00+00:00,848060118,848043432,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,
+2018-06-29T14:56:07+00:00,848059876,848043328,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,Undid revision 848043328 by [[Special:Contributions/31.221.56.70|31.221.56.70]] ([[User talk:31.221.56.70|talk]]) It wasn't claimed that the preprint contains a claimed proof. It has been established that a claim by a prominent mathematician can be sufficiently noteworthy for mention. What needs to happen is that this should be edited back so that the reference is only to the claim. I am reverting because it is not acceptable to remove entirely all reference to Fokas's claim.
+2018-06-29T12:29:10+00:00,848042218,848042078,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T12:28:27+00:00,848042078,848041888,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T12:26:47+00:00,848041888,848041762,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T12:25:40+00:00,848041762,848041435,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T12:22:12+00:00,848041435,848041398,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T12:21:52+00:00,848041398,848041046,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T12:18:23+00:00,848041046,848039273,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T12:12:19+00:00,848040411,848038986,1,Renamed_user_stsrtbreybseystu,Wikipedia:Requests for page protection,
+2018-06-29T12:11:44+00:00,848040347,848040074,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Undid revision 848040074 by [[Special:Contributions/2A02:586:3909:B400:F00F:8C70:E730:19C8|2A02:586:3909:B400:F00F:8C70:E730:19C8]] ([[User talk:2A02:586:3909:B400:F00F:8C70:E730:19C8|talk]]) The claimed proof by Professor Fokas is obviously noteworthy, despite this user's sneering. I am applying for this page to be protected from vandalism."
+2018-06-29T12:05:54+00:00,848039759,848039115,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,Undid revision 848039115 by [[Special:Contributions/2A02:586:3909:B400:F00F:8C70:E730:19C8|2A02:586:3909:B400:F00F:8C70:E730:19C8]] ([[User talk:2A02:586:3909:B400:F00F:8C70:E730:19C8|talk]]) The consensus is not to wait for more verification.
+2018-06-29T12:04:57+00:00,848039646,0,1,Renamed_user_stsrtbreybseystu,User talk:Jay7yagi,[[WP:AES|←]]Created page with '== Lindelof hypothesis article == This is to let you know that this article keeps getting vandalised by users who seem to wish no reference to be made to Fokas's...'
+2018-06-29T11:49:21+00:00,848038110,848036479,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T11:47:55+00:00,848037940,848034704,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Undid revision 848034704 by [[Special:Contributions/Sapphorain|Sapphorain]] ([[User talk:Sapphorain|talk]]) I agree that the form of the current reference to Fokas's work is not optimal, but I have not got time to work on a suitable form. In the meantime it is clear for reasons stated that a reference to his work should be made, and so I have reverted the vandalism by Sapphorain."
+2018-06-29T11:45:54+00:00,848037712,845039928,1,Renamed_user_stsrtbreybseystu,User talk:CBM,
+2018-06-29T11:33:00+00:00,848036479,848034654,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T10:39:14+00:00,848031694,847985640,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Undid revision 847985640 by [[Special:Contributions/109.176.95.172|109.176.95.172]] ([[User talk:109.176.95.172|talk]]) ""No longer""? Nobody said v4 contains the full proof. It repeats the claim and gives more of it than appeared in previous versions. Of course a statement by a university that a theorem has been proved is a source for the assertion that it has been. Pls take this to talk."
+2018-06-29T02:17:43+00:00,847981830,847981654,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T02:16:08+00:00,847981654,847981232,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T02:12:00+00:00,847981232,847981025,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T02:10:49+00:00,847981025,847980784,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T02:08:45+00:00,847980784,847979456,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T02:02:12+00:00,847980032,847853955,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Undid revision 847853955 by [[Special:Contributions/Sapphorain|Sapphorain]] ([[User talk:Sapphorain|talk]]) Yes Fokas does claim to have a proof. He has given more information about it in v4 of the article at Arxiv, and the University of Southern California issued a press release formally announcing the proof three days ago."
+2018-06-29T01:57:16+00:00,847979456,847861683,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-29T01:50:29+00:00,847978693,847545680,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,
+2018-06-09T18:12:01+00:00,845143141,845080320,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-09T00:30:41+00:00,845051000,845050931,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-09T00:29:56+00:00,845050931,845050420,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-09T00:24:59+00:00,845050420,845050012,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-09T00:20:32+00:00,845050012,845042131,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-06-09T00:16:11+00:00,845049631,845040526,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,Undid revision 845040526 by [[Special:Contributions/Wcherowi|Wcherowi]] ([[User talk:Wcherowi|talk]]) Please refer to the discussion on the talk page. This is work is published but not peer-reviewed. You should have looked at Talk before you reverted my edit. This has all been discussed and ironed out.
+2018-06-08T22:30:19+00:00,845040091,838066093,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,/* Please do not delete the section on Fokas's claimed proof */ new section
+2018-06-08T22:28:30+00:00,845039928,843429407,1,Renamed_user_stsrtbreybseystu,User talk:CBM,/* Article on Lindelof Hypothesis */ new section
+2018-06-08T22:24:31+00:00,845039537,843222414,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,undoing vandalism by Sapphorain who removed reference to Athanassios Fokas's claimed proof that was agreed after discussion; previously he tried to start an edit war on the same issue; can a moderator here please issue him with a warning?
+2018-04-24T18:20:29+00:00,838066093,838017064,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T17:20:12+00:00,837892528,837890908,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-04-23T17:17:28+00:00,837892113,837890570,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T17:08:09+00:00,837890908,837890676,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-04-23T17:06:24+00:00,837890676,837889762,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-04-23T16:55:53+00:00,837888925,837888736,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-04-23T16:54:38+00:00,837888736,837888157,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-04-23T16:51:55+00:00,837888311,837888164,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,
+2018-04-23T16:50:56+00:00,837888164,837887977,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,
+2018-04-23T16:49:53+00:00,837887977,837887033,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,[[WP:AES|←]]Blanked the page
+2018-04-23T16:47:09+00:00,837887491,837886158,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T16:28:31+00:00,837884248,837883634,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T16:24:47+00:00,837883634,837882698,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T16:20:51+00:00,837883041,837871831,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-04-23T16:18:34+00:00,837882698,837872502,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T14:18:15+00:00,837865218,837859015,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T13:29:59+00:00,837859015,837836035,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T13:25:41+00:00,837858537,837853594,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-04-23T09:59:11+00:00,837836035,837835626,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T09:56:08+00:00,837835626,837834696,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T09:46:20+00:00,837834696,837820831,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T09:35:50+00:00,837833655,837816411,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Undid revision 837816411 by [[Special:Contributions/Sapphorain|Sapphorain]] ([[User talk:Sapphorain|talk]]), who seems to wish to engage in an edit war without addressing points made in discussion such as that not all claims should be attributed equal weight."
+2018-04-23T00:05:49+00:00,837776873,837740411,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-22T23:57:54+00:00,837775819,837738218,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Reverted vandalism by Sapphorain, who despite receiving assistance insists on refusing to acknowledge the difference between referring to a claim (which obviously needs no peer review) and stating that a claim is true (which does), and who further insists on placing a claim of proof by one of the world's leading mathematicians on the same level as the numerous claims of proof by mathematicians who are known for little or no previous peer-reviewed work. Section moved from start to end."
+2018-04-22T23:40:48+00:00,837773799,837717049,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,[[WP:AES|←]]Blanked the page
+2018-04-22T09:18:56+00:00,837679176,837656308,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-22T09:15:50+00:00,837678904,837630543,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,[[WP:AES|←]]Blanked the page
+2018-04-21T21:59:50+00:00,837607660,837607414,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-21T21:57:52+00:00,837607414,837603186,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-21T21:30:01+00:00,837603405,837603218,1,Renamed_user_stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,[[WP:AES|←]]Blanked the page
+2018-04-21T21:28:18+00:00,837603186,837602694,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-21T21:24:40+00:00,837602694,837602315,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-21T21:21:49+00:00,837602315,837596635,1,Renamed_user_stsrtbreybseystu,Talk:Lindelöf hypothesis,/* Arxiv is not a reliable source */
+2018-04-21T21:16:27+00:00,837601650,837595647,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,Undid revision 837595647 by [[Special:Contributions/Sapphorain|Sapphorain]] ([[User talk:Sapphorain|talk]]) Of course it is a reliable source for the statement that a professor has made a claim. Please address that point and stop reverting.
+2018-04-21T20:32:05+00:00,837594979,837594648,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,Undid revision 837594648 by [[Special:Contributions/Sapphorain|Sapphorain]] ([[User talk:Sapphorain|talk]]) Please re-read what I wrote: it is a reliable source for the statement that this professor made this claim. Nobody is claiming that on its own it would be a reliable source for the statement that this professor proved the Lindelof hypothesis.
+2018-04-21T20:20:56+00:00,837593378,837592813,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,Undid revision 837592813 by [[Special:Contributions/Sapphorain|Sapphorain]] ([[User talk:Sapphorain|talk]]) - Of course Arxiv is a reliable source for the statement that this professor has made this claim.
+2018-04-21T19:59:39+00:00,837590422,837585869,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,"Undid revision 837585869 by [[Special:Contributions/Sapphorain|Sapphorain]] ([[User talk:Sapphorain|talk]]) - We shall not wait until then, actually. This is published by Arxiv at the request of a highly reputable, internationally renowned professor."
+2018-04-21T17:54:07+00:00,837572420,837571924,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-04-21T17:50:49+00:00,837571924,819195112,1,Renamed_user_stsrtbreybseystu,Lindelöf hypothesis,
+2018-07-12T20:18:30+00:00,849990229,849964886,1,TrinityTrinityTrinity,User talk:Abecedare,
+2018-07-12T16:47:26+00:00,849964910,849960130,1,TrinityTrinityTrinity,User talk:TrinityTrinityTrinity,[[WP:AES|←]]Replaced content with '{{User EX-WP}}'
+2018-07-12T16:47:15+00:00,849964886,849956289,1,TrinityTrinityTrinity,User talk:Abecedare,
+2018-07-12T15:11:29+00:00,849954439,849953714,1,TrinityTrinityTrinity,User talk:TrinityTrinityTrinity,/* Edit-warring and BLP violation at Talk:Lindelöf hypothesis */
+2018-07-12T15:10:33+00:00,849954342,849903407,1,TrinityTrinityTrinity,User talk:Abecedare,
+2018-07-12T15:08:43+00:00,849954164,849951705,1,TrinityTrinityTrinity,Talk:Lindelöf hypothesis,Undid revision 849951705 by [[Special:Contributions/2601:142:3:F83A:4D45:1B2F:4D9E:543D|2601:142:3:F83A:4D45:1B2F:4D9E:543D]] ([[User talk:2601:142:3:F83A:4D45:1B2F:4D9E:543D|talk]]) Revert reversion by abusive editor who can't stop insulting while thinking only people who agree with him can think.
+2018-07-12T13:22:11+00:00,849942358,849930116,1,TrinityTrinityTrinity,Talk:Lindelöf hypothesis,
+2018-07-12T11:17:18+00:00,849930116,849872815,1,TrinityTrinityTrinity,Talk:Lindelöf hypothesis,"Undid revision 849872815 by [[Special:Contributions/Abecedare|Abecedare]] ([[User talk:Abecedare|talk]]) Please can you and 2601:142:3:f83a:2836:5723:bc35:e4c6 leave this be/ 2601:142:3:f83a:2836:5723:bc35:e4c6's note suggests a lack of awareness of what is happening, given how he implores a deity and indicates he believes he is motivated to ""think"" whereas others with differing opinions from his own aren't"
+2018-07-11T14:33:44+00:00,849813223,849226380,1,TrinityTrinityTrinity,Talk:Lindelöf hypothesis,"Undid revision 849226380 by [[Special:Contributions/2601:142:3:F83A:716E:8F86:6A20:1BE3|2601:142:3:F83A:716E:8F86:6A20:1BE3]] ([[User talk:2601:142:3:F83A:716E:8F86:6A20:1BE3|talk]]) Don't insult people in edit summaries, and consider removing the .131.111.184.3's reference to the unsourced statement by Timothy Gowers alleging that another mathematics professor's record is one of unreliability"
+2018-07-02T17:20:45+00:00,848551813,848551568,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T17:18:43+00:00,848551568,848528373,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T14:12:28+00:00,848528373,848528134,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T14:10:42+00:00,848528134,848527973,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T14:09:34+00:00,848527973,848527818,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T14:08:12+00:00,848527818,848527678,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T14:06:57+00:00,848527678,848527404,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T14:04:20+00:00,848527404,848527228,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T14:02:50+00:00,848527228,848526629,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T13:57:26+00:00,848526629,848525946,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T13:51:28+00:00,848525946,848525831,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2018-07-02T13:50:25+00:00,848525831,848518994,1,What_an_awful_waste_of_time,Talk:Lindelöf hypothesis,
+2016-04-17T21:51:00+00:00,715767419,712170112,0,90.198.145.230,Lindelöf hypothesis,/* References */
+2015-09-02T09:47:54+00:00,679079397,649600215,0,Sapphorain,Lindelöf hypothesis,"standard number theory notation uses = sign, and doesn't use calligraphic O"
+2015-05-17T22:32:55+00:00,662837333,662829467,0,Quondum,Group extension,further formatting
+2017-06-22T22:16:01+00:00,787013191,767517544,0,CBM,Lindelöf hypothesis,Copyediting in citations - nonbreaking spaces and en dashes (manually reviewed)
+2018-01-08T00:32:34+00:00,819195112,787013191,0,JCW-CleanerBot,Lindelöf hypothesis,"/* References */[[User:JCW-CleanerBot#Logic|task]], replaced: journal=Proceedings of the London Mathematical Society. Third Series → journal=Proceedings of the London Mathematical Society |series=Third Series (3) using [[Project:AWB|AWB]]"
+2016-10-21T06:47:29+00:00,745453882,724114778,0,Gutworth,Lindelöf hypothesis,update Bourgain citation
+2015-03-02T22:27:21+00:00,649600215,649599316,0,Gutworth,Lindelöf hypothesis,add some author links
+2015-06-15T17:10:29+00:00,667071946,667071420,0,Anita5192,Jordan normal form,/* Generalized eigenvectors */ Cited Bronson and Holt & Rumynin
+2015-01-21T23:59:47+00:00,643592582,643591144,0,Anita5192,Jordan normal form,/* Motivation */ Already linked above
+2015-09-20T18:03:21+00:00,681969108,681952578,0,84.226.185.221,Group extension,/* Generalization to general extensions */
+2016-06-07T06:42:47+00:00,724114778,715767419,0,Gutworth,Lindelöf hypothesis,/* Relation to the Riemann hypothesis */ remove some words
+2017-02-26T11:16:47+00:00,767517544,767517415,0,Headbomb,Lindelöf hypothesis,/* The &mu; function */ |{{harvtxt|Bourgain|2017}}
+2015-11-24T22:00:59+00:00,692318844,679079397,0,Sapphorain,Lindelöf hypothesis,"Already mentioned in the link given under the ""Voronin"" entry; besides this gives no information as to what this ""first reference"" is."
+2018-05-22T04:59:39+00:00,842394322,841542869,0,132.205.229.213,Lindelöf hypothesis,
+2018-07-01T06:38:11+00:00,848322425,848322421,0,Abecedare,Lindelöf hypothesis,Adding {{pp-dispute}}
+2015-01-19T19:27:15+00:00,643244660,639083428,0,132.204.243.254,Lindelöf hypothesis,"/* Means of powers (or moments) of the zeta function */ remove repeated word ""integral"""
+2014-08-30T21:05:55+00:00,623492363,605854160,0,Mlewko,Lindelöf hypothesis,/* Bourgain's decoupling result */
+2018-05-27T18:41:02+00:00,843222414,843196601,0,Sapphorain,Lindelöf hypothesis,"/* Notes and references */ Arxiv is not a reliable reference; it may become a convenient source, but only after the paper is published in a reliable journal"
+2014-08-24T23:47:59+00:00,622669874,616903944,0,Quondum,Metaplectic group,formatting
+2015-12-22T18:29:49+00:00,696371991,696042891,0,GVoysey,Manifold,Fixed typo: Singulatities to singularities
+2017-09-14T13:49:11+00:00,800590636,799848557,0,Headbomb,Manifold,Annals of Mathematics
+2017-06-15T20:36:23+00:00,785859406,785859217,0,213.46.204.110,Metaplectic group,/* Generalizations */
+2015-05-19T18:07:39+00:00,663120509,662016515,0,KasparBot,Manifold,embed authority control with wikidata information
+2014-12-08T01:27:12+00:00,637100972,636754102,0,Quondum,Manifold,replacing redirect [[Holomorphic]] to dab page with appropriate destination [[Holomorphic function]]
+2016-03-18T18:46:15+00:00,710731515,699962866,0,BG19bot,Metaplectic group,/* Generalizations */Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2015-09-22T01:10:31+00:00,682175894,681971254,0,AnomieBOT,Metaplectic group,Dating maintenance tags: {{What}}
+2018-01-26T07:18:19+00:00,822417439,821101822,0,KolbertBot,Metaplectic group,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481)
+2015-11-26T08:58:55+00:00,692523803,692523719,0,14.139.211.58,Projective representation,/* Group cohomology */
+2015-07-07T09:16:26+00:00,670335298,649246758,0,193.52.212.189,One-parameter group,
+2018-05-27T15:40:36+00:00,843200102,825459174,0,CitationCleanerBot,Symplectic group,arxivify URL / redundant url
+2015-01-10T11:33:57+00:00,641858532,641821413,0,Yobot,One-parameter group,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10731)
+2016-08-19T14:06:19+00:00,735249864,722254123,0,Dewritech,Symplectic group,"clean up, [[WP:AWB/T|typo(s) fixed]]: In other words → In other words, (2) using [[Project:AWB|AWB]]"
+2018-02-13T14:52:25+00:00,825459174,825459075,0,131.114.212.11,Symplectic group,/* Example of symplectic matrices */
+2015-08-24T21:36:11+00:00,677681938,674576415,0,Cullinane,Symplectic group,"Changed ""Abelian group"" to ""Abelian linear group,"" the exact phrase used by Dickson."
+2015-11-14T23:33:24+00:00,690680914,677681938,0,Murphee,Symplectic group,"/* Classical mechanics */ As mentioned above, M is symplectic"
+2015-08-04T20:29:18+00:00,674576415,674575850,0,YohanN7,Symplectic group,/* Classical mechanics */ Add a little detail
+2016-04-15T19:50:05+00:00,715436790,709115450,0,Coffractal,Symplectic group,Cut fluff.
+2015-02-24T23:28:36+00:00,648705190,648176789,0,Mr. Stradivarius,Symplectic group,Reverted edits by [[Special:Contribs/195.147.25.84|195.147.25.84]] ([[User talk:195.147.25.84|talk]]) to last version by BG19bot
+2018-06-20T21:30:59+00:00,846784430,843200102,0,Bibcode Bot,Symplectic group,"Adding 0 [[arXiv|arxiv eprint(s)]], 1 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2017-09-14T17:22:12+00:00,800617998,791388188,0,Meng6,Symplectic group,Add link to 'the real symplectic group ...'.
+2016-05-26T22:12:17+00:00,722254123,715436790,0,Vttoth,Symplectic group,/* Classical mechanics */ Fixed some broken TeX
+2014-12-06T21:15:24+00:00,636933540,636860561,0,2001:630:12:10C0:EDD9:1B7E:4B88:50D5,Symplectic group,/* Infinitesimal generators */  Stupid nonsense notation
+2015-04-04T07:45:52+00:00,654884272,648705190,0,Download,Symplectic group,"/* Quantum mechanics */gen. fixes, [[WP:AWB/T|typo(s) fixed]]: situtation → situation (2) using [[Project:AWB|AWB]]"
+2017-07-19T23:12:38+00:00,791388188,735249864,0,79.179.45.1,Symplectic group,"Use ""center"" consistently (vs. centre)"
+2016-09-04T15:14:56+00:00,737707330,737707069,0,Quondum,Symplectic matrix,/* Properties */ non-italic 'T' for transpose
+2017-12-29T19:50:09+00:00,817656458,817656399,0,Mathphysman,Symplectic group,/* {{math|Sp(n)}} */
+2015-09-16T14:50:06+00:00,681320061,681319897,0,128.214.138.243,Symplectic matrix,clarifying -014440753
+2015-02-09T08:15:34+00:00,646317257,644885992,0,Yobot,Symplectic matrix,/* Diagonalisation and decomposition */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10820)
+2017-11-04T02:14:37+00:00,808627766,800737799,0,71.89.74.77,Symplectic matrix,/* See also */ adding linear complex structure
+2012-03-26T01:36:43+00:00,483941576,428966036,0,CBM,Talk:Lindelöf hypothesis,Rating article for [[WP:MATH|WikiProject Mathematics]]. Quality: B / Priority: Low / Field: number theory (script assisted)
+2018-04-24T11:03:35+00:00,838007983,838007818,0,CBM,Talk:Lindelöf hypothesis,/* Outside comments */  c
+2018-07-13T22:57:29+00:00,850146246,849955013,0,JayBeeEll,Talk:Lindelöf hypothesis,/* Proposed section on claimed proof by Fokas */ finis
+2018-04-24T18:20:29+00:00,838066093,838017064,0,Renamed user stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-04-23T17:01:44+00:00,837889947,837887824,0,CBM,Talk:Lindelöf hypothesis,/* Outside comments */  c
+2018-06-09T18:12:01+00:00,845143141,845080320,0,Renamed user stsrtbreybseystu,Talk:Lindelöf hypothesis,
+2018-07-02T17:20:45+00:00,848551813,848551568,0,What an awful waste of time,Talk:Lindelöf hypothesis,
+2017-03-22T10:37:56+00:00,771581310,763275893,0,Tea2min,Template:Group theory sidebar,[[Subgroup (mathematics)]] was moved back to [[Subgroup]] some time ago.
+2015-04-20T20:21:11+00:00,657378039,657352441,0,GodMadeTheIntegers,Template:Group theory sidebar,"Rm the (incomplete!) list of sporadic groups -- see talk page. New concise classification, Lagrange+Sylow+Hall theorems, and some basic examples."
+2017-07-07T08:23:14+00:00,789429883,763527622,0,Golopotw,Template:Lie groups,remove [[:Category:Physics templates]] using cat-tool 0.0.1.
+2017-10-19T20:11:27+00:00,806115598,803013426,0,BTotaro,Template:Group theory sidebar,Links added
+2015-07-21T16:09:44+00:00,672447359,671753564,0,Lamro,Template:Group theory sidebar,img
+2017-02-03T19:37:13+00:00,763527622,713641506,0,Philmac,Template:Lie groups,"Added Euclidean group to ""Other"""
+2015-05-12T12:02:55+00:00,661987453,648705159,0,WOSlinker,Template:Lie groups,tidy style for better HTML5 compatibility
+2016-04-05T05:49:18+00:00,713641506,661987453,0,Kusma,Template:Lie groups,rm link so image links to its description page for proper attribution
+2015-09-06T14:13:21+00:00,679742821,679726522,0,Tsirel,Unbounded operator,"Undid revision 679726522 by [[Special:Contributions/Roman Cheplyaka|Roman Cheplyaka]] ([[User talk:Roman Cheplyaka|talk]]) but see lede: ""the domain of the operator is a linear subspace, not necessarily the whole space;"""
+2017-05-05T16:24:50+00:00,778859670,766967676,0,The1337gamer,Unbounded operator,/* Adjoint */ fix italics
+2016-06-07T02:38:45+00:00,724090158,724014198,0,Lowercase sigmabot III,User talk:Abecedare,Archiving 2 discussion(s) to [[User talk:Abecedare/Archive 21]]) (bot
+2015-03-06T03:52:02+00:00,650096645,650032899,0,Lowercase sigmabot III,User talk:Abecedare,Archiving 2 discussion(s) to [[User talk:Abecedare/Archive 19]]) (bot
+2016-04-29T06:18:43+00:00,717698575,717697205,0,Joshua Jonathan,User talk:Abecedare,/* Speedy deletion nomination of User:Abecedare/sandbox */ cmt
+2015-06-08T17:04:06+00:00,666060937,666060055,0,Abecedare,User talk:Abecedare,/* Bhumihar pov pushing */ add
+2015-11-23T16:22:15+00:00,692050875,691009299,0,MediaWiki message delivery,User talk:Abecedare,/* ArbCom elections are now open! */ new section
+2017-06-26T03:31:01+00:00,787565738,773835142,0,Guy Macon,User talk:Abecedare,/* This is to inform you that an attempt is being made to overturn an RfC that you voted on */ new section
+2018-06-08T22:28:30+00:00,845039928,843429407,0,Renamed user stsrtbreybseystu,User talk:CBM,/* Article on Lindelof Hypothesis */ new section
+2015-02-25T15:36:01+00:00,648799432,648798272,0,Ssven2,User talk:CBM,/* Enthiran */
+2016-01-03T02:55:25+00:00,697963035,695966147,0,Lowercase sigmabot III,User talk:CBM,Archiving 2 discussion(s) to [[User talk:CBM/Archive 22]]) (bot
+2018-06-29T12:04:57+00:00,848039646,0,0,Renamed user stsrtbreybseystu,User talk:Jay7yagi,[[WP:AES|←]]Created page with '== Lindelof hypothesis article == This is to let you know that this article keeps getting vandalised by users who seem to wish no reference to be made to Fokas's...'
+2016-09-27T07:59:05+00:00,741400222,741357556,0,Cic,User talk:CBM,/* Revert? */
+2018-06-29T21:00:53+00:00,848110015,848108556,0,Renamed user stsrtbreybseystu,User talk:Renamed user stsrtbreybseystu,[[WP:AES|←]]Blanked the page
+2018-04-22T16:03:54+00:00,837717049,837678904,0,HostBot,User talk:Renamed user stsrtbreybseystu,"/* AlexanderTrampton, you are invited to the Teahouse! */ new section"
+2018-03-15T06:46:08+00:00,830502509,830374648,0,Alex Shih,User talk:Xaosflux,"/* Your advice */ my thoughts, also pinging"
+2017-05-20T19:50:45+00:00,781363664,781362555,0,JJMC89,User talk:Xaosflux,/* Content model change request */ thanks
+2015-08-31T01:33:32+00:00,678694073,678693929,0,Xaosflux,User talk:Xaosflux,archive
+2016-09-06T21:45:12+00:00,738095607,737971233,0,MediaWiki message delivery,User talk:Xaosflux,/* The Signpost: 06 September 2016 */ new section
+2015-02-18T22:53:54+00:00,647778292,647774231,0,Mkativerata,Wikipedia:Dispute resolution noticeboard,/* Talk:Anwar Ibrahim#Hidden sex tape allegation discussion */Comment
+2016-07-16T17:34:05+00:00,730097668,730012569,0,KSFT,Wikipedia:Dispute resolution noticeboard,/* Talk:Capital punishment#Blanket deletion. */ close
+2015-01-17T01:24:45+00:00,642848336,642848299,0,Lowercase sigmabot III,Wikipedia:Dispute resolution noticeboard,Archiving 1 discussion(s) to [[Wikipedia:Dispute resolution noticeboard/Archive 105]]) (bot
+2017-12-08T07:42:13+00:00,814348899,814298339,0,Lowercase sigmabot III,Wikipedia:Dispute resolution noticeboard,Archiving 2 discussion(s) to [[Wikipedia:Dispute resolution noticeboard/Archive 159]]) (bot
+2017-05-20T10:35:57+00:00,781297500,781297373,0,Ymblanter,Wikipedia:Requests for page protection,/* DWAD-AM */
+2015-08-07T02:50:15+00:00,674931601,674917501,0,NextGenSam619,Wikipedia:Requests for page protection,Requesting pending changes on [[Dilwale (2015 film)]]. ([[WP:TW|TW]])
+2018-01-20T01:54:23+00:00,821370471,821367636,0,Boomer Vial,Wikipedia:Requests for page protection,Requesting template protection of [[Template:Falkland Islands topics]]. ([[WP:TW|TW]])
+2017-08-24T10:33:06+00:00,797001013,797000942,0,Jingiby,Wikipedia:Requests for page protection,Bulgarians
+2016-06-20T05:57:57+00:00,726125630,722462841,0,Andy M. Wang,Group extension,link corr.
+2013-04-14T08:53:18+00:00,550279132,540861570,0,Paolo Lipparini,Group extension,it is already mentioned at the beginning
+2015-07-28T16:46:48+00:00,673494930,672649159,0,John of Reading,Group extension,"Typo/[[WP:AWB/GF|general]] fixes, replaced: the the → the, [[WP:AWB/T|typo(s) fixed]]: However  → However, using [[Project:AWB|AWB]]"
+2012-09-16T13:21:18+00:00,512890628,492546223,0,62.62.174.68,Group extension,/* Lie groups */
+2012-01-31T19:24:39+00:00,474261411,471517997,0,Brad7777,Group extension,removed [[Category:Abstract algebra]] using [[WP:HC|HotCat]]
+2018-02-27T19:17:17+00:00,827959522,827959459,0,Arturodonjuan,Group extension,/* Extensions in general */
+2017-11-10T09:41:00+00:00,809622231,787701586,0,Rgc1994,Group extension,"It's something treated in the talks but the article doesn't show the ambiguity of the notation. Personally I found the another notation quite useful as ""an extension of X"" should have ""X"" as a substructure."
+2015-12-28T20:58:45+00:00,697183669,697183462,0,Trumpet marietta 45750,Group extension,
+2014-09-17T05:05:09+00:00,625906460,625906408,0,Michael Hardy,Group extension,/* Extensions in general */
+2018-02-10T05:23:51+00:00,824896874,824894896,0,Ultramarineflycatcher,Group extension,/* Generalization to general extensions */
+2012-05-14T16:57:07+00:00,492546223,474261411,0,Cuzkatzimhut,Group extension,/* See also */
+2018-01-10T03:47:28+00:00,819574479,817359482,0,Balon Greyjoy,Jordan normal form,"clean up, [[WP:AWB/T|typo(s) fixed]]: Therefore → Therefore, (2) using [[Project:AWB|AWB]]"
+2015-03-17T11:50:05+00:00,651769702,646879505,0,LokiClock,Jordan normal form,/* Intro */ There is no M in this context
+2016-02-18T07:05:56+00:00,705569994,704237975,0,65.93.103.21,Jordan normal form,complex numbers are not special here
+2014-05-14T21:58:38+00:00,608606042,607146712,0,207.38.151.173,Jordan normal form,/* Complex matrices */
+2012-07-04T21:28:52+00:00,500708636,493903581,0,115.188.189.59,Jordan normal form,/* Complex matrices */  Adding a link to similar matrices
+2014-11-29T16:26:41+00:00,635909658,634854017,0,82.123.174.158,Group extension,"If an extension is equivalent to the trivial one, then it is a direct product. Prop 2 : http://books.google.fr/books?id=4RIDPH1ULXcC&pg=SA1-PA63#v=onepage&q&f=false"
+2013-01-01T15:43:54+00:00,530766962,527126770,0,83.149.8.224,Jordan normal form,/* References */
+2015-09-03T06:59:07+00:00,679224685,673494930,0,67.198.37.16,Group extension,/* Central extension */ wikilink
+2012-07-20T16:42:05+00:00,503301480,502987808,0,Bender2k14,Jordan normal form,Intro: added a missing article
+2013-12-11T17:57:27+00:00,585621481,585515618,0,129.15.11.181,Jordan normal form,/* Complex matrices */
+2015-12-11T17:05:51+00:00,694799383,694616657,0,FourViolas,Jordan normal form,/* Example */ +defn for italic capital I. Usages vary: [id_4]=\textbf{1}_4=I_4
+2014-09-02T11:45:49+00:00,623847987,608606042,0,Dexbot,Jordan normal form,Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2013-04-15T02:35:24+00:00,550408218,546644335,0,107.3.156.238,Jordan normal form,/* Complex matrices */
+2015-09-04T11:21:18+00:00,679407922,676834341,0,128.227.142.119,Jordan normal form,/* Motivation */  Fixed typo.
+2015-06-20T07:59:08+00:00,667737683,667071946,0,84.229.35.226,Jordan normal form,/* A proof */
+2013-07-18T17:23:59+00:00,564816097,550408218,0,99.153.64.179,Jordan normal form,/* Generalized eigenvectors */ {{main|Generalized eigenvectors}}
+2013-03-07T10:30:12+00:00,542559437,510415149,0,Addbot,Lindelöf hypothesis,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q911528]]"
+2014-04-26T05:08:12+00:00,605854160,584964442,0,BattyBot,Lindelöf hypothesis,/* References */fixed [[Help:CS1 errors#bad_date|CS1 errors: dates]] to meet [[MOS:DATEFORMAT]] (also [[WP:AWB/GF|General fixes]]) using [[Project:AWB|AWB]] (10083)
+2013-07-13T14:59:35+00:00,564110518,542559437,0,MaLeZig,Lindelöf hypothesis,"/* The &mu; function */  haneke, Wolfgang not Haeneke. He was Professor at Marburg, I know him and how his name is spelled"
+2012-09-02T11:31:33+00:00,510415149,490237907,0,GuySh,Lindelöf hypothesis,/* The &mu; function */
+2012-05-02T03:21:41+00:00,490237907,447614760,0,Myasuda,Lindelöf hypothesis,/* The &mu; function */ avoid redirect
+2013-12-07T07:58:01+00:00,584964442,584964403,0,Enyokoyama,Lindelöf hypothesis,/* Relation to the Riemann hypothesis */
+2015-11-12T18:38:51+00:00,690333438,690333207,0,Michael Hardy,Manifold,/* Sphere with charts */ a small mathematical notation improvement
+2017-03-14T09:02:47+00:00,770248311,770236814,0,D.Lazard,Manifold,Reverted 1 edit by [[Special:Contributions/217.165.84.186|217.165.84.186]] ([[User talk:217.165.84.186|talk]]) to last revision by 66.27.193.38. ([[WP:TW|TW]])
+2017-07-25T07:42:21+00:00,792224375,792189487,0,Steelpillow,Manifold,"Undid revision 792189487 by [[Special:Contributions/98.216.102.175|98.216.102.175]] ([[User talk:98.216.102.175|talk]]) the sphere is a surface, you are thinking of a ball"
+2013-01-03T08:35:20+00:00,531056474,529357117,0,Voidxor,Manifold,Rm image-caption sentence-fragment periods
+2018-03-11T01:34:04+00:00,829828440,826179664,0,GreenC bot,Manifold,Reformat 3 archive links. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]
+2013-08-13T09:28:17+00:00,568333424,561517555,0,Mandarax,Manifold,replaced: Simeon Poisson → Siméon Poisson using [[Project:AWB|AWB]]
+2016-06-03T05:04:06+00:00,723460442,720272252,0,Dcirovic,Manifold,/* Charts */clean up using [[Project:AWB|AWB]]
+2014-01-03T12:26:02+00:00,588966876,588948810,0,Slawekb,Manifold,"Glued from"" suggests that the Euclidean spaces are the glue, not the pieces. Glue together is the correct phrasal verb.  Also compare google hits ""glued together from"" (millions) versus  ""glued from"" (tens of thousands)."
+2012-08-03T07:05:57+00:00,505540952,505536325,0,Nbarth,Manifold,/* Generalizations of manifolds */ homology manifolds
+2014-09-02T16:18:14+00:00,623878019,621294135,0,Dexbot,Manifold,Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2016-03-05T07:40:10+00:00,708382591,707367171,0,80.110.78.35,Manifold,"/* Riemannian manifolds */  the gradient of a function on the manifold can be defined by the directional derivative, which does not need an inner product!"
+2016-08-03T02:00:46+00:00,732759477,731163908,0,Widefox,Manifold,/* Notes */ ref cols
+2017-07-03T20:58:00+00:00,788847597,786517476,0,Chris the speller,Manifold,/* Classification and invariants */replaced: well-understood → well understood using [[Project:AWB|AWB]]
+2014-09-09T15:08:50+00:00,624815396,623878019,0,137.205.238.187,Manifold,/* Differentiable manifolds */
+2014-04-11T23:14:16+00:00,603807390,603182252,0,Wavelength,Manifold,"inserting 1 [[hyphen]]: —> ""higher-dimensional""—[[User talk:Wavelength#Hyphenation]] [to Archive 6]"
+2018-02-17T18:08:14+00:00,826179664,824927172,0,Rjwilmsi,Manifold,"/* Generalizations of manifolds */Journal cites, Added 1 doi to a journal cite"
+2017-01-04T15:39:22+00:00,758289712,758288797,0,Sławomir Biały,Manifold,/* Atlases */ this doesn't belong here anyway
+2016-12-27T20:40:35+00:00,756944926,752626941,0,75.139.254.117,Manifold,simplify
+2017-04-21T11:29:20+00:00,776500948,776493032,0,Sławomir Biały,Manifold,"Moved history further down in the article.  Since the history itself is not particularly accessible to lay readers, there is no advantage to having the section this early in the article, and it breaks continuity of examples/def."
+2012-04-21T21:35:48+00:00,488554911,487464648,0,EmausBot,Manifold,r2.6.4) (Robot: Modifying [[eo:Sternaĵo]]
+2014-03-15T19:39:23+00:00,599761165,596522352,0,Colonies Chris,Metaplectic group,"sp, date & link fixes; unlinking common words, replaced: d’ → d', Stone-von Neumann → Stone–von Neumann using [[Project:AWB|AWB]]"
+2012-02-09T21:26:23+00:00,476016317,454519966,0,Kilom691,Metaplectic group,/* References */
+2013-06-25T13:46:14+00:00,561517555,560307038,0,131.220.196.112,Manifold,/* External links */  updated link to manifold atlas
+2013-06-30T11:13:17+00:00,562232861,517386020,0,Mgvongoeden,Metaplectic group,/* Construction of the Weil representation */ typo
+2012-04-07T12:36:49+00:00,486070550,486070488,0,TakuyaMurata,Metaplectic group,/* Generalizations */
+2016-01-15T14:42:16+00:00,699962866,682175894,0,2001:630:12:10C0:4261:86FF:FEF2:37C9,Metaplectic group,Clarified the explicit construction of the metaplectic group for n = 1.
+2016-08-22T02:29:55+00:00,735636110,710731515,0,FrescoBot,Metaplectic group,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2015-09-10T08:00:13+00:00,680343224,670335298,0,Ørsted,One-parameter group,: to \colon
+2014-04-22T12:33:51+00:00,605288741,572678512,0,BD2412,One-parameter group,"/* Physics */minor fixes, mostly [[Wikipedia:Disambiguation pages with links|disambig links]] using [[Project:AWB|AWB]]"
+2017-12-31T02:52:34+00:00,817878103,817877158,0,Rgdboer,One-parameter group,"mv section down per [[WP:Section order]] (complexity), rm dup from Sa"
+2012-11-29T19:50:53+00:00,525582474,525576157,0,Dr Greg,One-parameter group,/* Discussion */ dab subspace (what else could it be given what G is?)
+2011-03-21T02:10:12+00:00,419904166,386072093,0,Rgdboer,One-parameter group,/* Physics */ lk unit hyperbola
+2017-03-28T03:23:29+00:00,772578175,680343224,0,108.21.235.175,One-parameter group,
+2015-02-28T16:51:21+00:00,649246758,649244991,0,Henokh-lugo,One-parameter group,
+2013-02-28T08:56:43+00:00,541189931,525582474,0,Addbot,One-parameter group,"[[User:Addbot|Bot:]] Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1308481]] ([[User talk:Addbot|Report Errors]])"
+2013-07-09T14:15:46+00:00,563526628,546474211,0,Incnis Mrsi,Projective representation,'''F''' (boldface) is a finite field. an arbitrary field is the F italic
+2012-05-24T18:52:45+00:00,494192847,492069748,0,Kilom691,Projective representation,/* References */
+2013-03-23T05:20:48+00:00,546474211,538887247,0,Addbot,Projective representation,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q7249476]]"
+2011-07-31T13:16:10+00:00,442350782,415382035,0,91.57.59.44,Projective representation,/* References */
+2013-11-16T01:10:54+00:00,581848527,576853877,0,Enterprisey,Symplectic group,Added {{[[Template:one source|one source]]}} and {{[[Template:technical|technical]]}} tags to article ([[WP:TW|TW]])
+2014-09-24T13:18:50+00:00,626893940,626893673,0,114.148.251.161,Symplectic group,"/* Important subgroups */ reverted last change, but see comments"
+2012-05-19T06:34:09+00:00,493303726,492298495,0,95.55.98.159,Symplectic group,
+2012-09-19T07:00:28+00:00,513493725,512032680,0,99.241.86.114,Symplectic group,minor typos
+2014-04-16T12:12:04+00:00,604438999,587986164,0,76.126.208.43,Symplectic group,/* Example of symplectic matrices */
+2013-01-08T19:47:15+00:00,532002010,513493725,0,Xqbot,Symplectic group,r2.7.3) (Robot: Adding [[ko:심플렉틱 군]]
+2013-12-27T22:53:13+00:00,587986164,581848527,0,BD2412,Symplectic group,/* Relationships between the symplectic groups */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]] using [[Project:AWB|AWB]]
+2013-07-02T01:13:36+00:00,562476898,561084164,0,Promise her a definition,Symplectic group,/* Infinitesimal generators */
+2014-07-25T21:01:08+00:00,618464768,604438999,0,Daqu,Symplectic group,"/* Important subgroups */ Got rid of the ""USP"" notation, other than just mentioning that it exists"
+2013-10-12T13:00:53+00:00,576853877,567903251,0,Eric Kvaalen,Symplectic group,"""norm"" instead of ""unit"""
+2014-11-20T02:30:12+00:00,634636079,634181117,0,AdventurousSquirrel,Symplectic group,Help needed: [[Skew-symmetric]]
+2011-08-30T15:44:36+00:00,447501919,447501603,0,AManWithNoPlan,Symplectic matrix,| [[WP:UCB|Assisted by Citation bot r394]]
+2013-09-04T08:56:27+00:00,571486516,569579310,0,Jitse Niesen,Symplectic matrix,"/* Symplectic transformations */ block diagonal form is now below, not above"
+2013-02-27T06:05:51+00:00,540857143,531822162,0,Addbot,Symplectic matrix,"[[User:Addbot|Bot:]] Migrating 6 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2705070]] ([[User talk:Addbot|Report Errors]])"
+2012-11-22T17:40:32+00:00,524383419,447501919,0,Andylatto,Symplectic matrix,"Fixed reference to ""either of the standard forms mentioned in the introduction"", since the block diagonal form is no longer mentioned in the intro."
+2015-08-16T16:38:34+00:00,676380798,671166952,0,Loraof,Symplectic matrix,/* top */ ce
+2013-08-21T14:40:38+00:00,569579310,540857143,0,Eric Kvaalen,Symplectic matrix,Explicit inverse. Determinant in complex case may not be 1. 2×2 complex case.
+2012-08-06T21:23:02+00:00,506128285,506110086,0,Frietjes,Template:Group theory sidebar,
+2012-04-10T18:21:12+00:00,486666400,486503299,0,Olsonist,Template:Group theory sidebar,style_param
+2013-05-07T10:01:03+00:00,553927506,553654712,0,176.24.125.12,Template:Group theory sidebar,Changed cyclic group shorthand to the same one used in the article regarding cyclic groups.
+2014-01-30T19:04:15+00:00,593157751,573738489,0,D.Lazard,Template:Group theory sidebar,Z/nZ is simple only if n is prime
+2014-11-17T22:48:38+00:00,634290020,600262515,0,Technical 13,Template:Group theory sidebar,HTML5 compliance.
+2012-08-11T22:20:39+00:00,506951939,501991771,0,CommonsDelinker,Template:Lie groups,Replacing E8PetrieFull.svg with [[File:E8Petrie.svg]] (by [[commons:User:MPF|MPF]] because: Exact or scaled-down duplicate: [[commons::File:E8Petrie.svg]]).
+2014-09-14T20:56:06+00:00,625568250,617592678,0,Sammy1339,Template:Lie groups,
+2013-09-20T09:07:45+00:00,573755428,565856316,0,Hyacinth,Template:Lie groups,[[Category:Mathematics sidebar templates]]
+2012-12-08T18:39:01+00:00,527057923,506951939,0,Magioladitis,Template:Lie groups,Remove unicode control characters (CHECKWIKI error 16) using [[Project:AWB|AWB]] (8786)
+2013-03-29T04:47:54+00:00,547556890,547385633,0,Mathsci,Template:Lie groups,
+2013-07-26T06:40:14+00:00,565856316,554066066,0,Kmarinas86,Template:Lie groups,This is needed to prevent autodidacts from getting lost.
+2015-05-18T01:16:54+00:00,662861101,662860518,0,178.38.169.175,Unbounded operator,/* Symmetric operators and self-adjoint operators */
+2012-03-24T00:49:06+00:00,483617828,481357695,0,YFdyh-bot,Template:Lie groups,r2.7.2) (Robot: Modifying [[zh:Template:李群]]
+2012-08-01T13:40:00+00:00,505260120,495936808,0,RedBot,Unbounded operator,r2.7.3) (Robot: Adding [[ja:非有界作用素]]
+2016-05-27T06:10:32+00:00,722301194,721666670,0,Jadzia2341,Unbounded operator,/* Extension-related */ Specifying the type of operator.
+2015-03-06T21:10:07+00:00,650199486,645916289,0,Randomguess,Unbounded operator,/* References */ added freely available reference
+2016-01-01T18:26:19+00:00,697755918,694456221,0,Michael Hardy,Unbounded operator,/* Basic Properties */ lower case required by [[WP:MOS]]
+2016-12-07T06:44:37+00:00,753453064,749660320,0,178.39.122.125,Unbounded operator,/* Closed linear operators */
+2013-05-13T21:08:38+00:00,554951048,550367117,0,Lost-n-translation,Unbounded operator,/* Symmetric operators and self-adjoint operators */
+2012-06-04T14:05:50+00:00,495936808,495936724,0,None but shining hours,Unbounded operator,Undid revision 495936724 by [[Special:Contributions/117.216.16.147|117.216.16.147]] ([[User talk:117.216.16.147|talk]])Rv vandalism
+2014-04-04T04:38:52+00:00,602680150,602680126,0,99.241.166.168,Unbounded operator,/* Closed linear operators */ html math to {{math|...}} finished
+2014-01-21T18:20:08+00:00,591747004,590022136,0,83.104.233.128,Unbounded operator,/* Adjoint */  Added full stop
+2012-11-09T20:57:31+00:00,522233862,521063149,0,Wiki.Tango.Foxtrot,Unbounded operator,rm merge tag (no discussion initiated since july 2009)
+2014-12-11T11:34:14+00:00,637612558,635098164,0,$$nnaakkee,Unbounded operator,/* Symmetric operators and self-adjoint operators */
+2016-03-19T03:37:23+00:00,710803194,710148943,0,Mild Bill Hiccup,Unbounded operator,/* Adjoint */ Fixing style/layout errors
+2013-03-13T04:57:29+00:00,543768743,543767773,0,SporkBot,User talk:Abecedare,[[WP:SIGNT]]
+2014-05-31T15:49:52+00:00,610942567,610034195,0,Bladesmulti,User talk:Abecedare,/* Welcome back */ reply
+2015-04-02T08:31:11+00:00,654606712,654602560,0,Bhavika1990,User talk:Abecedare,
+2012-03-17T18:24:53+00:00,482407528,481427959,0,MiszaBot III,User talk:Abecedare,Archiving 2 thread(s) (older than 7d) to [[User talk:Abecedare/Archive 18]].
+2012-12-24T12:36:46+00:00,529596773,529500534,0,MiszaBot III,User talk:Abecedare,Robot: Archiving 2 threads (older than 7d) to [[User talk:Abecedare/Archive 18]].
+2015-06-01T11:44:09+00:00,665006948,664991693,0,Gerda Arendt,User talk:Abecedare,/* Precious */ more precise
+2017-09-02T20:27:13+00:00,798595033,798594994,0,Ykashgari,User talk:Abecedare,"/* request article or redirect, */"
+2017-06-22T18:13:22+00:00,786977616,784399703,0,TenPoundHammer,User talk:CBM,Notification: nomination at [[WP:TFD|templates for discussion]] of [[Template:Maths acd]]. using	[[WP:TW|TW]]
+2014-10-17T11:16:09+00:00,629969801,627467838,0,Tennispompom,User talk:CBM,
+2013-09-13T11:39:26+00:00,572746995,571717464,0,MrNiceGuy1113,User talk:CBM,About change made
+2017-08-28T18:26:41+00:00,797704011,797390509,0,Paul August,User talk:CBM,Reverted edits by [[Special:Contribs/188.55.198.221|188.55.198.221]] ([[User talk:188.55.198.221|talk]]) to last version by TenPoundHammer
+2012-08-07T10:59:41+00:00,506210194,506192598,0,Kumioko,User talk:CBM,/* Articles by quality logs */ The toolservers backlogged by a week anyway
+2013-06-04T06:02:22+00:00,558244072,557686874,0,Psychotropic sentence,User talk:CBM,/* Hewitt again? */ new section
+2013-02-16T14:02:44+00:00,538558454,537946875,0,MiszaBot III,User talk:CBM,Robot: Archiving 2 threads (older than 14d) to [[User talk:CBM/Archive 20]].
+2012-09-10T12:45:46+00:00,511682638,511528182,0,MiszaBot III,User talk:CBM,Robot: Archiving 2 threads (older than 14d) to [[User talk:CBM/Archive 19]].
+2017-09-07T04:34:31+00:00,799349974,799179853,0,Legobot,User talk:Xaosflux,/* Please comment on Talk:Moors */ new section
+2013-04-10T08:12:48+00:00,549645735,548981147,0,EdwardsBot,User talk:Xaosflux,/* The Signpost: 08 April 2013 */ new section
+2013-03-28T23:49:17+00:00,547523645,546223508,0,EdwardsBot,User talk:Xaosflux,/* The Signpost: 25 March 2013 */ new section
+2012-05-22T04:19:53+00:00,493772999,492874931,0,EdwardsBot,User talk:Xaosflux,/* The Signpost: 21 May 2012 */ new section
+2016-05-22T04:27:14+00:00,721484039,720694347,0,Legobot,User talk:Xaosflux,/* Please comment on Wikipedia talk:Manual of Style/Japan-related articles */ new section
+2017-01-07T10:40:56+00:00,758751950,758559282,0,Marcocapelle,User talk:Xaosflux,Notification: listing at [[WP:CFD|categories for discussion]] of [[Category:Catholic lay societies]]. ([[WP:TW|TW]])
+2017-10-17T18:14:38+00:00,805797878,805714309,0,Johncsurfin3,User talk:Xaosflux,/* Permissions */ new section
+2016-12-31T04:27:10+00:00,757524214,757395223,0,Legobot,User talk:Xaosflux,/* Please comment on Template talk:Cold War */ new section
+2017-08-20T05:18:04+00:00,796343592,796343585,0,Meters,User talk:Xaosflux,Reverted edits by [[Special:Contribs/2600:6C4E:7003:600:FC12:EC7D:6247:6455|2600:6C4E:7003:600:FC12:EC7D:6247:6455]] ([[User talk:2600:6C4E:7003:600:FC12:EC7D:6247:6455|talk]]) to last version by Legobot
+2013-08-16T10:57:22+00:00,568781229,567889473,0,EdwardsBot,User talk:Xaosflux,/* The Signpost: 14 August 2013 */ new section
+2016-12-20T00:42:07+00:00,755758030,755724713,0,SuggestBot,User talk:Xaosflux,SuggestBot recommends these articles...
+2012-10-24T13:16:09+00:00,519566104,518692153,0,EdwardsBot,User talk:Xaosflux,/* The Signpost: 22 October 2012 */ new section
+2012-05-01T05:47:45+00:00,490077079,488977993,0,EdwardsBot,User talk:Xaosflux,/* The Signpost: 30 April 2012 */ new section
+2012-12-20T00:02:52+00:00,528879512,528070693,0,EdwardsBot,User talk:Xaosflux,/* The Signpost: 17 December 2012 */ new section
+2013-08-10T00:52:41+00:00,567889473,566805943,0,EdwardsBot,User talk:Xaosflux,/* The Signpost: 07 August 2013 */ new section
+2014-12-30T00:03:36+00:00,640163432,640154796,0,Legobot,User talk:Xaosflux,/* Please comment on Wikipedia talk:Naming conventions (Chinese) */ new section
+2014-02-03T13:01:39+00:00,593721813,593718501,0,Bkonrad,Wikipedia:Dispute resolution noticeboard,/* Puerto Rico discussion */
+2012-07-07T06:37:02+00:00,501062589,501039077,0,MiszaBot II,Wikipedia:Dispute resolution noticeboard,Robot: Archiving 2 threads (older than 24h) to [[Wikipedia:Dispute resolution noticeboard/Archive 36]].
+2018-02-05T18:10:31+00:00,824163253,824099185,0,Robert McClenon,Wikipedia:Dispute resolution noticeboard,/* Talk:Esperanto grammar#Ci */
+2016-06-09T18:20:54+00:00,724507850,724507642,0,Hebel,Wikipedia:Dispute resolution noticeboard,Undid revision 724507642 by [[Special:Contributions/Hebel|Hebel]] ([[User talk:Hebel|talk]])
+2016-09-12T10:04:40+00:00,739022885,739018858,0,Otakrem,Wikipedia:Dispute resolution noticeboard,/* Tigrayans discussion */
+2016-04-27T23:14:19+00:00,717476842,717472007,0,86.160.202.101,Wikipedia:Dispute resolution noticeboard,/* First statements by editors */
+2012-08-10T11:32:49+00:00,506709857,506709200,0,178.223.215.93,Wikipedia:Dispute resolution noticeboard,/* Opening comments by Poeticbent */
+2013-05-14T17:55:05+00:00,555087538,555050429,0,Cameron11598,Wikipedia:Dispute resolution noticeboard,/* Compromise? */
+2015-09-09T15:26:08+00:00,680233580,680232355,0,Robert McClenon,Wikipedia:Dispute resolution noticeboard,/* Third statement by moderator */   article scope question also?
+2018-05-07T17:42:52+00:00,840092563,840091582,0,Robert McClenon,Wikipedia:Dispute resolution noticeboard,"/* Talk:Shroud of Turin#Deleted sentence ""However, none of the hypotheses challenging ..."" as not sourced */   closed, finally"
+2013-03-11T11:18:54+00:00,543397993,543389659,0,TheVirginiaHistorian,Wikipedia:Dispute resolution noticeboard,"/* Talk:United States, Wikipedia talk:WikiProject United States/Defining the United States of America */ why?"
+2015-08-31T18:31:22+00:00,678802583,678800672,0,RMS52,Wikipedia:Dispute resolution noticeboard,Don't post messages here.
+2012-06-28T00:01:49+00:00,499679186,499678337,0,Second Quantization,Wikipedia:Dispute resolution noticeboard,/* Article Content Addition / Removal */ not reliable for what?
+2012-10-22T18:07:31+00:00,519242745,519242556,0,EarwigBot,Wikipedia:Dispute resolution noticeboard,([[WP:BOT|Bot]]; [[User:EarwigBot#Task 19|Task 19]]): Updating 1 case.
+2015-08-03T05:04:51+00:00,674321093,674314790,0,Robert McClenon,Wikipedia:Dispute resolution noticeboard,/* Talk:Spiro Koleka */  open
+2015-07-15T19:22:16+00:00,671600237,671593485,0,Haptic-feedback,Wikipedia:Dispute resolution noticeboard,/* Administrative side note */ reply to Ronz
+2013-08-08T15:31:23+00:00,567692112,567690509,0,EarwigBot,Wikipedia:Dispute resolution noticeboard,([[WP:BOT|Bot]]; [[User:EarwigBot#Task 19|Task 19]]): Updating 1 case.
+2018-07-11T20:38:53+00:00,849852018,849832346,0,Kelisi,Wikipedia:Dispute resolution noticeboard,/* Talk:2010–2017 Toronto serial homicides#Removal of hyphens */ new section
+2016-07-27T20:11:13+00:00,731833275,731832881,0,Robert McClenon,Wikipedia:Dispute resolution noticeboard,/* Talk:Unseen character#Dispute Resolution on Vera Peterson and Maris Crane discussion */   stop it
+2016-11-26T20:24:07+00:00,751612553,751465263,0,Iss246,Wikipedia:Dispute resolution noticeboard,/* Summary of dispute by iss246 */ Summary of the dispute
+2017-04-30T22:25:50+00:00,778061914,778055640,0,MjolnirPants,Wikipedia:Dispute resolution noticeboard,/* Summary of dispute by MjolnirPants */
+2016-03-04T01:52:59+00:00,708173044,708172467,0,Tapered,Wikipedia:Dispute resolution noticeboard,/* Talk:Sandy Hook Elementary School shooting discussion */
+2017-10-03T17:28:01+00:00,803626094,803617723,0,Robert McClenon,Wikipedia:Dispute resolution noticeboard,/* Holly River State Park discussion */   note
+2012-03-30T11:16:14+00:00,484680528,484680080,0,Haploidavey,Wikipedia:Dispute resolution noticeboard,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/188.251.44.184|188.251.44.184]] ([[User talk:188.251.44.184|talk]]): Rmv what seems an IP experiment. ([[WP:TW|TW]])
+2016-08-06T13:40:08+00:00,733252520,733248240,0,Cyberbot I,Wikipedia:Requests for page protection,"Bot clerking, archiving 3 threads, 11 pending requests remain. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2016-04-06T01:28:06+00:00,713818513,713816287,0,Cryobiologist,Wikipedia:Dispute resolution noticeboard,/* Fourth statements by editors */
+2015-10-18T09:45:00+00:00,686305663,686300257,0,Alicia leo86,Wikipedia:Requests for page protection,/* Current requests for increase in protection level */
+2016-03-29T20:21:23+00:00,712558867,712558061,0,Cyberbot I,Wikipedia:Requests for page protection,"Bot clerking, 12 pending requests remain. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2014-11-10T17:03:29+00:00,633250541,633250267,0,MusikAnimal,Wikipedia:Requests for page protection,/* {{la|WWE World Heavyweight Championship}} */ semi'd 1 week
+2015-12-03T17:15:53+00:00,693603982,693601883,0,Cyberbot I,Wikipedia:Requests for page protection,"Bot clerking, archiving 5 threads, 5 pending requests remain. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2017-04-26T22:53:31+00:00,777395863,777394657,0,Lizard the Wizard,Wikipedia:Requests for page protection,/* Jerry Rice */
+2014-12-09T08:46:44+00:00,637295836,637295744,0,CambridgeBayWeather,Wikipedia:Requests for page protection,/* {{la|Evan Dimas}} */
+2015-09-23T12:20:02+00:00,682389692,682389512,0,Ged UK,Wikipedia:Requests for page protection,/* Allama Prabhu */ fully protected for 1 week
+2018-01-21T07:22:12+00:00,821564559,821561892,0,Cyberbot I,Wikipedia:Requests for page protection,"Bot clerking, archiving 4 threads, 8 pending requests remain. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2018-03-07T03:55:40+00:00,829184888,829184841,0,Brojam,Wikipedia:Requests for page protection,Requesting semi-protection of [[Template:The Walking Dead ratings]]. ([[WP:TW|TW]])
+2012-08-22T02:46:29+00:00,508555518,508555007,0,WikiPediaAid,Wikipedia:Requests for page protection,/* {{la|America's Got Talent (season 7)}} */ Adding link to IP user
+2016-03-25T14:53:23+00:00,711890439,711888534,0,Cyberbot I,Wikipedia:Requests for page protection,"Bot clerking, archiving 7 threads, 19 pending requests remain. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2017-04-04T13:09:14+00:00,773796176,773784640,0,Yashovardhan Dhanania,Wikipedia:Dispute resolution noticeboard,/* Talk:Balija#Kavarai */ added spi link
+2016-01-07T01:30:34+00:00,698588097,698584963,0,Bretonbanquet,Wikipedia:Requests for page protection,/* Current requests for increase in protection level */ +1
+2013-10-29T21:44:01+00:00,579353149,579347548,0,Vanisaac,Wikipedia:Requests for page protection,/* Current requests for protection */
+2013-12-15T07:57:18+00:00,586158981,586158174,0,Jprg1966,Wikipedia:Requests for page protection,Requesting pending changes on [[Desmond Tutu]]. ([[WP:TW|TW]])
+2015-09-20T21:51:29+00:00,681999684,681999258,0,NeilN,Wikipedia:Requests for page protection,/* Japan national rugby union team */ semi-protected 3 days (using [[User:MusikAnimal/responseHelper|responseHelper]])
+2014-03-01T02:07:26+00:00,597608862,597607172,0,Slakr,Wikipedia:Requests for page protection,/* {{la|Toronto Zoo}} */ nea
+2014-04-09T22:33:39+00:00,603516311,603513333,0,Eyesnore,Wikipedia:Requests for page protection,Requesting unprotection of [[Template:Deleted]]. ([[WP:TW|TW]])
+2014-12-19T07:53:27+00:00,638750723,638749888,0,Cyberbot I,Wikipedia:Requests for page protection,"Bot clerking, archiving 4 threads, 10 pending requests remain. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2017-04-21T15:50:17+00:00,776531567,776531319,0,El C,Wikipedia:Requests for page protection,/* Alternative facts */ 5 days
+2015-12-25T22:27:37+00:00,696786982,696786193,0,TAnthony,Wikipedia:Requests for page protection,Requesting semi-protection of [[Ab Fab: The Movie]]. ([[WP:TW|TW]])
+2012-08-27T12:37:49+00:00,509420701,509420485,0,Naapple,Wikipedia:Requests for page protection,"/* Current requests for protection */  whoops, top"
+2014-02-22T02:21:51+00:00,596578586,596578542,0,Scorpion0422,Wikipedia:Requests for page protection,/* Current requests for increase in protection level */
+2017-02-04T05:16:46+00:00,763614770,763614699,0,Materialscientist,Wikipedia:Requests for page protection,/* User talk:General Ization */ done by Bongwarrior
+2017-09-19T03:08:42+00:00,801342543,801341317,0,Cyberbot I,Wikipedia:Requests for page protection,"Bot clerking, archiving 4 threads, 7 pending requests remain. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2014-05-06T19:27:54+00:00,607373305,607365264,0,Cyberbot I,Wikipedia:Requests for page protection,"Bot clerking, archiving 4 threads, 18 pending requests remain. ([[en:WP:PEACHY|Peachy 2.0 (alpha 7)]])"
+2017-01-26T00:35:10+00:00,761988040,761986952,0,GB fan,Wikipedia:Requests for page protection,Reverted edits by [[Special:Contribs/Morlinobare|Morlinobare]] ([[User talk:Morlinobare|talk]]) to last version by Andy Dingley
+2017-03-31T23:22:19+00:00,773202356,773202237,0,JJBers,Wikipedia:Requests for page protection,"/* [[:Norwalk, Connecticut]] */ re"
+2015-09-20T14:01:38+00:00,681936453,681936310,0,CAPTAIN RAJU,Wikipedia:Requests for page protection,Reverted 1 edit by [[Special:Contributions/Harmanharman10|Harmanharman10]] ([[User talk:Harmanharman10|talk]]) to last revision by 5 albert square. ([[WP:TW|TW]])
+2013-05-19T22:03:54+00:00,555851848,555843277,0,Teflon Peter Christ,Wikipedia:Requests for page protection,/* Current requests for protection */

@@ -1,0 +1,326 @@
+timestamp,revid,parentid,sock,user,page,message
+2013-12-20T18:05:41+00:00,586984623,586984128,1,Ravindra_H_K,Richard Slaughter,/* Papers */
+2013-12-20T18:01:39+00:00,586984128,586983247,1,Ravindra_H_K,Richard Slaughter,/* Papers */
+2013-12-20T17:54:35+00:00,586983247,586982830,1,Ravindra_H_K,Richard Slaughter,/* Papers */
+2013-12-20T17:51:18+00:00,586982830,586982400,1,Ravindra_H_K,Richard Slaughter,/* Papers */
+2013-12-20T17:47:52+00:00,586982400,586981685,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T17:42:41+00:00,586981685,586981433,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T17:38:15+00:00,586980951,586980162,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T17:33:36+00:00,586980162,586979451,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T17:29:06+00:00,586979451,586978904,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T17:25:41+00:00,586978904,586978348,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T17:21:57+00:00,586978348,586977586,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T17:17:08+00:00,586977586,586977377,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T17:15:49+00:00,586977377,586973740,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T16:53:30+00:00,586973740,586973372,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T16:46:45+00:00,586972738,586971633,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T16:39:33+00:00,586971633,586969000,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T16:22:26+00:00,586969000,586958361,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T13:12:58+00:00,586945490,586945030,1,Ravindra_H_K,Richard Slaughter,/* Evolution of a disciplinary perspective */
+2013-12-20T13:07:53+00:00,586945030,586945000,1,Ravindra_H_K,Richard Slaughter,/* Evolution of a disciplinary perspective */
+2013-12-20T13:07:32+00:00,586945000,586944892,1,Ravindra_H_K,Richard Slaughter,/* Life and work */
+2013-12-20T13:06:30+00:00,586944892,586944841,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T13:05:59+00:00,586944841,586944393,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T13:01:01+00:00,586944393,586944202,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:59:28+00:00,586944202,586944135,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:58:54+00:00,586944135,586943416,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:52:58+00:00,586943416,586943330,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:52:13+00:00,586943330,586943223,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:51:21+00:00,586943223,586943084,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:49:59+00:00,586943084,586942425,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:44:23+00:00,586942425,586942366,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:43:58+00:00,586942366,586942321,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:43:25+00:00,586942321,586942291,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:42:59+00:00,586942291,586942230,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:42:08+00:00,586942230,586942129,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:41:03+00:00,586942129,586942046,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:39:58+00:00,586942046,586941762,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:35:45+00:00,586941715,586941454,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:31:55+00:00,586941416,586941215,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:29:17+00:00,586941215,586941179,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:27:50+00:00,586941123,586941050,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:25:48+00:00,586940988,586940669,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:20:56+00:00,586940669,586940597,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:20:11+00:00,586940597,586940529,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:19:29+00:00,586940529,586940470,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:18:43+00:00,586940470,586940357,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:17:24+00:00,586940357,586940180,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:15:25+00:00,586940180,586940015,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:13:24+00:00,586940015,586939902,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:11:53+00:00,586939902,586939775,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:10:08+00:00,586939775,586939617,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T12:07:44+00:00,586939617,586939347,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T12:04:25+00:00,586939347,586938749,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T11:48:40+00:00,586938030,586937981,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T11:48:13+00:00,586937981,586937879,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T11:47:13+00:00,586937879,586937771,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T11:46:06+00:00,586937771,586937483,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T11:43:14+00:00,586937483,586936225,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T11:28:13+00:00,586936225,586935797,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T11:23:12+00:00,586935797,586935614,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T11:20:48+00:00,586935614,586935035,1,Ravindra_H_K,Richard Slaughter,/* Evolution of a disciplinary perspective */
+2013-12-20T11:13:02+00:00,586935035,586934868,1,Ravindra_H_K,Richard Slaughter,/* Evolution of a disciplinary perspective */
+2013-12-20T11:11:05+00:00,586934868,586934551,1,Ravindra_H_K,Richard Slaughter,/* Life and work */
+2013-12-20T11:07:50+00:00,586934551,586934396,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T10:57:22+00:00,586933702,586932271,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T10:39:22+00:00,586932271,586930355,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T10:02:59+00:00,586929314,586922941,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T08:43:05+00:00,586922941,586922800,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T08:41:21+00:00,586922800,586921651,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T08:26:37+00:00,586921651,586921516,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T08:24:19+00:00,586921516,586920667,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T08:12:41+00:00,586920667,586920610,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T08:11:55+00:00,586920610,586920577,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T08:11:19+00:00,586920577,586920479,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T08:10:06+00:00,586920479,586919517,1,Ravindra_H_K,Richard Slaughter,/* Books */
+2013-12-20T07:55:56+00:00,586919517,586919266,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T07:52:25+00:00,586919266,586919036,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T07:49:14+00:00,586919036,586918747,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T07:45:21+00:00,586918747,586918703,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T07:44:45+00:00,586918703,586918641,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T07:43:57+00:00,586918641,586918604,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T07:43:27+00:00,586918604,586917460,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T07:26:41+00:00,586917460,586917287,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T07:24:16+00:00,586917287,586916636,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T07:14:48+00:00,586916636,586916544,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T07:13:34+00:00,586916544,586916369,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T07:11:34+00:00,586916369,586915335,1,Ravindra_H_K,Richard Slaughter,/* Publications */
+2013-12-20T06:59:23+00:00,586915335,586913136,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T06:38:31+00:00,586913136,586912264,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T06:31:35+00:00,586912264,586911337,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T06:23:27+00:00,586911337,586911215,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T06:22:18+00:00,586911215,586909258,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T06:04:54+00:00,586909258,586908821,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T06:01:10+00:00,586908821,586908737,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T06:00:33+00:00,586908737,586900470,1,Ravindra_H_K,Richard Slaughter,
+2013-12-20T04:45:44+00:00,586900470,586812303,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T17:29:56+00:00,586812303,586804851,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T16:18:00+00:00,586804987,586363861,1,Ravindra_H_K,Maravanthe,
+2013-12-19T16:16:40+00:00,586804851,586804548,1,Ravindra_H_K,Richard Slaughter,Evolution of a disciplinary perspective
+2013-12-19T16:13:52+00:00,586804548,586804364,1,Ravindra_H_K,Richard Slaughter,/* Evolution of a disciplinary perspective */
+2013-12-19T16:12:10+00:00,586804364,586803733,1,Ravindra_H_K,Richard Slaughter,/* Life and Work */
+2013-12-19T16:06:11+00:00,586803733,586802206,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T15:51:51+00:00,586802206,586801703,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T15:46:38+00:00,586801703,586785033,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T12:47:11+00:00,586781025,586780942,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T12:45:59+00:00,586780942,586780633,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T12:42:23+00:00,586780633,586780565,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T12:41:28+00:00,586780565,586780524,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T12:41:01+00:00,586780524,586780372,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T12:39:11+00:00,586780372,586780041,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T12:35:03+00:00,586780041,586779920,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T12:33:25+00:00,586779920,586779718,1,Ravindra_H_K,Richard Slaughter,
+2013-12-19T12:30:46+00:00,586779718,553302215,1,Ravindra_H_K,Richard Slaughter,
+2013-12-26T06:58:41+00:00,587711454,587711078,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-26T06:54:02+00:00,587711078,587711052,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-26T06:46:44+00:00,587710546,587709652,1,Bhuvan_T,Richard Slaughter,
+2013-12-26T06:33:28+00:00,587709553,587709185,1,Bhuvan_T,Richard Slaughter,
+2013-12-26T06:26:25+00:00,587709012,587707687,1,Bhuvan_T,Richard Slaughter,
+2013-12-26T06:11:23+00:00,587707687,587707549,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-26T06:09:05+00:00,587707540,587707198,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-26T06:04:02+00:00,587707198,587642406,1,Bhuvan_T,Richard Slaughter,
+2013-12-25T12:08:57+00:00,587623893,587622231,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-25T11:42:37+00:00,587622231,587622029,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-25T11:39:21+00:00,587622029,587621853,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-25T11:36:12+00:00,587621853,587621375,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-25T11:26:19+00:00,587621375,587621308,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-25T11:25:03+00:00,587621308,587620938,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-25T11:17:45+00:00,587620938,587620833,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-25T11:15:41+00:00,587620833,587619974,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-25T10:58:53+00:00,587619974,587619907,1,Bhuvan_T,Richard Slaughter,/* Awards and recognition */
+2013-12-25T10:57:02+00:00,587619907,587619837,1,Bhuvan_T,Richard Slaughter,/* Awards and recognition */
+2013-12-25T10:55:32+00:00,587619837,587619011,1,Bhuvan_T,Richard Slaughter,/* Awards and recognition */
+2013-12-25T08:50:21+00:00,587612949,587612501,1,Bhuvan_T,Richard Slaughter,/* Books */
+2013-12-25T08:42:36+00:00,587612430,587611895,1,Bhuvan_T,Richard Slaughter,/* Books */
+2014-01-06T13:05:59+00:00,589438369,589433776,1,Web_Suvin,Richard Slaughter,
+2014-01-06T12:25:16+00:00,589434874,589434712,1,Web_Suvin,GAZelle NEXT,
+2014-01-06T12:23:42+00:00,589434712,589434672,1,Web_Suvin,GAZelle NEXT,
+2014-01-06T12:23:20+00:00,589434672,589434472,1,Web_Suvin,GAZelle NEXT,
+2014-01-06T12:21:36+00:00,589434472,589300897,1,Web_Suvin,GAZelle NEXT,
+2014-01-06T12:14:42+00:00,589433776,589429329,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T11:19:23+00:00,589429329,589429168,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T11:17:12+00:00,589429168,589429133,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T11:16:42+00:00,589429133,589428898,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T11:13:45+00:00,589428898,589428866,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:13:15+00:00,589428866,589428814,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:12:40+00:00,589428814,589428766,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:12:02+00:00,589428766,589428717,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:11:30+00:00,589428717,589428669,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:10:51+00:00,589428669,589428628,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:10:22+00:00,589428628,589428596,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:09:58+00:00,589428596,589428549,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:09:24+00:00,589428549,589428517,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:08:54+00:00,589428517,589428488,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T11:08:32+00:00,589428488,589423605,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T10:01:57+00:00,589423605,589422862,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T09:51:04+00:00,589422862,589421747,1,Web_Suvin,Richard Slaughter,
+2014-01-06T09:35:42+00:00,589421747,589421704,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T09:35:06+00:00,589421704,589421656,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T09:31:40+00:00,589421432,589421239,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T09:29:32+00:00,589421239,589421160,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T09:28:26+00:00,589421160,589421065,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T09:27:04+00:00,589421065,589415148,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T08:13:08+00:00,589415148,589415091,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T08:12:22+00:00,589415091,589415027,1,Web_Suvin,Richard Slaughter,
+2014-01-06T08:11:25+00:00,589415027,589414787,1,Web_Suvin,Richard Slaughter,
+2014-01-06T08:07:48+00:00,589414787,589414282,1,Web_Suvin,Richard Slaughter,
+2014-01-06T08:01:50+00:00,589414282,589414078,1,Web_Suvin,Richard Slaughter,
+2014-01-06T07:59:50+00:00,589414078,589413517,1,Web_Suvin,Richard Slaughter,
+2014-01-06T07:52:11+00:00,589413517,589413181,1,Web_Suvin,Richard Slaughter,"/* ""The global emergency"" and descent futures */"
+2014-01-06T07:48:31+00:00,589413181,589412875,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:44:59+00:00,589412875,589412740,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T07:43:17+00:00,589412740,589412049,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T07:35:18+00:00,589412049,589411633,1,Web_Suvin,Richard Slaughter,/* Papers */
+2014-01-06T07:30:28+00:00,589411633,589411189,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:24:47+00:00,589411189,589411116,1,Web_Suvin,Richard Slaughter,/* Publication */
+2014-01-06T07:23:44+00:00,589411116,589410996,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:22:27+00:00,589410996,589410886,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:21:21+00:00,589410886,589410756,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:20:05+00:00,589410756,589410604,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:18:37+00:00,589410604,589410495,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:17:16+00:00,589410495,589410392,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:16:17+00:00,589410392,589410297,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:15:13+00:00,589410297,589410160,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:13:49+00:00,589410160,589410047,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:12:25+00:00,589410047,589409793,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:09:15+00:00,589409793,589409694,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:07:55+00:00,589409694,589409589,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:06:48+00:00,589409589,589409434,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:04:54+00:00,589409434,589409401,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:04:32+00:00,589409401,589409372,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:04:09+00:00,589409372,589409327,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:03:35+00:00,589409327,589409012,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T07:00:05+00:00,589409012,589408819,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T06:57:56+00:00,589408819,589408541,1,Web_Suvin,Richard Slaughter,/* Books */
+2014-01-06T06:54:17+00:00,589408541,589408486,1,Web_Suvin,Richard Slaughter,/* Selected works */
+2014-01-06T06:53:36+00:00,589408486,589408161,1,Web_Suvin,Richard Slaughter,
+2014-01-06T06:49:31+00:00,589408161,587749375,1,Web_Suvin,Richard Slaughter,
+2014-01-06T06:21:36+00:00,589406024,589405348,1,Web_Suvin,Talk:Richard Slaughter,/* Semi-protected edit request on 5 January 2014 */
+2014-01-06T06:12:16+00:00,589405348,589392578,1,Web_Suvin,Talk:Richard Slaughter,/* Semi-protected edit request on 5 January 2014 */
+2014-01-05T14:30:47+00:00,589293359,589292369,1,Web_Suvin,Navunda,
+2014-01-05T14:21:37+00:00,589292369,499250848,1,Web_Suvin,Navunda,/* See also */
+2014-01-05T14:19:52+00:00,589292172,589292052,1,Web_Suvin,Maravanthe,/* See also */
+2014-01-05T14:18:52+00:00,589292052,589291903,1,Web_Suvin,Maravanthe,/* Maraswamy temple */
+2014-01-05T14:17:29+00:00,589291903,589291791,1,Web_Suvin,Maravanthe,/* Maraswamy temple */
+2014-01-05T14:16:22+00:00,589291791,589286223,1,Web_Suvin,Maravanthe,/* Maraswamy temple */
+2014-01-05T14:06:46+00:00,589290813,589289660,1,Web_Suvin,Murdeshwar,/* External links */
+2014-01-05T13:56:08+00:00,589289660,589289610,1,Web_Suvin,Murdeshwar,/* See also */
+2014-01-05T13:55:38+00:00,589289610,585705533,1,Web_Suvin,Murdeshwar,/* See also */
+2014-01-05T13:47:46+00:00,589288946,589288779,1,Web_Suvin,Byndoor,
+2014-01-05T13:45:42+00:00,589288779,589288412,1,Web_Suvin,Byndoor,
+2014-01-05T13:41:19+00:00,589288412,589288042,1,Web_Suvin,Byndoor,
+2014-01-05T13:36:58+00:00,589288042,589287930,1,Web_Suvin,Byndoor,
+2014-01-05T13:36:00+00:00,589287930,586609201,1,Web_Suvin,Byndoor,/* Places of Interest */
+2014-01-05T13:34:40+00:00,589287802,575194292,1,Web_Suvin,Uppunda,/* See also */
+2014-01-05T13:22:05+00:00,589286660,512442364,1,Web_Suvin,Talk:Richard Slaughter,/* Semi-protected edit request on 5 January 2014 */ new section
+2014-01-05T13:17:56+00:00,589286223,589286165,1,Web_Suvin,Maravanthe,/* See also */
+2014-01-05T13:17:15+00:00,589286165,587020296,1,Web_Suvin,Maravanthe,
+2013-12-18T07:56:45+00:00,586609201,586609063,0,115.115.193.238,Byndoor,/* News and Media */
+2013-10-06T13:49:10+00:00,575992842,561679990,0,Lfdder,GAZelle NEXT,
+2014-01-05T15:41:15+00:00,589300897,588984878,0,$wag Muffin101,GAZelle NEXT,
+2013-12-20T22:43:43+00:00,587020296,586804987,0,121.242.0.100,Maravanthe,
+2014-01-05T13:47:46+00:00,589288946,589288779,0,Web Suvin,Byndoor,
+2014-01-01T15:40:25+00:00,588671565,588549743,0,Renamed user 0cc563c9a3a40570041dfc29f9be333d17629f23c2bf2ac31907b8552351b377,GAZelle NEXT,"/* See also */ Added  [[GAZelle]] - the original mid-sized trucks, vans and buses made by Russian car manufacturer GAZ."
+2013-12-16T17:17:05+00:00,586363861,586353597,0,Ugog Nizdast,Maravanthe,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Pradeepkadal|Pradeepkadal]] using [[WP:STiki|STiki]]
+2013-12-12T06:07:08+00:00,585705533,581169773,0,Cyberbot II,Murdeshwar,Removing {{[[Template:Blacklisted-links|Blacklisted-links]]}}.  No blacklisted links were found. ([[en:WP:PEACHY|Peachy 2.0 (alpha 6)]])
+2014-01-05T14:06:46+00:00,589290813,589289660,0,Web Suvin,Murdeshwar,/* External links */
+2013-12-19T16:18:00+00:00,586804987,586363861,0,Ravindra H K,Maravanthe,
+2012-06-25T08:10:43+00:00,499250848,392634194,0,Gogo Dodo,Navunda,"Remove yet another ""beautiful village"""
+2013-12-24T11:57:24+00:00,587504321,587504258,0,Ruby Murray,Richard Slaughter,/* Awards and recognition */
+2013-12-26T14:38:13+00:00,587749375,587713465,0,Ruby Murray,Richard Slaughter,/* Books */
+2013-12-23T07:11:54+00:00,587339808,587063892,0,115.115.193.238,Richard Slaughter,/* Awards and recognition */
+2013-12-23T10:03:27+00:00,587354423,587353655,0,Ruby Murray,Richard Slaughter,Filling in 8 references using [[WP:REFLINKS|Reflinks]]
+2013-12-19T17:29:56+00:00,586812303,586804851,0,Ravindra H K,Richard Slaughter,
+2013-12-19T13:29:14+00:00,586785033,586783118,0,Ecarvajalmartinez,Richard Slaughter,
+2013-12-21T06:30:33+00:00,587063892,587062942,0,Ruby Murray,Richard Slaughter,
+2013-12-26T07:30:23+00:00,587713465,587711895,0,Lowercase sigmabot,Richard Slaughter,Adding protection templates) (bot
+2013-12-23T09:52:21+00:00,587353655,587353566,0,Citation bot,Richard Slaughter,[458]Combined duplicate references.  | [[User:Ruby Murray|Ruby Murray]]
+2014-01-06T08:13:08+00:00,589415148,589415091,0,Web Suvin,Richard Slaughter,/* Papers */
+2013-12-19T15:51:51+00:00,586802206,586801703,0,Ravindra H K,Richard Slaughter,
+2013-12-20T18:11:55+00:00,586985486,586984909,0,Drmies,Richard Slaughter,"promotional. not proven that he is known at all. plus, these books of his are self- or vanity-published: rm the entire spammy list"
+2013-12-25T16:43:22+00:00,587642406,587630945,0,ChrisGualtieri,Richard Slaughter,Checkwiki + General Fixes using [[Project:AWB|AWB]]
+2014-01-06T10:01:57+00:00,589423605,589422862,0,Web Suvin,Richard Slaughter,/* Books */
+2013-12-25T14:07:15+00:00,587630945,587630267,0,Ruby Murray,Richard Slaughter,/* Life and work */ unreferenced claims about his family life
+2013-12-20T04:45:44+00:00,586900470,586812303,0,Ravindra H K,Richard Slaughter,
+2014-01-06T08:01:50+00:00,589414282,589414078,0,Web Suvin,Richard Slaughter,
+2013-12-25T12:08:57+00:00,587623893,587622231,0,Bhuvan T,Richard Slaughter,/* Books */
+2013-12-19T16:16:40+00:00,586804851,586804548,0,Ravindra H K,Richard Slaughter,Evolution of a disciplinary perspective
+2013-12-20T11:06:00+00:00,586934396,586934087,0,Ruby Murray,Richard Slaughter,
+2013-12-20T12:07:44+00:00,586939617,586939347,0,Ravindra H K,Richard Slaughter,/* Books */
+2013-12-24T10:40:38+00:00,587498654,587498531,0,115.115.193.238,Richard Slaughter,/* Australian Foresight Institute / Strategic Foresight Program */
+2013-12-23T08:09:18+00:00,587344603,587344552,0,115.115.193.238,Richard Slaughter,
+2013-12-23T08:49:31+00:00,587349229,587348939,0,115.115.193.238,Richard Slaughter,/* Life and work */
+2013-12-20T13:12:58+00:00,586945490,586945030,0,Ravindra H K,Richard Slaughter,/* Evolution of a disciplinary perspective */
+2013-12-24T09:33:34+00:00,587494221,587494147,0,115.115.193.238,Richard Slaughter,/* Life and work */
+2013-12-24T10:21:10+00:00,587497371,587497073,0,115.115.193.238,Richard Slaughter,/* Awards and recognition */
+2013-12-20T12:52:58+00:00,586943416,586943330,0,Ravindra H K,Richard Slaughter,/* Books */
+2013-12-20T11:52:14+00:00,586938345,586938295,0,Ruby Murray,Richard Slaughter,/* The global emergency and descent futures */ duplicate paragraph
+2014-01-06T11:16:42+00:00,589429133,589428898,0,Web Suvin,Richard Slaughter,/* Papers */
+2014-01-06T09:35:42+00:00,589421747,589421704,0,Web Suvin,Richard Slaughter,/* Papers */
+2013-12-23T08:21:48+00:00,587345991,587344603,0,115.115.193.238,Richard Slaughter,
+2013-12-25T11:42:37+00:00,587622231,587622029,0,Bhuvan T,Richard Slaughter,/* Books */
+2013-12-23T09:39:46+00:00,587352754,587352585,0,Ruby Murray,Richard Slaughter,/* Life and work */ changed inline external links to references
+2014-01-06T06:54:17+00:00,589408541,589408486,0,Web Suvin,Richard Slaughter,/* Selected works */
+2014-01-05T13:39:15+00:00,589288236,589286660,0,Ruby Murray,Talk:Richard Slaughter,/* Semi-protected edit request on 5 January 2014 */
+2012-09-14T17:05:02+00:00,512442364,214749903,0,Yobot,Talk:Richard Slaughter,WPBIO banner fixes + cleanup (Task: 17) using [[Project:AWB|AWB]] (8413)
+2013-09-30T20:51:34+00:00,575194292,574966684,0,122.167.41.91,Uppunda,/* See also */
+2013-07-21T15:29:01+00:00,565197851,558836633,0,Jackson Dsilva,Byndoor,
+2013-10-22T07:30:43+00:00,578227646,576011190,0,122.166.209.22,Byndoor,/* Demography */
+2012-10-27T15:30:45+00:00,520125347,516685402,0,YFdyh-bot,Byndoor,"r2.7.3) (Robot: Adding [[vi:Byndoor, Kundapura]]"
+2013-05-25T12:53:48+00:00,556723435,556300683,0,Jackson Dsilva,Byndoor,
+2012-08-05T17:30:01+00:00,505931567,505928954,0,AnomieBOT,Byndoor,Dating maintenance tags: {{Cn}}
+2013-08-24T07:46:33+00:00,569964658,565197851,0,CommonsDelinker,Byndoor,"Removing ""NewAK.png"", it has been deleted from Commons by [[commons:User:Fastily|Fastily]] because: [[commons:Commons:Licensing|Copyright violation]]: If you are the copyright holder/author and/or have authorization to upload the file, email [[commons:..."
+2012-10-08T18:50:37+00:00,516685402,505931567,0,Sun Creator,Byndoor,"Typo and [[WP:AWB/GF|general]] fixes, [[WP:AWB/T|typos fixed]]: a amalgamation → an amalgamation using [[Project:AWB|AWB]] (8414)"
+2013-03-02T17:49:04+00:00,541757426,537221946,0,Addbot,Byndoor,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q3595293]]"
+2012-12-16T22:46:41+00:00,528377883,524470292,0,LilHelpa,Byndoor,[[WP:AWB/T|Typo fixing]] using [[Project:AWB|AWB]]
+2012-11-23T08:03:09+00:00,524470292,520125347,0,Woodthought,Byndoor,[[User:Utcursch/Migrate Infobox Indian Jurisdiction to Infobox settlement|Migrated Infobox Indian Jurisdiction to Infobox settlement]]
+2013-11-10T09:27:08+00:00,581018749,578227646,0,117.198.109.88,Byndoor,/* Educational Institutes */
+2012-02-29T13:59:09+00:00,479471502,461321883,0,Liberal Humanist,Byndoor,
+2013-01-25T04:47:23+00:00,534773567,534772893,0,Tabbboooo,Byndoor,
+2013-06-08T00:02:46+00:00,558836633,556723435,0,Magioladitis,Byndoor,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (9234)
+2013-10-06T16:32:23+00:00,576011190,575192849,0,KylieTastic,Byndoor,Removed missing image link
+2012-07-31T06:35:44+00:00,505055899,505055798,0,Rayabhari,Byndoor,pic. recti.
+2013-12-07T06:34:28+00:00,584958987,584958780,0,Shonavenessa,Byndoor,
+2013-05-22T17:56:53+00:00,556300683,556300055,0,Jackson Dsilva,Byndoor,/* News and Media */
+2013-01-18T20:42:36+00:00,533746203,533645064,0,Jotterbot,Byndoor,r2.7.3) (Robot: Adding [[ml:ബൈന്ദൂർ]]
+2013-06-26T15:00:15+00:00,561679990,561669720,0,Josve05a,GAZelle NEXT,"clean up, added Empty section (1) tag using [[Project:AWB|AWB]]"
+2012-09-11T06:01:07+00:00,511806027,506691584,0,202.56.233.103,Maravanthe,/* Activities */
+2013-03-24T17:02:21+00:00,546759152,546757446,0,PhnomPencil,Maravanthe,rmv pov (plus it's geomorphology not geology)
+2012-08-10T07:57:19+00:00,506691584,505396318,0,FrescoBot,Maravanthe,Bot: [[User:FrescoBot/Links|link syntax/spacing]] and minor changes
+2013-07-29T13:36:22+00:00,566283534,562084839,0,117.204.124.240,Maravanthe,
+2012-06-20T06:21:58+00:00,498457365,486732012,0,Woodthought,Maravanthe,[[User:Utcursch/Migrate Infobox Indian Jurisdiction to Infobox settlement|Migrated Infobox Indian Jurisdiction to Infobox settlement]]
+2012-08-02T09:11:57+00:00,505396318,505282893,0,Rayabhari,Maravanthe,/* Culture */ see also heading added with related places of tourist interest.
+2013-02-07T06:55:14+00:00,537012283,533867186,0,Jesse V.,Maravanthe,"[[WP:AWB/UM#General|tags]] and [[WP:GENFIXES|general fixes]], removed stub tag, added Empty section (1) tag using [[Project:AWB|AWB]] (8853)"
+2013-01-19T17:00:01+00:00,533867186,527744555,0,117.202.125.115,Maravanthe,Updated Nh-17 to NH-66
+2013-06-29T08:45:58+00:00,562084839,546759152,0,Shesha 06,Maravanthe,
+2012-07-31T07:18:21+00:00,505059513,505058464,0,Rayabhari,Maravanthe,/* Maraswamy temple */ wikified
+2012-12-12T19:30:55+00:00,527744555,526338464,0,Hu12,Maravanthe,Undid revision 504109747 by [[Special:Contributions/123.236.177.146|123.236.177.146]] ([[User talk:123.236.177.146|talk]])
+2012-12-04T14:42:39+00:00,526338464,526336085,0,AnomieBOT,Maravanthe,Dating maintenance tags: {{Fact}}
+2012-11-02T05:59:31+00:00,521011718,521011570,0,117.198.112.190,Maravanthe,
+2013-09-25T10:09:11+00:00,574441843,574386675,0,144.49.136.97,Murdeshwar,
+2012-11-04T00:23:22+00:00,521282196,521027393,0,BG19bot,Murdeshwar,/* Major attractions */Remove link to the title inside the text (CheckWiki error 48).  Do [[Wikipedia:GENFIXES|general fixes]] if necessary using [[Project:AWB|AWB]] (8512)
+2012-06-20T06:22:02+00:00,498457371,487822862,0,Woodthought,Murdeshwar,[[User:Utcursch/Migrate Infobox Indian Jurisdiction to Infobox settlement|Migrated Infobox Indian Jurisdiction to Infobox settlement]]
+2012-08-06T18:20:49+00:00,506102896,506101062,0,Pvnkmrksk,Murdeshwar,/* Major attractions */
+2013-04-30T15:58:59+00:00,552901591,546759331,0,Sunder telugu,Murdeshwar,/* Etymology and legend */
+2013-03-24T17:03:34+00:00,546759331,543463464,0,PhnomPencil,Murdeshwar,/* See also */Disambiguating [[Gokarna]] using [[Project:AWB|AWB]]
+2013-08-05T05:39:32+00:00,567218913,565507005,0,Neelkamala,Murdeshwar,corrected image placement
+2012-09-10T09:47:58+00:00,511665731,511632953,0,Sesamevoila,Murdeshwar,added updated photo
+2013-08-26T07:05:22+00:00,570229817,567218913,0,121.242.182.200,Murdeshwar,
+2013-11-11T11:30:51+00:00,581169773,575640049,0,Macsessn,Murdeshwar,Added coordinates
+2013-07-23T17:54:20+00:00,565507005,552901591,0,Lucky vivs,Murdeshwar,
+2013-01-13T21:23:06+00:00,532920029,532919584,0,Rajaramraok,Murdeshwar,
+2012-08-24T05:25:44+00:00,508885873,508018904,0,Sbblr geervaanee,Murdeshwar,
+2012-08-02T09:15:00+00:00,505396560,505360861,0,Rayabhari,Murdeshwar,/* References */ see also heading; related tourist places added
+2013-03-11T17:56:39+00:00,543463464,541265581,0,27.124.15.60,Murdeshwar,
+2013-02-28T15:39:32+00:00,541265581,541265437,0,Skinsmoke,Murdeshwar,removed [[Category:Beaches of Karnataka]] using [[WP:HC|HotCat]]: Not a beach
+2013-05-03T04:46:52+00:00,553302215,535153313,0,122.107.244.230,Richard Slaughter,
+2013-01-27T11:36:39+00:00,535153313,449305860,0,Waacstats,Richard Slaughter,Persondata
+2011-09-09T10:40:12+00:00,449305860,391788283,0,RjwilmsiBot,Richard Slaughter,Adding Persondata using [[Project:AWB|AWB]] (7822)
+2008-05-25T02:43:13+00:00,214749903,194827236,0,Saimdusan,Talk:Richard Slaughter,moved [[Talk:Richard A. Slaughter]] to [[Talk:Richard Slaughter]]
+2012-06-03T10:59:22+00:00,495750619,408861764,0,VASANTH S.N.,Uppunda,interwiki
+2013-03-24T13:46:01+00:00,546732730,495750619,0,Addbot,Uppunda,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q7899192]]"
+2013-07-15T10:41:28+00:00,564343396,564343339,0,XLinkBot,Uppunda,"BOT--Reverting link addition(s) by [[:en:Special:Contributions/59.183.44.79|59.183.44.79]] to revision 563703134 (http://www.youtube.com/watch?v=JRkmf9-sxT8, http://www.youtube.com/watch?v=1-kBI_250Jc [\byoutube\.com])"
+2013-05-10T18:50:33+00:00,554485110,554482529,0,180.215.112.119,Uppunda,
+2013-07-23T04:46:16+00:00,565429450,565429396,0,Padiyar83,Uppunda,
+2013-09-02T22:21:49+00:00,571293809,570135647,0,Mogism,Uppunda,"Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typos fixed]]: thats → that's, a airport → an airport using [[Project:AWB|AWB]]"
+2013-09-29T06:02:14+00:00,574966684,571293809,0,Tabletop,Uppunda,Spell villlage => village (4)

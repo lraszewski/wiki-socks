@@ -1,0 +1,40 @@
+timestamp,revid,parentid,sock,user,page,message
+2015-11-05T03:33:17+00:00,689131759,689131499,1,Bahntier,Claudio Simonetti,
+2015-11-05T03:30:37+00:00,689131499,689131032,1,Bahntier,Claudio Simonetti,
+2015-11-05T03:25:43+00:00,689131032,689128958,1,Bahntier,Claudio Simonetti,
+2015-11-05T03:06:47+00:00,689128958,689128091,1,Bahntier,Claudio Simonetti,
+2015-11-05T02:58:51+00:00,689128091,689127949,1,Bahntier,Claudio Simonetti,
+2015-11-05T02:57:23+00:00,689127949,689127815,1,Bahntier,Claudio Simonetti,
+2015-11-05T02:56:12+00:00,689127815,689127169,1,Bahntier,Claudio Simonetti,
+2015-11-05T02:49:45+00:00,689127169,689127014,1,Bahntier,Claudio Simonetti,
+2015-11-05T02:48:18+00:00,689127014,689126905,1,Bahntier,Claudio Simonetti,
+2015-11-05T02:47:19+00:00,689126905,668534241,1,Bahntier,Claudio Simonetti,
+2015-11-05T02:29:54+00:00,689125030,689124966,1,Bahntier,Skinny Puppy,
+2015-11-05T02:29:21+00:00,689124966,689124658,1,Bahntier,Skinny Puppy,
+2015-11-05T02:26:13+00:00,689124658,685763586,1,Bahntier,Skinny Puppy,
+2015-11-05T01:55:49+00:00,689121546,689121205,1,Bahntier,Justin Bennett,
+2015-11-05T01:52:54+00:00,689121205,689118759,1,Bahntier,Justin Bennett,
+2015-11-05T01:29:58+00:00,689118759,689118403,1,Bahntier,Justin Bennett,
+2015-11-05T01:26:53+00:00,689118403,689118369,1,Bahntier,Justin Bennett,
+2015-11-05T01:26:41+00:00,689118369,689118313,1,Bahntier,Justin Bennett,
+2015-11-05T01:26:17+00:00,689118313,689112855,1,Bahntier,Justin Bennett,
+2015-11-05T00:44:32+00:00,689113764,689113458,1,Bahntier,My Life with the Thrill Kill Kult,
+2015-11-05T00:41:38+00:00,689113458,685709314,1,Bahntier,My Life with the Thrill Kill Kult,
+2015-11-05T00:36:29+00:00,689112855,689112781,1,Bahntier,Justin Bennett,
+2015-11-05T00:35:53+00:00,689112781,689109955,1,Bahntier,Justin Bennett,
+2015-11-05T00:11:39+00:00,689109955,671539564,1,Bahntier,Justin Bennett,
+2015-11-10T19:35:36+00:00,690013273,689721416,1,Bahntier77,Claudio Simonetti,Add New Album on biography
+2015-11-09T00:32:13+00:00,689719960,689719864,1,Daemoniagoblin,Skinny Puppy,
+2015-11-09T00:31:39+00:00,689719864,689719503,1,Daemoniagoblin,Skinny Puppy,
+2015-11-09T00:29:14+00:00,689719488,689145547,1,Daemoniagoblin,Skinny Puppy,
+2015-11-08T23:58:59+00:00,689714549,689714336,1,Daemoniagoblin,Claudio Simonetti,
+2015-11-08T23:57:20+00:00,689714336,689714208,1,Daemoniagoblin,Claudio Simonetti,
+2015-11-08T23:56:22+00:00,689714208,689713669,1,Daemoniagoblin,Claudio Simonetti,
+2015-11-08T23:52:19+00:00,689713669,689713513,1,Daemoniagoblin,Claudio Simonetti,
+2015-11-08T23:51:09+00:00,689713513,689704422,1,Daemoniagoblin,Claudio Simonetti,
+2015-11-08T22:43:16+00:00,689704422,689312316,1,Goblindaemonia,Claudio Simonetti,
+2015-11-09T00:40:57+00:00,689721416,689720612,0,Materialscientist,Claudio Simonetti,Filling in 2 references using [[WP:REFLINKS|Reflinks]]
+2015-11-06T08:32:12+00:00,689312316,689131759,0,Magioladitis,Claudio Simonetti,"Removed invisible unicode characters + other fixes, replaced: →   (7) using [[Project:AWB|AWB]] (11741)"
+2015-11-05T06:03:39+00:00,689145555,689121546,0,Filedelinkerbot,Justin Bennett,"Bot: Removing [[Commons:File:Justin bennett.jpg]] ([[:File:Justin bennett.jpg|en]]). It was deleted on Commons by [[:Commons:User:NahidSultan|NahidSultan]] (Copyright violation, see [[Commons:Commons:Licensing]])."
+2015-11-09T00:33:06+00:00,689720095,689719960,0,Materialscientist,Skinny Puppy,Reverted edits by [[Special:Contributions/Daemoniagoblin|Daemoniagoblin]] ([[User talk:Daemoniagoblin|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])
+2015-11-05T06:03:29+00:00,689145547,689145536,0,Filedelinkerbot,Skinny Puppy,"Bot: Removing [[Commons:File:Skinnypuppy1990.jpg]] ([[:File:Skinnypuppy1990.jpg|en]]). It was deleted on Commons by [[:Commons:User:NahidSultan|NahidSultan]] (Copyright violation, see [[Commons:Commons:Licensing]])."

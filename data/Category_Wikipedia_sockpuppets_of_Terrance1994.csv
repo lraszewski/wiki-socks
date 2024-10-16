@@ -1,0 +1,557 @@
+timestamp,revid,parentid,sock,user,page,message
+2023-04-10T18:30:55+00:00,1149194681,1149056260,1,Terrance1994,Jerry Stackhouse,
+2023-04-10T18:19:33+00:00,1149193096,1149192928,1,Terrance1994,Roy Jones Jr.,
+2023-04-10T18:18:22+00:00,1149192928,1148919247,1,Terrance1994,Roy Jones Jr.,
+2023-04-10T18:16:35+00:00,1149192662,1149161617,1,Terrance1994,Maurice Greene (sprinter),
+2023-04-10T18:14:06+00:00,1149192317,1149191941,1,Terrance1994,Justin Gatlin,
+2023-04-10T18:11:23+00:00,1149191941,1148716487,1,Terrance1994,Justin Gatlin,
+2023-04-10T18:06:03+00:00,1149191142,1149191012,1,Terrance1994,Anne Ramsey,
+2023-04-10T18:05:16+00:00,1149191012,1148524671,1,Terrance1994,Anne Ramsey,
+2023-04-10T18:04:19+00:00,1149190850,1128953431,1,Terrance1994,Throw Momma from the Train,
+2023-04-10T18:03:15+00:00,1149190631,1148846403,1,Terrance1994,The Oprah Winfrey Show,
+2023-04-10T18:01:10+00:00,1149190311,1149189558,1,Terrance1994,Kim Coles,
+2023-04-10T18:00:07+00:00,1149190130,1149190051,1,Terrance1994,Marsha Warfield,
+2023-04-10T17:59:27+00:00,1149190051,1149189888,1,Terrance1994,Marsha Warfield,
+2023-04-10T17:58:19+00:00,1149189888,1137451504,1,Terrance1994,Marsha Warfield,
+2023-04-10T17:57:41+00:00,1149189801,1147872747,1,Terrance1994,Night Court,
+2023-04-10T17:56:21+00:00,1149189558,1149189506,1,Terrance1994,Kim Coles,
+2023-04-10T17:55:54+00:00,1149189506,1149189401,1,Terrance1994,Kim Coles,
+2023-04-10T17:55:05+00:00,1149189401,1145631857,1,Terrance1994,Kim Coles,
+2023-04-10T17:54:14+00:00,1149189282,1148532802,1,Terrance1994,Living Single,
+2023-04-10T17:53:22+00:00,1149189180,1148126351,1,Terrance1994,Sabrina the Teenage Witch (1996 TV series),
+2023-04-10T17:52:16+00:00,1149189051,1148422303,1,Terrance1994,Jackée Harry,
+2023-04-10T17:51:32+00:00,1149188962,1148083788,1,Terrance1994,"Sister, Sister (TV series)",
+2023-04-10T17:49:26+00:00,1149188701,1144507177,1,Terrance1994,Cynthia Geary,
+2023-04-10T17:48:35+00:00,1149188593,1144650175,1,Terrance1994,Diff'rent Strokes,
+2023-04-10T17:47:18+00:00,1149188425,1148858590,1,Terrance1994,To Grandmother's House We Go,
+2023-04-10T17:46:09+00:00,1149188272,1147937839,1,Terrance1994,Hangin' with Mr. Cooper,
+2023-04-10T17:45:01+00:00,1149188092,1147319325,1,Terrance1994,Full House,
+2023-04-10T17:44:10+00:00,1149187983,1144133596,1,Terrance1994,Suzanne Somers,
+2023-04-10T17:43:30+00:00,1149187899,1147751136,1,Terrance1994,Step by Step (TV series),
+2023-04-10T17:41:31+00:00,1149187627,1146734106,1,Terrance1994,Faith Evans,
+2023-04-10T17:39:37+00:00,1149187351,1149187231,1,Terrance1994,Braxton Family Values,/* Main */
+2023-04-10T17:38:39+00:00,1149187231,1143101835,1,Terrance1994,Braxton Family Values,
+2023-04-10T17:36:20+00:00,1149186976,1149186853,1,Terrance1994,Birdman (rapper),
+2023-04-10T17:35:25+00:00,1149186853,1145034612,1,Terrance1994,Birdman (rapper),
+2023-04-10T17:34:38+00:00,1149186742,1134502294,1,Terrance1994,Mannie Fresh,
+2023-04-10T17:32:37+00:00,1149186490,1138428442,1,Terrance1994,Gladys Knight,
+2023-04-10T17:31:32+00:00,1149186342,1147126733,1,Terrance1994,Chaka Khan,
+2023-04-10T17:30:42+00:00,1149186210,1147251053,1,Terrance1994,Patti LaBelle,
+2023-04-10T17:27:59+00:00,1149185870,1147497531,1,Terrance1994,A Soldier's Story,
+2023-04-10T17:26:30+00:00,1149185679,1127276607,1,Terrance1994,Life Is Not a Fairy Tale,
+2023-04-10T17:25:02+00:00,1149185459,1148848067,1,Terrance1994,The Proud Family,
+2023-04-10T17:23:36+00:00,1149185297,1149145908,1,Terrance1994,Rugrats,
+2023-04-10T17:21:15+00:00,1149185015,1148855312,1,Terrance1994,Hey Arnold!,
+2023-04-10T17:20:20+00:00,1149184890,1147232747,1,Terrance1994,A Different World,
+2023-04-10T17:19:17+00:00,1149184772,1148763483,1,Terrance1994,Good Times,
+2023-04-10T17:18:27+00:00,1149184690,1148079693,1,Terrance1994,Happy Days,
+2023-04-10T17:17:05+00:00,1149184528,1140357731,1,Terrance1994,WKBD-TV,
+2023-04-10T17:12:53+00:00,1149183969,1149183841,1,Terrance1994,Bally Sports Detroit,
+2023-04-10T17:11:54+00:00,1149183841,1149024435,1,Terrance1994,Bally Sports Detroit,
+2023-04-10T17:10:59+00:00,1149183727,1145082285,1,Terrance1994,Pro-Am Sports System,
+2023-04-10T17:09:27+00:00,1149183561,1149183480,1,Terrance1994,Fox Sports Networks,
+2023-04-10T17:08:49+00:00,1149183480,1149183409,1,Terrance1994,Fox Sports Networks,
+2023-04-10T17:08:21+00:00,1149183409,1147754190,1,Terrance1994,Fox Sports Networks,
+2023-04-10T17:06:48+00:00,1149183229,1147330321,1,Terrance1994,Rosewood (film),
+2023-04-10T17:05:45+00:00,1149183111,1149169436,1,Terrance1994,Michael Jordan: An American Hero,
+2023-04-10T17:04:16+00:00,1149182909,1149144111,1,Terrance1994,Tom Hardy,
+2023-04-10T17:03:16+00:00,1149182769,1148259888,1,Terrance1994,Seventeen Again,
+2023-04-10T17:02:09+00:00,1149182615,1146217275,1,Terrance1994,He Got Game,
+2023-04-10T17:00:54+00:00,1149182423,1148840678,1,Terrance1994,The Jacksons: An American Dream,
+2023-04-10T16:59:18+00:00,1149182188,1145611362,1,Terrance1994,Whiteboyz,
+2023-04-10T16:58:06+00:00,1149181991,1148618214,1,Terrance1994,Quincy Jones,
+2023-04-10T16:56:13+00:00,1149181718,1149181659,1,Terrance1994,The Color Purple (1985 film),
+2023-04-10T16:55:45+00:00,1149181659,1149020033,1,Terrance1994,The Color Purple (1985 film),
+2023-04-10T16:54:10+00:00,1149181394,1146216158,1,Terrance1994,Above the Rim,
+2023-04-10T16:52:26+00:00,1149181115,1146213248,1,Terrance1994,Eddie (film),
+2023-04-10T16:51:11+00:00,1149180935,1146379629,1,Terrance1994,Set It Off (film),
+2023-04-10T16:50:06+00:00,1149180784,1144497448,1,Terrance1994,Juice (1992 film),
+2023-04-10T16:48:29+00:00,1149180536,1147941613,1,Terrance1994,Poetic Justice (film),
+2023-04-10T16:47:13+00:00,1149180351,1138253607,1,Terrance1994,House Party (1990 film),
+2023-04-10T16:45:53+00:00,1149180149,1148848621,1,Terrance1994,The Red Sneakers,
+2023-04-10T16:44:40+00:00,1149179934,1146972430,1,Terrance1994,Road Trip (2000 film),
+2023-04-10T16:43:20+00:00,1149179746,1141600886,1,Terrance1994,South Central (film),
+2023-04-10T16:42:03+00:00,1149179576,1121048721,1,Terrance1994,South Central (TV series),
+2023-04-10T16:40:40+00:00,1149179382,1149179109,1,Terrance1994,Fresh (1994 film),
+2023-04-10T16:40:00+00:00,1149179291,1148749441,1,Terrance1994,Menace II Society,
+2023-04-10T16:38:42+00:00,1149179109,1139895275,1,Terrance1994,Fresh (1994 film),
+2023-04-10T16:36:27+00:00,1149178827,1149178753,1,Terrance1994,Fruitvale Station,
+2023-04-10T16:35:45+00:00,1149178753,1147645594,1,Terrance1994,Fruitvale Station,
+2023-04-10T16:32:46+00:00,1149178326,1107252078,1,Terrance1994,The Long Walk Home,
+2023-04-10T16:31:33+00:00,1149178170,1148815568,1,Terrance1994,Smart Guy,
+2023-04-10T16:30:07+00:00,1149177953,1147871852,1,Terrance1994,Even Stevens,
+2023-04-10T16:28:31+00:00,1149177739,1149150592,1,Terrance1994,Family Matters,
+2023-04-10T16:26:25+00:00,1149177445,1148833245,1,Terrance1994,The Cosby Show,
+2023-04-10T16:24:56+00:00,1149177253,1148906002,1,Terrance1994,What's Happening!!,
+2023-04-10T16:22:29+00:00,1149176880,1134963249,1,Terrance1994,Pros vs. Joes,
+2023-04-10T16:19:38+00:00,1149176452,1148484793,1,Terrance1994,Baby Boy (film),
+2023-04-10T16:18:07+00:00,1149176198,1145565040,1,Terrance1994,Leave It to Stevie,
+2023-04-10T16:16:56+00:00,1149176012,1149175907,1,Terrance1994,Degrassi: Next Class,
+2023-04-10T16:16:17+00:00,1149175907,1149175723,1,Terrance1994,Degrassi: Next Class,
+2023-04-10T16:15:09+00:00,1149175723,1146931792,1,Terrance1994,Degrassi: Next Class,
+2023-04-10T16:13:11+00:00,1149175431,1142025545,1,Terrance1994,The Kids of Degrassi Street,
+2023-04-10T16:11:35+00:00,1149175184,1147717099,1,Terrance1994,Degrassi Junior High,
+2023-04-10T16:09:50+00:00,1149174883,1147717040,1,Terrance1994,Degrassi High,
+2023-04-10T16:08:07+00:00,1149174612,1148041630,1,Terrance1994,Degrassi: The Next Generation,
+2023-04-10T16:03:29+00:00,1149173901,1111507728,1,Terrance1994,Porn Star: The Legend of Ron Jeremy,
+2023-04-10T16:02:00+00:00,1149173680,1132258966,1,Terrance1994,The Hills Have Eyes 2,
+2023-04-10T16:00:01+00:00,1149173332,1147685334,1,Terrance1994,The Last Mimzy,
+2023-04-10T15:58:40+00:00,1149173114,1146409540,1,Terrance1994,Reign Over Me,
+2023-04-10T15:56:50+00:00,1149172843,1149172693,1,Terrance1994,TMNT (film),
+2023-04-10T15:55:51+00:00,1149172693,1149075455,1,Terrance1994,TMNT (film),
+2023-04-10T15:54:09+00:00,1149172455,1149172363,1,Terrance1994,Shooter (2007 film),
+2023-04-10T15:53:32+00:00,1149172363,1146445880,1,Terrance1994,Shooter (2007 film),
+2023-04-10T15:50:57+00:00,1149172013,1138868107,1,Terrance1994,Pride (2007 film),
+2023-04-10T15:48:05+00:00,1149171567,1149170949,1,Terrance1994,Terrence Trammell,/* Achievements */
+2023-04-10T15:44:18+00:00,1149170949,1149170500,1,Terrance1994,Terrence Trammell,/* Achievements */ https://en.wikipedia.org/wiki/2010_USA_Indoor_Track_and_Field_Championships
+2023-04-10T15:40:55+00:00,1149170500,1149170043,1,Terrance1994,Terrence Trammell,/* Achievements */ https://en.wikipedia.org/wiki/2010_USA_Indoor_Track_and_Field_Championships
+2023-04-10T15:38:14+00:00,1149170043,1149165380,1,Terrance1994,Terrence Trammell,/* Achievements */ https://en.wikipedia.org/wiki/2010_USA_Indoor_Track_and_Field_Championships
+2023-04-10T15:08:10+00:00,1149165380,1149164982,1,Terrance1994,Terrence Trammell,/* Achievements */ http://oldserver.usatf.org/events/2009/USAIndoorTFChampionships/results/F6.asp
+2023-04-10T15:05:30+00:00,1149164982,1149162971,1,Terrance1994,Terrence Trammell,/* Achievements */ http://oldserver.usatf.org/events/2009/USAIndoorTFChampionships/results/F6.asp
+2023-04-10T14:51:33+00:00,1149162971,1149162523,1,Terrance1994,Terrence Trammell,
+2023-04-10T14:48:18+00:00,1149162523,1149162415,1,Terrance1994,Terrence Trammell,
+2023-04-10T14:47:32+00:00,1149162415,1148541044,1,Terrance1994,Terrence Trammell,
+2023-04-10T14:43:47+00:00,1149161876,1148513424,1,Terrance1994,Donovan Bailey,
+2023-04-10T14:41:52+00:00,1149161617,1149161103,1,Terrance1994,Maurice Greene (sprinter),
+2023-04-10T14:38:38+00:00,1149161103,1148514457,1,Terrance1994,Maurice Greene (sprinter),
+2023-04-10T14:32:01+00:00,1149160024,1148546729,1,Terrance1994,Mike Rodgers,
+2023-04-12T21:55:06+00:00,1149543855,1149532236,1,Terrance1100,User talk:Terrance1100,/* April 2023 */ Reply
+2023-04-12T20:19:23+00:00,1149531463,1149529676,1,Terrance1100,User talk:Terrance1100,/* April 2023 */ Reply
+2023-04-12T19:58:57+00:00,1149528581,1149257492,1,Terrance1100,AT&T,
+2023-04-12T19:54:17+00:00,1149527908,1148259849,1,Terrance1100,All That,
+2023-04-12T19:51:11+00:00,1149527479,1149426882,1,Terrance1100,Kenan & Kel,
+2023-04-12T19:49:13+00:00,1149527222,1149193399,1,Terrance1100,Pros vs. Joes,
+2023-04-12T19:46:52+00:00,1149526891,1141209868,1,Terrance1100,Trading Spouses,
+2023-04-12T19:44:41+00:00,1149526542,1149514518,1,Terrance1100,CBS,
+2023-04-12T19:42:33+00:00,1149526233,1149525653,1,Terrance1100,Fox Broadcasting Company,
+2023-04-12T19:38:43+00:00,1149525653,1148958761,1,Terrance1100,Fox Broadcasting Company,
+2023-04-12T19:31:21+00:00,1149524789,1147858718,1,Terrance1100,Paramount Network,
+2023-04-12T19:26:11+00:00,1149524143,1149521760,1,Terrance1100,WNEM-TV,
+2023-04-12T19:08:40+00:00,1149521760,1146155629,1,Terrance1100,WNEM-TV,
+2023-04-12T19:02:10+00:00,1149520696,1149193314,1,Terrance1100,Donovan Bailey,
+2023-04-12T18:51:39+00:00,1149519067,1149193800,1,Terrance1100,Maurice Greene (sprinter),
+2023-04-12T18:31:21+00:00,1149515213,1149193057,1,Terrance1100,Justin Gatlin,
+2023-04-12T18:22:37+00:00,1149513919,1149193424,1,Terrance1100,What's Happening!!,
+2023-04-12T06:22:47+00:00,1149433657,1147133006,1,Terrance1100,1988 Summer Olympics,
+2023-04-12T06:18:10+00:00,1149433219,1134831702,1,Terrance1100,Dow Event Center,
+2023-04-12T06:12:46+00:00,1149432762,1149429051,1,Terrance1100,United States Naval Academy,
+2023-04-12T06:08:28+00:00,1149432422,1149205018,1,Terrance1100,University of Southern California,
+2023-04-12T06:01:52+00:00,1149431816,1147439140,1,Terrance1100,USA Track & Field,
+2023-04-12T05:53:42+00:00,1149431205,1116714897,1,Terrance1100,Saginaw Public School District,
+2023-04-12T05:48:40+00:00,1149430847,1149430534,1,Terrance1100,Midland Public Schools,
+2023-04-12T05:44:07+00:00,1149430534,1105855300,1,Terrance1100,Midland Public Schools,
+2023-04-11T04:37:40+00:00,1149265093,1149262248,0,2601:19E:4180:6D50:65F5:930C:B0B2:CD63,Baby Boy (film),rv
+2023-03-29T01:38:59+00:00,1147133006,1147132886,0,Philipnelson99,1988 Summer Olympics,This should be discussed on the talk page before removal Reverted edits by [[Special:Contributions/Index2076|Index2076]] ([[User talk:Index2076|talk]]) to last revision by Index2076 ([[WP:HG|HG]]) (3.4.11)
+2023-04-05T01:51:18+00:00,1148259849,1144699615,0,Pultzser,All That,
+2023-04-11T03:10:43+00:00,1149257492,1147990279,0,94.253.136.116,AT&T,/* Recent developments (2013–present) */
+2023-04-10T18:23:27+00:00,1149193664,1149185870,0,Geraldo Perez,A Soldier's Story,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Citation bot
+2023-04-10T18:22:37+00:00,1149193534,1149181394,0,Geraldo Perez,Above the Rim,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Randy Kryn
+2023-04-10T18:23:16+00:00,1149193624,1149183969,0,Geraldo Perez,Bally Sports Detroit,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Citation bot
+2023-04-10T18:19:25+00:00,1149193075,1149191142,0,Geraldo Perez,Anne Ramsey,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Grapesoda22
+2023-04-06T18:07:19+00:00,1148524671,1143661099,0,Grapesoda22,Anne Ramsey,/* Death */
+2023-04-10T18:23:19+00:00,1149193632,1149184890,0,Geraldo Perez,A Different World,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2001:861:52C3:BF50:AC72:1FC5:DD47:4093
+2023-04-03T11:36:27+00:00,1147990279,1147990009,0,JorienBye,AT&T,I added a comma for correctness
+2023-04-10T18:23:37+00:00,1149193699,1149187351,0,Geraldo Perez,Braxton Family Values,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by LeoStar03
+2023-04-10T18:23:36+00:00,1149193696,1149186976,0,Geraldo Perez,Birdman (rapper),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2600:8807:8E:AB00:980B:ECC3:DF30:344
+2023-03-16T22:45:42+00:00,1145034612,1142952856,0,2600:8807:8E:AB00:980B:ECC3:DF30:344,Birdman (rapper),Because the article provided in the sources says that she was shot and killed when he was two years old
+2023-04-09T21:41:25+00:00,1149046333,1149024878,0,70.173.188.171,CBS,"/* Controversies */ Removed section on Marjorie Taylor Greene. Unsourced, non-encyclopedic language, and politically biased."
+2023-04-10T18:23:29+00:00,1149193672,1149186342,0,Geraldo Perez,Chaka Khan,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2800:150:111:1CEE:BD2C:7BE0:7527:D3CE
+2023-04-10T18:23:52+00:00,1149193745,1149188701,0,Geraldo Perez,Cynthia Geary,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Tamfang
+2023-04-10T18:21:28+00:00,1149193380,1149174883,0,Geraldo Perez,Degrassi High,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Butlerblog
+2023-04-11T11:54:30+00:00,1149305712,1149193385,0,Bearcat,Degrassi Junior High,/* Episode production */
+2023-04-10T18:21:28+00:00,1149193385,1149175184,0,Geraldo Perez,Degrassi Junior High,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Butlerblog
+2023-04-10T18:21:34+00:00,1149193395,1149176012,0,Geraldo Perez,Degrassi: Next Class,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Butlerblog
+2023-04-10T18:21:00+00:00,1149193314,1149161876,0,Geraldo Perez,Donovan Bailey,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Terrance1988
+2023-04-10T18:21:27+00:00,1149193381,1149174612,0,Geraldo Perez,Degrassi: The Next Generation,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Bamyers99
+2023-04-10T18:23:46+00:00,1149193727,1149188593,0,Geraldo Perez,Diff'rent Strokes,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by MPFitz1968
+2023-04-10T18:22:08+00:00,1149193485,1149181115,0,Geraldo Perez,Eddie (film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Randy Kryn
+2023-04-10T18:21:47+00:00,1149193433,1149177953,0,Geraldo Perez,Even Stevens,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2600:100C:B0AB:BBC2:B0B8:C20D:965E:106B
+2023-04-10T18:21:46+00:00,1149193430,1149177739,0,Geraldo Perez,Family Matters,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Ferclopedio
+2023-04-10T18:23:38+00:00,1149193703,1149187627,0,Geraldo Perez,Faith Evans,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Binksternet
+2023-04-09T08:36:53+00:00,1148958761,1148886652,0,TimTims2022,Fox Broadcasting Company,Undid revision 1148886652 by [[Special:Contributions/167.249.109.27|167.249.109.27]] ([[User talk:167.249.109.27|talk]]) no.
+2023-04-10T18:23:10+00:00,1149193612,1149183561,0,Geraldo Perez,Fox Sports Networks,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by InternetArchiveBot
+2023-04-10T18:21:54+00:00,1149193450,1149179382,0,Geraldo Perez,Fresh (1994 film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Citation bot
+2023-04-01T23:54:44+00:00,1147754190,1145006316,0,InternetArchiveBot,Fox Sports Networks,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.3) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 13024
+2023-04-10T18:21:52+00:00,1149193447,1149178827,0,Geraldo Perez,Fruitvale Station,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Citation bot
+2023-04-10T18:23:44+00:00,1149193717,1149188092,0,Geraldo Perez,Full House,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2600:4041:55F1:9B00:D824:B92E:51E3:53A7
+2023-04-10T18:23:18+00:00,1149193631,1149184772,0,Geraldo Perez,Good Times,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 68.188.119.167
+2023-04-10T18:26:05+00:00,1149194052,1149186490,0,Geraldo Perez,Gladys Knight,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Anderjef
+2023-04-11T15:33:12+00:00,1149333789,1149193719,0,BREWJACKSTONE,Hangin' with Mr. Cooper,/* Main */
+2023-04-10T18:23:45+00:00,1149193719,1149188272,0,Geraldo Perez,Hangin' with Mr. Cooper,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Paine Ellsworth
+2023-03-30T05:13:50+00:00,1147319325,1146952698,0,2600:4041:55F1:9B00:D824:B92E:51E3:53A7,Full House,
+2023-04-10T18:23:18+00:00,1149193629,1149184690,0,Geraldo Perez,Happy Days,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Aspects
+2023-04-10T18:22:05+00:00,1149193473,1149180351,0,Geraldo Perez,House Party (1990 film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Muboshgu
+2023-04-10T18:23:20+00:00,1149193636,1149185015,0,Geraldo Perez,Hey Arnold!,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Ooboh
+2023-04-10T18:22:57+00:00,1149193576,1149182615,0,Geraldo Perez,He Got Game,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Randy Kryn
+2023-04-10T18:25:20+00:00,1149193956,1149189051,0,Geraldo Perez,Jackée Harry,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 82.170.74.204
+2023-04-10T18:34:58+00:00,1149195194,1149194681,0,Geraldo Perez,Jerry Stackhouse,Reverted 1 edit by [[Special:Contributions/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]): [[WP:DE]]
+2023-04-12T01:46:12+00:00,1149408345,1149193480,0,Citation bot,Juice (1992 film),"Alter: template type. Add: date, title, magazine. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Mako001 | Linked from User:Mako001/access-date | #UCB_webform_linked 1750/2614"
+2023-04-10T18:19:15+00:00,1149193057,1149192317,0,Geraldo Perez,Justin Gatlin,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by HiddenGem7
+2023-04-10T18:19:57+00:00,1149193163,1149190311,0,Geraldo Perez,Kim Coles,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Dicklyon
+2023-04-07T19:18:42+00:00,1148699768,1148525712,0,2A02:C7C:B009:700:49F8:2D76:99C0:7564,Kenan & Kel,a sitcom IS a genre of comedy
+2023-04-11T21:57:50+00:00,1149383787,1148699768,0,2601:589:C080:1610:7D45:E4A1:C557:352E,Kenan & Kel,
+2023-04-10T18:22:06+00:00,1149193480,1149180784,0,Geraldo Perez,Juice (1992 film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Yowhatzthatmyguy
+2023-04-10T18:21:34+00:00,1149193396,1149176198,0,Geraldo Perez,Leave It to Stevie,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Turtleleopard
+2023-04-10T18:23:27+00:00,1149193659,1149185679,0,Geraldo Perez,Life Is Not a Fairy Tale,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Aradek
+2023-04-10T18:23:58+00:00,1149193757,1149189282,0,Geraldo Perez,Living Single,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by PrimeBOT
+2023-04-10T18:24:02+00:00,1149193770,1149190130,0,Geraldo Perez,Marsha Warfield,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Bearcat
+2023-04-10T18:23:35+00:00,1149193694,1149186742,0,Geraldo Perez,Mannie Fresh,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Loriendrew
+2023-04-10T18:24:10+00:00,1149193800,1149192662,0,Geraldo Perez,Maurice Greene (sprinter),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Terrance1988
+2023-02-04T18:59:49+00:00,1137451504,1117304071,0,Bearcat,Marsha Warfield,/* External links */recat
+2023-04-12T20:05:50+00:00,1149529588,1149519067,0,Magitroopa,Maurice Greene (sprinter),Undid revision 1149519067 by [[Special:Contributions/Terrance1100|Terrance1100]] ([[User talk:Terrance1100|talk]])
+2023-04-10T18:21:53+00:00,1149193448,1149179291,0,Geraldo Perez,Menace II Society,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Alexblox12
+2023-04-10T18:23:04+00:00,1149193595,1149183111,0,Geraldo Perez,Michael Jordan: An American Hero,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Butlerblog
+2022-08-22T03:36:28+00:00,1105855300,1079517476,0,Citation bot,Midland Public Schools,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 739/3841
+2023-04-10T18:20:41+00:00,1149193274,1149160024,0,Geraldo Perez,Mike Rodgers,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Terrance1988
+2023-04-02T16:54:33+00:00,1147858718,1146185000,0,Paine Ellsworth,Paramount Network,"/* Paramount Network (2018–present) */use AWB to disambiguate ""Nick Jr."""
+2023-04-10T18:24:01+00:00,1149193765,1149189801,0,Geraldo Perez,Night Court,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2603:7080:BA01:39F1:3149:65F4:690:F59F
+2023-04-02T18:42:08+00:00,1147872747,1147842861,0,2603:7080:BA01:39F1:3149:65F4:690:F59F,Night Court,/* United States */
+2023-04-10T18:23:28+00:00,1149193670,1149186210,0,Geraldo Perez,Patti LaBelle,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 67.70.108.211
+2023-04-03T04:43:59+00:00,1147941613,1139376755,0,EdPim,Poetic Justice (film),"Capitalized ""Lesha"" in Plot"
+2023-04-10T18:21:23+00:00,1149193363,1149173901,0,Geraldo Perez,Porn Star: The Legend of Ron Jeremy,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Lysenko97
+2023-04-10T18:22:05+00:00,1149193477,1149180536,0,Geraldo Perez,Poetic Justice (film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by EdPim
+2023-04-10T18:21:12+00:00,1149193339,1149172013,0,Geraldo Perez,Pride (2007 film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Spectrallights
+2023-04-10T18:23:11+00:00,1149193613,1149183727,0,Geraldo Perez,Pro-Am Sports System,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 112.200.2.91
+2023-04-10T18:21:36+00:00,1149193399,1149176880,0,Geraldo Perez,Pros vs. Joes,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2601:405:4700:8660:14E6:2EC9:2729:EE09
+2023-04-10T18:21:16+00:00,1149193343,1149173114,0,Geraldo Perez,Reign Over Me,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Binksternet
+2023-04-10T18:26:48+00:00,1149194146,1149181991,0,Geraldo Perez,Quincy Jones,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Technopat
+2023-04-10T18:22:03+00:00,1149193469,1149179934,0,Geraldo Perez,Road Trip (2000 film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Ninja2020
+2023-04-10T18:23:07+00:00,1149193601,1149183229,0,Geraldo Perez,Rosewood (film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2600:6C55:6D00:BCA:F16E:B2AA:5A28:1F3E
+2023-04-11T03:02:48+00:00,1149256806,1149193825,0,SantosPhillipCarlo,Roy Jones Jr.,/* Career from 1998 to 2002 */
+2023-04-10T12:55:53+00:00,1149145908,1148844574,0,Butlerblog,Rugrats,remove deprecated infobox parameters ([[:Template:Infobox television]])
+2023-04-10T18:23:21+00:00,1149193640,1149185297,0,Geraldo Perez,Rugrats,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Butlerblog
+2023-04-10T18:18:14+00:00,1149192899,1149189180,0,Geraldo Perez,Sabrina the Teenage Witch (1996 TV series),Reverted 1 edit by [[Special:Contributions/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]): [[WP:OVERLINKING]] common words
+2022-10-17T23:55:32+00:00,1116714897,1116714418,0,Kevmark58,Saginaw Public School District,
+2023-04-10T18:22:07+00:00,1149193484,1149180935,0,Geraldo Perez,Set It Off (film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2600:4040:9374:D300:BC19:3AFC:C6DB:962B
+2023-04-10T18:26:37+00:00,1149194113,1149182769,0,Geraldo Perez,Seventeen Again,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2601:240:D901:1A50:BD06:E7EA:7275:F01A
+2023-04-10T18:22:26+00:00,1149193512,1149172455,0,Geraldo Perez,Shooter (2007 film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 47.219.177.229
+2023-04-10T18:23:53+00:00,1149193746,1149188962,0,Geraldo Perez,"Sister, Sister (TV series)",Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by YoungForever
+2023-04-10T18:21:48+00:00,1149193435,1149178170,0,Geraldo Perez,Smart Guy,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by PrimeBOT
+2023-04-10T18:21:57+00:00,1149193459,1149179576,0,Geraldo Perez,South Central (TV series),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Otto Grimsley
+2023-04-10T18:22:02+00:00,1149193467,1149179746,0,Geraldo Perez,South Central (film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Tomilay
+2023-04-01T23:24:28+00:00,1147751136,1146824286,0,PChrist7021,Step by Step (TV series),/* Theme song and title sequence */
+2023-04-10T18:23:39+00:00,1149193704,1149187899,0,Geraldo Perez,Step by Step (TV series),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by PChrist7021
+2023-04-10T18:23:43+00:00,1149193714,1149187983,0,Geraldo Perez,Suzanne Somers,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2804:14D:4C86:1414:0:0:0:1000
+2023-04-10T18:21:15+00:00,1149193341,1149172843,0,Geraldo Perez,TMNT (film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Materialscientist
+2023-04-11T14:07:01+00:00,1149322262,1149301941,0,Zingo156,TMNT (film),
+2023-04-10T18:21:09+00:00,1149193329,1149171567,0,Geraldo Perez,Terrence Trammell,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Terrance1988
+2023-04-12T11:55:21+00:00,1149462730,1149193431,0,Citation bot,The Cosby Show,"Alter: url. URLs might have been anonymized. Add: archive-date, archive-url. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Peabody Award-winning television programs]] | #UCB_Category 12/310"
+2023-04-10T18:22:44+00:00,1149193549,1149181718,0,Geraldo Perez,The Color Purple (1985 film),Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2A02:C7F:32B5:7000:ADC4:F7B9:B058:E096
+2023-04-10T18:21:46+00:00,1149193431,1149177445,0,Geraldo Perez,The Cosby Show,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by PrimeBOT
+2023-04-10T18:21:17+00:00,1149193349,1149173680,0,Geraldo Perez,The Hills Have Eyes 2,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 86.30.26.146
+2023-04-10T18:22:54+00:00,1149193567,1149182423,0,Geraldo Perez,The Jacksons: An American Dream,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by PrimeBOT
+2023-04-10T18:21:29+00:00,1149193383,1149175431,0,Geraldo Perez,The Kids of Degrassi Street,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by ToQ100gou
+2023-04-10T18:21:16+00:00,1149193347,1149173332,0,Geraldo Perez,The Last Mimzy,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Citation bot
+2023-04-10T18:22:33+00:00,1149193523,1149178326,0,Geraldo Perez,The Long Walk Home,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Ser Amantio di Nicolao
+2023-04-10T18:19:42+00:00,1149193133,1149190631,0,Geraldo Perez,The Oprah Winfrey Show,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by PrimeBOT
+2023-04-10T18:23:26+00:00,1149193658,1149185459,0,Geraldo Perez,The Proud Family,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by PrimeBOT
+2023-04-10T18:19:31+00:00,1149193087,1149190850,0,Geraldo Perez,Throw Momma from the Train,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Llogan79425
+2023-04-10T18:22:04+00:00,1149193470,1149180149,0,Geraldo Perez,The Red Sneakers,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by PrimeBOT
+2023-04-10T18:23:46+00:00,1149193721,1149188425,0,Geraldo Perez,To Grandmother's House We Go,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by PrimeBOT
+2023-04-10T17:05:35+00:00,1149183096,1149182909,0,HJ Mitchell,Tom Hardy,not necessary; most English speakers know what England is. See [[MOS:OVERLINK]] for guidance.
+2023-02-23T22:49:03+00:00,1141209868,1139587719,0,Underclass King,Trading Spouses,
+2023-03-30T23:52:10+00:00,1147439140,1147429671,0,Pelmeen10,USA Track & Field,the proposal was a split to a seperate article
+2023-04-12T07:19:03+00:00,1149439104,1149432762,0,Thewolfchild,United States Naval Academy,Restored revision 1149429051 by [[Special:Contributions/Persent101|Persent101]] ([[User talk:Persent101|talk]]): Unnecessary
+2023-04-10T19:45:00+00:00,1149205018,1149164911,0,Calinjaxnc,University of Southern California,/* Scandals */
+2023-04-12T07:20:36+00:00,1149439236,1149432422,0,Thewolfchild,University of Southern California,Restored revision 1149205018 by [[Special:Contributions/Calinjaxnc|Calinjaxnc]] ([[User talk:Calinjaxnc|talk]])
+2023-04-12T07:19:34+00:00,1149439144,0,0,Thewolfchild,User talk:Terrance1100,Welcome to Wikipedia!
+2023-03-23T02:46:14+00:00,1146155629,1121758338,0,Citation bot,WNEM-TV,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Cozi TV affiliates]] | #UCB_Category 31/135
+2023-04-10T18:23:17+00:00,1149193625,1149184528,0,Geraldo Perez,WKBD-TV,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by 2001:1970:5D2A:C500:9037:1D1A:A931:C1F0
+2023-04-10T18:21:45+00:00,1149193424,1149177253,0,Geraldo Perez,What's Happening!!,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Drmies
+2023-04-10T18:22:46+00:00,1149193551,1149182188,0,Geraldo Perez,Whiteboyz,Reverted edits by [[Special:Contribs/Terrance1994|Terrance1994]] ([[User talk:Terrance1994|talk]]) to last version by Dicklyon
+2023-02-16T17:02:54+00:00,1139734604,1137099027,0,217.66.152.152,1988 Summer Olympics,Improvements
+2023-03-07T06:47:36+00:00,1143353644,1142509674,0,2403:6200:8814:3F74:6576:A1A8:E5BD:C30C,A Different World,
+2022-08-26T21:10:41+00:00,1106861154,1106853641,0,2600:1700:EC60:EF10:1123:B36A:CB9F:94D1,A Different World,/* Main */Changed joke to actual true facts and content
+2022-10-19T03:16:42+00:00,1116935834,1116728786,0,Billposer,1988 Summer Olympics,/* Cerimonies */ spelling
+2023-03-07T11:56:25+00:00,1143386943,1139734604,0,Tisairi,1988 Summer Olympics,"/* Homeless camp expansion */ Removed a link for Prosecutor Kim Yong-won, which was to a serial killer who happened to share the same name."
+2022-10-06T09:20:11+00:00,1114401091,1114400849,0,2600:1016:B016:45C8:5CBB:6948:1032:C2B2,A Soldier's Story,/* Plot */Detail
+2022-08-14T22:59:34+00:00,1104429511,1104427207,0,LizardJr8,A Different World,Reverted 1 edit by [[Special:Contributions/174.251.67.7|174.251.67.7]] ([[User talk:174.251.67.7|talk]]) to last revision by CMD212007
+2023-01-04T19:07:06+00:00,1131567332,1131560210,0,StarryGrandma,AT&T,"Undid revision 1131560210 by [[Special:Contributions/Djunge123|Djunge123]] ([[User talk:Djunge123|talk]]) Inc. only needed once, and Inc.Inc. not at all"
+2022-09-20T20:20:16+00:00,1111402315,1105237192,0,Michawn2003,1988 Summer Olympics,
+2023-02-23T21:05:54+00:00,1141193994,1141193829,0,Bbb23,AT&T,spam links
+2023-03-29T16:50:05+00:00,1147232747,1147232632,0,2001:861:52C3:BF50:AC72:1FC5:DD47:4093,A Different World,/* Guest stars */
+2022-10-15T12:56:15+00:00,1116219303,1115032140,0,Wnukui,AT&T,/* Naming rights and sponsorships */ Added link to AT&T Midtown Center Wikipedia page.
+2023-02-16T16:17:29+00:00,1139727671,1136696599,0,5.212.201.123,Above the Rim,
+2022-10-04T18:28:10+00:00,1114082569,1110282890,0,67.214.125.254,Above the Rim,/* Production */
+2022-12-28T01:06:17+00:00,1129974322,1129974087,0,Renamed user 3429187546,All That,Reverted 1 edit by [[Special:Contributions/Jarrodstemen|Jarrodstemen]] ([[User talk:Jarrodstemen|talk]]) to last revision by Cullen328
+2022-10-01T23:01:00+00:00,1113526826,1113523694,0,Renamed user 3429187546,All That,Reverted 2 edits by [[Special:Contributions/174.116.18.86|174.116.18.86]] ([[User talk:174.116.18.86|talk]]) to last revision by BrickMaster02
+2023-02-05T20:50:43+00:00,1137662795,1137157468,0,Baville,Baby Boy (film),/* Plot */ fixed space
+2022-12-12T01:52:00+00:00,1126942807,1125010440,0,Lenticel,Baby Boy (film),minor fix
+2022-03-21T17:26:25+00:00,1078454841,1071708255,0,BD2412,Anne Ramsey,Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]]
+2023-03-09T03:29:00+00:00,1143661099,1140240981,0,KingBozzyBoz59,Anne Ramsey,
+2022-09-08T02:38:24+00:00,1109122470,1108877031,0,Squittens,All That,
+2023-03-23T13:39:57+00:00,1146216158,1139727671,0,Randy Kryn,Above the Rim,/* See also */List of basketball films
+2022-09-07T04:55:30+00:00,1108955939,1108955753,0,Mfs1013,Bally Sports Detroit,/* Bally Sports Detroit Extra */Replaced plus with extra
+2022-10-16T01:56:07+00:00,1116336265,1112764055,0,2600:1007:B11F:25C7:F467:4FCC:9D04:EB83,Bally Sports Detroit,/* Detroit Red Wings */
+2023-02-03T02:33:58+00:00,1137155221,1137155056,0,JK Michigan,Bally Sports Detroit,/* Former personalities */
+2023-01-07T04:37:32+00:00,1132079749,1131279921,0,Tbhotch,Birdman (rapper),Reverted edits by [[Special:Contribs/105.224.46.115|105.224.46.115]] ([[User talk:105.224.46.115|talk]]) to last version by Dewritech
+2023-01-03T11:51:24+00:00,1131279921,1130102424,0,105.224.46.115,Birdman (rapper),
+2022-12-11T13:59:27+00:00,1126838932,1126819522,0,Spinney Hill,CBS,Better I think
+2023-02-15T02:42:23+00:00,1139429961,1139429918,0,Wesoree,Birdman (rapper),Reverted edits by [[Special:Contribs/AdrianneWilson337|AdrianneWilson337]] ([[User talk:AdrianneWilson337|talk]]) to last version by General Ization
+2022-08-03T21:43:42+00:00,1102199687,1099889438,0,2601:14B:C205:CC10:5803:C960:D45A:F6C6,Chaka Khan,/* Filmography */
+2023-03-05T23:14:44+00:00,1143101835,1141843754,0,LeoStar03,Braxton Family Values,
+2022-05-16T22:59:23+00:00,1088240980,1088240961,0,MB,Cynthia Geary,"Changing [[Wikipedia:Short description|short description]] from ""American actress"" to ""American actress (born 1965)"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2022-09-23T20:10:46+00:00,1111939796,1111939626,0,209.66.102.130,Chaka Khan,
+2023-02-02T22:13:58+00:00,1137117436,1136700059,0,Wcquidditch,CBS,"/* Stations */ per the Manual of Style, [[MOS:GEOCOMMA|a comma almost always follows a pairing of a city name and state]]"
+2022-12-25T19:19:25+00:00,1129502499,1124657148,0,Sanslogique,Chaka Khan,
+2022-09-21T04:47:20+00:00,1111472743,1111460574,0,Sdkb,CBS,Corrected publication name and [[WP:GENFIX|general fixes]]
+2022-11-26T16:24:23+00:00,1123954375,1123954250,0,Achmad Rachmani,CBS,/* History */ Cite error
+2022-08-26T15:18:15+00:00,1106807707,1104924200,0,WPUNJ,Birdman (rapper),
+2022-10-07T13:31:53+00:00,1114631406,1114631138,0,Steel1943,Birdman (rapper),"/* Personal life */ actually, after further reflection, doesn't seem as though this information belongs on this article at all"
+2022-12-08T02:55:22+00:00,1126204604,1126204135,0,BeywheelzLetItRip,Birdman (rapper),Reverted edits by [[Special:Contributions/2601:5C9:C201:6030:4883:F53C:A941:D298|2601:5C9:C201:6030:4883:F53C:A941:D298]] ([[User talk:2601:5C9:C201:6030:4883:F53C:A941:D298|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-11-15T12:18:35+00:00,1122022187,1120454435,0,ToQ100gou,Degrassi High,Linda Schuyler's new book was released and features a proper explanation to the end of the show. It's ebook edition so I can't cite the page number yet.
+2023-02-20T00:59:47+00:00,1140422587,1128276476,0,ToQ100gou,Degrassi High,
+2022-11-12T09:19:39+00:00,1121444027,1121222396,0,ToQ100gou,Degrassi Junior High,/* Makeup and wardrobe */
+2023-02-26T05:45:31+00:00,1141669205,1141669156,0,ToQ100gou,Degrassi High,/* End of the series */
+2022-09-05T00:44:22+00:00,1108541391,1107818232,0,ToQ100gou,Degrassi Junior High,
+2022-11-06T02:07:53+00:00,1120259223,1119605881,0,ToQ100gou,Degrassi Junior High,Updated image
+2022-11-12T07:28:25+00:00,1121431314,1120060422,0,JakeMorph,Degrassi: Next Class,"Fixed typographical error, improved wording."
+2023-01-15T04:58:44+00:00,1133715394,1131942750,0,ToQ100gou,Degrassi: Next Class,/* Cancellation */
+2022-08-22T00:48:25+00:00,1105829728,1104298047,0,ToQ100gou,Degrassi: Next Class,
+2023-03-23T10:18:30+00:00,1146197193,1144251743,0,Suleeabc2,Degrassi Junior High,
+2022-11-08T00:34:46+00:00,1120627047,1120515646,0,ToQ100gou,Degrassi Junior High,
+2022-10-28T03:36:13+00:00,1118645236,1118644763,0,99.226.197.53,Degrassi Junior High,
+2022-12-11T08:27:53+00:00,1126798724,1126771841,0,108.41.81.126,Degrassi: The Next Generation,
+2022-11-16T18:56:52+00:00,1122270305,1122036985,0,GünniX,Degrassi: The Next Generation,unbalanced brackets
+2022-12-02T15:50:04+00:00,1125174155,1124891632,0,67.221.128.39,Degrassi: The Next Generation,/* External links */
+2022-10-19T14:19:07+00:00,1117018058,1116532926,0,Ser Amantio di Nicolao,Degrassi: Next Class,Removing from [[Category:English-language television shows]] in subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2022-11-02T05:40:13+00:00,1119556389,1119434500,0,ToQ100gou,Degrassi: The Next Generation,
+2023-03-14T21:06:40+00:00,1144650175,1142357052,0,MPFitz1968,Diff'rent Strokes,"Distributor parameter removed from [[Template:Infobox television]], per discussion on that template's talk page"
+2022-10-11T07:10:28+00:00,1115393260,1114658972,0,204.237.3.205,Diff'rent Strokes,/* Spin-off and crossovers */
+2022-07-25T14:33:58+00:00,1100362308,1095862996,0,Zyxw,Donovan Bailey,add link
+2022-09-04T03:22:14+00:00,1108384946,1106014301,0,Thylacine24,Diff'rent Strokes,/* Very special episodes */ Punctuation
+2022-11-26T23:51:37+00:00,1124024597,1122828622,0,Terrance1988,Donovan Bailey,Donovan Bailey does not have a middle name- https://www.the-sports.org/donovan-bailey-athletics-spf32741.html
+2023-02-22T16:09:20+00:00,1140949889,1140949752,0,MrOllie,Donovan Bailey,Restored revision 1140946011 by [[Special:Contributions/CharredShorthand|CharredShorthand]] ([[User talk:CharredShorthand|talk]])
+2022-10-11T09:40:30+00:00,1115409707,1107105940,0,Truthessential,Eddie (film),/* Soundtrack */ (label correction)
+2022-12-08T17:32:03+00:00,1126311056,1126303519,0,Anonymous3525,Even Stevens,
+2022-08-28T05:30:05+00:00,1107105940,1104858888,0,Ser Amantio di Nicolao,Eddie (film),/* External links */add [[Category:1990s American films]]
+2022-11-08T18:06:17+00:00,1120763026,1120763014,0,ClueBot NG,Even Stevens,"Reverting possible vandalism by [[Special:Contribs/45itvn|45itvn]] to version by NrDg. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4189030) (Bot)"
+2023-03-08T23:52:31+00:00,1143635509,1140698288,0,JuliánLeiva66,Even Stevens,/* Awards and nominations */
+2023-01-13T07:52:48+00:00,1133334015,1132227158,0,82.47.232.148,Faith Evans,/* Television */
+2022-09-18T19:32:46+00:00,1110998731,1110998631,0,LuK3,Faith Evans,Reverted edits by [[Special:Contribs/182.191.204.241|182.191.204.241]] ([[User talk:182.191.204.241|talk]]) to last version by Citation bot
+2023-01-18T23:10:41+00:00,1134485637,1134484287,0,IronGargoyle,Family Matters,Reverted edits by [[Special:Contribs/2603:301D:240B:F400:84DD:8D7:7D85:61D5|2603:301D:240B:F400:84DD:8D7:7D85:61D5]] ([[User talk:2603:301D:240B:F400:84DD:8D7:7D85:61D5|talk]]) to last version by LizardJr8
+2023-02-24T01:19:30+00:00,1141233156,1138818371,0,2600:1700:DD70:90C0:491C:A7E1:D75E:DD5C,Family Matters,
+2022-12-01T03:29:24+00:00,1124902888,1123342728,0,70.80.44.154,Family Matters,
+2023-01-16T13:07:35+00:00,1133987925,1132742825,0,GreenC bot,Fox Broadcasting Company,Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-10-05T00:48:38+00:00,1114137558,1114137126,0,AKK-700,Fox Broadcasting Company,/* Logos */
+2022-10-27T13:23:03+00:00,1118523416,1117573017,0,ShiftPoint,Fox Broadcasting Company,"FOX has a new master control center already in service at the Arizona State University Research Park in Tempe, Arizona. It is set to be the successor to the Disney-owned FOX Network Center at the FOX Lot on Pico in LA's Century City, at least in terms of transmission operations. https://tvnewscheck.com/tech/article/fox-pulls-back-curtain-on-its-major-tech-transformation/"
+2022-10-03T06:18:46+00:00,1113777521,1112501266,0,2600:8800:3136:BD00:2C2E:A109:E206:2055,Family Matters,MoS
+2022-08-17T03:18:09+00:00,1104827263,1102487790,0,Oknazevad,Fox Sports Networks,/* Beginnings */
+2022-10-03T19:33:17+00:00,1113899171,1111853542,0,Wcquidditch,Fox Sports Networks,"WGCL-TV is now WANF, but for archival purposes the link will continue to say WGCL-TV"
+2022-09-29T00:56:24+00:00,1112963087,1107106937,0,2601:18C:8380:4370:E488:3D5C:E92:A7EA,Fresh (1994 film),
+2022-09-07T05:03:55+00:00,1108957361,1104827263,0,Dicklyon,Fox Sports Networks,link case updates (via [[WP:JWB]])
+2023-03-10T23:47:13+00:00,1143958317,1139407978,0,Tmisch64,Fox Sports Networks,/* National prime time programming */
+2022-09-05T13:12:12+00:00,1108630039,1107664717,0,Nightscream,Fruitvale Station,"establish what ""BART"" means first, and then you can refer to it in passing."
+2022-11-30T03:44:14+00:00,1124713665,1122158830,0,Erik,Fruitvale Station,/* External links */ Not director
+2022-08-28T05:38:30+00:00,1107106937,1101763932,0,Ser Amantio di Nicolao,Fresh (1994 film),/* External links */add [[Category:1990s American films]]
+2022-10-05T15:23:13+00:00,1114252551,1112411860,0,JJMC89 bot III,Fruitvale Station,Moving [[:Category:Films shot in 16mm]] to [[:Category:Films shot in 16 mm film]] per [[Wikipedia:Categories for discussion/Speedy]]
+2022-11-03T18:16:53+00:00,1119842915,1119842906,0,ToBeFree,Full House,Adding {{pp-protected}}
+2022-11-10T19:27:09+00:00,1121148096,1119842915,0,TPalkovitz,Full House,/* U.S. syndication */ link
+2023-01-19T16:52:35+00:00,1134623611,1134622163,0,MPFitz1968,Full House,"Reverted 1 edit by [[Special:Contributions/Lorenb10|Lorenb10]] ([[User talk:Lorenb10|talk]]): Previous was fine, and awkward to see multiple parentheticals in the same sentence"
+2023-02-15T00:25:06+00:00,1139409286,1139401971,0,MPFitz1968,Full House,Reverted 1 edit by [[Special:Contributions/199.19.61.171|199.19.61.171]] ([[User talk:199.19.61.171|talk]]) to last revision by Moops
+2023-02-22T07:41:01+00:00,1140888261,1138080078,0,J E Kendall,Fruitvale Station,Inclusion of the movie on Ann Hornaday's top 10 list was mentioned twice.  Removed duplicate.
+2022-10-14T08:06:21+00:00,1115997534,1115997512,0,ClueBot NG,Full House,"Reverting possible vandalism by [[Special:Contribs/107.115.41.11|107.115.41.11]] to version by Felida97. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4182261) (Bot)"
+2023-02-09T17:00:26+00:00,1138428442,1136712623,0,Anderjef,Gladys Knight,[[MOS:CURLY]] (1)
+2023-01-12T20:53:23+00:00,1133236738,1133173832,0,Rodw,Gladys Knight,"Disambiguating links to [[Fairview, North Carolina]] (link changed to [[Fairview, Buncombe County, North Carolina]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]]."
+2022-09-16T12:23:13+00:00,1110606827,1110597593,0,91.74.66.34,Gladys Knight,/* Grammy Awards */
+2022-12-12T12:24:02+00:00,1127014747,1127002567,0,Waxworker,Hangin' with Mr. Cooper,Undid revision 1127002567 by [[Special:Contributions/50.204.33.172|50.204.33.172]] ([[User talk:50.204.33.172|talk]]) unsourced date change
+2022-12-20T11:39:58+00:00,1128491889,1128449327,0,Egeymi,Gladys Knight,Filled in 1 bare reference(s) with reFill 2 + 1
+2022-09-21T23:39:23+00:00,1111613654,1109591435,0,67.212.47.110,Good Times,
+2022-09-10T19:35:50+00:00,1109591435,1109589170,0,GreenC,Good Times,/* Theme song and opening sequence */
+2023-02-09T01:22:36+00:00,1138317012,1137979064,0,2601:447:CF7F:1C90:421:7114:A0E2:24F6,Good Times,/* External links */
+2022-08-22T20:48:04+00:00,1106014053,1102107150,0,Premeditated Chaos,Good Times,Removing link(s) [[Wikipedia:Articles for deletion/Mill Creek Entertainment]] closed as delete ([[WP:XFDC#4.0.13|XFDcloser]])
+2022-09-13T14:04:01+00:00,1110087314,1109772929,0,205.56.181.196,Hangin' with Mr. Cooper,Undid revision 1109772929 by [[Special:Contributions/68.234.69.26|68.234.69.26]] ([[User talk:68.234.69.26|talk]])
+2022-12-17T00:48:27+00:00,1127851729,1127637636,0,Dwanyewest,Happy Days,/* Plot */
+2022-12-25T12:36:21+00:00,1129452990,1129320884,0,2601:147:C301:6BA0:49B6:4801:9482:583B,Hangin' with Mr. Cooper,/* Main */
+2023-03-23T13:48:53+00:00,1146217275,1142007355,0,Randy Kryn,He Got Game,See also 'List of basketball films
+2023-02-11T00:26:50+00:00,1138680287,1137358677,0,203.211.78.202,Happy Days,
+2022-10-31T03:27:51+00:00,1119176726,1119172897,0,Peace is contagious,Happy Days,/* Characters */ Added links
+2022-08-28T05:44:52+00:00,1107107762,1105891275,0,Ser Amantio di Nicolao,He Got Game,/* External links */add [[Category:1990s American films]]
+2022-12-17T00:44:52+00:00,1127851260,1127014747,0,Dwanyewest,Hangin' with Mr. Cooper,
+2023-02-06T18:21:09+00:00,1137836680,1135792499,0,NavyBlueSunglasses,Hey Arnold!,The state in which the show takes place was never divulged.
+2023-03-13T20:27:47+00:00,1144446415,1143497708,0,WWBM,Hey Arnold!,"/* International */ there must be Nickelodeon, Cartoon Network names"
+2022-12-19T20:55:14+00:00,1128378205,1128377745,0,73.98.209.197,He Got Game,/* Plot */
+2023-01-23T23:27:25+00:00,1135318590,1134956139,0,174.55.91.169,Hey Arnold!,
+2023-01-02T07:18:29+00:00,1131039956,1127648068,0,2601:243:825:D77:81E5:178C:E9AB:E160,Hey Arnold!,
+2022-12-28T16:23:06+00:00,1130105236,1129695571,0,2600:1700:36A0:D2C0:7E11:EFB9:F95F:BC9C,House Party (1990 film),/* Cast */
+2023-02-08T19:10:47+00:00,1138253607,1135182520,0,Muboshgu,House Party (1990 film),[[WP:PUFFERY]]
+2022-08-30T13:33:35+00:00,1107530451,1103972539,0,Tbhotch,Jackée Harry,Reverted 1 edit by [[Special:Contributions/97.116.171.36|97.116.171.36]] ([[User talk:97.116.171.36|talk]]): No albums
+2023-01-10T22:47:54+00:00,1132855128,1125500012,0,82.170.74.204,Jackée Harry,/* Television */
+2022-10-10T16:29:52+00:00,1115266440,1113327277,0,Dicklyon,Jerry Stackhouse,case cleanups (via [[WP:JWB]])
+2023-01-07T19:41:43+00:00,1132207295,1132081896,0,Marist72,Jerry Stackhouse,/* College */
+2022-07-26T21:39:50+00:00,1100624200,1100624115,0,Vic Hawk,Jerry Stackhouse,/* NBA career */
+2022-10-20T14:27:17+00:00,1117215422,1116439339,0,EverJoking,Jackée Harry,/* Film/Movie */ Updated Film & TV list
+2023-03-14T02:01:54+00:00,1144497448,1134201391,0,The Black Revolutionary 2006,Juice (1992 film),Alternate Ending:
+2023-01-18T03:49:30+00:00,1134325781,1133757737,0,Marist72,Jerry Stackhouse,/* College */
+2023-01-17T13:51:44+00:00,1134201391,1134151000,0,JesseRafe,Juice (1992 film),Restored revision 1128777810 by [[Special:Contributions/Spectrallights|Spectrallights]] ([[User talk:Spectrallights|talk]]): Rvv
+2022-09-21T19:10:20+00:00,1111579642,1111579507,0,72.93.242.131,Juice (1992 film),Undid revision 1111579507 by [[Special:Contributions/72.93.242.131|72.93.242.131]] ([[User talk:72.93.242.131|talk]])
+2023-02-02T14:07:07+00:00,1137044799,1137044767,0,151.40.75.132,Justin Gatlin,
+2022-09-05T11:04:57+00:00,1108615008,1108525075,0,FMSky,Justin Gatlin,Reverted 1 edit by [[Special:Contributions/46.177.157.130|46.177.157.130]] ([[User talk:46.177.157.130|talk]]): Correct before
+2022-11-27T17:15:02+00:00,1124161398,1124017829,0,Marcocapelle,Justin Gatlin,"/* External links */removed [[21st-century African-American men]], this is a container category"
+2022-11-03T16:57:43+00:00,1119830955,1109836592,0,84.9.38.2,Justin Gatlin,
+2023-03-15T02:40:04+00:00,1144696642,1143990881,0,Hecreature,Kenan & Kel,/* Premise */
+2022-11-13T16:47:25+00:00,1121690814,1121690721,0,2600:4040:2AC3:9B00:C0B9:5159:A861:FA35,Kenan & Kel,/* Broadcast */
+2022-10-29T13:47:40+00:00,1118881846,1114680558,0,Akinderbar,Kenan & Kel,/* Broadcast */ added Uk broadcast details
+2022-08-17T21:14:57+00:00,1104974614,1104973874,0,24.168.51.76,Kenan & Kel,
+2023-02-15T16:12:08+00:00,1139528318,1139527561,0,2601:14D:4700:98C0:2DDC:B292:E9EB:455B,Kim Coles,"I corrected information regarding her time on ""In Living Color."""
+2022-11-28T01:00:21+00:00,1124245217,1124245119,0,He7tar,Kim Coles,/* Film */
+2023-01-03T15:29:34+00:00,1131309827,1131298661,0,Aaron Liu,Kenan & Kel,Reverting edit(s) by [[Special:Contributions/84.65.140.120|84.65.140.120]] ([[User_talk:84.65.140.120|talk]]) to rev. 1129603204 by Magitroopa: likely [[WP:PROVEIT|factual errors]] [[w:en:WP:RW|(RW 16.1)]]
+2022-07-12T17:58:30+00:00,1097802317,1097640163,0,Eriru,Leave It to Stevie,
+2022-06-26T18:27:03+00:00,1095155233,1094641638,0,FMSky,Kim Coles,[[MOS:INFONAT]]
+2023-02-11T09:25:52+00:00,1138739445,1138739407,0,Eriru,Leave It to Stevie,/* Cast timeline */
+2022-07-22T05:28:52+00:00,1099705576,1097698990,0,Ser Amantio di Nicolao,Life Is Not a Fairy Tale,/* Notes */add [[Category:2000s English-language films]]
+2022-12-13T21:09:55+00:00,1127276607,1099705576,0,Aradek,Life Is Not a Fairy Tale,punctuation
+2023-03-19T20:40:59+00:00,1145565040,1138739445,0,Turtleleopard,Leave It to Stevie,
+2023-01-19T22:55:20+00:00,1134671476,1132833410,0,Jesusacosta 3050,Living Single,/* Guest cast */
+2023-02-14T17:25:57+00:00,1139346281,1139345067,0,2600:8801:131C:6F00:D2BE:5496:30C0:32B7,Living Single,
+2023-01-07T23:55:00+00:00,1132246600,1125602148,0,2603:6000:CE00:3B58:3823:2FBE:786E:C80D,Living Single,/* Regular cast */Fixed typo
+2023-02-02T17:28:47+00:00,1137074417,1134671476,0,DoubleCross,Living Single,/* External links */ refine and order categories
+2022-11-27T06:26:55+00:00,1124079343,1123974740,0,Marcocapelle,Mannie Fresh,"/* References */removed [[Category:21st-century African-American men]], this is a container category"
+2022-09-12T04:09:24+00:00,1109840577,1109549127,0,Ser Amantio di Nicolao,Mannie Fresh,/* References */add [[Category:21st-century African-American men]]
+2023-01-19T00:53:13+00:00,1134502294,1134432905,0,Loriendrew,Mannie Fresh,Return to short descrription
+2022-05-22T17:57:57+00:00,1089240276,1080007699,0,2600:387:C:2C12:0:0:0:6,Marsha Warfield,/* Television */
+2022-08-20T06:40:14+00:00,1105425858,1097174881,0,Mmortal03,Maurice Greene (sprinter),/* Media */
+2023-04-06T16:55:41+00:00,1148514457,1148514306,0,Terrance1988,Maurice Greene (sprinter),/* International competitions */ https://en.wikipedia.org/wiki/Maurice_Greene_(sprinter)
+2023-01-03T00:36:17+00:00,1131193489,1131193402,0,Terrance1988,Maurice Greene (sprinter),"[[60 meters]],"
+2022-12-03T11:18:17+00:00,1125319893,1124163053,0,Marcocapelle,Maurice Greene (sprinter),"/* External links */removed [[Category:20th-century African-American men]], this is a container category"
+2022-09-12T17:18:52+00:00,1109933611,1109920157,0,Takeo.8827,Menace II Society,
+2022-08-28T17:44:42+00:00,1107192698,1104477583,0,Ser Amantio di Nicolao,Menace II Society,/* External links */add [[Category:1990s American films]]
+2022-11-02T00:20:27+00:00,1119515583,1118974548,0,2601:19C:4E80:6370:CD68:82C2:9361:FDA7,Menace II Society,
+2023-02-10T22:10:07+00:00,1138661877,1111939306,0,2601:444:100:C690:112A:3C80:8EF5:FA8,Michael Jordan: An American Hero,
+2022-08-12T17:00:01+00:00,1104098055,1096905777,0,2603:6010:5208:3010:E882:5DCE:29A4:49BE,Night Court,"Changed Mac Robinson being a member of a barbershop quartet to singing with a doo wop group, The Starlights."
+2022-09-12T04:25:50+00:00,1109842626,1109668204,0,Ser Amantio di Nicolao,Mike Rodgers,/* External links */add [[Category:21st-century African-American men]]
+2022-05-02T18:56:35+00:00,1085838729,1085838646,0,2601:204:D300:74A0:5CFB:1356:35DC:ED56,Mike Rodgers,/* Career */
+2022-11-19T19:37:14+00:00,1122792304,1122762629,0,RJ4,Night Court,Restore last good version after vandalism.
+2022-11-07T21:20:31+00:00,1120599425,1119872649,0,2pou,Night Court,update hat for more possibilities
+2023-01-18T19:49:23+00:00,1134454143,1134453263,0,SomeNeatGiraffes,Night Court,/* top */ More [[MOS:INUNIVERSE]] fixing
+2022-12-14T03:39:02+00:00,1127330807,1127330672,0,Drmies,Paramount Network,Reverted edits by [[Special:Contribs/2600:4041:55BC:8800:C963:6875:CAD6:7BE3|2600:4041:55BC:8800:C963:6875:CAD6:7BE3]] ([[User talk:2600:4041:55BC:8800:C963:6875:CAD6:7BE3|talk]]) to last version by Timothytyy
+2023-01-05T03:06:43+00:00,1131644065,1128328730,0,AKK-700,Paramount Network,"/* ""The Ones to Watch"" */"
+2023-03-23T07:56:58+00:00,1146185000,1144983922,0,61.6.237.217,Paramount Network,Flipacliptv is fake
+2022-12-12T20:04:15+00:00,1127080893,1127080839,0,Discospinster,Patti LaBelle,Reverted edits by [[Special:Contribs/EBuzzTown|EBuzzTown]] ([[User talk:EBuzzTown|talk]]) to last version by Kleet Bronson
+2023-03-29T19:03:23+00:00,1147251053,1147002582,0,67.70.108.211,Patti LaBelle,/* Civil suits */
+2023-01-15T17:59:46+00:00,1133821140,1133812608,0,Loriendrew,Patti LaBelle,/* Personal life */ cite
+2023-03-06T22:47:14+00:00,1143294688,1140944521,0,2600:1702:3890:ECF0:239C:ED0F:FEF9:80AF,Patti LaBelle,/* Personal life */
+2022-09-21T09:51:54+00:00,1111507728,1107604451,0,Lysenko97,Porn Star: The Legend of Ron Jeremy,
+2023-02-14T20:39:13+00:00,1139376755,1138082398,0,2603:800C:404:F6EB:889A:B33:ED91:9EB7,Poetic Justice (film),/* Plot */
+2022-07-29T11:42:32+00:00,1101119439,1101119224,0,Migfab008,Poetic Justice (film),Coonsistent capitalization and added 2 templates
+2022-09-05T03:38:45+00:00,1108562184,1108480717,0,NinjaRobotPirate,Pride (2007 film),unsourced
+2023-02-07T23:23:55+00:00,1138082398,1137138108,0,Saviaj,Poetic Justice (film),/* External links */
+2022-05-04T17:45:09+00:00,1086193246,1063115820,0,TomCat4680,Pro-Am Sports System,/* History */
+2023-03-17T05:04:23+00:00,1145082285,1139827464,0,112.200.2.91,Pro-Am Sports System,
+2022-07-05T23:30:09+00:00,1096671164,1077559627,0,Aspects,Pros vs. Joes,Removed unneeded name field per [[Template:Infobox television]]
+2023-01-21T19:30:34+00:00,1134963249,1110271524,0,2601:405:4700:8660:14E6:2EC9:2729:EE09,Pros vs. Joes,/* Light Blue Team (Central Regional I) */Added commas to list of contestants
+2022-09-14T15:07:57+00:00,1110271524,1096671164,0,Dicklyon,Pros vs. Joes,case fix (via [[WP:JWB]])
+2022-12-27T04:50:51+00:00,1129797931,1127146456,0,107.122.161.62,Quincy Jones,/* Early life */Mother's maiden name added.
+2023-02-10T06:32:35+00:00,1138540359,1137369338,0,PetSematary182,Reign Over Me,"added to lead; removed ""lead too short"" tag."
+2022-10-11T06:56:51+00:00,1115391025,1109815115,0,Lyndon George,Reign Over Me,/* Plot */
+2022-11-15T11:21:40+00:00,1122015851,1121926645,0,DavidOPerson,Quincy Jones,
+2022-09-14T20:38:18+00:00,1110322952,1110004723,0,JokerReid,Quincy Jones,/* Early life */
+2023-03-24T18:14:10+00:00,1146409540,1146408686,0,Binksternet,Reign Over Me,Reverted 1 edit by [[Special:Contributions/39.42.139.152|39.42.139.152]] ([[User talk:39.42.139.152|talk]]) to last revision by Citation bot
+2023-03-19T23:01:01+00:00,1145584433,1145578350,0,2001:569:507E:FB00:3028:B75A:D7E8:A275,Quincy Jones,adjust wording
+2022-11-15T22:21:36+00:00,1122109923,1117570567,0,24.207.215.31,Road Trip (2000 film),/* Plot */
+2022-09-11T13:19:47+00:00,1109712493,1108512430,0,Mahjong705,Road Trip (2000 film),/* Plot */
+2022-09-11T05:14:29+00:00,1109667536,1107196290,0,Binksternet,Rosewood (film),/* Plot */ rv plot bloat
+2022-09-04T20:27:07+00:00,1108512430,1107969088,0,TPalkovitz,Road Trip (2000 film),/* Plot */ goes
+2022-11-25T03:58:13+00:00,1123689752,1122172586,0,Thisisboony,Rosewood (film),
+2023-03-24T00:17:54+00:00,1146294011,1146088466,0,2A02:C7C:594D:F00:F958:B040:9E3B:314A,Roy Jones Jr.,
+2023-03-11T18:29:37+00:00,1144079389,1143997028,0,Mac Dreamstate,Roy Jones Jr.,/* Jones vs. Lacy */ [[MOS:CAPFRAG]].
+2023-01-17T20:36:52+00:00,1134265787,1133784701,0,2603:8000:2700:3454:8D53:A0BF:431F:2110,Roy Jones Jr.,/* Personal life */
+2022-11-13T17:11:50+00:00,1121694385,1121694024,0,98.97.114.231,Rugrats,
+2022-12-11T18:50:12+00:00,1126877354,1126750860,0,Gareth Carraway,Rugrats,
+2022-11-02T06:02:54+00:00,1119558633,1119558413,0,Contributor19,Rugrats,/* Development */ A bit redundant.
+2023-02-17T05:04:05+00:00,1139842384,1139842326,0,Magical Golden Whip,Rugrats,Reverted 2 edits by [[Special:Contributions/Carlos antonio benitez gonzalez|Carlos antonio benitez gonzalez]] ([[User talk:Carlos antonio benitez gonzalez|talk]])
+2022-10-22T07:24:25+00:00,1117536754,1117244014,0,Contributor19,Rugrats,Added context. Also unlinked because the mention of Dil already linked to the same page.
+2022-09-02T13:49:47+00:00,1108091795,1108091031,0,TheFishDude539,Rugrats,Undid revision 1108091031 by [[Special:Contributions/2600:1700:D510:EF30:25D9:941E:A03D:2E25|2600:1700:D510:EF30:25D9:941E:A03D:2E25]] ([[User talk:2600:1700:D510:EF30:25D9:941E:A03D:2E25|talk]]) vandalism
+2023-01-04T16:56:39+00:00,1131546198,1130098488,0,QuasyBoy,Sabrina the Teenage Witch (1996 TV series),
+2022-10-15T16:36:08+00:00,1116251752,1116251551,0,MurrayGreshler,Sabrina the Teenage Witch (1996 TV series),
+2022-08-31T22:17:46+00:00,1107788914,1107053709,0,184.66.241.163,Roy Jones Jr.,/* Roy Jones vs. Félix Trinidad */ added tht T was aslo WBa Middleweight Champ.rinidad a
+2022-06-28T22:25:34+00:00,1095533729,1070976469,0,GreenC bot,Saginaw Public School District,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-10-06T23:52:32+00:00,1114528970,1113906044,0,2600:1700:A170:2A60:7579:4F8A:2642:92D0,Set It Off (film),/* Plot */
+2023-01-26T17:31:34+00:00,1135754028,1133641790,0,Sincereduck,Set It Off (film),
+2023-03-02T21:26:12+00:00,1142518744,1142516180,0,140.232.170.225,Set It Off (film),
+2023-01-08T04:07:30+00:00,1132283533,1124977206,0,2600:1011:B02A:A547:C3D:B26A:EBBB:F915,Seventeen Again,Wiki page and newspaper sources stated Sitcom ended in 1999.
+2023-02-07T15:18:40+00:00,1138011909,1132283533,0,67.214.125.254,Seventeen Again,
+2022-12-01T15:08:12+00:00,1124977206,1124976918,0,67.214.125.254,Seventeen Again,
+2022-09-11T16:41:45+00:00,1109739472,1107606840,0,ZimZalaBim,Shooter (2007 film),/* Weapons and tactics */ simpler wording
+2023-01-14T17:05:04+00:00,1133605053,1133400892,0,Lastsoundofdefense,Shooter (2007 film),/* Home media */
+2023-01-28T23:18:09+00:00,1136142944,1129005100,0,EpiphanyJ14,"Sister, Sister (TV series)",/* Special guest appearances */
+2022-09-30T04:09:54+00:00,1113169635,1112984910,0,98.55.118.71,Shooter (2007 film),
+2022-10-11T07:33:42+00:00,1115395846,1115158483,0,Rodw,Shooter (2007 film),"Disambiguating links to [[Langley]] (link changed to [[Langley, Virginia]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]]."
+2022-11-18T08:07:52+00:00,1122572471,1122407935,0,Martinc1994,"Sister, Sister (TV series)",/* Ratings */
+2022-12-23T03:35:39+00:00,1129005100,1129005071,0,Fehufanga,"Sister, Sister (TV series)",[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/2600:6C5E:137F:5E64:11AB:7280:243B:B138|2600:6C5E:137F:5E64:11AB:7280:243B:B138]] ([[User talk:2600:6C5E:137F:5E64:11AB:7280:243B:B138|talk]]) to last revision by Martinc1994: nonconstructive edits
+2023-03-08T18:27:04+00:00,1143593112,1143593091,0,66.114.154.25,"Sister, Sister (TV series)",/* Special guest appearances */
+2023-02-10T14:58:49+00:00,1138600180,1125942351,0,Chris the speller,Smart Guy,"/* Tasha Yvette Henderson */replaced: February 7, 1972 → February 7, 1972,"
+2022-09-04T06:37:24+00:00,1108407099,1089798386,0,JalenFolf,Smart Guy,"Removing link(s) to ""Venus DeMilo"": Redirect; virtually no info at target."
+2022-11-10T06:40:19+00:00,1121048721,1113821218,0,Otto Grimsley,South Central (TV series),Excuse me but you did NOT make the Wikipedia page for Ralph Farquhar accessible to users.
+2022-08-28T18:14:35+00:00,1107197600,1102083979,0,Ser Amantio di Nicolao,South Central (film),/* External links */add [[Category:1990s American films]]
+2023-02-23T16:48:49+00:00,1141152503,1141146587,0,IJBall,Step by Step (TV series),"Undid revision 1141146587 by [[Special:Contributions/NosferatuTheVampyre|NosferatuTheVampyre]] ([[User talk:NosferatuTheVampyre|talk]]) - That's not how you include it, and it's probably trivia regardless."
+2022-09-18T05:54:45+00:00,1110887527,1110885563,0,MPFitz1968,Step by Step (TV series),Reverted 1 edit by [[Special:Contributions/The Big Red Car|The Big Red Car]] ([[User talk:The Big Red Car|talk]]): [[WP:NOTBROKEN]]
+2022-10-31T12:45:06+00:00,1119242374,1119217166,0,IJBall,Step by Step (TV series),Undid revision 1119217166 by [[Special:Contributions/NosferatuTheVampyre|NosferatuTheVampyre]] ([[User talk:NosferatuTheVampyre|talk]]) - Unnecessary and [[WP:OR]]-y detail.
+2023-01-06T02:42:12+00:00,1131858657,1131858519,0,67.169.14.79,Suzanne Somers,/* Personal life */
+2022-09-01T00:03:18+00:00,1107802492,1104463696,0,47.158.146.24,Step by Step (TV series),Clarifying where Cody lived
+2022-08-03T08:31:32+00:00,1102083979,1099977897,0,Ser Amantio di Nicolao,South Central (film),/* External links */remove [[Category:English-language films]]; now in subcat
+2022-12-31T21:48:56+00:00,1130768767,1126189683,0,Bobbyandbeans,Suzanne Somers,/* Views on medical subjects */ adding clarification
+2023-03-07T14:30:05+00:00,1143405615,1140301751,0,Richiekim,TMNT (film),"/* External links */ redundant cat, located in Category:Animated Teenage Mutant Ninja Turtles films"
+2022-10-20T13:36:44+00:00,1117207909,1117200200,0,Pablov95,TMNT (film),/* Plot */ Shortened a long sentence.
+2022-12-22T19:35:41+00:00,1128935318,1128530280,0,IAmNMFlores,TMNT (film),/* Cancelled sequels */ mentioned in body article earlier
+2023-01-03T16:47:25+00:00,1131322089,1130587079,0,Gray eyes,TMNT (film),/* External links */
+2022-09-12T21:41:16+00:00,1109971891,1109747540,0,Ser Amantio di Nicolao,Terrence Trammell,/* External links */add [[Category:21st-century African-American men]]
+2022-10-30T01:21:50+00:00,1118970006,1117207909,0,IAmNMFlores,TMNT (film),Some fixes
+2022-08-27T22:37:48+00:00,1107057229,1105001693,0,Ser Amantio di Nicolao,The Color Purple (1985 film),/* External links */add [[Category:1980s American films]]
+2022-12-03T12:27:49+00:00,1125329546,1124203139,0,Marcocapelle,Terrence Trammell,"/* External links */removed [[Category:20th-century African-American men]], this is a container category"
+2022-10-29T23:50:57+00:00,1118958692,1118241365,0,2600:8803:AE0E:8100:3481:F8A2:465B:8F02,The Color Purple (1985 film),/* Plot */
+2022-10-06T19:18:50+00:00,1114488430,1110318790,0,Dicklyon,The Cosby Show,rm comma per [[MOS:JR]] and sfn fixes (via [[WP:JWB]])
+2022-11-21T21:29:24+00:00,1123104470,1114488430,0,Rainynights1981,The Cosby Show,
+2022-11-19T23:20:46+00:00,1122818153,1122610226,0,84.71.30.163,The Color Purple (1985 film),/* Cast */
+2023-01-20T00:49:13+00:00,1134685374,1132584856,0,2804:14D:5492:8F11:0:0:0:1001,The Cosby Show,
+2023-02-16T02:37:40+00:00,1139629346,1134685374,0,WikiCleanerMan,The Cosby Show,/* External links */
+2022-08-31T03:44:35+00:00,1107648947,1104485241,0,Ser Amantio di Nicolao,The Hills Have Eyes 2,/* External links */add [[Category:2000s American films]]
+2022-10-02T06:27:20+00:00,1113583675,1110111345,0,2600:1007:B130:69C2:654C:B27B:F24B:7E55,The Hills Have Eyes 2,/* Cast */
+2022-09-13T16:52:55+00:00,1110111345,1109477877,0,Nyktide,The Hills Have Eyes 2,/* Plot */
+2022-08-30T00:50:05+00:00,1107438636,1107438513,0,2601:681:0:1E80:545B:3CF7:B166:F8FF,The Jacksons: An American Dream,
+2022-12-17T04:44:38+00:00,1127879442,1125120005,0,2601:547:1:84B0:A063:94E2:91EC:C599,The Jacksons: An American Dream,/* Plot */
+2023-02-28T03:35:44+00:00,1142025545,1119417789,0,ToQ100gou,The Kids of Degrassi Street,
+2022-10-03T23:06:43+00:00,1113931493,1106636560,0,Princess22224,The Kids of Degrassi Street,/* Development */
+2022-11-01T13:40:00+00:00,1119417789,1118645929,0,ToQ100gou,The Kids of Degrassi Street,
+2022-08-25T17:14:15+00:00,1106636560,1094825160,0,209.171.88.133,The Kids of Degrassi Street,
+2023-01-14T17:04:15+00:00,1133604903,1133178345,0,Lastsoundofdefense,The Last Mimzy,/* Re-release of the short story */
+2022-11-22T17:04:50+00:00,1123222280,1118936673,0,Maxxymrice,The Last Mimzy,/* Plot */
+2022-08-29T00:59:18+00:00,1107252078,1102290026,0,Ser Amantio di Nicolao,The Long Walk Home,/* External links */add [[Category:1990s American films]]
+2022-12-31T19:12:35+00:00,1130743912,1128040899,0,JJonahJackalope,The Oprah Winfrey Show,/* Memorable moments */ Added link to the [[1987 Forsyth County protests]]
+2022-11-02T06:46:08+00:00,1119562824,1118524901,0,97.113.8.114,The Oprah Winfrey Show,/* Controversies */
+2023-01-10T10:00:54+00:00,1132744510,1130743912,0,CommonsDelinker,The Oprah Winfrey Show,Removing [[:c:File:Oprah_Winfrey_Interviews_Gurbaksh_Chahal.jpg|Oprah_Winfrey_Interviews_Gurbaksh_Chahal.jpg]]; it has been deleted from Commons by [[:c:User:King of Hearts|King of Hearts]] because: per [[:c:Commons:Deletion requests/File:Oprah Winfrey In
+2022-09-02T02:03:49+00:00,1108005144,1106803099,0,EverestMachine 4001,The Proud Family,
+2022-11-04T08:02:09+00:00,1119947978,1119918892,0,WannurSyafiqah74,The Proud Family,"/* Episodes */ Content removal: Episode list diesn't mention these webisodes, so I assume it doesn't exist."
+2022-11-18T12:32:47+00:00,1122600496,1122208025,0,可莉琪,The Proud Family,/* Main */
+2023-03-23T14:36:02+00:00,1146223438,1142046309,0,Randy Kryn,The Red Sneakers,See also 'List of basketball films
+2022-08-31T03:54:12+00:00,1107650235,1102284615,0,Ser Amantio di Nicolao,The Red Sneakers,/* External links */add [[Category:2000s American films]]
+2022-12-22T21:36:47+00:00,1128953431,1128438772,0,Llogan79425,Throw Momma from the Train,
+2023-01-07T04:30:06+00:00,1132078876,1129214919,0,76.146.52.19,To Grandmother's House We Go,/* Plot */
+2022-07-14T20:44:19+00:00,1098223947,1096647413,0,Animation231,To Grandmother's House We Go,
+2022-12-24T04:22:25+00:00,1129214919,1118929101,0,Premeditated Chaos,To Grandmother's House We Go,trim plot significantly
+2023-03-23T22:26:51+00:00,1146282052,1146199091,0,2603:7000:A806:6E0A:FC57:E0DC:8983:8617,Tom Hardy,
+2022-11-03T11:08:36+00:00,1119781749,1118404770,0,Nicholas0,Tom Hardy,This is planned to be released in 2023.
+2022-09-15T00:00:05+00:00,1110348903,1110298348,0,2603:9001:7D7F:9CC6:C9EF:C232:212F:46CC,Tom Hardy,/* Film */
+2022-09-24T03:52:48+00:00,1111997416,1111997371,0,Blahwikiblah,Tom Hardy,/* Martial Arts career */
+2022-12-08T10:19:27+00:00,1126255309,1126255050,0,Rennespzn,USA Track & Field,
+2022-06-04T14:55:49+00:00,1091473580,1091468493,0,YMVD,USA Track & Field,2022 USATF Masters Outdoor Championships accepts athletes of 25 years old and older
+2022-10-05T15:12:45+00:00,1114250770,1114249676,0,Tomhubbard,United States Naval Academy,/* Notable alumni */ added JByrne
+2023-02-21T21:33:49+00:00,1140801758,1140801465,0,Chris the speller,United States Naval Academy,punct
+2022-08-08T02:49:35+00:00,1103033647,1103033128,0,BilCat,United States Naval Academy,/* See also */ Removed links already used in article per [[WP:NOTSEEALSO]]
+2022-11-19T19:47:50+00:00,1122793621,1116080222,0,PlainDonut,USA Track & Field,/* External links */  *[https://www.usatf.org/resources/statistics/records/american-records/ USATF American Records]
+2023-03-28T07:06:42+00:00,1146999184,1146733410,0,Editchecker123,University of Southern California,Punctuation cleanups
+2022-10-20T12:44:09+00:00,1117200044,1116561189,0,ReneeWrites,University of Southern California,
+2022-12-27T21:59:11+00:00,1129946569,1127572002,0,Liruqi,University of Southern California,"Fix en wikitable style syntax, src: https://github.com/liruqi/wikipedia/blob/master/wikitable.py"
+2022-10-10T08:31:13+00:00,1115202239,1114921024,0,2603:7000:2143:8500:ACE6:AC85:4386:ABE9,University of Southern California,/* Notable alumni */ add
+2022-11-22T01:19:55+00:00,1123131311,1122438199,0,WikiCleanerBot,University of Southern California,v2.05b - [[User:WikiCleanerBot#T23|Bot T23 CW#558]] - Fix errors for [[WP:WCW|CW project]] (Duplicated reference)
+2023-01-29T18:01:00+00:00,1136298632,1133418964,0,WeLikeCheseborger,University of Southern California,
+2022-10-22T01:39:32+00:00,1117498324,1117497156,0,Mvcg66b3r,WKBD-TV,/* As a CW O&O */
+2022-12-28T04:05:01+00:00,1129997840,1128892156,0,Wcquidditch,WKBD-TV,"per the Manual of Style, [[MOS:CONTRACTION|contractions generally aren't used on Wikipedia]]"
+2023-02-06T06:31:06+00:00,1137746390,1137284408,0,Nathan Obral,WKBD-TV,ibx cleanup and some ce
+2022-11-14T00:13:07+00:00,1121758338,1104494654,0,71.225.88.51,WNEM-TV,
+2022-08-15T09:33:51+00:00,1104494654,1104492739,0,Mvcg66b3r,WNEM-TV,"Reverting edit(s) by [[Special:Contributions/71.13.48.14|71.13.48.14]] ([[User_talk:71.13.48.14|talk]]) to rev. 1091204898 by Jrnnf749nrn: No article, no listing [[w:en:WP:RW|(RW 16.1)]]"
+2023-02-28T12:50:04+00:00,1142089474,1138237863,0,101sirkiwi,What's Happening!!,
+2022-11-07T06:11:02+00:00,1120477628,1118839905,0,2600:6C50:93F:5212:9062:2F82:E066:4BA7,What's Happening!!,/* Series changes */
+2022-08-22T20:48:02+00:00,1106014018,1094827029,0,Premeditated Chaos,What's Happening!!,Removing link(s) [[Wikipedia:Articles for deletion/Mill Creek Entertainment]] closed as delete ([[WP:XFDC#4.0.13|XFDcloser]])
+2022-08-29T04:24:00+00:00,1107276539,1097502289,0,Ser Amantio di Nicolao,Whiteboyz,add [[Category:1990s American films]]
+2023-01-27T13:33:05+00:00,1135886736,1130649188,0,BlueValleys,What's Happening!!,

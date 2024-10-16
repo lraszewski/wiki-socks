@@ -1,0 +1,961 @@
+timestamp,revid,parentid,sock,user,page,message
+2013-02-12T12:02:39+00:00,537860606,537860351,1,Nika1234,Lea Michele,
+2013-02-12T12:00:13+00:00,537860351,537838688,1,Nika1234,Lea Michele,
+2013-02-10T15:50:37+00:00,537555390,536940024,1,Nika1234,Patti LuPone,
+2013-02-08T17:40:05+00:00,537254574,537254398,1,Nika1234,John Gallagher Jr.,/* Personal Life */
+2013-02-08T17:38:58+00:00,537254398,536452063,1,Nika1234,John Gallagher Jr.,/* Personal Life */
+2013-02-07T21:52:34+00:00,537117667,536987481,1,Nika1234,Lea Michele,
+2013-02-07T20:38:18+00:00,537106105,535425919,1,Nika1234,User talk:Nika1234,/* Michele */
+2013-02-07T16:02:27+00:00,537069710,537069551,1,Nika1234,Jonathan Groff,
+2013-02-07T16:01:15+00:00,537069551,537069370,1,Nika1234,Jonathan Groff,
+2013-02-07T15:59:56+00:00,537069370,536637940,1,Nika1234,Jonathan Groff,
+2013-01-28T20:48:19+00:00,535400726,535397227,1,Nika1234,Lea Michele,/* Personal life */
+2013-01-28T20:25:09+00:00,535397227,535389783,1,Nika1234,Lea Michele,/* Personal life */
+2013-01-28T19:37:13+00:00,535389783,535347029,1,Nika1234,Lea Michele,
+2013-01-25T23:37:22+00:00,534906493,534906391,1,Nika1234,Aubrey Dollar,
+2013-01-25T23:36:36+00:00,534906391,534691295,1,Nika1234,Aubrey Dollar,
+2013-01-25T18:01:22+00:00,534862573,534840297,1,Nika1234,Lea Michele,/* Personal life */
+2013-01-25T16:04:37+00:00,534841189,534841096,1,Nika1234,John Gallagher Jr.,/* Personal Life */
+2013-01-25T16:04:06+00:00,534841096,534754286,1,Nika1234,John Gallagher Jr.,/* Personal Life */
+2013-01-25T15:59:35+00:00,534840297,534793207,1,Nika1234,Lea Michele,
+2013-01-24T18:40:54+00:00,534691581,534691152,1,Nika1234,Lea Michele,
+2013-01-24T18:38:01+00:00,534691152,534691083,1,Nika1234,Lea Michele,
+2013-01-24T18:37:28+00:00,534691083,534690532,1,Nika1234,Lea Michele,
+2013-01-24T18:30:07+00:00,534689986,534542031,1,Nika1234,Lea Michele,
+2013-01-24T12:58:26+00:00,534648710,534477781,1,Nika1234,Aubrey Dollar,/* Personal life */
+2013-01-24T12:57:23+00:00,534648609,534648523,1,Nika1234,Jonathan Groff,/* Personal life */
+2013-01-24T12:56:25+00:00,534648523,534500495,1,Nika1234,Jonathan Groff,/* Personal life */
+2013-01-23T20:18:58+00:00,534542031,534541758,1,Nika1234,Lea Michele,
+2013-01-23T20:17:10+00:00,534541758,534541033,1,Nika1234,Lea Michele,
+2013-01-23T15:24:16+00:00,534500495,534175457,1,Nika1234,Jonathan Groff,/* Personal life */
+2013-01-23T15:21:40+00:00,534500177,534481542,1,Nika1234,Lea Michele,
+2013-01-23T15:19:51+00:00,534499932,534482098,1,Nika1234,User talk:Nika1234,/* Michele */
+2013-01-23T12:36:27+00:00,534480412,534479158,1,Nika1234,Lea Michele,
+2013-01-23T12:15:52+00:00,534478639,534476905,1,Nika1234,Lea Michele,
+2013-01-23T12:05:36+00:00,534477781,534477693,1,Nika1234,Aubrey Dollar,
+2013-01-23T12:04:25+00:00,534477693,534003161,1,Nika1234,Aubrey Dollar,
+2013-01-23T12:01:16+00:00,534477436,534175537,1,Nika1234,John Gallagher Jr.,
+2013-01-23T11:54:50+00:00,534476905,534366307,1,Nika1234,Lea Michele,
+2013-01-22T13:51:15+00:00,534328831,534312584,1,Nika1234,Lea Michele,
+2013-01-21T15:57:43+00:00,534177248,534177070,1,Nika1234,Lea Michele,
+2013-01-21T15:56:31+00:00,534177070,534176451,1,Nika1234,Lea Michele,
+2013-01-21T15:52:20+00:00,534176451,534173567,1,Nika1234,Lea Michele,
+2013-01-21T11:56:29+00:00,534150751,534150647,1,Nika1234,Jonathan Groff,
+2013-01-21T11:55:36+00:00,534150647,534149560,1,Nika1234,Jonathan Groff,
+2012-12-22T23:04:59+00:00,529355271,529355162,1,Nika1234,Jonathan Groff,
+2012-12-22T23:03:58+00:00,529355162,529341976,1,Nika1234,Jonathan Groff,
+2012-12-22T21:31:43+00:00,529341976,529324758,1,Nika1234,Jonathan Groff,
+2012-12-22T19:45:33+00:00,529323763,529320297,1,Nika1234,Jonathan Groff,
+2012-12-22T19:22:31+00:00,529320297,529319997,1,Nika1234,Jonathan Groff,
+2012-12-22T19:20:06+00:00,529319997,529319763,1,Nika1234,Jonathan Groff,
+2012-12-22T19:18:06+00:00,529319763,529319314,1,Nika1234,Jonathan Groff,
+2012-12-22T19:14:46+00:00,529319314,529318377,1,Nika1234,Jonathan Groff,
+2012-12-22T19:07:31+00:00,529318377,528811997,1,Nika1234,Jonathan Groff,
+2012-12-22T13:30:47+00:00,529274692,528389088,1,Nika1234,John Gallagher Jr.,/* Personal Life */
+2013-05-18T14:25:15+00:00,555651244,555392475,1,SpockKirkShipper,Jonathan Groff,
+2013-05-18T14:23:32+00:00,555651047,555650868,1,SpockKirkShipper,Lea Michele,
+2013-05-18T14:20:27+00:00,555650712,555494496,1,SpockKirkShipper,Lea Michele,
+2013-07-21T13:07:37+00:00,565185222,564724706,1,Sweetkiss1234,Glee season 4,
+2013-07-21T13:06:57+00:00,565185176,555453994,1,Sweetkiss1234,Glee season 3,
+2013-07-21T13:05:58+00:00,565185085,556683532,1,Sweetkiss1234,Glee season 2,
+2013-07-21T13:04:44+00:00,565184999,564618071,1,Sweetkiss1234,Glee season 1,
+2013-07-21T12:58:51+00:00,565184530,548673322,1,Sweetkiss1234,Tiffany Butcher,
+2013-07-21T12:56:14+00:00,565184315,563866662,1,Sweetkiss1234,Samantha Womack,
+2013-07-21T12:54:18+00:00,565184158,563578426,1,Sweetkiss1234,Ronnie Mitchell,
+2013-07-21T12:50:33+00:00,565183847,556548284,1,Sweetkiss1234,Rita Simons,
+2013-07-21T12:48:56+00:00,565183708,564967757,1,Sweetkiss1234,Roxy Mitchell,
+2013-07-21T12:44:13+00:00,565183287,565182657,1,Sweetkiss1234,Heather Morris,
+2013-07-21T12:43:39+00:00,565183237,565182609,1,Sweetkiss1234,Brittany Pierce,
+2013-07-21T12:41:58+00:00,565183094,565183032,1,Sweetkiss1234,Quinn Fabray,
+2013-07-21T12:41:13+00:00,565183032,564584213,1,Sweetkiss1234,Quinn Fabray,
+2013-07-21T12:39:53+00:00,565182916,565140234,1,Sweetkiss1234,Dianna Agron,
+2013-07-21T12:38:37+00:00,565182812,564864244,1,Sweetkiss1234,Santana Lopez,
+2013-07-21T12:37:59+00:00,565182763,564988874,1,Sweetkiss1234,Naya Rivera,
+2013-07-21T12:36:45+00:00,565182657,565179249,1,Sweetkiss1234,Heather Morris,
+2013-07-21T12:36:14+00:00,565182609,565182589,1,Sweetkiss1234,Brittany Pierce,
+2013-07-21T12:35:57+00:00,565182589,564373650,1,Sweetkiss1234,Brittany Pierce,
+2013-07-21T12:34:07+00:00,565182452,564656276,1,Sweetkiss1234,Lea Michele,
+2013-07-21T12:33:32+00:00,565182405,564497089,1,Sweetkiss1234,Rachel Berry,
+2013-07-21T12:27:00+00:00,565181907,565163958,1,Sweetkiss1234,The Dumping Ground series 2,
+2013-07-21T12:24:50+00:00,565181689,565181333,1,Sweetkiss1234,List of EastEnders characters (2013),/* Jake Stone */
+2013-07-21T12:20:31+00:00,565181333,565181236,1,Sweetkiss1234,List of EastEnders characters (2013),/* Jake Stone */
+2013-07-21T12:19:27+00:00,565181236,565181192,1,Sweetkiss1234,List of EastEnders characters (2013),/* Jake Stone */
+2013-07-21T12:19:03+00:00,565181192,565181128,1,Sweetkiss1234,List of EastEnders characters (2013),/* Sadie Young */
+2013-07-21T12:18:30+00:00,565181128,564771792,1,Sweetkiss1234,List of EastEnders characters (2013),/* Nora White */
+2013-07-21T12:17:31+00:00,565181015,564936515,1,Sweetkiss1234,List of EastEnders characters,/* Future characters */
+2013-07-21T11:07:49+00:00,565173893,565173703,1,Sweetkiss1234,Cory Monteith,
+2013-07-21T11:06:06+00:00,565173703,565005276,1,Sweetkiss1234,Cory Monteith,
+2013-07-18T17:39:59+00:00,564817962,564333743,1,Sweetkiss1234,Vanessa Hudgens,
+2013-07-17T07:12:26+00:00,564620840,562507943,1,Sweetkiss1234,Jonathan Groff,/* Personal life */
+2013-07-17T07:11:20+00:00,564620765,564619169,1,Sweetkiss1234,Lea Michele,/* Personal life */
+2013-07-17T06:50:06+00:00,564619248,564251366,1,Sweetkiss1234,Naya Rivera,/* Personal life */
+2013-07-17T06:48:55+00:00,564619169,564459623,1,Sweetkiss1234,Lea Michele,
+2013-07-16T19:59:08+00:00,564555160,564555127,1,Sweetkiss1234,Will Schuester,
+2013-07-16T19:58:48+00:00,564555127,563152403,1,Sweetkiss1234,Will Schuester,
+2013-07-16T19:58:11+00:00,564555040,564227528,1,Sweetkiss1234,Matthew Morrison,
+2013-07-16T19:53:51+00:00,564554459,563884488,1,Sweetkiss1234,Blaine Anderson,
+2013-07-16T19:52:49+00:00,564554324,564301682,1,Sweetkiss1234,Kurt Hummel,
+2013-07-16T19:50:01+00:00,564553934,564482180,1,Sweetkiss1234,Tina Cohen-Chang,
+2013-07-16T19:48:12+00:00,564553682,564553592,1,Sweetkiss1234,Quinn Fabray,
+2013-07-16T19:47:32+00:00,564553592,564514821,1,Sweetkiss1234,Quinn Fabray,
+2013-07-16T19:45:50+00:00,564553361,564553287,1,Sweetkiss1234,Glee season 5,
+2013-07-16T19:45:18+00:00,564553287,564550582,1,Sweetkiss1234,Glee season 5,/* Episodes */
+2013-07-16T19:36:39+00:00,564552229,564486644,1,Sweetkiss1234,List of Dancing on Ice professional skaters,/* Brianne Delcourt */
+2013-07-16T19:35:40+00:00,564552103,561064584,1,Sweetkiss1234,Matt Lapinskas,
+2013-07-16T19:33:27+00:00,564551823,563970057,1,Sweetkiss1234,Shona McGarty,
+2013-07-16T19:32:19+00:00,564551685,560338127,1,Sweetkiss1234,Jacqueline Jossa,
+2013-07-16T19:30:08+00:00,564551414,556789865,1,Sweetkiss1234,List of EastEnders characters (2009),/* George Trott */
+2013-07-16T19:23:31+00:00,564550608,564359991,1,Sweetkiss1234,According to Jim,
+2013-07-16T07:04:00+00:00,564470978,564267692,1,Sweetkiss1234,Rachel Berry,
+2013-07-16T07:01:29+00:00,564470773,563847573,1,Sweetkiss1234,Mike Chang,
+2013-07-16T07:00:42+00:00,564470711,564470606,1,Sweetkiss1234,Mercedes Jones,
+2013-07-16T06:59:21+00:00,564470606,562147635,1,Sweetkiss1234,Mercedes Jones,
+2013-07-16T06:57:40+00:00,564470483,564470097,1,Sweetkiss1234,Cory Monteith,
+2013-07-16T06:57:12+00:00,564470449,564360500,1,Sweetkiss1234,Finn Hudson,
+2013-07-16T06:56:11+00:00,564470349,562147585,1,Sweetkiss1234,Puck (Glee),
+2013-07-16T06:54:36+00:00,564470225,564291264,1,Sweetkiss1234,Quinn Fabray,
+2013-07-16T06:50:28+00:00,564469920,564454371,1,Sweetkiss1234,Glee season 5,/* Production */
+2013-07-15T14:22:41+00:00,564365013,564267815,1,Sweetkiss1234,Brittany Pierce,
+2013-07-15T14:22:10+00:00,564364960,564301584,1,Sweetkiss1234,Heather Morris,
+2013-07-15T14:20:36+00:00,564364786,564302518,1,Sweetkiss1234,Santana Lopez,
+2013-07-15T14:18:04+00:00,564364502,564345145,1,Sweetkiss1234,Cory Monteith,/* Personal life */
+2013-07-15T14:17:04+00:00,564364374,564363737,1,Sweetkiss1234,Lea Michele,/* Personal life */
+2013-07-15T14:15:07+00:00,564364166,564354358,1,Sweetkiss1234,Selena Gomez,
+2013-07-15T14:13:38+00:00,564363973,564327288,1,Sweetkiss1234,Katherine Pierce,
+2013-07-15T14:11:48+00:00,564363737,564267655,1,Sweetkiss1234,Lea Michele,/* Personal life */
+2013-07-15T14:09:46+00:00,564363469,564273732,1,Sweetkiss1234,Bella Thorne,
+2013-07-15T07:07:48+00:00,564328000,562975873,1,Sweetkiss1234,Hermione Granger,
+2013-07-15T07:01:06+00:00,564327469,564327404,1,Sweetkiss1234,Candice King,
+2013-07-15T07:00:28+00:00,564327404,564311061,1,Sweetkiss1234,Candice King,
+2013-07-15T06:58:45+00:00,564327288,564213221,1,Sweetkiss1234,Katherine Pierce,
+2013-07-15T06:47:06+00:00,564326312,562216647,1,Sweetkiss1234,Vanessa Hudgens,
+2013-07-15T06:45:37+00:00,564326168,545641137,1,Sweetkiss1234,List of High School Musical characters,/* Gabriella Montez */
+2013-07-15T06:42:26+00:00,564325904,564109775,1,Sweetkiss1234,Nina Dobrev,
+2013-07-14T19:59:14+00:00,564266843,564266807,1,Sweetkiss1234,Brittany Pierce,
+2013-07-14T19:58:52+00:00,564266807,562149628,1,Sweetkiss1234,Brittany Pierce,
+2013-07-14T19:57:55+00:00,564266706,564266673,1,Sweetkiss1234,Heather Morris,
+2013-07-14T19:57:36+00:00,564266673,564147837,1,Sweetkiss1234,Heather Morris,
+2013-07-14T19:52:40+00:00,564266147,564264766,1,Sweetkiss1234,Rachel Berry,
+2013-07-14T19:52:08+00:00,564266090,564264190,1,Sweetkiss1234,Lea Michele,
+2013-07-14T19:37:42+00:00,564264455,564226564,1,Sweetkiss1234,Rachel Berry,
+2013-07-14T19:30:16+00:00,564263521,564263236,1,Sweetkiss1234,Cory Monteith,
+2013-07-14T19:26:02+00:00,564262979,564261056,1,Sweetkiss1234,Cory Monteith,
+2013-07-14T19:22:06+00:00,564262422,564242073,1,Sweetkiss1234,Lea Michele,
+2013-07-14T19:21:18+00:00,564262295,562311111,1,Sweetkiss1234,Quinn Fabray,
+2013-07-14T19:15:54+00:00,564261557,564253048,1,Sweetkiss1234,Glee (TV series),
+2013-07-14T19:10:09+00:00,564260922,564252731,1,Sweetkiss1234,List of Waterloo Road characters (series 1),/* Tom Clarkson */
+2013-07-14T19:06:12+00:00,564260489,564260232,1,Sweetkiss1234,List of Waterloo Road characters,/* Future characters */
+2013-07-14T19:03:46+00:00,564260232,564260173,1,Sweetkiss1234,List of Waterloo Road characters,
+2013-07-14T19:03:15+00:00,564260173,564236117,1,Sweetkiss1234,List of Waterloo Road characters,
+2013-07-14T17:15:03+00:00,564247504,564244419,1,Sweetkiss1234,Glee (TV series),
+2013-07-14T10:40:38+00:00,564210456,564203444,1,Sweetkiss1234,Glee season 5,
+2013-07-14T10:33:03+00:00,564209919,564209010,1,Sweetkiss1234,Finn Hudson,
+2013-07-14T10:23:18+00:00,564209226,564209117,1,Sweetkiss1234,Lea Michele,
+2013-07-14T10:22:33+00:00,564209168,564209099,1,Sweetkiss1234,Cory Monteith,
+2013-07-14T10:21:44+00:00,564209099,564207809,1,Sweetkiss1234,Cory Monteith,
+2013-07-14T10:20:12+00:00,564209010,564207116,1,Sweetkiss1234,Finn Hudson,
+2013-07-11T19:42:18+00:00,563859349,563859300,1,Sweetkiss1234,Waterloo Road series 9,
+2013-07-11T19:41:55+00:00,563859300,563667403,1,Sweetkiss1234,Waterloo Road series 9,
+2013-07-11T19:37:38+00:00,563858689,562680079,1,Sweetkiss1234,Poppy Meadow,
+2013-07-11T19:30:11+00:00,563857716,563857657,1,Sweetkiss1234,Heather Morris,/* Personal life */
+2013-07-11T19:29:41+00:00,563857657,563685679,1,Sweetkiss1234,Heather Morris,/* Personal life */
+2013-07-11T19:24:39+00:00,563857091,545781309,1,Sweetkiss1234,Mark Womack,
+2013-07-11T19:23:30+00:00,563856944,563856901,1,Sweetkiss1234,List of EastEnders characters,/* {{anchor|Recurring characters}}Recurring and guest characters */
+2013-07-11T19:23:10+00:00,563856901,563856743,1,Sweetkiss1234,List of EastEnders characters,/* Named extras */
+2013-07-11T19:22:04+00:00,563856743,563856493,1,Sweetkiss1234,List of EastEnders characters,/* Present characters */
+2013-07-11T19:19:55+00:00,563856493,563534316,1,Sweetkiss1234,List of EastEnders characters,/* Future characters */
+2013-07-11T19:19:25+00:00,563856441,562369235,1,Sweetkiss1234,Samantha Womack,
+2013-07-11T19:16:17+00:00,563856061,563830636,1,Sweetkiss1234,Anna Wing,
+2013-07-10T19:49:21+00:00,563711293,562485659,1,Sweetkiss1234,List of Wizards of Waverly Place characters,/* Harper Finkle */
+2013-07-10T15:51:35+00:00,563681891,563681831,1,Sweetkiss1234,Demi Lovato,
+2013-07-10T15:51:05+00:00,563681831,563681752,1,Sweetkiss1234,Demi Lovato,
+2013-07-10T15:50:30+00:00,563681752,563114738,1,Sweetkiss1234,Demi Lovato,
+2013-07-10T15:46:32+00:00,563681273,563680658,1,Sweetkiss1234,Good Luck Charlie,/* Casting */
+2013-07-10T15:41:36+00:00,563680658,563471651,1,Sweetkiss1234,Good Luck Charlie,
+2013-07-10T15:34:53+00:00,563679880,563678292,1,Sweetkiss1234,According to Jim,
+2013-07-10T15:21:59+00:00,563678292,563676253,1,Sweetkiss1234,According to Jim,/* Cast */
+2013-07-10T15:13:24+00:00,563677313,563677251,1,Sweetkiss1234,Billi Bruno,/* Personal life */
+2013-07-10T15:12:45+00:00,563677251,546880022,1,Sweetkiss1234,Billi Bruno,
+2013-07-10T15:04:32+00:00,563676253,563676224,1,Sweetkiss1234,According to Jim,/* Synopsis */
+2013-07-10T15:04:12+00:00,563676224,563676139,1,Sweetkiss1234,According to Jim,
+2013-07-10T15:03:35+00:00,563676139,562684829,1,Sweetkiss1234,According to Jim,/* Synopsis */
+2013-07-10T15:00:53+00:00,563675833,563536391,1,Sweetkiss1234,Dianna Agron,
+2013-07-10T15:00:27+00:00,563675768,563675613,1,Sweetkiss1234,Riley Keough,
+2013-07-10T14:58:53+00:00,563675613,563247928,1,Sweetkiss1234,Riley Keough,/* Personal life */
+2013-07-10T14:57:34+00:00,563675481,563385285,1,Sweetkiss1234,Robert Pattinson,
+2013-07-10T14:56:31+00:00,563675363,563355072,1,Sweetkiss1234,Kristen Stewart,
+2013-07-10T14:52:28+00:00,563674895,563674768,1,Sweetkiss1234,Shay Mitchell,/* Personal life */
+2013-07-10T14:51:25+00:00,563674768,563623081,1,Sweetkiss1234,Shay Mitchell,
+2013-07-10T14:43:43+00:00,563673826,563438064,1,Sweetkiss1234,Ashley Benson,/* Personal life */
+2013-07-10T14:42:10+00:00,563673635,562769963,1,Sweetkiss1234,Gregg Sulkin,
+2013-07-10T14:39:49+00:00,563673377,562435010,1,Sweetkiss1234,Alex Russo,
+2013-07-10T14:38:08+00:00,563673193,563672236,1,Sweetkiss1234,Selena Gomez,
+2013-07-10T14:25:48+00:00,563671897,563607248,1,Sweetkiss1234,Selena Gomez,
+2013-07-09T16:11:05+00:00,563540432,563540268,1,Sweetkiss1234,Zendaya,/* Personal life */
+2013-07-09T16:09:31+00:00,563540268,559870261,1,Sweetkiss1234,Zendaya,
+2013-07-09T16:09:00+00:00,563540209,561428279,1,Sweetkiss1234,Bella Thorne,/* Personal life */
+2013-07-09T15:08:58+00:00,563533038,563476490,1,Sweetkiss1234,Naya Rivera,
+2013-07-09T15:07:41+00:00,563532878,563532816,1,Sweetkiss1234,Finn Hudson,
+2013-07-09T15:07:15+00:00,563532816,556770356,1,Sweetkiss1234,Finn Hudson,
+2013-07-09T15:03:46+00:00,563532423,563494858,1,Sweetkiss1234,Dianna Agron,
+2013-07-09T14:32:24+00:00,563528685,563513962,1,Sweetkiss1234,List of EastEnders characters,/* Returning characters */
+2013-07-08T19:25:43+00:00,563417511,563287376,1,Sweetkiss1234,List of EastEnders characters (2012),/* Kirsty Branning */
+2013-07-08T19:24:42+00:00,563417380,562167519,1,Sweetkiss1234,Max Branning,
+2013-07-08T19:19:25+00:00,563416732,563416634,1,Sweetkiss1234,Blake Jenner,/* Personal life */
+2013-07-08T19:18:41+00:00,563416634,563321999,1,Sweetkiss1234,Blake Jenner,
+2013-07-08T19:17:23+00:00,563416472,563293939,1,Sweetkiss1234,Melissa Benoist,/* Personal life */
+2013-07-08T19:14:02+00:00,563416010,563360079,1,Sweetkiss1234,Whitney Dean,
+2013-07-08T19:12:43+00:00,563415853,563240865,1,Sweetkiss1234,Scarlett Bowman,
+2013-07-08T19:10:58+00:00,563415628,563245465,1,Sweetkiss1234,Daniel Radcliffe,
+2013-07-08T19:10:23+00:00,563415554,563314483,1,Sweetkiss1234,Emma Watson,
+2013-07-08T19:09:39+00:00,563415458,563192416,1,Sweetkiss1234,Rupert Grint,/* Personal life */
+2013-07-08T19:07:39+00:00,563415222,563106953,1,Sweetkiss1234,Lynsey Nolan,
+2013-07-07T17:46:04+00:00,563263705,563164009,1,Sweetkiss1234,List of Shake It Up episodes,
+2013-07-06T13:17:14+00:00,563106953,562605867,1,Sweetkiss1234,Lynsey Nolan,
+2013-07-06T13:16:49+00:00,563106922,563035581,1,Sweetkiss1234,List of former Hollyoaks characters,/* Last appeared in 2013 */
+2013-07-06T13:14:12+00:00,563106672,562391379,1,Sweetkiss1234,List of Hollyoaks characters,/* Upcoming and returning characters */
+2013-07-06T13:04:50+00:00,563105878,563105844,1,Sweetkiss1234,Kat Dennings,
+2013-07-06T13:04:29+00:00,563105844,560147078,1,Sweetkiss1234,Kat Dennings,
+2013-07-06T13:03:15+00:00,563105737,561738309,1,Sweetkiss1234,Nick Zano,
+2013-07-06T13:01:38+00:00,563105559,563105502,1,Sweetkiss1234,Haylie Duff,
+2013-07-06T13:01:06+00:00,563105502,563105050,1,Sweetkiss1234,Haylie Duff,
+2013-07-06T12:58:58+00:00,563105244,562575615,1,Sweetkiss1234,Mike Comrie,
+2013-07-06T12:57:23+00:00,563105050,563104999,1,Sweetkiss1234,Haylie Duff,
+2013-07-06T12:56:56+00:00,563104999,562654099,1,Sweetkiss1234,Haylie Duff,
+2013-07-06T12:56:22+00:00,563104935,563019005,1,Sweetkiss1234,Hilary Duff,
+2013-06-30T18:00:21+00:00,562276241,562202081,1,Sweetkiss1234,Melissa Benoist,/* Filmography */
+2013-06-29T19:10:56+00:00,562147923,562147501,1,Sweetkiss1234,Brittany Pierce,
+2013-07-10T16:06:42+00:00,563683702,563679880,0,AussieLegend,According to Jim,"we use the intertitle in the infobox, not the cast photo"
+2013-02-27T10:18:17+00:00,540902050,540152804,0,Paul venter,According to Jim,/* Cast */
+2013-05-17T13:52:16+00:00,555513377,555513259,0,175.156.159.156,According to Jim,/* Syndication */
+2013-03-04T14:51:08+00:00,542052133,542051757,0,69.155.142.45,According to Jim,/* Cast */
+2013-01-05T15:03:37+00:00,531455168,528204305,0,Ben76266,According to Jim,/* U.S. television ratings */
+2013-03-21T22:01:04+00:00,546098268,545129655,0,108.236.233.16,Alex Russo,
+2013-03-24T12:33:33+00:00,546723324,546583545,0,82.30.29.154,According to Jim,/* Cast */
+2013-02-02T07:42:03+00:00,536152282,533703103,0,71.237.208.127,According to Jim,
+2013-05-04T15:31:18+00:00,553499582,544592524,0,70.174.130.70,Anna Wing,/* Career */
+2012-12-15T20:34:00+00:00,528204305,528067699,0,SporkBot,According to Jim,Replace template per [[Wikipedia:Templates for discussion/Log/2012 November 27|TFD outcome]]; no change in content
+2013-02-27T11:31:54+00:00,540915737,536633490,0,Addbot,Aubrey Dollar,"[[User:Addbot|Bot:]] Migrating 5 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q454272]] ([[User talk:Addbot|Report Errors]])"
+2013-01-18T15:32:06+00:00,533703103,532739217,0,41.133.40.149,According to Jim,
+2013-04-22T21:40:19+00:00,551698975,551086992,0,96.237.232.70,Alex Russo,
+2013-03-07T10:19:40+00:00,542557961,530982432,0,Addbot,Anna Wing,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2352199]]"
+2013-03-12T03:25:58+00:00,543557331,543478319,0,Matthew Cantrell,According to Jim,
+2013-05-12T17:30:08+00:00,554758735,554725131,0,The Devil's Advocate,Ashley Benson,/* Career */  stylistic adjustments
+2013-07-13T18:08:22+00:00,564130243,564130195,0,108.197.77.170,Ashley Benson,/* Personal life */
+2013-02-05T03:36:38+00:00,536633490,535063640,0,Johnpacklambert,Aubrey Dollar,/* External links */ +Actress cats
+2013-02-23T02:35:02+00:00,539831437,539671099,0,QuasyBoy,Bella Thorne,/* External links */ actress
+2013-05-29T08:23:52+00:00,557310397,556666031,0,Captain Assassin!,Bella Thorne,Blended (film)
+2012-11-16T08:27:44+00:00,523292771,521751129,0,VIAFbot,Aubrey Dollar,Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 56568419: http://viaf.org/viaf/56568419 . Please [[WP:VIAF/errors|report any errors]].
+2012-12-11T04:33:34+00:00,527473384,526748078,0,Joefromrandb,Billi Bruno,rm overlinking
+2013-03-25T09:38:04+00:00,546880022,546879990,0,82.30.29.154,Billi Bruno,
+2013-06-05T01:15:57+00:00,558374601,558355105,0,BlueMoonset,Blaine Anderson,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/173.70.187.103|173.70.187.103]] ([[User talk:173.70.187.103|talk]]): We have no idea why the judges put New Directions in first; to say it was due to ""All or Nothing"" is invalid. ([[WP:TW|..."
+2013-01-13T11:02:56+00:00,532845674,532845651,0,And we drown,Blake Jenner,added [[Category:21st-century actors]] using [[WP:HC|HotCat]]
+2013-04-12T04:40:46+00:00,549955977,549955913,0,Zac zac03,Bella Thorne,/* Filmography */
+2012-12-24T04:42:44+00:00,529538681,529521500,0,BlueMoonset,Blaine Anderson,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/69.248.130.96|69.248.130.96]] ([[User talk:69.248.130.96|talk]]): Header shouldn't be added until some material is added that fits. ([[WP:TW|TW]])
+2013-04-21T03:12:27+00:00,551400118,551218306,0,92.2.217.75,Blake Jenner,/* Life and career */
+2013-02-03T23:35:24+00:00,536432497,536409117,0,SuperAlpaca,Blake Jenner,
+2013-06-01T18:45:20+00:00,557867501,557851333,0,Robin,Blake Jenner,Undid revision 557851333 by [[Special:Contributions/Lasheagurl|Lasheagurl]] ([[User talk:Lasheagurl|talk]]) source?
+2013-02-26T12:20:37+00:00,540600207,539942441,0,Addbot,Brittany Pierce,"[[User:Addbot|Bot:]] Migrating 6 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2707650]] ([[User talk:Addbot|Report Errors]])"
+2013-06-29T19:26:45+00:00,562149628,562147923,0,Robin,Brittany Pierce,Undid revision 562147923 by [[Special:Contributions/Sweetkiss1234|Sweetkiss1234]] ([[User talk:Sweetkiss1234|talk]]) [[WP:CRYSTAL]]
+2013-06-11T20:43:25+00:00,559445756,559444983,0,Robin,Brittany Pierce,
+2012-12-16T18:54:15+00:00,528344592,528339828,0,BlueMoonset,Brittany Pierce,it's not clear that they are still formally engaged; best to leave them at significant for the moment (and leave the comment alone!)
+2013-05-19T06:10:39+00:00,555750465,555175566,0,50.11.89.168,Brittany Pierce,
+2013-02-06T17:03:04+00:00,536904156,536877802,0,BlueMoonset,Brittany Pierce,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/82.30.29.154|82.30.29.154]] ([[User talk:82.30.29.154|talk]]): Duplicating a picture, and adding an incorrect caption, are both frowned upon; reverting. ([[WP:TW|TW]])"
+2013-01-14T13:47:39+00:00,533031418,533019889,0,BlueMoonset,Brittany Pierce,Undid revision 533019889 by [[Special:Contributions/82.30.29.154|82.30.29.154]] ([[User talk:82.30.29.154|talk]])
+2013-06-02T17:07:25+00:00,557997399,557980529,0,62.107.40.24,Candice King,/* Personal life */
+2013-03-25T20:50:22+00:00,546966803,546871116,0,216.45.144.140,Candice King,/* Personal life */
+2013-05-18T11:29:14+00:00,555636351,555341237,0,Hullaballoo Wolfowitz,Candice King,/* Personal life */ unsourced gossip
+2013-06-19T17:43:53+00:00,560636127,560636068,0,63.92.231.105,Cory Monteith,/* Career */
+2013-05-11T10:08:00+00:00,554570231,554477726,0,84.157.1.172,Cory Monteith,/* Early life */
+2013-04-17T01:49:33+00:00,550738460,550734003,0,The Devil's Advocate,Cory Monteith,Reverted 1 edit by [[Special:Contributions/71.191.95.5|71.191.95.5]] ([[User talk:71.191.95.5|talk]]): Cats are added based on whether it is a notable aspect of that indivdual. ([[WP:TW|TW]])
+2013-02-04T21:41:07+00:00,536586937,536526074,0,Robin,Cory Monteith,Undid revision 536526074 by [[Special:Contributions/Kmje|Kmje]] ([[User talk:Kmje|talk]])unexplained
+2013-04-27T18:07:48+00:00,552449910,552446621,0,Bbb23,Cory Monteith,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Humsafarforever|Humsafarforever]] ([[User talk:Humsafarforever|talk]]) to last version by BlueMoonset
+2013-02-02T15:25:16+00:00,536197365,536190588,0,Robin,Cory Monteith,Undid revision 536190588 by [[Special:Contributions/Kmje|Kmje]] ([[User talk:Kmje|talk]])unexplained rmv
+2013-01-22T15:49:47+00:00,534342454,534312661,0,Rvir0522,Cory Monteith,Reverted 2 edits by [[Special:Contributions/82.30.29.154|82.30.29.154]] ([[User talk:82.30.29.154|talk]]). ([[WP:TW|TW]])
+2013-05-20T01:23:55+00:00,555876064,553533028,0,Robert4565,Daniel Radcliffe,
+2013-01-09T13:22:55+00:00,532175527,532174032,0,Cst17,Cory Monteith,Reverted addition of unsourced content and/or unexplained removal of content ([[WP:HG|HG]])
+2013-02-15T15:46:02+00:00,538414977,538388975,0,BlueMoonset,Cory Monteith,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2.120.116.242|2.120.116.242]] ([[User talk:2.120.116.242|talk]]): Attempted infobox image change did not work; reverting to visible picture. ([[WP:TW|TW]])
+2013-02-27T02:25:43+00:00,540813599,540734880,0,Paul Erik,Cory Monteith,Undid revision 540734880 by [[Special:Contributions/86.174.38.242|86.174.38.242]] ([[User talk:86.174.38.242|talk]]) revert unexplained image removal
+2013-03-25T07:27:28+00:00,546869475,546817846,0,Kmje,Cory Monteith,/* Personal Life */
+2013-03-01T02:25:13+00:00,541395329,541394472,0,RealGrayLogan,Daniel Radcliffe,/* Theatre */
+2013-03-03T12:02:46+00:00,541879604,541879214,0,Nymf,Cory Monteith,Reverted 2 edits by [[Special:Contributions/92.30.84.185|92.30.84.185]] ([[User talk:92.30.84.185|talk]]): Dating != partner. using	[[WP:TW|TW]]
+2013-02-11T19:09:04+00:00,537748222,537746555,0,Kww,Cory Monteith,Undid revision 537746555 by [[Special:Contributions/Robin|Robin]] ([[User talk:Robin|talk]])celebrity gossip
+2013-02-14T22:14:01+00:00,538300672,538297922,0,3193th,Demi Lovato,
+2013-06-06T06:45:30+00:00,558563298,558494164,0,Thevampireashlee,Demi Lovato,added [[Category:Synthpop musicians]] using [[WP:HC|HotCat]]
+2012-12-29T07:52:10+00:00,530264082,530127841,0,Paparazzzi,Demi Lovato,/* 2009–10: Here We Go Again and Demi Lovato Live in Concert */
+2013-01-30T23:53:48+00:00,535776671,535775208,0,Geraldo Perez,Demi Lovato,Reverted 1 edit by [[Special:Contributions/Justinhu8|Justinhu8]] ([[User talk:Justinhu8|talk]]): Read the note and discuss image changes on talk page first. ([[WP:TW|TW]])
+2013-03-16T18:11:09+00:00,544702263,544685669,0,WikiRedactor,Demi Lovato,"Referencing and rewrite complete! Removal of construction template, as the major changes are finished."
+2013-04-01T16:20:48+00:00,548166700,548166443,0,121.54.32.151,Dianna Agron,/* Other works */
+2013-07-03T09:08:03+00:00,562666364,562664151,0,Yintan,Dianna Agron,[[Help:Reverting|Reverted]] 2 [[Wikipedia:Pending changes|pending]] edits by [[Special:Contributions/62.198.162.155|62.198.162.155]] to revision 562134278 by Monkelese
+2013-04-07T21:05:29+00:00,549216014,548809693,0,Zac zac03,Demi Lovato,/* Filmography */
+2013-05-13T11:38:39+00:00,554871833,554515090,0,67.49.146.54,Dianna Agron,/* Early life */
+2013-02-26T01:15:12+00:00,540430987,535909629,0,Addbot,Finn Hudson,"[[User:Addbot|Bot:]] Migrating 8 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2306010]] ([[User talk:Addbot|Report Errors]])"
+2013-05-16T09:38:54+00:00,555342500,555338642,0,Smtchahal,Dianna Agron,Rejected the last text change (by [[Special:Contributions/37.128.216.233|37.128.216.233]]) and restored revision 554871833 by 67.49.146.54: Needs source per [[WP:BLP]].
+2013-05-10T23:03:06+00:00,554515090,554376844,0,189.218.127.150,Dianna Agron,/* External links */
+2013-01-04T03:25:41+00:00,531202975,531189784,0,Moonraker,Emma Watson,misc. - school life is not personal life
+2013-07-14T16:13:40+00:00,564240450,564182061,0,69.179.38.94,Dianna Agron,/* 2009–present: Glee */ Correction of two typos.
+2013-03-20T23:46:21+00:00,545815592,545797284,0,MisterMorton,Emma Watson,
+2013-01-18T20:01:34+00:00,533740633,529766002,0,Robin,Finn Hudson,/* Critical response */ unsourced
+2012-12-25T23:33:32+00:00,529766002,529764450,0,Widr,Finn Hudson,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/201.254.69.149|201.254.69.149]] ([[User talk:201.254.69.149|talk]]) to last version by BlueMoonset
+2013-05-25T19:49:47+00:00,556770356,556770296,0,Lugia2453,Finn Hudson,Reverted edits by [[Special:Contributions/72.129.94.150|72.129.94.150]] ([[User talk:72.129.94.150|talk]]) to last revision by BlueMoonset ([[WP:HG|HG]])
+2013-04-19T02:07:59+00:00,551070007,548499886,0,75.168.18.39,Finn Hudson,
+2013-05-06T14:15:01+00:00,553782652,551070007,0,Zythe,Finn Hudson,
+2013-01-31T20:08:18+00:00,535909629,535906556,0,Robin,Finn Hudson,Undid revision 535906556 by [[Special:Contributions/86.149.83.95|86.149.83.95]] ([[User talk:86.149.83.95|talk]]) vandalism
+2013-01-12T06:52:04+00:00,532662183,532662139,0,Vacation9,Glee (TV series),Reverted edits by [[Special:Contributions/FIGI9264876987|FIGI9264876987]] ([[User talk:FIGI9264876987|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])
+2013-06-28T21:09:17+00:00,562022558,562019544,0,The Devil's Advocate,Glee (TV series),copy-edit
+2013-03-08T04:36:16+00:00,542749630,542146537,0,66.87.2.128,Glee (TV series),
+2013-05-17T02:24:41+00:00,555453994,553371025,0,Jmg38,Glee season 3,"Story arc is built around the club's preparation for and advancement at competitions, so add the competition milestones to the lead."
+2013-05-25T04:21:02+00:00,556683532,556683166,0,177.224.37.65,Glee season 2,/* Episodes */
+2012-12-12T04:02:17+00:00,527650135,527649807,0,BlueMoonset,Glee season 1,/* Cast */ make image a little larger so you can see all eight
+2013-03-26T12:33:22+00:00,547057500,547029401,0,Boomshadow,Glee (TV series),[[Help:Reverting|Reverted]] edits by [[Special:Contributions/123.243.252.72|123.243.252.72]] ([[User talk:123.243.252.72|talk]]) to last version by Chartbot
+2013-04-22T01:11:31+00:00,551553327,551516996,0,BlueMoonset,Glee season 2,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2602:30b:824e:4f89:e17c:e429:3845:3ab|2602:30b:824e:4f89:e17c:e429:3845:3ab]] ([[User talk:2602:30b:824e:4f89:e17c:e429:3845:3ab|talk]]): Reverting unclear addition. ([[WP:TW|TW]])
+2013-05-28T08:46:01+00:00,557141750,557141741,0,ClueBot NG,Glee season 4,"Reverting possible vandalism by [[Special:Contributions/MushLakos|MushLakos]] to version by JDDJS. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1653239) (Bot)"
+2013-06-27T00:43:20+00:00,561752763,555453972,0,ChrisGualtieri,Glee season 1,General Fixes + MOS + MDY changes using [[Project:AWB|AWB]]
+2013-07-18T00:59:26+00:00,564724706,564718115,0,86.173.125.96,Glee season 4,/* Episodes */
+2013-05-13T12:57:38+00:00,554880814,551181205,0,110.32.174.74,Glee season 5,[[WP:AES|←]]Redirected page to [[List of Glee episodes#Season 5 (2013–14)]]
+2013-05-27T17:35:21+00:00,557046212,557046101,0,Robin,Glee season 5,[[WP:AES|←]]Redirected page to [[List of Glee episodes#Season 5 (2013–14)]]
+2013-07-15T14:30:14+00:00,564365901,564360362,0,84.13.204.223,Glee season 5,correct grammar
+2013-02-24T17:49:30+00:00,540104976,540104631,0,Hullaballoo Wolfowitz,Good Luck Charlie,"Rejected the last text change (by [[Special:Contributions/67.81.87.6|67.81.87.6]]) and restored revision 539762458 by 24.115.43.129: unsourced, interpretive"
+2013-05-20T01:53:38+00:00,555879430,555870351,0,71.139.165.151,Good Luck Charlie,/* Characters */
+2013-03-28T21:51:43+00:00,547508903,547508826,0,Leszek Jańczuk,Gregg Sulkin,espaces
+2013-01-09T05:03:25+00:00,532119428,532062823,0,Chris the speller,Good Luck Charlie,sp
+2013-05-06T21:55:46+00:00,553849085,553847850,0,Acalamari,Haylie Duff,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/174.238.227.98|174.238.227.98]] ([[User talk:174.238.227.98|talk]]) to last version by 108.35.36.134
+2013-06-02T04:21:34+00:00,557923624,557923617,0,ClueBot NG,Haylie Duff,"Reverting possible vandalism by [[Special:Contributions/75.0.180.197|75.0.180.197]] to version by Acalamari. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1658700) (Bot)"
+2013-01-26T12:49:03+00:00,534976636,534896684,0,Galzigler,Gregg Sulkin,/* Filmography */
+2013-02-14T08:55:46+00:00,538192185,537830719,0,StAnselm,Haylie Duff,"removed [[Category:Actors from Houston, Texas]]; added [[Category:Actresses from Houston, Texas]] using [[WP:HC|HotCat]]"
+2013-01-18T02:59:11+00:00,533631209,533586575,0,BizarreLoveTriangle,Haylie Duff,− 2 categories; ± 4 categories using [[WP:HC|HotCat]]
+2013-01-08T23:41:13+00:00,532040176,527299630,0,71.227.184.74,Haylie Duff,/* Filmography */
+2013-06-23T15:25:07+00:00,561218087,559899646,0,Dwwren,Haylie Duff,/* Music */
+2013-04-17T00:50:40+00:00,550731380,550520077,0,108.35.36.134,Haylie Duff,/* Public image and personal life */
+2013-03-26T06:27:49+00:00,547028834,546768709,0,Ser Amantio di Nicolao,Heather Morris,recat using [[Project:AWB|AWB]] (8964)
+2013-02-22T03:25:43+00:00,539588986,539478108,0,Johnpacklambert,Heather Morris,removed [[Category:American dancers]]; added [[Category:American female dancers]] using [[WP:HC|HotCat]]
+2013-04-09T02:17:17+00:00,549438935,549261735,0,98.144.69.148,Heather Morris,
+2013-03-20T23:35:14+00:00,545812908,544349064,0,Addbot,Heather Morris,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q229349]]"
+2013-01-28T07:59:03+00:00,535308685,535308574,0,Edgars2007,Heather Morris,/* Awards and nominations */
+2013-06-02T18:49:09+00:00,558011447,557990536,0,Mimi C.,Heather Morris,Reverted 1 edit by [[Special:Contributions/176.253.57.192|176.253.57.192]] ([[User talk:176.253.57.192|talk]]) to last revision by Jonnyt 123. ([[WP:TW|TW]])
+2013-01-13T20:30:56+00:00,532912664,532912646,0,ClueBot NG,Heather Morris,"Reverting possible vandalism by [[Special:Contributions/216.183.133.218|216.183.133.218]] to version by Jschnur. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1442319) (Bot)"
+2013-07-14T20:09:31+00:00,564267821,564266706,0,Davey2010,Heather Morris,Reverted 2 edits by [[Special:Contributions/Sweetkiss1234|Sweetkiss1234]] ([[User talk:Sweetkiss1234|talk]]) to last revision by Jockzain. ([[WP:TW|TW]])
+2013-02-15T03:32:43+00:00,538344545,538344501,0,Ser Amantio di Nicolao,Heather Morris,removed [[Category:American television actors]]; added [[Category:American television actresses]] using [[WP:HC|HotCat]]
+2013-01-15T01:57:36+00:00,533134376,533134007,0,Barek,Hermione Granger,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/173.57.43.100|173.57.43.100]] ([[User talk:173.57.43.100|talk]]) to last version by Webclient101
+2013-01-16T23:27:22+00:00,533443182,533440414,0,BlueMoonset,Heather Morris,Undid revision 533440414 by [[Special:Contributions/99.243.52.149|99.243.52.149]] ([[User talk:99.243.52.149|talk]])
+2013-05-31T12:20:48+00:00,557674890,557227325,0,Rus1067,Hilary Duff,/* 2007–present: Independent films and return to television */
+2012-12-23T22:26:47+00:00,529502562,529490065,0,Elizium23,Hilary Duff,Reverted 1 edit by [[Special:Contributions/Brochelfan16|Brochelfan16]] ([[User talk:Brochelfan16|talk]]): Non-notable. ([[WP:TW|TW]])
+2012-12-02T05:04:15+00:00,525970329,522527401,0,Thedropsoffire,Hermione Granger,fixed link
+2013-03-24T07:41:27+00:00,546693130,546195164,0,58.27.152.37,Heather Morris,/* Early life */
+2012-12-21T20:59:40+00:00,529167513,529167318,0,2.26.28.130,Jacqueline Jossa,
+2013-04-06T20:03:15+00:00,549043889,544838299,0,Ser Amantio di Nicolao,John Gallagher Jr.,recat using [[Project:AWB|AWB]]
+2013-01-26T01:59:57+00:00,534921520,534841189,0,Hullaballoo Wolfowitz,John Gallagher Jr.,unsourced gossip redux
+2013-04-22T03:11:18+00:00,551567095,549043889,0,24.90.221.192,John Gallagher Jr.,
+2013-02-12T23:34:19+00:00,537955257,537292936,0,83.202.0.66,John Gallagher Jr.,/* Personal Life */ rephrased to add some details
+2013-03-11T14:12:42+00:00,543426947,540696361,0,78.1.136.97,John Gallagher Jr.,/* Personal Life */
+2013-06-16T11:58:14+00:00,560142777,560142660,0,71.226.23.24,John Gallagher Jr.,
+2013-05-28T14:28:53+00:00,557175719,551567095,0,125.167.192.158,John Gallagher Jr.,
+2013-07-02T07:11:22+00:00,562507943,562504182,0,Guilties,Jonathan Groff,
+2013-02-28T07:42:42+00:00,541176722,541170862,0,Guilties,Jonathan Groff,/* Filmography */
+2013-06-07T03:29:41+00:00,558704077,558702038,0,Guilties,Jonathan Groff,/* Filmography */
+2013-01-19T21:39:07+00:00,533904683,533592513,0,99.162.200.106,Jonathan Groff,/* Personal life */
+2013-04-07T22:56:42+00:00,549231289,549069714,0,Guilties,Jonathan Groff,/* Theatre credits */
+2012-12-23T06:29:04+00:00,529405223,529355271,0,RussBot,Jonathan Groff,Robot: [[WP:DPL|fix links]] to disambiguation page [[Broadway]]
+2013-06-07T21:45:58+00:00,558819502,558784217,0,93.136.4.177,Jonathan Groff,
+2013-04-27T03:51:16+00:00,552370921,552370417,0,Guilties,Jonathan Groff,/* Career */
+2013-06-15T20:19:44+00:00,560064139,559056950,0,98.14.142.52,Jonathan Groff,
+2013-01-14T14:47:42+00:00,533037866,533036296,0,78.0.213.119,Jonathan Groff,/* Credits */
+2013-03-21T14:33:35+00:00,545994093,544775743,0,Chartbot,Jonathan Groff,Chartbot function 2: Repair of individual weekly chart links. Contact [[User talk:Kww]] if there are problems
+2013-06-09T12:12:14+00:00,559056950,558819502,0,Hullaballoo Wolfowitz,Jonathan Groff,/* Personal life */ unsourced gossip
+2013-05-28T06:47:25+00:00,557132407,555948628,0,Guilties,Jonathan Groff,/* Theatre credits */
+2013-02-19T20:08:27+00:00,539099059,539098871,0,Guilties,Jonathan Groff,/* Awards and nominations */
+2013-02-16T02:46:47+00:00,538503935,537355569,0,Guilties,Jonathan Groff,/* Theatre credits */
+2013-03-16T23:06:21+00:00,544775743,544170146,0,Addbot,Jonathan Groff,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q556644]]"
+2013-04-04T04:49:24+00:00,548608284,548608010,0,Guilties,Jonathan Groff,/* Awards and nominations */
+2013-04-16T01:55:57+00:00,550575020,550528094,0,Paul Erik,Jonathan Groff,revert unhelpful edits: please do not link to disambiguation pages
+2013-02-26T08:54:51+00:00,540553570,540551563,0,Guilties,Jonathan Groff,/* Cast recordings */
+2013-01-03T00:10:41+00:00,531003729,530983287,0,93.136.80.194,Jonathan Groff,/* Personal life */
+2013-04-17T07:34:26+00:00,550770363,550770322,0,Guilties,Jonathan Groff,/* Theatre credits */
+2013-06-18T18:49:33+00:00,560489865,560407930,0,Guilties,Jonathan Groff,/* Theatre credits */
+2013-01-12T02:10:30+00:00,532635165,531896418,0,ImGz,Jonathan Groff,spaces
+2013-06-16T12:48:36+00:00,560147078,560102563,0,PrivateMasterHD,Kat Dennings,
+2012-12-11T07:54:10+00:00,527488691,527440357,0,Dimadick,Kat Dennings,/* External links */
+2013-07-11T10:25:54+00:00,563793507,563124859,0,Chrisj8910,Kat Dennings,
+2013-04-07T23:32:23+00:00,549235904,549217590,0,Dissolve,Kat Dennings,/* Career */ fix ref
+2013-07-15T16:54:46+00:00,564382943,564382902,0,Nymf,Katherine Pierce,Reverted to revision 564014126 by Yobot: Fictional characters aren't born. using	[[WP:TW|TW]]
+2013-03-01T08:19:04+00:00,541464274,540648553,0,76.21.121.182,Katherine Pierce,/* Season 4 */
+2013-02-05T04:05:21+00:00,536636743,536636700,0,Courcelles,Kristen Stewart,removed [[Category:American television actors]]; added [[Category:American television actresses]] using [[WP:HC|HotCat]]
+2013-02-26T15:27:24+00:00,540648553,539611649,0,46.118.123.149,Katherine Pierce,/* 1920 */
+2011-04-27T00:47:47+00:00,426119927,410676151,0,Flyingstar16,Katherine Pierce,Wrong redirect. Did not place correctly in the page
+2013-03-30T06:36:29+00:00,547767405,547531551,0,TomCat4680,Kristen Stewart,/* Personal life */
+2013-02-20T00:34:57+00:00,539141393,538220891,0,Addbot,Kurt Hummel,[[User:Addbot|Bot:]] Updating 10 interwikilinks per [[Wikipedia:Wikidata|Wikidata]] [[d:q2260501]] ([[User talk:Addbot|Report Errors]])
+2013-07-05T06:45:37+00:00,562941094,556050548,0,Grapesoda22,Kurt Hummel,/* External links */
+2013-07-08T18:36:26+00:00,563411320,563367509,0,190.193.71.69,Lea Michele,/* Awards and nominations */
+2013-01-16T21:23:51+00:00,533424804,533423014,0,DangerousPanda,Lea Michele,Rejected the last text change (by [[Special:Contributions/65.128.247.47|65.128.247.47]]) and restored revision 533277571 by Bidgee: Boyfriend != partner
+2013-05-08T20:23:55+00:00,554183197,554182849,0,Nymf,Lea Michele,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/71.224.86.87|71.224.86.87]] ([[User talk:71.224.86.87|talk]]) to last version by DMacks
+2013-07-17T14:09:42+00:00,564656276,564620765,0,Bbb23,Lea Michele,Reverted to revision 564459623 by Darkeclipse1: trivia. ([[WP:TW|TW]])
+2013-03-30T08:43:14+00:00,547782207,547781387,0,Tamzin,Lea Michele,"Rejected the last 5 text changes (by [[Special:Contributions/173.172.235.91|173.172.235.91]]) and restored revision 547780254 by Nymf: no evidence that they're ""partners"" (and stuff about them dating is mostly tabloids)"
+2013-05-22T18:02:47+00:00,556301542,556174218,0,190.194.46.66,Lea Michele,/* Film */
+2013-04-02T01:50:28+00:00,548249119,548211661,0,Bbb23,Lea Michele,/* Personal life */ removed rehab material
+2013-02-05T04:34:11+00:00,536639715,536639541,0,Courcelles,Lea Michele,removed [[Category:American musical theatre actors]]; added [[Category:American musical theatre actresses]] using [[WP:HC|HotCat]]
+2013-04-27T17:33:26+00:00,552445482,552445355,0,Nymf,Lea Michele,Reverted 1 edit by [[Special:Contributions/Humsafarforever|Humsafarforever]] ([[User talk:Humsafarforever|talk]]): Copyvio. using	[[WP:TW|TW]]
+2013-05-30T23:58:35+00:00,557602276,557601875,0,The Devil's Advocate,Lea Michele,Rejected the last text change (by [[Special:Contributions/Sarahfinn82|Sarahfinn82]]) and restored revision 557575689 by Starswept: unexplained deletion
+2013-06-03T01:57:29+00:00,558062176,558060658,0,Nbound,Lea Michele,/* Awards and nominations */ fix link
+2013-04-04T11:48:36+00:00,548647274,548647214,0,Bbb23,Lea Michele,restoring one removal from infobox by other editor
+2013-04-21T02:16:22+00:00,551394468,551341855,0,Vriana,Lea Michele,/* Stage roles */
+2013-03-12T21:43:29+00:00,543702926,543701164,0,Ilyushka88,Lea Michele,Undid revision 543701164 by [[Special:Contributions/90.218.169.8|90.218.169.8]] ([[User talk:90.218.169.8|talk]])
+2013-02-20T14:50:20+00:00,539235879,539235232,0,Status,Lea Michele,Rejected the last 2 text changes (by [[Special:Contributions/82.30.29.154|82.30.29.154]]) and restored revision 538752092 by The Devil's Advocate: Being in a relationship with someone doesn't mean they are legal partners.
+2013-02-01T10:03:12+00:00,536002501,536002444,0,ObjectivismLover,Lea Michele,Reverted edits by [[Special:Contributions/38.103.168.4|38.103.168.4]] ([[User talk:38.103.168.4|talk]]) addition of [[WP:BLP|unsourced negative content]] to a biographical article ([[WP:HG|HG]])
+2013-01-28T14:26:29+00:00,535347029,535345982,0,Gimmetoo,Lea Michele,Undid revision 535345982 by [[Special:Contributions/119.92.224.39|119.92.224.39]] ([[User talk:119.92.224.39|talk]])
+2013-01-03T03:50:18+00:00,531030055,531030036,0,ClueBot NG,Lea Michele,"Reverting possible vandalism by [[Special:Contributions/76.116.246.54|76.116.246.54]] to version by 190.194.49.221. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1424193) (Bot)"
+2013-03-20T11:40:59+00:00,545661911,545661858,0,And we drown,Lea Michele,added [[Category:Christians of Jewish descent]] using [[WP:HC|HotCat]]
+2013-04-11T12:39:46+00:00,549836084,549831255,0,DangerousPanda,Lea Michele,"Rejected the last text change (by [[Special:Contributions/Shansastark|Shansastark]]) and restored revision 549802023 by Nymf: No, does not meet the definition of ""partner"""
+2013-02-14T18:53:45+00:00,538268953,537864593,0,70.72.12.102,Lea Michele,/* Credits and performances */
+2013-04-07T08:31:39+00:00,549122857,549075011,0,Yobot,Lea Michele,/* External links */Remove unicode control characters (CHECKWIKI error 16) using [[Project:AWB|AWB]] (9065)
+2013-07-16T04:41:57+00:00,564459623,564383897,0,Darkeclipse1,Lea Michele,
+2013-01-07T10:26:22+00:00,531764892,531758223,0,CourtneyBonnick,Lea Michele,Undid revision 531758223 by [[Special:Contributions/Sarahzaki|Sarahzaki]] ([[User talk:Sarahzaki|talk]]) A source please
+2013-04-23T12:52:44+00:00,551790208,551789312,0,CourtneyBonnick,Lea Michele,Undid revision 551789312 by [[Special:Contributions/Rachel Berry12|Rachel Berry12]] ([[User talk:Rachel Berry12|talk]]) rejected
+2013-04-03T12:13:50+00:00,548474451,548474278,0,93.139.98.4,Lea Michele,
+2013-06-20T18:37:08+00:00,560785846,560785663,0,RA0808,Lea Michele,Reverted edits by [[Special:Contributions/78.251.149.5|78.251.149.5]] ([[User talk:78.251.149.5|talk]]) to last revision by Courcelles ([[WP:HG|HG]])
+2013-04-25T18:49:22+00:00,552159894,552158065,0,Robin,Lea Michele,/* Glee and other ventures */ ce
+2013-01-27T00:13:02+00:00,535073903,535072768,0,DangerousPanda,Lea Michele,Rejected the last 3 text changes (by [[Special:Contributions/24.1.31.81|24.1.31.81]]) and restored revision 534930294 by Rvir0522
+2013-05-03T23:53:33+00:00,553420670,553419066,0,Robin,Lea Michele,/* Glee and other ventures */ condensing
+2013-05-18T14:29:38+00:00,555651763,555651047,0,Hullaballoo Wolfowitz,Lea Michele,Rejected the last text change (by [[Special:Contributions/SpockKirkShipper|SpockKirkShipper]]) and restored revision 555650868 by Nymf: still unsuitable for lede
+2013-06-22T16:11:01+00:00,561079187,560785846,0,Kww,Lea Michele,Undid revision 540218833 by [[Special:Contributions/37.104.30.235|37.104.30.235]] ([[User talk:37.104.30.235|talk]])block evasion by [[User:Chace Watson]]
+2013-06-30T06:06:51+00:00,562208452,562207503,0,BlueMoonset,Lea Michele,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Jaymcb|Jaymcb]] ([[User talk:Jaymcb|talk]]): Source for 2013 win? (Table later in article is also unsourced.). ([[WP:TW|TW]])
+2013-03-03T12:02:08+00:00,541879552,541879294,0,Nymf,Lea Michele,Rejected the last text change (by [[Special:Contributions/92.30.84.185|92.30.84.185]]) and restored revision 541457286 by Courcelles: Dating != partner
+2013-07-09T04:39:44+00:00,563474181,563473756,0,The Devil's Advocate,Lea Michele,"[[Help:Reverting|Reverted]] 2 [[Wikipedia:Pending changes|pending]] edits by [[Special:Contributions/190.193.71.69|190.193.71.69]] to revision 563473519 by The Devil's Advocate: again, she got the award for her work on Glee"
+2013-03-08T19:49:28+00:00,542882650,542882462,0,Bbb23,Lea Michele,/* Personal life */ maybe this will fix the problem
+2013-06-11T21:30:36+00:00,559452286,559450838,0,Robin,Lea Michele,Undid revision 559450838 by [[Special:Contributions/Part of me 2|Part of me 2]] ([[User talk:Part of me 2|talk]])
+2013-01-04T07:21:48+00:00,531228858,531227722,0,CourtneyBonnick,Lea Michele,Undid revision 531227722 by [[Special:Contributions/176.255.4.85|176.255.4.85]] ([[User talk:176.255.4.85|talk]]) Restoring previous photo
+2013-06-17T22:09:18+00:00,560359887,560359409,0,Robin,Lea Michele,Undid revision 560359409 by [[Special:Contributions/108.184.201.228|108.184.201.228]] ([[User talk:108.184.201.228|talk]])
+2013-03-31T08:08:05+00:00,547950096,547949199,0,Tamzin,Lea Michele,"add reference to HuffPo... not a great source, but the best I could find, and I see SOME sort of source as necessary per [[WP:BLP]]"
+2013-04-06T00:05:21+00:00,548915276,548914732,0,Jakec,Lea Michele,Rejected the last 3 text changes (by [[Special:Contributions/99.146.15.119|99.146.15.119]]) and restored revision 548850328 by Nymf: overwriting content
+2013-02-08T06:12:44+00:00,537174827,537117667,0,Nymf,Lea Michele,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Nika1234|Nika1234]] ([[User talk:Nika1234|talk]]) to last version by Wdchk
+2013-02-15T17:14:28+00:00,538428307,538426281,0,Nymf,Lea Michele,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/90.206.230.123|90.206.230.123]] ([[User talk:90.206.230.123|talk]]) to last version by Alex43223
+2012-12-29T23:24:32+00:00,530368349,530364376,0,CourtneyBonnick,Lea Michele,Undid revision 530364376 by [[Special:Contributions/82.30.29.154|82.30.29.154]] ([[User talk:82.30.29.154|talk]]) please provide a source
+2013-03-15T11:03:43+00:00,544342986,544340992,0,Bbb23,Lea Michele,Rejected the last 2 text changes (by [[Special:Contributions/82.30.29.154|82.30.29.154]]) and restored revision 544252928 by Bbb23: Unsourced trivia
+2013-03-15T02:09:32+00:00,544252928,544251060,0,Bbb23,Lea Michele,"Undid revision 544251060 by [[Special:Contributions/71.191.244.33|71.191.244.33]] ([[User talk:71.191.244.33|talk]]) - can't believe this was accepted, mistakes, poor wording, and more gossipy trivia"
+2013-01-18T19:13:46+00:00,533733810,531753490,0,SteenthIWbot,List of Dancing on Ice professional skaters,r2.7.2+) (Robot: Adding [[nl:Andrej Lipanov]]
+2013-03-29T09:25:51+00:00,547584236,547584046,0,2.125.137.193,List of Dancing on Ice professional skaters,/* Brianne Delcourt */
+2012-12-28T12:37:12+00:00,530135943,530135849,0,M.Mario,List of EastEnders characters,"/* Future characters */ (s) Kayani, as I found a news report"
+2013-02-09T08:57:48+00:00,537356206,537278615,0,AnemoneProjectors,List of EastEnders characters,she took Kamil
+2013-05-28T22:14:27+00:00,557240046,557238961,0,ThisIsDanny,List of EastEnders characters,/* {{anchor|Recurring characters}}Recurring and guest characters */
+2013-05-01T10:47:23+00:00,553020987,553020806,0,AnemoneProjectors,List of EastEnders characters,Undid revision 553020806 by [[Special:Contributions/AnemoneProjectors|AnemoneProjectors]] ([[User talk:AnemoneProjectors|talk]])
+2013-03-06T09:38:48+00:00,542349680,542349339,0,AnemoneProjectors,List of EastEnders characters,"/* Returning characters */ I'm sure Janine will be back before Danny. Alexa most certainly will, she's back tomorrow."
+2013-03-14T06:33:36+00:00,544026116,543935525,0,Addbot,List of EastEnders characters,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q6569649]]"
+2013-06-28T21:26:39+00:00,562024562,562024272,0,Davey2010,List of EastEnders characters,Reverted 1 edit by [[Special:Contributions/Paulmuld|Paulmuld]] ([[User talk:Paulmuld|talk]]): RV Unsourced. ([[WP:TW|TW]])
+2013-01-03T07:51:44+00:00,531052587,530464172,0,AnemoneProjectors,List of EastEnders characters,/* Future characters */ been and gone
+2013-06-09T07:55:42+00:00,559026717,558978684,0,ThisIsDanny,List of EastEnders characters,/* Departing characters */ At least source properly.
+2013-06-02T16:36:14+00:00,557993479,557992696,0,ThisIsDanny,List of EastEnders characters,"Look at the source, it says it isn't confirmed."
+2013-02-24T09:29:41+00:00,540037388,539987426,0,AnemoneProjectors,List of EastEnders characters,/* Departing characters */ cu
+2013-02-26T13:44:28+00:00,540625728,539042580,0,AnemoneProjectors,List of EastEnders characters (2009),per [[Wikipedia talk:WikiProject EastEnders#Infobox occupations]]
+2013-03-04T21:49:36+00:00,542107527,540625728,0,86.130.169.44,List of EastEnders characters (2009),/* Joel Reynolds */
+2013-07-08T20:04:05+00:00,563422287,563417511,0,Tentinator,List of EastEnders characters (2012),Reverted to revision 563287376 by AnemoneProjectors: not divorced yet.
+2013-01-16T19:22:05+00:00,533407731,533407654,0,ClueBot NG,List of EastEnders characters (2012),"Reverting possible vandalism by [[Special:Contributions/90.196.35.251|90.196.35.251]] to version by AnemoneProjectors. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1449103) (Bot)"
+2013-02-19T10:09:06+00:00,539017798,539017412,0,AnemoneProjectors,List of EastEnders characters (2013),/* Others */ missed one cite
+2013-04-06T09:50:34+00:00,548969173,548959222,0,AnemoneProjectors,List of EastEnders characters (2013),/* Others */ cu
+2013-01-02T21:52:33+00:00,530983556,530912949,0,AnemoneProjectors,List of EastEnders characters (2013),"/* Dexter Hartman */ how do we know it's going to be a notable connection? especially with Oscar, who is still basically a human prop"
+2013-06-26T19:27:37+00:00,561714618,561714437,0,151.227.75.131,List of EastEnders characters (2013),/* Sam James */
+2013-07-04T09:14:52+00:00,562808674,562660424,0,AnemoneProjectors,List of EastEnders characters (2013),/* Others */ add Sally
+2013-01-08T18:33:16+00:00,531990934,531957390,0,Bleaney,List of EastEnders characters (2013),Reverted 1 edit by [[Special:Contributions/82.30.29.154|82.30.29.154]] ([[User talk:82.30.29.154|talk]]): He hasnt met them yet. ([[WP:TW|TW]])
+2013-02-26T08:23:45+00:00,540547542,538641862,0,Addbot,List of High School Musical characters,"[[User:Addbot|Bot:]] Migrating 9 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2287094]] ([[User talk:Addbot|Report Errors]])"
+2013-03-07T09:05:11+00:00,542548679,542350871,0,AnemoneProjectors,List of EastEnders characters (2013),"/* Kane, Little Chris, Renzo, Ali and Tayo */ +"
+2013-06-20T11:14:35+00:00,560735333,560735219,0,AnemoneProjectors,List of EastEnders characters (2013),/* Jake Stone */ add free image yay
+2013-02-22T09:12:49+00:00,539619392,539387351,0,AnemoneProjectors,List of EastEnders characters (2013),/* Others */ add 1 March ref for Magda
+2013-04-03T14:09:04+00:00,548488263,548455888,0,AnemoneProjectors,List of EastEnders characters (2013),/* Others */ add Jake and Rowly
+2013-03-20T09:12:42+00:00,545641137,542489507,0,Addbot,List of High School Musical characters,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2287094]]"
+2013-03-06T19:39:56+00:00,542423822,542413463,0,JuneGloom07,List of Hollyoaks characters,Undid revision 542413463 by [[Special:Contributions/92.30.247.246|92.30.247.246]] ([[User talk:92.30.247.246|talk]]) She hasn't departed.
+2013-02-07T02:46:27+00:00,536987625,536939103,0,151.227.35.194,List of Hollyoaks characters,/* Departing characters */
+2013-02-01T23:00:31+00:00,536100734,536097399,0,Geraldo Perez,List of Shake It Up episodes,Reverted 4 edits by [[Special:Contributions/108.14.81.75|108.14.81.75]] ([[User talk:108.14.81.75|talk]]): Corrupted episode numbering. ([[WP:TW|TW]])
+2013-02-16T04:00:44+00:00,538510457,538508860,0,Geraldo Perez,List of Shake It Up episodes,Reverted 1 edit by [[Special:Contributions/173.186.212.38|173.186.212.38]] ([[User talk:173.186.212.38|talk]]): Dubious and unreferenced. ([[WP:TW|TW]])
+2013-07-08T19:48:26+00:00,563420307,563093973,0,JetBlast,List of Waterloo Road characters,Cleaned up using [[WP:AutoEd|AutoEd]]
+2013-06-23T22:47:02+00:00,561273781,561187717,0,Arsenalfan24,List of Waterloo Road characters,Nikki should just be 2012- as she returned within a series
+2013-05-19T17:39:55+00:00,555817415,555660875,0,Wormwell,List of Waterloo Road characters,/* Departing characters */
+2013-02-10T15:05:00+00:00,537549631,537387325,0,Waterlooroadfan107,List of Waterloo Road characters,
+2013-04-23T17:31:58+00:00,551827975,551827809,0,Davey2010,List of Waterloo Road characters,Reverted 2 edits by [[Special:Contributions/Bt3082|Bt3082]] ([[User talk:Bt3082|talk]]): RV per [[Crystal]]. ([[WP:TW|TW]])
+2013-05-27T11:50:03+00:00,557004036,557003423,0,Wormwell,List of Waterloo Road characters,/* Current characters */
+2013-03-03T01:06:04+00:00,541816678,541005282,0,96.55.162.30,List of Wizards of Waverly Place characters,/* Guest characters */
+2013-04-19T23:01:30+00:00,551203769,550515868,0,OZODOR,List of Wizards of Waverly Place characters,"/* Other recurring characters */; Stevie didn't die, Disney had clarified that she was sent away to an island"
+2013-01-21T22:54:09+00:00,534235875,533253008,0,Tassedethe,List of former Hollyoaks characters,[[:en:WP:CLEANER|WPCleaner]] v1.22 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Christine Carpenter]]
+2013-01-28T17:06:35+00:00,535368287,535267691,0,JuneGloom07,Lynsey Nolan,/* Reception */ Ce.
+2013-05-05T19:04:42+00:00,553667419,553667272,0,78.86.95.4,List of former Hollyoaks characters,/* Last appeared in 2007 */
+2013-01-02T08:11:09+00:00,530885834,529523616,0,92.23.73.54,Lynsey Nolan,
+2013-03-20T21:03:21+00:00,545781309,535596166,0,Addbot,Mark Womack,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q6770409]]"
+2013-04-09T17:20:26+00:00,549541471,549147477,0,John of Reading,Lynsey Nolan,"Typo/[[WP:AWB/GF|general]] fixing, replaced: the the → the, [[WP:AWB/T|typos fixed]]: exsisted → existed using [[Project:AWB|AWB]]"
+2013-05-16T14:07:48+00:00,555368395,554327445,0,78.150.22.3,Lynsey Nolan,
+2013-06-22T14:04:35+00:00,561064584,560680615,0,AnemoneProjectors,Matt Lapinskas,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/79.97.6.81|79.97.6.81]] ([[User talk:79.97.6.81|talk]]) to last version by 88.224.48.126
+2013-05-06T00:51:38+00:00,553706786,553698475,0,Libby995,Matt Lapinskas,/* Early and personal life */
+2013-02-21T19:28:42+00:00,539497755,537865182,0,Addbot,Matthew Morrison,"[[User:Addbot|Bot:]] Migrating 27 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q294812]] ([[User talk:Addbot|Report Errors]])"
+2013-03-26T23:31:09+00:00,547153156,546714308,0,EnDaLeCoMpLeX,Matthew Morrison,/* Filmography */
+2013-05-09T17:11:25+00:00,554315238,554313959,0,AnemoneProjectors,Max Branning,/* 2006– */ cu
+2013-02-28T02:56:30+00:00,541122472,539142302,0,Courcelles,Melissa Benoist,removed [[Category:21st-century actresses]]; added [[Category:21st-century American actresses‎]] using [[WP:HC|HotCat]]
+2013-05-17T21:29:55+00:00,555571263,555558845,0,BlueMoonset,Melissa Benoist,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Yoyo99mcdude|Yoyo99mcdude]] ([[User talk:Yoyo99mcdude|talk]]): Off-site image files are not allowed. ([[WP:TW|TW]])
+2013-06-20T19:54:46+00:00,560795612,560787276,0,190.194.32.226,Melissa Benoist,/* Filmography */
+2013-03-21T17:31:00+00:00,546033523,544142652,0,Chartbot,Mercedes Jones,Chartbot function 2: Repair of individual weekly chart links. Contact [[User talk:Kww]] if there are problems
+2013-05-22T06:24:57+00:00,556223837,556065434,0,BlueMoonset,Mike Chang,"Reverted 5 edits by [[Special:Contributions/173.70.187.103|173.70.187.103]] ([[User talk:173.70.187.103|talk]]): Once again, excessive detail, and no engagement despite request at user's talk page. ([[WP:TW|TW]])"
+2013-02-26T12:59:07+00:00,540615068,538829873,0,Addbot,Mercedes Jones,"[[User:Addbot|Bot:]] Migrating 7 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2449464]] ([[User talk:Addbot|Report Errors]])"
+2013-04-26T06:14:32+00:00,552234035,552144388,0,BlueMoonset,Mercedes Jones,fixing bad disambiguation (Vanity Fair is never the British magazine)
+2013-07-02T17:47:30+00:00,562575615,562368226,0,Russ Jericho,Mike Comrie,/* Personal life */
+2013-01-10T00:06:29+00:00,532275502,532253230,0,BlueMoonset,Mike Chang,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/173.70.187.103|173.70.187.103]] ([[User talk:173.70.187.103|talk]]): Not true: Kurt had refused the role already; Mike volunteered when no one else would take it. ([[WP:TW|TW]])
+2013-01-14T05:46:17+00:00,532984842,532716747,0,Doorlocks,Naya Rivera,
+2013-02-07T14:35:23+00:00,537058457,537052795,0,Pichpich,Mike Comrie,Disambiguated: [[AJHL]] → [[ Alberta Junior Hockey League]]
+2013-05-16T07:28:23+00:00,555332472,555327100,0,Tamzin,Naya Rivera,/* Early life */ non-circular reference
+2013-03-05T16:17:12+00:00,542224686,542214116,0,Graphium,Naya Rivera,Rejected the last 2 text changes (by [[Special:Contributions/82.30.29.154|82.30.29.154]]) and restored revision 542084072 by The Devil's Advocate: unref
+2013-02-19T08:19:46+00:00,539008459,539005353,0,Mr. Stradivarius,Naya Rivera,Rejected the last text change (by [[Special:Contributions/201.66.170.246|201.66.170.246]]) and restored revision 538176449 by ClueBot NG: This needs a source - see [[WP:BLP]]
+2013-04-07T00:00:50+00:00,549073065,547896615,0,Ser Amantio di Nicolao,Nick Zano,/* External links */recat using [[Project:AWB|AWB]]
+2013-05-21T20:15:39+00:00,556156972,556153496,0,AnomieBOT,Nick Zano,Dating maintenance tags: {{Fact}}
+2012-12-27T08:13:12+00:00,529948962,528055808,0,Fm90,Nina Dobrev,/* Filmography */
+2013-02-11T03:12:04+00:00,537645710,535395542,0,BrownHairedGirl,Nina Dobrev,± 7 categories using [[WP:HC|HotCat]]
+2013-06-19T09:18:39+00:00,560579323,559597838,0,Angelic-alyssa,Patti LuPone,
+2013-03-03T01:14:50+00:00,541817706,541598046,0,Johnpacklambert,Patti LuPone,removed [[Category:American musicians]] using [[WP:HC|HotCat]] rem dup cat
+2013-05-22T04:43:42+00:00,556215345,554316815,0,Citation bot,Poppy Meadow,[423]Misc citation tidying.  [[WP:UCB|User-activated]].
+2013-02-18T10:47:05+00:00,538859396,538857604,0,AnemoneProjectors,Poppy Meadow,Undid revision 538857604 by [[Special:Contributions/86.163.154.212|86.163.154.212]] ([[User talk:86.163.154.212|talk]])
+2013-03-05T14:28:22+00:00,542211192,542211006,0,লিমন২০১০,Quinn Fabray,Reverted 1 edit by [[Special:Contributions/82.30.29.154|82.30.29.154]] ([[User talk:82.30.29.154|talk]]) to last revision by Zythe. ([[WP:TW|TW]])
+2012-12-19T12:03:13+00:00,528791282,528483770,0,82.30.29.154,Puck (Glee),
+2013-05-02T09:01:36+00:00,553170820,552581705,0,124.170.202.16,Quinn Fabray,/* Storylines */
+2013-07-16T12:00:10+00:00,564496263,564470349,0,BlueMoonset,Puck (Glee),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Sweetkiss1234|Sweetkiss1234]] ([[User talk:Sweetkiss1234|talk]]): Source? How can you be sure this will be his last episode? ([[WP:TW|TW]])
+2013-02-16T20:16:01+00:00,538605547,538601211,0,Zythe,Quinn Fabray,/* Season 4 */makes it sound like they're doing a coming out storyline with that wording
+2013-06-30T22:59:02+00:00,562311111,562215686,0,BlueMoonset,Quinn Fabray,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/108.81.52.241|108.81.52.241]] ([[User talk:108.81.52.241|talk]]): Unsourced claim that ""I Do"" will be Quinn's final episode; recently published reports indicate she will be back. ([[WP:TW|..."
+2012-12-18T12:54:46+00:00,528630409,528630397,0,ClueBot NG,Quinn Fabray,"Reverting possible vandalism by [[Special:Contributions/188.82.71.62|188.82.71.62]] to version by BlueMoonset. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1407861) (Bot)"
+2013-04-01T23:17:08+00:00,548229391,548227134,0,BlueMoonset,Quinn Fabray,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/201.172.64.191|201.172.64.191]] ([[User talk:201.172.64.191|talk]]): The old background color was better; easier to read the text. ([[WP:TW|TW]])
+2013-01-24T01:39:23+00:00,534586815,534582901,0,BlueMoonset,Quinn Fabray,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/142.255.8.36|142.255.8.36]] ([[User talk:142.255.8.36|talk]]): Inaccurate addition. ([[WP:TW|TW]])
+2013-04-21T19:31:47+00:00,551503123,551494193,0,Robin,Rachel Berry,"Undid revision 551494193 by [[Special:Contributions/Ms Imperfection.|Ms Imperfection.]] ([[User talk:Ms Imperfection.|talk]]) misspelled NYADA and ""college student"" is sufficient"
+2013-06-03T01:18:53+00:00,558058346,557633034,0,99.68.235.108,Rachel Berry,/* Season 4 */
+2013-03-05T15:07:42+00:00,542216044,542212742,0,BlueMoonset,Rachel Berry,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/82.30.29.154|82.30.29.154]] ([[User talk:82.30.29.154|talk]]): Unborn baby? No. Please stay out of infoboxes; you don't know what you're doing. ([[WP:TW|TW]])
+2013-02-12T23:40:17+00:00,537955971,537948805,0,Martin451,Quinn Fabray,Reverted edits by [[Special:Contributions/Imgonnafixit|Imgonnafixit]] ([[User talk:Imgonnafixit|talk]]) to last revision by BlueMoonset ([[WP:HG|HG]])
+2013-03-14T10:42:11+00:00,544062033,544050211,0,Leaky caldron,Quinn Fabray,Undid revision 544050211 by [[Special:Contributions/82.30.29.154|82.30.29.154]] ([[User talk:82.30.29.154|talk]]) [[Help:Reverting|Reverting]] [[Wikipedia:Vandalism|vandalism]] or test edit
+2013-02-11T19:19:20+00:00,537749640,537749391,0,86.146.8.106,Rachel Berry,
+2013-05-10T13:01:10+00:00,554439491,554439408,0,Ms Imperfection.,Rachel Berry,/* Season 4 */
+2013-05-29T16:10:27+00:00,557369391,557102770,0,67.84.73.254,Riley Keough,
+2012-12-27T12:02:17+00:00,529967751,529967705,0,82.30.29.154,Rachel Berry,
+2013-04-05T05:33:43+00:00,548787433,548628314,0,Kwamikagami,Riley Keough,
+2013-05-24T07:38:39+00:00,556548284,556548194,0,86.185.121.224,Rita Simons,
+2013-02-20T06:54:09+00:00,539188824,537497755,0,190.137.218.166,Riley Keough,
+2013-05-30T19:54:48+00:00,557570686,557369391,0,Deflective,Riley Keough,IPAc-en conversion
+2013-01-28T15:53:48+00:00,535358391,534988492,0,Realityme,Robert Pattinson,added [[Category:English male actors]] using [[WP:HC|HotCat]]
+2013-07-10T15:37:24+00:00,563680172,563675481,0,Jockzain,Robert Pattinson,removing gossip and unreliable sources.
+2013-04-17T17:28:40+00:00,550841252,550828664,0,Stephenb,Ronnie Mitchell,Reverted 2 edits by [[Special:Contributions/81.105.174.112|81.105.174.112]] ([[User talk:81.105.174.112|talk]]). ([[WP:TW|TW]])
+2013-05-31T16:08:02+00:00,557701900,557694068,0,Stephenb,Ronnie Mitchell,Reverted 2 edits by [[Special:Contributions/93.107.8.164|93.107.8.164]] ([[User talk:93.107.8.164|talk]]). ([[WP:TW|TW]])
+2013-03-23T12:18:22+00:00,546525096,546522177,0,AnemoneProjectors,Roxy Mitchell,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/217.43.39.51|217.43.39.51]] ([[User talk:217.43.39.51|talk]]) to last version by Addbot
+2013-03-11T16:23:19+00:00,543447048,542126128,0,85.64.110.212,Rupert Grint,
+2013-01-22T18:24:37+00:00,534358976,534355064,0,AnemoneProjectors,Roxy Mitchell,/* Storylines */ cu
+2013-02-03T18:58:10+00:00,536394622,535659769,0,Jim Michael,Rupert Grint,"says born and raised in Herts, but does not say Stevenage"
+2013-04-06T12:00:31+00:00,548980377,547504883,0,90.199.96.186,Samantha Womack,/* Personal life */
+2012-12-30T02:47:15+00:00,530391693,527880404,0,ScottMHoward,Samantha Womack,Fixed award template redirects & Converted <br /> tags. ([[User:ScottMHoward/LDRbot|LDRbot]] - Rev. 6)
+2013-04-13T19:42:57+00:00,550200842,550008212,0,75.170.9.168,Samantha Womack,/* Personal life */
+2013-01-21T13:30:04+00:00,534160245,533061120,0,90.212.53.139,Scarlett Bowman,/* Filmography */
+2012-12-13T16:54:27+00:00,527880404,527761104,0,Derek R Bullamore,Samantha Womack,Filling in 1 references using [[WP:REFLINKS|Reflinks]]
+2013-03-15T11:29:24+00:00,544347394,544341232,0,BlueMoonset,Santana Lopez,restoring significantother instructions
+2013-06-05T16:17:12+00:00,558465576,554959866,0,Lady Lotus,Santana Lopez,infobox pic too big
+2013-02-01T18:32:03+00:00,536061580,535986601,0,177.17.177.134,Santana Lopez,
+2013-03-11T05:55:32+00:00,543354376,543290354,0,BlueMoonset,Santana Lopez,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/54.228.66.235|54.228.66.235]] ([[User talk:54.228.66.235|talk]]): That comment is there for a reason; please do not remove. ([[WP:TW|TW]])
+2013-05-20T17:22:17+00:00,555974295,535365520,0,Andrewbarker1995,Scarlett Bowman,/* Filmography */
+2013-02-14T17:46:03+00:00,538258712,538258232,0,AussieLegend,Selena Gomez,"Reverted 2 edits by [[Special:Contributions/Sg2sb2000|Sg2sb2000]] ([[User talk:Sg2sb2000|talk]]): [[MOS:ACCESS]]/[MOS:DTT]]. Wizards vs Alex is a one hour special, not a film - as previously. ([[WP:TW|TW]])"
+2013-06-15T03:53:54+00:00,559969054,559956779,0,Ms Imperfection.,Selena Gomez,/* Childhood and early career (1992-2006) */
+2013-04-29T17:21:23+00:00,552755185,552234319,0,Sg2sb2000,Selena Gomez,/* 2012–present: Films and debut solo album */
+2013-05-12T17:39:13+00:00,554759860,554689453,0,Loving him was RED,Selena Gomez,/* 2012–present: Films and Stars Dance */ No source for this
+2013-01-26T02:56:03+00:00,534926683,534892549,0,Musdan77,Selena Gomez,"General clean up and copyedit; rm unsourced, unsupported and incorrect content."
+2013-04-14T04:15:31+00:00,550255826,550048971,0,Melonkelon,Selena Gomez,[[:en:WP:CLEANER|WPCleaner]] v1.27 - fixes
+2013-01-04T04:22:38+00:00,531210088,531210022,0,Érico,Shay Mitchell,Reverted edits by [[Special:Contributions/96.27.40.11|96.27.40.11]] ([[User talk:96.27.40.11|talk]]) to last revision by The Devil's Advocate ([[WP:HG|HG]])
+2013-04-30T17:56:20+00:00,552917584,552909948,0,The Devil's Advocate,Shay Mitchell,Reverted 1 edit by [[Special:Contributions/Swagswagswag123|Swagswagswag123]] ([[User talk:Swagswagswag123|talk]]): Seems trivial to me. ([[WP:TW|TW]])
+2013-06-21T17:59:59+00:00,560946034,560945709,0,The Devil's Advocate,Shay Mitchell,Reverted 1 edit by [[Special:Contributions/24.102.150.189|24.102.150.189]] ([[User talk:24.102.150.189|talk]]): Restore accurate term. ([[WP:TW|TW]])
+2013-05-27T04:40:13+00:00,556967911,556785971,0,EatMorePez,Shay Mitchell,/* Career */ clean up
+2013-05-30T03:46:04+00:00,557456721,552541435,0,Webclient101,Shona McGarty,Removing protection template from a non-protected page
+2013-01-29T20:21:30+00:00,535568875,535564116,0,AnemoneProjectors,Shona McGarty,/* Personal life */ DOI not relevant
+2013-05-13T10:47:42+00:00,554866711,554866694,0,85.80.135.65,The Dumping Ground series 2,Undid revision 554866694 by [[Special:Contributions/109.154.34.146|109.154.34.146]] ([[User talk:109.154.34.146|talk]])
+2013-04-04T15:04:40+00:00,548673322,548668349,0,AnemoneProjectors,Tiffany Butcher,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/79.67.251.68|79.67.251.68]] ([[User talk:79.67.251.68|talk]]) to last version by AnemoneProjectors
+2012-12-09T05:02:02+00:00,527134379,527088018,0,2602:306:3A25:D1B0:F584:5471:F31:6B0C,Tina Cohen-Chang,/* Storylines */
+2013-02-01T11:43:48+00:00,536010791,535921671,0,AnemoneProjectors,Tiffany Butcher,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/82.30.29.154|82.30.29.154]] ([[User talk:82.30.29.154|talk]]) to last version by 86.140.104.172
+2013-04-03T18:53:52+00:00,548530110,548504056,0,Robin,Tina Cohen-Chang,Undid revision 548504056 by [[Special:Contributions/Youaretheoneinmymind|Youaretheoneinmymind]] ([[User talk:Youaretheoneinmymind|talk]]) too small for subsections
+2013-02-12T12:17:01+00:00,537862100,537861751,0,DangerousPanda,User talk:Nika1234,You have been blocked from editing to prevent further [[WP:DE|disruption]] caused by your engagement in an [[WP:EW|edit war]]. ([[WP:TW|TW]])
+2013-06-30T07:58:28+00:00,562216647,562209010,0,Acalamari,Vanessa Hudgens,"Removed again in accordance with [[Template:Infobox musical artist#alias]]; in addition, other people are free to revert edits. A non-consensus ""don't remove this"" is meaningless"
+2013-06-21T16:32:24+00:00,560931379,560931193,0,Stargrl,Vanessa Hudgens,"/* 2006–08: High School Musical, music career, and rise to fame */"
+2013-01-01T12:45:48+00:00,530749953,530328158,0,Tobby72,Vanessa Hudgens,add image
+2013-06-28T09:59:41+00:00,561943971,561877179,0,Bt3082,Waterloo Road series 9,/* Cast and characters */
+2013-06-22T17:56:03+00:00,561092163,560760144,0,86.46.209.131,Whitney Dean,
+2012-12-16T18:00:15+00:00,528337571,528337425,0,Ghostwheel,Whitney Dean,"rv opinion and incomplete sentence, removal of source"
+2013-05-12T04:50:13+00:00,554689886,554608824,0,BlueMoonset,Will Schuester,"putting ""wife"" in ""spouse"" section is redundant"
+2013-03-16T23:04:58+00:00,544775415,544775276,0,And we drown,Vanessa Hudgens,added [[Category:American actresses of Chinese descent]] using [[WP:HC|HotCat]]
+2013-01-25T23:54:03+00:00,534908310,534908211,0,Thingg,Will Schuester,Reverted edits by [[Special:Contributions/89.16.90.221|89.16.90.221]] ([[User talk:89.16.90.221|talk]]) to last revision by 69.248.130.96 ([[WP:HG|HG]])
+2013-07-10T00:43:37+00:00,563598325,563595106,0,Karina Battis,Zendaya,
+2013-06-14T12:51:29+00:00,559870261,559260292,0,Kennywood fan,Zendaya,
+2013-07-06T20:16:32+00:00,563152403,554689886,0,2.27.221.90,Will Schuester,/* Season 1 */
+2013-05-26T23:38:22+00:00,556933263,556529050,0,Mariavolt,Zendaya,
+2013-05-29T05:00:28+00:00,557287312,557232295,0,Cydebot,According to Jim,Robot - Moving category English-language television series to [[:Category:English-language television programming]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2013 March 17]].
+2011-04-28T19:05:50+00:00,426428721,426250012,0,72.174.6.235,According to Jim,/* History */
+2012-10-07T21:22:36+00:00,516532064,515825624,0,Chowbok,According to Jim,"[[WP:GENFIXES|General fixes]], replaced: a pair of twins → twins using [[Project:AWB|AWB]]"
+2011-12-29T17:39:07+00:00,468304039,466354210,0,14.99.115.168,According to Jim,Jim belushi was lead actor of the show till the last season
+2011-12-04T00:15:41+00:00,463913694,463788545,0,FantasyGirl1200,According to Jim,
+2013-02-15T23:28:40+00:00,538482678,538481628,0,98.193.108.238,According to Jim,/* DVD releases */
+2012-01-11T11:50:59+00:00,470777446,470753602,0,Woohookitty,According to Jim,[[:en:WP:CLEANER|WPCleaner]] (v1.09) Repaired link to disambiguation page - [[WP:DPL|(You can help)]] - [[MBC 4]]
+2012-09-23T19:31:17+00:00,514206132,511193548,0,PetrPP,According to Jim,Fixed parameter production company in Template:Infobox_television
+2012-10-31T20:02:57+00:00,520794966,520399958,0,Oanabay04,According to Jim,/* History */
+2012-06-12T21:33:33+00:00,497289102,495829808,0,BD2412,According to Jim,"minor fixes, mostly [[Wikipedia:Disambiguation pages with links|disambig links]], replaced: [[Image: → [[File:, [[CMT]] → [[Country Music Television|CMT]] using [[Project:AWB|AWB]]"
+2011-06-10T19:39:25+00:00,433603405,431467911,0,Του Δημήτρη,According to Jim,/* Syndication */
+2012-12-22T13:25:50+00:00,529274097,529051448,0,217.140.238.237,Ashley Benson,/* Career */
+2012-09-25T12:19:44+00:00,514478015,514321281,0,Adamiow,Anna Wing,"/* Career */Correct after page move, replaced: Doctors (2000 TV series)|Doctors → Doctors (soap opera)|Doctors using [[Project:AWB|AWB]]"
+2012-03-13T09:47:43+00:00,481656008,480701911,0,Quentin X,Anna Wing,/* Career */
+2013-04-08T12:43:19+00:00,549317030,549231564,0,94.7.19.154,Ashley Benson,
+2012-08-01T18:40:28+00:00,505302072,505267116,0,Redrose64,Anna Wing,superfluous
+2011-07-09T06:04:40+00:00,438531315,438489132,0,67.188.67.129,Alex Russo,/* Alex's Love Interests */
+2011-05-22T13:46:20+00:00,430346702,430253325,0,95.52.166.144,Ashley Benson,/* External links */
+2011-11-08T21:39:07+00:00,459696131,443327735,0,Waacstats,Aubrey Dollar,/* External links */Add persondata short description using [[Project:AWB|AWB]]
+2012-09-25T14:21:31+00:00,514493027,511753846,0,213.35.182.201,Aubrey Dollar,
+2012-11-08T05:53:54+00:00,521952003,521951852,0,98.214.193.131,Alex Russo,/* Personality */
+2012-02-20T16:11:22+00:00,477900856,477900313,0,89.122.94.36,Ashley Benson,/* Filmography */
+2013-05-30T13:02:38+00:00,557512547,557023415,0,80.42.228.103,Anna Wing,/* Personal life */
+2012-06-26T12:21:17+00:00,499433667,498368844,0,86.108.53.230,Alex Russo,/* Alex's love interests */
+2013-04-18T09:24:14+00:00,550949350,549987733,0,NinjaTazzyDevil,Bella Thorne,/* Filmography */
+2012-08-08T09:02:27+00:00,506364065,506363845,0,41.146.49.200,Bella Thorne,/* Early life */
+2011-07-12T06:17:58+00:00,439040593,439006425,0,Atlan,Billi Bruno,this is compliant with the [[WP:MOS]] stop undoing it
+2012-09-11T15:17:58+00:00,511863157,510769873,0,MastiBot,Bella Thorne,r2.7.2) (Robot: Adding [[vi:Bella Thorne]]
+2012-03-22T20:20:54+00:00,483420008,482992949,0,Stephanie J Stone,Bella Thorne,/* Singles */
+2012-04-19T06:25:40+00:00,488127551,488127507,0,IJVin,Blaine Anderson,
+2012-07-06T05:32:01+00:00,500905328,498180335,0,SilvonenBot,Blaine Anderson,r2.7.2) (Robot: Adding [[nl:Blaine Anderson]]
+2011-11-09T06:14:53+00:00,459761866,439040593,0,Waacstats,Billi Bruno,/* External links */Add persondata short description using [[Project:AWB|AWB]]
+2012-08-01T19:18:11+00:00,505307793,504075445,0,71.164.66.246,Blaine Anderson,/* Storylines */
+2011-09-18T15:31:52+00:00,451157292,450452493,0,97198,Blaine Anderson,/* Development */
+2013-05-10T05:25:08+00:00,554402226,554389677,0,94.145.2.68,Blake Jenner,
+2013-07-17T23:41:25+00:00,564717788,564717080,0,Wine Guy,Blake Jenner,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/80.192.17.42|80.192.17.42]] ([[User talk:80.192.17.42|talk]]): Unsourced in BLP. ([[WP:TW|TW]])
+2012-12-30T20:52:15+00:00,530502564,530502434,0,86.185.21.108,Blake Jenner,
+2012-08-01T19:08:49+00:00,505306436,502757719,0,71.164.66.246,Brittany Pierce,/* Storylines */
+2011-05-19T02:27:00+00:00,429818881,429817242,0,Frickative,Brittany Pierce,Undid revision 429817242 by [[Special:Contributions/58.160.128.174|58.160.128.174]] ([[User talk:58.160.128.174|talk]]) Never happened
+2011-09-05T14:11:33+00:00,448584982,448021116,0,Tabercil,Brittany Pierce,expand descrip
+2013-01-27T16:01:31+00:00,535184908,533031418,0,98.200.253.78,Brittany Pierce,/* Season 4 */
+2012-05-23T21:33:45+00:00,494053212,493212891,0,66.65.116.97,Brittany Pierce,/* Storylines */
+2013-07-01T15:23:06+00:00,562406171,562239702,0,95.21.39.77,Candice King,/* Awards */
+2011-12-15T23:50:13+00:00,466078209,465468433,0,69.5.152.158,Brittany Pierce,
+2012-02-02T12:46:28+00:00,474570151,474551270,0,MystBot,Candice King,r2.7.1) (Robot: Adding [[ja:キャンディス・アッコラ]]
+2011-12-04T15:08:43+00:00,464049196,464044285,0,Murmuration,Candice King,Undid revision 464044285 by [[Special:Contributions/77.121.185.154|77.121.185.154]] ([[User talk:77.121.185.154|talk]])
+2012-02-16T07:01:45+00:00,477142668,476805014,0,75.1.216.201,Cory Monteith,/* Early life */
+2012-06-26T09:48:18+00:00,499419486,499416962,0,86.44.68.164,Cory Monteith,/* Personal life */
+2013-07-06T22:02:04+00:00,563163987,563163881,0,86.23.96.92,Cory Monteith,/* Personal life */
+2013-04-01T10:14:27+00:00,548125714,548109705,0,122.105.131.254,Cory Monteith,
+2013-07-17T23:35:45+00:00,564717345,564714239,0,Starcheerspeaksnewslostwars,Cory Monteith,/* Death */ added wikilinks. the 2nd paragraph is horribly written
+2011-10-29T00:44:03+00:00,457902785,457902688,0,Trusilver,Cory Monteith,Reverted edits by [[Special:Contributions/74.12.191.66|74.12.191.66]] ([[User talk:74.12.191.66|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])
+2012-06-15T00:40:57+00:00,497637582,497569236,0,97.127.68.45,Cory Monteith,/* Personal life */
+2012-02-03T21:41:02+00:00,474856548,474853959,0,DVdm,Cory Monteith,Reverted edits by [[Special:Contributions/188.141.109.231|188.141.109.231]] ([[User talk:188.141.109.231|talk]]) addition of [[WP:References|unsourced]] content ([[WP:HG|HG]])
+2012-11-18T14:22:53+00:00,523671746,522898899,0,Thedarkknightjc,Cory Monteith,
+2012-11-12T13:28:37+00:00,522633397,522593821,0,VolkovBot,Cory Monteith,r2.7.2) (Robot: Adding [[da:Cory Monteith]]
+2012-01-12T02:39:06+00:00,470903425,470709526,0,Dhialokaaaa,Demi Lovato,/* Awards and nominations */
+2012-05-21T21:01:12+00:00,493722144,493721058,0,Gareth Griffith-Jones,Cory Monteith,Reverted edit(s) by [[Special:Contributions/108.206.160.254|108.206.160.254]] identified as test/vandalism using [[WP:STiki|STiki]]
+2012-11-03T19:39:45+00:00,521246072,521245992,0,All Hallow's Wraith,Daniel Radcliffe,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/All Hallow's Wraith|All Hallow's Wraith]] ([[User talk:All Hallow's Wraith|talk]]) to last version by Thine Antique Pen
+2011-12-10T18:22:24+00:00,465152995,464707510,0,174.20.89.25,Cory Monteith,Undid revision 464707510 by [[Special:Contributions/TheCOFFEECAT|TheCOFFEECAT]] ([[User talk:TheCOFFEECAT|talk]])
+2013-02-09T11:49:44+00:00,537370685,537292524,0,211.178.179.12,Cory Monteith,/* Nominations */
+2012-08-06T04:17:12+00:00,506017550,506017463,0,LovaticReinhart,Demi Lovato,
+2012-05-10T08:56:47+00:00,491762083,490324253,0,Woohookitty,Daniel Radcliffe,[[:en:WP:CLEANER|WPCleaner]] v1.13 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[America]]
+2012-05-20T15:30:24+00:00,493511280,493475023,0,Wikigirl 2,Daniel Radcliffe,/* Film */
+2012-03-25T06:59:00+00:00,483810579,483810316,0,Streamerlovesmusic,Demi Lovato,/* 1992-2006: Childhood and youth */
+2011-11-21T18:40:55+00:00,461805586,461804337,0,Rafaelhenrique14,Demi Lovato,
+2013-07-06T14:41:50+00:00,563114738,563063785,0,CollisionCourse,Demi Lovato,/* Filmography */
+2012-09-24T07:33:11+00:00,514278582,514276530,0,DMacks,Demi Lovato,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Elie555121|Elie555121]] ([[User talk:Elie555121|talk]]) to last version by Necrat
+2011-08-28T00:43:46+00:00,447062959,447008146,0,Attmcb,Dianna Agron,
+2012-02-03T03:14:24+00:00,474694371,474470625,0,TonyTheTiger,Dianna Agron,/* External links */  {{ScreenActorsGuildAwards EnsembleTVComedy 2000–2009}}
+2011-10-23T13:59:03+00:00,456981520,456759648,0,ZéroBot,Dianna Agron,r2.7.1) (Robot: Adding [[ko:다이애나 아그론]]
+2012-09-02T22:38:39+00:00,510498972,510482574,0,LiamNolan24,Dianna Agron,Identified as [[WP:VAN| vandalism]]. Stop or you may be [[WP:BP|blocked]].
+2012-07-08T10:22:56+00:00,501224151,501220729,0,All Hallow's Wraith,Dianna Agron,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/101.116.109.56|101.116.109.56]] ([[User talk:101.116.109.56|talk]]) to last version by 68.80.244.246
+2011-06-16T15:18:21+00:00,434599358,434598769,0,Ohconfucius,Dianna Agron,WP doesn't do credits
+2011-10-25T20:22:56+00:00,457374662,457373011,0,Ebyabe,Dianna Agron,Undid revision 457373011 by [[Special:Contributions/78.147.216.115|78.147.216.115]] ([[User talk:78.147.216.115|talk]])
+2012-08-12T17:58:29+00:00,507072349,507002211,0,Arhi4ever,Demi Lovato,
+2013-05-02T05:46:53+00:00,553153565,553079591,0,ScottHW,Emma Watson,/* Modelling */ updated to better quality crop
+2011-08-31T17:30:06+00:00,447688673,447686499,0,Bovineboy2008,Dianna Agron,Undid revision 447686499 by [[Special:Contributions/APS123|APS123]] ([[User talk:APS123|talk]]) please use secondary sources where possible
+2011-12-28T00:01:49+00:00,467997258,467996990,0,CTF83!,Finn Hudson,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/86.24.136.71|86.24.136.71]] ([[User talk:86.24.136.71|talk]]) to last version by 梅酒
+2012-04-18T22:54:07+00:00,488080223,488079917,0,173.166.202.142,Finn Hudson,
+2011-12-12T10:17:48+00:00,465437553,464884348,0,Ripchip Bot,Finn Hudson,r2.7.1) (Robot: Modifying [[pt:Anexo:Lista de personagens de Glee#Finn Hudson]]
+2011-09-28T01:26:42+00:00,452797727,452797649,0,75.168.175.112,Finn Hudson,
+2012-08-08T23:45:05+00:00,506472996,506471788,0,Bongwarrior,Glee (TV series),Reverted to revision 506248898 by Allamericanbear. using [[WP:TWINKLE|TW]]
+2012-09-14T23:48:04+00:00,512520509,512520347,0,Timothyhere,Finn Hudson,/* Casting and creation */
+2012-03-03T19:25:57+00:00,480023105,480022804,0,Bill william compton,Glee (TV series),[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Jariostorres|Jariostorres]] ([[User talk:Jariostorres|talk]]) to last version by ClueBot NG
+2011-11-16T21:53:22+00:00,461015924,461014519,0,Frickative,Finn Hudson,/* Critical response */ Rm silliness
+2012-10-12T19:59:29+00:00,517457088,517456651,0,Ckatz,Glee (TV series),[[Help:Reverting|Reverted]] edits by [[Special:Contributions/74.240.95.74|74.240.95.74]] ([[User talk:74.240.95.74|talk]]) to last version by CTF83! Alt
+2011-12-28T11:04:09+00:00,468063831,468041911,0,Luckas-bot,Glee (TV series),r2.7.1) (Robot: Adding [[ka:კლუბი (სერიალი)]]
+2012-08-28T05:16:00+00:00,509551585,509512192,0,Ecpiandy,Glee (TV series),/* Broadcast */  clarify
+2012-08-15T10:18:30+00:00,507511682,507511602,0,203.218.87.100,Glee (TV series),/* Fandom */
+2013-05-30T01:06:30+00:00,557438474,557307223,0,Therealdavo2,Glee (TV series),/* Ratings */
+2013-01-18T18:50:45+00:00,533730688,527650135,0,FrescoBot,Glee season 1,Bot: [[User:FrescoBot/Section wikilinks|fixing section wikilinks]] and minor changes
+2011-05-14T21:28:41+00:00,429140901,428502109,0,216.121.151.138,Glee season 1,/* Episodes */
+2011-07-16T00:44:16+00:00,439707426,439706494,0,CycloneGU,Glee season 1,"Undid good faith revision 439706494 by [[Special:Contributions/E-man615|E-man615]] ([[User talk:E-man615|talk]]) - Source?  We know April 2010, but August 2008 isn't confirmed."
+2012-11-30T22:44:37+00:00,525770925,525664667,0,SchrutedIt08,Glee season 2,"/* Episodes */ Fiddling with the column widths, I think this is more successful."
+2012-09-23T21:38:54+00:00,514222044,514209742,0,Bad Graphics Ghost,Glee season 4,Undid revision 514209742 by [[Special:Contributions/24.43.186.100|24.43.186.100]] ([[User talk:24.43.186.100|talk]])
+2012-11-30T22:44:33+00:00,525770913,525664898,0,SchrutedIt08,Glee season 3,"/* Episodes */ Fiddling with the column widths, I think this is more successful."
+2012-06-02T19:32:25+00:00,495663220,495660019,0,Jasonbres,Glee season 2,Undid revision 495660019 by [[Special:Contributions/Aswansmith007|Aswansmith007]] ([[User talk:Aswansmith007|talk]])
+2011-07-28T23:43:22+00:00,441957164,441693135,0,EmausBot,Glee season 2,r2.6.4) (robot Modifying: [[id:Glee (musim 2)]]
+2012-02-18T09:34:42+00:00,477506722,477468702,0,210.55.215.173,Good Luck Charlie,/* Awards */
+2011-06-21T06:56:41+00:00,435414195,435407302,0,Cronologium,Good Luck Charlie,Undid revision 435407302 by [[Special:Contributions/71.235.203.129|71.235.203.129]] ([[User talk:71.235.203.129|talk]]) She learned in episode 4
+2012-06-28T20:47:04+00:00,499809969,499693904,0,Allybelle12,Gregg Sulkin,/* Filmography */
+2011-05-31T08:58:19+00:00,431793686,431793464,0,Stephenjamesx,Haylie Duff,/* Discography */ removed excessive overlinking.
+2012-09-14T11:02:06+00:00,512376541,512340015,0,Keith D,Gregg Sulkin,Undid revision 512340015 by [[Special:Contributions/190.72.27.121|190.72.27.121]] ([[User talk:190.72.27.121|talk]]) - cannot use external files - must upload to Wiki first before using
+2012-11-09T06:48:22+00:00,522136892,521924958,0,ZéroBot,Gregg Sulkin,r2.7.1) (Robot: Adding [[ko:그레그 설킨]]
+2011-09-06T20:03:57+00:00,448803544,448271700,0,149.76.2.3,Haylie Duff,
+2013-06-03T13:00:39+00:00,558122841,557527416,0,Keith D,Gregg Sulkin,/* Life and career */ Day first dates
+2012-05-01T04:48:01+00:00,490071306,488452466,0,87.189.213.218,Haylie Duff,/* Music */
+2013-02-28T11:48:55+00:00,541220890,541220756,0,Sofffie7,Haylie Duff,not notable
+2011-06-03T00:50:20+00:00,432271562,432271460,0,76.229.205.239,Haylie Duff,/* Filmography */
+2012-03-04T15:46:51+00:00,480163016,480162712,0,Mig93,Haylie Duff,/* Public image and personal life */
+2012-09-19T03:14:58+00:00,513475424,510431302,0,67.170.112.119,Haylie Duff,/* Filmography */
+2013-03-30T01:51:04+00:00,547730273,544781966,0,50.29.91.11,Haylie Duff,/* Public image and personal life */
+2011-08-07T09:29:51+00:00,443482679,443480528,0,MER-C,Heather Morris,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Stenvall350|Stenvall350]] ([[User talk:Stenvall350|talk]]) to last version by Peggy820120
+2013-07-16T17:35:07+00:00,564537054,564373740,0,Marfbody,Heather Morris,
+2012-05-21T18:03:07+00:00,493694973,493694902,0,Dbddjr,Heather Morris,/* Filmography */
+2012-11-07T20:48:59+00:00,521882945,520993941,0,TjBot,Heather Morris,r2.7.2) (Robot: Adding [[he:האת'ר מוריס]]
+2012-12-14T08:33:09+00:00,527985513,527979846,0,Tbhotch,Heather Morris,Reverted edits by [[Special:Contributions/194.239.146.65|194.239.146.65]] ([[User talk:194.239.146.65|talk]]) to last revision by 108.254.76.199 ([[WP:HG|HG]])
+2012-12-24T23:45:20+00:00,529660401,529660337,0,189.218.69.168,Heather Morris,/* Filmography */
+2012-06-20T19:14:28+00:00,498542253,498542185,0,AliReza,Heather Morris,Undid revision 498542185 by [[Special:Contributions/76.194.80.98|76.194.80.98]] ([[User talk:76.194.80.98|talk]])
+2011-07-15T14:38:49+00:00,439626126,437855805,0,121.54.32.131,Heather Morris,/* Career */
+2012-08-26T22:24:17+00:00,509321930,509017065,0,Rickardo98a,Heather Morris,
+2011-11-15T02:30:56+00:00,460713877,460150610,0,Tovalu,Heather Morris,
+2011-07-20T17:34:42+00:00,440514499,440194395,0,2.26.157.164,Heather Morris,/* Filmography */
+2011-06-09T13:31:23+00:00,433382965,432694551,0,DumbBOT,Heather Morris,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2012-02-15T08:42:04+00:00,476974069,476967927,0,Mezigue,Hermione Granger,Undid revision 476967927 by [[Special:Contributions/202.76.179.13|202.76.179.13]] ([[User talk:202.76.179.13|talk]])
+2011-08-03T15:15:56+00:00,442856584,442461824,0,Stephanie J Stone,Hilary Duff,/* Filmography */
+2011-07-17T08:00:03+00:00,439911933,439760900,0,Lambiam,Hermione Granger,/* Harry Potter and the Deathly Hallows */ wikilink
+2012-04-06T12:22:07+00:00,485889465,484207816,0,94.172.131.196,Jacqueline Jossa,
+2012-08-26T18:55:01+00:00,509291452,508880561,0,Livelikemusic,Hilary Duff,MTV is a valid source.
+2012-06-27T21:08:07+00:00,499659074,499658577,0,FisherQueen,Jacqueline Jossa,remove uncited
+2012-08-09T20:54:46+00:00,506619777,506616633,0,Csaar,Hilary Duff,/* 2003–06: Breakthrough film roles */
+2012-12-17T00:10:27+00:00,528389088,528388857,0,Thorwald,John Gallagher Jr.,fmt
+2013-06-01T16:30:31+00:00,557851200,557829921,0,Chaheel Riens,Hermione Granger,Undid revision 557829921 by [[Special:Contributions/86.52.196.103|86.52.196.103]] ([[User talk:86.52.196.103|talk]]) only use surnames.
+2012-07-23T22:19:00+00:00,503843202,503836141,0,94.193.198.128,John Gallagher Jr.,/* Film and television */
+2011-11-11T12:38:42+00:00,460120252,460119266,0,Trafford09,John Gallagher Jr.,"Tidy, & +link to Beau Willimon"
+2012-02-16T21:12:42+00:00,477253356,477253305,0,Wikipelli,Heather Morris,Reverted edits by [[Special:Contributions/24.63.87.35|24.63.87.35]] ([[User talk:24.63.87.35|talk]]) to last revision by Gimmetoo ([[WP:HG|HG]])
+2012-04-21T00:06:52+00:00,488415916,488202455,0,JDDJS,John Gallagher Jr.,/* References */
+2013-01-03T04:57:46+00:00,531037073,529274692,0,FrescoBot,John Gallagher Jr.,Bot: [[User:FrescoBot/Links|link syntax/spacing]] and minor changes
+2012-04-02T06:34:29+00:00,485116301,485097919,0,Studerby,John Gallagher Jr.,"cleanup, remove drive-by rudeness"
+2012-01-09T23:54:17+00:00,470524227,467286973,0,68.81.109.235,John Gallagher Jr.,
+2012-01-31T20:24:57+00:00,474271596,474151076,0,68.48.71.124,John Gallagher Jr.,
+2011-10-22T20:55:47+00:00,456883625,453608390,0,74.96.199.139,John Gallagher Jr.,/* Film and Television */
+2012-05-27T05:56:47+00:00,494573618,492350780,0,96.242.121.230,John Gallagher Jr.,
+2012-04-29T17:07:40+00:00,489811163,489768031,0,Ebyabe,Jonathan Groff,/* Career */ update tenses
+2011-11-19T03:25:52+00:00,461377615,460120252,0,GoingBatty,John Gallagher Jr.,Disambiguated: [[Law and Order]] → [[Law & Order]]
+2012-04-14T02:54:23+00:00,487277163,486161269,0,82.2.50.208,Jonathan Groff,/* Career */
+2011-06-08T19:20:52+00:00,433258248,433258089,0,Oddbodz,Jonathan Groff,Reverted edits by [[Special:Contributions/86.17.132.231|86.17.132.231]] ([[User talk:86.17.132.231|talk]]) to last revision by 222.127.92.121 ([[WP:HG|HG]])
+2011-06-12T03:55:03+00:00,433827569,430441320,0,EmausBot,John Gallagher Jr.,"r2.6.4) (robot Adding: [[es:John Gallagher, Jr.]]"
+2012-06-20T22:17:18+00:00,498567371,497642450,0,All Hallow's Wraith,John Gallagher Jr.,/* External links */ unsourced
+2011-07-22T10:14:51+00:00,440808011,440776347,0,Bovineboy2008,Jonathan Groff,Reverted 1 edit by [[Special:Contributions/76.186.186.135|76.186.186.135]] ([[User talk:76.186.186.135|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Mtking. ([[WP:TW|TW]])
+2012-08-16T12:18:42+00:00,507676495,506688588,0,RanZag,Jonathan Groff,
+2012-07-26T23:52:11+00:00,504346036,504123043,0,108.16.137.173,Jonathan Groff,/* Early life */
+2012-06-04T12:04:03+00:00,495922061,495691254,0,RL0919,Jonathan Groff,rm unnecessary tag
+2011-11-19T19:01:19+00:00,461464264,461463509,0,Qwfp,Jonathan Groff,Undid revision 461463509 by [[Special:Contributions/109.77.37.1|109.77.37.1]] ([[User talk:109.77.37.1|talk]]) wikipedia does not publish rumours
+2011-08-26T15:25:55+00:00,446834397,446741038,0,Adam Zábranský,Jonathan Groff,/* External links */ iw
+2012-05-23T00:51:53+00:00,493914069,493778109,0,NathanielTheBold,Jonathan Groff,/* Personal life */
+2012-12-11T02:03:26+00:00,527455548,524621796,0,76.105.145.143,Jonathan Groff,/* Personal life */
+2011-10-30T01:32:34+00:00,458060556,457699681,0,67.174.211.142,Jonathan Groff,/* Career */
+2012-07-29T01:30:24+00:00,504680647,504346036,0,CommonsDelinker,Jonathan Groff,"Removing ""Jonathan_Groff_and_Lea_Michele.jpg"", it has been deleted from Commons by [[commons:User:Fastily|Fastily]] because: Per [[commons:Commons:Deletion requests/File:Jonathan Groff and Lea Michele.jpg]]."
+2012-02-25T22:36:12+00:00,478847575,478846229,0,Favonian,Jonathan Groff,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/86.24.136.71|86.24.136.71]] ([[User talk:86.24.136.71|talk]]) to last version by 201.50.224.54
+2013-06-06T07:21:14+00:00,558566542,557132407,0,TenPoundHammer,Jonathan Groff,add
+2012-09-28T23:06:00+00:00,515076723,513314152,0,71.95.144.202,Jonathan Groff,/* Career */
+2012-10-11T19:53:59+00:00,517257471,517257452,0,Mike Rosoft,Jonathan Groff,Reverted edits by [[Special:Contributions/201.131.116.249|201.131.116.249]] ([[User talk:201.131.116.249|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])
+2011-05-28T22:22:42+00:00,431398664,431398445,0,67.87.85.88,Jonathan Groff,/* Cast recordings */
+2012-11-04T10:29:41+00:00,521337304,520450847,0,70.51.171.228,Jonathan Groff,
+2011-11-10T14:56:51+00:00,459976019,459975795,0,Qwfp,Jonathan Groff,Undid revision 459975795 by [[Special:Contributions/71.48.224.10|71.48.224.10]] ([[User talk:71.48.224.10|talk]]) unsourced
+2011-12-29T06:41:15+00:00,468223782,468223682,0,97.112.193.216,Jonathan Groff,/* Career */
+2011-05-14T01:02:35+00:00,429011143,428981961,0,MaJic,Jonathan Groff,/* Featured singles */
+2011-09-26T01:02:36+00:00,452448220,452340933,0,CommonsDelinker,Jonathan Groff,"Removing ""Jonathan_""Drew""_Groff.jpg"", it has been deleted from Commons by [[commons:User:Courcelles|Courcelles]] because: In category [[commons::category:Media missing permission as of 17 September 2011|Media missing permission as of 17 September 201"
+2012-01-16T18:19:54+00:00,471717224,471709842,0,Arunsingh16,Jonathan Groff,Reverted edit(s) by [[Special:Contributions/184.56.232.229|184.56.232.229]] identified as test/vandalism using [[WP:STiki|STiki]]
+2013-01-08T04:13:24+00:00,531896418,531003729,0,Makecat-bot,Jonathan Groff,r2.7.3) (Robot: Adding [[ja:ジョナサン・グロフ]]
+2012-05-17T01:08:19+00:00,492951876,492569837,0,98.109.197.248,Jonathan Groff,/* Career */
+2012-07-15T18:03:38+00:00,502466660,502406219,0,Dexbot,Jonathan Groff,r2.7.1) (Robot: Adding [[fa:جاناتان گروف]]
+2012-07-25T03:00:54+00:00,504051962,504049412,0,78.26,Kat Dennings,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/216.115.131.44|216.115.131.44]] ([[User talk:216.115.131.44|talk]]): Unencyclopedic. ([[WP:TW|TW]])
+2012-03-21T08:26:11+00:00,483065026,483063551,0,Rwessel,Kat Dennings,Undid revision 483063551 by [[Special:Contributions/62.107.193.47|62.107.193.47]] ([[User talk:62.107.193.47|talk]])  correct before
+2012-08-05T23:21:48+00:00,505981086,505546209,0,174.130.48.223,Kat Dennings,
+2013-05-19T12:39:29+00:00,555780787,555433488,0,85.5.104.58,Kat Dennings,The website link is broken. No official website found on google.
+2012-07-27T14:53:20+00:00,504437427,504437346,0,DMacks,Kristen Stewart,"Changed protection level of Kristen Stewart: Violations of the [[WP:Biographies of living persons|biographies of living persons policy]]: dispute on talk-page; see [[WP:BLPN]] as well (‎[edit=sysop] (expires 14:53, 30 July 2012 (UTC)))"
+2012-11-24T00:25:08+00:00,524574849,524030016,0,Portillo,Kristen Stewart,
+2012-09-19T01:01:48+00:00,513462747,513310618,0,TheLou75,Kristen Stewart,/* Twilight success (2008–present) */ Moved citation to the correct sentence
+2011-07-28T04:24:45+00:00,441815946,441804640,0,Adrian J. Hunter,Kristen Stewart,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Lucazeppelin|Lucazeppelin]] ([[User talk:Lucazeppelin|talk]]): No evidence filming has begun - please see talk. ([[WP:TW|TW]])
+2012-04-12T14:44:00+00:00,487011548,486089173,0,86.140.133.101,Kurt Hummel,
+2011-10-18T23:13:42+00:00,456266289,455569657,0,DBD,Kurt Hummel,links etc. using [[Project:AWB|AWB]]
+2011-04-22T09:48:46+00:00,425311339,425311299,0,Fæ,Lea Michele,Reverted edits by [[Special:Contributions/Binky2006|Binky2006]] to last version by Will Beback Auto ([[User:Ale_jrb/Scripts/igloo|GLOO]])
+2012-03-11T16:48:29+00:00,481348594,481085730,0,92.4.167.90,Lea Michele,
+2011-08-07T17:15:08+00:00,443534496,443482686,0,Luckas-bot,Lea Michele,r2.7.1) (robot Adding: [[sh:Lea Michele]]
+2012-11-29T01:48:20+00:00,525469997,525466061,0,Danregal,Lea Michele,Undid revision 525466061 by [[Special:Contributions/Tribal44|Tribal44]] ([[User talk:Tribal44|talk]]): Please discuss first in the discussion opened on talk page. ([[Wikipedia:Twinkle|TW]])
+2012-05-23T05:31:06+00:00,493943065,493789567,0,Steam5,Lea Michele,
+2012-02-23T08:14:04+00:00,478392100,478390393,0,All Hallow's Wraith,Lea Michele,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/116.240.153.117|116.240.153.117]] ([[User talk:116.240.153.117|talk]]) to last version by ClueBot NG
+2012-06-19T21:15:26+00:00,498398218,498240223,0,Bigweeboy,Lea Michele,- EL
+2013-06-23T14:58:47+00:00,561214564,561214260,0,Ignatzmice,Lea Michele,[[Help:Reverting|Reverted]] 1 [[Wikipedia:Pending changes|pending]] edit by [[Special:Contributions/Writergrl18|Writergrl18]] to revision 561079187 by Kww: broke image
+2011-07-21T14:38:21+00:00,440659873,440589570,0,Attmcb,Lea Michele,/* Credits */
+2012-01-15T06:13:55+00:00,471451714,471418531,0,SIbuff,Lea Michele,Categories expanded.
+2012-03-30T23:59:51+00:00,484774918,484759030,0,Manway,Lea Michele,Undid revision 484759030 by [[Special:Contributions/Jaymcb|Jaymcb]] ([[User talk:Jaymcb|talk]])Listed reference makes no mention of veganism or otherwise.
+2011-09-20T10:13:09+00:00,451477488,451477000,0,Helpful Pixie Bot,Lea Michele,Dated {{Refimprove}}. (Build p613)
+2011-07-22T14:07:16+00:00,440832789,440659873,0,GcSwRhIc,Lea Michele,Reverted 1 edit by [[Special:Contributions/Attmcb|Attmcb]] ([[User talk:Attmcb|talk]]): Unsourced. ([[WP:TW|TW]])
+2012-10-03T18:38:46+00:00,515836216,515739899,0,Aaron4613,Lea Michele,"/* Film, television, and other work */"
+2011-08-07T09:29:53+00:00,443482686,443480419,0,MER-C,Lea Michele,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Stenvall350|Stenvall350]] ([[User talk:Stenvall350|talk]]) to last version by Tribal44
+2012-04-26T15:08:37+00:00,489320627,489320461,0,Jaymcb,Lea Michele,/* Awards and nominations */
+2011-08-28T20:42:22+00:00,447194091,447191032,0,All Hallow's Wraith,Lea Michele,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/95.148.98.203|95.148.98.203]] ([[User talk:95.148.98.203|talk]]) to last version by Davejohnsan
+2012-08-30T03:53:54+00:00,509876346,509876002,0,Mojo Hand,Lea Michele,Reverted addition of dubious unsourced content ([[WP:HG|HG]])
+2011-07-07T12:54:46+00:00,438232920,438215469,0,Cydebot,Lea Michele,Robot - Removing category 2010s singers per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 June 30]].
+2011-08-29T19:09:20+00:00,447360390,447360286,0,Velella,Lea Michele,Reverted addition of dubious unsourced content ([[WP:HG|HG]])
+2011-05-14T23:58:25+00:00,429157612,429154261,0,GcSwRhIc,Lea Michele,Reverted 1 edit by [[Special:Contributions/68.35.93.58|68.35.93.58]] ([[User talk:68.35.93.58|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Andrewlp1991. ([[WP:TW|TW]])
+2012-02-11T20:33:28+00:00,476333030,476332767,0,208.54.4.160,Lea Michele,
+2012-10-14T16:09:00+00:00,517759608,517712507,0,77.0.252.112,Lea Michele,/* Awards and nominations */
+2011-10-10T23:15:22+00:00,454951602,454941524,0,Manway,Lea Michele,Reverted 2 edits by [[Special:Contributions/Hollywood679|Hollywood679]] ([[User talk:Hollywood679|talk]]): Already covered earlier. ([[WP:TW|TW]])
+2011-08-15T10:02:58+00:00,444948278,444947340,0,All Hallow's Wraith,Lea Michele,/* Early life */ re-added with ref.
+2011-10-19T22:09:57+00:00,456426252,456411300,0,173.89.144.105,Lea Michele,
+2011-08-01T19:18:09+00:00,442554172,442553790,0,Bovineboy2008,Lea Michele,Undid revision 442553214 by [[Special:Contributions/Edmariemia305|Edmariemia305]] ([[User talk:Edmariemia305|talk]]) nominations do not go in the lede sentence as [[WP:PEACOCK|peacock term]]s
+2011-09-29T14:30:22+00:00,453053225,453016802,0,50.28.140.236,Lea Michele,/* Film and television */
+2013-01-15T23:19:42+00:00,533277571,533276605,0,Bidgee,Lea Michele,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/65.128.228.243|65.128.228.243]] ([[User talk:65.128.228.243|talk]]) to last version by Intelligentsium
+2013-04-14T11:01:18+00:00,550291584,550251971,0,DRAGON BOOSTER,Lea Michele,/* External links */ Removing links per [[WP:ELNO]]
+2011-08-29T22:57:29+00:00,447393481,447390849,0,Tribal44,Lea Michele,Undid revision 446662139 by [[Special:Contributions/76.117.174.241|76.117.174.241]] ([[User talk:76.117.174.241|talk]])
+2012-09-09T21:07:50+00:00,511593625,511593517,0,Tide rolls,Lea Michele,unsourced ([[WP:HG|HG]])
+2012-05-30T07:54:57+00:00,495092176,495090474,0,Jaymcb,Lea Michele,/* Awards and nominations */
+2011-07-08T16:17:48+00:00,438433914,438433690,0,Fluffernutter,Lea Michele,Undid revision 438433690 by [[Special:Contributions/123.176.15.182|123.176.15.182]] ([[User talk:123.176.15.182|talk]]) Please provide a citation for this information
+2012-08-08T23:46:04+00:00,506473095,506411878,0,All Hallow's Wraith,Lea Michele,"rv, possible but unsourced"
+2012-07-11T20:51:00+00:00,501779989,501428072,0,91.74.105.196,Lea Michele,/* Awards and nominations */
+2011-12-06T10:51:25+00:00,464370277,464363810,0,71.201.159.173,Lea Michele,/* Film and television */
+2012-11-13T05:10:51+00:00,522769956,522731638,0,96.42.125.174,Lea Michele,
+2011-08-10T21:00:52+00:00,444136215,444002466,0,71.50.172.117,Lea Michele,/* External links */
+2011-06-01T12:55:40+00:00,431993259,431743261,0,FallenWings47,Lea Michele,
+2012-02-03T03:20:50+00:00,474694988,474467335,0,TonyTheTiger,Lea Michele,/* External links */  {{ScreenActorsGuildAwards EnsembleTVComedy 2000–2009}}
+2011-06-18T16:46:38+00:00,434955434,434909731,0,Ohconfucius,Lea Michele,"[[User:Ohconfucius/script|script]]-assisted [[WP:MOS|style]] audit, incl. [[WP:MOSDATES|dates]], [[MOS:LINK]] and [[MOS:TEXT]]"
+2012-09-13T13:04:45+00:00,512173267,512173186,0,82.43.154.217,Lea Michele,/* Personal Life */
+2012-07-19T20:06:19+00:00,503170668,503169009,0,Flami72,Lea Michele,"Undid revision 503169009 by [[Special:Contributions/96.niki.kermitlover99696|96.niki.kermitlover99696]]  revert unsourced, but more importantly, wikipedia is [[WP:NOTGOSSIP]]"
+2011-10-23T18:13:44+00:00,457016450,457016255,0,97.91.184.56,Lea Michele,/* Awards and nominations */
+2013-02-18T21:12:43+00:00,538932603,538301339,0,John,List of Dancing on Ice professional skaters,"clean up, [[WP:MOSICON|deflag]], [[WP:OVERLINK|overlink]], replaced: [[England]] → England, [[Netherlands|Dutch]] → Dutch, [[Russia]] → Russia, [[Belgium|Belgian]] → Belgian using [[Project:AWB|AWB]]"
+2013-06-05T07:22:12+00:00,558408094,547584236,0,175.140.231.163,List of Dancing on Ice professional skaters,/* Maria Filippov */
+2013-04-09T22:21:02+00:00,549585336,548823990,0,Jonnyt 123,List of EastEnders characters,/* Present characters */
+2011-11-07T10:05:59+00:00,459434576,459317900,0,Joshua Guest,List of EastEnders characters,
+2011-08-27T10:26:45+00:00,446953243,446951358,0,Bluebolt94,List of EastEnders characters,"Undid revision 446951358 by [[Special:Contributions/GSorby|GSorby]] ([[User talk:GSorby|talk]]) - Hang on, he's in Monday's episode"
+2011-08-09T13:32:06+00:00,443870551,443870437,0,Wikipelli,List of EastEnders characters,Reverted edits by [[Special:Contributions/90.198.50.194|90.198.50.194]] ([[User talk:90.198.50.194|talk]]) to last revision by Stephenb ([[WP:HG|HG]])
+2012-01-24T21:47:15+00:00,473050847,473049694,0,Bluebolt94,List of EastEnders characters,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/MilfordBoy991|MilfordBoy991]] ([[User talk:MilfordBoy991|talk]]) to last version by JuneGloom07
+2011-08-25T17:55:19+00:00,446689395,446689327,0,89.126.26.183,List of EastEnders characters,/* Future characters */
+2012-01-16T22:03:06+00:00,471756576,471747829,0,Bluebolt94,List of EastEnders characters,"Redlinks encourage editors to create the page. I don't know why you unlinked Discipline on all articles. What if he get's re-created, I shall be reverting you."
+2013-04-07T00:33:26+00:00,549076725,547806979,0,RjwilmsiBot,List of EastEnders characters (2009),"/* Others */Fix cite template param names, Accessdate -> accessdate, Accessdate -> accessdate, Accessdate -> accessdate, Accessdate -> accessdate, using [[Project:AWB|AWB]] (9026)"
+2013-07-14T11:57:36+00:00,564215641,564208296,0,86.177.65.149,List of EastEnders characters (2013),
+2012-11-15T20:00:29+00:00,523204805,523201295,0,Lowercase sigmabot,List of EastEnders characters (2013),Adding protection templates) (bot
+2012-10-13T17:31:49+00:00,517601366,517599455,0,Raintheone,List of Hollyoaks characters,Undid revision 517599455 by [[Special:Contributions/82.47.191.23|82.47.191.23]] ([[User talk:82.47.191.23|talk]]) - Mitzeee alone was fine
+2012-10-08T09:25:20+00:00,516603642,513384126,0,Action Parker,List of High School Musical characters,/* Peyton Leverett */
+2012-07-09T18:32:22+00:00,501436293,501436102,0,Raintheone,List of Hollyoaks characters,Moved Ryan to present
+2011-07-06T23:12:36+00:00,438140107,437756686,0,Rui789,List of Hollyoaks characters,/* Upcoming and returning characters */
+2012-07-08T16:22:42+00:00,501261422,501261222,0,Ratemonth,List of Shake It Up episodes,Undid revision 501261222 by [[Special:Contributions/Jenilee1235|Jenilee1235]] ([[User talk:Jenilee1235|talk]])
+2013-04-26T23:11:22+00:00,552344450,552344212,0,Ratemonth,List of Shake It Up episodes,reverting to last good version
+2011-06-23T03:52:44+00:00,435751783,435750605,0,99.103.153.135,List of Shake It Up episodes,/* Season 1: 2010–2011 */
+2012-06-05T02:03:29+00:00,496044124,496037371,0,Foxxtrot3,List of Shake It Up episodes,"information for Realit Check It Up, and directors and writors"
+2011-07-16T21:25:47+00:00,439841648,439818123,0,92.2.28.135,List of Waterloo Road characters,/* Future characters */
+2011-05-09T19:08:29+00:00,428295310,428293938,0,94.175.7.34,List of Waterloo Road characters,/* Ali Redback */
+2012-04-06T18:54:18+00:00,485950889,485783583,0,92.232.106.195,List of Waterloo Road characters,
+2012-10-13T11:32:41+00:00,517557707,517001352,0,AscotLEE,List of Waterloo Road characters,updated
+2011-05-18T20:32:53+00:00,429777241,429583747,0,ED drama,List of Waterloo Road characters,/* Future characters */ Naomi appears from episode 4
+2012-07-23T09:56:31+00:00,503743070,499310070,0,U-Mos,List of Waterloo Road characters,"/* Past characters */ Lewis is not a pupil for any of series 2, having no fixed role until returning to the canteen in series 3"
+2011-04-28T01:17:40+00:00,426306697,426246346,0,95.144.116.193,List of Waterloo Road characters,/* Departing characters */
+2011-12-03T21:59:59+00:00,463896090,463888120,0,U-Mos,List of Waterloo Road characters,"I'd love it to be true, but it needs a source!"
+2012-05-12T15:43:15+00:00,492215928,492210420,0,U-Mos,List of Waterloo Road characters,"Checked talk page and someone has provided a source, though she remains a returning character unless we can establish that she is returning immediately"
+2011-10-31T09:34:35+00:00,458269402,458245587,0,24.9.6.222,List of Wizards of Waverly Place characters,/* Dean Moriarty */
+2012-01-04T04:54:22+00:00,469454475,469338703,0,61.68.243.151,List of Waterloo Road characters,/* detarting characters */
+2011-07-12T14:06:15+00:00,439089416,438638468,0,WhatGuy,List of Wizards of Waverly Place characters,/* Mason Greyback */
+2013-04-13T21:05:48+00:00,550211648,550157998,0,67.58.211.176,List of Wizards of Waverly Place characters,
+2011-10-18T21:12:22+00:00,456250451,456216598,0,D4nnyw14,List of former Hollyoaks characters,/* Last appeared in 2011 */ removed minors x2
+2013-02-23T09:19:05+00:00,539868006,539807438,0,125.237.23.47,List of former Hollyoaks characters,/* Last appeared in 2012 */
+2012-10-22T17:52:25+00:00,519240284,519034045,0,90.219.195.88,List of former Hollyoaks characters,/* Last appeared in 2009 */
+2013-07-11T18:40:45+00:00,563851235,563116793,0,78.149.89.32,List of former Hollyoaks characters,/* Last appeared in 2013 */
+2012-06-12T15:15:16+00:00,497234711,497234601,0,46.208.237.195,Lynsey Nolan,/* Characterisation */
+2011-12-19T21:08:19+00:00,466750686,466749410,0,Raintheone,Lynsey Nolan,Undid revision 466749410 by [[Special:Contributions/92.4.32.117|92.4.32.117]] ([[User talk:92.4.32.117|talk]]) - no need for more information on one scene
+2012-06-28T22:14:35+00:00,499821011,499820648,0,D4nnyw14,Lynsey Nolan,/* Characterisation */ removed unsourced nonsense
+2012-10-22T18:39:29+00:00,519247892,519247756,0,D4nnyw14,Lynsey Nolan,/* Friendship with Mercedes McQueen */ fix link
+2013-06-02T21:41:20+00:00,558034386,555368395,0,Raintheone,Lynsey Nolan,/* Reception */ ref fix
+2012-04-20T10:13:38+00:00,488311972,485809057,0,Khazar2,Lynsey Nolan,"/* Storylines */clean up, typos fixed: fued → feud using [[Project:AWB|AWB]]"
+2011-08-19T22:13:37+00:00,445731406,445722540,0,Raintheone,Lynsey Nolan,Undid revision 445722540 by [[Special:Contributions/81.156.65.107|81.156.65.107]] ([[User talk:81.156.65.107|talk]]) appeared in HO Later
+2012-09-27T19:21:51+00:00,514859391,503645329,0,86.144.52.167,Mark Womack,/* External links */
+2011-07-26T00:11:35+00:00,441442145,439473382,0,RafikiSykes,Lynsey Nolan,/* Storylines */
+2012-10-05T08:04:13+00:00,516111689,484004520,0,Timtrent,Matt Lapinskas,added [[Category:People educated at The Magna Carta School]] using [[WP:HC|HotCat]]
+2011-07-11T21:16:33+00:00,438977767,438977477,0,The Mark of the Beast,Matthew Morrison,Undid revision 438977477 by [[Special:Contributions/2.25.158.53|2.25.158.53]] ([[User talk:2.25.158.53|talk]])
+2012-07-06T03:59:31+00:00,500897463,500889277,0,Chobot,Matthew Morrison,r2.6.5) (Robot: Adding [[lv:Metjū Morisons]]
+2011-10-31T09:54:17+00:00,458270990,458270879,0,168.105.115.4,Mercedes Jones,/* Storylines */
+2013-03-31T20:09:28+00:00,548033125,548033104,0,Josve05a,Mike Chang,Reverted edits by [[Special:Contributions/174.89.62.27|174.89.62.27]] ([[User talk:174.89.62.27|talk]]) to last revision by BlueMoonset ([[WP:HG|HG]])
+2013-06-06T18:41:18+00:00,558642393,558642066,0,174.117.105.200,Mike Comrie,/* Edmonton Oilers */
+2012-08-05T04:43:26+00:00,505851515,505851431,0,173.181.73.236,Mike Comrie,/* Regular season and playoffs */
+2012-05-14T03:06:20+00:00,492458257,492457704,0,Bernoullies,Mike Comrie,/* Personal life */
+2012-01-21T02:17:59+00:00,472364005,472363918,0,Gleekfan96,Naya Rivera,/* Awards and nominations */
+2011-08-22T01:34:25+00:00,446078696,446073824,0,Bovineboy2008,Naya Rivera,Undid revision 446073824 by [[Special:Contributions/Mad2die5|Mad2die5]] ([[User talk:Mad2die5|talk]])  not sourced and not notable
+2012-06-20T16:13:51+00:00,498516117,498510909,0,Fat&Happy,Naya Rivera,
+2012-04-14T23:26:25+00:00,487418772,487364882,0,RayeRaye121,Naya Rivera,/* Filmography */
+2012-08-29T23:13:05+00:00,509847419,509771323,0,Fat&Happy,Naya Rivera,
+2012-11-16T03:22:09+00:00,523264783,523127567,0,Hmains,Naya Rivera,no explanation; no reason to believe change is helpful or correct
+2013-01-10T10:55:22+00:00,532349472,532349423,0,Zloyvolsheb,Naya Rivera,Undid revision 532349423 by [[Special:Contributions/219.88.198.241|219.88.198.241]] ([[User talk:219.88.198.241|talk]])
+2012-01-16T20:07:14+00:00,471736575,471654596,0,Bruno Meireles,Nick Zano,
+2012-09-04T16:32:24+00:00,510778707,510777841,0,Yutsi,Naya Rivera,Good faith revert of edit(s) by [[Special:Contributions/129.118.169.80|129.118.169.80]] using [[WP:STiki|STiki]]
+2012-07-23T03:04:50+00:00,503697522,499884777,0,XtremeAwesome,Nick Zano,
+2011-08-30T21:29:19+00:00,447554833,445211257,0,99.240.63.15,Nick Zano,/* Career */
+2012-08-09T14:55:08+00:00,506567553,506567071,0,Puramyun31,Nina Dobrev,
+2013-07-08T01:53:47+00:00,563314170,563311328,0,Qwyrxian,Nina Dobrev,"Undid revision 563311328 by [[Special:Contributions/70.79.132.198|70.79.132.198]] ([[User talk:70.79.132.198|talk]]) no, we've had this discusison before"
+2011-06-07T02:17:11+00:00,432958762,432958380,0,XLinkBot,Nina Dobrev,BOT--Reverting link addition(s) by [[:en:Special:Contributions/108.6.202.144|108.6.202.144]] to revision 432750992 (http://twitter.com/#!/iansomerhalder)
+2012-10-07T19:35:00+00:00,516517018,516516079,0,Abbyjjj96,Nina Dobrev,created Personal life section - moved relationship with Ian Somerhalder from Career to Personal life
+2012-04-03T09:20:03+00:00,485307514,484402110,0,Zyxw,Patti LuPone,"update infobox and article, add references"
+2012-09-14T22:22:04+00:00,512504635,508469871,0,173.76.43.81,Patti LuPone,/* Early life and training */
+2011-11-10T11:58:26+00:00,459956998,456464884,0,95.172.75.71,Patti LuPone,
+2011-06-14T12:45:15+00:00,434228380,434227070,0,Flami72,Patti LuPone,"last edit summary should read: ""2 first met"""
+2012-08-13T01:47:36+00:00,507132641,507119427,0,Malleus Fatuorum,Poppy Meadow,Undid revision 507119427 by [[Special:Contributions/Arsenalfan24|Arsenalfan24]] ([[User talk:Arsenalfan24|talk]]) this has already been discussed extensively
+2011-07-10T00:39:55+00:00,438666485,438666430,0,JDDJS,Puck (Glee),
+2011-12-12T15:17:10+00:00,465468140,464884820,0,TonyTheTiger,Puck (Glee),link
+2011-10-18T08:47:41+00:00,456149424,455540157,0,75.23.138.53,Puck (Glee),
+2011-07-10T21:12:20+00:00,438804608,438008263,0,HorrorFan121,Quinn Fabray,/* Casting and creation */
+2012-03-28T10:33:01+00:00,484337640,484336549,0,220.255.2.61,Quinn Fabray,/* Season 3 */
+2012-12-01T02:39:37+00:00,525798094,525775730,0,CTF83! Alt,Quinn Fabray,she's in high school for most episodes
+2011-04-28T02:42:53+00:00,426316569,426310000,0,75.152.210.203,Quinn Fabray,/* Storylines */
+2012-06-06T11:45:06+00:00,496260176,495517644,0,Bill william compton,Quinn Fabray,Glee portal
+2011-05-21T02:59:03+00:00,430135454,430128691,0,98.229.105.140,Quinn Fabray,/* Storylines */
+2012-03-18T01:37:27+00:00,482466251,482466083,0,CTF83!,Quinn Fabray,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Fuinn101|Fuinn101]] ([[User talk:Fuinn101|talk]]) to last version by Matt Deres
+2012-05-23T00:50:03+00:00,493913872,492901290,0,82.2.50.208,Quinn Fabray,
+2012-11-12T13:36:50+00:00,522634269,522532460,0,VolkovBot,Rachel Berry,r2.7.2) (Robot: Adding [[da:Rachel Berry]]
+2012-04-03T08:48:45+00:00,485304439,484553103,0,H3llBot,Rachel Berry,BOT: [[User:H3llBot/ADL|Added Wayback archive url for dead citation link]]. [[User talk:H3llBot|Queries and error reports]]
+2011-11-21T15:10:33+00:00,461775353,461055317,0,Beggarsbanquet,Rachel Berry,
+2011-07-17T02:43:24+00:00,439881947,439857129,0,209.86.226.34,Rachel Berry,/* Casting and creation */ Italics
+2012-08-28T23:14:22+00:00,509683082,508301849,0,72.131.57.144,Rachel Berry,/* Season 3 */
+2012-06-11T19:35:11+00:00,497107947,496261164,0,Dexbot,Rachel Berry,r2.7.1) (Robot: Adding [[fa:ریچل بری]]
+2012-01-29T17:20:08+00:00,473884742,473564208,0,2.222.183.199,Riley Keough,Added link to Alex Pettyfer
+2012-01-12T05:49:56+00:00,470923027,470871865,0,Dugnad,Riley Keough,
+2012-05-16T10:51:55+00:00,492844978,486604215,0,94.197.78.127,Riley Keough,
+2011-10-07T15:45:38+00:00,454404796,454401866,0,Dugnad,Riley Keough,
+2012-04-10T11:04:05+00:00,486604215,485001121,0,JGG59,Riley Keough,/* Mistaken Identity */ Removed strange nonsensical section on mistaken identity. Which was not reference
+2011-07-11T23:59:12+00:00,438998731,438998125,0,Dugnad,Riley Keough,/* Personal life */
+2011-10-02T10:36:51+00:00,453509685,453509559,0,XLinkBot,Rita Simons,BOT--Reverting link addition(s) by [[:en:Special:Contributions/212.183.140.61|212.183.140.61]] to revision 451175306 (http://www.twitter.com/RitaRoxySimons)
+2012-03-13T10:19:55+00:00,481658699,481658681,0,InternationalHorticulture,Robert Pattinson,Reverted edits by [[Special:Contributions/Soulsilver|Soulsilver]] ([[User talk:Soulsilver|talk]]) identified as unconstructive ([[WP:HG|HG]])
+2013-01-12T23:12:20+00:00,532772442,532743864,0,Hillthekhore,Robert Pattinson,/* 2008–present */ Grammar error. Robert Pattinson did not earn $705M USD; twilight did.
+2011-09-13T18:29:22+00:00,450335077,448027792,0,Rjwilmsi,Ronnie Mitchell,/* Family relationships */Cite cleanup using [[Project:AWB|AWB]] (7836)
+2012-02-11T22:25:32+00:00,476349522,476342063,0,86.179.48.229,Ronnie Mitchell,
+2013-03-07T10:53:59+00:00,542562610,542078010,0,93.186.31.97,Roxy Mitchell,"Removing ""pub manager"" as that isn't really notable occupation and besides ""pub manager"" is covered by ""pub landlady"" as it is practically the same job!!"
+2012-01-16T01:17:25+00:00,471598165,471551004,0,Tim Parenti,Rupert Grint,/* Awards */ combining newer cells to fit the format of the old ones; ndash for titles
+2013-02-15T01:49:58+00:00,538331195,538331083,0,130.166.218.105,Rupert Grint,
+2012-07-04T11:14:29+00:00,500634008,500622058,0,Edenc1,Rupert Grint,Reverted to revision 500616928 by Jim1138. ([[WP:TW|TW]])
+2011-10-13T05:59:59+00:00,455327445,453194226,0,Woohookitty,Samantha Womack,[[:en:WP:CLEANER|WPCleaner]] (v1.09) Repaired link to disambiguation page - [[WP:DPL|(You can help)]] - [[Director]]
+2012-02-05T21:18:21+00:00,475287702,475280746,0,Jim1138,Samantha Womack,Reverted edits by [[Special:Contributions/86.157.230.156|86.157.230.156]] ([[User talk:86.157.230.156|talk]]) addition of [[WP:References|unsourced]] content ([[WP:HG|HG]])
+2012-07-05T22:21:43+00:00,500864565,492668224,0,KLBot2,Samantha Womack,r2.7.3) (Robot: Adding [[es:Samantha Womack]]
+2012-04-10T14:06:11+00:00,486626544,486626006,0,27.32.251.83,Santana Lopez,/* Development */
+2011-07-28T18:12:25+00:00,441909239,440609296,0,Sir Stanley,Samantha Womack,She has been a well known name in the world of acting and singing since the age of 18
+2013-04-23T05:06:51+00:00,551747557,551330529,0,Niceguyedc,Santana Lopez,"[[:en:WP:CLEANER|WPCleaner]] v1.27 - Repaired 2 links to disambiguation page - [[WP:DPL|(You can help)]] - [[Rumour Has It]], [[Someone Like You]]"
+2013-05-13T22:13:27+00:00,554959866,553781782,0,L.cash.m,Santana Lopez,"Louisville University to University of Louisville -- I attend UofL, trust me."
+2011-07-19T07:51:08+00:00,440269536,440084007,0,68.197.17.55,Santana Lopez,
+2012-03-18T01:37:28+00:00,482466252,482465912,0,CTF83!,Santana Lopez,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Fuinn101|Fuinn101]] ([[User talk:Fuinn101|talk]]) to last version by BlueMoonset
+2013-01-28T16:46:31+00:00,535365520,535365470,0,90.216.107.77,Scarlett Bowman,/* Filmography */
+2011-11-14T23:53:54+00:00,460694877,460692041,0,Confession0791,Selena Gomez,Reverted 1 edit by [[Special:Contributions/Stimulieconomy|Stimulieconomy]] ([[User talk:Stimulieconomy|talk]]): Hardly. ([[WP:TW|TW]])
+2013-02-19T00:52:25+00:00,538960172,538343422,0,All Hallow's Wraith,Selena Gomez,Undid revision 537432475 by [[Special:Contributions/Ashleyhudgens|Ashleyhudgens]] ([[User talk:Ashleyhudgens|talk]])
+2012-04-10T02:26:19+00:00,486547921,486448882,0,Fan4me,Selena Gomez,"/* Filmography */ The movie is NOT called ""The Gateway"" It's ""The Getaway""."
+2013-03-04T16:46:23+00:00,542066171,541896799,0,Nightscream,Selena Gomez,"[[WP:SECTIONHEAD|Only the first word and proper nouns are capitalized in headings]]; [[WP:&|Ampersands are not appropriate unless part of a quote, proper noun or table]]."
+2012-09-20T01:34:13+00:00,513622868,513364162,0,AleeDear,Selena Gomez,/* Other ventures */
+2013-01-24T16:12:19+00:00,534670064,534669551,0,Starswept,Selena Gomez,/* Personal life */
+2011-10-19T07:57:02+00:00,456318074,456054897,0,PhnomPencil,Selena Gomez,/* External links */ Khmer Wikipedia interlanguage link added.
+2012-03-29T01:41:56+00:00,484471033,483991508,0,186.45.116.149,Shay Mitchell,
+2012-09-09T14:54:27+00:00,511542956,511542860,0,27.38.67.74,Shay Mitchell,
+2012-10-08T22:35:55+00:00,516718380,515834946,0,24.16.61.193,Shay Mitchell,/* Filmography */
+2011-12-18T20:25:50+00:00,466576004,466575897,0,200.7.60.49,Shay Mitchell,/* Career */
+2012-05-05T17:31:08+00:00,490815394,490793566,0,Xqbot,Selena Gomez,r2.7.3) (Robot: Removing [[mi:Selena Gomez]]
+2011-11-28T12:00:18+00:00,462886310,462886291,0,Vrenator,Shay Mitchell,Reverted edits by [[Special:Contributions/143.238.42.237|143.238.42.237]] to last version by Bbb23 ([[User:Ale_jrb/Scripts/igloo|GLOO]])
+2011-07-27T10:38:40+00:00,441687114,440826063,0,EmausBot,Shay Mitchell,"r2.6.4) (robot Modifying: [[ru:Митчелл, Шей]]"
+2012-11-17T21:45:54+00:00,523561002,523554326,0,5 albert square,Shona McGarty,"Undid revision 523554326 by [[Special:Contributions/86.160.124.166|86.160.124.166]] ([[User talk:86.160.124.166|talk]]) Not a singer, far as I'm aware that was only for CIN"
+2013-04-09T14:01:17+00:00,549512831,549512799,0,DVdm,Shona McGarty,Reverted edits by [[Special:Contributions/5.71.52.249|5.71.52.249]] ([[User talk:5.71.52.249|talk]]) to last revision by Solarra ([[WP:HG|HG]])
+2011-08-08T05:46:46+00:00,443629944,443049824,0,Woohookitty,Shona McGarty,[[:en:WP:CLEANER|WPCleaner]] (v1.09) Repaired link to disambiguation page - [[WP:DPL|(You can help)]] - [[English]]
+2012-11-17T00:26:49+00:00,523413500,522372976,0,80.7.250.219,Shona McGarty,/* Career */
+2013-01-14T21:42:37+00:00,533098120,531237361,0,86.145.240.199,Tiffany Butcher,
+2011-12-31T20:33:08+00:00,468824796,468627631,0,JDDJS,Tina Cohen-Chang,Reverted 6 edits by [[Special:Contributions/62.194.207.22|62.194.207.22]] ([[User talk:62.194.207.22|talk]]): It has been agreed that this table is not needed. Discuss at [[Wikipedia talk:WikiProject Television/Glee task force]] before readding. (...
+2013-03-27T21:11:21+00:00,547331427,547330563,0,Sethjohnson95,Vanessa Hudgens,/* 2012–present: Acting and continued success */
+2011-09-25T02:11:10+00:00,452290308,452279860,0,RafikiSykes,Vanessa Hudgens,Tagging 5 dead links using [[w:WP:CHECKLINKS|Checklinks]]
+2012-01-17T13:14:40+00:00,471859490,471536464,0,Lucazeppelin,Vanessa Hudgens,
+2012-05-16T04:09:24+00:00,492811476,492738878,0,CollisionCourse,Vanessa Hudgens,/* Filmography */
+2011-12-04T22:34:45+00:00,464112508,464109976,0,MrSchimpf,Vanessa Hudgens,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Tookiemoo|Tookiemoo]] ([[User talk:Tookiemoo|talk]]) to last version by Geraldo Perez
+2011-04-26T09:12:36+00:00,425981140,425980647,0,Kikkokalabud,Vanessa Hudgens,/* Image and personal life */
+2013-05-04T17:02:01+00:00,553510088,550351364,0,Part of me 2,Vanessa Hudgens,
+2012-08-24T15:04:52+00:00,508943618,508943460,0,92.20.160.86,Whitney Dean,
+2012-06-17T13:40:36+00:00,498021678,495758731,0,Sun Creator,Whitney Dean,"[[WP:GENFIXES|General]] and [[WP:AWB/T|Typo fixing]], typos fixed: explotation → exploitation using [[Project:AWB|AWB]]"
+2011-11-18T22:01:33+00:00,461341637,460786231,0,92.13.224.75,Whitney Dean,/* Sexual exploitation */
+2012-12-23T22:01:53+00:00,529499964,529499097,0,69.248.130.96,Will Schuester,/* Season 4 */
+2013-01-02T03:38:55+00:00,530859670,530477490,0,Lucas Carranza,Zendaya,/* Awards and Nominations */
+2012-02-06T06:49:26+00:00,475353135,475293490,0,CaliBoy310,Zendaya,
+2012-08-13T19:52:38+00:00,507259807,507259371,0,For An Angel,Zendaya,/* Singing career */
+2011-11-25T01:07:44+00:00,462340481,462284171,0,Funnybunny44,Zendaya,/* Filmography */
+2013-01-20T17:47:26+00:00,534030503,533316717,0,Tinton5,Zendaya,
+2012-01-15T11:20:56+00:00,471477577,471441836,0,Chocohall,Zendaya,"/* Singing career */ Her Kidz Bop music video is irrelevant to her music career, as she did not actually sing on it, it was lip-synced."

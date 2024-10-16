@@ -1,0 +1,83 @@
+timestamp,revid,parentid,sock,user,page,message
+2022-12-30T16:08:32+00:00,1130524576,1130524371,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T16:07:05+00:00,1130524371,1130524262,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T16:06:08+00:00,1130524262,1130523580,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T16:01:13+00:00,1130523580,1130522673,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:54:35+00:00,1130522673,1130522609,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:54:09+00:00,1130522609,1130522538,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:53:36+00:00,1130522538,1130522453,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:53:03+00:00,1130522453,1130521426,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:45:46+00:00,1130521426,1130521047,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:43:16+00:00,1130521047,1130520655,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:40:47+00:00,1130520655,1130520173,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:37:21+00:00,1130520173,1130519509,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:33:02+00:00,1130519509,1130519163,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:30:52+00:00,1130519163,1130518689,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:27:25+00:00,1130518689,1130518573,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:26:35+00:00,1130518573,1130517438,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:18:43+00:00,1130517438,1130517217,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:17:04+00:00,1130517217,1130517099,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:16:16+00:00,1130517099,1130516266,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:11:20+00:00,1130516266,1130515889,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T15:09:08+00:00,1130515889,1130514505,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T14:59:25+00:00,1130514505,1130513967,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T14:55:29+00:00,1130513967,1130513897,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T14:54:59+00:00,1130513897,1130510035,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T14:26:48+00:00,1130510035,1130509891,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T14:25:41+00:00,1130509891,1110750910,1,Ztchou,Space complexity,/* Auxiliary space complexity */
+2022-12-30T18:13:12+00:00,1130543349,1130542340,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T18:06:42+00:00,1130542340,1130542291,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T18:06:21+00:00,1130542291,1130542177,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T18:05:47+00:00,1130542177,1130541896,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T18:04:10+00:00,1130541896,1130540328,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:54:40+00:00,1130540328,1130539905,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:52:01+00:00,1130539905,1130539596,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:50:00+00:00,1130539596,1130536773,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:30:23+00:00,1130536773,1130536698,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:29:56+00:00,1130536698,1130536635,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:29:30+00:00,1130536635,1130534200,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:13:01+00:00,1130534200,1130534113,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:12:27+00:00,1130534113,1130533237,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:07:11+00:00,1130533237,1130533064,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:06:07+00:00,1130533064,1130532844,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T17:04:49+00:00,1130532844,1130527532,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T16:29:32+00:00,1130527532,1130524576,1,AngelLienDog,Space complexity,/* Auxiliary space complexity */
+2022-12-30T23:30:15+00:00,1130590446,1130590105,1,DrAlgorithm,User talk:DrAlgorithm,/* Blocked as a sockpuppet */ Reply
+2022-12-30T23:28:07+00:00,1130590105,1130586985,1,DrAlgorithm,User talk:DrAlgorithm,/* Blocked as a sockpuppet */ Reply
+2022-12-30T23:07:12+00:00,1130586985,1130585098,1,DrAlgorithm,User talk:DrAlgorithm,/* Blocked as a sockpuppet */ Reply
+2022-12-30T22:27:09+00:00,1130580862,1130578826,1,DrAlgorithm,User talk:DrAlgorithm,/* Blocked as a sockpuppet */ Reply
+2022-12-30T22:13:06+00:00,1130578826,1130578070,1,DrAlgorithm,User talk:DrAlgorithm,/* Blocked as a sockpuppet */ Reply
+2022-12-30T22:07:40+00:00,1130578070,1130575443,1,DrAlgorithm,User talk:DrAlgorithm,/* Blocked as a sockpuppet */ Reply
+2022-12-30T21:44:57+00:00,1130574566,1130574348,1,DrAlgorithm,User talk:DrAlgorithm,/* Blocked as a sockpuppet */ Reply
+2022-12-30T21:43:40+00:00,1130574348,1130572938,1,DrAlgorithm,User talk:DrAlgorithm,/* Blocked as a sockpuppet */ Reply
+2022-12-30T21:09:24+00:00,1130568759,1130566915,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T20:32:29+00:00,1130563446,1130563318,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T20:31:38+00:00,1130563318,1130561201,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T20:16:26+00:00,1130561201,1130560772,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T20:13:28+00:00,1130560772,1130556531,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T19:45:34+00:00,1130556531,1130554923,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T19:34:20+00:00,1130554923,1130554598,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T19:31:51+00:00,1130554598,1130554493,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T19:31:11+00:00,1130554493,1130554368,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T19:30:21+00:00,1130554368,1130554266,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-30T19:29:44+00:00,1130554266,1130551051,1,DrAlgorithm,Space complexity,/* Auxiliary space complexity */
+2022-12-31T01:47:03+00:00,1130609299,1130608751,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T01:43:20+00:00,1130608751,1130607979,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T01:37:45+00:00,1130607979,1130606460,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T01:27:40+00:00,1130606460,1130603560,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T01:05:49+00:00,1130603560,1130602807,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T01:00:18+00:00,1130602807,1130602602,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T00:58:18+00:00,1130602602,1130601325,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T00:47:51+00:00,1130601325,1130600599,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T00:43:06+00:00,1130600599,1130600260,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T00:40:26+00:00,1130600260,1130599774,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T00:36:42+00:00,1130599774,1130599623,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T00:35:34+00:00,1130599623,1130599468,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-31T00:34:12+00:00,1130599468,1130575070,1,Fkwk,Space complexity,/* Auxiliary space complexity */
+2022-12-30T21:48:06+00:00,1130575070,1130568759,0,Lavalizard101,Space complexity,Undid revision 1130568759 by [[Special:Contributions/DrAlgorithm|DrAlgorithm]] ([[User talk:DrAlgorithm|talk]]) rv sock
+2022-12-30T20:57:19+00:00,1130566915,1130563446,0,David Eppstein,Space complexity,"Undo repeat unsourced editorialization, by third SPA"
+2022-12-30T19:07:14+00:00,1130551051,1130543349,0,David Eppstein,Space complexity,Undo unsourced editorialization
+2022-12-30T23:51:07+00:00,1130593042,1130590446,0,NinjaRobotPirate,User talk:DrAlgorithm,/* Blocked as a sockpuppet */ decline
+2022-12-30T21:50:36+00:00,1130575443,1130574566,0,Nthep,User talk:DrAlgorithm,unblock declined
+2022-12-30T21:34:37+00:00,1130572938,0,0,Bbb23,User talk:DrAlgorithm,Adding sockpuppetry block notice per [[:w:en:Wikipedia:Sockpuppet investigations/Ztchou]] (using [[:w:en:WP:SPIH|spihelper.js]])
+2022-12-30T22:56:09+00:00,1130585098,1130580862,0,Yamla,User talk:DrAlgorithm,Decline

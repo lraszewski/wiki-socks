@@ -1,0 +1,845 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-04-08T15:41:36+00:00,1016692330,1016680834,1,Thehuntison,Geoffrey Hayes,/* Career */
+2021-04-08T14:32:19+00:00,1016680834,1016680629,1,Thehuntison,Geoffrey Hayes,
+2021-04-08T14:31:01+00:00,1016680629,992746329,1,Thehuntison,Geoffrey Hayes,/* Career */
+2021-04-07T22:39:03+00:00,1016578686,1013889434,1,Thehuntison,Rolie Polie Olie,
+2021-04-03T17:06:13+00:00,1015801829,1012340249,1,Thehuntison,Birds of a Feather (TV series),
+2021-04-02T23:01:40+00:00,1015691065,1015477114,1,Thehuntison,Feels Like I'm in Love,Ray Dorset not 'Dorsey'
+2021-03-27T20:53:40+00:00,1014566139,1014566031,1,Thehuntison,Gillian Wright,
+2021-03-27T20:52:57+00:00,1014566031,1014551034,1,Thehuntison,Gillian Wright,
+2021-03-27T19:09:34+00:00,1014551034,1014550896,1,Thehuntison,Gillian Wright,
+2021-03-27T19:08:38+00:00,1014550896,1014550809,1,Thehuntison,Gillian Wright,/* Career */
+2021-03-27T19:08:06+00:00,1014550809,1008871322,1,Thehuntison,Gillian Wright,/* Career */
+2021-03-26T17:34:23+00:00,1014363870,1014363610,1,Thehuntison,Feels Like I'm in Love,
+2021-03-26T17:32:53+00:00,1014363610,1014326223,1,Thehuntison,Feels Like I'm in Love,
+2021-03-26T13:26:26+00:00,1014326223,1014325726,1,Thehuntison,Feels Like I'm in Love,
+2021-03-26T13:22:21+00:00,1014325726,1014176462,1,Thehuntison,Feels Like I'm in Love,
+2021-03-25T20:49:03+00:00,1014217411,1014217055,1,Thehuntison,Sandi Toksvig,
+2021-03-25T20:46:49+00:00,1014217055,1013083812,1,Thehuntison,Sandi Toksvig,
+2021-03-25T16:23:36+00:00,1014176462,1014176372,1,Thehuntison,Feels Like I'm in Love,
+2021-03-25T16:22:52+00:00,1014176372,1009270945,1,Thehuntison,Feels Like I'm in Love,
+2021-03-17T23:26:34+00:00,1012722429,1012721629,1,Thehuntison,Keeping Up Appearances,
+2021-03-17T23:19:54+00:00,1012721629,1012592372,1,Thehuntison,Keeping Up Appearances,
+2021-03-15T20:25:48+00:00,1012333197,1012333088,1,Thehuntison,Nicola Thorp,/* Filmography */
+2021-03-15T20:25:13+00:00,1012333088,1012333042,1,Thehuntison,Nicola Thorp,
+2021-03-15T20:24:53+00:00,1012333042,1012332445,1,Thehuntison,Nicola Thorp,/* Filmography */
+2021-03-15T20:20:41+00:00,1012332445,1012332322,1,Thehuntison,Nicola Thorp,
+2021-03-15T20:19:49+00:00,1012332322,1011512991,1,Thehuntison,Nicola Thorp,
+2021-03-15T19:52:29+00:00,1012328105,1012177914,1,Thehuntison,Keeping Up Appearances,
+2021-03-15T19:34:57+00:00,1012324902,1001801893,1,Thehuntison,Young Hyacinth,
+2021-03-15T16:10:16+00:00,1012289794,1012289599,1,Thehuntison,Still Open All Hours,
+2021-03-15T16:09:09+00:00,1012289599,1012197129,1,Thehuntison,Still Open All Hours,
+2021-03-15T03:26:31+00:00,1012197129,1012196940,1,Thehuntison,Still Open All Hours,
+2021-03-15T03:24:57+00:00,1012196940,1012196671,1,Thehuntison,Still Open All Hours,
+2021-03-15T03:22:25+00:00,1012196671,1012195971,1,Thehuntison,Still Open All Hours,
+2021-03-15T03:16:00+00:00,1012195971,1010711111,1,Thehuntison,Still Open All Hours,/* Series development */
+2021-03-15T01:02:56+00:00,1012177914,1012175313,1,Thehuntison,Keeping Up Appearances,
+2021-03-15T00:44:21+00:00,1012175313,1012175155,1,Thehuntison,Keeping Up Appearances,
+2021-03-15T00:43:06+00:00,1012175155,1012174819,1,Thehuntison,Keeping Up Appearances,
+2021-03-15T00:40:47+00:00,1012174819,1012173947,1,Thehuntison,Keeping Up Appearances,
+2021-03-15T00:34:11+00:00,1012173947,1012173488,1,Thehuntison,Keeping Up Appearances,
+2021-03-15T00:30:43+00:00,1012173488,1011271558,1,Thehuntison,Keeping Up Appearances,
+2021-03-14T02:22:49+00:00,1012008089,1000140020,1,Thehuntison,Jamal Edwards,
+2021-03-14T00:57:33+00:00,1011996870,1011996435,1,Thehuntison,Brilliant Creatures,
+2021-03-14T00:54:30+00:00,1011996435,980213411,1,Thehuntison,Brilliant Creatures,
+2021-03-14T00:44:13+00:00,1011994886,1011992252,1,Thehuntison,Lorraine Kelly,/* Television */
+2021-03-14T00:28:00+00:00,1011992252,1011992003,1,Thehuntison,Lorraine Kelly,
+2021-03-14T00:26:08+00:00,1011992003,1011991711,1,Thehuntison,Lorraine Kelly,/* STV */
+2021-03-14T00:23:48+00:00,1011991711,1011991508,1,Thehuntison,Lorraine Kelly,/* Television */
+2021-03-14T00:22:25+00:00,1011991508,1011982651,1,Thehuntison,Lorraine Kelly,/* Television */
+2021-03-14T00:11:39+00:00,1011989978,1011989835,1,Thehuntison,Supernanny (American TV series),
+2021-03-14T00:10:31+00:00,1011989835,1011989574,1,Thehuntison,Supernanny (American TV series),/* Home media */
+2021-03-14T00:00:59+00:00,1011988320,1011974981,1,Thehuntison,Supernanny (American TV series),/* Home media */
+2021-03-13T20:23:33+00:00,1011959131,1011958890,1,Thehuntison,Supernanny (American TV series),
+2021-03-13T20:22:02+00:00,1011958890,1011928916,1,Thehuntison,Supernanny (American TV series),
+2020-12-21T01:06:32+00:00,995436325,995436060,1,Thehuntison,Havakazoo,
+2020-12-21T01:04:42+00:00,995436060,995215877,1,Thehuntison,Havakazoo,
+2020-12-17T15:17:20+00:00,994789530,987640292,1,Thehuntison,The Social (Canadian TV program),
+2020-12-17T02:09:01+00:00,994696334,991880954,1,Thehuntison,Danielle Nicholls,
+2020-12-17T02:03:41+00:00,994695770,994695420,1,Thehuntison,Gail McKenna,
+2020-12-17T02:01:03+00:00,994695420,994197128,1,Thehuntison,Gail McKenna,
+2020-12-17T01:56:53+00:00,994694957,994694462,1,Thehuntison,How (TV series),
+2020-12-17T01:52:46+00:00,994694462,994694377,1,Thehuntison,How (TV series),
+2020-12-17T01:52:00+00:00,994694377,994694281,1,Thehuntison,How (TV series),
+2020-12-17T01:51:08+00:00,994694281,991320127,1,Thehuntison,How (TV series),
+2020-12-16T01:25:15+00:00,994501836,994500873,1,Thehuntison,Secret Dealers,
+2020-12-16T01:18:16+00:00,994500873,994500765,1,Thehuntison,Secret Dealers,
+2020-12-16T01:17:22+00:00,994500765,994499332,1,Thehuntison,Secret Dealers,
+2020-12-16T01:06:31+00:00,994499332,994498888,1,Thehuntison,Secret Dealers,
+2020-12-16T01:03:40+00:00,994498888,993992801,1,Thehuntison,Secret Dealers,
+2020-12-13T21:40:16+00:00,994052917,993739513,1,Thehuntison,Is It Over Yet,
+2020-12-13T21:39:40+00:00,994052829,994052452,1,Thehuntison,My Strongest Weakness,
+2020-12-13T21:38:55+00:00,994052717,994052598,1,Thehuntison,To Be Loved by You (Wynonna Judd song),
+2020-12-13T21:38:09+00:00,994052598,986388059,1,Thehuntison,To Be Loved by You (Wynonna Judd song),
+2020-12-13T21:37:08+00:00,994052452,986523207,1,Thehuntison,My Strongest Weakness,
+2020-12-13T21:14:40+00:00,994048799,993557404,1,Thehuntison,I Saw the Light (Wynonna Judd song),
+2020-12-13T01:04:28+00:00,993887923,993886847,1,Thehuntison,Secret Dealers,/* Format */
+2020-12-13T00:57:39+00:00,993886847,993886467,1,Thehuntison,Secret Dealers,/* Transmissions */
+2020-12-13T00:54:26+00:00,993886467,993886134,1,Thehuntison,Secret Dealers,/* Controversies */
+2020-12-13T00:51:59+00:00,993886134,993839799,1,Thehuntison,Secret Dealers,/* Transmissions */
+2020-12-12T22:03:37+00:00,993863212,993678161,1,Thehuntison,Wynonna discography,
+2020-12-12T19:34:17+00:00,993839799,993694286,1,Thehuntison,Secret Dealers,/* Transmissions */
+2020-12-11T21:34:33+00:00,993673039,990127247,1,Thehuntison,Wynonna discography,
+2020-12-11T21:14:26+00:00,993669920,993363665,1,Thehuntison,Heaven Help My Heart,
+2020-12-10T20:56:21+00:00,993481030,979465656,1,Thehuntison,Feels Like I'm in Love,
+2020-12-10T16:06:05+00:00,993431865,993431697,1,Thehuntison,Nadia Sawalha,
+2020-12-10T16:05:18+00:00,993431697,993431077,1,Thehuntison,Nadia Sawalha,
+2020-12-10T16:02:32+00:00,993431077,993430794,1,Thehuntison,Nadia Sawalha,
+2020-12-10T16:01:25+00:00,993430794,990057979,1,Thehuntison,Nadia Sawalha,
+2020-12-09T01:30:06+00:00,993147996,991816302,1,Thehuntison,Mark Nicholas,
+2020-12-09T01:26:52+00:00,993147363,993146218,1,Thehuntison,Jo Caulfield,
+2020-12-09T01:20:09+00:00,993146218,991758775,1,Thehuntison,Jo Caulfield,
+2020-12-08T16:22:05+00:00,993062017,993061704,1,Thehuntison,Judi Dench,
+2020-12-08T16:20:05+00:00,993061704,993061665,1,Thehuntison,Judi Dench,
+2020-12-08T16:19:47+00:00,993061665,993061574,1,Thehuntison,Judi Dench,
+2020-12-08T16:19:12+00:00,993061574,993061376,1,Thehuntison,Judi Dench,
+2020-12-08T16:18:04+00:00,993061376,992709574,1,Thehuntison,Judi Dench,
+2020-12-07T00:40:27+00:00,992771986,992099236,1,Thehuntison,Ruthie Henshall,
+2020-12-02T17:27:10+00:00,991944782,991944577,1,Thehuntison,Gary Wilmot,/* Television */
+2020-12-02T17:25:55+00:00,991944577,991944049,1,Thehuntison,Gary Wilmot,/* Television */
+2020-12-02T17:23:00+00:00,991944049,991943481,1,Thehuntison,Gary Wilmot,/* Television */
+2020-12-02T17:19:47+00:00,991943481,991943297,1,Thehuntison,Gary Wilmot,
+2020-12-02T17:18:43+00:00,991943297,988345051,1,Thehuntison,Gary Wilmot,
+2020-12-01T17:13:28+00:00,991751430,981542902,1,Thehuntison,Kelly Marie,
+2020-11-29T15:00:58+00:00,991336799,991248500,1,Thehuntison,I Saw the Light (Wynonna Judd song),
+2020-11-29T01:55:33+00:00,991244989,990205669,1,Thehuntison,Wynonna Judd,
+2020-11-29T01:49:24+00:00,991244136,991244033,1,Thehuntison,Safe in the Arms of Love,/* Michelle Wright version */
+2020-11-29T01:48:36+00:00,991244033,991243444,1,Thehuntison,Safe in the Arms of Love,/* Michelle Wright version */
+2020-11-29T01:44:15+00:00,991243444,965374126,1,Thehuntison,Safe in the Arms of Love,/* Cover versions */
+2020-11-28T23:34:54+00:00,991225737,991225578,1,Thehuntison,I Saw the Light (Wynonna Judd song),
+2020-11-28T23:33:31+00:00,991225578,991224095,1,Thehuntison,I Saw the Light (Wynonna Judd song),
+2020-11-28T23:23:30+00:00,991224095,991223847,1,Thehuntison,I Saw the Light (Wynonna Judd song),/* Lisa Stanley version */
+2020-11-28T23:21:37+00:00,991223847,991223777,1,Thehuntison,I Saw the Light (Wynonna Judd song),
+2020-11-28T23:21:11+00:00,991223777,991223694,1,Thehuntison,I Saw the Light (Wynonna Judd song),
+2020-11-28T23:20:30+00:00,991223694,988848816,1,Thehuntison,I Saw the Light (Wynonna Judd song),
+2020-11-28T23:19:33+00:00,991223568,991223290,1,Thehuntison,Heart and Soul (Lisa Stanley album),
+2020-11-28T23:17:40+00:00,991223290,991223203,1,Thehuntison,Heart and Soul (Lisa Stanley album),
+2020-11-28T23:17:05+00:00,991223203,0,1,Thehuntison,Heart and Soul (Lisa Stanley album),[[WP:AES|←]]Created page with '{{Infobox album | name       = Heart and Soul | type       = studio | artist     = [[Lisa Stanley]] | cover      = [[File:Heart_and_Soul_album_cover.jpg|thumb|]]...'
+2020-11-28T22:30:07+00:00,991216600,974250835,1,Thehuntison,Lisa Stanley,/* CDs */
+2020-11-28T02:04:18+00:00,991064037,991063972,1,Thehuntison,Deborah Grant,
+2020-11-28T02:03:48+00:00,991063972,984880438,1,Thehuntison,Deborah Grant,/* Television appearances */
+2020-11-28T01:52:10+00:00,991062453,991061605,1,Thehuntison,Brum (TV series),/* 1990s */
+2020-11-28T01:45:20+00:00,991061605,991059230,1,Thehuntison,Brum (TV series),
+2020-11-28T01:22:45+00:00,991058620,991058447,1,Thehuntison,Brum (TV series),
+2020-11-28T01:21:23+00:00,991058447,991057321,1,Thehuntison,Brum (TV series),
+2020-11-28T01:13:12+00:00,991057321,991056861,1,Thehuntison,Brum (TV series),
+2020-11-28T01:09:56+00:00,991056861,990486785,1,Thehuntison,Brum (TV series),
+2020-11-22T21:55:01+00:00,990112015,986316053,1,Thehuntison,Fawlty Towers,"/* Remakes, adaptations and reunions */"
+2020-11-21T20:07:48+00:00,989925664,989924308,1,Thehuntison,Johnson and Friends,
+2020-11-21T20:01:41+00:00,989924308,989923965,1,Thehuntison,Johnson and Friends,/* Plot */
+2020-11-21T20:00:10+00:00,989923965,989923166,1,Thehuntison,Johnson and Friends,/* Plot */
+2020-11-21T19:56:27+00:00,989923166,989922184,1,Thehuntison,Johnson and Friends,/* Plot */
+2020-11-21T19:51:55+00:00,989922184,989920663,1,Thehuntison,Johnson and Friends,
+2020-11-21T19:45:06+00:00,989920663,989918396,1,Thehuntison,Johnson and Friends,/* Production */
+2020-11-21T19:34:46+00:00,989918396,988326598,1,Thehuntison,Johnson and Friends,/* Production */
+2020-11-16T01:53:00+00:00,988927719,988927610,1,Thehuntison,Michael Hogben,
+2020-11-16T01:52:11+00:00,988927610,948628608,1,Thehuntison,Michael Hogben,
+2020-11-16T01:45:43+00:00,988926642,988926509,1,Thehuntison,Dickinson's Real Deal,
+2020-11-16T01:44:54+00:00,988926509,988910025,1,Thehuntison,Dickinson's Real Deal,/* Format */
+2020-11-16T00:02:02+00:00,988910025,988909970,1,Thehuntison,Dickinson's Real Deal,/* Former dealers */
+2020-11-16T00:01:44+00:00,988909970,988909841,1,Thehuntison,Dickinson's Real Deal,/* The dealers */
+2020-11-16T00:01:06+00:00,988909841,988584381,1,Thehuntison,Dickinson's Real Deal,/* Former dealers */
+2020-11-15T23:56:40+00:00,988909192,988908400,1,Thehuntison,Claire Harman (actress),/* Filmography */She is still the voice over for Real Deal
+2020-09-24T19:02:35+00:00,980124454,976576009,1,Thehuntison,Man in the Mirror,
+2020-09-22T23:50:38+00:00,979817856,978025274,1,Thehuntison,Denise Robertson,
+2020-09-20T18:58:28+00:00,979434604,979264008,1,Thehuntison,Measure of a Man (Sam and Mark song),
+2020-09-19T19:26:28+00:00,979264008,979260422,1,Thehuntison,Measure of a Man (Sam and Mark song),
+2020-09-19T19:00:37+00:00,979260422,979229296,1,Thehuntison,Measure of a Man (Sam and Mark song),
+2020-09-19T15:30:10+00:00,979229296,979228780,1,Thehuntison,Measure of a Man (Sam and Mark song),
+2020-09-19T15:26:25+00:00,979228780,979228524,1,Thehuntison,Measure of a Man (Sam and Mark song),
+2020-09-19T15:24:36+00:00,979228524,979228276,1,Thehuntison,Measure of a Man (Sam and Mark song),
+2020-09-19T15:22:38+00:00,979228276,961116667,1,Thehuntison,Measure of a Man (Sam and Mark song),
+2020-09-18T01:24:42+00:00,978973941,978756321,1,Thehuntison,Leigh Francis,
+2020-09-16T01:09:56+00:00,978623565,978623412,1,Thehuntison,Tony Blackburn,
+2020-09-16T01:08:23+00:00,978623412,973668394,1,Thehuntison,Tony Blackburn,
+2020-09-14T00:53:29+00:00,978287527,978255701,1,Thehuntison,Captain Tom Moore,
+2020-09-13T17:44:20+00:00,978230004,978204765,1,Thehuntison,A Question of Sport,/* Current presenter and captains */
+2020-09-09T21:32:13+00:00,977607891,937855180,1,Thehuntison,Jenny Funnell,
+2020-09-09T21:31:25+00:00,977607805,953921020,1,Thehuntison,Philip Bretherton,
+2020-09-09T21:29:35+00:00,977607574,977607494,1,Thehuntison,Moira Brooker,
+2020-09-09T21:28:57+00:00,977607494,963127636,1,Thehuntison,Moira Brooker,
+2020-09-09T21:24:21+00:00,977606895,975856945,1,Thehuntison,Connie Booth,/* Acting career */
+2020-09-08T23:57:39+00:00,977459521,974596332,1,Thehuntison,Dream Street (British TV series),
+2020-09-08T23:46:35+00:00,977458292,975338108,1,Thehuntison,List of programmes broadcast by Nick Jr. (British and Irish TV channel),/* Former programming */
+2020-09-08T23:34:18+00:00,977456936,977456846,1,Thehuntison,Noggin (brand),/* United Kingdom */
+2020-09-08T23:33:36+00:00,977456846,974366624,1,Thehuntison,Noggin (brand),/* United Kingdom */
+2020-09-02T11:19:31+00:00,976332214,976295762,1,Thehuntison,Supermarket Sweep (British game show),
+2020-09-01T12:30:20+00:00,976147251,976144322,1,Thehuntison,Tweenies,
+2020-09-01T12:08:54+00:00,976144322,974595817,1,Thehuntison,Tweenies,/* Overview and history */
+2020-08-28T21:16:19+00:00,975498785,975498410,1,Thehuntison,Jeremy Kyle,
+2020-08-28T21:12:59+00:00,975498410,970889748,1,Thehuntison,Jeremy Kyle,
+2020-08-28T15:38:14+00:00,975448507,975448374,1,Thehuntison,Lee Towers,
+2020-08-28T15:37:12+00:00,975448374,975004685,1,Thehuntison,Lee Towers,
+2020-08-28T11:49:53+00:00,975418945,975418895,1,Thehuntison,Holly Cole,
+2020-08-28T11:49:24+00:00,975418895,975418874,1,Thehuntison,Holly Cole,
+2020-08-28T11:49:13+00:00,975418874,969161492,1,Thehuntison,Holly Cole,
+2020-08-27T19:25:17+00:00,975290012,975252429,1,Thehuntison,Connie Booth,
+2020-08-27T14:04:53+00:00,975231002,975144388,1,Thehuntison,Connie Booth,/* Acting career */
+2020-08-26T23:46:26+00:00,975143736,975143606,1,Thehuntison,Connie Booth,
+2020-08-26T23:45:11+00:00,975143606,971038589,1,Thehuntison,Connie Booth,
+2020-08-26T19:42:33+00:00,975108527,975104855,1,Thehuntison,My Inspiration,
+2020-08-26T19:39:41+00:00,975107995,961110409,1,Thehuntison,Always You (Charice Pempengco song),
+2020-08-26T19:35:50+00:00,975107269,946235042,1,Thehuntison,Charice (EP),
+2020-08-26T19:23:42+00:00,975104855,950934492,1,Thehuntison,My Inspiration,
+2020-08-25T19:24:43+00:00,974912194,974587121,1,Thehuntison,Ni Ni's Treehouse,
+2020-08-25T19:05:48+00:00,974909570,974909064,1,Thehuntison,Teddybears (TV series),
+2020-08-25T19:01:41+00:00,974909064,974908932,1,Thehuntison,Teddybears (TV series),
+2020-08-25T19:00:49+00:00,974908932,974850989,1,Thehuntison,Teddybears (TV series),
+2020-08-25T11:29:00+00:00,974850989,966503885,1,Thehuntison,Teddybears (TV series),/* Characters */
+2020-08-21T23:28:44+00:00,974253539,961214964,1,Thehuntison,Mary Duff,
+2020-08-21T23:08:58+00:00,974251382,969940550,1,Thehuntison,Daniel O'Donnell,
+2020-08-21T23:05:23+00:00,974250835,974248948,1,Thehuntison,Lisa Stanley,/* Albums */
+2020-08-21T22:53:00+00:00,974249212,972983617,1,Thehuntison,Maisie McDaniel,
+2020-08-21T22:50:34+00:00,974248948,973376572,1,Thehuntison,Lisa Stanley,
+2020-08-21T20:45:17+00:00,974232802,974232637,1,Thehuntison,Judy Justice,
+2020-08-21T20:44:06+00:00,974232637,974232542,1,Thehuntison,Judy Justice,
+2020-08-21T20:43:16+00:00,974232542,969763986,1,Thehuntison,Judy Justice,
+2020-08-21T20:41:14+00:00,974232319,973747853,1,Thehuntison,Judge Judy,
+2020-08-21T15:58:49+00:00,974193666,961725103,1,Thehuntison,Ulric Browne,
+2020-08-16T23:04:06+00:00,973385526,966074066,1,Thehuntison,The People's Couch,
+2020-08-16T21:55:26+00:00,973376572,973376494,1,Thehuntison,Lisa Stanley,
+2020-08-16T21:54:49+00:00,973376494,973363392,1,Thehuntison,Lisa Stanley,
+2020-08-16T17:57:00+00:00,973339990,973008475,1,Thehuntison,Lisa Stanley,
+2020-08-14T22:09:36+00:00,973008475,973007990,1,Thehuntison,Lisa Stanley,
+2020-08-14T22:06:45+00:00,973007990,972995355,1,Thehuntison,Lisa Stanley,
+2020-08-14T21:03:49+00:00,972994561,0,1,Thehuntison,Love me a little bit longer,[[WP:AES|←]]Created page with '{{Infobox album | name       = Love me a little bit longer | type       = studio | artist     = [[Lisa Stanley]] | cover      =  | alt        = | released   = {{...'
+2020-08-14T20:42:11+00:00,972991324,972991230,1,Thehuntison,Lisa Stanley,
+2020-08-14T20:41:31+00:00,972991230,972984307,1,Thehuntison,Lisa Stanley,
+2020-08-14T19:57:18+00:00,972984307,955439090,1,Thehuntison,Lisa Stanley,
+2020-08-14T19:52:24+00:00,972983617,969919690,1,Thehuntison,Maisie McDaniel,
+2020-08-13T22:48:21+00:00,972813166,972812681,1,Thehuntison,Gimme Gimme Gimme (TV series),
+2020-08-13T22:46:46+00:00,972812915,971678441,1,Thehuntison,Elaine Lordan,
+2020-08-13T22:45:13+00:00,972812681,967589492,1,Thehuntison,Gimme Gimme Gimme (TV series),/* Cast */
+2020-08-13T22:40:33+00:00,972811930,957191832,1,Thehuntison,Jonathan Harvey (playwright),
+2020-08-13T22:38:34+00:00,972811596,972811385,1,Thehuntison,Beth Goddard,
+2020-08-13T22:37:08+00:00,972811385,965099890,1,Thehuntison,Beth Goddard,
+2020-08-12T21:45:45+00:00,972586804,952297442,1,Thehuntison,Gordon Peters,
+2020-08-08T20:37:44+00:00,971880774,971880586,1,Thehuntison,Lizzie Webb,
+2020-08-08T20:36:21+00:00,971880586,971880452,1,Thehuntison,Lizzie Webb,
+2020-08-08T20:35:13+00:00,971880452,971880412,1,Thehuntison,Lizzie Webb,
+2020-08-08T20:34:54+00:00,971880412,971878308,1,Thehuntison,Lizzie Webb,
+2020-08-08T20:18:44+00:00,971878308,971878272,1,Thehuntison,Lizzie Webb,
+2020-08-08T20:18:26+00:00,971878272,971878175,1,Thehuntison,Lizzie Webb,
+2020-08-08T20:17:48+00:00,971878175,971660770,1,Thehuntison,Lizzie Webb,
+2020-08-08T20:12:47+00:00,971877522,971877444,1,Thehuntison,Joggy Bear,/* UK DVD releases */
+2020-08-08T20:12:11+00:00,971877444,861616402,1,Thehuntison,Joggy Bear,/* UK VHS releases */
+2020-08-08T19:57:05+00:00,971875377,971875177,1,Thehuntison,You Raise Me Up,
+2020-08-08T19:55:47+00:00,971875177,971874935,1,Thehuntison,You Raise Me Up,/* Background */
+2020-08-08T19:54:05+00:00,971874935,971874812,1,Thehuntison,You Raise Me Up,/* Background */
+2020-08-08T19:53:11+00:00,971874812,971874635,1,Thehuntison,You Raise Me Up,
+2020-08-08T19:52:04+00:00,971874635,971568633,1,Thehuntison,You Raise Me Up,/* Background */
+2020-08-08T18:11:24+00:00,971862086,923522844,1,Thehuntison,Gloria Gaither,
+2020-07-30T22:08:16+00:00,970369449,970369247,1,Thehuntison,Sophie Aldred,/* Career */
+2020-07-30T22:07:07+00:00,970369247,970368973,1,Thehuntison,Sophie Aldred,
+2020-07-30T22:04:59+00:00,970368973,970368355,1,Thehuntison,Sophie Aldred,
+2020-07-30T22:00:12+00:00,970368355,966498553,1,Thehuntison,Sophie Aldred,
+2020-07-30T21:48:09+00:00,970366484,966503884,1,Thehuntison,Words and Pictures (TV programme),/* 1990s onwards */
+2020-07-30T21:32:10+00:00,970363966,966503520,1,Thehuntison,Numbertime,
+2020-07-30T21:27:13+00:00,970363146,970253720,1,Thehuntison,Lolita Chakrabarti,
+2021-04-08T20:19:44+00:00,1016740869,1016699475,1,Eager336,Geoffrey Hayes,
+2021-04-06T22:38:05+00:00,1016390172,1016389818,1,Eager336,Sky Witness,
+2021-04-06T22:35:26+00:00,1016389818,1011850171,1,Eager336,Sky Witness,
+2021-03-27T01:56:00+00:00,1014436678,1014436642,1,Eager336,Feels Like I'm in Love,
+2021-03-27T01:55:31+00:00,1014436642,1014436467,1,Eager336,Feels Like I'm in Love,
+2021-03-27T01:53:50+00:00,1014436467,1014436351,1,Eager336,Feels Like I'm in Love,
+2021-03-27T01:52:46+00:00,1014436351,1014436037,1,Eager336,Feels Like I'm in Love,
+2021-03-27T01:50:02+00:00,1014436037,1014435751,1,Eager336,Feels Like I'm in Love,
+2021-03-27T01:48:00+00:00,1014435751,1014363870,1,Eager336,Feels Like I'm in Love,
+2021-03-27T01:13:50+00:00,1014431440,0,1,Eager336,File:Mungo Jerry single.jpg,"Uploading a non-free work, as object of commentary using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]"
+2021-03-11T02:43:16+00:00,1011474894,1011474567,1,Eager336,The Pledge (British TV programme),
+2021-03-11T02:40:53+00:00,1011474567,1011474025,1,Eager336,The Pledge (British TV programme),
+2021-03-11T02:36:15+00:00,1011474025,1011469223,1,Eager336,The Pledge (British TV programme),
+2020-12-22T21:40:30+00:00,995784189,994049186,1,Eager336,I Saw the Light (Wynonna Judd song),
+2020-12-22T21:34:50+00:00,995783374,995783156,1,Eager336,I Just Call You Mine,
+2020-12-22T21:33:29+00:00,995783156,995782926,1,Eager336,I Just Call You Mine,
+2020-12-22T21:32:06+00:00,995782926,995782064,1,Eager336,I Just Call You Mine,
+2020-12-22T21:27:00+00:00,995782064,995781771,1,Eager336,I Just Call You Mine,
+2020-12-22T21:25:19+00:00,995781771,995779606,1,Eager336,I Just Call You Mine,/* Chart positions */
+2020-12-22T21:21:40+00:00,995781227,955130500,1,Eager336,Mine & Yours,
+2020-12-22T21:12:42+00:00,995779606,995779323,1,Eager336,I Just Call You Mine,
+2020-12-22T21:11:08+00:00,995779323,995778953,1,Eager336,I Just Call You Mine,
+2020-12-22T21:09:06+00:00,995778953,995778799,1,Eager336,I Just Call You Mine,
+2020-12-22T21:08:16+00:00,995778799,993554653,1,Eager336,I Just Call You Mine,
+2020-09-25T07:20:56+00:00,980213411,977494134,0,JJMC89 bot III,Brilliant Creatures,Moving [[:Category:British children's television shows]] to [[:Category:British children's television series]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-11-13T22:57:30+00:00,988564122,988563445,0,Dl2000,Beth Goddard,check/upd ref
+2021-01-19T07:01:24+00:00,1001336797,1001228394,0,Kleo-Sine,Birds of a Feather (TV series),/* Episodes */
+2020-09-26T09:47:46+00:00,980401133,979344919,0,86.179.141.78,A Question of Sport,
+2020-06-29T11:48:33+00:00,965099890,964861944,0,Savolya,Beth Goddard,Adding/improving reference(s)
+2020-09-11T22:02:55+00:00,977939796,974929369,0,Dawnseeker2000,Birds of a Feather (TV series),"[[Template:Use dmy dates|date format audit]], refine ref details"
+2021-03-24T17:31:25+00:00,1014008140,996854366,0,Howard the Duck,Always You (Charice Pempengco song),added [[Category:English-language Filipino songs]] using [[WP:HC|HotCat]]
+2020-09-09T05:13:25+00:00,977494134,966055733,0,Dawnseeker2000,Brilliant Creatures,"date format audit, minor formatting"
+2020-09-22T17:43:17+00:00,979767294,979766937,0,150.250.5.31,Brum (TV series),
+2020-11-08T11:52:05+00:00,987647773,987647491,0,106.70.245.17,Brum (TV series),/* 2000s */
+2020-06-06T17:15:44+00:00,961110409,956728879,0,WikiCleanerBot,Always You (Charice Pempengco song),v2.02b - [[User:WikiCleanerBot#T7|Special:LintError/missing-end-tag]] - [[WP:WCW]] project (Missing end tag)
+2021-02-13T14:05:29+00:00,1006552459,994601106,0,Andreaenglezou,Beth Goddard,/* Credits */Added more details to Tilly Trotter
+2020-12-18T19:02:38+00:00,995013605,994807295,0,2603:8000:F201:6AC3:B1AF:6AAC:7A07:CCE3,Brum (TV series),/* External links */ cleanup
+2020-07-25T00:50:33+00:00,969371046,969072425,0,2A02:C7F:683E:1000:C1D7:A7CE:D958:EE45,A Question of Sport,
+2021-01-24T18:41:33+00:00,1002495728,1002472726,0,MB,Brum (TV series),"cleanup, [[WP:AWB/T|typo(s) fixed]]: ’s → 's (2), 3-5 → 3–5"
+2020-08-19T09:00:01+00:00,973805304,973604272,0,2A00:23C7:2404:9901:6823:C05F:BDE3:3254,Brum (TV series),By saying it aired on Children’s BBC on BBC1
+2020-10-16T19:39:45+00:00,983876204,980968740,0,109.146.120.190,Brum (TV series),/* Series 3 (2001 - 2002) */
+2021-03-07T12:26:41+00:00,1010805752,1010623803,0,PaddyofScotland,Brum (TV series),There was never a fourth or fifth series.
+2020-08-12T02:06:57+00:00,972433608,972433460,0,2A02:C7F:7A36:BA00:ACEF:1EC:E143:F5BD,Brum (TV series),/* Series 4 (2002) */
+2021-02-21T16:13:20+00:00,1008105679,1008086732,0,LTPHarry,Brum (TV series),Vandalism
+2021-01-16T15:24:16+00:00,1000754802,1000754721,0,Magitroopa,Brum (TV series),Undid revision 1000754721 by [[Special:Contributions/92.14.215.122|92.14.215.122]] ([[User talk:92.14.215.122|talk]])
+2021-01-02T10:24:56+00:00,997813320,997813280,0,37.228.249.245,Brum (TV series),/* Series 3 (2001) */
+2021-02-07T06:24:28+00:00,1005350701,1005348113,0,MartinezMD,Connie Booth,Reverted edits by [[Special:Contribs/157.34.83.201|157.34.83.201]] ([[User talk:157.34.83.201|talk]]) to last version by Monkbot
+2018-08-06T02:18:13+00:00,853635253,787715335,0,Ser Amantio di Nicolao,Claire Harman (actress),"/* External links */add authority control, test using [[Project:AWB|AWB]]"
+2020-12-16T20:11:26+00:00,994646717,987200984,0,Monkbot,Connie Booth,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 12 templates: del empty params (3×); hyphenate params (10×);
+2020-11-16T01:15:47+00:00,988922337,988921333,0,2A02:C7F:7A36:BA00:6031:F319:E7AC:91D3,Brum (TV series),/* Series 3 (2001) */
+2020-03-18T22:47:33+00:00,946235042,928110578,0,JJMC89 bot III,Charice (EP),Moving [[:Category:Charice Pempengco albums]] to [[:Category:Jake Zyrus albums]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-10-18T19:48:40+00:00,984200116,980496548,0,Jack1956,Connie Booth,/* Television */
+2020-08-30T19:52:57+00:00,975856945,975855213,0,MarnetteD,Connie Booth,an Amazon page is not a [[WP:RS]] as there is no fact checking done at the site
+2020-08-29T21:44:01+00:00,975689818,975680272,0,Woody,Captain Tom Moore,reinstate sourced content
+2021-01-14T14:35:25+00:00,1000291057,1000290854,0,2.102.59.153,Claire Harman (actress),/* Filmography */
+2021-02-06T16:31:16+00:00,1005225068,1005224935,0,Serols,Captain Tom Moore,Undid revision 1005224524 by [[Special:Contributions/2A00:23C7:FC14:3700:21DD:4EA4:CEC9:3E07|2A00:23C7:FC14:3700:21DD:4EA4:CEC9:3E07]] ([[User talk:2A00:23C7:FC14:3700:21DD:4EA4:CEC9:3E07|talk]]) vandalism
+2020-09-12T02:57:05+00:00,977972829,977972608,0,MartinezMD,Connie Booth,source is clear. reverted
+2021-03-07T01:46:58+00:00,1010741216,1010734548,0,MartinezMD,Connie Booth,Reverted edits by [[Special:Contribs/2A02:C7F:2C34:AA00:3185:3C0D:6940:5B7B|2A02:C7F:2C34:AA00:3185:3C0D:6940:5B7B]] ([[User talk:2A02:C7F:2C34:AA00:3185:3C0D:6940:5B7B|talk]]) to last version by MartinezMD
+2020-07-06T23:20:20+00:00,966407485,966402287,0,MarnetteD,Connie Booth,per [[WP:RS/IMDB]] the site cannot be used as a ref
+2020-11-03T06:11:44+00:00,986823001,986822851,0,Ss112,Daniel O'Donnell,"/* Discography */ ""ARIA watched""? What?"
+2020-07-28T08:42:09+00:00,969940550,967844373,0,Bobo6balde66,Daniel O'Donnell,/* Discography */
+2020-06-08T20:03:34+00:00,961493501,953537629,0,81.111.140.15,Danielle Nicholls,
+2021-01-03T00:38:09+00:00,997944990,991372282,0,46.254.249.177,Deborah Grant,/* Television appearances */
+2020-04-12T19:59:17+00:00,950573436,938163569,0,Heidi bradshaw,Deborah Grant,/* Television appearances */Added character details for appearance in Edward the Seventh.
+2020-11-21T16:28:29+00:00,989889018,987007836,0,Thirdman,Denise Robertson,/* Early life */ Sunderland in County Durham at the time
+2020-12-11T15:49:09+00:00,993619979,993619688,0,176.35.19.104,Dickinson's Real Deal,/* The dealers */
+2020-08-23T16:26:12+00:00,974540737,973397331,0,JJMC89 bot III,Dickinson's Real Deal,Moving [[:Category:ITV television shows]] to [[:Category:ITV (TV network) original programming]] per [[Wikipedia:Categories for discussion/Log/2020 August 15#Television series and network original programming]]
+2020-09-24T00:13:51+00:00,979993589,974540737,0,ProcBot,Dickinson's Real Deal,[[Wikipedia:Bots/Requests for approval/ProcBot 2|Task 2]]: Change text dates to use date templates
+2021-01-25T16:37:35+00:00,1002684236,1002683982,0,Magnolia677,Danielle Nicholls,Clean up/copyedit
+2021-01-29T06:53:02+00:00,1003494755,998433435,0,2A02:8084:90C0:9380:58EC:F6FF:5305:2DEE,Dickinson's Real Deal,/* Dickinson's Real Deal */
+2020-10-22T17:22:53+00:00,984880438,984880288,0,Tipping Down,Deborah Grant,infobox
+2020-11-11T20:13:13+00:00,988214440,985758359,0,ProcBot,Dream Street (British TV series),[[Wikipedia:Bots/Requests for approval/ProcBot 2|Task 2]]: Change text dates to use date templates
+2020-11-18T10:44:42+00:00,989329147,989174941,0,81.100.77.10,Elaine Lordan,Full character name
+2021-01-22T00:04:27+00:00,1001919295,997441350,0,Discpalor,Dream Street (British TV series),not an original programme on that network
+2020-09-15T00:24:16+00:00,978448423,977091853,0,Hiddenstranger,Fawlty Towers,/* Other regular characters and themes */
+2020-08-06T20:08:31+00:00,971543033,971542915,0,Romiley401,Fawlty Towers,
+2020-09-20T23:11:53+00:00,979465656,870014970,0,Dawnseeker2000,Feels Like I'm in Love,"date format audit, minor formatting"
+2021-02-27T17:45:23+00:00,1009270945,1007855036,0,Sunshineisles2,Feels Like I'm in Love,/* Appearances in other media */
+2021-02-20T07:39:46+00:00,1007855036,1003152867,0,82.9.114.156,Feels Like I'm in Love,/* Appearances in other media */ Added new info
+2018-11-21T21:18:06+00:00,870014970,847151274,0,Zackmann08,Feels Like I'm in Love,fixing deprecated params
+2020-12-29T13:01:03+00:00,996978040,993481030,0,PrimeBOT,Feels Like I'm in Love,"/* top */[[User:PrimeBOT/30|Task 30]]: removal of ""format"" parameter from [[Template:infobox song]] following deprecation (+infobox genfixes)"
+2020-11-04T05:08:31+00:00,986990810,980778786,0,Ukexpat,Gail McKenna,neutralise
+2020-09-28T11:50:22+00:00,980778786,980775458,0,Keith D,Gail McKenna,Reverted edits by [[Special:Contribs/80.42.137.180|80.42.137.180]] ([[User talk:80.42.137.180|talk]]) to last version by Helper201
+2018-12-31T07:34:11+00:00,876117326,876117309,0,Helper201,Gail McKenna,
+2021-01-27T09:53:47+00:00,1003084936,1001827408,0,Monkbot,Gary Wilmot,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 16 templates: del empty params (1×); hyphenate params (1×);
+2021-03-25T18:20:44+00:00,1014194927,1014194880,0,2A01:4C8:414:3A89:196A:109D:EA09:4256,Gary Wilmot,Added a daughter he had
+2020-08-02T22:37:54+00:00,970874145,955893719,0,Jamescrispy94,Gary Wilmot,/* Theatre */
+2020-09-21T14:16:44+00:00,979574296,979573686,0,Kc-3382,Gary Wilmot,
+2020-12-06T21:54:59+00:00,992746329,992722491,0,Monkbot,Geoffrey Hayes,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 15 templates: del empty params (2×);
+2020-08-06T22:33:24+00:00,971563785,965132372,0,84.66.84.79,Geoffrey Hayes,/* Geoffrey Hayes */
+2020-10-25T12:22:47+00:00,985345883,985257951,0,FrescoBot,Gary Wilmot,Bot: [[User:FrescoBot/Links|link syntax]]
+2020-10-13T17:10:28+00:00,983335289,983334528,0,MFlet1,Geoffrey Hayes,/* Career */Replace with reliable source and change text accordingly
+2020-11-23T07:28:30+00:00,990181355,990181302,0,2.24.14.19,Gillian Wright,/* Career */
+2021-02-25T14:15:24+00:00,1008871322,1008870376,0,Meena,Gillian Wright,No.
+2020-09-06T17:20:04+00:00,977053889,968690377,0,Tassedethe,Gillian Wright,+hat
+2021-03-16T12:00:18+00:00,1012442919,1009447561,0,PrincessPersnickety,Gimme Gimme Gimme (TV series),/* Regular */ Punctuation
+2020-10-09T19:07:22+00:00,982695354,979534467,0,Dawnseeker2000,Gimme Gimme Gimme (TV series),"date format audit, minor formatting"
+2019-10-29T02:06:17+00:00,923522844,916946368,0,Ser Amantio di Nicolao,Gloria Gaither,Removing from [[Category:American female singers]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2021-02-09T22:26:45+00:00,1005883042,1005878100,0,Meena,Gillian Wright,Reverted edits by [[Special:Contribs/193.104.222.209|193.104.222.209]] ([[User talk:193.104.222.209|talk]]) to last version by DarkGlow
+2021-01-15T22:04:42+00:00,1000613033,972586804,0,112.213.223.15,Gordon Peters,
+2021-01-14T19:26:46+00:00,1000350843,999265537,0,92.236.100.91,Gimme Gimme Gimme (TV series),
+2021-01-05T23:41:15+00:00,998562247,998557268,0,Ponyo,Gillian Wright,rv sock edits per [[WP:BANREVERT]]
+2021-01-18T20:14:21+00:00,1001228774,1000270313,0,Calliopejen1,Gloria Gaither,the wife of --> married to; see [[Wikipedia:Writing about women]]
+2020-09-17T16:13:03+00:00,978900653,974517475,0,ProcBot,Havakazoo,[[Wikipedia:Bots/Requests for approval/ProcBot 2|Task 2]]: Change text dates to use date templates
+2021-01-22T20:05:14+00:00,1002087496,998512609,0,51.6.182.117,Havakazoo,
+2020-11-30T23:25:53+00:00,991610916,991609936,0,Starcheerspeaksnewslostwars,Heart and Soul (Lisa Stanley album),fails notability requirements per [[WP:NALBUMS]]
+2020-07-15T09:37:22+00:00,967790062,966454874,0,TSventon,Havakazoo,fles->fleas - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2020-07-23T19:03:40+00:00,969161492,957763549,0,Bearcat,Holly Cole,/* External links */
+2021-03-08T20:31:07+00:00,1011062759,1008188213,0,TenPoundHammer,Heaven Help My Heart,per album
+2020-10-08T22:24:31+00:00,982561106,975418945,0,PeterSkylight,Holly Cole,Added an album that was missing in Holly Cole's biography and discography with links and citations
+2020-11-25T21:42:39+00:00,990675357,982561106,0,Metomp,Holly Cole,"/* Discography */ corrected relases date for ""Holly"" in Discography list"
+2020-11-29T12:58:53+00:00,991320127,991319664,0,Philip Cross,How (TV series),/* Revival */ full citation
+2020-08-28T08:11:13+00:00,975395911,968243914,0,Unreal7,How (TV series),
+2020-10-17T14:35:46+00:00,983993317,983891690,0,XxLuckyCxX,How (TV series),
+2021-01-22T19:40:13+00:00,1002083487,1002083310,0,XLinkBot,How (TV series),BOT--Reverting link addition(s) by [[:en:Special:Contributions/64.88.19.113|64.88.19.113]] to revision 994694957 (www.youtube.com/watch?v=2ru4RYA2oTQ [\byoutube\.com])
+2021-01-06T21:21:32+00:00,998747103,997042829,0,Rodw,I Just Call You Mine,Disambiguating links to [[UK charts]] (link changed to [[UK Singles Chart records]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2019-12-28T23:19:45+00:00,932913171,917028665,0,David829,I Just Call You Mine,
+2021-01-29T19:31:47+00:00,1003599407,998747103,0,Monkbot,I Just Call You Mine,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 3 templates: del empty params (1×); hyphenate params (1×);
+2021-02-08T00:55:30+00:00,1005506314,1003599407,0,141.126.11.28,I Just Call You Mine,/* Content */
+2020-12-11T05:50:10+00:00,993554653,984999630,0,Ser Amantio di Nicolao,I Just Call You Mine,/* External links */add authority control
+2020-11-15T16:47:32+00:00,988848816,988848741,0,2A00:23C5:430A:6A00:402:AFCC:3C4D:D797,I Saw the Light (Wynonna Judd song),
+2020-07-26T11:53:39+00:00,969596909,939687340,0,2601:153:881:3D60:99D6:3CCA:748B:EB16,I Saw the Light (Wynonna Judd song),"/* Personnel */delink, all of these are common words easily understood by the everyday reader, see [[WP:PERSONNEL]] and [[MOS:OL]]"
+2021-01-30T01:57:15+00:00,1003662073,1002137538,0,Monkbot,I Saw the Light (Wynonna Judd song),[[User:Monkbot/task 18|Task 18b (cosmetic)]]: eval 2 templates: hyphenate params (1×);
+2020-11-01T11:37:32+00:00,986523788,986523752,0,Waacstats,I Saw the Light (Wynonna Judd song),+{{1992-country-song-stub}} using [[User:SD0001/StubSorter|StubSorter]]
+2021-01-18T13:38:52+00:00,1001156196,996013236,0,JJMC89 bot III,I Saw the Light (Wynonna Judd song),Removing [[:Category:RPM Country Tracks number-one singles]] per [[Wikipedia:Categories for discussion/Log/2021 January 8#Number-one song categories]]
+2021-02-22T00:51:24+00:00,1008187616,1003662073,0,170.79.32.17,I Saw the Light (Wynonna Judd song),
+2020-12-13T21:16:51+00:00,994049186,994048799,0,力,I Saw the Light (Wynonna Judd song),"Reverted 1 edit by [[Special:Contributions/Thehuntison|Thehuntison]] ([[User talk:Thehuntison|talk]]): Still inappropriate; Shazam is not a good enough source, this is trivial"
+2020-11-30T23:23:50+00:00,991610600,991336799,0,Starcheerspeaksnewslostwars,I Saw the Light (Wynonna Judd song),/* Lisa Stanley version */ insignificant cover
+2020-12-24T01:45:59+00:00,996013236,995793804,0,JJMC89 bot III,I Saw the Light (Wynonna Judd song),Removing [[:Category:Billboard Hot Country Songs number-one singles]] per [[Wikipedia:Categories for discussion/Log/2020 December 15#Category:Billboard Hot Country Songs number-one singles]]
+2020-12-29T21:36:29+00:00,997071191,994135963,0,PrimeBOT,Is It Over Yet,"/* top */[[User:PrimeBOT/30|Task 30]]: removal of ""format"" parameter from [[Template:infobox song]] following deprecation (+infobox genfixes)"
+2021-01-03T01:06:26+00:00,997949487,987408342,0,2A00:23C5:430A:6A00:DDEC:436E:5395:63FC,Jenny Funnell,
+2020-12-14T06:54:47+00:00,994135963,994052917,0,Robvanvee,Is It Over Yet,Rollback edit(s) by [[Special:Contributions/Thehuntison|Thehuntison]] ([[User_talk:Thehuntison|talk]]): No source provided  [[w:en:WP:RW|(RW 16)]]
+2021-01-13T19:50:28+00:00,1000140020,993078833,0,Juliatns7,Jamal Edwards,Celebrity Gogglebox
+2021-03-10T01:03:32+00:00,1011281010,1011278347,0,Ifnord,Jeremy Kyle,Reverted 2 edits by [[Special:Contributions/80.43.18.209|80.43.18.209]] ([[User talk:80.43.18.209|talk]]) to last revision by Almostangelic123
+2021-02-10T12:12:59+00:00,1005985802,1005985512,0,Almostangelic123,Jeremy Kyle,
+2020-08-03T00:15:49+00:00,970889748,970889704,0,Nkon21,Jeremy Kyle,Reverted edits by [[Special:Contributions/78.146.18.63|78.146.18.63]] ([[User talk:78.146.18.63|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-12-14T06:56:33+00:00,994136178,993147363,0,Robvanvee,Jo Caulfield,Rollback edit(s) by [[Special:Contributions/Thehuntison|Thehuntison]] ([[User_talk:Thehuntison|talk]]): No source provided  (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16)]]
+2021-03-18T19:44:47+00:00,1012869566,994136178,0,2003:C4:F27:BF7A:A523:2E83:2840:C12,Jo Caulfield,/* External links */
+2020-08-27T12:13:01+00:00,975216143,975149071,0,2A02:1811:C17:FD00:2107:C6CC:14CD:3146,Jo Caulfield,/* Live shows */ added 2019 Edinburgh Festival
+2020-12-03T19:40:21+00:00,992150223,992150154,0,Materialscientist,Jeremy Kyle,Reverted edits by [[Special:Contributions/82.7.78.108|82.7.78.108]] ([[User talk:82.7.78.108|talk]]): addition of [[WP:BLP|unsourced content]] to a biographical article ([[WP:HG|HG]]) (3.4.10)
+2021-03-14T20:49:12+00:00,1012141313,1012008089,0,Finngall,Jamal Edwards,Reverted 1 edit by [[Special:Contributions/Thehuntison|Thehuntison]] ([[User talk:Thehuntison|talk]]): Rv AfD tag placed without followup -- see [[WP:AFDHOWTO]]
+2020-09-03T00:59:27+00:00,976453193,976444053,0,JosephM1998,Johnson and Friends,
+2021-01-31T06:41:03+00:00,1003900647,997920196,0,Coolabahapple,Johnson and Friends,/* Production */ fixed a reference date error.
+2020-09-24T11:48:00+00:00,980066061,979587561,0,Markoff-Chaney,Johnson and Friends,/* American version */
+2020-08-28T22:41:22+00:00,975508545,974505495,0,JosephM1998,Johnson and Friends,
+2021-03-04T10:45:09+00:00,1010214803,1010214352,0,Liamglynevans,Johnson and Friends,/* Production */
+2021-01-02T22:01:00+00:00,997920196,993548775,0,Monkbot,Johnson and Friends,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: del empty params (3×); hyphenate params (1×); del |url-status= (1×);
+2020-11-24T00:39:40+00:00,990315155,990075647,0,JJMC89 bot III,Johnson and Friends,Removing [[:Category:Australian television shows featuring anthropomorphic characters]] per [[Wikipedia:Categories for discussion/Log/2020 November 14#Television shows featuring anthropomorphic characters]]
+2020-12-01T22:19:45+00:00,991804131,990315155,0,2600:8807:4D00:2710:143F:EE65:1D6A:4BF3,Johnson and Friends,/* Plot */
+2020-09-07T23:20:57+00:00,977277503,976606368,0,ProcBot,Johnson and Friends,[[Wikipedia:Bots/Requests for approval/ProcBot 2|Task 2]]: Change text dates to use date templates
+2020-12-22T01:20:44+00:00,995624376,994610961,0,Monkbot,Jonathan Harvey (playwright),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 8 templates: del empty params (4×); hyphenate params (7×);
+2020-08-24T03:58:09+00:00,974638509,972811930,0,Ser Amantio di Nicolao,Jonathan Harvey (playwright),recategorize
+2020-09-10T20:46:52+00:00,977763452,977277503,0,JosephM1998,Johnson and Friends,Removing false information.
+2020-10-04T23:45:48+00:00,981882001,981813542,0,2600:6C42:6400:5EF7:5820:EBA6:88F3:8F08,Judge Judy,
+2021-01-25T07:27:14+00:00,1002615192,1002259868,0,2001:569:FCF9:B500:B80B:388:C36D:EB3C,Judge Judy,/* Location */
+2021-01-19T10:38:03+00:00,1001363686,997720922,0,InternetArchiveBot,Judi Dench,Rescuing 3 sources and tagging 1 as dead.) #IABot (v2.0.8
+2020-08-07T17:33:11+00:00,971696277,971680432,0,EdwardUK,Judi Dench,/* External links */ remove link - no content
+2020-12-22T06:28:16+00:00,995667925,995667742,0,Renamed user 7z42t3k8qj,Judi Dench,Reverted 1 edit by [[Special:Contributions/75.167.98.188|75.167.98.188]] ([[User talk:75.167.98.188|talk]]) to last revision by SibTower1987
+2020-11-28T09:45:14+00:00,991113675,991063189,0,Binho24,Judi Dench,Undid revision 991063189 by [[Special:Contributions/90.196.146.76|90.196.146.76]] ([[User talk:90.196.146.76|talk]])
+2021-02-09T21:19:59+00:00,1005873470,1005865464,0,Ty Karac Sargent,Judi Dench,
+2020-11-29T20:34:32+00:00,991392090,991391984,0,Binho24,Judi Dench,Reverted to revision 991148287 by [[Special:Contributions/AJP|AJP]] ([[User talk:AJP|talk]])
+2020-08-28T03:53:20+00:00,975369035,975368855,0,Rdp060707,Judi Dench,Undid revision 975368855 by [[Special:Contributions/Theaudimobile|Theaudimobile]] ([[User talk:Theaudimobile|talk]]) Vandalism
+2020-10-12T20:48:52+00:00,983199631,983042087,0,Diopic,Judi Dench,"/* External links */ add [[Category:Best Entertainment Performance BAFTA Award (television) winners]] instead [[Category:BAFTA winners (people)]], no need doubling"
+2021-03-07T21:51:47+00:00,1010887521,1010887377,0,The One I Left,Judi Dench,
+2021-01-02T05:29:21+00:00,997780474,997780419,0,2603:6010:3A01:8B6D:10B0:C2D8:8019:32E4,Judy Justice,
+2020-09-29T07:32:13+00:00,980920133,980148746,0,Theroadislong,Judi Dench,removed [[Category:Honorary Degree Recipients of University of London]] using [[WP:HC|HotCat]] not mentioned in the article?
+2020-10-30T14:57:42+00:00,986222207,986203544,0,HowlingSnail,Keeping Up Appearances,/* Specials */
+2020-08-21T16:05:54+00:00,974194817,974192585,0,PAustin4thApril1980,Keeping Up Appearances,Undid revision 974192585 by [[Special:Contributions/Penrithguy|Penrithguy]] ([[User talk:Penrithguy|talk]])
+2020-09-07T08:39:50+00:00,977167066,977133145,0,PAustin4thApril1980,Keeping Up Appearances,Undid revision 977133145 by [[Special:Contributions/Mary Cohn|Mary Cohn]] ([[User talk:Mary Cohn|talk]])
+2020-07-31T23:32:31+00:00,970548187,970542195,0,PAustin4thApril1980,Keeping Up Appearances,avoid redirect
+2020-12-18T18:54:37+00:00,995012312,987633931,0,Kaltenmeyer,Judy Justice,/* top */removed duplicate names
+2021-01-05T20:07:28+00:00,998528843,997932550,0,Monkbot,Keeping Up Appearances,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 32 templates: hyphenate params (21×);
+2021-03-03T19:28:02+00:00,1010093284,1009800884,0,81.99.175.183,Keeping Up Appearances,
+2021-03-30T15:58:22+00:00,1015091230,1014319928,0,WelshDragon18,Keeping Up Appearances,
+2020-12-24T02:37:24+00:00,996021315,992624270,0,JJMC89 bot III,Keeping Up Appearances,Removing [[:Category:Television series about suburbia]] per [[Wikipedia:Categories for discussion/Log/2020 December 16#Category:Television series about suburbia]]
+2020-10-27T18:02:47+00:00,985741958,977779449,0,Toweli,Lee Towers,
+2021-01-02T23:19:37+00:00,997932550,997921436,0,Keith D,Keeping Up Appearances,/* Locations */ Fix link
+2020-10-02T23:33:58+00:00,981542902,954280374,0,Tobyjamesaus,Kelly Marie,/* Singles discography */
+2020-08-04T05:42:31+00:00,971104844,966916358,0,Ser Amantio di Nicolao,Leigh Francis,add category
+2020-09-20T20:34:16+00:00,979446505,979440456,0,Armadillopteryx,Leigh Francis,Rollback edit(s) by [[Special:Contributions/2A00:23C7:840E:201:104:70F1:28A6:3149|2A00:23C7:840E:201:104:70F1:28A6:3149]] ([[User_talk:2A00:23C7:840E:201:104:70F1:28A6:3149|talk]]): Source for these changes? [[w:en:WP:RW|(RW 15)]]
+2020-12-08T13:03:25+00:00,993034518,993033809,0,Guliolopez,Lisa Stanley,Address own {{cn}} tag.
+2020-12-29T23:15:19+00:00,997087088,995828513,0,109.255.38.231,Lisa Stanley,/* External links */
+2020-05-07T20:26:51+00:00,955439090,948083255,0,Smirkybec,Lisa Stanley,adding link for Maisie McDaniel
+2020-12-01T11:41:02+00:00,991704317,991704198,0,Guliolopez,Lisa Stanley,Uncited. Not mentioned in the body.
+2021-02-03T19:05:44+00:00,1004661439,997087088,0,Kjell Knudde,Lisa Stanley,Added more categories
+2020-11-29T14:37:40+00:00,991333692,991331168,0,AnomieBOT,Lisa Stanley,Dating maintenance tags: {{Dead}} {{Or-inline}}
+2021-01-19T09:32:00+00:00,1001355806,1001327702,0,Malmsimp,List of programmes broadcast by Nick Jr. (British and Irish TV channel),Removing programmes not important to the channel
+2020-09-17T08:50:32+00:00,978850596,978850116,0,Crisso,Lizzie Webb,add punctuation
+2020-12-14T02:38:14+00:00,994098689,978850596,0,Tom.Bot,Lizzie Webb,"[[Wikipedia:Bots/Requests for approval/Tom.Bot 5|Task 6]]: +{{[[Template:Authority control|Authority control]]}}, [[WP:GenFixes]] on"
+2021-02-01T11:27:35+00:00,1004174011,1004172459,0,Suonii180,List of programmes broadcast by Nick Jr. (British and Irish TV channel),"Undid revision 1004172459 by [[Special:Contributions/89.47.52.89|89.47.52.89]] ([[User talk:89.47.52.89|talk]]), end date not mentioned in subject's article"
+2020-07-03T17:35:05+00:00,965832660,965832585,0,Davem0sad,Lizzie Webb,
+2021-03-22T11:12:52+00:00,1013576402,994098689,0,Finlay McWalter,Lizzie Webb,"/* top */ MOS:NUM, MOS:SURNAME"
+2020-10-01T14:13:38+00:00,981304129,981301492,0,AnomieBOT,Lolita Chakrabarti,Dating maintenance tags: {{Citation needed}}
+2021-02-22T00:24:39+00:00,1008183712,1008050486,0,Ukexpat,Lolita Chakrabarti,Minor reorganization
+2021-03-20T14:09:06+00:00,1013182617,1012085348,0,InternetArchiveBot,Lorraine Kelly,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 7486
+2020-11-13T14:12:02+00:00,988488130,985246189,0,Verica Atrebatum,Lorraine Kelly,Cookham cat
+2021-02-06T08:16:49+00:00,1005164126,1005160212,0,Ianmacm,Lorraine Kelly,Reverted edits by [[Special:Contribs/46.69.0.85|46.69.0.85]] ([[User talk:46.69.0.85|talk]]) to last version by 2A02:C7F:E2E:DE00:C96E:28E2:E7D2:39D3
+2020-08-03T20:45:37+00:00,971040100,971039690,0,95.150.227.61,Lorraine Kelly,"/* 2010–present: Lorraine, Daybreak and other projects */"
+2021-02-27T13:48:45+00:00,1009237032,1009236574,0,Lnealon,Lorraine Kelly,/* Other television work */
+2021-03-11T19:29:06+00:00,1011595558,1011595299,0,Lnealon,Lorraine Kelly,
+2020-10-10T18:22:44+00:00,982844310,982833657,0,Ccmcr1,Lorraine Kelly,/* Awards and honours */
+2020-08-15T05:52:59+00:00,973068946,972994561,0,Buidhe,Love me a little bit longer,lack of independent reliable sources [[WP:GNG]]
+2021-01-07T02:20:54+00:00,998797661,998796702,0,Ser Amantio di Nicolao,Maisie McDaniel,Removing from [[Category:Irish female singers]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2020-10-24T20:48:27+00:00,985246189,983891445,0,JWULTRABLIZZARD,Lorraine Kelly,
+2021-02-02T14:17:24+00:00,1004419284,1004419196,0,JayBlaster106,Man in the Mirror,
+2020-12-27T02:47:45+00:00,996522477,993147996,0,Clog Wolf,Mark Nicholas,
+2020-12-10T17:07:16+00:00,993442421,992980305,0,JayBlaster106,Man in the Mirror,/* Personnel */
+2020-10-22T14:50:20+00:00,984857987,972961090,0,Shahoodu,Mark Nicholas,Commentator in IPL
+2020-12-09T23:19:54+00:00,993309499,993307368,0,2001:4400:2000:B0FE:9824:A298:E0CA:3226,Mary Duff,/* Partial discography */ added more recent release
+2020-10-07T01:07:07+00:00,982251792,974253539,0,Tobyjamesaus,Mary Duff,minor tidy up
+2020-09-22T10:42:04+00:00,979714795,979434604,0,JJMC89 bot,Measure of a Man (Sam and Mark song),Removed [[WP:NFCC]] violation(s). No valid [[WP:NFUR|non-free use rationale]] for this page. See [[WP:NFC#Implementation]]. Questions? [[WP:MCQ|Ask here]].
+2020-12-13T18:37:47+00:00,994017313,979714795,0,Ser Amantio di Nicolao,Measure of a Man (Sam and Mark song),add authority control
+2020-06-06T17:52:33+00:00,961116667,915490901,0,VirreFriberg,Measure of a Man (Sam and Mark song),
+2020-12-30T03:23:50+00:00,997127101,994017313,0,PrimeBOT,Measure of a Man (Sam and Mark song),"/* top */[[User:PrimeBOT/30|Task 30]]: removal of ""format"" parameter from [[Template:infobox song]] following deprecation (+infobox genfixes)"
+2020-04-02T02:54:30+00:00,948628608,921105419,0,InternetArchiveBot,Michael Hogben,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2020-05-06T03:23:53+00:00,955130500,918641007,0,GreenC bot,Mine & Yours,Move 2 urls. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-01-19T02:49:33+00:00,1001301479,995781227,0,Ser Amantio di Nicolao,Mine & Yours,/* References */add authority control
+2020-06-18T00:44:19+00:00,963127636,935200818,0,2001:48F8:9004:6D1:DC4A:A090:B142:5707,Moira Brooker,Fact correction
+2021-02-05T01:16:13+00:00,1004909971,1004904146,0,73.172.105.181,Moira Brooker,Fixed a typo and added some content to clarify some input.
+2020-11-06T21:02:54+00:00,987407915,984467114,0,Philip Cross,Moira Brooker,ce
+2021-01-19T17:46:55+00:00,1001437320,975108527,0,Ser Amantio di Nicolao,My Inspiration,add authority control
+2020-04-14T16:39:20+00:00,950934492,946235054,0,Rodw,My Inspiration,Disambiguating links to [[Harold Davis]] (link changed to [[Hal Davis]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-02-04T08:05:48+00:00,939089783,937638030,0,2601:153:901:60C0:4030:5257:78E8:CB2E,My Strongest Weakness,added content + source
+2020-12-14T02:31:24+00:00,994097369,994052829,0,Ser Amantio di Nicolao,My Strongest Weakness,add authority control
+2020-11-01T11:32:08+00:00,986523207,939089783,0,Waacstats,My Strongest Weakness,"–{{1990s-country-song-stub}}, +{{1992-country-song-stub}} using [[User:SD0001/StubSorter|StubSorter]]"
+2020-09-03T22:58:37+00:00,976606942,972150100,0,2605:6000:1526:450B:F012:26DF:7D8D:171D,Nadia Sawalha,
+2021-01-19T16:33:25+00:00,1001422436,1000733854,0,Monkbot,Nadia Sawalha,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 20 templates: hyphenate params (7×);
+2020-10-19T21:10:28+00:00,984388940,977757946,0,2603:8081:160A:BE2A:B453:800A:23EA:1E4B,Nadia Sawalha,Undid revision 977757946 by [[Special:Contributions/Ajmint|Ajmint]] ([[User talk:Ajmint|talk]])
+2020-07-25T21:21:53+00:00,969508080,968556392,0,Ajmint,Nadia Sawalha,reverting
+2021-02-18T19:35:53+00:00,1007556690,1007555087,0,79.73.163.206,Nadia Sawalha,
+2020-09-10T20:04:06+00:00,977757946,976606942,0,Ajmint,Nadia Sawalha,Restoring usual English pronunciation
+2020-12-23T16:38:23+00:00,995925631,995924977,0,HyacinthBucket55,Nadia Sawalha,/* Youtube */ Adding need for citation and podcast is one word (youtube infobox)
+2021-01-24T12:55:51+00:00,1002435162,993152869,0,94.173.197.25,Nicola Thorp,noted This Morning contribution
+2020-08-12T13:50:19+00:00,972518019,967700803,0,Jellysandwich0,Ni Ni's Treehouse,
+2020-10-07T07:01:44+00:00,982287136,980816123,0,Drones101,Ni Ni's Treehouse,/* References */
+2020-11-03T20:49:07+00:00,986931773,986362842,0,2A00:23C5:5484:F901:7821:5632:C033:18F8,Nicola Thorp,/* Early life */Edited to deputy
+2020-07-22T16:30:16+00:00,968970704,964676275,0,ElliotPotts2004,Nicola Thorp,/* Coronation Street */
+2020-09-07T14:27:39+00:00,977204126,977204062,0,Serols,Nicola Thorp,Reverted edits by [[Special:Contributions/82.33.73.165|82.33.73.165]] ([[User talk:82.33.73.165|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-03-11T08:15:17+00:00,1011512991,1011505969,0,John of Reading,Nicola Thorp,Restored revision 1002435162 by [[Special:Contributions/94.173.197.25|94.173.197.25]] ([[User talk:94.173.197.25|talk]]): As before: there's no source here for the exact birth date. [[WP:BLP]]
+2021-03-21T19:54:18+00:00,1013469306,1012516581,0,Citation bot,Nicola Thorp,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by DarkGlow | [[Category:English soap opera actresses]] | via #UCB_Category 593/667
+2021-01-20T19:36:34+00:00,1001674508,998959844,0,47.26.9.145,Noggin (brand),
+2021-01-24T01:36:24+00:00,1002359154,1002308500,0,Bender the Bot,Noggin (brand),"/* Creation */HTTP → HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/"
+2020-08-22T15:53:46+00:00,974366624,970213337,0,12.190.236.17,Noggin (brand),/* Television channel{{anchor|TV_channel}} */
+2021-02-14T06:16:07+00:00,1006686513,1006686416,0,2600:100D:B068:E599:ECFC:CD36:DF35:9DA5,Numbertime,/* Series 4: More or Less (Spring/Summer 1996) */
+2021-01-01T17:53:34+00:00,997670769,997670535,0,79.67.181.233,Philip Bretherton,/* Early life */ Added links
+2020-12-30T23:36:40+00:00,997316908,997316813,0,2A02:C7F:4402:6D00:E5A9:5F14:78A9:7FED,Numbertime,
+2021-04-01T10:39:58+00:00,1015417366,1015415380,0,Suonii180,Ruthie Henshall,Restored revision 1014160270 by [[Special:Contributions/DarkGlow|DarkGlow]] ([[User talk:DarkGlow|talk]]): Unconstructive edits
+2020-11-26T08:18:34+00:00,990749319,990318875,0,FlutterDash344,Rolie Polie Olie,"Dashes are not needed as it is much better to use ""until"""
+2021-03-24T00:41:45+00:00,1013889434,1012569350,0,Discospinster,Rolie Polie Olie,− 6 categories using [[WP:HC|HotCat]] - [[WP:OVERCAT]]
+2020-09-23T17:32:57+00:00,979942348,976479852,0,OJ Jan Klin,Ruthie Henshall,Link to an interview that Ruthie Henshall carried out with British Theatre
+2020-06-30T23:33:56+00:00,965374126,964778604,0,2600:1700:48A0:3900:24D6:1BC9:B36:EAFA,Safe in the Arms of Love,/* Martina McBride version */
+2020-12-30T11:18:38+00:00,997189368,993678055,0,PrimeBOT,Safe in the Arms of Love,"[[User:PrimeBOT/30|Task 30]]: removal of ""format"" parameter from [[Template:infobox song]] following deprecation (+infobox genfixes)"
+2020-12-16T09:04:32+00:00,994553598,994429572,0,Softlavender,Sandi Toksvig,fix dab
+2020-12-25T03:05:23+00:00,996201356,994553598,0,1.43.105.99,Sandi Toksvig,
+2020-11-01T19:26:22+00:00,986583470,986582550,0,183.86.148.49,Sandi Toksvig,/* Writing */
+2021-02-19T03:20:44+00:00,1007632538,995575147,0,Neverrainy,Secret Dealers,/* Transmissions */
+2020-08-23T16:31:57+00:00,974541571,973398146,0,JJMC89 bot III,Secret Dealers,Moving [[:Category:ITV television shows]] to [[:Category:ITV (TV network) original programming]] per [[Wikipedia:Categories for discussion/Log/2020 August 15#Television series and network original programming]]
+2021-02-07T21:29:04+00:00,1005477689,1005375798,0,CapnZapp,Sandi Toksvig,"/* Television presenter */ She didn't just host the first episode of N series, she hosted every episode of that series. (Copy-editing)"
+2021-03-11T19:46:50+00:00,1011598387,1007632538,0,92.29.148.211,Secret Dealers,/* The Dealers */Duplicate names
+2020-09-14T23:17:16+00:00,978441586,974541571,0,Tgr,Secret Dealers,link fix
+2020-12-21T20:14:19+00:00,995575147,994501836,0,2601:188:180:B8E0:65F5:930C:B0B2:CD63,Secret Dealers,"/* Controversies */ gossip and original research, supported by a single twitter link"
+2020-08-08T04:58:50+00:00,971778066,971679050,0,NinjaRobotPirate,Secret Dealers,block evasion
+2020-11-06T02:08:34+00:00,987288447,978441586,0,2.26.31.132,Secret Dealers,
+2020-08-17T00:32:22+00:00,973398146,971778066,0,Ser Amantio di Nicolao,Secret Dealers,Removing from [[Category:2010s British television series]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2020-10-02T20:38:02+00:00,981522267,981110293,0,BD2412,Sky Witness,/* top */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]]
+2021-03-13T05:41:41+00:00,1011850171,1007165930,0,Octobooboo44,Sky Witness,
+2020-09-17T15:15:40+00:00,978893014,975237789,0,POWERStarz2004 the 2nd,Sky Witness,
+2021-01-29T23:14:35+00:00,1003637024,1003636844,0,Rodericksilly,Sophie Aldred,/* Early life */
+2020-08-16T11:04:40+00:00,973283686,970369449,0,SRJ1234,Sophie Aldred,/* Filmography */
+2020-11-03T09:59:31+00:00,986843443,986807645,0,Neils51,Sophie Aldred,"/* Career */  sp, update parameters"
+2020-08-20T15:36:16+00:00,974011334,973283686,0,Gilldragon,Sophie Aldred,/* External links */ Added Wikiquote template
+2020-11-29T07:32:29+00:00,991285214,988246529,0,2A00:23C8:1789:EC01:E1BF:13AC:89BD:22CE,Still Open All Hours,/* External links */
+2020-11-24T00:00:49+00:00,990309304,987388282,0,Notreallydavid,Sophie Aldred,/* Career */
+2020-07-05T00:47:26+00:00,966076580,966018821,0,Timrollpickering,Still Open All Hours,Moving from [[Category:English-language television programs]] to [[Category:English-language television shows]] per [[Wikipedia:Categories for discussion/Log/2020 May 6]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2020-12-25T16:50:23+00:00,996283599,995723356,0,2A00:23C6:661E:3C01:AD1B:5E33:52B:FB81,Still Open All Hours,/* Broadcast and reception */
+2021-02-10T21:00:47+00:00,1006063010,1005166489,0,2A00:23C6:661E:3C01:ACB3:B664:2040:A36,Still Open All Hours,/* Broadcast and reception */
+2020-10-29T13:08:39+00:00,986041953,984678743,0,Kudpung,Still Open All Hours,/* Premise */ gram
+2020-09-20T18:00:48+00:00,979426988,979372557,0,2A00:23C6:6602:F500:71E0:ADF4:2087:9D8C,Still Open All Hours,
+2020-11-12T00:17:00+00:00,988246529,986041953,0,2A00:23C5:430A:6A00:20A2:8AD0:D2B1:44F,Still Open All Hours,
+2021-01-20T15:45:13+00:00,1001632389,999978605,0,Monkbot,Sophie Aldred,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 8 templates: hyphenate params (3×);
+2020-08-22T17:49:52+00:00,974382015,974381675,0,Materialscientist,Supermarket Sweep (British game show),Reverted edits by [[Special:Contributions/109.154.5.128|109.154.5.128]] ([[User talk:109.154.5.128|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2020-07-28T20:50:43+00:00,970033616,968315466,0,2A01:4C8:865:280F:1:1:ADD:828,Supernanny (American TV series),
+2020-10-21T18:53:20+00:00,984725929,984725411,0,Neverrainy,Supermarket Sweep (British game show),/* External links */
+2020-09-24T02:29:57+00:00,980009198,979819193,0,AussieWikiDan,Supernanny (American TV series),"Deleting my own edit. Jo has contradicted herself, so best to remove until official. https://twitter.com/jo_frost/status/1308933020473147392?s=21"
+2021-02-24T10:21:38+00:00,1008649141,1008645110,0,Magitroopa,Supernanny (American TV series),Undid revision 1008645110 by [[Special:Contributions/86.13.54.5|86.13.54.5]] ([[User talk:86.13.54.5|talk]])
+2020-11-27T17:51:53+00:00,990990323,988083068,0,2601:18D:4700:66C0:888A:7626:DD52:3784,Supernanny (American TV series),/* Format */
+2020-11-10T23:27:06+00:00,988083068,988082341,0,2601:18D:4700:66C0:8D04:B7D:1A3A:412E,Supernanny (American TV series),/* Format */
+2020-11-15T13:48:18+00:00,988826326,988826274,0,2A00:23C4:E082:F401:C1FB:E1E:27B5:968E,Teddybears (TV series),/* Series 1 (1998) */
+2020-12-19T07:38:49+00:00,995108120,992882675,0,2603:8000:F201:6AC3:68BD:4272:B2EE:6A2B,Teddybears (TV series),/* External links */
+2020-08-27T00:13:57+00:00,975146823,975033769,0,Atlantic306,Teddybears (TV series),Reverted to revision 974909570 by [[Special:Contributions/Thehuntison|Thehuntison]] ([[User talk:Thehuntison|talk]]): Stable version ([[WP:TW|TW]])
+2021-02-27T00:14:02+00:00,1009150332,1009150237,0,Revirvlkodlaku,Teddybears (TV series),/* Teddybears (TV series) */
+2020-07-07T13:04:44+00:00,966503885,966485822,0,Timrollpickering,Teddybears (TV series),Moving from [[Category:British animated television programmes featuring anthropomorphic characters]] to [[Category:British animated television shows featuring anthropomorphic characters]] per [[WP:CFDS]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2020-09-05T08:56:43+00:00,976831690,973385526,0,EdmundT,The People's Couch,Spelling
+2020-11-23T23:31:17+00:00,990305288,985547511,0,82.20.139.228,The People's Couch,Spelling correction
+2020-08-23T19:24:47+00:00,974570579,973398923,0,JJMC89 bot III,The Pledge (British TV programme),Moving [[:Category:Sky television shows]] to [[:Category:Sky UK original programming]] per [[Wikipedia:Categories for discussion/Log/2020 August 15#Television series and network original programming]]
+2020-12-20T17:31:20+00:00,995366371,974570579,0,Citation bot,The Pledge (British TV programme),Alter: title. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Wikipedia articles in need of updating from November 2019]] | via #UCB_Category 93/413
+2021-03-11T12:09:25+00:00,1011535077,1011474894,0,Tvcameraop,The Pledge (British TV programme),Reverted 3 edits by [[Special:Contributions/Eager336|Eager336]] ([[User talk:Eager336|talk]]): Incorrect references and uncited additions
+2021-02-08T19:51:15+00:00,1005652379,1005648739,0,AnomieBOT,The Pledge (British TV programme),Dating maintenance tags: {{Cn}}
+2020-12-21T23:17:36+00:00,995603750,994789530,0,2601:188:180:B8E0:65F5:930C:B0B2:CD63,The Social (Canadian TV program),not in source; Undid revision 994789530 by [[Special:Contributions/Thehuntison|Thehuntison]] ([[User talk:Thehuntison|talk]])
+2020-07-23T21:50:24+00:00,969186317,969022590,0,Bearcat,The Social (Canadian TV program),
+2020-01-26T07:38:37+00:00,937638387,872399260,0,David829,To Be Loved by You (Wynonna Judd song),
+2020-09-24T13:21:51+00:00,980076637,980076601,0,2A02:C7F:203C:E900:2580:A4A:B8CC:60EC,Tony Blackburn,/* Later career */
+2020-10-31T15:03:58+00:00,986388059,937638387,0,Waacstats,To Be Loved by You (Wynonna Judd song),"–{{1990s-country-song-stub}}, +{{1996-country-song-stub}} using [[User:SD0001/StubSorter|StubSorter]]"
+2021-02-28T10:06:17+00:00,1009393314,1005863206,0,CommanderInDubio,Tony Blackburn,"Adding local [[Wikipedia:Short description|short description]]: ""British radio presenter, offshore broadcaster"", overriding Wikidata description ""British radio presenter, offshore broadcaster"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-11-13T20:23:01+00:00,988541592,987899214,0,88.110.1.208,Tony Blackburn,
+2020-10-14T13:48:29+00:00,983482529,982354977,0,2A02:C7F:203C:E900:344F:757B:8D91:F95A,Tony Blackburn,/* From 1973 to 1984 */
+2020-11-06T05:37:24+00:00,987308625,987074743,0,2A02:C7F:7259:3C00:8D7E:C4D6:6E51:ED1F,Tweenies,
+2020-08-02T13:09:27+00:00,970797264,970796025,0,Bonusballs,Tweenies,Reverted edits by [[Special:Contribs/109.150.144.73|109.150.144.73]] ([[User talk:109.150.144.73|talk]]) to last version by Binksternet
+2020-10-20T14:19:45+00:00,984517563,984489483,0,DuncanHill,Tweenies,Reverted edits by [[Special:Contribs/91.224.27.125|91.224.27.125]] ([[User talk:91.224.27.125|talk]]) to last version by 74.105.145.21
+2021-01-29T16:26:13+00:00,1003567087,1002748024,0,Mimitchi33,Tweenies,There's no evidence that the show is currently on Smile's schedule.
+2020-07-31T14:10:22+00:00,970472391,970472290,0,92.237.74.78,Words and Pictures (TV programme),
+2020-10-14T04:00:25+00:00,983422128,983421880,0,91.110.157.138,Ulric Browne,
+2021-03-26T08:38:36+00:00,1014296340,1013937805,0,X201,Words and Pictures (TV programme),/* External links */ As per template instructions. Template can only be used once per article
+2020-08-09T10:23:32+00:00,971961139,964162080,0,Misterdavez,Wynonna Judd,
+2020-10-22T22:58:08+00:00,984928454,984753061,0,The Banner,Wynonna Judd,v2.03 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[A Classic Christmas]]
+2021-02-07T06:23:09+00:00,1005350542,994903858,0,2604:3D08:B184:A700:7DCD:8BFC:81E9:EE40,Wynonna discography,/* Studio albums */
+2020-12-18T03:56:31+00:00,994903858,993863212,0,ChrisTofu11961,Wynonna discography,bye
+2020-11-08T07:00:28+00:00,987622751,985637429,0,Mrdjchuck,Wynonna discography,Fixed typo in title of Tell Me Why
+2020-12-08T11:46:44+00:00,993026184,992340897,0,106.70.165.230,You Raise Me Up,/* Westlife version */
+2021-01-22T01:17:53+00:00,1001930311,1001845874,0,47.42.166.72,You Raise Me Up,/* Popularity */
+2021-02-03T20:41:20+00:00,1004676907,1004038251,0,Randy Kryn,You Raise Me Up,italics
+2020-08-16T01:36:34+00:00,973220513,973219116,0,Kdammers,You Raise Me Up,/* Background */ whiles --> while
+2020-10-16T15:33:03+00:00,983842370,983842168,0,221.153.233.27,You Raise Me Up,/* Westlife version */
+2021-03-02T02:11:16+00:00,1009739965,1004676907,0,Bwiseman49,You Raise Me Up,Fixed grammar
+2020-08-17T00:36:36+00:00,973398918,966079858,0,Ser Amantio di Nicolao,Young Hyacinth,Removing from [[Category:2010s British television series]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2019-11-06T20:40:23+00:00,924934156,924933954,0,Dgmitchell91,A Question of Sport,Same as but now correct
+2018-09-28T13:29:38+00:00,861578550,841220550,0,Piecesofuk,Beth Goddard,/* Career */ Added reference
+2019-01-09T10:42:49+00:00,877548432,876919938,0,I dream of horses,A Question of Sport,"Added/removed/changed tags, possibly other edits, [[WP:AWB/T|typo(s) fixed]]: Tufnell’s → Tufnell's (3)"
+2020-04-11T21:54:25+00:00,950398238,950396801,0,2A02:C7F:8CAC:C000:112C:1E3E:68E8:4ACF,A Question of Sport,"Corrected episode info as 50th anniversary was1,255th episode"
+2018-09-25T19:26:46+00:00,861195797,861195782,0,ClueBot NG,A Question of Sport,"Reverting possible vandalism by [[Special:Contribs/SteflTheMan|SteflTheMan]] to version by FelixFLB. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3486175) (Bot)"
+2017-06-24T12:56:06+00:00,787270559,742306472,0,Dunarc,Brilliant Creatures,± 2 categories using [[WP:HC|HotCat]]
+2020-01-13T20:59:54+00:00,935644309,935482854,0,2A00:23C5:9313:B900:2D78:E737:EFD4:AD2B,Beth Goddard,/* Credits */
+2018-11-14T20:35:18+00:00,868845182,861578550,0,81.106.181.22,Beth Goddard,/* Early life */Incorrect county.
+2019-07-26T18:25:26+00:00,908000312,907999443,0,217.158.88.114,Birds of a Feather (TV series),
+2021-02-08T14:00:00+00:00,1005595255,1003834691,0,2A00:23C6:661E:3C01:C1EA:53A3:FDD0:7680,Birds of a Feather (TV series),
+2019-06-25T02:41:02+00:00,903330580,901355486,0,Naturiss,Birds of a Feather (TV series),Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2019-02-02T10:13:42+00:00,881404431,881404343,0,ErkenneVista,Birds of a Feather (TV series),
+2018-08-04T04:22:54+00:00,853352225,852622160,0,1.158.2.187,Brum (TV series),
+2020-01-20T14:37:27+00:00,936708707,936393362,0,Boltgolt,Brum (TV series),
+2019-03-01T12:58:39+00:00,885656784,885060950,0,111.220.161.181,Brum (TV series),
+2020-03-01T17:35:11+00:00,943395163,943338774,0,EvergreenFir,Brum (TV series),Reverted to revision 943229600 by [[Special:Contributions/The wub|The wub]] ([[User talk:The wub|talk]]): Unexplainded changes ([[WP:TW|TW]])
+2020-06-27T22:08:38+00:00,964841224,964837172,0,2.125.156.98,Brum (TV series),/* 2000s */
+2019-09-26T11:33:22+00:00,917976128,916411429,0,31.54.197.63,Brum (TV series),/* DHX Media revivals */
+2018-12-13T11:30:51+00:00,873475659,873475553,0,Flooded with them hundreds,Brum (TV series),Reverted edits by [[Special:Contributions/171.33.200.141|171.33.200.141]] ([[User talk:171.33.200.141|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2019-09-18T19:46:20+00:00,916411429,916411415,0,ClueBot NG,Brum (TV series),"Reverting possible vandalism by [[Special:Contribs/86.23.84.39|86.23.84.39]] to version by 92.4.196.113. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3652161) (Bot)"
+2020-12-17T17:14:11+00:00,994807295,994416530,0,192.0.174.49,Brum (TV series),
+2019-10-16T17:51:55+00:00,921597625,921570812,0,EvergreenFir,Brum (TV series),Reverted edits by [[Special:Contribs/109.157.42.196|109.157.42.196]] ([[User talk:109.157.42.196|talk]]) to last version by 41.80.125.21
+2019-10-01T10:56:52+00:00,919013093,918825084,0,174.250.159.229,Brum (TV series),
+2020-10-23T20:53:01+00:00,985081451,985081047,0,86.160.216.157,Brum (TV series),/* Series 2 (1994) */
+2020-06-15T04:56:17+00:00,962630955,962630768,0,2001:8003:25CF:1400:A9C9:301B:3F08:14C4,Brum (TV series),/* Series 3 (2001) */
+2021-03-15T02:06:31+00:00,1012187211,1012185296,0,CodeTalker,Brum (TV series),Reverted 1 edit by [[Special:Contributions/2A02:C7F:7B11:8D00:6D3E:13B2:BDFA:CB9F|2A02:C7F:7B11:8D00:6D3E:13B2:BDFA:CB9F]] ([[User talk:2A02:C7F:7B11:8D00:6D3E:13B2:BDFA:CB9F|talk]])
+2020-09-20T17:22:40+00:00,979421438,979421325,0,YesASpartan,Brum (TV series),
+2020-07-03T09:06:44+00:00,965768515,965736621,0,Certes,Brum (TV series),Undid revision 965736621 by [[Special:Contributions/202.93.153.235|202.93.153.235]] ([[User talk:202.93.153.235|talk]]) - incorrect
+2018-10-18T09:17:49+00:00,864604685,864591612,0,151.231.53.117,Brum (TV series),
+2020-04-17T20:43:52+00:00,951577204,951576686,0,Crossley Osborne,Brum (TV series),/* Characters */
+2019-05-18T06:45:15+00:00,897613842,896089210,0,210.50.244.151,Brum (TV series),
+2019-07-04T15:01:34+00:00,904788604,904760598,0,607 wikipedia,Brum (TV series),/* Characters */ This isn't great anyway but I fixed an obvious spelling error :P
+2019-06-04T19:03:16+00:00,900302941,900294980,0,146.198.54.178,Brum (TV series),
+2019-06-01T16:25:20+00:00,899820402,899811499,0,S0091,Connie Booth,Reverted 1 edit by [[Special:Contributions/174.4.213.131|174.4.213.131]] ([[User talk:174.4.213.131|talk]]) to last revision by 5 albert square ([[WP:TW|TW]])
+2018-08-12T06:35:55+00:00,854558734,837348624,0,Aspects,Charice (EP),Fixed navigational template
+2019-10-29T22:27:19+00:00,923651309,922323562,0,5 albert square,Connie Booth,"Alter: url, template type, title. Add: isbn. | You can [[WP:UCB|use this tool]] yourself. [[WP:DBUG|Report bugs here]]. | via #UCB_Gadget"
+2019-07-29T19:31:34+00:00,908444824,905381894,0,Wikibruger,Connie Booth,/* Selected filmography */ Correcting name (Bassington-French > Bassington-ffrench)
+2020-12-02T08:10:20+00:00,991880954,975176660,0,Kmau1l15,Danielle Nicholls,
+2021-01-06T22:23:54+00:00,998758378,998758295,0,Girth Summit,Daniel O'Donnell,Reverted 2 edits by [[Special:Contributions/51.37.36.141|51.37.36.141]] ([[User talk:51.37.36.141|talk]]) to last revision by Monkbot
+2021-03-01T15:35:15+00:00,1009636407,1006012866,0,Lord Cornwallis,Deborah Grant,/* Television appearances */ +
+2020-04-28T20:15:25+00:00,953736327,950055005,0,GiantSnowman,Connie Booth,added [[Category:Lahr family]] using [[WP:HC|HotCat]]
+2018-11-20T17:45:01+00:00,869833598,867844137,0,JBW,Danielle Nicholls,Revert. Salford has not been in Lancashire since 1974.
+2021-03-08T20:40:31+00:00,1011064243,1011064223,0,ClueBot NG,Daniel O'Donnell,"Reverting possible vandalism by [[Special:Contribs/Droar2629|Droar2629]] to version by CommanderWaterford. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3918384) (Bot)"
+2019-08-04T15:13:44+00:00,909304340,907213764,0,2600:1700:C970:1560:9468:DCDA:87FA:DC55,Danielle Nicholls,
+2019-01-31T14:34:14+00:00,881110112,881104666,0,Girth Summit,Daniel O'Donnell,Reverted 1 edit by [[Special:Contributions/213.123.63.150|213.123.63.150]] ([[User talk:213.123.63.150|talk]]) to last revision by Ser Amantio di Nicolao ([[WP:TW|TW]])
+2018-09-02T21:05:53+00:00,857761091,844135353,0,Midnight Hour,Deborah Grant,Lady Ingrave with an R
+2018-06-21T16:54:22+00:00,846911702,843209168,0,KolbertBot,Denise Robertson,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2019-02-26T19:03:47+00:00,885222839,885220690,0,Martinevans123,Dickinson's Real Deal,eh??
+2020-01-22T23:30:41+00:00,937100978,934112309,0,82.46.231.40,Dickinson's Real Deal,
+2019-11-11T20:45:40+00:00,925708510,925495019,0,109.145.55.45,Dream Street (British TV series),
+2018-09-20T23:39:39+00:00,860482150,833925031,0,217.44.185.117,Elaine Lordan,Corrected typo in Filmography Dates
+2020-02-15T00:01:04+00:00,940841422,940840090,0,86.133.191.147,Dream Street (British TV series),/* Series 1 (1999-2000) */
+2018-11-26T20:47:16+00:00,870758093,836453865,0,2A00:23C4:B395:CF00:A5D2:8C4B:907D:E163,Dickinson's Real Deal,/* Transmissions */
+2019-08-15T16:37:18+00:00,910955227,907996764,0,SteveStrummer,Dickinson's Real Deal,"[[WP:FACEBOOK]], [[WP:Twitter-EL]]"
+2021-01-05T10:28:56+00:00,998433435,998319859,0,2A02:8084:90C0:9380:C490:5B9D:40E3:54EC,Dickinson's Real Deal,/* Dickinson's Real Deal */
+2021-03-21T10:34:02+00:00,1013387411,1001919295,0,Finnusertop,Dream Street (British TV series),fixed LineColor
+2018-04-03T01:47:59+00:00,833925031,832152345,0,KolbertBot,Elaine Lordan,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2020-04-19T17:33:34+00:00,951931555,948181812,0,Jjvz1989,Fawlty Towers,"/* Remakes, adaptations and reunions */"
+2019-10-02T00:45:33+00:00,919133236,918928442,0,Rich Farmbrough,Fawlty Towers,/* Critical reaction */clean up
+2019-08-31T06:09:46+00:00,913302663,913302190,0,Barton Dave,Fawlty Towers,/* Plot directions and examples */ ref
+2018-06-23T08:06:47+00:00,847151274,834240243,0,RonBot,Feels Like I'm in Love,(Task 5 - Removal of succession box as per [[Wikipedia:Manual of Style/Record charts]]
+2019-01-20T02:22:00+00:00,879259212,874835899,0,Ortizesp,Gary Wilmot,added categories
+2018-10-23T23:11:39+00:00,865436264,849340617,0,86.2.65.41,Gary Wilmot,
+2019-09-26T21:25:14+00:00,918067086,917607977,0,Andy Dingley,Gary Wilmot,Reverted 1 edit by [[Special:Contributions/77.100.198.213|77.100.198.213]] ([[User talk:77.100.198.213|talk]]) to last revision by Monkbot ([[WP:TW|TW]])
+2018-08-30T01:31:42+00:00,857175414,857002610,0,5 albert square,Gillian Wright,Reverted 5 edits by [[Special:Contributions/2A02:C7F:982F:8200:544E:C9EC:E776:FB20|2A02:C7F:982F:8200:544E:C9EC:E776:FB20]] ([[User talk:2A02:C7F:982F:8200:544E:C9EC:E776:FB20|talk]]) to last revision by 5 albert square. ([[WP:TW|TW]])
+2018-10-13T20:53:56+00:00,863902759,863436519,0,Binksternet,Gillian Wright,Reverted 1 edit by [[Special:Contributions/51.7.35.231|51.7.35.231]] ([[User talk:51.7.35.231|talk]]): Rv unreferenced. ([[WP:TW|TW]])
+2019-01-18T01:09:10+00:00,878957083,878941150,0,Nikkimaria,Geoffrey Hayes,doc
+2019-08-30T18:23:56+00:00,913223345,913223230,0,79.72.81.37,Gillian Wright,
+2020-07-07T05:48:12+00:00,966450093,961230516,0,46.69.149.241,Gillian Wright,
+2020-06-23T19:51:41+00:00,964135478,964102749,0,Favonian,Gimme Gimme Gimme (TV series),rv sock of [[User:Dopenguins]]
+2019-02-12T09:55:19+00:00,882948746,876857923,0,Hugo999,Gimme Gimme Gimme (TV series),+[[Category:2000s LGBT-related sitcoms]]; +[[Category:1990s LGBT-related sitcoms]] using [[WP:HC|HotCat]]
+2020-11-03T21:07:37+00:00,986934684,986521361,0,148.252.132.94,Gimme Gimme Gimme (TV series),Changed Jo Joyner back to Kathy Burke as she was the developer/star
+2018-06-16T17:37:57+00:00,846149662,846149521,0,Suite1408,Gloria Gaither,New categories added.
+2019-02-11T02:00:01+00:00,882743202,882618743,0,Αρκάς,Gordon Peters,clean up
+2019-11-10T16:06:58+00:00,925510934,923452835,0,185.104.136.17,Havakazoo,
+2020-12-17T13:33:45+00:00,994773597,993669920,0,ResolutionsPerMinute,Heaven Help My Heart,Rv edit by [[Special:Contributions/Thehuntison|Thehuntison]] ([[User talk:Thehuntison|talk]]): That's your opinion
+2020-02-29T23:23:36+00:00,943278617,942963479,0,Karaokeking336,Havakazoo,/* Characters */
+2020-05-12T14:51:30+00:00,956288310,952960313,0,ResolutionsPerMinute,Heaven Help My Heart,Rv edit by [[Special:Contributions/2A00:23C5:430A:6A00:80E8:F271:33DD:2B8D|2A00:23C5:430A:6A00:80E8:F271:33DD:2B8D]] ([[User talk:2A00:23C5:430A:6A00:80E8:F271:33DD:2B8D|talk]]): Not an improvement
+2020-05-20T12:41:57+00:00,957763549,957763198,0,Mrceleb2007,Holly Cole,/* Solo career */
+2019-09-14T20:00:51+00:00,915694999,915253011,0,Spintendo,Holly Cole,The deprecated 'deadurl=yes' parameter changed to 'url-status=dead' in order to clear the resulting [[Category:CS1_errors:_deprecated_parameters|CS1 formatting error]].
+2018-09-05T00:54:50+00:00,858093575,846047556,0,ImageRemovalBot,How (TV series),Removing links to deleted file [[:File:How - Fred - Bunty - Jack - Jon.jpg]]
+2019-01-01T14:53:16+00:00,876304095,876303419,0,Verne Equinox,Holly Cole,/* Solo career */ corr
+2018-05-13T05:05:35+00:00,840962463,834002696,0,Walor,Holly Cole,/* Singles */
+2020-05-21T12:03:59+00:00,957981655,957981628,0,2A02:C7F:7F0B:4200:5521:DD6B:FEA3:BD55,How (TV series),i put in the correct infomation
+2018-01-30T16:18:53+00:00,823158194,809670011,0,Kahtar,I Just Call You Mine,"Repair CS1 error(s), replaced: work=http://www. → work= using [[Project:AWB|AWB]]"
+2019-09-21T22:59:54+00:00,917028665,905203735,0,Tom.Reding,I Just Call You Mine,[[:Category:CS1 errors: deprecated parameters]]: migrate 1/1 |dead-url= to |url-status=; minor cleanup; [[WP:GenFixes]] on
+2018-06-24T14:25:26+00:00,847324366,840322926,0,RonBot,I Saw the Light (Wynonna Judd song),(Task 5 - Removal of succession box as per [[Wikipedia:Manual of Style/Record charts]]
+2019-01-22T00:37:21+00:00,879560995,879556316,0,2601:153:900:43F0:C0E3:FDC4:6143:66C0,I Saw the Light (Wynonna Judd song),/* Content */Add wikilink
+2020-02-08T01:38:23+00:00,939687340,937637857,0,168.244.5.52,I Saw the Light (Wynonna Judd song),
+2020-07-18T04:25:15+00:00,968243914,967556351,0,Toughpigs,How (TV series),add reference
+2019-04-04T21:51:48+00:00,890989436,890945465,0,CommonsDelinker,Jamal Edwards,"Removing [[:c:File:Jamal-Edwards-Meara-Kallista-Morse.jpg|Jamal-Edwards-Meara-Kallista-Morse.jpg]], it has been deleted from Commons by [[:c:User:Jcb|Jcb]] because: Copyright violation; see [[:c:Commons:Licensing|]] ([[:c:COM:CSD#F1|F1]])."
+2019-06-13T22:48:59+00:00,901735727,890989436,0,82.36.196.60,Jamal Edwards,/* Book */
+2020-08-08T20:37:24+00:00,971880731,971293440,0,Missionedit,Jamal Edwards,"spelling [[WP:Typo Team]], replaced all instances of subjects' first name with last name"
+2020-03-01T01:53:43+00:00,943295313,941256757,0,KolbertBot,Jamal Edwards,[[User:KolbertBot#Tasks|Task #2]] : Remove link referral data
+2019-09-23T14:25:13+00:00,917367806,903516742,0,Tom.Reding,Jenny Funnell,[[:Category:CS1 errors: deprecated parameters]]: migrate 1/1 |dead-url= to |url-status=; minor cleanup; [[WP:GenFixes]] on
+2019-01-05T21:59:04+00:00,876998651,876975811,0,Risker,Jeremy Kyle,"Changed protection level for ""[[Jeremy Kyle]]"": Violations of the [[WP:BLP|biographies of living persons policy]] ([Edit=Require autoconfirmed or confirmed access] (expires 21:59, 5 July 2019 (UTC)) [Move=Require administrator access] (indefinite))"
+2020-01-27T17:02:13+00:00,937855180,937854993,0,82.25.251.67,Jenny Funnell,/* Early life */
+2020-02-09T14:14:29+00:00,939918248,939918154,0,JavaHurricane,Jeremy Kyle,Reverted 2 edits by [[Special:Contributions/86.11.160.27|86.11.160.27]] ([[User talk:86.11.160.27|talk]]) to last revision by InternetArchiveBot ([[WP:TW|TW]])
+2020-06-28T11:59:39+00:00,964926177,964926050,0,David Biddulph,Jeremy Kyle,Reverted 1 edit by [[Special:Contributions/2A00:23C7:ED1C:B300:B9F3:2C5E:5657:10B4|2A00:23C7:ED1C:B300:B9F3:2C5E:5657:10B4]] ([[User talk:2A00:23C7:ED1C:B300:B9F3:2C5E:5657:10B4|talk]]) to last revision by Blablubbs ([[WP:TW|TW]])
+2019-10-14T15:01:57+00:00,921208701,921206602,0,PohranicniStraze,Jeremy Kyle,Reverted 1 pending edit by [[Special:Contributions/81.105.53.14|81.105.53.14]] to revision 920729236 by Sceptre: need source for that
+2020-02-10T14:04:25+00:00,940092893,931166321,0,PearBOT II,Jo Caulfield,Adding automatically generated short description. For more information see [[Wikipedia:Bots/Requests for approval/PearBOT 5]] Feedback appreciated at [[User talk:Trialpears]]
+2019-05-19T12:25:23+00:00,897793246,897735380,0,Hzh,Jeremy Kyle,/* Television career */
+2018-12-12T01:24:35+00:00,873250416,873250401,0,JDWFC,Jo Caulfield,removed [[Category:21st-century British comedians]]; added [[Category:21st-century English comedians]] using [[WP:HC|HotCat]]
+2019-07-13T05:58:13+00:00,906038891,905453476,0,Bobbyjennings,Johnson and Friends,
+2020-03-25T21:19:32+00:00,947364851,945592257,0,101.182.42.85,Johnson and Friends,/* International broadcast */
+2019-01-03T02:30:35+00:00,876562590,875911306,0,Portillo,Johnson and Friends,
+2018-10-13T09:37:07+00:00,863827878,861836050,0,218.215.97.236,Johnson and Friends,/* International broadcast */
+2020-08-01T20:22:31+00:00,970687426,970686767,0,2A02:C7F:9697:7900:80B4:69E3:F545:BCF2,Johnson and Friends,
+2019-08-14T17:13:01+00:00,910816829,890148989,0,Jonks,Jonathan Harvey (playwright),/* Musicals */
+2018-06-27T09:48:36+00:00,847721313,839602636,0,Jonks,Jonathan Harvey (playwright),/* Works */
+2021-03-21T23:00:20+00:00,1013497978,1013468623,0,Thibbs,Jonathan Harvey (playwright),rvv.
+2018-10-17T23:24:06+00:00,864551055,864381548,0,Kayeswitzer,Judge Judy,
+2019-08-03T19:39:15+00:00,909194242,909052682,0,108.200.254.203,Judge Judy,
+2019-06-28T14:04:11+00:00,903876535,903876459,0,2605:A000:4660:700:88F0:34A4:2E7D:801F,Judge Judy,/* Remodeling */
+2019-02-15T21:34:57+00:00,883516590,883516155,0,Favonian,Judi Dench,padlock
+2020-10-25T07:46:20+00:00,985316971,984607026,0,2A00:23C6:B211:3801:84A4:F376:95E7:974D,Judi Dench,
+2019-06-10T18:43:14+00:00,901264304,900247944,0,עוד אחד,Judi Dench,/* Filmography */
+2018-10-16T12:55:51+00:00,864313523,864312725,0,Whispering,Judi Dench,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/CarlD1972|CarlD1972]] ([[User talk:CarlD1972|talk]]): Yeah, no. ([[WP:TW|TW]])"
+2019-12-11T17:31:07+00:00,930315885,930161024,0,87.244.113.80,Judi Dench,/* 2006–2010 */
+2021-01-01T22:35:47+00:00,997720922,997120202,0,ToTo,Judi Dench,
+2020-10-09T21:31:09+00:00,982714242,982671879,0,Coingeek,Judi Dench,/* 2018–present */
+2018-12-22T19:16:12+00:00,874956755,874956705,0,HappenedAnd88,Judi Dench,Undid revision 874956705 by [[Special:Contributions/2.29.55.254|2.29.55.254]] ([[User talk:2.29.55.254|talk]])
+2020-04-28T00:39:25+00:00,953588181,951547886,0,99.203.144.112,Judi Dench,/* 2018–present */ corrected spelling of “received” (from “receiced”)
+2020-09-11T03:00:06+00:00,977806166,977733231,0,Heiko Gerber,Judi Dench,
+2020-02-27T21:32:30+00:00,942947559,942498184,0,2600:1700:3700:1DA0:997A:6173:9F51:96B3,Judi Dench,/* External links */
+2020-07-24T00:15:17+00:00,969201954,969201659,0,Michael Drew,Judi Dench,
+2019-08-24T21:14:32+00:00,912337683,912258327,0,Fadesga,Judi Dench,
+2020-10-01T18:21:06+00:00,981337491,981331101,0,Heiko Gerber,Judi Dench,Undid revision 981331101 by [[Special:Contributions/115.164.221.1|115.164.221.1]] ([[User talk:115.164.221.1|talk]]) unsourced
+2019-02-09T19:39:12+00:00,882534268,882530970,0,2605:A601:5224:B:DC71:368:E9F9:8C09,Judi Dench,
+2019-12-28T06:16:10+00:00,932790578,932781745,0,GoingBatty,Keeping Up Appearances,"clean up, [[WP:AWB/T|typo(s) fixed]]: lower class background → lower-class background, prevous → previous"
+2018-12-04T11:40:22+00:00,871955055,870755940,0,Wilberforcehumphries,Keeping Up Appearances,"/* Background */  grammatically corrected reference to Sheridan (""never writes and only phones his mother for money""."
+2019-12-10T15:23:30+00:00,930148842,930148778,0,213.205.194.178,Keeping Up Appearances,/* Specials */
+2018-08-14T23:04:36+00:00,854957563,854625945,0,50.37.85.12,Keeping Up Appearances,/* Background */
+2020-07-29T03:08:08+00:00,970076511,970067465,0,Seasider53,Keeping Up Appearances,Undid revision 970067465 by [[Special:Contributions/73.219.142.120|73.219.142.120]] ([[User talk:73.219.142.120|talk]])
+2019-07-28T15:00:38+00:00,908257289,908254766,0,Jake Brockman,Keeping Up Appearances,"Reverted to revision 907504148 by [[Special:Contributions/Favonian|Favonian]]: Rvt. all unsourced. probably referring to some speculation about ""young hyacinth"" back in 2015, which resulted in a 2016 special with different cast ([[WP:TW|TW]])"
+2020-04-02T17:21:09+00:00,948719223,947684145,0,LilHelpa,Keeping Up Appearances,"/* Specials */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: a on-off → an on-off"
+2019-09-06T21:30:32+00:00,914350589,913157795,0,Ondewelle,Keeping Up Appearances,"/* Background */ Usual spelling in British English is ""dialled"" rather than ""dialed""."
+2018-08-12T18:19:56+00:00,854625945,853679682,0,Northern Hills,Keeping Up Appearances,/* External links */ Added link to [[Screenonline]].
+2020-11-21T17:53:01+00:00,989901247,989521057,0,Barkeep49,Keeping Up Appearances,Removing link(s): [[Wikipedia:Articles for deletion/The British Theatre Guide (2nd nomination)]] closed as soft delete ([[WP:XFDC|XFDcloser]])
+2018-08-27T22:51:31+00:00,856851766,819938118,0,86.31.217.32,Kelly Marie,/* Singles discography */
+2019-07-20T12:51:24+00:00,907093330,890895969,0,IceWelder,Lee Towers,"/* top */clean up, replaced: Ahoy Rotterdam → Rotterdam Ahoy"
+2019-08-25T09:05:29+00:00,912398208,912397788,0,CycloneYoris,Leigh Francis,Reverted 1 pending edit by [[Special:Contributions/2A02:C7F:3E2D:3900:2D21:1D78:4713:A189|2A02:C7F:3E2D:3900:2D21:1D78:4713:A189]] to revision 911659211 by Drchriswilliams: Unsourced.
+2018-11-23T22:17:08+00:00,870306217,838087840,0,X1\,Lee Towers,LeeTowers.nl
+2020-06-09T23:45:38+00:00,961705704,961705672,0,Stanglavine,Leigh Francis,Reverted edits by [[Special:Contribs/82.5.121.184|82.5.121.184]] ([[User talk:82.5.121.184|talk]]) to last version by Unreal7
+2019-07-04T22:13:15+00:00,904837247,904835137,0,Beauty School Dropout,Leigh Francis,Reverted to revision 904513121 by [[Special:Contributions/AnomieBOT|AnomieBOT]] ([[User talk:AnomieBOT|talk]]): This edit appeared to be correct. ([[WP:TW|TW]])
+2019-11-18T08:08:49+00:00,926720331,920121558,0,213.205.242.3,Leigh Francis,/* Career */Fixed typo
+2018-09-06T19:02:12+00:00,858378314,856814998,0,86.168.56.236,Lisa Stanley,/* Albums */
+2019-05-29T17:03:09+00:00,899377910,894028196,0,Auric,Lisa Stanley,/* top */ fix infobox
+2019-01-14T16:32:57+00:00,878397490,858378314,0,Hob Gadling,Lisa Stanley,more specific cat
+2019-02-09T02:47:15+00:00,882439541,882439413,0,2A02:C7D:93EF:100:D437:64E7:FC5D:58DC,List of programmes broadcast by Nick Jr. (British and Irish TV channel),/* Current programming */
+2018-12-17T18:20:12+00:00,874187035,873496523,0,82.21.156.12,List of programmes broadcast by Nick Jr. (British and Irish TV channel),/* Former programming */
+2021-01-26T13:38:44+00:00,1002884326,1002753418,0,DumbBOT,List of programmes broadcast by Nick Jr. (British and Irish TV channel),removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2020-03-12T14:36:23+00:00,945212628,925244165,0,Iridescent,Lizzie Webb,"/* top */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: 9 year → 9-year"
+2019-08-16T09:00:47+00:00,911062195,906072512,0,80.233.45.145,Lolita Chakrabarti,/* External links */
+2019-03-30T22:13:24+00:00,890213479,890213424,0,79.79.209.67,Lolita Chakrabarti,/* Writing */
+2018-06-30T07:01:08+00:00,848175368,844516924,0,KolbertBot,Lolita Chakrabarti,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2020-04-04T01:09:09+00:00,948977612,948968108,0,M.boli,Lorraine Kelly,Undid revision 948968108 by [[Special:Contributions/82.34.27.192|82.34.27.192]] ([[User talk:82.34.27.192|talk]])  Rv. Unattested.
+2018-12-09T21:37:50+00:00,872887781,872887770,0,ClueBot NG,Lorraine Kelly,"Reverting possible vandalism by [[Special:Contribs/2A02:C7D:4883:8100:C169:E20D:AD2E:15AC|2A02:C7D:4883:8100:C169:E20D:AD2E:15AC]] to version by 86.157.57.253. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3557894) (Bot)"
+2019-12-04T22:07:23+00:00,929296977,929269226,0,2A02:C7F:6081:CA00:B534:4889:81F5:F85E,Lorraine Kelly,
+2020-12-15T12:33:32+00:00,994381865,993735570,0,Dolphin51,Lorraine Kelly,"/* Personal life */ Grammatically incorrect with a comma, so I changed it to a full stop."
+2020-04-07T05:15:26+00:00,949558294,949558279,0,Starklinson,Lorraine Kelly,
+2019-08-28T01:23:45+00:00,912811901,912811789,0,SacredDragonX,Lorraine Kelly,Cleaned up using [[WP:AutoEd|AutoEd]]
+2020-05-10T07:16:00+00:00,955866520,955344367,0,2A02:C7F:4C20:E200:F54C:8821:55E4:F7FD,Lorraine Kelly,/* Television */
+2019-11-13T21:59:00+00:00,926039709,926039639,0,Wtmitchell,Lorraine Kelly,Reverted edits by [[Special:Contributions/5.81.115.54|5.81.115.54]] ([[User talk:5.81.115.54|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2018-09-12T09:42:32+00:00,859187142,855916385,0,Matt14451,Lorraine Kelly,/* Television */
+2020-03-08T20:41:42+00:00,944601939,943764158,0,Dunarc,Lorraine Kelly,/* External links */ Adding Rectors of the University of Dundee template
+2020-05-14T14:26:43+00:00,956648946,956594751,0,Goodreg3,Lorraine Kelly,"Undid revision 956528040 by [[Special:Contributions/Greggers224|Greggers224]] ([[User talk:Greggers224|talk]]) Aw, give it a rest."
+2018-08-07T12:10:11+00:00,853860469,853604267,0,Mrceleb2007,Man in the Mirror,
+2021-01-01T00:54:08+00:00,997537422,997496390,0,Tbhotch,Man in the Mirror,Reverted 1 edit by [[Special:Contributions/Heart dunt lie|Heart dunt lie]] ([[User talk:Heart dunt lie|talk]]): Unsourced
+2021-01-09T01:31:33+00:00,999214193,999212666,0,Tbhotch,Man in the Mirror,"Reverted 2 edits by [[Special:Contributions/31.48.163.134|31.48.163.134]] ([[User talk:31.48.163.134|talk]]): ""Man in the Mirror (February 6, 1988)"""
+2020-08-14T17:48:22+00:00,972961090,972960959,0,ImmortalWizard,Mark Nicholas,fix
+2018-12-10T10:33:46+00:00,872968749,872968646,0,Flooded with them hundreds,Mary Duff,Reverted edits by [[Special:Contributions/Topweb1|Topweb1]] ([[User talk:Topweb1|talk]]) ([[WP:HG|HG]]) (3.4.4)
+2018-10-13T07:28:30+00:00,863816352,863365223,0,112.141.135.235,Mark Nicholas,/* Broadcasting career */
+2020-03-07T05:28:32+00:00,944336019,944265638,0,GünniX,Mary Duff,Undid revision 944265638 by [[Special:Contributions/80.2.23.85|80.2.23.85]] ([[User talk:80.2.23.85|talk]])
+2018-07-28T10:13:41+00:00,852349360,843870876,0,112.141.135.235,Mark Nicholas,/* Broadcasting career */
+2018-01-17T15:46:43+00:00,820952967,805025890,0,BrownHairedGirl,Mary Duff,remove [[Category:Date of birth missing (living people)]]. Already in [[Category:Year of birth missing (living people)]]. using [[Project:AWB|AWB]]
+2018-08-20T14:28:47+00:00,855741624,855741562,0,2A02:C7D:E08:DF00:F11E:6C54:819D:2480,Michael Hogben,/* Personal life */
+2019-04-09T19:33:32+00:00,891724390,889642573,0,2601:141:8100:51F7:F5F4:B8F1:E64D:8E4,Moira Brooker,
+2019-04-27T12:41:11+00:00,894368224,866822400,0,Trappist the monk,Mine & Yours,/* Background */Fix multiple names in cs1|2 template |author= parameters (and aliases);
+2019-02-20T13:44:34+00:00,884250529,873302938,0,146.200.71.156,Moira Brooker,Correct English useage.
+2020-01-11T04:14:18+00:00,935200818,931580271,0,PhilMaglassup,Moira Brooker,
+2018-10-25T13:38:36+00:00,865678651,854558636,0,DeprecatedFixerBot,My Inspiration,Resolved deprecated parameter(s) from [[Template:Infobox album]]/[[Template:Extra chronology]]/[[Template:Extra album cover]]/[[Template:Extra track listing]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #3! [[Wikipedia:Bots/Requests for approval/DeprecatedFixerBot 3|approved BRFA]]); day #3 in ramp-up
+2018-06-15T17:00:06+00:00,846006763,829988085,0,CallyMc,Moira Brooker,Filling in 1 references using [[WP:REFLINKS|Reflinks]]
+2019-08-24T16:00:14+00:00,912301345,893920474,0,Binksternet,My Strongest Weakness,Reverted 1 edit by [[Special:Contributions/75.97.68.193|75.97.68.193]] ([[User talk:75.97.68.193|talk]]): Rv unreferenced ([[WP:TW|TW]])
+2020-02-28T00:24:33+00:00,942967251,942937843,0,Davemck,Nadia Sawalha,rmv duplicate parm
+2019-02-08T18:19:20+00:00,882383950,882383876,0,Girth Summit,Nadia Sawalha,Reverted edits by [[Special:Contributions/86.29.109.108|86.29.109.108]] ([[User talk:86.29.109.108|talk]]) ([[WP:HG|HG]]) (3.4.4)
+2019-09-12T00:20:20+00:00,915233766,912177369,0,WikiEditor73,Nadia Sawalha,
+2019-11-17T02:44:41+00:00,926541345,925143341,0,Martin Neylon,Nadia Sawalha,
+2020-04-06T11:18:28+00:00,949420125,948386940,0,79.70.130.47,Nadia Sawalha,/* Television */
+2020-01-04T13:15:36+00:00,934048647,932906087,0,2.102.12.210,Nadia Sawalha,/* Personal life */Corrected the outdated and incorrect usage of the phrase “committed suicide” to the more accurate “ended his life by suicide”.
+2020-02-02T22:59:43+00:00,938880097,937743213,0,92.23.216.114,Nadia Sawalha,
+2018-09-07T19:32:29+00:00,858520147,856804048,0,88.98.217.11,Nadia Sawalha,
+2019-11-08T03:08:57+00:00,925143341,925143292,0,2600:1700:C970:1560:3823:9E76:87CA:2FDE,Nadia Sawalha,
+2019-02-05T21:20:27+00:00,881949933,867631750,0,Nall,Ni Ni's Treehouse,+image
+2018-08-14T02:52:05+00:00,854831906,854831881,0,151.213.69.161,Ni Ni's Treehouse,/* Characters */
+2020-04-10T01:13:11+00:00,950060527,950060505,0,EMachine03,Nicola Thorp,Reverted edits by [[Special:Contributions/2A02:C7D:842C:FF00:7893:BE49:6C0E:B1BB|2A02:C7D:842C:FF00:7893:BE49:6C0E:B1BB]] ([[User talk:2A02:C7D:842C:FF00:7893:BE49:6C0E:B1BB|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-06-26T22:30:50+00:00,964676275,963111781,0,Potts-E-20,Nicola Thorp,
+2018-07-21T13:24:08+00:00,851315809,850505778,0,KolbertBot,Nicola Thorp,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2020-01-13T15:58:03+00:00,935601143,935555736,0,David Gerard,Nicola Thorp,"rm deprecated source (per [[WP:THESUN]]), redundant"
+2019-01-12T02:45:05+00:00,877971735,876519009,0,2A00:23C4:CD23:3E01:A965:694C:C079:A780,Nicola Thorp,
+2021-03-20T06:57:10+00:00,1013139552,1010738050,0,Ridwan97,Noggin (brand),/* External links */
+2019-04-12T19:11:12+00:00,892187019,891436805,0,Redrose64,Noggin (brand),/* top */ rm invalid parameter
+2019-12-23T15:59:59+00:00,932120690,932120267,0,Pierce2000,Noggin (brand),
+2020-03-04T21:45:08+00:00,943964012,943922115,0,Matan2001,Noggin (brand),
+2020-06-26T04:22:19+00:00,964545024,964146226,0,Squittens,Noggin (brand),
+2019-07-15T13:07:15+00:00,906377267,905257961,0,Bonadea,Numbertime,"Removing link(s) to ""Ashley Artus"": nn actor. ([[WP:TW|TW]])"
+2021-02-13T20:37:22+00:00,1006609946,1005430256,0,MegaSmike46,Rolie Polie Olie,Added (successor to Playhouse Disney) to avoid confusion by establishing them as the same channel entity.
+2018-07-21T21:59:57+00:00,851379941,851379878,0,IJBall,Rolie Polie Olie,/* Media release */ Call this section 'Broadcast'. (And it needs trimming as per [[WP:TVINTL]].
+2021-02-24T07:46:38+00:00,1008630668,1005800137,0,Simeon,Philip Bretherton,"Adding local [[Wikipedia:Short description|short description]]: ""English actor"", overriding Wikidata description ""British actor"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-04-13T21:28:25+00:00,950792438,948865418,0,Cyberfan195,Rolie Polie Olie,/* External links */ fixed.
+2020-11-27T08:52:17+00:00,990927628,990256753,0,Iwshearer,Ruthie Henshall,/* External links */
+2018-06-20T09:14:44+00:00,846689805,844958630,0,KolbertBot,Ruthie Henshall,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2019-06-19T15:07:11+00:00,902543607,902543300,0,81.109.148.215,Ruthie Henshall,
+2019-11-07T03:10:22+00:00,924985219,872056837,0,98.221.109.77,Safe in the Arms of Love,/* Martina McBride version */
+2020-04-29T19:06:46+00:00,953921020,953016012,0,Samuel J Walker,Philip Bretherton,
+2021-02-07T10:26:22+00:00,1005375798,1005370213,0,Drmargi,Sandi Toksvig,/* Television presenter */
+2020-07-06T02:52:39+00:00,966264828,966156928,0,108.48.69.233,Sandi Toksvig,/* Politics and activism */
+2019-10-23T11:31:39+00:00,922638875,921909021,0,Sammyrice,Sandi Toksvig,/* Personal life */
+2020-09-16T22:20:23+00:00,978782233,977420227,0,2A02:A212:A580:E780:9C46:E76:2ED6:3DF0,Sandi Toksvig,"Added information. A position of the person of whom the page is about, has stopped fulfilling a certain position."
+2018-10-04T07:19:43+00:00,862417236,862409416,0,DisillusionedBitterAndKnackered,Sandi Toksvig,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/NinjaTazzyDevil|NinjaTazzyDevil]]: Are you sure that ""then x"" constructions require this hyphen? I don't think I've seen it that much ... take to Talk maybe please? ([[WP:TW|TW]])"
+2018-09-12T17:12:36+00:00,859231583,858673691,0,GiantSnowman,Sandi Toksvig,[[WP:MOSNICKNAME]]
+2019-05-05T13:49:08+00:00,895614246,895440514,0,Sebbe,Sandi Toksvig,Fix CS1 deprecation error
+2019-10-13T19:39:46+00:00,921086045,920677750,0,Filelakeshoe,Secret Dealers,Removing link(s): [[Wikipedia:Articles for deletion/Alison Chapman]] closed as soft delete ([[WP:XFDC|XFDcloser]])
+2018-08-13T16:26:17+00:00,854764410,834356028,0,86.142.65.184,Secret Dealers,
+2021-02-10T14:33:19+00:00,1006002056,1005568671,0,Pacificsound,Sky Witness,/* See also */
+2018-09-13T16:47:55+00:00,859373313,857949942,0,CoolSkittle,Sky Witness,Updated viewer share figures
+2020-07-07T12:40:20+00:00,966498553,966306747,0,Wbm1058,Sophie Aldred,redirect bypass from [[Blu-Ray]] to [[Blu-ray]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2020-09-30T01:36:18+00:00,981060250,974011334,0,Ironman7777,Sophie Aldred,
+2020-05-23T21:01:21+00:00,958444541,958443375,0,Harfarhs,Sophie Aldred,Improved phrasing and punctuation
+2018-09-29T00:03:43+00:00,861649840,843928733,0,Zmbro,Sophie Aldred,fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]
+2019-09-11T17:20:14+00:00,915174003,901013005,0,Rich Farmbrough,Sophie Aldred,clean up
+2019-03-30T10:32:41+00:00,890136491,890004411,0,194.193.150.212,Sophie Aldred,Punctuation & link corrections
+2018-10-22T04:23:11+00:00,865160839,859684558,0,Iamthecheese44,Ruthie Henshall,Added marriage templates
+2018-11-13T03:38:19+00:00,868584198,868583823,0,86.146.12.162,Still Open All Hours,/* Broadcast and reception */
+2019-05-15T02:56:01+00:00,897148309,893285267,0,Mild Bill Hiccup,Still Open All Hours,/* Series development */ Spelling/grammar/punctuation correction
+2018-11-23T07:00:40+00:00,870215026,870214870,0,86.133.222.98,Still Open All Hours,
+2019-01-15T04:18:15+00:00,878495519,878131726,0,2A00:23C5:7711:E700:553D:BB43:6E83:B3D9,Still Open All Hours,
+2021-03-20T11:36:24+00:00,1013165733,1013164857,0,Pressforaction,Still Open All Hours,/* Granville */ Improved grammar and wording for readability
+2020-09-07T23:07:57+00:00,977275964,977275520,0,98.109.166.174,Still Open All Hours,/* Granville */
+2019-12-05T19:55:26+00:00,929430803,929430240,0,The Music Collector,Still Open All Hours,/* Episodes */
+2019-05-02T07:23:52+00:00,895137992,892028347,0,Jo-Jo Eumerus,Supermarket Sweep (British game show),Removing link(s): [[Wikipedia:Articles for deletion/Gary King (radio presenter)]] closed as delete ([[WP:XFDC|XFDcloser]])
+2019-11-29T17:47:41+00:00,928502239,928500209,0,79.68.92.74,Supermarket Sweep (British game show),/* Big Sweep */
+2020-08-28T19:44:05+00:00,975484073,974343007,0,2A00:23C6:6602:F500:25B5:32A6:5EC0:64D6,Still Open All Hours,/* Filming locations */
+2018-08-15T21:28:14+00:00,855089204,855089166,0,Donner60,Teddybears (TV series),Reverted edits by [[Special:Contributions/85.211.208.45|85.211.208.45]] ([[User talk:85.211.208.45|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.4)
+2019-08-25T17:48:22+00:00,912451033,911364317,0,90.248.93.118,Teddybears (TV series),/* Characters */
+2018-10-14T14:44:20+00:00,864011015,852640373,0,Erpert,The People's Couch,Fixed grammar
+2018-11-04T20:30:13+00:00,867285308,867111014,0,Blethering Scot,The Pledge (British TV programme),Disambiguated: [[The Apprentice]] → [[The Apprentice (UK TV series)]]
+2020-01-14T02:03:23+00:00,935679939,935296962,0,213.205.194.226,The Pledge (British TV programme),/* Current panel */
+2018-11-18T23:18:46+00:00,869490781,869102208,0,EnglishDez,The Pledge (British TV programme),Adding series transmissions
+2018-10-05T17:36:47+00:00,862636740,858279289,0,Cydebot,The Social (Canadian TV program),Robot - Speedily moving category CTV Two network shows to [[:Category:CTV 2 network shows]] per [[WP:CFDS|CFDS]].
+2019-02-08T10:13:33+00:00,882331515,882329628,0,Limmidy,The Social (Canadian TV program),infobox cleanup as per [[Template:Infobox television/doc]] + svg logo + theme composer
+2020-04-04T00:36:11+00:00,948972826,948972695,0,81.109.148.215,Tony Blackburn,
+2018-11-13T19:11:21+00:00,868679814,868679733,0,Hogyn Lleol,Tony Blackburn,/* Personal life */ clause comma
+2019-01-08T22:03:13+00:00,877476722,877476649,0,2A02:C7F:203C:E900:4CB4:B3F7:6989:CAD2,Tony Blackburn,
+2019-10-04T21:48:52+00:00,919648742,919648622,0,2A02:C7F:203C:E900:513:FD96:E08E:C15,Tony Blackburn,/* BBC dismissal and return */
+2019-01-27T17:24:01+00:00,880476500,879781304,0,KolbertBot,Tony Blackburn,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2019-07-23T09:08:23+00:00,907494982,907490242,0,RadioChuck,Tweenies,/* Episodes */ Fixed grammar
+2019-09-22T10:46:31+00:00,917121572,915195281,0,2A02:C7F:BC15:E00:B484:3C71:FA53:549,Tweenies,/* Overview and history */
+2018-12-18T20:16:48+00:00,874365735,874365610,0,Agent00x,Tweenies,Reverted 1 edit by [[Special:Contributions/82.132.223.85|82.132.223.85]] ([[User talk:82.132.223.85|talk]]): Humour. ([[WP:TW|TW]])
+2021-02-22T23:47:15+00:00,1008370558,1008279307,0,2A00:23C8:1E85:E300:B544:FA29:B8CD:17C4,Tweenies,[[MOS:TVNOW]]
+2019-07-10T07:51:08+00:00,905622701,905622507,0,Malcolmxl5,Tweenies,"Removing link(s) to ""Emma Weaver"": Unlinking redirect. ([[WP:TW|TW]])"
+2020-02-22T17:44:19+00:00,942111057,941742898,0,Miraclepine,Tweenies,[[MOS:BOLDCAST]]
+2020-04-18T23:22:31+00:00,951798738,951798733,0,MelanieN,Tweenies,Adding {{pp-protected}} ([[WP:TW|TW]])
+2020-08-08T22:20:59+00:00,971893884,971893134,0,Martinevans123,Tony Blackburn,should also be in main body (with source)
+2018-09-30T03:18:11+00:00,861799857,861799754,0,IJBall,Words and Pictures (TV programme),/* External links */ Not anymore...
+2019-11-15T06:05:20+00:00,926263430,926135354,0,MisterBwaar,Words and Pictures (TV programme),
+2019-12-02T21:45:38+00:00,928975887,926263430,0,Chrism,Words and Pictures (TV programme),/* top */ sentence fragment
+2018-12-08T17:53:30+00:00,872706371,867880438,0,Surtsicna,Wynonna Judd,The main photograph should show the subject's face more clearly.
+2019-01-11T16:54:31+00:00,877901016,877900916,0,69.144.217.222,Wynonna Judd,/* Personal life */
+2019-11-30T22:23:53+00:00,928672661,925882788,0,8.38.230.243,Wynonna Judd,
+2019-02-17T15:23:16+00:00,883774628,882676140,0,JezGrove,Wynonna Judd,"/* 1992–1998: Breakthrough success */Added internal link, adjusted comma"
+2020-01-05T00:55:40+00:00,934152168,928251925,0,CloversMallRat,Wynonna discography,she has 5 #1s overall
+2020-04-03T20:12:57+00:00,948932234,948914397,0,Caldorwards4,Wynonna discography,Reverted 1 edit by [[Special:Contributions/2A00:23C5:430A:6A00:8433:EA9E:D9CE:34F8|2A00:23C5:430A:6A00:8433:EA9E:D9CE:34F8]] ([[User talk:2A00:23C5:430A:6A00:8433:EA9E:D9CE:34F8|talk]]) to last revision by CloversMallRat ([[WP:TW|TW]])
+2019-11-21T23:31:41+00:00,927352650,925914301,0,113.20.98.153,You Raise Me Up,
+2020-05-08T22:32:26+00:00,955635937,954469633,0,209.166.108.199,You Raise Me Up,
+2018-09-21T21:58:53+00:00,860614640,860580479,0,86.152.180.115,You Raise Me Up,Type
+2019-03-16T21:17:44+00:00,888092395,887969734,0,Moriori,You Raise Me Up,needed a referemce
+2020-01-29T14:54:06+00:00,938167956,936943293,0,Alneth,You Raise Me Up,Remove repeated paragraphs. (They are almost the same expect the introduction)
+2019-06-15T20:43:22+00:00,902003599,898363224,0,Mandarax,You Raise Me Up,replaced: Youtube → YouTube
+2019-09-20T15:54:43+00:00,916777695,916456703,0,199.82.243.103,You Raise Me Up,/* Other covers */
+2019-04-02T13:55:48+00:00,890621357,888092395,0,Myxxd,You Raise Me Up,/* Westlife version */
+2019-05-29T02:39:28+00:00,899291447,899291342,0,Dschehhutimes Aleksander,Young Hyacinth,Undid revision 899291342 by [[Special:Contributions/Dschehhutimes Aleksander|Dschehhutimes Aleksander]] ([[User talk:Dschehhutimes Aleksander|talk]])

@@ -1,0 +1,634 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-10-18T16:08:51+00:00,1050564842,1050448070,1,Ben_Mandelson,Giorgio Parisi,
+2021-10-14T15:03:04+00:00,1049904011,1044859458,1,Ben_Mandelson,Sam Edwards (physicist),
+2021-10-01T16:14:03+00:00,1047596907,1031482359,1,Ben_Mandelson,Giuliano Preparata,
+2021-06-20T11:29:13+00:00,1029504948,1029504871,1,Ben_Mandelson,Julián Romero,
+2021-06-20T11:28:12+00:00,1029504871,1016878859,1,Ben_Mandelson,Julián Romero,
+2020-09-27T09:57:54+00:00,980589258,979039417,1,Ben_Mandelson,Alessio Zaccone,
+2020-09-24T09:32:31+00:00,980051539,979848609,1,Ben_Mandelson,User talk:Ben Mandelson,
+2020-09-21T08:01:19+00:00,979528197,979528089,1,Ben_Mandelson,User talk:Ben Mandelson,
+2020-09-21T08:00:33+00:00,979528089,979528050,1,Ben_Mandelson,User talk:Ben Mandelson,
+2020-09-21T08:00:15+00:00,979528050,979420998,1,Ben_Mandelson,User talk:Ben Mandelson,
+2020-09-20T15:51:19+00:00,979409608,979409345,1,Ben_Mandelson,User talk:Ben Mandelson,
+2020-09-20T15:49:22+00:00,979409345,979134554,1,Ben_Mandelson,User talk:Ben Mandelson,
+2020-09-03T12:02:38+00:00,976521425,976521266,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T12:01:25+00:00,976521266,976521148,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T12:00:31+00:00,976521148,976515192,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T11:04:44+00:00,976515192,976515090,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T11:03:38+00:00,976515090,976515049,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T11:03:14+00:00,976515049,976515023,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T11:02:58+00:00,976515023,976514943,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T11:02:10+00:00,976514943,976513295,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T10:30:14+00:00,976511582,976511340,1,Ben_Mandelson,User:Michal Borkovec/Alessio Zaccone,
+2020-09-03T10:27:46+00:00,976511340,976506448,1,Ben_Mandelson,User:Michal Borkovec/Alessio Zaccone,
+2020-09-03T10:15:40+00:00,976510115,976508826,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T10:01:53+00:00,976508694,976505727,1,Ben_Mandelson,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,
+2020-09-03T09:39:30+00:00,976506448,974136365,1,Ben_Mandelson,User:Michal Borkovec/Alessio Zaccone,
+2020-09-02T12:11:22+00:00,976338772,974686654,1,Ben_Mandelson,Carlo Rovelli,/* Physics without time */
+2020-09-01T13:52:08+00:00,976158203,976158087,1,Ben_Mandelson,Rayleigh scattering,
+2020-09-01T13:51:20+00:00,976158087,976157783,1,Ben_Mandelson,Rayleigh scattering,
+2020-09-01T13:49:10+00:00,976157783,976157678,1,Ben_Mandelson,Rayleigh scattering,
+2020-09-01T13:48:27+00:00,976157678,976157567,1,Ben_Mandelson,Rayleigh scattering,
+2020-09-01T13:47:42+00:00,976157567,976157403,1,Ben_Mandelson,Rayleigh scattering,
+2020-09-01T13:46:29+00:00,976157403,976157225,1,Ben_Mandelson,Rayleigh scattering,
+2020-09-01T13:44:58+00:00,976157225,976157118,1,Ben_Mandelson,Rayleigh scattering,
+2020-09-01T13:44:03+00:00,976157118,964151686,1,Ben_Mandelson,Rayleigh scattering,
+2020-09-01T13:00:45+00:00,976151434,976151388,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T13:00:21+00:00,976151388,976151205,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:58:57+00:00,976151205,976151058,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:57:51+00:00,976151058,976150992,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:57:13+00:00,976150992,976150905,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:56:28+00:00,976150905,976150854,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:56:03+00:00,976150854,976148449,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:38:33+00:00,976148449,976148280,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:37:20+00:00,976148280,976148171,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:36:42+00:00,976148171,976147940,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:35:13+00:00,976147940,976147792,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:34:13+00:00,976147792,976146672,1,Ben_Mandelson,Rigidity theory (physics),
+2020-09-01T12:28:37+00:00,976147003,975657592,1,Ben_Mandelson,Jamming (physics),
+2020-09-01T12:26:07+00:00,976146672,973475306,1,Ben_Mandelson,Rigidity theory (physics),
+2020-08-29T18:36:38+00:00,975657592,975657413,1,Ben_Mandelson,Jamming (physics),
+2020-08-29T18:35:43+00:00,975657413,975434633,1,Ben_Mandelson,Jamming (physics),
+2020-08-28T13:55:42+00:00,975434633,964686706,1,Ben_Mandelson,Jamming (physics),
+2020-08-28T13:53:16+00:00,975434270,974664672,1,Ben_Mandelson,Glass transition,/* Polymers */
+2020-08-28T13:51:45+00:00,975434029,967356356,1,Ben_Mandelson,Flory–Fox equation,
+2020-08-28T13:47:36+00:00,975433509,963897727,1,Ben_Mandelson,DLVO theory,/* Effect of shear flows */
+2020-08-28T13:46:13+00:00,975433336,975411650,1,Ben_Mandelson,Convection–diffusion equation,
+2020-08-21T10:12:25+00:00,974149408,972123876,1,Ben_Mandelson,Confined liquid,
+2020-08-18T13:57:04+00:00,973661543,973661362,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:55:29+00:00,973661362,973661321,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:55:07+00:00,973661321,973661119,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:53:23+00:00,973661119,973661011,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:52:23+00:00,973661011,973660939,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:51:39+00:00,973660939,973660691,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:49:55+00:00,973660691,973660544,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:48:53+00:00,973660544,973660069,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:44:52+00:00,973660069,973660025,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:44:32+00:00,973660025,973659834,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:42:58+00:00,973659834,973659554,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:40:36+00:00,973659554,973659430,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:39:33+00:00,973659430,973659241,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:37:45+00:00,973659241,973659193,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:37:14+00:00,973659193,973658428,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:29:59+00:00,973658428,973658280,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:28:35+00:00,973658280,973658172,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:27:40+00:00,973658172,973658089,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-18T13:26:58+00:00,973658089,968798793,1,Ben_Mandelson,Alessio Zaccone,
+2020-08-17T07:59:56+00:00,973446717,972137558,1,Ben_Mandelson,Viscosity,
+2020-08-10T12:23:59+00:00,972146236,972124849,1,Ben_Mandelson,Liquid,
+2020-08-10T08:56:39+00:00,972125077,971206057,1,Ben_Mandelson,Glass transition,
+2020-08-10T08:53:48+00:00,972124849,972124358,1,Ben_Mandelson,Liquid,
+2020-08-10T08:47:55+00:00,972124358,960556609,1,Ben_Mandelson,Liquid,
+2020-08-10T08:41:31+00:00,972123876,923160618,1,Ben_Mandelson,Confined liquid,
+2020-07-30T12:52:18+00:00,970290968,895360693,1,Ben_Mandelson,Viscous liquid,
+2020-07-30T12:48:25+00:00,970290561,970290534,1,Ben_Mandelson,Liquid metal,
+2020-07-30T12:48:06+00:00,970290534,970290439,1,Ben_Mandelson,Liquid metal,
+2020-07-30T12:47:18+00:00,970290439,970080465,1,Ben_Mandelson,Liquid metal,
+2020-07-30T12:34:18+00:00,970289143,970289001,1,Ben_Mandelson,Fragility (glass physics),
+2020-07-30T12:33:03+00:00,970289001,970288811,1,Ben_Mandelson,Fragility (glass physics),
+2020-07-30T12:31:22+00:00,970288811,958356943,1,Ben_Mandelson,Fragility (glass physics),
+2020-07-29T10:26:59+00:00,970115339,962784880,1,Ben_Mandelson,Amorphous metal,
+2020-07-29T10:25:23+00:00,970115203,968243317,1,Ben_Mandelson,Amorphous solid,
+2020-07-29T10:20:07+00:00,970114719,970114523,1,Ben_Mandelson,Phase transition,
+2020-07-29T10:17:51+00:00,970114523,966953002,1,Ben_Mandelson,Phase transition,
+2020-07-29T09:12:19+00:00,970108511,970105349,1,Ben_Mandelson,Vogel–Fulcher–Tammann equation,
+2020-07-29T08:32:58+00:00,970105347,967864186,1,Ben_Mandelson,Viscosity,
+2020-07-29T08:31:55+00:00,970105254,952859364,1,Ben_Mandelson,Gustav Heinrich Tammann,
+2020-07-29T08:12:19+00:00,970103534,0,1,Ben_Mandelson,Vogel–Fulcher–Tammann equation,"[[WP:AES|←]]Created page with 'The Vogel-Fulcher-Tammann equation, also known as Vogel-Fulcher-Tammann-Hesse equation or Vogel-Fulcher equation (abbreviated: VFT equation), is used to describe...'"
+2020-07-21T15:40:58+00:00,968798793,968798747,1,Ben_Mandelson,Alessio Zaccone,
+2020-07-21T15:40:36+00:00,968798747,968788315,1,Ben_Mandelson,Alessio Zaccone,
+2020-07-21T14:23:05+00:00,968788315,968788157,1,Ben_Mandelson,Alessio Zaccone,
+2020-07-21T14:21:47+00:00,968788157,963171712,1,Ben_Mandelson,Alessio Zaccone,
+2020-06-18T08:43:31+00:00,963171712,963171184,1,Ben_Mandelson,Alessio Zaccone,
+2020-06-18T08:38:46+00:00,963171184,962673642,1,Ben_Mandelson,Alessio Zaccone,
+2020-06-18T08:37:35+00:00,963171058,963170776,1,Ben_Mandelson,Viscosity,/* Amorphous materials */
+2020-06-15T11:35:48+00:00,962673642,962672730,1,Ben_Mandelson,Alessio Zaccone,
+2020-06-15T11:28:10+00:00,962672730,962672609,1,Ben_Mandelson,Alessio Zaccone,
+2020-06-15T11:27:06+00:00,962672609,962672006,1,Ben_Mandelson,Alessio Zaccone,
+2020-06-15T11:21:53+00:00,962672006,962670926,1,Ben_Mandelson,Alessio Zaccone,
+2020-06-15T11:12:07+00:00,962670926,962670839,1,Ben_Mandelson,Alessio Zaccone,
+2020-06-15T11:11:23+00:00,962670839,958173168,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-22T08:33:11+00:00,958173168,958172878,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-22T08:30:18+00:00,958172878,958172832,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-22T08:29:40+00:00,958172832,958172609,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-22T08:27:23+00:00,958172609,958172464,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-22T08:25:48+00:00,958172464,957966785,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-21T09:53:13+00:00,957966785,957966615,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-21T09:52:06+00:00,957966615,957964715,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-21T09:38:23+00:00,957964715,956607624,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-14T08:19:47+00:00,956607624,956607424,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-14T08:17:59+00:00,956607424,956607305,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-14T08:17:08+00:00,956607305,956606772,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-14T08:12:40+00:00,956606772,956606490,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-14T08:10:18+00:00,956606490,956605323,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-14T08:05:53+00:00,956605323,955223192,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-10T11:12:16+00:00,955894147,955893828,1,Ben_Mandelson,Jamming (physics),
+2020-05-10T11:08:50+00:00,955893828,955893684,1,Ben_Mandelson,Jamming (physics),
+2020-05-10T11:07:27+00:00,955893684,955893504,1,Ben_Mandelson,Jamming (physics),
+2020-05-10T11:05:21+00:00,955893504,951731451,1,Ben_Mandelson,Jamming (physics),references added
+2020-05-06T17:23:32+00:00,955230735,955226874,1,Ben_Mandelson,Glass transition,
+2020-05-06T16:59:17+00:00,955226874,955225755,1,Ben_Mandelson,Glass transition,
+2020-05-06T16:37:28+00:00,955223192,955196703,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-06T08:42:04+00:00,955162290,955015519,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T14:09:25+00:00,955015519,955014520,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T14:08:41+00:00,955015416,954610150,1,Ben_Mandelson,Method of matched asymptotic expansions,
+2020-05-05T14:02:21+00:00,955014520,955014397,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T14:01:31+00:00,955014397,955014071,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T13:59:09+00:00,955014071,955009300,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T13:24:06+00:00,955009300,954985306,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T09:55:58+00:00,954985306,954984906,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T09:52:20+00:00,954984906,954984789,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T09:51:16+00:00,954984789,954984560,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T09:49:06+00:00,954984560,954984449,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T09:47:50+00:00,954984449,954984371,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T09:47:19+00:00,954984371,954984278,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T09:46:32+00:00,954984278,954984095,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T09:44:45+00:00,954984095,954982925,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T09:32:08+00:00,954982925,954972169,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-05T07:59:18+00:00,954972169,954856740,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-04T17:24:05+00:00,954856740,954468345,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-04T12:21:26+00:00,954809281,954794025,1,Ben_Mandelson,Convection–diffusion equation,
+2020-05-04T10:10:07+00:00,954794025,954598157,1,Ben_Mandelson,Convection–diffusion equation,
+2020-05-03T08:50:01+00:00,954598157,954596572,1,Ben_Mandelson,Convection–diffusion equation,
+2020-05-03T08:39:33+00:00,954596572,953836422,1,Ben_Mandelson,Convection–diffusion equation,
+2020-05-03T08:19:48+00:00,954593224,954461826,1,Ben_Mandelson,DLVO theory,
+2020-05-02T17:08:39+00:00,954482016,954481878,1,Ben_Mandelson,Method of matched asymptotic expansions,
+2020-05-02T17:07:41+00:00,954481878,954481746,1,Ben_Mandelson,Method of matched asymptotic expansions,
+2020-05-02T17:06:46+00:00,954481746,954481631,1,Ben_Mandelson,Method of matched asymptotic expansions,
+2020-05-02T17:06:01+00:00,954481631,953710864,1,Ben_Mandelson,Method of matched asymptotic expansions,
+2020-05-02T15:33:32+00:00,954468345,954423916,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T14:59:16+00:00,954463306,954427413,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T14:49:09+00:00,954461826,954461325,1,Ben_Mandelson,DLVO theory,
+2020-05-02T14:45:17+00:00,954461325,954461045,1,Ben_Mandelson,DLVO theory,
+2020-05-02T14:43:08+00:00,954461045,953449841,1,Ben_Mandelson,DLVO theory,added references
+2020-05-02T10:20:21+00:00,954427413,954427281,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T10:19:24+00:00,954427281,954425814,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T10:06:48+00:00,954425814,954425674,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T10:05:35+00:00,954425674,954425445,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T10:03:25+00:00,954425445,954425223,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T10:01:14+00:00,954425223,954425154,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T10:00:33+00:00,954425154,954425040,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:59:22+00:00,954425040,954425006,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:59:06+00:00,954425006,954424910,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:58:08+00:00,954424910,954424781,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:57:03+00:00,954424781,954424699,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:56:09+00:00,954424699,954424408,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:52:59+00:00,954424408,954424304,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:51:56+00:00,954424304,954424200,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:50:47+00:00,954424200,954422302,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:47:55+00:00,954423916,954423231,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T09:41:02+00:00,954423231,954423103,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T09:39:39+00:00,954423103,954422714,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T09:36:25+00:00,954422714,954422614,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T09:35:16+00:00,954422614,954422449,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T09:33:29+00:00,954422449,954422186,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T09:31:44+00:00,954422302,954421848,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:30:21+00:00,954422186,954421583,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T09:26:31+00:00,954421848,954421792,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:25:47+00:00,954421792,954421708,1,Ben_Mandelson,Talk:Alessio Zaccone,several new references added
+2020-05-02T09:24:39+00:00,954421708,954421628,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:23:31+00:00,954421628,954421348,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:22:58+00:00,954421583,954420123,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T09:19:57+00:00,954421348,954421284,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:19:20+00:00,954421284,954419133,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T09:08:00+00:00,954420123,954419838,1,Ben_Mandelson,Alessio Zaccone,new reference added
+2020-05-02T09:05:16+00:00,954419838,954419738,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T09:04:10+00:00,954419738,954417530,1,Ben_Mandelson,Alessio Zaccone,New references added
+2020-05-02T08:58:44+00:00,954419133,954417721,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T08:44:03+00:00,954417721,954417648,1,Ben_Mandelson,Talk:Alessio Zaccone,New references added
+2020-05-02T08:43:15+00:00,954417648,954417341,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T08:42:05+00:00,954417530,954417028,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-02T08:40:07+00:00,954417341,954416491,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T08:36:45+00:00,954417028,954415113,1,Ben_Mandelson,Alessio Zaccone,new reference added
+2020-05-02T08:30:53+00:00,954416491,954416426,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T08:30:10+00:00,954416426,954415736,1,Ben_Mandelson,Talk:Alessio Zaccone,
+2020-05-02T08:21:46+00:00,954415736,954298759,1,Ben_Mandelson,Talk:Alessio Zaccone,revised submission with new reliable reference
+2020-05-02T08:14:44+00:00,954415113,954409760,1,Ben_Mandelson,Alessio Zaccone,further reference added
+2020-05-01T19:01:12+00:00,954306954,954299118,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-01T18:06:53+00:00,954299118,954298493,1,Ben_Mandelson,Alessio Zaccone,
+2020-05-01T18:04:33+00:00,954298759,0,1,Ben_Mandelson,Talk:Alessio Zaccone,[[WP:AES|←]]Created page with '{{WikiProject Biography/Science and academia}} {{WikiProject Physics}}'
+2020-05-01T18:02:53+00:00,954298493,0,1,Ben_Mandelson,Alessio Zaccone,"[[WP:AES|←]]Created page with '{{subst:AFC submission/draftnew}}<!-- Important, do not remove this line before article has been created. --> {{subst:submit}} {{Infobox scientist | honorific_pr...'"
+2020-05-01T17:57:27+00:00,954297626,954296425,1,Ben_Mandelson,Wikipedia talk:Sandbox,
+2020-05-01T17:52:59+00:00,954296885,954296029,1,Ben_Mandelson,Wikipedia:Sandbox,
+2020-05-01T17:50:19+00:00,954296425,954296254,1,Ben_Mandelson,Wikipedia talk:Sandbox,
+2020-05-01T17:49:23+00:00,954296254,954292211,1,Ben_Mandelson,Wikipedia talk:Sandbox,
+2020-05-01T17:48:05+00:00,954296029,954292138,1,Ben_Mandelson,Wikipedia:Sandbox,Alessio Zaccone
+2020-04-30T15:12:22+00:00,954075761,954075496,1,Ben_Mandelson,Viscosity,
+2020-04-30T15:10:46+00:00,954075496,954075201,1,Ben_Mandelson,Viscosity,
+2020-04-30T15:09:11+00:00,954075201,952466705,1,Ben_Mandelson,Viscosity,
+2020-04-30T13:32:00+00:00,954060733,948564470,1,Ben_Mandelson,Michael A'Hearn,award added
+2020-04-29T08:47:05+00:00,953836422,953251962,1,Ben_Mandelson,Convection–diffusion equation,
+2020-04-28T17:30:03+00:00,953710864,953710505,1,Ben_Mandelson,Method of matched asymptotic expansions,added section on convection-diffusion equations
+2020-04-28T17:28:07+00:00,953710505,953703253,1,Ben_Mandelson,Method of matched asymptotic expansions,/* Second-order differential equations */
+2020-04-28T16:44:20+00:00,953703253,947761218,1,Ben_Mandelson,Method of matched asymptotic expansions,added a reference and mention to work of Zeldovich and Barenblatt
+2020-04-26T13:00:47+00:00,953251962,946275558,1,Ben_Mandelson,Convection–diffusion equation,added Smoluchowski convective-diffusion equation
+2020-04-25T16:54:14+00:00,953083771,0,1,Ben_Mandelson,Talk:Matthias Ballauff,[[WP:AES|←]]Created page with '{{WikiProject Biography/Science and academia}} {{WikiProject Physics}}'
+2020-04-25T16:23:46+00:00,953078185,953046552,1,Ben_Mandelson,Matthias Ballauff,added a reference
+2020-04-25T11:53:43+00:00,953043312,953037722,1,Ben_Mandelson,Matthias Ballauff,/* new scientist bio  */ new section
+2020-04-25T11:01:49+00:00,953037722,0,1,Ben_Mandelson,Matthias Ballauff,[[WP:AES|←]]Created page with '{{User sandbox}} <!-- EDIT BELOW THIS LINE --> {{Infobox scientist | honorific_prefix = | name        = Matthias Ballauff | honorific_suffix = | native_name =  |...'
+2020-04-21T13:59:41+00:00,952289631,952289489,1,Ben_Mandelson,DLVO theory,corrected a typo
+2020-04-21T13:58:42+00:00,952289489,952289278,1,Ben_Mandelson,DLVO theory,improved wording
+2020-04-21T13:57:31+00:00,952289278,952255158,1,Ben_Mandelson,DLVO theory,added a reference
+2020-04-21T13:38:10+00:00,952285915,952285748,1,Ben_Mandelson,Horst Henning Winter,just wording
+2020-04-21T13:37:08+00:00,952285748,944617175,1,Ben_Mandelson,Horst Henning Winter,added a reference
+2020-04-21T09:23:24+00:00,952255158,952081350,1,Ben_Mandelson,DLVO theory,fixed punctuation
+2020-04-20T13:37:40+00:00,952081350,951305599,1,Ben_Mandelson,DLVO theory,I added a short section on extension of DLVO theory to account for shear flow
+2020-04-20T08:18:08+00:00,952042883,951890266,1,Ben_Mandelson,Viscosity,fixed punctuation
+2020-04-19T09:10:21+00:00,951869046,931187932,1,Ben_Mandelson,Eugene Terentjev,
+2020-04-19T08:38:07+00:00,951864069,951863857,1,Ben_Mandelson,Viscosity,
+2020-04-19T08:36:29+00:00,951863857,951857239,1,Ben_Mandelson,Viscosity,just some wording improvement
+2020-04-18T17:03:08+00:00,951741773,951741597,1,Ben_Mandelson,Viscosity,
+2020-04-18T17:01:48+00:00,951741597,951741356,1,Ben_Mandelson,Viscosity,minor edits
+2020-04-18T17:00:13+00:00,951741356,950470527,1,Ben_Mandelson,Viscosity,I added references to the section on amorphous materials
+2020-04-18T15:57:11+00:00,951732069,897405546,1,Ben_Mandelson,Itamar Procaccia,added soft matter among contributed areas
+2020-04-18T15:53:33+00:00,951731451,951731171,1,Ben_Mandelson,Jamming (physics),improved wording in a couple of spots
+2020-04-18T15:51:49+00:00,951731171,950680658,1,Ben_Mandelson,Jamming (physics),
+2020-04-13T15:16:45+00:00,950732379,948273444,1,Alessio_Zaccone,Dynamic modulus,I corrected an equation in this article.
+2020-04-13T09:27:42+00:00,950680658,887984707,1,Alessio_Zaccone,Jamming (physics),Improved wording in two spots.
+2020-08-18T14:55:15+00:00,973668680,0,1,Michal_Borkovec,User:Michal Borkovec/Alessio Zaccone,[[WP:AES|←]]Created page with '{{Infobox scientist | honorific_prefix = | name        = Alessio Zaccone | honorific_suffix = | native_name =  | native_name_lang =  | image       =         <!--...'
+2020-08-18T14:44:43+00:00,973667350,973666680,1,Michal_Borkovec,Alessio Zaccone,
+2020-08-18T14:39:26+00:00,973666680,973666596,1,Michal_Borkovec,Alessio Zaccone,
+2020-08-18T14:38:45+00:00,973666596,973666501,1,Michal_Borkovec,Alessio Zaccone,
+2020-08-18T14:37:56+00:00,973666501,973666408,1,Michal_Borkovec,Alessio Zaccone,
+2020-08-18T14:37:08+00:00,973666408,973666307,1,Michal_Borkovec,Alessio Zaccone,
+2020-08-18T14:36:21+00:00,973666307,973661543,1,Michal_Borkovec,Alessio Zaccone,
+2020-07-30T15:33:10+00:00,970312987,970290968,1,Michal_Borkovec,Viscous liquid,
+2020-07-30T13:14:46+00:00,970294220,970289143,1,Michal_Borkovec,Fragility (glass physics),
+2020-07-08T12:48:43+00:00,966666851,966666796,1,Michal_Borkovec,Method of matched asymptotic expansions,/* Convection-diffusion equations */
+2020-07-08T12:48:13+00:00,966666796,962446745,1,Michal_Borkovec,Method of matched asymptotic expansions,/* Convection-diffusion equations */
+2020-07-08T12:37:26+00:00,966665605,966663677,1,Michal_Borkovec,Convection–diffusion equation,
+2020-07-08T12:20:29+00:00,966663677,966663591,1,Michal_Borkovec,Convection–diffusion equation,
+2020-07-08T12:19:42+00:00,966663591,966663355,1,Michal_Borkovec,Convection–diffusion equation,
+2020-07-08T12:17:46+00:00,966663355,964159661,1,Michal_Borkovec,Convection–diffusion equation,
+2020-06-24T10:15:35+00:00,964238795,963013398,1,Michal_Borkovec,Roberto Calasso,
+2020-06-18T08:34:59+00:00,963170776,963051079,1,Michal_Borkovec,Viscosity,/* Amorphous materials */
+2020-06-17T14:33:19+00:00,963051079,962831696,1,Michal_Borkovec,Viscosity,
+2020-06-04T14:05:55+00:00,960713323,960712666,1,Michal_Borkovec,Amorphous metal,
+2020-06-04T14:00:26+00:00,960712666,959433085,1,Michal_Borkovec,Amorphous metal,
+2020-06-04T13:23:45+00:00,960707757,960707691,1,Michal_Borkovec,Amorphous solid,
+2020-06-04T13:23:11+00:00,960707691,960690009,1,Michal_Borkovec,Amorphous solid,
+2020-06-04T10:45:05+00:00,960690009,960689692,1,Michal_Borkovec,Amorphous solid,
+2020-06-04T10:41:57+00:00,960689692,950250913,1,Michal_Borkovec,Amorphous solid,
+2020-05-26T14:48:10+00:00,958968726,958706442,1,Michal_Borkovec,Flory–Fox equation,/* Molecular-level derivation */
+2020-05-25T08:56:25+00:00,958706442,958549344,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T12:23:31+00:00,958549344,958549064,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T12:21:28+00:00,958549064,958546210,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:58:24+00:00,958546210,958546133,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:57:51+00:00,958546133,958546038,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:57:07+00:00,958546038,958545607,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:53:23+00:00,958545607,958545190,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:49:26+00:00,958545190,958545071,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:48:05+00:00,958545071,958544962,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:47:00+00:00,958544962,958544857,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:45:54+00:00,958544857,958544665,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:43:59+00:00,958544665,958544581,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:43:05+00:00,958544581,958540933,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-24T11:08:03+00:00,958540933,932989199,1,Michal_Borkovec,Flory–Fox equation,
+2020-05-11T13:02:06+00:00,956089016,956082203,1,Michal_Borkovec,Jamming (physics),
+2020-05-11T12:14:37+00:00,956082203,955894147,1,Michal_Borkovec,Jamming (physics),Disambiguated: [[deformation]] → [[deformation (mechanics)]] using [[WP:DABSOLVER|Dab solver]]
+2020-05-10T12:35:45+00:00,955903043,955015416,1,Michal_Borkovec,Method of matched asymptotic expansions,
+2020-05-10T12:34:45+00:00,955902926,955172907,1,Michal_Borkovec,Convection–diffusion equation,
+2020-05-08T13:10:28+00:00,955554759,955230735,1,Michal_Borkovec,Glass transition,
+2020-05-07T09:35:33+00:00,955350397,954609399,1,Michal_Borkovec,DLVO theory,
+2020-05-06T16:52:42+00:00,955225755,950972625,1,Michal_Borkovec,Glass transition,added a reference
+2020-05-03T10:34:34+00:00,954610150,954482016,1,Michal_Borkovec,Method of matched asymptotic expansions,
+2020-05-03T10:27:48+00:00,954609399,954593224,1,Michal_Borkovec,DLVO theory,
+2020-12-19T18:35:05+00:00,995188273,991608400,0,Monkbot,Alessio Zaccone,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 22 templates: del empty params (4×);
+2020-08-18T14:44:43+00:00,973667350,973666680,0,Michal Borkovec,Alessio Zaccone,
+2021-06-23T06:20:36+00:00,1029988799,1013348111,0,Filippoleveraro,Alessio Zaccone,alma mater+ link dept
+2020-05-06T16:37:28+00:00,955223192,955196703,0,Ben Mandelson,Alessio Zaccone,
+2020-10-11T18:45:06+00:00,983013399,982443029,0,Citation bot,Alessio Zaccone,"Alter: issue, doi. Add: pmc, pmid, bibcode, arxiv. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox4 | via #UCB_webform_linked"
+2021-07-01T22:44:34+00:00,1031489923,1029988799,0,Rathfelder,Alessio Zaccone,removed [[Category:Italian physicists]]; added [[Category:21st-century Italian physicists]] using [[WP:HC|HotCat]]
+2020-11-30T23:09:34+00:00,991608400,991608324,0,Kj cheetham,Alessio Zaccone,Added {{[[Template:Orphan|Orphan]]}} tag
+2020-07-21T15:40:58+00:00,968798793,968798747,0,Ben Mandelson,Alessio Zaccone,
+2020-06-18T08:43:31+00:00,963171712,963171184,0,Ben Mandelson,Alessio Zaccone,
+2020-09-29T04:23:52+00:00,980902054,980781789,0,The Grid,Alessio Zaccone,COI info on talk page
+2020-08-28T15:39:53+00:00,975449136,973667350,0,Plastikspork,Alessio Zaccone,/* External links */ Fix
+2021-03-21T03:32:25+00:00,1013348111,995188273,0,Hawkeye7,Alessio Zaccone,removed [[Category:University of Cambridge]]; added [[Category:Members of faculties of the University of Cambridge]] using [[WP:HC|HotCat]]
+2020-09-10T10:03:34+00:00,977686121,975449136,0,Malcolmxl5,Alessio Zaccone,Removing link(s): [[Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation]] closed as delete ([[WP:XFDC|XFDcloser]])
+2020-05-22T08:33:11+00:00,958173168,958172878,0,Ben Mandelson,Alessio Zaccone,
+2020-05-14T08:19:47+00:00,956607624,956607424,0,Ben Mandelson,Alessio Zaccone,
+2020-06-15T11:35:48+00:00,962673642,962672730,0,Ben Mandelson,Alessio Zaccone,
+2020-10-08T05:18:09+00:00,982443029,980902054,0,Citation bot,Alessio Zaccone,"Alter: issue, volume, template type, pages. Add: doi, doi-broken-date, hdl, s2cid, arxiv, pmc, pmid, pages. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | All pages linked from cached copy of User:AlexNewArtBot/PhysicsSearchResult | via #UCB_webform_linked"
+2020-05-02T15:33:32+00:00,954468345,954423916,0,Ben Mandelson,Alessio Zaccone,
+2020-08-09T18:20:20+00:00,972019664,971372790,0,Alistair1978,Amorphous metal,typo (via [[WP:JWB]])
+2020-11-29T02:34:31+00:00,991250151,987652481,0,Monkbot,Amorphous metal,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 45 templates: del empty params (22×); hyphenate params (1×);
+2021-01-01T15:05:23+00:00,997640963,994526437,0,OAbot,Amorphous metal,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2021-05-07T00:33:48+00:00,1021846379,997640963,0,OAbot,Amorphous metal,[[Wikipedia:OABOT|Open access bot]]: hdl added to citation with #oabot.
+2020-06-16T01:30:56+00:00,962784880,960713323,0,InternetArchiveBot,Amorphous metal,Rescuing 0 sources and tagging 1 as dead.) #IABot (v2.0.1
+2020-12-06T01:22:27+00:00,992582911,992020531,0,Jax 0677,Amorphous solid,{{redirect|Amorphous|the album|Icon for Hire}}
+2020-10-16T21:59:42+00:00,983894460,979592623,0,Shinkolobwe,Amorphous solid,"Changing [[Wikipedia:Short description|short description]] from ""Type of solid"" to ""Non-crystalline material whose constituent atoms, molecules, or ions are arranged in a disordered tridimensional network"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-06-06T08:24:23+00:00,961035787,960750516,0,MonAll,Amorphous solid,"Adding local [[Wikipedia:Short description|short description]]: ""Type of solid"", overriding Wikidata description ""crystal system"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-07-29T10:25:23+00:00,970115203,968243317,0,Ben Mandelson,Amorphous solid,
+2020-09-21T16:21:17+00:00,979592623,979530634,0,Polyamorph,Amorphous solid,remove terribly rendered figure
+2020-09-08T21:14:33+00:00,977439678,977439664,0,ClueBot NG,Amorphous solid,"Reverting possible vandalism by [[Special:Contribs/2600:1700:E4F0:6880:45C3:5208:6B08:AF93|2600:1700:E4F0:6880:45C3:5208:6B08:AF93]] to version by Ben Mandelson. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3772782) (Bot)"
+2021-03-31T10:37:44+00:00,1015237099,1015237096,0,ClueBot NG,Amorphous solid,"Reverting possible vandalism by [[Special:Contribs/Wierdo 12|Wierdo 12]] to version by CommanderWaterford. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3937054) (Bot)"
+2021-08-06T18:18:43+00:00,1037463462,1030552735,0,77.144.245.97,Carlo Rovelli,Added Xanthopoulous award
+2020-09-02T12:11:22+00:00,976338772,974686654,0,Ben Mandelson,Carlo Rovelli,/* Physics without time */
+2021-08-09T16:08:00+00:00,1037943768,1037943662,0,M.Bitton,Amorphous solid,Reverted 1 edit by [[Special:Contributions/180.210.185.193|180.210.185.193]] ([[User talk:180.210.185.193|talk]]) to last revision by DB1729
+2020-12-19T12:10:49+00:00,995134429,974281106,0,Monkbot,Confined liquid,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 1 template: del empty params (1×);
+2020-08-22T03:20:54+00:00,974281106,974149408,0,MasterTriangle12,Confined liquid,
+2020-12-31T21:29:27+00:00,997508655,992511180,0,OAbot,Convection–diffusion equation,[[Wikipedia:OABOT|Open access bot]]: arxiv added to citation with #oabot.
+2020-07-08T12:37:26+00:00,966665605,966663677,0,Michal Borkovec,Convection–diffusion equation,
+2021-08-13T01:07:37+00:00,1038513884,1029644129,0,MrOllie,Convection–diffusion equation,rm apparent COI / citespam
+2020-06-06T02:34:47+00:00,960997128,955902926,0,Citation bot,Convection–diffusion equation,"Alter: issue. Add: arxiv, hdl, pmid, s2cid, author pars. 1-1. Removed URL that duplicated unique identifier. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by AManWithNoPlan | All pages linked from [[User:AManWithNoPlan/sandbox2]] | via #UCB_webform_linked"
+2021-06-21T06:19:02+00:00,1029644129,997508655,0,Hellacioussatyr,Convection–diffusion equation,/* Similar equations in other contexts */
+2020-05-10T12:34:45+00:00,955902926,955172907,0,Michal Borkovec,Convection–diffusion equation,
+2020-06-23T22:29:41+00:00,964159661,960997128,0,OAbot,Convection–diffusion equation,[[Wikipedia:OABOT|Open access bot]]: hdl added to citation with #oabot.
+2020-10-17T23:40:20+00:00,984066297,981223823,0,Tom.Reding,Convection–diffusion equation,[[:Category:CS1 errors: deprecated parameters]] (last-author-amp=y/yes → name-list-style=amp; etc.)
+2020-09-23T19:19:52+00:00,979957527,976662109,0,The Grid,DLVO theory,"Removing link(s) to ""Alessio Zaccone"": Article has been CSD to draft."
+2020-12-08T02:33:51+00:00,992968828,990305204,0,Monkbot,DLVO theory,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 21 templates: del empty params (24×);
+2020-05-07T09:35:33+00:00,955350397,954609399,0,Michal Borkovec,DLVO theory,
+2021-01-31T12:18:30+00:00,1003942005,998683030,0,Monkbot,DLVO theory,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 22 templates: hyphenate params (2×);
+2020-06-22T12:35:50+00:00,963897727,962452602,0,OAbot,DLVO theory,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-10-22T11:20:41+00:00,984833468,983812237,0,Kelven99874,DLVO theory,ce
+2020-10-16T11:27:58+00:00,983812237,979957527,0,Citation bot,DLVO theory,"Alter: issue, pages, year. Add: pmc, s2cid, bibcode, arxiv, hdl, pmid, doi, pages, issue, volume, location, journal. Removed parameters. Formatted [[WP:ENDASH|dashes]]. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Physical chemistry]] | via #UCB_Category 261/273"
+2020-04-24T20:16:12+00:00,952928369,951869046,0,S0793217,Eugene Terentjev,Added h index and number of citations
+2021-08-26T14:34:18+00:00,1040764769,952928369,0,131.111.185.8,Eugene Terentjev,
+2020-08-13T14:19:59+00:00,972722563,972722464,0,206.55.176.27,Dynamic modulus,/* Ratio between loss and storage modulus */
+2021-09-06T07:57:06+00:00,1042691933,972722563,0,Kku,Dynamic modulus,link [[Viscoelasticity]] using [[:en:User:Edward/Find link|Find link]]
+2020-09-23T19:19:52+00:00,979957524,976447420,0,The Grid,Flory–Fox equation,"Removing link(s) to ""Alessio Zaccone"": Article has been CSD to draft."
+2020-12-17T03:50:31+00:00,994708992,979957524,0,Monkbot,Flory–Fox equation,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 11 templates: del empty params (6×);
+2020-07-12T19:38:21+00:00,967356356,965103296,0,MinusBot,Flory–Fox equation,"Proper minus signs and other cleanup. Report bugs, errors, and suggestions at [[User talk:MinusBot]]"
+2020-06-29T12:20:35+00:00,965103296,965103218,0,UndoRacker,Flory–Fox equation,
+2021-08-02T03:59:47+00:00,1036686500,1018889894,0,OAbot,Flory–Fox equation,[[Wikipedia:OABOT|Open access bot]]: hdl added to citation with #oabot.
+2021-04-20T13:00:14+00:00,1018889894,1018889643,0,129.6.162.184,Flory–Fox equation,
+2019-12-29T10:12:23+00:00,932989199,907426630,0,Biggerj1,Flory–Fox equation,
+2020-06-22T11:56:58+00:00,963893307,963126059,0,OAbot,Flory–Fox equation,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-11-06T09:28:10+00:00,987329833,980882773,0,WikiCleanerBot,Fragility (glass physics),v2.03b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - [[WP:WCW]] project (Reference before punctuation)
+2021-08-18T10:14:18+00:00,1039375856,1021932518,0,Deprived dream,Fragility (glass physics),
+2020-09-10T10:29:36+00:00,977688710,977686118,0,Tercer,Fragility (glass physics),/* Definition */ Removing promotion as per [[Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation]]
+2021-03-05T09:31:29+00:00,1010410733,1007082403,0,Lennart97,Fragility (glass physics),Disambiguated: [[Fragility]]
+2020-05-23T10:21:00+00:00,958356943,937415440,0,Rjwilmsi,Fragility (glass physics),"/* Definition */Journal cites:, added 2 Bibcodes"
+2019-12-17T12:19:49+00:00,931174951,832732998,0,Citation bot,Giuliano Preparata,"Add: date, title. Converted bare reference to cite template. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Grimes2]] | [[Category:Italian physicists]] | via #UCB_Category"
+2021-01-25T11:35:03+00:00,1002640476,996043666,0,Simeon,Giorgio Parisi,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Italian physicist"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-06-23T16:38:54+00:00,964105754,932950989,0,2A01:E34:EC04:B400:6031:3513:50BE:54BB,Giorgio Parisi,
+2021-04-09T09:54:56+00:00,1016837208,1003172564,0,Filippoleveraro,Giuliano Preparata,added link
+2021-05-19T01:02:34+00:00,1023907163,1021572691,0,Tom.Reding,Glass transition,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q825643|2 IDs]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2020-08-29T14:28:02+00:00,975614416,975434270,0,Citation bot,Glass transition,"Alter: issue. Add: pmid, s2cid, author pars. 1-1. Removed URL that duplicated unique identifier. Removed parameters. Formatted [[WP:ENDASH|dashes]]. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by SemperIocundus | via #UCB_webform"
+2020-08-24T08:30:42+00:00,974664672,972125077,0,OAbot,Glass transition,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-10-16T04:37:07+00:00,983772562,983468836,0,Citation bot,Glass transition,"Alter: url. URLs might have been internationalized/anonymized. Add: arxiv, bibcode. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Phase transitions]] | via #UCB_Category 78/113"
+2020-05-30T01:24:16+00:00,959679464,955554759,0,Bender235,Glass transition,"/* Polymers */Replaced [[arXiv]] PDF link with more mobile-friendly abstract link, replaced: https://arxiv.org/pdf/ → https://arxiv.org/abs/"
+2021-01-06T11:40:08+00:00,998653417,995252104,0,Monkbot,Glass transition,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 56 templates: hyphenate params (2×);
+2020-12-10T14:44:05+00:00,993418540,993214057,0,WikiCleanerBot,Glass transition,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-06-05T07:50:49+00:00,1026965141,1002018759,0,JJMC89 bot III,Gustav Heinrich Tammann,Moving [[:Category:Corresponding Members of the St Petersburg Academy of Sciences]] to [[:Category:Corresponding members of the Saint Petersburg Academy of Sciences]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-04-24T12:31:20+00:00,952859364,952376573,0,JJMC89 bot III,Gustav Heinrich Tammann,Moving [[:Category:Corresponding Members of the Russian Academy of Sciences (1917–25)]] to [[:Category:Corresponding Members of the Russian Academy of Sciences (1917–1925)]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-04-26T05:56:10+00:00,953203066,952285915,0,Vycl1994,Horst Henning Winter,/* Research and work */
+2020-12-25T14:25:18+00:00,996265329,994178510,0,ThurstonMitchell,Horst Henning Winter,/* References */
+2020-09-23T19:19:52+00:00,979957528,979361644,0,The Grid,Glass transition,"Removing link(s) to ""Alessio Zaccone"": Article has been CSD to draft."
+2020-08-10T08:56:39+00:00,972125077,971206057,0,Ben Mandelson,Glass transition,
+2021-01-11T14:43:20+00:00,999703672,996265329,0,Citation bot,Horst Henning Winter,Add: bibcode. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Stanford University School of Engineering alumni]] | via #UCB_Category 74/216
+2020-08-30T16:53:12+00:00,975827550,953203066,0,Nemo bis,Horst Henning Winter,Remove machine-generated article. Not a [[Wikipedia:Reliable sources|reliable source]].
+2020-04-18T15:57:11+00:00,951732069,897405546,0,Ben Mandelson,Itamar Procaccia,added soft matter among contributed areas
+2021-05-28T11:51:59+00:00,1025591325,1024838918,0,OAbot,Jamming (physics),[[Wikipedia:OABOT|Open access bot]]: pmc added to citation with #oabot.
+2020-10-16T04:24:31+00:00,983771533,979957522,0,Citation bot,Jamming (physics),"Alter: issue. Add: bibcode, arxiv, pmid, s2cid. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Phase transitions]] | via #UCB_Category 59/113"
+2020-12-14T06:52:20+00:00,994135688,983771533,0,Monkbot,Jamming (physics),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 8 templates: del empty params (1×); hyphenate params (5×);
+2021-04-16T08:35:45+00:00,1018104382,994135688,0,OAbot,Jamming (physics),[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-06-27T00:06:24+00:00,964686706,959826487,0,OAbot,Jamming (physics),[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-04-18T15:53:33+00:00,951731451,951731171,0,Ben Mandelson,Jamming (physics),improved wording in a couple of spots
+2020-09-01T12:28:37+00:00,976147003,975657592,0,Ben Mandelson,Jamming (physics),
+2020-05-30T20:23:04+00:00,959826487,956089016,0,Bender235,Jamming (physics),"/* top */Replaced [[arXiv]] PDF link with more mobile-friendly abstract link, replaced: https://arxiv.org/pdf/ → https://arxiv.org/abs/"
+2020-09-23T19:19:52+00:00,979957522,976147003,0,The Grid,Jamming (physics),"Removing link(s) to ""Alessio Zaccone"": Article has been CSD to draft."
+2020-05-11T13:02:06+00:00,956089016,956082203,0,Michal Borkovec,Jamming (physics),
+2019-06-22T06:04:30+00:00,902912432,828851948,0,Filiep,Julián Romero,
+2020-10-24T12:23:51+00:00,985175960,983770241,0,Blazing Phoenix,Liquid,Undid revision 972371306 by [[Special:Contributions/Prince Max|Prince Max]] ([[User talk:Prince Max|talk]])
+2021-07-05T09:35:42+00:00,1032063752,1029504948,0,Unoquha,Julián Romero,Scotland/dates/refs
+2021-04-09T15:25:54+00:00,1016878859,1016875155,0,AnomieBOT,Julián Romero,"Moving {{Translated page}} to [[Talk:Julián Romero]].  If this bot is making errors, please report it at [[User:AnomieBOT/shutoff/TalkTemplateMover]]"
+2020-08-13T01:03:17+00:00,972613386,972371306,0,Zaereth,Liquid,"/* Applications */ Rmv sentence that just felt out of place, and is already covered in the photo caption."
+2020-06-03T16:13:07+00:00,960556609,947443998,0,Arbitrarily0,Liquid,/* top */ ce
+2020-03-26T10:23:40+00:00,947443998,943053067,0,Citation bot,Liquid,Removed URL that duplicated unique identifier. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:AManWithNoPlan]] | All pages linked from [[User:AManWithNoPlan/sandbox2]] | via #UCB_webform_linked
+2020-12-18T12:23:57+00:00,994956606,985175960,0,Monkbot,Liquid,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 19 templates: hyphenate params (5×);
+2021-06-03T20:46:11+00:00,1026711547,1023552465,0,LaundryPizza03,Liquid metal,Add image
+2020-09-10T10:26:58+00:00,977688498,977686117,0,Tercer,Liquid metal,/* Viscosity */ Removing promotion as per [[Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation]]
+2020-12-30T12:10:34+00:00,997195034,995189422,0,OAbot,Liquid metal,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-08-17T04:07:27+00:00,973424214,973125059,0,Double sharp,Liquid metal,francium correction
+2021-01-11T06:44:23+00:00,999648829,994357455,0,Citation bot,Matthias Ballauff,Add: bibcode. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Stanford University faculty]] | via #UCB_Category 345/700
+2020-06-10T14:35:19+00:00,961808616,954511717,0,OAbot,Matthias Ballauff,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2021-01-02T22:40:46+00:00,997926511,997926455,0,Lennart97,Method of matched asymptotic expansions,"/* Outer solution, valid for t&nbsp;=&nbsp;O(1) */"
+2020-09-27T22:36:17+00:00,980694360,961808616,0,Forbes72,Matthias Ballauff,/* Selected publications */ correct doi
+2021-07-15T16:24:33+00:00,1033751069,1033745547,0,Bitorkito,Method of matched asymptotic expansions,/* Matching */
+2021-06-22T21:32:25+00:00,1029928651,997926511,0,Bitorkito,Method of matched asymptotic expansions,/* Matching */
+2020-08-29T15:35:04+00:00,975625450,966666851,0,OAbot,Method of matched asymptotic expansions,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-07-08T12:48:43+00:00,966666851,966666796,0,Michal Borkovec,Method of matched asymptotic expansions,/* Convection-diffusion equations */
+2020-03-28T09:00:02+00:00,947761218,917160148,0,Reyk,Method of matched asymptotic expansions,reduce verbosity per [[Wikipedia:Manual_of_Style/Words_to_watch#Editorializing]] and [[MOS:NOTE]]
+2020-06-14T03:37:56+00:00,962446745,955903043,0,OAbot,Method of matched asymptotic expansions,"[[Wikipedia:OABOT|Open access bot]]: hdl, arxiv added to citation with #oabot."
+2020-05-03T10:34:34+00:00,954610150,954482016,0,Michal Borkovec,Method of matched asymptotic expansions,
+2020-05-10T12:35:45+00:00,955903043,955015416,0,Michal Borkovec,Method of matched asymptotic expansions,
+2020-09-15T19:28:37+00:00,978580904,974875524,0,Isaac Rabinovitch,Phase transition,"/* top */ Write about the thing, not the word for the thing."
+2021-03-03T16:43:38+00:00,1010063117,1008027398,0,ThurstonMitchell,Michael A'Hearn,removed [[Category:University of Wisconsin–Madison alumni]]; added [[Category:University of Wisconsin–Madison College of Letters and Science alumni]] using [[WP:HC|HotCat]]
+2021-08-25T16:04:03+00:00,1040612677,1040416789,0,Rodii,Phase transition,copyedit
+2020-04-30T13:32:00+00:00,954060733,948564470,0,Ben Mandelson,Michael A'Hearn,award added
+2021-05-17T16:11:05+00:00,1023656857,1021303934,0,Ngs111,Phase transition,"/* Modern classifications */ Lists require the en-dash, not the em-dash."
+2020-05-05T14:36:01+00:00,955019111,954901342,0,InternetArchiveBot,Phase transition,Rescuing 1 sources and tagging 1 as dead.) #IABot (v2.0
+2021-05-06T23:52:05+00:00,1021841109,1016127664,0,OAbot,Rayleigh scattering,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-09-22T03:21:32+00:00,979674539,979674067,0,Goodphy,Rayleigh scattering,Make the refraction index symbol n as italic and add CGS link.
+2020-06-23T21:34:03+00:00,964151686,961657702,0,OAbot,Rayleigh scattering,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-04-06T11:32:43+00:00,949421617,947026543,0,Widefox,Rayleigh scattering,/* top */ add short description
+2020-09-01T13:52:08+00:00,976158203,976158087,0,Ben Mandelson,Rayleigh scattering,
+2021-04-05T14:59:53+00:00,1016127664,1014778926,0,Rollcloud,Rayleigh scattering,
+2021-08-10T19:40:32+00:00,1038144026,1037576589,0,Belbury,Rayleigh scattering,/* top */ copyedit caption
+2021-07-01T16:08:08+00:00,1031435233,1021841109,0,Sanya3,Rayleigh scattering,removed [[Category:Phenomena]] using [[WP:HC|HotCat]]
+2020-06-11T09:40:45+00:00,961960444,959539668,0,InternetArchiveBot,Rigidity theory (physics),Bluelink 1 book for [[Wikipedia:Verifiability|verifiability]] (refca)) #IABot (v2.0.1) ([[User:GreenC bot|GreenC bot]]
+2020-06-09T18:22:18+00:00,961657702,961618758,0,Vsmith,Rayleigh scattering,Reverted edits by [[Special:Contribs/47.20.180.136|47.20.180.136]] ([[User talk:47.20.180.136|talk]]) to last version by Rjwilmsi
+2020-08-17T12:15:26+00:00,973475306,961960444,0,WikiCleanerBot,Rigidity theory (physics),"v2.03b - [[Wikipedia:Bots/Requests for approval/WikiCleanerBot 19|Bot T19 CW#83]] - [[WP:WCW]] project (Heading start with three ""="" and later with level two)"
+2021-02-19T21:14:19+00:00,1007770980,1007765558,0,ReyHahn,Rigidity theory (physics),full name and link
+2021-06-27T17:48:23+00:00,1030724824,1007770980,0,2601:642:4700:19CE:E1C2:5999:B660:82B6,Rigidity theory (physics),Fixing typo (transnational -> translational)
+2021-01-14T21:20:05+00:00,1000378963,994607419,0,Yobot,Rigidity theory (physics),"References after punctuation per [[WP:REFPUNCT]], [[WP:CITEFOOT]], [[WP:PAIC]] + other fixes"
+2020-01-25T20:53:11+00:00,937565277,937565223,0,Rjwilmsi,Rigidity theory (physics),"/* Developments in glass science */Journal cites:, added 1 PMID"
+2020-05-29T08:09:34+00:00,959539668,937565277,0,Rjwilmsi,Rigidity theory (physics),"/* Developments in glass science */Journal cites:, added 1 Bibcode"
+2020-09-01T13:00:45+00:00,976151434,976151388,0,Ben Mandelson,Rigidity theory (physics),
+2020-09-23T19:19:52+00:00,979957523,976151434,0,The Grid,Rigidity theory (physics),"Removing link(s) to ""Alessio Zaccone"": Article has been CSD to draft."
+2021-10-12T01:32:49+00:00,1049473851,1030724824,0,73.38.222.15,Rigidity theory (physics),formatting
+2020-12-16T16:23:45+00:00,994607419,979957523,0,Monkbot,Rigidity theory (physics),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 22 templates: del empty params (3×); hyphenate params (1×);
+2020-11-06T21:28:08+00:00,987410922,977485656,0,Citation bot,Sam Edwards (physicist),Alter: url. URLs might have been internationalized/anonymized. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Foreign associates of the National Academy of Sciences]] | via #UCB_Category 500/990
+2021-07-15T22:06:22+00:00,1033795022,996904265,0,Opus88888,Roberto Calasso,/* Biography */
+2020-11-30T23:11:26+00:00,991608675,980902006,0,Kj cheetham,Talk:Alessio Zaccone,"Assessment (Start): Biography, Physics ([[WP:RATER#2.6.2|Rater]])"
+2020-05-02T14:59:16+00:00,954463306,954427413,0,Ben Mandelson,Talk:Alessio Zaccone,
+2021-08-01T16:38:25+00:00,1036608840,1036585524,0,Artegia,Roberto Calasso,
+2020-05-26T21:18:19+00:00,959036744,954463306,0,Frietjes,Talk:Alessio Zaccone,
+2020-09-29T04:23:27+00:00,980902006,980783733,0,The Grid,Talk:Alessio Zaccone,
+2020-04-26T04:20:33+00:00,953192944,953192908,0,Sulfurboy,Talk:Matthias Ballauff,Fixing style/layout errors
+2020-11-24T02:57:11+00:00,990367446,980051539,0,MediaWiki message delivery,User talk:Ben Mandelson,/* ArbCom 2020 Elections voter message */ new section
+2020-09-24T09:32:31+00:00,980051539,979848609,0,Ben Mandelson,User talk:Ben Mandelson,
+2020-05-02T07:25:02+00:00,954409759,953192827,0,Sulfurboy,User talk:Ben Mandelson,declined ([[WP:AFCH|AFCH]] 0.9.1)
+2020-10-01T03:34:49+00:00,981239064,980381199,0,JJMC89,User:Michal Borkovec/Alessio Zaccone,[[WP:AES|←]]Redirected page to [[Alessio Zaccone]]
+2020-08-21T08:15:52+00:00,974136365,973967059,0,RussBot,User:Michal Borkovec/Alessio Zaccone,Bot: Change redirected category [[:Category:Technical University Munich faculty|Technical University Munich faculty]] to [[:Category:Technical University of Munich faculty|Technical University of Munich faculty]]
+2021-03-15T14:42:20+00:00,1012273436,1010371549,0,Comfr,Viscosity,remove duplicate link
+2021-08-10T18:03:21+00:00,1038130005,1038066247,0,89.168.27.104,Viscosity,force is not a dimension see https://en.wikipedia.org/wiki/Dimensional_analysis
+2020-09-15T05:27:57+00:00,978482065,978481895,0,Awesome Aasim,Viscosity,[[User:Awesome Aasim/rcpatrol|RCP]] reverted edits by [[Special:Contributions/175.157.247.157|175.157.247.157]] ([[User_talk:175.157.247.157|Talk]]); changed back to last revision by [[Special:Contributions/RJANKA|RJANKA]]: Test edit
+2021-05-05T21:36:29+00:00,1021646585,1018579437,0,OAbot,Viscosity,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2021-08-17T11:29:31+00:00,1039217728,1039217551,0,Jlr83,Viscosity,/* See also */
+2021-04-18T20:37:23+00:00,1018579437,1012273436,0,Cyfal,Viscosity,spelling ([[WP:Typo Team]])
+2021-06-07T11:05:27+00:00,1027341710,1027341431,0,Jackattack1597,Viscosity,Reverting edit(s) by [[Special:Contributions/2401:4900:5020:E223:7857:870E:90BE:655C|2401:4900:5020:E223:7857:870E:90BE:655C]] ([[User_talk:2401:4900:5020:E223:7857:870E:90BE:655C|talk]]) to rev. 1027341219 by ClueBot NG: [[WP:SANDBOX|test edits]] [[w:en:WP:RW|(RW 16.1)]]
+2021-06-13T13:25:23+00:00,1028355154,1028117785,0,Vsmith,Viscosity,/* Amorphous materials */ increase image size - readability
+2020-07-15T19:47:02+00:00,967864186,967548713,0,Hqb,Viscosity,/* Units */ dab
+2020-10-12T00:50:51+00:00,983060142,982070447,0,Human-potato hybrid,Viscosity,/* Selected substances */
+2020-11-23T14:01:33+00:00,990220574,990220516,0,OrangeGarfield,Viscosity,Reverted edits by [[Special:Contributions/179.52.228.189|179.52.228.189]] ([[User talk:179.52.228.189|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-04-12T07:37:56+00:00,950470527,950329905,0,OAbot,Viscosity,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-06-23T19:52:49+00:00,964135692,964135124,0,Comfr,Viscosity,c/e
+2020-04-22T06:29:59+00:00,952435891,952042883,0,Majidalavinia,Viscosity,
+2021-01-04T14:11:18+00:00,998249946,998203859,0,MrOllie,Viscosity,Reverted 1 edit by [[Special:Contributions/Jfeinstein001|Jfeinstein001]] ([[User talk:Jfeinstein001|talk]]): [[WP:ELNO]]
+2021-08-13T18:41:17+00:00,1038632105,1038352034,0,MrOllie,Viscosity,Reverted 1 edit by [[Special:Contributions/2.190.230.224|2.190.230.224]] ([[User talk:2.190.230.224|talk]]) to last revision by 89.168.27.104
+2020-12-15T05:49:13+00:00,994341134,992156714,0,Monkbot,Viscosity,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 59 templates: del empty params (11×); hyphenate params (4×); del |ref=harv (48×);
+2020-08-17T07:59:56+00:00,973446717,972137558,0,Ben Mandelson,Viscosity,
+2020-09-10T10:24:29+00:00,977688303,977686116,0,Tercer,Viscous liquid,/* Fragile-strong classification */ Removing promotion as per [[Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation]]
+2019-05-03T18:31:45+00:00,895360693,842302840,0,Beland,Viscous liquid,{{not a typo}} for something that looks like the disfavored <q> to automated spell check
+2020-09-18T08:06:22+00:00,979016422,970406782,0,Myxomatosis57,Vogel–Fulcher–Tammann equation,
+2020-07-31T03:30:52+00:00,970406782,970129657,0,Forbes72,Vogel–Fulcher–Tammann equation,/* References */ improve existing refs
+2021-03-23T12:10:42+00:00,1013779222,979016422,0,Urhixidur,Vogel–Fulcher–Tammann equation,full names
+2021-10-16T22:09:17+00:00,1050282234,1050280198,0,Cullen328,Wikipedia talk:Sandbox,Remove gibberish
+2020-05-09T12:31:07+00:00,955724247,955440425,0,Bonk! Atomic Punch 8083,Wikipedia talk:Sandbox,peepeepoopoo
+2021-02-14T08:34:35+00:00,1006700223,1006689216,0,Hazard-Bot,Wikipedia talk:Sandbox,Bot: Automatically cleaned
+2020-09-26T20:34:26+00:00,980491662,980464849,0,Hazard-Bot,Wikipedia talk:Sandbox,Bot: Automatically cleaned
+2020-11-10T20:35:23+00:00,988061901,988023666,0,Geschichte,Wikipedia talk:Sandbox,Reverted edits by [[Special:Contribs/Larry11232|Larry11232]] ([[User talk:Larry11232|talk]]) to last version by Perryprog
+2020-09-10T10:03:26+00:00,977686098,977599052,0,Malcolmxl5,Wikipedia:Articles for deletion/Krausser–Samwer–Zaccone equation,/* Krausser–Samwer–Zaccone equation */ Closed as delete ([[WP:XFDC|XFDcloser]])
+2020-08-24T16:34:28+00:00,974721481,974713269,0,Hazard-Bot,Wikipedia talk:Sandbox,Bot: Automatically cleaned
+2020-12-19T22:45:27+00:00,995230888,995230671,0,2600:100A:B11B:E983:E4DE:7D5A:9D8C:C372,Wikipedia:Sandbox,
+2020-08-29T21:00:02+00:00,975682746,975682028,0,Cyberbot I,Wikipedia:Sandbox,Clearing the sandbox ([[WP:BOT|BOT]] EDIT) ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])
+2020-12-10T00:55:40+00:00,993323159,993319487,0,Yunchang246,Wikipedia:Sandbox,"Undid revision 993319487 by [[Special:Contributions/2601:280:4E00:8480:7DF5:4CF5:5900:452C|2601:280:4E00:8480:7DF5:4CF5:5900:452C]] ([[User talk:2601:280:4E00:8480:7DF5:4CF5:5900:452C|talk]]) - Vandalism, because this is not a place to post these ""weirdy"" things"
+2020-07-30T14:54:26+00:00,970307607,970307545,0,IamNotU,Wikipedia:Sandbox,Reverted to revision 970307121 by [[Special:Contributions/IamNotU|IamNotU]] ([[User talk:IamNotU|talk]]): No ([[WP:TW|TW]])
+2020-11-08T12:35:27+00:00,987652481,987652405,0,185.244.96.134,Amorphous metal,Undid revision 987480000 by [[Special:Contributions/Raghav0310|Raghav0310]] ([[User talk:Raghav0310|talk]]) - removed wiki vandalism
+2019-06-09T05:12:43+00:00,901022193,900055039,0,DavidThi1,Amorphous metal,
+2020-02-07T00:45:15+00:00,939526739,933879338,0,PrimeBOT,Amorphous metal,[[User:PrimeBOT/24|Task 24]] - template change following [[Wikipedia:Templates for discussion/Log/2019 December 6|a TFD]] + genfixes
+2019-09-02T13:26:36+00:00,913666228,913665843,0,79.68.158.151,Amorphous metal,
+2021-06-29T19:29:28+00:00,1031091560,1021846379,0,GreenC bot,Amorphous metal,Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2019-09-23T21:21:03+00:00,917444512,915178741,0,PedjaNbg,Amorphous metal,Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot
+2021-03-01T03:13:54+00:00,1009543835,1009543760,0,Paintspot,Amorphous solid,Fixed hatnotes.
+2019-05-05T20:15:35+00:00,895668608,887028515,0,ToBeFree,Amorphous solid,Reverted to revision 852228341 by [[Special:Contributions/Paul Rulis|Paul Rulis]] ([[User talk:Paul Rulis|talk]]): Reverting further ([[WP:TW|TW]])
+2021-01-12T16:13:46+00:00,999915947,992582911,0,155.91.28.239,Amorphous solid,
+2019-07-08T14:59:15+00:00,905346003,904836976,0,Liechtenstein96,Amorphous metal,/* Applications */ grammar
+2019-12-19T00:29:55+00:00,931455077,931029397,0,Ionmars10,Amorphous solid,Undid revision 927349911 by [[Special:Contributions/2600:8800:3000:83E9:21CC:C684:660B:CF28|2600:8800:3000:83E9:21CC:C684:660B:CF28]] ([[User talk:2600:8800:3000:83E9:21CC:C684:660B:CF28|talk]])
+2019-07-01T12:40:09+00:00,904328928,904216521,0,DVdm,Carlo Rovelli,Reverted edits by [[Special:Contributions/Temugin|Temugin]] ([[User talk:Temugin|talk]]): addition of [[WP:BLP|unsourced content]] to a biographical article ([[WP:HG|HG]]) (3.4.9)
+2021-03-27T17:39:38+00:00,1014538987,1012942979,0,Denisarona,Carlo Rovelli,
+2020-07-17T09:52:26+00:00,968116172,962581775,0,Jordi Burguet Castell,Carlo Rovelli,/* Loop quantum gravity */
+2021-06-26T17:16:29+00:00,1030552735,1026291758,0,Qwfp,Carlo Rovelli,/* top */caption = Rovelli in 2005
+2020-01-30T23:22:19+00:00,938400265,936705235,0,Edwardando,Carlo Rovelli,/* Popular culture */
+2020-01-20T14:06:23+00:00,936705235,936538086,0,Attic Salt,Carlo Rovelli,/* Loop quantum gravity */ Minor copyedit.
+2020-01-10T20:44:37+00:00,935153281,935153140,0,Roostnerve,Carlo Rovelli,/* Physics without time */ Time here evidently refers to its notion in physics
+2021-06-01T12:37:35+00:00,1026291758,1025004828,0,Rosspz,Carlo Rovelli,/* Religious views */
+2020-04-15T06:52:03+00:00,951051664,943371613,0,Sashwattanay,Carlo Rovelli,/* Loop quantum gravity */
+2019-06-27T11:25:06+00:00,903700516,903700482,0,DoubleShacker,Carlo Rovelli,/* Life and career */
+2019-04-29T08:09:52+00:00,894667237,894666758,0,Nihil novi,Carlo Rovelli,editing the lead
+2019-10-26T19:33:27+00:00,923160618,887480183,0,Bellowhead678,Confined liquid,homegenous->homeogenous - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2019-03-12T23:01:55+00:00,887480183,870380220,0,Blue.painting,Confined liquid,
+2021-05-25T01:13:40+00:00,1024973143,995134429,0,Chongkian,Confined liquid,"stub template should be placed at the very end of article after external link, navbox & category tags per [[WP:STUBSPACING]]"
+2019-04-12T13:23:56+00:00,892138892,892138857,0,85.146.28.64,Convection–diffusion equation,/* General */
+2019-10-14T12:40:45+00:00,921188983,892138892,0,134.109.41.63,Convection–diffusion equation,/* Common simplifications */
+2020-03-19T04:26:05+00:00,946275558,946275541,0,CptViraj,Convection–diffusion equation,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/Chikitaisaac1982|Chikitaisaac1982]] ([[User talk:Chikitaisaac1982|talk]]) to last revision by Citation bot: reverting [[WP:VAND|vandalism]]
+2019-12-05T09:39:52+00:00,929362887,928785913,0,143.117.210.27,Convection–diffusion equation,/* General */
+2020-02-21T00:35:15+00:00,941842532,939053806,0,Sammi Brie,DLVO theory,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Theoretical model for aggregation of aqueous dispersions"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-04-27T09:06:48+00:00,953449841,952289631,0,128.12.246.44,DLVO theory,
+2021-09-29T22:10:51+00:00,1047260852,1047260584,0,Mikhail Ryazanov,DLVO theory,/* Double layer force */ fmt.
+2020-05-29T22:11:58+00:00,959653207,959569613,0,FrescoBot,DLVO theory,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2019-07-21T18:03:12+00:00,907264327,905981062,0,Edgar181,DLVO theory,Undid revision 905826641 by [[Special:Contributions/Kajalpanda|Kajalpanda]] ([[User talk:Kajalpanda|talk]])
+2019-03-20T15:27:53+00:00,888655621,867759527,0,130.132.173.169,Dynamic modulus,spacing
+2020-07-14T17:02:31+00:00,967680178,950732379,0,Boris Breuer,Dynamic modulus,📝Add equation for time-dependent generalization of the stress modulus relating stress and strain.
+2019-11-20T10:59:10+00:00,927107559,927106677,0,14.139.69.21,Dynamic modulus,/* Ratio between loss and storage modulus */
+2019-07-22T20:23:20+00:00,907426630,907426377,0,Diannaa,Flory–Fox equation,remove stray markup
+2021-05-07T13:43:14+00:00,1021932518,1010410733,0,Johnbod,Fragility (glass physics),removed [[Category:Glass]] using [[WP:HC|HotCat]] - ocat
+2019-05-10T17:47:07+00:00,896469283,867234350,0,JCW-CleanerBot,Fragility (glass physics),"/* Physical implications */[[User:JCW-CleanerBot#Logic|task]], replaced: App. Phys. Rev. → Appl. Phys. Rev."
+2020-07-31T19:35:20+00:00,970518919,970294220,0,Davemck,Fragility (glass physics),Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]
+2021-03-20T08:27:59+00:00,1013146624,1012969052,0,SimoneD89,Giorgio Parisi,/* External links */ + Category Max Planck Medal Winners
+2018-03-27T18:19:28+00:00,832732998,822416244,0,Edcolins,Giuliano Preparata,"removing ""see also"" section per [[WP:SEEALSO]] - ""As a general rule, the ""See also"" section should not repeat links that appear in the article's body or its navigation boxes."""
+2021-01-27T19:18:05+00:00,1003172564,1002977694,0,Josvebot,Giuliano Preparata,v2.04b - Fix errors for [[WP:WCW|CW project]] (Unicode control characters)
+2020-01-21T11:08:27+00:00,936848159,936848005,0,QuarterNotes,Glass transition,I really need to look at previews before I publish edits on mobile (removed spaces)
+2021-04-20T02:29:57+00:00,1018824264,1018823513,0,Michael Hardy,Glass transition,
+2020-09-01T18:50:57+00:00,976203635,975614416,0,204.84.255.178,Glass transition,/* Polymers */
+2020-07-10T20:11:46+00:00,967046014,967045959,0,Field Marshal,Glass transition,Reverted edits by [[Special:Contributions/2601:244:4901:1700:3C1B:5EF1:D51B:7E73|2601:244:4901:1700:3C1B:5EF1:D51B:7E73]] ([[User talk:2601:244:4901:1700:3C1B:5EF1:D51B:7E73|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-09-20T09:17:27+00:00,979361644,979361514,0,Janke,Glass transition,/* Polymers */ moving image one para up
+2019-12-16T10:27:24+00:00,931008031,930709413,0,Ayenaee,Glass transition,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Reversible transition in amorphous materials"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2019-05-10T17:47:10+00:00,896469286,895047438,0,JCW-CleanerBot,Glass transition,"[[User:JCW-CleanerBot#Logic|task]], replaced: App. Phys. Rev. → Appl. Phys. Rev."
+2019-06-26T18:00:35+00:00,903605569,900336073,0,Alvinicious715,Gustav Heinrich Tammann,Old style date in Russia during that time
+2019-12-17T14:47:03+00:00,931191201,931168987,0,Pamrel,Gustav Heinrich Tammann,
+2019-11-19T05:04:52+00:00,926907122,926102452,0,HRShami,Horst Henning Winter,
+2019-12-10T05:32:10+00:00,930094733,930094552,0,HRShami,Horst Henning Winter,
+2019-05-16T20:20:59+00:00,897405546,897405474,0,109.67.252.67,Itamar Procaccia,
+2019-02-21T21:33:22+00:00,884474015,877262289,0,Tzahy,Itamar Procaccia,
+2021-07-07T18:02:17+00:00,1032482044,1017971310,0,Ghirnatean,Itamar Procaccia,Added {{[[Template:One source|One source]]}} tag
+2021-04-15T16:22:11+00:00,1017971310,986492630,0,PearBOT II,Itamar Procaccia,Adding automatically generated short description. For more information see [[Wikipedia:Bots/Requests for approval/PearBOT 5]] Feedback appreciated at [[User talk:Trialpears]]
+2020-11-01T05:48:56+00:00,986492630,983791714,0,FrescoBot,Itamar Procaccia,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2021-02-23T17:03:31+00:00,1008503358,1008428201,0,BD2412,Julián Romero,/* top */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]]
+2018-03-05T03:38:02+00:00,828851948,796255898,0,ExperiencedArticleFixer,Julián Romero,ExperiencedArticleFixer moved page [[Julian Romero]] to [[Julián Romero]] over redirect: Real name
+2021-05-02T22:29:29+00:00,1021101246,1020946729,0,Cewbot,Liquid,[[User:Cewbot/log/20201008/configuration|Fix broken anchor]]: [[Special:Diff/1008485600|2021-02-23T15:14:02Z]] #The four fundamental states→[[State of matter#Four fundamental states]]
+2021-02-12T00:09:54+00:00,1006270389,1005770602,0,MaxwellMolecule,Liquid,/* Thermodynamics */ c/e + add reference
+2019-07-06T01:37:56+00:00,904993133,903725066,0,Qwertyxp2000,Liquid,"Adding local [[Wikipedia:Short description|short description]]: ""One of the four fundamental states of matter"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-06-27T15:23:19+00:00,903725066,903487895,0,MaxwellMolecule,Liquid,/* Mechanical properties */ add reference
+2019-12-31T15:21:37+00:00,933375821,914061936,0,Miracle Pen,Liquid metal,combine hats
+2019-05-26T22:40:03+00:00,898944850,885214716,0,71.178.217.112,Liquid metal,Edited a link
+2020-07-08T17:55:40+00:00,966705428,966705250,0,107.3.158.161,Liquid metal,/* Wetting to metallic and non-metallic surfaces */
+2019-09-04T22:46:57+00:00,914061936,898944850,0,73.202.12.249,Liquid metal,/* See also */
+2020-03-22T05:34:01+00:00,946753966,946753934,0,Headbomb,Liquid metal,ce
+2020-10-07T16:48:27+00:00,982355030,982354599,0,Sandstein,Liquid metal,"/* Applications */ ce, remove possible [[WP:OR]]"
+2020-11-14T22:34:32+00:00,988729737,988541527,0,2A02:908:E50:3C20:904C:9950:F234:9066,Liquid metal,/* Applications */ Combined PS5 information into the Thermal Interfaces section
+2020-09-23T15:27:45+00:00,979924785,979923190,0,157.157.238.63,Liquid metal,"Clearer intro, was lacking elemental metal in introductory sentence. Move alloy description down in introduction and explain what a eutectic is. Adding source."
+2019-09-22T14:49:59+00:00,917160148,840896920,0,TheSeven,Method of matched asymptotic expansions,/* A simple example */  math display
+2018-05-12T20:44:59+00:00,840896920,833415727,0,137.110.65.176,Method of matched asymptotic expansions,
+2018-11-29T02:24:31+00:00,871123370,785538146,0,Ser Amantio di Nicolao,Michael A'Hearn,/* External links */category cleanup
+2020-01-19T00:00:31+00:00,936454956,871123370,0,Ken Gallager,Michael A'Hearn,cat sort
+2020-06-29T20:20:25+00:00,965172849,954060733,0,Red Director,Michael A'Hearn,"Adding local [[Wikipedia:Short description|short description]]: ""American astronomer and professor"", overriding Wikidata description ""American astronomer and professor"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2019-06-16T22:39:19+00:00,902150350,902150328,0,CLCStudent,Phase transition,Reverted edits by [[Special:Contribs/2001:8003:6161:2F00:3829:4790:605B:45D5|2001:8003:6161:2F00:3829:4790:605B:45D5]] ([[User talk:2001:8003:6161:2F00:3829:4790:605B:45D5|talk]]) to last version by Wikipelli
+2019-04-10T10:27:37+00:00,891818164,891818081,0,El C,Phase transition,Reverted edits by [[Special:Contribs/82.194.3.244|82.194.3.244]] ([[User talk:82.194.3.244|talk]]) to last version by Vsmith
+2020-12-05T16:34:14+00:00,992501640,991289671,0,JonathanPillie,Phase transition,/* Types of phase transition */Inert Argon gas is colorless. So the picture does not show the transition from liquid to gas of argon gas. Stated condensation (phase transition) of water vapour as the cause of the white smoke.
+2020-04-10T15:45:24+00:00,950168494,950168406,0,Serols,Phase transition,Reverted edits by [[Special:Contributions/47.8.177.112|47.8.177.112]] ([[User talk:47.8.177.112|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2020-12-20T21:18:24+00:00,995403661,995051505,0,Carchasm,Phase transition,removed [[Category:Concepts in physics]]; added [[Category:Physical phenomena]] using [[WP:HC|HotCat]]
+2019-07-07T18:16:22+00:00,905219568,902150350,0,Ira Leviton,Phase transition,Fixed a typo and added a 'not a typo' tag so that a word isn't detected as a typo by spellcheckers like [[Wikipedia:Typo_Team/moss]].
+2021-09-14T08:04:06+00:00,1044243263,1044243223,0,ArglebargleIV,Rayleigh scattering,Reverted edits by [[Special:Contributions/2001:8003:E576:A801:8CE6:3062:E4BF:8A2D|2001:8003:E576:A801:8CE6:3062:E4BF:8A2D]] ([[User talk:2001:8003:E576:A801:8CE6:3062:E4BF:8A2D|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.10)
+2020-01-13T14:21:54+00:00,935589240,935589197,0,Serols,Rayleigh scattering,Reverted edits by [[Special:Contributions/117.237.237.253|117.237.237.253]] ([[User talk:117.237.237.253|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2019-08-11T15:03:22+00:00,910361357,909414461,0,Srleffler,Rayleigh scattering,Rm image that isn't really relevant.
+2021-02-02T21:21:01+00:00,1004490026,990998587,0,2A02:C7D:BB77:AA00:DD68:8ACC:964F:121B,Rayleigh scattering,Changed to comparing the size of a particle (rather than the particle itself) with the light's wavelength.
+2021-02-26T21:43:58+00:00,1009129032,1008541639,0,LionTimes4,Rayleigh scattering,Edit included addition of Category to help others better find this page.
+2019-08-05T08:30:22+00:00,909414461,904189643,0,210.3.92.226,Rayleigh scattering,
+2019-09-01T10:05:16+00:00,913482457,913481377,0,Sparkie82,Rayleigh scattering,define ''x''; reword and rearrange for clarity
+2019-06-06T07:28:16+00:00,900532127,899274315,0,Keith D,Rigidity theory (physics),Fix cite date errors
+2020-12-29T03:35:15+00:00,996904265,996487878,0,120.18.46.85,Roberto Calasso,/* Biography */Clarification
+2020-02-10T07:14:54+00:00,940052890,934574613,0,PearBOT II,Roberto Calasso,Adding automatically generated short description. For more information see [[Wikipedia:Bots/Requests for approval/PearBOT 5]] Feedback appreciated at [[User talk:Trialpears]]
+2020-09-21T15:32:47+00:00,979585816,979585764,0,Ser Amantio di Nicolao,Roberto Calasso,added [[Category:21st-century essayists]] using [[WP:HC|HotCat]]
+2020-06-24T22:45:46+00:00,964339425,964238795,0,ThomasMikael,Roberto Calasso,/* Bibliography */
+2019-03-28T13:20:10+00:00,889863438,837580448,0,SELmac,Roberto Calasso,/* Bibliography */ Added information about latest English translation of author's work
+2020-09-09T03:46:07+00:00,977485656,968916680,0,Dicklyon,Sam Edwards (physicist),singular possessive fix per [[MOS:POSS]]
+2019-11-03T14:48:58+00:00,924383855,917849087,0,Badger M.,Sam Edwards (physicist),/* External links */
+2020-06-06T15:44:52+00:00,961096473,961096391,0,Qwfp,Sam Edwards (physicist),/* Early life and studies */ [[WP:SURNAME]]
+2021-08-18T19:58:31+00:00,1039452496,987410922,0,GreenRunner0,Sam Edwards (physicist),Thesis info
+2020-05-11T12:10:45+00:00,956081599,954409759,0,DPL bot,User talk:Ben Mandelson,dablink notification message (see the [[User:DPL bot/Dablink notification FAQ|FAQ]])
+2020-09-05T03:54:54+00:00,976804826,976511582,0,AleatoryPonderings,User:Michal Borkovec/Alessio Zaccone,[[MOS:DATE]]
+2019-09-18T15:30:02+00:00,916371009,916361067,0,Waynejayes,Viscosity,references ongoing work in progress
+2020-04-10T06:50:57+00:00,950102006,950100437,0,MaxwellMolecule,Viscosity,Undid revision 950100437 by [[Special:Contributions/Taha sheikh Qureshi|Taha sheikh Qureshi]] ([[User talk:Taha sheikh Qureshi|talk]])
+2019-09-05T21:43:57+00:00,914213347,912626683,0,MaxwellMolecule,Viscosity,/* Blends of liquids */ It looks like there was a logarithm missing -- see talk page for semi-protected edit request
+2019-06-28T02:41:32+00:00,903803552,903670207,0,Paine Ellsworth,Viscosity,/* top */ install sidebar
+2021-03-01T15:41:59+00:00,1009637384,1008793088,0,96.89.242.201,Viscosity,/* Dynamic and kinematic viscosity */
+2020-04-22T11:26:47+00:00,952466705,952435891,0,Dirac66,Viscosity,/* Simple definition */ Delete link to dab page. Previous paragraph already has the correct link to Deformation (mechanics).
+2019-09-24T19:47:19+00:00,917644240,916515049,0,84.154.68.169,Viscosity,
+2020-03-23T16:11:59+00:00,946986314,946507055,0,Quondum,Viscosity,"/* Units */ including definition of the unit stokes, which seems to have been lost in the merge"
+2020-02-27T00:27:42+00:00,942813040,942812996,0,Serafart,Viscosity,Reverted 1 edit by [[Special:Contributions/110.145.167.170|110.145.167.170]] ([[User talk:110.145.167.170|talk]]) ([[WP:TW|TW]])
+2020-05-16T20:51:19+00:00,957066812,957066666,0,PlanetJuice,Viscosity,Reverted 1 edit by [[Special:Contributions/84.109.68.215|84.109.68.215]] ([[User talk:84.109.68.215|talk]]) to last revision by Mike Rosoft ([[WP:TW|TW]])
+2021-09-05T06:58:27+00:00,1042485437,1039217728,0,2A00:23C8:1DA6:DE01:6850:E49C:FDA6:FF9C,Viscosity,/* Kinematic viscosity */Added brackets to remove ambiguity
+2019-06-29T12:29:25+00:00,904019992,903803552,0,Dolphin51,Viscosity,/* Selected substances */ Clarified that dynamic viscosity is intended in this section wherever “viscosity” is mentioned.
+2019-10-29T04:46:54+00:00,923538605,923538578,0,El C,Viscosity,Reverted edits by [[Special:Contribs/2409:4062:2E8F:49F1:0:0:9B09:D40F|2409:4062:2E8F:49F1:0:0:9B09:D40F]] ([[User talk:2409:4062:2E8F:49F1:0:0:9B09:D40F|talk]]) to last version by Mikhail Ryazanov
+2020-09-20T14:57:57+00:00,979402745,979258521,0,MaxwellMolecule,Viscosity,"Undid revision 979258521 by [[Special:Contributions/73.220.219.100|73.220.219.100]] ([[User talk:73.220.219.100|talk]]) not sure this is important enough for a ""distinguish"" tag"
+2021-09-14T19:11:11+00:00,1044344456,1044342198,0,Dirkbb,Viscosity,Reverted 1 edit by [[Special:Contributions/37.179.67.105|37.179.67.105]] ([[User talk:37.179.67.105|talk]]) to last revision by 2A00:23C8:1DA6:DE01:6850:E49C:FDA6:FF9C
+2020-06-10T03:15:09+00:00,961732142,960929933,0,Nanite,Viscosity,"/* General definition */ expand a bit, also provide index notation expression for mu_ijkl"
+2019-05-24T15:29:32+00:00,898586427,892294053,0,FlamingSilmaril,Viscosity,en-dash -> hyphen
+2020-04-07T12:46:31+00:00,949600672,949600614,0,2409:4052:61E:3919:9EA9:C76:6CE:1C71,Viscosity,
+2019-08-07T02:23:35+00:00,909705898,909658078,0,Foobaz,Viscosity,simplify and clarify
+2021-01-15T19:52:07+00:00,1000590143,1000358516,0,Trappist the monk,Viscosity,/* Order of magnitude estimates */[[:Category:Pages using sfn with unknown parameters|Pages using sfn with unknown parameters]]: too many names in sfn template(s);
+2019-08-26T21:15:11+00:00,912626683,912626543,0,MaxwellMolecule,Viscosity,/* Water */ ref fix to my previous edit
+2020-08-28T07:26:53+00:00,975391162,975391044,0,223.24.92.186,Viscosity,
+2020-07-13T22:12:40+00:00,967548713,967503798,0,Dolphin51,Viscosity,/* Units */ Rectified formatting of Wikilinks inserted in previous edit by new User Platypus so other Users can check the quality of Platypus’s substantial edit.
+2020-09-16T15:08:41+00:00,978717237,978027848,0,Maddjackbhadahk Kuany,Wikipedia talk:Sandbox,/* Awareness */ new section
+2021-09-04T17:55:09+00:00,1042379787,1042268398,0,2600:1700:6A41:4010:E02E:378D:5081:B22F,Wikipedia talk:Sandbox,
+2021-06-28T16:18:43+00:00,1030894617,1030885440,0,Z1720,Wikipedia talk:Sandbox,Undid revision 1030885440 by [[Special:Contributions/Metropolitan90|Metropolitan90]] ([[User talk:Metropolitan90|talk]]) Reverting edit request so that request is not in the queue
+2021-07-17T02:07:10+00:00,1033983999,1033983933,0,Pppery,Wikipedia talk:Sandbox,
+2020-08-26T23:47:27+00:00,975143849,975134007,0,Sysages,Wikipedia talk:Sandbox,Reverted to revision 974685603 by [[Special:Contributions/Cyberbot I|Cyberbot I]] ([[User talk:Cyberbot I|talk]]): Clearing sandbox ([[WP:TW|TW]])
+2020-05-01T12:59:08+00:00,954252273,954241582,0,78.72.133.88,Wikipedia talk:Sandbox,
+2020-02-03T17:07:29+00:00,938988550,938555119,0,GoatLordServant,Wikipedia talk:Sandbox,/* something i made at school */ new section
+2020-06-21T10:02:55+00:00,963708628,963708512,0,Favonian,Wikipedia talk:Sandbox,Reverted edits by [[Special:Contribs/73.118.241.67|73.118.241.67]] ([[User talk:73.118.241.67|talk]]) to last version by Hazard-Bot
+2019-11-28T07:11:34+00:00,928314516,928314513,0,Lowercase sigmabot II,Wikipedia:Sandbox,Reinserting sandbox header) (bot
+2021-04-27T11:03:47+00:00,1020134775,1020134381,0,2409:4043:2D8E:A518:921E:F2CE:B1D3:4C36,Wikipedia:Sandbox,[[WP:AES|←]]Blanked the page
+2019-11-30T17:42:26+00:00,928638386,928635826,0,83.89.225.122,Wikipedia:Sandbox,j
+2021-03-05T23:32:50+00:00,1010530127,1010529522,0,2603:8080:4740:9F:4878:2A30:E0E7:D5D3,Wikipedia:Sandbox,
+2020-09-03T16:28:07+00:00,976555475,976555333,0,Googgoollman7777,Wikipedia:Sandbox,
+2020-02-01T05:06:59+00:00,938595304,938595291,0,Skllagyook,Wikipedia:Sandbox,
+2020-10-09T13:28:21+00:00,982649352,982648686,0,Destroyeraa,Wikipedia:Sandbox,deleting spam
+2021-04-15T20:06:38+00:00,1018007529,1018006640,0,Joaquinaalandaa,Wikipedia:Sandbox,
+2019-06-02T16:22:11+00:00,899972611,899972585,0,Sonicfan200530,Wikipedia:Sandbox,
+2020-12-24T17:18:30+00:00,996120269,996120233,0,Cedelmwood,Wikipedia:Sandbox,Test

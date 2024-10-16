@@ -1,0 +1,879 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-09-25T14:34:45+00:00,1046410112,1046403667,1,Warmanuser,Jharkhand,/* History */
+2021-09-25T13:50:26+00:00,1046403667,1046362200,1,Warmanuser,Jharkhand,/* History */
+2021-09-25T08:08:48+00:00,1046362200,1046352293,1,Warmanuser,Jharkhand,/* History */
+2021-09-25T06:44:15+00:00,1046352293,1046351845,1,Warmanuser,Jharkhand,
+2021-09-25T06:40:16+00:00,1046351845,1046351788,1,Warmanuser,Jharkhand,/* Demographics */
+2021-09-25T06:39:39+00:00,1046351788,1046351714,1,Warmanuser,Jharkhand,/* Administrative districts */
+2021-09-25T06:38:54+00:00,1046351714,1046349199,1,Warmanuser,Jharkhand,/* Economy */
+2021-09-25T06:14:44+00:00,1046349199,1046348179,1,Warmanuser,Jharkhand,/* Government and administration */
+2021-09-25T06:04:29+00:00,1046348179,1046347670,1,Warmanuser,Jharkhand,
+2021-09-25T05:59:54+00:00,1046347670,1046218348,1,Warmanuser,Jharkhand,
+2021-09-24T14:34:12+00:00,1046218348,1046074765,1,Warmanuser,Jharkhand,
+2021-09-22T17:28:18+00:00,1045829373,1044857711,1,Warmanuser,List of schools in India,/* Jharkhand */
+2021-09-22T16:58:53+00:00,1045824409,1036053278,1,Warmanuser,Sakchi,
+2021-09-22T16:23:24+00:00,1045818143,1034876828,1,Warmanuser,Kandra,
+2021-09-21T14:13:33+00:00,1045615260,1030996942,1,Warmanuser,Bistupur,Bistupur is not a suburb
+2021-09-21T12:16:20+00:00,1045599660,1045044795,1,Warmanuser,Adityapur,
+2021-09-21T10:46:34+00:00,1045589869,1041068911,1,Warmanuser,List of special economic zones in India,
+2021-09-20T10:17:05+00:00,1045391477,1045142766,1,Warmanuser,Kolkata,
+2021-09-19T13:39:46+00:00,1045223042,1034334635,1,Warmanuser,"Raj Bhavan, Ranchi",
+2021-09-18T11:02:24+00:00,1045026459,1032026109,1,Warmanuser,Adityapur,
+2021-09-18T10:20:04+00:00,1045021754,1043536862,1,Warmanuser,List of neighbourhoods of Jamshedpur,
+2021-09-18T10:07:29+00:00,1045020540,1044994409,1,Warmanuser,Automotive industry in India,/* Jharkhand */
+2021-09-18T07:19:59+00:00,1045002888,1044836875,1,Warmanuser,Ranchi,
+2021-09-18T06:05:06+00:00,1044994409,1044992031,1,Warmanuser,Automotive industry in India,/* Jharkhand */
+2021-09-18T05:47:23+00:00,1044992913,1044722330,1,Warmanuser,Electro-Motive Diesel,/* Manufacturing and assembly facilities */
+2021-09-18T05:37:31+00:00,1044992031,1044932325,1,Warmanuser,Automotive industry in India,/* Karnataka */
+2021-09-15T08:04:28+00:00,1044446651,1044224875,1,Warmanuser,Automotive industry in India,/* Manufacturing facilities */
+2021-09-14T13:24:52+00:00,1044288572,1037912759,1,Warmanuser,Tourist attractions in Mangalore,
+2021-09-14T13:08:15+00:00,1044286152,1044285821,1,Warmanuser,Faridabad,
+2021-09-14T13:06:09+00:00,1044285821,1044048304,1,Warmanuser,Faridabad,
+2021-10-21T07:53:19+00:00,1051037948,1047599459,1,AI_User,Saraidhela,
+2021-10-21T07:17:37+00:00,1051033474,1045474233,1,AI_User,"City Centre, Bokaro",
+2021-10-21T06:33:30+00:00,1051028277,1050912144,1,AI_User,Dehradun,"As per the source which is given here, it is a [[Metropolis]]"
+2022-01-19T16:12:05+00:00,1066687255,1066685521,1,An_Honest_User,Economy of Chennai,
+2022-01-19T16:01:17+00:00,1066685521,1066293222,1,An_Honest_User,Economy of Chennai,
+2022-01-19T14:05:09+00:00,1066668065,1066593300,1,An_Honest_User,Kanpur,
+2022-01-10T10:42:21+00:00,1064821925,1064821837,1,An_Honest_User,User talk:An Honest User,
+2022-01-10T10:41:33+00:00,1064821837,1062956202,1,An_Honest_User,User talk:An Honest User,
+2022-01-09T05:45:13+00:00,1064596821,1063522746,1,An_Honest_User,Economy of Chennai,/* Manufacturing industries */
+2022-01-03T14:19:29+00:00,1063520846,1063491094,1,An_Honest_User,Pune,/* Economy */
+2022-01-02T19:08:57+00:00,1063376104,1062824105,1,An_Honest_User,Economy of Chennai,
+2022-01-02T14:21:54+00:00,1063338626,1050335825,1,An_Honest_User,Economy of Uttarakhand,
+2022-01-02T14:21:41+00:00,1063338607,1063301307,1,An_Honest_User,Economy of Bihar,
+2022-01-01T10:14:46+00:00,1063124538,1063076049,1,An_Honest_User,Economy of Coimbatore,
+2021-12-30T19:20:02+00:00,1062824105,1062824038,1,An_Honest_User,Economy of Chennai,
+2021-12-30T19:19:21+00:00,1062824038,1062679019,1,An_Honest_User,Economy of Chennai,
+2021-10-15T12:55:18+00:00,1050047870,1050010226,1,Autotechuser,List of Muslim states and dynasties,/* South Asia */
+2021-10-15T07:01:45+00:00,1050010226,1047343326,1,Autotechuser,List of Muslim states and dynasties,/* South Asia */
+2021-10-14T16:11:52+00:00,1049913401,1008040219,1,Autotechuser,National Highway 118 (India),
+2021-10-14T14:37:13+00:00,1049900489,1048499681,1,Autotechuser,Madurai,
+2021-10-14T05:41:03+00:00,1049843983,1049673121,1,Autotechuser,"Sonari, Jamshedpur",
+2021-10-14T05:38:25+00:00,1049843768,1049693840,1,Autotechuser,Economy of Jamshedpur,
+2021-10-13T16:23:41+00:00,1049747099,1049746840,1,Autotechuser,Jadugora,
+2021-10-13T16:21:49+00:00,1049746840,1043531587,1,Autotechuser,Jadugora,
+2021-10-13T14:35:52+00:00,1049731969,1049693401,1,Autotechuser,Economy of Mumbai,/* Industries */
+2021-10-13T08:42:27+00:00,1049693840,1048456259,1,Autotechuser,Economy of Jamshedpur,
+2021-10-13T08:38:32+00:00,1049693401,1049013477,1,Autotechuser,Economy of Mumbai,
+2021-10-13T07:48:03+00:00,1049688170,1049262531,1,Autotechuser,Mumbai,
+2021-10-13T06:58:36+00:00,1049682206,1049681989,1,Autotechuser,Mango (Jamshedpur),
+2021-10-13T06:56:30+00:00,1049681992,1037268109,1,Autotechuser,Talk:Mango (Jamshedpur),"Autotechuser moved page [[Talk:Mango (Jamshedpur)]] to [[Talk:Maango, Jamshedpur]]: This could be better"
+2021-10-13T06:56:29+00:00,1049681989,1046010794,1,Autotechuser,Mango (Jamshedpur),"Autotechuser moved page [[Mango (Jamshedpur)]] to [[Maango, Jamshedpur]]: This could be better"
+2021-10-13T05:16:27+00:00,1049673121,1049171565,1,Autotechuser,"Sonari, Jamshedpur",
+2021-10-12T07:51:14+00:00,1049513774,1049513702,1,Autotechuser,Talk:Chennai,
+2021-10-12T07:50:18+00:00,1049513702,1042249798,1,Autotechuser,Talk:Chennai,/* File:Chennai Photomontage.png */ new section
+2021-10-12T07:46:34+00:00,1049513356,1048994241,1,Autotechuser,Lists of tallest buildings in India,
+2021-10-12T05:09:51+00:00,1049498008,1049497912,1,Autotechuser,Jamshedpur,/* Geography */
+2021-10-12T05:08:57+00:00,1049497912,1049497712,1,Autotechuser,Jamshedpur,
+2021-10-12T05:07:15+00:00,1049497712,1049497646,1,Autotechuser,Jamshedpur,/* History */
+2021-10-12T05:06:37+00:00,1049497646,1048917682,1,Autotechuser,Jamshedpur,
+2021-10-10T08:41:56+00:00,1049171565,1006356431,1,Autotechuser,"Sonari, Jamshedpur",
+2021-10-10T06:30:41+00:00,1049158499,1047036060,1,Autotechuser,Chitarpur,
+2021-10-10T06:29:49+00:00,1049158425,1021674965,1,Autotechuser,"Jama Mosque, Ramgarh",
+2021-10-08T17:52:56+00:00,1048909696,1048731973,1,Autotechuser,Tourism in Jharkhand,
+2021-10-07T16:56:23+00:00,1048731973,1048725313,1,Autotechuser,Tourism in Jharkhand,
+2021-10-07T16:19:05+00:00,1048725313,1048706691,1,Autotechuser,Tourism in Jharkhand,
+2021-10-07T14:35:05+00:00,1048706691,1041177312,1,Autotechuser,Tourism in Jharkhand,
+2021-10-07T14:19:54+00:00,1048704545,1047351253,1,Autotechuser,List of tourist attractions in Mysore,/* Places of worship */
+2021-10-01T17:56:06+00:00,1047615321,1047032581,1,Autotechuser,Jamshedpur,Aashiana Gardens sunflower blocks is not tallest building
+2021-09-30T18:07:12+00:00,1047408137,1002199756,1,Autotechuser,Parsudih,
+2021-09-30T11:54:21+00:00,1047351253,1030518216,1,Autotechuser,List of tourist attractions in Mysore,
+2022-02-10T14:32:56+00:00,1071032058,1071020719,1,ChingamSingham,User talk:ChingamSingham,
+2022-02-10T12:44:33+00:00,1071016067,1071015240,1,ChingamSingham,"Salem, Tamil Nadu",/* Transport */
+2022-02-10T12:37:56+00:00,1071015240,1069342303,1,ChingamSingham,"Salem, Tamil Nadu",
+2021-12-22T13:39:07+00:00,1061567954,1048456940,1,Corporate_Dada,Economy of Odisha,/* Sectors */
+2021-12-22T11:08:42+00:00,1061553474,1059105505,1,Corporate_Dada,"Economy of Aurangabad, Maharashtra",
+2021-10-29T12:35:51+00:00,1052487141,1002847005,1,Dr_Computer_Scientist,Ghorabandha,
+2021-10-29T12:02:25+00:00,1052483937,957960554,1,Dr_Computer_Scientist,Dhalbhumgarh,
+2021-10-29T12:00:47+00:00,1052483757,1016226031,1,Dr_Computer_Scientist,Dhalbhumgarh Airport,
+2021-10-22T06:52:04+00:00,1051219831,1051092318,1,Dr_Computer_Scientist,Information technology in India,/* Major information technology hubs */
+2021-10-19T15:26:30+00:00,1050729823,1050729742,1,Dr_Computer_Scientist,List of special economic zones in India,/* State-wise distribution of approved SEZs */
+2021-10-19T15:25:58+00:00,1050729742,1050727138,1,Dr_Computer_Scientist,List of special economic zones in India,/* State-wise distribution of approved SEZs */
+2021-10-19T15:07:33+00:00,1050727138,1046808005,1,Dr_Computer_Scientist,List of special economic zones in India,/* Notified Operational Special Economic Zones */
+2021-12-22T12:57:45+00:00,1061563902,1056752978,1,Fairytalk,"Economy of Punjab, India",
+2021-12-22T12:16:40+00:00,1061560184,1061410507,1,Fairytalk,List of special economic zones in India,/* Jharkhand */
+2021-12-22T09:15:16+00:00,1061543340,1061543122,1,Fairytalk,Economy of Hyderabad,
+2021-12-22T09:12:48+00:00,1061543122,1059035750,1,Fairytalk,Economy of Hyderabad,
+2021-12-22T05:14:24+00:00,1061520434,1061520049,1,Fairytalk,Mysore,/* Economy */
+2021-12-22T05:10:20+00:00,1061520049,1061519830,1,Fairytalk,Mysore,/* Economy */
+2021-12-22T05:08:13+00:00,1061519830,1061519490,1,Fairytalk,Mysore,/* Economy */
+2021-12-22T05:05:06+00:00,1061519490,1061519313,1,Fairytalk,Mysore,/* Demographics */
+2021-12-22T05:03:37+00:00,1061519313,1061518579,1,Fairytalk,Mysore,/* Demographics */
+2021-12-22T04:56:38+00:00,1061518579,1061518485,1,Fairytalk,Mysore,/* Administration and utilities */
+2021-12-22T04:55:38+00:00,1061518485,1058887926,1,Fairytalk,Mysore,/* Economy */
+2021-12-21T15:15:32+00:00,1061411050,1061062396,1,Fairytalk,Ahmedabad,/* Culture */
+2021-12-21T15:10:56+00:00,1061410507,1059594834,1,Fairytalk,List of special economic zones in India,/* Notified Operational Special Economic Zones */
+2021-12-21T14:02:06+00:00,1061402877,1038088331,1,Fairytalk,Sahebganj,/* Post independence */
+2021-12-21T13:58:13+00:00,1061402422,1058956037,1,Fairytalk,Sahebganj district,
+2021-12-21T13:03:38+00:00,1061396172,1054167279,1,Fairytalk,Economy of Patna,
+2021-12-21T13:02:38+00:00,1061396073,1061220139,1,Fairytalk,Bihta,
+2021-12-21T13:00:28+00:00,1061395870,1051465394,1,Fairytalk,Fatuha,
+2021-12-21T12:51:35+00:00,1061394865,1060562142,1,Fairytalk,Patna,
+2021-12-21T08:09:18+00:00,1061366842,1041063303,1,Fairytalk,Dhanbad district,
+2021-10-29T07:15:30+00:00,1052455828,1047893723,1,FasterUser,Raghunath Murmu,/* Legacy */
+2021-10-27T15:26:27+00:00,1052131356,1052130429,1,FasterUser,Jamshedpur,Undid revision 1052130429 by [[Special:Contributions/FasterUser|FasterUser]] ([[User talk:FasterUser|talk]])
+2021-10-27T15:21:05+00:00,1052130429,1051732490,1,FasterUser,Jamshedpur,
+2021-10-27T15:05:30+00:00,1052127926,1052127680,1,FasterUser,List of World Trade Centers,
+2021-10-27T15:03:55+00:00,1052127680,1048990788,1,FasterUser,List of World Trade Centers,
+2021-10-26T17:35:56+00:00,1051980530,1050130037,1,FasterUser,Sriperumbudur,
+2021-10-26T16:11:10+00:00,1051967345,1051598417,1,FasterUser,IBM,/* Headquarters and offices */
+2021-10-26T12:53:08+00:00,1051938596,1045636936,1,FasterUser,Oragadam,
+2021-10-26T12:49:01+00:00,1051937410,1051937236,1,FasterUser,Teynampet,
+2021-10-26T12:47:30+00:00,1051937236,1047218228,1,FasterUser,Teynampet,
+2021-10-24T10:48:16+00:00,1051576339,1050940665,1,FasterUser,User:FasterUser,
+2021-10-24T10:48:03+00:00,1051576319,1050940043,1,FasterUser,User talk:FasterUser,
+2021-10-20T19:21:10+00:00,1050940665,0,1,FasterUser,User:FasterUser,[[WP:AES|←]]Created page with 'Hi This is Faster User. Faster USer here.'
+2021-10-20T19:17:18+00:00,1050940043,0,1,FasterUser,User talk:FasterUser,[[WP:AES|←]]Created page with 'Welcome to my talk page'
+2021-10-20T19:16:23+00:00,1050939897,1050928939,1,FasterUser,Santali cinema,
+2021-10-20T18:04:26+00:00,1050928939,1050927469,1,FasterUser,Santali cinema,
+2021-10-20T17:57:03+00:00,1050927469,1049935006,1,FasterUser,Santali cinema,
+2021-10-14T17:41:52+00:00,1049925967,1049021614,1,FasterUser,Santali cinema,
+2022-03-19T18:10:20+00:00,1078071678,1075709160,1,I_Am_a_businessman,TVS Motor Company,
+2022-03-16T20:33:21+00:00,1077533645,1077529736,1,I_Am_a_businessman,Noida,/* Economy */
+2022-03-16T20:11:44+00:00,1077529736,1076592708,1,I_Am_a_businessman,Noida,
+2022-03-16T19:19:47+00:00,1077520593,0,1,I_Am_a_businessman,User:I Am a businessman/sandbox/Userspace,"[[WP:AES|←]]Created page with '{{Userspace draft|source=ArticleWizard|date={{Subst:CURRENTMONTHNAME}} {{Subst:CURRENTYEAR}}}} {{Subst:Nul|← do not change this line, it will set the date automatically}}  '''(your article name)''' is... (description)  {{Panorama | image = File:Chennai skyline panorama.png | height = 180 | caption = A panoramic view of coastal area in Chennai }}  == References == <!-- See https://en.wikipedia.org/wiki/Help:Referencing_for_beginners on how to create refere...'"
+2022-03-16T18:51:42+00:00,1077516589,1077267888,1,I_Am_a_businessman,Uttarakhand,/* Economy */
+2022-03-16T18:37:14+00:00,1077513983,994221988,1,I_Am_a_businessman,Kansbahal,
+2022-03-16T18:19:14+00:00,1077510779,1036859837,1,I_Am_a_businessman,List of company towns,/* India */
+2022-01-19T06:52:07+00:00,1066614741,1059980280,1,IPark_User,Chando Likhon,
+2022-01-03T17:04:37+00:00,1063549247,1061508004,1,IPark_User,Rajinikanth,/* 2011–present: Hospitalisation and return */
+2021-12-31T06:34:08+00:00,1062929239,1062595715,1,IPark_User,Abbas (actor),
+2021-12-15T18:27:29+00:00,1060467752,1057163809,1,JSR_USER,Santali cinema,
+2021-12-15T15:51:33+00:00,1060448412,1060448049,1,JSR_USER,Culture of Jharkhand,
+2021-12-15T15:48:55+00:00,1060448049,1052632183,1,JSR_USER,Culture of Jharkhand,
+2021-12-15T12:54:00+00:00,1060428522,1060026227,1,JSR_USER,Golmuri-cum-Jugsalai block,
+2021-12-15T12:52:03+00:00,1060428359,1058350752,1,JSR_USER,Teynampet,
+2022-01-19T09:46:10+00:00,1066635250,1064817931,1,Krrisshh_x,Economy of Bihar,
+2022-01-19T09:28:35+00:00,1066633157,1065973722,1,Krrisshh_x,Bhubaneswar,/* Economy */
+2022-01-19T08:34:40+00:00,1066627180,1064255426,1,Krrisshh_x,Dhanbad,
+2022-01-19T08:32:10+00:00,1066626932,1050057003,1,Krrisshh_x,"Sonari, Jamshedpur",
+2022-01-19T07:40:51+00:00,1066620578,1062770723,1,Krrisshh_x,"Kadma, Jamshedpur",
+2022-01-19T06:47:37+00:00,1066614083,1048659082,1,Krrisshh_x,Raghubar Das,
+2022-01-19T06:18:08+00:00,1066610534,1066607627,1,Krrisshh_x,Bokaro Steel City,/* History */
+2022-01-19T05:54:26+00:00,1066607627,1066522159,1,Krrisshh_x,Bokaro Steel City,
+2022-01-18T19:32:33+00:00,1066522159,1066509752,1,Krrisshh_x,Bokaro Steel City,
+2022-01-18T15:56:14+00:00,1066485878,1066448902,1,Krrisshh_x,Bokaro Steel City,
+2022-01-18T15:25:52+00:00,1066481053,1052725689,1,Krrisshh_x,Saraidhela,
+2022-01-18T15:07:26+00:00,1066477805,1059734741,1,Krrisshh_x,Sindri (Dhanbad),
+2022-01-18T14:21:34+00:00,1066469710,1065857620,1,Krrisshh_x,Bokaro Airport,
+2022-01-18T12:05:05+00:00,1066448902,1066434814,1,Krrisshh_x,Bokaro Steel City,/* Demographics */
+2022-01-18T10:22:44+00:00,1066434814,1066321941,1,Krrisshh_x,Bokaro Steel City,/* Demographics */
+2022-01-17T20:51:36+00:00,1066321941,1066320577,1,Krrisshh_x,Bokaro Steel City,
+2022-01-17T20:43:04+00:00,1066320577,1066311042,1,Krrisshh_x,Bokaro Steel City,
+2022-01-17T19:44:58+00:00,1066311042,1064426808,1,Krrisshh_x,Bokaro Steel City,
+2022-01-17T07:16:28+00:00,1066197912,1063810187,1,Krrisshh_x,East India,/* Urban areas */
+2022-01-17T06:07:31+00:00,1066188003,1062379409,1,Krrisshh_x,Bokaro district,
+2022-01-16T06:53:30+00:00,1065978332,1060481797,1,Krrisshh_x,Seraikela Kharsawan district,
+2022-01-13T06:17:02+00:00,1065372731,1063146412,1,Krrisshh_x,Taratala,
+2021-09-27T15:07:23+00:00,1046814902,1046809307,1,Lewaruser,Economy of Jamshedpur,
+2021-09-27T14:35:44+00:00,1046809307,1037237690,1,Lewaruser,Economy of Jamshedpur,
+2021-09-22T14:05:23+00:00,1045796789,1045667340,1,Lewaruser,Abbas (actor),
+2021-12-14T19:18:56+00:00,1060314722,1053849965,1,Lion_the_hero,Hindi Belt,
+2021-12-12T08:05:42+00:00,1059892964,1024812662,1,Lion_the_hero,Chando Likhon,
+2021-11-01T08:38:24+00:00,1052996026,1052815370,1,M2719,User:M2719/sandbox,
+2021-10-31T07:08:34+00:00,1052815370,1052815331,1,M2719,User:M2719/sandbox,
+2021-10-31T07:07:57+00:00,1052815331,0,1,M2719,User:M2719/sandbox,[[WP:AES|←]]Created page with '{{User sandbox}} <!-- EDIT BELOW THIS LINE -->{{Panorama | image = Jamshedppur skyline 4.jpg | height = 200 }}'
+2021-11-01T08:16:39+00:00,1052994204,1045494551,1,Mettletteramman_Jekkanakka,Adityapur Industrial Area,
+2021-12-06T21:35:24+00:00,1059004184,1057243422,1,Myway_User,Jharkhand,[[Santali language|Santali]] is also an official language
+2021-12-06T20:28:03+00:00,1058995575,1057879702,1,Myway_User,Economy of Bangalore,/* Economic sectors */
+2021-12-06T13:27:19+00:00,1058935442,1058825486,1,Myway_User,Asansol,
+2021-12-06T12:41:14+00:00,1058930276,1052657927,1,Myway_User,Economy of Hyderabad,/* Information technology */
+2021-12-06T08:08:12+00:00,1058903974,1057817380,1,Myway_User,Kolkata,/* Economy */
+2021-12-06T07:01:34+00:00,1058898704,1058684516,1,Myway_User,Bangalore,
+2021-12-06T06:10:58+00:00,1058894189,1058820219,1,Myway_User,Mumbai,
+2021-12-05T19:45:33+00:00,1058820219,1058819042,1,Myway_User,Mumbai,/* Economy */
+2021-12-05T19:37:22+00:00,1058819042,1058394728,1,Myway_User,Mumbai,/* Economy */
+2021-12-05T17:59:21+00:00,1058803125,1058766307,1,Myway_User,Bhubaneswar,/* Economy */
+2021-12-05T14:07:03+00:00,1058766307,1058754149,1,Myway_User,Bhubaneswar,/* Culture */
+2021-12-05T12:05:34+00:00,1058754149,1057882842,1,Myway_User,Bhubaneswar,/* Economy */
+2021-12-05T12:04:48+00:00,1058754101,954379245,1,Myway_User,Template:Bhubaneswar topics,
+2021-12-04T08:54:28+00:00,1058561375,1058561248,1,Myway_User,Aurangabad,/* History */
+2021-12-04T08:52:55+00:00,1058561248,1058558902,1,Myway_User,Aurangabad,/* Economy */
+2021-12-04T08:25:33+00:00,1058558902,1057865766,1,Myway_User,Aurangabad,Paragraph
+2021-12-03T17:58:08+00:00,1058464788,1058436476,1,Myway_User,Information technology in India,/* Major information technology hubs */
+2021-12-03T14:13:30+00:00,1058436476,1058436059,1,Myway_User,Information technology in India,/* Major information technology hubs */
+2021-12-03T14:10:00+00:00,1058436059,1058227163,1,Myway_User,Information technology in India,/* Major information technology hubs */
+2021-12-03T13:45:36+00:00,1058433464,1057257035,1,Myway_User,Pharmaceutical industry in India,Pharmaceuticals hubs with sources
+2021-11-30T22:07:26+00:00,1058001977,1057998054,1,Myway_User,Information technology in India,/* Major information technology hubs */
+2021-11-30T18:54:23+00:00,1057974177,1057962095,1,Myway_User,Information technology in India,/* Tier - 2 */
+2021-11-30T17:28:49+00:00,1057962095,1055520323,1,Myway_User,Information technology in India,/* Major information technology hubs */
+2021-11-30T06:25:57+00:00,1057884932,1057744359,1,Myway_User,Bangalore,/* Economy */
+2021-11-29T14:06:02+00:00,1057758345,1055544270,1,Myway_User,List of tech parks in Chennai,
+2021-11-29T06:53:32+00:00,1057716193,1057571364,1,Myway_User,LuLu Group International,"More operations in [[Srinagar]], [[Noida]], [[Bangalore]] and [[Jamshedpur]]"
+2021-11-29T05:41:16+00:00,1057709704,1057609052,1,Myway_User,Bangalore,/* Economy */
+2021-11-28T17:00:21+00:00,1057609052,1057598549,1,Myway_User,Bangalore,/* Economy */
+2021-11-28T15:43:33+00:00,1057598549,1056027510,1,Myway_User,Bangalore,
+2021-11-27T19:51:29+00:00,1057461046,1055715758,1,Myway_User,Economy of Bihar,
+2021-11-20T17:57:32+00:00,1056253019,1051027797,1,Myway_User,User talk:JayB91,/* Chennai */ new section
+2021-11-10T12:15:06+00:00,1054505918,1054505763,1,Noverteller12311,Tiruchirappalli,/* Economy */
+2021-11-10T12:13:32+00:00,1054505763,1053643343,1,Noverteller12311,Tiruchirappalli,/* Economy */
+2021-11-10T11:56:00+00:00,1054503821,1054503587,1,Noverteller12311,Moradabad,/* Climate */
+2021-11-10T11:53:30+00:00,1054503587,1049457353,1,Noverteller12311,Moradabad,/* Economy */
+2021-12-11T10:10:46+00:00,1059745148,1055903600,1,Ultramanner,Triplicane,
+2021-12-11T07:14:53+00:00,1059730901,1058554441,1,Ultramanner,Royapettah,
+2021-12-11T07:07:57+00:00,1059730448,1049002742,1,Ultramanner,Vadapalani,
+2021-12-11T07:02:07+00:00,1059730037,1036621022,1,Ultramanner,Thiruvanmiyur,
+2021-12-11T06:59:39+00:00,1059729846,1056813500,1,Ultramanner,Vandalur,
+2021-12-08T14:05:34+00:00,1059274449,1058956025,1,Ultramanner,Seraikela Kharsawan district,/* Economy */  Not a backward district
+2021-10-13T15:47:32+00:00,1049741397,1049219999,0,Sharkslayer87,Abbas (actor),/* Personal life */ The source doesn't mention this!
+2021-09-22T04:12:28+00:00,1045729951,1045547723,0,116.14.11.203,Asansol,someone put tgheir name
+2022-01-18T09:06:32+00:00,1066424841,1066358338,0,Cenation25,Aurangabad,/* Road */
+2021-12-28T04:18:03+00:00,1062385479,1062298515,0,Chandan Guha,Adityapur,/* Geography */ Map adjustment
+2021-10-22T10:56:44+00:00,1051245657,1051242480,0,DaxServer,Abbas (actor),Reverted edits by [[Special:Contribs/2409:4073:31F:BE95:9F65:8148:3220:4508|2409:4073:31F:BE95:9F65:8148:3220:4508]] ([[User talk:2409:4073:31F:BE95:9F65:8148:3220:4508|talk]]) to last version by Sharkslayer87
+2021-09-22T16:11:34+00:00,1045816097,1045796789,0,DaxServer,Abbas (actor),Rollback edit(s) by [[Special:Contributions/Lewaruser|Lewaruser]] ([[User_talk:Lewaruser|talk]]): Fails [[WP:BLP]] [[w:en:WP:RW|(RW 16.1)]]
+2021-11-14T17:57:31+00:00,1055233794,1055026908,0,Ira Leviton,Ahmedabad,Fixed references.  Please see [[Category:CS1 maint: numeric names: authors list‎]].
+2021-09-10T15:27:02+00:00,1043531283,1042941972,0,Dreamy Jazz,Aurangabad,Reverted edits by [[Special:Contribs/Platteranna|Platteranna]] ([[User talk:Platteranna|talk]]) to last version by 2401:4900:5296:9C4E:CF5E:7A8C:FC5D:5857
+2021-11-27T06:16:54+00:00,1057371386,1057370102,0,Chandan Guha,Adityapur,Removed red links
+2022-01-24T16:13:39+00:00,1067673813,1066424841,0,Thenexttalk,Aurangabad,
+2021-11-02T18:08:14+00:00,1053232102,1053228945,0,AnomieBOT,Adityapur Industrial Area,Dating maintenance tags: {{Refimprove}} {{Better source}}
+2021-09-13T04:17:31+00:00,1044011821,1041375908,0,MB,Asansol,cleanup
+2022-01-01T16:25:26+00:00,1063161796,1063154790,0,Usernamekiran,Aurangabad,Restored revision 1062904054 by [[Special:Contributions/Gowhk8|Gowhk8]] ([[User talk:Gowhk8|talk]]): Rm vandalism
+2021-12-07T02:40:32+00:00,1059042504,1059042354,0,S0091,Aurangabad,Restored revision 1057865766 by [[Special:Contributions/MarnetteD|MarnetteD]] ([[User talk:MarnetteD|talk]]): Sock
+2021-11-13T23:12:32+00:00,1055111379,1053232102,0,Citation bot,Adityapur Industrial Area,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1918/2196
+2022-03-07T12:14:47+00:00,1075742503,1075721768,0,Arjayay,Ahmedabad,Undid revision 1075721768 by [[Special:Contributions/Adidasad9|Adidasad9]] ([[User talk:Adidasad9|talk]]) Unsourced / false figures - there was no census in 2020 and the 2021 census is not expected to report until 2023/4
+2021-11-22T06:57:05+00:00,1056512788,1056179723,0,Adityaarora20,Automotive industry in India,"The same data source puts India on the sixth position. The top 5 positions include China, USA, Japan, Germany and South Korea."
+2021-12-19T17:38:03+00:00,1061102257,1060923022,0,Citation bot,Automotive industry in India,"Alter: template type, title. Add: date, newspaper, title, authors 1-1. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 964/2196"
+2021-10-10T18:28:53+00:00,1049245614,1049241627,0,DaxServer,Bangalore,"ce, [[WP:BOLD]] [[WP:NOINDICSCRIPTS]]"
+2021-10-12T18:31:52+00:00,1049593692,1049452288,0,Kautilya3,Automotive industry in India,Reverted edits by [[Special:Contribs/Alberto Gonzalez 2357|Alberto Gonzalez 2357]] ([[User talk:Alberto Gonzalez 2357|talk]]) to last version by Axl7Rose
+2022-01-26T02:35:00+00:00,1067969115,1067968390,0,Axl7Rose,Automotive industry in India,/* Vehicles currently manufactured in India */Updated info
+2021-10-01T02:13:51+00:00,1047480293,1045741315,0,Salman Hussain7,Bangalore,Pics
+2022-01-24T22:13:32+00:00,1067731015,1067628729,0,Ira Leviton,Bangalore,Fixed a reference.  Please see [[Category:CS1 maint: numeric names: authors list]].
+2022-01-10T15:42:57+00:00,1064861916,1062964158,0,39.46.46.60,Automotive industry in India,
+2021-10-21T05:32:58+00:00,1051021618,1051021477,0,Deepikarandeeppanditloveyou,Bangalore,/* Language */
+2022-01-26T04:22:54+00:00,1067987360,1067823992,0,RMCD bot,Bangalore,Removing notice of move discussion
+2022-02-23T09:17:23+00:00,1073556965,1072798552,0,Niksudani12,Automotive industry in India,Replacing the link of 134 No. Hino Motors To Car dealer theme
+2021-12-26T06:27:15+00:00,1062092465,1061956516,0,TaDrian58,Bangalore,/* Sports */
+2022-02-20T06:15:46+00:00,1072938321,1072938007,0,Kpddg,Bangalore,/* Road */ updated some information
+2022-01-23T21:08:09+00:00,1067508783,1067015397,0,Kelisi,Bangalore,>No article with castle name
+2022-03-08T16:34:43+00:00,1075964845,1075313846,0,BrownHairedGirl,Bhubaneswar,Filling in 1 references using [[WP:REFLINKS|Reflinks]]
+2022-01-06T08:48:01+00:00,1064047928,1063061983,0,Hike395,Bangalore,fix incorrect wikidata link
+2022-02-10T02:48:19+00:00,1070939700,1070628692,0,Kpddg,Bangalore,/* Etymology */
+2022-01-26T07:29:37+00:00,1068017643,1067862850,0,2405:204:A199:6355:0:0:4E6:88AC,Bhubaneswar,
+2021-09-26T06:42:30+00:00,1046541462,1045615260,0,Venkat TL,Bistupur,Reverting edit(s) by [[Special:Contributions/Warmanuser|Warmanuser]] ([[User_talk:Warmanuser|talk]]) to rev. 1030996942 by Diamondchandelier: This account is currently blocked. No source either [[w:en:WP:RW|(RW 16.1)]]
+2022-01-08T08:18:02+00:00,1064426808,1064322476,0,GünniX,Bokaro Steel City,"v2.04 - Fix errors for [[WP:WCW|CW project]] (Reference list duplication - Heading should begin with ""="")"
+2021-09-30T13:44:55+00:00,1047364816,1047364310,0,Nishānt Omm,Bhubaneswar,
+2021-12-27T11:58:19+00:00,1062269768,1062269723,0,103.5.134.179,Bokaro Steel City,/* Notable people */
+2022-02-09T13:51:44+00:00,1070829622,1069806228,0,GreatNishanka,Bhubaneswar,Added another state people (rajasthan) who dwell the city bhubaneswar
+2022-02-04T23:52:19+00:00,1069961984,1068254064,0,BattyBot,Bistupur,/* top */Replaced [[Template:Unreferenced|{{unreferenced}}]] with [[Template:More citations needed|{{more citations needed}}]] and other [[WP:AWB/GF|General fixes]]
+2021-11-01T16:30:00+00:00,1053050644,1051749904,0,2409:4043:2C08:71C7:87D1:7FB2:535F:D744,Bhubaneswar,Removed other language already written in English makes congestion and unreadable.
+2022-01-19T22:52:45+00:00,1066745946,1066610534,0,Dreamy Jazz,Bokaro Steel City,Reverted edits by [[Special:Contribs/Krrisshh x|Krrisshh x]] ([[User talk:Krrisshh x|talk]]) to last version by Ira Leviton
+2021-10-19T08:44:35+00:00,1050681387,1050678695,0,Arjayay,Bokaro Steel City,Undid revision 1050678695 by [[Special:Contributions/Ankit.x02|Ankit.x02]] ([[User talk:Ankit.x02|talk]]) Unsourced
+2021-09-12T12:31:08+00:00,1043873242,1043870101,0,Arjayay,Bokaro Steel City,Undid revision 1043870101 by [[Special:Contributions/Sonu1820|Sonu1820]] ([[User talk:Sonu1820|talk]]) Rv-V unsourced + malformatted
+2021-10-25T11:33:21+00:00,1051749904,1051748003,0,Arjayay,Bhubaneswar,Reverted edits by [[Special:Contribs/122.160.36.192|122.160.36.192]] ([[User talk:122.160.36.192|talk]]) to last version by MPGuy2824
+2022-02-04T05:38:39+00:00,1069806228,1069797998,0,Rasnaboy,Bhubaneswar,Undid revision 1069797998 by [[Special:Contributions/112qw34er|112qw34er]] ([[User talk:112qw34er|talk]])
+2021-10-31T17:25:33+00:00,1052886645,1051379986,0,PrimeBOT,Bokaro Airport,/* External links */[[User:PrimeBOT/24|Task 24]]: removal of a template following [[Wikipedia:Templates_for_discussion/Log/2021_October_10|a TFD]]
+2021-09-11T17:10:52+00:00,1043728686,1043728633,0,IdreamofJeanie,Bihta,Reverting edit(s) by [[Special:Contributions/DELCON HOMES PVT LTD|DELCON HOMES PVT LTD]] ([[User_talk:DELCON HOMES PVT LTD|talk]]) to rev. 1033282501 by 2401:4900:126E:5B33:1:2:5B6A:D6B4: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2021-11-30T15:48:22+00:00,1057945947,1057631028,0,SporkBot,Bokaro Steel City,Remove template per [[Wikipedia:Templates for discussion/Log/2021 November 20|TFD outcome]]
+2021-10-05T01:47:06+00:00,1048256996,1047364816,0,Ira Leviton,Bhubaneswar,suppsoedly->supposedly - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2021-12-22T22:02:26+00:00,1061630340,1061396073,0,Arjayay,Bihta,Undid revision 1061396073 by [[Special:Contributions/Fairytalk|Fairytalk]] ([[User talk:Fairytalk|talk]]) Rv sock
+2021-09-17T11:01:27+00:00,1044847449,1044832599,0,BrownHairedGirl,Bokaro Airport,"Filled in 1 bare reference(s) with reFill 2 | [[MOS:DASH|dashes]], fixed using a [[User:BrownHairedGirl/biogdashes.js|script]]"
+2021-11-13T12:09:57+00:00,1055031634,1054806779,0,Vijethnbharadwaj,Bokaro Steel City,Added link
+2021-12-28T15:03:16+00:00,1062451505,1062451338,0,Parulsingh1357,Bokaro Steel City,/* References */
+2022-01-26T13:40:50+00:00,1068068155,1068068002,0,Pottereditor,Bokaro Steel City,
+2021-12-12T11:06:12+00:00,1059910893,1057945947,0,BarfiKumar,Bokaro Steel City,/* Demographics */Fixed typo
+2022-02-15T19:01:33+00:00,1072057331,1072056219,0,Fylindfotberserk,Bokaro Steel City,date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]
+2022-03-01T07:55:41+00:00,1074629215,1073775158,0,MT731,Bokaro Steel City,"MT731 moved page [[Bokaro, Jharkhand]] to [[Bokaro Steel City]] over redirect: Bokaro Steel City"
+2022-01-19T22:52:53+00:00,1066745970,1066188003,0,Dreamy Jazz,Bokaro district,Reverted edits by [[Special:Contribs/Krrisshh x|Krrisshh x]] ([[User talk:Krrisshh x|talk]]) to last version by Sakht Launda hu mai
+2021-12-12T20:12:21+00:00,1059980280,1059892964,0,Arjayay,Chando Likhon,Reverted edits by [[Special:Contribs/Lion the hero|Lion the hero]] ([[User talk:Lion the hero|talk]]) to last version by Aminshu kisku
+2022-02-09T19:03:48+00:00,1070878820,1068068155,0,Alookachalo,Bokaro Steel City,False information
+2021-05-24T06:29:34+00:00,1024812662,1024812133,0,Aminshu kisku,Chando Likhon,
+2021-10-15T14:13:54+00:00,1050057011,1049158499,0,Dreamy Jazz,Chitarpur,Reverted edits by [[Special:Contribs/Autotechuser|Autotechuser]] ([[User talk:Autotechuser|talk]]) to last version by Qwerfjkl (bot)
+2022-02-03T07:00:10+00:00,1069621252,1067829271,0,WikiCleanerBot,"City Centre, Bokaro",v2.04b - [[User:WikiCleanerBot#T12|Bot T12 CW#548]] - Fix errors for [[WP:WCW|CW project]] (Punctuation in link - Link equal to linktext)
+2022-02-21T02:52:49+00:00,1073112823,1073112392,0,Amayranjan2,Bokaro district,/* Economy */
+2021-09-04T13:37:44+00:00,1042341605,1038125816,0,Kingsman3,Culture of Jharkhand,
+2021-10-30T07:45:24+00:00,1052632183,1052632027,0,122.171.39.254,Culture of Jharkhand,typo
+2021-09-03T16:56:12+00:00,1042189614,1041799336,0,2409:4053:2D1C:E411:0:0:858A:600A,Dehradun,/* Higher education and research */
+2021-10-06T11:56:30+00:00,1048514201,1048504300,0,Joshifresco,Dehradun,/* Notable people */
+2020-05-21T09:07:54+00:00,957960554,956261163,0,M00thu2,Dhalbhumgarh,/* Geography */ capitalisation and spelling
+2021-10-30T19:38:19+00:00,1052725670,1052483757,0,Dreamy Jazz,Dhalbhumgarh Airport,Reverted edits by [[Special:Contribs/Dr Computer Scientist|Dr Computer Scientist]] ([[User talk:Dr Computer Scientist|talk]]) to last version by BrownHairedGirl
+2021-10-30T19:38:18+00:00,1052725665,1052483937,0,Dreamy Jazz,Dhalbhumgarh,Reverted edits by [[Special:Contribs/Dr Computer Scientist|Dr Computer Scientist]] ([[User talk:Dr Computer Scientist|talk]]) to last version by M00thu2
+2021-09-28T18:08:11+00:00,1047041490,1045831497,0,Qwerfjkl (bot),Dhanbad,Removed [[Help:Self link|link(s) to title]] ([[Wikipedia:WikiProject Check Wikipedia/List of errors#48|CW Error #48]]) (via [[de:Benutzer:Schnark/js/bandersnatch|Bandersnatch]])
+2021-08-28T10:01:38+00:00,1041063303,1040544783,0,2409:4064:2581:3952:0:0:1735:8A4,Dhanbad district,/* Economy */
+2021-09-20T06:20:31+00:00,1045366241,1044635030,0,2405:201:8009:D03A:C852:D3B2:41A3:29BE,East India,/* West Bengal */
+2021-12-22T22:01:35+00:00,1061630224,1061366842,0,Arjayay,Dhanbad district,Undid revision 1061366842 by [[Special:Contributions/Fairytalk|Fairytalk]] ([[User talk:Fairytalk|talk]]) Rv sock
+2021-10-10T17:57:31+00:00,1049240912,1049121386,0,Reva1804,East India,/* History */
+2020-06-07T07:22:41+00:00,961216082,960907028,0,Gdbulgaria,"Economy of Aurangabad, Maharashtra","added another big paper mill in the region, Nath Industries."
+2021-12-07T01:38:09+00:00,1059035754,1058995575,0,Dreamy Jazz,Economy of Bangalore,Reverted edits by [[Special:Contribs/Myway User|Myway User]] ([[User talk:Myway User|talk]]) to last version by Masterchib
+2022-01-20T14:36:35+00:00,1066867281,1066866901,0,Macaddct1984,"Economy of Aurangabad, Maharashtra",Clarified lede
+2022-01-23T02:08:36+00:00,1067355446,1061173151,0,Chris the speller,Economy of Bangalore,/* Government incentives and programs */replaced: Corporate → corporate; punct
+2021-10-16T14:55:12+00:00,1050222845,1050221877,0,LostCitrationHunter,Economy of Bihar,/* Congress */
+2021-10-03T17:21:58+00:00,1047986847,1047986750,0,Glane23,Economy of Bihar,Reverted edits by [[Special:Contributions/223.190.104.126|223.190.104.126]] ([[User talk:223.190.104.126|talk]]): addition of unnecessary/inappropriate [[WP:EL|external links]] ([[WP:HG|HG]]) (3.4.10)
+2021-08-15T12:21:09+00:00,1038895892,1034644265,0,42.111.18.127,Economy of Bihar,
+2022-03-09T16:32:28+00:00,1076148444,1075815607,0,LilHelpa,Economy of Bihar,copy edit
+2021-09-22T17:11:40+00:00,1045826516,1044696229,0,DanCherek,Economy of Chennai,Disambiguating links to [[Ford]] (link changed to [[Ford Motor Company]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2022-02-23T20:18:01+00:00,1073647116,1070464999,0,Vijaydanny,Economy of Chennai,"Its the fifth most productive metro in india after mumbai,delhi,Kolkata and bangalore"
+2022-01-19T22:52:41+00:00,1066745929,1066635250,0,Dreamy Jazz,Economy of Bihar,Reverted edits by [[Special:Contribs/Krrisshh x|Krrisshh x]] ([[User talk:Krrisshh x|talk]]) to last version by John of Reading
+2022-01-03T14:32:46+00:00,1063522746,1063376104,0,Kuru,Economy of Chennai,rmv reference to clearly identified wikipedia mirror per [[WP:CIRCULAR]]
+2021-11-17T01:46:43+00:00,1055648526,1055648471,0,117.216.103.53,Economy of Coimbatore,/* Railways */
+2022-02-07T16:10:08+00:00,1070464999,1067027430,0,Arjayay,Economy of Chennai,Rm sock additions as [[WP:RBI]] - apologies for any collateral damage
+2021-10-06T10:50:40+00:00,1048506950,1048506644,0,117.216.102.247,Economy of Coimbatore,/* Information Technology and BPO */
+2021-09-28T09:50:22+00:00,1046965283,1039864905,0,Uziel302,Economy of Hyderabad,transoforming->transforming - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2022-02-02T09:16:39+00:00,1069438712,1069425810,0,DaxServer,Economy of Hyderabad,ce
+2021-10-30T12:04:21+00:00,1052657927,1050216109,0,Uziel302,Economy of Hyderabad,stratigic->strategic - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2021-12-22T09:18:45+00:00,1061543602,1061543340,0,Aggarwala2727,Economy of Hyderabad,Reverted 2 edits by [[Special:Contributions/Fairytalk|Fairytalk]] ([[User talk:Fairytalk|talk]])
+2021-11-07T08:36:25+00:00,1053977616,1053977408,0,Equine-man,Economy of Jamshedpur,Restored revision 1050056929 by [[Special:Contributions/Dreamy Jazz|Dreamy Jazz]] ([[User talk:Dreamy Jazz|talk]]): Want to retry using correct English and less promotion of Tata Steel?
+2021-08-21T07:07:50+00:00,1039864905,1038435278,0,JohnFromPinckney,Economy of Hyderabad,compnaies->companies - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2022-01-26T08:56:38+00:00,1068031311,1068017953,0,Joy goel,Economy of Mumbai,Undid revision 1068017953 by [[Special:Contributions/103.245.2.204|103.245.2.204]] ([[User talk:103.245.2.204|talk]])unsourced and absurd
+2021-10-09T09:47:38+00:00,1049013477,1048965273,0,Joy goel,Economy of Mumbai,Corrected the nominal gdp of mumbai according to source its $250 billion not $ 310 billion
+2022-02-16T19:17:00+00:00,1072258975,1072157910,0,Joy goel,Economy of Mumbai,added relevant images
+2021-09-25T07:04:51+00:00,1046354460,1046352450,0,Joy goel,Economy of Mumbai,Undid revision 1046352450 by [[Special:Contributions/103.138.171.162|103.138.171.162]] ([[User talk:103.138.171.162|talk]])reverting unsourced edit
+2021-10-06T03:04:30+00:00,1048456940,1039374067,0,Citation bot,Economy of Odisha,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 573/2198
+2021-08-18T09:58:48+00:00,1039374067,1039347744,0,Arjayay,Economy of Odisha,Rv to figure in cited source
+2018-04-15T19:02:31+00:00,836595773,0,0,Jarble,Economy of Patna,[[WP:AES|←]]Redirected page to [[Economy of Bihar#Economy of Patna]]
+2021-11-08T13:11:09+00:00,1054167279,1053967829,0,Citation bot,Economy of Patna,Alter: title. Add: authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Grimes2 | [[Category:CS1 maint: extra punctuation]] | #UCB_Category 265/314
+2022-01-23T12:05:37+00:00,1067428386,1065724188,0,180.188.249.216,"Economy of Punjab, India",/* top */
+2021-08-10T05:13:12+00:00,1038039901,1021505338,0,Ksh.andronexus,Economy of Uttarakhand,
+2021-10-18T01:58:38+00:00,1050474258,1049471448,0,ButtahDawg,"Economy of Punjab, India",added info about punjab's life expectancy
+2021-12-15T13:39:26+00:00,1060433040,1057238066,0,InternetArchiveBot,Electro-Motive Diesel,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.5) ([[User:Qwerfjkl|Qwerfjkl]] - 8762
+2021-10-17T06:46:17+00:00,1050335825,1050335800,0,Uranium Site,Economy of Uttarakhand,Reverted 1 edit by [[Special:Contributions/2409:4071:2011:8807:6474:9AEC:4FB4:9AF0|2409:4071:2011:8807:6474:9AEC:4FB4:9AF0]] ([[User talk:2409:4071:2011:8807:6474:9AEC:4FB4:9AF0|talk]]) to last revision by Ksh.andronexus
+2021-09-26T07:54:57+00:00,1046550462,1044992913,0,Dreamy Jazz,Electro-Motive Diesel,Reverted edits by [[Special:Contribs/Warmanuser|Warmanuser]] ([[User talk:Warmanuser|talk]]) to last version by JhaySldvilla
+2022-01-04T04:24:27+00:00,1063646035,1063598121,0,SovalValtos,Faridabad,Undid revision 1063598121 by [[Special:Contributions/Semaseti582|Semaseti582]] ([[User talk:Semaseti582|talk]])spam
+2021-10-16T12:27:45+00:00,1050206672,1046995119,0,103.249.7.131,Faridabad,
+2022-03-02T12:27:09+00:00,1074833029,1073202211,0,ZI Jony,Faridabad,v2.04b - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-10-30T19:38:17+00:00,1052725664,1052487141,0,Dreamy Jazz,Ghorabandha,Reverted edits by [[Special:Contribs/Dr Computer Scientist|Dr Computer Scientist]] ([[User talk:Dr Computer Scientist|talk]]) to last version by Walrus Ji
+2021-08-11T02:05:39+00:00,1038191147,1038089511,0,Hparashar1520,Fatuha,Vandalism by Bihariedits. Keeping informatn on Education
+2022-01-12T03:18:53+00:00,1065154346,1063745521,0,Chandan Guha,Ghorabandha,/* Geography */ Map relocated
+2021-09-16T10:31:48+00:00,1044651950,1041753130,0,Bharat0078,Hindi Belt,
+2021-12-25T09:18:02+00:00,1061976476,1060481729,0,Braganza,Hindi Belt,/* See also */
+2022-01-23T00:21:34+00:00,1067342145,1067154101,0,Headbomb,Information technology in India,-[[predatory publishing|predatory source]]
+2022-03-16T17:53:19+00:00,1077505692,1077503363,0,223.230.39.42,Information technology in India,/* Hyderabad */
+2022-02-24T19:00:57+00:00,1073809620,1073330541,0,Quangson306,IBM,Added article
+2022-01-23T13:01:06+00:00,1067434594,1067434160,0,2409:4042:4D99:6767:0:0:8ACA:3900,Information technology in India,
+2022-02-26T20:14:05+00:00,1074169801,1074091969,0,TaerkastUA,IBM,Unecessary. It's not referred to with the article. Not all companies whose designation is Corp. are referred to with the definite article.
+2022-02-08T16:39:44+00:00,1070664458,1070664406,0,Serols,Information technology in India,Reverted edits by [[Special:Contributions/RocketIndia|RocketIndia]] ([[User talk:RocketIndia|talk]]): disruptive edits ([[WP:HG|HG]]) (3.4.10)
+2021-12-19T14:21:14+00:00,1061076755,1061029717,0,Kuru,Information technology in India,not clear why this was removed
+2021-10-25T05:08:55+00:00,1051713858,1051274664,0,BD2412,Information technology in India,Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]]
+2022-01-09T13:13:27+00:00,1064644617,1063669586,0,202.78.236.72,Information technology in India,added more books
+2021-11-03T01:37:38+00:00,1053289279,1053239196,0,JCW-CleanerBot,Information technology in India,"/* top */[[User:JCW-CleanerBot#Logic|task]], replaced: work=[[Mint (newspaper)]] → work=[[Mint (newspaper)|Mint]] (2)"
+2021-10-21T14:58:07+00:00,1051092318,1051048992,0,202.78.236.15,Information technology in India,added information with source
+2022-01-22T01:25:34+00:00,1067154101,1064836605,0,Trappist the monk,Information technology in India,cite repair;
+2022-01-12T03:24:34+00:00,1065155105,1062957744,0,Chandan Guha,Jadugora,/* Geography */ Map relocated
+2021-09-10T15:29:05+00:00,1043531587,1039573497,0,Dreamy Jazz,Jadugora,Reverted edits by [[Special:Contribs/Platteranna|Platteranna]] ([[User talk:Platteranna|talk]]) to last version by Deepakjadu
+2021-11-14T10:44:22+00:00,1055184345,1054871467,0,2405:204:570A:6672:C4D0:4AE3:6BED:EA45,Information technology in India,/* History */
+2021-10-15T14:13:49+00:00,1050057002,1049747099,0,Dreamy Jazz,Jadugora,Reverted edits by [[Special:Contribs/Autotechuser|Autotechuser]] ([[User talk:Autotechuser|talk]]) to last version by Dreamy Jazz
+2021-10-25T04:58:47+00:00,1051712939,1050057012,0,MPGuy2824,"Jama Mosque, Ramgarh",Added coords
+2022-02-11T21:22:07+00:00,1071290937,1070505240,0,2601:547:C80:34B0:A06A:A446:B4CA:187,Jamshedpur,/* top */Fixed typo
+2021-12-08T10:35:18+00:00,1059251918,1059230507,0,Arjayay,Jamshedpur,Undid revision 1059230507 by [[Special:Contributions/Bivashmaji|Bivashmaji]] ([[User talk:Bivashmaji|talk]]) spamlink
+2021-10-15T14:34:04+00:00,1050059793,1050059116,0,Arjayay,Jamshedpur,Rm duplicate title
+2021-10-25T08:28:08+00:00,1051732490,1051732018,0,Noq,Jamshedpur,Reverted 1 edit by [[Special:Contributions/NOORROCK1|NOORROCK1]] ([[User talk:NOORROCK1|talk]]): No articles so not notable enough for inclusion here
+2022-01-24T06:43:10+00:00,1067590376,1067513447,0,49.37.68.119,Jamshedpur,Fixed typo. People from Jamshedpur are called Jamshedpurian and not Jamshedpuri.
+2022-01-31T15:19:30+00:00,1069080321,1067590376,0,116.72.208.68,Jamshedpur,Minor edit
+2021-10-30T05:41:33+00:00,1052619436,1052131356,0,Sang00500,Jamshedpur,/* top */Added links
+2021-12-16T04:50:25+00:00,1060543876,1060410609,0,Chandan Guha,Jamshedpur,/* Demographics */ Jamshedpur Urban Agglomeration
+2022-03-16T07:09:27+00:00,1077425592,1077234573,0,Citation bot,Jamshedpur,"Alter: template type. Add: title, date, newspaper. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1116/1771"
+2022-02-03T12:17:00+00:00,1069662502,1069594775,0,2409:4064:894:EC5B:0:0:1683:A8A5,Jharkhand,Fixed the area of Jharkhand\n79716 sqaure km
+2022-02-28T08:11:52+00:00,1074442101,1074440794,0,Retswerb,Jamshedpur,more basic c/e
+2021-09-21T09:39:20+00:00,1045582665,1045346490,0,Kingsman3,Jharkhand,/* Colonial Era */
+2021-09-15T16:09:11+00:00,1044507392,1044438140,0,27.56.52.135,Jharkhand,
+2022-02-21T15:40:14+00:00,1073215319,1073172066,0,Fylindfotberserk,Jharkhand,Reverted edits by [[Special:Contribs/2409:4060:2D86:7D90:0:0:550B:4607|2409:4060:2D86:7D90:0:0:550B:4607]] ([[User talk:2409:4060:2D86:7D90:0:0:550B:4607|talk]]) to last version by Citation bot
+2021-10-18T17:27:55+00:00,1050575179,1050574609,0,Sang00500,Jharkhand,"/* Cuisine */ Fixed grammar, Added links"
+2022-02-17T20:31:33+00:00,1072451057,1072429407,0,Sang00500,Jharkhand,"/* Festivals */ Fixed typo, Fixed grammar, Added links"
+2021-12-07T01:38:09+00:00,1059035760,1059004184,0,Dreamy Jazz,Jharkhand,Reverted edits by [[Special:Contribs/Myway User|Myway User]] ([[User talk:Myway User|talk]]) to last version by 49.37.67.5
+2021-11-23T04:36:05+00:00,1056718560,1056717047,0,Vif12vf,Jharkhand,Reverted edits by [[Special:Contribs/2405:201:A403:4033:DDCC:C93E:F0FD:C9EA|2405:201:A403:4033:DDCC:C93E:F0FD:C9EA]] ([[User talk:2405:201:A403:4033:DDCC:C93E:F0FD:C9EA|talk]]) to last version by Sang00500
+2021-10-12T04:35:38+00:00,1049494440,1049494317,0,2409:4042:4E84:5EBE:D9B1:A3EE:58A8:85F9,Jharkhand,
+2022-01-20T04:23:09+00:00,1066791254,1064848210,0,2405:201:A417:700A:1D59:ECF5:1467:BB9,Jharkhand,
+2022-02-12T11:00:02+00:00,1071392532,1071392510,0,ClueBot NG,Jharkhand,"Reverting possible vandalism by [[Special:Contribs/Sujitk706|Sujitk706]] to version by Vif12vf. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4128423) (Bot)"
+2022-03-11T14:06:38+00:00,1076512161,1076500490,0,Lancepark,Jharkhand,Undid revision 1076500490 by [[Special:Contributions/MeraAwaaz|MeraAwaaz]] ([[User talk:MeraAwaaz|talk]])
+2022-01-10T14:18:02+00:00,1064848210,1064846776,0,BrownHairedGirl,Jharkhand,Rescuing 24 sources and tagging 0 as dead.) #IABot (v2.0.8.5
+2021-10-21T11:27:20+00:00,1051062613,1051062499,0,Dev0745,Jharkhand,/* Culture */
+2022-03-17T14:26:56+00:00,1077660411,1076512161,0,Sang00500,Jharkhand,/* Culture */
+2021-10-29T08:16:05+00:00,1052461462,1051665866,0,2402:8100:200E:6105:A150:784E:EABB:CC19,Jharkhand,
+2021-09-26T12:49:03+00:00,1046587938,1045858357,0,Arjayay,Kandra,Rv sock
+2021-12-30T12:14:11+00:00,1062770723,1002813674,0,Chandan Guha,"Kadma, Jamshedpur",Police station
+2021-01-26T04:29:25+00:00,1002813674,1002813565,0,Gjs238,"Kadma, Jamshedpur",
+2022-02-01T11:24:51+00:00,1069260051,1069259400,0,2409:4063:2119:BFFD:C181:19FE:2B51:BCE1,Kanpur,
+2021-12-20T18:03:19+00:00,1061266497,1061224565,0,Lancepark,Kolkata,/* Etymology */ thats not how its written (check the city's Bengali page & other sites)
+2022-02-23T04:41:37+00:00,1073524025,1073523422,0,Ohnoitsjamie,Kolkata,not in source
+2022-01-24T21:29:25+00:00,1067725096,1067617954,0,पदाति,Kolkata,Copyedit
+2020-12-14T17:48:04+00:00,994221988,994221668,0,2405:201:A003:9814:103D:D31E:A14:FA78,Kansbahal,
+2021-09-30T10:39:08+00:00,1047343326,1046117354,0,111.88.177.174,List of Muslim states and dynasties,
+2021-09-24T01:53:07+00:00,1046117354,1046117175,0,109.12.29.1,List of Muslim states and dynasties,Correcting mozabite dynasty name and link source
+2021-10-21T09:39:50+00:00,1051050165,1049941056,0,GreenC bot,Kolkata,Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-12-01T11:49:51+00:00,1058091601,1057485061,0,Rodw,List of Muslim states and dynasties,Disambiguating links to [[Islamic Emirate of Afghanistan]] (link changed to [[Islamic Emirate of Afghanistan (1996–2001)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2022-02-03T23:09:08+00:00,1069759068,1066471954,0,Citation bot,List of World Trade Centers,Add: website. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 841/2173
+2021-10-09T05:47:48+00:00,1048990788,1043889663,0,LegendaryLim,List of World Trade Centers,/* List */ msia
+2021-11-09T11:50:29+00:00,1054329154,1054325776,0,Payalahuja448,List of World Trade Centers,Their link was removed already and it was showing a broken link so that I updated the relevant link.
+2021-08-03T03:57:30+00:00,1036859837,1036859799,0,171.253.141.121,List of company towns,/* Vietnam */
+2021-12-04T21:49:38+00:00,1058652575,1046538994,0,49.37.73.190,List of neighbourhoods of Jamshedpur,/* Mango (Jamshedpur)|Mango */Fixed typo
+2022-01-03T18:22:55+00:00,1063561681,1063333744,0,Northamerica1000,List of schools in India,"/* Kanpur */ removed [[Seth Anandram Jaipuria School, Kanpur]]. Soft deleted per [[Wikipedia:Articles for deletion/Seth Anandram Jaipuria School, Kanpur]]"
+2022-01-16T06:08:33+00:00,1065972699,1063561681,0,2409:4051:4E87:5C32:0:0:AD0A:20D,List of schools in India,/* National chains */
+2021-09-26T06:18:46+00:00,1046538994,1045025782,0,27.7.160.220,List of neighbourhoods of Jamshedpur,/* Sakchi */
+2022-02-14T14:00:24+00:00,1071818087,1068215980,0,212.219.80.200,List of special economic zones in India,/* List of State-wise Exporting SEZs */
+2022-03-12T07:26:54+00:00,1076655582,1076539506,0,BrownHairedGirl,List of special economic zones in India,tag with {{[[Template:Bare URL PDF|Bare URL PDF]]}}
+2021-10-30T19:38:20+00:00,1052725672,1050729823,0,Dreamy Jazz,List of special economic zones in India,Reverted edits by [[Special:Contribs/Dr Computer Scientist|Dr Computer Scientist]] ([[User talk:Dr Computer Scientist|talk]]) to last version by Ram Dhaneesh
+2022-01-27T07:32:43+00:00,1068215980,1067484191,0,49.37.41.140,List of special economic zones in India,
+2021-09-27T14:28:17+00:00,1046808005,1046807719,0,Ram Dhaneesh,List of special economic zones in India,
+2021-10-22T14:28:19+00:00,1051273507,1050308406,0,49.205.82.137,List of tech parks in Chennai,fixed the name
+2022-01-30T23:58:18+00:00,1068955241,1061735534,0,Explicit,List of tech parks in Chennai,Removing link(s) [[Wikipedia:Articles for deletion/Plintron]] closed as delete ([[WP:XFDC#4.0.13|XFDcloser]])
+2021-10-15T14:13:57+00:00,1050057016,1048704545,0,Dreamy Jazz,List of tourist attractions in Mysore,Reverted edits by [[Special:Contribs/Autotechuser|Autotechuser]] ([[User talk:Autotechuser|talk]]) to last version by Reenashreeji
+2021-12-16T12:53:46+00:00,1060588352,1060548846,0,Chandan Guha,Mango (Jamshedpur),/* Demographics */ Non-working reference taken off
+2021-09-14T16:24:23+00:00,1044315165,1044298475,0,Vijaydanny,Lists of tallest buildings in India,added a better  picture of kolkata's skyline
+2021-12-07T01:37:58+00:00,1059035729,1057716193,0,Dreamy Jazz,LuLu Group International,Reverted edits by [[Special:Contribs/Myway User|Myway User]] ([[User talk:Myway User|talk]]) to last version by 92.97.97.81
+2021-11-14T12:03:17+00:00,1055191290,1055178563,0,Arjayay,Lists of tallest buildings in India,Undid revision 1055178563 by [[Special:Contributions/2409:4073:4E12:E54E:9001:EA9B:DE9D:42C5|2409:4073:4E12:E54E:9001:EA9B:DE9D:42C5]] ([[User talk:2409:4073:4E12:E54E:9001:EA9B:DE9D:42C5|talk]]) Unexplained deletion
+2021-11-03T12:58:51+00:00,1053362211,1053360977,0,2409:4073:4D8A:C18D:7C86:64B7:2AF1:9A75,LuLu Group International,
+2021-11-24T18:07:32+00:00,1056980882,1056980867,0,ClueBot NG,Madurai,"Reverting possible vandalism by [[Special:Contribs/Yogeshnerox|Yogeshnerox]] to version by Arjayay. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4083038) (Bot)"
+2021-11-02T17:34:21+00:00,1053227108,1049700278,0,CommonsDelinker,Mango (Jamshedpur),Removing [[:c:File:Jamshedpur_skyline1.png|Jamshedpur_skyline1.png]]; it has been deleted from Commons by [[:c:User:P199|P199]] because: per [[:c:Commons:Deletion requests/Files uploaded by Caretter|]].
+2021-10-15T14:14:12+00:00,1050057054,1049900489,0,Dreamy Jazz,Madurai,Reverted edits by [[Special:Contribs/Autotechuser|Autotechuser]] ([[User talk:Autotechuser|talk]]) to last version by Ram Dhaneesh
+2022-01-14T22:34:58+00:00,1065713919,1065155605,0,I dream of horses,Mango (Jamshedpur),"[[WP:AWB|Autowikibrowser run]] through [[WP:RANPP|pages found randomely]], removed stub tag, [[WP:AWB/T|typo(s) fixed]]: However  → However,"
+2021-09-22T08:22:06+00:00,1045757026,1045741024,0,DaxServer,Mango (Jamshedpur),Rollback edit(s) by [[Special:Contributions/Sekh Akbar|Sekh Akbar]] ([[User_talk:Sekh Akbar|talk]]): [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16.1)]]
+2021-10-11T23:21:50+00:00,1049457353,1049370858,0,Malcolmxl5,Moradabad,Removing link(s) / list item(s) [[Wikipedia:Articles for deletion/Zainul Abideen (athlete)]] closed as delete ([[WP:XFDC#4.0.12|XFDcloser]])
+2021-11-13T11:56:25+00:00,1055030382,1054677812,0,Vijethnbharadwaj,Moradabad,Added link
+2021-12-05T16:28:04+00:00,1058786897,1058786796,0,Deor,Moradabad,/* Road */ &nbsp;
+2021-10-24T18:30:22+00:00,1051640913,1051479335,0,GreenC bot,Mumbai,Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-01-25T17:12:10+00:00,1067886254,1067881743,0,Joy goel,Mumbai,
+2021-10-06T19:00:42+00:00,1048572759,1048395653,0,Joy goel,Mumbai,/* Economy */ updated the Gdp of Mumbai with reliable sources
+2021-09-14T20:30:37+00:00,1044358015,1044335886,0,Joy goel,Mumbai,"Added an image of the Sobo skyline, mumbai"
+2022-02-25T09:13:54+00:00,1073906133,1073268247,0,InternetArchiveBot,Mumbai,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.6
+2022-03-17T13:09:50+00:00,1077650305,1077646723,0,Fylindfotberserk,Mumbai,/* Language */ DAB
+2021-09-20T05:50:05+00:00,1045362991,1045084953,0,Zeex.rice,Mumbai,"Changing [[Wikipedia:Short description|short description]] from ""Megacity and capital of Maharashtra , India"" to ""Capital of Maharashtra, India"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-11-10T14:49:07+00:00,1054523445,1054522804,0,Arjayay,Mysore,Undid revision 1054522804 by [[Special:Contributions/223.228.62.204|223.228.62.204]] ([[User talk:223.228.62.204|talk]]) Unsourced
+2021-12-29T18:57:03+00:00,1062651814,1062651788,0,Serols,Mysore,Reverted edits by [[Special:Contributions/2406:7400:71:2A60:0:0:0:100|2406:7400:71:2A60:0:0:0:100]] ([[User talk:2406:7400:71:2A60:0:0:0:100|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-12-27T19:04:19+00:00,1062319267,1062261119,0,Joy goel,Mumbai,alignment of sources
+2021-12-22T22:05:42+00:00,1061630761,1061520434,0,Arjayay,Mysore,Rv sock
+2022-02-26T14:41:38+00:00,1074121132,1074121079,0,Serols,Mysore,Reverted edits by [[Special:Contributions/MagicalTornado|MagicalTornado]] ([[User talk:MagicalTornado|talk]]): disruptive edits ([[WP:HG|HG]]) (3.4.10)
+2021-10-11T18:43:35+00:00,1049419372,1049418268,0,Arjayay,Mysore,Reverted edits by [[Special:Contribs/117.254.96.165|117.254.96.165]] ([[User talk:117.254.96.165|talk]]) to last version by Arjayay
+2021-09-08T19:52:56+00:00,1043184704,1043184397,0,Dirkbb,Mysore,Reverted 1 edit by [[Special:Contributions/27.114.135.85|27.114.135.85]] ([[User talk:27.114.135.85|talk]]) to last revision by Arjayay
+2021-11-14T08:41:17+00:00,1055173103,1055165385,0,Rasnaboy,Mysore,Undid revision 1055165385 by [[Special:Contributions/223.228.62.12|223.228.62.12]] ([[User talk:223.228.62.12|talk]])
+2021-10-05T14:17:48+00:00,1048341654,1048281715,0,Arjayay,Mysore,Reverted edits by [[Special:Contribs/2401:4900:4BCD:BAAF:1:0:6ADA:263E|2401:4900:4BCD:BAAF:1:0:6ADA:263E]] ([[User talk:2401:4900:4BCD:BAAF:1:0:6ADA:263E|talk]]) to last version by Talketive
+2022-02-06T23:35:36+00:00,1070335797,1070334717,0,Elinruby,Mysore,/* Culture */ ce
+2021-11-18T13:09:07+00:00,1055893392,1055846445,0,Arjayay,Mysore,Keep the spellings as per our article titles
+2021-02-21T07:13:52+00:00,1008040219,1000912130,0,2405:205:1489:A8E:0:0:25CB:C0AD,National Highway 118 (India),
+2021-11-27T01:00:00+00:00,1057339296,1057337210,0,AnomieBOT,National Highway 118 (India),Dating maintenance tags: {{RJL}}
+2022-03-11T22:30:46+00:00,1076592708,1075888114,0,MrOllie,Noida,citespam
+2021-09-18T15:40:48+00:00,1045061181,1045031792,0,JRDkg,Noida,Restored revision 1044203926 by [[Special:Contributions/JRDkg|JRDkg]] ([[User talk:JRDkg|talk]]): Reverting to a better version
+2021-10-13T12:07:24+00:00,1049713667,1049713310,0,Arjayay,Noida,Undid revision 1049713310 by [[Special:Contributions/Arjayay|Arjayay]] ([[User talk:Arjayay|talk]]) Rv myself
+2021-10-23T20:12:26+00:00,1051487547,1051487501,0,Arjayay,Noida,/* Colleges and universities */ Rm addition without an article = No inclusion - as it clearly states
+2021-10-30T19:36:55+00:00,1052725469,1051938596,0,Dreamy Jazz,Oragadam,Reverted edits by [[Special:Contribs/FasterUser|FasterUser]] ([[User talk:FasterUser|talk]]) to last version by AnomieBOT
+2022-01-18T07:07:29+00:00,1066409271,1065928671,0,Mettle30,Patna,
+2021-10-07T17:57:04+00:00,1048740579,1047408137,0,GünniX,Parsudih,Reflist
+2021-12-07T13:13:53+00:00,1059102567,1058838712,0,Arjayay,Pharmaceutical industry in India,Rv sock
+2021-09-02T11:33:09+00:00,1041938459,1041938396,0,Materialscientist,Pharmaceutical industry in India,Reverted edits by [[Special:Contributions/Shashank_Gupta_001|Shashank_Gupta_001]] ([[User talk:Shashank_Gupta_001|talk]]): addition of unnecessary/inappropriate [[WP:EL|external links]] ([[WP:HG|HG]]) (3.4.10)
+2022-01-25T11:27:33+00:00,1067833010,1067818506,0,Kahtar,Pune,"Repair CS1 error(s), replaced: |website=https:// → |website="
+2022-01-14T06:48:31+00:00,1065575415,1065560427,0,Johnny Rose 11,Pune,Edited article to match the weather box.
+2021-10-07T07:56:44+00:00,1048659082,1047963255,0,N Panama 84534,Raghubar Das,
+2022-01-16T00:54:04+00:00,1065928671,1065635121,0,95.236.231.235,Patna,"Correction: ""business"""
+2022-02-28T15:20:58+00:00,1074495071,1066732407,0,Dhruv edits,Raghubar Das,
+2022-01-20T15:17:08+00:00,1066873621,1066639795,0,Chris the speller,Raghunath Murmu,cap
+2022-02-20T13:09:19+00:00,1072990174,1066873621,0,89.80.238.24,Raghunath Murmu,"useless, unencyclopedic statement"
+2022-01-05T16:34:04+00:00,1063923092,1046550452,0,Woko Sapien,"Raj Bhavan, Ranchi",
+2021-07-19T08:14:14+00:00,1034334635,1015532669,0,Flashthomsom,"Raj Bhavan, Ranchi",Changed the name of current governer
+2022-02-12T20:14:24+00:00,1071473175,1071193470,0,AnomieBOT,Rajinikanth,Dating maintenance tags: {{Dead Youtube links}}
+2022-01-18T13:39:13+00:00,1066462649,1066414170,0,Fbergo,Ranchi,"Restored revision 1066409671 by [[Special:Contributions/Mettle30|Mettle30]] ([[User talk:Mettle30|talk]]): Rv, no flags in infoboxes per [[MOS:INFOBOXFLAG]]"
+2021-11-19T05:49:08+00:00,1056014285,1038944557,0,Rasnaboy,Royapettah,/* Transportation */ Wikilink
+2021-08-15T18:26:13+00:00,1038944557,1017794826,0,Venkat TL,Royapettah,"Copy edit, remove unsourced"
+2021-08-10T12:55:42+00:00,1038088331,1026851976,0,Citation bot,Sahebganj,Alter: work. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 779/2177
+2021-10-09T18:14:31+00:00,1049076939,1049076787,0,116.72.211.208,Ranchi,/* Health */Added new content
+2022-01-19T01:41:28+00:00,1066573890,1062451491,0,Hmains,Sahebganj,fix fact
+2022-02-24T17:09:05+00:00,1073795014,1072747786,0,Sang00500,Sahebganj district,
+2021-09-26T06:41:29+00:00,1046541351,1045824409,0,Venkat TL,Sakchi,Reverting edit(s) by [[Special:Contributions/Warmanuser|Warmanuser]] ([[User_talk:Warmanuser|talk]]) to rev. 1036053278 by BD2412: This account is currently blocked [[w:en:WP:RW|(RW 16.1)]]
+2021-06-19T04:08:54+00:00,1029300183,1024949046,0,C1MM,Sahebganj district,/* Demographics */ Added languages pie chart
+2021-10-13T15:43:49+00:00,1049740966,1049740951,0,ClueBot NG,"Salem, Tamil Nadu","Reverting possible vandalism by [[Special:Contribs/2409:4072:6217:E169:A46D:D7F6:8CDA:7B67|2409:4072:6217:E169:A46D:D7F6:8CDA:7B67]] to version by Serols. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4057142) (Bot)"
+2021-09-17T16:17:40+00:00,1044891643,1044891154,0,Venkat TL,"Salem, Tamil Nadu",Add Link
+2021-12-08T14:49:32+00:00,1059280083,1059278468,0,Venkat TL,"Salem, Tamil Nadu",Try a shorter version by trimming other districts.
+2022-01-13T08:03:20+00:00,1065384750,1065383501,0,Writter18,"Salem, Tamil Nadu",
+2021-12-15T20:14:30+00:00,1060481939,1060467752,0,Dreamy Jazz,Santali cinema,Reverted edits by [[Special:Contribs/JSR USER|JSR USER]] ([[User talk:JSR USER|talk]]) to last version by 2409:4062:4E1B:21C3:4C9:D685:BFA9:9151
+2021-11-10T11:25:14+00:00,1054500553,1052725412,0,Aithus,Santali cinema,"Adding [[Wikipedia:Short description|short description]]: ""Santali-language film industry"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-11-25T21:18:15+00:00,1057163809,1056507825,0,2409:4062:4E1B:21C3:4C9:D685:BFA9:9151,Santali cinema,Also
+2022-02-11T18:57:42+00:00,1071271634,1060481939,0,Citation bot,Santali cinema,Alter: title. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Anas1712 | #UCB_webform 1892/2198
+2021-10-30T19:38:26+00:00,1052725689,1051037948,0,Dreamy Jazz,Saraidhela,Reverted edits by [[Special:Contribs/AI User|AI User]] ([[User talk:AI User|talk]]) to last version by Qwerfjkl (bot)
+2021-09-10T15:29:09+00:00,1043531605,1039569103,0,Dreamy Jazz,Saraidhela,Reverted edits by [[Special:Contribs/Platteranna|Platteranna]] ([[User talk:Platteranna|talk]]) to last version by Chandan Guha
+2022-01-19T22:52:48+00:00,1066745953,1066481053,0,Dreamy Jazz,Saraidhela,Reverted edits by [[Special:Contribs/Krrisshh x|Krrisshh x]] ([[User talk:Krrisshh x|talk]]) to last version by Dreamy Jazz
+2021-10-12T02:52:17+00:00,1049483122,1039012439,0,MaxA-Matrix,Seraikela Kharsawan district,/* History */
+2021-12-15T20:13:15+00:00,1060481797,1059274449,0,Dreamy Jazz,Seraikela Kharsawan district,Reverted edits by [[Special:Contribs/Ultramanner|Ultramanner]] ([[User talk:Ultramanner|talk]]) to last version by Arjayay
+2021-09-10T15:29:07+00:00,1043531601,1039569726,0,Dreamy Jazz,Sindri (Dhanbad),Reverted edits by [[Special:Contribs/Platteranna|Platteranna]] ([[User talk:Platteranna|talk]]) to last version by AdivasiKudmi
+2021-12-02T07:45:38+00:00,1058232831,1057922750,0,2409:4060:E9F:815:0:0:558B:A501,Seraikela Kharsawan district,/* Demographics */
+2022-01-19T22:52:43+00:00,1066745930,1066626932,0,Dreamy Jazz,"Sonari, Jamshedpur",Reverted edits by [[Special:Contribs/Krrisshh x|Krrisshh x]] ([[User talk:Krrisshh x|talk]]) to last version by Dreamy Jazz
+2021-10-02T17:57:33+00:00,1047816588,1043531601,0,202.168.85.226,Sindri (Dhanbad),/* Technical institute */ Added latest updates regarding the college
+2021-10-15T14:13:50+00:00,1050057003,1049843983,0,Dreamy Jazz,"Sonari, Jamshedpur",Reverted edits by [[Special:Contribs/Autotechuser|Autotechuser]] ([[User talk:Autotechuser|talk]]) to last version by Arjayay
+2022-02-05T05:09:56+00:00,1070006287,1058736053,0,Billjones94,Sriperumbudur,
+2021-12-05T08:19:37+00:00,1058736053,1052725466,0,86.98.58.11,Sriperumbudur,
+2021-09-25T02:42:02+00:00,1046323635,1046323548,0,Arjuncshe,TVS Motor Company,
+2021-12-01T10:05:40+00:00,1058082416,1055331865,0,2409:4065:D1B:A2E0:CA3C:878A:B56:1891,TVS Motor Company,/* Characteristics of TVS Motor Company */
+2021-10-15T07:14:41+00:00,1050012201,1050007850,0,Sirdog,Talk:Chennai,/* Extended-confirmed-protected edit request on 15 October 2021 */ Responded to edit request
+2022-03-04T04:05:49+00:00,1075136514,1071602309,0,GreenC bot,Talk:Chennai,Add {{[[Template:reflist-talk|reflist-talk]]}} to [[Talk%3AChennai#History%20%20Siege%20of%20Madras%201758%2D59%3A%20%20Who%20was%20in%20charge%3F|#History  Siege of Madras 1758-59:  Who was in charge?]] (via [[User:GreenC bot/Job 8|reftalk]] bot)
+2021-09-04T00:12:02+00:00,1042249798,1041007630,0,John M Wolfson,Talk:Chennai,Core city and regional capital
+2021-10-13T09:47:38+00:00,1049700280,1049681992,0,Noq,Talk:Mango (Jamshedpur),"Noq moved page [[Talk:Maango, Jamshedpur]] to [[Talk:Mango (Jamshedpur)]] over redirect: back to match name used in article and refs - needs a better argument than ""this could be better"" before moving it"
+2021-08-05T14:11:46+00:00,1037268109,993217602,0,Noq,Talk:Mango (Jamshedpur),Noq moved page [[Talk:Maango]] to [[Talk:Mango (Jamshedpur)]] over redirect: Back to original name and one used in the article
+2021-01-20T06:10:12+00:00,1001558129,954451886,0,Monkbot,Taratala,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 3 templates: hyphenate params (3×);
+2020-05-02T03:09:20+00:00,954379245,912259473,0,JJMC89,Template:Bhubaneswar topics,cat moved
+2021-12-07T01:38:03+00:00,1059035736,1058754101,0,Dreamy Jazz,Template:Bhubaneswar topics,Reverted edits by [[Special:Contribs/Myway User|Myway User]] ([[User talk:Myway User|talk]]) to last version by JJMC89
+2021-12-15T13:15:28+00:00,1060430741,1060430672,0,Rasnaboy,Teynampet,/* Famous Places */ Correcting heading
+2021-10-30T19:36:55+00:00,1052725473,1051937410,0,Dreamy Jazz,Teynampet,Reverted edits by [[Special:Contribs/FasterUser|FasterUser]] ([[User talk:FasterUser|talk]]) to last version by 2A02:3037:40F:91D4:2:2:7DE4:4E0F
+2021-12-03T01:00:47+00:00,1058350752,1052725473,0,2402:3A80:1915:7EC6:41C7:8E4D:9AB5:9469,Teynampet,/* Famous Places */
+2021-08-01T18:08:58+00:00,1036621022,1036613002,0,DontCallMeByMyName,Thiruvanmiyur,Fixed / removed unverified info
+2021-12-11T08:24:39+00:00,1059737091,1059737065,0,Rasnaboy,Thiruvanmiyur,/* Facilities and attractions */ Correcting image tag
+2021-11-30T01:42:29+00:00,1057852638,1055030075,0,MarnetteD,Tiruchirappalli,rmv per [[Wikipedia:Templates_for_discussion/Log/2021_November_20#Template:Urban_agglomerations_in_India]]
+2022-01-20T06:15:16+00:00,1066805501,1066499424,0,BrownHairedGirl,Tiruchirappalli,{{[[Template:Bare URL inline|Bare URL inline]]}} refs to sites where [[WP:REFLINKS]] won't get title. See [[User:BrownHairedGirl/No-reflinks websites]]
+2021-10-10T23:33:19+00:00,1049281395,1049036822,0,2600:8804:6600:3200:7B1E:68A4:7747:A64B,Tiruchirappalli,Grammar fix
+2021-10-18T17:55:55+00:00,1050578859,1048924445,0,Sang00500,Tourism in Jharkhand,"/* Culture */ Fixed grammar, Added links, LITTI CHOKHA IS NOT A JHARKHANDI DISH AND IT IS PREPARED BY PEOPLE OF BIHAR AND BIHARI WHO SETTLED DOWN IN JHARKHAND."
+2022-02-09T19:10:06+00:00,1070879717,1069596660,0,2409:4064:4D0A:C62D:CB6:E4BA:FB27:9490,Tourism in Jharkhand,/* Dams */
+2021-08-29T01:52:30+00:00,1041177312,1039859013,0,Bender the Bot,Tourism in Jharkhand,"/* Culture */HTTP to HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/"
+2021-10-05T08:53:10+00:00,1048304594,1046588749,0,Johnsoniensis,Tourist attractions in Mangalore,/* Historical Places */ places
+2021-12-18T13:48:15+00:00,1060915348,1060711739,0,Rasnaboy,Triplicane,Adding vernacular term
+2022-02-16T11:18:46+00:00,1072189647,1060915348,0,BrownHairedGirl,Triplicane,{{[[Template:Dead link|Dead link]]}} tag on [[WP:Bare URLs|bare URL]] refs which return [[HTTP 404]] or [[List_of_HTTP_status_codes#410|410]]
+2022-01-19T22:51:04+00:00,1066745691,1066289930,0,Dreamy Jazz,User talk:An Honest User,Adding sockpuppetry block notice per [[:w:en:Wikipedia:Sockpuppet investigations/Weareme234]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2021-10-30T19:35:39+00:00,1052725232,1051576319,0,Dreamy Jazz,User talk:FasterUser,Adding sockpuppetry block notice per [[:w:en:Wikipedia:Sockpuppet investigations/Weareme234]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2022-02-17T03:46:21+00:00,1072324209,1071412532,0,B-bot,User talk:JayB91,Notification that [[:File:Uttaran.jpg]] is orphaned and will be deleted in seven days per [[WP:CSD#F5]]
+2021-10-21T06:28:52+00:00,1051027797,1049409494,0,JayB91,User talk:JayB91,
+2021-10-31T23:09:00+00:00,1052934088,1052934025,0,Vanjagenije,User:FasterUser,Adding sockpuppetry tag per [[:w:en:Wikipedia:Sockpuppet investigations/Weareme234]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2022-02-08T16:00:11+00:00,1070657855,1070656401,0,157.51.16.200,Uttarakhand,/* Sports */
+2021-09-25T03:15:06+00:00,1046327839,1046325491,0,TheNepalaya,Uttarakhand,Undid revision 1046325491 by [[Special:Contributions/2409:4063:6E17:B5EF:0:0:E908:A012|2409:4063:6E17:B5EF:0:0:E908:A012]] ([[User talk:2409:4063:6E17:B5EF:0:0:E908:A012|talk]])  disruptive edits
+2021-10-09T08:03:02+00:00,1049002742,1019095779,0,Citation bot,Vadapalani,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1652/2193
+2021-12-15T20:13:13+00:00,1060481793,1059729846,0,Dreamy Jazz,Vandalur,Reverted edits by [[Special:Contribs/Ultramanner|Ultramanner]] ([[User talk:Ultramanner|talk]]) to last version by WikiCleanerBot
+2022-01-22T08:58:38+00:00,1067210573,1059737282,0,115.97.93.241,Vadapalani,/* Film industry */
+2022-01-17T10:58:31+00:00,1066230591,1060481793,0,BrownHairedGirl,Vandalur,Converted 1 [[WP:Bare URLs|bare URL]] web.archive.org archived ref to {{[[Template:Cite web|Cite web]]}}
+2018-09-02T23:08:36+00:00,857774502,857774301,0,Dl2000,Adityapur,check/upd ref
+2021-07-05T04:02:58+00:00,1032026109,1023987648,0,I2p0s21,Adityapur,
+2021-11-17T17:36:08+00:00,1055765798,1054274140,0,Sahajitbro,Abbas (actor),
+2021-02-23T09:25:28+00:00,1008442310,1006712792,0,122.163.20.108,Asansol,
+2021-02-21T06:53:45+00:00,1008038100,1006515160,0,157.51.98.235,Abbas (actor),
+2021-06-02T21:42:39+00:00,1026540024,1019572371,0,Sadenar40000,Adityapur Industrial Area,"Added coords, removed coords missing template"
+2022-01-21T03:03:53+00:00,1066978651,1066087025,0,Kailash29792,Abbas (actor),"/* Career */clean up, [[WP:AWB/T|typo(s) fixed]]: mid 2000s → mid-2000s"
+2018-02-02T22:32:14+00:00,823709391,803172983,0,Iridescent,Adityapur,"/* Civic amenities */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: Metropolitian → Metropolitan using [[Project:AWB|AWB]]"
+2019-10-28T15:26:12+00:00,923437352,923437271,0,119.30.39.146,Abbas (actor),
+2020-01-10T18:05:01+00:00,935132651,933502769,0,Anish12321,Asansol,/* Railways */
+2021-03-23T18:22:42+00:00,1013835055,1013754213,0,Arimaboss,Ahmedabad,
+2020-12-07T12:04:06+00:00,992844366,992621367,0,Weareme234,Adityapur Industrial Area,
+2020-06-03T19:38:37+00:00,960586977,956540081,0,TamilMirchi,Abbas (actor),/* Filmography */ notes
+2020-09-16T16:56:27+00:00,978732834,978032496,0,2409:4073:410:5B65:A901:BEC2:D372:7F61,Abbas (actor),/* Career */
+2021-02-17T14:42:58+00:00,1007321733,1007321671,0,CLCStudent,Aurangabad,Reverted 1 edit by [[Special:Contributions/103.230.149.163|103.230.149.163]] ([[User talk:103.230.149.163|talk]]) to last revision by CLCStudent
+2021-06-17T20:16:34+00:00,1029086419,1026968913,0,Renamed user 6196787986447,Asansol,Added pixels
+2019-11-13T09:42:13+00:00,925951268,925950946,0,Sohom Datta,Aurangabad,Undid revision 925950946 by [[Special:Contributions/2402:8100:30AC:CAC8:4EDB:BEE3:24B7:FB09|2402:8100:30AC:CAC8:4EDB:BEE3:24B7:FB09]] ([[User talk:2402:8100:30AC:CAC8:4EDB:BEE3:24B7:FB09|talk]]) nah it isn't
+2018-09-14T12:37:16+00:00,859500323,858621790,0,45.250.227.114,Aurangabad,
+2020-03-01T07:30:56+00:00,943329733,943329705,0,Nyook,Aurangabad,Reverted 1 edit by [[Special:Contributions/78.101.166.52|78.101.166.52]] ([[User talk:78.101.166.52|talk]]) to last revision by Fylindfotberserk ([[WP:TW|TW]])
+2019-10-14T14:07:58+00:00,921201196,920582587,0,203.192.219.49,Automotive industry in India,Added links
+2018-08-21T20:15:59+00:00,855934378,854481056,0,2405:204:560C:6DB:A143:19F3:BE73:1101,Asansol,/* Railway */
+2019-12-12T22:35:02+00:00,930498772,930457843,0,Dhtwiki,Automotive industry in India,Undid revision 930457651 by [[Special:Contributions/106.197.34.189|106.197.34.189]] ([[User talk:106.197.34.189|talk]]) unexplained removal of sourced material
+2020-09-15T02:30:01+00:00,978463654,978461419,0,2409:4041:E1C:956E:23EE:5D0C:59FF:F643,Automotive industry in India,/* Manufacturing facilities */
+2020-10-21T19:55:35+00:00,984735392,983465385,0,Dawnseeker2000,Automotive industry in India,"date format audit, minor formatting"
+2020-04-27T21:28:52+00:00,953562302,953221567,0,88.71.74.160,Automotive industry in India,
+2021-12-31T12:38:03+00:00,1062964158,1061102257,0,117.200.197.82,Automotive industry in India,/* Gujarat */
+2022-02-24T03:25:07+00:00,1073700583,1073442251,0,PinkeyM29,Aurangabad,Corrected PIN
+2020-04-05T20:51:05+00:00,949325357,948640686,0,LittleWink,Automotive industry in India,Repairing links to [[Rolls-Royce]] (link changed to [[Rolls-Royce Cullinan]])
+2020-06-14T17:04:20+00:00,962538953,962235189,0,Andra Febrian,Automotive industry in India,/* Statistics[167] */
+2019-06-07T11:42:16+00:00,900753311,900751506,0,67.165.190.91,Automotive industry in India,/* Exports */ Roxor; Canada
+2020-06-02T12:35:18+00:00,960344602,960344030,0,Nkon21,Bangalore,"adjust montage, better palace image"
+2020-08-13T10:18:22+00:00,972686325,969928444,0,Andra Febrian,Automotive industry in India,/* Vehicles currently manufactured in India */
+2018-09-23T14:25:31+00:00,860854107,860854065,0,Phenolla,Bangalore,Reverted edits by [[Special:Contributions/2405:204:5080:7A1E:C19C:CF04:95FA:9BA5|2405:204:5080:7A1E:C19C:CF04:95FA:9BA5]] ([[User talk:2405:204:5080:7A1E:C19C:CF04:95FA:9BA5|talk]]) ([[WP:HG|HG]]) (3.4.4)
+2018-07-11T14:33:27+00:00,849813183,849202722,0,ElHef,Bangalore,/* Universities */ +IFIM per talk page request
+2018-07-27T18:04:45+00:00,852263024,851666228,0,Ankur Bhandari,Bangalore,/* Demographics */Fixed typo
+2022-01-01T00:24:53+00:00,1063061983,1062092465,0,Robert1947,Bangalore,/* Language */ shorten
+2019-08-15T06:59:03+00:00,910896637,910670239,0,Vinay66,Bangalore,
+2020-04-20T18:23:00+00:00,952129702,952091789,0,GoingBatty,Bangalore,"[[WP:AWB/GF|General fixes]] and manual cleanup, replaced: [[Oracle]] → [[Oracle Corporation|Oracle]], [[WP:AWB/T|typo(s) fixed]]: Reserch → Research,  ,  → ,"
+2021-10-15T13:57:45+00:00,1050054739,1049245614,0,Illegitimate Barrister,Bangalore,/* top */
+2019-06-18T16:05:52+00:00,902405599,901606687,0,Arimaboss,Bangalore,
+2020-04-05T13:15:57+00:00,949258246,949240971,0,Karnatakapolatics,Bangalore,Unwanted
+2020-02-28T04:15:39+00:00,942990553,942990518,0,Serafart,Bhubaneswar,Reverted 1 edit by [[Special:Contributions/Parag majumdar|Parag majumdar]] ([[User talk:Parag majumdar|talk]]) to last revision by Bishalkumarr ([[WP:TW|TW]])
+2021-05-22T22:43:37+00:00,1024567236,1024327412,0,Ssbbplayer,Bhubaneswar,Undid revision 1020856398 by [[Special:Contributions/2409:4062:2197:74B4:2884:AC2C:E250:3B79|2409:4062:2197:74B4:2884:AC2C:E250:3B79]] ([[User talk:2409:4062:2197:74B4:2884:AC2C:E250:3B79|talk]])
+2018-08-06T06:02:56+00:00,853663573,852263024,0,Aatoturk,Bangalore,A closer description
+2020-04-10T12:41:12+00:00,950142410,949674040,0,Someone20111,Bhubaneswar,/* Air */
+2018-11-10T16:36:40+00:00,868193243,867750005,0,157.41.43.30,Bhubaneswar,/* Road */
+2019-08-09T06:25:59+00:00,910030858,910030730,0,Ramesh.kambleadtbaramati,Bhubaneswar,/* Media */
+2020-12-20T12:51:50+00:00,995327669,995309777,0,Prolix,Bhubaneswar,Reverting edit(s) by [[Special:Contributions/Jacka tiger|Jacka tiger]] ([[User_talk:Jacka tiger|talk]]) to rev. 993771014 by Prolix: Addition of unnecessary/inappropriate [[WP:EL|external links]] [[w:en:WP:RW|(RW 16)]]
+2020-08-20T11:23:56+00:00,973981266,973981136,0,182.66.9.192,Bhubaneswar,/* Sports */
+2019-08-13T17:08:49+00:00,910670239,908501138,0,Madds212,Bangalore,Capitalization
+2021-07-21T18:26:43+00:00,1034771830,1034718206,0,Yamaguchi先生,Bhubaneswar,Reverted edits by [[Special:Contribs/14.192.54.92|14.192.54.92]] ([[User talk:14.192.54.92|talk]]) to last version by Hillary1900
+2019-01-25T07:21:40+00:00,880086748,879849756,0,Sharmaaadi,Bhubaneswar,Added Category:Smart cities in India
+2018-09-26T01:58:17+00:00,861236741,861191944,0,Graham87,Bhubaneswar,"add ""the"""
+2018-12-14T01:57:25+00:00,873620602,873321536,0,2405:205:A008:C4DF:0:0:954:20A5,Bhubaneswar,
+2019-04-25T10:30:13+00:00,894057558,893883114,0,Vschandrakanta 1994,Bhubaneswar,"Adding Bhubaneswar in odia script, adding some hotel names and some information in table"
+2020-07-17T17:02:04+00:00,968165909,928229401,0,106.210.38.199,Bihta,
+2018-09-16T13:55:31+00:00,859820715,859820205,0,MBlaze Lightning,Bistupur,rm - uncited
+2019-06-11T14:54:55+00:00,901387290,901383137,0,Bpdgupta,Bihta,
+2018-09-13T02:51:48+00:00,859293776,859293737,0,Dl2000,Bokaro Airport,fix ref
+2019-02-16T08:11:35+00:00,883581635,883581607,0,47.29.50.99,Bistupur,
+2020-09-16T15:40:37+00:00,978721822,971937880,0,Orenburg1,Bokaro Airport,sp
+2019-08-06T11:58:26+00:00,909599764,909599678,0,47.9.219.61,Bokaro Steel City,/* Education */
+2018-12-03T14:54:39+00:00,871801666,871798737,0,2409:4064:507:FC7C:12D4:70D1:2460:2BED,Bokaro Steel City,/* Air */
+2021-06-07T17:10:21+00:00,1027391112,1027390909,0,Yamaguchi先生,Bokaro Steel City,Removed unsourced claim(s).
+2021-01-24T19:19:19+00:00,1002503553,1002493439,0,Sphilbrick,Bokaro Steel City,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Quetterry|Quetterry]] ([[User talk:Quetterry|talk]]): Copyright issue re https://bokaro.nic.in/history/
+2019-06-08T16:12:44+00:00,900939119,900553923,0,FrescoBot,Bokaro Steel City,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2019-08-25T10:42:43+00:00,912406521,912406489,0,LeoFrank,Bokaro Airport,Added {{[[Template:Unreferenced|Unreferenced]]}} tag to article ([[WP:TW|TW]])
+2020-09-02T18:45:54+00:00,976403688,976335604,0,Amortias,Bokaro Steel City,Rev-del'd copyvio
+2019-07-01T16:20:15+00:00,904354606,903581550,0,2409:4064:801:3B4:A4B1:6D10:7360:10BB,Bokaro Steel City,Area
+2021-01-21T07:18:54+00:00,1001772352,1000141073,0,LordDimwit,Bokaro Steel City,Fixed typo
+2019-01-11T10:26:15+00:00,877861346,877861173,0,Janardan2019,Bokaro Steel City,/* Overview */
+2021-05-04T02:10:31+00:00,1021318937,1021017579,0,Certes,Bokaro Steel City,typo: haing (via [[WP:JWB]])
+2019-04-03T20:08:50+00:00,890827796,890813325,0,Yamaguchi先生,Bokaro Steel City,Reverted edits by [[Special:Contribs/1.186.3.140|1.186.3.140]] ([[User talk:1.186.3.140|talk]]) to last version by Arjayay
+2019-09-03T16:56:56+00:00,913855047,913444837,0,103.75.160.62,Bokaro Steel City,/* Notable people */
+2020-07-15T21:21:40+00:00,967876931,967875786,0,Sandyiit,Bokaro Steel City,/* Road */
+2018-11-21T12:49:26+00:00,869954412,869788137,0,2405:204:441F:6FDF:9902:9D23:7817:479A,Bokaro Steel City,/* Railway */Fixed Typo
+2019-08-24T08:38:32+00:00,912253595,912253432,0,157.42.112.63,Bokaro Steel City,
+2020-10-13T01:07:56+00:00,983230332,983229921,0,NIA3000,Bokaro district,/* Languages */
+2020-06-21T22:32:52+00:00,963807615,953858961,0,BHGbot,Bokaro district,"[[WP:BHGbot 6]] ([[User:BHGbot/6/List 5|List 5]]): eponymous category first, per [[MOS:CATORDER]]; fixed sort key; [[WP:GENFIXES]]"
+2016-11-01T23:52:56+00:00,747366899,747366358,0,DadaNeem,Chando Likhon,"/* top */ Orphan, Underlinked NOT; country=[[Jharkhand]], [[India"
+2021-01-05T22:04:31+00:00,998548309,998434633,0,Yamaguchi先生,Bokaro district,Reverted to revision 997263775 by [[Special:Contributions/Monkbot|Monkbot]] ([[User talk:Monkbot|talk]]): Last known good.
+2020-04-03T00:32:56+00:00,948783098,928497027,0,BHGbot,Chando Likhon,[[WP:BHGbot 5|BHGbot 5]]: diffuse [[Category:Directorial debut films]] to by-year sub-categories
+2019-02-13T00:00:14+00:00,883050727,883050448,0,103.83.69.203,Chitarpur,
+2020-06-05T02:50:18+00:00,960821290,957962158,0,BHGbot,Culture of Jharkhand,[[WP:BHGbot 6]] ([[User:BHGbot/6/List 3|List 3]]): fixed sort key; [[WP:GENFIXES]]
+2019-10-23T23:10:28+00:00,922731685,918977431,0,WereSpielChequers,"City Centre, Bokaro","/* top */[[WP:AWB/T|Typo fixing]], replaced: of  of →  of"
+2021-07-24T03:32:26+00:00,1035170091,1034723123,0,Surajrana45,Dehradun,/* Etymology */
+2020-06-19T12:10:53+00:00,963365613,963365498,0,El C,Dehradun,"too poorly-written, sorry"
+2019-12-04T22:29:53+00:00,929300149,928146315,0,Aisteco,Dhalbhumgarh,
+2018-12-21T10:29:29+00:00,874754714,861680814,0,Babaakash,Dhalbhumgarh,/* Temples */Adding extra details.
+2018-01-30T18:30:13+00:00,823176572,822765465,0,Alex Shih,Dhalbhumgarh Airport,revdel complete; removing tag
+2021-04-22T06:08:38+00:00,1019232760,1019232658,0,Lackwate Wiki,Dhanbad,/* Geography */
+2018-04-09T19:27:23+00:00,835616153,829729913,0,Last edited by:,Dhanbad district,grammar
+2019-04-08T15:30:47+00:00,891533677,855325184,0,Mikeanand,Dhanbad district,/* Demographics */[[WP :V]]
+2020-11-13T13:56:59+00:00,988486329,966152519,0,Colonies Chris,Dhalbhumgarh Airport,"minor fixes, replaced: ’s → 's (3), [[India]] → India, Pioneer (newspaper) → Pioneer (India) (3)"
+2017-11-03T13:09:02+00:00,808535949,808535174,0,Bingobro,"Economy of Aurangabad, Maharashtra",Fixed typo.
+2019-10-22T20:45:55+00:00,922550325,921032117,0,Mean as custard,Economy of Bangalore,
+2020-12-17T06:04:34+00:00,994723935,994723596,0,Weareme234,Economy of Bangalore,Imagaes
+2019-12-28T16:15:01+00:00,932855341,926593836,0,Harshith Mahal,Economy of Bangalore,Name
+2020-01-09T14:57:14+00:00,934954522,932302866,0,Ws1920,Economy of Bihar,"/* IOC Barauni */ Writing out abbreviation MMTPA. Marking ""present"" with ""when""."
+2021-02-20T15:32:48+00:00,1007907784,1007907480,0,Mikeblas,Economy of Bihar,fix deleted reference
+2018-10-31T18:48:45+00:00,866661463,857349836,0,WereSpielChequers,Economy of Bangalore,"[[WP:AWB/T|Typo fixing]], replaced: ,G → , G, ,a → , a, ,o → , o, ]] , → ]],"
+2019-06-02T18:17:29+00:00,899987188,899987066,0,CLCStudent,Economy of Bihar,Reverted 1 edit by [[Special:Contributions/5.107.163.152|5.107.163.152]] ([[User talk:5.107.163.152|talk]]) to last revision by 182.93.92.125 ([[WP:TW|TW]])
+2019-12-24T21:47:56+00:00,932302866,929526211,0,Bellowhead678,Economy of Bihar,here.Rice->here. Rice - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2020-03-22T22:04:03+00:00,946868868,946230799,0,Dawnseeker2000,Economy of Bihar,[[MOS:DATEUNIFY]]
+2019-06-20T08:07:25+00:00,902643844,902283350,0,Kku,Economy of Bihar,link sustainable development
+2020-06-03T06:59:03+00:00,960486224,953628190,0,PixelNow,Economy of Chennai,
+2019-02-22T17:39:09+00:00,884594991,869904911,0,2405:204:724A:A7F1:0:0:FAC:D8A0,Economy of Chennai,
+2019-07-10T17:11:07+00:00,905678498,905678244,0,Harinath Krishnamurthy,Economy of Chennai,
+2021-05-23T08:03:41+00:00,1024627596,1023873465,0,Applus2021,Economy of Chennai,/* Software and Software Services */
+2018-05-25T12:23:36+00:00,842897478,832650974,0,Elaiyabharathi,Economy of Chennai,Added another company to list of companies present at Chennai
+2018-10-02T06:08:07+00:00,862104773,860443548,0,Filedelinkerbot,Economy of Coimbatore,"Bot: Removing [[:File:Tidel Park Coimbatore.jpg]] , deleted by [[:User:RHaworth|RHaworth]] ([[WP:CSD#F9|F9]]: Media file [[Wikipedia:Copyright violations|copyright violation]] without credible claim of [[Wikipedia:Non-free content|fair use]] or permission)."
+2021-03-11T09:09:16+00:00,1011517622,1011356727,0,Mean as custard,Economy of Coimbatore,remove advert
+2021-06-15T16:46:14+00:00,1028723663,1026148268,0,59.92.28.108,Economy of Coimbatore,/* Railways */
+2019-03-14T09:13:51+00:00,887705371,887705202,0,Mean as custard,Economy of Hyderabad,remove unsourced content
+2021-05-29T08:29:36+00:00,1025742343,1019152286,0,Swattik Kumar Mahata,Economy of Hyderabad,I have changed West Bengals modern economy
+2018-11-18T19:04:19+00:00,869457544,857717799,0,Gishaforza,Economy of Hyderabad,
+2018-09-02T15:27:22+00:00,857717799,857717601,0,Vibhss,Economy of Hyderabad,removed poorly sourced claim; the source defined for it was showing error
+2019-02-15T08:16:58+00:00,883418388,879046791,0,Thearjun,Economy of Mumbai,
+2017-11-06T19:34:29+00:00,809038468,809008469,0,PureRED,Economy of Jamshedpur,Reverted 1 edit by [[Special:Contributions/27.56.137.109|27.56.137.109]] ([[User talk:27.56.137.109|talk]]) to last revision by 59.165.238.227.
+2018-05-07T04:37:51+00:00,840010862,840004085,0,Flyer22 Frozen,Economy of Jamshedpur,Reverted edits by [[Special:Contributions/2402:8100:3875:8D6:1:1:D06D:3FC1|2402:8100:3875:8D6:1:1:D06D:3FC1]] ([[User talk:2402:8100:3875:8D6:1:1:D06D:3FC1|talk]]) ([[WP:HG|HG]]) (3.3.3)
+2020-02-04T12:05:36+00:00,939110765,930808830,0,Vatsmaxed,Economy of Mumbai,/* Occupations */
+2021-07-31T06:13:28+00:00,1036383647,1036102813,0,Indianspy007,Economy of Mumbai,
+2020-10-10T21:08:56+00:00,982866187,982866098,0,2A02:C7D:CA80:E800:B048:8CD0:C279:5A2B,Economy of Mumbai,
+2018-08-15T10:21:40+00:00,855015794,855014104,0,Shellwood,Economy of Mumbai,Reverted edits by [[Special:Contributions/121.210.128.47|121.210.128.47]] ([[User talk:121.210.128.47|talk]]) ([[WP:HG|HG]]) (3.4.4)
+2018-05-27T09:47:48+00:00,843166202,841347897,0,Faiz 9011,Economy of Mumbai,
+2021-09-17T16:11:33+00:00,1044890684,1044867572,0,Harshtruth9000,Economy of Mumbai,Introduced Entertainment Tax in it which is 45%
+2020-03-02T07:47:21+00:00,943510705,943510682,0,EcoWizard,Economy of Odisha,
+2020-09-04T15:56:05+00:00,976718856,968012076,0,WereSpielChequers,Economy of Odisha,"/* Agriculture and Livestock */[[WP:AWB/T|Typo fixing]], replaced: due the  →  due to the"
+2019-06-25T05:13:29+00:00,903347194,895738830,0,Bk kartik21,Economy of Odisha,
+2019-05-06T06:27:47+00:00,895738830,895738774,0,2401:4900:3131:C717:A8D6:42C9:B4E5:8A60,Economy of Odisha,Grammatical error
+2021-12-25T03:32:49+00:00,1061949818,1061869069,0,GoingBatty,Economy of Patna,restored categories
+2019-02-22T10:19:27+00:00,884546791,847397583,0,EcoWizard,"Economy of Punjab, India",
+2020-09-15T18:19:04+00:00,978570514,978570104,0,108.48.66.132,"Economy of Punjab, India",
+2021-11-23T10:01:08+00:00,1056752978,1056751549,0,FacetsOfNonStickPans,"Economy of Punjab, India",/* Agriculture */ ref
+2018-06-25T02:19:42+00:00,847397583,847397537,0,Qzd,"Economy of Punjab, India",Reverted edits by [[Special:Contributions/106.202.18.116|106.202.18.116]] ([[User talk:106.202.18.116|talk]]) ([[WP:HG|HG]]) (3.4.3)
+2020-03-19T05:57:45+00:00,946283890,927707708,0,EcoWizard,Economy of Uttarakhand,
+2020-12-17T01:56:32+00:00,994694917,993154573,0,Maxeto0910,Economy of Uttarakhand,Added short description.
+2020-12-19T02:47:47+00:00,995078215,995078106,0,65.175.231.89,Electro-Motive Diesel,/* Subcontractors and licensees */
+2018-06-13T03:27:31+00:00,845634007,845397745,0,47.208.11.42,Electro-Motive Diesel,/* 1940-60 */
+2020-04-22T09:26:31+00:00,952453339,951042861,0,110.143.198.229,Electro-Motive Diesel,/* EMD 'pancake' diesels */
+2019-02-25T14:16:03+00:00,885027105,885027080,0,Regulov,Electro-Motive Diesel,/* Reporting marks */
+2018-05-27T20:11:40+00:00,843234293,843163775,0,FrescoBot,Faridabad,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2021-01-26T08:48:10+00:00,1002847005,1002278671,0,Walrus Ji,Ghorabandha,updated option for India map
+2020-01-07T13:56:02+00:00,934608956,934583031,0,El C,Faridabad,name cannot be in lowercase!
+2019-01-14T07:04:25+00:00,878333875,864438744,0,Rohitkumar9911,Fatuha,/* Rail */
+2021-01-23T17:52:53+00:00,1002278671,854685504,0,Quetterry,Ghorabandha,Added Category
+2020-08-30T06:02:50+00:00,975748902,925058187,0,Indoyan,Fatuha,
+2018-08-13T02:56:10+00:00,854685504,780792523,0,Dl2000,Ghorabandha,en-IN
+2021-04-06T13:42:11+00:00,1016307634,1016307503,0,DavidWBrooks,Hindi Belt,oops - let's try that again
+2018-09-16T09:13:25+00:00,859792341,859792289,0,Flooded with them hundreds,Hindi Belt,Reverted edits by [[Special:Contributions/2409:4061:512:C9F4:78BF:1B54:873:754C|2409:4061:512:C9F4:78BF:1B54:873:754C]] ([[User talk:2409:4061:512:C9F4:78BF:1B54:873:754C|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.4)
+2019-08-31T10:28:23+00:00,913323661,913083769,0,Niksoni94,IBM,
+2019-02-28T01:28:25+00:00,885440736,885440469,0,Teratix,IBM,Reverted 2 edits by [[Special:Contributions/2604:2D80:C808:0:1C3A:6E84:5AC6:C8D6|2604:2D80:C808:0:1C3A:6E84:5AC6:C8D6]] ([[User talk:2604:2D80:C808:0:1C3A:6E84:5AC6:C8D6|talk]]) to last revision by ClueBot NG ([[WP:TW|TW]])
+2021-01-01T21:47:57+00:00,997713636,997536943,0,2001:4451:755:3000:851D:5576:BFCF:C6B8,IBM,"leadership change, CEO is now also Chairman"
+2021-05-22T15:02:15+00:00,1024506351,1023095145,0,Johnn Francis,IBM,Unneeded plural.
+2018-04-09T14:35:28+00:00,835573949,835571036,0,GiantSnowman,Information technology in India,Reverted edits by [[Special:Contribs/GiantSnowman|GiantSnowman]] ([[User talk:GiantSnowman|talk]]) to last version by L293D
+2018-12-24T13:17:18+00:00,875192807,875147007,0,Schazjmd,Information technology in India,Reverted 1 edit by [[Special:Contributions/2401:4900:12F0:6FF1:69A9:452B:32E9:A514|2401:4900:12F0:6FF1:69A9:452B:32E9:A514]] ([[User talk:2401:4900:12F0:6FF1:69A9:452B:32E9:A514|talk]]). ([[WP:TW|TW]])
+2018-07-19T09:46:12+00:00,850989268,849974466,0,183.82.109.159,Information technology in India,"spelling of ""investers"" to ""investors"""
+2020-11-13T21:47:16+00:00,988553363,988487723,0,Iridescent,Information technology in India,"Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: US$  → US$, a expressway → an expressway"
+2019-07-03T13:05:12+00:00,904636278,903647705,0,125.17.6.141,Information technology in India,/* Major information technology hubs */
+2018-09-25T01:23:26+00:00,861091194,861091092,0,103.5.134.173,Information technology in India,/* Contemporary situation */
+2018-09-14T16:49:07+00:00,859532329,856762225,0,117.215.20.42,Information technology in India,/* See also */ +1
+2018-10-16T13:57:56+00:00,864323413,864323316,0,Madrenergic,Information technology in India,/* Major information technology hubs */ Spelling/grammar correction
+2019-10-28T08:38:31+00:00,923396107,923391928,0,UA3,Information technology in India,Reverted 1 edit by [[Special:Contributions/2405:204:5605:8A07:381B:39F9:B729:4FA0|2405:204:5605:8A07:381B:39F9:B729:4FA0]] ([[User talk:2405:204:5605:8A07:381B:39F9:B729:4FA0|talk]]) ([[WP:TW|TW]])
+2021-07-14T04:32:38+00:00,1033513069,1032388095,0,49.207.198.105,Information technology in India,/* Chennai */
+2019-07-28T17:46:20+00:00,908277574,908277475,0,El C,Information technology in India,unexplained removal
+2018-07-17T00:39:05+00:00,850620877,783040028,0,Dl2000,Jadugora,en-IN
+2018-06-24T20:03:32+00:00,847362245,847361570,0,27.97.217.142,Information technology in India,/* Major information technology hubs */
+2019-04-08T00:32:33+00:00,891445279,872982364,0,2409:4062:208F:1F0F:C229:FCC4:D8A:2A9B,Jadugora,/* Etymology */
+2017-05-30T19:19:33+00:00,783040028,783012314,0,Atlantic306,Jadugora,fixed image
+2021-06-19T03:14:58+00:00,1029295315,1029295245,0,Pnsaha,Jadugora,
+2016-09-19T08:57:44+00:00,740141907,728686243,0,GrahamHardy,"Jama Mosque, Ramgarh",added [[Category:Religious buildings completed in 1670]] using [[WP:HC|HotCat]]
+2021-01-26T08:48:43+00:00,1002847076,1000545412,0,Walrus Ji,Jadugora,updated option for India map
+2021-06-05T11:09:33+00:00,1026984517,1026104076,0,Harinath Krishnamurthy,Jamshedpur,
+2018-04-07T02:37:45+00:00,835186156,834567083,0,2405:204:C60D:9FB3:59F2:A09B:394:E90E,Jamshedpur,
+2019-07-23T03:19:51+00:00,907467167,907135016,0,Haritrams24,Jamshedpur,/* Notable people */
+2022-01-07T22:39:32+00:00,1064350197,1064253365,0,Rlink2,Jamshedpur,Fixing bare references [[Wikipedia:Bare_URLs]]
+2020-11-02T22:23:48+00:00,986770683,986540805,0,Diannaa,Jamshedpur,"Attribution: text was copied from [[Economy of Jamshedpur]] on November 1, 2020. Please see the history of that page for full attribution."
+2019-04-17T12:33:13+00:00,892873306,892593015,0,Mobassirj,Jamshedpur,/* See also */
+2020-08-21T08:23:36+00:00,974137200,973783684,0,103.105.226.190,Jamshedpur,/* Airport */
+2019-03-08T14:36:27+00:00,886783620,886363188,0,Mobassirl,Jamshedpur,/* See also */
+2018-12-17T03:55:45+00:00,874101485,874086117,0,Niceguyedc,Jamshedpur,v2.0 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Bengali]] / [[WP:WCW]] project (Spelling and typography)
+2021-09-06T10:23:26+00:00,1042708620,1042117967,0,2402:3A80:CCA:A109:9538:EA45:2CB9:18DE,Jamshedpur,
+2020-10-26T01:15:57+00:00,985451573,984344430,0,Neutral0814,Jharkhand,/* Colonial Era */ grmr
+2019-08-13T08:31:50+00:00,910614635,910318192,0,182.76.234.134,Jharkhand,/* Schools */
+2018-05-25T06:44:41+00:00,842869529,842862840,0,Gazoth,Jharkhand,Older wording was better
+2018-10-18T03:53:23+00:00,864576566,864526551,0,2405:205:A147:53F4:0:0:1B10:B8B0,Jharkhand,/* Air */
+2019-11-04T00:06:47+00:00,924456883,924213800,0,Rameshmurmu257,Jharkhand,/* Major cities */
+2019-04-26T06:11:31+00:00,894188562,894031166,0,Consci1,Jharkhand,
+2019-12-06T17:55:34+00:00,929567976,929539075,0,2405:204:33AC:AB7D:92B8:E26B:349A:86AC,Jharkhand,/* Administrative districts */
+2018-06-14T15:37:54+00:00,845851345,845845024,0,Gazoth,Jharkhand,Undid revision 845845024 by [[Special:Contributions/27.60.209.177|27.60.209.177]] ([[User talk:27.60.209.177|talk]]) Unsourced
+2020-08-29T08:59:11+00:00,975580457,975520111,0,Pratyk321,Jharkhand,+img
+2019-06-29T11:27:13+00:00,904013936,903934062,0,Rickyurs,Jharkhand,Reverted 1 pending edit by [[Special:Contributions/2405:204:3091:D167:787:9771:BB58:E16F|2405:204:3091:D167:787:9771:BB58:E16F]] to revision 903930005 by Madds212: Disruptive editing
+2018-08-18T07:38:09+00:00,855432489,855428546,0,1997kB,Jharkhand,Reverted 4 pending edits to revision 855163716 by AnomieBOT: unsourced request
+2020-06-05T22:31:57+00:00,960968692,960761010,0,Neils51,Jharkhand,/* Religion */ spelling - it's->its
+2020-05-06T13:20:34+00:00,955194756,955021393,0,Iamritwikaryan,Jharkhand,
+2018-07-09T09:06:15+00:00,849479562,849479357,0,Gazoth,Jharkhand,"/* Engineering */ Duplicate, already mentioned under Autonomous"
+2021-04-25T18:45:01+00:00,1019843107,1019842802,0,The Dauphin,Jharkhand,Undid revision 1019842802 by [[Special:Contributions/2405:201:A400:4A33:E98B:34B5:E333:A12F|2405:201:A400:4A33:E98B:34B5:E333:A12F]] ([[User talk:2405:201:A400:4A33:E98B:34B5:E333:A12F|talk]])
+2019-03-14T15:02:55+00:00,887741319,863077174,0,2409:4064:49E:22B3:0:0:1B20:F8AC,"Kadma, Jamshedpur",Added valid infos
+2019-02-12T03:37:27+00:00,882915547,855048800,0,Dl2000,Kandra,en-IN
+2020-08-02T08:51:43+00:00,970774526,970774144,0,185.52.117.130,Kandra,/* Culture */
+2018-01-26T23:17:38+00:00,822537484,815706772,0,Iridescent,"Kadma, Jamshedpur","/* top */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: comprises of → comprises using [[Project:AWB|AWB]]"
+2021-08-19T23:51:58+00:00,1039655263,1032495009,0,Niceguyedc,Kanpur,v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Metropolitan city]] / Fix errors for [[WP:WCW|CW project]] (Spelling and typography)
+2020-04-20T06:26:21+00:00,952029855,913078005,0,Sarangineha,Kansbahal,/* History */
+2019-01-04T03:22:24+00:00,876731808,876516931,0,Funnyhat,Kolkata,/* Demographics */
+2018-10-25T07:56:34+00:00,865646667,865646606,0,Jim1138,Kansbahal,"Reverted edits by [[Special:Contributions/2405:204:F09A:127A:0:0:144:C8AC|2405:204:F09A:127A:0:0:144:C8AC]] ([[User talk:2405:204:F09A:127A:0:0:144:C8AC|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.4)"
+2019-09-19T03:21:28+00:00,916477990,916389655,0,Sujay 1803,Kolkata,
+2020-06-18T06:19:59+00:00,963157820,962481429,0,Amrita62,Kolkata,language rephrased
+2018-07-18T20:25:53+00:00,850915360,850913576,0,Batternut,Kolkata,cultural capital refs reused.
+2019-11-04T15:40:39+00:00,924554640,924254867,0,Rbhu23,Kolkata,
+2021-10-29T07:38:01+00:00,1052457929,1051609594,0,MdRiaz101,Kolkata,
+2018-07-31T09:29:56+00:00,852780418,849896448,0,122.8.96.229,List of Muslim states and dynasties,
+2018-05-06T19:42:42+00:00,839950558,839916950,0,Batternut,Kolkata,"Replacing sound file, inexplicably removed by Khajidha."
+2019-03-07T06:56:21+00:00,886593990,886593834,0,39.33.101.212,List of Muslim states and dynasties,
+2020-12-05T17:09:19+00:00,992507661,992250416,0,47.18.244.117,List of Muslim states and dynasties,/* Hindi Ocean Region */
+2020-01-20T14:20:56+00:00,936706809,936321596,0,95.145.148.91,List of Muslim states and dynasties,/* North Africa */
+2020-05-15T15:05:55+00:00,956830006,956797284,0,IamNotU,List of World Trade Centers,Adding/improving reference(s)
+2019-01-15T02:24:57+00:00,878482722,876277421,0,210.10.204.62,List of World Trade Centers,"Removed World Trade Center Brisbane - This does not exist, as evidenced by:"
+2018-05-15T23:08:07+00:00,841453029,839622164,0,Luminous Person,List of World Trade Centers,Fixed cananda typo
+2020-01-16T20:07:15+00:00,936116758,930556832,0,Bellowhead678,List of company towns,"hospital,Stadium,open->hospital, Stadium, open - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]"
+2019-02-27T16:23:39+00:00,885368813,885048131,0,2607:FEA8:D140:1B:5913:E1AE:957E:9258,List of company towns,/* Canada */
+2021-02-22T18:24:51+00:00,1008318469,1004562810,0,WereSpielChequers,List of neighbourhoods of Jamshedpur,typo
+2021-06-08T05:05:28+00:00,1027478481,1024685819,0,Siddhanthkamath,List of special economic zones in India,
+2021-03-01T14:24:13+00:00,1009626098,1009273379,0,1.22.16.248,List of special economic zones in India,
+2019-04-21T04:07:50+00:00,893408907,893388239,0,IM3847,List of schools in India,/* Andhra Pradesh */ Removed school in TG from AP
+2020-09-25T22:54:02+00:00,980334830,980038014,0,Czar-peter-123,List of special economic zones in India,/* Rajasthan */
+2021-03-06T11:31:12+00:00,1010614422,1009626098,0,2405:201:3012:D05E:3CC6:6479:F87D:2DB9,List of special economic zones in India,/* Madhya Pradesh */
+2020-01-13T06:29:09+00:00,935545823,935545407,0,171.78.165.141,List of special economic zones in India,/* State-wise distribution of approved SEZs */
+2018-06-04T10:31:54+00:00,844351320,844351279,0,Oshwah,List of special economic zones in India,Reverted edits by [[Special:Contributions/163.152.3.182|163.152.3.182]] ([[User talk:163.152.3.182|talk]]): [[WP:SANDBOX|editing tests]] ([[WP:HG|HG]]) (3.4.3)
+2018-04-15T13:59:00+00:00,836554708,832163784,0,2405:204:7386:89FB:79EB:5D73:CA17:54C6,List of tech parks in Chennai,link [[Plintron]] using [[:en:User:Edward/Find link|Find link]]
+2019-01-19T12:20:34+00:00,879157752,879001804,0,49.206.113.253,List of tech parks in Chennai,Status of Projects and clients
+2019-09-11T11:39:02+00:00,915130648,907955584,0,111.93.119.222,List of tech parks in Chennai,
+2020-03-17T17:34:14+00:00,946034504,945696030,0,Lepricavark,List of tourist attractions in Mysore,/* top */added short description
+2019-04-18T04:06:46+00:00,892978070,886490402,0,103.87.143.43,Lists of tallest buildings in India,
+2020-05-07T07:49:51+00:00,955338725,953897605,0,Iamdeep4u,Lists of tallest buildings in India,Gwalior skyline
+2020-12-02T11:44:27+00:00,991899776,991875815,0,THE MALLU,LuLu Group International,/* Operations */
+2018-12-24T06:43:29+00:00,875162954,875162926,0,2405:205:A001:9C78:0:0:A91:40A1,Lists of tallest buildings in India,
+2020-02-04T10:54:14+00:00,939104967,937785870,0,Dhanish Muhammed,LuLu Group International,
+2021-06-09T06:49:40+00:00,1027657474,1025921712,0,45.251.33.134,LuLu Group International,
+2021-09-22T06:01:18+00:00,1045740965,1045615524,0,Sagnik 14,Lists of tallest buildings in India,
+2018-06-28T12:29:24+00:00,847881778,847000065,0,49.205.38.254,Madurai,
+2019-01-28T16:49:05+00:00,880650808,880646771,0,DMacks,Mango (Jamshedpur),/* Transport */ WP is not a timetable
+2020-11-20T03:00:20+00:00,989630870,989630783,0,Soumo Dutt,Mango (Jamshedpur),
+2018-12-07T17:49:46+00:00,872527188,871639883,0,HickoryOughtShirt?4,Mango (Jamshedpur),Reverted edits by [[Special:Contribs/Mobassire|Mobassire]] ([[User talk:Mobassire|talk]]) to last version by DMacks
+2021-03-16T13:17:52+00:00,1012452971,1012443417,0,Velella,Madurai,Undid revision 1012443417 by [[Special:Contributions/122.174.88.226|122.174.88.226]] ([[User talk:122.174.88.226|talk]]) unexplained removal of non-contentious image
+2020-12-10T10:12:52+00:00,993387625,993383680,0,Lightlowemon,Mango (Jamshedpur),cite fixes +general fixes
+2019-03-23T06:18:50+00:00,889066712,889066631,0,2402:3A80:90B:B10C:0:5E:F13:4201,Moradabad,
+2019-10-20T15:47:37+00:00,922194103,920713392,0,GoingBatty,Moradabad,"[[WP:AWB/GF|General fixes]], [[WP:AWB/T|typo(s) fixed]]: $530 millions → $530 million (2)"
+2020-12-12T18:07:47+00:00,993824839,992048510,0,ArmouredCyborg,Moradabad,added content
+2019-12-14T10:42:21+00:00,930708700,928190063,0,Espoo,Mumbai,"pronunciation in local official language, Marathi"
+2020-03-06T15:34:28+00:00,944235755,943383603,0,Vinrpm.p6054,Mumbai,
+2020-06-30T05:27:29+00:00,965235974,964536590,0,Amrita62,Mumbai,don't expand the infobox unnecessarily
+2020-06-11T18:23:35+00:00,962032135,961944900,0,Amrita62,Mumbai,as per discussion I'm reverting my earlier edit which was done wrongly
+2020-04-17T01:31:47+00:00,951414723,951096066,0,Alishernavoi,Mumbai,added bluelink
+2020-12-28T15:07:19+00:00,996773054,996619300,0,Khajidha,Mumbai,"Restoring agreed upon wording,  there's even a note about this immediately following"
+2018-10-11T14:54:20+00:00,863557600,863556446,0,JackintheBox,Mumbai,/* Higher education */ spelling
+2020-04-26T02:44:37+00:00,953179681,952234426,0,Soumo Dutt,Mumbai,/* Geography */Updating Info
+2021-03-08T14:16:05+00:00,1011002542,1010921205,0,Ssbbplayer,Mysore,/* Climate */ fix dahses
+2019-04-13T11:23:33+00:00,892275067,892187243,0,Manirang1975,Mysore,/* Notable people */
+2020-07-24T16:36:41+00:00,969305255,967286071,0,Shreyasmck24,Mysore,Italicized the Mysore
+2019-09-12T07:55:20+00:00,915277738,915276781,0,DocWatson42,Mysore,"Cleaned up [[MOS:LAYOUT]] and other matters, including image placement (to eliminate excess white space in wide browser windows) and other matters."
+2020-06-20T12:18:45+00:00,963550271,963042582,0,DrKay,Mysore,per Manual of Style
+2018-10-14T05:30:53+00:00,863957554,863387379,0,103.5.135.13,Mysore,
+2018-08-22T18:25:48+00:00,856078115,855888003,0,106.201.109.252,Mysore,Chennakeshava temple doesn't come in Mysore
+2022-01-26T08:28:28+00:00,1068027891,1068025332,0,Njd-de,Mysore,Reverting edit(s) by [[Special:Contributions/2405:201:D00E:41EC:50A9:2E45:135C:DF78|2405:201:D00E:41EC:50A9:2E45:135C:DF78]] ([[User_talk:2405:201:D00E:41EC:50A9:2E45:135C:DF78|talk]]) to rev. 1062651814 by Serols: Addition of unnecessary/inappropriate [[WP:EL|external links]] [[w:en:WP:RW|(RW 16.1)]]
+2018-12-11T11:15:45+00:00,873146504,873145874,0,210.212.199.162,Mysore,/* Autonomous institutes headquartered in Mysore */
+2021-03-24T20:52:29+00:00,1014038698,1013396055,0,Johnpacklambert,Mysore,added [[Category:1888 establishments in India]] using [[WP:HC|HotCat]]
+2019-09-29T10:46:23+00:00,918580412,916887736,0,Joyson Konkani,Mysore,
+2019-12-22T13:01:52+00:00,931956147,931956092,0,Onel5969,Mysore,Reverted edits by [[Special:Contributions/106.217.106.238|106.217.106.238]] ([[User talk:106.217.106.238|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2020-03-23T09:06:32+00:00,946939547,945820023,0,CODV9,Mysore,
+2018-10-15T04:10:25+00:00,864107468,864095577,0,BilCat,Mysore,"Undid revision 864095577 by [[Special:Contributions/2601:2C0:4680:EA27:9151:5392:1E07:34A9|2601:2C0:4680:EA27:9151:5392:1E07:34A9]] ([[User talk:2601:2C0:4680:EA27:9151:5392:1E07:34A9|talk]]) not broken, hatnotes are not books"
+2017-12-25T06:21:23+00:00,816985004,816974922,0,Che12Guevara,National Highway 118 (India),expansion
+2019-12-02T15:19:27+00:00,928925443,927532374,0,2409:4072:412:937:0:0:2A38:E8AC,Noida,
+2018-07-22T15:44:41+00:00,851478092,851477948,0,SshibumXZ,Noida,Reverted edits by [[Special:Contribs/42.108.185.202|42.108.185.202]] ([[User talk:42.108.185.202|talk]]) to last version by Arjayay
+2019-05-24T21:12:11+00:00,898624355,898624316,0,JimVC3,Noida,Reverted 1 edit by [[Special:Contributions/49.207.60.65|49.207.60.65]] ([[User talk:49.207.60.65|talk]]) to last revision by JimVC3 ([[WP:TW|TW]])
+2018-10-08T19:34:26+00:00,863109396,862771683,0,Tushhar Chaudhary,Noida,/* Sports */
+2021-03-08T17:51:11+00:00,1011035797,1011035152,0,223.235.129.134,Noida,
+2021-08-20T05:46:37+00:00,1039695199,1039216963,0,UnaToFiAN-1,Noida,/* Parks and recreation in Noida */  Headings with bold
+2021-01-23T08:32:48+00:00,1002199756,986490604,0,Quetterry,Parsudih,Categories
+2021-05-10T16:28:56+00:00,1022456541,1022418328,0,110.34.13.2,Patna,
+2021-12-06T19:59:39+00:00,1058991306,1058478588,0,Himu9734,Patna,
+2021-02-06T09:05:07+00:00,1005169138,1005168756,0,Tylertoney Dude perfect,Patna,-> Added reference.
+2019-12-27T05:06:08+00:00,932615991,932615731,0,106.51.138.55,Pharmaceutical industry in India,/* Publicly traded pharmaceuticals */
+2020-03-11T14:33:54+00:00,945049777,944862334,0,Jonathansammy,Pune,Undid revision 944862334 by [[Special:Contributions/Mahesh.rane|Mahesh.rane]] ([[User talk:Mahesh.rane|talk]]) unsourced change
+2019-10-15T07:49:36+00:00,921346468,921345720,0,Eosieowells71,Pune,/* Teams */
+2018-06-14T23:34:07+00:00,845909129,845080171,0,Nat965,Pharmaceutical industry in India,/* Product development */ add wikilink to journal
+2018-07-28T07:06:37+00:00,852334437,845858095,0,Indopug,Raghubar Das,Replace awful pic
+2019-03-01T03:55:50+00:00,885611235,873671436,0,Sujay Dasgupta,Raghubar Das,
+2018-04-24T17:49:51+00:00,838061964,838061843,0,TantraYum,Raghubar Das,/* External links */ removed twitter and facebook
+2021-01-14T14:59:09+00:00,1000297788,981199452,0,Yobot,Raghunath Murmu,Fix REFPUNCT + other minor fixes
+2021-05-22T08:47:47+00:00,1024465823,1021514410,0,Psanu,Raghunath Murmu,added portrait
+2019-03-02T11:15:42+00:00,885796005,885529375,0,Ser Amantio di Nicolao,Raghunath Murmu,Moving from [[Category:Santali People]] to [[Category:Santali people]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2018-12-20T06:47:32+00:00,874588854,873839512,0,Rajeeb bastola,"Raj Bhavan, Ranchi","Rajeeb bastola moved page [[Raj Bhavan, Jharkhand]] to [[Raj Bhavan, Ranchi]]: To delete unnecessary word."
+2020-03-23T20:17:06+00:00,947020587,920881292,0,Iridescent,"Raj Bhavan, Ranchi","/* Building */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: 1850-1856 → 1850–1856"
+2019-10-12T13:42:42+00:00,920881292,874588854,0,103.232.154.229,"Raj Bhavan, Ranchi",
+2018-07-31T10:27:48+00:00,852785502,852785322,0,Adamstraw99,Ranchi,
+2021-04-30T19:44:24+00:00,1020742690,1020742612,0,Wikipediæ philosophia,Ranchi,Reverted 1 edit by [[Special:Contributions/2003:C1:DF2C:601:2447:9954:A810:E151|2003:C1:DF2C:601:2447:9954:A810:E151]] ([[User talk:2003:C1:DF2C:601:2447:9954:A810:E151|talk]]) to last revision by WereSpielChequers
+2020-08-19T15:12:35+00:00,973844528,973221855,0,Ssbbplayer,Ranchi,/* Climate */ better source of climate data
+2020-09-04T09:04:46+00:00,976671969,975931949,0,Jaggi9988,Rajinikanth,/* Early life */
+2018-10-20T14:48:31+00:00,864931508,864917145,0,Ferret,Sahebganj,Undid revision 864914755 by [[Special:Contributions/103.13.104.166|103.13.104.166]] ([[User talk:103.13.104.166|talk]])
+2019-08-11T21:41:06+00:00,910405544,899797769,0,Afus199620,Sahebganj district,/* Demographics */
+2019-01-15T14:33:38+00:00,878555871,878555743,0,Farooqkhanjsr,Sakchi,
+2019-10-21T13:28:11+00:00,922331758,921304878,0,61.16.128.154,"Salem, Tamil Nadu",/* Cuisine */ Adding Citation
+2021-07-28T15:22:33+00:00,1035944457,1035885935,0,Bhagya sri113,"Salem, Tamil Nadu",Correcting unit
+2020-11-18T06:08:31+00:00,989305478,989305263,0,Nanmagan,"Salem, Tamil Nadu",I have included some IT companies and Silver industries products in this page
+2020-09-14T21:15:12+00:00,978428161,978427392,0,Harinath Krishnamurthy,"Salem, Tamil Nadu",
+2020-12-19T05:58:57+00:00,995098274,993445447,0,Saran.jmss,"Salem, Tamil Nadu",I changed Shevaroy Hills as link
+2021-06-30T15:38:58+00:00,1031250077,1031219192,0,SantalShayari,Santali cinema,/* Santali films */
+2019-12-24T06:54:38+00:00,932215538,932211179,0,Zaxxon0,Santali cinema,Reverted 1 edit by [[Special:Contributions/Arjunsoren123|Arjunsoren123]] ([[User talk:Arjunsoren123|talk]]) to last revision by 2806:102E:7:8023:DC71:BBFF:B3E1:7DC0 ([[WP:TW|TW]])
+2021-01-07T11:43:37+00:00,998871473,998869684,0,Zayakg,Santali cinema,edit
+2018-04-09T16:49:11+00:00,835593465,835593181,0,2405:204:F21F:F67:4130:1A27:181E:EF57,Santali cinema,/* Notable Persons */
+2018-12-17T15:40:15+00:00,874165443,874165083,0,Rusika,Santali cinema,/* Notable Santali films */
+2021-08-19T13:06:09+00:00,1039569103,955184590,0,Platteranna,Saraidhela,
+2018-11-17T13:54:19+00:00,869262657,857725794,0,NirmalDas5,Seraikela Kharsawan district,
+2018-02-24T13:29:33+00:00,827392416,815966896,0,122.170.231.154,Seraikela Kharsawan district,
+2019-10-15T05:41:40+00:00,921337220,921336665,0,Rameshmurmu257,Seraikela Kharsawan district,/* Blocks/Mandals */
+2020-06-28T04:39:45+00:00,964885858,964879547,0,BHGbot,Seraikela Kharsawan district,"[[WP:BHGbot 6]] ([[User:BHGbot/6/List 5|List 5]]): eponymous category first, per [[MOS:CATORDER]]; [[WP:GENFIXES]]"
+2018-05-27T22:07:18+00:00,843248767,841951877,0,FrescoBot,Sindri (Dhanbad),Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2020-04-05T08:08:17+00:00,949224388,918225664,0,John of Reading,Sindri (Dhanbad),"/* Overview */Typo fixing, replaced: power power → power"
+2019-03-14T15:21:55+00:00,887743682,856541114,0,2409:4064:49E:22B3:0:0:1B20:F8AC,"Sonari, Jamshedpur",Added valid info
+2018-06-03T02:30:00+00:00,844166425,844165169,0,2405:204:71C2:F1DE:B683:3DBF:205F:5A08,Sriperumbudur,
+2018-11-17T04:31:32+00:00,869217132,868910900,0,FlowerFeller,Sriperumbudur,/* Economy */ typing error corrected
+2019-02-09T17:23:14+00:00,882514731,882450370,0,Rvkrish8,Sriperumbudur,Removed promotional information
+2022-01-27T01:15:12+00:00,1068174232,1065990912,0,Smtsgh,TVS Motor Company,Fixed finances
+2019-01-16T13:56:48+00:00,878707998,876921577,0,Shanze1,TVS Motor Company,scooty image
+2018-07-25T05:04:41+00:00,851879275,847308611,0,219.64.48.154,TVS Motor Company,/* Awards */
+2020-05-21T05:05:28+00:00,957928973,957410003,0,117.213.164.243,Talk:Chennai,/* Regarding the Neutrality tag in Chennai article */
+2019-03-07T13:38:09+00:00,886626990,886014758,0,Alucard 16,Talk:Chennai,/* Semi-protected edit request on 3 March 2019 */ Responded to edit request ([[WP:EPH|EPH]])
+2018-05-02T12:56:01+00:00,839283253,839274197,0,Batternut,Talk:Chennai,/* Semi-protected edit request on 2 May 2018 (Change of Pronunciation Audio file) */ done
+2020-02-17T23:16:08+00:00,941328592,940515443,0,Eggishorn,Talk:Chennai,/* Extended-confirmed-protected edit request on 12 February 2020 */ Responded to edit request ([[WP:EPH|EPH]])
+2020-06-14T12:19:25+00:00,962500989,957928973,0,Ab207,Talk:Chennai,/* Changing settlement type to Metropolis from Megacity */ user name change due to privacy concerns
+2020-12-09T12:15:29+00:00,993217602,808814971,0,Weareme234,Talk:Mango (Jamshedpur),Weareme234 moved page [[Talk:Mango (Jamshedpur)]] to [[Talk:Maango]]
+2019-07-27T15:49:41+00:00,908120168,904920013,0,Soumo Dutt,Taratala,/* Location */
+2018-09-21T05:36:03+00:00,860516707,859952184,0,Jerodlycett,Teynampet,[[WP:WCW]] project (Reference list missing)
+2017-05-12T16:51:23+00:00,780049865,762522084,0,Utcursch,Template:Bhubaneswar topics,disambig
+2018-02-27T14:07:47+00:00,827914905,827914799,0,Cassiopeia,Teynampet,Reverted edits by [[Special:Contributions/125.99.230.54|125.99.230.54]] ([[User talk:125.99.230.54|talk]]): addition of [[WP:CITE|unsourced content]] ([[WP:HG|HG]]) (3.3.3)
+2019-05-04T14:33:28+00:00,895476309,894790733,0,Balon Greyjoy,Teynampet,v2.01 - [[WP:WCW]] project (Multiple categories on one line - Spelling and typography)
+2019-11-29T10:11:38+00:00,928460906,923744315,0,FrescoBot,Teynampet,Bot: [[User:FrescoBot/Links|link syntax]]
+2020-04-11T17:52:06+00:00,950361451,950172888,0,49.37.206.62,Thiruvanmiyur,
+2020-10-11T08:37:23+00:00,982939409,982938725,0,Sujays,Thiruvanmiyur,/* Etymology */
+2021-01-15T10:17:23+00:00,1000502149,996949413,0,Yobot,Thiruvanmiyur,"/* Etymology */References after punctuation per [[WP:REFPUNCT]], [[WP:CITEFOOT]], [[WP:PAIC]] + other fixes"
+2022-02-26T11:53:30+00:00,1074100730,1071769516,0,DrKay,Tiruchirappalli,failed verification: not found in source cited
+2021-06-29T19:34:18+00:00,1031092290,1031092235,0,Donner60,Tiruchirappalli,Reverted edits by [[Special:Contributions/Bob537472920|Bob537472920]] ([[User talk:Bob537472920|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2019-06-19T16:13:11+00:00,902551951,902481673,0,Nittawinoda,Tiruchirappalli,Undid revision 902481673 by [[Special:Contributions/103.194.242.242|103.194.242.242]] ([[User talk:103.194.242.242|talk]])
+2020-03-11T12:30:20+00:00,945034202,945022111,0,Shanze1,Tiruchirappalli,Reverted 1 edit by [[Special:Contributions/Siva1606|Siva1606]] ([[User talk:Siva1606|talk]]) ([[WP:TW|TW]])
+2020-05-20T12:35:41+00:00,957762814,957751059,0,Shanze1,Tiruchirappalli,Reverted 1 edit by [[Special:Contributions/122.164.80.110|122.164.80.110]] ([[User talk:122.164.80.110|talk]]) to last revision by Thegreatestmanonearth ([[WP:TW|TW]])
+2018-11-25T13:46:53+00:00,870538240,868045523,0,Nileshverma563,Tourism in Jharkhand,Added Jharkhand dham giridih
+2020-02-14T18:48:48+00:00,940800702,940800569,0,Aviator423,Tourist attractions in Mangalore,/* Parks */ fixed typo
+2019-04-21T19:08:23+00:00,893492436,870114469,0,Anonymousboii,Triplicane,/* Geography */
+2021-11-11T15:31:14+00:00,1054691379,1054613029,0,Suneye1,Uttarakhand,Reverted 1 edit by [[Special:Contributions/2401:4900:4BB0:B8A7:C5FF:AF08:A52:A652|2401:4900:4BB0:B8A7:C5FF:AF08:A52:A652]] ([[User talk:2401:4900:4BB0:B8A7:C5FF:AF08:A52:A652|talk]]) to last revision by Suneye1
+2021-04-24T19:34:51+00:00,1019676991,1019676785,0,Manoj Paneru,Uttarakhand,/* External links */
+2018-09-10T03:10:45+00:00,858860467,857932322,0,171.49.220.192,Vadapalani,/* Schools */
+2021-04-21T14:05:38+00:00,1019095779,972541397,0,223.184.127.195,Vadapalani,/* Schools */
+2020-06-25T11:57:47+00:00,964422728,945100763,0,Timbaaa,Vandalur,"/* Educational Institutions in Vandalur */clean up, [[WP:AWB/T|typo(s) fixed]]: Tamilnadu → Tamil Nadu"
+2018-01-23T23:28:29+00:00,822019350,798010441,0,Ajf773,Vandalur,[[WP:NOTPROMO]]

@@ -1,0 +1,201 @@
+timestamp,revid,parentid,sock,user,page,message
+2017-05-19T17:25:08+00:00,781190255,781190229,1,CSTFTW,Cooper,/* Companies */
+2017-05-19T17:24:58+00:00,781190229,781190183,1,CSTFTW,Cooper,/* Companies */
+2017-05-19T17:24:35+00:00,781190183,781190106,1,CSTFTW,Cooper,/* Companies */
+2017-05-19T17:24:04+00:00,781190106,780448630,1,CSTFTW,Cooper,/* Companies */
+2016-02-10T19:22:15+00:00,704296382,702793029,1,CSTFTW,Interaction design,/* Personas */
+2016-02-10T19:04:53+00:00,704294111,704293777,1,CSTFTW,User experience design,/* Interaction Designers */
+2016-02-10T19:02:24+00:00,704293777,704293688,1,CSTFTW,User experience design,/* Interaction Designers */
+2016-02-10T19:01:45+00:00,704293688,704293039,1,CSTFTW,User experience design,/* Visual designers */
+2016-02-10T18:56:35+00:00,704293039,702846684,1,CSTFTW,User experience design,/* User experience designers */
+2016-02-02T00:29:33+00:00,702849850,702849704,1,CSTFTW,Design education,
+2016-02-02T00:28:28+00:00,702849704,681880360,1,CSTFTW,Design education,
+2016-02-02T00:18:24+00:00,702848402,694490620,1,CSTFTW,Pair programming,/* Pair programming outside software development */
+2016-02-02T00:05:04+00:00,702846684,702845843,1,CSTFTW,User experience design,/* General design process */
+2016-02-01T23:59:59+00:00,702845843,702825504,1,CSTFTW,User experience design,/* Design */
+2016-02-01T21:54:00+00:00,702825504,702824003,1,CSTFTW,User experience design,/* Further reading */
+2016-02-01T21:44:15+00:00,702824003,702823711,1,CSTFTW,User experience design,/* Designers */
+2016-02-01T21:42:15+00:00,702823711,702823346,1,CSTFTW,User experience design,/* UX Deliverables */
+2016-02-01T21:39:56+00:00,702823346,702364718,1,CSTFTW,User experience design,/* UX Deliverables */
+2016-02-01T20:09:44+00:00,702809213,699936138,1,CSTFTW,Service design,/* Networks and Conferences */ separated the ServDes conference from the SDN paragraph as they are not affiliated.
+2016-02-01T19:48:28+00:00,702805843,702805750,1,CSTFTW,Designer,/* Design professions */
+2016-02-01T19:47:58+00:00,702805750,702031722,1,CSTFTW,Designer,/* Design professions */
+2016-02-01T19:39:27+00:00,702804432,702802775,1,CSTFTW,Persona (user experience),/* External links */
+2016-02-01T19:28:42+00:00,702802775,702500528,1,CSTFTW,Persona (user experience),/* Bibliography */
+2016-01-06T01:47:08+00:00,698429659,683638928,1,CSTFTW,User-centered design,"/* Persona */ Revised language around Personas using language by Kim Goodwin, an expert in personas."
+2016-01-06T01:16:49+00:00,698425504,698337433,1,CSTFTW,Indigenous peoples in Yukon,"/* Yukon before European contact */ added commas to number of people (8000 > 8,000)"
+2016-01-06T01:14:08+00:00,698425171,698341834,1,CSTFTW,Sony MAX HD,made some small grammatical changes
+2016-01-06T01:10:19+00:00,698424707,698379239,1,CSTFTW,Montjoie (disambiguation),
+2016-01-06T00:56:35+00:00,698423051,698380544,1,CSTFTW,Pyan Gaun,/* Etymology */
+2017-06-20T23:35:09+00:00,786683202,786682589,1,Djones2117,Application posture,"deleted ""no footnotes"" flag because inline citations have been added"
+2017-06-20T23:28:31+00:00,786682589,786445982,1,Djones2117,Application posture,adding inline citations
+2017-06-19T23:50:14+00:00,786518605,786518560,1,Djones2117,Alan Cooper,
+2017-06-19T23:49:56+00:00,786518560,786518411,1,Djones2117,Alan Cooper,
+2017-06-19T23:48:40+00:00,786518411,786479577,1,Djones2117,Alan Cooper,
+2017-06-19T23:39:21+00:00,786517252,768768265,1,Djones2117,Computer History Museum,/* Fellows */ added the 2017 Fellows
+2017-06-19T18:50:57+00:00,786479577,786479197,1,Djones2117,Alan Cooper,/* External links */
+2017-06-19T18:47:57+00:00,786479197,786477128,1,Djones2117,Alan Cooper,/* External links */
+2017-06-19T18:42:05+00:00,786478449,785700170,1,Djones2117,Cooper (company),/* History */
+2017-06-19T18:31:46+00:00,786477128,786476238,1,Djones2117,Alan Cooper,
+2017-06-19T18:24:27+00:00,786476238,786474548,1,Djones2117,Alan Cooper,/* External links */
+2017-06-19T18:13:04+00:00,786474548,783561275,1,Djones2117,Alan Cooper,/* See also */
+2016-09-28T00:12:13+00:00,741513519,741513330,1,Djones2117,Alan Cooper,/* External links */ formatting
+2016-09-28T00:10:36+00:00,741513330,741513274,1,Djones2117,Alan Cooper,/* External links */
+2016-09-28T00:10:02+00:00,741513274,735009615,1,Djones2117,Alan Cooper,/* External links */ adding external links
+2016-09-28T00:06:22+00:00,741512874,739163063,1,Djones2117,Office Assistant,/* Overview */ adding reference to attribute quotes in opening paragraph to correct person
+2016-07-19T21:56:24+00:00,730573905,727251615,1,Djones2117,Interaction design,expanded history of personas
+2016-06-23T22:39:44+00:00,726717198,722410520,1,Djones2117,Alan Cooper,flags did not appear to be relevant any more
+2016-05-31T17:18:09+00:00,723044095,722329177,1,Djones2117,User experience design,minor grammar and style edits
+2016-05-27T23:07:49+00:00,722410520,722410376,1,Djones2117,Alan Cooper,
+2016-05-27T23:06:28+00:00,722410376,707814374,1,Djones2117,Alan Cooper,
+2016-05-27T21:58:08+00:00,722403775,722284117,1,Djones2117,Service design,minor grammar and style edits
+2016-05-27T17:55:19+00:00,722373630,722361522,1,Djones2117,Software design,/* Overview */
+2016-05-27T16:12:57+00:00,722361522,721830925,1,Djones2117,Software design,
+2016-05-27T16:08:16+00:00,722360969,722298552,1,Djones2117,Interaction design,
+2016-05-26T23:29:00+00:00,722263311,722243732,1,Djones2117,Interaction design,
+2016-05-26T21:00:37+00:00,722243732,720941546,1,Djones2117,Interaction design,
+2016-05-26T18:54:49+00:00,722225237,722069703,1,Djones2117,Spenser: For Hire,
+2016-05-26T18:41:03+00:00,722223299,722067656,1,Djones2117,Vettah,/* Plot */
+2016-05-26T18:16:41+00:00,722219832,722054428,1,Djones2117,Judoc,
+2016-05-26T17:43:55+00:00,722215328,721356112,1,Djones2117,Characene,
+2017-06-14T22:59:08+00:00,785700475,781190255,1,Jigglypuffjane,Cooper,added a company to the list
+2017-06-14T22:57:06+00:00,785700170,780976721,1,Jigglypuffjane,Cooper (company),added a bit of detail to the early history of cooper
+2016-07-02T02:50:25+00:00,727929885,726717198,0,Cyberbot II,Alan Cooper,Rescuing 1 sources and tagging 0 as dead. #IABot
+2016-11-27T01:53:12+00:00,751652063,751395230,0,Bender the Bot,Alan Cooper,/* Visual Basic */clean up; http&rarr;https for [[YouTube]] using [[Project:AWB|AWB]]
+2016-11-01T20:52:48+00:00,747343622,743007119,0,Eurocus47,Alan Cooper,
+2016-08-18T03:16:10+00:00,735009615,734758885,0,TAnthony,Alan Cooper,"USA is deprecated, per [[MOS:NOTUSA]], and correct [[MOS:OVERLINK|overlinking]] of common places using [[Project:AWB|AWB]]"
+2017-05-08T11:02:49+00:00,779348842,751652063,0,Gabby Jed,Alan Cooper,/* Biography */
+2016-07-14T13:24:09+00:00,729773702,727929885,0,122.172.66.48,Alan Cooper,add posture
+2016-03-01T23:08:18+00:00,707814374,707274471,0,82.36.252.247,Alan Cooper,"Change to just ""About Face"" instead of ""About Face 3"" in opening paragraph. The book is up to the 4th edition by now and it's strange to mention one specific edition anyway."
+2015-12-30T23:39:13+00:00,697507804,684445483,0,Dgpop,Alan Cooper,/* Interaction design and user experience */
+2016-10-07T05:45:50+00:00,743007119,741760060,0,InternetArchiveBot,Alan Cooper,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.4)
+2016-10-16T16:08:05+00:00,744649503,728423873,0,InternetArchiveBot,Application posture,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.5)
+2016-09-07T00:25:19+00:00,738115264,738115260,0,ClueBot NG,Characene,"Reverting possible vandalism by [[Special:Contribs/Boringblueboy|Boringblueboy]] to version by Gulumeemee. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2749485) (Bot)"
+2016-02-29T13:51:12+00:00,707546648,707546645,0,ClueBot NG,Cooper,"Reverting possible vandalism by [[Special:Contribs/73.68.246.51|73.68.246.51]] to version by Flyer22 Reborn. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2565710) (Bot)"
+2016-03-31T17:52:41+00:00,712888978,641744586,0,BG19bot,Application posture,/* top */Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2017-01-14T07:13:38+00:00,759984573,759984509,0,Gioto,Computer History Museum,
+2017-01-04T21:25:45+00:00,758341420,758341406,0,Ale jrb,Cooper,Reverted edits by [[Special:Contributions/74.90.116.222|74.90.116.222]] ([[User talk:74.90.116.222|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2016-10-15T01:15:29+00:00,744408577,744408573,0,ClueBot NG,Cooper,"Reverting possible vandalism by [[Special:Contribs/14.2.57.100|14.2.57.100]] to version by ProprioMe OW. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2797335) (Bot)"
+2016-12-08T18:23:26+00:00,753699463,752060621,0,GreenC bot,Computer History Museum,1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])
+2016-06-03T19:14:09+00:00,723557364,722550848,0,Abmare1415,Characene,"Copy edited article for grammar, spelling and chronology."
+2016-02-01T08:27:45+00:00,702721693,702701377,0,Flyer22 Frozen,Cooper,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/68.171.176.31|68.171.176.31]] using [[WP:STiki|STiki]]
+2016-04-29T11:47:19+00:00,717733380,717732249,0,Bkonrad,Cooper,Reverted edits by [[Special:Contribs/58.7.230.29|58.7.230.29]] ([[User talk:58.7.230.29|talk]]) to last version by ClueBot NG
+2017-04-14T03:21:25+00:00,775319560,775319150,0,Materialscientist,Cooper,Reverted 1 edit by [[Special:Contributions/Dihfbfidbrbrb|Dihfbfidbrbrb]] identified as test/vandalism using [[WP:STiki|STiki]]
+2017-03-19T20:13:55+00:00,771142001,765411471,0,Ketiltrout,Cooper,+
+2016-03-13T23:29:06+00:00,709930424,703065207,0,Architect21c,Design education,architect & architecture links added
+2017-05-18T09:42:13+00:00,780976721,779502370,0,ShakespeareFan00,Cooper (company),v1.42b - [[WP:WCW]] project (Link equal to linktext)
+2015-09-20T04:17:34+00:00,681880360,657263218,0,EmausBot,Design education,"Bot: Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:Q3467934]]"
+2016-03-18T16:37:18+00:00,710713804,710713751,0,ProfDEH,Designer,/* Design professions */
+2016-09-02T19:59:13+00:00,737439450,709930424,0,Stoicjoe,Design education,Added the increase of Asian Design Schools
+2016-06-15T13:39:46+00:00,725407900,722195465,0,128.8.61.70,Designer,
+2016-08-03T04:15:47+00:00,732771478,732771437,0,TSDS25,Designer,/* Design professions */
+2016-06-05T21:29:45+00:00,723883164,723081789,0,Yobot,Indigenous peoples in Yukon,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12020)
+2016-07-21T22:30:10+00:00,730952359,730925352,0,Magioladitis,Indigenous peoples in Yukon,fix isbn syntax
+2016-10-27T00:06:25+00:00,746366085,745311654,0,KH-1,Interaction design,spam
+2016-08-15T19:12:37+00:00,734644863,734644838,0,"Me, Myself, and I are Here",Interaction design,/* See also */ cap
+2017-02-27T07:10:11+00:00,767666997,767666811,0,Zelchenko,Interaction design,/* Usability */
+2016-09-11T07:58:42+00:00,738824981,738824977,0,ClueBot NG,Interaction design,"Reverting possible vandalism by [[Special:Contribs/220.244.71.14|220.244.71.14]] to version by Sunday9pm. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2754349) (Bot)"
+2016-08-02T07:29:14+00:00,732634420,732525917,0,Yobot,Interaction design,/* History */[[WP:CHECKWIKI]] error fixes / REFPUNCT using [[Project:AWB|AWB]] (12061)
+2016-07-19T22:08:53+00:00,730575270,730575000,0,Grayfell,Interaction design,Added {{[[Template:copy edit|copy edit]]}} tag to article ([[WP:TW|TW]])
+2016-11-05T21:47:45+00:00,748022486,748022331,0,Hubon,Montjoie (disambiguation),/* top */ ty
+2016-02-25T11:01:06+00:00,706803874,706345368,0,82.135.127.210,Interaction design,/* History */
+2016-06-15T09:59:45+00:00,725385220,724803623,0,194.74.103.35,Interaction design,
+2016-10-06T19:23:06+00:00,742938020,742929839,0,Bamyers99,Judoc,Undid revision 742929839 by [[Special:Contributions/Montanafields|Montanafields]] ([[User talk:Montanafields|talk]])
+2017-03-21T12:32:14+00:00,771419780,770083194,0,BubblyBarbara,Judoc,
+2016-05-09T14:26:00+00:00,719409329,712991354,0,MilenaGlebova1989,Montjoie (disambiguation),made minor grammar edits
+2016-04-14T06:01:37+00:00,715182855,715043136,0,Yobot,Persona (user experience),[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12002)
+2016-06-21T19:29:15+00:00,726373129,723824097,0,181.167.192.37,Office Assistant,Added a new reference of the subject described the article
+2016-02-19T10:49:32+00:00,705754844,705712281,0,The Anome,Office Assistant,Reverted edits by [[Special:Contribs/CheesyDogFuckMyFace12345|CheesyDogFuckMyFace12345]] ([[User talk:CheesyDogFuckMyFace12345|talk]]) to last version by Niceguyedc
+2016-12-09T00:51:54+00:00,753761072,752922352,0,JustBerry,Pair programming,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/112.198.102.166|112.198.102.166]] using [[WP:STiki|STiki]]
+2016-02-01T18:33:31+00:00,702793029,702790328,0,199.21.86.70,Interaction design,/* Further reading */
+2016-05-07T05:17:08+00:00,719034275,719034176,0,Lfstevens,Pyan Gaun,
+2017-06-15T19:25:42+00:00,785850209,768072654,0,RussBot,Pyan Gaun,Robot: fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Village development committee]]
+2016-09-25T09:01:00+00:00,741085532,741085395,0,Mauls,Service design,/* History of service design */
+2017-03-07T08:21:22+00:00,769050910,769050249,0,PeterEastern,Persona (user experience),lead c/e
+2016-12-29T03:27:05+00:00,757157430,757157345,0,BronHiggs1,Service design,/* See also */ added two relevant internal links
+2016-03-14T12:54:46+00:00,710013872,710013799,0,Viam Ferream,Service design,section order
+2017-03-21T22:33:52+00:00,771505947,771505803,0,MrOllie,Service design,rm  more extlinks
+2016-01-17T12:03:15+00:00,700258653,700128634,0,Bentogoa,Sony MAX HD,"has only one line relevant to Article's subject, converted to redirect"
+2016-10-01T05:40:41+00:00,742023747,742022994,0,Lestersquare,Spenser: For Hire,Ref error
+2017-02-20T17:36:53+00:00,766521333,765479267,0,81.98.169.165,User experience design,"updated how much importance was actually pt on UX in the late nineties (I was there, there was almost none)"
+2017-05-23T02:57:47+00:00,781764495,779003403,0,2405:204:6109:8ACE:0:0:BAC:E8A4,Software design,/* Design Concepts */
+2016-10-09T01:11:16+00:00,743299229,743298155,0,Cydebot,Spenser: For Hire,"Robot - Moving category Television shows set in Boston, Massachusetts to [[:Category:Television shows set in Boston]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]]."
+2017-01-16T18:14:27+00:00,760389356,760389123,0,72.166.51.90,Persona (user experience),Undid revision 760389123 by [[Special:Contributions/72.166.51.90|72.166.51.90]] ([[User talk:72.166.51.90|talk]])
+2017-03-28T17:34:28+00:00,772673933,772610178,0,GünniX,Software design,Undid revision 772439815 by [[Special:Contributions/116.202.248.202|116.202.248.202]] ([[User talk:116.202.248.202|talk]])
+2017-04-27T07:43:27+00:00,777454701,777453456,0,Jim1138,User experience design,Reverted edits by [[Special:Contributions/185.73.196.65|185.73.196.65]] ([[User talk:185.73.196.65|talk]]): Not adhering to [[WP:NPOV|neutral point of view]] ([[WP:HG|HG]]) (3.1.22)
+2016-03-25T18:22:26+00:00,711918028,711917111,0,Meters,Software design,"Undid revision 711917111 by [[Special:Contributions/Sunflowerz1957323Angel|Sunflowerz1957323Angel]] ([[User talk:Sunflowerz1957323Angel|talk]]) not an improvement, and some is actually incorrect"
+2016-10-20T13:25:30+00:00,745320891,732750172,0,188.70.8.163,Software design,
+2016-12-23T19:53:46+00:00,756371659,756347667,0,"Me, Myself, and I are Here",User experience design,/* History */ LQ
+2016-05-07T21:24:02+00:00,719140989,718968931,0,43.246.161.232,User experience design,Added a reference about difference between UI and UX Design
+2017-05-25T18:41:14+00:00,782243347,782241929,0,Oshwah,User experience design,Reverted edits by [[Special:Contributions/203.122.7.62|203.122.7.62]] ([[User talk:203.122.7.62|talk]]): Editing tests ([[WP:HG|HG]]) (3.1.22)
+2016-03-12T05:21:03+00:00,709649887,709649697,0,Renamed user 8gzkdu68phsoyd2,User experience design,"/* Materials */ original research unfounded? not a directory of links, plus original user who added was blocked for abusing multiple accounts"
+2016-03-01T14:42:37+00:00,707740385,707696830,0,Ohnoitsjamie,User experience design,Reverted edits by [[Special:Contribs/Worldmikejones|Worldmikejones]] ([[User talk:Worldmikejones|talk]]) to last version by XLinkBot
+2016-07-13T11:29:08+00:00,729610512,728821920,0,Akatijs,User experience design,Fix misspelling of heuristic
+2016-06-03T05:44:34+00:00,723464199,723044095,0,MadhuriH,User experience design,added new methods in the beginning and the mid way of the user design project.
+2016-01-03T11:31:34+00:00,698007048,697988346,0,Onel5969,User experience design,Reverted 1 edit by [[Special:Contributions/81.156.127.202|81.156.127.202]] identified as test/vandalism using [[WP:STiki|STiki]]
+2016-05-10T18:24:20+00:00,719606329,719140989,0,Deli nk,User experience design,Undid revision 719140989 by [[Special:Contributions/43.246.161.232|43.246.161.232]] ([[User talk:43.246.161.232|talk]])
+2016-08-15T08:05:09+00:00,734576223,733501786,0,Rosalindofarden,User experience design,"/* Visual designers */Fixed typo ""hinted and the expected behavior"" to ""hinted at the expected behavior."""
+2016-11-17T18:56:35+00:00,750085667,748682380,0,Thuylink2807,User experience design,Additional information
+2016-05-27T11:33:09+00:00,722329177,722328973,0,80.44.199.1,User experience design,
+2017-06-04T19:32:07+00:00,783804487,782243347,0,Mhebbal,User experience design,Corrected the spelling of Find-ability
+2016-01-30T03:24:58+00:00,702364718,702364446,0,67.169.54.107,User experience design,/* Testing the design */
+2017-04-03T04:50:05+00:00,773562019,773560221,0,Jaswa003,User-centered design,Corrected grammatical erros
+2016-04-30T17:34:56+00:00,717949668,717949567,0,"Me, Myself, and I are Here",User-centered design,"/* Analysis tools used in user-centered design */ simplify, caps"
+2016-12-04T08:02:27+00:00,752945182,752839050,0,Yobot,Vettah,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]]
+2016-09-13T20:51:17+00:00,739287931,739068531,0,Charles Turing,Vettah,/* top */
+2017-06-03T03:35:55+00:00,783561275,779348842,0,Magic links bot,Alan Cooper,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2016-07-05T10:14:29+00:00,728423873,727758903,0,Statliner,Application posture,"Made reference to possibly nonexistent page [[Solusuin]] (listed under heading ''See also'') a 'redirect', as I think the purpose of that section is (or at least it should be, as far as I'm aware) to provide such redirects only."
+2015-10-06T17:55:27+00:00,684445483,682431104,0,50.149.70.79,Alan Cooper,/* Visual Basic */
+2017-03-27T08:33:29+00:00,772438877,770217573,0,D A R C 12345,Characene,/* History */
+2016-05-21T08:13:58+00:00,721356112,721355704,0,BenjaminSSW,Characene,Undid revision 721355704 by [[Special:Contributions/BenjaminSSW|BenjaminSSW]] ([[User talk:BenjaminSSW|talk]])
+2015-01-09T16:01:21+00:00,641744586,641744235,0,Diego Moya,Application posture,
+2016-03-22T02:43:34+00:00,711306695,711282540,0,Italia2006,Characene,
+2016-01-31T15:22:33+00:00,702595611,702595582,0,CommonsDelinker,Computer History Museum,"Removing ""Punched_Card_Gallery_in_Revolution_exhibition_at_the_Computer_History_Museum.jpg"", it has been deleted from Commons by [[commons:User:Jameslwoodward|Jameslwoodward]] because: Per [[:c:Commons:Deletion requests/Files uploaded by Csweetchm|]]."
+2016-09-15T17:54:17+00:00,739600225,737077441,0,Miwii69,Computer History Museum,/* Collections and exhibition space */
+2016-07-01T22:25:46+00:00,727892989,727892800,0,50.204.185.162,Computer History Museum,/* Fellows */
+2016-12-08T23:33:04+00:00,753750092,753750055,0,Hume42,Cooper,Reverted 1 edit by [[Special:Contributions/24.231.165.185|24.231.165.185]] ([[User talk:24.231.165.185|talk]]) to last revision by Oshwah. ([[WP:TW|TW]])
+2015-12-17T01:33:34+00:00,695577506,694687740,0,Bender235,Computer History Museum,/* Collections and exhibition space */clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]
+2016-06-24T09:05:02+00:00,726776602,726776530,0,ProprioMe OW,Cooper,Reverted 2 edits by [[Special:Contributions/213.122.166.70|213.122.166.70]] ([[User talk:213.122.166.70|talk]]) to last revision by Bkonrad. ([[WP:TW|TW]])
+2016-05-18T17:18:06+00:00,720903685,720903599,0,Hammersoft,Designer,
+2015-09-22T07:16:12+00:00,682208448,682120344,0,Christian75,Designer,Undid revision 682120344 by [[Special:Contributions/197.40.223.141|197.40.223.141]] ([[User talk:197.40.223.141|talk]])
+2015-10-09T00:51:48+00:00,684826908,684816503,0,Versageek,Designer,Reverted edits by [[Special:Contribs/106.192.157.216|106.192.157.216]] ([[User talk:106.192.157.216|talk]]) to last version by Smartskaft
+2017-05-10T15:23:23+00:00,779715973,776255217,0,Kku,Designer,link [[mass production]] using [[:en:User:Edward/Find link|Find link]]
+2017-01-19T15:29:45+00:00,760870298,750453989,0,Kku,Indigenous peoples in Yukon,link [[land consumption|land loss]] using [[:en:User:Edward/Find link|Find link]]
+2017-05-14T01:28:46+00:00,780280910,774917664,0,104.37.191.2,Interaction design,/* History */
+2015-11-27T07:28:13+00:00,692645101,692249082,0,MatthewRBerning,Indigenous peoples in Yukon,"Small grammar and phrasing changes, no substance added."
+2017-01-19T23:31:51+00:00,760942610,759312182,0,2A02:1810:A409:DF00:A4DD:2DDF:92EB:24F3,Interaction design,
+2017-06-16T19:24:42+00:00,786020532,780280910,0,Magic links bot,Interaction design,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2016-05-18T21:34:54+00:00,720941546,718425192,0,Bender235,Interaction design,clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]
+2016-01-17T10:45:00+00:00,700252114,695451843,0,Dylsey,Interaction design,/* Personas */  Added a link to article about User Experience
+2016-01-30T23:59:22+00:00,702503615,671703192,0,Jheald,Judoc,/* External links */
+2017-04-16T18:26:49+00:00,775726522,775726353,0,Kaliforniyka,Montjoie (disambiguation),/* top */
+2016-06-17T05:49:36+00:00,725680325,725680042,0,My Chemistry romantic,Judoc,Undid revision 725680042 by [[Special:Contributions/Vansh ahlawat|Vansh ahlawat]] ([[User talk:Vansh ahlawat|talk]]):Revert unexplained change of birth and death locations
+2016-11-26T14:15:46+00:00,751566710,751565147,0,Florian Blaschke,Judoc,/* Ancestors */ gr
+2015-12-28T20:43:25+00:00,697181702,696098834,0,Crjessen,Montjoie (disambiguation),"Changed ""far from clear"" to ""uncertain"".  The latter is more concrete language."
+2017-01-17T03:49:17+00:00,760463523,760463324,0,FallingGravity,Office Assistant,Undid revision 760463324 by [[Special:Contributions/FallingGravity|FallingGravity]] ([[User talk:FallingGravity|talk]])
+2017-05-12T01:18:17+00:00,779952508,779801494,0,Phronko,Office Assistant,"Added erotic story paragraph again, but this time with a source"
+2016-11-04T09:56:35+00:00,747780678,747780657,0,Marcocapelle,Persona (user experience),added [[Category:Market segmentation]] using [[WP:HC|HotCat]]
+2017-01-06T20:23:44+00:00,758663617,758661768,0,FallingGravity,Office Assistant,Reverted 4 edits by [[Special:Contributions/Aaron's The Best|Aaron's The Best]] ([[User talk:Aaron's The Best|talk]]) to last revision by Yngvadottir. ([[WP:TW|TW]])
+2016-02-03T18:04:52+00:00,703130665,702354565,0,Nolanpark,Montjoie (disambiguation),style
+2017-02-22T10:05:43+00:00,766824173,760389356,0,61.216.88.88,Persona (user experience),/* See also */
+2016-11-15T09:07:13+00:00,749616870,749616512,0,Merlin2001,Pair programming,Undid revision 740337315 by [[Special:Contributions/203.191.35.22|203.191.35.22]] ([[User talk:203.191.35.22|talk]]) - Text in Team-building and communication was removed for no obvious reason.
+2017-01-08T18:02:05+00:00,758992161,719034275,0,JJMC89 bot,Pyan Gaun,"Migrate {{Infobox historic site}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]"
+2016-10-29T21:20:10+00:00,746834925,746156324,0,Marcocapelle,Service design,removed parent category of [[Category:IT service management]]
+2015-11-05T12:31:02+00:00,689178883,689178642,0,Non-dropframe,Software design,Reverted edits by [[Special:Contributions/2607:FB90:47:304:66F7:3C96:489D:DCC6|2607:FB90:47:304:66F7:3C96:489D:DCC6]] ([[User talk:2607:FB90:47:304:66F7:3C96:489D:DCC6|talk]]) ([[WP:HG|HG]]) (3.1.16)
+2016-10-25T16:14:17+00:00,746156324,741085532,0,62.107.93.149,Service design,
+2015-12-17T14:31:15+00:00,695641432,695638311,0,StevenHoogslag,Service design,/* Service design in the public sector */
+2015-12-12T07:05:39+00:00,694882803,694733353,0,Bgwhite,Software design,[[WP:CHECKWIKI]] error fix #8 or #105. Fix broken section header. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]] (11756)
+2017-03-17T06:51:54+00:00,770732102,768370878,0,103.192.224.141,Service design,add one master program located in China
+2017-06-02T04:22:17+00:00,783416449,780129713,0,Tiffanyyk,Service design,
+2017-05-06T12:58:34+00:00,779003403,772673933,0,Queued37,Software design,Reverting vandalism by 2601:641:1:60c:796b:a24b:47fe:c226
+2015-09-20T09:00:24+00:00,681906149,681799679,0,Hertz1888,Spenser: For Hire,/* DVD releases */ mos date style
+2017-03-05T11:57:35+00:00,768722528,768396569,0,WereSpielChequers,Spenser: For Hire,typo
+2016-06-21T15:43:37+00:00,726344313,725276286,0,Ejide1150,Spenser: For Hire,/* Production */
+2016-04-22T20:17:19+00:00,716624507,716046250,0,Mean as custard,User experience design,Spam link removal
+2015-10-16T01:04:23+00:00,685951216,683154824,0,Ndhaijaan,User experience design,Added 'Main Article' links to several sections
+2016-06-24T01:20:45+00:00,726734901,725075930,0,117.196.22.95,User experience design,
+2016-09-03T10:52:22+00:00,737521500,736441154,0,DesignArt,User experience design,comma for registration introductory words and appeals:
+2015-10-01T15:32:40+00:00,683638928,679410555,0,ColRad85,User-centered design,Disambiguated: [[CXO]] → [[Chief Experience Officer]]
+2016-07-19T23:11:21+00:00,730581560,730558317,0,Cyphoidbomb,Vettah,Runtime is presented in minutes
+2016-12-29T16:24:26+00:00,757240432,757240171,0,Ajinrajs7273,Vettah,
+2016-11-15T05:01:34+00:00,749597188,743306183,0,Ancheta Wis,User-centered design,/* Needs and emotions */ citation

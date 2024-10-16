@@ -1,0 +1,12 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-01-26T12:53:56+00:00,1002878272,999072178,1,Veritas2021,"Luna Park (Coney Island, 2010)","/* Description */ Name, Info"
+2021-01-26T12:48:25+00:00,1002877575,992009276,1,Veritas2021,Thunderbolt (1925 roller coaster),Order
+2021-01-26T11:10:09+00:00,1002864063,999941266,1,Veritas2021,Coney Island Cyclone,Incorrect info
+2021-01-26T22:58:11+00:00,1002983127,1002864218,1,HoneyBz,Coney Island Cyclone,removed false info
+2020-12-03T00:27:30+00:00,992009276,991983688,0,Keith D,Thunderbolt (1925 roller coaster),Fix cite date errors
+2021-01-26T11:10:54+00:00,1002864218,1002864063,0,Renamed user 7z42t3k8qj,Coney Island Cyclone,Reverted 1 edit by [[Special:Contributions/Veritas2021|Veritas2021]] ([[User talk:Veritas2021|talk]]): Please discuss on the talk page before making mass changes
+2021-01-26T17:58:36+00:00,1002931199,1002878272,0,Epicgenius,"Luna Park (Coney Island, 2010)",ce
+2020-12-04T23:29:12+00:00,992379308,990715269,0,Monkbot,Coney Island Cyclone,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 64 templates: del empty params (3×); hyphenate params (2×); cvt lang vals (1×);
+2021-01-12T18:48:36+00:00,999941266,998899563,0,Monkbot,Coney Island Cyclone,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 73 templates: hyphenate params (8×);
+2021-01-08T10:17:11+00:00,999072178,992235851,0,Citation bot,"Luna Park (Coney Island, 2010)",Alter: title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Operating amusement attractions]] | via #UCB_Category 364/706
+2020-12-04T05:40:41+00:00,992235851,966024549,0,Monkbot,"Luna Park (Coney Island, 2010)",[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 12 templates: del empty params (2×); hyphenate params (2×); del |url-status= (1×);

@@ -1,0 +1,249 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-03-02T12:22:37+00:00,1009815323,1009814346,1,Manfred.ruzicka,Wikipedia:Articles for deletion/SSH-MITM,"added comment, why I have contributed to the page"
+2021-03-02T12:15:18+00:00,1009814346,1009789453,1,Manfred.ruzicka,Wikipedia:Articles for deletion/SSH-MITM,"DELETE, because sometimes it's simply just too soon for some topics to have an article"
+2021-02-13T21:10:18+00:00,1006615330,1006603181,1,Manfred.ruzicka,Wikipedia:Articles for deletion/SSH-MITM,"question to other discussion contributors, if the content can be merged in another page or if they want, that the content will be removed"
+2021-02-13T19:50:37+00:00,1006602377,1006599349,1,Manfred.ruzicka,Wikipedia:Articles for deletion/SSH-MITM,"added note, that the pdf report, which can be downloaded, is the source and not the website with the download link"
+2021-02-13T19:29:21+00:00,1006599349,1006540878,1,Manfred.ruzicka,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-13T11:47:25+00:00,1006537450,1006522428,1,Manfred.ruzicka,Wikipedia:Articles for deletion/SSH-MITM,"mentioned public interest, because all versions of OpenSSH (even the latest) are affected by CVE-2020-14145 and SSH-MITM is according to nist and mitre the obly public available tool the check if a client is affected"
+2021-02-13T07:56:48+00:00,1006514354,1006514171,1,Manfred.ruzicka,OpenSSH,added mitigation against CVE-2020-14145 from ssh-mitm
+2021-02-13T07:54:49+00:00,1006514171,1002702079,1,Manfred.ruzicka,OpenSSH,/* Vulnerabilities */
+2021-02-13T07:38:54+00:00,1006512714,1006425286,1,Manfred.ruzicka,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-12T20:39:06+00:00,1006424499,1006191787,1,Manfred.ruzicka,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-12T20:15:36+00:00,1006421006,1006420864,1,Manfred.ruzicka,Comparison of SSH servers,/* Features */
+2021-02-12T20:14:40+00:00,1006420864,1006149092,1,Manfred.ruzicka,Comparison of SSH servers,/* General */
+2021-02-11T08:41:43+00:00,1006143619,1006058433,1,Manfred.ruzicka,Comparison of SSH servers,"SSH-MITM has an artice, so this requirement to be in the list is satisfied, there are no external links, which was also a requirement. thanks for not reverting"
+2021-02-10T20:12:20+00:00,1006056084,1006055081,1,Manfred.ruzicka,Comparison of SSH servers,"removed links to github project page, I hope this is enough to remove the ""conflict of interest"" revert, I left the reference to the revision page"
+2021-02-10T20:03:29+00:00,1006054837,1006054061,1,Manfred.ruzicka,Comparison of SSH servers,Undid revision 1006054061 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2021-02-10T19:57:39+00:00,1006054002,1006052688,1,Manfred.ruzicka,Comparison of SSH servers,"Added SSH-MITM again, because it is a ssh server for security audits and malware analysis, if you think it's not a ssh server, please comment why"
+2021-02-10T19:48:40+00:00,1006052659,1006052444,1,Manfred.ruzicka,Comparison of SSH servers,/* Features */
+2021-02-10T19:47:05+00:00,1006052444,1006051972,1,Manfred.ruzicka,Comparison of SSH servers,/* General */
+2021-02-10T19:43:58+00:00,1006051972,1006051274,1,Manfred.ruzicka,Comparison of SSH servers,/* General */
+2021-02-10T19:39:27+00:00,1006051274,1006050458,1,Manfred.ruzicka,Comparison of SSH servers,/* Features */
+2021-02-10T19:34:53+00:00,1006050458,1006049744,1,Manfred.ruzicka,Comparison of SSH servers,/* Platform */
+2021-02-10T19:30:34+00:00,1006049744,1006048088,1,Manfred.ruzicka,Comparison of SSH servers,/* Platform */
+2021-02-10T19:22:05+00:00,1006048088,1000697123,1,Manfred.ruzicka,Comparison of SSH servers,/* General */
+2021-01-18T09:55:42+00:00,1001122053,1001117549,1,Manfred.ruzicka,Man-in-the-middle attack,/* External links */
+2021-01-18T09:23:17+00:00,1001117549,1001115849,1,Manfred.ruzicka,Man-in-the-middle attack,/* Notable instances */
+2021-01-18T09:11:28+00:00,1001115849,1001090211,1,Manfred.ruzicka,Man-in-the-middle attack,added a tool for ssh mitm attacks.
+2012-04-08T09:09:59+00:00,486227828,486072052,1,Manfred.ruzicka,List of free and open-source Android applications,/* General */
+2012-04-07T12:51:29+00:00,486072052,484160555,1,Manfred.ruzicka,List of free and open-source Android applications,
+2022-08-05T13:09:29+00:00,1102517940,1099366373,1,Hangman'sDeath,User talk:Hangman'sDeath,
+2022-07-20T11:22:25+00:00,1099366373,1099204087,1,Hangman'sDeath,User talk:Hangman'sDeath,
+2022-07-19T11:42:06+00:00,1099181339,1099181186,1,Hangman'sDeath,User talk:Hangman'sDeath,
+2022-07-19T11:40:58+00:00,1099181186,1099134943,1,Hangman'sDeath,User talk:Hangman'sDeath,
+2022-07-18T06:59:23+00:00,1098943483,1098934589,1,Hangman'sDeath,User talk:Hangman'sDeath,/* @ Maxim */
+2022-07-18T05:42:25+00:00,1098934589,0,1,Hangman'sDeath,User talk:Hangman'sDeath,/* @ Maxim */ new section
+2020-06-22T07:07:10+00:00,963863661,963858179,1,Hangman'sDeath,IEEEmadC,"/* Winners */ remove entire section, no need for for such a bloated advertising like list"
+2021-03-02T13:31:13+00:00,1009824373,1009818604,1,Herozero4,Wikipedia:Articles for deletion/SSH-MITM,Rudolfstrauss intention was to promote himself as wikipedia contributor and not to improve the project or wikipedia (see reddit comments)
+2021-03-02T12:41:27+00:00,1009817741,1009817452,1,Herozero4,Wikipedia:Articles for deletion/SSH-MITM,
+2021-03-03T07:31:40+00:00,1009985843,1009985371,1,Rudolfstrauss,User talk:Rudolfstrauss,[[WP:AES|←]]Replaced content with '{{retired}}'
+2021-03-03T07:27:15+00:00,1009985371,1009832412,1,Rudolfstrauss,User talk:Rudolfstrauss,
+2021-03-03T07:23:03+00:00,1009984897,1009833861,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,DELETE - because the discussion went bad for me
+2021-03-02T14:23:42+00:00,1009831890,1009824550,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,delete because all people are bullying me
+2021-03-02T12:42:54+00:00,1009817960,1009817741,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,i want to keep the article!
+2021-03-02T12:35:20+00:00,1009816954,1009816801,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,
+2021-03-02T12:34:06+00:00,1009816801,1009816717,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,Undid revision 1009816717 by [[Special:Contributions/Rudolfstrauss|Rudolfstrauss]] ([[User talk:Rudolfstrauss|talk]])
+2021-03-02T12:33:24+00:00,1009816717,1009815323,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,
+2021-02-22T10:43:16+00:00,1008253180,1007879606,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,
+2021-02-11T12:27:35+00:00,1006166771,1006161504,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T11:33:24+00:00,1006161342,1006161265,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T11:32:32+00:00,1006161265,1006161226,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T11:32:05+00:00,1006161226,1006161162,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T11:31:15+00:00,1006161162,1006159757,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T11:16:49+00:00,1006159757,1006159277,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T11:11:56+00:00,1006159277,1006158796,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T11:07:34+00:00,1006158796,1006158589,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T11:04:21+00:00,1006158474,1006157339,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T10:07:55+00:00,1006151976,1006151917,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T10:07:31+00:00,1006151917,1006151708,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T10:06:24+00:00,1006151708,1006151676,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T10:05:04+00:00,1006151554,1006150316,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T09:54:05+00:00,1006150316,1006150284,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T09:53:49+00:00,1006150284,1006149082,1,Rudolfstrauss,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */
+2021-02-11T09:41:21+00:00,1006149092,1006143619,1,Rudolfstrauss,Comparison of SSH servers,added agent forwarding as suggested on the talk page
+2021-03-03T18:57:48+00:00,1010088118,1010087961,1,Ruzima,User talk:Ruzima,
+2021-03-03T18:56:48+00:00,1010087961,1010087769,1,Ruzima,User talk:Ruzima,
+2021-03-03T18:55:41+00:00,1010087769,1010084545,1,Ruzima,User talk:Ruzima,"removed the talk page, because I have I have created a appeal in UTRS"
+2021-03-03T18:34:53+00:00,1010084545,1010084263,1,Ruzima,User talk:Ruzima,fixed format of text
+2021-03-03T18:33:10+00:00,1010084263,1010084160,1,Ruzima,User talk:Ruzima,
+2021-03-03T18:32:32+00:00,1010084160,1010046307,1,Ruzima,User talk:Ruzima,
+2021-03-03T14:52:54+00:00,1010043544,1010043114,1,Ruzima,User talk:Ruzima,
+2021-03-03T14:50:33+00:00,1010043114,1010042788,1,Ruzima,User talk:Ruzima,
+2021-03-03T14:48:42+00:00,1010042788,0,1,Ruzima,User talk:Ruzima,"Please remove the sockpuppet info, I have proven my identity and I'm not connected with rudolfstrauss"
+2021-03-02T17:58:45+00:00,1009866492,1009859864,1,Ruzima,User:Ruzima,added coi
+2021-03-02T17:22:55+00:00,1009859864,1009632790,1,Ruzima,User:Ruzima,
+2021-03-02T08:59:35+00:00,1009789453,1009784709,1,Ruzima,Wikipedia:Articles for deletion/SSH-MITM,added link to a statement about discussions on social media and wikipedia
+2021-03-02T08:14:01+00:00,1009784709,1009781622,1,Ruzima,Wikipedia:Articles for deletion/SSH-MITM,added comment for the person who deleted my vote
+2021-03-02T07:45:15+00:00,1009781622,1009772516,1,Ruzima,Wikipedia:Articles for deletion/SSH-MITM,Undid revision 1009772516 because my comment was removed
+2021-03-01T15:11:37+00:00,1009632790,1009625533,1,Ruzima,User:Ruzima,
+2021-03-01T14:29:13+00:00,1009626755,1009626282,1,Ruzima,Wikipedia:Articles for deletion/SSH-MITM,"removed reference to pypi repo, because this does not make sense to verify an account"
+2021-03-01T14:25:39+00:00,1009626282,1009625213,1,Ruzima,Wikipedia:Articles for deletion/SSH-MITM,moved the ssh signature to my wikipedia profile
+2021-03-01T14:19:57+00:00,1009625533,0,1,Ruzima,User:Ruzima,created signature to verify my account
+2021-03-01T14:17:25+00:00,1009625213,1009625028,1,Ruzima,Wikipedia:Articles for deletion/SSH-MITM,
+2021-03-01T14:15:57+00:00,1009625028,1009619501,1,Ruzima,Wikipedia:Articles for deletion/SSH-MITM,"added ssh signature to verify, that I'm the author of ssh-mitm"
+2021-03-01T13:37:15+00:00,1009619501,1009608475,1,Ruzima,Wikipedia:Articles for deletion/SSH-MITM,delete page request from author of ssh-mitm
+2010-08-17T07:52:55+00:00,379361601,379361359,1,Ruzima,S5 (file format),/* External links */
+2010-08-17T07:50:08+00:00,379361359,364732424,1,Ruzima,S5 (file format),/* External links */
+2011-03-21T12:48:38+00:00,419962978,411981924,0,122.167.79.204,Comparison of SSH servers,/* General */
+2018-07-05T13:17:02+00:00,848952359,848947211,0,The Banner,Comparison of SSH servers,
+2014-05-01T05:13:57+00:00,606580846,606241954,0,78.108.105.4,Comparison of SSH servers,updated TinySSH version
+2013-01-03T17:00:16+00:00,531111008,531110469,0,Danstolz,Comparison of SSH servers,/* Features */
+2013-02-05T15:56:42+00:00,536710519,536342096,0,71.8.220.142,Comparison of SSH servers,/* General */
+2014-12-16T11:30:56+00:00,638341210,638340864,0,109.230.54.50,Comparison of SSH servers,Undid revision 638340809 by [[Special:Contributions/109.230.54.50|109.230.54.50]] ([[User talk:109.230.54.50|talk]])
+2012-12-18T08:36:58+00:00,528608232,528607462,0,Tevkar,Comparison of SSH servers,OpenSSH is not available natively on Windows
+2020-10-15T21:29:23+00:00,983722656,983375337,0,Tevkar,Comparison of SSH servers,"Copssh version update, update license information"
+2021-10-16T09:37:16+00:00,1050189422,1036614226,0,Citation bot,Comparison of SSH servers,"Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1265/2198"
+2021-08-01T17:18:46+00:00,1036614226,1029660580,0,Anton.bersh,Comparison of SSH servers,Update link after page move
+2013-08-13T13:54:18+00:00,568360074,567611643,0,Tevkar,Comparison of SSH servers,Update Copssh version information.
+2013-09-16T11:23:36+00:00,573142464,572978288,0,62.111.192.66,Comparison of SSH servers,/* Platform */
+2015-11-10T18:06:19+00:00,690000979,689674257,0,BlackFingolfin,Comparison of SSH servers,
+2015-10-09T16:04:27+00:00,684916663,681596458,0,Qji,Comparison of SSH servers,/* General */
+2022-06-27T02:49:04+00:00,1095214009,1095213958,0,Aoidh,Comparison of SSH servers,Undid revision 1095213958 by [[Special:Contributions/94.234.115.122|94.234.115.122]] ([[User talk:94.234.115.122|talk]]) See your talk page.
+2015-09-18T05:59:04+00:00,681596458,681596319,0,109.166.139.3,Comparison of SSH servers,/* Features */ Add SFTPPlus. I am the author of SFTPPlus.
+2012-09-20T19:55:30+00:00,513764617,510824717,0,82.72.18.227,Comparison of SSH servers,/* Platform */
+2022-01-19T03:02:10+00:00,1066584828,1066516476,0,Lealemwiki,Comparison of SSH servers,/* Platform */
+2020-06-19T21:47:31+00:00,963452307,959749610,0,Mstd83,Comparison of SSH servers,Added Bitvise SSH Server
+2015-07-23T06:33:15+00:00,672691129,672690299,0,93.193.157.33,Comparison of SSH servers,
+2012-06-30T16:48:12+00:00,500067071,497025684,0,Rkuster,Comparison of SSH servers,
+2012-11-21T16:56:43+00:00,524214905,524214803,0,Mifter,Man-in-the-middle attack,RVV good faith edits ([[WP:HG|HG]])
+2022-05-26T19:05:42+00:00,1089991795,1089985899,0,MrOllie,Man-in-the-middle attack,Restored revision 1089134490 by [[Special:Contributions/Mako001|Mako001]] ([[User talk:Mako001|talk]])
+2011-06-01T21:26:38+00:00,432066378,432066226,0,72.48.145.28,Comparison of SSH servers,/* Features */
+2011-02-04T14:56:06+00:00,411981924,401296811,0,173.50.233.227,Comparison of SSH servers,/* See also */
+2020-01-16T18:46:48+00:00,936103697,936101945,0,Aaronjense-wolfssl,Comparison of SSH servers,/* Features */
+2020-06-05T07:25:38+00:00,960850514,957386853,0,Cyzoonic,List of free and open-source Android applications,Added peertube client to list of open source android multimedia applications
+2016-03-11T10:47:27+00:00,709517228,708644281,0,Mligor,Comparison of SSH servers,Updated Bitvise SSH Server latest release
+2015-06-08T16:18:36+00:00,666055023,664090100,0,Lotje,Man-in-the-middle attack,Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] () see also section
+2019-06-23T22:29:29+00:00,903150219,902845287,0,Dave.Dunford,Man-in-the-middle attack,"Undid revision 902845287 by [[Special:Contributions/184.64.125.149|184.64.125.149]] ([[User talk:184.64.125.149|talk]]) normal convention is for a/an to fit the abbreviation, not the expansion"
+2016-05-11T16:21:12+00:00,719758900,719758725,0,Dsprc,List of free and open-source Android applications,/* General */ iOS blurb
+2021-08-17T06:01:29+00:00,1039184246,1037648358,0,12think,List of free and open-source Android applications,/* Office Suites and synchronisation */ Updated with current info
+2018-05-14T21:55:32+00:00,841274432,840129501,0,DeprecatedFixerBot,Man-in-the-middle attack,"Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of ""cols"" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))"
+2010-12-22T12:56:11+00:00,403694863,403689716,0,Feloy,List of free and open-source Android applications,/* Games */
+2020-07-25T05:39:21+00:00,969400647,969399045,0,AnomieBOT,IEEEmadC,Dating maintenance tags: {{Notability}}
+2012-10-22T21:50:16+00:00,519278926,519278579,0,A bit iffy,Man-in-the-middle attack,/* See also */ unnecessary capitalisation
+2014-02-11T20:26:49+00:00,595029989,595029615,0,Derek R Bullamore,OpenSSH,Filling in 5 references using [[WP:REFLINKS|Reflinks]]
+2012-05-04T13:11:08+00:00,490628840,489892413,0,Jonkerz,OpenSSH,added [[Category:Secure Shell]] using [[WP:HC|HotCat]]
+2016-03-02T14:07:56+00:00,707907367,702424022,0,1.115.199.175,OpenSSH,Version Updating
+2015-02-13T09:14:32+00:00,646927739,627049669,0,Niceguyedc,S5 (file format),[[:en:WP:CLEANER|WPCleaner]] v1.34 - disambiguate [[Eric Meyer]]
+2014-02-12T14:47:22+00:00,595146355,576951436,0,Comp.arch,S5 (file format),
+2012-11-17T13:44:53+00:00,523494285,523479237,0,Kgfleischmann,OpenSSH,Undid revision 523479237 by [[Special:Contributions/88.193.62.38|88.193.62.38]] ([[User talk:88.193.62.38|talk]])still there
+2016-09-04T06:13:07+00:00,737650591,688465397,0,GreenC bot,S5 (file format),[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]
+2021-03-04T11:28:58+00:00,1010219668,1010099323,0,Yamla,User talk:Ruzima,No blanking
+2021-03-03T14:12:40+00:00,1010036824,1009866492,0,Maxim,User:Ruzima,{{checkuserblock-account}}
+2021-03-03T23:33:03+00:00,1010132398,1010077358,0,JBW,Wikipedia:Articles for deletion/SSH-MITM,/* SSH-MITM */ Closed as delete ([[WP:XFDC#4.0.11|XFDcloser]])
+2021-05-21T04:46:19+00:00,1024275516,1021032484,0,Russoz3,Comparison of SSH servers,Updated OpenSSH latest release to 8.6
+2022-05-01T04:32:19+00:00,1085554809,1083525127,0,94.234.50.155,Comparison of SSH servers,"Use [[d:Q2804309|stable]] versions and dates via [[Template:Wikidata|Wikidata]]. New column ""Latest release"" with subcolumns for versions and dates. New column ""Platform"" to allow for multiple versions and licenses. Neatened strings or into notes. Plus misc."
+2015-03-14T06:24:09+00:00,651299817,650407676,0,183.82.101.117,Comparison of SSH servers,/* General */
+2015-08-04T01:47:47+00:00,674456560,672691129,0,HandyHanthorn,Comparison of SSH servers,Updated specifics on GoAnywhere products as Linoma now has MFT that replaces Services
+2021-12-09T21:40:02+00:00,1059509015,1059466989,0,Keith D,Comparison of SSH servers,Remove leading zero from date
+2017-10-15T13:04:25+00:00,805445022,801779694,0,213.113.249.59,Comparison of SSH servers,/* General */ Updated latest OpenSSH version 7.6
+2020-02-29T17:15:07+00:00,943226470,942270216,0,37.142.6.22,Comparison of SSH servers,
+2016-08-18T21:29:08+00:00,735144777,735140781,0,Bkonrad,Comparison of SSH servers,Reverted edits by [[Special:Contribs/89.34.155.11|89.34.155.11]] ([[User talk:89.34.155.11|talk]]) to last version by MrOllie
+2016-10-01T01:24:56+00:00,741999392,741552461,0,R'n'B,Comparison of SSH servers,Disambiguate link to [[Mac OS]]
+2013-02-21T18:49:23+00:00,539487528,539486863,0,Loyeyoung,Comparison of SSH servers,/* General */
+2010-08-20T06:42:20+00:00,379916517,375276240,0,212.107.221.66,Comparison of SSH servers,/* General */
+2015-11-25T11:41:26+00:00,692398248,690000979,0,Ludup,Comparison of SSH servers,Renamed Maverick SSHD to Maverick Legacy Server. Updated release date.
+2015-01-29T13:05:41+00:00,644695398,642777137,0,194.137.52.222,Comparison of SSH servers,
+2012-12-06T20:48:27+00:00,526764341,521410843,0,Patrick87,Comparison of SSH servers,/* General */ Bitvise SSH Server: version -> 5.58
+2017-02-01T15:40:25+00:00,763145310,760355448,0,85.76.55.225,Comparison of SSH servers,/* General */
+2016-07-31T14:57:47+00:00,732372916,730384210,0,Moving99Lines,Comparison of SSH servers,Only changed release num and date for Syncplify.me server
+2016-05-13T16:57:54+00:00,720086105,720085883,0,152.208.56.223,Comparison of SSH servers,/* General */
+2017-09-01T18:09:54+00:00,798399832,789832232,0,FockeWulf FW 190,Comparison of SSH servers,cleanup
+2022-04-02T20:13:04+00:00,1080689251,1066584828,0,Degisftw,Comparison of SSH servers,/* Updated latest release of dropbear */
+2013-01-16T12:17:19+00:00,533355824,531111008,0,Winterstein,Comparison of SSH servers,Added freeSSHd into the by-OS table
+2019-10-21T22:36:41+00:00,922404249,920096093,0,131.228.197.140,Comparison of SSH servers,Fix typo
+2012-02-14T11:14:20+00:00,476814900,471842176,0,212.121.153.12,Comparison of SSH servers,/* General */
+2011-11-18T08:18:26+00:00,461247159,461246181,0,77.127.189.141,Comparison of SSH servers,/* Features */
+2019-01-06T11:34:12+00:00,877074376,858336546,0,81.218.104.83,Comparison of SSH servers,/* General */
+2019-07-10T05:48:40+00:00,905612250,893826029,0,2001:16B8:4C6:CE00:B5A6:1B30:8FA3:9096,Comparison of SSH servers,update Dropbear's latest release details
+2015-11-08T19:00:17+00:00,689674257,689673562,0,2605:6000:1024:C019:5C77:5463:E08:A9C6,Comparison of SSH servers,/* General */ update mobassh server latest version
+2019-08-05T22:52:43+00:00,909516140,905612250,0,Wiki559,Comparison of SSH servers,/* General */ Updated table to reflect OpenSSH 8.0 release
+2013-12-26T10:31:53+00:00,587726111,586623763,0,213.224.20.22,Comparison of SSH servers,/* Features */
+2013-03-28T21:35:09+00:00,547507008,547505768,0,BriggsBU,Comparison of SSH servers,/* Features */ Added PowerShell feature for SSH servers that allow access to Windows PowerShell functionality.
+2013-07-09T20:42:07+00:00,563573203,562333169,0,15.203.233.78,Comparison of SSH servers,"/* Features */ Removed the Whizz-Bang ""marketing"" columns for Georgia SoftWorks specific selling points. We don't include every column for every ""feature"" of every release - we would have hundreds of columns."
+2017-09-21T20:17:50+00:00,801779694,798399832,0,Eagleash,Comparison of SSH servers,copy out unused ref name
+2016-07-15T14:41:47+00:00,729924785,716887884,0,193.198.68.251,IEEEmadC,Erased the name of one founder
+2017-03-10T15:44:16+00:00,769604935,765420661,0,Jax 0677,IEEEmadC,/* References */ {{Institute of Electrical and Electronics Engineers}}
+2019-04-25T17:57:59+00:00,894106696,884460974,0,Sangram12,IEEEmadC,Link Added
+2017-05-21T15:45:30+00:00,781493775,780190333,0,InternetArchiveBot,List of free and open-source Android applications,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.3.2)
+2011-02-24T17:53:25+00:00,415721383,415721128,0,175.157.175.185,List of free and open-source Android applications,/* Utilities */
+2013-02-13T03:28:58+00:00,537984295,537713881,0,192.95.190.60,List of free and open-source Android applications,/* Games */
+2016-08-01T21:54:30+00:00,732580227,732406960,0,Teeks99,List of free and open-source Android applications,"Undid revision 732406960 by [[Special:Contributions/Matdoya|Matdoya]] ([[User talk:Matdoya|talk]]) - Not notable, no article (see talk page)."
+2016-02-08T09:30:50+00:00,703900975,703899888,0,Airsynth,List of free and open-source Android applications,Added official Chromium APK link
+2012-10-26T03:18:19+00:00,519874606,519873339,0,SQGibbon,List of free and open-source Android applications,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/128.61.113.164|128.61.113.164]] ([[User talk:128.61.113.164|talk]]): Non-notable. ([[WP:TW|TW]])
+2015-02-09T10:59:05+00:00,646331593,645588682,0,88.135.7.181,List of free and open-source Android applications,/* Communication */
+2020-10-10T20:29:44+00:00,982861178,975713813,0,85.221.129.44,List of free and open-source Android applications,
+2017-01-02T00:09:04+00:00,757829842,756296134,0,2601:644:300:FD6B:41BF:2177:BDE7:FA5C,List of free and open-source Android applications,/* Web browsers */
+2019-09-17T01:38:08+00:00,916104809,915974343,0,Ajax-x86,List of free and open-source Android applications,Undid revision 915974343 by [[Special:Contributions/2409:4063:4E06:4970:5048:BCA3:6BDE:A19|2409:4063:4E06:4970:5048:BCA3:6BDE:A19]] ([[User talk:2409:4063:4E06:4970:5048:BCA3:6BDE:A19|talk]])  ([[w:en:User:FR30799386/undo|mobileUndo]])
+2012-06-22T04:04:38+00:00,498778934,498778434,0,Steven Walling,List of free and open-source Android applications,/* General */
+2013-11-10T18:29:48+00:00,581071589,581069622,0,Beakermeep,List of free and open-source Android applications,/* Multimedia */  added Ringdroid
+2016-12-17T19:36:23+00:00,755393952,753829915,0,Dodi 8238,List of free and open-source Android applications,/* Security / Privacy focused tools */ w
+2014-07-09T11:46:11+00:00,616211973,616161457,0,Teeks99,List of free and open-source Android applications,"Cryptonite looks interesting, but is only borderline notable. We need to make a page for it first."
+2014-08-01T01:55:49+00:00,619370575,619349575,0,WikiTryHardDieHard,List of free and open-source Android applications,/* External links */ new link. The old one is dead
+2018-03-28T16:28:50+00:00,832904293,830998270,0,Meeerkat507,List of free and open-source Android applications,/* Navigation */
+2018-07-18T15:00:52+00:00,850875895,850875318,0,I am axx,List of free and open-source Android applications,/* General */ added nextcloud client
+2013-05-10T12:11:46+00:00,554434410,554434368,0,Diaa Sami,List of free and open-source Android applications,/* Games */ Removed extra dash
+2012-01-26T19:24:40+00:00,473381940,473381463,0,130.126.239.38,List of free and open-source Android applications,/* General */
+2020-11-29T16:40:52+00:00,991352689,990679770,0,Monkbot,List of free and open-source Android applications,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 28 templates: del empty params (20×); hyphenate params (2×);
+2020-05-18T16:06:32+00:00,957386853,956972115,0,2.15.237.200,List of free and open-source Android applications,/* Privacy/security focused */ F-Droid repository link for ProtonVPN
+2012-08-30T17:20:56+00:00,509966973,509904307,0,199.82.243.106,List of free and open-source Android applications,/* General */
+2015-10-20T11:56:07+00:00,686646572,686631552,0,Dsimic,Man-in-the-middle attack,Undid revision 686631552 by [[Special:Contributions/Arado|Arado]] ([[User talk:Arado|talk]]) Please see the [[WP:NOTBROKEN]] guideline
+2022-03-14T01:26:13+00:00,1076990270,1075236222,0,Ted.tem.parker,Man-in-the-middle attack,/* Notable instances */
+2012-03-24T19:49:43+00:00,483731316,483444304,0,FreakingOut,Man-in-the-middle attack,/* Defenses against the attack */
+2019-05-17T00:31:53+00:00,897431798,897426991,0,Ganbaruby,Man-in-the-middle attack,Undid revision 897426991 by [[Special:Contributions/43.245.121.180|43.245.121.180]] ([[User talk:43.245.121.180|talk]]) putting brackets back
+2021-05-25T11:37:42+00:00,1025039512,1023640845,0,Apokrif,Man-in-the-middle attack,{{distinguish|Man-in-the-Mobile|Meet-in-the-middle attack}}
+2014-02-09T21:28:58+00:00,594726616,594726562,0,Dsimic,Man-in-the-middle attack,/* See also */ Flexible multi-column layout
+2014-06-11T16:29:50+00:00,612517582,612508145,0,Ahoerstemeier,List of free and open-source Android applications,Reverted edits by [[Special:Contribs/Torxx666|Torxx666]] ([[User talk:Torxx666|talk]]) to last version by Kelapstick
+2014-07-08T22:25:08+00:00,616147776,615653473,0,Dsimic,Man-in-the-middle attack,/* Defenses against the attack */ Touched up for consistency
+2016-12-08T11:51:52+00:00,753645501,753645423,0,Mohammeddwekat,Man-in-the-middle attack,/* |Example| */
+2021-08-04T06:45:23+00:00,1037048690,1037048672,0,Rdp060707,Man-in-the-middle attack,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/203.144.75.123|203.144.75.123]] ([[User talk:203.144.75.123|talk]]) to last revision by Rublov: [[WP:SANDBOX|editing tests]]
+2016-03-24T14:38:42+00:00,711733714,711733568,0,Bronze2018,Man-in-the-middle attack,Undid revision 711733568 by [[Special:Contributions/2607:FB90:2263:15AD:C642:C8C:C931:983E|2607:FB90:2263:15AD:C642:C8C:C931:983E]] ([[User talk:2607:FB90:2263:15AD:C642:C8C:C931:983E|talk]]) Replaced Citations and links
+2015-03-12T13:52:17+00:00,651046215,651041836,0,Bfpage,Man-in-the-middle attack,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/2601:8:9000:347:D096:3653:5F3:E047|2601:8:9000:347:D096:3653:5F3:E047]] using [[WP:STiki|STiki]]
+2015-12-14T20:55:23+00:00,695256545,695045986,0,18.62.22.53,Man-in-the-middle attack,/* Defenses against the attack */
+2021-04-02T21:18:03+00:00,1015678473,1015526560,0,2405:9800:B510:D405:5909:B72B:3682:8284,Man-in-the-middle attack,
+2011-12-30T05:16:52+00:00,468470445,468417217,0,Rezabot,Man-in-the-middle attack,r2.7.1) (Robot: Modifying [[fa:حمله مردی در میان]]
+2010-12-13T03:06:38+00:00,402076108,401999492,0,Johnuniq,Man-in-the-middle attack,Undid revision 401999492 by [[Special:Contributions/208.131.186.2|208.131.186.2]] ([[User talk:208.131.186.2|talk]]) do not seem useful per [[WP:EL]]
+2014-06-17T14:21:47+00:00,613287634,612770435,0,BattyBot,Man-in-the-middle attack,/* Beyond cryptography */fixed [[Help:CS1 errors#bad_date|CS1 errors: dates]] to meet [[MOS:DATEFORMAT]] (also [[WP:AWB/GF|General fixes]]) using [[Project:AWB|AWB]] (10248)
+2011-12-18T20:48:45+00:00,466579361,466552493,0,Luckas-bot,Man-in-the-middle attack,r2.7.1) (Robot: Modifying [[he:התקפת אדם שבתווך]]
+2022-07-09T23:31:39+00:00,1097305814,1097305720,0,Weeklyd3,Man-in-the-middle attack,Reverted edits by [[Special:Contributions/2001:16A2:C148:D2B5:7917:BED:2DD9:FD3C|2001:16A2:C148:D2B5:7917:BED:2DD9:FD3C]] ([[User talk:2001:16A2:C148:D2B5:7917:BED:2DD9:FD3C|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2020-12-19T01:59:27+00:00,995071575,995071240,0,Donner60,Man-in-the-middle attack,Reverted edits by [[Special:Contributions/97.88.99.113|97.88.99.113]] ([[User talk:97.88.99.113|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.9)
+2018-09-09T16:40:14+00:00,858790270,858790021,0,Suffusion of Yellow,Man-in-the-middle attack,Reverted edits by [[Special:Contribs/118.137.179.244|118.137.179.244]] ([[User talk:118.137.179.244|talk]]) to last version by Widefox
+2021-10-15T11:48:08+00:00,1050040258,1050016635,0,Rublov,Man-in-the-middle attack,Reverted 2 edits by [[Special:Contributions/187.135.89.79|187.135.89.79]] ([[User talk:187.135.89.79|talk]])
+2012-09-28T21:48:18+00:00,515067353,511803472,0,2A00:15B8:100:8024:BD4A:4199:E5A4:F881,Man-in-the-middle attack,/* Implementations */ dsniff does not do mitm. It sniff passwords out of network traffic but doesn't actually to the mitm
+2015-08-08T04:19:49+00:00,675084467,672937121,0,Jonesey95,Man-in-the-middle attack,Fixing [[Category:Pages containing cite templates with deprecated parameters|deprecated parameter]]
+2014-08-28T13:13:51+00:00,623174033,623173975,0,ArnoldReinhold,Man-in-the-middle attack,"rm EL tag, they're gone"
+2014-02-18T09:42:41+00:00,596004878,596003729,0,Kku,Man-in-the-middle attack,Undid revision 596003729 by [[Special:Contributions/182.72.201.194|182.72.201.194]] ([[User talk:182.72.201.194|talk]]) [[Help:Reverting|Reverting]] [[Wikipedia:Vandalism|vandalism]] or test edit Copyedit (major)
+2013-12-04T20:49:17+00:00,584578192,584561404,0,Johnuniq,Man-in-the-middle attack,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/207.210.46.22|207.210.46.22]] ([[User talk:207.210.46.22|talk]]) to last version by 0sm0s1z
+2020-11-28T10:56:39+00:00,991121459,990307014,0,Afernand74,Man-in-the-middle attack,Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot
+2013-02-22T20:03:31+00:00,539735865,538333125,0,Addbot,Man-in-the-middle attack,"[[User:Addbot|Bot:]] Migrating 22 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q554830]] ([[User talk:Addbot|Report Errors]])"
+2011-04-17T21:21:30+00:00,424584506,421349833,0,109.108.25.24,OpenSSH,"""SSH"" should be written in uppercase"
+2017-09-07T04:49:56+00:00,799352112,798370385,0,KolbertBot,OpenSSH,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2012-04-22T15:04:15+00:00,488658853,485227881,0,Patrias,OpenSSH,
+2016-06-26T16:39:40+00:00,727093118,727092590,0,Michael Reed,OpenSSH,"Fill in a ref, helped by reFill"
+2011-03-29T17:51:51+00:00,421349833,420856232,0,5T111S29,OpenSSH,/* Development and structure */ Moved sftp to own bullet point for consistent formatting
+2017-09-01T14:28:19+00:00,798370385,790860718,0,Badjoras27,OpenSSH,"Describing a known vulnerability to the ""Vulnerabilities"" content"
+2021-05-13T21:55:18+00:00,1023024583,1023024120,0,Ghettoblaster,OpenSSH,/* External links */
+2016-04-05T13:29:35+00:00,713701175,712322930,0,Cyberbot II,OpenSSH,Tagging page with {{[[Template:Blacklisted-links|Blacklisted-links]]}}.  Blacklisted links found. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])
+2010-12-15T03:42:28+00:00,402456932,399313838,0,178.252.108.249,OpenSSH,/* External links */
+2014-02-24T00:04:39+00:00,596841635,595029989,0,125.63.18.196,OpenSSH,"/* Microsoft Windows support */ internal links, rather than external, for Cygwin, Putty. Remove unnecessary capitalisation"
+2020-04-20T20:06:38+00:00,952150836,950258871,0,WikiCleanerBot,OpenSSH,v2.02b - [[User:WikiCleanerBot#T12|Bot T12]] - [[WP:WCW]] project (Punctuation in link - Link equal to linktext)
+2020-05-30T03:06:09+00:00,959690480,959688355,0,Oliver H,OpenSSH,/* Supported public key types */ Sort rsa-sha2-256 rsa-sha2-512
+2018-12-24T02:00:42+00:00,875136852,874028005,0,Newslinger,OpenSSH,Use [[Portal:Free and open-source software|Free and open-source software]] portal name (via [[WP:JWB]])
+2015-12-17T16:38:34+00:00,695655803,695349433,0,2605:6000:1714:406A:39DF:2FFF:BD8C:F28C,OpenSSH,/* Development and structure */  OpenSSH is now available for Windows.
+2014-10-07T13:53:12+00:00,628647487,625490290,0,Frap,OpenSSH,Bumped version
+2016-08-02T17:53:29+00:00,732703569,732649066,0,Michael Reed,OpenSSH,dates
+2017-01-19T09:50:09+00:00,760830846,757213815,0,70.184.214.35,OpenSSH,alphabetized the categories
+2015-07-14T02:28:27+00:00,671343215,670186551,0,Chris the speller,OpenSSH,[[WP:AWB/T|typo(s) fixed]]: off-shoot → offshoot using [[Project:AWB|AWB]]
+2020-08-02T13:28:04+00:00,970798994,970798555,0,Mikhail Ryazanov,OpenSSH,"/* Development */ punct., style"
+2018-02-04T08:26:20+00:00,823930737,805444824,0,Anjbe,OpenSSH,/* Features */ Update existing OpenBSD man page link.
+2014-11-26T22:24:20+00:00,635570012,628647487,0,Khym Chanur,OpenSSH,/* See also */ [[stunnel]] link
+2013-08-19T21:18:53+00:00,569282328,569281654,0,108.161.115.55,OpenSSH,"/* History */ Add point about sftp-internal for 4.9, as the two are often used together."
+2011-12-27T02:45:32+00:00,467849622,452035244,0,Fred Gandt,S5 (file format),removed unnecessary <code> tags
+2011-09-23T15:04:27+00:00,452035244,439993201,0,Jeandré du Toit,S5 (file format),"/* History */-v, commented out unsourced or unfootnoted paragraphs (all primary sources)"
+2015-10-05T01:18:18+00:00,684171580,646927739,0,Tassedethe,S5 (file format),Disambiguated: [[Eric Meyer]] → [[Eric A. Meyer]] (3)
+2021-12-13T17:39:44+00:00,1060133562,1033494954,0,Ftrebien,S5 (file format),Infobox file format free → open
+2013-03-12T12:13:06+00:00,543616058,467849622,0,Addbot,S5 (file format),"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q673906]]"
+2015-11-01T02:39:16+00:00,688465397,684171580,0,Midas02,S5 (file format),Disambiguating links to [[XOXO]] (link changed to [[XOXO (microformat)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2018-04-29T16:06:09+00:00,838835645,737650591,0,InternetArchiveBot,S5 (file format),Rescuing 3 sources and tagging 0 as dead. #IABot (v1.6.5)
+2019-11-28T12:28:42+00:00,928339746,917404764,0,Robevans123,S5 (file format),/* History */  typo: annoucing => announcing
+2011-04-08T23:10:38+00:00,423096193,423095237,0,Gyrobo,S5 (file format),"The spelling may be wrong, but that's how the source spells it, and that's the URL."
+2011-01-08T12:37:02+00:00,406667413,406297670,0,188.22.169.70,S5 (file format),/* External links */

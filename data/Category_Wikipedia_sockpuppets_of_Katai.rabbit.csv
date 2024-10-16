@@ -1,0 +1,153 @@
+timestamp,revid,parentid,sock,user,page,message
+2019-10-29T09:53:33+00:00,923562723,923562143,1,Katai.rabbit,User talk:223.206.251.60,
+2019-10-13T04:54:18+00:00,920990933,920990857,1,Katai.rabbit,GMMTV,/* Drama */
+2019-10-13T04:53:29+00:00,920990857,920914144,1,Katai.rabbit,GMMTV,/* Drama */
+2019-10-12T17:44:09+00:00,920914144,920871228,1,Katai.rabbit,GMMTV,/* Drama / TV series */
+2019-10-29T10:02:21+00:00,923563586,923563028,1,Beats_BCS,User talk:223.206.251.60,
+2019-10-30T13:47:31+00:00,923738208,923561728,1,Ceats_CTS,Samut Sakhon province,
+2019-10-30T13:47:28+00:00,923738206,923561666,1,Ceats_CTS,Samut Prakan province,
+2019-10-30T13:47:24+00:00,923738199,923561702,1,Ceats_CTS,Pathum Thani province,
+2019-10-30T13:47:19+00:00,923738187,923730546,1,Ceats_CTS,Nonthaburi province,
+2019-10-30T13:47:14+00:00,923738174,923561745,1,Ceats_CTS,Nakhon Pathom province,
+2019-10-30T13:47:08+00:00,923738155,923561752,1,Ceats_CTS,Bangkok Metropolitan Region,
+2019-10-30T13:50:10+00:00,923738552,923738208,1,Deats_DTS,Samut Sakhon province,
+2019-10-30T13:50:07+00:00,923738545,923738206,1,Deats_DTS,Samut Prakan province,
+2019-10-30T13:50:03+00:00,923738534,923738199,1,Deats_DTS,Pathum Thani province,
+2019-10-30T13:50:00+00:00,923738527,923738187,1,Deats_DTS,Nonthaburi province,
+2019-10-30T13:49:57+00:00,923738517,923738174,1,Deats_DTS,Nakhon Pathom province,
+2019-10-30T13:49:55+00:00,923738507,923561564,1,Deats_DTS,Bangkok,
+2019-10-30T13:49:51+00:00,923738498,923738155,1,Deats_DTS,Bangkok Metropolitan Region,
+2019-10-29T10:04:51+00:00,923563825,923563586,1,Feats_FTS,User talk:223.206.251.60,
+2019-10-29T12:33:20+00:00,923576848,923576741,1,Geats_GTS,Wikipedia:Requests for page protection,/* Handled requests */
+2019-10-29T12:32:23+00:00,923576717,923576653,1,Heats_HTS,Wikipedia:Requests for page protection,/* Handled requests */
+2019-10-29T10:09:33+00:00,923564175,923563825,1,Jeats_JTS,User talk:223.206.251.60,
+2019-10-29T12:31:25+00:00,923576632,923576587,1,Keats_KTS,Wikipedia:Requests for page protection,/* Handled requests */
+2019-10-29T10:18:19+00:00,923564803,923564306,1,Leats_LTS,User talk:223.206.251.60,
+2019-10-29T10:11:25+00:00,923564306,923564175,1,Meats_MTS,User talk:223.206.251.60,
+2019-10-29T09:31:47+00:00,923560726,923560446,1,Neats_NTS,User talk:223.206.251.60,
+2019-10-29T09:33:32+00:00,923560884,923560726,1,Peats_PTS,User talk:223.206.251.60,
+2019-10-29T09:35:42+00:00,923561085,923560884,1,Qeats_QTS,User talk:223.206.251.60,
+2019-10-29T09:39:23+00:00,923561463,923561085,1,Reats_RTS,User talk:223.206.251.60,
+2019-10-29T09:41:24+00:00,923561677,923561463,1,Seats_STS,User talk:223.206.251.60,
+2019-10-29T09:46:58+00:00,923562143,923561942,1,Teats_TTS,User talk:223.206.251.60,
+2019-10-29T09:44:15+00:00,923561942,923561677,1,Veats_VTS,User talk:223.206.251.60,
+2019-10-29T09:28:22+00:00,923560446,923560169,1,Weats_WTS,User talk:223.206.251.60,
+2019-10-07T16:46:58+00:00,920092023,918810414,1,Wocks_WCK,GMMTV,
+2019-10-29T09:24:18+00:00,923560169,750004827,1,Xeats_XTT,User talk:223.206.251.60,
+2019-10-29T09:14:39+00:00,923559265,923517870,1,Xeats_XTT,Bangkok,
+2019-10-29T09:14:33+00:00,923559260,922750288,1,Xeats_XTT,Nonthaburi province,
+2019-10-29T09:14:28+00:00,923559251,923265245,1,Xeats_XTT,Samut Prakan province,
+2019-10-29T09:14:21+00:00,923559238,922750172,1,Xeats_XTT,Pathum Thani province,
+2019-10-29T09:14:17+00:00,923559227,919441722,1,Xeats_XTT,Samut Sakhon province,
+2019-10-29T09:14:15+00:00,923559224,917233290,1,Xeats_XTT,Nakhon Pathom province,
+2019-10-29T09:12:22+00:00,923559034,920950548,1,Xeats_XTT,Bangkok Metropolitan Region,
+2019-10-30T13:55:31+00:00,923739277,923738600,1,Yeats_YTT,Bangkok,
+2019-11-02T06:31:47+00:00,924166076,924022438,1,Zeats_ZTT,Samut Sakhon province,
+2019-11-02T06:31:45+00:00,924166073,924035177,1,Zeats_ZTT,Samut Prakan province,
+2019-11-02T06:31:43+00:00,924166071,924055424,1,Zeats_ZTT,Pathum Thani province,
+2019-11-02T06:31:40+00:00,924166064,924022442,1,Zeats_ZTT,Nakhon Pathom province,
+2019-11-02T06:31:37+00:00,924166060,924048559,1,Zeats_ZTT,Nonthaburi province,
+2019-11-02T06:31:35+00:00,924166062,924075168,1,Zeats_ZTT,Bangkok,
+2019-11-02T06:31:32+00:00,924166052,924022446,1,Zeats_ZTT,Bangkok Metropolitan Region,
+2019-10-18T06:00:58+00:00,921833032,921562881,0,Revirvlkodlaku,Bangkok,
+2019-10-12T22:56:24+00:00,920950548,914597405,0,Johnj1995,Bangkok Metropolitan Region,
+2019-10-08T01:14:27+00:00,920163323,920122850,0,Paul 012,Bangkok,Reverted 2 edits by [[Special:Contributions/202.144.187.253|202.144.187.253]] ([[User talk:202.144.187.253|talk]]) to last revision by Jellysandwich0 ([[WP:TW|TW]])
+2019-10-29T07:19:23+00:00,923549835,923381256,0,Pyro z,GMMTV,/* Overseas */
+2019-10-06T12:23:44+00:00,919886803,919844811,0,Jellysandwich0,Bangkok,Four words were used when one suffices.
+2019-10-07T16:46:58+00:00,920092023,918810414,0,Wocks WCK,GMMTV,
+2019-10-26T03:18:31+00:00,923063907,921963313,0,Pyro z,GMMTV,/* Artists */
+2019-10-16T13:33:06+00:00,921562881,921562458,0,Paul 012,Bangkok,Undid revision 921562458 by [[Special:Contributions/49.230.29.141|49.230.29.141]] ([[User talk:49.230.29.141|talk]])
+2019-09-08T08:23:25+00:00,914597405,900069055,0,Graeme Bartlett,Bangkok Metropolitan Region,"clean up, replaced: m² → m<sup>2</sup> (2), Inh/km → inhabitants/km"
+2019-10-19T00:40:33+00:00,921963313,921963008,0,FM,GMMTV,/* TV series */
+2019-10-19T00:38:01+00:00,921963008,921726484,0,FM,GMMTV,/* TV series */
+2019-09-22T22:08:35+00:00,917233290,917061888,0,Monkbot,Nakhon Pathom province,/* top */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2019-10-17T14:28:19+00:00,921726484,921559864,0,Unautorized,GMMTV,Linked series name to series page.
+2019-09-17T22:35:41+00:00,916254982,916075337,0,AnomieBOT,Nonthaburi province,"Rescuing orphaned refs (""stou"" → ""stop"" from rev 904619745)"
+2019-10-24T02:12:01+00:00,922750288,922749025,0,SietsL,Nonthaburi province,/* Human achievement index 2017 */
+2019-10-16T08:40:39+00:00,921533085,921187834,0,SietsL,Nonthaburi province,Added ISO code
+2019-10-29T09:41:57+00:00,923561745,923559224,0,Paul 012,Nakhon Pathom province,Reverted 1 edit by [[Special:Contributions/Xeats XTT|Xeats XTT]] ([[User talk:Xeats XTT|talk]]) to last revision by Monkbot ([[WP:TW|TW]])
+2019-10-31T09:30:47+00:00,923869924,923738632,0,SietsL,Nonthaburi province,/* Local government */
+2019-10-15T07:33:48+00:00,921345212,917359733,0,SietsL,Pathum Thani province,Infobox updated and added HAI 2017
+2019-10-16T08:52:27+00:00,921533967,921345212,0,SietsL,Pathum Thani province,Added postal and calling codes
+2019-10-24T02:10:52+00:00,922750172,922749441,0,SietsL,Pathum Thani province,/* Human achievement index 2017 */
+2019-10-29T09:41:34+00:00,923561702,923559238,0,Paul 012,Pathum Thani province,Reverted 1 edit by [[Special:Contributions/Xeats XTT|Xeats XTT]] ([[User talk:Xeats XTT|talk]]) to last revision by SietsL ([[WP:TW|TW]])
+2019-10-16T08:35:48+00:00,921532722,921182861,0,SietsL,Samut Prakan province,Infobox extended
+2019-10-27T12:34:58+00:00,923265245,923259706,0,SietsL,Samut Prakan province,Local government
+2019-09-24T22:13:06+00:00,917670260,913125648,0,Monkbot,Samut Prakan province,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (3×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2019-10-30T13:50:44+00:00,923738633,923738552,0,General Ization,Samut Sakhon province,RVV
+2019-09-23T13:38:02+00:00,917359733,912650748,0,Monkbot,Pathum Thani province,/* top */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2019-10-03T19:21:06+00:00,919441722,919438429,0,Rich Farmbrough,Samut Sakhon province,/* top */clean up
+2019-10-24T02:13:48+00:00,922750486,922748461,0,SietsL,Samut Prakan province,/* Human achievement index 2017 */
+2019-10-29T09:41:19+00:00,923561666,923559251,0,Paul 012,Samut Prakan province,Reverted 1 edit by [[Special:Contributions/Xeats XTT|Xeats XTT]] ([[User talk:Xeats XTT|talk]]) to last revision by SietsL ([[WP:TW|TW]])
+2019-11-01T08:52:21+00:00,924022438,923738633,0,Paul 012,Samut Sakhon province,Undid revision 923738208 by [[Special:Contributions/Ceats CTS|Ceats CTS]] ([[User talk:Ceats CTS|talk]])
+2016-11-17T08:55:54+00:00,750004827,0,0,Gilliam,User talk:223.206.251.60,"General note: Removal of content, blanking on [[Beijing Capital International Airport]]. ([[WP:TW|TW]])"
+2019-10-29T10:18:58+00:00,923564876,923564848,0,Lectonar,User talk:223.206.251.60,rv
+2019-10-19T13:45:39+00:00,922032974,922029943,0,CLCStudent,Wikipedia:Requests for page protection,Requesting semi-protection of [[:Paul Andrews (producer)]]. ([[WP:TW|TW]])
+2019-10-23T03:01:29+00:00,922595807,922592193,0,Eperoton,Wikipedia:Requests for page protection,/* Current requests for increase in protection level */ adding
+2019-11-01T00:58:32+00:00,923982565,923981498,0,Cyberbot I,Wikipedia:Requests for page protection,"Bot clerking, archiving 3 threads, 19 pending requests remain. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2019-10-25T21:13:56+00:00,923026714,923026310,0,SNUGGUMS,Wikipedia:Requests for page protection,Requesting semi-protection of [[:Ethel Kennedy]]. ([[WP:TW|TW]])
+2019-10-30T06:10:30+00:00,923697926,923694800,0,NahidSultan,Wikipedia:Requests for page protection,Requesting semi-protection of [[:Nazmul Hassan Papon]]. ([[WP:TW|TW]])
+2019-10-18T19:31:24+00:00,921920796,921920494,0,S0091,Wikipedia:Requests for page protection,"/* Triad High School (Illinois) Removing request, misread dates and not enough recent vandalism to warrant protection"
+2017-04-07T18:47:13+00:00,774331185,774331033,0,143.159.128.106,Bangkok,/* Culture */
+2018-05-02T12:37:39+00:00,839281246,839068911,0,2405:9800:BC00:874C:4A9:DECF:C166:88B0,Bangkok,/* Rail systems */
+2017-04-12T17:16:45+00:00,775098545,775098289,0,47.142.194.227,Bangkok Metropolitan Region,/* Urban build-up */
+2018-09-03T06:10:08+00:00,857816237,857767295,0,Seligne,Bangkok,"/* Climate */ Added climate factoid, cite"
+2018-08-16T03:56:36+00:00,855127018,854853304,0,47.219.206.44,Bangkok,
+2018-05-27T08:30:19+00:00,843159513,838484833,0,SheriffIsInTown,Bangkok Metropolitan Region,Filled in 3 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2017-08-31T15:22:24+00:00,798203907,797032341,0,Potapt,Bangkok,
+2017-03-04T01:03:58+00:00,768476014,763774368,0,Wavelength,Bangkok Metropolitan Region,"changing [[adverb]] ""in"" and [[preposition]] ""to"" —> preposition ""into""—[[wikt:in]]—[[wikt:wikt:to]]—[[wikt:into]]—http://public.wsu.edu/~brians/errors/into.html—[[User:Wavelength/About English/Expressions ""into"" and ""in to""]]"
+2017-08-13T09:12:18+00:00,795296439,795121327,0,WOSlinker,Bangkok,fix image options
+2019-06-03T06:53:39+00:00,900069055,900067022,0,Seligne,Bangkok Metropolitan Region,/* Area and population */ Removed original observation
+2019-02-28T02:39:14+00:00,885449509,885449329,0,23.148.192.199,GMMTV,/* Drama / TV series */
+2018-04-03T06:18:42+00:00,833961829,833765040,0,49.229.139.17,Nakhon Pathom province,/* History */Fixed erronous statement
+2018-09-02T14:54:15+00:00,857713665,833961829,0,GoingBatty,Nakhon Pathom province,clean up
+2018-12-25T09:16:43+00:00,875293746,857713665,0,Chainwit.,Nakhon Pathom province,
+2017-03-20T09:11:09+00:00,771225612,742131582,0,Filipplenoir,Nakhon Pathom province,
+2017-12-07T12:38:28+00:00,814203879,805136437,0,JJMC89 bot,Nakhon Pathom province,Remove unrecognized coordinate parameters. Use |coordinates={{[[Template:Coord|coord]]|...}} instead. See [[Wikipedia:Coordinates in infoboxes]].
+2017-09-22T00:46:23+00:00,801811481,801811353,0,Ministerboy,Nonthaburi province,/* Symbols */
+2017-09-30T22:34:55+00:00,803171398,801811481,0,Potapt,Nonthaburi province,
+2018-07-29T18:53:42+00:00,852546106,852545290,0,Balintawak,Nonthaburi province,/* Administrative divisions */Updated stats and added ref.
+2016-10-01T21:55:59+00:00,742131582,734167062,0,Potapt,Nakhon Pathom province,
+2018-09-28T05:18:34+00:00,861540128,852546106,0,171.6.189.118,Nonthaburi province,
+2017-05-02T11:38:46+00:00,778317625,774341190,0,Ministerboy,Nonthaburi province,/* See also */
+2018-04-03T14:54:03+00:00,834023344,812317709,0,Billner2009,Nonthaburi province,
+2016-10-01T14:50:10+00:00,742072726,734849964,0,Potapt,Nonthaburi province,
+2017-11-27T06:07:12+00:00,812317709,808946356,0,Seligne,Nonthaburi province,/* Administrative divisions */
+2017-04-07T19:55:18+00:00,774341190,773950005,0,Krisay90,Nonthaburi province,/* See also */
+2016-11-17T07:07:13+00:00,749993414,742073242,0,Seligne,Pathum Thani province,MoS edit
+2018-09-28T05:17:03+00:00,861540029,844181420,0,171.6.189.118,Pathum Thani province,
+2018-06-03T05:40:22+00:00,844181420,842722831,0,AlmostValDay1996,Pathum Thani province,Adding the flag of the Pathum Thani Province to this Wiki page.
+2019-02-24T06:26:42+00:00,884821136,876780210,0,Weescotsguy66,Pathum Thani province,/* Education and technology */Added North Bangkok University (Rangsit)
+2018-04-03T15:44:13+00:00,834030717,830347096,0,Billner2009,Pathum Thani province,
+2019-06-30T05:09:39+00:00,904130618,884821136,0,58.11.10.78,Pathum Thani province,
+2018-08-31T01:26:45+00:00,857331085,857330634,0,Siamrat,Samut Prakan province,Removed duplicate map
+2019-06-30T05:15:07+00:00,904131125,895145898,0,58.11.10.78,Samut Prakan province,
+2017-04-09T19:41:22+00:00,774639099,773950303,0,KJP1,Samut Prakan province,Doesn't belong in the lead. Trying reading the article first.
+2018-12-07T09:33:09+00:00,872473103,857331085,0,Joseroyal,Samut Prakan province,/* Bhumibol Bridge */
+2017-04-05T11:44:42+00:00,773950303,769917075,0,175.103.25.136,Samut Prakan province,
+2017-01-11T06:55:00+00:00,759454280,759426017,0,BG19bot,Samut Prakan province,[[WP:CHECKWIKI]] error fix for #48.  Remove link to the title inside the text. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -
+2018-04-04T08:28:41+00:00,834166985,834164803,0,Ahoerstemeier,Samut Prakan province,
+2018-06-14T11:35:28+00:00,845823295,845823240,0,112.206.15.38,Samut Prakan province,/* Notable People */
+2018-05-04T14:28:29+00:00,839606642,839074987,0,InternetArchiveBot,Samut Prakan province,Rescuing 4 sources and tagging 0 as dead. #IABot (v1.6.5)
+2017-09-29T22:18:27+00:00,803011101,802444498,0,Redolta,Samut Sakhon province,Reverted edits by [[Special:Contribs/203.172.109.114|203.172.109.114]] ([[User talk:203.172.109.114|talk]]) to last version by Shellwood
+2018-04-23T17:36:12+00:00,837894913,837894328,0,Hide211,Samut Prakan province,Undid revision 837894328 by [[Special:Contributions/180.183.120.241|180.183.120.241]] ([[User talk:180.183.120.241|talk]]) no need for this info. There should be a separate article for top ten temples.
+2019-01-05T06:55:59+00:00,876902397,861539144,0,InternetArchiveBot,Samut Sakhon province,Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1)
+2019-08-18T15:02:40+00:00,911387581,904131303,0,InternetArchiveBot,Samut Sakhon province,Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta16)
+2016-10-01T22:01:13+00:00,742132143,738648237,0,Potapt,Samut Sakhon province,
+2018-09-28T05:04:19+00:00,861539144,845045478,0,171.6.189.118,Samut Sakhon province,
+2019-09-16T07:30:19+00:00,915966541,915465736,0,Orenburg1,Samut Sakhon province,sp
+2017-12-08T15:28:37+00:00,814395125,803011101,0,JJMC89 bot,Samut Sakhon province,Remove unrecognized coordinate parameters. Use |coordinates={{[[Template:Coord|coord]]|...}} instead. See [[Wikipedia:Coordinates in infoboxes]].
+2019-05-19T06:58:08+00:00,897764575,897760514,0,Neils51,Wikipedia:Requests for page protection,Requesting semi-protection of [[:Thapki Pyar Ki]]. ([[WP:TW|TW]])
+2017-01-11T05:47:27+00:00,759448534,759448349,0,CambridgeBayWeather,Wikipedia:Requests for page protection,/* /r/The Donald */
+2018-12-25T23:44:34+00:00,875360842,875355051,0,WayKurat,Wikipedia:Requests for page protection,/* Current requests for increase in protection level */
+2017-10-06T04:37:43+00:00,804017547,804012428,0,Jgstokes,Wikipedia:Requests for page protection,Adding needed request for page protection.
+2016-12-24T23:33:30+00:00,756533246,756530021,0,FlightTime Phone,Wikipedia:Requests for page protection,Requesting semi-protection of [[Ratt]]. (Using [[Wikipedia:Twinkle|Twinkle]]
+2017-12-23T23:28:20+00:00,816824581,816824352,0,Only,Wikipedia:Requests for page protection,/* The Giver */ declined – not enough recent disruptive activity (using [[User:MusikAnimal/responseHelper|responseHelper]])
+2017-06-01T05:32:47+00:00,783269653,783269091,0,Bonadea,Wikipedia:Requests for page protection,Requesting semi-protection of [[Nasjonal Samling]]. ([[WP:TW|TW]])
+2018-10-19T06:20:30+00:00,864748995,864748803,0,Bsherr,Wikipedia:Requests for page protection,/* Templates subsequently moved */ 3 more
+2019-02-14T03:27:49+00:00,883234570,883233480,0,GSS,Wikipedia:Requests for page protection,Requesting create protection of [[:Jaan Nissar Lone]]. ([[WP:TW|TW]])
+2018-06-15T13:13:35+00:00,845980600,845979653,0,Harout72,Wikipedia:Requests for page protection,/* Current requests for increase in protection level */ [[Michael Jackson albums discography]] and [[Invincible (Michael Jackson album)]]
+2017-10-09T20:49:21+00:00,804565784,804565593,0,Ad Orientem,Wikipedia:Requests for page protection,/* Columbus Day */ semi-protected 2 days (using [[User:MusikAnimal/responseHelper|responseHelper]])
+2016-12-17T22:43:19+00:00,755419246,755419036,0,CambridgeBayWeather,Wikipedia:Requests for page protection,/* List of Peppa Pig characters */
+2017-10-08T06:07:57+00:00,804320811,804320491,0,4TheWynne,Wikipedia:Requests for page protection,Requesting semi-protection of [[Hayden Christensen]]. ([[WP:TW|TW]])
+2017-04-16T12:23:56+00:00,775680563,775673773,0,TheOldJacobite,Wikipedia:Requests for page protection,Requesting full protection of [[Silence (2016 film)]]. ([[WP:TW|TW]])

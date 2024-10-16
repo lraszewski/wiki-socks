@@ -1,0 +1,837 @@
+timestamp,revid,parentid,sock,user,page,message
+2020-01-27T03:35:58+00:00,937769975,937697847,1,GeneralErwinStanley,Alexander Haig,/* Nixon administration */
+2020-01-27T03:27:05+00:00,937768834,937692729,1,GeneralErwinStanley,Mutassim Gaddafi,/* Death */
+2020-01-26T19:30:26+00:00,937709876,937709410,1,GeneralErwinStanley,Curtis LeMay,/* World War II */
+2020-01-26T19:27:04+00:00,937709410,937708869,1,GeneralErwinStanley,Curtis LeMay,/* Strategic Air Command */
+2020-01-26T19:22:55+00:00,937708869,937707830,1,GeneralErwinStanley,Curtis LeMay,/* Post-military career */
+2020-01-26T19:15:48+00:00,937707830,937657213,1,GeneralErwinStanley,Curtis LeMay,/* Strategic Air Command */
+2020-01-26T19:07:23+00:00,937706595,937656185,1,GeneralErwinStanley,Maxwell D. Taylor,/* Return to duty */
+2020-01-26T18:55:59+00:00,937704850,937299454,1,GeneralErwinStanley,Jim Mattis,/* Secretary of Defense (2017–2019) */
+2020-01-26T18:47:55+00:00,937703471,937701968,1,GeneralErwinStanley,David C. Jones,/* USAF Chief of Staff */
+2020-01-26T18:39:00+00:00,937701968,937323576,1,GeneralErwinStanley,David C. Jones,/* Early life */
+2020-01-26T18:27:32+00:00,937700274,937699722,1,GeneralErwinStanley,Donald Kutyna,
+2020-01-26T18:23:13+00:00,937699722,912620002,1,GeneralErwinStanley,Donald Kutyna,
+2020-01-26T18:17:46+00:00,937698888,921068031,1,GeneralErwinStanley,George Joulwan,/* Military career */
+2020-01-26T18:11:18+00:00,937697847,937696548,1,GeneralErwinStanley,Alexander Haig,
+2020-01-26T18:03:10+00:00,937696548,937657625,1,GeneralErwinStanley,Alexander Haig,/* Ford administration */
+2020-01-26T11:17:57+00:00,937657625,937657559,1,GeneralErwinStanley,Alexander Haig,/* White House Chief of Staff (1973–74) */
+2020-01-26T11:17:14+00:00,937657559,933726306,1,GeneralErwinStanley,Alexander Haig,/* White House Chief of Staff (1973–74) */
+2020-01-26T11:13:16+00:00,937657213,937657136,1,GeneralErwinStanley,Curtis LeMay,/* Vietnam War */
+2020-01-26T11:12:36+00:00,937657136,937655619,1,GeneralErwinStanley,Curtis LeMay,/* Vietnam War */
+2020-01-26T11:01:27+00:00,937656185,937656155,1,GeneralErwinStanley,Maxwell D. Taylor,/* Second retirement */
+2020-01-26T11:00:58+00:00,937656155,937655865,1,GeneralErwinStanley,Maxwell D. Taylor,/* Vietnam War */
+2020-01-26T10:57:32+00:00,937655865,936300176,1,GeneralErwinStanley,Maxwell D. Taylor,/* Return to duty */
+2020-01-26T10:54:24+00:00,937655619,937651117,1,GeneralErwinStanley,Curtis LeMay,/* Strategic Air Command */
+2020-01-26T10:11:55+00:00,937651117,937053866,1,GeneralErwinStanley,Curtis LeMay,/* Strategic Air Command */
+2020-01-02T18:18:52+00:00,933726306,933726147,1,GeneralErwinStanley,Alexander Haig,/* Initial challenges */
+2020-01-02T18:17:46+00:00,933726147,933723635,1,GeneralErwinStanley,Alexander Haig,/* Initial challenges */
+2020-01-02T18:02:16+00:00,933723635,933722328,1,GeneralErwinStanley,Alexander Haig,/* Security adviser (1969–72) */
+2020-01-02T17:54:38+00:00,933722328,933163606,1,GeneralErwinStanley,Alexander Haig,/* NATO Supreme Commander (1974–79) */
+2020-01-02T17:15:14+00:00,933716698,928811733,1,GeneralErwinStanley,United States Secretary of Defense,/* List of secretaries of defense */
+2019-12-29T07:32:15+00:00,932972931,932972789,1,GeneralErwinStanley,Independence Day: Resurgence,/* Cast */
+2019-12-29T07:30:43+00:00,932972789,932955846,1,GeneralErwinStanley,Independence Day: Resurgence,/* Cast */
+2019-12-29T04:44:39+00:00,932956204,932938396,1,GeneralErwinStanley,Independence Day (1996 film),/* Cast */
+2019-12-28T20:20:32+00:00,932889709,932335935,1,GeneralErwinStanley,JFK (film),/* Cast */
+2019-12-28T20:16:29+00:00,932889076,932888864,1,GeneralErwinStanley,Aloha (2015 film),/* Plot */
+2019-12-28T20:14:58+00:00,932888864,928355579,1,GeneralErwinStanley,Aloha (2015 film),/* Cast */
+2019-12-28T20:11:05+00:00,932888336,932883242,1,GeneralErwinStanley,War Machine (film),/* Cast */
+2019-12-28T20:08:20+00:00,932887963,932886966,1,GeneralErwinStanley,X-Men: Apocalypse,/* Cast */
+2019-12-28T20:00:36+00:00,932886966,932885851,1,GeneralErwinStanley,X-Men: Apocalypse,/* Cast */
+2019-12-28T19:57:33+00:00,932886553,932886365,1,GeneralErwinStanley,The Sum of All Fears (film),/* Cast */
+2019-12-28T19:56:21+00:00,932886365,932886243,1,GeneralErwinStanley,The Sum of All Fears (film),/* Cast */
+2019-12-28T19:55:28+00:00,932886243,930457466,1,GeneralErwinStanley,The Sum of All Fears (film),/* Cast */
+2019-12-28T19:52:38+00:00,932885851,932885595,1,GeneralErwinStanley,X-Men: Apocalypse,/* Cast */
+2019-12-28T19:50:55+00:00,932885595,931990165,1,GeneralErwinStanley,X-Men: Apocalypse,/* Cast */
+2019-12-28T19:36:57+00:00,932883562,932666965,1,GeneralErwinStanley,Armageddon (1998 film),/* Cast */
+2019-12-28T19:35:00+00:00,932883242,932883009,1,GeneralErwinStanley,War Machine (film),/* Cast */
+2019-12-28T19:33:46+00:00,932883009,930300910,1,GeneralErwinStanley,War Machine (film),/* Cast */
+2020-01-31T01:22:34+00:00,938413865,938413739,1,DokterCintaAneh,Mutassim Gaddafi,/* Death */
+2020-01-31T01:21:28+00:00,938413739,938199202,1,DokterCintaAneh,Mutassim Gaddafi,
+2020-01-29T08:12:11+00:00,938127423,938127292,1,DokterCintaAneh,Edward Lansdale,/* Vietnam */
+2020-01-29T08:10:48+00:00,938127292,938127256,1,DokterCintaAneh,Edward Lansdale,/* Vietnam */
+2020-01-29T08:10:26+00:00,938127256,938127192,1,DokterCintaAneh,Edward Lansdale,/* Vietnam */
+2020-01-29T08:09:47+00:00,938127192,938126245,1,DokterCintaAneh,Edward Lansdale,/* Vietnam */
+2020-01-29T07:57:51+00:00,938126245,934936862,1,DokterCintaAneh,Edward Lansdale,/* Philippines */
+2020-01-29T04:50:09+00:00,938109910,936875499,1,DokterCintaAneh,Gatot Nurmantyo,/* Presidential aspiration */
+2020-01-29T04:48:29+00:00,938109747,937837377,1,DokterCintaAneh,Joseph Dunford,/* Military career */
+2020-01-28T10:34:42+00:00,937973712,937971640,1,DokterCintaAneh,George C. Marshall,
+2020-01-28T10:13:01+00:00,937971640,937970993,1,DokterCintaAneh,George C. Marshall,
+2020-01-28T10:07:28+00:00,937970993,937970916,1,DokterCintaAneh,George C. Marshall,/* See also */
+2020-01-28T10:06:47+00:00,937970916,937968759,1,DokterCintaAneh,George C. Marshall,/* References */
+2020-01-28T09:42:46+00:00,937968759,937968529,1,DokterCintaAneh,George C. Marshall,/* Secretary of State and Nobel Peace Prize */
+2020-01-28T09:39:50+00:00,937968529,937276481,1,DokterCintaAneh,George C. Marshall,/* Secretary of State and Nobel Peace Prize */
+2020-01-27T09:26:51+00:00,937805101,934872771,1,DokterCintaAneh,Stanley A. McChrystal,/* Afghanistan assessment made public */
+2020-01-27T09:03:39+00:00,937802519,925806454,1,DokterCintaAneh,Robert Gates,/* Obama Administration */
+2020-01-27T08:55:12+00:00,937801854,937801759,1,DokterCintaAneh,Lyman Lemnitzer,/* Post-Korean War */
+2020-01-27T08:53:58+00:00,937801759,937801720,1,DokterCintaAneh,Lyman Lemnitzer,/* Army Chief of Staff and Chairman of The Joint Chiefs of Staff */
+2020-01-27T08:53:18+00:00,937801720,937801665,1,DokterCintaAneh,Lyman Lemnitzer,/* Post-Korean War */
+2020-01-27T08:52:31+00:00,937801665,937717164,1,DokterCintaAneh,Lyman Lemnitzer,/* Post-Korean War */
+2020-01-27T08:39:42+00:00,937800697,937800657,1,DokterCintaAneh,Alexander Haig,/* Nixon administration */
+2020-01-27T08:39:08+00:00,937800657,937800357,1,DokterCintaAneh,Alexander Haig,/* White House Chief of Staff (1973–74) */
+2020-01-27T08:35:05+00:00,937800357,937800331,1,DokterCintaAneh,Alexander Haig,/* White House Chief of Staff (1973–74) */
+2020-01-27T08:34:42+00:00,937800331,937800288,1,DokterCintaAneh,Alexander Haig,/* White House Chief of Staff (1973–74) */
+2020-01-27T08:34:08+00:00,937800288,937799848,1,DokterCintaAneh,Alexander Haig,/* White House Chief of Staff (1973–74) */
+2020-01-27T08:28:06+00:00,937799848,937799793,1,DokterCintaAneh,Alexander Haig,/* Security adviser (1969–72) */
+2020-01-27T08:27:19+00:00,937799793,937799702,1,DokterCintaAneh,Alexander Haig,/* Security adviser (1969–72) */
+2020-01-27T08:26:04+00:00,937799702,937799668,1,DokterCintaAneh,Alexander Haig,/* Early military career */
+2020-01-27T08:25:31+00:00,937799668,937799359,1,DokterCintaAneh,Alexander Haig,/* Security adviser (1969–72) */
+2020-01-27T08:21:26+00:00,937799359,937798999,1,DokterCintaAneh,Alexander Haig,/* Early military career */
+2020-01-27T08:16:50+00:00,937798999,937798929,1,DokterCintaAneh,Alexander Haig,/* Korean War */
+2020-01-27T08:16:01+00:00,937798929,937797676,1,DokterCintaAneh,Alexander Haig,/* Vietnam War */
+2020-01-27T07:58:43+00:00,937797676,937769975,1,DokterCintaAneh,Alexander Haig,/* Early military career */
+2020-01-26T17:32:29+00:00,937692729,930766417,1,DokterCintaAneh,Mutassim Gaddafi,/* Death */
+2020-01-24T08:22:00+00:00,937323576,937295674,1,DokterCintaAneh,David C. Jones,/* Chairman of the Joint Chiefs of Staff */
+2020-01-24T08:21:02+00:00,937323497,936898582,1,DokterCintaAneh,George Scratchley Brown,/* Chairman of the Joint Chiefs of Staff and later life */
+2020-01-10T18:07:36+00:00,935132932,934972175,1,DokterCintaAneh,Batman Forever,
+2020-02-19T09:42:52+00:00,941564409,941564210,1,JamesMattoonScott,Curtis LeMay,"/* USAF Chief of Staff, 1961–1965 */"
+2020-02-19T09:40:25+00:00,941564210,941564153,1,JamesMattoonScott,Curtis LeMay,/* Vietnam War */
+2020-02-19T09:39:46+00:00,941564153,941563982,1,JamesMattoonScott,Curtis LeMay,/* Vietnam War */
+2020-02-19T09:37:20+00:00,941563982,941563128,1,JamesMattoonScott,Curtis LeMay,"/* USAF Chief of Staff, 1961–1965 */"
+2020-02-19T09:25:53+00:00,941563128,941562740,1,JamesMattoonScott,Curtis LeMay,"/* USAF Vice Chief of Staff, 1957-1961 */"
+2020-02-19T09:21:16+00:00,941562740,941562608,1,JamesMattoonScott,Curtis LeMay,"/* USAF Vice Chief of Staff, 1957-1961 */"
+2020-02-19T09:19:43+00:00,941562608,941554722,1,JamesMattoonScott,Curtis LeMay,"/* USAF Chief of Staff, 1961–1965 */"
+2020-02-19T07:50:32+00:00,941554722,941550720,1,JamesMattoonScott,Curtis LeMay,"/* USAF Vice Chief of Staff, 1957-1961 */"
+2020-02-19T07:04:42+00:00,941550720,941549726,1,JamesMattoonScott,Curtis LeMay,"/* The ""Air power Battle"" */"
+2020-02-19T06:52:52+00:00,941549824,941547153,1,JamesMattoonScott,Thomas D. White,/* Life and career */
+2020-02-19T06:51:47+00:00,941549726,941549545,1,JamesMattoonScott,Curtis LeMay,/* Strategic Air Command */
+2020-02-19T06:49:49+00:00,941549545,941549364,1,JamesMattoonScott,Curtis LeMay,/* World War II */
+2020-02-19T06:47:56+00:00,941549364,941549236,1,JamesMattoonScott,Curtis LeMay,/* World War II */
+2020-02-19T06:46:36+00:00,941549236,941549161,1,JamesMattoonScott,Curtis LeMay,/* Early life */
+2020-02-19T06:45:37+00:00,941549161,940046302,1,JamesMattoonScott,Curtis LeMay,/* Cold War */
+2020-02-19T06:28:02+00:00,941547153,941543536,1,JamesMattoonScott,Thomas D. White,/* Life and career */
+2020-02-19T05:57:37+00:00,941543536,917140585,1,JamesMattoonScott,Thomas D. White,/* Life and career */
+2020-02-18T04:37:31+00:00,941369443,940721513,1,JamesMattoonScott,Garuda Indonesia,/* Developments after lifting of ban (2010–present) */
+2020-02-18T04:36:12+00:00,941369304,941369231,1,JamesMattoonScott,Robert McNamara,/* World Bank President */
+2020-02-18T04:35:19+00:00,941369231,941369177,1,JamesMattoonScott,Robert McNamara,/* World Bank President */
+2020-02-18T04:34:43+00:00,941369177,941368026,1,JamesMattoonScott,Robert McNamara,/* World Bank President */
+2020-02-18T04:22:13+00:00,941368026,941367929,1,JamesMattoonScott,Robert McNamara,/* World Bank President */
+2020-02-18T04:21:25+00:00,941367929,940152438,1,JamesMattoonScott,Robert McNamara,/* World Bank President */
+2020-02-17T09:56:24+00:00,941230406,941230251,1,JamesMattoonScott,David C. Jones,
+2020-02-17T09:54:32+00:00,941230251,941230036,1,JamesMattoonScott,David C. Jones,
+2020-02-17T09:52:10+00:00,941230036,941229679,1,JamesMattoonScott,David C. Jones,
+2020-02-17T09:48:20+00:00,941229679,941229581,1,JamesMattoonScott,David C. Jones,/* Military career */
+2020-02-17T09:47:13+00:00,941229581,940115312,1,JamesMattoonScott,David C. Jones,
+2020-02-17T09:15:29+00:00,941226918,940217498,1,JamesMattoonScott,Lyman Lemnitzer,/* Post-Korean War */
+2020-02-17T09:05:53+00:00,941225465,941224444,1,JamesMattoonScott,Kamel Hana Gegeo,/* Career */
+2020-02-17T08:53:01+00:00,941224444,941224414,1,JamesMattoonScott,Kamel Hana Gegeo,/* References */
+2020-02-17T08:52:40+00:00,941224414,941224321,1,JamesMattoonScott,Kamel Hana Gegeo,
+2020-02-17T08:51:44+00:00,941224321,938435694,1,JamesMattoonScott,Kamel Hana Gegeo,/* References */
+2020-02-17T03:23:09+00:00,941190110,940556423,1,JamesMattoonScott,Independence Day: Resurgence,/* Cast */
+2020-02-15T19:45:37+00:00,940966109,940966019,1,JamesMattoonScott,Brent Scowcroft,/* Career */
+2020-02-15T19:44:54+00:00,940966019,940964532,1,JamesMattoonScott,Brent Scowcroft,/* Career */
+2020-02-15T19:33:33+00:00,940964532,940964451,1,JamesMattoonScott,Brent Scowcroft,/* Early life and education */
+2020-02-15T19:32:55+00:00,940964451,935468093,1,JamesMattoonScott,Brent Scowcroft,/* Early life and education */
+2020-02-10T17:25:43+00:00,940121335,940121230,1,JamesMattoonScott,George C. Marshall,/* Secretary of State and Nobel Peace Prize */
+2020-02-10T17:25:09+00:00,940121230,938592216,1,JamesMattoonScott,George C. Marshall,
+2020-02-10T17:05:56+00:00,940117960,940117891,1,JamesMattoonScott,Ellsworth Bunker,/* Career */
+2020-02-10T17:05:19+00:00,940117891,936871729,1,JamesMattoonScott,Ellsworth Bunker,
+2020-02-10T16:48:02+00:00,940115312,940113492,1,JamesMattoonScott,David C. Jones,
+2020-02-10T16:35:48+00:00,940113492,938463608,1,JamesMattoonScott,David C. Jones,
+2020-02-10T06:02:19+00:00,940046302,939549261,1,JamesMattoonScott,Curtis LeMay,
+2020-02-07T15:00:51+00:00,939605001,918923573,1,JamesMattoonScott,Thomas M. Ryan Jr.,/* Career */
+2020-02-07T14:52:23+00:00,939604026,939603069,1,JamesMattoonScott,Norton A. Schwartz,
+2020-02-07T14:38:09+00:00,939603069,938497836,1,JamesMattoonScott,Norton A. Schwartz,
+2020-02-07T14:02:54+00:00,939599604,939541262,1,JamesMattoonScott,Paul J. Selva,
+2020-02-07T02:46:37+00:00,939541262,939541201,1,JamesMattoonScott,Paul J. Selva,/* Flight information */
+2020-02-07T02:46:01+00:00,939541201,926105856,1,JamesMattoonScott,Paul J. Selva,
+2020-02-06T12:32:46+00:00,939430923,939394989,1,JamesMattoonScott,Age disparity in sexual relationships,
+2020-02-06T05:38:59+00:00,939394989,939394922,1,JamesMattoonScott,Age disparity in sexual relationships,/* Age-hypogamy in relationships */
+2020-02-06T05:38:02+00:00,939394922,938953976,1,JamesMattoonScott,Age disparity in sexual relationships,/* Age-hypogamy in relationships */
+2020-02-06T05:26:01+00:00,939393917,938461861,1,JamesMattoonScott,Maxwell D. Taylor,
+2020-01-29T18:42:28+00:00,938200403,931706288,1,KennethMcRaven,Austin S. Miller,/* Military career */
+2020-01-29T18:35:45+00:00,938199527,936300412,1,KennethMcRaven,Hoyt Vandenberg,/* Military career */
+2020-01-29T18:11:24+00:00,938195627,938194048,1,KennethMcRaven,Karl Eikenberry,
+2020-01-29T18:01:22+00:00,938194048,938141074,1,KennethMcRaven,Karl Eikenberry,
+2020-01-29T10:51:16+00:00,938141074,938140995,1,KennethMcRaven,Karl Eikenberry,
+2020-01-29T10:50:20+00:00,938140995,938003856,1,KennethMcRaven,Karl Eikenberry,
+2020-01-29T00:07:21+00:00,938077115,937805101,1,KennethMcRaven,Stanley A. McChrystal,/* Commander of US and ISAF forces in Afghanistan */
+2020-01-29T00:02:02+00:00,938076430,937973712,1,KennethMcRaven,George C. Marshall,/* Secretary of Defense */
+2020-01-24T03:05:24+00:00,937295674,937253859,1,KennethMcRaven,David C. Jones,/* Chairman of the Joint Chiefs of Staff */
+2020-01-23T20:33:06+00:00,937243872,937090053,1,KennethMcRaven,Top Gun: Maverick,/* Cast */
+2020-01-23T20:04:26+00:00,937239586,937239324,1,KennethMcRaven,Robert McNamara,/* World Bank President */
+2020-01-23T20:02:23+00:00,937239324,931918770,1,KennethMcRaven,Robert McNamara,/* World Bank President */
+2020-01-23T19:59:01+00:00,937238823,936849642,1,KennethMcRaven,Ngurah Rai International Airport,/* History */
+2020-01-23T19:52:20+00:00,937237772,937235308,1,KennethMcRaven,Stuart Symington,/* First Secretary of the Air Force */
+2020-01-23T19:36:24+00:00,937235308,937234684,1,KennethMcRaven,Stuart Symington,/* Cancellation of the Flying Wing */
+2020-01-23T19:32:27+00:00,937234684,937230695,1,KennethMcRaven,Stuart Symington,/* First Secretary of the Air Force */
+2020-01-23T19:07:47+00:00,937230695,937230392,1,KennethMcRaven,Stuart Symington,/* First Secretary of the Air Force */
+2020-01-23T19:05:38+00:00,937230392,937229944,1,KennethMcRaven,Stuart Symington,/* First Secretary of the Air Force */
+2020-01-23T19:02:37+00:00,937229944,936636872,1,KennethMcRaven,Stuart Symington,/* First Secretary of the Air Force */
+2020-01-23T06:20:26+00:00,937148553,937148389,1,KennethMcRaven,Barry Goldwater,/* Military career */
+2020-01-23T06:18:24+00:00,937148389,936773555,1,KennethMcRaven,Barry Goldwater,/* Military career */
+2020-01-23T06:12:54+00:00,937147843,937147805,1,KennethMcRaven,Joint Chiefs of Staff,/* Organization and leadership positions */
+2020-01-23T06:12:21+00:00,937147805,936720668,1,KennethMcRaven,Joint Chiefs of Staff,/* Organization and leadership positions */
+2020-01-22T17:32:37+00:00,937053866,936704114,1,KennethMcRaven,Curtis LeMay,"/* The ""Air power Battle"" */"
+2020-01-22T08:28:12+00:00,936995336,936994971,1,KennethMcRaven,David C. Jones,/* Chairman of the Joint Chiefs of Staff */
+2020-01-22T08:23:46+00:00,936994971,936994822,1,KennethMcRaven,David C. Jones,/* Early life */
+2020-01-22T08:22:05+00:00,936994822,936993407,1,KennethMcRaven,David C. Jones,/* Chairman of the Joint Chiefs of Staff */
+2020-01-22T08:04:31+00:00,936993407,936992910,1,KennethMcRaven,David C. Jones,/* Chairman of the Joint Chiefs of Staff */
+2020-01-22T07:58:46+00:00,936992910,936984391,1,KennethMcRaven,David C. Jones,/* Awards and decorations */
+2020-01-22T06:22:28+00:00,936984391,936977295,1,KennethMcRaven,David C. Jones,/* Chairman of the Joint Chiefs of Staff */
+2020-01-22T05:05:52+00:00,936977295,936975819,1,KennethMcRaven,David C. Jones,/* USAF Chief of Staff */
+2020-01-22T04:49:27+00:00,936975819,936975240,1,KennethMcRaven,David C. Jones,
+2020-01-22T04:43:14+00:00,936975240,936974971,1,KennethMcRaven,David C. Jones,
+2020-01-22T04:40:31+00:00,936974971,936974235,1,KennethMcRaven,David C. Jones,/* Early life */
+2020-01-22T04:33:39+00:00,936974235,936898440,1,KennethMcRaven,David C. Jones,/* Early life */
+2020-01-21T19:06:47+00:00,936904010,936903782,1,KennethMcRaven,Godzilla: King of the Monsters (2019 film),/* Cast */
+2020-01-21T19:05:47+00:00,936903862,936301204,1,KennethMcRaven,David Strathairn,/* Film */
+2020-01-21T19:05:10+00:00,936903782,936903653,1,KennethMcRaven,Godzilla: King of the Monsters (2019 film),/* Cast */
+2020-01-21T19:04:12+00:00,936903653,936903418,1,KennethMcRaven,Godzilla: King of the Monsters (2019 film),/* Cast */
+2020-01-21T19:03:32+00:00,936903563,936772476,1,KennethMcRaven,Godzilla (2014 film),/* Cast */
+2020-01-21T19:02:21+00:00,936903418,936773250,1,KennethMcRaven,Godzilla: King of the Monsters (2019 film),/* Cast */
+2020-01-21T18:42:15+00:00,936900787,936900177,1,KennethMcRaven,Lockheed JetStar,/* Development */
+2020-01-21T18:37:44+00:00,936900177,936899785,1,KennethMcRaven,Lockheed JetStar,
+2020-01-21T18:34:58+00:00,936899785,936899592,1,KennethMcRaven,Lockheed JetStar,/* Operators */
+2020-01-21T18:33:12+00:00,936899592,932313517,1,KennethMcRaven,Lockheed JetStar,/* Civil operators */
+2020-01-21T18:25:37+00:00,936898582,936898099,1,KennethMcRaven,George Scratchley Brown,/* Chairman of the Joint Chiefs of Staff and later life */
+2020-01-21T18:24:34+00:00,936898440,936896304,1,KennethMcRaven,David C. Jones,/* Military career */
+2020-01-21T18:21:41+00:00,936898099,922485466,1,KennethMcRaven,George Scratchley Brown,/* Chairman of the Joint Chiefs of Staff and later life */
+2020-01-21T18:07:19+00:00,936896304,936896217,1,KennethMcRaven,David C. Jones,/* Military career */
+2020-01-21T18:06:40+00:00,936896217,934115677,1,KennethMcRaven,David C. Jones,/* Military career */
+2020-01-21T05:40:52+00:00,936820595,934913540,1,KennethMcRaven,Alan Ruck,/* Film */
+2020-01-21T05:37:50+00:00,936820336,936590439,1,KennethMcRaven,War Machine (film),/* Cast */
+2020-01-21T05:35:45+00:00,936820190,936819995,1,KennethMcRaven,Armageddon (1998 film),/* Cast */
+2020-01-21T05:33:29+00:00,936819995,936819744,1,KennethMcRaven,Armageddon (1998 film),/* Cast */
+2020-01-21T05:30:31+00:00,936819744,934436482,1,KennethMcRaven,Armageddon (1998 film),/* Cast */
+2020-01-20T13:56:23+00:00,936704114,936656821,1,KennethMcRaven,Curtis LeMay,/* Operation long Legs 1957 */
+2020-01-20T05:17:05+00:00,936656821,936656772,1,KennethMcRaven,Curtis LeMay,/* Berlin Airlift */
+2020-01-20T05:16:35+00:00,936656772,936656645,1,KennethMcRaven,Curtis LeMay,/* Berlin Airlift */
+2020-01-20T05:14:53+00:00,936656645,936656605,1,KennethMcRaven,Curtis LeMay,/* USAF airpower development and LeMay's style */
+2020-01-20T05:14:21+00:00,936656605,936656196,1,KennethMcRaven,Curtis LeMay,/* USAF airpower development and LeMay's style */
+2020-01-20T05:09:26+00:00,936656196,936656028,1,KennethMcRaven,Curtis LeMay,/* Early life */
+2020-01-20T05:07:17+00:00,936656028,936655628,1,KennethMcRaven,Curtis LeMay,/* Career */
+2020-01-20T05:02:00+00:00,936655628,936589882,1,KennethMcRaven,Curtis LeMay,
+2020-01-20T02:29:26+00:00,936638528,936638485,1,KennethMcRaven,Top Gun: Maverick,/* Cast */
+2020-01-20T02:29:04+00:00,936638485,936623068,1,KennethMcRaven,Top Gun: Maverick,/* Cast */
+2020-01-19T20:06:17+00:00,936590439,936590365,1,KennethMcRaven,War Machine (film),/* Plot */
+2020-01-19T20:05:45+00:00,936590365,934571139,1,KennethMcRaven,War Machine (film),/* Plot */
+2020-01-19T20:02:23+00:00,936589882,936589753,1,KennethMcRaven,Curtis LeMay,"/* USAF Chief of Staff, 1961–1965 */"
+2020-01-19T20:01:37+00:00,936589753,936589580,1,KennethMcRaven,Curtis LeMay,/* Rank history */
+2020-01-19T20:00:36+00:00,936589580,936588991,1,KennethMcRaven,Curtis LeMay,/* Rank history */
+2020-01-19T19:56:46+00:00,936588991,936587696,1,KennethMcRaven,Curtis LeMay,"/* USAF Chief of Staff, 1961–1965 */"
+2020-01-19T19:48:05+00:00,936587696,936586717,1,KennethMcRaven,Curtis LeMay,/* Operation long Legs 1957 */
+2020-01-19T19:41:19+00:00,936586717,936585701,1,KennethMcRaven,Curtis LeMay,/* Operation long Legs 1957 */
+2020-01-19T19:34:28+00:00,936585701,936298183,1,KennethMcRaven,Curtis LeMay,
+2020-01-11T07:03:36+00:00,935216791,929978954,1,KennethMcRaven,We Were Soldiers,/* Cast */
+2020-01-11T06:56:37+00:00,935216309,929760061,1,KennethMcRaven,Patrick St. Esprit,/* Film */
+2020-01-11T06:49:59+00:00,935215870,933997480,1,KennethMcRaven,Farewell (2009 film),/* Cast */
+2020-01-10T18:51:05+00:00,935138089,935137114,1,KennethMcRaven,Norton A. Schwartz,/* Effective dates of promotion */
+2020-01-10T18:42:38+00:00,935137114,935134731,1,KennethMcRaven,Norton A. Schwartz,/* Education */
+2020-01-10T18:22:54+00:00,935134731,934446100,1,KennethMcRaven,Norton A. Schwartz,/* Military career */
+2020-01-10T18:12:55+00:00,935133534,934838010,1,KennethMcRaven,The Sum of All Fears (film),/* Plot */
+2020-01-09T17:41:43+00:00,934975234,930632820,1,KennethMcRaven,Air America (film),/* Cast */
+2020-01-09T17:38:29+00:00,934974830,934974188,1,KennethMcRaven,The Rock (film),/* Cast */
+2020-01-09T17:33:56+00:00,934974188,934973876,1,KennethMcRaven,The Rock (film),/* Cast */
+2020-01-09T17:31:54+00:00,934973876,934714732,1,KennethMcRaven,The Rock (film),/* Cast */
+2020-01-09T17:18:24+00:00,934972099,933415073,1,KennethMcRaven,Batman Forever,/* Cast */
+2020-01-07T18:46:51+00:00,934653181,934226239,1,KennethMcRaven,Kemayoran Airport,/* Indonesian Government Era */
+2020-01-07T18:22:24+00:00,934649424,934649342,1,KennethMcRaven,Edward Lansdale,/* Philippines */
+2020-01-07T18:21:45+00:00,934649342,934648003,1,KennethMcRaven,Edward Lansdale,/* Philippines */
+2020-01-07T18:12:25+00:00,934648003,934647221,1,KennethMcRaven,Edward Lansdale,/* Vietnam */
+2020-01-07T18:06:07+00:00,934647221,934647102,1,KennethMcRaven,Edward Lansdale,/* Vietnam */
+2020-01-07T18:05:14+00:00,934647102,934645611,1,KennethMcRaven,Edward Lansdale,/* Vietnam */
+2020-01-07T17:54:08+00:00,934645611,934606694,1,KennethMcRaven,Edward Lansdale,
+2020-01-07T13:38:48+00:00,934606694,921132032,1,KennethMcRaven,Edward Lansdale,/* Career */
+2020-01-06T13:29:00+00:00,934427663,934427353,1,KennethMcRaven,Richard Myers,/* Flight information */
+2020-01-06T13:26:41+00:00,934427353,934426780,1,KennethMcRaven,Richard Myers,/* Awards and decorations */
+2020-01-06T13:22:31+00:00,934426780,934426697,1,KennethMcRaven,Richard Myers,/* Dates of Rank */
+2020-01-06T13:21:54+00:00,934426697,934426216,1,KennethMcRaven,Richard Myers,/* Dates of Rank */
+2020-01-06T13:18:00+00:00,934426216,933652423,1,KennethMcRaven,Richard Myers,/* Awards and decorations */
+2020-01-05T05:47:38+00:00,934191448,934190725,1,KennethMcRaven,Tod D. Wolters,/* Assignments */
+2020-01-05T05:41:08+00:00,934190725,927498439,1,KennethMcRaven,Tod D. Wolters,/* Effective dates of promotion */
+2020-01-04T11:42:15+00:00,934037704,933640940,1,KennethMcRaven,A Bright Shining Lie (film),/* Cast */
+2020-01-02T08:11:02+00:00,933652423,933648422,1,KennethMcRaven,Richard Myers,/* Commander and Chairman */
+2020-01-02T08:09:52+00:00,933652339,933650963,1,KennethMcRaven,Garuda Indonesia,/* SkyTeam */
+2020-01-02T07:51:46+00:00,933650963,933650890,1,KennethMcRaven,Garuda Indonesia,/* SkyTeam */
+2020-01-02T07:51:06+00:00,933650890,933650237,1,KennethMcRaven,Garuda Indonesia,/* SkyTeam */
+2020-01-02T07:43:48+00:00,933650237,933649934,1,KennethMcRaven,Garuda Indonesia,/* Developments after lifting of ban (2010–present) */
+2020-01-02T07:39:46+00:00,933649934,933649855,1,KennethMcRaven,Garuda Indonesia,/* Developments after lifting of ban (2010–present) */
+2020-01-02T07:38:46+00:00,933649855,933498262,1,KennethMcRaven,Garuda Indonesia,/* Developments after lifting of ban (2010–present) */
+2020-01-02T07:25:51+00:00,933648795,933648758,1,KennethMcRaven,USS Coronado (AGF-11),/* Sea-Based Battle Lab */
+2020-01-02T07:25:25+00:00,933648758,933648718,1,KennethMcRaven,USS Coronado (AGF-11),/* Sea-Based Battle Lab */
+2020-01-02T07:24:58+00:00,933648718,869839816,1,KennethMcRaven,USS Coronado (AGF-11),/* Sea-Based Battle Lab */
+2020-01-02T07:21:28+00:00,933648422,933648370,1,KennethMcRaven,Richard Myers,/* Commander and Chairman */
+2020-01-02T07:20:54+00:00,933648370,933648175,1,KennethMcRaven,Richard Myers,/* Commander and Chairman */
+2020-01-02T07:18:34+00:00,933648175,933645000,1,KennethMcRaven,Richard Myers,/* Commander and Chairman */
+2020-01-02T06:45:03+00:00,933645000,933644023,1,KennethMcRaven,Richard Myers,/* Commander and Chairman */
+2020-01-02T06:34:48+00:00,933644023,933643899,1,KennethMcRaven,Richard Myers,/* Retirement and post-retirement */
+2020-01-02T06:33:29+00:00,933643899,933641754,1,KennethMcRaven,Richard Myers,/* Retirement and post-retirement */
+2020-01-02T06:12:58+00:00,933641754,931950159,1,KennethMcRaven,Richard Myers,
+2020-01-02T06:06:02+00:00,933640940,933640721,1,KennethMcRaven,A Bright Shining Lie (film),/* Cast */
+2020-01-02T06:03:49+00:00,933640721,933639219,1,KennethMcRaven,A Bright Shining Lie (film),/* Filming Location */
+2020-01-02T05:49:47+00:00,933639219,924697385,1,KennethMcRaven,A Bright Shining Lie (film),
+2020-01-02T05:46:44+00:00,933638885,933638830,1,KennethMcRaven,The Sum of All Fears (film),/* Cast */
+2020-01-02T05:46:13+00:00,933638830,933638743,1,KennethMcRaven,The Sum of All Fears (film),/* Cast */
+2020-01-02T05:45:21+00:00,933638743,932945413,1,KennethMcRaven,The Sum of All Fears (film),/* Cast */
+2019-12-30T13:16:54+00:00,933186983,932679777,1,KennethMcRaven,Mark Milley,/* Chairman of the Joint Chiefs of Staff */
+2019-12-29T04:40:43+00:00,932955846,931102526,1,KennethMcRaven,Independence Day: Resurgence,/* Cast */
+2019-12-29T04:04:13+00:00,932951722,932951653,1,KennethMcRaven,Garuda Indonesia,/* Developments after lifting of ban (2010–present) */
+2019-12-29T04:03:31+00:00,932951653,932950342,1,KennethMcRaven,Garuda Indonesia,/* Developments after lifting of ban (2010–present) */
+2019-12-29T03:11:06+00:00,932945413,932945152,1,KennethMcRaven,The Sum of All Fears (film),/* Plot */
+2019-12-29T03:08:50+00:00,932945152,932944746,1,KennethMcRaven,The Sum of All Fears (film),/* Plot */
+2019-12-29T03:05:05+00:00,932944746,932944626,1,KennethMcRaven,The Sum of All Fears (film),/* Plot */
+2019-12-29T03:04:09+00:00,932944626,932886553,1,KennethMcRaven,The Sum of All Fears (film),/* Plot */
+2020-01-31T15:54:15+00:00,938499055,934037704,0,Dr.K.,A Bright Shining Lie (film),Reverted 4 edits by [[Special:Contributions/KennethMcRaven|KennethMcRaven]]: RDO: Routine Desocking Operation. Please see [[Wikipedia:Sockpuppet investigations/GeneralErwinStanley]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2019-11-05T11:19:55+00:00,924697385,924697185,0,Finlay McWalter,A Bright Shining Lie (film),fix production location links
+2020-01-02T12:02:12+00:00,933675344,930194638,0,Rjwilmsi,Age disparity in sexual relationships,"Journal cites:, added 2 PMIDs"
+2020-01-22T21:19:39+00:00,937084381,937083844,0,DatGuy,Alan Ruck,Reverted edits by [[Special:Contributions/2600:1700:ACD1:3A70:84D1:ADA6:B19C:E103|2600:1700:ACD1:3A70:84D1:ADA6:B19C:E103]] ([[User talk:2600:1700:ACD1:3A70:84D1:ADA6:B19C:E103|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2019-12-11T03:51:40+00:00,930238491,923484811,0,Cinemacriterion,Alan Ruck,/* Film */
+2020-02-07T02:34:09+00:00,939539762,939430923,0,Flyer22 Frozen,Age disparity in sexual relationships,Revert unnecessary inclusion of non-notables.
+2020-01-31T15:45:02+00:00,938497884,934975234,0,Dr.K.,Air America (film),Reverted 1 edit by [[Special:Contributions/KennethMcRaven|KennethMcRaven]]: RDO:  Routine Desocking Operation. Please see [[]Wikipedia:Sockpuppet investigations/GeneralErwinStanley]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2020-01-31T09:16:12+00:00,938458946,938458892,0,Dr.K.,Alexander Haig,Reverted to revision 933163606 by [[Special:Contributions/Niceguyedc|Niceguyedc]] ([[User talk:Niceguyedc|talk]]) ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2019-12-28T19:38:32+00:00,932883828,932840025,0,KConWiki,Alexander Haig,
+2020-02-18T16:12:35+00:00,941438512,938458946,0,DemonDays64 Bot,Alexander Haig,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2019-12-30T09:08:57+00:00,933163606,932883828,0,Niceguyedc,Alexander Haig,v2.02 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Matthew Marsh]]
+2020-01-24T20:34:36+00:00,937406295,932889076,0,WOSlinker,Aloha (2015 film),remove unused closing small tag
+2020-01-02T03:51:08+00:00,933625815,933343099,0,Mwbart77,Armageddon (1998 film),by a rogue comet
+2020-01-06T14:37:48+00:00,934436482,933625815,0,JustPippa,Armageddon (1998 film),Undid revision 933625815 by [[Special:Contributions/Mwbart77|Mwbart77]] ([[User talk:Mwbart77|talk]])
+2020-02-05T04:58:22+00:00,939233217,937465379,0,Martinc1994,Armageddon (1998 film),
+2020-01-05T01:42:05+00:00,934159310,934159059,0,Maile66,Barry Goldwater,pp template
+2019-12-31T10:36:30+00:00,933343099,933326677,0,Quentin X,Armageddon (1998 film),Undid revision 932584541 by [[Special:Contributions/96.230.90.243|96.230.90.243]] ([[User talk:96.230.90.243|talk]])
+2019-12-20T17:12:22+00:00,931706288,920100984,0,Citation bot,Austin S. Miller,"Alter: url, first, title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Grimes2]] | via #UCB_webform"
+2020-02-10T13:51:21+00:00,940090984,940090947,0,Hidden Hills Editor,Aloha (2015 film),removed {{Lead too short}} tag after expanding lead section to more accurately describe subject.
+2020-01-25T05:32:57+00:00,937465379,937464063,0,Doniago,Armageddon (1998 film),"[[Help:Reverting|Reverted]] edits by [[Special:Contributions/174.24.193.120|174.24.193.120]] ([[User talk:174.24.193.120|talk]]) to last version by Tridwoxi incorrect, and what would ""mostly mixed"" even mean?"
+2019-12-21T00:52:16+00:00,931759114,931759063,0,El C,Barry Goldwater,{{pp-sock|small=yes}}
+2020-01-23T19:03:54+00:00,937230143,937148553,0,Snowdawg,Barry Goldwater,The aircraft in the picture is neither an F-104 Starfighter or an F-105 Thunderchief.  It is either an F-102 or F-106.
+2020-01-09T17:19:04+00:00,934972175,934972099,0,CLCStudent,Batman Forever,Reverted edits by [[Special:Contribs/KennethMcRaven|KennethMcRaven]] ([[User talk:KennethMcRaven|talk]]) to last version by Jienum
+2019-12-31T20:16:08+00:00,933415073,931983628,0,Jienum,Batman Forever,/* Plot */
+2020-02-04T22:17:33+00:00,939188229,937994668,0,Notwally,Batman Forever,not needed and unsourced
+2020-01-12T19:26:11+00:00,935468093,926664663,0,99.203.16.172,Brent Scowcroft,/* Personal life */
+2019-11-17T22:33:59+00:00,926664663,926664551,0,Rjensen,Brent Scowcroft,/* Further reading */ cite
+2020-01-10T19:22:02+00:00,935141866,935105555,0,Aymatth2,Curtis LeMay,link tweak
+2020-01-31T09:42:37+00:00,938461085,937709876,0,Dr.K.,Curtis LeMay,Reverted to revision 936298183 by [[Special:Contributions/JJMC89 bot III|JJMC89 bot III]]: RDO: Routine Desocking Operation. Rv sock. Please see [[Wikipedia:Sockpuppet investigations/KennethMcRaven]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2019-12-21T22:42:41+00:00,931882773,931276815,0,109.252.53.162,Curtis LeMay,/* Strategic Air Command */
+2020-01-17T22:40:15+00:00,936298183,935141866,0,JJMC89 bot III,Curtis LeMay,Moving [[:Category:Legion of Honour recipients]] to [[:Category:Recipients of the Legion of Honour]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-02-07T04:05:42+00:00,939549261,938461085,0,InternetArchiveBot,Curtis LeMay,Bluelink 1 book for [[WP:V|verifiability]].) #IABot (v2.0) ([[User:GreenC bot|GreenC bot]]
+2020-01-08T14:38:59+00:00,934797802,933875563,0,51.6.93.73,Curtis LeMay,/* Personal life */ typo
+2020-01-03T14:03:51+00:00,933875563,931882773,0,Dawnseeker2000,Curtis LeMay,"link maintenance, refine ref details"
+2020-01-10T14:26:13+00:00,935105555,934797802,0,157.193.240.143,Curtis LeMay,/* Honors */
+2019-10-13T06:53:55+00:00,921000380,915497183,0,2406:3003:2076:2F:94AF:3275:FD0F:5A64,David C. Jones,/* Military career */
+2020-01-31T10:13:48+00:00,938463608,938461323,0,Dr.K.,David C. Jones,Reverted to revision 934115677 by [[Special:Contributions/Postcard Cathy|Postcard Cathy]] ([[User talk:Postcard Cathy|talk]]): More RDO. (Sorry Dianna). ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2020-01-04T21:10:24+00:00,934115677,921000380,0,Postcard Cathy,David C. Jones,removed [[Category:Boston University alumni]] using [[WP:HC|HotCat]] not mentioned in article
+2019-08-26T20:28:40+00:00,912620002,912619940,0,AManWithNoPlan,Donald Kutyna,/* References */
+2020-01-31T09:51:45+00:00,938461814,937700274,0,Dr.K.,Donald Kutyna,Reverted 2 edits by [[Special:Contributions/GeneralErwinStanley|GeneralErwinStanley]]: RDO: Routine Desocking Operation. Rv sock. Please see [[Wikipedia:Sockpuppet investigations/KennethMcRaven]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2020-01-31T15:37:09+00:00,938496869,936903862,0,Dr.K.,David Strathairn,Reverted 1 edit by [[Special:Contributions/KennethMcRaven|KennethMcRaven]]: RDO:  Routine Desocking Operation. Please see [[]Wikipedia:Sockpuppet investigations/GeneralErwinStanley]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2020-01-09T12:04:56+00:00,934936862,934850671,0,CommonsDelinker,Edward Lansdale,"Removing [[:c:File:Lansdale_and_Magsaysay_in_central_Luzon,_January_1951..jpg|Lansdale_and_Magsaysay_in_central_Luzon,_January_1951..jpg]], it has been deleted from Commons by [[:c:User:Arthur Crbz|Arthur Crbz]] because: Copyright violation, see [[:c:Comm"
+2020-01-31T09:48:23+00:00,938461547,938456662,0,Dr.K.,Edward Lansdale,Reverted to revision 921132032 by [[Special:Contributions/Monkbot|Monkbot]]: RDO: Routine Desocking Operation. Rv socks. Please see [[Wikipedia:Sockpuppet investigations/KennethMcRaven]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2019-10-14T02:24:32+00:00,921132032,916154572,0,Monkbot,Edward Lansdale,/* Philippines */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (0×) / removed (1×) deprecated |dead-url= and |deadurl= with |url-status=;
+2020-02-10T23:44:37+00:00,940172873,938461547,0,Peloneous,Edward Lansdale,wikilink added to lead
+2019-12-17T21:56:29+00:00,931250507,917535833,0,InternetArchiveBot,Ellsworth Bunker,Bluelinking 2 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3
+2020-01-21T14:45:21+00:00,936871729,931250507,0,Brutangel22,Ellsworth Bunker,/* Personal life */Changed comma splice to period.
+2020-01-31T15:44:25+00:00,938497786,935215870,0,Dr.K.,Farewell (2009 film),Reverted 1 edit by [[Special:Contributions/KennethMcRaven|KennethMcRaven]]: RDO:  Routine Desocking Operation. Please see [[]Wikipedia:Sockpuppet investigations/GeneralErwinStanley]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2020-02-09T11:52:49+00:00,939902251,939632903,0,Minorax,Garuda Indonesia,"Adding local [[Wikipedia:Short description|short description]]: ""Flag-carrier airline of Indonesia"", overriding Wikidata description ""the national airline of Indonesia"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-01-31T15:57:01+00:00,938499394,937337914,0,Dr.K.,Garuda Indonesia,RDO: Routine Desocking Operation. Please see [[Wikipedia:Sockpuppet investigations/GeneralErwinStanley]]
+2020-01-11T15:36:31+00:00,935261744,935243669,0,Sarah Carvalho,Garuda Indonesia,Undid revision 935243669 by [[Special:Contributions/Sarah Carvalho|Sarah Carvalho]] ([[User talk:Sarah Carvalho|talk]])
+2020-01-24T11:07:25+00:00,937337914,937337875,0,Hillslight,Garuda Indonesia,
+2020-02-07T18:13:04+00:00,939632903,939632842,0,Tbhotch,Garuda Indonesia,Adding {{pp-move-indef}} ([[WP:TW|TW]])
+2020-02-14T05:16:12+00:00,940721513,939902251,0,Inukabear,Garuda Indonesia,
+2020-02-04T15:16:32+00:00,939129759,939126672,0,Specter Koen,Garuda Indonesia,Reverted 1 edit by [[Special:Contributions/47.30.154.120|47.30.154.120]] ([[User talk:47.30.154.120|talk]]) to last revision by Andrewgprout ([[WP:TW|TW]])
+2020-01-01T10:19:20+00:00,933498262,933496412,0,MilborneOne,Garuda Indonesia,Undid revision 933496412 by [[Special:Contributions/74.12.56.39|74.12.56.39]] ([[User talk:74.12.56.39|talk]]) needs new reference
+2019-12-30T07:15:47+00:00,933155948,933155698,0,Hillslight,Garuda Indonesia,/* Subsidiaries */
+2020-01-10T02:43:31+00:00,935039376,934964841,0,210.99.220.126,Garuda Indonesia,
+2019-08-22T02:44:16+00:00,911927490,885614475,0,Argo Carpathians,Gatot Nurmantyo,Cleanup.
+2020-01-07T08:08:03+00:00,934574761,934574405,0,Amckern,George C. Marshall,Reverted edits by [[Special:Contributions/202.83.17.89|202.83.17.89]] ([[User talk:202.83.17.89|talk]]): addition of [[WP:BLP|unsourced content]] to a biographical article ([[WP:HG|HG]]) (3.4.9)
+2019-12-26T15:27:22+00:00,932525027,931133046,0,InternetArchiveBot,George C. Marshall,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0
+2020-01-13T07:08:40+00:00,935548850,934574761,0,Jay D. Easy,George C. Marshall,[[WP:MILMOS#CODESTYLE]]
+2020-01-14T12:54:05+00:00,935743008,935724140,0,Artaxerxes,George C. Marshall,"/* Early life */ define ""middle class"""
+2020-01-14T09:21:04+00:00,935724140,935548850,0,2600:6C67:8B80:4AB2:A935:C0C8:9B91:5FD2,George C. Marshall,
+2020-01-29T13:09:19+00:00,938154849,938076430,0,Arjayay,George C. Marshall,Refrences > References +
+2020-01-05T20:45:40+00:00,934303995,932525027,0,DadaNeem,George C. Marshall,/* top */ 1  wikilink
+2020-02-01T04:28:07+00:00,938592216,938495238,0,General George Marshall,George C. Marshall,Distinguished Service Medal citation
+2019-10-13T17:14:54+00:00,921068031,903501592,0,Ssolbergj,George Joulwan,/* Awards and decorations */
+2019-10-22T12:11:39+00:00,922485466,922485204,0,FieldMarine,George Scratchley Brown,/* References */ + findagrave template.
+2020-02-08T15:34:20+00:00,939761647,938494412,0,King's Mentioned,George Scratchley Brown,Content
+2020-01-31T15:17:33+00:00,938494412,937323497,0,Dr.K.,George Scratchley Brown,Reverted to revision 922485466 by [[Special:Contributions/FieldMarine|FieldMarine]]: RDO:  Routine Desocking Operation. Please see [[]Wikipedia:Sockpuppet investigations/GeneralErwinStanley]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2019-12-29T22:17:58+00:00,933084933,933081785,0,Berean Hunter,Godzilla (2014 film),Reverted 1 edit by [[Special:Contributions/85.238.72.195|85.238.72.195]] ([[User talk:85.238.72.195|talk]]): Rv ([[WP:TW|TW]])
+2019-12-30T21:47:41+00:00,933259729,932882563,0,InternetArchiveBot,Godzilla: King of the Monsters (2019 film),Rescuing 7 sources and tagging 0 as dead.) #IABot (v2.0
+2020-02-14T05:36:26+00:00,940723448,940722240,0,Markbassett,Godzilla (2014 film),Undid revision 940722240 by [[Special:Contributions/2402:1980:2C5:FA27:89E7:A7A3:DCE:ECE3|2402:1980:2C5:FA27:89E7:A7A3:DCE:ECE3]] ([[User talk:2402:1980:2C5:FA27:89E7:A7A3:DCE:ECE3|talk]])
+2020-01-09T15:42:21+00:00,934959947,934952356,0,DonQuixote,Godzilla: King of the Monsters (2019 film),Undid revision 934952356 by [[Special:Contributions/174.204.22.141|174.204.22.141]] ([[User talk:174.204.22.141|talk]]) [[WP:EASTEREGG|easter egg link]]
+2020-01-01T09:00:46+00:00,933490879,933487097,0,Armegon,Godzilla: King of the Monsters (2019 film),Past tense
+2020-02-12T00:16:17+00:00,940343694,940320287,0,Armegon,Godzilla: King of the Monsters (2019 film),Undid revision 940308378 by [[Special:Contributions/2600:1700:F930:5278:C928:6D14:F435:E65F|2600:1700:F930:5278:C928:6D14:F435:E65F]] ([[User talk:2600:1700:F930:5278:C928:6D14:F435:E65F|talk]]) Don't sugar coat it
+2020-01-24T19:46:04+00:00,937399523,936909184,0,2600:1700:F930:5278:EC10:6430:7157:8986,Godzilla: King of the Monsters (2019 film),/* Accolades */
+2020-01-13T21:04:20+00:00,935644850,935617424,0,Armegon,Godzilla: King of the Monsters (2019 film),/* Plot */
+2020-02-01T22:55:29+00:00,938713467,938602448,0,Armegon,Godzilla: King of the Monsters (2019 film),
+2020-01-14T05:48:50+00:00,935704753,935644850,0,Armegon,Godzilla: King of the Monsters (2019 film),Expanded on this
+2020-01-17T22:55:31+00:00,936300412,926553528,0,JJMC89 bot III,Hoyt Vandenberg,Moving [[:Category:Legion of Honour recipients]] to [[:Category:Recipients of the Legion of Honour]] per [[Wikipedia:Categories for discussion/Speedy]]
+2019-11-17T04:44:29+00:00,926553528,906888809,0,GreenC bot,Hoyt Vandenberg,Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-01-31T01:29:04+00:00,938414592,938414562,0,SenkiZesshou,Independence Day (1996 film),Reverted edits by [[Special:Contributions/71.179.168.226|71.179.168.226]] ([[User talk:71.179.168.226|talk]]) ([[WP:HG|HG]]) (3.4.8)
+2019-12-31T06:43:30+00:00,933322011,932956204,0,Drgyen,Independence Day (1996 film),Undid revision 932956204 by [[Special:Contributions/GeneralErwinStanley|GeneralErwinStanley]] ([[User talk:GeneralErwinStanley|talk]])
+2020-01-11T23:45:28+00:00,935325937,935325317,0,208.253.83.206,Independence Day: Resurgence,/* Box office */Re-worded
+2020-02-07T23:28:02+00:00,939673651,939673415,0,47.16.81.182,Independence Day: Resurgence,/* Cast */
+2020-01-25T17:35:50+00:00,937537869,937049345,0,105.71.5.172,Independence Day: Resurgence,
+2020-01-22T16:57:55+00:00,937049345,936950443,0,InternetArchiveBot,Independence Day: Resurgence,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0
+2020-01-26T16:11:02+00:00,937683865,937537869,0,Nonstopdrivel,Independence Day: Resurgence,"/* Future */  Deleted drive-by comment, possible vandalism."
+2020-02-07T19:16:52+00:00,939642253,939336878,0,InternetArchiveBot,Joint Chiefs of Staff,Rescuing 0 sources and tagging 1 as dead.) #IABot (v2.0
+2020-01-10T00:55:51+00:00,935027406,934983722,0,Cuprum17,Joint Chiefs of Staff,Undid revision 934983722 by [[Special:Contributions/RedDonkey|RedDonkey]] ([[User talk:RedDonkey|talk]])This note lets the reader know that the chief of space operations isn't member until 12/20/2020. No harm in that.t.
+2020-01-13T14:28:14+00:00,935589948,935072189,0,141.154.113.178,JFK (film),
+2020-02-09T15:52:23+00:00,939930241,939400325,0,Dash9Z,Jim Mattis,
+2020-01-06T06:36:17+00:00,934384098,934358534,0,Retired User 44052,Joint Chiefs of Staff,Information required to indicate not a full member until Dec 2020 Undid revision 934358534 by [[Special:Contributions/Kevinhanit|Kevinhanit]] ([[User talk:Kevinhanit|talk]])
+2020-01-18T05:01:56+00:00,936338577,935712133,0,Paleontologist99,Jim Mattis,/* Political views */
+2019-12-29T14:13:46+00:00,933015553,932652996,0,AntonyZ,Joseph Dunford,/* Awards and decorations */
+2019-11-22T03:23:12+00:00,927378687,909331485,0,GoodDay,Kamel Hana Gegeo,Intro
+2020-01-31T04:41:35+00:00,938435694,927378687,0,129.127.32.138,Kamel Hana Gegeo,This is repeated again and again.
+2020-01-31T09:39:56+00:00,938460868,938195627,0,Dr.K.,Karl Eikenberry,Reverted 4 edits by [[Special:Contributions/KennethMcRaven|KennethMcRaven]] ([[User talk:KennethMcRaven|talk]]): Rv sock. Please see [[Wikipedia:Sockpuppet investigations/KennethMcRaven]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2019-12-13T02:24:37+00:00,930523942,926266257,0,49.216.56.72,Karl Eikenberry,/* Military career */
+2020-02-13T19:21:18+00:00,940639299,938460868,0,InternetArchiveBot,Karl Eikenberry,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0
+2019-12-24T23:41:01+00:00,932313517,932313460,0,JeanetteMartin,Lockheed JetStar,/* Operational history */
+2020-01-15T04:15:47+00:00,935853803,935853794,0,240D:1A:4B5:2800:9C2:2CC1:842F:ED9F,Kemayoran Airport,/* Cited works */
+2020-01-31T15:39:56+00:00,938497232,937713827,0,Dr.K.,Lockheed JetStar,RDO:  Routine Desocking Operation. Please see [[]Wikipedia:Sockpuppet investigations/GeneralErwinStanley]]
+2019-12-19T16:06:12+00:00,931553147,931553004,0,Funshoot,Lyman Lemnitzer,/* Awards and decorations */
+2020-02-11T06:06:58+00:00,940217498,940217386,0,5.92.188.183,Lyman Lemnitzer,
+2020-02-03T22:06:59+00:00,939027727,938977357,0,"Abraham, B.S.",Mark Milley,Reverted edits by [[Special:Contribs/2600:1011:B101:CF39:1C55:2997:995:4701|2600:1011:B101:CF39:1C55:2997:995:4701]] ([[User talk:2600:1011:B101:CF39:1C55:2997:995:4701|talk]]) to last version by RopeTricks
+2020-01-17T05:57:47+00:00,936185585,934891649,0,150.243.216.150,Mark Milley,Fixed comma punctuation error
+2020-01-17T22:53:50+00:00,936300176,935261392,0,JJMC89 bot III,Maxwell D. Taylor,Moving [[:Category:Legion of Honour recipients]] to [[:Category:Recipients of the Legion of Honour]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-01-31T09:52:27+00:00,938461861,937706595,0,Dr.K.,Maxwell D. Taylor,Reverted 4 edits by [[Special:Contributions/GeneralErwinStanley|GeneralErwinStanley]]: RDO: Routine Desocking Operation. Rv sock. Please see [[Wikipedia:Sockpuppet investigations/KennethMcRaven]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2019-12-02T17:20:58+00:00,928941544,928940960,0,Favonian,Maxwell D. Taylor,Reverted 2 edits by [[Special:Contributions/2607:FEA8:C2E0:3BB:406F:785E:FD80:EBC0|2607:FEA8:C2E0:3BB:406F:785E:FD80:EBC0]] ([[User talk:2607:FEA8:C2E0:3BB:406F:785E:FD80:EBC0|talk]]): Per [[WP:NOR]] ([[WP:TW|TW]])
+2019-12-14T20:04:58+00:00,930766417,927659588,0,Tajotep,Mutassim Gaddafi,/* top */
+2020-02-06T15:13:15+00:00,939449678,939132317,0,Antelope2019,Ngurah Rai International Airport,Add Some Information
+2020-02-05T22:00:27+00:00,939344544,939344502,0,197.60.219.74,Mutassim Gaddafi,
+2020-02-02T13:43:28+00:00,938809553,938496312,0,Antelope2019,Ngurah Rai International Airport,/* Airlines and destinations */Add Reference
+2019-11-04T06:55:29+00:00,924502048,923468664,0,JJMC89 bot III,Norton A. Schwartz,Moving [[:Category:American Jews in the military]] to [[:Category:Jewish American military personnel]] per [[Wikipedia:Categories for discussion/Speedy]]
+2019-11-14T08:06:34+00:00,926105856,922433708,0,2605:E000:141E:D32:9D53:DD93:977F:12D0,Paul J. Selva,added retired ststus
+2020-02-12T11:08:40+00:00,940408416,939599604,0,"Abraham, B.S.",Paul J. Selva,/* External links */ update
+2020-02-02T19:40:14+00:00,938853094,938852974,0,Materialscientist,Richard Myers,Reverted edits by [[Special:Contribs/Suarez9348|Suarez9348]] ([[User talk:Suarez9348|talk]]) to last version by Materialscientist
+2020-01-08T02:01:14+00:00,934717261,934427663,0,RandomUserGuy1738,Richard Myers,/* External links */
+2019-12-22T11:50:18+00:00,931950159,928641870,0,Grammarian3.14159265359,Richard Myers,/* Early life */Added more direct wikilink.
+2020-01-31T15:49:15+00:00,938498413,938498083,0,Dr.K.,Richard Myers,Restoring GF edit by RandomUserGuy1738
+2019-11-12T12:47:13+00:00,925806454,925542535,0,InternetArchiveBot,Robert Gates,Bluelink 1 book for [[WP:V|verifiability]].) #IABot (v2.0) ([[User:GreenC bot|GreenC bot]]
+2020-02-10T21:03:43+00:00,940152438,938496017,0,2x2leax,Robert McNamara,
+2019-12-22T05:10:29+00:00,931918770,931913235,0,Mztourist,Robert McNamara,Undid revision 931913235 by [[Special:Contributions/107.77.241.49|107.77.241.49]] ([[User talk:107.77.241.49|talk]]) already there
+2020-01-31T15:30:52+00:00,938496017,938449211,0,Dr.K.,Robert McNamara,RDO:  Routine Desocking Operation. Please see [[]Wikipedia:Sockpuppet investigations/GeneralErwinStanley]]
+2020-01-27T03:46:26+00:00,937771534,937435322,0,Therequiembellishere,Robert McNamara,
+2020-01-30T01:52:47+00:00,938256759,937771534,0,Tyrol5,Robert McNamara,/* Ford Motor Company */ typo
+2020-01-25T00:42:11+00:00,937435322,937239586,0,142.114.248.129,Robert McNamara,/* Nuclear Strategy –– Trial Doctrine */ Revise awkard and repetive wording.
+2020-01-31T09:43:51+00:00,938461191,938460910,0,Dr.K.,Stanley A. McChrystal,Reverted to revision 934872771 by [[Special:Contributions/Comingdeer|Comingdeer]]: RDO: Routine Desocking Operation. Rv sock. Please see [[Wikipedia:Sockpuppet investigations/KennethMcRaven]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2020-01-09T00:18:26+00:00,934872771,932390130,0,Comingdeer,Stanley A. McChrystal,/* Post-military career */ add Secretary of Defense decline
+2020-02-06T14:18:10+00:00,939442613,939329919,0,132.25.0.211,Stuart Symington,/* Cancellation of the Flying Wing */
+2020-01-03T03:43:49+00:00,933806546,933793386,0,CommonKnowledgeCreator,Stuart Symington,/* Other issues */ Citation title fix
+2020-01-07T21:30:59+00:00,934677352,934647273,0,CommonKnowledgeCreator,Stuart Symington,/* Other issues */ Added Thurgood Marshall Supreme Court confirmation vote
+2020-02-05T20:11:11+00:00,939329919,939329268,0,Murph24,Stuart Symington,
+2020-01-31T09:41:02+00:00,938460966,937237772,0,Dr.K.,Stuart Symington,Reverted 6 edits by [[Special:Contributions/KennethMcRaven|KennethMcRaven]] ([[User talk:KennethMcRaven|talk]]): Rv sock. Please see [[Wikipedia:Sockpuppet investigations/KennethMcRaven]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2019-10-21T18:36:36+00:00,922371749,919460751,0,2001:4898:80E8:1:A605:C77E:FB19:2FD0,Stuart Symington,/* Cancellation of the Flying Wing */
+2020-02-09T20:01:23+00:00,939968561,939968492,0,147.78.31.12,The Rock (film),/* Abandoned sequel */
+2020-01-10T23:49:18+00:00,935174014,934974830,0,109.246.15.62,The Rock (film),"A single online newspaper source is not sufficient evidence to suggest such a fact in the into. With development it might be sufficient for later in the article as a point of interest, but cannot be viewed as such now. This is an encyclopedia, not a gossip website."
+2020-01-01T06:10:38+00:00,933477191,932317610,0,A13x.tan.99,The Rock (film),Added Content.
+2020-01-31T16:02:30+00:00,938500059,938499959,0,Dr.K.,The Sum of All Fears (film),/* Release */  ditto
+2020-01-23T02:35:17+00:00,937124848,937124460,0,24.135.82.237,The Sum of All Fears (film),/* Cast */
+2020-02-14T05:22:39+00:00,940722143,940722075,0,Sc2353,The Sum of All Fears (film),+[[Category:American sequel films]]; ±[[Category:Sequel films]]→[[Category:2000s sequel films]] using [[WP:HC|HotCat]]
+2020-01-24T15:24:29+00:00,937364335,937124848,0,Quentin X,The Sum of All Fears (film),per poster block
+2020-01-02T19:04:37+00:00,933733222,933732973,0,2601:4A:8201:A7A0:1D24:51DF:E554:615E,The Sum of All Fears (film),/* Plot */
+2020-01-08T20:05:55+00:00,934838010,933733222,0,74.62.110.210,The Sum of All Fears (film),/* Plot */ added comma for apposition
+2020-01-29T00:35:08+00:00,938080417,937963972,0,ZarhanFastfire,The Sum of All Fears (film),/* Release */ redundant
+2019-09-22T12:47:50+00:00,917140585,915800286,0,RFD,Thomas D. White,/* References */ category
+2019-09-30T22:28:47+00:00,918923573,871966561,0,Postcard Cathy,Thomas M. Ryan Jr.,removed [[Category:George Washington University alumni]]; added [[Category:Elliott School of International Affairs alumni]] using [[WP:HC|HotCat]]
+2020-02-05T02:14:39+00:00,939215261,938087314,0,2600:6C40:4A80:160F:93:39E2:567B:8923,Tod D. Wolters,Potential vandalisim on date of birth
+2020-01-31T15:28:37+00:00,938495749,938395011,0,Dr.K.,Top Gun: Maverick,/* Cast */ RDO:  Routine Desocking Operation. Please see [[]Wikipedia:Sockpuppet investigations/GeneralErwinStanley]]
+2020-01-29T16:52:25+00:00,938184473,938097913,0,Debresser,Top Gun: Maverick,Reverted edits by [[Special:Contribs/67.129.14.50|67.129.14.50]] ([[User talk:67.129.14.50|talk]]) to last version by KaburNimar
+2020-01-16T20:14:17+00:00,936117956,935370126,0,95.168.120.24,Top Gun: Maverick,
+2019-12-29T01:56:51+00:00,932935831,932935675,0,2402:800:63B6:EC64:FC78:BFC5:1D91:AAE0,Top Gun: Maverick,
+2020-02-17T00:40:14+00:00,941169993,940381283,0,2001:56A:742F:1A00:ED02:C0B1:2E1F:C92A,Top Gun: Maverick,/* Premise */
+2020-01-31T15:57:24+00:00,938499440,933648795,0,Dr.K.,USS Coronado (AGF-11),Reverted 3 edits by [[Special:Contributions/KennethMcRaven|KennethMcRaven]]: RDO: Routine Desocking Operation. Please see [[Wikipedia:Sockpuppet investigations/GeneralErwinStanley]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2018-11-20T18:30:07+00:00,869839816,869371273,0,Clpo13,USS Coronado (AGF-11),/* External links */ Commons cat
+2020-01-18T19:05:34+00:00,936420142,935502674,0,Sparkle1,United States Secretary of Defense,/* List of secretaries of defense */
+2020-01-31T16:15:48+00:00,938501921,938501167,0,Dr.K.,War Machine (film),/* External links */ ditto
+2020-01-07T07:28:20+00:00,934571139,932888336,0,Sc2353,War Machine (film),-[[Category:American comedy films]]; ± 3 categories using [[WP:HC|HotCat]]
+2020-01-30T08:22:01+00:00,938294044,938293960,0,Continental Rift,War Machine (film),
+2020-01-15T14:04:48+00:00,935906808,935905466,0,DanielC46,We Were Soldiers,/* Plot */
+2020-02-13T00:52:46+00:00,940518370,940514548,0,Trivialist,We Were Soldiers,Removing from [[Category:Film controversies]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2020-02-13T08:56:53+00:00,940569874,939898939,0,Dimadick,X-Men: Apocalypse,/* External links */
+2020-01-31T16:05:14+00:00,938500395,937795684,0,Dr.K.,X-Men: Apocalypse,Reverted to revision 931990165 by [[Special:Contributions/Surge elec|Surge elec]]: RDO: Routine Desocking Operation. Please see [[Wikipedia:Sockpuppet investigations/GeneralErwinStanley]] ([[WP:TW|TW]][[WP:QUALITYCONTROL|★]][[WP:TW|TW]])
+2020-01-27T07:34:55+00:00,937795684,937782958,0,Materialscientist,X-Men: Apocalypse,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/43.247.159.146|43.247.159.146]] using [[WP:STiki|STiki]]
+2020-02-09T11:24:38+00:00,939898939,939869030,0,60.51.32.93,X-Men: Apocalypse,/* Plot */
+2019-05-15T17:55:03+00:00,897237118,896105415,0,AnonMoos,Age disparity in sexual relationships,adding link (see article talk page)
+2018-07-29T13:35:29+00:00,852509394,852410624,0,120.148.192.183,A Bright Shining Lie (film),
+2019-09-24T13:27:03+00:00,917576870,917575248,0,Viewmont Viking,Age disparity in sexual relationships,Undid revision 917575248 by [[Special:Contributions/Rajeshwar . j|Rajeshwar . j]] ([[User talk:Rajeshwar . j|talk]])test
+2019-04-17T23:24:37+00:00,892950796,852509394,0,2601:246:8000:C2D5:D9E:5A3:8768:F402,A Bright Shining Lie (film),
+2019-01-31T12:12:55+00:00,881095866,878689056,0,62.96.41.227,Age disparity in sexual relationships,/* Slang terms */
+2019-08-26T03:05:48+00:00,912511452,892950796,0,36.37.131.202,A Bright Shining Lie (film),
+2019-12-10T21:19:59+00:00,930194638,929031697,0,111.65.144.148,Age disparity in sexual relationships,"/* The ""half-your-age-plus-seven"" rule */ the minimum age woman that   --- > the minimum age of woman that"
+2019-05-21T22:08:50+00:00,898179178,893498965,0,GoingBatty,Alan Ruck,"/* Career */bad link repair, replaced: [[The Exorcist]] → [[The Exorcist (film)|The Exorcist]]"
+2019-11-15T21:55:09+00:00,926365481,925516707,0,BD2412,Age disparity in sexual relationships,"/* See also */clean up from portal rename, replaced: Portal|Sexuality → Portal|Human sexuality"
+2018-12-18T07:32:10+00:00,874282369,873530306,0,Broccoli8989,Age disparity in sexual relationships,/* Smaller than average age-gaps */
+2019-10-23T18:38:54+00:00,922696061,916514502,0,82.243.102.209,Air America (film),/* Reception */ added link
+2019-08-13T07:06:07+00:00,910606507,909502932,0,92.100.194.137,Air America (film),/* External links */
+2019-12-13T20:43:13+00:00,930632820,930003675,0,192.136.15.23,Air America (film),/* Bibliography */
+2019-01-04T20:10:56+00:00,876835966,867124977,0,KerissP,Air America (film),/* Reception */
+2018-11-03T20:44:56+00:00,867124977,860487605,0,66.25.201.147,Air America (film),fixed page title error
+2019-04-21T20:14:08+00:00,893498965,891764837,0,71.105.209.234,Alan Ruck,
+2019-08-17T10:34:35+00:00,911216877,908244864,0,Ched,Alan Ruck,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""American actor and writer"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-07-14T19:55:55+00:00,906271032,906173820,0,Obi-WanKenobi-2005,Alan Ruck,Updated role.
+2020-01-09T07:24:11+00:00,934913540,934469625,0,2600:100F:B024:A6DB:8EF:2CA5:5A59:D7AA,Alan Ruck,
+2019-09-23T05:24:29+00:00,917297249,915798959,0,DisneyMetalhead,Alan Ruck,/* Film */ added character's full name
+2019-01-16T10:37:17+00:00,878689056,878689004,0,Electricmaster,Age disparity in sexual relationships,
+2018-12-26T05:15:30+00:00,875387833,875387126,0,70.48.152.127,Age disparity in sexual relationships,/* Smaller than average age-gaps */ Grammar correction
+2018-12-16T00:15:51+00:00,873927227,873629616,0,Rusted AutoParts,Alan Ruck,/* Television */
+2019-02-19T01:27:10+00:00,884022018,881670301,0,68.173.41.191,Alan Ruck,/* Television */Added one day at a time role
+2019-05-11T15:55:41+00:00,896594083,895770379,0,Cinefan Cinefan,Alexander Haig,
+2019-08-12T18:16:58+00:00,910528232,910246715,0,Born2cycle,Alexander Haig,fix link after page move
+2019-03-01T17:18:32+00:00,885687789,884125927,0,MensanDeltiologist,Alexander Haig,added [[Category:Lower Merion High School alumni]] using [[WP:HC|HotCat]]
+2019-08-07T18:41:50+00:00,909808094,907216245,0,Emiya1980,Alexander Haig,More prominent placement of subject within frame
+2018-10-18T21:02:24+00:00,864693529,862948308,0,NathanielTheBold,Alan Ruck,/* Television */
+2018-12-01T18:31:11+00:00,871528441,868861243,0,98.223.41.247,Alexander Haig,corrected a misspelling
+2019-07-14T04:08:11+00:00,906173820,898179178,0,Naturiss,Alan Ruck,
+2019-07-16T10:15:18+00:00,906513006,905771906,0,Flix11,Alexander Haig,/* 1988 Republican presidential primaries */ fix
+2018-11-24T09:50:55+00:00,870370975,870370342,0,RichardBond,Aloha (2015 film),/* Production */
+2019-10-13T04:32:06+00:00,920988993,919824347,0,Rich Farmbrough,Aloha (2015 film),Cite cleanup
+2018-11-14T22:40:34+00:00,868861243,868143254,0,Mandruss,Alexander Haig,"/* top */ remove ""small"" from infobox per [[MOS:SMALLFONT]] ;; this is an [[MOS:ACCESS|accessibility]] issue"
+2018-12-14T15:30:42+00:00,873703755,873638922,0,Cydebot,Alexander Haig,"Robot - Speedily moving category United States presidential candidates, 1988 to [[:Category:1988 United States presidential candidates]] per [[WP:CFDS|CFDS]]."
+2019-04-30T17:10:37+00:00,894888483,894308136,0,LightKeyDarkBlade,Aloha (2015 film),/* Critical response */
+2019-01-17T03:16:42+00:00,878818082,878758276,0,KosmicMuffin,Armageddon (1998 film),Undid revision 878481756 by [[Special:Contributions/Doniago|Doniago]] ([[User talk:Doniago|talk]]) added reference
+2019-11-28T15:04:22+00:00,928355579,920988993,0,Scooteristi,Aloha (2015 film),/* Whitewashing controversy */ link
+2019-04-27T01:00:13+00:00,894308136,894257224,0,Davemck,Aloha (2015 film),rmv duplicate parm
+2019-08-22T16:55:56+00:00,912008512,911362612,0,TheGodzillaGuy,Aloha (2015 film),
+2018-12-20T11:29:58+00:00,874610736,874479279,0,37.110.218.43,Aloha (2015 film),Fix dead link. Not in Web Archive but search of Guardian.com found that page moved when film name changed from Deep Tiki to Aloha
+2019-02-20T16:10:02+00:00,884268464,883775256,0,MarnetteD,Aloha (2015 film),/* External links */ rmv per [[Wikipedia:WikiProject Film/Categorization#General categorization]] and other unsourced changes
+2019-06-12T20:39:40+00:00,901576160,901431990,0,2A02:C7F:489C:A800:21B6:FAE4:EE3B:3462,Armageddon (1998 film),/* Plot */ incorrect size
+2019-05-04T17:56:45+00:00,895500177,895500141,0,173.76.106.100,Armageddon (1998 film),/* Plot */
+2019-09-14T19:20:07+00:00,915688919,915688826,0,2601:18F:602:6970:F9E0:4EAD:F7A8:E410,Armageddon (1998 film),/* Plot */
+2018-12-11T17:58:24+00:00,873194814,873183583,0,GELongstreet,Armageddon (1998 film),Undid revision 873183583 by [[Special:Contributions/2A00:23C4:5515:3201:8126:EB64:4565:5CAA|2A00:23C4:5515:3201:8126:EB64:4565:5CAA]] ([[User talk:2A00:23C4:5515:3201:8126:EB64:4565:5CAA|talk]]) vandalism
+2019-03-24T02:35:48+00:00,889191624,888661519,0,Easchiff,Armageddon (1998 film),/* References */ Move Lichtenfeld citation above the numbered references. Add OCLC>
+2018-11-20T00:49:40+00:00,869707669,869707344,0,173.76.106.100,Armageddon (1998 film),/* Plot */
+2019-09-22T02:41:28+00:00,917064038,916912056,0,4.14.53.68,Armageddon (1998 film),Reverted edit claiming Armageddon was based on a true story
+2019-01-29T22:29:54+00:00,880858655,880758790,0,86.166.7.234,Armageddon (1998 film),/* Plot */
+2019-06-04T09:14:53+00:00,900233285,900223074,0,AnomieBOT,Armageddon (1998 film),Dating maintenance tags: {{Citation needed}}
+2019-02-05T09:30:31+00:00,881866949,881849735,0,Mean as custard,Armageddon (1998 film),Reverted edits by [[Special:Contribs/Motlatle.mb|Motlatle.mb]] ([[User talk:Motlatle.mb|talk]]) to last version by Roman Spinner
+2019-12-26T23:50:37+00:00,932584541,932584292,0,96.230.90.243,Armageddon (1998 film),
+2019-05-02T20:23:50+00:00,895224577,891408101,0,Spyder212,Austin S. Miller,
+2019-05-19T02:25:29+00:00,897744801,895955505,0,Cinefan Cinefan,Austin S. Miller,
+2020-02-07T16:49:39+00:00,939621172,939621080,0,John B123,Austin S. Miller,Fixed cite error
+2019-09-02T16:48:25+00:00,913691347,913691140,0,2601:18F:602:6970:5D94:7A4D:B9A0:F7F3,Armageddon (1998 film),/* Plot */
+2019-03-26T13:22:37+00:00,889558017,889304825,0,41.203.78.248,Austin S. Miller,
+2019-04-07T19:35:54+00:00,891408101,890033966,0,154.160.23.198,Austin S. Miller,
+2019-10-07T17:47:07+00:00,920100984,919502903,0,2001:7E8:D39B:7601:2DAA:6A36:CDB1:EF7,Austin S. Miller,/* Awards and decorations */
+2019-08-24T17:51:04+00:00,912314098,911857679,0,2001:7E8:D4B0:A801:B8F1:1D57:E717:348,Austin S. Miller,
+2019-01-27T01:07:47+00:00,880364281,880363226,0,70.67.220.215,Barry Goldwater,
+2019-06-22T14:47:11+00:00,902954264,902101159,0,CVasil,Barry Goldwater,/* Personal life */
+2019-12-12T12:09:01+00:00,930428135,930428102,0,Ymblanter,Barry Goldwater,"Protected ""[[Barry Goldwater]]"": Persistent [[WP:Vandalism|vandalism]]: request at [[WP:RFPP]] ([Edit=Require autoconfirmed or confirmed access] (expires 12:09, 19 December 2019 (UTC)) [Move=Require autoconfirmed or confirmed access] (expires 12:09, 19 December 2019 (UTC)))"
+2019-01-03T15:57:10+00:00,876644967,876587678,0,95.246.152.199,Barry Goldwater,/* UFOs */
+2019-06-16T15:23:04+00:00,902101159,901400262,0,BD2412,Barry Goldwater,One-time conversion of links from moved articles to improve ease of automated parsing.
+2019-02-15T18:58:41+00:00,883492143,883490752,0,Srich32977,Barry Goldwater,Reverted 1 edit by [[Special:Contributions/66.87.125.236|66.87.125.236]] ([[User talk:66.87.125.236|talk]]): Edit test? ([[WP:TW|TW]])
+2019-05-25T11:42:36+00:00,898706478,898684064,0,Cydebot,Barry Goldwater,Robot - Speedily moving category American pro-choice activists to [[:Category:American abortion-rights activists]] per [[WP:CFDS|CFDS]].
+2019-09-12T16:14:17+00:00,915332230,913763599,0,2001:A61:2AAD:AC01:F977:F88B:6D53:FED1,Barry Goldwater,/* Personal life */ part of nonsense.
+2019-11-13T19:25:15+00:00,926018255,925914372,0,141.157.229.68,Barry Goldwater,
+2019-04-14T07:29:41+00:00,892395771,891195583,0,Wow,Barry Goldwater,restoring lede image that was changed without an explanation; removed last sentence in lede per [[WP:LABEL]]
+2019-09-17T14:25:11+00:00,916185762,916113619,0,DemonDays64,Batman Forever,
+2019-12-17T20:10:57+00:00,931235292,931235000,0,Royroque4,Batman Forever,/* Development */
+2019-10-09T22:41:40+00:00,920458029,920450297,0,Sheylige,Barry Goldwater,Added link to speech delivered by Barry Goldwater
+2019-07-27T14:03:24+00:00,908108305,907865202,0,Ngfsmg,Batman Forever,Purely subjective phrase removed
+2019-03-09T10:55:48+00:00,886915805,884282041,0,112.208.197.13,Batman Forever,/* Cast */
+2019-02-04T05:16:29+00:00,881693307,880897593,0,2602:306:381E:6860:71CE:D7D8:387:8273,Batman Forever,
+2019-02-20T17:54:25+00:00,884282041,883804192,0,107.77.208.152,Batman Forever,/* Cast */
+2018-10-06T22:52:40+00:00,862824153,862824039,0,108.46.136.42,Brent Scowcroft,
+2019-08-31T07:01:28+00:00,913306275,913298412,0,Gothicfilm,Batman Forever,ce
+2019-07-05T21:04:12+00:00,904964646,904584670,0,KolbertBot,Brent Scowcroft,[[User:KolbertBot#Tasks|Task #2]] : Remove link referral data
+2019-03-19T00:18:05+00:00,888414808,883104386,0,147.148.47.141,Brent Scowcroft,
+2019-01-29T19:48:16+00:00,880836557,874831340,0,Tobby72,Brent Scowcroft,"add info, image"
+2018-12-21T20:57:41+00:00,874831340,872777494,0,MrLinkinPark333,Brent Scowcroft,/* External links */added Category:Recipients of the Four Freedoms Award
+2019-01-01T10:44:41+00:00,876280687,875843737,0,Vibhavpawar99,Batman Forever,/* Plot */
+2019-07-03T03:54:33+00:00,904584670,902757636,0,JJMC89,Brent Scowcroft,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-10-08T22:52:48+00:00,920308498,920308394,0,725edwards,Brent Scowcroft,
+2019-05-18T12:08:58+00:00,897638943,897632323,0,StudiesWorld,Curtis LeMay,Reverted 1 edit by [[Special:Contributions/195.170.59.209|195.170.59.209]] identified as test/vandalism using [[WP:STiki|STiki]]
+2019-05-22T14:30:32+00:00,898271534,898271469,0,Plandu,Curtis LeMay,Reverted edits by [[Special:Contributions/176.59.49.217|176.59.49.217]] ([[User talk:176.59.49.217|talk]]) ([[WP:HG|HG]]) (3.4.8)
+2019-02-18T23:39:00+00:00,884007367,884002100,0,Cydebot,Curtis LeMay,Robot - Speedily moving category Légion d'honneur recipients to [[:Category:Legion of Honour recipients]] per [[WP:CFDS|CFDS]].
+2018-12-22T01:15:33+00:00,874857095,874241929,0,DavidMCEddy,Curtis LeMay,"/* Cuban Missile Crisis */ delete ""The only time..."".  see ""Talk""."
+2019-07-11T01:25:43+00:00,905731893,905728039,0,HavocMan7,Curtis LeMay,General LeMay was NOT a war criminal
+2019-12-11T20:44:03+00:00,930341180,930341139,0,TMProofreader,Curtis LeMay,/* In popular culture */
+2019-07-03T03:54:11+00:00,904583932,902291600,0,JJMC89,Curtis LeMay,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-03-05T20:39:39+00:00,886362692,886339379,0,68.102.175.152,Curtis LeMay,Added category:American conservative people as he ran for vice-president on the American Independent Party ticket
+2019-07-23T19:21:17+00:00,907565496,907136025,0,131.247.193.130,Curtis LeMay,
+2018-11-18T21:17:16+00:00,869474890,869295169,0,Tassedethe,Curtis LeMay,v2.0 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Above and Beyond (film)]]
+2019-04-20T17:15:39+00:00,893333911,892156756,0,PlanespotterA320,Curtis LeMay,
+2019-10-07T23:07:33+00:00,920147484,919584857,0,8.21.73.22,Curtis LeMay,/* Post-military career */
+2018-12-03T16:01:12+00:00,871809326,871327343,0,Marxistfounder,Curtis LeMay,
+2019-09-05T06:27:42+00:00,914105355,913308643,0,98.14.226.71,Curtis LeMay,Has it’s appropriate intro sentence from before all the cannibal edits
+2018-10-02T21:18:37+00:00,862208222,860882977,0,Rodw,David C. Jones,Disambiguating links to [[Chief of Staff of the Air Force]] (link changed to [[Chief of Staff of the United States Air Force]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2019-07-03T03:55:40+00:00,904586338,862208222,0,JJMC89,David C. Jones,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-07-12T07:12:25+00:00,905901867,902640741,0,Lolliapaulina58,David Strathairn,
+2020-01-17T23:01:06+00:00,936301204,935815225,0,NathanielTheBold,David Strathairn,/* Filmography */
+2019-05-11T13:42:36+00:00,896579372,893990665,0,Justlettersandnumbers,David Strathairn,sockpuppetry ([[Wikipedia:Sockpuppet investigations/Winterysteppe]])
+2018-10-17T03:15:49+00:00,864422763,860653488,0,BD2412,Donald Kutyna,"/* References */clean up spacing around commas, replaced: ,  → ,"
+2019-09-21T12:38:51+00:00,916935808,916935529,0,Ched,David Strathairn,Cleaned up using [[WP:AutoEd|AutoEd]]
+2019-12-20T16:03:59+00:00,931696770,931287456,0,Bender the Bot,David Strathairn,"/* Television */HTTP → HTTPS for the [[BBC]], replaced: =http://www.bbc.co.uk/ → =https://www.bbc.co.uk/"
+2019-07-25T21:27:37+00:00,907875806,907875411,0,EricSerge,Donald Kutyna,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/76.80.203.26|76.80.203.26]] ([[User talk:76.80.203.26|talk]]): Interesting anecdote but not sourced or encyclopedic ([[WP:TW|TW]])
+2019-07-03T03:55:41+00:00,904586337,900706397,0,JJMC89,Donald Kutyna,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-02-21T19:36:55+00:00,884457886,884457683,0,67.170.167.187,Donald Kutyna,quotation characters
+2019-08-25T19:36:39+00:00,912463340,912419447,0,2601:246:C180:3115:1C85:7D91:5A79:95A7,Edward Lansdale,"Fixed typo, Fixed grammar"
+2019-09-17T09:56:10+00:00,916154572,915581228,0,2601:601:9C00:3810:38B7:1F3B:2B20:11AA,Edward Lansdale,/* Vietnam */
+2019-01-07T00:07:46+00:00,877163708,877163453,0,Blainster,Edward Lansdale,/* Notes */ retitled section
+2019-07-03T03:54:02+00:00,904583518,902155130,0,JJMC89,Edward Lansdale,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-01-10T11:07:32+00:00,877704102,877163708,0,194.207.146.167,Edward Lansdale,Patrocinio appears a male name and thus likely a misprint.
+2019-04-11T06:11:24+00:00,891950852,886045293,0,2601:1C0:8800:728F:B09A:2173:BA76:12DD,Edward Lansdale,/* Vietnam */
+2019-09-24T08:27:52+00:00,917535833,917509444,0,Neighborhood Review,Ellsworth Bunker,Disambiguated: [[Charles Maier]] → [[Charles S. Maier]]
+2018-11-16T00:37:31+00:00,869036744,868022910,0,Josvebot,Edward Lansdale,v2.0b - [[WP:WCW]] project (Unicode control characters)
+2019-05-20T02:22:53+00:00,897901241,897901221,0,Illegitimate Barrister,Ellsworth Bunker,
+2019-01-06T13:17:39+00:00,877084143,877083855,0,112.206.73.231,Farewell (2009 film),
+2019-07-04T09:24:21+00:00,904754970,904489261,0,Jontel,Farewell (2009 film),/* Plot */
+2018-03-24T09:07:27+00:00,832176317,812325627,0,JustJust51,Farewell (2009 film),/* Plot */
+2019-10-14T08:13:13+00:00,921160042,920851976,0,211.37.14.39,Garuda Indonesia,/* Current fleet */
+2019-12-22T06:34:14+00:00,931924621,931924558,0,74.12.56.39,Garuda Indonesia,/* Current fleet */
+2019-12-26T04:43:40+00:00,932470453,932470434,0,Frood,Garuda Indonesia,Reverted edits by [[Special:Contribs/Frood|Frood]] ([[User talk:Frood|talk]]) to last version by 111.95.50.168
+2018-12-08T22:33:47+00:00,872742881,871607987,0,Edward,Garuda Indonesia,link [[1997 Asian financial crisis]] using [[:en:User:Edward/Find link|Find link]]
+2019-01-27T06:19:43+00:00,880401232,880396201,0,ScienticGuy,Garuda Indonesia,
+2019-03-18T16:07:33+00:00,888353145,888337905,0,MeltdownSpectre,Garuda Indonesia,
+2019-09-23T06:52:53+00:00,917306497,917251039,0,112.78.186.35,Garuda Indonesia,
+2018-12-28T12:30:47+00:00,875701577,875700907,0,M R Karim Reza,Garuda Indonesia,
+2018-12-19T06:11:55+00:00,874433145,874313764,0,Davidelit,Garuda Indonesia,"Removing some [[WP:Peacock]] terms, adding details of delayed entry to SkyTeam"
+2019-04-26T05:28:59+00:00,894185209,894185174,0,147.47.7.75,Garuda Indonesia,/* Historic fleet */
+2019-05-04T07:53:15+00:00,895439017,895423929,0,Jeromi Mikhael,Garuda Indonesia,/* Continued growth (1970s–90s) */
+2019-12-31T14:19:28+00:00,933368144,933368080,0,27.179.220.32,Garuda Indonesia,
+2019-05-16T13:54:47+00:00,897355978,897355789,0,Gibranalnn,Garuda Indonesia,/* 2009 rebranding */
+2019-04-28T16:55:48+00:00,894557547,894476978,0,Tigerdude9,Garuda Indonesia,Added links and additional notes
+2019-02-20T21:04:40+00:00,884311268,883906722,0,Bboctv,Garuda Indonesia,/* Destinations */ and class of service
+2019-10-06T08:13:12+00:00,919862512,919845467,0,120.188.92.129,Garuda Indonesia,/* Current fleet */
+2019-07-26T00:44:56+00:00,907895665,907209590,0,115.178.194.121,Garuda Indonesia,
+2019-11-18T07:01:09+00:00,926715509,926690053,0,Ishakkaihatu,Garuda Indonesia,/* Current fleet */Fixed typo
+2019-03-01T04:30:37+00:00,885614475,868927016,0,118.136.220.107,Gatot Nurmantyo,Retirement Status of Gatot Nurmantyo (Introduction body)
+2019-01-29T03:35:42+00:00,880731334,880609000,0,Vitoaditya.16,Garuda Indonesia,
+2018-11-15T08:23:50+00:00,868927016,865338172,0,Rodw,Gatot Nurmantyo,Disambiguating links to [[Tegal]] (link changed to [[Tegal (city)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2019-04-09T14:06:09+00:00,891681492,891310222,0,Jonesey95,George C. Marshall,/* top */ restore infobox after vandalism
+2019-03-15T23:06:26+00:00,887955371,887954198,0,AnomieBOT,George C. Marshall,Fixing reference errors
+2019-08-29T02:56:36+00:00,912976257,911843500,0,Ched,George C. Marshall,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""US military leader, Army Chief of Staff"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-05-31T18:24:55+00:00,899695068,899694838,0,BigBen212,George C. Marshall,"Undid revision 899694838 by [[Special:Contributions/BigBen212|BigBen212]] ([[User talk:BigBen212|talk]]) There's already a link to it earlier, but not the abbreviation, so I added the abbreviation there instead."
+2019-03-13T00:40:40+00:00,887492676,887492247,0,Susmuffin,George C. Marshall,Rescuing 8 sources and tagging 0 as dead. #IABot (v2.0beta13)
+2018-11-14T22:54:57+00:00,868863313,868619329,0,Mandruss,George C. Marshall,"/* top */ remove ""small"" from infobox per [[MOS:SMALLFONT]] ;; this is an [[MOS:ACCESS|accessibility]] issue"
+2019-05-16T14:43:56+00:00,897361758,897361698,0,Wtmitchell,George C. Marshall,Reverted edits by [[Special:Contributions/82.219.14.40|82.219.14.40]] ([[User talk:82.219.14.40|talk]]) ([[WP:HG|HG]]) (3.4.8)
+2019-08-21T14:27:04+00:00,911843500,910640907,0,2601:444:8200:1DFC:D5EA:2DC5:88D1:15AB,George C. Marshall,
+2019-03-11T18:04:49+00:00,887284927,887124097,0,Aparkswv,George C. Marshall,
+2018-12-25T20:50:20+00:00,875347797,875284258,0,Jwy,George C. Marshall,No mention of 6-star rank in the article.
+2019-06-07T04:53:12+00:00,900705943,866595102,0,Balon Greyjoy,George Joulwan,replacing curly quotation marks and apostrophes with straight ones (via [[WP:JWB]])
+2019-06-26T02:47:37+00:00,903501592,900705943,0,JJMC89,George Joulwan,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Army]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-10-16T13:21:49+00:00,921561642,916889049,0,Perhelion,George Scratchley Brown,([[c:GR|GR]])  [[File:United Nations Korea Medal ribbon.svg]] → [[File:United Nations Service Medal Korea ribbon.svg]] [[c:Special:MyLanguage/COM:FR|Renamed]]
+2019-07-03T03:54:16+00:00,904584127,902570097,0,JJMC89,George Scratchley Brown,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2018-09-23T18:47:07+00:00,860886623,855397900,0,Рефлексист,George Scratchley Brown,
+2019-01-19T19:59:49+00:00,879214065,878037711,0,222.153.188.212,Godzilla (2014 film),
+2020-01-12T09:25:07+00:00,935399261,935272807,0,2600:1700:7E31:5710:556B:3E4C:7097:1936,Godzilla (2014 film),/* Home media */
+2019-09-07T04:24:14+00:00,914384807,914381556,0,Shadowblade217,Godzilla (2014 film),/* Plot */
+2019-02-24T14:48:56+00:00,884865965,884861682,0,DemocraticLuntz,Godzilla (2014 film),Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/2600:1702:7A0:5490:ECF9:F4D4:5196:92AA|2600:1702:7A0:5490:ECF9:F4D4:5196:92AA]] using [[WP:STiki|STiki]]
+2019-11-28T23:25:32+00:00,928408387,927969262,0,2601:244:5500:ABF0:6170:1C42:4B8A:45E9,Godzilla (2014 film),
+2019-08-07T00:17:35+00:00,909692080,909678025,0,TropicAces,Godzilla: King of the Monsters (2019 film),/* Critical response */RT update
+2019-12-22T15:13:30+00:00,931969468,931914985,0,87.116.177.111,Godzilla: King of the Monsters (2019 film),vistiting -> visiting
+2019-06-05T23:31:39+00:00,900477495,900476330,0,Slayerzilla54,Godzilla: King of the Monsters (2019 film),/* Box office */
+2019-08-21T23:00:11+00:00,911905783,911791239,0,Cole the wonder,Godzilla: King of the Monsters (2019 film),/* Cast */
+2019-07-27T01:19:29+00:00,908040799,907970883,0,187.14.139.138,Godzilla: King of the Monsters (2019 film),/* Accolades */
+2018-12-30T01:33:53+00:00,875938230,875931725,0,211.30.178.97,Godzilla: King of the Monsters (2019 film),/*Cast*/
+2019-04-13T20:43:52+00:00,892336529,892100235,0,67.167.16.171,Godzilla: King of the Monsters (2019 film),Film's official runtime: http://www.godzilla-movies.com/news/godzilla-2-king-the-monsters-2019-official-runtime-revealed
+2019-04-06T03:29:05+00:00,891170408,890960076,0,74.215.153.28,Godzilla: King of the Monsters (2019 film),/* Premise */
+2019-07-11T22:23:26+00:00,905857565,905709412,0,Evope,Godzilla: King of the Monsters (2019 film),
+2019-05-28T18:00:03+00:00,899231345,899205150,0,118.150.101.85,Godzilla: King of the Monsters (2019 film),
+2019-02-18T23:50:05+00:00,884009486,878446182,0,Cydebot,Hoyt Vandenberg,Robot - Speedily moving category Légion d'honneur recipients to [[:Category:Legion of Honour recipients]] per [[WP:CFDS|CFDS]].
+2019-02-25T16:55:03+00:00,885046049,884009486,0,Rogerd,Hoyt Vandenberg,"Adding local [[Wikipedia:Short description|short description]]: ""US Air Force general"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-07-18T23:42:21+00:00,906888809,905681540,0,50.67.60.196,Hoyt Vandenberg,Just some words
+2019-02-13T20:13:22+00:00,883184282,882828092,0,Teflon,Independence Day (1996 film),Undid revision 882611061 by [[Special:Contributions/Teflon|Teflon]] ([[User talk:Teflon|talk]])
+2019-08-07T12:06:24+00:00,909755973,909754863,0,Keith D,Independence Day (1996 film),Undid revision 909754863 by [[Special:Contributions/Kunalgoldar|Kunalgoldar]] ([[User talk:Kunalgoldar|talk]]) - breaks cite template
+2019-03-03T23:33:52+00:00,886046442,885799978,0,66.25.201.147,Independence Day (1996 film),updated average rating
+2019-04-29T04:10:57+00:00,894648915,894473605,0,TommyBoy,Independence Day (1996 film),/* Plot */
+2020-01-20T20:11:25+00:00,936753381,935957313,0,68.230.216.97,Independence Day (1996 film),/* Plot */
+2020-02-02T07:00:35+00:00,938772429,938738397,0,SibTower1987,Independence Day (1996 film),/* External links */ - Adding a template for the awards
+2019-12-19T14:36:59+00:00,931543422,929769898,0,Zoolver,Independence Day (1996 film),Reverted 1 edit by [[Special:Contributions/24.155.67.155|24.155.67.155]] ([[User talk:24.155.67.155|talk]]): Removed false credit ([[WP:TW|TW]])
+2019-02-22T04:41:29+00:00,884519944,884508068,0,2601:645:201:7B35:6C7D:72B5:B755:BDB3,Independence Day: Resurgence,/* Cast */
+2019-09-14T21:40:15+00:00,915708693,915584957,0,186.10.226.142,Independence Day (1996 film),/* Critical response */
+2019-01-28T11:56:17+00:00,880615064,879791452,0,Hugo999,Independence Day (1996 film),added [[Category:1990s science fiction action films]] using [[WP:HC|HotCat]]
+2019-06-06T08:27:25+00:00,900539609,900147121,0,Sheldybett,Independence Day: Resurgence,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""2016 US science fiction film directed by Roland Emmerich"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-10-29T05:30:24+00:00,923541957,920255959,0,Cole the wonder,Independence Day: Resurgence,/* Cast */
+2019-07-10T00:08:04+00:00,905574036,905524214,0,70.53.186.21,Independence Day: Resurgence,/* Cast */
+2019-04-05T20:23:47+00:00,891122328,890667737,0,Don-Don,Independence Day: Resurgence,/* Cast */
+2019-10-08T15:52:56+00:00,920255959,920227790,0,80.167.113.78,Independence Day: Resurgence,/* Plot */
+2019-07-08T08:26:25+00:00,905306531,905003265,0,216.232.170.49,Independence Day: Resurgence,Removed inaccurate trivia
+2018-11-29T02:03:15+00:00,871121104,871120997,0,NeoBatfreak,Independence Day: Resurgence,/* Cast */
+2019-09-25T07:17:01+00:00,917740747,917719221,0,NeoBatfreak,Independence Day: Resurgence,/* Plot */
+2019-01-20T20:31:16+00:00,879369694,879293872,0,74.88.226.179,Independence Day: Resurgence,
+2019-11-18T15:56:31+00:00,926765369,923466371,0,Packer1028,JFK (film),/* Screenplay */ fixed grammar for clarity
+2019-04-19T20:31:19+00:00,893214124,893214063,0,NeoBatfreak,Independence Day: Resurgence,/* Cast */
+2019-07-29T17:00:13+00:00,908425986,904461068,0,88.109.211.36,JFK (film),
+2019-02-19T16:39:24+00:00,884114240,883900547,0,2A02:C7F:8C22:EE00:5979:A109:D39C:6066,JFK (film),
+2019-09-04T04:02:56+00:00,913936378,911400514,0,BrownHairedGirl,JFK (film),replace link to deleted [[Portal:Film in the United States]] with [[Portal:Film]] + [[Portal:United States]]
+2019-09-28T07:06:05+00:00,918349667,918333189,0,Widr,JFK (film),Reverted 1 edit by [[Special:Contributions/2001:8004:D00:67DA:828:E56E:41CB:A5C1|2001:8004:D00:67DA:828:E56E:41CB:A5C1]] using [[WP:STiki|STiki]]
+2019-12-07T23:43:18+00:00,929746986,929002889,0,213.233.132.132,JFK (film),
+2019-07-13T20:17:43+00:00,906124831,905427937,0,75.63.30.84,Jim Mattis,added honorific prefix removed by trolls
+2019-02-25T00:50:29+00:00,884946985,884946937,0,Muboshgu,Jim Mattis,/* Iraq War */
+2019-08-28T22:23:14+00:00,912947317,912946944,0,Muboshgu,Jim Mattis,"Undid revision 912946944 by [[Special:Contributions/76.121.215.232|76.121.215.232]] ([[User talk:76.121.215.232|talk]]) not biased, that's how the NYT source present describes it"
+2019-04-13T12:39:45+00:00,892281810,891889935,0,Rodw,Jim Mattis,Disambiguating links to [[Joe Kernan]] (link changed to [[Joseph D. Kernan]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2019-01-01T01:15:07+00:00,876235819,876230987,0,Colonestarrice,Jim Mattis,
+2018-11-21T02:22:47+00:00,869895882,867900412,0,Drdpw,Jim Mattis,/* External links */ Matthew Whitaker is not eligible to become acting president—not a Senate-confirmed Department of Justice official (as required by usc3-19e). See [[United States presidential line of succession#Current order]]
+2019-07-09T01:59:31+00:00,905427937,905417145,0,AlsoWukai,Jim Mattis,ce
+2019-05-02T01:49:52+00:00,895107564,895106727,0,AlsoWukai,Jim Mattis,ce
+2019-01-26T02:50:04+00:00,880216512,880216239,0,Qzd,Jim Mattis,Reverted edits by [[Special:Contribs/36.79.223.42|36.79.223.42]] ([[User talk:36.79.223.42|talk]]) to last version by Horst Hof
+2018-12-03T16:34:35+00:00,871814001,870738342,0,John of Reading,Joint Chiefs of Staff,"Typo fixing, replaced: the the → the, [[WP:AWB/T|typo(s) fixed]]: chairman’s → chairman's"
+2020-01-20T16:13:18+00:00,936720668,936346604,0,Kaltenmeyer,Joint Chiefs of Staff,combined refs
+2018-11-26T18:51:39+00:00,870738342,870100452,0,70.158.109.2,Joint Chiefs of Staff,/* Commandant of the Coast Guard */
+2019-11-16T22:20:48+00:00,926512082,926511993,0,Neovu79,Joint Chiefs of Staff,/* Commandant of the Coast Guard */
+2019-11-23T23:25:04+00:00,927660402,927658030,0,RobertLunaIII,Joint Chiefs of Staff,/* Vice Chairman */
+2019-04-12T23:05:39+00:00,892213640,891248609,0,2620:5:8000:20C4:990C:B643:9B61:80A8,Joint Chiefs of Staff,/* Directorates of the Joint Staff */
+2019-08-14T05:36:54+00:00,910748981,910524673,0,Robertsky,Joseph Dunford,added [[Category:Recipients of the Darjah Utama Bakti Cemerlang (Tentera)]] using [[WP:HC|HotCat]]
+2019-08-05T14:51:17+00:00,909453622,909211962,0,Ancheta Wis,Joseph Dunford,/* Chairman of the Joint Chiefs of Staff */ @Quarters Six in Fort Myer
+2019-01-18T21:00:11+00:00,879075455,879061669,0,TeriEmbrey,Joseph Dunford,Filled in 1 bare reference(s) with reFill 2  #1lib1ref
+2019-05-13T19:54:05+00:00,896940122,896939780,0,2001:7E8:D4D3:6201:C1AA:85E7:4E56:A927,Joseph Dunford,/* Civilian awards */
+2020-01-05T18:41:48+00:00,934284415,933015553,0,88.207.194.187,Joseph Dunford,/* Awards and decorations */
+2020-01-19T04:36:25+00:00,936485456,934284415,0,Acitrano,Joseph Dunford,
+2019-03-01T21:17:52+00:00,885718399,885695810,0,79.43.127.98,Kamel Hana Gegeo,/* Early life */
+2018-12-01T11:17:51+00:00,871485188,870284771,0,AntonSamuel,Kamel Hana Gegeo,/* Personal life */
+2019-06-10T18:27:45+00:00,901262267,884409358,0,Balon Greyjoy,Karl Eikenberry,"replacing curly quotation marks and apostrophes with straight ones, per [[MOS:']] (via [[WP:JWB]])"
+2018-11-11T23:27:24+00:00,868399309,868399240,0,2601:646:C700:3FDB:D8CD:7965:3F41:391A,Karl Eikenberry,
+2019-11-15T06:36:39+00:00,926266257,926235538,0,Jkg1997,Karl Eikenberry,"Removed Copyright Violations from Wikimedia Commons: [[:c:File:Eikenberry2018.png|File:Eikenberry2018.png]], for the following reason: Copyright violation; see [[c:Commons:Licensing|Commons:Licensing]]"
+2019-10-11T01:34:35+00:00,920647287,916572376,0,Javert2113,Karl Eikenberry,/* External links */ Template added.
+2019-02-21T12:59:32+00:00,884409358,872796141,0,HildWheaton,Karl Eikenberry,/* External links */ category
+2019-10-05T06:14:38+00:00,919695899,918645211,0,Madhavan THITTAI,Kemayoran Airport,/* Passengers */
+2019-12-18T12:00:50+00:00,931353518,931348233,0,Rinda Fergiawan,Kemayoran Airport,/* Accidents and incidents */
+2018-08-02T04:29:17+00:00,853057502,845191500,0,Rantemario,Kemayoran Airport,Italic
+2019-01-29T16:01:08+00:00,880804543,853057502,0,Pi bot,Kemayoran Airport,"Updating the Commons category from ""Category:Jakarta Kemayoran airport"" to ""Category:Kemayoran Airport"" to avoid a category redirect"
+2019-07-10T10:47:13+00:00,905637291,905637236,0,103.213.130.9,Kemayoran Airport,/* Passengers */
+2019-09-21T01:27:55+00:00,916861691,916861530,0,76.67.16.252,Kemayoran Airport,/* Passengers */
+2019-01-16T21:31:00+00:00,878777980,877060642,0,WereSpielChequers,Lockheed JetStar,typo
+2019-12-06T22:57:28+00:00,929603813,921333287,0,174.63.85.211,Lockheed JetStar,/* Notable appearances in media */
+2019-06-06T12:59:24+00:00,900574499,900573678,0,71.120.13.40,Lockheed JetStar,/* Operational history */
+2019-10-15T04:54:21+00:00,921333287,918969456,0,Noha307,Lockheed JetStar,/* Aircraft on display */ Correct Picture Caption
+2019-08-09T01:23:16+00:00,910005116,908073450,0,177.37.136.186,Lockheed JetStar,
+2018-10-12T14:08:25+00:00,863709267,863708228,0,Marc Lacoste,Lockheed JetStar,produced = 1961–1980
+2019-08-29T04:28:43+00:00,912985206,912985003,0,Evans1982,Lyman Lemnitzer,/* Early career */
+2019-03-26T20:17:17+00:00,889611484,889550654,0,Rogerd,Lyman Lemnitzer,Reverted edits by [[Special:Contribs/2601:601:4480:612A:517C:104A:668F:59A5|2601:601:4480:612A:517C:104A:668F:59A5]] ([[User talk:2601:601:4480:612A:517C:104A:668F:59A5|talk]]) to last version by Ealdgyth
+2018-10-24T08:14:23+00:00,865490667,861276110,0,Lawrence King,Lyman Lemnitzer,/* Awards and decorations */
+2019-05-04T14:50:46+00:00,895478445,889611484,0,Sodacan,Lyman Lemnitzer,vector version available ([[Commons:Commons:GlobalReplace|GlobalReplace v0.6.5]])
+2019-10-16T13:16:53+00:00,921561104,921067994,0,Perhelion,Lyman Lemnitzer,([[c:GR|GR]])  [[File:United Nations Korea Medal ribbon.svg]] → [[File:United Nations Service Medal Korea ribbon.svg]] [[c:Special:MyLanguage/COM:FR|Renamed]]
+2019-11-28T18:36:36+00:00,928378192,926500642,0,2001:7E8:D3EF:F301:1009:E0B8:71F1:2605,Mark Milley,/* External links */
+2019-12-31T09:28:05+00:00,933336606,933190612,0,Emt1299d,Mark Milley,/* Military career */
+2019-05-09T17:46:29+00:00,896317714,894137959,0,MensanDeltiologist,Mark Milley,"removed [[Category:Columbia University alumni]]; added [[Category:School of International and Public Affairs, Columbia University alumni]] using [[WP:HC|HotCat]]"
+2019-07-12T07:09:23+00:00,905901630,905901234,0,Terber,Mark Milley,/* Iraq War study */  Study was actually published 17 January 2019
+2019-02-05T03:15:32+00:00,881835489,879227525,0,Denniscabrams,Mark Milley,/* External links */
+2018-12-13T01:12:58+00:00,873411136,873203849,0,X1\,Mark Milley,[[United States Secretary of the Army]] Mark Esper
+2019-09-27T10:16:34+00:00,918167579,917192944,0,2001:7E8:D365:F401:3C93:7EB0:2164:5FD,Mark Milley,/* Awards and decorations */
+2019-06-03T20:31:42+00:00,900158819,900156166,0,AnomieBOT,Maxwell D. Taylor,Dating maintenance tags: {{Citation needed}}
+2019-07-30T12:05:46+00:00,908546307,907758306,0,92.64.76.18,Maxwell D. Taylor,
+2019-02-25T03:51:41+00:00,884968094,884959130,0,Rogerd,Maxwell D. Taylor,"Changing [[Wikipedia:Short description|short description]] from ""United States general"" to ""US Army general"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-02-01T23:16:16+00:00,881344668,879688654,0,134.87.155.3,Maxwell D. Taylor,/* The Vietnam War */
+2019-07-01T16:31:26+00:00,904355903,903501660,0,Michael E Nolan,Maxwell D. Taylor,/* Second retirement */
+2018-11-19T03:03:57+00:00,869515549,867844055,0,Spintendo,Mutassim Gaddafi,Fixing style/layout errors [[Wikipedia:WikiProject Fix common mistakes]] was/was
+2019-10-20T19:00:54+00:00,922217100,921678739,0,Clarityfiend,Mutassim Gaddafi,/* top */ better word
+2019-03-20T09:07:20+00:00,888617808,888617755,0,Alpha3031,Mutassim Gaddafi,Reverted edits by [[Special:Contributions/83.137.2.244|83.137.2.244]] ([[User talk:83.137.2.244|talk]]) ([[WP:HG|HG]]) (3.4.7)
+2019-06-15T05:50:35+00:00,901917965,898732543,0,Jdawgrealty,Mutassim Gaddafi,Citations and video don't match this description.
+2019-01-27T16:58:52+00:00,880472594,878915647,0,KolbertBot,Mutassim Gaddafi,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2019-08-17T03:34:18+00:00,911184621,908827880,0,Chris the speller,Mutassim Gaddafi,"caps, other cleanup"
+2019-01-19T22:43:26+00:00,879235275,878720269,0,Certes,Ngurah Rai International Airport,typo: millon (via [[WP:JWB]])
+2018-12-29T19:32:00+00:00,875898215,875727418,0,Yudifadil28,Ngurah Rai International Airport,
+2019-05-04T11:59:41+00:00,895459532,895330610,0,Cal1407,Ngurah Rai International Airport,/* Passenger */
+2018-12-27T06:38:38+00:00,875532441,874636027,0,Meters,Mutassim Gaddafi,Undid revision 874636027 by [[Special:Contributions/98.118.90.170|98.118.90.170]] ([[User talk:98.118.90.170|talk]]) not needed
+2019-11-26T08:13:28+00:00,928022078,927661532,0,Caden Teo,Ngurah Rai International Airport,"/* Airlines and destinations */Rossiya Airlines, not Aeroflot, serves Denpasar"
+2019-04-14T05:38:57+00:00,892386854,892312737,0,ScienticGuy,Ngurah Rai International Airport,/* Passenger */
+2019-10-10T22:31:02+00:00,920622335,920622231,0,Yudifadil28,Ngurah Rai International Airport,/* Passenger */
+2019-05-31T03:41:41+00:00,899600728,899485349,0,Millanel,Ngurah Rai International Airport,/* Passenger */
+2019-05-11T17:33:25+00:00,896605470,896553403,0,115.178.219.2,Ngurah Rai International Airport,/* Passenger */
+2019-12-30T06:40:10+00:00,933151956,933150251,0,115.178.223.158,Ngurah Rai International Airport,
+2019-02-25T00:40:53+00:00,884945734,862509724,0,Rogerd,Norton A. Schwartz,"Adding local [[Wikipedia:Short description|short description]]: ""US Air Force general"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-07-29T17:45:51+00:00,908431637,907201539,0,129.246.254.12,Norton A. Schwartz,I added the IDA press release link to where the source required tag was
+2019-07-03T03:54:20+00:00,904584227,884945734,0,JJMC89,Norton A. Schwartz,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-03-08T03:50:02+00:00,886727949,885144503,0,Rogerd,Paul J. Selva,"Adding local [[Wikipedia:Short description|short description]]: ""US Air Force general"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2018-10-04T21:05:26+00:00,862509724,862508538,0,Derek R Bullamore,Norton A. Schwartz,Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2019-02-09T09:42:16+00:00,882471820,867034523,0,FlyingBlueDream,Paul J. Selva,Formatting changes
+2019-11-14T00:54:09+00:00,926062643,917642081,0,Slugger O'Toole,Richard Myers,added [[Category:Recipients of the Humanitarian Service Medal]] using [[WP:HC|HotCat]]
+2018-11-15T01:07:01+00:00,868878583,867526661,0,Atchom,Richard Myers,/* External links */clean up
+2019-01-15T03:32:12+00:00,878490892,868878583,0,Jprg1966,Richard Myers,/* Commander and Chairman */
+2019-07-03T03:56:10+00:00,904586962,903706720,0,JJMC89,Richard Myers,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-11-30T18:11:51+00:00,928641870,926062643,0,Spacini,Richard Myers,remove overlinking
+2019-08-26T20:25:00+00:00,912619549,912619481,0,2001:7E8:D4B0:A801:4C1B:9D43:1EE5:56A0,Richard Myers,/* Awards and decorations */
+2019-05-19T20:26:26+00:00,897859557,889977471,0,2001:7E8:D4D3:6201:65E2:B121:FDB8:7622,Richard Myers,/* Awards and decorations */
+2019-02-26T06:36:48+00:00,885144507,885142734,0,Corkythehornetfan,Richard Myers,"I’ll be glad to talk on this article talk page per [[:WP:BRD]]. Discuss, don’t edit war."
+2019-09-25T16:29:04+00:00,917814465,917814082,0,Oldag07,Robert Gates,Reverted 1 edit by [[Special:Contributions/2600:1008:B064:6502:D8CD:2842:D019:9ADD|2600:1008:B064:6502:D8CD:2842:D019:9ADD]] ([[User talk:2600:1008:B064:6502:D8CD:2842:D019:9ADD|talk]]) to last revision by Let's-ask-geoff ([[WP:TW|TW]])
+2019-08-06T19:14:06+00:00,909653502,908003692,0,Paine Ellsworth,Robert Gates,/* Awards and decorations */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]]
+2019-01-23T13:41:21+00:00,879800843,879800725,0,203.194.51.42,Robert Gates,/* Notes */
+2018-12-02T14:28:47+00:00,871644180,868121204,0,JFG,Robert Gates,Direct link to renamed article (via [[WP:JWB]])
+2019-06-29T06:58:36+00:00,903987788,899665854,0,BrownHairedGirl,Robert Gates,"[[WP:ELLINKS]] (1/1): [[United States general elections, 2006]] → [[2006 United States general elections]];"
+2019-09-05T04:55:00+00:00,914098607,909653502,0,SidP,Robert Gates,"reference formatting, punctuation, biblio data, link, acronym introduced earlier, external link labeling"
+2019-11-13T00:30:58+00:00,925897333,925897142,0,MarnetteD,Robert McNamara,Filled in 2 bare reference(s) with reFill 2
+2019-06-29T22:16:22+00:00,904087152,904085902,0,A.S. Brown,Robert McNamara,/* Vietnam War */ Meeting Air Marshal Ky
+2019-01-24T01:18:07+00:00,879888435,879394376,0,98.244.181.10,Robert McNamara,
+2019-11-08T14:41:02+00:00,925202962,925017218,0,Sun Creator,Robert McNamara,"[[WP:AWB/GF|General fixes]], [[WP:AWB/T|typo(s) fixed]]: i.e  → i.e. , $2 million dollars → $2 million (3), would had been → would have been, coup d'etat → coup d'état"
+2019-07-31T19:28:32+00:00,908755224,908754996,0,A.S. Brown,Robert McNamara,/* Vietnam War */ The body count fallacy
+2019-10-08T23:21:21+00:00,920311629,920309477,0,A.S. Brown,Robert McNamara,/* Vietnam War */ m
+2019-02-22T14:00:07+00:00,884567108,884255913,0,Origamibyameer,Robert McNamara,"Added another example of McNamara is popular culture, Call of Duty is likely what many young individuals know him from."
+2019-04-03T15:18:41+00:00,890788434,890674503,0,SCAH,Robert McNamara,/* In popular culture */
+2019-04-10T03:09:32+00:00,891776973,891776898,0,2607:F140:400:A02D:98EB:7409:96AA:D231,Robert McNamara,/* Early life and career */
+2019-04-04T16:22:36+00:00,890946981,890944459,0,MrX,Robert McNamara,Reverted to revision 890915274 by [[Special:Contributions/MrX|MrX]] ([[User talk:MrX|talk]]): Rv sock ([[WP:TW|TW]])
+2019-04-20T14:35:43+00:00,893315814,893242401,0,Coltsfan,Robert McNamara,
+2018-12-02T02:25:16+00:00,871582333,868697933,0,Hub,Robert McNamara,better citation format
+2019-06-26T22:48:57+00:00,903640268,903532166,0,A.S. Brown,Robert McNamara,/* Departure */ What Johnson claimed
+2019-08-09T17:33:56+00:00,910101688,907822371,0,Events1234,Stanley A. McChrystal,/* External links */ Adding additional resource to McChrystal's page
+2018-10-28T19:06:34+00:00,866171861,866106132,0,Odysseus.i52,Stanley A. McChrystal,
+2019-05-25T02:33:52+00:00,898655139,898651514,0,Davemck,Stanley A. McChrystal,rmv duplicate parm
+2019-03-03T21:14:11+00:00,886027095,884394249,0,203.97.41.146,Stanley A. McChrystal,/* Rolling Stone article and resignation */
+2019-10-14T16:03:13+00:00,921217735,917705173,0,Theroadislong,Stanley A. McChrystal,/* External links */ spam
+2018-12-05T01:47:37+00:00,872084047,872079040,0,Everedux,Stanley A. McChrystal,Reverted 1 edit by [[Special:Contributions/47.153.35.92|47.153.35.92]] ([[User talk:47.153.35.92|talk]]) to last revision by Magic links bot. ([[WP:TW|TW]])
+2019-01-16T06:56:38+00:00,878668448,877534515,0,2001:8003:4127:BA00:7096:84A1:A863:9B88,Stanley A. McChrystal,Undid revision 877534515 by bot
+2019-02-12T00:33:29+00:00,882897302,882897284,0,Rogerd,Stuart Symington,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""American politician"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-05-12T18:41:24+00:00,896762855,882897302,0,71.178.247.119,Stuart Symington,Fixed improperly hyphenated instance of the word antitrust
+2018-12-14T16:20:41+00:00,873712437,873702354,0,Cydebot,Stuart Symington,"Robot - Speedily moving category United States vice-presidential candidates, 1956 to [[:Category:1956 United States vice-presidential candidates]] per [[WP:CFDS|CFDS]]."
+2019-08-30T14:20:26+00:00,913192091,911752591,0,2402:3A80:A56:F825:51A:67B9:A162:EA0B,The Rock (film),
+2019-08-31T02:31:25+00:00,913283613,913283166,0,Daß Wölf,The Rock (film),c/e
+2019-12-23T03:17:50+00:00,932054425,931205180,0,TreebeardsMustache,The Rock (film),fixed tense of sentence.
+2019-01-24T14:25:08+00:00,879962710,875824972,0,Typhoon966,The Rock (film),
+2019-06-07T22:07:17+00:00,900837629,899209672,0,109.76.146.187,The Rock (film),"This is an article about the film ""The Rock"" and it should include the Rotten Tomatoes score. That it is the highest rated film Michael Bay directed would be more relevant on the article for Michael Bay, but it definitely doesn't make sense to include it without the actual Rotten Tomatoes score."
+2019-11-04T01:41:38+00:00,924469441,924467042,0,Daß Wölf,The Rock (film),"clarified, sources are in the Iraqi chemical weapons program section"
+2019-08-20T22:14:15+00:00,911752591,911560373,0,Patty Collins,The Rock (film),/* Soundtrack */
+2019-08-19T17:29:27+00:00,911560373,911560342,0,Jack90s15,The Rock (film),Undid revision 911560342 by [[Special:Contributions/42.106.193.103|42.106.193.103]] ([[User talk:42.106.193.103|talk]])
+2019-07-10T05:35:40+00:00,905611152,905578501,0,Daß Wölf,The Rock (film),Undid revision 905578501 by [[Special:Contributions/2601:81:4200:183A:1C5A:FF3:6321:3DFF|2601:81:4200:183A:1C5A:FF3:6321:3DFF]] ([[User talk:2601:81:4200:183A:1C5A:FF3:6321:3DFF|talk]]) everything in the source points to this being dead and buried
+2019-03-20T22:01:10+00:00,888711437,888111143,0,Simishag,The Rock (film),/* Production */ remove speculative reference; phrase has obvious meanings outside of a distant movie
+2018-11-16T03:53:03+00:00,869058830,868941911,0,PohranicniStraze,The Sum of All Fears (film),removed link to deleted page
+2018-12-23T20:10:25+00:00,875098414,875021727,0,108.48.161.63,The Sum of All Fears (film),
+2019-09-22T11:35:08+00:00,917128868,917128373,0,Lion0124,The Sum of All Fears (film),
+2019-12-12T16:43:25+00:00,930457466,930203928,0,24.184.123.140,The Sum of All Fears (film),
+2019-06-02T10:36:17+00:00,899936765,899832726,0,Illegitimate Barrister,The Sum of All Fears (film),/* Plot */
+2019-03-25T21:50:55+00:00,889468023,889467890,0,184.13.104.71,The Sum of All Fears (film),/* Plot */
+2019-03-31T06:29:18+00:00,890259672,889468023,0,112.206.68.14,The Sum of All Fears (film),
+2019-07-03T03:54:11+00:00,904583913,885046380,0,JJMC89,Thomas D. White,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-01-16T11:41:42+00:00,878694571,855052050,0,2001:7E8:D4EB:201:DD04:2CF2:B2EF:7EEC,Thomas D. White,/* Awards and decorations */
+2019-02-25T16:57:07+00:00,885046380,878694571,0,Rogerd,Thomas D. White,"Adding local [[Wikipedia:Short description|short description]]: ""US Air Force general"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-09-08T19:19:35+00:00,914671970,913510040,0,2A01:CB0C:7A6:A300:60E8:55F0:3493:463A,Tod D. Wolters,
+2019-09-27T17:59:38+00:00,918240717,914671970,0,2001:7E8:D365:F401:3C93:7EB0:2164:5FD,Tod D. Wolters,/* Awards and decorations */
+2019-02-22T19:51:31+00:00,884612677,874614870,0,Rogerd,Tod D. Wolters,"Adding [[Wikipedia:Short description|short description]]: ""US Air Force general"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2020-01-29T01:29:56+00:00,938087314,937026391,0,73.144.223.61,Tod D. Wolters,
+2018-11-23T19:21:25+00:00,870285660,865371462,0,2804:431:9724:F348:15D6:BEEC:8E1F:5432,Tod D. Wolters,/* Effective dates of promotion */
+2020-02-12T06:04:23+00:00,940381283,940381167,0,138.229.231.113,Top Gun: Maverick,
+2019-04-16T04:16:10+00:00,892679284,892008471,0,47.33.161.175,Top Gun: Maverick,
+2019-02-10T14:35:50+00:00,882649125,882512564,0,Sheldybett,Top Gun: Maverick,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""2020 film by Joseph Kosinski"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2019-10-04T16:38:04+00:00,919606810,919334284,0,2601:541:4500:1760:852C:8E2A:A191:3E0E,Top Gun: Maverick,fix link
+2019-03-13T15:06:09+00:00,887581161,887112976,0,76.185.52.28,Top Gun: Maverick,fixed link to Tom Cruise in card.
+2019-08-24T15:33:00+00:00,912298117,912199613,0,MemeLordMatt2019,Top Gun: Maverick,Adding/removing wikilink(s)
+2020-01-04T19:48:32+00:00,934101824,934017048,0,Chirag85,Top Gun: Maverick,/* Filming */
+2019-12-05T00:20:22+00:00,929311620,929192465,0,SporkBot,Top Gun: Maverick,Remove template per [[Wikipedia:Templates for discussion/Log/2019 November 27|TFD outcome]]
+2019-01-26T22:17:03+00:00,880340345,880203418,0,Omar Warsame15,Top Gun: Maverick,
+2019-10-10T06:44:24+00:00,920508882,920357587,0,187.181.22.118,Top Gun: Maverick,Unnecessary controversy-baiting.
+2019-01-20T04:03:32+00:00,879269062,879111126,0,76.71.115.17,Top Gun: Maverick,
+2018-12-07T08:05:48+00:00,872457101,872274303,0,Locke Cole,Top Gun: Maverick,rvv
+2019-04-27T07:43:54+00:00,894341877,894341860,0,EtherealGate,Top Gun: Maverick,/* Filming */
+2019-02-18T05:13:53+00:00,883880299,883880185,0,213.205.198.66,Top Gun: Maverick,/* Filming */Fixed ref
+2019-03-01T08:53:15+00:00,885636031,885477265,0,109.177.4.141,Top Gun: Maverick,
+2018-12-31T20:06:12+00:00,876197812,876124592,0,2605:A000:1219:4450:F878:E198:F91:587B,Top Gun: Maverick,
+2019-03-18T20:12:10+00:00,888386725,887582837,0,Paratrooper450,United States Secretary of Defense,Corrected start date fro Les Aspin.
+2019-01-08T04:18:12+00:00,877356686,877345396,0,Corkythehornetfan,United States Secretary of Defense,Reverted edits by [[Special:Contribs/Onghai1929|Onghai1929]] ([[User talk:Onghai1929|talk]]) to last version by PRRfan
+2019-04-23T15:20:27+00:00,893786259,893784490,0,Archer1234,United States Secretary of Defense,/* External links */ order of precedence; Barr
+2019-04-15T16:22:20+00:00,892596193,892506487,0,Brantmeierz,United States Secretary of Defense,
+2019-10-09T00:35:37+00:00,920319118,920296105,0,Archer1234,United States Secretary of Defense,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Bmarz2019|Bmarz2019]] ([[User talk:Bmarz2019|talk]]): [[MOS:JOBTITLES]] ([[WP:TW|TW]])
+2019-01-03T04:47:46+00:00,876579047,876528457,0,Illegitimate Barrister,United States Secretary of Defense,/* History */ [[MOS:IMGLOC]].
+2019-12-01T20:27:53+00:00,928811733,928808483,0,Emk9,United States Secretary of Defense,"Undid revision 928808483 by [[Special:Contributions/Onghai1929|Onghai1929]] ([[User talk:Onghai1929|talk]]) that's a tracking date, it should remain unchanged"
+2019-04-14T03:37:42+00:00,892377412,892345289,0,SubSeven,War Machine (film),this param for documentaries only - see [[Template:Infobox_film]]
+2019-06-25T10:18:15+00:00,903375101,897614508,0,47.31.117.156,War Machine (film),
+2018-12-30T22:17:54+00:00,876058726,876008539,0,Froid,War Machine (film),full title of the book
+2019-09-13T20:45:25+00:00,915533882,913526077,0,WP Ludicer,War Machine (film),/* Plot */
+2019-10-06T16:01:17+00:00,919911426,917233246,0,112.206.65.79,War Machine (film),
+2019-12-02T03:32:33+00:00,928863326,919911426,0,2001:1970:4F1F:7D00:9409:A9F1:8CB4:614E,War Machine (film),/* Plot */Clarification on Denmark
+2018-10-31T11:14:00+00:00,866603357,861519220,0,Cydebot,War Machine (film),Robot - Moving category United States Army in films to [[:Category:Films about the United States Army]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 October 23]].
+2019-01-27T01:13:37+00:00,880364951,876058726,0,Freeknowledgecreator,War Machine (film),tweak lead
+2019-09-03T21:45:22+00:00,913894127,913610480,0,69.115.242.17,We Were Soldiers,update ref
+2019-09-02T03:21:11+00:00,913610480,913610356,0,69.115.242.17,We Were Soldiers,/* Soundtrack */ update ref
+2019-12-09T12:59:56+00:00,929978954,928226010,0,LilHelpa,We Were Soldiers,"[[WP:AWB/T|Typo fixing]], replaced: the its  → its"
+2019-08-20T22:07:32+00:00,911751948,911661160,0,69.115.242.17,We Were Soldiers,/* Cast */ add wikilink to Finnish wiki
+2018-12-24T04:46:04+00:00,875153323,872034350,0,Hmains,We Were Soldiers,standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes
+2019-02-15T02:26:04+00:00,883380723,883206605,0,2600:1700:AFD0:3180:8497:DA2C:4793:4E39,We Were Soldiers,
+2019-03-27T12:13:33+00:00,889704995,889704809,0,David J Johnson,We Were Soldiers,Reverted 2 edits by [[Special:Contributions/122.53.156.244|122.53.156.244]] ([[User talk:122.53.156.244|talk]]) to last revision by 2601:153:702:2A70:F88B:4309:88FC:8555 ([[WP:TW|TW]])
+2019-02-26T07:54:12+00:00,885150787,881545185,0,154.121.7.53,X-Men: Apocalypse,/* Marketing */
+2019-07-26T10:31:47+00:00,907945301,907582636,0,122.53.57.28,X-Men: Apocalypse,
+2019-05-11T18:21:46+00:00,896611002,894270361,0,2A02:C7F:8A68:8100:7C23:9001:B07F:D676,X-Men: Apocalypse,/* Critical response */
+2019-07-02T07:31:36+00:00,904448220,904448000,0,2405:204:1484:7B0F:F509:D1A9:C3F0:4E1A,X-Men: Apocalypse,
+2019-09-11T18:46:17+00:00,915186891,913940125,0,RL0919,X-Men: Apocalypse,citation cleanup and other fixes
+2019-04-26T19:05:36+00:00,894270361,894197428,0,Songwaters,X-Men: Apocalypse,/* Critical response */ Updating
+2018-11-15T22:18:56+00:00,869020221,868882248,0,Scriptboy12,X-Men: Apocalypse,
+2019-05-16T19:57:43+00:00,897402886,897301518,0,Gilo1969,X-Men: Apocalypse,fix citation with wikilink embedded in URL title
+2019-02-03T07:57:02+00:00,881545185,881523390,0,96.42.89.24,X-Men: Apocalypse,
+2019-10-23T23:36:38+00:00,922734081,922647069,0,ChristianJosephAllbee,X-Men: Apocalypse,/* Sequel */
+2019-08-02T18:06:24+00:00,909046105,909021696,0,Captainllama,X-Men: Apocalypse,Undid revision 909021696 by [[Special:Contributions/2A02:587:6C08:5B00:3DE3:226D:597C:BA89|2A02:587:6C08:5B00:3DE3:226D:597C:BA89]] ([[User talk:2A02:587:6C08:5B00:3DE3:226D:597C:BA89|talk]]) Better before
+2019-04-07T04:34:56+00:00,891318610,891298415,0,SnowFire,X-Men: Apocalypse,revert strange-reading addition to cast section

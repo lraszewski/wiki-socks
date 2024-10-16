@@ -1,0 +1,522 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-09-19T05:06:00+00:00,1045160130,1033541280,1,Gerry_Bohórquez,Kyle Marshall,
+2021-09-19T05:05:10+00:00,1045160046,1044593507,1,Gerry_Bohórquez,Chris Savino,
+2021-09-19T05:03:45+00:00,1045159924,921955500,1,Gerry_Bohórquez,Bobs,/* People */
+2021-09-19T04:44:28+00:00,1045158155,1019160643,1,Gerry_Bohórquez,Mitch Schauer,
+2021-09-19T03:08:57+00:00,1045148557,1045148527,1,Gerry_Bohórquez,Robert Cohen (writer),
+2021-09-19T03:08:38+00:00,1045148527,1045148443,1,Gerry_Bohórquez,Robert Cohen (writer),
+2021-09-19T03:07:56+00:00,1045148443,1045147886,1,Gerry_Bohórquez,Robert Cohen (writer),
+2021-09-19T03:03:22+00:00,1045147886,1045147653,1,Gerry_Bohórquez,Robert Cohen (writer),
+2021-09-19T03:01:31+00:00,1045147653,1042211571,1,Gerry_Bohórquez,Robert Cohen (writer),
+2021-09-19T02:59:09+00:00,1045147404,1044988565,1,Gerry_Bohórquez,Steve Williams (animator),
+2021-09-19T02:58:30+00:00,1045147325,1044987494,1,Gerry_Bohórquez,Harland Williams,
+2021-09-19T01:07:06+00:00,1045134240,1045134058,1,Gerry_Bohórquez,Marty Isenberg,
+2021-09-19T01:05:47+00:00,1045134058,1019755447,1,Gerry_Bohórquez,Marty Isenberg,
+2021-09-19T00:29:47+00:00,1045129923,1045129878,1,Gerry_Bohórquez,Darrell Rooney,
+2021-09-19T00:29:24+00:00,1045129878,995892098,1,Gerry_Bohórquez,Darrell Rooney,
+2021-09-18T15:40:45+00:00,1045061163,1045060911,1,Gerry_Bohórquez,Jessica Gao,
+2021-09-18T15:39:02+00:00,1045060911,1045060864,1,Gerry_Bohórquez,Jessica Gao,
+2021-09-18T15:38:44+00:00,1045060864,1044593769,1,Gerry_Bohórquez,Jessica Gao,
+2021-09-18T15:37:39+00:00,1045060698,1039327275,1,Gerry_Bohórquez,Dan Milano,
+2021-09-18T05:04:50+00:00,1044988565,1044987586,1,Gerry_Bohórquez,Steve Williams (animator),
+2021-09-18T04:56:58+00:00,1044987586,1044987561,1,Gerry_Bohórquez,Steve Williams (animator),
+2021-09-18T04:56:45+00:00,1044987561,1042684035,1,Gerry_Bohórquez,Steve Williams (animator),
+2021-09-18T04:56:07+00:00,1044987494,1041061622,1,Gerry_Bohórquez,Harland Williams,
+2021-09-18T04:41:34+00:00,1044985920,1040724451,1,Gerry_Bohórquez,Disney's Stitch: Experiment 626,
+2021-09-18T04:37:30+00:00,1044985500,1040903680,1,Gerry_Bohórquez,Jade Pettyjohn,
+2021-09-18T04:33:20+00:00,1044985122,1044627458,1,Gerry_Bohórquez,List of 2 Stupid Dogs episodes,/* Season 2 (1994–95) */
+2021-09-18T01:55:24+00:00,1044967150,1044587943,1,Gerry_Bohórquez,"Whittier, California",/* Notable people */
+2021-09-18T01:53:38+00:00,1044966926,1044897120,1,Gerry_Bohórquez,Jeff Loveness,
+2021-09-17T20:26:01+00:00,1044930837,1043406599,1,Gerry_Bohórquez,Cristina Vee,
+2021-09-17T20:22:50+00:00,1044930372,1044930295,1,Gerry_Bohórquez,Aron Warner,
+2021-09-17T20:22:21+00:00,1044930295,1044930070,1,Gerry_Bohórquez,Aron Warner,
+2021-09-17T20:20:50+00:00,1044930070,1040551908,1,Gerry_Bohórquez,Aron Warner,
+2021-09-17T16:50:24+00:00,1044897282,1035466351,1,Gerry_Bohórquez,Joel Crawford (director),
+2021-09-17T16:49:23+00:00,1044897120,1042757364,1,Gerry_Bohórquez,Jeff Loveness,
+2021-09-17T05:38:00+00:00,1044806887,1043895355,1,Gerry_Bohórquez,Kevin Schon,
+2021-09-17T04:20:46+00:00,1044797786,1043783299,1,Gerry_Bohórquez,Lilo & Stitch: The Series,
+2021-09-16T21:19:56+00:00,1044744135,1042075943,1,Gerry_Bohórquez,Jake and the Never Land Pirates,
+2021-09-16T21:19:20+00:00,1044744056,1039463311,1,Gerry_Bohórquez,Mickey Mouse Clubhouse,
+2021-09-16T14:18:58+00:00,1044681152,1042440682,1,Gerry_Bohórquez,Minnie's Bow-Toons,
+2021-09-16T12:39:56+00:00,1044666816,1042880483,1,Gerry_Bohórquez,House of Mouse,
+2021-09-16T12:38:42+00:00,1044666658,1042631099,1,Gerry_Bohórquez,101 Dalmatians: The Series,
+2021-09-16T12:37:45+00:00,1044666533,1042340612,1,Gerry_Bohórquez,Lynne Naylor,/* Early life */
+2021-09-16T05:48:33+00:00,1044619951,1043997885,1,Gerry_Bohórquez,Monsters at Work,
+2021-09-16T05:48:00+00:00,1044619900,1038981893,1,Gerry_Bohórquez,Planes: Fire & Rescue,
+2021-09-15T22:19:30+00:00,1044563144,1039394045,1,Gerry_Bohórquez,The Nut Job 2: Nutty by Nature,
+2021-09-15T22:18:27+00:00,1044562999,1036465838,1,Gerry_Bohórquez,James and the Giant Peach (film),
+2021-08-29T20:36:54+00:00,1041313598,1040126278,1,Gerry_Bohórquez,Paul Rudish,
+2021-08-29T20:36:07+00:00,1041313509,1039116442,1,Gerry_Bohórquez,Tony Anselmo,
+2021-08-29T18:47:21+00:00,1041296187,1041296073,1,Gerry_Bohórquez,Spike Brandt and Tony Cervone,
+2021-08-29T18:46:25+00:00,1041296073,1040973864,1,Gerry_Bohórquez,Spike Brandt and Tony Cervone,
+2021-08-29T18:45:20+00:00,1041295902,1041295635,1,Gerry_Bohórquez,Kate Boutilier,
+2021-08-29T18:43:38+00:00,1041295635,1025701009,1,Gerry_Bohórquez,Kate Boutilier,
+2021-08-29T02:59:33+00:00,1041184177,1041183753,1,Gerry_Bohórquez,Jill Talley,
+2021-08-29T02:58:02+00:00,1041184046,1041010759,1,Gerry_Bohórquez,Brian Doyle-Murray,
+2021-08-29T02:54:38+00:00,1041183753,1041159136,1,Gerry_Bohórquez,Jill Talley,
+2021-08-28T21:18:08+00:00,1041146235,1041145880,1,Gerry_Bohórquez,Jerry Eisenberg,
+2021-08-28T21:16:26+00:00,1041146048,1036853515,1,Gerry_Bohórquez,Mark Dindal,
+2021-08-28T21:14:52+00:00,1041145880,1034134505,1,Gerry_Bohórquez,Jerry Eisenberg,
+2021-08-28T17:57:50+00:00,1041121001,1041012835,1,Gerry_Bohórquez,Jill Talley,
+2021-08-28T17:56:37+00:00,1041120834,1040924726,1,Gerry_Bohórquez,Jill Culton,
+2021-08-28T17:55:53+00:00,1041120745,1039784082,1,Gerry_Bohórquez,Tom Kenny,
+2021-08-23T14:51:07+00:00,1040261209,1040260849,1,Gerry_Bohórquez,Maxwell Atoms,
+2021-08-23T14:48:22+00:00,1040260849,1040260676,1,Gerry_Bohórquez,Maxwell Atoms,
+2021-08-23T14:47:04+00:00,1040260676,1040217594,1,Gerry_Bohórquez,Maxwell Atoms,
+2021-08-22T16:58:42+00:00,1040100063,1040003375,1,Gerry_Bohórquez,Dana Snyder,
+2021-08-22T16:56:36+00:00,1040099740,1039457580,1,Gerry_Bohórquez,The Ghost and Molly McGee,
+2021-08-22T04:51:14+00:00,1040012568,1038614161,1,Gerry_Bohórquez,Sandra Equihua,
+2021-08-21T20:43:19+00:00,1039961809,1039634889,1,Gerry_Bohórquez,David Feiss,/* Filmography */
+2021-08-21T20:08:12+00:00,1039957780,1039957655,1,Gerry_Bohórquez,Ron Hughart,
+2021-08-21T20:07:13+00:00,1039957655,1020024801,1,Gerry_Bohórquez,Ron Hughart,
+2021-08-21T19:58:45+00:00,1039956544,1036439408,1,Gerry_Bohórquez,Kari Wahlgren,
+2021-08-21T04:53:29+00:00,1039851977,1035898408,1,Gerry_Bohórquez,Christopher McDonald,
+2021-08-19T05:08:45+00:00,1039516328,1039516175,1,Gerry_Bohórquez,Mickey Mouse Works,
+2021-08-19T05:08:08+00:00,1039516265,1038338848,1,Gerry_Bohórquez,House of Mouse,
+2021-08-19T05:07:19+00:00,1039516175,1038861257,1,Gerry_Bohórquez,Mickey Mouse Works,
+2021-08-18T21:00:16+00:00,1039460706,1039460425,1,Gerry_Bohórquez,Anthony Stacchi,
+2021-08-18T20:58:34+00:00,1039460425,1028796943,1,Gerry_Bohórquez,Anthony Stacchi,
+2021-08-18T14:29:50+00:00,1039405565,1039351320,1,Gerry_Bohórquez,Tom McGrath (animator),
+2021-08-18T14:27:48+00:00,1039405305,1036099978,1,Gerry_Bohórquez,Chris Savino,/* Film */
+2021-08-17T03:41:40+00:00,1039170484,1039170353,1,Gerry_Bohórquez,Steve Bencich,/* Filmography */
+2021-08-17T03:41:22+00:00,1039170457,1027406400,1,Gerry_Bohórquez,Ron J. Friedman,/* Filmography */
+2021-08-17T03:40:27+00:00,1039170353,1027406596,1,Gerry_Bohórquez,Steve Bencich,
+2021-08-16T19:54:37+00:00,1039116933,1039116831,1,Gerry_Bohórquez,Len Blum,
+2021-08-16T19:54:00+00:00,1039116831,1038677560,1,Gerry_Bohórquez,Len Blum,/* Filmography */
+2021-08-16T19:53:22+00:00,1039116746,1038968255,1,Gerry_Bohórquez,I Heart Arlo,
+2021-08-16T06:18:18+00:00,1039023479,1038990286,1,Gerry_Bohórquez,Tuck Tucker,
+2021-08-15T01:07:03+00:00,1038829966,1038176316,1,Gerry_Bohórquez,The Casagrandes,
+2021-08-15T01:06:19+00:00,1038829892,1038829827,1,Gerry_Bohórquez,Wacky Races (2017 TV series),
+2021-08-15T01:05:43+00:00,1038829827,1035179605,1,Gerry_Bohórquez,Wacky Races (2017 TV series),
+2021-08-14T14:05:22+00:00,1038750695,1038681301,1,Gerry_Bohórquez,Nickelodeon Animation Studio,/* Nickelodeon (not greenlit to series) */
+2021-08-13T19:15:47+00:00,1038636469,1012582258,1,Gerry_Bohórquez,David Hoselton,It's Mapleton.
+2021-08-13T18:37:55+00:00,1038631720,1025715759,1,Gerry_Bohórquez,Len Blum,
+2021-07-30T22:20:25+00:00,1036335183,1036335085,1,Gerry_Bohórquez,Jessica Gao,
+2021-07-30T22:19:39+00:00,1036335085,1015993727,1,Gerry_Bohórquez,Jessica Gao,
+2021-07-22T17:17:24+00:00,1034934831,1034934654,1,Gerry_Bohórquez,Middlemost Post,
+2021-07-22T17:16:05+00:00,1034934654,1034596206,1,Gerry_Bohórquez,Middlemost Post,
+2021-07-22T17:12:06+00:00,1034934122,1033228846,1,Gerry_Bohórquez,Richard Pursel,
+2021-07-22T15:46:13+00:00,1034922632,1034922579,1,Gerry_Bohórquez,Alec Sokolow,
+2021-07-22T15:45:51+00:00,1034922579,1034532480,1,Gerry_Bohórquez,Alec Sokolow,
+2021-07-22T13:37:18+00:00,1034905299,989722750,1,Gerry_Bohórquez,Dave Wasson,
+2021-07-08T02:44:01+00:00,1032542185,1031687923,1,Gerry_Bohórquez,User talk:Gerry Bohórquez,
+2021-07-06T18:50:24+00:00,1032321461,1032152444,1,Gerry_Bohórquez,Joel Cohen (writer),
+2021-07-05T19:47:52+00:00,1032152667,1032152611,1,Gerry_Bohórquez,Alec Sokolow,
+2021-07-05T19:47:30+00:00,1032152611,947464231,1,Gerry_Bohórquez,Alec Sokolow,
+2021-07-05T19:46:34+00:00,1032152444,1028891384,1,Gerry_Bohórquez,Joel Cohen (writer),
+2021-07-02T15:59:47+00:00,1031611669,1019784322,1,Gerry_Bohórquez,Brendan Hay,
+2021-07-02T15:37:22+00:00,1031608870,1031608665,1,Gerry_Bohórquez,Peter Lepeniotis,
+2021-07-02T15:35:59+00:00,1031608665,1027582157,1,Gerry_Bohórquez,Peter Lepeniotis,
+2021-06-07T19:27:10+00:00,1027411686,1026059408,1,Gerry_Bohórquez,Billy Boyd (actor),
+2021-06-07T18:53:20+00:00,1027406596,1026804909,1,Gerry_Bohórquez,Steve Bencich,
+2021-06-07T18:51:50+00:00,1027406400,1026804926,1,Gerry_Bohórquez,Ron J. Friedman,
+2021-05-24T15:56:38+00:00,1024887061,1023516075,1,Gerry_Bohórquez,Greg Cipes,
+2021-05-24T15:54:53+00:00,1024886778,1024882255,1,Gerry_Bohórquez,Stephanie Sheh,
+2021-05-24T15:27:58+00:00,1024882255,1024556559,1,Gerry_Bohórquez,Stephanie Sheh,
+2021-05-24T15:17:20+00:00,1024880510,1006002184,1,Gerry_Bohórquez,Jeffrey Garcia,
+2021-05-24T13:58:27+00:00,1024867131,1023023499,1,Gerry_Bohórquez,Shannon Tindle,
+2021-05-24T13:55:55+00:00,1024866709,1024046720,1,Gerry_Bohórquez,Ned Goldreyer,
+2021-05-13T23:03:13+00:00,1023032040,1022291915,1,Gerry_Bohórquez,Richard Pursel,
+2021-05-13T23:00:39+00:00,1023031795,1021752395,1,Gerry_Bohórquez,Michael Dorn,
+2021-10-06T03:21:28+00:00,1048458607,1048247936,1,ArtFan23,Michael Maltese,
+2021-10-06T03:19:52+00:00,1048458441,1048423954,1,ArtFan23,The Ghost and Molly McGee,
+2021-10-31T23:12:09+00:00,1052934432,1052934111,1,OtoyaFantastic,Jerry Eisenberg,
+2021-10-31T23:09:06+00:00,1052934111,1041146235,1,OtoyaFantastic,Jerry Eisenberg,
+2021-10-30T21:34:05+00:00,1052746407,1052696901,1,OtoyaFantastic,Jessica DiCicco,Corrected date.
+2021-10-30T21:03:21+00:00,1052741152,1049821568,1,OtoyaFantastic,David N. Weiss,
+2021-10-30T16:52:17+00:00,1052697686,1052697430,1,OtoyaFantastic,Steve Borst,
+2021-10-30T16:50:55+00:00,1052697430,1042042498,1,OtoyaFantastic,Steve Borst,
+2021-10-30T16:47:37+00:00,1052696901,1052695493,1,OtoyaFantastic,Jessica DiCicco,
+2021-07-05T19:47:52+00:00,1032152667,1032152611,0,Gerry Bohórquez,Alec Sokolow,
+2021-06-27T00:00:25+00:00,1030601230,1030547896,0,Fanoflionking,101 Dalmatians: The Series,
+2021-08-25T07:14:26+00:00,1040551908,1040436482,0,Animawiki29,Aron Warner,/* Film */
+2021-08-29T20:31:35+00:00,1041312904,1041308109,0,EvergreenFir,101 Dalmatians: The Series,Reverted edits by [[Special:Contribs/68.193.133.148|68.193.133.148]] ([[User talk:68.193.133.148|talk]]) to last version by Neils51
+2021-06-16T02:31:59+00:00,1028796943,1024190417,0,2601:4A:4201:AF0:18FC:12E:FA67:6A7C,Anthony Stacchi,Anthony is in the credit reel of 2019’s Missing Link movie.
+2021-07-22T15:46:13+00:00,1034922632,1034922579,0,Gerry Bohórquez,Alec Sokolow,
+2020-03-26T13:47:10+00:00,947464231,925822754,0,Alaney2k,Alec Sokolow,"/* top */the work's name is ""The New York Times"""
+2021-08-24T12:17:30+00:00,1040414221,1034922632,0,BattyBot,Alec Sokolow,Removed [[Category:Year of birth missing (living people)]] and [[WP:AWB/GF|General fixes]]
+2021-08-18T21:00:16+00:00,1039460706,1039460425,0,Gerry Bohórquez,Anthony Stacchi,
+2021-08-27T13:55:36+00:00,1040924982,1040846933,0,201.197.43.159,Anthony Stacchi,
+2021-05-15T02:16:57+00:00,1023212303,1019954629,0,2603:7000:C702:7400:84D6:E8A4:2AA3:EECE,Aron Warner,/* Filmography */
+2021-06-27T18:55:09+00:00,1030734180,1029912298,0,24.90.53.51,Aron Warner,/* Life and career */
+2021-05-27T22:01:37+00:00,1025494944,1025474641,0,AnomieBOT,Aron Warner,Fixing reference errors
+2021-10-06T13:04:36+00:00,1048522585,1046283286,0,BrandtM113,Billy Boyd (actor),"/* Television */He's not signed up yet, at least not officially"
+2019-10-18T23:44:57+00:00,921955500,915617936,0,Ketiltrout,Bobs,+; [[MOS:DAB]]
+2021-09-27T21:43:27+00:00,1046879954,1045240685,0,Rock-O-Jello,Chris Savino,
+2021-08-06T21:24:16+00:00,1037486631,1037331982,0,GoingBatty,Billy Boyd (actor),"/* Television */clean up, replaced: [[Snowfall]] → [[Snowfall (TV series)|Snowfall]]"
+2021-09-19T05:03:45+00:00,1045159924,921955500,0,Gerry Bohórquez,Bobs,/* People */
+2021-08-19T01:04:14+00:00,1039487826,1039427569,0,2601:18A:0:9070:18E7:5CE5:ABFB:7AD5,Brian Doyle-Murray,/* Career */
+2021-07-29T13:54:42+00:00,1036099978,1036099411,0,Ohnoitsjamie,Chris Savino,rvv
+2021-03-04T00:45:05+00:00,1010143884,1005924954,0,71.222.57.158,Dan Milano,/* External links */
+2021-07-03T02:35:24+00:00,1031688489,1031611669,0,NinjaRobotPirate,Brendan Hay,remove some unsourced content and replace spammy citation to online store
+2021-09-25T15:52:58+00:00,1046422287,1045342841,0,SibTower1987,Dan Milano,/* External links */
+2021-08-02T16:56:57+00:00,1036777092,1036674685,0,Tbhotch,Cristina Vee,Reverted 1 edit by [[Special:Contributions/2601:204:CF01:20:4555:4829:95D7:9F4F|2601:204:CF01:20:4555:4829:95D7:9F4F]] ([[User talk:2601:204:CF01:20:4555:4829:95D7:9F4F|talk]]) to last revision by 72.89.204.192
+2021-10-14T06:00:17+00:00,1049845665,1048796437,0,152.0.128.5,Brian Doyle-Murray,
+2021-06-15T00:31:26+00:00,1028610810,1028040190,0,The Optimistic One,Christopher McDonald,
+2021-05-28T05:55:25+00:00,1025551722,1025551675,0,SirDot,Dana Snyder,/* Television */stupid me
+2021-08-29T20:29:43+00:00,1041312614,1041299030,0,MrSchimpf,Chris Savino,Reverted edits by [[Special:Contribs/Gjeykretm|Gjeykretm]] ([[User talk:Gjeykretm|talk]]) to last version by MariaLeonice
+2021-10-13T12:17:00+00:00,1049714691,1049691888,0,IJBall,Dana Snyder,"Date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]] - [[MOS:DATEUNIFY]]: American actor, so use 'mdy' dates as per [[WP:DATETIES]], and format in rest of article."
+2021-09-29T04:38:26+00:00,1047126454,1038016079,0,Citation bot,Brendan Hay,"Alter: title. Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 946/2199"
+2021-07-24T05:43:51+00:00,1035182362,1035182308,0,2600:1700:5F50:AC0:E0CE:DB6E:A4CC:2B35,Chris Savino,
+2021-05-23T19:30:08+00:00,1024721127,1023247789,0,Bender the Bot,Cristina Vee,"/* Anime */HTTP → HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/ (2)"
+2021-09-30T06:20:49+00:00,1047316443,1047308609,0,WikiLinuz,Christopher McDonald,Reverting edit(s) by [[Special:Contributions/2601:2C5:280:70A0:D8A3:7F14:A34A:7069|2601:2C5:280:70A0:D8A3:7F14:A34A:7069]] ([[User_talk:2601:2C5:280:70A0:D8A3:7F14:A34A:7069|talk]]) to rev. 1047288916 by Toddst1: [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16.1)]]
+2021-07-22T13:37:18+00:00,1034905299,989722750,0,Gerry Bohórquez,Dave Wasson,
+2020-12-23T12:59:46+00:00,995892098,988267346,0,Monkbot,Darrell Rooney,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 1 template: del empty params (2×);
+2021-03-17T04:43:22+00:00,1012582258,1011208272,0,NinjaRobotPirate,David Hoselton,block evasion
+2021-08-16T18:10:39+00:00,1039103227,1037684650,0,Mortaylor26,Greg Cipes,
+2021-06-08T00:03:57+00:00,1027446277,1026880597,0,Sxygrl2k1,Harland Williams,adding comedy to main bio line
+2021-07-18T20:43:06+00:00,1034261244,1022739156,0,LTPHarry,Disney's Stitch: Experiment 626,Vandalism
+2021-06-15T17:08:59+00:00,1028726804,1028489232,0,Primefac,David N. Weiss,rmv unsourced
+2021-09-20T03:00:46+00:00,1045342951,1045129923,0,NinjaRobotPirate,Darrell Rooney,Restored revision 995892098 by [[Special:Contributions/Monkbot|Monkbot]] ([[User talk:Monkbot|talk]]): Unsourced
+2021-09-19T02:58:30+00:00,1045147325,1044987494,0,Gerry Bohórquez,Harland Williams,
+2021-10-14T01:38:17+00:00,1049821568,1048455757,0,Ser Amantio di Nicolao,David N. Weiss,/* External links */add [[:Category:21st-century American Jews]]
+2021-06-16T00:09:55+00:00,1028779199,1027446277,0,70.27.32.172,Harland Williams,/* Career */
+2021-05-10T13:21:33+00:00,1022428861,1022424587,0,69.114.73.183,David Feiss,/* Filmography */
+2021-08-26T08:31:53+00:00,1040724451,1034261244,0,217.97.89.246,Disney's Stitch: Experiment 626,
+2021-08-19T05:08:08+00:00,1039516265,1038338848,0,Gerry Bohórquez,House of Mouse,
+2021-05-16T12:14:34+00:00,1023440812,1023440673,0,Klindor29,House of Mouse,
+2021-10-11T15:29:41+00:00,1049389421,1045282196,0,Sheragirl10,House of Mouse,
+2021-06-27T03:19:25+00:00,1030623972,1023440812,0,Ruan Pablo Moreira Oliveira,House of Mouse,
+2021-06-29T08:14:36+00:00,1031010775,1031010675,0,Uranium Site,Jade Pettyjohn,Reverted 1 edit by [[Special:Contributions/213.205.242.50|213.205.242.50]] ([[User talk:213.205.242.50|talk]]) to last revision by ClueBot NG
+2021-05-25T12:01:13+00:00,1025042166,1025003393,0,A person in Georgia,I Heart Arlo,
+2021-08-06T02:19:11+00:00,1037356961,1037355584,0,A person in Georgia,I Heart Arlo,Reverting possible vandalism.
+2021-06-15T20:58:31+00:00,1028759099,1027606639,0,2603:8000:5B00:DEDB:C50A:2920:FB09:160C,Jake and the Never Land Pirates,/* External links */
+2021-10-07T16:09:19+00:00,1048723677,1048723406,0,Geraldo Perez,Jake and the Never Land Pirates,"season info for cast does not belong in infobox, just names in credit order"
+2021-10-05T04:03:40+00:00,1048272871,1047825639,0,Softlavender,James and the Giant Peach (film),correction per talkpage request
+2021-07-31T18:26:27+00:00,1036465838,1036465523,0,Spiritoftheeast1993,James and the Giant Peach (film),Page formatting [[WP:MOSFILM]]
+2021-09-06T16:27:20+00:00,1042757364,1042757129,0,Vanished user 28548597576,Jeff Loveness,
+2021-06-28T04:20:32+00:00,1030807111,1030806302,0,Cardei012597,Jeff Loveness,/* Filmography */Cite for final episode
+2021-05-25T03:16:54+00:00,1024989564,1024880510,0,NinjaRobotPirate,Jeffrey Garcia,Restored revision 1006002184 by [[Special:Contributions/Deb|Deb]] ([[User talk:Deb|talk]]): Unsourced
+2021-07-18T13:39:07+00:00,1034204268,1034195870,0,Cardei012597,Jeff Loveness,/* Filmography */Minor cite c/e
+2021-01-09T00:38:02+00:00,999205703,996259371,0,SCD0392,Jerry Eisenberg,Undid revision 996259371 by [[Special:Contributions/Herman Clavijo|Herman Clavijo]] ([[User talk:Herman Clavijo|talk]])
+2021-10-07T00:21:03+00:00,1048610924,1048602806,0,Paul Erik,Jeffrey Garcia,Undid revision 1048602806 by [[Special:Contributions/190.232.74.148|190.232.74.148]] ([[User talk:190.232.74.148|talk]]) block evasion
+2021-08-28T21:18:08+00:00,1041146235,1041145880,0,Gerry Bohórquez,Jerry Eisenberg,
+2021-08-20T14:28:28+00:00,1039750892,1039565324,0,Horseradishy,Jessica DiCicco,/* Direct-to-video and television films */
+2021-07-18T01:10:04+00:00,1034134505,999205703,0,124.142.96.249,Jerry Eisenberg,
+2021-07-08T19:49:45+00:00,1032651543,1029322294,0,Editor without see fount codes,Jessica DiCicco,
+2021-05-10T01:17:46+00:00,1022351675,1019998473,0,24.114.65.69,Jessica DiCicco,/* Early life */
+2021-06-19T07:55:18+00:00,1029322294,1028575292,0,2A00:23C5:EE03:C01:81F2:4B16:5D4E:B48B,Jessica DiCicco,
+2021-08-12T23:44:02+00:00,1038504091,1038441202,0,AngryCyclist,Jessica Gao,/* Filmography */
+2021-04-04T20:01:52+00:00,1015993727,993266390,0,92.53.30.100,Jessica Gao,/* Career */
+2021-09-20T03:00:07+00:00,1045342869,1045061163,0,NinjaRobotPirate,Jessica Gao,Restored revision 1044593769 by [[Special:Contributions/Ohnoitsjamie|Ohnoitsjamie]] ([[User talk:Ohnoitsjamie|talk]]): Unsourced
+2021-10-08T14:07:33+00:00,1048877312,1048736667,0,Irn,Jessica Gao,Reverted 2 edits by [[Special:Contributions/201.196.205.54|201.196.205.54]] ([[User talk:201.196.205.54|talk]]): Unsourced
+2021-07-30T22:24:15+00:00,1036335638,1036335183,0,201.191.94.68,Jessica Gao,
+2021-09-18T15:40:45+00:00,1045061163,1045060911,0,Gerry Bohórquez,Jessica Gao,
+2021-07-23T12:29:40+00:00,1035063662,1033109994,0,2A01:CB11:20:1900:4531:948:3D07:4898,Jill Talley,
+2021-10-16T14:39:07+00:00,1050220924,1041160447,0,Fortunewriter,Jill Culton,
+2021-10-21T02:03:51+00:00,1050995138,1049596114,0,Citation bot,Jill Talley,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_new_bare_URL_refs | #UCB_webform_linked 619/2199
+2021-09-18T21:31:51+00:00,1045110314,1045067067,0,Trivialist,Jill Talley,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2604:2D80:EE02:5300:35:E080:89E4:82B0|2604:2D80:EE02:5300:35:E080:89E4:82B0]] ([[User talk:2604:2D80:EE02:5300:35:E080:89E4:82B0|talk]]): Unnecessary
+2021-06-17T17:39:45+00:00,1029064947,1027605370,0,SBSPfan,Jill Talley,
+2021-10-30T01:21:06+00:00,1052588978,1052558024,0,Trivialist,Jill Talley,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/73.61.19.39|73.61.19.39]] ([[User talk:73.61.19.39|talk]]): Unexplained deletions
+2021-07-12T17:51:20+00:00,1033276523,1032321461,0,82.28.149.179,Joel Cohen (writer),
+2021-06-16T16:30:21+00:00,1028891384,1023340203,0,86.5.23.72,Joel Cohen (writer),
+2021-08-31T13:21:20+00:00,1041606950,1040291614,0,86.5.95.31,Joel Cohen (writer),
+2021-05-29T01:44:32+00:00,1025701009,1004904657,0,2001:569:74D2:A800:6443:A47A:35D5:2ABF,Kate Boutilier,
+2021-05-17T19:40:34+00:00,1023688088,1023687864,0,Cardei012597,Joel Crawford (director),/* Filmography */Mos:Caos
+2021-07-25T21:06:37+00:00,1035466351,1023688088,0,Cardei012597,Joel Crawford (director),/* Accolades */Cite ce
+2021-09-30T16:43:13+00:00,1047393096,1041295902,0,BattyBot,Kate Boutilier,/* References */Removed [[Category:Year of birth missing (living people)]] and [[WP:AWB/GF|General fixes]]
+2021-07-08T02:15:13+00:00,1032539227,1029935874,0,MrSoftee,Kari Wahlgren,https://twitter.com/kariwahlgren/status/577853871898238978?lang=en
+2021-05-18T16:09:46+00:00,1023832259,1023380565,0,2607:FA48:6EC6:62F0:21B6:E2A3:99A:4371,Kari Wahlgren,spelling correction
+2021-05-22T14:08:41+00:00,1024499363,1021697451,0,Merrick Sulyma,Kyle Marshall,
+2021-07-14T09:39:12+00:00,1033541280,1030320421,0,Image2012,Kyle Marshall,/* Television */
+2021-08-16T19:54:37+00:00,1039116933,1039116831,0,Gerry Bohórquez,Len Blum,
+2021-05-29T03:49:47+00:00,1025715759,1016828491,0,Bearcat,Len Blum,removed [[Category:Jewish film people]]; added [[Category:Jewish Canadian filmmakers]] using [[WP:HC|HotCat]]
+2021-09-17T04:20:46+00:00,1044797786,1043783299,0,Gerry Bohórquez,Lilo & Stitch: The Series,
+2021-08-05T02:08:17+00:00,1037191380,1033210114,0,Ser Amantio di Nicolao,Lynne Naylor,add category
+2021-09-18T04:33:20+00:00,1044985122,1044627458,0,Gerry Bohórquez,List of 2 Stupid Dogs episodes,/* Season 2 (1994–95) */
+2021-01-16T19:14:35+00:00,1000793742,1000793584,0,2603:8081:150C:C078:E93B:7DAD:EFC:D156,List of 2 Stupid Dogs episodes,/* Season 2 (1994–95) */
+2021-04-09T08:44:09+00:00,1016828491,990272832,0,GreenC bot,Len Blum,Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-06-20T17:08:21+00:00,1029545951,1029545898,0,73.61.16.218,Kevin Schon,This needs a source
+2021-07-18T12:04:46+00:00,1034194148,1033661310,0,Narky Blert,Kevin Schon,Link to DAB page repaired
+2021-07-12T08:40:55+00:00,1033210114,1026496792,0,FilmandTVFan28,Lynne Naylor,/* Television */ Somebody removed My Little Pony without a reason.
+2021-07-18T15:43:34+00:00,1034221522,1034221457,0,76.127.153.104,Mark Dindal,/* Personal life */
+2021-10-01T01:27:54+00:00,1047473386,1046089173,0,Cartoonist 101,Mark Dindal,"I was listening to an interview with Dindal on New Groove, and they mentioned how they played around with Eartha Kitt's vocal pitch during production."
+2021-09-24T12:04:44+00:00,1046196231,1045342980,0,Citation bot,Marty Isenberg,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 516/2195
+2021-04-25T06:44:30+00:00,1019755447,1018253745,0,KingFlywheels,Marty Isenberg,/* Screenwriting credits */added link
+2021-05-30T02:10:51+00:00,1025870911,1025870568,0,2600:8806:304:5200:958C:E41C:C2F9:3900,Maxwell Atoms,
+2021-08-08T15:49:58+00:00,1037765314,1037350420,0,71.38.15.247,Maxwell Atoms,/* Films */
+2021-09-25T19:11:10+00:00,1046454537,1045353463,0,2603:6010:3A01:1885:9CE6:B301:1F6B:7CD0,Michael Dorn,/* Television */
+2021-09-20T23:10:03+00:00,1045514074,1043984666,0,KidsAndTheirGadgets,Maxwell Atoms,/* Internet */
+2021-05-27T21:27:56+00:00,1025490949,1023062900,0,2600:8800:2380:E800:503A:58DE:9A2A:FECD,Michael Maltese,
+2021-06-22T20:28:36+00:00,1029920296,1027884693,0,UwyoAHC,Michael Maltese,/* External links */
+2021-09-22T22:33:00+00:00,1045879766,1045835046,0,El C,Mickey Mouse Clubhouse,Reverted edits by [[Special:Contribs/Amliah141|Amliah141]] ([[User talk:Amliah141|talk]]) to last version by Gerry Bohórquez
+2021-06-18T23:45:35+00:00,1029273899,1029219553,0,SporkBot,Mickey Mouse Works,Remove template per [[Wikipedia:Templates for discussion/Log/2012 December 13|TFD outcome]]
+2021-08-15T06:49:38+00:00,1038861257,1038852669,0,12.207.135.194,Mickey Mouse Works,
+2021-06-28T22:08:53+00:00,1030942019,1030941099,0,99.0.105.95,Mickey Mouse Works,
+2021-06-13T05:15:56+00:00,1028304801,1028217267,0,2600:6C63:637F:E920:84F3:6555:30C5:4DF,Mickey Mouse Clubhouse,
+2021-09-23T16:08:09+00:00,1046030623,1046030229,0,Magitroopa,Middlemost Post,Undid revision 1046030229 by [[Special:Contributions/2A02:C7F:F2EB:4C00:1931:5606:383D:9B26|2A02:C7F:F2EB:4C00:1931:5606:383D:9B26]] ([[User talk:2A02:C7F:F2EB:4C00:1931:5606:383D:9B26|talk]])
+2021-08-31T22:13:07+00:00,1041686212,1041477377,0,Magitroopa,Middlemost Post,/* Production */ Didn't realize until just now- updating future to past tense
+2021-07-13T16:27:23+00:00,1033426607,1031874038,0,Songwaters,Minnie's Bow-Toons,/* Premise */
+2021-08-11T20:19:06+00:00,1038316368,1038290860,0,Renamed user 3429187546,Middlemost Post,
+2021-04-21T20:49:56+00:00,1019160643,1019160485,0,184.90.145.149,Mitch Schauer,
+2021-09-11T23:45:31+00:00,1043781804,1043781057,0,Kp2016rockin,Middlemost Post,Rollback edit(s) by [[Special:Contributions/2601:405:4900:9970:986:6F5:4A7B:1CD3|2601:405:4900:9970:986:6F5:4A7B:1CD3]] ([[User_talk:2601:405:4900:9970:986:6F5:4A7B:1CD3|talk]]): Joke edit [[w:en:WP:RW|(RW 16.1)]]
+2021-05-09T08:35:32+00:00,1022229698,1021811220,0,Mixxxy,Minnie's Bow-Toons,
+2021-06-30T07:07:08+00:00,1031186196,1031146093,0,92.184.124.65,Monsters at Work,/* Writing */Fixed typo
+2021-10-14T12:32:42+00:00,1049885312,1049884501,0,Magitroopa,Monsters at Work,Undid revision 1049884501 by [[Special:Contributions/2600:1003:B463:94C2:D112:80F6:AB9F:F480|2600:1003:B463:94C2:D112:80F6:AB9F:F480]] ([[User talk:2600:1003:B463:94C2:D112:80F6:AB9F:F480|talk]])
+2021-10-09T15:17:17+00:00,1049049400,1048818656,0,HJ Mitchell,Ned Goldreyer,Reverted edits by [[Special:Contribs/201.196.205.54|201.196.205.54]] ([[User talk:201.196.205.54|talk]]) to last version by Gerry Bohórquez
+2021-08-25T04:07:58+00:00,1040533262,1040533180,0,Landingdude13,Nickelodeon Animation Studio,/* TV movies and specials */ fixed
+2021-05-19T20:02:10+00:00,1024046720,1009851175,0,2603:8001:7001:679B:9192:766F:551C:C9EB,Ned Goldreyer,I have removed the writing credits for Animaniacs and Teen Titans Go. I have never written for those shows.
+2021-05-28T16:12:35+00:00,1025627062,1025626900,0,ArkticOnWikiped,Nickelodeon Animation Studio,/* TV movies and specials */
+2021-09-15T22:25:13+00:00,1044563884,1041652660,0,201.196.205.164,Peter Lepeniotis,
+2021-07-29T00:07:47+00:00,1036013751,1028578373,0,76.110.142.48,Paul Rudish,
+2021-08-31T18:19:21+00:00,1041652660,1036865929,0,201.196.205.164,Peter Lepeniotis,/* Filmography */
+2021-08-03T05:01:59+00:00,1036865929,1036865555,0,2601:5CA:C303:E680:2461:3047:8CD2:E33A,Peter Lepeniotis,/* Filmography */
+2021-08-01T03:32:16+00:00,1036525874,1029560034,0,Spiritoftheeast1993,Planes: Fire & Rescue,/* Soundtrack */ Removed soundtrack in accordance with [[WP:MOSFILM#Soundtrack]]
+2021-06-20T18:48:09+00:00,1029560034,1029559732,0,Citation bot,Planes: Fire & Rescue,Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by FMSky | #UCB_toolbar
+2021-10-24T02:39:25+00:00,1051529434,1049238438,0,2603:7000:C53F:FE3E:14B3:40E0:E0B5:D63F,Paul Rudish,
+2021-07-22T17:12:06+00:00,1034934122,1033228846,0,Gerry Bohórquez,Richard Pursel,
+2021-09-20T15:55:22+00:00,1045439177,1045086274,0,89.242.81.189,Richard Pursel,
+2021-05-14T02:30:07+00:00,1023054838,1023032353,0,NinjaRobotPirate,Richard Pursel,block evasion
+2021-01-26T07:53:22+00:00,1002840604,991014119,0,Monkbot,Robert Cohen (writer),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 3 templates: hyphenate params (2×);
+2021-05-30T23:42:15+00:00,1026025670,1023054838,0,2603:8081:1506:63C9:31FA:5A5B:BAED:2423,Richard Pursel,/* Writer */
+2021-08-15T02:16:15+00:00,1038836736,1038836290,0,Bbb23,Robert Cohen (writer),"/* Career */ remove some of the worst unsourced promo, copy edits"
+2021-09-03T19:20:36+00:00,1042211571,1038836736,0,Imladros,Robert Cohen (writer),
+2021-09-20T03:02:12+00:00,1045343126,1045148557,0,NinjaRobotPirate,Robert Cohen (writer),Restored revision 1042211571 by [[Special:Contributions/Imladros|Imladros]] ([[User talk:Imladros|talk]]): Unsourced
+2021-04-26T19:17:25+00:00,1020024801,910754335,0,Tom.Reding,Ron Hughart,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q4502677|2 IDs]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2021-08-21T20:08:12+00:00,1039957780,1039957655,0,Gerry Bohórquez,Ron Hughart,
+2021-06-07T18:51:50+00:00,1027406400,1026804926,0,Gerry Bohórquez,Ron J. Friedman,
+2021-08-17T07:22:20+00:00,1039193224,1039170457,0,Niceguyedc,Ron J. Friedman,v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[The Monkey King]]
+2021-08-22T04:51:14+00:00,1040012568,1038614161,0,Gerry Bohórquez,Sandra Equihua,
+2021-09-15T01:05:08+00:00,1044395040,1040012568,0,2800:E2:2480:1BE1:74D7:B72A:4E29:2419,Sandra Equihua,Undid revision 1040012568 by [[Special:Contributions/Gerry Bohórquez|Gerry Bohórquez]] ([[User talk:Gerry Bohórquez|talk]])
+2021-08-17T05:19:02+00:00,1039180071,1039180045,0,BMA-Nation2020,Shannon Tindle,/* Films */
+2021-10-03T09:04:45+00:00,1047924381,1047918653,0,Dawnseeker2000,Spike Brandt and Tony Cervone,Category:Articles with missing files
+2021-09-04T10:11:41+00:00,1042317639,1039180071,0,151.210.172.245,Shannon Tindle,/* Films */
+2021-10-19T02:16:21+00:00,1050644828,1049625667,0,DawgDeputy,Spike Brandt and Tony Cervone,Undid revision 1049625667 by [[Special:Contributions/69.36.212.253|69.36.212.253]] ([[User talk:69.36.212.253|talk]])
+2021-06-06T03:09:19+00:00,1027100705,1027017696,0,Homechallenge55,Stephanie Sheh,
+2021-06-19T04:32:55+00:00,1029302774,1028388474,0,2603:7000:C53F:FE3E:E59E:1391:6109:A92B,Spike Brandt and Tony Cervone,
+2021-07-05T16:30:26+00:00,1032119084,1031075201,0,2600:1007:B0A7:5992:F597:2064:18F0:31E0,Stephanie Sheh,/* Animation */
+2021-09-12T23:27:28+00:00,1043971080,1043635318,0,Kaltenmeyer,Spike Brandt and Tony Cervone,"[[WP:AWB/T|typo(s) fixed]]: December 24, 1961 → December 24, 1961, (3), annouced → announced"
+2021-06-18T23:14:18+00:00,1029271080,1028280557,0,IceWelder,Stephanie Sheh,Undid revision 1027017696 by [[Special:Contributions/75.128.134.205|75.128.134.205]] ([[User talk:75.128.134.205|talk]])
+2021-04-02T21:59:42+00:00,1015683812,1015683683,0,2601:642:C304:4ED0:E1FB:3A0A:12D2:A9B7,Steve Bencich,
+2021-08-17T07:22:28+00:00,1039193238,1039170484,0,Niceguyedc,Steve Bencich,v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[The Monkey King]]
+2021-06-07T18:53:20+00:00,1027406596,1026804909,0,Gerry Bohórquez,Steve Bencich,
+2020-11-18T09:59:33+00:00,989325014,975688284,0,105.163.239.43,Steve Borst,
+2021-09-02T22:46:07+00:00,1042042498,989325014,0,Bearcat,Steve Borst,/* External links */recat
+2021-08-17T19:52:24+00:00,1039281354,1039281301,0,2601:643:C101:6720:F90E:DA8F:C68F:58CC,Steve Williams (animator),
+2021-06-03T03:29:54+00:00,1026582883,1015137349,0,Alaney2k,Steve Williams (animator),"Adding local [[Wikipedia:Short description|short description]]: ""Canadian special effects artist"", overriding Wikidata description ""Canadian special effects artist, born 1962"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-09-06T06:55:27+00:00,1042684035,1041787796,0,2601:643:C101:6720:B941:DFB:746C:331B,Steve Williams (animator),
+2021-09-01T14:03:35+00:00,1041787796,1039281354,0,201.196.205.164,Steve Williams (animator),
+2021-07-26T16:57:43+00:00,1035605388,1035001169,0,2604:CA00:1CA:9CF6:0:0:660:41BC,Steve Williams (animator),/* Biography */Fixed typo
+2021-08-15T01:07:03+00:00,1038829966,1038176316,0,Gerry Bohórquez,The Casagrandes,
+2021-10-22T02:26:44+00:00,1051192802,1051121196,0,BaldiBasicsFan,The Casagrandes,/* Series overview */ Unnecessary
+2021-09-06T19:13:34+00:00,1042784346,1042784230,0,EverestMachine 4001,The Ghost and Molly McGee,Forgot that
+2021-08-11T23:35:22+00:00,1038338156,1037270653,0,Shawnlongboi,The Ghost and Molly McGee,/* Plot */
+2021-10-03T16:04:22+00:00,1047974075,1047971079,0,JC1996,The Ghost and Molly McGee,/* Production */ Michael Tavera is not the show's composer.
+2021-05-13T04:36:04+00:00,1022899922,1022813631,0,NinjaRobotPirate,The Nut Job 2: Nutty by Nature,Reverted 1 edit by [[Special:Contributions/2A04:CEC0:1183:A0E2:74A6:6F86:9EA9:5DEC|2A04:CEC0:1183:A0E2:74A6:6F86:9EA9:5DEC]] ([[User talk:2A04:CEC0:1183:A0E2:74A6:6F86:9EA9:5DEC|talk]]) to last revision by Fanboy111
+2021-06-25T13:35:22+00:00,1030364266,1028181501,0,SamuelLovesFilms,The Nut Job 2: Nutty by Nature,
+2021-07-22T16:49:13+00:00,1034931053,1034054438,0,240D:1A:4B5:2800:EDDB:99F:9E7E:BCB1,The Ghost and Molly McGee,/* External links */
+2021-09-22T15:01:31+00:00,1045804638,1041120745,0,Useight,Tom Kenny,/* top */ fixed double redirect
+2021-05-14T04:24:42+00:00,1023064844,1018868344,0,Correctonator,Tom McGrath (animator),Tom McGrath only directed one episode of The Ren and Stimpy Show. The episode he was given credit for was actually done by Ron Hughart according to Sick Little Monkeys: https://books.google.com/books?id=YRqKDwAAQBAJ&pg=PT276&lpg=PT276&dq=ren+and+stimpy+stupid+sidekick+union+tom+mcgrath&source=bl&ots=sF_oFofh3A&sig=ACfU3U13S0L78Kaq8WR-_iF80NrQPI4eVg&hl=en&sa=X&ved=2ahUKEwj-6tbUocjwAhXnlOAKHcFnBkYQ6AEwEXoECBEQAw#v=onepage&q=ren%20and%20stimpy%20stupid%20sidekick%20union%20tom%20mcgrath&f=false
+2021-07-03T13:56:55+00:00,1031762455,1031667959,0,66.186.255.243,Tom McGrath (animator),/* Feature films */
+2021-08-30T00:22:18+00:00,1041340384,1041313509,0,Trivialist,Tony Anselmo,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Gerry Bohórquez|Gerry Bohórquez]] ([[User talk:Gerry Bohórquez|talk]]): Unsourced info about living person
+2021-07-30T13:36:18+00:00,1036267587,1035677127,0,Eostrix,Tony Anselmo,Reverted 4 edits by [[Special:Contributions/Crunchydough|Crunchydough]] ([[User talk:Crunchydough|talk]]): Rv sock
+2021-05-12T16:27:17+00:00,1022809643,1022804536,0,EvergreenFir,Wacky Races (2017 TV series),Reverted edits by [[Special:Contribs/2601:540:8202:2D50:69B3:323B:65FA:A0C9|2601:540:8202:2D50:69B3:323B:65FA:A0C9]] ([[User talk:2601:540:8202:2D50:69B3:323B:65FA:A0C9|talk]]) to last version by Binksternet
+2021-09-19T15:42:27+00:00,1045240808,1041609079,0,Ohnoitsjamie,User talk:Gerry Bohórquez,blpblock
+2021-07-08T02:44:01+00:00,1032542185,1031687923,0,Gerry Bohórquez,User talk:Gerry Bohórquez,
+2021-10-08T17:29:01+00:00,1048906488,1045822342,0,2A00:23C6:FA20:F01:E41C:45BC:EA50:434B,Tuck Tucker,/* Death */
+2021-10-14T23:11:18+00:00,1049966064,1047112680,0,2607:9880:2C40:BD:60F6:C297:D83:E022,Wacky Races (2017 TV series),
+2021-05-08T23:27:37+00:00,1022178448,1018185931,0,SporkBot,Tuck Tucker,Remove template per [[Wikipedia:Templates for discussion/Log/2021 May 1|TFD outcome]]
+2021-06-13T22:03:28+00:00,1028422659,1027435920,0,Rsjaffe,"Whittier, California","clean up, [[WP:AWB/T|typo(s) fixed]]: July 30, 1896 → July 30, 1896,, City → city"
+2021-08-06T05:39:58+00:00,1037375830,1037375782,0,Cristiano Tomás,"Whittier, California",/* History */
+2021-07-08T04:32:35+00:00,1032553187,1031277664,0,Neils51,101 Dalmatians: The Series,/* Season 2 (1997–1998) */ minor ce
+2020-04-21T00:36:40+00:00,952189374,947741275,0,DemonDays64 Bot,Anthony Stacchi,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2019-11-17T17:09:10+00:00,926623226,926377310,0,2600:1702:3A40:D2C0:A0F5:226:CE19:8C8E,101 Dalmatians: The Series,/* Broadcast */
+2021-02-01T04:11:46+00:00,1004119559,1001035495,0,96.40.72.63,101 Dalmatians: The Series,/* External links */
+2020-11-05T07:00:26+00:00,987151508,982758616,0,JJMC89 bot III,Anthony Stacchi,Moving [[:Category:Laika people]] to [[:Category:Laika (company) people]] per [[Wikipedia:Categories for discussion/Speedy]]
+2021-04-26T10:27:14+00:00,1019954629,1019900924,0,Carniolus,Aron Warner,"/* Film */ The last news about ""Beasts of Burden"" are from 2013"
+2020-09-03T17:40:55+00:00,976566216,976566152,0,71.222.79.226,Aron Warner,/* External links */
+2021-06-15T03:40:46+00:00,1028632331,1028630901,0,1TWO3Writer,Billy Boyd (actor),/* Personal life */ Added citation of new addition.
+2021-08-21T14:39:13+00:00,1039912588,1039775668,0,Rtkat3,Billy Boyd (actor),
+2020-07-06T21:09:55+00:00,966391384,952119401,0,InternetArchiveBot,Brendan Hay,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.1
+2021-02-04T01:58:51+00:00,1004728014,1000260898,0,Carrd722,Brendan Hay,Updated current work of subject.
+2020-11-13T14:19:08+00:00,988488982,979079145,0,Hitcher vs. Candyman,Billy Boyd (actor),/* Film */
+2020-04-20T17:22:23+00:00,952119401,952116950,0,2A01:112F:60B:A000:8CBA:41D8:9F46:4344,Brendan Hay,
+2020-03-04T19:58:24+00:00,943948883,941637773,0,98.21.57.163,Brendan Hay,
+2020-12-03T05:03:19+00:00,992045361,991997346,0,Ryecatcher773,Brian Doyle-Murray,Consistency with body of article. Evanston is Evanston. It's not Chicago.
+2020-05-25T15:28:52+00:00,958757042,956888295,0,ErikvanB,Brian Doyle-Murray,one column too many
+2021-07-30T14:29:32+00:00,1036274615,1036274478,0,2A02:C7D:EC4A:CD00:35BE:A6A6:DDD4:E78F,Brian Doyle-Murray,
+2021-03-20T00:41:15+00:00,1013098766,1007626509,0,2603:8081:1540:872:A4C6:1E73:9A0F:FE80,Chris Savino,/* Television */
+2021-04-29T06:03:04+00:00,1020458643,1020450109,0,MPFitz1968,Chris Savino,Reverted 3 edits by [[Special:Contributions/2600:8801:20E:5C00:176:3E9B:BF0D:AB8A|2600:8801:20E:5C00:176:3E9B:BF0D:AB8A]] ([[User talk:2600:8801:20E:5C00:176:3E9B:BF0D:AB8A|talk]]): Unsourced/unexplained change
+2020-09-21T17:02:53+00:00,979598077,978580259,0,98.197.95.32,Chris Savino,
+2020-03-20T07:50:20+00:00,946454793,944216958,0,MusikBot,Chris Savino,Removing protection templates from unprotected page ([[User:MusikBot/FixPP/FAQ|more info]])
+2021-04-13T01:56:43+00:00,1017491125,1017491072,0,Mr. Doggy Dog,Chris Savino,
+2020-03-12T19:00:18+00:00,945247718,945247692,0,Johnpacklambert,Christopher McDonald,removed [[Category:American Roman Catholics]] using [[WP:HC|HotCat]] rem dup cat
+2021-01-27T00:56:48+00:00,1003001704,1003001609,0,SNUGGUMS,Christopher McDonald,"WP:OVERLINK, cleaner text"
+2020-08-25T15:30:57+00:00,974881316,970934205,0,PeeJay,Christopher McDonald,"the New Zealand canoeist may have Christopher as his first name, but he's known as Paul McDonald"
+2020-10-20T02:53:49+00:00,984438469,983238810,0,173.80.205.184,Chris Savino,
+2020-06-21T23:07:08+00:00,963811406,963811282,0,104.220.77.226,Cristina Vee,
+2021-05-12T13:23:54+00:00,1022783832,1022744187,0,108.56.139.120,Cristina Vee,Undid revision 1022744187 by [[Special:Contributions/112.141.113.231|112.141.113.231]] ([[User talk:112.141.113.231|talk]])
+2020-04-06T00:41:41+00:00,949354459,949352110,0,AngusWOOF,Cristina Vee,still provides
+2021-06-25T16:46:00+00:00,1030390242,1030390235,0,ClueBot NG,Cristina Vee,"Reverting possible vandalism by [[Special:Contribs/66.37.79.120|66.37.79.120]] to version by AngusWOOF. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3998962) (Bot)"
+2020-05-29T20:20:05+00:00,959636566,959562925,0,Parappa's Hat,Dan Milano,
+2019-10-30T19:48:39+00:00,923789001,918021043,0,166.77.103.133,Dan Milano,/* Career */ I'm Dan Milano I am trying to update my biography.
+2020-03-04T15:11:01+00:00,943908589,938135679,0,InternetArchiveBot,Darrell Rooney,Bluelinking 1 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3
+2020-09-25T02:26:04+00:00,980181158,980104834,0,174.44.102.253,Dana Snyder,/* Television */
+2020-04-16T02:04:32+00:00,951216483,949779124,0,DemonDays64 Bot,Dana Snyder,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2019-07-13T23:57:46+00:00,906149676,898012539,0,2600:1702:4990:B40:6828:DA66:45B:FFF4,Darrell Rooney,
+2020-11-20T17:19:37+00:00,989722750,981091444,0,190.24.120.228,Dave Wasson,/* Credits */
+2019-10-27T02:06:58+00:00,923206600,923182787,0,Marty Nájar,David Feiss,/* Filmography */
+2020-11-04T03:40:45+00:00,986983031,982771329,0,2601:2C1:8381:7DA0:8120:B03B:E065:12E4,David Feiss,
+2020-12-13T15:59:51+00:00,993989603,993988974,0,186.177.185.95,David Hoselton,
+2020-03-19T21:16:22+00:00,946389714,946389522,0,201.191.195.104,David Hoselton,
+2019-10-01T16:17:33+00:00,919056783,919054824,0,73.166.119.63,David N. Weiss,/* Early life */
+2020-01-15T20:19:23+00:00,935955477,934147638,0,2A02:C7F:C206:6900:9084:4098:EC09:1EA3,David N. Weiss,
+2020-07-26T20:34:32+00:00,969678622,965767538,0,WikiPediaAid,Disney's Stitch: Experiment 626,"Changed cover art image to the American cover, which is the original release and reflective of the developer's country of origin."
+2020-10-09T02:27:38+00:00,982589029,982529137,0,WikiPediaAid,Disney's Stitch: Experiment 626,"The fact that this game, a prequel to the film it's tied in to, was released just two days prior to that film is significant. Additionally, I don't see how this game doesn't deserve to have its release date specified in the lede when other video game articles like [[Doom Eternal]] or [[Animal Crossing (video game)|Animal Crossing]] do so in theirs."
+2019-12-18T11:12:13+00:00,931348362,916357144,0,WikiPediaAid,Disney's Stitch: Experiment 626,/* Characters */ I can't find anything about the character ever being mentioned in The Series.
+2020-06-28T08:43:54+00:00,964906748,964656858,0,WOSlinker,Harland Williams,remove background option from table that doesn't do anything
+2020-02-05T05:36:26+00:00,939236617,937314229,0,67.149.98.164,Harland Williams,Added his voice appearance on The Emperor's New School.
+2021-01-26T21:22:31+00:00,1002967273,1002660152,0,IceWalrus236,Greg Cipes,Unneccessary
+2020-12-30T03:43:34+00:00,997130087,993593791,0,92.233.206.142,Harland Williams,
+2020-03-08T18:10:10+00:00,944579443,940171840,0,SaveUmsGirl2004,Greg Cipes,"/* Film */""The I, Chiro Saga"" is a television film which combines 2 last episodes ""Antauri's Masters"" and ""I, Chiro"" of the second season and ""The Savage Lands"" 2-part episode of the third season of ""Super Robot Monkey Team Hyperforce Go!"" into a feature film."
+2020-06-28T05:34:26+00:00,964890998,964890978,0,FTVA,House of Mouse,/* Premise */
+2021-02-04T18:53:31+00:00,1004854424,1004854404,0,ClueBot NG,Harland Williams,"Reverting possible vandalism by [[Special:Contribs/47.149.84.64|47.149.84.64]] to version by 148.0.116.81. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3889322) (Bot)"
+2020-12-24T16:39:07+00:00,996114452,995432824,0,Editmaster4,I Heart Arlo,/* Voice cast */
+2020-11-27T10:43:04+00:00,990937442,990552922,0,DenSportgladeSkåningen,Jade Pettyjohn,
+2021-09-09T17:03:23+00:00,1043350299,1043204561,0,2601:81:8500:E190:C4F4:4F8E:2F33:8129,I Heart Arlo,
+2021-03-10T03:15:50+00:00,1011296350,1010553658,0,Mr. Doggy Dog,Jake and the Never Land Pirates,
+2021-01-16T22:02:31+00:00,1000820621,1000587048,0,Kjell Knudde,Jake and the Never Land Pirates,Added more categories
+2020-03-19T03:28:35+00:00,946268947,938150844,0,Romylei,Jade Pettyjohn,Added links
+2020-04-06T10:29:01+00:00,949415151,949414994,0,157.43.40.22,Jake and the Never Land Pirates,Characters
+2021-07-23T15:04:47+00:00,1035082084,1034370818,0,210.6.87.5,Jake and the Never Land Pirates,
+2019-12-27T00:11:45+00:00,932586820,932586637,0,Cartoon Boy,James and the Giant Peach (film),/* Reception */
+2021-03-07T23:42:55+00:00,1010903744,1010016822,0,Catperson12,James and the Giant Peach (film),Family roles of each of the bugs
+2020-06-29T14:57:18+00:00,965122897,962583506,0,Cyberfan195,James and the Giant Peach (film),/* External links */ fixed.
+2020-11-15T05:15:22+00:00,988778273,985244698,0,Sstanford2,James and the Giant Peach (film),/* Plot */
+2020-08-25T23:40:04+00:00,974955487,974949380,0,Dylsss,Jeffrey Garcia,Reverted 1 edit by [[Special:Contributions/2601:80:C200:5300:4DB1:B7F6:FD50:93C8|2601:80:C200:5300:4DB1:B7F6:FD50:93C8]] ([[User talk:2601:80:C200:5300:4DB1:B7F6:FD50:93C8|talk]]) to last revision by Thepharoah17 ([[WP:TW|TW]])
+2020-03-15T12:20:14+00:00,945665868,945370056,0,Elijah Reardon,Jeffrey Garcia,
+2020-04-28T17:37:03+00:00,953711969,945665868,0,172.222.60.207,Jeffrey Garcia,/* External links */
+2020-04-30T12:19:56+00:00,954051381,931880766,0,2600:1700:C970:1560:45DA:84BE:FAAB:66CF,Jerry Eisenberg,
+2020-09-08T08:26:40+00:00,977342352,975469850,0,MarnetteD,Jessica DiCicco,previous version is correct
+2019-10-24T21:56:37+00:00,922876352,921659069,0,186.137.52.157,Jessica DiCicco,
+2020-01-18T02:35:59+00:00,936324863,935843082,0,Sammi Brie,Jessica DiCicco,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""American actress"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-08-28T18:10:25+00:00,975469850,974980126,0,104.10.192.35,Jessica DiCicco,
+2020-02-28T18:11:11+00:00,943078171,941542991,0,LeeWeathers,Jessica DiCicco,/* Other dub roles */
+2021-02-18T19:28:44+00:00,1007555557,1007542451,0,Prince Silversaddle,Jessica DiCicco,/* Anime */
+2021-01-14T02:20:08+00:00,1000198984,998980498,0,148.101.43.191,Jessica DiCicco,
+2020-04-25T14:04:43+00:00,953058480,952074518,0,162.218.220.240,Jessica DiCicco,/* Animation */
+2019-11-18T19:02:12+00:00,926793035,926792978,0,Voicebox64,Jessica Gao,
+2020-04-11T04:31:54+00:00,950269994,926793035,0,108.35.162.217,Jessica Gao,
+2021-08-03T17:46:30+00:00,1036956728,1036335638,0,200.119.152.157,Jessica Gao,
+2019-10-13T01:28:48+00:00,920967333,920967304,0,2601:3C1:104:2E90:BDDF:A594:2508:D978,Jill Talley,
+2021-02-10T19:39:29+00:00,1006051277,1006038466,0,Binksternet,Jill Talley,"Reverted 1 edit by [[Special:Contributions/2603:8000:FC00:2300:643A:3E5:C534:5A|2603:8000:FC00:2300:643A:3E5:C534:5A]] ([[User talk:2603:8000:FC00:2300:643A:3E5:C534:5A|talk]]): Rv... Long-term abuse, blocked for a week as [[Special:Contributions/2603:8000:FC00:2300:5457:6748:16E:DE81]]. Disruption from the range [[Special:Contributions/2603:8000:FC00:2300:0:0:0:0/64]]."
+2020-06-18T17:39:33+00:00,963235609,963235059,0,Flori4nK,Jill Talley,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2001:8F8:1727:AC8A:C5A6:A0FF:147B:7B2E|2001:8F8:1727:AC8A:C5A6:A0FF:147B:7B2E]]: Rv name change - please explain; already listed in other names ([[WP:TW|TW]])
+2020-05-02T05:17:50+00:00,954397991,942351145,0,2601:CB:8200:7220:CCF4:F69C:5DD7:E074,Jill Culton,
+2021-07-11T17:21:48+00:00,1033109994,1033030519,0,SNUGGUMS,Jill Talley,"Reverted 1 edit by [[Special:Contributions/27.125.246.225|27.125.246.225]] ([[User talk:27.125.246.225|talk]]): Unsupported occupation listing, and being married doesn't automatically mean she took on her husband's surname"
+2020-09-24T13:56:18+00:00,980080805,976112202,0,SquarePants122,Jill Talley,This movie is already out now.
+2021-01-04T21:30:07+00:00,998322267,997935676,0,179.52.198.217,Jill Talley,I think a Sockpuppet added the full name of the actress without any reference to it. See:https://en.wikipedia.org/wiki/Special:Contributions/Herman_Clavijo and https://en.wikipedia.org/wiki/Special:Contributions/Nicolas_Arruti
+2019-10-16T21:01:27+00:00,921625566,921625412,0,2600:1000:B04A:2A6A:B8F8:5998:89A:A706,Joel Cohen (writer),
+2021-05-14T18:26:41+00:00,1023158553,1023026101,0,Taras Cherepenko,Jill Talley,/* Television */
+2020-08-01T09:50:55+00:00,970607740,946100489,0,86.6.203.64,Joel Cohen (writer),
+2019-10-27T21:21:46+00:00,923328725,922739597,0,Sk8erPrince,Kari Wahlgren,fix formatting
+2020-07-13T06:55:27+00:00,967433500,966609980,0,106.69.248.179,Kari Wahlgren,/* Filmography */
+2019-10-19T00:48:02+00:00,921964026,917726923,0,HappyINC,Kate Boutilier,
+2021-04-04T17:47:43+00:00,1015974040,1015969761,0,IznoRepeat,Kevin Schon,prep for move of SWKOTOR to video game disambig and series page to main name
+2021-01-19T18:35:14+00:00,1001446371,1001044691,0,96.255.20.24,Kevin Schon,
+2020-09-14T21:34:13+00:00,978430684,977741638,0,213.31.21.47,Kevin Schon,/* Career */
+2020-12-13T18:23:21+00:00,994014487,985192610,0,Tom.Bot,Kyle Marshall,"[[Wikipedia:Bots/Requests for approval/Tom.Bot 5|Task 6]]: +{{[[Template:Authority control|Authority control]]}} ([[d:Q42666733|2 IDs]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2020-05-27T14:46:11+00:00,959183081,957004813,0,Sautdebiche,Len Blum,Italics removed on LAC
+2020-10-14T15:30:41+00:00,983496570,978819006,0,Sautdebiche,Len Blum,/* External links */ review link LAC
+2019-11-26T02:00:22+00:00,927987484,927965589,0,WikiPediaAid,Lilo & Stitch: The Series,"Unhid and expanded upon the ""Video on-demand"" section."
+2020-01-25T03:41:21+00:00,937455200,937455116,0,172.3.150.197,List of 2 Stupid Dogs episodes,/* Series overview */
+2021-09-04T13:29:20+00:00,1042340612,1041655536,0,2601:44:180:B700:ED13:F4AC:AFB7:145F,Lynne Naylor,Fixed a grammatical error.
+2021-09-27T19:36:00+00:00,1046859458,1044666533,0,CommonsDelinker,Lynne Naylor,"Removing [[:c:File:Lynne_Naylor.jpg|Lynne_Naylor.jpg]]; it has been deleted from Commons by [[:c:User:Yann|Yann]] because: Copyright violation, see [[:c:Commons:Licensing|]]."
+2020-12-31T20:43:35+00:00,997501462,997499103,0,2603:8081:150C:C078:E848:4CE7:828:1F63,Lynne Naylor,/* Television */
+2019-11-13T14:46:26+00:00,925980175,925917981,0,Marty Nájar,Lynne Naylor,/* Film */
+2019-07-16T14:22:02+00:00,906540154,875347893,0,Certes,Marty Isenberg,Disambiguating links to [[Action Man (disambiguation)]] (link changed to [[Action Man (2000 TV series)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-09-13T01:09:58+00:00,1043984666,1041119401,0,Raftylolis(gangster bugs),Maxwell Atoms,/* Television */
+2021-05-11T03:02:33+00:00,1022544719,1022544513,0,Paper Luigi,Maxwell Atoms,+Grim & Evil to lead paragraph- Reference edited with [[Wikipedia:ProveIt|ProveIt]]
+2021-07-24T15:34:53+00:00,1035253177,1025870911,0,2601:547:801:3700:CC9D:CCA2:9EFB:6E85,Maxwell Atoms,/* Television */
+2019-12-09T09:57:53+00:00,929962052,929962036,0,2600:6C50:7D7F:D0A8:4423:7CC1:E420:C6D0,Michael Dorn,
+2019-12-19T14:58:05+00:00,931545538,931270268,0,97.122.175.210,Michael Dorn,/* Television */
+2021-05-14T04:05:26+00:00,1023062900,1022712848,0,2604:3D09:D81:D200:44B9:A0BC:F318:F61C,Michael Maltese,
+2019-11-06T14:55:36+00:00,924886295,924880934,0,Snakelupus,Mickey Mouse Clubhouse,
+2020-04-13T15:37:26+00:00,950736304,950718696,0,SummerPhDv2.0,Mickey Mouse Clubhouse,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/73.204.245.24|73.204.245.24]] ([[User talk:73.204.245.24|talk]]): [[WP:KIDSTVDATES]] ([[WP:TW|TW]])
+2020-02-16T21:50:13+00:00,941148480,941148294,0,69.165.140.203,Mickey Mouse Clubhouse,
+2020-05-06T17:32:06+00:00,955232013,955221770,0,Aoi,Mickey Mouse Clubhouse,Reverted 1 edit by [[Special:Contributions/64.43.39.241|64.43.39.241]] ([[User talk:64.43.39.241|talk]]): Unsourced changes ([[WP:TW|TW]])
+2021-03-15T17:11:28+00:00,1012300252,1009911468,0,76.78.233.163,Michael Maltese,
+2020-10-21T21:24:10+00:00,984748145,984747892,0,Scatman007,Mickey Mouse Works,Not broken.
+2019-12-18T20:44:32+00:00,931423356,930382855,0,184.53.32.185,Mickey Mouse Works,/* Season 1 (1999) */
+2020-02-25T18:47:20+00:00,942608963,942272086,0,Iridescent,Mickey Mouse Works,"Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: well-known → well known, isn’t → isn't, ’s → 's (11)"
+2020-06-26T02:50:07+00:00,964536262,964536115,0,FTVA,Mickey Mouse Works,Was mistakenly redirected to the planet Pluto.
+2019-10-24T23:10:45+00:00,922884722,922094237,0,2604:6000:1011:8547:7438:E257:DD18:4BB3,Minnie's Bow-Toons,/* Episodes */
+2020-04-26T13:52:48+00:00,953259147,949379914,0,172.222.60.207,Mitch Schauer,/* External links */
+2020-12-06T18:45:11+00:00,992713674,992061462,0,37.163.26.197,Monsters at Work,
+2020-04-16T16:45:56+00:00,951326920,951167888,0,Cyberfan195,Monsters at Work,/* External links */ added two sources using [[HotCat]]
+2020-01-28T21:03:44+00:00,938051747,938051581,0,186.176.255.214,Ned Goldreyer,/* Filmography */
+2021-01-25T18:34:29+00:00,1002707005,993033093,0,Binksternet,Ned Goldreyer,Reverted 1 edit by [[Special:Contributions/Herman Clavijo|Herman Clavijo]] ([[User talk:Herman Clavijo|talk]]) to last revision by 186.177.186.79
+2020-11-13T13:54:56+00:00,988486088,988410198,0,174.44.187.164,Minnie's Bow-Toons,
+2020-08-16T03:54:17+00:00,973238492,973209504,0,98.193.120.36,Nickelodeon Animation Studio,/* Nickelodeon (not greenlit to series) */
+2020-04-20T22:40:14+00:00,952174597,952174592,0,Ad Orientem,Nickelodeon Animation Studio,Adding {{pp-protected}} ([[WP:TW|TW]])
+2021-01-14T07:23:54+00:00,1000237526,999787799,0,Elijah Abrams,Nickelodeon Animation Studio,/* Nickelodeon */ Undid anon vandalism.
+2021-01-27T16:09:07+00:00,1003140732,1002966618,0,Ryayan855,Paul Rudish,Undid revision 1002966618 by [[Special:Contributions/2600:1003:B455:2818:89DE:18DF:67C0:17C|2600:1003:B455:2818:89DE:18DF:67C0:17C]] ([[User talk:2600:1003:B455:2818:89DE:18DF:67C0:17C|talk]])
+2019-08-19T14:37:46+00:00,911538040,907762008,0,Paper Luigi,Paul Rudish,added [[Category:Annie Award winners]] using [[WP:HC|HotCat]]
+2021-01-14T21:06:07+00:00,1000375436,994621255,0,2600:1003:B468:A2D5:9CD0:2DB6:7D5A:4534,Paul Rudish,/* Filmography */
+2021-06-08T19:36:22+00:00,1027582157,1023054836,0,201.194.107.18,Peter Lepeniotis,/* Filmography */
+2020-03-11T04:07:59+00:00,944989229,944989053,0,Xenia Otoya,Peter Lepeniotis,
+2021-08-15T23:57:12+00:00,1038981893,1036525874,0,Rtkat3,Planes: Fire & Rescue,
+2020-12-08T12:16:58+00:00,993029512,992244384,0,SofElenaAmulet336,Peter Lepeniotis,/* Filmography */
+2021-10-02T20:55:39+00:00,1047844721,1047518973,0,Dimadick,Planes: Fire & Rescue,/* External links */
+2021-03-04T19:16:19+00:00,1010292384,1008552494,0,Fire9600,Planes: Fire & Rescue,/* Plot */
+2020-01-09T20:19:16+00:00,934996406,934902148,0,SuperMarioMan,Richard Pursel,Reverted edits by [[Special:Contribs/186.4.57.54|186.4.57.54]] ([[User talk:186.4.57.54|talk]]) to last version by Marty Nájar
+2019-10-21T15:31:59+00:00,922346648,922346564,0,94.39.240.74,Richard Pursel,
+2021-02-20T21:23:49+00:00,1007966010,1007206250,0,Dave Bohórquez,Richard Pursel,
+2020-12-29T19:02:02+00:00,997040537,995446507,0,192.145.175.70,Richard Pursel,
+2021-02-17T00:10:30+00:00,1007206250,1002706522,0,2603:7080:8C06:4E6C:7DD5:E08E:84F0:7022,Richard Pursel,/* Screenwriter */
+2020-05-11T01:31:02+00:00,956008992,956008797,0,AnimaniacsFanatic,Robert Cohen (writer),Reverted 2 edits by [[Special:Contributions/2600:8805:5500:2F8:B41C:F0AC:865F:7E86|2600:8805:5500:2F8:B41C:F0AC:865F:7E86]] ([[User talk:2600:8805:5500:2F8:B41C:F0AC:865F:7E86|talk]]) to last revision by 2600:6C5A:1480:B1:C0A:3809:A286:1676 ([[WP:TW|TW]])
+2020-11-27T20:27:16+00:00,991014119,984256130,0,Clarityfiend,Robert Cohen (writer),/* top */ replaced hatnote
+2020-10-19T03:06:43+00:00,984256130,982378313,0,PrimeBOT,Robert Cohen (writer),[[User:PrimeBOT/30|Task 30]] - rmv bad params in [[Template:Infobox person]] (+genfixes)
+2019-08-14T06:46:40+00:00,910754335,901169699,0,Ched,Ron Hughart,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""American animation director"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2020-04-25T13:51:12+00:00,953056736,949297249,0,186.26.118.160,Ron J. Friedman,
+2019-10-17T09:39:15+00:00,921698022,908081493,0,2600:6C50:797F:EC24:7C42:D54E:F155:B10A,Ron J. Friedman,/* Filmography */
+2021-08-04T07:23:46+00:00,1037053617,1033930035,0,Voidify,Sandra Equihua,Fix punctuation error found by [[Wikipedia:Typo Team/moss]] – you can help!
+2020-09-22T03:51:43+00:00,979677421,979677372,0,107.77.212.77,Ron J. Friedman,
+2020-06-26T20:36:17+00:00,964661737,964661259,0,177.11.211.6,Shannon Tindle,
+2020-05-02T04:58:32+00:00,954396048,954138519,0,Phuzion,Spike Brandt and Tony Cervone,removed [[Category:American animators]]; added [[Category:Animators from California]] using [[WP:HC|HotCat]]
+2020-03-28T16:38:54+00:00,947810049,947035250,0,Herman Iglesias,Spike Brandt and Tony Cervone,
+2021-07-10T00:49:03+00:00,1032842186,1029599714,0,2001:8003:CC0A:1E00:95CD:A6EB:2826:6BB,Spike Brandt and Tony Cervone,
+2020-05-20T01:50:03+00:00,957683263,957269324,0,2601:645:201:FBD0:487F:FDF9:AAC3:5513,Spike Brandt and Tony Cervone,/* External links */
+2021-06-20T23:59:50+00:00,1029599714,1029302774,0,WikiCleanerBot,Spike Brandt and Tony Cervone,v2.04b - [[User:WikiCleanerBot#T19|Bot T19 CW#25]] - Fix errors for [[WP:WCW|CW project]] (Heading hierarchy)
+2019-09-30T10:43:51+00:00,918798515,910755302,0,Bladerunner09,Spike Brandt and Tony Cervone,/* Voice actors */
+2021-03-17T00:57:38+00:00,1012557290,1012070592,0,2600:1700:8FC0:7A50:C8FB:C878:C9A5:968C,Spike Brandt and Tony Cervone,
+2020-10-19T13:22:17+00:00,984315785,983588905,0,69.36.212.253,Spike Brandt and Tony Cervone,/* Directors */
+2021-04-21T07:34:05+00:00,1019047392,1019027352,0,Clear Looking Glass,Stephanie Sheh,/* Video games */ [[WP:CITEIMDB]] - Using IMDB as a source for Character names and so on on Wikipedia is disputed.
+2021-07-19T21:03:57+00:00,1034435291,1032119084,0,50.71.93.204,Stephanie Sheh,
+2021-10-27T06:16:54+00:00,1052070713,1051683215,0,70.21.202.197,Stephanie Sheh,
+2020-02-26T07:48:50+00:00,942696873,941875662,0,Max1057,Stephanie Sheh,/* Animation */ updated the entry for Glitch Techs.
+2019-12-23T18:37:48+00:00,932137932,931413369,0,User No. 99,Stephanie Sheh,
+2019-10-17T09:38:14+00:00,921697934,908081549,0,2600:6C50:797F:EC24:7C42:D54E:F155:B10A,Steve Bencich,/* Filmography */
+2020-04-10T00:32:01+00:00,950055639,950055261,0,Herman Iglesias,Steve Bencich,/* Filmography */
+2020-08-29T21:32:36+00:00,975688284,963926070,0,Anonymous from the 21st century,Steve Borst,
+2019-01-19T18:12:41+00:00,879199901,879199880,0,ClueBot NG,Steve Borst,"Reverting possible vandalism by [[Special:Contribs/67.215.213.45|67.215.213.45]] to version by Ser Amantio di Nicolao. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3580545) (Bot)"
+2019-07-19T14:47:03+00:00,906967388,897460950,0,DannyS712,Steve Williams (animator),Disambiguating links to [[The Mask (film)]] (link changed to [[The Mask (1994 film)]]; link changed to [[The Mask (1994 film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-04-14T15:58:47+00:00,950928010,950868223,0,2601:643:C101:6720:206B:C338:8EA0:9750,Steve Williams (animator),
+2021-10-13T12:00:06+00:00,1049712865,1049665443,0,Arjayay,Steve Williams (animator),Undid revision 1049665443 by [[Special:Contributions/66.24.57.147|66.24.57.147]] ([[User talk:66.24.57.147|talk]]) Unsourced
+2020-07-20T07:40:28+00:00,968582031,961197644,0,2600:1700:50E0:52E0:B197:94D4:B0E6:CD6E,Steve Williams (animator),"Fixed birth date, location; referred to true page"
+2021-03-30T20:32:25+00:00,1015137349,1011477504,0,93.93.168.177,Steve Williams (animator),
+2020-02-13T01:59:11+00:00,940526540,940496135,0,Qzd,Steve Williams (animator),Reverted edits by [[Special:Contribs/186.4.57.68|186.4.57.68]] ([[User talk:186.4.57.68|talk]]) to last version by 186.176.255.214
+2020-05-10T16:50:17+00:00,955939037,955213295,0,NeoRibeiro,The Casagrandes,/* Episodes */
+2021-06-20T05:21:50+00:00,1029467944,1029401873,0,OL.Wise.Editor,The Casagrandes,"starting with ""Home Improvement"""
+2020-07-13T06:51:05+00:00,967433171,967433161,0,ClueBot NG,The Casagrandes,"Reverting possible vandalism by [[Special:Contribs/Kyle gosling|Kyle gosling]] to version by Magitroopa. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3739035) (Bot)"
+2021-07-10T20:32:15+00:00,1032976365,1032369907,0,Keylonrocks7356,The Ghost and Molly McGee,Highly doubt Ramos and Atoms are also showrunners.
+2020-10-25T20:20:17+00:00,985412331,985115298,0,67.86.211.213,The Ghost and Molly McGee,
+2021-10-09T20:11:22+00:00,1049094962,1049078886,0,Jasonbres,The Ghost and Molly McGee,/* Recurring */
+2021-08-18T20:36:36+00:00,1039457580,1039452524,0,Lonniemitchell22,The Ghost and Molly McGee,
+2021-02-07T21:17:46+00:00,1005475793,1005475756,0,WikiWolf7,The Ghost and Molly McGee,Undid revision 1005475756 by [[Special:Contributions/2601:C0:E:663C:3C9E:B619:7235:7F17|2601:C0:E:663C:3C9E:B619:7235:7F17]] ([[User talk:2601:C0:E:663C:3C9E:B619:7235:7F17|talk]])
+2021-06-15T14:08:40+00:00,1028699697,1028699655,0,Keylonrocks7356,The Ghost and Molly McGee,/* Music */
+2021-01-21T13:28:43+00:00,1001812106,1001812017,0,InterestGather,The Nut Job 2: Nutty by Nature,"Undid revision 1001811651 by [[Special:Contributions/2A04:CEC0:10D9:4308:6076:C891:C68E:7550|2A04:CEC0:10D9:4308:6076:C891:C68E:7550]] ([[User talk:2A04:CEC0:10D9:4308:6076:C891:C68E:7550|talk]]) As per before, intentionally changing statistics."
+2020-06-11T02:04:20+00:00,961909903,961057486,0,2001:8003:A996:7E00:1D95:E2E2:88BF:7204,The Nut Job 2: Nutty by Nature,
+2021-07-21T23:22:46+00:00,1034808616,1034540801,0,2600:1700:87E0:3290:F83A:89FA:2AAE:A3E8,The Nut Job 2: Nutty by Nature,/* Additional Voices */
+2020-04-06T05:16:17+00:00,949384406,945747211,0,174.141.204.77,Tom McGrath (animator),/* External links */
+2021-03-18T00:56:07+00:00,1012733326,1012588130,0,LightningComplexFire,Tom Kenny,Adding {{pp-vandalism}}
+2021-06-10T01:41:56+00:00,1027793831,1027059310,0,JointCompound,Tom Kenny,
+2020-05-29T20:17:33+00:00,959636216,956743580,0,Parappa's Hat,Tom McGrath (animator),
+2021-02-11T19:41:25+00:00,1006233637,1006233228,0,2603:9001:2103:2290:6976:BFB7:DD6B:8E21,Tom McGrath (animator),/* Life and career */
+2021-09-22T16:46:20+00:00,1045822342,1045674878,0,169.151.167.122,Tuck Tucker,/* Television */
+2021-10-10T17:54:07+00:00,1049240387,1048906488,0,WOSlinker,Tuck Tucker,fix small tag
+2020-10-01T07:01:19+00:00,981257332,981257279,0,2601:247:301:B100:81DA:77EB:B85:B650,Tuck Tucker,/* Early life and education */
+2021-08-31T13:36:49+00:00,1041609079,1041340483,0,Discospinster,User talk:Gerry Bohórquez,Notification: proposed deletion of [[:Hadley Gannaway]].
+2020-04-17T22:20:45+00:00,951593621,949211225,0,Cyberfan195,Wacky Races (2017 TV series),/* External links */ added two sources using [[HotCat]]
+2019-11-21T23:28:48+00:00,927352382,927088631,0,75.117.197.26,Wacky Races (2017 TV series),
+2019-10-30T15:28:05+00:00,923752061,923633824,0,2A02:2149:8875:C800:31A9:5273:65E4:A183,Wacky Races (2017 TV series),
+2020-08-27T01:05:16+00:00,975152761,972656354,0,Mjdestroyerofworlds,"Whittier, California",/* Transportation */

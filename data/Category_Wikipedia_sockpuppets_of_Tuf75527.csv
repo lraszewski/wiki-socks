@@ -1,0 +1,21 @@
+timestamp,revid,parentid,sock,user,page,message
+2022-07-05T20:44:51+00:00,1096649622,1096353779,1,Tuf75527,Stephen Jay Gould,
+2022-07-05T16:00:02+00:00,1096613560,1093211795,1,Tuf75527,Phylogenomics,Added a reference
+2022-07-05T15:54:52+00:00,1096612939,1096612709,1,Tuf75527,Molecular Evolutionary Genetics Analysis,
+2022-07-05T15:53:06+00:00,1096612709,1096512543,1,Tuf75527,Molecular Evolutionary Genetics Analysis,
+2022-07-04T02:56:13+00:00,1096375273,1096375233,1,Tuf75527,Molecular Evolutionary Genetics Analysis,
+2022-07-04T02:55:42+00:00,1096375233,1096375162,1,Tuf75527,Molecular Evolutionary Genetics Analysis,
+2022-07-04T02:54:45+00:00,1096375162,1096373084,1,Tuf75527,Molecular Evolutionary Genetics Analysis,The description was outdated and information in the side box too old. The description has been streamlined. Soon I will add a brief history of 30 years of MEGA.
+2022-07-04T02:31:13+00:00,1096373084,1078545839,1,Tuf75527,Molecular Evolutionary Genetics Analysis,"Text has been updated to capture the original history better. Also, the side box has been updated a bit show the correct order of authors and additional participating universities."
+2022-07-04T23:21:22+00:00,1096512543,1096423438,1,Tuf73733,Molecular Evolutionary Genetics Analysis,Updates by adding citations and making a few other text changes
+2022-07-04T11:14:13+00:00,1096423438,1096423310,1,Tuf73733,Molecular Evolutionary Genetics Analysis,
+2022-07-04T11:12:57+00:00,1096423310,1096387387,1,Tuf73733,Molecular Evolutionary Genetics Analysis,
+2022-07-04T03:18:13+00:00,1096377052,1096376068,1,Tuf73733,Molecular Evolutionary Genetics Analysis,Added a brief history of MEGA
+2022-07-04T03:06:13+00:00,1096376068,1096375273,1,Tuf73733,Molecular Evolutionary Genetics Analysis,Added a brief introductory description of MEGA. I will add a detailed history soon.
+2022-07-04T05:19:49+00:00,1096387387,1096377052,0,AnomieBOT,Molecular Evolutionary Genetics Analysis,"Rescuing orphaned refs (""MEGA2000"" from rev 1096373084; ""MEGA2013"" from rev 1096373084)"
+2022-07-03T23:16:02+00:00,1096353779,1095165776,0,Peaceray,Stephen Jay Gould,"/* Spandrels and the Panglossian paradigm */ Put ""caseofthefemaleorgasm"" into {{cite book}} format & added parameters"
+2022-06-15T07:01:57+00:00,1093211795,1066257861,0,Citation bot,Phylogenomics,"Alter: pages. Add: url, s2cid, authors 1-1. Removed parameters. Formatted [[WP:ENDASH|dashes]]. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Headbomb | Linked from Wikipedia:WikiProject_Academic_Journals/Journals_cited_by_Wikipedia/Sandbox | #UCB_webform_linked 273/973"
+2022-03-22T03:43:46+00:00,1078545839,1070427240,0,Nosferattus,Molecular Evolutionary Genetics Analysis,updating
+2022-06-26T19:41:59+00:00,1095165776,1095157431,0,Bueller 007,Stephen Jay Gould,
+2022-06-24T12:06:05+00:00,1094769637,1093403856,0,Athel cb,Stephen Jay Gould,Superfluous (and unused) Infobox parameters removed
+2022-06-16T11:28:55+00:00,1093403856,1093330226,0,Athel cb,Stephen Jay Gould,|nationality = American removed (obvious)

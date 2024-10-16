@@ -1,0 +1,602 @@
+timestamp,revid,parentid,sock,user,page,message
+2019-09-08T11:52:56+00:00,914614804,914614550,1,Atlia,Bangladesh Railway,/* Passenger services */
+2019-09-08T11:50:20+00:00,914614550,914165802,1,Atlia,Bangladesh Railway,/* Freight and cargo services */
+2019-09-08T11:48:37+00:00,914614411,913385977,1,Atlia,Ministry of Food (Bangladesh),/* Job opportunity */
+2019-09-08T11:46:06+00:00,914614204,906999546,1,Atlia,Bangladesh Civil Service,/* Examination system */
+2019-09-08T11:42:41+00:00,914613908,913477650,1,Atlia,Bangladesh University of Engineering and Technology,/* Faculties and departments */
+2019-09-08T11:40:47+00:00,914613735,905066018,1,Atlia,Government College of Applied Human Science,/* Departments */
+2019-09-08T11:39:27+00:00,914613619,913253474,1,Atlia,Jagannath University,/* Faculties */
+2019-09-08T11:35:20+00:00,914613293,914521805,1,Atlia,"National University, Bangladesh",/* List of Vice-Chancellors */
+2019-09-08T11:29:43+00:00,914612842,912087893,1,Atlia,University of Dhaka,/* Academic departments */
+2019-09-08T11:28:02+00:00,914612718,905502580,1,Atlia,Jahangirnagar University,/* Academics */
+2019-09-08T11:23:10+00:00,914612346,914611719,1,Atlia,Dhaka International Trade Fair,/* Job opportunity */
+2019-09-08T11:14:29+00:00,914611719,909438727,1,Atlia,Dhaka International Trade Fair,/* Job opportunity */
+2019-09-08T11:04:00+00:00,914610975,912586435,1,Atlia,HIV/AIDS,/* Introduction */
+2019-09-08T11:00:22+00:00,914610678,914435084,1,Atlia,Greenhouse effect,/* Introduction */
+2019-09-08T10:57:09+00:00,914610417,913876973,1,Atlia,Female education,/* Introduction */
+2019-09-08T10:55:26+00:00,914610272,913733541,1,Atlia,Reckless driving,/* Introduction */
+2019-09-08T09:51:48+00:00,914604638,909998901,1,Atlia,Tree planting,/* India */
+2019-09-08T09:49:02+00:00,914604449,907459168,1,Atlia,Natural disaster,/* Introduction */
+2019-09-08T09:43:59+00:00,914604067,914602492,1,Atlia,Safa Kabir,/* Early life */
+2019-09-08T09:36:41+00:00,914603471,914602816,1,Atlia,Jaya Ahsan,/* birth date */
+2019-09-08T09:30:24+00:00,914603007,893028412,1,Atlia,Children's rights,
+2019-09-08T09:27:17+00:00,914602816,912090335,1,Atlia,Jaya Ahsan,/* birth date */
+2019-09-08T09:22:32+00:00,914602492,914602452,1,Atlia,Safa Kabir,/* Early life */
+2019-09-08T09:21:59+00:00,914602452,910216619,1,Atlia,Safa Kabir,/* Early life */
+2019-09-08T05:23:48+00:00,914576136,914575593,1,Atlia,Bangladesh Premier League,/* scorecard */
+2019-09-08T05:18:36+00:00,914575593,909399667,1,Atlia,Bangladesh Premier League,/* Team performances{{cite web|url=http://stats.espncricinfo.com/ci/engine/records/team/results_summary.html?id=159;type=trophy |title=Cricket Records {{!}} Bangladesh Premier League {{!}} Records {{!}} Result summary |publisher=ESPNcricinfo |access-date=6 February 2019}} {{cite web |url=http://stats.espncricinfo.com/bangladesh-premier-league-2015-16/engine/records/team/series_results.html?id=159&type=trophy |title=Cricket Records {{!}} Bangladesh Premier League {{!}} Records {{!}} Series res...
+2019-09-08T05:08:29+00:00,914574425,914574390,1,Atlia,Dhaka Premier Division Cricket League,/* External links */
+2019-09-08T05:08:08+00:00,914574390,914573985,1,Atlia,Dhaka Premier Division Cricket League,/* External links */
+2019-09-08T05:05:22+00:00,914573985,909432355,1,Atlia,Dhaka Premier Division Cricket League,/* scorecard */
+2019-08-27T04:58:00+00:00,912677983,909451192,1,Atlia,2017–18 Bangladesh Premier League,/* Teams and their icons */
+2019-08-27T04:54:50+00:00,912677789,912677745,1,Atlia,2016–17 Bangladesh Premier League,/* Rain-affected fixtures */
+2019-08-27T04:54:07+00:00,912677745,909432626,1,Atlia,2016–17 Bangladesh Premier League,/* Rain-affected fixtures */
+2019-08-27T04:25:18+00:00,912675634,912674839,1,Atlia,2018–19 Bangladesh Premier League,/* Points table */
+2019-08-27T04:15:51+00:00,912674839,909317575,1,Atlia,2018–19 Bangladesh Premier League,/* Points table */
+2019-08-27T03:13:18+00:00,912669415,912092527,1,Atlia,Sylhet Strikers,/* 2018/19 */
+2019-08-27T03:11:26+00:00,912669210,912554367,1,Atlia,Rajshahi Royals,/* 2018/19 */
+2019-08-27T03:10:21+00:00,912669099,912554463,1,Atlia,Rangpur Riders,/* Season Six */
+2019-08-27T03:09:33+00:00,912669030,912554377,1,Atlia,Comilla Victorians,/* Season 6 (2018-19) */
+2019-08-27T03:08:18+00:00,912668927,912554429,1,Atlia,Durdanto Dhaka,/* Season six */
+2019-08-27T03:06:53+00:00,912668761,912554396,1,Atlia,Khulna Tigers,/* Current squad */
+2019-08-27T03:05:07+00:00,912668596,908414938,1,Atlia,Chattogram Challengers,/* 2017/18 */
+2019-08-27T02:59:40+00:00,912668050,912554511,1,Atlia,2012 Bangladesh Premier League,/* Dead links */
+2019-08-27T02:55:38+00:00,912667669,912554492,1,Atlia,Bangladesh Cricket League,/* External links */
+2019-08-26T09:37:26+00:00,912543806,912543739,1,Atlia,Bangladesh national cricket team,
+2019-08-26T09:36:31+00:00,912543739,912543652,1,Atlia,Bangladesh national cricket team,
+2019-08-26T09:35:24+00:00,912543652,912543523,1,Atlia,Bangladesh national cricket team,
+2019-08-26T09:33:46+00:00,912543523,912434978,1,Atlia,Bangladesh national cricket team,
+2019-08-26T09:28:28+00:00,912543077,912407938,1,Atlia,2019–20 Bangladesh Premier League,
+2019-08-09T11:55:14+00:00,910060645,908533591,1,Atlia,Rajshahi Royals,/* Current squad */
+2019-08-09T11:54:13+00:00,910060558,909296462,1,Atlia,Comilla Victorians,/* Current squad */
+2019-08-09T11:53:13+00:00,910060462,909389297,1,Atlia,Khulna Tigers,/* Current squad */
+2019-08-09T11:52:11+00:00,910060368,909389188,1,Atlia,Durdanto Dhaka,/* Current squad */
+2019-08-09T11:49:59+00:00,910060125,910059917,1,Atlia,Rangpur Riders,/* Current squad */
+2019-08-09T11:48:11+00:00,910059917,909389359,1,Atlia,Rangpur Riders,/* Current squad */
+2019-08-09T08:38:02+00:00,910041525,910041498,1,Atlia,Bangladesh Cricket League,/* External links */
+2019-08-09T08:37:39+00:00,910041498,909432436,1,Atlia,Bangladesh Cricket League,/* External links */
+2019-08-07T07:08:13+00:00,909729387,909549279,1,Atlia,2012 Bangladesh Premier League,/* External links */
+2019-08-06T15:10:55+00:00,909621875,909399482,1,Atlia,2019–20 Bangladesh Premier League,
+2019-08-05T15:29:51+00:00,909458133,909457592,1,Atlia,2012 Bangladesh Premier League,/* External links */
+2019-08-05T15:25:30+00:00,909457592,909451161,1,Atlia,2012 Bangladesh Premier League,/* External links */
+2019-08-05T12:46:18+00:00,909439581,887464383,1,Atlia,Shykat Ali,/* References */
+2019-08-05T12:36:40+00:00,909438588,909438399,1,Atlia,University of Dhaka,/* Academic Departments */
+2019-08-05T12:34:54+00:00,909438399,909315338,1,Atlia,University of Dhaka,/* Academic Departments */
+2019-08-05T12:23:15+00:00,909437229,909437186,1,Atlia,Dhaka International Trade Fair,/* External links */
+2019-08-05T12:22:49+00:00,909437186,907656919,1,Atlia,Dhaka International Trade Fair,/* External links */
+2019-08-05T12:14:01+00:00,909436184,909436117,1,Atlia,Live scores,/* See also */
+2019-08-05T12:13:30+00:00,909436117,902851479,1,Atlia,Live scores,/* See also */
+2019-08-05T11:15:35+00:00,909430182,867876242,1,Atlia,National Cricket League,/* External links */
+2019-08-05T11:14:53+00:00,909430102,907734551,1,Atlia,Dhaka Premier Division Cricket League,/* External links */
+2019-08-05T11:13:59+00:00,909430016,909429960,1,Atlia,Bangladesh Cricket League,/* External links */
+2019-08-05T11:13:18+00:00,909429960,909429903,1,Atlia,Bangladesh Cricket League,/* External links */
+2019-08-05T11:12:45+00:00,909429903,896887395,1,Atlia,Bangladesh Cricket League,/* External links */
+2019-08-05T05:37:33+00:00,909401691,909399380,1,Atlia,2012–13 Bangladesh Premier League,/* Teams and standings */
+2019-08-05T05:06:54+00:00,909399380,909398929,1,Atlia,2012–13 Bangladesh Premier League,/* Player auction */
+2019-08-05T04:59:41+00:00,909398929,909398861,1,Atlia,2012–13 Bangladesh Premier League,/* Player auction */
+2019-08-05T04:58:39+00:00,909398861,909398693,1,Atlia,2012–13 Bangladesh Premier League,/* Player auction */
+2019-08-05T04:56:25+00:00,909398693,909398452,1,Atlia,2012–13 Bangladesh Premier League,/* Player auction */
+2019-08-05T04:53:32+00:00,909398452,907207938,1,Atlia,2012–13 Bangladesh Premier League,/* Player auction */
+2019-08-05T04:18:48+00:00,909395921,909395811,1,Atlia,Bangladesh Premier League,/* Draft system */
+2019-08-05T04:17:27+00:00,909395811,909395333,1,Atlia,Bangladesh Premier League,/* History */
+2019-08-05T04:12:03+00:00,909395333,909395229,1,Atlia,Bangladesh Premier League,/* History */
+2019-08-05T04:10:48+00:00,909395229,909395181,1,Atlia,Bangladesh Premier League,/* History */
+2019-08-05T04:10:12+00:00,909395181,909394895,1,Atlia,Bangladesh Premier League,/* History */
+2019-08-05T04:07:14+00:00,909394895,909394520,1,Atlia,Bangladesh Premier League,/* History */
+2019-08-05T04:03:26+00:00,909394520,909394349,1,Atlia,Bangladesh Premier League,/* Draft system */
+2019-08-05T04:01:35+00:00,909394349,909393132,1,Atlia,Bangladesh Premier League,/* History */
+2019-08-05T03:56:58+00:00,909393923,909388922,1,Atlia,2019–20 Bangladesh Premier League,/* References */
+2019-08-05T03:53:33+00:00,909393635,898475849,1,Atlia,2015–16 Bangladesh Premier League,/* External links */
+2019-08-05T03:47:37+00:00,909393132,909393042,1,Atlia,Bangladesh Premier League,/* Sponsorship */
+2019-08-05T03:46:14+00:00,909393042,909392909,1,Atlia,Bangladesh Premier League,/* Sponsorship */
+2019-08-05T03:44:32+00:00,909392909,909389112,1,Atlia,Bangladesh Premier League,/* Sponsorship */
+2019-08-04T16:52:58+00:00,909317016,909316896,1,Atlia,2016–17 Bangladesh Premier League,/* Rain-affected fixtures */
+2019-08-04T16:51:56+00:00,909316896,906809105,1,Atlia,2016–17 Bangladesh Premier League,/* Rain-affected fixtures */
+2019-08-04T16:41:10+00:00,909315571,909315360,1,Atlia,2019–20 Bangladesh Premier League,/* Draft */
+2019-08-04T16:39:27+00:00,909315360,909315317,1,Atlia,2019–20 Bangladesh Premier League,/* Draft */
+2019-08-04T16:39:05+00:00,909315317,909313490,1,Atlia,2019–20 Bangladesh Premier League,/* Draft */
+2019-08-04T15:40:15+00:00,909307634,909307433,1,Atlia,2019–20 Bangladesh Premier League,/* Draft */
+2019-08-04T15:38:25+00:00,909307433,909307377,1,Atlia,2019–20 Bangladesh Premier League,/* Draft */
+2019-08-04T15:37:54+00:00,909307377,909010363,1,Atlia,2019–20 Bangladesh Premier League,/* Draft */
+2019-08-04T15:32:03+00:00,909306609,909277473,1,Atlia,2018–19 Bangladesh Premier League,/* External links */
+2019-08-04T15:29:20+00:00,909306270,909306196,1,Atlia,2012 Bangladesh Premier League,/* External links */
+2019-08-04T15:28:43+00:00,909306196,909266828,1,Atlia,2012 Bangladesh Premier League,/* External links */
+2019-08-04T09:27:54+00:00,909271189,909270747,1,Atlia,2017–18 Bangladesh Premier League,/* Draft */
+2019-08-04T09:25:40+00:00,909270747,909270559,1,Atlia,2017–18 Bangladesh Premier League,/* Points Table */
+2019-08-04T09:24:31+00:00,909270559,909270421,1,Atlia,2017–18 Bangladesh Premier League,/* Points Table */
+2019-08-04T09:23:31+00:00,909270421,909265544,1,Atlia,2017–18 Bangladesh Premier League,/* Points Table */
+2019-08-04T09:16:19+00:00,909269459,909269299,1,Atlia,2018–19 Bangladesh Premier League,/* Venues */
+2019-08-04T09:14:25+00:00,909269299,909169702,1,Atlia,2018–19 Bangladesh Premier League,/* Venues */
+2019-08-04T08:42:56+00:00,909266828,909266706,1,Atlia,2012 Bangladesh Premier League,/* Sponsors */
+2019-08-04T08:41:15+00:00,909266706,909266585,1,Atlia,2012 Bangladesh Premier League,/* Sponsors */
+2019-08-04T08:39:31+00:00,909266585,907225267,1,Atlia,2012 Bangladesh Premier League,/* References */
+2019-08-04T08:25:39+00:00,909265544,909265479,1,Atlia,2017–18 Bangladesh Premier League,/* Draft */
+2019-08-04T08:24:50+00:00,909265479,909265392,1,Atlia,2017–18 Bangladesh Premier League,/* Draft */
+2019-08-04T08:23:17+00:00,909265392,909265270,1,Atlia,2017–18 Bangladesh Premier League,/* Draft */
+2019-08-04T08:22:08+00:00,909265270,909265146,1,Atlia,2017–18 Bangladesh Premier League,/* Draft */
+2019-08-04T08:20:48+00:00,909265146,909265087,1,Atlia,2017–18 Bangladesh Premier League,/* Draft */
+2019-08-04T08:20:11+00:00,909265087,909264597,1,Atlia,2017–18 Bangladesh Premier League,/* Draft */
+2019-08-04T08:13:47+00:00,909264597,909264398,1,Atlia,2017–18 Bangladesh Premier League,/* Phase 1 (Sylhet) */
+2019-08-04T08:11:22+00:00,909264398,909168492,1,Atlia,2017–18 Bangladesh Premier League,/* Phase 1 (Sylhet) */
+2019-08-03T16:02:56+00:00,909168492,902355521,1,Atlia,2017–18 Bangladesh Premier League,/* Draft */
+2019-08-03T15:53:28+00:00,909167399,908972965,1,Atlia,2018–19 Bangladesh Premier League,/* Draft and squads */
+2019-08-01T11:30:50+00:00,908846391,907417765,1,Atlia,Template talk:User sandbox,/* Md Ariful Islam */ new section
+2019-08-01T11:06:30+00:00,908844060,907562326,1,Atlia,2018–19 Bangladesh Premier League,/* References */
+2019-08-01T11:01:24+00:00,908843590,908843375,1,Atlia,2019–20 Bangladesh Premier League,
+2019-08-01T10:59:20+00:00,908843375,908843085,1,Atlia,2019–20 Bangladesh Premier League,
+2019-08-01T10:56:07+00:00,908843085,908843037,1,Atlia,2019–20 Bangladesh Premier League,
+2019-08-01T10:55:34+00:00,908843037,908842816,1,Atlia,2019–20 Bangladesh Premier League,/* References */
+2019-08-01T10:52:43+00:00,908842816,908840624,1,Atlia,2019–20 Bangladesh Premier League,/* References */
+2019-07-31T12:15:09+00:00,908703008,908702476,1,Atlia,2019–20 Bangladesh Premier League,BPL 2019 Schedule
+2019-07-31T12:09:45+00:00,908702476,908701432,1,Atlia,2019–20 Bangladesh Premier League,/* References */
+2019-07-31T12:00:05+00:00,908701432,908701045,1,Atlia,2019–20 Bangladesh Premier League,
+2019-07-31T11:56:13+00:00,908701045,908676030,1,Atlia,2019–20 Bangladesh Premier League,/* References */
+2019-10-25T13:26:44+00:00,922968418,920478648,1,Hafsa6g,Family planning,/* India */
+2019-10-24T06:02:51+00:00,922769730,922730434,1,Hafsa6g,2019 Abu Dhabi T10,/* Squads */
+2019-10-23T07:39:23+00:00,922618119,922536600,1,Hafsa6g,War crime,/* Country listings */
+2019-10-23T07:37:28+00:00,922617964,917192621,1,Hafsa6g,International Crimes Tribunal (Bangladesh),/* Background */
+2019-10-23T06:40:42+00:00,922613388,920671305,1,Hafsa6g,2018 Bangladeshi general election,/* Results */
+2019-10-23T06:39:52+00:00,922613313,922189810,1,Hafsa6g,Electronic voting,/* India */
+2019-10-23T06:38:54+00:00,922613252,921718254,1,Hafsa6g,Electronic voting in India,/* Introduction */
+2019-10-23T04:56:22+00:00,922605133,919522679,1,Hafsa6g,Mohammad Saifuddin,/* International career */
+2019-10-22T07:21:58+00:00,922457364,915544324,1,Hafsa6g,Begging,/* India */
+2019-10-22T06:01:28+00:00,922451577,921553725,1,Hafsa6g,Bangladesh drug war,/* Background */
+2019-10-22T06:00:49+00:00,922451540,922143746,1,Hafsa6g,Addiction,/* Alcohol addiction */
+2019-10-22T05:59:16+00:00,922451409,919795739,1,Hafsa6g,Drug rehabilitation,/* Types of treatment */
+2019-10-22T03:51:33+00:00,922437936,922179340,1,Hafsa6g,2019 Abu Dhabi T10,/* opening ceremony */
+2019-10-13T04:12:02+00:00,920987093,919924680,1,Hafsa6g,2019–20 Bangladesh Premier League,/* Changes of rules */
+2019-10-09T05:33:40+00:00,920347037,915066560,1,Hafsa6g,Adult education,/* Benefits */
+2019-10-09T03:31:57+00:00,920337684,916658806,1,Hafsa6g,Female education,/* Female education and the environment */
+2019-10-09T03:22:50+00:00,920336940,917589531,1,Hafsa6g,Human nutrition,/* Disease */
+2019-10-07T08:07:45+00:00,920027404,903765122,1,Hafsa6g,Cricket in Bangladesh,/* Competitions */
+2019-10-07T03:31:48+00:00,919999686,915449129,1,Hafsa6g,Clothing industry,/* Bangladesh */
+2019-10-07T03:29:45+00:00,919999429,919529191,1,Hafsa6g,Textile industry in Bangladesh,/* Rana Plaza collapse 2013 */
+2019-10-06T06:28:16+00:00,919852387,918746409,1,Hafsa6g,2019–20 Bangladesh Premier League,/* Introduction */
+2019-10-06T03:25:37+00:00,919835649,918914260,1,Hafsa6g,Culture of Bangladesh,"/* Music, dance, drama */"
+2019-09-30T03:17:00+00:00,918740208,918369849,1,Hafsa6g,2019–20 Bangladesh Premier League,/* opening ceremony */
+2019-09-15T08:16:05+00:00,915780851,915780671,1,Hafsa6g,Bangladesh Premier League,/* Draft system */Dead Link
+2019-09-15T08:14:22+00:00,915780671,915336421,1,Hafsa6g,Bangladesh Premier League,/* Draft system */Dead Link
+2019-09-09T10:48:50+00:00,914785292,908676803,1,Hafsa6g,Icon player,/* External links */Bangladesh Premier League
+2019-09-09T10:23:37+00:00,914782318,913577993,1,Hafsa6g,2012–13 Bangladesh Premier League,/* External links */Bangladesh Premier League
+2019-10-25T16:48:27+00:00,922993215,922985709,1,Usha35,2019 Abu Dhabi T10,/* Opening ceremony */
+2019-10-25T05:16:12+00:00,922923767,922923570,1,Usha35,2019–20 Bangladesh Premier League,/* Venues */
+2019-10-25T05:13:43+00:00,922923570,922923488,1,Usha35,2019–20 Bangladesh Premier League,/* Draft and squads */
+2019-10-25T05:13:06+00:00,922923488,922727822,1,Usha35,2019–20 Bangladesh Premier League,/* Draft and squads */
+2019-10-16T16:55:04+00:00,921589196,919242384,1,Usha35,Dowry,/* Bangladesh */
+2019-10-12T15:14:42+00:00,920894273,915625022,1,Usha35,Blood donation in Bangladesh,/* Badhan */
+2019-10-08T12:59:45+00:00,920233774,920233672,1,Usha35,National Cricket League,/* History and format */
+2019-10-08T12:58:53+00:00,920233672,920233514,1,Usha35,National Cricket League,/* History and format */
+2019-10-08T12:57:36+00:00,920233514,909432322,1,Usha35,National Cricket League,/* History and format */
+2016-10-17T19:13:27+00:00,744838549,744837590,1,Usha35,2016–17 Bangladesh Premier League,
+2016-10-17T19:07:04+00:00,744837418,744837163,1,Usha35,2016–17 Bangladesh Premier League,
+2016-10-17T19:05:34+00:00,744837163,744836910,1,Usha35,2016–17 Bangladesh Premier League,
+2016-10-17T19:01:20+00:00,744836469,744746156,1,Usha35,2016–17 Bangladesh Premier League,
+2017-08-30T09:07:34+00:00,797984813,797984273,0,CambridgeBayWeather,2012 Bangladesh Premier League,Fix
+2017-04-06T08:31:54+00:00,774099226,774050714,0,A Simple Human,2012 Bangladesh Premier League,
+2019-02-11T13:25:45+00:00,882808274,882808215,0,ImSonyR9,2012 Bangladesh Premier League,
+2019-03-08T06:25:53+00:00,886741802,886741635,0,Justanothersgwikieditor,2012 Bangladesh Premier League,added see also section
+2019-04-16T10:31:01+00:00,892708488,886741969,0,InternetArchiveBot,2012–13 Bangladesh Premier League,Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta14)
+2019-05-23T20:01:23+00:00,898471914,892512878,0,Frietjes,2012 Bangladesh Premier League,expand per [[Wikipedia:Templates_for_discussion/Log/2019_April_10#Template:Cr-PSL|tfd]]
+2017-02-23T19:58:39+00:00,767070939,767070830,0,CAPTAIN RAJU,2012 Bangladesh Premier League,added [[Category:2012 in Bangladeshi cricket]] using [[WP:HC|HotCat]]
+2016-11-07T04:43:57+00:00,748240814,748080475,0,Ibrahim Husain Meraj,2012 Bangladesh Premier League,/* Knockout stage */
+2018-10-23T06:56:30+00:00,865328425,865327761,0,Marchjuly,2012 Bangladesh Premier League,"Removed [[:WP:NFC|non-free file]] because its use in this article does not comply with [[:WP:NFCCP|Wikipedia's non-free content use policy]]. See [[:WP:NFCC#3]], [[:WP:NFCC#10c]] as well as items 14 and 17 of [[:WP:NFC#UUI]]"
+2018-01-15T16:51:22+00:00,820613329,807376355,0,Tassedethe,2012–13 Bangladesh Premier League,v1.43 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Asif Ahmed]]
+2016-11-28T15:28:01+00:00,751925442,751227743,0,Pratyya Ghosh,2012 Bangladesh Premier League,/* Final */ main one
+2019-05-23T20:29:48+00:00,898475865,898475550,0,Frietjes,2012–13 Bangladesh Premier League,/* Playoff stage */
+2018-03-26T15:16:03+00:00,832528366,820613329,0,39.57.43.60,2012–13 Bangladesh Premier League,/* Teams and standings */
+2017-08-16T06:56:13+00:00,795751198,793805576,0,Lugnuts,2016–17 Bangladesh Premier League,
+2018-10-16T02:22:56+00:00,864252428,863973315,0,103.91.232.1,2012–13 Bangladesh Premier League,
+2017-10-28T02:46:06+00:00,807461361,807460672,0,Mahir M,2016–17 Bangladesh Premier League,/* Phase 3 */
+2017-04-06T08:27:43+00:00,774098886,767902688,0,A Simple Human,2012–13 Bangladesh Premier League,
+2016-11-15T14:35:34+00:00,749652316,749648153,0,J. M.,2012–13 Bangladesh Premier League,Reverted edits by [[Special:Contribs/Mohsinworld|Mohsinworld]] ([[User talk:Mohsinworld|talk]]) to last version by Rayatbiz
+2017-09-24T01:19:27+00:00,802104629,799341694,0,CommonsDelinker,2016–17 Bangladesh Premier League,"Removing [[:c:File:BPL_Official_Logo.png|BPL_Official_Logo.png]], it has been deleted from Commons by [[:c:User:Josve05a|Josve05a]] because: Copyright violation; see [[:c:Commons:Licensing|]]: Non-free logo (above threshold of originality)."
+2017-10-04T01:17:12+00:00,803690794,802104629,0,Mahir M,2016–17 Bangladesh Premier League,
+2017-01-23T07:08:24+00:00,761493846,753863356,0,Miszatomic,2015–16 Bangladesh Premier League,Removed merge tag from July 2016. Stale merge tag with clear opposition [[Talk:2015 Bangladesh Premier League player auction]]
+2018-11-02T08:02:00+00:00,866897349,864452801,0,45.124.170.222,2012–13 Bangladesh Premier League,/* Teams and standings */
+2019-01-03T06:59:03+00:00,876591990,871029639,0,A Simple Human,2015–16 Bangladesh Premier League,
+2018-10-20T07:01:22+00:00,864895014,864451476,0,103.91.232.1,2016–17 Bangladesh Premier League,/* Venues */
+2019-03-08T06:27:58+00:00,886741969,886650310,0,Justanothersgwikieditor,2012–13 Bangladesh Premier League,/* See also */ added related article
+2019-02-08T17:13:22+00:00,882375639,881253121,0,A Simple Human,2012–13 Bangladesh Premier League,
+2017-08-04T02:17:06+00:00,793805576,793224670,0,Cmr08,2016–17 Bangladesh Premier League,/* Player Transfers */ fix header per manual of style
+2019-01-03T06:40:03+00:00,876590200,875000169,0,A Simple Human,2016–17 Bangladesh Premier League,
+2018-01-18T15:32:23+00:00,821126787,820211171,0,Lugnuts,2017–18 Bangladesh Premier League,
+2019-03-31T19:09:45+00:00,890339349,889261529,0,105.12.7.136,2017–18 Bangladesh Premier League,
+2017-06-29T11:11:09+00:00,788086398,787907378,0,Qed237,2016–17 Bangladesh Premier League,Reverted 4 edits by [[Special:Contributions/Houndground|Houndground]] ([[User talk:Houndground|talk]]) to last revision by Khandaans. ([[WP:TW|TW]])
+2017-02-28T16:41:59+00:00,767901678,767510567,0,A Simple Human,2016–17 Bangladesh Premier League,
+2016-11-22T15:59:29+00:00,750971602,750971227,0,A Simple Human,2016–17 Bangladesh Premier League,/* Teams and standings */
+2017-01-25T09:04:58+00:00,761875173,760240772,0,DrStrauss,2017–18 Bangladesh Premier League,"cite-tagging, added Empty section (7) tag using [[Project:AWB|AWB]]"
+2018-10-17T08:45:34+00:00,864451167,863737012,0,ImSonyR9,2017–18 Bangladesh Premier League,/* Venues */
+2017-10-24T12:16:02+00:00,806829631,806806145,0,A Simple Human,2017–18 Bangladesh Premier League,
+2019-01-30T12:40:24+00:00,880938627,880938597,0,A Simple Human,2016–17 Bangladesh Premier League,
+2019-08-05T14:29:52+00:00,909451192,909271189,0,Velella,2017–18 Bangladesh Premier League,Reverted edits by [[Special:Contribs/Atlia|Atlia]] ([[User talk:Atlia|talk]]) to last version by A Simple Human
+2018-05-19T04:14:29+00:00,841945410,837086593,0,A Simple Human,2017–18 Bangladesh Premier League,/* Teams and their icons */
+2017-03-24T10:13:31+00:00,771932991,769290039,0,BrownHairedGirl,2017–18 Bangladesh Premier League,BrownHairedGirl moved page [[2017-18 Bangladesh Premier League]] to [[2017–18 Bangladesh Premier League]]: use endash
+2017-03-08T16:58:06+00:00,769290039,769289453,0,119.30.47.118,2017–18 Bangladesh Premier League,/* Play-offs */
+2017-09-13T07:39:33+00:00,800393241,800393117,0,103.85.241.42,2017–18 Bangladesh Premier League,/* Icons & Their Teams */
+2019-06-18T07:49:43+00:00,902355521,898475973,0,A Simple Human,2017–18 Bangladesh Premier League,
+2019-01-03T06:39:32+00:00,876590152,874976019,0,A Simple Human,2017–18 Bangladesh Premier League,
+2018-06-15T09:25:58+00:00,845960064,845388990,0,ImSonyR9,2017–18 Bangladesh Premier League,/* Venues */
+2017-09-21T00:55:03+00:00,801656079,801593839,0,Mahir M,2017–18 Bangladesh Premier League,/* Player draft */
+2017-07-07T08:04:27+00:00,789427909,789427753,0,A Simple Human,2017–18 Bangladesh Premier League,
+2017-05-17T08:21:19+00:00,780802745,780620206,0,ShakespeareFan00,2017–18 Bangladesh Premier League,v1.42b - [[WP:WCW]] project (DEFAULTSORT missing for titles with special letters)
+2019-02-13T08:05:01+00:00,883099589,883093974,0,A Simple Human,2017–18 Bangladesh Premier League,Undid revision 883093974 by [[Special:Contributions/103.243.141.38|103.243.141.38]] ([[User talk:103.243.141.38|talk]])  ([[w:en:User:FR30799386/undo|mobileUndo]])
+2018-10-08T10:25:07+00:00,863043704,863024254,0,Lugnuts,2017–18 Bangladesh Premier League,Lugnuts moved page [[2017 Bangladesh Premier League]] to [[2017–18 Bangladesh Premier League]] over redirect: rv
+2018-04-12T16:25:53+00:00,836086492,835638925,0,Akuindo,2018 Bangladeshi general election,
+2018-07-10T07:27:42+00:00,849621864,849605336,0,Lugnuts,2018–19 Bangladesh Premier League,Undid revision 849605336 by [[Special:Contributions/117.228.53.254|117.228.53.254]] ([[User talk:117.228.53.254|talk]])
+2019-05-23T20:30:47+00:00,898476008,898473055,0,Frietjes,2018–19 Bangladesh Premier League,/* Playoffs */
+2019-05-08T11:16:47+00:00,896112114,895193078,0,Lugnuts,2018–19 Bangladesh Premier League,
+2018-05-06T06:17:35+00:00,839865814,839854370,0,Lugnuts,2018–19 Bangladesh Premier League,Undid revision 839854370 by [[Special:Contributions/39.57.60.75|39.57.60.75]] ([[User talk:39.57.60.75|talk]])
+2018-09-09T10:12:52+00:00,858750307,858748409,0,Lugnuts,2018–19 Bangladesh Premier League,
+2017-11-24T05:44:36+00:00,811820375,811392622,0,108.4.244.236,2018 Bangladeshi general election,/* Coalitions and alliances */
+2019-10-01T19:26:47+00:00,919086952,919086430,0,A Simple Human,2019 Abu Dhabi T10,/* Squads */
+2019-05-29T15:20:30+00:00,899365072,899361280,0,Lugnuts,2019–20 Bangladesh Premier League,Undid revision 899361280 by [[Special:Contributions/2.49.15.109|2.49.15.109]] ([[User talk:2.49.15.109|talk]])
+2019-10-06T17:42:17+00:00,919924680,919852387,0,A Simple Human,2019–20 Bangladesh Premier League,Undid revision 919852387 by [[Special:Contributions/Hafsa6g|Hafsa6g]] ([[User talk:Hafsa6g|talk]])  ([[w:en:User:DannyS712/Undo|mobileUndo]] v2.0.0)
+2019-06-03T08:01:02+00:00,900074947,900073782,0,Lugnuts,2019–20 Bangladesh Premier League,Undid revision 900073782 by [[Special:Contributions/105.0.6.170|105.0.6.170]] ([[User talk:105.0.6.170|talk]])
+2019-07-22T22:42:48+00:00,907441711,907441678,0,A Simple Human,2019–20 Bangladesh Premier League,
+2019-05-21T07:56:42+00:00,898080308,898061146,0,Lugnuts,2019–20 Bangladesh Premier League,
+2019-09-19T22:16:04+00:00,916641859,916641807,0,A Simple Human,2019–20 Bangladesh Premier League,
+2019-05-13T07:35:11+00:00,896851130,896839777,0,Lugnuts,2019–20 Bangladesh Premier League,source?
+2019-09-30T04:02:05+00:00,918746409,918740208,0,A Simple Human,2019–20 Bangladesh Premier League,Undid revision 918740208 by [[Special:Contributions/Hafsa6g|Hafsa6g]] ([[User talk:Hafsa6g|talk]])  ([[w:en:User:DannyS712/Undo|mobileUndo]] v2.0.0)
+2019-09-05T22:18:37+00:00,914217004,914125808,0,A Simple Human,2019–20 Bangladesh Premier League,Reverted to revision 912554591 by [[Special:Contributions/A Simple Human|A Simple Human]] ([[User talk:A Simple Human|talk]]) ([[WP:TW|TW]])
+2018-06-18T03:25:56+00:00,846340063,846323151,0,FrederickII,Adult education,
+2018-03-31T10:31:11+00:00,833407839,831016544,0,Allforrous,Addiction,/* External links */ Commonscat template.
+2018-03-18T07:03:38+00:00,831016544,831016519,0,37.39.169.115,Addiction,
+2017-12-08T14:00:15+00:00,814384865,810250851,0,192.140.252.232,Bangladesh Civil Service,
+2019-09-18T18:55:49+00:00,916403480,916403297,0,Nazmul.dubd,Bangladesh Civil Service,/* Head of the Civil Service */
+2017-09-10T06:08:27+00:00,799851149,799630467,0,Pratik89Roy,Bangladesh Cricket League,/* History */
+2019-01-28T02:49:53+00:00,880563557,875815346,0,KolbertBot,Bangladesh Cricket League,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2018-02-16T20:18:54+00:00,826030891,826030726,0,NerudaPoet,Adult education,/* Principles */ added wikilink
+2018-04-28T00:04:00+00:00,838586637,838582936,0,Sammyrice,Bangladesh Cricket League,/* External links */ updated link
+2019-04-08T20:55:10+00:00,891576435,880563557,0,Worldbruce,Bangladesh Cricket League,"/* Statistics by team */clean up, [[WP:AWB/T|typo(s) fixed]]: ,  → ,"
+2019-09-08T12:07:56+00:00,914616759,912667669,0,Doc James,Bangladesh Cricket League,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Atlia|Atlia]] ([[User talk:Atlia|talk]]) ([[WP:TW|TW]])
+2017-04-23T13:28:19+00:00,776818070,769411141,0,Harrias,Bangladesh Cricket League,marking CricketArchive links as subscription using [[Project:AWB|AWB]]
+2019-05-13T13:33:15+00:00,896887395,891576435,0,Monkbot,Bangladesh Cricket League,[[User:Monkbot/task_13: remove replace deprecated subscription registration parameters|Task 13]]: Fix deprecated |subscription= in cs1|2 templates;
+2018-11-11T12:56:26+00:00,868319640,868319552,0,A Simple Human,Bangladesh Premier League,
+2019-02-02T16:31:20+00:00,881440571,881440294,0,A Simple Human,Bangladesh Premier League,/* Team performances[1][2] */
+2017-12-21T07:34:04+00:00,816426191,816358838,0,A Simple Human,Bangladesh Premier League,
+2019-09-29T00:35:30+00:00,918505298,915849267,0,Mitch Ames,Bangladesh Premier League,"Fix cite warning: Italic or bold markup not allowed in: publisher, website, work"
+2019-02-14T13:09:18+00:00,883284308,883246242,0,ImSonyR9,Bangladesh Premier League,/* Broadcasters */
+2017-01-13T18:03:50+00:00,759883451,759856233,0,A Simple Human,Bangladesh Premier League,
+2019-04-06T17:53:33+00:00,891247265,891245904,0,KylieTastic,Bangladesh Premier League,Reverted 1 edit by [[Special:Contributions/2401:4900:16C3:FDA5:595A:33E2:39EC:8C25|2401:4900:16C3:FDA5:595A:33E2:39EC:8C25]] ([[User talk:2401:4900:16C3:FDA5:595A:33E2:39EC:8C25|talk]]) to last revision by A Simple Human ([[WP:TW|TW]])
+2019-07-29T15:04:47+00:00,908411117,908410765,0,A Simple Human,Bangladesh Premier League,/* League organisation */
+2018-10-11T05:07:04+00:00,863500500,863088642,0,103.60.175.15,Bangladesh Premier League,/* League organisation */
+2018-09-08T09:07:42+00:00,858596910,858595598,0,A Simple Human,Bangladesh Premier League,/* League organisation */
+2019-06-26T06:46:27+00:00,903532298,902647691,0,45.120.114.144,Bangladesh Premier League,/* League organisation */
+2017-07-14T14:22:09+00:00,790555001,789427158,0,InternetArchiveBot,Bangladesh Premier League,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.4)
+2016-11-08T16:53:52+00:00,748520760,748494632,0,A Simple Human,Bangladesh Premier League,/* Overall records */
+2018-06-17T21:56:58+00:00,846309578,844529553,0,103.49.168.2,Bangladesh Premier League,/* Overall records */
+2019-10-10T06:37:12+00:00,920508201,918505298,0,InternetArchiveBot,Bangladesh Premier League,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2018-03-06T15:34:58+00:00,829087181,827784397,0,2402:8100:20BD:A9A8:B32F:F2F6:4F6B:E778,Bangladesh Premier League,/* Broadcasters */
+2018-01-02T19:55:02+00:00,818301964,817400279,0,A Simple Human,Bangladesh Premier League,/* Broadcasters */
+2017-09-14T17:36:40+00:00,800620174,800619480,0,A Simple Human,Bangladesh Premier League,/* League organisation */
+2018-06-05T14:25:29+00:00,844529553,843000588,0,Vikram maingi,Bangladesh Premier League,
+2016-11-21T17:17:33+00:00,750756176,750661010,0,MauqC,Bangladesh Premier League,
+2018-10-28T16:03:30+00:00,866148461,865815166,0,A Simple Human,Bangladesh Premier League,/* League organisation */
+2019-06-20T08:53:25+00:00,902647691,902356596,0,45.120.114.144,Bangladesh Premier League,/* Current teams */
+2018-10-19T05:51:11+00:00,864746721,864433488,0,ImSonyR9,Bangladesh Premier League,/* Tournament results */
+2019-01-09T01:35:12+00:00,877499255,874554336,0,2A0A:A541:8FA3:0:1D6B:941C:4076:5F1F,Bangladesh Railway,
+2019-05-23T20:05:00+00:00,898472403,896116305,0,Frietjes,Bangladesh Premier League,expand per [[Wikipedia:Templates_for_discussion/Log/2019_April_10#Template:Cr-PSL|tfd]]
+2017-07-26T18:46:05+00:00,792473176,792221562,0,PiratePablo,Bangladesh Railway,/* Classes of trains */ This comma is unnecessary
+2019-01-18T12:32:55+00:00,879014321,879013796,0,A Simple Human,Bangladesh Premier League,
+2018-06-28T16:34:14+00:00,847910536,846309578,0,86.24.169.65,Bangladesh Premier League,"/* Tournament results */ The wrong scores were given for the 2012-13 final, though the scorecard link was to the correct match."
+2017-04-28T15:42:59+00:00,777669962,774276016,0,MUKTADIR,Bangladesh University of Engineering and Technology,/* See also */
+2017-08-30T09:58:51+00:00,797990153,797989668,0,Jim1138,Bangladesh Railway,Reverted edits by [[Special:Contribs/121.181.198.200|121.181.198.200]] ([[User talk:121.181.198.200|talk]]) to last version by StephRJ
+2016-11-25T09:17:35+00:00,751385724,750742454,0,Rakibulbappy,Bangladesh University of Engineering and Technology,/* Notable alumni */
+2019-01-27T08:46:39+00:00,880416675,879050483,0,KolbertBot,Bangladesh drug war,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2018-02-03T09:37:07+00:00,823776318,823475337,0,202.134.9.158,Bangladesh national cricket team,"/* External links */ Added links, added External link [incld. facebook and twitter fan page link]"
+2017-06-22T16:39:25+00:00,786963817,786963729,0,Gihan Jayaweera,Bangladesh national cricket team,/* Twenty20 Internationals */
+2018-05-06T16:57:53+00:00,839928400,839224973,0,Hairy Dude,Bangladesh national cricket team,grammar
+2017-03-16T18:26:42+00:00,770645205,770387106,0,Vikram maingi,Bangladesh national cricket team,/* Under Chandika Hathurusingha (2014–Current) */
+2018-03-31T11:11:54+00:00,833411912,833411260,0,Raiyan HA,Bangladesh national cricket team,/* Current squad */
+2019-03-18T14:40:09+00:00,888341595,887837367,0,Wegesrand,Bangladesh national cricket team,Fixed placement of adverb.
+2017-12-06T21:36:59+00:00,814095334,814093797,0,2601:1C0:8801:47A0:D085:8C3D:10FA:C674,Bangladesh national cricket team,/* Under Jamie Siddons (2007–2011) */
+2019-09-29T00:35:39+00:00,918505330,918262012,0,Mitch Ames,Bangladesh national cricket team,"Fix cite warning: Italic or bold markup not allowed in: publisher, website, work"
+2018-05-19T18:05:44+00:00,842022860,841946514,0,Gotitbro,Begging,Undid revision 841946514 by [[Special:Contributions/2607:FEA8:BCE0:690:6D4A:E2FC:BEAA:BBA0|2607:FEA8:BCE0:690:6D4A:E2FC:BEAA:BBA0]] ([[User talk:2607:FEA8:BCE0:690:6D4A:E2FC:BEAA:BBA0|talk]])
+2018-06-13T22:30:45+00:00,845756655,844574716,0,Yamaguchi先生,Bangladesh Railway,Reverted edits by [[Special:Contribs/43.231.22.62|43.231.22.62]] ([[User talk:43.231.22.62|talk]]) to last version by EdmundT
+2017-03-16T17:56:23+00:00,770641208,770641064,0,DMacks,Begging,it's cited Undid revision 770641064 by [[Special:Contributions/Nikhil.zacha|Nikhil.zacha]] ([[User talk:Nikhil.zacha|talk]])
+2018-12-04T15:35:43+00:00,871981890,857077820,0,Sifat Amin,Blood donation in Bangladesh,
+2019-04-26T15:42:54+00:00,894245761,871981890,0,Worldbruce,Blood donation in Bangladesh,clean up
+2019-08-27T18:54:18+00:00,912767230,912668596,0,SR Alamgir Khan,Chattogram Challengers,/* Records */
+2018-11-18T08:33:40+00:00,869390633,869390593,0,Lugnuts,Chattogram Challengers,Undid revision 869390593 by [[Special:Contributions/39.44.26.53|39.44.26.53]] ([[User talk:39.44.26.53|talk]])
+2016-11-09T09:30:01+00:00,748633541,748584240,0,ClemRutter,Clothing industry,/* top */ for for
+2016-12-29T21:59:46+00:00,757295453,748633541,0,BG19bot,Clothing industry,/* See also */Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility/LISTGAP]]
+2018-02-24T21:39:36+00:00,827463451,825659490,0,Azcolvin429,Children's rights,
+2017-05-04T15:11:32+00:00,778666891,778317586,0,118.179.151.13,Comilla Victorians,
+2019-04-18T14:00:16+00:00,893028412,887898806,0,Newone,Children's rights,/* External links */
+2019-03-17T15:41:06+00:00,888196059,887838402,0,103.126.148.59,Comilla Victorians,
+2018-11-08T01:02:54+00:00,867789418,866896597,0,Dl2000,Comilla Victorians,ordinals not normally used for dates ([[WP:DATESNO]])
+2018-10-12T08:06:33+00:00,863674181,863665570,0,103.60.175.15,Comilla Victorians,
+2019-02-06T17:06:24+00:00,882070098,877711555,0,Aizaz Arif,Cricket in Bangladesh,
+2019-04-08T01:20:22+00:00,891450194,889557666,0,103.230.107.2,Cricket in Bangladesh,
+2019-08-08T17:30:43+00:00,909948430,909760910,0,86.96.68.163,Culture of Bangladesh,
+2019-02-27T12:27:23+00:00,885342223,884911134,0,223.179.210.220,Culture of Bangladesh,
+2018-10-31T11:50:02+00:00,866608236,866607976,0,BrownHairedGirl,Dhaka International Trade Fair,Added {{[[:Template:advert|advert]]}} and {{[[:Template:peacock|peacock]]}} tags to article ([[WP:TW|TW]])
+2018-07-07T21:55:57+00:00,849281329,839265645,0,Dl2000,Dhaka International Trade Fair,ordinals not normally used for dates ([[WP:DATESNO]])
+2017-05-17T08:17:27+00:00,780802337,772651240,0,Mean as custard,Dhaka International Trade Fair,revert to less blatantly promotional version
+2018-01-22T21:41:14+00:00,821828864,821828855,0,ClueBot NG,Dhaka International Trade Fair,"Reverting possible vandalism by [[Special:Contribs/45.123.41.166|45.123.41.166]] to version by Grutness. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3256614) (Bot)"
+2018-10-08T14:40:54+00:00,863070504,863053130,0,Spike 'em,Dhaka Premier Division Cricket League,archive link
+2018-04-06T22:19:25+00:00,835156807,834521987,0,Sammyrice,Dhaka Premier Division Cricket League,clarification
+2018-09-15T21:04:53+00:00,859717575,859684476,0,Sammyrice,Dhaka Premier Division Cricket League,Undid revision 859684476 by [[Special:Contributions/45.124.171.65|45.124.171.65]] ([[User talk:45.124.171.65|talk]])it is often known by the shorter version of the name
+2017-05-08T23:59:50+00:00,779447338,776589047,0,Sammyrice,Dhaka Premier Division Cricket League,new record score
+2019-02-23T23:53:28+00:00,884784319,884403338,0,2001:8003:AC35:FB00:39CF:E366:3044:91ED,Dowry,
+2017-09-09T06:04:25+00:00,799682007,798887184,0,KolbertBot,Dhaka Premier Division Cricket League,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2019-08-05T11:40:12+00:00,909432355,909430102,0,A Simple Human,Dhaka Premier Division Cricket League,Undid revision 909430102 by [[Special:Contributions/Atlia|Atlia]] ([[User talk:Atlia|talk]])  ([[w:en:User:DannyS712/Undo|mobileUndo]] v2.0.0)
+2017-04-20T12:39:08+00:00,776344019,776296795,0,PriceDL,Drug rehabilitation,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/BMilm5|BMilm5]] ([[User talk:BMilm5|talk]]): Not supported by citation. Please see [[WP:MEDRS]]. ([[WP:TW|TW]])
+2017-01-05T15:31:24+00:00,758457740,758451750,0,Jevansen,Durdanto Dhaka,Reverted edits by [[Special:Contribs/103.25.248.192|103.25.248.192]] ([[User talk:103.25.248.192|talk]]) to last version by Materialscientist
+2018-07-04T09:02:17+00:00,848786940,847051465,0,Verbum Veritas,Drug rehabilitation,See also list re-arranged
+2019-01-07T06:03:12+00:00,877204378,876948538,0,59.152.98.230,Durdanto Dhaka,/* Sponsorship */
+2018-03-16T02:45:02+00:00,830645476,828115154,0,A Simple Human,Durdanto Dhaka,
+2017-12-12T14:42:41+00:00,815060503,814830284,0,202.134.13.132,Durdanto Dhaka,/* Season two */
+2019-05-12T00:27:13+00:00,896651338,896649042,0,GliderMaven,Electronic voting,/* Documented problems with electronic voting */ copied material from [[electronic voting in Belgium]]; see article for list of contributors
+2018-04-03T05:03:58+00:00,833953246,831537754,0,KolbertBot,Electronic voting,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2019-09-19T02:24:53+00:00,916470334,914837386,0,Monkbot,Dowry,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (26×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2019-09-22T12:43:24+00:00,917139849,915284870,0,Tom.Reding,Electronic voting in India,[[:Category:CS1 errors: deprecated parameters]]: migrate 8/8 |dead-url= to |url-status=; minor cleanup; [[WP:GenFixes]] on
+2019-02-06T13:51:07+00:00,882047164,882046506,0,MrOllie,Electronic voting in India,Reverted 1 edit by [[Special:Contributions/157.44.109.162|157.44.109.162]] ([[User talk:157.44.109.162|talk]]) to last revision by Bradv ([[WP:TW|TW]])
+2017-12-14T01:04:02+00:00,815299525,814971991,0,131.194.112.62,Family planning,Took away the incoherent text at the beginning.
+2018-10-27T00:58:49+00:00,865914925,861270353,0,SheriffIsInTown,Family planning,Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2017-08-04T13:41:45+00:00,793874134,792230344,0,47.11.12.237,Female education,Replaced a word
+2018-07-19T13:51:29+00:00,851014203,849115232,0,43.242.176.104,Female education,
+2019-05-22T10:40:31+00:00,898247494,898229984,0,AnomieBOT,Female education,"Rescuing orphaned refs (""web.a.ebscohost.com"" from rev 896791773)"
+2017-01-04T16:33:12+00:00,758297044,750200331,0,John of Reading,Government College of Applied Human Science,"/* Departments */Typo fixing, replaced: econmics → economics using [[Project:AWB|AWB]]"
+2017-11-06T21:19:46+00:00,809053211,809052956,0,Koavf,Greenhouse effect,/* External links */
+2018-12-03T18:17:16+00:00,871827953,865467175,0,203.78.146.26,Government College of Applied Human Science,
+2017-10-08T04:35:41+00:00,804314010,804202918,0,Aleman1993,HIV/AIDS,Made a correction.
+2019-01-29T19:27:28+00:00,880833664,880341859,0,Citation bot,HIV/AIDS,"Alter: template type, first. Add: hdl, chapter-url, pmc, doi, year, bibcode, pages, issue, volume, journal, date, author pars. 1-1. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:NessieVL|NessieVL]]"
+2018-10-11T19:30:43+00:00,863593985,863591198,0,AnomieBOT,Greenhouse effect,Dating maintenance tags: {{Dead link}}
+2016-10-30T06:38:23+00:00,746897560,745484781,0,49.206.113.91,Human nutrition,/* Carbohydrates */
+2019-07-12T10:02:23+00:00,905916265,901711402,0,Citation bot,Human nutrition,Alter: isbn. Add: author pars. 1-1. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Marianne Zimmerman]]
+2018-10-19T12:50:35+00:00,864784626,835789641,0,Khestwol,Icon player,
+2017-11-12T06:22:11+00:00,809903569,809298917,0,2405:204:B086:6D33:0:0:24B5:B8A0,Icon player,Info
+2018-09-16T17:53:12+00:00,859848081,849725019,0,Jprg1966,International Crimes Tribunal (Bangladesh),/* Reactions */
+2019-06-30T18:27:00+00:00,904213852,898646272,0,BrownHairedGirl,International Crimes Tribunal (Bangladesh),"[[WP:ELLINKS]] (1/1): [[Bangladeshi general election, 2008]] → [[2008 Bangladeshi general election]];"
+2017-12-04T16:00:26+00:00,813658479,813658040,0,113.21.228.134,Jagannath University,/* List of vice chancellors */KS Saurov
+2019-03-09T03:03:23+00:00,886876204,886876148,0,AntiCedros,Female education,Reverted 1 edit by [[Special:Contributions/2405:204:41A3:94C0:6CAA:BC20:C692:8F30|2405:204:41A3:94C0:6CAA:BC20:C692:8F30]] ([[User talk:2405:204:41A3:94C0:6CAA:BC20:C692:8F30|talk]]) to last revision by Naive rm ([[WP:TW|TW]])
+2017-04-17T10:50:53+00:00,775832161,773988162,0,InternetArchiveBot,Jagannath University,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.3beta6)
+2017-04-10T21:34:19+00:00,774822066,774625328,0,OttRider,Jahangirnagar University,hide correctly-cited misspelling in URL from typo searches
+2017-11-10T08:34:09+00:00,809616613,807935552,0,103.205.134.18,Jahangirnagar University,
+2019-04-14T21:26:51+00:00,892485664,892466741,0,Dead.rabbit,Jaya Ahsan,replaced with a free content
+2018-03-28T14:28:14+00:00,832885074,832380401,0,Hasive,Jaya Ahsan,Photo added
+2018-04-07T05:47:06+00:00,835201022,835131366,0,CommonsDelinker,Jaya Ahsan,"Removing [[:c:File:Joya_Ahsan.jpg|Joya_Ahsan.jpg]], it has been deleted from Commons by [[:c:User:Érico|Érico]] because: Copyright violation, see [[:c:Commons:Licensing|]]."
+2018-07-27T07:41:27+00:00,852192136,852161572,0,Dead.rabbit,Jaya Ahsan,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/101.2.162.18|101.2.162.18]] ([[User talk:101.2.162.18|talk]]): Non-wiki. ([[WP:TW|TW]])
+2019-08-11T19:10:55+00:00,910388990,910388651,0,All.that.jazz,Khulna Tigers,/* 2019/20 */
+2016-12-27T22:25:39+00:00,756958654,756906005,0,Jevansen,Khulna Tigers,Reverted edits by [[Special:Contribs/180.234.166.103|180.234.166.103]] ([[User talk:180.234.166.103|talk]]) to last version by 42.0.5.192
+2018-06-26T05:55:01+00:00,847557156,844487259,0,ImSonyR9,Khulna Tigers,/* Administration and support staff */
+2019-04-20T17:05:03+00:00,893332546,893332458,0,Flooded with them hundreds,Live scores,Reverted edits by [[Special:Contributions/Qwerty786vish|Qwerty786vish]] ([[User talk:Qwerty786vish|talk]]): using Wikipedia for [[WP:NOTADVERTISING|advertising/promotion]] ([[WP:HG|HG]]) (3.4.6)
+2017-04-07T09:50:42+00:00,774270139,767065120,0,116.58.205.139,Khulna Tigers,/* External links */
+2017-09-11T05:29:44+00:00,800026238,795916195,0,182.75.179.123,Live scores,/* See also */
+2018-03-11T02:54:29+00:00,829839111,829837773,0,Paul Erik,Live scores,Reverted edits by [[Special:Contribs/2405:205:C8A7:828B:D8DA:50E6:1DFE:343D|2405:205:C8A7:828B:D8DA:50E6:1DFE:343D]] ([[User talk:2405:205:C8A7:828B:D8DA:50E6:1DFE:343D|talk]]) to last version by Mathieu ottawa
+2016-06-30T15:04:10+00:00,727677146,725079676,0,Worldbruce,Ministry of Food (Bangladesh),"/* top */clean up, used lang-bn template using [[Project:AWB|AWB]]"
+2019-10-04T05:25:59+00:00,919522679,919448958,0,Blue Square Thing,Mohammad Saifuddin,"var of ib fixes, including removing invalid param; remove CA per ELNO 6"
+2019-10-03T20:03:32+00:00,919448958,919447676,0,Minhaj Uddin Mahmud Shanto,Mohammad Saifuddin,/* Domestic career */Edited Nickname & Fans Group Link
+2018-11-08T15:09:03+00:00,867876242,867859950,0,Rakibulbappy,National Cricket League,
+2017-01-10T20:44:02+00:00,759380629,759285990,0,Sammyrice,National Cricket League,Undid revision 759285990 by [[Special:Contributions/103.82.8.96|103.82.8.96]] ([[User talk:103.82.8.96|talk]])
+2018-01-18T15:00:38+00:00,821122910,820901805,0,Rakibulbappy,National Cricket League,/* National Cricket League teams */
+2017-09-16T10:16:52+00:00,800893780,800889604,0,Lugnuts,National Cricket League,unsourced
+2019-07-09T21:42:50+00:00,905556002,904596553,0,167.176.36.242,"National University, Bangladesh",/* Prominent affiliate colleges */
+2019-07-19T21:30:28+00:00,907016097,905556002,0,106.200.107.242,"National University, Bangladesh",/* Prominent affiliate colleges */Added a new college name
+2018-11-08T16:59:58+00:00,867891129,867891111,0,"Person who formerly started with ""216""",Natural disaster,Reverted 1 edit by [[Special:Contributions/103.203.173.29|103.203.173.29]] ([[User talk:103.203.173.29|talk]]) to last revision by Gpkp. ([[WP:TW|TW]])
+2016-10-31T13:52:42+00:00,747108023,747108004,0,ClueBot NG,Natural disaster,"Reverting possible vandalism by [[Special:Contribs/31.49.95.222|31.49.95.222]] to version by Wbm1058. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2817737) (Bot)"
+2017-04-20T11:06:22+00:00,776335169,761707043,0,59.153.28.62,Rajshahi Royals,/* Current squad */
+2016-10-25T15:54:43+00:00,746153931,746152431,0,Blue Square Thing,Rajshahi Royals,"Reverted 1 edit by [[Special:Contributions/118.179.151.13|118.179.151.13]] ([[User talk:118.179.151.13|talk]]): No, we use WIN always - see the cricket project page for the style guide. ([[WP:TW|TW]])"
+2018-09-05T15:28:04+00:00,858172540,857825308,0,43.245.120.193,Rangpur Riders,/* Current Squad */
+2017-06-10T05:27:48+00:00,784808021,784267009,0,Mahmudul006,Rangpur Riders,
+2017-05-10T15:50:56+00:00,779719208,779719198,0,ClueBot NG,Reckless driving,"Reverting possible vandalism by [[Special:Contribs/117.197.8.130|117.197.8.130]] to version by Beezschka. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3035424) (Bot)"
+2017-03-28T08:30:17+00:00,772606490,772606256,0,122.8.151.207,Rangpur Riders,/* Current squad and support staff */
+2019-01-08T07:32:23+00:00,877377077,877207714,0,Ajf773,Reckless driving,Reverted 1 edit to previous version by [[:User:Ajf773|Ajf773]]. Disruptive edit
+2017-06-30T08:42:16+00:00,788237084,788236572,0,118.179.151.13,Rangpur Riders,
+2019-10-15T04:08:28+00:00,921328338,919016542,0,Monkbot,Safa Kabir,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (0×) / removed (13×) deprecated |dead-url= and |deadurl= with |url-status=;
+2016-12-23T11:38:29+00:00,756316794,749652369,0,J man708,Sylhet Strikers,/* Current squad */
+2019-03-12T20:56:47+00:00,887464383,852770900,0,GrahamHardy,Shykat Ali,+defsort
+2018-05-19T14:04:02+00:00,841995470,841639752,0,The-Pope,Shykat Ali,switch to id
+2017-07-13T05:41:04+00:00,790353618,790352700,0,118.179.151.13,Sylhet Strikers,
+2019-02-25T23:59:21+00:00,885102710,882212361,0,Bitter Legacy,Rangpur Riders,/* Season 2015/16 */  changed - bought coach to hired coach
+2017-04-27T22:12:18+00:00,777561778,777561155,0,Train2104,Template talk:User sandbox,Undid revision 777561155 by [[Special:Contributions/Arisara Tumwong|Arisara Tumwong]] ([[User talk:Arisara Tumwong|talk]]) Not the place for your article
+2018-09-10T08:55:03+00:00,858887782,858172540,0,A Simple Human,Rangpur Riders,/* Current Squad */False news
+2017-09-07T11:27:28+00:00,799382886,794975490,0,BD2412,Textile industry in Bangladesh,"clean up spacing around punctuation, replaced: ,B → , B (2), ,C → , C using [[Project:AWB|AWB]]"
+2019-09-04T19:43:57+00:00,914040446,912209337,0,InternetArchiveBot,Textile industry in Bangladesh,Bluelinking 2 books for [[WP:V|verifiability]].) #IABot (v2.1alpha2
+2019-06-27T16:11:29+00:00,903730922,903715692,0,Deacon Vorbis,Template talk:User sandbox,Reverted edits by [[Special:Contribs/TheBoolletin|TheBoolletin]] ([[User talk:TheBoolletin|talk]]) to last version by Lowercase sigmabot III
+2019-07-19T23:25:58+00:00,907028268,907019163,0,Sphilbrick,Tree planting,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/145.133.94.176|145.133.94.176]] ([[User talk:145.133.94.176|talk]]): Cv https://www.weforum.org/agenda/2018/10/mapped-where-afforestation-is-taking-place-around-the-world ([[WP:TW|TW]])
+2018-07-16T09:08:15+00:00,850506087,850338417,0,Dexbot,Tree planting,[[WP:CHECKWIKI]] error fix. Section heading problem. Violates [[WP:MOSHEAD]].
+2018-11-02T16:14:03+00:00,866945995,866574539,0,Wsmithy71,University of Dhaka,/* Academic departments */ new research facilities added and will be updating completely soon.
+2017-08-17T15:51:04+00:00,795957774,795957347,0,Ibrahim Husain Meraj,University of Dhaka,removed [[Category:Universities and colleges in Bangladesh]] using [[WP:HC|HotCat]]
+2017-02-06T11:30:54+00:00,763987520,763823373,0,Dead.rabbit,University of Dhaka,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Anamulhasan354|Anamulhasan354]] ([[User talk:Anamulhasan354|talk]]): See [[WP:LINKCRISIS]]. ([[WP:TW|TW]])
+2017-05-11T03:36:08+00:00,779810043,778623637,0,Bdmah,University of Dhaka,/* Constituent Colleges */
+2017-07-11T09:49:15+00:00,790057551,790057491,0,Entranced98,University of Dhaka,Reverted edits by [[Special:Contribs/202.168.237.106|202.168.237.106]] ([[User talk:202.168.237.106|talk]]) to last version by 202.136.89.66
+2019-07-27T16:22:28+00:00,908124395,908102565,0,Anamulhasan354,University of Dhaka,inappropriate things removed
+2019-04-15T12:32:31+00:00,892569232,891610434,0,Texan Jake,War crime,changed Omar al-Bashir's status as head of state
+2018-09-29T18:01:39+00:00,861743087,861622696,0,Flyte35,War crime,/* Definition */ POV
+2019-07-21T12:03:34+00:00,907225267,907224889,0,103.131.90.116,2012 Bangladesh Premier League,
+2016-07-10T10:32:57+00:00,729162660,728770782,0,Nazcheema,2012 Bangladesh Premier League,removed [[Category:Bangladesh Premier League seasons]] using [[WP:HC|HotCat]]
+2017-03-07T01:36:17+00:00,769010602,767070939,0,Ira Leviton,2012 Bangladesh Premier League,Fixed a typo.
+2017-05-10T09:57:47+00:00,779679382,774099226,0,Kaltenmeyer,2012 Bangladesh Premier League,spelling
+2017-07-25T20:01:30+00:00,792309901,792309830,0,2A02:C7D:C62:B500:C5BF:11B:3D1F:A558,2012–13 Bangladesh Premier League,/* External links */
+2016-09-20T18:23:03+00:00,740380582,740380476,0,Dw122339,2016–17 Bangladesh Premier League,Undid revision 740380476 by [[Special:Contributions/Shohan.99|Shohan.99]] ([[User talk:Shohan.99|talk]])
+2018-08-19T11:37:08+00:00,855586667,807461361,0,Hugo999,2016–17 Bangladesh Premier League,/* External links */
+2018-03-22T10:48:28+00:00,831823280,830332270,0,Bs1jac,2017–18 Bangladesh Premier League,/* References */
+2017-12-03T17:40:11+00:00,813428259,813428177,0,103.209.228.35,2017–18 Bangladesh Premier League,/* Highest team totals */
+2017-12-17T03:01:33+00:00,815781480,815169629,0,103.4.146.62,2017–18 Bangladesh Premier League,/* Final */
+2018-06-04T08:54:00+00:00,844342877,844341800,0,Number 57,2018 Bangladeshi general election,Valid redlink (and [[User:Worldbruce]] is actually creating all the Bangladeshi constituency articles)
+2019-03-16T23:10:46+00:00,888105645,888105318,0,S0091,Addiction,Reverted 1 edit by [[Special:Contributions/45.78.143.218|45.78.143.218]] ([[User talk:45.78.143.218|talk]]) to last revision by Citation bot ([[WP:TW|TW]])
+2017-12-20T20:00:17+00:00,816347174,816062737,0,WereSpielChequers,Addiction,typo
+2016-09-08T05:20:54+00:00,738314522,738311853,0,Versageek,Addiction,Reverted edits by [[Special:Contribs/Nipha|Nipha]] ([[User talk:Nipha|talk]]) to last version by 69.58.42.90
+2016-06-30T06:21:03+00:00,727631151,727630931,0,JeremyCubsfan98,Adult education,Reverted 1 edit by [[Special:Contributions/45.115.188.82|45.115.188.82]] ([[User talk:45.115.188.82|talk]]) to last revision by Mar11. ([[WP:TW|TW]])
+2018-10-21T00:24:30+00:00,864996658,864738211,0,Biogeographist,Adult education,"reverted addition of reference to Daniele Trevisani by a single-purpose IP address to multiple articles: [[WP:REFSPAM]], [[WP:PROMO]]"
+2017-03-03T06:22:12+00:00,768342056,765355572,0,Isko1901,Adult education,/* See also */
+2017-05-08T09:20:03+00:00,779338293,776039582,0,123.49.60.246,Bangladesh Civil Service,/* Professional cadres */
+2017-09-03T21:50:34+00:00,798798884,797639941,0,Jessicapierce,Adult education,"minor copy edits, undid an earlier edit which broke references"
+2018-10-23T06:17:01+00:00,865325739,860910634,0,NahidSultan,Bangladesh Civil Service,/* Head of the Civil Service */ wikifi
+2017-06-20T17:07:44+00:00,786637349,779338293,0,123.49.37.98,Bangladesh Civil Service,/* Professional cadres */
+2017-12-18T12:28:14+00:00,815975424,799851149,0,Hack,Bangladesh Cricket League,"/* External links */clean up after page deletion, replaced: [[Cricket Archive]] → CricketArchive using [[Project:AWB|AWB]]"
+2016-07-13T08:08:07+00:00,729593680,729018821,0,Nazcheema,Bangladesh Cricket League,/* 2014-15 */ one-day league
+2016-10-28T15:33:13+00:00,746631440,729593680,0,Jellyman,Bangladesh Cricket League,+[[Category:First-class cricket competitions]]; +[[Category:Bangladeshi domestic cricket competitions]] using [[WP:HC|HotCat]]
+2018-04-11T19:59:39+00:00,835956492,835394983,0,2405:205:A10F:EDA9:445:51BF:8841:4FC0,Bangladesh Premier League,/* See also */
+2017-03-23T13:15:51+00:00,771775750,767901026,0,124.29.255.151,Bangladesh Premier League,/* League organisation */
+2016-12-24T17:26:27+00:00,756494396,755313707,0,FrescoBot,Bangladesh Premier League,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-09-16T23:53:14+00:00,800985869,800620174,0,2A02:908:4E2:4C60:511A:8FA5:8044:96F4,Bangladesh Premier League,/* League organisation */
+2018-08-21T02:04:58+00:00,855819263,847910536,0,Adavidb,Bangladesh Premier League,"clean up, replaced: -present → –present (2), -Present → –Present using [[Project:AWB|AWB]]"
+2016-05-23T06:52:46+00:00,721650224,721538125,0,119.30.47.174,Bangladesh Premier League,
+2018-04-21T14:05:12+00:00,837543069,837542983,0,103.77.60.6,Bangladesh Premier League,
+2016-07-23T15:20:35+00:00,731178678,731178547,0,103.193.168.10,Bangladesh Premier League,Reference
+2018-01-14T21:48:08+00:00,820463678,820154556,0,Iridescent,Bangladesh Premier League,"/* top */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: of it’s → of its using [[Project:AWB|AWB]]"
+2018-04-08T12:57:27+00:00,835394983,835373667,0,Ham105,Bangladesh Premier League,Reverted to revision 834340876 by [[Special:Contributions/119.10.175.217|119.10.175.217]] ([[User talk:119.10.175.217|talk]]): Rv vandalism. ([[WP:TW|TW]])
+2017-06-12T19:10:00+00:00,785299394,785299362,0,UserNumber,Bangladesh Premier League,/* League championships */
+2018-05-26T04:58:00+00:00,843000588,842930060,0,58.65.151.218,Bangladesh Premier League,/* League organisation */
+2017-05-25T09:11:17+00:00,782168964,782168585,0,68.33.89.251,Bangladesh Premier League,/* League organisation */
+2016-08-17T12:26:56+00:00,734903729,733358996,0,103.237.37.230,Bangladesh Premier League,/* External links */
+2019-01-10T10:14:06+00:00,877700095,877598957,0,Imtiaz ahmed rifat,Bangladesh Premier League,/* League organisation */Rules are same as of this season
+2018-11-06T05:07:42+00:00,867510279,867018557,0,NahidSultan,Bangladesh Railway,/* External links */ +template
+2019-07-04T03:49:37+00:00,904729274,903193859,0,Ahmer Jamil Khan,Bangladesh Railway,Removed name of an MD from the top of the infobox.
+2017-04-25T13:54:24+00:00,777147613,774099659,0,198.200.181.196,Bangladesh Premier League,/* League organisation */
+2017-11-23T17:12:35+00:00,811742308,811742007,0,Anshukmitra123,Bangladesh Railway,/* See also */
+2018-12-20T00:46:27+00:00,874554336,873252625,0,Filedelinkerbot,Bangladesh Railway,Bot: Removing [[:File:Khulna Railway station.jpeg]] . It was deleted by [[:User:Explicit|Explicit]] ([[WP:CSD#F4|F4]]: Lack of licensing information ([[WP:TW|TW]])).
+2018-12-01T14:50:50+00:00,871504155,867525566,0,103.205.69.32,Bangladesh University of Engineering and Technology,
+2018-09-18T11:17:45+00:00,860105585,858026361,0,Kbb2,Bangladesh University of Engineering and Technology,"IPA fix per [[Help:IPA/Bengali]] - this is unnecessarily narrow (please read [[Help talk:IPA/Hindi and Urdu#Dental diacritic]] before reverting me, there are multiple good reasons not to use the dental diacritic)"
+2018-10-08T23:43:47+00:00,863140196,863128727,0,121.214.148.28,Bangladesh drug war,Added template
+2016-09-06T23:55:20+00:00,738111725,737967895,0,99.237.191.80,Bangladesh national cricket team,/* Current squad */
+2019-07-01T14:03:50+00:00,904338172,904277219,0,Gridlust,Bangladesh national cricket team,
+2019-05-05T14:50:45+00:00,895622655,895370063,0,Fuzzyball1111111,Bangladesh national cricket team,
+2018-10-21T17:36:28+00:00,865092635,865092161,0,Bs1jac,Bangladesh national cricket team,/* Records */
+2017-01-24T06:00:43+00:00,761682989,761624551,0,Ashhab1323,Bangladesh national cricket team,Updated
+2017-04-06T20:07:33+00:00,774184655,774183486,0,Ashhab1323,Bangladesh national cricket team,/* Current squad */ Fixed
+2017-09-02T06:39:58+00:00,798484971,798347174,0,43.245.121.173,Bangladesh national cricket team,
+2019-10-12T14:26:55+00:00,920887747,920510497,0,Rodw,Bangladesh national cricket team,"Disambiguating links to [[Mehrab Hossain]] (link changed to [[Mehrab Hossain (cricketer, born 1978)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]]."
+2016-08-13T12:09:28+00:00,734304834,734266580,0,DeriatenumUrevutang,Bangladesh national cricket team,Undid revision 734266580 by [[Special:Contributions/DeriatenumUrevutang|DeriatenumUrevutang]] ([[User talk:DeriatenumUrevutang|talk]])
+2018-08-31T09:55:52+00:00,857382832,855757330,0,106.202.42.66,Bangladesh national cricket team,
+2019-03-05T16:45:46+00:00,886329852,886329811,0,Agtx,Bangladesh national cricket team,Reverted edits by [[Special:Contribs/223.223.144.159|223.223.144.159]] ([[User talk:223.223.144.159|talk]]) to last version by ImSonyR9
+2016-08-24T15:08:07+00:00,736009856,736008632,0,SpacemanSpiff,Bangladesh national cricket team,Reverted edits by [[Special:Contribs/Sojjon|Sojjon]] ([[User talk:Sojjon|talk]]) to last version by DeriatenumUrevutang
+2017-06-06T23:36:51+00:00,784188909,784186602,0,Barek,Begging,Reverted edits by [[Special:Contribs/186.54.209.99|186.54.209.99]] ([[User talk:186.54.209.99|talk]]) to last version by Magic links bot
+2017-04-07T15:17:50+00:00,774303367,726630618,0,Ohconfucius,Blood donation in Bangladesh,"[[User:Ohconfucius/script|Script]]-assisted fixes per [[WP:TIES]], [[MOS:NUM]], [[MOS:LINK]]"
+2017-12-23T15:23:06+00:00,816769611,814830824,0,116.58.200.88,Chattogram Challengers,
+2017-03-23T11:49:11+00:00,771766574,771766433,0,116.58.201.116,Chattogram Challengers,/* Current squad */
+2017-12-14T21:15:54+00:00,815441240,815438920,0,Jessicapierce,Children's rights,minor copy edits
+2016-11-05T08:20:07+00:00,747935121,735552142,0,Zazpot,Children's rights,/* Justifications */ Add quote from International law concerning child civilians in armed conflict. Disclaimer: I am related to Jenny Kuper.
+2019-01-10T20:53:26+00:00,877778351,874329383,0,Enthusiast01,Clothing industry,/* Production */
+2017-05-17T17:06:10+00:00,780864426,780704208,0,ScrapIronIV,Clothing industry,"Again, removing unsourced statement perpetuating stereotypes"
+2016-08-13T15:00:03+00:00,734321003,734138749,0,Cydebot,Clothing industry,Robot - Moving category Garment industry to [[:Category:Clothing industry]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 July 15]].
+2019-03-27T21:35:19+00:00,889775441,889775305,0,Gilliam,Clothing industry,Reverted edits by [[Special:Contribs/2601:240:E400:3BD0:C4AE:EDE2:963:D177|2601:240:E400:3BD0:C4AE:EDE2:963:D177]] ([[User talk:2601:240:E400:3BD0:C4AE:EDE2:963:D177|talk]]) to last version by Enthusiast01
+2017-11-17T15:05:31+00:00,810802795,810786849,0,45.124.168.125,Comilla Victorians,/* Current Squad */
+2017-08-25T17:10:58+00:00,797216332,797133418,0,116.58.205.150,Comilla Victorians,/* Current squad */
+2017-12-29T20:50:07+00:00,817665005,817500393,0,The Madras,Comilla Victorians,
+2017-09-17T08:52:37+00:00,801040323,801040279,0,45.124.168.141,Comilla Victorians,/* Current squad */
+2017-02-11T10:50:01+00:00,764864360,749651848,0,Ianblair23,Cricket in Bangladesh,link
+2017-07-11T19:20:29+00:00,790123188,784381689,0,96.227.222.135,Culture of Bangladesh,/* Language day */
+2017-12-07T02:22:14+00:00,814137112,812381090,0,24.244.32.236,Culture of Bangladesh,/* Pohela Boishakh */
+2017-06-08T00:54:47+00:00,784381689,784343872,0,Edward321,Culture of Bangladesh,rv adcopy
+2018-05-02T09:56:11+00:00,839265645,821828864,0,Liberty Pedia,Dhaka International Trade Fair,/* top */ Expansion and improvement
+2016-02-22T20:53:36+00:00,706348853,699321556,0,Ricky81682,Dhaka International Trade Fair,/* References */moving cat per [[Wikipedia:Categories_for_discussion/Log/2015_December_11#Category:Bangladeshi_festivals]] using [[Project:AWB|AWB]]
+2017-10-15T07:36:21+00:00,805418132,805138883,0,103.231.160.190,Dhaka International Trade Fair,Minor corrections
+2017-02-09T13:53:06+00:00,764535712,761128744,0,110.76.129.118,Dhaka International Trade Fair,Expansion and improvement.
+2017-12-08T05:00:06+00:00,814331981,805418132,0,KH-1,Dhaka International Trade Fair,trim
+2018-05-14T15:15:05+00:00,841194741,835156807,0,DeprecatedFixerBot,Dhaka Premier Division Cricket League,"Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of ""cols"" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))"
+2017-03-28T15:12:09+00:00,772651240,770894654,0,110.76.129.174,Dhaka International Trade Fair,Minor corrections
+2016-07-21T22:32:34+00:00,730952716,729016056,0,Ohconfucius,Dhaka Premier Division Cricket League,"[[User:Ohconfucius/script|Script]]-assisted fixes per [[WP:TIES]], [[MOS:NUM]], [[MOS:LINK]]"
+2019-10-22T17:10:09+00:00,922521511,922245195,0,105.112.52.175,Dowry,
+2019-08-06T18:21:02+00:00,909646281,907833184,0,Wiki-uk,Dowry,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Money, goods, or estate that is given to a woman at the time of her marriage"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2018-10-28T12:10:30+00:00,866124920,866124891,0,Denisarona,Dowry,Reverted edits by [[Special:Contribs/124.123.64.14|124.123.64.14]] ([[User talk:124.123.64.14|talk]]) to last version by Denisarona
+2017-07-04T01:43:57+00:00,788882924,788743263,0,Renamed user mou89p43twvqcvm8ut9w3,Drug rehabilitation,Reverted 1 edit by [[Special:Contributions/Singhbalvind|Singhbalvind]] ([[User talk:Singhbalvind|talk]]): [[WP:ELNO]]. ([[WP:TW|TW]])
+2018-04-21T04:24:26+00:00,837487428,830645476,0,182.16.157.105,Durdanto Dhaka,
+2017-11-01T04:29:02+00:00,808147489,808146816,0,JackDaniels2019,Drug rehabilitation,
+2017-01-22T03:42:07+00:00,761289808,761289716,0,Stabens,Drug rehabilitation,/* Medications */  Dead link Specified
+2016-10-07T03:40:39+00:00,742996276,742996164,0,WorldMilitaryFirepower,Durdanto Dhaka,/* Records */
+2016-12-31T10:11:39+00:00,757558111,757539784,0,Materialscientist,Durdanto Dhaka,consistency
+2016-11-02T22:31:59+00:00,747531980,746615068,0,139.184.223.211,Electronic voting,/* Overview */ correction
+2018-02-04T13:58:53+00:00,823961117,819828549,0,Rjwilmsi,Electronic voting,"Journal cites:,"
+2018-02-28T01:09:26+00:00,828010552,827976562,0,Ita140188,Electronic voting,Undid revision 827976562 by [[Special:Contributions/Justin01rollins|Justin01rollins]] ([[User talk:Justin01rollins|talk]]) rm repetition
+2018-09-03T16:23:40+00:00,857875980,855066789,0,Abegnale1,Electronic voting,/* Timeline of development */Fixed typo/grammar
+2019-07-06T16:22:29+00:00,905066364,902272577,0,Popenda,Family planning,"/* Family planning, human rights, and development */  Climate"
+2016-11-18T07:14:00+00:00,750193204,744562476,0,GreenC bot,Electronic voting in India,1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])
+2017-10-30T04:10:26+00:00,807793039,807662483,0,Magic links bot,Female education,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2018-12-07T01:01:59+00:00,872393855,865914925,0,24.162.135.225,Family planning,/* Purposes */Fixed typo
+2017-03-20T22:47:09+00:00,771329909,771329140,0,167.128.17.53,Electronic voting in India,Attempted to fix a number of grammatical errors.
+2016-08-17T09:36:08+00:00,734888284,730879804,0,Loginnigol,Electronic voting in India,Loginnigol moved page [[Indian voting machines]] to [[Electronic voting in India]]: consistent with other country pages
+2017-04-13T05:11:04+00:00,775178503,775031758,0,119.82.65.194,Electronic voting in India,/* Controversies - they are creating media hype. nothing else. so we can remove this point */
+2017-08-25T12:43:57+00:00,797183662,797059531,0,43.246.108.196,Female education,/* Europe */
+2016-11-26T20:12:24+00:00,751611147,751437572,0,Triplingual,Female education,/* Islamic history */ Swapped in the original cite (Lindsay's note cites Berkey); rephrased for accuracy
+2017-03-14T22:56:42+00:00,770359782,769396775,0,Magioladitis,Female education,/* Islamic history */cleanup including punct move per WP:REFPUNCT using [[Project:AWB|AWB]]
+2019-05-03T19:35:57+00:00,895368647,894853559,0,ReasonsorResults99,Female education,/* External links */
+2018-01-29T18:19:11+00:00,822994660,821260746,0,DuncanHill,Female education,/* Further reading */ [[June Purvis]]
+2017-04-19T21:15:39+00:00,776250298,776250248,0,Ayomoy,Government College of Applied Human Science,Undid revision 770466307 by [[Special:Contributions/103.60.172.2|103.60.172.2]] ([[User talk:103.60.172.2|talk]])
+2016-11-18T08:22:38+00:00,750200331,726924387,0,Anup Sadi,Government College of Applied Human Science,Image added
+2017-09-28T22:10:59+00:00,802857444,802857089,0,Nunaeem,Government College of Applied Human Science,/* Admission */
+2018-04-25T13:18:27+00:00,838187339,815718952,0,Erikvinson.enc,Greenhouse effect,Grammar
+2019-04-21T03:23:35+00:00,893404870,892711065,0,The Nth User,Greenhouse effect,Disambiguated link to [[Halite]]
+2017-03-31T15:23:03+00:00,773139355,772467669,0,Rjwilmsi,HIV/AIDS,"/* top */Journal cites, Added 1 doi to a journal cite using [[Project:AWB|AWB]] (12150)"
+2017-03-30T19:46:40+00:00,773019229,772774842,0,Alephb,Human nutrition,/* Nutrients */ punctuation
+2018-07-02T13:24:13+00:00,848522227,848499157,0,Zefr,Human nutrition,Reverted 1 edit by [[Special:Contributions/2409:4064:418:9D3:286B:9B97:392A:6737|2409:4064:418:9D3:286B:9B97:392A:6737]] ([[User talk:2409:4064:418:9D3:286B:9B97:392A:6737|talk]]): Restore concept in source. ([[WP:TW|TW]])
+2015-05-22T15:12:08+00:00,663551785,663296624,0,219.75.48.209,Icon player,/* List of icon players */
+2016-07-26T14:15:27+00:00,731622068,731621720,0,Ozzie10aaaa,Human nutrition,
+2016-08-10T10:25:17+00:00,733826105,733768446,0,Keith D,Icon player,Relocate References section & remove ordinals
+2018-08-30T01:45:19+00:00,857176897,855234589,0,108.54.145.185,Human nutrition,Fix capitalization
+2018-07-10T22:37:06+00:00,849725019,846733719,0,Sbbarker19,International Crimes Tribunal (Bangladesh),added links
+2017-11-24T11:33:38+00:00,811848051,811848009,0,202.51.69.14,International Crimes Tribunal (Bangladesh),
+2016-12-17T07:40:19+00:00,755309797,752938770,0,Bender the Bot,International Crimes Tribunal (Bangladesh),clean up; http&rarr;https for [[The Guardian]] using [[Project:AWB|AWB]]
+2017-12-03T00:52:56+00:00,813312362,813223640,0,Skeptic sid,HIV/AIDS,/* Media portrayal */ correction of conviction.
+2018-01-11T23:03:23+00:00,819904018,818747685,0,Naniwako,Jagannath University,/* Faculty of Law */ used bullets to match other entries
+2018-03-07T11:48:19+00:00,829230868,827960690,0,103.196.233.9,Jagannath University,/* Faculty of Law */
+2018-05-02T20:05:42+00:00,839340274,837267374,0,103.220.204.129,Jagannath University,/* List of vice chancellors */
+2017-10-20T15:50:01+00:00,806226839,806226220,0,OneMoreLightLP,Jagannath University,
+2018-12-24T09:00:12+00:00,875173061,874069813,0,203.190.8.178,Jahangirnagar University,
+2018-04-11T18:01:17+00:00,835940033,832858540,0,103.81.105.78,Jahangirnagar University,/* Notable professors and alumni */
+2018-01-06T16:35:28+00:00,818963451,811848051,0,Raymond3023,International Crimes Tribunal (Bangladesh),/* Reactions */
+2016-09-17T15:15:57+00:00,739867268,739866921,0,203.76.112.54,Jaya Ahsan,
+2019-03-06T09:33:25+00:00,886446770,886446671,0,2401:4900:110B:B9DF:0:6D:8ACB:4401,Jaya Ahsan,Bb
+2017-03-07T16:15:56+00:00,769103789,769103623,0,103.38.18.148,Jaya Ahsan,
+2019-10-13T05:57:38+00:00,920996307,920581199,0,আব্দুর রহমান মুন্সী,Jaya Ahsan,/* Early life */By publishing or writing  from authentic     Sourc.
+2018-06-05T07:27:08+00:00,844487259,837491824,0,43.245.123.246,Khulna Tigers,
+2016-07-09T06:14:44+00:00,729009892,728407980,0,Nazcheema,Khulna Tigers,removed [[Category:Cricket teams in Bangladesh]] using [[WP:HC|HotCat]]
+2017-11-07T01:35:03+00:00,809086952,809086398,0,103.242.22.251,Khulna Tigers,
+2019-01-08T14:16:59+00:00,877412336,877073221,0,103.242.23.191,Khulna Tigers,/* Current squad */
+2016-10-10T06:25:17+00:00,743566147,743360355,0,Yobot,Khulna Tigers,/* Franchise history */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12095)
+2019-01-03T00:17:19+00:00,876547636,876547562,0,Shellwood,Live scores,Reverted edits by [[Special:Contributions/200.7.91.106|200.7.91.106]] ([[User talk:200.7.91.106|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2019-08-30T20:02:45+00:00,913235583,913212978,0,Lembit Staan,Live scores,rm more spam
+2017-08-17T09:13:19+00:00,795916195,795915794,0,MER-C,Live scores,Reverted edits by [[Special:Contribs/Av04061983|Av04061983]] ([[User talk:Av04061983|talk]]) to last version by PrimeBOT
+2018-03-05T01:01:32+00:00,828832695,828812567,0,Vinegarymass911,Ministry of Food (Bangladesh),/* Departments */ added link
+2017-02-28T17:49:58+00:00,767911347,767889753,0,Voceditenore,Live scores,"/* See also */ This section is ONLY for sites, programs or networks with their own Wikipedia articles, not for external link spam"
+2019-02-28T09:21:28+00:00,885486161,877163013,0,103.129.36.27,Ministry of Food (Bangladesh),
+2019-03-02T11:38:18+00:00,885798002,884155494,0,103.237.36.118,Mohammad Saifuddin,
+2019-01-08T18:00:59+00:00,877442507,875407334,0,Fahad Hossen Rafi,Mohammad Saifuddin,/* International career */
+2017-11-14T14:32:04+00:00,810314582,810311653,0,Arafat faulkner,Mohammad Saifuddin,
+2016-12-15T22:06:25+00:00,755035333,749277749,0,Jennica,Mohammad Saifuddin,-:
+2019-08-15T09:17:17+00:00,910907785,907016097,0,JJMC89 bot III,"National University, Bangladesh",Removing [[:Category:Specialized University]] per [[Wikipedia:Categories for discussion/Log/2019 August 7#Category:Specialized University]]
+2017-07-20T04:53:34+00:00,791422167,791421133,0,209.197.30.232,"National University, Bangladesh",/* References */
+2017-08-26T17:23:17+00:00,797374163,794662335,0,180.211.165.233,"National University, Bangladesh",/* Prominent affiliate college */
+2017-12-12T06:39:04+00:00,815015920,815015915,0,Oshwah,Natural disaster,Adding {{pp-vandalism}} ([[WP:TW|TW]])
+2019-07-23T01:49:00+00:00,907459168,906754043,0,Jarble,Natural disaster,linking
+2018-02-28T19:58:08+00:00,828138586,827938430,0,Bender the Bot,Natural disaster,"HTTP→HTTPS for [[Science Daily]], replaced: http://www.sciencedaily.com/ → https://www.sciencedaily.com/"
+2019-02-20T02:14:25+00:00,884186834,883230105,0,CallingAllTortoises,Natural disaster,/* Health Consequences */  The title needed to be changed because the section only focused on women. Grammar mistakes were also fixed.
+2018-05-04T09:45:52+00:00,839577273,837495035,0,37.111.201.251,Rajshahi Royals,/* Support staff */
+2016-11-21T03:21:31+00:00,750663057,750663000,0,WorldMilitaryFirepower,Rangpur Riders,/* Season three: 2015 */
+2019-06-28T13:15:36+00:00,903869992,903869934,0,103.96.106.158,Rangpur Riders,/* Kit manufacturers and sponsors */
+2016-11-14T13:47:04+00:00,749460821,749460290,0,Wikishovel,Rangpur Riders,rv good faith unsourced claim
+2017-10-17T11:15:27+00:00,805747036,805600078,0,45.64.165.202,Rangpur Riders,
+2016-03-03T17:01:44+00:00,708100955,704774585,0,90.255.5.184,Rangpur Riders,/* Current squad[1] */
+2016-12-16T13:41:05+00:00,755143683,754376662,0,LilHelpa,Rangpur Riders,it's → its
+2016-05-26T12:51:51+00:00,722178452,713291629,0,Catlemur,Reckless driving,Filled in 3 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2019-04-17T15:38:02+00:00,892897362,892897265,0,Jusdafax,Reckless driving,Reverted edits by [[Special:Contributions/92.98.175.192|92.98.175.192]] ([[User talk:92.98.175.192|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.6)
+2018-09-12T01:09:48+00:00,859144981,852709518,0,73.52.133.83,Reckless driving,/* Utah */
+2017-01-03T15:07:16+00:00,758109091,758103218,0,Praxidicae,Reckless driving,Reverted 1 edit by [[Special:Contributions/206.131.39.75|206.131.39.75]] ([[User talk:206.131.39.75|talk]]). ([[WP:TW|TW]])
+2019-10-01T11:31:45+00:00,919016542,919013616,0,S. M. Nazmus Shakib,Safa Kabir,Undid revision 919013616 by [[Special:Contributions/Skh sourav halder|Skh sourav halder]] ([[User talk:Skh sourav halder|talk]])
+2016-07-19T12:34:12+00:00,730506635,729769476,0,Nazcheema,Shykat Ali,"redirecting, this is duplicate with wrong name and little information, correct name is Saikat Ali"
+2018-01-12T09:39:29+00:00,819975273,730506635,0,TripleRoryFan,Shykat Ali,"This is a different person to the other article, and the information in this article is correct hence the different external links"
+2017-03-04T16:51:28+00:00,768575249,768575199,0,113.203.210.93,Sylhet Strikers,/* Current squad */
+2019-09-15T13:25:59+00:00,915814278,915812132,0,Trialpears,Template talk:User sandbox,Undid revision 915812132 by [[Special:Contributions/Dr Chukuma Onyachonam|Dr Chukuma Onyachonam]] ([[User talk:Dr Chukuma Onyachonam|talk]]) Test edit
+2018-01-17T09:11:35+00:00,820907961,820894266,0,David Biddulph,Template talk:User sandbox,/* deletion */ Removed misplaced message (from suspected sock)
+2018-10-14T16:33:46+00:00,864023766,864022992,0,37.157.98.160,Textile industry in Bangladesh,"/* Working conditions */ Removed an s from ""firsts""."
+2018-12-02T14:53:59+00:00,871646840,869614186,0,Chris the speller,Textile industry in Bangladesh,"[[WP:AWB/T|typo(s) fixed]]: USD  → US$ (5), the USA → the US,  $5 billion USD →  US$5 billion; other cleanup"
+2016-11-01T12:13:00+00:00,747266758,747266715,0,CyanoTex,Textile industry in Bangladesh,Reverted 1 edit by [[Special:Contributions/2A02:C7D:7461:5C00:35B0:1031:C587:A9B6|2A02:C7D:7461:5C00:35B0:1031:C587:A9B6]] ([[User talk:2A02:C7D:7461:5C00:35B0:1031:C587:A9B6|talk]]) to last revision by Yobot. ([[WP:TW|TW]])
+2017-04-29T13:00:25+00:00,777814907,770403313,0,2405:205:6285:9EE8:C934:864A:746E:C657,Tree planting,/* By country */
+2018-11-24T05:37:56+00:00,870351335,870093748,0,DanielaAlonso2,Tree planting,"Incorrect information, lack of citation refrain from adding your own thoughts."
+2016-11-18T06:26:14+00:00,750186573,747443003,0,GreenC bot,Tree planting,2 archive templates merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])
+2019-04-30T07:27:41+00:00,894823447,894464870,0,Rafi Bin Tofa,University of Dhaka,/* Faculty of Medicine */ fixed
+2018-11-28T19:46:38+00:00,871076455,871075801,0,103.91.128.119,University of Dhaka,/* International ranking */
+2017-03-16T11:16:51+00:00,770591418,770591231,0,103.237.37.234,University of Dhaka,/* Institutes */
+2018-04-05T05:34:02+00:00,834340431,833059735,0,M.A Tahee,University of Dhaka,/* Faculty of Education */
+2019-06-01T14:53:48+00:00,899810532,899810494,0,128.163.237.236,University of Dhaka,/* Faculty of Earth and Environmental Sciences */
+2017-06-18T16:36:30+00:00,786308534,786152953,0,103.220.205.10,University of Dhaka,/* Faculty of Arts */
+2019-08-23T04:58:41+00:00,912087893,911372899,0,71.1.239.213,University of Dhaka,"Ranked by unreliable entity, not by proper authority"
+2017-11-21T17:39:36+00:00,811446474,811444312,0,103.88.24.8,University of Dhaka,/* Institutes */
+2017-01-04T14:50:49+00:00,758283262,758230587,0,103.25.249.12,University of Dhaka,
+2017-06-13T15:46:32+00:00,785446614,785445911,0,CFCF,War crime,
+2018-02-15T13:40:04+00:00,825796543,824803091,0,2602:30A:C0E2:D210:AC8E:F126:F9A1:2964,War crime,
+2018-05-07T16:15:25+00:00,840080970,840065018,0,KalHolmann,War crime,Undid revision 840065018 by [[Special:Contributions/210.49.75.91|210.49.75.91]] Revert addition that fails to cite [[WP:RS]].
+2016-12-10T20:59:49+00:00,754095166,754089030,0,Versageek,War crime,Reverted edits by [[Special:Contribs/86.129.26.2|86.129.26.2]] ([[User talk:86.129.26.2|talk]]) to last version by Andrew Swallow

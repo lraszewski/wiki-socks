@@ -1,0 +1,31 @@
+timestamp,revid,parentid,sock,user,page,message
+2017-08-08T14:06:01+00:00,794512940,792985713,1,Zati_Minecraft,Windows 95,
+2017-08-08T14:05:17+00:00,794512845,793621699,1,Zati_Minecraft,Windows NT 4.0,
+2017-08-08T14:04:28+00:00,794512746,790774576,1,Zati_Minecraft,Windows 98,
+2017-08-08T14:03:47+00:00,794512668,794512575,1,Zati_Minecraft,Windows 2000,
+2017-08-08T14:02:56+00:00,794512575,792490592,1,Zati_Minecraft,Windows 2000,Windows
+2017-08-08T14:02:15+00:00,794512501,794512436,1,Zati_Minecraft,Windows Me,
+2017-08-08T14:01:09+00:00,794512378,794351865,1,Zati_Minecraft,Windows Me,
+2017-08-08T14:00:37+00:00,794512324,794444677,1,Zati_Minecraft,Windows XP,
+2017-08-08T13:57:26+00:00,794511972,794196357,1,Zati_Minecraft,Windows 8.1,Windows 8.1
+2017-08-14T16:08:46+00:00,795494876,794517863,1,Jucia_7,Windows 95,Should After Windows 95 Is Windows NT 4.0
+2017-08-14T16:07:20+00:00,795494695,795288769,1,Jucia_7,Windows NT 4.0,Should Be Before Windows NT 4.0 Is Windows 95. Should After Windows NT 4.0 Is Windows 98
+2017-08-14T16:05:03+00:00,795494384,794517889,1,Jucia_7,Windows 98,Should After Windows 98 Is Windows 2000. Should Be Before Windows 98 Is Windows NT 4.0
+2017-08-14T16:01:54+00:00,795493957,795493824,1,Jucia_7,Windows 2000,Should After Window 2000 Is ME. Should Be Before Windows 2000 Is Windows 98
+2017-08-14T16:01:00+00:00,795493824,794853188,1,Jucia_7,Windows 2000,Should After Windows 2000 Is ME. Should Be Before Windows 2000 Is Windows 98
+2017-08-14T15:58:04+00:00,795493353,794812019,1,Jucia_7,Windows Me,It should be before Windows ME From Windows 2000
+2017-08-14T15:56:09+00:00,795493022,795187254,1,Jucia_7,Windows XP,Should Be Before Windows XP Normally Windows ME
+2017-08-11T13:26:42+00:00,795015535,795014961,0,Codename Lisa,Windows 8.1,*
+2017-08-08T13:57:49+00:00,794512015,794511972,0,KH-1,Windows 8.1,Reverted edits by [[Special:Contribs/Zati Minecraft|Zati Minecraft]] ([[User talk:Zati Minecraft|talk]]) to last version by Codename Lisa
+2017-08-08T20:57:55+00:00,794578754,794578178,0,74.65.82.137,Windows 2000,/* Accessibility */ removed brackets from Speech API 5
+2017-08-10T12:20:09+00:00,794853188,794825625,0,Dawnseeker2000,Windows 2000,Reverted 1 edit by [[Special:Contributions/Superwindows10 yaa|Superwindows10 yaa]] ([[User talk:Superwindows10 yaa|talk]]) to last revision by 74.65.82.137. ([[WP:TW|TW]])
+2017-08-08T14:38:53+00:00,794517863,794512940,0,Dawnseeker2000,Windows 95,Reverted edits by [[Special:Contribs/Zati Minecraft|Zati Minecraft]] ([[User talk:Zati Minecraft|talk]]) to last version by Davey2010
+2017-08-10T05:44:05+00:00,794812019,794512527,0,Jon Kolbert,Windows Me,updated reference link from using http to https
+2017-08-08T14:39:02+00:00,794517889,794512746,0,Dawnseeker2000,Windows 98,Reverted edits by [[Special:Contribs/Zati Minecraft|Zati Minecraft]] ([[User talk:Zati Minecraft|talk]]) to last version by Adam9007
+2017-08-08T14:02:31+00:00,794512527,794512501,0,99.53.112.186,Windows Me,Undid revision 794512501 by [[Special:Contributions/Zati Minecraft|Zati Minecraft]] ([[User talk:Zati Minecraft|talk]])
+2017-08-10T13:42:44+00:00,794862259,794792851,0,Jon Kolbert,Windows XP,updated reference link from using http to https
+2017-08-11T12:08:19+00:00,795007309,795006938,0,200.223.199.146,Windows XP,/* Service Pack 1 */ How much SP1a weighted?
+2017-08-12T16:21:26+00:00,795187254,795178010,0,AussieLegend,Windows XP,Reverted edits by [[Special:Contribs/2600:1016:B11D:E2D3:C9D4:502E:64ED:840|2600:1016:B11D:E2D3:C9D4:502E:64ED:840]] ([[User talk:2600:1016:B11D:E2D3:C9D4:502E:64ED:840|talk]]) to last version by Codename Lisa
+2017-08-13T07:35:51+00:00,795288769,795278780,0,AnomieBOT,Windows NT 4.0,Dating maintenance tags: {{Use dmy dates}}
+2017-08-10T05:52:25+00:00,794812882,794517890,0,Jon Kolbert,Windows NT 4.0,updated reference link from using http to https
+2017-08-11T05:14:00+00:00,794972229,794862259,0,198.13.201.49,Windows XP,

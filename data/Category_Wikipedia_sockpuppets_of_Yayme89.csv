@@ -1,0 +1,577 @@
+timestamp,revid,parentid,sock,user,page,message
+2009-06-11T21:09:22+00:00,295855112,295679481,1,Yayme89,List of tallest buildings by U.S. state and territory,/* Current tallest buildings */
+2009-06-11T20:36:47+00:00,295849137,295809535,1,Yayme89,"El Paso, Texas",/* Demographics */
+2009-06-11T20:33:12+00:00,295848465,295671954,1,Yayme89,Houston,/* Demographics */
+2009-06-11T20:29:52+00:00,295847875,295847664,1,Yayme89,"Gary, Indiana",/* Demographics */
+2009-06-11T20:28:38+00:00,295847664,295847540,1,Yayme89,"Gary, Indiana",/* Demographics */
+2009-06-11T20:27:55+00:00,295847540,295847283,1,Yayme89,"Gary, Indiana",/* Demographics */
+2009-06-11T20:26:30+00:00,295847283,294205624,1,Yayme89,"Gary, Indiana",/* Demographics */
+2009-06-11T20:17:21+00:00,295845653,295845321,1,Yayme89,"Peoria, Illinois",/* Demographics */
+2009-06-11T20:15:17+00:00,295845321,294702761,1,Yayme89,"Peoria, Illinois",/* Demographics */
+2009-06-11T20:04:45+00:00,295843483,293468075,1,Yayme89,"Peoria, Arizona",
+2009-05-22T02:03:49+00:00,291528619,290944587,1,Bobdud34,"Cairo, Illinois",/* Demographics */
+2009-05-22T01:56:41+00:00,291527546,291527254,1,Bobdud34,List of most populous cities in the United States by decade,/* 1850 */
+2009-05-22T01:54:20+00:00,291527206,291526954,1,Bobdud34,List of most populous cities in the United States by decade,/* 1840 */
+2009-05-22T01:52:34+00:00,291526954,291526776,1,Bobdud34,List of most populous cities in the United States by decade,/* 1830 */
+2009-05-22T01:51:07+00:00,291526776,291518740,1,Bobdud34,List of most populous cities in the United States by decade,/* 1820 */
+2009-05-22T00:58:03+00:00,291518392,291518088,1,Bobdud34,List of most populous cities in the United States by decade,/* 1820 */
+2009-05-22T00:56:10+00:00,291518088,291517939,1,Bobdud34,List of most populous cities in the United States by decade,/* 1810 */
+2009-05-22T00:55:21+00:00,291517939,291517748,1,Bobdud34,List of most populous cities in the United States by decade,/* 1810 */
+2009-05-22T00:54:12+00:00,291517748,291517503,1,Bobdud34,List of most populous cities in the United States by decade,/* 1800 */
+2009-05-22T00:52:38+00:00,291517503,291306769,1,Bobdud34,List of most populous cities in the United States by decade,/* 1790 */
+2009-05-20T21:45:49+00:00,291266893,291266577,1,Bobdud34,List of most populous cities in the United States by decade,/* 1890 */
+2009-05-20T21:44:00+00:00,291266577,291266375,1,Bobdud34,List of most populous cities in the United States by decade,/* 1880 */
+2009-05-20T21:42:55+00:00,291266375,291265943,1,Bobdud34,List of most populous cities in the United States by decade,/* 1880 */
+2009-05-20T21:40:39+00:00,291265943,291265545,1,Bobdud34,List of most populous cities in the United States by decade,/* 1870 */
+2009-05-20T21:38:41+00:00,291265545,291265175,1,Bobdud34,List of most populous cities in the United States by decade,/* 1860 */
+2009-05-20T21:36:20+00:00,291265051,291264857,1,Bobdud34,List of most populous cities in the United States by decade,/* 1850 */
+2009-05-20T21:35:22+00:00,291264857,291264811,1,Bobdud34,List of most populous cities in the United States by decade,/* 1840 */
+2009-05-20T21:33:58+00:00,291264572,291264343,1,Bobdud34,List of most populous cities in the United States by decade,/* 1830 */
+2009-05-20T21:32:45+00:00,291264343,291263945,1,Bobdud34,List of most populous cities in the United States by decade,/* 1820 */
+2009-05-20T21:30:35+00:00,291263945,291263544,1,Bobdud34,List of most populous cities in the United States by decade,/* 1810 */
+2009-05-20T21:28:34+00:00,291263544,291263385,1,Bobdud34,List of most populous cities in the United States by decade,/* 1800 */
+2009-05-20T21:27:40+00:00,291263385,290776511,1,Bobdud34,List of most populous cities in the United States by decade,/* 1790 */
+2009-05-18T00:12:54+00:00,290617430,290616970,1,Bobdud34,List of most populous cities in the United States by decade,/* 1890 */
+2009-05-18T00:09:53+00:00,290616970,290616624,1,Bobdud34,List of most populous cities in the United States by decade,/* 1880 */
+2009-05-18T00:07:35+00:00,290616624,290616580,1,Bobdud34,List of most populous cities in the United States by decade,/* 1870 */
+2009-05-18T00:07:15+00:00,290616580,290616237,1,Bobdud34,List of most populous cities in the United States by decade,/* 1870 */
+2009-05-18T00:05:01+00:00,290616237,290615858,1,Bobdud34,List of most populous cities in the United States by decade,/* 1860 */
+2009-05-18T00:02:28+00:00,290615858,290615650,1,Bobdud34,List of most populous cities in the United States by decade,/* 1850 */
+2009-05-18T00:01:25+00:00,290615650,290615409,1,Bobdud34,List of most populous cities in the United States by decade,/* 1840 */
+2009-05-18T00:00:14+00:00,290615409,290614798,1,Bobdud34,List of most populous cities in the United States by decade,/* 1830 */
+2009-05-17T23:56:56+00:00,290614798,290614492,1,Bobdud34,List of most populous cities in the United States by decade,/* 1820 */
+2009-05-17T23:54:58+00:00,290614492,290614320,1,Bobdud34,List of most populous cities in the United States by decade,/* 1810 */
+2009-05-17T23:53:57+00:00,290614320,290613857,1,Bobdud34,List of most populous cities in the United States by decade,/* 1800 */
+2009-05-17T23:51:07+00:00,290613857,290532892,1,Bobdud34,List of most populous cities in the United States by decade,/* 1790 */
+2009-05-15T11:57:54+00:00,290077604,290077543,1,Bobdud34,List of most populous cities in the United States by decade,/* 1920 */
+2009-05-15T11:57:22+00:00,290077543,290077210,1,Bobdud34,List of most populous cities in the United States by decade,/* 1920 */
+2009-05-15T11:54:40+00:00,290077210,290076863,1,Bobdud34,List of most populous cities in the United States by decade,/* 1910 */
+2009-05-15T11:51:29+00:00,290076863,290076544,1,Bobdud34,List of most populous cities in the United States by decade,/* 1900 */
+2009-05-15T11:48:45+00:00,290076544,290076216,1,Bobdud34,List of most populous cities in the United States by decade,/* 1890 */
+2009-05-15T11:46:07+00:00,290076171,290076158,1,Bobdud34,List of most populous cities in the United States by decade,/* 1880 */
+2009-05-15T11:44:48+00:00,290076002,290075833,1,Bobdud34,List of most populous cities in the United States by decade,/* 1870 */
+2009-05-15T11:43:33+00:00,290075833,290075800,1,Bobdud34,List of most populous cities in the United States by decade,/* 1860 */
+2009-05-15T11:41:56+00:00,290075661,290064848,1,Bobdud34,List of most populous cities in the United States by decade,/* 1850 */
+2009-05-14T23:10:01+00:00,289983597,289983398,1,Bobdud34,List of most populous cities in the United States by decade,/* 1840 */
+2009-05-14T23:08:38+00:00,289983398,289983208,1,Bobdud34,List of most populous cities in the United States by decade,/* 1830 */
+2009-05-14T23:07:27+00:00,289983208,289983030,1,Bobdud34,List of most populous cities in the United States by decade,/* 1820 */
+2009-05-14T23:06:26+00:00,289983030,289982863,1,Bobdud34,List of most populous cities in the United States by decade,/* 1810 */
+2009-05-14T23:05:16+00:00,289982863,289982713,1,Bobdud34,List of most populous cities in the United States by decade,/* 1800 */
+2009-05-14T23:04:23+00:00,289982713,289982636,1,Bobdud34,List of most populous cities in the United States by decade,/* 1790 */
+2009-05-14T23:03:56+00:00,289982636,289978627,1,Bobdud34,List of most populous cities in the United States by decade,/* 1790 */
+2009-05-12T23:16:19+00:00,289569313,289568987,1,Bobdud34,List of most populous cities in the United States by decade,/* 1870 */
+2009-05-12T23:13:50+00:00,289568913,289568772,1,Bobdud34,List of most populous cities in the United States by decade,/* 1860 */
+2009-05-12T23:12:34+00:00,289568718,289568567,1,Bobdud34,List of most populous cities in the United States by decade,/* 1860 */
+2009-05-12T23:11:01+00:00,289568474,289568358,1,Bobdud34,List of most populous cities in the United States by decade,/* 1850 */
+2009-05-12T23:09:49+00:00,289568285,289568105,1,Bobdud34,List of most populous cities in the United States by decade,/* 1840 */
+2009-05-12T23:08:21+00:00,289568017,289567936,1,Bobdud34,List of most populous cities in the United States by decade,/* 1830 */
+2009-05-12T23:06:52+00:00,289567764,289567608,1,Bobdud34,List of most populous cities in the United States by decade,/* 1820 */
+2009-05-12T23:05:55+00:00,289567608,289567278,1,Bobdud34,List of most populous cities in the United States by decade,/* 1810 */
+2009-05-12T23:03:56+00:00,289567278,289566967,1,Bobdud34,List of most populous cities in the United States by decade,/* 1800 */
+2009-05-12T23:02:01+00:00,289566967,289070680,1,Bobdud34,List of most populous cities in the United States by decade,/* 1790 */
+2009-05-12T02:07:33+00:00,289378253,289219312,1,Bobdud34,Key West,/* Demographics */
+2009-04-28T23:23:45+00:00,286747352,286746342,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-28T23:17:37+00:00,286746342,286745530,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-28T23:12:57+00:00,286745530,286608592,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-28T23:02:46+00:00,286743868,286743462,1,Bobdud56,San Antonio,/* Demographics */
+2009-04-28T23:00:30+00:00,286743462,286685071,1,Bobdud56,San Antonio,/* Demographics */
+2009-04-28T22:57:17+00:00,286742853,286742542,1,Bobdud56,Los Angeles,/* Demographics */
+2009-04-28T22:55:43+00:00,286742542,286333514,1,Bobdud56,Los Angeles,/* Demographics */
+2009-04-24T21:24:39+00:00,285930593,285930159,1,Bobdud56,"Jacksonville, Florida",/* Demographics */
+2009-04-24T21:21:54+00:00,285930159,285929543,1,Bobdud56,"Jacksonville, Florida",/* Demographics */
+2009-04-24T21:16:37+00:00,285929326,285928888,1,Bobdud56,"Jacksonville, Florida",/* Demographics */
+2009-04-24T21:12:03+00:00,285928484,285713751,1,Bobdud56,"Jacksonville, Florida",/* Demographics */
+2009-04-24T21:06:35+00:00,285927538,285750292,1,Bobdud56,"Peoria, Illinois",
+2009-04-23T23:31:01+00:00,285750537,285750056,1,Bobdud56,"Rockford, Illinois",/* Demographics */
+2009-04-23T23:28:33+00:00,285750056,285749642,1,Bobdud56,"Rockford, Illinois",/* Demographics */
+2009-04-23T23:26:13+00:00,285749642,285749242,1,Bobdud56,"Rockford, Illinois",/* Demographics */
+2009-04-23T23:24:01+00:00,285749242,285748914,1,Bobdud56,"Rockford, Illinois",/* Demographics */
+2009-04-23T23:21:49+00:00,285748914,285748269,1,Bobdud56,"Rockford, Illinois",/* Demographics */
+2009-04-23T23:18:00+00:00,285748269,285748086,1,Bobdud56,"Rockford, Illinois",/* Demographics */
+2009-04-23T23:16:58+00:00,285748086,285747860,1,Bobdud56,"Rockford, Illinois",/* Demographics */
+2009-04-23T23:15:29+00:00,285747860,285747560,1,Bobdud56,"Rockford, Illinois",/* Demographics */
+2009-04-23T23:13:35+00:00,285747560,285635118,1,Bobdud56,"Rockford, Illinois",
+2009-04-23T23:10:08+00:00,285747021,285746340,1,Bobdud56,"Peoria, Illinois",/* Demographics */
+2009-04-23T23:06:13+00:00,285746340,285746119,1,Bobdud56,"Peoria, Illinois",
+2009-04-23T23:04:57+00:00,285746119,285745868,1,Bobdud56,"Peoria, Illinois",
+2009-04-23T23:03:24+00:00,285745868,285512152,1,Bobdud56,"Peoria, Illinois",
+2009-04-20T21:45:07+00:00,285104250,285104019,1,Bobdud56,List of most populous cities in the United States by decade,/* 2007 Estimates */
+2009-04-20T21:44:01+00:00,285104019,285102978,1,Bobdud56,List of most populous cities in the United States by decade,/* 2007 Estimates */
+2009-04-20T21:38:52+00:00,285102978,285102759,1,Bobdud56,List of most populous cities in the United States by decade,/* 2000 */
+2009-04-20T21:37:51+00:00,285102759,285102509,1,Bobdud56,List of most populous cities in the United States by decade,/* 2000 */
+2009-04-20T21:36:42+00:00,285102509,285102310,1,Bobdud56,List of most populous cities in the United States by decade,/* 2000 */
+2009-04-20T21:35:37+00:00,285102310,285102109,1,Bobdud56,List of most populous cities in the United States by decade,/* 2000 */
+2009-04-20T21:34:45+00:00,285102109,285101772,1,Bobdud56,List of most populous cities in the United States by decade,/* 2000 */
+2009-04-20T21:33:18+00:00,285101772,285100702,1,Bobdud56,List of most populous cities in the United States by decade,/* 2000 */
+2009-04-20T21:28:11+00:00,285100702,285100529,1,Bobdud56,List of most populous cities in the United States by decade,/* 1990 */
+2009-04-20T21:27:27+00:00,285100529,285100325,1,Bobdud56,List of most populous cities in the United States by decade,/* 1990 */
+2009-04-20T21:26:32+00:00,285100325,285100052,1,Bobdud56,List of most populous cities in the United States by decade,/* 1990 */
+2009-04-20T21:25:28+00:00,285100052,285099034,1,Bobdud56,List of most populous cities in the United States by decade,/* 1990 */
+2009-04-20T21:20:40+00:00,285099034,285098854,1,Bobdud56,List of most populous cities in the United States by decade,/* 1980 */
+2009-04-20T21:19:54+00:00,285098854,285098260,1,Bobdud56,List of most populous cities in the United States by decade,/* 1980 */
+2009-04-20T21:17:07+00:00,285098260,285097920,1,Bobdud56,List of most populous cities in the United States by decade,/* 1970 */
+2009-04-20T21:15:30+00:00,285097920,285097585,1,Bobdud56,List of most populous cities in the United States by decade,/* 1960 */
+2009-04-20T21:14:04+00:00,285097585,285097240,1,Bobdud56,List of most populous cities in the United States by decade,/* 1950 */
+2009-04-20T21:12:19+00:00,285097240,285096980,1,Bobdud56,List of most populous cities in the United States by decade,/* 1940 */
+2009-04-20T21:11:13+00:00,285096980,285096640,1,Bobdud56,List of most populous cities in the United States by decade,/* 1930 */
+2009-04-20T21:09:44+00:00,285096640,284930638,1,Bobdud56,List of most populous cities in the United States by decade,/* 1920 */
+2009-04-20T21:01:56+00:00,285094883,285094645,1,Bobdud56,Chicago,
+2009-04-20T21:00:45+00:00,285094645,285094188,1,Bobdud56,Chicago,/* Demographics */
+2009-04-20T20:58:45+00:00,285094188,285093622,1,Bobdud56,Chicago,/* Demographics */
+2009-04-20T20:55:47+00:00,285093622,285092980,1,Bobdud56,Chicago,/* Demographics */
+2009-04-20T20:52:48+00:00,285092980,285065684,1,Bobdud56,Chicago,/* Demographics */
+2009-04-20T00:24:32+00:00,284912015,284911560,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-20T00:21:30+00:00,284911560,284911431,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-20T00:20:44+00:00,284911431,284911213,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-20T00:19:21+00:00,284911213,284910830,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-20T00:17:05+00:00,284910830,284910086,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-20T00:12:27+00:00,284910086,284909856,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-20T00:11:01+00:00,284909856,283657134,1,Bobdud56,List of United States cities by population,"/* Incorporated places over 100,000 population */"
+2009-04-20T00:01:00+00:00,284908315,284908036,1,Bobdud56,Chicago,
+2009-04-19T23:59:32+00:00,284908036,284907531,1,Bobdud56,Chicago,
+2009-04-19T23:56:28+00:00,284907531,284907158,1,Bobdud56,Chicago,/* Demographics */
+2009-04-19T23:54:12+00:00,284907158,284881370,1,Bobdud56,Chicago,/* Demographics */
+2009-04-19T23:46:34+00:00,284905869,284905767,1,Bobdud56,List of most populous cities in the United States by decade,/* Link title */
+2009-04-19T23:46:00+00:00,284905767,284904481,1,Bobdud56,List of most populous cities in the United States by decade,/* 2007 Estimates */
+2009-04-19T23:38:33+00:00,284904481,284903349,1,Bobdud56,List of most populous cities in the United States by decade,/* 2007 Estimates */
+2009-04-19T23:31:05+00:00,284903349,284902628,1,Bobdud56,List of most populous cities in the United States by decade,/* 2000 */
+2009-04-19T23:26:49+00:00,284902628,284902156,1,Bobdud56,List of most populous cities in the United States by decade,/* 1990 */
+2009-04-19T23:23:49+00:00,284902156,284901833,1,Bobdud56,List of most populous cities in the United States by decade,/* 1980 */
+2009-04-19T23:21:51+00:00,284901833,284901526,1,Bobdud56,List of most populous cities in the United States by decade,/* 1970 */
+2009-04-19T23:20:07+00:00,284901526,284901157,1,Bobdud56,List of most populous cities in the United States by decade,/* 1960 */
+2009-04-19T23:17:51+00:00,284901157,284900914,1,Bobdud56,List of most populous cities in the United States by decade,/* 1950 */
+2009-04-19T23:16:17+00:00,284900914,284900416,1,Bobdud56,List of most populous cities in the United States by decade,/* 1920 */
+2009-04-19T23:13:14+00:00,284900416,284900270,1,Bobdud56,List of most populous cities in the United States by decade,/* 1900 */
+2009-04-19T23:12:20+00:00,284900270,284899831,1,Bobdud56,List of most populous cities in the United States by decade,/* 1910 */
+2009-04-19T23:09:30+00:00,284899831,284899616,1,Bobdud56,List of most populous cities in the United States by decade,/* 1900 */
+2009-04-19T23:08:02+00:00,284899616,284899128,1,Bobdud56,List of most populous cities in the United States by decade,/* 1890 */
+2009-04-19T23:05:12+00:00,284899128,283906238,1,Bobdud56,List of most populous cities in the United States by decade,/* 1870 */
+2009-04-12T20:02:21+00:00,283416829,283291795,1,Bobdud56,List of tallest buildings by U.S. state and territory,/* Current tallest buildings */
+2009-04-12T01:50:34+00:00,283287705,283287370,1,Bobdud56,List of tallest buildings by U.S. state and territory,/* Current tallest buildings */
+2009-04-12T01:48:05+00:00,283287370,283287134,1,Bobdud56,List of tallest buildings by U.S. state and territory,/* Current tallest buildings */
+2009-04-12T01:46:23+00:00,283287134,280660194,1,Bobdud56,List of tallest buildings by U.S. state and territory,/* Current tallest buildings */
+2009-04-12T01:44:24+00:00,283286851,283286565,1,Bobdud56,Chicago,
+2009-06-24T15:45:46+00:00,298372958,0,1,Yayme9,User talk:Yayme9,[[WP:AES|←]]Created page with 'you are not going to be blocked anymore.'
+2009-06-14T18:24:54+00:00,296392973,296392874,1,Yayme9,"Meridian, Idaho",
+2009-06-14T18:23:52+00:00,296392819,296392485,1,Yayme9,"Meridian, Idaho",
+2009-06-14T18:21:57+00:00,296392485,296392276,1,Yayme9,"Meridian, Idaho",/* Demographics */
+2009-06-14T18:20:52+00:00,296392276,296391921,1,Yayme9,"Meridian, Idaho",/* Demographics */
+2009-06-14T18:18:57+00:00,296391921,295011169,1,Yayme9,"Meridian, Idaho",/* Demographics */
+2009-06-14T18:16:43+00:00,296391479,295529979,1,Yayme9,"Nampa, Idaho",/* Demographics */
+2009-06-14T18:14:33+00:00,296391065,296351656,1,Yayme9,"Boise, Idaho",/* Demographics */
+2009-06-14T18:09:33+00:00,296390166,295943525,1,Yayme9,"Hartford, Connecticut",/* Demographics */
+2009-06-14T18:07:49+00:00,296389830,296301750,1,Yayme9,Connecticut,/* Demographics */
+2009-06-14T18:04:33+00:00,296389267,295848117,1,Yayme9,"Lawrence, Massachusetts",/* Demographics */
+2009-06-14T18:02:30+00:00,296388942,296167861,1,Yayme9,"Reading, Pennsylvania",/* Demographics */
+2009-06-14T17:55:32+00:00,296387834,296387522,1,Yayme9,Philadelphia,/* Demographics */
+2009-06-14T17:53:36+00:00,296387522,296367730,1,Yayme9,Philadelphia,/* Demographics */
+2009-06-13T13:51:23+00:00,296167337,295934688,1,Yayme9,Houston,/* Demographics */
+2009-06-13T13:49:51+00:00,296167121,295933641,1,Yayme9,"Peoria, Arizona",/* Demographics */
+2009-06-13T13:47:34+00:00,296166821,296166636,1,Yayme9,Philadelphia,/* Demographics */
+2009-06-13T13:46:20+00:00,296166636,296049785,1,Yayme9,Philadelphia,/* Demographics */
+2009-06-12T01:51:30+00:00,295898400,295888708,1,Yayme9,Seattle,/* Demographics */
+2009-06-12T01:46:23+00:00,295897692,295895498,1,Yayme9,"Buffalo, New York",/* Demographics */
+2009-06-12T01:43:36+00:00,295897272,295405527,1,Yayme9,"Erie, Pennsylvania",/* Demographics and religion */
+2009-06-12T01:34:06+00:00,295895828,295895171,1,Yayme9,Philadelphia,/* Demographics */
+2009-06-12T01:29:33+00:00,295895171,295892971,1,Yayme9,Philadelphia,/* Demographics */
+2009-06-12T01:25:33+00:00,295894585,295542421,1,Yayme9,Baltimore,/* Demographics */
+2009-06-09T14:43:08+00:00,295379650,295379318,1,Yayme23,Mississippi,/* Population */
+2009-06-09T14:41:09+00:00,295379318,294857441,1,Yayme23,Mississippi,/* Population */
+2009-06-09T14:37:55+00:00,295378801,295281712,1,Yayme23,Georgia (U.S. state),/* Demographics */
+2009-06-09T14:33:09+00:00,295377993,295364020,1,Yayme23,"Milledgeville, Georgia",
+2009-06-08T17:41:46+00:00,295207877,295167170,1,Yayme23,Delaware,/* Demographics */
+2009-06-08T17:39:19+00:00,295207436,295083439,1,Yayme23,Pennsylvania,/* Demographics */
+2009-06-08T17:36:16+00:00,295206907,295206351,1,Yayme23,Nebraska,/* Demographics */
+2009-06-08T17:32:00+00:00,295206133,294982583,1,Yayme23,Nebraska,/* Demographics */
+2009-06-08T17:26:20+00:00,295205117,294479908,1,Yayme23,"Elgin, Illinois",/* Demographics */
+2009-06-08T17:17:05+00:00,295203509,295187417,1,Yayme23,"Waukegan, Illinois",/* Demography */
+2009-08-13T15:28:56+00:00,307759440,307759182,1,Yayme51,"Peoria, Illinois",/* Climate */
+2009-08-13T15:27:16+00:00,307759182,307110007,1,Yayme51,"Peoria, Illinois",/* Climate */
+2009-08-13T15:22:15+00:00,307758407,307707910,1,Yayme51,Chicago,/* Climate */
+2009-08-12T16:24:23+00:00,307581015,307281410,1,Yayme51,List of Code Lyoko episodes,/* Season 4: 2007 */
+2009-08-06T00:59:16+00:00,306313718,306289909,1,Yayme51,St. Louis,/* Climate */
+2009-05-02T23:54:09+00:00,287543865,287401697,0,JonHarder,Baltimore,/* Sister cities */ use SisterCities template
+2009-06-08T03:13:55+00:00,295101245,294415779,0,75.134.21.253,"Cairo, Illinois",
+2009-06-14T14:26:11+00:00,296356804,296356763,0,Cxz111,Baltimore,Reverted edits by [[Special:Contributions/93.162.107.34|93.162.107.34]] to last revision by South Bay ([[WP:HG|HG]])
+2009-07-11T23:02:48+00:00,301606429,301606269,0,24.198.47.82,"Buffalo, New York",/* Current teams */
+2009-06-27T11:17:34+00:00,298920623,298845233,0,Woohookitty,Chicago,Disambiguate [[Greek]] to [[Greeks]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2009-06-17T18:20:04+00:00,296999674,296647992,0,12.35.10.170,"Cairo, Illinois",/* Notable residents */
+2009-05-05T22:38:40+00:00,288149801,288149567,0,206.174.68.129,"Boise, Idaho",/* History */
+2009-06-06T16:11:42+00:00,294801423,294767902,0,Jivecat,Chicago,Reverted 1 edit by [[Special:Contributions/71.57.3.106|71.57.3.106]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Kevin Forsyth|Kevin Forsyth]]. using [[WP:TWINKLE|TW]]
+2009-06-04T03:43:19+00:00,294311951,294281495,0,Arcayne,Chicago,/* Cuisine */ alphabetical order avoids the appearance of favoritism
+2009-07-31T03:28:38+00:00,305206658,305182791,0,75.34.50.2,Chicago,/* Architecture */
+2009-04-16T14:45:59+00:00,284218285,284217556,0,TexasAndroid,Chicago,[[WP:RBK|Reverted]] edits by [[Special:Contributions/65.117.141.8|65.117.141.8]] ([[User talk:65.117.141.8|talk]]) to last version by Pknkly
+2009-08-08T13:06:58+00:00,306788575,306788372,0,Rulrich,Chicago,/* Colleges and universities */
+2009-06-01T12:24:05+00:00,293707855,293706500,0,Jivecat,Chicago,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Tobby72|Tobby72]]; Not supported by citation. using [[WP:TWINKLE|TW]]
+2009-07-07T17:02:27+00:00,300824238,300748663,0,GrouchoBot,"Boise, Idaho",robot Adding: [[os:Бойсе (Айдахо)]]
+2009-06-05T12:29:19+00:00,294564739,294540356,0,Jivecat,Chicago,Reverted to revision 294429676 by [[Special:Contributions/208.105.85.67|208.105.85.67]]; rvv and missing space. using [[WP:TWINKLE|TW]]
+2009-06-18T20:06:21+00:00,297224442,297224273,0,66.192.176.30,Chicago,/* Architecture */
+2009-05-07T23:55:05+00:00,288577241,288575831,0,DerechoReguerraz,Chicago,/* Economy */
+2009-06-17T21:01:14+00:00,297028695,297015002,0,66.192.176.30,Chicago,/* Media */
+2009-04-20T00:25:35+00:00,284912194,284908315,0,South Bay,Chicago,Reverted 4 edits by [[Special:Contributions/Bobdud56|Bobdud56]]; Possible vandalism. ([[WP:TW|TW]])
+2009-05-02T02:42:36+00:00,287374731,287278742,0,JBC3,"Buffalo, New York",[[WP:UNDO|Undid]] revision 287278742 by [[Special:Contributions/Shanman7|Shanman7]] ([[User talk:Shanman7|talk]]) rv - SJCI not in Buffalo
+2009-07-20T17:20:57+00:00,303166163,303164646,0,152.132.8.193,Chicago,/* Colleges and universities */
+2009-05-22T22:44:22+00:00,291707839,291707808,0,William C. Bruce,Chicago,/* Transportation */
+2009-06-11T04:33:17+00:00,295718041,295717961,0,Fyyer,Chicago,Reverted edits by [[Special:Contributions/98.193.112.37|98.193.112.37]] to last revision by Baseball Bugs ([[WP:HG|HG]])
+2009-07-10T05:46:12+00:00,301321777,301281858,0,Nightscream,Chicago,ce
+2009-05-21T13:04:51+00:00,291392261,291330080,0,Jivecat,Chicago,Reverted 1 edit by [[Special:Contributions/24.148.25.175|24.148.25.175]]; Redlink; why not [[WP:WTAF|write the article first]]?. using [[WP:TWINKLE|TW]]
+2009-04-09T23:01:04+00:00,282867205,282866964,0,99.18.151.214,"Elgin, Illinois",/* Government */
+2009-07-14T14:23:35+00:00,302048790,302048750,0,The Thing That Should Not Be,"El Paso, Texas",Reverted edits by [[Special:Contributions/156.56.172.74|156.56.172.74]] to last revision by Until It Sleeps ([[WP:HG|HG]])
+2009-07-07T06:15:03+00:00,300744439,300741065,0,Astuishin,Chicago,"too large, moving sections into daughter article per [[Wikipedia:Article size]]"
+2009-04-18T18:46:46+00:00,284659628,284651125,0,Pknkly,Chicago,specific info in place of general with nonWiki citation
+2009-04-10T18:56:47+00:00,283026709,282077496,0,Flatterworld,Delaware,"/* External links */ using template for wikitravel, putting official state page at top, adding dmoz"
+2009-04-27T00:10:25+00:00,286333906,285673139,0,Jgthor,"Erie, Pennsylvania",/* Utilities */
+2009-07-31T09:10:48+00:00,305244331,305206658,0,Iridescent,Chicago,"Cleanup/[[WP:AWB/T|typo fixing]], typos fixed: accomodations → accommodations, politicans → politicians, Childrens → Children's using [[Project:AutoWikiBrowser|AWB]]"
+2009-07-02T20:15:44+00:00,299947501,299942889,0,Tedickey,Connecticut,[[WP:UNDO|Undid]] revision 299942889 by [[Special:Contributions/24.57.203.182|24.57.203.182]] ([[User talk:24.57.203.182|talk]])
+2009-06-06T02:29:42+00:00,294707652,294707577,0,Fyyer,"Erie, Pennsylvania",Reverted edits by [[Special:Contributions/174.100.221.91|174.100.221.91]] to last revision by Dtbohrer ([[WP:HG|HG]])
+2009-06-28T18:14:21+00:00,299158162,299157159,0,Cool Stuff Is Cool,Chicago,/* Demographics */
+2009-06-28T12:19:57+00:00,299107041,299037694,0,Numbo3-bot,Connecticut,robot Adding: [[bcl:Connecticut]]
+2009-07-14T20:53:43+00:00,302109379,302077704,0,Iulus Ascanius,"Elgin, Illinois",Spamming yourself is not very bright. [[WP:UNDO|Undid]] revision 302077704 by [[Special:Contributions/Omarrizvi34|Omarrizvi34]] ([[User talk:Omarrizvi34|talk]])
+2009-05-28T12:58:56+00:00,292870779,292816433,0,Ratemonth,"El Paso, Texas",[[WP:UNDO|Undid]] revision 292816433 by [[Special:Contributions/98.197.12.40|98.197.12.40]] ([[User talk:98.197.12.40|talk]])
+2009-07-28T13:42:54+00:00,304677699,304677556,0,Sedna10387,Delaware,
+2009-07-03T07:37:04+00:00,300013874,299872222,0,188.2.206.10,"Gary, Indiana",
+2009-05-13T00:33:38+00:00,289582472,289367921,0,WadeSimMiser,"Gary, Indiana",/* External links */
+2009-05-22T15:01:53+00:00,291624959,291624557,0,Sprintmaster,"Gary, Indiana",/* Sports */
+2009-07-17T19:28:05+00:00,302650146,302649195,0,Piano non troppo,"Gary, Indiana","Removes overlinking [[WP:CONTEXT]], verbose language, uncited original research, pointless obvervations."
+2009-05-31T18:47:48+00:00,293560906,293550437,0,Charles Edward,"Gary, Indiana",[[WP:RBK|Reverted]] edits by [[Special:Contributions/70.181.25.223|70.181.25.223]] ([[User talk:70.181.25.223|talk]]) to last version by Sprintmaster
+2009-07-21T22:57:54+00:00,303427663,303427613,0,Ronhjones,"Gary, Indiana",Reverted edits by [[Special:Contributions/208.84.69.220|208.84.69.220]] to last revision by 98.192.126.101 ([[WP:HG|HG]])
+2009-04-23T08:38:17+00:00,285616871,285616512,0,JCDenton2052,Georgia (U.S. state),/* Politics */ Fix source.
+2009-05-03T15:34:51+00:00,287656001,287639658,0,Cuchullain,"Jacksonville, Florida",rv
+2009-04-26T22:28:07+00:00,286315332,284901180,0,98.115.222.235,"Hartford, Connecticut",/* Famous Hartford residents */
+2009-06-03T17:16:25+00:00,294205624,293781457,0,216.125.49.252,"Gary, Indiana",/* Neighborhoods */
+2009-04-24T02:17:24+00:00,285776623,285747093,0,RJN,Houston,[[WP:UNDO|Undid]] revision 285681343 by [[Special:Contributions/74.192.199.243|74.192.199.243]] ([[User talk:74.192.199.243|talk]])
+2009-05-28T23:57:19+00:00,292990896,292406983,0,Erik9bot,Houston,remove [[template:WikiMapia]] per [[Wikipedia:Templates_for_deletion/Log/2009_May_18#Template:WikiMapia|TFD]]
+2009-04-16T18:13:32+00:00,284251400,284248037,0,Xqbot,"Hartford, Connecticut",robot  Adding: [[uk:Хартфорд (Коннектикут)]]; cosmetic changes
+2009-04-30T23:30:15+00:00,287146663,287146182,0,Nsaa,Houston,Reverted edits by [[Special:Contributions/76.247.248.59|76.247.248.59]] to last revision by Postoak ([[WP:HG|HG]])
+2009-07-15T10:36:47+00:00,302203023,302132440,0,Donald Albury,"Jacksonville, Florida","Reverted 1 edit by [[Special:Contributions/24.116.12.119|24.116.12.119]]; Unsourced, unexplained change in population figure, it's 'improv comedy', don't know what 'improve comedy' is. ([[WP:TW|TW]])"
+2009-05-07T11:37:30+00:00,288455154,288002641,0,Xqbot,Houston,robot  Adding: [[os:Хьюстон]]
+2009-07-28T12:28:36+00:00,304667423,304654924,0,Cuchullain,"Jacksonville, Florida",religion material needs citations
+2009-05-30T03:17:47+00:00,293231129,293191568,0,Unschool,"Jacksonville, Florida",sigh.
+2009-05-18T18:37:42+00:00,290765989,290763945,0,Mgreason,"Jacksonville, Florida",/* Non-profit/service organizations */  move organization detail to article on subject
+2009-05-03T21:38:23+00:00,287719486,287719431,0,Idioma-bot,Key West,robot  Adding: [[lt:Ki Vestas (Florida)]]
+2009-08-05T13:52:19+00:00,306207543,306147513,0,Cuchullain,"Jacksonville, Florida",The only source is the team's own website. Also removing some colleges.
+2009-06-09T17:38:03+00:00,295411244,291613621,0,Glfhc,"Lawrence, Massachusetts","Added GLFHC.org - a community based federally funded health center based in Lawrence, MA"
+2009-04-21T20:12:29+00:00,285302787,285302495,0,173.9.77.178,"Lawrence, Massachusetts",/* TV */
+2009-04-15T14:26:05+00:00,283999673,283756299,0,199.67.140.242,"Jacksonville, Florida",/* Higher education */
+2009-08-08T16:15:22+00:00,306812842,306809986,0,Donald Albury,"Jacksonville, Florida","Reverted 1 edit by [[Special:Contributions/Youndbuckerz|Youndbuckerz]]; Not a reliable source, and even that is much more speculative than the text in this article, please3 discuss on talk page before adding again. ([[WP:TW|TW]])"
+2009-04-27T22:59:46+00:00,286534854,284467219,0,Jhendin,Key West,language add on
+2009-07-25T15:30:44+00:00,304133130,304131715,0,The Rogue Penguin,List of Code Lyoko episodes,rv
+2009-07-19T16:42:33+00:00,302971742,302971528,0,Local hero,List of United States cities by population,rv
+2009-06-20T15:55:44+00:00,297562818,297442853,0,LonelyMarble,List of United States cities by population,This image has been deleted. [[WP:UNDO|Undid]] revision 297442853 by [[Special:Contributions/Southsanjose|Southsanjose]] ([[User talk:Southsanjose|talk]])
+2009-05-23T13:10:17+00:00,291804535,291428989,0,Alexbot,List of United States cities by population,robot  Adding: [[it:Lista delle città degli Stati Uniti per popolazione]]
+2009-04-13T22:07:08+00:00,283657134,283654147,0,LonelyMarble,List of United States cities by population,add format to references
+2009-07-27T07:01:01+00:00,304431818,303451848,0,Kansan,List of United States cities by population,"the name of the city is Boise, not Boise City"
+2009-07-14T18:57:43+00:00,302091049,302053136,0,The Rogue Penguin,List of Code Lyoko episodes,rv
+2009-07-19T03:36:09+00:00,302883084,302336989,0,Ryuhaku,List of United States cities by population,/* External links */ added ja
+2009-08-07T11:56:28+00:00,306585392,306242147,0,Zebra848,List of United States cities by population,+de
+2009-08-11T14:53:15+00:00,307370061,307299598,0,LinkFA-Bot,List of United States cities by population,Bot: [[Template:Link FL|Link FL]] +id
+2009-05-31T20:03:13+00:00,293573343,291804535,0,LonelyMarble,List of United States cities by population,"add links to newly created article: [[List of United States cities by population density]] (kind of a branch off from this article, feel free to make improvements)"
+2009-05-06T02:21:39+00:00,288187616,288065208,0,Rhallanger,List of United States cities by population,
+2009-07-04T20:06:24+00:00,300286234,296284377,0,69.142.5.121,List of most populous cities in the United States by decade,/* 1890 */
+2009-06-02T18:36:02+00:00,293995918,293993804,0,Polaron,List of most populous cities in the United States by decade,rv to 292986928
+2009-05-23T13:52:46+00:00,291809664,291807096,0,Polaron,List of most populous cities in the United States by decade,Reverted to revision 291528231 by [[Special:Contributions/Polaron|Polaron]]. ([[WP:TW|TW]])
+2009-04-10T02:16:18+00:00,282897875,282818202,0,LonelyMarble,List of United States cities by population,/* Notes */ better word
+2009-06-14T02:56:59+00:00,296284377,296275855,0,25or6to4,List of most populous cities in the United States by decade,/* 1880 */ spelling and reformatting
+2009-05-03T22:41:22+00:00,287730583,286993854,0,Local hero,List of most populous cities in the United States by decade,/* External links */ +mk
+2009-05-10T14:38:16+00:00,289070680,289059770,0,Polaron,List of most populous cities in the United States by decade,Reverted to revision 289002640 by [[Special:Contributions/Polaron|Polaron]]. ([[WP:TW|TW]])
+2009-05-28T23:34:21+00:00,292986928,292969048,0,Polaron,List of most populous cities in the United States by decade,Reverted to revision 291809664 by [[Special:Contributions/Polaron|Polaron]]. ([[WP:TW|TW]])
+2009-04-30T05:04:03+00:00,286993854,285149540,0,64.85.222.11,List of most populous cities in the United States by decade,/* 1850 */ First city west of the [[Mississippi River]] to rank in the top 10
+2009-05-18T00:26:03+00:00,290619555,290617430,0,Polaron,List of most populous cities in the United States by decade,Reverted to revision 290513105 by [[Special:Contributions/Fuhghettaboutit|Fuhghettaboutit]]. ([[WP:TW|TW]])
+2009-05-22T02:01:15+00:00,291528231,291527546,0,Polaron,List of most populous cities in the United States by decade,Reverted to revision 291527254 by [[Special:Contributions/Polaron|Polaron]]. ([[WP:TW|TW]])
+2009-04-21T02:10:31+00:00,285149540,285104250,0,Phizzy,List of most populous cities in the United States by decade,More vandalism by Bobdud56...bunch of fake population numbers
+2009-05-12T23:16:35+00:00,289569358,289569313,0,Dabomb87,List of most populous cities in the United States by decade,Reverted edits by [[Special:Contributions/Bobdud34|Bobdud34]] to last revision by BryanG ([[WP:HG|HG]])
+2009-06-04T14:02:27+00:00,294377966,294377132,0,Polaron,List of most populous cities in the United States by decade,rv to 293995918
+2009-05-18T19:29:06+00:00,290776511,290619555,0,Loodog,List of most populous cities in the United States by decade,/* 1950 */ you reverted me too
+2009-05-06T21:33:50+00:00,288350446,288350345,0,98.214.92.89,List of most populous cities in the United States by decade,/* 1950 */
+2009-05-15T12:00:06+00:00,290077840,290077604,0,Polaron,List of most populous cities in the United States by decade,Reverted to revision 290076216 by [[Special:Contributions/Polaron|Polaron]]. ([[WP:TW|TW]])
+2009-04-15T01:18:14+00:00,283906238,283905946,0,Intervals,List of most populous cities in the United States by decade,/* 2007 Estimates */
+2009-05-14T00:01:58+00:00,289778336,289778076,0,98.214.92.89,List of most populous cities in the United States by decade,/* 2007 Estimates */
+2009-05-08T02:21:26+00:00,288597767,288587845,0,Polaron,List of most populous cities in the United States by decade,Reverted to revision 288567227 by [[Special:Contributions/Polaron|Polaron]]. ([[WP:TW|TW]])
+2009-05-10T00:41:26+00:00,288974719,288974692,0,Javert,List of most populous cities in the United States by decade,Reverted edits by [[Special:Contributions/98.214.92.89|98.214.92.89]] to last revision by Willking1979 ([[WP:HG|HG]])
+2009-05-14T01:17:26+00:00,289790057,289778336,0,Polaron,List of most populous cities in the United States by decade,Reverted to revision 289775067 by [[Special:Contributions/Polaron|Polaron]]. ([[WP:TW|TW]])
+2009-05-17T16:21:54+00:00,290532892,290513105,0,Loodog,List of most populous cities in the United States by decade,/* 1950 */ source
+2009-05-06T21:54:55+00:00,288354480,288354301,0,Polaron,List of most populous cities in the United States by decade,rv to 285149540
+2009-04-06T15:33:00+00:00,282126447,282126423,0,ClueBot,List of most populous cities in the United States by decade,"Reverting possible vandalism by [[Special:Contributions/206.176.124.163|206.176.124.163]] to version by Phizzy. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (660831) (Bot)"
+2009-04-12T20:03:12+00:00,283416952,283416829,0,Alansohn,List of tallest buildings by U.S. state and territory,Reverted edits by [[Special:Contributions/Bobdud56|Bobdud56]] to last revision by Raime ([[WP:HG|HG]])
+2009-05-22T02:05:38+00:00,291528875,291528218,0,206.174.162.123,List of tallest buildings by U.S. state and territory,/* Current tallest buildings */
+2009-06-01T20:07:33+00:00,293787293,292699574,0,Bobak,List of tallest buildings by U.S. state and territory,/* Current tallest buildings */
+2009-05-27T16:56:31+00:00,292699574,292692396,0,69.177.58.91,List of tallest buildings by U.S. state and territory,
+2009-07-28T18:02:13+00:00,304719005,304221620,0,67.191.231.68,List of tallest buildings by U.S. state and territory,/* Upcoming/proposed tallest buildings */
+2009-06-14T13:05:11+00:00,296346908,295935855,0,24.2.217.120,List of tallest buildings by U.S. state and territory,/* Current tallest buildings */
+2009-06-25T17:24:01+00:00,298592905,297946895,0,205.144.228.14,List of tallest buildings by U.S. state and territory,/* Statistics */
+2009-05-13T00:28:46+00:00,289581588,287780660,0,76.195.232.101,List of tallest buildings by U.S. state and territory,
+2009-05-07T21:52:45+00:00,288557717,288202076,0,Antonel 19,Los Angeles,
+2009-05-17T01:00:22+00:00,290417766,290398787,0,Kwamikagami,Los Angeles,fix IPA link using [[Project:AutoWikiBrowser|AWB]]
+2009-04-27T00:08:29+00:00,286333514,286296727,0,Finavon,Los Angeles,rem blank ref
+2009-05-29T21:41:49+00:00,293176157,293176010,0,64.253.166.252,"Meridian, Idaho",
+2009-07-29T23:32:01+00:00,304975606,304733867,0,Detgfrsh,Los Angeles,/* Environmental issues */  reworded for clarity
+2009-07-10T18:35:25+00:00,301416189,301410207,0,Tedder,"Meridian, Idaho",Reverted 1 edit by [[Special:Contributions/64.253.166.252|64.253.166.252]]; Unexplained numbers change.([[WP:TW|TW]])
+2009-04-06T04:51:35+00:00,282039056,281804528,0,Glacier109,"Meridian, Idaho",
+2009-04-28T19:42:23+00:00,286707089,286030464,0,Glacier109,"Meridian, Idaho",/* Demographics */
+2009-04-25T12:17:10+00:00,286030464,282039056,0,Glacier109,"Meridian, Idaho",/* Population */
+2009-06-15T23:31:20+00:00,296647911,296641934,0,Cst17,"Meridian, Idaho",Reverted edits by [[Special:Contributions/98.214.151.120|98.214.151.120]] to last revision by Postoak ([[WP:HG|HG]])
+2009-06-09T14:34:47+00:00,295378250,295377993,0,Alansohn,"Milledgeville, Georgia",Reverted edits by [[Special:Contributions/Yayme23|Yayme23]] to last revision by 66.161.195.194 ([[WP:HG|HG]])
+2009-04-23T17:32:08+00:00,285687828,285687189,0,Barek,Mississippi,[[WP:UNDO|Undid]] revision 285687189 by [[Special:Contributions/168.254.226.63|168.254.226.63]] ([[User talk:168.254.226.63|talk]]) rvv
+2009-08-07T04:29:46+00:00,306538191,305690717,0,Hushpuckena,Mississippi,
+2009-04-19T02:27:10+00:00,284732702,282761264,0,75.117.42.222,"Milledgeville, Georgia",
+2009-05-13T02:04:00+00:00,289596010,289581061,0,Dudemanfellabra,Mississippi,/* Health */ remove duplicated reference
+2009-06-29T01:06:31+00:00,299220864,299220800,0,Rmosler2100,Mississippi,Reverted edits by [[Special:Contributions/99.49.15.85|99.49.15.85]] to last revision by Allstarecho ([[WP:HG|HG]])
+2009-04-10T19:07:00+00:00,283028600,281589964,0,Sahmeditor,"Nampa, Idaho",[[WP:UNDO|Undid]] revision 281589964 by [[Special:Contributions/194.144.11.214|194.144.11.214]] ([[User talk:194.144.11.214|talk]]) vandalism
+2009-06-14T18:23:55+00:00,296392831,296391479,0,Postoak,"Nampa, Idaho",[[WP:RBK|Reverted]] edits by [[Special:Contributions/Yayme9|Yayme9]] ([[User talk:Yayme9|talk]]) to last version by TJ Snodgrass
+2009-06-10T12:31:21+00:00,295567747,295567484,0,Berean Hunter,Nebraska,Reverted 1 edit by [[Special:Contributions/Deidara8293|Deidara8293]]; Rv. ([[WP:TW|TW]])
+2009-06-30T11:23:13+00:00,299488764,299373179,0,SmackBot,Nebraska,Date maintenance tags and general  fixes
+2009-05-18T00:09:12+00:00,290616869,290614396,0,GB fan,Nebraska,Reverted 1 edit by [[Special:Contributions/71.112.26.152|71.112.26.152]]; Please provide a source. ([[WP:TW|TW]])
+2009-04-19T04:18:33+00:00,284746911,284344762,0,72.84.2.115,Nebraska,/* Demographics */
+2009-04-17T19:39:45+00:00,284480997,284480970,0,ClueBot,Pennsylvania,"Reverting possible vandalism by [[Special:Contributions/68.194.145.188|68.194.145.188]] to version by South Bay. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (673676) (Bot)"
+2009-04-07T20:23:46+00:00,282412232,275746496,0,156.42.184.101,"Peoria, Arizona",/* Government */
+2009-07-27T07:21:26+00:00,304434221,304432049,0,AlexiusHoratius,Pennsylvania,[[WP:UNDO|Undid]] revision 304432049 by [[Special:Contributions/98.164.222.9|98.164.222.9]] ([[User talk:98.164.222.9|talk]]) this is already linked a few sentences prior
+2009-07-07T16:44:52+00:00,300821307,297188087,0,72.9.221.65,"Peoria, Arizona",/* Current developments */
+2009-06-18T16:42:56+00:00,297188087,296200177,0,Rich Farmbrough,"Peoria, Arizona",general fixes
+2009-05-31T06:49:44+00:00,293468075,291466395,0,Node ue,"Peoria, Arizona",
+2009-06-29T01:37:34+00:00,299225245,299225138,0,WarthogDemon,"Peoria, Illinois",[[WP:UNDO|Undid]] revision 299225138 by [[Special:Contributions/75.23.68.58|75.23.68.58]] ([[User talk:75.23.68.58|talk]]) Rv blanking without any explanation.
+2009-04-27T18:28:36+00:00,286485725,286483784,0,Tb,"Peoria, Illinois",[[WP:RBK|Reverted]] edits by [[Special:Contributions/98.214.124.109|98.214.124.109]] ([[User talk:98.214.124.109|talk]]) to last version by Tide rolls
+2009-05-31T22:46:31+00:00,293601785,290513006,0,68.83.15.25,"Peoria, Illinois",/* Rail transportation */
+2009-04-25T23:21:01+00:00,286128201,286128156,0,Tide rolls,"Peoria, Illinois",Reverted edits by [[Special:Contributions/98.214.124.109|98.214.124.109]] to last revision by Tide rolls ([[WP:HG|HG]])
+2009-06-16T16:11:30+00:00,296779277,296779022,0,69.209.72.131,"Peoria, Illinois",/* Awards */
+2009-06-21T04:42:44+00:00,297671036,297623396,0,Packerfansam,"Peoria, Illinois",/* People born or raised in Peoria */  Acie Earl
+2009-07-14T00:36:23+00:00,301961225,301959116,0,Huntster,"Peoria, Illinois",[[WP:UNDO|Undid]] revision 301959116 by [[Special:Contributions/98.214.124.109|98.214.124.109]] ([[User talk:98.214.124.109|talk]])
+2009-08-09T20:24:53+00:00,307033500,305524588,0,DrilBot,"Peoria, Illinois",[[WP:CHECKWIKI|Check Wikipedia]] cleanup ([[User:DrilBot/Summaries#Temp|templates]]) + [[WP:GENFIXES|gen. fixes]]
+2009-04-29T22:27:22+00:00,286938320,286485725,0,98.215.165.105,"Peoria, Illinois",Added Aaron Schock
+2009-05-17T14:27:19+00:00,290513006,290509536,0,25or6to4,"Peoria, Illinois",rvv
+2009-08-01T21:33:40+00:00,305524588,305505763,0,Closeapple,"Peoria, Illinois",maintenance tags on Alexander Wolff book
+2009-05-04T15:21:27+00:00,287857549,286938320,0,150.201.103.207,"Peoria, Illinois",/* People born or raised in Peoria */
+2009-07-11T05:45:18+00:00,301504486,301485811,0,Medvedenko,Philadelphia,reverted unsourced info
+2009-05-21T21:02:35+00:00,291477124,291476182,0,El Greco,Philadelphia,[[WP:UNDO|Undid]] revision 291476182 by [[Special:Contributions/70.89.38.214|70.89.38.214]] ([[User talk:70.89.38.214|talk]]) source?
+2009-08-09T12:54:31+00:00,306969122,306815200,0,Fletcher,Philadelphia,/* Roads */ +1 pic
+2009-06-06T23:10:05+00:00,294870357,294649407,0,71.226.247.182,Philadelphia,/* Topography */
+2009-06-26T02:54:22+00:00,298677088,298676819,0,68.81.219.189,Philadelphia,
+2009-06-22T22:59:28+00:00,298012364,297967543,0,Postoak,Philadelphia,restore montage
+2009-08-05T18:06:17+00:00,306248455,306243945,0,Ohnoitsjamie,Philadelphia,[[WP:RBK|Reverted]] edits by [[Special:Contributions/Chocolatechipcookie91|Chocolatechipcookie91]] ([[User talk:Chocolatechipcookie91|talk]]) to last version by 76.99.32.186
+2009-07-01T01:11:42+00:00,299608526,299582130,0,72.81.91.100,"Reading, Pennsylvania",
+2009-06-04T01:13:13+00:00,294291889,294145286,0,Tkynerd,Philadelphia,"There's more than one ""American city"" named Philadelphia"
+2009-04-22T03:43:52+00:00,285380386,285380268,0,129.32.17.58,Philadelphia,
+2009-05-06T11:21:27+00:00,288247709,288173977,0,Nutiketaiel,Philadelphia,Reverting unexplained deletions
+2009-07-29T08:47:58+00:00,304843697,303995999,0,204.186.80.205,"Reading, Pennsylvania",changed the number of championships for the reading express from 0 to 1.
+2009-06-26T22:21:56+00:00,298835470,298677088,0,Chobot,Philadelphia,robot Modifying: [[gl:Filadelfia - Philadelphia]]
+2009-07-02T11:31:34+00:00,299869264,299819811,0,Phillies1fan777,"Rockford, Illinois",
+2009-06-07T22:23:02+00:00,295058442,294918443,0,Pinoak55,"Rockford, Illinois","average July high is 83 degrees, not 87"
+2009-07-16T17:41:25+00:00,302450844,302449761,0,75.150.245.244,"Rockford, Illinois",/* Notable natives and residents */
+2009-04-08T05:44:04+00:00,282500050,282500019,0,38.98.164.110,"Rockford, Illinois",
+2009-06-22T01:01:41+00:00,297826383,295058442,0,63.252.185.35,"Rockford, Illinois",/* Looking into the future */
+2009-04-19T16:18:55+00:00,284826910,282500050,0,75.130.29.203,"Rockford, Illinois",/* Floods */
+2009-08-04T01:46:55+00:00,305930589,304801501,0,98.213.107.56,"Rockford, Illinois",/* Private Schools */
+2009-06-24T17:55:13+00:00,298398676,298396089,0,Jivecat,"Rockford, Illinois","/* Notable natives and residents */ dab, title italics"
+2009-06-20T14:51:19+00:00,297554071,297545647,0,Levineps,San Antonio,rm whitespace
+2009-06-27T13:00:59+00:00,298931055,298398676,0,98.213.156.210,"Rockford, Illinois",/* Transportation */
+2009-07-23T00:59:10+00:00,303644195,303613441,0,Kuru,San Antonio,[[WP:RBK|Reverted]] edits by [[Special:Contributions/66.90.156.215|66.90.156.215]] ([[User talk:66.90.156.215|talk]]) to last version by Justinah
+2009-07-15T05:51:13+00:00,302177314,302177175,0,Thorncrag,San Antonio,Reverted 1 edit by [[Special:Contributions/66.90.181.55|66.90.181.55]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Kuru|Kuru]]. ([[WP:TW|TW]])
+2009-07-26T08:30:09+00:00,304259925,304259362,0,SpaceFlight89,San Antonio,Reverted edits by [[Special:Contributions/115.240.6.6|115.240.6.6]] to last revision by Oldag07 ([[WP:HG|HG]])
+2009-05-03T06:40:42+00:00,287595753,287595743,0,ClueBot,"Rockford, Illinois","Reverting possible vandalism by [[Special:Contributions/173.170.146.19|173.170.146.19]] to version by AaronCBurke. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (688401) (Bot)"
+2009-06-03T22:04:02+00:00,294261403,294261099,0,Jivecat,"Rockford, Illinois",/* Demographics */ rvv
+2009-04-28T00:13:55+00:00,286547744,286541006,0,AaronCBurke,"Rockford, Illinois",/* Points of interest */ added Peace Plaza
+2009-06-27T05:49:45+00:00,298889047,298848034,0,Severbeck,Seattle,/* Government and politics */
+2009-08-12T03:50:42+00:00,307492480,307430334,0,76.121.4.143,Seattle,/* Neighborhoods */
+2009-06-08T08:38:34+00:00,295136938,295136494,0,77.30.68.63,St. Louis,
+2009-04-30T02:23:25+00:00,286974534,286734430,0,68.188.80.52,St. Louis,
+2009-05-16T21:33:44+00:00,290387665,288900389,0,67.142.130.12,"Waukegan, Illinois",/* Transportation */  removed non-encyclopedic content
+2009-05-08T07:28:05+00:00,288632568,286709753,0,24.12.254.222,"Waukegan, Illinois",/* Transportation */
+2009-04-21T02:24:11+00:00,285151599,285086250,0,Adavidb,Baltimore,"[[WP:UNDO|Undid]] revision 285086250 by [[Special:Contributions/75.166.236.146|75.166.236.146]] ([[User talk:75.166.236.146|talk]]) over 84 isn't almost 100, even in thousands"
+2009-08-02T02:30:45+00:00,305563699,305563331,0,173.67.45.106,Baltimore,/* Law enforcement */
+2009-07-01T21:15:58+00:00,299766127,299757665,0,Shinerunner,"Buffalo, New York",removed uncited opinion
+2009-07-12T04:02:16+00:00,301640304,301636427,0,Hertz1888,"Boise, Idaho",[[WP:RBK|Reverted]] edits by [[Special:Contributions/Kevst3r|Kevst3r]] ([[User talk:Kevst3r|talk]]) to last version by GrouchoBot
+2009-07-10T01:29:03+00:00,301293660,300852070,0,67.151.168.3,"Buffalo, New York",
+2009-06-07T02:21:40+00:00,294897339,294785955,0,DoriSmith,"Boise, Idaho",[[WP:RBK|Reverted]] edits by [[Special:Contributions/Tamarickjarrodblake1|Tamarickjarrodblake1]] ([[User talk:Tamarickjarrodblake1|talk]]) to last version by 96.18.230.71
+2009-05-29T14:11:51+00:00,293098235,293081022,0,Allstarecho,"Boise, Idaho",[[WP:RBK|Reverted]] edits by [[Special:Contributions/Mikevegas40|Mikevegas40]] ([[User talk:Mikevegas40|talk]]) to last version by Enviroboy
+2009-05-31T17:43:33+00:00,293550340,293360927,0,74.78.192.115,"Buffalo, New York",/* Catholic schools */
+2009-05-07T06:10:00+00:00,288423162,288380321,0,195.192.232.9,"Buffalo, New York",/* History */
+2009-07-26T13:41:15+00:00,304292810,304284378,0,93.196.78.190,"Buffalo, New York",/* External links */
+2009-05-19T13:55:03+00:00,290944587,290944489,0,Parkwells,"Cairo, Illinois",/* Culture */ c/e
+2009-06-03T20:53:48+00:00,294247178,294246421,0,Howie121294,Baltimore,
+2009-06-29T00:03:21+00:00,299211734,299211580,0,Jeffrey Mall,Baltimore,[[WP:RBK|Reverted]] edits by [[Special:Contributions/198.99.32.5|198.99.32.5]] ([[User talk:198.99.32.5|talk]]) to last version by Gaius Cornelius
+2009-05-20T23:56:58+00:00,291289739,291286327,0,Shanman7,"Buffalo, New York","Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/67.241.179.151|67.241.179.151]]; SJCI is in Tonawanda, not the City of Buffalo. ([[WP:TW|TW]])"
+2009-06-29T11:26:36+00:00,299292032,299265066,0,Agathman,"Cairo, Illinois","It doesn't flow ""into"" Missouri or Kentucky, but is rather between the two.  Rather than complicate this sentence with an explanation, just truncate it like so."
+2009-05-11T12:23:16+00:00,289241089,289137289,0,216.222.241.150,Baltimore,/* Private schools */
+2009-08-01T19:41:36+00:00,305507678,305292966,0,82.81.137.212,Baltimore,/* Sister cities */
+2009-04-08T09:27:52+00:00,282521922,279104156,0,Billyfutile,"Cairo, Illinois",
+2009-06-15T13:45:37+00:00,296540676,296488842,0,91.45.87.68,Chicago,
+2009-05-27T04:34:08+00:00,292598597,292179988,0,Erasmussen,"Cairo, Illinois",
+2009-05-24T01:42:19+00:00,291923677,291893369,0,62.163.32.2,Chicago,/* Sister cities */
+2009-05-03T22:42:14+00:00,287730711,287678885,0,99.144.167.249,Chicago,
+2009-05-23T22:18:45+00:00,291893369,291707839,0,Stevo81989,Chicago,/* Media */  Added High Definition Section.
+2009-07-24T02:31:58+00:00,303860763,303859814,0,98.227.149.172,Chicago,
+2009-08-09T18:57:12+00:00,307018713,307018039,0,80.192.52.185,Chicago,/* 20th century */ Returned no of floors to 108 after reading other links re elevator box and roof.
+2009-05-14T23:33:30+00:00,289987303,289986894,0,78.147.39.39,Chicago,/* Demographics */
+2009-07-06T02:22:55+00:00,300517328,300517207,0,Bongwarrior,Chicago,[[WP:RBK|Reverted]] edits by [[Special:Contributions/76.217.224.16|76.217.224.16]] ([[User talk:76.217.224.16|talk]]) to last version by Kevin Forsyth
+2009-05-10T23:22:42+00:00,289151343,289151118,0,75.5.74.35,Chicago,/* Public art and monuments */
+2009-08-04T19:46:48+00:00,306069263,305936716,0,24.124.112.11,Chicago,
+2009-07-16T05:29:45+00:00,302363989,302363847,0,Nemesis63,Chicago,
+2009-08-01T10:52:39+00:00,305437609,305244331,0,Franklin Demenge,Chicago,/* Early history */
+2009-04-06T06:34:43+00:00,282053517,282019240,0,Tad Lincoln,Chicago,rv
+2009-06-11T21:10:13+00:00,295855278,295718041,0,ClickRick,Chicago,clean up using [[Project:AutoWikiBrowser|AWB]]
+2009-05-04T09:46:38+00:00,287814303,287810210,0,81.13.224.197,Chicago,/* Neighborhoods */
+2009-05-22T18:29:50+00:00,291663351,291596974,0,128.135.204.117,Chicago,
+2009-08-11T01:59:06+00:00,307281856,307278532,0,Funandtrvl,Chicago,"[[WP:UNDO|Undid]] revision 307278532 by [[Special:Contributions/66.192.176.30|66.192.176.30]] ([[User talk:66.192.176.30|talk]])- ""freshwater"" not really necessary."
+2009-08-09T02:54:36+00:00,306904417,306904060,0,TonyTheTiger,Chicago,/* Public art and monuments */ add fund
+2009-04-27T18:39:09+00:00,286487570,286486263,0,Jauerback,Chicago,[[WP:RBK|Reverted]] edits by [[Special:Contributions/98.214.124.109|98.214.124.109]] ([[User talk:98.214.124.109|talk]]) to last version by NicolasJz
+2009-07-09T22:03:38+00:00,301266680,301246086,0,TFunk,Chicago,/* Media */
+2009-07-19T07:50:58+00:00,302908862,302891250,0,207.225.246.65,Chicago,/* Colleges and universities */
+2009-06-04T19:09:10+00:00,294429676,294404959,0,208.105.85.67,Chicago,
+2009-05-28T22:41:31+00:00,292977647,292977497,0,99.251.87.4,Chicago,/* Demographics */
+2009-05-22T06:26:10+00:00,291564176,291392261,0,SieBot,Chicago,robot  Modifying: [[hi:शिकागो]]
+2009-04-22T06:50:43+00:00,285400131,285399907,0,24.148.75.195,Chicago,/* External links */
+2009-05-27T02:52:47+00:00,292584887,292475354,0,Orestek,Chicago,/* Culture and contemporary life */
+2009-06-30T03:07:51+00:00,299437962,299434227,0,Elpiseos,Delaware,Reverted 1 edit by [[Special:Contributions/68.9.43.202|68.9.43.202]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Ohnoitsjamie|Ohnoitsjamie]]. ([[WP:TW|TW]])
+2009-06-19T00:55:42+00:00,297272512,297272269,0,Bballgrl3452,Connecticut,
+2009-04-19T22:45:42+00:00,284895619,284873966,0,Good Olfactory,Connecticut,Removed category [[:Category:1788 establishments|1788 establishments]]; Quick-adding category [[:Category:States and territories established in 1788|States and territories established in 1788]] (using
+2009-04-27T21:57:19+00:00,286524051,286523694,0,Yintan,Delaware,Reverted to revision 286455616 by [[Special:Contributions/BarretBonden|BarretBonden]]; Rev vandalism.
+2009-07-18T17:38:50+00:00,302802401,302422127,0,Icehcky8,Delaware,/* Languages */ eliminated a redirect
+2009-06-03T03:51:13+00:00,294094651,293300192,0,Ninly,Delaware,no superscript on ordinals per [[WP:NUMBERS]]
+2009-05-27T16:54:37+00:00,292699216,292698938,0,Ulric1313,Delaware,[[WP:RBK|Reverted]] edits by [[Special:Contributions/209.232.150.253|209.232.150.253]] ([[User talk:209.232.150.253|talk]]) to last version by MauritsBot
+2009-07-28T05:59:42+00:00,304625148,304607977,0,Dicklyon,"El Paso, Texas",rm funny wrap restriction
+2009-05-13T16:38:12+00:00,289695298,289691404,0,138.49.248.220,"El Paso, Texas",/* Texas independence */
+2009-05-24T14:22:33+00:00,292016661,292016475,0,NorwegianBlue,"El Paso, Texas",Reverted edits by [[Special:Contributions/147.71.3.10|147.71.3.10]] to last revision by ClueBot ([[WP:HG|HG]])
+2009-06-09T17:06:33+00:00,295405527,295405399,0,Niagara,"Erie, Pennsylvania",Revert to revision 294707652 dated 2009-06-06 02:29:42 by Fyyer using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2009-04-23T20:34:44+00:00,285719428,285266042,0,68.202.146.236,"Elgin, Illinois",added link to St. John's
+2009-04-23T16:05:08+00:00,285673139,285672143,0,Niagara,"Erie, Pennsylvania",Revert to revision 283910287 dated 2009-04-15 01:43:44 by WadeSimMiser using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2009-05-08T14:45:21+00:00,288682864,288518349,0,Bobthecow,"Elgin, Illinois",/* Elgin today */  SWAN web site change.
+2009-05-24T00:55:24+00:00,291916644,291916538,0,Wtmitchell,"Erie, Pennsylvania",Reverted edits by [[Special:Contributions/Bjamin0325|Bjamin0325]] to last revision by Dtbohrer ([[WP:HG|HG]])
+2009-06-01T19:41:02+00:00,293781457,293560906,0,152.228.167.150,"Gary, Indiana",/* Neighborhoods */
+2009-06-28T11:07:25+00:00,299099485,297220683,0,Tassedethe,"Elgin, Illinois",[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.89 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2009-06-30T19:43:35+00:00,299564669,299235128,0,Manop,"Gary, Indiana",adding th
+2009-05-08T06:12:40+00:00,288625395,287838540,0,67.175.106.197,"Gary, Indiana",/* History */
+2009-03-31T04:58:04+00:00,280801556,278368777,0,Xnatedawgx,"Gary, Indiana",category update
+2009-04-22T01:12:03+00:00,285358912,285358671,0,Axeman89,"Gary, Indiana",/* External links */
+2009-08-07T23:24:58+00:00,306695352,306403647,0,Auntof6,Georgia (U.S. state),Rem line break from external link (WP check error 80) and/or general cleanup using [[Project:AutoWikiBrowser|AWB]]
+2009-07-27T19:35:22+00:00,304533590,304512475,0,DKqwerty,"Hartford, Connecticut","rvt 2 edits by [[Special:Contributions/64.252.181.171|64.252.181.171]]: tedious, verbose editing; most likely a copy-and-pasted"
+2009-07-17T20:15:14+00:00,302657155,302417351,0,Túrelio,"Hartford, Connecticut",image replaced by dupe before deletion after renaming
+2009-06-17T13:10:01+00:00,296951090,296851236,0,Bovineboy2008,Georgia (U.S. state),bypass
+2009-07-22T21:46:18+00:00,303614649,303454330,0,67.167.110.28,"Gary, Indiana",
+2009-06-23T05:29:34+00:00,298068372,297619696,0,Nyttend,"Hartford, Connecticut",Specify what country and what type of municipality
+2009-05-24T01:50:17+00:00,291924732,291908253,0,Juliancolton,"Hartford, Connecticut",add portal link using [[Project:AutoWikiBrowser|AWB]]
+2009-05-12T03:24:41+00:00,289389455,289389273,0,Wavelength,Houston,"/* Healthcare and medicine */ [¶1] removing [[hyphen]]: --> ""internationally renowned"" -- see [[Wikipedia:Manual of Style#Hyphens]], sub-subsection 3, point 4"
+2009-04-06T19:46:00+00:00,282177084,282003370,0,Mlaffs,Houston,/* Transportation */ disambiguation
+2009-06-18T10:17:13+00:00,297133075,297132845,0,Noosentaal,Houston,Reverted edits by [[Special:Contributions/91.6.227.28|91.6.227.28]] to last revision by Srushe ([[WP:HG|HG]])
+2009-04-18T14:13:50+00:00,284618190,284604534,0,Synthebot,"Jacksonville, Florida",robot  Adding: [[de:Jacksonville (Florida)]]
+2009-04-06T00:58:53+00:00,282003370,281930512,0,Prevod&priredba,Houston,"[[sl:Houston, Teksas]]"
+2009-08-05T09:46:35+00:00,306179637,306057674,0,ハニカチ王子,Houston,/* Sports */
+2009-08-11T17:32:04+00:00,307396784,307278257,0,RUClimate,"Jacksonville, Florida",/* Climate */
+2009-07-25T00:34:27+00:00,304039457,303988339,0,64.107.183.65,Houston,
+2009-07-12T16:42:27+00:00,301715081,301496180,0,Khatores,"Jacksonville, Florida",/* Utilities */
+2009-06-18T05:56:50+00:00,297106509,296960000,0,Rohitrrrrr,"Hartford, Connecticut",
+2009-06-03T21:05:38+00:00,294249706,294249332,0,208.138.38.6,"Jacksonville, Florida",/* Primary and secondary education */
+2009-04-30T06:11:35+00:00,287000862,286796201,0,Red Slash,"Jacksonville, Florida",restored
+2009-07-05T23:53:08+00:00,300498109,300497211,0,RickDC,Key West,/* External links */ deleted commercial site from Links
+2009-07-20T10:37:30+00:00,303109366,302203023,0,79.70.186.132,"Jacksonville, Florida",/* Climate */ not in m
+2009-04-04T18:02:43+00:00,281737974,280842430,0,70.238.171.190,Key West,rm bold for emphasis
+2009-06-18T03:43:27+00:00,297090954,295677081,0,70.153.206.22,"Jacksonville, Florida",/* Annual events */
+2009-08-07T00:35:14+00:00,306507656,305526515,0,Wavelength,Key West,"adding heading ""See also"" and 1 internal link: *[[Neighborhoods in Key West, Florida]]"
+2009-04-08T16:10:50+00:00,282576430,282569906,0,Ourhistory153,"Jacksonville, Florida",/* History */
+2009-05-08T22:04:12+00:00,288756872,288756841,0,J.delanoy,"Lawrence, Massachusetts",Reverted edits by [[Special:Contributions/Uno23|Uno23]] to last revision by ClueBot ([[WP:HG|HG]])
+2009-07-10T17:03:10+00:00,301401023,301380557,0,Gang14,"Lawrence, Massachusetts",[[WP:UNDO|Undid]] revision 301380557 by [[Special:Contributions/74.8.144.130|74.8.144.130]] ([[User talk:74.8.144.130|talk]]) rvv
+2009-06-15T02:06:40+00:00,296465497,296464239,0,Gang14,"Lawrence, Massachusetts",/* References */
+2009-05-27T23:07:58+00:00,292768426,292767846,0,96.224.26.86,List of Code Lyoko episodes,/* Season 3: 2006 */
+2009-07-03T17:40:32+00:00,300082148,299031320,0,86.70.170.77,List of Code Lyoko episodes,
+2009-07-23T14:15:44+00:00,303740147,303569029,0,Colonies Chris,"Lawrence, Massachusetts","Disambiguate [[Syracuse]] to [[Province of Syracuse]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]] | [[wp:datescript]]-assisted date/terms audit; see [[wp:unlinkdates]], [[wp:overlink]]"
+2009-05-21T16:47:27+00:00,291428989,291428924,0,WhisperToMe,List of United States cities by population,/* Notes */
+2009-05-22T13:51:48+00:00,291613621,291557610,0,EraserGirl,"Lawrence, Massachusetts",/* Private schools */ bruce is a public school
+2009-06-10T05:26:13+00:00,295523668,295515249,0,Shereth,List of United States cities by population,"This list uses US Census figures, not Channel 10 in Albany figures, sorry"
+2009-07-10T22:19:24+00:00,301451059,300797290,0,Shereth,List of United States cities by population,"/* Incorporated places over 100,000 population */ fix"
+2009-05-11T01:59:48+00:00,289173375,289168240,0,APK,List of United States cities by population,Reverted to revision 288318169 by [[Special:Contributions/Djluci|Djluci]]; census numbers only. ([[WP:TW|TW]])
+2009-06-13T01:48:56+00:00,296089877,296086430,0,APK,List of United States cities by population,rv
+2009-04-08T05:28:25+00:00,282498507,282498223,0,Shereth,List of United States cities by population,/* Notes */ minor wording
+2009-05-21T01:35:50+00:00,291306769,291306747,0,Jojhutton,List of most populous cities in the United States by decade,Reverted edits by [[Special:Contributions/70.245.144.255|70.245.144.255]] to last revision by Wtmitchell ([[WP:HG|HG]])
+2009-05-08T21:51:55+00:00,288754785,288754489,0,98.222.92.132,List of most populous cities in the United States by decade,/* 1890 */
+2009-08-02T04:59:00+00:00,305580946,305359020,0,98.213.14.69,List of tallest buildings by U.S. state and territory,/* Upcoming/proposed tallest buildings */
+2009-04-24T06:54:18+00:00,285810890,284835562,0,OrphanBot,List of tallest buildings by U.S. state and territory,Removing [[:File:QwestTower.jpg|image]] with no copyright information.  Such images that are older than seven days may be deleted at any time.
+2009-03-30T15:21:17+00:00,280660194,280656602,0,Sdgjake,List of tallest buildings by U.S. state and territory,Revrting older change that contradicted the reference
+2009-07-18T19:50:07+00:00,302822936,302536133,0,Turian,List of tallest buildings by U.S. state and territory,"/* Upcoming/proposed tallest buildings */ new picture, fixing table"
+2009-06-19T01:46:57+00:00,297279738,296346908,0,Mosmof,List of tallest buildings by U.S. state and territory,"/* Upcoming/proposed tallest buildings */ rm non-free image w/o rationale, cite tag, wikilink"
+2009-05-04T04:17:43+00:00,287780660,287779264,0,Rhvanwinkle,List of tallest buildings by U.S. state and territory,/* Upcoming/proposed tallest buildings */
+2009-06-30T01:42:57+00:00,299426698,298780145,0,Ichabod,List of tallest buildings by U.S. state and territory,/* Current tallest buildings */ adding CW memorial Bennington VT.jpg
+2009-06-28T08:39:40+00:00,299085431,298978527,0,EeepEeep,Los Angeles,/* Sister cities */ Not verified by official LA list
+2009-04-21T22:17:25+00:00,285326993,285286508,0,Butwhatdoiknow,Los Angeles,/* External links */ Add [[WP:Related information | navbox heading]]
+2009-07-24T00:48:52+00:00,303846758,303809272,0,1958publius,Los Angeles,infobox
+2009-06-20T01:33:20+00:00,297470431,297391202,0,Alossix,Los Angeles,/* Public transportation */  add metro map showing existing and under-construction rapid transit lines
+2009-07-16T02:27:20+00:00,302342836,302341317,0,Mr. Sanchez 13,Los Angeles,/* Notable locations */ removed messy section
+2009-06-06T04:40:30+00:00,294724389,294392575,0,SteveMcKay,Los Angeles,
+2009-04-06T02:11:26+00:00,282014819,281943113,0,72Dino,Los Angeles,This information is already under demographics.  Any updates or additions should go under that section.
+2009-05-29T03:20:02+00:00,293022345,292991066,0,Jleon,Los Angeles,Linking this to a real article.
+2009-04-12T23:17:30+00:00,283449912,283292940,0,Jacob Lundberg,Los Angeles,useless fact
+2009-06-07T17:49:42+00:00,295011169,293176157,0,Ermanon,"Meridian, Idaho",+ it:
+2009-07-02T19:52:00+00:00,299945363,299935855,0,JeremyA,"Meridian, Idaho",[[WP:RBK|Reverted]] edits by [[Special:Contributions/98.214.124.109|98.214.124.109]] ([[User talk:98.214.124.109|talk]]) to last version by Kevin Forsyth
+2009-04-09T13:19:09+00:00,282761264,282761216,0,Kingpin13,"Milledgeville, Georgia",Reverted edits by [[Special:Contributions/97.80.149.2|97.80.149.2]] to last revision by 67.141.182.129 ([[WP:HG|HG]])
+2009-04-27T10:05:52+00:00,286410478,284732702,0,Joseph20202021,"Milledgeville, Georgia",/* References */ Change the font size
+2009-06-13T16:56:00+00:00,296193161,296192976,0,167.199.72.6,"Milledgeville, Georgia","/* Famous Individuals from Milledgeville, Georgia */"
+2009-07-09T14:52:21+00:00,301197784,301197574,0,Donrell,"Milledgeville, Georgia",/* External links */
+2009-07-27T13:21:47+00:00,304472407,303615040,0,RussBot,"Milledgeville, Georgia",Robot-assisted fix [[WP:DPL|links to disambiguation page]] Public school
+2009-06-06T21:42:00+00:00,294857441,294560347,0,132.170.38.142,Mississippi,
+2009-07-26T18:24:30+00:00,304331324,304330582,0,Allstarecho,Mississippi,/* Famous Mississippians */ update edit notice; change section title
+2009-04-15T21:35:37+00:00,284078743,284070533,0,129.174.73.85,Mississippi,/* Health */
+2009-06-28T03:16:42+00:00,299053010,296193161,0,166.102.143.86,"Milledgeville, Georgia","/* Famous Individuals from Milledgeville, Georgia */"
+2009-06-13T09:05:48+00:00,296136770,296136700,0,Chamal N,Mississippi,Reverted edits by [[Special:Contributions/65.245.78.61|65.245.78.61]] to last revision by Chamal N ([[WP:HG|HG]])
+2009-06-19T03:55:00+00:00,297296065,297274312,0,Allstarecho,Mississippi,Reverted to revision 296996223 by [[Special:Contributions/Tom Danson|Tom Danson]]; Per the inline edit notice: Add additional names to [[List of people from Mississippi]].. Using [[WP:TW]].
+2009-06-05T11:53:15+00:00,294560347,294325054,0,JAnDbot,Mississippi,robot  Modifying: [[el:Μισσισσιππής (πολιτεία ΗΠΑ)]]
+2009-06-10T06:26:45+00:00,295529979,295528649,0,TJ Snodgrass,"Nampa, Idaho",/* Notable People from Nampa */ Ted Trueblood
+2009-05-17T11:57:49+00:00,290492231,290492044,0,Revmqo,Mississippi,/* Road */
+2009-07-06T23:04:36+00:00,300689416,300682035,0,Sarahsmithsmith,"Nampa, Idaho",/* Notable People from Nampa */
+2009-07-20T22:47:56+00:00,303225353,303222869,0,Holmn,"Nampa, Idaho",/* External links */
+2009-07-14T23:48:38+00:00,302135354,302132716,0,Willking1979,Nebraska,Reverted 1 edit by [[Special:Contributions/173.66.89.202|173.66.89.202]] identified as [[WP:VAND|vandalism]] to last revision by [[User:75.163.68.86|75.163.68.86]]. ([[WP:TW|TW]])
+2009-07-09T22:15:14+00:00,301268425,301268191,0,174.46.198.4,"Nampa, Idaho",/* External links */
+2009-04-24T02:40:36+00:00,285780220,285728680,0,173.70.83.62,Nebraska,
+2009-07-30T10:57:35+00:00,305054312,305054249,0,YourNight,Nebraska,
+2009-07-03T09:06:31+00:00,300021632,300021180,0,Sky Attacker,Pennsylvania,[[WP:UNDO|Undid]] revision 300021180 by [[Special:Contributions/Kingbling11|Kingbling11]] ([[User talk:Kingbling11|talk]])
+2009-04-29T23:31:50+00:00,286948839,286948743,0,J.delanoy,Nebraska,Reverted edits by [[Special:Contributions/24.173.141.26|24.173.141.26]] to last revision by 142.59.226.28 ([[WP:HG|HG]])
+2009-04-17T01:18:57+00:00,284329545,284301469,0,72.72.199.238,Pennsylvania,/* Regional strength */
+2009-08-02T23:35:26+00:00,305717090,304434221,0,Quilokos,Pennsylvania,/* Demographics */ Added chart.
+2009-06-12T02:10:18+00:00,295900723,295800998,0,206.125.52.105,Pennsylvania,/* Demographics */
+2009-07-08T03:13:03+00:00,300922166,300921770,0,Majorly,Pennsylvania,[[WP:RBK|Reverted]] edits by [[Special:Contributions/68.46.7.40|68.46.7.40]] ([[User talk:68.46.7.40|talk]]) to last version by Conk 9
+2009-05-21T20:06:48+00:00,291466395,290590974,0,62.194.31.222,"Peoria, Arizona",list reformat
+2009-05-14T22:30:39+00:00,289976881,289716114,0,98.214.145.136,"Peoria, Illinois","/* Museum Square */ Removed opinion ""which has reinvigorated the project and enthusiasm for it."""
+2009-06-19T17:34:58+00:00,297394227,297389128,0,Ponyo,"Peoria, Illinois",[[WP:UNDO|Undid]] revision 297389128 by [[Special:Contributions/216.124.224.51|216.124.224.51]] ([[User talk:216.124.224.51|talk]])
+2009-04-17T02:33:54+00:00,284341382,284340962,0,Dan D. Ric,"Peoria, Illinois",Reverted 1 edit by [[Special:Contributions/Barchords85|Barchords85]]; Rvv. ([[WP:TW|TW]])
+2009-06-04T01:02:09+00:00,294290242,294287439,0,Agathman,"Peoria, Illinois",Reverted 4 edits by [[Special:Contributions/98.214.92.89|98.214.92.89]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Kevin Forsyth|Kevin Forsyth]]. ([[WP:TW|TW]])
+2009-04-26T19:39:05+00:00,286284992,286281134,0,Avala,Philadelphia,/* External links */
+2009-04-12T16:25:33+00:00,283382760,283292720,0,Dthomsen8,Philadelphia,/* Innovation */ Spelling correction
+2009-04-17T20:59:54+00:00,284495428,284494579,0,WhisperToMe,Philadelphia,+Post office history
+2009-07-02T04:05:09+00:00,299825368,299824917,0,HkCaGu,Philadelphia,[[WP:UNDO|Undid]] revision 299824917 by [[Special:Contributions/222.124.227.98|222.124.227.98]] ([[User talk:222.124.227.98|talk]])
+2009-08-01T17:28:46+00:00,305486393,305484031,0,Vgranucci,Philadelphia,[[WP:UNDO|Undid]] revision 305484031 by [[Special:Contributions/71.206.247.208|71.206.247.208]] ([[User talk:71.206.247.208|talk]])
+2009-06-13T14:00:11+00:00,296168565,296166821,0,76.99.21.22,Philadelphia,
+2009-07-27T13:28:58+00:00,304473438,304471241,0,DumbBOT,Philadelphia,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2009-06-17T07:04:53+00:00,296912485,296801303,0,D6,Philadelphia,fix unicode in templates ([[Wikipedia:WikiProject_Check_Wikipedia|WikiProject Check Wikipedia]] check #16; fmt
+2009-05-25T04:24:19+00:00,292158450,292043118,0,RibotBOT,Philadelphia,robot  Adding: [[zh-min-nan:Philadelphia]]
+2009-05-09T21:05:28+00:00,288940681,288940383,0,Paleorthodox,Philadelphia,/* Sports */
+2009-07-07T14:14:05+00:00,300796699,300795674,0,TerminalPreppie,Philadelphia,[[WP:UNDO|Undid]] revision 300795674 by [[Special:Contributions/Cbgrf123|Cbgrf123]] ([[User talk:Cbgrf123|talk]])
+2009-06-30T07:55:23+00:00,299468886,299468556,0,PRRfan,Philadelphia,/* History */ tyop
+2009-05-19T01:47:50+00:00,290850277,290849071,0,Jalfredl,Philadelphia,
+2009-06-25T14:30:19+00:00,298565402,298565330,0,AdjustShift,Philadelphia,[[WP:RBK|Reverted]] edits by [[Special:Contributions/CloroxDaDon|CloroxDaDon]] ([[User talk:CloroxDaDon|talk]]) to last version by Nutiketaiel
+2009-04-06T07:59:39+00:00,282064247,281176640,0,ShadowRanger,"Reading, Pennsylvania",
+2009-05-04T12:57:39+00:00,287836191,287714220,0,Pizza12456,"Reading, Pennsylvania",
+2009-05-23T17:46:28+00:00,291846104,291055646,0,Mrwojo,"Reading, Pennsylvania",/* Overview */ dab link
+2009-04-10T07:34:48+00:00,282934018,282064247,0,Veluz330,"Reading, Pennsylvania",/* Notable residents */
+2009-07-29T03:00:38+00:00,304801501,304801389,0,MJHankel,"Rockford, Illinois",/* Historical */
+2009-05-19T23:17:34+00:00,291055646,291055523,0,69.248.251.159,"Reading, Pennsylvania",/* Notable residents */
+2009-08-07T17:46:03+00:00,306638980,306533225,0,Jwhipkey1288,"Rockford, Illinois",Linked the Rockford Park District to it's home page
+2009-05-18T17:15:36+00:00,290750632,290248129,0,Hauganm,"Rockford, Illinois",''Rockford Swedes: American Stories''
+2009-05-29T14:37:45+00:00,293102440,293077919,0,Allstarecho,"Rockford, Illinois",[[WP:RBK|Reverted]] edits by [[Special:Contributions/Mikevegas40|Mikevegas40]] ([[User talk:Mikevegas40|talk]]) to last version by Rubinbot
+2009-04-23T06:00:37+00:00,285601182,285583227,0,Rockford1963,"Rockford, Illinois",[[WP:UNDO|Undid]] revision 285583227 by [[Special:Contributions/198.59.153.237|198.59.153.237]] ([[User talk:198.59.153.237|talk]])
+2009-07-24T15:28:25+00:00,303948969,303867057,0,Bkonrad,"Rockford, Illinois",[[WP:RBK|Reverted]] edits by [[Special:Contributions/64.27.165.111|64.27.165.111]] ([[User talk:64.27.165.111|talk]]) to last version by Sedna10387
+2009-06-30T17:24:52+00:00,299540373,299539385,0,Vicenarian,"Rockford, Illinois",Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/209.7.140.15|209.7.140.15]]; Replacing wikilink with external link? EL belongs in the EL section. ([[WP:TW|TW]])
+2009-08-08T20:25:32+00:00,306850439,306850088,0,76.14.104.19,"Rockford, Illinois",/* Current */
+2009-06-09T15:31:33+00:00,295388517,295168911,0,LilHelpa,San Antonio,it's -> its
+2009-07-09T12:27:20+00:00,301177787,301138628,0,98.232.92.30,San Antonio,/* History */
+2009-04-11T03:17:41+00:00,283107727,282879712,0,Marek69,San Antonio,"clean up, typos fixed: texas → Texas, among it's → among its using [[Project:AutoWikiBrowser|AWB]]"
+2009-06-18T03:25:41+00:00,297088770,296879419,0,69.153.56.124,San Antonio,/* Government */
+2009-06-18T17:15:22+00:00,297193551,297186590,0,Travis.Thurston,Seattle,Reverted to revision 297097630 by [[Special:Contributions/Unschool|Unschool]]; I don't think we are baout to list every band out of seattle in this section. ([[WP:TW|TW]])
+2009-04-04T17:39:26+00:00,281734149,281291889,0,Jerome Charles Potts,San Antonio,"/* History */ linked ""presidio"""
+2009-05-09T03:52:41+00:00,288803978,288803760,0,68.184.201.196,St. Louis,
+2009-04-18T22:04:29+00:00,284692388,284692325,0,Catgut,St. Louis,Reverted edits by [[Special:Contributions/68.188.80.18|68.188.80.18]] to last revision by Catgut ([[WP:HG|HG]])
+2009-07-03T02:13:39+00:00,299982296,299981855,0,Brandon1978,Seattle,
+2009-05-26T01:19:21+00:00,292342551,292342199,0,Gary Kreie,St. Louis,/* Crime and social issues */
+2009-04-24T21:22:54+00:00,285930306,285832680,0,PoppaInu,Seattle,/* Topography */ Added 1700 Cascadia quake
+2009-05-09T17:17:42+00:00,288900389,288900278,0,Danielab87,"Waukegan, Illinois",/* Other notable people */
+2009-07-14T02:28:07+00:00,301975885,301974358,0,Wsiegmund,Seattle,Reverted to last edit by South Bay; removed unsourced or unhelpful edits
+2009-06-27T16:26:30+00:00,298960148,298862826,0,Shadygrove2007,St. Louis,/* See also */
+2009-05-05T05:55:36+00:00,288000203,287927739,0,Wakx,Seattle,/* Media */
+2009-08-11T20:09:05+00:00,307425762,306843492,0,148.61.141.107,St. Louis,/* Crime and social issues */
+2009-05-14T13:46:43+00:00,289878950,289767193,0,220.101.2.8,St. Louis,
+2009-04-08T22:58:14+00:00,282650878,282650819,0,98.193.54.15,"Waukegan, Illinois",

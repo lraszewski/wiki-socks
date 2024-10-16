@@ -1,0 +1,966 @@
+timestamp,revid,parentid,sock,user,page,message
+2017-05-30T22:21:50+00:00,783063737,782296937,1,Giddyonyx,Camp Lakebottom,
+2017-05-30T22:21:10+00:00,783063640,782715129,1,Giddyonyx,Supernoobs,
+2017-05-30T22:20:35+00:00,783063559,776823838,1,Giddyonyx,The Day My Butt Went Psycho!,
+2017-05-30T22:20:11+00:00,783063498,782972317,1,Giddyonyx,Boyster,
+2017-05-30T22:19:30+00:00,783063416,783063383,1,Giddyonyx,CJ the DJ,/* External links */
+2017-05-30T22:19:16+00:00,783063383,782971651,1,Giddyonyx,CJ the DJ,
+2017-05-30T22:18:40+00:00,783063297,782782801,1,Giddyonyx,Wayside (TV series),
+2017-05-30T22:17:24+00:00,783063121,770544773,1,Giddyonyx,Earth to Luna!,
+2017-05-30T22:16:43+00:00,783063036,780614599,1,Giddyonyx,Sally Bollywood: Super Detective,
+2017-05-30T22:15:27+00:00,783062879,783062695,1,Giddyonyx,Atomic Puppet,
+2017-05-30T22:15:12+00:00,783062850,783031504,1,Giddyonyx,Chuck's Choice,
+2017-05-30T22:14:40+00:00,783062799,782972407,1,Giddyonyx,Get Ace,
+2017-05-30T22:14:11+00:00,783062740,782625635,1,Giddyonyx,ToonMarty,
+2017-05-30T22:13:47+00:00,783062695,781082184,1,Giddyonyx,Atomic Puppet,
+2017-05-30T22:12:34+00:00,783062553,781374765,1,Giddyonyx,Looped (TV series),
+2017-05-30T22:12:00+00:00,783062491,747568765,1,Giddyonyx,Ricky Sprocket: Showbiz Boy,
+2017-05-30T22:11:28+00:00,783062441,782928056,1,Giddyonyx,El Tigre: The Adventures of Manny Rivera,
+2017-05-30T22:11:07+00:00,783062400,783062293,1,Giddyonyx,ChalkZone,
+2017-05-30T22:10:02+00:00,783062293,782761032,1,Giddyonyx,ChalkZone,
+2017-05-30T22:09:22+00:00,783062231,782103175,1,Giddyonyx,Zombie Hotel,
+2017-05-30T22:08:53+00:00,783062190,783061530,1,Giddyonyx,Robotboy,
+2017-05-30T22:08:36+00:00,783062163,783062107,1,Giddyonyx,Matt's Monsters,
+2017-05-30T22:08:08+00:00,783062107,781391355,1,Giddyonyx,Matt's Monsters,
+2017-05-30T22:03:38+00:00,783061530,782763107,1,Giddyonyx,Robotboy,
+2017-05-30T22:03:11+00:00,783061433,781740004,1,Giddyonyx,My Dad the Rock Star,
+2017-05-30T22:01:25+00:00,783061182,779602964,1,Giddyonyx,Edgar & Ellen,
+2017-05-30T22:00:39+00:00,783061089,781742050,1,Giddyonyx,Tracey McBean,
+2017-05-30T21:59:23+00:00,783060944,782578640,1,Giddyonyx,The Magic School Bus (TV series),
+2017-05-30T21:56:01+00:00,783060575,783002875,1,Giddyonyx,Dot.,
+2017-05-30T21:55:03+00:00,783060472,782479890,1,Giddyonyx,Johnny Test,
+2017-05-30T21:52:59+00:00,783060255,782906822,1,Giddyonyx,My Big Big Friend,
+2017-05-30T21:52:20+00:00,783060185,777226607,1,Giddyonyx,Clone High,
+2017-05-30T21:51:09+00:00,783060033,777721877,1,Giddyonyx,High School USA!,
+2017-05-30T21:49:45+00:00,783059900,780275358,1,Giddyonyx,The Oblongs,
+2017-05-30T21:48:49+00:00,783059770,782971310,1,Giddyonyx,Sabrina: Secrets of a Teenage Witch,
+2017-05-30T21:48:35+00:00,783059744,782971281,1,Giddyonyx,Sabrina's Secret Life,
+2017-05-30T21:48:20+00:00,783059713,782971171,1,Giddyonyx,Sabrina: The Animated Series,
+2017-05-30T21:46:37+00:00,783059478,779934505,1,Giddyonyx,Tutenstein,
+2017-05-30T20:34:47+00:00,783049858,782971936,1,Giddyonyx,"Ed, Edd n Eddy",
+2017-05-30T09:57:19+00:00,782972407,779759948,1,Giddyonyx,Get Ace,
+2017-05-30T09:56:41+00:00,782972317,782972288,1,Giddyonyx,Boyster,/* External links */
+2017-05-30T09:56:30+00:00,782972288,780927164,1,Giddyonyx,Boyster,
+2017-05-30T09:53:51+00:00,782971936,782288105,1,Giddyonyx,"Ed, Edd n Eddy",
+2017-05-30T09:50:46+00:00,782971651,782971582,1,Giddyonyx,CJ the DJ,/* External links */
+2017-05-30T09:50:05+00:00,782971582,749074046,1,Giddyonyx,CJ the DJ,
+2017-05-30T09:47:11+00:00,782971310,767984579,1,Giddyonyx,Sabrina: Secrets of a Teenage Witch,/* External links */
+2017-05-30T09:46:56+00:00,782971281,774252374,1,Giddyonyx,Sabrina's Secret Life,/* External links */
+2017-05-30T09:46:38+00:00,782971258,779426558,1,Giddyonyx,Sabrina the Teenage Witch (1970 TV series),/* External links */
+2017-05-30T09:45:46+00:00,782971171,780034534,1,Giddyonyx,Sabrina: The Animated Series,/* External links */
+2017-05-29T21:38:37+00:00,782893264,782728641,1,Giddyonyx,Stanley (2001 TV series),/* Broadcast history */
+2017-05-27T18:32:23+00:00,782561796,782535105,1,Giddyonyx,The Ollie & Moon Show,
+2017-05-25T06:28:15+00:00,782152514,781434308,1,Giddyonyx,Archer (2009 TV series),
+2017-05-24T13:49:23+00:00,782016970,781214679,1,Giddyonyx,List of U.S. states and territories by population,
+2017-05-16T21:26:20+00:00,780734669,780575169,1,Giddyonyx,List of U.S. states and territories by population,/* States and territories */
+2017-05-16T04:49:08+00:00,780610801,780467309,1,Giddyonyx,Peter Rabbit (TV series),
+2017-05-16T04:45:23+00:00,780610415,779151647,1,Giddyonyx,Franklin and Friends,
+2017-05-14T05:27:00+00:00,780302617,780071394,1,Giddyonyx,List of U.S. states and territories by population,/* States and territories */
+2017-05-12T19:30:14+00:00,780070138,780069952,1,Giddyonyx,List of U.S. states and territories by population,/* States and territories */
+2017-05-12T19:28:56+00:00,780069952,780068178,1,Giddyonyx,List of U.S. states and territories by population,
+2017-05-12T19:14:13+00:00,780068178,780064677,1,Giddyonyx,List of U.S. states and territories by population,
+2017-05-12T18:46:24+00:00,780064677,780064402,1,Giddyonyx,List of U.S. states and territories by population,
+2017-05-12T18:33:12+00:00,780062841,779999412,1,Giddyonyx,List of U.S. states and territories by population,
+2017-05-10T23:54:57+00:00,779785420,779474911,1,Giddyonyx,List of animated television series of 2017,
+2017-05-06T16:16:23+00:00,779029958,779020371,1,Giddyonyx,Gander Mountain,
+2017-05-05T22:47:17+00:00,778911636,778529881,1,Giddyonyx,Milo Murphy's Law,
+2017-05-01T21:32:11+00:00,778232868,778231990,1,Giddyonyx,Template:Geological history of Earth,
+2017-05-01T21:26:24+00:00,778231990,778231613,1,Giddyonyx,Template:Geological history of Earth,
+2017-05-01T21:23:45+00:00,778231613,778187585,1,Giddyonyx,Template:Geological history of Earth,
+2017-05-01T21:19:50+00:00,778230942,574848556,1,Giddyonyx,Template:Time scale,
+2017-05-01T08:59:47+00:00,778128266,778128202,1,Giddyonyx,Anatole (TV series),Undid revision 778128202 by [[Special:Contributions/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]])
+2017-05-01T08:59:01+00:00,778128202,778057913,1,Giddyonyx,Anatole (TV series),
+2017-04-30T22:01:21+00:00,778058057,775798652,1,Giddyonyx,Project G.e.e.K.e.R.,
+2017-04-30T22:00:24+00:00,778057913,778057852,1,Giddyonyx,Anatole (TV series),
+2017-04-30T21:59:55+00:00,778057852,760506318,1,Giddyonyx,Anatole (TV series),
+2017-04-30T07:00:39+00:00,777944093,776551610,1,Giddyonyx,FXX,
+2017-04-28T15:12:23+00:00,777665618,766566346,1,Giddyonyx,Template:Geological history of Earth,no Mesozoic!
+2017-04-25T03:06:50+00:00,777079308,0,1,Giddyonyx,User:Giddyonyx,[[WP:AES|←]]Created page with 'Giddyonyx'
+2017-04-25T03:06:27+00:00,777079269,777048549,1,Giddyonyx,Milo Murphy's Law,
+2017-06-01T21:49:49+00:00,783376756,774530184,1,Blighclair,Miss Moon,
+2017-06-01T21:46:30+00:00,783376443,782611336,1,Blighclair,Pelswick,
+2017-06-01T21:44:50+00:00,783376266,783376229,1,Blighclair,Robotboy,/* External links */
+2017-06-01T21:44:32+00:00,783376229,783321871,1,Blighclair,Robotboy,
+2017-06-01T21:43:49+00:00,783376150,783254101,1,Blighclair,Camp Lakebottom,
+2017-06-01T21:39:36+00:00,783375309,731962596,1,Blighclair,Mischief City,
+2017-06-01T21:39:03+00:00,783375252,781352200,1,Blighclair,Ellen's Acres,
+2017-06-01T21:37:47+00:00,783375107,781169098,1,Blighclair,Scaredy Squirrel (TV series),
+2017-06-01T21:36:20+00:00,783374970,783337186,1,Blighclair,Chuck's Choice,
+2017-06-01T21:35:18+00:00,783374860,776979388,1,Blighclair,Rolling with the Ronks!,
+2017-06-01T21:34:02+00:00,783374732,783064171,1,Blighclair,The Day My Butt Went Psycho!,
+2017-06-01T21:33:34+00:00,783374677,782317272,1,Blighclair,Sidekick (TV series),
+2017-06-01T21:31:34+00:00,783374493,782835278,1,Blighclair,Eliot Kid,
+2017-06-01T21:30:40+00:00,783374408,782978515,1,Blighclair,Charlie and Lola (TV series),
+2017-06-01T21:30:02+00:00,783374353,783063623,1,Blighclair,CJ the DJ,
+2017-06-01T21:29:06+00:00,783374268,781740315,1,Blighclair,My Friend Rabbit,
+2017-06-01T21:27:52+00:00,783374136,778610607,1,Blighclair,"FloopaLoo, Where Are You?",
+2017-09-10T13:21:36+00:00,799895548,798586416,1,Dijonsega,Template:Nick Jr.,
+2017-09-09T10:40:52+00:00,799707851,799671663,1,Dijonsega,Wacky Races (2017 TV series),
+2017-09-09T04:33:19+00:00,799673232,799673009,1,Dijonsega,List of programs broadcast by the Nick Jr. Channel,
+2017-09-09T04:30:40+00:00,799673009,799672832,1,Dijonsega,List of programs broadcast by the Nick Jr. Channel,
+2017-09-09T04:28:49+00:00,799672832,799374896,1,Dijonsega,List of programs broadcast by the Nick Jr. Channel,
+2017-09-07T09:48:59+00:00,799374896,799373413,1,Dijonsega,List of programs broadcast by the Nick Jr. Channel,
+2017-09-07T09:29:27+00:00,799373413,799373073,1,Dijonsega,List of programs broadcast by the Nick Jr. Channel,
+2017-09-07T09:25:22+00:00,799373073,798486142,1,Dijonsega,List of programs broadcast by the Nick Jr. Channel,
+2017-09-07T08:56:03+00:00,799370927,799315801,1,Dijonsega,List of programs broadcast by Cartoon Network (Canadian TV channel),/* Original */
+2017-09-07T08:47:33+00:00,799370335,783717175,1,Dijonsega,Graphical timeline from Big Bang to Heat Death,
+2017-09-06T09:05:12+00:00,799207183,799151459,1,Dijonsega,List of programs broadcast by Universal Kids,
+2017-09-06T08:55:24+00:00,799206443,799206202,1,Dijonsega,Betsy's Kindergarten Adventures,
+2017-09-06T08:51:59+00:00,799206202,781352693,1,Dijonsega,Betsy's Kindergarten Adventures,
+2017-09-06T08:51:57+00:00,799206196,798998317,1,Dijonsega,Template:PBS Kids shows,
+2017-09-06T08:51:57+00:00,799206195,769758604,1,Dijonsega,Template:Playhouse Disney,
+2017-09-05T09:05:15+00:00,799045616,796034409,1,Dijonsega,List of programs broadcast by Universal Kids,
+2017-09-04T12:11:58+00:00,798892500,0,1,Dijonsega,User:Dijonsega,[[WP:AES|←]]Created page with 'Dijonsega'
+2017-09-04T05:55:40+00:00,798853204,798804173,1,Dijonsega,List of programs broadcast by Disney Channel,/* Disney Junior series */
+2017-09-04T05:19:40+00:00,798849638,798849546,1,Dijonsega,Timeline of the far future,
+2017-09-04T05:18:59+00:00,798849546,798849365,1,Dijonsega,Timeline of the far future,
+2017-09-04T05:17:55+00:00,798849365,798725707,1,Dijonsega,Timeline of the far future,
+2017-09-04T02:57:24+00:00,798834992,798784321,1,Dijonsega,Iggy Arbuckle,Undid revision 798784321 by [[Special:Contributions/70.45.252.161|70.45.252.161]] ([[User talk:70.45.252.161|talk]])
+2017-09-03T09:19:59+00:00,798704684,798145560,1,Dijonsega,Franklin (TV series),
+2017-09-03T04:26:43+00:00,798656152,0,1,Dijonsega,Category:Australian children's fantasy television series,[[WP:AES|←]]Created page with '[[Category:Children's fantasy television series]] [[Category:Australian children's television series|Fantasy television series]] Category:Australian fantasy te...'
+2017-09-03T04:25:39+00:00,798656057,0,1,Dijonsega,Category:Canadian children's animated television series,[[WP:AES|←]]Created page with '*'''{{C|Canadian animated television series|Canadian}} {{C|Children's animated television series|children's animated television series}}'''.   Category:Canadia...'
+2017-09-03T04:25:11+00:00,798656021,0,1,Dijonsega,Category:Australian children's animated television series,[[WP:AES|←]]Created page with '*'''{{C|Australian animated television series|Australian}} {{C|Children's animated television series|children's animated television series}}'''.   Category:Aus...'
+2017-09-03T04:17:57+00:00,798655440,795785738,1,Dijonsega,Little Einsteins,
+2017-09-03T03:38:34+00:00,798651890,798643803,1,Dijonsega,List of animated television series of 2017,Undid revision 798643803 by [[Special:Contributions/2607:FEA8:A1DF:F719:758D:29A9:7AB6:DF40]]
+2017-09-02T06:49:13+00:00,798486142,795096322,1,Dijonsega,List of programs broadcast by the Nick Jr. Channel,
+2017-09-01T23:18:38+00:00,798438366,798389338,1,Dijonsega,List of programs broadcast by Cartoon Network,/* Upcoming original animated series */
+2017-09-01T23:18:13+00:00,798438330,0,1,Dijonsega,Apple & Onion,[[WP:AES|←]]Created page with ''''''Apple & Onion''''' is an upcoming [[United States|American]] [[Animation|animated]] [[television series]].'
+2017-09-01T23:17:45+00:00,798438287,797482659,1,Dijonsega,List of animated television series of 2018,
+2017-09-01T08:51:38+00:00,798335204,798335109,1,Dijonsega,List of programs broadcast by Disney XD,/* Future programming */
+2017-09-01T08:50:37+00:00,798335109,798333066,1,Dijonsega,List of programs broadcast by Disney XD,/* Future programming */
+2017-09-01T08:48:38+00:00,798334927,798334669,1,Dijonsega,Timeline of the far future,
+2017-09-01T08:45:45+00:00,798334669,798334431,1,Dijonsega,Timeline of the far future,
+2017-09-01T08:36:12+00:00,798333761,797976775,1,Dijonsega,Timeline of the far future,
+2017-08-30T03:16:31+00:00,797947822,797937675,1,Dijonsega,List of animated television series of 2017,Undid revision 797937675 by [[Special:Contributions/2607:FEA8:A1DF:F719:AD32:107F:B403:7C05]]
+2017-08-29T23:05:59+00:00,797918098,797091988,1,Dijonsega,Bob's Burgers,
+2017-08-29T22:21:26+00:00,797913262,797716060,1,Dijonsega,List of programs broadcast by Disney XD,
+2017-08-28T08:57:12+00:00,797624472,797604248,1,Dijonsega,2010s,
+2017-08-28T08:57:11+00:00,797624470,797404303,1,Dijonsega,2000s,
+2017-08-28T00:05:53+00:00,797576613,797576526,1,Dijonsega,List of U.S. states and territories by population,
+2017-08-28T00:05:06+00:00,797576526,795827094,1,Dijonsega,List of U.S. states and territories by population,
+2017-08-27T08:18:34+00:00,797475100,797198415,1,Dijonsega,List of animated television series of 2017,
+2017-08-27T06:43:52+00:00,797466585,797267842,1,Dijonsega,List of programs broadcast by Disney XD,/* Animated */
+2017-08-26T10:31:14+00:00,797329763,796255175,1,Dijonsega,Talk:Spider-Man (2017 TV series),Dijonsega moved page [[Talk:Spider-Man (2017 TV series)]] to [[Talk:Sboydr-Man]]
+2017-08-26T10:31:13+00:00,797329758,797329605,1,Dijonsega,Spider-Man (2017 TV series),Dijonsega moved page [[Spider-Man (2017 TV series)]] to [[Sboydr-Man]]
+2017-08-26T10:29:37+00:00,797329605,797326792,1,Dijonsega,Spider-Man (2017 TV series),
+2017-08-26T08:12:22+00:00,797316749,797298576,1,Dijonsega,List of programs broadcast by Nickelodeon,"/* Animated (""Nicktoons"") */"
+2017-08-26T02:45:31+00:00,797287365,796294245,1,Dijonsega,Franklin and Friends,
+2017-08-25T01:59:01+00:00,797115806,797052031,1,Dijonsega,All Grown Up!,
+2017-08-25T01:58:45+00:00,797115757,794383885,1,Dijonsega,List of animated television series of 2003,
+2017-08-24T09:05:09+00:00,796991956,796991921,1,Dijonsega,Big Hero 6: The Series,/* Cast */
+2017-08-24T09:04:44+00:00,796991921,796970303,1,Dijonsega,Big Hero 6: The Series,/* Cast */
+2017-08-24T04:40:05+00:00,796967793,796931991,1,Dijonsega,List of programs broadcast by Disney XD,/* Future programming */
+2017-08-24T04:39:46+00:00,796967757,796861254,1,Dijonsega,Big Hero 6: The Series,
+2017-08-24T04:31:19+00:00,796966850,796966212,1,Dijonsega,Big City Greens,
+2017-08-24T04:24:48+00:00,796966212,796966068,1,Dijonsega,Big City Greens,
+2017-08-24T04:23:28+00:00,796966068,795950861,1,Dijonsega,Big City Greens,
+2017-08-24T04:07:46+00:00,796964344,796963131,1,Dijonsega,List of animated television series of 2018,
+2017-08-24T03:55:26+00:00,796963131,795928543,1,Dijonsega,List of animated television series of 2018,
+2017-08-23T09:45:28+00:00,796835104,796646758,1,Dijonsega,The Amazing World of Gumball,
+2017-08-21T08:05:15+00:00,796500684,790548380,1,Dijonsega,"Template:Works by Dan Povenmire and Jeff ""Swampy"" Marsh",
+2017-08-19T05:48:43+00:00,796200440,795268191,1,Dijonsega,List of animated television series of 2017,
+2017-06-23T18:31:02+00:00,787146712,787146526,1,Upendgully,"Ed, Edd n Eddy",/* Sequel */
+2017-06-23T18:29:53+00:00,787146534,784962638,1,Upendgully,Template:Nick Jr.,
+2017-06-23T18:29:51+00:00,787146526,786333272,1,Upendgully,"Ed, Edd n Eddy",
+2017-06-23T18:17:58+00:00,787144717,787144487,1,Upendgully,Dora and Friends: Into the City!,
+2017-06-23T18:16:30+00:00,787144487,785894906,1,Upendgully,Dora and Friends: Into the City!,
+2017-06-23T18:08:36+00:00,787143408,787016951,1,Upendgully,Sunny Day (TV series),
+2017-06-23T18:08:34+00:00,787143402,784986837,1,Upendgully,Butterbean's Café,
+2017-06-23T18:08:32+00:00,787143397,785079226,1,Upendgully,Top Wing,
+2017-06-20T09:59:40+00:00,786581157,786581062,1,Upendgully,Cartoon Network Studios,Undid revision 786581062 by [[Special:Contributions/ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]])
+2017-06-20T09:59:30+00:00,786581138,786138812,1,Upendgully,Nickelodeon Animation Studio,
+2017-06-20T09:58:54+00:00,786581059,786527787,1,Upendgully,Cartoon Network Studios,
+2017-06-20T09:58:37+00:00,786581036,786580990,1,Upendgully,Walt Disney Animation Studios,Undid revision 786580990 by [[Special:Contributions/ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]])
+2017-06-20T09:58:11+00:00,786580983,784824629,1,Upendgully,Walt Disney Animation Studios,
+2017-06-18T13:53:44+00:00,786289154,659954015,1,Upendgully,Template:Phanerozoic eon,
+2017-06-18T13:46:18+00:00,786288410,786288090,1,Upendgully,Template:Eons graphical timeline,
+2017-06-18T13:43:13+00:00,786288090,782130413,1,Upendgully,Template:Eons graphical timeline,
+2017-06-16T05:21:50+00:00,785918516,781214902,1,Upendgully,List of states and territories of the United States by population density,/* 2015 Density by states by population rank and land area */
+2017-06-15T09:40:03+00:00,785768495,783665103,1,Upendgully,Camp Lakebottom,
+2017-06-14T22:04:06+00:00,785693187,785529776,1,Upendgully,List of programs broadcast by Disney XD,/* Animated */
+2017-06-14T22:03:28+00:00,785693054,783256241,1,Upendgully,Yin Yang Yo!,
+2017-06-14T22:02:39+00:00,785692919,783511607,1,Upendgully,Template:Disney XD original series,
+2017-06-13T09:23:01+00:00,785397786,785075011,1,Upendgully,Sony Pictures Kids Zone,
+2017-06-12T11:28:20+00:00,785241911,785240681,1,Upendgully,The Fairly OddParents,
+2017-06-12T11:14:27+00:00,785240681,784922545,1,Upendgully,The Fairly OddParents,
+2017-06-11T23:26:48+00:00,785154093,0,1,Upendgully,User:Upendgully,[[WP:AES|←]]Created page with 'Upendgully'
+2017-06-11T09:11:21+00:00,785040624,784929758,1,Upendgully,List of programs broadcast by Disney XD,
+2017-06-11T09:11:19+00:00,785040619,785027593,1,Upendgully,Billy Dilley's Super-Duper Subterranean Summer,
+2017-06-10T23:30:37+00:00,784978049,784414398,1,Upendgully,List of U.S. states and territories by population,/* States and territories */
+2017-06-10T18:35:41+00:00,784929322,784489201,1,Upendgully,List of programs broadcast by Disney XD,/* Future programming */
+2017-06-10T18:34:42+00:00,784929133,784796829,1,Upendgully,List of animated television series of 2017,
+2017-06-09T22:46:08+00:00,784762950,784601173,1,Upendgully,Sunny Day (TV series),
+2017-06-09T00:07:04+00:00,784561551,772839159,1,Upendgully,Płocko,
+2017-06-08T01:40:27+00:00,784387981,784387754,1,Upendgully,List of U.S. states and territories by population growth rate,
+2017-06-08T01:38:27+00:00,784387754,784387624,1,Upendgully,List of U.S. states and territories by population growth rate,
+2017-06-08T01:37:15+00:00,784387624,784387496,1,Upendgully,List of U.S. states and territories by population growth rate,
+2017-06-08T01:36:07+00:00,784387496,781214915,1,Upendgully,List of U.S. states and territories by population growth rate,
+2017-06-08T01:23:00+00:00,784385564,784057838,1,Upendgully,John van Bruggen,Undid revision 784057838 by [[Special:Contributions/Upendgully|Upendgully]] ([[User talk:Upendgully|talk]])
+2017-06-08T01:22:53+00:00,784385546,784057875,1,Upendgully,John Derevlany,Undid revision 784057875 by [[Special:Contributions/Upendgully|Upendgully]] ([[User talk:Upendgully|talk]])
+2017-06-07T05:59:35+00:00,784236493,784137121,1,Upendgully,Template:Geological history of Earth,
+2017-06-06T07:04:45+00:00,784057899,783981414,1,Upendgully,Andrew Overtoom,
+2017-06-06T07:04:25+00:00,784057875,783242327,1,Upendgully,John Derevlany,
+2017-06-06T07:03:53+00:00,784057838,717585907,1,Upendgully,John van Bruggen,
+2017-06-06T07:03:33+00:00,784057806,784048865,1,Upendgully,Billy Dilley's Super-Duper Subterranean Summer,
+2017-06-05T21:06:47+00:00,783986323,783964781,1,Upendgully,Billy Dilley's Super-Duper Subterranean Summer,
+2017-06-05T20:47:23+00:00,783983426,783876680,1,Upendgully,List of programs broadcast by Disney XD,/* Future programming */
+2017-07-06T07:41:57+00:00,789246530,789246434,1,Wrungmixer,Miss Moon,/* External links */
+2017-07-06T07:40:20+00:00,789246434,788472942,1,Wrungmixer,Miss Moon,
+2017-07-05T08:42:04+00:00,789091122,789089439,1,Wrungmixer,Forest cover by state and territory in the United States,revert
+2017-07-05T08:20:47+00:00,789089026,789088821,1,Wrungmixer,Dora the Explorer (TV series),
+2017-07-05T08:20:25+00:00,789088990,788277711,1,Wrungmixer,List of U.S. states and territories by population,
+2017-07-05T08:13:01+00:00,789087852,789087745,1,Wrungmixer,Dora the Explorer (TV series),
+2017-07-05T08:12:20+00:00,789087732,788660283,1,Wrungmixer,Dora the Explorer (TV series),
+2017-07-05T08:12:19+00:00,789087731,786672248,1,Wrungmixer,List of animated television series of 2000,
+2017-07-04T22:49:59+00:00,789032927,773019052,1,Wrungmixer,Forest cover by state and territory in the United States,
+2017-07-04T22:44:25+00:00,789032394,778372094,1,Wrungmixer,Template:US state and territory lists,
+2017-07-04T04:04:30+00:00,788897521,788897490,1,Wrungmixer,Sprout (TV network),
+2017-07-04T04:04:08+00:00,788897490,788869110,1,Wrungmixer,Sprout (TV network),
+2017-07-04T00:06:11+00:00,788870239,785924621,1,Wrungmixer,List of states and territories of the United States by population density,/* 2015 Density by states by population rank and land area */
+2017-07-03T22:31:12+00:00,788858832,787840598,1,Wrungmixer,Chuck's Choice,
+2017-07-01T18:57:48+00:00,788493198,788016688,1,Wrungmixer,Aaron Springer,
+2017-07-01T18:42:43+00:00,788491138,788490942,1,Wrungmixer,List of Regular Show episodes,/* Series overview */
+2017-07-01T18:41:08+00:00,788490942,788490904,1,Wrungmixer,List of Regular Show episodes,/* Series overview */
+2017-07-01T18:40:48+00:00,788490904,788009743,1,Wrungmixer,List of Regular Show episodes,
+2017-06-30T00:06:38+00:00,788188424,787856460,1,Wrungmixer,Miss Moon,
+2017-06-30T00:05:48+00:00,788188348,787901576,1,Wrungmixer,List of programs broadcast by Nicktoons,/* Acquired programming */
+2017-06-29T16:24:50+00:00,788125771,788125623,1,Wrungmixer,List of programs broadcast by the Nick Jr. Channel,/* Future programming */
+2017-06-29T16:23:31+00:00,788125623,788125342,1,Wrungmixer,List of programs broadcast by the Nick Jr. Channel,/* Future programming */
+2017-06-29T16:21:23+00:00,788125342,788125289,1,Wrungmixer,List of programs broadcast by the Nick Jr. Channel,/* Future programming */
+2017-06-29T16:21:03+00:00,788125289,787829912,1,Wrungmixer,List of programs broadcast by the Nick Jr. Channel,/* Future programming */
+2017-06-28T16:16:42+00:00,787957962,776187519,1,Wrungmixer,I.N.K. Invisible Network of Kids,
+2017-06-27T23:24:46+00:00,787853429,787852930,1,Wrungmixer,Scaredy Squirrel (TV series),
+2017-06-27T23:21:43+00:00,787853113,787388932,1,Wrungmixer,Almost Naked Animals,
+2017-06-27T23:19:49+00:00,787852930,783401026,1,Wrungmixer,Scaredy Squirrel (TV series),
+2017-06-26T19:56:51+00:00,787667910,787547278,1,Wrungmixer,List of programs broadcast by Nickelodeon,"/* Animated (""Nicktoons"") */"
+2017-06-25T03:22:04+00:00,787391620,787020382,1,Wrungmixer,Esquire Network,
+2017-06-25T03:19:20+00:00,787391374,783400797,1,Wrungmixer,Miss Moon,
+2017-06-17T01:44:22+00:00,786064745,783696257,0,2601:2C0:C280:E460:2D48:43C:FF00:D8D,Aaron Springer,
+2017-08-11T07:44:35+00:00,794984152,794983797,0,FilmandTVFan28,Anatole (TV series),Reverted 1 edit by [[Special:Contributions/70.29.123.54|70.29.123.54]] ([[User talk:70.29.123.54|talk]]) to last revision by Sjö. ([[WP:TW|TW]])
+2017-04-09T16:48:54+00:00,774612427,771943997,0,Widefox,Almost Naked Animals,/* References */ ref cols
+2017-03-16T01:29:42+00:00,770541527,756431918,0,187.189.245.196,Aaron Springer,/* Television */
+2017-04-04T17:43:12+00:00,773832044,773831901,0,AdamDeanHall,All Grown Up!,"Removed the ""s""."
+2017-05-03T02:26:40+00:00,778432417,778174729,0,49.151.19.70,2000s,/* Fine Arts */
+2017-06-15T14:54:10+00:00,785808809,785131648,0,2602:306:C46A:2FA0:E409:3439:F40A:110B,Andrew Overtoom,
+2017-07-22T01:34:13+00:00,791716890,791647428,0,201.42.13.211,2010s,/* Notable world leaders */
+2017-06-24T16:22:42+00:00,787299077,787253620,0,96.234.174.241,2010s,/* LGBTQ rights */
+2017-08-06T08:27:08+00:00,794167298,794084393,0,WOSlinker,2000s,fix image options
+2017-07-05T10:28:05+00:00,789101795,785808809,0,InternetArchiveBot,Andrew Overtoom,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.4)
+2017-05-11T13:24:09+00:00,779861472,779812451,0,173.243.202.2,Almost Naked Animals,
+2017-07-03T21:10:35+00:00,788849215,788312491,0,Favre1fan93,Archer (2009 TV series),Reverted 1 edit by [[Special:Contributions/Aditya330|Aditya330]] ([[User talk:Aditya330|talk]]): Unexplained reorder. ([[WP:TW|TW]])
+2017-07-23T13:39:47+00:00,791948626,791816882,0,173.18.41.78,Archer (2009 TV series),
+2017-07-21T19:21:46+00:00,791673200,791672795,0,Geraldo Perez,Big Hero 6: The Series,Reverted 1 edit by [[Special:Contributions/98.255.89.65|98.255.89.65]] ([[User talk:98.255.89.65|talk]]): Unsourced. ([[WP:TW|TW]])
+2017-05-10T01:34:37+00:00,779633930,778704052,0,2601:47:4300:9C9E:ED93:A131:D72C:678A,Atomic Puppet,Be aware that it is still list on the List of Disney XD programs hence there's no reason why it is exclude from the list
+2017-05-18T23:12:22+00:00,781082184,779633930,0,2601:2C0:C280:1720:D4AC:17FE:9240:DF20,Atomic Puppet,
+2017-08-11T00:50:33+00:00,794944883,792678551,0,Oh yes v,Atomic Puppet,/* Main characters */ his name is joseph
+2017-07-24T07:41:57+00:00,792068890,791922895,0,Spin Boy 11,Big City Greens,
+2017-05-20T18:23:46+00:00,781352693,740009804,0,2605:E000:151F:80DA:F0EB:80F9:752F:B3C6,Betsy's Kindergarten Adventures,/* External links */
+2017-08-29T18:47:51+00:00,797884429,797707918,0,KylieTastic,Big City Greens,Undid revision 797707918 by [[Special:Contributions/50.24.134.190|50.24.134.190]] ([[User talk:50.24.134.190|talk]]) Revert - not a recognised image file - Note images must be uploaded [[WP:UPIMAGE]] (copyright allowing)
+2016-09-18T14:16:08+00:00,740009804,738719058,0,186.211.16.94,Betsy's Kindergarten Adventures,
+2017-04-05T10:19:25+00:00,773942434,767009441,0,FilmandTVFan28,Big City Greens,/* References */
+2017-07-06T23:01:48+00:00,789367164,789367045,0,Geraldo Perez,Big City Greens,Reverted 1 edit by [[Special:Contributions/Andy754498|Andy754498]] ([[User talk:Andy754498|talk]]): Making stuff up. ([[WP:TW|TW]])
+2017-08-01T08:41:36+00:00,793361863,793360689,0,Geraldo Perez,Big Hero 6: The Series,Reverted 2 edits by [[Special:Contributions/73.169.230.177|73.169.230.177]] ([[User talk:73.169.230.177|talk]]): Content removed for no given reason. ([[WP:TW|TW]])
+2017-06-23T09:28:48+00:00,787083261,787032484,0,KylieTastic,Atomic Puppet,Removed missing (red-linked) image - not a recognised image file - Note images must be uploaded [[WP:UPIMAGE]] (copyright allowing)
+2017-07-10T14:16:42+00:00,789925524,789909260,0,Geraldo Perez,Big Hero 6: The Series,Reverted edits by [[Special:Contribs/100.38.133.133|100.38.133.133]] ([[User talk:100.38.133.133|talk]]) to last version by Geraldo Perez
+2017-08-24T21:04:30+00:00,797080630,797053520,0,Geraldo Perez,Big Hero 6: The Series,Reverted to revision 796970303 by [[Special:Contributions/Geraldo Perez|Geraldo Perez]] ([[User talk:Geraldo Perez|talk]]): [[WP:NOTBROKEN]]. ([[WP:TW|TW]])
+2017-07-01T22:09:48+00:00,788519673,788508967,0,Geraldo Perez,Big Hero 6: The Series,Reverted 1 edit by [[Special:Contributions/186.14.57.149|186.14.57.149]] ([[User talk:186.14.57.149|talk]]): Unsourced. ([[WP:TW|TW]])
+2017-08-06T14:48:59+00:00,794202731,794202700,0,72.73.70.210,Billy Dilley's Super-Duper Subterranean Summer,/* Future */
+2017-05-27T05:31:35+00:00,782484081,782439666,0,Brianis19,Bob's Burgers,
+2017-09-07T23:44:11+00:00,799477853,799146104,0,2600:8805:A881:1B00:19F6:9DD8:7D2:22A7,Billy Dilley's Super-Duper Subterranean Summer,
+2017-06-19T00:01:06+00:00,786360471,783063607,0,177.217.103.94,Boyster,
+2017-04-15T00:27:03+00:00,775457178,773839303,0,Zemblant,Billy Dilley's Super-Duper Subterranean Summer,There's no source listed for Springer voicing Billy and I can't find any info online
+2017-08-02T15:27:21+00:00,793567017,793504780,0,EliBM95,Bob's Burgers,/* Production */
+2017-05-30T22:20:57+00:00,783063607,783063498,0,Geraldo Perez,Boyster,Reverted edits by [[Special:Contribs/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]]) to last version by FilmandTVFan28
+2017-08-06T23:55:07+00:00,794270665,786360471,0,2601:2C2:100:1060:5D1E:6B1E:4578:7A78,Boyster,
+2017-08-24T17:55:19+00:00,797055878,795944282,0,2600:8805:A881:1B00:E434:7E9E:FB68:E04,Billy Dilley's Super-Duper Subterranean Summer,/* Recurring */
+2017-05-18T00:40:08+00:00,780927164,780914701,0,FilmandTVFan28,Boyster,"We don't use ""was""."
+2016-11-12T06:23:36+00:00,749074046,747113609,0,InternetArchiveBot,CJ the DJ,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.7.1)
+2017-06-02T01:40:15+00:00,783401225,783374353,0,SummerPhDv2.0,CJ the DJ,Reverted 1 edit by [[Special:Contributions/Blighclair|Blighclair]] ([[User talk:Blighclair|talk]]) to last revision by Geraldo Perez. ([[WP:TW|TW]])
+2017-08-12T18:04:40+00:00,795200868,783401225,0,70.101.15.244,CJ the DJ,
+2017-03-26T16:19:48+00:00,772319930,772192689,0,190.237.183.92,Camp Lakebottom,
+2017-08-07T04:48:42+00:00,794303873,794300308,0,Geraldo Perez,Camp Lakebottom,Reverted 1 edit by [[Special:Contributions/47.16.241.235|47.16.241.235]] ([[User talk:47.16.241.235|talk]]): Only see two in ep list. ([[WP:TW|TW]])
+2017-07-04T00:34:22+00:00,788874116,788849093,0,24.202.172.134,Camp Lakebottom,
+2017-08-28T14:39:31+00:00,797668327,797603522,0,Geraldo Perez,Camp Lakebottom,Reverted 2 edits by [[Special:Contributions/108.63.148.216|108.63.148.216]] ([[User talk:108.63.148.216|talk]]): Per note and lack of required reference. ([[WP:TW|TW]])
+2017-07-31T18:19:51+00:00,793270094,793249551,0,Wiki-Ikiw,Cartoon Network Studios,/* Former/current series */
+2017-09-06T00:16:42+00:00,799155993,799155060,0,DragonKing22,Cartoon Network Studios,/* Former/current shorts */
+2017-05-26T00:45:17+00:00,782296937,782255310,0,Alex 21,Camp Lakebottom,
+2017-05-08T07:46:12+00:00,779328118,772319930,0,2001:56A:7172:C100:1CA9:F860:B1B0:9F4C,Camp Lakebottom,"Added a link to Teletoon's webpage of Camp Lakebottom. Added Website Title to Disney XD in the infobox. Fixed two sentences grammatically and/or spelling-wise (and added a missing space (...days, Rosebud...))."
+2017-08-03T00:19:01+00:00,793630861,793630818,0,2601:204:8501:1CE0:91C5:64B:1430:97D,Cartoon Network Studios,/* Theatrical films */
+2017-06-01T06:17:21+00:00,783273028,783233923,0,Wiki-Ikiw,Cartoon Network Studios,/* Former/current series */
+2017-08-02T14:48:47+00:00,793562332,793558266,0,Toddst1,ChalkZone,Undid revision 793545421 by [[Special:Contributions/28 Entertainment|28 Entertainment]] ([[User talk:28 Entertainment|talk]])
+2017-05-07T09:55:18+00:00,779156525,779156183,0,TheSyarifCrushers,Chuck's Choice,Some repair
+2017-08-15T20:11:07+00:00,795680049,794726988,0,2A02:C7D:C08:8D00:2C5D:C072:19A6:3011,Charlie and Lola (TV series),/* Voices */
+2017-05-17T18:08:51+00:00,780872839,780871698,0,64.231.168.119,Chuck's Choice,/* Episodes */
+2017-04-03T12:03:03+00:00,773607904,773384795,0,GreenC bot,ChalkZone,Rescued 1 archive link; remove 1 link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]
+2017-05-06T20:35:40+00:00,779063333,778897975,0,172.58.17.125,ChalkZone,Update table
+2017-07-07T21:13:17+00:00,789520539,788975058,0,Jodosma,Chuck's Choice,"rm repetition of ""by"""
+2017-06-22T12:27:48+00:00,786929905,784392976,0,Woodensuperman,Clone High,/* External links */
+2017-06-03T00:15:40+00:00,783542836,783460538,0,24.45.209.152,Chuck's Choice,/* Characters */
+2017-08-14T17:38:00+00:00,795506002,795249091,0,FilmandTVFan28,Chuck's Choice,Reverted 1 edit by [[Special:Contributions/CSDMA|CSDMA]] ([[User talk:CSDMA|talk]]) to last revision by Geraldo Perez. ([[WP:TW|TW]])
+2017-04-25T23:37:27+00:00,777226607,776757254,0,Landingdude13,Clone High,/* External links */
+2017-07-20T14:20:54+00:00,791474930,791378156,0,SimpsonsFan2000,Chuck's Choice,There is no source for Season 2 as of yet.
+2017-08-03T03:54:35+00:00,793654310,793371017,0,2001:569:70DD:7500:CCB0:702B:F3BE:76D,Dora and Friends: Into the City!,/* References */
+2017-08-12T20:05:34+00:00,795217957,795217952,0,ClueBot NG,Dora and Friends: Into the City!,"Reverting possible vandalism by [[Special:Contribs/86.4.40.126|86.4.40.126]] to version by 178.167.173.162. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3101272) (Bot)"
+2017-07-01T07:15:12+00:00,788411729,788361459,0,Eik Corell,Dora and Friends: Into the City!,Reverted edits by [[Special:Contribs/2601:200:8001:EA00:88CA:1571:221A:CE04|2601:200:8001:EA00:88CA:1571:221A:CE04]] ([[User talk:2601:200:8001:EA00:88CA:1571:221A:CE04|talk]]) to last version by Bender the Bot
+2017-05-07T18:00:24+00:00,779217743,778299305,0,74.88.23.253,Dora and Friends: Into the City!,
+2017-05-02T19:02:11+00:00,778375047,777764280,0,BradfordNewton,Dora the Explorer (TV series),/* External links */
+2017-07-28T03:09:07+00:00,792702371,792702281,0,MarioFan123,Dora the Explorer (TV series),
+2017-05-13T16:49:04+00:00,780209017,780208893,0,Anne Margery,Dora the Explorer (TV series),
+2017-08-25T11:30:58+00:00,797176594,796717861,0,Logosncompanies,Dora the Explorer (TV series),
+2017-07-11T07:58:50+00:00,790046955,789465492,0,ThePugPuppyLover900,Dora the Explorer (TV series),/* Foreign adaptations */
+2017-05-30T16:53:42+00:00,783021944,781689622,0,Kkjj,Dora the Explorer (TV series),minor copyedit
+2017-08-22T05:47:49+00:00,796638811,796638691,0,177.133.127.213,Earth to Luna!,/* Voice Actors */
+2017-08-15T18:12:33+00:00,795664630,795573883,0,ScratchMarshall,Dot.,
+2017-07-06T00:07:27+00:00,789201830,789046505,0,2601:201:0:F3B0:2956:FFF6:903F:26B9,Dot.,
+2017-07-20T21:56:21+00:00,791535302,790746878,0,2607:FEA8:A1DF:F719:95CD:D844:982F:ECAB,Earth to Luna!,
+2017-05-06T02:38:00+00:00,778939668,778871260,0,Jpcase,"Ed, Edd n Eddy","Thanks for removing the second IGN source, which you're right, doesn't appear to mention Squigglevision. I'm not sure why the rest was changed though."
+2017-08-13T15:46:13+00:00,795334933,795298529,0,FilmandTVFan28,"Ed, Edd n Eddy",Reverted to revision 794528230 by [[Special:Contributions/FilmandTVFan28|FilmandTVFan28]] ([[User talk:FilmandTVFan28|talk]]): Unexplained removal. ([[WP:TW|TW]])
+2017-08-31T01:08:44+00:00,798105783,795334933,0,KolbertBot,"Ed, Edd n Eddy",Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]
+2017-06-18T20:01:12+00:00,786333272,783700959,0,InternetArchiveBot,"Ed, Edd n Eddy",Rescuing 2 sources and tagging 2 as dead. #IABot (v1.4beta) ([[User:Elisfkc|Elisfkc]])
+2017-06-04T02:09:13+00:00,783700959,783346785,0,GreenC bot,"Ed, Edd n Eddy",Rescued 1 archive link; remove 1 link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]
+2017-05-25T23:33:46+00:00,782288105,780551774,0,InternetArchiveBot,"Ed, Edd n Eddy",Rescuing 2 sources and tagging 3 as dead. #IABot (v1.3.2.3) ([[User:Cyberpower678|Cyberpower678]])
+2017-06-25T13:50:40+00:00,787449557,787153766,0,DrKay,"Ed, Edd n Eddy",
+2017-03-09T14:39:48+00:00,769433754,769417827,0,Geraldo Perez,Edgar & Ellen,Reverted edits by [[Special:Contribs/Nicetints|Nicetints]] ([[User talk:Nicetints|talk]]) to last version by 202.61.218.1
+2017-07-27T19:31:08+00:00,792647443,791709751,0,142.68.180.229,Edgar & Ellen,Added content
+2017-07-08T02:34:08+00:00,789560913,788200560,0,2602:306:CEBF:49A0:84AE:626B:B5C6:B10E,El Tigre: The Adventures of Manny Rivera,/* Origin */
+2017-06-13T12:23:25+00:00,785417747,783415149,0,ScratchMarshall,Eliot Kid,
+2017-06-14T02:43:15+00:00,785538065,785527151,0,Geraldo Perez,El Tigre: The Adventures of Manny Rivera,Reverted 1 edit by [[Special:Contributions/50.84.44.250|50.84.44.250]] ([[User talk:50.84.44.250|talk]]): Unnecessary. ([[WP:TW|TW]])
+2016-07-26T23:42:07+00:00,731699116,727630763,0,2607:FB90:210F:D853:D574:C1CD:B746:C338,Ellen's Acres,
+2017-06-10T15:49:33+00:00,784895798,783401022,0,Jason elijah,Ellen's Acres,
+2017-06-22T13:56:34+00:00,786940945,783028518,0,2606:A000:C690:4600:A0F7:A854:1A03:264B,FXX,HOW COME...
+2017-06-26T19:21:13+00:00,787663264,787545614,0,Eik Corell,"FloopaLoo, Where Are You?",Reverted edits by [[Special:Contribs/98.19.225.119|98.19.225.119]] ([[User talk:98.19.225.119|talk]]) to last version by SummerPhDv2.0
+2017-06-02T01:40:22+00:00,783401240,783374136,0,SummerPhDv2.0,"FloopaLoo, Where Are You?",Reverted 1 edit by [[Special:Contributions/Blighclair|Blighclair]] ([[User talk:Blighclair|talk]]) to last revision by RussBot. ([[WP:TW|TW]])
+2017-07-01T04:43:39+00:00,788396564,788186652,0,MrSchimpf,Esquire Network,rv snuck in slogan vandalism
+2017-03-30T19:45:27+00:00,773019052,773019026,0,A Great Catholic Person,Forest cover by state and territory in the United States,Reverted edits by [[Special:Contribs/207.157.17.249|207.157.17.249]] ([[User talk:207.157.17.249|talk]]) to last version by 72.92.130.71
+2017-07-19T11:04:39+00:00,791302711,789837527,0,2600:100F:B01B:F844:6407:4C11:FAE8:246F,Forest cover by state and territory in the United States,
+2017-05-24T21:59:22+00:00,782093992,782093402,0,71.86.170.153,Franklin (TV series),
+2017-04-30T23:39:26+00:00,778071094,778070406,0,AdamDeanHall,Franklin (TV series),Added italics.
+2017-05-16T04:58:08+00:00,780611707,780610415,0,FilmandTVFan28,Franklin and Friends,Reverted 1 edit by [[Special:Contributions/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]]) to last revision by Vladimirrizov20. ([[WP:TW|TW]])
+2017-03-30T18:50:36+00:00,773011707,773011179,0,Miguel Escopeta,Gander Mountain,/* Gun sales */ removing incidental information.
+2017-07-20T04:23:54+00:00,791419145,791332107,0,SummerPhDv2.0,Franklin and Friends,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/92.19.183.28|92.19.183.28]] ([[User talk:92.19.183.28|talk]]): [[WP:KIDSTVDATES]]. ([[WP:TW|TW]])
+2017-05-25T05:40:45+00:00,782147914,781769755,0,Ewhalen,Gander Mountain,/* Bankruptcy */
+2017-05-10T20:26:46+00:00,779759948,759452159,0,PrimeBOT,Get Ace,/* Season One */update syntax in {{episode list/sublist}} - [[Wikipedia:Bots/Requests_for_approval/PrimeBOT_15|BRFA]]
+2017-05-30T22:21:21+00:00,783063669,783062799,0,Geraldo Perez,Get Ace,Reverted edits by [[Special:Contribs/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]]) to last version by PrimeBOT
+2017-06-04T04:51:42+00:00,783717175,780601670,0,IAmNotDonaldTrump,Graphical timeline from Big Bang to Heat Death,
+2017-07-11T22:01:09+00:00,790150240,789980040,0,BenStein69,High School USA!,
+2017-03-23T19:28:51+00:00,771830087,771830012,0,207.62.238.193,Graphical timeline from Big Bang to Heat Death,
+2017-04-28T21:07:13+00:00,777721877,769433038,0,YborCityJohn,High School USA!,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.3beta8)
+2017-05-06T16:07:39+00:00,779028551,778197200,0,GreenC bot,Iggy Arbuckle,Reformat 1 archive link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]
+2017-01-11T06:27:37+00:00,759452159,755486911,0,InternetArchiveBot,Get Ace,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.7.1)
+2017-04-19T13:48:29+00:00,776187519,769432127,0,Bananaboat978,I.N.K. Invisible Network of Kids,"Just added few minor parts to elaborate on the characters experience, family and relationships."
+2017-07-09T22:50:06+00:00,789837556,787957962,0,Bbb23,I.N.K. Invisible Network of Kids,Reverted edits by [[Special:Contribs/Wrungmixer|Wrungmixer]] ([[User talk:Wrungmixer|talk]]) to last version by Bananaboat978
+2017-06-20T01:13:14+00:00,786527730,785190219,0,24.202.172.134,Iggy Arbuckle,
+2016-04-28T15:48:08+00:00,717585907,659499771,0,Magioladitis,John van Bruggen,"/* External links */Migrating Persondata to Wikidata + other fixes, removed: {{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->\n| NAME              = Van Bruggen, John\n| ALTERNATIVE NAMES =\n| SHORT DESCRI using [[Project:AWB|AWB]] (12006)"
+2017-04-27T22:34:03+00:00,777564297,764525091,0,CrypticalFiery,John Derevlany,
+2017-06-05T20:03:42+00:00,783976664,783972478,0,Geraldo Perez,Johnny Test,Reverted edits by [[Special:Contribs/72.94.90.103|72.94.90.103]] ([[User talk:72.94.90.103|talk]]) to last version by Geraldo Perez
+2017-07-23T15:25:44+00:00,791960998,791933981,0,Geraldo Perez,Johnny Test,Nationality in intro only if singular per [[WP:TVLEAD]]
+2017-07-02T17:30:38+00:00,788649801,788649184,0,179.60.100.244,List of Regular Show episodes,/* Season 9 (2017-18) */
+2017-07-07T21:30:45+00:00,789522754,789505899,0,Benjamin Nilsson,List of Regular Show episodes,
+2017-04-21T01:15:15+00:00,776442827,776442610,0,Grapesoda22,List of Regular Show episodes,/* Series overview */
+2017-06-08T05:50:36+00:00,784414398,784148579,0,Joel Amos,List of U.S. states and territories by population,/* States and territories */
+2017-06-11T01:49:33+00:00,784995073,784993750,0,Bromistaguy,List of U.S. states and territories by population,Reverting to table with more correct data
+2017-06-12T20:33:43+00:00,785311705,782393356,0,DumbBOT,List of Regular Show episodes,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2017-06-26T19:08:34+00:00,787661468,787661393,0,EvergreenFir,List of Regular Show episodes,Reverted edits by [[Special:Contribs/179.60.101.160|179.60.101.160]] ([[User talk:179.60.101.160|talk]]) to last version by Sebk
+2017-08-30T00:46:55+00:00,797929958,797576613,0,Nyttend,List of U.S. states and territories by population,"/* Electoral apportionment */ ""The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years""  Why say ""effectively""?"
+2017-07-05T08:25:32+00:00,789089438,789088990,0,Qzd,List of U.S. states and territories by population,Reverted edits by [[Special:Contribs/Wrungmixer|Wrungmixer]] ([[User talk:Wrungmixer|talk]]) to last version by 68.196.188.210
+2017-06-13T18:20:38+00:00,785470313,785470242,0,Maile66,List of U.S. states and territories by population,"remove pp template, no longer protected"
+2017-04-10T07:02:46+00:00,774715601,774712264,0,Jjj1238,List of U.S. states and territories by population,Reverted to revision 774492552 by [[Special:Contributions/Bobbie73|Bobbie73]] ([[User talk:Bobbie73|talk]]). ([[WP:TW|TW]])
+2017-05-25T01:54:32+00:00,782123721,782083276,0,Adamwashere,List of U.S. states and territories by population,"Undid last two edits as someone placed Iowa at 8th or 9th and Colorado at 50th, all the ranks were messed up."
+2017-07-21T23:59:29+00:00,791706105,791706005,0,Blake675,List of U.S. states and territories by population,/* State information */
+2017-07-30T20:33:22+00:00,793127550,791706105,0,DEIDATVM,List of U.S. states and territories by population,Category:Ranked lists of country subdivisions
+2017-05-17T01:46:42+00:00,780764073,780734669,0,LoveWaffle,List of U.S. states and territories by population,Reverted 1 edit by [[Special:Contributions/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]]) to last revision by SMB99thx. ([[WP:TW|TW]])
+2017-06-06T18:56:01+00:00,784148579,782123721,0,Joel Amos,List of U.S. states and territories by population,/* States and territories */ Added 2016 data reference
+2017-09-03T18:17:13+00:00,798766216,798617884,0,KolbertBot,List of U.S. states and territories by population,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2017-06-08T17:54:24+00:00,784502390,784502093,0,Alexbrennen,List of U.S. states and territories by population growth rate,[Revert Vandalism]
+2017-04-08T07:34:33+00:00,774407845,770514656,0,199.229.240.174,List of U.S. states and territories by population growth rate,"changed 63 to 75            for the 75-month period April 1, 2010 to July 1, 2016"
+2017-03-26T15:56:05+00:00,772316492,772307935,0,Geraldo Perez,List of animated television series of 2000,Reverted edits by [[Special:Contribs/97.113.254.51|97.113.254.51]] ([[User talk:97.113.254.51|talk]]) to last version by Geraldo Perez
+2017-08-13T03:45:07+00:00,795268191,795258023,0,71.38.146.20,List of animated television series of 2017,
+2017-06-14T17:37:23+00:00,785649215,785640938,0,12.197.118.95,List of animated television series of 2003,
+2017-05-19T20:31:16+00:00,781214915,778489503,0,InternetArchiveBot,List of U.S. states and territories by population growth rate,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.3.2)
+2017-05-02T23:45:29+00:00,778411753,778411654,0,172.58.72.236,List of animated television series of 2017,/* References */
+2017-06-02T19:59:01+00:00,783512485,783276557,0,172.56.17.52,List of animated television series of 2017,
+2017-08-28T02:11:17+00:00,797590259,797589449,0,138.229.144.36,List of animated television series of 2017,
+2017-05-12T23:17:05+00:00,780098200,780063188,0,172.58.25.96,List of animated television series of 2017,
+2017-07-08T13:35:10+00:00,789622736,789529973,0,Geraldo Perez,List of animated television series of 2017,Undid revision 789479125 by [[Special:Contributions/2602:306:BCEF:5630:714C:9A80:6A77:510D]]
+2017-08-07T17:55:29+00:00,794383885,794220235,0,64.237.227.205,List of animated television series of 2003,
+2017-07-05T08:25:31+00:00,789089437,789087731,0,Qzd,List of animated television series of 2000,Reverted edits by [[Special:Contribs/Wrungmixer|Wrungmixer]] ([[User talk:Wrungmixer|talk]]) to last version by 67.85.55.157
+2017-05-19T18:17:38+00:00,781197189,780779029,0,205.154.44.96,List of animated television series of 2017,
+2017-05-27T01:35:03+00:00,782459582,782432601,0,Esteban In Rialto,List of animated television series of 2017,
+2017-03-09T11:20:20+00:00,769414748,769406721,0,PRehse,List of animated television series of 2018,Reverted 1 edit by [[Special:Contributions/Nicetints|Nicetints]] ([[User talk:Nicetints|talk]]). ([[WP:TW|TW]])
+2017-08-10T19:30:35+00:00,794907262,794890571,0,CSDMA,List of animated television series of 2018,
+2017-08-17T11:38:57+00:00,795928543,795763853,0,Geraldo Perez,List of animated television series of 2018,Reverted edits by [[Special:Contribs/Agapelaban|Agapelaban]] ([[User talk:Agapelaban|talk]]) to last version by Trivialist
+2017-06-16T14:38:00+00:00,785974967,785973560,0,205.222.248.149,List of programs broadcast by Cartoon Network,
+2017-08-11T19:41:58+00:00,795064116,795032977,0,24.180.22.225,List of programs broadcast by Cartoon Network (Canadian TV channel),/* Former */
+2017-06-25T20:33:41+00:00,787511015,787463351,0,CartoonboyG,List of programs broadcast by Disney Channel,/* Future programming */
+2017-09-02T00:09:53+00:00,798443221,798438287,0,Thegoodguy3221,List of animated television series of 2018,Reverted 1 edit by [[Special:Contributions/Dijonsega|Dijonsega]] ([[User talk:Dijonsega|talk]]): No link. ([[WP:TW|TW]])
+2017-08-19T15:20:31+00:00,796253037,795928243,0,66.46.53.106,List of programs broadcast by Cartoon Network (Canadian TV channel),/* Acquired */
+2017-08-15T01:21:12+00:00,795562968,795542700,0,Davidlucas433,List of programs broadcast by Cartoon Network,/* Former acquired series */
+2017-05-13T20:32:17+00:00,780241868,779463654,0,Mike Weber02,List of programs broadcast by Disney Channel,/* Sitcom/comedy-drama series */
+2017-06-21T03:28:30+00:00,786705977,786705875,0,98.116.72.122,List of programs broadcast by Disney XD,/* Live-action */
+2017-07-04T03:17:53+00:00,788893273,788893023,0,Amaury,List of programs broadcast by Disney XD,Reverted edits by [[Special:Contribs/49.176.71.91|49.176.71.91]] ([[User talk:49.176.71.91|talk]]) to last version by 189.216.114.250
+2017-05-13T21:41:44+00:00,780252581,780251959,0,Amaury,List of programs broadcast by Disney XD,Reverted edits by [[Special:Contribs/RavenHome Vs.|RavenHome Vs.]] ([[User talk:RavenHome Vs.|talk]]) to last version by Geraldo Perez
+2017-06-23T13:29:00+00:00,787107161,787107013,0,Amaury,List of programs broadcast by Disney XD,Reverted edits by [[Special:Contribs/98.19.225.119|98.19.225.119]] ([[User talk:98.19.225.119|talk]]) to last version by Amaury
+2017-07-27T23:46:05+00:00,792681606,792421665,0,Pariah24,List of programs broadcast by Disney XD,Disambiguating links to [[The Legend of Tarzan]] (link changed to [[The Legend of Tarzan (TV series)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-06-01T19:52:37+00:00,783362697,783350863,0,Amaury,List of programs broadcast by Disney XD,Reverted 1 edit by [[Special:Contributions/205.222.248.149|205.222.248.149]] ([[User talk:205.222.248.149|talk]]): Comments from unverified accounts are also not reliable. ([[WP:TW|TW]])
+2017-08-14T14:58:59+00:00,795485422,795485365,0,AngusWOOF,List of programs broadcast by Disney XD,Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2017-08-04T22:30:31+00:00,793950614,793950315,0,MagicZootopiaFan,List of programs broadcast by Disney XD,/* Animated */ There are no more showings for that show
+2017-08-17T16:17:26+00:00,795961334,795485422,0,Gellerman,List of programs broadcast by Disney XD,/* Series renewals */
+2017-06-15T01:01:47+00:00,785715586,785714164,0,Geraldo Perez,List of programs broadcast by Disney XD,Reverted 1 edit by [[Special:Contributions/2601:3C6:8100:CB90:4536:A72B:F3FB:AEE3|2601:3C6:8100:CB90:4536:A72B:F3FB:AEE3]] ([[User talk:2601:3C6:8100:CB90:4536:A72B:F3FB:AEE3|talk]]): Unsourced dates. ([[WP:TW|TW]])
+2017-07-08T22:32:35+00:00,789686683,789661929,0,CartoonboyG,List of programs broadcast by Disney XD,/* Animated */
+2017-05-21T00:55:12+00:00,781400186,781348279,0,177.217.252.87,List of programs broadcast by Disney XD,/* Series Renewals */
+2017-08-24T05:07:16+00:00,796970381,796967793,0,Geraldo Perez,List of programs broadcast by Disney XD,Reverted 1 edit by [[Special:Contributions/Dijonsega|Dijonsega]] ([[User talk:Dijonsega|talk]]): Not in reference used. ([[WP:TW|TW]])
+2017-05-24T23:14:39+00:00,782103799,782076379,0,177.217.101.84,List of programs broadcast by Disney XD,/* Original programming */
+2017-07-21T06:15:55+00:00,791585431,791083230,0,VHS99,List of programs broadcast by Nickelodeon,/* TV movies */
+2017-06-07T21:54:22+00:00,784356871,784356602,0,MarioFan123,List of programs broadcast by Nickelodeon,"/* Animated (""Nicktoons"") */"
+2017-07-13T03:57:12+00:00,790345719,790342632,0,FilmandTVFan28,List of programs broadcast by Disney XD,Reverted 4 edits by [[Special:Contributions/98.116.72.122|98.116.72.122]] ([[User talk:98.116.72.122|talk]]) to last revision by Geraldo Perez. ([[WP:TW|TW]])
+2017-05-29T21:34:43+00:00,782892829,782892774,0,47.186.133.242,List of programs broadcast by Disney XD,/* Animated */
+2017-05-10T20:56:12+00:00,779765180,779595650,0,CartoonboyG,List of programs broadcast by Nickelodeon,/* Former programming blocks */
+2017-08-13T01:23:08+00:00,795254895,795249039,0,CartoonboyG,List of programs broadcast by Disney XD,/* Animated */Totally Unsourced!
+2017-05-24T03:18:20+00:00,781943347,781877742,0,MarioFan123,List of programs broadcast by Nickelodeon,
+2017-06-27T05:29:53+00:00,787726904,787726737,0,74.240.89.69,List of programs broadcast by Nicktoons,/* Repeats of Nickelodeon series */I Helped Fixed It
+2017-08-31T03:00:20+00:00,798118830,797731478,0,Son of Zorn,List of programs broadcast by Nicktoons,
+2017-05-27T15:59:59+00:00,782543344,780359887,0,Vidpro23,List of programs broadcast by Universal Kids,
+2017-03-05T00:10:58+00:00,768644158,768638117,0,Blakegripling ph,List of programs broadcast by Universal Kids,Adding {{pp-30-500}} ([[WP:TW|TW]])
+2017-06-13T23:36:17+00:00,785514973,782543344,0,Vidpro23,List of programs broadcast by Universal Kids,
+2017-05-06T01:14:29+00:00,778930277,777161148,0,Mike Weber02,List of programs broadcast by the Nick Jr. Channel,/* NickMom */
+2017-06-10T17:58:05+00:00,784921687,782267954,0,CartoonboyG,List of programs broadcast by the Nick Jr. Channel,/* Former programming (along with Noggin programs) */
+2017-07-10T08:49:18+00:00,789892154,789870202,0,WayKurat,List of programs broadcast by the Nick Jr. Channel,Reverted edits by [[Special:Contribs/Ash Ambrosio|Ash Ambrosio]] ([[User talk:Ash Ambrosio|talk]]) to last version by CartoonboyG
+2017-08-12T00:04:55+00:00,795096322,793901837,0,MagicZootopiaFan,List of programs broadcast by the Nick Jr. Channel,/* Former programming (along with Noggin programs) */
+2017-05-24T20:08:46+00:00,782074670,782074583,0,Bulgerkyle,List of programs broadcast by the Nick Jr. Channel,/* Current programming */
+2017-06-17T20:12:30+00:00,786180960,786147696,0,JCox1,List of programs broadcast by the Nick Jr. Channel,I forgot one NickMom program.
+2017-04-25T15:33:18+00:00,777161148,774805255,0,Vidpro23,List of programs broadcast by the Nick Jr. Channel,
+2017-05-25T20:56:39+00:00,782267954,782074670,0,Bulgerkyle,List of programs broadcast by the Nick Jr. Channel,/* Additional programs (for NOGGIN App only) */
+2017-05-16T20:08:12+00:00,780721260,778930277,0,Kooz125,List of programs broadcast by the Nick Jr. Channel,/* Former programming (along with Noggin programs) */
+2017-07-24T20:52:55+00:00,792159335,791876436,0,CartoonboyG,List of programs broadcast by the Nick Jr. Channel,
+2017-03-30T13:27:07+00:00,772968366,772645807,0,32.218.40.36,List of states and territories of the United States by population density,Undid revision 772645807 by [[Special:Contributions/Dothmope|Dothmope]] ([[User talk:Dothmope|talk]])unsourced changes
+2017-07-04T00:30:45+00:00,788873757,788870239,0,24.35.75.7,List of states and territories of the United States by population density,Undid revision 788870239 by [[Special:Contributions/Wrungmixer|Wrungmixer]] ([[User talk:Wrungmixer|talk]])
+2017-06-25T14:58:04+00:00,787457590,787325184,0,AussieLegend,Little Einsteins,"Undid revision 787325074 by [[Special:Contributions/130.65.109.49|130.65.109.49]] ([[User talk:130.65.109.49|talk]])makes no sense, rmv invalid field"
+2017-07-27T15:47:41+00:00,792616866,792616731,0,UreasAlasonte787,Looped (TV series),/* Plot */
+2017-07-30T20:35:37+00:00,793127817,791907672,0,DEIDATVM,List of states and territories of the United States by population density,add Category:Ranked lists of country subdivisions. There are probably other U.S.-related articles to add but this is all I feel like at the moment
+2017-08-15T17:41:51+00:00,795660628,795063638,0,Howiebraunstein,Little Einsteins,/* Broadcast */
+2017-05-20T21:14:07+00:00,781374765,781374254,0,UreasAlasonte787,Looped (TV series),/* Characters */
+2017-05-30T22:21:47+00:00,783063728,783062163,0,Geraldo Perez,Matt's Monsters,Reverted edits by [[Special:Contribs/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]]) to last version by Crazybob2014
+2017-08-31T21:50:43+00:00,798261354,797920868,0,114.125.169.243,Milo Murphy's Law,/* Episodes */
+2017-08-06T21:05:25+00:00,794250435,794232849,0,Jasonbres,Milo Murphy's Law,Undid revision 794232849 by [[Special:Contributions/Mr. Daniel Zapata|Mr. Daniel Zapata]] ([[User talk:Mr. Daniel Zapata|talk]])
+2017-07-27T12:23:57+00:00,792592047,792159335,0,CartoonboyG,List of programs broadcast by the Nick Jr. Channel,/* Former programming (along with Noggin programs) */
+2017-06-05T06:30:33+00:00,783878823,783224394,0,73.36.171.26,Milo Murphy's Law,/* Other characters */ Pretty sure the actor is not currently on death row
+2017-05-25T13:39:27+00:00,782197482,782173818,0,Geraldo Perez,Milo Murphy's Law,Reverted 1 edit by [[Special:Contributions/175.142.119.150|175.142.119.150]] ([[User talk:175.142.119.150|talk]]): Not starring. ([[WP:TW|TW]])
+2017-06-02T01:38:11+00:00,783400933,783375309,0,SummerPhDv2.0,Mischief City,Reverted 1 edit by [[Special:Contributions/Blighclair|Blighclair]] ([[User talk:Blighclair|talk]]) to last revision by 99.109.90.90. ([[WP:TW|TW]])
+2017-06-27T23:56:12+00:00,787856460,787391374,0,172.56.30.11,Miss Moon,/* External links */
+2017-08-11T16:42:01+00:00,795041324,791003113,0,Shaded0,Miss Moon,"/* Episodes */clean up, added Empty section (1) tag using [[Project:AWB|AWB]]"
+2017-04-09T02:57:43+00:00,774530184,773299467,0,CrypticalFiery,Miss Moon,Undid revision 773299467 by [[Special:Contributions/87.13.240.5|87.13.240.5]] ([[User talk:87.13.240.5|talk]])
+2017-07-17T14:04:15+00:00,791003113,790982238,0,SummerPhDv2.0,Miss Moon,/* Characters */ clean up and clarify Engliiish
+2017-06-02T01:37:04+00:00,783400797,783376756,0,SummerPhDv2.0,Miss Moon,Reverted 1 edit by [[Special:Contributions/Blighclair|Blighclair]] ([[User talk:Blighclair|talk]]) to last revision by Palettepony895. ([[WP:TW|TW]])
+2017-06-17T02:28:35+00:00,786068496,785679546,0,Geraldo Perez,My Big Big Friend,per [[WP:TVLEAD]] nationality in intro only if singular
+2017-08-30T11:34:36+00:00,798000201,795964050,0,79.66.35.113,Miss Moon,/* Broadcast */Iki
+2017-06-20T02:40:54+00:00,786536570,784802790,0,50.89.230.85,My Dad the Rock Star,
+2017-08-17T16:37:09+00:00,795964050,795041324,0,J 1982,Miss Moon,added [[Category:Fictional nannies]] using [[WP:HC|HotCat]]
+2017-07-17T05:42:53+00:00,790959346,790153344,0,208.54.4.214,My Dad the Rock Star,/* External links */
+2017-06-11T04:53:44+00:00,785014797,783401236,0,Robina Fox,My Friend Rabbit,+[[Category:2002 children's books]]; ±[[Category:Children's picture books]]→[[Category:American children's picture books]] using [[WP:HC|HotCat]]
+2017-05-06T03:33:57+00:00,778945030,778060011,0,Discospinster,Nickelodeon Animation Studio,Reverted edits by [[Special:Contribs/23.123.78.189|23.123.78.189]] ([[User talk:23.123.78.189|talk]]) to last version by Cartoonist 101
+2017-08-06T20:44:59+00:00,794247212,794094922,0,Radiohist,Nickelodeon Animation Studio,/* Nickelodeon (Main shows) */ It has not been announced that it had been cancelled.
+2017-07-27T23:20:24+00:00,792679139,792678810,0,Jessicapierce,Pelswick,minor copy edits
+2017-06-13T06:51:28+00:00,785381430,780611561,0,93.86.20.242,Peter Rabbit (TV series),
+2017-08-10T21:37:54+00:00,794923479,793258013,0,Dimadick,Project G.e.e.K.e.R.,/* External links */
+2017-06-09T10:33:01+00:00,784640264,784561551,0,Mrjulesd,Płocko,Undid revision 784561551 by [[Special:Contributions/Upendgully|Upendgully]] ([[User talk:Upendgully|talk]]) rvv
+2017-05-16T04:56:44+00:00,780611561,780610801,0,FilmandTVFan28,Peter Rabbit (TV series),Reverted 1 edit by [[Special:Contributions/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]]): Not animated in Flash. ([[WP:TW|TW]])
+2017-05-13T16:15:38+00:00,780202019,780201927,0,62.64.189.188,Robotboy,/* See also */
+2016-11-03T02:51:32+00:00,747568765,747323088,0,Zackmann08,Ricky Sprocket: Showbiz Boy,"Fixing deprecated image syntax (and possibly other misc fixes), added Empty section (1) tag using [[Project:AWB|AWB]]"
+2017-03-29T17:21:05+00:00,772839159,573319411,0,JJMC89 bot,Płocko,"Migrate {{Infobox settlement}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]"
+2017-06-12T19:38:26+00:00,785303032,785285281,0,Geraldo Perez,Robotboy,Reverted 1 edit by [[Special:Contributions/2602:306:CEBF:49A0:4D65:76DD:2AA6:7D86|2602:306:CEBF:49A0:4D65:76DD:2AA6:7D86]] ([[User talk:2602:306:CEBF:49A0:4D65:76DD:2AA6:7D86|talk]]): See [[WP:TVLEAD]]. ([[WP:TW|TW]])
+2017-07-04T23:00:04+00:00,789033816,789025303,0,Praxidicae,Ricky Sprocket: Showbiz Boy,Reverted edits by [[Special:Contribs/2607:FEA8:C2DF:FAEA:95E8:757F:C3D1:2A03|2607:FEA8:C2DF:FAEA:95E8:757F:C3D1:2A03]] ([[User talk:2607:FEA8:C2DF:FAEA:95E8:757F:C3D1:2A03|talk]]) to last version by Geraldo Perez
+2017-05-07T01:04:32+00:00,779100976,779100942,0,79.76.36.168,Robotboy,/* Modes */
+2017-06-10T00:15:58+00:00,784775690,784699833,0,PKT,Robotboy,Unlinked ambiguous name: [[Adam Cohen]]
+2017-07-20T00:15:21+00:00,791395513,790643322,0,Jessicapierce,Robotboy,"minor copy edits (My earlier edit was correct - the sentence means ""it is,"" and therefore ""it's,"" with the apostrophe, was correct. I've changed it to simply ""it is,"" for sake of clarity.)"
+2017-06-02T01:37:32+00:00,783400859,783376266,0,SummerPhDv2.0,Robotboy,Reverted 2 edits by [[Special:Contributions/Blighclair|Blighclair]] ([[User talk:Blighclair|talk]]) to last revision by LilHelpa. ([[WP:TW|TW]])
+2017-04-20T14:18:18+00:00,776355839,775201460,0,84.83.105.117,Robotboy,
+2017-07-15T03:00:39+00:00,790643322,790640141,0,Geraldo Perez,Robotboy,"""it's"" is a contraction for ""it is"", ""its"" is possessive for it"
+2017-08-06T19:06:12+00:00,794233492,793890484,0,95.83.250.202,Rolling with the Ronks!,/* Broadcast */
+2017-06-05T04:55:23+00:00,783868972,783868797,0,Geraldo Perez,Sabrina the Teenage Witch (1970 TV series),Reverted 1 edit by [[Special:Contributions/207.225.26.200|207.225.26.200]] ([[User talk:207.225.26.200|talk]]): No need for a table and I disagree with your personal opinions [[WP:NOR]] about genres. ([[WP:TW|TW]])
+2017-08-31T15:51:36+00:00,798208512,797527560,0,115.164.178.132,Rolling with the Ronks!,/* Broadcast */ fixed some stuff
+2017-04-07T06:29:40+00:00,774252374,774152335,0,Antonioatrylia,Sabrina's Secret Life,"Reverted to revision 771669042 by [[Special:Contributions/2607:FEA8:C2DF:FAEA:24AC:B2C2:269:48CC|2607:FEA8:C2DF:FAEA:24AC:B2C2:269:48CC]]: Imdb is not considered a reliable website for a reference, see [[WP:RS]]. ([[WP:TW|TW]])"
+2017-07-31T07:03:37+00:00,793194912,791697271,0,Whistler1498,Sabrina's Secret Life,/* Overview */
+2017-07-08T10:05:29+00:00,789602521,789523536,0,Materialscientist,Sabrina: Secrets of a Teenage Witch,Reverted edits by [[Special:Contribs/71.255.245.189|71.255.245.189]] ([[User talk:71.255.245.189|talk]]) to last version by 172.56.40.33
+2017-05-08T21:04:10+00:00,779426558,778912729,0,Ronhjones,Sabrina the Teenage Witch (1970 TV series),Reverted 2 edits by [[Special:Contributions/207.225.26.200|207.225.26.200]] ([[User talk:207.225.26.200|talk]]) to last revision by Geraldo Perez. ([[WP:TW|TW]])
+2017-06-20T01:34:36+00:00,786529824,783063838,0,172.56.16.29,Sabrina's Secret Life,/* External links */
+2017-07-21T22:35:42+00:00,791697271,790446378,0,Trivialist,Sabrina's Secret Life,[[c:Help:Cat-a-lot|Cat-a-lot]]: Removing from [[Category:Boomerang (TV channel)]]
+2017-07-11T22:11:31+00:00,790152198,790151481,0,Trivialist,Sabrina: The Animated Series,[[c:Help:Cat-a-lot|Cat-a-lot]]: Removing from [[Category:Teletoon shows]]
+2017-08-15T03:36:48+00:00,795576495,795384731,0,2601:1C2:1780:A0D:C44F:66F5:8CB5:1582,Sabrina: The Animated Series,
+2017-06-10T21:20:24+00:00,784956557,783063830,0,172.56.40.33,Sabrina: Secrets of a Teenage Witch,/* External links */
+2017-03-01T02:48:10+00:00,767984579,766126027,0,FilmandTVFan28,Sabrina: Secrets of a Teenage Witch,/* External links */
+2017-08-22T16:51:13+00:00,796712959,796712496,0,174.60.164.235,Sabrina: The Animated Series,/* Production */
+2017-06-27T00:33:11+00:00,787699283,785286933,0,Atvica,Sally Bollywood: Super Detective,/* External links */
+2017-05-30T22:22:29+00:00,783063843,783059713,0,Geraldo Perez,Sabrina: The Animated Series,Reverted edits by [[Special:Contribs/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]]) to last version by 84.76.135.234
+2017-05-11T13:24:58+00:00,779861555,779240351,0,173.243.202.2,Scaredy Squirrel (TV series),
+2017-05-19T14:38:33+00:00,781169098,779861555,0,2602:304:78E0:470:EDE5:4674:FBB6:EB52,Scaredy Squirrel (TV series),
+2017-05-07T20:34:01+00:00,779240351,778989685,0,172.58.25.13,Scaredy Squirrel (TV series),
+2017-06-02T01:38:50+00:00,783401026,783375107,0,SummerPhDv2.0,Scaredy Squirrel (TV series),Reverted 1 edit by [[Special:Contributions/Blighclair|Blighclair]] ([[User talk:Blighclair|talk]]) to last revision by 2602:304:78E0:470:EDE5:4674:FBB6:EB52. ([[WP:TW|TW]])
+2017-05-26T03:49:57+00:00,782317272,782281653,0,Hochung4,Sidekick (TV series),
+2017-04-22T20:36:10+00:00,776714290,776690933,0,FilmandTVFan28,Sidekick (TV series),Reverted to revision 776290964 by [[Special:Contributions/FilmandTVFan28|FilmandTVFan28]] ([[User talk:FilmandTVFan28|talk]]): Removed false information. ([[WP:TW|TW]])
+2017-07-31T07:35:53+00:00,793197550,793197478,0,27.140.53.212,Sony Pictures Kids Zone,
+2017-09-02T16:41:22+00:00,798562198,798562038,0,Geraldo Perez,Spider-Man (2017 TV series),Don't put TBA as a summary
+2017-07-04T23:33:50+00:00,789037097,788897521,0,2601:89:4300:79F2:30C2:BF16:D044:F39D,Sprout (TV network),/* History */
+2017-06-10T02:46:09+00:00,784795271,784795179,0,192.180.118.153,Sprout (TV network),
+2017-07-25T00:02:34+00:00,792183254,792183130,0,Hewy Toonmore,Spider-Man (2017 TV series),/* Shorts (2017) */
+2017-06-27T21:34:26+00:00,787840377,787814406,0,King Shadeed,Sony Pictures Kids Zone,"Sony Music Entertainment did not exist until 1991, not 1990."
+2017-07-27T14:52:56+00:00,792609587,792604782,0,176.210.163.177,Spider-Man (2017 TV series),/* Cast */
+2017-08-26T23:26:12+00:00,797420578,797420097,0,2600:1013:B01B:5005:0:46:A235:8201,Spider-Man (2017 TV series),/* Cast */
+2017-05-17T23:34:08+00:00,780920427,780755604,0,2602:304:78E0:470:180C:CF6D:C7A:E17D,Sprout (TV network),
+2017-08-28T14:41:02+00:00,797668565,797668387,0,ViperSnake151,Sprout (TV network),/* Universal Kids */ No.
+2017-05-04T20:54:03+00:00,778717491,777215371,0,Heididoerr061,Stanley (2001 TV series),/* Infobox television */
+2017-08-30T04:08:21+00:00,797952571,797952081,0,71.184.135.238,Stanley (2001 TV series),/* Characters */
+2017-07-29T02:52:00+00:00,792847013,792841550,0,Geraldo Perez,Sunny Day (TV series),Reverted edits by [[Special:Contribs/2606:A000:42CD:E300:D90A:A858:D926:263B|2606:A000:42CD:E300:D90A:A858:D926:263B]] ([[User talk:2606:A000:42CD:E300:D90A:A858:D926:263B|talk]]) to last version by Geraldo Perez
+2017-07-13T00:53:14+00:00,790326799,790326747,0,Keylonrocks7356,Sunny Day (TV series),
+2017-08-26T13:12:49+00:00,797345222,797017253,0,Keylonrocks7356,Sunny Day (TV series),/* Characters */
+2017-04-28T18:50:48+00:00,777698843,777698518,0,EvergreenFir,Supernoobs,Reverted 1 edit by [[Special:Contributions/72.141.225.122|72.141.225.122]] ([[User talk:72.141.225.122|talk]]) to last revision by Orenburg1. ([[WP:TW|TW]])
+2017-06-13T16:46:22+00:00,785456193,785438833,0,Keylonrocks7356,Sunny Day (TV series),/* Episodes */
+2017-05-18T15:32:13+00:00,781014855,780774870,0,69.207.192.225,Supernoobs,/* Season 1 (2015–17) */
+2017-04-02T23:34:57+00:00,773526063,767565078,0,73.6.118.26,Talk:Spider-Man (2017 TV series),
+2017-06-30T17:21:37+00:00,788298507,788296581,0,Amaury,Template:Disney XD original series,Reverted edits by [[Special:Contribs/2602:306:36F5:92B0:A02B:7770:D353:E131|2602:306:36F5:92B0:A02B:7770:D353:E131]] ([[User talk:2602:306:36F5:92B0:A02B:7770:D353:E131|talk]]) to last version by 177.30.121.87
+2017-07-01T13:42:35+00:00,788453692,788298507,0,201.240.21.57,Template:Disney XD original series,
+2017-08-19T15:38:18+00:00,796255175,773526063,0,Anythingspossibleforapossible,Talk:Spider-Man (2017 TV series),/* Name of first short */ new section
+2017-08-08T00:33:00+00:00,794432607,794424846,0,Geraldo Perez,Template:Eons graphical timeline,Reverted edits by [[Special:Contribs/24.22.21.188|24.22.21.188]] ([[User talk:24.22.21.188|talk]]) to last version by Geraldo Perez
+2017-01-22T15:56:44+00:00,761365427,761365063,0,141.241.26.7,Template:Eons graphical timeline,scale change
+2017-05-25T02:52:14+00:00,782130413,782117826,0,Drbogdan,Template:Eons graphical timeline,Reverted 1 edit by [[Special:Contributions/2602:304:5E48:4AB0:806D:A075:4674:BE51|2602:304:5E48:4AB0:806D:A075:4674:BE51]] ([[User talk:2602:304:5E48:4AB0:806D:A075:4674:BE51|talk]]) to last revision by CLCStudent. ([[WP:TW|TW]])
+2017-06-07T07:45:21+00:00,784246287,784236493,0,Dudley Miles,Template:Geological history of Earth,Undid revision 784236493 by [[Special:Contributions/Upendgully|Upendgully]] ([[User talk:Upendgully|talk]])Reverted invented periods
+2017-06-18T13:55:26+00:00,786289339,786288410,0,Geraldo Perez,Template:Eons graphical timeline,Reverted 2 edits by [[Special:Contributions/Upendgully|Upendgully]] ([[User talk:Upendgully|talk]]): Rvv. ([[WP:TW|TW]])
+2017-05-13T15:40:48+00:00,780193358,778474439,0,2602:30A:2ED1:5E30:6D12:81AA:E805:F99D,Template:Geological history of Earth,"The Anthropocene has not been accepted by the major scientific organizations as a valid epoch, and even as proposed there is no consensus on its timescale."
+2017-05-03T10:31:32+00:00,778474439,778402623,0,Red Planet X (Hercolubus),Template:Geological history of Earth,"Undid revision 778402623 by [[Special:Contributions/Mrjulesd|Mrjulesd]] ([[User talk:Mrjulesd|talk]]): Division of Hadean aren't supported by source, see Talk"
+2017-07-20T21:33:10+00:00,791531836,784246287,0,WOSlinker,Template:Geological history of Earth,navbox|subgroup
+2017-04-08T01:43:31+00:00,774380026,772890232,0,2601:1C1:8900:6E30:348C:84DB:1719:4629,Template:Nick Jr.,
+2017-09-01T22:30:22+00:00,798433622,798422490,0,73.180.12.234,Template:Nick Jr.,
+2017-07-27T01:46:13+00:00,792527669,792436089,0,SummerPhDv2.0,Template:Nick Jr.,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2601:646:8500:EF2:F895:8AC9:3D3E:51D2|2601:646:8500:EF2:F895:8AC9:3D3E:51D2]] ([[User talk:2601:646:8500:EF2:F895:8AC9:3D3E:51D2|talk]]): [[WP:KIDSTVDATES]]. ([[WP:TW|TW]])
+2017-06-02T00:09:59+00:00,783390696,783390537,0,Ethan2226,Template:PBS Kids shows,
+2017-07-13T21:22:57+00:00,790455542,778230942,0,Mrjulesd,Template:Time scale,Undid revision 778230942 by [[Special:Contributions/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]]) rvv
+2017-03-11T13:40:49+00:00,769758604,769754990,0,Keith D,Template:Playhouse Disney,Reverted edits by [[Special:Contribs/2600:1017:B029:9DA7:959:5C70:7EEE:F27D|2600:1017:B029:9DA7:959:5C70:7EEE:F27D]] ([[User talk:2600:1017:B029:9DA7:959:5C70:7EEE:F27D|talk]]) to last version by 2602:301:77B4:EBD0:659A:B64C:9039:93F0
+2015-04-29T22:41:49+00:00,659954015,597041547,0,WOSlinker,Template:Phanerozoic eon,tidy style for better HTML5 compatibility
+2017-07-05T00:21:59+00:00,789041909,789032394,0,Mrceleb2007,Template:US state and territory lists,
+2017-05-02T18:44:23+00:00,778372094,775641122,0,94.252.0.219,Template:US state and territory lists,
+2017-08-24T21:05:38+00:00,797080765,796500684,0,Geraldo Perez,"Template:Works by Dan Povenmire and Jeff ""Swampy"" Marsh",Reverted edits by [[Special:Contribs/Dijonsega|Dijonsega]] ([[User talk:Dijonsega|talk]]) to last version by Woodensuperman
+2017-07-01T19:02:48+00:00,788493827,788301920,0,MarioFan123,The Amazing World of Gumball,Undid revision 788301920 by [[Special:Contributions/96.242.5.180|96.242.5.180]] ([[User talk:96.242.5.180|talk]])
+2017-06-22T18:36:23+00:00,786981201,786981127,0,MarioFan123,The Amazing World of Gumball,
+2017-07-18T05:26:02+00:00,791107677,791072456,0,GünniX,The Day My Butt Went Psycho!,"unbalanced brackets, duplicate references using [[Project:AWB|AWB]]"
+2017-08-10T19:03:35+00:00,794903745,793824150,0,Mr. Daniel Zapata,The Day My Butt Went Psycho!,
+2017-04-23T14:16:48+00:00,776823838,771005459,0,Nem18,The Day My Butt Went Psycho!,
+2017-04-30T07:14:17+00:00,777945417,777924932,0,EvergreenFir,The Fairly OddParents,Reverted 1 edit by [[Special:Contributions/2001:48F8:3037:129D:58E0:19BB:7BD2:8F78|2001:48F8:3037:129D:58E0:19BB:7BD2:8F78]] ([[User talk:2001:48F8:3037:129D:58E0:19BB:7BD2:8F78|talk]]) to last revision by 2602:306:BD89:82A0:7DDA:453B:3F98:7C42. ([[WP:...
+2017-06-17T12:45:20+00:00,786127737,786122851,0,TheFarix,The Fairly OddParents,Reverted 1 edit by [[Special:Contributions/Eddobyte1|Eddobyte1]] ([[User talk:Eddobyte1|talk]]). ([[WP:TW|TW]])
+2017-05-28T19:59:27+00:00,782724172,782274013,0,74.90.128.121,The Fairly OddParents,
+2017-08-07T00:55:54+00:00,794278462,794230012,0,MarioFan123,The Fairly OddParents,Undid revision 794195162 by [[Special:Contributions/190.236.81.176|190.236.81.176]] ([[User talk:190.236.81.176|talk]])
+2017-08-02T01:21:27+00:00,793483768,784393273,0,208.107.110.23,The Oblongs,
+2017-06-08T02:23:41+00:00,784393273,783849754,0,172.58.16.100,The Oblongs,/* External links */
+2017-04-28T23:56:47+00:00,777742386,777607601,0,AvalerionV,The Magic School Bus (TV series),v1.42b - [[WP:WCW]] project (Link equal to linktext)
+2017-08-25T03:39:34+00:00,797129631,796909792,0,75.117.199.40,The Magic School Bus (TV series),
+2017-05-14T17:25:39+00:00,780372883,780369368,0,CrypticalFiery,The Ollie & Moon Show,Cottonwood Media and the people working on it are French.
+2017-07-01T10:39:10+00:00,788433368,788359567,0,Serendipodous,Timeline of the far future,Undid revision 788359567 by [[Special:Contributions/2601:243:801:898B:B15A:AC74:2FD4:D360|2601:243:801:898B:B15A:AC74:2FD4:D360]] ([[User talk:2601:243:801:898B:B15A:AC74:2FD4:D360|talk]]) future perfect
+2017-07-30T21:22:46+00:00,793133886,793133819,0,106.181.76.146,Timeline of the far future,/* Future of humanity */
+2017-07-12T15:07:44+00:00,790251741,788433368,0,Bender the Bot,Timeline of the far future,"/* References */HTTP&rarr;HTTPS for [[List of NASA websites|NASA websites]], per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]"
+2017-08-18T01:53:37+00:00,796033878,795465392,0,2601:5C7:4101:294D:0:0:0:B7D1,Timeline of the far future,
+2017-05-17T08:50:04+00:00,780805773,780805508,0,Banedon,Timeline of the far future,"/* Future of the Earth, the Solar System and the Universe */ Minor style fix"
+2017-05-24T07:11:34+00:00,781970508,781963295,0,Serendipodous,Timeline of the far future,"/* Future of the Earth, the Solar System and the Universe */"
+2017-05-05T05:55:04+00:00,778781433,778139959,0,Johnuniq,Timeline of the far future,general date templates don't handle past AD 9999
+2017-08-25T13:00:32+00:00,797185356,796555517,0,2602:306:CFD4:68B0:4C48:1C7E:506D:5410,Timeline of the far future,"/* Future of the Earth, the Solar System and the Universe */Fixed grammar (word choice)"
+2017-04-24T13:09:18+00:00,776968523,776968418,0,Dao1,Timeline of the far future,This should not be present.
+2017-07-20T02:36:42+00:00,791409293,791365755,0,Confrico,Timeline of the far future,"/* Future of the Earth, the Solar System and the Universe */"
+2017-06-03T16:47:22+00:00,783632945,783618837,0,AussieLegend,ToonMarty,/* Characters */ [[MOS:BOLD]]
+2017-07-05T22:47:31+00:00,789192729,789159405,0,172.58.17.108,Top Wing,/* References */
+2017-05-21T20:01:24+00:00,781533186,781334558,0,SimpsonsFan2000,ToonMarty,/* Episodes */
+2017-06-08T10:21:36+00:00,784442882,783063848,0,203.111.197.204,Tutenstein,/* External links */
+2017-07-14T21:03:13+00:00,790604376,790222249,0,64.237.228.228,Tracey McBean,
+2017-07-12T21:41:10+00:00,790305763,790151372,0,172.56.41.131,Tutenstein,/* External links */
+2017-09-04T06:31:36+00:00,798858401,798849638,0,Serendipodous,Timeline of the far future,Reverted edits by [[Special:Contribs/Dijonsega|Dijonsega]] ([[User talk:Dijonsega|talk]]) to last version by Serendipodous
+2017-06-02T17:01:38+00:00,783489198,777079308,0,Ponyo,User:Giddyonyx,tag
+2017-07-13T11:48:50+00:00,790383784,790206681,0,MarioJump83,User:Upendgully,tag
+2017-05-20T17:20:39+00:00,781344305,776831652,0,79.67.89.248,Wacky Races (2017 TV series),
+2017-07-01T23:06:34+00:00,788527543,788527303,0,186.177.126.158,Wacky Races (2017 TV series),
+2017-04-30T21:25:23+00:00,778052177,777931705,0,InternetArchiveBot,Walt Disney Animation Studios,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.3beta8) ([[User:Elisfkc|Elisfkc]])
+2017-05-15T03:21:50+00:00,780439963,778919858,0,InternetArchiveBot,Walt Disney Animation Studios,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.3.1.1) ([[User:Elisfkc|Elisfkc]])
+2017-07-14T15:30:03+00:00,790563039,788710635,0,2A00:23C4:3989:4500:21F:5BFF:FEC8:6208,Walt Disney Animation Studios,"/* 1989–94: Beginning of the Disney Renaissance, successful releases, impact on the animation industry */"
+2017-05-30T22:21:43+00:00,783063722,783062231,0,Geraldo Perez,Zombie Hotel,Reverted edits by [[Special:Contribs/Giddyonyx|Giddyonyx]] ([[User talk:Giddyonyx|talk]]) to last version by MistressData
+2017-06-14T22:18:35+00:00,785695226,785693054,0,Trivialist,Yin Yang Yo!,Undid revision 785693054 by [[Special:Contributions/Upendgully|Upendgully]] ([[User talk:Upendgully|talk]])
+2017-05-06T04:29:45+00:00,778950760,778949278,0,Sakura Cartelet,Yin Yang Yo!,Undid revision 778949278 by [[Special:Contributions/2601:246:C203:3D44:14B8:46B4:9509:8526|2601:246:C203:3D44:14B8:46B4:9509:8526]] ([[User talk:2601:246:C203:3D44:14B8:46B4:9509:8526|talk]]) Needs a citation
+2017-06-09T18:46:38+00:00,784719747,784686983,0,EvergreenFir,Wayside (TV series),Reverted edits by [[Special:Contribs/24.120.53.74|24.120.53.74]] ([[User talk:24.120.53.74|talk]]) to last version by Gestrid
+2017-08-17T23:01:28+00:00,796015016,796012239,0,FilmandTVFan28,Wayside (TV series),Reverted 1 edit by [[Special:Contributions/75.143.121.185|75.143.121.185]] ([[User talk:75.143.121.185|talk]]) to last revision by Mojo72400. ([[WP:TW|TW]])
+2015-05-22T19:56:37+00:00,663584672,663217893,0,172.56.30.248,Aaron Springer,Fixed misinformation about birth location
+2016-08-14T06:38:46+00:00,734421069,733971282,0,I dream of horses,Anatole (TV series),"/* Characters */clean up, [[WP:AWB/T|typo(s) fixed]]: Moliere → Molière using [[Project:AWB|AWB]]"
+2016-04-09T16:46:11+00:00,714415342,714333331,0,CommonsDelinker,Aaron Springer,"Removing ""AaronSpringer.png"", it has been deleted from Commons by [[commons:User:Jcb|Jcb]] because: [[:c:COM:L|Copyright violation]]: external source, no license, no permission.."
+2016-03-21T08:16:59+00:00,711171498,710078842,0,EtherealGate,All Grown Up!,/* Production */
+2016-03-22T03:36:06+00:00,711312196,709378046,0,2602:306:36D5:A5A0:99A:F0CE:5452:FABF,Almost Naked Animals,/* External links */
+2017-01-03T05:38:37+00:00,758053500,750263495,0,SquarePants122,Almost Naked Animals,Nothing to see also.
+2015-09-02T04:00:56+00:00,679043726,676304245,0,99.247.167.18,Aaron Springer,
+2015-12-23T22:12:33+00:00,696545777,696540066,0,Cyphoidbomb,Almost Naked Animals,Reverted 1 edit by [[Special:Contributions/83.55.166.3|83.55.166.3]] ([[User talk:83.55.166.3|talk]]): Rvv. ([[WP:TW|TW]])
+2016-04-20T19:49:16+00:00,716266969,716132244,0,Caio Bessa,2010s,
+2016-11-30T03:36:16+00:00,752220580,752220550,0,209.53.180.124,Anatole (TV series),/* Episodes */
+2017-01-02T20:42:40+00:00,757980542,757961499,0,Britmax,2010s,Undid revision 757961499 by [[Special:Contributions/Feroang|Feroang]] ([[User talk:Feroang|talk]]) Reverted unsourced change
+2016-08-03T16:22:50+00:00,732843284,732745583,0,Iridescent,2000s,"/* Architecture */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: high profile → high-profile using [[Project:AWB|AWB]]"
+2017-05-21T21:08:18+00:00,781542104,781394113,0,Arthur Rubin,2010s,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2001:630:E4:4220:9DBD:226E:17A3:5366|2001:630:E4:4220:9DBD:226E:17A3:5366]] ([[User talk:2001:630:E4:4220:9DBD:226E:17A3:5366|talk]]): Revert damage. ([[WP:TW|TW]])
+2017-08-18T20:42:02+00:00,796149656,796149491,0,67.44.193.152,Almost Naked Animals,/* Characters */
+2016-09-28T04:06:13+00:00,741539757,741076014,0,Wdurbin0010,2010s,/* Television */
+2016-04-30T01:58:35+00:00,717844410,716102038,0,2602:306:3593:9CE0:9C53:D117:C8E9:3F24,Aaron Springer,
+2016-04-29T08:56:13+00:00,717713533,717255767,0,79.186.38.232,2000s,/* Gallery of notable world leaders */
+2017-03-22T07:03:19+00:00,771563658,771546297,0,Arthur Rubin,2000s,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Jeh|Jeh]] ([[User talk:Jeh|talk]]): Agree that paragraphs were out of context, out of order, and add uninteresting.  Please add ONLY if in the correct section. ([[WP:TW|TW]])"
+2015-08-23T19:57:18+00:00,677514300,677509458,0,Btljs,2000s,Undid revision 677509458 by [[Special:Contributions/98.30.19.151|98.30.19.151]] ([[User talk:98.30.19.151|talk]])it describes a family origin not where the person was born or their nationality
+2016-11-16T22:19:01+00:00,749925955,749563897,0,98.194.84.97,Andrew Overtoom,/* External links */Link goes to a Croatian drama page. Fixed.
+2015-11-24T01:53:47+00:00,692139554,690449403,0,216.165.95.70,Archer (2009 TV series),/* Characters */
+2017-06-19T03:54:31+00:00,786384264,784306681,0,64.229.167.158,Atomic Puppet,"/* Villains */ Using antagonists over villains, more standard for character articles and the mayor not being evil makes antagonists more appropriate."
+2015-10-31T04:50:31+00:00,688328614,688179784,0,27.32.75.45,Archer (2009 TV series),
+2016-04-27T11:32:49+00:00,717388999,717352476,0,LocalNet,Archer (2009 TV series),Changes to description of the fourth season.
+2015-05-16T22:13:21+00:00,662664032,662487025,0,71.175.3.77,Archer (2009 TV series),/* Sealab 2021 and Frisky Dingo */Fixed typo
+2016-05-05T21:17:20+00:00,718826757,718810102,0,Mkrgolf,Betsy's Kindergarten Adventures,
+2015-10-05T02:19:20+00:00,684179900,675677592,0,23W,Betsy's Kindergarten Adventures,-[[Category:American animated television series]]; +[[Category:2000s American animated television series]] using [[WP:HC|HotCat]]
+2017-06-09T12:06:23+00:00,784651394,773942434,0,Maturity5476,Big City Greens,
+2016-09-08T20:00:42+00:00,738410274,0,0,SpaceGoofsGeekerBoy,Big City Greens,[[WP:AES|←]]Redirected page to [[List of programs broadcast by Disney XD#Future programming]]
+2016-11-22T22:41:17+00:00,751027039,750642658,0,Topbanana,Big Hero 6: The Series,Link repair:  Brooks Whelan -> Brooks Wheelan  - [[w:en:WP:RLR|You can help!]]
+2017-06-18T22:30:17+00:00,786351209,785638381,0,72.132.30.75,Big Hero 6: The Series,/* External links */
+2017-03-29T20:55:55+00:00,772871087,770311186,0,2605:A601:7013:400:D1BE:3368:1EB9:30C9,Big Hero 6: The Series,rmv distributor unsourced anyway
+2017-03-14T17:45:22+00:00,770311186,768159655,0,71.29.68.67,Big Hero 6: The Series,
+2017-08-01T03:51:38+00:00,793337575,793335045,0,68.134.126.38,Big City Greens,
+2017-01-08T19:34:29+00:00,759006705,759001761,0,Carniolus,Big Hero 6: The Series,Correcting official title; Merging refs
+2017-07-28T11:08:03+00:00,792741725,792740968,0,60.48.251.169,Billy Dilley's Super-Duper Subterranean Summer,
+2016-06-10T02:38:46+00:00,724565767,724544454,0,SpaceGoofsGeekerBoy,Billy Dilley's Super-Duper Subterranean Summer,
+2017-06-28T17:30:36+00:00,787967409,787735118,0,172.56.41.169,Billy Dilley's Super-Duper Subterranean Summer,/* External links */
+2016-09-08T13:51:44+00:00,738359717,737789773,0,SpaceGoofsGeekerBoy,Billy Dilley's Super-Duper Subterranean Summer,
+2016-04-22T21:25:09+00:00,716633456,716629031,0,Fyrael,Bob's Burgers,Undid revision 716629031 by [[Special:Contributions/NeoBatfreak|NeoBatfreak]] ([[User talk:NeoBatfreak|talk]]) the state is contested
+2017-06-10T18:04:54+00:00,784923163,784445565,0,69.118.58.197,Bob's Burgers,
+2017-02-25T15:01:54+00:00,767377092,767279488,0,Edward321,Boyster,trimmed unsupported category
+2015-08-24T18:13:04+00:00,677655551,677655064,0,Davejohnsan,Bob's Burgers,Undid revision 677655064 by [[Special:Contributions/66.192.104.13|66.192.104.13]] ([[User talk:66.192.104.13|talk]]) 54/100 indicates mixed reviews.
+2015-09-30T15:00:36+00:00,683476050,683475908,0,71.200.164.185,Boyster,
+2017-01-22T00:37:18+00:00,761268270,759232342,0,142.177.26.3,Bob's Burgers,
+2015-06-14T09:20:45+00:00,666880074,666164715,0,Hydrocorti87,Boyster,
+2015-03-18T11:04:30+00:00,651911748,651157964,0,49.183.69.10,CJ the DJ,/* Episodes */
+2016-04-12T20:48:07+00:00,714955189,708710828,0,Mkrgolf,CJ the DJ,/* Multimedia */
+2015-08-05T08:16:39+00:00,674650017,673309585,0,John of Reading,Camp Lakebottom,"/* Season 2 (2015) */Typo fixing, replaced: get's → gets using [[Project:AWB|AWB]]"
+2016-01-18T21:01:36+00:00,700493539,687191927,0,2001:8003:622B:A100:3076:5B45:16DA:1CE2,CJ the DJ,/* Characters */
+2015-10-16T15:24:47+00:00,686033478,686031633,0,190.100.92.210,Camp Lakebottom,/* Season 2 (2015) */
+2016-04-06T07:32:57+00:00,713866122,713866096,0,118.71.225.227,Camp Lakebottom,/* Plot */
+2015-11-17T07:45:45+00:00,691041282,687434217,0,70.78.51.71,Camp Lakebottom,removing info that has no proof of being real
+2017-01-08T04:03:39+00:00,758896470,758892868,0,174.21.111.88,Camp Lakebottom,
+2016-08-25T20:28:34+00:00,736191944,736101765,0,152.172.227.165,Camp Lakebottom,/* Season 2 (2015–16) */
+2015-05-22T09:10:23+00:00,663516982,663467240,0,Luigi1090,Cartoon Network Studios,
+2016-07-21T00:14:30+00:00,730766412,730343376,0,201.52.231.151,Cartoon Network Studios,/* Former/current series */
+2015-08-17T22:18:22+00:00,676581240,676574739,0,Luigi1090,Cartoon Network Studios,Undid revision 676574739 by [[Special:Contributions/2605:A000:B983:B600:2D9D:D90D:5A24:F4A0|2605:A000:B983:B600:2D9D:D90D:5A24:F4A0]] ([[User talk:2605:A000:B983:B600:2D9D:D90D:5A24:F4A0|talk]]) Really serious vandalism act in the page.
+2016-06-06T22:07:18+00:00,724060529,724054802,0,Luigi1090,Cartoon Network Studios,Undid revision 724054802 by [[Special:Contributions/SpaceGoofsGeekerBoy|SpaceGoofsGeekerBoy]] ([[User talk:SpaceGoofsGeekerBoy|talk]])
+2015-07-19T21:36:07+00:00,672182349,672012274,0,Comrade Graham,Cartoon Network Studios,/* External links */ {{Animation industry in the United States}}
+2015-08-09T19:26:56+00:00,675308082,675259874,0,Luigi1090,Cartoon Network Studios,"Undid revision 675259874 by [[Special:Contributions/73.200.1.25|73.200.1.25]] ([[User talk:73.200.1.25|talk]]) The ""independent shorts"" are really different from the pilots."
+2017-05-24T12:40:57+00:00,782008662,782001110,0,Luigi1090,Cartoon Network Studios,Undid revision 782001110 by [[Special:Contributions/2.32.174.148|2.32.174.148]] ([[User talk:2.32.174.148|talk]])
+2016-10-27T21:14:32+00:00,746510158,746510131,0,2601:2C0:4202:4965:F140:78FD:63C1:E366,ChalkZone,/* Premise */
+2016-10-24T10:04:38+00:00,745947848,745943209,0,Luigi1090,Cartoon Network Studios,
+2015-07-01T20:02:33+00:00,669527778,666261275,0,2602:302:D17D:DF90:95A9:DB11:2F69:A059,ChalkZone,/* Broadcast */
+2016-06-25T14:53:31+00:00,726949964,726914420,0,46.7.235.180,Charlie and Lola (TV series),Charlie and lola
+2016-04-15T18:36:27+00:00,715426905,713409149,0,2001:1388:107:E462:5D92:99B5:CDC3:8263,Charlie and Lola (TV series),
+2016-12-30T04:37:19+00:00,757349532,756389648,0,NASAPeepo,Clone High,/* Broadcast */
+2016-08-13T04:14:33+00:00,734263356,733928663,0,2602:301:77C5:C740:D53A:F13C:9A18:E8D5,Clone High,
+2016-06-11T22:55:22+00:00,724850685,724850348,0,71.7.164.254,Clone High,/* Retrospective reviews */
+2016-07-29T23:47:22+00:00,732148812,731825445,0,191.119.105.161,Dora and Friends: Into the City!,
+2015-10-31T20:55:22+00:00,688424937,688389160,0,Cyphoidbomb,Dora and Friends: Into the City!,UBL cleanup
+2017-06-13T00:12:45+00:00,785341175,785340784,0,Jumpytoo,Dora and Friends: Into the City!,fix ref
+2017-05-23T19:17:16+00:00,781877725,781741189,0,ShakespeareFan00,Dora and Friends: Into the City!,v1.42b - [[WP:WCW]] project (Link equal to linktext)
+2015-11-30T22:28:33+00:00,693179194,692880085,0,Alex Neman,Dora and Friends: Into the City!,/* Broadcast */ global
+2016-02-10T19:25:36+00:00,704296855,703927771,0,Mkrgolf,Dora the Explorer (TV series),/* Voices */
+2017-06-23T18:18:32+00:00,787144805,787144717,0,DVdm,Dora and Friends: Into the City!,Reverted edits by [[Special:Contributions/Upendgully|Upendgully]] ([[User talk:Upendgully|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.1.22)
+2015-08-21T16:00:56+00:00,677169659,676567827,0,Cyphoidbomb,Dora the Explorer (TV series),clean up using [[Project:AWB|AWB]]
+2017-07-19T12:50:20+00:00,791313754,790046955,0,Barbiegirl303,Dora the Explorer (TV series),
+2016-02-28T22:21:41+00:00,707442294,706061967,0,TAnthony,Dora the Explorer (TV series),"Update deprecated infobox image syntax, overlinking, and other cleanup using [[Project:AWB|AWB]]"
+2015-12-03T20:11:23+00:00,693626336,691115851,0,Issakenta,Dora the Explorer (TV series),/* Plot */ Hispanic American is a little vague. Applied a more precised term.
+2016-10-21T00:43:52+00:00,745417746,739900449,0,StephenCezar15,Dora the Explorer (TV series),
+2016-06-01T05:31:51+00:00,723129072,723079538,0,Yobot,Dora the Explorer (TV series),[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12016)
+2015-04-12T06:27:00+00:00,656081007,654913463,0,YouDontKnowSponge,Dora the Explorer (TV series),
+2017-02-09T17:35:32+00:00,764566085,764565404,0,177.40.254.41,Earth to Luna!,/* Voice Actors */
+2015-12-12T22:55:40+00:00,694980041,693831830,0,Giso6150,Earth to Luna!,Stub-sorting. [[Wikipedia:WikiProject Stub sorting|You can help!]]
+2015-10-21T23:35:56+00:00,686886381,686657137,0,Paper Luigi,"Ed, Edd n Eddy",Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Dokuten|Dokuten]] ([[User talk:Dokuten|talk]]). ([[WP:TW|TW]])
+2015-08-10T22:38:41+00:00,675491136,673097064,0,SpaceGoofsGeekerBoy,"Ed, Edd n Eddy",/* External links */
+2015-05-20T07:56:11+00:00,663226941,663015170,0,John of Reading,"Ed, Edd n Eddy","Typo/[[WP:AWB/GF|general]] fixing, replaced: the the → the using [[Project:AWB|AWB]]"
+2017-02-09T00:21:36+00:00,764451373,763516729,0,Satsujin Gimmick,"Ed, Edd n Eddy",/* Critical reception */
+2016-11-22T11:19:00+00:00,750941722,744434017,0,Nickag989,"Ed, Edd n Eddy","There are 131 episodes (and yes, I did the count several times)"
+2015-09-05T04:55:47+00:00,679535737,679500590,0,BG19bot,"Ed, Edd n Eddy",/* Specials */[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11428)
+2015-11-27T21:31:07+00:00,692724586,692724084,0,SNUGGUMS,"Ed, Edd n Eddy",reword
+2015-03-10T22:34:01+00:00,650823745,650220943,0,85.102.202.36,Edgar & Ellen,/* TV series */
+2015-08-12T00:25:40+00:00,675676522,672661354,0,45.46.109.55,Edgar & Ellen,"Corrected grammar, and changed the vandalism of 'pepe' by removing the meme and substituting the correct word 'DVD' in the Target section."
+2015-10-16T13:12:59+00:00,686017938,686013992,0,Carniolus,El Tigre: The Adventures of Manny Rivera,Reverted 1 edit by [[Special:Contributions/Doomsday Chip|Doomsday Chip]] ([[User talk:Doomsday Chip|talk]]): Vandalism. ([[WP:TW|TW]])
+2015-10-25T04:13:39+00:00,687371198,686084462,0,68.2.191.166,Edgar & Ellen,/* Del Taco */
+2016-02-07T21:34:59+00:00,703821471,703821196,0,NinjaRobotPirate,El Tigre: The Adventures of Manny Rivera,Reverted to revision 703710714 by [[Special:Contributions/108.235.244.154|108.235.244.154]] ([[User talk:108.235.244.154|talk]]): It's redundant to say a 13-year-old is a teen. ([[WP:TW|TW]])
+2015-08-31T13:24:10+00:00,678760609,677329804,0,JoesphBarbaro,El Tigre: The Adventures of Manny Rivera,"/* Episodes */ Removed ""finale"" nonsense."
+2015-09-28T00:06:48+00:00,683075644,683047762,0,Cyphoidbomb,Ellen's Acres,"Reverted 1 edit by [[Special:Contributions/2601:589:C200:2E16:E0E9:4770:991:37CC|2601:589:C200:2E16:E0E9:4770:991:37CC]]: Unexplained. Parameter is for original broadcast networks, not for reruns/rebroadcasts. ([[WP:TW|TW]])"
+2016-01-24T15:36:44+00:00,701434979,701434676,0,Mkrgolf,Ellen's Acres,
+2016-09-01T05:22:09+00:00,737178455,737178038,0,Whats new?,Esquire Network,Add hatnote
+2016-04-24T23:07:23+00:00,716960879,716960753,0,Cyphoidbomb,Ellen's Acres,Unexplained and unsourced changes. Unclear what this means. It was released on video? Not enough context here or at CN article.
+2015-11-04T21:32:41+00:00,689087336,689085700,0,Digifan23,Esquire Network,Reverted 1 edit by [[Special:Contributions/205.154.44.81|205.154.44.81]] ([[User talk:205.154.44.81|talk]]) to last revision by Cyphoidbomb. ([[WP:TW|TW]])
+2016-01-21T02:40:58+00:00,700864225,700613602,0,Thekingofdallas,FXX,Empty
+2016-03-22T16:51:31+00:00,711394804,684165678,0,173.187.236.34,"FloopaLoo, Where Are You?",/* Plot */
+2015-10-05T00:24:38+00:00,684165678,675871817,0,71.29.123.164,"FloopaLoo, Where Are You?",Unsourced
+2016-01-27T19:58:54+00:00,701991885,700216446,0,Cyberbot II,Forest cover by state and territory in the United States,"Rescuing 1 sources, flagging 0 as dead, and archiving 1 sources. #IABot"
+2017-03-15T19:27:24+00:00,770493332,770493174,0,72.92.130.71,Forest cover by state and territory in the United States,
+2016-09-07T14:13:55+00:00,738197292,726326091,0,BD2412,Forest cover by state and territory in the United States,"/* top */Per consensus in discussion at [[Talk:New York#Proposed action to resolve incorrect incoming links]], replaced: [[New York]] → [[New York (state)|New York]] using [[Project:AWB|AWB]]"
+2015-12-22T10:33:24+00:00,696323378,696287587,0,Willondon,Franklin (TV series),"Undid revision 696287587 by [[Special:Contributions/174.93.78.180|174.93.78.180]] ([[User talk:174.93.78.180|talk]]); unsourced, unexplained change to first and last air dates"
+2015-08-12T00:56:29+00:00,675680016,675423601,0,Kkmurray,Franklin (TV series),Tagging 3 dead links using [[w:WP:CHECKLINKS|Checklinks]]
+2016-08-03T04:13:47+00:00,732771313,732108225,0,71.32.254.65,Franklin (TV series),/* External links */
+2016-10-03T18:45:28+00:00,742441190,737546068,0,199.254.158.4,Gander Mountain,
+2016-04-20T18:13:40+00:00,716247730,711312687,0,72.22.187.190,Franklin and Friends,/* Episodes */
+2015-07-07T05:18:43+00:00,670313469,670309565,0,Cyphoidbomb,Franklin and Friends,Reverted 1 edit by [[Special:Contributions/142.134.70.58|142.134.70.58]] ([[User talk:142.134.70.58|talk]]): Dubious changes. ([[WP:TW|TW]])
+2017-01-25T02:58:56+00:00,761840911,761838943,0,AnomieBOT,Gander Mountain,Dating maintenance tags: {{Advert}}
+2015-04-27T20:56:24+00:00,659559037,648210116,0,HuntBum13,Gander Mountain,/* See also */
+2015-09-15T22:55:21+00:00,681223461,680423333,0,173.33.178.87,Get Ace,cleanup
+2016-07-04T20:43:29+00:00,728352723,727942674,0,Bgwhite,Get Ace,[[WP:CHECKWIKI]] error fix #109. Stray include tag. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]]
+2016-01-07T02:24:33+00:00,698594594,681223461,0,Dl2000,Get Ace,en-AU
+2015-07-23T23:17:51+00:00,672799341,671418595,0,Humbug26,Get Ace,/* Season One */ all it's characters > all its characters
+2016-07-14T03:15:30+00:00,729723101,729718515,0,Isambard Kingdom,Graphical timeline from Big Bang to Heat Death,Undid revision 729718515 by [[Special:Contributions/45.125.156.92|45.125.156.92]] ([[User talk:45.125.156.92|talk]]) Persistent spam removed.
+2015-10-02T08:51:56+00:00,683756511,649841774,0,Youknowwhatimsayin,Graphical timeline from Big Bang to Heat Death,removed [[Category:Universe]]; added [[Category:Physical universe]] using [[WP:HC|HotCat]]
+2016-03-23T18:02:59+00:00,711570675,711570628,0,105.228.79.141,High School USA!,
+2015-09-06T03:37:29+00:00,679680956,677481626,0,Patapsco913,High School USA!,
+2015-12-28T21:19:24+00:00,697186344,697184945,0,Yamaguchi先生,Iggy Arbuckle,Reverted edits by [[Special:Contribs/2601:43:8100:2288:9831:57DE:7B7D:F997|2601:43:8100:2288:9831:57DE:7B7D:F997]] ([[User talk:2601:43:8100:2288:9831:57DE:7B7D:F997|talk]]) to last version by Materialscientist
+2016-09-28T14:55:35+00:00,741602972,741602933,0,2600:1:C426:C37E:6317:7DBF:49F5:A56F,John Derevlany,
+2015-04-27T14:48:18+00:00,659499771,596386558,0,KasparBot,John van Bruggen,authority control moved to wikidata
+2015-12-27T01:38:22+00:00,696936018,696935833,0,AKenneds,Johnny Test,
+2016-05-20T11:47:03+00:00,721216656,720738314,0,109.100.143.108,List of Regular Show episodes,
+2017-04-20T01:48:47+00:00,776283771,776098048,0,172.56.16.75,Johnny Test,/* External links */
+2016-07-04T19:29:24+00:00,728342609,727863378,0,Icebear244,List of Regular Show episodes,/* Series overview */
+2017-07-04T16:33:10+00:00,788981769,788981715,0,74.101.97.120,List of Regular Show episodes,/* Season 7(2015–16) */
+2016-04-03T00:50:22+00:00,713269479,713269433,0,2601:8D:8901:A10E:E438:DCC0:BA07:E33F,List of Regular Show episodes,
+2016-01-09T06:13:17+00:00,698942158,698929825,0,BG19bot,List of Regular Show episodes,[[WP:CHECKWIKI]] error fix for #03.  Missing Reflist.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11756)
+2015-10-03T11:19:32+00:00,683919518,683788351,0,24.159.104.183,List of Regular Show episodes,/* Series overview */
+2015-09-17T23:25:42+00:00,681557505,681557457,0,Donner60,List of Regular Show episodes,Reverted edits by [[Special:Contributions/74.110.208.118|74.110.208.118]] ([[User talk:74.110.208.118|talk]]) ([[WP:HG|HG]]) (3.1.15)
+2016-02-06T06:07:34+00:00,703557527,703557440,0,71.9.167.208,List of Regular Show episodes,/* Season 7 (2015–) */
+2016-09-06T06:05:30+00:00,737982173,734174648,0,Station1,List of U.S. states and territories by population,per talk page request
+2016-11-17T05:55:41+00:00,749986714,749350185,0,Master of Time,List of U.S. states and territories by population,/* Electoral apportionment */ Caps / better pipe
+2015-04-04T19:13:09+00:00,654948229,654948020,0,Illegitimate Barrister,List of U.S. states and territories by population,/* Summary of population by region */ ameng prefers and over ampersands
+2016-07-06T07:17:29+00:00,728579244,725033925,0,GraemeLeggett,List of U.S. states and territories by population,/* Summary of population by region */ remove double bold effect
+2016-04-14T03:31:30+00:00,715167788,715157997,0,Loginnigol,List of U.S. states and territories by population,Undid revision 715157997 for sake of consistency (better to have something than leave blank
+2016-06-13T04:22:31+00:00,725033925,715167788,0,HinataSoul,List of U.S. states and territories by population,"Removed ""comparable"" column, which was clearly ambiguous, indeterminate, and not clearly linked to any significant stat in any state."
+2015-08-04T06:36:08+00:00,674481366,673370097,0,Khalid Nezami,List of U.S. states and territories by population,
+2015-11-08T19:14:45+00:00,689676128,687717404,0,Pydgical,List of U.S. states and territories by population,/* States and territories */ More accurate country comparisons
+2016-12-22T22:10:05+00:00,756237523,756069701,0,G00nsf,List of U.S. states and territories by population,/* States and territories */ Fixed 2016 ranking for Colorado and Minnesota
+2015-12-30T03:44:16+00:00,697375970,697374927,0,KSPoliticsGuy,List of U.S. states and territories by population,Matched Column titles for like terms: Congressional and House Seats
+2016-11-10T00:15:56+00:00,748725903,746166502,0,YBG,List of U.S. states and territories by population,"/* States and territories */ There's room in the body, no need for a footnote"
+2017-06-23T04:12:27+00:00,787052693,786965426,0,148.74.248.87,List of U.S. states and territories by population,
+2017-03-03T06:43:45+00:00,768343721,768339400,0,YBG,List of U.S. states and territories by population,Reverted 1 edit by [[Special:Contributions/Nicetints|Nicetints]] ([[User talk:Nicetints|talk]]): 7 million to 43 million? Not likely! ([[WP:TW|TW]])
+2016-10-02T14:53:18+00:00,742241120,742157052,0,Tolea93,List of U.S. states and territories by population,/* States and territories */ teritories population as of 2015
+2016-10-25T17:36:52+00:00,746166502,746162366,0,Djdickmutt,List of U.S. states and territories by population,Undid revision 746162366 by [[Special:Contributions/Roamsshake|Roamsshake]] ([[User talk:Roamsshake|talk]]) state order was reversed
+2015-12-26T23:11:06+00:00,696919007,696519362,0,75.163.244.162,List of U.S. states and territories by population growth rate,Their spots should match their change.
+2015-07-14T17:46:53+00:00,671433214,670482030,0,2602:306:BC5A:60:A816:E87A:3385:DE9C,List of U.S. states and territories by population growth rate,
+2015-08-27T11:33:20+00:00,678101924,671433214,0,Bornsommer,List of U.S. states and territories by population growth rate,"/* Summary by state, division and region */ higher growth"
+2015-06-07T03:02:46+00:00,665836843,656306725,0,Redsparta,List of U.S. states and territories by population growth rate,"/* Summary by state, division and region */ updating ordering for percentage changes"
+2016-05-16T02:00:34+00:00,720467752,720467188,0,Mkrgolf,List of animated television series of 2000,
+2016-01-30T22:57:05+00:00,702496076,702496028,0,Oshwah,List of animated television series of 2000,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/88.3.123.204|88.3.123.204]] ([[User talk:88.3.123.204|talk]]): rv possible test edit, mistake? ([[WP:HG|HG]]) (3.1.18)"
+2015-05-20T15:37:47+00:00,663272469,659606653,0,Mkrgolf,List of animated television series of 2003,
+2016-03-26T23:29:28+00:00,712100171,711477981,0,146.115.24.143,List of animated television series of 2003,Chnged Code Lyoko's animation style to include both its traditional and CGI animations
+2016-01-04T14:09:33+00:00,698181383,698173306,0,Gial Ackbar,List of animated television series of 2003,Reverted edits by [[Special:Contribs/151.227.193.95|151.227.193.95]] ([[User talk:151.227.193.95|talk]]) to last version by Mkrgolf
+2017-07-25T11:01:07+00:00,792242534,785649215,0,64.237.231.228,List of animated television series of 2003,
+2017-02-20T22:20:41+00:00,766567148,766566276,0,172.58.19.179,List of animated television series of 2017,
+2016-09-21T02:22:11+00:00,740438053,740042958,0,Superchunk22,List of animated television series of 2017,/* TV shows */Added content
+2016-10-14T15:10:51+00:00,744333388,744317142,0,Superchunk22,List of animated television series of 2017,/* TV shows */Removed false information
+2016-08-02T00:09:21+00:00,732594315,732493820,0,Superchunk22,List of animated television series of 2017,/* TV Shows */
+2017-02-01T01:15:45+00:00,763043522,762830159,0,172.58.104.196,List of animated television series of 2017,
+2016-08-28T00:36:48+00:00,736509142,736501364,0,Superchunk22,List of animated television series of 2017,/* TV shows */
+2017-07-12T14:44:12+00:00,790248456,789622736,0,Mkrgolf,List of animated television series of 2017,
+2017-02-28T22:16:29+00:00,767951587,767626064,0,Arcadia Apaches,List of animated television series of 2017,
+2017-07-31T04:35:37+00:00,793181323,792750472,0,172.58.23.39,List of animated television series of 2017,
+2017-07-21T08:05:39+00:00,791595320,791592603,0,Yawnsbobs,List of animated television series of 2017,
+2017-06-04T18:52:00+00:00,783799530,783512485,0,172.58.16.230,List of animated television series of 2017,/* References */
+2015-06-28T18:01:59+00:00,669073424,669073216,0,Electricburst1996,List of programs broadcast by Cartoon Network,Reverted 1 edit by [[Special:Contributions/Garlap|Garlap]] ([[User talk:Garlap|talk]]): [[WP:BANREVERT]]. ([[WP:TW|TW]])
+2016-12-20T10:30:53+00:00,755815896,755780783,0,Luigi1090,List of programs broadcast by Cartoon Network,
+2015-07-07T22:11:28+00:00,670429972,670232571,0,TheTVGuy66,List of programs broadcast by Cartoon Network,/* Animated series */
+2015-11-13T15:46:11+00:00,690469292,689830989,0,71.168.170.104,List of programs broadcast by Cartoon Network (Canadian TV channel),/* Current programming */
+2016-11-27T01:43:58+00:00,751650961,751650889,0,Kaibase298,List of programs broadcast by Cartoon Network (Canadian TV channel),
+2015-06-03T16:00:39+00:00,665340599,665335605,0,MaxamillionSmart,List of programs broadcast by Cartoon Network (Canadian TV channel),Undid revision 665335605 by [[Special:Contributions/Zookacamp|Zookacamp]] ([[User talk:Zookacamp|talk]])
+2015-05-23T00:54:11+00:00,663612899,663600446,0,KKTANKS,List of programs broadcast by Disney Channel,/* Future programming */
+2015-09-04T22:20:37+00:00,679497255,679495028,0,Ijoshiexo,List of programs broadcast by Disney Channel,/* Original live-action series */
+2015-05-25T18:27:42+00:00,663985102,663978757,0,Electricburst1996,List of programs broadcast by Disney XD,Reverted 2 edits by [[Special:Contributions/74.90.92.39|74.90.92.39]] ([[User talk:74.90.92.39|talk]]): Unsourced. ([[WP:TW|TW]])
+2016-10-21T22:31:21+00:00,745569273,745547011,0,Electricburst1996,List of programs broadcast by Disney XD,Filled in 22 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2015-08-01T18:05:36+00:00,674106689,673947195,0,Hydrocorti87,List of programs broadcast by Disney XD,/* TV special */
+2015-12-16T19:08:59+00:00,695530985,694275747,0,Electricburst1996,List of programs broadcast by Disney XD,/* Future programming */
+2016-10-25T19:36:23+00:00,746182857,746182644,0,179.203.134.84,List of programs broadcast by Disney XD,/* Animated */
+2016-03-28T16:54:20+00:00,712357247,712076441,0,Gatordragon,List of programs broadcast by Disney XD,/* Former programming */
+2016-08-05T15:47:06+00:00,733129456,733018787,0,79.41.196.250,List of programs broadcast by Disney XD,/* On Hiatus */
+2015-07-08T17:59:58+00:00,670548520,670524880,0,112.198.77.235,List of programs broadcast by Disney XD,/* Seasons */
+2015-09-02T20:06:30+00:00,679157525,679154041,0,66.87.106.91,List of programs broadcast by Disney XD,/* Animated */
+2016-08-27T23:24:24+00:00,736502075,736344515,0,1992Asesino,List of programs broadcast by Disney XD,
+2015-08-20T17:30:48+00:00,677029632,676896357,0,24.164.81.178,List of programs broadcast by Disney XD,/* Animated */
+2016-09-13T04:21:07+00:00,739164315,739156396,0,Electricburst1996,List of programs broadcast by Disney XD,Reverted 1 edit by [[Special:Contributions/36.83.14.208|36.83.14.208]] ([[User talk:36.83.14.208|talk]]) to last revision by GreenC bot. ([[WP:TW|TW]])
+2016-02-20T21:39:35+00:00,706003679,706003314,0,Javu2006,List of programs broadcast by Disney XD,/* Marvel Universe */
+2015-05-07T02:00:22+00:00,661191687,660678889,0,Wikicontributor12,List of programs broadcast by Disney XD,"/* Animated */  The show first debuted on Disney XD on December 5, 2014 with the special Christmas episode ""North Pole Down"""
+2016-10-02T08:03:18+00:00,742200602,742156397,0,Annex104.9,List of programs broadcast by Disney XD,/* Animated */
+2015-08-14T22:56:52+00:00,676137111,676002249,0,2601:646:8F01:84FF:11F6:23CA:1E38:2FCB,List of programs broadcast by Disney XD,/* Shorts */
+2016-02-03T01:44:59+00:00,703028523,702844593,0,50.189.53.122,List of programs broadcast by Disney XD,/* Live-action */
+2017-02-14T11:51:33+00:00,765438212,765438175,0,Oripaypaykim,List of programs broadcast by Disney XD,/* Animated */
+2016-12-16T07:01:21+00:00,755104913,754482842,0,24.64.237.217,List of programs broadcast by Disney XD,/* Animated */
+2016-08-26T02:42:28+00:00,736230631,736200448,0,125.164.90.54,List of programs broadcast by Disney XD,
+2015-10-27T22:48:48+00:00,687818670,687813236,0,Electricburst1996,List of programs broadcast by Disney XD,Reverted 3 edits by [[Special:Contributions/24.185.254.5|24.185.254.5]] ([[User talk:24.185.254.5|talk]]) to last revision by 71.30.141.20. ([[WP:TW|TW]])
+2017-07-14T14:26:15+00:00,790555471,790522118,0,Spshu,List of programs broadcast by Disney XD,/* Marvel universe */ no premier date given
+2016-12-16T18:19:31+00:00,755180625,755180566,0,173.61.129.170,List of programs broadcast by Disney XD,/* Acquired programming */
+2016-05-01T17:14:07+00:00,718120723,717981321,0,Hydrocorti87,List of programs broadcast by Nickelodeon,/* Former original action series */ Power Rangers is acquired from Saban.
+2017-04-01T16:50:43+00:00,773307295,773307251,0,2601:185:C100:2B50:70C1:7EB3:A8A3:557D,List of programs broadcast by Nickelodeon,"/* Animated (""Nicktoons"") */"
+2015-05-09T18:15:01+00:00,661584624,661584567,0,TheTVGuy66,List of programs broadcast by Nickelodeon,/* Live-action */
+2015-08-22T22:33:32+00:00,677385629,677350684,0,Easy4me,List of programs broadcast by Nickelodeon,/* Upcoming programming */
+2015-10-25T15:36:08+00:00,687432837,687413947,0,2602:252:D3E:4BA0:D014:504F:43F1:643C,List of programs broadcast by Nickelodeon,/* Animated */
+2016-02-02T02:59:51+00:00,702868739,702853021,0,Presto52,List of programs broadcast by Nickelodeon,/* Current programming */
+2015-11-26T00:57:46+00:00,692483811,692483704,0,MelanieN,List of programs broadcast by Nickelodeon,add protection icon
+2016-02-14T20:27:55+00:00,704981172,703983623,0,99.141.159.54,List of programs broadcast by Nicktoons,It aired today but I don't see anymore showing times
+2015-06-10T02:12:05+00:00,666279435,666272937,0,2602:306:36D5:A5A0:D039:510D:9947:CF12,List of programs broadcast by Nicktoons,
+2016-03-30T20:34:35+00:00,712732987,712730233,0,Electricburst1996,List of programs broadcast by Nicktoons,Reverted 4 edits by [[Special:Contributions/74.129.221.115|74.129.221.115]] ([[User talk:74.129.221.115|talk]]) to last revision by Electricburst1996. ([[WP:TW|TW]])
+2016-07-15T07:05:07+00:00,729885452,729885447,0,Darkwind,List of programs broadcast by Universal Kids,Adding {{pp-vandalism}} ([[WP:TW|TW]])
+2016-02-05T19:41:09+00:00,703477139,703292022,0,2601:81:4102:3442:681D:D077:F478:471A,List of programs broadcast by Universal Kids,/* Live-action */
+2017-03-01T23:02:34+00:00,768125259,768104172,0,2607:FEA8:2D60:A11:196:22D6:F1E2:91D,List of programs broadcast by Universal Kids,/* Future programming */
+2015-10-09T03:19:31+00:00,684842844,684831425,0,97.102.238.32,List of programs broadcast by Universal Kids,/* Programming blocks */
+2015-11-06T11:48:55+00:00,689328586,689310041,0,Electricburst1996,List of programs broadcast by the Nick Jr. Channel,Reverted 1 edit by [[Special:Contributions/Daneboe14|Daneboe14]] ([[User talk:Daneboe14|talk]]). ([[WP:TW|TW]])
+2015-12-14T17:15:57+00:00,695228963,695192325,0,Electricburst1996,List of programs broadcast by the Nick Jr. Channel,Reverted 2 edits by [[Special:Contributions/Marisam77|Marisam77]] ([[User talk:Marisam77|talk]]) to last revision by Presto52. ([[WP:TW|TW]])
+2016-11-15T19:44:08+00:00,749706864,749706473,0,Miler5255,List of programs broadcast by the Nick Jr. Channel,
+2015-07-06T20:58:22+00:00,670254673,669669096,0,Squittens,List of programs broadcast by the Nick Jr. Channel,The Backyardigans does not air any longer; see nickjr.com/schedule
+2016-09-22T13:50:03+00:00,740663857,740608594,0,Funshine97,List of programs broadcast by the Nick Jr. Channel,/* Former programming (along with Noggin programs) */
+2015-08-12T23:58:43+00:00,675832368,675830593,0,Ridenerad,List of programs broadcast by the Nick Jr. Channel,/* Former programming (along with Noggin programs) */
+2015-08-31T22:38:17+00:00,678835516,678832418,0,Electricburst1996,List of programs broadcast by the Nick Jr. Channel,Reverted 2 edits by [[Special:Contributions/Taylor iMac|Taylor iMac]] ([[User talk:Taylor iMac|talk]]) to last revision by Squiddaddy. ([[WP:TW|TW]])
+2015-05-15T01:37:28+00:00,662385081,662383049,0,Electricburst1996,List of programs broadcast by the Nick Jr. Channel,"Reverted 1 edit by [[Special:Contributions/Squiddaddy|Squiddaddy]] ([[User talk:Squiddaddy|talk]]): This is for the TV channel, NOT the block. ([[WP:TW|TW]])"
+2016-06-12T19:47:54+00:00,724973700,724729108,0,Mkrgolf,List of programs broadcast by the Nick Jr. Channel,/* Acquired programming */
+2016-02-12T17:13:59+00:00,704634477,701236379,0,Superkeegan9100,List of programs broadcast by the Nick Jr. Channel,
+2015-09-01T16:49:47+00:00,678952865,678952583,0,NewEnglandYankee,List of states and territories of the United States by population density,Reverted edits by [[Special:Contribs/216.100.91.12|216.100.91.12]] ([[User talk:216.100.91.12|talk]]) to last version by 190.93.117.83
+2016-04-18T12:16:21+00:00,715865405,715865137,0,64.251.58.116,List of states and territories of the United States by population density,/* Density by states by population rank and land area */
+2016-07-19T21:39:47+00:00,730571749,730571448,0,Burkenyo,List of states and territories of the United States by population density,"/* Density by states, divisions, regions and territories by population rank and land area */  fixed incorrect /km^2 density values"
+2015-07-09T03:32:36+00:00,670621656,670621602,0,24.251.28.31,List of states and territories of the United States by population density,to correct capitalization per MoS
+2015-07-24T23:33:47+00:00,672946944,672946803,0,Wikiuser100,List of states and territories of the United States by population density,Per article title
+2017-07-23T06:12:26+00:00,791907672,788873757,0,50.234.99.226,List of states and territories of the United States by population density,/* 2015 Density by states by population rank and land area */Switched va and nc areas
+2016-01-01T08:03:58+00:00,697701469,697630556,0,98.238.44.6,Little Einsteins,/* Main characters */
+2017-05-03T22:47:35+00:00,778566992,778566874,0,2001:569:78DE:C200:746F:874E:B31E:EE40,Looped (TV series),
+2016-06-01T02:46:33+00:00,723113190,722017279,0,200.84.122.84,Looped (TV series),
+2015-05-19T02:39:00+00:00,663026352,662966975,0,Agentmike41,Matt's Monsters,Adding the correct year that is debuted with reference source along with more info for US showing.
+2016-09-04T01:10:51+00:00,737620921,736459399,0,Bankster,Looped (TV series),The series first premiered in Latin America on Cartoon Network in Spanish.
+2016-01-11T19:16:49+00:00,699336450,699279033,0,179.212.91.86,Looped (TV series),
+2016-04-20T18:03:05+00:00,716245632,714831875,0,74.105.171.26,Matt's Monsters,matt's monsters
+2016-09-24T17:03:38+00:00,740988232,740988194,0,96.60.38.242,Milo Murphy's Law,/* Episodes */
+2016-12-05T06:09:01+00:00,753107158,752907667,0,FrescoBot,Milo Murphy's Law,Bot: [[User:FrescoBot/Links|link syntax]]
+2016-06-12T10:50:49+00:00,724914612,724914566,0,Alexiaya,Milo Murphy's Law,[[WP:EGG]]
+2016-04-14T15:59:13+00:00,715245982,714378446,0,47.54.189.22,Milo Murphy's Law,owned by Disney
+2015-08-25T13:36:51+00:00,677781356,677516880,0,MarcGarver,Milo Murphy's Law,no content expected for another two years - restore redirect
+2017-08-21T08:32:18+00:00,796503262,796462702,0,Cmcalpine,Milo Murphy's Law,/* Main */
+2016-07-28T17:32:00+00:00,731962596,726892664,0,99.109.90.90,Mischief City,/* External links */
+2017-02-24T20:40:29+00:00,767255310,767252175,0,Jake Brockman,Miss Moon,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/2804:7F7:A585:BDC5:0:0:0:1|2804:7F7:A585:BDC5:0:0:0:1]] using [[WP:STiki|STiki]]
+2015-05-31T21:51:14+00:00,664925171,664924866,0,2602:306:80EB:95B0:5504:8BD0:B028:6B7A,My Big Big Friend,/* Characters */
+2017-01-16T12:53:31+00:00,760351021,760350978,0,62.163.166.247,My Dad the Rock Star,/* Season 1 */
+2016-08-30T06:16:31+00:00,736844719,728972587,0,73.79.228.92,My Dad the Rock Star,
+2017-05-22T23:31:03+00:00,781740315,781708267,0,Space-Age Meat,My Friend Rabbit,Reverted edits by [[Special:Contribs/2607:FEA8:C2DF:FAEA:AC09:CC6D:5A6E:BB44|2607:FEA8:C2DF:FAEA:AC09:CC6D:5A6E:BB44]] ([[User talk:2607:FEA8:C2DF:FAEA:AC09:CC6D:5A6E:BB44|talk]]) to last version by FilmandTVFan28
+2017-04-22T17:34:02+00:00,776692919,776408881,0,Luigi1090,Nickelodeon Animation Studio,"""The Modifyers"" isn't a stand-alone pilot because it was aired as part of ""Shorts in a Bunch""."
+2015-11-10T19:48:53+00:00,690014974,689392713,0,Cyphoidbomb,Nickelodeon Animation Studio,clean up using [[Project:AWB|AWB]]
+2016-05-14T01:06:20+00:00,720148177,720146750,0,72.160.214.59,Nickelodeon Animation Studio,/* Nickelodeon (Main shows) */
+2016-06-01T05:32:05+00:00,723129119,722940508,0,Yobot,Pelswick,/* External links */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12016)
+2015-11-03T05:12:32+00:00,688811400,686835209,0,Aspects,Pelswick,Removed flagicons per [[Template:Infobox television]]
+2016-08-05T11:08:48+00:00,733100850,733100607,0,Junior5a,Peter Rabbit (TV series),Reverted 1 edit by [[Special:Contributions/86.24.162.136|86.24.162.136]] ([[User talk:86.24.162.136|talk]]) to last revision by ClueBot NG. ([[WP:TW|TW]])
+2017-02-22T15:32:22+00:00,766860757,766460288,0,77.100.93.30,Peter Rabbit (TV series),/* Broadcast */Adding UK info
+2016-08-30T08:32:14+00:00,736855530,736468866,0,ArchAngelAvenger,Peter Rabbit (TV series),Relabelling link.
+2017-03-20T04:09:32+00:00,771200110,763907559,0,RentonElric,Project G.e.e.K.e.R.,
+2013-09-17T13:17:59+00:00,573319411,545581613,0,Yobot,Płocko,/* References */[[WP:CHECKWIKI]] error fixes / special characters in pagetitle using [[Project:AWB|AWB]] (9485)
+2015-12-05T06:45:31+00:00,693838448,693731853,0,BG19bot,Ricky Sprocket: Showbiz Boy,/* Characters */[[WP:CHECKWIKI]] error fix.  Broken bracket.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11751)
+2015-12-14T01:22:25+00:00,695139978,695139792,0,68.108.59.197,Ricky Sprocket: Showbiz Boy,
+2016-02-26T21:59:05+00:00,707086885,706913789,0,2601:192:101:6ACF:6006:8CA2:217C:AD89,Robotboy,
+2016-03-30T17:51:49+00:00,712710231,712644134,0,2601:192:101:6ACF:0:0:0:F46C,Robotboy,
+2016-10-10T19:18:12+00:00,743694646,741413767,0,Cydebot,Robotboy,"Robot - Moving category Television shows set in San Francisco, California to [[:Category:Television shows set in San Francisco]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]]."
+2016-12-23T05:01:41+00:00,756285042,756222238,0,177.65.183.123,Robotboy,
+2016-03-21T19:51:30+00:00,711252559,711175020,0,2601:192:101:6ACF:349B:21DE:ABC6:8E2F,Robotboy,
+2016-09-07T02:55:26+00:00,738133767,738132232,0,Cyphoidbomb,Robotboy,Reverted 1 edit by [[Special:Contributions/2601:192:101:6ACF:D5B1:5748:9B34:1B9D|2601:192:101:6ACF:D5B1:5748:9B34:1B9D]] ([[User talk:2601:192:101:6ACF:D5B1:5748:9B34:1B9D|talk]]): Rvv/test. ([[WP:TW|TW]])
+2017-09-05T00:55:03+00:00,798992121,798628108,0,GoingBatty,Robotboy,v1.43 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Lewis MacLeod]]
+2015-12-25T02:51:00+00:00,696704923,696700686,0,Cyphoidbomb,Robotboy,Reverted 2 edits by [[Special:Contributions/2601:192:102:13E5:4119:F86E:6021:F3E1|2601:192:102:13E5:4119:F86E:6021:F3E1]] ([[User talk:2601:192:102:13E5:4119:F86E:6021:F3E1|talk]]): Unsourced. ([[WP:TW|TW]])
+2017-07-01T07:38:30+00:00,788414137,787737308,0,2A02:C7D:5244:6200:7001:A662:8EF3:C6AC,Robotboy,
+2016-01-30T05:14:46+00:00,702376486,701532557,0,202.62.17.160,Rolling with the Ronks!,
+2016-06-11T16:03:07+00:00,724801808,723049523,0,66.61.83.123,Sabrina the Teenage Witch (1970 TV series),
+2015-11-29T17:29:12+00:00,692982637,686901140,0,Randy Kryn,Sabrina the Teenage Witch (1970 TV series),"italics add, quote marks fix"
+2016-10-15T03:10:20+00:00,744421080,743763187,0,MB,Sabrina the Teenage Witch (1970 TV series),/* Voices */ Adding/removing wikilink(s)
+2016-02-22T00:39:32+00:00,706192139,706191913,0,Randy Kryn,Sabrina's Secret Life,expanded main template
+2015-12-26T07:07:31+00:00,696833763,692625038,0,174.25.38.10,Sabrina's Secret Life,
+2017-03-22T21:23:37+00:00,771669042,767984371,0,2607:FEA8:C2DF:FAEA:24AC:B2C2:269:48CC,Sabrina's Secret Life,
+2016-09-22T15:35:49+00:00,740677220,740576532,0,2607:FB90:4A52:975A:2AE0:53F7:73C4:66C3,Sabrina's Secret Life,
+2016-10-04T06:41:55+00:00,742526051,742468414,0,2001:569:70DD:7500:39EA:19D8:DF90:EF4D,Sabrina's Secret Life,Undid revision 742468414 by [[Special:Contributions/99.248.221.109|99.248.221.109]] ([[User talk:99.248.221.109|talk]])
+2015-06-13T19:46:38+00:00,666801408,655767419,0,96.235.166.215,Sabrina's Secret Life,/* Overview */
+2015-09-17T06:03:42+00:00,681435916,672157725,0,Thebuffalofan,Sabrina's Secret Life,
+2016-01-28T17:03:21+00:00,702130072,700039934,0,Captain Assassin!,Sabrina: Secrets of a Teenage Witch,Trevor Wall
+2016-04-12T04:43:01+00:00,714842631,709638433,0,Mkrgolf,Sabrina: Secrets of a Teenage Witch,
+2016-08-06T02:34:22+00:00,733194899,732298286,0,184.100.247.33,Sabrina: The Animated Series,
+2016-10-02T02:25:41+00:00,742164932,741175079,0,2601:3C3:301:D3A0:91E6:DCE:5E4D:4575,Sabrina: The Animated Series,
+2016-09-03T03:40:03+00:00,737485672,733194899,0,122.201.24.186,Sabrina: The Animated Series,Added more content about the episodes
+2016-09-07T03:56:54+00:00,738139763,738139657,0,Clpo13,Sabrina: The Animated Series,Undid revision 737485672 by [[Special:Contributions/122.201.24.186|122.201.24.186]] ([[User talk:122.201.24.186|talk]]); unsourced
+2016-07-18T03:02:10+00:00,730295729,725958245,0,Nepali Bibek,Sally Bollywood: Super Detective,/* References */
+2017-05-16T05:28:39+00:00,780614599,780614104,0,Wikicommandercros,Sally Bollywood: Super Detective,Reverted 1 edit by [[Special:Contributions/1.129.97.151|1.129.97.151]] identified as test/vandalism using [[WP:STiki|STiki]]
+2015-06-29T23:24:06+00:00,669255332,659376399,0,2404:130:0:1000:78C4:7FD1:9741:BB9E,Scaredy Squirrel (TV series),
+2016-04-11T22:10:18+00:00,714795470,711313842,0,Mkrgolf,Scaredy Squirrel (TV series),/* Recurring and Minor Characters */
+2016-12-01T13:41:34+00:00,752477473,752477338,0,2602:306:3033:C300:21D5:84B5:5810:561C,Scaredy Squirrel (TV series),
+2016-08-03T21:56:54+00:00,732885752,732878944,0,Cyphoidbomb,Scaredy Squirrel (TV series),Reverted 2 edits by [[Special:Contributions/50.102.28.246|50.102.28.246]] ([[User talk:50.102.28.246|talk]]): Unsourced. ([[WP:TW|TW]])
+2015-04-28T12:20:09+00:00,659668599,656229000,0,206.226.139.102,Sidekick (TV series),/* Main characters */
+2015-12-12T02:57:40+00:00,694863729,687289928,0,Fuddle,Scaredy Squirrel (TV series),removed [[Category:Children's comedy series]]; added [[Category:Canadian children's comedy series]] using [[WP:HC|HotCat]]
+2017-07-06T03:22:09+00:00,789224988,786646232,0,ByronMolina,Sidekick (TV series),/* Broadcast */
+2016-05-16T21:52:44+00:00,720604818,718212535,0,BG19bot,Sidekick (TV series),Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2016-01-23T02:07:29+00:00,701193480,701008563,0,66.87.132.48,Sony Pictures Kids Zone,Undid revision 701008563 by [[Special:Contributions/2601:81:C401:D149:BC97:C00C:98BF:6DC0|2601:81:C401:D149:BC97:C00C:98BF:6DC0]] ([[User talk:2601:81:C401:D149:BC97:C00C:98BF:6DC0|talk]]) Vandalism.
+2016-08-27T17:06:13+00:00,736459218,733221608,0,Fuddle,Sidekick (TV series),removed [[Category:Flash cartoons]]; added [[Category:Flash television shows]] using [[WP:HC|HotCat]]
+2015-06-20T03:51:04+00:00,667718232,665190933,0,Look2See1,Sony Pictures Kids Zone,/* External links */
+2016-04-22T13:37:13+00:00,716572528,715406381,0,Dewritech,Sony Pictures Kids Zone,"clean up, [[WP:AWB/T|typo(s) fixed]]: However  → However, using [[Project:AWB|AWB]]"
+2015-10-07T15:23:38+00:00,684584621,684584509,0,Benjamintchip,Sprout (TV network),/* Programming */ punctuation marks
+2016-01-30T10:45:12+00:00,702405516,702167531,0,BookDen,Sprout (TV network),
+2016-12-15T04:37:10+00:00,754908170,754692308,0,Nihiltres,Sprout (TV network),Simplified hatnote syntax
+2016-04-26T03:45:21+00:00,717167631,717167122,0,Electricburst1996,Sprout (TV network),Reverted 1 edit by [[Special:Contributions/99.196.138.104|99.196.138.104]] ([[User talk:99.196.138.104|talk]]) to last revision by Nutcracker100. ([[WP:TW|TW]])
+2016-11-01T18:00:30+00:00,747315649,747306653,0,Mkrgolf,Sprout (TV network),
+2017-04-26T16:51:52+00:00,777344384,777344316,0,Jamiedavis627,Sprout (TV network),/* Current blocks */
+2016-01-25T23:52:21+00:00,701687493,701687365,0,74.133.117.224,Stanley (2001 TV series),/* Episodes */
+2015-06-04T20:36:12+00:00,665521186,665520569,0,AddWittyNameHere,Stanley (2001 TV series),Reverted edits by [[Special:Contributions/75.152.92.18|75.152.92.18]] ([[User talk:75.152.92.18|talk]]) to last revision by 75.155.185.89 ([[WP:HG|HG]])
+2016-06-27T22:01:36+00:00,727276170,723020812,0,Ssjhowarthisawesome,Stanley (2001 TV series),
+2015-12-04T22:40:31+00:00,693792092,692709881,0,Gatordragon,Supernoobs,/* Broadcast */
+2017-02-12T22:03:46+00:00,765155317,761899875,0,104.180.61.197,Supernoobs,
+2017-04-20T17:00:56+00:00,776378027,776378022,0,NeilN,Template:Disney XD original series,Adding {{pp-protected}} ([[WP:TW|TW]])
+2016-08-01T16:43:12+00:00,732537399,732537346,0,Mkrgolf,Template:Disney XD original series,
+2016-02-04T20:15:39+00:00,703318572,703318140,0,94.214.22.208,Template:Eons graphical timeline,Undid revision 702997617 by [[Special:Contributions/104.192.9.30|104.192.9.30]] ([[User talk:104.192.9.30|talk]])
+2015-03-23T05:50:53+00:00,653117219,653053285,0,Petr Matas,Template:Eons graphical timeline,Reverted 2 edits by [[Special:Contributions/71.50.183.208|71.50.183.208]] ([[User talk:71.50.183.208|talk]]) to last revision by Unbuttered Parsnip. ([[WP:TW|TW]])
+2016-11-29T01:24:04+00:00,752016741,741673315,0,217.248.49.216,Template:Geological history of Earth,
+2015-08-14T22:50:22+00:00,676136457,675385398,0,Chermundy,Template:Geological history of Earth,update
+2015-10-05T04:04:34+00:00,684192293,676136457,0,Hike395,Template:Geological history of Earth,provide documentation subpage
+2015-11-14T05:57:41+00:00,690565985,690532861,0,Cyphoidbomb,Template:Nick Jr.,Reverted 1 edit by [[Special:Contributions/Sa925|Sa925]] ([[User talk:Sa925|talk]]): Questionable edits from disruptive user. ([[WP:TW|TW]])
+2016-08-21T17:55:25+00:00,735575548,735569971,0,C.Fred,Template:Nick Jr.,Reverted edits by [[Special:Contribs/Abcxyz30|Abcxyz30]] ([[User talk:Abcxyz30|talk]]) to last version by Colinmiller13
+2015-08-31T15:15:14+00:00,678775749,677801692,0,Squittens,Template:Nick Jr.,"Counting the shorts, it is from 1998"
+2016-07-13T00:24:20+00:00,729552524,729268616,0,Meters,Template:Nick Jr.,undo edits by block evading sock of Wattsj528
+2016-12-31T00:45:47+00:00,757496068,757079668,0,Squittens,Template:Nick Jr.,"Recently many non-original programs were added here. This template is for Nick Jr. original programming, so programs that had their original US runs on other channels do not belong (interstitials w/o articles and programs for NickMom/The N do not either)."
+2016-10-16T21:54:20+00:00,744695244,744406510,0,Mkrgolf,Template:PBS Kids shows,
+2013-09-28T09:02:27+00:00,574848556,550418143,0,Underlying lk,Template:Time scale,Underlying lk moved page [[Template:Infobox time scale]] to [[Template:Time scale]]: not an infobox
+2015-06-14T17:55:29+00:00,666933163,666926999,0,Electricburst1996,Template:Playhouse Disney,Reverted 1 edit by [[Special:Contributions/Dragboom 2000|Dragboom 2000]] ([[User talk:Dragboom 2000|talk]]) to last revision by Cyphoidbomb. ([[WP:TW|TW]])
+2015-09-05T08:32:15+00:00,679556508,671448292,0,203.173.186.163,Template:US state and territory lists,
+2017-03-03T18:05:43+00:00,768419304,751677478,0,LuckyWiki26,Template:US state and territory lists,
+2016-06-29T19:04:12+00:00,727554143,723562642,0,Funandtrvl,Template:US state and territory lists,update info
+2017-05-05T16:53:26+00:00,778864720,778864448,0,Sebk,The Amazing World of Gumball,Undid revision 778853052 by [[Special:Contributions/2A01:E34:EF2F:B520:D5D0:B2DE:7633:E936|2A01:E34:EF2F:B520:D5D0:B2DE:7633:E936]] ([[User talk:2A01:E34:EF2F:B520:D5D0:B2DE:7633:E936|talk]]) no source
+2017-01-06T18:34:20+00:00,758646749,756330937,0,2601:2C0:C100:DF90:6013:93A3:22F8:8AF6,"Template:Works by Dan Povenmire and Jeff ""Swampy"" Marsh",
+2016-02-29T22:57:21+00:00,707630937,707589276,0,TAnthony,The Amazing World of Gumball,"Update deprecated infobox image syntax, overlinking, and other cleanup using [[Project:AWB|AWB]]"
+2017-06-03T02:32:58+00:00,783556085,783555968,0,2A00:23C4:B380:3A00:C10F:4C56:B9C0:AAC,The Day My Butt Went Psycho!,/* Season 2 (2015) */
+2016-08-16T22:59:02+00:00,734824131,734484096,0,2602:306:CC8A:A9F0:15F7:6806:BD45:E6D8,The Amazing World of Gumball,/* Crossover */ Because the Uncle Grandpa connection is non canon
+2016-07-17T20:45:25+00:00,730257166,726571978,0,70.53.247.39,The Day My Butt Went Psycho!,
+2015-11-28T22:33:00+00:00,692870043,692867779,0,Widr,The Day My Butt Went Psycho!,Reverted 1 edit by [[Special:Contributions/70.173.213.49|70.173.213.49]] using [[WP:STiki|STiki]]
+2015-07-23T10:58:43+00:00,672714410,670995373,0,101.185.54.11,The Day My Butt Went Psycho!,/* Broadcast */ Couple of changes to words.
+2016-12-30T01:18:46+00:00,757323122,756995109,0,Agbwiki,The Day My Butt Went Psycho!,Fixed infobox
+2015-08-18T17:50:46+00:00,676709407,676678863,0,Sb1990,The Fairly OddParents,
+2017-03-23T16:42:32+00:00,771805842,771805798,0,Rileythetom8o,The Fairly OddParents,Reverted edits by [[Special:Contribs/189.214.95.22|189.214.95.22]] ([[User talk:189.214.95.22|talk]]) to last version by 80.117.103.93
+2016-10-17T02:36:22+00:00,744729421,744474045,0,67.68.162.142,The Fairly OddParents,
+2016-10-31T00:28:07+00:00,747023419,747023229,0,2601:81:C401:33CB:D064:8EF0:CFC4:A369,The Fairly OddParents,
+2015-04-19T21:04:13+00:00,657235855,657198983,0,Cyphoidbomb,The Magic School Bus (TV series),Undid revision 657198983 by [[Special:Contributions/2602:306:CFF2:1AF0:980B:9AEB:EC09:7959|2602:306:CFF2:1AF0:980B:9AEB:EC09:7959]] ([[User talk:2602:306:CFF2:1AF0:980B:9AEB:EC09:7959|talk]]) Vague. Doesn't tell us anything. Also unsourced.
+2016-10-04T23:19:20+00:00,742648973,742629520,0,AnonWikiEditor,The Magic School Bus (TV series),/* Reboot */ no source that title was changed
+2017-03-18T16:45:34+00:00,770951500,770951232,0,72.89.46.89,The Oblongs,/* Broadcast */
+2015-08-18T21:30:58+00:00,676740445,676009677,0,108.220.65.115,The Oblongs,/* The Oblong family */
+2015-09-05T00:25:50+00:00,679510386,679510171,0,2001:1388:106:60B3:7501:A126:EC9A:2160,The Oblongs,
+2016-04-30T15:46:56+00:00,717932864,717932835,0,Dcirovic,The Oblongs,Reverted edits by [[Special:Contributions/72.49.204.238|72.49.204.238]] ([[User talk:72.49.204.238|talk]]) ([[WP:HG|HG]]) (3.1.20)
+2017-07-09T22:24:36+00:00,789835190,788519178,0,173.187.132.99,The Ollie & Moon Show,/* Characters */
+2016-12-07T09:03:57+00:00,753463513,753463484,0,Dieter Lloyd Wexler,Timeline of the far future,Reverted edits by [[Special:Contributions/51.7.127.80|51.7.127.80]] ([[User talk:51.7.127.80|talk]]): Introduces [[WP:DISPUTED|factual errors]] ([[WP:HG|HG]]) (3.1.22)
+2017-05-12T05:56:41+00:00,779980310,778781433,0,203.134.137.66,Timeline of the far future,punctuation corrections
+2016-06-13T23:44:50+00:00,725163520,724308766,0,Donmike10,Timeline of the far future,/* Bibliography */
+2015-05-05T20:02:30+00:00,660996978,660323780,0,Tom.Reding,Timeline of the far future,"display-editors=4, as suggested; display-authors=etal"
+2016-01-25T19:42:49+00:00,701651065,701614378,0,Rjwilmsi,Timeline of the far future,"/* References */Journal cites, added 1 Bibcode using [[Project:AWB|AWB]] (11822)"
+2015-11-02T03:46:46+00:00,688634304,688093055,0,OneWeirdDude,Timeline of the far future,"/* Future of the Earth, the Solar System and the Universe */ Linked to ""stellar evolution""."
+2015-12-07T13:06:26+00:00,694156040,693325340,0,Arado,Timeline of the far future,"/* Future of the Earth, the Solar System and the Universe */"
+2016-10-09T12:28:33+00:00,743389230,743370150,0,AnomieBOT,Timeline of the far future,Dating maintenance tags: {{Failed verification}}
+2016-07-25T02:12:03+00:00,731392510,731392094,0,96.48.248.2,Timeline of the far future,"removing redundant internal link as ""Star"" was already linked in the previous paragraph"
+2016-05-23T12:25:07+00:00,721682046,721666656,0,Gob Lofa,Timeline of the far future,"/* Future of the Earth, the Solar System and the Universe */  Format"
+2017-04-20T07:17:08+00:00,776315146,775522329,0,118.100.123.198,ToonMarty,/* Episodes */
+2016-12-28T01:18:11+00:00,756979820,756979759,0,Tmisch64,Tracey McBean,/* top */
+2015-04-14T15:28:16+00:00,656451101,651303723,0,Mkrgolf,Tracey McBean,/* Characters */
+2016-01-29T02:30:45+00:00,702201109,702201026,0,AHSApacheStudent,Tutenstein,
+2016-07-10T23:27:39+00:00,729251144,729218773,0,2607:FB90:4CF6:3346:C7E:5A5:D67F:27C3,Tutenstein,/* Broadcast */
+2017-06-20T18:21:32+00:00,786647673,786532067,0,172.58.25.121,Tutenstein,/* External links */
+2017-08-17T02:16:06+00:00,795879619,795083662,0,151.213.93.74,Wacky Races (2017 TV series),/* Broadcast */
+2016-05-26T18:30:30+00:00,722221882,722094142,0,2602:306:30D2:C580:992B:C00:18B5:E70D,Walt Disney Animation Studios,/* Feature films */Unrelated content
+2016-09-18T17:54:33+00:00,740038256,740010350,0,Coolcaesar,Walt Disney Animation Studios,"Undid revision 740010350 by [[Special:Contributions/Iftekharahmed96|Iftekharahmed96]] ([[User talk:Iftekharahmed96|talk]]) [[WP:NOT]], WP is not a crystal ball. Local union blog has reported Moana animation is done but lighting is still in progress."
+2017-01-19T09:08:32+00:00,760827137,759903339,0,Wikicontributor12,Walt Disney Animation Studios,
+2015-06-16T21:17:07+00:00,667255438,667224694,0,24.217.85.217,Wayside (TV series),
+2015-09-22T22:03:22+00:00,682309795,682290912,0,SQGibbon,Wayside (TV series),Reverted 3 edits by [[Special:Contributions/93.169.250.174|93.169.250.174]] ([[User talk:93.169.250.174|talk]]): We do not need to list all of this in the infobox. ([[WP:TW|TW]])
+2015-10-25T15:41:29+00:00,687433491,686444212,0,184.100.216.194,Wayside (TV series),
+2015-07-08T22:56:53+00:00,670590302,670586614,0,173.187.142.4,Yin Yang Yo!,/* Plot */
+2017-08-11T23:47:06+00:00,795094186,795056676,0,Cydebot,Yin Yang Yo!,Robot - Moving category Anime-influenced animation to [[:Category:Anime-influenced Western animation]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories_for_discussion/Log/2017_July_17]].
+2016-04-18T00:48:34+00:00,715786883,714393407,0,2601:183:C201:57E7:45B5:AAAD:7A62:E7E8,Yin Yang Yo!,
+2017-01-10T04:28:27+00:00,759263365,728892592,0,Mario1do,Zombie Hotel,
+2016-08-03T01:05:31+00:00,732754445,732745782,0,PrimeHunter,Yin Yang Yo!,Reverted to revision 731159281 by [[Special:Contributions/2001:1388:106:6CC9:D9B2:F610:7FC8:A333|2001:1388:106:6CC9:D9B2:F610:7FC8:A333]]: End in 2099 is clearly nonsense so no faith in these unsourced changes. ([[WP:TW|TW]])

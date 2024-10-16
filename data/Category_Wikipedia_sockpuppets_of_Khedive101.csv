@@ -1,0 +1,475 @@
+timestamp,revid,parentid,sock,user,page,message
+2024-05-28T20:26:01+00:00,1226144416,1226144361,1,Khedive101,Emina Ilhamy,
+2024-05-28T20:25:35+00:00,1226144361,1226144178,1,Khedive101,Emina Ilhamy,
+2024-05-28T20:24:27+00:00,1226144178,1226117224,1,Khedive101,Emina Ilhamy,
+2024-05-28T20:24:02+00:00,1226144118,1226144065,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T20:23:40+00:00,1226144065,1226143940,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T20:22:42+00:00,1226143940,1226143607,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T20:20:13+00:00,1226143607,1226125680,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T18:21:47+00:00,1226127093,1226127058,1,Khedive101,Hoshiyar Qadin,
+2024-05-28T18:21:37+00:00,1226127058,1226127008,1,Khedive101,Hoshiyar Qadin,
+2024-05-28T18:21:17+00:00,1226127008,1226126886,1,Khedive101,Hoshiyar Qadin,
+2024-05-28T18:20:24+00:00,1226126886,1223210327,1,Khedive101,Hoshiyar Qadin,
+2024-05-28T18:11:19+00:00,1226125680,1226125523,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T18:10:08+00:00,1226125523,1226125219,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T18:08:31+00:00,1226125219,1226125011,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T18:07:01+00:00,1226125011,1226117685,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T17:59:25+00:00,1226123958,1226120227,1,Khedive101,Shehret Feza Hanim,
+2024-05-28T17:58:16+00:00,1226123817,1226123778,1,Khedive101,Jananiyar Hanim,
+2024-05-28T17:57:59+00:00,1226123778,1226123742,1,Khedive101,Jananiyar Hanim,
+2024-05-28T17:57:44+00:00,1226123742,1226123576,1,Khedive101,Jananiyar Hanim,
+2024-05-28T17:56:29+00:00,1226123576,1226121229,1,Khedive101,Jananiyar Hanim,
+2024-05-28T17:53:35+00:00,1226123151,1226123117,1,Khedive101,Jeshm Afet Hanim,
+2024-05-28T17:53:21+00:00,1226123117,1226122564,1,Khedive101,Jeshm Afet Hanim,
+2024-05-28T17:49:13+00:00,1226122564,1226122414,1,Khedive101,Jeshm Afet Hanim,
+2024-05-28T17:48:09+00:00,1226122414,1223814805,1,Khedive101,Jeshm Afet Hanim,
+2024-05-28T17:38:52+00:00,1226121229,1223814284,1,Khedive101,Jananiyar Hanim,
+2024-05-28T17:30:54+00:00,1226120227,1226120114,1,Khedive101,Shehret Feza Hanim,
+2024-05-28T17:30:09+00:00,1226120114,1226120047,1,Khedive101,Shehret Feza Hanim,
+2024-05-28T17:29:39+00:00,1226120047,1226117854,1,Khedive101,Shehret Feza Hanim,
+2024-05-28T17:12:14+00:00,1226117854,1226117813,1,Khedive101,Shehret Feza Hanim,
+2024-05-28T17:11:55+00:00,1226117813,1198293603,1,Khedive101,Shehret Feza Hanim,
+2024-05-28T17:10:42+00:00,1226117685,1226117630,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T17:10:24+00:00,1226117630,1226117479,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T17:09:15+00:00,1226117479,1223814956,1,Khedive101,Shafaq Nur Hanim,
+2024-05-28T17:06:51+00:00,1226117224,1226117115,1,Khedive101,Emina Ilhamy,
+2024-05-28T17:05:48+00:00,1226117115,1226117007,1,Khedive101,Emina Ilhamy,
+2024-05-28T17:04:55+00:00,1226117007,1226116969,1,Khedive101,Emina Ilhamy,
+2024-05-28T17:04:35+00:00,1226116969,1194653488,1,Khedive101,Emina Ilhamy,
+2024-05-28T17:03:36+00:00,1226116819,1226116762,1,Khedive101,Javidan Hanim,
+2024-05-28T17:03:13+00:00,1226116762,1226116586,1,Khedive101,Javidan Hanim,
+2024-05-28T17:01:58+00:00,1226116586,1225978061,1,Khedive101,Javidan Hanim,
+2024-05-28T17:01:11+00:00,1226116466,1226116399,1,Khedive101,Ikbal Hanim,
+2024-05-28T17:00:41+00:00,1226116399,1226116288,1,Khedive101,Ikbal Hanim,
+2024-05-28T17:00:01+00:00,1226116288,1198293616,1,Khedive101,Ikbal Hanim,
+2024-05-28T16:58:23+00:00,1226116069,1226115981,1,Khedive101,Melek Tourhan,
+2024-05-28T16:57:49+00:00,1226115981,1222699159,1,Khedive101,Melek Tourhan,
+2024-05-28T16:57:06+00:00,1226115866,1226115788,1,Khedive101,Ayn al-Hayat Ahmad,
+2024-05-28T16:56:32+00:00,1226115788,1194621743,1,Khedive101,Ayn al-Hayat Ahmad,
+2024-05-28T16:55:25+00:00,1226115631,1225422643,1,Khedive101,Shivakiar Ibrahim,
+2024-05-28T16:53:48+00:00,1226115364,1224603214,1,Khedive101,Nazli Sabri,
+2024-05-28T16:51:48+00:00,1226115066,1226064101,1,Khedive101,Farida of Egypt,
+2024-05-28T16:48:14+00:00,1226114539,1226114487,1,Khedive101,Narriman Sadek,
+2024-05-28T16:47:56+00:00,1226114487,1226114376,1,Khedive101,Narriman Sadek,
+2024-05-28T16:47:14+00:00,1226114376,1226114275,1,Khedive101,Narriman Sadek,
+2024-05-28T16:46:34+00:00,1226114275,1226114185,1,Khedive101,Narriman Sadek,
+2024-05-28T16:46:00+00:00,1226114185,1225616231,1,Khedive101,Narriman Sadek,
+2024-05-28T16:43:30+00:00,1226113760,1226113662,1,Khedive101,Muhammad Ali of Egypt,
+2024-05-28T16:42:56+00:00,1226113662,1226113328,1,Khedive101,Muhammad Ali of Egypt,
+2024-05-28T16:40:59+00:00,1226113328,1224625358,1,Khedive101,Muhammad Ali of Egypt,
+2024-05-28T16:40:32+00:00,1226113260,1226112992,1,Khedive101,Ibrahim Pasha of Egypt,
+2024-05-28T16:39:01+00:00,1226112992,1226112893,1,Khedive101,Ibrahim Pasha of Egypt,
+2024-05-28T16:38:20+00:00,1226112893,1226112655,1,Khedive101,Ibrahim Pasha of Egypt,
+2024-05-28T16:36:58+00:00,1226112655,1226112570,1,Khedive101,Ibrahim Pasha of Egypt,
+2024-05-28T16:36:26+00:00,1226112570,1222607540,1,Khedive101,Ibrahim Pasha of Egypt,
+2024-05-28T16:35:46+00:00,1226112456,1226112350,1,Khedive101,Abbas I of Egypt,
+2024-05-28T16:35:08+00:00,1226112350,1226112177,1,Khedive101,Abbas I of Egypt,
+2024-05-28T16:34:07+00:00,1226112177,1226112126,1,Khedive101,Abbas I of Egypt,
+2024-05-28T16:33:46+00:00,1226112126,1198232610,1,Khedive101,Abbas I of Egypt,
+2024-05-28T16:32:55+00:00,1226111996,1226111959,1,Khedive101,Sa'id of Egypt,
+2024-05-28T16:32:39+00:00,1226111959,1226111884,1,Khedive101,Sa'id of Egypt,
+2024-05-28T16:32:14+00:00,1226111884,1226111826,1,Khedive101,Sa'id of Egypt,
+2024-05-28T16:31:54+00:00,1226111826,1226111656,1,Khedive101,Sa'id of Egypt,
+2024-05-28T16:30:51+00:00,1226111656,1216337543,1,Khedive101,Sa'id of Egypt,
+2024-05-28T16:27:02+00:00,1226111034,1226110763,1,Khedive101,Isma'il Pasha of Egypt,
+2024-05-28T16:25:04+00:00,1226110763,1226109442,1,Khedive101,Isma'il Pasha of Egypt,
+2024-05-28T16:16:35+00:00,1226109442,1226109364,1,Khedive101,Isma'il Pasha of Egypt,
+2024-05-28T16:16:05+00:00,1226109364,1226108775,1,Khedive101,Isma'il Pasha of Egypt,
+2024-05-28T16:11:51+00:00,1226108775,1223603802,1,Khedive101,Isma'il Pasha of Egypt,
+2024-05-26T23:12:53+00:00,1225824449,1225824418,1,Khedive101,Mohammed Ali Tewfik,
+2024-05-26T23:12:40+00:00,1225824418,1225824386,1,Khedive101,Mohammed Ali Tewfik,
+2024-05-26T23:12:19+00:00,1225824386,1225824295,1,Khedive101,Mohammed Ali Tewfik,Undid revision [[Special:Diff/1225824295|1225824295]] by [[Special:Contributions/Khedive101|Khedive101]] ([[User talk:Khedive101|talk]])
+2024-05-26T23:11:15+00:00,1225824295,1209871188,1,Khedive101,Mohammed Ali Tewfik,
+2024-05-26T23:09:55+00:00,1225824172,1225823582,1,Khedive101,Farouk of Egypt,
+2024-05-26T23:04:01+00:00,1225823582,1225822947,1,Khedive101,Farouk of Egypt,
+2024-05-26T22:57:38+00:00,1225822947,1225822817,1,Khedive101,Farouk of Egypt,
+2024-05-26T22:56:30+00:00,1225822817,1225822212,1,Khedive101,Farouk of Egypt,
+2023-11-22T05:49:36+00:00,1186297773,1142804815,1,Khedive101,Qubbat Afandina,/* Description */
+2023-11-22T05:45:09+00:00,1186297292,1186296441,1,Khedive101,Al-Rifa'i Mosque,/* Burials */
+2023-11-22T05:37:03+00:00,1186296441,1186296359,1,Khedive101,Al-Rifa'i Mosque,/* Burials */
+2023-11-22T05:36:23+00:00,1186296359,1185095807,1,Khedive101,Al-Rifa'i Mosque,/* Burials */
+2023-11-11T04:44:43+00:00,1184559822,1175405241,1,Khedive101,Farida of Egypt,
+2023-11-11T04:43:42+00:00,1184559695,1182441626,1,Khedive101,Nazli Sabri,
+2023-10-05T12:22:05+00:00,1178718062,1173198648,1,Khedive101,Neslişah Sultan (daughter of Şehzade Ömer Faruk),
+2023-10-05T12:20:25+00:00,1178717892,1159215412,1,Khedive101,Hanzade Sultan (daughter of Şehzade Ömer Faruk),
+2023-10-05T12:00:56+00:00,1178715972,1159215313,1,Khedive101,Necla Sultan,
+2023-09-10T00:30:33+00:00,1174673964,1174360875,1,Khedive101,Kingdom of Egypt,The King was head of state only and was not allowed to interfere in the affairs of the government.
+2023-09-03T21:39:12+00:00,1173685726,1173685637,1,Khedive101,Isma'il Pasha of Egypt,
+2023-09-03T21:38:47+00:00,1173685637,1171593817,1,Khedive101,Isma'il Pasha of Egypt,
+2023-07-26T13:11:06+00:00,1167223351,1167101944,1,Khedive101,Wikipedia:Templates for discussion/Log/2023 July 24,/* Template:House of Alawiyya */ Reply
+2023-06-22T18:33:23+00:00,1161439783,1155609975,1,Khedive101,User talk:Khedive101,
+2023-06-22T15:09:15+00:00,1161414447,1161414095,1,Khedive101,Muhammad Ali dynasty,Undid revision 1161414095 by [[Special:Contributions/Lezhjani1444|Lezhjani1444]] ([[User talk:Lezhjani1444|talk]])
+2023-06-22T12:55:01+00:00,1161399474,1161399254,1,Khedive101,Muhammad Ali dynasty,
+2023-06-22T12:52:31+00:00,1161399254,1161398411,1,Khedive101,Muhammad Ali dynasty,
+2023-06-22T12:43:16+00:00,1161398411,1161398285,1,Khedive101,Muhammad Ali dynasty,
+2023-06-22T12:42:34+00:00,1161398360,1161007782,1,Khedive101,House of Alawiyya,Undid revision 1161007782 by [[Special:Contributions/BoyTheKingCanDance|BoyTheKingCanDance]] ([[User talk:BoyTheKingCanDance|talk]])
+2023-06-22T12:41:42+00:00,1161398285,1160901432,1,Khedive101,Muhammad Ali dynasty,Undid revision 1160901432 by [[Special:Contributions/Ktrimi991|Ktrimi991]] ([[User talk:Ktrimi991|talk]])
+2023-06-19T19:50:40+00:00,1160963553,1160905218,1,Khedive101,House of Alawiyya,Undid revision 1160905218 by [[Special:Contributions/Fram|Fram]] ([[User talk:Fram|talk]])
+2023-06-19T11:44:13+00:00,1160901143,1160901041,1,Khedive101,House of Alawiyya,Undid revision 1160900815 by [[Special:Contributions/BoyTheKingCanDance|BoyTheKingCanDance]] ([[User talk:BoyTheKingCanDance|talk]])
+2023-06-19T11:43:03+00:00,1160901041,1160901000,1,Khedive101,House of Alawiyya,Undid revision 1160901000 by [[Special:Contributions/Khedive101|Khedive101]] ([[User talk:Khedive101|talk]])
+2023-06-19T11:42:39+00:00,1160901000,1160900815,1,Khedive101,House of Alawiyya,
+2023-06-19T11:39:36+00:00,1160900696,1160900526,1,Khedive101,House of Alawiyya,
+2023-06-19T11:37:53+00:00,1160900526,0,1,Khedive101,House of Alawiyya,[[WP:AES|←]]Created page with '{{Short description|Royal dynasty of Middle East/Northern Africa}} {{Royal house | surname = House of Alawiyya | estates = {{List collapsed|title=''See list'' |[[Abdeen Palace]] |[[Bulaq Palace]] |[[Mena House]] |[[Zaafarana Palace]] |[[El Walda Pasha Palace]] |[[Shubra Palace]] |[[Al-Gawhara Palace]] |[[Gezirah Palace]] |[[Manial Palace]] |[[Koubbeh Palace]] |[[Tahra Palace]] |[[Princess Fatma Al-Zahra' Palace]] |[[Prince Amr Ibrahim Palace]] |Montaza Pa...'
+2023-06-19T11:37:23+00:00,1160900483,1160900424,1,Khedive101,Muhammad Ali dynasty,Undid revision 1158406960 by [[Special:Contributions/Maleschreiber|Maleschreiber]] ([[User talk:Maleschreiber|talk]])
+2023-06-19T11:36:47+00:00,1160900424,1160630103,1,Khedive101,Muhammad Ali dynasty,Undid revision 1160630103 by [[Special:Contributions/59.103.113.16|59.103.113.16]] ([[User talk:59.103.113.16|talk]])
+2023-06-03T21:34:34+00:00,1158403022,1158402792,1,Khedive101,Muhammad Ali dynasty,
+2023-06-03T21:32:32+00:00,1158402792,1157258393,1,Khedive101,Muhammad Ali dynasty,Undid revision 1157258393 by [[Special:Contributions/Lezhjani1444|Lezhjani1444]] ([[User talk:Lezhjani1444|talk]])
+2023-05-27T01:35:58+00:00,1157202807,1155610901,1,Khedive101,Muhammad Ali dynasty,Undid revision 1155610901 by [[Special:Contributions/Ktrimi991|Ktrimi991]] ([[User talk:Ktrimi991|talk]])
+2023-05-18T22:46:14+00:00,1155603362,1155559439,1,Khedive101,Muhammad Ali dynasty,Undid revision 1155559439 by [[Special:Contributions/Lezhjani1444|Lezhjani1444]] ([[User talk:Lezhjani1444|talk]])
+2023-05-18T13:29:52+00:00,1155510858,1155157207,1,Khedive101,Muhammad Ali dynasty,Undid revision 1155157207 by [[Special:Contributions/Lezhjani1444|Lezhjani1444]] ([[User talk:Lezhjani1444|talk]]) (This is a more clear version)
+2023-05-16T21:15:14+00:00,1155135806,1155050940,1,Khedive101,Muhammad Ali dynasty,Undid revision 1155050940 by [[Special:Contributions/Βατο|Βατο]] ([[User talk:Βατο|talk]])
+2023-05-15T22:52:23+00:00,1154982783,1154982757,1,Khedive101,Muhammad Ali dynasty,Undid revision 1154869006 by [[Special:Contributions/Maleschreiber|Maleschreiber]] ([[User talk:Maleschreiber|talk]])
+2023-05-15T22:52:10+00:00,1154982757,1154869052,1,Khedive101,Muhammad Ali dynasty,Undid revision 1154869052 by [[Special:Contributions/Maleschreiber|Maleschreiber]] ([[User talk:Maleschreiber|talk]])
+2023-05-14T14:32:05+00:00,1154765880,1154765844,1,Khedive101,Muhammad Ali dynasty,Undid revision 1154739531 by [[Special:Contributions/Βατο|Βατο]] ([[User talk:Βατο|talk]])
+2023-05-14T14:31:44+00:00,1154765844,1154757410,1,Khedive101,Muhammad Ali dynasty,Undid revision 1154757410 by [[Special:Contributions/Lezhjani1444|Lezhjani1444]] ([[User talk:Lezhjani1444|talk]])
+2023-05-14T01:26:27+00:00,1154686660,1154686329,1,Khedive101,Muhammad Ali dynasty,Undid revision 1154341761 by [[Special:Contributions/2A02:2908:4100:BD10:29EE:C591:89C3:F0C3|2A02:2908:4100:BD10:29EE:C591:89C3:F0C3]] ([[User talk:2A02:2908:4100:BD10:29EE:C591:89C3:F0C3|talk]])
+2023-05-14T01:22:57+00:00,1154686329,1154686282,1,Khedive101,Muhammad Ali dynasty,Undid revision 1154342041 by [[Special:Contributions/Maleschreiber|Maleschreiber]] ([[User talk:Maleschreiber|talk]])
+2023-05-14T01:22:32+00:00,1154686282,1154686252,1,Khedive101,Muhammad Ali dynasty,Undid revision 1154342086 by [[Special:Contributions/Maleschreiber|Maleschreiber]] ([[User talk:Maleschreiber|talk]])
+2023-05-14T01:22:19+00:00,1154686252,1154342299,1,Khedive101,Muhammad Ali dynasty,Undid revision 1154342299 by [[Special:Contributions/2A02:2908:4100:BD10:29EE:C591:89C3:F0C3|2A02:2908:4100:BD10:29EE:C591:89C3:F0C3]] ([[User talk:2A02:2908:4100:BD10:29EE:C591:89C3:F0C3|talk]])
+2023-05-12T01:53:40+00:00,1154373570,1145653925,1,Khedive101,Princess Fathia of Egypt,
+2023-05-12T01:53:22+00:00,1154373528,1145133373,1,Khedive101,Princess Faika of Egypt,
+2023-05-12T01:53:03+00:00,1154373485,1153467952,1,Khedive101,Princess Faiza of Egypt,
+2023-05-12T01:51:19+00:00,1154373287,1153125534,1,Khedive101,Fawzia of Egypt,
+2023-04-22T15:40:04+00:00,1151207481,1149971736,1,Khedive101,Meze,
+2023-04-15T06:18:20+00:00,1149909877,1149909824,1,Khedive101,Abbas II of Egypt,
+2023-04-15T06:17:49+00:00,1149909824,1149909782,1,Khedive101,Abbas II of Egypt,
+2023-04-15T06:17:26+00:00,1149909782,1147458947,1,Khedive101,Abbas II of Egypt,
+2023-04-09T00:28:56+00:00,1148902011,1148901828,1,Khedive101,Kingdom of Egypt,
+2023-04-09T00:27:43+00:00,1148901828,1146398073,1,Khedive101,Kingdom of Egypt,
+2023-02-20T16:42:22+00:00,1140555780,1140364539,1,Khedive101,Fuad I of Egypt,
+2023-02-20T04:37:22+00:00,1140459524,1140385362,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:42:22+00:00,1140385362,1140384816,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:39:40+00:00,1140384816,1140384537,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:38:06+00:00,1140384537,1140384172,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:36:01+00:00,1140384172,1140383879,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:34:19+00:00,1140383879,1140383080,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:29:33+00:00,1140383080,1140383056,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:29:23+00:00,1140383056,1140382267,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:24:30+00:00,1140382267,1140379686,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:08:02+00:00,1140379686,1140379185,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T21:04:54+00:00,1140379185,1140376589,1,Khedive101,Muhammad Ali dynasty,Undid revision 1140376589 by [[Special:Contributions/Khedive101|Khedive101]] ([[User talk:Khedive101|talk]])
+2023-02-19T20:50:16+00:00,1140376589,1140369945,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T20:11:44+00:00,1140369945,1126081606,1,Khedive101,Muhammad Ali dynasty,
+2023-02-19T19:57:27+00:00,1140367324,1139186312,1,Khedive101,Fuad II of Egypt,
+2023-02-19T19:48:41+00:00,1140365730,1138424309,1,Khedive101,Farouk of Egypt,
+2023-02-19T19:41:31+00:00,1140364539,1140364238,1,Khedive101,Fuad I of Egypt,
+2023-02-19T19:39:57+00:00,1140364238,1139826746,1,Khedive101,Fuad I of Egypt,
+2023-02-19T19:18:55+00:00,1140360367,1140359858,1,Khedive101,Kingdom of Egypt,
+2023-02-19T19:15:41+00:00,1140359858,1140359294,1,Khedive101,Kingdom of Egypt,
+2023-02-19T19:12:14+00:00,1140359294,1140357560,1,Khedive101,Kingdom of Egypt,
+2023-02-19T19:01:50+00:00,1140357560,1140357420,1,Khedive101,Kingdom of Egypt,
+2023-02-19T19:01:03+00:00,1140357420,1140356832,1,Khedive101,Kingdom of Egypt,
+2023-02-19T18:57:31+00:00,1140356832,1138433415,1,Khedive101,Kingdom of Egypt,
+2022-09-05T01:39:05+00:00,1108548626,1074200811,1,Khedive101,Smouha,
+2022-05-31T21:12:47+00:00,1090867304,1081611013,1,Khedive101,List of monarchies,/* Unitary constitutional monarchies */
+2023-06-22T15:58:15+00:00,1161420608,1155609976,1,Egyptthegreat,User talk:Egyptthegreat,Reason for unblock
+2023-05-18T22:56:26+00:00,1155605061,1155603916,1,Egyptthegreat,Muhammad Ali dynasty,Undid revision 1155603916 by [[Special:Contributions/Ktrimi991|Ktrimi991]] ([[User talk:Ktrimi991|talk]])
+2022-08-12T20:25:38+00:00,1104120919,1092393248,0,Robertus Pius,Abbas I of Egypt,Removing unnecessary image
+2024-01-23T14:39:18+00:00,1198232610,1197715892,0,Dawnseeker2000,Abbas I of Egypt,"date format audit, link maintenance, minor formatting"
+2022-10-09T17:17:38+00:00,1115064924,1114418713,0,Rlink2,Abbas II of Egypt,/* Honours */Adding archives [[WP:LINKROT]]
+2022-06-10T01:22:14+00:00,1092393248,1087006142,0,GreenC bot,Abbas I of Egypt,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-10-05T03:09:43+00:00,1114155876,1109656406,0,Dicklyon,Abbas I of Egypt,rm comma per [[MOS:JR]] and sfn fixes (via [[WP:JWB]])
+2023-08-21T12:50:05+00:00,1171494789,1166992372,0,Ecrm87,Abbas I of Egypt,Link cleanup
+2023-06-01T12:51:27+00:00,1158016726,1154088795,0,Philotam,Abbas II of Egypt,
+2024-02-19T06:22:53+00:00,1208854896,1208767987,0,Citation bot,Al-Rifa'i Mosque,Added title. Changed bare reference to CS1/2. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Jay8g | [[Category:Articles with bare URLs for citations from February 2024]] | #UCB_Category 281/362
+2023-06-06T03:48:32+00:00,1158771044,1142793590,0,Nobel X300,Al-Rifa'i Mosque,Fixing style/layout errors
+2023-09-18T21:29:46+00:00,1176009677,1175435854,0,Onel5969,Al-Rifa'i Mosque,Disambiguating links to [[Mehmed Ali Pasha]] (link changed to [[Muhammad Ali of Egypt]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-03-12T02:55:17+00:00,1144150602,1144150477,0,2600:4040:7F91:9400:70EC:CF5C:F7FE:A766,Abbas I of Egypt,
+2022-09-03T11:26:31+00:00,1108257921,1107155625,0,Aciram,Abbas II of Egypt,added [[Category:Slave owners]] using [[WP:HC|HotCat]]
+2024-01-09T22:10:32+00:00,1194616107,1191854601,0,Aciram,Abbas II of Egypt,removed [[Category:Muhammad Ali dynasty]]; added [[Category:Muhammad Ali dynasty monarchs]] using [[WP:HC|HotCat]]
+2024-01-26T09:04:34+00:00,1199185290,1195244261,0,Chongkian,Al-Rifa'i Mosque,more specific location
+2021-01-28T00:25:52+00:00,1003225271,997600921,0,Aciram,Ayn al-Hayat Ahmad,removed [[Category:Princesses]]; added [[Category:Egyptian princesses]] using [[WP:HC|HotCat]]
+2024-01-09T22:39:01+00:00,1194621743,1191748426,0,Aciram,Ayn al-Hayat Ahmad,−[[Category:Egyptian princesses]]; ±[[Category:Muhammad Ali dynasty]]→[[Category:Muhammad Ali dynasty princesses]] using [[WP:HC|HotCat]]
+2023-01-18T14:50:47+00:00,1134408085,1125151535,0,Citation bot,Emina Ilhamy,Alter: pages. Formatted [[WP:ENDASH|dashes]]. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 3332/3850
+2022-12-02T13:03:03+00:00,1125151535,1122313130,0,DrAfeefa,Emina Ilhamy,
+2023-02-22T17:54:27+00:00,1140966247,1140965887,0,Pburka,Emina Ilhamy,Remove peacock warning; no obvious issues remain
+2023-12-20T05:17:40+00:00,1190846561,1190845606,0,Retrieverlove,Emina Ilhamy,/* Sources */
+2023-08-04T23:33:48+00:00,1168777946,1166992374,0,Smasongarrison,Emina Ilhamy,+[[Category:Women slave owners]]; +[[Category:19th-century Egyptian people]]; ±[[Category:Arab slave owners]]→[[Category:Egyptian slave owners]] using [[WP:HC|HotCat]]
+2024-01-10T02:18:31+00:00,1194653488,1194652947,0,Aciram,Emina Ilhamy,removed [[Category:Consorts of the Muhammad Ali dynasty]]; added [[Category:Wives of Muhammad Ali dynasty monarchs]] using [[WP:HC|HotCat]]
+2022-08-10T11:23:20+00:00,1103639488,1100964966,0,Amal Aboelmagd,Emina Ilhamy,New Source added
+2022-09-03T11:26:51+00:00,1108257954,1105233377,0,Aciram,Emina Ilhamy,added [[Category:Slave owners]] using [[WP:HC|HotCat]]
+2023-09-14T20:21:39+00:00,1175405241,1169195117,0,JJMC89 bot III,Farida of Egypt,Moving [[:Category:Egyptian queens consort]] to [[:Category:Queens consort of Egypt]] per [[Wikipedia:Categories for discussion/Speedy]]
+2022-05-28T21:17:50+00:00,1090320055,1071183382,0,Rathfelder,Emina Ilhamy,removed [[Category:People from Istanbul]]; added [[Category:Royalty from Istanbul]] using [[WP:HC|HotCat]]
+2023-04-23T17:35:11+00:00,1151378457,1151378424,0,2600:1700:BC01:9B0:7C3F:4F08:5643:2C39,Farida of Egypt,/* Queenship and public role */
+2023-06-19T12:23:04+00:00,1160904859,1151378457,0,Snowstormfigorion,Farida of Egypt,
+2023-03-24T20:38:43+00:00,1146428276,1145131161,0,Robertus Pius,Farouk of Egypt,Replaced terrible lead image
+2023-12-30T11:45:03+00:00,1192623419,1187524812,0,Ciaopigi,Farouk of Egypt,Grammar corrections
+2024-02-02T18:48:10+00:00,1202421268,1199995936,0,Noosh155,Farouk of Egypt,
+2022-11-19T10:18:20+00:00,1122735187,1120762196,0,2001:FB1:AA:A0EE:FC63:FA5F:A1FD:4C30,Farouk of Egypt,/* External links */
+2023-01-19T21:12:54+00:00,1134657714,1134552632,0,Dl2000,Farouk of Egypt,Reverted edits by [[Special:Contribs/2600:1700:4BA0:AD00:F8E4:7913:AB9B:7104|2600:1700:4BA0:AD00:F8E4:7913:AB9B:7104]] ([[User talk:2600:1700:4BA0:AD00:F8E4:7913:AB9B:7104|talk]]) to last version by DrKay
+2023-10-15T21:41:33+00:00,1180317379,1180316760,0,Masry684,Farouk of Egypt,Photo
+2022-07-28T10:26:35+00:00,1100921786,1100921738,0,Tigernose,Fawzia of Egypt,/* Life */
+2023-01-23T14:59:57+00:00,1135253028,1134279218,0,FMSky,Fawzia of Egypt,Reverted 1 edit by [[Special:Contributions/41.232.138.224|41.232.138.224]] ([[User talk:41.232.138.224|talk]]) to last revision by 2601:249:9301:D570:A50A:B9D9:C319:A5D6
+2023-04-07T21:07:56+00:00,1148715347,1147638824,0,92.239.103.64,Farouk of Egypt,
+2024-02-02T13:54:22+00:00,1202323599,1199995100,0,UtherSRG,Fuad I of Egypt,Reverted edits by [[Special:Contribs/Векочел|Векочел]] ([[User talk:Векочел|talk]]) to last version by Uhooep
+2023-12-13T14:05:53+00:00,1189708372,1189708332,0,Keivan.f,Fuad I of Egypt,/* Personal life */
+2023-03-24T20:43:06+00:00,1146428849,1145643776,0,Robertus Pius,Fuad I of Egypt,/* Personal life */ Added image
+2022-07-28T04:49:14+00:00,1100878016,1100877876,0,MB,Fuad I of Egypt,Copyedit (minor)
+2023-02-22T16:31:59+00:00,1140953385,1140387785,0,197.39.168.206,Farouk of Egypt,
+2023-12-23T18:33:10+00:00,1191463638,1189708372,0,Cesias7,Fuad I of Egypt,Added image
+2022-08-22T21:13:50+00:00,1106018345,1106018189,0,Spicemix,Farouk of Egypt,/* Exile and death */ lc
+2023-05-25T10:29:02+00:00,1156940744,1153705948,0,MrOllie,Fuad I of Egypt,citespam
+2022-09-28T01:12:13+00:00,1112767861,1111045084,0,One-Winged Devil,Farouk of Egypt,/* Decline */
+2023-09-26T16:36:29+00:00,1177198318,1176420443,0,Skuipers,Fuad II of Egypt,typo
+2022-06-07T10:53:31+00:00,1091952016,1086024774,0,Rathfelder,Fuad II of Egypt,removed [[Category:People from Cairo]]; added [[Category:Royalty from Cairo]] using [[WP:HC|HotCat]]
+2022-06-09T12:59:18+00:00,1092302360,1088433656,0,Rodw,Hoshiyar Qadin,Disambiguating links to [[Consort]] (link changed to [[Queen consort]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-08-05T08:54:25+00:00,1168829951,1168829853,0,Egeymi,Hoshiyar Qadin,/* Sources */ books have publication years; added location
+2024-05-06T22:25:53+00:00,1222609387,1222608164,0,B255555555,Hoshiyar Qadin,
+2022-07-19T11:18:30+00:00,1099178484,1090167610,0,WinstonSmith22,Hanzade Sultan (daughter of Şehzade Ömer Faruk),
+2022-07-24T16:33:01+00:00,1100186698,1092302360,0,اقبال کا شاہین,Hoshiyar Qadin,
+2023-05-13T15:43:43+00:00,1154613074,1149044260,0,2601:249:9301:D570:188C:1768:6852:6681,Hoshiyar Qadin,/* Sources */
+2022-10-08T21:41:26+00:00,1114904375,1113409181,0,JJMC89 bot III,Hoshiyar Qadin,Moving [[:Category:People of the Ottoman Empire of Circassian descent]] to [[:Category:People from the Ottoman Empire of Circassian descent]] per [[Wikipedia:Categories for discussion/Speedy]]
+2023-06-22T12:46:27+00:00,1161398672,1161398360,0,BoyTheKingCanDance,House of Alawiyya,Restored revision 1161007782 by [[Special:Contributions/BoyTheKingCanDance|BoyTheKingCanDance]] ([[User talk:BoyTheKingCanDance|talk]]): All unreferenced
+2023-04-17T01:22:42+00:00,1150237074,1149705148,0,Gou388,Ibrahim Pasha of Egypt,
+2023-12-05T22:17:21+00:00,1188511702,1185673809,0,Crimsonalfred2022,Ibrahim Pasha of Egypt,
+2023-03-12T02:51:34+00:00,1144150218,1144150108,0,2600:4040:7F91:9400:70EC:CF5C:F7FE:A766,Ibrahim Pasha of Egypt,
+2023-11-09T20:30:20+00:00,1184338908,1180949463,0,Masry684,Ibrahim Pasha of Egypt,Occupation
+2022-12-01T06:43:45+00:00,1124923189,1124411223,0,Aintabli,Ibrahim Pasha of Egypt,
+2023-08-21T13:00:53+00:00,1171495916,1170886482,0,Ecrm87,Ibrahim Pasha of Egypt,Link cleanup
+2023-11-18T08:19:00+00:00,1185673809,1184338908,0,JJMC89 bot III,Ibrahim Pasha of Egypt,Moving [[:Category:Ottoman slave owners]] to [[:Category:Slave owners from the Ottoman Empire]] per [[Wikipedia:Categories for discussion/Speedy]]
+2022-12-09T20:49:54+00:00,1126525816,1124923189,0,Based.shqiptar.frompirok,Ibrahim Pasha of Egypt,He wasn't Turkish
+2023-11-25T03:02:09+00:00,1186729559,1167482617,0,Smasongarrison,Ikbal Hanim,Copying from [[Category:19th-century Egyptian women]] to [[Category:19th-century Egyptian people]] Diffusing per [[WP:DIFFUSE]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2023-04-10T10:23:38+00:00,1149126890,1127113038,0,Ann0882511000,Ikbal Hanim,
+2022-02-04T19:10:36+00:00,1069920015,1044308681,0,Qwerfjkl (bot),Ikbal Hanim,"Capitalising short description ""first wife of Abbas II, last Khedive of Egypt and Sudan (1876-1941)"" per [[WP:SDFORMAT]] (via [[de:Benutzer:Schnark/js/bandersnatch|Bandersnatch]])"
+2023-04-13T16:49:05+00:00,1149661874,1144466590,0,ArbieP,Isma'il Pasha of Egypt,extended EB1911 with volume and page details; moved wikimedia commons link down
+2022-12-04T14:39:24+00:00,1125537178,1125537107,0,Egeymi,Isma'il Pasha of Egypt,
+2023-01-13T22:27:08+00:00,1133458696,1131991742,0,M. Armando,Isma'il Pasha of Egypt,M. Armando moved page [[Isma'il Pasha]] to [[Isma'il Pasha of Egypt]]
+2024-03-09T16:34:23+00:00,1212794231,1212138706,0,Arberian2444,Isma'il Pasha of Egypt,/* Family */
+2023-12-07T06:28:58+00:00,1188716607,1188716228,0,Retrieverlove,Isma'il Pasha of Egypt,
+2023-05-17T16:59:03+00:00,1155318615,1153265663,0,إيان,Isma'il Pasha of Egypt,added [[Category:Bulaq Press people]] using [[WP:HC|HotCat]]
+2022-10-19T06:06:27+00:00,1116954356,1114904285,0,InternetArchiveBot,Isma'il Pasha of Egypt,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.2) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 10967
+2022-12-01T11:29:30+00:00,1124950411,1124239664,0,Jonarin56,Isma'il Pasha of Egypt,
+2022-12-19T18:10:36+00:00,1128353037,1128352347,0,OgamD218,Isma'il Pasha of Egypt,Fixed grammar
+2022-09-03T11:25:45+00:00,1108257848,1104120802,0,Aciram,Isma'il Pasha of Egypt,added [[Category:Slave owners]] using [[WP:HC|HotCat]]
+2024-05-13T06:22:01+00:00,1223603802,1218748857,0,OAbot,Isma'il Pasha of Egypt,[[Wikipedia:OABOT|Open access bot]]: hdl updated in citation with #oabot.
+2022-10-31T23:03:18+00:00,1119323007,1041876949,0,Huldra,Jananiyar Hanim,/* Sources */ add book
+2024-05-14T14:47:58+00:00,1223814284,1196682554,0,B255555555,Jananiyar Hanim,
+2021-09-02T01:43:17+00:00,1041876949,1041875518,0,Aciram,Jananiyar Hanim,added [[Category:19th-century Egyptian women]] using [[WP:HC|HotCat]]
+2022-07-15T11:38:24+00:00,1098349525,1098349423,0,196.159.5.97,Javidan Hanim,
+2023-12-24T16:46:17+00:00,1191617193,1191615528,0,Retrieverlove,Jananiyar Hanim,
+2024-01-22T01:45:01+00:00,1197816336,1194653465,0,Eejit43Bot,Javidan Hanim,"[Task 2] Fix improperly capitalized section headers, general fixes"
+2024-01-18T04:49:51+00:00,1196682554,1196682384,0,Johnpacklambert,Jananiyar Hanim,
+2023-07-08T20:32:19+00:00,1164327731,1161384748,0,176.61.232.93,Javidan Hanim,
+2022-12-04T01:10:03+00:00,1125441661,1125425488,0,Bruce1ee,Jeshm Afet Hanim,fixed [[Special:LintErrors|lint errors]] – file options
+2021-09-02T01:43:34+00:00,1041876976,1034005675,0,Aciram,Jeshm Afet Hanim,added [[Category:19th-century Egyptian women]] using [[WP:HC|HotCat]]
+2024-02-01T00:03:59+00:00,1201588832,1199266709,0,Cornmazes,Jeshm Afet Hanim,
+2022-10-07T21:00:31+00:00,1114701494,1041876976,0,Citation bot,Jeshm Afet Hanim,Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 424/643
+2022-08-03T09:50:32+00:00,1102094670,1102094617,0,41.238.144.25,Kingdom of Egypt,
+2023-06-18T16:52:11+00:00,1160765853,1160761929,0,Chipmunkdavis,Kingdom of Egypt,Reverted edit by [[Special:Contribs/198.38.50.46|198.38.50.46]] ([[User talk:198.38.50.46|talk]]) to last version by MrOllie
+2023-02-20T01:36:48+00:00,1140430380,1140360367,0,Vif12vf,Kingdom of Egypt,Restored revision 1138433415 by [[Special:Contributions/Art LaPella|Art LaPella]] ([[User talk:Art LaPella|talk]])
+2024-02-14T12:40:58+00:00,1207290864,1199301952,0,Karma1998,Kingdom of Egypt,/* Post-war period */
+2024-04-14T21:28:43+00:00,1218952668,1218952606,0,Mikeyspeed7,Kingdom of Egypt,
+2023-03-03T02:25:39+00:00,1142555283,1142075276,0,Mazenmira,Kingdom of Egypt,/* Aftermath of World War I */ adding source
+2024-03-01T13:39:19+00:00,1211227712,1211227634,0,96.241.136.123,Kingdom of Egypt,
+2023-08-26T14:38:23+00:00,1172351102,1171542365,0,Galoni,Kingdom of Egypt,Replacement of the hymn version with a better one.
+2022-12-03T16:52:06+00:00,1125365263,1120342836,0,2A02:214A:8114:A400:D984:6CBF:82F9:A0A1,Kingdom of Egypt,
+2023-10-04T02:27:38+00:00,1178503415,1178503129,0,Jheeeeeeteegh,Kingdom of Egypt,/* World War II */
+2023-12-09T04:36:47+00:00,1189019932,1188679933,0,Citation bot,Kingdom of Egypt,Add: publisher. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Former kingdoms]] | #UCB_Category 149/400
+2023-06-30T20:02:50+00:00,1162726994,1162726695,0,AustinC2002,Kingdom of Egypt,Corrected my own edit
+2022-11-06T14:03:34+00:00,1120342836,1113410110,0,5.215.13.232,Kingdom of Egypt,/* See also */
+2023-05-21T19:00:42+00:00,1156209769,1155800839,0,Esperfulmo,Kingdom of Egypt,it has never been legally nor popularly called or thought of as a  Arab republic at the time.
+2022-06-19T02:03:18+00:00,1093830524,1093151848,0,Sangjinhwa,List of monarchies,
+2023-02-28T10:53:01+00:00,1142075276,1140430380,0,Dewritech,Kingdom of Egypt,"clean up, [[WP:AWB/T|typo(s) fixed]]: 20 pound → 20-pound, 1950’s → 1950s"
+2023-07-12T18:26:27+00:00,1165052627,1163209398,0,109.161.164.159,List of monarchies,/* Middle Ages and Renaissance */
+2024-01-10T02:19:24+00:00,1194653592,1194652997,0,Aciram,Melek Tourhan,removed [[Category:Consorts of the Muhammad Ali dynasty]]; added [[Category:Wives of Muhammad Ali dynasty monarchs]] using [[WP:HC|HotCat]]
+2022-10-18T21:24:33+00:00,1116888785,1114904404,0,Franzy89,Melek Tourhan,
+2023-03-25T02:30:23+00:00,1146470587,1129339952,0,Citation bot,Melek Tourhan,Misc citation tidying. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine
+2023-06-19T14:54:12+00:00,1160921564,1160921511,0,Derek-airtken,Meze,
+2023-07-19T10:06:20+00:00,1166097605,1165589563,0,WikiCleanerBot,Meze,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2023-03-01T06:28:20+00:00,1142230864,1141608809,0,TypistMonkey,Mohammed Ali Tewfik,Added Category:Non-inheriting heirs presumptive
+2023-04-17T14:36:29+00:00,1150329354,1146736838,0,The Madras,Mohammed Ali Tewfik,adding link
+2024-02-23T23:05:21+00:00,1209871188,1194617170,0,Векочел,Mohammed Ali Tewfik,added [[Category:Sons of monarchs]] using [[WP:HC|HotCat]]
+2022-03-30T21:30:31+00:00,1080201928,1080201329,0,81.40.103.148,Mohammed Ali Tewfik,/* Personal life and wealth */
+2023-06-23T23:11:55+00:00,1161623162,1161009371,0,Leyo,Mohammed Ali Tewfik,fix
+2022-08-15T13:35:37+00:00,1104525686,1104525593,0,GoodDay,Mohammed Ali Tewfik,
+2023-10-19T14:49:12+00:00,1180899541,1180848646,0,Edward321,Muhammad Ali dynasty,rv to better version
+2022-09-11T15:54:00+00:00,1109732763,1109732396,0,79.106.24.114,Muhammad Ali dynasty,/* Introduction */
+2023-06-03T22:08:00+00:00,1158406960,1158403022,0,Maleschreiber,Muhammad Ali dynasty,rv
+2023-08-21T17:28:06+00:00,1171528412,1163720679,0,WOSlinker,Muhammad Ali dynasty,fix small tag
+2023-02-28T00:54:40+00:00,1142004463,1140657041,0,Momofromparis,Muhammad Ali dynasty,/* Family tree */
+2022-05-29T03:02:03+00:00,1090362314,1090362221,0,GoingBatty,Muhammad Ali dynasty,"[[WP:AWB/GF|General fixes]] & manual cleanup, replaced: [[1769]] → 1769 (27)"
+2023-07-06T07:36:58+00:00,1163720679,1162246647,0,John of Reading,Muhammad Ali dynasty,"/* Introduction */Typo fixing, replaced: honourific → honorific - standard spelling in both US and UK English"
+2023-10-20T11:42:01+00:00,1181029040,1181028981,0,Toptanazikov,Muhammad Ali dynasty,There's nothing to be confused about; there's clear difference between both dynasties
+2023-11-04T17:01:59+00:00,1183490142,1181029040,0,Ö Fawzia ö,Muhammad Ali dynasty,/* Non-ruling members */
+2022-08-02T10:09:23+00:00,1101892896,1101892005,0,197.156.77.151,Muhammad Ali dynasty,
+2022-12-07T12:01:44+00:00,1126081606,1125609775,0,2A02:85F:E848:49CA:70FE:B9FB:EB81:1658,Muhammad Ali dynasty,
+2024-04-04T19:55:58+00:00,1217263129,1214598928,0,18Carlox32,Muhammad Ali dynasty,
+2022-07-17T12:15:26+00:00,1098770293,1097123375,0,Sauce5544,Muhammad Ali dynasty,
+2024-04-18T17:32:15+00:00,1219591063,1217263129,0,German2000,Muhammad Ali dynasty,
+2023-05-18T23:31:46+00:00,1155610901,1155605061,0,Ktrimi991,Muhammad Ali dynasty,Reverted 1 edit by [[Special:Contributions/Egyptthegreat|Egyptthegreat]] ([[User talk:Egyptthegreat|talk]]) to last revision by Ktrimi991
+2024-03-19T23:13:21+00:00,1214598928,1212272154,0,Citation bot,Muhammad Ali dynasty,"Alter: title, url. URLs might have been anonymized. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 810/3850"
+2023-06-22T15:10:51+00:00,1161414623,1161414447,0,Durraz0,Muhammad Ali dynasty,Undid revision 1161414447 by [[Special:Contributions/Khedive101|Khedive101]] ([[User talk:Khedive101|talk]]) rv
+2023-05-16T23:31:25+00:00,1155157207,1155135806,0,Lezhjani1444,Muhammad Ali dynasty,Undid revision 1155135806 by [[Special:Contributions/Khedive101|Khedive101]] ([[User talk:Khedive101|talk]]) This issue has been clarified on numerous occassions
+2024-03-07T00:27:56+00:00,1212272154,1211874996,0,Βατο,Muhammad Ali dynasty,add
+2023-05-27T12:13:24+00:00,1157258393,1157202807,0,Lezhjani1444,Muhammad Ali dynasty,Undid revision 1157202807 by [[Special:Contributions/Khedive101|Khedive101]] ([[User talk:Khedive101|talk]])
+2023-09-29T13:21:13+00:00,1177767773,1177767726,0,Sundostund,Muhammad Ali dynasty,
+2022-07-08T20:33:46+00:00,1097123375,1094882198,0,El-Beheri,Muhammad Ali dynasty,/* Family tree */ removed accents and fixed spellings
+2023-03-05T03:18:02+00:00,1142939942,1142930450,0,C.Fred,Muhammad Ali of Egypt,Undid revision 1142930450 by [[Special:Contributions/Tob1rama272|Tob1rama272]] ([[User talk:Tob1rama272|talk]]) - not a separate religion
+2023-01-21T03:43:18+00:00,1134867554,1134528126,0,Yabroq,Muhammad Ali of Egypt,"/* Role in the Arabic literary renaissance */ absolute rich comparison, translation of Napoleonic code incomparable to mammoth task of trans of complex works of Galen, Hippocrates, Aristotleans, Almagest"
+2023-05-17T16:57:23+00:00,1155318351,1155058958,0,إيان,Muhammad Ali of Egypt,added [[Category:Bulaq Press people]] using [[WP:HC|HotCat]]
+2024-04-28T09:05:28+00:00,1221173270,1221173097,0,89.216.20.36,Muhammad Ali of Egypt,/* Greek rebellion */
+2022-12-17T20:34:54+00:00,1127993869,1127927733,0,C.Fred,Muhammad Ali of Egypt,Undid revision 1127927733 by [[Special:Contributions/92.184.124.187|92.184.124.187]] ([[User talk:92.184.124.187|talk]]) - poor grammar: please discuss on talk page and get assistance
+2023-08-12T20:05:27+00:00,1170027950,1168316270,0,Sheila1988,Narriman Sadek,ar
+2022-06-09T01:26:58+00:00,1092238472,1092045269,0,WikiCleanerBot,Narriman Sadek,v2.04b - [[User:WikiCleanerBot#T5|Bot T5 CW#16]] - Fix errors for [[WP:WCW|CW project]] (Unicode control characters)
+2024-03-13T14:09:01+00:00,1213511716,1210726503,0,Numberguy6,Narriman Sadek,
+2022-10-09T16:43:36+00:00,1115059492,1096748330,0,InternetArchiveBot,Narriman Sadek,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.2) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 10817
+2023-10-24T17:31:09+00:00,1181696483,1178144916,0,Pedantical,Narriman Sadek,format spouse parameter as list
+2022-12-15T01:26:30+00:00,1127494563,1120763142,0,2601:249:9301:D570:94C8:FDEC:32D0:CDE4,Narriman Sadek,/* External links */
+2023-05-05T18:22:29+00:00,1153341412,1153129976,0,AWESOMEDUDE0614,Muhammad Ali of Egypt,Added confusion template
+2023-08-02T02:09:12+00:00,1168316270,1160904732,0,2008 Dodge Ram,Narriman Sadek,
+2022-04-29T06:31:04+00:00,1085232524,1070863520,0,Dawnseeker2000,Nazli Sabri,"date format audit, refine ref details (access dates are not required for links to published research papers, published books, or news articles with publication dates)"
+2022-12-13T02:25:52+00:00,1127135771,1126526151,0,Neveselbert (mobile),Nazli Sabri,/* Later years */ per [[MOS:JOBTITLES]]
+2022-09-26T19:49:02+00:00,1112528738,1104942878,0,Chuu12,Nazli Sabri,/* Later years */
+2022-07-19T11:21:10+00:00,1099178812,1095111800,0,WinstonSmith22,Necla Sultan,
+2023-08-01T13:16:53+00:00,1168213120,1160427696,0,Smasongarrison,Nazli Sabri,Tidy up centuries; should be 20th century
+2024-05-21T04:19:07+00:00,1224898704,1194620818,0,Yaguzi,Neslişah Sultan (daughter of Şehzade Ömer Faruk),"General cleanup, grammar, etc."
+2023-02-07T11:19:04+00:00,1137981201,1137981178,0,Sira Aspera,Neslişah Sultan (daughter of Şehzade Ömer Faruk),
+2023-05-12T05:02:40+00:00,1154392125,1154373528,0,Egeymi,Princess Faika of Egypt,updated dmy
+2022-05-04T04:46:30+00:00,1086097160,1080494730,0,Egeymi,Necla Sultan,/* References */  added see also section for the summer palace of Necla Sultan named after her husband
+2022-12-13T17:42:35+00:00,1127245464,1127226932,0,Egeymi,Princess Faika of Egypt,fixes
+2023-01-15T10:11:17+00:00,1133753342,1133750535,0,Egeymi,Princess Faiza of Egypt,added wls
+2022-05-18T13:52:43+00:00,1088516920,1085485235,0,Citation bot,Princess Faiza of Egypt,Alter: url. URLs might have been anonymized. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine 1405/2341
+2023-03-20T07:35:08+00:00,1145653925,1145132072,0,Fragrant Peony,Princess Fathia of Egypt,Reverting edit(s) by [[Special:Contributions/2001:FB1:A8:1FB4:599D:114E:8CEF:49C6|2001:FB1:A8:1FB4:599D:114E:8CEF:49C6]] ([[User_talk:2001:FB1:A8:1FB4:599D:114E:8CEF:49C6|talk]]) to rev. 1144869806 by BD2412: non-constructive [[w:en:WP:RW|(RW 16.1)]]
+2024-02-23T23:07:19+00:00,1209871512,1203865274,0,Векочел,Princess Fathia of Egypt,/* References */
+2023-03-04T13:22:14+00:00,1142804815,1080201640,0,Oculi,Qubbat Afandina,/* External links */add category
+2022-03-30T21:27:57+00:00,1080201640,1074331285,0,81.40.103.148,Qubbat Afandina,/* Description */
+2022-05-03T12:13:03+00:00,1085966889,1083743380,0,Chewings72,Sa'id of Egypt,"Adding custom [[Wikipedia:Short description|short description]]: ""Wāli of Egypt and Sudan (1822–1863)"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2023-03-12T02:57:05+00:00,1144150819,1123105127,0,2600:4040:7F91:9400:70EC:CF5C:F7FE:A766,Sa'id of Egypt,
+2023-11-09T19:20:29+00:00,1184330035,1176009688,0,Masry684,Sa'id of Egypt,
+2022-11-21T21:34:18+00:00,1123105127,1108257828,0,2601:640:8982:AE40:212B:FD1B:A255:5994,Sa'id of Egypt,/* Biography */
+2023-09-18T21:29:51+00:00,1176009688,1175708498,0,Onel5969,Sa'id of Egypt,Disambiguating links to [[Mehmed Ali Pasha]] (link changed to [[Muhammad Ali of Egypt]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-05-05T07:14:30+00:00,1153267705,1144150819,0,JJMC89 bot III,Sa'id of Egypt,Moving [[:Category:Grand Croix of the Légion d'honneur]] to [[:Category:Grand Cross of the Legion of Honour]] per [[Wikipedia:Categories for discussion/Speedy]]
+2023-05-13T15:43:24+00:00,1154613022,1127001113,0,2601:249:9301:D570:188C:1768:6852:6681,Shafaq Nur Hanim,/* External links */
+2021-09-02T01:43:51+00:00,1041877003,1041875721,0,Aciram,Shafaq Nur Hanim,added [[Category:19th-century Egyptian women]] using [[WP:HC|HotCat]]
+2023-12-24T16:45:08+00:00,1191617093,1191616953,0,Retrieverlove,Shafaq Nur Hanim,
+2024-03-11T21:23:23+00:00,1213239466,1198293628,0,Swinub,Shafaq Nur Hanim,/* In popular culture */
+2024-05-14T14:53:29+00:00,1223814956,1213239466,0,B255555555,Shafaq Nur Hanim,
+2022-12-12T10:30:14+00:00,1127001113,1041877003,0,The Madras,Shafaq Nur Hanim,added links
+2024-01-23T18:54:12+00:00,1198293628,1194652910,0,JJMC89 bot III,Shafaq Nur Hanim,Moving [[:Category:Egyptian concubines]] to [[:Category:Concubines of Egyptian rulers]] per [[Wikipedia:Categories for discussion/Log/2024 January 8#Category:Egyptian concubines]]
+2023-04-17T23:56:12+00:00,1150401162,1150400270,0,Natg 19,Shehret Feza Hanim,oriental
+2024-01-23T18:54:08+00:00,1198293603,1194621622,0,JJMC89 bot III,Shehret Feza Hanim,Moving [[:Category:Egyptian concubines]] to [[:Category:Concubines of Egyptian rulers]] per [[Wikipedia:Categories for discussion/Log/2024 January 8#Category:Egyptian concubines]]
+2022-12-14T13:05:06+00:00,1127393075,1127393045,0,The Madras,Shehret Feza Hanim,
+2021-01-08T13:25:44+00:00,999095392,997572473,0,156.204.102.45,Shehret Feza Hanim,
+2023-07-27T09:28:03+00:00,1167368361,1164931599,0,188.78.178.184,Shivakiar Ibrahim,/* Marriages */ birth date incorrect
+2024-02-02T13:54:00+00:00,1202323501,1199995440,0,UtherSRG,Shivakiar Ibrahim,Reverted edit by [[Special:Contribs/Векочел|Векочел]] ([[User talk:Векочел|talk]]) to last version by Aciram
+2023-01-02T20:55:12+00:00,1131157296,1131136253,0,AnomieBOT,Smouha,Dating maintenance tags: {{Citation needed}}
+2023-06-14T05:08:49+00:00,1160057583,1158408765,0,Neils51,Smouha,"/* top */replaced: it's  → its, minor ce"
+2023-06-22T16:53:10+00:00,1161427719,1161420608,0,Jpgordon,User talk:Egyptthegreat,Declining unblock request ([[User:Enterprisey/unblock-review|unblock-review]])
+2023-07-24T15:43:07+00:00,1166919770,1161466844,0,Jonesey95,User talk:Khedive101,Notification: [[Wikipedia:Templates for discussion/Log/2023 July 24#Template:House of Alawiyya|listing]] of [[:Template:House of Alawiyya]] at [[WP:Templates for discussion]].
+2021-08-25T04:19:44+00:00,1040534474,1036754355,0,HzgiUU149377,Abbas II of Egypt,/* Honours */
+2023-04-25T20:40:22+00:00,1151719820,1150531202,0,Diegoferm441,Abbas I of Egypt,Added information on the conscription tactics of Abbas in the Sinai for the Crimean War.
+2022-02-13T07:16:15+00:00,1071561436,1069928337,0,I dream of horses,Abbas I of Egypt,Disambiguated: [[Sultan of Turkey]] → [[List of sultans of the Ottoman Empire]]
+2021-08-31T23:19:35+00:00,1041693600,1041379565,0,Niceguyedc,Abbas II of Egypt,v2.04 - modify hatnote per [[WP:INTDABLINK]]
+2021-08-02T14:10:55+00:00,1036754355,1034302497,0,MartinPoulter,Abbas II of Egypt,add image
+2022-09-29T19:26:12+00:00,1113103270,1108257921,0,Baran34,Abbas II of Egypt,İkbal hanımın doğum ve ölüm yerleri yanlış yazılmış
+2022-03-01T21:29:27+00:00,1074730889,1074729443,0,Keyboarder1,Abbas I of Egypt,/* Early years */
+2022-02-04T11:05:50+00:00,1069845899,1052056756,0,Onceinawhile,Al-Rifa'i Mosque,formal name
+2022-07-01T16:18:15+00:00,1095990127,1082251066,0,Ahmadrknowledge,Al-Rifa'i Mosque,A misplaced sentence was put in its place.
+2021-02-16T20:14:18+00:00,1007169290,1007169218,0,Phuzion,Al-Rifa'i Mosque,Reverted edits by [[Special:Contributions/82.17.9.47|82.17.9.47]] ([[User talk:82.17.9.47|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-10-24T21:57:49+00:00,1118040587,1112874951,0,Xlea Nollmav,Emina Ilhamy,A few minor punctuation edits and fixed a typo where a word was missing
+2022-11-16T23:17:49+00:00,1122313130,1118040587,0,AntonvenMadrid,Emina Ilhamy,Grammar
+2021-01-01T21:05:58+00:00,997706772,997306016,0,Monkbot,Emina Ilhamy,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 9 templates: del empty params (7×); hyphenate params (1×);
+2021-11-20T16:22:55+00:00,1056240001,1052123033,0,Skjölker,Farouk of Egypt,
+2023-11-21T23:12:33+00:00,1186256531,1184559822,0,188.123.190.203,Farida of Egypt,"/* Early life and education */Fixed misinformation. Farida and her father were of Circassian origin, not Turkish origin."
+2022-04-17T00:18:04+00:00,1083092152,1083091809,0,BilledMammal,Farouk of Egypt,Undid revision 1083091809 by [[Special:Contributions/Sauce5544|Sauce5544]] ([[User talk:Sauce5544|talk]]) Undo good faith edit
+2021-03-09T20:17:05+00:00,1011240775,1011240053,0,E.J.Grafton,Farouk of Egypt,Fixed typo
+2022-06-19T10:03:10+00:00,1093874781,1093874669,0,Skjoldbro,Farouk of Egypt,
+2022-12-02T21:29:22+00:00,1125223662,1123921574,0,69.162.242.137,Farouk of Egypt,/* In popular culture */
+2021-10-27T14:34:50+00:00,1052123033,1050593285,0,2603:7000:6242:8E00:D9FD:1D19:A9E3:F835,Farouk of Egypt,/* Early life and education */Idk what the right answer is but 10 + 4 +3 + 2 + 1 is 20/16ths.
+2021-11-25T09:46:51+00:00,1057080037,1056745882,0,Ras al Ghoul,Farouk of Egypt,Correcting event description.
+2022-03-25T04:43:46+00:00,1079126877,1077546382,0,BrownHairedGirl,Farouk of Egypt,tag with {{[[Template:Bare URL image|Bare URL image]]}}
+2021-09-27T00:32:12+00:00,1046694336,1046693951,0,Discospinster,Farouk of Egypt,replace sourced content
+2023-04-19T15:52:03+00:00,1150690786,1148715347,0,129.255.248.161,Farouk of Egypt,Unnessesary space deleted.
+2021-04-08T02:23:36+00:00,1016605589,1016605415,0,101.185.33.244,Farouk of Egypt,/* World War II */
+2022-06-24T16:02:37+00:00,1094805499,1093874781,0,102.186.215.62,Farouk of Egypt,
+2021-05-27T19:53:30+00:00,1025478573,1022880038,0,96.71.151.185,Farouk of Egypt,/* Early life and education */
+2022-04-06T23:03:39+00:00,1081350633,1077655361,0,154.177.29.130,Fawzia of Egypt,"/* Life */Princess Fawzia is ethnically Egyptian, except for her eighth grandfather, Muhammad Ali Pasha, who was of Albanian descent. Her maternal grandfather was Major General Muhammad Sharif Pasha, who served as Prime Minister and Minister of Foreign Affairs."
+2023-11-18T07:10:18+00:00,1185667948,1184126063,0,2600:6C51:40F0:FCC0:4537:793:D111:2A56,Fawzia of Egypt,Grammar
+2021-01-08T00:56:48+00:00,998999044,992942172,0,Monkbot,Fuad I of Egypt,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 8 templates: hyphenate params (6×);
+2024-01-10T08:53:26+00:00,1194701716,1194622152,0,Uhooep,Fuad I of Egypt,image size
+2023-07-14T19:49:16+00:00,1165376011,1160903965,0,41.239.125.220,Fuad I of Egypt,
+2021-10-25T10:22:51+00:00,1051742877,1050597636,0,Beshogur,Hanzade Sultan (daughter of Şehzade Ömer Faruk),Undid revision 1050597636 by [[Special:Contributions/178.233.77.232|178.233.77.232]] ([[User talk:178.233.77.232|talk]])
+2024-01-19T02:17:20+00:00,1197001398,1196152407,0,219.77.28.65,Fuad II of Egypt,Updated image and added more info
+2021-09-04T19:16:45+00:00,1042392446,1041876824,0,81.0.2.103,Hoshiyar Qadin,Nationality
+2021-11-28T16:57:57+00:00,1057608718,1055246917,0,79.169.252.20,Hoshiyar Qadin,
+2021-05-27T23:33:10+00:00,1025504603,1025054210,0,Davidgoodheart,Hoshiyar Qadin,/* Source */
+2023-01-29T18:38:57+00:00,1136305809,1136305602,0,2600:4040:7F91:9400:D09A:8353:93A9:340B,Hoshiyar Qadin,
+2023-01-11T11:46:41+00:00,1132942123,1129314807,0,Usernamekiran (AWB),Ibrahim Pasha of Egypt,"fix checkwiki error, general clean-up"
+2024-03-03T00:28:42+00:00,1211522961,1210177812,0,Mako001,Ibrahim Pasha of Egypt,"Tagging pages with bare URLs for citation, prior to follow up with tools. (via [[WP:JWB]])"
+2021-03-25T19:23:33+00:00,1014204967,1014204814,0,5.55.236.213,Ibrahim Pasha of Egypt,/* Background */
+2021-09-25T13:55:42+00:00,1046404434,1043383612,0,Mohamed Ali Pasha,Ibrahim Pasha of Egypt,
+2022-10-15T13:09:50+00:00,1116221304,1114424944,0,Alban900,Ibrahim Pasha of Egypt,
+2021-06-13T20:18:34+00:00,1028408347,1019565074,0,Kurmanbek,Ikbal Hanim,([[c:GR|GR]])  [[File:Neshan Sevkat Ottoman.png]] → [[File:Order of Charity (Ottoman Empire) ribbon bar.svg]] svg
+2021-09-09T02:43:23+00:00,1043239925,1041938174,0,HzgiUU149377,Isma'il Pasha of Egypt,/* Honours */
+2022-11-13T06:04:16+00:00,1121613217,1120624818,0,Socialwave597,Isma'il Pasha of Egypt,/* War with Ethiopia */
+2023-11-11T20:35:23+00:00,1184655854,1184330001,0,2804:14D:7839:85F5:93A:193F:E9A5:E12,Isma'il Pasha of Egypt,Bolded nickname
+2023-06-07T12:47:46+00:00,1158978483,1158975484,0,120.63.0.137,Isma'il Pasha of Egypt,/* Legacy */
+2024-01-30T16:18:00+00:00,1200954842,1194623501,0,41.40.192.160,Isma'il Pasha of Egypt,
+2023-08-22T02:37:12+00:00,1171593817,1171490795,0,Socialwave597,Isma'il Pasha of Egypt,/* Khedive's Somali Coast */
+2024-02-10T18:20:52+00:00,1205897141,1200954842,0,2803:9810:5136:7410:9DF0:9F98:C37D:FE05,Isma'il Pasha of Egypt,/* top */grammar edit
+2021-05-17T21:28:57+00:00,1023703451,1023698138,0,Norden1990,Javidan Hanim,Undid revision 1023698138 by [[Special:Contributions/Lajokka|Lajokka]] ([[User talk:Lajokka|talk]]) fringe OR
+2021-03-28T18:55:32+00:00,1014721571,1013659387,0,Rosguill,Jeshm Afet Hanim,fix wikilink
+2021-01-05T09:01:39+00:00,998422944,997452171,0,Monkbot,Kingdom of Egypt,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: hyphenate params (2×);
+2022-05-03T10:15:41+00:00,1085953564,1082315797,0,Jude Brian Lardera 2005,Kingdom of Egypt,
+2022-09-03T16:45:04+00:00,1108296993,1108296913,0,Havsjö,Kingdom of Egypt,
+2022-07-31T07:09:54+00:00,1101476446,1101475994,0,PohranicniStraze,Kingdom of Egypt,removed misplaced
+2021-07-05T15:41:32+00:00,1032110143,1032104190,0,Ratnahastin,Kingdom of Egypt,Ratnahastin moved page [[Kingdom of Egypt]] to [[Kingdom of Egypt (1922–1953)]]: Disambiguated to avoid confusion.
+2022-02-12T00:15:47+00:00,1071310571,1071309466,0,Rauisuchian,Kingdom of Egypt,/* Sultanate and Kingdom */ Wiki links for earlier background chronology
+2021-08-30T15:30:29+00:00,1041443664,1039879682,0,Johnn Francis,Kingdom of Egypt,
+2021-07-27T16:37:32+00:00,1035780943,1034816199,0,Mr. Cookie544,Kingdom of Egypt,
+2021-05-21T19:11:03+00:00,1024378458,1021698209,0,TompaDompa,Kingdom of Egypt,Per [[MOS:INFOBOXFLAG]].
+2023-09-23T07:36:13+00:00,1176674023,1176673309,0,H44dyss9900,Kingdom of Egypt,Add back section that went missing due to vandalism reverting order
+2024-03-08T07:14:00+00:00,1212515554,1212512881,0,R Prazeres,Kingdom of Egypt,"Reverted 1 edit by [[Special:Contributions/Crazybangladesiooooha|Crazybangladesiooooha]] ([[User talk:Crazybangladesiooooha|talk]]): Not simpler, please do not remove relevant templates"
+2021-04-18T00:41:11+00:00,1018420867,1013248562,0,Hererightnow,Kingdom of Egypt,
+2023-11-11T18:27:30+00:00,1184639559,1184586538,0,Maxim Masiutin,Kingdom of Egypt,Reverting edit(s) by [[Special:Contributions/223.39.217.80|223.39.217.80]] ([[User_talk:223.39.217.80|talk]]) to rev. 1182586437 by Citation bot: non-constructive [[w:en:WP:RW|(RW 16.1)]]
+2022-03-15T08:04:36+00:00,1077241048,1077232202,0,Alphazelf,Kingdom of Egypt,Reverted 1 edit by [[Special:Contributions/5.58.216.57|5.58.216.57]] ([[User talk:5.58.216.57|talk]]): Disruptive edits
+2021-02-07T15:50:27+00:00,1005421465,1005405031,0,NSR97,Kingdom of Egypt,Changed Image
+2022-03-25T20:02:59+00:00,1079246113,1076723255,0,Jarble,List of monarchies,formatting a hatnote
+2023-07-15T17:03:56+00:00,1165512074,1165052627,0,Nourerrahmane,List of monarchies,Undid revision 1165052627 by [[Special:Contributions/109.161.164.159|109.161.164.159]] ([[User talk:109.161.164.159|talk]])
+2024-01-04T19:17:53+00:00,1193620435,1187425111,0,Pizzapenguins,List of monarchies,/* Middle Ages and Renaissance */
+2023-05-29T00:56:53+00:00,1157495519,1146470587,0,Damien Linnane,Melek Tourhan,/* Marriage */ ce
+2022-01-28T11:43:37+00:00,1068434931,1045096037,0,BattyBot,Melek Tourhan,Fixed [[:Category:CS1 errors: extra text: volume|CS1 errors: extra text: volume]] and [[WP:AWB/GF|general fixes]]
+2021-09-18T19:39:07+00:00,1045096037,1004997531,0,Mike Peel,Melek Tourhan,only need one commonscat
+2023-09-28T09:29:18+00:00,1177589911,1176758060,0,Lambiam,Meze,/* Common dishes */ common uses
+2021-12-28T17:22:48+00:00,1062470808,1060971298,0,Pjesnik21,Meze,
+2021-08-20T14:30:39+00:00,1039751205,1037135854,0,77.77.216.134,Meze,
+2022-05-16T13:19:57+00:00,1088154111,1088147197,0,Macrakis,Meze,Reverted 1 edit by [[Special:Contributions/2001:8F8:1E3D:63BE:D23:9D4E:7993:7E9C|2001:8F8:1E3D:63BE:D23:9D4E:7993:7E9C]] ([[User talk:2001:8F8:1E3D:63BE:D23:9D4E:7993:7E9C|talk]]) to last revision by 172.72.108.186
+2020-11-05T21:18:18+00:00,987250384,971719341,0,Dimadick,Mohammed Ali Tewfik,/* References */
+2021-01-19T19:01:02+00:00,1001451028,992605689,0,Monkbot,Muhammad Ali dynasty,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 5 templates: hyphenate params (3×);
+2021-06-07T19:53:38+00:00,1027415492,1027068861,0,Beshogur,Muhammad Ali dynasty,Undid revision 1027068861 by [[Special:Contributions/91.114.167.89|91.114.167.89]] ([[User talk:91.114.167.89|talk]])
+2020-12-06T04:35:58+00:00,992605689,990791424,0,Monkbot,Muhammad Ali dynasty,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 5 templates: del empty params (1×); hyphenate params (6×); cvt lang vals (1×);
+2021-03-09T00:08:51+00:00,1011094505,1001451028,0,Ziad Rashad,Muhammad Ali dynasty,added map
+2022-05-04T16:47:56+00:00,1086185295,1085265536,0,HapHaxion,Muhammad Ali dynasty,/* Introduction */
+2021-09-05T01:01:48+00:00,1042440041,1042410389,0,Excine,Muhammad Ali dynasty,removed tertiary and disputed sources
+2021-04-06T00:35:28+00:00,1016217254,1015983934,0,2607:FEA8:4CE0:4944:E8B2:D665:289:2EF1,Muhammad Ali dynasty,"I fixed the English designation of the Alawwite Dynasty, who were hardly ever, if even at all, referred to as the Alawiyya dynasty in English. Attempting to remove the English designation of the dynasty name is a blatant attempt by religious proponents of the reigning Alaouite dynasty to remove the similariry in pronunciation between the two designations. This is not acceptable."
+2022-02-07T13:48:36+00:00,1070443337,1061307491,0,Meno25,Muhammad Ali dynasty,/* See also */
+2021-06-05T22:40:02+00:00,1027068861,1026055127,0,91.114.167.89,Muhammad Ali dynasty,
+2022-03-08T18:49:02+00:00,1075983255,1070443337,0,Boja02,Muhammad Ali dynasty,
+2021-09-01T10:29:59+00:00,1041764926,1041758006,0,85.255.232.144,Muhammad Ali dynasty,minor typographical edits
+2023-06-26T06:31:36+00:00,1161975691,1161781957,0,Billjones94,Muhammad Ali dynasty,
+2023-02-21T03:24:14+00:00,1140657041,1140461452,0,2600:4040:7F91:9400:F8E0:E144:CF9C:2FAC,Muhammad Ali dynasty,/* See also */
+2022-10-15T17:55:32+00:00,1116263294,1115457383,0,Bes-ART,Muhammad Ali of Egypt,/* Early life */
+2023-11-11T20:12:19+00:00,1184652464,1184509044,0,Manticore,Muhammad Ali of Egypt,Undid revision 1184509044 by [[Special:Contributions/Ciat279|Ciat279]] ([[User talk:Ciat279|talk]]) a source is still required
+2021-11-18T18:14:50+00:00,1055932672,1055932367,0,Lionelcp,Muhammad Ali of Egypt,/* Sources */
+2023-08-31T23:06:28+00:00,1173202904,1171454275,0,AHI-3000,Muhammad Ali of Egypt,/* External links */
+2021-11-11T19:08:48+00:00,1054725608,1054725377,0,104.194.110.154,Narriman Sadek,/* Life */
+2022-11-08T18:07:00+00:00,1120763142,1115059492,0,31.200.20.43,Narriman Sadek,/* Queen */
+2021-03-25T07:31:56+00:00,1014113292,1011315684,0,BristolTreeHouse,Narriman Sadek,
+2021-04-29T00:38:06+00:00,1020423857,1014113292,0,197.132.143.69,Narriman Sadek,
+2021-03-21T01:51:46+00:00,1013337279,1012979284,0,Abraxamovic,Nazli Sabri,/* Later years */
+2021-06-05T06:37:03+00:00,1026957927,1018264685,0,Diane Molly Handerson,Nazli Sabri,
+2021-10-12T19:39:15+00:00,1049602942,1049602873,0,Enredados,Necla Sultan,/* Honours */
+2023-06-29T15:05:20+00:00,1162499074,1147010028,0,145.94.149.84,Neslişah Sultan (daughter of Şehzade Ömer Faruk),
+2021-06-05T07:25:26+00:00,1026962295,1022197347,0,Diane Molly Handerson,Princess Fathia of Egypt,
+2020-12-03T10:51:14+00:00,992077769,991876385,0,41.233.183.77,Princess Fathia of Egypt,
+2021-02-17T18:58:15+00:00,1007360156,1000316277,0,Goszei,Qubbat Afandina,"/* top */unbold foreign names not used in English per [[MOS:LEADLANG]], [[WP:GENFIXES|general fixes]]"
+2022-06-23T00:49:40+00:00,1094499779,1085966889,0,Joshelijim,Sa'id of Egypt,Added link
+2021-04-07T03:06:15+00:00,1016426306,1009175437,0,HzgiUU149377,Sa'id of Egypt,
+2022-03-01T21:13:16+00:00,1074728707,1074728555,0,FBryz,Sa'id of Egypt,"consistency of links correction, final, this time I did it right..."
+2020-12-15T00:20:50+00:00,994296580,992406166,0,SaeidEmamiOnWiki,Sa'id of Egypt,
+2024-03-16T21:04:28+00:00,1214080505,1209870647,0,ഓം,Sa'id of Egypt,
+2020-12-31T22:27:04+00:00,997517357,993985013,0,Monkbot,Shafaq Nur Hanim,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 8 templates: del empty params (2×); hyphenate params (2×);
+2022-06-04T16:23:50+00:00,1091487881,1090169963,0,FrescoBot,Shivakiar Ibrahim,Bot: removing [[User:FrescoBot/Misplaced invisible LTR marks|misplaced invisible LTR marks]] and minor changes
+2021-05-09T03:54:08+00:00,1022205334,1022197064,0,Sky Captain,Shivakiar Ibrahim,/* Marriages */ Sentence and spelling correction in the first paragraph
+2020-03-14T13:53:30+00:00,945514848,772123140,0,41.47.34.184,Smouha,
+2022-02-27T00:25:02+00:00,1074200811,1074199201,0,Yousef610,Smouha,added content

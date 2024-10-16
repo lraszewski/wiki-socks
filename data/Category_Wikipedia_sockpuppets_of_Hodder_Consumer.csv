@@ -1,0 +1,208 @@
+timestamp,revid,parentid,sock,user,page,message
+2012-07-08T16:35:45+00:00,501263130,501261152,1,Hodder_Consumer,Paul Younger (engineer),inclusion of references
+2012-07-08T16:29:43+00:00,501262312,275417120,1,Hodder_Consumer,Paul Younger,inclusion of redirect for new page
+2012-07-08T16:18:33+00:00,501260881,461445778,1,Hodder_Consumer,"Paul ""Tank"" Younger",[[WP:AES|←]]Redirected page to [[Paul Younger (engineer)]]
+2012-07-08T16:17:03+00:00,501260704,0,1,Hodder_Consumer,Paul Younger (engineer),creation of new engineer page
+2012-07-06T15:03:31+00:00,500960857,500926746,1,Hodder_Consumer,Ziauddin Sardar,/* Books */
+2012-07-06T15:01:58+00:00,500960661,500926430,1,Hodder_Consumer,Donna Dickenson,addition of link for text
+2012-07-06T15:00:23+00:00,500960449,500925058,1,Hodder_Consumer,Mark Vernon,addition of link for text
+2012-07-06T14:58:38+00:00,500960199,500924568,1,Hodder_Consumer,Julian Baggini,addition of link for text
+2012-07-06T10:16:45+00:00,500929218,500928869,1,Hodder_Consumer,User:Hodder Consumer,[[WP:AES|←]]Blanked the page
+2012-07-06T10:12:57+00:00,500928869,0,1,Hodder_Consumer,User:Hodder Consumer,Created page at authors request
+2012-07-06T09:49:20+00:00,500926746,500800406,1,Hodder_Consumer,Ziauddin Sardar,/* Books */
+2012-07-06T09:46:12+00:00,500926430,500926187,1,Hodder_Consumer,Donna Dickenson,Incorrect link corrected
+2012-07-06T09:43:53+00:00,500926187,471253837,1,Hodder_Consumer,Donna Dickenson,Addiotion of new author works and publishers details at author request
+2012-07-06T09:31:33+00:00,500925058,500922584,1,Hodder_Consumer,Mark Vernon,Addition of new author works
+2012-07-06T09:26:30+00:00,500924568,500921551,1,Hodder_Consumer,Julian Baggini,Addition of new author works
+2012-07-06T09:00:42+00:00,500922261,499691556,1,Hodder_Consumer,Mark Vernon,Addition of new text and website for author
+2012-07-06T08:52:55+00:00,500921363,490896966,1,Hodder_Consumer,Julian Baggini,Addition of new text and website
+2012-07-10T18:48:23+00:00,501601814,501575160,1,Alex_Scammell,Keith Kahn-Harris,
+2012-07-10T14:45:35+00:00,501567867,501567769,1,Alex_Scammell,Chambers Dictionary,/* Chambers Thesaurus */
+2012-07-10T14:44:55+00:00,501567769,501563982,1,Alex_Scammell,Chambers Dictionary,/* Chambers Thesaurus */
+2012-07-10T14:44:19+00:00,501567701,501567595,1,Alex_Scammell,Keith Kahn-Harris,/* Select Bibliography */
+2012-07-10T14:43:39+00:00,501567595,501564666,1,Alex_Scammell,Keith Kahn-Harris,/* Select Bibliography */
+2012-07-10T14:42:38+00:00,501567461,378450361,1,Alex_Scammell,Hodder Education,
+2012-07-10T14:39:29+00:00,501567065,501564768,1,Alex_Scammell,Donna Dickenson,
+2012-07-10T14:38:41+00:00,501566951,501564621,1,Alex_Scammell,Mark Vernon,/* Bibliography */
+2012-07-10T14:38:06+00:00,501566840,501564912,1,Alex_Scammell,Paul Younger (engineer),/* Selected Bibliography */
+2012-07-10T14:37:31+00:00,501566757,501564842,1,Alex_Scammell,Ziauddin Sardar,/* Books */
+2012-07-10T14:36:43+00:00,501566639,501564553,1,Alex_Scammell,Julian Baggini,/* Works */
+2012-07-10T14:33:37+00:00,501566252,501563492,1,Alex_Scammell,User talk:Alex Scammell,/* July 2012 */
+2012-07-10T14:23:18+00:00,501564912,501561532,1,Alex_Scammell,Paul Younger (engineer),/* See also */
+2012-07-10T14:22:49+00:00,501564842,501562035,1,Alex_Scammell,Ziauddin Sardar,/* See also */
+2012-07-10T14:22:23+00:00,501564768,501564721,1,Alex_Scammell,Donna Dickenson,/* External links */
+2012-07-10T14:22:04+00:00,501564721,501561611,1,Alex_Scammell,Donna Dickenson,/* See also */
+2012-07-10T14:21:38+00:00,501564666,501561362,1,Alex_Scammell,Keith Kahn-Harris,/* See also */
+2012-07-10T14:21:11+00:00,501564621,501561903,1,Alex_Scammell,Mark Vernon,/* See also */
+2012-07-10T14:20:41+00:00,501564553,501561768,1,Alex_Scammell,Julian Baggini,/* External links */
+2012-07-10T14:16:21+00:00,501563982,501563472,1,Alex_Scammell,Chambers Dictionary,
+2012-07-10T14:12:14+00:00,501563415,501563382,1,Alex_Scammell,Chambers Dictionary,/* See also */
+2012-07-10T14:12:03+00:00,501563382,501554398,1,Alex_Scammell,Chambers Dictionary,/* See also */
+2012-07-10T14:03:20+00:00,501562035,501367529,1,Alex_Scammell,Ziauddin Sardar,
+2012-07-10T14:02:29+00:00,501561903,501366791,1,Alex_Scammell,Mark Vernon,
+2012-07-10T14:01:46+00:00,501561768,501366459,1,Alex_Scammell,Julian Baggini,
+2012-07-10T14:00:53+00:00,501561611,501367173,1,Alex_Scammell,Donna Dickenson,/* See also */
+2012-07-10T14:00:20+00:00,501561532,501387041,1,Alex_Scammell,Paul Younger (engineer),
+2012-07-10T13:59:13+00:00,501561362,501560313,1,Alex_Scammell,Keith Kahn-Harris,/* See also */
+2012-07-10T13:56:27+00:00,501560954,501560781,1,Alex_Scammell,All That Matters,
+2012-07-10T13:55:10+00:00,501560781,412436458,1,Alex_Scammell,All That Matters,
+2012-07-10T13:53:45+00:00,501560598,0,1,Alex_Scammell,Chambers Thesaurus,[[WP:AES|←]]Redirected page to [[Chambers Dictionary]]
+2012-07-10T13:52:47+00:00,501560465,501557757,1,Alex_Scammell,User talk:Alex Scammell,/* Proposed deletion of Keith Kahn-Harris */
+2012-07-10T13:51:45+00:00,501560313,501557755,1,Alex_Scammell,Keith Kahn-Harris,
+2012-07-10T13:07:45+00:00,501554398,501554143,1,Alex_Scammell,Chambers Dictionary,
+2012-07-10T13:05:54+00:00,501554143,480891301,1,Alex_Scammell,Chambers Dictionary,
+2012-07-10T12:56:02+00:00,501552887,0,1,Alex_Scammell,Keith Kahn Harris,[[WP:AES|←]]Redirected page to [[Keith Kahn-Harris]]
+2012-07-10T12:55:27+00:00,501552807,0,1,Alex_Scammell,Keith khan harris,[[WP:AES|←]]Redirected page to [[Keith Kahn-Harris]]
+2012-07-10T12:54:24+00:00,501552661,501544239,1,Alex_Scammell,User talk:Alex Scammell,/* Speedy deletion nomination of Chambers Thesaurus */
+2012-07-10T12:53:56+00:00,501552596,0,1,Alex_Scammell,Keith Kahn-Harris,"[[WP:AES|←]]Created page with '  == '''Biography''' ==  Keith Kahn-Harris works as a writer, sociologist, lecturer, salonist and music critic. He is an honorary research fellow and associate l...'"
+2012-07-10T11:40:56+00:00,501544239,501442811,1,Alex_Scammell,User talk:Alex Scammell,/* A tip */
+2012-07-09T09:02:28+00:00,501368077,496655795,1,Alex_Scammell,List of Newcastle University people,inlcuded missing alumni
+2012-07-09T08:56:55+00:00,501367529,501264052,1,Alex_Scammell,Ziauddin Sardar,Included missing text from bibliography
+2012-07-09T08:53:29+00:00,501367173,501264043,1,Alex_Scammell,Donna Dickenson,Included missing text from bibliography
+2012-07-09T08:48:55+00:00,501366791,501264029,1,Alex_Scammell,Mark Vernon,Have added new text missing from bib
+2012-07-09T08:44:51+00:00,501366459,501263892,1,Alex_Scammell,Julian Baggini,Included missing text from bibliography
+2012-03-14T15:17:11+00:00,481861308,481841162,1,Hodderbooks,Wikipedia:Requests for permissions/Confirmed,
+2012-03-14T15:12:03+00:00,481860662,481858659,1,Hodderbooks,Dreda Say Mitchell,
+2012-03-14T14:57:54+00:00,481858659,473829087,1,Hodderbooks,Dreda Say Mitchell,Update by Hodder & Stoughton
+2012-07-02T13:11:19+00:00,500326442,500326334,1,VBHodder,Chris Ryan,
+2012-07-02T13:09:15+00:00,500326224,499646337,1,VBHodder,Chris Ryan,
+2012-06-20T16:10:07+00:00,498515625,498515071,1,VBHodder,Patrick Leigh Fermor,
+2012-06-20T16:05:44+00:00,498515071,498514205,1,VBHodder,Patrick Leigh Fermor,/* Death and funeral */
+2011-02-06T23:15:29+00:00,412436458,412331268,0,This is Paul,All That Matters,link
+2012-03-08T20:50:44+00:00,480891301,468551338,0,Migrainus,Chambers Dictionary,
+2012-05-27T19:49:58+00:00,494665367,494331417,0,Wm1995,Chris Ryan,Undid revision 494331417 by [[Special:Contributions/95.177.6.244|95.177.6.244]] ([[User talk:95.177.6.244|talk]]) - Possible vandalism
+2012-01-14T02:35:01+00:00,471253837,450699160,0,Timrollpickering,Donna Dickenson,/* Career */clean up using [[Project:AWB|AWB]]
+2012-04-25T15:05:14+00:00,489165618,489156078,0,BarretB,Chris Ryan,Rv further
+2012-05-10T21:50:20+00:00,491880943,488186338,0,Helpful Pixie Bot,Dreda Say Mitchell,ISBNs (Build KE)
+2012-04-19T15:48:31+00:00,488186338,486211369,0,Ackees,Dreda Say Mitchell,
+2012-03-16T23:41:03+00:00,482279925,481640973,0,J04n,Julian Baggini,added a ref
+2012-05-06T00:26:57+00:00,490896966,484567962,0,Helpful Pixie Bot,Julian Baggini,ISBNs (Build KC)
+2010-08-11T23:53:10+00:00,378450361,367380029,0,Xqbot,Hodder Education,Robot: Fixing double redirect to [[Hachette (publisher)]]
+2012-03-29T17:27:50+00:00,484567962,484561656,0,FreeThinkersUnite,Julian Baggini,
+2012-06-08T20:58:11+00:00,496655795,496438655,0,TubularWorld,List of Newcastle University people,
+2012-03-17T10:37:05+00:00,482345397,482343709,0,Helpful Pixie Bot,Mark Vernon,Dated {{Cleanup-link rot}}{{Refimprove}}. (Build J/)
+2012-06-03T13:05:24+00:00,495765082,482345397,0,Decathlete,Mark Vernon,Add short description to persondata template
+2012-06-28T02:08:01+00:00,499691556,495765082,0,Alec the writer,Mark Vernon,/* External links */ fixed broken link
+2012-06-11T15:30:21+00:00,497073356,496980836,0,Rms125a@hotmail.com,Patrick Leigh Fermor,tweaked for grammar
+2011-11-19T16:39:22+00:00,461445778,450726677,0,Waacstats,"Paul ""Tank"" Younger",persondata
+2012-06-20T17:23:03+00:00,498525942,498525815,0,Rms125a@hotmail.com,Patrick Leigh Fermor,/* External links */ tweaked
+2012-04-07T20:49:49+00:00,486139860,485900992,0,31.185.43.26,Patrick Leigh Fermor,clarification of outcome of kidnap
+2009-03-06T16:18:44+00:00,275417120,0,0,Polbot,Paul Younger,"Redirecting to [[Paul ""Tank"" Younger]], auto-generated by [[User:polbot]]"
+2012-06-12T08:23:57+00:00,497191331,497190258,0,Armbrust,Wikipedia:Requests for permissions/Confirmed,/* User:Lchipperfield */ nao
+2012-01-13T15:27:13+00:00,471154724,471154544,0,188.140.10.70,Ziauddin Sardar,"/* Islam, Qur'an and Islamic reform */"
+2012-07-09T08:56:55+00:00,501367529,501264052,0,Alex Scammell,Ziauddin Sardar,Included missing text from bibliography
+2012-04-22T16:30:36+00:00,488670111,488663414,0,ItsZippy,Wikipedia:Requests for permissions/Confirmed,/* User:AnnaM76 */ Question.
+2012-05-08T06:30:17+00:00,491328447,490062107,0,78.100.173.152,Ziauddin Sardar,/* Brief biography */
+2012-04-06T23:50:05+00:00,485995173,471154724,0,Pellagrina,Ziauddin Sardar,/* Selected journalism and essays */  updating with a more durable link (we in the process of changing the link structure of our media files)
+2009-06-20T10:44:30+00:00,297527408,252209744,0,Boleyn,All That Matters,"rem piping, article titles should be clearly displayed, per [[MOS:D]]; please help at [[WP:Suggestions for disambiguation repair]]"
+2010-12-18T06:11:44+00:00,402979475,402382568,0,Mark Ironie,Chambers Dictionary,/* External links */clean up using [[Project:AWB|AWB]]
+2009-12-27T03:14:52+00:00,334194814,317453541,0,Huw Powell,Chambers Dictionary,
+2010-09-09T03:29:01+00:00,383765760,378262817,0,Headbomb,All That Matters,"clean up, replaced: ''[[All That Matters (album)]]'' → [[All That Matters (album)|''All That Matters'' (album)]] (2) using [[Project:AWB|AWB]]"
+2009-10-02T11:12:34+00:00,317453541,315197322,0,GerryBreslin,Chambers Dictionary,
+2011-12-30T08:18:07+00:00,468551338,459089819,0,Mais oui!,Chambers Dictionary,+[[Category:Scottish non-fiction literature]]; +[[Category:1872 establishments in Scotland]]; +[[Category:History of Edinburgh]]; +[[Category:Culture in Edinburgh]] using [[WP:HC|HotCat]]
+2010-03-26T07:44:09+00:00,352120806,347305095,0,Grafen,Chambers Dictionary,rv old vandalism
+2011-08-26T02:24:26+00:00,446757532,446037379,0,Kinewma,Chambers Dictionary,/* External links */ Replaced 21st Century Dictionary dead link
+2011-11-05T04:55:09+00:00,459089819,453913777,0,Mercurywoodrose,Chambers Dictionary,/* External links */ add template
+2009-05-13T04:41:32+00:00,289616624,289607278,0,Mr Pillows,Chris Ryan,minor formatting
+2010-06-15T07:47:39+00:00,368131405,368131215,0,Shostakovich91,Chambers Dictionary,
+2009-07-29T19:13:20+00:00,304933668,302591024,0,217.42.32.214,Chris Ryan,
+2010-03-02T15:16:00+00:00,347305095,347304898,0,193.201.44.25,Chambers Dictionary,Fixed broken URL
+2010-02-13T17:03:29+00:00,343765929,343765850,0,94.173.42.59,Chris Ryan,
+2011-06-03T13:05:04+00:00,432351666,432327829,0,Chzz,Chris Ryan,Reverted edits by [[Special:Contributions/Mr. Bean Laden|Mr. Bean Laden]] ([[User talk:Mr. Bean Laden|talk]]) to last revision by 82.20.102.26 ([[WP:HG|HG]])
+2011-02-10T11:32:46+00:00,413090803,413090228,0,KScott9806,Chris Ryan,
+2011-08-18T23:20:42+00:00,445581718,444874233,0,76.24.183.243,Chris Ryan,/* Post-SAS work */
+2010-11-05T02:56:33+00:00,394914172,394033107,0,111.69.232.89,Chris Ryan,the only good commie is a dead commie (and inaccurate commies don't count)
+2010-07-21T21:02:02+00:00,374740274,374736672,0,CharlieDelta,Chris Ryan,Undid revision 374736672 by [[Special:Contributions/82.19.137.100|82.19.137.100]] ([[User talk:82.19.137.100|talk]])
+2011-01-31T13:36:57+00:00,411160649,407552266,0,Callum52,Chris Ryan,* ''Land Of Fire'' (2002) Changed Location
+2010-01-09T15:33:13+00:00,336809828,336809055,0,Ukexpat,Chris Ryan,minor c/u
+2011-12-27T16:45:38+00:00,467934586,467855175,0,ざこ,Chris Ryan,
+2012-04-05T02:32:07+00:00,485643481,485643473,0,ClueBot NG,Chris Ryan,"Reverting possible vandalism by [[Special:Contributions/23.17.196.216|23.17.196.216]] to version by 41.242.193.244. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (995197) (Bot)"
+2009-08-14T00:22:50+00:00,307845193,307016441,0,AllGloryToTheHypnotoad,Chris Ryan,"/* Post-SAS work */ if it's not wikilinked yet, let's make a redlink - the TV show was certainly notable"
+2009-11-08T02:07:20+00:00,324568076,324300700,0,122.104.195.189,Chris Ryan,
+2009-03-19T10:28:51+00:00,278304145,278093118,0,Aciifuzion,Chris Ryan,/* Background */
+2010-09-19T18:25:17+00:00,385763440,375980628,0,RjwilmsiBot,Donna Dickenson,/* External links */Persondata completion using [[Project:AWB|AWB]] (7147)
+2009-04-06T06:21:12+00:00,282051632,272771494,0,Mr.Z-bot,Donna Dickenson,Unreferenced [[WP:BLP|BLP]]
+2009-03-19T10:45:48+00:00,278305742,278304145,0,McGeddon,Chris Ryan,Reverted 1 edit by [[Special:Contributions/Aciifuzion|Aciifuzion]]; Rv inappropriate first-person trivia. using [[WP:TWINKLE|TW]]
+2009-07-03T12:51:48+00:00,300042955,300034134,0,Kingbird1,Chris Ryan,Quick-adding category [[:Category:People from Gateshead (district)|People from Gateshead (district)]] (using [[WP:HOTCAT|HotCat]])
+2011-05-06T18:01:56+00:00,427782507,427779177,0,AnomieBOT,Donna Dickenson,Dating maintenance tags: {{Fact}}
+2009-09-11T01:19:55+00:00,313109726,302362598,0,JEN9841,Donna Dickenson,"created a section for ""See also"" and added wikilink"
+2010-01-25T06:32:24+00:00,339877607,339861434,0,SlimVirgin,Donna Dickenson,"+ infobox and some more details, refs"
+2011-03-31T10:54:47+00:00,421630675,385763440,0,Jofrankps,Donna Dickenson,
+2010-02-22T23:32:28+00:00,345763350,340684545,0,Rettetast,Dreda Say Mitchell,Quick-adding category [[:Category:Living people|Living people]] (using [[WP:HOTCAT|HotCat]])
+2010-03-31T19:58:33+00:00,353211714,353203412,0,64.203.182.109,Dreda Say Mitchell,
+2010-10-29T22:38:21+00:00,393690098,353211714,0,RjwilmsiBot,Dreda Say Mitchell,/* See also */Adding Persondata using [[Project:AWB|AWB]] (7345)
+2011-09-25T20:34:50+00:00,452408797,444834607,0,FrescoBot,Dreda Say Mitchell,Bot: [[User:FrescoBot/Links|link syntax/spacing]]
+2010-01-29T08:29:48+00:00,340684545,340683919,0,Lucy1958,Dreda Say Mitchell,
+2010-06-11T07:41:55+00:00,367380029,0,0,Shortride,Hodder Education,[[WP:AES|←]]Redirected page to [[Hachette Livre]]
+2010-01-16T18:12:32+00:00,338214471,338214369,0,90.210.238.118,Julian Baggini,Wrong link (transposed with previous paragraph)
+2009-09-15T16:13:58+00:00,314133128,294728030,0,SmackBot,Julian Baggini,Birth/death cats from lifetime and general  fixes
+2011-12-18T23:57:54+00:00,466604266,464014885,0,JJARichardson,Julian Baggini,
+2011-10-09T06:09:10+00:00,454668139,454667966,0,Hickleup,Julian Baggini,
+2009-06-06T05:15:21+00:00,294728030,289144406,0,70.246.17.4,Julian Baggini,/* External links */
+2010-05-04T16:57:05+00:00,360103755,360066455,0,Ponyo,Julian Baggini,remove unsourced affiliation
+2010-07-11T17:26:47+00:00,372933468,372365594,0,JonHarder,Julian Baggini,/* External links */ Remove dead link•
+2011-07-19T02:05:19+00:00,440233064,440232679,0,Abhishikt,Julian Baggini,
+2011-10-24T14:09:02+00:00,457148813,457148766,0,Koavf,Julian Baggini,removed [[Category:British republicans]]; added [[Category:English republicans]] using [[WP:HC|HotCat]]
+2012-02-22T17:25:18+00:00,478278034,466604266,0,Luckas-bot,Julian Baggini,r2.7.1) (Robot: Adding [[zh:朱立安·巴吉尼]]
+2009-11-04T10:03:10+00:00,323868430,320804351,0,83.146.52.90,Julian Baggini,/* Bibliography */
+2011-06-06T16:55:03+00:00,432876226,430921280,0,Zundark,Julian Baggini,this image was deleted in September 2010
+2011-04-11T16:36:58+00:00,423535431,418611833,0,Robofish,Mark Vernon,added stub template
+2012-04-09T18:53:48+00:00,486480009,486479328,0,Meters,List of Newcastle University people,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/128.240.229.3|128.240.229.3]] ([[User talk:128.240.229.3|talk]]) to last version by TubularWorld
+2009-10-07T17:41:55+00:00,318493322,318492583,0,Markvernon,Mark Vernon,Details of one book changed in bibliography (After Atheism) to be accurate
+2010-08-24T14:07:47+00:00,380713185,374569052,0,SmackBot,Mark Vernon,Date maintenance tags and general fixes: build 480:
+2010-07-20T22:02:12+00:00,374569052,359020397,0,Mandarax,Mark Vernon,Add DEFAULTSORT per [[WP:NAMESORT]] using [[Project:AWB|AWB]] (6839)
+2011-09-28T10:55:33+00:00,452854653,423535431,0,RjwilmsiBot,Mark Vernon,/* External links */Adding Persondata using [[Project:AWB|AWB]] (7822)
+2009-10-31T17:39:40+00:00,323132146,323129219,0,Utopial,Mark Vernon,/* Bibliography */
+2011-03-13T13:37:06+00:00,418611833,393818590,0,82.68.70.123,Mark Vernon,/* References */
+2011-10-06T22:37:57+00:00,454303073,454303004,0,Mrs Alice Lucy,Patrick Leigh Fermor,/* Books */
+2010-04-29T08:45:57+00:00,359020397,323132146,0,Philip Cross,Mark Vernon,tidy
+2009-04-06T14:56:44+00:00,282120603,277609731,0,139.91.185.41,Patrick Leigh Fermor,/* World War II */
+2009-06-24T19:54:46+00:00,298421504,287235304,0,SmackBot,Patrick Leigh Fermor,Standard headings/general fixes
+2010-05-23T06:51:54+00:00,363677705,363246647,0,Richard Arthur Norton (1958- ),Patrick Leigh Fermor,"Frugal Europe, on Foot"
+2012-02-03T13:38:57+00:00,474783526,473146988,0,Cydebot,Patrick Leigh Fermor,Robot - Moving category Greek resistance members to [[:Category:Greek Resistance members]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2012 January 27]].
+2011-01-20T12:50:16+00:00,408965004,408472872,0,Stephenjh,Patrick Leigh Fermor,"/* Post war */  - remove photo. insignificant, relevance not mentioned"
+2010-04-02T11:36:53+00:00,353531004,353530856,0,Nipsonanomhmata,Patrick Leigh Fermor,/* Books */ replaced hyphens with commas and used brackets for year
+2010-12-20T17:08:20+00:00,403374149,402025730,0,Deb,Patrick Leigh Fermor,fix intro
+2010-07-17T22:00:27+00:00,374038502,374036557,0,Hjwb500,Patrick Leigh Fermor,/* World War II */
+2011-08-25T11:35:35+00:00,446639339,445576026,0,Acather96,Patrick Leigh Fermor,"/* World War II */ Removed [[File:4 Patrick Paddy leigh Fermor and Billy Moss pictured before the kidnap of General Heinrich Kreipe in Crete german uniform.jpg]], file does not have a [[WP:FURG|fair use rationale]] for this article"
+2010-03-18T21:44:06+00:00,350671918,350671653,0,Entertainment Buff,"Paul ""Tank"" Younger","added category, alphabetized list"
+2011-03-31T21:16:13+00:00,421712835,413489062,0,Δ,Patrick Leigh Fermor,file does not have a [[WP:NFCC#10|Non-free use rationale]] for this article
+2011-09-04T23:48:47+00:00,448487265,446639339,0,SteveCrook,Patrick Leigh Fermor,/* World War II */  Repair link
+2011-06-20T20:00:56+00:00,435331595,435331030,0,InternationalHorticulture,Patrick Leigh Fermor,/* Early travels */ more info
+2010-10-18T02:40:29+00:00,391359087,390634683,0,Kumioko (renamed),"Paul ""Tank"" Younger","Fix section order per [[WP:Layout]], cleanup find a grave ref, persondata and general fixes, replaced: {{findagrave → {{Find a Grave, | ALTERNATIVE NAMES → |ALTERNATIVE NAMES, | SHORT DESCRIPTION → |SHORT DESCR using [[Project:AWB|AWB]] (7290)"
+2010-12-12T21:56:17+00:00,402025730,401052241,0,156.34.36.34,Patrick Leigh Fermor,
+2009-10-01T22:01:41+00:00,317361846,316112510,0,Tom crawshaw,Patrick Leigh Fermor,/* Post war */
+2009-03-15T04:35:42+00:00,277338015,252288994,0,Ulric1313,"Paul ""Tank"" Younger",dab
+2010-09-30T01:20:05+00:00,387832212,386167863,0,RjwilmsiBot,Patrick Leigh Fermor,"/* Early travels */CiteCompletion, authors: 1, using [[Project:AWB|AWB]] (7192)"
+2009-12-23T11:07:36+00:00,333528008,277338015,0,SmackBot,"Paul ""Tank"" Younger",Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]
+2011-09-15T23:59:35+00:00,450726677,439686543,0,RjwilmsiBot,"Paul ""Tank"" Younger",/* External links */Adding Persondata using [[Project:AWB|AWB]] (7822)
+2009-08-27T22:00:31+00:00,310442895,310442346,0,NuclearWarfare,Wikipedia:Requests for permissions/Confirmed,/* User:Fisch4Fun */ done
+2009-12-25T20:40:40+00:00,334002890,333810495,0,Vogon999,Wikipedia:Requests for permissions/Confirmed,/* Confirmed ([{{fullurl:Wikipedia:Requests_for_permissions/Confirmed|action=edit&section=T-1}} add request]) */
+2011-10-25T15:14:01+00:00,457328794,457307998,0,Kingpin13,Wikipedia:Requests for permissions/Confirmed,override
+2011-05-18T18:58:49+00:00,429763638,429705028,0,DangerousPanda,Wikipedia:Requests for permissions/Confirmed,/* Please Confirm me */ nd
+2009-09-16T16:07:12+00:00,314363451,314314515,0,Juliancolton,Wikipedia:Requests for permissions/Confirmed,/* User:Karlmarx101 */ done
+2011-12-21T22:29:50+00:00,467095204,467084642,0,Guerillero,Wikipedia:Requests for permissions/Confirmed,/* User:Herdpress */ done
+2011-11-22T10:49:29+00:00,461919845,461919513,0,DangerousPanda,Wikipedia:Requests for permissions/Confirmed,/* User:Bullmoosetr */ not done
+2010-08-20T15:11:33+00:00,379971278,379967969,0,Xeno,Wikipedia:Requests for permissions/Confirmed,/* User:Big45Ben */ sp
+2012-03-19T16:13:14+00:00,482742785,482733283,0,Rebel Doctor,Wikipedia:Requests for permissions/Confirmed,
+2011-09-11T21:51:06+00:00,449892917,449892439,0,FlightTime,Wikipedia:Requests for permissions/Confirmed,/* User:Oceans59 */ question / format
+2010-09-18T15:15:01+00:00,385546261,385521092,0,KingpinBot,Wikipedia:Requests for permissions/Confirmed,Moving 4 confirmed user request(s) to [[WP:Requests for permissions/Archive|archive]] (4 approved : 0 declined); Chronologically reordering 2 open requests.) ([[WP:BOT|bot edit]]
+2010-08-18T21:27:51+00:00,379657593,379635953,0,Vanished 1850,Wikipedia:Requests for permissions/Confirmed,
+2010-06-15T13:30:31+00:00,368173381,367887935,0,KingpinBot,Wikipedia:Requests for permissions/Confirmed,Moving 1 confirmed user request(s) to [[WP:Requests for permissions/Archive|archive]] (0 approved : 1 declined); Chronologically reordering 1 open requests.) ([[WP:BOT|bot edit]]
+2012-01-14T16:40:52+00:00,471343287,471343208,0,FlightTime,Wikipedia:Requests for permissions/Confirmed,/* User:Lothella */ nd
+2010-04-17T13:30:56+00:00,356595250,356550914,0,KingpinBot,Wikipedia:Requests for permissions/Confirmed,Moving 3 confirmed user request(s) to [[WP:Requests for permissions/Archive|archive]] (1 approved : 2 declined); Chronologically reordering 2 open requests.) ([[WP:BOT|bot edit]]
+2010-07-14T13:26:19+00:00,373439116,373366165,0,KingpinBot,Wikipedia:Requests for permissions/Confirmed,Moving 7 confirmed user request(s) to [[WP:Requests for permissions/Archive|archive]] (4 approved : 3 declined); Chronologically reordering 2 open requests.) ([[WP:BOT|bot edit]]
+2012-01-03T19:45:16+00:00,469381294,466445343,0,182.68.101.156,Ziauddin Sardar,/* Brief biography */
+2009-03-06T17:25:31+00:00,275429711,266381582,0,Mr Taz,Ziauddin Sardar,/* With Merryl Wyn Davies */
+2012-02-22T00:38:25+00:00,478169648,478169232,0,DangerousPanda,Wikipedia:Requests for permissions/Confirmed,/* User:Circle jerker */ blocked
+2009-08-22T17:03:32+00:00,309450911,309450782,0,78.149.207.154,Ziauddin Sardar,
+2010-10-06T20:25:07+00:00,389166257,387484989,0,Cjc13,Ziauddin Sardar,add cat
+2009-06-11T01:06:21+00:00,295692821,295692328,0,Palaeovia,Ziauddin Sardar,/* Life and Thought */ added wikilinks
+2011-07-15T03:29:53+00:00,439555633,432817063,0,Cydebot,Ziauddin Sardar,"Robot - Speedily moving category Academics of City University, London to [[:Category:Academics of City University London]] per [[WP:CFDS|CFDS]]."
+2009-05-10T18:14:46+00:00,289102983,289102497,0,AnonMoos,Ziauddin Sardar,/* Science and empires */ fix link
+2010-10-24T06:44:50+00:00,392552836,392549627,0,RjwilmsiBot,Ziauddin Sardar,/* Further reading */Adding Persondata using [[Project:AWB|AWB]] (7319)
+2010-04-04T08:26:52+00:00,353874641,353322630,0,SmackBot,Ziauddin Sardar,Date maintenance tags and general fixes: build 404:
+2010-01-26T22:56:52+00:00,340226914,337791736,0,Stevvvv4444,Ziauddin Sardar,"Shouldn't be listed under British when categories for English, Scottish and Welsh are available"
+2011-01-29T12:24:25+00:00,410746217,400071709,0,Jheald,Ziauddin Sardar,/* Books */
+2011-06-06T08:24:18+00:00,432817063,427281045,0,46.64.10.155,Ziauddin Sardar,
+2009-07-20T15:16:51+00:00,303145662,295692821,0,DadaNeem,Ziauddin Sardar,/* Futures */ wikilink to journal Futures

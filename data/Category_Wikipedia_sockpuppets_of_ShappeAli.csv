@@ -1,0 +1,901 @@
+timestamp,revid,parentid,sock,user,page,message
+2024-04-21T16:26:06+00:00,1220063521,1181011296,1,ShappeAli,Mariyam Majudha,/* Feature film */
+2024-04-21T16:25:43+00:00,1220063471,1214386449,1,ShappeAli,November (2023 film),/* Cast */
+2024-03-18T17:08:30+00:00,1214386449,1214197014,1,ShappeAli,November (2023 film),/* Cast */
+2024-03-17T17:45:08+00:00,1214226910,1183421885,1,ShappeAli,Mohamed Abdul Ghanee,/* Filmography */
+2024-03-17T17:44:33+00:00,1214226831,1188112951,1,ShappeAli,Aishath Rishmy,/* Feature film */
+2024-03-17T17:44:09+00:00,1214226771,1180842384,1,ShappeAli,Aminath Noora,/* Feature film */
+2024-03-17T17:43:12+00:00,1214226637,1212975754,1,ShappeAli,Aisha Ali,/* Feature film */
+2024-03-17T17:42:29+00:00,1214226528,1194148208,1,ShappeAli,Mariyam Shifa,/* Feature film */
+2024-03-17T17:41:59+00:00,1214226451,1180389788,1,ShappeAli,Shalabee Ibrahim,/* Filmography */
+2024-03-17T17:41:13+00:00,1214226339,1212775827,1,ShappeAli,Aminath Shuha,/* Feature film */
+2024-03-17T17:40:53+00:00,1214226294,1214226173,1,ShappeAli,Fathimath Latheefa,/* Feature film */
+2024-03-17T17:40:06+00:00,1214226173,1212776071,1,ShappeAli,Fathimath Latheefa,/* Feature film */
+2024-03-17T17:38:36+00:00,1214225961,1192241306,1,ShappeAli,Mohamed Jumayyil,/* Feature film */
+2024-03-17T14:08:26+00:00,1214197014,1214196604,1,ShappeAli,November (2023 film),
+2024-03-17T14:04:59+00:00,1214196604,1206605650,1,ShappeAli,November (2023 film),/* Cast */
+2024-03-15T08:51:10+00:00,1213818203,1213817828,1,ShappeAli,List of Maldivian films of 2024,/* Television */
+2024-03-15T08:46:59+00:00,1213817828,1213131328,1,ShappeAli,List of Maldivian films of 2024,/* Television */
+2024-03-15T08:44:02+00:00,1213817625,1213817508,1,ShappeAli,Yaaraa,/* Season 2 (2023–2024) */
+2024-03-15T08:42:36+00:00,1213817508,1213817481,1,ShappeAli,Yaaraa,/* Series overview */
+2024-03-15T08:42:16+00:00,1213817481,1196801911,1,ShappeAli,Yaaraa,/* Series overview */
+2024-03-13T13:51:31+00:00,1213509368,1213380693,1,ShappeAli,Jadhulla Ismail,
+2024-03-12T12:13:01+00:00,1213334278,1191887845,1,ShappeAli,Ahmed Shakir,/* Feature film */
+2024-03-12T12:12:37+00:00,1213334251,1194930600,1,ShappeAli,Mohamed Vishal,/* Filmography */
+2024-03-12T12:11:40+00:00,1213334165,1212520941,1,ShappeAli,Hamdhan Farooq,/* Feature film */
+2024-03-12T12:10:49+00:00,1213334089,1212780423,1,ShappeAli,Adam Rizwee,/* Feature film */
+2024-03-12T12:10:28+00:00,1213334056,1212520292,1,ShappeAli,Ahmed Saeed (actor),/* Feature film */
+2024-03-12T12:09:56+00:00,1213334002,1212520244,1,ShappeAli,Mohamed Manik,/* Feature film */
+2024-03-12T12:08:44+00:00,1213333885,1213333865,1,ShappeAli,Fureytha,/* Release */
+2024-03-12T12:08:28+00:00,1213333865,1213332819,1,ShappeAli,Fureytha,/* Release */
+2024-03-12T11:57:00+00:00,1213332819,1212520856,1,ShappeAli,Fureytha,/* Cast */
+2024-03-11T07:52:09+00:00,1213131328,1213130686,1,ShappeAli,List of Maldivian films of 2024,/* Television */
+2024-03-11T07:51:47+00:00,1213131280,1192217613,1,ShappeAli,Aishath Lahfa,/* Television */
+2024-03-11T07:46:32+00:00,1213130686,1212975379,1,ShappeAli,List of Maldivian films of 2024,/* Television */
+2024-03-11T06:18:55+00:00,1213119126,1213118628,1,ShappeAli,Girlfriends (web series),/* Guest */
+2024-03-11T06:14:09+00:00,1213118628,1212980339,1,ShappeAli,Girlfriends (web series),/* Recurring */
+2024-03-10T13:43:20+00:00,1212980339,1212980175,1,ShappeAli,Girlfriends (web series),/* Guest */
+2024-03-10T13:42:03+00:00,1212980175,1212975930,1,ShappeAli,Girlfriends (web series),/* Main */
+2024-03-10T13:10:55+00:00,1212975930,1212975878,1,ShappeAli,Girlfriends (web series),
+2024-03-10T13:10:31+00:00,1212975878,1212975851,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-03-10T13:10:18+00:00,1212975851,1212975689,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-03-10T13:09:28+00:00,1212975754,1199317159,1,ShappeAli,Aisha Ali,/* Television */
+2024-03-10T13:09:03+00:00,1212975689,1212527158,1,ShappeAli,Girlfriends (web series),/* Main */
+2024-03-10T13:06:48+00:00,1212975379,1212520052,1,ShappeAli,List of Maldivian films of 2024,/* Television */
+2024-03-09T16:39:13+00:00,1212795190,1212780292,1,ShappeAli,Nina (2023 film),/* Cast */
+2024-03-09T15:16:35+00:00,1212780423,1212520311,1,ShappeAli,Adam Rizwee,/* Feature film */
+2024-03-09T15:15:48+00:00,1212780292,1212774406,1,ShappeAli,Nina (2023 film),/* Cast */
+2024-03-09T15:15:02+00:00,1212780164,1174562324,1,ShappeAli,Nathasha Jaleel,/* Feature film */
+2024-03-09T14:58:59+00:00,1212777291,1178063918,1,ShappeAli,Fauziyya Hassan,/* Feature film */
+2024-03-09T14:58:06+00:00,1212777135,1207408606,1,ShappeAli,Nuzuhath Shuaib,/* Feature film */
+2024-03-09T14:56:35+00:00,1212776853,1197378511,1,ShappeAli,Washiya Mohamed,/* Feature film */
+2024-03-09T14:53:18+00:00,1212776278,1164995097,1,ShappeAli,Reeko Moosa Manik,/* Feature film */
+2024-03-09T14:52:22+00:00,1212776120,1212520210,1,ShappeAli,Ravee Farooq,/* Feature film */
+2024-03-09T14:52:04+00:00,1212776071,1197378464,1,ShappeAli,Fathimath Latheefa,/* Feature film */
+2024-03-09T14:51:02+00:00,1212775896,1154587918,1,ShappeAli,Khadheeja Ibrahim Didi,/* Feature film */
+2024-03-09T14:50:35+00:00,1212775827,1191113043,1,ShappeAli,Aminath Shuha,/* Feature film */
+2024-03-09T14:50:00+00:00,1212775721,1191113290,1,ShappeAli,Ahmed Asim,/* Feature film */
+2024-03-09T14:49:06+00:00,1212775547,1204159562,1,ShappeAli,Ahmed Ifnaz Firag,/* Feature film */
+2024-03-09T14:48:30+00:00,1212775421,1175209511,1,ShappeAli,Ibrahim Jihad,/* Feature film */
+2024-03-09T14:42:30+00:00,1212774406,1191764194,1,ShappeAli,Nina (2023 film),
+2024-03-08T08:51:39+00:00,1212527158,1212526678,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-03-08T08:47:25+00:00,1212526678,1211390929,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-03-08T08:34:22+00:00,1212525157,1212524509,1,ShappeAli,Lasviyas,/* Soundtrack */
+2024-03-08T08:30:28+00:00,1212524737,1191360613,1,ShappeAli,File:Lasviyas.jpg,ShappeAli uploaded a new version of [[File:Lasviyas.jpg]]
+2024-03-08T08:28:30+00:00,1212524509,1212523666,1,ShappeAli,Lasviyas,
+2024-03-08T08:20:44+00:00,1212523666,1212522987,1,ShappeAli,Lasviyas,/* Cast */
+2024-03-08T08:14:54+00:00,1212522987,1195076892,1,ShappeAli,Lasviyas,
+2024-03-08T08:12:20+00:00,1212522740,1211385052,1,ShappeAli,Kanbalhi,/* Cast */
+2024-03-08T08:07:20+00:00,1212521694,1194846434,1,ShappeAli,Dark Rain Entertainment,/* Feature film */
+2024-03-08T08:05:30+00:00,1212521138,1191930388,1,ShappeAli,Ali Shifau,/* Feature film */
+2024-03-08T08:04:37+00:00,1212520941,1182298813,1,ShappeAli,Hamdhan Farooq,/* Feature film */
+2024-03-08T08:03:53+00:00,1212520856,1212520005,1,ShappeAli,Fureytha,
+2024-03-08T07:59:02+00:00,1212520311,1191776393,1,ShappeAli,Adam Rizwee,/* Feature film */
+2024-03-08T07:58:47+00:00,1212520292,1193740404,1,ShappeAli,Ahmed Saeed (actor),/* Feature film */
+2024-03-08T07:58:32+00:00,1212520244,1192665329,1,ShappeAli,Mohamed Manik,/* Feature film */
+2024-03-08T07:58:16+00:00,1212520210,1197378476,1,ShappeAli,Ravee Farooq,/* Feature film */
+2024-03-08T07:57:54+00:00,1212520174,1197378497,1,ShappeAli,Sharaf Abdulla,/* Feature film */
+2024-03-08T07:56:44+00:00,1212520052,1211511184,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2024-03-08T07:56:12+00:00,1212520005,1212519685,1,ShappeAli,Fureytha,
+2024-03-08T07:55:42+00:00,1212519945,0,1,ShappeAli,File talk:Fureytha.jpg,[[WP:AES|←]]Created page with '{{WikiProject Film}}'
+2024-03-08T07:55:06+00:00,1212519884,0,1,ShappeAli,File:Fureytha.jpg,{{Non-free use rationale poster\n| Media = film\n| Use = Infobox\n|Source = https://www.muniavas.com/48554\n|Author = [[Dark Rain Entertainment]]\n|Article = Fureytha\n}}\n\n== Licensing ==\n{{Non-free poster|image has rationale=yes}}
+2024-03-08T07:53:13+00:00,1212519709,0,1,ShappeAli,Talk:Fureytha,[[WP:AES|←]]Created page with '{{WikiProject banner shell|class=Start| {{WikiProject Film}} }}'
+2024-03-08T07:52:55+00:00,1212519685,1212519641,1,ShappeAli,Fureytha,
+2024-03-08T07:52:33+00:00,1212519642,0,1,ShappeAli,Draft:Fureytha,ShappeAli moved page [[Draft:Fureytha]] to [[Fureytha]]
+2024-03-08T07:52:33+00:00,1212519641,1212519101,1,ShappeAli,Fureytha,ShappeAli moved page [[Draft:Fureytha]] to [[Fureytha]]
+2024-03-08T07:47:18+00:00,1212519101,1212518028,1,ShappeAli,Fureytha,
+2024-03-08T07:38:23+00:00,1212518028,1211386131,1,ShappeAli,Fureytha,
+2024-03-02T15:10:28+00:00,1211434751,1178061879,1,ShappeAli,Draft:Mohamed Ishfan,
+2024-03-02T08:33:40+00:00,1211390929,1199549158,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-03-02T08:08:35+00:00,1211388250,1199548663,1,ShappeAli,Dark Rain Chronicles,/* Season 2: Love (2024) */
+2024-03-02T07:57:09+00:00,1211386131,1191771047,1,ShappeAli,Fureytha,/* Release */
+2024-03-02T07:47:26+00:00,1211385052,1204689666,1,ShappeAli,Kanbalhi,/* Soundtrack */
+2024-03-02T05:56:36+00:00,1211373518,1211266837,1,ShappeAli,Mariyam Waheedha,
+2024-01-27T09:49:50+00:00,1199549158,1196793789,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-01-27T09:47:45+00:00,1199548663,1194932285,1,ShappeAli,Dark Rain Chronicles,/* Season 2: Love (2024) */
+2024-01-25T17:43:32+00:00,1199020134,1197378375,1,ShappeAli,Kanbalhi,/* Production */
+2024-01-20T07:45:29+00:00,1197379424,1197379347,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2024-01-20T07:45:02+00:00,1197379347,1194934220,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2024-01-20T07:43:28+00:00,1197379140,1197378981,1,ShappeAli,Ahmed Ifnaz Firag,/* Television */
+2024-01-20T07:42:02+00:00,1197378981,1197378700,1,ShappeAli,Ahmed Ifnaz Firag,/* Feature film */
+2024-01-20T07:41:49+00:00,1197378953,1181179318,1,ShappeAli,Ilyas Waheed,/* Filmography */
+2024-01-20T07:40:03+00:00,1197378700,1197378488,1,ShappeAli,Ahmed Ifnaz Firag,/* Feature film */
+2024-01-20T07:38:32+00:00,1197378511,1195285256,1,ShappeAli,Washiya Mohamed,/* Feature film */
+2024-01-20T07:38:28+00:00,1197378497,1190066520,1,ShappeAli,Sharaf Abdulla,/* Feature film */
+2024-01-20T07:38:24+00:00,1197378488,1184583555,1,ShappeAli,Ahmed Ifnaz Firag,/* Feature film */
+2024-01-20T07:38:20+00:00,1197378476,1194052463,1,ShappeAli,Ravee Farooq,/* Feature film */
+2024-01-20T07:38:17+00:00,1197378464,1184584511,1,ShappeAli,Fathimath Latheefa,/* Feature film */
+2024-01-20T07:38:12+00:00,1197378452,1195397968,1,ShappeAli,Mohamed Afrah (actor),/* Feature film */
+2024-01-20T07:37:38+00:00,1197378375,1197377898,1,ShappeAli,Kanbalhi,/* Cast */
+2024-01-20T07:35:08+00:00,1197378080,1180985801,1,ShappeAli,Nuzuhath Shuaib,/* Feature film */
+2024-01-20T07:33:37+00:00,1197377898,1197377585,1,ShappeAli,Kanbalhi,
+2024-01-20T07:33:24+00:00,1197377875,0,1,ShappeAli,File talk:Kanbalhi.jpg,[[WP:AES|←]]Created page with '{{WikiProject Film}}'
+2024-01-20T07:33:08+00:00,1197377840,0,1,ShappeAli,File:Kanbalhi.jpg,{{Non-free use rationale poster\n| Media = film\n| Use = Infobox\n|Source = https://www.muniavas.com/48352\n|Author = Ilyas Waheed\n|Article = Kanbalhi\n}}\n\n== Licensing ==\n{{Non-free poster|image has rationale=yes}}
+2024-01-20T07:31:38+00:00,1197377634,0,1,ShappeAli,Talk:Kanbalhi,[[WP:AES|←]]Created page with '{{Film|class=Start}}'
+2024-01-20T07:31:15+00:00,1197377585,1197377484,1,ShappeAli,Kanbalhi,/* References */
+2024-01-20T07:30:40+00:00,1197377485,0,1,ShappeAli,User:ShappeAli/upcoming,ShappeAli moved page [[User:ShappeAli/upcoming]] to [[Kanbalhi]]
+2024-01-20T07:30:40+00:00,1197377484,1197377289,1,ShappeAli,Kanbalhi,ShappeAli moved page [[User:ShappeAli/upcoming]] to [[Kanbalhi]]
+2024-01-20T07:29:29+00:00,1197377289,1197375813,1,ShappeAli,Kanbalhi,
+2024-01-20T07:19:15+00:00,1197375813,1195075979,1,ShappeAli,Kanbalhi,/* Production */
+2024-01-20T07:05:02+00:00,1197373811,1197373495,1,ShappeAli,User:ShappeAli/sandbox,
+2024-01-20T07:02:41+00:00,1197373495,1178841108,1,ShappeAli,User:ShappeAli/sandbox,[[WP:AES|←]]Blanked the page
+2024-01-20T07:02:34+00:00,1197373473,986527792,1,ShappeAli,User:ShappeAli/sandboxDho,
+2024-01-18T14:47:39+00:00,1196801911,1195286852,1,ShappeAli,Yaaraa,/* Series overview */
+2024-01-18T14:00:23+00:00,1196793789,1194933926,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-01-14T15:26:31+00:00,1195610686,1195581215,1,ShappeAli,Fathimath Fareela,Undid revision 1195581215 by [[Special:Contributions/203.104.26.186|203.104.26.186]] ([[User talk:203.104.26.186|talk]])
+2024-01-13T13:36:13+00:00,1195349978,1195285022,1,ShappeAli,User:ShappeAli/Draft,[[WP:AES|←]]Blanked the page
+2024-01-13T06:04:22+00:00,1195287309,1194926907,1,ShappeAli,List of Maldivian films of 2023,/* Television */
+2024-01-13T06:00:27+00:00,1195286852,1195074946,1,ShappeAli,Yaaraa,/* Series overview */
+2024-01-13T05:47:01+00:00,1195285256,1195281388,1,ShappeAli,Washiya Mohamed,
+2024-01-13T05:44:52+00:00,1195285022,1195284898,1,ShappeAli,User:ShappeAli/Draft,
+2024-01-13T05:43:50+00:00,1195284898,1195283521,1,ShappeAli,User:ShappeAli/Draft,
+2024-01-13T05:31:28+00:00,1195283521,1195283499,1,ShappeAli,User:ShappeAli/Draft,/* 2023–present: Further releases */
+2024-01-13T05:31:08+00:00,1195283499,1195283412,1,ShappeAli,User:ShappeAli/Draft,/* Feature film */
+2024-01-13T05:30:13+00:00,1195283412,1195283356,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-13T05:29:39+00:00,1195283356,1195282938,1,ShappeAli,User:ShappeAli/Draft,/* 2023–present: Further releases */
+2024-01-13T05:25:21+00:00,1195282938,1195281950,1,ShappeAli,User:ShappeAli/Draft,/* 2023–present: Further releases */
+2024-01-13T05:16:34+00:00,1195281950,1195281845,1,ShappeAli,User:ShappeAli/Draft,/* Feature film */
+2024-01-13T05:15:29+00:00,1195281845,1195281523,1,ShappeAli,User:ShappeAli/Draft,/* 2023–present: Further releases */
+2024-01-13T05:12:11+00:00,1195281523,1195281509,1,ShappeAli,User:ShappeAli/Draft,/* 2023–present: Further releases */
+2024-01-13T05:12:03+00:00,1195281509,1195099087,1,ShappeAli,User:ShappeAli/Draft,/* Television */
+2024-01-13T05:10:56+00:00,1195281388,1195281321,1,ShappeAli,Washiya Mohamed,Undid revision 1195281321 by [[Special:Contributions/ShappeAli|ShappeAli]] ([[User talk:ShappeAli|talk]])
+2024-01-13T05:10:20+00:00,1195281321,1192819826,1,ShappeAli,Washiya Mohamed,/* Television */
+2024-01-12T08:58:26+00:00,1195099087,1195096866,1,ShappeAli,User:ShappeAli/Draft,/* 2023–present: Further releases */
+2024-01-12T08:40:48+00:00,1195096866,1195095401,1,ShappeAli,User:ShappeAli/Draft,/* 2023–present: Further releases */
+2024-01-12T08:29:30+00:00,1195095401,1195095337,1,ShappeAli,User:ShappeAli/Draft,
+2024-01-12T08:28:57+00:00,1195095337,1195093776,1,ShappeAli,User:ShappeAli/Draft,/* 2019–22: Career beginnings and Hehes */
+2024-01-12T08:16:21+00:00,1195093776,1195091933,1,ShappeAli,User:ShappeAli/Draft,/* 2019–22: Career beginnings and Hehes */
+2024-01-12T08:06:48+00:00,1195091933,1195090164,1,ShappeAli,User:ShappeAli/Draft,/* Short film */
+2024-01-12T07:55:57+00:00,1195090164,1195088975,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T07:45:27+00:00,1195088975,1195088882,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T07:44:35+00:00,1195088882,1195088313,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T07:39:39+00:00,1195088313,1195088298,1,ShappeAli,User:ShappeAli/Draft,/* Television */
+2024-01-12T07:39:35+00:00,1195088298,1195088200,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T07:38:45+00:00,1195088200,1195088190,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T07:38:40+00:00,1195088190,1195087787,1,ShappeAli,User:ShappeAli/Draft,/* Filmography */
+2024-01-12T07:34:56+00:00,1195087787,1195087539,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T07:32:46+00:00,1195087539,1195085196,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T07:12:11+00:00,1195085196,1195085151,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T07:11:54+00:00,1195085151,1195084706,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T07:07:40+00:00,1195084706,1195082892,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T06:52:53+00:00,1195082892,1195082399,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T06:49:16+00:00,1195082399,1195082225,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T06:47:44+00:00,1195082225,1195081220,1,ShappeAli,User:ShappeAli/Draft,/* Career */
+2024-01-12T06:38:52+00:00,1195081220,1195080805,1,ShappeAli,User:ShappeAli/Draft,/* Early life */
+2024-01-12T06:35:28+00:00,1195080805,0,1,ShappeAli,User:ShappeAli/Draft,"[[WP:AES|←]]Created page with '{{short description|Maldivian actress}} {{Infobox person | name               = Washiya Mohamed | image              = Washiya.jpg | imagesize          = | alt                = | caption            = Mohamed at the ceremony held to celebrate [[Niuma Mohamed]]'s Golden Jubilee in the industry, 2019 | birth_date         = {{birth date and age|df=y|1999|6|18}} | birth_place        = [[Male']], Maldives | nationality        = Maldivian | alma_mater         = |...'"
+2024-01-12T06:01:36+00:00,1195076892,1191770770,1,ShappeAli,Lasviyas,/* Filming */
+2024-01-12T05:54:34+00:00,1195075979,1192996405,1,ShappeAli,Kanbalhi,
+2024-01-12T05:46:23+00:00,1195074946,1195074869,1,ShappeAli,Yaaraa,/* Season 2 (2023–2024) */
+2024-01-12T05:45:49+00:00,1195074869,1193740305,1,ShappeAli,Yaaraa,/* Season 2 (2023–2024) */
+2024-01-11T14:05:31+00:00,1194934220,1193921482,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2024-01-11T14:03:13+00:00,1194933926,1194930881,1,ShappeAli,Girlfriends (web series),/* Cast and characters */
+2024-01-11T14:02:19+00:00,1194933808,1194933769,1,ShappeAli,Ahmed Azmeel,/* Controversy */
+2024-01-11T14:02:02+00:00,1194933769,1175182735,1,ShappeAli,Ahmed Azmeel,/* Media image */
+2024-01-11T13:55:58+00:00,1194932995,1189046899,1,ShappeAli,Mohamed Afrah (actor),/* Television */
+2024-01-11T13:55:44+00:00,1194932963,1183531491,1,ShappeAli,Aisha Ali,/* Television */
+2024-01-11T13:55:11+00:00,1194932896,1176975240,1,ShappeAli,Ali Usam,/* Television */
+2024-01-11T13:54:56+00:00,1194932861,1194929524,1,ShappeAli,Ahmed Sharif (Maldivian actor),/* Television */
+2024-01-11T13:51:15+00:00,1194932285,1193912346,1,ShappeAli,Dark Rain Chronicles,/* Season 2: Love (2024) */
+2024-01-11T13:48:33+00:00,1194931930,1194929877,1,ShappeAli,Mee Ishq,/* Release */
+2024-01-11T13:40:12+00:00,1194930881,1194930198,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-01-11T13:39:04+00:00,1194930763,1191113241,1,ShappeAli,Mariyam Waheedha,/* Television */
+2024-01-11T13:38:49+00:00,1194930724,1182298146,1,ShappeAli,Mariyam Haleem,/* Television */
+2024-01-11T13:38:32+00:00,1194930683,1190066622,1,ShappeAli,Aminath Rasheedha,/* Television */
+2024-01-11T13:38:00+00:00,1194930600,1178496620,1,ShappeAli,Mohamed Vishal,/* Filmography */
+2024-01-11T13:34:48+00:00,1194930198,1192953392,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-01-11T13:32:16+00:00,1194929877,1194928820,1,ShappeAli,Mee Ishq,/* Release */
+2024-01-11T13:30:27+00:00,1194929630,1190066982,1,ShappeAli,Mohamed Rasheed (actor),/* Feature film */
+2024-01-11T13:29:43+00:00,1194929524,1192948594,1,ShappeAli,Ahmed Sharif (Maldivian actor),/* Feature film */
+2024-01-11T13:28:14+00:00,1194929331,1194926942,1,ShappeAli,Gareena,/* Cast and characters */
+2024-01-11T13:24:29+00:00,1194928820,1194926384,1,ShappeAli,Mee Ishq,/* Release */
+2024-01-11T13:09:07+00:00,1194926942,1194926789,1,ShappeAli,Gareena,
+2024-01-11T13:08:50+00:00,1194926907,1193932301,1,ShappeAli,List of Maldivian films of 2023,/* Television */
+2024-01-11T13:07:53+00:00,1194926789,1193906889,1,ShappeAli,Gareena,/* Episodes */
+2024-01-11T13:04:13+00:00,1194926384,1194079438,1,ShappeAli,Mee Ishq,/* Cast */
+2024-01-06T14:28:56+00:00,1193965664,1114587033,1,ShappeAli,List of Maldivian films of 2017,/* References */
+2024-01-06T14:28:04+00:00,1193965559,1183305413,1,ShappeAli,List of Maldivian films of 2018,/* References */
+2024-01-06T14:26:32+00:00,1193965376,1179142341,1,ShappeAli,List of Maldivian films of 2020,/* Releases */
+2024-01-06T09:52:49+00:00,1193932301,1193910631,1,ShappeAli,List of Maldivian films of 2023,/* Dubbed film */
+2024-01-06T08:13:10+00:00,1193921482,1192947352,1,ShappeAli,List of Maldivian films of 2024,/* Television */
+2024-01-06T06:56:45+00:00,1193912346,1193911680,1,ShappeAli,Dark Rain Chronicles,
+2024-01-06T06:49:41+00:00,1193911680,1193911323,1,ShappeAli,Dark Rain Chronicles,
+2024-01-06T06:45:43+00:00,1193911323,1193738550,1,ShappeAli,Dark Rain Chronicles,/* Chapters */
+2024-01-06T06:43:24+00:00,1193911110,1190496249,1,ShappeAli,Shivaz Abdulla,/* Feature film */
+2024-01-06T06:41:49+00:00,1193910944,1192277804,1,ShappeAli,Ali Seezan,/* Other work */
+2024-01-06T06:39:01+00:00,1193910631,1193910514,1,ShappeAli,List of Maldivian films of 2023,/* Dubbed films */
+2024-01-06T06:38:51+00:00,1193910606,1191870212,1,ShappeAli,List of Maldivian films of 2021,/* Releases */
+2024-01-06T06:37:52+00:00,1193910514,1192277277,1,ShappeAli,List of Maldivian films of 2023,/* Releases */
+2024-01-06T06:02:18+00:00,1193906889,1193906702,1,ShappeAli,Gareena,/* Episodes */
+2024-01-06T06:00:36+00:00,1193906702,1192951425,1,ShappeAli,Gareena,
+2024-01-05T11:01:03+00:00,1193740404,1193739486,1,ShappeAli,Ahmed Saeed (actor),/* Television */
+2024-01-05T11:00:20+00:00,1193740305,1193739901,1,ShappeAli,Yaaraa,/* Season 2 (2023–2024) */
+2024-01-05T10:56:26+00:00,1193739901,1193738861,1,ShappeAli,Yaaraa,/* Soundtrack */
+2024-01-05T10:52:26+00:00,1193739486,1182299216,1,ShappeAli,Ahmed Saeed (actor),/* Television */
+2024-01-05T10:51:31+00:00,1193739370,1177899415,1,ShappeAli,Sheela Najeeb,/* Television */
+2024-01-05T10:47:25+00:00,1193738966,1143814773,1,ShappeAli,File:Dark Rain Chronicles.jpg,ShappeAli uploaded a new version of [[File:Dark Rain Chronicles.jpg]]
+2024-01-05T10:46:17+00:00,1193738861,1193709284,1,ShappeAli,Yaaraa,
+2024-01-05T10:43:04+00:00,1193738550,1193619601,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-05T06:26:00+00:00,1193709284,1192948223,1,ShappeAli,Yaaraa,/* Season 2 (2023) */
+2024-01-03T14:18:08+00:00,1193374922,1193374772,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-03T14:16:51+00:00,1193374772,1193373923,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-03T14:10:55+00:00,1193373923,1193373585,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-03T14:08:28+00:00,1193373585,1193373306,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-03T14:06:19+00:00,1193373306,1193212472,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-02T17:03:52+00:00,1193212472,1193212432,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-02T17:03:39+00:00,1193212432,1193147596,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-02T13:56:11+00:00,1193185618,1193185479,1,ShappeAli,Mee Ishq,/* Soundtrack */
+2024-01-02T13:55:24+00:00,1193185479,1191770763,1,ShappeAli,Mee Ishq,/* Soundtrack */
+2024-01-01T14:01:39+00:00,1192996405,1192953094,1,ShappeAli,Kanbalhi,
+2024-01-01T07:20:49+00:00,1192953392,1192951250,1,ShappeAli,Girlfriends (web series),/* Cast and characters */
+2024-01-01T07:17:26+00:00,1192953094,1191771109,1,ShappeAli,Kanbalhi,
+2024-01-01T07:11:27+00:00,1192952540,1192952510,1,ShappeAli,Dark Rain Chronicles,/* Series overview */
+2024-01-01T07:11:13+00:00,1192952510,1192952206,1,ShappeAli,Dark Rain Chronicles,
+2024-01-01T07:07:54+00:00,1192952206,1192952078,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-01T07:06:20+00:00,1192952078,1192951059,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2024-01-01T06:59:11+00:00,1192951425,1192948546,1,ShappeAli,Gareena,/* Recurring */
+2024-01-01T06:57:13+00:00,1192951250,1192276705,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2024-01-01T06:55:13+00:00,1192951059,1191774182,1,ShappeAli,Dark Rain Chronicles,/* Cast and characters */
+2024-01-01T06:28:54+00:00,1192948594,1192238346,1,ShappeAli,Ahmed Sharif (Maldivian actor),/* Television */
+2024-01-01T06:28:20+00:00,1192948546,1192301240,1,ShappeAli,Gareena,/* Recurring */
+2024-01-01T06:24:40+00:00,1192948223,1192813313,1,ShappeAli,Yaaraa,/* Season 2 (2023) */
+2024-01-01T06:14:37+00:00,1192947352,1190904088,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2023-12-31T13:13:28+00:00,1192813313,1192790430,1,ShappeAli,Yaaraa,/* Guest */
+2023-12-31T09:42:50+00:00,1192790430,1192790172,1,ShappeAli,Yaaraa,/* Season 2 (2023) */
+2023-12-31T09:40:43+00:00,1192790172,1192301522,1,ShappeAli,Yaaraa,/* Soundtrack */
+2023-12-28T17:31:27+00:00,1192301522,1191114656,1,ShappeAli,Yaaraa,/* Season 2 (2023) */
+2023-12-28T17:29:10+00:00,1192301240,1191888948,1,ShappeAli,Gareena,/* Episodes */
+2023-12-28T15:17:31+00:00,1192277804,1186947350,1,ShappeAli,Ali Seezan,
+2023-12-28T15:14:48+00:00,1192277277,1191870227,1,ShappeAli,List of Maldivian films of 2023,/* Television */
+2023-12-28T15:11:38+00:00,1192276705,1192217682,1,ShappeAli,Girlfriends (web series),
+2023-12-28T11:02:20+00:00,1192241306,1192238209,1,ShappeAli,Mohamed Jumayyil,/* 2019–present: Experiment with different genres */
+2023-12-28T10:37:14+00:00,1192238346,1192114162,1,ShappeAli,Ahmed Sharif (Maldivian actor),/* Television */
+2023-12-28T10:36:20+00:00,1192238209,1192237673,1,ShappeAli,Mohamed Jumayyil,/* Feature film */
+2023-12-28T10:36:06+00:00,1192238190,1192114567,1,ShappeAli,Washiya Mohamed,/* Feature film */
+2023-12-28T10:31:42+00:00,1192237673,1192237518,1,ShappeAli,Mohamed Jumayyil,/* Feature film */
+2023-12-28T10:30:23+00:00,1192237518,1192114536,1,ShappeAli,Mohamed Jumayyil,/* 2019–present: Experiment with different genres */
+2023-12-28T07:16:38+00:00,1192217682,1191887701,1,ShappeAli,Girlfriends (web series),/* Cast and characters */
+2023-12-28T07:15:57+00:00,1192217613,1191922223,1,ShappeAli,Aishath Lahfa,/* Television */
+2023-12-27T17:39:49+00:00,1192114567,1184413918,1,ShappeAli,Washiya Mohamed,/* Short film */
+2023-12-27T17:39:31+00:00,1192114536,1190900770,1,ShappeAli,Mohamed Jumayyil,/* Accolades */
+2023-12-27T17:36:59+00:00,1192114194,1174564194,1,ShappeAli,Abdulla Muaz,/* Accolades */
+2023-12-27T17:36:42+00:00,1192114162,1190062731,1,ShappeAli,Ahmed Sharif (Maldivian actor),/* Discography */
+2023-12-27T17:33:32+00:00,1192113747,1179142221,1,ShappeAli,Hatharu Manzaru,/* Accolades */
+2023-12-27T17:33:17+00:00,1192113717,1191870130,1,ShappeAli,Hehes,/* Release */
+2023-12-27T17:31:33+00:00,1192113483,1191764644,1,ShappeAli,Goh Raalhu,/* Release and response */
+2023-12-26T17:28:59+00:00,1191930428,1191928325,1,ShappeAli,Draft:Aishath Yaadha,
+2023-12-26T17:28:40+00:00,1191930388,1190005471,1,ShappeAli,Ali Shifau,
+2023-12-26T17:12:57+00:00,1191928325,1191928070,1,ShappeAli,Draft:Aishath Yaadha,/* Feature film */
+2023-12-26T17:10:51+00:00,1191928070,1191927930,1,ShappeAli,Draft:Aishath Yaadha,/* Feature film */
+2023-12-26T17:09:49+00:00,1191927930,1191927746,1,ShappeAli,Draft:Aishath Yaadha,/* Filmography */
+2023-12-26T17:08:20+00:00,1191927746,1191923881,1,ShappeAli,Draft:Aishath Yaadha,/* Filmography */
+2023-12-26T16:40:53+00:00,1191923881,0,1,ShappeAli,Draft:Aishath Yaadha,[[WP:AES|←]]Created page with '{{short description|Maldivian film actor}} {{Infobox person | name         = Aishath Yaadha Waheed | image        =  | imagesize    =  | alt          =  | caption      =  | birth_date   = {{birth date and age|1980|1|25|df=y}} | birth_place  =  | nationality   = Maldivian | alma_mater   =  | occupation   = {{hlist|Actress}} | yearsactive  = XX–present | spouse       =  | children     =  | works        =  | awards       =  }}  '''Aishath Yaadha Waheed''' (b...'
+2023-12-26T16:30:04+00:00,1191922223,1191911140,1,ShappeAli,Aishath Lahfa,
+2023-12-26T11:58:19+00:00,1191889314,1181011460,1,ShappeAli,Ali Shazleem,/* Television */
+2023-12-26T11:54:58+00:00,1191888948,1191887938,1,ShappeAli,Gareena,/* Recurring */
+2023-12-26T11:45:11+00:00,1191887938,1190907876,1,ShappeAli,Gareena,/* Episodes */
+2023-12-26T11:44:13+00:00,1191887845,1183531678,1,ShappeAli,Ahmed Shakir,/* Television */
+2023-12-26T11:42:41+00:00,1191887701,1191887681,1,ShappeAli,Girlfriends (web series),/* Recurring */
+2023-12-26T11:42:31+00:00,1191887681,1191885884,1,ShappeAli,Girlfriends (web series),/* Cast and characters */
+2023-12-26T11:36:51+00:00,1191887100,1183306770,1,ShappeAli,Huvaa,/* Soundtrack */
+2023-12-26T11:35:46+00:00,1191886987,1189978753,1,ShappeAli,Hamdhoon Farooq,/* Television */
+2023-12-26T11:35:26+00:00,1191886950,1182299094,1,ShappeAli,Abdullah Shafiu Ibrahim,/* Television */
+2023-12-26T11:25:24+00:00,1191885884,1191885405,1,ShappeAli,Girlfriends (web series),
+2023-12-26T11:19:52+00:00,1191885405,1191884941,1,ShappeAli,Girlfriends (web series),
+2023-12-26T11:14:19+00:00,1191884941,1191884917,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2023-12-26T11:14:05+00:00,1191884917,1191884888,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2023-12-26T11:13:45+00:00,1191884888,1191884766,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2023-12-26T11:12:45+00:00,1191884766,1191875783,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2023-12-26T09:31:23+00:00,1191875783,1191870194,1,ShappeAli,Girlfriends (web series),/* Cast and characters */
+2023-12-26T09:24:33+00:00,1191875145,1191875085,1,ShappeAli,Draft:Azhan Ibrahim,/* Career */
+2023-12-26T09:23:52+00:00,1191875085,1191875064,1,ShappeAli,Draft:Azhan Ibrahim,/* Filmography */
+2023-12-26T09:23:38+00:00,1191875064,1191874499,1,ShappeAli,Draft:Azhan Ibrahim,/* Career */
+2023-12-26T09:16:46+00:00,1191874499,1191873939,1,ShappeAli,Draft:Azhan Ibrahim,
+2023-12-26T09:09:50+00:00,1191873939,1191873893,1,ShappeAli,Draft:Azhan Ibrahim,
+2023-12-26T09:09:21+00:00,1191873893,1191873863,1,ShappeAli,Draft:Azhan Ibrahim,/* Filmography */
+2023-12-26T09:09:07+00:00,1191873863,1191873749,1,ShappeAli,Draft:Azhan Ibrahim,/* Career */
+2023-12-26T09:07:47+00:00,1191873749,1191873671,1,ShappeAli,Draft:Azhan Ibrahim,/* Early life */
+2023-12-26T09:07:02+00:00,1191873671,1191873566,1,ShappeAli,Draft:Azhan Ibrahim,/* Early life */
+2023-12-26T09:06:01+00:00,1191873566,1191873421,1,ShappeAli,Draft:Azhan Ibrahim,/* Career */
+2023-12-26T09:04:39+00:00,1191873421,1191873304,1,ShappeAli,Draft:Azhan Ibrahim,/* Early life */
+2023-12-26T09:03:30+00:00,1191873304,1191873283,1,ShappeAli,Draft:Azhan Ibrahim,/* Early life */
+2023-12-26T09:03:17+00:00,1191873283,1191872786,1,ShappeAli,Draft:Azhan Ibrahim,/* Early life */
+2023-12-26T08:58:31+00:00,1191872786,1191872338,1,ShappeAli,Draft:Azhan Ibrahim,
+2023-12-26T08:53:49+00:00,1191872338,1187950483,1,ShappeAli,Draft:Azhan Ibrahim,
+2023-12-26T08:28:54+00:00,1191870227,1191870033,1,ShappeAli,List of Maldivian films of 2023,
+2023-12-26T08:28:47+00:00,1191870212,1188761326,1,ShappeAli,List of Maldivian films of 2021,
+2023-12-26T08:28:37+00:00,1191870194,1191445769,1,ShappeAli,Girlfriends (web series),
+2023-12-26T08:27:47+00:00,1191870130,1191764324,1,ShappeAli,Hehes,
+2023-12-26T08:27:38+00:00,1191870119,1182854988,1,ShappeAli,Mazloom (web series),
+2023-12-26T08:27:21+00:00,1191870100,1191764216,1,ShappeAli,Kalhaki,
+2023-12-26T08:26:35+00:00,1191870033,1191110577,1,ShappeAli,List of Maldivian films of 2023,
+2023-12-26T08:26:23+00:00,1191870021,1182539244,1,ShappeAli,Bridge (web series),
+2023-12-26T08:26:12+00:00,1191870005,1187945432,1,ShappeAli,List of Maldivian films of 2022,
+2023-12-26T08:25:59+00:00,1191869992,1144949723,1,ShappeAli,Yasna (web series),
+2023-12-26T08:24:37+00:00,1191869885,0,1,ShappeAli,Talk:Aishath Lahfa,"[[WP:AES|←]]Created page with '{{WikiProject Biography|filmbio-work-group=yes|living=yes|class=start|listas=Lahfa, Aishath}} {{WikiProject Maldives |class=Start |importance=Low}}'"
+2023-12-26T08:23:29+00:00,1191869787,1191869761,1,ShappeAli,Aishath Lahfa,/* External links */
+2023-12-26T08:23:13+00:00,1191869763,0,1,ShappeAli,Draft:Aishath Lahfa,ShappeAli moved page [[Draft:Aishath Lahfa]] to [[Aishath Lahfa]]
+2023-12-26T08:23:13+00:00,1191869761,1191869713,1,ShappeAli,Aishath Lahfa,ShappeAli moved page [[Draft:Aishath Lahfa]] to [[Aishath Lahfa]]
+2023-12-26T08:23:01+00:00,1191869738,1188116757,1,ShappeAli,Fathimath Sara Adam,/* References */
+2023-12-26T08:22:41+00:00,1191869713,1191869503,1,ShappeAli,Aishath Lahfa,/* External links */
+2023-12-26T08:20:39+00:00,1191869503,1191869443,1,ShappeAli,Aishath Lahfa,/* Television */
+2023-12-26T08:20:04+00:00,1191869443,1191869378,1,ShappeAli,Aishath Lahfa,/* Career */
+2023-12-26T08:19:26+00:00,1191869378,1191869227,1,ShappeAli,Aishath Lahfa,/* Career */
+2023-12-26T08:17:40+00:00,1191869227,1191869131,1,ShappeAli,Aishath Lahfa,/* Television */
+2023-12-26T08:16:18+00:00,1191869131,1191868684,1,ShappeAli,Aishath Lahfa,
+2023-12-26T08:10:45+00:00,1191868684,1191867949,1,ShappeAli,Aishath Lahfa,/* Career */
+2023-12-26T08:07:04+00:00,1191867949,1191867711,1,ShappeAli,Aishath Lahfa,
+2023-12-26T08:06:15+00:00,1191867711,1180378753,1,ShappeAli,Aishath Lahfa,/* Career */
+2023-12-25T18:43:58+00:00,1191776393,1180842376,1,ShappeAli,Adam Rizwee,/* Feature film */
+2023-12-25T18:25:24+00:00,1191774182,1191119733,1,ShappeAli,Dark Rain Chronicles,/* Series overview */
+2023-12-25T18:03:23+00:00,1191771161,1190745470,1,ShappeAli,User:ShappeAli/sandbox3,/* References */
+2023-12-25T18:03:08+00:00,1191771138,1187322946,1,ShappeAli,User:ShappeAli/sandbox4,/* References */
+2023-12-25T18:02:52+00:00,1191771109,1190198349,1,ShappeAli,Kanbalhi,/* References */
+2023-12-25T18:02:26+00:00,1191771047,1191770962,1,ShappeAli,Fureytha,/* References */
+2023-12-25T18:02:18+00:00,1191771025,1189221563,1,ShappeAli,Draft:Udhabaani 2,/* References */
+2023-12-25T18:02:13+00:00,1191771013,1190746768,1,ShappeAli,User:ShappeAli/Awa,/* References */
+2023-12-25T18:01:57+00:00,1191770962,1187772566,1,ShappeAli,Fureytha,/* References */
+2023-12-25T18:00:45+00:00,1191770784,1190745591,1,ShappeAli,Balhindhu,/* References */
+2023-12-25T18:00:41+00:00,1191770770,1190200122,1,ShappeAli,Lasviyas,/* References */
+2023-12-25T18:00:38+00:00,1191770763,1191763017,1,ShappeAli,Mee Ishq,/* References */
+2023-12-25T17:58:39+00:00,1191770455,1189222703,1,ShappeAli,Lists of Maldivian films,/* 1980s */
+2023-12-25T17:48:38+00:00,1191769229,1182853147,1,ShappeAli,Ghaazee Bandaarain,/* References */
+2023-12-25T17:48:35+00:00,1191769218,1185904994,1,ShappeAli,Orchid – Eynaage Maa,/* References */
+2023-12-25T17:48:32+00:00,1191769214,1182607733,1,ShappeAli,Loabi '90,/* References */
+2023-12-25T17:47:35+00:00,1191769106,1158532103,1,ShappeAli,Karuna (1994 film),/* References */
+2023-12-25T17:44:42+00:00,1191768787,1182853354,1,ShappeAli,Heelaiy,/* References */
+2023-12-25T17:44:39+00:00,1191768783,1182542624,1,ShappeAli,Fathis Handhuvaru,/* References */
+2023-12-25T17:43:57+00:00,1191768694,1170823288,1,ShappeAli,Hagu An'bi,/* References */
+2023-12-25T17:41:07+00:00,1191768374,1183004898,1,ShappeAli,Saahibaa,/* References */
+2023-12-25T17:41:05+00:00,1191768372,1175362738,1,ShappeAli,2000 Vana Ufan Dhuvas,/* References */
+2023-12-25T17:41:02+00:00,1191768363,1183006844,1,ShappeAli,Zalzalaa,/* References */
+2023-12-25T17:39:04+00:00,1191768114,1182541549,1,ShappeAli,Edhathuru,/* References */
+2023-12-25T17:38:53+00:00,1191768091,1182853326,1,ShappeAli,Hatharu Udhares,/* References */
+2023-12-25T17:38:48+00:00,1191768078,1183004996,1,ShappeAli,Sandhuravirey 2,/* References */
+2023-12-25T17:38:45+00:00,1191768071,1175362877,1,ShappeAli,Eynaa,/* References */
+2023-12-25T17:38:02+00:00,1191767975,1183006558,1,ShappeAli,Vehey Vaarey Therein,/* References */
+2023-12-25T17:37:59+00:00,1191767966,1182541552,1,ShappeAli,Edhi Edhi Hoadheemey,/* References */
+2023-12-25T17:37:55+00:00,1191767958,1182539689,1,ShappeAli,Dhonkamana,/* References */
+2023-12-25T17:37:51+00:00,1191767953,1182538982,1,ShappeAli,Araamagu Dhonkamana,/* References */
+2023-12-25T17:37:48+00:00,1191767946,1182853852,1,ShappeAli,Kalaayaanulaa,/* References */
+2023-12-25T17:37:45+00:00,1191767942,1182853156,1,ShappeAli,Ginihila,/* References */
+2023-12-25T17:37:38+00:00,1191767933,1182855314,1,ShappeAli,Naaummeedhu,/* References */
+2023-12-25T17:37:35+00:00,1191767929,1182539639,1,ShappeAli,Dheevaanaa,/* References */
+2023-12-25T17:37:31+00:00,1191767919,1182538838,1,ShappeAli,Aan... Aharenves Loabivin,/* References */
+2023-12-25T17:37:28+00:00,1191767914,1183004987,1,ShappeAli,Sandhuravirey,/* References */
+2023-12-25T17:35:04+00:00,1191767638,1182853265,1,ShappeAli,Handhu Keytha,/* References */
+2023-12-25T17:35:01+00:00,1191767630,1190843384,1,ShappeAli,Zuleykha,/* External links */
+2023-12-25T17:34:25+00:00,1191767558,1182853449,1,ShappeAli,Hiyani,/* References */
+2023-12-25T17:34:22+00:00,1191767553,1182853383,1,ShappeAli,Heylaa,/* External links */
+2023-12-25T17:34:19+00:00,1191767548,1182853598,1,ShappeAli,Hukuru Vileyrey,/* References */
+2023-12-25T17:34:14+00:00,1191767539,1183006438,1,ShappeAli,Vaaloabi Engeynama,/* External links */
+2023-12-25T17:32:31+00:00,1191767324,1182853887,1,ShappeAli,Khalaas,/* References */
+2023-12-25T17:32:28+00:00,1191767322,1177203583,1,ShappeAli,Yoosuf,/* References */
+2023-12-25T17:31:39+00:00,1191767230,1183006362,1,ShappeAli,Udhabaani,/* References */
+2023-12-25T17:31:33+00:00,1191767216,1182853296,1,ShappeAli,Happy Birthday (2009 film),/* References */
+2023-12-25T17:31:30+00:00,1191767206,1182539038,1,ShappeAli,Baaraige Fas,/* References */
+2023-12-25T17:29:49+00:00,1191767033,1183006516,1,ShappeAli,Vakinuvinama,/* References */
+2023-12-25T17:29:45+00:00,1191767024,1182855025,1,ShappeAli,Mendhamuge Evaguthu,/* References */
+2023-12-25T17:29:41+00:00,1191767014,1183006852,1,ShappeAli,Zalzalaa En'buri Aun,/* References */
+2023-12-25T17:29:37+00:00,1191767010,1117970266,1,ShappeAli,Jinni (film),/* References */
+2023-12-25T17:29:34+00:00,1191766999,1182855067,1,ShappeAli,Mi Hiyy Keekkuraanee?,/* References */
+2023-12-25T17:28:09+00:00,1191766846,1182538467,1,ShappeAli,14 Vileyrey,/* References */
+2023-12-25T17:28:05+00:00,1191766840,1106411645,1,ShappeAli,Kuhveriakee Kaakuhey?,/* References */
+2023-12-25T17:28:02+00:00,1191766833,1183006835,1,ShappeAli,Zaharu,/* External links */
+2023-12-25T17:27:59+00:00,1191766827,1178261517,1,ShappeAli,Sazaa (2011 film),/* External links */
+2023-12-25T17:26:42+00:00,1191766661,1182854545,1,ShappeAli,Love Story (2012 film),/* References */
+2023-12-25T17:26:34+00:00,1191766645,1182855103,1,ShappeAli,Mihashin Furaana Dhandhen,/* References */
+2023-12-25T17:23:57+00:00,1191766323,1182542630,1,ShappeAli,Fathis Handhuvaruge Feshun 3D,/* External links */
+2023-12-25T17:23:52+00:00,1191766316,1117968107,1,ShappeAli,Ingili,/* External links */
+2023-12-25T17:23:46+00:00,1191766305,1175645588,1,ShappeAli,Dhilakani,/* External links */
+2023-12-25T17:22:59+00:00,1191766224,1182853718,1,ShappeAli,Insaana,/* References */
+2023-12-25T17:22:54+00:00,1191766213,1182538601,1,ShappeAli,24 Gadi Iru,/* References */
+2023-12-25T17:17:58+00:00,1191765691,1117969619,1,ShappeAli,Mikoe Bappa Baey Baey,/* External links */
+2023-12-25T17:16:15+00:00,1191765531,1182541545,1,ShappeAli,E Re'ah Fahu,/* References */
+2023-12-25T17:16:11+00:00,1191765521,1098296438,1,ShappeAli,Neyngi Yaaru Vakivee,/* References */
+2023-12-25T17:16:06+00:00,1191765509,1183006546,1,ShappeAli,Vee Beyvafa,/* References */
+2023-12-25T17:15:51+00:00,1191765483,1183006451,1,ShappeAli,Vafaatheri Kehiveriya,/* References */
+2023-12-25T17:15:46+00:00,1191765462,1179142439,1,ShappeAli,4426,/* External links */
+2023-12-25T17:14:38+00:00,1191765331,1175369925,1,ShappeAli,Bos (film),/* References */
+2023-12-25T17:14:34+00:00,1191765316,1117969437,1,ShappeAli,Neydhen Vakivaakah,
+2023-12-25T17:14:04+00:00,1191765257,1182853253,1,ShappeAli,Hahdhu,/* External links */
+2023-12-25T17:14:01+00:00,1191765247,1183428278,1,ShappeAli,Ill Noise,/* External links */
+2023-12-25T17:13:50+00:00,1191765228,1183006622,1,ShappeAli,Vishka (film),/* External links */
+2023-12-25T17:13:10+00:00,1191765152,1182854866,1,ShappeAli,Malikaa,/* References */
+2023-12-25T17:10:45+00:00,1191764904,1106411547,1,ShappeAli,Thiya Loaibaa Dhurah,/* References */
+2023-12-25T17:10:40+00:00,1191764898,1183306577,1,ShappeAli,Reyvumun,/* External links */
+2023-12-25T17:10:37+00:00,1191764891,1175359112,1,ShappeAli,Dhevansoora,/* References */
+2023-12-25T17:09:37+00:00,1191764763,1117970284,1,ShappeAli,Kaaku?,/* External links */
+2023-12-25T17:09:27+00:00,1191764741,1182539089,1,ShappeAli,Bavathi,/* External links */
+2023-12-25T17:09:10+00:00,1191764708,1182539633,1,ShappeAli,Dhauvath,/* References */
+2023-12-25T17:09:02+00:00,1191764690,1182855334,1,ShappeAli,Nafrathuvumun,/* References */
+2023-12-25T17:08:41+00:00,1191764644,1175359949,1,ShappeAli,Goh Raalhu,/* External links */
+2023-12-25T17:06:43+00:00,1191764417,1180673430,1,ShappeAli,Maryam (2021 film),
+2023-12-25T17:05:53+00:00,1191764324,1182853361,1,ShappeAli,Hehes,/* References */
+2023-12-25T17:04:57+00:00,1191764233,1186945508,1,ShappeAli,Free Delivery,/* References */
+2023-12-25T17:04:47+00:00,1191764216,1180378608,1,ShappeAli,Kalhaki,/* References */
+2023-12-25T17:04:39+00:00,1191764205,1177899702,1,ShappeAli,Jokaru,/* References */
+2023-12-25T17:04:28+00:00,1191764194,1180518960,1,ShappeAli,Nina (2023 film),/* References */
+2023-12-25T17:04:07+00:00,1191764159,1178218538,1,ShappeAli,Hindhukolheh,/* References */
+2023-12-25T17:03:56+00:00,1191764131,1190331794,1,ShappeAli,Beeveema,/* References */
+2023-12-25T16:53:21+00:00,1191763017,1190063514,1,ShappeAli,Mee Ishq,/* Soundtrack */
+2023-12-25T16:47:53+00:00,1191762351,1189977301,1,ShappeAli,November (2023 film),/* Release and reception */
+2023-12-23T16:11:30+00:00,1191445769,1191444762,1,ShappeAli,Girlfriends (web series),/* Guest */
+2023-12-23T16:03:13+00:00,1191444762,1191444691,1,ShappeAli,Girlfriends (web series),
+2023-12-23T16:02:40+00:00,1191444691,1191444280,1,ShappeAli,Girlfriends (web series),/* Cast and characters */
+2023-12-23T15:59:03+00:00,1191444280,1191444174,1,ShappeAli,Girlfriends (web series),
+2023-12-23T15:58:13+00:00,1191444174,1191110286,1,ShappeAli,Girlfriends (web series),/* Cast and characters */
+2023-12-21T16:57:09+00:00,1191119733,1191119523,1,ShappeAli,Dark Rain Chronicles,/* Season 2 (2024) */
+2023-12-21T16:55:22+00:00,1191119523,1191116875,1,ShappeAli,Dark Rain Chronicles,/* Chapters */
+2023-12-21T16:39:45+00:00,1191116875,1191116746,1,ShappeAli,Dark Rain Chronicles,/* Cast and characters */
+2023-12-21T16:39:12+00:00,1191116746,1190065621,1,ShappeAli,Dark Rain Chronicles,/* Cast and characters */
+2023-12-21T16:27:50+00:00,1191114656,1191114054,1,ShappeAli,Yaaraa,/* Episodes */
+2023-12-21T16:23:49+00:00,1191114054,1189992625,1,ShappeAli,Yaaraa,/* Episodes */
+2023-12-21T16:19:28+00:00,1191113339,1182299008,1,ShappeAli,Ravee Farooq,/* Television */
+2023-12-21T16:19:12+00:00,1191113290,1183265449,1,ShappeAli,Ahmed Asim,/* Television */
+2023-12-21T16:18:55+00:00,1191113241,1188117361,1,ShappeAli,Mariyam Waheedha,/* Television */
+2023-12-21T16:17:46+00:00,1191113043,1189965954,1,ShappeAli,Aminath Shuha,/* Television */
+2023-12-21T16:03:58+00:00,1191110577,1188761925,1,ShappeAli,List of Maldivian films of 2023,/* Television */
+2023-12-21T16:02:15+00:00,1191110286,1191108075,1,ShappeAli,Girlfriends (web series),/* Release and reception */
+2023-12-21T15:51:24+00:00,1191108075,1191107783,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2023-12-21T15:50:18+00:00,1191107783,1188764160,1,ShappeAli,Girlfriends (web series),/* Episodes */
+2023-12-20T15:19:12+00:00,1190907876,1190904887,1,ShappeAli,Gareena,/* Episodes */
+2023-12-20T14:52:30+00:00,1190904887,1190902793,1,ShappeAli,Gareena,/* Cast and characters */
+2023-12-20T14:50:20+00:00,1190904614,1187950808,1,ShappeAli,Draft:Fathimath Visama,
+2023-12-20T14:45:44+00:00,1190904088,1190746846,1,ShappeAli,List of Maldivian films of 2024,/* Television */
+2023-12-20T14:37:50+00:00,1190903103,1170696717,1,ShappeAli,Ismail Wajeeh,/* Feature film */
+2023-12-20T14:35:15+00:00,1190902793,1188768543,1,ShappeAli,Gareena,/* Episodes */
+2023-12-20T14:19:01+00:00,1190900770,1190875938,1,ShappeAli,Mohamed Jumayyil,Undid revision 1190875938 by [[Special:Contributions/185.215.35.120|185.215.35.120]] ([[User talk:185.215.35.120|talk]])
+2023-12-19T16:27:25+00:00,1190746846,1190063163,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2023-12-19T16:26:45+00:00,1190746768,1190746614,1,ShappeAli,User:ShappeAli/Awa,
+2023-12-19T16:25:19+00:00,1190746614,1190746575,1,ShappeAli,User:ShappeAli/Awa,
+2023-12-19T16:24:55+00:00,1190746575,1187759678,1,ShappeAli,User:ShappeAli/Awa,
+2023-12-19T16:15:26+00:00,1190745591,1179647816,1,ShappeAli,Balhindhu,
+2023-12-19T16:14:23+00:00,1190745470,1190743807,1,ShappeAli,User:ShappeAli/sandbox3,/* Production */
+2023-12-19T16:00:43+00:00,1190743807,1190220825,1,ShappeAli,User:ShappeAli/sandbox3,/* Production */
+2023-12-17T09:14:09+00:00,1190331794,1190331536,1,ShappeAli,Beeveema,/* Cast */
+2023-12-17T09:10:57+00:00,1190331536,1190331075,1,ShappeAli,Beeveema,
+2023-12-17T09:06:21+00:00,1190331143,1181011094,1,ShappeAli,Ahmed Zareer,/* Feature film */
+2023-12-17T09:05:35+00:00,1190331075,1190330988,1,ShappeAli,Beeveema,
+2023-12-17T09:04:42+00:00,1190330988,1189898970,1,ShappeAli,Beeveema,
+2023-12-16T15:18:20+00:00,1190205802,1190205349,1,ShappeAli,User:ShappeAli/sandbox3,/* Production */
+2023-12-16T15:14:50+00:00,1190205349,1190205058,1,ShappeAli,User:ShappeAli/sandbox3,/* Filming */
+2023-12-16T15:13:12+00:00,1190205058,1190204693,1,ShappeAli,User:ShappeAli/sandbox3,/* Filming */
+2023-12-16T15:10:22+00:00,1190204693,1190204387,1,ShappeAli,User:ShappeAli/sandbox3,/* Filming */
+2023-12-16T15:07:46+00:00,1190204387,1190203696,1,ShappeAli,User:ShappeAli/sandbox3,/* Filming */
+2023-12-16T15:02:17+00:00,1190203696,1190203456,1,ShappeAli,User:ShappeAli/sandbox3,/* Production */
+2023-12-16T15:00:27+00:00,1190203456,1190203213,1,ShappeAli,User:ShappeAli/sandbox3,/* Production */
+2023-12-16T14:58:27+00:00,1190203213,1190202007,1,ShappeAli,User:ShappeAli/sandbox3,/* Filming */
+2023-12-16T14:49:37+00:00,1190202007,1190200428,1,ShappeAli,User:ShappeAli/sandbox3,/* Production */
+2023-12-16T14:38:29+00:00,1190200428,1190199872,1,ShappeAli,User:ShappeAli/sandbox3,/* Development */
+2023-12-16T14:36:17+00:00,1190200122,1189997696,1,ShappeAli,Lasviyas,
+2023-12-16T14:34:07+00:00,1190199872,1188113070,1,ShappeAli,User:ShappeAli/sandbox3,
+2023-12-16T14:21:51+00:00,1190198349,1189979501,1,ShappeAli,Kanbalhi,
+2023-12-15T10:40:32+00:00,1190008364,1190008169,1,ShappeAli,Mee Ishq,/* Soundtrack */
+2023-12-15T10:38:15+00:00,1190008169,1190008145,1,ShappeAli,Mee Ishq,/* Soundtrack */
+2023-12-15T10:37:57+00:00,1190008145,1188132555,1,ShappeAli,Mee Ishq,/* Soundtrack */
+2023-12-15T10:10:32+00:00,1190005471,1178218497,1,ShappeAli,Ali Shifau,/* Feature film */
+2023-12-15T08:40:21+00:00,1189998309,1189997292,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2023-12-15T08:31:36+00:00,1189997696,1189997242,1,ShappeAli,Lasviyas,
+2023-12-15T08:28:30+00:00,1189997402,1174396373,1,ShappeAli,Ahmed Easa,/* Feature film */
+2023-12-15T08:27:06+00:00,1189997292,1189996041,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2023-12-15T08:26:37+00:00,1189997242,1189997206,1,ShappeAli,Lasviyas,
+2023-12-15T08:26:09+00:00,1189997206,1189997033,1,ShappeAli,Lasviyas,
+2023-12-15T08:25:58+00:00,1189997184,0,1,ShappeAli,File talk:Lasviyas.jpg,[[WP:AES|←]]Created page with '{{WikiProject Film}}'
+2023-12-15T08:25:28+00:00,1189997154,0,1,ShappeAli,File:Lasviyas.jpg,{{Non-free use rationale poster\n| Media = film\n| Use = Infobox\n|Source = https://www.addulive.com/338018\n|Author = Mohamed Niyaz\n|Article = Lasviyas\n}}\n\n== Licensing ==\n{{Non-free poster|image has rationale=yes}}
+2023-12-15T08:23:50+00:00,1189997033,1189996975,1,ShappeAli,Lasviyas,
+2023-12-15T08:23:20+00:00,1189996975,1189996700,1,ShappeAli,Lasviyas,
+2023-12-15T08:21:25+00:00,1189996793,0,1,ShappeAli,Talk:Lasviyas,[[WP:AES|←]]Created page with '{{Film|class=Start}}'
+2023-12-15T08:20:44+00:00,1189996700,1189996632,1,ShappeAli,Lasviyas,
+2023-12-15T08:20:11+00:00,1189996633,0,1,ShappeAli,Draft:Lasviyas,ShappeAli moved page [[Draft:Lasviyas]] to [[Lasviyas]]
+2023-12-15T08:20:11+00:00,1189996632,1189995888,1,ShappeAli,Lasviyas,ShappeAli moved page [[Draft:Lasviyas]] to [[Lasviyas]]
+2023-12-15T08:15:09+00:00,1189996041,1189996012,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2023-12-15T08:14:50+00:00,1189996012,1189995991,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2023-12-15T08:14:39+00:00,1189995991,1189979585,1,ShappeAli,List of Maldivian films of 2024,/* Feature film */
+2023-12-15T08:13:36+00:00,1189995888,1189993833,1,ShappeAli,Lasviyas,/* Production */
+2023-12-15T08:02:32+00:00,1189993833,1189993649,1,ShappeAli,Lasviyas,
+2023-12-15T08:01:02+00:00,1189993649,1189993197,1,ShappeAli,Lasviyas,
+2023-12-15T07:55:52+00:00,1189993197,1189993086,1,ShappeAli,Lasviyas,/* Filming */
+2023-12-15T07:54:26+00:00,1189993086,1189992298,1,ShappeAli,Lasviyas,/* Casting */
+2023-12-15T07:48:42+00:00,1189992625,1189990462,1,ShappeAli,Yaaraa,/* Episodes */
+2023-12-15T07:46:07+00:00,1189992298,1189991911,1,ShappeAli,Lasviyas,/* Production */
+2023-12-15T07:41:44+00:00,1189991911,1189991825,1,ShappeAli,Lasviyas,/* Casting */
+2019-07-12T08:52:08+00:00,905910627,905703844,1,Ahmed_Naaim,Aminath Noora,
+2019-07-12T08:51:04+00:00,905910551,905623274,1,Ahmed_Naaim,Sheela Najeeb,
+2019-07-12T08:48:32+00:00,905910391,905703340,1,Ahmed_Naaim,Adam Rizwee,
+2019-07-12T07:19:36+00:00,905902507,905033498,1,Ahmed_Naaim,Mohamed Faisal (actor),
+2019-07-12T07:19:30+00:00,905902493,905704577,1,Ahmed_Naaim,Abdullah Shafiu Ibrahim,
+2019-07-12T07:16:11+00:00,905902116,905014477,1,Ahmed_Naaim,Mariyam Azza,
+2019-06-16T14:02:48+00:00,902091899,901828424,1,Ahmed_Naaim,Mariyam Shakeela (actress),
+2019-06-16T13:59:53+00:00,902091637,898045125,1,Ahmed_Naaim,Ali Shifau,
+2019-06-16T13:58:36+00:00,902091539,901508819,1,Ahmed_Naaim,Roanu Hassan Manik,
+2019-06-16T13:55:42+00:00,902091277,902063971,1,Ahmed_Naaim,Niuma Mohamed,
+2019-06-16T13:50:32+00:00,902090846,899689730,1,Ahmed_Naaim,Arifa Ibrahim,
+2019-06-16T13:47:12+00:00,902090566,901508975,1,Ahmed_Naaim,Ahmed Nimal,
+2019-06-16T13:28:56+00:00,902088780,902061708,1,Ahmed_Naaim,Amira Ismail,
+2019-06-16T13:26:15+00:00,902088459,902062647,1,Ahmed_Naaim,Mohamed Manik,
+2019-06-16T13:22:27+00:00,902088029,897621292,1,Ahmed_Naaim,Hassan Afeef,
+2019-06-16T13:19:45+00:00,902087730,901508970,1,Ahmed_Naaim,Ravee Farooq,
+2019-05-29T11:37:35+00:00,899338587,898991646,1,Ahmed_Naaim,Ali Shameel,
+2019-05-29T11:35:17+00:00,899338396,898455009,1,Ahmed_Naaim,Mariyam Azza,/* 2017–present: Commercial success */
+2019-05-29T11:34:08+00:00,899338302,898453810,1,Ahmed_Naaim,Fathimath Azifa,/* 2017–present: Commercial success */
+2019-05-29T11:32:28+00:00,899338144,896333182,1,Ahmed_Naaim,Aishath Rishmy,/* 2014–present: Critical success and Vishka */
+2019-04-23T15:30:28+00:00,893787661,893151138,1,Ahmed_Naaim,Ahmed Easa,
+2019-04-23T15:28:24+00:00,893787380,893787243,1,Ahmed_Naaim,Ahmed Nimal,
+2019-04-23T15:27:37+00:00,893787275,893726793,1,Ahmed_Naaim,Ali Azim,
+2019-04-23T15:27:27+00:00,893787243,893458365,1,Ahmed_Naaim,Ahmed Nimal,
+2019-04-23T15:18:51+00:00,893786075,892709012,1,Ahmed_Naaim,Abdulla Muaz,
+2019-04-23T15:17:06+00:00,893785861,881302300,1,Ahmed_Naaim,Ismail Jumaih,
+2019-04-23T15:07:21+00:00,893784768,892723282,1,Ahmed_Naaim,Aminath Rishfa,
+2019-04-23T15:03:12+00:00,893784290,893745383,1,Ahmed_Naaim,Abdul Faththaah,
+2019-04-23T15:01:21+00:00,893784107,893550321,1,Ahmed_Naaim,Sheela Najeeb,
+2019-04-23T13:03:07+00:00,893766535,892717009,1,Ahmed_Naaim,Roanu Hassan Manik,
+2019-02-15T08:04:51+00:00,883417343,882545690,1,Ahmed_Naaim,Mariyam Shakeela (actress),
+2019-01-28T13:48:15+00:00,880627768,880614846,1,Ahmed_Naaim,Neena Saleem,
+2019-01-19T07:43:47+00:00,879135180,879133709,1,Ahmed_Naaim,Yoosuf Shafeeu,
+2018-12-14T11:21:19+00:00,873671532,873667806,1,Ahmed_Naaim,Ali Seezan,
+2018-12-14T11:19:33+00:00,873671394,873671358,1,Ahmed_Naaim,Mohamed Manik,
+2018-12-14T11:19:00+00:00,873671358,873671313,1,Ahmed_Naaim,Mohamed Manik,
+2018-12-14T11:18:35+00:00,873671313,873474781,1,Ahmed_Naaim,Mohamed Manik,
+2018-12-14T11:17:01+00:00,873671190,873474413,1,Ahmed_Naaim,Sheela Najeeb,/* Career */
+2018-12-14T11:10:51+00:00,873670654,873667677,1,Ahmed_Naaim,Niuma Mohamed,
+2018-11-24T12:03:27+00:00,870381452,868124550,1,Ahmed_Naaim,Amira Ismail,
+2018-11-24T12:00:59+00:00,870381205,869772271,1,Ahmed_Naaim,Ravee Farooq,
+2018-11-24T11:56:59+00:00,870380851,866010367,1,Ahmed_Naaim,Mohamed Manik,
+2018-11-24T11:53:02+00:00,870380476,868710587,1,Ahmed_Naaim,Ali Seezan,
+2018-11-24T11:50:59+00:00,870380285,870380261,1,Ahmed_Naaim,Ahmed Saeed (actor),
+2018-11-24T11:50:45+00:00,870380261,869492966,1,Ahmed_Naaim,Ahmed Saeed (actor),
+2018-11-24T11:20:59+00:00,870377770,862258523,1,Ahmed_Naaim,Mohamed Jumayyil,
+2018-11-24T11:18:51+00:00,870377618,868627954,1,Ahmed_Naaim,Mariyam Azza,
+2018-11-16T06:02:55+00:00,869070829,868671368,1,Ahmed_Naaim,Aminath Rasheedha,
+2018-11-16T05:53:54+00:00,869069957,867051519,1,Ahmed_Naaim,Fathimath Azifa,
+2018-11-10T03:37:39+00:00,868119518,867043530,1,Ahmed_Naaim,Aishath Rishmy,
+2018-10-06T06:45:04+00:00,862718311,862717198,1,Ahmed_Naaim,Niuma Mohamed,
+2018-10-06T06:34:21+00:00,862717198,862461134,1,Ahmed_Naaim,Niuma Mohamed,
+2022-10-17T21:34:27+00:00,1116694448,1106411572,0,QueenofBithynia,4426,housefull→houseful - [[Wikipedia:Correct typos in one click|Correct typos in one click]]
+2019-09-29T12:49:25+00:00,918592908,915791092,0,Kstone999,Abdul Faththaah,v2.02 - Fixing innerlinks / [[WP:WCW]] project (Link equal to linktext)
+2019-06-14T20:57:46+00:00,901869951,901828785,0,Atlantic306,2000 Vana Ufan Dhuvas,/* Synopsis */ ced
+2023-06-04T17:53:10+00:00,1158536145,1158536049,0,Saan Allo,2000 Vana Ufan Dhuvas,/* Soundtrack */
+2020-06-08T05:38:17+00:00,961388328,933986755,0,Ser Amantio di Nicolao,Aan... Aharenves Loabivin,/* References */add category
+2022-08-24T13:20:56+00:00,1106411692,1100457105,0,Bearcat,24 Gadi Iru,[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2020-05-08T02:45:58+00:00,955486772,918039581,0,GreenC bot,14 Vileyrey,Reformat 3 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-07-29T17:19:29+00:00,1101169972,1101169541,0,123.176.11.223,Abdulla Muaz,
+2022-06-01T21:26:15+00:00,1091044194,1076768068,0,InternetArchiveBot,Abdullah Shafiu Ibrahim,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2019-09-26T18:33:41+00:00,918039581,893724602,0,Monkbot,14 Vileyrey,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (4×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2023-12-28T01:45:53+00:00,1192180473,1191767919,0,WikiCleanerBot,Aan... Aharenves Loabivin,v2.05b - [[User:WikiCleanerBot#T5|Bot T5 CW#17]] - Fix errors for [[WP:WCW|CW project]] (Category duplication)
+2023-02-01T03:57:07+00:00,1136787972,1113201027,0,69.94.93.98,Abdulla Muaz,
+2019-10-12T21:46:40+00:00,920943446,915058324,0,Rich Farmbrough,Adam Rizwee,/* Career */Cite cleanup
+2020-03-22T16:56:05+00:00,946821096,920943446,0,Adam Rizwee,Adam Rizwee,
+2019-09-19T01:30:34+00:00,916462357,915080891,0,InternetArchiveBot,Ahmed Asim,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0
+2020-07-27T08:46:30+00:00,969763738,959407085,0,69.94.83.71,Adam Rizwee,
+2020-01-24T14:23:55+00:00,937356865,934137789,0,202.153.81.113,Ahmed Asim,
+2020-05-28T16:28:38+00:00,959407085,955484901,0,IbrahimShaaif,Adam Rizwee,/* Career */ Fixed grammar
+2019-07-06T15:39:15+00:00,905061383,905044758,0,Mikeblas,Ahmed Asim,fix duplicate refdef due to edits by [[User:ShappeAli]]
+2020-02-06T18:01:41+00:00,939474236,920960137,0,PearBOT II,Ahmed Azmeel,Adding automatically generated short description. For more information see [[Wikipedia:Bots/Requests for approval/PearBOT 5]] Feedback appreciated at [[User talk:Trialpears]]
+2022-03-12T20:22:46+00:00,1076765154,1067124020,0,Rlink2,Ahmed Azmeel,/* Television */archive link repair;
+2021-09-04T09:27:48+00:00,1042312969,1042312721,0,NitteAli,Ahmed Easa,/* Television */
+2019-10-13T00:29:35+00:00,920960200,920907315,0,Rich Farmbrough,Ahmed Nimal,Cite cleanup
+2023-12-27T11:13:48+00:00,1192059190,1186947752,0,John of Reading,Ahmed Nimal,"/* Career */Typo fixing, replaced: an starred → and starred"
+2021-05-17T11:40:53+00:00,1023619411,1023476193,0,NitteAli,Ahmed Nimal,/* Other work */
+2021-08-24T07:26:32+00:00,1040384156,1038844189,0,BattyBot,Ahmed Nimal,/* References */Removed [[Category:Year of birth missing (living people)]] and [[WP:AWB/GF|General fixes]]
+2020-03-05T01:31:27+00:00,943989965,940964401,0,Iridescent,Ahmed Saeed (actor),"Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: fiance → fiancé (2)"
+2023-08-23T15:57:16+00:00,1171856711,1170698470,0,GreenC bot,Ahmed Saeed (actor),Reformat 2 citations per [[:Category:CS1 errors: archive-url]]. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2019-10-08T23:05:46+00:00,920309939,916471336,0,Ira Leviton,Ahmed Saeed (actor),Fixed typos found with [[Wikipedia:Typo_Team/moss]].
+2020-12-13T21:15:35+00:00,994048973,986957064,0,UnitedStatesian,Ahmed Shakir,Requesting speedy deletion ([[WP:CSD#G13|CSD G13]]).
+2023-12-15T18:45:19+00:00,1190062731,1188116857,0,GreenC bot,Ahmed Sharif (Maldivian actor),Reformat 1 URL ([[en:User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]])
+2024-01-13T18:40:43+00:00,1195406082,1190331143,0,Ser Amantio di Nicolao,Ahmed Zareer,/* External links */add [[Category:Year of birth missing (living people)]]
+2022-05-12T19:56:28+00:00,1087491245,1080806643,0,GreenC bot,Aishath Rishmy,Reformat 9 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2019-05-09T19:48:14+00:00,896333182,893725510,0,InternetArchiveBot,Aishath Rishmy,Rescuing 8 sources and tagging 0 as dead. #IABot (v2.0beta14)
+2022-06-01T22:03:18+00:00,1091048874,1088862875,0,InternetArchiveBot,Ali Seezan,Rescuing 7 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2020-06-22T04:17:32+00:00,963847178,960028629,0,GreenC bot,Ali Seezan,Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-10-14T20:39:23+00:00,983542394,983325937,0,Headbomb,Ali Seezan,fix
+2020-01-31T20:05:44+00:00,938533291,938533232,0,KylieTastic,Ali Seezan,Reverted 1 edit by [[Special:Contributions/27.114.165.118|27.114.165.118]] ([[User talk:27.114.165.118|talk]]) to last revision by KylieTastic ([[WP:TW|TW]])
+2019-10-27T19:54:56+00:00,923317651,923285448,0,Douglasboavista,Ali Shameel,Reverted 1 edit by [[Special:Contributions/39.40.68.243|39.40.68.243]] ([[User talk:39.40.68.243|talk]]) ([[WP:TW|TW]])
+2019-10-13T04:10:57+00:00,920986983,918313763,0,Rich Farmbrough,Ali Shazleem,/* Career */Cite cleanup
+2023-08-20T23:14:49+00:00,1171405923,1154544376,0,GreenC bot,Ali Shameel,Removed 1 archive link; reformat 2 citations per [[:Category:CS1 errors: archive-url]]. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-03-22T19:28:51+00:00,1013655264,1013655202,0,NitteAli,Ali Shazleem,/* Other work */
+2020-07-04T16:07:30+00:00,965986014,962369120,0,124.195.205.144,Ali Shifau,
+2023-06-04T04:21:34+00:00,1158447609,1141751591,0,Sammi Brie,Ali Shifau,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Maldivian film director, cinematographer and editor"""
+2020-04-01T06:40:57+00:00,948474999,920986987,0,Will Sandberg,Ali Shifau,
+2019-09-23T12:21:20+00:00,917347710,915127009,0,InternetArchiveBot,Ali Shifau,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2021-02-15T08:17:42+00:00,1006875916,1005544976,0,NitteAli,Ali Shifau,/* Feature film */
+2022-11-21T18:22:35+00:00,1123080975,1115997982,0,BattyBot,Aminath Noora,/* References */Removed [[Category:Year of birth missing (living people)]] and [[WP:AWB/GF|General fixes]]
+2019-10-13T04:10:59+00:00,920986987,917347710,0,Rich Farmbrough,Ali Shifau,Cite cleanup
+2021-08-14T09:35:36+00:00,1038723796,1035413613,0,Saan Allo,Aminath Rasheedha,/* Feature film */
+2019-10-13T05:07:18+00:00,920992072,917948574,0,Rich Farmbrough,Aminath Noora,/* Career */Cite cleanup
+2022-10-10T16:20:45+00:00,1115264719,1113456954,0,Bearcat,Aminath Rasheedha,added [[Category:Maldivian women film directors]] using [[WP:HC|HotCat]]
+2021-11-25T02:52:03+00:00,1057043353,1030904092,0,Rlink2,Aminath Rishfa,"archive link repair, may include: archive.* -> archive.today, http->https for ghostarchive.org and archive.org, and fixing refs for IABot [[phab:T291704]]"
+2019-09-26T07:57:10+00:00,917948605,915176007,0,InternetArchiveBot,Aminath Rasheedha,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0
+2019-03-02T18:57:48+00:00,885848136,883991987,0,Ser Amantio di Nicolao,Aminath Rishfa,/* External links */add category
+2022-10-08T14:21:37+00:00,1114834895,1114801177,0,Kj cheetham,Aminath Shuha,"Adding [[Wikipedia:Short description|short description]]: ""Maldivian film actress and former TV presenter"""
+2020-06-09T06:31:19+00:00,961568291,961568232,0,Materialscientist,Arifa Ibrahim,Reverted edits by [[Special:Contributions/43.231.28.155|43.231.28.155]] ([[User talk:43.231.28.155|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-06-01T22:11:35+00:00,1091049900,1088863836,0,InternetArchiveBot,Amira Ismail,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2021-04-18T12:00:12+00:00,1018503777,1006148506,0,Saan Allo,Araamagu Dhonkamana,/* Cast */
+2022-09-24T21:49:28+00:00,1112142337,1100455134,0,Bearcat,Baaraige Fas,removed [[Category:Maldivian films]]; added [[Category:Maldivian horror films]] using [[WP:HC|HotCat]]
+2022-07-26T01:10:28+00:00,1100456549,1094277640,0,INS Pirat,Balhindhu,added [[Category:Films directed by Ahmed Sinan]] using [[WP:HC|HotCat]]
+2021-10-27T20:58:43+00:00,1052183806,1023350393,0,Rlink2,Bavathi,archive.* -> archive.today ( (https://blog.archive.today/post/659307974748160000)
+2021-12-24T06:45:10+00:00,1061827709,1013014215,0,Jay,Beeveema,minor change to avert G13 after undeletion
+2023-03-22T19:50:41+00:00,1146100858,1139925088,0,Bender the Bot,Beeveema,"/* Development */HTTP to HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/"
+2021-09-11T23:45:09+00:00,1043781763,1035494185,0,Normal Name,Bos (film),"Fixed typo, detoriate --> deteriorate"
+2019-02-09T18:28:23+00:00,882524572,881299365,0,Fortdj33,Bos (film),"Added category, added Empty section (1) tag"
+2023-10-29T23:05:50+00:00,1182539244,1173623888,0,Solidest,Bridge (web series),/* Soundtrack */fixing track listing template formatting (unknown parameters)
+2023-03-24T22:32:10+00:00,1146443331,1145102567,0,Butlerblog,Dark Rain Chronicles,/* top */remove deprecated infobox parameters ([[:Template:Infobox television]])
+2024-01-11T01:11:54+00:00,1194846434,1189927193,0,InternetArchiveBot,Dark Rain Entertainment,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5
+2019-07-24T13:40:12+00:00,907671930,897499791,0,InternetArchiveBot,Dheevaanaa,Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta15)
+2022-08-24T13:20:16+00:00,1106411588,1100450876,0,Bearcat,Dhonkamana,/* References */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2022-08-24T13:20:14+00:00,1106411582,1100451988,0,Bearcat,Dhauvath,/* References */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2022-09-22T22:09:17+00:00,1111783223,1106411514,0,Sc2353,Dheevaanaa,−[[Category:Maldivian thriller films]]; ±[[Category:Maldivian romance films]]→[[Category:Maldivian romantic thriller films]] using [[WP:HC|HotCat]]
+2019-10-26T23:36:55+00:00,923190765,919432436,0,Rich Farmbrough,E Re'ah Fahu,Cite cleanup
+2020-01-11T05:33:40+00:00,935209147,929304974,0,GreenC bot,Edhathuru,Reformat 3 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-06-03T22:38:53+00:00,1026725002,1014634391,0,69.94.88.182,Edhi Edhi Hoadheemey,/* Soundtrack */
+2022-03-12T20:23:02+00:00,1076765190,1068624569,0,Rlink2,Fathimath Azifa,archive link repair;
+2023-09-19T23:19:11+00:00,1176170935,1176087610,0,Atlantic306,Fathimath Azifa,Undid revision 1176087610 by [[Special:Contributions/202.153.81.54|202.153.81.54]] ([[User talk:202.153.81.54|talk]])
+2022-06-02T02:56:04+00:00,1091083828,1076765190,0,InternetArchiveBot,Fathimath Azifa,Rescuing 3 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2021-02-07T05:17:25+00:00,1005344191,1005344076,0,NitteAli,Fathimath Fareela,/* Short film */
+2022-11-09T07:02:03+00:00,1120866560,1116407581,0,Ser Amantio di Nicolao,Fathimath Latheefa,/* External links */add [[Category:Year of birth missing (living people)]]
+2021-07-02T08:40:03+00:00,1031560041,1011340586,0,NitteAli,Fathis Handhuvaru,
+2019-01-30T09:21:56+00:00,880921604,873369297,0,178.67.5.6,Fathis Handhuvaruge Feshun 3D,/* References */
+2022-05-20T19:07:33+00:00,1088904012,1076765043,0,Citation bot,Fauziyya Hassan,Alter: title. Add: work. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine 455/2633
+2024-03-16T02:05:22+00:00,1213945860,1212661739,0,DeltaQuadBot,File:Lasviyas.jpg,(Image Revdel) Orphaned non-free file(s) deleted per [[WP:F5|F5]] ([[User:AmandaNP/Imagerevdel/Run|disable]])
+2019-01-30T09:10:43+00:00,880920760,880783567,0,178.67.5.6,Ginihila,/* References */
+2023-03-29T19:14:34+00:00,1147252780,1145102365,0,Butlerblog,Girlfriends (web series),/* top */remove deprecated infobox parameters ([[:Template:Infobox television]])
+2022-08-24T13:20:28+00:00,1106411623,1100458715,0,Bearcat,Ginihila,/* References */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2022-06-21T18:33:32+00:00,1094285937,1093997061,0,GreenC bot,Ghaazee Bandaarain,Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-03-26T03:19:42+00:00,1079311372,1078555648,0,PrimeBOT,Girlfriends (web series),/* top */[[User:PrimeBOT/30|Task 30]]: removal of deprecated infobox parameters
+2022-07-26T01:18:34+00:00,1100457906,1093746339,0,INS Pirat,Girlfriends (web series),added [[Category:Films directed by Ibrahim Wisan]] using [[WP:HC|HotCat]]
+2023-09-03T20:36:26+00:00,1173674459,1171157899,0,PrimeBOT,Girlfriends (web series),"/* top */[[User:PrimeBOT/30|Task 30]]: parameter removal following [[Special:PermaLink/1173535532#Remove_""Picture_format""_and_""audio_format""|a discussion]]"
+2023-10-31T19:35:49+00:00,1182853166,1179142624,0,Solidest,Girlfriends (web series),/* Soundtrack */fixing track listing template formatting (unknown parameters)
+2022-06-18T15:40:23+00:00,1093746339,1079311372,0,PrimeBOT,Girlfriends (web series),/* top */[[User:PrimeBOT/30|Task 30]]: removal of infobox parameter following [[Special:PermaLink/1093705351#Should_first_run_param_be_removed?|a discussion]]
+2022-07-26T01:10:25+00:00,1100456534,1035560335,0,INS Pirat,Goh Raalhu,added [[Category:Films directed by Ahmed Sinan]] using [[WP:HC|HotCat]]
+2021-07-26T11:14:26+00:00,1035560335,1033865261,0,NitteAli,Goh Raalhu,/* Premise */
+2021-02-26T08:27:12+00:00,1009019390,1006907850,0,NitteAli,Hahdhu,
+2020-01-10T19:44:12+00:00,935144701,905337326,0,Lapablo,Hamdhan Farooq,Requesting speedy deletion ([[WP:CSD#G13|CSD G13]]). ([[WP:TW|TW]])
+2019-01-30T16:55:15+00:00,880969412,880969382,0,178.67.5.6,Handhu Keytha,/* References */
+2020-03-25T17:54:14+00:00,947333384,935073256,0,GreenC bot,Hassan Afeef,Reformat 5 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-08-23T17:24:54+00:00,1171869146,1158292612,0,GreenC bot,Hassan Afeef,Reformat 3 citations per [[:Category:CS1 errors: archive-url]]. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-07-26T00:55:00+00:00,1100453949,1012106228,0,INS Pirat,Happy Birthday (2009 film),added [[Category:Films directed by Moomin Fuad]] using [[WP:HC|HotCat]]
+2024-02-25T14:12:05+00:00,1210208443,1191768787,0,89.110.21.86,Heelaiy,/* References */
+2023-03-13T13:12:14+00:00,1144382086,1100458731,0,Eejit43,Hatharu Udhares,Fix/remove category link(s)
+2021-08-24T16:50:57+00:00,1040452956,1040129348,0,Frietjes,Hehes,
+2024-02-24T20:46:51+00:00,1210062553,1191767553,0,Bearcat,Heylaa,removed [[Category:2000s crime films]]; added [[Category:2006 crime drama films]] using [[WP:HC|HotCat]]
+2022-08-24T13:19:38+00:00,1106411478,1100454160,0,Bearcat,Heylaa,/* External links */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2024-01-21T19:03:27+00:00,1197735751,1197391368,0,43.231.29.156,Hindhukolheh,/* Plot */
+2020-11-30T17:20:30+00:00,991549875,991549681,0,69.94.46.171,Hukuru Vileyrey,
+2022-09-24T22:09:28+00:00,1112145277,1100451650,0,Bearcat,Hiyani,/* References */recat
+2023-04-03T15:02:43+00:00,1148013545,1114586760,0,Butlerblog,Huvaa,/* top */remove deprecated infobox parameters ([[:Template:Infobox television]])
+2022-06-09T21:35:56+00:00,1092366444,1091491235,0,ActivelyDisinterested,Ibrahim Jihad,De-duplicated reference
+2022-06-04T16:45:15+00:00,1091491235,1091091570,0,Saan Allo,Ibrahim Jihad,/* Feature film */
+2018-12-04T15:35:38+00:00,871981880,861016199,0,Trappist the monk,Ill Noise,CS1 fixes;  |language= spelling;
+2021-02-13T13:59:32+00:00,1006551762,1006551395,0,NitteAli,Ingili,/* Accolades */
+2022-08-24T13:21:02+00:00,1106411708,1100458999,0,Bearcat,Insaana,/* References */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2021-09-09T21:29:18+00:00,1043388042,1017742898,0,Sc2353,Insaana,removed [[Category:2010s thriller films]]; added [[Category:2014 psychological thriller films]] using [[WP:HC|HotCat]]
+2022-03-12T20:36:00+00:00,1076767289,1066232669,0,Rlink2,Ismail Jumaih,archive link repair;
+2019-10-28T18:25:41+00:00,923462019,917226715,0,Rich Farmbrough,Ismail Jumaih,Cite cleanup
+2019-10-03T09:32:25+00:00,919363337,893724428,0,Monkbot,Jinni (film),[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (4×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2021-06-29T04:38:43+00:00,1030989540,1019605548,0,NitteAli,Kaaku?,
+2021-01-22T14:13:27+00:00,1002030868,1000500083,0,StarTrekker,Kalhaki,/* References */
+2020-03-22T18:05:21+00:00,946833169,946040479,0,GreenC bot,Kalaayaanulaa,Reformat 6 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-02-12T04:04:35+00:00,940368966,918810006,0,InternetArchiveBot,Kaaku?,Rescuing 4 sources and tagging 0 as dead.) #IABot (v2.0
+2021-06-29T03:22:01+00:00,1030980776,1030980611,0,NitteAli,Khalaas,/* Accolades */
+2021-12-21T10:59:48+00:00,1061383227,1008280141,0,Saan Allo,Kuhveriakee Kaakuhey?,/* Soundtrack */
+2022-08-24T13:20:36+00:00,1106411640,1100456019,0,Bearcat,Khalaas,/* References */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2020-07-27T21:19:20+00:00,969871459,919335515,0,GreenC bot,Kuhveriakee Kaakuhey?,Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-08-24T13:29:00+00:00,1106412983,1077137634,0,Bearcat,List of Maldivian films of 2018,/* External links */recat
+2022-06-02T07:22:47+00:00,1091108551,1077135673,0,InternetArchiveBot,List of Maldivian films of 2020,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2022-06-21T19:03:24+00:00,1094291243,1094061989,0,GreenC bot,List of Maldivian films of 2021,Reformat 5 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-07-28T11:36:49+00:00,1035915335,1035579601,0,NitteAli,List of Maldivian films of 2021,/* Feature film */
+2019-12-02T23:25:24+00:00,928988359,923760231,0,Aymatth2,Lists of Maldivian films,/* References */ tag
+2018-12-05T20:07:28+00:00,872197025,838660396,0,Trappist the monk,Malikaa,/* top */CS1 fixes;  |language= spelling;
+2020-02-06T18:08:42+00:00,939475149,921225534,0,PearBOT II,Mariyam Azza,Adding automatically generated short description. For more information see [[Wikipedia:Bots/Requests for approval/PearBOT 5]] Feedback appreciated at [[User talk:Trialpears]]
+2019-09-08T18:04:26+00:00,914662804,914662407,0,CommonsDelinker,Mariyam Azza,"Removing [[:c:File:AzzaBosThemeSong.jpg|AzzaBosThemeSong.jpg]], it has been deleted from Commons by [[:c:User:Srittau|Srittau]] because: per [[:c:Commons:Deletion requests/Files uploaded by Ahmed Naaim|]]."
+2021-05-01T17:44:36+00:00,1020895755,1020649523,0,NitteAli,Mariyam Azza,/* Short film */
+2022-06-02T12:13:33+00:00,1091135905,1088934483,0,InternetArchiveBot,Mariyam Haleem,Rescuing 4 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2019-07-12T12:45:44+00:00,905931287,905916061,0,AnomieBOT,Mariyam Haleem,"Rescuing orphaned refs (""faded"" from [[Niuma Mohamed]])"
+2019-10-30T23:23:45+00:00,923815936,917867489,0,Rich Farmbrough,Mariyam Majudha,Cite cleanup
+2018-12-05T20:15:14+00:00,872198052,860083633,0,Trappist the monk,Mariyam Majudha,CS1 fixes;  |language= spelling;
+2022-07-02T21:09:01+00:00,1096179676,1091135932,0,Rodw,Mariyam Shakeela (actress),Disambiguating links to [[Nibu]] (link changed to [[Niboo]]; link changed to [[Niboo]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2022-06-18T18:13:29+00:00,1093768301,1083008667,0,PrimeBOT,Mazloom (web series),/* top */[[User:PrimeBOT/30|Task 30]]: removal of infobox parameter following [[Special:PermaLink/1093705351#Should_first_run_param_be_removed?|a discussion]]
+2020-05-19T13:02:09+00:00,957560587,899609119,0,PrimeBOT,Mee Ishq,[[User:PrimeBOT/30|Task 30]] - updating infobox parameters in [[Template:infobox television]] + article genfixes
+2022-08-24T13:20:40+00:00,1106411648,1100451035,0,Bearcat,Mendhamuge Evaguthu,/* References */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2020-04-01T16:30:07+00:00,948542696,946040699,0,InternetArchiveBot,Mi Hiyy Keekkuraanee?,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2019-06-09T22:31:37+00:00,901132765,901055503,0,Atlantic306,Mi Hiyy Keekkuraanee?,ced
+2021-04-29T17:04:40+00:00,1020541073,1018916134,0,NitteAli,Mohamed Abdul Ghanee,/* Short film */
+2018-09-19T14:11:29+00:00,860268676,833546667,0,92.100.195.201,Mikoe Bappa Baey Baey,/* External links */
+2021-04-29T23:46:10+00:00,1020597117,1019507144,0,Saan Allo,Mohamed Faisal (actor),/* Other work */
+2021-05-17T11:52:23+00:00,1023620713,1020597117,0,NitteAli,Mohamed Faisal (actor),/* Other work */
+2021-04-17T16:33:12+00:00,1018351966,1016546472,0,NitteAli,Mohamed Jumayyil,/* Feature film */
+2022-06-02T12:49:31+00:00,1091139553,1088937057,0,InternetArchiveBot,Mohamed Jumayyil,Rescuing 8 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2019-11-03T15:12:14+00:00,924386739,918020973,0,Rich Farmbrough,Mohamed Jumayyil,Cite cleanup
+2020-11-05T22:32:10+00:00,987259765,987259758,0,ClueBot NG,Mohamed Jumayyil,"Reverting possible vandalism by [[Special:Contribs/Ismailanim|Ismailanim]] to version by ShappeAli. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3816636) (Bot)"
+2020-01-07T01:48:54+00:00,934531648,924386739,0,Kaltenmeyer,Mohamed Jumayyil,"/* Career */clean up, [[WP:AWB/T|typo(s) fixed]]: highest grossing → highest-grossing (4), ’s → 's"
+2020-07-04T10:58:50+00:00,965945112,965944973,0,Favonian,Mohamed Jumayyil,padlock
+2021-10-27T20:44:58+00:00,1052181438,1038547158,0,Rlink2,Mohamed Jumayyil,archive.* -> archive.today ( (https://blog.archive.today/post/659307974748160000)
+2023-12-30T17:22:38+00:00,1192665329,1183303013,0,Smasongarrison,Mohamed Manik,Adding [[Category:Maldivian artists]] Diffusing per [[WP:DIFFUSE]] and/or [[WP:ALLINCLUDED]]  using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2019-09-08T18:08:22+00:00,914663377,914663306,0,KylieTastic,Mohamed Manik,Removed missing image - File was deleted from Wikimedia Commons -  8 September 2019
+2022-04-12T11:13:04+00:00,1082296066,1076764473,0,NitteAli,Mohamed Manik,/* Short film */
+2019-10-21T21:27:13+00:00,922395369,918021095,0,Graeme Bartlett,Mohamed Manik,alongwith split
+2022-06-02T12:49:38+00:00,1091139559,1082296066,0,InternetArchiveBot,Mohamed Manik,Rescuing 11 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2019-03-03T18:15:22+00:00,885999515,885770678,0,Ser Amantio di Nicolao,Mohamed Manik,add category
+2020-04-12T11:18:59+00:00,950499994,946040685,0,InternetArchiveBot,Naaummeedhu,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0
+2020-05-31T01:16:47+00:00,959877440,950526066,0,GreenC bot,Nafrathuvumun,Reformat 9 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-06-05T18:50:54+00:00,960937625,960936526,0,209.212.208.247,Naaummeedhu,/* Plot */
+2022-09-24T22:15:23+00:00,1112146080,1100450821,0,Bearcat,Nafrathuvumun,removed [[Category:Maldivian films]]; added [[Category:Maldivian romantic drama films]] using [[WP:HC|HotCat]]
+2018-12-06T00:36:33+00:00,872228185,868982540,0,Trappist the monk,Neydhen Vakivaakah,/* top */CS1 fixes;  |language= spelling;
+2020-01-04T02:50:39+00:00,933987149,924426679,0,Sc2353,Neyngi Yaaru Vakivee,±[[Category:Maldivian drama films]]→[[Category:2010s romantic drama films]]; ±[[Category:Maldivian romance films]]→[[Category:Maldivian romantic drama films]] using [[WP:HC|HotCat]]
+2021-04-26T12:11:33+00:00,1019965209,1019965114,0,NitteAli,Nina (2023 film),
+2022-07-15T05:18:30+00:00,1098296438,1040970733,0,Ser Amantio di Nicolao,Neyngi Yaaru Vakivee,Removing from [[Category:Maldivian films]] see [[Wikipedia:Manual_of_Style/Film#Categories]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2021-03-21T06:57:09+00:00,1013366964,1008099489,0,InternetArchiveBot,Nina (2023 film),Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 7486
+2022-12-16T14:53:39+00:00,1127766892,1127725287,0,Revirvlkodlaku,Niuma Mohamed,[[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]]
+2020-03-17T18:09:41+00:00,946039403,932164390,0,GreenC bot,Niuma Mohamed,Convert to archive.today per https://phabricator.wikimedia.org/T245276 (via atoday bot)
+2021-04-19T11:58:32+00:00,1018701122,1017982186,0,NitteAli,Niuma Mohamed,
+2023-08-16T15:58:16+00:00,1170690886,1170689835,0,Revirvlkodlaku,Niuma Mohamed,/* Other work */  genfixes
+2020-11-24T03:51:12+00:00,990378765,990374964,0,Revirvlkodlaku,Niuma Mohamed,/* 2010–13: Niuma and further success */  Edited grammar
+2022-12-05T23:37:15+00:00,1125807156,1112146200,0,Sc2353,November (2023 film),added [[Category:Dhivehi-language films]] using [[WP:HC|HotCat]]
+2022-07-26T00:59:08+00:00,1100454621,1076768430,0,INS Pirat,November (2023 film),added [[Category:Films directed by Ali Shifau]] using [[WP:HC|HotCat]]
+2021-06-24T08:32:21+00:00,1030168316,1030168086,0,NitteAli,November (2023 film),
+2022-03-12T20:42:48+00:00,1076768430,1063058211,0,Rlink2,November (2023 film),archive link repair;
+2022-06-02T13:36:35+00:00,1091144910,1086628917,0,InternetArchiveBot,Nuzuhath Shuaib,Rescuing 5 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2021-02-15T07:46:17+00:00,1006872845,1006872723,0,NitteAli,Nuzuhath Shuaib,/* Filmography */
+2020-10-09T11:47:27+00:00,982638970,982638694,0,202.1.197.53,Nuzuhath Shuaib,/* Career */Added her 1st name
+2019-09-28T07:10:02+00:00,918350129,914663500,0,Monkbot,Ravee Farooq,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (37×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2021-08-23T20:21:28+00:00,1040308940,1031188950,0,BattyBot,Ravee Farooq,Removed [[Category:Year of birth missing (living people)]] and [[WP:AWB/GF|General fixes]]
+2022-06-02T14:14:03+00:00,1091149757,1083008877,0,InternetArchiveBot,Ravee Farooq,Rescuing 8 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2022-03-12T20:17:46+00:00,1076764444,1072050669,0,Rlink2,Ravee Farooq,archive link repair;
+2020-03-17T18:12:17+00:00,946039920,924702731,0,GreenC bot,Ravee Farooq,Convert to archive.today per https://phabricator.wikimedia.org/T245276 (via atoday bot)
+2023-07-12T09:56:30+00:00,1164995097,1164994799,0,162.19.247.57,Reeko Moosa Manik,
+2021-07-01T11:23:23+00:00,1031398202,1031397913,0,NitteAli,Reeko Moosa Manik,/* Accolades */
+2019-09-28T08:59:13+00:00,918363525,894350755,0,Monkbot,Reyvumun,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (2×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2023-08-24T05:44:48+00:00,1171967601,1114769557,0,GreenC bot,Roanu Hassan Manik,Reformat 2 citations per [[:Category:CS1 errors: archive-url]]. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-03-05T01:31:35+00:00,943989978,922320415,0,Iridescent,Roanu Hassan Manik,"/* Career */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: award winning → award-winning"
+2019-02-02T11:34:24+00:00,881410753,880587687,0,95.54.59.199,Sandhuravirey,/* References */
+2022-08-24T13:20:47+00:00,1106411668,1100450871,0,Bearcat,Sandhuravirey 2,/* References */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2020-06-15T23:04:44+00:00,962766107,961643255,0,Bovineboy2008,Sazaa (2011 film),"remove hat per [[WP:NAMB]], can't use IMDb as a source"
+2019-09-29T01:43:28+00:00,918514719,865953719,0,Monkbot,Sazaa (2011 film),/* Maldives Film Awards */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2021-05-24T18:44:16+00:00,1024916021,1016459392,0,PrimeBOT,Shalabee Ibrahim,/* top */[[User:PrimeBOT/30|Task 30]]: removal of invalid parameters in [[Template:Infobox musical artist]] (+ib genfixes)
+2022-06-02T14:35:43+00:00,1091152449,1089288511,0,InternetArchiveBot,Sheela Najeeb,Rescuing 21 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2021-01-24T01:55:31+00:00,1002362312,1002048958,0,Bender the Bot,Sheela Najeeb,"/* Television */HTTP → HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/"
+2023-06-22T15:36:01+00:00,1161417732,1145082773,0,John of Reading,Sheela Najeeb,"/* Television */Typo fixing, replaced: seris → series"
+2023-10-13T04:21:27+00:00,1179897122,1179897061,0,Zimidar,Shivaz Abdulla,
+2022-08-24T13:20:01+00:00,1106411547,1007649599,0,Bearcat,Thiya Loaibaa Dhurah,[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2020-11-30T17:15:00+00:00,991548942,986343913,0,69.94.46.171,Vaaloabi Engeynama,
+2022-07-26T01:25:52+00:00,1100459145,1098296436,0,INS Pirat,Vafaatheri Kehiveriya,added [[Category:Films directed by Ali Seezan]] using [[WP:HC|HotCat]]
+2020-06-20T16:22:41+00:00,963580695,933987958,0,GreenC bot,Vee Beyvafa,Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-03-17T18:15:05+00:00,946040396,933987661,0,GreenC bot,Vehey Vaarey Therein,Convert to archive.today per https://phabricator.wikimedia.org/T245276 (via atoday bot)
+2021-04-02T17:53:51+00:00,1015649374,1015649229,0,NitteAli,Vishka (film),
+2022-08-24T13:19:42+00:00,1106411493,1100459708,0,Bearcat,Vishka (film),/* External links */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2021-10-27T20:46:46+00:00,1052181775,1040072972,0,Rlink2,Yoosuf,/* top */archive.* -> archive.today ( (https://blog.archive.today/post/659307974748160000)
+2022-01-24T10:35:49+00:00,1067620256,1066860593,0,InternetArchiveBot,Yoosuf,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.6) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9320
+2021-04-24T15:51:55+00:00,1019647111,1018701206,0,NitteAli,Yoosuf Shafeeu,/* Other work */
+2024-04-19T19:16:43+00:00,1219777624,1191768363,0,69.94.41.0,Zalzalaa,/* Cast */
+2022-08-24T13:20:52+00:00,1106411681,1100455491,0,Bearcat,Zalzalaa,/* References */[[WP:NFILM]] has deprecated all-inclusiveness in national film categories; a film no longer needs to be here if it's already subbed for genre.
+2022-06-02T15:19:07+00:00,1091158310,1052182492,0,InternetArchiveBot,Zuleykha,Rescuing 3 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 9915
+2021-10-27T20:50:43+00:00,1052182492,1019607297,0,Rlink2,Zuleykha,/* top */archive.* -> archive.today ( (https://blog.archive.today/post/659307974748160000)
+2018-10-23T18:18:13+00:00,865398041,863371869,0,Rchard2scout,14 Vileyrey,"Use Divehi instead of Dhivehi in Cite templates, fixes CS1 maint: Unrecognized language error"
+2020-02-10T06:00:26+00:00,940046117,933984054,0,Reyk,24 Gadi Iru,typo
+2022-01-21T12:23:47+00:00,1067045001,1042752741,0,EN-Jungwon,4426,Reference edited with [[Wikipedia:ProveIt|ProveIt]]
+2018-10-25T12:10:02+00:00,865669099,863176397,0,Rchard2scout,4426,Fix invalid language in Cite templates
+2023-09-14T02:57:53+00:00,1175299864,1153075351,0,Phuzion,4426,Tracklist cleanup
+2023-05-04T02:11:38+00:00,1153075351,1153075294,0,Naomijeans,4426,/* Plot */
+2022-12-04T20:47:12+00:00,1125590334,1116694448,0,Terasail,4426,Removed id values that are stored at WikiData from template: {{[[Template:IMDb title|IMDb title]]}} ([[d:Q55602816#P345|Identifier]]). ([[User:Terasail/User Scripts#Private Scripts|User JS]])
+2021-01-15T11:04:07+00:00,1000507499,1000462069,0,ಮಲ್ನಾಡಾಚ್ ಕೊಂಕ್ಣೊ,Abdul Faththaah,Fixed the file syntax Lint error.
+2023-10-22T17:02:22+00:00,1181369931,1177208842,0,Dhoru 21,Abdul Faththaah,"clean up, [[WP:AWB/T|typo(s) fixed]]: award winning → award-winning"
+2022-06-15T16:05:15+00:00,1093281008,1092014697,0,124.195.204.94,Abdul Faththaah,/* Personal life */
+2022-09-12T17:36:31+00:00,1109936087,1109935839,0,Adam Rizwee Rex,Adam Rizwee,infobox pic caption edited
+2022-12-09T14:09:27+00:00,1126469477,1126469250,0,43.231.29.151,Ahmed Azmeel,
+2019-12-14T12:40:24+00:00,930718084,930717091,0,CAPTAIN RAJU,Ahmed Nimal,Reverted edits by [[Special:Contributions/Right_20000033|Right_20000033]] ([[User talk:Right_20000033|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2020-07-13T07:30:34+00:00,967437239,967436245,0,MusikBot II,Ahmed Nimal,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2021-10-29T11:49:54+00:00,1052482616,1052314590,0,202.153.81.221,Ahmed Nimal,
+2024-03-11T03:49:18+00:00,1213099664,1194932861,0,Ketiltrout,Ahmed Sharif (Maldivian actor),rm unnecessary hatnote ([[WP:NAMB]])
+2022-12-09T14:08:55+00:00,1126469412,1123729506,0,43.231.29.151,Aishath Rishmy,
+2022-09-08T01:11:13+00:00,1109111590,1108854628,0,Kirby777,Aishath Rishmy,/* Early life */ removed redundant wiki link
+2022-12-16T09:06:00+00:00,1127725185,1113427342,0,DaxServer,Ali Seezan,Disambiguating links to [[Dhadkan]] (link changed to [[Dhadkan (2000 film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-10-22T17:11:49+00:00,1181371279,1180378669,0,Dhoru 21,Ali Seezan,"clean up, [[WP:AWB/T|typo(s) fixed]]: Bronze Medal → bronze medal,  ,  → , , well-received → well received"
+2019-07-14T14:41:54+00:00,906233872,905916071,0,LilHelpa,Ali Shameel,its → it has (translated quote)
+2019-10-18T04:46:28+00:00,921827195,921827160,0,MrJaroslavik,Ali Shameel,Reverted edits by [[Special:Contribs/111.68.97.149|111.68.97.149]] ([[User talk:111.68.97.149|talk]]) to last version by MusikBot
+2019-07-12T08:52:08+00:00,905910627,905703844,0,Ahmed Naaim,Aminath Noora,
+2019-11-28T17:13:40+00:00,928369645,922133599,0,LetterMeister,Aminath Rasheedha,/* 2010–present:Niuma and professional expansion */ Fix misspelling found by [[Wikipedia:Typo Team/moss]] – you can help!
+2022-01-12T13:29:19+00:00,1065229867,1062026942,0,ShiYerzmv,Aminath Rishfa,
+2023-03-25T14:31:14+00:00,1146539643,1121786833,0,43.231.28.152,Aminath Rishfa,
+2019-11-28T17:41:16+00:00,928372523,922122161,0,LetterMeister,Amira Ismail,/* Career */ Fix misspelling found by [[Wikipedia:Typo Team/moss]] – you can help!
+2019-10-15T06:14:10+00:00,921339659,919243635,0,Tony1,Arifa Ibrahim,"[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+2022-12-16T09:06:41+00:00,1127725276,1115264144,0,DaxServer,Arifa Ibrahim,Disambiguating links to [[Dhadkan]] (link changed to [[Dhadkan (2000 film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-10-22T17:14:46+00:00,1181371758,1171947144,0,Dhoru 21,Arifa Ibrahim,"clean up, [[WP:AWB/T|typo(s) fixed]]: award winning → award-winning"
+2019-08-19T10:08:44+00:00,911510177,911510046,0,124.195.203.114,Bavathi,/* Cast */Fixed typo
+2020-05-25T16:05:22+00:00,958763179,918338104,0,Rich Smith,Bavathi,/* top */clean up to remove page from [[:Category:Pages using infobox film with unknown parameters]]
+2021-05-15T22:29:38+00:00,1023350393,1019602853,0,Jellysandwich0,Bavathi,
+2021-03-21T08:14:59+00:00,1013373247,997863775,0,WereSpielChequers,Bavathi,typo
+2018-12-05T18:55:18+00:00,872188122,871838200,0,Bisbis,Bos (film),added [[Category:Maldivian romance films]] using [[WP:HC|HotCat]]
+2020-12-17T07:17:07+00:00,994731525,994620731,0,202.153.81.228,Bos (film),/* Cast */
+2023-09-14T15:53:25+00:00,1175369925,1171096614,0,Phuzion,Bos (film),"Tracklist cleanup, [[WP:AWB/T|typo(s) fixed]]: ’s → 's (3)"
+2022-01-05T23:08:35+00:00,1063977231,1043781763,0,Rlink2 Bot,Bos (film),"archive link repair, may include: archive.* -> archive.today, https for ghostarchive.org and archive.org"
+2023-06-07T08:18:17+00:00,1158953577,1106411582,0,Gitz6666,Dhauvath,fix typo
+2022-02-23T11:14:57+00:00,1073572572,1060930686,0,JJMC89 bot III,Dheevaanaa,Moving [[:Category:Maldivian film remakes]] to [[:Category:Remakes of Maldivian films]] per [[Wikipedia:Categories for discussion/Log/2022 January 8#Film remakes by country]]
+2021-03-01T00:44:50+00:00,1009520276,1008280076,0,Locomotive207,Dhonkamana,/* Premise */
+2020-09-18T16:40:16+00:00,979073595,967907802,0,209.212.209.207,Dhonkamana,/* Premise */
+2019-10-29T12:07:48+00:00,923574400,921122807,0,209.212.202.143,Edhathuru,fixed typo
+2022-12-16T17:04:40+00:00,1127785878,1124373182,0,123.176.26.169,Edhathuru,Removed fake information
+2019-10-11T17:33:35+00:00,920757641,920757028,0,124.195.217.88,Edhathuru,jmvlm
+2022-01-05T23:13:16+00:00,1063978482,1026725002,0,Rlink2 Bot,Edhi Edhi Hoadheemey,"archive link repair, may include: archive.* -> archive.today, https for ghostarchive.org and archive.org"
+2020-12-16T14:59:27+00:00,994593499,993857883,0,Onel5969,Edhi Edhi Hoadheemey,"Adding [[Wikipedia:Short description|short description]]: ""2003 Maldivian film"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2019-09-19T20:48:07+00:00,916628593,914855091,0,Tom.Reding,Fathimath Azifa,[[:Category:CS1 errors: deprecated parameters]]: migrate 34/34 |dead-url= to |url-status=; minor cleanup; [[WP:GenFixes]] on
+2019-09-19T20:48:12+00:00,916628604,915910367,0,Tom.Reding,Fathimath Fareela,[[:Category:CS1 errors: deprecated parameters]]: migrate 25/25 |dead-url= to |url-status=; minor cleanup; [[WP:GenFixes]] on
+2021-06-23T04:43:45+00:00,1029978957,1028175153,0,JTtheOG,Fathimath Fareela,added [[Category:People from Kulhudhuffushi]] using [[WP:HC|HotCat]]
+2023-09-10T07:40:02+00:00,1174723865,1174706289,0,Achmad Rachmani,Fathimath Fareela,/* Feature film */ Mismatch
+2018-12-29T22:18:06+00:00,875917357,872719554,0,Spintendo,Fathis Handhuvaru,Fixing style/layout errors [[Wikipedia:WikiProject Fix common mistakes]] a/a
+2020-10-07T10:10:10+00:00,982304733,982304689,0,Bazonka,Fathis Handhuvaru,/* Plot */ Fix link
+2019-10-29T20:46:15+00:00,923638270,918529192,0,LilHelpa,Fathis Handhuvaruge Feshun 3D,typo; mos
+2020-07-25T22:09:05+00:00,969513791,967438652,0,Ketiltrout,Fathis Handhuvaruge Feshun 3D,dab
+2020-07-13T07:46:15+00:00,967438652,959205497,0,124.195.202.28,Fathis Handhuvaruge Feshun 3D,
+2022-07-05T01:27:41+00:00,1096527851,1096081822,0,Aman.kumar.goel,Fauziyya Hassan,Reverted 1 edit by [[Special:Contributions/Hemantha|Hemantha]] ([[User talk:Hemantha|talk]]): Rv sock
+2022-07-11T08:18:03+00:00,1097532866,1096527851,0,2405:205:C945:C477:0:0:F78:80AC,Fauziyya Hassan,
+2022-01-05T23:13:43+00:00,1063978603,1023350668,0,Rlink2 Bot,Ghaazee Bandaarain,"archive link repair, may include: archive.* -> archive.today, https for ghostarchive.org and archive.org"
+2021-05-15T22:31:44+00:00,1023350668,1013081094,0,Jellysandwich0,Ghaazee Bandaarain,
+2019-12-09T13:43:58+00:00,929983409,919393807,0,Titodutta,Ginihila,/* top */Fix ToI newspaper title
+2022-02-23T11:15:03+00:00,1073572589,1008277787,0,JJMC89 bot III,Ginihila,Moving [[:Category:Maldivian film remakes]] to [[:Category:Remakes of Maldivian films]] per [[Wikipedia:Categories for discussion/Log/2022 January 8#Film remakes by country]]
+2023-09-14T14:36:00+00:00,1175359949,1148780239,0,Phuzion,Goh Raalhu,"Tracklist cleanup, [[WP:AWB/T|typo(s) fixed]]: ’s → 's (4)"
+2023-04-08T08:25:35+00:00,1148780239,1147305975,0,Squared.Circle.Boxing,Goh Raalhu,Reverted edits by [[Special:Contribs/Bartsfivem|Bartsfivem]] ([[User talk:Bartsfivem|talk]]) to last version by ShappeAli
+2019-08-19T08:24:49+00:00,911500928,911500818,0,203.104.31.44,Goh Raalhu,/* Release and response */
+2022-06-20T14:11:56+00:00,1094060554,1091088441,0,124.195.204.133,Hahdhu,
+2019-01-07T00:07:55+00:00,877163726,871972963,0,Bisbis,Hahdhu,added [[Category:Maldivian romance films]] using [[WP:HC|HotCat]]
+2019-12-13T00:10:01+00:00,930508971,918751280,0,LilHelpa,Handhu Keytha,the her → her; mnr copy edit
+2021-10-03T22:59:07+00:00,1048040397,1046760822,0,Aspects,Heylaa,Undid revision 1046760822 by [[Special:Contributions/JJMC89 bot|JJMC89 bot]] ([[User talk:JJMC89 bot|talk]]) rv file deletion that now has a valid fair use rationale for this article
+2019-05-09T16:26:56+00:00,896306678,896239224,0,Tassedethe,Heylaa,Tassedethe moved page [[Heylaa (film)]] to [[Heylaa]]: no need for dab
+2021-08-21T04:30:35+00:00,1039849955,1030871567,0,Doremo,Hukuru Vileyrey,considered as → considered
+2023-03-14T09:47:07+00:00,1144552642,1106411629,0,Edwardarnett12,Hukuru Vileyrey,
+2022-04-02T19:44:13+00:00,1080685671,1079323438,0,Filmgoer,Huvaa,
+2020-12-16T16:51:56+00:00,994612181,974712351,0,202.153.80.238,Ill Noise,
+2024-01-16T11:05:08+00:00,1196112127,1196112062,0,Renewal6,Ismail Jumaih,Reverted edits by [[Special:Contributions/43.231.28.157|43.231.28.157]] ([[User talk:43.231.28.157|talk]]) ([[WP:AntiVandal|AV]])
+2020-03-31T12:10:03+00:00,948324703,947691004,0,WereSpielChequers,Jinni (film),"/* Plot */[[WP:AWB/T|Typo fixing]], replaced: wont →  won't"
+2021-08-12T07:04:56+00:00,1038385053,1012106245,0,2603:6010:C0F:AF39:ACC8:86E2:46D5:49FD,Jinni (film),/* Plot */
+2021-07-02T14:11:53+00:00,1031597855,1031597654,0,2001:F40:906:4977:51FD:ECE6:7FCB:3623,Kalaayaanulaa,/* Premise */
+2022-03-14T18:12:26+00:00,1077137634,1013567531,0,Qwerfjkl (bot),List of Maldivian films of 2018,"Changing short description ""Wikipedia list article"" to ""none"" per [[WP:SDNONE]] (via [[de:Benutzer:Schnark/js/bandersnatch|Bandersnatch]])"
+2022-03-14T18:01:22+00:00,1077135673,1076766641,0,Qwerfjkl (bot),List of Maldivian films of 2020,"Changing short description ""Wikipedia list article"" to ""none"" per [[WP:SDNONE]] (via [[de:Benutzer:Schnark/js/bandersnatch|Bandersnatch]])"
+2022-01-05T23:08:34+00:00,1063977225,1035917103,0,Rlink2 Bot,Malikaa,"archive link repair, may include: archive.* -> archive.today, https for ghostarchive.org and archive.org"
+2019-07-12T07:16:11+00:00,905902116,905014477,0,Ahmed Naaim,Mariyam Azza,
+2023-06-27T14:28:02+00:00,1162184939,1162184906,0,1TWO3Writer,Mariyam Azza,Reverting edit(s) by [[Special:Contributions/175.157.114.128|175.157.114.128]] ([[User_talk:175.157.114.128|talk]]) to rev. 1155907753 by ShappeAli: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2024-01-19T20:35:52+00:00,1197269618,1194930724,0,Mazewaxie,Mariyam Haleem,[[WP:GENFIXES]]
+2022-09-22T17:06:55+00:00,1111739679,1091135910,0,True Pagan Warrior,Mariyam Majudha,/* Television and web-series */ copy edit
+2019-06-16T14:02:48+00:00,902091899,901828424,0,Ahmed Naaim,Mariyam Shakeela (actress),
+2020-09-16T20:37:26+00:00,978766996,962601128,0,Live to die,Mendhamuge Evaguthu,/* Cast */
+2023-04-11T16:03:08+00:00,1149337854,1149337838,0,Shadow311,Mendhamuge Evaguthu,Reverted edits by [[Special:Contributions/83.137.203.143|83.137.203.143]] ([[User talk:83.137.203.143|talk]]) ([[WP:AntiVandal|AV]])
+2024-03-12T10:55:11+00:00,1213327559,1191765691,0,Cyfal,Mikoe Bappa Baey Baey,spelling ([[WP:Typo Team]])
+2021-06-01T20:25:43+00:00,1026360130,1026360019,0,Dimadick,Mikoe Bappa Baey Baey,/* Development */
+2022-11-26T09:04:47+00:00,1123901856,1091139479,0,Liz,Mohamed Abdul Ghanee,"Removing link(s) to ""Madhrasathul Ifthithaah"": Removing links to deleted page Madhrasathul Ifthithaah."
+2022-02-09T20:51:02+00:00,1070894277,1069114079,0,Suonii180,Mohamed Abdul Ghanee,Removed unknown parameter from infobox
+2020-07-11T20:50:24+00:00,967209337,967208852,0,MusikBot II,Mohamed Jumayyil,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2022-08-31T19:17:09+00:00,1107763077,1105424593,0,Inter&anthro,Mohamed Manik,says it in the article
+2022-01-08T17:45:21+00:00,1064497134,1063977575,0,Jellysandwich0,Naaummeedhu,
+2021-07-02T13:58:00+00:00,1031596164,1031594814,0,2001:F40:906:4977:51FD:ECE6:7FCB:3623,Naaummeedhu,/* Plot */
+2020-09-15T10:37:35+00:00,978512590,978511513,0,124.195.201.46,Naaummeedhu,/* Plot */
+2020-11-09T07:40:24+00:00,987791394,985859014,0,115.164.210.28,Naaummeedhu,Fixed grammar
+2021-11-12T09:34:24+00:00,1054831092,1031596164,0,27.114.128.20,Naaummeedhu,/* Plot */
+2020-12-16T10:22:51+00:00,994560924,992302512,0,43.231.30.183,Neyngi Yaaru Vakivee,
+2021-08-27T19:32:51+00:00,1040970733,1014677686,0,Bellowhead678,Neyngi Yaaru Vakivee,crtiticised->criticised - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2023-10-17T04:02:20+00:00,1180518960,1178403690,0,Doremo,Nina (2023 film),usual term
+2022-01-24T16:09:57+00:00,1067673065,1066254871,0,Orenburg1,Niuma Mohamed,sp
+2024-02-06T05:17:04+00:00,1203999674,1191762351,0,27.114.133.143,November (2023 film),
+2023-10-20T02:58:56+00:00,1180985801,1174561313,0,Doremo,Nuzuhath Shuaib,usual term
+2020-11-03T12:56:44+00:00,986864040,986863633,0,Onel5969,Ravee Farooq,fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]
+2024-01-06T23:50:52+00:00,1194052463,1191113339,0,Pedantical,Ravee Farooq,tidy infobox spouses list
+2018-11-24T12:00:59+00:00,870381205,869772271,0,Ahmed Naaim,Ravee Farooq,
+2021-03-22T18:30:31+00:00,1013644291,1013627563,0,Dialectric,Reeko Moosa Manik,Undid revision 1013627563 by [[Special:Contributions/209.212.220.114|209.212.220.114]] ([[User talk:209.212.220.114|talk]]) rv unexplained change by anon IP
+2018-07-30T10:07:36+00:00,852634731,846248931,0,43.231.30.85,Reeko Moosa Manik,Add
+2020-06-23T20:43:44+00:00,964144122,964143758,0,Leesaaisath,Reeko Moosa Manik,corrected and inserted data
+2022-02-05T10:25:17+00:00,1070040417,1070040303,0,Cmr08,Reeko Moosa Manik,remove extra blank lines
+2020-10-11T18:20:19+00:00,983009920,964144122,0,69.94.83.150,Reeko Moosa Manik,
+2022-08-31T21:12:40+00:00,1107779437,1096179628,0,Inter&anthro,Reeko Moosa Manik,says it in the article
+2018-10-28T05:30:27+00:00,866090882,852634731,0,203.104.31.44,Reeko Moosa Manik,
+2021-03-29T12:53:21+00:00,1014851034,1010300355,0,AARYA SAJAYAN,Sandhuravirey 2,
+2018-10-15T14:23:21+00:00,864164098,840932892,0,Runawayangel,Sazaa (2011 film),fixed cs1 error
+2018-10-27T08:08:02+00:00,865953719,864164098,0,DeprecatedFixerBot,Sazaa (2011 film),Resolved deprecated parameter(s) from [[Template:Infobox album]]/[[Template:Extra chronology]]/[[Template:Extra album cover]]/[[Template:Extra track listing]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #3! [[Wikipedia:Bots/Requests for approval/DeprecatedFixerBot 3|approved BRFA]])
+2020-06-01T03:41:29+00:00,960099210,918514719,0,Nihiltres,Sazaa (2011 film),/* top */Replacing Other_uses2 template per [[Wikipedia:Templates_for_discussion/Log/2020_May_15|TfD]]
+2022-12-16T09:08:47+00:00,1127725539,1127725262,0,DaxServer,Sheela Najeeb,Disambiguating links to [[Dhadkan]] (link changed to [[Dhadkan (2000 film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2019-07-12T08:51:04+00:00,905910551,905623274,0,Ahmed Naaim,Sheela Najeeb,
+2019-09-29T02:18:14+00:00,918519171,916639549,0,GoingBatty,Vaaloabi Engeynama,"/* Cast */-, [[WP:AWB/T|typo(s) fixed]]: a advertisement → an advertisement"
+2018-05-13T03:11:48+00:00,840951763,833779577,0,DeprecatedFixerBot,Vishka (film),Removed deprecated parameter(s) from [[Template:Track listing]] using[[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Mistake? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #1!)
+2020-12-17T07:19:28+00:00,994731784,992303897,0,202.153.81.228,Yoosuf,
+2020-04-22T00:05:22+00:00,952387175,951290728,0,Aspects,Yoosuf,Undid revision 951290728 by [[Special:Contributions/Madde24434|Madde24434]] ([[User talk:Madde24434|talk]]) rv unexplained infobox deletion and incorrect date change
+2023-09-26T17:15:08+00:00,1177203583,1175370052,0,Gobonobo,Yoosuf,c/e
+2021-04-05T21:50:55+00:00,1016195375,1011008232,0,Jellysandwich0,Yoosuf,
+2023-06-07T08:17:58+00:00,1158953555,1158292119,0,Gitz6666,Yoosuf Shafeeu,fix typo
+2019-10-16T12:09:17+00:00,921553692,921550654,0,PCock,Zalzalaa,Undid revision 921550654 by [[Special:Contributions/103.255.7.62|103.255.7.62]] ([[User talk:103.255.7.62|talk]])
+2020-06-14T16:29:23+00:00,962533989,962533871,0,209.212.220.163,Zuleykha,/* Plotline */

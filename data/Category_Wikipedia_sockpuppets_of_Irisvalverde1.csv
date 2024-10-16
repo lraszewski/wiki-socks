@@ -1,0 +1,415 @@
+timestamp,revid,parentid,sock,user,page,message
+2020-07-04T10:18:36+00:00,965941199,965395502,1,CamilaAmelio,"Peyton List (actress, born 1998)",
+2020-06-15T23:02:31+00:00,962765866,956111500,1,CharliAmelio,Aislinn Paul,/* Early life */
+2020-06-15T14:37:37+00:00,962697056,962696630,1,CharliAmelio,Katie McGrath,
+2020-06-15T14:34:02+00:00,962696630,962695053,1,CharliAmelio,Katie McGrath,
+2020-06-15T14:21:21+00:00,962695053,962695006,1,CharliAmelio,Katie McGrath,
+2020-06-15T14:20:56+00:00,962695006,962430050,1,CharliAmelio,Katie McGrath,
+2020-06-11T14:29:04+00:00,961995568,961912122,1,CharliAmelio,Crystal Reed,
+2020-06-08T00:29:27+00:00,961355464,961355352,1,CharliAmelio,Jillian Murray,
+2020-06-08T00:28:11+00:00,961355352,955235356,1,CharliAmelio,Jillian Murray,
+2020-06-07T20:44:46+00:00,961327037,958861226,1,CharliAmelio,Alex Roe,
+2020-06-07T01:42:32+00:00,961180585,961180489,1,CharliAmelio,Samara Weaving,
+2020-06-07T01:41:32+00:00,961180489,961180298,1,CharliAmelio,Samara Weaving,
+2020-06-07T01:39:45+00:00,961180298,961179890,1,CharliAmelio,Samara Weaving,/* Music videos */
+2020-06-07T01:36:13+00:00,961179890,961179756,1,CharliAmelio,Samara Weaving,/* Television */
+2020-06-07T01:35:00+00:00,961179756,961178965,1,CharliAmelio,Samara Weaving,/* Filmography */
+2020-06-07T01:27:57+00:00,961178965,961178927,1,CharliAmelio,Samara Weaving,
+2020-06-07T01:27:38+00:00,961178927,961176893,1,CharliAmelio,Samara Weaving,
+2020-06-07T01:11:25+00:00,961176893,961176768,1,CharliAmelio,Samara Weaving,
+2020-06-07T01:10:32+00:00,961176768,961176667,1,CharliAmelio,Samara Weaving,
+2020-06-07T01:09:53+00:00,961176667,961176490,1,CharliAmelio,Samara Weaving,
+2020-06-07T01:08:37+00:00,961176490,960455563,1,CharliAmelio,Samara Weaving,
+2020-06-07T01:04:35+00:00,961175949,961175681,1,CharliAmelio,Hazal Kaya,
+2020-06-07T01:02:43+00:00,961175681,961174682,1,CharliAmelio,Hazal Kaya,
+2020-07-11T13:27:20+00:00,967155962,967155523,1,IsaAmelio,Kristin Kreuk,
+2020-07-11T13:23:05+00:00,967155523,967155426,1,IsaAmelio,Kristin Kreuk,
+2020-07-11T13:22:12+00:00,967155426,966584719,1,IsaAmelio,Kristin Kreuk,
+2020-07-04T12:57:14+00:00,965957860,965957686,1,IsaAmelio,Missy Peregrym,
+2020-07-04T12:55:34+00:00,965957644,965957533,1,IsaAmelio,Missy Peregrym,
+2020-07-04T12:53:25+00:00,965957344,962110392,1,IsaAmelio,Missy Peregrym,
+2020-12-15T01:20:14+00:00,994304904,993981395,1,LaisIseman12,Brennan Clost,
+2020-12-12T19:58:17+00:00,993843444,993843376,1,LaisIseman12,Ayça Ayşin Turan,
+2020-12-12T19:57:51+00:00,993843376,990199920,1,LaisIseman12,Ayça Ayşin Turan,/* Filmography */
+2020-12-12T18:10:39+00:00,993825382,993822285,1,LaisIseman12,Madison Iseman,/* Television */
+2020-12-12T17:54:27+00:00,993822285,993690727,1,LaisIseman12,Madison Iseman,
+2020-10-06T14:19:03+00:00,982160627,982160534,1,LauraIseman12,Madison Iseman,
+2020-10-06T14:18:26+00:00,982160534,981717643,1,LauraIseman12,Madison Iseman,
+2020-10-04T14:17:47+00:00,981802837,978552184,1,LauraIseman12,Marina Salas,
+2020-10-04T02:33:54+00:00,981725910,981215552,1,LauraIseman12,Fear of Rain,
+2020-10-04T01:06:12+00:00,981716246,981696087,1,LauraIseman12,Madison Iseman,
+2020-10-03T20:54:11+00:00,981686951,981648030,1,LauraIseman12,Madison Iseman,
+2020-10-03T01:30:09+00:00,981554664,981396386,1,LauraIseman12,Madison Iseman,
+2020-10-02T01:55:28+00:00,981396386,981138672,1,LaurenIseman82,Madison Iseman,/* Filmography */
+2020-09-30T18:51:45+00:00,981175401,981139081,1,LaurenIseman82,Nocturne (2020 film),
+2020-09-30T18:36:46+00:00,981173463,981138782,1,LaurenIseman82,Fear of Rain,
+2020-09-30T14:35:32+00:00,981139081,980774881,1,LaurenIseman82,Nocturne (2020 film),
+2020-09-30T14:34:56+00:00,981138996,981076342,1,LaurenIseman82,Clouds (2020 film),
+2020-09-30T14:34:24+00:00,981138920,980774894,1,LaurenIseman82,Feast of the Seven Fishes (film),
+2020-09-30T14:33:17+00:00,981138782,980704285,1,LaurenIseman82,Fear of Rain,
+2020-09-30T14:32:32+00:00,981138672,981136781,1,LaurenIseman82,Madison Iseman,/* Filmography */
+2020-09-30T14:17:34+00:00,981136781,980703786,1,LaurenIseman82,Madison Iseman,
+2020-09-27T23:28:32+00:00,980703326,980702608,1,MadisonInsema,Madison Iseman,
+2020-09-27T23:26:44+00:00,980703109,980284422,1,MadisonInsema,Fear of Rain,
+2020-09-27T23:24:58+00:00,980702878,979803946,1,MadisonInsema,Nocturne (2020 film),
+2020-09-27T23:23:58+00:00,980702734,978082747,1,MadisonInsema,Feast of the Seven Fishes (film),
+2020-09-27T23:22:05+00:00,980702478,980520933,1,MadisonInsema,Clouds (2020 film),
+2020-09-27T23:21:03+00:00,980702339,980119585,1,MadisonInsema,Madison Iseman,
+2020-09-27T23:20:26+00:00,980702253,967384176,1,MadisonInsema,Juliana Paiva,
+2020-09-19T13:10:12+00:00,979211184,979211033,1,MadisonInsema,Madison Iseman,
+2020-09-19T13:08:04+00:00,979210981,979210926,1,MadisonInsema,Madison Iseman,
+2020-09-19T13:07:36+00:00,979210926,978004029,1,MadisonInsema,Madison Iseman,
+2020-09-13T01:44:18+00:00,978123077,978017165,1,MadisonInsema,Clouds (2020 film),
+2020-09-12T01:43:48+00:00,977963590,977963558,1,MadisonInsema,Madison Iseman,
+2020-09-12T01:43:30+00:00,977963558,977963285,1,MadisonInsema,Madison Iseman,
+2020-09-12T01:40:54+00:00,977963285,977880295,1,MadisonInsema,Madison Iseman,
+2020-09-11T16:45:09+00:00,977896024,975799566,1,MadisonInsema,Last Moment of Clarity,
+2020-09-11T14:46:04+00:00,977880295,977871601,1,MadisonInsema,Madison Iseman,/* Filmography */
+2020-09-11T14:22:41+00:00,977877148,977876901,1,MadisonInsema,Katie Sarife,
+2020-09-11T14:20:51+00:00,977876901,977327517,1,MadisonInsema,Katie Sarife,
+2020-09-11T13:54:35+00:00,977873808,964409018,1,MadisonInsema,Beauty Mark,
+2020-09-11T13:52:08+00:00,977873511,977873399,1,MadisonInsema,Feast of the Seven Fishes (film),
+2020-09-11T13:51:15+00:00,977873399,958813096,1,MadisonInsema,Feast of the Seven Fishes (film),
+2020-09-11T13:49:48+00:00,977873245,974064590,1,MadisonInsema,Tales of Halloween,
+2020-09-11T13:46:11+00:00,977872892,977870837,1,MadisonInsema,Nocturne (2020 film),
+2020-09-11T13:45:01+00:00,977872777,977872271,1,MadisonInsema,Fear of Rain,
+2020-09-11T13:43:29+00:00,977872596,977865164,1,MadisonInsema,Clouds (2020 film),
+2020-09-11T13:41:04+00:00,977872271,977872212,1,MadisonInsema,Fear of Rain,
+2020-09-11T13:40:37+00:00,977872212,977872084,1,MadisonInsema,Fear of Rain,
+2020-09-11T13:39:27+00:00,977872084,977871979,1,MadisonInsema,Fear of Rain,
+2020-09-11T13:38:25+00:00,977871979,977870564,1,MadisonInsema,Fear of Rain,
+2020-09-11T13:36:25+00:00,977871741,976216659,1,MadisonInsema,Laid in America,
+2020-09-11T13:35:13+00:00,977871601,977870728,1,MadisonInsema,Madison Iseman,
+2020-09-11T13:27:43+00:00,977870837,976612994,1,MadisonInsema,Nocturne (2020 film),
+2020-09-11T13:25:51+00:00,977870644,977630296,1,MadisonInsema,Madison Iseman,
+2020-09-11T13:25:02+00:00,977870564,971898702,1,MadisonInsema,Fear of Rain,
+2020-07-16T01:13:01+00:00,967903899,967902587,1,MarinaAmelio,Eva Green,
+2020-07-16T01:01:51+00:00,967902587,963493932,1,MarinaAmelio,Eva Green,
+2020-07-14T00:45:28+00:00,967564519,967564390,1,MarinaAmelio,Perrie Edwards,
+2020-07-14T00:44:30+00:00,967564390,967564254,1,MarinaAmelio,Perrie Edwards,
+2020-07-14T00:43:10+00:00,967564254,967564002,1,MarinaAmelio,Perrie Edwards,
+2020-07-14T00:40:34+00:00,967564002,967563889,1,MarinaAmelio,Perrie Edwards,
+2020-07-14T00:39:26+00:00,967563889,967073792,1,MarinaAmelio,Perrie Edwards,
+2020-07-14T00:34:23+00:00,967563340,967550314,1,MarinaAmelio,Danica McKellar,
+2020-07-14T00:30:35+00:00,967562927,967562808,1,MarinaAmelio,Lola Naymark,/* Selected filmography */
+2020-07-14T00:29:32+00:00,967562808,967562451,1,MarinaAmelio,Lola Naymark,
+2020-07-14T00:26:10+00:00,967562451,967562357,1,MarinaAmelio,Lola Naymark,
+2020-07-14T00:25:28+00:00,967562357,967562336,1,MarinaAmelio,Lola Naymark,
+2020-07-14T00:25:16+00:00,967562336,965873663,1,MarinaAmelio,Lola Naymark,
+2020-07-14T00:19:46+00:00,967561749,967561633,1,MarinaAmelio,Sara West,
+2020-07-14T00:18:49+00:00,967561633,958330510,1,MarinaAmelio,Sara West,
+2020-07-14T00:14:28+00:00,967561177,967561101,1,MarinaAmelio,Samara Weaving,
+2020-07-14T00:13:49+00:00,967561101,965705349,1,MarinaAmelio,Samara Weaving,
+2020-07-13T21:18:55+00:00,967542261,967541770,1,MarinaAmelio,Riley Keough,/* Early life */
+2020-07-13T21:15:02+00:00,967541770,967481021,1,MarinaAmelio,Riley Keough,
+2020-07-13T15:25:43+00:00,967492964,967492593,1,MarinaAmelio,Marina Salas,/* Career */
+2020-07-13T15:23:07+00:00,967492593,967492504,1,MarinaAmelio,Marina Salas,
+2020-07-13T15:22:31+00:00,967492504,967492123,1,MarinaAmelio,Marina Salas,
+2020-07-13T15:19:38+00:00,967492123,964626521,1,MarinaAmelio,Marina Salas,
+2020-07-13T15:18:18+00:00,967491941,967491874,1,MarinaAmelio,Kristine Froseth,
+2020-07-13T15:17:53+00:00,967491874,967491649,1,MarinaAmelio,Kristine Froseth,
+2020-07-13T15:16:23+00:00,967491649,963598981,1,MarinaAmelio,Kristine Froseth,
+2020-07-13T15:09:13+00:00,967490645,966753494,1,MarinaAmelio,Grimes,
+2020-07-12T20:46:35+00:00,967365541,967365483,1,MarinaAmelio,Angelique Boyer,
+2020-07-12T20:46:10+00:00,967365483,967021424,1,MarinaAmelio,Angelique Boyer,
+2020-07-12T20:31:19+00:00,967363615,967363518,1,MarinaAmelio,Sara Serraiocco,
+2020-07-12T20:30:38+00:00,967363518,966919406,1,MarinaAmelio,Sara Serraiocco,
+2020-07-12T20:06:35+00:00,967360303,967360095,1,MarinaAmelio,Sofia Boutella,
+2020-07-12T20:05:07+00:00,967360095,967359854,1,MarinaAmelio,Sofia Boutella,
+2020-07-12T20:03:12+00:00,967359854,967359702,1,MarinaAmelio,Sofia Boutella,
+2020-07-12T20:02:03+00:00,967359702,967358899,1,MarinaAmelio,Sofia Boutella,
+2020-07-12T19:55:32+00:00,967358899,967358755,1,MarinaAmelio,Sofia Boutella,
+2020-07-12T19:54:32+00:00,967358755,965341934,1,MarinaAmelio,Sofia Boutella,
+2020-07-12T19:18:35+00:00,967353648,962180861,1,MarinaAmelio,Alison Brie,
+2020-07-09T23:29:40+00:00,966911405,966856608,1,MarinaAmelio,Juliana Paiva,
+2020-06-16T01:31:05+00:00,962784904,962784696,1,MelissaAmelio,Jery Sandoval,
+2020-06-16T01:29:37+00:00,962784696,962784590,1,MelissaAmelio,Jery Sandoval,
+2020-06-16T01:28:50+00:00,962784590,962784413,1,MelissaAmelio,Jery Sandoval,
+2020-06-16T01:27:29+00:00,962784413,962784234,1,MelissaAmelio,Jery Sandoval,
+2020-06-16T01:25:59+00:00,962784234,962583574,1,MelissaAmelio,Jery Sandoval,
+2020-10-07T00:13:38+00:00,982245000,982244904,1,TracyIseman13,Madison Iseman,
+2020-10-07T00:12:40+00:00,982244904,982239208,1,TracyIseman13,Madison Iseman,
+2020-10-06T23:23:44+00:00,982239208,982185395,1,TracyIseman13,Madison Iseman,
+2020-10-20T16:24:29+00:00,984536364,984535906,0,Transcendental,Alex Roe,Restoring revision 978018453 by Hzh: Unexplained reference removal and unsourced additions  [[w:en:WP:RW|(RW 15)]]
+2020-06-23T09:55:56+00:00,964054949,962765866,0,CommonsDelinker,Aislinn Paul,"Removing [[:c:File:Aislinn_Paul.jpg|Aislinn_Paul.jpg]], it has been deleted from Commons by [[:c:User:Fitindia|Fitindia]] because: No permission provided since 15th June 2020."
+2020-08-07T01:31:39+00:00,971584903,971583911,0,Crboyer,Alex Roe,Reverted edits by [[Special:Contribs/74.12.120.230|74.12.120.230]] ([[User talk:74.12.120.230|talk]]) to last version by 191.150.155.75
+2020-06-29T21:29:27+00:00,965183180,965173042,0,Keivan.f,Ayça Ayşin Turan,/* Filmography */
+2020-11-13T16:10:33+00:00,988504157,964054949,0,75.10.15.143,Aislinn Paul,/* Career */
+2020-06-18T22:47:33+00:00,963283135,963080186,0,187.19.206.221,Angelique Boyer,
+2020-08-12T10:03:57+00:00,972488801,971624075,0,2601:601:CB7E:2C0:40C5:F73B:B9F9:A94D,Alison Brie,/* Web */
+2020-10-19T17:31:26+00:00,984351837,980353627,0,24.53.112.5,Angelique Boyer,
+2020-07-22T04:43:17+00:00,968892662,968752054,0,55eo55,Alison Brie,/* External links */
+2020-09-12T13:13:23+00:00,978028676,977873808,0,38.109.28.6,Beauty Mark,Undid revision 977873808 by [[Special:Contributions/MadisonInsema|MadisonInsema]] ([[User talk:MadisonInsema|talk]])
+2020-06-17T18:17:33+00:00,963080186,961873424,0,InternetArchiveBot,Angelique Boyer,Rescuing 5 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-08-10T08:25:32+00:00,972122437,972122392,0,185.106.30.65,Ayça Ayşin Turan,/* Early life */
+2020-09-03T22:23:26+00:00,976603184,976603118,0,2601:3C2:8200:8940:4511:EE00:D818:40C8,Angelique Boyer,/* Television */
+2020-09-05T09:40:50+00:00,976835689,976562810,0,83.250.95.80,Clouds (2020 film),/* External links */
+2020-09-06T12:29:03+00:00,977014611,977002110,0,CLCStudent,Ayça Ayşin Turan,Reverted 1 edit by [[Special:Contributions/84.100.235.67|84.100.235.67]] ([[User talk:84.100.235.67|talk]]) to last revision by ClueBot NG
+2020-08-14T11:40:45+00:00,972908017,972756852,0,216.154.34.104,Clouds (2020 film),
+2020-10-24T20:35:15+00:00,985244553,985231581,0,Moviemagic2,Clouds (2020 film),
+2020-10-20T15:37:09+00:00,984528973,984226957,0,Cw0323,Clouds (2020 film),/* Reception */
+2020-09-13T11:45:16+00:00,978184439,978123077,0,Bovineboy2008,Clouds (2020 film),Reverted 1 edit by [[Special:Contributions/MadisonInsema|MadisonInsema]] ([[User talk:MadisonInsema|talk]]): The native name is Clouds...?
+2020-08-08T22:57:39+00:00,971898702,967938265,0,Nat965,Fear of Rain,"/* Production */Apply [[WP:AWB/GF|Gen fix(es)]], [[WP:AWB/T|typo(s) fixed]]: On November 2019 → In November 2019, on April 2019 → in April 2019"
+2020-10-10T15:38:48+00:00,982822799,982812147,0,Bhisaac,Eva Green,
+2020-05-21T17:59:17+00:00,958033202,957983870,0,Bovineboy2008,Fear of Rain,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2603:9000:6806:8800:91C6:7F31:6E97:7D60|2603:9000:6806:8800:91C6:7F31:6E97:7D60]] ([[User talk:2603:9000:6806:8800:91C6:7F31:6E97:7D60|talk]]) ([[WP:TW|TW]])
+2020-08-04T02:12:26+00:00,971080505,969580453,0,Ser Amantio di Nicolao,Danica McKellar,add category
+2020-09-29T04:18:55+00:00,980901599,980901528,0,Philotam,Eva Green,/* Early life */
+2020-06-23T04:24:04+00:00,964024093,963646723,0,2600:1004:B109:14B7:B8F2:2F1C:8551:667D,Crystal Reed,/* Personal life */
+2020-07-11T17:53:11+00:00,967187523,967187484,0,Hitcher vs. Candyman,Danica McKellar,/* Television */
+2020-09-10T16:51:10+00:00,977732438,976317138,0,108.56.139.120,Eva Green,father and mother in infobox (from parents)
+2020-06-20T02:38:36+00:00,963493932,960847397,0,Eyeamgreat,Eva Green,/* Early life */
+2020-11-09T19:24:10+00:00,987874583,987741007,0,181.222.83.87,Clouds (2020 film),
+2020-09-12T10:50:19+00:00,978015588,977872777,0,Bovineboy2008,Fear of Rain,Reverted to revision 971898702 by [[Special:Contributions/Nat965|Nat965]] ([[User talk:Nat965|talk]]): Unsourced alt name
+2020-09-14T02:23:49+00:00,978299464,977449659,0,190.159.48.92,Crystal Reed,/* Television */
+2020-10-12T03:35:01+00:00,983079890,983066962,0,Adeletron 3030,Fear of Rain,Reverted 2 edits by [[Special:Contributions/PerrieIseman93|PerrieIseman93]] ([[User talk:PerrieIseman93|talk]]): Unsourced
+2020-07-16T06:55:28+00:00,967938265,958033202,0,IJBall,Fear of Rain,Improve refs.
+2020-11-09T18:17:30+00:00,987864506,987864365,0,Drmies,Fear of Rain,"Reverted to revision 983079890 by [[Special:Contributions/Ytoyoda|Ytoyoda]] ([[User talk:Ytoyoda|talk]]): Rv unexplained, unverified"
+2020-09-30T23:44:23+00:00,981214072,981138920,0,Bovineboy2008,Feast of the Seven Fishes (film),Reverted 1 edit by [[Special:Contributions/LaurenIseman82|LaurenIseman82]] ([[User talk:LaurenIseman82|talk]]): Incorrect use of parameter
+2020-05-25T20:51:44+00:00,958813096,939863147,0,PrimeBOT,Feast of the Seven Fishes (film),/* top */[[User:PrimeBOT/30|Task 30]] - replacing deprecated parameters in [[Template:Infobox film]]
+2020-10-04T11:35:53+00:00,981780361,981725910,0,Bovineboy2008,Fear of Rain,Reverted 1 edit by [[Special:Contributions/LauraIseman12|LauraIseman12]] ([[User talk:LauraIseman12|talk]]): Unsourced release year
+2020-11-11T06:08:03+00:00,988122243,988121889,0,Abbyjjjj96,Grimes,Date unify
+2020-06-29T05:18:11+00:00,965061969,965061915,0,47.9.205.160,Grimes,
+2020-09-03T13:06:42+00:00,976529249,976516839,0,TheBirdsShedTears,Hazal Kaya,Reverted 1 pending edit by [[Special:Contributions/139.5.242.45|139.5.242.45]] to revision 975330008 by 95.5.155.151: not providing reliable source
+2020-08-05T07:15:26+00:00,971296148,971056770,0,101.50.127.48,Hazal Kaya,
+2020-06-20T09:02:04+00:00,963530910,963530852,0,Baran Ahmet,Hazal Kaya,/* External links */If there is a website then no need this social medias.
+2020-06-17T16:03:50+00:00,963062174,962874095,0,GoingBatty,Jery Sandoval,v2.02 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Pop]]
+2020-10-31T08:36:42+00:00,986348314,963062174,0,Eostrix,Jery Sandoval,ce
+2020-04-30T21:04:26+00:00,954132652,954077995,0,Flyer22 Frozen,Jery Sandoval,Reverted edits by [[Special:Contribs/187.19.151.86|187.19.151.86]] ([[User talk:187.19.151.86|talk]]) to last version by InternetArchiveBot
+2020-06-14T22:20:11+00:00,962583574,954132652,0,181.132.64.212,Jery Sandoval,
+2020-09-28T14:06:30+00:00,980794374,980777444,0,IJBall,Jillian Murray,/* Television */ [[WP:NOTBROKEN]].
+2020-08-31T03:31:58+00:00,975913479,975911074,0,IJBall,Jillian Murray,/* Film */ Cleanup - use correct terminology.
+2020-06-08T00:52:23+00:00,961357977,961355464,0,IJBall,Jillian Murray,Reverted 2 edits by [[Special:Contributions/CharliAmelio|CharliAmelio]] ([[User talk:CharliAmelio|talk]]): Complete failure to read the note; likely [[WP:COPYVIO]] image. ([[WP:TW|TW]])
+2020-07-12T23:33:21+00:00,967384176,966911405,0,2804:14D:5C60:88DB:A8E6:DF5:D403:A984,Juliana Paiva,Fix format
+2020-09-27T23:37:10+00:00,980704501,980702253,0,S0091,Juliana Paiva,Reverted 1 edit by [[Special:Contributions/MadisonInsema|MadisonInsema]] ([[User talk:MadisonInsema|talk]]): Possilble copyvio
+2020-07-04T08:19:45+00:00,965929882,965929673,0,Pikavoom,Katie McGrath,Reverted 1 edit by [[Special:Contributions/2.50.82.153|2.50.82.153]] ([[User talk:2.50.82.153|talk]]) to last revision by ClueBot NG ([[WP:TW|TW]])
+2020-07-30T14:29:14+00:00,970303998,970286521,0,DonQuixote,Katie McGrath,Undid revision 970286521 by [[Special:Contributions/160.202.37.250|160.202.37.250]] ([[User talk:160.202.37.250|talk]])
+2020-07-04T02:21:39+00:00,965897492,965897481,0,ClueBot NG,Katie McGrath,"Reverting possible vandalism by [[Special:Contribs/2605:A000:1328:4C07:6151:3AB9:277E:889B|2605:A000:1328:4C07:6151:3AB9:277E:889B]] to version by S0091. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3733791) (Bot)"
+2020-06-11T00:53:26+00:00,961900986,961882833,0,Kaltenmeyer,Katie McGrath,"/* Career */removed duplicate names, [[WP:AWB/T|typo(s) fixed]]: ’s → 's"
+2020-11-28T01:06:50+00:00,991056408,986816001,0,Monkbot,Katie McGrath,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 26 templates: del empty params (6×); hyphenate params (25×);
+2020-07-25T19:29:34+00:00,969493028,965929882,0,Tasker United,Katie McGrath,
+2020-10-09T02:26:44+00:00,982588908,981639885,0,Starklinson,Katie Sarife,/* External links */
+2020-08-23T05:15:05+00:00,974458891,974305891,0,200.68.140.48,Katie Sarife,
+2020-10-14T15:55:01+00:00,983499926,983495888,0,C.Fred,Kristin Kreuk,/* Personal life */ ital
+2020-06-28T06:18:15+00:00,964894612,963138820,0,2001:569:74D2:A800:197:1AF1:5596:204C,Kristin Kreuk,Undid revision 963138820 by [[Special:Contributions/Zoe1013|Zoe1013]] ([[User talk:Zoe1013|talk]])
+2020-09-23T00:34:28+00:00,979824324,979788756,0,C.Fred,Kristin Kreuk,"/* Personal life */ ""currently"" is vague"
+2020-11-08T05:46:22+00:00,987616900,987126164,0,Steam5,Kristin Kreuk,/* External links */
+2020-07-21T16:47:18+00:00,968807762,967163410,0,JesseM26,Kristin Kreuk,/* NXIVM controversy */Correction
+2020-08-22T00:07:32+00:00,974257568,974257559,0,ClueBot NG,Kristine Froseth,"Reverting possible vandalism by [[Special:Contribs/2600:1003:B00B:186B:46B:36B1:14CD:8FE9|2600:1003:B00B:186B:46B:36B1:14CD:8FE9]] to version by IJBall. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3761041) (Bot)"
+2020-06-29T09:49:05+00:00,965087395,964894612,0,Djodjo666,Kristin Kreuk,/* External links */
+2020-07-20T14:42:53+00:00,968626211,968621067,0,IJBall,Kristine Froseth,Reverted 1 edit by [[Special:Contributions/Thelockheedr22|Thelockheedr22]] ([[User talk:Thelockheedr22|talk]]): IMDb is [[WP:NOTRS]] as per [[WP:Citing IMDb]]. ([[WP:TW|TW]])
+2020-09-11T16:29:40+00:00,977894058,977871741,0,SVTCobra,Laid in America,This is not Spanish Wikipedia Undid revision 977871741 by [[Special:Contributions/MadisonInsema|MadisonInsema]] ([[User talk:MadisonInsema|talk]])
+2020-10-08T21:24:03+00:00,982552845,982542617,0,IJBall,Kristine Froseth,"Undid revision 982542617 by [[Special:Contributions/194.69.212.166|194.69.212.166]] ([[User talk:194.69.212.166|talk]]) - [[WP:ENGLISH]], and that's not how you would present this anyway. Take it to the Talk page..."
+2020-06-03T17:34:48+00:00,960568093,959063483,0,207.181.230.178,Laid in America,
+2020-06-08T23:41:38+00:00,961521241,958865102,0,2804:D41:B06E:4600:8C86:1C87:4AFB:BAB6,Last Moment of Clarity,
+2020-07-14T01:02:19+00:00,967566353,967562927,0,Sundayclose,Lola Naymark,Reverted 5 edits by [[Special:Contributions/MarinaAmelio|MarinaAmelio]] ([[User talk:MarinaAmelio|talk]]): Unexplained and unnecessary removal of content ([[WP:TW|TW]])
+2020-09-12T13:11:33+00:00,978028484,977896024,0,38.109.28.6,Last Moment of Clarity,Undid revision 977896024 by [[Special:Contributions/MadisonInsema|MadisonInsema]] ([[User talk:MadisonInsema|talk]])
+2019-04-05T14:35:36+00:00,891077641,787996525,0,Gnomingstuff,Lola Naymark,stub sort
+2020-07-02T16:38:35+00:00,965655604,965654666,0,MuthuKarthick7,Madison Iseman,/* Early life and career */
+2020-11-13T17:50:28+00:00,988518897,985287508,0,MusikBot II,Madison Iseman,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2020-05-18T00:35:38+00:00,957275897,957150293,0,2605:8D80:446:6C47:2CB9:79C2:98E4:2630,Madison Iseman,Undid revision 957150293 by [[Special:Contributions/2409:4072:6196:DBD1:5DB9:2134:104F:D2A8|2409:4072:6196:DBD1:5DB9:2134:104F:D2A8]] ([[User talk:2409:4072:6196:DBD1:5DB9:2134:104F:D2A8|talk]])
+2020-10-08T21:10:10+00:00,982550953,982549892,0,MusikBot II,Madison Iseman,Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]])
+2020-09-27T23:31:53+00:00,980703786,980703326,0,S0091,Madison Iseman,Reverted to revision 977870728 by [[Special:Contributions/OrangeGarfield|OrangeGarfield]] ([[User talk:OrangeGarfield|talk]]): Restoring prior to COI edits
+2020-11-25T16:59:55+00:00,990635211,988518897,0,2603:8081:160A:BE2A:F596:3662:1EC3:9398,Madison Iseman,/* Early life and career */Neither of these sources are reliable
+2020-07-15T06:20:43+00:00,967772257,967772175,0,189.251.135.33,Madison Iseman,/* Film */
+2020-10-04T01:18:05+00:00,981717643,981716246,0,Tm,Madison Iseman,Undid revision 981716246 by [[Special:Contributions/LauraIseman12|LauraIseman12]] ([[User talk:LauraIseman12|talk]])
+2020-10-07T01:28:18+00:00,982254620,982245000,0,Tm,Madison Iseman,
+2020-09-21T21:27:05+00:00,979636592,979211184,0,CommonsDelinker,Madison Iseman,"Removing [[:c:File:Madison_Iseman.jpg|Madison_Iseman.jpg]], it has been deleted from Commons by [[:c:User:Túrelio|Túrelio]] because: [[:c:COM:L|Copyright violation]]: Getty Images photo: https://media.gettyimages.com/photos/actress-madison-iseman-attends-"
+2020-10-25T02:56:27+00:00,985287508,982550953,0,Cinemacriterion,Madison Iseman,/* Film */ Update
+2020-10-03T16:29:15+00:00,981648030,981554664,0,S0091,Madison Iseman,Reverted to revision 980703786 by [[Special:Contributions/S0091|S0091]] ([[User talk:S0091|talk]]): Distrupitive editing
+2020-12-03T14:00:03+00:00,992097216,992097127,0,Xstoe,Madison Iseman,Reverting edit(s) by [[Special:Contributions/2A01:36D:2800:7B6:907B:53EF:E94A:77E5|2A01:36D:2800:7B6:907B:53EF:E94A:77E5]] ([[User_talk:2A01:36D:2800:7B6:907B:53EF:E94A:77E5|talk]]) to rev. 992096965 by Materialscientist: non-constructive [[w:en:WP:RW|(RW 16)]]
+2020-11-30T00:18:26+00:00,991424205,991400841,0,Filedelinkerbot,Madison Iseman,Bot: Removing [[c:File:Madison Iseman by Denof geek Us.jpg]] ([[:File:Madison Iseman by Denof geek Us.jpg|en]]). Deleted by [[:C:User:Elcobbola|Elcobbola]] (per [[Commons:Commons:Deletion requests/File:Madison Iseman by Denof geek Us.jpg]]).
+2020-09-24T18:26:26+00:00,980119585,980045119,0,217.78.5.128,Madison Iseman,Undid revision 979988143 by [[Special:Contributions/2804:18:7817:6B34:1:0:AC1B:DF05|2804:18:7817:6B34:1:0:AC1B:DF05]] ([[User talk:2804:18:7817:6B34:1:0:AC1B:DF05|talk]])
+2020-06-26T16:28:04+00:00,964626521,964626461,0,187.19.206.221,Marina Salas,
+2020-07-14T01:34:46+00:00,967569975,967492964,0,Sundayclose,Marina Salas,Reverted 4 edits by [[Special:Contributions/MarinaAmelio|MarinaAmelio]] ([[User talk:MarinaAmelio|talk]]) ([[WP:TW|TW]])
+2020-10-04T19:08:52+00:00,981845941,981802837,0,S0091,Marina Salas,Reverted 1 edit by [[Special:Contributions/LauraIseman12|LauraIseman12]] ([[User talk:LauraIseman12|talk]]): Unexplained removal
+2020-04-11T21:33:26+00:00,950395111,950326924,0,HickoryOughtShirt?4,Marina Salas,Reverted to revision 947722325 by [[Special:Contributions/187.19.151.86|187.19.151.86]] ([[User talk:187.19.151.86|talk]]): Copyvio ([[WP:TW|TW]])
+2020-08-19T12:37:41+00:00,973825829,973825787,0,47.227.95.73,Madison Iseman,Undid revision 973825787 by [[Special:Contributions/185.106.29.132|185.106.29.132]] ([[User talk:185.106.29.132|talk]])
+2020-09-15T16:04:29+00:00,978552184,967569975,0,61.68.177.168,Marina Salas,added another web series
+2020-07-08T12:34:38+00:00,966665261,965957860,0,74.98.249.253,Missy Peregrym,/* Television */
+2020-10-09T00:36:18+00:00,982575475,982575319,0,BlackW76,Missy Peregrym,/* Television */
+2020-06-12T04:36:15+00:00,962110392,959105720,0,Salamurai,Missy Peregrym,/* Personal life */ fix cite
+2020-12-06T00:03:19+00:00,992571950,992172870,0,2601:C9:4000:EF80:106:DDF8:48FB:8B61,Nocturne (2020 film),/* Synopsis */
+2020-06-01T21:11:51+00:00,960235242,959147479,0,69.196.139.144,Nocturne (2020 film),/* Production */
+2020-10-20T19:12:08+00:00,984559565,984524360,0,80.143.23.164,Nocturne (2020 film),Fixed missing whitespace
+2020-11-21T04:50:35+00:00,989812513,989614825,0,Joeyconnick,Nocturne (2020 film),/* top */ copyedit
+2020-08-15T19:09:41+00:00,973165430,973047652,0,Bovineboy2008,Nocturne (2020 film),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2001:8003:DDC6:6301:3434:B243:B3EA:D817|2001:8003:DDC6:6301:3434:B243:B3EA:D817]] ([[User talk:2001:8003:DDC6:6301:3434:B243:B3EA:D817|talk]]): Please provide citation ([[WP:TW|TW]])
+2020-11-20T00:56:47+00:00,989614825,989578292,0,Ccwilliams30,Nocturne (2020 film),/* Production */
+2020-10-28T06:48:58+00:00,985835521,984559565,0,2001:8003:DDC6:6301:9191:51CB:3228:5D4,Nocturne (2020 film),
+2020-09-12T10:50:37+00:00,978015626,977872892,0,Bovineboy2008,Nocturne (2020 film),Reverted to revision 976612994 by [[Special:Contributions/69.196.141.254|69.196.141.254]] ([[User talk:69.196.141.254|talk]])
+2020-08-29T10:26:13+00:00,975588403,975588376,0,Meena,Perrie Edwards,Reverted edits by [[Special:Contribs/2001:BB6:E62:B458:E430:8B9D:9C36:D8D6|2001:BB6:E62:B458:E430:8B9D:9C36:D8D6]] ([[User talk:2001:BB6:E62:B458:E430:8B9D:9C36:D8D6|talk]]) to last version by Materialscientist
+2020-11-23T18:09:18+00:00,990257489,990248547,0,Doggy54321,Perrie Edwards,Reverted to revision 990020436 by [[Special:Contributions/Rodw|Rodw]] ([[User talk:Rodw|talk]]): Restoring photo
+2020-08-21T19:20:13+00:00,974221246,972766339,0,2A00:23C4:889A:C00:1545:1413:CB51:8FB,Perrie Edwards,named after
+2020-08-31T19:12:38+00:00,976023225,975588403,0,Juanpumpchump,Perrie Edwards,"/* Personal life */ Not ""got""."
+2020-12-02T15:37:31+00:00,991926538,991923689,0,Doggy54321,Perrie Edwards,Reverted to revision 990257489 by [[Special:Contributions/Doggy54321|Doggy54321]] ([[User talk:Doggy54321|talk]]): [[WP:NPOV]] and reverting info that’s not needed
+2020-10-22T09:16:10+00:00,984822347,984822319,0,Meena,Perrie Edwards,/* Filmography */sentence case
+2020-12-13T17:20:05+00:00,994003070,994002908,0,Asartea,Perrie Edwards,"Reverted edits by [[Special:Contributions/2A02:C7F:DA1A:FF00:C0A9:CF28:CE0A:1607|2A02:C7F:DA1A:FF00:C0A9:CF28:CE0A:1607]] ([[User talk:2A02:C7F:DA1A:FF00:C0A9:CF28:CE0A:1607|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.10)"
+2020-08-01T06:21:53+00:00,970588119,970217436,0,Bigs7,"Peyton List (actress, born 1998)",
+2020-06-27T11:21:47+00:00,964754717,963654640,0,78.17.36.242,Perrie Edwards,
+2020-10-18T16:21:22+00:00,984168574,982087623,0,PoppysButterflies,Riley Keough,
+2020-06-02T11:26:02+00:00,960336622,960336617,0,ClueBot NG,Perrie Edwards,"Reverting possible vandalism by [[Special:Contribs/82.41.7.18|82.41.7.18]] to version by Jpbowen. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3725201) (Bot)"
+2020-08-04T14:37:53+00:00,971158790,969623864,0,84.54.122.103,Riley Keough,
+2020-10-05T02:07:10+00:00,981901693,981553897,0,10sne1,Riley Keough,Added 2020 Netflix film
+2020-11-08T05:21:25+00:00,987614707,987515500,0,Geraldo Perez,Riley Keough,Reverted edits by [[Special:Contribs/2600:1700:5290:2EB0:A42E:DC75:83F4:A9FA|2600:1700:5290:2EB0:A42E:DC75:83F4:A9FA]] ([[User talk:2600:1700:5290:2EB0:A42E:DC75:83F4:A9FA|talk]]) to last version by 190.55.120.142
+2020-06-07T02:13:46+00:00,961184082,961180585,0,JuneGloom07,Samara Weaving,"Rv addition of copyrighted image, removal of content and addition of unsourced content."
+2020-09-11T12:59:57+00:00,977867786,977802215,0,AngelOfDestiny,Samara Weaving,/* Awards and nominations */
+2020-09-17T07:35:43+00:00,978842655,977867786,0,124.168.45.224,Samara Weaving,fixed typo
+2020-09-26T03:13:28+00:00,980361307,978842655,0,114.73.69.161,Samara Weaving,/* Early life */Correctin
+2020-07-28T08:25:21+00:00,969939079,969939035,0,Nyook,Samara Weaving,Rollback edit(s) by [[Special:Contributions/115.189.101.47|115.189.101.47]] ([[User_talk:115.189.101.47|talk]]): [[WP:VANDAL|Vandalism]] [[w:en:Wikipedia:RedWarn|(RedWarn 15)]]
+2020-08-28T17:21:43+00:00,975463382,972085697,0,Wikimeowcat,Samara Weaving,/* Film */
+2020-07-02T22:52:11+00:00,965705349,965703903,0,Gobonobo,Samara Weaving,Undid revision 965703903 by [[Special:Contributions/Stomhas|Stomhas]] ([[User talk:Stomhas|talk]])
+2020-07-20T19:55:03+00:00,968670977,967567050,0,JuneGloom07,Samara Weaving,/* Career */ Add NPS role.
+2020-11-26T01:01:01+00:00,990701439,987715082,0,80.5.198.109,Samara Weaving,/* Career */ No source for this information.
+2020-11-08T20:16:54+00:00,987715082,984576054,0,Mrceleb2007,Samara Weaving,
+2020-10-20T21:09:54+00:00,984576054,980361307,0,TheGoodPotato3333,Samara Weaving,
+2020-08-10T02:30:24+00:00,972085697,969939079,0,Cinemacriterion,Samara Weaving,Update
+2020-09-02T04:40:06+00:00,976284278,976231499,0,Bluerules,Samara Weaving,
+2020-07-22T14:39:05+00:00,968955197,967363615,0,Alienautic,Sara Serraiocco,/* Filmography */
+2020-08-26T10:25:10+00:00,975034319,975034272,0,151.37.154.124,Sara Serraiocco,/* Life and career */
+2020-10-07T23:09:56+00:00,982407086,977692682,0,Citation bot,Sara Serraiocco,"Alter: template type, title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox3 | via #UCB_webform_linked"
+2020-07-14T01:05:12+00:00,967566685,967561749,0,Sundayclose,Sara West,Reverted 2 edits by [[Special:Contributions/MarinaAmelio|MarinaAmelio]] ([[User talk:MarinaAmelio|talk]]): Unsourced ([[WP:TW|TW]])
+2020-11-27T17:49:58+00:00,990989921,976787886,0,Monkbot,Sara West,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 4 templates: del empty params (5×);
+2020-09-05T01:01:12+00:00,976787886,967566685,0,Infinite mission,Sara West,
+2020-07-14T20:02:35+00:00,967705277,967578613,0,2600:1014:B020:EB0B:F163:D435:CD7B:32F8,Sofia Boutella,Height units
+2020-05-27T23:42:00+00:00,959274173,959273917,0,M.Bitton,Sofia Boutella,Reverted 1 edit by [[Special:Contributions/197.247.101.204|197.247.101.204]] ([[User talk:197.247.101.204|talk]]) to last revision by CrazyBoy826 ([[WP:TW|TW]])
+2020-10-14T20:40:21+00:00,983542557,982274316,0,108.56.139.120,Sofia Boutella,Infobox: father and inline list for nationality; remove unsupported 'residence' parameter
+2020-08-15T04:59:44+00:00,973063227,971840702,0,General Ization,Sofia Boutella,/* Early life and dancing career */
+2020-09-26T20:44:30+00:00,980493472,977833308,0,Leewills,Sofia Boutella,added to Filmography
+2020-06-18T10:08:27+00:00,963180406,963109802,0,2600:100F:B06D:8447:7CEE:3DAB:940E:595D,Sofia Boutella,
+2020-11-22T11:08:27+00:00,990028484,990024039,0,Yayo43,Sofia Boutella,
+2020-11-13T19:10:10+00:00,988531144,987900522,0,Citation bot,Sofia Boutella,Alter: title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Berklee College of Music alumni]] | via #UCB_Category 616/683
+2020-06-30T19:30:06+00:00,965341934,963180406,0,197.114.180.170,Sofia Boutella,"Add links, and citation needed"
+2020-10-07T04:36:42+00:00,982274316,981493157,0,2600:100F:B032:2308:8CC:6FEF:8F43:A30A,Sofia Boutella,
+2020-08-20T21:55:52+00:00,974064590,974064483,0,2804:14C:87C1:8493:3C92:E003:C4C5:561F,Tales of Halloween,/* Wraparound */
+2020-09-14T11:20:12+00:00,978351169,977873245,0,38.109.28.6,Tales of Halloween,Undid revision 977873245 by [[Special:Contributions/MadisonInsema|MadisonInsema]] ([[User talk:MadisonInsema|talk]])
+2019-08-08T03:36:17+00:00,909866127,909865768,0,186.176.26.128,Angelique Boyer,
+2020-05-26T02:11:56+00:00,958861226,958861154,0,Materialscientist,Alex Roe,Reverted edits by [[Special:Contributions/165.225.208.170|165.225.208.170]] ([[User talk:165.225.208.170|talk]]): addition of [[WP:BLP|unsourced content]] to a biographical article ([[WP:HG|HG]]) (3.4.10)
+2020-07-12T04:51:37+00:00,967255520,964430902,0,Mimars,Alex Roe,fixed birth date to correct value
+2020-07-16T16:39:59+00:00,968003830,967955982,0,129.205.124.82,Angelique Boyer,
+2020-06-12T15:20:06+00:00,962180861,962180832,0,Serols,Alison Brie,Reverted edits by [[Special:Contributions/86.178.150.115|86.178.150.115]] ([[User talk:86.178.150.115|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2019-07-01T17:59:17+00:00,904366907,904353288,0,Ttwaring,Angelique Boyer,revert - does not agree with [[35th TVyNovelas Awards]] page
+2020-10-01T02:26:11+00:00,981231450,978018453,0,2804:7F7:A583:5A12:5519:72D7:2FCB:4143,Alex Roe,
+2019-08-09T16:50:16+00:00,910095811,909414127,0,2601:285:303:9E90:C59:7DEB:13D3:E67D,Alison Brie,/* Television */
+2020-02-15T02:47:52+00:00,940862843,939955388,0,1980fast,Angelique Boyer,/* Biography */ Phrasing and punctuation
+2019-05-04T23:52:00+00:00,895540000,895535678,0,Telenovelafan215,Angelique Boyer,Like I previously said Amar a muerte has ended so it should not say present and removed unsourced information. Add a reference.
+2019-11-17T22:22:48+00:00,926663439,925396427,0,50.244.147.37,Alison Brie,
+2020-05-14T16:09:05+00:00,956664637,956443853,0,Rodw,Angelique Boyer,Disambiguating links to [[French]] (link changed to [[French people]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2019-09-09T18:44:32+00:00,914851543,909866127,0,Rich Farmbrough,Angelique Boyer,clean up
+2020-02-26T01:27:19+00:00,942659338,942642382,0,Miraclepine Amour II,Alex Roe,rm supercat
+2019-11-29T19:43:22+00:00,928514228,927388978,0,Thousandr678,Angelique Boyer,
+2018-12-05T14:48:08+00:00,872158800,847319333,0,Bisbis,Beauty Mark,added [[Category:American drama films]] using [[WP:HC|HotCat]]
+2019-10-30T20:11:26+00:00,923792246,922886093,0,70.49.126.42,Clouds (2020 film),"/* Filming */I made it more precise, Baie D’Urfé is not technically part of montreal."
+2020-10-05T11:19:10+00:00,981957222,978445251,0,115.186.191.59,Ayça Ayşin Turan,
+2020-03-27T19:31:26+00:00,947670545,945474818,0,80.43.82.222,Clouds (2020 film),
+2019-09-23T15:37:50+00:00,917380208,917380058,0,Rethliopuks,Ayça Ayşin Turan,
+2019-10-24T23:25:32+00:00,922886093,922685923,0,142.122.6.232,Clouds (2020 film),/* Filming */i added content since he came to my school for almost a week to shoot in the woods in Canada
+2020-03-14T05:50:45+00:00,945474818,944461704,0,73.179.17.129,Clouds (2020 film),
+2020-04-16T09:16:25+00:00,951265815,947670545,0,2001:8003:DDC6:6301:102E:6668:E3D5:43DC,Clouds (2020 film),/* Cast */
+2020-11-23T10:40:43+00:00,990199920,981957222,0,Tahaaleem,Ayça Ayşin Turan,Short description and tag.
+2020-08-22T00:01:50+00:00,974256868,972908017,0,50.68.181.189,Clouds (2020 film),
+2019-04-11T20:58:28+00:00,892048908,887599035,0,2A02:C7F:BE24:DD00:100A:697D:E2AF:AF3F,Crystal Reed,
+2019-11-01T19:27:50+00:00,924094038,923591241,0,Trialpears,Eva Green,Remove Box Office Mojo link per [[WP:LINKSTOAVOID]] and [[WP:ELMIN]] (via [[WP:JWB]])
+2019-07-28T10:27:47+00:00,908230048,908230030,0,182.55.74.202,Crystal Reed,/* Film */
+2020-04-20T16:09:03+00:00,952106195,950545917,0,DemonDays64 Bot,Eva Green,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2020-06-05T06:53:28+00:00,960847397,959318339,0,Dawnseeker2000,Eva Green,"date format audit, minor formatting"
+2019-04-22T00:40:31+00:00,893528698,893350781,0,Qballer82,Danica McKellar,fixed date
+2019-05-22T02:25:50+00:00,898205448,897632889,0,2001:569:7C07:2600:C4E1:542:6EC8:20F5,Crystal Reed,/* Personal life */
+2020-07-26T08:59:53+00:00,969580453,967761718,0,Sactacoman,Danica McKellar,
+2019-04-05T21:49:41+00:00,891132729,890748915,0,Parallel University Challenger,Eva Green,
+2019-06-21T15:32:08+00:00,902832742,902832612,0,Serols,Eva Green,Reverted edits by [[Special:Contributions/103.1.31.138|103.1.31.138]] ([[User talk:103.1.31.138|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2020-05-17T19:50:19+00:00,957236538,957236421,0,Tassedethe,Eva Green,
+2020-05-03T16:43:54+00:00,954661953,954661900,0,Anybar,Danica McKellar,/* Television */
+2020-08-25T02:01:15+00:00,974793972,973372145,0,JDDJS,Eva Green,
+2019-08-03T22:08:42+00:00,909210622,907675019,0,Tassedethe,Hazal Kaya,"v2.01 - Repaired 2 links to disambiguation pages - [[WP:DPL|(You can help)]] - [[Aşk-ı Memnu]], [[Aşk-ı Memnu (TV series)]]"
+2019-07-30T00:35:56+00:00,908481633,904071608,0,121.208.189.115,Feast of the Seven Fishes (film),
+2019-09-05T06:51:08+00:00,914106973,914102323,0,UpdateNerd,Grimes,linked lowercase 'c' to speed of light per ref
+2019-04-08T10:03:58+00:00,891497425,891497114,0,Optakeover,Hazal Kaya,Reverted edits by [[Special:Contributions/58.65.223.65|58.65.223.65]] ([[User talk:58.65.223.65|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2020-02-11T00:03:02+00:00,940175150,940165204,0,NJZombie,Grimes,Undid revision 940165204 by [[Special:Contributions/124.177.72.128|124.177.72.128]] ([[User talk:124.177.72.128|talk]]) unexplained removal
+2019-09-27T00:39:06+00:00,918094714,915851760,0,SunriseInBrooklyn,Grimes,/* External links */  new categories added
+2020-02-09T04:58:44+00:00,939863147,927151411,0,Kacamata,Feast of the Seven Fishes (film),
+2020-06-16T13:42:35+00:00,962874095,962784904,0,98.239.227.65,Jery Sandoval,fix link
+2019-06-23T18:16:46+00:00,903120663,901166784,0,223.185.17.162,Hazal Kaya,Starting career
+2019-03-12T15:30:30+00:00,887421091,887420248,0,Cassiopeia,Juliana Paiva,Reverted edits by [[Special:Contributions/187.19.150.42|187.19.150.42]] ([[User talk:187.19.150.42|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.4)
+2019-12-31T17:19:16+00:00,933391131,917397832,0,PearBOT II,Jillian Murray,Adding automatically generated short description. For more informtion see [[Wikipedia:Bots/Requests for approval/PearBOT 5]]
+2020-06-16T04:53:44+00:00,962811665,961357977,0,WikiCleanerBot,Jillian Murray,v2.02b - [[User:WikiCleanerBot#T7|Special:LintError/missing-end-tag]] - [[WP:WCW]] project (Missing end bold/italic)
+2020-04-17T18:43:00+00:00,951550277,939698907,0,DemonDays64 Bot,Jillian Murray,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2019-11-29T12:50:22+00:00,928473231,926797944,0,93.34.227.169,Katie McGrath,/* Career */
+2020-05-13T08:31:44+00:00,956426563,956426557,0,CaptainEek,Katie McGrath,Adding {{pp-vandalism}} ([[WP:TW|TW]])
+2020-09-24T07:01:11+00:00,980035462,979991121,0,108.21.56.162,Katie McGrath,I added the fact that Supergirl is ending in 2021.
+2019-11-18T19:39:00+00:00,926797944,925673528,0,186.128.94.23,Katie McGrath,/* Filmography */
+2019-10-08T20:46:27+00:00,920293224,920226535,0,Marianna251,Katie McGrath,Reverted 1 edit by [[Special:Contributions/2001:8003:74E7:E00:DC7:7A6B:44D0:AAAA|2001:8003:74E7:E00:DC7:7A6B:44D0:AAAA]] ([[User talk:2001:8003:74E7:E00:DC7:7A6B:44D0:AAAA|talk]]) to last revision by Flyer22 Reborn ([[WP:TW|TW]])
+2019-11-11T16:16:37+00:00,925673528,925352415,0,186.128.106.61,Katie McGrath,/* Filmography */
+2020-08-31T14:52:32+00:00,975986058,975979824,0,KylieTastic,Katie Sarife,Revert - not a recognised image file - Note images must be uploaded [[WP:UPIMAGE]] (copyright allowing)
+2020-08-13T02:00:06+00:00,972620907,971050383,0,2001:569:74D2:A800:A524:7384:4D52:7134,Kristin Kreuk,/* External links */
+2019-10-19T03:48:03+00:00,921984238,921461471,0,Simmerdon3448,Kristin Kreuk,/* Television */
+2019-07-28T15:32:23+00:00,908260930,907563005,0,72.83.50.104,Kristin Kreuk,Personal life addition.
+2020-06-18T02:44:16+00:00,963138820,961734522,0,Zoe1013,Kristin Kreuk,
+2020-07-28T00:38:26+00:00,969894422,968807762,0,2001:569:74D2:A800:A4B8:862A:5430:7E24,Kristin Kreuk,/* External links */
+2019-11-06T19:31:58+00:00,924923768,922719070,0,2600:1008:B021:98B:6DE6:CAB4:7315:30D1,Kristin Kreuk,/* NXIVM controversy */Fixed typo and punctuation
+2019-06-03T19:43:56+00:00,900152518,900152455,0,InvalidOS,Laid in America,Reverted edits by [[Special:Contributions/2A02:C7D:253:2B00:414D:A2E3:1556:C579|2A02:C7D:253:2B00:414D:A2E3:1556:C579]] ([[User talk:2A02:C7D:253:2B00:414D:A2E3:1556:C579|talk]]): not adhering to [[WP:NPOV|neutral point of view]] ([[WP:HG|HG]]) (3.4.8)
+2020-03-06T14:23:45+00:00,944225890,944225229,0,Timwikisidemen,Laid in America,
+2020-06-21T13:29:49+00:00,963729945,963729846,0,118.136.19.92,Laid in America,/* Cast */
+2019-08-05T04:55:24+00:00,909398603,909398513,0,2001:569:7C07:2600:2567:693E:1006:EF04,Kristin Kreuk,
+2020-11-03T11:24:34+00:00,986853639,986631739,0,Raolae,Kristin Kreuk,
+2020-04-09T19:20:41+00:00,950007815,949864991,0,Rodw,Last Moment of Clarity,Disambiguating links to [[Brian Cox]] (link changed to [[Brian Cox (actor)]]; link changed to [[Brian Cox (actor)]]; link changed to [[Brian Cox (actor)]]; link changed to [[Brian Cox (actor)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-03-07T09:55:46+00:00,944357428,943644654,0,109.64.16.188,Madison Iseman,
+2020-08-15T02:51:33+00:00,973047009,972984120,0,2001:8003:DDC6:6301:3434:B243:B3EA:D817,Madison Iseman,
+2019-08-03T03:39:41+00:00,909105251,906928623,0,Kuru,Madison Iseman,rmv non-[[WP:RS]] : simple scraper site / gossip blog
+2019-08-22T21:02:58+00:00,912038743,911910301,0,Asterix12468,Madison Iseman,
+2019-10-22T21:32:47+00:00,922556868,922487787,0,Eagleash,Madison Iseman,Undid revision 922487787 by [[Special:Contributions/185.120.125.21|185.120.125.21]] ([[User talk:185.120.125.21|talk]]) [[Help:Reverting|Reverting]] [[Wikipedia:Vandalism|vandalism]] or test edit
+2019-09-11T18:54:17+00:00,915188074,912038743,0,64.180.233.158,Madison Iseman,/* Film */Added 2019 movie
+2019-12-26T16:40:35+00:00,932533090,931158979,0,37.167.217.62,Madison Iseman,No source for birth name Genevais
+2020-04-17T18:27:32+00:00,951547559,947290762,0,DemonDays64 Bot,Madison Iseman,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2019-07-01T16:01:36+00:00,904352357,904269393,0,Buddi09432,Madison Iseman,
+2019-05-01T02:39:08+00:00,894958531,892300804,0,82.5.20.3,Madison Iseman,/* Life and career */Added content
+2019-07-19T08:17:24+00:00,906928623,906196562,0,All Hallow's Wraith,Madison Iseman,cew
+2020-03-20T00:54:52+00:00,946415270,946414478,0,82.72.40.16,Madison Iseman,/* Film */
+2020-01-11T15:41:43+00:00,935262297,935131589,0,Blacklister3000,Madison Iseman,/* Early life and career */
+2019-06-19T19:05:18+00:00,902573521,902025434,0,JoeHebda,Madison Iseman,Update: rm stub notice
+2020-05-01T07:29:55+00:00,954214967,954214925,0,Mr.Sarcastic,Madison Iseman,Reverted edits by [[Special:Contributions/213.230.118.151|213.230.118.151]] ([[User talk:213.230.118.151|talk]]): disruptive edits ([[WP:HG|HG]]) (3.4.10)
+2019-04-13T15:39:11+00:00,892300804,892300715,0,Serols,Madison Iseman,
+2020-01-27T00:05:32+00:00,937740245,937574970,0,2601:244:4D04:48A0:9D65:6BD7:8106:B50D,Madison Iseman,
+2020-02-23T22:56:46+00:00,942313333,941818991,0,Bearcat,Madison Iseman,/* Film */
+2020-01-06T04:00:15+00:00,934366205,934107738,0,Starzoner,Madison Iseman,/* Film */ get rid fo red link
+2019-11-30T05:20:16+00:00,928572360,928521451,0,RussBot,Marina Salas,Robot: [[WP:DPL|fix links]] to disambiguation page [[Spanish]]
+2019-02-19T18:18:11+00:00,884128087,879379460,0,Tajotep,Marina Salas,/* Theatre */
+2019-09-23T17:42:34+00:00,917402946,917402867,0,2001:56B:DC4B:4000:3CD9:AEED:8227:89F6,Missy Peregrym,/* Television */
+2019-04-25T00:28:19+00:00,894006147,892948075,0,Iamthecheese44,Missy Peregrym,
+2019-11-02T16:29:14+00:00,924231340,924231210,0,Poetsirrah!,Missy Peregrym,/* Career */
+2019-10-16T23:11:02+00:00,921642380,921642264,0,190.167.174.28,Nocturne (2020 film),
+2019-05-15T10:59:11+00:00,897191271,897129391,0,Davey2010,Missy Peregrym,date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]
+2020-11-05T14:06:43+00:00,987190299,985835521,0,2601:C9:4000:EF80:295E:A4EA:3AAA:2BF8,Nocturne (2020 film),/* Synopsis */
+2020-11-19T20:16:41+00:00,989578292,989184965,0,173.59.51.47,Nocturne (2020 film),/* Production */
+2019-01-29T21:19:41+00:00,880849378,880849340,0,GuzzyG,Perrie Edwards,"Undid revision 880849340 by [[Special:Contributions/GuzzyG|GuzzyG]] ([[User talk:GuzzyG|talk]]) done, finished"
+2020-11-13T17:07:20+00:00,988512383,988301550,0,Escape Orbit,Perrie Edwards,ce
+2020-11-07T03:46:51+00:00,987451750,987428120,0,64.53.237.140,Perrie Edwards,/* Career */
+2020-10-25T21:33:34+00:00,985423066,985385785,0,Nick Number,Perrie Edwards,repaired link(s) to disambiguation pages ([[WP:DPL|you can help]]) - Capital FM
+2019-08-31T04:03:29+00:00,913293447,912350347,0,DepressedPer,"Peyton List (actress, born 1998)",C/E Lead.
+2020-02-25T06:40:07+00:00,942530150,941545406,0,Drown Soda,Riley Keough,/* Early life */
+2019-11-22T05:37:49+00:00,927390315,926486169,0,Sunuraju,Riley Keough,/* Career */
+2020-03-17T17:48:28+00:00,946036466,942530150,0,73.219.90.8,Riley Keough,"Removed uncited and very dubious ""best known for"" something other than being Elvis's grandchild.  Split needlessly-long all-in-one-gulp sentence."
+2019-12-12T14:08:18+00:00,930439161,930212620,0,2001:8003:A990:C100:7C0E:A2D3:7C95:DED9,Samara Weaving,
+2020-05-05T10:28:40+00:00,954988762,954986114,0,Raintheone,Samara Weaving,"Reverted to revision 954903421 by [[Special:Contributions/JuneGloom07|JuneGloom07]] ([[User talk:JuneGloom07|talk]]): IMDB not [[WP:RS]], suggests she appeared in H&A prior to being born, [[WP:PUFFERY]] via ""celebrity"" ""in a big way"" etc ([[WP:TW|TW]])"
+2019-09-12T11:08:07+00:00,915295233,914232077,0,175.143.215.196,Samara Weaving,/* Filmography */
+2020-09-05T16:59:44+00:00,976884636,976884597,0,8en,Samara Weaving,Undid revision 976884597 by [[Special:Contributions/2001:BB6:9D7B:8E58:75CE:C78B:4BDF:857D|2001:BB6:9D7B:8E58:75CE:C78B:4BDF:857D]] ([[User talk:2001:BB6:9D7B:8E58:75CE:C78B:4BDF:857D|talk]])
+2019-11-05T17:45:01+00:00,924741857,924740767,0,Davey2010,Samara Weaving,Cleaned up using [[WP:AutoEd|AutoEd]]
+2019-10-16T03:13:03+00:00,921505675,921291673,0,Lionjr16,Samara Weaving,/* Career */
+2020-02-20T22:09:45+00:00,941823911,940845081,0,NathanielTheBold,Samara Weaving,/* Filmography */
+2020-02-15T00:34:02+00:00,940845081,936922571,0,Esme frost,Samara Weaving,/* Filmography */
+2019-10-18T14:25:45+00:00,921882293,921239875,0,Vaselineeeeeeee,Sara Serraiocco,/* Filmography */
+2019-05-27T18:00:19+00:00,899070243,898999092,0,82.51.150.187,Sara Serraiocco,/* Life and career */
+2020-04-03T10:11:59+00:00,948843925,921882293,0,Rodw,Sara Serraiocco,Disambiguating links to [[Barry Ward]] (link changed to [[Barry Ward (actor)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-01-27T07:28:50+00:00,937795169,926648202,0,Satinandsteel,Sara West,/* Filmography */ [[WP: ACCESSIBILITY]]
+2020-03-26T02:42:08+00:00,947404559,944206481,0,Wbm1058,Sara West,Disambiguate [[Don't Tell]] to [[Don't Tell (2017 film)]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2020-04-30T14:23:56+00:00,954068557,954053939,0,187.19.151.86,Sara West,
+2020-04-18T19:47:25+00:00,951768587,951753541,0,79.182.34.36,Sofia Boutella,
+2019-04-18T18:16:44+00:00,893059574,886147070,0,IXCat,Sofia Boutella,
+2019-03-04T15:24:33+00:00,886147070,886146866,0,Grumblegromit,Sofia Boutella,/* Personal life */ added reference
+2019-12-30T17:59:37+00:00,933226196,930259654,0,Esme frost,Sofia Boutella,/* Filmography */
+2019-07-12T16:02:46+00:00,905954135,905674745,0,Vivek Ray,Sofia Boutella,Filled in 1 bare reference(s) with reFill 2
+2020-10-02T17:08:54+00:00,981493157,980493472,0,45.72.217.44,Sofia Boutella,
+2019-05-03T02:24:43+00:00,895266463,895265303,0,NinjaRobotPirate,Sofia Boutella,Reverted to revision 893059574 by [[Special:Contributions/IXCat|IXCat]] ([[User talk:IXCat|talk]]): Restore template ([[WP:TW|TW]])
+2020-02-03T10:57:20+00:00,938949804,938949581,0,95.234.10.7,Sofia Boutella,/* Filmography */
+2020-04-20T14:52:35+00:00,952093075,946435001,0,Chaheel Riens,Tales of Halloween,clarify
+2020-06-25T03:22:20+00:00,964370477,959825259,0,Sc2353,Tales of Halloween,-[[Category:2015 horror films]]; -[[Category:2015 comedy films]]; ±[[Category:2010s comedy horror films]]→[[Category:2015 comedy horror films]] using [[WP:HC|HotCat]]
+2020-08-13T20:45:15+00:00,972791133,971683256,0,2605:A000:1327:6313:C95D:9E51:B139:7EC9,Tales of Halloween,/* Release */ untrue
+2020-01-02T06:41:54+00:00,933644714,925930001,0,All Hallow's Wraith,Tales of Halloween,/* Cast */

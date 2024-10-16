@@ -1,0 +1,116 @@
+timestamp,revid,parentid,sock,user,page,message
+2006-09-04T15:00:43+00:00,73765179,71262828,1,Ianosistvan,Újfehértó,
+2006-09-04T14:54:29+00:00,73764195,71255725,1,Ianosistvan,Hajdúböszörmény,
+2006-09-04T14:50:57+00:00,73763705,52052452,1,Ianosistvan,Szentes,
+2006-09-04T14:48:44+00:00,73763384,73763313,1,Ianosistvan,Hódmezővásárhely,
+2006-09-04T14:48:19+00:00,73763313,71960108,1,Ianosistvan,Hódmezővásárhely,
+2006-09-02T21:04:04+00:00,73458603,73374433,1,Ianosistvan,Szolnok,
+2006-09-02T21:03:12+00:00,73458466,73458427,1,Ianosistvan,Nyíregyháza,
+2006-09-02T21:02:56+00:00,73458427,73374991,1,Ianosistvan,Nyíregyháza,
+2006-09-02T21:01:21+00:00,73458207,73457930,1,Ianosistvan,Mukachevo,
+2006-09-02T20:57:44+00:00,73457673,73457627,1,Ianosistvan,Mukachevo,
+2006-09-02T20:57:31+00:00,73457627,73289526,1,Ianosistvan,Mukachevo,
+2006-09-02T20:56:54+00:00,73457541,73289211,1,Ianosistvan,Berehove,
+2006-09-02T19:55:44+00:00,73447691,73287884,1,Ianosistvan,Dobrich,
+2006-09-01T21:12:50+00:00,73290656,72202350,1,Ianosistvan,Snake Island (Ukraine),
+2006-09-01T21:07:39+00:00,73289812,70584681,1,Ianosistvan,Poiana Brașov,
+2006-09-01T21:07:01+00:00,73289711,61121751,1,Ianosistvan,Predeal,
+2006-09-01T20:59:53+00:00,73288512,73188065,1,Ianosistvan,List of heavy metal bands,
+2006-09-01T20:57:38+00:00,73288165,73186980,1,Ianosistvan,List of black metal bands,
+2006-09-01T20:49:53+00:00,73286972,72561456,1,Ianosistvan,Mukachevo,
+2006-09-01T20:49:09+00:00,73286841,70688077,1,Ianosistvan,Berehove,
+2006-09-01T20:47:16+00:00,73286549,73286493,1,Ianosistvan,Oryahovo,
+2006-09-01T20:46:59+00:00,73286493,62268387,1,Ianosistvan,Oryahovo,
+2006-09-01T20:45:31+00:00,73286215,73010127,1,Ianosistvan,Dobrich,
+2006-08-31T12:12:59+00:00,73010224,72737561,1,Ianosistvan,Moscopole,
+2006-08-31T12:11:15+00:00,73010034,62261212,1,Ianosistvan,Alfatar,
+2006-08-31T12:08:44+00:00,73009754,68634020,1,Ianosistvan,Dobrich,
+2006-08-30T17:28:43+00:00,72852945,52047110,1,Ianosistvan,Szeghalom,
+2006-08-30T17:12:33+00:00,72850311,32991882,1,Ianosistvan,Sarkash,
+2006-08-30T17:09:09+00:00,72849705,59727666,1,Ianosistvan,Mezőberény,
+2006-08-30T16:57:24+00:00,72847828,72847758,1,Ianosistvan,Gyomaendrőd,
+2006-08-30T16:57:02+00:00,72847758,57696420,1,Ianosistvan,Gyomaendrőd,
+2006-08-30T16:54:48+00:00,72847433,71260993,1,Ianosistvan,Szarvas,
+2006-08-30T16:52:32+00:00,72847090,71259200,1,Ianosistvan,Orosháza,
+2006-08-30T16:41:14+00:00,72845273,0,1,Ianosistvan,Battonya,
+2006-08-30T16:34:57+00:00,72844231,59287727,1,Ianosistvan,Csongrád,
+2006-09-02T21:19:30+00:00,73461018,68781255,1,Titirenko,"Avram Iancu, Alba",
+2006-09-02T21:18:08+00:00,73460836,73316013,1,Titirenko,Poiana Brașov,
+2006-09-02T21:15:24+00:00,73460444,52129227,1,Titirenko,Petrila,
+2006-09-02T21:14:49+00:00,73460357,61120330,1,Titirenko,Uricani,
+2006-09-02T21:12:08+00:00,73459978,73459901,1,Titirenko,Dobrich,
+2006-09-02T21:11:39+00:00,73459901,73448190,1,Titirenko,Dobrich,
+2006-08-10T08:21:35+00:00,68781255,57852991,0,Koga,"Avram Iancu, Alba",template: localities in Alba
+2006-09-02T20:58:36+00:00,73457801,73457541,0,DDima,Berehove,"rv, more Magyars live in Berehove than Rumanians"
+2006-09-02T21:22:10+00:00,73461425,73461263,0,TodorBozhinov,Dobrich,fix that
+2006-08-20T01:54:22+00:00,70688077,70475281,0,Khoikhoi,Berehove,fmt
+2006-08-31T13:50:23+00:00,73022654,73010034,0,TodorBozhinov,Alfatar,"rv, no new info"
+2006-09-03T05:57:03+00:00,73529226,73529072,0,Schmiteye,Dobrich,comment out placeholders
+2006-08-31T15:17:38+00:00,73035854,72993121,0,Aelfthrytha,Battonya,"cat, stubsort"
+2006-07-05T22:00:30+00:00,62261212,50075629,0,TodorBozhinov,Alfatar,[[Category:Silistra Province]]
+2006-09-01T21:04:05+00:00,73289211,73286841,0,DDima,Berehove,"{{lang-|}} templates and fmt, ro name in other place"
+2006-09-01T20:55:46+00:00,73287884,73286215,0,TodorBozhinov,Dobrich,rv; as I said already
+2006-08-31T12:12:03+00:00,73010127,73009754,0,TodorBozhinov,Dobrich,but please... already mentioned in the old names section
+2006-08-22T22:05:38+00:00,71255725,53025952,0,The Anomebot2,Hajdúböszörmény,Adding geodata...
+2006-08-26T06:37:38+00:00,71960108,68056785,0,Sheynhertz-Unbayg,Hódmezővásárhely,/* External links */ added people
+2006-08-30T12:53:04+00:00,72811010,72810940,0,143.252.80.100,List of black metal bands,/* H */
+2006-09-02T02:55:30+00:00,73336344,73301107,0,Hills john,List of heavy metal bands,/* S */
+2006-08-31T13:51:14+00:00,73022784,73010224,0,TodorBozhinov,Moscopole,"it's Aromanian only, Romanians have little to do"
+2006-08-31T04:36:26+00:00,72966008,72458215,0,138.89.219.81,List of heavy metal bands,/* D */
+2006-08-29T06:58:44+00:00,72561456,71626502,0,Lubos,Mukachevo,+cs interwiki
+2006-09-02T21:16:11+00:00,73460566,73458207,0,Khoikhoi,Mukachevo,please see [[User talk:Ianosistvan#Mukacheve|your talk page]]
+2006-09-02T21:20:51+00:00,73461231,73458466,0,Khoikhoi,Nyíregyháza,unicodify
+2006-08-23T17:08:01+00:00,71415004,68056508,0,Jetman,Nyíregyháza,fi
+2006-07-05T22:46:08+00:00,62268387,50076677,0,TodorBozhinov,Oryahovo,[[Category:Vratsa Province]]
+2006-09-01T21:00:18+00:00,73288580,73288060,0,TodorBozhinov,Oryahovo,/* Liberated Bulgaria */ 1961 in Bulgaria? huh :)
+2006-05-08T12:03:16+00:00,52129227,48081466,0,FlaBot,Petrila,robot  Adding: eo
+2006-09-02T00:16:09+00:00,73316013,73315876,0,Khoikhoi,Poiana Brașov,fmt
+2006-09-02T21:25:21+00:00,73461991,73461595,0,Khoikhoi,Poiana Brașov,Reverted edits by [[Special:Contributions/Khoikhoi|Khoikhoi]] ([[User_talk:Khoikhoi|Talk]]) to last version by Titirenko
+2006-08-19T13:38:26+00:00,70584681,64325506,0,Bobblewik,Poiana Brașov,units
+2006-09-01T21:22:13+00:00,73292117,73290656,0,DDima,Snake Island (Ukraine),"rv, it is part of the UA raion, so we should state it."
+2006-06-29T01:46:33+00:00,61121751,53133161,0,Thijs!bot,Predeal,robot  Adding: [[eo:Predeal]]
+2006-05-07T23:15:20+00:00,52052452,40121617,0,Alensha,Szentes,+cat
+2006-06-29T01:34:26+00:00,61120330,48083620,0,Thijs!bot,Uricani,robot  Adding: [[eo:Uricani]]
+2006-08-27T13:09:01+00:00,72182681,69833590,0,Jetman,Szolnok,fi
+2006-09-02T23:18:04+00:00,73478750,73475287,0,Khoikhoi,Uricani,Reverted edits by [[Special:Contributions/Yancu|Yancu]] ([[User_talk:Yancu|Talk]]) to last version by Khoikhoi
+2006-08-22T22:44:36+00:00,71262828,66535942,0,The Anomebot2,Újfehértó,Adding geodata...
+2006-04-25T12:24:29+00:00,50075629,22948397,0,Syrcatbot,Alfatar,recategorization per [[WP:CFD|CFD]] [[Wikipedia:Categories for deletion/Log/2006 April 14|Apr 14]]  using [[Wikipedia:AutoWikiBrowser|AWB]]
+2006-06-10T10:19:57+00:00,57852991,52946392,0,YurikBot,"Avram Iancu, Alba",robot  Adding: [[hu:Felsővidra]]
+2006-07-05T05:27:24+00:00,62137084,62120213,0,Tufkaa,Berehove,Raion center
+2006-05-13T23:22:55+00:00,53069621,53016484,0,Rjensen,Berehove,
+2006-07-23T01:26:20+00:00,65300695,63860065,0,YurikBot,Dobrich,robot  Adding: [[pt:Dobrich]]
+2006-05-30T15:11:52+00:00,55940509,52678935,0,Tobias Conradi,Dobrich,"Infobox Town BG,date"
+2006-01-21T07:42:35+00:00,36065386,29758682,0,Radak,Hajdúböszörmény,sp cornucopia
+2006-06-23T07:23:05+00:00,60135734,57875242,0,Civertan,Hódmezővásárhely,/* External links */
+2006-08-06T19:55:14+00:00,68056785,67320996,0,Gene Nygaard,Hódmezővásárhely,indexing
+2006-07-28T00:37:44+00:00,66263325,66263144,0,152.163.100.198,List of black metal bands,/* K */
+2006-07-18T06:35:45+00:00,64422294,64422153,0,Xaozon,List of black metal bands,
+2006-06-15T17:16:31+00:00,58791703,58364348,0,88.112.8.223,List of black metal bands,/* T */
+2006-05-18T20:33:27+00:00,53916008,53915910,0,71.227.136.223,List of heavy metal bands,/* T */
+2006-06-01T18:44:42+00:00,56362053,56307761,0,IronChris,List of heavy metal bands,/* V */ removed Vesectatron (no article)
+2006-07-08T19:45:38+00:00,62764937,62752479,0,La Pizza11,List of heavy metal bands,Fixed Link
+2006-08-16T20:50:06+00:00,70090880,69975257,0,205.189.158.123,List of heavy metal bands,
+2006-08-30T02:05:54+00:00,72737561,69377156,0,SmackBot,Moscopole,ISBN formatting &/or general fixes  using [[WP:AWB|AWB]]
+2006-02-12T01:33:39+00:00,39279449,38889487,0,213.16.148.3,Moscopole,/* History */
+2006-07-04T08:41:09+00:00,61990609,61915573,0,Bloodredchaos,List of heavy metal bands,removed post mortem (no article) and removed non-metal bands
+2006-05-15T13:59:28+00:00,53315330,53315046,0,Bloodredchaos,List of heavy metal bands,
+2006-08-02T04:41:56+00:00,67182235,62539713,0,YurikBot,Mukachevo,robot  Modifying: [[he:מונקאץ']]
+2006-08-13T16:09:53+00:00,69404859,67182235,0,Biruitorul,Mukachevo,/* Timeline */
+2006-05-14T04:39:55+00:00,53105532,53102513,0,Hollomis,Mukachevo,/* Timeline */
+2006-05-24T21:10:55+00:00,54953784,54953705,0,Spearhead,List of black metal bands,/* A */
+2006-07-25T09:09:28+00:00,65722223,61557728,0,YurikBot,Nyíregyháza,robot  Adding: [[pt:Nyíregyháza]]
+2006-04-25T12:35:04+00:00,50076677,50075121,0,Syrcatbot,Oryahovo,recategorization per [[WP:CFD|CFD]] [[Wikipedia:Categories for deletion/Log/2006 April 14|Apr 14]]  using [[Wikipedia:AutoWikiBrowser|AWB]]
+2006-06-23T07:44:53+00:00,60137333,57881841,0,Civertan,Nyíregyháza,/* History */
+2006-07-17T18:24:16+00:00,64325506,59809816,0,217.197.176.141,Poiana Brașov,/* External links */
+2006-06-01T23:54:55+00:00,56410297,56410139,0,85.186.177.202,Poiana Brașov,
+2006-06-21T13:47:31+00:00,59809816,56410297,0,194.209.239.66,Poiana Brașov,/* External links */
+2006-07-31T22:13:00+00:00,66932887,66932571,0,81.182.212.123,Nyíregyháza,Correct the WikiMapia link
+2006-05-14T10:19:57+00:00,53133161,47153082,0,Sabinpopa,Predeal,/* External links */  Added link to photo gallery of Predeal
+2006-07-06T05:22:24+00:00,62318205,59574280,0,82.208.85.203,Snake Island (Ukraine),+cv
+2006-04-18T21:46:57+00:00,49062819,49060093,0,Nakon,Snake Island (Ukraine),Reverted edits by [[Special:Contributions/212.0.138.28|212.0.138.28]] ([[User talk:212.0.138.28|talk]]) to last version by Irpen
+2006-05-15T06:55:19+00:00,53276527,49062819,0,Ianbak,Snake Island (Ukraine),"Fidonisi is a greek word meaning ""Snake island"""
+2006-07-26T02:28:10+00:00,65882087,60221499,0,YurikBot,Szolnok,robot  Adding: [[pt:Szolnok]]
+2006-07-28T22:19:47+00:00,66427526,65882087,0,Edebundity,Szolnok,/* External links */
+2006-04-12T07:42:35+00:00,48083620,41363114,0,Andrei Stroe,Uricani,Licensing & Category
+2006-06-10T14:07:51+00:00,57874033,54713298,0,Peppe83~enwiki,Újfehértó,adding category
+2006-07-29T15:44:57+00:00,66535942,57874033,0,Gene Nygaard,Újfehértó,indexing

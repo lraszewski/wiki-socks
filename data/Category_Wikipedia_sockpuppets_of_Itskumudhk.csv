@@ -1,0 +1,946 @@
+timestamp,revid,parentid,sock,user,page,message
+2017-03-29T05:09:20+00:00,772760240,772759585,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-29T04:58:59+00:00,772759301,772759011,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-29T04:50:52+00:00,772758611,772653031,1,Itskumudhk,Veer Savarkar International Airport,/* Airlines and destinations */
+2017-03-29T04:50:07+00:00,772758543,772758514,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-29T04:49:47+00:00,772758514,772758072,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-29T04:43:01+00:00,772757947,772757532,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-29T04:40:45+00:00,772757759,772207439,1,Itskumudhk,Pune Airport,/* Airlines and destinations */
+2017-03-29T04:39:27+00:00,772757631,772659222,1,Itskumudhk,Bucharest Henri Coandă International Airport,/* Airlines and destinations */
+2017-03-29T04:29:59+00:00,772756724,772744411,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-28T14:05:08+00:00,772642104,772641644,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-28T14:01:52+00:00,772641644,772641433,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-28T14:00:30+00:00,772641433,772615009,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-28T13:56:51+00:00,772640932,772640857,1,Itskumudhk,Chennai International Airport,/* Cargo */
+2017-03-28T13:56:17+00:00,772640857,772640757,1,Itskumudhk,Chennai International Airport,/* Cargo */
+2017-03-28T13:55:35+00:00,772640757,772640601,1,Itskumudhk,Chennai International Airport,/* Cargo */
+2017-03-28T13:54:19+00:00,772640601,772505482,1,Itskumudhk,Chennai International Airport,/* Cargo */
+2017-03-28T13:42:52+00:00,772639174,772622003,1,Itskumudhk,Heathrow Airport,/* Passenger */
+2017-03-28T09:58:06+00:00,772615502,772614726,1,Itskumudhk,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-03-28T09:54:09+00:00,772615116,772600840,1,Itskumudhk,Veer Savarkar International Airport,/* Airlines and destinations */
+2017-03-28T09:53:00+00:00,772615009,772600689,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-28T09:50:50+00:00,772614726,771730359,1,Itskumudhk,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-03-28T09:49:38+00:00,772614513,772388966,1,Itskumudhk,Gaya Airport,/* Airlines and destinations */
+2017-03-28T08:43:13+00:00,772607726,772328739,1,Itskumudhk,Shah Amanat International Airport,/* Passenger */
+2017-03-28T05:43:45+00:00,772591026,772585027,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-25T08:06:58+00:00,772093558,772005199,1,Itskumudhk,Chennai International Airport,/* Passenger */
+2017-03-25T06:14:58+00:00,772082374,772077349,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */
+2017-03-25T06:14:18+00:00,772082293,772067268,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-25T01:54:03+00:00,772054264,772054091,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */
+2017-03-25T01:52:30+00:00,772054091,772013664,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */
+2017-03-25T01:49:05+00:00,772053698,772011381,1,Itskumudhk,Coimbatore International Airport,/* Cargo */
+2017-03-24T10:13:39+00:00,771933007,771912146,1,Itskumudhk,Coimbatore International Airport,/* Cargo */
+2017-03-21T14:52:15+00:00,771436732,771363336,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */
+2017-03-21T14:51:20+00:00,771436596,771436020,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-21T14:46:52+00:00,771436020,771364074,1,Itskumudhk,Coimbatore International Airport,/* Cargo */
+2017-03-20T15:11:39+00:00,771263929,771003348,1,Itskumudhk,Ben Gurion Airport,/* Passenger */
+2017-03-20T15:04:48+00:00,771263015,771262855,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-20T15:03:40+00:00,771262855,771262655,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-20T15:02:14+00:00,771262655,771256442,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-20T13:53:12+00:00,771254388,771254283,1,Itskumudhk,Coimbatore International Airport,/* Cargo */
+2017-03-20T13:52:12+00:00,771254283,771254150,1,Itskumudhk,Coimbatore International Airport,/* Cargo */
+2017-03-20T13:51:06+00:00,771254150,771249966,1,Itskumudhk,Coimbatore International Airport,/* Cargo */
+2017-03-19T11:35:30+00:00,771077236,771076925,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-19T11:20:45+00:00,771075771,770970537,1,Itskumudhk,Jaipur International Airport,/* Airlines and destinations */
+2017-03-19T11:12:52+00:00,771074699,771067300,1,Itskumudhk,List of SriLankan Airlines destinations,/* List */
+2017-03-19T09:48:26+00:00,771067300,771067192,1,Itskumudhk,List of SriLankan Airlines destinations,/* List */
+2017-03-19T09:47:14+00:00,771067192,771056649,1,Itskumudhk,List of SriLankan Airlines destinations,/* Terminated Routes */
+2017-03-19T07:38:18+00:00,771056649,771056594,1,Itskumudhk,List of SriLankan Airlines destinations,/* List */
+2017-03-19T07:37:26+00:00,771056594,762983586,1,Itskumudhk,List of SriLankan Airlines destinations,/* List */
+2017-03-19T07:28:03+00:00,771055941,771054358,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-19T07:08:52+00:00,771054593,771054471,1,Itskumudhk,Kozhikode International Airport,/* Cargo */
+2017-03-19T07:07:07+00:00,771054471,770926338,1,Itskumudhk,Kozhikode International Airport,/* Passenger */
+2017-03-19T07:05:24+00:00,771054358,771047902,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-19T05:43:16+00:00,771048019,770959219,1,Itskumudhk,Changi Airport,/* Passenger */
+2017-03-19T05:41:50+00:00,771047902,771047224,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-19T05:39:26+00:00,771047706,771047514,1,Itskumudhk,Suvarnabhumi Airport,/* Passenger */
+2017-03-19T05:36:46+00:00,771047514,770972840,1,Itskumudhk,Suvarnabhumi Airport,/* Passenger */
+2017-03-19T05:32:57+00:00,771047224,771046997,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-19T05:30:12+00:00,771046997,771043489,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-03-03T16:30:40+00:00,768406216,768406131,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */
+2017-03-03T16:30:10+00:00,768406131,768395117,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */
+2017-03-03T16:20:32+00:00,768404720,768051116,1,Itskumudhk,Pune Airport,/* Airlines and destinations */
+2017-02-25T07:30:39+00:00,767331914,767125288,1,Itskumudhk,Visakhapatnam Airport,/* Airlines and Destinations */
+2017-02-25T07:23:07+00:00,767331120,767219950,1,Itskumudhk,Tiruchirappalli International Airport,/* Passenger flights */
+2017-02-24T16:25:10+00:00,767219950,766587214,1,Itskumudhk,Tiruchirappalli International Airport,/* Passenger flights */
+2017-02-19T14:17:25+00:00,766316463,766316197,1,Itskumudhk,Cochin International Airport,/* Passenger */
+2017-02-19T14:14:55+00:00,766316197,766044067,1,Itskumudhk,Cochin International Airport,/* Passenger */
+2017-02-19T14:13:48+00:00,766316074,766315974,1,Itskumudhk,Kozhikode International Airport,/* Passenger */
+2017-02-19T14:12:47+00:00,766315974,766305022,1,Itskumudhk,Kozhikode International Airport,/* Passenger */
+2017-02-19T14:10:58+00:00,766315757,766200866,1,Itskumudhk,Chennai International Airport,/* Passenger */
+2017-02-04T17:40:23+00:00,763687999,763687908,1,Itskumudhk,Tiruchirappalli International Airport,/* Cargo services */
+2017-02-04T17:39:47+00:00,763687908,763687803,1,Itskumudhk,Tiruchirappalli International Airport,/* Cargo services */
+2017-02-04T17:39:02+00:00,763687803,763670827,1,Itskumudhk,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-01-31T12:40:59+00:00,762921428,762571070,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-01-29T08:58:58+00:00,762517808,762514759,1,Itskumudhk,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-01-29T08:55:13+00:00,762517478,762216878,1,Itskumudhk,Sharjah International Airport,/* Cargo */
+2017-01-29T08:53:27+00:00,762517331,762275033,1,Itskumudhk,Coimbatore International Airport,/* Cargo */
+2017-01-29T08:52:03+00:00,762517213,762516704,1,Itskumudhk,Chennai International Airport,/* Cargo */
+2017-01-29T08:46:24+00:00,762516704,762504860,1,Itskumudhk,Chennai International Airport,/* Airlines and destinations */
+2017-01-29T08:26:37+00:00,762514759,762411029,1,Itskumudhk,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-01-27T14:03:06+00:00,762230016,762229688,1,Itskumudhk,Vijayawada Airport,/* Airlines and destinations */
+2017-01-27T14:00:26+00:00,762229688,762033846,1,Itskumudhk,Vijayawada Airport,/* Airlines and destinations */
+2017-01-24T12:40:49+00:00,761719067,761654820,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-01-22T10:53:25+00:00,761333398,761333302,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-01-22T10:52:23+00:00,761333302,761164139,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-01-12T16:19:15+00:00,759681840,759497218,1,Itskumudhk,Suvarnabhumi Airport,/* Passenger */
+2017-01-12T16:17:39+00:00,759681596,759345941,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-01-09T15:19:54+00:00,759156364,759156141,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2017-01-09T15:18:32+00:00,759156141,759141028,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2017-01-09T13:16:48+00:00,759141028,759140704,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-01-09T13:14:16+00:00,759140704,759140634,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */ Added links
+2017-01-09T13:13:38+00:00,759140634,759139751,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2017-01-09T13:06:00+00:00,759139751,759108237,1,Itskumudhk,Coimbatore International Airport,/* Proposed expansion */
+2017-01-08T03:34:45+00:00,758891775,758882665,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2017-01-08T02:27:07+00:00,758882665,758749169,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2017-01-07T10:03:36+00:00,758749169,758749101,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2017-01-07T10:02:38+00:00,758749101,758748700,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2017-01-07T09:57:03+00:00,758748700,758748391,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2017-01-07T09:52:42+00:00,758748391,758592650,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */ Added links
+2017-01-01T13:04:42+00:00,757739175,757711058,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-10-31T10:47:42+00:00,747088367,747088212,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */ Added links
+2016-10-31T10:46:04+00:00,747088212,746897561,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */ Added links
+2016-10-28T05:16:22+00:00,746565237,746505106,1,Itskumudhk,Tiruchirappalli International Airport,/* Airlines and Destinations */
+2016-08-15T16:43:34+00:00,734626018,732368339,1,Itskumudhk,Pagal Nilavu (TV series),
+2016-08-15T16:42:19+00:00,734625840,734584647,1,Itskumudhk,Deivam Thandha Veedu,
+2016-08-15T16:40:17+00:00,734625577,734171599,1,Itskumudhk,Saravanan Meenatchi,Added links
+2016-08-15T16:39:29+00:00,734625478,734175910,1,Itskumudhk,Kalyanam Mudhal Kadhal Varai,
+2016-07-07T15:29:16+00:00,728775048,727676140,1,Itskumudhk,Tiruchirappalli International Airport,/* Airlines and destinations */ added information
+2016-07-02T11:42:17+00:00,727989180,727981173,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-25T12:41:19+00:00,726938289,726937841,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-25T12:36:43+00:00,726937841,726617065,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-23T01:42:11+00:00,726578227,726510912,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-22T16:02:22+00:00,726501900,726501460,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-22T15:58:54+00:00,726501460,726427309,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-19T04:11:14+00:00,725976681,725825658,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */ Added links
+2016-06-15T01:37:30+00:00,725334346,724899261,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-12T04:05:15+00:00,724882282,724799464,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-11T15:35:07+00:00,724798518,723850579,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */ Added links
+2016-06-11T15:15:06+00:00,724796168,724796095,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-11T15:14:28+00:00,724796095,724796008,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-11T15:13:48+00:00,724796008,724795765,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-11T15:11:50+00:00,724795765,724793373,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-11T15:09:44+00:00,724795515,724793834,1,Itskumudhk,Jaipur International Airport,/* Airlines and destinations */ Added links
+2016-06-11T14:56:11+00:00,724793834,724744376,1,Itskumudhk,Jaipur International Airport,/* Airlines and destinations */
+2016-06-11T12:28:06+00:00,724779086,724744307,1,Itskumudhk,Chennai International Airport,/* Passenger */ Added links
+2016-06-11T12:25:04+00:00,724778830,724744175,1,Itskumudhk,Bandaranaike International Airport,/* Passenger */ Added links
+2016-06-11T12:22:02+00:00,724778575,724774977,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-11T12:18:52+00:00,724778271,724610222,1,Itskumudhk,Suvarnabhumi Airport,/* Passenger */ Added links
+2016-06-11T12:07:30+00:00,724777241,724335577,1,Itskumudhk,Adelaide Airport,/* Airlines and destinations */
+2016-06-11T11:43:43+00:00,724774977,724774782,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-11T11:41:52+00:00,724774782,724767036,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-11T05:44:44+00:00,724744376,723091041,1,Itskumudhk,Jaipur International Airport,/* Airlines and destinations */
+2016-06-11T05:42:32+00:00,724744223,724726878,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-11T05:39:01+00:00,724743842,724619040,1,Itskumudhk,Chennai International Airport,/* Passenger */
+2016-06-11T01:58:50+00:00,724722218,724666789,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-11T01:55:44+00:00,724721911,724646999,1,Itskumudhk,Coimbatore,/* Climate */
+2016-06-10T15:44:30+00:00,724646999,724612697,1,Itskumudhk,Coimbatore,/* Climate */
+2016-06-10T14:45:31+00:00,724638851,724342559,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-10T02:04:18+00:00,724562458,724501056,1,Itskumudhk,Chennai International Airport,/* Passenger */
+2016-06-07T16:33:20+00:00,724178976,724089136,1,Itskumudhk,Kuala Lumpur International Airport,/* Passenger */
+2016-06-07T16:32:09+00:00,724178855,723853645,1,Itskumudhk,Tiruchirappalli International Airport,/* Airlines and destinations */
+2016-06-06T16:24:06+00:00,724011750,723853375,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */ Added links
+2016-06-05T16:40:22+00:00,723842148,723767601,1,Itskumudhk,Kempegowda International Airport,/* Airlines and destinations */ Added links
+2016-06-05T16:28:23+00:00,723840781,723784704,1,Itskumudhk,Madurai Airport,Added links
+2016-06-05T16:27:18+00:00,723840633,723783844,1,Itskumudhk,Air Carnival,/* Destinations */ added information
+2016-06-05T16:24:44+00:00,723840231,723839814,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */ Added links
+2016-06-05T16:21:51+00:00,723839814,723839670,1,Itskumudhk,Coimbatore International Airport,
+2016-06-05T16:20:48+00:00,723839670,723839542,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-05T16:19:57+00:00,723839542,723839256,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */ Added links
+2016-06-05T16:17:55+00:00,723839256,723819336,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-05T14:27:39+00:00,723826120,718419966,1,Itskumudhk,Pondicherry Airport,/* Airlines and destinations */
+2016-06-05T06:32:36+00:00,723784704,723784667,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */ Added links
+2016-06-05T06:32:14+00:00,723784667,722606153,1,Itskumudhk,Madurai Airport,/* Airlines and destinations */
+2016-06-05T06:30:38+00:00,723784508,723784414,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-05T06:29:43+00:00,723784414,723784165,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2016-06-05T06:27:24+00:00,723784165,723784024,1,Itskumudhk,Coimbatore International Airport,
+2016-06-05T06:25:57+00:00,723784024,723778101,1,Itskumudhk,Coimbatore International Airport,
+2016-06-05T06:24:19+00:00,723783844,723667678,1,Itskumudhk,Air Carnival,/* Fleet */
+2016-06-05T05:26:17+00:00,723778347,723121994,1,Itskumudhk,Tiruchirappalli International Airport,/* Airlines and destinations */
+2016-06-05T05:23:08+00:00,723778101,723774834,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-05T05:21:46+00:00,723777998,723556491,1,Itskumudhk,Pune Airport,/* Airlines and destinations */
+2016-06-05T04:44:18+00:00,723774834,723774767,1,Itskumudhk,Coimbatore International Airport,/* Passenger */ Added links
+2016-06-05T04:43:36+00:00,723774767,723761629,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2016-06-04T15:40:24+00:00,723686967,723685696,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2016-06-04T15:29:02+00:00,723685696,723671797,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-06-04T13:39:54+00:00,723673601,723541686,1,Itskumudhk,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2016-06-04T13:23:52+00:00,723672072,723541274,1,Itskumudhk,Chennai International Airport,/* Passenger */
+2016-06-04T13:20:58+00:00,723671797,723667540,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-05-31T11:30:10+00:00,723001567,722513763,1,Itskumudhk,South India,
+2016-05-31T11:19:21+00:00,723000489,722974699,1,Itskumudhk,Kozhikode International Airport,/* Airlines and destinations */
+2016-05-31T11:18:00+00:00,723000345,722999828,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-05-31T11:13:06+00:00,722999828,722956409,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-05-30T08:20:17+00:00,722815608,722815460,1,Itskumudhk,Megalopolis,/* India */
+2016-05-30T08:18:57+00:00,722815460,722624475,1,Itskumudhk,Megalopolis,/* India */
+2016-05-30T08:07:25+00:00,722813839,722578699,1,Itskumudhk,Coimbatore,
+2016-05-30T08:05:37+00:00,722813634,722734766,1,Itskumudhk,Madurai,
+2016-05-30T07:35:46+00:00,722810158,722810028,1,Itskumudhk,Coimbatore International Airport,/* Cargo */
+2016-05-30T07:34:01+00:00,722810028,722809088,1,Itskumudhk,Coimbatore International Airport,/* Cargo */
+2016-05-30T07:23:37+00:00,722809088,722807862,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-05-30T07:13:54+00:00,722808108,722808016,1,Itskumudhk,Tirupati Airport,/* Airlines and destinations */
+2016-05-30T07:12:52+00:00,722808016,718440576,1,Itskumudhk,Tirupati Airport,/* Airlines and destinations */
+2016-05-30T07:11:18+00:00,722807862,722712626,1,Itskumudhk,Coimbatore International Airport,/* Passenger */
+2016-05-26T09:37:46+00:00,722155500,722148205,1,Itskumudhk,Coimbatore International Airport,/* Airlines and destinations */
+2017-05-08T12:24:46+00:00,779357474,779291859,1,Beaproper567801242,Rajiv Gandhi International Airport,/* Passenger */
+2017-05-08T12:21:03+00:00,779357093,779225619,1,Beaproper567801242,Kempegowda International Airport,/* Passenger */
+2017-04-29T10:18:48+00:00,777801530,777666602,1,Blessthuseditor,Kempegowda International Airport,/* Passenger */
+2017-04-28T16:24:02+00:00,777675541,777667893,1,Blessthuseditor,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-04-28T16:16:56+00:00,777674610,776385335,1,Blessthuseditor,Tuticorin Airport,/* Airlines and destinations */
+2017-04-28T14:47:20+00:00,777662487,777662399,1,Blessthuseditor,Maharana Pratap Airport,/* Airlines and destinations */
+2017-04-28T14:46:35+00:00,777662399,777638798,1,Blessthuseditor,Maharana Pratap Airport,/* Airlines and destinations */
+2017-04-28T14:43:39+00:00,777661986,777660947,1,Blessthuseditor,Chennai International Airport,/* Passenger */
+2017-04-28T14:35:48+00:00,777660947,777659287,1,Blessthuseditor,Chennai International Airport,/* Passenger */
+2017-04-28T14:28:37+00:00,777660005,777602228,1,Blessthuseditor,Air India Express,/* Fleet */
+2017-04-28T14:22:45+00:00,777659287,777642974,1,Blessthuseditor,Chennai International Airport,/* Passenger */
+2017-04-28T05:57:17+00:00,777611497,777611353,1,Blessthuseditor,Thiruvananthapuram International Airport,/* Passenger */
+2017-04-28T05:55:14+00:00,777611353,777517090,1,Blessthuseditor,Thiruvananthapuram International Airport,/* Passenger */
+2017-04-28T05:50:19+00:00,777611029,777605489,1,Blessthuseditor,Tiruchirappalli International Airport,/* Passenger */
+2017-04-28T05:49:06+00:00,777610946,777597827,1,Blessthuseditor,Kempegowda International Airport,/* Cargo */
+2017-04-28T03:31:57+00:00,777597827,777494017,1,Blessthuseditor,Kempegowda International Airport,/* Passenger */
+2017-04-28T03:27:55+00:00,777597329,776818232,1,Blessthuseditor,Imphal Airport,/* Passenger */
+2017-04-28T03:24:45+00:00,777596992,777437875,1,Blessthuseditor,Suvarnabhumi Airport,/* Passenger */
+2017-04-28T03:23:43+00:00,777596880,776970263,1,Blessthuseditor,Roland Garros Airport,/* Airlines and destinations */
+2017-04-28T03:17:24+00:00,777596332,777589660,1,Blessthuseditor,Hamad International Airport,/* Passenger */
+2017-04-27T16:43:22+00:00,777514996,777510290,1,Blessthuseditor,Chennai International Airport,/* Passenger */
+2017-04-27T16:16:17+00:00,777511253,777510694,1,Blessthuseditor,Tiruchirappalli International Airport,/* Passenger */
+2017-04-27T16:14:15+00:00,777510980,777315070,1,Blessthuseditor,Zayed International Airport,/* Passenger */
+2017-04-27T16:12:19+00:00,777510694,777138293,1,Blessthuseditor,Tiruchirappalli International Airport,/* Passenger */
+2017-04-27T16:09:16+00:00,777510290,777509767,1,Blessthuseditor,Chennai International Airport,/* Passenger */
+2017-04-27T16:05:54+00:00,777509767,777505774,1,Blessthuseditor,Chennai International Airport,/* Passenger */
+2017-04-27T14:17:01+00:00,777494017,777493341,1,Blessthuseditor,Kempegowda International Airport,/* Passenger */
+2017-04-27T14:12:31+00:00,777493341,777352101,1,Blessthuseditor,Kempegowda International Airport,/* Passenger */
+2017-04-27T13:45:07+00:00,777489486,777408418,1,Blessthuseditor,Kozhikode International Airport,/* Passenger */
+2017-04-27T08:28:00+00:00,777459378,777458781,1,Blessthuseditor,Chennai International Airport,/* Passenger */
+2017-04-27T08:23:28+00:00,777458947,767542533,1,Blessthuseditor,Ras Al Khaimah International Airport,/* Airlines and destinations */
+2017-04-27T08:21:58+00:00,777458781,777388353,1,Blessthuseditor,Chennai International Airport,/* Passenger */
+2017-04-09T12:30:08+00:00,774583605,774576895,1,Hellokumid,List of SriLankan Airlines destinations,/* List */
+2017-04-09T12:27:21+00:00,774583377,772327655,1,Hellokumid,List of Flydubai destinations,
+2017-04-09T12:18:53+00:00,774582679,773659904,1,Hellokumid,Dubai International Airport,/* Airlines and destinations */
+2017-04-09T12:14:11+00:00,774582296,773751023,1,Hellokumid,Dabolim Airport,/* Airlines and destinations */
+2017-04-09T11:06:46+00:00,774576895,774565475,1,Hellokumid,List of SriLankan Airlines destinations,/* List */
+2017-04-09T08:56:05+00:00,774565475,774565152,1,Hellokumid,List of SriLankan Airlines destinations,/* List */
+2017-04-09T08:52:01+00:00,774565152,774147488,1,Hellokumid,List of SriLankan Airlines destinations,/* Terminated Routes */
+2017-05-07T16:51:20+00:00,779207877,779188656,1,Hihihihjmü,Kempegowda International Airport,/* Passenger */
+2017-05-05T15:33:10+00:00,778851167,778837929,1,Hihihihjmü,Chennai International Airport,/* Passenger */
+2017-05-05T15:28:24+00:00,778850365,778808449,1,Hihihihjmü,Kempegowda International Airport,/* Passenger */
+2017-05-05T14:04:45+00:00,778837929,778809261,1,Hihihihjmü,Chennai International Airport,/* Passenger */
+2017-05-05T10:10:22+00:00,778808441,778710151,1,Hihihihjmü,Kempegowda International Airport,/* Passenger */
+2017-05-05T10:05:22+00:00,778807956,778769520,1,Hihihihjmü,Chennai International Airport,/* Passenger */
+2017-05-05T10:03:50+00:00,778807798,778455826,1,Hihihihjmü,Tiruchirappalli International Airport,/* Passenger */
+2017-05-03T15:31:30+00:00,778509069,778285209,1,Hihihihjmü,Shri Guru Gobind Singh Ji Airport,/* Airlines and destinations */
+2017-05-03T15:28:45+00:00,778508677,778508209,1,Hihihihjmü,Rajiv Gandhi International Airport,/* Passenger */
+2017-05-03T15:25:41+00:00,778508209,778507188,1,Hihihihjmü,Rajiv Gandhi International Airport,/* Passenger */
+2017-05-03T15:07:14+00:00,778505397,778227896,1,Hihihihjmü,Kempegowda International Airport,/* Passenger */
+2017-05-02T05:57:05+00:00,778287692,778279105,1,Hihihihjmü,Chennai International Airport,/* Passenger */
+2017-05-02T00:54:37+00:00,778259816,778189646,1,Hihihihjmü,Chennai International Airport,/* Passenger */
+2017-05-01T16:20:05+00:00,778180263,778179953,1,Hihihihjmü,Kempegowda International Airport,/* Passenger */
+2017-05-01T16:18:19+00:00,778179953,778173294,1,Hihihihjmü,Kempegowda International Airport,/* Passenger */
+2017-04-01T06:18:29+00:00,773241165,773219389,1,Kumudiniiu,Bandaranaike International Airport,/* Passenger */
+2017-03-29T12:56:40+00:00,772805157,772801640,1,Kumulid,Coimbatore International Airport,/* Passenger */
+2017-03-29T10:55:59+00:00,772793510,772640932,1,Kumulid,Chennai International Airport,/* Cargo */
+2017-03-29T10:53:30+00:00,772793308,772793192,1,Kumulid,Tiruchirappalli International Airport,/* Passenger */
+2017-03-29T10:52:01+00:00,772793192,772101724,1,Kumulid,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-03-29T10:44:47+00:00,772792679,772792576,1,Kumulid,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-03-29T10:43:10+00:00,772792576,772786754,1,Kumulid,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-03-29T10:41:58+00:00,772792479,772322529,1,Kumulid,Ahmedabad Airport,/* Passenger */
+2017-03-29T10:36:34+00:00,772792100,772792044,1,Kumulid,Coimbatore International Airport,/* Passenger */
+2017-03-29T10:35:45+00:00,772792044,772791898,1,Kumulid,Coimbatore International Airport,/* Passenger */
+2017-03-29T10:33:59+00:00,772791898,772787903,1,Kumulid,Coimbatore International Airport,/* Passenger */
+2017-04-01T12:47:12+00:00,773276143,773276038,1,Kumulidi,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T12:46:00+00:00,773276038,773275613,1,Kumulidi,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T12:41:13+00:00,773275613,773275230,1,Kumulidi,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T12:37:20+00:00,773275230,773275025,1,Kumulidi,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T12:35:27+00:00,773275025,773274880,1,Kumulidi,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T12:34:02+00:00,773274880,773261036,1,Kumulidi,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T06:36:42+00:00,773242699,773242607,1,Kumulidi,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T06:35:25+00:00,773242607,773238265,1,Kumulidi,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-31T16:58:59+00:00,773151431,773142717,1,Kumulidi,Chhatrapati Shivaji Maharaj International Airport,/* Airlines and destinations */
+2017-03-31T15:24:58+00:00,773139553,773133565,1,Kumulidi,Chhatrapati Shivaji Maharaj International Airport,/* Airlines and destinations */
+2017-03-31T12:42:35+00:00,773121017,773115720,1,Kumulidi,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-03-31T10:45:43+00:00,773110924,772915767,1,Kumulidi,Dubai International Airport,/* Passenger */
+2017-03-31T10:27:32+00:00,773109324,773097835,1,Kumulidi,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-03-31T10:00:01+00:00,773107080,773086335,1,Kumulidi,Coimbatore International Airport,/* Passenger */
+2017-07-08T02:51:05+00:00,789562629,789320917,1,TPJTRZ,Tiruchirappalli International Airport,
+2017-07-03T14:02:33+00:00,788788712,788639682,1,Trichydaa,Tiruchirappalli International Airport,These Statistics are provided in the Visakhapatnam and mangalore airport pages.
+2017-07-02T13:06:50+00:00,788617479,788616764,1,Trichydaa,Tiruchirappalli International Airport,"The national highway road NH-210 road, starts at Tiruchirapalli has been extended upto Ramanathapuram from Pudukottai. It is also in Indian government gazette records."
+2017-07-02T13:04:19+00:00,788617201,788594670,1,Trichydaa,User talk:Vensatry,/* Regarding Tiruchirapalli International airport Wikipedia page */ new section
+2017-07-02T12:59:43+00:00,788616725,788586919,1,Trichydaa,Tiruchirappalli International Airport,"Dear Moderator, The editor named Amdmustafa is unwantedly giving false propaganda. The NH-210 road, starts at Tiruchirapalli has been extended upto Ramanathapuram from Pudukottai. It is also in Indian government gazette."
+2017-07-02T08:08:41+00:00,788587253,788555162,1,Trichydaa,Tiruchirappalli,right now there is no direct flight service to Abu Dhabi
+2017-07-02T08:01:06+00:00,788586544,788586508,1,Trichydaa,Tiruchirappalli International Airport,Undid revision 788586508 by [[Special:Contributions/Amdmustafa|Amdmustafa]] ([[User talk:Amdmustafa|talk]])
+2017-07-02T08:00:16+00:00,788586447,788586354,1,Trichydaa,Tiruchirappalli International Airport,Undid revision 788586354 by [[Special:Contributions/Amdmustafa|Amdmustafa]] ([[User talk:Amdmustafa|talk]])
+2017-07-02T07:56:56+00:00,788586088,788585395,1,Trichydaa,Tiruchirappalli International Airport,/* Statistics */
+2017-07-02T07:49:37+00:00,788585395,788584912,1,Trichydaa,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-07-02T07:44:44+00:00,788584912,788584496,1,Trichydaa,Tiruchirappalli International Airport,
+2017-07-02T07:40:00+00:00,788584496,788579599,1,Trichydaa,Tiruchirappalli International Airport,
+2017-07-02T02:30:59+00:00,788555162,788469252,1,Trichydaa,Tiruchirappalli,
+2017-07-02T02:20:22+00:00,788553858,788506180,1,Trichydaa,Tiruchirappalli International Airport,
+2017-07-01T15:46:44+00:00,788469252,788468933,1,Trichydaa,Tiruchirappalli,This is national level acclaimed Law college in India
+2017-07-01T15:44:31+00:00,788468933,788468244,1,Trichydaa,Tiruchirappalli,Undid revision 788468244 by [[Special:Contributions/Vensatry|Vensatry]] ([[User talk:Vensatry|talk]])
+2017-07-01T15:37:17+00:00,788468066,788467409,1,Trichydaa,Tiruchirappalli,"there is national law school-tamil nadu campus at Trichy, don't delete this."
+2017-07-01T15:30:28+00:00,788467174,788466428,1,Trichydaa,Tiruchirappalli,/* Transport */
+2017-07-01T15:24:05+00:00,788466428,788466329,1,Trichydaa,Tiruchirappalli,
+2017-07-01T15:23:16+00:00,788466329,788464278,1,Trichydaa,Tiruchirappalli,Undid revision 788464278 by [[Special:Contributions/Vensatry|Vensatry]] ([[User talk:Vensatry|talk]])
+2017-07-01T14:54:49+00:00,788462915,788459975,1,Trichydaa,Tiruchirappalli,
+2017-07-01T14:31:42+00:00,788459975,788459050,1,Trichydaa,Tiruchirappalli,
+2017-07-01T14:24:47+00:00,788459019,788458831,1,Trichydaa,Tiruchirappalli,
+2017-07-01T14:23:21+00:00,788458831,788325537,1,Trichydaa,Tiruchirappalli,
+2017-07-01T12:05:10+00:00,788442687,788319118,1,Trichydaa,Tiruchirappalli International Airport,Undid revision 788319118 by [[Special:Contributions/Amdmustafa|Amdmustafa]] ([[User talk:Amdmustafa|talk]])
+2017-06-30T17:38:23+00:00,788300987,788300905,1,Trichydaa,Tiruchirappalli International Airport,
+2017-06-30T17:37:51+00:00,788300905,788271848,1,Trichydaa,Tiruchirappalli International Airport,
+2017-06-30T13:59:31+00:00,788271848,788271547,1,Trichydaa,Tiruchirappalli International Airport,/* Statistics */
+2017-06-30T13:57:14+00:00,788271547,788271353,1,Trichydaa,Tiruchirappalli International Airport,
+2017-06-30T13:55:43+00:00,788271353,788271275,1,Trichydaa,Tiruchirappalli International Airport,/* Statistics */
+2017-06-30T13:55:04+00:00,788271275,788271215,1,Trichydaa,Tiruchirappalli International Airport,/* Statistics */
+2017-06-30T13:54:35+00:00,788271215,788268839,1,Trichydaa,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-06-30T13:41:14+00:00,788269516,788268106,1,Trichydaa,Madurai Airport,
+2017-06-30T13:36:04+00:00,788268839,788268741,1,Trichydaa,Tiruchirappalli International Airport,
+2017-06-30T13:35:18+00:00,788268741,788073247,1,Trichydaa,Tiruchirappalli International Airport,
+2017-06-30T13:30:38+00:00,788268098,787671601,1,Trichydaa,Madurai Airport,
+2017-07-06T16:45:42+00:00,789308744,789308613,1,Tsqwerty,Tiruchirappalli International Airport,/* Maintenance */
+2017-07-06T16:44:47+00:00,789308613,789307646,1,Tsqwerty,Tiruchirappalli International Airport,/* Maintenance */
+2017-07-06T16:38:04+00:00,789307646,789304241,1,Tsqwerty,Tiruchirappalli International Airport,spamming
+2017-07-06T16:07:08+00:00,789302914,789007335,1,Tsqwerty,Tiruchirappalli International Airport,spamming
+2016-10-07T00:57:45+00:00,742976846,742516334,0,121.45.105.143,Adelaide Airport,/* History */
+2016-08-05T16:40:13+00:00,733135604,731973843,0,ה-זפר,Ben Gurion Airport,
+2017-01-18T17:51:44+00:00,760716998,760484610,0,2405:204:6480:E5D6:0:0:1432:D0A4,Ahmedabad Airport,/* Passenger */
+2016-07-09T15:31:46+00:00,729056929,729056815,0,49.205.145.125,Air Carnival,Added links
+2017-03-09T00:30:40+00:00,769354336,769354304,0,Sunnya343,Air Carnival,hidden note
+2017-04-16T13:30:00+00:00,775687425,775331144,0,VG31,Bucharest Henri Coandă International Airport,
+2016-08-18T01:31:33+00:00,734997633,734775931,0,116.87.179.58,Changi Airport,/* Passenger */
+2017-05-02T17:19:06+00:00,778360106,778178143,0,Anandprakash1999,Air Carnival,
+2016-09-24T00:57:54+00:00,740893765,739957761,0,97.85.118.142,Bandaranaike International Airport,/* Passenger */
+2017-05-07T03:12:00+00:00,779117991,779115464,0,BilCat,Air India Express,Reverted unsourced additions
+2017-02-03T17:29:28+00:00,763507785,761460281,0,CHCBOY,Adelaide Airport,/* Passenger */ Tiger finished DPS
+2016-08-26T08:50:16+00:00,736266919,736237643,0,Wieralee,Air Carnival,"([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:An Air Carnival aircraft.jpg]] → [[File:Air Carnival M-IBAI at Dubai DXB, Apr 2016.jpg]] [[c:COM:FR#reasons|File renaming criterion #2]]: To change from a meaningless or ambiguous name to a name that de..."
+2017-05-10T12:29:48+00:00,779694678,779496584,0,Vibhss,Ahmedabad Airport,/* Passenger */
+2017-01-25T01:51:10+00:00,761833805,761790463,0,Stinger20,Changi Airport,"Changed '-' to '–' per [[WP:Airports]], Fixed Various Other Name Issues, RegEx Typo Fixing (via JWB)"
+2017-02-08T05:54:44+00:00,764312345,762324407,0,CommonsDelinker,Bandaranaike International Airport,"Removing [[:c:File:Inside_Airport.jpg|Inside_Airport.jpg]], it has been deleted from Commons by [[:c:User:Ellin Beltz|Ellin Beltz]] because: per [[:c:Commons:Deletion requests/Files uploaded by Paulsolaman06|]] -  Using [[:c:COM:VFC|VisualFileChange]].."
+2017-06-19T11:04:15+00:00,786421765,785736259,0,123.136.255.187,Bandaranaike International Airport,/* Passenger */
+2017-02-03T20:59:59+00:00,763542649,763541818,0,79.114.89.39,Bucharest Henri Coandă International Airport,
+2016-10-31T23:16:07+00:00,747189054,747129416,0,YSSYguy,Air India Express,Undid last two edits - vandalism
+2017-04-15T00:18:47+00:00,775456399,775113654,0,AirEnthusiast,Bandaranaike International Airport,/* Passenger */ SJ resume CMB-KNO & CMB-PKU charter routes
+2017-04-20T00:08:09+00:00,776272610,776231426,0,109.69.227.28,Ben Gurion Airport,/* Passenger */
+2016-11-17T16:58:00+00:00,750063106,749812708,0,115.114.46.254,Chennai International Airport,/* Passenger */
+2016-12-27T08:47:39+00:00,756867912,756841941,0,82.178.138.99,Chennai International Airport,/* Passenger */
+2017-05-26T04:35:14+00:00,782321345,782320142,0,Rasnaboy,Chennai International Airport,/* Aviation */ Adding link
+2016-12-09T03:56:52+00:00,753781695,753781657,0,14.140.217.169,Chennai International Airport,/* Passenger */
+2016-06-15T23:40:14+00:00,725486853,725352240,0,175.138.133.99,Chennai International Airport,/* External links */
+2017-01-11T15:53:58+00:00,759506220,759505372,0,LeoFrank,Chennai International Airport,/* Passenger */ Scoot replaced only TR; MI still operates to MAA
+2016-10-24T15:27:38+00:00,745980619,745528993,0,115.245.77.79,Chennai International Airport,/* Passenger */
+2016-11-03T08:08:42+00:00,747599131,747408677,0,Yobot,Chennai International Airport,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12100)
+2017-01-24T06:16:57+00:00,761685021,760385976,0,Dineshyazz,Chennai International Airport,
+2017-04-04T20:29:19+00:00,773855646,773014275,0,DumbBOT,Chennai International Airport,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2016-07-14T12:15:55+00:00,729767225,729321404,0,193.158.52.156,Chennai International Airport,/* Cargo */
+2016-06-08T06:22:51+00:00,724276658,724215476,0,Madrasraj,Chennai International Airport,/* Passenger */
+2017-05-30T19:00:26+00:00,783037711,782321345,0,Vibhss,Chennai International Airport,/* Passenger */ Saudia doesn't operate any non-stop or direct flight to Dammam
+2016-08-08T14:27:00+00:00,733539335,732851231,0,Madrasraj,Chennai International Airport,/* Passenger */
+2017-04-19T07:42:22+00:00,776148348,776035754,0,103.59.206.29,Chennai International Airport,"She to maa , it's 🐅 air .Tigerrrrr grrr air"
+2017-02-12T03:10:43+00:00,765000325,765000193,0,Madrasraj,Chennai International Airport,/* Passenger */
+2016-11-30T08:41:29+00:00,752255373,752252910,0,183.83.50.210,Chennai International Airport,/* Passenger */
+2016-12-05T05:10:55+00:00,753100989,752255373,0,Subbupedia95,Chennai International Airport,It's not a primary hub for Jet Airways (Mumbai is - as presented on Jet Airways' Wikipedia page). More accurately classified as secondary hub or focus city.
+2017-01-03T17:27:34+00:00,758129488,758116488,0,115.114.46.254,Chennai International Airport,/* Passenger */
+2016-12-08T00:24:13+00:00,753578556,753465501,0,Malaysia 200,Chennai International Airport,/* Passenger */ non confirmation date to commence..please don't put if don't have any specific date to commence
+2016-06-06T15:36:04+00:00,724005229,723672072,0,Ravisagili,Chennai International Airport,/* Passenger */
+2017-01-26T19:48:00+00:00,762120349,762119572,0,Vibhss,Chennai International Airport,"removed unnecessary link, when exact figures are published on AAI official site, there is no need to mention approx. figures"
+2016-06-22T18:35:08+00:00,726522064,726499513,0,M.soumen,Chennai International Airport,/* Passenger */ Lets wait for Air Carnival to get DGCA Approval and announce service launch date
+2016-07-27T18:24:16+00:00,731817794,731759460,0,Vanished Account Byeznhpyxeuztibuo,Chennai International Airport,"Disambiguated: [[TVS]] → [[Tangshan Sannühe Airport]], [[SUN]] → [[Friedman Memorial Airport]]"
+2017-03-30T19:07:34+00:00,773014275,773011759,0,El C,Chennai International Airport,{{pp-protected|small=yes}}
+2016-08-16T17:43:30+00:00,734781295,734628789,0,49.206.116.38,Chennai International Airport,
+2017-03-26T06:12:08+00:00,772256541,772256292,0,27.62.253.109,Chennai International Airport,/* Airlines and destinations */
+2016-10-08T07:24:48+00:00,743164524,742927748,0,49.206.124.58,Chennai International Airport,/* Passenger */
+2016-07-20T09:23:28+00:00,730636160,730636104,0,46.244.152.87,Chennai International Airport,/* Cargo */ link fixed
+2016-11-12T12:35:11+00:00,749104706,749102203,0,Slasher-fun,Chennai International Airport,Undid revision 749102203 by [[Special:Contributions/182.65.61.236|182.65.61.236]] ([[User talk:182.65.61.236|talk]])
+2017-04-18T15:59:47+00:00,776035754,775495708,0,QuickFixMe,Chennai International Airport,
+2017-03-10T18:20:33+00:00,769626956,769259441,0,2405:204:620B:132E:C2B5:D0B6:BD2F:D49C,Chennai International Airport,
+2016-07-05T18:14:46+00:00,728476607,728425510,0,Captaingunadeep,Chennai International Airport,No Reference or Schedules Availabe in goair.in
+2016-09-13T19:41:08+00:00,739277368,739274187,0,49.206.123.4,Chennai International Airport,/* Passenger */
+2017-05-05T10:18:30+00:00,778809261,778807956,0,Vibhss,Chennai International Airport,Undid revision 778807956 by [[Special:Contributions/Hihihihjmü|Hihihihjmü]] ([[User talk:Hihihihjmü|talk]])
+2016-05-30T06:51:21+00:00,722805627,722790915,0,Yobot,Chennai International Airport,/* top */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12016)
+2017-07-01T02:33:29+00:00,788381405,787929650,0,49.206.114.228,Chennai International Airport,/* Passenger */
+2017-07-02T16:57:37+00:00,788645196,788466022,0,Rasnaboy,Chennai International Airport,Greenery section
+2017-06-25T23:58:51+00:00,787540759,786989201,0,Keith D,Chennai International Airport,/* Passenger */Remove bolding using [[Project:AWB|AWB]]
+2016-12-15T06:37:29+00:00,754921114,754920880,0,Madrasraj,Chennai International Airport,/* Passenger */
+2016-07-23T11:48:02+00:00,731159165,731159149,0,46.244.159.23,Chhatrapati Shivaji Maharaj International Airport,/* Cargo */
+2016-11-21T07:12:48+00:00,750685814,750063106,0,InternetArchiveBot,Chennai International Airport,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.7.1)
+2016-08-07T13:23:15+00:00,733387905,733387855,0,Aveouva092,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-04-16T22:47:10+00:00,775759615,775453050,0,Irehdna,Chhatrapati Shivaji Maharaj International Airport,"""Operating Base"" is synonymous with ""Focus City,"" not ""hub"""
+2017-05-17T10:30:33+00:00,780815918,780811984,0,Vibhss,Chhatrapati Shivaji Maharaj International Airport,/* Cargo */ corrected wikilink
+2016-12-12T09:09:36+00:00,754374520,754361776,0,59.184.131.181,Chhatrapati Shivaji Maharaj International Airport,/* Airlines and destinations */Fixed typo
+2016-06-04T15:39:17+00:00,723686833,723685169,0,223.176.59.180,Chhatrapati Shivaji Maharaj International Airport,
+2016-07-17T09:05:33+00:00,730184855,730184795,0,117.204.100.183,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-01-23T06:52:37+00:00,761492072,761463101,0,Ashutosh2978,Chhatrapati Shivaji Maharaj International Airport,
+2016-09-20T11:06:47+00:00,740327341,740327126,0,Sportonion555,Chhatrapati Shivaji Maharaj International Airport,Undid revision 740327126 by [[Special:Contributions/Sportonion555|Sportonion555]] ([[User talk:Sportonion555|talk]]) This had previously been done when a moderator had suggested to keep domestic & international destinations of AI and 9W in the same sectio
+2016-12-08T00:21:42+00:00,753578245,753465635,0,Malaysia 200,Chhatrapati Shivaji Maharaj International Airport,/* Airlines and destinations */ non confirmation date to commence..please don't put if don't have any specific date to commence
+2016-10-28T10:30:43+00:00,746594639,746332139,0,Hillslight,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-07-06T06:01:14+00:00,789239288,789138464,0,Vibhss,Chhatrapati Shivaji Maharaj International Airport,Undid revision 789138464 by [[Special:Contributions/202.134.183.210|202.134.183.210]] ([[User talk:202.134.183.210|talk]]) no such flight
+2017-02-22T20:16:24+00:00,766900330,766899733,0,QuickFixMe,Cochin International Airport,
+2017-05-06T17:16:39+00:00,779038881,778970520,0,Magentic Manifestations,Coimbatore,
+2016-12-31T07:50:27+00:00,757545091,757531025,0,TravelLover37,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */ date? It. Is almost the end of december
+2017-02-24T09:19:21+00:00,767168272,767168003,0,103.211.85.101,Cochin International Airport,
+2017-01-14T06:43:00+00:00,759982249,758305872,0,Rk root,Coimbatore,
+2016-06-30T18:02:54+00:00,727699376,727699361,0,ClueBot NG,Chhatrapati Shivaji Maharaj International Airport,"Reverting possible vandalism by [[Special:Contribs/123.136.175.213|123.136.175.213]] to version by Trinidade. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2698590) (Bot)"
+2016-07-20T07:06:19+00:00,730624938,730228804,0,MahMan,Coimbatore,/* International relations */
+2016-09-12T10:03:53+00:00,739022807,738621095,0,91.140.150.214,Cochin International Airport,/* Passenger */
+2016-12-19T10:00:55+00:00,755648561,755195790,0,125.16.95.11,Cochin International Airport,/* Phase 1 */
+2016-06-15T12:29:21+00:00,725400049,725379392,0,45.121.120.252,Coimbatore International Airport,/* Passenger */SpiceJet flight from Coimbatore to DMK is not a direct flight
+2016-06-26T08:31:12+00:00,727047400,727044379,0,117.213.129.84,Coimbatore,"Mayor name  was wrongly mentioned, corrected it"
+2016-09-02T18:04:32+00:00,737425260,737308859,0,FrescoBot,Coimbatore,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2016-09-11T17:32:39+00:00,738894342,738887578,0,49.32.20.41,Coimbatore,
+2016-06-26T03:25:31+00:00,727023788,726938289,0,Anandprakash1999,Coimbatore International Airport,/* Passenger */
+2016-12-23T08:59:34+00:00,756304147,756304099,0,182.68.58.138,Coimbatore International Airport,/* Cargo */
+2017-04-12T16:48:12+00:00,775095346,775047562,0,LeoFrank,Coimbatore International Airport,Reverted 1 edit by [[Special:Contributions/Iloveixe|Iloveixe]] ([[User talk:Iloveixe|talk]]): This source was not accepted given its ambiguity. ([[WP:TW|TW]])
+2016-07-09T01:45:41+00:00,728988564,728885111,0,223.233.45.181,Coimbatore International Airport,/* Passenger */
+2017-03-01T18:42:27+00:00,768087354,768051218,0,107.15.117.45,Coimbatore International Airport,
+2016-07-03T07:17:19+00:00,728108542,728046253,0,Magentic Manifestations,Coimbatore International Airport,/* Passenger */
+2016-07-19T14:00:46+00:00,730516818,730246928,0,Sunnya343,Coimbatore International Airport,correction
+2016-08-07T15:47:10+00:00,733404215,733372027,0,49.205.151.147,Coimbatore International Airport,
+2017-05-01T23:09:48+00:00,778247465,777973073,0,Elcarr18,Coimbatore International Airport,/* Passenger */ SriLankan beginning flights to Colombo
+2016-10-10T10:43:30+00:00,743604375,743181960,0,59.92.169.246,Coimbatore International Airport,/* Passenger */
+2017-01-03T16:37:03+00:00,758121021,758120937,0,103.25.44.102,Coimbatore International Airport,/* Passenger */
+2016-09-30T12:48:38+00:00,741909761,741777276,0,117.203.72.135,Coimbatore International Airport,/* Passenger */
+2017-05-30T22:28:45+00:00,783064580,783058668,0,Raritydash,Coimbatore International Airport,Adding {{pp-protected}} ([[WP:TW|TW]])
+2017-05-06T17:03:31+00:00,779037154,778247465,0,Magentic Manifestations,Coimbatore International Airport,/* Passenger */
+2017-04-18T16:01:39+00:00,776036065,775900235,0,QuickFixMe,Coimbatore International Airport,
+2016-08-15T08:12:18+00:00,734576813,734571265,0,LeoFrank,Coimbatore International Airport,Reverted edits by [[Special:Contribs/122.164.175.90|122.164.175.90]] ([[User talk:122.164.175.90|talk]]) to last version by 49.205.151.147
+2017-06-10T19:11:02+00:00,784936421,784936071,0,Magentic Manifestations,Coimbatore International Airport,6E 892 connects to Agartala through Chennai and Kolkata
+2016-07-14T15:05:00+00:00,729784719,729137503,0,Anandprakash1999,Coimbatore International Airport,/* Passenger */
+2016-11-02T19:42:35+00:00,747506892,747506480,0,49.206.120.103,Coimbatore International Airport,/* Passenger */
+2017-02-15T09:10:15+00:00,765595713,764383488,0,5.82.234.203,Coimbatore International Airport,
+2017-04-01T18:29:23+00:00,773319977,773205444,0,LeoFrank,Coimbatore International Airport,Reverted 1 edit by [[Special:Contributions/Iloveixe|Iloveixe]] ([[User talk:Iloveixe|talk]]): Ref please. ([[WP:TW|TW]])
+2016-09-16T11:39:17+00:00,739697992,738621036,0,117.202.41.49,Coimbatore International Airport,/* Passenger */
+2016-09-29T16:15:41+00:00,741777276,741226324,0,59.99.211.18,Coimbatore International Airport,"/* Passenger */AI 429,AI539"
+2017-02-08T16:58:48+00:00,764383488,764086510,0,Vibhss,Coimbatore International Airport,"improved and elaborated source for traffic statistics of 2016 with separate sources for Jan, Feb, Mar and collective source for Apr to Dec 2016; summed up the data for whole year acc. to these sources"
+2016-08-23T09:12:18+00:00,735819360,734576813,0,59.99.209.21,Coimbatore International Airport,/* Passenger */2s101/111 will be a one stop flight form CJB-IXM via MAA \nSame in the other direction also .\nhttps://aircarnival.in/schedule.php
+2016-06-12T07:19:37+00:00,724899261,724899082,0,171.76.163.190,Coimbatore International Airport,
+2016-07-17T19:17:13+00:00,730246928,730241688,0,M.soumen,Coimbatore International Airport,/* Passenger */ Air Carnival to commence CJB-MAA flight later today
+2016-09-10T02:38:06+00:00,738621036,738621009,0,Sunnya343,Coimbatore International Airport,
+2017-07-02T08:21:43+00:00,788589147,788585374,0,Amdmustafa,Coimbatore International Airport,Reverted to revision 788583438 by [[Special:Contributions/Amdmustafa|Amdmustafa]] ([[User talk:Amdmustafa|talk]]): Air Carnival's license is already suspended. ([[WP:TW|TW]])
+2016-06-06T17:15:06+00:00,724018665,724011750,0,Magentic Manifestations,Coimbatore International Airport,Undid revision 724011750 by [[Special:Contributions/Itskumudhk|Itskumudhk]] ([[User talk:Itskumudhk|talk]])
+2016-08-29T05:41:57+00:00,736688205,736688148,0,2405:204:6501:89AA:0:0:1EDC:20A1,Coimbatore International Airport,
+2017-05-21T17:37:44+00:00,781509807,781449776,0,49.205.140.62,Coimbatore International Airport,
+2017-01-06T11:02:55+00:00,758592650,758569702,0,103.207.1.200,Coimbatore International Airport,/* Passenger */
+2017-01-09T07:49:29+00:00,759108237,759108119,0,LeoFrank,Coimbatore International Airport,"Connectivity always comes after the dest table; expansion is part of the infrastructure, merge both"
+2017-02-07T00:15:58+00:00,764086510,763838454,0,Blessonprakash92,Coimbatore International Airport,Minor edit
+2016-08-31T17:38:24+00:00,737085574,736688205,0,Kennyshriram,Coimbatore International Airport,/* Passenger */
+2017-01-21T08:57:02+00:00,761164139,760383257,0,2405:205:8400:F5C0:C44A:217F:C876:6ED3,Coimbatore International Airport,/* Cargo */
+2017-02-27T00:07:14+00:00,767621524,767006896,0,FrescoBot,Coimbatore International Airport,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2016-10-01T12:58:59+00:00,742060949,741909761,0,FrescoBot,Coimbatore International Airport,Bot: [[User:FrescoBot/Links|link syntax]]
+2016-12-31T19:07:34+00:00,757623024,757219494,0,Surya shiv,Coimbatore International Airport,
+2016-12-10T22:49:49+00:00,754113586,750985620,0,Sunnya343,Coimbatore International Airport,[[MOS:BADITALICS]]
+2017-05-11T13:14:05+00:00,779860478,779847889,0,Amdmustafa,Coimbatore International Airport,/* Passenger */ Air Carnival is no more operating any flights.
+2017-06-15T09:12:32+00:00,785765549,785743165,0,Amdmustafa,Coimbatore International Airport,Reverted 2 edits by [[Special:Contributions/Anandprakash1999|Anandprakash1999]] ([[User talk:Anandprakash1999|talk]]): No reason for removal. ([[WP:TW|TW]])
+2016-11-22T17:51:27+00:00,750985620,747506892,0,Sunnya343,Coimbatore International Airport,began
+2017-01-08T15:38:14+00:00,758972222,758891775,0,115.248.178.25,Coimbatore International Airport,
+2016-10-27T05:49:53+00:00,746404413,746330133,0,Nirinsanity,Coimbatore International Airport,/* Passenger */
+2017-02-23T12:12:41+00:00,767006896,766989933,0,Magioladitis,Coimbatore International Airport,/* Infrastructure */[[MOS:REFPUNCT]] / cleanup /etc. using [[Project:AWB|AWB]]
+2016-07-29T18:16:19+00:00,732110218,732110193,0,Sunnya343,Coimbatore International Airport,/* Proposed Expansion */
+2017-01-25T18:46:24+00:00,761939279,761866439,0,49.206.113.95,Coimbatore International Airport,/* Passenger */
+2017-02-02T05:47:19+00:00,763261282,763164269,0,BG19bot,Coimbatore International Airport,"/* top */[[WP:CHECKWIKI]] error fix for #93.  External link with double http:// Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -, replaced: http://http:// → http:// (3) using [[Project:AWB|AWB]]"
+2017-02-27T22:37:59+00:00,767782076,767781909,0,122.178.81.205,Coimbatore International Airport,/* Passenger */
+2017-02-18T04:09:07+00:00,766085677,765595713,0,101.222.227.233,Coimbatore International Airport,spicejet does not operate to bengaluru.
+2017-02-01T17:41:46+00:00,763164269,763163360,0,101.222.235.214,Coimbatore International Airport,
+2017-05-17T20:30:51+00:00,780898235,779860478,0,DumbBOT,Coimbatore International Airport,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2016-05-31T16:28:47+00:00,723036998,723000345,0,59.89.242.188,Coimbatore International Airport,/* Passenger */Air India had stopped kozhikode service long back .\nSaudia is not operating to Coimbatore .
+2016-07-23T17:14:12+00:00,731190966,731163755,0,Magentic Manifestations,Coimbatore International Airport,not in lead
+2017-03-30T16:57:13+00:00,772996329,772990060,0,122.178.99.188,Coimbatore International Airport,/* Passenger */For Reference  go and search......Don't remove
+2016-06-28T02:44:26+00:00,727304360,727248670,0,223.187.0.192,Coimbatore International Airport,
+2016-06-01T17:27:00+00:00,723205908,723205704,0,Magentic Manifestations,Coimbatore International Airport,/* Passenger */
+2017-02-05T11:02:51+00:00,763816113,763806882,0,27.62.111.160,Coimbatore International Airport,/* Airlines and destinations */
+2016-06-30T18:45:24+00:00,727704660,727704441,0,106.213.241.74,Coimbatore International Airport,/* Airlines and destinations */
+2017-02-18T15:10:34+00:00,766152414,766085677,0,49.206.248.166,Coimbatore International Airport,Added links
+2016-07-15T05:36:16+00:00,729878104,729784719,0,GünniX,Coimbatore International Airport,ref tags fixed using [[Project:AWB|AWB]]
+2017-03-17T18:53:37+00:00,770812123,770791103,0,37.217.112.100,Coimbatore International Airport,
+2016-06-23T08:16:04+00:00,726617065,726581313,0,Yobot,Coimbatore International Airport,/* Passenger */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12033)
+2017-03-21T03:08:34+00:00,771364074,771364006,0,101.222.169.166,Coimbatore International Airport,/* Cargo */
+2016-09-20T07:27:25+00:00,740305622,740305373,0,101.222.170.8,Coimbatore International Airport,/* Passenger */
+2017-01-16T17:28:22+00:00,760383257,760312109,0,LeoFrank,Coimbatore International Airport,Reverted 1 edit by [[Special:Contributions/182.68.138.197|182.68.138.197]] ([[User talk:182.68.138.197|talk]]): Incorrect. ([[WP:TW|TW]])
+2017-03-13T11:08:44+00:00,770090795,770090697,0,2405:205:8007:2326:59B1:F948:AFF2:E617,Coimbatore International Airport,/* Airlines and destinations */
+2016-09-26T05:01:59+00:00,741226324,740305622,0,FrescoBot,Coimbatore International Airport,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-03-29T05:10:58+00:00,772760395,772760240,0,LeoFrank,Coimbatore International Airport,Reverted 1 edit by [[Special:Contributions/Itskumudhk|Itskumudhk]] ([[User talk:Itskumudhk|talk]]): Again! stop. ([[WP:TW|TW]])
+2016-09-06T07:16:55+00:00,737988087,737085574,0,MahMan,Coimbatore International Airport,/* Passenger */
+2017-03-30T03:54:02+00:00,772916759,772915101,0,122.178.99.188,Coimbatore International Airport,/* Passenger */
+2017-01-10T05:41:37+00:00,759272102,759171974,0,Sunnya343,Coimbatore International Airport,[[WP:INDICSCRIPT]]
+2016-07-10T04:42:44+00:00,729137503,728988564,0,101.222.170.166,Coimbatore International Airport,/* Passenger */
+2016-07-21T13:17:34+00:00,730857118,730856826,0,49.205.139.103,Coimbatore International Airport,
+2016-09-18T08:43:22+00:00,739977590,739697992,0,106.208.136.43,Coimbatore International Airport,/* Passenger */..
+2016-05-29T06:06:16+00:00,722608061,722518593,0,101.63.233.198,Coimbatore International Airport,/* Passenger */
+2017-03-22T05:15:05+00:00,771555361,771555131,0,101.222.169.201,Coimbatore International Airport,
+2017-04-04T04:45:55+00:00,773751023,773092711,0,Feminist,Dabolim Airport,Hatnote
+2017-03-01T18:44:39+00:00,768087610,768087532,0,Serols,Dabolim Airport,Reverted edits by [[Special:Contributions/2405:204:5301:DCBE:0:0:A2E:70A5|2405:204:5301:DCBE:0:0:A2E:70A5]] ([[User talk:2405:204:5301:DCBE:0:0:A2E:70A5|talk]]) ([[WP:HG|HG]]) (3.1.21)
+2016-08-10T16:21:28+00:00,733865336,733864955,0,218.236.44.173,Dubai International Airport,/* Passenger */
+2016-12-03T06:06:38+00:00,752771542,752369032,0,2601:642:4200:9180:F4CE:A4F3:FFB6:FE48,Deivam Thandha Veedu,
+2016-11-04T08:06:31+00:00,747770549,747769654,0,Melcous,Dubai International Airport,Reverted 3 edits by [[Special:Contributions/Planmyfirm|Planmyfirm]] ([[User talk:Planmyfirm|talk]]): Revert links to own website. ([[WP:TW|TW]])
+2017-06-17T11:02:45+00:00,786117496,783008181,0,Bingobro,Gaya Airport,Provide ref's for [[IndiGo]].
+2016-10-19T13:27:00+00:00,745138493,745131527,0,Jeptop,Deivam Thandha Veedu,Add contente
+2016-09-07T07:00:47+00:00,738154476,738113846,0,Iloveixe,Dubai International Airport,/* Passenger */ Jet Airways proposes daily Thiruvananthapuram-Dubai effective 30OCT. Reference will be updated once a proper PR is released.
+2017-01-04T19:10:08+00:00,758319668,758318680,0,Mike1901,Heathrow Airport,"/* Location */ Post towns now very rarely used, and cannot find a reliable source for this."
+2016-10-30T00:06:57+00:00,746855034,745860686,0,33aircharter,Hamad International Airport,/* Passenger */
+2017-01-23T09:25:44+00:00,761508187,761507925,0,MatarBinSultan,Hamad International Airport,
+2016-07-19T21:54:34+00:00,730573683,730360479,0,79.152.170.32,Heathrow Airport,/* Scheduled terminal moves */Updating info
+2016-08-06T16:32:48+00:00,733270986,733146164,0,Foxhoundz,Dubai International Airport,"/* Labour controversy */ I removed a small snippet that was ""encyclopedic"" in nature: ""This is generally because of UAE government welfare, most locals would rather rely on these benefits and not go to work"""
+2016-12-10T22:48:31+00:00,754113350,751141464,0,Sunnya343,Jaipur International Airport,[[MOS:BADITALICS]]
+2017-03-27T17:57:43+00:00,772505405,772436515,0,Smartyprabal,Jaipur International Airport,/* Airlines and destinations */
+2017-01-04T10:48:35+00:00,758256153,758253912,0,Jusdafax,Imphal Airport,Revert to correct English usage - Undid revision 758253912 by [[Special:Contributions/2405:204:3182:F93E:E849:2F37:5A87:487C|2405:204:3182:F93E:E849:2F37:5A87:487C]] ([[User talk:2405:204:3182:F93E:E849:2F37:5A87:487C|talk]])
+2017-03-27T15:01:02+00:00,772480868,772405266,0,103.222.20.20,Imphal Airport,
+2016-10-17T06:54:33+00:00,744755181,744755063,0,182.68.89.218,Jaipur International Airport,
+2017-05-13T18:24:58+00:00,780226025,780225897,0,Smartyprabal,Jaipur International Airport,Undid revision 780225897 by [[Special:Contributions/Smartyprabal|Smartyprabal]] ([[User talk:Smartyprabal|talk]])
+2016-12-17T04:51:13+00:00,755281992,755215846,0,Materialscientist,Kalyanam Mudhal Kadhal Varai,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/65.92.173.194|65.92.173.194]] using [[WP:STiki|STiki]]
+2017-06-23T18:50:38+00:00,787149495,787121669,0,Andrewgprout,Jaipur International Airport,Reverted 1 edit by [[Special:Contributions/Jyoti Atma|Jyoti Atma]] ([[User talk:Jyoti Atma|talk]]): Restore to image of an airport not a picture of a tree. ([[WP:TW|TW]])
+2017-02-28T16:42:02+00:00,767901683,766983993,0,Smartyprabal,Jaipur International Airport,/* Airlines and destinations */
+2017-05-16T01:02:27+00:00,780586679,779737995,0,Vibhss,Kempegowda International Airport,/* Passenger */ added LKO in Jet Airways; 9W operates direct flights b/w BLR and LKO via DEL
+2016-08-16T16:14:41+00:00,734770146,734769414,0,178.61.168.179,Kalyanam Mudhal Kadhal Varai,/* Cast */
+2017-01-23T19:53:57+00:00,761589562,761579985,0,188.71.232.252,Jaipur International Airport,/* Airlines and destinations */
+2016-08-27T03:52:43+00:00,736385949,736384825,0,LeoFrank,Kempegowda International Airport,Reverted edits by [[Special:Contribs/45.118.244.18|45.118.244.18]] ([[User talk:45.118.244.18|talk]]) to last version by Sunnya343
+2017-03-30T08:12:54+00:00,772938804,772810375,0,223.228.6.110,Kempegowda International Airport,
+2016-07-08T13:35:53+00:00,728908008,728492360,0,116.68.120.213,Kempegowda International Airport,/* Passenger */
+2017-05-29T00:12:25+00:00,782757269,782651246,0,Vibhss,Kempegowda International Airport,Reverted 2 edits by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]): Alliance Air already operates on BLR-VGA route; only BLR-VGA-VTZ route is commencing on 1 June. ([[WP:TW|TW]])
+2017-03-19T23:49:15+00:00,771171496,770937441,0,Vibhss,Kempegowda International Airport,/* Passenger */ air costa flights have resumed
+2016-07-26T16:02:30+00:00,731636326,731393182,0,Sunnya343,Kempegowda International Airport,/* Passenger */ route is no longer bookable
+2016-10-02T23:52:44+00:00,742311318,742311260,0,Sunnya343,Kempegowda International Airport,/* Rail */ grammar
+2016-05-26T00:19:37+00:00,722099943,722099851,0,Sunnya343,Kempegowda International Airport,/* Road */
+2016-10-29T21:54:01+00:00,746838997,746759720,0,33aircharter,Kempegowda International Airport,/* Airlines and destinations */
+2017-03-30T15:42:13+00:00,772986222,772938804,0,LeoFrank,Kempegowda International Airport,Reverted edits by [[Special:Contribs/223.228.6.110|223.228.6.110]] ([[User talk:223.228.6.110|talk]]) to last version by LeoFrank
+2016-06-15T03:16:33+00:00,725345626,725162163,0,Sitush,Kempegowda International Airport,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Filpro|Filpro]] ([[User talk:Filpro|talk]]): No - has been explained to Filpro on their talk page. ([[WP:TW|TW]])
+2016-06-04T02:50:17+00:00,723614670,723612966,0,Sunnya343,Kempegowda International Airport,/* History */ rough dates
+2017-01-15T16:45:53+00:00,760209138,760209039,0,Sunnya343,Kempegowda International Airport,HAL is already discussed in body + move portals down
+2016-10-18T21:55:09+00:00,745026166,744856233,0,Sunnya343,Kempegowda International Airport,/* Road */ alternative routes (edited with [[User:ProveIt_GT|ProveIt]])
+2016-08-10T18:58:58+00:00,733885889,733885659,0,49.206.105.82,Kempegowda International Airport,/* Passenger */
+2017-07-06T06:12:38+00:00,789240164,789109837,0,183.82.16.14,Kempegowda International Airport,Added Bus timings for AC Bus Service to and from the Airport
+2016-08-25T03:12:09+00:00,736091089,735989699,0,Millanel,Kempegowda International Airport,/* Passenger */
+2017-07-01T22:59:53+00:00,788526587,788524275,0,Vibhss,Kempegowda International Airport,/* Passenger */ GoAir operates same aircraft direct flights from BLR to LKO via BOM
+2017-03-01T10:14:48+00:00,768028772,768028730,0,83.171.178.147,Kempegowda International Airport,/* Passenger */ updated according to http://www.aircosta.in/ebooking/Static/Route-map.aspx
+2017-03-06T19:12:06+00:00,768956590,768185369,0,Ccjclt,Kempegowda International Airport,/* Passenger */
+2016-09-10T02:39:56+00:00,738621209,735766034,0,Sunnya343,Kozhikode International Airport,as indicated at Infobox:Airport and as done on Chinese airport articles
+2017-03-29T04:50:26+00:00,772758577,772585134,0,GreenC bot,Kozhikode International Airport,Rescued 1 archive link; reformat 1 link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]
+2016-07-05T11:06:58+00:00,728428217,728234351,0,188.70.32.192,Kozhikode International Airport,/* Airlines and destinations */
+2017-03-12T13:24:50+00:00,769933803,769933689,0,LeoFrank,Kozhikode International Airport,[[WP:INDICSCRIPT]]
+2017-06-17T21:32:21+00:00,786191793,786191272,0,Ccjclt,Kozhikode International Airport,"Irrelevant details removed.. Stop this Kozhikode Malappuram fight in this page.. this airport is CALICUT airport and not ""Malappuram"".. it's district details and all are irrelevant.."
+2017-05-01T17:00:40+00:00,778187086,778017648,0,Magioladitis,Kozhikode International Airport,"/* Passenger */Improved article to match Manual of Style, References after punctuation per [[WP:CITEFOOT]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (12151)"
+2016-07-30T15:54:48+00:00,732240869,732240841,0,46.244.128.13,Kozhikode International Airport,/* See also */
+2017-05-21T15:05:45+00:00,781488023,781484191,0,Wallacevio,Kozhikode International Airport,Undid revision 781324008 by [[Special:Contributions/89.211.60.58|89.211.60.58]] ([[User talk:89.211.60.58|talk]]) What is this?
+2016-11-19T17:30:54+00:00,750423648,750423613,0,97.85.118.142,Kuala Lumpur International Airport,/* Passenger */
+2016-12-18T18:36:00+00:00,755541674,755195579,0,27.62.63.127,Kozhikode International Airport,/* Passenger */
+2017-01-09T21:35:00+00:00,759212161,758962851,0,Tafeax,Kuala Lumpur International Airport,"Undid revision 758789439 by [[Special:Contributions/Kaydengp|Kaydengp]] ([[User talk:Kaydengp|talk]]) no other scriptures, except English and Malay language only"
+2017-02-21T02:04:36+00:00,766595917,766316074,0,Irehdna,Kozhikode International Airport,EK flies to DXB https://www.emirates.com/english/destinations/flights-to-kozhikode.aspx
+2017-03-05T14:37:47+00:00,768741092,768049914,0,202.134.183.210,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2016-09-30T23:51:34+00:00,741990513,741893381,0,139.190.175.128,List of Flydubai destinations,
+2016-12-25T15:42:23+00:00,756615341,756441535,0,122.175.17.122,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2016-11-22T15:56:26+00:00,750971292,750370549,0,223.206.250.151,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-02-25T05:49:49+00:00,767320736,767129211,0,118.173.243.112,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-02-17T21:08:26+00:00,766036260,765962367,0,178.135.142.140,List of Flydubai destinations,
+2016-07-04T14:55:43+00:00,728307882,727569314,0,109.156.69.44,List of SriLankan Airlines destinations,/* List */
+2016-10-05T14:45:15+00:00,742745330,742745152,0,123.231.111.241,List of SriLankan Airlines destinations,/* List */
+2016-12-28T19:08:06+00:00,757092172,757091989,0,Kandasamyp,List of SriLankan Airlines destinations,
+2016-11-09T06:14:04+00:00,748617026,748177812,0,223.62.178.154,List of SriLankan Airlines destinations,/* Terminated Routes */
+2017-01-31T19:49:38+00:00,762983586,762899875,0,Fixer88,List of SriLankan Airlines destinations,Disambiguated: [[Gan]] → [[Gan (Addu Atoll)]]
+2016-05-07T14:01:03+00:00,719080589,718884540,0,183.90.36.221,List of SriLankan Airlines destinations,
+2016-06-29T20:52:44+00:00,727569314,727569219,0,46.244.136.1,List of SriLankan Airlines destinations,
+2017-04-13T04:52:13+00:00,775176876,775113531,0,GünniX,List of SriLankan Airlines destinations,double http using [[Project:AWB|AWB]]
+2017-05-22T13:11:39+00:00,781647371,781639302,0,Flyer22 Frozen,Madurai,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/2405:205:8109:6F97:74B9:D99A:B287:3585|2405:205:8109:6F97:74B9:D99A:B287:3585]] using [[WP:STiki|STiki]]
+2016-10-19T05:07:41+00:00,745082163,745081645,0,211.253.154.195,List of SriLankan Airlines destinations,/* Terminated Routes */
+2016-09-10T06:55:22+00:00,738645780,738337804,0,2.31.112.132,List of SriLankan Airlines destinations,/* List */
+2017-03-18T20:03:56+00:00,770977940,770924770,0,2405:205:8488:7E3C:0:0:1144:8A0,Madurai Airport,
+2016-12-06T11:57:05+00:00,753310402,753104450,0,Magentic Manifestations,Madurai,Undid revision 753104450 by [[Special:Contributions/Sankarvb088|Sankarvb088]] ([[User talk:Sankarvb088|talk]])
+2016-12-11T20:08:17+00:00,754273751,754273643,0,Amdmustafa,Madurai Airport,Undid revision 754273643 by [[Special:Contributions/Amdmustafa|Amdmustafa]] ([[User talk:Amdmustafa|talk]])
+2017-07-02T08:58:22+00:00,788592575,788590696,0,Amdmustafa,Madurai Airport,Reverted to revision 788587322 by [[Special:Contributions/Amdmustafa|Amdmustafa]] ([[User talk:Amdmustafa|talk]]): Vandalism. ([[WP:TW|TW]])
+2017-02-21T13:33:46+00:00,766669938,766597474,0,Blessonprakash92,Madurai Airport,minor edit
+2017-03-17T14:45:25+00:00,770778680,770746933,0,2405:205:8105:15CF:0:0:1A2D:D0A1,Madurai Airport,Undid revision 770746933 by [[Special:Contributions/117.98.185.127|117.98.185.127]] ([[User talk:117.98.185.127|talk]])
+2016-09-30T04:28:44+00:00,741867156,741755427,0,Elcarr18,Madurai Airport,"Mihin Lanka ending flights to Colombo, Sri Lankan beginning flights to Colombo"
+2017-05-29T17:06:40+00:00,782859816,782859585,0,2405:204:704B:A329:E1D5:9B3B:DC60:A7B4,Madurai Airport,/* Passenger terminal */
+2016-10-14T07:10:11+00:00,744278162,743829721,0,Amdmustafa,Madurai Airport,/* Airlines and destinations */ OP cancelled its flights long back
+2017-01-15T13:30:40+00:00,760185497,760140959,0,LeoFrank,Madurai Airport,rm indicscripts
+2016-11-01T05:03:23+00:00,747226708,747099834,0,99.135.194.240,Madurai Airport,Mihin Lanka was terminated on 29.10.16.
+2016-07-01T17:03:51+00:00,727852084,727852043,0,MRD2014,Madurai Airport,Reverted edits by [[Special:Contributions/27.63.44.27|27.63.44.27]] ([[User talk:27.63.44.27|talk]]): Failure to [[WP:CITE|cite]] a reliable source ([[WP:HG|HG]]) (3.1.21)
+2016-05-29T05:52:20+00:00,722606153,722606083,0,101.63.233.198,Madurai Airport,/* Airlines and destinations */
+2017-05-31T05:38:25+00:00,783110147,782859816,0,Nileshantony92,Madurai Airport,Madurai Airport traffic's is higher than Trichy as per AAI April month report 2017 \n \nhttp://www.aai.aero/traffic_news/April2k17_trafficnews.jsp
+2017-05-18T02:51:35+00:00,780941056,780538289,0,Anandprakash1999,Madurai Airport,/* Airlines and destinations */
+2017-06-09T20:02:23+00:00,784733714,784452341,0,Amdmustafa,Madurai Airport,Reverted 2 edits by [[Special:Contributions/Vibhss|Vibhss]] ([[User talk:Vibhss|talk]]): Check the ref given before editing. ([[WP:TW|TW]])
+2016-06-30T19:41:17+00:00,727711889,727711802,0,182.65.176.222,Madurai Airport,
+2017-03-25T18:33:15+00:00,772168122,772146322,0,78.100.160.186,Madurai Airport,/* Airlines and destinations */
+2016-08-03T17:50:57+00:00,732853677,732851244,0,FrescoBot,Madurai Airport,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-01-06T23:32:09+00:00,758689132,758413114,0,BG19bot,Madurai Airport,/* top */[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -
+2017-02-06T08:05:36+00:00,763967844,763875661,0,BG19bot,Madurai Airport,/* top */[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]]
+2016-12-11T04:30:18+00:00,754158594,754158522,0,Sunnya343,Maharana Pratap Airport,"no ""int'l"" per AAI and signboard in infobox pic"
+2017-05-31T19:19:39+00:00,783201209,778571597,0,QuickFixMe,Maharana Pratap Airport,
+2017-05-03T03:43:40+00:00,778439929,774409001,0,123.231.104.101,Pagal Nilavu (TV series),
+2017-02-27T02:23:00+00:00,767636835,761948369,0,131.203.138.108,Maharana Pratap Airport,
+2016-08-29T19:10:51+00:00,736772990,736687730,0,121.6.58.1,Maharana Pratap Airport,
+2016-11-27T12:05:35+00:00,751713730,751712652,0,Bumm13,Megalopolis,"/* China */ changed ""Central Plain (China)"" (Central Plain) wikilink to ""Zhongyuan""; spacing fix"
+2016-12-24T01:00:29+00:00,756405579,755675820,0,GoingBatty,Megalopolis,"v1.41 - Disambiguation help needed for 3 links - [[Calamba]], [[Castellón]], [[San Fernando]], 3 to be fixed - [[Calamba]], [[Castellón]], [[San Fernando]]"
+2016-09-10T19:33:55+00:00,738738439,732931307,0,Sunnya343,Pondicherry Airport,as indicated at Infobox:Airport and as done on Chinese airport articles
+2016-12-05T09:30:53+00:00,753127868,753113602,0,Topbanana,Megalopolis,Link repair:  Vinaroz -> Vinaròs  - [[w:en:WP:RLR|You can help!]]
+2016-12-14T01:27:28+00:00,754701209,753127868,0,CanAerospace99,Megalopolis,/* Canada */ Fixed grammar
+2017-01-22T18:01:25+00:00,761382415,761382074,0,LeoFrank,Pondicherry Airport,official name + rm indic scripts
+2016-06-30T15:31:40+00:00,727680216,727680175,0,Sunnya343,Pune Airport,bold
+2017-04-08T07:47:59+00:00,774409001,771446717,0,Materialscientist,Pagal Nilavu (TV series),Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Drsharmila15|Drsharmila15]] using [[WP:STiki|STiki]]
+2017-01-22T18:00:18+00:00,761382238,761195212,0,27.107.180.165,Pune Airport,/* Airlines and destinations */
+2017-01-11T09:53:20+00:00,759468683,759467212,0,125.99.86.10,Pune Airport,/* Airlines and destinations */ alpha
+2017-06-21T02:24:31+00:00,786699634,785334463,0,Vibhss,Pune Airport,"/* Airlines and destinations */ as per the current convention, Bangalore is used in place of Bengaluru here at Wikipedia"
+2017-05-14T23:36:30+00:00,780416210,780380530,0,Vibhss,Rajiv Gandhi International Airport,/* Airlines and destinations */ rem IXA from SJ. SJ doesn't operate any direct or non-stop flight on this route. And SJ will commence HYD-UDZ flight from 29 oct this year
+2017-06-30T22:51:48+00:00,788346662,787810751,0,Vibhss,Pune Airport,Undid revision 787810751 by [[Special:Contributions/27.62.18.214|27.62.18.214]] ([[User talk:27.62.18.214|talk]]) vandalism in its purest form
+2016-11-14T20:38:15+00:00,749530458,749477585,0,Sunnya343,Rajiv Gandhi International Airport,/* Passenger */ write out the month
+2016-09-01T15:05:39+00:00,737238971,737008932,0,49.206.121.233,Rajiv Gandhi International Airport,/* Passenger */
+2016-06-29T15:57:10+00:00,727530040,727256477,0,109.149.212.55,Ras Al Khaimah International Airport,/* Passenger */
+2017-02-04T07:18:57+00:00,763625813,763625227,0,Materialscientist,Rajiv Gandhi International Airport,Reverted edits by [[Special:Contribs/2405:204:508D:1266:0:0:18DC:50A4|2405:204:508D:1266:0:0:18DC:50A4]] ([[User talk:2405:204:508D:1266:0:0:18DC:50A4|talk]]) to last version by Vibhss
+2016-08-31T11:28:34+00:00,737040590,732658746,0,Dewritech,Roland Garros Airport,"/* Ground transport */clean up, [[WP:AWB/T|typo(s) fixed]]: contruct → construct using [[Project:AWB|AWB]]"
+2017-02-24T07:46:48+00:00,767158676,767158519,0,45.118.244.14,Shah Amanat International Airport,
+2016-07-22T09:29:14+00:00,731009588,731009383,0,Anonymus Userr,Saravanan Meenatchi,/* Cast */
+2016-10-06T03:55:23+00:00,742841179,742841138,0,Elcarr18,Roland Garros Airport,French Blue beginning flights to Paris-Orly
+2016-08-28T11:26:36+00:00,736568446,736563148,0,Emir of Wikipedia,Ras Al Khaimah International Airport,As per [[MOS:POPCULT]]
+2016-04-21T07:28:23+00:00,716352006,716351749,0,David Biddulph,Shah Amanat International Airport,Reverted edits by [[Special:Contribs/178.39.248.56|178.39.248.56]] ([[User talk:178.39.248.56|talk]]) to last version by 45.64.165.178
+2017-01-05T03:09:37+00:00,758385110,758382849,0,Sunnya343,Rajiv Gandhi International Airport,According to whom?
+2016-12-19T16:49:08+00:00,755691787,755658141,0,Sunnya343,Rajiv Gandhi International Airport,Undid revision 755658141 by [[Special:Contributions/117.193.129.140|117.193.129.140]] ([[User talk:117.193.129.140|talk]]) why?
+2017-01-10T19:57:40+00:00,759373690,757343961,0,106.208.133.145,Saravanan Meenatchi,/* Season 3 */Fixed missed out names...
+2017-01-29T16:22:36+00:00,762571098,762517478,0,LeoFrank,Sharjah International Airport,Reverted 1 edit by [[Special:Contributions/Itskumudhk|Itskumudhk]] ([[User talk:Itskumudhk|talk]]): Source? ([[WP:TW|TW]])
+2016-06-12T04:25:35+00:00,724884385,724493411,0,182.75.63.34,Sharjah International Airport,
+2017-01-15T14:31:08+00:00,760191523,758967900,0,Xkd2626,Shri Guru Gobind Singh Ji Airport,There are no scheduled flights from this airport
+2016-04-04T22:45:36+00:00,713592504,693442562,0,Sunnya343,Shri Guru Gobind Singh Ji Airport,then this section should not be listed
+2017-07-01T14:16:11+00:00,788457874,788448221,0,Magentic Manifestations,South India,
+2017-05-04T02:56:47+00:00,778595830,778592869,0,111.95.116.8,Suvarnabhumi Airport,/* Passenger */
+2016-12-30T07:57:01+00:00,757369686,756342802,0,103.5.134.23,South India,/* Administration */
+2017-05-29T10:36:02+00:00,782814887,782144643,0,Iridescent,Suvarnabhumi Airport,"/* Specifications */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: early-2017 → early 2017 using [[Project:AWB|AWB]]"
+2017-04-29T11:36:04+00:00,777807573,777666586,0,1.179.240.77,Suvarnabhumi Airport,/* Airlines and destinations */
+2017-01-27T07:46:40+00:00,762196720,762000774,0,80.229.60.197,Suvarnabhumi Airport,Undid revision 762000774 by [[Special:Contributions/223.206.232.147|223.206.232.147]] ([[User talk:223.206.232.147|talk]]) Restore ref removed without explanation
+2017-02-07T12:29:52+00:00,764163391,764130966,0,SciPlantae,Suvarnabhumi Airport,/* Passenger */
+2016-07-13T04:19:10+00:00,729574310,729426389,0,Millanel,Suvarnabhumi Airport,/* Passenger */
+2016-08-30T08:44:37+00:00,736856909,736856763,0,117.241.56.4,Thiruvananthapuram International Airport,/* Passenger */
+2017-04-15T13:03:04+00:00,775525074,775367737,0,Votv007,Thiruvananthapuram International Airport,/* Passenger */
+2016-12-08T03:35:14+00:00,753600406,753327217,0,Millanel,Suvarnabhumi Airport,/* Passenger */
+2017-02-04T11:52:15+00:00,763649114,763595924,0,Doraemon25,Suvarnabhumi Airport,
+2017-04-07T10:48:33+00:00,774274914,773555097,0,Amily7751,Suvarnabhumi Airport,
+2017-01-06T13:46:27+00:00,758609436,758596216,0,Vensatry,Tiruchirappalli,Undid revision 758596216 by [[Special:Contributions/61.246.223.163|61.246.223.163]] ([[User talk:61.246.223.163|talk]])
+2016-11-22T02:49:56+00:00,750894777,749846627,0,Votv007,Thiruvananthapuram International Airport,
+2016-11-09T14:09:36+00:00,748658287,748656840,0,Nick Moyes,Thiruvananthapuram International Airport,Correcting spelling: aircrafts->aircraft
+2017-06-21T07:13:30+00:00,786727193,786726997,0,Antonbabich,Suvarnabhumi Airport,/* Passenger */
+2016-07-04T12:11:56+00:00,728291416,726586102,0,Cyberbot II,Tiruchirappalli,Rescuing 1 sources. #IABot
+2017-06-13T12:12:07+00:00,785416517,785405273,0,Vensatry,Tiruchirappalli,Reverted 1 edit by [[Special:Contributions/178.80.144.25|178.80.144.25]] ([[User talk:178.80.144.25|talk]]): Spam. ([[WP:TW|TW]])
+2016-08-31T16:14:03+00:00,737074574,737021714,0,116.66.154.48,Tiruchirappalli,
+2016-11-15T16:28:50+00:00,749671152,749198517,0,QuickFixMe,Tiruchirappalli,
+2016-10-04T06:27:43+00:00,742524630,742392022,0,Vensatry,Tiruchirappalli,debold
+2016-09-28T08:25:12+00:00,741564956,741540602,0,Vensatry,Tiruchirappalli,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Sakthi murugan|Sakthi murugan]] ([[User talk:Sakthi murugan|talk]]): Nope. ([[WP:TW|TW]])
+2017-02-03T05:10:25+00:00,763427056,762870007,0,Sunnya343,Tiruchirappalli,[[WP:INDICSCRIPT]]
+2017-06-10T19:22:03+00:00,784938647,784857395,0,Magentic Manifestations,Tiruchirappalli,Undid revision 784857395 by [[Special:Contributions/Dineshyaz2|Dineshyaz2]] ([[User talk:Dineshyaz2|talk]])
+2017-05-14T12:51:15+00:00,780342726,779460916,0,Eumolpo,Tiruchirappalli,orthographic
+2016-06-23T02:46:59+00:00,726586102,724147749,0,फ़िलप्रो,Tiruchirappalli,spelling per [[Template:Use Indian English|Indian English]]
+2016-12-12T16:25:28+00:00,754429516,753222032,0,QuickFixMe,Tiruchirappalli,
+2017-02-17T18:20:53+00:00,766011179,766000522,0,Vensatry,Tiruchirappalli,doesn't belong here
+2016-05-29T20:14:13+00:00,722723361,722647158,0,Niceguyedc,Tiruchirappalli,"v1.38 - Repaired 3 links to disambiguation pages - [[WP:DPL|(You can help)]] - [[English]], [[Tamil]], [[Vaali]] / [[WP:WCW]] project (Reference before punctuation)"
+2016-10-19T10:47:43+00:00,745121270,744796460,0,116.75.95.25,Tiruchirappalli,
+2017-04-13T04:07:58+00:00,775173312,774788841,0,J.R.Kishor,Tiruchirappalli,/* Early and medieval history */
+2017-05-26T05:11:58+00:00,782324430,782324379,0,2405:205:8387:B836:68BB:FE0D:ED5D:C44D,Tiruchirappalli International Airport,
+2016-08-21T08:52:12+00:00,735520152,735519759,0,Balablitz,Tiruchirappalli International Airport,removed [[Category:World War II sites in India]] using [[WP:HC|HotCat]]
+2017-03-29T14:55:55+00:00,772819146,772809659,0,117.98.173.39,Tiruchirappalli International Airport,
+2017-04-18T16:07:03+00:00,776036826,776022676,0,QuickFixMe,Tiruchirappalli International Airport,
+2016-08-01T00:52:23+00:00,732441593,732441549,0,Sunnya343,Tiruchirappalli International Airport,/* Airlines and destinations */
+2016-12-22T06:36:22+00:00,756137959,756137858,0,115.254.21.49,Tiruchirappalli International Airport,/* Cargo terminal */
+2017-01-15T09:21:09+00:00,760159177,760140668,0,182.56.78.218,Tiruchirappalli International Airport,/* Airlines and Destinations */
+2017-03-04T03:35:55+00:00,768491641,768193345,0,LeoFrank,Tiruchirappalli International Airport,subsection unnecessary
+2017-05-31T05:15:37+00:00,783107849,783107753,0,Nileshantony92,Tiruchirappalli International Airport,
+2017-01-20T10:45:48+00:00,761013783,760532166,0,Vibhss,Tiruchirappalli International Airport,
+2017-03-25T09:22:10+00:00,772101724,772092471,0,LeoFrank,Tiruchirappalli International Airport,Reverted 3 edits by [[Special:Contributions/157.51.58.225|157.51.58.225]] ([[User talk:157.51.58.225|talk]]): No such flight. ([[WP:TW|TW]])
+2016-06-18T11:30:01+00:00,725869973,724272924,0,Shriramkenny,Tiruchirappalli International Airport,/* History */ Fixed typo
+2016-06-01T04:21:33+00:00,723121994,722645708,0,M.soumen,Tiruchirappalli International Airport,/* Airlines and destinations */ Air India Express flies to KUL as well from TRZ
+2017-03-01T14:06:11+00:00,768051354,768018476,0,83.171.181.80,Tiruchirappalli International Airport,/* References */
+2017-05-03T06:47:59+00:00,778455826,777683156,0,2405:205:8505:62CD:0:0:1824:80A0,Tiruchirappalli International Airport,Undid revision 776022676 by [[Special:Contributions/5.21.251.192|5.21.251.192]] ([[User talk:5.21.251.192|talk]])
+2016-05-02T13:19:10+00:00,718257373,714679576,0,125.21.198.190,Tiruchirappalli International Airport,
+2016-09-16T07:28:05+00:00,739677588,739532503,0,Amdmustafa,Tiruchirappalli International Airport,/* Airlines and destinations */ TRZ-MAA-KUL by IX is not same flight number. TRZ-MAA different and MAA-KUL is different
+2016-09-10T02:30:00+00:00,738620189,738620165,0,Sunnya343,Tiruchirappalli International Airport,
+2016-12-02T00:44:47+00:00,752570078,752524689,0,2405:205:8003:53A9:0:0:1BB:E0B0,Tiruchirappalli International Airport,/* History */
+2016-08-13T09:56:44+00:00,734292354,734292300,0,130.193.221.120,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-03-02T10:33:53+00:00,768193345,768051354,0,88.201.58.116,Tiruchirappalli International Airport,/* Passenger flights */
+2016-11-08T00:41:26+00:00,748396930,748396903,0,Sunnya343,Tiruchirappalli International Airport,italicise
+2017-06-05T18:35:22+00:00,783963711,783921321,0,Amdmustafa,Tiruchirappalli International Airport,Reverted 2 edits by [[Special:Contributions/182.75.151.66|182.75.151.66]] ([[User talk:182.75.151.66|talk]]): TRV doesn't have a separate section for that. So are all airports. ([[WP:TW|TW]])
+2017-05-22T07:10:27+00:00,781609542,781609364,0,182.75.151.66,Tiruchirappalli International Airport,
+2016-07-12T06:05:29+00:00,729438533,728844445,0,Vensatry,Tiruchirappalli International Airport,"Fails [[WP:V]], not a lead material for sure"
+2017-02-06T15:15:06+00:00,764010935,764009239,0,117.98.189.202,Tiruchirappalli International Airport,/* Passenger flights */
+2017-04-28T17:12:16+00:00,777683156,777675541,0,LeoFrank,Tiruchirappalli International Airport,Reverted 1 edit by [[Special:Contributions/Blessthuseditor|Blessthuseditor]] ([[User talk:Blessthuseditor|talk]]): Unexplained removal. ([[WP:TW|TW]])
+2016-10-15T05:40:48+00:00,744434796,744352020,0,Balablitz,Tiruchirappalli International Airport,Reverted 1 edit by [[Special:Contributions/101.222.234.23|101.222.234.23]] ([[User talk:101.222.234.23|talk]]) to last revision by 49.206.124.58. ([[WP:TW|TW]])
+2017-02-05T14:29:56+00:00,763838032,763808433,0,LeoFrank,Tiruchirappalli International Airport,Filling in 5 references using [[WP:REFLINKS|Reflinks]]
+2017-05-13T06:46:00+00:00,780138803,779869127,0,Surya shiv,Tiruchirappalli International Airport,
+2017-06-03T13:22:40+00:00,783609041,783607454,0,Tiruchian,Tiruchirappalli International Airport,
+2017-06-25T14:35:04+00:00,787454557,787454551,0,Dennis Brown,Tiruchirappalli International Airport,Removing protection template ([[WP:TW|TW]])
+2016-10-06T18:06:12+00:00,742927355,741606250,0,49.206.124.58,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-06-10T15:31:30+00:00,784892000,784888534,0,Amdmustafa,Tiruchirappalli International Airport,/* Passenger */
+2017-01-29T17:46:54+00:00,762584123,762581009,0,AnomieBOT,Tiruchirappalli International Airport,Dating maintenance tags: {{Cn}}
+2016-11-14T22:37:29+00:00,749551553,748396930,0,GreenC bot,Tiruchirappalli International Airport,1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])
+2016-10-28T13:49:06+00:00,746617513,746602474,0,49.206.114.141,Tiruchirappalli International Airport,/* Passenger */
+2016-09-28T15:21:24+00:00,741606250,741606092,0,59.98.57.61,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-01-01T05:11:21+00:00,757695632,757622781,0,122.164.152.239,Tiruchirappalli International Airport,/* Airlines and Destinations */
+2016-07-08T01:25:08+00:00,728844445,728828823,0,Amdmustafa,Tiruchirappalli International Airport,/* Airlines and destinations */ MJ doesn't operate to TRZ
+2017-03-01T08:22:16+00:00,768018476,767942755,0,Orenburg1,Tiruchirappalli International Airport,sp
+2017-02-01T17:50:33+00:00,763165673,763094596,0,101.222.170.213,Tiruchirappalli International Airport,
+2017-02-08T17:58:59+00:00,764392119,764391311,0,Johnsonprabu,Tiruchirappalli International Airport,/* Terminal expansion */
+2017-03-10T17:23:23+00:00,769618924,769618886,0,Magentic Manifestations,Tiruchirappalli International Airport,/* Apron expansion */
+2017-02-13T10:28:53+00:00,765243118,764392119,0,176.19.133.8,Tiruchirappalli International Airport,
+2017-04-10T10:49:58+00:00,774736151,774735040,0,Amdmustafa,Tiruchirappalli International Airport,Undid revision 774735040 by [[Special:Contributions/103.59.206.38|103.59.206.38]] ([[User talk:103.59.206.38|talk]]) 9W doesnt operate TRZ-SIN
+2017-04-02T01:48:23+00:00,773379242,773311840,0,175.101.137.12,Tirupati Airport,
+2017-02-21T00:54:44+00:00,766587214,766151958,0,Blessonprakash92,Tiruchirappalli International Airport,Minor eidits
+2017-06-04T08:38:36+00:00,783733651,783352429,0,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2016-11-08T00:39:07+00:00,748396632,746316821,0,Sunnya343,Tuticorin Airport,LOC Romanisatin
+2017-06-09T05:01:32+00:00,784603733,784583868,0,Lowercase sigmabot III,User talk:Vensatry,Archiving 3 discussion(s) to [[User talk:Vensatry/Archive 39]]) (bot
+2016-04-18T09:52:06+00:00,715845830,711188943,0,Woy23,Tuticorin Airport,minor format fix
+2017-02-27T02:22:04+00:00,767636744,766201150,0,131.203.138.108,Veer Savarkar International Airport,
+2017-05-24T04:14:00+00:00,781949304,781324939,0,FrescoBot,Veer Savarkar International Airport,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2017-04-18T16:05:59+00:00,776036671,775423565,0,QuickFixMe,Veer Savarkar International Airport,
+2017-04-04T03:39:27+00:00,773744346,773743730,0,220.227.89.237,Veer Savarkar International Airport,
+2016-07-27T07:29:55+00:00,731744365,731550618,0,Captaingunadeep,Vijayawada Airport,/* Airlines and destinations */
+2016-05-23T07:34:03+00:00,721654346,718393104,0,Captaingunadeep,Vijayawada Airport,/* Airlines and destinations */
+2016-05-03T14:47:08+00:00,718440576,718359119,0,Captaingunadeep,Tirupati Airport,/* Airlines and destinations */
+2016-11-05T04:40:05+00:00,747915763,747915734,0,121.7.53.56,Vijayawada Airport,/* Airlines and destinations */
+2017-05-26T16:04:42+00:00,782389213,782388651,0,Captaingunadeep,Vijayawada Airport,/* History */
+2016-09-10T08:47:23+00:00,738657201,738657088,0,2405:204:6506:7808:0:0:23D0:30B1,Visakhapatnam Airport,
+2016-10-17T04:42:50+00:00,744743007,744742952,0,203.99.208.1,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-02T17:26:12+00:00,778361083,778361043,0,Chinnuabhiram600,Visakhapatnam Airport,
+2017-01-11T13:25:09+00:00,759487558,759487511,0,121.7.53.56,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-27T05:57:07+00:00,782486505,782391195,0,Orenburg1,Visakhapatnam Airport,sp
+2017-07-05T11:33:42+00:00,789107674,788989378,0,Vibhss,Visakhapatnam Airport,Reverted 2 edits by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]) to last revision by Captaingunadeep. ([[WP:TW|TW]])
+2017-01-19T10:36:23+00:00,760835185,760716323,0,Captaingunadeep,Visakhapatnam Airport,will surely add if the bookings or references are added/Given
+2017-02-15T00:00:00+00:00,765537203,765262415,0,2405:204:630C:D92A:C9E7:FF0F:5A4F:149A,Visakhapatnam Airport,/* Airlines and Destinations */
+2017-04-15T19:38:29+00:00,775574988,775566935,0,223.230.40.127,Visakhapatnam Airport,This is how the airport is called in Telugu. It has same name board in the Airport also. This is native language. Don't make changes. And don't ask source for this.
+2016-09-30T08:13:22+00:00,741885375,741795544,0,123.236.150.186,Visakhapatnam Airport,/* Airlines and destinations */
+2016-07-16T12:47:30+00:00,730056192,729641727,0,Aveouva092,Visakhapatnam Airport,/* Passenger */ AirAsia India is not ending service between DEL and VTZ
+2016-06-13T06:29:22+00:00,725046014,725028327,0,M.soumen,Visakhapatnam Airport,Undid revision 725028327 by [[Special:Contributions/43.239.242.5|43.239.242.5]] ([[User talk:43.239.242.5|talk]])
+2017-03-03T09:16:12+00:00,768356536,768087398,0,118.189.8.122,Visakhapatnam Airport,/* Airlines and destinations */
+2016-10-26T14:40:06+00:00,746296697,746296617,0,YSSYguy,Visakhapatnam Airport,Undid revision 746289378 by [[Special:Contributions/223.182.9.175|223.182.9.175]] ([[User talk:223.182.9.175|talk]])
+2017-06-18T08:24:11+00:00,786257872,786257808,0,Captaingunadeep,Visakhapatnam Airport,BLR-AMD/BDQ flight number changed from 6E 759 to 6E 287 making it One Stop flight from VTZ to AMD/BDQ via BLR (Starting 15/18 June 2017)
+2017-04-18T16:08:37+00:00,776037054,775857170,0,QuickFixMe,Visakhapatnam Airport,
+2016-06-01T22:25:51+00:00,723246994,723115141,0,Sunnya343,Visakhapatnam Airport,/* References */
+2017-06-02T08:40:17+00:00,783437337,780318332,0,Champion,Zayed International Airport,/* Passenger */
+2016-07-13T19:16:32+00:00,729665461,729435436,0,TravelLover37,Zayed International Airport,/* Passenger */
+2017-03-02T08:25:30+00:00,768181122,768181069,0,Jose xavier 555,Ahmedabad Airport,
+2017-04-03T16:38:31+00:00,773658062,773657992,0,172.58.43.216,Adelaide Airport,/* Cargo */
+2017-06-09T05:21:26+00:00,784606554,784606460,0,117.232.100.114,Air Carnival,/* Fleet */
+2017-05-30T19:51:00+00:00,783043983,783041365,0,Parthj312,Ahmedabad Airport,Image
+2017-01-31T11:21:02+00:00,762912513,762912445,0,42.111.171.107,Air India Express,/* Fleet */
+2016-06-16T06:42:20+00:00,725529073,724777241,0,Csdaly,Adelaide Airport,Added more historical details.
+2016-05-24T06:59:45+00:00,721816923,721806360,0,SempreVolando,Adelaide Airport,"Undid revision 721806360 by [[Special:Contributions/129.127.32.61|129.127.32.61]] ([[User talk:129.127.32.61|talk]]) Remove speculation. Routes must have a confirmed start date per [[WP:AIRLINES]]. Also, wikipedia is [[WP:BALL|not a crystal ball]]"
+2017-02-28T10:09:12+00:00,767856515,767321566,0,5.36.159.159,Air India Express,/* Overview */
+2016-07-12T02:38:01+00:00,729421706,729056929,0,117.249.63.248,Air Carnival,
+2017-02-19T15:59:27+00:00,766329202,766302420,0,Dinil Samarasinha,Bandaranaike International Airport,
+2016-09-26T17:30:17+00:00,741306665,741061350,0,LEnyedi,Bucharest Henri Coandă International Airport,/* Passengers */
+2016-12-14T15:01:37+00:00,754792140,754198673,0,94.40.109.39,Ben Gurion Airport,
+2017-02-08T16:44:20+00:00,764381507,764380547,0,213.151.50.149,Ben Gurion Airport,/* Passenger */
+2016-05-05T22:18:19+00:00,718835269,718834597,0,AnotherNewAccount,Ben Gurion Airport,"Capitalization, whitespace fixes"
+2017-03-26T15:31:56+00:00,772313550,772310369,0,Bundubear,Bucharest Henri Coandă International Airport,/* Passenger */
+2016-07-23T13:19:23+00:00,731166540,731086600,0,116.86.232.234,Changi Airport,
+2016-11-28T18:10:34+00:00,751948124,751149984,0,46.244.154.101,Ben Gurion Airport,"/* Airlines and destinations */ Minsk has only one operational airport, as the former Minsk-1 did shut down as mentioned here http://www.rusaviainsider.com/belarusian-airports-see-traffic-growth-in-2015/"
+2016-09-19T20:03:33+00:00,740222511,740006096,0,Mashine1984,Bucharest Henri Coandă International Airport,Route started today
+2017-06-08T13:31:20+00:00,784465161,784019884,0,115.66.166.34,Changi Airport,/* Operational statistics */
+2017-02-06T08:09:13+00:00,763968239,763968215,0,5.14.20.23,Bucharest Henri Coandă International Airport,/* Passengers */
+2017-01-22T04:22:27+00:00,761293694,761193080,0,Lemongirl942,Changi Airport,Undid revision 761193080 by [[Special:Contributions/Tafeax|Tafeax]] ([[User talk:Tafeax|talk]]) That cannot override [[WP:V]] which is a core policy
+2016-10-30T09:33:04+00:00,746915339,746908032,0,14.139.183.117,Chennai International Airport,/* Passenger */
+2016-05-07T11:07:47+00:00,719064517,718883894,0,122.176.83.127,Chennai International Airport,/* Passenger */
+2016-12-22T09:42:46+00:00,756152872,755982228,0,122.166.102.89,Chennai International Airport,/* New passenger terminals */
+2016-11-13T18:56:12+00:00,749318214,749104706,0,49.206.117.160,Chennai International Airport,/* Passenger */
+2017-02-16T18:33:44+00:00,765836034,765596163,0,117.193.133.179,Chennai International Airport,/* Passenger */
+2016-05-16T16:11:28+00:00,720554180,719064517,0,Ecarrier1,Chennai International Airport,
+2017-02-07T04:33:09+00:00,764114574,764114448,0,Jessicadsouza,Chennai International Airport,
+2017-02-03T05:32:21+00:00,763428915,763261277,0,101.222.232.37,Chennai International Airport,
+2016-11-07T06:58:40+00:00,748255317,747599131,0,14.140.217.170,Chennai International Airport,/* Passenger */
+2017-04-10T22:13:38+00:00,774828122,774770499,0,Ahwiv,Chennai International Airport,update unknown parms in infobox
+2016-11-27T09:55:51+00:00,751700222,751613049,0,157.49.71.183,Chennai International Airport,Corrected error
+2016-04-07T07:45:01+00:00,714038187,714031155,0,117.215.85.181,Chennai International Airport,/* Cargo */
+2017-02-19T19:12:41+00:00,766357458,766353241,0,49.206.113.182,Chennai International Airport,/* Passenger */
+2016-10-18T19:47:18+00:00,745009741,744751859,0,183.83.48.90,Chennai International Airport,/* Passenger */
+2016-04-22T09:42:44+00:00,716547834,716529813,0,183.83.51.86,Chennai International Airport,/* Passenger */
+2017-04-10T10:38:50+00:00,774735236,774599309,0,116.212.183.180,Chennai International Airport,
+2016-04-19T13:58:17+00:00,716040176,716039217,0,49.207.184.206,Chennai International Airport,/* Passenger */
+2016-05-31T20:38:22+00:00,723071669,722805627,0,128.255.4.239,Chennai International Airport,
+2017-06-22T13:18:24+00:00,786936063,786936005,0,120.188.67.30,Chennai International Airport,/* Airlines and destinations */
+2017-03-29T18:29:09+00:00,772849507,772809845,0,42.111.166.102,Chennai International Airport,
+2016-05-13T13:22:31+00:00,720059688,720059647,0,Ymblanter,Chhatrapati Shivaji Maharaj International Airport,{{pp-semi}}
+2016-10-01T22:39:30+00:00,742136889,742136627,0,116.68.120.153,Chhatrapati Shivaji Maharaj International Airport,/* Busiest routes */
+2016-09-26T13:37:55+00:00,741275177,741274841,0,116.202.38.45,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */ Map removed
+2017-02-02T05:16:12+00:00,763258294,762919104,0,103.199.137.8,Chhatrapati Shivaji Maharaj International Airport,"There is no proof of MEGA Maldives operating Mumbai and no bookings are available, so most likely, this flight was axed"
+2017-05-01T02:41:46+00:00,778095216,778094808,0,Buddhi93,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-03-24T12:52:30+00:00,771949547,771946400,0,Vnk414,Chhatrapati Shivaji Maharaj International Airport,corrected brussels airline from 26 to 30 march
+2016-04-18T09:43:45+00:00,715844724,715844526,0,Vijay8808,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-02-09T02:13:10+00:00,764466202,764358651,0,103.199.137.8,Chhatrapati Shivaji Maharaj International Airport,"Lufthansa never announced A380 to Mumbai, Summer schedule is 747-400"
+2016-04-09T13:44:13+00:00,714392638,714298400,0,59.182.154.0,Chhatrapati Shivaji Maharaj International Airport,
+2016-09-08T05:05:36+00:00,738312885,738311751,0,Btarunr,Chhatrapati Shivaji Maharaj International Airport,"/* Passenger */ Merged Jet Airways domestic and international destinations because there is no terminal separation (unlike with, say, IndiGo). This same rule was cited by a mod when I tried to separate domestic and international destinations for RGIA-HYD."
+2016-08-13T16:46:05+00:00,734332001,734325508,0,Waitak,Cochin International Airport,Fixed infobox mistakes
+2017-03-08T08:44:08+00:00,769230920,768695370,0,FlyJet777,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */ More reliable reference added
+2017-03-16T22:41:55+00:00,770679304,770574008,0,Digangana,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-01-20T17:37:06+00:00,761063268,760566347,0,212.77.220.196,Cochin International Airport,/* New terminal- T3 */
+2016-06-10T05:09:32+00:00,724581061,724215676,0,Paulthekkethala,Cochin International Airport,/* Management */
+2016-05-30T08:29:56+00:00,722816365,722816253,0,5.36.48.87,Cochin International Airport,/* Airlines and destinations */
+2016-05-12T09:16:16+00:00,719874643,719874385,0,116.66.154.46,Coimbatore,
+2017-04-02T16:52:33+00:00,773473917,773288831,0,WereSpielChequers,Coimbatore,typo
+2016-05-23T03:37:15+00:00,721633060,721499629,0,223.235.95.172,Coimbatore International Airport,
+2017-03-19T06:00:23+00:00,771049451,771048053,0,117.197.202.238,Coimbatore,/* Economy */
+2016-09-22T10:25:35+00:00,740643457,740269814,0,1.39.62.174,Coimbatore,
+2017-01-10T17:02:56+00:00,759345941,759345668,0,182.65.110.73,Coimbatore International Airport,/* Passenger */
+2017-03-14T18:04:00+00:00,770313757,770270147,0,117.98.166.199,Coimbatore International Airport,/* Passenger */
+2016-04-19T16:59:47+00:00,716057744,715575412,0,117.223.246.68,Coimbatore International Airport,/* Airlines and destinations */http://m.thehindubusinessline.com/economy/logistics/air-carnival-to-take-wings-in-may/article8480409.ece
+2016-10-07T17:27:17+00:00,743077558,742060949,0,101.222.168.228,Coimbatore International Airport,/* Passenger */
+2017-03-28T15:33:20+00:00,772654582,772642702,0,27.62.221.104,Coimbatore International Airport,/* Airlines and destinations */
+2017-02-20T14:52:21+00:00,766499228,766498072,0,Dan Koehl,Coimbatore International Airport,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/49.206.249.241|49.206.249.241]] using [[WP:STiki|STiki]]
+2017-05-27T00:52:17+00:00,782453777,782378933,0,49.205.153.241,Coimbatore International Airport,/* Passenger */
+2017-03-28T07:35:14+00:00,772600689,772591026,0,117.98.187.244,Coimbatore International Airport,/* Passenger */It is not a direct flight
+2017-03-20T01:24:42+00:00,771183101,771134960,0,27.62.140.123,Coimbatore International Airport,/* Airlines and destinations */
+2016-04-16T17:57:59+00:00,715575412,715444131,0,223.235.186.191,Coimbatore International Airport,/* Passenger */SG 501 Ahmedabad to CJB via MAA(inbound )
+2016-10-30T06:38:24+00:00,746897561,746404413,0,Johnpacklambert,Coimbatore International Airport,added [[Category:1940 establishments in India]] using [[WP:HC|HotCat]]
+2017-03-15T16:28:58+00:00,770466796,770466586,0,2405:205:808D:52BD:E825:D2CA:53ED:3354,Coimbatore International Airport,/* Airlines and destinations */
+2016-06-23T02:04:23+00:00,726581313,726581133,0,223.181.236.12,Coimbatore International Airport,
+2016-06-11T05:01:01+00:00,724739183,722479381,0,2600:8802:600:EC:2945:91ED:3768:B4F1,Dabolim Airport,/* Airlines and destinations */ Removed KUL AirAsia flight that ended
+2017-01-11T18:11:19+00:00,759524501,759326770,0,83.171.187.88,Dabolim Airport,/* Structure */
+2017-03-04T00:21:13+00:00,768470978,768087610,0,Mantoshpanda,Dabolim Airport,/* Statistics */
+2017-05-24T17:20:30+00:00,782046874,781087014,0,27.62.54.151,Deivam Thandha Veedu,
+2017-04-27T15:22:26+00:00,777503294,776308293,0,AvalerionV,Deivam Thandha Veedu,v1.42b - [[WP:WCW]] project (Template value ends with break)
+2017-01-04T09:03:42+00:00,758246367,758246255,0,171.79.6.232,Dubai International Airport,/* Passenger */ Flydubai is ending service to Ahwaz effective 12 April 2017
+2016-09-23T08:25:45+00:00,740786732,740784661,0,SempreVolando,Dubai International Airport,Per [[MOS:FLAGS]]
+2017-06-26T01:02:36+00:00,787549868,786430671,0,Pufferfyshe,Dubai International Airport,"FZ services to BUS, GBB and TIV now operative"
+2016-07-07T03:08:29+00:00,728707027,728563106,0,116.68.121.225,Dubai International Airport,/* Passenger operations */
+2016-08-09T09:45:12+00:00,733665104,733597687,0,JamesP,Dubai International Airport,fixed typo
+2017-01-02T12:35:15+00:00,757913013,757653667,0,4.30.124.170,Dubai International Airport,
+2017-06-18T08:53:11+00:00,786260577,785719594,0,2A00:23C4:8A09:6800:1476:DC17:7F9:6BA8,Dubai International Airport,
+2017-03-18T04:55:58+00:00,770881531,769725538,0,122.163.200.215,Gaya Airport,
+2017-01-14T14:49:30+00:00,760026048,759677438,0,Bender the Bot,Hamad International Airport,/* Opening */HTTP&rarr;HTTPS for [[Yahoo!]] using [[Project:AWB|AWB]]
+2016-09-23T11:53:50+00:00,740804762,740804364,0,103.211.19.28,Imphal Airport,/* Airlines and destinations */
+2016-07-07T16:40:44+00:00,728782912,728680778,0,DaveReidUK,Heathrow Airport,Amended references to the former Queens Building (no apostrophe) and removed reference to it housing the original control tower
+2017-01-08T09:29:25+00:00,758932889,758833372,0,DaveReidUK,Heathrow Airport,Undid revision 758833372 by [[Special:Contributions/SempreVolando|SempreVolando]] ([[User talk:SempreVolando|talk]]) Use of flags here is perfectly consistent with the Wikipedia MoS in a list of airports & countries served
+2016-12-18T09:33:12+00:00,755486867,755486572,0,115.249.182.50,Heathrow Airport,/* Passenger */ remove redundant
+2017-05-31T03:51:05+00:00,783099648,779843508,0,71.204.181.70,Imphal Airport,/* Cargo */
+2017-04-19T03:55:39+00:00,776126945,776033255,0,203.27.235.146,Imphal Airport,/* Passenger */
+2016-03-23T07:22:36+00:00,711499953,709789679,0,45.64.165.178,Imphal Airport,/* Airlines and destinations */
+2016-05-06T17:50:13+00:00,718959639,718623552,0,103.230.21.53,Jaipur International Airport,/* Airlines and destinations */
+2017-05-06T04:40:17+00:00,778951886,778951664,0,117.224.137.136,Jaipur International Airport,/* Airlines and destinations */
+2016-12-24T05:29:26+00:00,756432525,756431693,0,27.32.215.167,Kalyanam Mudhal Kadhal Varai,/* Plot */
+2016-06-25T17:18:44+00:00,726964456,726964197,0,49.207.191.136,Kalyanam Mudhal Kadhal Varai,
+2016-08-17T09:27:18+00:00,734887592,734770146,0,Tanu05,Kalyanam Mudhal Kadhal Varai,Added Official Streaming Website
+2017-02-13T11:27:49+00:00,765248859,763962027,0,Akshay200112,Jaipur International Airport,
+2016-04-11T22:36:51+00:00,714798886,712706812,0,2601:642:4200:9180:7563:2267:41BE:9B39,Kalyanam Mudhal Kadhal Varai,
+2017-06-21T19:50:53+00:00,786820174,786788476,0,2405:204:5209:BA09:ED7D:2935:BB5A:4C5D,Kempegowda International Airport,A
+2016-11-21T07:26:14+00:00,750687820,749132537,0,180.191.79.159,Kempegowda International Airport,/* Airlines and destinations */
+2017-03-26T04:59:36+00:00,772249408,772068765,0,27.62.185.187,Kempegowda International Airport,/* Airlines and destinations */
+2017-06-26T06:23:48+00:00,787580567,787580195,0,49.205.145.144,Kempegowda International Airport,/* Passenger */
+2017-04-23T09:38:53+00:00,776793905,776757304,0,Anshuman.jrt,Kempegowda International Airport,
+2016-09-10T04:41:30+00:00,738632554,738632552,0,Airplaneman,Kempegowda International Airport,Adding {{pp-vandalism}} ([[WP:TW|TW]])
+2017-01-12T15:51:56+00:00,759677388,759677292,0,MusikBot,Kempegowda International Airport,Removing protection templates from unprotected page
+2016-11-22T11:11:21+00:00,750941035,750913174,0,124.43.101.245,Kempegowda International Airport,/* Passenger */
+2017-02-23T14:09:37+00:00,767019639,766961654,0,117.216.24.202,Kozhikode International Airport,/* Passenger */
+2017-01-20T02:21:01+00:00,760965072,760566439,0,42.109.162.253,Kozhikode International Airport,/* Passenger */
+2016-04-01T06:35:40+00:00,712986788,712235773,0,182.56.113.1,Kozhikode International Airport,/* Airlines and destinations */
+2016-08-07T05:28:28+00:00,733347322,732240869,0,Fitindia,Kozhikode International Airport,"/* Widebody Aircraft Restrictions */clean up, [[WP:AWB/T|typo(s) fixed]]: aquistion → acquisition using [[Project:AWB|AWB]]"
+2016-06-02T08:36:37+00:00,723309903,723309727,0,182.74.253.34,Kozhikode International Airport,/* History */
+2017-05-20T14:41:44+00:00,781324008,781323896,0,89.211.60.58,Kozhikode International Airport,/* Airlines and destinations */
+2017-05-14T23:07:03+00:00,780413559,780413511,0,24.115.196.200,Kozhikode International Airport,Fixed link
+2017-03-24T08:10:56+00:00,771921461,771734310,0,Chongkian,Kuala Lumpur International Airport,improve category
+2016-12-13T12:17:35+00:00,754580691,754580479,0,175.141.116.153,Kuala Lumpur International Airport,/* Passenger */
+2016-12-01T17:20:58+00:00,752506172,750971292,0,2405:204:D18E:4259:0:0:1FDA:28B0,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-05-18T03:42:05+00:00,780945602,780663955,0,42.109.18.21,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2016-04-13T18:33:25+00:00,715102382,714925919,0,103.16.71.21,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2016-06-21T02:37:59+00:00,726260822,724011746,0,Btarunr,Lal Bahadur Shastri Airport,/* Airlines and destinations */ IndiGo does not have a direct flight to HYD from VNS.
+2016-06-29T00:50:27+00:00,727439291,727245110,0,Kind Tennis Fan,List of Flydubai destinations,Rv.
+2017-03-11T11:59:45+00:00,769747328,768741092,0,122.163.236.131,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-05-14T14:15:26+00:00,780351157,777304923,0,Koodbuur,List of Flydubai destinations,Added Hargeisa Airport as destination; corrected ICAO code for Juba Airport
+2017-05-11T11:19:30+00:00,779849842,779849511,0,Paulsolaman06,List of SriLankan Airlines destinations,
+2017-05-20T19:00:39+00:00,781357480,779849842,0,MusikBot,List of SriLankan Airlines destinations,Removing protection templates from unprotected page
+2017-05-30T15:32:13+00:00,783010244,782851252,0,103.247.50.137,List of SriLankan Airlines destinations,/* Terminated Routes */
+2016-06-27T18:57:11+00:00,727254412,719080589,0,Kenneth fernando,List of SriLankan Airlines destinations,/* List */
+2017-04-01T08:02:12+00:00,773250169,773113715,0,Ssriram mt,Madurai,ref addition
+2017-04-25T14:18:34+00:00,777150784,777150755,0,CambridgeBayWeather,Madurai Airport,Adding {{pp-vandalism}} ([[WP:TW|TW]])
+2016-08-29T14:10:34+00:00,736736092,736703561,0,Aviaind,Madurai Airport,
+2017-01-03T08:57:42+00:00,758072097,757718714,0,120.136.5.155,Madurai Airport,/* Airlines and destinations */
+2017-05-06T06:21:25+00:00,778962097,778626534,0,Muthuveerappan,Madurai Airport,International airport
+2017-02-28T05:06:39+00:00,767827313,767773113,0,Enind,Madurai Airport,
+2017-07-05T03:25:10+00:00,789062739,789060701,0,2.50.98.205,Madurai Airport,/* Airlines and destinations */
+2016-08-13T05:33:52+00:00,734269436,734268149,0,122.164.148.157,Madurai Airport,
+2016-04-11T14:00:08+00:00,714728024,714727943,0,122.164.13.234,Madurai Airport,/* Airlines and destinations */
+2016-09-20T20:08:15+00:00,740394472,740305768,0,KylieTastic,Madurai Airport,Fixed broken image - editor 'correcting' text in file names
+2017-03-23T16:18:31+00:00,771802454,771786632,0,117.98.160.65,Madurai Airport,/* Airlines and destinations */
+2017-02-01T17:27:41+00:00,763161899,763141336,0,101.222.169.106,Madurai Airport,
+2016-08-05T13:29:34+00:00,733114323,732853677,0,Raarthik,Madurai Airport,/* Passenger terminal */
+2016-11-24T06:00:56+00:00,751230631,751226753,0,Wikishovel,Madurai Airport,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Indskie|Indskie]] using [[WP:STiki|STiki]]
+2017-02-26T05:04:57+00:00,767480692,767480413,0,Proud tamizhan,Madurai Airport,Added reference my previous edits.
+2016-06-22T15:44:22+00:00,726499738,725976681,0,101.222.170.56,Madurai Airport,/* Airlines and destinations */
+2016-08-30T02:53:20+00:00,736827719,736736092,0,Guysbenny,Madurai Airport,/* Airlines and destinations */
+2016-05-21T18:08:47+00:00,721414174,721032673,0,223.187.58.96,Madurai Airport,
+2017-04-17T05:35:50+00:00,775801505,775717440,0,122.178.83.187,Madurai Airport,/* Airlines and destinations */
+2017-07-05T17:44:37+00:00,789152166,789148307,0,2.50.98.205,Madurai Airport,/* Airlines and destinations */
+2017-01-25T19:42:15+00:00,761948369,754158594,0,106.208.178.86,Maharana Pratap Airport,/* Airlines and destinations */
+2016-08-13T11:07:55+00:00,734299539,734299479,0,219.91.144.62,Megalopolis,/* South Asia */
+2016-07-10T01:59:53+00:00,729124125,727179931,0,117.198.148.62,Maharana Pratap Airport,/* Airlines and destinations */
+2017-01-08T08:32:07+00:00,758927677,758927609,0,Mariappan Murugan,Megalopolis,/* South Asia */
+2016-04-27T23:16:08+00:00,717477063,717477019,0,Mattspac,Megalopolis,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/66.25.243.111|66.25.243.111]] ([[User talk:66.25.243.111|talk]]). ([[WP:TW|TW]])
+2017-01-27T11:48:50+00:00,762216948,761704975,0,89.134.205.251,Megalopolis,/* Transnational (Europe) */
+2016-07-28T21:50:08+00:00,731996409,731928592,0,Nick Number,Megalopolis,repaired link(s) to disambiguation pages ([[WP:DPL|you can help]]) - Krishnanagar
+2016-05-08T22:40:23+00:00,719311510,718474398,0,143.159.32.97,Megalopolis,/* Low Countries */ Silesian Metropolis
+2017-06-03T18:01:34+00:00,783641927,783366100,0,Rdhinesh,Pagal Nilavu (TV series),Spelling Correction
+2016-06-25T18:07:48+00:00,726969745,726812061,0,Arnav19,Pagal Nilavu (TV series),
+2016-11-26T03:33:47+00:00,751504283,751504195,0,49.207.191.207,Pagal Nilavu (TV series),/* Cast */
+2016-09-06T07:55:40+00:00,737991021,736898862,0,Arnav19,Pagal Nilavu (TV series),
+2016-06-20T08:04:33+00:00,726137241,726129826,0,Bgwhite,Pondicherry Airport,Reverted to revision 723826120 by [[Special:Contributions/Itskumudhk|Itskumudhk]] ([[User talk:Itskumudhk|talk]]). ([[WP:TW|TW]])
+2017-02-14T10:28:46+00:00,765430012,765316196,0,Dan Koehl,Pune Airport,"/* Airlines and destinations */clean up, [[WP:AWB/T|typo(s) fixed]]: ,,
+ → , using [[Project:AWB|AWB]]"
+2017-01-28T09:16:05+00:00,762362084,761382238,0,223.229.129.127,Pune Airport,
+2016-12-01T13:31:39+00:00,752476284,749810809,0,117.214.113.82,Pune Airport,/* Airlines and destinations */ Fixed typo
+2016-07-30T22:07:41+00:00,732285590,727680216,0,Robert Brukner,Pune Airport,[[Category:World War II sites in India]]
+2017-05-04T10:18:53+00:00,778636165,778635410,0,103.9.75.83,Pune Airport,/* Airlines and destinations */
+2017-05-05T19:24:09+00:00,778887082,778712930,0,2606:A000:6AC3:8200:2CE7:6427:A842:C971,Rajiv Gandhi International Airport,Ended service to Madurai with IndiGo
+2016-10-02T07:56:33+00:00,742199943,738494865,0,46.244.138.195,Ras Al Khaimah International Airport,"/* Airlines and destinations */ added without a source, is this a cargo service or a passenger service?"
+2016-09-09T08:23:21+00:00,738494865,736568446,0,Cairo770,Ras Al Khaimah International Airport,/* Airlines and destinations */
+2017-02-26T14:54:10+00:00,767542533,766102727,0,83.171.190.211,Ras Al Khaimah International Airport,/* External links */ {{Portalbar|United Arab Emirates|Aviation}} set
+2016-05-15T18:27:04+00:00,720408989,713394853,0,86.99.245.159,Ras Al Khaimah International Airport,
+2016-05-14T20:52:50+00:00,720275619,710985358,0,2A01:E34:EC1E:9200:F97E:D36A:A263:9535,Roland Garros Airport,/* Airlines and destinations */
+2017-02-21T08:50:15+00:00,766638220,765173449,0,Bouzinac,Roland Garros Airport,/* Airlines and destinations */
+2016-09-20T15:27:41+00:00,740358979,738808038,0,Giri kumaran,Saravanan Meenatchi,/* Season 3 */
+2016-10-31T16:06:54+00:00,747125345,746952440,0,197.227.222.58,Roland Garros Airport,/* Airlines and destinations */Flights are not operated to Hong Kong
+2017-04-21T11:11:44+00:00,776499348,776360481,0,Bouzinac,Roland Garros Airport,/* Airlines and destinations */ Air India does not go to RUN
+2017-01-28T06:55:11+00:00,762351107,761389725,0,75.169.10.62,Saravanan Meenatchi,
+2017-03-29T06:39:12+00:00,772768588,772607726,0,103.62.141.81,Shah Amanat International Airport,/* Passenger */
+2017-05-06T09:11:52+00:00,778977689,777677168,0,2606:A000:6AC3:8200:A5A7:CAEC:61E6:66CF,Sharjah International Airport,Began service to Faisalabad with Shaheen Air
+2016-12-04T19:52:15+00:00,753025266,741012642,0,JJMC89 bot,Shri Guru Gobind Singh Ji Airport,"Migrate {{Infobox airport}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]"
+2017-05-31T13:11:51+00:00,783155138,782908269,0,45.127.57.155,South India,
+2016-04-28T22:47:08+00:00,717651612,717590886,0,92.97.222.63,South India,/* Air */
+2016-11-28T13:16:23+00:00,751908676,751241049,0,139.124.58.22,South India,
+2016-06-19T19:42:02+00:00,726062820,725867634,0,Setawut,Suvarnabhumi Airport,
+2016-08-08T06:10:45+00:00,733494456,733340985,0,Cclambert07,Suvarnabhumi Airport,*Minor Edit* Added conversion for size/area of airport lands - hectares to acres.
+2017-01-18T17:08:31+00:00,760710646,760656109,0,115.249.182.50,Suvarnabhumi Airport,/* Passenger */ imaginary flights
+2016-09-27T07:54:51+00:00,741399913,741214760,0,Bgwhite,Suvarnabhumi Airport,[[WP:CHECKWIKI]] error fix. Broken bracket problem. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]] (12082)
+2017-03-29T12:11:31+00:00,772800789,772567815,0,Siamese80,Suvarnabhumi Airport,/* Passenger */ [[Asia Atlantic Airlines|AAA]] destinations
+2017-03-04T08:08:04+00:00,768517297,768512975,0,Paul 012,Suvarnabhumi Airport,rv peacock language
+2016-07-25T23:24:08+00:00,731531485,731459638,0,Nutjaru,Suvarnabhumi Airport,
+2016-10-04T20:26:57+00:00,742626718,742418300,0,John of Reading,Thiruvananthapuram International Airport,"Typo/[[WP:AWB/GF|general]] fixes, replaced: stste → state, the  the → the, other copyedits. using [[Project:AWB|AWB]]"
+2016-06-12T14:30:41+00:00,724935679,721214459,0,212.150.255.134,Thiruvananthapuram International Airport,
+2016-07-18T13:29:34+00:00,730351939,730208920,0,188.71.247.48,Thiruvananthapuram International Airport,/* Terminals */
+2017-06-14T03:37:58+00:00,785543537,785537062,0,61.3.188.216,Thiruvananthapuram International Airport,/* Passenger */
+2016-04-09T19:46:43+00:00,714440453,713715650,0,Thnidu,Tiruchirappalli,/* Etymology */Making sense of the description
+2017-04-10T17:43:47+00:00,774788841,774622207,0,Finnusertop,Tiruchirappalli,"/* External links */ [[WP:BIDIRECTIONAL]]: ""Every article that transcludes a given navbox should normally also be included as a link in the navbox so that the navigation is bidirectional."""
+2017-03-15T14:30:16+00:00,770451886,769759813,0,Santhosh993,Tiruchirappalli,
+2017-03-11T13:50:37+00:00,769759813,769750331,0,RockyMasum,Tiruchirappalli,"([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:St MAry's Church - Trichy.jpg]] → [[File:St Mary's Church - Trichy.jpg]] [[c:COM:FR#reasons|File renaming criterion #3]]: To correct obvious errors in file names, including misspelled [[c::en:Noun#Prope..."
+2016-05-12T16:16:41+00:00,719921146,719912569,0,Ohnoitsjamie,Tiruchirappalli,Reverted edits by [[Special:Contribs/122.164.54.36|122.164.54.36]] ([[User talk:122.164.54.36|talk]]) to last version by Vensatry
+2017-06-18T10:03:06+00:00,786266528,786260950,0,Nprasanna,Tiruchirappalli International Airport,/* Trichy Airport Catchment Areas */
+2016-04-11T05:59:22+00:00,714679576,713878067,0,103.207.141.192,Tiruchirappalli International Airport,
+2017-03-08T16:27:54+00:00,769285492,768491641,0,213.105.78.226,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-04-25T12:41:36+00:00,777138293,776376789,0,110.227.240.61,Tiruchirappalli International Airport,Undid revision 776022676 by [[Special:Contributions/5.21.251.192|5.21.251.192]] ([[User talk:5.21.251.192|talk]])
+2016-03-23T18:36:18+00:00,711576604,710450204,0,Trinidade,Tiruchirappalli International Airport,Reverted 1 edit by [[Special:Contributions/175.142.208.116|175.142.208.116]] ([[User talk:175.142.208.116|talk]]): Non-notable. ([[WP:TW|TW]])
+2016-06-08T05:38:03+00:00,724272924,724178855,0,49.205.145.244,Tiruchirappalli International Airport,
+2017-04-16T17:30:55+00:00,775717791,774736151,0,2405:205:8408:1E33:23B2:EE74:8536:8C05,Tiruchirappalli International Airport,/* Passenger */
+2017-06-19T20:30:37+00:00,786493165,786493160,0,Oshwah,Tiruchirappalli International Airport,Adding {{pp-dispute}} ([[WP:TW|TW]])
+2016-04-06T09:45:56+00:00,713878067,713877965,0,Vijay8808,Tiruchirappalli International Airport,/* Other facilities */
+2017-04-20T16:52:15+00:00,776376789,776036826,0,157.51.57.193,Tiruchirappalli International Airport,Consonat
+2017-01-26T18:22:09+00:00,762108151,762108002,0,MusikBot,Tiruchirappalli International Airport,removing {{pp-vandalism}} as page is not edit-protected
+2017-02-15T16:11:19+00:00,765642404,765641976,0,49.205.140.38,Tiruchirappalli International Airport,/* Airlines and destinations */
+2017-01-28T09:19:56+00:00,762362453,762219814,0,37.16.236.126,Tiruchirappalli International Airport,
+2016-05-29T10:28:07+00:00,722645708,718257373,0,49.204.132.155,Tiruchirappalli International Airport,
+2016-11-29T20:09:06+00:00,752154563,750985580,0,Roland zh,Tirupati Airport,added [[Category:Transport in Chittoor district]] using [[WP:HC|HotCat]]
+2016-08-12T12:12:59+00:00,734141385,728826301,0,VasuVR,Tuticorin Airport,"/* top */ add TN map too, to infobox"
+2017-03-07T05:33:58+00:00,769037007,769036959,0,220.225.117.57,Tuticorin Airport,/* Structure */
+2017-02-18T12:47:06+00:00,766137029,763272838,0,37.217.78.1,Tuticorin Airport,
+2016-06-17T12:30:31+00:00,725720308,725689622,0,DYKUpdateBot,User talk:Vensatry,Giving DYK credit for [[List of Sahitya Akademi Award winners for Tamil]] on behalf of [[User:Maile66|Maile66]]
+2017-01-24T05:13:02+00:00,761677737,759957404,0,66.96.196.187,Veer Savarkar International Airport,/* Airlines and destinations */
+2017-01-04T22:16:10+00:00,758349104,756501378,0,144.49.131.1,Vijayawada Airport,Added the interim terminal information.
+2017-01-17T07:14:51+00:00,760481657,760480885,0,Vin09,Vijayawada Airport,"Undid revision 760480885 by [[Special:Contributions/49.206.85.42|49.206.85.42]] ([[User talk:49.206.85.42|talk]])add present operations, [[WP:NOTTRAVEL]]"
+2017-03-03T19:52:44+00:00,768435549,768435299,0,Bharath9512,Vijayawada Airport,Changed description of previous change made by me
+2017-01-13T08:28:16+00:00,759812427,759811543,0,Trinidade,Vijayawada Airport,"Name change is not official, cannot be put in the lede; rm incorrect parameter in infobox"
+2016-12-29T14:59:32+00:00,757228108,756516921,0,122.169.232.62,Visakhapatnam Airport,/* Airlines and destinations */
+2016-07-22T11:43:40+00:00,731020155,730792367,0,123.236.150.154,Visakhapatnam Airport,
+2016-04-22T02:15:59+00:00,716498085,716212586,0,175.101.68.95,Visakhapatnam Airport,/* Passenger */
+2017-05-16T14:30:25+00:00,780670493,780670153,0,MusikBot,Visakhapatnam Airport,Removing protection templates from unprotected page
+2017-01-08T18:49:21+00:00,758999660,758928506,0,122.175.15.3,Visakhapatnam Airport,VTZ is a customs airport
+2016-09-18T07:19:05+00:00,739968995,739968969,0,Anirudh Emani,Visakhapatnam Airport,
+2017-04-05T12:21:53+00:00,773953994,773814582,0,106.220.11.87,Visakhapatnam Airport,"/* Airlines and destinations */Source: Trujet website, schedules. http://www.trujet.com/ebooking/Trip/FlightTimeTable."
+2016-10-11T17:08:04+00:00,743854622,743821796,0,223.182.44.43,Visakhapatnam Airport,/* Airlines and destinations */
+2017-02-19T04:43:20+00:00,766256823,766256168,0,106.77.164.47,Visakhapatnam Airport,/* Airlines and Destinations */
+2016-06-19T01:42:29+00:00,725963392,725919928,0,HkCaGu,Zayed International Airport,Undid revision 725919928 by [[Special:Contributions/117.248.187.191|117.248.187.191]] ([[User talk:117.248.187.191|talk]]) INDIA STATISTICS VANDAL

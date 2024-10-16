@@ -1,0 +1,333 @@
+timestamp,revid,parentid,sock,user,page,message
+2019-11-17T17:29:14+00:00,926625546,926625523,1,Lepss,X Factor (Czech TV series),/* Первый Сезон */
+2019-11-17T17:29:05+00:00,926625523,926625460,1,Lepss,X Factor (Czech TV series),
+2019-11-17T17:28:40+00:00,926625460,926625439,1,Lepss,X Factor (Czech TV series),
+2019-11-17T17:28:31+00:00,926625439,926625429,1,Lepss,X Factor (Czech TV series),
+2019-11-17T17:28:20+00:00,926625429,926625402,1,Lepss,X Factor (Czech TV series),
+2019-11-17T17:28:09+00:00,926625402,926625377,1,Lepss,X Factor (Czech TV series),
+2019-11-17T17:27:57+00:00,926625377,926625347,1,Lepss,X Factor (Czech TV series),
+2019-11-17T17:27:44+00:00,926625347,917558838,1,Lepss,X Factor (Czech TV series),
+2019-11-17T17:00:32+00:00,926622135,926620968,1,Lepss,Rising Star (Hungarian TV series),
+2019-11-17T15:06:58+00:00,926609088,926608605,1,Lepss,X Factor (Icelandic TV series),/* Первый Сезон */
+2019-11-17T15:02:41+00:00,926608605,926608595,1,Lepss,X Factor (Icelandic TV series),
+2019-11-17T15:02:33+00:00,926608595,926608581,1,Lepss,X Factor (Icelandic TV series),
+2019-11-17T15:02:24+00:00,926608581,926608564,1,Lepss,X Factor (Icelandic TV series),
+2019-11-17T15:02:12+00:00,926608564,881228559,1,Lepss,X Factor (Icelandic TV series),
+2019-11-17T15:00:22+00:00,926608379,926608361,1,Lepss,The Voice Magyarország,
+2019-11-17T15:00:12+00:00,926608361,926608316,1,Lepss,The Voice Magyarország,
+2019-11-17T14:59:53+00:00,926608316,926607894,1,Lepss,The Voice Magyarország,
+2019-11-17T13:12:28+00:00,926597732,926597408,1,Lepss,The Voice Magyarország,
+2019-11-17T13:08:55+00:00,926597408,926596178,1,Lepss,The Voice Magyarország,/* Обзор Сезонов */
+2019-11-17T12:55:18+00:00,926596178,926595719,1,Lepss,The Voice Magyarország,/* Выпуск Первый (28 сентября) */
+2019-11-17T12:50:18+00:00,926595719,926595607,1,Lepss,The Voice Magyarország,/* Выпуск Первый (28 сентября) */
+2019-11-17T12:49:14+00:00,926595607,926595539,1,Lepss,The Voice Magyarország,
+2019-11-17T12:48:33+00:00,926595539,926595275,1,Lepss,The Voice Magyarország,/* Выпуск Первый (28 сентября) */
+2019-11-17T12:45:56+00:00,926595275,926594867,1,Lepss,The Voice Magyarország,/* Первый Сезон */
+2019-11-17T12:41:24+00:00,926594867,926594439,1,Lepss,The Voice Magyarország,/* Выпуск Первый (28 сентября) */
+2019-11-17T12:33:42+00:00,926594226,926594194,1,Lepss,The Voice Magyarország,/* Выпуск Первый (28 сентября) */
+2019-11-17T12:33:15+00:00,926594194,926593957,1,Lepss,The Voice Magyarország,/* Episode 1 (October 12) */
+2019-11-17T12:30:25+00:00,926593957,926593623,1,Lepss,The Voice Magyarország,/* Первый Сезон */
+2019-11-17T12:26:46+00:00,926593623,926593322,1,Lepss,The Voice Magyarország,/* Первый Сезон */
+2019-11-17T12:23:47+00:00,926593322,926593175,1,Lepss,The Voice Magyarország,/* Первый Сезон */
+2019-11-17T12:22:18+00:00,926593175,926593072,1,Lepss,The Voice Magyarország,/* Первый Сезон */
+2019-11-17T12:21:16+00:00,926593072,926592426,1,Lepss,The Voice Magyarország,/* Первый Сезон */
+2019-11-17T12:15:18+00:00,926592426,926592255,1,Lepss,The Voice Magyarország,/* Первый Сезон */
+2019-11-17T12:12:53+00:00,926592255,926591808,1,Lepss,The Voice Magyarország,/* Первый Сезон */
+2019-11-17T12:07:48+00:00,926591808,926590097,1,Lepss,The Voice Magyarország,/* Первый Сезон */
+2019-11-17T11:51:36+00:00,926590097,926590060,1,Lepss,The Voice Magyarország,
+2019-11-17T11:51:20+00:00,926590060,926590016,1,Lepss,The Voice Magyarország,
+2019-11-17T11:51:02+00:00,926590016,926565595,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-17T07:10:07+00:00,926565595,926563629,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-15T06:49:41+00:00,926267522,926266791,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-15T06:41:48+00:00,926266791,926266480,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-15T06:38:51+00:00,926266480,926258672,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-15T05:24:30+00:00,926258672,926146167,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-14T14:46:22+00:00,926146167,926145631,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-14T14:41:35+00:00,926145631,925647251,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-13T14:50:07+00:00,925980612,925599330,1,Lepss,The Voice (Australian TV series),/* Series overview */
+2019-11-13T14:39:32+00:00,925979373,925825996,1,Lepss,The Voice (Singaporean and Malaysian TV series),"/* Пой,Россия.Дети! */"
+2019-11-13T14:29:37+00:00,925978217,915465574,1,Lepss,The Voice Česko Slovensko,/* Series overview */
+2019-11-12T12:27:57+00:00,925804614,924333381,1,Lepss,The Voice (Singaporean and Malaysian TV series),"/* Пой,Россия! */"
+2019-11-12T10:30:45+00:00,925793813,925792917,1,Lepss,The Voice Thailand,/* Series overview */
+2019-11-12T10:18:52+00:00,925792917,923374614,1,Lepss,The Voice Thailand,/* Series overview */
+2019-11-12T10:09:49+00:00,925792121,924254202,1,Lepss,The Voice Nigeria,/* Season summary */
+2019-11-10T16:25:33+00:00,925513148,925513081,1,Lepss,The Voice (Russian TV series),/* Season 8 (2019–2020) */
+2019-11-10T16:24:56+00:00,925513081,925512995,1,Lepss,The Voice (Russian TV series),/* Coaches timeline */
+2019-11-10T16:24:08+00:00,925512995,924924064,1,Lepss,The Voice (Russian TV series),/* Series overview */
+2019-11-10T16:22:05+00:00,925512736,925512585,1,Lepss,The Voice Senior (Russian TV series),/* Series overview */
+2019-11-10T16:20:48+00:00,925512585,925512528,1,Lepss,The Voice Senior (Russian TV series),/* Coaches timeline */
+2019-11-10T16:20:26+00:00,925512528,925490995,1,Lepss,The Voice Senior (Russian TV series),/* Season 2 */
+2019-11-10T16:00:55+00:00,925510285,925502124,1,Lepss,The Voice (franchise),
+2019-11-06T14:30:12+00:00,924882849,924877187,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-06T13:45:23+00:00,924877187,924511972,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-04T07:02:30+00:00,924502715,924391129,1,Lepss,The Voice of the Philippines,/* Seasons summary */
+2019-11-03T10:25:25+00:00,924355613,923897512,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-11-03T05:50:38+00:00,924333381,921603177,1,Lepss,The Voice (Singaporean and Malaysian TV series),"/* Пой,Россия! */"
+2019-11-03T05:35:13+00:00,924332067,922261609,1,Lepss,The Voice of Italy,/* Season summary */
+2019-11-03T04:35:42+00:00,924326519,917815449,1,Lepss,Nikolay Baskov,
+2019-11-01T17:04:23+00:00,924075437,923153114,1,Lepss,The Voice of Poland,/* Season summary */
+2019-10-31T14:08:00+00:00,923897512,923897130,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-10-31T13:57:39+00:00,923896385,923392820,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-10-29T08:18:20+00:00,923554792,922959791,1,Lepss,The Voice Kids (Russian TV series),/* Series overview */
+2019-10-27T18:39:57+00:00,923307699,923307652,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-10-27T18:39:39+00:00,923307652,922999609,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-10-27T05:22:34+00:00,923225495,923225461,1,Lepss,The Voice Senior (Russian TV series),/* Coaches timeline */
+2019-10-27T05:22:08+00:00,923225461,920585182,1,Lepss,The Voice Senior (Russian TV series),/* Series overview */
+2019-10-27T05:10:27+00:00,923224651,923224381,1,Lepss,The Voice Kids (French TV series),/* Series overview */
+2019-10-27T05:06:47+00:00,923224381,923221298,1,Lepss,The Voice Kids (French TV series),/* Series overview */
+2019-10-26T10:09:27+00:00,923096818,923096726,1,Lepss,The Voice (Russian TV series) season 8,
+2019-10-26T10:08:26+00:00,923096726,923096703,1,Lepss,The Voice (Russian TV series) season 8,/* Teamsбчтатаоо */
+2019-10-26T10:08:03+00:00,923096703,923096625,1,Lepss,The Voice (Russian TV series) season 8,/* Teams */
+2019-10-26T10:06:56+00:00,923096625,923096577,1,Lepss,The Voice (Russian TV series) season 8,/* Coaches and presenter */
+2019-10-26T10:06:27+00:00,923096577,923096559,1,Lepss,The Voice (Russian TV series) season 8,
+2019-10-26T10:06:15+00:00,923096559,922717594,1,Lepss,The Voice (Russian TV series) season 8,
+2019-10-25T17:40:05+00:00,922999609,919465368,1,Lepss,The Voice Magyarország,/* Series overview */
+2019-10-02T11:13:17+00:00,919199184,918610729,1,Lepss,La Voz Kids (American TV series),/* Series overview */
+2019-09-30T09:57:04+00:00,918792348,918722346,1,Lepss,The Voice of Greece season 6,/* Teams */
+2019-09-29T14:52:31+00:00,918610729,918447453,1,Lepss,La Voz Kids (American TV series),/* Series overview */
+2019-09-28T18:22:30+00:00,918447453,914420717,1,Lepss,La Voz Kids (American TV series),/* Series overview */
+2019-09-28T14:19:28+00:00,918407144,916432592,1,Lepss,The Voice (Singaporean and Malaysian TV series),"/* Пой,Россия.Дети! */"
+2019-09-28T12:11:58+00:00,918387941,918284605,1,Lepss,The Voice Kids (British TV series),/* Series overview */
+2019-09-28T12:09:36+00:00,918387629,918386880,1,Lepss,The Voice UK,/* Series overview */
+2019-09-27T10:57:09+00:00,918173010,917957915,1,Lepss,The Voice Kids (British TV series),/* Series overview */
+2019-09-27T10:53:27+00:00,918172314,918172301,1,Lepss,The Voice UK,/* Series overview */
+2019-09-27T10:52:12+00:00,918172139,918169550,1,Lepss,The Voice UK,/* Series overview */
+2020-03-29T12:33:31+00:00,947966725,945475374,1,Barabarakudsa,The Voice (Indian TV series),/* Series overview */
+2020-03-29T12:22:53+00:00,947965205,947861276,1,Barabarakudsa,The Voice India Kids,/* Season summary */
+2020-03-29T12:19:46+00:00,947964852,947964446,1,Barabarakudsa,The Voice (franchise),/* The Voice around the world */
+2020-03-29T12:16:01+00:00,947964446,947945061,1,Barabarakudsa,The Voice (franchise),/* The Voice around the world */
+2020-03-29T12:03:34+00:00,947962816,947962719,1,Barabarakudsa,The Voice of Afghanistan,
+2020-03-29T12:02:39+00:00,947962719,947962633,1,Barabarakudsa,The Voice of Afghanistan,
+2020-03-29T12:01:55+00:00,947962633,944211885,1,Barabarakudsa,The Voice of Afghanistan,/* Series overview */
+2020-03-29T11:58:16+00:00,947962253,947312341,1,Barabarakudsa,The Voice Chile,/* Season summary */
+2020-03-29T11:46:55+00:00,947960955,947526558,1,Barabarakudsa,Sing! China,/* Series overview */
+2020-03-29T09:26:13+00:00,947945427,945194326,1,Barabarakudsa,Voice – Danmarks største stemme,/* Season summary */
+2020-03-29T09:24:03+00:00,947945195,947532901,1,Barabarakudsa,The Voice Thailand,/* Series overview */
+2020-03-29T09:22:50+00:00,947945061,947944028,1,Barabarakudsa,The Voice (franchise),/* The Voice around the world */dead link removal
+2020-03-29T09:11:39+00:00,947944028,947943766,1,Barabarakudsa,The Voice (franchise),/* The Voice around the world */
+2020-03-29T09:09:06+00:00,947943766,947711307,1,Barabarakudsa,The Voice (franchise),/* The Voice around the world */
+2019-11-17T15:47:30+00:00,926613525,926612670,1,ShursBibik,Rising Star (Hungarian TV series),/* Первый Сезон */
+2019-11-17T15:39:14+00:00,926612670,926612571,1,ShursBibik,Rising Star (Hungarian TV series),
+2019-11-17T15:38:12+00:00,926612571,926611818,1,ShursBibik,Rising Star (Hungarian TV series),/* Выпуск Второй (29 сентября) */
+2019-11-17T15:31:25+00:00,926611818,926611701,1,ShursBibik,Rising Star (Hungarian TV series),/* Выпуск Второй (29 сентября) */
+2019-11-17T15:30:30+00:00,926611701,926611638,1,ShursBibik,Rising Star (Hungarian TV series),
+2019-11-17T15:29:59+00:00,926611638,926611600,1,ShursBibik,Rising Star (Hungarian TV series),
+2019-11-17T15:29:40+00:00,926611600,926611579,1,ShursBibik,Rising Star (Hungarian TV series),
+2019-11-17T15:29:29+00:00,926611579,887534381,1,ShursBibik,Rising Star (Hungarian TV series),
+2020-03-22T21:35:13+00:00,946864041,946829355,1,Uploadedhamaki,The Voice (Australian TV series),/* Series overview */
+2019-10-30T21:35:41+00:00,923803516,923001941,0,Gervoi,La Voz Kids (American TV series),/* Series overview */
+2019-11-17T17:17:57+00:00,926624228,926622135,0,AussieLegend,Rising Star (Hungarian TV series),Reverted 1 edit by [[Special:Contributions/Lepss|Lepss]] ([[User talk:Lepss|talk]]): Unnecessary whitespace ([[WP:TW|TW]])
+2019-03-13T06:45:57+00:00,887534381,882341489,0,Cydebot,Rising Star (Hungarian TV series),Robot - Speedily moving category Rising Star to [[:Category:Rising Star (franchise)]] per [[WP:CFDS|CFDS]].
+2019-12-09T22:04:37+00:00,930048730,923803516,0,190.188.180.116,La Voz Kids (American TV series),/* Series overview */
+2019-12-28T19:24:39+00:00,932881679,924326519,0,85.140.3.214,Nikolay Baskov,/* Discography */
+2020-02-11T14:08:05+00:00,940264451,940263744,0,2806:265:3404:1932:8505:C5B1:E41D:DC16,La Voz Kids (American TV series),/* Series overview */
+2019-12-23T04:47:33+00:00,932063067,931822620,0,Sebajunior213,La Voz Kids (American TV series),/* Series overview */LVK U.S. hasn’t been announced for a fifth season
+2019-09-28T09:43:15+00:00,918368436,918020660,0,101.161.3.198,The Voice (Australian TV series),/* Season 8 (2019) */
+2019-10-10T23:25:07+00:00,920628967,920478823,0,LMX97,Sing! China,/* Series overview */
+2020-03-21T16:09:58+00:00,946659675,946659582,0,2601:248:100:2560:AD36:9BAD:5C44:82C9,The Voice (Russian TV series),/* Series overview */
+2020-01-24T22:29:46+00:00,937420339,937420313,0,98.115.186.129,Sing! China,/* Series overview */
+2020-03-19T16:17:17+00:00,946346786,946219191,0,190.188.180.116,The Voice (Australian TV series),/* Series overview */
+2020-03-17T20:13:21+00:00,946057247,946015754,0,Tridwoxi,The Voice (Australian TV series),Reverted 1 good faith pending edit by [[Special:Contributions/2601:248:100:2560:6DD8:9226:6A1C:5C9D|2601:248:100:2560:6DD8:9226:6A1C:5C9D]] to revision 945561498 by 190.188.180.116: Fourth place could be useful
+2020-03-03T13:41:23+00:00,943706874,943653367,0,MrOllie,The Voice (Indian TV series),Reverted 1 edit by [[Special:Contributions/Viralamerica|Viralamerica]] ([[User talk:Viralamerica|talk]]) to last revision by GermanJoe ([[WP:TW|TW]])
+2019-12-11T12:52:34+00:00,930284963,930283687,0,77.34.27.141,The Voice (Russian TV series),/* Selection process and format */
+2019-11-05T02:24:05+00:00,924644334,924280432,0,Sebajunior213,The Voice (Russian TV series),/* Series overview */
+2019-11-13T19:46:08+00:00,926021391,926021108,0,Tall.5.ief,The Voice (Russian TV series),/* Season 8 (2019–2020) */
+2020-01-22T01:32:21+00:00,936954594,932422317,0,Fuddle,The Voice (Indian TV series),/* External links */ formatting: defaultsort-the (using [[User:Fuddle/Advisor-fuddle.js|Advisor+.js]])
+2019-10-14T01:24:27+00:00,921125439,921064830,0,86.102.29.131,The Voice (Russian TV series),/* Selection process and format */
+2020-01-26T19:30:25+00:00,937709875,937709698,0,46.188.123.6,The Voice (Russian TV series),/* Series overview */
+2020-02-16T15:10:32+00:00,941090878,941059560,0,No Great Shaker,The Voice (Australian TV series),Reverted 2 pending edits by [[Special:Contributions/121.218.163.63|121.218.163.63]] to revision 940186929 by Livelikemusic: no explanation
+2020-02-12T13:07:31+00:00,940422616,936222826,0,91.226.223.78,The Voice (Russian TV series) season 8,/* The Best Coach */
+2019-11-27T08:48:10+00:00,928175817,928169406,0,77.34.27.141,The Voice (Russian TV series) season 8,/* Rating */
+2019-10-27T09:02:58+00:00,923243993,923243420,0,Tall.5.ief,The Voice (Russian TV series) season 8,
+2019-10-23T21:08:25+00:00,922717594,922715914,0,Tall.5.ief,The Voice (Russian TV series) season 8,Undid revision 922461477 by [[Special:Contributions/94.140.141.5|94.140.141.5]] ([[User talk:94.140.141.5|talk]])
+2019-11-27T07:20:37+00:00,928167502,926608834,0,JJMC89 bot III,The Voice (Singaporean and Malaysian TV series),Moving [[:Category:The Voice (TV series)]] to [[:Category:The Voice (franchise)]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-01-17T13:21:43+00:00,936222826,935233790,0,77.34.102.39,The Voice (Russian TV series) season 8,/* The Best Coach */
+2019-12-30T21:34:38+00:00,933257904,933187934,0,Eggplants822,The Voice (Russian TV series) season 8,/* The Best Coach */
+2019-10-16T18:29:55+00:00,921603177,919856464,0,94.140.141.5,The Voice (Singaporean and Malaysian TV series),"/* Пой,Россия.Дети! */"
+2020-02-07T13:59:52+00:00,939599273,939531259,0,2601:248:100:2560:DCC0:E05A:B658:60B7,The Voice (franchise),/* The Voice around the world */
+2020-01-27T19:25:46+00:00,937875440,937852407,0,French20,The Voice (franchise),
+2019-10-10T16:28:40+00:00,920573212,920530231,0,Gervoi,The Voice (franchise),
+2019-12-22T07:22:48+00:00,931927933,931885099,0,Sebajunior213,The Voice (franchise),"/* The Voice around the world */Mark Forster was announced that his last seasons coaching were S7 for kids, S1 for senior and S9 for adult + in Mexican series coaches  for adult version are the same for senior."
+2020-01-17T01:32:49+00:00,936158193,936140403,0,Sebajunior213,The Voice (franchise),/* The Voice around the world */New page from LVK Mexico
+2019-11-09T12:49:04+00:00,925336646,925325513,0,Ayeespino,The Voice (franchise),/* The Voice around the world */Season 7 confirmed for Vietnamese regular version cause casting is happening already
+2020-02-05T23:11:34+00:00,939353860,939353778,0,Ayeespino,The Voice (franchise),/* Spin-offs and non-televised shows */
+2020-01-28T01:14:01+00:00,937921067,937920774,0,Sebajunior213,The Voice (franchise),/* The Voice around the world */
+2020-02-12T03:38:04+00:00,940366273,940294143,0,Sebajunior213,The Voice (franchise),"/* Multi-franchise coaches */New coach of La Voz Kids Mexico, Paty Cantú also served in Ecuador."
+2020-01-31T17:32:46+00:00,938511811,938412632,0,French20,The Voice (franchise),
+2019-11-27T07:19:08+00:00,928167301,927856817,0,JJMC89 bot III,The Voice Chile,Moving [[:Category:The Voice (TV series)]] to [[:Category:The Voice (franchise)]] per [[Wikipedia:Categories for discussion/Speedy]]
+2019-09-27T11:26:10+00:00,918177802,916218100,0,203.88.145.157,The Voice India Kids,/* Coaches */
+2020-01-29T08:31:28+00:00,938128987,938045199,0,2A01:E35:2E33:BA60:4403:E803:2362:CCE8,The Voice (franchise),/* Contestants who became coaches */
+2019-10-05T01:23:32+00:00,919671109,919670733,0,Sebajunior213,The Voice (franchise),/* The Voice around the world */
+2020-01-15T13:28:42+00:00,935902716,935729535,0,98.115.186.129,The Voice India Kids,/* Season 3 (2020) */
+2020-02-04T15:06:26+00:00,939128547,939128469,0,Darrendeans,The Voice Kids (British TV series),
+2019-10-10T11:53:06+00:00,920535540,920535268,0,2001:8A0:FEBB:2E01:E171:DE43:9725:1741,The Voice Kids (British TV series),/* Timeline of coaches */
+2020-02-08T18:36:23+00:00,939786591,939128547,0,Gervoi,The Voice Kids (British TV series),
+2020-01-02T19:57:15+00:00,933741644,933631817,0,Gervoi,The Voice Kids (British TV series),/* Series overview */
+2019-10-22T02:11:08+00:00,922427559,922122266,0,Moscow Connection,The Voice Kids (French TV series),wikification
+2019-10-25T12:07:30+00:00,922959791,920997727,0,86.102.8.179,The Voice Kids (Russian TV series),/* Coaches */
+2020-03-26T21:50:59+00:00,947532473,947532424,0,Barabarakuds,The Voice Kids (Russian TV series),/* Coaches and presenters */
+2020-02-09T20:23:47+00:00,939972026,939765709,0,French20,The Voice Kids (French TV series),
+2020-01-19T15:54:06+00:00,936548752,936544461,0,AussieLegend,The Voice Magyarország,Reverted edits by [[Special:Contribs/178.122.105.229|178.122.105.229]] ([[User talk:178.122.105.229|talk]]) to last version by 98.115.186.129
+2019-10-03T21:33:29+00:00,919465368,919299165,0,73.58.156.203,The Voice Magyarország,/* Season summary */
+2020-01-31T04:42:35+00:00,938435815,938087576,0,190.188.180.116,The Voice Magyarország,/* Series overview */
+2019-11-27T07:19:28+00:00,928167354,927281537,0,JJMC89 bot III,The Voice Magyarország,Moving [[:Category:The Voice (TV series)]] to [[:Category:The Voice (franchise)]] per [[Wikipedia:Categories for discussion/Speedy]]
+2019-11-21T13:28:22+00:00,927281537,927281518,0,CAPTAIN RAJU,The Voice Magyarország,Reverted edits by [[Special:Contributions/176.59.199.11|176.59.199.11]] ([[User talk:176.59.199.11|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2019-11-25T05:46:21+00:00,927856220,927691490,0,190.188.180.116,The Voice Kids (French TV series),/* Series overview */
+2019-12-31T03:26:51+00:00,933301911,933256723,0,190.188.180.116,The Voice Kids (French TV series),/* Coaches */
+2020-01-12T00:50:02+00:00,935333745,928167354,0,98.115.186.129,The Voice Magyarország,/* Series overview */ Season 2 of The Voice Hungary isn't fully confirmed but keep your fingers crossed
+2019-11-17T15:09:08+00:00,926609297,926608379,0,AussieLegend,The Voice Magyarország,Reverted 3 edits by [[Special:Contributions/Lepss|Lepss]] ([[User talk:Lepss|talk]]): Unexplained conversion to Hungarian again - Editor has been warned about this ([[WP:TW|TW]])
+2019-09-10T15:04:10+00:00,914986097,914985527,0,178.127.87.51,The Voice Magyarország,/* Season summary */
+2019-11-04T08:57:12+00:00,924511972,924355613,0,178.121.198.87,The Voice Magyarország,/* Series overview */
+2020-01-29T01:31:55+00:00,938087576,938087469,0,76.16.198.98,The Voice Magyarország,/* Series overview */
+2020-03-02T04:12:36+00:00,943491195,943349392,0,Giraffedata,The Voice Nigeria,[[User:Giraffedata/comprised of|comprised of]]
+2019-12-03T17:52:50+00:00,929101936,929101857,0,Taymeedeeray,The Voice Nigeria,Undid revision 929101857 by [[Special:Contributions/Taymeedeeray|Taymeedeeray]] ([[User talk:Taymeedeeray|talk]])
+2020-03-14T19:39:50+00:00,945563309,943776277,0,190.188.180.116,The Voice Senior (Russian TV series),/* Series overview */
+2019-09-28T18:02:45+00:00,918444419,916825424,0,Gervoi,The Voice Senior (Russian TV series),/* Series overview */
+2020-01-12T01:42:03+00:00,935340730,935032806,0,2601:248:100:2560:D4CD:B3F1:B48D:608D,The Voice Senior (Russian TV series),/* Series overview */
+2019-12-18T23:46:14+00:00,931449312,931449256,0,2601:248:100:2560:DCC0:E05A:B658:60B7,The Voice Senior (Russian TV series),/* Series overview */
+2019-12-11T05:06:58+00:00,930244844,929557056,0,Sebajunior213,The Voice Senior (Russian TV series),/* Series overview */Season 3 not yet announced
+2019-11-10T12:48:40+00:00,925490995,925490818,0,80.83.234.39,The Voice Senior (Russian TV series),/* Series overview */Do not change colours.
+2019-12-06T16:26:04+00:00,929557056,925512736,0,178.122.214.99,The Voice Senior (Russian TV series),/* Series overview */
+2020-03-26T21:54:12+00:00,947532901,947532000,0,98.115.186.129,The Voice Thailand,/* The Voice Senior Thailand */
+2020-02-02T23:21:15+00:00,938882320,938849871,0,Faguilmette,The Voice Thailand,Fixed vandalism
+2019-10-06T16:49:19+00:00,919917374,919917128,0,37.214.78.99,The Voice Thailand,/* Coaches */
+2019-12-15T15:12:40+00:00,930876501,929741910,0,HeyJude27,The Voice Thailand,/* Series overview */
+2020-03-20T21:02:27+00:00,946542789,946070172,0,Cewbot,The Voice Thailand,bot: Convert [[Songsit Rungnopakunsi]] to wikilink
+2019-10-13T23:13:41+00:00,921109006,921104517,0,Livelikemusic,The Voice UK,
+2019-12-21T14:40:35+00:00,931830456,931698562,0,Livelikemusic,The Voice UK,"Does not need to be bold, nor italicized."
+2019-12-25T18:55:02+00:00,932412804,932409550,0,TheGoodAndHolyLord,The Voice UK,Reverted 1 edit by [[Special:Contributions/86.142.247.155|86.142.247.155]] ([[User talk:86.142.247.155|talk]]) to last revision by Bender the Bot
+2020-01-09T00:53:17+00:00,934876482,934868905,0,Livelikemusic,The Voice UK,Reverted 1 edit by [[Special:Contributions/2601:248:100:2560:340E:7936:A5A0:BFFB|2601:248:100:2560:340E:7936:A5A0:BFFB]] ([[User talk:2601:248:100:2560:340E:7936:A5A0:BFFB|talk]]) to last revision by Anomalocaris ([[WP:TW|TW]])
+2020-02-05T02:06:14+00:00,939214416,936130702,0,98.115.186.129,The Voice of Afghanistan,2015: Did Tolo TV lose the right to the 'Voice' franchise? 2020: Waiting for a reboot in Afghanistan
+2019-12-23T18:45:09+00:00,932138760,928167252,0,Why is this a username?,The Voice of Afghanistan,"Adding [[Wikipedia:Short description|short description]]: ""Afghan reality talent show"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-02-12T10:05:38+00:00,940402840,940358024,0,TheMysteriousEditor,The Voice UK,Undid revision 940358024 by [[Special:Contributions/2601:248:100:2560:DCC0:E05A:B658:60B7|2601:248:100:2560:DCC0:E05A:B658:60B7]] ([[User talk:2601:248:100:2560:DCC0:E05A:B658:60B7|talk]])
+2019-10-03T21:09:50+00:00,919461945,919461658,0,CycloneYoris,The Voice UK,Reverted 1 pending edit by [[Special:Contributions/73.58.156.203|73.58.156.203]] to revision 919028016 by Livelikemusic: Unexplained edit.
+2019-10-15T02:10:52+00:00,921313865,918402616,0,Monkbot,The Voice of Afghanistan,/* top */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/1×); skipped: unrecognized periodical (1×);
+2020-01-16T21:38:40+00:00,936130702,935975194,0,Le Deluge,The Voice of Afghanistan,/* References */ Disable non-existed categories per [[WP:REDNOT]]
+2020-03-01T15:42:25+00:00,943379567,939214416,0,2601:248:100:2560:7CB5:74F2:BFF:E919,The Voice of Afghanistan,/* Series overview */
+2020-01-26T01:35:58+00:00,937600382,937600214,0,Salonikaplps,The Voice of Greece season 6,/* Elimination chart */
+2020-01-14T00:04:17+00:00,935665651,935665346,0,2601:248:100:2560:DCC0:E05A:B658:60B7,The Voice of Italy,/* Coaches' teams and their finalists */
+2020-02-20T22:27:10+00:00,941826387,940166323,0,2001:8A0:DFCC:E801:557D:E350:38CA:D160,The Voice of Italy,/* Season summary */
+2020-02-14T16:04:39+00:00,940780681,938971483,0,83.31.152.127,The Voice of Poland,
+2020-02-23T16:18:05+00:00,942257596,942257524,0,185.5.165.205,The Voice of Poland,/* Season summary */
+2020-02-15T05:04:54+00:00,940877827,939911018,0,Renzoy16,The Voice of the Philippines,/* Seasons summary */
+2019-09-13T12:39:31+00:00,915465574,915465466,0,2601:248:103:4A8F:A1E0:ACA0:87FF:DFA9,The Voice Česko Slovensko,/* Series overview */
+2019-10-01T03:13:10+00:00,918962344,910350459,0,Monkbot,Voice – Danmarks største stemme,/* Season 1 (2011-12) */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2019-11-27T07:19:20+00:00,928167331,921564459,0,JJMC89 bot III,Voice – Danmarks største stemme,Moving [[:Category:The Voice (TV series)]] to [[:Category:The Voice (franchise)]] per [[Wikipedia:Categories for discussion/Speedy]]
+2019-11-27T07:19:18+00:00,928167326,925978217,0,JJMC89 bot III,The Voice Česko Slovensko,Moving [[:Category:The Voice (TV series)]] to [[:Category:The Voice (franchise)]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-02-22T16:57:30+00:00,942104413,940877827,0,RioHondo,The Voice of the Philippines,Add link
+2019-11-17T17:40:38+00:00,926627086,926625546,0,AussieLegend,X Factor (Czech TV series),"Reverted 8 edits by [[Special:Contributions/Lepss|Lepss]] ([[User talk:Lepss|talk]]): Rvv - editor persistently converting articles from English to Hungarian, even after warniings ([[WP:TW|TW]])"
+2019-09-24T11:15:45+00:00,917558838,881414831,0,Onel5969,X Factor (Czech TV series),Disambiguating links to [[Sway]] (link changed to [[Sway (Luis Demetrio song)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-02-19T13:21:31+00:00,941584035,926627086,0,WOSlinker,X Factor (Czech TV series),fix small tags
+2019-02-01T06:20:44+00:00,881228559,859870561,0,Eric abiog,X Factor (Icelandic TV series),/* References */
+2019-11-17T15:13:36+00:00,926609775,926609088,0,AussieLegend,X Factor (Icelandic TV series),Reverted 5 edits by [[Special:Contributions/Lepss|Lepss]] ([[User talk:Lepss|talk]]): Editor inexplicably converting articlkes from English into Hungarian ([[WP:TW|TW]])
+2019-04-27T00:39:38+00:00,894306171,894036472,0,173.59.126.236,La Voz Kids (American TV series),
+2020-03-07T20:33:49+00:00,944432473,940264451,0,Catironic9013,La Voz Kids (American TV series),/* Series overview */
+2020-01-25T15:07:30+00:00,937519299,936907700,0,190.94.123.55,La Voz Kids (American TV series),/* Series overview */
+2020-03-19T03:35:12+00:00,946269787,944432473,0,Catironic9013,La Voz Kids (American TV series),/* Coaches and hosts */
+2019-03-17T18:15:16+00:00,888216837,881554027,0,109.184.22.105,Nikolay Baskov,Add the age to the infobox
+2019-03-19T22:21:07+00:00,888556749,881970516,0,173.59.126.236,La Voz Kids (American TV series),
+2019-08-14T03:11:59+00:00,910737904,910526326,0,Age20035,Nikolay Baskov,
+2020-02-10T10:15:25+00:00,940068150,932881679,0,2001:A61:2B09:B901:1419:A0E9:5621:8C08,Nikolay Baskov,
+2019-02-08T12:23:39+00:00,882341489,868645851,0,Hugo999,Rising Star (Hungarian TV series),added [[Category:2010s Hungarian television series]] using [[WP:HC|HotCat]]
+2018-10-08T14:35:34+00:00,863069863,863069596,0,DerricktanJCW,Sing! China,
+2019-06-19T03:35:08+00:00,902478781,902389155,0,2001:8003:6136:6F00:1476:933B:410B:B954,The Voice (Australian TV series),/* Coaches' teams */
+2020-03-01T16:34:40+00:00,943386349,943386257,0,178.127.49.94,The Voice (Australian TV series),/* Coaches' teams */
+2019-12-03T18:03:46+00:00,929103318,920628967,0,2601:640:8300:E1E0:D408:2420:1619:9A90,Sing! China,
+2019-06-24T11:54:50+00:00,903229553,903229394,0,DerricktanJCW,Sing! China,/* Coaches */
+2019-02-09T14:32:13+00:00,882495925,882495888,0,122.161.216.72,The Voice (Indian TV series),/* Series overview */
+2019-05-06T20:26:02+00:00,895839942,863069863,0,Giingerjoy,Sing! China,
+2019-05-27T13:24:21+00:00,899034725,899021706,0,2001:8003:6136:6F00:A992:A5A7:D343:1575,The Voice (Australian TV series),/* Production */
+2020-02-06T18:22:41+00:00,939476992,939460543,0,GermanJoe,The Voice (Indian TV series),"Undid revision 939460543 by [[Special:Contributions/Divyansh972|Divyansh972]] ([[User talk:Divyansh972|talk]]) fake self-promotion, block evasion"
+2019-11-09T15:27:48+00:00,925352655,925352446,0,Johand199,The Voice (Australian TV series),Undid revision 925352446 by [[Special:Contributions/90.253.246.69|90.253.246.69]] ([[User talk:90.253.246.69|talk]]): Identified as test/vandalism using [[:m:WikiLoop Battlefield]](version 2.2.0-beta). See it or provide your opinion at http://battlefield.wikiloop.org/marked?wikiRevId=enwiki:925352446
+2019-06-30T15:32:34+00:00,904190857,903782172,0,2001:8A0:FEBB:2E01:2C83:4D8F:3A84:AC7A,The Voice (Australian TV series),/* Coaches' teams */
+2019-03-31T08:24:37+00:00,890268485,890121676,0,5.11.107.126,The Voice (Indian TV series),
+2020-03-25T09:53:18+00:00,947271297,947147141,0,109.120.52.246,The Voice (Russian TV series),/* Series overview */
+2020-01-03T07:14:38+00:00,933831874,933653644,0,183.91.2.37,The Voice (Russian TV series) season 8,/* The Best Coach */
+2019-04-28T13:15:17+00:00,894528563,894528513,0,2A01:E0A:144:5220:3023:1AAD:3F40:F82,The Voice (Russian TV series),/* Series overview */
+2019-03-16T04:18:34+00:00,887986642,885077459,0,Kennykenny96,The Voice (Russian TV series),/* Coaches timeline */
+2019-08-08T09:06:21+00:00,909891866,909499967,0,37.193.137.88,The Voice (Russian TV series),/* Coaches timeline */
+2020-01-11T10:34:07+00:00,935233790,934373955,0,Paparazzibengl,The Voice (Russian TV series) season 8,/* The Best Coach */
+2019-02-10T23:35:49+00:00,882726546,862257220,0,Creator2790,The Voice (Singaporean and Malaysian TV series),/* Season overview */
+2019-06-16T17:17:20+00:00,902114837,901968915,0,PietroMan,The Voice (franchise),/* The Voice around the world */
+2019-04-18T14:18:49+00:00,893030495,893016083,0,83.6.240.136,The Voice (franchise),/* The Voice around the world */Added
+2020-01-02T02:32:27+00:00,933615800,933575404,0,36.75.143.117,The Voice (franchise),/* Stage Design */
+2019-11-12T03:33:00+00:00,925757383,925366997,0,Sea29,The Voice (Russian TV series) season 8,
+2019-11-11T12:57:19+00:00,925650118,925649256,0,Yosua1010101,The Voice (franchise),/* Live Shows Twists */
+2020-02-14T06:09:45+00:00,940726444,940675830,0,74.89.178.182,The Voice (franchise),/* The Voice around the world */ There will be a link for Season 18 of the U.S. version!
+2019-04-23T21:05:54+00:00,893831352,893792692,0,Huguii-7100,The Voice (franchise),/* The Voice around the world */
+2019-04-07T19:11:16+00:00,891404892,891276301,0,Topgral,The Voice (franchise),/* The Voice around the world */
+2019-06-13T07:53:07+00:00,901635273,901577335,0,Kennykenny96,The Voice (franchise),/* The Voice around the world */
+2019-03-10T15:30:50+00:00,887094881,886955807,0,Yosua1010101,The Voice (franchise),/* Knockouts Twists */
+2019-11-01T21:52:46+00:00,924112416,924112204,0,Huguii-7100,The Voice (franchise),/* The Voice around the world */
+2019-04-16T01:24:23+00:00,892659852,892659692,0,118.71.219.202,The Voice (franchise),/* Format variations */
+2019-06-24T04:56:35+00:00,903190914,903190687,0,186.206.165.127,The Voice (franchise),/* Multi-franchise coaches */
+2019-04-03T07:11:04+00:00,890741114,890452529,0,Pepperbeast,The Voice Chile,/* Format */ Preposition patrol!
+2019-10-15T22:35:58+00:00,921470326,921470282,0,181.226.165.33,The Voice Chile,/* Season summary */
+2019-09-05T23:12:56+00:00,914222188,913607463,0,Hris Asnv,The Voice Chile,/* Season summary */
+2019-07-12T14:39:55+00:00,905944028,905943942,0,Zachary Schr,The Voice India Kids,Reverted 2 edits by [[Special:Contributions/2405:204:B009:2DBD:D8B0:90BB:DDF8:2C61|2405:204:B009:2DBD:D8B0:90BB:DDF8:2C61]] ([[User talk:2405:204:B009:2DBD:D8B0:90BB:DDF8:2C61|talk]]) to last revision by 182.68.96.105 ([[WP:TW|TW]])
+2019-11-22T21:17:33+00:00,927497387,926649330,0,Uziel302,The Voice India Kids,contestants.The->contestants. The - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2019-09-17T18:00:13+00:00,916218100,915731238,0,203.187.194.251,The Voice India Kids,/* Season 3 (2019) */
+2019-04-23T14:27:20+00:00,893779477,893779404,0,Ravensfire,The Voice India Kids,/* Judges */ alpha
+2019-04-01T14:47:19+00:00,890467222,890466276,0,ImSonyR9,The Voice India Kids,
+2019-01-26T17:50:44+00:00,880302702,880015518,0,98.15.245.30,The Voice Kids (British TV series),
+2020-01-10T01:12:52+00:00,935029243,935029239,0,Deepfriedokra,The Voice Kids (British TV series),Adding {{pp-protected}} ([[WP:TW|TW]])
+2019-09-18T00:39:25+00:00,916268834,916048371,0,Lucasriva,The Voice Kids (British TV series),/* Series overview */
+2019-11-10T15:26:59+00:00,925506543,925483239,0,110.227.149.163,The Voice India Kids,/* Season summary */
+2019-07-30T17:42:09+00:00,908588780,908586618,0,Mediamania2015,The Voice Kids (French TV series),/* Coaches and Finalists */
+2019-11-06T20:19:53+00:00,924931046,924755413,0,MB,The Voice Kids (French TV series),clean up
+2019-08-05T14:00:11+00:00,909448073,908588780,0,2601:248:103:4A8F:C0:42EC:6842:8282,The Voice Kids (French TV series),/* Series overview */
+2019-09-28T22:50:56+00:00,918489944,918477313,0,Mediamania2015,The Voice Kids (French TV series),
+2019-12-15T09:17:44+00:00,930843922,930245443,0,5.143.81.199,The Voice Kids (Russian TV series),/* Coaches */
+2019-05-13T11:27:38+00:00,896872267,896639610,0,Continental Rift,The Voice Kids (French TV series),
+2019-07-14T09:25:59+00:00,906201914,906201872,0,Maciej Mucharski,The Voice Magyarország,/* Season summary */
+2019-08-23T23:01:03+00:00,912205932,912132108,0,Mediamania2015,The Voice Kids (French TV series),/* Overview */
+2019-02-23T20:24:06+00:00,884756744,884755958,0,Creator2790,The Voice Magyarország,/* Season summary */
+2019-07-08T10:41:59+00:00,905317296,902246726,0,MrSilesian,The Voice Magyarország,
+2019-06-17T15:08:49+00:00,902246726,901594920,0,2601:248:104:9DE0:3893:2A13:69B9:7D69,The Voice Magyarország,/* Season summary */
+2018-10-22T07:31:18+00:00,865174091,865081090,0,Orenburg1,The Voice Magyarország,Rmv unsourced additions
+2020-02-09T18:02:53+00:00,939948466,939921804,0,Magnolia677,The Voice Nigeria,Reverted 6 edits by [[Special:Contributions/Taymeedeeray|Taymeedeeray]] ([[User talk:Taymeedeeray|talk]]): Removing unsourced content; the one source added was a spam website ([[WP:TW|TW]])
+2019-10-08T14:46:51+00:00,920247477,920041787,0,Philphleg,The Voice Nigeria,/* Season 2 (2017) */
+2019-04-26T13:59:01+00:00,894232809,892677212,0,173.59.126.236,The Voice Nigeria,/* Season summary */
+2019-12-31T16:38:24+00:00,933385652,932661781,0,178.127.199.186,The Voice Senior (Russian TV series),/* Series overview */
+2019-06-12T22:24:47+00:00,901587474,899953359,0,2601:248:104:9DE0:38A6:987C:E5ED:1FCE,The Voice Senior (Russian TV series),/* Series overview */
+2019-04-14T13:36:49+00:00,892429951,886056303,0,Woodlot,The Voice Senior (Russian TV series),spelling
+2019-07-25T05:58:42+00:00,907774225,907774052,0,178.127.177.173,The Voice Senior (Russian TV series),/* Coaches timeline */
+2020-03-03T21:27:06+00:00,943776277,943776149,0,2001:8A0:DFCC:E801:50C7:645B:80C:FC9F,The Voice Senior (Russian TV series),/* Series overview */
+2019-04-28T13:17:37+00:00,894528768,892429951,0,2A01:E0A:144:5220:3023:1AAD:3F40:F82,The Voice Senior (Russian TV series),/* Series overview */
+2019-12-24T22:15:30+00:00,932305415,932304273,0,Magnolia677,The Voice Nigeria,Removing unsourced content Removing unsourced content
+2020-01-01T20:57:00+00:00,933573857,933573728,0,2601:248:100:2560:1997:DF6D:1451:1535,The Voice Thailand,/* Series overview */
+2020-01-24T13:50:02+00:00,937353003,937352710,0,Jgolfaj,The Voice Thailand,/* Series overview */
+2019-09-01T02:08:49+00:00,913437381,912731993,0,2405:9800:B960:2FB5:3D2F:1001:D37D:C8F5,The Voice Thailand,/* Series overview */
+2019-04-02T05:57:02+00:00,890577975,890498088,0,Kennykenny96,The Voice Thailand,/* The Voice Senior Thailand */
+2019-02-06T08:14:31+00:00,882017031,880460001,0,Kennykenny96,The Voice Thailand,/* Series overview */
+2019-02-10T23:32:28+00:00,882726222,882635195,0,Creator2790,The Voice Thailand,/* Series overview */
+2019-02-24T15:03:32+00:00,884867381,884867243,0,90.254.180.167,The Voice UK,/* Coaches */
+2019-10-31T21:12:30+00:00,923954670,923939427,0,Msalmon,The Voice UK,/* Series overview */ source for start date?
+2019-06-28T18:19:38+00:00,903909868,903277500,0,2601:40B:8500:D2D4:F4A5:387D:B8FC:6C72,The Voice UK,/* Producers' auditions and blind auditions */
+2019-06-18T17:31:44+00:00,902415601,902415120,0,MadGuy7023,The Voice UK,Reverted to revision 902084097 by [[Special:Contributions/Path slopu|Path slopu]] ([[User talk:Path slopu|talk]]): Source? (using [[WP:TW|TW]])
+2019-07-23T12:27:36+00:00,907513255,907513105,0,2601:248:103:4A8F:DCC0:E05A:B658:60B7,The Voice UK,/* Series overview */
+2019-04-12T02:53:56+00:00,892085477,891677534,0,Superdry19,The Voice UK,/* Coaches' teams and their artists */
+2019-08-05T13:51:53+00:00,909447168,909445609,0,193.34.4.212,The Voice UK,/* Timeline of coaches */
+2020-01-14T22:19:35+00:00,935814698,935749937,0,Scaramanga731,The Voice UK,
+2019-06-08T15:15:20+00:00,900932030,895315476,0,Hildeoc,The Voice of Afghanistan,/* Series overview */ fixed formatting (!)
+2019-09-15T05:26:21+00:00,915763383,915763328,0,39.40.89.170,The Voice of Afghanistan,/* History */
+2019-11-07T14:07:06+00:00,925044624,921313865,0,Rich Farmbrough,The Voice of Afghanistan,Cite cleanup
+2017-09-13T23:18:45+00:00,800501499,790099257,0,Pegship,The Voice of Afghanistan,sort
+2019-03-30T11:27:09+00:00,890140433,890062337,0,Lupus28,The Voice of Italy,
+2019-12-10T10:27:32+00:00,930118266,928174184,0,183.91.2.37,The Voice of Italy,/* Season summary */
+2019-05-30T21:39:13+00:00,899563028,899562802,0,2601:248:104:9DE0:6923:7422:3EFA:C6F2,The Voice of Poland,/* Season 10 (2019) */
+2019-02-10T20:30:07+00:00,882700889,882474800,0,Creator2790,The Voice of Italy,/* Season summary */
+2019-07-30T17:08:09+00:00,908584417,908532141,0,Casper18,The Voice of Poland,/* Season summary */Fixed typo
+2019-02-24T08:58:20+00:00,884833001,884780807,0,2A00:F41:1CC7:8725:F1E0:E6B8:C8D4:52BA,The Voice of Poland,Fixed typo
+2019-02-17T20:52:30+00:00,883819382,881013871,0,2A00:F41:189E:EF84:10B7:1BD5:B819:15CD,The Voice of Poland,/* Season 10 (2019) */Fixed typo
+2019-11-11T11:26:32+00:00,925641360,925641318,0,Paat don,The Voice of Poland,/* Season summary */
+2019-07-03T09:44:02+00:00,904617480,904372368,0,Kizuna0114,The Voice of the Philippines,
+2019-12-02T19:10:04+00:00,928956108,928949065,0,Paul Carol,The Voice of Poland,/* Season summary */
+2019-12-24T05:27:10+00:00,932208498,931656870,0,181.15.232.183,The Voice of the Philippines,/* Seasons summary */
+2019-03-18T21:09:38+00:00,888394364,888128995,0,173.59.126.236,The Voice of the Philippines,
+2019-06-19T19:05:18+00:00,902573523,902573388,0,2601:248:104:9DE0:D0C3:D236:F644:7204,The Voice Česko Slovensko,/* Series overview */
+2019-02-11T20:19:13+00:00,882863615,882863257,0,Patrik L.,The Voice Česko Slovensko,New name
+2019-08-11T13:20:12+00:00,910350459,910011513,0,2601:248:103:4A8F:DCC0:E05A:B658:60B7,Voice – Danmarks største stemme,/* Season summary */
+2019-01-31T06:06:43+00:00,881064598,878448513,0,186.124.0.220,Voice – Danmarks største stemme,/* Season summary */
+2019-03-23T21:27:43+00:00,889156257,885215624,0,178.155.165.131,Voice – Danmarks største stemme,/* Kids Version */
+2019-02-02T12:22:02+00:00,881414831,881228265,0,Kjell Knudde,X Factor (Czech TV series),Added more categories.

@@ -1,0 +1,140 @@
+timestamp,revid,parentid,sock,user,page,message
+2022-02-15T00:22:57+00:00,1071907915,1071902954,1,AlfredVanVonDeDavis,Paris Peace Accords,/* Breakthrough and agreement */
+2022-02-15T00:12:06+00:00,1071906508,1071906298,1,AlfredVanVonDeDavis,Operation Linebacker II,/* Casualties */
+2022-02-15T00:10:26+00:00,1071906298,1071906011,1,AlfredVanVonDeDavis,Operation Linebacker II,/* Diplomatic */
+2022-02-15T00:07:59+00:00,1071905961,1071905785,1,AlfredVanVonDeDavis,Operation Linebacker II,/* Diplomatic */
+2022-02-15T00:06:27+00:00,1071905745,1071905394,1,AlfredVanVonDeDavis,Operation Linebacker II,/* Diplomatic */
+2022-02-15T00:04:33+00:00,1071905394,1071904924,1,AlfredVanVonDeDavis,Operation Linebacker II,/* Diplomatic */
+2022-02-15T00:01:57+00:00,1071904924,1062847362,1,AlfredVanVonDeDavis,Operation Linebacker II,/* Decisions */
+2022-02-14T23:43:29+00:00,1071902898,1065856729,1,AlfredVanVonDeDavis,Paris Peace Accords,/* Breakthrough and agreement */
+2022-03-07T03:22:26+00:00,1075681164,1075484293,1,Username101999,Napoleon III,
+2022-03-07T03:19:43+00:00,1075680844,1075492723,1,Username101999,Chiang Kai-shek,
+2022-03-07T03:18:20+00:00,1075680684,1075463344,1,Username101999,Ferdinand Foch,
+2022-03-07T03:12:20+00:00,1075679975,1075581042,1,Username101999,Hideki Tojo,
+2022-03-07T03:09:05+00:00,1075679615,1074015293,1,Username101999,Philippe Pétain,
+2022-03-07T03:08:20+00:00,1075679544,1071493545,1,Username101999,Pierre Laval,
+2022-03-06T03:42:08+00:00,1075496168,1075495195,1,Usernameaxiscentralallied,Jefferson C. Davis,
+2022-03-06T03:35:51+00:00,1075495471,1063460341,1,Usernameaxiscentralallied,Henry Winter Davis,
+2022-03-06T03:33:38+00:00,1075495195,1074396657,1,Usernameaxiscentralallied,Jefferson C. Davis,
+2022-03-06T02:49:16+00:00,1075490023,1075456333,1,Usernameaxiscentralallied,Paul von Hindenburg,
+2022-03-06T02:48:00+00:00,1075489886,1075074365,1,Usernameaxiscentralallied,"William I, German Emperor",
+2022-03-06T02:46:03+00:00,1075489728,1075476796,1,Usernameaxiscentralallied,"Frederick III, German Emperor",
+2022-03-06T02:44:10+00:00,1075489566,1075246058,1,Usernameaxiscentralallied,Frederick William III of Prussia,
+2022-03-06T02:25:46+00:00,1075487904,1075218503,1,Usernameaxiscentralallied,Charles de Gaulle,
+2022-03-06T02:14:31+00:00,1075486945,1075267513,1,Usernameaxiscentralallied,Frederick the Great,
+2022-03-06T02:09:46+00:00,1075486526,1075476814,1,Usernameaxiscentralallied,David Lloyd George,
+2022-03-06T02:08:36+00:00,1075486441,1075095643,1,Usernameaxiscentralallied,Georges Clemenceau,
+2022-03-06T02:07:04+00:00,1075486328,1075336619,1,Usernameaxiscentralallied,Chiang Kai-shek,
+2022-03-06T01:58:18+00:00,1075485418,1066784911,1,Usernameaxiscentralallied,Joseph Joffre,
+2022-03-06T01:54:57+00:00,1075485077,1075484406,1,Usernameaxiscentralallied,Martin Van Buren,
+2022-03-06T01:49:29+00:00,1075484406,1075484334,1,Usernameaxiscentralallied,Martin Van Buren,
+2022-03-06T01:48:49+00:00,1075484334,1074898040,1,Usernameaxiscentralallied,Martin Van Buren,
+2022-03-06T01:46:45+00:00,1075484074,1074719891,1,Usernameaxiscentralallied,Napoleon III,
+2022-03-06T01:40:03+00:00,1075483003,1075460226,1,Usernameaxiscentralallied,Joseph Gallieni,
+2022-03-06T01:39:23+00:00,1075482896,1075460121,1,Usernameaxiscentralallied,Augustin Dubail,
+2022-03-06T01:38:22+00:00,1075482768,1075458392,1,Usernameaxiscentralallied,Gebhard Leberecht von Blücher,
+2022-03-06T01:37:21+00:00,1075482660,1075482530,1,Usernameaxiscentralallied,"Arthur Wellesley, 1st Duke of Wellington",
+2022-03-06T01:36:14+00:00,1075482530,1073901341,1,Usernameaxiscentralallied,"Arthur Wellesley, 1st Duke of Wellington",
+2022-03-05T22:33:47+00:00,1075460226,1060530594,1,Usernameaxiscentralallied,Joseph Gallieni,
+2022-03-05T22:32:49+00:00,1075460121,1067593573,1,Usernameaxiscentralallied,Augustin Dubail,
+2022-03-05T22:31:59+00:00,1075460006,1071458716,1,Usernameaxiscentralallied,Ferdinand Foch,
+2022-03-05T22:18:19+00:00,1075458392,1075457556,1,Usernameaxiscentralallied,Gebhard Leberecht von Blücher,
+2022-03-05T22:11:16+00:00,1075457556,1075450944,1,Usernameaxiscentralallied,Gebhard Leberecht von Blücher,
+2022-03-05T21:14:13+00:00,1075450944,1072449560,1,Usernameaxiscentralallied,Gebhard Leberecht von Blücher,
+2022-02-17T19:48:44+00:00,1072444752,1072371362,0,Sundostund,"Arthur Wellesley, 1st Duke of Wellington",/* Peninsular War */
+2022-02-25T20:42:53+00:00,1073997056,1073996976,0,2603:7080:7541:1781:AD59:9C68:770E:CFE2,Chiang Kai-shek,/* See also */
+2022-02-22T05:56:25+00:00,1073334062,1073309820,0,KJP1,David Lloyd George,Reverted edits by [[Special:Contribs/TG11TG15|TG11TG15]] ([[User talk:TG11TG15|talk]]) to last version by KJP1
+2022-02-12T18:49:06+00:00,1071458716,1070140071,0,Le Petit Chat,Ferdinand Foch,/* Military ranks */
+2022-03-05T22:58:37+00:00,1075463344,1075460006,0,SchreiberBike,Ferdinand Foch,"Undid revision 1075460006 by [[Special:Contributions/Usernameaxiscentralallied|Usernameaxiscentralallied]] ([[User talk:Usernameaxiscentralallied|talk]]) Undo unexplained edit. If there's a reason for this, please explain in the edit summary."
+2022-01-24T07:05:56+00:00,1067593573,1023928357,0,Howard61313,Augustin Dubail,added [[Category:École Spéciale Militaire de Saint-Cyr commandants]] using [[WP:HC|HotCat]]
+2022-02-21T01:50:52+00:00,1073103858,1073103700,0,Oodlescanoodles,"Arthur Wellesley, 1st Duke of Wellington",Undid revision 1073103700 by [[Special:Contributions/2601:14B:C200:6B:40A5:1A0E:ACF0:FDA5|2601:14B:C200:6B:40A5:1A0E:ACF0:FDA5]] ([[User talk:2601:14B:C200:6B:40A5:1A0E:ACF0:FDA5|talk]]) Clean up/copyedit [[Help:Reverting|Reverting]] [[Wikipedia:Vandalism|vandalism]] or test edit
+2022-02-11T14:37:39+00:00,1071232119,1071001743,0,Ost316,Charles de Gaulle,"change to interlanguage link, instead of soft redirect"
+2022-02-16T17:13:55+00:00,1072239892,1072168511,0,Hairy Dude,David Lloyd George,/* Paris 1919 */{{quote}}
+2022-02-23T20:03:52+00:00,1073645340,1073458058,0,InternetArchiveBot,Chiang Kai-shek,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.6) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 9532
+2022-02-25T08:29:11+00:00,1073901341,1073686536,0,Fenlandier,"Arthur Wellesley, 1st Duke of Wellington",/* Controversy */Fixed typo
+2022-03-02T06:31:49+00:00,1074795888,1074603982,0,142.126.187.57,Chiang Kai-shek,/* Relationship with Muslims */
+2022-03-01T14:30:55+00:00,1074674528,1074674494,0,Thrakkx,Charles de Gaulle,
+2022-02-26T03:49:11+00:00,1074046750,1073904655,0,Nicealstn,"Frederick III, German Emperor",/* Crown Prince of Prussia */
+2022-02-21T04:00:35+00:00,1073122783,1072835323,0,118.200.22.223,"Frederick III, German Emperor",
+2022-01-23T16:59:59+00:00,1067469840,1060739140,0,Robertus Pius,Frederick William III of Prussia,Improved image
+2022-02-17T20:21:01+00:00,1072449560,1072449033,0,Sundostund,Gebhard Leberecht von Blücher,/* Hundred Days and later life */
+2022-02-23T23:25:40+00:00,1073672174,1073316139,0,Headbomb,Frederick the Great,/* References */ Transactions of the Royal Historical Society
+2022-02-18T21:20:15+00:00,1072662045,1067469840,0,2804:14C:55:8D94:4809:3907:81B9:EBEF,Frederick William III of Prussia,
+2022-02-20T05:45:48+00:00,1072934510,1072925427,0,Kuru,Georges Clemenceau,rmv reference to clearly identified wikipedia mirror per [[WP:CIRCULAR]]
+2022-01-03T05:40:35+00:00,1063460341,1056453958,0,StalwartGrantist,Henry Winter Davis,
+2022-02-22T03:26:47+00:00,1073316139,1073316109,0,ClueBot NG,Frederick the Great,"Reverting possible vandalism by [[Special:Contribs/68.69.82.229|68.69.82.229]] to version by Wtfiv. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4135515) (Bot)"
+2021-12-28T04:17:29+00:00,1062385437,1057308831,0,BrownHairedGirl,Gebhard Leberecht von Blücher,"some ref cleanup tags should be AFTER </ref>, replaced: {{Better source needed|date=May 2016}}</ref> → </ref>{{Better source needed|date=May 2016}} (2)"
+2022-03-04T14:00:34+00:00,1075204060,1074789938,0,太西,Hideki Tojo,CE
+2022-02-22T10:50:23+00:00,1073368560,1073068305,0,MrStoofer,Hideki Tojo,"Removed an unencyclopedic, unsourced line from the intro"
+2022-02-23T11:29:45+00:00,1073574603,1073551841,0,77.70.118.144,Jefferson C. Davis,format fix
+2022-02-28T01:28:49+00:00,1074396657,1073574603,0,2001:48F8:3006:375:BC21:2B18:6B57:E19C,Jefferson C. Davis,"Claim of Jefferson C. Davis being sent to ""crush"" the strike is contradicted by source. Modified statement to reflect source, reporting his first hand remark being a refusal to do exactly that."
+2022-01-20T03:35:45+00:00,1066784911,1066784459,0,Paulturtle,Joseph Joffre,/* Post-command career */ add links
+2022-02-12T18:45:46+00:00,1071458189,1071457747,0,Favonian,Martin Van Buren,Reverted edits by [[Special:Contribs/88.156.133.197|88.156.133.197]] ([[User talk:88.156.133.197|talk]]) to last version by Goszei
+2021-12-16T02:49:56+00:00,1060530594,1056095129,0,Vycl1994,Joseph Gallieni,
+2022-02-22T02:43:17+00:00,1073311590,1073311538,0,205.155.236.34,Martin Van Buren,
+2022-02-23T20:39:29+00:00,1073650004,1073649988,0,ClueBot NG,Martin Van Buren,"Reverting possible vandalism by [[Special:Contribs/205.155.236.34|205.155.236.34]] to version by Extraordinary Writ. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4136945) (Bot)"
+2022-03-01T20:10:52+00:00,1074719891,1074239487,0,Robertus Pius,Napoleon III,Coup d’état shouldn’t be in the infobox
+2022-03-06T03:19:31+00:00,1075493108,1075483003,0,General Ization,Joseph Gallieni,Reverted edits by [[Special:Contribs/Usernameaxiscentralallied|Usernameaxiscentralallied]] ([[User talk:Usernameaxiscentralallied|talk]]) to last version by Vycl1994
+2022-02-12T22:57:49+00:00,1071493865,1071493716,0,EthanGaming7640,Napoleon III,Reverting edit(s) by [[Special:Contributions/Dilucs dad|Dilucs dad]] ([[User_talk:Dilucs dad|talk]]) to rev. 1071156625 by Sgnpkd: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2022-03-06T03:19:31+00:00,1075493111,1075485418,0,General Ization,Joseph Joffre,Reverted edits by [[Special:Contribs/Usernameaxiscentralallied|Usernameaxiscentralallied]] ([[User talk:Usernameaxiscentralallied|talk]]) to last version by Paulturtle
+2022-02-27T06:02:09+00:00,1074239487,1074192459,0,SiefkinDR,Napoleon III,More  correct before change
+2022-03-02T20:07:42+00:00,1074898040,1074897880,0,Bongwarrior,Martin Van Buren,Reverted edits by [[Special:Contribs/205.155.236.34|205.155.236.34]] ([[User talk:205.155.236.34|talk]]) to last version by ClueBot NG
+2022-02-15T23:06:54+00:00,1072093235,1071921774,0,Citation bot,Operation Linebacker II,Add: newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Anas1712 | #UCB_webform 157/2185
+2022-03-01T16:29:49+00:00,1074690700,1072093235,0,InternetArchiveBot,Operation Linebacker II,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.6) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 9593
+2022-02-17T23:48:13+00:00,1072477823,1071908009,0,SixSix,Paris Peace Accords,Date format per MOS
+2022-02-14T04:11:09+00:00,1071742352,1068419021,0,76.14.219.142,Paul von Hindenburg,"/* Second retirement */ fixed misspelling of the term ""Freikorps"""
+2022-02-16T23:34:05+00:00,1072293000,1071742352,0,Moonraker,Paul von Hindenburg,/* Hitler becomes chancellor */ add
+2022-02-15T00:23:43+00:00,1071908009,1071907915,0,Dudhhr,Paris Peace Accords,Reverted 1 edit by [[Special:Contributions/AlfredVanVonDeDavis|AlfredVanVonDeDavis]] ([[User talk:AlfredVanVonDeDavis|talk]]) to last revision by Dudhhr
+2022-02-18T05:54:35+00:00,1072535487,1069679506,0,TheRealLordOfPencils2,Philippe Pétain,Small title corrections
+2022-02-18T07:26:49+00:00,1072547647,1072535487,0,Skysmith,Philippe Pétain,Undid revision 1072535487 by [[Special:Contributions/TheRealLordOfPencils2|TheRealLordOfPencils2]] ([[User talk:TheRealLordOfPencils2|talk]])
+2022-02-12T22:54:55+00:00,1071493545,1070002586,0,HangingCurve,Pierre Laval,"/* Laval in the Vichy government, 1940–41 */ reword"
+2022-02-24T03:23:42+00:00,1073700412,1070725320,0,GoodDay,"William I, German Emperor",/* Early life and military career */
+2022-02-08T23:23:36+00:00,1070725320,1070674305,0,Manticore,"William I, German Emperor",Reverted 3 pending edits by [[Special:Contributions/50.234.157.138|50.234.157.138]] to revision 1070661271 by Tunakanski: unsourced
+2021-12-27T18:34:00+00:00,1062315260,1061703916,0,Iridescent 2,Charles de Gaulle,"Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: from 1940–1943 → from 1940 to 1943, 228-254 → 228–254"
+2022-01-20T01:27:52+00:00,1066767990,1066763342,0,Dormskirk,"Arthur Wellesley, 1st Duke of Wellington",dash
+2022-01-18T17:32:57+00:00,1066502234,1066367079,0,24.28.25.225,Charles de Gaulle,/* Visit to the Soviet Union */
+2022-01-04T02:02:44+00:00,1063627780,1063375270,0,Hussierhussier1,"Arthur Wellesley, 1st Duke of Wellington",/* Meeting Nelson */
+2022-02-05T13:58:01+00:00,1070066601,1070066549,0,Glane23,Chiang Kai-shek,Reverted edits by [[Special:Contributions/2603:7000:4001:4934:8100:95F5:615:17E6|2603:7000:4001:4934:8100:95F5:615:17E6]] ([[User talk:2603:7000:4001:4934:8100:95F5:615:17E6|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-05-19T04:17:20+00:00,1023928357,993132846,0,2607:FEA8:A2C0:1F00:A549:670F:B40:B1FC,Augustin Dubail,/* Decorations */
+2022-01-29T10:05:16+00:00,1068601444,1068542506,0,82.61.218.125,Chiang Kai-shek,
+2022-02-23T03:15:49+00:00,1073513390,1073511008,0,Chariotsacha,"Arthur Wellesley, 1st Duke of Wellington",
+2022-02-25T02:07:03+00:00,1073859878,1073765609,0,148.59.24.28,Charles de Gaulle,Fixed typo
+2022-01-13T12:06:20+00:00,1065413955,1064522555,0,Magnimik,David Lloyd George,
+2022-01-13T23:41:35+00:00,1065516162,1065244548,0,Jonas1015119,"Frederick III, German Emperor","added german name in lead just as with Wilhelm I & II, also the length of his reign considering thats what hes most remembered for today"
+2022-02-04T23:18:29+00:00,1069957826,1068177762,0,Wainson,Frederick the Great,Avoid redirect in link to Silesian Wars article
+2021-12-17T10:33:41+00:00,1060739140,1059267187,0,Paradoctor,Frederick William III of Prussia,Disambiguating links to [[Pious]] (link changed to [[Piety]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-11-26T20:33:42+00:00,1057308831,1057308496,0,Spicemix,Gebhard Leberecht von Blücher,/* Various */ MOS:FOREIGNITALICS
+2022-01-07T02:04:31+00:00,1064186387,1063152701,0,HzgiUU149377,"Frederick III, German Emperor",/* Honours */
+2022-03-06T03:15:15+00:00,1075492628,1075486526,0,Chewings72,David Lloyd George,Reverted edits by [[Special:Contribs/Usernameaxiscentralallied|Usernameaxiscentralallied]] ([[User talk:Usernameaxiscentralallied|talk]]) to last version by DuncanHill
+2022-02-22T02:30:09+00:00,1073309820,1073309609,0,Titus Gold,David Lloyd George,links
+2022-01-16T00:49:00+00:00,1065927910,1065927645,0,Chariotsacha,Frederick the Great,"Reverting to revision by myself: Good Faith edits: All sexuality claims have been sourced in the sexuality article, please read those and check the talk page for at length discussion before making these edits."
+2021-12-15T19:02:23+00:00,1060472189,1059344508,0,109.118.122.76,Frederick the Great,/* Administrative modernisation */
+2022-01-17T21:09:12+00:00,1066324961,1061141354,0,77.134.227.100,Georges Clemenceau,
+2021-12-19T22:30:10+00:00,1061141354,1060527885,0,Emael Khan,Georges Clemenceau,Made two photos bigger
+2021-11-21T22:19:58+00:00,1056453958,1044577241,0,82.8.163.40,Henry Winter Davis,Changed 'negroes' to 'African-Americans'
+2022-02-15T22:52:24+00:00,1072091406,1070085921,0,SuperSkaterDude45,Jefferson C. Davis,Fixed American flag
+2022-01-24T09:58:40+00:00,1067615455,1067537529,0,Observer15,Hideki Tojo,I added a little clarity in history
+2021-11-29T03:18:21+00:00,1057695873,1047201949,0,Rlink2,Jefferson C. Davis,"/* Department of Alaska */archive link repair, may include: archive.* -> archive.today, and http->https for ghostarchive.org and archive.org ([[wp:el#Specifying_protocols]])"
+2022-02-06T07:44:32+00:00,1070203689,1069777944,0,114.122.9.215,Hideki Tojo,
+2022-03-02T05:25:47+00:00,1074789938,1073368560,0,2001:56A:7575:4800:4497:C967:A503:670D,Hideki Tojo,it wasnt considered suicide it was something called seppuku which is considered an honorable way to die even tho he failed
+2022-02-04T01:36:51+00:00,1069777944,1068494755,0,RadarStorm,Hideki Tojo,"Changed a sentence. I know it ends a sentence with a preposition, but it (to me at least) makes the sentence easier to parse."
+2022-02-05T16:12:57+00:00,1070085921,1070081739,0,T2Mff3H4,Jefferson C. Davis,/* Arrest and release */ Changed 'Davis' to 'he'.
+2021-12-20T05:22:26+00:00,1061188902,1060527328,0,Cacrats,Joseph Joffre,
+2022-01-18T09:32:49+00:00,1066428249,1065711135,0,Ak-eater06,Martin Van Buren,already linked in lead
+2021-12-23T11:29:14+00:00,1061706481,1061524814,0,Billmckern,Martin Van Buren,"Undid revision 1061524814 by [[Special:Contributions/LouisaCatherineAdams|LouisaCatherineAdams]] ([[User talk:LouisaCatherineAdams|talk]])I think ""eight years"" refers to Jackson's two terms as president, and Van Buren's combined time under Jackson as VP, Minister to England, and Secretary of State."
+2022-02-25T15:21:40+00:00,1073949073,1073870118,0,Excommunicato,Napoleon III,fixed predecessor and caption
+2022-01-08T15:02:40+00:00,1064473152,1064462355,0,Excommunicato,Napoleon III,Undid revision 1064462355 by [[Special:Contributions/2A00:23C8:A9C:B01:114C:F205:9F3E:A92B|2A00:23C8:A9C:B01:114C:F205:9F3E:A92B]] ([[User talk:2A00:23C8:A9C:B01:114C:F205:9F3E:A92B|talk]]): Unsourced
+2021-12-15T15:17:17+00:00,1060444436,1060226968,0,Cloptonson,Napoleon III,/* Personal life */ added life years for 2 mistresses
+2022-02-06T05:21:38+00:00,1070188462,1070188173,0,37.210.148.88,Napoleon III,/* Later years */Moved image to a better section
+2022-02-05T03:24:07+00:00,1069992135,1069968656,0,Excommunicato,Napoleon III,Undid revision 1069968656 by [[Special:Contributions/JdelaF|JdelaF]] ([[User talk:JdelaF|talk]]) Unsourced
+2021-12-30T22:11:38+00:00,1062847362,1060952675,0,Ws1920,Operation Linebacker II,Added conversion for gallon
+2022-01-15T17:26:49+00:00,1065856729,1063701707,0,2600:8801:7111:9200:B878:C4BC:3EDD:EA03,Paris Peace Accords,/* Aftermath */
+2022-01-04T12:51:15+00:00,1063701707,1063681135,0,Asumish,Paris Peace Accords,/* Other key figures in the negotiations */
+2022-01-28T09:24:48+00:00,1068419021,1068418934,0,INDT,Paul von Hindenburg,Rollback edit(s) by [[Special:Contributions/80.155.56.210|80.155.56.210]] ([[User_talk:80.155.56.210|talk]]): [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2021-12-10T23:50:16+00:00,1059689050,1059683948,0,Asumish,Philippe Pétain,
+2022-02-25T23:16:22+00:00,1074015293,1073076204,0,PeterWiki3,Philippe Pétain,edit
+2022-01-08T12:08:26+00:00,1064450994,1063063854,0,Векочел,"William I, German Emperor",
+2022-02-05T04:42:40+00:00,1070002586,1065535263,0,Redxiv,Pierre Laval,"/* Laval in the Vichy government, 1940–41 */"
+2022-01-14T02:13:20+00:00,1065535263,1059135554,0,90.246.87.213,Pierre Laval,"/* Leader of the Milice, 1943–45 */"
+2022-03-06T03:12:43+00:00,1075492378,1075490023,0,Chewings72,Paul von Hindenburg,Reverted edits by [[Special:Contribs/Usernameaxiscentralallied|Usernameaxiscentralallied]] ([[User talk:Usernameaxiscentralallied|talk]]) to last version by Surtsicna
+2022-01-01T00:41:24+00:00,1063063854,1063063561,0,Beauty School Dropout,"William I, German Emperor",Restored revision 1061300500 by [[Special:Contributions/HangingCurve|HangingCurve]] ([[User talk:HangingCurve|talk]]): Pending edit seems to be unhelpful

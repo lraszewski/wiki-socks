@@ -1,0 +1,88 @@
+timestamp,revid,parentid,sock,user,page,message
+2015-07-27T10:03:08+00:00,673282813,673282476,1,J.T._Amble,Pauline Dixon,
+2015-07-27T09:59:09+00:00,673282476,673281193,1,J.T._Amble,Pauline Dixon,
+2015-07-27T09:44:40+00:00,673281193,673281056,1,J.T._Amble,Pauline Dixon,
+2015-07-27T09:43:12+00:00,673281056,673280661,1,J.T._Amble,Pauline Dixon,
+2015-07-27T09:38:58+00:00,673280661,673280279,1,J.T._Amble,Pauline Dixon,
+2015-07-27T09:34:16+00:00,673280279,673279905,1,J.T._Amble,Pauline Dixon,
+2015-07-27T09:30:10+00:00,673279905,673279867,1,J.T._Amble,Pauline Dixon,
+2015-07-27T09:29:42+00:00,673279867,673279673,1,J.T._Amble,Pauline Dixon,
+2015-07-27T09:27:33+00:00,673279673,673278192,1,J.T._Amble,Pauline Dixon,
+2015-07-26T15:37:25+00:00,673166833,673166723,1,J.T._Amble,Pauline Dixon,
+2015-07-26T15:36:31+00:00,673166723,673165566,1,J.T._Amble,Pauline Dixon,
+2015-07-26T15:26:18+00:00,673165566,673165356,1,J.T._Amble,Pauline Dixon,/* References */
+2015-07-26T15:24:28+00:00,673165356,673163683,1,J.T._Amble,Pauline Dixon,/* References */
+2015-07-26T15:10:10+00:00,673163683,673163469,1,J.T._Amble,Pauline Dixon,
+2015-07-26T15:08:39+00:00,673163469,673163124,1,J.T._Amble,Pauline Dixon,
+2015-07-26T15:05:45+00:00,673163124,673162634,1,J.T._Amble,Pauline Dixon,
+2015-07-26T15:01:32+00:00,673162634,673162495,1,J.T._Amble,Pauline Dixon,
+2015-07-26T15:00:28+00:00,673162495,673161171,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:48:20+00:00,673161171,673161068,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:47:20+00:00,673161068,673160893,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:45:42+00:00,673160893,673160520,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:42:19+00:00,673160520,673159304,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:31:21+00:00,673159304,673158889,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:27:10+00:00,673158889,673158456,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:22:33+00:00,673158394,673158102,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:19:53+00:00,673158102,673157884,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:18:07+00:00,673157884,673157195,1,J.T._Amble,Pauline Dixon,
+2015-07-26T14:10:10+00:00,673157078,624365893,1,J.T._Amble,Pauline Dixon,
+2015-07-27T09:11:38+00:00,673278192,673277693,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T09:04:36+00:00,673277693,673277430,1,S.P.Numbers,Pauline Dixon,/* Publications */
+2015-07-27T09:00:43+00:00,673277430,673277366,1,S.P.Numbers,Pauline Dixon,/* Prizes and awards */
+2015-07-27T08:59:56+00:00,673277366,673277292,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T08:58:56+00:00,673277292,673276173,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T08:43:56+00:00,673276173,673276086,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T08:42:44+00:00,673276086,673275772,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T08:38:34+00:00,673275772,673275680,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T08:37:25+00:00,673275680,673275594,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T08:36:15+00:00,673275594,673275452,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T08:34:13+00:00,673275452,673275244,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T08:31:35+00:00,673275244,673274866,1,S.P.Numbers,Pauline Dixon,
+2015-07-27T08:26:16+00:00,673274866,673254007,1,S.P.Numbers,Pauline Dixon,
+2015-07-29T14:50:33+00:00,673642888,673634070,1,Steve_Humble,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-26T16:31:34+00:00,673172938,673172444,1,Steve_Humble,Pauline Dixon,
+2015-07-26T16:27:38+00:00,673172444,673171828,1,Steve_Humble,Pauline Dixon,
+2015-07-26T16:22:10+00:00,673171828,673171711,1,Steve_Humble,Pauline Dixon,
+2015-07-26T16:21:02+00:00,673171711,673166833,1,Steve_Humble,Pauline Dixon,
+2015-07-28T05:04:16+00:00,673419207,673282813,0,BG19bot,Pauline Dixon,[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]]
+2015-07-26T18:31:39+00:00,673187442,673172938,0,AnomieBOT,Pauline Dixon,Dating maintenance tags: {{Ad}}
+2015-07-27T10:03:08+00:00,673282813,673282476,0,J.T. Amble,Pauline Dixon,
+2015-07-26T15:37:25+00:00,673166833,673166723,0,J.T. Amble,Pauline Dixon,
+2015-07-26T14:19:53+00:00,673158102,673157884,0,J.T. Amble,Pauline Dixon,
+2015-07-26T16:31:34+00:00,673172938,673172444,0,Steve Humble,Pauline Dixon,
+2015-07-27T04:24:19+00:00,673254007,673187442,0,BG19bot,Pauline Dixon,"[[WP:CHECKWIKI]] error fix for #93.  External link with double http:// Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -, replaced: http://http:// → http:// using [[Project:AWB|AWB]]"
+2015-07-28T02:14:54+00:00,673402437,673402324,0,Scsbot,Wikipedia:WikiProject Articles for creation/Help desk,edited by robot:\narchiving July 22
+2015-07-28T20:19:39+00:00,673524749,673502606,0,Krishanuthe13th,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-28T01:08:03+00:00,673394569,673380755,0,Worldbruce,Wikipedia:WikiProject Articles for creation/Help desk,"/* Request on 19:52:58, 27 July 2015 for assistance on AfC submission by Ufgenetics */ re"
+2015-07-28T14:22:57+00:00,673475400,673475192,0,Sulfurboy,Wikipedia:WikiProject Articles for creation/Help desk,"/* Request on 00:17:45, 26 July 2015 for assistance on AfC submission by Onlinejonathan */"
+2015-07-28T08:18:46+00:00,673436851,673436331,0,Dodger67,Wikipedia:WikiProject Articles for creation/Help desk,"/* 08:00:03, 28 July 2015 review of submission by IFG */ It will be reviewed"
+2015-07-27T08:35:20+00:00,673275533,673258382,0,Jleigh456,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-28T15:07:17+00:00,673481299,673481128,0,Dodgetherocks,Wikipedia:WikiProject Articles for creation/Help desk,"/* 03:17:37, 28 July 2015 review of submission by Dodgetherocks */"
+2015-07-29T13:36:23+00:00,673634070,673628571,0,Works712,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-27T04:20:28+00:00,673253674,673253151,0,DGG,Wikipedia:WikiProject Articles for creation/Help desk,"/* 01:02:06, 27 July 2015 review of submission by Dpaulbick */"
+2015-07-27T15:00:02+00:00,673314778,673314633,0,Timtrent,Wikipedia:WikiProject Articles for creation/Help desk,"/* Request on 13:52:34, 27 July 2015 for assistance on AfC submission by Puertorican52 */ reply"
+2015-07-27T05:04:12+00:00,673258382,673253674,0,Worldbruce,Wikipedia:WikiProject Articles for creation/Help desk,/* July 25 */ split days
+2015-07-29T00:06:33+00:00,673552693,673547626,0,Mvanmeer23,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-28T13:09:50+00:00,673466124,673436851,0,Sulmarkmack,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-27T11:11:51+00:00,673288722,673275533,0,182.156.76.194,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-26T16:25:26+00:00,673172193,673168148,0,Sanford1504,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-29T12:46:50+00:00,673628571,673627310,0,Duch0404,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-28T21:18:25+00:00,673532495,673531817,0,Timtrent,Wikipedia:WikiProject Articles for creation/Help desk,"/* 13:09:48, 28 July 2015 review of submission by Sulmarkmack */ thoughts"
+2015-07-27T20:39:32+00:00,673361042,673360809,0,Katsheron,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-28T03:49:37+00:00,673411812,673408782,0,Olga Rekovskaya,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-29T09:40:10+00:00,673609953,673609410,0,Timtrent,Wikipedia:WikiProject Articles for creation/Help desk,"/* 00:06:31, 29 July 2015 review of submission by Mvanmeer23 */ reply"
+2015-07-29T04:25:20+00:00,673581221,673559200,0,RAJIV KUMAR BHARDWAJ (PURI),Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-26T17:13:31+00:00,673178039,673172193,0,Smithr32,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-27T13:52:36+00:00,673305611,673288722,0,Puertorican52,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-26T22:58:08+00:00,673218932,673215986,0,E W Musgrave,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-26T22:02:26+00:00,673212734,673209979,0,Dodger67,Wikipedia:WikiProject Articles for creation/Help desk,"/* 19:35:37, 26 July 2015 review of submission by Rjames32 */ Comment"
+2015-07-27T18:13:18+00:00,673341452,673338873,0,Timtrent,Wikipedia:WikiProject Articles for creation/Help desk,"/* Request on 16:00:24, 27 July 2015 for assistance on AfC submission by GDMT NY */ reply"
+2015-07-28T16:54:27+00:00,673496064,673481299,0,Tank&sunny,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-27T16:00:25+00:00,673322795,673314778,0,GDMT NY,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-26T19:49:49+00:00,673196781,673194942,0,Timtrent,Wikipedia:WikiProject Articles for creation/Help desk,"/* 19:35:37, 26 July 2015 review of submission by Rjames32 */ answers"
+2015-07-26T19:35:39+00:00,673194942,673178039,0,Rjames32,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-28T21:48:39+00:00,673536817,673536739,0,Timtrent,Wikipedia:WikiProject Articles for creation/Help desk,"/* 21:40:32, 28 July 2015 review of submission by 27.106.41.25 */ rm empty dupe"
+2015-07-28T17:42:16+00:00,673502606,673502271,0,Timtrent,Wikipedia:WikiProject Articles for creation/Help desk,"/* 16:54:26, 28 July 2015 review of submission by Tank&sunny */ reply"
+2015-07-29T11:34:14+00:00,673620823,673612866,0,Tim B Haigh,Wikipedia:WikiProject Articles for creation/Help desk,
+2015-07-27T23:05:30+00:00,673380755,673361042,0,Sulfurboy,Wikipedia:WikiProject Articles for creation/Help desk,"/* Request on 00:17:45, 26 July 2015 for assistance on AfC submission by Onlinejonathan */"

@@ -1,0 +1,501 @@
+timestamp,revid,parentid,sock,user,page,message
+2012-04-29T23:56:08+00:00,489869377,489869286,1,Lisapalomeque,Flatback sea turtle,
+2012-04-29T23:55:35+00:00,489869286,488907806,1,Lisapalomeque,Flatback sea turtle,
+2012-04-29T23:51:39+00:00,489868810,489868688,1,Lisapalomeque,Leatherback sea turtle,
+2012-04-29T23:50:46+00:00,489868688,489868591,1,Lisapalomeque,Leatherback sea turtle,
+2012-04-29T23:49:56+00:00,489868591,489860707,1,Lisapalomeque,Leatherback sea turtle,
+2012-04-29T23:31:59+00:00,489866507,488908576,1,Lisapalomeque,ICE S,
+2012-04-26T16:27:53+00:00,489332959,489332311,1,Lisapalomeque,List of high-speed trains,
+2012-04-26T16:23:20+00:00,489332311,489330350,1,Lisapalomeque,List of high-speed trains,
+2012-04-26T16:10:46+00:00,489330350,488853992,1,Lisapalomeque,List of high-speed trains,
+2012-04-23T16:17:21+00:00,488835967,488776215,1,Lisapalomeque,List of high-speed trains,
+2012-04-23T16:10:39+00:00,488835031,488418927,1,Lisapalomeque,Trenton Line,
+2012-04-23T01:23:05+00:00,488742895,488476377,1,Lisapalomeque,Intercity Express,/* Differences in design */
+2012-04-22T13:16:42+00:00,488646021,487380111,1,Lisapalomeque,ICE 3,
+2012-04-22T13:15:12+00:00,488645870,487591301,1,Lisapalomeque,ICE S,
+2012-04-21T21:19:53+00:00,488552614,487899364,1,Lisapalomeque,ICE T,
+2012-04-21T11:38:34+00:00,488476377,488339314,1,Lisapalomeque,Intercity Express,/* Differences in design */
+2012-04-21T00:26:24+00:00,488417848,488417379,1,Lisapalomeque,Trenton Line,
+2012-04-21T00:21:12+00:00,488417379,488417188,1,Lisapalomeque,Trenton Line,
+2012-04-21T00:19:17+00:00,488417188,488417127,1,Lisapalomeque,Trenton Line,
+2012-04-21T00:18:40+00:00,488417127,488417062,1,Lisapalomeque,Trenton Line,
+2012-04-21T00:18:07+00:00,488417062,478314177,1,Lisapalomeque,Trenton Line,
+2012-04-20T19:30:24+00:00,488381526,488381433,1,Lisapalomeque,LeShuttle,
+2012-04-20T19:29:48+00:00,488381433,488381349,1,Lisapalomeque,LeShuttle,
+2012-04-20T19:29:16+00:00,488381349,488381177,1,Lisapalomeque,LeShuttle,
+2012-04-20T19:28:10+00:00,488381177,488380995,1,Lisapalomeque,LeShuttle,
+2012-04-20T19:26:47+00:00,488380995,487857213,1,Lisapalomeque,LeShuttle,
+2012-04-20T19:26:07+00:00,488380900,487856809,1,Lisapalomeque,Trans Europ Express,
+2012-04-20T19:25:18+00:00,488380784,487767467,1,Lisapalomeque,Pioneer Zephyr,
+2012-04-20T19:24:38+00:00,488380699,488379886,1,Lisapalomeque,ICE 1,
+2012-04-20T19:22:26+00:00,488380383,488380274,1,Lisapalomeque,ICE 2,/* Future */
+2012-04-20T19:21:47+00:00,488380274,487763735,1,Lisapalomeque,ICE 2,/* Future */
+2012-04-20T19:19:10+00:00,488379886,487867599,1,Lisapalomeque,ICE 1,
+2012-04-18T01:08:35+00:00,487928448,481976187,1,Lisapalomeque,Budd Rail Diesel Car,/* Canada */
+2012-04-17T21:06:19+00:00,487897669,479821899,1,Lisapalomeque,ICE T,
+2012-04-17T21:04:35+00:00,487897393,487897293,1,Lisapalomeque,Advanced Passenger Train,/* Bibliography */
+2012-04-17T21:04:03+00:00,487897293,487896373,1,Lisapalomeque,Advanced Passenger Train,/* References */
+2012-04-17T20:58:24+00:00,487896373,487895202,1,Lisapalomeque,Advanced Passenger Train,/* Bibliography */
+2012-04-17T20:42:20+00:00,487893980,484078020,1,Lisapalomeque,Advanced Passenger Train,
+2012-04-17T16:51:31+00:00,487858900,487853339,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T16:03:35+00:00,487851537,487850910,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T15:59:31+00:00,487850910,487849599,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T15:50:43+00:00,487849599,487842064,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T14:02:11+00:00,487835145,487834950,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T14:00:44+00:00,487834950,487834610,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:58:13+00:00,487834610,487833830,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:52:19+00:00,487833830,487833339,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:48:38+00:00,487833339,487832982,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:45:46+00:00,487832982,487832321,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:41:13+00:00,487832321,487831784,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:37:07+00:00,487831784,487831475,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:34:37+00:00,487831475,487831271,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:33:08+00:00,487831271,487830943,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:30:17+00:00,487830943,487830738,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:28:29+00:00,487830738,487473416,1,Lisapalomeque,List of high-speed trains,
+2012-04-17T13:16:30+00:00,487829344,487829273,1,Lisapalomeque,TGV,
+2012-04-17T13:15:53+00:00,487829273,487829103,1,Lisapalomeque,TGV,
+2012-04-17T13:14:38+00:00,487829103,487531381,1,Lisapalomeque,TGV,
+2012-04-17T13:09:02+00:00,487828438,487828243,1,Lisapalomeque,Trans Europ Express,
+2012-04-17T13:07:17+00:00,487828243,487828206,1,Lisapalomeque,Trans Europ Express,
+2012-04-17T13:06:51+00:00,487828206,487827989,1,Lisapalomeque,Trans Europ Express,
+2012-04-17T13:04:55+00:00,487827989,487762068,1,Lisapalomeque,Trans Europ Express,
+2012-04-17T13:03:59+00:00,487827862,487827802,1,Lisapalomeque,LeShuttle,
+2012-04-17T13:03:31+00:00,487827802,487827692,1,Lisapalomeque,LeShuttle,
+2012-04-17T13:02:29+00:00,487827692,487761779,1,Lisapalomeque,LeShuttle,
+2012-04-17T12:05:02+00:00,487820780,487766737,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-17T11:35:10+00:00,487817709,487817417,1,Lisapalomeque,Intercity Express,/* ICE TD */
+2012-04-17T11:32:11+00:00,487817417,487817153,1,Lisapalomeque,Intercity Express,/* Differences in design */
+2012-04-17T11:29:50+00:00,487817153,487817071,1,Lisapalomeque,Intercity Express,/* Differences in design */
+2012-04-17T11:29:18+00:00,487817071,487249256,1,Lisapalomeque,Intercity Express,/* Differences in design */
+2012-04-17T01:24:11+00:00,487763894,487763619,1,Lisapalomeque,ICE 1,
+2012-04-17T01:23:06+00:00,487763735,475929876,1,Lisapalomeque,ICE 2,
+2012-04-17T01:22:24+00:00,487763619,487763547,1,Lisapalomeque,ICE 1,
+2012-04-17T01:21:57+00:00,487763547,485326992,1,Lisapalomeque,ICE 1,
+2012-04-17T01:14:30+00:00,487762667,487409273,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-17T01:12:21+00:00,487762432,487530448,1,Lisapalomeque,Hiawatha (train),
+2012-04-17T01:11:09+00:00,487762246,487530361,1,Lisapalomeque,Pioneer Zephyr,
+2012-04-17T01:09:31+00:00,487762068,487762028,1,Lisapalomeque,Trans Europ Express,
+2012-04-17T01:09:10+00:00,487762028,487454366,1,Lisapalomeque,Trans Europ Express,
+2012-04-17T01:06:38+00:00,487761779,487761742,1,Lisapalomeque,LeShuttle,
+2012-04-17T01:06:22+00:00,487761742,484542936,1,Lisapalomeque,LeShuttle,
+2012-04-17T01:03:47+00:00,487761465,487594090,1,Lisapalomeque,Budd Metroliner,
+2012-04-16T01:01:31+00:00,487592521,487592135,1,Lisapalomeque,Intercity Experimental,
+2012-04-16T00:57:59+00:00,487592135,487591554,1,Lisapalomeque,Intercity Experimental,
+2012-04-16T00:52:49+00:00,487591554,487257556,1,Lisapalomeque,Intercity Experimental,
+2012-04-16T00:50:11+00:00,487591301,487256908,1,Lisapalomeque,ICE S,
+2012-04-16T00:38:58+00:00,487590123,487530672,1,Lisapalomeque,Budd Metroliner,
+2012-04-14T23:14:18+00:00,487417413,487417330,1,Lisapalomeque,Boeing 747,
+2012-04-14T23:13:20+00:00,487417330,487205863,1,Lisapalomeque,Boeing 747,
+2012-04-14T23:08:11+00:00,487416741,486593547,1,Lisapalomeque,Stephenson's Rocket,
+2012-04-14T21:38:20+00:00,487404209,487403885,1,Lisapalomeque,Eurostar,
+2012-04-14T21:36:10+00:00,487403885,486162561,1,Lisapalomeque,Eurostar,
+2012-04-14T21:32:05+00:00,487403264,486363736,1,Lisapalomeque,TGV,
+2012-04-14T21:28:40+00:00,487402730,487402692,1,Lisapalomeque,Trans Europ Express,
+2012-04-14T21:28:25+00:00,487402692,487402606,1,Lisapalomeque,Trans Europ Express,
+2012-04-14T21:27:49+00:00,487402606,487310660,1,Lisapalomeque,Trans Europ Express,
+2012-04-14T21:26:27+00:00,487402371,487359475,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-14T01:16:03+00:00,487265847,487265776,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-14T01:15:23+00:00,487265776,487034551,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-14T01:13:36+00:00,487265594,485142054,1,Lisapalomeque,Pioneer Zephyr,
+2012-04-13T23:59:49+00:00,487257556,487257417,1,Lisapalomeque,Intercity Experimental,
+2012-04-13T23:58:28+00:00,487257417,487257164,1,Lisapalomeque,Intercity Experimental,
+2012-04-13T23:55:59+00:00,487257164,487248169,1,Lisapalomeque,Intercity Experimental,
+2012-04-13T23:53:29+00:00,487256908,487256792,1,Lisapalomeque,ICE S,
+2012-04-13T23:52:26+00:00,487256792,487256679,1,Lisapalomeque,ICE S,
+2012-04-13T23:51:18+00:00,487256679,487256527,1,Lisapalomeque,ICE S,
+2012-04-13T23:50:05+00:00,487256527,487090597,1,Lisapalomeque,ICE S,
+2012-04-13T23:23:54+00:00,487253738,487253588,1,Lisapalomeque,Hiawatha (train),
+2012-04-13T23:22:28+00:00,487253588,484288978,1,Lisapalomeque,Hiawatha (train),
+2012-04-13T23:20:05+00:00,487253371,486990603,1,Lisapalomeque,Tower of Terror II,
+2012-04-13T23:17:42+00:00,487253130,487252790,1,Lisapalomeque,Superman: Escape from Krypton,
+2012-04-13T23:12:58+00:00,487252615,487251719,1,Lisapalomeque,Superman: Escape from Krypton,
+2012-04-13T23:04:06+00:00,487251719,485427690,1,Lisapalomeque,Superman: Escape from Krypton,
+2012-04-13T22:47:13+00:00,487250003,487249816,1,Lisapalomeque,ICE TD,
+2012-04-13T22:45:23+00:00,487249816,477742475,1,Lisapalomeque,ICE TD,
+2012-04-13T22:39:22+00:00,487249256,487249050,1,Lisapalomeque,Intercity Express,/* ICE TD */
+2012-04-13T22:37:27+00:00,487249050,487081233,1,Lisapalomeque,Intercity Express,/* ICE TD */
+2012-04-13T22:33:01+00:00,487248636,487248510,1,Lisapalomeque,ICE 4,
+2012-04-13T22:31:43+00:00,487248510,486741185,1,Lisapalomeque,ICE 4,
+2012-04-13T22:28:20+00:00,487248169,485550231,1,Lisapalomeque,Intercity Experimental,
+2012-04-13T22:25:45+00:00,487247921,487247457,1,Lisapalomeque,Concorde,
+2012-04-13T22:21:18+00:00,487247457,486926728,1,Lisapalomeque,Concorde,
+2012-04-13T00:22:42+00:00,487090597,486881285,1,Lisapalomeque,ICE S,
+2012-04-12T22:54:21+00:00,487081233,486881763,1,Lisapalomeque,Intercity Express,
+2012-04-12T16:51:32+00:00,487030320,486879912,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-12T16:50:26+00:00,487030153,486880087,1,Lisapalomeque,InterCity 125,
+2012-04-11T20:38:10+00:00,486881763,486879313,1,Lisapalomeque,Intercity Express,
+2012-04-11T20:35:16+00:00,486881285,486712335,1,Lisapalomeque,ICE S,
+2012-04-11T20:28:04+00:00,486880087,486877381,1,Lisapalomeque,InterCity 125,
+2012-04-11T20:25:23+00:00,486879647,486861910,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-11T20:23:19+00:00,486879313,486879044,1,Lisapalomeque,Intercity Express,
+2012-04-11T20:21:58+00:00,486879044,486878122,1,Lisapalomeque,Intercity Express,
+2012-04-11T20:16:46+00:00,486878122,486876855,1,Lisapalomeque,Intercity Express,
+2012-04-11T20:12:40+00:00,486877381,486803601,1,Lisapalomeque,InterCity 125,
+2012-04-11T20:09:33+00:00,486876855,486875729,1,Lisapalomeque,Intercity Express,
+2012-04-11T20:03:13+00:00,486875729,486875462,1,Lisapalomeque,Intercity Express,
+2012-04-11T20:01:43+00:00,486875462,486800721,1,Lisapalomeque,Intercity Express,
+2012-04-11T01:01:16+00:00,486728081,486727887,1,Lisapalomeque,ICE 4,
+2012-04-11T00:59:36+00:00,486727887,486727802,1,Lisapalomeque,ICE 4,
+2012-04-11T00:58:49+00:00,486727802,486719456,1,Lisapalomeque,ICE 4,
+2012-04-11T00:57:27+00:00,486727643,485921577,1,Lisapalomeque,Northeast Regional,
+2012-04-11T00:54:55+00:00,486727305,486528052,1,Lisapalomeque,Budd Metroliner,
+2012-04-11T00:51:56+00:00,486726908,486716706,1,Lisapalomeque,Metroliner (train),
+2012-04-11T00:01:00+00:00,486719456,486719252,1,Lisapalomeque,ICE 4,
+2012-04-10T23:59:25+00:00,486719252,486718027,1,Lisapalomeque,ICE 4,
+2012-04-10T23:50:07+00:00,486718027,477158627,1,Lisapalomeque,ICE 4,
+2012-04-10T23:40:13+00:00,486716706,486528120,1,Lisapalomeque,Metroliner (train),
+2012-04-10T23:06:41+00:00,486712648,486712507,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-10T23:05:26+00:00,486712507,485498626,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-10T23:04:06+00:00,486712335,486712295,1,Lisapalomeque,ICE S,
+2012-04-10T23:03:45+00:00,486712295,485359128,1,Lisapalomeque,ICE S,
+2012-04-09T23:54:23+00:00,486527369,481772825,1,Lisapalomeque,Budd Metroliner,
+2012-04-09T20:36:42+00:00,486497464,486497287,1,Lisapalomeque,Metroliner (train),
+2012-04-09T20:35:35+00:00,486497287,486354928,1,Lisapalomeque,Metroliner (train),
+2012-04-09T01:04:34+00:00,486350983,485415860,1,Lisapalomeque,Metroliner (train),
+2012-04-04T01:32:16+00:00,485431015,483766900,1,Lisapalomeque,Intercity Express,
+2012-04-04T01:22:04+00:00,485429486,485429144,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-04T01:19:50+00:00,485429144,485428734,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-04T01:17:19+00:00,485428734,485428224,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-04T01:14:05+00:00,485428224,485428102,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-04T01:13:21+00:00,485428102,485427928,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-04T01:12:17+00:00,485427928,484288500,1,Lisapalomeque,LNER Class A4 4468 Mallard,
+2012-04-03T01:02:08+00:00,485259889,485259830,1,Lisapalomeque,InterCity 125,
+2012-04-03T01:01:42+00:00,485259830,485259755,1,Lisapalomeque,InterCity 125,
+2012-04-03T01:01:06+00:00,485259755,485259689,1,Lisapalomeque,InterCity 125,
+2012-04-03T01:00:37+00:00,485259689,485259585,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:59:55+00:00,485259585,485259426,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:58:35+00:00,485259426,485259210,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:57:18+00:00,485259210,485259140,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:56:41+00:00,485259140,485258832,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:54:14+00:00,485258832,485258699,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:53:10+00:00,485258699,485258484,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:51:32+00:00,485258484,485258419,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:51:00+00:00,485258419,485258201,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:49:32+00:00,485258201,485258019,1,Lisapalomeque,InterCity 125,
+2012-04-03T00:48:23+00:00,485258019,484798667,1,Lisapalomeque,InterCity 125,
+2012-03-26T13:16:35+00:00,484007342,0,1,Lisapalomeque,User:Lisapalomeque,[[WP:AES|←]]Created page with 'This user was picked from actual login.'
+2012-03-26T13:15:51+00:00,484007251,483998255,1,Lisapalomeque,Wikipedia:Requests for permissions/Confirmed,/* unknown */ new section
+2012-03-26T01:07:30+00:00,483937738,483937394,1,Lisapalomeque,ICE S,
+2012-03-26T01:04:58+00:00,483937394,483937286,1,Lisapalomeque,ICE S,
+2012-03-26T01:04:15+00:00,483937286,483937163,1,Lisapalomeque,ICE S,
+2012-03-26T01:03:19+00:00,483937163,483936948,1,Lisapalomeque,ICE S,
+2012-03-26T01:01:32+00:00,483936948,483932876,1,Lisapalomeque,ICE S,
+2012-03-26T00:29:02+00:00,483932876,483932820,1,Lisapalomeque,ICE S,
+2012-03-26T00:28:38+00:00,483932820,483932733,1,Lisapalomeque,ICE S,
+2012-03-26T00:28:04+00:00,483932733,483932596,1,Lisapalomeque,ICE S,
+2012-03-25T01:17:29+00:00,483774803,483774751,1,Lisapalomeque,ICE S,
+2012-03-25T01:17:09+00:00,483774751,483774691,1,Lisapalomeque,ICE S,
+2012-03-25T01:16:39+00:00,483774691,483774577,1,Lisapalomeque,ICE S,
+2012-03-25T01:15:36+00:00,483774577,483774051,1,Lisapalomeque,ICE S,
+2012-03-25T01:11:23+00:00,483774051,483773242,1,Lisapalomeque,ICE S,
+2012-03-25T01:05:30+00:00,483773242,483772720,1,Lisapalomeque,ICE S,
+2012-03-25T01:00:58+00:00,483772720,468118079,1,Lisapalomeque,ICE S,
+2012-04-30T16:39:01+00:00,489973596,484768556,1,Titopalomeque,LRC (train),
+2012-04-30T15:37:37+00:00,489964490,489963824,1,Titopalomeque,List of high-speed trains,
+2012-04-30T15:32:59+00:00,489963824,489333656,1,Titopalomeque,List of high-speed trains,
+2012-04-30T15:15:07+00:00,489961369,489854677,1,Titopalomeque,LNER Class A4 4468 Mallard,
+2012-04-30T15:11:39+00:00,489960913,487594195,1,Titopalomeque,Intercity Experimental,
+2012-04-30T15:09:22+00:00,489960603,489621150,1,Titopalomeque,Wicked Twister,
+2012-04-30T15:07:49+00:00,489960401,489960120,1,Titopalomeque,ICE S,
+2012-04-30T15:05:47+00:00,489960120,489866507,1,Titopalomeque,ICE S,
+2012-04-17T11:31:42+00:00,487817362,487817220,0,Sturmovik,Budd Metroliner,
+2012-03-26T21:33:03+00:00,484078020,479315542,0,76.10.184.217,Advanced Passenger Train,/* Background */
+2012-04-20T07:12:59+00:00,488298001,487647883,0,98.232.24.90,Boeing 747,
+2012-03-14T00:37:44+00:00,481772825,481772737,0,71.175.95.240,Budd Metroliner,/* History */
+2012-04-17T21:12:11+00:00,487898468,487898030,0,Chevin,Advanced Passenger Train,"revert to revision as of 21:33, 26 March 2012 (edit)  76.10.184.217 (talk)"
+2012-04-16T11:03:00+00:00,487647883,487646048,0,SempreVolando,Boeing 747,Top 4 by present number in operation
+2012-04-22T10:06:15+00:00,488628025,488627661,0,Fnlayson,Boeing 747,Revert test/vandalism by [[Special:Contributions/123.243.215.223|123.243.215.223]] ([[User talk:123.243.215.223|talk]])
+2012-02-28T16:12:09+00:00,479315542,478669230,0,R'n'B,Advanced Passenger Train,Disambiguated: [[WCML]] → [[West Coast Main Line]]
+2012-03-29T09:30:23+00:00,484513544,484482161,0,Denniss,Boeing 747,Reverted 1 edit by [[Special:Contributions/74.127.65.60|74.127.65.60]] ([[User talk:74.127.65.60|talk]]) identified as [[WP:VAND|vandalism]] to last revision by 92.39.194.69. ([[WP:TW|TW]])
+2012-04-27T06:32:25+00:00,489432159,489391725,0,Britmax,Concorde,/* British Airways */ Typo - hangers are used for clothes.
+2012-04-18T01:45:40+00:00,487932734,487928448,0,David Biddulph,Budd Rail Diesel Car,"Undid revision 487928448 by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) - file doesn't exist, and jet version was USA not Canada"
+2012-04-09T07:17:12+00:00,486389141,486380028,0,Dolphin51,Concorde,Rv unsourced edit by [[Special:Contributions/82.31.240.163|82.31.240.163]] ([[User talk:82.31.240.163|talk]])
+2012-04-26T05:10:31+00:00,489267964,489267936,0,ClueBot NG,Concorde,"Reverting possible vandalism by [[Special:Contributions/68.122.190.75|68.122.190.75]] to version by Fnlayson. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1035809) (Bot)"
+2012-03-15T05:04:13+00:00,481976187,479162290,0,Hmains,Budd Rail Diesel Car,"copyedit, clarity edits, MOS implementation, and/or AWB general fixes using [[Project:AWB|AWB]]"
+2012-03-25T09:08:22+00:00,483821820,483102939,0,NotWith,Eurostar,TGV Lyria
+2012-04-17T01:54:40+00:00,487767175,487762432,0,David Biddulph,Hiawatha (train),[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by Mackensen
+2012-04-27T02:50:54+00:00,489414065,489410035,0,Plokijnu,Eurostar,/* Operational performance */ Added 2011 passenger numbers
+2012-04-16T16:56:22+00:00,487692527,487690877,0,Fnlayson,Concorde,"Revert incorrect change by [[Special:Contributions/96.243.148.167|96.243.148.167]] ([[User talk:96.243.148.167|talk]]), airport was named DFW Regional at the time"
+2012-03-18T20:05:15+00:00,482595241,482595055,0,Andy Dingley,Hiawatha (train),"rm hard-coded pixel size, per [[WP:MOSIMAGES]]"
+2012-04-10T03:56:27+00:00,486558492,483740222,0,EmausBot,Flatback sea turtle,r2.7.2+) (Robot: Adding [[sr:Natator depressus]]
+2012-03-28T02:09:40+00:00,484288978,484278285,0,Renamed user 995577823Xyn,Hiawatha (train),added ref
+2012-04-24T00:21:09+00:00,488907806,487722834,0,BoundaryRider,Flatback sea turtle,/* Hatching */ grammar (predate is NOT a verb form of predation)
+2012-04-14T21:56:49+00:00,487407035,487404209,0,Alarics,Eurostar,"RV. Since HS1 opened it is no longer true that Eurostar travels significantly more slowly in UK. Also, we don't disambiguate standalone world cities such as London and Paris."
+2012-02-12T19:32:01+00:00,476498403,475929912,0,Kilom691,ICE 1,ref modified
+2012-04-03T12:38:17+00:00,485326992,476498403,0,94.159.141.151,ICE 1,/* Formation */
+2012-02-09T11:59:49+00:00,475929876,471148820,0,Woohookitty,ICE 2,[[:en:WP:CLEANER|WPCleaner]] (v1.10) Repaired link to disambiguation page - [[WP:DPL|(You can help)]] - [[High-speed train]]
+2012-04-25T17:37:15+00:00,489187236,489106253,0,78.146.97.155,ICE 3,
+2012-04-24T00:28:42+00:00,488908693,488380383,0,Mackensen,ICE 2,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by Woohookitty
+2012-04-14T19:10:36+00:00,487380111,476719700,0,Plokijnu,ICE 3,Updated link to list of high-speed trains
+2012-02-16T09:56:50+00:00,477158627,472957676,0,Vagobot,ICE 4,r2.7.2) (Robot: Adding [[sv:ICx]]
+2012-04-15T17:31:08+00:00,487532076,487248636,0,Mackensen,ICE 4,restoring parameters
+2012-04-24T00:27:32+00:00,488908576,488645870,0,Mackensen,ICE S,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by Jackhuffty
+2012-04-03T16:39:48+00:00,485359128,485358629,0,Jackhuffty,ICE S,
+2012-04-24T11:05:04+00:00,488967925,487532076,0,213.152.245.252,ICE 4,/* Contract */
+2012-04-21T22:16:32+00:00,488560464,488560057,0,Signalhead,ICE T,MoS edits
+2012-03-02T14:22:34+00:00,479821899,464372584,0,Joefromrandb,ICE T,ce
+2012-02-19T18:03:07+00:00,477742475,477742371,0,85.24.57.145,ICE TD,
+2012-04-03T10:03:09+00:00,485311835,485259889,0,Redrose64,InterCity 125,convert
+2012-03-24T15:32:49+00:00,483701480,481763226,0,ChuispastonBot,InterCity 125,r2.7.1) (Robot: Adding [[ja:インターシティー125]]
+2012-04-11T11:50:27+00:00,486803601,485311835,0,RjwilmsiBot,InterCity 125,"CiteCompletion, {{dead link}}s: 2 using [[Project:AWB|AWB]] (8060)"
+2012-03-31T04:23:02+00:00,484798667,483701480,0,Helpful Pixie Bot,InterCity 125,ISBNs (Build KB)
+2012-04-16T01:17:14+00:00,487594195,487592521,0,Mackensen,Intercity Experimental,
+2011-07-30T21:42:21+00:00,442261607,425137512,0,ArtVandelay13,Intercity Experimental,change link [[InterCity]] to [[Intercity (Deutsche Bahn)]] using [[Project:AWB|AWB]]
+2012-04-04T16:26:10+00:00,485550231,442261607,0,EmausBot,Intercity Experimental,r2.7.2+) (Robot: Modifying [[zh:試驗型城際特快列車]]
+2012-03-25T00:12:15+00:00,483766900,483716691,0,Helpful Pixie Bot,Intercity Express,ISBNs (Build J/)
+2012-04-24T00:28:25+00:00,488908659,488742895,0,Mackensen,Intercity Express,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by 109.90.212.161
+2012-04-28T16:52:04+00:00,489648980,488908659,0,Hydrox,Intercity Express,/* History of the ICE */ rm unnecessary breaks
+2012-04-06T10:48:38+00:00,485877541,485431015,0,69.86.134.6,Intercity Express,/* Differences in design */
+2012-04-11T11:30:06+00:00,486800721,486800514,0,Choabhishek,Intercity Express,
+2012-04-04T11:59:09+00:00,485498626,485429486,0,Redrose64,LNER Class A4 4468 Mallard,rv: non-existent imgage; other edits break infobox
+2012-04-24T17:33:51+00:00,489018694,489018680,0,ClueBot NG,LNER Class A4 4468 Mallard,"Reverting possible vandalism by [[Special:Contributions/90.222.0.225|90.222.0.225]] to version by David Biddulph. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1031724) (Bot)"
+2012-04-29T22:02:35+00:00,489854677,489759376,0,JustinSmith,LNER Class A4 4468 Mallard,/* Rival claims */ More on
+2012-03-11T17:11:45+00:00,481352181,480421810,0,Dudva,LNER Class A4 4468 Mallard,/* Rival claims */ Change photo
+2012-04-17T14:53:51+00:00,487841843,487820780,0,David Biddulph,LNER Class A4 4468 Mallard,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by David Biddulph
+2012-03-28T02:05:55+00:00,484288500,484285955,0,G-13114,LNER Class A4 4468 Mallard,Undid revision 484285955 by [[Special:Contributions/94.192.155.147|94.192.155.147]] ([[User talk:94.192.155.147|talk]])
+2012-04-14T22:10:40+00:00,487409273,487402371,0,Redrose64,LNER Class A4 4468 Mallard,Undid revision 487402371 by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) rv unsourced
+2012-04-27T19:28:09+00:00,489516460,489516385,0,Redrose64,LNER Class A4 4468 Mallard,/* Rival claims */ source?
+2012-03-30T22:52:42+00:00,484768556,484768369,0,50.65.49.18,LRC (train),/* LRC */
+2012-03-15T21:57:51+00:00,482096409,478205978,0,1exec1,LeShuttle,
+2012-03-29T14:29:00+00:00,484542936,482096409,0,Sunstarfire,LeShuttle,Minor typo
+2012-04-11T20:26:56+00:00,486879912,486879647,0,Britmax,LNER Class A4 4468 Mallard,Undid revision 486879647 by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]])Reverted unsourced apparently random change of a number with no edit summary
+2012-04-20T20:39:54+00:00,488390854,488381526,0,Signalhead,LeShuttle,reverted last five edits
+2012-04-17T16:40:44+00:00,487857213,487827862,0,David Biddulph,LeShuttle,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by Sunstarfire
+2012-04-20T02:53:07+00:00,488274256,488271339,0,Myasuda,Leatherback sea turtle,Undid revision 488271339 by [[Special:Contributions/208.102.38.79|208.102.38.79]] ([[User talk:208.102.38.79|talk]])
+2012-04-15T20:15:14+00:00,487555582,487555556,0,ClueBot NG,Leatherback sea turtle,"Reverting possible vandalism by [[Special:Contributions/99.245.187.14|99.245.187.14]] to version by 208.87.217.46. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1013522) (Bot)"
+2012-03-25T00:07:43+00:00,483766339,483007691,0,Jac16888,Leatherback sea turtle,rm sig
+2012-03-16T17:28:11+00:00,482223677,482220994,0,84.13.20.89,List of high-speed trains,
+2012-04-23T18:16:45+00:00,488853992,488835967,0,David Biddulph,List of high-speed trains,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by Python eggs
+2012-04-15T09:10:47+00:00,487473416,487375520,0,151.41.132.200,List of high-speed trains,Chanced ref  and name correct
+2012-04-11T18:23:26+00:00,486859495,484049934,0,Bucyrus,List of high-speed trains,
+2012-03-26T18:27:20+00:00,484049934,482223677,0,151.41.184.155,List of high-speed trains,
+2012-04-26T16:32:33+00:00,489333656,489332959,0,David Biddulph,List of high-speed trains,rv yet more unexplained edits by Lisapalomeque removing sourced data and replacing it by unsourced
+2012-04-17T17:16:16+00:00,487862608,487858900,0,David Biddulph,List of high-speed trains,"Undid revision 487858900 by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) - not only unexplained and unsourced but obviously incorrect, e.g. 168 mph (357 km/h)"
+2012-04-14T06:39:45+00:00,487298188,487214979,0,Bucyrus,List of high-speed trains,Only five units S-103 series
+2012-04-13T18:35:24+00:00,487214979,487214670,0,Plokijnu,List of high-speed trains,Minor correction
+2011-11-30T04:33:58+00:00,463233439,463232452,0,KJRehberg,Metroliner (train),/* Equipment */ Adjusted link to Amfleet.
+2012-04-15T17:17:24+00:00,487530211,486726908,0,Mackensen,Metroliner (train),"this article is about the service, so it's more accurate to state that it was discontinued"
+2012-04-03T23:36:09+00:00,485415860,463233439,0,BD2412,Metroliner (train),"no redirect, fix tag; intentional disambiguation linking mandated by [[WP:MOSDAB]], [[WP:INTDABLINK]], to remove false positives from lists of links needing repair"
+2012-04-15T17:20:35+00:00,487530650,486727643,0,Mackensen,Northeast Regional,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by 74.73.227.222
+2012-03-19T01:04:47+00:00,482642416,481609527,0,70.42.157.5,Northeast Regional,/* Route */
+2012-04-22T02:28:42+00:00,488591166,488380784,0,71.197.246.210,Pioneer Zephyr,"rvt unsourced, tidy"
+2012-03-25T04:48:58+00:00,483798280,477853576,0,67.174.131.59,Pioneer Zephyr,
+2012-04-04T01:10:47+00:00,485427690,483266182,0,76.90.45.238,Superman: Escape from Krypton,/* Superman: Escape from Krypton (2011—present) */
+2012-04-26T20:20:41+00:00,489366990,489324943,0,Hallucegenia,Stephenson's Rocket,/* Design */ resequence
+2012-04-17T02:25:26+00:00,487770470,487531812,0,Astros4477,Superman: Escape from Krypton,added new image
+2012-04-17T01:57:28+00:00,487767467,487762246,0,David Biddulph,Pioneer Zephyr,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by Mackensen
+2012-03-29T21:28:10+00:00,484602984,484602976,0,ClueBot NG,Stephenson's Rocket,"Reverting possible vandalism by [[Special:Contributions/142.33.206.2|142.33.206.2]] to version by Helpful Pixie Bot. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (984853) (Bot)"
+2012-03-21T23:48:52+00:00,483266182,481954645,0,Astros4477,Superman: Escape from Krypton,/* History */
+2012-04-09T03:03:30+00:00,486363736,483828490,0,78.86.250.228,TGV,
+2012-04-15T17:26:14+00:00,487531381,487403264,0,Mackensen,TGV,Undid revision 487403264 by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) contradicted by article
+2012-04-27T20:10:23+00:00,489521939,489402607,0,Ita140188,TGV,
+2012-03-25T10:27:51+00:00,483828490,483823958,0,86.8.108.206,TGV,/* Rolling stock */ added euroduplex
+2012-04-17T14:57:44+00:00,487842376,487829344,0,David Biddulph,TGV,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by Mackensen
+2012-04-13T23:36:47+00:00,487255059,487253371,0,Trivialist,Tower of Terror II,Undid revision 487253371 by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) nonexistent file
+2012-03-03T18:09:43+00:00,480011999,479983599,0,HiW-Bot,Trans Europ Express,r2.7.2) (Robot: Removing [[ru:Trans Europ Express]]
+2012-04-20T20:40:30+00:00,488390932,488380900,0,Signalhead,Trans Europ Express,Undid revision 488380900 by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]])
+2012-04-14T09:09:44+00:00,487310660,480011999,0,A1AA1A,Trans Europ Express,
+2012-04-15T05:33:44+00:00,487454366,487454115,0,SJ Morg,Trans Europ Express,Undid revision 487402692 by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]): see earlier explanation; missed this one
+2012-04-17T16:38:16+00:00,487856809,487828438,0,David Biddulph,Trans Europ Express,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lisapalomeque|Lisapalomeque]] ([[User talk:Lisapalomeque|talk]]) to last version by SJ Morg
+2012-02-22T21:12:01+00:00,478314177,462562492,0,Mitchazenia,Trenton Line,/* List of stations */ delink the closed stations
+2012-04-25T04:19:44+00:00,489104892,488854050,0,Rally955,Trenton Line,/* Route */
+2012-04-19T10:36:01+00:00,488149233,487937595,0,Dlte,Wicked Twister,
+2012-03-26T01:22:43+00:00,483939790,483786482,0,Astros4477,Wicked Twister,/* The ride */ added train photo
+2012-04-19T14:17:03+00:00,488173816,488158324,0,Sphilbrick,Wikipedia:Requests for permissions/Confirmed,/* User:Anthonymclaren */ This is slightly complicated.
+2012-04-16T17:02:41+00:00,487693407,487689969,0,DangerousPanda,Wikipedia:Requests for permissions/Confirmed,/* User:Asgbaumann */ ?
+2012-01-04T18:45:31+00:00,469556644,463024044,0,188.66.85.142,Advanced Passenger Train,
+2011-11-29T03:35:26+00:00,463024044,439681050,0,24.186.185.140,Advanced Passenger Train,
+2012-01-07T08:47:52+00:00,470048385,469736713,0,SynergyStar,Boeing 747,/* External links */  move EL template to standard EL
+2012-02-08T18:27:04+00:00,475799572,475063703,0,Stemonitis,Boeing 747,"typo: ""a early"" => ""an early"""
+2011-08-09T19:32:24+00:00,443922278,443920334,0,MilborneOne,Boeing 747,Undid revision 443920334 by [[Special:Contributions/Katarighe|Katarighe]] ([[User talk:Katarighe|talk]])dont really need that level of detail in the infobox image caption
+2012-04-13T17:36:46+00:00,487205863,487204643,0,Skysmurf,Boeing 747,Reverted 1 edit by [[Special:Contributions/66.210.244.157|66.210.244.157]] ([[User talk:66.210.244.157|talk]]) identified as [[WP:VAND|vandalism]] to last revision by SempreVolando. ([[WP:TW|TW]])
+2011-12-29T13:59:06+00:00,468270123,468026044,0,Cydebot,Boeing 747,Robot - Removing category Commercial airplanes per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 December 22]].
+2011-11-03T07:06:38+00:00,458769816,458726754,0,Rachel612,Boeing 747,updated to reflect introduction of 747-8F
+2011-12-19T14:01:02+00:00,466687625,466686753,0,MilborneOne,Boeing 747,Undid revision 466686753 by [[Special:Contributions/Benedict Sarino|Benedict Sarino]] ([[User talk:Benedict Sarino|talk]])pal spam - not a big operator
+2011-09-04T05:05:42+00:00,448343748,447248062,0,Sp33dyphil,Boeing 747,"tweaks, replaced: [[Airbus A340- → [[Airbus A340|Airbus A340-, typos fixed: Internatinal → International using [[Project:AWB|AWB]]"
+2011-08-19T16:47:57+00:00,445690166,434705353,0,Fairlyoddparents1234,Budd Metroliner,
+2011-06-17T04:13:45+00:00,434705353,434654190,0,Oknazevad,Budd Metroliner,Undid revision 434654190 by [[Special:Contributions/72.79.107.128|72.79.107.128]] ([[User talk:72.79.107.128|talk]])Uncited
+2011-09-19T13:37:43+00:00,451326078,451325049,0,Oanabay04,Budd Rail Diesel Car,/* Preservation */
+2011-10-25T17:26:09+00:00,457347088,455954383,0,Huduuthink,Budd Rail Diesel Car,/* Preservation */
+2011-08-02T06:54:12+00:00,442635176,436266217,0,Ng.j,Budd Rail Diesel Car,/* Canada */ The [[Toronto]] [[Air Rail Link]] connecting [[Union Station (Toronto)|Union Station]] to [[Toronto Pearson International Airport|Pearson International Airport]] is under construction. It was originally intended to use refurbished RDCs w
+2012-02-27T18:52:50+00:00,479162290,478103277,0,Mike1942f,Budd Rail Diesel Car,/* United States */ change tense for trains now in service
+2011-12-19T00:40:52+00:00,466609991,466360658,0,Indefatigable,Budd Rail Diesel Car,/* France */ Copy edit
+2011-10-04T01:46:41+00:00,453813380,453585786,0,Cydebot,Concorde,Robot - Moving category International airliners 1960-1969 to [[:Category:International airliners 1960–1969]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 September 20]].
+2012-01-20T15:59:21+00:00,472270712,472099439,0,Indefatigable,Budd Rail Diesel Car,Undid revision 472099439 by [[Special:Contributions/70.82.1.56|70.82.1.56]] ([[User talk:70.82.1.56|talk]])
+2011-12-19T02:19:29+00:00,466621465,466360855,0,Deflective,Concorde,IPAc-en conversion
+2011-08-23T20:03:16+00:00,446373684,446012749,0,Lightbot,Concorde,/* Specifications */Delink non-obscure units. Conversions. Report bugs to [[User talk:Lightmouse|Lightmouse]]
+2012-03-04T00:09:30+00:00,480063322,480063024,0,Bzuk,Concorde,redundant
+2012-02-09T15:40:18+00:00,475958959,475874461,0,Cowbert,Concorde,/* British Airways */
+2012-03-18T21:38:24+00:00,482611399,482411591,0,Yobot,Concorde,/* External links */[[WP:CHECKWIKI]] error  fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (8024)
+2012-01-17T14:42:41+00:00,471869736,471867088,0,AnomieBOT,Concorde,Dating maintenance tags: {{Citation needed}}
+2012-01-31T20:14:28+00:00,474269822,474269518,0,Eric Blatant,Concorde,/* Air France */
+2011-08-19T04:44:58+00:00,445617562,445551954,0,61.16.239.178,Concorde,/* Records */
+2012-04-13T23:39:14+00:00,487255295,487247921,0,Teapeat,Concorde,rv: that wasn't it's top speed
+2011-10-05T20:11:57+00:00,454123694,453927581,0,Citation bot 1,Eurostar,"[Pu408]Add: issue. Tweak: title, issue. Combined duplicate references.  You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]."
+2012-03-09T21:07:30+00:00,481064088,481062156,0,GliderMaven,Concorde,/* British Airways */
+2012-02-23T22:45:02+00:00,478505839,477862338,0,Movses-bot,Concorde,r2.6.5) (Robot: Modifying [[be:Aérospatiale-BAC Concorde]]
+2011-08-28T15:17:43+00:00,447149513,445782033,0,Luckas-bot,Eurostar,r2.7.1) (robot Adding: [[mr:युरोस्टार]]
+2012-03-21T11:44:35+00:00,483102939,483100855,0,Hammersfan,Eurostar,Eurostar had a pair of Class 73/1s - the SWT image is a 73/2
+2012-01-11T23:09:16+00:00,470877313,470262752,0,2.25.166.173,Eurostar,/* Past fleet */
+2011-07-19T11:59:12+00:00,440295580,438605523,0,Lightbot,Eurostar,Mostly units
+2012-02-27T15:14:38+00:00,479129119,478604502,0,129.31.18.83,Eurostar,rm Thalys picture - why have Thalys in an article about Eurostar??
+2011-10-21T13:30:54+00:00,456675942,456151083,0,Gil Gamesh,Eurostar,/* Future fleet */ dab
+2012-04-03T09:57:39+00:00,485311288,483821820,0,H3llBot,Eurostar,BOT: [[User:H3llBot/ADL|Added 2 Wayback archive urls for dead citation links]]. [[User talk:H3llBot|Queries and error reports]]
+2012-01-04T00:18:07+00:00,469422081,469393602,0,86.135.197.199,Eurostar,Removed section copied from Siemens Velaro article - new trains don't need seperate section
+2011-12-16T23:14:38+00:00,466233405,466073655,0,HRoestBot,Flatback sea turtle,r2.6.5) (robot Modifying: [[ca:Tortuga plana d'Austràlia]]
+2011-09-14T17:14:40+00:00,450497625,445824203,0,MystBot,Flatback sea turtle,r2.7.1) (Robot: Adding [[it:Natator depressus]]
+2011-08-20T13:53:24+00:00,445824203,445824155,0,Sun Creator,Flatback sea turtle,removed [[Category:Cheloniidae]] using [[WP:HC|HotCat]]
+2011-11-15T18:22:48+00:00,460814153,450497625,0,Sun Creator,Flatback sea turtle,[[WP:GENFIXES|General]] and [[WP:AWB/T|Typo fixing]] using [[Project:AWB|AWB]]
+2012-03-24T20:55:05+00:00,483740222,466233405,0,Idioma-bot,Flatback sea turtle,r2.7.2) (Robot: Adding [[lt:Natator depressus]]
+2011-06-10T15:30:08+00:00,433569809,433569741,0,KelleyCook,Flatback sea turtle,"[[tools:~dispenser/view/Pywikipedia|reflinks]]: Bot: Converting bare references, using ref names to avoid duplicates, see [[User:DumZiBoT/refLinks|FAQ]]"
+2011-05-17T18:21:23+00:00,429597837,421423572,0,Chick Bowen,Hiawatha (train),"/* Twin Cities Hiawatha */ changing to larger size, since image is now less tightly cropped"
+2011-10-03T22:35:22+00:00,453786446,445513938,0,Gaius Cornelius,ICE 1,/* Technology */Fix indefinite article using [[Project:AWB|AWB]]
+2011-11-18T13:51:35+00:00,461275132,453786446,0,FlyAkwa,ICE 1,See also
+2011-08-18T15:17:06+00:00,445513938,442874868,0,Eekh.eu,ICE 1,/* Distinctive features */
+2011-08-21T11:40:49+00:00,445974943,445967073,0,Wheeltapper,ICE 2,future
+2011-12-06T11:16:09+00:00,464372506,445974943,0,FlyAkwa,ICE 2,/* See also */
+2012-01-13T14:48:07+00:00,471148820,464372506,0,D.scain.farenzena,ICE 2,Link to push-pull train redirected to push-pull disambiguation page.
+2011-08-03T18:01:30+00:00,442879051,442877757,0,Lightbot,ICE 3,Mostly units
+2011-12-06T11:16:14+00:00,464372513,458629960,0,FlyAkwa,ICE 3,/* See also */
+2011-11-02T13:03:34+00:00,458629960,458471936,0,AnomieBOT,ICE 3,"Rescuing orphaned refs (""MR201012p70"" from rev 452246297)"
+2011-11-01T15:18:13+00:00,458471936,458457217,0,Tetobbe,ICE 3,Deleted irrelevant/unnecessary info
+2012-01-02T22:37:10+00:00,469212082,469206033,0,Fan Railer,ICE 3,
+2012-02-13T21:34:06+00:00,476719700,475247791,0,Carham1228,ICE 3,
+2011-09-27T17:50:31+00:00,452731089,448747381,0,M-le-mot-dit,ICE 4,[[:en:WP:CLEANER|WPCleaner]] (v1.09) Repaired link to disambiguation page - [[WP:DPL|(You can help)]] - [[Bombardier]]
+2011-09-06T13:34:34+00:00,448747381,446207747,0,Yobot,ICE 4,"[[WP:CHECKWIKI]] error 53|51 fixes + [[WP:GENFIXES|general fixes]], removed stub tag using [[Project:AWB|AWB]] (7829)"
+2011-08-22T20:32:32+00:00,446207747,446207437,0,Fan Railer,ICE 4,
+2012-04-11T02:42:28+00:00,486741185,486728081,0,CommonsDelinker,ICE 4,"Removing ""SIEMENS-wins-6-billion-contract-to-build-Trains-1.jpg"", it has been deleted from Commons by [[commons:User:Denniss|Denniss]] because: [[commons:COM:L|Copyright violation]]."
+2011-12-28T17:50:11+00:00,468118079,433127384,0,VeblenBot,ICE S,[[Wikipedia:Stub_types_for_deletion/Log/2011/August/18#Rail_-.3E_Rail_transport]] (BRFA 4)
+2011-06-08T00:49:42+00:00,433127384,426430808,0,Sladen,ICE S,added [[Category:Track recording trains]] using [[WP:HC|HotCat]]
+2011-09-15T23:39:17+00:00,450724449,442880625,0,161.130.163.141,ICE T,
+2011-12-06T11:16:59+00:00,464372584,450724449,0,FlyAkwa,ICE T,/* See also */
+2011-08-03T18:11:51+00:00,442880625,442261386,0,Lightbot,ICE T,Mostly units
+2011-08-10T20:37:01+00:00,444132775,442261416,0,78.86.37.131,ICE TD,
+2012-01-10T16:29:38+00:00,470635212,464372591,0,85.182.53.208,ICE TD,
+2011-12-06T11:17:05+00:00,464372591,451328860,0,FlyAkwa,ICE TD,/* See also */
+2011-09-19T13:57:46+00:00,451328860,449871733,0,183.77.156.195,ICE TD,/* Service history */ added missing parenthesis
+2011-09-13T18:24:59+00:00,450334458,450334246,0,Mattbuck,InterCity 125,/* Eastern England / Scotland */ unpara
+2012-02-17T23:14:06+00:00,477446743,477244810,0,HJ Mitchell,InterCity 125,/* See also */ +
+2011-07-22T20:56:20+00:00,440891114,439065937,0,212.183.140.14,InterCity 125,clearer grammar
+2011-11-14T17:41:54+00:00,460638604,460635571,0,AnomieBOT,InterCity 125,Dating maintenance tags: {{Cn}}
+2011-12-06T11:18:26+00:00,464372705,460638604,0,FlyAkwa,InterCity 125,/* See also */
+2011-09-26T01:13:28+00:00,452449468,452449409,0,50.39.100.210,InterCity 125,/* In fiction */
+2011-10-25T19:23:02+00:00,457365314,456539083,0,92.19.207.174,Intercity Express,
+2011-08-04T15:36:44+00:00,443029508,442932517,0,Chris the speller,Intercity Express,"[[WP:AWB/T|Typo fixing]] per WP:HYPHEN, replaced: well-known → well known, specially- → specially, typos fixed: , → , using [[Project:AWB|AWB]] (7794)"
+2011-12-20T18:33:44+00:00,466894446,466320466,0,92.19.192.166,Intercity Express,/* Line segments abroad */
+2012-01-11T21:32:00+00:00,470861326,470317992,0,WilliamH,Intercity Express,/* ICE design */ Not the meaning intended
+2011-12-04T10:07:28+00:00,464001238,463971550,0,BIL,Intercity Express,/* Line segments abroad */
+2011-09-04T19:08:30+00:00,448450108,443029508,0,Maxiiie,Intercity Express,/* Trivia */ Minor adjustment
+2011-09-24T04:20:25+00:00,452140018,452139404,0,24.11.31.242,Intercity Express,/* External links */
+2011-11-21T19:54:16+00:00,461817240,461815569,0,AMackenzie,Intercity Express,/* Denmark */ Correct solecism.
+2011-11-11T20:42:59+00:00,460184283,459096197,0,79.202.235.226,Intercity Express,/* Third generation */
+2011-10-20T16:44:49+00:00,456539083,452140018,0,MartinZwirlein,Intercity Express,"Disambiguated: [[Kinzigtalbahn]] → [[Kinzigtalbahn (Hesse)]], [[Trix]] → [[Trix (company)]] (2) using [[tools:~dispenser/view/Dab_solver|Dab solver]]"
+2011-09-07T18:44:23+00:00,448979451,448450108,0,Xqbot,Intercity Express,r2.7.2) (Robot: Modifying [[sv:Intercity express]]
+2012-02-08T11:07:10+00:00,475741760,475006491,0,RedBot,Intercity Express,r2.5.2) (Robot: Modifying [[cs:Intercity-Express]]
+2011-08-04T00:24:35+00:00,442932517,442393076,0,AvicAWB,Intercity Express,wikilink update using [[Project:AWB|AWB]]
+2011-11-03T23:02:16+00:00,458886800,458886029,0,142.205.241.254,LNER Class A4 4468 Mallard,"/* Record */ Move links for ""big end"" and ""bearing"" to first use of phrase.  Clarify ""middle"".  Fix punctuation error."
+2011-11-08T23:30:55+00:00,459714355,459424093,0,Snapper five,LNER Class A4 4468 Mallard,The trip was cancelled
+2011-10-04T13:07:09+00:00,453893095,453893022,0,81.23.49.179,LNER Class A4 4468 Mallard,
+2011-08-15T17:43:00+00:00,445006411,443217166,0,Iloveairbus11,LNER Class A4 4468 Mallard,The mallard is now back at York for the summer as it says on the website.
+2012-03-10T16:43:05+00:00,481180872,481092529,0,Eja2k,LRC (train),removed photo credit and dead link from infobox
+2011-05-31T14:07:24+00:00,431828467,426655276,0,Oknazevad,LRC (train),/* See also */ clear out already-linked items
+2012-01-08T14:41:39+00:00,470262961,466370954,0,Chowbok,LRC (train),[[WP:GENFIXES|General fixes]] using [[Project:AWB|AWB]] (7910)
+2011-12-17T18:24:14+00:00,466370954,466229186,0,Iain Bell,LRC (train),and car numbers and ref
+2011-11-04T12:45:15+00:00,458963503,458768688,0,216.121.163.74,LRC (train),/* Preservation */
+2012-01-19T05:12:51+00:00,471997148,470262961,0,Download,LRC (train),/* Service entry */cleanup using [[Project:AWB|AWB]]
+2011-09-02T14:30:59+00:00,448046234,431828467,0,Harry the Dirty Dog,LRC (train),/* In service */ wrong nightstar
+2012-01-04T01:05:29+00:00,469427985,469427837,0,Nnemo,LeShuttle,
+2011-10-03T09:11:36+00:00,453666645,452897230,0,Od Mishehu AWB,LeShuttle,[[Wikipedia:WikiProject Stub sorting|stub sorting]]: [[Category:Belgium transport stubs]] using [[Project:AWB|AWB]]
+2012-03-03T16:46:59+00:00,480000438,479150125,0,Falc,Leatherback sea turtle,/* Ecology and life history */ Added that the lifespan is unknown and extrapolated guesses vary widely and should be considered unreliable.
+2011-10-31T08:34:38+00:00,458264932,458264498,0,109.176.205.8,Leatherback sea turtle,/* Importance to humans */
+2011-09-02T13:27:26+00:00,448037961,448036208,0,Sandhillcrane,Leatherback sea turtle,
+2011-11-15T20:27:03+00:00,460833346,460677389,0,Sun Creator,Leatherback sea turtle,[[WP:GENFIXES|General]] and [[WP:AWB/T|Typo fixing]] using [[Project:AWB|AWB]]
+2012-01-04T05:24:33+00:00,469458000,469457480,0,WolfmanSF,Leatherback sea turtle,/* Taxonomy */ wording; remove space
+2011-12-02T08:14:31+00:00,463632702,463625855,0,WikitanvirBot,Leatherback sea turtle,r2.7.1) (Robot: Modifying [[da:Havlæderskildpadde]]
+2011-11-25T12:37:27+00:00,462401122,462401035,0,St.kittsturtles,Leatherback sea turtle,/* Country and local initiatives */
+2012-02-09T00:01:01+00:00,475851580,475851139,0,Chipmunkdavis,Leatherback sea turtle,Undid revision 475851139 by [[Special:Contributions/169.231.55.196|169.231.55.196]] ([[User talk:169.231.55.196|talk]]) unexplained removal
+2012-01-28T08:14:10+00:00,473654167,473596033,0,Luckas-bot,Leatherback sea turtle,r2.7.1) (Robot: Adding [[ml:ലെതർ ബാക്ക് കടലാമ]]
+2011-10-05T17:44:33+00:00,454102858,453620190,0,71.174.57.226,Leatherback sea turtle,/* Life history */
+2011-11-06T15:37:04+00:00,459302751,459302242,0,Stemonitis,Leatherback sea turtle,remove authority and boldface from higher taxon which no longer redirects here
+2011-10-03T00:43:51+00:00,453616797,453544905,0,WikHead,List of high-speed trains,Dismissed cite-error + tag update
+2012-03-09T21:51:40+00:00,481070040,481041742,0,82.13.67.254,List of high-speed trains,
+2011-11-16T13:44:20+00:00,460944296,453616797,0,FlyAkwa,List of high-speed trains,"New list, reordered, completed, with icons and pictures."
+2012-01-29T00:47:56+00:00,473778008,473557619,0,Niceguyedc,List of high-speed trains,[[:en:WP:CLEANER|WPCleaner]] (v1.09) External link with two brackets (Fixed using [[WP:WCW]])
+2011-10-02T15:57:34+00:00,453544905,453519623,0,Tompw,List of high-speed trains,add some references for speeds
+2011-06-13T13:58:04+00:00,434056261,414248502,0,Lightbot,Metroliner (train),Units of measure
+2012-02-15T01:20:25+00:00,476931335,476653945,0,CommonsDelinker,List of high-speed trains,"Removing ""TCDD_HT65000_exterior-1.jpg"", it has been deleted from Commons by [[commons:User:Ezarate|Ezarate]] because: Per [[commons:Commons:Deletion requests/File:TCDD HT65000 exterior 2.jpg]]."
+2011-11-16T21:26:17+00:00,461011209,460549674,0,Train2104,Northeast Regional,vector logo
+2011-12-13T20:51:46+00:00,465699254,465694126,0,Acps110,Northeast Regional,Undid revision 465694126 by [[Special:Contributions/71.178.171.164|71.178.171.164]] ([[User talk:71.178.171.164|talk]]); unsourced
+2011-11-04T22:45:06+00:00,459049463,458909794,0,Fairlyoddparents1234,Northeast Regional,
+2011-09-17T01:26:13+00:00,450901103,450441092,0,GoingBatty,Northeast Regional,"[[WP:AWB/T|Typo fixing]] and [[WP:AWB/GF|general fixes]], typos fixed: Transporation → Transportation,  , → , (2) using [[Project:AWB|AWB]] (7794)"
+2011-08-02T13:14:06+00:00,442670187,441136099,0,DanTD,Northeast Regional,/* Virginia service */ link replaced with text
+2011-12-06T03:15:01+00:00,464327317,464082060,0,67.247.23.150,Northeast Regional,/* Classes of service */ attempt to improve class description.
+2011-12-29T19:26:56+00:00,468320770,465804579,0,Acps110,Northeast Regional,/* Classes of service */ not needed twice in the same sentence
+2012-02-28T16:30:16+00:00,479318167,479316332,0,198.252.240.2,Northeast Regional,/* Virginia service */
+2011-11-24T20:19:19+00:00,462306659,461443197,0,Kaare,Northeast Regional,da:
+2011-10-16T05:07:33+00:00,455799355,450901103,0,Dispenser,Northeast Regional,Disambiguated: [[Metroliner]] → [[Metroliner (Amtrak)]]; Help needed: [[The Bus]] using [[tools:~dispenser/view/Dab_solver|Dab solver]]
+2011-06-30T04:58:33+00:00,436989017,432955345,0,Mark Sublette,Pioneer Zephyr,/* Concept and construction */  typo
+2011-10-10T10:06:35+00:00,454847479,454847432,0,SchuminWeb,Pioneer Zephyr,Moved to top
+2011-11-27T00:51:43+00:00,462656572,454847479,0,Gfoley4,Pioneer Zephyr,"/* Promotion: ""Dawn-to-Dusk"" dash */ driver → crew"
+2012-01-29T20:44:31+00:00,473918520,472334315,0,Wdchk,Pioneer Zephyr,"italicised title, see [[WP:ITALICTITLE]]"
+2012-01-20T22:14:52+00:00,472334315,462656572,0,Yobot,Pioneer Zephyr,[[WP:CHECKWIKI]] error  fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7926)
+2011-08-23T21:18:04+00:00,446385280,436989017,0,Lightbot,Pioneer Zephyr,Delink non-obscure units. Conversions. Report bugs to [[User talk:Lightmouse|Lightmouse]]
+2012-02-20T09:04:00+00:00,477853576,477852905,0,50.39.130.90,Pioneer Zephyr,"Edited paragraph to make singular reference to single film, the 1934 film ""Silver Streak""; now agrees with the deletion of the second paragraph in Use in Film section"
+2011-08-04T18:42:41+00:00,443056496,442056505,0,Luckas-bot,Stephenson's Rocket,r2.7.1) (robot Adding: [[sk:Rocket (rušeň)]]
+2011-11-26T15:05:05+00:00,462576189,462570133,0,Chris55,Stephenson's Rocket,/* Design innovations */ Gurney didn't design till much later
+2011-10-23T20:38:19+00:00,457038147,457037674,0,ClemRutter,Stephenson's Rocket,added wikilink
+2011-11-30T04:32:02+00:00,463233223,463084072,0,Jpp858,Superman: Escape from Krypton,Flash Pass
+2011-09-19T06:09:24+00:00,451276957,450990949,0,Themeparkgc,Superman: Escape from Krypton,/* Records */  update
+2012-01-02T10:33:09+00:00,469099409,469099292,0,Imfunandonly,Superman: Escape from Krypton,/* Superman: The Escape (1997-2010) */
+2012-03-11T13:53:36+00:00,481326207,478691219,0,Cydebot,Superman: Escape from Krypton,Robot - Removing category Amusement rides with virtual queues per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2012 March 4]].
+2012-03-15T01:38:15+00:00,481954645,481954471,0,Thirdright,Superman: Escape from Krypton,Reverted edits by [[Special:Contributions/24.252.149.136|24.252.149.136]] ([[User talk:24.252.149.136|talk]]) unexplained removal of content ([[WP:HG|HG]])
+2011-07-25T06:13:29+00:00,441300880,440730128,0,Dakang7,Superman: Escape from Krypton,
+2011-10-14T09:08:48+00:00,455504841,451276957,0,Themeparkgc,Superman: Escape from Krypton,Replace deprecated infobox parameters using [[Project:AWB|AWB]]
+2011-10-24T00:08:43+00:00,457067134,456866571,0,DukeTwicep,TGV,/* On lignes classiques */ No unit conversions
+2011-08-15T03:10:38+00:00,444908613,444908189,0,Jeff G.,Superman: Escape from Krypton,Reverted edits by [[Special:Contributions/75.52.222.188|75.52.222.188]] ([[User talk:75.52.222.188|talk]]) to last revision by Dakang7 ([[WP:HG|HG]])
+2011-11-17T17:52:56+00:00,461141580,461140910,0,Orange Suede Sofa,TGV,/* Rolling stock */ converting remaining velocities to {{convert}}
+2011-09-02T09:20:53+00:00,448012673,447970166,0,Themeparkgc,Superman: Escape from Krypton,/* Superman: Escape from Krypton (2011-present) */  reword and add source
+2012-04-21T22:28:39+00:00,488561957,488462490,0,80.183.60.206,TGV,/* Rolling stock */ I can do math. Reeeeeal good. So I fixed your numbers for you. You're welcome.
+2012-03-12T17:52:55+00:00,481546223,481344131,0,Yobot,TGV,Updated hatnote + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (8002)
+2012-01-09T01:39:53+00:00,470360109,470358243,0,31.16.20.174,TGV,
+2011-07-29T15:58:14+00:00,442059420,442052676,0,Bobrayner,TGV,Your own sources contradict you; neither supports that wording. Please discuss on talkpage.
+2012-02-03T20:00:01+00:00,474841679,473325316,0,76.20.140.105,TGV,fix links to other wikipedias
+2012-02-10T15:01:13+00:00,476126316,476123287,0,194.153.110.6,TGV,/* Network */ Network length December 2011
+2011-12-21T02:14:33+00:00,466955910,466933459,0,Orange Suede Sofa,TGV,"/* Rolling stock */ wikilinking [[Eschede train disaster]], removed unnecessary detail"
+2011-12-29T01:08:35+00:00,468188077,468178683,0,Orange Suede Sofa,TGV,/* History */ caption copyedit
+2011-09-30T19:04:09+00:00,453254060,452389630,0,Chris the speller,TGV,"[[WP:AWB/T|Typo fixing]] per [[WP:HYPHEN]], sub-subsection 3, points 3,4,5, replaced: fully- → fully , centrally- → centrally using [[Project:AWB|AWB]] (7794)"
+2011-11-27T20:24:48+00:00,462787247,462787200,0,Jim1138,TGV,Reverted edits by [[Special:Contributions/72.89.250.109|72.89.250.109]] ([[User talk:72.89.250.109|talk]]) to last revision by Jim1138 ([[WP:HG|HG]])
+2011-09-10T18:13:32+00:00,449572001,447727431,0,Mcarling,TGV,copy-edit
+2011-12-12T04:38:41+00:00,465408324,462787247,0,Bri,TGV,fmt lede -- rmv arbitrary HTML break
+2012-03-11T13:56:03+00:00,481326484,476115986,0,Cydebot,Tower of Terror II,Robot - Removing category Amusement rides with virtual queues per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2012 March 4]].
+2011-09-07T10:46:51+00:00,448917489,448916998,0,121.208.152.155,Tower of Terror II,
+2012-02-10T13:39:54+00:00,476115986,475834706,0,Kata89,Tower of Terror II,clarified senstence
+2011-07-30T08:13:25+00:00,442170682,440791973,0,Themeparkgc,Tower of Terror II,Remove stray apostrophe using [[Project:AWB|AWB]]
+2011-11-29T23:28:57+00:00,463194533,451275695,0,Themeparkgc,Tower of Terror II,/* External links */Adding [[:Category:Amusement rides with virtual queues]] using [[Project:AWB|AWB]]
+2011-09-19T05:57:24+00:00,451275695,451258436,0,Themeparkgc,Tower of Terror II,update
+2011-08-28T15:55:57+00:00,447154355,437919654,0,Targaryen,Trans Europ Express,/* List of the TEE trains */
+2011-07-05T19:24:27+00:00,437919654,414573144,0,79.223.26.186,Trans Europ Express,
+2011-12-19T16:18:43+00:00,466704977,462438709,0,BIL,Trans Europ Express,/* Contraction and end */
+2012-01-06T11:47:55+00:00,469886486,466704977,0,RedBot,Trans Europ Express,r2.5.2) (Robot: Modifying [[cs:Trans Europ Express]]
+2011-11-26T12:46:47+00:00,462562492,457050616,0,Central Data Bank,Trenton Line,
+2011-08-03T17:16:11+00:00,442872240,429624681,0,Lightbot,Trenton Line,Mostly units
+2011-08-21T01:01:28+00:00,445911387,441058072,0,Themeparkgc,Wicked Twister,/* The ride */Mostly units using [[Project:AWB|AWB]]
+2011-07-23T20:28:53+00:00,441058072,422713856,0,69.246.25.119,Wicked Twister,/* The ride */
+2012-01-27T01:42:52+00:00,473439722,468639021,0,HeavyXSanvich,Wicked Twister,
+2011-11-26T19:31:57+00:00,462612143,462611977,0,VanillaBear23,Wicked Twister,/* Safety Systems */
+2012-01-03T20:40:15+00:00,469390190,469338476,0,Xlrdxrevengex,Wikipedia:Requests for permissions/Confirmed,
+2011-12-16T08:20:27+00:00,466129832,466098136,0,KingpinBot,Wikipedia:Requests for permissions/Confirmed,Moving 12 confirmed user request(s) to [[WP:Requests for permissions/Archive|archive]] (3 approved : 9 declined)) ([[WP:BOT|bot edit]]
+2011-09-22T16:54:42+00:00,451874483,451822900,0,Jacobns,Wikipedia:Requests for permissions/Confirmed,
+2011-08-23T04:14:54+00:00,446264202,446264037,0,Thompson.matthew (alt),Wikipedia:Requests for permissions/Confirmed,/* User:Rluepton */ typo fix
+2011-10-15T12:42:30+00:00,455681426,455680143,0,Kingpin13,Wikipedia:Requests for permissions/Confirmed,overrides
+2011-12-02T16:59:15+00:00,463685549,463672441,0,Pastrychick,Wikipedia:Requests for permissions/Confirmed,
+2011-11-10T01:19:21+00:00,459896156,459890707,0,Hamham31,Wikipedia:Requests for permissions/Confirmed,/* User:Xxskorpion88xx */
+2012-03-27T20:40:01+00:00,484241089,484207332,0,Corbinelliott,Wikipedia:Requests for permissions/Confirmed,
+2012-04-04T07:42:20+00:00,485469677,485465282,0,Comeradealexi,Wikipedia:Requests for permissions/Confirmed,
+2011-10-09T14:53:32+00:00,454715490,454715479,0,Kingpin13,Wikipedia:Requests for permissions/Confirmed,/* User:Maz640 */ override
+2011-12-11T23:37:25+00:00,465371110,465370868,0,Cyfraw,Wikipedia:Requests for permissions/Confirmed,/* User:Nitrobutane */
+2011-08-21T19:24:57+00:00,446031515,446019028,0,Fastily,Wikipedia:Requests for permissions/Confirmed,/* User:Sporky023 */ nd
+2011-08-20T21:28:28+00:00,445885059,445885027,0,KingpinBot,Wikipedia:Requests for permissions/Confirmed,Moving 2 confirmed user request(s) to [[WP:Requests for permissions/Archive|archive]] (2 approved : 0 declined)) ([[WP:BOT|bot edit]]
+2012-03-04T23:30:23+00:00,480231420,480200628,0,Snowypeak,Wikipedia:Requests for permissions/Confirmed,
+2011-11-25T04:14:24+00:00,462358959,462352728,0,Hamham31,Wikipedia:Requests for permissions/Confirmed,/* User:Weather99999 */

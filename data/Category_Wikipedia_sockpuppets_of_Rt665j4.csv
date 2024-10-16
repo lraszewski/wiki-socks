@@ -1,0 +1,262 @@
+timestamp,revid,parentid,sock,user,page,message
+2015-12-16T22:03:55+00:00,695553665,695552449,1,Rt665j4,User talk:Rt665j4,/* Blocked for sockpuppetry */
+2015-12-16T21:53:26+00:00,695552449,695552347,1,Rt665j4,User talk:Rt665j4,/* Blocked for sockpuppetry */
+2015-12-16T21:52:39+00:00,695552347,695542049,1,Rt665j4,User talk:Rt665j4,/* Blocked for sockpuppetry */
+2015-12-16T20:31:50+00:00,695542049,695537827,1,Rt665j4,User talk:Rt665j4,/* Blocked for sockpuppetry */
+2015-12-16T19:57:35+00:00,695537384,695481834,1,Rt665j4,User talk:Rt665j4,/* Blocked for sockpuppetry */
+2015-12-16T07:34:28+00:00,695464507,695451068,1,Rt665j4,Blockchain,Undid revision 695451068 by [[Special:Contributions/Ivanvector|Ivanvector]] ([[User talk:Ivanvector|talk]]) Not necessarily. See https://en.wikipedia.org/wiki/Wikipedia:External_links#Links_in_lists
+2015-12-16T00:32:22+00:00,695429226,695427247,1,Rt665j4,Blockchain,/* Alternative chain designs */ cleaning up the language a bit
+2015-12-16T00:15:50+00:00,695427247,695417945,1,Rt665j4,Blockchain,"Per WP:EL ""external link sections are not prohibited at the end of stand-alone lists or at the end of articles that contain embedded lists. However, the lists themselves should not be composed of external links."""
+2015-12-15T21:02:13+00:00,695404887,695404558,1,Rt665j4,Blockchain,/* Alternative chain designs */ Altcoin is the preferred term where tokens are involved
+2015-12-15T20:59:43+00:00,695404558,695401394,1,Rt665j4,Blockchain,/* Sidechain implementations */ Correcting footnote location
+2015-12-15T20:34:36+00:00,695401394,695382045,1,Rt665j4,Blockchain,"/* Alternative chain designs */ Adding citation from Microsoft's Azure cloud platform, pointing to ErisDB and OpenChain to establish notability"
+2015-12-15T17:51:41+00:00,695382045,695381910,1,Rt665j4,Blockchain,/* Alternative chain designs */ correcting formatting re: external links (real businesses that have not endeavoured to write vanity wiki pages).
+2015-12-15T17:50:29+00:00,695381910,695378722,1,Rt665j4,Blockchain,/* Alternative chains */
+2015-12-15T17:21:41+00:00,695378722,695378522,1,Rt665j4,Blockchain,Incorrect. The Bitcoin protocol was a mashup of hashcash + secp2k1 ECDSA + a networking protocol. Subsequent blockchains readily swap out these components for alternative consensus or signature rules while still aggregating transaction data into blocks.
+2015-12-15T17:19:39+00:00,695378522,695378420,1,Rt665j4,Blockchain,"Blockchains can have permissions architectures. See Tendermint, ErisDB, and Multichain as main examples of where this functionality exists."
+2015-12-15T17:18:40+00:00,695378420,695350386,1,Rt665j4,Blockchain,"Undid revision 695326784 by [[Special:Contributions/Intgr|Intgr]] External links permitted. Given permissioned chainmakers don't write vanity wikipedia articles an external link is apropos + ""tokenless"" section is entirely about that product."
+2015-11-04T05:41:05+00:00,688982075,688916178,1,Rt665j4,Blockchain,
+2015-11-02T15:27:25+00:00,688703233,688285136,1,Rt665j4,Decentralized autonomous organization,/* Decentralized organizations (DOs) */
+2015-11-02T15:24:45+00:00,688702918,683295620,1,Rt665j4,Smart contract,/* Replicated titles and contract execution */
+2015-11-02T15:12:51+00:00,688701427,688701125,1,Rt665j4,Blockchain,/* Token-less block chains */
+2015-11-02T15:10:23+00:00,688701125,688697767,1,Rt665j4,Blockchain,/* Token-less block chains */
+2015-11-02T14:43:55+00:00,688697767,688697726,1,Rt665j4,Blockchain,/* Token-less block chains */
+2015-11-02T14:43:35+00:00,688697726,688696141,1,Rt665j4,Blockchain,/* Developments */
+2015-11-02T14:31:20+00:00,688696141,688695046,1,Rt665j4,Blockchain,/* Token-less block chains */
+2015-11-02T14:23:19+00:00,688695046,688694949,1,Rt665j4,Blockchain,/* Implementations */
+2015-11-02T14:22:37+00:00,688694949,688692703,1,Rt665j4,Blockchain,/* Implementations */
+2015-11-02T14:03:33+00:00,688692703,687975661,1,Rt665j4,Blockchain,Adding ErisDB
+2015-12-15T03:50:53+00:00,695306500,695306256,1,Abrrr5583,Blockchain,Bitcoin dealt with explicitly in second sentence; no need to mention twice
+2015-12-15T03:48:22+00:00,695306256,695302256,1,Abrrr5583,Blockchain,Corrected permissioning language to reflect reality
+2015-12-15T03:11:40+00:00,695302256,695237071,1,Abrrr5583,Blockchain,"Undid revision 695237071 by [[Special:Contributions/Ladislav Mecir|Ladislav Mecir]] ([[User talk:Ladislav Mecir|talk]]) Eris is the subject of articles in T8, T9, T10, T11 - EDB is their product. See FN16 which direct links to co site about the s'ware."
+2016-03-11T06:41:25+00:00,709489360,709489320,1,Satoshlong,User talk:Satoshlong,
+2016-03-11T06:41:04+00:00,709489320,709487752,1,Satoshlong,User talk:Satoshlong,
+2016-03-11T06:24:52+00:00,709487752,709477907,1,Satoshlong,User talk:Satoshlong,
+2016-03-11T04:04:56+00:00,709474700,709474658,1,Satoshlong,User talk:Satoshlong,
+2016-03-11T04:04:36+00:00,709474658,709474358,1,Satoshlong,User talk:Satoshlong,
+2016-03-11T04:02:17+00:00,709474358,709474249,1,Satoshlong,User talk:Satoshlong,
+2016-03-11T04:01:21+00:00,709474249,0,1,Satoshlong,User talk:Satoshlong,[[WP:AES|←]]Created page with '{{unblock| There has been no allegation of abusive conduct related to this account. [[WP:BLOCK]] states that blocks should only be for abusive behavior - WP:BL...'
+2016-03-09T16:38:08+00:00,709189746,709188696,1,Satoshlong,Blockchain,/* Decentralisation */ adding permissioned chains section
+2016-03-09T16:30:49+00:00,709188696,709187749,1,Satoshlong,Blockchain,
+2016-03-09T16:23:36+00:00,709187749,709187323,1,Satoshlong,Blockchain,Moving references to end of sentence
+2016-03-09T16:22:28+00:00,709187572,709182785,1,Satoshlong,Talk:Blockchain,
+2016-03-09T16:20:49+00:00,709187323,709186971,1,Satoshlong,Blockchain,/* Debates on classification */
+2016-03-09T16:18:38+00:00,709186971,708814386,1,Satoshlong,Blockchain,/* Debates on classification */ Adding secondary source material to support permissioning discussion
+2016-03-09T15:50:13+00:00,709182785,709182374,1,Satoshlong,Talk:Blockchain,
+2016-03-09T15:47:12+00:00,709182374,709182283,1,Satoshlong,Talk:Blockchain,/* Permissioned vs permissionless */
+2016-03-09T15:46:30+00:00,709182283,709182131,1,Satoshlong,Talk:Blockchain,
+2016-03-09T15:45:28+00:00,709182131,709181112,1,Satoshlong,Talk:Blockchain,/* Permissioned vs permissionless */
+2016-03-09T15:38:18+00:00,709181112,709054701,1,Satoshlong,Talk:Blockchain,
+2016-03-08T16:27:01+00:00,708995916,708995745,1,Satoshlong,User:Satoshlong/List of blockchain designs,"/* Permissioned (account-based), smart contract-capable */"
+2016-03-08T16:26:04+00:00,708995745,708993716,1,Satoshlong,User:Satoshlong/List of blockchain designs,
+2016-03-08T16:15:59+00:00,708993975,708993356,1,Satoshlong,Talk:Blockchain,/* Block chain examples */
+2016-03-08T16:14:29+00:00,708993716,0,1,Satoshlong,User:Satoshlong/List of blockchain designs,"[[WP:AES|←]]Created page with '{{Userspace draft|source=ArticleWizard|date={{Subst:CURRENTMONTHNAME}} {{Subst:CURRENTYEAR}}}} {{Subst:Nul|<==do not change this line, it will set the date autom...'"
+2016-03-08T16:11:41+00:00,708993212,708823277,1,Satoshlong,Talk:Blockchain,/* Permissioned vs permissionless */
+2016-03-07T17:20:09+00:00,708796662,708796276,1,Satoshlong,Talk:Blockchain,/* Permissioned vs permissionless */
+2016-03-07T17:18:37+00:00,708796461,708795627,1,Satoshlong,Blockchain,/* Debates on classification */
+2016-03-07T17:17:21+00:00,708796276,708796233,1,Satoshlong,Talk:Blockchain,/* Permissioned vs permissionless */
+2016-03-07T17:17:05+00:00,708796233,708796166,1,Satoshlong,Talk:Blockchain,/* Permissioned vs permissionless */
+2016-03-07T17:16:36+00:00,708796166,705045121,1,Satoshlong,Talk:Blockchain,
+2016-03-07T17:13:05+00:00,708795627,708726474,1,Satoshlong,Blockchain,Undid revision 708724868 by [[Special:Contributions/Ladislav Mecir|Ladislav Mecir]] ([[User talk:Ladislav Mecir|talk]])
+2016-03-07T03:24:53+00:00,708706099,708704773,1,Satoshlong,Blockchain,List violates [[WP:List]]; changing first paragraph
+2016-03-07T03:11:33+00:00,708704773,708596052,1,Satoshlong,Blockchain,a) blockchains can be permissioned. b) None of those are actual sidechain platforms - Liquid is the only sidechain
+2015-12-21T07:10:51+00:00,696152811,696152604,1,Singleissuevoter,User talk:Singleissuevoter,
+2015-12-21T07:08:22+00:00,696152604,696151478,1,Singleissuevoter,User talk:Singleissuevoter,
+2015-12-21T06:56:03+00:00,696151478,696116983,1,Singleissuevoter,User talk:Singleissuevoter,
+2015-12-21T01:00:52+00:00,696116109,696115895,1,Singleissuevoter,User talk:Singleissuevoter,"/* Singleissuevoter, you are invited to the Teahouse! */"
+2015-12-21T00:58:48+00:00,696115895,696115185,1,Singleissuevoter,User talk:Singleissuevoter,
+2015-12-21T00:52:15+00:00,696115185,696092548,1,Singleissuevoter,User talk:Singleissuevoter,
+2015-12-20T20:38:45+00:00,696084545,696074455,1,Singleissuevoter,User talk:Singleissuevoter,"/* Singleissuevoter, you are invited to the Teahouse! */"
+2015-12-20T19:00:55+00:00,696072259,695658857,1,Singleissuevoter,User talk:Singleissuevoter,
+2015-12-18T16:04:11+00:00,695786984,695786947,1,Singleissuevoter,Talk:Blockchain,/* (Commercial References) shall be deleted */
+2015-12-18T16:03:52+00:00,695786947,695786188,1,Singleissuevoter,Talk:Blockchain,
+2015-12-18T15:54:59+00:00,695786052,695781423,1,Singleissuevoter,Talk:Blockchain,
+2015-12-18T15:44:24+00:00,695784887,695784787,1,Singleissuevoter,User:OnePercent,
+2015-12-18T15:43:38+00:00,695784787,695718850,1,Singleissuevoter,User:OnePercent,Vandalism by section blanking. This should be resolved on the Talk page.
+2015-12-18T15:38:53+00:00,695784208,695782409,1,Singleissuevoter,Blockchain,Replacing section blanked by OnePercent
+2015-12-18T15:21:36+00:00,695782409,695777494,1,Singleissuevoter,Blockchain,Reinstating text and changes blanked by [[User:OnePercent|OnePercent]]
+2015-12-18T15:12:49+00:00,695781423,695781277,1,Singleissuevoter,Talk:Blockchain,"/* Inclusion of permissioned systems / Referring to distinguishing characteristic of a blockchain as the timestamp server rather than the ""permissionless"" consensus aspect */"
+2015-12-18T15:11:30+00:00,695781277,695779410,1,Singleissuevoter,Talk:Blockchain,/* (Commercial References) shall be deleted */
+2015-12-18T14:52:19+00:00,695779410,695779191,1,Singleissuevoter,Talk:Blockchain,/* (Commercial References) shall be deleted */
+2015-12-18T14:50:46+00:00,695779191,695778253,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-18T14:42:15+00:00,695778253,695778209,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-18T14:41:50+00:00,695778209,695745689,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-18T14:35:48+00:00,695777494,695777153,1,Singleissuevoter,Blockchain,/* Newer chain designs */ Adding more citations to show [[WP:NN]] in respect of different chain designs.
+2015-12-18T14:32:48+00:00,695777153,695776997,1,Singleissuevoter,Blockchain,Undid revision 695763845 by [[Special:Contributions/OnePercent|OnePercent]] ([[User talk:OnePercent|talk]]) No consensus on this change. Citations establish [[WP:NN]. Take it up on the talk page.
+2015-12-18T14:31:21+00:00,695776997,695773261,1,Singleissuevoter,Blockchain,/* Applications */
+2015-12-18T04:07:17+00:00,695728511,695726755,1,Singleissuevoter,Blockchain,/* Peer-to-peer network architecture */ cryptocurrency specific point re timestamping
+2015-12-18T03:37:54+00:00,695726181,695725006,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-18T03:22:40+00:00,695725006,695723857,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-18T03:15:07+00:00,695724420,695700770,1,Singleissuevoter,Blockchain,/* Applications */ Adding primary source reference for Linux Foundation
+2015-12-18T03:07:53+00:00,695723857,695723721,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-18T03:06:19+00:00,695723721,695723541,1,Singleissuevoter,Talk:Blockchain,
+2015-12-18T03:03:33+00:00,695723541,695723292,1,Singleissuevoter,Talk:Blockchain,
+2015-12-18T03:00:34+00:00,695723292,695723154,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-18T02:59:11+00:00,695723154,695717576,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T23:12:22+00:00,695700770,695700713,1,Singleissuevoter,Blockchain,/* Permissioned blockchains */
+2015-12-17T23:11:55+00:00,695700713,695689966,1,Singleissuevoter,Blockchain,/* Permissioned blockchains */
+2015-12-17T21:40:08+00:00,695689966,695689920,1,Singleissuevoter,Blockchain,/* Applications */ typo fix
+2015-12-17T21:39:39+00:00,695689920,695687180,1,Singleissuevoter,Blockchain,"Updating ""applications"""
+2015-12-17T21:14:14+00:00,695687180,695686524,1,Singleissuevoter,Blockchain,/* Permissioned blockchains */ Cleaning up language
+2015-12-17T21:08:00+00:00,695686524,695683319,1,Singleissuevoter,Blockchain,/* Permissioned blockchains */  Updating perm'd chain to make it about perm'd chains rather than about Bitcoin's view of perm'd chains
+2015-12-17T20:39:36+00:00,695683319,695682198,1,Singleissuevoter,Blockchain,Amended for readability
+2015-12-17T20:30:31+00:00,695682198,695681999,1,Singleissuevoter,Blockchain,/* Messages */
+2015-12-17T20:29:22+00:00,695681999,695681333,1,Singleissuevoter,Blockchain,/* Messages */ Adding BitTorrent + EVM refs
+2015-12-17T20:24:01+00:00,695681333,695681103,1,Singleissuevoter,Blockchain,"Moving ""messages"" - makes more narrative sense. Changing ""Developments"" to ""development trends"""
+2015-12-17T20:22:03+00:00,695681103,695680841,1,Singleissuevoter,Blockchain,"merging tokenless debate into ""Developments"""
+2015-12-17T20:19:51+00:00,695680841,695679450,1,Singleissuevoter,Blockchain,"Creating ""applications"" heading to break up opener, which was too bulky - this can be added to in future"
+2015-12-17T20:07:38+00:00,695679450,695679129,1,Singleissuevoter,Blockchain,/* Debate regarding blockchain permissions */
+2015-12-17T20:04:40+00:00,695679129,695678826,1,Singleissuevoter,Blockchain,/* Debate regarding blockchain access control layers and permissions */
+2015-12-17T20:01:55+00:00,695678826,695678732,1,Singleissuevoter,Blockchain,
+2015-12-17T20:01:02+00:00,695678732,695678378,1,Singleissuevoter,Blockchain,/* Debate regarding blockchain access control layers and permissions */
+2015-12-17T19:58:09+00:00,695678378,695677604,1,Singleissuevoter,Blockchain,/* Permissioned blockchain debate */
+2015-12-17T19:52:14+00:00,695677604,695677174,1,Singleissuevoter,Blockchain,
+2015-12-17T19:49:00+00:00,695677174,695676380,1,Singleissuevoter,Blockchain,
+2015-12-17T19:42:40+00:00,695676380,695676300,1,Singleissuevoter,Blockchain,/* Permissioned blockchain debate */ reverting partially part of previous edit
+2015-12-17T19:42:03+00:00,695676300,695675895,1,Singleissuevoter,Blockchain,/* Token-less blockchain debate */ not tokenless - but permissioned.
+2015-12-17T19:38:55+00:00,695675895,695675834,1,Singleissuevoter,Blockchain,
+2015-12-17T19:38:24+00:00,695675834,695675418,1,Singleissuevoter,Blockchain,
+2015-12-17T19:35:05+00:00,695675418,695674608,1,Singleissuevoter,Blockchain,/* Newer chain designs */ Adding O'Reilly radar link
+2015-12-17T19:28:26+00:00,695674608,695660260,1,Singleissuevoter,Blockchain,Adding citations re: permissioned systems
+2015-12-17T17:18:53+00:00,695660260,695658396,1,Singleissuevoter,Blockchain,/* Peer-to-peer network architecture */  improving readability in P2P section
+2015-12-17T17:05:56+00:00,695658857,695653574,1,Singleissuevoter,User talk:Singleissuevoter,/* Notice of Edit warring noticeboard discussion */
+2015-12-17T17:03:17+00:00,695658594,695658567,1,Singleissuevoter,User talk:Ivanvector,/* Reported Singleissuevoter for editwarring */
+2015-12-17T17:03:02+00:00,695658567,695637062,1,Singleissuevoter,User talk:Ivanvector,/* Reported Singleissuevoter for editwarring */
+2015-12-17T17:01:06+00:00,695658396,695605331,1,Singleissuevoter,Blockchain,/* Developments */ correcting typo
+2015-12-17T16:57:29+00:00,695658006,695657954,1,Singleissuevoter,Talk:Blockchain,"/* Inclusion of permissioned systems / Referring to distinguishing characteristic of a blockchain as the timestamp server rather than the ""permissionless"" consensus aspect */"
+2015-12-17T16:57:04+00:00,695657954,695657800,1,Singleissuevoter,Talk:Blockchain,"/* Inclusion of permissioned systems / Referring to distinguishing characteristic of a blockchain as the timestamp server rather than the ""permissionless"" consensus aspect */"
+2015-12-17T06:22:25+00:00,695605331,695604740,1,Singleissuevoter,Blockchain,/* Peer-to-peer network architecture */
+2015-12-17T06:13:27+00:00,695604740,695604495,1,Singleissuevoter,Blockchain,Updating re: smart contracts
+2015-12-17T06:09:55+00:00,695604495,695603582,1,Singleissuevoter,Blockchain,Citations + change title
+2015-12-17T05:59:23+00:00,695603582,695602884,1,Singleissuevoter,Blockchain,adding citations
+2015-12-17T05:49:50+00:00,695602884,695602782,1,Singleissuevoter,Blockchain,/* Basic principles */
+2015-12-17T05:48:27+00:00,695602782,695602567,1,Singleissuevoter,Blockchain,/* Basic principles */ adding citations
+2015-12-17T05:45:18+00:00,695602567,695602485,1,Singleissuevoter,Blockchain,more citations
+2015-12-17T05:43:48+00:00,695602485,695602307,1,Singleissuevoter,Blockchain,Adding citations
+2015-12-17T05:40:44+00:00,695602307,695601920,1,Singleissuevoter,Blockchain,/* Basic principles */ Updating on stored procedures/accounts
+2015-12-17T05:35:05+00:00,695601920,695601489,1,Singleissuevoter,Blockchain,/* Messages */ Updating messages section to be general-purpose
+2015-12-17T05:30:16+00:00,695601489,695600691,1,Singleissuevoter,Blockchain,/* Basic principles */ Adding detail on smart contract chains
+2015-12-17T05:20:51+00:00,695600691,695600286,1,Singleissuevoter,Blockchain,/* Basic principles */ Adding permissions language
+2015-12-17T05:15:59+00:00,695600286,695599196,1,Singleissuevoter,Blockchain,Amending introductory paragraph
+2015-12-17T05:08:53+00:00,695599798,695596316,1,Singleissuevoter,Talk:Blockchain,/* Inclusion of permissioned systems */
+2015-12-17T05:01:44+00:00,695599196,695598753,1,Singleissuevoter,Blockchain,"/* Alternative chain designs */ ""New/more modern chain designs"" appropriate - Bitcoin was the first, not the only/exclusive."
+2015-12-17T04:57:08+00:00,695598753,695597826,1,Singleissuevoter,Blockchain,/* Alternative chain designs */ Adding more citations
+2015-12-17T04:48:04+00:00,695597826,695597643,1,Singleissuevoter,Blockchain,/* Alternative chain designs */ Adding Strato
+2015-12-17T04:45:59+00:00,695597643,695597343,1,Singleissuevoter,Blockchain,Adding fn
+2015-12-17T04:42:47+00:00,695597343,695597150,1,Singleissuevoter,Blockchain,"Clarified ""blockchain 2.0"" description."
+2015-12-17T04:40:40+00:00,695597150,695596204,1,Singleissuevoter,Blockchain,/* Alternative chain designs */ Adding Blockchain 2.0 platforms
+2015-12-17T04:30:58+00:00,695596204,695595977,1,Singleissuevoter,Blockchain,Blockchain 2.0 language added
+2015-12-17T04:28:42+00:00,695595977,695591362,1,Singleissuevoter,Blockchain,Technical description of blockchain
+2015-12-17T04:22:47+00:00,695595435,695595132,1,Singleissuevoter,Talk:Blockchain,/* Inclusion of permissioned systems */
+2015-12-17T04:19:46+00:00,695595132,695595023,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:18:48+00:00,695595023,695594971,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:18:16+00:00,695594971,695594909,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:17:31+00:00,695594909,695594587,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:13:47+00:00,695594587,695594398,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:11:49+00:00,695594398,695594291,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:10:43+00:00,695594291,695594212,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:09:48+00:00,695594212,695594054,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:07:59+00:00,695594054,695593993,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:07:24+00:00,695593993,695593717,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:04:25+00:00,695593717,695593452,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:01:46+00:00,695593452,695593402,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:01:18+00:00,695593402,695593284,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T04:00:09+00:00,695593284,695592890,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T03:55:17+00:00,695592760,695592185,1,Singleissuevoter,Talk:Blockchain,/* ErisDB promotion shall be deleted */
+2015-12-17T03:49:07+00:00,695592041,695325945,1,Singleissuevoter,Talk:Blockchain,/* Inclusion of permissioned systems */ new section
+2015-12-17T03:42:29+00:00,695591362,695550050,1,Singleissuevoter,Blockchain,Time to move this discussion over to the talk page. Blockchains are not necessarily permissionless
+2016-03-07T03:15:45+00:00,708705207,707274624,1,Zaboshor,Smart contract,
+2015-12-21T00:10:54+00:00,696110397,696056537,0,Intgr,Blockchain,Fix [[WP:EASTEREGG]] links
+2015-11-13T23:42:19+00:00,690528747,690528433,0,Mmortal03,Blockchain,Bitcoin protocol is capitalized
+2016-01-31T20:50:33+00:00,702641897,702418759,0,William Caputo,Blockchain,/* See also */  Added Smart Contract to See also section as it is mentioned several times in the article.
+2016-02-17T21:07:29+00:00,705496954,705429816,0,NapoliRoma,Blockchain,misc cleanup
+2015-11-28T19:18:49+00:00,692847724,692694484,0,Zxsmt,Blockchain,correct spelling of one word
+2015-11-04T08:13:47+00:00,688995373,688982075,0,Intgr,Blockchain,"Unlink inappropriate external links, [[WP:EL]]"
+2016-02-21T19:12:31+00:00,706147501,705496954,0,Humanist09,Blockchain,
+2016-01-02T13:04:33+00:00,697866103,696604360,0,Jfayel,Blockchain,/* Basic principles */
+2015-11-27T17:00:09+00:00,692694484,692694036,0,Ladislav Mecir,Blockchain,/* Alternative chains */ copy edit
+2016-01-13T05:07:25+00:00,699581273,699548640,0,Ladislav Mecir,Blockchain,/* Alternative chain designs */ remove unnecesssary red link
+2015-12-10T19:40:45+00:00,694672295,694445050,0,66.31.202.38,Blockchain,typo: ouputs => outputs
+2016-02-29T16:53:15+00:00,707572576,707370478,0,LjL,Blockchain,"/* Applications */ Adding mention of [[cooperative storage cloud]]s as use for blockchain (Examples section in article describes it); putting it into a generic ""other uses"" section as there is not enough stand-alone info to warrant a specific heading"
+2015-11-29T06:56:35+00:00,692921608,692921416,0,Ladislav Mecir,Blockchain,/* Controversial commercial concepts */ correct
+2015-12-24T08:17:05+00:00,696604360,696573480,0,146.124.141.59,Blockchain,
+2015-12-18T16:03:50+00:00,695786942,695786850,0,Ladislav Mecir,Blockchain,/* Peer-to-peer network architecture */ use standard lowercase
+2016-01-28T23:32:21+00:00,702180738,702067566,0,72.179.3.53,Blockchain,/* Right management in the music industry */ Gibberish removed
+2016-03-04T09:50:42+00:00,708219509,708219334,0,194.69.198.228,Blockchain,
+2016-02-24T08:54:12+00:00,706615999,706613735,0,Ladislav Mecir,Blockchain,/* Etymology */ use unified lowercase
+2015-11-11T10:22:39+00:00,690111387,690013149,0,Intgr,Blockchain,"/* Developments */ Non-primary source needed, this sounds like an advert."
+2015-12-23T12:57:18+00:00,696481626,696296748,0,Deku-shrub,Blockchain,/* Alternative chain designs */
+2016-02-10T03:42:53+00:00,704197177,704197074,0,Ladislav Mecir,Blockchain,/* Sidechain Technology */ remove red link
+2016-01-27T06:10:43+00:00,701896790,701838092,0,BG19bot,Blockchain,[[WP:CHECKWIKI]] error fix for #64.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11842)
+2015-11-16T02:19:21+00:00,690851668,690569724,0,Jpkabin,Blockchain,
+2016-01-08T17:00:38+00:00,698850874,698540099,0,81.255.42.139,Blockchain,
+2015-12-14T09:25:11+00:00,695184238,695159729,0,Intgr,Blockchain,"Delete ErisDB spam. The cited sources ""t8"", ""t9"" and ""t4"" don't even mention ErisDB"
+2016-01-09T10:41:34+00:00,698964656,698850874,0,Ladislav Mecir,Blockchain,"Undid revision 698850874 by [[Special:Contributions/81.255.42.139|81.255.42.139]] ([[User talk:81.255.42.139|talk]]) rv. per [[WP:overlink]], the linked article is not directly related"
+2015-12-09T08:44:56+00:00,694445050,694365444,0,Ladislav Mecir,Blockchain,"Undid revision 694365444 by [[Special:Contributions/72.22.162.62|72.22.162.62]] ([[User talk:72.22.162.62|talk]]) rv, there is no consensus on this change"
+2015-12-08T20:32:49+00:00,694365444,694322004,0,72.22.162.62,Blockchain,"Corrected ""block chain"" to ""blockchain"" in main paragraphs."
+2016-01-02T19:23:15+00:00,697910906,697866103,0,Ladislav Mecir,Blockchain,Undid revision 697866103 by [[Special:Contributions/Jfayel|Jfayel]] ([[User talk:Jfayel|talk]]) revert error or test edit
+2016-03-06T13:21:44+00:00,708596052,708595915,0,Ladislav Mecir,Blockchain,"/* Rights management */ delete, claims relying on self-published sources"
+2016-02-13T12:46:12+00:00,704762992,704755456,0,Ladislav Mecir,Blockchain,/* Debates */ remove unnecessary apostrophe
+2015-11-10T19:34:46+00:00,690013149,688995373,0,Clotho,Blockchain,/* Developments */Fixed typo
+2015-11-03T04:39:38+00:00,688808663,688802562,0,Vwm3nelson,Blockchain,Included terminology commonly and interchangeably used to describe all inclusive essence of a blockchain. Source cited.
+2016-02-11T10:22:30+00:00,704398734,704388704,0,Dewritech,Blockchain,"clean up, [[WP:AWB/T|typo(s) fixed]]: song writers → songwriters, 15 second → 15-second using [[Project:AWB|AWB]]"
+2015-12-22T05:56:34+00:00,696296748,696261810,0,95.246.44.51,Blockchain,/* Name */Removed extra is
+2015-12-03T17:11:02+00:00,693603323,692921608,0,37.47.15.97,Blockchain,/* Alternative chains */
+2016-01-30T13:26:40+00:00,702418759,702398338,0,Poltair,Blockchain,Reverted to revision 702067566 by [[Special:Contributions/Ladislav Mecir|Ladislav Mecir]] ([[User talk:Ladislav Mecir|talk]]): Rv ref error caused by section blanking. ([[WP:TW|TW]])
+2016-01-06T19:31:41+00:00,698540099,697910906,0,81.157.245.175,Blockchain,"grammatical changing ""would become"" to ""has been"""
+2016-01-26T18:58:48+00:00,701813348,701811481,0,Laoris,Blockchain,"fix cite errors: remove unused list-defined ref, fix wiki syntax near ref"
+2016-01-23T08:16:49+00:00,701231088,701230882,0,OnePercent,Blockchain,/* Alternative designs */
+2016-03-07T19:15:34+00:00,708814386,708812878,0,Ladislav Mecir,Blockchain,/* Debates on classification */ represent both opinions in the section
+2015-11-26T22:28:33+00:00,692600676,692599648,0,OnePercent,Blockchain,"concatenation for consistency, added more appropriate and descriptive level2 title"
+2015-12-21T23:50:45+00:00,696261810,696261757,0,Deku-shrub,Blockchain,/* Basic principles */
+2015-12-24T02:04:54+00:00,696573480,696481626,0,73.50.177.43,Blockchain,/* Name */
+2015-12-18T09:17:51+00:00,695752860,695747222,0,Ladislav Mecir,Blockchain,remove commercial product info
+2016-02-28T05:25:53+00:00,707326325,707323905,0,Claw of Slime,Blockchain,Undid revision 707323905 by [[Special:Contributions/Tunafizzle|Tunafizzle]] ([[User talk:Tunafizzle|talk]])
+2015-11-14T06:41:50+00:00,690569724,690528747,0,Ladislav Mecir,Blockchain,"rv, the lowercase is preferred by many relevant sources"
+2016-02-13T03:23:49+00:00,704712231,704711740,0,Lfstevens,Blockchain,/* top */ reorg
+2016-02-29T00:47:55+00:00,707461903,705467917,0,Cyberbot II,Decentralized autonomous organization,Tagging page with {{[[Template:Blacklisted-links|Blacklisted-links]]}}.  Blacklisted links found. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])
+2015-11-05T09:57:16+00:00,689165248,689160698,0,111.83.233.189,Decentralized autonomous organization,/* Decentralized autonomous corporations/companies */Citation needed.
+2015-12-25T11:31:50+00:00,696739079,695379506,0,90.128.125.86,Smart contract,/* Replicated titles and contract execution */ add early implementation
+2015-11-20T15:49:38+00:00,691551110,691542209,0,David Gerard,Smart contract,Undid revision 691542209 by [[Special:Contributions/92.226.141.185|92.226.141.185]] ([[User talk:92.226.141.185|talk]]) rm nn
+2015-12-04T04:22:52+00:00,693683020,693222572,0,Lowercase sigmabot III,Talk:Blockchain,Archiving 1 discussion(s) to [[Talk:Block chain (database)/Archive 1]]) (bot
+2015-12-23T06:00:15+00:00,696446348,696446232,0,OnePercent,Talk:Blockchain,
+2015-11-16T06:52:49+00:00,690877609,690877575,0,Jenks24,Talk:Blockchain,/* Requested move 31 October 2015 */ fix close
+2016-01-17T04:34:02+00:00,700220949,699948915,0,Lowercase sigmabot III,Talk:Blockchain,Archiving 1 discussion(s) to [[Talk:Block chain (database)/Archive 1]]) (bot
+2016-02-15T04:59:46+00:00,705045121,704332418,0,Lowercase sigmabot III,Talk:Blockchain,Archiving 1 discussion(s) to [[Talk:Block chain (database)/Archive 1]]) (bot
+2015-11-03T08:32:17+00:00,688827725,688827679,0,Ladislav Mecir,Talk:Blockchain,/* Is 'distributed ledger' a synonym for blockchain? */ punctuation
+2016-01-23T04:35:55+00:00,701212039,700220949,0,Lowercase sigmabot III,Talk:Blockchain,Archiving 1 discussion(s) to [[Talk:Block chain (database)/Archive 1]]) (bot
+2015-12-01T04:38:55+00:00,693222572,690877609,0,Lowercase sigmabot III,Talk:Blockchain,Archiving 1 discussion(s) to [[Talk:Block chain (database)/Archive 1]]) (bot
+2016-02-10T23:35:56+00:00,704332418,701212039,0,173.176.75.121,Talk:Blockchain,"Ambiguity of undefined ""token"" term"
+2015-12-15T07:44:07+00:00,695325945,695325697,0,Ladislav Mecir,Talk:Blockchain,/* ErisDB promotion shall be deleted */ ce
+2016-02-28T02:54:14+00:00,707309674,707235790,0,ClueBot III,User talk:Ivanvector,Archiving 31 discussions to [[User talk:Ivanvector/Archive 3]]. (BOT)
+2016-01-08T21:55:31+00:00,698891985,698890369,0,Ivanvector,User talk:Ivanvector,/* Sockpuppet */ r
+2015-11-26T03:39:19+00:00,692499685,692297145,0,Lowercase sigmabot III,User talk:Ivanvector,Archiving 1 discussion(s) to [[User talk:Ivanvector/Archive 3]]) (bot
+2015-11-02T18:35:17+00:00,688729191,0,0,HostBot,User talk:Rt665j4,"/* Rt665j4, you are invited to the Teahouse! */ new section"
+2015-12-18T10:45:51+00:00,695758896,695553665,0,MaxSem,User talk:Rt665j4,/* Blocked for sockpuppetry */ declined
+2015-12-28T00:05:18+00:00,697060455,696568023,0,Legobot,User talk:Ivanvector,"/* Please comment on Talk:United States presidential election, 2016 */ new section"
+2015-12-21T09:50:43+00:00,696166838,696160911,0,Boing! said Zebedee,User talk:Singleissuevoter,"/* Singleissuevoter, you are invited to the Teahouse! */"
+2015-12-20T15:00:01+00:00,696043098,695784887,0,Ivanvector,User:OnePercent,Reverted 2 edits by [[Special:Contributions/Singleissuevoter|Singleissuevoter]] ([[User talk:Singleissuevoter|talk]]): [[WP:EVADE]]. ([[WP:TW|TW]])
+2016-03-06T01:35:54+00:00,708520277,708517047,0,Nerdfiles,Blockchain,/* Rights management */
+2016-01-25T14:28:40+00:00,701603606,701585611,0,106.194.80.8,Blockchain,/* Alternative blockchains */
+2016-02-28T13:27:33+00:00,707370478,707326325,0,202.118.236.189,Blockchain,/* Trusted timestamp */ Bitcoin core => Bitcoin Core
+2016-03-05T16:09:58+00:00,708432707,708219509,0,2604:2000:E14E:D300:5F3:1ED:B:9917,Blockchain,Hyperledger does not actually exist as a blockchain design
+2015-11-03T16:32:38+00:00,688880472,688827950,0,Trappist the monk,Blockchain,/* Token-less block chains */CS1 fixes;  |language= spelling; using [[Project:AWB|AWB]]
+2015-12-23T17:59:35+00:00,696512714,695380061,0,Dawnseeker2000,Decentralized autonomous organization,"[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: based of → based on, Consequently → Consequently, using [[Project:AWB|AWB]]"
+2016-02-17T17:40:42+00:00,705467917,704068066,0,96.226.19.217,Decentralized autonomous organization,/* See also */
+2016-02-22T17:20:19+00:00,706314227,704769526,0,Gabriel Kielland,Smart contract,/* Examples */ link fix
+2016-02-27T22:02:56+00:00,707274624,706314227,0,Giraffedata,Smart contract,obviate
+2015-12-30T04:24:24+00:00,697381155,697060455,0,Levdr1lp,User talk:Ivanvector,
+2015-11-20T15:16:33+00:00,691547186,691546780,0,SimonTrew,User talk:Ivanvector,/* Better inside the tent pissing out... */ +1
+2016-01-10T04:03:38+00:00,699083982,698891985,0,DarkclawUmbreon,User talk:Ivanvector,
+2016-01-14T17:17:24+00:00,699816529,699814145,0,Tiggerjay,User talk:Ivanvector,/* Involved editing of a MR */ enjoy your budgets!
+2016-01-07T17:12:33+00:00,698687300,698678927,0,BDD,User talk:Ivanvector,"/* Durham Centre, NB */ r"
+2015-12-24T01:08:11+00:00,696568023,696508419,0,78.26,User talk:Ivanvector,thank you!
+2015-11-19T20:42:03+00:00,691436287,691400276,0,Bishonen,User talk:Ivanvector,political redirects
+2015-12-31T23:54:03+00:00,697660603,697381155,0,Liz,User talk:Ivanvector,Happy New Year!
+2016-02-27T17:23:00+00:00,707235790,707235484,0,SimonTrew,User talk:Ivanvector,/* Does the autosearch subvert hit counts for redirects? */ same pub
+2015-11-10T20:47:09+00:00,690023002,690022919,0,Amortias,User talk:Ivanvector,/* Arbitration case accepted */
+2016-01-19T00:41:08+00:00,700522427,700522409,0,Tiggerjay,User talk:Ivanvector,/* Involved editing of a MR */ r
+2016-02-11T21:11:00+00:00,704479775,704478869,0,Godsy,User talk:Ivanvector,/* Masturbation redirects listed at Redirects for discussion */ copyedit and link
+2016-02-05T03:45:02+00:00,703375471,703375397,0,SimonTrew,User talk:Ivanvector,"/* Versions in {{translated page}} */ dóh, tlx"
+2016-01-01T19:53:47+00:00,697766037,697660603,0,Alextejthompson,User talk:Ivanvector,
+2016-02-19T21:51:32+00:00,705843430,705843329,0,SineBot,User talk:Ivanvector,"Signing comment by [[User:DLOFT01|DLOFT01]] - ""/* Need Help Redirect and my most recent talk topic cannot find response--Redirect discussions confusing to me.   */ new section"""

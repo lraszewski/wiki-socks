@@ -1,0 +1,272 @@
+timestamp,revid,parentid,sock,user,page,message
+2014-09-26T12:15:03+00:00,627148746,624055014,1,Tajikam123,Balkh,
+2014-09-26T12:13:54+00:00,627148656,626919484,1,Tajikam123,Bactria,
+2014-09-26T12:11:53+00:00,627148463,627148375,1,Tajikam123,Balkh Province,/* Demographics */
+2014-09-26T12:10:48+00:00,627148375,627148206,1,Tajikam123,Balkh Province,/* Demographics */
+2014-09-26T12:08:36+00:00,627148206,626052986,1,Tajikam123,Balkh Province,/* Demographics */
+2014-09-26T12:05:35+00:00,627147980,623724492,1,Tajikam123,Mazar-i-Sharif,
+2014-09-26T12:01:32+00:00,627147627,626297721,1,Tajikam123,Farah Province,/* Demographics */
+2014-09-26T11:58:42+00:00,627147410,627147341,1,Tajikam123,Herat Province,
+2014-09-26T11:57:39+00:00,627147341,624208378,1,Tajikam123,Herat Province,
+2014-09-18T17:07:33+00:00,626106453,585930290,1,Shayansoleymani,Puli Khumri,
+2014-09-17T17:34:40+00:00,625973801,624207853,1,Shayansoleymani,Balkh Province,
+2014-09-17T16:17:40+00:00,625965152,625965044,1,Shayansoleymani,Baghlan Province,
+2014-09-17T16:16:50+00:00,625965044,617357150,1,Shayansoleymani,Baghlan Province,
+2014-09-17T16:12:12+00:00,625964519,618830495,1,Shayansoleymani,Badghis Province,
+2014-09-17T16:08:04+00:00,625964032,625963973,1,Shayansoleymani,Badakhshan Province,
+2014-09-17T16:07:34+00:00,625963973,624832431,1,Shayansoleymani,Badakhshan Province,
+2014-09-17T16:02:56+00:00,625963472,625119262,1,Shayansoleymani,Languages of Afghanistan,
+2014-09-17T15:49:30+00:00,625961828,625961412,1,Shayansoleymani,Afghanistan,/* Languages */
+2014-09-17T15:45:47+00:00,625961412,625958674,1,Shayansoleymani,Afghanistan,
+2014-09-17T15:20:27+00:00,625958674,625343596,1,Shayansoleymani,Afghanistan,
+2014-08-21T06:36:15+00:00,622159901,622159824,1,Shayansoleymani,Abkhaz language,
+2014-08-21T06:35:12+00:00,622159824,618111254,1,Shayansoleymani,Abkhaz language,
+2014-08-16T16:55:49+00:00,621506603,618004205,1,Shayansoleymani,Kardan University,
+2014-08-16T16:52:46+00:00,621506229,621506101,1,Shayansoleymani,American University of Afghanistan,
+2014-08-16T16:51:48+00:00,621506101,621506037,1,Shayansoleymani,American University of Afghanistan,
+2014-08-16T16:51:07+00:00,621506037,611265781,1,Shayansoleymani,American University of Afghanistan,
+2014-08-16T16:48:16+00:00,621505689,488576718,1,Shayansoleymani,Syed Jamaluddin Afghan University,
+2014-08-16T16:45:17+00:00,621505309,611266469,1,Shayansoleymani,Kandahar University,
+2014-08-16T16:43:19+00:00,621505048,572183859,1,Shayansoleymani,Kabul Medical University,
+2014-08-16T16:39:29+00:00,621504606,611266405,1,Shayansoleymani,Herat University,
+2014-08-16T16:36:49+00:00,621504360,615793568,1,Shayansoleymani,Ghazni University,
+2014-08-16T16:35:30+00:00,621504231,570041046,1,Shayansoleymani,Bamyan University,
+2014-08-16T16:34:39+00:00,621504157,621503880,1,Shayansoleymani,Baghlan University,
+2014-08-16T16:31:48+00:00,621503880,613428445,1,Shayansoleymani,Baghlan University,
+2014-08-16T16:30:15+00:00,621503721,621503602,1,Shayansoleymani,Balkh University,
+2014-08-16T16:29:16+00:00,621503602,621503082,1,Shayansoleymani,Balkh University,
+2014-08-16T16:22:17+00:00,621502786,617400750,1,Shayansoleymani,Balkh University,
+2014-08-16T15:48:49+00:00,621498929,616912851,1,Shayansoleymani,Mazar-i-Sharif,/* Demography */
+2014-08-16T15:39:43+00:00,621497973,621497843,1,Shayansoleymani,Kandahar,/* Demography and culture */
+2014-08-16T15:38:19+00:00,621497843,620736383,1,Shayansoleymani,Kandahar,/* Demography and culture */
+2014-08-16T15:30:53+00:00,621497092,620903374,1,Shayansoleymani,Herat,
+2014-08-16T15:13:30+00:00,621495246,621495078,1,Shayansoleymani,Kabul,/* Demographics */
+2014-08-16T15:11:47+00:00,621495078,620620304,1,Shayansoleymani,Kabul,/* Demographics */
+2014-08-16T14:35:43+00:00,621491536,621491393,1,Shayansoleymani,Kabul Province,/* Demographics and administration */
+2014-08-16T14:34:04+00:00,621491393,621491102,1,Shayansoleymani,Kabul Province,/* Districts */
+2014-08-16T14:30:46+00:00,621491102,619855840,1,Shayansoleymani,Kabul Province,
+2014-08-16T14:24:15+00:00,621490415,620218124,1,Shayansoleymani,Farhad Darya,
+2014-08-16T14:22:43+00:00,621490268,617357206,1,Shayansoleymani,Jowzjan Province,
+2014-08-16T14:16:37+00:00,621489632,621489476,1,Shayansoleymani,Sar-e Pol Province,/* Geography and demography */
+2014-08-16T14:14:52+00:00,621489476,621487490,1,Shayansoleymani,Sar-e Pol Province,/* Geography and demography */
+2014-08-16T13:54:52+00:00,621487490,621062111,1,Shayansoleymani,Sar-e Pol Province,
+2014-08-16T13:52:38+00:00,621487265,617357283,1,Shayansoleymani,Parwan Province,
+2014-08-16T13:45:26+00:00,621486544,621486331,1,Shayansoleymani,Afghanistan,/* Ethnic groups */
+2014-08-16T13:43:13+00:00,621486331,621485852,1,Shayansoleymani,Afghanistan,/* Ethnic groups */
+2014-08-16T13:39:02+00:00,621485852,621484555,1,Shayansoleymani,Afghanistan,
+2014-08-16T13:27:36+00:00,621484645,621483786,1,Shayansoleymani,Tajiks,
+2014-08-16T13:26:44+00:00,621484555,620821629,1,Shayansoleymani,Afghanistan,
+2014-08-16T13:18:31+00:00,621483786,621108100,1,Shayansoleymani,Tajiks,
+2014-08-16T13:13:26+00:00,621483365,621482967,1,Shayansoleymani,Uzbeks,
+2014-08-16T13:08:53+00:00,621482967,618372647,1,Shayansoleymani,Uzbeks,
+2014-08-16T12:57:55+00:00,621481913,621481458,1,Shayansoleymani,Central Asia,/* Major cultural and economic centers */
+2014-08-16T12:52:35+00:00,621481458,621481274,1,Shayansoleymani,Central Asia,/* Territory and region data */
+2014-08-16T12:50:47+00:00,621481274,621199876,1,Shayansoleymani,Central Asia,/* Nations sometimes included */
+2014-08-14T12:36:14+00:00,621203499,621178970,1,Shayansoleymani,Uzbekistan,
+2014-08-14T09:46:38+00:00,621187907,621187873,1,Shayansoleymani,Languages of Afghanistan,
+2014-08-14T09:46:10+00:00,621187873,621187676,1,Shayansoleymani,Languages of Afghanistan,
+2014-08-14T09:43:29+00:00,621187676,621187593,1,Shayansoleymani,Languages of Afghanistan,
+2014-08-14T09:42:29+00:00,621187593,621187286,1,Shayansoleymani,Languages of Afghanistan,
+2014-08-14T09:39:03+00:00,621187286,621187143,1,Shayansoleymani,Languages of Afghanistan,/* Language policy */
+2014-08-14T09:37:27+00:00,621187143,621128427,1,Shayansoleymani,Languages of Afghanistan,/* Overview */
+2014-08-12T16:26:04+00:00,620934094,620932877,1,Shayansoleymani,Tashkurgan Tajik Autonomous County,
+2014-08-12T16:14:46+00:00,620932877,614052010,1,Shayansoleymani,Tashkurgan Tajik Autonomous County,
+2014-08-08T22:30:41+00:00,620431008,620430833,1,Shayansoleymani,Tajiks,
+2014-08-08T22:28:52+00:00,620430833,620430563,1,Shayansoleymani,Tajiks,
+2014-08-08T22:25:32+00:00,620430556,619989492,1,Shayansoleymani,Tajiks,
+2014-08-07T19:56:23+00:00,620277795,620257537,1,Shayansoleymani,Kuwait,
+2014-09-09T13:17:21+00:00,624803044,624488384,0,Factsearch,Afghanistan,/* Elections and parties */ updated sub-section
+2014-09-22T10:38:45+00:00,626600998,626484223,0,Therequiembellishere,Afghanistan,
+2014-09-21T14:52:07+00:00,626484223,626484033,0,Therequiembellishere,Afghanistan,
+2014-08-10T11:50:02+00:00,620625455,620169057,0,Unma.af,Afghanistan,
+2014-08-30T02:57:57+00:00,623396321,623375661,0,Aristophanes68,Afghanistan,"/* top */ If Dari is the official name within the country, then we should just use it"
+2014-09-03T05:07:00+00:00,623961612,623940871,0,Florianwicher,Afghanistan,
+2014-08-18T19:05:42+00:00,621809724,621809555,0,Unma.af,Afghanistan,/* Religions */
+2014-07-23T11:44:50+00:00,618111254,617224463,0,Magioladitis,Abkhaz language,"Removing invisible Unicode character/ Replacing [[hard space]]s  See [[WP:CHECKWIKI]] error #16 fix + other fixes, replaced: →   (3) using [[Project:AWB|AWB]] (10324)"
+2014-09-13T07:49:40+00:00,625343596,625343393,0,Krzyhorse22,Afghanistan,/* Languages */
+2014-08-17T09:17:10+00:00,621600002,621511555,0,The Anomebot2,American University of Afghanistan,Adding geodata: {{coord|34.5178|N|69.1281|E|source:wikidata|display=title}}
+2014-09-11T17:46:36+00:00,625119535,624803044,0,Ohnoitsjamie,Afghanistan,Reverted edits by [[Special:Contribs/Factsearch|Factsearch]] ([[User talk:Factsearch|talk]]) to last version by Technophant
+2014-09-18T05:32:00+00:00,626042891,625989419,0,Blondeguynative,Afghanistan,
+2014-08-11T20:51:57+00:00,620821629,620625455,0,Unma.af,Afghanistan,/* Hotaki dynasty and Durrani Empire */
+2014-06-02T18:28:11+00:00,611265781,611265665,0,LouisAragon,American University of Afghanistan,
+2014-08-01T15:51:04+00:00,619437169,616671875,0,117.194.193.180,Badakhshan Province,/* History */
+2014-09-17T20:05:15+00:00,625990539,625964032,0,Sminthopsis84,Badakhshan Province,Reverted 2 edits by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by Bejnar. ([[WP:TW|TW]])
+2014-08-05T05:28:10+00:00,619918040,619848408,0,Member,Bactria,
+2014-07-17T19:17:27+00:00,617357150,616005980,0,Yobot,Baghlan Province,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10310)
+2014-08-16T17:38:37+00:00,621511712,621504157,0,Aristophanes68,Baghlan University,Reverted 2 edits by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by BD2412. ([[WP:TW|TW]])
+2014-08-12T10:35:03+00:00,620897903,620897867,0,126.50.168.225,Bactria,/* Cyrus the Great */
+2014-07-28T15:27:18+00:00,618830495,610782471,0,216.158.190.199,Badghis Province,/* History */
+2014-06-18T13:36:41+00:00,613428445,569001601,0,BD2412,Baghlan University,"Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: [[Pashto]] → [[Pashto language|Pashto]] using [[Project:AWB|AWB]]"
+2014-08-09T15:48:20+00:00,620517735,620492330,0,Mardhil,Balkh,
+2014-08-26T14:42:52+00:00,622890612,620517735,0,Omnipaedista,Balkh,add IPAc-en
+2014-08-09T03:26:31+00:00,620457089,617357160,0,DuncanHill,Balkh Province,/* Demographics */ wl
+2014-08-16T15:50:56+00:00,621499112,621481913,0,Aristophanes68,Central Asia,Undid revision 621481274 by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) restoring unexplained removal of content; editor has done this on numerous pages
+2014-09-04T21:12:35+00:00,624207853,620457089,0,Marcocapelle,Balkh Province,moved parent categories from article to Balkh Province category
+2014-07-18T02:09:31+00:00,617400750,617345720,0,Lysozym,Balkh University,rv
+2014-08-25T12:30:03+00:00,622734258,622703420,0,Takeaway,Central Asia,Undid revision 622703420 by [[Special:Contributions/Nikhilmn2002|Nikhilmn2002]] ([[User talk:Nikhilmn2002|talk]]) restored previous map size (info box too wide)
+2014-08-11T01:12:37+00:00,620708065,620591597,0,68.195.189.199,Central Asia,inaccurate use of term
+2014-07-23T12:02:47+00:00,618113147,617357177,0,Sha shiraz,Farah Province,/* Religious sites */
+2014-08-27T11:40:02+00:00,623012181,623011725,0,180.94.77.114,Herat Province,
+2014-09-05T22:36:51+00:00,624344855,624344698,0,HoboMcJoe,Herat,/* External links */ labelled dead external link
+2014-08-16T15:40:58+00:00,621498082,621490415,0,Aristophanes68,Farhad Darya,Reverted 1 edit by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by 67.189.19.51. ([[WP:TW|TW]])
+2014-09-07T18:09:17+00:00,624565322,618113147,0,Globe-facts,Farah Province,
+2014-08-16T17:38:12+00:00,621511664,621504360,0,Aristophanes68,Ghazni University,Reverted 1 edit by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by Rjwilmsi. ([[WP:TW|TW]])
+2014-08-16T17:37:52+00:00,621511625,621504606,0,Aristophanes68,Herat University,Reverted 1 edit by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by LouisAragon. ([[WP:TW|TW]])
+2014-08-05T15:59:33+00:00,619973947,617606586,0,84.59.173.135,Herat Province,/* Demographics */
+2014-08-19T19:11:26+00:00,621953518,619973947,0,39.41.252.93,Herat Province,Undid revision 619973947 by [[Special:Contributions/84.59.173.135|84.59.173.135]] ([[User talk:84.59.173.135|talk]])
+2014-08-18T13:08:28+00:00,621768891,621600910,0,Pratyya Ghosh,Jowzjan Province,(Script) [[commons:COM:FR|File renamed]]: [[File:120517-F-UZ487-005.jpg]] → [[File:A platoon of Afghan Border Police wait for their graduation ceremony to begin at Regional Training Center Sheberghan.jpg]] [[commons:COM:FR#reasons|File renaming crite...
+2014-07-17T19:17:57+00:00,617357206,616914640,0,Yobot,Jowzjan Province,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10310)
+2014-08-07T05:08:03+00:00,620192439,618535430,0,Cydebot,Kabul,Robot - Removing category Cities with millions of inhabitants per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2014 July 30]].
+2014-09-16T16:17:08+00:00,625830495,624990333,0,AryanaWattan,Kabul,
+2014-08-10T10:49:28+00:00,620620304,620192439,0,Abdulaziz2580,Kabul,
+2014-08-16T15:44:26+00:00,621498465,621491536,0,Aristophanes68,Kabul Province,Reverted 3 edits by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by Benlisquare. ([[WP:TW|TW]])
+2014-09-19T22:17:47+00:00,626265019,626219257,0,Aristophanes68,Kandahar,"Undid revision 621902934 by [[Special:Contributions/StanTheMan87|StanTheMan87]] ([[User talk:StanTheMan87|talk]]) That source is just a mirror of this article, so the quote you added is already a few paragraphs up"
+2014-09-10T09:36:53+00:00,624922160,624922038,0,95.96.255.72,Kabul Province,/* Demographics and administration */
+2014-08-16T17:42:43+00:00,621512228,621505048,0,Aristophanes68,Kabul Medical University,Reverted 1 edit by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by Smsarmad. ([[WP:TW|TW]])
+2014-08-16T17:37:42+00:00,621511605,621505309,0,Aristophanes68,Kandahar University,Reverted 1 edit by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by LouisAragon. ([[WP:TW|TW]])
+2013-09-09T12:34:14+00:00,572183859,572039799,0,Smsarmad,Kabul Medical University,Disambiguated: [[Dental]] → [[Dentistry]]
+2014-08-19T11:33:11+00:00,621902934,621499958,0,StanTheMan87,Kandahar,→Modern history
+2014-08-11T07:41:34+00:00,620736383,620735845,0,Harshhussey,Kandahar,/* Notable people from Kandahar */
+2014-09-23T16:46:44+00:00,626783782,621511605,0,PKT,Kandahar University,unlinked ambiguous name [[Central Library]] & added imbedded comment
+2014-08-16T15:57:02+00:00,621499958,621497973,0,Aristophanes68,Kandahar,Undid revision 621497973 by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) that change simply created a redirect
+2014-08-16T17:43:27+00:00,621512309,621506603,0,Aristophanes68,Kardan University,Reverted 1 edit by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by MusikAnimal. ([[WP:TW|TW]])
+2014-09-07T03:21:24+00:00,624494350,624493714,0,Chris1834,Kuwait,Reverted 1 pending edit by [[Special:Contributions/76.118.69.70|76.118.69.70]] to revision 624078542 by Agrso: Needs an indeoendent source
+2014-08-16T19:35:00+00:00,621525278,621484220,0,Agrso,Kuwait,
+2014-08-15T21:52:24+00:00,621410140,621409959,0,Kabuligirl,Languages of Afghanistan,
+2014-08-25T21:52:04+00:00,622801132,622557389,0,Bgwhite,Languages of Afghanistan,[[WP:CHECKWIKI]] error fix. Broken bracket problem. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]] (10396)
+2014-08-18T19:31:17+00:00,621812962,621410140,0,Unma.af,Languages of Afghanistan,
+2014-08-08T03:58:33+00:00,620325988,620099150,0,Aristophanes68,Languages of Afghanistan,/* top */ correcting mislabeled links
+2014-08-13T22:54:46+00:00,621128427,621125831,0,Aristophanes68,Languages of Afghanistan,Reverted 4 edits by [[Special:Contributions/2.185.186.170|2.185.186.170]] ([[User talk:2.185.186.170|talk]]): Unexplained removal of language names. ([[WP:TW|TW]])
+2014-09-18T03:53:43+00:00,626035937,626008699,0,Aristophanes68,Languages of Afghanistan,Undid revision 626008699 by [[Special:Contributions/62.205.82.154|62.205.82.154]] ([[User talk:62.205.82.154|talk]])
+2014-09-02T22:28:51+00:00,623922994,623922433,0,Aristophanes68,Languages of Afghanistan,/* Overview */ please clarify those weird numbers in the table
+2014-07-14T13:57:43+00:00,616912851,616897439,0,WikiDan61,Mazar-i-Sharif,Reverted 6 edits by [[Special:Contributions/Hamidullah Turkmen|Hamidullah Turkmen]] ([[User talk:Hamidullah Turkmen|talk]]) to last revision by 98.243.93.206. ([[WP:TW|TW]])
+2014-09-06T18:08:52+00:00,624442405,624440471,0,Aristophanes68,Languages of Afghanistan,Reverted 1 edit by [[Special:Contributions/197.6.133.248|197.6.133.248]] ([[User talk:197.6.133.248|talk]]) to last revision by Aristophanes68. ([[WP:TW|TW]])
+2014-08-16T16:29:08+00:00,621503592,621498929,0,Flyer22 Frozen,Mazar-i-Sharif,Reverted edits by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by WikiDan61 ([[WP:HG|HG]])
+2014-08-14T15:17:25+00:00,621221360,621187907,0,Aristophanes68,Languages of Afghanistan,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Shayansoleymani|Shayansoleymani]]: These edits contradict the Afghanistan and Dari articles; please discuss them on the talk page before restoring them. ([[WP:TW|TW]])
+2014-09-11T17:44:10+00:00,625119262,624442405,0,Ælfgar,Languages of Afghanistan,there's no need for two infoboxes
+2014-09-01T16:03:41+00:00,623724492,621503592,0,Dolescum,Mazar-i-Sharif,"[[MOS:ISLAM]], ce"
+2014-08-22T21:21:52+00:00,622389363,622386658,0,Ponyo,Languages of Afghanistan,rv whack of sock edits
+2014-08-16T15:39:40+00:00,621497971,621487265,0,Aristophanes68,Parwan Province,Reverted 1 edit by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by Yobot. ([[WP:TW|TW]])
+2014-08-13T13:55:34+00:00,621062111,616007624,0,88.68.227.229,Sar-e Pol Province,/* Geography and demography */
+2013-12-13T17:07:24+00:00,585930290,585406178,0,ChrisGualtieri,Puli Khumri,Remove stub template(s). Page is start class or higher. Also check for and do General Fixes + Checkwiki fixes using [[Project:AWB|AWB]]
+2014-09-21T23:58:35+00:00,626546113,626106453,0,Jacob S-589,Puli Khumri,/* Provincial Reconstruction Team */
+2014-08-16T15:40:30+00:00,621498045,621489632,0,Aristophanes68,Sar-e Pol Province,Reverted 3 edits by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by 88.68.227.229. ([[WP:TW|TW]])
+2014-08-16T17:42:54+00:00,621512255,621505689,0,Aristophanes68,Syed Jamaluddin Afghan University,Reverted 1 edit by [[Special:Contributions/Shayansoleymani|Shayansoleymani]] ([[User talk:Shayansoleymani|talk]]) to last revision by Hmains. ([[WP:TW|TW]])
+2014-09-01T08:26:43+00:00,623682438,623291409,0,Troetona,Tajiks,
+2014-09-21T06:49:38+00:00,626442039,626116135,0,103.14.60.77,Tajiks,
+2014-08-17T18:52:32+00:00,621663425,621620351,0,Franrasyan,Tajiks,
+2014-08-26T07:38:54+00:00,622853615,622853559,0,Filedelinkerbot,Tajiks,"Bot: Removing [[Commons:File:Ismail Samani.jpg]] ([[:File:Ismail Samani.jpg|en]]). It was deleted on Commons by [[:Commons:User:Fastily|Fastily]] (No source since 18 August 2014: you may [[Commons:Special:Upload|re-upload]] the file, but please cite th..."
+2014-09-18T18:33:47+00:00,626116135,623682438,0,Akbar Khan89,Tajiks,Shahabuddin Suri is Pashtun & not Tajik. Suri is a huge tribe within Pashtun people!
+2014-06-23T05:37:00+00:00,614052010,613558517,0,John Hill,Tashkurgan Tajik Autonomous County,/* Museum */ photo added
+2014-08-24T19:36:27+00:00,622642063,622599570,0,Vsmith,Uzbekistan,/* History */ spell ...
+2014-09-04T07:10:42+00:00,624123047,620934094,0,Cattus,Tashkurgan Tajik Autonomous County,"common name of the country, added country in lead"
+2014-09-05T16:07:47+00:00,624304819,624018454,0,Amir.Temur,Uzbeks,
+2014-08-06T12:21:52+00:00,620085531,619848442,0,Omnipaedista,Uzbekistan,per [[MOS:Ety]]
+2014-07-25T04:52:21+00:00,618372647,617441980,0,Monkbot,Uzbeks,Task 5: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]
+2014-05-13T04:39:07+00:00,608329982,607632643,0,Werieth,Afghanistan,replace/remove archive.is
+2014-06-28T12:16:56+00:00,614750322,614666337,0,Dewritech,Afghanistan,"/* Etymology */clean up, [[WP:AWB/T|typo(s) fixed]]: sanskrit → Sanskrit using [[Project:AWB|AWB]]"
+2014-04-07T02:36:46+00:00,603093382,592780167,0,Lfdder,Abkhaz language,
+2013-09-11T06:32:30+00:00,572452310,572452122,0,Jaywubba1887,Afghanistan,
+2014-01-07T00:56:40+00:00,589525741,589453711,0,Meteor sandwich yum,Afghanistan,fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]
+2014-07-13T05:08:42+00:00,616745691,616267848,0,How Shuan Shi,Afghanistan,/* Recent history (2002–present) */
+2013-10-24T17:38:22+00:00,578576066,578576028,0,ClueBot NG,Afghanistan,"Reverting possible vandalism by [[Special:Contributions/208.71.233.66|208.71.233.66]] to version by Fareed30. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (0) (Bot)"
+2014-04-21T13:19:03+00:00,605146471,605146352,0,B. Fairbairn,Afghanistan,/* Crime and law enforcement */
+2014-05-27T18:12:43+00:00,610379266,610378610,0,Fork me,Afghanistan,/* Islamization and Mongol invasion */ corrected missing [
+2014-03-28T12:15:01+00:00,601643978,601455314,0,Sassospicco,Afghanistan,/* Transport and communications */ Afghan Post is worth mentioning
+2013-09-18T02:44:27+00:00,573441081,573431265,0,216.164.115.86,Afghanistan,/* Ethnic groups */
+2014-05-26T17:53:43+00:00,610235587,609693133,0,Feysalafghan,Afghanistan,who says india is Afghanistan neighboring country hahahahah again a Indian nationalist i think
+2014-05-19T09:53:50+00:00,609216613,608740348,0,Kutsuit,Afghanistan,
+2014-04-02T17:46:47+00:00,602447653,601643978,0,Nasim007,Afghanistan,
+2014-03-24T16:52:41+00:00,601055441,600988775,0,Fraggle81,American University of Afghanistan,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/175.106.49.88|175.106.49.88]] using [[WP:STiki|STiki]]
+2014-01-25T08:52:19+00:00,592298321,591748021,0,Nasim007,Afghanistan,
+2014-02-12T19:01:01+00:00,595180074,595171058,0,Derek R Bullamore,American University of Afghanistan,Filling in 2 references using [[WP:REFLINKS|Reflinks]]
+2014-03-01T12:21:18+00:00,597657531,595879898,0,182.181.132.29,Baghlan Province,/* Demographics */
+2014-01-25T05:24:22+00:00,592282701,592054649,0,Italia2006,Bactria,
+2014-02-15T13:19:02+00:00,595583487,595582755,0,Til Eulenspiegel,Bactria,Revert to revision 592282701 dated 2014-01-25 05:24:22 by Italia2006 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2014-02-05T21:13:32+00:00,594102359,592897840,0,109.242.91.4,Badakhshan Province,/* District information */
+2014-07-24T14:04:39+00:00,618274666,618274483,0,Mx. Granger,Afghanistan,accessdate
+2013-09-11T06:53:55+00:00,572453510,571553596,0,Jaywubba1887,Badakhshan Province,/* Geography */
+2014-01-06T08:33:49+00:00,589416583,589414034,0,Jimp,Afghanistan,"consistent date format, ""US"" undotted  consistently & delink repeated/irrelevant words"
+2014-02-02T20:53:56+00:00,593633942,593633906,0,CogitoErgoSum14,Badghis Province,Reverted edits by [[Special:Contributions/192.76.7.222|192.76.7.222]] ([[User talk:192.76.7.222|talk]]): unexplained page blanking ([[WP:HG|HG]])
+2014-02-17T14:37:36+00:00,595879771,593633942,0,Trappist the monk,Badghis Province,Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]] (test) using [[Project:AWB|AWB]]
+2013-08-17T23:00:07+00:00,569001601,481986635,0,Johnpacklambert,Baghlan University,added [[Category:1993 establishments in Afghanistan]] using [[WP:HC|HotCat]]
+2013-11-25T19:13:30+00:00,583272266,583254547,0,74.202.44.6,Balkh,/* History */ Bactrians was uncapitalized
+2013-09-07T04:48:15+00:00,571874530,571356902,0,Ogress,Balkh,"Disambiguated: [[Kavi]] → [[Kayanians]], [[Karakul]] → [[Karakul (sheep)]]"
+2013-09-06T12:14:06+00:00,571771770,571770258,0,Milliona,Balkh University,
+2013-12-31T10:40:05+00:00,588504288,587929575,0,39.41.199.1,Balkh Province,Undid revision 587929575 by [[Special:Contributions/182.185.49.87|182.185.49.87]] ([[User talk:182.185.49.87|talk]]) vandalism
+2014-01-18T12:59:30+00:00,591265224,587316656,0,61.90.107.112,Balkh,extraneous commas
+2013-11-11T21:47:37+00:00,581241895,576608621,0,Thricecube,Balkh Province,
+2014-02-17T10:03:33+00:00,595854424,592375543,0,223.132.84.193,Balkh Province,Infobox settlement
+2014-05-30T12:26:34+00:00,610782743,606620953,0,Monopoly31121993,Balkh Province,added healthcare and education
+2014-01-29T19:39:10+00:00,593002493,593002395,0,Feysalafghan,Central Asia,sometimes included
+2013-12-26T15:29:42+00:00,587755885,587524941,0,76.98.148.41,Central Asia,/* Territory and region data */
+2014-03-07T11:31:15+00:00,598535295,598535099,0,182.180.89.85,Central Asia,
+2013-10-12T18:28:16+00:00,576887952,576508287,0,Jarble,Central Asia,
+2014-07-07T10:35:30+00:00,615930912,615758342,0,Sangjinhwa,Central Asia,Undid revision 615758342 by [[Special:Contributions/173.2.107.129|173.2.107.129]] ([[User talk:173.2.107.129|talk]])
+2014-07-07T22:22:16+00:00,616007503,616005757,0,198.102.153.2,Farah Province,/* Districts */
+2014-01-16T18:24:49+00:00,591001625,590996371,0,Bejnar,Farah Province,revert recent IP edits that change pop figures without citation and that redink links
+2014-01-17T15:58:42+00:00,591135761,587316811,0,39.41.83.98,Farhad Darya,Cleanup
+2013-11-01T06:32:58+00:00,579707834,543154988,0,196.195.248.22,Ghazni University,
+2013-10-08T14:21:52+00:00,576293024,572921353,0,164.106.108.254,Farhad Darya,/* Early years and personal life */
+2014-03-23T23:56:32+00:00,600954546,599336982,0,75.111.250.78,Herat,University of Texas → [[University of Texas at Austin]]
+2014-06-08T15:24:16+00:00,612089870,610782827,0,80.0.23.48,Farah Province,
+2013-09-05T16:07:43+00:00,571660068,570252857,0,Fareed30,Herat Province,/* Demographics */ Removing ethnocentric POV which is not mentioned anywhere in the source!
+2014-01-20T09:15:55+00:00,591538602,588678589,0,Asif Khan Norzai,Herat,"Pashto is also spoken in Herat and is an official language of Afghanistan. It's not about the majority of an ethnic group living somewhere. I mean look at Kandahar https://en.wikipedia.org/wiki/Kandahar, where it's written in Persian too."
+2014-01-11T08:59:31+00:00,590196492,590195986,0,39.41.190.53,Herat Province,
+2013-10-25T03:42:40+00:00,578644256,577404253,0,Fareed30,Farah Province,"Rmv falsehood, not according to the sources."
+2013-12-04T16:22:37+00:00,584540257,584528087,0,Dewritech,Herat Province,Reverted 1 edit by [[Special:Contributions/175.106.39.144|175.106.39.144]] identified as test/vandalism using [[WP:STiki|STiki]]
+2013-10-10T17:01:32+00:00,576608638,576571784,0,Khestwol,Jowzjan Province,Reverted 1 edit by [[Special:Contributions/182.185.73.185|182.185.73.185]] ([[User talk:182.185.73.185|talk]]) to last revision by AmaryllisGardener. ([[WP:TW|TW]])
+2014-05-24T06:53:24+00:00,609911408,609910709,0,Bongwarrior,Herat Province,Reverted edits by [[Special:Contribs/EVEWzMjH4f.nut-R|EVEWzMjH4f.nut-R]] ([[User talk:EVEWzMjH4f.nut-R|talk]]) to last version by Slightsmile
+2013-12-18T18:54:41+00:00,586677991,577821077,0,98.243.93.206,Herat University,
+2013-11-16T16:36:11+00:00,581929092,581250620,0,Mogism,Jowzjan Province,"Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: , → ,  (2) using [[Project:AWB|AWB]]"
+2014-02-21T17:38:44+00:00,596517395,596517362,0,Abce2,Kabul,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/207.63.207.2|207.63.207.2]] ([[User talk:207.63.207.2|talk]]) to last version by 207.157.121.52
+2014-01-27T02:38:48+00:00,592573164,591853727,0,Wavelength,Kabul,removing redundant information—[[MOS:HEAD]]
+2014-07-26T12:14:32+00:00,618535430,618532999,0,Doug Weller,Kabul,/* top */ rvv to show population figures
+2014-06-27T01:42:15+00:00,614579944,613705886,0,2605:A601:562:3901:6811:5ADB:FC67:61AD,Kabul,/* NATO presence and the Karzai administration */
+2013-09-22T13:27:49+00:00,574043702,573905823,0,Khestwol,Kabul Province,Reverted 1 edit by [[Special:Contributions/182.185.74.93|182.185.74.93]] ([[User talk:182.185.74.93|talk]]) to last revision by Khestwol. ([[WP:TW|TW]])
+2014-08-04T19:08:14+00:00,619855840,619554819,0,Benlisquare,Kabul Province,Undid revision 619554819 by [[Special:Contributions/Unma.af|Unma.af]] ([[User talk:Unma.af|talk]]) - does not match image caption
+2014-07-19T06:03:04+00:00,617546088,617545897,0,AFGwardak,Kabul Province,/* Demographics and administration */
+2013-09-13T11:39:06+00:00,572746961,572704941,0,182.181.154.197,Kandahar,/* Name */
+2013-10-19T08:00:04+00:00,577815593,577815411,0,The Herald,Kandahar,Reverted 1 edit by [[Special:Contributions/72.199.132.129|72.199.132.129]] ([[User talk:72.199.132.129|talk]]) to last revision by Syed Wamiq Ahmed Hashmi. ([[WP:TW|TW]])
+2013-10-27T16:22:38+00:00,578970989,578967306,0,Fareed30,Kandahar,
+2014-03-02T05:30:26+00:00,597769412,596177181,0,76.11.66.119,Kandahar,
+2013-11-28T05:34:04+00:00,583627503,578970989,0,2602:306:36ED:42C0:7D40:3957:DFE8:4CB0,Kandahar,
+2013-04-19T21:28:27+00:00,551192337,544897454,0,Squids and Chips,Kandahar University,/* Overview */ expand link
+2014-05-05T02:37:21+00:00,607109336,607107066,0,HullIntegrity,Kuwait,"Reverted 1 pending edit by [[Special:Contributions/80.184.45.251|80.184.45.251]] to revision 606862847 by Azizking2: Disputed terminology: ""Persian Gulf"" is more common."
+2014-03-28T14:29:42+00:00,601658308,584347991,0,Zabihullah Rasid,Kardan University,
+2014-01-15T03:20:30+00:00,590764380,590667396,0,Kwamikagami,Kuwait,/* Languages */
+2014-04-27T00:47:01+00:00,605967448,605966952,0,Iryna Harpy,Kuwait,Undid revision 605966952 by [[Special:Contributions/Iryna Harpy|Iryna Harpy]] ([[User talk:Iryna Harpy|talk]]) Rv self. Trout slap. Changes appropriate.
+2014-07-12T23:31:55+00:00,616716385,616715809,0,Nazak22,Languages of Afghanistan,/* Overview */
+2013-10-20T21:58:52+00:00,578031602,578031305,0,64.231.72.214,Languages of Afghanistan,/* Language policy */
+2014-03-28T23:33:06+00:00,601730194,601730147,0,Afsana bahar,Languages of Afghanistan,
+2014-01-23T09:17:29+00:00,591999889,591936233,0,Haberstr,Languages of Afghanistan,/* Overview */ clarified excluded provinces
+2013-10-22T09:15:05+00:00,578235579,578119981,0,108.185.145.19,Languages of Afghanistan,
+2014-05-14T08:02:52+00:00,608512697,606455596,0,134.93.67.83,Languages of Afghanistan,/* Overview */
+2014-04-28T08:06:51+00:00,606148574,602809917,0,RjwilmsiBot,Kandahar,"CiteCompletion, authors: 1, {{dead link}}s: 1 using [[Project:AWB|AWB]] (10081)"
+2014-06-14T15:45:10+00:00,612903084,612902823,0,Monopoly31121993,Mazar-i-Sharif,/* Economy */ links
+2014-03-25T04:03:02+00:00,601145416,600918183,0,94.193.179.4,Mazar-i-Sharif,/* Demography */
+2014-02-04T09:34:49+00:00,593863533,593863510,0,Citation bot,Mazar-i-Sharif,[dev532]Add: postscript. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].
+2013-09-22T07:53:11+00:00,574017333,572115103,0,37.190.49.21,Mazar-i-Sharif,/* Economy and transport */
+2013-11-13T18:38:22+00:00,581512299,574572850,0,Thricecube,Parwan Province,
+2013-07-28T02:50:27+00:00,566098409,559758071,0,Andrewman327,Sar-e Pol Province,clean up using [[Project:AWB|AWB]]
+2014-01-15T07:15:33+00:00,590783471,590063641,0,180.222.143.250,Mazar-i-Sharif,/* Notable places */ https://www.facebook.com/pages/انجمن-جوانان-همنوای-ولایت-بلخ/1405387656374190
+2012-04-22T00:20:37+00:00,488576718,471265476,0,Hmains,Syed Jamaluddin Afghan University,"copyedit, clarity edits, MOS implementation, and/or AWB general fixes using [[Project:AWB|AWB]]"
+2013-11-13T22:00:16+00:00,581539660,576608661,0,Thricecube,Sar-e Pol Province,
+2013-09-21T21:26:14+00:00,573964160,573017363,0,Mttll,Tajiks,
+2014-07-18T12:06:21+00:00,617444856,617439606,0,Doug Weller,Tajiks,"/* External links */ remove commercial site, personal websites, and all but one artwis.com (which were evidently coi edits)"
+2013-11-11T17:58:49+00:00,581211583,580905912,0,Metalman60,Tajiks,
+2013-12-21T14:59:42+00:00,587102478,587102199,0,Khurasan1515,Tajiks,I have just correct ahmad shah massoud's name on the list
+2014-08-05T18:14:40+00:00,619989492,619986742,0,Bejnar,Tajiks,Clarify language relationship to name
+2014-07-04T14:20:21+00:00,615577073,615535219,0,95.142.88.195,Tajiks,
+2014-03-10T23:42:06+00:00,599058870,598297111,0,S. Neuman,Tajiks,/* Afghanistan */
+2013-08-28T04:16:32+00:00,570488635,560558249,0,SporkBot,Tashkurgan Tajik Autonomous County,Remove template per [[Wikipedia:Templates for discussion/Log/2013 August 19|TFD outcome]]
+2013-12-19T05:16:04+00:00,586743774,586742967,0,Mx. Granger,Tashkurgan Tajik Autonomous County,Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2013-11-30T16:02:37+00:00,583920915,583920424,0,206.18.168.64,Uzbekistan,/* Economy */
+2014-07-28T04:12:37+00:00,618764596,617676112,0,EvergreenFir,Uzbekistan,"Updating HDI info and ref and verifying info; note, HDI values are always from prior year of report's publication ."
+2014-01-02T09:56:48+00:00,588792413,588648017,0,82.215.230.149,Uzbekistan,
+2014-07-07T22:22:23+00:00,616007516,615410541,0,Bricklayer,Uzbeks,Abdoujaparov was an ethnic crimean tatar according to the article on him
+2014-05-10T17:08:34+00:00,607934177,607928899,0,Trackteur,Uzbekistan,
+2014-03-28T20:06:18+00:00,601703373,601702799,0,86.137.73.1,Uzbeks,/* Language */ linked to Karluk languages
+2013-12-11T18:27:54+00:00,585625887,582648728,0,Tátótát,Uzbeks,
+2014-03-16T21:28:39+00:00,599917822,599366580,0,Dudewithafez,Uzbeks,/* History */
+2014-06-16T19:49:01+00:00,613184018,613181757,0,Tehiptilla Vanand,Tajiks,/* Religion */

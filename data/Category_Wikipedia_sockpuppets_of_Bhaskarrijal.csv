@@ -1,0 +1,913 @@
+timestamp,revid,parentid,sock,user,page,message
+2024-05-03T06:34:08+00:00,1221992597,1196349516,1,Bhaskarrijal,Institute of Science and Technology,removed uni abbreviation for clarification
+2024-05-03T06:19:25+00:00,1221991223,1221486847,1,Bhaskarrijal,Tribhuvan University,/* Technical institutes */ alphabetically sorted names of the institutes
+2024-04-21T04:12:36+00:00,1219990013,1213726381,1,Bhaskarrijal,Nepal Super League,/* Teams */ Jhapa FC has hinted Mechi Rangasala as their home ground
+2024-02-01T09:30:10+00:00,1201767834,1201765476,1,Bhaskarrijal,Koshi Province,updated image of Mahendra highway
+2024-02-01T09:22:32+00:00,1201765476,1200797769,1,Bhaskarrijal,Koshi Province,/* Roadways */ added highways code and referenced asian highway
+2023-01-02T06:28:17+00:00,1131034358,1130784519,1,Bhaskarrijal,Human Development Index,/* Country/region specific HDI lists */ add Nepalese provinces to the list
+2023-01-02T06:15:05+00:00,1131032861,1090223741,1,Bhaskarrijal,Nijgadh International Airport,name fix on infobox
+2022-12-31T06:59:32+00:00,1130648168,1130442434,1,Bhaskarrijal,Terai,/* Inner Terai */ clarification added
+2022-12-28T14:48:36+00:00,1130088057,1112772057,1,Bhaskarrijal,Mahendra Highway,/* Overview */ typo fix for Kakarbhitta & hyperlinked + typo fixed Mechinagar
+2022-12-26T11:59:44+00:00,1129633587,1129629499,1,Bhaskarrijal,Ministry of Home Affairs (Nepal),consistency on HM's name
+2022-12-26T11:53:29+00:00,1129632734,1129524018,1,Bhaskarrijal,Prime Minister of Nepal,more clarification about the recent development
+2022-12-12T03:35:27+00:00,1126955487,1098620617,1,Bhaskarrijal,Kathmandu–Terai Expressway,Removed unused marker image selection
+2022-10-04T18:04:47+00:00,1114079193,1111456326,1,Bhaskarrijal,Sathya Sai Baba,/* Funeral and mourning */ add Jhala Nath Khanal to the list of those who offered condolences
+2022-08-04T19:02:04+00:00,1102373985,1097213778,1,Bhaskarrijal,Mechi Multiple Campus,/* Academics */ unified naming for course of science
+2022-05-31T06:25:22+00:00,1090761990,1090260433,1,Bhaskarrijal,Mechinagar Municipality,/* Ward Division */ corrected spelling of merged vdc
+2022-05-31T06:23:05+00:00,1090761728,1082313677,1,Bhaskarrijal,Birtamod Municipality,Updated newly elected leaders
+2022-05-27T10:09:11+00:00,1090094300,1089789656,1,Bhaskarrijal,Mechinagar Municipality,/* Origin */ improved the readibility
+2022-05-27T10:04:43+00:00,1090093917,1090060211,1,Bhaskarrijal,Kathmandu,change the mayor's name from devanagari to roman script
+2021-08-25T14:24:17+00:00,1040599119,1030181771,1,Bhaskarrijal,Mechinagar Municipality,/* Climate */
+2021-08-25T14:12:56+00:00,1040597598,1039112068,1,Bhaskarrijal,Goat meat,/* Asia */ added broader definition
+2021-06-25T11:57:49+00:00,1030353373,1030349192,1,Bhaskarrijal,Mechi Multiple Campus,/* IOST */ + science block info
+2021-06-25T11:18:55+00:00,1030349192,1030335753,1,Bhaskarrijal,Mechi Multiple Campus,/* IOST */ Details about programs and general information about IOST
+2021-06-25T09:05:25+00:00,1030335753,1030334222,1,Bhaskarrijal,Mechi Multiple Campus,+ IOST history
+2021-06-25T08:49:19+00:00,1030334222,1030331314,1,Bhaskarrijal,Mechi Multiple Campus,/* IOST */
+2021-06-25T08:18:59+00:00,1030331314,1030330426,1,Bhaskarrijal,Mechi Multiple Campus,/* IOST */ short description of IOSt in MMC + province in infobox
+2021-06-25T08:08:59+00:00,1030330426,1030329977,1,Bhaskarrijal,Mechi Multiple Campus,mentioning TU on infobox
+2021-06-25T08:03:25+00:00,1030329977,1030223156,1,Bhaskarrijal,Mechi Multiple Campus,defined multiple campus
+2021-06-24T16:53:50+00:00,1030223156,1030222090,1,Bhaskarrijal,Mechi Multiple Campus,fixed the constituency (cited)
+2021-06-24T16:46:45+00:00,1030222090,1030221443,1,Bhaskarrijal,Mechi Multiple Campus,Improved template
+2021-06-24T16:41:43+00:00,1030221443,1030170145,1,Bhaskarrijal,Mechi Multiple Campus,/* Academics */
+2021-06-24T11:02:24+00:00,1030181771,1024802850,1,Bhaskarrijal,Mechinagar Municipality,/* Road Network */ + AH2 reference
+2021-06-24T10:53:34+00:00,1030180968,1030180818,1,Bhaskarrijal,List of roads in Nepal,/* National Highways */ Mechi Bridge lies at Kakarbhitta so that wouldn't be enough broad term
+2021-06-24T10:51:58+00:00,1030180818,1030179426,1,Bhaskarrijal,List of roads in Nepal,/* Feeder Roads */ + reference image
+2021-06-24T10:45:04+00:00,1030180194,930803535,1,Bhaskarrijal,Road signs in Nepal,+ reference image
+2021-06-24T10:36:28+00:00,1030179426,1017911651,1,Bhaskarrijal,List of roads in Nepal,+ reference image
+2021-06-24T10:34:11+00:00,1030179220,1017530015,1,Bhaskarrijal,National Highway System (Nepal),+ ref. image
+2021-06-24T09:58:03+00:00,1030175784,1030175626,1,Bhaskarrijal,List of universities in Nepal,/* Universities */ + TU
+2021-06-24T09:55:55+00:00,1030175626,1027972726,1,Bhaskarrijal,List of universities in Nepal,/* Universities */
+2021-06-24T09:43:03+00:00,1030174340,1030171060,1,Bhaskarrijal,Tribhuvan University,/* Faculties */ + central departments & sorting ac. to official website
+2021-06-24T09:05:57+00:00,1030171060,1030164427,1,Bhaskarrijal,Tribhuvan University,"/* Faculties and associated central departments */ better detailed the section, added some links and sorted whole list a bit"
+2021-06-24T08:55:50+00:00,1030170145,1030169963,1,Bhaskarrijal,Mechi Multiple Campus,/* Campus */ added captions to gallery
+2021-06-24T08:53:43+00:00,1030169963,1030167897,1,Bhaskarrijal,Mechi Multiple Campus,/* Campus */ added a photo gallery
+2021-06-24T08:26:51+00:00,1030167897,1030165572,1,Bhaskarrijal,Mechi Multiple Campus,/* Campus */ added additioinal information
+2021-06-24T08:03:16+00:00,1030165572,1028173643,1,Bhaskarrijal,Mechi Multiple Campus,detailed the academics section a bit more
+2021-06-24T07:49:46+00:00,1030164427,1030164205,1,Bhaskarrijal,Tribhuvan University,/* Technical institutes */ added how institutes are known as abbreviations
+2021-06-24T07:47:18+00:00,1030164205,1030116783,1,Bhaskarrijal,Tribhuvan University,/* Academics */ simple grammatic fix.
+2021-06-21T11:45:11+00:00,1029680168,1029168473,1,Bhaskarrijal,User talk:Bhaskarrijal,cleaning up
+2021-06-20T08:14:32+00:00,1029485014,1026431817,1,Bhaskarrijal,Biratnagar City F.C.,minor sentence fix
+2021-06-18T09:29:45+00:00,1029168473,1029168164,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2021-06-18T09:26:51+00:00,1029168164,1029167140,1,Bhaskarrijal,User talk:Bhaskarrijal,Cleanup.
+2021-06-18T09:16:18+00:00,1029167140,1029133433,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2021-06-18T03:04:59+00:00,1029130806,1029130656,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2021-06-18T03:03:57+00:00,1029130656,1029129035,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2021-06-13T10:28:43+00:00,1028335862,1020900687,1,Bhaskarrijal,User talk:Bhaskarrijal,Submitting the unblock request.
+2021-03-10T06:41:49+00:00,1011315621,1011309379,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2021-02-06T17:27:27+00:00,1005234146,1005233547,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2021-02-06T17:18:20+00:00,1005232718,1005230702,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2021-01-23T14:54:59+00:00,1002247696,1002244435,1,Bhaskarrijal,User talk:Bhaskarrijal,Request for unban.
+2021-01-23T14:12:18+00:00,1002241566,1002240770,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2021-01-13T17:57:53+00:00,1000121336,1000120486,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2021-01-13T17:52:51+00:00,1000120486,957690713,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-20T02:39:27+00:00,957690713,957640638,1,Bhaskarrijal,User talk:Bhaskarrijal,removed other comments
+2020-05-19T17:44:33+00:00,957608049,957605348,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T17:22:39+00:00,957604295,957604188,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T17:21:56+00:00,957604188,957600546,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T16:49:54+00:00,957598627,957597636,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T16:44:17+00:00,957597636,957597277,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T16:42:04+00:00,957597277,957597107,1,Bhaskarrijal,User talk:Bhaskarrijal,Undid revision 957597107 by [[Special:Contributions/Bhaskarrijal|Bhaskarrijal]] ([[User talk:Bhaskarrijal|talk]])
+2020-05-19T16:41:04+00:00,957597107,957596851,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T16:39:33+00:00,957596840,957596561,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T16:37:41+00:00,957596561,957594167,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T13:39:34+00:00,957566574,957566383,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T13:38:32+00:00,957566383,957565891,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T13:32:25+00:00,957565293,957564478,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-19T13:11:21+00:00,957561936,957375544,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-18T14:43:46+00:00,957371872,957371812,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-18T14:43:22+00:00,957371812,957369787,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-18T14:19:45+00:00,957368487,957352615,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-18T11:42:32+00:00,957348336,957331563,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-18T05:10:52+00:00,957307373,957307259,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-18T05:09:42+00:00,957307259,957263596,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-17T09:30:37+00:00,957153914,957153861,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T09:30:08+00:00,957153861,957153808,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T09:29:41+00:00,957153808,957150413,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T08:39:59+00:00,957149113,957148006,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T08:04:39+00:00,957144646,957144115,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T07:59:14+00:00,957144115,957143337,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T07:49:50+00:00,957143235,957142921,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T07:46:21+00:00,957142921,957142801,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T07:45:06+00:00,957142801,957139998,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T06:30:56+00:00,957136086,957131053,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-17T03:27:46+00:00,957118708,957056265,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T17:24:09+00:00,957035833,957024344,1,Bhaskarrijal,User talk:Bhaskarrijal,
+2020-05-16T14:20:16+00:00,957003913,957003148,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T13:29:36+00:00,956997487,956995049,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T12:08:48+00:00,956987394,956985925,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T11:49:27+00:00,956985342,956984797,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T10:56:43+00:00,956980127,956978407,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T08:55:22+00:00,956967617,956967310,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T08:52:16+00:00,956967310,956967044,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T08:49:15+00:00,956967044,956965666,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T08:29:36+00:00,956965243,956964917,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-16T08:25:53+00:00,956964917,956963332,1,Bhaskarrijal,User talk:Bhaskarrijal,/* Blocked for sockpuppetry */
+2020-05-14T06:35:32+00:00,956596898,956594884,1,Bhaskarrijal,List of roads in Nepal,/* District Roads */
+2020-05-14T06:26:56+00:00,956596140,915526855,1,Bhaskarrijal,Template:Jhapa District,corrected headquarter and added colors
+2020-05-14T06:13:18+00:00,956594884,955322113,1,Bhaskarrijal,List of roads in Nepal,/* District Roads */ added all districts
+2020-05-08T04:40:26+00:00,955500624,948523426,1,Bhaskarrijal,Template:Highways in India,user-created images are not appropriate for navboxes
+2020-05-07T04:22:38+00:00,955317596,955302583,1,Bhaskarrijal,Mahendra Highway,
+2020-05-06T14:40:58+00:00,955205901,955178894,1,Bhaskarrijal,List of roads in Nepal,
+2020-05-06T14:37:39+00:00,955205453,953992202,1,Bhaskarrijal,Ministry of Home Affairs (Nepal),added image
+2020-05-06T10:38:16+00:00,955174995,955170445,1,Bhaskarrijal,Template:National Highway System of Nepal,ADDED  template color
+2020-05-06T10:34:08+00:00,955174524,955170863,1,Bhaskarrijal,Mahendra Highway,added AHN template
+2020-05-05T05:47:54+00:00,954959097,954956894,1,Bhaskarrijal,Jhapa District,/* Road Network */
+2020-05-05T05:13:46+00:00,954955932,954952473,1,Bhaskarrijal,Jhapa District,/* Transportation */ added image
+2020-05-05T04:39:46+00:00,954952473,949992868,1,Bhaskarrijal,Jhapa District,Added some major topics like transportation and road network.
+2020-05-05T03:41:12+00:00,954946602,954945537,1,Bhaskarrijal,Koshi Province,/* Transportation */
+2020-05-05T03:32:34+00:00,954945537,954945297,1,Bhaskarrijal,Koshi Province,/* Airways */
+2020-05-05T03:30:35+00:00,954945297,954923906,1,Bhaskarrijal,Koshi Province,/* Roadways */
+2020-05-05T03:26:31+00:00,954944892,954818857,1,Bhaskarrijal,Mahendra Highway,/* Route (east to west) */
+2020-05-05T03:22:04+00:00,954944451,954944091,1,Bhaskarrijal,Koshi Highway,added Itahari junction
+2020-05-05T03:18:50+00:00,954944091,932948688,1,Bhaskarrijal,Koshi Highway,updated with recent image and updated highway number to NH to H
+2020-05-04T13:38:03+00:00,954821073,954820807,1,Bhaskarrijal,List of roads in Nepal,/* National Highways */
+2020-05-04T13:36:04+00:00,954820807,954820749,1,Bhaskarrijal,List of roads in Nepal,/* National Highways */
+2020-05-04T13:35:39+00:00,954820749,954820527,1,Bhaskarrijal,List of roads in Nepal,/* National Highways */ improved icon size
+2020-05-04T13:34:10+00:00,954820527,954806295,1,Bhaskarrijal,List of roads in Nepal,/* National Highways */  removed commented highway symbols and added them
+2020-05-04T13:21:49+00:00,954818857,952066416,1,Bhaskarrijal,Mahendra Highway,
+2020-05-04T11:57:52+00:00,954806295,954805124,1,Bhaskarrijal,List of roads in Nepal,Added classifications
+2020-05-04T11:47:46+00:00,954805124,954804770,1,Bhaskarrijal,List of roads in Nepal,
+2020-05-04T11:44:31+00:00,954804770,943310348,1,Bhaskarrijal,List of roads in Nepal,/* National Highways */  improved highway symbol visibility
+2020-05-04T10:37:13+00:00,954797115,0,1,Bhaskarrijal,Mechi Bridge,[[WP:AES|←]]Created page with '{{Infobox bridge |bridge_name= Mechi Bridge<br />मेची पुल |image= Mechi_Bridge_with_scenic_paddy_crops.png |caption= |official_name=Bridge01/H01 Me...'
+2020-05-04T09:38:36+00:00,954790188,954785615,1,Bhaskarrijal,AH2,/* Nepal */
+2020-05-04T08:59:32+00:00,954785615,951650662,1,Bhaskarrijal,AH2,/* Nepal */  Added Mechi Bridge to Kakarbhitta as Mechi Bridge is a bordering bridge it needs to be attributed
+2020-04-29T02:12:16+00:00,953792115,948836509,1,Bhaskarrijal,Talk:Long-exposure photography,/* Science topic has been added to the article */ new section
+2020-04-29T02:06:22+00:00,953791323,953790827,1,Bhaskarrijal,Long-exposure photography,Undid revision 953790827 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]])
+2020-04-29T02:02:02+00:00,953790541,953790251,1,Bhaskarrijal,Long-exposure photography,added ref
+2020-04-29T02:00:33+00:00,953790251,952298438,1,Bhaskarrijal,Long-exposure photography,added science
+2020-04-03T15:32:28+00:00,948882969,948882868,1,Bhaskarrijal,Kathmandu,/* Pashupatinath temple */
+2020-04-03T15:31:51+00:00,948882868,948882717,1,Bhaskarrijal,Kathmandu,
+2020-04-03T15:30:56+00:00,948882717,948041839,1,Bhaskarrijal,Kathmandu,Added and updated some images.
+2020-04-01T16:51:18+00:00,948545853,948545101,1,Bhaskarrijal,Mahendra Highway,
+2020-04-01T16:46:28+00:00,948545101,948544346,1,Bhaskarrijal,Mahendra Highway,
+2020-04-01T16:41:29+00:00,948544346,948543330,1,Bhaskarrijal,Mahendra Highway,added image
+2020-04-01T16:34:30+00:00,948543330,944549939,1,Bhaskarrijal,Mahendra Highway,added photo
+2020-04-01T16:15:20+00:00,948540381,944445820,1,Bhaskarrijal,Tribhuvan Highway,
+2019-12-08T16:21:09+00:00,929842586,929838209,1,Bhaskarrijal,2019 South Asian Games,
+2019-12-08T16:12:01+00:00,929841545,929494250,1,Bhaskarrijal,2016 South Asian Games,
+2019-11-16T15:07:53+00:00,926459312,926344444,1,Bhaskarrijal,List of roads in Nepal,/* Feeder Roads */
+2019-11-15T19:04:38+00:00,926344444,916878431,1,Bhaskarrijal,List of roads in Nepal,
+2019-11-15T18:43:30+00:00,926341888,926340408,1,Bhaskarrijal,AH2,/* Nepal */
+2019-11-15T18:30:37+00:00,926340408,916291015,1,Bhaskarrijal,AH2,/* Nepal */ Icon updated.
+2019-11-06T12:49:12+00:00,924871123,924870971,1,Bhaskarrijal,Lipulekh Pass,
+2019-11-06T12:47:23+00:00,924870971,924870904,1,Bhaskarrijal,Lipulekh Pass,
+2019-11-06T12:46:45+00:00,924870904,924870614,1,Bhaskarrijal,Lipulekh Pass,
+2019-11-06T12:43:50+00:00,924870614,924870417,1,Bhaskarrijal,Lipulekh Pass,
+2019-11-06T12:41:42+00:00,924870417,924859693,1,Bhaskarrijal,Lipulekh Pass,minor changes
+2019-09-22T18:40:16+00:00,917198854,915975195,1,Bhaskarrijal,Anish Luitel,
+2019-09-15T03:27:11+00:00,915750165,915350597,1,Bhaskarrijal,Anish Luitel,
+2019-04-03T02:59:06+00:00,890717931,890633697,1,Bhaskarrijal,South Asia,nepali language was missing
+2019-03-22T15:27:38+00:00,888967065,887208130,1,Bhaskarrijal,Madhesh Province,removed wrong image
+2019-01-02T16:30:00+00:00,876484648,875818593,1,Bhaskarrijal,Jhapa District,
+2019-01-02T16:28:45+00:00,876484462,874827452,1,Bhaskarrijal,Koshi Province,
+2018-11-29T12:22:54+00:00,871173618,867221487,1,Bhaskarrijal,Vehicle registration plates of Nepal,
+2018-11-16T10:30:15+00:00,869092541,856082268,1,Bhaskarrijal,Rijal (surname),
+2018-11-04T12:52:55+00:00,867221487,858309377,1,Bhaskarrijal,Vehicle registration plates of Nepal,minor changes
+2018-03-03T18:48:54+00:00,828622441,828622069,1,Bhaskarrijal,Mechinagar Municipality,population
+2018-03-03T18:46:09+00:00,828622069,823627638,1,Bhaskarrijal,Mechinagar Municipality,/* Origin */
+2018-03-03T18:35:13+00:00,828620611,813403110,1,Bhaskarrijal,Bahundangi,
+2021-06-25T12:31:46+00:00,1030357008,1030356916,1,Lemofadka,User talk:Lemofadka,
+2021-06-25T12:30:52+00:00,1030356916,990653475,1,Lemofadka,User talk:Lemofadka,
+2020-05-16T07:56:40+00:00,956961274,943367961,1,Lemofadka,Transport in Nepal,/* Road */ added classification
+2020-05-16T06:54:18+00:00,956956405,956956148,1,Lemofadka,Mahendra Highway,/* Major junctions */
+2020-05-16T06:51:26+00:00,956956148,956835701,1,Lemofadka,Mahendra Highway,junction name corrections
+2020-05-15T17:17:50+00:00,956849957,956846416,1,Lemofadka,Module talk:Infobox road/color,/* Nepal's color code needs to be fixed. */
+2020-05-15T15:52:25+00:00,956836781,956836085,1,Lemofadka,Template:Highways in Nepal,
+2020-05-15T15:47:40+00:00,956836085,955409382,1,Lemofadka,Template:Highways in Nepal,
+2020-05-15T15:44:55+00:00,956835701,956834946,1,Lemofadka,Mahendra Highway,/* Major junctions */
+2020-05-15T15:39:22+00:00,956834946,956802754,1,Lemofadka,Mahendra Highway,/* Major junctions */
+2020-05-15T15:29:50+00:00,956833502,956821424,1,Lemofadka,Module talk:Infobox road/color,/* Template-protected edit request on 15 May 2020 */ new section
+2020-05-15T13:56:37+00:00,956819393,956819309,1,Lemofadka,Module talk:Infobox road/color,/* Template-protected edit request on 15 May 2020 */
+2020-05-15T13:56:04+00:00,956819309,956819155,1,Lemofadka,Module talk:Infobox road/color,/* New country color */
+2020-05-15T13:55:09+00:00,956819155,956819012,1,Lemofadka,Module talk:Infobox road/color,/* Template-protected edit request on 15 May 2020 */ new section
+2020-05-15T13:54:10+00:00,956819012,956817342,1,Lemofadka,Module talk:Infobox road/color,/* New country color */
+2020-05-15T13:45:06+00:00,956817342,956811087,1,Lemofadka,Module talk:Infobox road/color,/* New country color */ new section
+2020-05-15T12:21:05+00:00,956804985,956804376,1,Lemofadka,Mechinagar Municipality,/* Road Network */
+2020-05-15T12:16:21+00:00,956804376,956803927,1,Lemofadka,Mechinagar Municipality,/* Road Network */
+2020-05-15T12:12:56+00:00,956803927,953295721,1,Lemofadka,Mechinagar Municipality,
+2020-05-15T12:06:06+00:00,956803088,956802956,1,Lemofadka,Module talk:Infobox road/color,/* Template-protected edit request on 15 May 2020 */
+2020-05-15T12:05:10+00:00,956802956,956800512,1,Lemofadka,Module talk:Infobox road/color,/* Template-protected edit request on 15 May 2020 */
+2020-05-15T12:03:40+00:00,956802754,956794643,1,Lemofadka,Mahendra Highway,
+2020-05-15T11:45:42+00:00,956800512,956800455,1,Lemofadka,Module talk:Infobox road/color,/* Template-protected edit request on 15 May 2020 */
+2020-05-15T11:45:19+00:00,956800455,956798759,1,Lemofadka,Module talk:Infobox road/color,/* Template-protected edit request on 15 May 2020 */
+2020-05-15T11:29:57+00:00,956798759,955325324,1,Lemofadka,Module talk:Infobox road/color,/* Template-protected edit request on 15 May 2020 */ new section
+2020-05-15T11:22:21+00:00,956797992,955303569,1,Lemofadka,Pushpalal Highway,
+2020-05-15T11:21:36+00:00,956797898,956797717,1,Lemofadka,Postal Highway,
+2020-05-15T11:20:05+00:00,956797717,932950039,1,Lemofadka,Postal Highway,
+2020-05-15T11:19:38+00:00,956797662,956424398,1,Lemofadka,Ring Road (Kathmandu),
+2020-05-15T11:19:08+00:00,956797611,955301892,1,Lemofadka,Seti Highway,
+2020-05-15T11:18:38+00:00,956797531,955303680,1,Lemofadka,Mahakali Highway,
+2020-05-15T11:17:54+00:00,956797449,955302933,1,Lemofadka,Karnali Highway,
+2020-05-15T11:12:52+00:00,956796925,955303752,1,Lemofadka,Ratna Highway,
+2020-05-15T11:09:29+00:00,956796601,955303720,1,Lemofadka,Rapti Highway,
+2020-05-15T11:09:03+00:00,956796538,955303316,1,Lemofadka,Siddhartha Highway,
+2020-05-15T11:08:32+00:00,956796473,955303486,1,Lemofadka,Sagarmatha Highway,
+2020-05-15T11:08:00+00:00,956796414,955303631,1,Lemofadka,Koshi Highway,
+2020-05-15T11:07:26+00:00,956796350,956466640,1,Lemofadka,Mechi Highway,
+2020-05-15T11:06:56+00:00,956796291,955302834,1,Lemofadka,BP Highway,
+2020-05-15T11:06:25+00:00,956796221,956426078,1,Lemofadka,Madan Ashrit Highway,
+2020-05-15T11:05:50+00:00,956796165,955301952,1,Lemofadka,Prithvi Highway,
+2020-05-15T11:05:15+00:00,956796096,956779516,1,Lemofadka,Araniko Highway,
+2020-05-15T11:04:06+00:00,956795982,956794981,1,Lemofadka,Module:Road data/strings/NPL,
+2020-05-15T10:58:34+00:00,956795351,956784793,1,Lemofadka,Tribhuvan Highway,
+2020-05-15T10:54:57+00:00,956794981,956794794,1,Lemofadka,Module:Road data/strings/NPL,
+2020-05-15T10:53:00+00:00,956794794,956794714,1,Lemofadka,Module:Road data/strings/NPL,Undid revision 956794714 by [[Special:Contributions/Lemofadka|Lemofadka]] ([[User talk:Lemofadka|talk]])
+2020-05-15T10:52:12+00:00,956794714,956794341,1,Lemofadka,Module:Road data/strings/NPL,
+2020-05-15T10:51:24+00:00,956794643,956794387,1,Lemofadka,Mahendra Highway,
+2020-05-15T10:48:46+00:00,956794387,956793776,1,Lemofadka,Mahendra Highway,
+2020-05-15T10:48:23+00:00,956794341,955180770,1,Lemofadka,Module:Road data/strings/NPL,
+2020-05-15T10:42:22+00:00,956793776,956790941,1,Lemofadka,Mahendra Highway,
+2020-05-15T10:30:50+00:00,956792626,956792584,1,Lemofadka,Template:Infobox road/name/NPL,
+2020-05-15T10:30:20+00:00,956792584,955302655,1,Lemofadka,Template:Infobox road/name/NPL,
+2020-05-15T10:23:34+00:00,956791793,956790915,1,Lemofadka,Template:Infobox road/doc/type,
+2020-05-15T10:16:33+00:00,956790941,956446101,1,Lemofadka,Mahendra Highway,
+2020-05-15T10:16:14+00:00,956790915,955104619,1,Lemofadka,Template:Infobox road/doc/type,added Nepal and organized
+2020-05-15T09:39:28+00:00,956787120,956786709,1,Lemofadka,List of roads in Nepal,/* National Highways */
+2020-05-15T09:35:49+00:00,956786709,956749406,1,Lemofadka,List of roads in Nepal,/* National Highways */
+2020-05-15T09:15:56+00:00,956784793,955318922,1,Lemofadka,Tribhuvan Highway,
+2020-05-15T08:15:10+00:00,956779516,955302705,1,Lemofadka,Araniko Highway,updated with latest photo
+2020-05-15T06:01:00+00:00,956766891,956765297,1,Lemofadka,National Highway System (Nepal),/* Routes */ added all routes of H03
+2020-05-15T05:41:42+00:00,956765297,956762867,1,Lemofadka,National Highway System (Nepal),/* Routes */ added routes of H02
+2020-05-15T05:15:29+00:00,956762867,956756998,1,Lemofadka,National Highway System (Nepal),/* Routes */ added all routes of H01
+2020-05-15T04:13:54+00:00,956756998,956756621,1,Lemofadka,National Highway System (Nepal),/* Routes */
+2020-05-15T04:10:09+00:00,956756621,956068604,1,Lemofadka,National Highway System (Nepal),
+2020-05-15T03:02:08+00:00,956749406,956596898,1,Lemofadka,List of roads in Nepal,/* Feeder Roads */
+2020-05-14T06:42:04+00:00,956597467,956531073,1,Lemofadka,Disputed territories of India,
+2020-05-13T14:26:17+00:00,956466640,956426070,1,Lemofadka,Mechi Highway,added latest images
+2020-05-13T11:43:09+00:00,956446101,955318128,1,Lemofadka,Mahendra Highway,
+2020-05-13T08:26:29+00:00,956426078,956420344,1,Lemofadka,Madan Ashrit Highway,
+2020-05-13T08:26:21+00:00,956426070,956425880,1,Lemofadka,Mechi Highway,
+2020-05-13T08:24:11+00:00,956425880,955303375,1,Lemofadka,Mechi Highway,
+2020-05-13T08:09:42+00:00,956424398,955303005,1,Lemofadka,Ring Road (Kathmandu),
+2020-05-13T07:36:59+00:00,956420344,952037965,1,Lemofadka,Madan Ashrit Highway,
+2020-05-11T10:14:05+00:00,956068604,956068476,1,Lemofadka,National Highway System (Nepal),/* Routes */
+2020-05-11T10:12:56+00:00,956068476,956068346,1,Lemofadka,National Highway System (Nepal),/* Routes */
+2020-05-11T10:11:48+00:00,956068346,956068043,1,Lemofadka,National Highway System (Nepal),/* Routes */
+2020-05-11T10:08:49+00:00,956068043,956066656,1,Lemofadka,National Highway System (Nepal),/* Routes */
+2020-05-11T09:56:26+00:00,956066656,956065178,1,Lemofadka,National Highway System (Nepal),added table
+2020-05-11T09:41:17+00:00,956065178,956064631,1,Lemofadka,National Highway System (Nepal),
+2020-05-11T09:35:20+00:00,956064631,956064191,1,Lemofadka,National Highway System (Nepal),
+2020-05-11T09:30:51+00:00,956064191,956062168,1,Lemofadka,National Highway System (Nepal),adding highway list
+2020-05-11T09:09:38+00:00,956062168,956061004,1,Lemofadka,National Highway System (Nepal),added map
+2020-05-11T08:57:37+00:00,956061004,956046868,1,Lemofadka,National Highway System (Nepal),
+2020-05-10T12:32:28+00:00,955902670,955902546,1,Lemofadka,Vehicle registration plates of Nepal,/* Current system */
+2020-05-10T12:31:19+00:00,955902546,955900166,1,Lemofadka,Vehicle registration plates of Nepal,/* Plate Types */ added plate design templates
+2020-05-10T12:09:58+00:00,955900166,955899649,1,Lemofadka,Vehicle registration plates of Nepal,/* Vehicle Classification */
+2020-05-10T12:05:03+00:00,955899649,955898957,1,Lemofadka,Vehicle registration plates of Nepal,/* Plate Types */
+2020-05-10T11:58:59+00:00,955898957,955898546,1,Lemofadka,Vehicle registration plates of Nepal,/* Public */
+2020-05-10T11:55:13+00:00,955898546,955898471,1,Lemofadka,Vehicle registration plates of Nepal,/* Private */
+2020-05-10T11:54:31+00:00,955898471,955898029,1,Lemofadka,Vehicle registration plates of Nepal,/* Private */
+2020-05-10T11:50:28+00:00,955898029,955895884,1,Lemofadka,Vehicle registration plates of Nepal,/* Types */
+2020-05-10T11:29:01+00:00,955895884,955895209,1,Lemofadka,Vehicle registration plates of Nepal,/* History */
+2020-05-10T11:22:12+00:00,955895209,955894180,1,Lemofadka,Vehicle registration plates of Nepal,Added new format and improved heading formatting.
+2020-05-10T11:12:39+00:00,955894180,943153917,1,Lemofadka,Vehicle registration plates of Nepal,added new format
+2020-05-07T05:36:59+00:00,955325370,955323595,1,Lemofadka,Koshi Province,added image of mahendra higway
+2020-05-07T05:20:12+00:00,955323595,954946602,1,Lemofadka,Koshi Province,/* Roadways */
+2020-05-07T05:11:02+00:00,955322630,950389002,1,Lemofadka,Gandaki Province,
+2020-05-07T05:06:26+00:00,955322113,955234369,1,Lemofadka,List of roads in Nepal,/* District Roads */ adding district rd. data
+2020-05-07T04:35:02+00:00,955318922,955302742,1,Lemofadka,Tribhuvan Highway,
+2020-05-07T04:31:45+00:00,955318572,955304158,1,Lemofadka,Template:Highways in Nepal,
+2020-05-07T04:27:30+00:00,955318128,955317596,1,Lemofadka,Mahendra Highway,
+2020-05-06T17:47:21+00:00,955234369,955234083,1,Lemofadka,List of roads in Nepal,/* District Roads */
+2020-05-06T17:45:17+00:00,955234083,955234002,1,Lemofadka,List of roads in Nepal,/* District Roads */
+2020-05-06T17:44:49+00:00,955234002,955233881,1,Lemofadka,List of roads in Nepal,/* District Roads */
+2020-05-06T17:44:02+00:00,955233881,955233518,1,Lemofadka,List of roads in Nepal,/* District Roads */
+2020-05-06T17:41:39+00:00,955233518,955233188,1,Lemofadka,List of roads in Nepal,/* District Roads */
+2020-05-06T17:39:30+00:00,955233188,955231567,1,Lemofadka,List of roads in Nepal,/* District Roads */
+2020-05-06T17:29:13+00:00,955231567,955231295,1,Lemofadka,List of roads in Nepal,
+2020-05-06T17:27:22+00:00,955231295,955231119,1,Lemofadka,List of roads in Nepal,
+2020-05-06T17:26:09+00:00,955231119,955229175,1,Lemofadka,List of roads in Nepal,
+2020-05-06T17:13:49+00:00,955229175,955228215,1,Lemofadka,List of roads in Nepal,
+2020-05-06T17:07:47+00:00,955228215,955212625,1,Lemofadka,List of roads in Nepal,
+2020-05-06T16:58:12+00:00,955226687,955224997,1,Lemofadka,Template:Infobox road/shield/NPL,
+2020-05-06T16:48:12+00:00,955224997,932949932,1,Lemofadka,Template:Infobox road/shield/NPL,
+2020-05-06T16:35:07+00:00,955222772,932946191,1,Lemofadka,Template:Infobox road/shieldmain/NPL,
+2020-05-06T16:33:42+00:00,955222523,955222297,1,Lemofadka,Template:Infobox road/name/NPL,
+2020-05-06T16:32:27+00:00,955222297,955221917,1,Lemofadka,Template:Infobox road/name/NPL,
+2020-05-06T16:31:48+00:00,955222184,955176069,1,Lemofadka,Mahendra Highway,
+2020-05-06T16:30:17+00:00,955221917,955221550,1,Lemofadka,Template:Infobox road/name/NPL,
+2020-05-06T16:28:09+00:00,955221550,955221363,1,Lemofadka,Template:Infobox road/name/NPL,
+2020-05-06T16:26:57+00:00,955221363,932949430,1,Lemofadka,Template:Infobox road/name/NPL,
+2020-05-06T15:59:43+00:00,955217260,917512914,1,Lemofadka,Module talk:Infobox road/color,/* Template-protected edit request on 6 May 2020 */ new section
+2020-05-06T15:27:00+00:00,955212625,955205901,1,Lemofadka,List of roads in Nepal,/* Feeder Roads */
+2020-05-06T12:00:07+00:00,955184546,955183665,1,Lemofadka,National Highway System (Nepal),
+2020-05-06T11:53:57+00:00,955183665,955171511,1,Lemofadka,National Highway System (Nepal),
+2020-05-06T11:29:35+00:00,955180770,914729326,1,Lemofadka,Module:Road data/strings/NPL,
+2020-05-06T11:13:36+00:00,955178894,955005197,1,Lemofadka,List of roads in Nepal,
+2020-05-06T11:12:06+00:00,955178682,955168663,1,Lemofadka,Pushpalal Highway,
+2020-05-06T10:50:59+00:00,955176283,955135177,1,Lemofadka,Tribhuvan Highway,
+2020-05-06T10:48:50+00:00,955176069,955174524,1,Lemofadka,Mahendra Highway,
+2020-05-06T10:06:16+00:00,955171511,955016956,1,Lemofadka,National Highway System (Nepal),
+2020-05-06T10:01:07+00:00,955170863,954944892,1,Lemofadka,Mahendra Highway,added template of national highways of nepal
+2020-05-06T09:57:41+00:00,955170445,0,1,Lemofadka,Template:National Highway System of Nepal,[[WP:AES|←]]Created page with '{{Navbox <!-- STOP!! DO NOT ADD LINKS TO HIGHWAYS UNDER CONSTRUCTION--> <!-- PLEASE ADD LINKS ONLY TO ARTICLES WHICH ARE PRESENT --> |name  = National Highway Sy...'
+2020-05-06T09:46:26+00:00,955168663,955165121,1,Lemofadka,Pushpalal Highway,
+2020-05-06T09:15:57+00:00,955165121,955164632,1,Lemofadka,Pushpalal Highway,added infobox
+2020-05-06T09:10:21+00:00,955164632,955164554,1,Lemofadka,Pushpalal Highway,
+2020-05-06T09:09:27+00:00,955164554,940985697,1,Lemofadka,Pushpalal Highway,
+2020-05-05T14:19:48+00:00,955016956,955008929,1,Lemofadka,National Highway System (Nepal),
+2020-05-05T12:21:02+00:00,955001343,0,1,Lemofadka,National Highway System (Nepal),"[[WP:AES|←]]Created page with '{{subst:AFC submission/draftnew}}<!-- Important, do not remove this line before article has been created. -->  {{infobox highway system |title=National Highway S...'"
+2020-05-05T11:20:46+00:00,954994798,954821073,1,Lemofadka,List of roads in Nepal,
+2020-05-05T09:00:20+00:00,954979745,954976022,1,Lemofadka,Jhapa District,/* Healthcare */
+2020-05-05T08:23:22+00:00,954976022,954966606,1,Lemofadka,Jhapa District,added divisions
+2020-05-05T06:58:14+00:00,954965605,954965513,1,Lemofadka,Jhapa District,/* Geography and climate */
+2020-05-05T06:57:17+00:00,954965513,954965420,1,Lemofadka,Jhapa District,/* Geography and climate */
+2020-05-05T06:56:17+00:00,954965420,954965345,1,Lemofadka,Jhapa District,/* Geography and climate */
+2020-05-05T06:55:31+00:00,954965345,954965017,1,Lemofadka,Jhapa District,added ref
+2020-05-05T06:51:51+00:00,954965017,954963269,1,Lemofadka,Jhapa District,
+2020-05-05T06:33:42+00:00,954963269,954962744,1,Lemofadka,Jhapa District,/* Geography and climate */ added climate info and ref
+2020-05-05T06:28:37+00:00,954962744,954962336,1,Lemofadka,Jhapa District,/* Road Network */
+2020-05-05T06:23:21+00:00,954962336,954962246,1,Lemofadka,Jhapa District,/* Road Network */
+2020-05-05T06:22:19+00:00,954962246,954961943,1,Lemofadka,Jhapa District,/* Road Network */
+2020-05-05T06:19:06+00:00,954961943,954961852,1,Lemofadka,Jhapa District,/* Transportation */
+2020-05-05T06:18:06+00:00,954961852,954959097,1,Lemofadka,Jhapa District,/* Transportation */ added image
+2020-05-05T05:23:41+00:00,954956894,954956475,1,Lemofadka,Jhapa District,/* Transportation */
+2020-05-05T05:19:16+00:00,954956475,954955932,1,Lemofadka,Jhapa District,
+2018-10-26T14:32:37+00:00,865840116,856037381,0,Divu2056,AH2,/* Nepal */
+2020-06-30T22:27:09+00:00,965366506,937651014,0,Yoninah,2016 South Asian Games,ce
+2023-04-18T17:10:11+00:00,1150521128,1149314341,0,InternetArchiveBot,2019 South Asian Games,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.3) ([[User:Boyinaroom|Boyinaroom]] - 13304
+2019-11-23T05:41:35+00:00,927550540,914936229,0,Barbie Jane Amarga,2016 South Asian Games,"/* Logo, Mascot and Anthem */"
+2022-05-29T00:17:05+00:00,1090340108,1090336992,0,AnomieBOT,Araniko Highway,Dating maintenance tags: {{Failed verification}}
+2020-08-05T14:49:16+00:00,971342764,962127871,0,Arcorann,AH2,/* Malaysia */ linkfixes
+2020-10-20T16:57:08+00:00,984540972,984476117,0,27.34.20.191,Anish Luitel,
+2021-10-31T13:41:37+00:00,1052854181,1052854168,0,Serols,AH2,Reverted edits by [[Special:Contributions/121.6.150.66|121.6.150.66]] ([[User talk:121.6.150.66|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-12-29T04:52:46+00:00,996916828,995214718,0,Monkbot,AH2,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: hyphenate params (2×); cvt lang vals (2×);
+2022-12-23T16:59:10+00:00,1129110161,1114246229,0,Tassedethe,2019 South Asian Games,/* Sports */
+2019-07-14T00:47:56+00:00,906154557,905607527,0,Liuxinyu970226,AH2,
+2019-12-29T03:33:01+00:00,932948430,930237271,0,Fredddie,Araniko Highway,/* top */ automatic
+2019-12-01T13:23:42+00:00,928759568,928759517,0,IhAtE ZEldA 2001,AH2,/* Thailand */
+2023-10-24T16:22:17+00:00,1181686701,1135618963,0,Tom.Reding,Araniko Highway,+{{[[Template:Authority control|Authority control]]}} ([[d:Q4784114|4 IDs]] from [[Wikidata]]); [[WP:GenFixes]] & cleanup on
+2023-01-25T20:28:52+00:00,1135618963,1090340108,0,Bearcat,Araniko Highway,removed [[Category:Roads in Nepal]]; added [[Category:Highways in Nepal]] using [[WP:HC|HotCat]]
+2020-10-17T08:48:47+00:00,983959427,983431148,0,Jaruphat,AH2,/* Thailand */
+2022-05-08T02:59:07+00:00,1086745736,1086745361,0,GoingBatty,Anish Luitel,"copyediting, fixed references"
+2020-01-01T04:49:31+00:00,933470462,933470400,0,Vishnuvardhan leela,Bahundangi,"/* Demography */ fixed whitespace error/errors: Limbu,etc -> Limbu, etc"
+2022-02-17T13:22:21+00:00,1072391703,1061126357,0,BrownHairedGirl,BP Highway,{{[[Template:Dead link|Dead link]]}} tag on [[WP:Bare URLs|bare URL]] refs which return [[HTTP 404]] or [[List_of_HTTP_status_codes#410|410]]
+2018-06-05T11:42:22+00:00,844509941,844509899,0,SS49,BP Highway,/* External links */
+2023-10-29T21:13:46+00:00,1182521699,1182521419,0,93.140.33.201,Biratnagar City F.C.,https://english.onlinekhabar.com/nepal-super-league-kick-off-nov-24.html\n\nNot now
+2021-09-26T14:04:15+00:00,1046598994,1046598456,0,Dhruv edits,Disputed territories of India,
+2024-03-01T05:34:24+00:00,1211169469,1199382728,0,Swinub,Gandaki Province,/* Demographics */
+2018-06-11T21:48:23+00:00,845450077,845446945,0,Pythoncoder,Disputed territories of India,Reverted 1 edit by [[Special:Contributions/108.45.161.148|108.45.161.148]] ([[User talk:108.45.161.148|talk]]). ([[WP:TW|TW]])
+2021-03-04T20:05:36+00:00,1010300732,1009636914,0,Tom.Reding,Goat meat,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q449506|1 ID]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2024-01-17T05:08:11+00:00,1196349516,748921410,0,Rickinasia,Institute of Science and Technology,
+2019-12-31T16:58:32+00:00,933388467,931907307,0,Narky Blert,Jhapa District,Link to DAB page repaired
+2020-02-08T13:07:01+00:00,939746874,939746704,0,MrOllie,Human Development Index,Reverted 3 pending edits by [[Special:Contributions/2607:FEA8:4C00:3645:59A7:661C:1329:31EA|2607:FEA8:4C00:3645:59A7:661C:1329:31EA]] to revision 939452918 by Dartslilly
+2020-12-31T13:58:21+00:00,997434785,992397810,0,MissNepal94,Gandaki Province,
+2024-02-24T20:32:30+00:00,1210060138,1210060108,0,ClueBot NG,Goat meat,"Reverting possible vandalism by [[Special:Contribs/2601:801:102:F8F0:F8CF:5143:5472:3A66|2601:801:102:F8F0:F8CF:5143:5472:3A66]] to version by Elmidae. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4302707) (Bot)"
+2020-09-06T17:59:19+00:00,977059966,975879745,0,Jessicapierce,Birtamod Municipality,partial cleanup
+2020-01-15T07:22:23+00:00,935868863,935868694,0,27.34.51.108,Birtamod Municipality,/* Climate */
+2018-10-09T20:09:33+00:00,863280877,863083328,0,Somedifferentstuff,Human Development Index,Add wikilink
+2016-11-11T05:29:58+00:00,748921410,742856962,0,Inimesh,Institute of Science and Technology,
+2021-10-06T13:03:14+00:00,1048522365,1031061165,0,बडा काजी,Bahundangi,/* top */[[Mechi Zone]] → [[Province No. 1]]
+2020-12-01T18:01:18+00:00,991759660,990391323,0,Monkbot,Jhapa District,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 7 templates: del empty params (15×); hyphenate params (2×); del |url-status= (1×); del |<name-list>-link= (3×); cvt lang vals (1×);
+2022-03-10T15:14:41+00:00,1076329209,1074146680,0,Clog Wolf,Jhapa District,"fix, [[WP:AWB/T|typo(s) fixed]]: Municiplity → Municipality"
+2018-10-16T21:24:00+00:00,864384858,864384755,0,Yamaguchi先生,Jhapa District,Removed unsourced red link(s).  [[WP:WTAF]]
+2018-10-31T07:19:06+00:00,866584595,864384858,0,113.199.249.223,Jhapa District,/* Education */ Fixed typo
+2021-10-28T03:30:53+00:00,1052240564,1052229286,0,Vif12vf,Jhapa District,Reverted edits by [[Special:Contribs/120.17.65.43|120.17.65.43]] ([[User talk:120.17.65.43|talk]]) to last version by 27.34.16.233
+2024-01-28T09:04:37+00:00,1199932524,1199047144,0,카푸치노0,Jhapa District,
+2018-05-02T23:43:57+00:00,839365549,839336173,0,Yamaguchi先生,Jhapa District,Removed unsourced red link(s).  [[WP:WTAF]]
+2018-10-03T01:24:53+00:00,862234761,860027208,0,27.34.20.146,Jhapa District,
+2021-08-17T00:09:13+00:00,1039146808,1034395790,0,46.153.142.137,Jhapa District,
+2021-04-21T01:58:18+00:00,1019011149,1008889549,0,Tom.Reding,Jhapa District,Remove rendered gap(s) in {{Nav}}-block by moving non-{{Nav}}s outside; general cleanup & [[WP:GenFixes]] on
+2023-12-16T00:49:34+00:00,1190111953,1175693562,0,93.143.198.13,Jhapa District,
+2021-09-14T18:44:36+00:00,1044339678,1039146808,0,Cjrother,Jhapa District,/* Climate and Geography */ cleanup
+2023-08-03T01:53:53+00:00,1168489487,1150747331,0,DaGizza,Jhapa District,ministerrs→ministers - [[:en:Wikipedia:Correct typos in one click|Correct typos in one click]]
+2018-08-14T02:47:24+00:00,854831491,854830899,0,Donner60,Jhapa District,Reverted edits by [[Special:Contributions/Tulsirama|Tulsirama]] ([[User talk:Tulsirama|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.4)
+2022-01-26T11:28:57+00:00,1068051510,1066978414,0,Tanka.gangai,Jhapa District,
+2021-12-04T15:52:47+00:00,1058600519,1058600463,0,KylieTastic,Jhapa District,Reverted 1 edit by [[Special:Contributions/49.126.20.240|49.126.20.240]] ([[User talk:49.126.20.240|talk]]) to last revision by Vif12vf
+2018-11-29T20:33:09+00:00,871242672,870368703,0,168.235.181.186,Jhapa District,"Accuracy, and added information"
+2020-07-07T07:28:21+00:00,966459688,965672308,0,27.34.68.121,Jhapa District,
+2023-04-19T23:17:25+00:00,1150747331,1149565482,0,Tamfang,Jhapa District,/* Demographics */
+2023-02-23T15:37:25+00:00,1141141296,1141140558,0,Snusho,Jhapa District,Minor edits
+2020-04-09T17:53:58+00:00,949992868,949992751,0,Yamaguchi先生,Jhapa District,Removed poorly sourced and non-encyclopedic claims.
+2023-09-16T19:27:20+00:00,1175693562,1168489487,0,HarukaAmaranth,Jhapa District,minor spacing fix
+2019-05-15T07:47:56+00:00,897173977,897173741,0,TerraCyprus,Jhapa District,
+2020-02-02T07:09:17+00:00,938773452,937299206,0,103.232.228.107,Jhapa District,I have changed the name of salbaari jhapa to its originality name
+2021-01-28T09:33:05+00:00,1003297973,1003297904,0,2400:1A00:BD11:718:9873:9731:D585:D7F2,Jhapa District,/* Municipalities */
+2022-05-17T08:34:26+00:00,1088307712,1088307675,0,HMSLavender,Jhapa District,Reverted edits by [[Special:Contributions/2400:1A00:B040:7546:4D9C:C849:E4AB:863B|2400:1A00:B040:7546:4D9C:C849:E4AB:863B]] ([[User talk:2400:1A00:B040:7546:4D9C:C849:E4AB:863B|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2018-06-07T17:15:46+00:00,844859531,758753305,0,GERNPL,Karnali Highway,added Infobox
+2022-08-22T15:42:46+00:00,1105963283,1097565864,0,Citation bot,Karnali Highway,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 2158/3802
+2019-08-05T12:11:40+00:00,909435867,908212046,0,Usedtobecool,Jhapa District,POV pushing
+2019-02-18T10:43:31+00:00,883908389,883579800,0,31.11.52.242,Jhapa District,
+2021-12-30T15:02:07+00:00,1062789344,1062789335,0,ClueBot NG,Jhapa District,"Reverting possible vandalism by [[Special:Contribs/2400:1A00:BD20:5689:D9E6:1E02:6B6A:2F95|2400:1A00:BD20:5689:D9E6:1E02:6B6A:2F95]] to version by 36.252.77.45. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4101074) (Bot)"
+2022-12-30T17:48:28+00:00,1130539348,1130480799,0,PenGear,Kathmandu,/* Kathmandu administration */
+2022-02-16T08:29:09+00:00,1072170093,1072057854,0,14.0.169.175,Kathmandu,/* Ethnic groups */
+2020-10-10T08:14:07+00:00,982776051,982327035,0,Jmg38,Kathmandu,[[Template:R to diacritic|diacritic]] [[WP:WM]]
+2020-11-22T16:56:32+00:00,990069081,990069025,0,Serols,Kathmandu,Reverted edits by [[Special:Contributions/110.34.0.130|110.34.0.130]] ([[User talk:110.34.0.130|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-04-26T13:49:31+00:00,1019977332,1018915417,0,Citation bot,Kathmandu,"Alter: chapter-url, url. URLs might have been anonymized. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Pages using infobox settlement with possible motto list]] | via #UCB_Category 987/1622"
+2023-07-23T13:19:01+00:00,1166740857,1166682301,0,Rodw,Kathmandu,Disambiguating links to [[Rajbanshi]] (link changed to [[Rajbongshi people]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-02-07T14:18:38+00:00,1005405286,1005405242,0,Silencemen21,Kathmandu,Undid edits by [[Special:Contributions/43.245.87.200|43.245.87.200]] ([[User talk:43.245.87.200|talk]]) to last revision by WOSlinker: nonconstructive edits
+2023-09-14T16:53:07+00:00,1175377996,1175057442,0,Dilettante,Kathmandu,ce (via [[WP:JWB]])
+2019-12-29T03:35:30+00:00,932948688,872208320,0,Fredddie,Koshi Highway,/* top */ automatic
+2021-05-18T11:01:37+00:00,1023791602,1018132639,0,Old Man Consequences,Kathmandu–Terai Expressway,stub sort
+2020-05-21T19:09:04+00:00,958047016,956796414,0,Fredddie,Koshi Highway,replace with SVG (via [[WP:JWB]])
+2021-06-16T16:30:38+00:00,1028891424,1028643228,0,बडा काजी,Koshi Highway,+map
+2022-02-08T08:02:17+00:00,1070590483,1070590285,0,103.95.17.13,Koshi Highway,
+2023-03-18T06:34:57+00:00,1145277584,1144902606,0,Aananda1,Koshi Province,Fixed link
+2018-12-05T21:36:55+00:00,872208320,839586906,0,Meltdown627,Koshi Highway,corrected infobox issue
+2023-05-07T15:49:34+00:00,1153662834,1153189576,0,GGIcian,Koshi Province,Improved
+2018-04-29T19:26:32+00:00,838862072,838775399,0,SimulationWig,Koshi Province,
+2019-09-09T01:49:22+00:00,914730140,914728996,0,Hemant Dabral,Koshi Province,
+2023-03-05T06:30:25+00:00,1142965091,1142752565,0,Aananda1,Koshi Province,New data added
+2019-10-16T00:40:31+00:00,921486000,920428669,0,Monkbot,Koshi Province,/* Provincial Assembly */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (0×) / removed (1×) deprecated |dead-url= and |deadurl= with |url-status=;
+2019-05-18T13:56:48+00:00,897652276,897649401,0,Vif12vf,Koshi Province,Reverted to revision 896814565 by [[Special:Contributions/Cjrother|Cjrother]] ([[User talk:Cjrother|talk]]) ([[WP:TW|TW]])
+2019-11-26T05:33:59+00:00,928010385,924846478,0,2407:5200:300:AF7:65EA:8966:D6B7:52D6,Koshi Province,By correcting the answer
+2018-08-09T00:25:22+00:00,854103891,853986037,0,Certes,Koshi Province,"Disambiguating links to [[Arun]] (link changed to [[Arun River, China–Nepal]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]]."
+2023-09-24T15:54:45+00:00,1176881758,1176881631,0,Plastikspork,Koshi Province,/* Districts */ List
+2018-05-28T21:41:32+00:00,843395243,843374565,0,SimulationWig,Koshi Province,
+2020-07-01T11:04:20+00:00,965447902,965433361,0,Vif12vf,Koshi Province,Reverted edits by [[Special:Contribs/103.10.28.45|103.10.28.45]] ([[User talk:103.10.28.45|talk]]) to last version by Vif12vf
+2023-07-06T19:43:26+00:00,1163857244,1163851718,0,Thulungdanesh,Koshi Province,"Added ""Itahari"" region in the Climate section."
+2023-09-09T01:18:01+00:00,1174528636,1174434140,0,2607:FEA8:A79F:B450:5D97:8C4A:6931:5AF,Lipulekh Pass,
+2023-11-20T17:12:02+00:00,1186053824,1177974737,0,Kaltenmeyer,Lipulekh Pass,ce ; sp ; case
+2020-04-18T14:37:37+00:00,951719857,946929481,0,97.119.193.198,Koshi Province,"what are we, a travel guide?"
+2022-07-01T20:17:50+00:00,1096023642,1096018790,0,LuciferAhriman,Lipulekh Pass,
+2020-03-16T08:02:21+00:00,945810261,945695940,0,Raju Babu,Koshi Province,/* History */
+2020-03-23T06:42:47+00:00,946929481,945810261,0,Raju Babu,Koshi Province,
+2023-01-23T07:46:56+00:00,1135205285,1130996761,0,74.14.42.157,Lipulekh Pass,Not needed
+2019-01-25T11:26:36+00:00,880107102,880098387,0,Mikeanand,Lipulekh Pass,Reverted 1 edit by [[Special:Contributions/Davidsharma777|Davidsharma777]] ([[User talk:Davidsharma777|talk]]): It is near the tripoint but not the tripoint itself  ([[WP:TW|TW]])
+2020-08-01T07:40:38+00:00,970594148,964977189,0,MusikBot II,Lipulekh Pass,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2021-05-25T10:46:52+00:00,1025033638,1021704374,0,Sahilmalik0801,Lipulekh Pass,
+2020-05-21T16:24:16+00:00,958016808,958016778,0,Abecedare,Lipulekh Pass,Adding {{pp-30-500}}
+2020-02-28T14:57:17+00:00,943052400,939900204,0,InternetArchiveBot,Lipulekh Pass,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2024-01-11T11:15:12+00:00,1194914297,1194910764,0,Pradip4india,Lipulekh Pass,
+2020-05-20T10:32:31+00:00,957748091,957716045,0,Fredddie,List of roads in Nepal,Reverted 1 edit by [[Special:Contributions/185.200.101.18|185.200.101.18]] ([[User talk:185.200.101.18|talk]]): Change was made on behalf of a blocked user ([[WP:TW|TW]])
+2023-07-04T07:49:14+00:00,1163330946,1160611400,0,Subhmanish,List of roads in Nepal,/* List of National Highways */ fixed table
+2019-12-23T19:17:15+00:00,932142154,932141991,0,Citation bot,List of roads in Nepal,Alter: template type. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:Evrik]] | via #UCB_webform
+2018-01-02T03:02:56+00:00,818185982,809603442,0,InternetArchiveBot,List of roads in Nepal,Rescuing 4 sources and tagging 0 as dead. #IABot (v1.6.1)
+2020-07-26T14:41:56+00:00,969617838,967763329,0,GreenC bot,List of roads in Nepal,Reformat 2 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2019-02-20T00:20:49+00:00,884175201,882499104,0,BasilLeaf,List of roads in Nepal,/* Feeder Roads */
+2020-03-01T04:07:16+00:00,943310348,943310226,0,Yudhir Aacharya,List of roads in Nepal,
+2019-03-28T12:55:13+00:00,889860784,889860611,0,103.58.145.248,List of roads in Nepal,/* Feeder Roads */
+2021-02-02T18:52:53+00:00,1004466049,1001242544,0,Raju Babu,List of roads in Nepal,/* National Highways */
+2022-04-21T14:48:54+00:00,1083915811,1079705689,0,2407:5200:400:1CA7:E9DF:56D:F3B5:B58B,List of roads in Nepal,
+2023-07-22T17:49:34+00:00,1166609858,1166609630,0,2400:1A00:B060:BF9D:18E4:10D6:3BC6:137B,List of roads in Nepal,/* List of National Highways */
+2021-09-05T04:33:00+00:00,1042467972,1042467887,0,2001:8F8:1B89:435A:A0D1:BB48:7E0E:2DA2,List of roads in Nepal,
+2019-11-24T03:31:44+00:00,927687223,926459312,0,Manish Dachhepati,List of roads in Nepal,/* National Highways */
+2023-02-08T15:20:46+00:00,1138208036,1138058136,0,SemiAutomatedTime,List of roads in Nepal,v2.05 - Fix errors for [[WP:WCW|CW project]] (Table without correct end)
+2023-05-05T10:19:07+00:00,1153287051,1147297270,0,2400:1A00:B030:2B28:CD53:E2A:44F5:BE33,List of roads in Nepal,/* National Highway */
+2018-06-07T17:30:03+00:00,844861332,832711787,0,GERNPL,List of roads in Nepal,
+2022-02-12T02:26:21+00:00,1071327989,1056800155,0,Userkharani,List of roads in Nepal,/* District Roads */Madhesh Province
+2024-02-09T13:46:15+00:00,1205366769,1205277726,0,27.34.66.75,List of roads in Nepal,/* List of National Highways */
+2018-12-17T05:01:46+00:00,874107820,871122367,0,SimulationWig,List of roads in Nepal,
+2023-03-30T01:04:34+00:00,1147297270,1147218396,0,Raju Babu,List of roads in Nepal,/* Provincial Highways */
+2019-08-08T06:22:28+00:00,909878404,905900662,0,27.34.22.201,List of roads in Nepal,Undid revision 905900662 by [[Special:Contributions/Rajeeb bastola|Rajeeb bastola]] ([[User talk:Rajeeb bastola|talk]])
+2018-11-29T02:15:47+00:00,871122367,864441253,0,Shirsakbc,List of roads in Nepal,/* National Highways */
+2021-08-19T08:20:38+00:00,1039539145,1039537678,0,SNOW 977,List of roads in Nepal,
+2021-11-23T16:42:25+00:00,1056800155,1042467972,0,बडा काजी,List of roads in Nepal,link [[Mugling]] using [[:en:User:Edward/Find link|Find link]]
+2022-02-25T15:35:34+00:00,1073951043,1071327989,0,Lightingshower,List of roads in Nepal,Distance of B.P Highway was corrected
+2018-10-17T06:42:19+00:00,864441253,844861332,0,Raju Babu,List of roads in Nepal,/* Feeder Roads */
+2021-04-15T08:32:02+00:00,1017911651,1017527692,0,Nd12052010,List of roads in Nepal,
+2022-03-08T03:21:35+00:00,1075866613,1073951043,0,Ser Amantio di Nicolao,List of roads in Nepal,add short description
+2023-01-03T10:16:59+00:00,1131268423,1083915811,0,Tahshee,List of roads in Nepal,/* Feeder Roads */
+2023-06-17T17:31:47+00:00,1160611400,1160610632,0,2400:1A00:B060:D85D:41D:ADCF:27BD:AEEE,List of roads in Nepal,
+2023-12-01T13:37:29+00:00,1187797920,1185347043,0,Albertino d'Argent,List of roads in Nepal,
+2020-11-22T15:59:08+00:00,990060735,987673157,0,120.89.104.20,List of roads in Nepal,/* National Highways */
+2018-03-27T15:55:29+00:00,832711787,831052566,0,KylieTastic,List of roads in Nepal,Removed missing (red-linked) image - not a recognised image file - Note images must be uploaded [[WP:UPIMAGE]] (copyright allowing)
+2020-10-29T05:56:53+00:00,985999644,985300150,0,120.89.103.90,List of roads in Nepal,/* National Highways */
+2020-08-02T02:23:39+00:00,970737933,969483386,0,202.51.88.161,List of universities in Nepal,
+2023-03-03T07:33:35+00:00,1142589296,1140277030,0,110.44.115.84,List of universities in Nepal,/* Autonomous Institutes */
+2022-03-28T06:09:19+00:00,1079707089,1078170927,0,2400:1A00:B020:C75:7C27:7577:C5F8:F60D,List of universities in Nepal,/* Colleges */
+2022-01-14T03:00:32+00:00,1065540876,1064089167,0,Albany NY,Long-exposure photography,copyedits
+2023-05-30T19:58:06+00:00,1157761676,1157276785,0,49.126.175.31,List of universities in Nepal,/* Provincial universities */
+2018-05-10T09:01:34+00:00,840501103,835147138,0,Twinsday,Long-exposure photography,"fix caption, copyedit"
+2023-05-27T05:22:58+00:00,1157222605,1146140398,0,2603:900B:4F0:7F40:3963:8F11:CB80:A96,Long-exposure photography,/* Solarigraphy */
+2020-07-20T10:19:27+00:00,968597701,958043998,0,Subhmanish,Madan Ashrit Highway,link fixed
+2020-04-21T14:55:25+00:00,952298438,952298381,0,MrOllie,Long-exposure photography,Reverted to revision 952295571 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]]): Rv reference spamming ([[WP:TW|TW]])
+2021-11-23T16:39:55+00:00,1056799789,1026636622,0,बडा काजी,Madan Ashrit Highway,link [[Mugling]] using [[:en:User:Edward/Find link|Find link]]
+2023-12-19T19:14:14+00:00,1190772562,1187974020,0,Entranced98,Madan Ashrit Highway,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Road in Nepal"""
+2023-01-25T20:31:06+00:00,1135619260,1090909213,0,Bearcat,Madan Ashrit Highway,/* References */recat
+2022-06-01T02:53:41+00:00,1090909213,1077277558,0,Citation bot,Madan Ashrit Highway,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 1554/2735
+2021-06-20T21:34:04+00:00,1029582745,1029582239,0,Curious boy np,Madhesh Province,As per population
+2018-03-25T03:09:37+00:00,832300416,0,0,Doseiai2,Madan Ashrit Highway,new
+2022-07-05T07:29:49+00:00,1096561622,1096557024,0,Haribanshnp,Madhesh Province,Add: date. | [[WP:UCB|Use this tool]]. [[WP:DBUG|Report bugs]]. | #UCB_Gadget
+2021-06-03T12:17:25+00:00,1026638180,956797531,0,बडा काजी,Mahakali Highway,+map
+2023-01-25T20:31:10+00:00,1135619267,1105857908,0,Bearcat,Mahakali Highway,recat
+2019-05-09T17:08:02+00:00,896312192,894555485,0,Fredddie,Mahendra Highway,Reverted edits by [[Special:Contribs/91.252.200.148|91.252.200.148]] ([[User talk:91.252.200.148|talk]]) to last version by Jazze7
+2019-02-21T04:31:50+00:00,884365361,884332222,0,Jazze7,Mahendra Highway,327B
+2020-05-21T18:34:28+00:00,958040031,958039956,0,Fredddie,Mahendra Highway,/* top */ map doesnt' need to be so tall
+2024-02-01T13:55:12+00:00,1201848999,1199936344,0,2407:5200:401:D168:3DD6:6B72:313D:CC4E,Mahendra Highway,/* Overview */
+2019-01-04T08:24:48+00:00,876760426,874004370,0,Mnemnion,Mahendra Highway,/* Overview */ add link to Hulaki Highway page
+2023-08-23T00:39:08+00:00,1171749794,1164221122,0,Citation bot,Mahendra Highway,Add: publisher. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_CommandLine
+2021-02-20T22:46:44+00:00,1007977793,1006241341,0,Kandnaw,Mahendra Highway,
+2023-05-23T16:15:27+00:00,1156586779,1152325129,0,PN27,Mahendra Highway,
+2018-09-24T12:46:58+00:00,860990001,859059590,0,Rodw,Mahendra Highway,Disambiguating links to [[Lamahi]] (link changed to [[Lamahi Municipality]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2022-09-28T01:43:51+00:00,1112772057,1112763239,0,95.223.45.66,Mahendra Highway,/* Dhalkebar to Hetauda */
+2021-07-23T14:11:34+00:00,1035075503,1033868677,0,SNOW 977,Mahendra Highway,
+2022-04-01T08:05:54+00:00,1080435884,1056799863,0,103.10.31.74,Mahendra Highway,/* top */
+2019-12-29T03:31:43+00:00,932948271,927652295,0,Fredddie,Mahendra Highway,/* top */ automatic
+2019-11-23T22:10:25+00:00,927652295,917808137,0,202.1.199.210,Mahendra Highway,/* Overview */Both Kakarbhitta and Bhim Datta are places in Nepal.
+2018-01-13T01:22:09+00:00,820095533,799235992,0,InternetArchiveBot,Mahendra Highway,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.1)
+2018-09-11T12:57:43+00:00,859059590,859059332,0,Richard3120,Mahendra Highway,unlinked
+2020-11-06T19:30:17+00:00,987396401,958040031,0,Citation bot,Mahendra Highway,"Alter: work, url. URLs might have been internationalized/anonymized. Add: isbn, year. Removed parameters. Correct ISBN10 to ISBN13. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox2 | via #UCB_webform_linked 395/3977"
+2020-02-21T20:33:46+00:00,941978988,937094127,0,Cjrother,Mahendra Highway,/* Hetauda to Bhim Datta */ space
+2022-05-29T01:54:38+00:00,1090353924,1080435884,0,103.174.84.0,Mahendra Highway,/* Mechinagar (Kakarbhitta) to Hetauda */
+2018-12-16T14:20:11+00:00,874004370,872509341,0,2409:4063:230F:526F:B8D0:D4E8:3ACD:D2E9,Mahendra Highway,/* Hetauda to Bhim Datta */Nothing much
+2023-04-01T13:05:47+00:00,1147674265,1095428830,0,Raju Babu,Mechi Bridge,/* Location */
+2021-10-07T11:37:18+00:00,1048681576,1035967447,0,बडा काजी,Mechi Bridge,added [[Category:Buildings and structures in Jhapa District]] using [[WP:HC|HotCat]]
+2020-05-21T19:09:02+00:00,958047009,957750332,0,Fredddie,Mechi Highway,replace with SVG (via [[WP:JWB]])
+2018-07-25T18:22:05+00:00,851962197,839576301,0,Crazy1880,Mechi Highway,its a picture
+2021-06-03T16:26:13+00:00,1026673739,958047009,0,बडा काजी,Mechi Highway,+map
+2021-06-13T11:10:07+00:00,1028340115,1007977793,0,Fredddie,Mahendra Highway,subst {{AHN-AH}} (via [[WP:JWB]])
+2021-02-02T03:20:33+00:00,1004337695,1004337282,0,110.34.0.197,Mahendra Highway,
+2019-12-29T03:35:07+00:00,932948648,917554490,0,Fredddie,Mechi Highway,/* top */ automatic
+2024-01-01T02:35:55+00:00,1192924193,1190772531,0,PN27,Mechi Highway,
+2018-10-05T13:48:05+00:00,862607917,860045998,0,Inimesh,Mechi Multiple Campus,/* Academics */ ce
+2019-04-08T09:08:24+00:00,891492793,891491727,0,Inimesh,Mechi Multiple Campus,/* Notable alumni */ added content
+2020-06-29T10:57:47+00:00,965093859,962640902,0,Inimesh,Mechi Multiple Campus,Rescuing 17 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-06-15T06:38:11+00:00,962640902,962640681,0,Inimesh,Mechi Multiple Campus,/* Campus */ + a wikilink
+2020-09-28T03:11:08+00:00,980728806,980581298,0,Inimesh,Mechi Multiple Campus,Jeevan Pokharel --> Jiwan Pokhrel (as per the official website)
+2023-07-14T04:03:03+00:00,1165274063,1165273994,0,Midori No Sora,Mechi Multiple Campus,Reverted edits by [[Special:Contributions/103.104.28.218|103.104.28.218]] ([[User talk:103.104.28.218|talk]]) ([[WP:AntiVandal|AV]])
+2022-02-12T23:09:56+00:00,1071495379,1047318050,0,Rathfelder,Mechi Multiple Campus,−[[Category:Education in Nepal]]; ±[[Category:Universities and colleges in Nepal]]→[[Category:Tribhuvan University]] using [[WP:HC|HotCat]]
+2022-08-05T10:07:00+00:00,1102493671,1102373985,0,Inimesh,Mechi Multiple Campus,Undid [[good faith]] revision 1102373985 by [[Special:Contributions/Bhaskarrijal|Bhaskarrijal]] ([[User talk:Bhaskarrijal|talk]]) redundant link
+2020-07-15T11:49:50+00:00,967802244,967637056,0,Inimesh,Mechi Multiple Campus,Rescuing 5 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-03-06T07:32:55+00:00,944189052,944188867,0,Inimesh,Mechi Multiple Campus,Moved to lead
+2018-03-20T15:40:32+00:00,831431466,821601889,0,Naniwako,Mechi Multiple Campus,tightened language
+2021-07-14T08:25:00+00:00,1033534283,1033533766,0,Inimesh,Mechi Multiple Campus,/* Notable people */ Gallery size
+2021-09-30T06:36:51+00:00,1047318050,1043629448,0,Inimesh,Mechi Multiple Campus,/* Academics */ + a new academic program
+2021-06-12T09:40:09+00:00,1028173643,1020824423,0,Inimesh,Mechi Multiple Campus,/* Campus */ + hostels
+2022-10-10T23:07:31+00:00,1115330215,1109299602,0,Jonesey95,Mechi Multiple Campus,simplify unusual calendar notation
+2021-05-01T07:35:56+00:00,1020824423,1020130691,0,Inimesh,Mechi Multiple Campus,/* Notable alumni */ + content
+2021-06-28T20:54:37+00:00,1030932463,1030398461,0,WikiCleanerBot,Mechi Multiple Campus,v2.04b - [[User:WikiCleanerBot#T19|Bot T19 CW#25]] - Fix errors for [[WP:WCW|CW project]] (Heading hierarchy - Reference before punctuation)
+2021-11-10T15:55:03+00:00,1054531476,1040599119,0,बडा काजी,Mechinagar Municipality,Added {{[[Template:Unreferenced|Unreferenced]]}} tag
+2019-03-21T07:01:54+00:00,888760924,859130299,0,Rupee7,Mechinagar Municipality,.regular.
+2019-10-13T09:02:08+00:00,921011414,906648194,0,Reyk,Mechinagar Municipality,missing word
+2020-04-26T17:54:01+00:00,953295721,947679811,0,Cjrother,Mechinagar Municipality,/* Origin */ cleanup
+2019-07-17T07:59:43+00:00,906648194,888760924,0,103.232.228.107,Mechinagar Municipality,/* Ward Division */
+2020-03-06T00:07:56+00:00,944141511,921011414,0,Pegship,Mechinagar Municipality,stub sort
+2018-08-13T05:33:47+00:00,854701090,854698358,0,202.51.69.91,Mechinagar Municipality,
+2023-05-13T19:04:10+00:00,1154642533,1150342891,0,Cjrother,Mechinagar Municipality,"/* Climate */ cap, reword"
+2024-04-17T04:24:07+00:00,1219338037,1213385401,0,Revirvlkodlaku,Mechinagar Municipality,
+2022-12-12T14:15:38+00:00,1127028927,1127005822,0,JBW3,Mechinagar Municipality,"Reverting editing by an editor using a sockpuppet to evade blocks on multiple accounts, most of the editing being unconstructive, and much of it unambiguous vandalism"
+2019-10-21T05:59:51+00:00,922293014,904194736,0,Ojvh,Ministry of Home Affairs (Nepal),
+2021-02-10T15:29:52+00:00,1006009351,1005756357,0,86.9.153.176,Mechinagar Municipality,/* Climate */ correct spelling and punctuation
+2023-09-13T14:32:37+00:00,1175219088,1170468356,0,Woko Sapien,Ministry of Home Affairs (Nepal),[[MOS:JOBTITLES]]
+2018-08-09T23:02:05+00:00,854243534,854243505,0,SS49,Ministry of Home Affairs (Nepal),Re
+2020-05-21T13:38:14+00:00,957992677,957992653,0,Fredddie,Module talk:Infobox road/color,[[User:Equazcion/OneClickArchiver|OneClickArchiver]] archived 1 discussion to [[Module talk:Infobox road/color/Archive 1]]
+2019-01-23T05:06:38+00:00,879754412,879595847,0,Lowercase sigmabot III,Module talk:Infobox road/color,Archiving 1 discussion(s) to [[Module talk:Infobox road/color/Archive 1]]) (bot
+2019-09-24T05:09:14+00:00,917512914,917467357,0,Lowercase sigmabot III,Module talk:Infobox road/color,Archiving 1 discussion(s) to [[Module talk:Infobox road/color/Archive 1]]) (bot
+2017-05-11T13:58:34+00:00,779865546,779865520,0,Fredddie,Module talk:Infobox road/color,/* Template-protected edit request on 11 May 2017 */ done
+2021-12-19T23:29:24+00:00,1061147861,1061043911,0,Fredddie,Module:Road data/strings/NPL,add maint
+2020-05-21T03:07:02+00:00,957913329,957908882,0,Fredddie,Module:Road data/strings/NPL,SVG
+2020-11-11T23:10:59+00:00,988239524,988239497,0,I dream of horses,National Highway System (Nepal),+{{Nepal-road-stub}} using [[User:SD0001/StubSorter|StubSorter]]
+2021-07-19T17:20:55+00:00,1034403311,1034402150,0,SNOW 977,National Highway System (Nepal),
+2023-05-24T06:24:48+00:00,1156709390,1151623710,0,Midori No Sora,National Highway System (Nepal),Revertd sockpuppet edit
+2022-03-13T17:53:01+00:00,1076930393,1034403311,0,BrownHairedGirl,National Highway System (Nepal),tag with {{[[Template:Bare URL PDF|Bare URL PDF]]}}
+2020-05-21T18:38:05+00:00,958040728,957759492,0,Fredddie,National Highway System (Nepal),/* Routes */ svg
+2023-02-08T03:08:19+00:00,1138118513,1138097720,0,Imzadi1979,National Highway System (Nepal),"/* Routes */ merge tables, add in missing columns that should be added for completeness"
+2022-05-25T06:54:09+00:00,1089711439,1076930393,0,120.89.103.168,National Highway System (Nepal),/* Routes */
+2023-04-25T05:29:27+00:00,1151623710,1151623634,0,Aananda1,National Highway System (Nepal),Added Expressway
+2021-04-13T09:01:01+00:00,1017530015,988239524,0,Nirmaljoshi,National Highway System (Nepal),/* Routes */
+2023-10-02T03:11:09+00:00,1178191378,1169526771,0,2405:ACC0:1304:EA61:8983:3FFD:B64B:CC17,Nepal Super League,Uptated
+2023-08-18T23:59:57+00:00,1171087204,1167915137,0,Chomolungma8848,Nijgadh International Airport,
+2021-03-01T06:39:30+00:00,1009568073,1007823367,0,WikiCleanerBot,Nijgadh International Airport,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2019-12-29T03:47:30+00:00,932950039,918323288,0,Fredddie,Postal Highway,/* top */ automatic
+2020-11-22T00:30:48+00:00,989960649,989804926,0,Heavy Grasshopper,Postal Highway,untill -> until
+2018-03-29T15:39:42+00:00,833083111,787269784,0,InternetArchiveBot,Postal Highway,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.5)
+2019-12-02T19:26:07+00:00,928958152,927265433,0,BDD,Prime Minister of Nepal,bad wikilink
+2023-06-04T03:07:11+00:00,1158439110,1158439045,0,456legend,Prime Minister of Nepal,/* Appointment */Proper presentation in line with other categories
+2021-11-15T19:40:25+00:00,1055419856,1037734745,0,82.30.61.80,Prithvi Highway,/* Road conditions */Added bracket.
+2018-12-06T18:52:41+00:00,872339291,868538839,0,Meltdown627,Prithvi Highway,corrected infobox issue
+2020-05-17T08:55:13+00:00,957150529,956797992,0,CommonsDelinker,Pushpalal Highway,"Removing [[:c:File:Mid-Hill-Highway1.jpg|Mid-Hill-Highway1.jpg]], it has been deleted from Commons by [[:c:User:Herbythyme|Herbythyme]] because: Copyright violation; see [[:c:COM:Licensing|Commons:Licensing]] ([[:c:COM:CSD#F1|F1]])."
+2023-12-19T19:12:55+00:00,1190772403,1177936687,0,Entranced98,Pushpalal Highway,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Road in Nepal"""
+2021-06-22T13:57:53+00:00,1029866034,1004529610,0,बडा काजी,Pushpalal Highway,added [[Category:National Pride Projects]] using [[WP:HC|HotCat]]
+2022-06-13T21:22:45+00:00,1092986163,1079120730,0,Kaltenmeyer,Pushpalal Highway,/* top */typo
+2023-09-30T15:48:55+00:00,1177936687,1135619339,0,2404:7C00:48:C3DA:31B4:2374:89ED:8828,Pushpalal Highway,
+2018-05-31T04:07:15+00:00,843740077,843727395,0,Raju Babu,Pushpalal Highway,
+2021-06-03T16:25:08+00:00,1026673579,975286727,0,बडा काजी,Rapti Highway,+map
+2018-06-07T17:00:18+00:00,844857537,0,0,GERNPL,Ratna Highway,[[WP:AES|←]]Created page with '{{Infobox road |country=NPL |marker_image=[[File:H12-NP.png|150px]] |name= Ratna Highway |translation= रत्न राजमार्ग |image = Surkhet_Roa...'
+2023-08-28T11:54:53+00:00,1172648336,1172647466,0,Ltbdl,Rijal (surname),unsourced
+2021-06-03T12:15:49+00:00,1026637970,1011957119,0,बडा काजी,Ring Road (Kathmandu),+map
+2020-09-12T13:14:36+00:00,978028791,977013284,0,103.117.94.11,Rijal (surname),
+2018-05-09T20:36:53+00:00,840427667,834416264,0,Saustav,Ring Road (Kathmandu),
+2022-01-18T21:33:26+00:00,1066541490,1026637970,0,PrimeBOT,Ring Road (Kathmandu),/* top */[[User:PrimeBOT/24|Task 24]]: remove a maintenance template following [[Wikipedia:Templates_for_discussion/Log/2021_February_9|a TFD]]
+2023-10-26T11:59:15+00:00,1181981939,1133133794,0,Leomos23,Road signs in Nepal,
+2023-12-19T19:12:34+00:00,1190772357,1135619359,0,Entranced98,Ring Road (Kathmandu),"Adding local [[Wikipedia:Short description|short description]]: ""Ring road in Nepal"", overriding Wikidata description ""ring road in Nepal, circling the cities of Kathmandu and Lalitpur"""
+2018-02-26T04:46:36+00:00,827694164,818088506,0,144.136.88.8,Road signs in Nepal,/* Historic signs */
+2023-01-25T20:31:57+00:00,1135619362,1037734929,0,Bearcat,Sagarmatha Highway,/* References */recat
+2018-11-28T13:32:37+00:00,871027947,871013196,0,2405:204:66A5:E9BA:0:0:197E:50A1,Sathya Sai Baba,/* Recognition */
+2022-08-20T13:17:02+00:00,1105482714,1026673353,0,Citation bot,Seti Highway,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 1816/2005
+2024-01-25T08:42:46+00:00,1198886035,1197278603,0,197.82.208.215,Sathya Sai Baba,Removed false information
+2024-03-01T00:21:13+00:00,1211127399,1190772206,0,Jlwoodwa,Siddhartha Highway,[[WP:STUBSPACING]]
+2018-06-07T17:15:48+00:00,844859537,841678751,0,GERNPL,Siddhartha Highway,added Infobox
+2022-10-18T16:19:35+00:00,1116840389,1116643831,0,Thegoodsoul,South Asia,
+2019-04-02T16:09:27+00:00,890638208,890638045,0,SineBot,Talk:Long-exposure photography,"Signing comment by [[User:Samccornwell|Samccornwell]] - ""/* Solargraphy needs its own page */ new section"""
+2020-04-29T02:13:18+00:00,953792265,953792115,0,SineBot,Talk:Long-exposure photography,"Signing comment by [[User:Bhaskarrijal|Bhaskarrijal]] - ""/* Science topic has been added to the article */ new section"""
+2020-06-03T00:25:39+00:00,960442416,960390034,0,Gotitbro,South Asia,rvt POV [[Special:Diff/898568932|edits]] by user
+2021-01-19T06:45:57+00:00,1001334021,990066702,0,Rakesh Mish,Template:Highways in India,
+2024-01-29T19:40:54+00:00,1200558111,1152866353,0,Adumbrativus,Template:Highways in India,Update entry Trans-Haryana Expressway after page move
+2021-08-19T08:04:43+00:00,1039537360,1026495899,0,SNOW 977,Template:Highways in Nepal,
+2023-02-08T00:55:32+00:00,1138097579,1135619432,0,Imzadi1979,Template:Highways in Nepal,simplify
+2021-09-20T02:56:14+00:00,1045342428,986505031,0,ShanKitch,Template:Infobox road/doc/type,/* India */
+2020-11-02T09:30:24+00:00,986676867,957020415,0,GERNPL,Template:Highways in Nepal,
+2018-03-25T20:17:55+00:00,832405402,832300437,0,Imzadi1979,Template:Highways in Nepal,simplify
+2020-11-01T08:15:45+00:00,986505031,986504930,0,Mertbiol,Template:Infobox road/doc/type,/* Great Britain */ correct brown background colour
+2018-03-04T12:59:38+00:00,828736000,807488631,0,Dr Greg,Template:Infobox road/doc/type,/* Great Britain */ primary routes
+2020-05-21T03:19:19+00:00,957914992,956792626,0,Fredddie,Template:Infobox road/name/NPL,cleanup
+2023-08-28T14:17:05+00:00,1172663962,1172662701,0,Paine Ellsworth,Template:Infobox road/doc/type,/* Others (to be organized) */ explain
+2020-05-21T03:06:40+00:00,957913268,957907954,0,Fredddie,Template:Infobox road/shield/NPL,SVG
+2010-10-17T20:35:43+00:00,391297519,0,0,WOSlinker,Template:Infobox road/shieldmain/NPL,[[WP:AES|←]]Created page with 'none'
+2023-03-15T20:23:58+00:00,1144829752,1061638772,0,JJMC89 bot III,Template:Jhapa District,Moving [[:Category:Province No. 1 district templates]] to [[:Category:Koshi Province district templates]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-05-16T15:55:49+00:00,957019990,957019948,0,Fredddie,Template:National Highway System of Nepal,Reverted to revision 955303892 by [[Special:Contributions/Imzadi1979|Imzadi1979]] ([[User talk:Imzadi1979|talk]]): Oops ([[WP:TW|TW]])
+2018-04-30T14:44:18+00:00,838983087,838980265,0,BhagyaMani,Terai,Reverted 1 edit by [[Special:Contributions/27.34.16.13|27.34.16.13]] ([[User talk:27.34.16.13|talk]]) to last revision by SheriffIsInTown. ([[WP:TW|TW]])
+2023-11-02T05:20:00+00:00,1183103493,1177895839,0,178.120.22.167,Terai,
+2018-05-11T04:14:47+00:00,840636374,840597404,0,Graham87,Transport in Nepal,Reverted edits by [[Special:Contribs/165.199.7.97|165.199.7.97]] ([[User talk:165.199.7.97|talk]]) to last version by Graham87
+2020-05-20T10:50:36+00:00,957750019,956961274,0,Imzadi1979,Transport in Nepal,/* Road */ fixing table
+2022-03-03T16:10:46+00:00,1075045313,1073858339,0,27.34.31.31,Tribhuvan Highway,/* History */
+2021-10-09T18:15:33+00:00,1049077122,1037734710,0,बडा काजी,Tribhuvan Highway,/* Kathmandu-Terai Expressway alternative */ link [[Kanti Highway]]
+2019-09-30T00:27:36+00:00,918714678,912699860,0,Monkbot,Tribhuvan Highway,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (3×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2021-01-14T20:30:59+00:00,1000365954,957150568,0,Yobot,Tribhuvan Highway,"References after punctuation per [[WP:REFPUNCT]], [[WP:CITEFOOT]], [[WP:PAIC]] + other fixes"
+2017-08-07T09:02:27+00:00,794325080,782878507,0,WrackAce,Tribhuvan Highway,
+2023-05-27T10:07:10+00:00,1157246405,1157009341,0,Franz.wohlkoenig,Tribhuvan Highway,Missing or empty |title= solved
+2021-07-17T04:34:10+00:00,1033997634,1031642147,0,Chris the speller,Tribhuvan University,/* Notable alumni */replaced: Alumni → alumni
+2020-07-28T13:47:06+00:00,969971838,966964144,0,Nirmaljoshi,Tribhuvan University,/* Facilities */
+2021-11-06T02:48:18+00:00,1053794319,1053794227,0,202.53.53.112,Tribhuvan University,/* Academics */
+2023-12-09T18:07:23+00:00,1189098917,1188092644,0,Eddie891,Tribhuvan University,Removing link(s) / list item(s) [[Wikipedia:Articles for deletion/Ujawal Jha (2nd nomination)]] closed as delete ([[WP:XFDC#4.0.13-beta|XFDcloser]])
+2021-02-16T15:16:53+00:00,1007116953,1007116826,0,49.244.3.231,Tribhuvan University,/* Rankings */
+2019-11-30T15:13:19+00:00,928621130,928620806,0,Sazshasr,Tribhuvan University,Typo error
+2021-09-02T12:08:29+00:00,1041942234,1034533378,0,Njd-de,Tribhuvan University,refspam
+2018-11-21T01:32:01+00:00,869890461,867638429,0,110.34.22.57,Tribhuvan University,
+2018-04-12T07:16:41+00:00,836028148,836028073,0,116.90.235.10,Tribhuvan University,/* Organization */
+2018-11-16T10:33:20+00:00,869092788,0,0,XLinkBot,User talk:Bhaskarrijal,BOT - Notifying user of reverted link additions to [[Rijal (surname)]] (welcomemessage + good faith remark) - 1/0/0 - links: www.facebook.com/rijalbhaskar
+2019-11-06T13:38:51+00:00,924876430,869092788,0,Kautilya3,User talk:Bhaskarrijal,General note: Addition of unsourced or improperly cited material on [[:Lipulekh Pass]]. ([[WP:TW|TW]])
+2022-06-01T15:48:26+00:00,1090994389,1030361234,0,Gonnym,User talk:Lemofadka,Notification: [[Wikipedia:Templates for discussion/Log/2022 June 1#Template:Infobox road/maint/NPL|listing]] of [[:Template:Infobox road/maint/NPL]] at [[WP:Templates for discussion]].
+2021-11-17T11:03:47+00:00,1055712446,1055712400,0,BasilLeaf,Vehicle registration plates of Nepal,/* 2020-Present */
+2023-01-01T10:54:03+00:00,1130867140,1126267946,0,2403:3800:3211:F15C:ACA4:64A8:8486:8F6A,Vehicle registration plates of Nepal,/* Diplomatic */
+2021-06-25T13:10:30+00:00,1030361234,1030357008,0,331dot,User talk:Lemofadka,"/* Your draft article, Draft:Bahundangi Road */ decline"
+2021-12-31T17:35:23+00:00,1062999959,1061199194,0,84.71.34.34,Vehicle registration plates of Nepal,/* 2020-Present */
+2019-09-18T13:20:50+00:00,916351312,916350772,0,Hintswen,Vehicle registration plates of Nepal,Reverted edits by [[Special:Contributions/Srijan_Karkey|Srijan_Karkey]] ([[User talk:Srijan_Karkey|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2018-09-06T08:16:12+00:00,858309377,854479584,0,27.34.106.89,Vehicle registration plates of Nepal,/* Types */
+2019-04-04T08:22:21+00:00,890897888,871173618,0,Zcarstvnz,Vehicle registration plates of Nepal,"Adding [[Wikipedia:Short description|short description]]: ""Nepal  vehicle license plates"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2023-04-28T05:14:42+00:00,1152096444,1134489583,0,111.119.44.60,Vehicle registration plates of Nepal,
+2018-03-07T02:15:40+00:00,829173568,800794945,0,InternetArchiveBot,Vehicle registration plates of Nepal,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.4) ([[User:Artix Kreiger|Artix Kreiger]])
+2022-11-21T03:26:10+00:00,1122993438,1103360489,0,103.148.23.182,Vehicle registration plates of Nepal,/* Vehicle Classification */Fixed typo
+2020-12-13T17:21:23+00:00,994003316,981972679,0,Hemant Dabral,Vehicle registration plates of Nepal,
+2024-02-16T10:39:10+00:00,1208056420,1173831913,0,110.44.124.249,Vehicle registration plates of Nepal,
+2020-02-29T05:04:42+00:00,943153917,932987853,0,163.47.149.169,Vehicle registration plates of Nepal,/* Types */Ba72pa2227
+2020-05-18T09:57:29+00:00,957335889,955902670,0,Filedelinkerbot,Vehicle registration plates of Nepal,"Bot: Removing [[c:File:State 3 license plate.png]] , deleted by [[:C:User:Túrelio|Túrelio]] ([[Commons:COM:L|Copyright violation]]: Obvious screenshot with TV watermark on image.  At best, could claim fair use, but that is not allowed on Commons.)."
+2021-04-01T14:40:36+00:00,1015444700,1015443673,0,2402:8100:3A16:BA74:70DD:E887:5A38:7D32,2016 South Asian Games,/* Medal tally */
+2015-02-27T16:03:07+00:00,649101509,649043886,0,Niceguyedc,AH2,"[[:en:WP:CLEANER|WPCleaner]] v1.34 - Repaired 2 links to disambiguation pages - [[WP:DPL|(You can help)]] - [[Ghaziabad]], [[Rampur]]"
+2021-08-12T19:26:03+00:00,1038473186,1038472968,0,Mohammad Ali Rplsc,2019 South Asian Games,Fh
+2021-11-19T16:56:14+00:00,1056083700,1056049499,0,Keith D,2019 South Asian Games,/* Doping at the 2019 South Asian Games */ Fix date
+2015-11-22T08:35:45+00:00,691808055,691807981,0,Jor.langneh,AH2,/* West India */
+2023-12-01T22:54:57+00:00,1187866860,1183666528,0,187.15.145.153,2019 South Asian Games,
+2014-11-24T22:45:13+00:00,635302470,635301431,0,156.149.249.10,AH2,/* Singapore */
+2018-05-14T06:06:47+00:00,841131089,826289502,0,DeprecatedFixerBot,2019 South Asian Games,"Removed deprecated parameter(s) from [[Template:Columns-list]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of ""cols"" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))"
+2016-07-05T12:04:50+00:00,728433457,728429376,0,Fenix down,2016 South Asian Games,Reverted 1 edit by [[Special:Contributions/45.118.63.238|45.118.63.238]] ([[User talk:45.118.63.238|talk]]) to last revision by Majora. ([[WP:TW|TW]])
+2022-05-05T15:55:20+00:00,1086337913,1079836848,0,Ffffrr,2016 South Asian Games,Adding [[Wikipedia:Short description|short description]]: none ([[Wikipedia:Shortdesc helper|Shortdesc helper]])
+2022-10-09T07:33:23+00:00,1114984037,1114794376,0,219.74.162.218,AH2,"Fix information for Singapore, according to UNESCAP database information"
+2022-07-30T13:31:42+00:00,1101335976,1092152474,0,Lasers Cycles,AH2,Updating the Road Map in the picture as per July 30 2022
+2017-07-26T12:10:48+00:00,792419617,786830955,0,Akuindo,2016 South Asian Games,
+2016-01-11T20:40:06+00:00,699353283,699125501,0,Worldbruce,AH2,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Indruraz|Indruraz]] ([[User talk:Indruraz|talk]]): Unsourced. ([[WP:TW|TW]])
+2011-07-09T10:38:27+00:00,438558127,436870431,0,Cydebot,AH2,Robot - Moving category Expressways of Singapore to [[:Category:Expressways in Singapore]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 July 2]].
+2015-06-05T08:03:32+00:00,665589422,663333200,0,124.195.116.154,AH2,
+2023-05-28T11:58:26+00:00,1157410559,1157407994,0,Pratama26,AH2,/* Indonesia */ Simplify
+2020-03-19T05:28:11+00:00,946281623,946281554,0,2601:449:8400:20A0:FD50:C318:26C8:54E4,Anish Luitel,Update
+2016-10-09T13:16:44+00:00,743396480,741367639,0,Joshua,AH2,Korean is not an official language of Singapore
+2011-11-01T03:09:48+00:00,458401239,453520689,0,Niceguyedc,AH2,"[[:en:WP:CLEANER|WPCleaner]] (v1.09) Repaired link to disambiguation page - [[WP:DPL|(You can help)]] - [[Anar]], [[Rampur]]"
+2019-12-11T03:38:31+00:00,930237271,930237091,0,Shantiram Subedi,Araniko Highway,
+2021-12-05T06:36:00+00:00,1058727341,1049153101,0,Wallflowernepal,Araniko Highway,"Adding local [[Wikipedia:Short description|short description]]: ""Highway in central hilly Nepal"", overriding Wikidata description ""road in Nepal"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2017-08-30T15:33:25+00:00,798029843,798029277,0,Bri,Araniko Highway,correct layout per MOS
+2018-01-28T13:32:01+00:00,822784103,822784057,0,JarrahTree,Araniko Highway,/* References */ 30em
+2011-03-12T13:29:54+00:00,418455377,404950759,0,Pepper,BP Highway,cleaned up
+2013-03-21T12:53:14+00:00,545976245,535073176,0,Addbot,BP Highway,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q4833868]]"
+2011-04-14T08:53:19+00:00,423998060,423994370,0,LADave,Bahundangi,
+2023-05-30T14:12:45+00:00,1157716243,1157716156,0,2400:1A00:B060:70BB:2D0B:556:823C:6A4D,Bahundangi,/* Sports */
+2022-09-04T11:41:51+00:00,1108438665,1107463250,0,2400:1A00:B050:FDB7:C084:A213:D60E:5A95,Biratnagar City F.C.,/* History */
+2018-11-24T09:24:21+00:00,870368820,854701203,0,Quiddity,Birtamod Municipality,Disambiguate [[Rajbanshi]] to [[Rajbongshi people]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2015-10-15T13:40:26+00:00,685864592,685818154,0,Melcous,Birtamod Municipality,Reverted 2 edits by [[Special:Contributions/Tenzing lama|Tenzing lama]] ([[User talk:Tenzing lama|talk]]). ([[WP:TW|TW]])
+2019-08-12T15:12:12+00:00,910505905,910505839,0,45.64.160.217,Birtamod Municipality,typo
+2017-03-26T12:29:37+00:00,772292646,772292584,0,2600:8805:C504:5600:29EA:D027:3D67:ABFD,Disputed territories of India,/* Saltoro Ridge */Fixed typo
+2011-07-07T11:23:28+00:00,438221618,404091488,0,Junktrailer,Birtamod Municipality,"the first paragraph was filled with goofed-up info by an unknown user. I have deleted that info. Hwoever, I do not know what information was existent previously, so I cannot retrieve/post it/"
+2018-01-05T05:10:57+00:00,818720056,812699833,0,121.244.200.9,Disputed territories of India,
+2017-02-08T00:19:34+00:00,764272366,764073418,0,Johnluisocasio,Gandaki Province,/* Districts */
+2020-12-28T09:47:47+00:00,996735319,996735278,0,Sbb1413,Disputed territories of India,/* Indo-China border */ Common term
+2022-09-19T08:01:41+00:00,1111094270,1111094150,0,Kzqj,Gandaki Province,/* Airways */ removed incoherent crap
+2016-04-12T20:48:31+00:00,714955261,713365515,0,The Anomebot2,Gandaki Province,Adding geodata: {{coord missing|Nepal}}
+2020-02-08T20:37:23+00:00,939803847,939803779,0,Mr. Vernon,Disputed territories of India,Reverted 1 edit by [[Special:Contributions/2409:4041:269A:939A:56FE:E6C7:A831:3B2B|2409:4041:269A:939A:56FE:E6C7:A831:3B2B]] ([[User talk:2409:4041:269A:939A:56FE:E6C7:A831:3B2B|talk]]) to last revision by 2409:4070:200B:20E3:9037:3FF:FE98:7E00 ([[WP:TW|TW]])
+2021-08-30T20:34:28+00:00,1041489632,1040597598,0,Velho,Goat meat,
+2017-03-18T09:53:16+00:00,770904863,767185359,0,111.125.69.86,Goat meat,/* In cuisine */
+2018-12-25T13:03:50+00:00,875309157,870898061,0,Ich,Goat meat,/* Production */ convert template
+2021-04-09T15:08:41+00:00,1016876143,1015829439,0,74.88.167.120,Goat meat,"/* In cuisine */ changed South America to Latin America; text is mostly about Mexico, not South America"
+2016-05-30T01:21:57+00:00,722768484,722306559,0,101.127.249.70,Human Development Index,/* 2014 Human Development Report */Added Taiwan in IHDI missing list paragraph (from comparison between HDI and IHDI list)
+2020-11-21T11:51:29+00:00,989851590,989851128,0,Eyebeller,Human Development Index,Reverted 2 pending edits by [[Special:Contributions/197.59.190.121|197.59.190.121]] to revision 989019855 by Trialpears: Wrong information
+2014-12-17T08:54:17+00:00,638469794,638431195,0,Noyster,Human Development Index,Reverted 1 edit by [[Special:Contributions/204.112.172.230|204.112.172.230]] identified as test/vandalism using [[WP:STiki|STiki]]
+2018-03-01T06:13:55+00:00,828215444,828199920,0,Jhertel,Human Development Index,[[Help:Reverting|Reverting]] [[Wikipedia:Vandalism|vandalism]]
+2020-04-20T12:17:33+00:00,952070206,952069956,0,Sjö,Human Development Index,Reverted edits by [[Special:Contribs/105.186.18.220|105.186.18.220]] ([[User talk:105.186.18.220|talk]]) to last version by El C
+2016-08-19T04:33:47+00:00,735192965,733814849,0,110.34.26.2,Jhapa District,/* Location */
+2012-06-23T06:19:36+00:00,498948940,497374957,0,FrescoBot,Jhapa District,Bot: [[User:FrescoBot/Links|link syntax/spacing]]
+2015-03-18T12:39:27+00:00,651920073,651918498,0,Materialscientist,Jhapa District,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Sagarthapaliya|Sagarthapaliya]] using [[WP:STiki|STiki]]
+2013-12-08T23:58:34+00:00,585201418,585200985,0,49.244.34.33,Jhapa District,/* Development */
+2022-07-13T16:25:24+00:00,1097979287,1097979039,0,Ujjainsharma,Jhapa District,/* Languages */
+2012-05-08T17:16:10+00:00,491418821,491418718,0,124.41.215.254,Jhapa District,/* Education */
+2014-12-02T13:43:41+00:00,636313310,636313244,0,124.41.248.7,Jhapa District,/* Village Development Committees (VDCs) */
+2016-05-11T11:53:18+00:00,719724872,718568496,0,49.244.205.209,Jhapa District,Devi H.S. School & Devi Campus
+2012-02-29T01:49:12+00:00,479399243,474980855,0,The Anomebot2,Jhapa District,Adding geodata: {{coord|27.917373|N|84.193726|E|region:NP-GA_type:adm2nd_source:dewiki|display=title}}
+2013-01-01T05:11:43+00:00,530712688,530167358,0,FrescoBot,Jhapa District,Bot: [[User:FrescoBot/Links|link syntax/spacing]] and minor changes
+2013-04-21T08:01:15+00:00,551425280,550787122,0,KLBot2,Jhapa District,"Bot: Migrating 1 interwiki links, now provided by [[Wikidata]] on [[:d:Q28160]]"
+2017-03-16T11:10:47+00:00,770590900,769754814,0,49.126.32.51,Jhapa District,/* Agriculture and industry */ number of SFCL
+2022-12-06T07:03:01+00:00,1125858087,1125814677,0,188.206.72.217,Jhapa District,Fixed grammar
+2012-11-21T11:54:54+00:00,524178523,524025460,0,206.3.42.247,Jhapa District,/* Education */
+2021-07-03T05:00:19+00:00,1031705315,1031693695,0,C1MM,Jhapa District,/* Demographics */ Added ethnic groups
+2020-11-03T01:21:43+00:00,986792783,986789495,0,Matt Deres,Jhapa District,Reverted 3 edits by [[Special:Contributions/120.89.103.148|120.89.103.148]] ([[User talk:120.89.103.148|talk]]) to last revision by 104.35.254.90
+2012-10-21T02:42:25+00:00,518961088,518075142,0,49.244.252.86,Jhapa District,/* Education */
+2016-01-01T08:43:22+00:00,697704346,696635941,0,JJMC89,Jhapa District,"[[WP:FIX]] + [[WP:GENFIXES|general fixes]], [[WP:AWB/T|typo(s) fixed]]: modern day → modern-day (4), Master's degree → master's degree, india → India (4), the the → the using [[Project:AWB|AWB]]"
+2024-03-26T13:05:40+00:00,1215663013,1199932524,0,Munal Chaudhary,Jhapa District,
+2014-04-14T02:55:11+00:00,604100927,600384354,0,103.18.165.137,Jhapa District,/* Village Development Committees (VDCs) */
+2020-09-22T12:15:26+00:00,979725392,979725101,0,Silver112358,Jhapa District,Undid revision 979725101 by [[Special:Contributions/Silver112358|Silver112358]] ([[User talk:Silver112358|talk]])
+2014-10-26T05:13:29+00:00,631146337,627847006,0,Sarada.bharali,Jhapa District,/* climate */
+2016-07-16T08:41:06+00:00,730035814,729301618,0,Nepali Bibek,Jhapa District,/* Agriculture and industry */
+2019-07-28T06:46:07+00:00,908212046,907512320,0,Mashkawat.ahsan,Jhapa District,image add
+2011-11-30T11:55:44+00:00,463285174,463285129,0,49.244.62.137,Jhapa District,/* Internet and technology */
+2011-07-23T19:27:35+00:00,441048738,438505711,0,ChuispastonBot,Jhapa District,r2.7.1) (robot Adding: [[hi:झापा जिला]]
+2022-06-15T05:07:22+00:00,1093199620,1093199275,0,36.252.90.188,Jhapa District,added content
+2011-03-01T14:09:21+00:00,416557556,412682717,0,Eugene-elgato,Jhapa District,/* Development */
+2018-06-28T14:11:18+00:00,847893359,847889656,0,Bkonrad,Jhapa District,fix hatnote
+2022-09-11T10:02:04+00:00,1109692793,1107936514,0,Billjones94,Jhapa District,
+2014-02-15T16:53:32+00:00,595605434,595598745,0,Mogism,Jhapa District,"/* Demography */Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ,  → , using [[Project:AWB|AWB]]"
+2019-01-14T08:15:33+00:00,878340293,876601406,0,163.47.151.210,Jhapa District,/* People from Jhapa District */
+2010-11-25T02:31:36+00:00,398739098,398738775,0,72.84.153.166,Jhapa District,/* References */
+2013-11-24T23:03:38+00:00,583156459,583122013,0,LADave,Jhapa District,/* Geography and Climate */
+2022-02-12T13:55:58+00:00,1071415563,1071415365,0,2400:1A00:B050:179A:85A0:F80C:9C19:56FF,Jhapa District,
+2015-12-24T14:52:45+00:00,696635941,691694703,0,36.252.33.109,Jhapa District,
+2010-10-21T10:32:52+00:00,392004404,391945910,0,The Anomebot2,Jhapa District,Replacing geodata: {{coord missing|Nepal}}
+2016-02-14T14:57:11+00:00,704935911,702447870,0,Sundar1,Jhapa District,/* Towns (Municipalities) */ spelling
+2013-07-09T22:20:14+00:00,563584881,451459267,0,96.240.161.16,Karnali Highway,
+2011-09-20T06:53:11+00:00,451459267,448467751,0,Od Mishehu AWB,Karnali Highway,[[Wikipedia:WikiProject Stub sorting|stub sorting]]: {{[[template:Nepal-transport-stub|Nepal-transport-stub]]}} using [[Project:AWB|AWB]]
+2015-02-15T14:01:28+00:00,647245929,643480662,0,202.51.76.236,Karnali Highway,
+2018-04-16T19:18:59+00:00,836772271,836772109,0,Avkhatri101,Kathmandu,/* Twin towns – Sister cities */
+2022-04-27T03:23:54+00:00,1084875414,1084795074,0,Nepnar9,Kathmandu,
+2018-06-01T14:35:26+00:00,843944258,843773266,0,95.147.162.148,Kathmandu,
+2014-03-21T22:57:08+00:00,600663056,599986162,0,76.91.64.91,Kathmandu,/* Healthcare */
+2013-09-24T15:46:32+00:00,574335311,574334003,0,Zulufive,Kathmandu,Gave historical name and reference.
+2019-08-03T11:10:35+00:00,909139173,908781387,0,86.172.185.16,Kathmandu,/* Twin towns – Sister cities */
+2011-12-11T19:35:42+00:00,465332960,465305787,0,Δ,Kathmandu,"[[WP:AWB/T|Typo fixing]], typos fixed: prevelant → prevalent using [[Project:AWB|AWB]]"
+2017-12-05T04:29:03+00:00,813770833,813353482,0,49.244.233.152,Kathmandu,/* Ethnic groups */
+2016-02-04T02:49:06+00:00,703200864,703200753,0,49.126.255.201,Kathmandu,
+2021-07-09T21:39:54+00:00,1032820149,1032444214,0,Reopenmyschool,Kathmandu,
+2018-08-03T23:42:15+00:00,853327130,853327050,0,Shellwood,Kathmandu,Reverted good faith edits by [[Special:Contributions/Dipesh4444|Dipesh4444]] ([[User talk:Dipesh4444|talk]]): already stated ([[WP:HG|HG]]) (3.4.3)
+2015-08-02T13:06:23+00:00,674218854,674218324,0,MShabazz,Kathmandu,Undid revision 674218324 by [[Special:Contributions/Ajit Maharjan|Ajit Maharjan]] ([[User talk:Ajit Maharjan|talk]]) [[Help:Reverting|Reverting]] [[Wikipedia:Vandalism|vandalism]] or test edit
+2012-11-17T09:07:06+00:00,523467016,522900365,0,49.244.75.199,Kathmandu,/* Ancient  history */ Som dynasty added
+2018-10-22T11:40:03+00:00,865196492,865184554,0,Kuru,Kathmandu,revert link hijack
+2018-08-11T09:48:56+00:00,854436350,854149698,0,47.8.249.78,Kathmandu,
+2020-12-06T03:37:08+00:00,992599629,991002524,0,2601:83:201:6010:A485:4CAC:13C8:99A,Kathmandu,Fixed BCE to BC.
+2015-03-29T15:43:58+00:00,654046789,654046423,0,220 of Borg,Kathmandu,"Undid revision 654008203 by [[Special:Contributions/Sagun Parajuli|Sagun Parajuli]] ([[User talk:Sagun Parajuli|talk]]) restore content, Note: deceptive edit summary"
+2023-07-13T03:14:42+00:00,1165119155,1165119085,0,2400:1A00:BDE0:A7CB:F98B:E152:75CE:BF2A,Kathmandu–Terai Expressway,
+2018-05-04T11:38:35+00:00,839586906,839579190,0,Gronk Oz,Koshi Highway,"clean up, [[WP:AWB/T|typo(s) fixed]]: 390 KM → 390&nbsp;km using [[Project:AWB|AWB]]"
+2021-02-02T18:16:07+00:00,1004459519,1004458145,0,2601:188:180:B8E0:65F5:930C:B0B2:CD63,Koshi Province,"rv edit warring, vandalism and not a reliable account"
+2016-04-12T20:47:18+00:00,714955050,713365746,0,The Anomebot2,Koshi Province,Adding geodata: {{coord missing|Nepal}}
+2021-05-06T04:40:26+00:00,1021693525,1019041090,0,FrescoBot,Koshi Province,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2022-07-18T17:36:17+00:00,1099031470,1098411034,0,P199,Koshi Province,Reverted edits by [[Special:Contribs/2A02:908:2118:F680:B96C:B449:79A0:3D75|2A02:908:2118:F680:B96C:B449:79A0:3D75]] ([[User talk:2A02:908:2118:F680:B96C:B449:79A0:3D75|talk]]) to last version by Rai504089
+2023-09-08T23:44:54+00:00,1174519999,1172945498,0,FrescoBot,Koshi Province,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2022-02-02T00:02:06+00:00,1069369215,1069277442,0,CedeTheBees,Koshi Province,"Replaces the slashes with commas and ""and"". It just reads better."
+2022-12-31T22:49:44+00:00,1130777904,1130037275,0,Loriendrew,Koshi Province,/* Language */ rm hatnote (no target article)
+2013-03-15T20:00:58+00:00,544452197,514874328,0,Addbot,Lipulekh Pass,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q6557246]]"
+2023-02-09T14:15:47+00:00,1138404967,1138400056,0,PritongKandule,Lipulekh Pass,Reverting edit(s) by [[Special:Contributions/49.126.34.250|49.126.34.250]] ([[User_talk:49.126.34.250|talk]]) to rev. 1135205285 by 74.14.42.157: non-constructive [[w:en:WP:RW|(RW 16.1)]]
+2023-09-30T20:59:13+00:00,1177974737,1177974446,0,Rupsagar Gautam,Lipulekh Pass,
+2016-11-15T11:08:35+00:00,749627952,749627372,0,Jim1138,Lipulekh Pass,Reverted edits by [[Special:Contributions/59.95.91.113|59.95.91.113]] ([[User talk:59.95.91.113|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.1.22)
+2021-12-24T07:57:24+00:00,1061832829,1048265109,0,49.248.100.63,Lipulekh Pass,
+2019-08-06T03:41:15+00:00,909552172,880107102,0,BobKilcoyne,Lipulekh Pass,Revised wording
+2016-05-28T21:53:28+00:00,722551364,716754419,0,Nocowardsoulismine,Lipulekh Pass,removed [[Category:Pithoragarh]]; added [[Category:Geography of Pithoragarh district]] using [[WP:HC|HotCat]]
+2018-02-07T03:36:36+00:00,824405987,824405961,0,Zanhe,Lipulekh Pass,bracket
+2023-07-22T10:40:17+00:00,1166560613,1163366620,0,119.74.238.54,Lipulekh Pass,"1 Added: ""Old Lipulekh Peak''' or '''Old Lipulekh Pass""
+2. Mount Kailash viewing points added
+3. Clarity about who holds & counter-claims kalapani territory added.
+
+With couple of sentences copied from the [[Om Parvat]]."
+2018-06-28T16:13:39+00:00,847908038,847900951,0,Ohnoitsjamie,Lipulekh Pass,please discuss on talk page; restoring to pre-dispute version
+2014-10-23T10:24:57+00:00,630774448,599218383,0,49.244.237.208,List of roads in Nepal,/* National Highways */
+2013-12-24T21:44:15+00:00,587563445,575366591,0,FrescoBot,List of roads in Nepal,Bot: [[Wikipedia:Manual of Style/Layout#Standard appendices and footers|standard sections headers]] and minor changes
+2015-08-12T10:10:29+00:00,675733729,644359457,0,116.66.198.10,List of roads in Nepal,/* National Highways */
+2013-04-08T23:38:48+00:00,549417721,549417622,0,Mkg just4u,List of roads in Nepal,Undid revision 549417622 by [[Special:Contributions/Mkg just4u|Mkg just4u]] ([[User talk:Mkg just4u|talk]])
+2023-11-16T03:51:15+00:00,1185347043,1184596463,0,2404:7C00:44:ABE3:1445:668C:9BA4:D8D4,List of roads in Nepal,
+2016-03-11T02:47:36+00:00,709466001,705114849,0,Yogendra rasha,List of roads in Nepal,/* National Highways */
+2013-10-02T00:32:32+00:00,575366591,575366162,0,Mkg just4u,List of roads in Nepal,
+2016-07-20T15:59:31+00:00,730675750,723006728,0,202.166.205.45,List of roads in Nepal,/* Feeder Roads */
+2021-02-28T09:02:58+00:00,1009386625,1009241659,0,202.79.47.122,List of roads in Nepal,/* National Highways */
+2023-11-11T12:04:36+00:00,1184596463,1184594870,0,49.244.136.85,List of roads in Nepal,/* National Highway */
+2013-06-19T12:46:55+00:00,560600127,549417721,0,49.244.118.11,List of roads in Nepal,/* National Highways */
+2019-02-09T15:03:44+00:00,882499104,874107820,0,49.244.176.63,List of roads in Nepal,some records of highway
+2012-08-31T13:12:04+00:00,510108224,496403035,0,49.244.143.207,List of universities in Nepal,
+2022-02-07T16:58:26+00:00,1070472537,1070472451,0,2400:1A00:B020:E3BC:B1F8:F5FB:FAFD:5BDD,List of universities in Nepal,/* Management colleges */
+2011-11-20T13:51:35+00:00,461595010,459024990,0,182.50.64.66,List of universities in Nepal,
+2016-09-16T22:16:48+00:00,739773685,739748116,0,DanielRigal,List of universities in Nepal,don't need a reference for an entry with an article. also a bit of copyedit but a lot more is needed
+2020-01-02T01:54:47+00:00,933611604,930424617,0,110.44.125.162,List of universities in Nepal,/* A-Level colleges */
+2013-09-11T12:28:32+00:00,572478300,549373399,0,113.199.183.51,List of universities in Nepal,
+2016-11-22T22:33:35+00:00,751025909,744100973,0,Pocketthis,Long-exposure photography,/* Night photography */ added twilight photo
+2015-07-10T07:37:30+00:00,670794995,665566254,0,Orenburg1,Long-exposure photography,sp
+2015-02-15T21:18:42+00:00,647295614,645520983,0,JLeditor,Long-exposure photography,
+2018-02-07T10:53:02+00:00,824443289,818809317,0,Iridescent,Long-exposure photography,"[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: 20 second → 20-second (3) using [[Project:AWB|AWB]]"
+2014-12-08T12:40:29+00:00,637159733,612087570,0,Trappist the monk,Long-exposure photography,/* Solargraphy */Remove redundant |year= parameter from CS1 citations; using [[Project:AWB|AWB]]
+2017-03-11T11:00:57+00:00,769741694,769703475,0,Damien2016,Madhesh Province,No such name is used
+2020-01-06T11:21:04+00:00,934412034,934401900,0,Ymblanter,Madhesh Province,+ short description
+2015-02-23T22:05:59+00:00,648540458,640409347,0,36.253.241.201,Mahendra Highway,/* Overview */
+2017-07-05T23:34:26+00:00,789198031,789197834,0,122.150.111.243,Mahendra Highway,
+2011-12-23T16:33:39+00:00,467359555,465569439,0,Pepper,Mahendra Highway,"change length from http://sajha.com/sajha/html/index.cfm?threadid=63040, and because of significant digits, the template is displaying 1000km as 1000 mi"
+2011-06-30T02:26:26+00:00,436970796,432235383,0,Chandan Guha,Mahendra Highway,/* Kankarbhitta to Hetauda */
+2024-04-11T06:12:06+00:00,1218352567,1201848999,0,A.sav,Mahendra Highway,clean up
+2012-10-03T19:41:18+00:00,515845289,508720105,0,99.108.189.142,Mahendra Highway,
+2013-04-08T09:41:05+00:00,549298267,544979161,0,SabinJoshi,Mahendra Highway,Trishuli river meets the Kaligandaki river at Devghat. (not Devighat)
+2016-02-20T13:08:30+00:00,705940400,705895381,0,Ascii002,Mahendra Highway,Undid revision 705895381 by [[Special:Contributions/8.37.225.123|8.37.225.123]] ([[User talk:8.37.225.123|talk]]) : reference???
+2014-08-11T00:51:32+00:00,620706040,618106623,0,Ascii002,Mahendra Highway,Redirected here
+2016-06-22T09:31:07+00:00,726460405,726460070,0,202.52.247.60,Mahendra Highway,
+2015-05-02T12:26:08+00:00,660418397,660410903,0,Shyamsunder,Mahendra Highway,removed [[Category:Kingdom of Nepal]]; added [[Category:History of Nepal (1951–2008)]] using [[WP:HC|HotCat]]
+2016-09-22T12:32:43+00:00,740655705,739918342,0,Bender the Bot,Mahendra Highway,http&rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]
+2020-01-22T22:31:56+00:00,937094127,932948271,0,Evrik,Mahendra Highway,/* Mechinagar (Kakarbhitta) to Hetauda */
+2014-07-23T10:59:02+00:00,618106623,599218191,0,Uviraj,Mahendra Highway,
+2013-07-26T08:04:16+00:00,565861756,564117527,0,PhnomPencil,Mahendra Highway,"Disambiguating [[Bharatpur]], [[WP:AWB/T|typos fixed]]: birth-place → birthplace using [[Project:AWB|AWB]]"
+2020-07-17T21:24:31+00:00,968200778,957335872,0,Frietjes,Mechi Bridge,update template syntax
+2024-02-21T02:47:40+00:00,1209270516,1165274063,0,JJMC89,Mechi Multiple Campus,[[WP:NFC#UUI]]#17
+2016-06-01T02:10:19+00:00,723109552,723109210,0,Nitesh Raja Nepal,Mechinagar Municipality,Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check Spelling check
+2022-02-08T15:11:38+00:00,1070649920,1054531476,0,Kirankhanalleo,Mechinagar Municipality,/* Demography */
+2022-10-21T02:16:23+00:00,1117318498,1117029016,0,2400:1A00:BD20:EC98:4845:AC3E:3D93:170A,Mechinagar Municipality,
+2022-08-10T04:56:24+00:00,1103573959,1103573449,0,Harrison Fordham,Mechinagar Municipality,
+2011-04-20T07:36:23+00:00,424986129,424000857,0,LADave,Mechinagar Municipality,
+2016-05-31T07:45:23+00:00,722978518,717161114,0,103.235.198.161,Mechinagar Municipality,
+2017-11-18T17:10:30+00:00,810966038,810427390,0,36.252.117.253,Mechinagar Municipality,/* Origin */ Jyamirgadhi
+2017-03-02T03:21:39+00:00,768154821,768022565,0,The Eloquent Peasant,Mechinagar Municipality,Spelling/grammar correction
+2015-02-18T01:45:50+00:00,647643379,647557829,0,Deor,Mechinagar Municipality,tweak coords; rm redundant {{coord}}
+2014-10-30T17:01:42+00:00,631773429,603330302,0,Tarabhattarai,Mechinagar Municipality,Fixed typo
+2013-02-26T16:17:43+00:00,540665252,524452939,0,Addbot,Mechinagar Municipality,"[[User:Addbot|Bot:]] Migrating 6 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1520560]] ([[User talk:Addbot|Report Errors]])"
+2011-06-09T08:45:57+00:00,433355662,430123944,0,Sundar1,Mechinagar Municipality,
+2014-11-17T11:47:15+00:00,634210360,632035975,0,BattyBot,Ministry of Home Affairs (Nepal),"[[WP:AWB/GF|General fixes]], removed orphan tag using [[Project:AWB|AWB]] (10486)"
+2022-11-10T14:06:36+00:00,1121099583,1120353699,0,Yeti Dai,Ministry of Home Affairs (Nepal),emblem
+2021-01-17T10:17:20+00:00,1000915308,999048286,0,Mo11vss,Ministry of Home Affairs (Nepal),
+2016-08-04T18:18:24+00:00,733002173,695898425,0,27.34.98.240,Ministry of Home Affairs (Nepal),
+2014-12-23T11:39:51+00:00,639323042,639282831,0,TheWombatGuru,Module talk:Infobox road/color,/* Template-protected edit request on 16 December 2014 */
+2018-10-28T07:59:33+00:00,866102549,864449395,0,113.199.215.127,Nijgadh International Airport,
+2022-08-08T19:50:34+00:00,1103204498,1102415619,0,77.169.189.99,Nepal Super League,See Soccerway.
+2023-07-06T08:05:43+00:00,1163724050,1163710107,0,Achmad Rachmani,Postal Highway,Date error
+2010-01-11T20:40:02+00:00,337248545,326078700,0,Xqbot,Prime Minister of Nepal,Robot: Fixing double redirect to [[List of Prime Ministers of Nepal]]
+2015-07-17T02:43:42+00:00,671800279,671741101,0,Niceguyedc,Prithvi Highway,[[:en:WP:CLEANER|WPCleaner]] v1.36 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Nepalese]]
+2013-01-19T13:01:59+00:00,533840612,520691931,0,Sundar1,Prithvi Highway,/* Route */ remove info for gorkha - no business here
+2011-11-29T22:47:26+00:00,463187848,463187613,0,96.248.224.167,Prithvi Highway,/* References */
+2019-06-20T15:27:37+00:00,902690556,880096205,0,Elfabet,Pushpalal Highway,c/e as found by [[wp:Typo_Team/moss]]
+2018-06-06T20:56:25+00:00,844740958,844739719,0,RetroCraft314,Rapti Highway,disambiguate link
+2018-03-15T05:32:58+00:00,830497646,822552943,0,43.245.95.146,Rijal (surname),
+2018-04-22T19:31:55+00:00,837744377,837660160,0,Bamyers99,Rijal (surname),Undid revision 837660160 by [[Special:Contributions/223.184.196.62|223.184.196.62]] ([[User talk:223.184.196.62|talk]])
+2013-02-17T07:27:23+00:00,538681725,521953090,0,27.34.66.134,Ring Road (Kathmandu),
+2017-08-01T07:03:46+00:00,793353395,762824454,0,202.51.76.52,Ring Road (Kathmandu),
+2018-09-08T09:40:17+00:00,858599352,855684288,0,Sam Sailor,Road signs in Nepal,Looks like last good before unexplained edits
+2017-02-28T00:33:26+00:00,767795694,621708814,0,61.19.78.66,Road signs in Nepal,/* Other signs */
+2023-01-12T11:18:25+00:00,1133133794,1125673537,0,Stylez995,Road signs in Nepal,/* Warning signs */ Add missing space
+2012-09-19T16:59:38+00:00,513560631,513560398,0,Fry1989,Road signs in Nepal,relist
+2017-12-01T09:32:59+00:00,813031592,812872581,0,108.41.57.80,Sathya Sai Baba,Removed bias
+2019-03-18T09:21:22+00:00,888310419,888022656,0,2405:204:A702:A712:0:0:888:50A5,Sathya Sai Baba,/* Early life */
+2020-09-21T10:00:13+00:00,979541571,979541502,0,Synoman Barris,Sathya Sai Baba,Reverted edits by [[Special:Contribs/Krishan9119|Krishan9119]] ([[User talk:Krishan9119|talk]]) to last version by Citation bot
+2017-02-27T14:08:28+00:00,767708472,767708116,0,Ashmoo,Sathya Sai Baba,"/* Death */ primary source, not notable (the list isn't mentioned anywhere except watkins own site and a single skeptical personal website)."
+2013-10-20T09:35:19+00:00,577954290,577400558,0,101.63.129.187,Sathya Sai Baba,/* Proclamation */
+2019-11-05T18:13:42+00:00,924745764,923596459,0,Rich Farmbrough,Sathya Sai Baba,Cite cleanup
+2022-06-24T23:39:47+00:00,1094859022,1094607246,0,LouisAragon,South Asia,[[WP:GF]]; I dont think that's correct to add
+2011-12-14T05:01:11+00:00,465764304,465751331,0,TopGun,South Asia,Undid revision 465751331 by [[Special:Contributions/71.202.1.48|71.202.1.48]] ([[User talk:71.202.1.48|talk]]) - unexplained removal of content.
+2015-09-06T22:39:46+00:00,679810398,679805017,0,फ़िलप्रो,South Asia,Undid revision 679805017 by [[Special:Contributions/RegentsPark|RegentsPark]] ([[User talk:RegentsPark|talk]])Not a valid reason.
+2013-07-01T07:51:25+00:00,562360261,562085319,0,Nikhilmn2002,South Asia,
+2021-01-19T23:08:39+00:00,1001493658,1001481916,0,Xerxes1985,South Asia,"Per previous consensus, note was removed without anybody noticing"
+2018-08-28T16:24:24+00:00,856956520,856956445,0,Gilliam,South Asia,Reverted edits by [[Special:Contribs/37.200.183.148|37.200.183.148]] ([[User talk:37.200.183.148|talk]]) to last version by MONGO
+2013-06-02T06:31:43+00:00,557936005,432464076,0,Wisie,Talk:Long-exposure photography,
+2015-10-08T14:23:34+00:00,684746854,684244117,0,SpacemanSpiff,Template:Highways in India,Reverted edits by [[Special:Contribs/Ravikiran singh|Ravikiran singh]] ([[User talk:Ravikiran singh|talk]]) to last version by Imzadi1979
+2020-04-01T14:29:22+00:00,948523426,946564199,0,Vatsmaxed,Template:Highways in India,consistency in names
+2011-05-03T14:52:14+00:00,427243295,426239468,0,Mrceleb2007,Template:Highways in India,
+2012-03-12T08:37:50+00:00,481482725,481045696,0,Amartyabag,Template:Highways in India,[[Belghoria Expressway]]
+2014-03-14T00:51:18+00:00,599516673,541028543,0,96.248.226.224,Template:Highways in Nepal,
+2019-07-30T00:56:46+00:00,908483847,897351298,0,Northamerica1000,Template:Highways in Nepal,+port
+2014-03-23T08:43:49+00:00,600850318,600849887,0,Nirinsanity,Template:Infobox road/doc/type,/* India */ Adding data.
+2012-01-03T21:52:50+00:00,469400811,469249921,0,Floydian,Template:Infobox road/doc/type,add a fairly good list of types
+2017-10-28T08:17:00+00:00,807488631,780183468,0,Hushskyliner,Template:Infobox road/doc/type,/* Philippines */
+2019-05-02T03:32:41+00:00,895119308,828736000,0,Anomalocaris,Template:Infobox road/doc/type,unfoster content by removing spurious colon
+2021-12-22T23:16:43+00:00,1061638772,1055266393,0,Frietjes,Template:Jhapa District,
+2013-06-02T02:29:21+00:00,557913748,553537099,0,EmausBot,Template:Jhapa District,"Bot: Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:Q13413187]]"
+2015-08-01T21:26:50+00:00,674131329,673430840,0,Utcursch,Template:Jhapa District,fix ink
+2021-05-29T03:32:31+00:00,1025714000,1022945300,0,103.94.255.58,Terai,/* Geography */
+2023-07-14T09:44:46+00:00,1165305233,1144829752,0,Bruce1ee,Template:Jhapa District,fixed [[Special:LintErrors|lint errors]] – stripped tags
+2022-08-03T03:31:31+00:00,1102045162,1100537436,0,Headbomb,Terai,ce
+2021-03-22T01:40:38+00:00,1013520914,1013520715,0,2601:246:4D7F:48BE:413B:9C:52AF:885A,Terai,
+2011-08-11T18:57:15+00:00,444310478,442856317,0,Lightbot,Transport in Nepal,/* Highways */mostly units
+2011-05-22T20:35:03+00:00,430403690,415807410,0,Bobrayner,Transport in Nepal,removed [[WP:ELNEVER]]
+2013-02-22T17:01:59+00:00,539698280,501193157,0,Klemen Kocjancic,Transport in Nepal,Added {{[[Template:lead missing|lead missing]]}} tag to article ([[WP:TW|TW]])
+2015-12-24T09:49:45+00:00,696612759,696612620,0,Materialscientist,Transport in Nepal,rvt further
+2014-02-05T12:35:09+00:00,594038247,566116656,0,FrescoBot,Tribhuvan Highway,Bot: [[User:FrescoBot/Links|link syntax/spacing]]
+2016-11-17T09:21:40+00:00,750008103,741254855,0,Maharjanjen,Tribhuvan Highway,
+2011-05-01T22:22:47+00:00,426963514,418456616,0,Avashnirvana,Tribhuvan Highway,/* Route */
+2011-09-20T06:55:30+00:00,451459538,434689487,0,Od Mishehu AWB,Tribhuvan Highway,[[Wikipedia:WikiProject Stub sorting|stub sorting]]: {{[[template:Nepal-transport-stub|Nepal-transport-stub]]}} using [[Project:AWB|AWB]]
+2012-10-10T17:37:36+00:00,517038506,451459538,0,Karrattul,Tribhuvan Highway,cat
+2017-05-29T19:37:40+00:00,782878507,782878148,0,2405:204:808B:11CE:0:0:184:68A5,Tribhuvan Highway,Misleading correction
+2017-07-31T09:19:47+00:00,793206947,793206848,0,27.34.17.129,Tribhuvan University,/* Organization */
+2021-09-23T17:57:10+00:00,1046047747,1045004134,0,Googswiki,Tribhuvan University,/* Notable alumni */ added link to Sushma Shakya
+2020-09-04T06:10:10+00:00,976653526,976652472,0,110.34.0.206,Tribhuvan University,/* Rankings */
+2020-10-21T01:25:45+00:00,984605782,984003214,0,Northamerica1000,Tribhuvan University,/* References */ +{{portal|Nepal}} bar
+2023-03-05T14:48:43+00:00,1143025380,1141906248,0,SanjogAdhikari,Tribhuvan University,
+2024-01-24T01:31:33+00:00,1198404093,1196040902,0,Uhooep,Tribhuvan University,/* Notable alumni */ physicists
+2012-01-06T10:15:37+00:00,469876824,467945225,0,97.92.4.140,Tribhuvan University,"Student body size in opening paragraph changed to match number in infobox; discrepancy appears to have been a typo, because the numbers were similar except for one digit."
+2014-06-12T20:25:20+00:00,612679766,612542328,0,Zachary5050,Tribhuvan University,
+2024-03-12T01:25:44+00:00,1213273030,1213272800,0,Salyani.45,Tribhuvan University,I have added Free student union at Tribhuvan University
+2023-04-17T04:17:19+00:00,1150260501,1150260466,0,Arimaboss,Tribhuvan University,/* Notable alumni */
+2021-07-02T20:05:04+00:00,1031642147,1030971718,0,NuttMerg,Tribhuvan University,Grammar and flow corrections for the intro section
+2011-06-10T14:04:09+00:00,433559018,433552441,0,Bill william compton,Tribhuvan University,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Amnexia|Amnexia]] ([[User talk:Amnexia|talk]]) to last version by Bill william compton
+2020-11-26T23:32:31+00:00,990866233,990804096,0,Russ Woodroofe,Tribhuvan University,Undid revision 990804096 by [[Special:Contributions/45.132.73.16|45.132.73.16]] ([[User talk:45.132.73.16|talk]]).  External links should generally not go in the main text.
+2020-12-22T13:42:20+00:00,995708422,995708285,0,CLCStudent,Tribhuvan University,no emails please
+2023-10-16T10:53:59+00:00,1180395539,1180395508,0,Franked2004,Tribhuvan University,
+2013-09-09T10:41:18+00:00,572172418,572172219,0,Pbdhakal,Tribhuvan University,Removed unrelated content from the introduction of Tribhuvan University
+2023-01-18T23:37:42+00:00,1134489583,1134489392,0,Silikonz,Vehicle registration plates of Nepal,shortdesc
+2023-09-04T17:49:20+00:00,1173831913,1173528943,0,GünniX,Vehicle registration plates of Nepal,rv
+2019-12-29T09:59:01+00:00,932987853,916351312,0,7firebolt,Vehicle registration plates of Nepal,/* Classification of vehicles */
+2013-07-02T21:04:24+00:00,562599987,549497079,0,Qwertyus,Vehicle registration plates of Nepal,Disambiguated: [[crane]] → [[crane (machine)]]
+2017-01-05T15:52:13+00:00,758460288,756856845,0,139.5.68.50,Vehicle registration plates of Nepal,/* Tourist */
+2014-12-28T03:24:08+00:00,639896081,633970006,0,Akashgiri35,Vehicle registration plates of Nepal,
+2022-08-09T10:04:00+00:00,1103360489,1103359185,0,Inncredible Sam,Vehicle registration plates of Nepal,/* 2020-Present */

@@ -1,0 +1,11 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-04-08T17:28:02+00:00,1016710501,1016211382,1,Alligator_tamer,GOES-16,/* Construction */
+2021-04-08T16:48:11+00:00,1016703391,1016634263,1,Alligator_tamer,Husayn Fawzi Alnajjar,some important stuff
+2021-04-08T17:28:57+00:00,1016710662,1016710513,1,Aligator_tamer1,GOES-17,/* Operations */
+2021-04-08T17:26:57+00:00,1016710315,1008135077,1,Aligator_tamer1,GOES-17,/* Operations */
+2021-02-21T19:16:00+00:00,1008135077,1003074711,0,SporkBot,GOES-17,Repair or remove missing or deleted templates
+2021-04-05T23:53:32+00:00,1016211382,1007828122,0,Tom.Reding,GOES-16,Remove rendered gap(s) in {{Nav}}-block by moving non-{{Nav}}s outside; general cleanup & [[WP:GenFixes]] on
+2021-04-08T16:48:15+00:00,1016703404,1016703391,0,ClueBot NG,Husayn Fawzi Alnajjar,"Reverting possible vandalism by [[Special:Contribs/Alligator tamer|Alligator tamer]] to version by Wiki Articler. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3942933) (Bot)"
+2021-02-20T03:40:07+00:00,1007828122,1003074755,0,Citation bot,GOES-16,"Alter: last10, first10. Add: work, bibcode, s2cid, authors 1-10. editors 1-4. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Wikipedia articles incorporating text from NASA‎]] | via #UCB_Category 439/599"
+2020-11-28T08:40:07+00:00,991106883,945197999,0,Citation bot,Husayn Fawzi Alnajjar,"Alter: url. URLs might have been internationalized/anonymized. Add: isbn, year. Upgrade ISBN10 to ISBN13. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox2 | via #UCB_webform_linked 1886/3818"
+2021-04-04T19:46:44+00:00,1015991535,1015841008,0,Mkamrath,Husayn Fawzi Alnajjar,minor grammar

@@ -1,0 +1,999 @@
+timestamp,revid,parentid,sock,user,page,message
+2020-09-02T17:08:50+00:00,976386544,976385307,1,BeaglePower,ECW model,/* E and C equation */
+2020-09-02T17:01:19+00:00,976385307,976328568,1,BeaglePower,ECW model,/* E and C equation */ Added Wikipedia reference to adducts
+2020-08-31T20:27:33+00:00,976034172,976034080,1,BeaglePower,ECW model,/* E and C equation */
+2020-08-31T20:27:00+00:00,976034080,975797530,1,BeaglePower,ECW model,/* E and C equation */ Added DOI to two references.
+2020-08-30T13:31:30+00:00,975797530,975601051,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */ Changed the format of reference.
+2020-08-22T20:10:16+00:00,974401059,973717856,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */ Add ICl Wikipedia reference.
+2020-08-15T01:20:17+00:00,973033391,969548414,1,BeaglePower,Diethyl ether,/* Laboratory uses */ Added Lewis base properties.
+2020-07-14T12:27:20+00:00,967641199,967534288,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */add pyrrole
+2020-07-05T19:04:15+00:00,966211235,963422061,1,BeaglePower,Pyridine,/* Lewis basicity and coordination compounds */
+2020-07-05T18:46:41+00:00,966208813,966208729,1,BeaglePower,Quinuclidine,
+2020-07-05T18:46:04+00:00,966208729,915069751,1,BeaglePower,Quinuclidine,Lewis base property added.
+2020-07-03T11:29:05+00:00,965782189,965720006,1,BeaglePower,Hexafluoroacetylacetone,Fix subscript n
+2020-06-30T14:02:00+00:00,965292066,964792657,1,BeaglePower,ECW model,/* ECW model */added reference to Boron trifluoride etherate
+2020-06-27T13:59:32+00:00,964772273,964770392,1,BeaglePower,ECW model,/* E and C equation */
+2020-06-27T13:44:21+00:00,964770392,963734948,1,BeaglePower,ECW model,/* E and C equation */Added Wikipedia references for enthalpy and entropy.
+2020-06-23T16:52:45+00:00,964107703,960543947,1,BeaglePower,Ammonia,/* Ammonia as a ligand */
+2020-06-23T16:46:41+00:00,964106833,964106635,1,BeaglePower,Dimethyl sulfide,/* Other uses */
+2020-06-23T16:45:27+00:00,964106635,958045710,1,BeaglePower,Dimethyl sulfide,"/* Other uses */""Soft bas""e added"
+2020-06-20T15:59:00+00:00,963577089,944449688,1,BeaglePower,ECW model,/* E and C equation */Reference to iodine added.
+2020-01-11T15:03:06+00:00,935258128,935257805,1,BeaglePower,Acid–base reaction,/* ECW model */
+2020-01-11T15:00:16+00:00,935257805,926299065,1,BeaglePower,Acid–base reaction,/* ECW model */
+2019-08-24T01:16:46+00:00,912218688,902761011,1,BeaglePower,ECW model,/* See also */Add Bio of creator of ECW model
+2019-08-24T01:01:22+00:00,912217316,908805777,1,BeaglePower,HSAB theory,/* See also */
+2019-06-20T20:25:45+00:00,902726813,902725810,1,BeaglePower,ECW model,/* Note */
+2019-06-20T20:17:02+00:00,902725810,902725689,1,BeaglePower,ECW model,/* A graphical presentation of the ECW model */
+2019-06-20T20:16:01+00:00,902725689,902725523,1,BeaglePower,ECW model,
+2019-06-20T20:14:37+00:00,902725523,902724506,1,BeaglePower,ECW model,/* A graphical presentation of the ECW model */
+2019-06-20T20:05:46+00:00,902724506,902724450,1,BeaglePower,ECW model,
+2019-06-20T20:05:16+00:00,902724450,902686179,1,BeaglePower,ECW model,/* A graphical presentation of the ECW model */
+2019-06-20T14:55:01+00:00,902686179,902677532,1,BeaglePower,ECW model,/* A graphical presentation of the ECW model */
+2019-06-20T13:48:09+00:00,902677532,902675662,1,BeaglePower,ECW model,/* A graphical presentation of the ECW model */
+2019-06-20T13:33:45+00:00,902675662,893600110,1,BeaglePower,ECW model,/* A graphical presentation of the ECW model */
+2018-07-08T19:17:06+00:00,849403317,846739221,1,BeaglePower,HSAB theory,/* Modifications */ correct reference
+2018-05-15T21:47:36+00:00,841443471,841405937,1,BeaglePower,Ithaca College,/* Alumni */
+2018-05-15T21:44:47+00:00,841443121,841405586,1,BeaglePower,List of Ithaca College alumni,
+2018-05-15T17:08:30+00:00,841405937,841404202,1,BeaglePower,Ithaca College,/* Alumni */
+2018-05-15T17:06:01+00:00,841405586,841404549,1,BeaglePower,List of Ithaca College alumni,/* Scientists and engineers */
+2018-05-15T16:59:18+00:00,841404549,841403195,1,BeaglePower,List of Ithaca College alumni,/* Scientists and engineers */
+2018-05-15T16:56:47+00:00,841404202,841403461,1,BeaglePower,Ithaca College,/* Alumni */
+2018-05-15T16:51:41+00:00,841403461,837918151,1,BeaglePower,Ithaca College,/* Alumni */
+2018-05-15T16:49:45+00:00,841403195,841402977,1,BeaglePower,List of Ithaca College alumni,/* Scientists and engineers */
+2018-05-15T16:48:13+00:00,841402977,838707460,1,BeaglePower,List of Ithaca College alumni,/* Scientists and engineers */
+2018-04-29T14:54:37+00:00,838826790,831140493,1,BeaglePower,ECW model,/* A Graphical Presentation of the ECW model */ corrected reference numbers
+2018-02-05T20:55:34+00:00,824186054,821460220,1,BeaglePower,ECW model,/* A Graphical Presentation of the ECW model */ correct an Ra number in the plot paragraph
+2018-01-20T16:33:57+00:00,821460220,820658370,1,BeaglePower,ECW model,/* E and C equation */
+2018-01-15T21:56:26+00:00,820658370,808554890,1,BeaglePower,ECW model,/* E and C equation */
+2017-09-25T18:39:23+00:00,802366765,799116936,1,BeaglePower,ECW model,/* E and C equation */ complete the reference
+2017-08-14T00:17:01+00:00,795398071,795331346,1,BeaglePower,ECW model,Adding to the organization suggested by Golfpro
+2017-08-09T17:46:20+00:00,794721021,794720923,1,BeaglePower,ECW model,/* E and C equation */
+2017-08-09T17:45:37+00:00,794720923,793866175,1,BeaglePower,ECW model,/* E and C equation */  clarification on how parameters have been empirically obtained
+2017-08-04T12:28:58+00:00,793866175,792672629,1,BeaglePower,ECW model,C-B plot has beenadded.
+2017-07-31T02:20:27+00:00,793169045,792599407,1,BeaglePower,User talk:BeaglePower,/* Preliminary apology */
+2017-07-27T22:08:38+00:00,792669938,792669660,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */
+2017-07-27T22:06:06+00:00,792669660,792669326,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */
+2017-07-27T22:03:06+00:00,792669326,792390908,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */
+2017-07-27T13:32:26+00:00,792599407,792441468,1,BeaglePower,User talk:BeaglePower,/* Preliminary apology */
+2017-07-25T19:24:22+00:00,792305059,792302963,1,BeaglePower,User talk:BeaglePower,/* Preliminary apology */
+2017-07-25T19:07:14+00:00,792303038,792302940,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */
+2017-07-25T19:06:22+00:00,792302940,792297123,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */
+2017-07-25T18:37:28+00:00,792299344,792298817,1,BeaglePower,User talk:BeaglePower,/* Preliminary apology */
+2017-07-25T18:33:02+00:00,792298817,792297746,1,BeaglePower,User talk:BeaglePower,/* Preliminary apology */
+2017-07-25T17:50:21+00:00,792292866,792290886,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */
+2017-07-25T17:43:05+00:00,792291852,792288336,1,BeaglePower,Lewis acids and bases,/* There is no single order of Lewis base strengths */
+2017-07-25T17:36:24+00:00,792290886,792290103,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */
+2017-07-25T17:30:20+00:00,792290103,792289886,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */
+2017-07-25T17:28:39+00:00,792289886,787291986,1,BeaglePower,ECW model,/* Other aspects and extensions of the ECW model */
+2017-07-25T17:16:00+00:00,792288336,790517576,1,BeaglePower,Lewis acids and bases,
+2017-07-25T15:04:31+00:00,792269214,792269143,1,BeaglePower,Wikipedia:WikiProject Articles for creation/Help desk,"/* 14:58:03, 25 July 2017 review of submission by BeaglePower */"
+2017-07-25T15:04:04+00:00,792269143,792268533,1,BeaglePower,Wikipedia:WikiProject Articles for creation/Help desk,"/* 14:58:03, 25 July 2017 review of submission by BeaglePower */"
+2017-07-25T14:59:50+00:00,792268533,792268318,1,BeaglePower,Wikipedia:WikiProject Articles for creation/Help desk,"/* 14:58:03, 25 July 2017 review of submission by BeaglePower */"
+2017-07-25T14:58:04+00:00,792268318,792247996,1,BeaglePower,Wikipedia:WikiProject Articles for creation/Help desk,
+2017-07-25T14:15:49+00:00,792263259,792263174,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",/* A Visual Definition of Lewis Acid and Base Strengths */
+2017-07-25T14:14:46+00:00,792263174,792262944,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",/* A Visual Definition of Lewis Acid and Base Strengths */
+2017-07-25T14:12:28+00:00,792262944,792118513,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",/* A Visual Definition of Acid and Base Strengths */
+2017-07-24T15:42:08+00:00,792118513,792117736,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",/* A Visual Definition of Acid and Base Strengths */
+2017-07-24T15:35:20+00:00,792117736,792117166,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",/* A Visual Definition of Acid and Base Strengths */
+2017-07-24T15:30:02+00:00,792117166,792116046,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths","/* A Visual, Graphical Comparison of Acid and Base Strengths */"
+2017-07-24T15:20:20+00:00,792116046,791348905,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",/* A Visual Definition of Acid and Base Strengths  */ new section
+2017-07-19T17:32:56+00:00,791348905,790923432,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths","/* A Visual, Graphical Comparison of Acid and Base Strengths */"
+2017-07-19T15:27:42+00:00,791333508,791333296,1,BeaglePower,User talk:Insertcleverphrasehere,"/* Request on 15:58:24, 14 July 2017 for assistance on AfC submission by BeaglePower */"
+2017-07-19T15:26:05+00:00,791333296,791332069,1,BeaglePower,User talk:Insertcleverphrasehere,"/* Request on 15:58:24, 14 July 2017 for assistance on AfC submission by BeaglePower */"
+2017-07-19T15:16:13+00:00,791332069,791331935,1,BeaglePower,User talk:Insertcleverphrasehere,"/* Request on 15:58:24, 14 July 2017 for assistance on AfC submission by BeaglePower */"
+2017-07-19T15:15:19+00:00,791331935,791241982,1,BeaglePower,User talk:Insertcleverphrasehere,"/* Request on 15:58:24, 14 July 2017 for assistance on AfC submission by BeaglePower */"
+2017-07-17T00:16:40+00:00,790923432,790556153,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths","/* A Visual, Graphical Comparison of Acid and Base Strengths */"
+2017-07-14T15:58:24+00:00,790566908,790558539,1,BeaglePower,User talk:Insertcleverphrasehere,
+2017-07-14T15:43:28+00:00,790564812,790564178,1,BeaglePower,User talk:DrStrauss,/* clarification */
+2017-07-14T15:36:01+00:00,790563784,790563036,1,BeaglePower,User talk:DrStrauss,/* clarification */
+2017-07-14T15:28:41+00:00,790562862,790545798,1,BeaglePower,User talk:DrStrauss,/* clarification */
+2017-07-14T13:28:54+00:00,790548894,790548723,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",
+2017-07-14T13:27:10+00:00,790548723,790548662,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths","/* A Visual, Graphical Comparison of Acid and Base Strengths */"
+2017-07-14T13:26:23+00:00,790548662,790545662,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths","/* A Visual, Graphical Comparison of Acid and Base Strengths */"
+2017-07-14T12:53:24+00:00,790545501,790542645,1,BeaglePower,User talk:DrStrauss,/* clarification */
+2017-07-12T15:58:36+00:00,790259168,790257715,1,BeaglePower,User talk:DrStrauss,/* clarification */
+2017-07-11T17:14:52+00:00,790106593,790104734,1,BeaglePower,User talk:DrStrauss,/* clarification */
+2017-07-11T16:56:57+00:00,790104621,790099279,1,BeaglePower,User talk:DrStrauss,/* clarification */ new section
+2017-07-01T12:51:55+00:00,788447683,788446985,1,BeaglePower,User talk:DrStrauss,
+2017-07-01T12:46:14+00:00,788446985,788443264,1,BeaglePower,User talk:DrStrauss,
+2017-07-01T12:26:07+00:00,788444898,788444240,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths","/* A Visual, Graphical Comparison of Acid and Base Strengths */"
+2017-07-01T12:19:59+00:00,788444240,788443964,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths","/* A Visual, Graphical Comparison of Acid and Base Strengths */"
+2017-07-01T12:17:42+00:00,788443964,787932532,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",
+2017-06-25T02:03:04+00:00,787383566,787289412,1,BeaglePower,Dimethylacetamide,repositioned sentence
+2017-06-24T15:42:25+00:00,787292876,787292739,1,BeaglePower,Trimethyltin chloride,
+2017-06-24T15:41:30+00:00,787292739,769516563,1,BeaglePower,Trimethyltin chloride,added a use
+2017-06-24T15:36:31+00:00,787291986,787291135,1,BeaglePower,ECW model,
+2017-06-24T15:33:06+00:00,787291440,787288604,1,BeaglePower,Diethyl sulfide,moved sentence
+2017-06-24T15:31:02+00:00,787291135,787290376,1,BeaglePower,ECW model,
+2017-06-24T15:26:12+00:00,787290376,784538362,1,BeaglePower,ECW model,/* E and C equation */   added name of chemical
+2017-06-24T15:20:08+00:00,787289412,784176355,1,BeaglePower,Dimethylacetamide,Added a use.
+2017-06-24T15:14:26+00:00,787288604,787288438,1,BeaglePower,Diethyl sulfide,
+2017-06-24T15:13:16+00:00,787288438,753435822,1,BeaglePower,Diethyl sulfide,Add an application of diethyl sufide.
+2017-06-13T12:18:49+00:00,785417261,785300242,1,BeaglePower,User talk:TheSandDoctor,/* Ranking Order of Acid and Base Strengths */ new section
+2017-06-10T12:41:17+00:00,784857880,784857459,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",remove extra period
+2017-06-10T12:39:32+00:00,784857459,784801834,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",correct name of Figure
+2017-06-10T04:08:42+00:00,784801834,784786606,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",Move a sentence
+2017-06-10T01:18:57+00:00,784784662,0,1,BeaglePower,"Draft talk:A Visual, Graphical Comparison of Acid and Base Strengths",[[WP:AES|←]]Created page with 'Use of Cramer-Bopp plots to show that there is no single ranking order of acid or base strength have been discussed in chemistry articles and at least two book....'
+2017-06-10T01:03:47+00:00,784782667,784782475,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",fix missing [[  ]]
+2017-06-10T01:02:24+00:00,784782475,784782076,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",Correct duplication
+2017-06-10T00:59:24+00:00,784782076,784781771,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",
+2017-06-10T00:57:27+00:00,784781771,784781266,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",correcting subscripts
+2017-06-10T00:53:46+00:00,784781266,784780976,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",
+2017-06-10T00:51:31+00:00,784780976,784755092,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",
+2017-06-09T21:53:09+00:00,784755092,784748562,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",
+2017-06-09T21:48:19+00:00,784754293,784553951,1,BeaglePower,User talk:TheSandDoctor,/* New Article. */ new section
+2017-06-09T21:16:46+00:00,784748562,784748156,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",
+2017-06-09T21:14:13+00:00,784748156,784746928,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",
+2017-06-09T21:08:21+00:00,784746928,0,1,BeaglePower,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths","[[WP:AES|←]]Created page with '{{subst:AFC submission/draftnew}}<!-- Important, do not remove this line before article has been created. --> An often overlooked the fact is that there is no si...'"
+2017-06-08T21:32:10+00:00,784538362,784537961,1,BeaglePower,ECW model,correct sign of enthalpy
+2017-06-08T21:29:50+00:00,784537961,784537775,1,BeaglePower,ECW model,Add a space
+2017-06-08T21:28:41+00:00,784537775,784499957,1,BeaglePower,ECW model,
+2017-06-08T17:38:06+00:00,784499957,784499395,1,BeaglePower,ECW model,/* History of the problem */   There is a need for spacing between the chemicals and the -(delta)H s
+2017-06-08T17:33:58+00:00,784499395,784499183,1,BeaglePower,ECW model,/* History of the problem */
+2017-06-08T17:32:34+00:00,784499183,784498956,1,BeaglePower,ECW model,
+2017-06-08T17:31:06+00:00,784498956,784019734,1,BeaglePower,ECW model,
+2017-06-02T02:57:08+00:00,783409113,783408931,1,BeaglePower,ECW model,
+2017-06-02T02:55:10+00:00,783408931,783151824,1,BeaglePower,ECW model,clarification
+2017-05-31T12:42:02+00:00,783151824,783151340,1,BeaglePower,ECW model,added reference to the book of Laurence and Gal
+2017-05-31T12:38:33+00:00,783151340,783151142,1,BeaglePower,ECW model,
+2017-05-31T12:36:40+00:00,783151142,783150415,1,BeaglePower,ECW model,
+2017-05-31T12:29:43+00:00,783150415,782396650,1,BeaglePower,ECW model,
+2017-05-26T19:01:47+00:00,782413084,782404132,1,BeaglePower,Lewis acids and bases,/* There is no single order of Lewis base strengths */
+2017-05-26T17:56:27+00:00,782404132,782403912,1,BeaglePower,Lewis acids and bases,
+2017-05-26T17:54:41+00:00,782403912,782403709,1,BeaglePower,Lewis acids and bases,/* There is no single order of Lewis base strengths */
+2017-05-26T17:52:44+00:00,782403709,782403438,1,BeaglePower,Lewis acids and bases,
+2017-05-26T17:50:19+00:00,782403438,782402755,1,BeaglePower,Lewis acids and bases,
+2017-05-26T17:43:52+00:00,782402755,782402665,1,BeaglePower,Lewis acids and bases,/* There is no single order of Lewis base strengths */
+2017-05-26T17:43:08+00:00,782402665,781103388,1,BeaglePower,Lewis acids and bases,/* Hard and soft classification */
+2017-05-26T16:56:33+00:00,782396650,782245831,1,BeaglePower,ECW model,adjective adjustment
+2017-05-26T14:36:22+00:00,782377883,782314153,1,BeaglePower,User talk:TheSandDoctor,
+2017-05-25T18:52:38+00:00,782245831,782118138,1,BeaglePower,ECW model,
+2017-05-25T18:42:15+00:00,782243589,782168759,1,BeaglePower,Russell S. Drago,/* Contributions */
+2017-05-24T14:17:23+00:00,782020655,782020512,1,BeaglePower,ECW model,spacing
+2017-05-24T14:16:29+00:00,782020512,782016108,1,BeaglePower,ECW model,
+2017-05-24T13:20:09+00:00,782013402,782012519,1,BeaglePower,ECW model,Undid revision 782012519 by [[Special:Contributions/Smokefoot|Smokefoot]] ([[User talk:Smokefoot|talk]])
+2017-05-24T12:02:19+00:00,782004186,782004110,1,BeaglePower,ECW model,
+2017-05-24T12:01:45+00:00,782004110,781944184,1,BeaglePower,ECW model,added needed adjectives
+2017-05-24T02:55:13+00:00,781940230,781939762,1,BeaglePower,ECW model,
+2017-05-24T02:51:34+00:00,781939762,781939164,1,BeaglePower,ECW model,/* The E and C equation */
+2017-05-24T02:46:49+00:00,781939164,781927795,1,BeaglePower,ECW model,/* The E and C equation */   Without this info a hugh errors would be o<ref></ref>curr for anyone trying to use the E and C parameters
+2017-05-24T02:30:13+00:00,781936987,781930991,1,BeaglePower,Wikipedia:Teahouse,/* The ECW Model article */ new section
+2017-05-24T00:11:53+00:00,781919769,781672676,1,BeaglePower,User talk:Devopam,/* We have received comments on our ECW draft article.  Need some clarification. Problems with the changed title. */ new section
+2017-05-24T00:03:42+00:00,781918835,781918310,1,BeaglePower,User talk:Robert McClenon,/* Need comment response for our artcle ECW Model */ new section
+2020-09-06T01:29:53+00:00,976948241,975617983,1,CPstar,User talk:CPstar,/* ECW */
+2020-09-05T18:54:05+00:00,976900429,976631315,1,CPstar,Base (chemistry),/* Lewis bases in non-aqueous solutions */ corrected reference.
+2020-09-05T17:05:26+00:00,976885294,976885237,1,CPstar,ECW model,/* Notes */
+2020-09-05T17:04:56+00:00,976885237,976885133,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */
+2020-09-05T17:04:00+00:00,976885133,976884880,1,CPstar,ECW model,/* Notes */
+2020-09-05T17:01:41+00:00,976884880,976629825,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */
+2020-09-05T14:29:50+00:00,976864275,976864099,1,CPstar,Tetrahydrofuran,/* Laboratory use */
+2020-09-05T14:28:28+00:00,976864099,975798780,1,CPstar,Tetrahydrofuran,/* Laboratory use */ Added Lewis base properties.
+2020-09-02T01:23:19+00:00,976260759,976187195,1,CPstar,Acid,/* Lewis acid strength in non-aqueous solutions */ Added a missing period.
+2020-09-02T01:21:12+00:00,976260444,976259869,1,CPstar,Acid strength,/* Acids in non-aqueous solvents */ Added no one order of acid strengths.
+2020-09-02T01:17:14+00:00,976259869,974504937,1,CPstar,Acid strength,/* Acids in non-aqueous solvents */
+2020-09-02T01:05:11+00:00,976258266,976034172,1,CPstar,ECW model,/* See also */
+2020-09-02T01:00:08+00:00,976257470,976257193,1,CPstar,Adduct,
+2020-09-02T00:57:56+00:00,976257193,862427290,1,CPstar,Adduct,Added more on Lewis acid-base adducts.
+2020-09-01T17:07:16+00:00,976187195,976158822,1,CPstar,Acid,/* Acid strength */  Added Lewis acid strength in non-aqueous solutions.
+2020-09-01T16:59:29+00:00,976186010,966770022,1,CPstar,Base (chemistry),/* Triacidic bases */ Added Lewis in nonaqueous solutions.
+2020-09-01T13:56:34+00:00,976158822,975998157,1,CPstar,Acid,/* Acid strength */ Added Lewis acid strength.
+2020-09-01T12:55:40+00:00,976150793,953659790,1,CPstar,Gutmann–Beckett method,Updated reference.
+2020-08-29T15:52:32+00:00,975629232,975354857,1,CPstar,Trimethylamine,/* Applications */ Added references.
+2020-08-29T15:39:13+00:00,975626456,971382092,1,CPstar,Dimethylamine,/* Occurrence and reactions */ Added Lewis base property.
+2020-08-29T15:02:44+00:00,975619221,975528069,1,CPstar,Dimethylformamide,/* Reactions */ Added reference.
+2020-08-29T14:56:14+00:00,975618293,972767018,1,CPstar,Antimony pentachloride,/* Reactions */ Added references.
+2020-08-29T14:49:31+00:00,975617403,975560172,1,CPstar,Dimethyl sulfoxide,/* Ligand and Lewis base */ Added reference.
+2020-08-29T14:46:04+00:00,975616939,975527067,1,CPstar,Dimethylacetamide,/* Research */ Added reference.
+2020-08-29T14:44:29+00:00,975616708,975527910,1,CPstar,Acetone,/* Lewis base properties */ Added reference
+2020-08-29T14:41:55+00:00,975616357,975527265,1,CPstar,Diethyl sulfide,/* Reactions */
+2020-08-29T14:39:33+00:00,975615998,975488986,1,CPstar,Dimethyl sulfide,/* Other uses */
+2020-08-29T14:36:33+00:00,975615628,975488017,1,CPstar,Ammonia,/* Ammonia as a ligand */ Added references.
+2020-08-29T14:33:59+00:00,975615265,975488757,1,CPstar,Acetonitrile,/* Acetonitrile as an electron pair donor */ Added reference.
+2020-08-29T13:09:10+00:00,975604781,975492097,1,CPstar,Pyridine,/* Lewis basicity and coordination compounds */ Modified reference.
+2020-08-29T13:03:12+00:00,975604093,975533493,1,CPstar,Iodine monochloride,/* Reactions and uses */ Modified reference.
+2020-08-29T12:54:41+00:00,975603185,975529621,1,CPstar,Phenol,/* Hydrogen bonding */ Modified reference.
+2020-08-29T12:48:42+00:00,975602481,975601305,1,CPstar,Iodine,/* Charge-transfer complexes */
+2020-08-29T12:37:18+00:00,975601305,975532620,1,CPstar,Iodine,/* Charge-transfer complexes */
+2020-08-29T12:34:49+00:00,975601051,975599718,1,CPstar,ECW model,/* A graphical presentation of the ECW model */
+2020-08-29T12:22:10+00:00,975599718,975599515,1,CPstar,ECW model,/* A graphical presentation of the ECW model */
+2020-08-29T12:19:54+00:00,975599515,974401059,1,CPstar,ECW model,/* A graphical presentation of the ECW model */ Modified reference.
+2020-08-27T18:39:15+00:00,975279158,967358925,1,CPstar,Phenol,/* Acidity */ Added hydrogen bonding.
+2020-08-27T12:43:07+00:00,975219079,974422557,1,CPstar,Iodine monochloride,/* Reactions and uses */ Added Lewis acid property.
+2020-08-27T12:39:48+00:00,975218764,962716387,1,CPstar,Iodine monobromide,Added Lewis acid property.
+2020-08-24T01:55:29+00:00,974624107,973324583,1,CPstar,Sulfur dioxide,/* Laboratory reactions */ Added Lewis acid property.
+2020-08-22T23:18:45+00:00,974422557,959011237,1,CPstar,Iodine monochloride,/* Reactions and uses */ Added Lewis acid property.
+2020-08-22T12:52:14+00:00,974342841,972577561,1,CPstar,Dimethylformamide,/* Reactions */ Add Lewis are property.
+2020-08-22T01:05:58+00:00,974263292,972477507,1,CPstar,1-Octanol,/* Uses */ Lewis acid property added.
+2020-08-20T03:21:20+00:00,973934380,972458022,1,CPstar,Ammonia,/* Ammonia as a ligand */ Added Lewis base properties.
+2020-08-18T20:46:16+00:00,973717856,971997392,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */ added reference to Pyridine-N-oxide in table
+2020-08-18T02:01:51+00:00,973584426,973105366,1,CPstar,Acetone,/* Laboratory */ add Lewis base properties.
+2020-08-15T19:52:04+00:00,973171889,973118683,1,CPstar,Trimethylaluminium,/* Structure and bonding */ corrected verb.
+2020-08-15T13:25:51+00:00,973118683,973118125,1,CPstar,Trimethylaluminium,/* Structure and bonding */ correct reference doi
+2020-08-15T13:20:39+00:00,973118125,962016754,1,CPstar,Trimethylaluminium,/* Structure and bonding */ Lewis acid properties of AlMe3 added.
+2020-08-13T18:42:09+00:00,972771218,972767748,1,CPstar,Chloroform,/* Lewis acid */
+2020-08-13T18:21:37+00:00,972767748,972591390,1,CPstar,Chloroform,/* Uses */ Added Lewis acid properties.
+2020-08-13T18:17:27+00:00,972767018,972723794,1,CPstar,Antimony pentachloride,/* Reactions */ Lewis acid properties added.
+2020-08-11T02:43:41+00:00,972253530,970090004,1,CPstar,Triethylamine,/* Applications */ Changed acceptor to donor.
+2020-08-11T02:40:21+00:00,972253198,971112090,1,CPstar,Acetonitrile,/* Acetonitrile as an electron pair donor */ added hard base and E&C parameters.
+2020-08-11T02:26:20+00:00,972251734,966208813,1,CPstar,Quinuclidine,changed acceptor to donor.
+2020-08-09T15:51:00+00:00,971997392,971996453,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */ modified references
+2020-08-09T15:45:06+00:00,971996453,970799140,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */ added wikipedia references to types of spectroscopy
+2020-08-09T15:35:44+00:00,971994995,937479110,1,CPstar,Cyclooctadiene rhodium chloride dimer,/* Preparation and reactions */ Added Lewis acid property.
+2020-08-08T17:55:50+00:00,971859914,933270493,1,CPstar,Allylpalladium chloride dimer,/* Synthesis and reactions */ Show Lewis acid property of the Pd dimer.
+2020-07-29T01:35:45+00:00,970066607,843496169,1,CPstar,Talk:ECW model,
+2020-07-28T13:22:57+00:00,969968623,969967886,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */ Define several terms using wikipedia references
+2020-07-28T13:16:23+00:00,969967886,969316761,1,CPstar,ECW model,/* E and C equation */
+2020-07-24T17:54:06+00:00,969316761,969210006,1,CPstar,ECW model,/* E and C equation */Change recommended to improved.
+2020-07-24T01:33:22+00:00,969210006,969184384,1,CPstar,ECW model,/* E and C equation */Clarified not to mixed the improved parameters with old parameters.
+2020-07-23T21:34:06+00:00,969184384,968502732,1,CPstar,ECW model,/* E and C equation */
+2020-07-21T20:39:10+00:00,968839635,968839351,1,CPstar,Ethyl acetate,/* Reactions */   Added Lewis base reactions
+2020-07-21T20:37:04+00:00,968839351,962669298,1,CPstar,Ethyl acetate,/* Reactions */
+2020-07-21T20:18:36+00:00,968836356,968832951,1,CPstar,"2,2,2-Trifluoroethanol",Hard acid sentence moved.
+2020-07-21T19:54:06+00:00,968832951,968832715,1,CPstar,"2,2,2-Trifluoroethanol",/* Uses */
+2020-07-21T19:52:35+00:00,968832715,961666167,1,CPstar,"2,2,2-Trifluoroethanol",/* Uses */Added it is a hard acid.
+2020-07-21T19:42:39+00:00,968831340,959627231,1,CPstar,Hexafluoro-2-propanol,Added classified as a hard acid.
+2020-07-19T20:07:16+00:00,968502732,968502082,1,CPstar,ECW model,/* E and C equation */Fixed spacing.
+2020-07-19T20:03:18+00:00,968502082,968379225,1,CPstar,ECW model,/* E and C equation */Added reference for phosphines
+2020-07-19T01:12:18+00:00,968379225,968377255,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */Corrected numbers in table.
+2020-07-19T00:55:28+00:00,968377255,968375269,1,CPstar,ECW model,/* E and C equation */Updated reference
+2020-07-19T00:36:56+00:00,968375269,968229193,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */Correct formula of (CH2)4O
+2020-07-18T01:54:34+00:00,968229193,968227929,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-18T01:42:26+00:00,968227929,967750200,1,CPstar,ECW model,/* Other aspects and extensions of the ECW model */Add references
+2020-07-17T21:39:45+00:00,968202487,968180705,1,CPstar,1-Methylimidazole,/* Donor properties */ fix subscript
+2020-07-17T19:01:43+00:00,968180705,950538145,1,CPstar,1-Methylimidazole,/* Ionic liquid precursor */
+2017-08-14T00:21:48+00:00,795398579,795397045,1,CPstar,Acid–base reaction,/* Rationalizing the Strength of Lewis Acid Base Interactions */
+2017-08-14T00:07:52+00:00,795397045,795393589,1,CPstar,Acid–base reaction,/* Models for Rationalizing Acid and Base Reactions */
+2017-08-13T23:35:21+00:00,795393589,795390394,1,CPstar,Acid–base reaction,/* Acid–base definitions */
+2017-08-13T23:03:39+00:00,795390394,795147839,1,CPstar,Acid–base reaction,/* Pearson definition */ Section was deleted because HSAB is not a definition of acids or bases
+2017-08-10T17:41:36+00:00,794893026,794721021,1,CPstar,ECW model,
+2020-09-05T13:22:06+00:00,976856517,976856442,1,Golfpro996,Dimethylacetamide,/* Research */
+2020-09-05T13:21:30+00:00,976856442,975616939,1,Golfpro996,Dimethylacetamide,/* Research */ Remove a redundant phrase.
+2020-09-04T02:28:42+00:00,976630758,973487131,1,Golfpro996,Dichloromethane,/* Uses *Add H-bonding.
+2020-09-04T02:20:21+00:00,976629825,976386544,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */ Add acid.
+2020-09-02T11:08:32+00:00,976330898,976330610,1,Golfpro996,Steric effects,/* Differences in enthalpies */
+2020-09-02T11:06:07+00:00,976330610,976330476,1,Golfpro996,Steric effects,/* Differences in enthalpies */
+2020-09-02T11:04:42+00:00,976330476,955805153,1,Golfpro996,Steric effects,/* Measures of steric properties */
+2020-09-02T10:49:07+00:00,976328568,976258266,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-08-29T02:26:20+00:00,975533493,975219079,1,Golfpro996,Iodine monochloride,Added relative acceptor strength.
+2020-08-29T02:18:51+00:00,975532620,975528576,1,Golfpro996,Iodine,/* Charge-transfer complexes */  The relative acceptor strength of I2 added.
+2020-08-29T02:10:23+00:00,975531761,969667731,1,Golfpro996,Nonafluoro-tert-butyl alcohol,Graphical display of the enthalpies of adduct formation for Lewis acids  added.
+2020-08-29T02:06:00+00:00,975531370,968831340,1,Golfpro996,Hexafluoro-2-propanol,Graphical display of the enthalpies of adduct formation for Lewis acids  added.
+2020-08-29T01:58:54+00:00,975530708,963770736,1,Golfpro996,Trimethyltin chloride,/* Uses */ Graphical display of the enthalpies of adduct formation for Lewis acids added.
+2020-08-29T01:54:12+00:00,975530218,973960956,1,Golfpro996,Hexafluoroacetylacetone,Added Graphical display of the enthalpies of adduct formation for Lewis acids and bases
+2020-08-29T01:47:18+00:00,975529621,975529489,1,Golfpro996,Phenol,/* Hydrogen bonding */
+2020-08-29T01:45:56+00:00,975529489,975529354,1,Golfpro996,Phenol,/* Hydrogen bonding */
+2020-08-29T01:44:28+00:00,975529354,975279158,1,Golfpro996,Phenol,/* Hydrogen bonding */ Added Graphical display of the enthalpies of adduct formation for Lewis acids and bases..
+2020-08-29T01:36:01+00:00,975528576,975150236,1,Golfpro996,Iodine,/* Charge-transfer complexes */ Added relative acceptor strength .
+2020-08-29T01:30:33+00:00,975528069,974343569,1,Golfpro996,Dimethylformamide,/* Reactions */ Added  relative donor strength toward a series of acids.
+2020-08-29T01:28:20+00:00,975527910,975338325,1,Golfpro996,Acetone,/* Lewis base properties */ Added base strength.
+2020-08-29T01:20:15+00:00,975527265,961681833,1,Golfpro996,Diethyl sulfide,/* Reactions */  Relative donor strength added.
+2020-08-29T01:18:02+00:00,975527067,967822137,1,Golfpro996,Dimethylacetamide,/* Research */ Relative donor strength added.
+2020-08-29T01:15:43+00:00,975526837,975526412,1,Golfpro996,Dimethyl sulfoxide,/* Ligand and Lewis base */
+2020-08-29T01:11:19+00:00,975526412,973277050,1,Golfpro996,Dimethyl sulfoxide,/* Ligand */ Added relative base strength.
+2020-08-28T20:30:02+00:00,975492097,975491969,1,Golfpro996,Pyridine,/* Lewis basicity and coordination compounds */
+2020-08-28T20:29:31+00:00,975491969,975402473,1,Golfpro996,Pyridine,/* Lewis basicity and coordination compounds */ added C-B plots reference
+2020-08-28T20:12:23+00:00,975488986,974619085,1,Golfpro996,Dimethyl sulfide,/* Other uses */ Added C-B plots.
+2020-08-28T20:11:05+00:00,975488757,973108491,1,Golfpro996,Acetonitrile,/* Acetonitrile as an electron pair donor */  Added C-B plots.
+2020-08-28T20:06:55+00:00,975488017,975101325,1,Golfpro996,Ammonia,/* Ammonia as a ligand */ Added C-R plots
+2020-08-28T01:50:36+00:00,975354857,960258382,1,Golfpro996,Trimethylamine,/* Applications */ Added Lewis base .
+2020-08-22T12:58:52+00:00,974343569,974342841,1,Golfpro996,Dimethylformamide,/* Reactions */
+2020-08-22T00:37:38+00:00,974260501,961204563,1,Golfpro996,Methyl acetate,/* Reactions */ Added Lewis acid property.
+2020-08-16T18:44:22+00:00,973348048,973347905,1,Golfpro996,"1,4-Dioxane",/* Uses */
+2020-08-16T18:43:23+00:00,973347905,959921269,1,Golfpro996,"1,4-Dioxane",/* As a solvent */ Added Lewis base properties.
+2020-08-13T18:27:37+00:00,972768776,955893426,1,Golfpro996,Pyrrole,/* Properties */ Add Lewis acid properties.
+2020-08-13T14:26:29+00:00,972723794,969016718,1,Golfpro996,Antimony pentachloride,/* Reactions */ Added Cramer-Bopp plots
+2020-08-07T18:00:08+00:00,971699551,959709000,1,Golfpro996,Metal bis(trimethylsilyl)amides,/* d-Block complexes */  added group 12 compounds acidities
+2020-07-31T12:36:55+00:00,970461606,969968623,1,Golfpro996,ECW model,/* A graphical presentation of the ECW model */ change ref 7 to ref 8.
+2020-07-15T17:36:29+00:00,967846241,961983090,1,Golfpro996,Thiocyanic acid,Added Lewis acid isothiocyanic acid reference
+2020-07-15T02:26:03+00:00,967750200,967748458,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-15T02:09:48+00:00,967748458,967748389,1,Golfpro996,ECW model,/* Notes */
+2020-07-15T02:09:17+00:00,967748389,967747295,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-15T01:59:03+00:00,967747295,967641199,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-15T01:56:02+00:00,967746950,963979734,1,Golfpro996,Isocyanic acid,/* Preparation and reactions */
+2020-07-13T20:20:49+00:00,967534288,967532301,1,Golfpro996,ECW model,/* Notes */Fixed reference
+2020-07-13T20:06:30+00:00,967532301,967530702,1,Golfpro996,ECW model,/* Notes */
+2020-07-13T19:58:52+00:00,967531315,966848385,1,Golfpro996,Molybdenum,/* Compounds */
+2020-07-13T19:54:21+00:00,967530702,967530498,1,Golfpro996,ECW model,/* Notes */
+2020-07-13T19:52:56+00:00,967530498,967530234,1,Golfpro996,ECW model,/* Notes */
+2020-07-13T19:51:12+00:00,967530234,967305538,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-12T13:41:44+00:00,967305538,967305003,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-12T13:36:41+00:00,967305003,967304942,1,Golfpro996,ECW model,/* Notes */
+2020-07-12T13:36:05+00:00,967304942,967304814,1,Golfpro996,ECW model,/* Notes */
+2020-07-12T13:34:43+00:00,967304814,967303187,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-12T13:19:32+00:00,967303187,967246207,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-12T03:03:05+00:00,967246207,967244900,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-12T02:49:54+00:00,967244900,965721902,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2020-07-11T14:28:54+00:00,967162702,967161996,1,Golfpro996,Triethylamine,/* Applications */
+2020-07-11T14:22:32+00:00,967161996,966645545,1,Golfpro996,Triethylamine,/* Synthesis and properties */
+2020-07-09T15:12:11+00:00,966848385,958900811,1,Golfpro996,Molybdenum,/* Compounds */
+2020-07-08T02:17:08+00:00,966606346,966605592,1,Golfpro996,Dimethyl sulfoxide,/* Ligand */
+2020-07-08T02:09:42+00:00,966605592,956765720,1,Golfpro996,Dimethyl sulfoxide,/* Ligand */Lewis acid properties of DMSO
+2020-07-04T17:21:04+00:00,965996031,963973253,1,Golfpro996,Rhodium carbonyl chloride,/* Synthesis and reactions */Correct kcal to kJ
+2020-07-03T01:18:20+00:00,965721902,965721662,1,Golfpro996,ECW model,/* Notes */added reference
+2020-07-03T01:16:03+00:00,965721662,965721227,1,Golfpro996,ECW model,/* Notes */Added reference to Protoporphyrin IX
+2020-07-03T01:12:16+00:00,965721227,965292066,1,Golfpro996,ECW model,/* Notes */added reference
+2020-07-03T01:02:49+00:00,965720006,965719759,1,Golfpro996,Hexafluoroacetylacetone,Added Cu complexes and refences.
+2020-07-03T01:00:35+00:00,965719759,931825245,1,Golfpro996,Hexafluoroacetylacetone,
+2020-06-30T11:55:30+00:00,965276087,965275692,1,Golfpro996,Nonafluoro-tert-butyl alcohol,
+2020-06-30T11:51:42+00:00,965275692,900926170,1,Golfpro996,Nonafluoro-tert-butyl alcohol,Add Lewis acid properties of alcohol.
+2020-06-27T16:30:15+00:00,964792657,964784172,1,Golfpro996,ECW model,/* ECW model */Wikipedia reference to Nonafluoro-tert-butyl alcohol added
+2020-06-27T15:31:44+00:00,964784172,964774038,1,Golfpro996,ECW model,/* ECW model */
+2020-06-27T14:14:33+00:00,964774038,964772273,1,Golfpro996,ECW model,/* ECW model */added reference to Hexafluoro-2-propanol
+2020-06-22T21:20:24+00:00,963973253,963968431,1,Golfpro996,Rhodium carbonyl chloride,/* Synthesis and reactions */
+2020-06-22T20:46:15+00:00,963968431,962190950,1,Golfpro996,Rhodium carbonyl chloride,/* Synthesis and reactions */Add Lewis acid properties of the dimer.
+2020-06-22T14:25:48+00:00,963912733,963912657,1,Golfpro996,Tetrahydrothiophene,/* Applications */
+2020-06-22T14:25:16+00:00,963912657,961448505,1,Golfpro996,Tetrahydrothiophene,/* Applications */added Lewis base
+2020-06-22T14:20:30+00:00,963911991,963705749,1,Golfpro996,Iodine,/* Charge-transfer Complexes[1][2] */added a space
+2020-06-21T18:06:45+00:00,963770736,963770260,1,Golfpro996,Trimethyltin chloride,/* Uses */correct grammar
+2020-06-21T18:03:38+00:00,963770260,963768805,1,Golfpro996,Trimethyltin chloride,/* Uses */
+2020-06-21T17:54:49+00:00,963768805,938682152,1,Golfpro996,Trimethyltin chloride,/* Uses */show an example of steric repulsion in an adduct of trimethyltin chloride
+2020-06-21T14:48:33+00:00,963740046,961579296,1,Golfpro996,Trimethylborane,/* Reactions */Add to Lewis acid properties of trimethylborane.
+2020-06-21T14:09:04+00:00,963734948,963627379,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */Add reference to trimethylborane.
+2020-06-20T21:44:21+00:00,963627379,963577089,1,Golfpro996,ECW model,/* E and C equation */simplified reference for  I2
+2020-06-19T17:04:46+00:00,963405293,963305196,1,Golfpro996,Iodine,/* Charge-transfer Complexes[1] [2] */Added page numbers to ref.
+2020-06-19T02:01:32+00:00,963305196,963265465,1,Golfpro996,Iodine,/* Charge-transfer Complexes[1] */Correct numbers  (230 -330nm) for charge-transfer bands
+2020-06-18T20:39:29+00:00,963265465,963265332,1,Golfpro996,Iodine,/* Charge-transfer Complexes[1] */Fixed spacing.
+2020-06-18T20:38:28+00:00,963265332,963262931,1,Golfpro996,Iodine,"/* Charge-transfer Complexes[1] */I2 ""classified as soft acid"" added."
+2020-06-18T20:23:38+00:00,963262931,961027698,1,Golfpro996,Iodine,/* Iodine value */
+2020-02-02T14:45:06+00:00,938815719,934719713,1,Golfpro996,User talk:Smokefoot,/* [Rh(CO)2Cl]2  */ new section
+2020-02-01T20:11:36+00:00,938689018,938688454,1,Golfpro996,Gutmann–Beckett method,
+2020-02-01T20:08:03+00:00,938688454,921671539,1,Golfpro996,Gutmann–Beckett method,
+2020-02-01T19:49:49+00:00,938685416,935259026,1,Golfpro996,Lewis acids and bases,/* There is no single order of Lewis base strengths or Lewis acid strengths */
+2020-02-01T19:31:32+00:00,938682152,931543571,1,Golfpro996,Trimethyltin chloride,/* Uses */
+2020-02-01T19:07:24+00:00,938678118,938408027,1,Golfpro996,Rhodium carbonyl chloride,/* Synthesis and reactions */
+2020-01-29T15:43:35+00:00,938174210,937853837,1,Golfpro996,Zinc compounds,/* Complexes */
+2020-01-27T16:50:22+00:00,937853837,937852012,1,Golfpro996,Zinc compounds,/* Complexes */
+2020-01-27T16:36:00+00:00,937852012,937847498,1,Golfpro996,Zinc compounds,/* Complexes */
+2020-01-20T20:15:20+00:00,936753942,936751537,1,Golfpro996,Tetraphenylporphyrin,/* Complexes */
+2020-01-20T19:58:11+00:00,936751537,936751259,1,Golfpro996,Tetraphenylporphyrin,/* Complexes */
+2020-01-20T19:56:15+00:00,936751259,936398580,1,Golfpro996,Tetraphenylporphyrin,/* Complexes */
+2020-01-18T16:22:12+00:00,936398580,936395466,1,Golfpro996,Tetraphenylporphyrin,/* Complexes */
+2020-01-18T15:57:56+00:00,936395466,932387781,1,Golfpro996,Tetraphenylporphyrin,/* Complexes */
+2020-01-11T15:12:06+00:00,935259026,931679019,1,Golfpro996,Lewis acids and bases,/* Quantifying Lewis acidity */
+2019-12-22T19:27:07+00:00,931998910,931996468,1,Golfpro996,Squaric acid,/* Derivatives */
+2019-12-22T19:07:48+00:00,931996468,931995728,1,Golfpro996,Squaric acid,
+2019-12-22T19:00:49+00:00,931995728,902961292,1,Golfpro996,Squaric acid,/* Derivatives */
+2019-12-22T18:48:18+00:00,931994114,931982175,1,Golfpro996,Tetraphenylporphyrin,
+2019-12-22T17:01:23+00:00,931982175,931979979,1,Golfpro996,Tetraphenylporphyrin,/* Optical properties */
+2019-12-22T16:50:57+00:00,931980730,919611718,1,Golfpro996,ECW model,
+2019-12-22T16:44:23+00:00,931979979,931975750,1,Golfpro996,Tetraphenylporphyrin,
+2019-12-22T16:11:25+00:00,931975750,931974458,1,Golfpro996,Tetraphenylporphyrin,
+2019-12-22T15:58:34+00:00,931974458,931973267,1,Golfpro996,Tetraphenylporphyrin,
+2019-12-22T15:47:22+00:00,931973267,931971167,1,Golfpro996,Tetraphenylporphyrin,
+2019-12-22T15:28:52+00:00,931971167,931971024,1,Golfpro996,Tetraphenylporphyrin,
+2019-12-22T15:27:49+00:00,931971024,931826230,1,Golfpro996,Tetraphenylporphyrin,
+2018-05-15T13:34:40+00:00,841376493,808369155,1,Golfpro996,HSAB theory,/* Modifications */  Clarification for defining the order of Lewis base strength
+2018-05-02T21:51:38+00:00,839353500,839353235,1,Golfpro996,Donor number,
+2018-05-02T21:49:13+00:00,839353235,839352585,1,Golfpro996,Donor number,
+2018-05-02T21:43:49+00:00,839352585,754491142,1,Golfpro996,Donor number,"Mention the limitations of DN as pointed out by Laurence, C. and Gal, J-F as well as Cramer, R. E., and Bopp, T. T."
+2017-11-03T15:48:51+00:00,808554890,808554683,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */
+2017-11-03T15:47:18+00:00,808554683,808553365,1,Golfpro996,ECW model,/* Other aspects and extensions of the ECW model */  clarification of ECT
+2017-11-03T15:36:29+00:00,808553365,802366765,1,Golfpro996,ECW model,/* E and C equation */  removed uneeded < mark
+2017-10-06T14:06:47+00:00,804064225,802530070,1,Golfpro996,HSAB theory,Add a reference for additional one-parameter base strength scales.
+2017-09-26T19:07:39+00:00,802530070,801588534,1,Golfpro996,HSAB theory,/* Modifications */ clarification
+2017-09-20T16:15:56+00:00,801588534,801588264,1,Golfpro996,HSAB theory,/* Modifications */
+2017-09-20T16:14:10+00:00,801588264,800862410,1,Golfpro996,HSAB theory,/* Modifications */  Clarification
+2017-09-06T17:58:00+00:00,799269190,799268695,1,Golfpro996,HSAB theory,/* Modifications */
+2017-09-06T17:54:27+00:00,799268695,799268412,1,Golfpro996,HSAB theory,/* Modifications */
+2017-09-06T17:52:45+00:00,799268412,799267549,1,Golfpro996,HSAB theory,/* Modifications */
+2017-09-06T17:46:33+00:00,799267549,799135344,1,Golfpro996,HSAB theory,/* Modifications */ more complete explanation of ECW
+2017-09-05T21:07:39+00:00,799135344,798373058,1,Golfpro996,HSAB theory,/* Modifications */ addition graphical presentation
+2017-08-13T15:12:08+00:00,795331346,795330678,1,Golfpro996,ECW model,/* See also */ added item
+2017-08-13T15:05:31+00:00,795330678,794893026,1,Golfpro996,ECW model,"No change in content, small change in organization for clarity"
+2017-08-04T14:56:12+00:00,793883900,793881715,1,Golfpro996,User talk:Smokefoot,/* Comment violates spirit of Wikipedia */
+2017-08-04T14:54:21+00:00,793883698,793655884,1,Golfpro996,User talk:EdChem,Comment violates spirit of Wikipedia
+2017-08-04T14:37:39+00:00,793881572,793722389,1,Golfpro996,User talk:Smokefoot,Comment violates spirit of Wikipedia
+2017-08-04T14:27:26+00:00,793880327,0,1,Golfpro996,User talk:24.59.57.96,Comment violates the spirit of Wikipedai and should be removed
+2017-08-22T23:14:40+00:00,796767252,787049059,0,KolbertBot,"1,4-Dioxane",Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]
+2018-08-09T07:46:21+00:00,854143965,843515746,0,162.129.251.86,1-Methylimidazole,
+2017-12-26T01:10:28+00:00,817083098,802189262,0,213.137.16.247,1-Octanol,
+2019-07-17T14:36:48+00:00,906686867,904425469,0,128.176.12.189,1-Methylimidazole,/* Synthesis */
+2018-09-27T12:01:59+00:00,861434106,861419824,0,Edgar181,"1,4-Dioxane",Reverted edits by [[Special:Contribs/115.249.75.37|115.249.75.37]] ([[User talk:115.249.75.37|talk]]) to last version by InternetArchiveBot
+2019-05-21T01:20:37+00:00,898046913,897473493,0,2607:FEA8:129F:E389:0:0:0:FE9F,Acetone,"of these only acetone is actually a ""ketone"" in the chemical sense; linking the article that explains what's really being talked about"
+2017-06-06T15:10:00+00:00,784116364,783885617,0,Lamro,"2,2,2-Trifluoroethanol",/* Safety */ +
+2018-03-30T11:30:59+00:00,833233403,833230962,0,Edgar181,1-Octanol,data per added ref
+2019-07-18T17:44:38+00:00,906848399,906848266,0,NexeoChemist,"1,4-Dioxane",
+2019-09-09T19:30:17+00:00,914857840,914674327,0,C. Vella (KGS),"1,4-Dioxane",/* Safety */ Updated broken link
+2017-09-09T16:00:11+00:00,799744008,799599724,0,Seligne,Acetone,/* Domestic and other niche uses */
+2018-05-19T14:23:01+00:00,841997427,820986225,0,Arun 01,"2,2,2-Trifluoroethanol",Fixed typo
+2018-01-17T19:34:58+00:00,820986225,820985803,0,Pdcook,"2,2,2-Trifluoroethanol",/* Uses */ fix ref link
+2018-07-07T18:07:05+00:00,849258218,849258136,0,Xingyzt,Acetone,Reverted 1 edit by [[Special:Contributions/OceanManAndWoman|OceanManAndWoman]] ([[User talk:OceanManAndWoman|talk]]): No source. ([[WP:TW|TW]])
+2019-03-24T17:36:34+00:00,889276096,854143965,0,Chem Sim 2001,1-Methylimidazole,some links added
+2019-02-21T19:05:15+00:00,884453914,881138849,0,M97uzivatel,"2,2,2-Trifluoroethanol",/* Uses */
+2018-07-23T13:11:37+00:00,851610204,851558753,0,Smokefoot,"2,2,2-Trifluoroethanol","TFE has been subject of >9000 publications (SciFinder), why these lightly-cited non-[[WP:SECONDARY]] refs?"
+2019-07-08T02:17:38+00:00,905275086,898046913,0,Citation bot,Acetone,Add: doi. Removed URL that duplicated unique identifier. Removed accessdate with no specified URL. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Marianne Zimmerman]]
+2019-03-20T20:27:47+00:00,888700000,886074030,0,GRALISTAIR,Acetone,Add VOC exempt with reference
+2018-11-25T08:21:51+00:00,870510114,865958532,0,Zackmann08,Acetone,converting to use [[Template:Infobox chemical]]
+2017-07-17T17:29:00+00:00,791027785,787540062,0,Smokefoot,Acetonitrile,-tobacco smoke claim - [[WP:UNDUE]] and discussion on Chemistry Talk
+2018-10-01T10:26:08+00:00,861974596,861932953,0,InternetArchiveBot,Acetonitrile,Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta9)
+2017-09-29T05:48:37+00:00,802905947,802905445,0,Riventree,Acetonitrile,/* Metabolism and excretion */ Reorg (increasing LD50) and reference comparison
+2019-05-22T06:17:53+00:00,898225117,891677958,0,Iztwoz,Acid,/* top */ rm linked hydro linked proton instead as the term usually used
+2020-02-19T09:22:23+00:00,941562838,941542487,0,Petergans,Acid strength,"Added: ""See also"", a link to a more comprehensive article. See"" lead section"" on the talk page"
+2018-12-16T22:49:13+00:00,874067599,870601921,0,DePiep,Acetonitrile,"/* top */Infobox version not fit nor supported for mainspace. Talk at [[Template_talk:Chembox#Infobox_version:_no_consensus,_not_fit_for_mainspace|talk Chembox]], replaced: {{Infobox chemical\n → {{Chembox\n, {{Infobox chemical/i → {{Chembox I, {{"
+2019-06-19T13:01:13+00:00,902527803,898225117,0,Mn1548,Acid,full name
+2020-04-18T09:20:31+00:00,951677259,949128158,0,OAbot,Acetonitrile,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-01-02T09:43:14+00:00,933661849,932016834,0,Rjwilmsi,Acid strength,"/* Strong acids */Journal cites:, added 1 PMID"
+2018-03-02T23:41:32+00:00,828505331,819341013,0,Whoop whoop pull up,Acid,"/* Acid catalysis */ Not all acids dehydrate, and phosphoric acid isn't even a strong acid."
+2017-06-26T02:20:23+00:00,787558984,782032953,0,InternetArchiveBot,Acid strength,Rescuing 3 sources and tagging 0 as dead. #IABot (v1.4beta4)
+2018-01-08T20:58:50+00:00,819341013,818573184,0,Sazp1985,Acid,Minor edit to readability
+2019-04-12T16:07:32+00:00,892159561,886910216,0,Hitechcomputergeek,Acid strength,/* Strong acids */ Fix wikilink capitalization and add two wikilink
+2018-06-24T16:52:00+00:00,847340952,846031606,0,Headbomb,Acid–base reaction,fix
+2017-08-23T13:34:01+00:00,796857935,787557936,0,Rich Farmbrough,Acid,/* Polyprotic acids */
+2018-08-29T02:40:53+00:00,857027583,857025240,0,Materialscientist,Acid–base reaction,Reverted 1 edit by [[Special:Contributions/190.197.37.226|190.197.37.226]] identified as test/vandalism using [[WP:STiki|STiki]]
+2017-05-24T15:38:40+00:00,782032708,775031359,0,Magic links bot,Acid,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2020-06-14T12:29:57+00:00,962502145,961032671,0,Rjwilmsi,Acid–base reaction,fix cite
+2017-11-14T19:43:22+00:00,810356732,804659506,0,NihlusBOT,Acid–base reaction,Bot: fix deprecated Citation Style 1 parameters ([[Wikipedia:Bots/Requests for approval/NihlusBOT 9|Task 9]])
+2017-05-24T15:41:21+00:00,782033061,781090827,0,Magic links bot,Acid–base reaction,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2018-04-30T06:46:56+00:00,838934537,838862601,0,202.67.112.144,Acid–base reaction,/* Lewis definition */。。。。。。
+2019-05-05T18:55:44+00:00,895657879,895657788,0,Alondana,Ammonia,/* Combustion */
+2020-08-30T10:02:06+00:00,975773538,975773529,0,ClueBot NG,Acid–base reaction,"Reverting possible vandalism by [[Special:Contribs/115.66.109.170|115.66.109.170]] to version by Bingobro. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3766645) (Bot)"
+2020-04-10T10:02:33+00:00,950124922,950124176,0,Mr.Sarcastic,Acid–base reaction,Reverted 1 edit by [[Special:Contributions/2405:201:4800:DEAD:4198:1B67:EB54:A344|2405:201:4800:DEAD:4198:1B67:EB54:A344]] ([[User talk:2405:201:4800:DEAD:4198:1B67:EB54:A344|talk]]) to last revision by 99.174.189.42 ([[WP:TW|TW]])
+2018-10-04T09:09:19+00:00,862427290,796068182,0,Mykhal,Adduct,chem. typogr.
+2018-10-30T11:14:21+00:00,866444317,866437862,0,Dirac66,Acid–base reaction,"/* See also */ Rearranged: Gutmann–Beckett is separate topic, not part of Donor number"
+2020-03-28T22:43:58+00:00,947863862,947863784,0,99.174.189.42,Acid–base reaction,/* Arrhenius definition */
+2019-04-21T09:48:45+00:00,893437819,892941802,0,136.233.34.3,Acid–base reaction,/* Brønsted–Lowry definition */
+2017-08-18T08:01:34+00:00,796068182,742744732,0,Hrdubwd,Adduct,
+2019-05-06T18:36:10+00:00,895824187,895657879,0,24.236.67.197,Ammonia,"/* Antimicrobial agent for food products */ ""Textured beef"" is not commonly used; added a clarifying phrase."
+2017-06-24T07:12:52+00:00,787234734,787234586,0,EdChem,Allylpalladium chloride dimer,formula as dimer
+2019-08-27T11:58:45+00:00,912713813,912712363,0,N2e,Ammonia,"ammonia plays an important role in all of the [[giant planet]]s, not merely Jupiter and Saturn, in both the atmosphere, and as one of the three primary components of the [[ice giant]]s Uranus and Neptune (major ingredients of their ""ices"" are H20, CH4, NH3), as well as in the atmospheres"
+2020-05-18T09:24:59+00:00,957332503,956950091,0,PizzaMan,Ammonia,/* Safety precautions */
+2018-08-11T22:54:41+00:00,854515617,854500102,0,Drbogdan,Ammonia,Reverted 1 edit by [[Special:Contributions/96.237.170.170|96.237.170.170]] ([[User talk:96.237.170.170|talk]]): Rv [[WP:SPA]] ip edit - original text/ref seems ok - please discuss on the talk-page - per [[WP:BRD]] & related. ([[WP:TW|TW]])
+2020-01-02T14:05:35+00:00,933689196,931543846,0,Citation bot,Antimony pentachloride,Add: title. Converted bare reference to cite template. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:Grimes2]] | [[Category:Inorganic compounds]] | via #UCB_Category
+2019-12-20T01:48:13+00:00,931621001,931317927,0,Bender the Bot,Ammonia,"/* Synthesis and production */HTTP → HTTPS for the [[BBC]], replaced: =http://www.bbc.co.uk/ → =https://www.bbc.co.uk/"
+2020-06-28T10:29:46+00:00,964917315,964656098,0,CommanderInDubio,Ammonia,v2.02 - ¯\_(ツ)_/¯ - [[WP:WCW]] project (Heading hierarchy - Title linked in text)
+2020-05-26T18:45:07+00:00,959009692,957181682,0,Fswitzer4,Antimony pentachloride,Validated CAS and added FDA UNII
+2018-03-09T19:30:45+00:00,829622316,822863969,0,78.56.140.174,Antimony pentachloride,/* Preparation and structure */
+2019-05-15T19:26:24+00:00,897248070,897230551,0,Plantsurfer,Chloroform,Reverted 1 edit by [[Special:Contributions/37.159.107.45|37.159.107.45]] ([[User talk:37.159.107.45|talk]]) to last revision by Agent00x ([[WP:TW|TW]])
+2017-06-07T22:35:47+00:00,784362554,784307881,0,OrganoMetallurgy,Cyclooctadiene rhodium chloride dimer,added [[Category:Chloro complexes]] using [[WP:HC|HotCat]]
+2018-06-30T11:22:09+00:00,848199451,848198184,0,Nitraus,Antimony pentachloride,"I have given my reasons on the talk page, please give yours before undoing this edit"
+2018-07-15T04:28:40+00:00,850325655,850325636,0,Acroterion,Base (chemistry),Reverted edits by [[Special:Contribs/86.97.214.87|86.97.214.87]] ([[User talk:86.97.214.87|talk]]) to last version by Dirac66
+2017-06-06T21:12:44+00:00,784167944,755198903,0,Leyo,Antimony pentachloride,removing [[CLP Regulation#Implementation|outdated]] DSD data when GHS data is present
+2020-01-25T08:32:59+00:00,937479110,933309070,0,Strickesel,Cyclooctadiene rhodium chloride dimer,space
+2017-12-09T22:11:14+00:00,814615475,813044137,0,Dirac66,Base (chemistry),"author-link to Gilbert N. Lewis, link to leveling effect"
+2017-12-30T14:43:03+00:00,817778528,816633419,0,Wegesrand,Ammonia,Wording
+2018-11-13T21:47:45+00:00,868700842,864810490,0,Dwo,Base (chemistry),[[MOS:ANDOR]]
+2018-10-11T08:19:05+00:00,863517664,863515078,0,Ignatius Iggy,Chloroform,Undid revision 863515078 by [[Special:Contributions/35.136.195.210|35.136.195.210]] ([[User talk:35.136.195.210|talk]])
+2019-07-25T16:55:56+00:00,907843116,907842870,0,37.210.171.195,Base (chemistry),/* Strong bases */
+2017-04-27T03:46:03+00:00,777431000,777430973,0,Alex Cohn,Chloroform,Reverted edits by [[Special:Contribs/157.51.56.225|157.51.56.225]] ([[User talk:157.51.56.225|talk]]) to last version by Natureium
+2020-08-30T21:46:43+00:00,975872504,975257439,0,LeticiaLL,Chloroform,
+2018-04-20T19:53:04+00:00,837432991,837432419,0,Rkinch,Dichloromethane,/* Ozone */ Add title to Web citation
+2020-03-17T18:10:37+00:00,946039546,944176349,0,69.136.107.167,Diethyl ether,/* History */
+2019-10-10T00:45:12+00:00,920471789,920470146,0,86.189.164.186,Dichloromethane,"Undid revision 920108575 by [[Special:Contributions/23.31.135.177|23.31.135.177]] ([[User talk:23.31.135.177|talk]]) Both ""spelling changes"" were mistakes; likely vandalism."
+2018-05-29T14:43:26+00:00,843496940,799897452,0,Michael Hardy,Diethyl sulfide,
+2020-08-26T05:07:34+00:00,975003275,974866330,0,Nemo bis,Diethyl ether,Remove machine-generated article. Not a [[Wikipedia:Reliable sources|reliable source]].
+2016-12-07T04:04:42+00:00,753435822,690952768,0,TerpeneOtto,Diethyl sulfide,"Published magnetic susceptibility from the CRC 64th, handbook of chemistry and physics in the physical properties section."
+2017-09-10T13:36:21+00:00,799897452,788704360,0,InternetArchiveBot,Diethyl sulfide,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5.1)
+2019-03-14T14:33:02+00:00,887737002,882566115,0,JCW-CleanerBot,Diethyl sulfide,"[[User:JCW-CleanerBot#Logic|task]], replaced: Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. → Acta Crystallographica Section C"
+2019-02-10T00:08:28+00:00,882566115,882565941,0,Smokefoot,Diethyl sulfide,/* Reactions */ Xray
+2018-01-28T12:44:49+00:00,822779385,803930624,0,Emeldir,Dimethyl sulfide,reference added
+2019-10-18T15:14:18+00:00,921887860,921868811,0,Plumbago,Dimethyl sulfide,Undid revision 921868811 by [[Special:Contributions/212.89.235.102|212.89.235.102]] ([[User talk:212.89.235.102|talk]]): looks like vandalism
+2017-04-30T20:43:12+00:00,778045075,769417146,0,97.81.86.16,Dimethyl sulfide,Dimethylsulfide is water soluble. Removed sentence stating it was water-insoluble. I'm doing my PhD thesis on this topic.
+2017-10-05T15:54:49+00:00,803930624,799953107,0,GreenC bot,Dimethyl sulfide,[[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]
+2019-04-27T15:44:15+00:00,894388072,894386545,0,Shinkolobwe,Dimethyl sulfide,/* Smell */ production by marine [[plankton]]ic micro-organisms
+2019-01-22T11:55:33+00:00,879622772,879322521,0,FSProctor,Dimethyl sulfide,/* Other uses */
+2018-09-02T11:35:45+00:00,857693611,855020712,0,InternetArchiveBot,Dimethyl sulfoxide,Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta8)
+2020-05-06T13:22:03+00:00,955194993,944617042,0,Rjwilmsi,Dimethyl sulfoxide,"Journal cites:,"
+2018-08-15T11:19:59+00:00,855020712,839430819,0,120.150.30.249,Dimethyl sulfoxide,/* Taste */
+2020-01-15T20:36:34+00:00,935957891,935462676,0,131.204.254.86,Dimethyl sulfoxide,"Fixed a mistake. It has a high BOILING POINT, not melting point."
+2019-04-24T02:39:50+00:00,893865635,893588391,0,User-duck,Dimethyl sulfoxide,Fix author lists. Upgrade a few other cites.
+2019-02-28T02:21:58+00:00,885447530,884049902,0,Quisqualis,Dimethyl sulfoxide,/* Medicine */ organic?
+2020-03-08T22:22:04+00:00,944617042,940057935,0,Photocyte,Dimethyl sulfoxide,add vapor pressure
+2019-09-24T14:31:53+00:00,917587359,917587156,0,DMacks,Dimethyl sulfoxide,/* Solvent */ more MOS
+2019-07-27T13:09:11+00:00,908103058,908102991,0,DMacks,Dimethylacetamide,prefer more adjectival form (high boiling) not a noun (high boiling point) to describe a liquid Undid revision 906918636 by [[Special:Contributions/129.127.136.227|129.127.136.227]] ([[User talk:129.127.136.227|talk]])
+2018-05-29T14:41:24+00:00,843496673,829553655,0,Michael Hardy,Dimethylacetamide,
+2018-12-11T18:10:14+00:00,873196813,873086102,0,Ost316,Dimethylacetamide,Cleaned up using [[WP:AutoEd|AutoEd]]; remove duplicate param
+2017-07-20T21:34:44+00:00,791532080,789021402,0,Headbomb,Dimethylacetamide,Identifier linking + [[WP:GENFIXES|AWB fixes]] using [[Project:AWB|AWB]]
+2017-09-09T06:16:04+00:00,799682857,798085802,0,KolbertBot,Dimethylacetamide,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2020-03-11T18:24:54+00:00,945082757,943984916,0,Chem Sim 2001,Dimethylacetamide,/* Synthesis and production */
+2020-07-15T14:36:40+00:00,967822137,945082757,0,Smokefoot,Dimethylacetamide,/* Toxicity */ tone down
+2019-10-03T14:33:26+00:00,919396438,919395403,0,Smokefoot,Dimethylacetamide,the patented method is less reliable and thus subsidiary to the Ullmann-quoted method
+2017-11-22T08:36:57+00:00,811543205,810361816,0,106.253.63.42,Dimethylformamide,/* Niche uses */
+2018-07-24T00:57:45+00:00,851697488,851491654,0,130.166.116.140,Dimethylamine,
+2020-02-22T12:28:13+00:00,942074491,937060944,0,178.233.118.20,Dimethylformamide,Found the missing image
+2018-12-12T11:04:54+00:00,873307333,873303634,0,Smokefoot,Dimethylformamide,"Undid revision 873303634 by [[Special:Contributions/Amorth|Amorth]] ([[User talk:Amorth|talk]]) way too specialized,"
+2018-02-10T17:53:41+00:00,824966998,824966027,0,Rjwilmsi,Dimethylamine,"/* Natural occurrence */Journal cites, Added 1 doi to a journal cite"
+2019-11-14T19:06:15+00:00,926184259,926184075,0,Mikhail Ryazanov,Dimethylformamide,/* Toxicity */ punct.
+2019-06-13T14:10:47+00:00,901674384,899659322,0,Year1888,Dimethylformamide,Added more to the safety section
+2018-11-03T16:38:23+00:00,867094681,867092547,0,Serols,Dimethylformamide,Reverted edits by [[Special:Contributions/117.203.27.30|117.203.27.30]] ([[User talk:117.203.27.30|talk]]) ([[WP:HG|HG]]) (3.4.4)
+2018-08-18T13:50:27+00:00,855463708,845160366,0,31.52.113.206,Donor number,
+2016-12-12T23:19:53+00:00,754491142,751409253,0,Monkbot,Donor number,/* top */Task 11: cs1|2 maint: multiple [[Category:CS1 maint: Multiple names: authors list|authors]]/[[Category:CS1 maint: Multiple names: editors list|editors]] fixes;
+2019-01-24T18:11:43+00:00,879995780,855463708,0,Citation bot,Donor number,Alter: pages. Add: issue. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]].
+2020-07-22T22:03:12+00:00,969016580,879995780,0,PointlessUsername,Donor number,
+2017-07-14T12:55:21+00:00,790545664,784784662,0,DrStrauss,"Draft talk:A Visual, Graphical Comparison of Acid and Base Strengths","DrStrauss moved page [[Draft talk:Ranking Order of Acid and Base Strengths]] to [[Draft talk:A Visual, Graphical Comparison of Acid and Base Strengths]] without leaving a redirect: per request"
+2019-04-20T19:30:59+00:00,893349876,843837859,0,Trialpears,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",Removing merge tag since merger seems to have been carried out.
+2018-02-22T05:07:33+00:00,826999832,792391066,0,Legacypac,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",[[WP:AES|←]]Redirected page to [[ECW Model]]
+2017-06-10T19:30:35+00:00,784940508,784939542,0,Genie Ology,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",Spacing
+2017-07-26T07:14:12+00:00,792391066,792390904,0,Dodger67,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",WikiProject Chemistry reccommended merging this draft into [[ECW Model]]
+2018-05-31T20:00:05+00:00,843837859,826999832,0,EmausBot,"Draft:A Visual, Graphical Comparison of Acid and Base Strengths",Bot: Fixing double redirect to [[ECW model]]
+2019-10-04T17:09:41+00:00,919611718,912218688,0,Rjwilmsi,ECW model,"/* Other aspects and extensions of the ECW model */Journal cites, Added 1 doi to a journal cite"
+2019-06-21T02:22:52+00:00,902761011,902760870,0,Cedar101,ECW model,/* Notes */ fix math italics
+2020-03-07T22:35:01+00:00,944449688,931980730,0,2601:184:4A7F:9D9B:1088:B0B:AE16:6FAE,ECW model,copyedit
+2018-05-29T14:37:18+00:00,843496215,843496166,0,Michael Hardy,ECW model,
+2018-03-18T23:44:55+00:00,831140493,830507925,0,Headbomb,ECW model,cleanup using [[Project:AWB|AWB]]
+2019-04-22T13:33:03+00:00,893600110,893117068,0,Trappist the monk,ECW model,Fix multiple names in cs1|2 template |author= parameters (and aliases);
+2018-03-15T08:11:31+00:00,830507925,830507844,0,Olunet,ECW model,
+2019-04-19T03:42:59+00:00,893117068,843496215,0,100.15.78.161,ECW model,grammar
+2017-09-05T18:55:30+00:00,799116936,795398071,0,Shaded0,ECW model,clean up and formatting using [[Project:AWB|AWB]]
+2017-07-27T22:27:37+00:00,792672629,792669938,0,Smokefoot,ECW model,as infuriating and self promoting as Russ was
+2020-08-02T13:29:29+00:00,970799140,970461606,0,Benjah-bmm27,ECW model,linked acid and bases in the table to their Wikipedia articles so readers can quickly see what they are
+2017-06-06T01:02:59+00:00,784019734,783409113,0,ImageRemovalBot,ECW model,Removing links to deleted file [[:File:ECW Model Graph.png]]
+2018-01-03T14:56:22+00:00,818434830,802870589,0,AcetoChem,Ethyl acetate,/* Reactions */
+2017-03-13T12:16:01+00:00,770098479,770032277,0,JohnSRoberts99,Ethyl acetate,Reverted 1 edit by [[Special:Contributions/101.56.111.62|101.56.111.62]] ([[User talk:101.56.111.62|talk]]) to last revision by KylieTastic. ([[WP:TW|TW]])
+2019-12-06T11:03:15+00:00,929524496,929516377,0,Iruka13,Ethyl acetate,Undid revision 929516377 by [[Special:Contributions/Thomas Espinasse|Thomas Espinasse]] ([[User talk:Thomas Espinasse|talk]])
+2020-04-28T11:27:00+00:00,953659790,953658387,0,SimonDeDanser,Gutmann–Beckett method,
+2016-11-29T13:04:02+00:00,752091642,751395660,0,Ljd85,Gutmann–Beckett method,
+2017-07-25T08:00:33+00:00,792225749,752091642,0,Ljd85,Gutmann–Beckett method,correction to doi link
+2017-11-02T13:21:40+00:00,808369155,804064225,0,FrescoBot,HSAB theory,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2018-11-01T15:41:24+00:00,866790519,849403317,0,Frietjes,HSAB theory,fix for mobile viewers
+2019-09-25T09:18:34+00:00,917753117,912217316,0,SquisherDa,HSAB theory,/* Chemical hardness */ number concord - Another discrepancy .. are the .. hardness [ .. is ..
+2017-06-16T08:09:53+00:00,785933347,784054334,0,Double sharp,HSAB theory,/* Theory */
+2020-03-04T05:01:33+00:00,943838541,935401434,0,InternetArchiveBot,HSAB theory,Bluelinking 1 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3
+2017-07-31T19:52:15+00:00,793282172,792729492,0,132.156.44.33,HSAB theory,"/* Theory */ ""The gist of the theory"" is not appropriate phrasing for technical writing"
+2019-11-03T04:54:16+00:00,924328234,917753117,0,Sun Creator,HSAB theory,"[[WP:AWB/GF|General fixes]], [[WP:AWB/T|typo(s) fixed]]: ’s → 's (2)"
+2020-05-29T10:38:38+00:00,959556616,955037545,0,Rodw,HSAB theory,Disambiguating links to [[Metathesis]] (link changed to [[Metathesis reaction]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-01-12T09:47:49+00:00,935401434,933502443,0,Rodw,HSAB theory,Disambiguating links to [[Metathesis]] (link changed to [[Metathesis reaction]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2019-05-10T01:30:44+00:00,896371685,884780958,0,Jarble,HSAB theory,adding ISBN link
+2018-03-23T10:16:21+00:00,832019368,810700494,0,Rodw,Hexafluoro-2-propanol,Disambiguating links to [[Poise]] (link changed to [[Poise (unit)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2018-06-15T11:40:37+00:00,845971083,843496577,0,OneAhead,HSAB theory,"Demoted ""criticism"" 1 level because it is specific to Kornblum's rule, not HSAB as a whole (see first 2 sentences of the reference's abstract)"
+2017-11-16T22:14:42+00:00,810700494,785466519,0,69.125.160.200,Hexafluoro-2-propanol,/* Production and uses */
+2019-09-22T03:35:13+00:00,917071162,907261185,0,Monkbot,Hexafluoro-2-propanol,/* Sources */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2017-10-13T14:38:01+00:00,805167864,805080138,0,Smokefoot,Hexafluoroacetylacetone,"changed box image to enol tautomer, which is dominant"
+2018-09-27T20:31:58+00:00,861492517,805167864,0,FK1954,Hexafluoroacetylacetone,percent...
+2019-12-21T13:44:54+00:00,931825245,908269785,0,Citation bot,Hexafluoroacetylacetone,Alter: issue. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:Grimes2]] | [[Category:Chelating agents]] | via #UCB_Category
+2019-06-04T01:22:32+00:00,900191110,900191082,0,The Nth User,Hexafluoroacetylacetone,/* References */ Fixed category
+2020-08-22T18:57:16+00:00,974391070,974390710,0,Christian75,Iodine,"/* Occurrence and production */ Moving ""Greenwood and Earnshaw"" ref. I can only see ppm on those two pages (not ranking). A Search says its 61 (https://www.livescience.com/37441-iodine.html) - not sure its a reliable sources for a [[WP:GA|GA]]"
+2019-12-08T00:05:54+00:00,929749396,929457966,0,Montezuma Jones,Iodine,improved clarity
+2019-06-20T12:49:22+00:00,902670439,902670366,0,Eyer,Iodine,Reverted 1 edit by [[Special:Contributions/82.44.183.234|82.44.183.234]] ([[User talk:82.44.183.234|talk]]) to last revision by Mciceran ([[WP:TW|TW]])
+2017-09-07T18:15:50+00:00,799433209,798323699,0,David notMD,Iodine,"/* Dietary intake */shortened text, kept refs"
+2019-08-26T21:12:49+00:00,912626269,912626063,0,Beauty School Dropout,Iodine,Reverted 1 edit by [[Special:Contributions/163.150.160.1|163.150.160.1]] ([[User talk:163.150.160.1|talk]]) to last revision by Comfr ([[WP:TW|TW]])
+2019-04-22T14:08:43+00:00,893604612,893604494,0,William Avery,Iodine,Reverted edits by [[Special:Contributions/38.65.213.98|38.65.213.98]] ([[User talk:38.65.213.98|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2019-12-16T14:06:11+00:00,931028124,930765098,0,Citation bot,Iodine,"Add: pmid, url. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Nemo bis]] | via #UCB_webform"
+2020-03-04T07:34:19+00:00,943854817,942945702,0,InternetArchiveBot,Iodine,Bluelinking 1 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3
+2019-01-25T09:08:09+00:00,880094126,880093167,0,MarchOrDie,Iodine,"/* History */ add, reference"
+2019-05-22T11:41:07+00:00,898252516,898243401,0,Vsmith,Iodine,Reverted edits by [[Special:Contribs/104.200.105.204|104.200.105.204]] ([[User talk:104.200.105.204|talk]]) to last version by Maxeto0910
+2017-09-14T04:36:55+00:00,800539042,800538695,0,WikiPedant,Iodine,Reverted edits by [[Special:Contribs/2600:1700:8CD0:E590:C541:6E8A:2C40:D124|2600:1700:8CD0:E590:C541:6E8A:2C40:D124]] ([[User talk:2600:1700:8CD0:E590:C541:6E8A:2C40:D124|talk]]) to last version by KolbertBot
+2020-04-30T10:37:42+00:00,954039756,954039552,0,Eostrix,Iodine,Undid revision 954039552 by [[Special:Contributions/183.83.146.0|183.83.146.0]] ([[User talk:183.83.146.0|talk]]) purplish usually
+2020-03-14T13:59:21+00:00,945515446,945457787,0,DePiep,Iodine,"[[Reactive nonmetal]]: add category (fix, plural)"
+2019-09-25T14:47:02+00:00,917796098,917793919,0,Double sharp,Iodine,Undid revision 917793919 by [[Special:Contributions/2401:4900:331E:9926:2B7A:3DC9:606B:3B41|2401:4900:331E:9926:2B7A:3DC9:606B:3B41]] ([[User talk:2401:4900:331E:9926:2B7A:3DC9:606B:3B41|talk]])
+2018-06-24T02:06:01+00:00,847263742,845033390,0,Bibcode Bot,Iodine,"Adding 0 [[arXiv|arxiv eprint(s)]], 1 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2019-07-02T13:34:42+00:00,904481449,904480550,0,DocWatson42,Iodine,/* History */ Performed minor cleanup.
+2018-01-14T21:49:08+00:00,820463926,726248618,0,207.191.249.232,Iodine monobromide,/* Synthesis */Added context
+2017-11-22T17:59:14+00:00,811599530,811599470,0,50.200.212.82,Iodine monochloride,Grammar
+2017-07-13T19:34:36+00:00,790441138,786029505,0,86.161.50.43,Iodine monochloride,
+2020-05-26T18:52:45+00:00,959011237,936581178,0,Fswitzer4,Iodine monochloride,Added FDA UNII
+2019-09-19T12:08:39+00:00,916541812,811599530,0,Edgar181,Iodine monochloride,(via [[WP:JWB]])
+2020-01-19T19:03:00+00:00,936581178,936580578,0,46.175.239.16,Iodine monochloride,/* Reactions and uses */
+2017-07-20T15:51:21+00:00,791485836,786925604,0,104.254.92.90,Isocyanic acid,"Added a ""citation needed"" for the claim that information presented about cyanic acid is sometimes about isocyanic acid."
+2018-02-18T13:21:38+00:00,826321718,826321415,0,Adavidb,Ithaca College,/* Energy profile */ expanded source citation
+2018-11-22T21:01:09+00:00,870162429,868566415,0,PensRule11385,Ithaca College,
+2017-06-11T05:00:08+00:00,785015362,783434664,0,Infinitypool,Ithaca College,Ben Feldman
+2017-10-12T03:06:32+00:00,804950757,804950719,0,Ellipsis22,Ithaca College,/* Alumni */
+2018-04-23T20:27:50+00:00,837918151,836946049,0,Chris the speller,Ithaca College,"per [[WP:HYPHEN]], sub-subsection 3, points 3,4,6, replaced: racially- → racially ; other punct using [[Project:AWB|AWB]]"
+2019-03-01T16:39:56+00:00,885683082,885674835,0,ElKevbo,Ithaca College,Revert to revision 885597635 dated 2019-03-01 01:35:07 by Baden-Paul using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2019-06-22T05:39:27+00:00,902910771,902910650,0,Uncreativename6104,Ithaca College,/* History */Fixed previous edit
+2020-07-11T16:41:47+00:00,967178739,963358001,0,Dr. Van Nostrand,Ithaca College,added age to infobox
+2018-05-29T14:39:36+00:00,843496473,843496258,0,Michael Hardy,Lewis acids and bases,
+2017-05-19T02:32:24+00:00,781103388,779971333,0,Double sharp,Lewis acids and bases,/* Applications of Lewis acids */
+2019-12-09T19:13:26+00:00,930025437,930025356,0,129.7.106.20,Lewis acids and bases,/* History */ combine duplicate citation
+2018-12-06T00:06:30+00:00,872225175,872225103,0,Abelmoschus Esculentus,Lewis acids and bases,Reverted edits by [[Special:Contributions/183.82.183.217|183.82.183.217]] ([[User talk:183.82.183.217|talk]]) ([[WP:HG|HG]]) (3.4.5)
+2017-06-05T02:09:28+00:00,783852516,782413084,0,OrganoMetallurgy,Lewis acids and bases,/* Applications of Lewis bases */
+2017-07-25T18:59:26+00:00,792302107,792291852,0,Smokefoot,Lewis acids and bases,ref with doi - try it
+2018-05-16T01:51:25+00:00,841469501,838778880,0,Cedar101,Lewis acids and bases,/* Lewis bases */ |+
+2017-12-14T14:09:45+00:00,815381211,815286296,0,Imagine Reason,Lewis acids and bases,/* Examples */Iron 3
+2019-10-11T12:38:14+00:00,920719246,920718910,0,Smokefoot,Lewis acids and bases,/* Quantifying Lewis acidity */ ref
+2019-12-05T15:22:39+00:00,929394549,929198597,0,174.3.15.151,Lewis acids and bases,"Undid revision 929198597 by [[Special:Contributions/49.15.249.94|49.15.249.94]] ([[User talk:49.15.249.94|talk]])  edit consisted only of ""endjddjdigohofkdvh rkzo4nd Fh"" which is unintelligible.  Likely a mistake."
+2018-03-14T12:09:16+00:00,830370076,826165802,0,Boleslaw,Lewis acids and bases,link
+2017-08-16T02:26:58+00:00,795725565,794354922,0,80.193.152.43,Lewis acids and bases,Undid revision 794354922 by [[Special:Contributions/103.236.177.86|103.236.177.86]] ([[User talk:103.236.177.86|talk]]) vandalism
+2017-11-18T17:36:55+00:00,810968899,800886448,0,37.211.138.157,Lewis acids and bases,:
+2019-12-20T13:20:03+00:00,931679019,931677970,0,27.33.21.17,Lewis acids and bases,Cleanup
+2019-03-12T15:00:03+00:00,887416545,887312539,0,Alsosaid1987,Lewis acids and bases,/* Depicting adducts */ slight rearranging of sentences.  make hydration statement parenthetical
+2018-10-30T20:04:45+00:00,866513028,865643423,0,203.112.209.92,Lewis acids and bases,/* Examples */
+2019-01-24T17:53:10+00:00,879992832,879756481,0,GünniX,Lewis acids and bases,Undid revision 879756481 by [[Special:Contributions/2405:204:A783:6135:A06B:7035:A4C9:D068|2405:204:A783:6135:A06B:7035:A4C9:D068]] ([[User talk:2405:204:A783:6135:A06B:7035:A4C9:D068|talk]])
+2019-06-10T21:08:29+00:00,901281923,901281665,0,Gab4gab,List of Ithaca College alumni,/* Scientists and engineers */ link
+2020-06-29T22:31:02+00:00,965190328,965190209,0,Viewmont Viking,List of Ithaca College alumni,Needs at least one bluelink that does not go to a disambiguate
+2018-11-13T01:25:56+00:00,868570284,868570088,0,Onel5969,List of Ithaca College alumni,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Wikimedia list article"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2020-07-17T16:51:03+00:00,968164501,968163564,0,Gab4gab,List of Ithaca College alumni,/* Journalists */ insert ref
+2019-09-20T15:05:07+00:00,916768785,916768430,0,Gab4gab,List of Ithaca College alumni,/* Hosts */ remove [[Larry Wachs]] who has a redirecct to ''[[The Regular Guys Show]]'' rather than a biography in this Wikipedia
+2017-09-12T06:27:54+00:00,800230378,799818724,0,Henry chianski,List of Ithaca College alumni,/* Actors */ Removed non-notable & unsourced item
+2018-09-29T18:03:27+00:00,861743317,860071333,0,Tassedethe,List of Ithaca College alumni,v2.0 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Patricia Craig]]
+2019-12-28T17:57:09+00:00,932870052,932869864,0,Arjayay,List of Ithaca College alumni,/* Medical Professions */ rm section as is empty
+2018-12-27T19:45:42+00:00,875606087,875273677,0,Edtechbro,List of Ithaca College alumni,/* Actors */ added sean grandillo; cleaned up for consistency
+2018-01-12T16:37:38+00:00,820018576,817024723,0,185.18.133.26,Metal bis(trimethylsilyl)amides,"/* Group 2 complexes */ The source references the benzyl group, its abbreviation is Bn, the abbreviation Bz means 'benzoil' (PhCO)"
+2020-03-23T16:04:45+00:00,946985199,914945592,0,Citation bot,Metal bis(trimethylsilyl)amides,Add: pmid. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:AManWithNoPlan]] | All pages linked from [[User:AManWithNoPlan/sandbox2]] | via #UCB_webform_linked
+2020-07-28T01:58:49+00:00,969903237,969494795,0,Alsosaid1987,Molybdenum,/* Compounds */ MoCl6 was prepared by Seppelt in 2012
+2018-06-06T07:53:37+00:00,844655913,843167693,0,80.120.130.62,Molybdenum,/* Applications */  Mo99 was listed twice
+2019-08-10T18:07:40+00:00,910245432,907577654,0,Brogo13,Molybdenum,[[space bar|ce]]
+2017-08-30T11:48:42+00:00,798001861,795063247,0,Nemo bis,Molybdenum,Added free to read links in citations with [[WP:OABOT|OAbot]] #oabot
+2019-03-20T20:23:37+00:00,888699472,842122137,0,GRALISTAIR,Methyl acetate,tidy up and add extra reference
+2017-02-15T01:22:04+00:00,765547673,753754608,0,DSNA-MECA,Methyl acetate,"Small fix, punctuation error"
+2018-07-06T02:36:22+00:00,849038906,848912847,0,Graeme Bartlett,Nonafluoro-tert-butyl alcohol,pubchems. ec umber
+2019-06-08T14:23:29+00:00,900926170,883302165,0,Edgar181,Nonafluoro-tert-butyl alcohol,removed [[Category:Alcohols]]; added [[Category:Tertiary alcohols]] using [[WP:HC|HotCat]]
+2018-11-20T20:16:51+00:00,869853642,869637208,0,ChemNerd,Phenol,"the term ""phenolic acid"" is a rarely used (most likely never used) synonym for phenol and commonly refers to a the related topic [[phenolic acid]] only"
+2017-08-01T03:33:03+00:00,793335864,791541993,0,TAnthony,Phenol,Correct unknown or deprecated {{Reflist}} parameters (the template is now responsive) and genfixes using [[Project:AWB|AWB]]
+2020-05-05T15:12:07+00:00,955026573,952901705,0,InternetArchiveBot,Phenol,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2018-04-20T15:40:44+00:00,837398923,836239930,0,Double sharp,Phenol,
+2019-04-27T19:07:08+00:00,894414927,892416483,0,50.234.189.37,Phenol,copyedit
+2018-10-21T08:20:10+00:00,865036836,865022213,0,RussBot,Phenol,Bot: Change redirected category [[:Category:Oxyacids|Oxyacids]] to [[:Category:Oxoacids|Oxoacids]]
+2018-05-17T17:17:24+00:00,841726833,841570586,0,Sietse Snel,Phenol,fix citation type
+2018-01-23T22:16:46+00:00,822009485,821922661,0,KolbertBot,Phenol,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481)
+2017-07-01T20:29:33+00:00,788506034,788505948,0,IronGargoyle,Phenol,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Medicallawsuitnightmare|Medicallawsuitnightmare]] ([[User talk:Medicallawsuitnightmare|talk]]): no need to mention that here ([[WP:HG|HG]]) (3.1.22)
+2019-10-02T07:54:04+00:00,919176698,917406853,0,Rjwilmsi,Pyridine,"/* History */Journal cites, Added 1 doi to a journal cite"
+2017-10-13T07:18:42+00:00,805128664,799857474,0,John of Reading,Pyridine,"Typo/[[WP:AWB/GF|general]] fixes, replaced: an [[redox indicator]] → a [[redox indicator]] using [[Project:AWB|AWB]]"
+2017-09-10T07:05:20+00:00,799857474,799734445,0,KolbertBot,Pyridine,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2019-09-23T18:00:41+00:00,917406853,914405746,0,Monkbot,Pyridine,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (2×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2018-01-15T01:47:43+00:00,820505179,820504316,0,Econterms,Pyridine,/* top */ wikilink
+2018-04-28T10:44:19+00:00,838647975,836350770,0,31.11.20.64,Pyridine,http to https
+2018-09-02T21:08:02+00:00,857761374,854191937,0,UltimateChance,Pyrrole,added name with source
+2019-02-16T20:49:57+00:00,883667333,881731802,0,Citation bot,Pyrrole,"Alter: page, isbn, journal, issue, pages. Add: pages, journal, year, issue. Removed parameters. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]]."
+2019-09-11T01:39:36+00:00,915069751,915064250,0,Edgar181,Quinuclidine,Undid revision 915064250 by [[Special:Contributions/50.36.116.243|50.36.116.243]] ([[User talk:50.36.116.243|talk]])
+2019-05-28T17:34:11+00:00,899226999,854232734,0,Finnusertop,Quinuclidine,/* top */ Removed [[WP:UNSOURCED]] content tagged with citation needed since February 2007. [[WP:UNSOURCED|Do not restore without an inline citation to a reliable source]].
+2018-06-10T17:11:49+00:00,845270641,841852035,0,Smokefoot,Rhodium carbonyl chloride,/* Synthesis and reactions */ link Bis(triphenylphosphine)rhodium carbonyl chloride
+2017-03-29T16:18:07+00:00,772830139,749710737,0,128.138.65.203,Quinuclidine,
+2020-02-01T19:11:17+00:00,938678819,938678118,0,Smokefoot,Rhodium carbonyl chloride,Undid revision 938678118 by [[Special:Contributions/Golfpro996|Golfpro996]] ([[User talk:Golfpro996|talk]]) Vogel spam
+2020-08-19T14:11:36+00:00,973836626,967359478,0,PointlessUsername,Rhodium carbonyl chloride,/* Synthesis and reactions */
+2018-11-05T12:24:58+00:00,867391348,866147550,0,Pelirojopajaro,Rhodium carbonyl chloride,added another name found on [[List of compounds with carbon number 4]]
+2016-10-08T19:43:07+00:00,743248714,727576694,0,Magioladitis,Rhodium carbonyl chloride,v1.40 - [[WP:WCW]] project (Pre tag without correct match)
+2019-07-29T05:59:21+00:00,908354631,875711799,0,Transapient,Russell S. Drago,Typo: Chemisrty => Chemistry
+2017-07-17T18:48:15+00:00,791037737,786692553,0,Cedwebster,Russell S. Drago,
+2019-06-22T15:53:39+00:00,902961292,898511809,0,AnomieBOT,Squaric acid,[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Double image}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.
+2018-10-13T09:45:50+00:00,863828496,863827963,0,VladimirMi,Squaric acid,/* Medical uses */
+2020-06-24T03:49:53+00:00,964200376,931998910,0,Fswitzer4,Squaric acid,Added FDA UNII
+2019-03-26T14:18:50+00:00,889564946,863828496,0,Kku,Squaric acid,link [[thermal decomposition]] using [[:en:User:Edward/Find link|Find link]]
+2018-03-10T01:13:51+00:00,829666553,828644492,0,Dirac66,Steric effects,1.Parent cyclobutadiene dimerizes.  2.(t-Bu)4-derivative formed by heating (t-Bu)4-tetrahedrane. (This explains why source = article whose title refers to tetrahedrane.)
+2018-05-08T20:26:13+00:00,840270294,839721875,0,Dirac66,Steric effects,Undid revision 839721875 by [[Special:Contributions/1.187.126.208|1.187.126.208]] ([[User talk:1.187.126.208|talk]]) 1. Rvt unexplained deletion  2. Add link to Electronic effect
+2019-08-29T23:36:42+00:00,913110400,913110363,0,Gatemansgc,Steric effects,Undid revision 913110363 by [[Special:Contributions/2601:3C3:300:12A7:E0C4:72A6:ACEB:30C2|2601:3C3:300:12A7:E0C4:72A6:ACEB:30C2]] ([[User talk:2601:3C3:300:12A7:E0C4:72A6:ACEB:30C2|talk]]) rV test
+2019-11-14T09:04:38+00:00,926112179,918021774,0,223.179.148.126,Steric effects,Fixed typo
+2019-01-24T04:28:47+00:00,879908775,876266603,0,Miracle Pen,Steric effects,mv per [[WP:RELATED]]
+2020-07-12T20:05:38+00:00,967360173,963595284,0,MinusBot,Sulfur dioxide,"Proper minus signs and other cleanup. Report bugs, errors, and suggestions at [[User talk:MinusBot]]"
+2018-08-29T16:15:15+00:00,857105674,855891754,0,Totally Professional,Sulfur dioxide,Removed unnecessary comma.
+2019-03-24T17:29:21+00:00,889275250,887221686,0,Chem Sim 2001,Tetrahydrofuran,New structural formula (.png to -svg)
+2018-05-29T14:36:48+00:00,843496169,781927950,0,Michael Hardy,Talk:ECW model,Michael Hardy moved page [[Talk:ECW Model]] to [[Talk:ECW model]]
+2018-03-15T23:43:06+00:00,830623905,830605040,0,AnomieBOT,Tetrahydrofuran,Dating maintenance tags: {{Citation needed}}
+2019-08-20T15:48:56+00:00,911702372,889275250,0,Yilloslime,Tetrahydrofuran,/* Laboratory use */ rm duplicate sentence about THF being more basic than Et2O
+2018-08-05T01:10:21+00:00,853471478,848018115,0,217.28.0.8,Tetrahydrofuran,
+2018-11-26T05:54:43+00:00,870655469,867298304,0,Dolly442,Tetrahydrothiophene,New section added on naturally occurrence of tetrahydrothiophene and substituted tetrahydrothiophenes
+2019-02-15T09:48:46+00:00,883426725,883382143,0,Keith D,Tetrahydrothiophene,/* Synthesis and reactions */ Fix duplicate parameter
+2019-02-18T22:32:05+00:00,883998222,883426725,0,Dolly442,Tetrahydrothiophene,another natural example; references added
+2017-10-01T14:47:18+00:00,803272673,788715388,0,Smokefoot,Tetraphenylporphyrin,/* Synthesis and structure */ [[porphyrinogen]]
+2019-04-23T08:58:26+00:00,893740862,891268202,0,Mzasso,Tetrahydrothiophene,fix SMILES
+2020-03-24T23:10:45+00:00,947207383,947207313,0,Smokefoot,Tetraphenylporphyrin,/* Complexes */ link
+2017-06-03T20:39:08+00:00,783659642,765724684,0,OrganoMetallurgy,Tetraphenylporphyrin,added [[Category:Phenyl compounds]] using [[WP:HC|HotCat]]
+2018-10-13T12:32:11+00:00,863842672,863729921,0,SMILESmaster,Tetraphenylporphyrin,changed SMILES from aromatic to nonaromatic form
+2019-08-16T11:36:55+00:00,911082508,911081563,0,Smokefoot,Tetraphenylporphyrin,/* Synthesis and structure */ Mansuy link
+2020-07-07T21:07:42+00:00,966569741,947207383,0,IznoRepeat,Tetraphenylporphyrin,"replace soft-deprecated editors parameter, rm ref=harv as applic., gen fixes, misc cite cleaning"
+2016-08-28T12:17:00+00:00,736573975,726092022,0,BiomolecularGraphics4All,Thiocyanic acid,Mark-up journal names in references.
+2018-10-20T04:13:10+00:00,864882592,736573975,0,VexorAbVikipædia,Thiocyanic acid,"Added reference (von Richter, 1922) re naming of thiocyanic acid as ""sulphocyanic acid"""
+2019-12-25T10:05:06+00:00,932365882,927558681,0,Bender the Bot,Triethylamine,"/* top */HTTP → HTTPS for the [[BBC]], replaced: [http://www.bbc.co.uk/ → [https://www.bbc.co.uk/"
+2017-06-06T22:58:51+00:00,784183620,754079307,0,Leyo,Triethylamine,removing [[CLP Regulation#Implementation|outdated]] DSD data when GHS data is present
+2019-06-09T14:34:30+00:00,901073796,901073751,0,Mfernflower,Triethylamine,
+2017-11-27T14:53:51+00:00,812378057,805619495,0,Project Osprey,Triethylamine,
+2017-06-11T11:13:36+00:00,785053522,785052865,0,Bosley John Bosley,Triethylamine,tobacco
+2017-06-06T22:58:36+00:00,784183589,776761244,0,Leyo,Trimethylaluminium,removing [[CLP Regulation#Implementation|outdated]] DSD data when GHS data is present
+2019-01-04T03:55:10+00:00,876735874,874098151,0,The Nth User,Trimethylaluminium,"/* top */ Got the aluminum to have 109.47°, not 90°, angles between bonds"
+2020-06-11T16:39:41+00:00,962016754,950577608,0,Fswitzer4,Trimethylaluminium,Added FDA UNII
+2020-04-12T20:27:09+00:00,950577608,928152828,0,OAbot,Trimethylaluminium,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-03-20T11:15:53+00:00,946472732,945389482,0,Nwbeeson,Trimethylamine,
+2019-10-17T14:04:33+00:00,921723524,921722896,0,IiKkEe,Trimethylamine,"Lead, para 2 - Correction of chemical name"
+2020-05-14T15:24:46+00:00,956657732,950570138,0,Piperh,Trimethylamine,copy edit
+2017-12-11T22:26:35+00:00,814960356,814960200,0,Seppi333,Trimethylamine,Undid revision 811231598 by [[Special:Contributions/183.82.130.165|183.82.130.165]] ([[User talk:183.82.130.165|talk]])
+2018-01-28T08:52:45+00:00,822754426,794863554,0,Emeldir,Trimethylborane,preferred IUPAC name (PIN) according to ''Nomenclature of Organic Chemistry – IUPAC Recommendations and Preferred Names 2013 (Blue Book)''
+2018-11-14T03:28:12+00:00,868737388,868737087,0,Citation bot,Trimethylborane,"Alter: isbn, template type. Add: year, series, pages, volume, title, chapter, author pars. 1-7. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:Headbomb|Headbomb]]"
+2017-11-14T15:34:53+00:00,810322703,810241469,0,Edgar181,Trimethyltin chloride,
+2020-06-23T16:56:32+00:00,964108201,793169045,0,Velella,User talk:BeaglePower,ENGVAR
+2017-07-14T14:31:33+00:00,790556154,787932533,0,Insertcleverphrasehere,User talk:BeaglePower,"Notification: Your [[Draft:A Visual, Graphical Comparison of Acid and Base Strengths|Articles for Creation submission]] has been declined ([[WP:AFCH|AFCH]] 0.9)"
+2019-06-30T04:38:26+00:00,904126732,897549384,0,MediaWiki message delivery,User talk:Devopam,/* New Page Review newsletter July-August 2019 */ new section
+2019-09-12T00:58:52+00:00,915237969,915218036,0,DannyS712 bot,User talk:Devopam,/* New Page Review newsletter September-October 2019 */Task 8: Fix a mass message - remove duplicate <
+2018-06-04T20:22:29+00:00,844421071,844420903,0,TonyBallioni,User talk:DrStrauss,"Protected ""[[User talk:DrStrauss]]"": retired account, courtesy blanked, no reason for this to be bugging watchlists, see IAR ([Edit=Require administrator access] (indefinite) [Move=Require administrator access] (indefinite))"
+2018-03-16T08:17:43+00:00,830675201,830674021,0,SoWhy,User talk:DrStrauss,Undid revision 830674021 by [[Special:Contributions/ShakespeareFan00|ShakespeareFan00]] ([[User talk:ShakespeareFan00|talk]]) - user is blocked infinitely; also adding {{nobots}}
+2018-11-26T10:53:39+00:00,870679548,870671917,0,EdChem,User talk:EdChem,/* Disambiguation link notification for November 26 */ fixed
+2019-08-09T03:44:02+00:00,910017543,909567734,0,Lowercase sigmabot III,User talk:EdChem,Archiving 1 discussion(s) to [[User talk:EdChem/Archive 15]]) (bot
+2018-09-29T05:28:46+00:00,861677560,860810021,0,Lowercase sigmabot III,User talk:Insertcleverphrasehere,Archiving 2 discussion(s) to [[User talk:Insertcleverphrasehere/Archive 9]]) (bot
+2017-08-15T05:55:13+00:00,795588399,795052046,0,Lowercase sigmabot III,User talk:Insertcleverphrasehere,Archiving 2 discussion(s) to [[User talk:Insertcleverphrasehere/Archive 3]]) (bot
+2018-06-01T21:00:01+00:00,843992244,843000398,0,MediaWiki message delivery,User talk:Insertcleverphrasehere,/* Administrators' newsletter – {{subst:#time:F Y}} */ new section
+2019-02-16T10:07:24+00:00,883591027,883590569,0,Cassiopeia,User talk:Insertcleverphrasehere,/* Copyvio tool down */ message
+2017-10-10T05:23:04+00:00,804624372,804467296,0,Lowercase sigmabot III,User talk:Insertcleverphrasehere,"Archiving 3 discussion(s) to [[User talk:Insertcleverphrasehere/Archive 4]], [[User talk:Insertcleverphrasehere/Archive 3]]) (bot"
+2019-07-09T05:20:21+00:00,905447214,904652987,0,Lowercase sigmabot III,User talk:Insertcleverphrasehere,Archiving 2 discussion(s) to [[User talk:Insertcleverphrasehere/Archive 13]]) (bot
+2017-07-25T10:36:57+00:00,792240269,792238936,0,Insertcleverphrasehere,User talk:Insertcleverphrasehere,/* Guizhou Institute of Technology */ nope
+2018-05-02T07:05:43+00:00,839248605,839239658,0,MediaWiki message delivery,User talk:Insertcleverphrasehere,/* Administrators' newsletter – {{subst:#time:F Y}} */ new section
+2020-06-25T05:42:30+00:00,964383802,964349857,0,Lowercase sigmabot III,User talk:Insertcleverphrasehere,Archiving 2 discussion(s) to [[User talk:Insertcleverphrasehere/Archive 17]]) (bot
+2019-03-30T18:45:22+00:00,890188241,889933899,0,MediaWiki message delivery,User talk:Insertcleverphrasehere,/* Scripts++ Newsletter – Issue 4 */ new section
+2020-04-01T01:43:00+00:00,948440396,948421376,0,TenPoundHammer,User talk:Robert McClenon,Notification: [[Wikipedia:Miscellany for deletion/Wikipedia:Miscellany for deletion/Wikipedia:Deletion review (2nd nomination)|nomination]] of [[:Wikipedia:Miscellany for deletion/Wikipedia:Deletion review (2nd nomination)]] at [[WP:MFD|miscellany for deletion]]. using	[[WP:TW|TW]]
+2018-12-10T12:17:45+00:00,872977417,872921104,0,Rush922,User talk:Robert McClenon,
+2018-09-07T20:07:05+00:00,858524020,858513724,0,Smokefoot,User talk:Smokefoot,"/* 2,3-Dihydrothiophene */ ok"
+2019-07-18T13:37:55+00:00,906821461,904096785,0,Graeme Bartlett,User talk:Smokefoot,Nonstoichiometric semiconductors
+2017-08-23T16:24:14+00:00,796881017,796857670,0,Smokefoot,User talk:Smokefoot,/* Potassium formate */ Spheres floating in space do not accurately represent alkali metal cation (or any ion).
+2019-02-17T16:22:19+00:00,883782361,883769717,0,Smokefoot,User talk:Smokefoot,/* Page View Analysis */ yes indeed
+2019-11-19T00:06:32+00:00,926837753,923796542,0,MediaWiki message delivery,User talk:Smokefoot,/* ArbCom 2019 election voter message */ new section
+2018-05-15T22:14:07+00:00,841446845,841446758,0,TheSandDoctor,User talk:TheSandDoctor,/* Tech News: 2018-20 */ archived to [[User talk:TheSandDoctor/Archives/2018/May]]
+2019-01-08T23:37:36+00:00,877487670,877439563,0,Boothsift,User talk:TheSandDoctor,/* Decision to make Perryprog rollback */
+2019-06-07T14:43:39+00:00,900778375,900736029,0,TheSandDoctor,User talk:TheSandDoctor,re multiple
+2019-06-08T09:49:07+00:00,900898804,900892566,0,MediaWiki message delivery,User talk:TheSandDoctor,/* Administrators' newsletter – {{subst:#time:F Y}} */ new section
+2019-08-17T00:35:34+00:00,911169921,911166320,0,TheSandDoctor,User talk:TheSandDoctor,/* Removal of rollback */ done
+2018-08-02T04:53:09+00:00,853059565,852984840,0,ClueBot III,User talk:TheSandDoctor,Archiving 1 discussion to [[User talk:TheSandDoctor/Archives/2018/July]]. (BOT)
+2019-08-06T11:10:41+00:00,909594270,909579586,0,Smokefoot,User talk:Smokefoot,/* Linoleic acid */ thanks
+2017-07-20T18:12:06+00:00,791503293,791501452,0,Musicwest,Wikipedia:Teahouse,/* Establishing notability */ new section
+2018-08-30T20:45:18+00:00,857298972,857298786,0,AlphaKGN,Wikipedia:Teahouse,/* Adding images to Wikipedia pages */
+2020-06-30T17:10:12+00:00,965320856,965318963,0,Theroadislong,Wikipedia:WikiProject Articles for creation/Help desk,"/* 14:20:51, 30 June 2020 review of submission by 216.174.75.9 */  doesn't sound very objective?"
+2019-02-15T01:04:59+00:00,883372613,883372577,0,Cassiopeia,Wikipedia:WikiProject Articles for creation/Help desk,"/* 07:42:09, 14 February 2019 review of submission by Your suraj */ rm space"
+2017-10-17T10:53:52+00:00,805745165,805740702,0,Rejith Mohanan,Wikipedia:WikiProject Articles for creation/Help desk,
+2019-09-06T10:54:05+00:00,914283799,914271274,0,Swansonnery,Wikipedia:WikiProject Articles for creation/Help desk,
+2020-02-20T20:49:45+00:00,941812268,941811609,0,KylieTastic,Wikipedia:WikiProject Articles for creation/Help desk,"/* 12:36:18, 20 February 2020 review of draft by Sharmo96 */"
+2018-06-10T03:58:57+00:00,845199490,845085748,0,Scsbot,Wikipedia:WikiProject Articles for creation/Help desk,edited by robot:\nadding date header(s)
+2018-03-09T04:46:09+00:00,829526668,829523235,0,Scsbot,Wikipedia:WikiProject Articles for creation/Help desk,edited by robot:\nadding date header(s)
+2018-05-18T08:45:18+00:00,841821388,841813656,0,Caileam Raleigh,Wikipedia:WikiProject Articles for creation/Help desk,
+2018-11-19T05:11:56+00:00,869530069,817948374,0,Citation bot,Zinc compounds,"Alter: isbn, url, journal, pages. Add: issue, pmid. Formatted [[WP:ENDASH|dashes]]. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]]."
+2017-12-31T14:47:40+00:00,817948374,813877810,0,Edgar181,Zinc compounds,removed [[Category:Chemical compounds]] using [[WP:HC|HotCat]]
+2020-05-20T08:17:47+00:00,957732298,938174210,0,Cyfal,Zinc compounds,spelling ([[Wikipedia:Typo Team]])
+2019-09-11T20:45:17+00:00,915203242,915192058,0,ComplexRational,Zinc compounds,"Zn²⁺ is formed by the loss of the two s-electrons; hence, only [Ar] 3d¹⁰ remains"
+2018-03-20T14:36:46+00:00,831421791,831420082,0,Lmatt,"1,4-Dioxane",
+2019-11-10T19:08:44+00:00,925533294,922079650,0,116.48.188.251,"1,4-Dioxane",
+2016-07-09T09:53:11+00:00,729027587,720483553,0,Steinsplitter,1-Methylimidazole,([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:MeIm main.png]] → [[File:1-Methylimidazole.png]] [[c:COM:FR#reasons|File renaming criterion #2]]: To change from a meaningless or ambiguous name to a name that describes what the image displays.
+2016-09-14T18:35:51+00:00,739443825,739443557,0,Lizzius,"1,4-Dioxane",Undid revision 739443557 by [[Special:Contributions/213.67.35.246|213.67.35.246]] ([[User talk:213.67.35.246|talk]]) needs RS
+2020-04-12T16:16:22+00:00,950538145,931958309,0,Akrasia25,1-Methylimidazole,link [[alkylation|alkylating agent]] using [[:en:User:Edward/Find link|Find link]]
+2017-11-14T06:48:51+00:00,810266952,807768013,0,89.107.5.192,"1,4-Dioxane",
+2017-03-27T03:54:30+00:00,772414062,761952159,0,JJMC89,1-Methylimidazole,Replace magic links with templates
+2016-09-22T12:50:57+00:00,740657574,698006070,0,1.144.96.214,1-Octanol,Added: octanol has a pungent odor
+2017-09-10T21:54:00+00:00,799966750,785492491,0,92.24.206.13,"2,2,2-Trifluoroethanol",/* Reactions */
+2019-07-01T16:58:22+00:00,904359311,895958566,0,132.229.236.12,1-Octanol,/* Water/octanol partitioning */ markup: whitespace and italic
+2017-09-18T23:51:27+00:00,801317242,796805229,0,Teiu88,1-Octanol,
+2020-01-07T00:31:07+00:00,934521068,904359311,0,Rsjaffe,1-Octanol,update reference to newest edition
+2020-08-26T19:08:25+00:00,975101971,974050858,0,192.226.129.200,"2,2,2-Trifluoroethanol","Old nomenclature (""acid chloride"") replaced with current naming convention (""acyl chloride"")"
+2019-11-30T11:19:59+00:00,928599879,914714983,0,178.235.189.199,"2,2,2-Trifluoroethanol",/* Reactions */
+2017-03-18T13:34:33+00:00,770927135,770925479,0,Nthep,"2,2,2-Trifluoroethanol",Undid revision 770925479 by [[Special:Contributions/Michael0002|Michael0002]] ([[User talk:Michael0002|talk]]) relevance?
+2018-09-15T05:43:51+00:00,859618940,858760076,0,47.8.193.57,Acetone,/* Domestic and other niche uses */
+2020-01-09T09:16:13+00:00,934922001,934816426,0,2601:444:380:8C00:854A:BFA7:5005:46F4,Acetone,
+2016-11-22T12:40:26+00:00,750949093,749135194,0,AwesoMan3000,Acetone,
+2017-11-20T12:00:04+00:00,811245357,811244094,0,138.75.67.83,Acetone,
+2018-08-13T02:18:19+00:00,854680666,854004968,0,113.69.33.154,Acetone,
+2019-08-20T20:08:22+00:00,911736434,911331213,0,Hexafluoride,Acetone,/* Medical and cosmetic uses */ Added pathology field
+2017-10-12T10:45:29+00:00,804989683,804795468,0,Diannaa,Acetone,remove copyright content copied from http://hazard.com/msds/mf/baker/baker/files/a0446.htm ; does not appear to be public domain
+2017-02-14T12:26:42+00:00,765441800,763702250,0,BD2412,Acetonitrile,/* Applications */repair [[Wikipedia:Disambiguation pages with links|disambig pages with links]] and other minor tasks using [[Project:AWB|AWB]]
+2018-08-17T15:41:50+00:00,855338747,840129452,0,Ktsquare,Acetonitrile,/* Production */
+2016-12-19T16:23:45+00:00,755688107,753247801,0,Johnprovis,Acetonitrile,/* Acetonitrile shortage in 2008–2009 */ Copyedit (minor)
+2016-10-13T20:44:17+00:00,744215088,742375265,0,Shoefly,Acetonitrile,/* Acetonitrile shortage in 2008–2009 */
+2016-12-08T12:40:41+00:00,753650298,749445942,0,Bear-rings,Acid,/* Lewis acids */ {{main article|Lewis acids and bases}
+2017-02-26T18:52:58+00:00,767578910,763738830,0,Deor,Acid,Undid revision 763738830 by [[Special:Contributions/Boötes|Boötes]] ([[User talk:Boötes|talk]])
+2019-03-09T09:54:08+00:00,886910216,886894384,0,Galobtter,Acid strength,Reverted edits by [[Special:Contribs/2409:4053:806:6DB2:770:948B:D594:70E1|2409:4053:806:6DB2:770:948B:D594:70E1]] ([[User talk:2409:4053:806:6DB2:770:948B:D594:70E1|talk]]) to last version by John of Reading
+2017-11-22T09:44:59+00:00,811548996,796857935,0,Xxctly,Acid,
+2016-10-26T00:14:16+00:00,746215069,743779220,0,ReGuess,Acid strength,/* top */ Fixing style/layout errors
+2020-03-24T08:51:17+00:00,947098630,947098462,0,MaxEnt,Acid,ndash
+2020-04-06T09:21:41+00:00,949408590,941562838,0,Ewen,Acid strength,/* Weak acids */  Correcting the algebra. [HA] = [H][A]/Ka
+2018-10-17T12:33:17+00:00,864470421,864470328,0,2600:1:9510:1785:C052:EEBA:E050:8E8E,Acid strength,
+2016-08-21T15:25:39+00:00,735557399,729779336,0,76.191.17.222,Acid strength,/* Weak acids in water */ added H3PO4 as another example of a common weak acid
+2017-02-27T20:18:32+00:00,767761002,767709801,0,Pikamander2,Acid–base reaction,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Shawn Michael|Shawn Michael]] using [[WP:STiki|STiki]]
+2018-04-08T21:47:31+00:00,835467357,827033198,0,173.228.119.131,Acid–base reaction,
+2018-05-17T02:01:19+00:00,841636504,841460752,0,2405:205:6401:5FD3:0:0:2AEB:8A5,Acid–base reaction,/* HSAB theory */
+2019-02-19T15:31:01+00:00,884104585,884104547,0,"Neptune, the Mystic",Acid–base reaction,Undid revision 884104547 by [[Special:Contributions/74.75.106.47|74.75.106.47]] ([[User talk:74.75.106.47|talk]])
+2020-05-14T11:43:45+00:00,956628605,956628571,0,Nyook,Acid–base reaction,Reverted 1 edit by [[Special:Contributions/102.65.82.160|102.65.82.160]] ([[User talk:102.65.82.160|talk]]) to last revision by OAbot ([[WP:TW|TW]])
+2019-09-16T15:46:38+00:00,916025491,916024772,0,2401:4900:36A2:11CE:2:1:5AA8:9975,Acid–base reaction,/* Brønsted–Lowry definition */
+2017-09-28T10:38:24+00:00,802769577,800750872,0,42.111.167.206,Acid–base reaction,
+2019-10-02T21:45:00+00:00,919287248,919287191,0,Ubiquity,Acid–base reaction,Reverted 1 edit by [[Special:Contributions/174.109.141.111|174.109.141.111]] ([[User talk:174.109.141.111|talk]]) to last revision by A876 ([[WP:TW|TW]])
+2020-07-06T15:58:43+00:00,966347695,962502145,0,Kiril kovachev,Acid–base reaction,"Changed instances of ""Bronsted"" to ""Brønsted""."
+2020-08-03T03:56:51+00:00,970916395,970915396,0,KH-1,Acid–base reaction,Reverted edits by [[Special:Contribs/Study Thoughts|Study Thoughts]] ([[User talk:Study Thoughts|talk]]) to last version by IznoRepeat
+2020-07-07T10:52:13+00:00,966480696,966330047,0,T0T0R,Ammonia,/* Safety precautions */ update URL of source
+2018-02-27T19:16:22+00:00,827959331,827540587,0,Bridgetedavis,Ammonia,/* Toxicity */
+2017-11-10T12:52:08+00:00,809638243,809515254,0,Nyq,Ammonia,"/* Gaseous ammonia */ decapitalized common nouns, added wikilink"
+2018-12-18T16:38:12+00:00,874335854,874335712,0,Home Lander,Ammonia,Reverted edits by [[Special:Contributions/42.110.195.78|42.110.195.78]] ([[User talk:42.110.195.78|talk]]) ([[WP:HG|HG]]) (3.4.4)
+2019-06-14T00:50:56+00:00,901747785,901364779,0,203.220.154.220,Ammonia,"/* Properties */ Moved sentence beginning ‘Ammonia does not burn readily…’ from heading Solvent properties, where it does not belong, to heading Combustion, where it does."
+2017-10-13T03:06:04+00:00,805108584,805108524,0,PlyrStar93,Ammonia,Reverted edits by [[Special:Contributions/108.60.185.200|108.60.185.200]] ([[User talk:108.60.185.200|talk]]) ([[WP:HG|HG]]) (3.3.0)
+2017-05-24T04:18:28+00:00,781949782,781576217,0,SQMeaner,Ammonia,Added mention of Woulfe.
+2017-01-10T05:42:36+00:00,759272249,758791656,0,Aedazan,Ammonia,Added usage on the ISS
+2018-04-13T07:08:18+00:00,836192471,836191859,0,Klbrain,Ammonia,/* Fertilizer */ Adding reference to support claim
+2018-09-09T20:42:36+00:00,858820288,854515617,0,Klbrain,Ammonia,Adding secondary source in support
+2019-01-04T18:40:55+00:00,876824801,876824738,0,Ma739,Antimony pentachloride,/* Precautions */
+2016-07-12T16:38:14+00:00,729500645,728455385,0,72.164.191.34,Antimony pentachloride,/* References */
+2020-06-01T21:29:50+00:00,960237609,951578330,0,Wbm1058,Base (chemistry),/* Alkalinity of non-hydroxides */ link to [[pH]]
+2018-08-29T09:27:20+00:00,857063049,856675938,0,194.176.105.141,Base (chemistry),Link to the page about Svante Arrhenius when his name is used.
+2016-11-21T14:00:25+00:00,750727316,750727053,0,119.160.116.97,Base (chemistry),/* Acidity of bases */
+2019-12-09T21:44:12+00:00,930046129,930046095,0,CLCStudent,Base (chemistry),Reverted 1 edit by [[Special:Contributions/97.78.255.202|97.78.255.202]] ([[User talk:97.78.255.202|talk]]) to last revision by CLCStudent ([[WP:TW|TW]])
+2020-04-17T20:50:32+00:00,951578330,948021589,0,WikiCleanerBot,Base (chemistry),v2.02b - [[User:WikiCleanerBot#T12|Bot T12]] - [[WP:WCW]] project (Punctuation in link)
+2018-12-22T05:42:01+00:00,874880959,873134457,0,WP Ludicer,Base (chemistry),
+2017-06-30T14:40:00+00:00,788277516,782670480,0,StringRay,Base (chemistry),/* Diacidic bases */ Fixed links
+2019-12-14T00:29:30+00:00,930656874,930036108,0,82.44.156.185,Chloroform,Added links
+2018-03-02T13:48:59+00:00,828428045,828404318,0,Joe2719,Chloroform,/* Deuterochloroform */
+2019-05-27T01:06:42+00:00,898962105,897248070,0,CrasherX,Chloroform,/* Criminal use */ ???
+2020-03-04T04:03:41+00:00,943831940,943831875,0,Kiwi128,Chloroform,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/131.193.175.198|131.193.175.198]] ([[User talk:131.193.175.198|talk]]): Not an improvement ([[WP:TW|TW]])
+2019-03-21T14:19:17+00:00,888797955,888313351,0,Jevandezande,Chloroform,/* Structure */ grammar
+2019-03-13T00:15:09+00:00,887488988,885927044,0,128.32.102.61,Chloroform,/* Natural occurrence */
+2019-05-03T00:38:56+00:00,895254886,895254801,0,Amp71,Base (chemistry),Reverted 1 edit by [[Special:Contributions/74.243.178.219|74.243.178.219]] ([[User talk:74.243.178.219|talk]]) to last revision by 71.221.168.208 ([[WP:TW|TW]])
+2016-06-29T19:52:39+00:00,727560515,721786875,0,Tom.Reding,Cyclooctadiene rhodium chloride dimer,/* References */Rem stub tag(s) (class = non-stub & non-list) using [[Project:AWB|AWB]]
+2019-03-11T10:57:34+00:00,887234223,876994169,0,Allforrous,Cyclooctadiene rhodium chloride dimer,/* References */ Commonscat-inline template.
+2019-03-21T13:45:04+00:00,888794180,888273728,0,Joe2719,Dichloromethane,/* Uses */
+2018-11-23T15:52:34+00:00,870261528,866977921,0,2405:204:9093:6208:0:0:239E:E8A5,Dichloromethane,
+2019-12-16T02:00:13+00:00,930955158,930954842,0,DavidBrooks-AWB,Diethyl ether,Complete previous accidental save
+2018-07-28T12:37:47+00:00,852360592,851610788,0,85.84.189.238,Diethyl ether,Added kPa to vapour pressure property.
+2019-12-01T15:24:38+00:00,928772411,925280866,0,LegionMammal978,Diethyl sulfide,"fixed PubChem ID, IUPAC name"
+2019-01-11T00:21:12+00:00,877802659,874704412,0,Rytyho usa,Dimethyl sulfide,/* Physiology of dimethyl sulfide */ add reference to fetor hepaticus
+2018-07-19T09:29:42+00:00,850987559,847156750,0,Hellbus,Dimethyl sulfide,
+2018-10-12T02:22:59+00:00,863644308,850987559,0,89.107.5.192,Dimethyl sulfide,
+2018-09-18T22:56:53+00:00,860189074,860188325,0,87.254.86.141,Dimethyl sulfoxide,/* Toxicity */
+2017-05-31T20:53:01+00:00,783213288,783212611,0,El C,Dimethyl sulfoxide,Reverted edits by [[Special:Contribs/2001:7D0:87D1:AA80:7565:8328:36F1:EE7C|2001:7D0:87D1:AA80:7565:8328:36F1:EE7C]] ([[User talk:2001:7D0:87D1:AA80:7565:8328:36F1:EE7C|talk]]) to last version by Vir Novus
+2016-12-31T14:20:58+00:00,757583582,754619012,0,49.181.209.130,Dimethyl sulfoxide,"/* Toxicity */Fixed misunderstanding regarding the Australian Standard for Uniform Scheduling of Medicines and Poisons, specifically S4; a category reserved for prescription medicines."
+2019-12-02T10:46:51+00:00,928899027,925706006,0,Narky Blert,Dimethyl sulfoxide,Chem template for formula
+2016-10-13T08:52:26+00:00,744129458,743248418,0,Tachs,Dimethylacetamide,Disambiguated: [[depression]] → [[Major depressive disorder]]
+2016-10-08T19:40:35+00:00,743248418,742940490,0,Jk54gdzh,Dimethylacetamide,/* Toxicity */
+2020-03-05T00:43:30+00:00,943984916,942658535,0,Vuo,Dimethylacetamide,/* Reactions and applications */
+2018-01-16T22:09:01+00:00,820837005,820836951,0,Oblxbd9vl69f,Dimethylacetamide,remove outdated reference
+2018-12-08T03:27:28+00:00,872618582,868636107,0,117.225.3.18,Dimethylamine,
+2019-07-21T22:54:11+00:00,907297897,907297584,0,Sandcherry,Dimethylamine,rearrange
+2018-08-07T22:18:11+00:00,853936415,853936292,0,NewEnglandYankee,Dimethylformamide,Reverted edits by [[Special:Contribs/37.231.37.43|37.231.37.43]] ([[User talk:37.231.37.43|talk]]) to last version by Shellwood
+2020-01-22T18:30:07+00:00,937060944,931456217,0,Cincotta1,Dimethylformamide,"/* Applications */ removing irrelevant link, could not find relevant article to point to"
+2017-11-07T07:37:54+00:00,809124869,807744754,0,193.219.163.165,Dimethylformamide,/* Production */ [[]]]
+2019-05-31T13:50:00+00:00,899659322,899659301,0,DatGuy,Dimethylformamide,Reverted edits by [[Special:Contributions/14.253.94.162|14.253.94.162]] ([[User talk:14.253.94.162|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2017-09-12T01:03:11+00:00,800194165,796396347,0,Vanished user 0x8cSXE0x6,Dimethylformamide,
+2017-03-08T16:07:23+00:00,769282753,749391375,0,152.15.51.98,Dimethylformamide,grammar error
+2012-08-15T18:38:04+00:00,507570929,475430373,0,140.180.10.63,Donor number,"IUPAC says quantitative, not qualitative. I mean... there are numbers for pete's sake but here's the reference http://goldbook.iupac.org/D01833.html"
+2020-05-03T16:40:03+00:00,954661318,954660230,0,Skihatboatbike,Ethyl acetate,/* Production */ reads less like an advert for the company providing the reference
+2016-11-15T23:11:13+00:00,749742759,742520992,0,Jérôme,Ethyl acetate,/* Safety */ write it out
+2020-03-23T16:51:43+00:00,946991751,946823456,0,Hqb,Ethyl acetate,/* Laboratory uses */ {{OrgSynth}}
+2016-10-04T05:49:05+00:00,742520992,738069119,0,KenShirriff,Ethyl acetate,"Undid revision 712360265 by [[Special:Contributions/169.226.168.126|169.226.168.126]] ([[User talk:169.226.168.126|talk]]), probable vandalism"
+2020-08-01T22:10:24+00:00,970702984,968839635,0,DoodleFarmer,Ethyl acetate,Fixed typo (changed units for PEL from M^3 to mg/M^3)
+2018-06-10T11:19:42+00:00,845234398,838007042,0,Finlay McWalter,Ethyl acetate,fix misplaced newlines in ref
+2019-10-17T03:56:19+00:00,921671539,861274884,0,Newone,Gutmann–Beckett method,
+2017-02-19T16:51:35+00:00,766337333,766337285,0,Pinkshrimp,HSAB theory,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/182.186.199.16|182.186.199.16]] ([[User talk:182.186.199.16|talk]]). ([[WP:TW|TW]])
+2016-10-17T06:09:09+00:00,744751265,744742032,0,YBG,HSAB theory,/* Theory */ Convert two bulleted lists into a single comparison table which is more compact and much more understandable IMHO
+2016-05-31T17:21:56+00:00,723044609,705509173,0,Dcirovic,Hexafluoro-2-propanol,/* Production and uses */clean up using [[Project:AWB|AWB]]
+2018-06-20T16:04:20+00:00,846739221,845971083,0,86.120.139.90,HSAB theory,
+2016-08-29T14:26:08+00:00,736737873,723044624,0,Cmduchane,Hexafluoroacetylacetone,Corrected the doi for reference 3
+2019-11-23T17:30:30+00:00,927615961,927605354,0,Zefr,Iodine,/* Applications */ trim as unnecessary context
+2017-10-10T01:50:03+00:00,804603038,802797986,0,Plantdrew,Iodine,dab eggs
+2018-09-22T20:45:40+00:00,860755387,860755276,0,HaeB,Iodine,Reverted edits by [[Special:Contribs/217.42.69.201|217.42.69.201]] ([[User talk:217.42.69.201|talk]]) to last version by 1.122.98.55
+2017-10-26T19:44:42+00:00,807240435,807240358,0,GreenMeansGo,Iodine,Reverted 1 pending edit by [[Special:Contributions/192.149.88.213|192.149.88.213]] to revision 806999281 by Hasive: Bye Calvin
+2019-03-03T22:19:42+00:00,886036401,886034637,0,Justlettersandnumbers,Iodine,Reverted edits by [[Special:Contribs/50.100.183.154|50.100.183.154]] ([[User talk:50.100.183.154|talk]]) to last version by Citation bot
+2017-01-17T21:27:02+00:00,760578948,760578875,0,Anaxial,Iodine,Reverted 1 edit by [[Special:Contributions/2600:8804:6C02:1500:A474:9357:1787:2942|2600:8804:6C02:1500:A474:9357:1787:2942]] ([[User talk:2600:8804:6C02:1500:A474:9357:1787:2942|talk]]) to last revision by Hullaballoo Wolfowitz. using [[WP:TW|TW]]
+2017-07-12T02:57:00+00:00,790181700,790181620,0,Johnmichaeloliver,Iodine,
+2017-11-04T09:08:01+00:00,808661584,808661062,0,WikiWikiWayne,Iodine,Reverted 1 pending edit by [[Special:Contributions/182.253.163.6|182.253.163.6]] to revision 808372281 by Arjayay: not supported by citations within body of article
+2020-07-16T22:34:29+00:00,968049711,968049621,0,CycloneYoris,Iodine,Reverted 2 pending edits by [[Special:Contributions/178.255.168.187|178.255.168.187]] to revision 967638046 by Trappist the monk
+2018-07-04T09:50:38+00:00,848790665,848790275,0,Oshwah,Iodine,Reverted edits by [[Special:Contributions/176.215.130.86|176.215.130.86]] ([[User talk:176.215.130.86|talk]]): not adhering to [[WP:NPOV|neutral point of view]] ([[WP:HG|HG]]) (3.4.3)
+2019-11-22T02:34:22+00:00,927373615,927373594,0,El C,Iodine,Reverted edits by [[Special:Contribs/103.220.77.149|103.220.77.149]] ([[User talk:103.220.77.149|talk]]) to last version by InternetArchiveBot
+2019-03-17T04:44:04+00:00,888138313,888138155,0,108.6.228.70,Iodine,/* Dietary intake */
+2018-11-08T01:05:22+00:00,867789663,867275699,0,65.130.17.178,Iodine,
+2018-10-20T19:49:13+00:00,864966022,864800773,0,Diannaa,Iodine,remove copyright content copied from http://kurslab-atom.fysik.lth.se/FKAtommol/HLS.pdf
+2018-11-11T12:54:06+00:00,868319422,867789663,0,Lamiot,Iodine,/* Biological role */ picture
+2018-01-08T12:13:39+00:00,819268867,819268838,0,Theinstantmatrix,Iodine,Reverted edits by [[Special:Contribs/217.180.35.20|217.180.35.20]] ([[User talk:217.180.35.20|talk]]) to last version by Ed g2s
+2016-11-21T03:15:38+00:00,750662356,750363840,0,165.124.144.208,Iodine,deleted a word
+2020-01-28T13:24:52+00:00,937989829,937879296,0,4.28.232.49,Iodine,/* In popular culture */
+2016-09-29T12:29:36+00:00,741750030,739605421,0,47.201.185.190,Iodine,"Changed ""remedied"" to ""prevented""."
+2016-06-21T00:37:32+00:00,726248618,670416791,0,2601:542:C100:5507:CDDC:315F:674A:F8D1,Iodine monobromide,/* References */
+2019-01-08T21:47:14+00:00,877474451,877474345,0,Girth Summit,Iodine,Reverted 1 edit by [[Special:Contributions/Derpyderpcatz|Derpyderpcatz]] ([[User talk:Derpyderpcatz|talk]]) to last revision by Orphan Wiki. ([[WP:TW|TW]])
+2016-09-06T22:03:32+00:00,738098162,738097864,0,199.16.58.37,Iodine monochloride,The colors stated were incorrect
+2018-06-04T07:29:33+00:00,844335899,844335670,0,Marteau,Isocyanic acid,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/174.2.177.138|174.2.177.138]] ([[User talk:174.2.177.138|talk]]): Per [[WP:RETAIN]] with few exceptions we retain the English variant established in an article. ([[WP:TW|TW]])
+2019-04-29T18:14:46+00:00,894737820,894737737,0,Amber388,Ithaca College,/* Alumni */
+2019-12-28T01:37:28+00:00,932758862,932758811,0,つがる,Ithaca College,Reverted edits by [[Special:Contributions/2604:2000:1105:C071:D96:E015:8732:6475|2604:2000:1105:C071:D96:E015:8732:6475]] ([[User talk:2604:2000:1105:C071:D96:E015:8732:6475|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2018-08-27T16:04:24+00:00,856797590,856274176,0,O2Zest,Ithaca College,/* Greek life */ added citations
+2018-03-12T17:48:34+00:00,830087737,828587657,0,161.150.240.2,Ithaca College,Updated endowment figures to reflect current data: file:///C:/Users/FE33127/Downloads/fib1718.pdf
+2017-01-16T15:04:58+00:00,760365492,760363259,0,JohnInDC,Ithaca College,Reverted edits by [[Special:Contribs/Maximillion33333|Maximillion33333]] ([[User talk:Maximillion33333|talk]]) to last version by GeneralizationsAreBad
+2018-10-17T04:20:31+00:00,864428808,863712958,0,Smasongarrison,Ithaca College,copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]; [[Template:Citation_Style_documentation#url|url trimming]] of identifying info per[[WP:LINKSTOAVOID]]
+2018-09-14T15:29:56+00:00,859521841,859281970,0,2601:183:8680:71E2:E02D:F7E9:7CD6:7023,Ithaca College,/* Alumni */
+2020-06-08T08:58:42+00:00,961408525,957714509,0,BHGbot,Ithaca College,"[[WP:BHGbot 6]] ([[User:BHGbot/6/List 3|List 3]]): eponymous category first, per [[MOS:CATORDER]]; [[WP:GENFIXES]]"
+2018-12-22T22:03:47+00:00,874975297,874896862,0,William Graham,Ithaca College,/* External links */
+2017-06-02T08:07:00+00:00,783434664,783433992,0,X4n6,Ithaca College,
+2020-01-31T00:58:17+00:00,938411195,938291110,0,Contributor321,Ithaca College,updated endowment
+2018-04-29T07:42:46+00:00,838778880,835736729,0,ShakespeareFan00,Lewis acids and bases,
+2016-08-25T22:21:34+00:00,736205066,723265921,0,Roches,Lewis acids and bases,/* Depicting adducts */
+2018-11-16T18:10:22+00:00,869144577,868137364,0,176.186.137.206,Lewis acids and bases,/* Lewis bases */
+2016-10-03T13:38:25+00:00,742400715,741248237,0,119.156.50.216,Lewis acids and bases,/* Complex Lewis acids */
+2019-09-03T15:21:37+00:00,913842286,913842219,0,Hugsyrup,Lewis acids and bases,Reverted edits by [[Special:Contribs/131.251.253.32|131.251.253.32]] ([[User talk:131.251.253.32|talk]]) to last version by Citation bot
+2017-04-24T09:39:16+00:00,776948328,773926038,0,2001:2D8:6659:958:0:0:151F:C105,Lewis acids and bases,fixed the error of the content
+2019-02-25T15:07:44+00:00,885032895,882172662,0,Ctmidgley,Lewis acids and bases,/* Lewis bases */Made first ref to pyridine a link
+2019-03-04T06:08:50+00:00,886091276,886091232,0,Enwebb,List of Ithaca College alumni,/* Photographers */ +detail on Blas
+2017-03-31T03:30:21+00:00,773075154,773074752,0,71.224.210.86,List of Ithaca College alumni,/* Writers */
+2016-11-13T03:41:59+00:00,749218173,744295819,0,KU,List of Ithaca College alumni,"Added the Ithaca, New York template."
+2019-07-07T04:15:42+00:00,905141090,905084200,0,Steel1943,List of Ithaca College alumni,"/* Actors and Designers */Disambiguate [[Jeremy Jordan (actor)]], replaced: Jeremy Jordan (actor) → Jeremy Jordan (actor, born 1984)"
+2018-07-30T05:28:27+00:00,852612780,852193017,0,100.16.140.135,List of Ithaca College alumni,/* Actors */Added content
+2017-08-22T20:45:32+00:00,796749510,796749464,0,Jessicapierce,List of Ithaca College alumni,typo
+2019-01-01T11:46:54+00:00,876286303,853125958,0,Venomous Sniper,Metal bis(trimethylsilyl)amides,fix/remove bogus file options
+2018-08-02T16:14:25+00:00,853125958,853125160,0,Mountainninja,Metal bis(trimethylsilyl)amides,/* p-Block complexes */
+2017-01-10T21:59:46+00:00,759391126,757065446,0,Minihaa,Metal bis(trimethylsilyl)amides,Link to [[Tris(trimethylsilyl)amine]]
+2018-05-10T12:44:20+00:00,840522491,839243028,0,157.82.122.42,Metal bis(trimethylsilyl)amides,
+2019-12-27T19:21:59+00:00,932708928,888699472,0,5.111.123.131,Methyl acetate,
+2016-09-06T18:48:43+00:00,738069083,738067342,0,CheMoBot,Methyl acetate,Updating {{chembox}} (changes to verified and watched fields) per [[WP:CHEMVALID|Chem/infobox_drug validation]] (report [[Wikipedia_talk:WikiProject_Chemicals|errors]] or [[user talk:CheMoBot|bugs]])
+2017-12-05T15:49:23+00:00,813851311,813851234,0,WikiMasterGhibif,Molybdenum,Reverted 2 edits by [[Special:Contributions/42.109.177.219|42.109.177.219]] ([[User talk:42.109.177.219|talk]]) to last revision by 24.234.136.184. ([[WP:TW|TW]])
+2017-07-02T15:06:34+00:00,788630950,787286959,0,PrimeBOT,Molybdenum,/* Nitrogenases */remove [[UTM parameters]] (Google analytics) from URLs - [[Wikipedia:Bots/Requests for approval/PrimeBOT 17|BRFA]]
+2019-05-19T17:59:03+00:00,897841276,890673442,0,Maxeto0910,Molybdenum,
+2019-04-02T20:35:12+00:00,890673442,890642640,0,Urhixidur,Molybdenum,Juris
+2018-09-04T15:51:27+00:00,858024185,855311107,0,Godihrdt,Molybdenum,Space removed
+2020-02-27T05:50:02+00:00,942845800,942556027,0,Crossover1370,Phenol,Why does this need to be bold?
+2018-01-04T17:24:02+00:00,818626608,818332245,0,Ktsquare,Phenol,
+2018-12-14T19:58:03+00:00,873743766,873742179,0,164.144.54.1,Phenol,"cyclohexanol is not the iupac name of phenol, it is a different more saturated chemical"
+2018-03-05T19:29:11+00:00,828952228,828877951,0,68.191.55.75,Phenol,/* Second World War */
+2019-09-23T23:39:55+00:00,917465514,916886449,0,Ryboy42,Molybdenum,Rescuing 30 sources and tagging 0 as dead.) #IABot (v2.0
+2016-12-01T01:42:22+00:00,752402605,749395165,0,89.67.173.252,Phenol,
+2018-02-09T10:48:16+00:00,824767968,824071128,0,115.254.96.2,Phenol,
+2017-10-11T12:09:49+00:00,804830892,804624843,0,Ministryofinformation,Phenol,/* History */ Carlisle is not in Scotland!
+2019-07-10T13:21:13+00:00,905652668,900403018,0,Chemmuc,Phenol,Updated the section on the phenoxide anion to consider recent investigations on its reactivity.
+2017-11-06T15:59:20+00:00,809007798,809006398,0,LcawteHuggle,Phenol,Reverted edits by [[Special:Contributions/Kanuthakran|Kanuthakran]] ([[User talk:Kanuthakran|talk]]) ([[WP:HG|HG]]) (3.3.2)
+2017-04-11T10:37:17+00:00,774896304,774893665,0,Adwctamia,Pyridine,
+2019-12-27T06:53:41+00:00,932627136,932627040,0,2601:89:C501:D8A0:D438:2DB2:4D7F:83E9,Pyridine,Fixed typo
+2019-04-09T15:07:20+00:00,891689754,891689349,0,StaringAtTheStars,Pyridine,Undid revision 891689349 by [[Special:Contributions/194.44.29.202|194.44.29.202]] ([[User talk:194.44.29.202|talk]]) unsourced
+2017-02-05T13:33:20+00:00,763831689,763820904,0,188.29.165.7,Pyridine,/* Ligand and Lewis base */  corrected error
+2019-07-15T18:30:38+00:00,906420594,905479318,0,106.215.192.114,Pyridine,/* Production */Edited manufacturers of pyridine over the world
+2016-09-20T01:55:48+00:00,740269320,740268427,0,75.164.155.194,Pyridine,wording
+2019-06-08T10:29:15+00:00,900902100,895012242,0,2401:4900:B91:C74C:EE4:A661:D8E8:8966,Pyridine,/* Nucleophilic substitutions */
+2019-02-25T15:13:28+00:00,885033560,884975021,0,Ctmidgley,Pyridine,/* Chemical properties */improved clarity of grammar
+2017-03-20T09:52:28+00:00,771229229,763831689,0,786b6364,Pyridine,/* Other methods */ Resolved dablink
+2019-07-19T12:19:18+00:00,906950434,897612834,0,Joe2719,Pyrrole,/* Commercial uses */
+2017-03-12T03:08:32+00:00,769872108,769857447,0,MusselParty,Pyrrole,"Two new references now ""goes a name continuing pyrrole"" while also indicating the chemical structure of this type of pigment and other relevant information."
+2018-08-09T15:39:46+00:00,854191937,852120815,0,Hbf878,Pyrrole,png->svg
+2019-10-10T02:57:38+00:00,920486500,908354631,0,2603:9000:DE0A:9B75:68BE:C237:67C0:DBB4,Russell S. Drago,Correction
+2018-12-28T14:20:43+00:00,875711799,873942709,0,Plucas58,Russell S. Drago,Add category
+2020-04-25T17:21:10+00:00,953088668,920486500,0,JJMC89 bot III,Russell S. Drago,Removing [[:Category:Guggenheim Fellows]] per [[Wikipedia:Categories for discussion/Log/2020 April 13#Category:Guggenheim Fellows]]
+2017-12-15T23:13:50+00:00,815616397,815616246,0,Anthony Appleyard,Squaric acid,/* Chemical properties */ ed
+2018-02-09T17:30:56+00:00,824815065,824814889,0,108.16.196.194,Squaric acid,
+2017-01-13T20:39:51+00:00,759910802,759085813,0,130.203.120.50,Steric effects,/* Other steric effects */
+2017-06-09T01:01:35+00:00,784571094,784568426,0,Flyer22 Frozen,Steric effects,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/2405:204:708A:EAA6:199B:865D:FF14:29BC|2405:204:708A:EAA6:199B:865D:FF14:29BC]] using [[WP:STiki|STiki]]
+2018-10-22T04:54:00+00:00,865163153,859890805,0,2605:E000:1124:4117:F13F:7E9:B7A2:53AD,Steric effects,
+2017-02-28T02:40:01+00:00,767811221,763744998,0,Three-quarter-ten,Sulfur dioxide,/* As a refrigerant */ Example image seen there
+2018-05-27T13:50:40+00:00,843187743,841750917,0,Oculus Dexter,Sulfur dioxide,/* Occurrence */
+2018-09-30T21:53:12+00:00,861905929,861905786,0,Tornado chaser,Sulfur dioxide,"oops, this is just about the pressure, not the compuond itselfe"
+2016-11-18T10:41:22+00:00,750212024,748380972,0,Harut111,Sulfur dioxide,/* Occurrence */
+2018-04-03T18:15:15+00:00,834054231,831882202,0,Jimw338,Sulfur dioxide,/* Occurrence */Lk
+2017-02-07T15:39:10+00:00,764188296,764186005,0,Gilliam,Tetrahydrofuran,Reverted edits by [[Special:Contribs/2001:630:301:4631:B811:6E89:B207:C87F|2001:630:301:4631:B811:6E89:B207:C87F]] ([[User talk:2001:630:301:4631:B811:6E89:B207:C87F|talk]]) to last version by 128.180.33.171
+2016-11-04T02:51:52+00:00,747740354,744352984,0,74.197.169.165,Tetrahydrofuran,/* As a solvent */  fixed two links to the 'Base_(chemistry)' page.
+2018-05-11T12:26:08+00:00,840677147,830623905,0,Joe2719,Tetrahydrofuran,/* Other methods */
+2020-02-07T09:53:53+00:00,939578155,893740862,0,Narky Blert,Tetrahydrothiophene,Link to DAB page repaired
+2016-05-26T09:36:18+00:00,722155367,722155144,0,Zhurakovskyi,Tetrahydrothiophene,
+2018-03-13T17:53:32+00:00,830250161,830250136,0,47.156.233.252,Tetrahydrothiophene,
+2016-08-02T18:00:40+00:00,732704604,724303009,0,2607:FE50:0:6101:BCFD:1EFC:332D:5C44,Tetraphenylporphyrin,/* Synthesis and structure */
+2018-08-30T11:48:03+00:00,857231756,803272673,0,98.239.227.65,Tetraphenylporphyrin,improve
+2017-07-03T01:53:48+00:00,788715388,788607652,0,PrimeBOT,Tetraphenylporphyrin,Replace [[Help:Magic_links|magic links]] with templates per [[Special:PermaLink/772743896#Future_of_magic_links|local RfC]] - [[User:PrimeBOT/13|BRFA]]
+2019-09-23T13:31:01+00:00,917358518,864882592,0,PedjaNbg,Thiocyanic acid,Added free to read link in citations with [[WP:OABOT|OAbot]] #oabot
+2016-07-14T23:21:43+00:00,729844775,729844768,0,DavidLeighEllis,Triethylamine,Reverted edits by [[Special:Contribs/140.161.80.16|140.161.80.16]] ([[User talk:140.161.80.16|talk]]) to last version by DavidLeighEllis
+2019-03-19T16:43:02+00:00,888507235,888507181,0,Bexben,Triethylamine,/* Niche uses */
+2016-06-06T17:27:08+00:00,724020584,691455452,0,Dcirovic,Trimethylaluminium,"refs, [[WP:AWB/T|typo(s) fixed]]: For example → For example, using [[Project:AWB|AWB]]"
+2018-06-19T08:49:54+00:00,846524451,826931101,0,103.234.148.133,Trimethylaluminium,redundancy in sounding rockets
+2018-12-17T03:23:21+00:00,874098151,846524451,0,DragonflySixtyseven,Trimethylaluminium,'utterance' ?
+2017-02-16T21:00:12+00:00,765859173,755730020,0,CitationCleanerBot,Trimethylamine,"clean up, remove url redundant with pmid, remove accessdate if no url, Report bugs, errors, and suggestions at [[User talk:CitationCleanerBot]]"
+2019-02-06T00:14:07+00:00,881971420,880990617,0,Nonstopdrivel,Trimethylamine,/* Trimethylaminuria */  Punctuation
+2016-12-19T21:12:43+00:00,755730020,755633283,0,RexSueciae,Trimethylamine,improved reference
+2020-06-02T00:12:05+00:00,960258382,956657732,0,Tkbrett,Trimethylamine,typo
+2018-02-24T07:44:49+00:00,827362348,824688875,0,138.75.183.226,Trimethylborane,
+2020-06-22T05:49:37+00:00,963856242,963740046,0,Jérôme,Trimethylborane,/* Preparation */ es → en
+2016-11-23T15:21:10+00:00,751128739,727672494,0,The chemistds,Trimethyltin chloride,added CSID and InChI(Key)s & pubchemID
+2016-10-20T01:51:22+00:00,745242237,722885927,0,Ser Amantio di Nicolao,User talk:Devopam,new message using [[Project:AWB|AWB]]
+2019-07-16T04:55:19+00:00,906486497,906401146,0,Devopam,User talk:Devopam,/* Bibliography added */
+2018-01-06T16:43:17+00:00,818964692,818964540,0,Winged Blades of Godric,User talk:DrStrauss,Courtesy blanked....
+2017-05-15T23:15:44+00:00,780573431,780297443,0,Northamerica1000,User talk:EdChem,/* DYK */ new section
+2019-07-17T09:11:29+00:00,906655109,906615013,0,Girth Summit,User talk:Insertcleverphrasehere,/* NPP flowchart */ reply
+2018-01-09T14:04:47+00:00,819460613,819460557,0,Largoplazo,User talk:Insertcleverphrasehere,/* Billionaires */
+2020-04-07T15:58:53+00:00,949625727,948476877,0,2600:1004:B12C:16E5:BDFF:3E49:E5B:E995,User talk:Insertcleverphrasehere,/* BLP violations */ new section
+2019-11-10T23:23:23+00:00,925568578,925156485,0,Schazjmd,User talk:Insertcleverphrasehere,/* Split screen */ new section
+2018-04-12T17:13:49+00:00,836095001,836094958,0,Primefac,User talk:Insertcleverphrasehere,/* New page reviewers */ whoops
+2019-11-07T18:02:24+00:00,925074871,925072153,0,Steve Quinn,User talk:Robert McClenon,/* Ute Lotz-Heumann */ reply to Robert McClenon
+2017-01-09T01:16:48+00:00,759059099,759022011,0,Iss246,User talk:Robert McClenon,/* Organizational behavior */ Thank you.
+2017-01-16T19:39:52+00:00,760401452,760397078,0,Robert McClenon,User talk:Robert McClenon,/* Geographic features */   okay
+2017-09-08T18:33:11+00:00,799602953,799555908,0,Ffederal,User talk:Robert McClenon,/* Yandex.Peoples map */ new section
+2019-11-25T20:26:26+00:00,927947178,927943897,0,Robert McClenon,User talk:Robert McClenon,/* I have sent you a note about a page you started */   no
+2017-03-28T05:32:33+00:00,772590100,772589922,0,Robert McClenon,User talk:Robert McClenon,/* How do I edit now-closed dispute page? */   no need to do that
+2018-01-26T21:55:04+00:00,822526659,822512198,0,Robert McClenon,User talk:Robert McClenon,/* Your Follow-Up Thought on Joefromrandb RFAR */   okay
+2018-03-29T20:10:27+00:00,833127337,833127157,0,SineBot,User talk:Robert McClenon,"Signing comment by [[User:Karel dragoun|Karel dragoun]] - ""/* You've got mail */"""
+2018-10-14T15:31:30+00:00,864016151,864015878,0,Hyehwang Kim,User talk:Smokefoot,/* Tellurophene */
+2016-09-20T15:21:18+00:00,740358150,736881917,0,82.137.13.183,User talk:Smokefoot,/* Access to some sources */ new section
+2018-08-11T02:36:01+00:00,854401815,854401722,0,GeeBee60,User talk:Smokefoot,/* Organic fert / biosolids */ typo
+2020-08-02T09:08:58+00:00,970776007,970747171,0,Capt. Quinlan,User talk:TheSandDoctor,/* Talk page for review */ new section
+2020-04-05T00:49:41+00:00,949167813,949033435,0,CAPTAIN RAJU,User talk:TheSandDoctor,/* Happy Birthday! */ new section ([[User:SD0001/BDCS|BDCS]])
+2018-01-11T23:24:17+00:00,819906199,819900581,0,Tavix,User talk:TheSandDoctor,/* RfD */ fine by me
+2019-10-19T08:20:34+00:00,922004486,922004411,0,SineBot,User talk:TheSandDoctor,"Signing comment by [[User:Ajobryan|Ajobryan]] - ""/* Thanks and a question */"""
+2017-04-22T01:48:03+00:00,776601810,776601607,0,SineBot,Wikipedia:Teahouse,"Signing comment by [[User:Rohit4766|Rohit4766]] - ""/* changing the title of any wikipidea page. */ new section"""
+2019-09-29T07:30:50+00:00,918556038,917248571,0,NinjaRobotPirate,User talk:TheSandDoctor,/* Drama */ new section
+2018-04-21T18:49:08+00:00,837580881,837580631,0,TBR-qed,Wikipedia:Teahouse,/* how replace footnote section with references section */ new section
+2017-08-29T07:52:12+00:00,797803408,797803079,0,Jmcgnh,Wikipedia:Teahouse,/* For proficient markup code users - Link grouping. Is this correct and is there a related guideline/example? */ rr-again after {{ec}}
+2020-07-06T19:55:06+00:00,966380975,966380705,0,ColinFine,Wikipedia:Teahouse,/* Can anyone help me? */
+2018-05-04T07:24:47+00:00,839565696,839565619,0,Chronocam,Wikipedia:Teahouse,/* Stub-class to starter-class */ correcting typos
+2017-05-07T17:31:57+00:00,779214078,779206887,0,Rivertorch,Wikipedia:Teahouse,/* Adding a section to a page about a book */ cmt
+2020-06-07T02:36:21+00:00,961187063,961176681,0,Davykamanzi,Wikipedia:WikiProject Articles for creation/Help desk,"/* {{subst:#time:H:i:s, j F Y}} review of submission by {{SUBST:REVISIONUSER}} */ new section"
+2019-05-08T13:54:49+00:00,896130845,896112144,0,Musa lawi mafolo,Wikipedia:WikiProject Articles for creation/Help desk,
+2019-02-09T14:31:02+00:00,882495825,882495752,0,Curb Safe Charmer,Wikipedia:WikiProject Articles for creation/Help desk,"/* 06:54:57, 6 February 2019 review of submission by Meri Asatryan */ removed duplicate, see response below"
+2019-04-23T07:47:14+00:00,893734680,893726016,0,MJKLB,Wikipedia:WikiProject Articles for creation/Help desk,
+2017-11-26T09:46:57+00:00,812162690,812162677,0,Sextv29,Wikipedia:WikiProject Articles for creation/Help desk,
+2017-03-07T09:26:08+00:00,769057221,769015487,0,Kman1011,Wikipedia:WikiProject Articles for creation/Help desk,
+2020-01-18T02:06:45+00:00,936321746,936320662,0,Worldbruce,Wikipedia:WikiProject Articles for creation/Help desk,"/* 21:29:39, 17 January 2020 review of submission by Juliecmi */ re"
+2018-09-06T09:44:29+00:00,858316599,858313238,0,Nosebagbear,Wikipedia:WikiProject Articles for creation/Help desk,"/* 02:25:06, 6 September 2018 review of draft by 68.103.78.155 */  - no references yet"
+2018-04-27T09:00:33+00:00,838481571,838469511,0,Sinusidharth2018,Wikipedia:WikiProject Articles for creation/Help desk,
+2020-01-10T20:56:20+00:00,935154742,935147601,0,Orangemike,Wikipedia:WikiProject Articles for creation/Help desk,"/* 19:22:35, 8 January 2020 review of submission by RVelarde200 */ up-and-coming next big thing"
+2018-09-18T18:24:59+00:00,860158169,860138088,0,Bkissin,Wikipedia:WikiProject Articles for creation/Help desk,"/* 15:05:17, 18 September 2018 review of draft by Mchargcenter */"
+2019-04-06T14:18:24+00:00,891221455,891217468,0,Worldbruce,Wikipedia:WikiProject Articles for creation/Help desk,"/* 05:54:29, 6 April 2019 review of draft by Lily.rayyan */ re"
+2017-06-27T12:38:01+00:00,787770042,787749722,0,Simonegga,Wikipedia:WikiProject Articles for creation/Help desk,
+2019-01-17T08:12:03+00:00,878842297,878842243,0,Shellwood,Zinc compounds,Reverted edits by [[Special:Contributions/2405:205:3380:AF2F:7957:2930:FD53:2731|2405:205:3380:AF2F:7957:2930:FD53:2731]] ([[User talk:2405:205:3380:AF2F:7957:2930:FD53:2731|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2016-05-29T02:42:40+00:00,722583445,706127408,0,Dcirovic,Zinc compounds,/* General characteristics */clean up using [[Project:AWB|AWB]]
+2019-07-21T11:55:40+00:00,907224576,904357694,0,134.93.57.191,Zinc compounds,Typing Error. Inserted a spacing between two words.

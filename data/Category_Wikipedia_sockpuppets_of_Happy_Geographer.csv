@@ -1,0 +1,1049 @@
+timestamp,revid,parentid,sock,user,page,message
+2009-07-25T09:51:08+00:00,304096472,303142759,1,Happy_Geographer,Kilrush,historical populations
+2009-07-25T09:50:40+00:00,304096427,291885327,1,Happy_Geographer,Enniscorthy,historical populations
+2009-07-25T09:49:21+00:00,304096303,287937881,1,Happy_Geographer,Sallins,historical populations
+2009-07-25T09:48:35+00:00,304096234,303009275,1,Happy_Geographer,Ennis,comparative population
+2009-07-25T09:47:18+00:00,304096104,291566556,1,Happy_Geographer,"Robertstown, County Kildare",historical populations
+2009-07-25T09:45:57+00:00,304095977,292266262,1,Happy_Geographer,"Rathangan, County Kildare",historical populations
+2009-07-25T09:45:16+00:00,304095911,288028749,1,Happy_Geographer,"Prosperous, County Kildare",historical populations
+2009-07-25T09:44:28+00:00,304095831,297753530,1,Happy_Geographer,"Newcastle, Dublin",historical populations
+2009-07-25T09:43:21+00:00,304095737,293981695,1,Happy_Geographer,Monasterevin,historical populations
+2009-07-25T09:42:03+00:00,304095610,303739765,1,Happy_Geographer,Milltown Malbay,historical populations
+2009-07-25T09:41:02+00:00,304095511,291714203,1,Happy_Geographer,"Lucan, Dublin",historical populations
+2009-07-25T09:39:16+00:00,304095350,303132376,1,Happy_Geographer,"Kill, County Kildare",historical populations
+2009-07-25T09:38:22+00:00,304095257,303935813,1,Happy_Geographer,Kilcullen,historical populations
+2009-07-25T09:37:37+00:00,304095186,301493725,1,Happy_Geographer,Kilcock,historical populations
+2009-07-25T09:36:46+00:00,304095105,303838613,1,Happy_Geographer,"Ferns, County Wexford",Historical populations
+2009-07-25T09:35:32+00:00,304094990,303160653,1,Happy_Geographer,Wexford,historical populations
+2009-07-25T09:34:32+00:00,304094920,302417703,1,Happy_Geographer,Tullamore,historical populations
+2009-07-25T09:33:44+00:00,304094861,301165025,1,Happy_Geographer,Thurles,historical populations
+2009-07-25T09:32:40+00:00,304094750,302192634,1,Happy_Geographer,Tralee,historical populations
+2009-07-25T09:31:20+00:00,304094596,302471523,1,Happy_Geographer,Sligo,historical populations
+2009-07-25T09:30:08+00:00,304094482,303289443,1,Happy_Geographer,Portlaoise,historical populations
+2009-07-25T09:29:08+00:00,304094370,301028797,1,Happy_Geographer,"Portarlington, County Laois",/* History */ historical populations
+2009-07-25T09:28:23+00:00,304094297,302281011,1,Happy_Geographer,Mountmellick,/* History */ historical populations
+2009-07-25T09:27:32+00:00,304094227,302782851,1,Happy_Geographer,Navan,/* People */ historical populations
+2009-07-25T09:26:20+00:00,304094115,304094081,1,Happy_Geographer,Longford,/* Transport */
+2009-07-25T09:25:46+00:00,304094081,302936103,1,Happy_Geographer,Longford,/* Transport */ historical population
+2009-07-25T09:24:25+00:00,304093964,303707918,1,Happy_Geographer,County Wicklow,comparative population
+2009-07-25T09:24:03+00:00,304093930,303791162,1,Happy_Geographer,County Wexford,comparative population
+2009-07-25T09:23:27+00:00,304093878,303707732,1,Happy_Geographer,County Westmeath,comparative population
+2009-07-25T09:22:56+00:00,304093844,301501236,1,Happy_Geographer,County Waterford,comparative population
+2009-07-25T09:22:31+00:00,304093799,303311321,1,Happy_Geographer,County Tyrone,comparative population
+2009-07-25T09:21:39+00:00,304093717,301139215,1,Happy_Geographer,County Tipperary,comparative population
+2009-07-25T09:21:10+00:00,304093683,303707570,1,Happy_Geographer,County Sligo,comparative population
+2009-07-25T09:20:42+00:00,304093649,303707400,1,Happy_Geographer,County Roscommon,comparative population
+2009-07-25T09:18:53+00:00,304093469,303707232,1,Happy_Geographer,County Offaly,comparative population
+2009-07-25T09:18:26+00:00,304093431,301499331,1,Happy_Geographer,County Monaghan,comparative population
+2009-07-25T09:17:47+00:00,304093368,303707141,1,Happy_Geographer,County Meath,comparative population
+2009-07-25T09:17:20+00:00,304093335,303973935,1,Happy_Geographer,County Mayo,comparative population
+2009-07-25T09:16:54+00:00,304093286,303708948,1,Happy_Geographer,County Louth,comparative population
+2009-07-25T09:14:07+00:00,304093019,303708807,1,Happy_Geographer,County Longford,comparative population
+2009-07-25T09:12:15+00:00,304092833,301498926,1,Happy_Geographer,County Limerick,comparative population
+2009-07-25T09:11:28+00:00,304092754,303984496,1,Happy_Geographer,County Leitrim,comparative population
+2009-07-25T09:11:05+00:00,304092720,303706688,1,Happy_Geographer,County Laois,comparative population
+2009-07-25T09:10:37+00:00,304092677,303810523,1,Happy_Geographer,County Kilkenny,comparative population
+2009-07-25T09:09:49+00:00,304092595,303706314,1,Happy_Geographer,County Kildare,comparative population
+2009-07-25T09:09:14+00:00,304092535,303913202,1,Happy_Geographer,County Kerry,comparative population
+2009-07-25T09:08:21+00:00,304092463,304022160,1,Happy_Geographer,Mullingar,historical populations
+2009-07-25T09:07:31+00:00,304092377,303379164,1,Happy_Geographer,Killarney,historical populations
+2009-07-25T09:06:12+00:00,304092238,304092094,1,Happy_Geographer,Galway,
+2009-07-25T09:04:27+00:00,304092094,302864720,1,Happy_Geographer,Galway,historical populations
+2009-07-25T09:02:52+00:00,304091960,303119157,1,Happy_Geographer,County Galway,comparative population
+2009-07-25T09:02:06+00:00,304091898,303706046,1,Happy_Geographer,County Fermanagh,comparative population
+2009-07-25T09:01:23+00:00,304091840,303708442,1,Happy_Geographer,County Dublin,comparative population
+2009-07-25T09:00:21+00:00,304091738,303311120,1,Happy_Geographer,County Down,comparative population
+2009-07-25T08:58:49+00:00,304091598,303873192,1,Happy_Geographer,County Donegal,comparative population
+2009-07-25T08:57:49+00:00,304091514,303668707,1,Happy_Geographer,Kilkenny,historical populations
+2009-07-25T08:56:23+00:00,304091386,301374610,1,Happy_Geographer,Dundalk,historical populations
+2009-07-25T08:55:25+00:00,304091302,303438144,1,Happy_Geographer,Drogheda,/* Hinterland */ historical population
+2009-07-25T08:54:04+00:00,304091209,297141418,1,Happy_Geographer,Castledermot,historical populations
+2009-07-25T08:52:50+00:00,304091083,304091048,1,Happy_Geographer,Derry population,
+2009-07-25T08:52:30+00:00,304091048,0,1,Happy_Geographer,Derry population,table for insertion with main Derry city article
+2009-07-25T08:49:48+00:00,304090846,303507344,1,Happy_Geographer,County Londonderry,comparative population
+2009-07-25T08:48:29+00:00,304090742,304090097,1,Happy_Geographer,County Antrim,
+2009-07-25T08:47:55+00:00,304090693,303303610,1,Happy_Geographer,County Cork,comparative population
+2009-07-25T08:47:20+00:00,304090637,304047961,1,Happy_Geographer,County Clare,comparative population
+2009-07-25T08:46:24+00:00,304090564,303872818,1,Happy_Geographer,County Cavan,comparative population
+2009-07-25T08:45:35+00:00,304090486,303366682,1,Happy_Geographer,"Birr, County Offaly",/* Places of interest */ historical population
+2009-07-25T08:44:40+00:00,304090397,299176306,1,Happy_Geographer,Carlow,/* Transport */ historical population
+2009-07-25T08:43:07+00:00,304090270,301139164,1,Happy_Geographer,County Carlow,comparative population
+2009-07-25T08:42:11+00:00,304090184,303702396,1,Happy_Geographer,County Armagh,comparatvie population
+2009-07-25T08:41:11+00:00,304090097,303511860,1,Happy_Geographer,County Antrim,citation added
+2009-07-25T08:39:48+00:00,304089987,304089931,1,Happy_Geographer,Armagh,/* City Centre Regeneration */ historical populations
+2009-07-25T08:38:57+00:00,304089931,303505412,1,Happy_Geographer,Armagh,/* City Centre Regeneration */ historical populations
+2009-08-01T11:35:00+00:00,305441907,304581083,1,Census1911_fan,Athlone,historical populations
+2009-08-01T11:32:45+00:00,305441719,301868842,1,Census1911_fan,Youghal,historical populations
+2009-08-01T11:31:25+00:00,305441601,305032738,1,Census1911_fan,Wicklow,historical populations
+2009-08-01T11:30:11+00:00,305441480,299176502,1,Census1911_fan,"Westport, County Mayo",historical populations
+2009-08-01T11:29:24+00:00,305441412,297570277,1,Census1911_fan,Tullow,historical populations
+2009-08-01T11:28:20+00:00,305441301,304608668,1,Census1911_fan,Tuam,historical populations
+2009-08-01T11:27:33+00:00,305441230,304335859,1,Census1911_fan,"Trim, County Meath",historical populations
+2009-08-01T11:26:41+00:00,305441144,305043743,1,Census1911_fan,Tramore,historical populations
+2009-08-01T11:26:05+00:00,305441083,300448011,1,Census1911_fan,Tipperary (town),historical populations
+2009-08-01T11:25:06+00:00,305440987,268792139,1,Census1911_fan,Timolin,historical populations
+2009-08-01T11:24:05+00:00,305440890,293566211,1,Census1911_fan,"Thomastown, County Kilkenny",historical populations
+2009-08-01T11:23:16+00:00,305440802,301758742,1,Census1911_fan,Templemore,historical populations
+2009-08-01T11:22:24+00:00,305440727,270856961,1,Census1911_fan,"Tallow, County Waterford",historical populations
+2009-08-01T11:21:32+00:00,305440653,305440539,1,Census1911_fan,New Ross,historical populations
+2009-08-01T11:20:32+00:00,305440539,302627415,1,Census1911_fan,New Ross,historical populations
+2009-08-01T11:18:42+00:00,305440373,305440219,1,Census1911_fan,Suncroft,
+2009-08-01T11:17:16+00:00,305440219,305420474,1,Census1911_fan,Suncroft,historical populations
+2009-08-01T11:15:02+00:00,305440000,305162657,1,Census1911_fan,Strabane,historical populations
+2009-08-01T11:13:53+00:00,305439877,301746612,1,Census1911_fan,Skibbereen,historical populations
+2009-08-01T11:12:43+00:00,305439735,305439661,1,Census1911_fan,"Shannon, County Clare",historical populations
+2009-08-01T11:12:05+00:00,305439661,292041221,1,Census1911_fan,"Shannon, County Clare",historical populations
+2009-08-01T11:11:08+00:00,305439571,305297280,1,Census1911_fan,"Rush, Dublin",historical populations
+2009-08-01T11:10:25+00:00,305439488,304780465,1,Census1911_fan,Roscrea,historical populations
+2009-08-01T11:09:21+00:00,305439354,292413471,1,Census1911_fan,Roscommon,historical populations
+2009-08-01T11:08:28+00:00,305439257,301249038,1,Census1911_fan,Rathmolyon,historical populations
+2009-08-01T11:07:55+00:00,305439190,305118329,1,Census1911_fan,"Charleville, County Cork",historical populations
+2009-08-01T11:06:59+00:00,305439098,305116087,1,Census1911_fan,Rathkeale,historical populations
+2009-08-01T11:05:49+00:00,305438971,299367917,1,Census1911_fan,Portrane,historical populations
+2009-08-01T11:04:33+00:00,305438820,292356569,1,Census1911_fan,Portlaw,historical populations
+2009-08-01T11:03:49+00:00,305438734,284400502,1,Census1911_fan,Passage West,historical populations
+2009-08-01T11:02:21+00:00,305438570,302686532,1,Census1911_fan,Portrush,historical populations
+2009-08-01T11:01:05+00:00,305438421,303831666,1,Census1911_fan,Portadown,historical populations
+2009-08-01T10:59:40+00:00,305438273,304783133,1,Census1911_fan,Omagh,historical populations
+2009-08-01T10:57:04+00:00,305438033,303941196,1,Census1911_fan,Newtownards,historical populations
+2009-08-01T10:56:09+00:00,305437946,304303231,1,Census1911_fan,Newry,historical populations
+2009-08-01T10:54:28+00:00,305437797,302650246,1,Census1911_fan,Newtownabbey,historical populations
+2009-08-01T10:53:37+00:00,305437721,304692936,1,Census1911_fan,Newcastle West,historical populations
+2009-08-01T10:52:25+00:00,305437583,305276089,1,Census1911_fan,Nenagh,historical populations
+2009-08-01T10:50:56+00:00,305437452,304113213,1,Census1911_fan,Bagenalstown,historical populations
+2009-08-01T10:49:54+00:00,305437366,295215843,1,Census1911_fan,Mountrath,historical populations
+2009-08-01T10:48:48+00:00,305437254,284457402,1,Census1911_fan,Moone,historical populations
+2009-08-01T10:47:23+00:00,305437109,301040302,1,Census1911_fan,Monaghan,historical populations
+2009-08-01T10:46:39+00:00,305437039,303013471,1,Census1911_fan,Moate,historical populations
+2009-08-01T10:45:52+00:00,305436951,302830912,1,Census1911_fan,Mitchelstown,historical populations
+2009-08-01T10:44:49+00:00,305436838,302924496,1,Census1911_fan,Millstreet,historical populations
+2009-08-01T10:44:10+00:00,305436769,305085631,1,Census1911_fan,Midleton,historical populations
+2009-08-01T10:43:07+00:00,305436661,305032342,1,Census1911_fan,"Mallow, County Cork",historical populations
+2009-08-01T10:41:29+00:00,305436502,304387709,1,Census1911_fan,Macroom,historical populations
+2009-08-01T10:40:39+00:00,305436414,305436259,1,Census1911_fan,Lurgan,historical populations
+2009-08-01T10:38:54+00:00,305436259,304768501,1,Census1911_fan,Lurgan,historical populations
+2009-08-01T10:37:35+00:00,305436136,297428856,1,Census1911_fan,Loughrea,historical populations
+2009-08-01T10:36:45+00:00,305436064,301201126,1,Census1911_fan,Listowel,historical populations
+2009-08-01T10:35:42+00:00,305435965,305435883,1,Census1911_fan,"Lismore, County Waterford",historical populations
+2009-08-01T10:34:48+00:00,305435883,273512272,1,Census1911_fan,"Lismore, County Waterford",historical populations
+2009-08-01T10:34:17+00:00,305435831,288756973,1,Census1911_fan,Lisdoonvarna,historical populations
+2009-08-01T10:33:11+00:00,305435717,302622837,1,Census1911_fan,Lisburn,historical populations
+2009-08-01T10:32:12+00:00,305435610,305435513,1,Census1911_fan,Legoniel,historical populations
+2009-08-01T10:31:21+00:00,305435513,289560226,1,Census1911_fan,Legoniel,historical populations
+2009-08-01T10:30:06+00:00,305435389,305018836,1,Census1911_fan,Limavady,historical populations
+2009-08-01T10:29:02+00:00,305435269,305435132,1,Census1911_fan,Liscannor,historical populations
+2009-08-01T10:28:00+00:00,305435132,303014420,1,Census1911_fan,Liscannor,historical populations
+2009-08-01T10:27:09+00:00,305435029,295671495,1,Census1911_fan,Lifford,historical populations
+2009-08-01T10:26:17+00:00,305434925,294960415,1,Census1911_fan,Leighlinbridge,historical populations
+2009-08-01T10:25:31+00:00,305434862,304391590,1,Census1911_fan,Larne,historical populations
+2009-08-01T10:24:27+00:00,305434716,302771606,1,Census1911_fan,Lahinch,historical populations
+2009-08-01T10:23:54+00:00,305434663,301172760,1,Census1911_fan,Laytown,historical populations
+2009-08-01T10:22:27+00:00,305434479,299867839,1,Census1911_fan,Kinsale,historical populations
+2009-08-01T10:21:26+00:00,305434369,303841370,1,Census1911_fan,Kilteel,historical populations
+2009-08-01T10:19:53+00:00,305434208,0,1,Census1911_fan,Kilmeage,historical populations
+2009-08-01T10:09:29+00:00,305433142,294833022,1,Census1911_fan,"Killaloe, County Clare",historical populations
+2009-08-01T10:08:35+00:00,305433054,305432949,1,Census1911_fan,Kilkee,historical populations
+2009-08-01T10:07:23+00:00,305432949,304557826,1,Census1911_fan,Kilkee,historical populations
+2009-08-01T10:06:28+00:00,305432864,302000875,1,Census1911_fan,Kenmare,historical populations
+2009-08-01T10:05:34+00:00,305432777,302608857,1,Census1911_fan,"Kells, County Meath",historical populations
+2009-08-01T10:03:51+00:00,305432626,303204240,1,Census1911_fan,Kanturk,historical populations
+2009-08-01T10:01:02+00:00,305432352,305432274,1,Census1911_fan,Johnstownbridge,/* External links */
+2009-08-01T10:00:21+00:00,305432274,0,1,Census1911_fan,Johnstownbridge,historical populations
+2009-08-01T09:16:52+00:00,305428173,268800695,1,Census1911_fan,"Carbury, County Kildare",
+2009-08-01T09:06:54+00:00,305427318,303004391,1,Census1911_fan,Granard,historical populations
+2009-08-01T09:05:53+00:00,305427224,291701376,1,Census1911_fan,Graiguenamanagh,historical populations
+2009-08-01T09:05:15+00:00,305427180,301759230,1,Census1911_fan,Gorey,historical populations
+2009-08-01T09:04:18+00:00,305427101,303787863,1,Census1911_fan,Gort,historical populations
+2009-08-01T09:03:27+00:00,305427028,293375413,1,Census1911_fan,"Freshford, County Kilkenny",historical populations
+2009-08-01T09:02:02+00:00,305426920,305426877,1,Census1911_fan,"Fethard, County Tipperary",
+2009-08-01T09:01:34+00:00,305426877,290399401,1,Census1911_fan,"Fethard, County Tipperary",historical populations
+2009-08-01T08:56:46+00:00,305426456,299985113,1,Census1911_fan,Fermoy,historical populations
+2009-08-01T08:56:04+00:00,305426389,305252680,1,Census1911_fan,Ferbane,historical populations
+2009-08-01T08:54:58+00:00,305426305,292266083,1,Census1911_fan,Edenderry,historical populations
+2009-08-01T08:53:40+00:00,305426196,303976005,1,Census1911_fan,Ennistymon,historical populations
+2009-08-01T08:52:37+00:00,305426104,302567408,1,Census1911_fan,Enniskillen,historical populations
+2009-08-01T08:51:30+00:00,305426011,299949487,1,Census1911_fan,Dunmanway,historical populations
+2009-08-01T08:49:09+00:00,305425809,304765587,1,Census1911_fan,Downpatrick,historical populations
+2009-08-01T08:47:28+00:00,305425655,302516998,1,Census1911_fan,Dungannon,historical populations
+2009-08-01T08:46:52+00:00,305425604,304177980,1,Census1911_fan,Dungarvan,historical populations
+2009-08-01T08:45:34+00:00,305425491,290544014,1,Census1911_fan,Doneraile,historical populations
+2009-08-01T08:44:42+00:00,305425424,303807066,1,Census1911_fan,Dingle,historical populations
+2009-08-01T08:43:33+00:00,305425317,296266215,1,Census1911_fan,Derrinturn,historical populations
+2009-08-01T08:42:19+00:00,305425196,304649534,1,Census1911_fan,Daingean,historical populations
+2009-08-01T08:41:13+00:00,305425098,305424997,1,Census1911_fan,Curragh Camp,
+2009-08-01T08:40:20+00:00,305424997,305424916,1,Census1911_fan,Curragh Camp,
+2009-08-01T08:39:34+00:00,305424916,292271010,1,Census1911_fan,Curragh Camp,historical populations
+2009-08-01T08:38:33+00:00,305424822,305424748,1,Census1911_fan,Courtown,
+2009-08-01T08:37:41+00:00,305424748,305424638,1,Census1911_fan,Courtown,
+2009-08-01T08:36:22+00:00,305424638,305424605,1,Census1911_fan,Courtown,
+2009-08-01T08:35:55+00:00,305424605,305424557,1,Census1911_fan,Courtown,
+2009-08-01T08:35:24+00:00,305424557,305424497,1,Census1911_fan,Courtown,
+2009-08-01T08:34:37+00:00,305424497,305424424,1,Census1911_fan,Courtown,
+2009-08-01T08:33:34+00:00,305424424,294544380,1,Census1911_fan,Courtown,historical populations
+2009-08-01T08:33:05+00:00,305424381,305424360,1,Census1911_fan,Cootehill,
+2009-08-01T08:32:47+00:00,305424360,304238559,1,Census1911_fan,Cootehill,historical populations
+2009-08-01T08:31:47+00:00,305424284,305423511,1,Census1911_fan,Cooraclare,
+2009-08-01T08:23:06+00:00,305423511,303893641,1,Census1911_fan,Cooraclare,historical populations
+2009-08-01T08:21:25+00:00,305423355,305423304,1,Census1911_fan,Coill Dubh,
+2009-08-01T08:20:48+00:00,305423304,305423146,1,Census1911_fan,Coill Dubh,
+2009-08-01T08:19:07+00:00,305423146,305423000,1,Census1911_fan,Coill Dubh,
+2009-08-01T08:17:19+00:00,305423000,0,1,Census1911_fan,Coill Dubh,historical populations
+2009-08-01T07:54:07+00:00,305421110,299332196,1,Census1911_fan,"Clones, County Monaghan",historical populations
+2009-08-01T07:53:06+00:00,305421011,304929295,1,Census1911_fan,Cloyne,historical populations
+2009-08-01T07:52:27+00:00,305420952,295633612,1,Census1911_fan,Clonakilty,historical populations
+2009-08-01T07:51:09+00:00,305420835,305149218,1,Census1911_fan,Clondalkin,historical populations
+2009-08-01T07:49:25+00:00,305420684,302494673,1,Census1911_fan,Cookstown,historical populations
+2009-08-01T07:48:16+00:00,305420582,303959539,1,Census1911_fan,Coleraine,historical populations
+2009-08-01T07:46:58+00:00,305420474,305418217,1,Census1911_fan,Suncroft,
+2009-08-01T07:46:15+00:00,305420414,305420364,1,Census1911_fan,Clohamon,
+2009-08-01T07:45:32+00:00,305420364,276054080,1,Census1911_fan,Clohamon,historical populations
+2009-08-01T07:44:59+00:00,305420313,297861362,1,Census1911_fan,"Clogheen, County Tipperary",historical populations
+2009-08-01T07:43:53+00:00,305420215,305270427,1,Census1911_fan,Claremorris,historical populations
+2009-08-01T07:43:04+00:00,305420161,304473381,1,Census1911_fan,"Clara, County Offaly",historical populations
+2009-08-01T07:42:14+00:00,305420085,305328829,1,Census1911_fan,Cavan,historical populations
+2009-08-01T07:41:19+00:00,305420020,299167728,1,Census1911_fan,Castletownbere,historical populations
+2009-08-01T07:40:59+00:00,305419997,303218529,1,Census1911_fan,Castleisland,historical populations
+2009-08-01T07:40:06+00:00,305419916,284413619,1,Census1911_fan,Castlecomer,historical populations
+2009-08-01T07:39:11+00:00,305419847,305274874,1,Census1911_fan,Castleblayney,historical populations
+2009-08-01T07:36:36+00:00,305419640,302296239,1,Census1911_fan,Bangor,
+2009-08-01T07:35:57+00:00,305419579,304858846,1,Census1911_fan,"Bangor, County Down",historical populations
+2009-08-01T07:35:04+00:00,305419496,304280808,1,Census1911_fan,Banbridge,historical populations
+2009-08-01T07:33:41+00:00,305419381,304206948,1,Census1911_fan,Carrickfergus,historical populations
+2009-08-01T07:32:38+00:00,305419262,303370582,1,Census1911_fan,"Cashel, County Tipperary",historical populations
+2009-08-01T07:31:42+00:00,305419173,302194764,1,Census1911_fan,Carrigtwohill,historical populations
+2009-08-01T07:31:02+00:00,305419105,304539517,1,Census1911_fan,Carrigaline,historical populations
+2009-08-01T07:30:20+00:00,305419044,298334690,1,Census1911_fan,Carrick-on-Suir,historical populations
+2009-08-01T07:29:30+00:00,305418980,305297440,1,Census1911_fan,Carrick-on-Shannon,historical populations
+2009-08-01T07:28:18+00:00,305418852,297993181,1,Census1911_fan,Carrickmacross,historical populations
+2009-08-01T07:27:19+00:00,305418771,283575792,1,Census1911_fan,Cappoquin,historical populations
+2009-08-01T07:26:36+00:00,305418710,294830915,1,Census1911_fan,"Callan, County Kilkenny",historical populations
+2009-08-01T07:25:45+00:00,305418636,305325783,1,Census1911_fan,Cahir,historical populations
+2009-08-01T07:25:10+00:00,305418576,292541216,1,Census1911_fan,Cahersiveen,historical populations
+2009-08-01T07:24:06+00:00,305418475,299746400,1,Census1911_fan,Buttevant,historical populations
+2009-08-01T07:23:16+00:00,305418399,305269825,1,Census1911_fan,Bundoran,historical populations
+2009-08-01T07:22:33+00:00,305418348,302925467,1,Census1911_fan,Buncrana,historical populations
+2009-08-01T07:21:47+00:00,305418285,301696372,1,Census1911_fan,Bunclody,historical populations
+2009-08-01T07:20:50+00:00,305418217,259975532,1,Census1911_fan,Suncroft,historical populations
+2009-08-01T07:19:49+00:00,305418134,301363871,1,Census1911_fan,"Boyle, County Roscommon",historical populations
+2009-08-01T07:18:40+00:00,305418023,293186221,1,Census1911_fan,Blessington,historical populations
+2009-08-01T07:18:00+00:00,305417963,290108767,1,Census1911_fan,Blarney,historical populations
+2009-08-01T07:17:20+00:00,305417905,298827933,1,Census1911_fan,Blanchardstown,historical populations
+2009-08-01T07:16:27+00:00,305417832,305137503,1,Census1911_fan,Belturbet,historical populations
+2009-08-01T07:15:33+00:00,305417738,284882729,1,Census1911_fan,Bantry,historical populations
+2009-08-01T07:14:33+00:00,305417645,302811815,1,Census1911_fan,"Bandon, County Cork",historical populations
+2009-08-01T07:13:36+00:00,305417554,304942601,1,Census1911_fan,Banagher,historical populations
+2009-08-01T07:12:47+00:00,305417466,296140321,1,Census1911_fan,Baltinglass,historical populations
+2009-08-01T07:11:48+00:00,305417386,301059148,1,Census1911_fan,Ballyshannon,historical populations
+2009-08-01T07:10:33+00:00,305417269,303545601,1,Census1911_fan,Ballymoney,historical populations
+2009-08-01T07:09:32+00:00,305417203,303165229,1,Census1911_fan,Ballymena,historical populations
+2009-08-01T07:08:48+00:00,305417147,302420461,1,Census1911_fan,Ballyclare,historical populations
+2009-08-01T07:07:31+00:00,305417032,299575154,1,Census1911_fan,Ballybofey,historical populations
+2009-08-01T07:06:51+00:00,305416966,305416895,1,Census1911_fan,Ballitore,
+2009-08-01T07:06:03+00:00,305416895,280325690,1,Census1911_fan,Ballitore,historical populations
+2009-08-01T07:05:03+00:00,305416816,305279666,1,Census1911_fan,Ballinrobe,historical populations
+2009-08-01T07:04:29+00:00,305416771,301244095,1,Census1911_fan,Ballincollig,historical populations
+2009-08-01T07:03:35+00:00,305416692,295338292,1,Census1911_fan,Ballinasloe,historical populations
+2009-08-01T07:01:39+00:00,305416547,305217468,1,Census1911_fan,Athenry,historical populations
+2009-08-01T07:00:43+00:00,305416466,297945764,1,Census1911_fan,Athboy,historical populations
+2009-08-01T06:59:32+00:00,305416372,305348306,1,Census1911_fan,"Ashbourne, County Meath",historical populations
+2009-08-01T06:55:49+00:00,305416036,302253444,1,Census1911_fan,"Antrim, County Antrim",historical populations
+2009-08-01T06:54:48+00:00,305415933,303397683,1,Census1911_fan,Ardee,historical populations
+2009-08-01T06:53:41+00:00,305415823,297437506,1,Census1911_fan,"Allenwood, County Kildare",historical populations
+2009-08-01T06:52:31+00:00,305415688,304089987,1,Census1911_fan,Armagh,historical populations
+2009-07-27T14:34:10+00:00,304483252,302763543,1,Delicate_Enumeration,Tallaght,historical populations
+2009-07-27T14:33:22+00:00,304483131,298808949,1,Delicate_Enumeration,"Swords, Dublin",historical populations
+2009-07-27T14:32:42+00:00,304483015,298726626,1,Delicate_Enumeration,"Skerries, Dublin",historical populations
+2009-07-27T14:31:44+00:00,304482866,299544269,1,Delicate_Enumeration,Saggart,historical populations
+2009-07-27T14:30:56+00:00,304482726,288182710,1,Delicate_Enumeration,"Rathcoole, Dublin",historical populations
+2009-07-27T14:29:56+00:00,304482579,304482356,1,Delicate_Enumeration,Portmarnock,historical populations
+2009-07-27T14:28:28+00:00,304482356,289090613,1,Delicate_Enumeration,Portmarnock,historical populations
+2009-07-27T14:27:40+00:00,304482227,304170414,1,Delicate_Enumeration,Malahide,historical populations
+2009-07-27T14:25:11+00:00,304481856,303841547,1,Delicate_Enumeration,Letterkenny,historical populations
+2009-07-27T14:24:05+00:00,304481684,300392705,1,Delicate_Enumeration,Greystones,historical populations
+2009-07-27T14:22:07+00:00,304481432,289060828,1,Delicate_Enumeration,Delgany,Historical populations
+2009-07-27T14:21:25+00:00,304481332,302695030,1,Delicate_Enumeration,Dún Laoghaire,Historical populations
+2009-07-27T14:20:30+00:00,304481173,299165674,1,Delicate_Enumeration,Cobh,historical populations
+2009-07-27T14:19:33+00:00,304480999,304469111,1,Delicate_Enumeration,Clonmel,historical populations
+2009-07-27T14:18:48+00:00,304480874,303349588,1,Delicate_Enumeration,Castlebar,historical populations
+2009-07-27T14:17:43+00:00,304480687,304324485,1,Delicate_Enumeration,"Bray, County Wicklow",Historical populations
+2009-07-27T14:16:38+00:00,304480536,303523168,1,Delicate_Enumeration,Ballymore Eustace,Historical populations
+2009-07-27T14:15:58+00:00,304480419,303096066,1,Delicate_Enumeration,"Ballina, County Mayo",historical populations
+2009-07-27T14:15:06+00:00,304480272,300947783,1,Delicate_Enumeration,Balbriggan,Historical populations
+2009-07-27T14:12:57+00:00,304479964,304276609,1,Delicate_Enumeration,Athlone,historical populations
+2009-07-27T14:10:09+00:00,304479514,303857738,1,Delicate_Enumeration,Arklow,historical populations
+2009-08-03T00:21:00+00:00,305723383,305679736,1,Drumlish_Danny,Longford,population growth details
+2009-08-03T00:19:29+00:00,305723210,304582146,1,Drumlish_Danny,Letterkenny,demographics
+2009-08-03T00:08:07+00:00,305721659,304580918,1,Granuaile_Unveiled,Cobh,history
+2009-08-03T00:05:00+00:00,305721239,304581010,1,Granuaile_Unveiled,"Ballina, County Mayo",history
+2009-08-03T00:16:42+00:00,305722824,305619010,1,Labhras_Raghallaigh,Kilrush,stair meideach
+2009-08-03T00:29:28+00:00,305724565,305676273,1,Navan_Anuaimh,Navan,demographics 100pc increase in ten years
+2009-08-03T00:26:58+00:00,305724193,305675865,1,Prosperous_Pikeman,"Rathangan, County Kildare",Population growth details
+2009-08-03T00:26:03+00:00,305724067,305676067,1,Prosperous_Pikeman,"Prosperous, County Kildare",demographics popualation explosion
+2009-08-04T06:29:20+00:00,305964039,305963848,1,Reformed_Yellowbelly,"Ferns, County Wexford",demographics and history
+2009-08-04T06:27:25+00:00,305963848,305963776,1,Reformed_Yellowbelly,"Ferns, County Wexford",
+2009-08-04T06:26:41+00:00,305963776,305961927,1,Reformed_Yellowbelly,"Ferns, County Wexford",demographics and history
+2009-08-04T06:09:41+00:00,305961927,305676221,1,Reformed_Yellowbelly,"Ferns, County Wexford",Demographics and history
+2009-08-03T00:13:48+00:00,305722406,305678444,1,Straight_Iwillrepair,Kilcullen,history extra detail
+2009-08-03T00:12:03+00:00,305722182,304099245,1,Straight_Iwillrepair,Castledermot,history extra detail
+2009-08-03T00:11:20+00:00,305722078,305676175,1,Straight_Iwillrepair,"Kill, County Kildare",history extra detail
+2009-07-15T17:19:02+00:00,302253444,301287279,0,ClickBot,"Antrim, County Antrim",Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-08-02T18:55:25+00:00,305675660,305415688,0,Ww2censor,Armagh,Reverted to revision 303505412 by [[Special:Contributions/JAnDbot|JAnDbot]]; revert - editors refuse to discuss. ([[WP:TW|TW]])
+2009-08-02T02:23:50+00:00,305562883,305415823,0,SmackBot,"Allenwood, County Kildare",Add references section and/or general fixes.
+2009-07-25T08:39:48+00:00,304089987,304089931,0,Happy Geographer,Armagh,/* City Centre Regeneration */ historical populations
+2009-08-02T18:54:35+00:00,305675516,305416036,0,Ww2censor,"Antrim, County Antrim",Reverted 1 edit by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Revert - editor refuses to discuss. ([[WP:TW|TW]])
+2009-08-02T16:30:08+00:00,305653301,305416547,0,Sarah777,Athenry,collapse template
+2009-07-28T00:19:41+00:00,304581947,304581182,0,Ww2censor,Arklow,/* Notable people */ remove unsourced people and edits with no article - see [[WP:WTAF]]
+2009-07-21T19:59:22+00:00,303397683,295620111,0,Youngthos,Ardee,
+2009-08-02T12:20:43+00:00,305621892,305415933,0,Sarah777,Ardee,collapse template
+2009-07-28T12:15:44+00:00,304665868,302511334,0,Iohannes Animosus,"Ashbourne, County Meath","[[WP:AWB/T|Typo fixing]], typos fixed: Pavillion → Pavilion using [[Project:AutoWikiBrowser|AWB]]"
+2009-08-01T07:00:43+00:00,305416466,297945764,0,Census1911 fan,Athboy,historical populations
+2009-06-22T17:06:57+00:00,297945764,289467057,0,MacTire02,Athboy,+gv
+2009-08-02T12:21:33+00:00,305621988,305416372,0,Sarah777,"Ashbourne, County Meath",collapse template
+2009-07-26T11:13:37+00:00,304276609,304276444,0,Ericchubb,Athlone,
+2009-07-28T00:14:43+00:00,304581083,304479964,0,Ww2censor,Athlone,Reverted 1 edit by [[Special:Contributions/Delicate Enumeration|Delicate Enumeration]]; Please discuss at [[WT:IE]]. ([[WP:TW|TW]])
+2009-08-01T17:52:22+00:00,305489982,305486160,0,New World Man,Athlone,/* Broadcasting */
+2009-08-01T10:50:56+00:00,305437452,304113213,0,Census1911 fan,Bagenalstown,historical populations
+2009-07-28T00:08:36+00:00,304579995,304480272,0,Ww2censor,Balbriggan,Reverted 1 edit by [[Special:Contributions/Delicate Enumeration|Delicate Enumeration]]; Please discuss at [[WT:IE]]. ([[WP:TW|TW]])
+2009-08-02T16:48:25+00:00,305656084,305437452,0,Nelson50,Bagenalstown,Reverted 1 edit by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Rv editor refusing to discuss additions adds redlink. using [[WP:TWINKLE|TW]]
+2009-07-09T19:39:45+00:00,301244095,301244045,0,Ean3,Ballincollig,/* Amenities */
+2009-08-02T16:32:30+00:00,305653637,305416966,0,Sarah777,Ballitore,collapse template
+2009-03-29T01:13:28+00:00,280325690,279910808,0,Sarah777,Ballitore,/* People associated with Ballitore */ refs please
+2009-06-09T08:45:50+00:00,295338292,292536241,0,Tameamseo,Ballinasloe,ref name
+2009-07-26T03:12:48+00:00,304229033,298912266,0,86.46.134.50,Ballinrobe,/* Ballinrobe today */
+2009-08-03T11:43:30+00:00,305800817,305727902,0,Nelson50,"Ballina, County Mayo",Reverted to revision 304581010 by [[Special:Contributions/Ww2censor|Ww2censor]]; Rv editor refusing to discuss additions and repeatedly adding redlink.. using [[WP:TWINKLE|TW]]
+2009-07-27T14:15:58+00:00,304480419,303096066,0,Delicate Enumeration,"Ballina, County Mayo",historical populations
+2009-07-20T08:26:40+00:00,303096066,302661996,0,Milesoneill,"Ballina, County Mayo",Tidy-up of recent (excellent ) contributions. Removed some tourist board wordings and dead links.
+2009-07-08T07:16:33+00:00,300947783,300947623,0,SeoR,Balbriggan,"/* Historical events relating to Balbriggan */ Format.  These three events should be consolidated into the general history - will do later, logging off."
+2009-07-28T00:14:14+00:00,304581010,304480419,0,Ww2censor,"Ballina, County Mayo",Reverted 1 edit by [[Special:Contributions/Delicate Enumeration|Delicate Enumeration]]; Please discuss at [[WT:IE]]. ([[WP:TW|TW]])
+2009-08-01T07:06:51+00:00,305416966,305416895,0,Census1911 fan,Ballitore,
+2009-08-02T15:06:48+00:00,305642227,305624116,0,ClickRick,Ballymena,moved picture into the infobox
+2009-07-16T14:27:52+00:00,302420461,302046453,0,ClickBot,Ballyclare,Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-07-22T12:40:23+00:00,303523168,303523025,0,The Thing That Should Not Be,Ballymore Eustace,Reverted edits by [[Special:Contributions/136.206.35.10|136.206.35.10]] to last revision by 86.44.150.151 ([[WP:HG|HG]])
+2009-08-02T16:33:01+00:00,305653721,305417032,0,Sarah777,Ballybofey,collapse template
+2009-08-01T07:09:32+00:00,305417203,303165229,0,Census1911 fan,Ballymena,historical populations
+2009-08-01T07:13:36+00:00,305417554,304942601,0,Census1911 fan,Banagher,historical populations
+2009-07-22T15:22:13+00:00,303545601,303325115,0,89.242.169.102,Ballymoney,
+2009-06-30T20:41:54+00:00,299575154,299575080,0,Sarah777,Ballybofey,rvv
+2009-07-08T20:36:39+00:00,301059148,295873687,0,Future Perfect at Sunrise,Ballyshannon,"Disambiguating [[Macedonia]] link, per [[WP:MOSMAC2]]"
+2009-08-02T18:54:14+00:00,305675468,305417147,0,Ww2censor,Ballyclare,Reverted 1 edit by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Revert - editor refuses to discuss. ([[WP:TW|TW]])
+2009-07-26T11:54:30+00:00,304280808,304280613,0,86.158.222.106,Banbridge,
+2009-06-13T09:44:34+00:00,296140321,295568506,0,Sarah777,Baltinglass,[[WP:UNDO|Undid]] revision 295568506 by [[Special:Contributions/Baltobasher|Baltobasher]] ([[User talk:Baltobasher|talk]])
+2009-07-28T08:37:32+00:00,304640846,304530251,0,SmackBot,Ballymore Eustace,Add references section and/or general fixes.
+2009-07-29T20:04:30+00:00,304942601,296187691,0,Ulric1313,Banagher,remove link as redirects to dab page link county offaly
+2009-08-01T07:11:48+00:00,305417386,301059148,0,Census1911 fan,Ballyshannon,historical populations
+2009-07-18T18:37:55+00:00,302811815,302800227,0,Pmunited,"Bandon, County Cork",/* People */
+2009-08-01T07:14:33+00:00,305417645,302811815,0,Census1911 fan,"Bandon, County Cork",historical populations
+2009-04-29T07:21:23+00:00,286809163,286409786,0,159.230.133.80,Belturbet,/* Economy */
+2009-04-19T21:33:48+00:00,284882729,284724341,0,78.16.171.212,Bantry,/* History */
+2009-07-15T21:32:25+00:00,302296239,302190131,0,Boleyn3,Bangor,corr link
+2009-07-25T08:45:35+00:00,304090486,303366682,0,Happy Geographer,"Birr, County Offaly",/* Places of interest */ historical population
+2009-07-29T11:11:13+00:00,304858846,304262243,0,81.156.242.57,"Bangor, County Down",/* Climate */
+2009-06-26T21:33:11+00:00,298827933,298827923,0,ClueBot,Blanchardstown,"Reverting possible vandalism by [[Special:Contributions/85.134.172.153|85.134.172.153]] to version by 194.125.67.187. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (729257) (Bot)"
+2009-08-01T07:36:36+00:00,305419640,302296239,0,Census1911 fan,Bangor,
+2009-05-29T22:35:23+00:00,293186221,293186214,0,ClueBot,Blessington,"Reverting possible vandalism by [[Special:Contributions/83.70.164.21|83.70.164.21]] to version by Superfopp. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (714570) (Bot)"
+2009-05-15T15:26:37+00:00,290108767,290108595,0,AaronO2599,Blarney,/* Education */
+2009-08-01T07:16:27+00:00,305417832,305137503,0,Census1911 fan,Belturbet,historical populations
+2009-08-01T07:19:49+00:00,305418134,301363871,0,Census1911 fan,"Boyle, County Roscommon",historical populations
+2009-07-10T13:09:12+00:00,301363871,300882422,0,Chris55,"Boyle, County Roscommon",/* Places of interest */
+2009-07-20T22:03:25+00:00,303215735,303214974,0,Unitanode,"Bray, County Wicklow",[[WP:RBK|Reverted]] edits by [[Special:Contributions/Troutfacebabycake|Troutfacebabycake]] ([[User talk:Troutfacebabycake|talk]]) to last version by 194.125.39.230
+2009-08-01T08:07:34+00:00,305422210,305418285,0,Bagworm,Bunclody,tidy ref
+2009-07-27T14:17:43+00:00,304480687,304324485,0,Delicate Enumeration,"Bray, County Wicklow",Historical populations
+2009-07-19T10:43:01+00:00,302925467,302124015,0,Sarah777,Buncrana,[[WP:UNDO|Undid]] revision 302124015 by [[Special:Contributions/86.42.11.81|86.42.11.81]] ([[User talk:86.42.11.81|talk]])
+2009-07-31T14:43:29+00:00,305269825,303855593,0,86.42.2.95,Bundoran,/* People */
+2009-07-01T19:26:08+00:00,299746400,299746236,0,188.98.68.110,Buttevant,/* Miscellaneous */
+2009-07-24T01:54:30+00:00,303855593,303855548,0,213.202.158.120,Bundoran,/* =People */
+2009-06-06T19:04:12+00:00,294830915,285992779,0,SieBot,"Callan, County Kilkenny",robot  Adding: [[ga:Callainn]]
+2009-05-26T22:32:08+00:00,292541216,292540853,0,Dmol,Cahersiveen,[[WP:UNDO|Undid]] revision 292540853 by [[Special:Contributions/213.202.145.75|213.202.145.75]] ([[User talk:213.202.145.75|talk]])
+2009-08-01T07:27:19+00:00,305418771,283575792,0,Census1911 fan,Cappoquin,historical populations
+2009-08-01T07:25:45+00:00,305418636,305325783,0,Census1911 fan,Cahir,historical populations
+2009-04-13T15:30:08+00:00,283575792,280274409,0,Irregulargalaxies,Cappoquin,Sorry - no ads.
+2009-06-20T17:16:07+00:00,297574268,288643671,0,78.152.249.177,Cahir,"tugtar ""An Chathair"" ar an mbaile freisin"
+2009-02-05T23:54:45+00:00,268800695,256491161,0,SeoR,"Carbury, County Kildare",Copyedit.
+2009-08-01T09:16:52+00:00,305428173,268800695,0,Census1911 fan,"Carbury, County Kildare",
+2009-07-31T22:44:27+00:00,305356057,304090397,0,86.45.116.200,Carlow,/* Education */
+2009-08-02T17:14:08+00:00,305659883,305659690,0,86.41.133.95,Carrigtwohill,/* Transport */
+2009-06-24T12:00:35+00:00,298334690,298334643,0,Baldeadly,Carrick-on-Suir,/* Clubs and Societies */
+2009-07-26T00:07:20+00:00,304206948,303297850,0,92.41.207.69,Carrickfergus,/* Contemporary */
+2009-06-22T21:08:56+00:00,297993181,297993023,0,89.204.184.241,Carrickmacross,/* Transport */  Added info on road links and the bypass
+2009-08-02T18:53:26+00:00,305675329,305419381,0,Ww2censor,Carrickfergus,Reverted 1 edit by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Revert - editor refuses to discuss. ([[WP:TW|TW]])
+2009-06-24T11:28:20+00:00,298330463,298327985,0,Woohookitty,Carrick-on-Shannon,Disambiguate [[Rugby]] to [[Rugby football]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2009-08-01T07:28:18+00:00,305418852,297993181,0,Census1911 fan,Carrickmacross,historical populations
+2009-07-25T22:26:42+00:00,304193317,299588401,0,Shackles74,Carrigaline,
+2009-07-21T17:20:52+00:00,303370582,303370504,0,LlywelynII,"Cashel, County Tipperary",/* Ecclesiastical history */
+2009-07-27T14:32:50+00:00,304483039,304480874,0,Tóraí,Castlebar,typo?
+2009-08-01T07:39:11+00:00,305419847,305274874,0,Census1911 fan,Castleblayney,historical populations
+2009-04-17T13:33:29+00:00,284413619,284408826,0,Sarah777,Castlecomer,re-cat to clean up mess
+2009-07-25T10:19:15+00:00,304099245,304091209,0,Scolaire,Castledermot,"too big for this article, and not particularly encyclopaedic"
+2009-07-20T22:16:47+00:00,303218529,303218521,0,ClueBot,Castleisland,"Reverting possible vandalism by [[Special:Contributions/93.107.223.114|93.107.223.114]] to version by Sarah777. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (740949) (Bot)"
+2009-06-28T19:18:25+00:00,299167728,293071962,0,Jnestorius,Castletownbere,Quick-adding category [[:Category:Fishing in Ireland|Fishing in Ireland]] (using [[WP:HOTCAT|HotCat]])
+2009-08-01T07:41:19+00:00,305420020,299167728,0,Census1911 fan,Castletownbere,historical populations
+2009-07-16T12:49:09+00:00,302407722,302100940,0,137.191.239.189,"Charleville, County Cork",
+2009-07-22T21:27:17+00:00,303611291,299176326,0,VolkovBot,Cavan,robot Adding: [[ru:Каван (город)]]
+2009-08-01T07:42:14+00:00,305420085,305328829,0,Census1911 fan,Cavan,historical populations
+2009-07-27T13:28:25+00:00,304473381,295876652,0,Cynwolfe,"Clara, County Offaly",/* Notable figures */ link
+2009-07-27T12:54:21+00:00,304468367,303008639,0,79.97.144.250,Claremorris,/* Name */
+2009-07-19T20:44:18+00:00,303008639,303008546,0,Sarah777,Claremorris,/* Sports */ rem duplicate link
+2009-08-01T07:44:59+00:00,305420313,297861362,0,Census1911 fan,"Clogheen, County Tipperary",historical populations
+2009-06-22T05:55:44+00:00,297861362,297185652,0,Woohookitty,"Clogheen, County Tipperary",Disambiguate [[Cork]] to [[Cork (city)]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2009-08-01T07:46:15+00:00,305420414,305420364,0,Census1911 fan,Clohamon,
+2009-08-02T16:49:41+00:00,305656264,305420952,0,Sarah777,Clonakilty,collapse template
+2009-06-10T19:13:16+00:00,295633612,295624744,0,Motmit,Clonakilty,Remove vandalism
+2009-03-09T15:58:52+00:00,276054080,275687797,0,Bagworm,Clohamon,[[WP:UNDO|Undid]] revision 275687797 by [[Special:Contributions/Ardfern|Ardfern]] ([[User talk:Ardfern|talk]]) Facility? Hardly!
+2009-06-29T16:10:54+00:00,299332196,291000289,0,Novangelis,"Clones, County Monaghan",/* History */Disambiguate [[plague]] using [[Project:AutoWikiBrowser|AWB]]
+2009-08-02T16:49:14+00:00,305656193,305420835,0,Sarah777,Clondalkin,collapse template
+2009-07-08T19:37:49+00:00,301048426,301048190,0,Rezzoy,Clondalkin,/* Sport */
+2009-08-01T07:53:06+00:00,305421011,304929295,0,Census1911 fan,Cloyne,historical populations
+2009-07-24T10:04:59+00:00,303907773,303907593,0,84.203.169.60,Clonmel,/* Cricket */
+2009-08-02T09:14:10+00:00,305604791,305450647,0,RashersTierney,Clonmel,/* People associated with Clonmel */ re-apply pop stats collapsed
+2009-07-29T18:48:46+00:00,304929295,293520145,0,Scrivener-uki,Cloyne,linked to disambiguation page
+2009-06-28T19:03:55+00:00,299165674,299140338,0,Coolavokig,Cobh,[[WP:UNDO|Undid]] revision 299140338 by [[Special:Contributions/86.45.205.150|86.45.205.150]] ([[User talk:86.45.205.150|talk]])situation now greatly changed
+2009-08-03T00:54:55+00:00,305727954,305721659,0,Sarah777,Cobh,collapse pop template
+2009-07-28T00:13:39+00:00,304580918,304481173,0,Ww2censor,Cobh,Reverted 1 edit by [[Special:Contributions/Delicate Enumeration|Delicate Enumeration]]; Please discuss at [[WT:IE]]. ([[WP:TW|TW]])
+2009-08-01T08:50:16+00:00,305425905,305423355,0,Mymelo,Coill Dubh,"[[fr:Coill Dubh]], [[simple:Coill Dubh]], [[sk:Coill Dubh]] not exist."
+2009-08-01T07:49:25+00:00,305420684,302494673,0,Census1911 fan,Cookstown,historical populations
+2009-07-16T22:00:56+00:00,302494673,301637486,0,ClickBot,Cookstown,Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-08-02T16:51:53+00:00,305656591,305424284,0,Sarah777,Cooraclare,collapse template
+2009-08-01T07:48:16+00:00,305420582,303959539,0,Census1911 fan,Coleraine,historical populations
+2009-07-24T07:35:29+00:00,303893641,303893599,0,83.71.14.105,Cooraclare,
+2009-07-26T04:43:41+00:00,304238559,300111225,0,Draggleduck,Cootehill,/* Infrastructure */ typo
+2009-08-01T08:33:05+00:00,305424381,305424360,0,Census1911 fan,Cootehill,
+2009-07-26T08:25:56+00:00,304259473,304091911,0,Calen11,County Antrim,motto
+2009-07-25T09:03:44+00:00,304092041,304090270,0,Yorkshirian,County Carlow,
+2009-07-29T19:44:37+00:00,304939125,304370414,0,93.107.93.227,County Clare,/* Other small towns and villages */
+2009-07-26T22:50:29+00:00,304370414,304092081,0,Colonies Chris,County Clare,"sp, date & link fixes using [[Project:AutoWikiBrowser|AWB]]"
+2009-07-27T22:44:34+00:00,304566562,304092041,0,Auntof6,County Carlow,/* People */clean up/syntax using [[Project:AutoWikiBrowser|AWB]]
+2009-07-27T22:48:34+00:00,304567197,304091942,0,Auntof6,County Donegal,clean up/syntax using [[Project:AutoWikiBrowser|AWB]]
+2009-07-25T09:02:49+00:00,304091955,304091738,0,Yorkshirian,County Down,
+2009-07-25T09:03:27+00:00,304092014,304090564,0,Yorkshirian,County Cavan,
+2009-07-27T21:58:53+00:00,304558474,304091991,0,86.93.33.50,County Cork,/* Suburbs & Towns */
+2009-07-25T09:00:54+00:00,304091788,304090184,0,Yorkshirian,County Armagh,"controversial addition of ""32 counties"""
+2009-07-26T08:29:01+00:00,304259806,304091955,0,Calen11,County Down,motto
+2009-07-26T02:20:45+00:00,304223335,304092174,0,165.228.210.183,County Dublin,motto
+2009-07-31T16:05:16+00:00,305284232,305284013,0,Sarah777,County Cavan,/* Towns and villages in County Cavan */ layout
+2009-07-25T09:05:39+00:00,304092193,304091898,0,Yorkshirian,County Fermanagh,
+2009-07-25T09:09:14+00:00,304092535,303913202,0,Happy Geographer,County Kerry,comparative population
+2009-07-27T22:49:51+00:00,304567421,304092209,0,Auntof6,County Galway,clean up/syntax using [[Project:AutoWikiBrowser|AWB]]
+2009-07-25T09:05:48+00:00,304092209,304091960,0,Yorkshirian,County Galway,
+2009-07-26T09:09:32+00:00,304263746,304092595,0,Calen11,County Kildare,motto
+2009-07-26T09:16:19+00:00,304264420,304092720,0,Calen11,County Laois,motto
+2009-07-25T09:11:28+00:00,304092754,303984496,0,Happy Geographer,County Leitrim,comparative population
+2009-07-25T09:12:15+00:00,304092833,301498926,0,Happy Geographer,County Limerick,comparative population
+2009-07-31T04:39:52+00:00,305215086,305215024,0,Mrchris,County Kilkenny,/* Ref */
+2009-07-25T09:11:05+00:00,304092720,303706688,0,Happy Geographer,County Laois,comparative population
+2009-07-26T08:39:25+00:00,304260965,304091980,0,Calen11,County Londonderry,motto
+2009-07-26T09:18:06+00:00,304264610,304093019,0,Calen11,County Longford,motto
+2009-07-26T09:22:47+00:00,304265076,304093286,0,Calen11,County Louth,motto
+2009-08-02T13:48:59+00:00,305631998,305554521,0,SmackBot,County Mayo,Date maintenance tags and general  fixes
+2009-07-29T11:26:43+00:00,304860632,304570100,0,83.147.167.246,County Meath,/* taxi */ spam
+2009-07-25T09:18:26+00:00,304093431,301499331,0,Happy Geographer,County Monaghan,comparative population
+2009-07-26T09:06:00+00:00,304263428,304093649,0,Calen11,County Roscommon,motto
+2009-07-26T09:07:22+00:00,304263540,304093683,0,Calen11,County Sligo,only used for languages other than English
+2009-07-26T09:27:17+00:00,304265553,304093469,0,Calen11,County Offaly,motto
+2009-07-27T22:54:40+00:00,304568294,304093717,0,Auntof6,County Tipperary,/* Towns and villages */clean up/syntax using [[Project:AutoWikiBrowser|AWB]]
+2009-07-27T16:48:46+00:00,304505283,304261318,0,81.141.22.60,County Tyrone,/* Geography */
+2009-07-25T20:26:52+00:00,304175958,304117830,0,Jmccormac,County Waterford,Some links are notable.[[WP:UNDO|Undid]] revision 304117830 by [[Special:Contributions/Nelson50|Nelson50]] ([[User talk:Nelson50|talk]])
+2009-07-26T09:29:03+00:00,304265725,304093878,0,Calen11,County Westmeath,motto
+2009-07-26T09:30:47+00:00,304265913,304093930,0,Calen11,County Wexford,motto
+2009-06-05T09:12:18+00:00,294544380,293468853,0,Sarah777,Courtown,layout
+2009-07-31T16:48:06+00:00,305292219,305290631,0,Declangraham,County Wicklow,/* Energy */
+2009-08-01T08:38:33+00:00,305424822,305424748,0,Census1911 fan,Courtown,
+2009-08-02T16:52:43+00:00,305656735,305424822,0,Sarah777,Courtown,collapse template
+2009-05-25T18:30:19+00:00,292271010,282497674,0,Secrowl,Curragh Camp,/* External links and sources */ updated link
+2009-08-01T14:49:26+00:00,305463966,305425098,0,Ww2censor,Curragh Camp,Reverted 3 edits by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Remove - editor refuses to discuss. ([[WP:TW|TW]])
+2009-08-02T16:53:10+00:00,305656786,305425196,0,Sarah777,Daingean,collapse template
+2009-07-28T09:59:52+00:00,304649534,304558541,0,86.42.244.106,Daingean,/* History */
+2009-05-10T13:21:31+00:00,289060828,288968741,0,Nelson50,Delgany,Reverted 1 edit by [[Special:Contributions/194.46.176.10|194.46.176.10]]; Unconstructive. using [[WP:TWINKLE|TW]]
+2009-08-02T14:41:46+00:00,305638768,305611764,0,Ww2censor,Delgany,Reverted 1 edit by [[Special:Contributions/Wicklow Geographer|Wicklow Geographer]]; Remove - editor refuses to discuss. ([[WP:TW|TW]])
+2009-06-14T00:48:19+00:00,296266215,296215076,0,Sarah777,Derrinturn,[[WP:UNDO|Undid]] revision 296215076 by [[Special:Contributions/JackTheLad92|JackTheLad92]] ([[User talk:JackTheLad92|talk]])
+2009-07-28T13:45:36+00:00,304678109,304677765,0,RHaworth,Derry population,[[WP:AES|←]]Redirected page to [[Derry]]
+2009-07-25T17:41:41+00:00,304151759,304091334,0,SmackBot,Derry population,Add references section and/or general fixes.
+2009-07-23T20:41:14+00:00,303807066,300308473,0,92.251.189.44,Dingle,
+2009-05-17T17:25:55+00:00,290544014,290543768,0,Doregan,Doneraile,
+2009-08-01T08:45:34+00:00,305425491,290544014,0,Census1911 fan,Doneraile,historical populations
+2009-07-28T22:38:03+00:00,304765587,304671314,0,SmackBot,Downpatrick,Date maintenance tags and general  fixes
+2009-08-01T08:49:09+00:00,305425809,304765587,0,Census1911 fan,Downpatrick,historical populations
+2009-07-25T08:55:25+00:00,304091302,303438144,0,Happy Geographer,Drogheda,/* Hinterland */ historical population
+2009-07-30T21:59:30+00:00,305160238,305159490,0,NawlinWiki,Drogheda,[[WP:RBK|Reverted]] edits by [[Special:Contributions/78.143.140.237|78.143.140.237]] ([[User talk:78.143.140.237|talk]]) to last version by Happy Geographer
+2009-07-27T13:20:15+00:00,304472186,304091386,0,Cynwolfe,Dundalk,/* Primary schools */
+2009-07-17T00:40:02+00:00,302516998,301548522,0,ClickBot,Dungannon,Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-07-25T20:41:19+00:00,304177980,304117549,0,Jmccormac,Dungarvan,Restored correct link to Dungarvan Town council
+2009-08-02T16:56:50+00:00,305657308,305425604,0,Sarah777,Dungarvan,collapse template
+2009-08-01T08:51:30+00:00,305426011,299949487,0,Census1911 fan,Dunmanway,historical populations
+2009-05-25T18:02:41+00:00,292266083,292265541,0,Secrowl,Edenderry,
+2009-07-18T00:52:00+00:00,302695030,302684033,0,Asarlaí,Dún Laoghaire,moved an image
+2009-07-02T21:11:45+00:00,299949487,298764995,0,Fernandosmission,Dunmanway,/* Sport */
+2009-07-27T17:33:41+00:00,304512547,304481332,0,Autarch,Dún Laoghaire,Typo fix.
+2009-08-03T03:23:19+00:00,305747705,305747664,0,Ww2censor,Ennis,Tagging [[:Image:Towns.gif]] which is up for deletion per [[WP:CSD|CSD]]  ([[WP:TW|TW]])
+2009-07-28T19:13:25+00:00,304731101,304730913,0,78.16.189.3,Ennis,/* Culture */
+2009-07-27T18:52:11+00:00,304526393,304525573,0,86.43.192.111,Enniscorthy,/* Etymology */
+2009-07-17T09:07:49+00:00,302567408,301291158,0,ClickBot,Enniskillen,Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-07-26T11:25:07+00:00,304277753,304277606,0,Nev1,Ferbane,[[WP:RBK|Reverted]] edits by [[Special:Contributions/194.165.189.66|194.165.189.66]] ([[User talk:194.165.189.66|talk]]) to last version by Autodidactyl
+2009-07-24T18:07:27+00:00,303976005,302028450,0,88.87.170.138,Ennistymon,/* Cultural */
+2009-08-02T16:57:45+00:00,305657443,305426196,0,Sarah777,Ennistymon,collapse template
+2009-08-01T08:56:04+00:00,305426389,305252680,0,Census1911 fan,Ferbane,historical populations
+2009-07-03T02:39:17+00:00,299985113,296482748,0,SieBot,Fermoy,robot Adding: [[eu:Fermoy]]
+2009-07-25T09:36:46+00:00,304095105,303838613,0,Happy Geographer,"Ferns, County Wexford",Historical populations
+2009-08-01T08:56:46+00:00,305426456,299985113,0,Census1911 fan,Fermoy,historical populations
+2009-08-02T18:58:54+00:00,305676221,304095105,0,Ww2censor,"Ferns, County Wexford",Reverted 1 edit by [[Special:Contributions/Happy Geographer|Happy Geographer]]; Revert - editor refuses to discuss. ([[WP:TW|TW]])
+2009-05-16T22:50:43+00:00,290399401,290078335,0,Sarah777,"Fethard, County Tipperary",rem travel brochure stuff
+2009-08-02T16:59:24+00:00,305657707,305426920,0,Sarah777,"Fethard, County Tipperary",collapse template
+2009-08-01T09:03:27+00:00,305427028,293375413,0,Census1911 fan,"Freshford, County Kilkenny",historical populations
+2009-05-30T20:16:50+00:00,293375413,284409070,0,Asarlaí,"Freshford, County Kilkenny",historic name
+2009-07-26T08:54:17+00:00,304262366,304092238,0,Calen11,Galway,motto
+2009-07-29T16:05:59+00:00,304901456,304887912,0,Red King,Galway,/* Climate */ late sunset is partly due to being 11 degrees west
+2009-08-01T10:41:31+00:00,305436508,305436425,0,Alexius08,Galway,no such word as alcomaholic exists ([[WP:HG|HG]])
+2009-07-31T09:25:50+00:00,305245848,305245710,0,92.6.191.122,Galway,/* History */
+2009-08-01T09:05:15+00:00,305427180,301759230,0,Census1911 fan,Gorey,historical populations
+2009-07-23T18:53:09+00:00,303787863,303787263,0,89.217.167.174,Gort,/* People */
+2009-08-01T09:05:53+00:00,305427224,291701376,0,Census1911 fan,Graiguenamanagh,historical populations
+2009-05-22T22:04:09+00:00,291701376,284410448,0,86.46.201.132,Graiguenamanagh,
+2009-07-12T21:54:47+00:00,301759230,301759153,0,JForget,Gorey,[[WP:UNDO|Undid]] revision 301474918 by [[Special:Contributions/86.43.221.103|86.43.221.103]] ([[User talk:86.43.221.103|talk]])
+2009-07-19T20:17:43+00:00,303004391,303004188,0,Autodidactyl,Granard,/* People */ tighten text
+2009-08-01T09:04:18+00:00,305427101,303787863,0,Census1911 fan,Gort,historical populations
+2009-08-01T11:18:24+00:00,305440331,305440169,0,Autodidactyl,Granard,Add links via [[User:Nickj/Can_We_Link_It|Can_We_Link_It]].
+2009-08-01T20:33:27+00:00,305516179,305516174,0,ClueBot,Greystones,"Reverting possible vandalism by [[Special:Contributions/78.16.197.199|78.16.197.199]] to version by Ww2censor. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (747741) (Bot)"
+2009-08-02T18:48:14+00:00,305674501,305432352,0,Ww2censor,Johnstownbridge,revert part - editor refuses to discuss
+2009-08-02T14:40:55+00:00,305638673,305611682,0,Ww2censor,Greystones,Reverted 1 edit by [[Special:Contributions/Wicklow Geographer|Wicklow Geographer]]; Remove - editor refuses to discuss. ([[WP:TW|TW]])
+2009-08-01T18:46:32+00:00,305498662,305496584,0,Osioni,Kanturk,fix Mallow link
+2009-07-20T21:00:13+00:00,303204240,303204206,0,Martin451,Kanturk,Reverted edits by [[Special:Contributions/89.101.221.45|89.101.221.45]] to last revision by Midnight Comet ([[WP:HG|HG]])
+2009-07-17T14:59:13+00:00,302608857,301167938,0,Soap,"Kells, County Meath",fixing dab link
+2009-07-14T06:18:22+00:00,302000875,301780818,0,Woohookitty,Kenmare,Disambiguate [[Britain]] to [[Early Modern Britain]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2009-08-02T19:13:01+00:00,305678364,304129287,0,Sarah777,Kilcock,collapse pop template
+2009-07-25T15:00:44+00:00,304129287,304095186,0,SeoR,Kilcock,Location of added template.
+2009-08-02T19:13:35+00:00,305678444,304127954,0,Sarah777,Kilcullen,collapse pop template
+2009-07-25T14:50:25+00:00,304127954,304095257,0,SeoR,Kilcullen,"Historic populations should be in better format.  Moving into history, as wrecked article start format."
+2009-07-27T21:55:12+00:00,304557826,304557239,0,Abcdtoday1234,Kilkee,
+2009-08-01T16:22:55+00:00,305476787,305433054,0,192.229.17.113,Kilkee,
+2009-07-17T14:58:27+00:00,302608733,297186813,0,Soap,Kilkee,fixing dab link
+2009-08-02T19:24:48+00:00,305680233,305169526,0,Sarah777,Kilkenny,collapse pop template
+2009-08-03T00:56:26+00:00,305728138,305722078,0,Sarah777,"Kill, County Kildare",straight I will revert
+2009-07-25T09:39:16+00:00,304095350,303132376,0,Happy Geographer,"Kill, County Kildare",historical populations
+2009-06-06T19:18:25+00:00,294833022,294832757,0,Jordan353,"Killaloe, County Clare",/* History */
+2009-07-21T18:11:37+00:00,303379164,303360571,0,Pmunited,Killarney,/* Gaelic games */
+2009-07-27T22:46:54+00:00,304566945,304092377,0,86.45.140.243,Killarney,/* Tourism */
+2009-07-25T17:44:48+00:00,304152273,304096472,0,SmackBot,Kilrush,Add references section and/or general fixes.
+2009-08-01T10:23:15+00:00,305434583,305434208,0,The JPS,Kilmeage,Quick-adding category [[:Category:County Kildare|County Kildare]] (using [[WP:HOTCAT|HotCat]])
+2009-07-24T00:09:55+00:00,303841370,295893992,0,CmdrObot,Kilteel,RTÉ rename
+2009-07-02T11:19:00+00:00,299867839,299867603,0,86.45.176.166,Kinsale,/* History */
+2009-08-02T17:07:02+00:00,305658789,305434479,0,Sarah777,Kinsale,collapse template
+2009-08-01T16:54:23+00:00,305481395,305434716,0,HighKing,Lahinch,"[[WP:UNDO|Undid]] revision 305434716 by [[Special:Contributions/Census1911 fan|Census1911 fan]] ([[User talk:Census1911 fan|talk]])unnecessary detail, especially conspiciously as an info box"
+2009-07-27T01:26:26+00:00,304391590,302619257,0,Xqbot,Larne,robot Adding: [[es:Larne]]
+2009-07-09T11:43:53+00:00,301172760,296988225,0,Tripi13,Laytown,/* External links */
+2009-05-12T22:24:01+00:00,289560226,276946504,0,Asarlaí,Legoniel,name
+2009-06-07T12:06:27+00:00,294960415,290598764,0,86.46.202.91,Leighlinbridge,/* External links */
+2009-07-24T00:11:19+00:00,303841547,302924213,0,CmdrObot,Letterkenny,RTÉ rename
+2009-08-03T11:26:36+00:00,305798830,305728339,0,Nelson50,Letterkenny,Reverted to revision 304582146 by [[Special:Contributions/Ww2censor|Ww2censor]]; Rv editor refusing to discuss additions and repeatedly adding redlink.. using [[WP:TWINKLE|TW]]
+2009-07-28T00:20:41+00:00,304582146,304481856,0,Ww2censor,Letterkenny,Reverted 1 edit by [[Special:Contributions/Delicate Enumeration|Delicate Enumeration]]; Please discuss at [[WT:IE]] - it's a mess anyway. ([[WP:TW|TW]])
+2009-06-10T22:43:04+00:00,295671495,295561276,0,86.46.130.134,Lifford,/* Sport */
+2009-07-17T16:28:04+00:00,302622264,301291959,0,ClickBot,Limavady,Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-08-02T20:49:11+00:00,305693443,305674041,0,Alexbot,Limavady,robot Adding: [[de:Limavady]]
+2009-07-17T16:32:07+00:00,302622837,302372002,0,ClickBot,Lisburn,Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-08-02T13:02:10+00:00,305626533,305435717,0,ClickRick,Lisburn,Adding image size per infobox doc using [[Project:AutoWikiBrowser|AWB]]
+2009-08-02T17:08:10+00:00,305658943,305435029,0,Sarah777,Lifford,collapse template
+2009-07-19T21:20:11+00:00,303014420,297566080,0,Liscannorman,Liscannor,
+2009-05-08T22:04:53+00:00,288756973,279855710,0,DumZiBoT,Lisdoonvarna,robot  Adding: [[pl:Lisdoonvarna]]
+2009-08-02T17:09:03+00:00,305659058,305435831,0,Sarah777,Lisdoonvarna,collapse template
+2009-08-01T10:35:42+00:00,305435965,305435883,0,Census1911 fan,"Lismore, County Waterford",historical populations
+2009-02-26T21:54:23+00:00,273512272,272706878,0,Alexbot,"Lismore, County Waterford",robot  Adding: [[de:Lismore (Irland)]]
+2009-07-09T15:14:10+00:00,301201126,301200959,0,79.97.50.25,Listowel,/* Other notable people from Listowel */
+2009-08-02T18:31:06+00:00,305671865,305671589,0,Sarah777,Listowel,synch
+2009-08-03T00:49:28+00:00,305727242,305727112,0,Sarah777,Longford,rvv
+2009-07-25T09:26:20+00:00,304094115,304094081,0,Happy Geographer,Longford,/* Transport */
+2009-07-30T11:29:34+00:00,305057835,305057823,0,SoxBot III,Longford,Reverting possible test edit(s) by [[Special:Contributions/86.45.91.4|86.45.91.4]] to older version. [[User talk:X!|Was this a mistake?]] (BOT EDIT)
+2009-06-19T21:02:42+00:00,297428856,297009355,0,Flowerpotman,Loughrea,"/* Places of interest */ link to Bullaun, County Galway article"
+2009-07-27T15:53:31+00:00,304496124,304095511,0,194.46.252.40,"Lucan, Dublin",/* Amenities */
+2009-08-02T17:09:55+00:00,305659195,305436136,0,Sarah777,Loughrea,collapse template
+2009-07-28T19:26:41+00:00,304733460,302650133,0,92.41.91.113,Lurgan,
+2009-08-03T19:00:06+00:00,305865231,305851692,0,Nelson50,Lurgan,"Collapse table, pls see comment on talk page"
+2009-07-27T00:59:59+00:00,304387709,304387661,0,Sioraf,Macroom,
+2009-07-28T22:56:43+00:00,304768501,304733460,0,Tedder,Lurgan,Reverted 1 edit by [[Special:Contributions/92.41.91.113|92.41.91.113]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Alastair Rae|Alastair Rae]].([[WP:TW|TW]])
+2009-07-17T22:12:07+00:00,302674854,302604836,0,87.232.1.89,"Mallow, County Cork",
+2009-07-29T15:23:03+00:00,304894188,304893302,0,Rodhullandemu,Malahide,[[WP:RBK|Reverted]] edits by [[Special:Contributions/195.245.90.41|195.245.90.41]] ([[User talk:195.245.90.41|talk]]) to last version by Ww2censor
+2009-08-02T10:05:27+00:00,305609275,305500712,0,194.46.248.59,"Mallow, County Cork",citations needed
+2009-07-21T19:53:32+00:00,303396659,303387674,0,Pmunited,Macroom,[[WP:UNDO|Undid]] revision 303387674 by [[Special:Contributions/Theoriginalchelsea|Theoriginalchelsea]] ([[User talk:Theoriginalchelsea|talk]])
+2009-07-30T14:50:57+00:00,305085631,305085447,0,78.152.250.224,Midleton,/* Railway */
+2009-06-22T00:12:39+00:00,297819585,297797589,0,Nelson50,Midleton,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Flyfishingman|Flyfishingman]]; Rv, Pls read policies on editing (contact me on my talk page for help if needed). using [[WP:TWINKLE|TW]]"
+2009-08-01T10:44:49+00:00,305436838,302924496,0,Census1911 fan,Millstreet,historical populations
+2009-07-19T10:34:08+00:00,302924496,302053672,0,Sarah777,Millstreet,tweak
+2009-07-25T15:45:25+00:00,304135035,304095610,0,Spanishpoint Setdancer,Milltown Malbay,missing population
+2009-07-17T19:28:02+00:00,302650133,302628929,0,Chuunen Baka,Lurgan,a Lurgan spade
+2009-07-18T20:43:12+00:00,302830912,302608910,0,LilHelpa,Mitchelstown,it's -> its
+2009-07-19T21:14:10+00:00,303013471,301584674,0,Sarah777,Moate,/* Notable People */ c
+2009-07-08T18:52:32+00:00,301040302,300049263,0,LilHelpa,Monaghan,it's -> its
+2009-07-25T09:43:21+00:00,304095737,293981695,0,Happy Geographer,Monasterevin,historical populations
+2009-08-02T19:21:11+00:00,305679642,305362195,0,Sarah777,Mountmellick,collapse pop template
+2009-04-17T17:25:08+00:00,284457402,284456546,0,Gogo Dodo,Moone,"Rm, good faith edit, but unclear on context"
+2009-06-08T18:28:01+00:00,295215843,290101571,0,193.1.104.8,Mountrath,deleted vandalism
+2009-08-02T16:52:02+00:00,305656616,305437254,0,Nelson50,Moone,Reverted 1 edit by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Rv editor refusing to discuss additions and repeatedly adding redlink. using [[WP:TWINKLE|TW]]
+2009-07-30T03:12:03+00:00,305003518,305003410,0,86.45.225.225,Mullingar,/* Popular Culture */  changig layout errors
+2009-08-02T19:23:42+00:00,305680026,305003518,0,Sarah777,Mullingar,collapse pop template
+2009-08-03T11:40:22+00:00,305800465,305727025,0,Nelson50,Navan,Reverted to revision 305676273 by [[Special:Contributions/Ww2censor|Ww2censor]]; Rv editor refusing to discuss additions and repeatedly adding redlink.. using [[WP:TWINKLE|TW]]
+2009-07-25T09:27:32+00:00,304094227,302782851,0,Happy Geographer,Navan,/* People */ historical populations
+2009-08-02T16:47:51+00:00,305655997,305437583,0,Nelson50,Nenagh,Reverted 1 edit by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Rv editor refusing to discuss additions adds redlink. using [[WP:TWINKLE|TW]]
+2009-07-21T20:02:27+00:00,303398212,302107864,0,Youngthos,Nenagh,
+2009-07-17T17:01:30+00:00,302627415,302626077,0,RobertG,New Ross,[[WP:RBK|Reverted]] edits by [[Special:Contributions/78.152.215.109|78.152.215.109]] ([[User talk:78.152.215.109|talk]]) to last version by Zhang He
+2009-07-28T15:24:19+00:00,304692936,303337625,0,86.40.244.246,Newcastle West,/* Nightlife */
+2009-08-02T17:20:45+00:00,305660901,305440653,0,Sarah777,New Ross,collapse template
+2009-07-25T09:44:28+00:00,304095831,297753530,0,Happy Geographer,"Newcastle, Dublin",historical populations
+2009-07-26T15:03:33+00:00,304303231,303765771,0,Bleaney,Newry,/* Churches */
+2009-07-21T14:05:32+00:00,303337625,291895767,0,83.71.175.121,Newcastle West,/* 2008 summer flood */
+2009-07-17T19:28:44+00:00,302650246,301293504,0,ClickBot,Newtownabbey,Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-07-24T14:39:31+00:00,303941196,302650275,0,Xezbeth,Newtownards,sp
+2009-07-29T00:42:10+00:00,304783133,302655605,0,Mild Bill Hiccup,Omagh,/* Climate */ spelling
+2009-08-02T16:43:52+00:00,305655355,305438734,0,Nelson50,Passage West,Reverted 1 edit by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Rv editor refuses to discuss additions adds redlink. using [[WP:TWINKLE|TW]]
+2009-07-17T20:04:26+00:00,302655605,301293848,0,ClickBot,Omagh,Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-04-17T11:57:51+00:00,284400502,280860705,0,Sarah777,Passage West,/* References */ add see also
+2009-07-23T23:02:06+00:00,303831666,303744255,0,84.67.215.84,Portadown,/* Places of interest */
+2009-07-26T22:14:45+00:00,304365807,304365714,0,Furriskey,"Portarlington, County Laois",/* Geography */
+2009-07-27T14:45:13+00:00,304485129,304094482,0,86.42.240.22,Portlaoise,/* History */ Sorry but there was no County Laois before 1557
+2009-07-27T21:12:38+00:00,304550444,304482579,0,Twilson r,Portmarnock,"With apologies to the supplier, I am removing the newly-added  Historical Population  item, as it seems disproportionate but, more seriously for now, ruins the page format."
+2009-05-26T02:50:09+00:00,292356569,258990409,0,A1ACo,Portlaw,term used
+2009-08-03T12:54:11+00:00,305808623,305682495,0,Nelson50,Portmarnock,Reverted to revision 304550444 by [[Special:Contributions/Twilson r|Twilson r]]; rv Editor refusing to discuss additions and repeatedly adding redlink.. using [[WP:TWINKLE|TW]]
+2009-06-29T19:33:19+00:00,299367917,297894929,0,87.192.40.114,Portrane,/* St. Ita's Psychiatric Hospital */
+2009-07-17T23:42:59+00:00,302686532,299705241,0,ClickBot,Portrush,Changing {{Infobox UK place}} population field; see [[Template talk:Infobox UK place#Possible_bot_tasks|talk]]. Report problems [[User talk:ClickBot|here]]
+2009-07-25T09:45:16+00:00,304095911,288028749,0,Happy Geographer,"Prosperous, County Kildare",historical populations
+2009-07-25T09:45:57+00:00,304095977,292266262,0,Happy Geographer,"Rathangan, County Kildare",historical populations
+2009-08-03T00:46:56+00:00,305726929,305724067,0,Sarah777,"Prosperous, County Kildare",collapse pop template
+2009-08-03T00:45:39+00:00,305726771,305724193,0,Sarah777,"Rathangan, County Kildare",lord! are you relentless or what?!
+2009-08-02T18:56:48+00:00,305675865,304095977,0,Ww2censor,"Rathangan, County Kildare",Reverted 1 edit by [[Special:Contributions/Happy Geographer|Happy Geographer]]; Revert - editor refuses to discuss. ([[WP:TW|TW]])
+2009-07-28T00:11:15+00:00,304580484,304482726,0,Ww2censor,"Rathcoole, Dublin",Reverted 1 edit by [[Special:Contributions/Delicate Enumeration|Delicate Enumeration]]; Please discuss at [[WT:IE]]. ([[WP:TW|TW]])
+2009-08-03T12:39:33+00:00,305806912,305682405,0,Nelson50,"Rathcoole, Dublin",Reverted to revision 304580484 by [[Special:Contributions/Ww2censor|Ww2censor]]; rv Editor refusing to discuss additions and repeatedly adding redlink.. using [[WP:TWINKLE|TW]]
+2009-07-09T20:12:44+00:00,301249038,301248679,0,Astynax,Rathmolyon,/* Local history */
+2009-07-11T17:15:14+00:00,301564406,301237935,0,Asarlaí,Rathkeale,added the Irish translation
+2009-07-25T09:47:18+00:00,304096104,291566556,0,Happy Geographer,"Robertstown, County Kildare",historical populations
+2009-07-30T17:53:38+00:00,305116087,304933770,0,Sarah777,Rathkeale,[[WP:UNDO|Undid]] revision 304933770 by [[Special:Contributions/89.100.136.85|89.100.136.85]] ([[User talk:89.100.136.85|talk]])
+2009-05-26T10:41:22+00:00,292413471,286805115,0,123.243.140.19,Roscommon,/* Amenities */
+2009-07-29T00:20:28+00:00,304780465,301013159,0,RussBot,Roscrea,Robot-assisted [[WP:D|disambiguation]]: Public school
+2009-08-02T19:42:19+00:00,305683113,305654221,0,Bonzostar,Roscrea,
+2009-05-21T07:35:35+00:00,291353074,291217104,0,StormCloud,"Rush, Dublin",[[WP:UNDO|Undid]] revision 291217104 by [[Special:Contributions/86.44.26.162|86.44.26.162]] ([[User talk:86.44.26.162|talk]]) Revert vandalism
+2009-07-25T09:49:21+00:00,304096303,287937881,0,Happy Geographer,Sallins,historical populations
+2009-07-28T00:10:47+00:00,304580400,304482866,0,Ww2censor,Saggart,Reverted 1 edit by [[Special:Contributions/Delicate Enumeration|Delicate Enumeration]]; Please discuss at [[WT:IE]]. ([[WP:TW|TW]])
+2009-08-02T19:12:05+00:00,305678234,305285410,0,Sarah777,Sallins,collapse pop template
+2009-05-24T17:01:57+00:00,292041221,292041152,0,Sarah777,"Shannon, County Clare",county clare
+2009-07-12T20:30:51+00:00,301746612,293752298,0,86.42.255.51,Skibbereen,/* People */
+2009-06-26T10:26:17+00:00,298726626,296136323,0,87.113.78.123,"Skerries, Dublin",
+2009-07-25T12:00:22+00:00,304108963,304108917,0,Harlem675,Sligo,[[WP:UNDO|Undid]] revision 304108917 by [[Special:Contributions/62.40.36.14|62.40.36.14]] ([[User talk:62.40.36.14|talk]])
+2009-07-30T15:06:21+00:00,305088301,304781688,0,The.Q,Sligo,"Reverted some changes which were not referenced, but originals were. Sligo is not a city (here we go again!)"
+2009-08-01T11:15:02+00:00,305440000,305162657,0,Census1911 fan,Strabane,historical populations
+2009-07-10T01:33:24+00:00,301294235,299585474,0,Asarlaí,Strabane,Wikimedia Commons
+2008-12-24T23:11:38+00:00,259975532,252184472,0,Flaming,Suncroft,general cleanup and/or tagging  using [[Project:AutoWikiBrowser|AWB]]
+2009-08-01T11:18:42+00:00,305440373,305440219,0,Census1911 fan,Suncroft,
+2009-07-28T00:09:56+00:00,304580236,304483131,0,Ww2censor,"Swords, Dublin",Reverted 1 edit by [[Special:Contributions/Delicate Enumeration|Delicate Enumeration]]; Please discuss at [[WT:IE]]. ([[WP:TW|TW]])
+2009-07-31T14:40:25+00:00,305269344,305268926,0,Fieldday-sunday,Tallaght,Reverted edits by [[Special:Contributions/89.204.229.75|89.204.229.75]] to last revision by Sarah777 ([[WP:HG|HG]])
+2009-07-28T00:09:23+00:00,304580130,304483252,0,Ww2censor,Tallaght,Reverted 1 edit by [[Special:Contributions/Delicate Enumeration|Delicate Enumeration]]; Please discuss at [[WT:IE]]. ([[WP:TW|TW]])
+2009-02-15T10:02:41+00:00,270856961,250628700,0,AFBorchert,"Tallow, County Waterford",new section about notable people of Tallow
+2009-08-02T17:21:13+00:00,305660980,305440727,0,Sarah777,"Tallow, County Waterford",collapse template
+2009-05-31T19:20:39+00:00,293566211,289219616,0,Asarlaí,"Thomastown, County Kilkenny",historic name
+2009-07-12T21:51:28+00:00,301758742,290405249,0,98.183.214.28,Templemore,/* History */
+2009-07-28T01:00:17+00:00,304587663,304193127,0,81.99.68.201,Thurles,Correct Irish name - Dúrlas Éile UÍ Fhogartaigh.
+2009-07-25T22:25:06+00:00,304193127,304094861,0,89.101.181.9,Thurles,/* External links */
+2009-02-05T23:12:22+00:00,268792139,259050218,0,SeoR,Timolin,Copyedit.
+2009-07-05T18:30:52+00:00,300448011,295136722,0,Danglingdiagnosis,Tipperary (town),/* In song */
+2009-07-26T20:53:29+00:00,304353852,304094750,0,Hilderbrack,Tralee,/* Places of interest */
+2009-07-30T09:21:41+00:00,305043743,305042639,0,Invara,Tramore,/* People from Tramore */  adding more people and sorting a-z by second name
+2009-07-25T09:32:40+00:00,304094750,302192634,0,Happy Geographer,Tralee,historical populations
+2009-06-27T01:30:14+00:00,298859647,298857349,0,RashersTierney,Tramore,Reverted 1 edit by [[Special:Contributions/86.46.73.146|86.46.73.146]]; Air a hazard?. ([[WP:TW|TW]])
+2009-07-26T18:54:36+00:00,304335859,304335760,0,Poloratgoet,"Trim, County Meath",/* People */
+2009-07-22T22:45:34+00:00,303624562,303397970,0,69.244.245.162,"Trim, County Meath",/* People */
+2009-08-03T23:13:45+00:00,305908086,305554472,0,ClintMalpaso,Tuam,Removed wrong link
+2009-07-21T20:04:03+00:00,303398483,299327572,0,Youngthos,Tuam,
+2009-07-30T02:10:39+00:00,304994810,304692842,0,Alansohn,Tullamore,"add notable, with source"
+2009-06-28T20:18:24+00:00,299176502,299167615,0,TXiKiBoT,"Westport, County Mayo",robot Adding: [[eu:Westport]]
+2009-06-20T16:47:29+00:00,297570277,287514696,0,89.207.58.11,Tullow,
+2009-07-25T09:48:44+00:00,304096251,304094990,0,Bagworm,Wexford,"configure els, but still need to be pointed at specific webpages; still some punctuation missing from Lee ref"
+2009-08-01T14:49:46+00:00,305464012,305441601,0,Ww2censor,Wicklow,Reverted 1 edit by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Remove - editor refuses to discuss. ([[WP:TW|TW]])
+2009-07-25T18:13:48+00:00,304156961,291458850,0,Alexbot,Wicklow,robot Adding: [[ru:Уиклоу (город)]]
+2009-07-13T15:02:17+00:00,301868842,301868752,0,Philip Trueman,Youghal,[[WP:RBK|Reverted]] edits by [[Special:Contributions/86.41.139.89|86.41.139.89]] ([[User talk:86.41.139.89|talk]]) to last version by Priyanath
+2009-08-02T16:24:44+00:00,305652552,305441719,0,Nelson50,Youghal,Reverted 1 edit by [[Special:Contributions/Census1911 fan|Census1911 fan]]; Rv undiscussed addition adds redlink. using [[WP:TWINKLE|TW]]
+2009-03-28T04:12:11+00:00,280148957,276623726,0,Biruitorul,"Antrim, County Antrim",spam
+2009-02-15T22:50:17+00:00,270984012,270983937,0,Discospinster,"Antrim, County Antrim",Reverted edits by [[Special:Contributions/81.129.245.158|81.129.245.158]] to last revision by Discospinster ([[WP:HG|HG]])
+2009-06-10T18:00:43+00:00,295620111,295603195,0,Nicknack009,Ardee,[[WP:RBK|Reverted]] edits by [[Special:Contributions/194.46.252.6|194.46.252.6]] ([[User talk:194.46.252.6|talk]]) to last version by 86.46.38.138
+2009-06-08T02:53:26+00:00,295098655,294279859,0,Marek69,Armagh,/* City Centre Regeneration */clean up using [[Project:AutoWikiBrowser|AWB]]
+2009-03-19T16:48:46+00:00,278356913,278356544,0,Eamonnca1,Armagh,/* External links */ rm link with hardly any info on page
+2009-02-09T17:31:13+00:00,269571549,269040646,0,O Fenian,"Antrim, County Antrim",/* Notable Antrimers */ Remove self published author
+2008-12-23T07:28:32+00:00,259681581,259669125,0,Blowdart,"Antrim, County Antrim",Reverted 1 edit by [[Special:Contributions/Clarkekentyboy|Clarkekentyboy]]; Rv non-notable. ([[WP:TW|TW]])
+2009-03-09T13:44:33+00:00,276031315,275034363,0,Fribbler,"Ashbourne, County Meath",/* Public transport */ avoid redirect
+2009-04-28T18:06:29+00:00,286689044,286676544,0,Qed2u,Armagh,/* External links */
+2009-05-09T22:01:57+00:00,288950478,288950383,0,86.46.38.138,Ardee,/* See also */
+2008-12-13T20:29:58+00:00,257759604,252546131,0,Jac16888,Arklow,/* Music */ rm sig
+2009-02-07T01:28:27+00:00,269040261,269035224,0,Danieliswearmcguire,"Ashbourne, County Meath",
+2009-03-26T20:01:23+00:00,279861627,279855547,0,Hohenloh,Armagh,"Moved inline links to refs, as per MoS"
+2009-01-11T15:34:32+00:00,263390131,261518523,0,84.77.155.219,"Ashbourne, County Meath",/* Retail activities */
+2009-02-17T15:50:00+00:00,271357062,270293932,0,Kevind04,"Ashbourne, County Meath",
+2009-01-12T16:55:11+00:00,263612171,263389868,0,194.46.166.251,Athboy,some spelling correction and vandalism removal
+2009-01-08T10:14:52+00:00,262724608,262724506,0,Fergananim,Athenry,/* Notable natives */
+2009-01-06T20:35:21+00:00,262373630,261505443,0,Bilsywilsy,Athlone,/* Twin city */ im a resident with some personal experience
+2009-05-04T12:58:21+00:00,287836287,286661530,0,J04n,Athlone,Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2008-12-15T13:47:15+00:00,258116134,255722924,0,Emperor1993,Athlone,/* Education & industry */
+2009-06-08T15:03:50+00:00,295181156,295152313,0,Mremeralddragon,Athlone,[[WP:UNDO|Undid]] revision 295152140 by [[Special:Contributions/62.17.140.98|62.17.140.98]] ([[User talk:62.17.140.98|talk]])
+2009-01-08T17:26:09+00:00,262783273,262750213,0,Chris the speller,Athlone,"sp, apostrophe, hyphen"
+2009-07-25T12:41:27+00:00,304113213,300695254,0,Stone,Bagenalstown,Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2009-05-01T10:58:15+00:00,287226958,287226331,0,Currentlybiscuit,Balbriggan,Reverted edits by [[Special:Contributions/87.42.89.62|87.42.89.62]] to last revision by Laurent1979 ([[WP:HG|HG]])
+2009-01-26T22:22:46+00:00,266621533,266620967,0,William Avery,"Ballina, County Mayo",Reverted 1 edit by [[Special:Contributions/89.19.81.87|89.19.81.87]] identified as [[WP:VAND|vandalism]] to last revision by [[User:ClueBot|ClueBot]]. ([[WP:TW|TW]])
+2009-03-18T15:12:51+00:00,278118149,278115814,0,Bogger,"Ballina, County Mayo",/* References */ cat sort
+2009-05-06T17:11:57+00:00,288301402,288301067,0,84.203.66.136,"Ballina, County Mayo",
+2009-02-06T21:05:27+00:00,268992705,268991483,0,80.229.229.117,"Ballina, County Mayo",/* Air */
+2009-03-02T10:36:19+00:00,274390971,273020046,0,155.245.65.137,Ballinrobe,
+2009-02-21T22:36:06+00:00,272360670,272357240,0,PhilKnight,Ballinasloe,[[WP:UNDO|Undid]] revision 272357240 by [[Special:Contributions/159.134.205.237|159.134.205.237]] ([[User talk:159.134.205.237|talk]]) unsourced
+2009-03-06T19:44:32+00:00,275455897,275454882,0,Catreeeona,Ballybofey,
+2009-05-03T22:36:42+00:00,287729838,286329531,0,86.45.170.58,Ballybofey,/* Sport */
+2009-03-01T12:55:15+00:00,274129205,273875037,0,ImageRemovalBot,Ballybofey,Removing deleted [[:File:Main street1.jpg|image]]
+2009-04-01T01:36:43+00:00,280990588,280990461,0,217.44.6.201,Ballyclare,/* People */
+2009-03-04T12:47:11+00:00,274916403,273447575,0,82.29.234.61,Ballyclare,/* The May Fair */
+2009-04-11T22:10:14+00:00,283254793,283254574,0,Snigbrook,Ballyclare,Reverted edits by [[Special:Contributions/81.132.75.54|81.132.75.54]] ([[User talk:81.132.75.54|talk]]) to last version by J.delanoy
+2009-06-19T10:47:07+00:00,297337664,296757478,0,86.44.150.151,Ballymore Eustace,/* Sport */
+2009-07-11T03:29:43+00:00,301489769,301489646,0,86.12.241.252,Ballymena,/* 20th century */
+2009-02-13T10:38:39+00:00,270414392,269180787,0,95.42.217.171,Ballymoney,+bg
+2008-11-14T02:12:49+00:00,251688829,251104001,0,Tabletop,Ballymore Eustace,Spell parliment => parliament
+2009-01-07T12:53:54+00:00,262516153,262515840,0,Blowdart,Ballymoney,Reverted 1 edit by [[Special:Contributions/Rlaverty699|Rlaverty699]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Blowdart|Blowdart]]. ([[WP:TW|TW]])
+2009-06-11T23:02:50+00:00,295873687,295873579,0,Brian Herrity,Ballyshannon,/* Location */
+2009-05-07T14:55:50+00:00,288481495,288264048,0,Onebravemonkey,Ballymena,Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2009-04-26T23:46:47+00:00,286329531,285706739,0,Branddobbe,Ballybofey,
+2009-01-15T14:20:38+00:00,264256227,262965009,0,89.101.141.253,Ballyshannon,
+2009-04-25T21:18:33+00:00,286108864,286092482,0,MaxPride,Ballyshannon,/* History */
+2008-12-04T16:47:16+00:00,255864356,255292436,0,Derek.cashman,Banagher,'banagher in popular culture' --> 'in popular culture' (per [[WP:MSH]]); let's make this a main section to break up the really long culture section (in pop culture can stand on its own)
+2009-05-28T15:36:23+00:00,292898742,291222733,0,86.163.69.146,Banbridge,/* People */
+2009-04-05T08:06:43+00:00,281859652,279919335,0,Kanguole,Banagher,/* Education */ dab National school
+2009-05-25T14:39:05+00:00,292231170,292230873,0,WebHamster,"Bandon, County Cork",/* External links */ rm spam links that don't conform to [[WP:EL]]
+2009-07-01T23:12:50+00:00,299785189,299723384,0,Mooretwin,"Bandon, County Cork",/* History */ restore correct figure
+2009-07-26T08:52:49+00:00,304262243,302569337,0,86.147.49.107,"Bangor, County Down",/* Climate */
+2009-03-01T00:26:46+00:00,274013635,259414725,0,Darkicebot,Bangor,robot  Removing: [[br:Bangor]]
+2008-12-21T22:04:38+00:00,259414725,244544821,0,Biscuittin,Bangor,/* Ireland */ removed double redirect
+2009-04-29T07:31:44+00:00,286810117,286448964,0,155.136.80.174,Banbridge,/* People */
+2009-06-13T14:48:11+00:00,296174906,296174229,0,86.155.116.56,"Bangor, County Down","How can that be listed under 'Notiable public Figures"" , daft"
+2009-03-08T00:03:37+00:00,275701939,275700529,0,Durrus,Bantry,/* History */ the mussel industry was started by a numner of business people as far as I am aware ~~~
+2008-11-20T23:57:06+00:00,253087821,247899745,0,81.79.231.145,Belturbet,/* History */
+2009-03-23T11:35:06+00:00,279129257,270337205,0,St. Emilion,"Birr, County Offaly",/* People */ update info re Brian Whelahan
+2009-03-15T02:28:08+00:00,277316877,277316734,0,Frankie816,Belturbet,/* External links */ fixed broken link
+2009-02-13T00:30:07+00:00,270337205,270336095,0,71.201.188.134,"Birr, County Offaly",/* External links */
+2009-04-29T14:42:11+00:00,286856703,286856572,0,83.70.111.184,Blarney,/* Education */
+2009-03-02T20:56:56+00:00,274521261,274520937,0,Decltype,Blessington,Reverted edits by [[Special:Contributions/86.42.135.206|86.42.135.206]] to last version by Alexbot
+2009-07-08T17:02:55+00:00,301021497,301021345,0,Lord Pistachio,"Bray, County Wicklow",Reverted edits by [[Special:Contributions/86.43.212.141|86.43.212.141]] to last revision by 89.207.58.11 ([[WP:HG|HG]])
+2009-05-11T20:31:50+00:00,289320961,289243910,0,Linsfort,"Boyle, County Roscommon",
+2009-02-10T01:09:47+00:00,269669484,268580505,0,86.42.143.210,"Bray, County Wicklow",/* Gallery */
+2009-02-27T23:03:17+00:00,273755230,273750078,0,Mikaey,Buncrana,Reverted edits by [[Special:Contributions/86.40.202.8|86.40.202.8]] to last revision by 83.71.250.228 ([[WP:HG|HG]])
+2009-05-31T13:22:45+00:00,293509679,293428616,0,CommonsDelinker,Bundoran,"Removing ""Bundorancoat.gif"", it has been deleted from Commons by [[commons:User:Badseed|Badseed]] because: [[commons:COM:L|Copyright violation]]: , though GFDL is claimed, the image is clearly taken from http://www.civicheraldry.com/page/21816 where"
+2009-08-02T17:47:49+00:00,305665026,305664286,0,Alvaro,Cahersiveen,fix pop. in template
+2009-02-24T09:54:37+00:00,272931817,272516414,0,83.71.250.228,Buncrana,/* People */
+2009-04-01T00:06:58+00:00,280974098,280866269,0,217.44.6.201,Cahir,/* See also */
+2009-01-10T09:37:06+00:00,263148924,262311458,0,Tabletop,Cahir,Spell untill => until
+2009-03-06T12:10:27+00:00,275378061,272549171,0,Trident5000,Cahersiveen,
+2009-02-13T18:29:13+00:00,270492846,265477991,0,Rafter1916,Bunclody,/* References */
+2009-06-13T01:03:10+00:00,296084142,295897424,0,Brian Herrity,Bundoran,
+2009-01-10T22:36:20+00:00,263257652,263215285,0,Hbent,Buttevant,rm bad ref
+2008-11-18T12:53:04+00:00,252559622,248933897,0,123.211.134.41,Cappoquin,/* Commerce */
+2009-05-29T18:46:20+00:00,293144681,293128595,0,Andy Dingley,Carrickfergus,[[WP:RBK|Reverted]] edits by [[Special:Contributions/Slipknot rocks 09|Slipknot rocks 09]] ([[User talk:Slipknot rocks 09|talk]]) to last version by Lord Cornwallis
+2009-02-16T13:19:15+00:00,271110575,271110143,0,86.45.197.3,Carrick-on-Shannon,/* Sport */
+2008-12-26T12:04:10+00:00,260163806,260163046,0,Andy Dingley,Carrickfergus,re-arrange Sean Lester
+2009-03-31T19:01:43+00:00,280916588,280622106,0,Keanebill,Carlow,"/* Removed reference to Lapple, which has since closed, and duplicate rederence to Braun*/"
+2009-05-25T17:06:23+00:00,292256099,292255976,0,Lord Cornwallis,Carrickfergus,/* History */
+2009-01-20T19:08:35+00:00,265332967,265331535,0,Andy Dingley,Carrickfergus,Reverted edits by [[Special:Contributions/92.21.143.84|92.21.143.84]] ([[User talk:92.21.143.84|talk]]) to last version by Hohenloh
+2009-01-10T15:01:05+00:00,263182415,263178654,0,Lucasbfrbot,Carrick-on-Shannon,Replaced [[File:Carrick-on-Shannon port.jpg]] by its duplicate on Commons [[File:Le port Carraick-on-Shannon.jpg]]
+2009-04-01T13:51:00+00:00,281075845,280916588,0,213.190.158.121,Carlow,
+2009-04-11T03:59:14+00:00,283112888,281712229,0,Marek69,Carrickmacross,"clean up, typos fixed: represnts → represents, irish → Irish, removed Stub tag using [[Project:AutoWikiBrowser|AWB]]"
+2009-06-22T11:41:17+00:00,297897480,297890496,0,Farsight001,Carrickmacross,[[WP:UNDO|Undid]] revision 297890496 by [[Special:Contributions/86.44.205.105|86.44.205.105]] ([[User talk:86.44.205.105|talk]])
+2009-07-15T09:09:05+00:00,302194764,271138204,0,194.69.198.243,Carrigtwohill,/* Transport */
+2009-05-11T10:24:42+00:00,289228209,288547514,0,Cooperhouse,"Cashel, County Tipperary",/* People */ Cashel Rugby Club (Cashel RFC)
+2009-06-30T21:56:45+00:00,299588401,299588321,0,86.41.148.209,Carrigaline,/* Geography */
+2009-03-10T21:12:19+00:00,276363866,276252028,0,Darranc,Carrigaline,[[WP:UNDO|Undid]] revision 276252028 by [[Special:Contributions/143.239.68.47|143.239.68.47]] ([[User talk:143.239.68.47|talk]])
+2009-03-17T00:20:01+00:00,277762808,277762572,0,86.42.14.243,Castlebar,
+2009-02-11T01:06:02+00:00,269900155,269899827,0,J.delanoy,"Cashel, County Tipperary",Reverted edits by [[Special:Contributions/89.204.248.211|89.204.248.211]] to last revision by Bobo192 ([[WP:HG|HG]])
+2009-06-08T12:45:19+00:00,295162228,294848993,0,131.152.18.174,Castleblayney,
+2008-12-20T23:41:51+00:00,259249421,257896999,0,JimVC3,Castlecomer,sp unoffical > unofficial
+2009-06-20T05:04:30+00:00,297494800,297463681,0,Spleodrach,Castlebar,Reverted to revision 297181001 by [[Special:Contributions/S73v3n|S73v3n]]; rvv. ([[WP:TW|TW]])
+2009-01-12T06:51:03+00:00,263540794,261097879,0,211.30.112.250,Castletownbere,/* People */
+2009-02-16T21:42:49+00:00,271200935,271198483,0,86.40.244.151,Castleisland,/* People */
+2009-05-29T11:00:14+00:00,293071962,293071725,0,82.81.252.109,Castletownbere,/* Places of interest */
+2009-05-03T18:56:37+00:00,287690130,287450495,0,CommonsDelinker,Cavan,"Removing ""Cavantownarms.gif"", it has been deleted from Commons by [[commons:User:Kameraad Pjotr|Kameraad Pjotr]] because: [[commons:COM:L|copyright violation]] http://images.civicheraldry.com/205/cavan_town_coa_n10542.gif."
+2009-03-11T15:28:47+00:00,276526021,276525773,0,Versus22,Cavan,Reverted edits by [[Special:Contributions/87.33.4.6|87.33.4.6]] to last revision by Versus22 ([[WP:HG|HG]])
+2009-01-18T21:50:02+00:00,264948520,263449098,0,Geniac,"Clara, County Offaly",[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.86 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2009-01-01T00:05:20+00:00,261185572,261185475,0,Haggis99,"Charleville, County Cork",/* Economy */
+2009-04-21T08:28:56+00:00,285193924,285193898,0,Kingpin13,"Clara, County Offaly",Reverted unexplained removal of content ([[WP:HG|HG]])
+2009-05-22T16:37:32+00:00,291642144,291628968,0,Srushe,Claremorris,Reverted 1 edit by [[Special:Contributions/Tferg20|Tferg20]] identified as [[WP:VAND|vandalism]] to last revision by [[User:74.15.2.132|74.15.2.132]]. ([[WP:TW|TW]])
+2009-07-13T09:03:45+00:00,301829528,301829345,0,86.45.255.172,Claremorris,/* Sports */
+2008-11-25T18:51:41+00:00,254061340,242214875,0,Thorkildsen,"Clogheen, County Tipperary",
+2009-02-22T17:09:26+00:00,272526749,272525162,0,Andrewmc,"Clogheen, County Tipperary",Added coordinates
+2009-01-06T12:54:41+00:00,262295211,262294570,0,Dave.Dunford,Clondalkin,more copy-edits (inc fixing [[comma splice]])
+2009-03-25T21:56:44+00:00,279675888,279312576,0,Suckindiesel,Clondalkin,[[WP:UNDO|Undid]] revision 279312576 by [[Special:Contributions/208.59.134.101|208.59.134.101]] ([[User talk:208.59.134.101|talk]])
+2008-12-19T15:37:23+00:00,258987451,258987069,0,80.1.124.147,Clonmel,
+2009-05-19T18:56:30+00:00,291000289,283621564,0,Kwamikagami,"Clones, County Monaghan",fix IPA link using [[Project:AutoWikiBrowser|AWB]]
+2009-03-06T03:01:28+00:00,275315653,275262477,0,TastyPoutine,Clonmel,rvv
+2008-12-13T20:20:15+00:00,257757915,250677828,0,Citation bot,Cloyne,Updating page numbers after [[Template_talk:Cite_book#Ready_to_go|recent improvement]] to [[Template:Cite book]]. Added: page.
+2009-02-19T12:40:01+00:00,271815091,271814840,0,Andrewrabbott,Cloyne,
+2009-02-04T20:27:37+00:00,268540194,267531186,0,Robbot,Clonmel,robot  Adding: [[ms:Clonmel]]
+2009-01-24T22:46:12+00:00,266198722,266198566,0,86.40.239.152,Cloyne,
+2009-01-01T14:00:59+00:00,261263615,261263529,0,Palmiped,Cobh,/* References */ reflist
+2009-06-16T21:44:23+00:00,296837527,295072604,0,Marek69,Cobh,clean up using [[Project:AutoWikiBrowser|AWB]]
+2009-03-03T19:08:08+00:00,274742151,274301419,0,AndrewHowse,Cookstown,Disambiguate [[King George V]] to [[George V of the United Kingdom]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2009-05-28T18:18:14+00:00,292927458,292880268,0,Canterbury Tail,Coleraine,"rv vandalism and unencyclopaedic comment. Coleraine does have a museum, the Coleraine Regional Museum, that can be found at 66 Portstewart Road, Coleraine"
+2009-01-13T00:07:00+00:00,263699130,262688521,0,84.71.36.141,Cobh,
+2008-12-18T21:23:18+00:00,258848223,258192907,0,Qp10qp,Cobh,/* Notable residents */ add Stephen Ireland
+2009-01-06T23:54:26+00:00,262414452,261946101,0,O Fenian,Coleraine,
+2009-06-18T21:10:14+00:00,297236337,292883175,0,82.1.62.101,Cookstown,Great Northern Railway (Ireland)|
+2009-03-02T01:09:14+00:00,274301419,274301326,0,Doulos Christos,Cookstown,Reverted edits by [[Special:Contributions/87.112.31.166|87.112.31.166]] to last revision by Edwardx ([[WP:HG|HG]])
+2009-01-20T17:25:56+00:00,265314956,265313763,0,Biscuittin,Cooraclare,removed Wikify tag
+2009-03-20T14:08:21+00:00,278533220,278110308,0,Spleodrach,Cootehill,disambig Paddy Smith
+2009-01-07T15:14:55+00:00,262535491,261176569,0,Crecy99,Cootehill,clean up
+2009-03-19T14:02:10+00:00,278329088,276278159,0,Broadbot,County Armagh,robot  Adding: [[da:County Armagh]]
+2009-04-17T15:22:58+00:00,284433756,284427589,0,Canterbury Tail,County Antrim,[[WP:RBK|Reverted]] edits by [[Special:Contributions/86.43.70.214|86.43.70.214]] ([[User talk:86.43.70.214|talk]]) to last version by Flatterworld
+2008-12-19T22:18:58+00:00,259050782,257776523,0,Boothy443,County Carlow,/* External links */
+2009-04-30T02:14:10+00:00,286973307,285867785,0,83.165.41.253,County Carlow,
+2009-05-13T09:26:11+00:00,289640812,287099101,0,195.7.41.218,County Cavan,/* Towns and villages in County Cavan */
+2009-07-12T15:52:45+00:00,301708927,301097665,0,69.234.136.9,County Cavan,"Describes Co. Cavan as part of ancient Kindgom of Breifne.<ref>Bardon, J., History of Ulster, Blackstaff (1992) p.30.</ref>"
+2009-04-28T16:22:42+00:00,286670305,286670136,0,Wknight94,County Clare,[[WP:RBK|Reverted]] edits by [[Special:Contributions/Timmy90000|Timmy90000]] ([[User talk:Timmy90000|talk]]) to last version by 75.25.172.122
+2009-02-04T00:54:23+00:00,268374617,266582686,0,78.16.145.80,County Clare,/* Transport */
+2009-02-19T21:19:55+00:00,271918690,271916461,0,145.254.245.168,County Cork,/* History */ link Irish nationalism
+2008-12-17T16:08:27+00:00,258592717,256511019,0,195.189.181.150,County Cork,/* Media */ linked to irrelevant page
+2009-07-20T17:35:56+00:00,303168704,302809879,0,86.42.15.187,County Donegal,/* See also */
+2009-08-03T13:52:26+00:00,305816262,305806709,0,Canterbury Tail,County Donegal,[[WP:RBK|Reverted]] edits by [[Special:Contributions/86.46.130.184|86.46.130.184]] ([[User talk:86.46.130.184|talk]]) to last version by Auntof6
+2009-06-03T02:18:19+00:00,294080434,291610975,0,Kingstonsaint,County Down,/* Places of interest */
+2009-01-17T10:27:23+00:00,264644024,254587573,0,Mr Stephen,County Dublin,Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]]  using [[Project:AutoWikiBrowser|AWB]]
+2009-04-01T16:27:32+00:00,281101982,280674075,0,Fattonyni,County Fermanagh,/* Notable people */ Added birth date to Father Brian D'Arcy
+2009-04-13T21:55:48+00:00,283654834,283647274,0,O Fenian,County Down,Revert. Officially recognised language in Northern Ireland
+2009-03-10T23:24:16+00:00,276392240,275849881,0,AndersBot,County Fermanagh,robot  Adding: [[eu:Fermanagheko konderria]]
+2009-07-09T00:48:27+00:00,301099818,299569699,0,Irish enumerator,County Galway,historical population
+2009-04-20T12:13:43+00:00,285000126,283885712,0,Bleakcomb,County Galway,/* Climate */ nbsp
+2009-01-24T16:20:26+00:00,266132655,266045197,0,86.42.176.232,County Kerry,/* Notable residents */
+2009-02-28T02:23:52+00:00,273790644,273177437,0,Boothy443,County Kerry,/* Towns and parishes */
+2008-12-19T22:17:11+00:00,259050509,259048532,0,Boothy443,County Kildare,/* Villages */
+2009-04-06T23:37:46+00:00,282224538,282173290,0,Dneale52,County Kilkenny,/* Demographics */ fstop
+2009-03-03T13:07:22+00:00,274676250,273799718,0,157.203.43.103,County Kildare,/* History */
+2008-12-28T20:39:14+00:00,260545914,259905853,0,72.153.241.61,County Laois,/* Economy */
+2009-04-27T03:47:55+00:00,286369684,286064365,0,Good Olfactory,County Laois,Removed category [[:Category:1556 establishments|1556 establishments]]; Quick-adding category [[:Category:States and territories established in 1556|States and territories established in 1556]] (using
+2009-01-17T23:26:30+00:00,264762464,263034977,0,86.1.31.201,County Londonderry,/* Sport */
+2009-04-21T00:49:40+00:00,285137345,285136158,0,Canterbury Tail,County Londonderry,[[WP:RBK|Reverted]] edits by [[Special:Contributions/81.101.23.230|81.101.23.230]] ([[User talk:81.101.23.230|talk]]) to last version by Ben W Bell
+2009-07-16T15:28:38+00:00,302428559,301100967,0,86.45.228.53,County Leitrim,/* 2000BC */
+2008-12-10T15:52:05+00:00,257069347,256931986,0,TheLopper,County Limerick,/* History */
+2009-02-09T18:52:40+00:00,269587911,268541717,0,71.232.236.157,County Limerick,/* Governance */
+2009-04-12T20:20:26+00:00,283419548,283419381,0,Thefavouriteone,County Longford,/* Towns & villages */
+2009-06-07T16:42:19+00:00,294999913,294999537,0,SpacemanSpiff,County Louth,Reverted 1 edit by [[Special:Contributions/Rubyandpal|Rubyandpal]]; Rm unsourced negative POV. ([[WP:TW|TW]])
+2009-02-19T12:15:33+00:00,271811173,271804353,0,Boothy443,County Louth,new section
+2009-07-06T12:49:28+00:00,300587392,299596747,0,84.203.229.53,County Mayo,/* Famous People from Mayo */
+2009-04-30T02:45:24+00:00,286977430,279493914,0,83.165.41.253,County Meath,
+2009-03-13T13:22:20+00:00,276965852,276422858,0,Jetekus,County Monaghan,/* Geography */ correcting syntax
+2009-01-13T17:18:48+00:00,263840258,263155396,0,Kingturtle,County Monaghan,/* Geography */ +Finn BRidge
+2009-05-20T06:55:34+00:00,291125348,291124982,0,86.46.231.62,County Offaly,/* External links */
+2009-05-03T00:57:35+00:00,287552724,286369701,0,83.165.41.253,County Offaly,
+2009-03-07T15:47:54+00:00,275614016,270909669,0,86.0.98.113,County Roscommon,
+2009-01-09T16:01:09+00:00,262984546,262912468,0,Muro Bot,County Sligo,robot  Adding: [[simple:County Sligo]]
+2009-07-09T01:16:23+00:00,301103659,299597317,0,Irish enumerator,County Sligo,historical population
+2009-05-30T14:40:26+00:00,293319157,293318617,0,Tammybeck68,County Roscommon,/* Towns and Villages */
+2009-04-09T18:07:16+00:00,282813036,282791468,0,Canterbury Tail,County Tipperary,"rv, province should not be capitalised, and it should state what country it is in, not what island it is on."
+2009-06-25T20:05:51+00:00,298618840,298618237,0,Damicatz,County Tyrone,Reverted edits by [[Special:Contributions/GusRoyHawkins|GusRoyHawkins]] to last revision by 81.151.91.164 ([[WP:HG|HG]])
+2009-06-01T23:19:45+00:00,293828694,292626594,0,Space-Age Meat,County Westmeath,/* Economy */ [[WP:TYPO|Fixing spelling]] ninteenth --> nineteenth
+2009-02-04T20:33:38+00:00,268541315,266229696,0,Robbot,County Wicklow,robot  Adding: [[ms:County Wicklow]]
+2008-09-29T17:09:21+00:00,241807390,239976187,0,Kbdankbot,Courtown,Remove category per per [[WP:CFD|CFD]] [[Wikipedia:Categories for discussion/Log/2008 September 20|2008 September 20]]
+2009-05-31T06:58:04+00:00,293468853,281811661,0,Locobot,Courtown,[[WP:WPCHECK|Check Wikipedia]] cleanup ([[WP:WPCHECK#Link_equal_to_linktext_.28AWB.2C_AutoEd.2C_BOT.29|Fixing links equal to linktext]]) + [[WP:GENFIXES|gen. fixes]]
+2008-10-28T12:20:26+00:00,248178516,241585560,0,Jasra,Curragh Camp,/* Wartime internment */ link
+2009-05-09T19:09:22+00:00,288919116,286239347,0,81.151.192.243,Daingean,/* History */
+2009-04-08T05:21:39+00:00,282497674,282184040,0,Hohenloh,Curragh Camp,rv - Date formatting makes no sense here
+2008-12-04T11:44:42+00:00,255824745,255306736,0,Rjwilmsi,Daingean,"[[User:Rjwilmsi#Other_fixes|gen fixes]]: (1) apply [[Template:Lang]] (1),  using [[Project:AutoWikiBrowser|AWB]]"
+2009-02-05T17:20:56+00:00,268721029,260907129,0,Lightmouse,Delgany,unit/dates/other using [[Project:AutoWikiBrowser|AWB]]
+2009-04-29T19:23:46+00:00,286904963,286828684,0,Franamax,Dingle,rv 3 edits - unsourced
+2009-07-04T22:34:15+00:00,300308473,300308385,0,24.2.174.213,Dingle,[[WP:UNDO|Undid]] revision 300308385 by [[Special:Contributions/24.2.174.213|24.2.174.213]] ([[User talk:24.2.174.213|talk]])
+2009-03-12T18:46:46+00:00,276799364,270291531,0,Jocacle,Doneraile,/* additional information regarding the Presentation Convent School in Doneraile */
+2009-03-10T16:20:27+00:00,276297287,276009245,0,Simply south,Downpatrick,cat
+2009-05-04T18:28:18+00:00,287891740,287891716,0,TutterMouse,Downpatrick,Reverted edits by [[Special:Contributions/82.27.238.195|82.27.238.195]] to last revision by BrownHairedGirl ([[WP:HG|HG]])
+2009-05-27T13:05:58+00:00,292657669,292657584,0,LeaveSleaves,Downpatrick,Reverted edits by [[Special:Contributions/194.80.47.147|194.80.47.147]] to last revision by TutterMouse ([[WP:HG|HG]])
+2009-04-10T11:22:47+00:00,282956135,282956123,0,Kingpin13,Downpatrick,Reverted edits by [[Special:Contributions/81.129.77.170|81.129.77.170]] to last revision by 82.4.40.103 ([[WP:HG|HG]])
+2009-07-08T11:21:47+00:00,300971256,299927303,0,195.11.220.226,Drogheda,/* Literature */
+2009-07-02T18:02:18+00:00,299927303,298240481,0,JAnDbot,Drogheda,robot Adding: [[eu:Drogheda]]
+2009-07-10T10:50:59+00:00,301347762,301347214,0,SpaceFlight89,Drogheda,Reverted edits by [[Special:Contributions/62.77.181.1|62.77.181.1]] to last revision by 195.11.220.226 ([[WP:HG|HG]])
+2009-01-11T18:21:11+00:00,263416970,263416010,0,86.45.102.48,Drogheda,/* Underground music */
+2008-12-13T22:16:18+00:00,257778118,257777905,0,80.249.243.27,Dundalk,/* Overview */
+2009-06-07T17:45:48+00:00,295010556,292748453,0,78.137.179.1,Dundalk,
+2009-05-17T01:58:05+00:00,290425777,290425649,0,Ozdaren,Dungannon,/* Sport */ removed redundant heading
+2009-01-21T19:27:53+00:00,265539590,265533746,0,Blowdart,Dungannon,Reverted 1 edit by [[Special:Contributions/Fair victim|Fair victim]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Alansohn|Alansohn]]. ([[WP:TW|TW]])
+2009-04-22T10:07:09+00:00,285418396,285417197,0,Kiore,Dungarvan,Reverted 1 edit by [[Special:Contributions/87.42.212.2|87.42.212.2]] identified as [[WP:VAND|vandalism]] to last revision by [[User:83.70.207.57|83.70.207.57]]. ([[WP:TW|TW]])
+2008-11-14T22:29:13+00:00,251854466,251841941,0,Suckindiesel,Dungarvan,[[WP:UNDO|Undid]] revision 251841941 by [[Special:Contributions/89.101.6.71|89.101.6.71]] ([[User talk:89.101.6.71|talk]])
+2009-06-07T00:02:44+00:00,294878027,294873895,0,86.45.173.22,Dunmanway,/* Sport */
+2009-02-27T12:42:39+00:00,273643055,272124196,0,86.45.105.23,Dún Laoghaire,/* Ferry */
+2009-03-24T10:10:57+00:00,279334308,279334139,0,87.36.233.20,Dún Laoghaire,
+2009-02-02T13:55:08+00:00,268032381,260726254,0,78.137.186.207,Dún Laoghaire,/* Education */
+2009-05-25T18:19:58+00:00,292269250,292268866,0,93.107.16.253,Dunmanway,/* Employment */
+2009-07-11T02:52:55+00:00,301485483,300134048,0,78.152.227.15,Ennis,/* Culture */
+2009-01-28T01:35:55+00:00,266875046,266862960,0,Shaper252,Ennis,
+2009-07-03T22:54:00+00:00,300134048,298613643,0,86.41.198.35,Ennis,/* People */ Added Harriet Smithson
+2008-11-26T19:11:46+00:00,254277325,254276326,0,Dneale52,Enniscorthy,/* History and places of interest */ move castle image to right
+2009-05-23T21:33:24+00:00,291885327,289026272,0,Przsak,Enniscorthy,/* History and places of interest */ graphics fixed
+2009-03-10T17:31:27+00:00,276313174,274270715,0,Simply south,Enniskillen,cat
+2009-06-23T22:13:40+00:00,298215025,298214853,0,Skraz,Enniskillen,Reverted edits by [[Special:Contributions/79.65.33.22|79.65.33.22]] to last revision by JHunterJ ([[WP:HG|HG]])
+2009-03-31T12:17:11+00:00,280847515,280845174,0,Srushe,Ennistymon,Reverted 1 edit by [[Special:Contributions/87.41.210.163|87.41.210.163]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Torak|Torak]]. ([[WP:TW|TW]])
+2009-04-23T16:14:41+00:00,285674553,280847515,0,Brocshee,Ennistymon,changed translation of name
+2009-07-14T11:33:25+00:00,302028450,302028314,0,Danielmci9,Ennistymon,
+2009-01-23T15:18:38+00:00,265923555,262951488,0,193.203.157.144,Fermoy,/* External links */
+2009-04-24T14:16:15+00:00,285857683,285857520,0,87.33.64.221,Fermoy,/* History */
+2009-01-30T14:57:12+00:00,267409928,267409914,0,Darth Panda,"Ferns, County Wexford",Reverted edits by [[Special:Contributions/86.46.118.15|86.46.118.15]] to last version by ClueBot ([[WP:HG|HG]])
+2009-04-14T22:52:06+00:00,283881510,281677812,0,86.45.182.95,Fermoy,quinn healthcare a major employer announces it will be leaving fermoy
+2009-01-09T20:17:41+00:00,263036510,261553049,0,Lightbot,"Ferns, County Wexford",Units/dates/other
+2008-12-01T15:15:10+00:00,255212239,255212148,0,AdjustShift,"Fethard, County Tipperary",Reverted edits by [[Special:Contributions/87.33.44.63|87.33.44.63]] ([[User talk:87.33.44.63|talk]]) to last version by VolkovBot
+2009-04-03T18:16:56+00:00,281543697,274421861,0,ShelfSkewed,"Fethard, County Tipperary",Disambiguate [[burgess]] to [[burgess (title)]]
+2009-01-25T19:35:26+00:00,266367654,259409518,0,Fattonyni,"Freshford, County Kilkenny","Removed traveller link, went to dab page and was of no use to the article."
+2009-02-25T19:47:53+00:00,273254484,266367654,0,90.193.98.197,"Freshford, County Kilkenny",/* Uppercourt Manor */
+2009-02-16T05:30:45+00:00,271055912,271043926,0,Boothy443,Galway,[[WP:UNDO|Undid]] revision 271043926 by [[Special:Contributions/Tonyc26|Tonyc26]] ([[User talk:Tonyc26|talk]])
+2009-06-28T16:57:12+00:00,299145555,299145428,0,62.206.54.162,Galway,/* Deputies */
+2009-01-14T12:41:45+00:00,264022822,263990785,0,193.120.236.36,Galway,
+2009-01-07T11:10:52+00:00,262505066,262413269,0,86.40.236.134,Galway,/* Telecommunications */
+2008-12-06T00:02:08+00:00,256141322,256141170,0,Derekobrien,Gorey,/* Town twinning */
+2009-05-29T09:38:59+00:00,293062246,292861004,0,Velocirafter,Galway,
+2008-11-13T06:30:18+00:00,251508650,246578100,0,Rjwilmsi,Gort,"[[User:Rjwilmsi#Other_fixes|gen fixes]]: (1) fix ref format (0), fix web link format (0), apply [[Template:Lang]] (1),  using [[Project:AutoWikiBrowser|AWB]]"
+2009-02-06T22:37:28+00:00,269010672,269010541,0,Wuhwuzdat,Gort,revert before vandalism
+2009-02-10T19:16:34+00:00,269825965,267271103,0,Thehelpfulbot,Graiguenamanagh,Robot: Adding missing <references /> tag;
+2009-03-20T22:43:46+00:00,278623303,278623022,0,86.46.56.32,Granard,
+2009-05-08T20:15:43+00:00,288739045,287618538,0,AndrewHowse,Greystones,Disambig links to dab page [[George Hamilton]] and general clean-up using [[Project:AutoWikiBrowser|AWB]]
+2009-05-27T07:10:49+00:00,292615386,288739045,0,Chanheigeorge,Greystones,
+2009-07-05T11:32:09+00:00,300392705,298584818,0,Kevinherrera,Greystones,/* Marine */
+2009-01-31T06:55:54+00:00,267565663,266949142,0,83.141.97.62,Greystones,"An Bord Pleanála refused permission for the shopping centre, it's currently dead.Failed planning applications are not encyclopaedic."
+2009-02-18T17:59:05+00:00,271614295,271613937,0,SirFozzie,Granard,/* History */  Removing section per NPOV
+2009-05-21T22:51:09+00:00,291496608,284480828,0,Qaswa,Kanturk,/* External links */ + de:
+2009-03-29T14:26:55+00:00,280421596,280421378,0,Duhallow2009,Kanturk,/* External links */
+2009-03-01T23:54:31+00:00,274282382,271445977,0,Qaswa,"Kells, County Meath",/* References */ + de:
+2009-01-14T21:14:54+00:00,264117242,264117154,0,195.189.181.150,Kenmare,/* External links */
+2009-04-27T14:14:52+00:00,286443225,279794483,0,83.71.159.42,Kenmare,/* External links */
+2009-06-14T20:18:25+00:00,296411380,295338301,0,Vivalacony,Kilcock,/* Canoeing */
+2009-01-03T17:29:29+00:00,261708954,255292989,0,Lightbot,Kilkee,Units/dates/other
+2009-06-25T17:34:29+00:00,298594530,298535737,0,194.237.142.20,Kilcullen,/* Historic remains */
+2009-07-08T09:07:16+00:00,300957527,300861706,0,88.81.226.82,Kilcullen,/* Location and natural features */
+2009-02-15T23:31:04+00:00,270992286,267420844,0,89.100.5.149,Kilkee,/* Sport */
+2009-05-05T01:38:16+00:00,287968890,287937949,0,86.45.239.112,Kilcock,/* Gaelic games */
+2009-07-22T14:33:57+00:00,303538461,303538207,0,88.81.226.82,Kilcullen,/* Government and representation */
+2009-05-13T11:28:26+00:00,289651283,287220464,0,194.237.142.21,Kilcullen,/* Religion */ Parish name
+2008-12-01T22:21:35+00:00,255292989,250646836,0,Dschwen,Kilkee,
+2009-03-25T14:40:56+00:00,279589226,279556384,0,217.108.147.69,Kilkenny,/* Funny Story */
+2009-05-29T12:14:08+00:00,293081690,293004243,0,Fluffernutter,Kilkenny,[[WP:UNDO|Undid]] revision 293004243 by [[Special:Contributions/89.100.175.115|89.100.175.115]] ([[User talk:89.100.175.115|talk]])
+2009-01-26T15:17:52+00:00,266533463,266174028,0,212.2.170.14,"Kill, County Kildare",/* Music */
+2009-03-13T19:45:19+00:00,277034521,266533463,0,Phoe,"Kill, County Kildare",Disambiguate [[William Ponsonby]] to [[William Ponsonby (general)]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2008-11-20T08:32:36+00:00,252951802,243605780,0,Rjwilmsi,"Killaloe, County Clare","[[User:Rjwilmsi#Other_fixes|gen fixes]]: (1) apply [[Template:Lang]] (1),  using [[Project:AutoWikiBrowser|AWB]]"
+2009-03-19T12:16:06+00:00,278315636,278315498,0,Gonzonoir,Killarney,Reverted edits by [[Special:Contributions/87.33.81.23|87.33.81.23]] ([[User talk:87.33.81.23|talk]]) to last version by 86.41.221.141
+2009-07-07T20:11:12+00:00,300857824,299767337,0,86.41.213.142,Kilrush,/* People */
+2009-04-05T11:47:43+00:00,281880314,279930947,0,Spleodrach,Killarney,/* People */ Breeda Moynihan-Cronin
+2009-06-28T20:32:44+00:00,299178639,298958581,0,78.16.136.226,Killarney,/* People */
+2009-02-14T07:51:13+00:00,270622548,268125622,0,D6,Kinsale,fmt [[WP:GEO|coor]]
+2008-12-12T18:12:06+00:00,257535318,257535280,0,Mygerardromance,"Kill, County Kildare",Reverted edits by [[Special:Contributions/79.97.42.2|79.97.42.2]] to last version by Rhodes416 ([[WP:HG|HG]])
+2009-03-10T10:49:56+00:00,276242748,274034285,0,86.41.249.40,Kilrush,Every online reference I have checked states that John Ireland was born in Canada. To assert that he was born in Kilrush we would need at least one reference.
+2009-03-29T19:01:02+00:00,280472003,264239400,0,79.140.212.87,Lahinch,
+2009-05-01T15:26:48+00:00,287263646,285690163,0,167.127.24.34,Larne,Added link for cricket club
+2008-11-03T12:59:07+00:00,249394115,243594996,0,212.17.54.201,Laytown,
+2008-11-18T12:30:06+00:00,252557075,252556804,0,Phoenixdreaming,Leighlinbridge,/* Leighlinbridge Meteorite */
+2008-09-26T08:48:02+00:00,241087540,200129806,0,Rjwilmsi,Legoniel,[[User:Rjwilmsi#Other_fixes|gen fixes]] + apply [[Template:Lang]]  using [[Project:AutoWikiBrowser|AWB]]
+2009-02-05T16:13:16+00:00,268708530,268708454,0,Thingg,Letterkenny,Reverted edits by [[Special:Contributions/193.1.82.200|193.1.82.200]] to last revision by Balloholic ([[WP:HG|HG]])
+2009-02-04T22:19:40+00:00,268564475,268563695,0,Balloholic,Letterkenny,/* Industry */
+2009-05-13T12:22:35+00:00,289657085,289220642,0,Canterbury Tail,Letterkenny,County town is not a proper noun and is not capitalised.
+2009-02-11T02:07:12+00:00,269910592,269651913,0,O Fenian,Limavady,/* People */
+2009-06-25T15:56:52+00:00,298579305,298519207,0,General Kebab,Lisburn,/* Name */
+2009-06-16T17:22:26+00:00,296791162,294961783,0,86.136.45.148,Lisburn,
+2009-01-13T18:40:54+00:00,263857443,261760570,0,Broadbot,Lisburn,robot  Adding: [[:da:Lisburn]]
+2008-12-20T15:36:17+00:00,259175521,259150860,0,M-le-mot-dit,Lisdoonvarna,population (2006)
+2009-01-02T21:37:59+00:00,261528645,243606851,0,Lightbot,"Lismore, County Waterford",Units/dates/other
+2009-05-08T18:18:25+00:00,288718969,284540877,0,DK4,Listowel,[[pl:Listowel]]
+2008-12-13T23:54:08+00:00,257794710,256661486,0,718 Bot,Listowel,Replacing Listowel Crest.gif with PNG version
+2009-05-30T13:49:18+00:00,293310803,293309255,0,149.254.51.95,Longford,/* Transport */
+2009-03-11T18:22:56+00:00,276561100,274893322,0,Aineolach,Longford,changed linke from Ireland to Republic of Ireland
+2009-06-09T01:04:22+00:00,295286712,295286645,0,AJseagull1,Listowel,/* Related communities */ abc order
+2009-03-04T10:27:29+00:00,274893322,272744475,0,The Anome,Longford,reduce excessive precision
+2009-04-15T11:12:28+00:00,283975126,283972125,0,220.239.198.68,Longford,
+2009-04-18T12:55:50+00:00,284607901,284607786,0,86.46.231.104,Loughrea,/* Notable people */
+2009-04-07T21:11:23+00:00,282421632,278808792,0,Hohenloh,"Lucan, Dublin",History
+2009-05-22T23:23:51+00:00,291714203,291600969,0,Hohenloh,"Lucan, Dublin",rv spam
+2009-05-04T23:04:09+00:00,287943372,287731643,0,Eamonnca1,Lurgan,/* Transport */
+2009-01-03T10:46:42+00:00,261651531,261536478,0,The Duke of Waltham,Lurgan,Removed semi-protection template – one-month semi-protection has expired
+2009-07-08T21:27:17+00:00,301068226,301037080,0,83.71.81.16,Macroom,
+2009-03-12T15:46:08+00:00,276764757,275990650,0,86.45.144.127,Macroom,
+2009-01-22T14:10:49+00:00,265702372,264859047,0,86.42.196.1,Macroom,/* History */ 1922 deaths
+2009-01-18T12:51:25+00:00,264859047,264858710,0,Ceoil,Macroom,/* Transport */ add img
+2009-04-19T02:06:28+00:00,284729765,283977434,0,93.96.151.76,Malahide,[[WP:UNDO|Undid]] revision 283948519 by [[Special:Contributions/SeoR|SeoR]] ([[User talk:SeoR|talk]])
+2009-02-04T23:31:38+00:00,268578449,267531959,0,Robbot,"Mallow, County Cork",robot  Adding: [[ms:Mallow]]
+2009-04-22T10:08:34+00:00,285418513,285416901,0,Kiore,Midleton,Reverted 1 edit by [[Special:Contributions/87.42.212.2|87.42.212.2]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Rjwilmsi|Rjwilmsi]]. ([[WP:TW|TW]])
+2009-06-22T21:57:23+00:00,298002023,297933710,0,Neckstudy,Millstreet,/* External links */
+2009-04-21T18:51:50+00:00,285287310,278819134,0,Norms,Millstreet,/* External links */
+2008-12-29T21:10:34+00:00,260742651,256821995,0,Cureden,Millstreet,more info; now to go ref hunting. ;)
+2009-03-21T22:07:40+00:00,278819134,275628390,0,Vegaswikian,Millstreet,"MoS cleanup, past a stub"
+2008-12-09T22:23:34+00:00,256922190,256613267,0,Exiledone,Milltown Malbay,/* Transport */
+2009-03-23T14:41:13+00:00,279155805,279154909,0,164.44.67.4,Milltown Malbay,/* People */
+2009-06-14T11:11:53+00:00,296333850,296260613,0,Liamciosog,Mitchelstown,/* People */
+2009-06-15T10:12:53+00:00,296514799,296444304,0,Liamciosog,Mitchelstown,/* People */
+2009-06-17T12:35:24+00:00,296946733,296915631,0,2008already,Moate,No reference for this individual.
+2009-02-13T16:26:00+00:00,270467659,267422330,0,Hammersfan,Moate,/* Transport */
+2009-01-27T10:20:13+00:00,266721905,266645637,0,Chanakal,Monaghan,rm comment
+2009-01-02T22:56:41+00:00,261545159,257747721,0,Lightbot,Moone,Units/dates/other
+2008-12-13T19:23:17+00:00,257747721,249819365,0,JBellis,Moone,
+2008-12-08T10:51:49+00:00,256599569,250853368,0,194.129.67.165,Mountmellick,/* History */  Minor typo
+2009-05-14T21:43:57+00:00,289968393,289968257,0,LittleOldMe,Mullingar,Revert to revision 289686725 dated 2009-05-13 15:55:32 by AdjustShift using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2009-07-22T02:58:53+00:00,303461332,302879785,0,Symplectic Map,Mullingar,[[User:Symplectic_Map/AutoSpell|Script-assisted]] correction of [[WP:LCM|misspellings]]
+2009-05-15T18:28:12+00:00,290140292,290060320,0,86.46.164.82,Navan,
+2009-05-06T15:03:22+00:00,288278869,287781681,0,J04n,Mullingar,Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2009-01-04T00:46:22+00:00,261793067,261552953,0,86.47.21.87,Mullingar,/* Music */
+2009-05-01T14:43:45+00:00,287256290,287256046,0,J.delanoy,Navan,(null edit) 87.42.89.0/24 blocked two weeks
+2009-04-23T19:11:00+00:00,285705218,285685982,0,Kaswest,Nenagh,Removed defamatory statement.
+2009-06-13T01:24:32+00:00,296086872,295177705,0,DrilBot,Nenagh,[[WP:CHECKWIKI|Check Wikipedia]] cleanup ([[User:DrilBot/Summaries#Self|selflinks]]) + [[WP:GENFIXES|gen. fixes]]
+2009-01-02T23:29:25+00:00,261551673,258668359,0,Lightbot,New Ross,Units/dates/other
+2009-06-06T21:58:10+00:00,294860057,294860027,0,Amaury,New Ross,Reverted edits by [[Special:Contributions/88.151.27.229|88.151.27.229]] to last revision by Ezhiki ([[WP:HG|HG]])
+2009-05-23T22:34:11+00:00,291895767,290765874,0,Zigzig20s,Newcastle West,/* Business and commerce */
+2009-05-05T18:13:48+00:00,288098061,284029133,0,Gaius Cornelius,Newcastle West,Apply convert template and tidy using [[Project:AutoWikiBrowser|AWB]]
+2009-06-21T16:52:48+00:00,297753530,297753498,0,194.237.142.21,"Newcastle, Dublin",/* History */
+2009-02-22T12:26:48+00:00,272483261,249515442,0,The Anomebot2,"Newcastle, Dublin",Adding geodata: {{coord missing|Ireland}}
+2009-02-09T17:14:41+00:00,269568144,269109728,0,95.42.217.171,Newry,+bg
+2009-05-30T03:25:05+00:00,293232255,285568001,0,Marek69,Newtownabbey,/* 2001 Census */clean up using [[Project:AutoWikiBrowser|AWB]]
+2009-03-06T05:17:09+00:00,275335315,272911869,0,Marbhna,Omagh,/* Divisions and suburbs */
+2008-12-04T18:14:43+00:00,255879285,240444330,0,86.41.94.95,Passage West,/* External links */ Added external sports link
+2009-02-06T12:41:15+00:00,268905392,268905309,0,Blowdart,Omagh,/* People */ Rm redlinks
+2009-04-27T10:16:03+00:00,286411559,285651126,0,Discoh8er,Omagh,[[WP:UNDO|Undid]] revision 285651126 by [[Special:Contributions/Jeanne boleyn|Jeanne boleyn]] ([[User talk:Jeanne boleyn|talk]])
+2009-05-22T00:06:10+00:00,291509369,291509001,0,J.delanoy,Portadown,Reverted edits by [[Special:Contributions/92.10.190.34|92.10.190.34]] to last revision by 80.42.166.247 ([[WP:HG|HG]])
+2009-05-20T22:38:07+00:00,291276623,289701169,0,JonHarder,"Portarlington, County Laois",rv a handful of unreferenced and improper edits.
+2009-03-23T10:27:03+00:00,279121429,279120930,0,86.43.180.123,"Portarlington, County Laois",
+2009-04-26T20:56:32+00:00,286298837,286298753,0,86.47.32.197,Portlaoise,/* Sport */
+2008-12-19T15:58:18+00:00,258990409,248667212,0,Mahagaja,Portlaw,"add location map, other cleanup"
+2009-02-12T19:11:37+00:00,270275122,266946762,0,78.16.225.66,Portmarnock,
+2009-02-20T13:21:56+00:00,272065999,272065882,0,78.16.213.33,Portrane,
+2008-12-21T23:16:54+00:00,259426427,259426332,0,76.68.11.18,"Prosperous, County Kildare",/* Things to do */
+2009-02-14T20:20:40+00:00,270725873,264306663,0,95.42.217.171,Portrush,+bg
+2008-12-20T19:25:55+00:00,259209852,258664257,0,Auric,Portrush,/* Events */ fix cite
+2009-05-05T10:56:35+00:00,288028749,285205585,0,86.44.142.201,"Prosperous, County Kildare",/* Things to do */
+2009-03-05T23:50:27+00:00,275282519,275282021,0,86.42.243.221,"Prosperous, County Kildare",/* Things to do */
+2009-03-01T18:02:44+00:00,274192171,274168210,0,CTC,"Rathangan, County Kildare",Reverted 1 edit by [[Special:Contributions/93.107.72.182|93.107.72.182]]. ([[WP:TW|TW]])
+2009-05-06T01:48:18+00:00,288182710,284580355,0,Saebhiar,"Rathcoole, Dublin",/* External links */ +temp
+2009-02-02T23:18:55+00:00,268135232,265994911,0,78.16.218.12,"Rathcoole, Dublin",
+2009-03-25T13:52:42+00:00,279581156,279581034,0,Teskey@btinternet.com,Rathkeale,/* History */
+2009-04-29T06:38:02+00:00,286805115,286804775,0,Hazir,Roscommon,restore content
+2009-05-22T06:49:23+00:00,291566556,284596000,0,Mattinbgn,"Robertstown, County Kildare",hatnote
+2009-02-28T01:21:10+00:00,273780367,273776868,0,THEN WHO WAS PHONE?,Roscrea,[[WP:UNDO|Undid]] revision 273776868 by [[Special:Contributions/86.43.68.170|86.43.68.170]] ([[User talk:86.43.68.170|talk]]) rvv
+2009-03-18T21:40:57+00:00,278199975,273780367,0,78.16.197.223,Roscrea,/* Commerce */
+2009-01-17T05:41:30+00:00,264617084,264615722,0,Przsak,Roscrea,PL version added
+2009-03-07T03:08:02+00:00,275531107,271481048,0,86.42.78.70,"Rush, Dublin",/* The Good Old Days Exhibition */
+2009-01-09T00:57:03+00:00,262872077,262871776,0,JNW,"Shannon, County Clare",Reverted edits by [[Special:Contributions/Fragilerockers|Fragilerockers]] ([[User talk:Fragilerockers|talk]]) to last version by Sarah777
+2009-03-13T00:06:18+00:00,276866612,276778179,0,143.239.7.1,Skibbereen,/* People */
+2009-01-12T23:49:17+00:00,263695553,263695224,0,84.71.36.141,Sligo,/* Development */
+2009-01-07T10:58:25+00:00,262503796,262503689,0,Camw,Sligo,Reverted edits by [[Special:Contributions/87.38.107.120|87.38.107.120]] to last version by SoxBot III ([[WP:HG|HG]])
+2009-04-23T18:28:57+00:00,285697888,285697851,0,Excirial,Strabane,Reverted edits by [[Special:Contributions/82.4.27.204|82.4.27.204]] to last revision by R'n'B ([[WP:HG|HG]])
+2009-06-24T21:35:41+00:00,298441165,297831032,0,Ardfern,Strabane,/* Transport */ info added
+2008-12-17T13:57:21+00:00,258574337,258574259,0,84.51.224.98,Saggart,
+2009-01-16T18:54:01+00:00,264512598,264492937,0,TheJoker098,Strabane,
+2009-03-09T15:45:19+00:00,276051691,270767937,0,Richarv2,"Swords, Dublin","Hi there, i have again removed a section from the 'Housing' paragraph concerning the co-existence of local authority and privately owned housing estates."
+2009-06-23T21:19:07+00:00,298205148,298083756,0,86.45.12.161,Tallaght,
+2009-02-18T21:05:33+00:00,271656674,271656657,0,Eric-Wester,Tallaght,Reverted edits by [[Special:Contributions/83.147.179.206|83.147.179.206]] to last revision by ClueBot ([[WP:HG|HG]])
+2009-06-06T16:08:41+00:00,294800979,294501722,0,Charles Matthews,Tallaght,/* External sources */ lk
+2009-01-29T13:21:42+00:00,267183559,267182784,0,GeneralBelly,Templemore,/* Sport */ added fishing subsection and moved text down
+2009-03-27T18:56:01+00:00,280059413,279266219,0,Kbdank71,Templemore,"[[WP:AWB/T|Typo fixing]], typos fixed: occurence → occurrence, removed Stub tag using [[Project:AutoWikiBrowser|AWB]]"
+2009-02-14T07:51:24+00:00,270622567,259199663,0,D6,"Thomastown, County Kilkenny",fmt [[WP:GEO|coor]]
+2009-01-26T21:52:54+00:00,266614891,266492834,0,GrouchoBot,Thurles,robot  Adding: [[cs:Thurles]]
+2009-07-09T10:26:04+00:00,301165025,301164979,0,Gramscis cousin,Thurles,/* Origin of Thurles/Early History */
+2009-02-21T05:42:56+00:00,272213403,272158648,0,193.120.116.185,Thurles,/* Geography */
+2009-06-08T08:35:54+00:00,295136722,295136577,0,PBS,Tipperary (town),rv to last version by Sarah777. Unsubstanciated POV with no citations to back it up see [[WP:PROVEIT]]
+2009-06-30T21:56:53+00:00,299588430,293120036,0,74.225.235.160,Thurles,/* Origin of Thurles/Early History */
+2009-03-13T20:52:17+00:00,277046480,277043906,0,EdBever,Tralee,Reverted edits by [[Special:Contributions/Thebarrowbandit|Thebarrowbandit]] to last revision by VolkovBot ([[WP:HG|HG]])
+2008-12-01T21:57:40+00:00,255287947,247897587,0,Dschwen,Tramore,
+2009-07-10T08:02:36+00:00,301333496,301333422,0,Colin Ryan,"Trim, County Meath",/* Places of interest */
+2009-02-07T16:57:29+00:00,269152247,268320240,0,86.159.132.109,"Trim, County Meath",
+2009-01-03T11:33:58+00:00,261656607,261564026,0,76.90.139.163,"Trim, County Meath",corrected Irish-Gaelic meaning of town name
+2009-04-11T06:40:42+00:00,283130895,282554494,0,Marek69,Tuam,"clean up, typos fixed: Competetions → Competitions, estabilished → established, from it's → from its (3) using [[Project:AutoWikiBrowser|AWB]]"
+2009-01-31T22:50:31+00:00,267714865,267460719,0,Doug Weller,Tuam,Reverted edits by [[Special:Contributions/Poshpaddy|Poshpaddy]] ([[User talk:Poshpaddy|talk]]) to last version by ClintMalpaso
+2009-05-12T19:21:26+00:00,289526013,289525975,0,Jojhutton,Tuam,Reverted edits by [[Special:Contributions/195.7.34.249|195.7.34.249]] to last revision by Jarry1250 ([[WP:HG|HG]])
+2009-07-16T14:06:25+00:00,302417703,300230593,0,57.66.69.196,Tullamore,
+2008-11-27T13:35:35+00:00,254418852,254418562,0,86.43.186.191,Tullamore,/* Charleville Forest Castle */
+2009-05-08T10:57:03+00:00,288652136,288652102,0,OverlordQ,"Westport, County Mayo",Reverted edits by [[Special:Contributions/Massey ferguson 390|Massey ferguson 390]] to last revision by AFBorchert ([[WP:HG|HG]])
+2009-05-04T19:20:48+00:00,287901525,287899965,0,Morganel,Wexford,/* Trivia */
+2009-04-16T14:26:12+00:00,284214956,280365429,0,EchetusXe,Wicklow,/* History */
+2009-01-13T12:33:52+00:00,263793132,263783659,0,CTC,Wicklow,Reverted 1 edit by [[Special:Contributions/87.36.56.130|87.36.56.130]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Lightbot|Lightbot]]. ([[WP:TW|TW]])
+2009-05-21T19:31:55+00:00,291458850,286439858,0,Rich Farmbrough,Wicklow,"clean up- spelling ""et al."" and gen fixes using [[Project:AutoWikiBrowser|AWB]]"
+2009-02-05T08:44:30+00:00,268654420,268215205,0,Robbot,Youghal,robot  Adding: [[ms:Youghal]]
+2009-06-29T15:33:56+00:00,299325786,299323746,0,Priyanath,Youghal,[[WP:RBK|Reverted]] edits by [[Special:Contributions/83.220.193.16|83.220.193.16]] ([[User talk:83.220.193.16|talk]]) to last version by Nelson50

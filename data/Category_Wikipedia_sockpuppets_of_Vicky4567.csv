@@ -1,0 +1,435 @@
+timestamp,revid,parentid,sock,user,page,message
+2014-11-06T10:00:22+00:00,632674287,632579528,1,Vicky4567,Pipe (fluid conveyance),
+2014-11-06T09:58:26+00:00,632674134,624421918,1,Vicky4567,Drill pipe,
+2013-07-02T15:00:34+00:00,562554357,560322600,1,Vicky4567,Technician,
+2013-07-02T14:59:34+00:00,562554227,562553511,1,Vicky4567,Rope access,
+2013-07-02T14:54:16+00:00,562553511,561033719,1,Vicky4567,Rope access,
+2014-11-28T12:18:46+00:00,635764111,632595129,1,Adam4567,Machine (mechanical),
+2013-08-07T14:48:56+00:00,567546473,567546358,1,Adam4567,Road traffic safety,
+2013-08-07T14:47:51+00:00,567546358,567546278,1,Adam4567,Road traffic safety,
+2013-08-07T14:47:01+00:00,567546278,566500770,1,Adam4567,Road traffic safety,
+2014-11-28T12:49:54+00:00,635766208,632689458,1,Ana2456,Storage tank,
+2013-08-07T14:10:07+00:00,567542322,567541833,1,Ana2456,Rail transport,
+2013-08-07T14:05:17+00:00,567541833,567346469,1,Ana2456,Rail transport,
+2014-11-06T12:30:53+00:00,632684954,627925748,1,Ana346894,Quality control,
+2014-11-06T12:27:25+00:00,632684689,614562873,1,Ana346894,Visual inspection,
+2013-11-25T16:00:55+00:00,583247446,582438973,1,Ana346894,Interest,
+2013-11-25T15:58:12+00:00,583247104,583247042,1,Ana346894,Investment,
+2013-11-25T15:57:29+00:00,583247042,583246954,1,Ana346894,Investment,
+2013-11-25T15:56:49+00:00,583246954,582844421,1,Ana346894,Investment,
+2014-10-29T10:33:54+00:00,631594441,580124811,1,Ana9876789,Integrity Management Plan,
+2014-10-29T10:29:08+00:00,631594115,624887828,1,Ana9876789,Asset integrity management systems,
+2014-02-27T18:46:57+00:00,597407886,593630252,1,Ana9876789,Risk assessment,
+2014-11-28T12:01:28+00:00,635762939,632730153,1,Anna457,Expediting,
+2013-08-15T13:37:56+00:00,568655273,553417604,1,Anna457,Design review,
+2013-08-15T13:34:55+00:00,568654943,568654873,1,Anna457,Metallurgical failure analysis,
+2013-08-15T13:34:11+00:00,568654873,532827541,1,Anna457,Metallurgical failure analysis,
+2014-11-06T11:38:20+00:00,632681178,613092895,1,Anna8325,Observational study,
+2014-11-06T11:36:49+00:00,632681056,632673414,1,Anna8325,Inspection,
+2013-07-02T15:22:25+00:00,562557068,562520851,1,Anna8325,Composite material,
+2013-07-02T15:16:07+00:00,562556271,562556139,1,Anna8325,Pressure vessel,
+2013-07-02T15:14:59+00:00,562556139,559816176,1,Anna8325,Pressure vessel,
+2014-11-28T14:00:43+00:00,635770832,632689515,1,Anna34987,Vendor,
+2013-11-25T17:00:17+00:00,583254650,583254439,1,Anna34987,Due diligence,
+2013-11-25T16:58:40+00:00,583254439,578380631,1,Anna34987,Due diligence,
+2014-11-04T10:01:53+00:00,632399724,622067971,1,Anna987654,Chemical plant,
+2014-11-04T09:58:22+00:00,632399520,628063313,1,Anna987654,Factory,
+2013-12-20T14:42:21+00:00,586954678,586431513,1,Anna987654,Organic matter,
+2013-12-20T14:41:33+00:00,586954576,586954199,1,Anna987654,List of materials-testing resources,
+2013-12-20T14:38:57+00:00,586954199,586473365,1,Anna987654,List of materials-testing resources,
+2014-11-28T14:06:06+00:00,635771232,632689355,1,Caroline347658,Visual inspection,
+2013-11-25T16:49:36+00:00,583253253,583253077,1,Caroline347658,Inspection,
+2013-11-25T16:48:29+00:00,583253077,575576607,1,Caroline347658,Inspection,
+2014-11-28T11:34:56+00:00,635761234,635519136,1,Gregor4678,Concrete,
+2013-08-15T14:30:35+00:00,568660969,568520823,1,Gregor4678,Solar cell,
+2013-08-15T14:24:59+00:00,568660364,568660214,1,Gregor4678,Photovoltaic power station,
+2013-08-15T14:23:41+00:00,568660214,568657326,1,Gregor4678,Photovoltaic power station,
+2014-10-29T12:11:17+00:00,631601732,631601535,1,Maximilian45687,Construction management,
+2014-10-29T12:09:03+00:00,631601535,630863881,1,Maximilian45687,Construction management,
+2014-02-27T19:57:07+00:00,597417445,597417087,1,Maximilian45687,Lightning rod,
+2014-02-27T19:54:51+00:00,597417087,594922534,1,Maximilian45687,Lightning rod,
+2014-11-28T11:46:55+00:00,635761971,631702819,1,Peter4956,Warranty,
+2013-08-15T14:01:38+00:00,568657768,568584164,1,Peter4956,Photovoltaic system,
+2013-08-15T13:57:31+00:00,568657326,568377019,1,Peter4956,Photovoltaic power station,
+2014-11-28T12:27:43+00:00,635764800,632730274,1,Peter6678,Nondestructive testing,
+2013-08-07T14:28:53+00:00,567544234,567544037,1,Peter6678,Rail transport,
+2013-08-07T14:27:08+00:00,567544037,567543346,1,Peter6678,Rail transport,
+2014-11-06T12:09:28+00:00,632683431,624788288,1,Peter8956,Supply chain,
+2014-11-06T12:08:19+00:00,632683362,623928015,1,Peter8956,Vendor,
+2014-11-06T11:58:48+00:00,632682637,629751545,1,Peter8956,Hydraulics,
+2014-11-06T11:55:48+00:00,632682420,617082930,1,Peter8956,Storage tank,
+2013-07-02T15:50:25+00:00,562560710,562560237,1,Peter8956,Storage tank,
+2013-07-02T15:46:56+00:00,562560237,558904794,1,Peter8956,Storage tank,
+2013-07-02T15:36:16+00:00,562558882,561973381,1,Peter8956,Quality assurance,
+2014-11-06T09:49:42+00:00,632673478,631258364,1,Peter56788,International trade,
+2014-11-06T09:48:51+00:00,632673414,630506841,1,Peter56788,Inspection,
+2014-11-06T09:46:04+00:00,632673218,626110205,1,Peter56788,Pre-shipment inspection,
+2013-10-03T14:42:01+00:00,575586136,566368105,1,Peter56788,Electrolyte,
+2013-10-03T14:40:18+00:00,575585913,575392833,1,Peter56788,Corrosion,
+2014-10-29T10:59:59+00:00,631596274,631596145,1,Thomas467896,Commissioning management systems,
+2014-10-29T10:57:52+00:00,631596145,631596080,1,Thomas467896,Commissioning management systems,
+2014-10-29T10:57:05+00:00,631596080,614765594,1,Thomas467896,Commissioning management systems,
+2014-02-27T19:13:11+00:00,597411528,597410993,1,Thomas467896,Wind turbine,
+2014-02-27T19:09:06+00:00,597410993,597369631,1,Thomas467896,Wind turbine,
+2014-10-29T11:45:24+00:00,631599672,631599489,1,Tino65789,Construction aggregate,
+2014-10-29T11:43:17+00:00,631599489,621799287,1,Tino65789,Construction aggregate,
+2014-02-27T19:30:46+00:00,597413866,595106037,1,Tino65789,Ultrasonic testing,
+2014-02-27T19:27:30+00:00,597413413,595708382,1,Tino65789,Nondestructive testing,
+2014-11-04T10:28:08+00:00,632401618,627820662,1,Tom356798,Electricity generation,
+2014-11-04T10:26:02+00:00,632401448,630695820,1,Tom356798,Photovoltaics,
+2013-12-20T14:56:35+00:00,586956632,585280269,1,Tom356798,Quality assurance,
+2013-12-20T14:54:15+00:00,586956342,586956282,1,Tom356798,Physical test,
+2013-12-20T14:53:49+00:00,586956282,583997595,1,Tom356798,Physical test,
+2014-11-06T09:14:27+00:00,632671085,630802636,1,Tom456789,Quality assurance,
+2014-11-06T09:11:06+00:00,632670881,629957472,1,Tom456789,List of measuring instruments,
+2013-10-03T13:43:29+00:00,575578624,574325722,1,Tom456789,Ultrasonic testing,
+2013-10-03T13:41:11+00:00,575578374,575576273,1,Tom456789,Nondestructive testing,
+2014-11-03T14:28:35+00:00,632282202,631817638,1,Tom4567896,Wind,
+2014-11-03T14:22:28+00:00,632281589,631777660,1,Tom4567896,Wind turbine,
+2013-11-07T17:52:59+00:00,580631583,580015372,1,Tom4567896,Transport,
+2013-11-07T17:49:10+00:00,580631072,580630632,1,Tom4567896,Elevator,
+2013-11-07T17:46:08+00:00,580630632,579563915,1,Tom4567896,Elevator,
+2014-11-06T09:40:12+00:00,632672808,624193575,1,Vicky8769,Polymer science,
+2014-11-06T09:36:35+00:00,632672574,584677187,1,Vicky8769,Polymer characterization,
+2013-10-03T14:24:55+00:00,575583572,573563674,1,Vicky8769,Alloy,
+2013-10-03T14:21:15+00:00,575583095,574619958,1,Vicky8769,Magnetic particle inspection,
+2014-11-05T19:43:37+00:00,632595616,632595531,1,Wiki3457,Nondestructive testing,
+2014-11-05T19:42:50+00:00,632595531,632389910,1,Wiki3457,Nondestructive testing,
+2014-11-03T15:14:10+00:00,632287124,631756430,1,Wiki3457,Project management,
+2014-11-03T15:10:34+00:00,632286775,623158816,1,Wiki3457,Expediting,
+2013-11-07T18:44:52+00:00,580637833,580291140,1,Wiki3457,Chemical substance,
+2012-08-04T12:28:16+00:00,505732780,505397683,0,Eumolpo,Asset integrity management systems,orthographic
+2013-08-18T13:42:39+00:00,569080701,569079304,0,Reatlas,Alloy,"Removing excess images (to the point of disrupting flow), reshuffling some sections to try and restore such. Alphabetizing see also, moving sister links to external links."
+2013-12-15T14:08:55+00:00,586188419,586184585,0,MelbourneStar,Chemical substance,Reverted edits by [[Special:Contributions/46.230.81.202|46.230.81.202]] ([[User talk:46.230.81.202|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])
+2014-06-28T15:00:49+00:00,614765594,596653003,0,Rjwilmsi,Commissioning management systems,"clean up, [[WP:AWB/T|typo(s) fixed]]: is entirely dependant on → is entirely dependent on using [[Project:AWB|AWB]] (10270)"
+2014-05-07T01:33:43+00:00,607418271,605790686,0,Monkbot,Construction aggregate,/* Modern production */Task 3: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]
+2014-02-22T17:03:37+00:00,596653003,567706803,0,Bhny,Commissioning management systems,/* top */
+2014-07-09T17:06:37+00:00,616249166,613775458,0,Vegaswikian,Chemical substance,Unlinked: [[Pure]]
+2014-05-02T12:29:54+00:00,606761666,606633459,0,H Padleckas,Chemical plant,clarification in intro
+2013-08-08T17:38:39+00:00,567706803,567669298,0,Dawnseeker2000,Commissioning management systems,Negative
+2014-08-20T15:16:00+00:00,622067971,606761666,0,NE2,Chemical plant,"Disambiguate [[West Norfolk]] to [[West Norfolk, Virginia]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]"
+2014-07-12T18:11:05+00:00,616680334,613081233,0,PBS-AWB,Alloy,"/* External links */modification to Cite NIE and some other similar templates, replaced: {{Cite EB1911| → {{Cite EB1911|wstitle= (2), External links==\n{{Wiktionary|alloy}}\n{{Commons category|Alloys}}\n*{{Cite EB1911|wstitl using [[Project:AWB|AWB]]"
+2014-02-04T06:27:27+00:00,593849532,590914934,0,Monkbot,Construction aggregate,/* Modern production */Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2013-07-25T18:12:02+00:00,565785144,565784059,0,Dawnseeker2000,Commissioning management systems,[[WP:NOT]]
+2014-02-03T08:25:32+00:00,593701266,593700912,0,Cguil uk,Composite material,Cob_(material) added
+2014-07-16T16:25:24+00:00,617197849,617191480,0,PauloMSimoes,Composite material,Undid revision 617191480 by [[Special:Contributions/141.241.219.33|141.241.219.33]] ([[User talk:141.241.219.33|talk]]): Possible test
+2014-02-26T19:24:14+00:00,597264567,597264551,0,ClueBot NG,Concrete,"Reverting possible vandalism by [[Special:Contributions/216.226.39.182|216.226.39.182]] to version by 80.254.147.156. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1720121) (Bot)"
+2013-09-18T21:37:42+00:00,573558798,573270495,0,213.66.81.80,Concrete,/* See also */ added Energetically Modified Cement
+2014-01-24T13:26:07+00:00,592170806,592170800,0,ClueBot NG,Corrosion,"Reverting possible vandalism by [[Special:Contributions/Shub.spp|Shub.spp]] to version by Materialscientist. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1667439) (Bot)"
+2013-07-06T11:49:19+00:00,563097884,562543124,0,82.72.157.223,Corrosion,/* External links */
+2014-08-18T17:45:19+00:00,621799287,615874028,0,74.214.148.128,Construction aggregate,/* Recycled materials for aggregates */
+2014-01-26T19:07:59+00:00,592515069,580864655,0,DexDor,Drill pipe,/* References */ more specific cat
+2014-06-21T20:32:20+00:00,613850091,612678127,0,Nitin.date,Construction management,"The article did not include construction management or capital project management software, which is an essential component of construction management practice."
+2014-01-04T12:36:17+00:00,589131774,588857072,0,175.101.67.97,Electricity generation,/* Methods of generating electricity */
+2013-08-19T06:32:24+00:00,569181969,568915122,0,Sekicho,Due diligence,/* Business transactions and corporate finance */
+2014-06-04T02:40:16+00:00,611467831,610830625,0,50.131.61.254,Due diligence,Removing what was clearly advertising.
+2014-09-06T03:07:43+00:00,624369801,624288333,0,T3dkjn89q00vl02Cxp1kqs3x7,Construction management,"not a minor edit, no rationale stated for adding this"
+2013-10-29T16:19:12+00:00,579301787,579274516,0,Wsiegmund,Construction aggregate,Undid revision 579274516 by [[Special:Contributions/69.70.119.90|69.70.119.90]] ([[User talk:69.70.119.90|talk]])
+2013-11-30T03:58:19+00:00,583866965,582603450,0,119.224.100.182,Electrolyte,A electrolyte changes to An electrolyte
+2013-12-26T22:03:01+00:00,587809843,587514052,0,66.165.29.99,Electricity generation,/* Turbines */
+2014-04-02T14:41:45+00:00,602423870,601312755,0,65.222.202.204,Electrolyte,/* Rehydration */
+2013-09-17T13:46:41+00:00,573323291,570563450,0,Jefflayman,Construction management,link to Infrastructure
+2014-04-09T09:26:55+00:00,603423919,603274682,0,Jackson323barnes,Due diligence,"/* Criminal law */ Provided a more important aspect of criminal ""due diligence"""
+2014-07-08T04:14:56+00:00,616040556,616036550,0,Solarra,Elevator,Reverted edits by [[Special:Contributions/101.53.5.170|101.53.5.170]] ([[User talk:101.53.5.170|talk]]): violates [[WP:EL|external links]] policy ([[WP:HG|HG]])
+2013-11-12T20:54:38+00:00,581384645,581339504,0,Rwessel,Elevator,"rv edits by 50.200.173.94 - same reason as before - AFAIK, in geared elevators, the sheave is ~always driven by a worm gear.  If you have different information, please provide a source."
+2013-06-03T16:03:15+00:00,558146256,545686491,0,71.249.135.185,Expediting,spelling and gender neutrality
+2014-09-27T06:02:57+00:00,627247727,623970378,0,Canarahydraulics,Hydraulics,Added External Link very useful and informative
+2014-09-12T12:03:32+00:00,625228263,625228257,0,ClueBot NG,Elevator,"Reverting possible vandalism by [[Special:Contributions/50.203.254.198|50.203.254.198]] to version by NawlinWiki. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1950335) (Bot)"
+2014-01-08T14:58:41+00:00,589776919,584715559,0,95.60.253.86,Expediting,
+2013-07-09T17:26:40+00:00,563549517,563129631,0,Officiallyover,Elevator,/* Elevator convenience features */ improve caption
+2013-07-05T20:28:04+00:00,563019597,563001077,0,EmausBot,Inspection,"Bot: Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:Q1137655]]"
+2013-07-09T07:22:13+00:00,563487378,563484074,0,Hhhippo,Hydraulics,Reverted 2 edits by [[Special:Contributions/120.199.60.166|120.199.60.166]] ([[User talk:120.199.60.166|talk]]): Rv spam. ([[WP:TW|TW]])
+2013-07-11T16:54:35+00:00,563836865,560554601,0,ChrisGualtieri,Factory,General Fixes + MOS + DMY changes using [[Project:AWB|AWB]]
+2014-04-12T17:50:09+00:00,603905158,603484106,0,Monkbot,Factory,/* Industrial Revolution */Task 5: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]] ([[Wikipedia:Bots/Requests for approval/Monkbot 5|bot trial]])
+2014-09-28T11:49:10+00:00,627405132,625915939,0,David Eppstein,Inspection,hatnote for a point that confused an editor today
+2014-01-16T06:12:43+00:00,590930960,590056973,0,SchreiberBike,Inspection,"[[WP:DPL|You can help.]] Repaired link to the disambiguation page, [[Standard]]. Also some copy editing."
+2014-03-04T16:42:57+00:00,598126380,598126012,0,Pinethicket,Inspection,Undid revision 598126012 by [[Special:Contributions/101.61.50.245|101.61.50.245]] ([[User talk:101.61.50.245|talk]])  stray comment
+2014-07-20T23:44:49+00:00,617771325,615535176,0,72.39.175.177,Inspection,
+2013-10-03T13:24:58+00:00,575576607,568665338,0,Eva34567,Inspection,
+2013-08-15T15:09:45+00:00,568665338,568664144,0,MrOllie,Inspection,rm refspam and list of links to vendors
+2013-11-04T07:41:39+00:00,580124811,534973231,0,Pakaraki,Integrity Management Plan,tidy up refs and layout
+2013-09-16T23:50:24+00:00,573231583,573231473,0,Srich32977,International trade,/* Largest countries by total international trade */ Fixing style/layout errors
+2013-07-23T23:27:18+00:00,565545786,565545736,0,75.147.71.245,Interest,/* Simple interest */
+2014-02-12T13:55:24+00:00,595140558,594640971,0,John of Reading,International trade,"Typo/[[WP:AWB/GF|general]] fixing, replaced: on on → on using [[Project:AWB|AWB]]"
+2014-10-06T12:39:04+00:00,628469008,628467167,0,Epicgenius,Interest,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Happy happy fox|Happy happy fox]] using [[WP:STiki|STiki]]
+2014-01-14T20:30:37+00:00,590715696,590715656,0,Josve05a,Investment,Reverted edits by [[Special:Contributions/86.174.148.54|86.174.148.54]] ([[User talk:86.174.148.54|talk]]) ([[WP:HG|HG 3]])
+2014-02-01T15:09:44+00:00,593438539,593438535,0,ClueBot NG,Investment,"Reverting possible vandalism by [[Special:Contributions/173.17.243.3|173.17.243.3]] to version by V1 Rotate. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1679814) (Bot)"
+2014-04-22T09:59:26+00:00,605274185,602877264,0,99.241.166.168,Investment,/* In economics or macroeconomics */ fixed formulas
+2013-09-05T21:34:04+00:00,571700161,570968316,0,Edward,Investment,link [[investment strategy]] using [[User:Edward/Find link|Find link]]
+2014-03-27T12:51:40+00:00,601499147,601499086,0,Pinethicket,Lightning rod,Reverted edits by [[Special:Contribs/24.236.147.162|24.236.147.162]] ([[User talk:24.236.147.162|talk]]) to last version by Wdchk
+2014-07-02T00:00:47+00:00,615224271,615224071,0,Billinghurst,Investment,Reverted edits by [[Special:Contribs/Chinaque|Chinaque]] ([[User talk:Chinaque|talk]]) to last version by Excirial
+2014-02-28T03:26:38+00:00,597472505,597471882,0,Wdchk,Lightning rod,"placed punct outside italics, for consistency with elsewhere; rm italics from a descriptive term, for consistency with the terms that precede it; c/e"
+2013-10-23T21:37:57+00:00,578461637,573864506,0,Nethernovas85,Lightning rod,"""potential"" was added before ""difference from cloud to ground"" in the DuPont history section."
+2014-09-03T14:13:53+00:00,624013764,624011414,0,217.41.41.130,List of materials-testing resources,
+2013-06-18T16:21:31+00:00,560469652,560468494,0,65.204.218.243,List of materials-testing resources,
+2013-10-21T20:42:32+00:00,578164317,578164236,0,64.235.152.13,Investment,
+2014-03-27T17:46:47+00:00,601534659,601533258,0,70.25.79.114,List of materials-testing resources,URL was changed for Micom
+2013-10-01T03:22:30+00:00,575238531,575236684,0,AnomieBOT,List of measuring instruments,Dating maintenance tags: {{Move section portions from}}
+2013-01-13T07:37:36+00:00,532827541,532088881,0,BG19bot,Metallurgical failure analysis,[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (8855)
+2013-08-12T23:16:42+00:00,568281594,566587619,0,Willy turner,Machine (mechanical),
+2014-01-28T08:43:13+00:00,592766338,592419995,0,Edgar.bonet,List of measuring instruments,Undid revision 592419995 by [[Special:Contributions/197.250.64.193|197.250.64.193]] ([[User talk:197.250.64.193|talk]]): incomplete reference.
+2013-12-19T16:43:26+00:00,586807521,579790641,0,Prof McCarthy,Machine (mechanical),
+2014-02-08T23:08:10+00:00,594585102,594452424,0,FrescoBot,Magnetic particle inspection,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2014-07-19T12:45:54+00:00,617573903,617450751,0,Monkbot,Nondestructive testing,/* Weld verification */Task 5: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]
+2013-11-07T08:27:21+00:00,580568060,580437817,0,Askedonty,Nondestructive testing,/* Structural mechanics */
+2014-05-26T15:31:58+00:00,610218543,568654943,0,FrescoBot,Metallurgical failure analysis,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2013-12-29T17:31:33+00:00,588233531,587621180,0,2601:0:7300:7C1:C9DB:96F6:257A:125D,Nondestructive testing,/* External links */
+2013-07-26T12:34:58+00:00,565882405,565882399,0,ClueBot NG,Nondestructive testing,"Reverting possible vandalism by [[Special:Contributions/180.148.34.47|180.148.34.47]] to version by MrOllie. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1692220) (Bot)"
+2014-06-30T06:41:42+00:00,614981390,613129104,0,180.148.69.14,Nondestructive testing,/* Methods and techniques */ removal of a duplicate
+2014-01-27T17:28:58+00:00,592662828,591993464,0,Monkbot,Nondestructive testing,/* Certification schemes */Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2014-10-01T14:20:44+00:00,627818527,627810821,0,Flyer22 Frozen,Nondestructive testing,Reverted 1 edit by [[Special:Contributions/212.219.195.146|212.219.195.146]] identified as test/vandalism using [[WP:STiki|STiki]]
+2014-03-05T20:33:27+00:00,598304489,597413413,0,128.135.100.115,Nondestructive testing,typo /* Notable events in early industrial NDT */
+2014-05-15T13:27:35+00:00,608686646,608683233,0,Prhartcom,Nondestructive testing,Reverted 1 edit by [[Special:Contributions/14.98.227.72|14.98.227.72]] identified as test/vandalism using [[WP:STiki|STiki]]
+2014-06-16T03:43:09+00:00,613092895,613092848,0,小躍,Observational study,Undid revision 613092848 by [[Special:Contributions/小躍|小躍]] ([[User talk:小躍|talk]])
+2013-12-10T19:23:01+00:00,585474355,580471634,0,Vegaswikian,Photovoltaic power station,/* External links */ Drop included category
+2014-11-16T16:00:54+00:00,634089483,632936534,0,WOSlinker,Photovoltaic system,subst highlight templates
+2014-01-28T00:07:06+00:00,592716962,591790332,0,Monkbot,Organic matter,/* Priming effect */Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2013-08-22T19:41:08+00:00,569766959,569766281,0,RaAmun,Photovoltaic power station,/* The business of developing solar parks */ Made more objective
+2013-07-13T16:51:43+00:00,564122483,562738999,0,FrescoBot,Photovoltaic power station,Bot: [[User:FrescoBot/Section wikilinks|fixing section wikilinks]] and minor changes
+2014-07-19T21:17:25+00:00,617627180,609286549,0,Monkbot,Organic matter,/* Priming effect */Task 4: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]
+2014-01-28T13:27:19+00:00,592790616,585474355,0,Monkbot,Photovoltaic power station,/* Single axis trackers */Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2014-05-17T12:14:22+00:00,608951877,608548448,0,86.173.64.177,Photovoltaic power station,/* Operation and maintenance */
+2013-09-24T17:25:44+00:00,574347610,574347598,0,ClueBot NG,Observational study,"Reverting possible vandalism by [[Special:Contributions/63.254.139.26|63.254.139.26]] to version by Bender235. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1738195) (Bot)"
+2014-09-11T16:22:47+00:00,625109058,625108685,0,TerryAlex,Photovoltaics,Reverted 1 edit by [[Special:Contributions/192.203.137.210|192.203.137.210]] identified as test/vandalism using [[WP:STiki|STiki]]
+2013-12-27T22:07:21+00:00,587980955,587980259,0,Johnfos,Photovoltaics,shift image
+2013-08-04T16:49:15+00:00,567131612,565758201,0,Rlsheehan,Physical test,/* Performance testing */ add
+2013-12-20T15:21:53+00:00,586960364,586956342,0,Rlsheehan,Physical test,remove commercia link
+2014-11-24T19:18:19+00:00,635275744,634697295,0,Glrx,Pipe (fluid conveyance),Undid revision 634697295 by [[Special:Contributions/124.200.250.16|124.200.250.16]] ([[User talk:124.200.250.16|talk]]) too detailed; take this to the talk page
+2013-12-09T06:59:20+00:00,585243228,581068141,0,87.144.70.249,Pipe (fluid conveyance),
+2013-12-05T11:54:30+00:00,584677187,579931046,0,Qwertyus,Polymer characterization,Disambiguated: [[morphology]] → [[morphology (molecular)]]
+2013-07-22T18:09:24+00:00,565361670,554086967,0,Mogism,Polymer characterization,"/* Molecular Mass */Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typos fixed]]: based off of → based on using [[Project:AWB|AWB]]"
+2014-03-14T22:58:06+00:00,599646814,599644676,0,Colonies Chris,Polymer science,"sp, date & link fixes; unlinking common words, replaced: [[plastic]] → plastic, Mark-Houwink → Mark–Houwink (2) using [[Project:AWB|AWB]]"
+2014-03-10T10:10:31+00:00,598963535,593042388,0,128.79.110.21,Pre-shipment inspection,Removed content without source.
+2014-11-15T17:02:50+00:00,633957856,633954061,0,Mcmatter,Pressure vessel,Reverted 2 edits by [[Special:Contributions/WONDIE CHANIE|WONDIE CHANIE]] ([[User talk:WONDIE CHANIE|talk]]) to last revision by Velella. ([[WP:TW|TW]])
+2013-09-14T04:09:41+00:00,572842260,572722858,0,Materialscientist,Pressure vessel,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/121.52.158.245|121.52.158.245]] ([[User talk:121.52.158.245|talk]]) to last version by 8ty3hree
+2014-04-07T21:17:26+00:00,603209570,598770651,0,70.167.45.242,Pressure vessel,"/* Pressure vessel closures */ Most pressure vessels are not made for pipelines, pig launchers are not a main component of most pressure vessels and should not be included here."
+2014-01-20T21:18:28+00:00,591619014,591613833,0,DMacks,Project management,-spam Undid revision 591613833 by [[Special:Contributions/Red-Lips-Beauty|Red-Lips-Beauty]] ([[User talk:Red-Lips-Beauty|talk]])
+2014-03-01T04:01:40+00:00,597619449,597618123,0,Erebus Morgaine,Project management,Rv test edit ([[WP:HG|HG]])
+2013-07-02T15:43:24+00:00,562559798,562558882,0,Dennis Bratland,Quality assurance,"Reverted 1 edit by [[Special:Contributions/Peter8956|Peter8956]] ([[User talk:Peter8956|talk]]): [[WP:COPYVIO]], [[WP:ADVERT]] form http://www.sgs.com/Oil-Gas/Project-Life-Cycle-Services/Services-During-Manufacturing-of-Equipment/Services-Related-to-Su..."
+2014-07-23T23:29:56+00:00,618191337,618018602,0,Monkbot,Quality assurance,/* Total quality management */Task 5: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]
+2014-05-16T09:42:26+00:00,608812891,608812774,0,Kirananils,Quality assurance,Reverted edits by [[Special:Contribs/41.139.2.130|41.139.2.130]] ([[User talk:41.139.2.130|talk]]) to last version by 14.200.169.154
+2014-05-21T07:43:00+00:00,609491296,609489441,0,DanielPenfield,Quality assurance,rm advertisement for GSPANN Technologies per [[WP:LINKSPAM]]
+2014-03-07T04:27:25+00:00,598503104,598503026,0,206.248.161.133,Quality assurance,/* See also */
+2014-01-16T03:01:34+00:00,590914696,590083863,0,Mark Arsten,Quality assurance,"Removing link(s) to ""Material"": deleted via Afd. ([[WP:TW|TW]])"
+2014-07-08T15:47:03+00:00,616098633,616097803,0,XLinkBot,Pre-shipment inspection,BOT--Reverting link addition(s) by [[:en:Special:Contributions/85.107.191.86|85.107.191.86]] to revision 615148172 (http://www.inspection.com.tr [\binspection\.com\.tr\b])
+2014-06-26T08:11:22+00:00,614478975,614478910,0,125.23.134.18,Quality control,/* Quality control in project management */
+2013-12-05T12:45:01+00:00,584681907,584681897,0,Wikipelli,Quality control,Reverted edits by [[Special:Contributions/213.105.182.210|213.105.182.210]] ([[User talk:213.105.182.210|talk]]) to last revision by DanielPenfield ([[WP:HG|HG]])
+2014-10-21T00:49:32+00:00,630451563,630450288,0,Moonraker,Rail transport,/* History */c/e
+2014-04-07T10:04:05+00:00,603128337,602725355,0,Sa.vakilian,Rail transport,/* External links */ fa
+2013-10-16T11:25:44+00:00,577414340,576401649,0,BD2412,Rail transport,"minor fixes, mostly [[Wikipedia:Disambiguation pages with links|disambig links]] using [[Project:AWB|AWB]]"
+2014-03-14T21:23:08+00:00,599636239,599635877,0,Donner60,Rail transport,Reverted 2 edits by [[Special:Contributions/108.206.217.195|108.206.217.195]] ([[User talk:108.206.217.195|talk]]) to last revision by Bobrayner. ([[WP:TW|TW]])
+2014-06-14T03:44:26+00:00,612847628,612830847,0,99.24.201.92,Rail transport,There need to be citations.
+2014-08-27T20:47:43+00:00,623084641,622962149,0,DadaNeem,Rail transport,/* See also */ [[List of railway industry occupations]]
+2014-06-13T01:04:34+00:00,612708090,611558498,0,66.99.2.248,Rail transport,"In Chicago, the westernmost portions of the Douglas and Ravenswood rapid transit lines are at street level and intersect streets."
+2013-11-06T04:30:22+00:00,580406061,573820283,0,IjonTichyIjonTichy,Risk assessment,/* See also */ add [[Risk Matrix]]; and organize list into columns
+2014-03-27T10:53:29+00:00,601488579,601436358,0,Joao.pimentel.ferreira,Road traffic safety,/* Statistics */
+2014-09-08T00:59:03+00:00,624609477,624397023,0,Lowstep,Road traffic safety,Undid revision 624397023 by [[Special:Contributions/Digitalworldblogger|Digitalworldblogger]] ([[User talk:Digitalworldblogger|talk]]) Link spam
+2014-02-13T12:23:24+00:00,595288788,595288266,0,SFK2,Road traffic safety,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/175.101.67.101|175.101.67.101]] ([[User talk:175.101.67.101|talk]]) to last version by ClueBot NG
+2013-08-08T17:26:20+00:00,567705393,567705251,0,209.144.63.76,Road traffic safety,/* Turning across traffic */
+2014-09-24T01:01:08+00:00,626838374,625478970,0,173.68.90.110,Risk assessment,/* In auditing */
+2014-09-18T13:24:53+00:00,626081094,626079478,0,Param Mudgal,Rail transport,Reverted 1 edit by [[Special:Contributions/50.201.56.5|50.201.56.5]] identified as test/vandalism using [[WP:STiki|STiki]]
+2013-09-05T19:42:39+00:00,571685775,562554227,0,ArmbrustBot,Rope access,"/* External links */re-categorisation per [[Wikipedia:Categories for discussion/Log/2013 August 11]], replaced: Category:Climbing terms → Category:Climbing using [[Project:AWB|AWB]]"
+2014-05-15T20:19:45+00:00,608735056,586100472,0,John of Reading,Rope access,"Typo/[[WP:AWB/GF|general]] fixing, replaced: around 1980s → around the 1980s using [[Project:AWB|AWB]]"
+2014-05-15T13:38:03+00:00,608687830,608685534,0,AnomieBOT,Solar cell,Dating maintenance tags: {{Fact}}
+2014-03-28T20:25:13+00:00,601705965,601654317,0,86.15.108.69,Solar cell,
+2013-07-19T23:24:11+00:00,564988436,564811842,0,Dangerdanger182,Storage tank,Added references and analyses of tank failures section.
+2014-07-15T18:46:25+00:00,617082930,615061324,0,72.5.190.166,Storage tank,
+2013-10-01T08:02:48+00:00,575259051,575258313,0,Widr,Storage tank,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/117.239.35.226|117.239.35.226]] ([[User talk:117.239.35.226|talk]]) to last version by Dangerdanger182
+2013-05-27T14:03:56+00:00,557018998,556991458,0,Technopat,Supply chain,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/115.115.125.58|115.115.125.58]] ([[User talk:115.115.125.58|talk]]) to last version by Captain Conundrum
+2013-09-17T10:10:08+00:00,573292027,573285467,0,Technopat,Supply chain,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/106.211.92.231|106.211.92.231]] ([[User talk:106.211.92.231|talk]]) to last version by Bender235
+2014-09-03T16:59:42+00:00,624034733,624034619,0,Josephyr,Technician,Undid revision 624034619 by [[Special:Contributions/207.107.99.1|207.107.99.1]] ([[User talk:207.107.99.1|talk]])
+2014-08-27T19:07:43+00:00,623072549,623071918,0,32RB17,Ultrasonic testing,lead-in
+2014-05-28T14:33:43+00:00,610499281,609943519,0,193.242.149.172,Transport,
+2014-06-21T08:22:35+00:00,613786861,613777015,0,Deor,Transport,Reverted edits by [[Special:Contribs/112.198.82.117|112.198.82.117]] ([[User talk:112.198.82.117|talk]]) to last version by 193.242.149.172
+2014-03-07T03:29:40+00:00,598498494,598497967,0,Seaphoto,Technician,Reverted edits by [[Special:Contributions/192.230.170.39|192.230.170.39]] ([[User talk:192.230.170.39|talk]]) to last revision by Pigman ([[WP:HG|HG]])
+2014-04-14T09:08:15+00:00,604132538,603316877,0,RainerSchwab,Ultrasonic testing,/* External links */ This is an educational video
+2013-04-11T12:09:39+00:00,549832289,544187446,0,152.85.8.38,Ultrasonic testing,/* References */
+2014-08-01T16:15:07+00:00,619439913,618522921,0,Rtkat3,Vendor,
+2014-03-10T12:03:05+00:00,598973610,598248509,0,130.236.148.61,Vendor,Fixed broken link and rephrase
+2013-05-07T21:12:50+00:00,554023435,542510269,0,Kolbasz,Visual inspection,Units
+2014-06-26T22:34:08+00:00,614562873,614472712,0,Jonesey95,Visual inspection,Undid revision 614472712 by [[Special:Contributions/115.249.178.168|115.249.178.168]] ([[User talk:115.249.178.168|talk]]). Good faith edit added in the wrong place. Broke citation.
+2013-06-28T10:48:14+00:00,561947956,561943086,0,Tentinator,Warranty,Reverted edit(s) by [[Special:Contributions/161.168.251.103|161.168.251.103]]
+2013-12-23T04:04:18+00:00,587324382,587324242,0,Josh3580,Wind turbine,Reverted edits by [[Special:Contributions/SamWylde|SamWylde]] ([[User talk:SamWylde|talk]]): violates [[WP:EL|external links]] policy ([[WP:HG|HG]])
+2014-03-18T14:51:51+00:00,600164112,600163841,0,Quenhitran,Wind turbine,Reverted 1 edit by [[Special:Contributions/165.234.184.46|165.234.184.46]] identified as test/vandalism using [[WP:STiki|STiki]]
+2014-03-11T16:20:11+00:00,599151892,599149605,0,Beat345,Wind turbine,
+2014-09-04T07:34:26+00:00,624125222,624044674,0,Dexbot,Wind,Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+2014-05-03T17:50:15+00:00,606923618,604980835,0,Rjwilmsi,Wind,/* Power source */Added 1 dois to journal cites using [[Project:AWB|AWB]] (10090)
+2014-08-31T10:37:21+00:00,623559973,623559679,0,Materialscientist,Warranty,Reverted 1 edit by [[Special:Contributions/58.97.141.114|58.97.141.114]] identified as test/vandalism using [[WP:STiki|STiki]]
+2014-08-04T07:53:41+00:00,619783548,618973212,0,134.58.253.57,Wind turbine,/* Wind turbine spacing */
+2013-10-10T10:37:59+00:00,576568097,576567675,0,Richerman,Wind turbine,removed uncited information
+2014-02-21T21:05:22+00:00,596544148,595840173,0,Mogism,Wind turbine,"Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ,  → , , aplicationsis → applicationsis using [[Project:AWB|AWB]]"
+2013-03-11T20:54:52+00:00,543492970,543492817,0,Vsmith,Alloy,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/71.60.209.138|71.60.209.138]] ([[User talk:71.60.209.138|talk]]) to last version by ClueBot NG
+2013-01-14T14:52:48+00:00,533038457,533037593,0,Velella,Alloy,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/92.234.11.10|92.234.11.10]] ([[User talk:92.234.11.10|talk]]) to last version by ClueBot NG
+2012-11-12T09:56:14+00:00,522614711,521513634,0,Onejohn89,Commissioning management systems,Undid revision 521513634 by [[Special:Contributions/Mean as custard|Mean as custard]] ([[User talk:Mean as custard|talk]])
+2014-11-15T22:54:14+00:00,633998979,632399724,0,Omnipaedista,Chemical plant,per [[MOS:CAPS]]
+2012-08-11T09:20:34+00:00,506859573,506853807,0,Larry Hockett,Chemical plant,Reverted edit(s) by [[Special:Contributions/117.193.129.30|117.193.129.30]] identified as test/vandalism using [[WP:STiki|STiki]]
+2012-11-27T09:39:58+00:00,525104155,522614711,0,80.76.117.97,Commissioning management systems,
+2014-06-11T03:13:45+00:00,612445560,612443092,0,Carriearchdale,Asset integrity management systems,copyedit - changed un-planned to unplanned
+2012-11-30T11:24:38+00:00,525686286,525686263,0,Mmeijeri,Composite material,Undid revision 525676359 by [[Special:Contributions/31.222.221.2|31.222.221.2]] ([[User talk:31.222.221.2|talk]])
+2012-08-29T04:26:54+00:00,509714619,506057368,0,203.241.147.42,Commissioning management systems,
+2013-04-27T20:40:12+00:00,552469391,552469214,0,Jojalozzo,Composite material,/* History */ engvar
+2012-11-12T16:35:48+00:00,522655846,522655734,0,Jojalozzo,Composite material,/* Materials */ remove commercial link
+2014-03-05T18:49:34+00:00,598290221,598289964,0,Samjoe8,Concrete,
+2014-05-18T22:17:36+00:00,609154208,607418271,0,Cydebot,Construction aggregate,Robot - Moving category Granular materials to [[:Category:Granularity of materials]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2014 April 17]].
+2014-01-05T04:13:01+00:00,589239257,588933477,0,BattyBot,Concrete,fixed [[:Category:CS1 errors: dates|CS1 errors: dates]] & [[WP:AWB/GF|General fixes]] using [[Project:AWB|AWB]] (9832)
+2012-12-11T17:55:11+00:00,527568522,527558708,0,Teapeat,Composite material,Undid revision 527558708 by [[Special:Contributions/81.105.174.112|81.105.174.112]] ([[User talk:81.105.174.112|talk]])
+2013-03-12T21:01:39+00:00,543695053,543285522,0,Morgan Riley,Construction aggregate,added [[Category:Quarrying]] using [[WP:HC|HotCat]]
+2013-11-25T13:56:43+00:00,583232875,582387965,0,AdventurousSquirrel,Construction aggregate,"Disambiguated: [[electric train]] → [[electric locomotive]], [[fill]] → [[fill dirt]]"
+2013-07-23T04:44:04+00:00,565429255,563915871,0,Primergrey,Construction aggregate,
+2012-07-31T13:31:34+00:00,505096360,505051576,0,Wtshymanski,Concrete,why? Undid revision 505051576 by [[Special:Contributions/210.139.15.97|210.139.15.97]] ([[User talk:210.139.15.97|talk]])
+2014-07-21T21:28:53+00:00,617901041,617896541,0,Favonian,Construction management,Reverted edits by [[Special:Contribs/Freit003.309|Freit003.309]] ([[User talk:Freit003.309|talk]]) to last version by Logical Cowboy
+2013-01-07T17:42:59+00:00,531812193,528822521,0,ELApro,Construction aggregate,/* History */ quoted Vitruvius' De architectura
+2013-05-07T17:10:53+00:00,553985871,553985690,0,129.49.64.67,Construction management,
+2014-10-01T17:37:47+00:00,627845500,627845388,0,St170e,Corrosion,Reverted 1 edit by [[Special:Contributions/209.34.122.2|209.34.122.2]] ([[User talk:209.34.122.2|talk]]) to last revision by ChamithN. ([[WP:TW|TW]])
+2014-01-10T15:06:10+00:00,590080386,589453989,0,70.53.61.207,Construction management,/* Required knowledge */
+2013-08-28T18:17:23+00:00,570563450,569587069,0,76.107.163.238,Construction management,/* Study and practice */
+2014-08-15T14:06:17+00:00,621354140,621353801,0,FactsAndFigures,Construction management,"Added ""see also""; slighly modified from the Construction Engineering article"
+2014-07-18T21:51:23+00:00,617506657,616066090,0,Johannesvandijk,Corrosion,/* External links */  to information on corrosion progression analysis of coated metals
+2012-11-02T17:46:08+00:00,521082374,519661681,0,Morsetron,Corrosion,/* External links */
+2013-03-08T20:59:28+00:00,542897039,519924796,0,Addbot,Drill pipe,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q4199385]]"
+2012-10-03T09:50:44+00:00,515769034,513263824,0,121.241.106.73,Due diligence,"/* Origin of the term ""due diligence"" */"
+2014-09-25T09:36:02+00:00,627006516,626660364,0,Download,Corrosion,/* External links */ excessive
+2013-08-02T23:49:01+00:00,566923050,566399716,0,122.59.210.71,Electricity generation,/* List of countries with source of electricity 2008 */
+2013-09-17T13:10:57+00:00,573318512,570378700,0,129.77.132.224,Due diligence,/* Business transactions and corporate finance */
+2012-09-17T21:45:15+00:00,513263824,512724018,0,76.120.181.41,Due diligence,fix link
+2012-09-14T22:00:40+00:00,512500390,512497030,0,Jc3s5h,Electricity generation,Remove vandalism
+2014-06-18T16:36:23+00:00,613448246,612600778,0,Imveracious,Electricity generation,
+2012-12-28T18:12:35+00:00,530173914,528965782,0,204.167.92.26,Electrolyte,linked to polystyrene sulfonate article
+2013-03-08T06:36:15+00:00,542762632,542526370,0,Mgiganteus1,Electrolyte,boldface for article subject
+2014-08-28T16:51:04+00:00,623197226,623197156,0,NawlinWiki,Elevator,Reverted edits by [[Special:Contribs/NawlinWiki|NawlinWiki]] ([[User talk:NawlinWiki|talk]]) to last version by X go down the hole
+2014-08-02T03:54:21+00:00,619506921,615659619,0,Termitime,Electrolyte,/* Physiological importance */ Add link
+2012-11-07T05:53:28+00:00,521784268,521696570,0,Snotbot,Elevator,Fixing section headings [[Wikipedia:Bots/Requests for approval/Snotbot 5|(task 5)]]
+2013-03-20T13:52:28+00:00,545686491,513374096,0,Addbot,Expediting,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1384274]]"
+2013-02-06T00:42:29+00:00,536787875,536732351,0,207.181.228.196,Factory,/* See also */
+2012-08-26T05:37:22+00:00,509200122,508988851,0,65.188.211.235,Elevator,/* General controls */
+2014-03-15T04:41:56+00:00,599678500,599678410,0,Alatari,Factory,/* Siting the factory */ worker
+2014-01-05T14:29:23+00:00,589293198,587946484,0,2602:304:CE23:A149:B4F5:908:1D4A:D29C,Factory,changed '' to quotation mark
+2012-07-05T06:47:51+00:00,500760518,500760454,0,79.36.69.241,Inspection,/* Medical */
+2013-04-25T14:10:53+00:00,552123210,550619763,0,Maky89,Inspection,/* Worldwide Inspection Companies */
+2012-12-14T14:46:52+00:00,528017744,528016030,0,Sv1xv,Inspection,Undid revision 528016030 by [[Special:Contributions/123.236.224.111|123.236.224.111]] ([[User talk:123.236.224.111|talk]])
+2013-04-16T10:10:27+00:00,550619763,550619691,0,182.177.221.129,Inspection,/* Worldwide Inspection Companies */
+2013-02-28T05:22:16+00:00,541151627,539891266,0,Addbot,Inspection,"[[User:Addbot|Bot:]] Migrating 5 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1137655]] ([[User talk:Addbot|Report Errors]])"
+2012-07-22T13:01:38+00:00,503584254,503564528,0,Kuru,Interest,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/180.191.23.12|180.191.23.12]] ([[User talk:180.191.23.12|talk]]) to last version by Hmainsbot1
+2012-10-16T18:13:47+00:00,518161435,517072328,0,Edcolins,Interest,capitalization per [[WP:Section caps]]
+2013-12-31T16:41:58+00:00,588543339,583247446,0,Coolcaesar,Interest,/* Default interest */ Clarifying this
+2014-08-02T14:08:30+00:00,619552290,618818774,0,A Georgian,Interest,added Hebrew word for usury and its transliteration ~~~~
+2014-08-26T00:53:46+00:00,622820101,622590101,0,208.50.124.65,International trade,/* See also */
+2014-06-27T04:29:54+00:00,614592663,612078614,0,LawrencePrincipe,International trade,Lead section exceeds WP:MOS standard of maximum of four paragraphs. Reblock paragraphs to increase readability and add links.
+2013-05-25T17:46:27+00:00,556756536,556756180,0,178.36.120.111,International trade,/* History */
+2014-08-18T20:38:37+00:00,621821442,621821233,0,Lbertolotti,Investment,
+2014-09-20T05:33:53+00:00,626303778,623760997,0,Lotje,Investment,"See also section, {{commonscat|Investments}}"
+2013-05-25T17:46:14+00:00,556756513,556683348,0,Gulbenk,Investment,Undid revision 556683348 by [[Special:Contributions/69.143.155.111|69.143.155.111]] ([[User talk:69.143.155.111|talk]]) rev unexplained edit
+2014-03-23T04:08:06+00:00,600828910,600826444,0,Bahooka,Investment,Undid revision 600826444 by [[Special:Contributions/175.136.74.224|175.136.74.224]] ([[User talk:175.136.74.224|talk]])remove external link from article body
+2013-04-28T08:51:44+00:00,552540252,552526605,0,Andyjsmith,Investment,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/94.141.68.162|94.141.68.162]] ([[User talk:94.141.68.162|talk]]). ([[WP:TW|TW]])
+2014-07-09T05:28:57+00:00,616184091,616184052,0,83.43.243.171,Investment,/* In macroeconomics */
+2014-05-18T00:03:52+00:00,609026889,605274185,0,24.179.75.154,Investment,
+2012-10-13T01:49:16+00:00,517504166,517050543,0,Braincricket,Investment,"clean up, [[WP:AWB/T|typos fixed]]: ie.  → i.e. using [[Project:AWB|AWB]] (8414)"
+2014-10-09T04:30:26+00:00,628880657,623514247,0,Kjkolb,Lightning rod,wikified the top of the article
+2012-12-18T21:13:28+00:00,528693016,528692010,0,Kevin12xd,Lightning rod,Reverted edit(s) by [[Special:Contributions/24.15.22.205|24.15.22.205]] identified as test/vandalism using [[WP:STiki|STiki]]
+2012-11-29T21:50:39+00:00,525600220,523627595,0,Verdatum,Lightning rod,/* Should a lightning rod have a point? */ formatted blockquote
+2013-07-18T12:56:34+00:00,564784283,560469652,0,Jill.howland,List of materials-testing resources,I added IMR Test Labs as a materials testing laboratory.
+2012-09-11T15:44:44+00:00,511867185,507663569,0,M.h.mirsadeghi,List of materials-testing resources,
+2014-06-26T11:54:47+00:00,614495744,614423979,0,95.70.201.236,List of measuring instruments,"/* Rays (""waves"" and ""particles"") */"
+2013-09-13T11:36:43+00:00,572746756,572746684,0,Hillbillyholiday,List of measuring instruments,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/24.104.100.1|24.104.100.1]] ([[User talk:24.104.100.1|talk]]) to last version by Correogsk
+2014-08-31T00:38:06+00:00,623514247,622271396,0,Wtshymanski,Lightning rod,no doctorate per talk page
+2012-12-21T07:14:33+00:00,529084122,522283096,0,93.144.83.95,Machine (mechanical),/* Gears and gear trains */
+2014-02-24T23:50:51+00:00,596992732,596227103,0,Wavelength,Machine (mechanical),"inserting 5 [[hyphen]]s: —> ""three-dimensional"" [4 instances] and ""six-dimensional"" [1 instance]—[[wikt:three-dimensional]]"
+2013-11-01T21:17:55+00:00,579790641,579558919,0,120.59.76.194,Machine (mechanical),/* Planar mechanisms */
+2014-01-02T18:07:37+00:00,588845135,588787464,0,DemocraticLuntz,Nondestructive testing,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/182.65.169.114|182.65.169.114]] using [[WP:STiki|STiki]]
+2014-06-16T11:08:41+00:00,613129104,612822627,0,Filedelinkerbot,Nondestructive testing,"Bot: Removing [[Commons:File:Nondestructive testing, ndt, inspection 2014-06-14 01-42.jpg]] ([[:File:Nondestructive testing, ndt, inspection 2014-06-14 01-42.jpg|en]]). It was deleted on Commons by [[:Commons:User:Krd|Krd]] ([[Commons:COM:L|Copyright v..."
+2013-09-03T15:06:13+00:00,571384715,571365018,0,Albiet,Nondestructive testing,/* Notable events in early industrial NDT */ added Link
+2012-10-15T20:56:32+00:00,517997891,517997802,0,68.117.4.18,Magnetic particle inspection,/* Inspection */
+2012-09-23T12:15:01+00:00,514154087,514153749,0,Chrish45,Nondestructive testing,
+2013-03-19T13:20:41+00:00,545429837,545429713,0,212.44.15.139,Nondestructive testing,
+2013-10-15T14:30:47+00:00,577286792,576287134,0,80.76.124.41,Nondestructive testing,/* Methods */
+2012-11-30T00:49:31+00:00,525625299,525556571,0,Hu12,Nondestructive testing,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Inspection services|Inspection services]] ([[User talk:Inspection services|talk]]) to last version by Chris the speller
+2013-02-18T13:32:57+00:00,538874735,538857018,0,212.169.18.170,Nondestructive testing,/* External links */
+2012-07-27T12:06:58+00:00,504416343,467623062,0,99.106.118.44,Metallurgical failure analysis,Added information on Cost of corrosion and about the failure analysis process
+2013-01-19T09:32:38+00:00,533821878,533819884,0,82.152.36.9,Nondestructive testing,
+2013-04-22T08:22:23+00:00,551596300,551272064,0,Hyarmendacil,Nondestructive testing,/* Applications */ link
+2012-11-13T21:40:24+00:00,522888924,512057961,0,Biosthmors,Observational study,/* Discussion */
+2014-11-04T07:43:25+00:00,632389910,632195679,0,59.167.110.97,Nondestructive testing,"/* Notable events in early industrial NDT */ hole not ""whole"".  Refer to actual patent 2 820 226"
+2012-08-01T08:56:54+00:00,505230427,498816265,0,Maurice Carbonaro,Organic matter,"/* Potential solutions */Inserted a space between ""[[ozone]]"" and ""(three oxygens)"""
+2013-02-26T14:55:09+00:00,540640134,539897253,0,Addbot,Organic matter,"[[User:Addbot|Bot:]] Migrating 13 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1783121]] ([[User talk:Addbot|Report Errors]])"
+2013-05-23T07:19:27+00:00,556390694,554122671,0,Saltyhalty,Organic matter,/* Priming Effect */
+2012-12-04T05:02:29+00:00,526289247,524013173,0,WikiSolar,Photovoltaic power station,Updated external references
+2013-04-22T20:35:09+00:00,551689511,551689236,0,MrRenewables,Photovoltaic power station,/* Solar array arrangements */ Reformated references
+2012-09-09T16:54:40+00:00,511559141,511044070,0,Apteva,Photovoltaic power station,rm
+2014-10-19T05:51:23+00:00,630202093,630201936,0,Rfassbind,Photovoltaic power station,/* Technology */ using dead link template
+2014-11-22T21:11:19+00:00,635010798,634928483,0,Rfassbind,Photovoltaic power station,lead - c/e and put the mentioned 21 GW capacity in context. Amended article for consistent syntax for section titles.
+2014-04-28T02:36:25+00:00,606122595,606122357,0,Maury Markowitz,Photovoltaic power station,"put a number to that, based on figures in this article"
+2014-09-26T07:28:58+00:00,627128946,627003958,0,Bgwhite,Photovoltaic system,ce
+2013-07-27T12:56:01+00:00,566016923,565900199,0,173.176.167.95,Photovoltaic system,/* External links */
+2013-04-22T02:22:18+00:00,551561249,550854533,0,KVuong,Photovoltaics,/* Solar cells */
+2014-09-18T02:08:01+00:00,626027404,612740827,0,Filedelinkerbot,Physical test,Bot: Removing [[Commons:File:2009-0709-earthquake.jpg]] ([[:File:2009-0709-earthquake.jpg|en]]). It was deleted on Commons by [[:Commons:User:INeverCry|INeverCry]] (Per [[Commons:Commons:Deletion requests/Files uploaded by Shustov]]).
+2013-03-21T03:31:42+00:00,545866850,545512498,0,Addbot,Physical test,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q7189625]]"
+2013-08-26T07:52:21+00:00,570233478,570233350,0,DoorsAjar,Pipe (fluid conveyance),Reverted to singular form.
+2013-02-04T16:52:43+00:00,536542808,527671455,0,Tjuta,Polymer characterization,Fixed start of 2nd paragraph
+2014-09-04T19:03:59+00:00,624193575,624183096,0,Vis M,Polymer science,Reverted edits by [[Special:Contribs/76.8.253.98|76.8.253.98]] ([[User talk:76.8.253.98|talk]]) to last version by Aervin
+2012-06-18T08:45:59+00:00,498146296,498145061,0,Mean as custard,Pre-shipment inspection,remove link farm
+2013-03-01T12:49:07+00:00,541511525,540633557,0,Dodger67,Pressure vessel,"/* Cylindrical vessel with hemispherical ends */ ""Capsule"" is the proper geometric name for the shape"
+2012-10-22T10:16:20+00:00,519177524,518710307,0,176.35.101.155,Pressure vessel,/* Construction materials */ grammatical edit on PCV paragraph
+2012-10-12T16:41:43+00:00,517426168,515031866,0,Yobot,Pressure vessel,"[[WP:CHECKWIKI]] error 61 fix, References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8459)"
+2012-08-02T12:02:55+00:00,505412833,504196977,0,217.169.229.157,Quality assurance,"/* Steps for a typical quality assurance process */  Removed section as it refers to Quality Control, rather than Quality Assurance."
+2014-07-15T09:17:31+00:00,617024522,614327692,0,Velella,Pressure vessel,rmv spam link
+2012-10-25T13:07:38+00:00,519753890,519357751,0,217.36.248.65,Project management,/* Project managers */
+2014-09-27T08:57:18+00:00,627258025,627255030,0,Apparition11,Project management,Reverted 2 edits by [[Special:Contributions/Khurram1190|Khurram1190]] ([[User talk:Khurram1190|talk]]): Spam. using [[WP:TWINKLE|TW]]
+2013-04-18T15:53:35+00:00,550993048,550992350,0,74.231.186.40,Quality assurance,/* Models and standards */
+2014-11-20T17:30:33+00:00,634715042,634715030,0,Rcsprinter123,Quality assurance,Reverted edits by [[Special:Contributions/193.1.34.50|193.1.34.50]] ([[User talk:193.1.34.50|talk]]) ([[WP:HG|HG]])
+2013-11-19T12:57:52+00:00,582367169,582366471,0,Deli nk,Quality assurance,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/121.242.40.15|121.242.40.15]] ([[User talk:121.242.40.15|talk]]) to last version by 2.50.244.119
+2013-06-03T08:00:01+00:00,558093667,558093576,0,Gilliam,Quality assurance,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/202.142.172.178|202.142.172.178]] ([[User talk:202.142.172.178|talk]]) to last version by AnomieBOT
+2013-01-09T14:22:02+00:00,532182661,532162397,0,130.89.169.245,Quality assurance,
+2013-09-13T02:05:10+00:00,572701904,571942523,0,125.236.54.200,Quality assurance,removed as QA and Software Testing are very differrent roles and is therefore incorrect
+2013-05-25T07:46:01+00:00,556698753,556698583,0,Wannabemodel,Quality assurance,Undid revision 556698583 by [[Special:Contributions/93.38.167.69|93.38.167.69]] ([[User talk:93.38.167.69|talk]])
+2013-01-28T09:58:37+00:00,535319477,535317637,0,Chaleyer61,Rail transport,Revert to revision 534822260 dated 2013-01-25 13:54:20 by Mitch Ames using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2013-05-17T18:25:55+00:00,555548249,555548189,0,27.106.146.198,Quality control,/* Notes */
+2014-05-29T01:59:32+00:00,610578160,608553781,0,38.69.12.6,Rail transport,/* Passenger trains */
+2013-01-02T12:09:15+00:00,530906835,530193126,0,Velella,Quality control,"+ ,"
+2013-04-05T23:34:11+00:00,548912248,548907884,0,PhilD86,Rail transport,/* Energy */
+2013-08-11T11:03:58+00:00,568059901,567822596,0,TaintedMustard,Rail transport,
+2013-03-19T04:04:36+00:00,545348471,545343700,0,Supt. of Printing,Rail transport,Undid revision 545343700 by [[Special:Contributions/75.83.64.164|75.83.64.164]] ([[User talk:75.83.64.164|talk]])
+2014-07-31T03:03:38+00:00,619230861,618750763,0,Lost on Belmont,Rail transport,/* Passenger trains */ fix/spell out names
+2013-09-25T19:56:41+00:00,574505754,573865479,0,Kelisi,Rail transport,">""Latter"" for 2; ""last"" for 3+"
+2012-11-09T12:25:29+00:00,522167008,520761775,0,Sajish ommy,Rail transport,/* Pre-steam */
+2012-10-09T21:07:39+00:00,516889102,516882821,0,Andy Dingley,Rail transport,Reverted 2 edits by [[Special:Contributions/76.123.48.108|76.123.48.108]] ([[User talk:76.123.48.108|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Bender235. ([[WP:TW|TW]])
+2013-07-21T16:36:13+00:00,565205183,564855964,0,67.171.99.229,Rail transport,fix link
+2013-04-30T10:11:00+00:00,552862898,552862330,0,193.28.232.2,Risk assessment,/* How the risk is determined */
+2013-08-26T18:04:07+00:00,570291132,569993820,0,DudeWithAFeud,Rail transport,
+2014-05-25T21:02:57+00:00,610119191,610100375,0,TheQ Editor,Risk assessment,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/151.228.208.2|151.228.208.2]] using [[WP:STiki|STiki]]
+2013-02-04T16:09:44+00:00,536536342,535641921,0,66.252.218.141,Risk assessment,
+2012-12-17T11:02:43+00:00,528456787,527400463,0,Justincheng12345-bot,Road traffic safety,r2.7.3) (Robot: Modifying [[zh:道路安全]]
+2014-10-30T07:08:15+00:00,631720964,629975822,0,14.96.166.167,Road traffic safety,/* External links */
+2013-01-10T00:07:06+00:00,532275575,530133346,0,Andrewaskew,Road traffic safety,Fixed order of categorisation using [[Template:DEFAULTSORT|Default Sort Template]].
+2013-04-24T04:17:16+00:00,551905592,551338065,0,KLBot2,Road traffic safety,"Bot: Migrating 1 interwiki links, now provided by [[Wikidata]] on [[:d:Q1147899]]"
+2013-01-04T06:01:17+00:00,531221018,525199571,0,76.10.152.125,Rope access,/* Typical Equipment */ fix spelling errors
+2013-04-04T09:15:55+00:00,548631772,548628887,0,RHaworth,Rope access,revert vandalism
+2012-09-27T16:47:49+00:00,514828498,500278867,0,67.204.2.185,Rope access,/* Typical Equipment */
+2013-09-23T16:59:06+00:00,574204721,573780665,0,Dgwinner,Solar cell,/* Efficiency */
+2013-01-17T01:13:48+00:00,533456525,533454050,0,Jojalozzo,Solar cell,/* Organic/polymer solar cells */ use consistent terminology
+2013-02-27T00:53:41+00:00,540794430,539126742,0,Addbot,Storage tank,"[[User:Addbot|Bot:]] Migrating 10 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1756525]] ([[User talk:Addbot|Report Errors]])"
+2013-04-23T00:58:35+00:00,551722035,551720910,0,HMSSolent,Storage tank,Reverted 1 edit by [[Special:Contributions/Chinakerrian|Chinakerrian]] ([[User talk:Chinakerrian|talk]]): Promotional spam. ([[WP:TW|TW]])
+2013-10-20T23:52:39+00:00,578045015,573292027,0,76.120.178.238,Supply chain,fix link
+2012-12-29T20:30:45+00:00,530345896,530344820,0,Hindumuninc,Solar cell,/* Cost */
+2012-08-08T14:43:54+00:00,506399953,506399863,0,Michele7777,Supply chain,
+2013-04-02T19:56:48+00:00,548372921,542865223,0,86.132.248.142,Technician,
+2013-01-09T02:50:36+00:00,532095639,531411960,0,71.178.230.159,Supply chain,
+2013-08-05T22:54:18+00:00,567324766,566597559,0,DerBorg,Transport,little fix
+2014-02-12T07:17:03+00:00,595106037,595105970,0,2.90.56.72,Ultrasonic testing,/* Advantages */
+2012-07-31T15:41:16+00:00,505113941,503721283,0,Davidmack,Ultrasonic testing,added figure
+2012-10-19T13:07:21+00:00,518698456,518698413,0,64.203.138.74,Ultrasonic testing,/* How it works */
+2013-07-20T15:30:04+00:00,565065330,549832289,0,DemolitionTurtle,Ultrasonic testing,"Under the ""How it works"" section, changed the comma in ""There are two methods of receiving ultrasound waveform, reflection and attenuation."" to a colon to reduce confusion."
+2013-10-30T12:07:55+00:00,579452476,574294691,0,27.251.49.147,Vendor,/* See also */
+2014-01-14T02:27:16+00:00,590605315,590605280,0,Philip Trueman,Vendor,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/182.54.229.25|182.54.229.25]] ([[User talk:182.54.229.25|talk]]) to last version by 27.251.49.147
+2014-01-01T20:54:27+00:00,588711014,554023435,0,Yaron K.,Visual inspection,"/* Humorous terminology */ Replacing ""native optical sensors"" with ""eyes"""
+2012-05-12T01:11:21+00:00,492117758,489103636,0,Helpful Pixie Bot,Visual inspection,ISBNs (Build KH)
+2014-07-24T21:28:41+00:00,618328874,607626015,0,Chris the speller,Warranty,/* Extended warranty */replaced: third-parties → third parties using [[Project:AWB|AWB]]
+2013-12-18T22:52:17+00:00,586707113,583459989,0,Jesant13,Warranty,I corrected a sentence.
+2013-07-08T02:08:26+00:00,563315631,561937864,0,98.225.175.86,Wind,"/* On other planets */ Corrected spelling of ""sublimates"""
+2014-02-11T07:55:31+00:00,594947121,594802946,0,Ersenerdem,Wind turbine,Added information about wind turbine braking system and material composition
+2013-11-26T20:31:11+00:00,583433641,583422254,0,70.215.6.183,Wind turbine,"/* Shadow flicker */ I have temporarily removed this copy. First, it is unsupported by the reference cited, which does not say ""rapidly moving large turbine blades"" have been known to cause seizures. 60 RPM is far above large turbine RPM."
+2014-03-18T02:33:17+00:00,600103184,600063014,0,Wtshymanski,Wind turbine,rv; low EV for this external link Undid revision 600063014 by [[Special:Contributions/175.110.30.237|175.110.30.237]] ([[User talk:175.110.30.237|talk]])
+2014-07-06T19:30:31+00:00,615856144,615191430,0,Markhurd,Wind turbine,"clean up, replaced: ” → "", “ → "" using [[Project:AWB|AWB]]"
+2013-01-18T08:02:06+00:00,533660706,532819255,0,Bgwhite,Wind turbine,[[WP:CHECKWIKI]] error fix #63. Remove small tag inside sup tag for accessibility reasons. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]] (8855)
+2013-06-09T14:18:04+00:00,559069696,558859642,0,Andol,Wind turbine,/* Resources */ + picture of low-wind turbine
+2012-12-08T23:40:00+00:00,527098238,526555945,0,Epipelagic,Wind turbine,remove tp
+2013-07-06T10:46:50+00:00,563091296,560960358,0,Klimov,Wind turbine,/* History */  Yalta: see [[Crimean_Oblast]]

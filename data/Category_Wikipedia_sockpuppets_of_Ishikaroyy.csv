@@ -1,0 +1,610 @@
+timestamp,revid,parentid,sock,user,page,message
+2018-09-02T17:24:25+00:00,857732374,854363520,1,Ishikaroyy,Terminator Salvation,
+2018-09-02T17:20:57+00:00,857731912,857259004,1,Ishikaroyy,The Dark Knight Rises,
+2018-09-02T17:18:02+00:00,857731517,855691289,1,Ishikaroyy,Exodus: Gods and Kings,
+2018-09-02T16:27:25+00:00,857725269,857725193,1,Ishikaroyy,Jurassic World: Fallen Kingdom,
+2018-09-02T16:26:48+00:00,857725193,857724876,1,Ishikaroyy,Jurassic World: Fallen Kingdom,/* Box office */
+2018-09-02T16:24:10+00:00,857724876,857714897,1,Ishikaroyy,Jurassic World: Fallen Kingdom,
+2018-08-30T12:15:37+00:00,857234552,857234479,1,Ishikaroyy,Kal Ho Naa Ho,
+2018-08-30T12:14:59+00:00,857234479,857234392,1,Ishikaroyy,Kal Ho Naa Ho,
+2018-08-30T12:14:15+00:00,857234392,857080481,1,Ishikaroyy,Kal Ho Naa Ho,
+2018-08-30T11:46:16+00:00,857231582,857227352,1,Ishikaroyy,Star Wars,
+2018-08-30T11:42:09+00:00,857231184,857230966,1,Ishikaroyy,X-Men: First Class,
+2018-08-30T11:39:32+00:00,857230966,857224024,1,Ishikaroyy,X-Men: First Class,
+2018-08-30T11:01:49+00:00,857227352,857224965,1,Ishikaroyy,Star Wars,
+2018-08-30T10:57:58+00:00,857226940,857222837,1,Ishikaroyy,Solo: A Star Wars Story,
+2018-08-30T10:57:26+00:00,857226874,857222807,1,Ishikaroyy,Rogue One,
+2018-08-30T10:55:54+00:00,857226717,857222895,1,Ishikaroyy,Star Wars: The Last Jedi,
+2018-08-30T10:54:52+00:00,857226616,857226490,1,Ishikaroyy,Star Wars: The Force Awakens,
+2018-08-30T10:53:40+00:00,857226490,857222930,1,Ishikaroyy,Star Wars: The Force Awakens,
+2018-08-30T10:50:30+00:00,857226156,857222762,1,Ishikaroyy,Return of the Jedi,
+2018-08-30T10:36:56+00:00,857224842,857222987,1,Ishikaroyy,The Empire Strikes Back,
+2018-08-30T10:31:53+00:00,857224376,856365696,1,Ishikaroyy,X2 (film),
+2018-08-30T10:29:46+00:00,857224169,857041517,1,Ishikaroyy,Logan (film),
+2018-08-30T10:29:08+00:00,857224120,856259818,1,Ishikaroyy,The Wolverine (film),
+2018-08-30T10:27:56+00:00,857224024,855667081,1,Ishikaroyy,X-Men: First Class,
+2018-08-30T10:25:07+00:00,857223796,857109237,1,Ishikaroyy,Avengers: Infinity War,
+2018-08-30T10:23:39+00:00,857223671,857193585,1,Ishikaroyy,The Amazing Spider-Man 2,
+2018-08-30T10:22:10+00:00,857223532,856396480,1,Ishikaroyy,The Amazing Spider-Man (film),
+2018-08-30T10:18:33+00:00,857223186,857223154,1,Ishikaroyy,Doctor Strange (2016 film),
+2018-08-30T10:18:04+00:00,857223154,857223122,1,Ishikaroyy,Doctor Strange (2016 film),
+2018-08-30T10:17:44+00:00,857223122,857138702,1,Ishikaroyy,Doctor Strange (2016 film),
+2018-08-30T10:16:36+00:00,857223039,856477416,1,Ishikaroyy,Ant-Man (film),
+2018-08-30T10:15:36+00:00,857222953,856992632,1,Ishikaroyy,Guardians of the Galaxy (film),
+2018-08-30T10:14:13+00:00,857222800,856876241,1,Ishikaroyy,Iron Man 3,
+2018-08-30T10:12:52+00:00,857222699,856810790,1,Ishikaroyy,Captain America: The First Avenger,
+2018-08-30T10:05:58+00:00,857222205,857220675,1,Ishikaroyy,Star Wars,
+2018-08-30T10:04:32+00:00,857222110,857222045,1,Ishikaroyy,Return of the Jedi,
+2018-08-30T10:03:44+00:00,857222045,856749994,1,Ishikaroyy,Return of the Jedi,
+2018-08-30T10:01:48+00:00,857221907,857203011,1,Ishikaroyy,Raiders of the Lost Ark,
+2018-08-30T09:58:48+00:00,857221611,857221516,1,Ishikaroyy,Cristiano Ronaldo,
+2018-08-30T09:57:26+00:00,857221516,857221444,1,Ishikaroyy,Cristiano Ronaldo,
+2018-08-30T09:56:37+00:00,857221444,856964583,1,Ishikaroyy,Cristiano Ronaldo,
+2018-08-30T09:54:56+00:00,857220827,856794763,1,Ishikaroyy,The Avengers (2012 film),
+2018-08-30T09:52:51+00:00,857220675,857138579,1,Ishikaroyy,Star Wars,
+2018-08-30T09:49:44+00:00,857220408,857122491,1,Ishikaroyy,Rogue One,
+2018-08-30T09:47:34+00:00,857220255,857191250,1,Ishikaroyy,Solo: A Star Wars Story,
+2018-08-30T09:46:11+00:00,857220141,857219990,1,Ishikaroyy,Star Wars: The Last Jedi,
+2018-08-30T09:44:16+00:00,857219990,857193391,1,Ishikaroyy,Star Wars: The Last Jedi,
+2018-08-30T09:41:09+00:00,857219715,857219601,1,Ishikaroyy,Star Wars: The Force Awakens,
+2018-08-30T09:39:53+00:00,857219601,857137579,1,Ishikaroyy,Star Wars: The Force Awakens,
+2018-08-30T09:37:17+00:00,857219358,856616633,1,Ishikaroyy,Star Wars (film),
+2018-08-30T09:35:41+00:00,857219228,857219062,1,Ishikaroyy,The Empire Strikes Back,
+2018-08-30T09:33:56+00:00,857219062,857218987,1,Ishikaroyy,The Empire Strikes Back,
+2018-08-30T09:32:52+00:00,857218987,856325474,1,Ishikaroyy,The Empire Strikes Back,
+2018-10-22T15:19:15+00:00,865222126,865195793,1,Harrisonwalker88,The Fate of the Furious,
+2018-10-22T10:53:47+00:00,865192148,865067457,1,Harrisonwalker88,The Favourite,
+2018-10-22T07:59:18+00:00,865176059,860449930,1,Harrisonwalker88,Indiana Jones and the Kingdom of the Crystal Skull,
+2018-10-22T07:58:10+00:00,865175966,864412534,1,Harrisonwalker88,Indiana Jones and the Last Crusade,
+2018-10-22T07:57:13+00:00,865175886,864548395,1,Harrisonwalker88,Indiana Jones and the Temple of Doom,
+2018-10-22T07:53:50+00:00,865175652,863175598,1,Harrisonwalker88,Frantic (film),
+2018-10-17T12:42:54+00:00,864471370,864283379,1,Namratamvyas,Terminator Genisys,
+2018-10-17T12:38:49+00:00,864470965,864442057,1,Namratamvyas,Meet the Deedles,
+2018-10-17T12:35:11+00:00,864470602,862650149,1,Namratamvyas,Pleasantville (film),
+2018-10-17T12:34:04+00:00,864470498,864470431,1,Namratamvyas,Brokedown Palace,/* Cast */
+2018-10-17T12:33:23+00:00,864470431,857120873,1,Namratamvyas,Brokedown Palace,
+2018-10-17T12:30:10+00:00,864470127,843206096,1,Namratamvyas,The Skulls (film),
+2018-10-17T12:28:41+00:00,864470002,857254902,1,Namratamvyas,Takers,
+2018-10-17T12:26:16+00:00,864469790,796485372,1,Namratamvyas,The Death and Life of Bobby Z,
+2018-10-17T10:38:09+00:00,864460606,864460309,1,Namratamvyas,Eight Below,
+2018-10-17T10:34:12+00:00,864460309,852158786,1,Namratamvyas,Eight Below,
+2018-10-17T10:26:40+00:00,864459751,863602922,1,Namratamvyas,Varsity Blues (film),
+2018-10-17T10:22:28+00:00,864459392,857321379,1,Namratamvyas,She's All That,
+2018-10-17T10:20:48+00:00,864459234,863351243,1,Namratamvyas,Joy Ride (2001 film),
+2018-10-17T10:19:57+00:00,864459161,861997638,1,Namratamvyas,Running Scared (2006 film),
+2018-10-17T10:14:47+00:00,864458711,862741795,1,Namratamvyas,Timeline (2003 film),
+2018-10-17T10:02:08+00:00,864457661,854664992,1,Namratamvyas,Into the Blue (2005 film),
+2018-10-17T09:52:32+00:00,864456839,864456342,1,Namratamvyas,Brick Mansions,
+2018-10-17T09:46:45+00:00,864456342,861122003,1,Namratamvyas,Brick Mansions,
+2018-10-16T23:10:21+00:00,864397779,864346258,1,Namratamvyas,Dilwale Dulhania Le Jayenge,
+2018-10-16T23:05:44+00:00,864397369,864396707,1,Namratamvyas,Kabhi Khushi Kabhie Gham...,
+2018-10-16T22:59:08+00:00,864396707,862348429,1,Namratamvyas,Kabhi Khushi Kabhie Gham...,
+2018-10-16T10:05:24+00:00,864292802,864144304,1,Namratamvyas,Fast & Furious,
+2018-10-16T09:31:57+00:00,864288393,864047358,1,Namratamvyas,Hobbs & Shaw,
+2018-10-16T09:25:52+00:00,864287793,864285172,1,Namratamvyas,Los Bandoleros (film),
+2018-10-16T09:01:23+00:00,864285172,852652512,1,Namratamvyas,Los Bandoleros (film),
+2018-10-15T20:19:02+00:00,864210765,864209945,1,Namratamvyas,Ronaldo (film),
+2018-10-15T20:12:52+00:00,864209945,864209434,1,Namratamvyas,Ronaldo (film),
+2018-10-15T20:08:24+00:00,864209434,864209310,1,Namratamvyas,Ronaldo (film),/* Plot */
+2018-10-15T20:07:29+00:00,864209310,854455740,1,Namratamvyas,Ronaldo (film),
+2018-10-15T19:43:48+00:00,864206240,864148457,1,Namratamvyas,Dom Hemingway,
+2018-10-15T19:39:20+00:00,864205715,863600459,1,Namratamvyas,Solo: A Star Wars Story,
+2018-10-15T14:29:26+00:00,864164850,861693154,1,Namratamvyas,Voice from the Stone,
+2018-10-15T14:19:07+00:00,864163613,864143733,1,Namratamvyas,Kabhi Alvida Naa Kehna,
+2018-10-15T14:08:35+00:00,864162392,864162098,1,Namratamvyas,Above Suspicion (2019 film),
+2018-10-15T14:06:04+00:00,864162098,864160648,1,Namratamvyas,Above Suspicion (2019 film),
+2018-10-15T13:53:46+00:00,864160648,852252811,1,Namratamvyas,Above Suspicion (2019 film),
+2018-10-15T12:04:10+00:00,864148457,856989054,1,Namratamvyas,Dom Hemingway,
+2018-10-15T11:58:21+00:00,864147888,864147662,1,Namratamvyas,Emilia Clarke,/* Early life and family */
+2018-10-15T11:55:59+00:00,864147662,863990877,1,Namratamvyas,Emilia Clarke,
+2018-10-15T11:13:45+00:00,864143733,864141648,1,Namratamvyas,Kabhi Alvida Naa Kehna,
+2018-10-15T10:50:48+00:00,864141648,863809224,1,Namratamvyas,Kabhi Alvida Naa Kehna,
+2018-10-15T10:40:23+00:00,864140710,864139700,1,Namratamvyas,2 Fast 2 Furious,
+2018-10-15T10:38:49+00:00,864140592,864140011,1,Namratamvyas,The Fast and the Furious (2001 film),
+2018-10-15T10:37:59+00:00,864140517,864139543,1,Namratamvyas,The Fast and the Furious: Tokyo Drift,
+2018-10-15T10:32:01+00:00,864140011,864139945,1,Namratamvyas,The Fast and the Furious (2001 film),
+2018-10-15T10:31:11+00:00,864139945,864137200,1,Namratamvyas,The Fast and the Furious (2001 film),
+2018-10-15T10:28:05+00:00,864139700,864137323,1,Namratamvyas,2 Fast 2 Furious,
+2018-10-15T10:26:07+00:00,864139543,864138386,1,Namratamvyas,The Fast and the Furious: Tokyo Drift,
+2018-10-15T10:19:48+00:00,864138931,864136796,1,Namratamvyas,The Fate of the Furious,
+2018-10-15T10:15:01+00:00,864138479,861996575,1,Namratamvyas,Witness (1985 film),
+2018-10-15T10:14:17+00:00,864138386,862194477,1,Namratamvyas,The Fast and the Furious: Tokyo Drift,
+2018-10-15T10:04:24+00:00,864137323,863871158,1,Namratamvyas,2 Fast 2 Furious,
+2018-10-15T10:02:38+00:00,864137200,855789868,1,Namratamvyas,The Fast and the Furious (2001 film),
+2018-10-15T09:57:54+00:00,864136796,863824294,1,Namratamvyas,The Fate of the Furious,
+2018-10-15T09:55:51+00:00,864136630,863900060,1,Namratamvyas,Furious 7,
+2018-10-15T09:54:50+00:00,864136538,863378979,1,Namratamvyas,Fast & Furious 6,
+2018-10-15T09:53:44+00:00,864136456,856430085,1,Namratamvyas,Fast Five,
+2018-10-15T09:49:57+00:00,864136117,864051015,1,Namratamvyas,Fast & Furious (2009 film),
+2018-10-30T19:04:01+00:00,866505054,866419826,1,Ohmygodanjali,Cowboys & Aliens,
+2018-10-30T18:19:34+00:00,866498879,860641927,1,Ohmygodanjali,Regression (film),
+2018-10-30T18:16:40+00:00,866498484,865720242,1,Ohmygodanjali,My Week with Marilyn,
+2018-10-30T18:07:06+00:00,866496929,866251623,1,Ohmygodanjali,The Bling Ring,
+2018-10-30T18:04:27+00:00,866496569,866496483,1,Ohmygodanjali,Colonia (film),
+2018-10-30T18:03:56+00:00,866496483,858733531,1,Ohmygodanjali,Colonia (film),
+2018-10-30T06:04:24+00:00,866419978,866419925,1,Ohmygodanjali,Harrison Ford filmography,
+2018-10-30T06:03:52+00:00,866419925,865771759,1,Ohmygodanjali,Harrison Ford filmography,
+2018-10-30T06:02:45+00:00,866419826,866206630,1,Ohmygodanjali,Cowboys & Aliens,
+2018-10-30T05:59:29+00:00,866419552,866361127,1,Ohmygodanjali,The Prestige (film),
+2018-10-30T05:43:06+00:00,866418214,855322244,1,Ohmygodanjali,Paranoia (2013 film),
+2018-10-30T05:36:45+00:00,866417655,860176005,1,Ohmygodanjali,Crossing Over (film),
+2018-10-30T05:31:39+00:00,866417229,863588850,1,Ohmygodanjali,Firewall (film),
+2018-10-30T05:30:31+00:00,866417134,860795280,1,Ohmygodanjali,"Six Days, Seven Nights",
+2018-10-26T06:46:51+00:00,865799374,865368182,1,Ohmygodanjali,Raiders of the Lost Ark,
+2018-10-26T06:30:41+00:00,865798318,865675957,1,Ohmygodanjali,The Hate U Give (film),
+2018-10-25T13:17:30+00:00,865675957,865662755,1,Ohmygodanjali,The Hate U Give (film),
+2018-10-25T07:35:48+00:00,865645162,865587033,1,Ohmygodanjali,The Hate U Give (film),
+2018-10-25T07:25:39+00:00,865644362,865257719,1,Ohmygodanjali,Kabhi Alvida Naa Kehna,/* Cast */
+2018-10-24T20:15:46+00:00,865581344,865108491,1,Ohmygodanjali,Jab Harry Met Sejal,
+2018-10-24T20:11:16+00:00,865580826,865580368,1,Ohmygodanjali,Kal Ho Naa Ho,
+2018-10-24T20:07:29+00:00,865580368,865258928,1,Ohmygodanjali,Kal Ho Naa Ho,
+2018-09-11T20:30:41+00:00,859115659,856984521,0,Frmorrison,2 Fast 2 Furious,no hyphen
+2018-09-19T06:06:24+00:00,860225846,859115659,0,115.135.162.19,2 Fast 2 Furious,
+2018-08-28T20:03:57+00:00,856984521,856984381,0,73.119.198.27,2 Fast 2 Furious,/* Cast */
+2018-10-28T05:32:34+00:00,866091064,866088600,0,TropicAces,Brick Mansions,Box office fix
+2018-09-25T07:38:07+00:00,861122003,861121971,0,Shellwood,Brick Mansions,Reverted edits by [[Special:Contributions/Potetsekkk|Potetsekkk]] ([[User talk:Potetsekkk|talk]]) ([[WP:HG|HG]]) (3.4.4)
+2018-07-27T16:42:59+00:00,852252811,851922614,0,Bovineboy2008,Above Suspicion (2019 film),Bovineboy2008 moved page [[Above Suspicion (2018 film)]] to [[Above Suspicion (upcoming film)]]: no release date confirmed
+2018-09-27T13:10:37+00:00,861440099,861060590,0,Theprussian,Avengers: Infinity War,/* Marketing */ corrected dates
+2018-08-31T05:04:20+00:00,857356459,856495705,0,Rusted AutoParts,Brick Mansions,added [[Category:Films shot in Detroit]] using [[WP:HC|HotCat]]
+2018-09-24T20:39:00+00:00,861060590,861040726,0,SassyCollins,Avengers: Infinity War,Access date is 24th
+2018-09-15T23:12:17+00:00,859730402,859729503,0,Widr,Ant-Man (film),Reverted edits by [[Special:Contribs/5.90.238.50|5.90.238.50]] ([[User talk:5.90.238.50|talk]]) to last version by PackMecEng
+2018-09-24T06:35:41+00:00,860959128,860958551,0,Adamstom.97,Ant-Man (film),Reverted 1 pending edit by [[Special:Contributions/151.66.191.25|151.66.191.25]] to revision 860653293 by Favre1fan93: That's not how the sentence is structured.
+2018-08-29T18:07:04+00:00,857120873,857104827,0,MarnetteD,Brokedown Palace,no it  doesn't
+2018-10-15T03:04:01+00:00,864100785,863922643,0,Voicebox64,Captain America: The First Avenger,/* Cast */
+2018-09-09T07:05:46+00:00,858733531,851476280,0,Hmains,Colonia (film),standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes
+2018-10-08T19:42:01+00:00,863110429,863110323,0,F8RIL,Cristiano Ronaldo,/* Controversies */
+2018-09-03T11:52:59+00:00,857845593,857504454,0,Randy Kryn,Cowboys & Aliens,italics
+2018-10-18T12:38:18+00:00,864624229,864624067,0,Hurrygane,Cristiano Ronaldo,/* Family and relationships */
+2018-10-19T09:18:38+00:00,864764005,860792725,0,No such user,Cowboys & Aliens,unlink dab page
+2018-09-08T18:50:33+00:00,858654276,858654216,0,Mortee,Captain America: The First Avenger,Reverted 1 edit by [[Special:Contributions/24.119.112.24|24.119.112.24]] ([[User talk:24.119.112.24|talk]]) to last revision by Favre1fan93. ([[WP:TW|TW]])
+2018-09-09T19:01:13+00:00,858809178,857845593,0,Cwf97,Cowboys & Aliens,/* External links */
+2018-09-23T02:59:21+00:00,860792725,858809178,0,Cwf97,Cowboys & Aliens,/* External links */
+2018-09-14T03:25:38+00:00,859447753,859174498,0,Ammarpad,Cristiano Ronaldo,/* External links */ move urlt to WD
+2018-09-19T23:29:39+00:00,860334851,860334813,0,Vaselineeeeeeee,Cristiano Ronaldo,/* 2018–19 */
+2018-10-02T21:02:34+00:00,862206197,862120891,0,KurtR,Cristiano Ronaldo,the full articel from Der Spiegel is the best source available
+2018-09-18T20:51:03+00:00,860176005,859362937,0,INS Pirat,Crossing Over (film),added [[Category:Films directed by Wayne Kramer (filmmaker)]] using [[WP:HC|HotCat]]
+2018-10-23T05:00:17+00:00,865320161,865276026,0,Harshrathod50,Dilwale Dulhania Le Jayenge,"Removed absolutely redundant code. Just a space "" "" is also fine."
+2018-08-30T15:59:22+00:00,857261464,857257385,0,Bollyjeff,Dilwale Dulhania Le Jayenge,Reverted edits by [[Special:Contribs/39.38.54.175|39.38.54.175]] ([[User talk:39.38.54.175|talk]]) to last version by Kailash29792
+2018-10-01T05:19:18+00:00,861950196,861947687,0,DIYeditor,Doctor Strange (2016 film),Reverted 1 edit by [[Special:Contributions/101.179.203.33|101.179.203.33]] ([[User talk:101.179.203.33|talk]]) to last revision by Adamstom.97. ([[WP:TW|TW]])
+2018-09-20T15:17:33+00:00,860419067,860417198,0,Crboyer,Doctor Strange (2016 film),Reverted 1 edit by [[Special:Contributions/4BakersWiki|4BakersWiki]] ([[User talk:4BakersWiki|talk]]) to last revision by General Ization. ([[WP:TW|TW]])
+2018-10-10T23:08:46+00:00,863465160,863465041,0,Brojam,Doctor Strange (2016 film),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Det.hoffman2008|Det.hoffman2008]] ([[User talk:Det.hoffman2008|talk]]): Already in a subcategory of that: Marvel Studios films. ([[WP:TW|TW]])
+2018-09-16T01:27:16+00:00,859743805,859742503,0,General Ization,Doctor Strange (2016 film),Rm unsourced content; restore sourced
+2018-08-28T20:42:03+00:00,856989054,844230587,0,IUpdateRottenTomatoes,Dom Hemingway,/* Reception */ i update rotten tomatoes and add metacritic.
+2018-07-27T01:40:08+00:00,852158786,851439087,0,UltraBee,Eight Below,/* Plot */ There was a typo.
+2018-08-31T14:32:57+00:00,857411721,857261764,0,SassyCollins,Doctor Strange (2016 film),/* Critical response */ Updated from RT
+2018-10-18T14:03:56+00:00,864634903,864634816,0,104.172.55.76,Emilia Clarke,/* Awards and nominations */
+2018-10-01T17:53:56+00:00,862025556,862025445,0,General Ization,Emilia Clarke,Reverted edits by [[Special:Contribs/Tyla sharp1|Tyla sharp1]] ([[User talk:Tyla sharp1|talk]]) to last version by 65.28.236.17
+2018-09-02T11:43:34+00:00,857694244,857670254,0,Spiderpig662,Emilia Clarke,Added another category
+2018-09-10T14:58:05+00:00,858923785,857164882,0,70.77.64.201,Fast & Furious 6,
+2018-09-02T17:28:58+00:00,857732927,857732816,0,Betty Logan,Exodus: Gods and Kings,Not an accurate reflection of source content in the prose.
+2018-09-19T16:39:14+00:00,860286429,860192136,0,AriaBaerose,Emilia Clarke,/* Film */
+2018-10-23T10:14:33+00:00,865343614,865194368,0,2405:205:C92F:6C2F:0:0:2957:E8A4,Fast & Furious (2009 film),
+2018-10-25T21:13:10+00:00,865743485,865731139,0,KNHaw,Fast & Furious,Reverted 1 edit by [[Special:Contributions/2405:205:C92F:6C2F:0:0:2957:E8A4|2405:205:C92F:6C2F:0:0:2957:E8A4]] ([[User talk:2405:205:C92F:6C2F:0:0:2957:E8A4|talk]]) to last revision by Mercenary2k. ([[WP:TW|TW]])
+2018-09-08T12:28:44+00:00,858612580,858608524,0,Pauli133,Fast & Furious,fixing lint errors
+2018-08-25T04:04:36+00:00,856430085,852862206,0,Cwf97,Fast Five,/* External links */
+2018-10-11T18:51:20+00:00,863588850,863574256,0,GSK,Firewall (film),Reverted 2 edits by [[Special:Contributions/217.42.56.151|217.42.56.151]] ([[User talk:217.42.56.151|talk]]) to last revision by Martin IIIa. ([[WP:TW|TW]])
+2018-09-22T05:30:30+00:00,860656472,854574163,0,Hmains,Furious 7,standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes
+2018-10-25T02:26:46+00:00,865620118,865616221,0,4TheWynne,Furious 7,Reverted 1 edit by [[Special:Contributions/2405:205:C92F:6C2F:0:0:2957:E8A4|2405:205:C92F:6C2F:0:0:2957:E8A4]] ([[User talk:2405:205:C92F:6C2F:0:0:2957:E8A4|talk]]) to last revision by 2600:8807:5080:43C:75D3:8E42:2D4C:B846. ([[WP:TW|TW]])
+2018-10-03T19:27:53+00:00,862341652,861420737,0,Tommyt,Frantic (film),/* Plot */
+2018-10-10T23:07:46+00:00,863465074,863464900,0,Brojam,Guardians of the Galaxy (film),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Det.hoffman2008|Det.hoffman2008]] ([[User talk:Det.hoffman2008|talk]]): Already in a subcategory of that: Marvel Studios films. ([[WP:TW|TW]])
+2018-09-28T10:48:34+00:00,861563856,861411169,0,UpdateNerd,Guardians of the Galaxy (film),/* Critical response */ redirect WL
+2018-09-09T20:38:46+00:00,858819837,858819638,0,Khufd,Fast & Furious (2009 film),
+2018-09-16T04:18:07+00:00,859762853,858411726,0,Lacon432,Harrison Ford filmography,/* Film */
+2018-10-07T05:38:45+00:00,862861546,862860224,0,Ebyabe,Harrison Ford filmography,Reverted edits by [[Special:Contribs/174.18.69.22|174.18.69.22]] ([[User talk:174.18.69.22|talk]]) to last version by ClueBot NG
+2018-09-05T21:02:15+00:00,858230959,857797250,0,Citizen Canine,Indiana Jones and the Kingdom of the Crystal Skull,/* Plot */ remove [[WP:EASTER|easter egg]] link and apparent POV from plot summary
+2018-10-16T09:29:57+00:00,864288216,864286792,0,UpdateNerd,Indiana Jones and the Last Crusade,"moved images to avoid crowding, shifting section heads"
+2018-08-27T14:02:25+00:00,856781579,856781514,0,62.194.148.67,Hobbs & Shaw,
+2018-10-10T12:21:57+00:00,863380708,863371041,0,AJFU,Indiana Jones and the Temple of Doom,Restored correct version
+2018-08-20T19:40:06+00:00,855779795,855594440,0,2600:1001:B003:2CBE:105D:1D2F:9F5C:A6D4,Indiana Jones and the Kingdom of the Crystal Skull,
+2018-10-17T21:08:57+00:00,864535852,864425298,0,190.113.253.50,Iron Man 3,/* Plot */
+2018-09-04T14:42:30+00:00,858015900,858003939,0,Erik,Indiana Jones and the Temple of Doom,Restored content removed without explanation
+2018-09-25T17:03:23+00:00,861178670,860822011,0,180.93.100.24,Hobbs & Shaw,
+2018-08-28T07:01:49+00:00,856895490,854229469,0,137.95.1.11,Indiana Jones and the Last Crusade,/* Plot */
+2018-09-26T06:19:03+00:00,861263892,861168860,0,Iliilicious,Jab Harry Met Sejal,/* Soundtrack */Name display fixed
+2018-07-18T09:19:58+00:00,850842814,850840911,0,AnomieBOT,Joy Ride (2001 film),Dating maintenance tags: {{Shortlead}}
+2018-10-21T19:57:36+00:00,865108491,864606573,0,Zackmann08,Jab Harry Met Sejal,fixing deprecated params
+2018-09-20T17:09:12+00:00,860433669,860362470,0,SummerPhDv2.0,Iron Man 3,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/K-popguardian|K-popguardian]] ([[User talk:K-popguardian|talk]]): A possible sequel -- whether it happens or not -- is noteworthy. ([[WP:TW|TW]])
+2018-10-04T07:02:49+00:00,862415776,862252204,0,Anonimeco,Jurassic World: Fallen Kingdom,updated gross.
+2018-10-08T12:32:17+00:00,863055948,863038775,0,Wrath X,Jurassic World: Fallen Kingdom,
+2018-08-29T20:16:49+00:00,857138207,857109493,0,BrunzPOP,Jurassic World: Fallen Kingdom,
+2018-09-16T15:16:55+00:00,859829563,859829534,0,BrunzPOP,Jurassic World: Fallen Kingdom,
+2018-10-09T00:11:50+00:00,863143504,863051863,0,71.173.200.154,Kabhi Alvida Naa Kehna,/* Plot */
+2018-09-10T17:33:38+00:00,858943270,855216540,0,Skywatcher68,Kabhi Alvida Naa Kehna,Undid revision 855216540 by [[Special:Contributions/39.38.34.158|39.38.34.158]] ([[User talk:39.38.34.158|talk]]) reverted unexplained edits / removal of content.
+2018-10-21T12:48:14+00:00,865058866,865047172,0,Anonimeco,Jurassic World: Fallen Kingdom,fixed gross after its source.
+2018-09-10T20:11:26+00:00,858964130,858964082,0,BrunzPOP,Jurassic World: Fallen Kingdom,
+2018-08-16T18:45:51+00:00,855216540,854734415,0,39.38.34.158,Kabhi Alvida Naa Kehna,/* Cast */
+2018-09-23T09:06:44+00:00,860824311,860533375,0,Rush922,Kabhi Alvida Naa Kehna,
+2018-10-13T05:55:00+00:00,863809224,863779458,0,Agnypath,Kabhi Alvida Naa Kehna,Removed unverified and unverifiable claim.
+2018-09-04T04:18:26+00:00,857961113,857911629,0,76.85.37.12,Kabhi Khushi Kabhie Gham...,Corrected grammar
+2018-08-30T17:54:05+00:00,857276011,857275566,0,AntiCedros,Kabhi Khushi Kabhie Gham...,Reverted 17 edits by [[Special:Contributions/39.38.1.98|39.38.1.98]] ([[User talk:39.38.1.98|talk]]) to last revision by Shellwood. ([[WP:TW|TW]])
+2018-10-21T08:24:23+00:00,865037275,865034398,0,Jim1138,Kabhi Khushi Kabhie Gham...,Reverted edits by [[Special:Contributions/2405:204:3205:57B0:F802:BC3C:85A4:63E5|2405:204:3205:57B0:F802:BC3C:85A4:63E5]] ([[User talk:2405:204:3205:57B0:F802:BC3C:85A4:63E5|talk]]): [[WP:SANDBOX|editing tests]] ([[WP:HG|HG]]) (3.4.4)
+2018-10-03T20:24:58+00:00,862348429,862290090,0,Bollyjeff,Kabhi Khushi Kabhie Gham...,Reverted edits by [[Special:Contribs/Rayad1612|Rayad1612]] ([[User talk:Rayad1612|talk]]) to last version by Bollyjeff
+2018-10-11T11:48:13+00:00,863535013,863534836,0,Ssven2,Kal Ho Naa Ho,/* Principal photography */
+2018-08-30T13:02:35+00:00,857239903,857234552,0,Canterbury Tail,Kal Ho Naa Ho,rv unexplained changes and deletion of references and referenced material
+2018-09-22T12:34:51+00:00,860695764,860475155,0,Hmains,Logan (film),standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes
+2018-09-07T01:30:49+00:00,858418575,858399575,0,Bollyjeff,Kal Ho Naa Ho,Reverted edits by [[Special:Contribs/39.38.34.44|39.38.34.44]] ([[User talk:39.38.34.44|talk]]) to last version by Canterbury Tail
+2018-07-30T13:19:54+00:00,852652512,849838705,0,115.164.203.146,Los Bandoleros (film),Undid revision 849838705 by [[Special:Contributions/2804:431:D72C:5550:44B6:D5B:F290:7191|2804:431:D72C:5550:44B6:D5B:F290:7191]] ([[User talk:2804:431:D72C:5550:44B6:D5B:F290:7191|talk]])
+2018-10-21T08:40:45+00:00,865038560,864470965,0,2607:FEA8:4D5F:FF6C:9963:7D01:FF:4604,Meet the Deedles,
+2018-09-22T14:27:46+00:00,860707346,849545369,0,Hmains,Meet the Deedles,standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes
+2018-09-19T14:38:14+00:00,860272031,860269493,0,DonQuixote,Logan (film),Undid revision 860269493 by [[Special:Contributions/79.46.164.110|79.46.164.110]] ([[User talk:79.46.164.110|talk]]) per inline note
+2018-09-05T21:57:35+00:00,858240345,854652205,0,GreenC bot,My Week with Marilyn,Remove 1 stray access-date. ([[User:GreenC bot/Job 5|GreenC bot job #5]])
+2018-08-12T21:57:52+00:00,854652205,854647715,0,JuneGloom07,My Week with Marilyn,I believe this is based on poster order.
+2018-08-17T13:17:49+00:00,855322244,855103941,0,2601:153:701:5BF9:103F:BAE1:EA73:5836,Paranoia (2013 film),
+2018-10-17T13:59:09+00:00,864479588,864470602,0,TheOldJacobite,Pleasantville (film),Undid revision 864470602 by [[Special:Contributions/Namratamvyas|Namratamvyas]] ([[User talk:Namratamvyas|talk]])---Unnecessary.
+2018-10-11T19:56:37+00:00,863597268,863595379,0,Crboyer,Raiders of the Lost Ark,Reverted 1 edit by [[Special:Contributions/130.76.24.28|130.76.24.28]] ([[User talk:130.76.24.28|talk]]) to last revision by Citizen Canine. ([[WP:TW|TW]])
+2018-10-05T11:52:41+00:00,862595671,862595643,0,Citizen Canine,Raiders of the Lost Ark,/* Home media */ fix
+2018-09-30T04:30:44+00:00,861806509,861381929,0,Brojam,Return of the Jedi,/* Reception */
+2018-09-27T00:57:49+00:00,861381929,861381693,0,Gatemansgc,Return of the Jedi,Undid revision 861381693 by [[Special:Contributions/186.176.253.197|186.176.253.197]] ([[User talk:186.176.253.197|talk]]) rV unexplained deletion. We have an edit summary box for a reason!
+2018-09-21T21:37:53+00:00,860612521,860612461,0,I dream of horses,Return of the Jedi,Reverted edits by [[Special:Contributions/201.198.246.145|201.198.246.145]] ([[User talk:201.198.246.145|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.4)
+2018-09-14T07:29:39+00:00,859469710,854339054,0,X201,Pleasantville (film),/* Soundtrack */Errors preventing template update + type values for error tracking
+2018-09-13T02:20:01+00:00,859291038,859287987,0,Crboyer,Raiders of the Lost Ark,"/* Box office */ reworded. As originally written, it made it sound like its original gross was that low instead of that being the IMAX release. Cited the actual opening weekend of its original release."
+2018-09-15T23:37:45+00:00,859732704,859732643,0,DonQuixote,Return of the Jedi,Undid revision 859732643 by [[Special:Contributions/186.26.116.7|186.26.116.7]] ([[User talk:186.26.116.7|talk]]) unexplained removal of sourced content
+2018-09-22T02:55:32+00:00,860641927,856511076,0,60.53.177.64,Regression (film),/* Cast */
+2018-09-05T10:10:26+00:00,858140411,857376097,0,MusikBot,Return of the Jedi,Removing protection templates from unprotected page
+2018-09-16T01:01:26+00:00,859741180,859741058,0,General Ization,Rogue One,Reverted 1 edit by [[Special:Contributions/5.90.237.169|5.90.237.169]] ([[User talk:5.90.237.169|talk]]): Rv unsourced content; restore sourced. ([[WP:TW|TW]])
+2018-10-26T12:56:22+00:00,865829416,865829083,0,91.67.248.186,Rogue One,/* Plot */
+2018-09-23T18:29:52+00:00,860884585,859741180,0,Cwf97,Rogue One,/* External links */
+2018-10-06T13:16:34+00:00,862752921,862752767,0,86.2.65.41,Rogue One,
+2018-08-11T13:55:51+00:00,854455740,852056823,0,Bijak riyandi,Ronaldo (film),
+2018-07-29T22:09:59+00:00,852568275,822370784,0,Zyxw,"Six Days, Seven Nights",update link templates using [[Project:AWB|AWB]]
+2018-10-01T14:16:38+00:00,861997638,861996426,0,Johnny758,Running Scared (2006 film),/* Plot */
+2018-09-02T03:46:34+00:00,857651069,857635396,0,Ian.thomson,Solo: A Star Wars Story,Reverted edits by [[Special:Contribs/74.110.56.75|74.110.56.75]] ([[User talk:74.110.56.75|talk]]) to last version by BrunzPOP
+2018-10-11T20:14:22+00:00,863600459,863157884,0,Jedi94,Solo: A Star Wars Story,/* Adaptations */
+2018-08-30T23:58:03+00:00,857321379,852048285,0,Risto hot sir,She's All That,
+2018-09-19T03:29:57+00:00,860213873,860192640,0,UpdateNerd,Solo: A Star Wars Story,/* Plot */ rm Easter Egg link
+2018-09-07T18:43:36+00:00,858514531,858391876,0,Kronnang Dunn,Solo: A Star Wars Story,/* Adaptations */
+2018-09-14T09:52:16+00:00,859482465,859470565,0,Dxxg01,Solo: A Star Wars Story,/* Home media */Added content
+2018-09-21T20:34:35+00:00,860605240,860559146,0,Evope,Solo: A Star Wars Story,This film went to to vault.
+2018-10-09T20:17:29+00:00,863282019,863246382,0,TAnthony,Star Wars,"Update links (droid), overlinking, consolidate citations, and genfixes"
+2018-10-05T22:15:23+00:00,862670544,862654597,0,UpdateNerd,Star Wars,"simpler, saga wasn't capital in the official source"
+2018-10-09T16:16:52+00:00,863246382,863235127,0,CapLiber,Star Wars,
+2018-10-14T04:55:05+00:00,863955108,863670350,0,Sock,Star Wars,/* Sequel trilogy */
+2018-10-11T04:54:52+00:00,863498347,863369706,0,UpdateNerd,Star Wars,"/* Sequel trilogy */ Additional background info, consolidated same"
+2018-10-21T02:16:07+00:00,865006503,865004721,0,UpdateNerd,Star Wars,"Undid revision 865004721 by [[Special:Contributions/Rosvel92|Rosvel92]] ([[User talk:Rosvel92|talk]]) Unnecessary & redundant. Expand the lead if necessary, keeping in mind that it should summarize the whole article & not obsess w/ canonicity"
+2018-10-28T00:20:24+00:00,866059494,866058669,0,UpdateNerd,Star Wars,"/* Television */ renamed for consistency with List article; technically streaming is internet, not TV"
+2018-10-15T11:33:47+00:00,864145712,863752213,0,UpdateNerd,Star Wars (film),"/* Title */ add'l refs, titling history; ce"
+2018-10-20T16:21:09+00:00,864941301,864926253,0,DanielGames17,Star Wars: The Force Awakens,
+2018-10-25T20:06:53+00:00,865734100,865733014,0,Muboshgu,Star Wars: The Force Awakens,Reverted 1 edit by [[Special:Contributions/Editinggigi|Editinggigi]] ([[User talk:Editinggigi|talk]]) to last revision by Fru1tbat. ([[WP:TW|TW]])
+2018-09-28T15:15:19+00:00,861591063,861588451,0,TAnthony,Star Wars: The Force Awakens,/* top */ n dash
+2018-08-30T22:33:41+00:00,857312687,857230469,0,2A02:C7D:564F:6C00:D089:5EC7:8957:3599,Star Wars: The Force Awakens,
+2018-09-08T07:45:25+00:00,858589675,858520344,0,Citizen Canine,Star Wars: The Force Awakens,avoid two adjacent links ([[MOS:LINKSTYLE]])
+2018-09-02T09:26:04+00:00,857682320,857625531,0,Robynthehode,Star Wars: The Last Jedi,Reverted 1 edit by [[Special:Contributions/SubZeroSilver|SubZeroSilver]] ([[User talk:SubZeroSilver|talk]]): Crystal ball word and therefore editorialising. ([[WP:TW|TW]])
+2018-10-21T15:22:35+00:00,865074217,865041369,0,GoneIn60,Star Wars: The Last Jedi,"Undid revision 865041369 by [[Special:Contributions/Sandrobost|Sandrobost]] ([[User talk:Sandrobost|talk]]) Might be a reasonable point, but ""partly"" is not the best fix. There are other ways to reword if you feel it's necessary. Discuss on talk if needed."
+2018-09-11T21:05:44+00:00,859120507,859120379,0,Shellwood,Star Wars (film),Reverted edits by [[Special:Contributions/173.243.183.43|173.243.183.43]] ([[User talk:173.243.183.43|talk]]) ([[WP:HG|HG]]) (3.4.4)
+2018-10-24T16:39:52+00:00,865552193,865500477,0,FlippyElectricitySocket,Star Wars: The Last Jedi,/* Cast */ Added some refs.
+2018-10-11T00:31:32+00:00,863472954,863153124,0,UpdateNerd,Star Wars: The Last Jedi,Merge proposal
+2018-09-08T16:44:50+00:00,858639891,858372893,0,TAnthony,Star Wars: The Last Jedi,/* top */ Avoiding adjacent links per the MOS
+2018-10-11T17:15:54+00:00,863576077,863547027,0,UpdateNerd,Star Wars: The Last Jedi,Undid revision 863547027 by [[Special:Contributions/CapLiber|CapLiber]] ([[User talk:CapLiber|talk]]) Not an improvement. [[Talk:Star Wars (film)#Title changes by CapLiber|Discuss]] first
+2018-08-30T15:07:38+00:00,857254902,854667155,0,180.93.100.24,Takers,
+2018-10-17T14:15:28+00:00,864481387,864480628,0,Areaseven,Terminator Genisys,/* External links */
+2018-10-05T22:22:35+00:00,862671322,862600318,0,GoneIn60,Terminator Genisys,/* Critical response */ this part was fine
+2018-08-10T19:57:20+00:00,854363520,853602858,0,65.48.178.178,Terminator Salvation,
+2018-09-17T20:11:25+00:00,860019774,858342545,0,2600:387:B:7:0:0:0:90,Terminator Salvation,
+2018-10-13T18:13:17+00:00,863883910,863883644,0,2600:8801:9600:120:F846:2E82:FBF1:1298,The Amazing Spider-Man (film),/* Plot */
+2018-10-15T03:10:18+00:00,864101441,863576508,0,Voicebox64,The Avengers (2012 film),/* Cast */
+2018-09-27T07:30:22+00:00,861414748,860912216,0,103.83.172.12,The Amazing Spider-Man (film),
+2018-08-30T12:31:16+00:00,857236506,857223671,0,Kintetsubuffalo,The Amazing Spider-Man 2,Reverted 3 pending edits by [[Special:Contributions/2001:8003:C034:2D00:A03E:F20F:FB72:C3B1|2001:8003:C034:2D00:A03E:F20F:FB72:C3B1]] and [[Special:Contributions/Ishikaroyy|Ishikaroyy]] to revision 856895825 by Daiyusha
+2018-09-12T16:28:42+00:00,859226638,857731984,0,Grandpallama,The Dark Knight Rises,Reverted to revision 855811577 by [[Special:Contributions/Cwf97|Cwf97]] ([[User talk:Cwf97|talk]]): Disruption of the cast paragraphs. ([[WP:TW|TW]])
+2018-10-11T03:43:12+00:00,863491535,862609332,0,2606:6000:6155:BD00:313B:F3C0:A7C0:2FF9,The Bling Ring,/* Critical response */Removed irrelevant detail.
+2018-09-01T01:06:41+00:00,857494002,857493959,0,Oshwah,The Bling Ring,Reverted edits by [[Special:Contributions/96.240.138.95|96.240.138.95]] ([[User talk:96.240.138.95|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.4)
+2018-10-08T19:49:33+00:00,863111348,863074533,0,AmericanAir88,The Amazing Spider-Man 2,Reverted 1 pending edit by [[Special:Contributions/2A02:C7D:808B:D900:F1E9:509F:BAD6:B8A2|2A02:C7D:808B:D900:F1E9:509F:BAD6:B8A2]] to revision 862842285 by 2804:7F4:C881:9194:64CF:6F78:7A85:8845: Unconstructive
+2018-09-27T18:37:11+00:00,861478752,861475758,0,Argento Surfer,The Avengers (2012 film),Undid revision 861475758 by [[Special:Contributions/Kevinagu|Kevinagu]] ([[User talk:Kevinagu|talk]]) not typos...
+2017-08-21T04:42:36+00:00,796485372,791325248,0,NinjaRobotPirate,The Death and Life of Bobby Z,Reverted to revision 766148406 by [[Special:Contributions/Bender the Bot|Bender the Bot]] ([[User talk:Bender the Bot|talk]]): The entire cast list doesn't go in the infobox. ([[WP:TW|TW]])
+2018-10-24T13:06:42+00:00,865523728,865523177,0,FlippyElectricitySocket,The Dark Knight Rises,Undid revision 865523177 by [[Special:Contributions/2405:204:E200:B1F9:199D:8F8:214A:8AAF|2405:204:E200:B1F9:199D:8F8:214A:8AAF]] ([[User talk:2405:204:E200:B1F9:199D:8F8:214A:8AAF|talk]])
+2018-10-19T23:20:42+00:00,864857202,864333934,0,2601:541:4500:1760:A11A:FAEB:6F21:8D30,The Empire Strikes Back,edit
+2018-09-02T21:06:06+00:00,857761123,857760979,0,216.15.31.165,The Empire Strikes Back,/* Plot */
+2018-09-10T23:34:18+00:00,858987345,858952905,0,RMCD bot,The Empire Strikes Back,Removing notice of move discussion
+2018-09-26T23:47:32+00:00,861374570,861374277,0,UpdateNerd,The Empire Strikes Back,/* Filming */ ce
+2018-10-04T18:00:56+00:00,862487052,862486949,0,Kirbanzo,The Empire Strikes Back,Reverted 1 edit by [[Special:Contributions/76.79.208.218|76.79.208.218]] ([[User talk:76.79.208.218|talk]]): Potential [[WP:NPOV]] violation. ([[WP:TW|TW]])
+2018-08-20T21:06:02+00:00,855789868,853446430,0,70.53.255.101,The Fast and the Furious (2001 film),
+2018-10-25T17:20:50+00:00,865710989,865673697,0,46.135.109.81,The Fast and the Furious: Tokyo Drift,Fixed name of character and link.
+2018-09-19T18:05:30+00:00,860296879,860226022,0,66.87.31.81,The Fast and the Furious: Tokyo Drift,/* Plot */
+2018-09-17T00:54:28+00:00,859897859,859806821,0,Greg Salter,The Fast and the Furious: Tokyo Drift,Reverted edits by [[Special:Contribs/149.254.184.93|149.254.184.93]] ([[User talk:149.254.184.93|talk]]) to last version by 113.253.66.45
+2018-10-26T09:21:08+00:00,865811115,865710989,0,117.247.85.156,The Fast and the Furious: Tokyo Drift,/* Cast */
+2018-10-22T11:14:53+00:00,865194103,865193912,0,2405:205:C92F:6C2F:0:0:2957:E8A4,The Fast and the Furious: Tokyo Drift,
+2018-10-22T15:46:35+00:00,865225720,865222126,0,4TheWynne,The Fate of the Furious,Reverted 1 edit by [[Special:Contributions/Harrisonwalker88|Harrisonwalker88]] ([[User talk:Harrisonwalker88|talk]]) to last revision by 4TheWynne. ([[WP:TW|TW]])
+2018-09-30T10:01:10+00:00,861830675,861825514,0,Narky Blert,The Fate of the Furious,Link to DAB page repaired
+2018-10-25T22:32:58+00:00,865752379,865728530,0,4TheWynne,The Fate of the Furious,Reverted 1 edit by [[Special:Contributions/2405:205:C92F:6C2F:0:0:2957:E8A4|2405:205:C92F:6C2F:0:0:2957:E8A4]] ([[User talk:2405:205:C92F:6C2F:0:0:2957:E8A4|talk]]) to last revision by 4TheWynne. ([[WP:TW|TW]])
+2018-09-10T22:22:33+00:00,858980056,858909206,0,Endrias Kassa,The Fate of the Furious,
+2018-10-09T21:38:12+00:00,863293599,863089207,0,Docktorson,The Favourite,"I changed the music by because there is no composer. The Sound Designer, however, was Johnnie Burn: http://press.foxsearchlight.com/favourite/"
+2018-09-18T16:21:44+00:00,860143518,859793281,0,Olivermoviefan,The Favourite,/* Film Review*/
+2018-08-31T05:52:59+00:00,857363259,857363187,0,124.177.235.214,The Hate U Give (film),
+2018-10-22T11:25:42+00:00,865195173,865153510,0,TropicAces,The Hate U Give (film),Sourced in Reception section
+2018-09-25T01:52:37+00:00,861094195,860267638,0,Sammylovesyouxx,The Hate U Give (film),
+2018-09-02T19:52:55+00:00,857751369,857726402,0,108.14.253.162,The Hate U Give (film),/* Plot */
+2018-10-22T17:22:48+00:00,865240705,865195173,0,Briaboru,The Hate U Give (film),
+2018-09-03T05:21:56+00:00,857812401,857778890,0,ANode,The Prestige (film),Previous wording better
+2018-10-17T14:02:18+00:00,864479949,864416012,0,TheOldJacobite,The Prestige (film),Reverted to revision 862871912 by [[Special:Contributions/Let There Be Sunshine|Let There Be Sunshine]] ([[User talk:Let There Be Sunshine|talk]]): Unnecessary details. ([[WP:TW|TW]])
+2018-09-01T18:43:30+00:00,857594861,857594409,0,Emilia I. Fernandez,The Wolverine (film),
+2018-10-22T14:20:13+00:00,865214690,864992991,0,Bong009,The Wolverine (film),/* Cast */
+2018-08-08T19:06:15+00:00,854068569,849101789,0,Cotkuch,Timeline (2003 film),/* Plot */ spelling correction on de Vannes
+2018-10-11T20:32:25+00:00,863602922,857934538,0,199.227.113.11,Varsity Blues (film),/* Legal issues */
+2018-09-03T02:25:24+00:00,857796780,852954946,0,Memel17,Voice from the Stone,
+2018-10-01T14:08:56+00:00,861996575,861677124,0,MarnetteD,Witness (1985 film),Categoary has been deleted per consensus at TFD
+2018-08-30T11:57:52+00:00,857232714,857231184,0,Kintetsubuffalo,X-Men: First Class,last clean edit
+2018-10-15T01:34:10+00:00,864090257,864037860,0,2600:1012:B11C:2423:4449:9993:6A41:BE83,X-Men: First Class,/* Plot */
+2018-09-12T08:06:21+00:00,859178860,859011519,0,2A00:23C5:C386:EF00:1075:BAD5:1D40:EBD5,X-Men: First Class,/* Cast */ she was credited as 'older mystique' on imdb
+2018-09-12T19:35:00+00:00,859248554,859234001,0,AnomieBOT,Witness (1985 film),Dating maintenance tags: {{Citation needed}}
+2018-09-27T18:54:15+00:00,861481159,860655972,0,2600:1:91A1:FCFF:0:67:9B2F:4F01,X-Men: First Class,
+2018-09-29T13:40:45+00:00,861715581,861715547,0,79.46.164.110,X-Men: First Class,
+2018-09-08T04:03:47+00:00,858571707,858395106,0,103.205.135.86,X2 (film),/* External links */
+2018-10-05T05:50:31+00:00,862563602,862562389,0,189.213.100.237,X2 (film),
+2018-08-30T19:13:24+00:00,857286044,857264678,0,力,Ant-Man (film),Reverted 1 pending edit by [[Special:Contributions/2601:249:8300:62B1:984A:A4C3:1BF6:3B4B|2601:249:8300:62B1:984A:A4C3:1BF6:3B4B]] to revision 857261526 by SassyCollins: not Wasp in this film
+2018-06-07T17:32:54+00:00,844861683,844860875,0,Donmike10,Above Suspicion (2019 film),/* Production */
+2017-09-14T11:48:28+00:00,800576842,800576721,0,115.134.2.147,2 Fast 2 Furious,
+2018-01-14T10:37:38+00:00,820375289,819811284,0,46.99.58.130,Brick Mansions,
+2017-08-21T08:52:39+00:00,796504866,796273545,0,KolbertBot,2 Fast 2 Furious,Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]
+2018-08-08T13:18:37+00:00,854026187,854022310,0,Tvurta,Avengers: Infinity War,/* Cast */
+2018-04-05T19:48:29+00:00,834446655,834249711,0,GünniX,Brick Mansions,v1.43 - [[WP:WCW]] project (Template without correct beginning - Reference before punctuation)
+2018-01-31T18:59:45+00:00,823350492,823273751,0,Favre1fan93,Ant-Man (film),Undid revision 823273751 by [[Special:Contributions/Kbatra97|Kbatra97]] ([[User talk:Kbatra97|talk]]) where's your source?
+2018-01-14T11:58:46+00:00,820382897,820186566,0,John of Reading,Ant-Man (film),"Typo/[[WP:AWB/GF|general]] fixes, replaced: into to → into using [[Project:AWB|AWB]]"
+2018-02-09T15:35:53+00:00,824798951,824547358,0,Alaney2k,2 Fast 2 Furious,"per template:cite, updated publisher= cite params for websites using [[Project:AWB|AWB]]"
+2018-08-11T11:12:42+00:00,854442039,854353094,0,Qäsee,2 Fast 2 Furious,
+2018-07-25T23:25:42+00:00,851999650,851998625,0,ATaffee,Brick Mansions,"external link labeling, biblio data, budget correction, reference formatting, biblio data, capitalization, link"
+2017-10-02T15:33:58+00:00,803443283,800576842,0,JalenFolf,2 Fast 2 Furious,clean up using [[Project:AWB|AWB]]
+2017-09-04T19:25:55+00:00,798950714,798946235,0,Braves404,2 Fast 2 Furious,/* External links */ Who said it's from 2004
+2017-11-13T01:55:09+00:00,810046330,809736121,0,Dlogronios,Avengers: Infinity War,/* Cast */
+2018-04-24T03:01:58+00:00,837967098,837934064,0,Favre1fan93,Ant-Man (film),"Undid revision 837831005 by [[Special:Contributions/Babar Suhail|Babar Suhail]] ([[User talk:Babar Suhail|talk]]) per pg 21 of the pdf source, it shows the most representative number for the film's budget, when accounting tax incentives, supersceding the $130m number from earlier in the document"
+2018-07-25T01:22:29+00:00,851853885,851853860,0,ClueBot NG,Avengers: Infinity War,"Reverting possible vandalism by [[Special:Contribs/99.192.32.46|99.192.32.46]] to version by PrimeHunter. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3434140) (Bot)"
+2018-06-20T10:47:40+00:00,846698769,846697816,0,46.19.86.93,Avengers: Infinity War,
+2018-03-29T17:22:43+00:00,833098635,825385878,0,99.196.149.30,Cowboys & Aliens,
+2017-09-23T22:43:26+00:00,802087729,798877459,0,Bilsonius,Cowboys & Aliens,/* Plot */
+2018-08-24T18:28:04+00:00,856368703,856368115,0,Favre1fan93,Captain America: The First Avenger,Reverted 1 edit by [[Special:Contributions/Ben29oak|Ben29oak]] ([[User talk:Ben29oak|talk]]): No it wasn't. ([[WP:TW|TW]])
+2017-08-15T13:56:01+00:00,795632988,786529227,0,AonRaza,Colonia (film),/* Cast */
+2017-12-08T22:10:59+00:00,814449569,814446535,0,Kante4,Cristiano Ronaldo,Reverted to revision 814444038 by [[Special:Contributions/Nitro7Ronaldo7|Nitro7Ronaldo7]] ([[User talk:Nitro7Ronaldo7|talk]]): Wiki is not a source. ([[WP:TW|TW]])
+2018-08-15T10:31:57+00:00,855016700,855016573,0,Arjayay,Captain America: The First Avenger,Reverted edits by [[Special:Contribs/47.29.211.154|47.29.211.154]] ([[User talk:47.29.211.154|talk]]) to last version by Favre1fan93
+2018-01-25T18:01:32+00:00,822317187,822315597,0,DinoSlider,Captain America: The First Avenger,titles like Colonel and Doctor are not needed in the cast list
+2017-10-31T05:32:45+00:00,807986233,807985973,0,Thnidu,Cowboys & Aliens,/* Cast */ link
+2017-12-04T07:15:41+00:00,813598722,809862847,0,Twilight Magic,Cowboys & Aliens,removed [[Category:Science fiction Westerns]]; added [[Category:Western (genre) science fiction films]] using [[WP:HC|HotCat]]
+2018-01-02T01:41:02+00:00,818176528,813598722,0,Xeracon,Cowboys & Aliens,
+2018-02-06T07:06:20+00:00,824256642,821227649,0,Nicholas0,Brokedown Palace,wording
+2018-05-06T22:37:12+00:00,839972916,839525629,0,Codyave,Cowboys & Aliens,
+2018-09-16T19:35:23+00:00,859860268,859859748,0,Rchard2scout,Captain America: The First Avenger,Replace deprecated {{Cast list break}} with <br />
+2018-08-28T17:29:45+00:00,856964583,856812362,0,MatiW97,Cristiano Ronaldo,/* 2001–07: Youth level and early international career */
+2017-10-25T11:37:17+00:00,807013952,807013893,0,Kante4,Cristiano Ronaldo,/* Honours and achievements */
+2018-06-11T21:01:32+00:00,845444101,845443855,0,Nzd,Cristiano Ronaldo,Reverted 1 edit by [[Special:Contributions/Vmchesters|Vmchesters]] ([[User talk:Vmchesters|talk]]) to last revision by SLBedit. ([[WP:TW|TW]])
+2017-09-23T16:07:14+00:00,802039909,802026715,0,Wolfgang,Cristiano Ronaldo,
+2018-08-01T13:38:14+00:00,852955811,852943606,0,Kailash29792,Dilwale Dulhania Le Jayenge,"Reverted 1 edit by [[Special:Contributions/Radadiyageet|Radadiyageet]] ([[User talk:Radadiyageet|talk]]): We use British English, not American. ([[WP:TW|TW]])"
+2018-03-29T18:10:12+00:00,833105413,833080398,0,Black Kite,Cristiano Ronaldo,"Changed protection level for ""[[Cristiano Ronaldo]]"": Persistent [[WP:Disruptive editing|disruptive editing]]: This is ridiculous.  I could block everyone who is edit-warring, but instead you can all make the case for your edits on the talk page for a month.  ([Edit=Require administrator access] (expires 18:10, 29 April 2018 (UTC)) [Move=Require administrator access] (indefinite))"
+2018-02-20T16:41:39+00:00,826711278,826694896,0,Kailash29792,Dilwale Dulhania Le Jayenge,/* External links */ arrange alphabetically
+2018-10-04T12:51:54+00:00,862448959,862206197,0,Pumpumpump,Cristiano Ronaldo,"/* Controversies */Removed ""threat to sue"" to keep page concise. Putting this ""threat"" in context would detract from conclusion, e.g. Having to note that Der Spiegel noted there were no legal proceedings after the first story, or explaining previous statements in 2017 that had no resulting actions, e.g. vowing to do everything possible to clear Ronaldo's name. Of course if actual legal action were to be taken that would be worth inclusion."
+2018-05-03T00:32:11+00:00,839370045,839186147,0,IAmTylerSanders,Cristiano Ronaldo,/* 2016–present: Post-European Championship victory */
+2018-05-28T06:23:30+00:00,843298146,843292121,0,Kailash29792,Dilwale Dulhania Le Jayenge,/* References */
+2018-02-11T20:00:57+00:00,825152505,825151500,0,TriiipleThreat,Doctor Strange (2016 film),Undid revision 825151500 by [[Special:Contributions/74.141.114.58|74.141.114.58]] ([[User talk:74.141.114.58|talk]])
+2017-12-25T04:32:53+00:00,816976729,816976505,0,You've gone incognito,Crossing Over (film),/* Plot */ hatnote template
+2018-09-08T04:44:49+00:00,858575243,858482338,0,Favre1fan93,Doctor Strange (2016 film),
+2018-01-21T13:44:01+00:00,821600508,821600496,0,ClueBot NG,Doctor Strange (2016 film),"Reverting possible vandalism by [[Special:Contribs/2A02:C7F:6039:2D00:E5CE:2204:BA8A:AC77|2A02:C7F:6039:2D00:E5CE:2204:BA8A:AC77]] to version by 207.172.180.75. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3255156) (Bot)"
+2017-09-09T13:30:15+00:00,799725396,799628562,0,Derek R Bullamore,Crossing Over (film),Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2017-12-06T19:12:40+00:00,814072183,814064716,0,DinoSlider,Doctor Strange (2016 film),Undid revision 814064716 by [[Special:Contributions/91.140.179.106|91.140.179.106]] ([[User talk:91.140.179.106|talk]]) per [[WP:EGG]]
+2017-08-25T17:36:41+00:00,797220145,797220093,0,60.241.79.246,Dom Hemingway,
+2018-03-11T20:28:47+00:00,829951853,828342840,0,PlanetDeadwing,Eight Below,
+2018-03-16T16:59:29+00:00,830736990,830736953,0,ToBeFree,Eight Below,Reverted edits by [[Special:Contributions/86.13.115.228|86.13.115.228]] ([[User talk:86.13.115.228|talk]]) ([[WP:HG|HG]]) (3.3.3)
+2017-11-03T02:32:40+00:00,808475321,808462051,0,Favre1fan93,Doctor Strange (2016 film),Reverted to revision 808315443 by [[Special:Contributions/Adamstom.97|Adamstom.97]] ([[User talk:Adamstom.97|talk]]): Not really a confirmation or adds anything new that we didn't know previously. ([[WP:TW|TW]])
+2017-11-10T21:26:21+00:00,809703572,809457297,0,J 1982,Emilia Clarke,
+2018-08-13T19:15:17+00:00,854784992,854750048,0,Megnmn,Emilia Clarke,/* Career */ Mentioned Clarke's recurring nudity requirements in Game of Thrones and her response to the criticism
+2018-07-08T12:08:12+00:00,849353757,849352692,0,Alpha19.1,Exodus: Gods and Kings,/* Plot */
+2017-10-21T13:13:37+00:00,806352613,805875146,0,Obi-WanKenobi-2005,Emilia Clarke,Updated link.
+2018-10-04T19:18:51+00:00,862496628,862496567,0,7&6=thirteen,Emilia Clarke,Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2017-08-26T23:41:26+00:00,797422000,797338517,0,Bellerophon5685,Fast & Furious,/* External links */
+2017-10-25T23:45:23+00:00,807110392,805363465,0,Freeknowledgecreator,Doctor Strange (2016 film),/* Plot */  ce
+2017-10-15T14:20:49+00:00,805453100,805453094,0,ClueBot NG,Emilia Clarke,"Reverting possible vandalism by [[Special:Contribs/183.171.77.224|183.171.77.224]] to version by Betorfs. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3156020) (Bot)"
+2018-01-13T20:27:40+00:00,820232474,820211634,0,The Optimistic One,Emilia Clarke,/* Film */
+2018-08-19T03:18:47+00:00,855546820,854784992,0,All Hallow's Wraith,Emilia Clarke,/* Early life and family */ ce
+2017-10-29T09:01:07+00:00,807651404,802538757,0,46.224.252.145,Exodus: Gods and Kings,
+2018-05-15T05:38:56+00:00,841331050,841330974,0,115.164.72.164,Fast & Furious (2009 film),
+2017-09-05T18:51:47+00:00,799116470,798646213,0,Robcuiper,Fast & Furious,
+2017-12-31T20:56:47+00:00,817989547,817983104,0,Eturner112,Fast & Furious,/* Fast &amp; Furious Live */
+2018-06-07T18:04:19+00:00,844865531,843464540,0,Alaney2k,Fast & Furious 6,"/* Accolades */publisher = > work per template:cite, replaced: publisher=[[Variety (magazine)|Variety]] → work=[[Variety (magazine)|Variety]] using [[Project:AWB|AWB]]"
+2018-01-12T00:57:06+00:00,819917243,816807277,0,173.18.57.141,Fast & Furious (2009 film),/* Box office */This was stupid to begin with but Cars 2 and Cars 3 also passed it so it's also false. 9th place for an obscure sungenre is NOT worth mentioning
+2017-11-27T05:41:02+00:00,812313718,804190113,0,Cydebot,Firewall (film),Robot - Moving category Film scores by Alexandre Desplat‎ to [[:Category:Films scored by Alexandre Desplat‎]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 November 4]].
+2017-08-27T07:00:55+00:00,797468144,796428046,0,KolbertBot,Fast Five,Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]
+2018-10-09T04:41:04+00:00,863175598,862878884,0,Smasongarrison,Frantic (film),"copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]; [[Template:Citation_Style_documentation#url|url trimming]] of identifying info per [[WP:LINKSTOAVOID]],"
+2018-09-30T03:03:31+00:00,861798665,861777165,0,Martin IIIa,Firewall (film),/* Plot */
+2017-12-07T17:10:42+00:00,814241729,811967359,0,KolbertBot,Fast & Furious 6,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v478)
+2018-05-02T11:14:14+00:00,839273121,838633211,0,Coolharrypotter,Furious 7,/* Unauthorized distribution */
+2018-10-03T23:53:28+00:00,862374433,858819837,0,2804:431:D72D:7DFF:3D90:9254:A304:3127,Fast & Furious (2009 film),Michael K Ross is not a producer of the film.
+2017-11-27T08:07:09+00:00,812336644,812235594,0,Cydebot,Fast & Furious (2009 film),Robot - Moving category Film scores by Brian Tyler‎ to [[:Category:Films scored by Brian Tyler‎]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 November 4]].
+2018-03-29T22:34:07+00:00,833147788,833147767,0,TheFastandtheMichaelPaul,Furious 7,
+2018-06-07T19:10:18+00:00,844872988,844784402,0,Alaney2k,Furious 7,"/* Cast */publisher = > work per template:cite, replaced: publisher=Variety → work=Variety using [[Project:AWB|AWB]]"
+2017-10-20T20:41:38+00:00,806263480,805817671,0,86.166.7.125,Furious 7,/* Plot */
+2018-01-03T17:59:26+00:00,818458822,817972519,0,Spanneraol,Guardians of the Galaxy (film),/* Accolades */
+2018-07-29T20:16:44+00:00,852555732,852555370,0,Emir of Wikipedia,Guardians of the Galaxy (film),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Neilverma|Neilverma]] ([[User talk:Neilverma|talk]]): Why? ([[WP:TW|TW]])
+2018-03-12T10:39:28+00:00,830037876,830035473,0,XLinkBot,Guardians of the Galaxy (film),BOT--Reverting link addition(s) by [[:en:Special:Contributions/42.110.128.76|42.110.128.76]] to revision 829847453 (http://grootpizza.blogspot.in [\bblog(?:cu|fa|harbor|mybrain|post|savy|spot|townhall)?\.(com|in)\b])
+2017-11-01T15:45:49+00:00,808215446,808172462,0,ScrapIronIV,Harrison Ford filmography,Unsourced and speculative
+2018-04-23T03:34:30+00:00,837801738,837661284,0,Favre1fan93,Guardians of the Galaxy (film),
+2018-07-22T09:22:20+00:00,851442370,850538193,0,All Hallow's Wraith,Harrison Ford filmography,/* Film */
+2017-08-28T21:17:22+00:00,797730773,797730423,0,Metaldragon13,Harrison Ford filmography,/* Film */
+2017-10-26T15:28:44+00:00,807203514,807203000,0,Captain Assassin!,Hobbs & Shaw,cast added
+2018-09-16T20:47:55+00:00,859869380,859679705,0,60.52.69.241,Hobbs & Shaw,
+2018-08-03T13:12:33+00:00,853255591,849061024,0,92.21.62.194,Hobbs & Shaw,/* Cast */
+2017-11-21T04:01:41+00:00,811364065,811239831,0,2600:1700:2CC0:DAC0:5C8:EAD3:822:7874,Indiana Jones and the Kingdom of the Crystal Skull,/* Critical reception */
+2018-06-10T15:21:14+00:00,845258140,845258127,0,ClueBot NG,Indiana Jones and the Last Crusade,"Reverting possible vandalism by [[Special:Contribs/2406:B400:A3:0:0:0:1:DF3D|2406:B400:A3:0:0:0:1:DF3D]] to version by TheOldJacobite. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3404666) (Bot)"
+2017-08-20T19:19:35+00:00,796426170,794906870,0,47.158.17.93,Indiana Jones and the Kingdom of the Crystal Skull,
+2018-03-03T17:16:34+00:00,828609987,828609806,0,Mutante96,Hobbs & Shaw,
+2018-07-12T10:07:43+00:00,849924140,849023341,0,Alexandervonweimann,Indiana Jones and the Last Crusade,/* Plot */
+2018-04-02T10:06:58+00:00,833767591,833767161,0,Sudiani,Indiana Jones and the Last Crusade,/* Box office */ Clarify that $100 million was a new speed record
+2017-08-21T08:46:22+00:00,796504345,796503903,0,110.55.233.39,Indiana Jones and the Last Crusade,
+2018-06-24T22:10:35+00:00,847375202,847080445,0,Mahjong705,Indiana Jones and the Temple of Doom,/* Plot */
+2018-03-21T11:58:29+00:00,831607080,830646304,0,ApprenticeFan,Indiana Jones and the Temple of Doom,/* Filming */
+2018-05-10T22:04:33+00:00,840599952,840527090,0,JDDJS,Iron Man 3,/* External links */No mention of performance capture in article
+2018-07-24T10:05:22+00:00,851746726,851490123,0,Colonies Chris,Iron Man 3,
+2017-12-30T18:41:07+00:00,817809202,817792734,0,Deli nk,Iron Man 3,Undid revision 817792734 by [[Special:Contributions/89.134.199.213|89.134.199.213]] ([[User talk:89.134.199.213|talk]])
+2017-10-02T00:42:05+00:00,803354085,803348187,0,DinoSlider,Iron Man 3,"peak, not current"
+2018-04-20T17:32:12+00:00,837413269,837270491,0,OWSLAjosh666,Joy Ride (2001 film),
+2018-06-15T16:38:07+00:00,846004077,845979606,0,106.207.13.216,Jab Harry Met Sejal,
+2018-10-23T19:07:07+00:00,865405265,865404806,0,The Unknown Horror From the Ocean Depths,Jurassic World: Fallen Kingdom,
+2018-05-15T16:17:35+00:00,841398782,841249254,0,B41305,Joy Ride (2001 film),Minor changes. None bad or big.
+2018-09-07T06:38:48+00:00,858443109,858394816,0,Augustinherrera,Jurassic World: Fallen Kingdom,
+2018-07-30T10:25:24+00:00,852636306,852636295,0,CambridgeBayWeather,Jurassic World: Fallen Kingdom,Adding {{pp-protected}} ([[WP:TW|TW]])
+2018-03-11T21:10:14+00:00,829957076,829944087,0,Anon e Mouse Jr.,Jurassic World: Fallen Kingdom,Dinosaur lists for Jurassic Park have their own page. NOT the individual film pages.
+2017-08-21T14:35:15+00:00,796537676,796174923,0,2A02:C7D:4298:AB00:8D54:A9A3:95B5:E3DD,Jurassic World: Fallen Kingdom,
+2017-11-14T03:13:43+00:00,810241358,810240996,0,Flyer22 Frozen,Jurassic World: Fallen Kingdom,Reverted 1 edit by [[Special:Contributions/24.178.21.228|24.178.21.228]] identified as test/vandalism using [[WP:STiki|STiki]]
+2018-06-11T04:07:55+00:00,845339671,845339147,0,65.34.82.228,Jurassic World: Fallen Kingdom,/* Cast */
+2018-10-11T18:25:09+00:00,863585492,863214765,0,Krimuk2.0,Kabhi Alvida Naa Kehna,restore order
+2018-07-06T17:42:00+00:00,849121723,849121651,0,2A02:C7D:E2DE:2600:449B:AB4D:7BA:B551,Kabhi Alvida Naa Kehna,
+2018-04-07T12:22:47+00:00,835234571,835138927,0,Onel5969,Kabhi Alvida Naa Kehna,Disambiguating links to [[R rating]] (link changed to [[Motion Picture Association of America film rating system]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-09-05T03:46:42+00:00,799013415,799011962,0,Cyphoidbomb,Kabhi Alvida Naa Kehna,Unclear what this means
+2018-02-04T23:33:49+00:00,824039244,824039110,0,Cyphoidbomb,Kabhi Alvida Naa Kehna,Cleaning up lead
+2017-09-25T15:09:35+00:00,802339077,799013415,0,2402:8100:3012:3B1C:D53F:7896:13A2:39D5,Kabhi Alvida Naa Kehna,
+2018-10-19T10:09:15+00:00,864767851,864163613,0,2401:4900:1805:F29E:B8F3:E778:7923:DE13,Kabhi Alvida Naa Kehna,
+2018-07-20T12:08:01+00:00,851150838,849121723,0,103.28.150.133,Kabhi Alvida Naa Kehna,/* Cast */
+2017-10-22T18:41:12+00:00,806545420,805184679,0,Krimuk2.0,Kabhi Khushi Kabhie Gham...,
+2018-06-20T04:30:08+00:00,846661425,846661388,0,HickoryOughtShirt?4,Kabhi Khushi Kabhie Gham...,Reverted 1 edit by [[Special:Contributions/MasterDawson|MasterDawson]] ([[User talk:MasterDawson|talk]]) to last revision by ClueBot NG. ([[WP:TW|TW]])
+2018-08-09T07:07:48+00:00,854140914,852397768,0,2405:205:2226:D03F:C1F3:A7C2:A981:D7C0,Kabhi Khushi Kabhie Gham...,/* Plot */Fixed typo
+2018-03-27T11:32:11+00:00,832678606,832512770,0,Materialscientist,Kabhi Khushi Kabhie Gham...,Reverted edits by [[Special:Contribs/Shaista786110|Shaista786110]] ([[User talk:Shaista786110|talk]]) to last version by Bearcat
+2018-04-23T12:34:03+00:00,837852735,837710478,0,49.205.37.143,Logan (film),/* Cast */Fixed typo
+2018-04-22T15:05:04+00:00,837710478,837701720,0,Gabe1972,Logan (film),/* Filming */ Spacing and grammar.
+2017-12-31T02:36:01+00:00,817876040,812108084,0,60.52.69.34,Los Bandoleros (film),
+2018-01-18T09:55:50+00:00,821093654,817876040,0,115.133.122.95,Los Bandoleros (film),
+2018-06-18T05:16:18+00:00,846348830,846221514,0,Kailash29792,Logan (film),clean up using [[Project:AWB|AWB]]
+2017-12-12T01:13:57+00:00,814981783,813183573,0,KolbertBot,Meet the Deedles,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v478)
+2018-07-09T18:49:33+00:00,849545369,849499790,0,Geraldo Perez,Meet the Deedles,Reverted edits by [[Special:Contribs/24.159.60.138|24.159.60.138]] ([[User talk:24.159.60.138|talk]]) to last version by Shellwood
+2018-07-23T06:25:32+00:00,851573260,846688298,0,Gothicfilm,My Week with Marilyn,/* Cast */ {{div col}}
+2017-12-09T02:48:11+00:00,814484989,812323154,0,KolbertBot,Paranoia (2013 film),Bot: [[User:KolbertBot|HTTP→HTTPS]] (v478)
+2017-07-26T15:56:43+00:00,792449529,792449201,0,Jax 0677,Paranoia (2013 film),Undid revision 792449201 by [[Special:Contributions/Jax 0677|Jax 0677]] ([[User talk:Jax 0677|talk]])
+2018-02-09T22:25:21+00:00,824853679,824335534,0,InternetArchiveBot,My Week with Marilyn,Rescuing 8 sources and tagging 2 as dead. #IABot (v1.6.2)
+2017-11-27T07:14:22+00:00,812328730,809841929,0,Cydebot,Pleasantville (film),Robot - Moving category Film scores by Randy Newman‎ to [[:Category:Films scored by Randy Newman‎]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 November 4]].
+2017-11-11T20:08:17+00:00,809841929,809836577,0,100.11.125.127,Pleasantville (film),Undid revision 809836577 by [[Special:Contributions/Dfp3601|Dfp3601]] ([[User talk:Dfp3601|talk]])
+2017-12-08T22:17:43+00:00,814450763,814329086,0,147.147.66.132,Raiders of the Lost Ark,/* Plot */
+2018-02-09T07:59:03+00:00,824753724,814963366,0,Huangdi,Regression (film),/* Reception */ updated
+2018-02-02T19:31:54+00:00,823683969,823188857,0,Rodericksilly,Raiders of the Lost Ark,/* Impact */ ce
+2018-05-15T01:51:38+00:00,841308268,839445344,0,DeprecatedFixerBot,Regression (film),"Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of ""cols"" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))"
+2018-01-24T03:02:38+00:00,822050516,822050367,0,ExVsSever,Raiders of the Lost Ark,
+2018-01-03T23:33:37+00:00,818506507,818506395,0,Metiscus,Raiders of the Lost Ark,Reverted 1 edit by [[Special:Contributions/GloriousBeast|GloriousBeast]] ([[User talk:GloriousBeast|talk]]). ([[WP:TW|TW]])
+2017-09-24T04:23:41+00:00,802126219,801056741,0,Cydebot,Return of the Jedi,Robot - Moving category Elstree Studios films to [[:Category:Films shot at Elstree Studios]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 September 15]].
+2018-03-14T16:41:24+00:00,830404475,825498169,0,SubZeroSilver,Return of the Jedi,/* Plot */
+2018-04-04T13:32:59+00:00,834203563,830404475,0,KolbertBot,Return of the Jedi,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2018-06-16T01:50:07+00:00,846064401,845664366,0,BuckyWinterWhiteWolfSoldier,Rogue One,/* Critical response */
+2017-10-12T19:38:08+00:00,805055381,804294194,0,Ellin Beltz,Return of the Jedi,/* Filming */ citation
+2018-05-13T17:23:22+00:00,841034897,840529471,0,108.206.145.38,Rogue One,/* Cast */
+2018-06-30T11:09:41+00:00,848198293,848131823,0,Arjayay,Rogue One,Sp
+2017-11-18T15:52:48+00:00,810956330,810934808,0,174.131.252.167,Rogue One,/* Music */
+2018-10-16T20:28:47+00:00,864377456,864347355,0,79.169.210.135,Rogue One,
+2017-09-11T02:02:24+00:00,800000604,784434789,0,KolbertBot,Ronaldo (film),Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2017-09-05T02:40:53+00:00,799005719,798992570,0,Pencilsharper,Running Scared (2006 film),/* External links */
+2017-11-27T05:32:41+00:00,812312402,807057061,0,Cydebot,She's All That,Robot - Moving category Film scores by Stewart Copeland‎ to [[:Category:Films scored by Stewart Copeland‎]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 November 4]].
+2018-02-15T19:29:05+00:00,825845985,823846791,0,2600:387:8:11:0:0:0:87,Running Scared (2006 film),/* Critical response */Update RT.
+2017-09-30T14:52:47+00:00,803112745,803112468,0,Oknazevad,Solo: A Star Wars Story,Undid revision 803112468 by [[Special:Contributions/2A02:C7D:4298:AB00:C8A2:5A51:EAB0:E725]]
+2018-01-26T00:09:00+00:00,822370784,820167929,0,Septegram,"Six Days, Seven Nights","/* Plot */ Minor changes for clarity, esp. changing ""in"" to ""on"" for islands."
+2017-06-25T19:22:06+00:00,787500008,762515382,0,Dimadick,"Six Days, Seven Nights",/* External links */
+2017-12-23T14:43:58+00:00,816766242,816764411,0,Oknazevad,Solo: A Star Wars Story,High. Protection expires and the nonsense already begins!
+2018-04-23T03:50:46+00:00,837803174,837744896,0,Favre1fan93,Solo: A Star Wars Story,"small formatting, and removed [[WP:TRIVIA]]"
+2017-08-20T13:16:18+00:00,796382736,796366567,0,TenTonParasol,Solo: A Star Wars Story,"Reverted to revision 796331920 by [[Special:Contributions/Trivialist|Trivialist]] ([[User talk:Trivialist|talk]]): As usual, is there a source to say that Ron Howard's production company joined the project with him? ([[WP:TW|TW]])"
+2017-10-03T02:32:36+00:00,803534041,803112745,0,Trivialist,Solo: A Star Wars Story,copyedit
+2018-01-02T21:34:26+00:00,818317367,818241989,0,AdamDeanHall,Star Wars,That line is supposed to be needed!
+2018-04-16T19:25:12+00:00,836773200,836765703,0,Fnlayson,Solo: A Star Wars Story,Partial revert unsourced add by [[Special:Contributions/JPCM2000|JPCM2000]] ([[User talk:JPCM2000|talk]]). Move new text after refs and tag.
+2017-11-27T07:24:59+00:00,812330414,812252332,0,Cydebot,Solo: A Star Wars Story,Robot - Moving category Film scores by John Powell‎ to [[:Category:Films scored by John Powell‎]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 November 4]].
+2017-11-20T00:44:13+00:00,811178983,811172045,0,AdamDeanHall,Star Wars,Changed back to the Variety article.
+2018-01-08T18:19:16+00:00,819316368,818901780,0,Y2kcrazyjoker4,Star Wars,
+2018-07-11T19:46:59+00:00,849847169,849846429,0,DisneyMetalhead,Star Wars,/* A New Hope */ removing trivial/fanboy service information
+2018-04-27T16:50:53+00:00,838536119,838481174,0,Rosvel92,Star Wars,/* Television */
+2017-09-13T00:14:58+00:00,800348090,800318706,0,Oknazevad,Star Wars,/* Theatrical films */ Removing this for the same reason I removed it on the list article: there's just not enough known for the entry here.
+2018-01-18T14:42:40+00:00,821120863,821078688,0,TenTonParasol,Star Wars,Reverted 17 edits by [[Special:Contributions/Gavinmccalmont|Gavinmccalmont]] ([[User talk:Gavinmccalmont|talk]]): A cast table was earlier removed by consensus. ([[WP:TW|TW]])
+2018-04-11T02:45:28+00:00,835840523,835472023,0,Rosvel92,Star Wars,/* Original trilogy */
+2018-06-22T21:02:02+00:00,847087782,847087116,0,R9tgokunks,Star Wars,"/* Untitled third anthology film */ not ""announced"" nor ""confirmed."" Lucasfilm/Disney haven't announced anything. It's all based on journalistic reports."
+2017-11-04T18:26:21+00:00,808719611,808396007,0,Davemck,Star Wars,/* Setting */ argh!
+2017-12-29T22:28:07+00:00,817677814,817087618,0,KolbertBot,Star Wars (film),Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481)
+2018-07-25T14:55:57+00:00,851937479,851928619,0,TenTonParasol,Star Wars,Reverted 1 edit by [[Special:Contributions/Rosvel92|Rosvel92]] ([[User talk:Rosvel92|talk]]): It isn't in the source listed. Rementioning Kurtz is producing of prev film isn't necessary bc mentioned in prev section. ([[WP:TW|TW]])
+2017-10-26T19:19:50+00:00,807236703,807091628,0,BuckyWinterWhiteWolfSoldier,Star Wars: The Force Awakens,/* Critical response */
+2018-10-27T09:01:46+00:00,865958604,865958549,0,Entranced98,Star Wars (film),Reverted edits by [[Special:Contribs/2A02:FE1:8080:7B00:2D4B:FB71:BAAE:F4AB|2A02:FE1:8080:7B00:2D4B:FB71:BAAE:F4AB]] ([[User talk:2A02:FE1:8080:7B00:2D4B:FB71:BAAE:F4AB|talk]]) to last version by Tajotep
+2017-09-16T00:30:56+00:00,800839527,800683526,0,MrAutocorrect,Star Wars,/* Future */Fixed Obi-Wans name
+2018-04-06T06:26:44+00:00,834534531,834534374,0,Scarhead,Star Wars (film),"/* Cast */ C3PO: change from speak 6 million languages to ""fluent in over six million forms of communication"""
+2017-12-23T07:20:15+00:00,816726677,816725926,0,Granzymes,Star Wars: The Force Awakens,Reverting false positive - deleted words are to tighten language.
+2018-08-02T01:52:07+00:00,853042857,852999958,0,Favre1fan93,Star Wars: The Force Awakens,[[WP:EGG]]
+2017-10-18T01:14:23+00:00,805850209,805850155,0,Adam9007,Star Wars: The Force Awakens,Reverted edits by [[Special:Contributions/172.58.6.135|172.58.6.135]] ([[User talk:172.58.6.135|talk]]) ([[WP:HG|HG]]) (3.3.1)
+2017-10-01T20:57:46+00:00,803328752,803324785,0,PrimeHunter,Star Wars: The Force Awakens,"Undid revision 803324785 by [[Special:Contributions/148.75.117.38|148.75.117.38]] ([[User talk:148.75.117.38|talk]]). Don't contradict the given inline source, if the source may be wrong then replace it"
+2018-01-13T07:24:13+00:00,820137749,819798051,0,InternetArchiveBot,Star Wars: The Force Awakens,Rescuing 0 sources and tagging 1 as dead. #IABot (v1.6.1) ([[User:Ost316|Ost316]])
+2018-04-21T23:45:51+00:00,837620308,837616930,0,PrimeHunter,Star Wars: The Force Awakens,"Undid revision 837616930 by [[Special:Contributions/TropicAces|TropicAces]] ([[User talk:TropicAces|talk]]). A 50% record increase of [[List of most expensive films]] would require [[WP:EXCEPTIONAL]] sourcing, not interpretation of a single source going against all others"
+2017-12-09T05:09:19+00:00,814500416,814262139,0,108.29.178.110,Star Wars: The Force Awakens,"/* Plot */  ""reticent"" --> ""reluctant"" Finn is the latter, not particularly the former."
+2017-10-31T23:15:20+00:00,808111940,807696910,0,95.93.194.214,Star Wars: The Force Awakens,
+2018-05-10T20:48:29+00:00,840589410,840417792,0,PrimeBOT,Star Wars: The Last Jedi,/* top */[[User:PrimeBOT/24|Task 24]] - replace template usage following [[Wikipedia:Templates for discussion/Log/2018 February 19|a TFD]]
+2018-01-11T01:24:32+00:00,819744247,819705242,0,Flemingdon,Star Wars: The Last Jedi,/* Critical response */ Italics for ''[[The Guardian]]''.
+2018-05-11T00:06:45+00:00,840612745,840599795,0,Chompy Ace,Star Wars: The Last Jedi,Add hide notes in which the peak position is not current
+2018-08-23T17:44:58+00:00,856216805,856191074,0,Zabboo,Star Wars: The Last Jedi,
+2018-09-04T00:42:09+00:00,857937678,857937513,0,Curly Turkey,Star Wars: The Last Jedi,/* Critical reception */
+2018-10-03T21:35:00+00:00,862357352,862356897,0,Alaney2k,Star Wars: The Last Jedi,/* Critical response */ add name to cite
+2017-12-24T16:25:45+00:00,816911605,816911263,0,SlashFox14,Star Wars: The Last Jedi,/* Box office */
+2018-05-01T10:08:14+00:00,839112386,839104779,0,Antinoos69,Star Wars: The Last Jedi,"Undid revision 839104779 by [[Special:Contributions/Lenoir9898|Lenoir9898]] ([[User talk:Lenoir9898|talk]]) This point, however, is not mentioned in the body."
+2018-09-10T08:25:09+00:00,858885579,858795736,0,Chompy Ace,Star Wars: The Last Jedi,/* Plot */
+2017-09-15T13:10:07+00:00,800752737,792664001,0,KolbertBot,Takers,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2018-04-09T10:55:42+00:00,835548542,835546296,0,TheRedundancy125,Terminator Genisys,/* Plot */
+2017-12-17T20:09:14+00:00,815879190,814741148,0,Lugnuts,Terminator Genisys,
+2018-02-02T20:48:58+00:00,823694879,823272544,0,MonsterHunter32,Terminator Genisys,"/* Canceled sequel and reboot */Fan sites should be avoided, not reliable."
+2018-07-30T00:21:00+00:00,852582308,852290216,0,103.205.135.84,Terminator Genisys,/* External links */
+2018-03-31T20:20:59+00:00,833479487,833397024,0,InternetArchiveBot,Terminator Salvation,Rescuing 7 sources and tagging 3 as dead. #IABot (v1.6.5) ([[User:Feminist|Feminist]])
+2018-05-12T09:30:31+00:00,840812383,840750867,0,115.135.162.79,Terminator Salvation,
+2017-12-03T06:26:59+00:00,813351969,813327532,0,Joeyconnick,Terminator Salvation,formatting
+2018-01-15T12:08:51+00:00,820574530,820480061,0,Arado,Terminator Salvation,/* Design and special effects */
+2017-09-02T23:24:49+00:00,798620070,798129637,0,64.113.172.100,The Amazing Spider-Man (film),/* Cast and characters */  Fixed content
+2018-05-17T21:14:40+00:00,841757200,841455032,0,50.115.194.122,The Amazing Spider-Man (film),/* Sequels and reboot */
+2018-03-07T05:28:32+00:00,829195961,829195867,0,Tenebrae,The Amazing Spider-Man 2,"/* Plot */ rvt plot bloat and restored to last version 700 words or less as per [[WP:FILMPLOT]]. Please read the note beneath ""Plot"" before editing."
+2018-02-05T18:01:55+00:00,824161920,824161662,0,TriiipleThreat,The Avengers (2012 film),Reverted edits by [[Special:Contribs/Scriptboy12|Scriptboy12]] ([[User talk:Scriptboy12|talk]]) to last version by Emir of Wikipedia
+2018-06-10T22:36:47+00:00,845307204,844898329,0,Cydebot,The Avengers (2012 film),Robot - Moving category Performance capture in film to [[:Category:Motion capture in film]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 May 14]].
+2018-10-21T14:50:41+00:00,865070923,865070417,0,Daiyusha,The Amazing Spider-Man 2,Reverted 1 edit by [[Special:Contributions/179.38.249.0|179.38.249.0]] ([[User talk:179.38.249.0|talk]]) to last revision by Carmichael. ([[WP:TW|TW]])
+2018-09-10T03:45:10+00:00,858863743,858863065,0,Angga,The Amazing Spider-Man 2,Reverted 1 pending edit by [[Special:Contributions/Iheiheihe|Iheiheihe]] to revision 858645774 by IceWalrus236: Please read the hidden message.
+2018-07-19T06:10:15+00:00,850971700,849044512,0,Cydebot,The Bling Ring,Robot - Moving category True crime films to [[:Category:Crime films based on actual events]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 June 15]].
+2018-01-19T17:28:15+00:00,821307888,820719129,0,John of Reading,The Bling Ring,"/* Plot */Typo fixing, replaced: into to → into using [[Project:AWB|AWB]]"
+2017-08-14T04:49:44+00:00,795428328,790821492,0,Jim Michael,The Bling Ring,/* External links */
+2017-09-15T22:20:22+00:00,800823573,799637088,0,KolbertBot,The Dark Knight Rises,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2017-10-03T01:30:00+00:00,803525029,803518491,0,Rfl0216,The Empire Strikes Back,Reverted 1 edit by [[Special:Contributions/104.139.6.226|104.139.6.226]] ([[User talk:104.139.6.226|talk]]). ([[WP:TW|TW]])
+2018-06-12T04:29:24+00:00,845493526,845438943,0,LordBlackfyre1331,The Empire Strikes Back,/* Plot */
+2018-03-23T20:38:39+00:00,832097115,831992762,0,Simplexity22,The Empire Strikes Back,/* Effects */[[Special:Permalink/832091367#Requested move 16 March 2018|Post-move cleanup]] using [[Project:AWB|AWB]]
+2018-06-05T14:28:25+00:00,844529944,843636103,0,FrescoBot,The Empire Strikes Back,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2018-01-01T01:15:36+00:00,818019179,814966432,0,60.52.69.198,The Fast and the Furious (2001 film),/* Home video */
+2018-05-08T02:35:15+00:00,840155400,840154987,0,Meters,The Fast and the Furious (2001 film),Undid revision 840154987 by [[Special:Contributions/177.73.97.15|177.73.97.15]] ([[User talk:177.73.97.15|talk]])
+2018-09-26T17:26:19+00:00,861330636,860296879,0,Dolfinz1972,The Fast and the Furious: Tokyo Drift,/* Plot */
+2018-04-29T00:13:17+00:00,838735839,838735645,0,2600:1700:4CA1:25D0:9C7C:13B3:AEEA:3931,The Fast and the Furious: Tokyo Drift,/* Plot */
+2018-03-05T20:44:20+00:00,828963098,828348675,0,60.52.69.15,The Fast and the Furious: Tokyo Drift,
+2018-01-14T07:03:22+00:00,820347041,818650857,0,InternetArchiveBot,The Fast and the Furious: Tokyo Drift,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]])
+2018-06-08T00:25:18+00:00,844905580,844897074,0,BornonJune8,The Fast and the Furious: Tokyo Drift,
+2018-01-26T00:20:55+00:00,822372360,820347041,0,Alaney2k,The Fast and the Furious: Tokyo Drift,"is ""The Hollywood Reporter"", replaced: publisher=hollywoodreporter.com  → work=[[The Hollywood Reporter]] using [[Project:AWB|AWB]]"
+2017-09-05T05:05:20+00:00,799021643,797276480,0,Braves404,The Fast and the Furious: Tokyo Drift,added content
+2017-11-27T08:07:10+00:00,812336649,812281436,0,Cydebot,The Fast and the Furious: Tokyo Drift,Robot - Moving category Film scores by Brian Tyler‎ to [[:Category:Films scored by Brian Tyler‎]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 November 4]].
+2017-09-15T16:09:13+00:00,800776262,800775971,0,KylieTastic,The Fate of the Furious,Reverted 1 edit by [[Special:Contributions/2405:205:41A8:E8E2:0:0:2C7:70A4|2405:205:41A8:E8E2:0:0:2C7:70A4]] ([[User talk:2405:205:41A8:E8E2:0:0:2C7:70A4|talk]]) to last revision by 4TheWynne. ([[WP:TW|TW]])
+2017-10-05T21:07:46+00:00,803971678,803971674,0,Swarm,The Fate of the Furious,Adding {{pp-protected}} ([[WP:TW|TW]])
+2017-11-07T22:31:07+00:00,809235184,809233632,0,CreationFox,The Fate of the Furious,Reverted 1 edit by [[Special:Contributions/Rowew|Rowew]] ([[User talk:Rowew|talk]]). ([[WP:TW|TW]])
+2018-04-27T06:29:02+00:00,838469160,838469129,0,Abelmoschus Esculentus,The Fate of the Furious,Reverted edits by [[Special:Contributions/103.217.110.10|103.217.110.10]] ([[User talk:103.217.110.10|talk]]) ([[WP:HG|HG]]) (3.3.5)
+2018-02-07T02:14:08+00:00,824395295,822904458,0,Holdoffhunger,The Fate of the Furious,"""Morever"" should be ""Moreover."""
+2018-01-02T20:23:39+00:00,818306620,817950214,0,Nicholas0,The Fate of the Furious,Commas are required before and after the year and the date should be stated at the end.
+2017-10-26T15:24:24+00:00,807202875,807200492,0,AngusWOOF,The Fate of the Furious,/* Plot */ the team tries to shut down the sub first
+2018-10-15T18:48:31+00:00,864198682,864039027,0,Giulianodem,The Favourite,
+2018-04-01T15:04:51+00:00,833601232,833577190,0,98.4.42.162,The Favourite,
+2017-09-07T09:12:12+00:00,799372081,799226803,0,194.176.105.142,The Favourite,/* Cast */
+2017-11-03T03:15:49+00:00,808480219,804430368,0,Jack Cox,The Favourite,/* Cast */
+2017-10-15T23:55:00+00:00,805527118,800691149,0,Sidh831,The Hate U Give (film),/* Production */ changed year
+2017-09-15T02:39:13+00:00,800691149,800462118,0,Fuddle,The Hate U Give (film),"formatting: 2x whitespace, defaultsort-the (using [[User:PC-XT/Advisor|Advisor.js]])"
+2018-05-24T06:51:41+00:00,842719058,842717908,0,2600:387:8:7:0:0:0:9F,The Hate U Give (film),
+2018-01-12T21:18:24+00:00,820059487,819591242,0,121.208.189.115,The Hate U Give (film),/* Cast */
+2017-11-01T02:23:26+00:00,808134001,808133973,0,TheMovieGuy,The Hate U Give (film),
+2018-02-12T14:55:51+00:00,825285472,824306205,0,81.147.8.85,The Hate U Give (film),Corrected cast list
+2017-09-05T01:05:32+00:00,798993468,797153016,0,TheMovieGuy,The Hate U Give (film),
+2018-09-16T13:07:30+00:00,859815787,859803476,0,MagicatthemovieS,The Hate U Give (film),/* External links */
+2017-11-28T16:03:17+00:00,812568218,812207179,0,173.25.139.252,The Hate U Give (film),/* Production */
+2018-04-16T10:01:32+00:00,836696719,836431729,0,Adavidb,The Prestige (film),"/* Plot */clean up, [[WP:AWB/T|typo(s) fixed]]: each others → each other's using [[Project:AWB|AWB]]"
+2018-08-04T14:01:12+00:00,853397675,853397596,0,Yamla,The Prestige (film),Reverted edits by [[Special:Contribs/2402:3A80:E20:8282:DA05:1380:8C93:8A93|2402:3A80:E20:8282:DA05:1380:8C93:8A93]] ([[User talk:2402:3A80:E20:8282:DA05:1380:8C93:8A93|talk]]) to last version by LightKeyDarkBlade
+2018-03-11T13:17:30+00:00,829893722,828606483,0,69.178.24.147,The Wolverine (film),
+2017-11-24T21:20:38+00:00,811929740,808629210,0,Danut1999,The Wolverine (film),
+2017-09-30T16:02:47+00:00,803122230,803116962,0,TriiipleThreat,The Wolverine (film),Undid revision 803116962 by [[Special:Contributions/107.77.207.199|107.77.207.199]] ([[User talk:107.77.207.199|talk]])
+2018-04-02T13:30:41+00:00,833795659,833581857,0,Onel5969,The Wolverine (film),Disambiguated: [[Logan (film)]] → [[Logan (2017 film)]]
+2017-12-13T11:45:49+00:00,815204500,813665881,0,60.52.69.58,Timeline (2003 film),
+2018-05-14T20:23:37+00:00,841260082,841212136,0,RHaworth,Timeline (2003 film),Reverted 1 edit by [[Special:Contributions/Lolalover2003|Lolalover2003]] ([[User talk:Lolalover2003|talk]]) to last revision by Amorymeltzer. ([[WP:TW|TW]])
+2018-09-04T00:12:53+00:00,857934538,856862685,0,2601:98B:8101:C530:5C43:2E08:8C51:D642,Varsity Blues (film),/* Cast */
+2017-10-26T18:03:41+00:00,807224868,806172295,0,14.139.160.227,Voice from the Stone,
+2017-12-26T08:47:28+00:00,817124723,816385787,0,Balaclava10,Voice from the Stone,
+2018-06-09T03:12:38+00:00,845065322,843831140,0,174.57.37.172,Varsity Blues (film),
+2018-03-03T05:30:19+00:00,828540807,828252065,0,73.172.243.50,Witness (1985 film),/* Plot */Fixed typo - corrected quote from movie.
+2018-08-21T14:59:25+00:00,855893445,855893316,0,TParadise,Witness (1985 film),
+2018-05-15T20:37:15+00:00,841434249,840178308,0,Doniago,Witness (1985 film),removed [[Category:Police misconduct in fiction]]; added [[Category:Films about police misconduct]] using [[WP:HC|HotCat]]
+2018-01-13T00:57:26+00:00,820092332,820092025,0,Damiantgordon,Witness (1985 film),adding standard headings
+2017-09-30T20:10:22+00:00,803154377,803118418,0,Tenebrae,X-Men: First Class,Undid revision 803118418 by [[Special:Contributions/107.77.207.199|107.77.207.199]] ([[User talk:107.77.207.199|talk]]) Those names not used in film
+2018-04-06T09:30:12+00:00,834548905,834542196,0,Dimadick,X-Men: First Class,/* External links */
+2018-09-11T03:54:14+00:00,859011519,858986586,0,2600:1:91E4:DB62:0:53:FD8C:9B01,X-Men: First Class,
+2018-07-11T17:01:14+00:00,849829788,849829755,0,Imdabes7,X-Men: First Class,/* Plot */
+2017-10-01T12:15:35+00:00,803254137,803154377,0,81.129.154.234,X-Men: First Class,/* External links */
+2017-12-16T14:23:57+00:00,815698927,814594400,0,2600:100F:B00F:EF2E:10E8:50B6:A7E2:7D93,X-Men: First Class,
+2018-08-05T16:11:48+00:00,853557611,853256011,0,Kailash29792,X-Men: First Class,
+2018-08-20T00:22:20+00:00,855667081,854586647,0,2A00:23C5:C386:EF00:9177:63D7:B850:7A52,X-Men: First Class,/* Cast */
+2018-10-12T19:10:56+00:00,863747590,863504652,0,Joeyconnick,X2 (film),copyedit
+2018-01-13T22:17:54+00:00,820252375,820099150,0,Batman tas,X2 (film),/* Plot */
+2018-08-11T19:18:44+00:00,854493301,853706904,0,Thecertifiedg,X2 (film),/* Critical response */
+2018-03-15T18:33:14+00:00,830582326,827608536,0,ShababHaider,X2 (film),/* Music */ moved text and track listing into body of article

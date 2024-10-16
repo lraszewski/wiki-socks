@@ -1,0 +1,644 @@
+timestamp,revid,parentid,sock,user,page,message
+2014-06-05T07:17:42+00:00,611643913,611501057,1,Yukileoo,Solar energy,this is a mino change
+2011-08-05T08:01:34+00:00,443147473,441888514,1,Yukileoo,Iodoresiniferatoxin,spam reference
+2011-08-05T07:49:53+00:00,443146313,442928452,1,Yukileoo,Swainsonine,
+2011-08-05T07:48:18+00:00,443146124,424990698,1,Yukileoo,TCB-2,
+2011-08-05T07:45:36+00:00,443145841,424685814,1,Yukileoo,CGS-21680,spam ads
+2011-08-05T07:43:19+00:00,443145597,425175936,1,Yukileoo,UBP-302,spam ads
+2011-08-05T07:41:15+00:00,443145388,440456599,1,Yukileoo,2-Aminoethoxydiphenyl borate,spam
+2011-08-05T07:37:19+00:00,443145007,443144819,1,Yukileoo,Zaprinast,
+2011-08-05T07:35:35+00:00,443144819,441533526,1,Yukileoo,Zaprinast,spam reference
+2011-08-05T07:25:24+00:00,443143924,443026827,1,Yukileoo,GABAB receptor,
+2011-08-04T05:22:37+00:00,442964611,438221007,1,Yukileoo,5-HT receptor,ref spam
+2011-08-04T05:18:01+00:00,442964118,438859894,1,Yukileoo,GABAA-rho receptor,ref spam
+2011-08-04T03:29:13+00:00,442952656,418005615,1,Yukileoo,"CP 55,940",it is just a commercial ads
+2011-08-04T03:24:43+00:00,442952187,442854180,1,Yukileoo,LY294002,it is just a commercial ads
+2011-08-03T06:59:38+00:00,442804407,441546493,1,Yukileoo,1-Docosanol,The original synonym is not complete
+2011-08-03T06:56:35+00:00,442804151,442348392,1,Yukileoo,Erythromycin,The original synonym is not complete
+2011-08-03T06:52:32+00:00,442803802,441685127,1,Yukileoo,Allopurinol,The original synonym is not complete
+2011-08-03T06:30:12+00:00,442801652,442473603,1,Yukileoo,Prednisone,The original synonym is not complete
+2011-08-03T06:16:29+00:00,442800455,426910049,1,Yukileoo,Riluzole,The original synonym is not complete
+2011-08-03T05:59:45+00:00,442798942,437166836,1,Yukileoo,Silodosin,The original synonym is not complete
+2011-08-03T05:53:15+00:00,442798367,442724597,1,Yukileoo,Pentagastrin,The original synonym is not complete
+2011-08-03T05:39:41+00:00,442797181,442020475,1,Yukileoo,Mifepristone,The original synonym is not complete
+2011-08-03T02:38:11+00:00,442778343,435395989,1,Yukileoo,Thiamazole,The original synonym is not complete
+2011-08-02T05:58:51+00:00,442630461,0,1,Yukileoo,Linifanib,"I added the page of ABT-869, which is a very important inhibitor"
+2011-08-01T03:20:57+00:00,442451944,437141292,1,Yukileoo,Semagacestat,"I added the synonym of Semagacestat, which I think will do a little help to readers"
+2011-08-01T03:11:11+00:00,442451064,441562245,1,Yukileoo,Apixaban,"I added the IC50 value of Apixaban, which I think will do a little help to readers"
+2011-08-01T03:05:43+00:00,442450567,437192518,1,Yukileoo,Pravadoline,"I added the IC50 value of Pravadoline, which I think will do a little help to readers"
+2011-08-01T02:41:57+00:00,442448398,437203177,1,Yukileoo,Nepicastat,I add one more synonym
+2011-08-01T02:36:14+00:00,442447925,437131522,1,Yukileoo,Diclofensine,I added one more character of Diclofensine
+2011-08-01T02:27:11+00:00,442447112,441209873,1,Yukileoo,Candesartan,"The original description is too simple, so I added one more sentence to let readers get more information"
+2011-08-01T02:17:03+00:00,442446122,442444597,1,Yukileoo,Pomalidomide,
+2011-08-01T02:16:09+00:00,442446020,438122851,1,Yukileoo,Sulfasalazine,The original synonym is not complete
+2011-08-01T02:03:02+00:00,442444597,440518112,1,Yukileoo,Pomalidomide,"The original description is too simple, so I added one more sentence to let readers get more information"
+2011-07-28T07:06:10+00:00,441830276,441827260,1,Yukileoo,Selumetinib,I upload the right picture
+2011-07-28T06:30:30+00:00,441827228,0,1,Yukileoo,Selumetinib,"AZD 6244 is a very important inhibitor, so I edit this page for all the researchers"
+2011-07-28T05:20:00+00:00,441821140,437195084,1,Yukileoo,Secnidazole,"The synonyms are not complete, so I made a change."
+2011-07-28T04:05:44+00:00,441814471,437603629,1,Yukileoo,Disufenton sodium,The original synonym is not complete
+2011-07-27T02:33:36+00:00,441642065,438864854,1,Yukileoo,Isoprenaline,Having added the biological activity of Isoprenaline
+2011-07-26T07:18:01+00:00,441486699,438055853,1,Yukileoo,Exemestane,"I added a manufacturer's website, which I think could help reader a little bit when they need this kind of information."
+2011-07-26T07:12:40+00:00,441486228,432481592,1,Yukileoo,Raltitrexed,"The synonyms are not complete, so I made a change."
+2011-07-26T06:16:07+00:00,441480964,411406028,1,Yukileoo,Fulvestrant,"I added a manufacturer's website, which I think could help reader a little bit when they need this kind of information."
+2011-07-26T06:12:20+00:00,441480650,428088076,1,Yukileoo,Bicalutamide,"I added a Supplier's website, which I think could help reader a little bit when they need this kind of information."
+2011-07-26T05:56:44+00:00,441479270,438143433,1,Yukileoo,Anastrozole,"I added a manufacturer's website, which I think could help reader a little bit when they need this kind of information."
+2011-07-26T01:16:24+00:00,441450353,441311716,1,Yukileoo,Ritonavir,A minor edit on my own link
+2011-07-25T08:13:53+00:00,441311716,437190465,1,Yukileoo,Ritonavir,"Just put an external link like others, hoping it could help researchers"
+2011-07-25T07:48:50+00:00,441309602,437188597,1,Yukileoo,Irinotecan,"I added the IC50 value of Irinotecan, which I think will do a little help to readers"
+2011-06-09T08:51:17+00:00,433356097,428767403,1,Yukileoo,Disufenton sodium,Buid an external link for Disufenton sodium
+2018-02-02T09:40:06+00:00,823614914,823614628,1,Blakeclaire,Diskpart,/* How it works */
+2018-02-02T09:37:09+00:00,823614628,820008815,1,Blakeclaire,Diskpart,/* How it works */
+2018-02-06T14:07:42+00:00,824293445,821703500,1,Blakeclaires,Web browsing history,/* Privacy of kept history data */
+2018-02-06T13:57:05+00:00,824292124,823638770,1,Blakeclaires,Diskpart,/* How it works */
+2014-10-08T09:35:34+00:00,628767277,0,1,Can_VII,Src inhibitor,"[[WP:AES|←]]Created page with ''''Src inhibitor''' is a class of inhibitors that targets src kinase family, which is transcribed by [[Oncogene|proto-oncogenes]] [[Src gene|src genes]] (abbrevi...'"
+2014-09-28T07:25:04+00:00,627386838,627298509,1,Can_VII,Y-320,
+2014-09-25T02:38:44+00:00,626977291,0,1,Can_VII,PYR-41,[[WP:AES|←]]Created page with '{{Chembox | Name = PYR-41 | NameEn =  | ImageFile =[[File:PYR-41 chemical structure.gif|thumb|chemical structure of PYR41]] |  ImageSize =  |  ImageAlt =  | IUPA...'
+2014-09-28T05:28:22+00:00,627377393,625293121,1,Charcoal_III,Apabetalone,
+2018-01-22T08:36:28+00:00,821732766,821732728,1,Chenvera,List of data recovery software,/* File Recovery */
+2018-01-22T08:35:54+00:00,821732728,820961363,1,Chenvera,List of data recovery software,/* File Recovery */
+2018-01-08T09:19:38+00:00,819251916,819251398,1,Chenvera,Disk cloning,
+2018-01-08T09:17:05+00:00,819251398,819251172,1,Chenvera,Disk cloning,
+2018-01-08T09:16:00+00:00,819251172,803029437,1,Chenvera,Disk cloning,
+2017-12-12T03:24:05+00:00,814996146,814995470,1,Chenvera,Windows 10 editions,
+2017-12-12T03:18:23+00:00,814995470,814995287,1,Chenvera,Windows 10 editions,
+2017-12-12T03:15:45+00:00,814995183,814994891,1,Chenvera,Windows 10 editions,
+2017-12-12T03:13:16+00:00,814994891,814881240,1,Chenvera,Windows 10 editions,
+2017-12-11T05:49:45+00:00,814836001,814023412,1,Chenvera,Windows 10 editions,
+2017-03-15T07:38:12+00:00,770412689,756674272,1,Chenvera,User talk:Chenvera,/* Your submission at Articles for creation */ new section
+2014-08-18T09:54:42+00:00,621752398,588569269,1,Fhmab,PartitionMagic,/* Future versions */
+2014-08-18T09:42:03+00:00,621751214,621730415,1,Fhmab,Solid-state drive,/* Microsoft Windows */
+2014-08-18T09:33:15+00:00,621750411,613402248,1,Fhmab,Backup and Restore,/* Features */
+2014-08-18T09:29:28+00:00,621750119,621749876,1,Fhmab,Backup,/* Files */
+2014-08-18T09:26:39+00:00,621749876,621749754,1,Fhmab,Backup,/* Files */
+2014-08-18T09:25:19+00:00,621749754,620051130,1,Fhmab,Backup,/* Files */
+2014-09-18T07:27:51+00:00,626052396,626052357,1,Flower_burial,Rho kinase inhibitor,
+2014-09-18T07:27:12+00:00,626052357,0,1,Flower_burial,Rho kinase inhibitor,"[[WP:AES|←]]Created page with ''''Rho Kinase Inhibitor''',also named Rho-associated protein kinase inhibitor ('''ROCK inhibitor'''),is a series of compounds that targets [[Rho kinase]]. Clinic...'"
+2014-09-18T01:06:30+00:00,626021928,625937879,1,Flower_burial,TAPI-1,
+2014-09-17T03:13:09+00:00,625897967,0,1,Flower_burial,TAPI-1,[[WP:AES|←]]Created page with '{{Chembox | Name = TAPI-1  | NameEn =  | ImageFile = [[File:TAPI-1 chemical structure.gif|thumb|chemical structure of TAPI-1]] |  ImageSize =  |  ImageAlt =  | I...'
+2014-09-09T08:28:28+00:00,624779614,0,1,Flower_burial,INH1,[[WP:AES|←]]Created page with '{{Chembox | Name = INH1  | NameEn =  | ImageFile = [[File:INH1 chemical structure.gif|thumb|chemical structure of INH1]] |  ImageSize =  |  ImageAlt =  | IUPACNa...'
+2014-09-03T10:08:44+00:00,623988848,623964472,1,Flower_burial,Apabetalone,
+2014-09-03T05:40:22+00:00,623964472,623962707,1,Flower_burial,Apabetalone,
+2014-09-03T05:20:16+00:00,623962707,0,1,Flower_burial,Apabetalone,[[WP:AES|←]]Created page with '{{Chembox | Name = RVX 208 | NameEn =  | ImageFile = [[File:RVX-208 chemical structure.gif|thumb|Chemical structure of RVX-208]] |  ImageSize =  |  ImageAlt =  |...'
+2014-08-29T01:31:01+00:00,623252764,623252561,1,Flower_burial,Rhode Island's 1st congressional district,
+2014-08-29T01:28:32+00:00,623252561,621843014,1,Flower_burial,Rhode Island's 1st congressional district,
+2014-08-26T07:36:56+00:00,622853431,622852199,1,Gardobu,KN-62,
+2014-08-26T07:21:59+00:00,622852199,0,1,Gardobu,KN-62,[[WP:AES|←]]Created page with '{{Chembox | Name = KN-62 | NameEn =  | ImageFile = [[File:KN-62 chemical structure.gif|thumb|Chemical structure of KN-62]] |  ImageSize =  |  ImageAlt =  | IUPAC...'
+2014-08-26T02:13:43+00:00,622828450,621351754,1,Gardobu,Ca2+/calmodulin-dependent protein kinase II,
+2014-08-26T02:07:47+00:00,622827798,621444604,1,Gardobu,P2RX7,
+2014-08-22T09:35:00+00:00,622315788,0,1,Gardobu,Pracinostat,[[WP:AES|←]]Created page with '{{Chembox | Name =Pracinostat  | NameEn =  | ImageFile = [[File:SB939-chemical-structure.gif|thumb|Chemical structure of Pracinostat]] |  ImageSize =  |  ImageAl...'
+2014-08-22T09:33:10+00:00,622315634,619156373,1,Gardobu,Histone deacetylase inhibitor,SB939
+2014-08-19T06:46:04+00:00,621881043,621879972,1,Gardobu,RI-1 (chemical),
+2014-08-19T06:34:17+00:00,621879972,621878769,1,Gardobu,RI-1 (chemical),
+2014-08-19T06:20:59+00:00,621878769,621758451,1,Gardobu,RI-1 (chemical),
+2014-08-18T09:51:08+00:00,621752059,621751869,1,Gardobu,RI-1 (chemical),
+2014-08-18T09:48:41+00:00,621751869,0,1,Gardobu,RI-1 (chemical),[[WP:AES|←]]Created page with '{{Chembox | Name = RI-1  | NameEn =  | ImageFile = [[File:RI-1 chemical structure.gif|thumb|RI-1 chemical structure]] |  ImageSize =  |  ImageAlt =  | IUPACName...'
+2014-08-14T06:01:37+00:00,621168614,0,1,Gardobu,Z-FA-FMK,[[WP:AES|←]]Created page with '{{Chembox | Name = Z-FA-FMK | NameEn = Z-Phe-Ala-Fluoromethyl Ketone | ImageFile = [[File:Z-FA-FMK.png|Z-FA-FMK]] |  ImageSize =  |  ImageAlt =  | IUPACName = N-...'
+2014-08-14T01:47:53+00:00,621147245,621128614,1,Gardobu,User talk:Edgar181/Archive28,
+2014-08-13T09:33:08+00:00,621035147,0,1,Gardobu,Voreloxin,[[WP:AES|←]]Redirected page to [[Vosaroxin]]
+2014-08-13T09:20:05+00:00,621033867,621033656,1,Gardobu,Vosaroxin,
+2014-08-13T09:17:56+00:00,621033656,0,1,Gardobu,Vosaroxin,create
+2011-08-08T08:52:47+00:00,443647082,441981645,1,Kenzhang0405,Protein kinase B,spam reference
+2011-08-08T08:48:34+00:00,443646706,443187704,1,Kenzhang0405,Phosphoinositide 3-kinase,spam reference
+2011-08-05T07:09:14+00:00,443142728,443142657,1,Kenzhang0405,H-89,spam reference
+2011-08-05T07:08:12+00:00,443142657,440316340,1,Kenzhang0405,H-89,
+2011-08-05T04:12:44+00:00,443127685,443127493,1,Kenzhang0405,Phosphoinositide 3-kinase,Undid revision 442853403 by [[Special:Contributions/Hu12|Hu12]] ([[User talk:Hu12|talk]])
+2011-08-05T04:10:52+00:00,443127493,443014171,1,Kenzhang0405,Phosphoinositide 3-kinase,Undid revision 443014171 by [[Special:Contributions/Hu12|Hu12]] ([[User talk:Hu12|talk]])
+2011-08-05T04:07:46+00:00,443127195,443127039,1,Kenzhang0405,AEE788,
+2011-08-05T04:06:17+00:00,443127039,443126921,1,Kenzhang0405,AEE788,
+2011-08-05T04:05:00+00:00,443126921,443126281,1,Kenzhang0405,AEE788,
+2011-08-05T03:58:04+00:00,443126281,443126217,1,Kenzhang0405,AEE788,
+2011-08-05T03:57:31+00:00,443126217,443125335,1,Kenzhang0405,AEE788,
+2011-08-05T03:48:21+00:00,443125335,443125275,1,Kenzhang0405,AEE788,
+2011-08-05T03:47:30+00:00,443125275,443124172,1,Kenzhang0405,AEE788,
+2011-08-05T03:35:34+00:00,443124172,443013991,1,Kenzhang0405,AEE788,Undid revision 443013991 by [[Special:Contributions/Hu12|Hu12]] ([[User talk:Hu12|talk]])
+2011-08-04T09:04:56+00:00,442984035,442983613,1,Kenzhang0405,GABAA-rho receptor,ref spam
+2011-08-04T08:59:46+00:00,442983613,442964118,1,Kenzhang0405,GABAA-rho receptor,Undid revision 442964118 by [[Special:Contributions/Yukileoo|Yukileoo]] ([[User talk:Yukileoo|talk]])
+2011-08-04T05:28:07+00:00,442965322,442853589,1,Kenzhang0405,AEE788,Undid revision 442853589 by [[Special:Contributions/Hu12|Hu12]] ([[User talk:Hu12|talk]])
+2011-08-02T05:54:57+00:00,442630102,429897955,1,Kenzhang0405,LY294002,
+2011-07-29T03:14:27+00:00,441979023,441978985,1,Kenzhang0405,AEE788,
+2011-07-29T03:13:48+00:00,441978985,441978779,1,Kenzhang0405,AEE788,
+2011-07-29T03:11:50+00:00,441978779,441978000,1,Kenzhang0405,AEE788,
+2011-07-29T03:03:01+00:00,441978000,441977663,1,Kenzhang0405,AEE788,
+2011-07-29T02:59:40+00:00,441977663,441976438,1,Kenzhang0405,AEE788,
+2011-07-29T02:47:06+00:00,441976438,441974618,1,Kenzhang0405,AEE788,
+2011-07-29T02:27:43+00:00,441974618,441974465,1,Kenzhang0405,AEE788,
+2011-07-29T02:26:20+00:00,441974465,441974219,1,Kenzhang0405,AEE788,
+2011-07-29T02:23:55+00:00,441974219,0,1,Kenzhang0405,AEE788,[[WP:AES|←]]Created page with 'AEE788 is a novel multitargeted human epidermal receptor (HER) 1/2 and vascular endothelial growth factor receptor (VEGFR) 1/2 receptor family tyrosine kinases inhi...'
+2011-07-29T01:54:53+00:00,441971191,441970475,1,Kenzhang0405,Selumetinib,
+2011-07-29T01:47:34+00:00,441970475,441830276,1,Kenzhang0405,Selumetinib,
+2011-07-13T01:52:55+00:00,439190444,439043249,1,Kenzhang0405,MTOR,/* mTOR inhibitors as therapies */
+2011-07-12T05:56:05+00:00,439038667,439038327,1,Kenzhang0405,MTOR,/* mTOR inhibitors as therapies */
+2011-07-12T05:52:25+00:00,439038327,434627951,1,Kenzhang0405,MTOR,/* mTOR inhibitors as therapies */
+2011-07-04T09:04:34+00:00,437679618,427035867,1,Kenzhang0405,Phosphoinositide 3-kinase,/* PI 3-kinases inhibitors as therapeutics */
+2016-09-09T09:05:09+00:00,738498463,0,1,Lostbeauty_moon,User talk:Lostbeauty moon,"[[WP:AES|←]]Created page with '{{unblock-auto|2=<nowiki>Autoblocked because your IP address was recently used by ""Fhmab"". The reason given for Fhmab's block is: ""Combination of spam/ Wikipedia...'"
+2014-08-28T09:27:58+00:00,623152861,623152638,1,Manyzz,User talk:Yanzhong,
+2014-08-28T09:25:09+00:00,623152638,0,1,Manyzz,User talk:Yanzhong,[[WP:AES|←]]Created page with 'Hi~'
+2014-08-28T09:16:04+00:00,623151852,623151538,1,Manyzz,Resminostat,
+2014-08-28T09:12:18+00:00,623151538,623151337,1,Manyzz,Resminostat,
+2014-08-28T09:09:34+00:00,623151337,0,1,Manyzz,Resminostat,[[WP:AES|←]]Created page with '{{Chembox | Name = Resminostat | NameEn =  | ImageFile = [[File:Resminostat (RAS2410) chemical structure.gif|thumb|Chemical Structure of Resminostat]] |  ImageSi...'
+2014-08-20T08:38:34+00:00,622031856,0,1,Manyzz,Rigosertib,[[WP:AES|←]]Created page with '{{Chembox | Name = Rigosertib | NameEn =  | ImageFile = [[File:ON-01910 chemical structure.gif|thumb|Chemical Structure of Rigosertib]] |  ImageSize =  |  ImageA...'
+2014-08-20T05:59:22+00:00,622019059,610918982,1,Manyzz,E. Premkumar Reddy,rigosertib
+2014-08-12T06:01:09+00:00,620874383,619811051,1,Manyzz,Ponatinib,
+2014-08-12T04:11:28+00:00,620866863,620866452,1,Manyzz,Peptide synthesis,
+2014-08-12T04:06:43+00:00,620866452,610322743,1,Manyzz,Peptide synthesis,
+2014-08-11T08:01:57+00:00,620737926,620737597,1,Manyzz,PARP inhibitor,
+2014-08-11T07:57:29+00:00,620737597,620735893,1,Manyzz,PARP inhibitor,
+2014-08-11T07:33:17+00:00,620735893,620735765,1,Manyzz,PARP inhibitor,
+2014-08-11T07:31:09+00:00,620735765,619786747,1,Manyzz,PARP inhibitor,
+2014-08-07T09:21:34+00:00,620211873,620210395,1,Manyzz,Salubrinal,
+2014-08-07T09:04:02+00:00,620210395,620208784,1,Manyzz,Salubrinal,
+2014-08-07T08:46:28+00:00,620208784,619650121,1,Manyzz,Salubrinal,
+2014-08-06T05:40:40+00:00,620055078,620054855,1,Manyzz,Rilpivirine,
+2014-08-06T05:37:46+00:00,620054855,601167813,1,Manyzz,Rilpivirine,
+2014-08-05T10:10:15+00:00,619938441,619938154,1,Manyzz,Proteasome inhibitor,
+2014-08-05T10:06:36+00:00,619938154,619937891,1,Manyzz,Proteasome inhibitor,
+2014-08-05T10:03:33+00:00,619937891,619936643,1,Manyzz,Proteasome inhibitor,
+2014-08-05T09:49:52+00:00,619936643,592862636,1,Manyzz,Proteasome inhibitor,
+2014-08-05T02:14:28+00:00,619902808,619902582,1,Manyzz,Regorafenib,
+2014-08-05T02:11:26+00:00,619902582,619901814,1,Manyzz,Regorafenib,
+2014-08-05T02:00:59+00:00,619901814,619901397,1,Manyzz,Regorafenib,
+2014-08-05T01:56:28+00:00,619901397,619901165,1,Manyzz,Regorafenib,
+2014-08-05T01:54:21+00:00,619901165,589416992,1,Manyzz,Regorafenib,
+2014-08-04T08:59:44+00:00,619789071,604965072,1,Manyzz,Rucaparib,
+2014-08-04T03:02:12+00:00,619758881,619758828,1,Manyzz,Quizartinib,
+2014-08-04T03:01:30+00:00,619758828,607620176,1,Manyzz,Quizartinib,
+2018-02-01T03:58:42+00:00,823422829,823216032,1,Sunnyeleven,Steam (service),/* Software delivery and maintenance */
+2018-02-01T03:14:26+00:00,823417914,823417821,1,Sunnyeleven,Hard disk drive failure,/* Signs of drive failure */
+2018-02-01T03:13:26+00:00,823417821,815575172,1,Sunnyeleven,Hard disk drive failure,/* Signs of drive failure */
+2017-12-19T04:01:25+00:00,816082080,816080603,1,Sunnyeleven,List of data recovery software,/* File Recovery */
+2017-12-19T03:46:57+00:00,816080603,813983654,1,Sunnyeleven,List of data recovery software,/* File Recovery */
+2014-06-27T02:29:55+00:00,614583881,614583566,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-27T02:25:31+00:00,614583566,614582352,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-27T02:09:57+00:00,614582352,614582246,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-27T02:08:45+00:00,614582246,614442566,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T06:04:27+00:00,613243366,613243275,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T06:03:14+00:00,613243275,613238594,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T05:05:00+00:00,613238594,613238525,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T05:04:16+00:00,613238525,613233219,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T04:01:02+00:00,613233219,613233152,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T04:00:28+00:00,613233152,613232957,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T03:58:10+00:00,613232957,613232897,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T03:57:30+00:00,613232897,613232568,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T03:53:22+00:00,613232568,613231075,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T03:36:31+00:00,613231075,613230504,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T03:30:46+00:00,613230504,613230127,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T03:27:30+00:00,613230127,613229752,1,William_shao,K-Ras(G12C) inhibitor 6,
+2014-06-17T03:23:18+00:00,613229752,0,1,William_shao,K-Ras(G12C) inhibitor 6,"[[WP:AES|←]]Created page with '<!--- Don't mess with this line! --->{{Unreviewed}} <!--- Write your article below this line --->  K-Ras(G12C) inhibitor 6, as an irreversible inhibitor of oncog...'"
+2014-08-28T08:13:08+00:00,623147595,623147513,1,Yanzhong,Truckee–Carson Irrigation District,
+2014-08-28T08:11:52+00:00,623147513,623147429,1,Yanzhong,Truckee–Carson Irrigation District,
+2014-08-28T08:10:38+00:00,623147429,623147208,1,Yanzhong,Truckee–Carson Irrigation District,
+2014-08-28T08:08:08+00:00,623147208,607117610,1,Yanzhong,Truckee–Carson Irrigation District,
+2014-10-10T01:49:49+00:00,629001434,627444786,1,Zarkr,Y-320,
+2014-09-26T03:45:56+00:00,627114308,627113464,1,Zarkr,Y-320,
+2014-09-26T03:33:51+00:00,627113464,627113218,1,Zarkr,Y-320,
+2014-09-26T03:30:49+00:00,627113218,627112402,1,Zarkr,Y-320,
+2014-09-26T03:18:08+00:00,627112402,627112322,1,Zarkr,Y-320,
+2014-09-26T03:16:59+00:00,627112322,627109756,1,Zarkr,Y-320,
+2014-09-26T02:39:18+00:00,627109413,627108517,1,Zarkr,Y-320,
+2014-09-26T02:27:53+00:00,627108517,627108402,1,Zarkr,Y-320,
+2014-09-26T02:26:12+00:00,627108402,0,1,Zarkr,Y-320,[[WP:AES|←]]Created page with '{{Chembox | Name = Y-320  | NameEn =  | ImageFile = [[File:Y-320.png|Y-320]] |  ImageSize = 150px |  ImageAlt =  | IUPACName = 1-(4-chlorophenyl)-N-[3-cyano-4-(4...'
+2014-01-13T12:28:37+00:00,590500082,577823891,0,Monkbot,AEE788,Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2016-09-30T04:44:03+00:00,741868543,737582955,0,InternetArchiveBot,5-HT receptor,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.4)
+2012-01-05T19:26:51+00:00,469768467,459814709,0,Yobot,AEE788,[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7909)
+2016-02-09T20:42:47+00:00,704145662,696900613,0,128.115.190.40,1-Docosanol,I further expanded on the medical testing results of the n-docosanol
+2015-06-27T12:16:12+00:00,668895136,667246280,0,DePiep,AEE788,Infobox drug: rm/replace dedeprecated params. Fix unk parameters (via AWB script)
+2011-03-13T19:56:13+00:00,418661603,416881352,0,Edgar181,2-Aminoethoxydiphenyl borate,removed [[Category:Boron compounds]]; added [[Category:Organoboron compounds]] using [[WP:HC|HotCat]]
+2015-04-17T09:57:30+00:00,656879482,651040515,0,Rjwilmsi,5-HT receptor,"Journal cites,  using [[Project:AWB|AWB]] (10870)"
+2012-02-17T09:43:24+00:00,477340479,469768467,0,CheMoBot,AEE788,"Updating {{drugbox}} (changes to verified fields - added verified revid - updated 'UNII_Ref', 'ChEBI_Ref') per [[WP:CHEMVALID|Chem/Drugbox validation]] (report [[Wikipedia talk:WikiProject_Pharmacology|errors]] or [[user talk:CheMoBot|bugs]])"
+2017-10-20T23:29:14+00:00,806283235,774874558,0,Nyq,1-Docosanol,"/* Mechanism and history of antiviral drug usage */ ""licensed"" -> ""approved"" (FDA does not license drugs)"
+2016-04-05T20:17:47+00:00,713771142,668895136,0,DePiep,AEE788,"Remove redundant parameters InChI, InChIKey (StdInChI, StdInChIKey are used). See [[Template_talk:Infobox_drug#Removal_of_unused_parameters_InChI.2C_InChIKey|Talk]] (via AWB script)"
+2011-08-12T10:09:32+00:00,444416551,443187651,0,Beetstra,AEE788,correct CSID
+2016-05-20T23:48:42+00:00,721309071,713771142,0,Trappist the monk,AEE788,/* top */cs1|2 maint: multiple [[Category:CS1 maint: Multiple names: authors list|authors]]/[[Category:CS1 maint: Multiple names: editors list|editors]] fixes; using [[Project:AWB|AWB]]
+2015-07-15T00:38:47+00:00,671484773,668147546,0,DePiep,2-Aminoethoxydiphenyl borate,Chembox: rm/replace deprecated params. Fix unknown parameters (via AWB script)
+2014-10-17T20:23:46+00:00,630024673,590500082,0,TParis,AEE788,rm puff word
+2013-10-19T09:49:14+00:00,577823891,477340479,0,Rjwilmsi,AEE788,"Journal cites, added 2 DOIs, added 2 PMCs using [[Project:AWB|AWB]] (9488)"
+2014-10-14T06:34:51+00:00,629542317,629172560,0,Citation bot,Allopurinol,"[Cat579]Alter: author. Add: displayauthors, author pars. 2-3. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]."
+2015-06-27T12:29:06+00:00,668896284,667235452,0,DePiep,Allopurinol,Infobox drug: rm/replace dedeprecated params. Fix unk parameters (via AWB script)
+2017-04-12T20:11:43+00:00,775121860,763503508,0,Rjwilmsi,Apabetalone,"/* Mechanism of action */Journal cites:, added 3 PMIDs, added 2 PMCs using [[Project:AWB|AWB]] (12151)"
+2015-07-04T23:27:20+00:00,669978369,668737027,0,FrescoBot,Apabetalone,Bot: [[User:FrescoBot/Links|link syntax]]
+2015-06-10T22:11:12+00:00,666398156,665123228,0,Aaronstonestrom,Apabetalone,"/* Mechanism of action */ removed first sentence claiming action by an [[epigenetic]] mechanism. ""Epigenetic"" is a poorly defined term and its meaning the subject of some debate, so without specifying the definition intended this can mislead the reader"
+2011-10-22T10:06:12+00:00,456806625,456163724,0,CheMoBot,Anastrozole,Updating {{drugbox}} (changes to verified and watched fields - updated 'CAS_number_Ref') per [[WP:CHEMVALID|Chem/Drugbox validation]] (report [[Wikipedia talk:WikiProject_Pharmacology|errors]] or [[user talk:CheMoBot|bugs]])
+2016-04-13T04:37:54+00:00,715008733,714715245,0,50.68.80.160,Anastrozole,/* Side effects */
+2011-09-30T13:44:43+00:00,453212377,453212367,0,ClueBot NG,Backup,"Reverting possible vandalism by [[Special:Contributions/62.49.213.114|62.49.213.114]] to version by Mild Bill Hiccup. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (622188) (Bot)"
+2014-06-01T05:18:50+00:00,611029172,607315739,0,Rappercake,Apixaban,/* Medical uses */  The wording before implied that the medicine could only be used that way in Europe.
+2015-07-25T10:28:42+00:00,673001435,669978369,0,Edgar181,Apabetalone,
+2012-02-24T16:33:13+00:00,478625176,478624844,0,Austinmurphy,Backup,/* Advice */ del overly specific advice
+2015-09-23T01:32:33+00:00,682332757,681376609,0,Kamcdonald,Backup,added citation for image level backup.
+2014-11-16T23:18:14+00:00,634143337,632269461,0,123.51.69.113,Apixaban,/* Medical uses */
+2012-08-22T01:16:57+00:00,508546510,508502144,0,Mercy11,Backup,/* Data repository models */ expanded for clatiry
+2015-05-22T20:49:26+00:00,663590752,663589937,0,130.167.230.151,Backup,/* Objectives */ +data retention
+2017-02-20T14:45:31+00:00,766498426,762207712,0,Headbomb,Bicalutamide,"cleanup, [[WP:AWB/T|typo(s) fixed]]: avaliable → available, 30&nbsp;day → 30-day (2) using [[Project:AWB|AWB]]"
+2012-08-08T18:59:05+00:00,506433131,505044547,0,Mercy11,Backup,reworded as there were various words missing
+2014-01-15T03:13:00+00:00,590763587,581290901,0,Monkbot,Bicalutamide,Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2015-06-28T00:33:06+00:00,668975708,668901833,0,DePiep,"CP 55,940",Infobox drug: rm/replace deprecated params. Fix unk parameters (via AWB script)
+2014-08-18T16:43:54+00:00,621791763,621750411,0,Hipal,Backup and Restore,"Undid revision 621750411 by [[Special:Contributions/Fhmab|Fhmab]] ([[User talk:Fhmab|talk]]) refspam, misleading citation info"
+2016-05-25T17:07:31+00:00,722046886,721239278,0,Dcirovic,Ca2+/calmodulin-dependent protein kinase II,"clean up, [[WP:AWB/T|typo(s) fixed]]: However  → However, using [[Project:AWB|AWB]]"
+2015-12-23T19:09:07+00:00,696520851,678637929,0,Rjwilmsi,Candesartan,"/* Development history */Journal cites, Added 1 doi to a journal cite using [[Project:AWB|AWB]] (11760)"
+2014-07-25T22:15:52+00:00,618472345,610061439,0,Vanished user 0x8cSXE0x6,"CP 55,940",
+2012-12-27T01:54:46+00:00,529913702,525877986,0,Jesse V.,Diclofensine,"/* References */tags and [[WP:GENFIXES|general fixes]], removed stub tag using [[Project:AWB|AWB]] (8842)"
+2011-09-24T11:48:20+00:00,452181088,447651538,0,RjwilmsiBot,Ca2+/calmodulin-dependent protein kinase II,/* Structural Domains of CaMKII */fixing page range dashes using [[Project:AWB|AWB]] (7840)
+2016-05-22T14:45:09+00:00,721539802,702112527,0,Tom.Reding,CGS-21680,[[Category:CS1 maint: Multiple names: authors list|CS1 maintenance]]: vauthors/veditors or enumerate multiple authors/editors; [[WP:GenFixes]] on using [[Project:AWB|AWB]]
+2011-09-02T22:32:41+00:00,448114140,448112976,0,CheMoBot,Diclofensine,"Updating {{drugbox}} (no changed fields - added verified revid - updated 'ChemSpiderID_Ref', 'ChEMBL_Ref', 'ChEBI_Ref', 'KEGG_Ref', 'StdInChI_Ref', 'StdInChIKey_Ref', 'ChEBI_Ref') per [[WP:CHEMVALID|Chem/Drugbox validation]] (report [[Wikipedia talk:"
+2013-05-10T07:00:14+00:00,554409917,549447694,0,Gareth CHEBI,CGS-21680,ChEBI ID aded to Chembox identifiers
+2016-08-14T19:26:51+00:00,734498724,716729303,0,Cydebot,Disk cloning,Robot - Speedily moving category Computer backup to [[:Category:Backup]] per [[WP:CFDS|CFDS]].
+2012-09-17T03:44:29+00:00,513057617,495930751,0,Hmains,Disk cloning,refine category structure
+2012-06-04T13:16:21+00:00,495930751,495930707,0,Hohum,Disk cloning,/* Post-cloning operations */
+2014-12-16T22:17:57+00:00,638414293,630267641,0,Randy549,Candesartan,"Added availability of generic form of drug, with reference"
+2016-03-30T06:53:39+00:00,712632248,712629562,0,Neil916,Disk cloning,Undid revision 712629562 by [[Special:Contributions/Doris2016003|Doris2016003]] ([[User talk:Doris2016003|talk]]) rv nn program added by spa
+2013-04-07T15:36:37+00:00,549168772,543022432,0,KLBot2,Diskpart,"Bot: Migrating 1 interwiki links, now provided by [[Wikidata]] on [[:d:Q4490809]]"
+2011-01-23T00:19:17+00:00,409459877,398387909,0,93.86.185.8,Diskpart,
+2015-01-07T10:22:20+00:00,641387470,618873495,0,Yobot,Disk cloning,Tagging using [[Project:AWB|AWB]] (10703)
+2012-05-09T12:54:08+00:00,491587130,487019546,0,Helpful Pixie Bot,Diskpart,ISBNs (Build KE)
+2016-11-09T06:42:58+00:00,748619512,748618847,0,Keybord-Man,Disk cloning,
+2013-12-10T14:09:53+00:00,585434399,541740040,0,Louisajb,Disufenton sodium,added chemblid
+2011-07-03T20:44:06+00:00,437603629,437160614,0,Rangoon11,Disufenton sodium,/* External links */ Template added
+2015-07-23T09:50:25+00:00,672708283,635052134,0,The chemistds,Disufenton sodium,added CSID and InChI(Key)s
+2011-06-25T23:46:12+00:00,436238949,423295208,0,Cydebot,E. Premkumar Reddy,Robot - Moving category  Indian immigrants to the United States to [[:Category: Indian emigrants to the United States]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 June 13]].
+2014-03-09T08:28:22+00:00,598812411,592307247,0,Citation bot 1,E. Premkumar Reddy,"[Cat542-dev]Add: pmc, display-authors, author pars. 10-16. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]."
+2015-05-06T12:10:05+00:00,661089116,654743488,0,Trappist the monk,Diskpart,/* How it works */Remove redundant |year= parameter from CS1 citations; using [[Project:AWB|AWB]]
+2014-09-14T02:13:52+00:00,625467188,618152983,0,184.78.229.215,Erythromycin,/* Adverse effects */
+2016-05-10T20:06:06+00:00,719622171,718100594,0,LoudLizard,Erythromycin,Add see also
+2012-09-10T14:40:56+00:00,511697096,510678334,0,194.209.48.11,Exemestane,
+2015-10-07T17:58:57+00:00,684607285,672282816,0,2A02:2F0E:C36F:FFFF:0:0:50D:8FD6,Exemestane,"/* See also */ another medicine with similar attributes, Testolactone, added."
+2012-03-01T20:26:02+00:00,479707318,477696065,0,HenryScow,Fulvestrant,/* NICE evaluation */
+2014-04-21T15:21:50+00:00,605159671,588545337,0,Luigi.a.cruz,Diskpart,/* How it works */ Revised last statement and added entry.
+2016-04-03T21:29:30+00:00,713406737,708812500,0,DePiep,Disufenton sodium,"Remove unused parameters InChI, InChIKey (StdInChI, StdInChIKey are used). See [[Template_talk:Infobox_drug#Removal_of_unused_parameters_InChI.2C_InChIKey|Talk]] (via AWB script)"
+2016-09-25T13:11:17+00:00,741112298,740092978,0,Vanished user 0x8cSXE0x6,Fulvestrant,
+2017-04-02T20:45:46+00:00,773505101,723511749,0,Brainist,GABAA-rho receptor,added [[Category:GABA]] using [[WP:HC|HotCat]]
+2013-10-08T16:42:37+00:00,576310621,573586096,0,Anomalocaris,GABAA-rho receptor,chemical superscripts; minus; rm unused {{cite}} parameters; italics
+2011-10-22T15:58:18+00:00,456842825,443397691,0,Luckas-bot,GABAA-rho receptor,r2.7.1) (Robot: Modifying [[uk:ГАМКА-ро-рецептор]]
+2016-05-31T01:45:54+00:00,722942601,721951289,0,Dcirovic,GABAB receptor,clean up using [[Project:AWB|AWB]]
+2014-05-23T07:53:05+00:00,609779182,591383264,0,Rjwilmsi,GABAA-rho receptor,/* Nomenclature */Added 1 doi to a journal cite using [[Project:AWB|AWB]] (10206)
+2015-03-29T17:51:00+00:00,654061386,619704859,0,213.114.157.71,GABAB receptor,
+2016-05-19T12:00:56+00:00,721035868,721035754,0,Citation bot,H-89,Alter: issue. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].
+2013-10-18T17:16:52+00:00,577736329,577735114,0,CheMoBot,H-89,"Updating {{chembox}} (changes to verified and watched fields - added verified revid - updated 'ChemSpiderID_Ref', 'StdInChI_Ref', 'StdInChIKey_Ref', 'CASNo_Ref', 'Verifiedfields', 'Watchedfields', 'verifiedrevid') per [[WP:CHEMVALID|Chem/Drugbox valida..."
+2012-02-10T15:33:44+00:00,476130694,443142728,0,Kennethlam2010,H-89,
+2017-08-29T09:12:00+00:00,797811112,789495817,0,KolbertBot,Hard disk drive failure,Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]
+2012-04-22T17:44:05+00:00,488680524,476130694,0,MSBOT,H-89,r2.7.3) (Robot: Adding [[fa:اچ-۸۹]]
+2015-09-11T22:13:34+00:00,680596770,679541538,0,50.180.51.5,Hard disk drive failure,/* Modes of failure */ Grammar clarification
+2012-10-23T13:36:32+00:00,519386933,519386916,0,ClueBot NG,Hard disk drive failure,"Reverting possible vandalism by [[Special:Contributions/115.133.25.29|115.133.25.29]] to version by Thumperward. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1290425) (Bot)"
+2012-08-18T17:41:48+00:00,508011358,506530230,0,Kashmiri,Histone deacetylase inhibitor,/* Clinical trials */ Valproic acid: trialled for SMA
+2016-01-13T08:10:48+00:00,699597036,698709443,0,Intgr,Hard disk drive failure,Remove commercial external links. Undid revision 698633251 by [[Special:Contributions/95.180.26.123|95.180.26.123]] ([[User talk:95.180.26.123|talk]])
+2015-10-30T17:36:25+00:00,688254335,684459391,0,Bazonka,Histone deacetylase inhibitor,"/* Approved */clean up, replaced: licenced → licensed (2) using [[Project:AWB|AWB]]"
+2015-12-24T12:24:07+00:00,696624196,678925595,0,Rjwilmsi,INH1,fix DOI
+2015-09-01T13:25:04+00:00,678925595,670403190,0,Monkbot,INH1,/* Biological activity */[[User:Monkbot/Task 7: CS1 et al. repair|Task 7c]]: repair/replace et al. in cs1 author/editor parameters;
+2015-07-13T15:09:47+00:00,671264361,671263655,0,Seppi333,Isoprenaline,/* Uses */clean up using [[Project:AWB|AWB]]
+2011-10-30T23:50:51+00:00,458211706,457006767,0,24.5.194.174,Iodoresiniferatoxin,
+2012-07-29T00:06:20+00:00,504670769,504670518,0,139.80.123.46,Irinotecan,
+2012-04-13T17:36:30+00:00,487205814,472369189,0,BogBot,Irinotecan,replaced secondary with primary DrugBank accession number per [[Template_talk:Drugbox#Drugbank_accession_numbers|talk]]
+2017-06-26T22:36:27+00:00,787688299,786934525,0,Jcjohnson303,Isoprenaline,spelling correction
+2013-03-20T18:21:19+00:00,545742680,497955664,0,Addbot,Iodoresiniferatoxin,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q3154065]]"
+2015-05-03T16:21:27+00:00,660607144,621207042,0,Miszatomic,K-Ras(G12C) inhibitor 6,/* References */
+2017-01-18T06:01:05+00:00,760644748,760520213,0,BG19bot,K-Ras(G12C) inhibitor 6,[[WP:CHECKWIKI]] error fix for #03.  Missing Reflist.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -
+2017-10-31T01:15:15+00:00,807955834,807955755,0,Graeme Bartlett,K-Ras(G12C) inhibitor 6,added [[Category:Chlorine compounds]] using [[WP:HC|HotCat]]
+2014-08-14T13:10:44+00:00,621207042,621195295,0,AnomieBOT,K-Ras(G12C) inhibitor 6,Dating maintenance tags: {{Cn}}
+2015-03-04T15:24:01+00:00,649849170,632211246,0,Leyo,KN-62,undefined
+2013-12-22T06:52:30+00:00,587196150,459814736,0,Dcirovic,Linifanib,Corrected StdInChI
+2012-08-28T12:42:20+00:00,509594299,492826503,0,Edgar181,LY294002,removed [[Category:Synthetic chromones]]; added [[Category:Chromones]] using [[WP:HC|HotCat]]
+2017-08-08T11:27:37+00:00,794495483,769380120,0,Dewritech,LY294002,"clean up, [[WP:AWB/T|typo(s) fixed]]: eg  → e.g. using [[Project:AWB|AWB]]"
+2011-05-19T15:44:37+00:00,429897955,424715575,0,Edgar181,LY294002,+[[Category:Chromones]]; +[[Category:Protein kinase inhibitors]] using [[WP:HC|HotCat]]
+2015-08-28T02:35:28+00:00,678224567,669032432,0,Dexbot,Linifanib,Bot: Deprecating [[Template:Cite pmid]] and some minor fixations
+2014-12-12T02:47:35+00:00,637716840,634794824,0,Tardis user,List of data recovery software,
+2012-04-25T14:02:03+00:00,489157010,488800513,0,Snarespenguin,List of data recovery software,Tidied up.
+2013-07-12T05:25:47+00:00,563916716,562800196,0,115.112.157.4,List of data recovery software,/* Services */
+2012-09-13T10:53:07+00:00,512157041,511913564,0,Ilovefiledeer,List of data recovery software,/* File recovery */
+2013-07-18T12:16:36+00:00,564780550,564779659,0,ErrantX,List of data recovery software,rm non-notable
+2014-09-14T12:19:06+00:00,625513554,625509214,0,NeilN,List of data recovery software,Reverted 2 edits by [[Special:Contributions/Gomzise|Gomzise]] ([[User talk:Gomzise|talk]]): Spam. ([[WP:TW|TW]])
+2016-05-05T14:41:04+00:00,718771945,716016841,0,Widefox,List of data recovery software,Added {{[[Template:unreferenced|unreferenced]]}} tag to article ([[WP:TW|TW]])
+2014-05-01T13:55:54+00:00,606625991,606625929,0,66.140.69.33,List of data recovery software,/* File recovery */
+2017-10-25T02:03:32+00:00,806946341,806815586,0,JCW-CleanerBot,MTOR,"[[User:JCW-CleanerBot#Logic|task]], replaced: journal = PloS → journal = PLoS (3) using [[Project:AWB|AWB]]"
+2013-07-20T09:22:37+00:00,565032624,565031365,0,Nbauman,MTOR,"/* Discovery and history */ Simplify language. There are more important things to know about it than ""navel of the world"" however colorful that may be"
+2012-12-26T13:54:58+00:00,529831018,526520075,0,EmausBot,MTOR,r2.7.2+) (Robot: Adding [[uk:MTOR]]
+2016-02-17T06:41:54+00:00,705395439,705294427,0,BG19bot,MTOR,/* top */[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -
+2015-07-05T23:02:11+00:00,670113379,667038491,0,Mikalra,MTOR,wiki link
+2016-09-02T17:25:12+00:00,737420223,721943427,0,Vanished user 0x8cSXE0x6,Nepicastat,
+2011-06-11T14:17:34+00:00,433722770,433459408,0,Rjwilmsi,MTOR,"/* Aging */Journal cites:,  using [[Project:AWB|AWB]] (7751)"
+2014-02-25T20:27:03+00:00,597118189,595814341,0,Monkbot,Mifepristone,Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]] (test)
+2013-03-10T09:38:34+00:00,543186355,486031856,0,Addbot,Nepicastat,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q6593941]]"
+2013-07-25T15:27:51+00:00,565765062,560912083,0,FrescoBot,P2RX7,Bot: [[User:FrescoBot/Links|link syntax/spacing]] and minor changes
+2014-11-11T23:07:30+00:00,633448570,633448401,0,DSCrowned,P2RX7,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/132.239.184.41|132.239.184.41]] ([[User talk:132.239.184.41|talk]]): However it is of some relevence to the article. References look fine. ([[WP:TW|Twinkle]])
+2016-12-30T13:28:56+00:00,757400533,757399705,0,Rod57,PARP inhibitor,"/* Additional mode of action for PARP inhibitors */ ([[MK-4827]], [[olaparib]], and [[veliparib]])   with olaparib being the most potent inhibitor, but MK-4827 the most toxic, and complexes with veliparib the least tightly bound to DNA.<ref"
+2017-09-30T15:33:38+00:00,803118291,803117919,0,Shaded0,PARP inhibitor,/* Mechanism of action */ clarifying statement and adding w/ source and some extra detail.
+2017-06-22T11:37:55+00:00,786924754,784211774,0,Anypodetos,PARP inhibitor,[[Niraparib]] approved
+2015-03-23T06:28:08+00:00,653120584,620878666,0,96.24.70.76,PARP inhibitor,/* Examples in clinical trials */
+2011-07-25T09:21:22+00:00,441318266,439489552,0,223.167.112.214,Mifepristone,精力剤:http://www.feelkanpou.com/Energy/Energy.html
+2013-10-15T20:05:27+00:00,577330458,573152089,0,128.252.76.117,PARP inhibitor,
+2013-03-07T21:28:07+00:00,542676284,524085841,0,Yobot,PARP inhibitor,[[WP:CHECKWIKI]] errors fixed + general fixes using [[Project:AWB|AWB]] (8961)
+2011-10-14T14:58:19+00:00,455540829,453354809,0,Hb2019,PARP inhibitor,
+2015-12-03T21:42:01+00:00,693638411,688143850,0,Dawood94,PARP inhibitor,/* See also */
+2014-09-29T00:56:23+00:00,627483820,627179278,0,BattyBot,PYR-41,fixed [[Help:CS1 errors#bad_date|CS1 errors: dates]] to meet [[MOS:DATEFORMAT]] (also [[WP:AWB/GF|General fixes]]) using [[Project:AWB|AWB]] (10471)
+2016-03-29T20:23:44+00:00,712559209,712549417,0,Zac67,PartitionMagic,different versions for Win server and Netware
+2013-12-31T20:26:17+00:00,588569269,577860399,0,Glenn,PartitionMagic,catchg
+2012-12-08T19:30:02+00:00,527064531,526831232,0,50.84.40.50,Peptide synthesis,/* External links */
+2014-05-27T09:14:31+00:00,610322743,609286848,0,Anomalocaris,Peptide synthesis,"/* Triazoles */ unlink COMU, a {{disamb}} that would bring you right back here."
+2013-02-28T07:12:32+00:00,541171451,534664869,0,Addbot,Pentagastrin,"[[User:Addbot|Bot:]] Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q423586]] ([[User talk:Addbot|Report Errors]])"
+2016-09-09T17:35:07+00:00,738555714,729325516,0,Vanished user 0x8cSXE0x6,Pentagastrin,
+2018-01-11T00:07:41+00:00,819732383,819531243,0,Algertzars,Peptide synthesis,/* Carbodiimides */ added link to carbodiimide article
+2011-09-08T12:05:52+00:00,449125534,443830735,0,ZéroBot,Phosphoinositide 3-kinase,r2.7.1) (robot Adding: [[it:Fosfoinositide 3-chinasi]]
+2013-11-29T14:13:49+00:00,583788896,579790174,0,138.38.62.80,Phosphoinositide 3-kinase,/* Classes II and III */
+2016-08-10T22:31:09+00:00,733913443,722063589,0,"Me, Myself, and I are Here",Phosphoinositide 3-kinase,/* Further reading */ fix
+2011-10-17T09:41:24+00:00,455982518,455981583,0,Helpful Pixie Bot,Phosphoinositide 3-kinase,Dated {{Citation needed}}. (Build p616)
+2015-10-30T21:04:52+00:00,688279913,688084435,0,Multipotentialmike,Phosphoinositide 3-kinase,/* Class I */
+2015-06-02T08:06:57+00:00,665142037,663296364,0,Midas02,Phosphoinositide 3-kinase,Disambiguating links to [[EGFR]] (link changed to [[Epidermal growth factor receptor]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2016-06-04T23:51:19+00:00,723745645,722188807,0,Dcirovic,Peptide synthesis,refs using [[Project:AWB|AWB]]
+2018-01-06T14:20:59+00:00,818943627,818925381,0,Wowbagger2,Phosphoinositide 3-kinase,"Agree PI3K is more common abbreviation (see previous edit), however, I added PIK3 as Alt Symbol."
+2016-05-25T19:17:04+00:00,722063589,700102631,0,156.204.167.2,Phosphoinositide 3-kinase,/* Cancers */
+2014-04-18T11:53:19+00:00,604724960,604688317,0,173.76.203.26,Pomalidomide,/* Origin and development */
+2012-02-23T14:10:44+00:00,478428178,456615398,0,Anypodetos,Pomalidomide,Orphan drug; some drugbox additions
+2011-09-03T12:59:02+00:00,448219924,444432724,0,BogBot,Pomalidomide,populated new fields in {{drugbox}} and reordered per [[Wikipedia:Bots/Requests_for_approval/BogBot_2|bot approval]]. Report errors and suggestions to [[User_talk:BogBot]]
+2014-12-05T18:11:23+00:00,636783473,624825371,0,DePiep,Ponatinib,Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[User:Frietjes/findargdups|findargdups]]
+2016-06-02T15:17:33+00:00,723354682,703094307,0,Vanished user 0x8cSXE0x6,Pracinostat,
+2012-04-13T12:06:33+00:00,487162487,472976867,0,Rjwilmsi,Ponatinib,"Journal cites (journal names):, added 1 DOI, added 1 issue number, using [[Project:AWB|AWB]] (8060)"
+2012-02-16T18:32:44+00:00,477225046,469713171,0,Snotbot,Pravadoline,Fixing section headings [[Wikipedia:Bots/Requests for approval/Snotbot 5|(task 5)]]
+2017-08-10T08:27:02+00:00,794829549,794794089,0,Jytdog,Prednisone,Undid revision 794794089 by [[Special:Contributions/108.105.25.230|108.105.25.230]] ([[User talk:108.105.25.230|talk]]) unsourced
+2012-11-01T13:55:25+00:00,520897630,517583996,0,82.113.133.21,Pravadoline,comma
+2016-09-19T04:01:39+00:00,740114087,736949381,0,WolfmanSF,Prednisone,/* Further reading */ edit citation
+2012-01-10T09:43:49+00:00,470586881,470586370,0,Rod57,Proteasome inhibitor,", especially [[multiple myeloma]]"
+2014-08-12T06:48:45+00:00,620878067,620057908,0,DMacks,Proteasome inhibitor,Reverted to revision 592862636 by [[Special:Contributions/Monkbot|Monkbot]] ([[User talk:Monkbot|talk]]): Rv copyviospam by [[user:Manyzz]]. ([[WP:TW|TW]])
+2013-09-04T03:20:20+00:00,571462133,544273993,0,24.128.90.4,Proteasome inhibitor,/* Examples */
+2011-11-04T22:31:37+00:00,459047406,431821725,0,TadejM,Proteasome inhibitor,rm see also per [[WP:MOS]]
+2016-06-05T05:50:56+00:00,723780692,719216410,0,Dcirovic,Proteasome inhibitor,refs using [[Project:AWB|AWB]]
+2016-08-25T10:46:18+00:00,736129159,723780692,0,Seppi333,Proteasome inhibitor,/* Examples */ ce refs
+2013-03-15T04:00:12+00:00,544273993,543699503,0,Addbot,Proteasome inhibitor,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q7251235]]"
+2013-06-20T22:13:23+00:00,560812633,556318787,0,Dcirovic,Protein kinase B,Dcirovic moved page [[AKT]] to [[Protein Kinase B]] over redirect
+2015-01-02T09:51:21+00:00,640633330,640260166,0,Boghog,Protein kinase B,cite journal → vcite2 journal
+2015-06-17T06:07:34+00:00,667308813,654928439,0,BogBot,Quizartinib,Activating IUPHAR link. Report errors and suggestions to [[User_talk:BogBot]]
+2015-04-04T16:25:29+00:00,654928439,653593435,0,CheMoBot,Quizartinib,Updating {{chembox}} (changes to verified and watched fields - updated 'ChEMBL_Ref') per [[WP:CHEMVALID|Chem/Drugbox validation]] (report [[Wikipedia_talk:WikiProject_Chemicals|errors]] or [[user talk:CheMoBot|bugs]])
+2014-08-12T07:17:20+00:00,620880443,619918531,0,DMacks,Quizartinib,Reverted to revision 607620176 by [[Special:Contributions/Rjwilmsi|Rjwilmsi]] ([[User talk:Rjwilmsi|talk]]): Rv copyviospam by [[User:Manyzz]]. ([[WP:TW|TW]])
+2016-05-18T23:36:14+00:00,720960597,705702335,0,BG19bot,RI-1 (chemical),/* Literature */Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2015-02-21T10:45:15+00:00,648171046,631916821,0,Rjwilmsi,RI-1 (chemical),"/* Literature */Journal cites,  using [[Project:AWB|AWB]] (10820)"
+2012-12-18T06:10:26+00:00,528594824,528592992,0,AnomieBOT,Quizartinib,Dating maintenance tags: {{Cn}}
+2015-09-02T02:19:51+00:00,679032126,669040150,0,Monkbot,Raltitrexed,/* Mechanism of action */[[User:Monkbot/Task 7: CS1 et al. repair|Task 7c]]: repair/replace et al. in cs1 author/editor parameters;
+2015-06-28T13:33:04+00:00,669040646,665921218,0,DePiep,Regorafenib,Infobox drug: rm/replace deprecated params. Fix unk parameters (rm some Chembox-params) (via AWB script)
+2016-05-25T00:40:21+00:00,721943385,713237169,0,Dcirovic,Raltitrexed,clean up using [[Project:AWB|AWB]]
+2016-04-02T20:28:17+00:00,713237290,708075294,0,DePiep,Regorafenib,"Remove redundant parameters InChI, InChIKey (StdInChI, StdInChIKey are used). See [[Template_talk:Infobox_drug#Removal_of_unused_parameters_InChI.2C_InChIKey|Talk]] (via AWB script)"
+2016-11-21T01:38:14+00:00,750650297,723342583,0,KDmansfield,Regorafenib,Added citation link to Dysphonia article
+2016-06-02T13:51:55+00:00,723342583,722785143,0,RoadTrain,Regorafenib,/* Other actions */ citify | [[WP:UCB|Assisted by Citation bot]]
+2014-11-07T13:44:10+00:00,632825907,631775740,0,Philluu,Regorafenib,replace with generic name
+2013-05-02T02:32:51+00:00,553136962,545727378,0,Falconerd,Regorafenib,/* Advanced gastrointestinal stromal tumors */ changed adjective to match subject
+2017-06-13T19:05:41+00:00,785476296,785476262,0,OrganoMetallurgy,Regorafenib,added [[Category:Fluoroarenes]] using [[WP:HC|HotCat]]
+2014-09-01T15:37:39+00:00,623721641,623431022,0,Edgar181,Resminostat,chembox tweaks; copyedits; markup cleanup
+2017-10-21T20:31:02+00:00,806405624,785476296,0,DePiep,Regorafenib,"Licence EU: Add link to EMA licence page (EPAR), search by INN. (via JWB)"
+2014-01-06T08:39:05+00:00,589416992,589416804,0,Fuse809,Regorafenib,
+2015-09-02T02:35:54+00:00,679034100,675694261,0,Monkbot,Resminostat,/* Mechanism */[[User:Monkbot/Task 7: CS1 et al. repair|Task 7c]]: repair/replace et al. in cs1 author/editor parameters;
+2017-09-21T09:56:05+00:00,801706473,801706360,0,Rod57,Resminostat,/* Mechanism */ [[HDAC
+2014-10-11T23:05:11+00:00,629234620,627564588,0,Yobot,Rho kinase inhibitor,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10479)
+2017-05-25T04:07:53+00:00,782138545,774315923,0,JJMC89,Rhode Island's 1st congressional district,Replace dead link per [[Special:Permalink/782132179#Fixing a dead URL on 400+ articles|request]]) ([[Project:AWB|AWB]] (12156)
+2015-05-31T19:56:23+00:00,664908390,664896747,0,Billmckern,Rhode Island's 1st congressional district,Lapham photo
+2011-08-06T01:44:36+00:00,443276623,406474254,0,GoldRingChip,Rhode Island's 1st congressional district,/* List of Representatives */ formatted like other states
+2015-03-26T12:06:51+00:00,653596711,653482162,0,Louisajb,Rigosertib,added chembl id
+2012-11-13T17:47:40+00:00,522855871,522677391,0,Gareth CHEBI,Rilpivirine,ChEBI ID aded to box identifiers
+2014-01-01T23:41:44+00:00,588733819,556227262,0,OwenBlacker,Rilpivirine,Bypassed redirects; minor edits
+2012-05-04T21:57:57+00:00,490700845,485250627,0,Hunding,Rilpivirine,+ 1 link
+2012-01-13T01:07:27+00:00,471063731,470979638,0,Meewam,Rilpivirine,Undid revision 470979638 by [[Special:Contributions/205.232.183.66|205.232.183.66]] ([[User talk:205.232.183.66|talk]]) template considered for deletion
+2017-09-05T23:35:24+00:00,799151355,797485510,0,Vanished user 0x8cSXE0x6,Riluzole,/* See also */
+2013-08-26T17:03:49+00:00,570284408,566410702,0,OwenBlacker,Ritonavir,/* Polymorphism and temporary market withdrawal */ Retitled section; added information about heat-stable 100mg tablet used in the EU
+2012-07-26T02:17:25+00:00,504205040,501529188,0,Hmainsbot1,Ritonavir,"/* History */AWB general fixes and delink dates per [[:WP:DATELINK]], [[:WP:YEARLINK]] and [[:MOS:UNLINKYEARS]] using [[Project:AWB|AWB]] (8097)"
+2017-02-22T16:07:24+00:00,766866094,755880479,0,CHEBISteve,Rucaparib,Added CHEBI ID to Drugbox
+2013-03-03T13:03:09+00:00,541885417,540704229,0,Shisha-Tom,Ritonavir,/* Mechanism of action */ wikilink
+2014-07-05T11:56:19+00:00,615685424,615685336,0,96.26.79.253,Ritonavir,Fixed link
+2011-06-03T13:30:59+00:00,432355218,432355131,0,Edgar181,Rucaparib,chembox and data added
+2012-07-06T11:43:30+00:00,500936825,500936632,0,Rod57,Riluzole,/* ALS */ RILUTEK Prescribing Information
+2014-11-18T09:38:08+00:00,634354141,634353327,0,CheMoBot,Salubrinal,"Updating {{drugbox}} (changes to verified and watched fields - updated 'ChemSpiderID_Ref', 'ChEMBL_Ref', 'StdInChI_Ref', 'StdInChIKey_Ref', 'Verifiedfields', 'Watchedfields') per [[WP:CHEMVALID|Chem/Drugbox validation]] (report [[Wikipedia talk:WikiPro..."
+2012-01-09T11:56:41+00:00,470420178,469198070,0,146.107.3.4,Salubrinal,
+2016-09-05T11:51:19+00:00,737853294,727569743,0,CheMoBot,Salubrinal,Updating {{infobox_drug}} (changes to verified and watched fields - updated 'ChEBI_Ref') per [[WP:CHEMVALID|Chem/infobox_drug validation]] (report [[Wikipedia talk:WikiProject_Pharmacology|errors]] or [[user talk:CheMoBot|bugs]])
+2016-05-19T11:01:10+00:00,721029332,713240351,0,Gareth CHEBI,Salubrinal,ChEBI ID added to Drugbox identifiers
+2011-07-01T07:46:49+00:00,437195084,437170115,0,CheMoBot,Secnidazole,Updating {{drugbox}} (changes to verified fields - updated '') per [[Wikipedia:WikiProject Chemicals/Chembox validation|Chem/Drugbox validation]] (report [[Wikipedia talk:WikiProject_Pharmacology|errors]] or [[user talk:CheMoBot|bugs]])
+2013-03-11T10:17:01+00:00,543387936,503411940,0,Addbot,Secnidazole,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q4413249]]"
+2015-10-27T16:50:37+00:00,687769428,687687412,0,Anypodetos,Selumetinib,"/* top */ Wikilink; remove ""Inc."""
+2017-01-04T20:06:19+00:00,758329697,729550211,0,Rjwilmsi,Selumetinib,"Journal cites:,  using [[Project:AWB|AWB]] (12140)"
+2017-07-25T17:46:44+00:00,792292344,779824357,0,199.212.7.75,Selumetinib,
+2015-11-05T14:25:40+00:00,689190314,687769428,0,Gareth CHEBI,Selumetinib,ChEBI ID added to Drugbox identifiers
+2013-12-22T06:54:38+00:00,587196277,542225639,0,Dcirovic,Selumetinib,Corrected StdInChI
+2015-03-26T11:50:24+00:00,653595271,616590299,0,Louisajb,Selumetinib,added chembl id
+2017-01-10T02:49:29+00:00,759252864,758608816,0,Uiopop90,Silodosin,added content
+2014-03-23T16:53:12+00:00,600897110,593025538,0,Citation bot,Semagacestat,"[Cat543-dev]Add: display-authors, author pars. 10-10. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]."
+2014-07-11T23:40:15+00:00,616590299,613377097,0,FeatherPluma,Selumetinib,f
+2012-07-29T04:58:52+00:00,504703873,499873432,0,108.17.52.30,Selumetinib,/* Possible uses */  The reference appears irrelevant: Solit et al used a different MEK inhibitor in their paper.
+2018-01-23T20:30:10+00:00,821993282,806405951,0,KolbertBot,Silodosin,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v481)
+2014-12-30T11:22:07+00:00,640224364,637335016,0,Gadget850,Semagacestat,"/* References */fix subscription required in citation, replaced: format=Subscription required\n → subscription=yes using [[Project:AWB|AWB]]"
+2012-05-22T06:27:46+00:00,493783891,492314990,0,Majilis,Solar energy,
+2013-06-14T09:19:27+00:00,559848336,558983895,0,Darx9url,Solar energy,better
+2014-08-24T08:13:39+00:00,622573948,622573657,0,Dsimic,Solid-state drive,/* Comparison with hard disk drives */ Cleaned up
+2015-02-23T12:33:03+00:00,648469069,648467272,0,MER-C,Solid-state drive,Reverted edits by [[Special:Contribs/AveragelyPro|AveragelyPro]] ([[User talk:AveragelyPro|talk]]) to last version by ChamithN
+2014-12-02T19:34:18+00:00,636355447,632874961,0,Iaritmioawp,Src inhibitor,Added two categories.
+2017-05-01T14:06:47+00:00,778160406,734279789,0,Rjwilmsi,Src inhibitor,"/* Examples */Journal cites, added 1 PMC using [[Project:AWB|AWB]] (12156)"
+2013-05-17T11:15:49+00:00,555495933,555485933,0,VanishedUser sdu8asdasd,Steam (service),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Neebtoothy|Neebtoothy]] ([[User talk:Neebtoothy|talk]]): Not required. ([[WP:TW|TW]])
+2012-02-07T00:03:47+00:00,475486576,475486478,0,80.238.104.232,Steam (service),Corrected number of languages supproted
+2016-02-14T13:10:15+00:00,704925166,703950345,0,Graham87,Sulfasalazine,/* Side effects */ copyedit ... WebMD is probably an alright source here
+2013-01-03T16:22:54+00:00,531105641,531102834,0,AnomieBOT,Sulfasalazine,Dating maintenance tags: {{Citation needed}}
+2016-11-08T06:16:53+00:00,748445534,696474846,0,CitationCleanerBot,TAPI-1,"/* top */clean up, url redundant with pmc, add pmc, and/or remove accessdate if no url using [[Project:AWB|AWB]]"
+2012-07-28T19:01:56+00:00,504632794,502973785,0,Jü,Swainsonine,svg
+2012-03-20T05:43:31+00:00,482847436,480200136,0,AvocatoBot,Swainsonine,r2.7.1) (Robot: Adding [[fa:سوینسونین]]
+2012-11-06T23:42:20+00:00,521748294,504619092,0,Tylcole,Thiamazole,
+2017-08-07T19:18:20+00:00,794394289,786323765,0,Fuse809,TCB-2,rm &mbsp;
+2017-05-09T20:55:58+00:00,779596133,777859087,0,SporkBot,Thiamazole,"Remove template per [[Wikipedia:Templates for discussion/Log/2017 April 29|TFD]], but consider adding a link to [[List of cytochrome P450 modulators]]"
+2016-01-20T17:26:49+00:00,700792416,678201502,0,Ulric1313,TCB-2,dab
+2013-01-16T19:58:12+00:00,533412935,533412833,0,Ebabcock,Truckee–Carson Irrigation District,removed [[Category:Special districts of California]] using [[WP:HC|HotCat]]
+2014-05-05T04:11:35+00:00,607117610,551045011,0,Look2See1,Truckee–Carson Irrigation District,"links, commonscat."
+2012-05-22T18:45:55+00:00,493863870,493863791,0,Dicklyon,Truckee–Carson Irrigation District,en dash fix
+2015-06-24T11:36:56+00:00,668455142,623147595,0,193.175.73.216,Truckee–Carson Irrigation District,link
+2016-05-23T14:18:03+00:00,721695243,670405500,0,WildCation,UBP-302,"ChemBox edits: Added CSID, InChIs, SMILES, ChEMBL, PubChem ID."
+2017-05-17T07:28:48+00:00,780797767,780797695,0,Gbawden,User talk:Chenvera,Notification: speedy deletion nomination of [[Draft:MiniTool Power Data Recovery]]. ([[WP:TW|TW]])
+2012-11-28T15:27:08+00:00,525351074,525224174,0,Rifleman 82,User talk:Edgar181/Archive28,/* Lycopene */
+2016-10-21T16:00:07+00:00,745517695,739952982,0,Vanjagenije,User talk:Lostbeauty moon,Adding sockpuppetry block notice per [[Wikipedia:Sockpuppet investigations/Yukileoo]]
+2014-10-21T12:32:34+00:00,630506847,630022019,0,Edgar181,User talk:Yanzhong,Copyright violations
+2013-09-23T00:38:00+00:00,574115548,574078936,0,76.226.71.150,User talk:Edgar181/Archive28,/* September 2013 */ new section
+2016-12-17T22:00:07+00:00,755413035,621035147,0,Anypodetos,Voreloxin,R from alternative name
+2017-07-20T12:45:23+00:00,791464298,755412998,0,Fuse809,Vosaroxin,Fixing spacing issues
+2017-01-13T21:49:25+00:00,759920740,758130924,0,Fixuture,Web browsing history,Reverted 1 edit by [[Special:Contributions/95.61.88.173|95.61.88.173]] ([[User talk:95.61.88.173|talk]]): Looks like spam. ([[WP:TW|TW]])
+2015-08-05T22:04:43+00:00,674748951,666355726,0,Rhododendrites,Web browsing history,update link
+2016-01-07T15:14:07+00:00,698670584,698611177,0,Luigi.a.cruz,Windows 10 editions,"/* Comparison chart */ Spanned two rows of cell containing comment ""Features"" (Top and bottom)."
+2017-01-11T07:06:43+00:00,759455238,759332798,0,Codename Lisa,Windows 10 editions,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2001:4898:80E8:D:0:0:0:231|2001:4898:80E8:D:0:0:0:231]] ([[User talk:2001:4898:80E8:D:0:0:0:231|talk]]): Reverted self-proclaimed [[WP:OR|original research]].
+2017-02-12T04:36:35+00:00,765010160,764978108,0,122.62.213.67,Windows 10 editions,Noting merger proposal with Windows 10 Cloud article.
+2014-12-16T23:47:25+00:00,638423843,629001434,0,DePiep,Y-320,"Temperatures (melting, boiling, autoignite, flash) use convert template to calculate (m: rm setting imagesize to dflt). using [[Project:AWB|AWB]]"
+2017-04-30T14:48:59+00:00,777990811,679119020,0,Rjwilmsi,Y-320,"Journal cites:, added 1 PMC using [[Project:AWB|AWB]] (12151)"
+2015-03-04T12:55:55+00:00,649833984,638423843,0,DePiep,Y-320,
+2015-09-02T15:15:27+00:00,679119020,670675644,0,Monkbot,Y-320,/* In vivo */[[User:Monkbot/Task 7: CS1 et al. repair|Task 7c]]: repair/replace et al. in cs1 author/editor parameters;
+2016-03-17T06:40:51+00:00,710488902,702865832,0,DMacks,Z-FA-FMK,Phe (amino acid residue) not Ph (benzene group)
+2015-12-26T15:45:39+00:00,696873642,696743757,0,Rjwilmsi,Zaprinast,"Journal cites, added 1 DOI, added 1 PMID, added 1 PMC using [[Project:AWB|AWB]] (11761)"
+2013-03-21T20:39:54+00:00,546074819,540211081,0,Addbot,Zaprinast,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q6592076]]"
+2016-12-22T09:11:18+00:00,756149799,756027190,0,BG19bot,Zaprinast,[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -
+2011-10-21T03:26:40+00:00,456623353,443145007,0,CheMoBot,Zaprinast,"Updating {{chembox}} (changes to verified and watched fields - updated 'DrugBank_Ref', 'ChEBI_Ref', 'KEGG_Ref') per [[WP:CHEMVALID|Chem/Drugbox validation]] (report [[Wikipedia_talk:WikiProject_Chemicals|errors]] or [[user talk:CheMoBot|bugs]])"
+2014-07-12T22:40:43+00:00,616711072,613942955,0,Vanisaac,1-Docosanol,"/* Mechanism and history of antiviral drug usage */template:Pmid -> template:Cite pmid per [[Wikipedia:Redirects for discussion/Log/2014 July 2#Template:Pmid]], replaced: {{pmid → {{cite pmid using [[Project:AWB|AWB]]"
+2012-07-21T15:55:51+00:00,503449939,500559552,0,Hm20,5-HT receptor,/* Subtypes */
+2011-10-19T23:19:38+00:00,456434475,453900658,0,ChuispastonBot,5-HT receptor,r2.7.1) (Robot: Adding [[fi:Serotoniinireseptori]]
+2016-12-17T22:23:27+00:00,755416285,754369480,0,198.52.13.15,1-Docosanol,/* Mechanism and history of antiviral drug usage */
+2012-11-30T17:26:33+00:00,525728256,525727557,0,Lenny Kaufman,Anastrozole,/* Usage in men */
+2017-06-24T03:20:51+00:00,787214483,787214165,0,Redhat101,Anastrozole,
+2014-09-28T05:28:22+00:00,627377393,625293121,0,Charcoal III,Apabetalone,
+2014-03-24T16:10:14+00:00,601049559,601049465,0,129.31.197.167,Allopurinol,/* Blood pressure */
+2013-06-29T14:40:34+00:00,562117835,559638500,0,Tenbergen,Allopurinol,"/* Tumor lysis syndrome */ added link, improved sentence structure"
+2016-05-01T11:56:57+00:00,718080065,716826384,0,151.185.80.250,Allopurinol,"Repetitive wording of hypersensitivity syndrome, made a sentence confusing"
+2011-08-26T18:26:13+00:00,446859113,446859077,0,Chris Capoccia,Allopurinol,/* Further reading */
+2012-01-26T21:42:20+00:00,473404691,471909898,0,MystBot,Anastrozole,r2.7.1) (Robot: Adding [[fr:Anastrozole]]
+2014-06-22T05:18:22+00:00,613898706,609776806,0,David Hedlund,Anastrozole,{{Depressogenics}}
+2016-08-15T21:09:33+00:00,734658862,726668609,0,Wouterstomp,Apabetalone,/* References */ removed stub template
+2014-03-12T17:29:55+00:00,599313321,598474586,0,207.225.232.131,Apixaban,/* Pharmacokinetics */
+2014-07-11T14:48:32+00:00,616531922,616531897,0,BethNaught,Backup,Reverted edits by [[Special:Contributions/66.147.172.7|66.147.172.7]] ([[User talk:66.147.172.7|talk]]) to last revision by Peter Flass ([[WP:HG|HG]])
+2014-12-27T06:44:46+00:00,639780182,639777857,0,Renamed user 51g7z61hz5af2azs6k6,Apixaban,/* Medical uses */ Add NICE evaluation
+2013-01-16T16:39:02+00:00,533384907,533077316,0,Xiaohumo,Backup,"/*Related topics: Added ""Data consistency""*/"
+2016-03-26T10:38:17+00:00,712015651,712015444,0,Lemongirl942,Backup,/* External links */ Removed link to youtube
+2014-05-10T15:55:25+00:00,607925521,607605530,0,Beland,Backup,/* External links */ +How Toy Story 2 Almost Got Deleted (video)
+2017-09-08T11:37:06+00:00,799549343,797148380,0,82.231.235.144,Backup,"This is a generic page about backup, it should not promote a particular solution or then it should promote them all equally"
+2014-12-09T15:12:36+00:00,637327809,637327765,0,Ike1x,Backup,Reverted 2 edits by [[Special:Contributions/80.193.123.82|80.193.123.82]] ([[User talk:80.193.123.82|talk]]) to last revision by ClueBot NG. ([[WP:TW|TW]])
+2015-10-23T14:03:44+00:00,687131817,685444402,0,170.163.60.6,Apixaban,/* Mechanism of action */
+2011-05-04T01:58:36+00:00,427336428,427335548,0,Aymatth2,Backup,Reverted edits by [[Special:Contributions/122.168.206.231|122.168.206.231]] ([[User talk:122.168.206.231|talk]]) to last revision by 198.189.141.143 ([[WP:HG|HG]])
+2011-06-28T18:52:10+00:00,436718752,436707004,0,Versageek,Backup,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/207.225.224.193|207.225.224.193]] ([[User talk:207.225.224.193|talk]]) to last version by FleetCommand
+2014-05-19T07:03:25+00:00,609202707,609202523,0,LM2000,Backup,Reverted edits by [[Special:Contribs/85.90.91.84|85.90.91.84]] ([[User talk:85.90.91.84|talk]]) to last version by ClueBot NG
+2012-11-09T18:19:28+00:00,522212153,522166368,0,88.65.74.173,Backup,Grammar: verb dictionary forms always with 'to'
+2013-07-03T07:51:14+00:00,562660625,560147251,0,Pointillist,Backup and Restore,article needs relevant reliable third-party references
+2015-11-12T11:31:53+00:00,690277712,684875034,0,CV9933,Bicalutamide,"Cite error - ref names ""WilliamsBigby2009"" ""Gulley2011"" ""WeinKavoussi2011"" ""BunceCampbell2010"" ""FurrTucker1996"" ""SchellensMcLeod2005"" ""JordanFurr2010"" defined multiple times. Fixed."
+2014-04-14T19:09:36+00:00,604197477,597949130,0,Psych0-007,"CP 55,940","Replaced ""marijuana"" with ""cannabis"", as the former is slang while the latter is the official term."
+2013-08-03T21:07:31+00:00,567032369,561022187,0,Custoo,"CP 55,940",
+2016-02-05T04:26:01+00:00,703379602,700417621,0,Aethyta,"CP 55,940",
+2014-08-06T04:50:37+00:00,620051130,619039989,0,108.94.166.35,Backup,
+2015-01-02T14:01:36+00:00,640654772,638601440,0,203.158.129.101,Backup,/* Managing the data repository */
+2015-08-04T09:23:03+00:00,674496689,674495337,0,Mean as custard,Backup and Restore,de-spam
+2013-03-22T12:36:09+00:00,546274645,541268517,0,Magioladitis,Ca2+/calmodulin-dependent protein kinase II,clean up / remove special characters from DEFAULTSORT using [[Project:AWB|AWB]] (8976)
+2013-02-02T03:09:00+00:00,536128129,536126986,0,Seaphoto,CGS-21680,Reverted edits by [[Special:Contributions/74.5.143.181|74.5.143.181]] ([[User talk:74.5.143.181|talk]]) to last revision by Dcirovic ([[WP:HG|HG]])
+2013-09-30T14:06:56+00:00,575141339,567534682,0,Prof. Squirrel,Ca2+/calmodulin-dependent protein kinase II,
+2015-07-09T13:17:03+00:00,670673890,663005351,0,JWBE,Diclofensine,removed [[Category:Organochlorides]]; added [[Category:Chloroarenes]] using [[WP:HC|HotCat]]
+2014-03-07T04:24:50+00:00,598502893,590852398,0,Vokesk,Candesartan,/* Clinical use */ wording
+2011-12-26T16:23:38+00:00,467771775,465615268,0,84.94.175.71,Disk cloning,/* Common Uses */
+2011-05-28T13:13:23+00:00,431330768,424459201,0,Bluebusy,Disk cloning,/* See also */ Remove irrelevant link.
+2015-05-04T18:36:01+00:00,660812315,647905001,0,Malcolmxl5,Disk cloning,"Removing link(s) to ""Drive Vaccine"": Removing links to deleted page Drive Vaccine. ([[WP:TW|TW]])"
+2012-12-25T16:15:06+00:00,529727653,528966097,0,Mblumber,Disk cloning,Disambiguated: [[kernel]] → [[Linux kernel]]
+2017-03-12T17:34:10+00:00,769966191,766802365,0,Narky Blert,Disk cloning,Link to DAB page repaired
+2017-02-22T06:58:30+00:00,766802365,748619512,0,Lovedandelion222,Disk cloning,/* Common uses */
+2014-07-28T21:15:49+00:00,618873495,616273614,0,PHaze,Disk cloning,/* Operating environment */ computers -> computer's
+2015-12-06T16:12:38+00:00,694021782,693546793,0,Rich Farmbrough,Disk cloning,/* Common Uses */
+2012-03-17T08:32:31+00:00,482334643,477903098,0,Some guy,Disk cloning,/* OS-Specific Imaging Utilities */
+2017-02-23T12:31:51+00:00,767008797,765800270,0,Magioladitis,Diskpart,[[MOS:REFPUNCT]] / cleanup /etc. using [[Project:AWB|AWB]]
+2018-01-12T15:27:28+00:00,820008815,820006937,0,Gareth Griffith-Jones,Diskpart,Reverted 1 edit by [[Special:Contributions/87.242.216.2|87.242.216.2]]
+2017-08-26T06:27:05+00:00,797306423,767008797,0,Jon Kolbert,Diskpart,Updating links from HTTP→HTTPS for [[Microsoft TechNet]]
+2013-03-09T13:52:56+00:00,543022432,540500687,0,Zenfiric,Diskpart,
+2011-01-04T09:00:10+00:00,405853279,404194995,0,Pashihiko,Disufenton sodium,
+2016-07-19T02:01:23+00:00,730444970,718804649,0,71.41.210.146,Disufenton sodium,Infoibox : slight tweak to SMILES to reduce nested parens
+2014-11-23T03:22:04+00:00,635052134,624001861,0,Jonesey95,Disufenton sodium,Adding displayauthors parameter to fix [[Help:CS1_errors#displayauthors]].
+2016-03-10T06:37:50+00:00,709311474,706836699,0,KasparBot,E. Premkumar Reddy,"migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/E. Premkumar Reddy|challenges for this article]]"
+2011-02-11T14:54:30+00:00,413305202,408224149,0,Oaktree b,Erythromycin,/* Available forms */
+2012-10-29T00:03:36+00:00,520345302,520344833,0,Premkumarreddy,E. Premkumar Reddy,/* References */
+2014-03-04T22:11:26+00:00,598169952,598169842,0,Doc James,Erythromycin,/* Synthesis */ moved
+2014-10-08T13:58:24+00:00,628789504,628789406,0,AbhiSuryawanshi,Erythromycin,added [[Category:Pregnancy Category B (US)]] using [[WP:HC|HotCat]]
+2012-01-17T03:31:13+00:00,471802521,471499355,0,204.210.216.20,Erythromycin,
+2014-01-13T08:45:45+00:00,590481606,590071105,0,Beyond My Ken,Exemestane,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Aschwole|Aschwole]] ([[User talk:Aschwole|talk]]) to last version by Addbot
+2013-05-14T05:20:38+00:00,555007459,543904421,0,14.139.124.19,Fulvestrant,Removal of degradative function of ICI
+2014-08-30T16:07:39+00:00,623461106,623435980,0,86.31.238.197,Exemestane,
+2017-04-16T03:55:34+00:00,775633489,775279829,0,2602:306:BD5E:1390:25F4:2EF6:BFD1:3C56,Fulvestrant,
+2013-12-01T09:38:42+00:00,584032490,576310621,0,Magioladitis,GABAA-rho receptor,clean up using [[Project:AWB|AWB]] (9746)
+2012-08-27T11:21:25+00:00,509410461,495767858,0,BJCrockett,Fulvestrant,Added Links to appropriate pages
+2013-02-05T03:56:04+00:00,536635673,533654225,0,108.72.253.183,GABAA-rho receptor,/* Function */
+2013-04-01T18:58:24+00:00,548190462,541695143,0,128.83.98.174,GABAA-rho receptor,
+2014-02-21T20:43:13+00:00,596541275,596532110,0,CFCF,GABAB receptor,clarification
+2010-10-23T18:48:42+00:00,392451914,392451358,0,Where next Columbus?,H-89,oops. +nowiki
+2017-11-25T18:34:37+00:00,812054447,812037439,0,Tom94022,Hard disk drive failure,Undid revision 812037439 by [[Special:Contributions/103.243.83.2|103.243.83.2]] ([[User talk:103.243.83.2|talk]])rvt inappropriate lede addition
+2017-04-26T19:31:00+00:00,777368309,770306934,0,2001:14BA:8300:0:0:0:2:5EE2,Hard disk drive failure,more stats ; removed whitespace
+2012-02-23T07:10:52+00:00,478387227,462957583,0,94.212.223.111,Hard disk drive failure,/* Causes */
+2013-02-14T18:54:29+00:00,538269061,537822399,0,122.175.9.180,Hard disk drive failure,/* Metrics of failures */
+2014-04-17T16:40:24+00:00,604614271,604581899,0,Tom94022,Hard disk drive failure,"Undid revision 604581899 by [[Special:Contributions/TheAMmollusc|TheAMmollusc]] ([[User talk:TheAMmollusc|talk]])rmv non-sequitor, spin up cycles not related to metrics of failure"
+2017-01-14T19:29:24+00:00,760063791,760029670,0,Mean as custard,Hard disk drive failure,Undid revision 760029670 by [[Special:Contributions/Cheflynda|Cheflynda]] ([[User talk:Cheflynda|talk]])
+2017-11-17T07:17:17+00:00,810760861,796329285,0,106.70.239.49,Histone deacetylase inhibitor,/* Psychiatry and neurology */Fixed typo.
+2013-06-22T19:00:25+00:00,561099245,559874854,0,71.106.162.105,Hard disk drive failure,/* Landing zones and load/unload technology */ punctuation after introductory phrase
+2017-08-20T02:29:50+00:00,796329285,796139591,0,Soupvector,Histone deacetylase inhibitor,/* Effects on gene expression */ over-linked and fix cap
+2014-02-04T08:08:46+00:00,593856877,545742680,0,Citation bot 4,Iodoresiniferatoxin,"[Cat531-dev]Alter: title. Add: display-authors, author pars. 10-14. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]."
+2017-07-15T01:47:45+00:00,790634676,790609064,0,Doc James,Irinotecan,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Dorrellc|Dorrellc]] ([[User talk:Dorrellc|talk]]): Was simplier before, that can go latter. ([[WP:TW|TW]])"
+2012-07-31T14:04:41+00:00,505100514,499464810,0,Emigiorg,Isoprenaline,
+2017-11-15T09:04:45+00:00,810449122,810059351,0,2001:620:417:2250:E091:9A02:4766:3F6C,Isoprenaline,/* Contradindications */
+2013-10-19T09:04:14+00:00,577820615,575695943,0,Morska Papuzka,Isoprenaline,illustration is added
+2016-02-22T16:10:48+00:00,706304241,706303973,0,92.25.128.147,Isoprenaline,/* Synthesis */
+2011-12-17T11:27:07+00:00,466317609,461952451,0,NotWith,LY294002,Category:Synthetic chromones
+2011-11-09T15:49:27+00:00,459814736,443920991,0,R'n'B,Linifanib,Disambiguated: [[KDR]] → [[Kinase insert domain receptor]]
+2017-08-25T08:25:47+00:00,797158846,791693999,0,Amitpandeys0281,List of data recovery software,/* File Recovery */
+2014-07-12T22:59:05+00:00,616713320,587196150,0,Vanisaac,Linifanib,"template:Pmid -> template:Cite pmid per [[Wikipedia:Redirects for discussion/Log/2014 July 2#Template:Pmid]], replaced: {{pmid → {{cite pmid (2) using [[Project:AWB|AWB]]"
+2017-04-22T10:24:54+00:00,776647008,776646726,0,Virat8586,List of data recovery software,Just edited a link as earlier I unintentionally mentioned a wrong link
+2012-12-13T05:31:13+00:00,527818426,524478983,0,122.180.143.210,List of data recovery software,
+2017-07-21T22:05:30+00:00,791693999,789380182,0,Xabier Armendaritz,List of data recovery software,/* File Recovery */
+2013-07-04T07:33:09+00:00,562800196,562097131,0,84.192.219.175,List of data recovery software,"/* File recovery */ Much better description (see isobuster.com).  Why limit description to only multisession optical discs and its image files ?  Also, it's 'storage'"
+2014-11-21T05:34:57+00:00,634794824,634794733,0,I dream of horses,List of data recovery software,Reverted edits by [[Special:Contributions/122.177.147.253|122.177.147.253]] ([[User talk:122.177.147.253|talk]]): violates [[WP:EL|external links]] policy ([[WP:HG|HG]])
+2017-05-05T02:44:57+00:00,778760085,778758910,0,115.112.96.153,List of data recovery software,test
+2013-06-23T16:28:44+00:00,561225821,561165391,0,Electron9,List of data recovery software,/* File recovery */ [[IsoBuster]] generic description
+2014-06-18T00:44:14+00:00,613359643,613359414,0,Ivan Komlev,List of data recovery software,/* File recovery */
+2013-05-15T09:18:00+00:00,555189463,555189167,0,Mdann52,List of data recovery software,"no article, no entry ([[WP:HG|HG]])"
+2015-02-01T02:45:22+00:00,645084886,643839650,0,Rwong48,List of data recovery software,remove space before colon
+2011-02-13T18:19:32+00:00,413725495,413273277,0,83.239.151.62,List of data recovery software,
+2016-10-10T14:56:43+00:00,743645172,740715723,0,66.195.33.222,List of data recovery software,/* Companies */ Adding/removing wikilink(s)
+2015-12-03T18:00:28+00:00,693609682,693609530,0,Iztwoz,MTOR,/* top */ bold
+2015-11-14T09:24:00+00:00,690581271,690581052,0,Iztwoz,MTOR,/* Complexes */lower case use for MTOR complexes
+2011-08-03T14:58:48+00:00,442854078,441001643,0,Hu12,MTOR,rvt [[WP:REFSPAM]]
+2013-01-21T11:49:26+00:00,534150038,533239905,0,190.228.135.10,Mifepristone,
+2011-04-14T22:11:12+00:00,424104772,421943441,0,Bobigny,Mifepristone,"/* United States */ update CDC statistics to 2007; update Guttmacher statistics to 2008, add Planned Parenthood 2008 statistics"
+2016-06-03T05:47:39+00:00,723464474,723464283,0,Doc James,Mifepristone,/* Pregnancy */
+2012-04-07T05:42:24+00:00,486031856,477299904,0,Rezabot,Nepicastat,r2.7.1) (Robot: Adding [[fa:نپیکاستات]]
+2014-05-08T14:27:32+00:00,607634130,602269200,0,A1candidate,P2RX7,
+2016-07-27T17:50:07+00:00,731813156,731813022,0,Serols,PARP inhibitor,Reverted edits by [[Special:Contributions/76.66.167.32|76.66.167.32]] ([[User talk:76.66.167.32|talk]]) ([[WP:HG|HG]]) (3.1.19)
+2015-06-03T05:17:01+00:00,665281005,661781367,0,Mikael Häggström,PARP inhibitor,+Cochrane study
+2012-03-08T23:04:58+00:00,480910236,473341999,0,User931,PARP inhibitor,
+2013-03-13T02:39:37+00:00,543748561,540663037,0,24.73.198.94,PartitionMagic,Remove spam url
+2011-09-05T03:50:51+00:00,448512021,448253361,0,112.193.113.94,PartitionMagic,
+2011-10-13T13:23:51+00:00,455367362,454129169,0,59.162.17.49,PartitionMagic,/* Future versions */
+2014-02-27T14:37:25+00:00,597375822,597372462,0,Deb,Pentagastrin,fix link
+2011-01-23T15:47:21+00:00,409571221,409570379,0,Ttoptommy,Peptide synthesis,/* Protecting groups */
+2011-05-20T22:08:39+00:00,430107029,429575332,0,AlexNB,Peptide synthesis,/* Triazoles */ added structures of the mentioned uronium-based coupling reagents
+2013-03-15T19:42:28+00:00,544447587,543701857,0,LilHelpa,Peptide synthesis,"[[WP:AWB/T|Typo fixing]]  and general fixes, [[WP:AWB/T|typos fixed]]: Syntesis → Synthesis using [[Project:AWB|AWB]] (8853)"
+2015-02-02T13:53:17+00:00,645305590,641616837,0,82.130.108.69,Peptide synthesis,
+2012-04-27T20:29:35+00:00,489524683,487166625,0,RedBot,Phosphoinositide 3-kinase,r2.7.2) (Robot: Modifying [[id:Fosfatidil inositol-3 kinase]]
+2016-01-16T12:14:46+00:00,700102631,700097532,0,Materialscientist,Phosphoinositide 3-kinase,Reverted 1 edit by [[Special:Contributions/1.187.240.200|1.187.240.200]] identified as test/vandalism using [[WP:STiki|STiki]]
+2014-07-13T17:37:27+00:00,616809551,615563830,0,142.20.20.193,Phosphoinositide 3-kinase,/* Class I */
+2012-01-26T22:48:59+00:00,473415161,471143221,0,Saxonwhittle,Phosphoinositide 3-kinase,
+2014-09-24T11:10:00+00:00,626882876,616809551,0,Pgunerka,Phosphoinositide 3-kinase,"previous version suggested binding of bigger molecule to smaller one. It's obvious error, as is the sentence: ""car is bound to wheels"". Smaller things are bound to bigger ones, not the opposite."
+2013-11-07T06:11:21+00:00,580558817,580556721,0,198.72.207.116,Ponatinib,/* Clinical trials */
+2016-08-01T14:05:19+00:00,732517645,713235238,0,EdChem,Pravadoline,italicise and unit spacing
+2013-12-19T21:53:54+00:00,586850007,561411686,0,ChrisGualtieri,Pravadoline,Remove stub template(s). Page is start class or higher. Also check for and do General Fixes + Checkwiki fixes using [[Project:AWB|AWB]]
+2017-02-28T04:17:53+00:00,767822279,742247799,0,Bender the Bot,Ponatinib,HTTP&rarr;HTTPS for [[The New York Times]]. using [[Project:AWB|AWB]]
+2012-10-15T11:59:04+00:00,517916915,514114831,0,79.70.237.240,Prednisone,/* Minor */
+2016-10-07T20:48:07+00:00,743102146,740114087,0,Gap9551,Prednisone,/* Medical uses */ sp.
+2016-11-16T21:29:11+00:00,749919107,741782652,0,47.247.154.107,Pravadoline,I changed a Grammatical mistake from indometacin to indomethacin
+2010-07-30T15:41:01+00:00,376277394,339792827,0,PotatoBot,Proteasome inhibitor,Stub sorting and placement of stub template(s): antineoplastic-drug-stub
+2013-05-22T20:08:53+00:00,556318787,554240615,0,146.189.0.206,Protein kinase B,/* Further reading */
+2016-07-19T04:17:31+00:00,730460061,723501180,0,98.247.28.103,Quizartinib,/* Mechanism */Fixed typo
+2014-09-16T22:24:19+00:00,625872444,623765653,0,Postcard Cathy,RI-1 (chemical),added [[Category:Biochemistry]]; removed {{uncategorized}} using [[WP:HC|HotCat]]
+2011-03-01T08:01:30+00:00,416525710,407542076,0,Mr Sheep Measham,Quizartinib,Added category
+2014-09-29T02:14:51+00:00,627490911,627457380,0,Doc James,Raltitrexed,Reverted edits by [[Special:Contribs/86.29.113.165|86.29.113.165]] ([[User talk:86.29.113.165|talk]]) to last version by 192.147.249.189
+2012-04-28T17:18:02+00:00,489652199,487650416,0,188.60.48.239,Regorafenib,
+2016-05-31T05:28:22+00:00,722965098,707414866,0,Ricky81682,Rhode Island's 1st congressional district,+[[Category:Constituencies established in 1843]]; +[[Category:1843 establishments in Rhode Island]] using [[WP:HC|HotCat]]
+2014-09-26T11:43:58+00:00,627146291,623252768,0,Skycloud86,Rhode Island's 1st congressional district,/* List of Representatives */
+2012-10-08T00:12:28+00:00,516552596,506308286,0,Kumioko,Rhode Island's 1st congressional district,"fix portals, brackets, typos, dates, links, references, categories, formatting and persondata using [[Project:AWB|AWB]] (8414)"
+2015-09-13T16:57:17+00:00,680858168,664908390,0,72.200.175.160,Rhode Island's 1st congressional district,
+2013-04-23T23:33:26+00:00,551874312,550586487,0,72.192.5.158,Rhode Island's 1st congressional district,
+2017-04-07T16:49:58+00:00,774315923,757546500,0,Mélencron,Rhode Island's 1st congressional district,update PVI
+2014-09-16T13:55:33+00:00,625813458,622669487,0,Postcard Cathy,Rigosertib,added [[Category:Antineoplastic and immunomodulating drugs]]; removed {{uncategorized}} using [[WP:HC|HotCat]]
+2014-03-25T09:26:13+00:00,601167813,601167198,0,A2-33,Rilpivirine,populate PDB_ligand in drugbox
+2017-04-21T04:16:46+00:00,776463102,774906600,0,Pashihiko,Rilpivirine,
+2017-12-19T17:51:00+00:00,816161372,816160852,0,Towel401,Riluzole,/* Amyotrophic lateral sclerosis */
+2014-12-26T06:53:16+00:00,639662669,637897924,0,Esbboston,Ritonavir,/* History */Typo: inhibitor
+2015-05-12T14:31:24+00:00,662005143,650814366,0,Arcadian,Ritonavir,nav
+2010-06-21T00:32:39+00:00,369266879,369266868,0,Bearcat,Rucaparib,Adding category [[:Category:Cancer treatments]] (using [[WP:HOTCAT|HotCat]])
+2016-12-20T18:48:57+00:00,755880479,755873402,0,Vaccinationist,Rucaparib,
+2015-08-17T22:12:27+00:00,676580564,670399320,0,Qelto,Rucaparib,
+2017-05-11T06:08:29+00:00,779824357,779824222,0,Zahnmännel,Selumetinib,/* Possible uses */
+2012-07-21T09:02:07+00:00,503411940,503410109,0,EleferenBot,Secnidazole,r2.7.3) (Robot: Adding [[ru:Секнидазол]]
+2016-12-18T12:32:06+00:00,755503506,736931374,0,Vaccinationist,Semagacestat,
+2015-12-10T19:17:30+00:00,694669405,694669167,0,66.168.253.87,Silodosin,ce
+2014-11-23T18:46:33+00:00,635131846,634356011,0,65.175.250.58,Silodosin,
+2014-12-29T17:34:17+00:00,640116635,640116191,0,Jeffery Pardue,Solar energy,/* Applications of solar technology */
+2013-11-08T18:14:51+00:00,580785732,576647171,0,Danu Widjajanto,Solar energy,replace link
+2014-04-21T14:23:28+00:00,605153128,604872001,0,Pragmaticstatistic,Solar energy,/* External links */
+2014-06-30T11:42:53+00:00,615004667,615004199,0,80.223.182.224,Solid-state drive,
+2013-10-07T10:07:38+00:00,576117384,576111037,0,Reatlas,Solid-state drive,Reverted 1 edit by [[Special:Contributions/80.192.184.174|80.192.184.174]] ([[User talk:80.192.184.174|talk]]) to last revision by Dsimic. ([[WP:TW|TW]])
+2014-10-20T08:40:27+00:00,630350239,630348261,0,Snaily,Solid-state drive,Undid revision 630348261 by [[Special:Contributions/82.33.220.179|82.33.220.179]] ([[User talk:82.33.220.179|talk]])
+2016-08-13T07:46:27+00:00,734279789,720100309,0,Fitindia,Src inhibitor,"/* Examples */clean up, [[WP:AWB/T|typo(s) fixed]]: a oral → an oral using [[Project:AWB|AWB]]"
+2014-01-22T13:24:28+00:00,591865448,591826637,0,Ferret,Steam (service),"Reverted 1 edit by [[Special:Contributions/Getitogether|Getitogether]] ([[User talk:Getitogether|talk]]): See talk archives, this has been discussed and removed before. ([[WP:TW|TW]])"
+2014-04-25T04:02:45+00:00,605701219,605700914,0,Samuel Wiki,Steam (service),/* Developer features */ moved {{anchor}} into header
+2012-09-12T17:24:12+00:00,512042705,504630931,0,YFdyh-bot,Sulfasalazine,r2.7.3) (Robot: Adding [[cs:Sulfasalazin]]
+2013-05-27T00:57:29+00:00,556940826,556940624,0,Masem,Steam (service),[[Help:Reverting|Reverted]] edits by [[Special:Contributions/92.8.79.185|92.8.79.185]] ([[User talk:92.8.79.185|talk]]) to last version by MelbourneStar
+2012-11-12T12:03:40+00:00,522624848,504632794,0,Jacopo Werther,Swainsonine,Swainsonine is an indolizidine (or Octahydroindolizine) alkaloid (No indolizine)
+2017-01-31T20:03:41+00:00,762986291,736170315,0,155.58.3.30,TCB-2,The first reference was incorrect; corrected to valid paper.
+2014-05-23T01:17:59+00:00,609748143,596652801,0,PErdos,Thiamazole,"Edited ""antithyroid drug"", which was represented as two separate links to ""thyroid"" and ""drug"", to one link to ""antithyroid agent""."
+2015-12-15T18:54:09+00:00,695389085,678963569,0,Kazi Amirul Hossain,Thiamazole,/* Mechanism of action */
+2012-10-31T23:23:53+00:00,520820369,520811371,0,Wilhelmina Will,User talk:Edgar181/Archive28,/* Happy Halloween! */ new section
+2013-09-09T23:13:52+00:00,572261287,556642567,0,Wavelength,Web browsing history,"""in to"" ([[adverb]] and [[preposition]]) —> ""into"" (preposition)—[[wikt:in]]—[[wikt:to]]—[[wikt:into]]—http://public.wsu.edu/~brians/errors/into.html—[[User talk:Wavelength]], sections 37 and 39 and 41 (to Archive 5)"
+2011-08-09T08:26:20+00:00,443834341,413598425,0,UberScienceNerd,Web browsing history,/* Privacy */ remove unencyclopedic section
+2012-07-31T04:50:04+00:00,505046370,503599640,0,76.113.90.87,Web browsing history,Undid revision 503599640 by [[Special:Contributions/76.115.217.37|76.115.217.37]] ([[User talk:76.115.217.37|talk]])
+2016-01-23T15:36:59+00:00,701268673,693251004,0,Keimzelle,Web browsing history,/* Comparison of web browser history features */
+2014-07-12T22:57:40+00:00,616713140,546074819,0,Vanisaac,Zaprinast,"template:Pmid -> template:Cite pmid per [[Wikipedia:Redirects for discussion/Log/2014 July 2#Template:Pmid]], replaced: {{pmid → {{cite pmid (2) using [[Project:AWB|AWB]]"

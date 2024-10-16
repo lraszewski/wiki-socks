@@ -1,0 +1,49 @@
+timestamp,revid,parentid,sock,user,page,message
+2017-06-28T01:12:06+00:00,787865885,787865781,1,Yarmohammadi.sadegh,MacPherson strut,/* Design */
+2017-06-28T01:07:23+00:00,787865419,787865192,1,Yarmohammadi.sadegh,MacPherson strut,/* Design */
+2017-06-28T01:05:28+00:00,787865192,787865038,1,Yarmohammadi.sadegh,MacPherson strut,/* Design */
+2017-06-28T01:03:58+00:00,787865038,787864295,1,Yarmohammadi.sadegh,MacPherson strut,/* Design */
+2017-06-28T00:57:29+00:00,787864295,787863811,1,Yarmohammadi.sadegh,MacPherson strut,/* Design */
+2017-06-28T00:54:37+00:00,787863811,783711891,1,Yarmohammadi.sadegh,MacPherson strut,/* Design */
+2017-06-28T03:39:20+00:00,787881079,781145595,1,Aghayimajid,Sensitivity analysis,/* Other */ The Monte Carlo approach is explained in details
+2017-06-28T02:12:35+00:00,787873378,787868673,1,Aghayimajid,MacPherson strut,/* Design */  I introduced different models for simulating the behavior of Macpherson suspension
+2017-06-28T21:17:16+00:00,787996382,784797800,1,Johnhiltonw,Manual transmission,/* Unsynchronized transmission {{anchor|Constant-mesh gearbox}} */  explain more detail about gear ratio
+2017-06-28T21:12:04+00:00,787995765,784645002,1,Johnhiltonw,Transmission (mechanical device),/* Explanation */ The transmission ratio is explained which complete the wikipedia in this case
+2017-06-28T05:16:02+00:00,787889608,785183742,1,Johnhiltonw,Multi-objective optimization,/* Introduction */ a brief explanation to multi objective optimization
+2017-06-28T05:13:39+00:00,787889418,784916079,1,Johnhiltonw,Genetic algorithm,/* Optimization problems */ explanation to GA
+2017-06-28T05:09:42+00:00,787889099,781046120,1,Johnhiltonw,B-spline,/* Introduction */ explaining exact expalantio of bspline
+2017-06-28T05:04:29+00:00,787888640,776441844,1,Johnhiltonw,Fuel tank,/* Safety */ the sloshing effects of fuel is explained.
+2017-06-28T05:02:23+00:00,787888466,775699394,1,Johnhiltonw,Slosh dynamics,/* Sloshing in Road Tank Vehicles */ The sloshing effects of fluid on fuel tank is explained based on its rollover effects.
+2017-06-28T04:02:10+00:00,787883101,785534655,1,Minakouchakzad,Car suspension,I explained a more detailed explanation for suspension which is more accurate
+2017-06-28T03:51:47+00:00,787882142,786997403,1,Minakouchakzad,Pearson correlation coefficient,/* In least squares regression analysis */ The regression theory is explained in details
+2017-06-28T04:06:48+00:00,787883480,787883101,0,Greglocock,Car suspension,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Minakouchakzad|Minakouchakzad]] ([[User talk:Minakouchakzad|talk]]): Not true. ([[WP:TW|TW]])
+2017-06-28T06:13:29+00:00,787894474,787888640,0,Winged Blades of Godric,Fuel tank,Undid revision 787888640 by [[Special:Contributions/Johnhiltonw|Johnhiltonw]] ([[User talk:Johnhiltonw|talk]]) See [https://tools.wmflabs.org/copypatrol/en/?id=29754374]..
+2017-06-28T04:05:53+00:00,787883397,787873378,0,Greglocock,MacPherson strut,"Reverted 1 edit by [[Special:Contributions/Aghayimajid|Aghayimajid]] ([[User talk:Aghayimajid|talk]]): Sorry, awful grammar and false statements don't really make me want to spend 50 bucks to look at the paper. ([[WP:TW|TW]])"
+2017-05-18T18:56:05+00:00,781046120,781046068,0,2A02:908:13D2:720:35E9:88F7:33C2:EC84,B-spline,/* Further reading */
+2017-06-10T17:25:49+00:00,784916079,774791868,0,Magic links bot,Genetic algorithm,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2017-06-28T01:35:06+00:00,787868673,787865885,0,Andy Dingley,MacPherson strut,rv spam again  Undid revision 787865885 by [[Special:Contributions/Yarmohammadi.sadegh|Yarmohammadi.sadegh]] ([[User talk:Yarmohammadi.sadegh|talk]])
+2017-06-10T03:15:33+00:00,784797800,783275948,0,143.159.203.167,Manual transmission,/* Reverse */
+2017-06-22T20:24:53+00:00,786997403,786957497,0,CBM,Pearson correlation coefficient,Copyediting in citations - nonbreaking spaces and en dashes (manually reviewed)
+2017-06-12T03:26:53+00:00,785183742,781612034,0,Qx2020,Multi-objective optimization,"/* A priori methods */ There is a need to clarify between ""Lexicographic method"" & ""Lexicographic Goal Programming method"", both lie in the domain of multi-objective optimization"
+2017-04-16T15:06:42+00:00,775699394,764313279,0,66.108.16.64,Slosh dynamics,/* Practical effects */ add link to free surface effect.
+2017-06-09T11:08:36+00:00,784645002,784644736,0,Mitch Ames,Transmission (mechanical device),Remove supercategory of existing category per [[WP:SUBCAT]] using [[Project:AWB|AWB]]
+2017-06-28T06:15:03+00:00,787894601,787888466,0,Winged Blades of Godric,Slosh dynamics,Undid revision 787888466 by [[Special:Contributions/Johnhiltonw|Johnhiltonw]] ([[User talk:Johnhiltonw|talk]]) See [https://tools.wmflabs.org/copypatrol/en/?id=29754374]...
+2017-04-21T07:08:30+00:00,776479052,775693363,0,173.212.70.194,B-spline,/* Cardinal B-spline */Fixed typo
+2017-06-14T02:16:55+00:00,785534655,784662472,0,Eddaido,Car suspension,link
+2017-03-28T03:54:11+00:00,772581295,771651280,0,Expandinglight5,MacPherson strut,/* Advantages and disadvantages */ removed fact about 911 unrelated to MacPherson article.
+2017-03-24T13:42:34+00:00,771956584,771867733,0,Magioladitis,Car suspension,Fix prefpunct and using [[Project:AWB|AWB]]
+2017-04-16T14:24:58+00:00,775693363,772372405,0,84.146.77.107,B-spline,modified sum subscript
+2017-04-10T18:03:52+00:00,774791868,773493173,0,Glrx,Genetic algorithm,Undid revision 773493173 by [[Special:Contributions/86.31.52.71|86.31.52.71]] ([[User talk:86.31.52.71|talk]]) WP:ENGVAR
+2017-04-21T01:06:47+00:00,776441844,767895127,0,207.230.13.7,Fuel tank,Correcting a href id link
+2017-06-04T03:51:21+00:00,783711891,783710043,0,Rico402,MacPherson strut,"image caption: ""Upper green: Vehicle body/strut interface""; ""Lower green: Vehicle frame or unibody member"""
+2017-03-09T02:39:19+00:00,769369561,768249769,0,Loraof,Multi-objective optimization,/* Introduction */ wikilinks
+2017-04-28T16:32:54+00:00,777676840,776638249,0,AvalerionV,Manual transmission,v1.42b - [[WP:WCW]] project (Link equal to linktext)
+2017-05-05T23:12:02+00:00,778914393,778914375,0,156.209.149.58,Multi-objective optimization,/* Finance */
+2017-05-22T07:37:53+00:00,781612034,781611751,0,Rjwilmsi,Multi-objective optimization,"/* Process optimization */Journal cites, Added 1 doi to a journal cite using [[Project:AWB|AWB]] (12158)"
+2017-04-14T15:59:07+00:00,775390946,774615993,0,Smjg,Manual transmission,"""electric"", ""parking"" and ""brake"" are not proper nouns"
+2017-05-28T01:22:49+00:00,782610287,782609854,0,Quondum,Pearson correlation coefficient,/* In least squares regression analysis */ italic variable
+2017-05-30T02:37:54+00:00,782928142,782927209,0,Quondum,Pearson correlation coefficient,/* For a sample */ italic 'r'
+2017-04-22T08:45:00+00:00,776638249,776638180,0,67.223.3.175,Manual transmission,/* Unsynchronized transmission {{anchor|Constant-mesh gearbox}} */
+2017-05-11T18:58:22+00:00,779904915,775345264,0,Christo173,Pearson correlation coefficient,"/* Mathematical properties */  I change from b, d non-zero to b, d being positive. Suppose b < 0 and d > 0, I believe the correlation coefficient will be be negated."
+2017-05-20T23:57:07+00:00,781393503,778155769,0,2600:1005:B119:B792:356C:2C5C:D9BD:144,Transmission (mechanical device),/* Electric variable */
+2017-05-01T13:37:01+00:00,778155769,776179754,0,Wbm1058,Transmission (mechanical device),/* Simple */ link to [[revolutions per minute|rpm]] on first mention in the article

@@ -1,0 +1,666 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-07-22T14:22:54+00:00,1034911171,1034665906,1,Kefir18,Grenada national football team,
+2021-07-22T14:14:23+00:00,1034910167,1034690940,1,Kefir18,Panama national football team,
+2021-07-22T13:46:19+00:00,1034906413,1034816932,1,Kefir18,Qatar national football team,
+2021-07-22T13:40:33+00:00,1034905734,1034650581,1,Kefir18,Jamaica national football team,
+2021-07-22T13:32:40+00:00,1034904730,1034666120,1,Kefir18,Trinidad and Tobago national football team,
+2021-07-22T13:27:12+00:00,1034904070,1034816842,1,Kefir18,El Salvador national football team,
+2021-07-22T13:23:18+00:00,1034903635,1034858522,1,Kefir18,Haiti national football team,
+2021-07-15T12:50:31+00:00,1033724502,1033598334,1,Kefir18,Grenada national football team,
+2021-07-15T12:39:24+00:00,1033723118,1033698293,1,Kefir18,Costa Rica national football team,
+2021-07-15T12:33:00+00:00,1033722438,1033684536,1,Kefir18,Haiti national football team,
+2021-07-15T12:22:09+00:00,1033721165,1033655794,1,Kefir18,Trinidad and Tobago national football team,
+2021-07-15T12:17:23+00:00,1033720650,1033709185,1,Kefir18,El Salvador national football team,
+2021-07-15T12:11:55+00:00,1033720011,1033583117,1,Kefir18,Guadeloupe national football team,
+2021-07-13T17:10:45+00:00,1033432427,1033337207,1,Kefir18,Suriname national football team,
+2021-07-11T10:47:48+00:00,1033063783,1033017910,1,Kefir18,2021 CONCACAF Gold Cup squads,
+2021-07-11T10:42:47+00:00,1033063287,1033062300,1,Kefir18,Trinidad and Tobago national football team,
+2021-07-11T10:38:31+00:00,1033062914,1032852926,1,Kefir18,Judah García,
+2021-07-11T10:38:03+00:00,1033062864,1032853175,1,Kefir18,Khaleem Hyland,
+2021-07-11T10:37:23+00:00,1033062819,1024088748,1,Kefir18,Noah Powder,
+2021-07-11T10:35:59+00:00,1033062707,1015974442,1,Kefir18,Mekeil Williams,
+2021-07-11T10:33:22+00:00,1033062478,1032824205,1,Kefir18,Template:Trinidad and Tobago squad 2021 CONCACAF Gold Cup,
+2021-07-11T10:31:13+00:00,1033062300,1033029502,1,Kefir18,Trinidad and Tobago national football team,
+2021-07-09T23:25:33+00:00,1032832990,1032693764,1,Kefir18,French Guiana national football team,
+2021-07-08T11:55:46+00:00,1032594496,1032594124,1,Kefir18,Bermuda national football team,
+2021-07-08T11:51:16+00:00,1032594124,1032372308,1,Kefir18,Bermuda national football team,
+2021-07-08T11:10:23+00:00,1032590417,1032512918,1,Kefir18,Guadeloupe national football team,some fixes
+2021-07-08T10:54:14+00:00,1032588989,1032366185,1,Kefir18,French Guiana national football team,
+2021-07-07T17:29:25+00:00,1032477292,1032390524,1,Kefir18,Guadeloupe national football team,
+2021-06-30T19:59:14+00:00,1031287262,1029757487,1,Kefir18,Malawi national football team,
+2021-06-30T19:51:22+00:00,1031286144,1030715323,1,Kefir18,Tanzania national football team,
+2021-06-30T19:20:56+00:00,1031281788,1031242710,1,Kefir18,Somalia national football team,
+2021-06-30T14:48:43+00:00,1031242710,1031221869,1,Kefir18,Somalia national football team,
+2021-06-24T15:28:38+00:00,1030211744,1030211204,1,Kefir18,Somalia national football team,
+2021-06-24T15:24:29+00:00,1030211204,1030180465,1,Kefir18,Somalia national football team,
+2021-06-24T10:48:08+00:00,1030180465,1029736620,1,Kefir18,Somalia national football team,
+2021-06-23T19:42:49+00:00,1030085110,1029121853,1,Kefir18,Trinidad and Tobago national football team,
+2021-06-13T19:53:58+00:00,1028404979,1028134219,1,Kefir18,Guam national football team,
+2021-06-11T20:54:33+00:00,1028099182,1027641250,1,Kefir18,Uzbekistan national football team,
+2021-06-10T08:27:56+00:00,1027835464,1027835292,1,Kefir18,Mongolia national football team,
+2021-06-10T08:26:01+00:00,1027835292,1027789382,1,Kefir18,Mongolia national football team,
+2021-06-09T18:06:51+00:00,1027736845,1027736496,1,Kefir18,Montserrat national football team,
+2021-06-09T18:04:03+00:00,1027736496,1027654102,1,Kefir18,Montserrat national football team,
+2021-06-09T17:37:19+00:00,1027732879,1027592603,1,Kefir18,Lithuania national football team,
+2021-06-09T08:08:02+00:00,1027665342,1027541365,1,Kefir18,Guam national football team,
+2021-06-08T14:25:30+00:00,1027540485,1027520064,1,Kefir18,British Virgin Islands national football team,
+2021-06-08T08:18:09+00:00,1027498342,1027458899,1,Kefir18,Uzbekistan national football team,
+2021-06-08T06:34:26+00:00,1027487221,1027433336,1,Kefir18,Faroe Islands national football team,
+2021-06-06T17:06:09+00:00,1027194561,1027194309,1,Kefir18,List of men's footballers with 100 or more international caps,
+2021-06-06T17:05:03+00:00,1027194309,1027136403,1,Kefir18,List of men's footballers with 100 or more international caps,
+2021-06-06T16:51:19+00:00,1027192071,1027191897,1,Kefir18,Malta national football team,
+2021-06-06T16:49:58+00:00,1027191897,1027146904,1,Kefir18,Malta national football team,
+2021-06-06T07:15:18+00:00,1027122379,1027122224,1,Kefir18,Anguilla national football team,
+2021-06-06T07:13:32+00:00,1027122224,1027093424,1,Kefir18,Anguilla national football team,
+2021-06-05T11:35:19+00:00,1026987249,1026934507,1,Kefir18,Belize national football team,
+2021-06-05T07:43:24+00:00,1026964216,1026924883,1,Kefir18,Suriname national football team,top 10 else + statistics correct
+2021-06-04T20:47:25+00:00,1026894088,1026893196,1,Kefir18,Faroe Islands national football team,
+2021-06-04T20:40:40+00:00,1026893196,1026442365,1,Kefir18,Faroe Islands national football team,
+2021-06-04T18:34:07+00:00,1026875380,1026869978,1,Kefir18,Slovenia national football team,
+2021-06-04T12:12:02+00:00,1026817461,1026733569,1,Kefir18,Paraguay national football team,
+2021-06-04T10:05:05+00:00,1026803554,1026676521,1,Kefir18,Puerto Rico national football team,
+2021-06-04T08:27:50+00:00,1026794177,1026788659,1,Kefir18,Bolivia national football team,
+2021-06-04T08:13:00+00:00,1026792656,1026747996,1,Kefir18,Venezuela national football team,
+2021-06-04T07:26:50+00:00,1026787477,1026785986,1,Kefir18,Anguilla national football team,
+2021-06-04T07:10:37+00:00,1026785986,1026679524,1,Kefir18,Anguilla national football team,update
+2021-06-02T09:00:32+00:00,1026442365,1026442091,1,Kefir18,Faroe Islands national football team,
+2021-06-02T08:58:05+00:00,1026442091,1025118055,1,Kefir18,Faroe Islands national football team,
+2021-06-02T07:28:36+00:00,1026432343,1026380726,1,Kefir18,Lithuania national football team,
+2021-06-01T19:21:29+00:00,1026350782,1026349884,1,Kefir18,San Marino national football team,per NFT + new matchs and goalsllpp
+2021-05-31T19:33:45+00:00,1026168123,1025986356,1,Kefir18,Dominican Republic national football team,double Dabas and Nunez
+2021-05-31T13:21:19+00:00,1026115285,1025628729,1,Kefir18,National Football Federation of Guatemala,new website
+2021-05-31T13:20:43+00:00,1026115224,1026114531,1,Kefir18,Guatemala national football team,
+2021-05-31T13:14:42+00:00,1026114531,1024597676,1,Kefir18,Guatemala national football team,update squad + new website
+2021-05-31T07:39:44+00:00,1026077883,1026077723,1,Kefir18,Malta national football team,Mifsud was ending career!
+2021-05-31T07:38:02+00:00,1026077723,1026076433,1,Kefir18,Malta national football team,update
+2021-05-31T07:23:10+00:00,1026076433,1026054352,1,Kefir18,Malta national football team,Muscat had been played else in one match
+2021-05-28T19:24:25+00:00,1025655003,1025580147,1,Kefir18,San Marino national football team,Cevoli has been played
+2021-05-28T17:03:03+00:00,1025634352,1025634215,1,Kefir18,Latvia national football team,
+2021-05-28T17:02:12+00:00,1025634215,1025633464,1,Kefir18,Latvia national football team,
+2021-05-28T16:57:15+00:00,1025633464,1023362712,1,Kefir18,Latvia national football team,
+2021-05-27T09:37:22+00:00,1025394280,1025394098,1,Kefir18,Lithuania national football team,
+2021-05-27T09:35:42+00:00,1025394098,1023662872,1,Kefir18,Lithuania national football team,
+2021-05-26T16:04:25+00:00,1025257964,1023516288,1,Kefir18,Uzbekistan national football team,new squad
+2021-05-26T11:02:20+00:00,1025213403,1025014249,1,Kefir18,Kazakhstan national football team,per National Football Teams
+2021-05-26T10:45:17+00:00,1025211456,1015107266,1,Kefir18,Andy Selva,
+2021-05-26T10:42:04+00:00,1025211153,1025162135,1,Kefir18,San Marino national football team,per National Football Teams
+2021-05-25T20:59:42+00:00,1025122427,1020835108,1,Kefir18,B36 Tórshavn,
+2021-05-25T20:45:45+00:00,1025120161,953915454,1,Kefir18,Norman Nuñez,
+2021-05-25T20:44:06+00:00,1025119919,1019221986,1,Kefir18,Michael Salazar,
+2021-05-25T20:30:55+00:00,1025118055,1025117901,1,Kefir18,Faroe Islands national football team,
+2021-05-25T20:30:05+00:00,1025117901,1021672549,1,Kefir18,Faroe Islands national football team,
+2021-05-25T10:48:32+00:00,1025033843,1021539650,1,Kefir18,American Samoa national football team,
+2021-05-25T08:57:37+00:00,1025022357,1023974419,1,Kefir18,Guinea-Bissau national football team,
+2021-04-10T15:18:20+00:00,1017057824,1017057723,1,Kefir18,Samoa national football team,
+2021-04-10T15:17:41+00:00,1017057723,1017057702,1,Kefir18,Samoa national football team,reverting vandalism
+2021-04-10T15:17:33+00:00,1017057702,1016972471,1,Kefir18,Samoa national football team,reverting vandalism
+2021-04-10T15:07:38+00:00,1017056312,1004726462,1,Kefir18,Shane Orio,
+2021-04-10T15:00:28+00:00,1017055332,1015183507,1,Kefir18,Nawaf Al-Khaldi,
+2021-04-10T14:58:43+00:00,1017055113,1016777199,1,Kefir18,Ferhan Hasani,
+2021-04-10T14:48:35+00:00,1017053569,1017053078,1,Kefir18,El Salvador national football team,
+2021-04-10T14:45:14+00:00,1017053078,1016233282,1,Kefir18,El Salvador national football team,
+2021-04-10T14:16:49+00:00,1017049120,1014762976,1,Kefir18,Puerto Rico national football team,
+2021-04-10T14:04:54+00:00,1017047557,1016789412,1,Kefir18,Trinidad and Tobago national football team,
+2021-04-10T13:49:58+00:00,1017045587,1015852433,1,Kefir18,Azerbaijan national football team,
+2021-04-10T13:33:45+00:00,1017043642,1015595485,1,Kefir18,Malta national football team,
+2021-07-27T15:56:19+00:00,1035774796,928871413,1,BlockKiller,User talk:BlockKiller,
+2019-06-03T15:00:36+00:00,900116102,899772684,1,BlockKiller,Tahiti national football team,
+2019-06-02T09:37:26+00:00,899931793,897061550,1,BlockKiller,User:BlockKiller,
+2019-06-02T09:35:04+00:00,899931616,899869316,1,BlockKiller,User talk:BlockKiller,funny for rollback man
+2019-06-01T15:08:40+00:00,899812138,899811896,1,BlockKiller,New Zealand men's national football team,
+2019-06-01T15:06:14+00:00,899811896,899811812,1,BlockKiller,New Zealand men's national football team,
+2019-06-01T15:05:18+00:00,899811812,899811249,1,BlockKiller,New Zealand men's national football team,
+2019-06-01T15:00:08+00:00,899811249,899810968,1,BlockKiller,New Zealand men's national football team,
+2019-06-01T14:57:24+00:00,899810968,899810267,1,BlockKiller,New Zealand men's national football team,
+2019-06-01T14:51:25+00:00,899810267,899809720,1,BlockKiller,New Zealand men's national football team,no
+2019-06-01T14:46:35+00:00,899809720,899776531,1,BlockKiller,New Zealand men's national football team,
+2019-05-31T17:23:38+00:00,899686567,899685499,1,BlockKiller,2019 Copa América squads,bolivia hutchinson
+2019-05-26T06:43:36+00:00,898837927,898837689,1,BlockKiller,Scotland national football team,
+2019-05-26T06:40:38+00:00,898837689,898837620,1,BlockKiller,Scotland national football team,
+2019-05-26T06:39:35+00:00,898837620,898835591,1,BlockKiller,Scotland national football team,
+2019-05-26T06:07:47+00:00,898835591,897971274,1,BlockKiller,Scotland national football team,
+2019-05-25T11:21:06+00:00,898704220,898702279,1,BlockKiller,Argentina national football team,goodness
+2019-05-23T16:04:07+00:00,898441959,898441466,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T16:00:17+00:00,898441466,898441342,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T15:59:15+00:00,898441342,898441224,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T15:58:23+00:00,898441224,898440541,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T15:52:24+00:00,898440541,898440089,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T15:48:34+00:00,898440089,898439502,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T15:43:35+00:00,898439502,898438070,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T15:31:25+00:00,898438070,898437461,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T15:26:23+00:00,898437461,898436542,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T15:18:40+00:00,898436542,898435653,1,BlockKiller,New Zealand men's national football team,
+2019-05-23T15:11:58+00:00,898435653,896503287,1,BlockKiller,New Zealand men's national football team,
+2019-05-19T18:22:36+00:00,897844089,897784380,1,BlockKiller,Panama national football team,
+2019-05-19T10:46:26+00:00,897784380,897783930,1,BlockKiller,Panama national football team,
+2019-05-19T10:41:31+00:00,897783930,897783853,1,BlockKiller,Panama national football team,
+2019-05-19T10:40:42+00:00,897783853,897783772,1,BlockKiller,Panama national football team,
+2019-05-19T10:39:48+00:00,897783772,897782860,1,BlockKiller,Panama national football team,
+2019-05-19T10:31:37+00:00,897782860,897636901,1,BlockKiller,Panama national football team,
+2019-05-18T11:45:14+00:00,897636901,896244284,1,BlockKiller,Panama national football team,
+2019-05-16T13:59:58+00:00,897356611,897356103,1,BlockKiller,Greece national football team,
+2019-05-16T13:55:57+00:00,897356103,897355972,1,BlockKiller,Greece national football team,added player
+2019-05-16T13:54:48+00:00,897355972,897153786,1,BlockKiller,Greece national football team,added player
+2019-05-14T14:45:15+00:00,897061759,897059872,1,BlockKiller,User talk:BlockKiller,
+2019-05-14T14:43:55+00:00,897061550,0,1,BlockKiller,User:BlockKiller,anatolij chedriv
+2019-05-14T14:31:13+00:00,897059845,896749043,1,BlockKiller,Cameroon national football team,
+2019-05-12T13:31:29+00:00,896725400,896585666,1,BlockKiller,Draft:2019 UEFA European Under-21 Championship squads,śmiguś
+2019-05-11T16:19:25+00:00,896597167,894939929,1,BlockKiller,Cameroon national football team,provisional
+2019-05-11T13:42:47+00:00,896579399,0,1,BlockKiller,Draft:2019 UEFA European Under-21 Championship squads,[[WP:AES|←]]Created page with 'Thomas Havlett'
+2019-04-24T15:20:38+00:00,893940366,893940185,1,BlockKiller,Silesia national football team,fix
+2019-04-24T15:16:52+00:00,893939864,893939693,1,BlockKiller,Silesia national football team,
+2019-04-24T15:15:28+00:00,893939693,893939529,1,BlockKiller,Silesia national football team,
+2019-04-24T15:14:18+00:00,893939529,892555215,1,BlockKiller,Silesia national football team,"crowsus' edit reverted, true squad."
+2019-04-22T09:20:12+00:00,893575128,893575022,1,BlockKiller,User talk:BlockKiller,
+2019-04-22T09:19:07+00:00,893575022,0,1,BlockKiller,User talk:BlockKiller,/* Klavint Jones */ new section
+2019-04-20T19:10:39+00:00,893347461,893347198,1,BlockKiller,Miedź Legnica,klavint jones
+2019-04-20T19:08:52+00:00,893347198,893347173,1,BlockKiller,Miedź Legnica,
+2019-04-20T19:08:35+00:00,893347173,893189795,1,BlockKiller,Miedź Legnica,He's also played
+2019-04-20T19:07:20+00:00,893347027,893346924,1,BlockKiller,Páll Klettskarð,
+2019-04-20T19:06:27+00:00,893346924,890266167,1,BlockKiller,Páll Klettskarð,
+2020-01-11T08:06:47+00:00,935221347,0,0,Maciej Mucharski,2021 CONCACAF Gold Cup squads,[[WP:AES|←]]Redirected page to [[2021 CONCACAF Gold Cup]]
+2020-05-29T10:59:20+00:00,959558954,958752668,0,189.51.12.30,Anguilla national football team,
+2020-03-04T11:50:23+00:00,943881674,943728073,0,BarBar SL,2019 Copa América squads,/* Goalkeepers */
+2019-11-28T18:57:31+00:00,928380212,928380137,0,Joeykai,Anguilla national football team,
+2021-03-10T15:02:51+00:00,1011371873,1011371792,0,Cazza3012,Andy Selva,
+2020-06-07T17:49:18+00:00,961301164,961298659,0,Tomrtn,Anguilla national football team,/* Recent results and forthcoming fixtures */
+2020-12-29T08:24:43+00:00,996945069,995945804,0,Ahmetlii,Argentina national football team,clean up
+2019-08-08T09:30:14+00:00,909894051,903948051,0,8.9.89.107,Anguilla national football team,/* Anguilla all-time record against all nations */
+2019-07-06T08:13:10+00:00,905020930,904087949,0,Ulvi Rustam,Azerbaijan national football team,
+2020-10-23T13:28:34+00:00,985017210,983367063,0,FrenchFootball,Andy Selva,
+2021-02-12T10:06:10+00:00,1006338253,1006333396,0,L0r4nd0,Anguilla national football team,/* Anguilla all-time record against all nations */Fix according to the source
+2020-06-21T14:17:05+00:00,963736031,963734206,0,JarrahTree,American Samoa national football team,Reverted 1 edit by [[Special:Contributions/188.221.198.250|188.221.198.250]] ([[User talk:188.221.198.250|talk]]) to last revision by 189.51.12.30 ([[WP:TW|TW]])
+2020-08-10T18:25:42+00:00,972193901,972051147,0,SpinnDoctor,Argentina national football team,
+2019-10-16T02:08:44+00:00,921497765,920971909,0,SteveMc25,Anguilla national football team,/* 2019 */ Added Puerto Rico result.
+2020-07-20T18:24:40+00:00,968657984,963643554,0,JHunterJ,Anguilla national football team,"Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], [[WP:AWB/T|typo(s) fixed]]: eleven year → eleven-year"
+2019-11-26T23:58:59+00:00,928124864,919574329,0,Vincentput,American Samoa national football team,/* Current squad */
+2020-09-04T22:43:49+00:00,976774047,975964317,0,Ronnie Thomassen,B36 Tórshavn,Made some updates
+2021-01-07T21:23:45+00:00,998965368,998143300,0,Dannyphx,Belize national football team,/* Gold Cup record */
+2020-08-27T21:24:13+00:00,975319633,974025188,0,MercedesBenz240,B36 Tórshavn,/* Matches */
+2021-01-19T01:45:32+00:00,1001291012,998965368,0,Dannyphx,Belize national football team,/* CONCACAF Nations League */
+2019-06-30T13:20:30+00:00,904175752,903948263,0,QQ2NFLD,Bermuda national football team,/* Recent fixtures and results */
+2019-09-21T20:22:04+00:00,917005180,916579703,0,OGLV,Bermuda national football team,
+2021-03-31T01:53:12+00:00,1015183461,1014529243,0,SteveMc25,Bermuda national football team,/* 2021 */ Added Aruba result.
+2019-12-06T07:13:54+00:00,929505686,929105833,0,JJMC89,Dominican Republic national football team,Revert mass NFCC violations
+2019-12-26T05:10:59+00:00,932472818,926648081,0,177.237.24.166,Cameroon national football team,
+2021-06-10T04:35:37+00:00,1027812319,1027811823,0,SpinnDoctor,British Virgin Islands national football team,
+2020-10-06T15:51:29+00:00,982173796,981887723,0,SpinnDoctor,Costa Rica national football team,
+2020-08-02T15:27:07+00:00,970812535,969902847,0,Juane22tf,Cameroon national football team,/* Records */
+2020-07-25T01:08:38+00:00,969373137,966951968,0,SpinnDoctor,Bolivia national football team,Undid revision 966951968 by [[Special:Contributions/181.34.244.229|181.34.244.229]] ([[User talk:181.34.244.229|talk]])
+2020-06-21T00:01:38+00:00,963646416,963646327,0,Tomrtn,Cameroon national football team,/* Recent call-ups */
+2021-05-06T16:48:51+00:00,1021778774,1021261404,0,200.95.220.247,Bolivia national football team,/* 2021 */
+2020-03-15T04:04:13+00:00,945623575,945604316,0,SpinnDoctor,Costa Rica national football team,
+2019-11-17T20:21:33+00:00,926648081,926631827,0,85.166.11.5,Cameroon national football team,/* 2019 */
+2021-05-11T20:18:14+00:00,1022668141,1019356324,0,Dannyphx,British Virgin Islands national football team,/* 2021 */
+2021-03-19T14:16:14+00:00,1013004728,1013001481,0,MonFrontieres,Dominican Republic national football team,/* Recent callups */
+2021-02-03T09:58:28+00:00,1004585256,1001291130,0,199.172.196.94,Bermuda national football team,/* Current squad */
+2019-06-01T09:37:34+00:00,899782114,896725400,0,JJMC89,Draft:2019 UEFA European Under-21 Championship squads,[[WP:AES|←]]Redirected page to [[2019 UEFA European Under-21 Championship squads]]
+2019-09-03T22:57:34+00:00,913902664,913902508,0,96.255.238.132,El Salvador national football team,/* 2018 */
+2021-06-24T21:59:56+00:00,1030265761,1030140944,0,76.93.58.213,El Salvador national football team,/* 2021 */
+2021-02-07T05:18:30+00:00,1005344304,1004765668,0,PizzaKing13,El Salvador national football team,
+2020-06-24T23:34:29+00:00,964345094,963567242,0,Tomrtn,El Salvador national football team,/* 2019 */
+2019-12-03T18:42:12+00:00,929108975,929105938,0,SpinnDoctor,El Salvador national football team,
+2021-03-17T21:28:43+00:00,1012707461,1012072181,0,185.74.208.208,Faroe Islands national football team,/* Current technical staff */
+2020-03-15T04:59:23+00:00,945628684,945494515,0,SpinnDoctor,El Salvador national football team,
+2021-06-16T15:04:34+00:00,1028878879,1028736387,0,Nivtoola,Faroe Islands national football team,
+2020-09-12T21:50:35+00:00,978097184,978097137,0,UncleTupelo1,El Salvador national football team,/* Current squad */
+2021-04-13T19:33:51+00:00,1017619248,1017575731,0,Vlad670,Faroe Islands national football team,/* History */
+2020-11-22T18:17:23+00:00,990080676,990080628,0,90.244.200.29,Faroe Islands national football team,/* Honours */
+2021-03-03T14:44:13+00:00,1010042018,1010019885,0,HouseBlaster,Faroe Islands national football team,/* See also */ added notes section
+2021-03-04T19:59:01+00:00,1010299630,1009297330,0,Intruder007,El Salvador national football team,/* Players */
+2020-10-15T12:31:50+00:00,983646990,983639323,0,EileenSanda,Faroe Islands national football team,/* Current squad */ 22
+2019-07-24T23:35:40+00:00,907740622,907491679,0,SteveMc25,Faroe Islands national football team,/* European Championship record */ Added missing data to the section.
+2021-01-11T11:50:11+00:00,999682633,998646254,0,Faroeman92,Faroe Islands national football team,Club update for Sonni Nattestad. There seems to be some template trouble i'm unsure how to fix.
+2019-07-29T07:21:52+00:00,908362405,908362244,0,Footballmarket,Faroe Islands national football team,
+2019-05-13T00:01:06+00:00,896800613,896353112,0,Filedelinkerbot,Faroe Islands national football team,Reverted edits by [[Special:Contribs/Filedelinkerbot|Filedelinkerbot]] ([[User talk:Filedelinkerbot|talk]]) to last version by S.A. Julio
+2020-06-09T22:50:03+00:00,961698793,961293780,0,Tomrtn,Faroe Islands national football team,/* Recent results and upcoming fixtures */
+2021-05-20T10:04:31+00:00,1024138959,1017055113,0,S.A. Julio,Ferhan Hasani,/* External links */ template + cat
+2019-11-10T12:33:02+00:00,925489614,925424194,0,82.141.157.174,Faroe Islands national football team,/* Recent call-ups */
+2021-03-14T13:04:24+00:00,1012072181,1012072035,0,Footballmarket,Faroe Islands national football team,
+2019-11-22T08:52:36+00:00,927406044,927227991,0,DasGermanMoses,French Guiana national football team,/* International match records */Saint Kitts and Nevis
+2019-11-13T21:22:43+00:00,926035021,925850546,0,2A01:C50F:E6A0:400:41A6:E095:CE8A:68E6,Faroe Islands national football team,/* Current squad */
+2019-03-31T22:42:58+00:00,890366486,890365742,0,NouveauSarfas,French Guiana national football team,/* Manager history */
+2020-02-08T15:49:44+00:00,939763488,932932941,0,DenSportgladeSkåningen,French Guiana national football team,/* Recent results and forthcoming fixtures */
+2019-06-27T19:37:26+00:00,903758621,903284345,0,Robby.is.on,Ferhan Hasani,/* International career */ Disambiguate Ireland national team.
+2020-10-01T12:57:25+00:00,981294345,980264130,0,Wendroa,Greece national football team,/* Players */
+2020-11-20T06:45:39+00:00,989653267,989441737,0,Fahrurozi.86,Greece national football team,/* UEFA Nations League */
+2020-04-19T17:52:21+00:00,951934262,951934157,0,GRanemos1,Greece national football team,/* Coaching staff */
+2020-09-16T14:54:04+00:00,978715119,978561420,0,94.210.142.76,Greece national football team,Undid revision 978561420 by [[Special:Contributions/GRanemos1|GRanemos1]] ([[User talk:GRanemos1|talk]])
+2021-06-17T17:12:55+00:00,1029061325,1029050381,0,Jed keenan,Greece national football team,"/* Euro 2020 qualifying: Small rise, fall and promising finish */"
+2020-01-27T11:30:47+00:00,937815634,933856311,0,Geschichte,Grenada national football team,/* Current squad */ sp
+2020-10-12T16:12:50+00:00,983159811,983159765,0,Tomrtn,Grenada national football team,/* Recent call-ups */ not called in last 12 months
+2020-12-29T07:35:48+00:00,996939569,996142118,0,GRanemos1,Greece national football team,/* Recent call-ups */
+2020-05-06T16:52:38+00:00,955225742,955224994,0,Vince193,Grenada national football team,/* Current squad */
+2019-06-04T20:16:44+00:00,900311605,900297783,0,Frietjes,Guadeloupe national football team,Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]
+2021-06-11T22:19:09+00:00,1028108336,1028108089,0,2804:14C:173:927E:8D7:5856:DF5E:3DAC,Guadeloupe national football team,
+2021-06-22T08:09:47+00:00,1029828646,1029828616,0,Riktetta,Guadeloupe national football team,/* Current squad */
+2020-01-04T01:47:18+00:00,933979339,930714340,0,InternetArchiveBot,Guadeloupe national football team,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0
+2020-02-14T10:26:17+00:00,940747287,939762772,0,Boxfan88,Guadeloupe national football team,/* Gold Cup record */
+2019-07-13T21:39:42+00:00,906135588,903613903,0,86.99.116.221,Guam national football team,/* World Cup */
+2020-04-08T12:14:08+00:00,949766467,949766393,0,CrypticAbyss,Guadeloupe national football team,Undid revision 949766393 by [[Special:Contributions/CrypticAbyss|CrypticAbyss]] ([[User talk:CrypticAbyss|talk]])
+2019-06-26T19:07:08+00:00,903613903,902479470,0,Matthewishere0,Guam national football team,
+2021-06-18T09:38:33+00:00,1029169320,1029165079,0,Fahrurozi.86,Guam national football team,/* AFC Asian Cup */
+2019-05-03T12:43:36+00:00,895317548,895317468,0,71.163.17.62,Guam national football team,/* Current squad */
+2020-12-05T16:01:26+00:00,992496656,992411378,0,Intruder007,Guatemala national football team,
+2019-05-12T15:31:30+00:00,896739637,896739584,0,Serols,Guatemala national football team,Reverted edits by [[Special:Contributions/207.222.166.34|207.222.166.34]] ([[User talk:207.222.166.34|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2019-05-14T07:07:01+00:00,897013074,896919540,0,186.167.249.170,Haiti national football team,/* Competitive record */
+2021-03-30T22:46:36+00:00,1015158103,1015142413,0,SteveMc25,Guinea-Bissau national football team,/* History */ Added data to the section.
+2021-05-25T09:01:55+00:00,1025022759,1025022357,0,Felixsv7,Guinea-Bissau national football team,
+2020-05-16T00:40:20+00:00,956914540,956913709,0,Vince193,Guatemala national football team,/* Current squad */
+2020-06-15T05:07:51+00:00,962632254,962628636,0,SpinnDoctor,Guatemala national football team,Undid revision 962628636 by [[Special:Contributions/181.34.199.87|181.34.199.87]] ([[User talk:181.34.199.87|talk]])
+2020-02-18T22:20:05+00:00,941493320,939183297,0,Cristane,Haiti national football team,/* Current squad */
+2020-07-02T13:16:20+00:00,965629525,965544793,0,Ulvi Rustam,Haiti national football team,
+2021-01-29T19:21:46+00:00,1003597526,1003153206,0,ColeTrain4EVER,Jamaica national football team,/* Current squad */ New team for two players
+2021-05-29T14:21:07+00:00,1025777470,1023360188,0,1.200.64.223,Haiti national football team,
+2021-03-22T03:27:26+00:00,1013532615,1013460121,0,2806:2F0:32A0:D5A:9C48:4A57:89B9:F186,Jamaica national football team,/* Current squad */
+2020-01-20T19:48:58+00:00,936750138,936750036,0,186.29.142.90,Kazakhstan national football team,/* Results and fixtures */
+2020-01-03T04:24:04+00:00,933813182,929376810,0,Monkbot,Khaleem Hyland,/* Honours */[[User:Monkbot/task 15: normalize lang icon templates|Task 15]]:  language icon template(s) replaced (1×);
+2019-09-22T10:21:58+00:00,917118260,908645230,0,Monkbot,Khaleem Hyland,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (2×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2021-03-22T08:17:06+00:00,1013557810,1013557117,0,Felixsv7,Kazakhstan national football team,
+2021-02-22T13:57:19+00:00,1008276244,1001605049,0,Felixsv7,Latvia national football team,Reduced to top ten
+2021-03-11T09:45:18+00:00,1011520937,1008276244,0,218.255.90.2,Latvia national football team,/* Recent and forthcoming matches */
+2019-09-23T05:11:32+00:00,917295812,917294581,0,SpinnDoctor,Latvia national football team,
+2019-11-27T09:27:59+00:00,928180061,928179982,0,185.79.190.5,Latvia national football team,/* Top goalscorers */
+2019-10-14T06:05:48+00:00,921151464,921091857,0,31.4.204.61,List of men's footballers with 100 or more international caps,
+2020-04-01T21:20:12+00:00,948585368,948085859,0,Tomrtn,Latvia national football team,/* Recent and forthcoming matches */
+2021-06-29T02:00:30+00:00,1030970727,1030970340,0,90.252.204.151,List of men's footballers with 100 or more international caps,
+2019-10-23T20:44:22+00:00,922713722,922620149,0,188.85.177.231,List of men's footballers with 100 or more international caps,
+2020-06-24T07:42:15+00:00,964222472,961700619,0,WOSlinkerBot,Latvia national football team,remove un-needed options from tables
+2020-04-06T17:15:58+00:00,949469662,949427003,0,Situle,List of men's footballers with 100 or more international caps,
+2020-09-04T20:16:31+00:00,976756444,976756398,0,Danielmordor,Lithuania national football team,/* Recent call-ups */
+2019-11-29T17:19:12+00:00,928499263,928209179,0,213.205.241.80,Lithuania national football team,
+2020-03-17T18:29:55+00:00,946042441,946029006,0,Spike 'em,Lithuania national football team,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Boja02|Boja02]] ([[User talk:Boja02|talk]]) ([[WP:TW|TW]])
+2021-01-22T02:32:02+00:00,1001942402,1001941749,0,KingSkyLord,Lithuania national football team,/* External links */
+2021-06-18T16:47:30+00:00,1029224503,1029224467,0,Footwiks,Lithuania national football team,/* Coaching staff */
+2020-04-20T16:57:15+00:00,952115025,948034696,0,Kante4,Lithuania national football team,
+2020-12-05T18:03:55+00:00,992517999,989001456,0,37.212.13.21,Malawi national football team,
+2020-11-20T07:10:19+00:00,989655424,989655154,0,Fahrurozi.86,Lithuania national football team,/* UEFA Nations League records */
+2019-06-08T00:02:47+00:00,900849081,900840864,0,Marchjuly,Lithuania national football team,Undid revision 900830955 by [[Special:Contributions/CoatbridgeChancellor|CoatbridgeChancellor]] ([[User talk:CoatbridgeChancellor|talk]])  per [[:Wikipedia:Files for discussion/2016 May 19#File:Lithuanian-Football-Federation-logo.png]]
+2020-07-15T07:36:42+00:00,967778669,961625438,0,Riktetta,Malawi national football team,/* Recent call-ups */
+2020-07-06T12:50:27+00:00,966323430,966323345,0,Footballmarket,Malta national football team,
+2019-07-11T07:54:58+00:00,905762470,905166940,0,Footballmarket,Malta national football team,
+2021-04-19T09:04:19+00:00,1018680208,1017918823,0,Felixsv7,Malta national football team,/* Records */ Present
+2021-03-02T21:48:15+00:00,1009904368,1009485815,0,209.253.215.25,Malta national football team,luke gambin is on loan at newport county now
+2020-11-14T09:16:59+00:00,988629714,988474424,0,Felixsv7,Malta national football team,/* Records */ Mifsud retired
+2020-03-30T02:17:39+00:00,948086222,946980545,0,Tomrtn,Malta national football team,/* Results and fixtures */
+2021-02-07T14:16:38+00:00,1005404992,1001641153,0,MPN 1994,Malta national football team,/* 2021 */
+2020-05-21T08:23:20+00:00,957954830,956211743,0,Footballmarket,Malta national football team,
+2021-02-28T21:04:18+00:00,1009485815,1009485612,0,Felixsv7,Malta national football team,/* Records */
+2020-11-11T17:48:33+00:00,988192650,956060366,0,Das osmnezz,Mekeil Williams,
+2019-04-05T23:28:11+00:00,891142646,888117708,0,SimonLagann,Michael Salazar,/* External links */
+2021-04-22T04:33:04+00:00,1019221986,1019210410,0,MarnetteD,Michael Salazar,Filled in 2 bare reference(s) with reFill 2
+2021-01-23T17:40:41+00:00,1002276362,1002249911,0,MonFrontieres,Miedź Legnica,
+2020-09-10T23:33:00+00:00,977783144,977086833,0,Tomrtn,Malta national football team,/* 2019 */ not played last 12 months
+2019-09-21T11:59:45+00:00,916930271,916927322,0,2003:DE:734:8D38:C5B0:7714:408C:92E4,Miedź Legnica,Undid revision 916927322 by [[Special:Contributions/2003:DE:734:8D38:C5B0:7714:408C:92E4|2003:DE:734:8D38:C5B0:7714:408C:92E4]] ([[User talk:2003:DE:734:8D38:C5B0:7714:408C:92E4|talk]])
+2019-10-26T17:24:28+00:00,923144896,920553836,0,UncleTupelo1,Mekeil Williams,
+2019-06-02T18:35:53+00:00,899989700,897923218,0,78.87.29.64,Miedź Legnica,/* Current squad */
+2019-08-24T13:42:45+00:00,912285040,911564206,0,92.247.20.226,Miedź Legnica,/* Current squad */
+2019-09-13T21:18:04+00:00,915537879,912285040,0,89.230.170.36,Miedź Legnica,
+2019-11-09T21:39:52+00:00,925397084,916930271,0,31.0.67.42,Miedź Legnica,
+2020-07-09T11:37:19+00:00,966822882,961138407,0,213.91.212.222,Mongolia national football team,
+2019-10-29T07:40:38+00:00,923551384,922926736,0,Drat8sub,Malta national football team,/* 2018 */ last 12 months fixtures should be kept only
+2019-04-15T15:03:45+00:00,892586144,891852647,0,SKennedy157,Malta national football team,/* Current squad */
+2020-09-22T15:54:23+00:00,979752194,979583019,0,Gri3720,Mongolia national football team,/* Coaches */
+2020-03-01T03:37:17+00:00,943306762,940524870,0,KolbertBot,Mongolia national football team,[[User:KolbertBot#Tasks|Task #2]] : Remove link referral data
+2021-05-13T21:01:29+00:00,1023018131,1022568814,0,Governor Sheng,Mongolia national football team,/* Results and fixtures */ Rm matches older than a year
+2021-01-28T18:14:16+00:00,1003377645,1002624412,0,Billjones94,Montserrat national football team,
+2021-02-26T23:42:30+00:00,1009145721,1008999619,0,Dannyphx,Montserrat national football team,/* 2021 */
+2020-04-14T08:04:34+00:00,950868533,907427922,0,InternetArchiveBot,National Football Federation of Guatemala,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2020-11-23T17:35:54+00:00,990252353,981606193,0,OscarLake,Nawaf Al-Khaldi,Verb form
+2020-12-14T21:40:18+00:00,994269382,994239852,0,Mandarax,Montserrat national football team,Correct spelling
+2021-07-08T22:37:02+00:00,1032671222,1032671067,0,Simione001,New Zealand men's national football team,/* Players */
+2019-04-07T05:19:31+00:00,891324020,890097857,0,BU RoBOT,Nawaf Al-Khaldi,/* top */Change hyphens to endashes for years in [[Template:Infobox football biography]] ([[WP:MOSDASH]]; Task 31)
+2020-05-18T22:57:17+00:00,957452672,957309346,0,Mrsmiis,New Zealand men's national football team,/* Current squad */  default sorting by caps in line with template convention
+2020-10-23T08:11:56+00:00,984986237,977891013,0,104.35.254.90,National Football Federation of Guatemala,grammar
+2021-05-04T11:32:40+00:00,1021377201,1021353852,0,NZFC,New Zealand men's national football team,Changed to 13 digit ISBN
+2019-12-18T13:48:11+00:00,931365400,930793702,0,106.69.7.117,New Zealand men's national football team,/* Early years */ mention 1982 World Cup
+2020-09-25T02:41:54+00:00,980183013,980177676,0,74.88.41.195,New Zealand men's national football team,/* Coaching staff */
+2020-07-23T05:30:16+00:00,969064881,968953740,0,Mrsmiis,New Zealand men's national football team,/* Early years */ citations clearly are not needed
+2019-04-29T04:07:34+00:00,894648654,892656652,0,HawkAussie,New Zealand men's national football team,
+2021-04-04T09:40:19+00:00,1015917923,1015515305,0,Felixsv7,Montserrat national football team,/* Player records */Fixed numbering
+2020-11-04T21:49:18+00:00,987094787,986126782,0,YHFoxtrot,New Zealand men's national football team,
+2019-07-18T03:16:57+00:00,906768374,906590752,0,Simione001,New Zealand men's national football team,/* Recent call-ups */
+2019-09-14T21:00:07+00:00,915703208,915645692,0,NZFC,New Zealand men's national football team,Reverted 1 edit by [[Special:Contributions/2409:4060:211A:B9F:C618:B479:F667:36F3|2409:4060:211A:B9F:C618:B479:F667:36F3]] ([[User talk:2409:4060:211A:B9F:C618:B479:F667:36F3|talk]]) to last revision by Dey subrata ([[WP:TW|TW]])
+2019-10-09T07:21:13+00:00,920355261,920355153,0,2407:7000:A12A:E885:4536:F5B4:7AE9:4A60,New Zealand men's national football team,/* Current squad */
+2019-10-18T19:06:23+00:00,921917193,920355261,0,106.243.142.170,New Zealand men's national football team,/* Coaching staff */
+2020-11-17T15:57:04+00:00,989192168,988964305,0,2.29.213.54,New Zealand men's national football team,/* Players */
+2020-09-16T21:24:50+00:00,978775121,978739422,0,67.81.111.229,New Zealand men's national football team,/* Coaching staff */
+2019-05-10T22:32:50+00:00,896503287,896363567,0,Mrsmiis,New Zealand men's national football team,/* Current squad */
+2020-09-06T01:23:52+00:00,976947572,976894959,0,Mrsmiis,New Zealand men's national football team,/* Current squad */
+2019-07-22T05:12:01+00:00,907329826,907322518,0,NZFC,New Zealand men's national football team,Reverted edits by [[Special:Contribs/115.188.147.129|115.188.147.129]] ([[User talk:115.188.147.129|talk]]) to last version by Simione001
+2020-02-28T09:03:46+00:00,943015209,942848542,0,Sirpottingmix,New Zealand men's national football team,/* Early years */Fix bracket
+2021-04-21T12:50:30+00:00,1019085239,1013880237,0,2A00:23C4:458D:900:6928:AA7:7A87:BE1C,New Zealand men's national football team,/* Current squad */
+2020-10-01T15:49:42+00:00,981316948,981242705,0,Stevie fae Scotland,New Zealand men's national football team,/* Forthcoming fixtures */
+2019-11-24T19:46:00+00:00,927783319,927783160,0,NZFC,New Zealand men's national football team,/* Recent call-ups */ there are two Wimbledon teams
+2020-02-14T15:24:09+00:00,940776204,940721927,0,204.40.130.134,New Zealand men's national football team,/* Recent call-ups */
+2020-06-21T14:18:38+00:00,963736243,963734124,0,Mojo Hand,New Zealand men's national football team,Reverted edits by [[Special:Contribs/188.221.198.250|188.221.198.250]] ([[User talk:188.221.198.250|talk]]) to last version by Mrsmiis
+2021-03-23T23:35:46+00:00,1013880237,1013880085,0,NZFC,New Zealand men's national football team,Reverted 1 edit by [[Special:Contributions/45.72.244.92|45.72.244.92]] ([[User talk:45.72.244.92|talk]]) to last revision by Stevie fae Scotland
+2020-08-10T22:02:58+00:00,972222473,971803938,0,Ulric1313,New Zealand men's national football team,dab
+2020-05-13T10:08:04+00:00,956436143,955643990,0,109.180.55.100,New Zealand men's national football team,/* Players */
+2021-05-25T20:39:43+00:00,1025119244,1025102856,0,NZFC,New Zealand men's national football team,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/200.213.92.141|200.213.92.141]] ([[User talk:200.213.92.141|talk]]): There has been no call ups as there is no games
+2021-02-09T20:04:06+00:00,1005861581,1005309466,0,Josvebot,New Zealand men's national football team,v2.04b - Fix errors for [[WP:WCW|CW project]] (Unicode control characters)
+2019-07-25T07:31:02+00:00,907780833,886701952,0,Joeykai,Noah Powder,/* External links */clean up
+2019-11-29T06:25:00+00:00,928444915,928436556,0,NZFC,New Zealand men's national football team,Added an online source to the change in the last edit
+2021-02-01T02:37:36+00:00,1004106175,1004105963,0,Joeykai,Noah Powder,added [[Category:Trinidad and Tobago international footballers]] using [[WP:HC|HotCat]]
+2020-04-29T18:33:48+00:00,953915454,923065003,0,Red Director,Norman Nuñez,"Adding local [[Wikipedia:Short description|short description]]: ""Belizean footballer"", overriding Wikidata description ""Belizean footballer"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-07-24T00:31:59+00:00,969203704,969138764,0,2A06:4002:809D:0:5C5C:477E:93A0:1067,Panama national football team,/* Managers */
+2020-03-20T11:57:34+00:00,946477354,944167665,0,2A02:A456:7AD2:1:959D:A372:20EF:26BE,Panama national football team,/* 2018 World Cup */
+2019-11-01T02:59:18+00:00,923996125,923987311,0,121.166.254.145,Panama national football team,/* 2019 */
+2019-07-04T13:16:32+00:00,904776485,904740950,0,Intruder007,Panama national football team,/* Recent call-ups */
+2021-02-09T03:51:31+00:00,1005728649,1005728240,0,14.184.1.170,Panama national football team,/* Recent call-ups */
+2020-06-10T21:40:12+00:00,961875947,961303359,0,BHGbot,Panama national football team,[[WP:BHGbot 6]] ([[User:BHGbot/6/List 3|List 3]]): fixed sort key; [[WP:GENFIXES]]
+2020-03-22T23:34:20+00:00,946880764,946866882,0,90.71.181.75,Panama national football team,/* Current squad */
+2019-09-19T15:06:35+00:00,916571713,916571049,0,179.25.52.81,Panama national football team,/* Top goalscorers */
+2021-02-25T01:08:14+00:00,1008782166,1005728649,0,Intruder007,Panama national football team,/* Players */
+2019-08-01T03:14:24+00:00,908806428,908775408,0,186.90.32.39,Panama national football team,/* Recent call-ups */
+2020-03-29T16:17:14+00:00,947996821,947036134,0,MonFrontieres,Panama national football team,/* Recent call-ups */
+2020-06-30T00:55:50+00:00,965207860,965207769,0,Tomrtn,Panama national football team,/* Recent call-ups */
+2020-09-05T13:53:09+00:00,976859776,976859658,0,190.141.185.137,Panama national football team,/* Recent call-ups */
+2021-07-03T02:26:45+00:00,1031687550,1031511488,0,Intruder007,Panama national football team,/* Current squad */
+2019-07-01T11:33:10+00:00,904321567,904081918,0,192.193.216.148,Paraguay national football team,/* Recent call-ups */
+2021-02-05T07:43:36+00:00,1004961497,1004130066,0,190.141.60.101,Panama national football team,/* Current squad */
+2020-08-26T02:42:14+00:00,974987219,973818781,0,190.141.185.137,Panama national football team,
+2020-03-30T03:04:32+00:00,948092286,947573481,0,MonFrontieres,Paraguay national football team,/* Results and fixtures */
+2020-01-27T22:23:02+00:00,937900741,937900656,0,RonaldRuiz77,Puerto Rico national football team,/* Current squad */
+2020-02-22T00:00:21+00:00,942002815,941180282,0,Ivan Milenin,Puerto Rico national football team,/* Historical list of coaches */
+2019-07-07T01:18:20+00:00,905126238,903685704,0,66.229.223.4,Puerto Rico national football team,/* Recent call-ups */
+2020-08-16T14:43:30+00:00,973310683,972770887,0,WikiCleanerBot,Puerto Rico national football team,v2.03b - [[Wikipedia:Bots/Requests for approval/WikiCleanerBot 19|Bot T19 CW#25]] - [[WP:WCW]] project (Heading hierarchy)
+2019-11-07T21:35:38+00:00,925103418,919067378,0,Lofoten1994,Páll Klettskarð,
+2019-09-27T04:30:54+00:00,918125648,916521521,0,Monkbot,Páll Klettskarð,/* Individual awards */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2019-07-11T08:42:06+00:00,905767135,905766659,0,BlameRuiner,Páll Klettskarð,
+2020-11-30T19:38:24+00:00,991573713,991573385,0,189.51.12.30,Qatar national football team,
+2021-04-05T14:14:16+00:00,1016120710,1016120660,0,Issue0501,Qatar national football team,/* Recent call-ups */
+2019-12-15T17:10:21+00:00,930890272,917912455,0,MrMarkBGregory,Samoa national football team,Dabingyaba > Dabinyaba
+2020-09-17T20:08:42+00:00,978933809,978432576,0,Stevie fae Scotland,Samoa national football team,/* Results and Fixtures */
+2019-09-26T02:42:27+00:00,917912455,915459910,0,Monkbot,Samoa national football team,/* 2016 Squad */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2019-11-22T22:24:19+00:00,927507931,927490977,0,Mediocre Legacy,San Marino national football team,/* UEFA European Championship */
+2020-05-05T10:46:21+00:00,954990787,954945579,0,Seanlin95,San Marino national football team,/* Current squad */
+2020-11-16T08:47:46+00:00,988969252,988939219,0,F1Krazy,San Marino national football team,/* History */
+2020-09-11T01:26:02+00:00,977795926,977795837,0,DB1985,San Marino national football team,/* Current squad */
+2020-06-12T02:08:40+00:00,962093791,962093739,0,Tomrtn,San Marino national football team,/* Recent call-ups */
+2020-09-30T13:49:12+00:00,981132936,981124792,0,Celticbhoy97,Scotland national football team,/* Current squad */
+2020-11-22T16:12:15+00:00,990062720,989529136,0,92.26.14.231,Scotland national football team,/* UEFA European Championship */
+2020-05-10T13:43:30+00:00,955910902,955884324,0,Jmorrison230582,Scotland national football team,Reverted 1 edit by [[Special:Contributions/2A00:23C5:1F1A:7100:7197:9D15:8A1F:AA0F|2A00:23C5:1F1A:7100:7197:9D15:8A1F:AA0F]] ([[User talk:2A00:23C5:1F1A:7100:7197:9D15:8A1F:AA0F|talk]]) to last revision by Wira rhea ([[WP:TW|TW]])
+2020-10-16T00:01:48+00:00,983740985,983740190,0,Chris Ying,Scotland national football team,/* Managers */
+2020-01-31T21:01:01+00:00,938541179,938516062,0,Jmorrison230582,Scotland national football team,/* Recent call-ups */ transfer
+2020-04-29T18:33:50+00:00,953915462,933354286,0,Red Director,Shane Orio,"Adding local [[Wikipedia:Short description|short description]]: ""Belizean footballer"", overriding Wikidata description ""Belizean footballer"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-05-12T10:08:35+00:00,956252692,893940559,0,Andrew J.Kurbiko,Silesia national football team,pantone colors
+2020-03-26T03:36:03+00:00,947410688,947324694,0,Crowsus,Scotland national football team,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/80.44.245.206|80.44.245.206]] ([[User talk:80.44.245.206|talk]]): Presumed typo ([[WP:TW|TW]])
+2020-08-03T13:02:47+00:00,970971081,953915462,0,Filedelinkerbot,Shane Orio,Bot: Removing [[Commons:File:Group - Copy.jpg]] ([[:File:Group - Copy.jpg|en]]). It was deleted on Commons by [[:Commons:User:JuTa|JuTa]] ([[Commons:COM:OTRS|No permission]] since 24 July 2020).
+2019-12-25T04:09:34+00:00,932338121,931356037,0,Bender the Bot,Scotland national football team,"HTTP → HTTPS for the [[BBC]], replaced: =http://www.bbc.co.uk/ → =https://www.bbc.co.uk/ (2)"
+2019-04-24T15:21:58+00:00,893940559,893940366,0,Crowsus,Silesia national football team,"You're a liar, there was no such match or squad"
+2020-08-12T08:17:27+00:00,972475627,956252692,0,2A02:A310:45E:FA00:D876:7678:94CA:1F79,Silesia national football team,/* External links */
+2021-05-31T20:36:18+00:00,1026177704,1026176030,0,Snowflake91,Slovenia national football team,/* Current squad */
+2021-07-09T09:17:59+00:00,1032731990,1032632595,0,Snowflake91,Slovenia national football team,/* Management */
+2019-10-21T16:52:01+00:00,922356794,920870764,0,178.197.235.182,Somalia national football team,
+2020-03-05T14:21:28+00:00,944065491,942278393,0,41.78.73.153,Somalia national football team,
+2021-04-09T19:46:09+00:00,1016921772,1016685783,0,201.52.38.115,Somalia national football team,
+2019-04-14T15:53:05+00:00,892445505,892445479,0,Serols,Somalia national football team,Reverted edits by [[Special:Contributions/46.31.206.26|46.31.206.26]] ([[User talk:46.31.206.26|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2019-06-30T01:00:09+00:00,904104304,902002459,0,Mathieu Le Piolot,Somalia national football team,"Added ""Most caps"" and ""Top scorer""."
+2020-09-26T14:15:35+00:00,980433178,979437568,0,Narky Blert,Somalia national football team,dab-needed tag
+2021-05-12T18:46:54+00:00,1022829686,1022829600,0,74.88.41.195,Somalia national football team,/* Coaches */
+2020-04-26T17:47:14+00:00,953294202,949610982,0,Kante4,Suriname national football team,removed [[Category:National sports teams of Suriname]] using [[WP:HC|HotCat]]
+2020-08-05T15:41:43+00:00,971349468,968542747,0,Atik Ishrak Adib,Somalia national football team,
+2021-05-07T20:30:37+00:00,1021997545,1021787465,0,QQ2NFLD,Somalia national football team,/* Current squad */
+2019-12-28T23:55:25+00:00,932917982,930855758,0,Monkbot,Suriname national football team,/* External links */[[User:Monkbot/task 15: normalize lang icon templates|Task 15]]:  language icon template(s) replaced (1×);
+2021-04-22T21:32:06+00:00,1019355496,1017934912,0,Dannyphx,Suriname national football team,/* CONCACAF Gold Cup */
+2019-04-18T07:11:13+00:00,892992431,892992314,0,Islandzki,Tahiti national football team,
+2020-07-19T19:42:01+00:00,968498904,968498761,0,Jmangelo67,Tahiti national football team,"/* Recent call-ups */ Changed ""Dragon"" to ""A.S. Dragon"" for consistency with the current squad"
+2021-05-25T04:07:22+00:00,1024994766,1021023737,0,Viector28,Tanzania national football team,
+2020-10-18T14:41:15+00:00,984154862,984154745,0,PNwood213,Tanzania national football team,/* Recent call-ups */ not called in last 12 months
+2020-11-15T04:30:48+00:00,988773849,988751605,0,Joeykai,Trinidad and Tobago national football team,clean up
+2019-10-19T05:56:37+00:00,921994197,921648974,0,Joeykai,Trinidad and Tobago national football team,
+2019-10-03T05:39:52+00:00,919342116,919341858,0,Eh Oh Canada,Trinidad and Tobago national football team,/* 2019 */
+2021-01-19T02:02:02+00:00,1001293835,997752099,0,Dannyphx,Trinidad and Tobago national football team,/* CONCACAF Nations League */
+2020-09-06T16:01:14+00:00,977043069,977023343,0,GRanemos1,Trinidad and Tobago national football team,/* Recent call-ups */
+2019-07-03T15:32:43+00:00,904652827,904248882,0,KingSkyLord,Trinidad and Tobago national football team,
+2020-04-17T21:41:00+00:00,951587396,950821074,0,WOSlinker,Trinidad and Tobago national football team,remove unused div col
+2020-07-29T23:24:56+00:00,970213084,968760169,0,Tknauff23,Trinidad and Tobago national football team,/* Recent call-ups */
+2020-06-07T17:59:52+00:00,961302800,961265943,0,Tomrtn,Trinidad and Tobago national football team,/* Results and schedule */
+2019-05-08T04:57:29+00:00,896066083,895819428,0,Eh Oh Canada,Trinidad and Tobago national football team,/* Recent call-ups */
+2020-12-11T13:53:15+00:00,993603735,993163769,0,74.88.41.195,Trinidad and Tobago national football team,/* Managers */
+2019-12-02T05:00:37+00:00,928871413,924136257,0,HasteurBot,User talk:BlockKiller,[[User:HasteurBot]]: Notification of [[WP:G13|CSD:G13]] nomination on [[Draft:2019 King's Cup squads]]
+2019-10-03T20:35:31+00:00,919455920,916773996,0,MediaWiki message delivery,User talk:BlockKiller,/* Reminder: Community Insights Survey */ new section
+2019-08-28T05:07:35+00:00,912833886,901071448,0,UnitedStatesian,User:BlockKiller,removed [[Category:Wikipedians]] using [[WP:HC|HotCat]]: rm container cat
+2019-06-09T14:15:12+00:00,901071448,899931793,0,Dolotta,User:BlockKiller,this category is for the people in Asia
+2020-02-12T17:10:00+00:00,940455701,940454189,0,Я Казах,Uzbekistan national football team,/* Current squad */
+2021-06-15T23:20:09+00:00,1028774292,1028773823,0,SpinnDoctor,Uzbekistan national football team,
+2020-09-10T12:41:18+00:00,977700589,977700271,0,Thegreatluigi,Uzbekistan national football team,"Reverted 1 edit by [[Special:Contributions/118.136.7.230|118.136.7.230]] ([[User talk:118.136.7.230|talk]]): Again, none of those alleged players are bringing up any results on Google..."
+2020-05-31T07:12:36+00:00,959920230,959919343,0,BRICK93,Uzbekistan national football team,/* Current squad */
+2021-01-09T19:40:00+00:00,999356930,997419870,0,SpinnDoctor,Uzbekistan national football team,
+2020-10-24T23:46:54+00:00,985267074,985266935,0,Enrikew,Venezuela national football team,
+2020-08-27T19:09:24+00:00,975286183,975285857,0,81.184.162.36,Venezuela national football team,/* Current squad */  Samu Sosa renewal to AD Alcorcón
+2020-04-28T13:54:20+00:00,953677137,953676478,0,AmSam13,American Samoa national football team,/* 2019 */Added some more information on the 2019 Pacific Games campaign
+2021-03-30T17:29:51+00:00,1015107266,1011371873,0,6ii9,Andy Selva,/* International goals */ Made sortable
+2019-12-30T22:59:42+00:00,933269094,933046058,0,SmackJam,Anguilla national football team,/* Recent call-ups */ Linked Ricardo Petty page
+2019-06-11T15:34:35+00:00,901392492,889456114,0,CoolSkittle,Andy Selva,total
+2019-06-15T22:31:54+00:00,902015431,902015390,0,JOESPICE,Anguilla national football team,/* Managerial Statistics */
+2019-09-18T05:03:52+00:00,916295997,916295792,0,187.241.15.121,Anguilla national football team,/* Current squad */
+2021-02-23T14:03:37+00:00,1008475257,1006938809,0,Citation bot,American Samoa national football team,Add: work. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | Pages linked from cached User:AManWithNoPlan/sandbox2 | via #UCB_webform_linked 451/1748
+2020-01-05T09:35:40+00:00,934213724,928124864,0,Sellyme,American Samoa national football team,/* Pacific Games record */ Adding 2019 results
+2020-07-04T13:59:27+00:00,965965642,960504070,0,Tal1901,2019 Copa América squads,/* Peru */
+2020-02-21T01:06:22+00:00,941846053,940845642,0,Skainstellungen,Andy Selva,
+2019-04-20T18:22:54+00:00,893341746,892792683,0,99.229.188.47,Anguilla national football team,
+2020-04-19T17:01:03+00:00,951926753,943637607,0,2804:431:D720:7750:50CE:81A0:D371:6591,Anguilla national football team,
+2019-10-19T23:18:36+00:00,922097970,921497765,0,2806:261:2402:15B7:A4CB:2760:AE9C:B4E8,Anguilla national football team,/* Current squad */
+2020-09-30T23:58:50+00:00,981215690,976791371,0,Eddie Scarpa,Anguilla national football team,
+2021-06-09T01:36:30+00:00,1027626829,1027623884,0,181.92.170.99,Argentina national football team,/* Current squad */
+2020-07-19T19:38:06+00:00,968498313,968491685,0,Jaellee,Argentina national football team,reverted unsourced changes
+2019-05-25T13:44:12+00:00,898719076,898349797,0,179.6.196.78,Anguilla national football team,
+2020-09-13T00:14:09+00:00,978112387,978102267,0,Vanjagenije,Azerbaijan national football team,Reverted edits by [[Special:Contribs/Teteks|Teteks]] ([[User talk:Teteks|talk]]) to last version by Tomrtn
+2021-01-15T23:15:04+00:00,1000623109,1000621756,0,Nicat49,Azerbaijan national football team,Reverted 2 edits by [[Special:Contributions/Daniel.Ayik10|Daniel.Ayik10]] ([[User talk:Daniel.Ayik10|talk]]) to last revision by August-54
+2019-09-28T01:31:27+00:00,918308629,918308405,0,179.4.200.138,Argentina national football team,/* Recent call-ups */
+2020-06-26T17:26:09+00:00,964634391,963678507,0,Agijt89,B36 Tórshavn,
+2020-04-28T22:37:19+00:00,953757244,953752534,0,Matthew Salisbury,B36 Tórshavn,/* Current squad */
+2019-09-26T19:52:49+00:00,918052446,917399707,0,Agijt89,Belize national football team,
+2021-04-01T22:34:43+00:00,1015516240,1015515431,0,Nehme1499,Belize national football team,Restored revision 1015289770 by [[Special:Contributions/189.51.12.30|189.51.12.30]] ([[User talk:189.51.12.30|talk]])
+2019-06-19T16:22:37+00:00,902553230,902520147,0,WereSpielChequers,B36 Tórshavn,c/e
+2021-06-23T09:49:07+00:00,1030010083,1027803699,0,WereSpielChequers,Belize national football team,typo
+2019-08-18T15:42:12+00:00,911393711,911393498,0,190.215.178.85,Bermuda national football team,
+2021-06-11T12:31:25+00:00,1028031299,1027980038,0,RafaelGC10,Bolivia national football team,
+2021-03-04T22:30:23+00:00,1010323258,1010323187,0,187.244.111.11,British Virgin Islands national football team,/* Current squad */
+2019-06-25T20:48:13+00:00,903461210,903445423,0,71.41.26.154,Cameroon national football team,
+2019-07-10T00:52:55+00:00,905579450,905579402,0,79.168.10.228,Bermuda national football team,Undid revision 905102108 by [[Special:Contributions/2A02:C7F:2C77:5800:8547:8834:E022:931D|2A02:C7F:2C77:5800:8547:8834:E022:931D]] ([[User talk:2A02:C7F:2C77:5800:8547:8834:E022:931D|talk]])
+2019-06-02T13:24:24+00:00,899951668,899951559,0,6ii9,Bermuda national football team,/* Recent fixtures and results */ Removed country links as they are not needed when there's a link to the city.
+2021-03-17T12:12:23+00:00,1012624483,1012623815,0,102.252.64.250,Cameroon national football team,/* Africa Cup of Nations */
+2020-04-17T18:47:40+00:00,951551276,950888106,0,2804:2140:1000:56E0:8E0:73E:3E50:D56B,Cameroon national football team,/* Kit suppliers */
+2021-03-20T03:04:07+00:00,1013117827,1012540417,0,2806:2F0:32A0:D5A:4C4A:4A81:9A8B:3851,Costa Rica national football team,/* Players */
+2020-08-18T19:47:52+00:00,973710076,973519197,0,CateFromArcadia,Costa Rica national football team,Fixed misspellings found by [[Wikipedia:Typo Team/moss]]
+2021-06-13T18:57:31+00:00,1028397596,1028068826,0,102.252.65.46,Cameroon national football team,
+2020-05-09T20:09:09+00:00,955785626,955785420,0,Subaryan,Dominican Republic national football team,/* Records and statistics */
+2019-05-16T10:01:35+00:00,897331982,897331898,0,217.124.245.69,Dominican Republic national football team,/* Recent callups */
+2021-01-20T11:08:38+00:00,1001593179,1001292053,0,Bigboy 691,El Salvador national football team,/* Honours */
+2019-12-18T00:56:13+00:00,931275147,931130675,0,24.12.213.40,El Salvador national football team,
+2019-07-16T21:13:10+00:00,906591027,906541128,0,Rodw,El Salvador national football team,Disambiguating links to [[Canada national soccer team]] (link changed to [[Canada men's national soccer team]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-05-03T22:29:52+00:00,1021292644,1021110290,0,FrescoBot,El Salvador national football team,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2019-12-29T04:17:27+00:00,932953182,932952900,0,107.77.230.235,El Salvador national football team,/* Current squad */
+2019-11-26T10:57:40+00:00,928035312,927939869,0,FrescoBot,El Salvador national football team,Bot: [[User:FrescoBot/Links|link syntax]]
+2020-05-28T07:36:11+00:00,959330021,952371649,0,151.20.229.214,Faroe Islands national football team,/* Recent results and upcoming fixtures */
+2019-12-27T01:20:42+00:00,932593352,932107547,0,IsaacLewes,Faroe Islands national football team,/* Current squad */
+2021-07-21T01:06:15+00:00,1034634666,1031750972,0,18BoldSpil89,Faroe Islands national football team,/* The Håkan Ericson years (2019–) */
+2020-06-03T02:38:44+00:00,960458155,960386609,0,177.237.26.102,Faroe Islands national football team,/* Current squad */
+2020-02-23T06:06:21+00:00,942197429,940459369,0,175.113.111.16,El Salvador national football team,/* 2020 */
+2020-02-12T17:36:40+00:00,940459369,940459166,0,65.209.36.90,El Salvador national football team,/* Current squad */
+2019-08-10T01:25:51+00:00,910154588,910152635,0,IsaacLewes,Faroe Islands national football team,/* Top goalscorers */
+2020-06-28T15:53:52+00:00,964954378,961698793,0,Ira Leviton,Faroe Islands national football team,Fixed a typo found with [[Wikipedia:Typo_Team/moss]].
+2021-01-26T23:37:38+00:00,1002988869,1002988733,0,2806:2F0:32A0:D5A:88AD:52E4:78F1:BAB0,Faroe Islands national football team,/* Players */
+2021-06-23T15:31:46+00:00,1030049277,1028878879,0,156.198.6.10,Faroe Islands national football team,/* Current squad */
+2020-11-19T13:04:25+00:00,989518469,989429845,0,83.170.146.136,Faroe Islands national football team,/* Honours */
+2019-11-21T23:19:42+00:00,927351488,927351401,0,IsaacLewes,Faroe Islands national football team,/* Coaches */
+2021-02-04T16:49:37+00:00,1004833782,1004580795,0,31.179.150.70,Faroe Islands national football team,/* Current technical staff */
+2020-02-13T01:50:39+00:00,940525574,940525467,0,Andrej.yo,Ferhan Hasani,
+2020-01-26T04:36:02+00:00,937621239,934819668,0,175.113.111.16,Faroe Islands national football team,/* Recent results and upcoming fixtures */
+2021-04-09T02:27:38+00:00,1016789541,1016743367,0,2600:8800:3102:AD20:A4F1:88FB:FD3D:A946,French Guiana national football team,/* 2021 */
+2019-12-09T20:11:05+00:00,930033338,930009647,0,TU-nor,French Guiana national football team,Undid revision 930009647 by [[Special:Contributions/180.251.205.223|180.251.205.223]] ([[User talk:180.251.205.223|talk]]) Unsourced change
+2021-02-10T16:12:16+00:00,1006015903,1004503067,0,213.205.241.237,French Guiana national football team,
+2019-12-12T02:20:15+00:00,930380769,930378088,0,177.237.28.38,Greece national football team,/* Players */
+2021-01-30T14:23:06+00:00,1003752510,1003737356,0,91.140.91.217,Greece national football team,
+2021-02-09T16:37:12+00:00,1005828003,1004894455,0,90.235.61.214,Greece national football team,
+2020-01-05T00:11:13+00:00,934144299,934143470,0,John B123,Greece national football team,Fixed cite error
+2020-01-06T20:24:09+00:00,934487012,934486812,0,Ach.de.graf,Greece national football team,
+2020-02-21T15:29:17+00:00,941936166,941936021,0,Mariiovalera,Greece national football team,/* 2020 */
+2021-07-15T15:13:28+00:00,1033742624,1033698774,0,2A00:1028:8391:10C2:6895:2F01:8142:E528,Greece national football team,Undid revision 1033698774 by [[Special:Contributions/86.188.179.146|86.188.179.146]] ([[User talk:86.188.179.146|talk]])
+2019-12-14T11:55:51+00:00,930714340,926682746,0,Vasil3fonov,Guadeloupe national football team,/* Current squad */Updated club for Dimitri Foulquier.
+2019-07-04T09:44:24+00:00,904756545,904087414,0,Slade,Guadeloupe national football team,+refimprove
+2020-07-02T23:09:42+00:00,965707329,965615438,0,Peaceray,Grenada national football team,"Reverted 1 edit by 103.60.175.51: I reverted your edit because you left no [[H:ES|edit summary]] explaining & your behavior seems identical the the disruptive editing addressed at [[User talk:103.60.175.78]], so probable [[WP:BLOCKEVASION]]. As per [[WP:BOLD, revert, discuss cycle]], please discuss on the talk page before attempting this edit again. ([[WP:TW|TW]])"
+2020-06-13T13:34:19+00:00,962339882,962337609,0,AnomieBOT,Guam national football team,Dating maintenance tags: {{Fact}}
+2020-05-11T09:00:44+00:00,956061300,955635161,0,NyaNFL,Guam national football team,Fixed typo
+2019-04-13T19:21:22+00:00,892326881,889829660,0,WilliamJE,Guam national football team,removed [[Category:Sports clubs established in 1975]]; added [[Category:Association football clubs established in 1975]] using [[WP:HC|HotCat]]
+2020-02-04T17:42:09+00:00,939148191,937315232,0,46.230.211.70,Guatemala national football team,
+2021-06-22T01:02:14+00:00,1029785567,1029572357,0,Tamale17,Guatemala national football team,/* Recent call-ups */Pablo Aguilar returns to Antigua from Comunicaciones
+2020-01-04T09:13:07+00:00,934023197,934000628,0,Cesar Valladolid,Guatemala national football team,/* Head-to-head record against other nations */
+2021-07-04T16:28:41+00:00,1031941116,1031868685,0,Tamale17,Guatemala national football team,/* Current squad */
+2019-11-27T05:25:11+00:00,928157330,927579641,0,76.95.134.53,Guatemala national football team,/* 2019 */
+2019-03-28T06:51:41+00:00,889829660,889829519,0,FabianFrei,Guam national football team,Undid revision 889829519 by [[Special:Contributions/FabianFrei|FabianFrei]] ([[User talk:FabianFrei|talk]])
+2020-10-13T14:56:03+00:00,983315049,982837100,0,Yogabrata,Guam national football team,
+2019-08-07T18:03:43+00:00,909801742,909059548,0,FrescoBot,Guinea-Bissau national football team,Bot: [[User:FrescoBot/Links|link syntax]]
+2019-07-02T20:38:14+00:00,904535767,904535636,0,Omvrasan,Guinea-Bissau national football team,/* Records */
+2019-10-20T08:41:28+00:00,922152801,921126184,0,82.50.50.243,Guinea-Bissau national football team,/* Recent call-ups */
+2021-02-10T16:47:58+00:00,1006022284,1004503227,0,90.235.60.180,Haiti national football team,
+2020-05-04T04:41:23+00:00,954758327,951316899,0,49.182.23.152,Haiti national football team,
+2021-03-25T20:22:29+00:00,1014213613,1014196625,0,2806:2F0:32A0:D5A:71A6:C4FD:2FC0:7E3C,Jamaica national football team,/* Players */
+2019-07-11T14:19:13+00:00,905799726,905443098,0,187.26.72.20,Kazakhstan national football team,
+2020-11-22T08:12:48+00:00,990011777,989673697,0,Sammi Brie,Kazakhstan national football team,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Men's national association football team representing Kazakhstan"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-10-06T11:09:51+00:00,982136679,982136626,0,TimKaz,Kazakhstan national football team,/* Recent call-ups */
+2019-10-24T02:56:27+00:00,922754694,922753948,0,GeneralNotability,Kazakhstan national football team,Reverted 1 edit by [[Special:Contributions/2604:6000:110D:C13F:D989:4BB6:F324:7038|2604:6000:110D:C13F:D989:4BB6:F324:7038]] ([[User talk:2604:6000:110D:C13F:D989:4BB6:F324:7038|talk]]): You never know what you're going to revert. ([[WP:TW|TW]])
+2019-07-31T01:53:15+00:00,908645230,907791714,0,TheSoccerBoy,Khaleem Hyland,
+2019-03-29T00:03:42+00:00,889942922,889942772,0,Latviantolix,Latvia national football team,/* Top goalscorers */
+2021-05-16T00:04:37+00:00,1023362712,1015979968,0,Tom.Reding,Latvia national football team,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q189322|1 ID]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2021-04-04T18:29:06+00:00,1015979968,1015978962,0,LatvianFootball,Latvia national football team,/* Recent call-ups */
+2021-06-08T02:18:28+00:00,1027462488,1027423913,0,84.238.221.82,Latvia national football team,/* Baltic Cup Championship record */
+2020-07-01T16:18:50+00:00,965486554,965486389,0,Madridista 911,List of men's footballers with 100 or more international caps,According to the most recent list from the official FIFA website that was updated just yesterday
+2020-09-21T15:35:12+00:00,979586214,979264011,0,Pjesnik21,List of men's footballers with 100 or more international caps,
+2021-01-08T11:29:33+00:00,999081510,998536686,0,RenarsKrigers,Latvia national football team,/* Current squad */
+2019-09-24T11:21:22+00:00,917559650,917559548,0,46.172.229.164,List of men's footballers with 100 or more international caps,
+2020-11-19T17:41:00+00:00,989554757,989554593,0,200.125.53.110,List of men's footballers with 100 or more international caps,/* Caps */
+2020-06-06T16:54:32+00:00,961106863,961075806,0,Rodw,List of men's footballers with 100 or more international caps,Disambiguating links to [[Ahmed Mubarak]] (link changed to [[Ahmed Mubarak Al-Mahaijri]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-03-14T03:23:47+00:00,945462893,944854183,0,58.123.136.161,List of men's footballers with 100 or more international caps,
+2021-05-14T12:52:13+00:00,1023112340,1020982910,0,Respublik,Lithuania national football team,
+2020-07-14T14:46:32+00:00,967661455,967659607,0,Respublik,Lithuania national football team,typo
+2019-03-25T16:30:27+00:00,889424845,889424572,0,Wikiukas,Lithuania national football team,/* Recent results */
+2019-05-29T05:50:19+00:00,899307439,899307354,0,Respublik,Lithuania national football team,/* Recent call-ups */
+2020-03-05T23:03:23+00:00,944134757,944134449,0,Martynas16,Lithuania national football team,
+2020-02-23T05:39:54+00:00,942195505,942195462,0,175.113.111.16,Lithuania national football team,Undid revision 942195462 by [[Special:Contributions/175.113.111.16|175.113.111.16]] ([[User talk:175.113.111.16|talk]])
+2019-12-28T22:18:50+00:00,932905461,932859925,0,JJMC89 bot,Lithuania national football team,Removed [[WP:NFCC]] violation(s). No valid [[WP:NFUR|non-free use rationale]] for this page. See [[WP:NFC#Implementation]]. Questions? [[WP:MCQ|Ask here]].
+2020-01-25T14:03:52+00:00,937512493,936656975,0,Noel baran,Lithuania national football team,/* Recent call-ups */ signed by Olimpik
+2020-08-08T15:09:31+00:00,971839439,970983077,0,112.196.162.253,Lithuania national football team,/* Current squad */
+2020-01-15T18:14:48+00:00,935938570,935937960,0,Best Visualizer,Malawi national football team,/* Current squad */
+2020-10-07T15:51:28+00:00,982345647,982343659,0,68.96.114.42,Malawi national football team,/* Current squad */
+2020-03-06T13:39:24+00:00,944220724,942854509,0,Mariiovalera,Malta national football team,/* 2020 */
+2020-01-01T14:10:43+00:00,933520946,933425297,0,Fra Casa,Malta national football team,updated
+2020-02-05T09:28:19+00:00,939256712,939118524,0,175.113.111.16,Malta national football team,/* 2020 */
+2019-07-07T09:33:28+00:00,905166940,905166656,0,BestChance1,Malta national football team,/* History */
+2020-08-05T20:40:36+00:00,971388508,970198120,0,محمد أمين الطرابلسي,Malta national football team,/* Other records */
+2021-07-07T20:15:33+00:00,1032500766,1032100162,0,185.5.48.43,Malta national football team,/* Recent call-ups */
+2020-04-24T21:42:11+00:00,952941402,952457961,0,Serbianboy87,Malta national football team,
+2020-08-26T13:54:41+00:00,975057186,975029216,0,SporkBot,Malta national football team,Repair [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]]
+2019-07-25T09:34:47+00:00,907791689,907777701,0,GiantSnowman,Mekeil Williams,date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]
+2021-04-04T17:50:23+00:00,1015974442,1015973733,0,MusikBot II,Mekeil Williams,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2020-05-11T08:50:40+00:00,956060366,955976956,0,GiantSnowman,Mekeil Williams,added [[Category:Liga Nacional de Fútbol de Guatemala players]] using [[WP:HC|HotCat]]
+2020-10-13T19:30:59+00:00,983354973,983271869,0,2607:FEA8:599F:F738:99DE:E1F7:97ED:4E99,Miedź Legnica,"/* Current squad */ not the cartoon, the footballer"
+2019-07-20T20:53:08+00:00,907148102,906971748,0,Scooter Fox,Miedź Legnica,"2019/20 squad, removed false info about a Faroese playing for Miedź, other minor updates"
+2020-08-25T10:23:49+00:00,974844635,974844440,0,213.46.123.42,Miedź Legnica,/* Notable players */
+2021-01-25T03:11:01+00:00,1002582706,1002581925,0,JJMC89 bot III,Michael Salazar,Moving [[:Category:Montreal Impact players]] to [[:Category:CF Montréal players]] per [[Wikipedia:Categories for discussion/Log/2021 January 16#Category:Montreal Impact]]
+2020-10-22T15:25:20+00:00,984863111,983354973,0,81.111.28.148,Miedź Legnica,
+2020-09-16T18:13:35+00:00,978743994,978743905,0,77.70.113.28,Miedź Legnica,/* Current squad */
+2021-03-21T18:06:58+00:00,1013452382,1011742061,0,Iliochori2,Miedź Legnica,/* Honours */
+2020-11-22T03:17:11+00:00,989982406,989156251,0,Sakiv,Mongolia national football team,/* Asian Cup */
+2019-05-28T18:06:56+00:00,899232573,898967986,0,Druryfire,Mongolia national football team,
+2021-02-02T22:52:47+00:00,1004504659,1003377645,0,JJMC89 bot,Montserrat national football team,Removed [[WP:NFCC]] violation(s). No valid [[WP:NFUR|non-free use rationale]] for this page. See [[WP:NFC#Implementation]]. Questions? [[WP:MCQ|Ask here]].
+2020-08-02T09:52:55+00:00,970779485,968482988,0,36.78.245.252,Mongolia national football team,
+2021-06-05T03:48:07+00:00,1026939141,1026550258,0,2804:14C:A988:89C3:5481:B60D:1C3E:404E,Montserrat national football team,/* Current squad */
+2021-07-03T07:39:16+00:00,1031722939,1031722897,0,VampireKilla,Montserrat national football team,
+2020-01-21T10:22:07+00:00,936844179,929505666,0,77.108.140.14,Montserrat national football team,/* Current squad */
+2019-06-03T21:52:04+00:00,900169075,896103623,0,Fenix down,Montserrat national football team,Filled in 5 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2021-03-31T01:53:33+00:00,1015183507,990252353,0,Mishary94,Nawaf Al-Khaldi,/* References */
+2020-02-22T03:26:59+00:00,942025809,942008323,0,94.129.69.244,Nawaf Al-Khaldi,
+2020-06-14T16:35:09+00:00,962534775,956812970,0,Nehme1499,Nawaf Al-Khaldi,added [[Category:AFC Cup winning players]] using [[WP:HC|HotCat]]
+2019-06-18T14:27:32+00:00,902393076,902392750,0,Flix11,New Zealand men's national football team,/* FIFA Confederations Cup */ fx
+2020-10-29T23:27:47+00:00,986126782,985944489,0,Macosal,New Zealand men's national football team,/* Current squad */
+2019-11-10T08:50:15+00:00,925470046,925374634,0,87.9.118.17,New Zealand men's national football team,/* Recent call-ups */
+2020-01-09T22:45:26+00:00,935013501,935013304,0,Walter Görlitz,New Zealand men's national football team,"/* Coaching staff */ [[WP:OVERLINK]] as a common term, [[MOS:CAPS]]"
+2020-08-28T09:14:21+00:00,975402705,974976975,0,2406:3400:214:5D20:5559:9DF2:2247:1530,New Zealand men's national football team,/* Current squad */
+2021-01-01T00:08:16+00:00,997531269,995049142,0,Paytchamanon,New Zealand men's national football team,/* Coaching staff */
+2020-03-04T05:24:31+00:00,943841030,943837607,0,Macosal,New Zealand men's national football team,Undid revision 943837607 by [[Special:Contributions/Funpolice69|Funpolice69]] ([[User talk:Funpolice69|talk]])
+2021-01-23T23:26:00+00:00,1002337001,1002013012,0,J 1982,New Zealand men's national football team,/* External links */
+2019-04-06T04:48:05+00:00,891176622,890922749,0,Emendment,New Zealand men's national football team,/* External links */
+2021-02-03T00:48:10+00:00,1004521316,1004172366,0,Doh286,New Zealand men's national football team,/* Current squad */ Singh was returned to Bayern Munich II after loan was terminated
+2021-05-20T01:38:11+00:00,1024088748,1016374577,0,69.162.230.206,Noah Powder,
+2020-07-31T13:54:50+00:00,970470602,970469891,0,69.162.230.206,Noah Powder,
+2019-10-26T03:27:50+00:00,923065003,881890076,0,Jevansen,Norman Nuñez,Moving from [[Category:Liga Nacional de Fútbol de Honduras players]] to [[Category:Liga Nacional de Fútbol Profesional de Honduras players]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2019-07-07T05:14:54+00:00,905146524,904910379,0,2804:14D:7E80:8020:87A:A11:4260:DAE4,Panama national football team,/* CONCACAF Gold Cup */
+2020-11-23T05:56:10+00:00,990173331,990173127,0,ZaDoraemonzu,Panama national football team,/* History */ updates
+2019-07-13T17:45:47+00:00,906108058,905146524,0,167.61.30.99,Panama national football team,/* Player records */
+2020-05-03T02:56:19+00:00,954562107,953339678,0,80.233.36.231,Panama national football team,Udpate content
+2020-04-01T08:29:56+00:00,948485802,947996821,0,177.237.30.102,Panama national football team,/* 2020 */
+2020-03-06T03:57:45+00:00,944167665,944167547,0,75.184.82.95,Panama national football team,/* 2020 */
+2020-08-01T20:13:09+00:00,970686213,970686097,0,69.127.134.251,Panama national football team,/* Managers */
+2019-12-26T08:54:17+00:00,932491128,932377899,0,Euro2024,Panama national football team,/* 2018 */
+2019-12-15T22:29:30+00:00,930929037,930627157,0,JJMC89 bot,Panama national football team,Removed [[WP:NFCC]] violation(s). No valid [[WP:NFUR|non-free use rationale]] for this page. See [[WP:NFC#Implementation]]. Questions? [[WP:MCQ|Ask here]].
+2019-04-15T03:41:53+00:00,892523892,891946030,0,2001:56A:F6F2:7D00:4C35:8553:8E40:DF72,Panama national football team,
+2019-08-07T14:58:02+00:00,909776866,908806428,0,FrescoBot,Panama national football team,Bot: [[User:FrescoBot/Links|link syntax]]
+2020-01-22T20:43:36+00:00,937079057,936775069,0,41.114.110.44,Panama national football team,
+2020-02-06T05:42:36+00:00,939395232,938735716,0,175.113.111.16,Panama national football team,/* 2020 */
+2019-12-03T18:31:21+00:00,929107315,928352605,0,213.205.241.118,Panama national football team,
+2021-02-01T05:35:12+00:00,1004130066,1003796637,0,2806:2F0:32A0:D5A:6851:84EC:38F3:656D,Panama national football team,/* Current squad */
+2019-10-08T03:46:58+00:00,920181202,920180258,0,181.197.136.100,Panama national football team,/* Recent call-ups */
+2020-05-28T14:25:04+00:00,959386634,955907936,0,Sakiv,Paraguay national football team,/* Results and fixtures */
+2021-06-23T23:56:24+00:00,1030113980,1030113266,0,24.139.78.175,Puerto Rico national football team,/* Top goalscorers */
+2020-10-16T06:48:57+00:00,983784387,983784166,0,205.169.113.254,Puerto Rico national football team,/* Current squad */
+2019-10-19T09:13:29+00:00,922008357,921683195,0,Davidlofgren1996,Puerto Rico national football team,/* Current squad */
+2019-05-21T20:28:08+00:00,898166957,898166277,0,PR Sports,Puerto Rico national football team,/* 2019 */
+2019-10-01T17:28:00+00:00,919067378,918125648,0,178.164.96.242,Páll Klettskarð,
+2021-01-23T10:19:50+00:00,1002210778,1002155839,0,Xiamatt,Puerto Rico national football team,Undid revision 1002155839 by [[Special:Contributions/27.125.249.94|27.125.249.94]] ([[User talk:27.125.249.94|talk]])
+2019-03-31T01:23:09+00:00,890233487,890233312,0,JavierAlejandro23,Puerto Rico national football team,/* Current squad */
+2020-05-09T17:46:04+00:00,955765599,925103418,0,178.164.96.242,Páll Klettskarð,
+2021-01-15T10:08:01+00:00,1000500909,966363728,0,178.164.112.109,Páll Klettskarð,
+2020-05-29T16:08:10+00:00,959600536,955765599,0,178.164.96.242,Páll Klettskarð,
+2020-05-12T02:27:41+00:00,956204858,955670066,0,Pedroisthebest17!,Qatar national football team,
+2021-04-08T04:09:36+00:00,1016616324,1016120710,0,Pass.retrieve,Qatar national football team,
+2019-09-11T16:00:13+00:00,915162907,915162448,0,37.186.46.223,Qatar national football team,/* Records */
+2019-08-07T07:15:21+00:00,909729886,908211391,0,Joshlarcelet,Samoa national football team,/* Current Squad */
+2020-07-01T06:57:57+00:00,965421875,964986626,0,JJMC89 bot,Qatar national football team,Removed [[WP:NFCC]] violation(s). No valid [[WP:NFUR|non-free use rationale]] for this page. See [[WP:NFC#Implementation]]. Questions? [[WP:MCQ|Ask here]].
+2020-02-17T12:46:11+00:00,941246611,941246581,0,102.250.7.166,Samoa national football team,/* Oceania Nations Cup record */
+2020-06-25T19:33:54+00:00,964484765,964455321,0,GreenC bot,San Marino national football team,Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2019-07-05T14:47:07+00:00,904921175,904920759,0,Shellwood,San Marino national football team,Reverted edits by [[Special:Contributions/210.50.18.153|210.50.18.153]] ([[User talk:210.50.18.153|talk]]) ([[WP:HG|HG]]) (3.4.8)
+2021-04-15T09:22:05+00:00,1017916286,1017916026,0,David Biddulph,San Marino national football team,Rollback edit(s) by [[Special:Contributions/2A07:23C0:9:1:0:0:1:8320|2A07:23C0:9:1:0:0:1:8320]] ([[User_talk:2A07:23C0:9:1:0:0:1:8320|talk]]): [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2020-08-08T13:48:56+00:00,971829441,971829285,0,Noel baran,San Marino national football team,/* Recent call-ups */
+2020-02-15T09:01:04+00:00,940897004,940743994,0,175.113.111.16,San Marino national football team,/* 2020 */
+2020-05-23T09:47:50+00:00,958353404,958353203,0,2A04:B2C2:2405:9A00:34F1:9A41:C3AE:4D11,San Marino national football team,
+2019-04-22T13:13:51+00:00,893597741,893587272,0,Vaselineeeeeeee,Scotland national football team,Reverted edits by [[Special:Contribs/80.104.49.111|80.104.49.111]] ([[User talk:80.104.49.111|talk]]) to last version by Jmorrison230582
+2019-05-12T19:09:14+00:00,896766348,895511510,0,VUOP,Scotland national football team,
+2019-07-25T00:28:39+00:00,907745866,907742623,0,Fyunck(click),Scotland national football team,Reverted 1 edit by [[Special:Contributions/Shauny1995|Shauny1995]] ([[User talk:Shauny1995|talk]]) to last revision by Jmorrison230582 ([[WP:TW|TW]])
+2019-06-04T15:23:14+00:00,900274893,900274727,0,Mattythewhite,Scotland national football team,Reverted 1 edit by [[Special:Contributions/007Scarzy|007Scarzy]] ([[User talk:007Scarzy|talk]]) to last revision by 189.202.58.38 ([[WP:TW|TW]])
+2021-07-19T21:55:33+00:00,1034441775,1034440782,0,0Michael105,Scotland national football team,Reverting edit(s) by [[Special:Contributions/82.9.188.34|82.9.188.34]] ([[User_talk:82.9.188.34|talk]]) to rev. 1033741942 by Crowsus: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2020-03-20T10:35:39+00:00,946469187,946068757,0,Gazda1970,Slovenia national football team,/* Recent call-ups */ 1 year
+2019-11-20T23:22:44+00:00,927193802,927193566,0,Bury 99,Slovenia national football team,/* Top goalscorers */
+2020-07-16T22:11:20+00:00,968047126,968047062,0,MrGold15,Somalia national football team,/* Recent call-ups */
+2020-07-20T01:05:11+00:00,968542747,968047126,0,2.101.1.36,Somalia national football team,
+2021-03-18T01:58:25+00:00,1012742168,1012436520,0,190.98.1.205,Suriname national football team,/* Current squad */
+2020-03-13T14:50:27+00:00,945370602,944788011,0,2A00:A040:194:A1E1:5986:6132:4100:F9BA,Suriname national football team,/* Current squad */
+2019-03-29T14:10:39+00:00,890020431,889326920,0,Certes,Suriname national football team,Disambiguating links to [[Friendly]] (link changed to [[Friendly (sport)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-12-22T03:55:13+00:00,995647154,995208372,0,186.179.213.232,Suriname national football team,/* Recent call-ups */
+2020-08-05T18:11:35+00:00,971368295,971056474,0,186.179.163.216,Suriname national football team,/* Current squad */
+2020-05-10T13:05:47+00:00,955906407,954995728,0,Rodw,Tahiti national football team,"Disambiguating links to [[Samuel Garcia]] (link changed to [[Samuel Garcia (footballer, born 1975)]]; link changed to [[Samuel Garcia (footballer, born 1975)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]]."
+2020-09-29T14:54:32+00:00,980970719,979372175,0,6ii9,Tahiti national football team,/* Fixtures and results */ Used format parameter and removed link to country (as the city has a link)
+2019-06-15T20:30:40+00:00,902002459,902002355,0,Kinetic37,Somalia national football team,Reverted 2 edits by [[Special:Contributions/78.86.187.216|78.86.187.216]] ([[User talk:78.86.187.216|talk]]) to last revision by Serols ([[WP:TW|TW]])
+2021-01-29T15:27:20+00:00,1003556375,1000486290,0,Chris the speller,Tahiti national football team,/* Current squad */replaced: Current Squad → Current squad
+2019-08-26T13:37:47+00:00,912565557,911039762,0,41.237.156.193,Tanzania national football team,/* Coaches */
+2019-11-27T14:39:06+00:00,928207797,927089957,0,Imcumkite,Tanzania national football team,/* African Games */
+2020-03-13T23:46:06+00:00,945438237,943870529,0,Inter&anthro,Tanzania national football team,adding source
+2020-06-19T21:03:46+00:00,963445801,963361938,0,177.237.26.102,Trinidad and Tobago national football team,/* Current squad */
+2019-12-09T21:05:21+00:00,930041032,927957524,0,177.237.28.38,Trinidad and Tobago national football team,
+2021-05-21T19:44:24+00:00,1024383156,1023018107,0,200.213.92.141,Trinidad and Tobago national football team,/* Current squad */
+2020-03-09T13:48:54+00:00,944711745,944229037,0,207.97.185.40,Trinidad and Tobago national football team,/* Managers */
+2019-09-01T02:58:05+00:00,913443618,913443556,0,59.10.112.157,Trinidad and Tobago national football team,/* 2019 */
+2019-04-14T07:51:09+00:00,892398507,892398444,0,62.149.77.154,Trinidad and Tobago national football team,/* Current squad */
+2020-07-21T10:06:00+00:00,968760169,967826194,0,36.77.25.85,Trinidad and Tobago national football team,/* 2020 */
+2020-02-19T13:15:09+00:00,941583327,941276456,0,FCNantes72,Trinidad and Tobago national football team,/* 2020 */
+2019-09-06T01:28:36+00:00,914236177,914185416,0,118.200.250.100,Uzbekistan national football team,
+2020-09-13T06:07:31+00:00,978151329,978151081,0,31.58.179.234,Uzbekistan national football team,/* Recent results and forthcoming fixtures */
+2021-07-18T01:15:12+00:00,1034135035,1034090257,0,Sports2021,Uzbekistan national football team,
+2019-06-09T09:55:43+00:00,901047290,901046464,0,Nursultan12,Uzbekistan national football team,/* Uzbekistan all-time record against other nations */
+2020-04-07T14:17:44+00:00,949611981,948628200,0,177.237.30.102,Uzbekistan national football team,/* Recent call-ups */
+2020-08-12T18:08:48+00:00,972557941,972557493,0,190.73.78.6,Venezuela national football team,/* Current squad */
+2021-07-23T19:45:38+00:00,1035117929,1034621906,0,T-resh,Venezuela national football team,/* Recent call-ups */
+2020-08-16T04:07:43+00:00,973240384,972557941,0,181.34.181.231,Venezuela national football team,/* Current squad */

@@ -1,0 +1,55 @@
+timestamp,revid,parentid,sock,user,page,message
+2022-05-22T16:33:19+00:00,1089225594,1087658780,1,GeneralizedMaths,Binomial coefficient,Added additional identities
+2022-01-30T19:57:58+00:00,1068919476,1068915145,1,GeneralizedMaths,Faulhaber's formula,/* Multiple sums of powers */ I have added examples.
+2022-01-30T19:30:40+00:00,1068915145,1064253209,1,GeneralizedMaths,Faulhaber's formula,I have added some generalizations of Faulhaber's formula that I found in two articles.
+2022-02-19T13:51:06+00:00,1072791111,1070544216,1,BinomialCoefficient,Harmonic number,Added a generalization of harmonic numbers called repeated harmonic numbers which also corresponds to the sum of harmonic numbers based on an article I recently read.
+2022-02-19T11:07:03+00:00,1072769577,1072671739,1,BinomialCoefficient,Binomial coefficient,Corrected a small typo.
+2022-02-18T22:43:06+00:00,1072671739,1067741429,1,BinomialCoefficient,Binomial coefficient,Added the formula for the repeated sum of binomial coefficient presented in the cited article [11].
+2022-05-27T21:53:32+00:00,1090172545,1089915204,1,Kaizen_Grey,Multiple zeta function,fixed a typo
+2022-05-26T09:49:11+00:00,1089915204,1089913323,1,Kaizen_Grey,Multiple zeta function,added examples
+2022-05-26T09:30:39+00:00,1089913323,1089840503,1,Kaizen_Grey,Multiple zeta function,
+2022-05-25T23:16:04+00:00,1089840503,1089840001,1,Kaizen_Grey,Multiple zeta function,
+2022-05-25T23:11:47+00:00,1089840001,1089838443,1,Kaizen_Grey,Multiple zeta function,Added references for multiple zeta star values
+2022-05-25T22:59:26+00:00,1089838443,1078975808,1,Kaizen_Grey,Multiple zeta function,Added a section about generating functions
+2022-05-20T21:34:06+00:00,1088924646,1088917527,1,Kaizen_Grey,Faulhaber's formula,
+2022-05-20T20:42:49+00:00,1088917527,1088916172,1,Kaizen_Grey,Faulhaber's formula,
+2022-05-20T20:33:35+00:00,1088916172,1088915842,1,Kaizen_Grey,Faulhaber's formula,
+2022-05-20T20:31:21+00:00,1088915842,1080363993,1,Kaizen_Grey,Faulhaber's formula,Added some generalization of the Faulhaber Formula
+2022-05-14T19:50:02+00:00,1087831843,1080313359,1,Kaizen_Grey,Talk:Faulhaber's formula,/* Generalized Faulhaber formula */ new section
+2022-04-08T01:58:10+00:00,1081539358,1081522807,0,David Eppstein,Binomial coefficient,"Undid revision 1081522807 by [[Special:Contributions/ZXYNINE|ZXYNINE]] ([[User talk:ZXYNINE|talk]]) That's because THE COMMENT IS NOT CODE. It describes how the code affects a different quantity, not the one being computed."
+2022-01-30T20:03:24+00:00,1068920389,1068919476,0,D.Lazard,Faulhaber's formula,"Reverted 2 edits by [[Special:Contributions/GeneralizedMaths|GeneralizedMaths]] ([[User talk:GeneralizedMaths|talk]]): Per [[WP:OR]], every result described in Wikipedia must be regularly published and validated by reliable secondary sources. None condition is fulfilled"
+2022-03-31T20:42:14+00:00,1080363993,1080357429,0,Bio.oid,Faulhaber's formula,/* From examples to matrix theorem */ corrected signs previously only announced
+2022-01-24T23:20:20+00:00,1067741429,1067729331,0,David Eppstein,Binomial coefficient,"shorter, less technical, and more recognizable short description"
+2022-04-23T17:33:55+00:00,1084294321,1081539358,0,Juicer,Binomial coefficient,"changed the order for beta-function parameters, it was wrong, see https://proofwiki.org/wiki/Binomial_Coefficient_expressed_using_Beta_Function for example"
+2022-04-15T20:44:27+00:00,1082907593,1072824510,0,186.159.152.27,Harmonic number,/* log usually implies base 10; ln is preferred */
+2022-01-28T15:55:18+00:00,1068470494,1068187435,0,141.89.216.6,Harmonic number,/* Approximation using the Taylor series expansion */
+2022-01-31T20:13:59+00:00,1069139588,1068796560,0,Matthiaspaul,Multiple zeta function,+link
+2022-03-24T09:24:54+00:00,1078975808,1069139588,0,Headbomb,Multiple zeta function,Electron. J. Comb.
+2022-03-26T20:05:24+00:00,1079439715,1079430817,0,Bio.oid,Talk:Faulhaber's formula,/* Proposed merge of Polynomials calculating sums of powers of arithmetic progressions into Faulhaber's formula */
+2020-04-11T17:37:18+00:00,950359157,938328912,0,Community Tech bot,Talk:Faulhaber's formula,Files used on this page or its Wikidata item are up for deletion
+2021-10-03T07:38:47+00:00,1047915717,1045640797,0,Maimonid,Binomial coefficient,"/* Identities involving binomial coefficients */ subsection ""congruences"" added"
+2020-07-02T14:14:05+00:00,965636590,960539394,0,InternetArchiveBot,Binomial coefficient,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-05-28T23:42:16+00:00,959474292,959428619,0,InternetArchiveBot,Binomial coefficient,Bluelink 1 book for [[Wikipedia:Verifiability|verifiability]] (prndis)) #IABot (v2.0.1) ([[User:GreenC bot|GreenC bot]]
+2020-12-18T17:46:34+00:00,995001898,994380903,0,Tarnoob,Binomial coefficient,/* External links */ cat.
+2021-08-11T03:28:17+00:00,1038200363,1038200317,0,Bernanke's Crossbow,Binomial coefficient,/* Computing the value of binomial coefficients */ Added hatnote
+2020-11-27T18:27:26+00:00,990995597,990995337,0,JayBeeEll,Binomial coefficient,/* Both {{Mvar|n}} and {{Mvar|k}} large */ ref at end of sentence
+2021-10-29T19:12:38+00:00,1052539594,1052538906,0,Zaslav,Faulhaber's formula,Clarify chronology (F. was long before B.).
+2020-10-14T14:42:25+00:00,983489660,950364341,0,Lurkian,Faulhaber's formula,
+2021-05-16T04:46:38+00:00,1023394135,1023394054,0,116.68.76.8,Faulhaber's formula,
+2022-01-04T01:02:11+00:00,1063619766,1063619548,0,Hellacioussatyr,Binomial coefficient,/* In programming languages */ inline marker
+2022-02-19T17:15:36+00:00,1072824317,1072769577,0,JayBeeEll,Binomial coefficient,"Restored revision 1067741429 by [[Special:Contributions/David Eppstein|David Eppstein]] ([[User talk:David Eppstein|talk]]): Sorry, but there are zillions of binomial coefficient identities, and the fact that someone recently got one of them published in a random journal does not make it worthy of an entire section here"
+2021-02-27T13:44:39+00:00,1009236482,1008100359,0,Hellacioussatyr,Binomial coefficient,/* Binomial coefficients as polynomials */ Inline markers; ellipsis
+2020-08-13T11:52:37+00:00,972699351,972677553,0,JayBeeEll,Binomial coefficient,"Undid revision 972677553 by [[Special:Contributions/Spikeylegs|Spikeylegs]] ([[User talk:Spikeylegs|talk]]) rv: uncited, useless"
+2020-07-28T07:56:45+00:00,969936115,966415195,0,John of Reading,Harmonic number,"Typo/[[WP:AWB/GF|general]] fixes, replaced: an heuristic → a heuristic"
+2022-02-19T17:16:46+00:00,1072824510,1072791111,0,JayBeeEll,Harmonic number,Reverted 1 edit by [[Special:Contributions/BinomialCoefficient|BinomialCoefficient]] ([[User talk:BinomialCoefficient|talk]]): Apparent promotional editing; [[WP:UNDUE]]
+2022-02-02T12:26:02+00:00,1069460005,1069410827,0,JayBeeEll,Harmonic number,Undid revision 1069410827 by [[Special:Contributions/2409:4064:984:B88D:25CA:FDC8:9762:4747|2409:4064:984:B88D:25CA:FDC8:9762:4747]] ([[User talk:2409:4064:984:B88D:25CA:FDC8:9762:4747|talk]]) no need for the more complicated notation
+2020-04-11T05:22:41+00:00,950274716,917037580,0,OAbot,Multiple zeta function,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2021-06-22T20:55:15+00:00,1029923840,1029918974,0,Maxal,Faulhaber's formula,/* Alternate expressions */
+2020-12-06T13:34:43+00:00,992665421,990648560,0,Monkbot,Harmonic number,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 16 templates: del empty params (7×);
+2020-08-23T16:33:46+00:00,974541825,969630120,0,240B:10:9280:7E00:1C7E:4CCC:89A8:2509,Multiple zeta function,/* The sum and duality conjectures[6] */ Fixed typo
+2021-08-11T23:33:05+00:00,1038337945,1038167878,0,JayBeeEll,Harmonic number,"Undid revision 1038167878 by [[Special:Contributions/MMmpds|MMmpds]] ([[User talk:MMmpds|talk]]) rv: the edit summary is nonsensical, this does not make anything better or more convenient for anyone"
+2022-02-08T01:31:04+00:00,1070544216,1070488555,0,73.228.27.170,Harmonic number,merge
+2020-11-25T18:34:32+00:00,990648560,990639399,0,JayBeeEll,Harmonic number,"Undid revision 990639399 by [[Special:Contributions/84.245.120.59|84.245.120.59]] ([[User talk:84.245.120.59|talk]]) About the article in general, that is probably true -- it would benefit significantly from someone removing cruft and adding sources (and expanding on the parts that are significant).  In a good version of this article, this little piece of trivia would be absent, in either form."
+2021-11-23T02:39:04+00:00,1056705914,1056276231,0,WikiCleanerBot,Multiple zeta function,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2020-10-29T17:49:06+00:00,986081375,986081281,0,2405:205:1488:D208:96E2:BBF0:F917:880F,Harmonic number,/* Harmonic number */ Fixed typo
+2022-03-28T17:12:02+00:00,1079793982,1079527453,0,JayBeeEll,Talk:Faulhaber's formula,/* Proposed merge of Polynomials calculating sums of powers of arithmetic progressions into Faulhaber's formula */ Reply

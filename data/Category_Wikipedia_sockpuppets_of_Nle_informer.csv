@@ -1,0 +1,43 @@
+timestamp,revid,parentid,sock,user,page,message
+2019-07-18T00:28:44+00:00,906753373,906752833,1,Nle_informer,RGB color model,Corrected link
+2019-07-18T00:22:27+00:00,906752833,903692780,1,Nle_informer,RGB color model,Clarified representation of color bit depth to include reference to float-based systems.
+2019-07-18T00:10:39+00:00,906751705,905111513,1,Nle_informer,Color balance,Added a section dealing specifically with color balance in film and video
+2019-07-17T23:40:53+00:00,906748801,906748588,1,Nle_informer,Black-body radiation,added timing to reference
+2019-07-17T23:38:29+00:00,906748588,906748386,1,Nle_informer,Black-body radiation,Add external link
+2019-07-17T23:36:10+00:00,906748386,906377210,1,Nle_informer,Black-body radiation,Added an animated visualization of a black body heating up
+2019-08-30T17:52:57+00:00,913219705,905947535,1,Davejsterling,Tripod (photography),"Added a link to a moviola.com video which covers fluid heads in detail, along with other tripod information. Also added a video depicting a tripod head being mounted to a hi hat."
+2019-08-12T16:22:58+00:00,910514574,910503766,1,Gentry_Haven,Flag (lighting),"Added citations to article. First the page references to Flags in the ""Set Lighting Technician's Handbook, third edition"". Second, the relevant section on Flags in the free video-based training course on moviola.com."
+2019-08-12T14:52:44+00:00,910503766,846730402,1,Gentry_Haven,Flag (lighting),Added reference to Floppies.
+2019-08-26T23:52:21+00:00,912644923,0,1,Moviola_learning,User:Moviola learning,Added attribution link
+2019-08-26T23:46:53+00:00,912644422,864379066,1,Steve_Kaine,Scrim (lighting),"Add information on single and double scrims. Added a source website (moviola.com), with a link directly to the instructional video on scrims. Strangely none of the major written references on lighting (e.g. the Set Lighting Technicians Handbook, or Blaine Brown's Motion Picture and Video Lighting) had any detailed information on scrims. Also added video depicting scrims, an excerpt from the moviola.com video."
+2019-08-13T20:37:12+00:00,910698488,910697704,1,Steve_Kaine,C-stand,Added a video showing a C-stand with moveable upper leg being set up on stairs.
+2019-08-13T20:31:00+00:00,910697704,822619262,1,Steve_Kaine,C-stand,"Added a citation directly to the interview in which Ed Phillips, the late co-founder of Matthews Grip, verifies the origin of the name C-stand and Matthews involvement in popularizing the stand in film production."
+2019-07-28T00:52:51+00:00,908181731,908172694,0,2A02:C7D:BEEF:4C00:7901:D00:13F8:1696,Black-body radiation,Pointing out the tautology that the sentence describes - the visible light spectrum is called that because the human eye can perceive it.
+2019-08-13T20:37:12+00:00,910698488,910697704,0,Steve Kaine,C-stand,Added a video showing a C-stand with moveable upper leg being set up on stairs.
+2018-06-20T15:05:48+00:00,846730402,846729858,0,Top5percent,Flag (lighting),Added the common US equivalent term for the UK term ‘focus puller’.
+2019-07-18T01:01:14+00:00,906756037,906751705,0,MrOllie,Color balance,Reverted to revision 905111513 by [[Special:Contributions/InternetArchiveBot|InternetArchiveBot]] ([[User talk:InternetArchiveBot|talk]]) ([[WP:TW|TW]])
+2019-07-18T01:01:07+00:00,906756025,906748801,0,MrOllie,Black-body radiation,Reverted to revision 906377210 by [[Special:Contributions/Headbomb|Headbomb]] ([[User talk:Headbomb|talk]]) ([[WP:TW|TW]])
+2019-08-27T13:23:12+00:00,912722661,910519066,0,Praxidicae,Flag (lighting),revert copyvio + covert spam
+2019-08-12T16:59:13+00:00,910519066,910514574,0,TAnthony,Flag (lighting),"Fix [[:Category:CS1 maint: Extra text|CS1 cite error]] (extra text in ""page"" or ""edition"" parameter), and genfixes"
+2019-07-18T01:00:16+00:00,906755922,906753373,0,MrOllie,RGB color model,Reverted to revision 903692780 by [[Special:Contributions/Billinghurst|Billinghurst]] ([[User talk:Billinghurst|talk]]) ([[WP:TW|TW]])
+2019-08-09T19:56:04+00:00,910119083,908181731,0,AllTheMegahertz,Black-body radiation,/* Black Body */ Tone
+2019-07-27T22:50:53+00:00,908170146,908169189,0,Nemo Null,RGB color model,/* See also */ Alphabetized list. Divided list into columns. Removed repeat links as per MOS:NOTSEEALSO.
+2019-08-08T23:36:09+00:00,909992575,906756037,0,InternetArchiveBot,Color balance,Bluelinking 1 books for [[WP:V|verifiability]]. #IABot (v2.1alpha2)
+2018-01-27T13:50:33+00:00,822619262,809828772,0,DePiep,C-stand,Citation needed: fix/cleanup reason parameter (via [[WP:JWB]])
+2018-10-16T20:40:45+00:00,864379066,853261407,0,Junkyardsparkle,Scrim (lighting),/* Outdoors and photography */ Image of old scrimmed film set
+2019-07-12T15:08:55+00:00,905947535,905921098,0,Jehochman,Tripod (photography),/* top */  warnings should be used when article content is unreliable. This one does not seem to be dodgy and there are at least some references.
+2013-02-17T16:32:23+00:00,538734404,529550880,0,Fortdj33,Flag (lighting),Updated stub tag
+2018-10-29T20:10:15+00:00,866347441,861554145,0,Alexander.j.mead,Black-body radiation,"Improved equation formatting. It was ugly, now it is less ugly."
+2019-03-01T18:53:15+00:00,885699960,884654674,0,Mssgill,Black-body radiation,Small language changes
+2018-10-17T00:55:30+00:00,864407945,864407322,0,66.51.197.5,Color balance,/* Psychological color balance */ typo fix
+2019-02-23T02:03:27+00:00,884654674,882940243,0,8.28.179.120,Black-body radiation,/* Wien's displacement law */
+2018-06-30T06:31:23+00:00,848172902,848026696,0,2001:A61:5017:AD01:C0F9:FB28:74BD:5F41,Black-body radiation,"""thermal energy"" changed to ""internal energy"", ""thermal energy"" simply does not exists in modern thermodynamic."
+2018-09-09T08:04:34+00:00,858738747,848172902,0,Peacefulgarden,Black-body radiation,
+2018-04-13T00:58:11+00:00,836159773,836159761,0,PlyrStar93,Black-body radiation,Reverted edits by [[Special:Contributions/2600:1015:B00A:FE2:A9BE:BF57:48E5:A567|2600:1015:B00A:FE2:A9BE:BF57:48E5:A567]] ([[User talk:2600:1015:B00A:FE2:A9BE:BF57:48E5:A567|talk]]) ([[WP:HG|HG]]) (3.3.5)
+2019-02-17T12:16:32+00:00,883756146,874397911,0,Citation bot,Color balance,"Alter: isbn. Add: chapter-url, citeseerx. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[WP:UCB|User-activated]]."
+2018-02-26T14:30:32+00:00,827749359,827749288,0,Bentogoa,RGB color model,Reverted edits by [[Special:Contributions/Jim_the_Jim_the_Jim|Jim_the_Jim_the_Jim]] ([[User talk:Jim_the_Jim_the_Jim|talk]]) ([[WP:HG|HG]]) (3.3.3)
+2018-11-25T14:12:57+00:00,870541141,870540753,0,Bumm13,RGB color model,/* Color depth */ formatting fix
+2018-08-03T14:02:03+00:00,853261407,793299018,0,Frank C. Müller,Scrim (lighting),+ photo.
+2018-12-22T20:13:12+00:00,874962992,874960003,0,GodeNehler,Tripod (photography),/* Variations */ changed back to original value
+2018-03-09T14:09:42+00:00,829576033,829539721,0,137.205.0.194,RGB color model,Undid revision 829539721 by [[Special:Contributions/103.42.210.96|103.42.210.96]] ([[User talk:103.42.210.96|talk]]) because that user's edit is nonsensical
+2018-09-15T13:51:26+00:00,859664957,859664655,0,Teratix,Tripod (photography),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2001:44C8:42C9:8291:D903:B442:5D00:B243|2001:44C8:42C9:8291:D903:B442:5D00:B243]]: Try the article [[Huawei P20 Pro]]. ([[WP:TW|TW]])

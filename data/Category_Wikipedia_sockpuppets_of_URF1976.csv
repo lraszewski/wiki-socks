@@ -1,0 +1,20 @@
+timestamp,revid,parentid,sock,user,page,message
+2017-10-04T12:24:55+00:00,803755283,803755122,1,URF1976,University Radio Falmer,/* Alumni */
+2017-10-04T12:23:08+00:00,803755122,803754670,1,URF1976,University Radio Falmer,/* Alumni */
+2017-10-04T12:18:39+00:00,803754670,803754654,1,URF1976,University Radio Falmer,/* Alumni */
+2017-10-04T12:18:30+00:00,803754654,803754411,1,URF1976,University Radio Falmer,/* Alumni */
+2017-10-04T12:16:01+00:00,803754411,803754338,1,URF1976,University Radio Falmer,
+2017-10-04T12:15:32+00:00,803754338,803754308,1,URF1976,University Radio Falmer,
+2017-10-04T12:15:18+00:00,803754308,803754162,1,URF1976,University Radio Falmer,
+2017-10-04T12:14:17+00:00,803754162,803754112,1,URF1976,University Radio Falmer,
+2017-10-04T12:13:58+00:00,803754112,803754006,1,URF1976,University Radio Falmer,
+2017-10-04T12:13:04+00:00,803754006,803753978,1,URF1976,University Radio Falmer,
+2017-10-04T12:12:47+00:00,803753978,803753871,1,URF1976,University Radio Falmer,
+2017-10-04T12:11:18+00:00,803753871,803753813,1,URF1976,University Radio Falmer,/* Recent achievements */
+2017-10-04T12:10:22+00:00,803753813,803752008,1,URF1976,University Radio Falmer,/* Alumni */
+2017-10-05T11:52:42+00:00,803902259,803902023,1,Zamattack,University Radio Falmer,/* References */Fixed error
+2017-10-05T11:50:26+00:00,803902023,803901992,1,Zamattack,University Radio Falmer,/* Alumni */
+2017-10-05T11:50:12+00:00,803901992,803901951,1,Zamattack,University Radio Falmer,/* Alumni */
+2017-10-05T11:49:47+00:00,803901951,803777339,1,Zamattack,University Radio Falmer,"alumni changes, location and update references"
+2017-10-04T15:38:52+00:00,803777339,803755432,0,Dom Kaos,University Radio Falmer,/* Recent achievements */ deleted - URF isn't mentioned in that tweet
+2017-10-04T12:26:24+00:00,803755432,803755283,0,Materialscientist,University Radio Falmer,Reverted edits by [[Special:Contribs/URF1976|URF1976]] ([[User talk:URF1976|talk]]) to last version by 139.184.150.200

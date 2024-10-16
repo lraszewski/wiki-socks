@@ -1,0 +1,361 @@
+timestamp,revid,parentid,sock,user,page,message
+2023-01-21T15:39:29+00:00,1134932487,1134248196,1,YUEUE,Miguel Sandoval,
+2023-01-17T16:23:25+00:00,1134224936,1134224141,1,YUEUE,Miguel Sandoval,/* Film */
+2023-01-17T16:18:51+00:00,1134224141,1134223370,1,YUEUE,Miguel Sandoval,/* Filmography */
+2023-01-17T14:30:47+00:00,1134206855,1134206584,1,YUEUE,Miguel Sandoval,/* Television */
+2023-01-17T14:28:29+00:00,1134206584,1134206177,1,YUEUE,Miguel Sandoval,/* Filmography */
+2023-01-17T14:25:34+00:00,1134206177,1134199232,1,YUEUE,Miguel Sandoval,
+2023-01-17T13:38:26+00:00,1134199688,1134052431,1,YUEUE,Molly Shannon,/* Television */
+2023-01-17T13:34:51+00:00,1134199232,1134199150,1,YUEUE,Miguel Sandoval,/* Filmography */
+2023-01-17T13:34:10+00:00,1134199150,1134131122,1,YUEUE,Miguel Sandoval,/* Filmography */
+2023-01-17T01:01:50+00:00,1134102088,1134095765,1,YUEUE,Miguel Sandoval,/* Filmography */
+2023-01-16T20:22:51+00:00,1134056019,1134055538,1,YUEUE,Jon Lovitz,/* Television */
+2023-01-16T20:20:05+00:00,1134055538,1134054715,1,YUEUE,Jon Lovitz,/* Filmography */
+2023-01-16T20:15:00+00:00,1134054715,1134054460,1,YUEUE,Jon Lovitz,/* Film */
+2023-01-16T20:13:24+00:00,1134054460,1134003427,1,YUEUE,Jon Lovitz,/* Filmography */
+2023-01-16T20:01:17+00:00,1134052431,1134020347,1,YUEUE,Molly Shannon,/* Television */
+2023-01-16T16:59:54+00:00,1134022451,1112299126,1,YUEUE,Kim Chan,/* Filmography */
+2023-01-16T16:46:38+00:00,1134020347,1133999944,1,YUEUE,Molly Shannon,/* Filmography */
+2023-01-16T00:36:27+00:00,1133888097,1133878516,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T23:14:41+00:00,1133874979,1133874174,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T23:09:38+00:00,1133874174,1133873572,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T23:05:25+00:00,1133873572,1133872712,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T22:59:41+00:00,1133872712,1133872317,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T22:56:56+00:00,1133872317,1133868972,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T22:35:48+00:00,1133868972,1133868749,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T22:34:25+00:00,1133868749,1133868647,1,YUEUE,Jane Krakowski,/* Television */
+2023-01-15T22:33:48+00:00,1133868647,1133868173,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T22:31:00+00:00,1133868173,1133867463,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T22:26:28+00:00,1133867463,1133857768,1,YUEUE,Jane Krakowski,
+2023-01-15T21:31:00+00:00,1133858433,1132652756,1,YUEUE,Miguel Sandoval,/* Film */
+2023-01-15T21:25:46+00:00,1133857570,1133857355,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T21:24:30+00:00,1133857355,1133857060,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T21:22:52+00:00,1133857060,1133856960,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T21:22:12+00:00,1133856960,1133856822,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T21:21:21+00:00,1133856822,1133856662,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T21:20:27+00:00,1133856662,1133856489,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T21:19:26+00:00,1133856489,1133856264,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T21:18:02+00:00,1133856264,1133856013,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T21:16:32+00:00,1133856013,1133855861,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T21:15:37+00:00,1133855861,1133829055,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:42:35+00:00,1133828720,1133827060,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:32:35+00:00,1133827000,1133826906,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T18:31:59+00:00,1133826906,1133826652,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:30:34+00:00,1133826652,1133826536,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:29:59+00:00,1133826536,1133826340,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:28:53+00:00,1133826340,1133826082,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:27:25+00:00,1133826082,1133825868,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:26:12+00:00,1133825868,1133825259,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:22:36+00:00,1133825259,1133824708,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:19:31+00:00,1133824708,1133824626,1,YUEUE,Jane Krakowski,/* Film */
+2023-01-15T18:19:05+00:00,1133824626,1133824448,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:18:00+00:00,1133824448,1133824301,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T18:17:09+00:00,1133824301,1133823775,1,YUEUE,Jane Krakowski,
+2023-01-15T18:14:07+00:00,1133823775,1133803651,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-15T16:09:48+00:00,1133802771,1133801468,1,YUEUE,Molly Shannon,/* Television */
+2023-01-15T16:02:05+00:00,1133801468,1133801221,1,YUEUE,Molly Shannon,/* Film */
+2023-01-15T16:00:44+00:00,1133801221,1133800588,1,YUEUE,Molly Shannon,/* Awards and nominations */
+2023-01-15T15:28:30+00:00,1133795640,1131662194,1,YUEUE,Gedde Watanabe,
+2023-01-15T02:04:01+00:00,1133691522,1133679380,1,YUEUE,Wilmer Valderrama,
+2023-01-15T00:51:08+00:00,1133679380,1133679294,1,YUEUE,Wilmer Valderrama,/* Film */
+2023-01-15T00:50:25+00:00,1133679294,1133644510,1,YUEUE,Wilmer Valderrama,/* Filmography */
+2023-01-14T20:37:00+00:00,1133639368,1076738704,1,YUEUE,User talk:YUEUE,/* Marzo de 2022 */ Responder
+2023-01-14T20:35:26+00:00,1133639104,1133617975,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-14T18:22:54+00:00,1133617975,1133477598,1,YUEUE,Jane Krakowski,/* Filmography */
+2023-01-14T18:06:40+00:00,1133615645,1133244862,1,YUEUE,Corey Feldman,/* Filmography */
+2022-03-12T16:58:06+00:00,1076730610,1076729723,1,YUEUE,The Good Dinosaur,/* Voice cast */
+2022-03-12T16:54:16+00:00,1076729723,1076354920,1,YUEUE,The Good Dinosaur,/* Voice cast */
+2022-03-12T16:44:12+00:00,1076727588,1076727325,1,YUEUE,Alan Tudyk,/* Short Films */
+2022-03-12T16:42:55+00:00,1076727325,1076726583,1,YUEUE,Alan Tudyk,/* Television */
+2022-03-12T16:39:08+00:00,1076726583,1076621796,1,YUEUE,Alan Tudyk,/* Filmography */
+2022-03-12T02:46:47+00:00,1076621796,1076610631,1,YUEUE,Alan Tudyk,/* Filmography */
+2022-03-12T01:04:43+00:00,1076610631,1076610541,1,YUEUE,Alan Tudyk,/* Filmography */
+2022-03-12T01:03:55+00:00,1076610541,1076606992,1,YUEUE,Alan Tudyk,/* Filmography */
+2022-03-12T00:33:06+00:00,1076606992,1076606870,1,YUEUE,Alan Tudyk,/* Filmography */
+2022-03-12T00:29:58+00:00,1076606570,1076606375,1,YUEUE,Alan Tudyk,/* Film */
+2022-03-12T00:28:18+00:00,1076606375,1076606188,1,YUEUE,Alan Tudyk,/* Filmography */
+2022-03-12T00:26:54+00:00,1076606188,1076606148,1,YUEUE,Alan Tudyk,/* Filmography */
+2022-03-12T00:26:36+00:00,1076606148,1074909697,1,YUEUE,Alan Tudyk,/* Filmography */
+2023-04-04T23:55:44+00:00,1148245450,1148244821,1,Jorgeluis45,Miguel Sandoval,/* Filmography */
+2023-04-04T23:35:32+00:00,1148243327,1147708520,1,Jorgeluis45,Edie McClurg,/* Television */
+2023-04-04T23:33:44+00:00,1148243135,1147598933,1,Jorgeluis45,Miguel Sandoval,
+2023-04-04T19:40:56+00:00,1148214886,1148211568,1,Jorgeluis45,Catherine O'Hara,/* Awards and nominations */
+2023-04-04T19:37:32+00:00,1148214519,1148211801,1,Jorgeluis45,Freddie Highmore,
+2023-04-04T19:15:18+00:00,1148211801,1144891401,1,Jorgeluis45,Freddie Highmore,
+2023-04-04T19:13:18+00:00,1148211568,1147609815,1,Jorgeluis45,Catherine O'Hara,
+2023-04-02T20:46:17+00:00,1147889363,1147889018,1,Jorgeluis45,Fred Ward,/* Television */
+2023-04-02T20:43:37+00:00,1147889018,1146543663,1,Jorgeluis45,Fred Ward,/* Film */
+2023-04-01T23:27:13+00:00,1147751448,1146652614,1,Jorgeluis45,Michael Paul Chan,
+2023-04-01T23:24:08+00:00,1147751085,1147750944,1,Jorgeluis45,Verne Troyer,/* Television */
+2023-04-01T23:22:50+00:00,1147750944,1147390228,1,Jorgeluis45,Verne Troyer,
+2023-04-01T18:25:56+00:00,1147714715,1113890632,1,Jorgeluis45,Marshall Bell,/* Filmography */
+2023-04-01T17:32:55+00:00,1147708520,1147124155,1,Jorgeluis45,Edie McClurg,/* Filmography */
+2023-04-01T17:28:44+00:00,1147707995,1146925810,1,Jorgeluis45,Deep Roy,
+2021-08-11T21:12:25+00:00,1038323063,1038323017,1,Jorgeluis45,Baby's Day Out,
+2021-08-11T21:12:05+00:00,1038323017,1035492217,1,Jorgeluis45,Baby's Day Out,
+2023-03-26T01:40:11+00:00,1146631241,1146590769,1,WHDJE,Alan Tudyk,
+2023-03-25T20:45:16+00:00,1146590769,1145885804,1,WHDJE,Alan Tudyk,
+2023-03-25T17:08:38+00:00,1146562486,1146269992,1,WHDJE,Dante Basco,/* Filmography */
+2023-03-25T14:54:39+00:00,1146543663,1145248772,1,WHDJE,Fred Ward,/* Film */
+2023-03-22T00:47:41+00:00,1145968661,1140393226,1,WHDJE,Bettina Bush,
+2023-03-22T00:41:50+00:00,1145967899,1142919462,1,WHDJE,Eddie Murphy filmography,
+2023-03-20T23:36:48+00:00,1145782314,1145619529,1,WHDJE,Richard Pryor,
+2023-03-19T19:40:41+00:00,1145555230,1145168751,1,WHDJE,Phil Hartman,
+2023-03-18T01:25:05+00:00,1145248772,1145041177,1,WHDJE,Fred Ward,/* Filmography */
+2023-03-16T23:41:24+00:00,1145041177,1136522595,1,WHDJE,Fred Ward,
+2022-01-25T15:40:17+00:00,1067870674,1067870606,1,WHDJE,Sandra Oh,/* Filmography */
+2022-01-25T15:39:51+00:00,1067870606,1067870421,1,WHDJE,Sandra Oh,/* Filmography */
+2022-01-25T15:38:38+00:00,1067870421,1067311438,1,WHDJE,Sandra Oh,/* Filmography */
+2022-07-03T19:43:19+00:00,1096329135,1095962783,0,2A00:23C6:6807:1601:DD5:8BF4:D18F:9204,Alan Tudyk,/* Television */
+2022-05-15T16:00:39+00:00,1087982454,1087982324,0,64.150.230.217,Alan Tudyk,/* Filmography */
+2021-09-05T04:38:00+00:00,1042468575,1042468192,0,Contributor19,Alan Tudyk,/* Film */
+2022-01-24T04:55:31+00:00,1067574894,1067293014,0,Pamzeis,Alan Tudyk,fanblog
+2022-04-15T05:44:06+00:00,1082802370,1082522001,0,2603:8081:1704:F4DF:B407:D63F:B3AA:BB80,Alan Tudyk,/* Television */
+2022-08-02T21:48:18+00:00,1101999480,1101800591,0,82.6.108.247,Alan Tudyk,
+2023-01-16T14:08:43+00:00,1133996994,1133996592,0,Lady Lotus,Alan Tudyk,/* Television */ per [[WP:FILMOGRAPHY]]
+2023-03-16T00:00:44+00:00,1144860635,1143221953,0,2603:9001:7D3F:4FA1:65B0:6B31:9432:5817,Alan Tudyk,
+2021-08-19T13:13:59+00:00,1039570143,1038527997,0,173.79.115.125,Alan Tudyk,
+2023-01-24T03:41:13+00:00,1135350586,1133996994,0,2603:3023:115:1000:B534:570E:79BB:1689,Alan Tudyk,Fixed typo
+2022-12-30T19:48:14+00:00,1130556938,1130541033,0,Lady Lotus,Alan Tudyk,Reverted 1 edit by [[Special:Contributions/174.95.145.109|174.95.145.109]] ([[User talk:174.95.145.109|talk]]): Improper tense
+2022-09-02T05:21:45+00:00,1108031829,1107604821,0,Ser Amantio di Nicolao,Alan Tudyk,add [[Category:Year of birth missing (living people)]]
+2023-03-06T15:04:32+00:00,1143221953,1143193403,0,Lady Lotus,Alan Tudyk,Undid revision 1143193403 by [[Special:Contributions/2A02:214A:8114:A400:2C76:5426:D4DF:6BE1|2A02:214A:8114:A400:2C76:5426:D4DF:6BE1]] ([[User talk:2A02:214A:8114:A400:2C76:5426:D4DF:6BE1|talk]]) [[WP:REDLINK]]
+2022-03-14T09:07:40+00:00,1077053105,1076753985,0,Rchard2scout,Alan Tudyk,Fix lint errors
+2022-02-25T16:55:11+00:00,1073963029,1073907257,0,Sojoraven,Alan Tudyk,
+2022-02-18T23:02:19+00:00,1072675649,1072239014,0,Rusted AutoParts,Alan Tudyk,/* Television */
+2021-09-16T01:00:17+00:00,1044582861,1044187737,0,148.0.126.240,Alan Tudyk,
+2022-03-02T21:27:38+00:00,1074909697,1074685815,0,Fyrael,Alan Tudyk,Reverting edit(s) by [[Special:Contributions/Majiggy|Majiggy]] ([[User_talk:Majiggy|talk]]) to rev. 1073963029 by Sojoraven: Yeah...not exactly an objective statement [[w:en:WP:RW|(RW 16.1)]]
+2022-04-05T21:36:40+00:00,1081192833,1081190383,0,AnomieBOT,Baby's Day Out,Dating maintenance tags: {{Expand section}}
+2021-10-04T18:36:32+00:00,1048190017,1047516451,0,NecronomiconUK,Alan Tudyk,Added (voice) label to role
+2022-03-19T12:46:00+00:00,1078022731,1077819809,0,76.6.101.215,Alan Tudyk,/* Film */Fixed a character name
+2021-09-04T01:02:28+00:00,1042256335,1042251649,0,FlightTime,Alan Tudyk,Reverted 1 edit by [[Special:Contributions/2A01:CB11:20:1900:881:8F76:AE77:A022|2A01:CB11:20:1900:881:8F76:AE77:A022]] ([[User talk:2A01:CB11:20:1900:881:8F76:AE77:A022|talk]])
+2022-03-01T22:33:16+00:00,1074739358,1062110391,0,Llogan79425,Baby's Day Out,/* Critical response */
+2022-03-28T21:03:20+00:00,1079831166,1078029579,0,Bearcat,Catherine O'Hara,recat
+2022-02-13T16:52:11+00:00,1071643569,1071504224,0,Ponyo,Corey Feldman,remove parent cat
+2023-01-15T04:26:46+00:00,1133711212,1131471951,0,MrCboY1997,Baby's Day Out,He was in the movie
+2022-04-09T21:27:24+00:00,1081816913,1081192833,0,Crummymummy,Baby's Day Out,/* Cast */
+2023-02-22T03:44:56+00:00,1140861595,1138836886,0,Iheartbrownbananas,Catherine O'Hara,/* Films */
+2021-08-27T07:55:46+00:00,1040886665,1040385419,0,Rusted AutoParts,Catherine O'Hara,/* Film */
+2021-11-08T02:39:19+00:00,1054104070,1052552594,0,OldNatchezTrace,Corey Feldman,comma's
+2022-09-17T22:53:31+00:00,1110845341,1110080463,0,2A01:4B00:824E:CC00:C14:6980:750E:2B03,Catherine O'Hara,Updated to reflect the scale of O'Hara's accomplishments
+2022-04-16T17:31:30+00:00,1083044568,1083037353,0,Magitroopa,Bettina Bush,Undid revision 1083037353 by [[Special:Contributions/2601:49:4001:69A0:ADAA:8101:178B:8373|2601:49:4001:69A0:ADAA:8101:178B:8373]] ([[User talk:2601:49:4001:69A0:ADAA:8101:178B:8373|talk]])
+2022-04-23T04:45:45+00:00,1084206417,1084206370,0,2601:CA:8200:B10:C49D:B2FC:C003:DAA7,Dante Basco,
+2022-03-22T14:58:31+00:00,1078632814,1078596702,0,BriefEdits,Dante Basco,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2A02:587:5402:9E00:ADD2:42B2:B7F7:1857|2A02:587:5402:9E00:ADD2:42B2:B7F7:1857]] ([[User talk:2A02:587:5402:9E00:ADD2:42B2:B7F7:1857|talk]]): Unsourced
+2021-12-03T06:14:52+00:00,1058389235,1054145064,0,Dieter Lloyd Wexler,Bettina Bush,Copying from [[Category:21st-century African-American women]] to [[Category:21st-century African-American people]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2022-04-23T19:21:14+00:00,1084310411,1084027549,0,Moondragon21,Deep Roy,/* Life and career */
+2023-02-16T15:07:59+00:00,1139717537,1139016719,0,60.48.168.189,Eddie Murphy filmography,
+2023-01-27T17:41:47+00:00,1135917967,1132208398,0,TDFan1000,Eddie Murphy filmography,/* Film */
+2021-08-12T20:31:10+00:00,1038482632,1032630104,0,JadeWrestle,Deep Roy,/* Life and career */
+2022-06-06T23:01:48+00:00,1091880331,1091365788,0,Radiohist,Edie McClurg,/* External links */
+2022-10-13T12:29:59+00:00,1115830737,1115830626,0,49.196.53.107,Fred Ward,
+2021-08-29T21:40:12+00:00,1041322999,1040623001,0,148.101.39.37,Edie McClurg,
+2023-03-11T02:47:33+00:00,1143979237,1140131259,0,LegoCityDude61892,Edie McClurg,"Edie McClurg was born in 1951, not 1945"
+2023-01-30T19:18:33+00:00,1136522595,1135791673,0,Sunshineisles2,Fred Ward,not in source
+2022-08-23T08:48:43+00:00,1106126543,1106126511,0,ClueBot NG,Fred Ward,"Reverting possible vandalism by [[Special:Contribs/Gabe Mcintosh|Gabe Mcintosh]] to version by OMHalck. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4168207) (Bot)"
+2022-01-28T05:17:09+00:00,1068391613,1051650223,0,Nohomersryan,Fred Ward,"i typod putting this one in, it's 30 not 20"
+2021-10-24T19:37:40+00:00,1051650223,1051650220,0,ClueBot NG,Fred Ward,"Reverting possible vandalism by [[Special:Contribs/2604:2D80:E487:5100:3CF2:445C:9955:E7C3|2604:2D80:E487:5100:3CF2:445C:9955:E7C3]] to version by Cryptkeeperfun. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4064012) (Bot)"
+2021-11-24T16:30:42+00:00,1056966697,1056965741,0,VictorRocks,Edie McClurg,"Sorry for the rollback, I need to bring back the {{Hidden|{{align|position|number of episodes goes here}} template. So I edited from 1 episode to 52 episodes, because according to the credits of Crashbox of 17/52 (despite some reusing the segments)s episodes there is every revolting slob credit at the end of the credits."
+2022-12-26T14:44:14+00:00,1129659378,1115830737,0,Quilterdebbie,Fred Ward,/* 1980s */
+2022-03-07T19:43:48+00:00,1075804739,1068391613,0,Citation bot,Fred Ward,"Add: isbn, year. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Film producers from California]] | #UCB_Category 498/688"
+2022-06-05T23:16:26+00:00,1091717747,1089919233,0,Joeyconnick,Freddie Highmore,just the city in the infobox; reduce geo overlinking
+2021-10-20T04:46:23+00:00,1050831673,1050828637,0,Lisztomaniac,Freddie Highmore,Undid revision 1050828637 by [[Special:Contributions/98.195.29.117|98.195.29.117]] ([[User talk:98.195.29.117|talk]])
+2023-01-05T05:17:32+00:00,1131662194,1131661410,0,Geraldo Perez,Gedde Watanabe,See [[MOS:ETHNICITY]] and [[MOS:ROLEBIO]]
+2022-12-02T02:56:16+00:00,1125082472,1122928215,0,Joeyconnick,Freddie Highmore,No source for spouse's name
+2022-10-16T15:55:41+00:00,1116441528,1115920051,0,Citation bot,Jane Krakowski,Add: website. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 3720/3850
+2022-05-25T14:18:13+00:00,1089762133,1087688939,0,199.96.7.38,Jane Krakowski,
+2021-10-31T13:54:32+00:00,1052855805,1047969476,0,Rlink2,Jane Krakowski,"/* Other works */Archiving, identifying, and fixing live and dead Youtube videos (https://en.wikipedia.org/wiki/Wikipedia:Link_rot)"
+2021-11-18T19:14:32+00:00,1055941226,1055843172,0,Bbb23,Gedde Watanabe,revert sock
+2022-06-16T04:16:34+00:00,1093363314,1093098813,0,CatCar28,Jane Krakowski,Undid revision 1093098813 by [[Special:Contributions/69.41.96.50|69.41.96.50]] ([[User talk:69.41.96.50|talk]]) – 'Everwood' is already mentioned in a following paragraph
+2022-08-01T06:50:58+00:00,1101670822,1093363314,0,Lilcytrus,Jane Krakowski,
+2021-12-29T04:07:26+00:00,1062550819,1062170637,0,CatCar28,Jane Krakowski,Undid revision 1062170637 by [[Special:Contributions/CBDunkerson|CBDunkerson]] ([[User talk:CBDunkerson|talk]]) -- The Court's findings are not included in any of the existing sources
+2021-10-03T15:34:19+00:00,1047969476,1047335449,0,SquarePants122,Jane Krakowski,
+2022-05-13T23:31:37+00:00,1087688939,1087688874,0,Discospinster,Jane Krakowski,Reverted edits by [[Special:Contributions/97.116.176.16|97.116.176.16]] ([[User talk:97.116.176.16|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-11-13T13:09:06+00:00,1121661639,1116441528,0,132.191.3.159,Jane Krakowski,/* Filmography */
+2022-12-15T17:24:11+00:00,1127604550,1125812675,0,2605:A601:AC48:1500:B900:6DE7:A298:1045,Jane Krakowski,/* Music video */
+2023-02-23T23:46:15+00:00,1141218855,1138328185,0,2A02:AA16:397D:9B00:94B0:100A:57DD:BEC9,Jane Krakowski,Main role not recurring
+2022-11-18T02:26:45+00:00,1122531926,1122522948,0,132.251.1.213,Jane Krakowski,/* Filmography */
+2023-01-16T21:53:25+00:00,1134070902,1134070885,0,Lady Lotus,Jane Krakowski,Reverted edits by [[Special:Contribs/Lady Lotus|Lady Lotus]] ([[User talk:Lady Lotus|talk]]) to last version by IJBall
+2021-09-25T00:46:01+00:00,1046308195,1046168871,0,63.145.161.182,Jane Krakowski,
+2023-03-22T18:45:33+00:00,1146091317,1141218855,0,The One I Left,Jane Krakowski,added content
+2022-05-02T12:22:02+00:00,1085787080,1084463292,0,PokeFan10025,Jane Krakowski,
+2022-03-07T22:50:28+00:00,1075831317,1075816014,0,Dirkbb,Jane Krakowski,Reverted 1 edit by [[Special:Contributions/93.149.217.242|93.149.217.242]] ([[User talk:93.149.217.242|talk]]) to last revision by Asb7uf
+2021-09-24T08:26:44+00:00,1046168871,1043517803,0,Pamzeis,Jane Krakowski,/* Film */ released
+2022-06-07T02:57:20+00:00,1091908436,1091756262,0,CatCar28,Jane Krakowski,Undid revision 1091756262 by [[Special:Contributions/4.26.13.164|4.26.13.164]] ([[User talk:4.26.13.164|talk]]) – Not a typo
+2022-09-11T02:27:25+00:00,1109651750,1109651700,0,Cg41386,Jane Krakowski,
+2021-12-04T01:48:00+00:00,1058519307,1056150054,0,NathanielTheBold,Jane Krakowski,/* Filmography */
+2021-09-10T13:59:30+00:00,1043517803,1042885303,0,IronMaximus,Jane Krakowski,/* Television */
+2022-02-23T03:07:34+00:00,1073512339,1069490955,0,SibTower1987,Jane Krakowski,/* External links */ - The template now only lists the series (not the performer)
+2021-07-18T21:27:49+00:00,1034266250,1033892515,0,188.148.229.11,Jane Krakowski,[[MOS:PF]]
+2022-05-29T21:11:56+00:00,1090500606,1090500483,0,DownTownRich,Jane Krakowski,Reverted 1 edit by [[Special:Contributions/97.116.164.17|97.116.164.17]] ([[User talk:97.116.164.17|talk]]) to last revision by Bongwarrior
+2022-12-29T14:09:27+00:00,1130298036,1127604550,0,Laggan Boy,Jane Krakowski,/* Personal life */
+2022-05-28T17:48:35+00:00,1090296126,1090294596,0,Bongwarrior,Jane Krakowski,Reverted edits by [[Special:Contribs/97.116.164.17|97.116.164.17]] ([[User talk:97.116.164.17|talk]]) to last version by 199.96.7.38
+2021-09-07T07:31:31+00:00,1042885303,1042266319,0,SquarePants122,Jane Krakowski,
+2022-02-02T15:47:26+00:00,1069490955,1069470938,0,AnomieBOT,Jane Krakowski,Dating maintenance tags: {{Fact}}
+2023-02-09T02:32:39+00:00,1138328185,1134070902,0,BD2412,Jane Krakowski,"Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]] in preparation for imminent disambiguation., replaced: [[Poles|Polish]] → [[Polish people|Polish]]"
+2022-04-24T17:12:52+00:00,1084463292,1083960030,0,And1987,Jane Krakowski,
+2022-11-30T17:59:50+00:00,1124822433,1124181054,0,132.191.2.6,Jane Krakowski,/* Filmography */
+2022-10-06T07:51:43+00:00,1114391314,1112062061,0,FrescoBot,Jane Krakowski,Bot: [[User:FrescoBot/Links|link syntax]]
+2022-02-08T00:33:24+00:00,1070537015,1066749477,0,Fred Zepelin,Jon Lovitz,removed roles from the lead that were trivial. Added his most referenced film role from A League of Their Own
+2023-01-27T20:05:01+00:00,1135937780,1135593958,0,Citation bot,Jon Lovitz,Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 489/3646
+2021-08-12T02:06:20+00:00,1038353571,1036150171,0,FMSky,Jon Lovitz,/* Feud with Andy Dick */
+2022-05-12T16:17:01+00:00,1087463043,1087048942,0,MainlyTwelve,Jon Lovitz,italics
+2022-01-06T08:51:18+00:00,1064048359,1064046586,0,92.12.13.157,Marshall Bell,/* Filmography */Altered content
+2023-03-02T23:45:11+00:00,1142535699,1141595658,0,Zachary Klaas,Jon Lovitz,"Not a ""feud"", not a ""rivalry"".  This is more of an outbreak of hostility being described here.  ""Rift"" is a better term for it."
+2021-06-08T00:37:18+00:00,1027449992,1002805815,0,Tassedethe,Marshall Bell,v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Identity (film)]]
+2021-12-26T19:04:18+00:00,1062165850,1054389280,0,Ser Amantio di Nicolao,Miguel Sandoval,/* External links */[[Category:American people of Mexican descent]] to [[Category:American male actors of Mexican descent]]
+2022-02-26T06:26:01+00:00,1074063923,1073087936,0,2600:1700:2120:DF90:F967:4DEA:A3E4:8A45,Jon Lovitz,
+2022-09-25T17:08:06+00:00,1112299126,1112298873,0,148.102.115.174,Kim Chan,/* Film */
+2021-10-19T18:56:27+00:00,1050759677,1048020444,0,HiwasseeAlum,Michael Paul Chan,/* Filmography */
+2021-09-30T04:21:21+00:00,1047303853,1043458107,0,Dbros06,Jon Lovitz,/* Television */
+2022-06-01T22:46:32+00:00,1091054025,1084288376,0,Risk34,Michael Paul Chan,/* Filmography */
+2021-09-27T12:11:47+00:00,1046786037,1046408431,0,SamJackson007,Miguel Sandoval,/* Filmography */
+2022-12-13T13:03:10+00:00,1127204537,1127142945,0,Rodw,Miguel Sandoval,Disambiguating links to [[Matlock]] (link changed to [[Matlock (TV series)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-11-09T19:10:48+00:00,1054389280,1054278960,0,Tassedethe,Miguel Sandoval,v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Collateral Damage (film)]]
+2023-02-26T20:38:20+00:00,1141790786,1135960284,0,Risk34,Kim Chan,
+2023-02-09T21:23:00+00:00,1138468149,1138467142,0,Geraldo Perez,Jon Lovitz,Reverted 1 edit by [[Special:Contributions/148.102.113.149|148.102.113.149]] ([[User talk:148.102.113.149|talk]]): Removed valid content for no reason
+2021-08-17T06:07:04+00:00,1039184883,1039029842,0,Goszei,Miguel Sandoval,Fix heading capitalization; [[WP:GENFIXES|General fixes]]
+2023-02-14T14:39:06+00:00,1139322021,1139239357,0,132.251.1.137,Miguel Sandoval,/* Film performances */
+2022-06-28T12:56:59+00:00,1095452601,1092794028,0,Beginning,Molly Shannon,/* Early life */Minor - making education info its own paragraph.
+2023-01-27T18:45:27+00:00,1135926806,1135926230,0,Lady Lotus,Molly Shannon,Undid revision 1135926230 by [[Special:Contributions/Young.years.hope.times|Young.years.hope.times]] ([[User talk:Young.years.hope.times|talk]]) partial undo - can keep links the same just add '' to outside
+2021-08-16T22:23:33+00:00,1039135835,1038985493,0,Cardei012597,Molly Shannon,"/* Film */Per sources, the film lost its release date"
+2021-11-02T02:11:53+00:00,1053125967,1053125883,0,Thylacine24,Molly Shannon,/* Early life */ Changed piped link
+2021-08-27T00:22:00+00:00,1040840304,1040825526,0,NathanielTheBold,Molly Shannon,/* Filmography */
+2022-11-19T21:34:12+00:00,1122806695,1116474183,0,Potter45,Molly Shannon,/* External links */
+2023-04-02T14:25:32+00:00,1147840096,1147787524,0,Citation bot,Molly Shannon,"Alter: template type. Add: isbn, date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Anas1712 | [[Category:Citation overkill]] | #UCB_Category 503/836"
+2022-10-16T19:27:08+00:00,1116474183,1111673842,0,Hillrhpc,Molly Shannon,
+2021-10-15T19:02:47+00:00,1050095208,1049767821,0,John FitzGerald,Phil Hartman,Hartman was still twice-divorced after he married Omdahl
+2022-09-06T03:05:04+00:00,1108753581,1108753306,0,Jmg38,Molly Shannon,/* Original characters */detail
+2022-02-04T00:03:06+00:00,1069765849,1068562415,0,2800:150:110:1324:D089:79CC:95C8:B52F,Richard Pryor,/* Television */
+2022-12-20T05:29:40+00:00,1128449303,1128412652,0,Geraldo Perez,Molly Shannon,Reverted 3 edits by [[Special:Contributions/132.191.3.45|132.191.3.45]] ([[User talk:132.191.3.45|talk]]): See [[WP:FILMOGRAPHY]]
+2021-10-04T00:14:51+00:00,1048049570,1045550262,0,2001:4450:818C:4F00:78F0:2424:87AC:E770,Phil Hartman,/* Murder */ deleted extraneous hyphen
+2022-10-24T15:02:44+00:00,1117977636,1117872158,0,94.192.180.180,Richard Pryor,/* Death */
+2023-03-02T09:59:44+00:00,1142432478,1140328967,0,Citation bot,Sandra Oh,"Alter: title. Add: date, website, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Superegz | [[Category:Articles to be expanded from June 2021‎]] | #UCB_Category 207/708"
+2022-07-01T05:14:01+00:00,1095914583,1095786717,0,72.83.212.41,Sandra Oh,
+2022-08-07T23:44:06+00:00,1102997999,1102997888,0,201.123.58.112,Sandra Oh,/* Television */
+2022-08-24T07:56:12+00:00,1106371230,1106371119,0,136.158.11.230,Sandra Oh,/* Television */
+2021-08-17T03:25:18+00:00,1039168811,1039101167,0,Joeyconnick,Sandra Oh,[[WP:TRIVIA]]
+2022-10-26T22:25:55+00:00,1118416840,1118399113,0,FMSky,Sandra Oh,Reverted 1 edit by [[Special:Contributions/2402:3A80:1F4A:FF4D:0:0:32F4:1D34|2402:3A80:1F4A:FF4D:0:0:32F4:1D34]] ([[User talk:2402:3A80:1F4A:FF4D:0:0:32F4:1D34|talk]]) to last revision by Favonian
+2023-02-25T17:19:41+00:00,1141556160,1141545663,0,Loriendrew,The Good Dinosaur,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2600:1700:AD52:31:3001:7079:DA42:BB8A|2600:1700:AD52:31:3001:7079:DA42:BB8A]] ([[User talk:2600:1700:AD52:31:3001:7079:DA42:BB8A|talk]]): Unsupported by article
+2023-01-21T22:23:41+00:00,1134985995,1134985926,0,Chompy Ace,The Good Dinosaur,
+2023-01-18T03:21:09+00:00,1134322655,1133881158,0,LancedSoul,The Good Dinosaur,
+2022-04-26T17:16:21+00:00,1084798554,1084490963,0,76.185.190.238,Verne Troyer,/* Filmography */ Fixed table formatting
+2021-09-14T01:16:37+00:00,1044187553,1042168238,0,Songwaters,Wilmer Valderrama,/* Film */
+2022-02-05T23:21:34+00:00,1070147209,1069694831,0,Sangdeboeuf,Verne Troyer,/* Television */ Unreliable source – see [[Wikipedia:Reliable sources/Noticeboard/Archive 297#LADbible and Joe.ie]]
+2021-08-12T20:12:08+00:00,1038480322,1038157977,0,Openmy,Verne Troyer,
+2022-01-10T04:18:13+00:00,1064775004,1063611313,0,Malmmf,Wilmer Valderrama,/* Personal life */  rmv name of minor
+2022-03-12T17:44:57+00:00,1076738704,0,0,Geraldo Perez,User talk:YUEUE,General note: Addition of unsourced or improperly cited material on [[:The Good Dinosaur]].
+2021-08-06T13:59:31+00:00,1037428584,1037284241,0,THATSBETTER,Wilmer Valderrama,/* Personal life */
+2022-05-17T18:15:50+00:00,1088384355,1087351881,0,168.229.254.54,Verne Troyer,/* Filmography */
+2021-12-04T07:17:13+00:00,1058552102,1058548622,0,Nick Levine,Wilmer Valderrama,Reverted 2 pending edits by [[Special:Contributions/184.182.40.106|184.182.40.106]] to revision 1057022258 by JDDJS: Broken link
+2021-11-12T07:06:57+00:00,1054813623,1054742340,0,WikiLinuz,Wilmer Valderrama,Reverting edit(s) by [[Special:Contributions/174.86.177.1|174.86.177.1]] ([[User_talk:174.86.177.1|talk]]) to rev. 1054725904 by 2A02:C7F:F760:D900:E01B:67CA:64E0:842E: [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16.1)]]
+2021-12-11T11:34:17+00:00,1059752049,1054419561,0,2001:8003:CC21:6400:4496:1812:498B:7D44,Alan Tudyk,Tudyk voiced Heihei in Moana whose
+2022-07-31T19:09:21+00:00,1101573586,1100667894,0,50.4.167.5,Alan Tudyk,
+2021-06-21T15:22:44+00:00,1029709801,1027537225,0,2601:586:5180:4AD0:75C6:4137:7DF5:E5F8,Alan Tudyk,/* Filmography */
+2022-10-22T02:20:41+00:00,1117503513,1117430632,0,132.251.0.198,Alan Tudyk,
+2023-01-03T01:44:09+00:00,1131204918,1130556938,0,2601:646:9D82:1140:419E:4173:4C56:6FFB,Alan Tudyk,correction because doom patrol is not animated
+2022-05-01T13:23:46+00:00,1085612774,1082802370,0,Walkiped,Alan Tudyk,"/* Career */ adding year, to place this in its point in time"
+2022-08-13T13:39:42+00:00,1104212747,1104212660,0,Iggy the Swan,Alan Tudyk,/* Film */ remove extra (
+2021-10-09T20:10:15+00:00,1049094785,1048190017,0,148.101.50.48,Alan Tudyk,
+2022-02-05T23:53:46+00:00,1070150675,1069572291,0,89.19.67.3,Alan Tudyk,
+2022-04-13T02:44:39+00:00,1082417124,1080364604,0,2601:647:8480:D300:0:0:0:2B49,Alan Tudyk,/* Early life */
+2021-11-09T13:13:27+00:00,1054338720,1053441754,0,Erchpiglet,Alan Tudyk,/* Early life */
+2022-10-07T15:31:05+00:00,1114650110,1113370238,0,68.173.239.221,Alan Tudyk,
+2021-06-08T14:01:54+00:00,1027537225,1026779209,0,AngryCyclist,Alan Tudyk,
+2021-08-27T16:09:17+00:00,1040943398,1040382672,0,Grandpallama,Baby's Day Out,
+2021-12-26T09:56:07+00:00,1062110391,1061941331,0,31.0.38.105,Baby's Day Out,Undid revision 1059546413 by [[Special:Contributions/142.255.94.69|142.255.94.69]] ([[User talk:142.255.94.69|talk]])
+2022-10-01T00:30:36+00:00,1113340377,1112188833,0,GamingDude2000,Baby's Day Out,
+2021-07-02T10:07:26+00:00,1031569270,1031569166,0,Leofrancis355,Baby's Day Out,/* Remakes */
+2022-01-05T18:12:29+00:00,1063938022,1063937922,0,74.67.6.88,Catherine O'Hara,more sources needed
+2023-03-28T13:40:06+00:00,1147038668,1142794101,0,Movieknower59,Catherine O'Hara,/* Films */
+2021-08-10T07:38:48+00:00,1038056603,1038056289,0,CMB70,Catherine O'Hara,/* TV Series */
+2022-05-13T02:01:43+00:00,1087540467,1086475064,0,CMB70,Catherine O'Hara,/* TV series */
+2021-11-04T23:10:29+00:00,1053612651,1044611903,0,148.0.125.96,Bettina Bush,
+2023-04-01T01:44:37+00:00,1147609815,1147545180,0,Teblick,Catherine O'Hara,"/* Early life */ Removed ""March 4"". (Cited source says, ""Ms. O’Hara was born in Toronto in 1954"" but does not give the month and day.)"
+2022-06-21T03:30:15+00:00,1094163226,1092225743,0,GreenC bot,Catherine O'Hara,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-10-29T21:00:09+00:00,1052552594,1052177649,0,Doniago,Corey Feldman,"[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Mallard216|Mallard216]] ([[User talk:Mallard216|talk]]) to last version by Wikidude10000 Please provide a better source, [[WP:DAILYMIRROR]]"
+2021-12-22T02:51:50+00:00,1061503937,1061493675,0,2A02:C7F:5CD6:4D00:92F:BAF3:5555:7A69,Catherine O'Hara,Undid revision 1061493675 by [[Special:Contributions/65.99.111.105|65.99.111.105]] ([[User talk:65.99.111.105|talk]]) - messed up the article
+2022-05-13T04:20:40+00:00,1087553805,1087225829,0,KidsAndTheirGadgets,Dante Basco,/* Television */
+2022-08-27T03:21:53+00:00,1106909340,1106601668,0,FormalDude,Corey Feldman,/* Sexual misconduct allegations against Feldman */ I don't think we need to include an unverified conspiracy allegation
+2022-08-11T16:11:15+00:00,1103934295,1103934082,0,2603:8000:6541:4B00:30D2:6110:C5EC:754D,Dante Basco,
+2021-12-09T22:20:56+00:00,1059513915,1052021117,0,2603:8090:C09:ACAB:8DD5:2401:EEDC:868A,Dante Basco,/* Television */
+2022-08-13T01:51:05+00:00,1104152585,1104152492,0,LizardJr8,Deep Roy,Reverted edits by [[Special:Contributions/2600:4040:A35B:2000:F04C:B467:CF37:7286|2600:4040:A35B:2000:F04C:B467:CF37:7286]] ([[User talk:2600:4040:A35B:2000:F04C:B467:CF37:7286|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-05-27T03:23:51+00:00,1090057703,1090045325,0,Chip3004,Eddie Murphy filmography,Undid revision 1090045325 by [[Special:Contributions/69.112.186.196|69.112.186.196]] ([[User talk:69.112.186.196|talk]]) does not belong here
+2022-01-06T19:45:42+00:00,1064138653,1061129925,0,78.86.133.112,Edie McClurg,/* Film */Added a film
+2021-09-24T19:49:38+00:00,1046269316,1045896222,0,Zucat,Eddie Murphy filmography,/* Music video */
+2022-03-27T08:20:02+00:00,1079531482,1077557768,0,Uby2111,Edie McClurg,
+2022-11-16T23:15:54+00:00,1122312887,1119334879,0,Youknowmyname657,Eddie Murphy filmography,/* Film */
+2023-01-26T22:11:18+00:00,1135793897,1135748641,0,SuperMarioMan,Deep Roy,Reverted 3 edits by [[Special:Contributions/TFG01|TFG01]] ([[User talk:TFG01|talk]]): Not an improvement; IMDb is not an authoritative source for biographies ([[WP:IMDB]])
+2021-08-11T12:18:17+00:00,1038252053,1037645148,0,2600:1700:B9F0:C340:DCF7:3480:BE8E:789B,Corey Feldman,/* Drug/alcohol abuse */
+2022-01-07T18:20:04+00:00,1064310524,1060152744,0,2800:484:3687:EB90:CDFA:ABF7:74F2:8BC1,Deep Roy,Se corrigió la fecha de nacimiento
+2021-08-25T17:22:25+00:00,1040623001,1040530413,0,Mac Dreamstate,Edie McClurg,Reverted edits by [[Special:Contribs/174.192.140.146|174.192.140.146]] ([[User talk:174.192.140.146|talk]]) to last version by Bbb23
+2021-05-30T18:41:53+00:00,1025985815,1025974241,0,CodeTalker,Edie McClurg,Reverted 2 edits by [[Special:Contributions/50.82.11.99|50.82.11.99]] ([[User talk:50.82.11.99|talk]]): Unsourced date changes
+2022-08-04T13:47:43+00:00,1102327046,1099567071,0,Drown Soda,Edie McClurg,Adding additional alma mater to infobox
+2022-09-01T00:24:13+00:00,1107805003,1107771819,0,P37307,Edie McClurg,"/* Career */ personal life section, conservatorship, abuse. cites"
+2021-07-04T05:06:45+00:00,1031871639,1030316424,0,2001:4453:66B:C00:38F2:4599:6949:41F3,Edie McClurg,
+2021-10-11T23:24:42+00:00,1049457730,1049457630,0,Davidgoodheart,Edie McClurg,
+2021-07-06T20:24:58+00:00,1032335260,1027583320,0,Kaltenmeyer,Fred Ward,"clean up, [[WP:AWB/T|typo(s) fixed]]: ’s → 's (2)"
+2022-07-05T00:06:58+00:00,1096517308,1096413309,0,Teblick,Fred Ward,/* Personal life */ Removed content not found in cited source.
+2022-07-04T09:29:55+00:00,1096413309,1096413252,0,174.242.192.89,Fred Ward,/* Personal life */
+2021-09-13T07:14:20+00:00,1044035919,1042677038,0,2600:1700:7FB0:39C0:15A7:1934:9921:BD90,Fred Ward,/* Filmography */
+2022-05-20T18:36:22+00:00,1088899406,1088488118,0,RFD,Fred Ward,/* External links */ category
+2022-04-27T08:26:07+00:00,1084908711,1084762355,0,Kaiflannigan1,Freddie Highmore,
+2022-05-26T10:23:39+00:00,1089919233,1089918647,0,42.200.134.110,Freddie Highmore,
+2023-02-05T16:39:50+00:00,1137620293,1137617864,0,79.70.141.56,Freddie Highmore,"/* 2012–present: Acting, screenwriting, and producing */"
+2021-06-15T14:01:24+00:00,1028698663,1028698557,0,2A02:C7F:DCF8:5800:D51B:D48F:5736:79E1,Freddie Highmore,/* Television */
+2022-02-17T21:35:21+00:00,1072459735,1069121239,0,76.92.199.140,Gedde Watanabe,/* Television */
+2022-09-02T11:39:14+00:00,1108075578,1108075393,0,Crywalt,Gedde Watanabe,/* Career */
+2021-09-04T02:19:04+00:00,1042266319,1041894060,0,2001:569:78BA:4A00:686B:EA3:3D4E:B41,Jane Krakowski,
+2022-06-11T07:32:25+00:00,1092590076,1091908436,0,PoliticsIsExciting,Jane Krakowski,/* Personal life */ removing extra space after period
+2021-06-20T04:27:54+00:00,1029463109,1029462274,0,Kaltenmeyer,Jane Krakowski,fixed ref
+2021-05-01T22:30:01+00:00,1020933520,1019224290,0,2600:6C55:7B00:AA4:24B3:17CD:7DD9:E6EF,Jane Krakowski,/* Film */
+2022-09-24T13:18:46+00:00,1112062061,1109651750,0,58.105.168.137,Jane Krakowski,"added a performance to her filmography - she was in a ""great performances"" episode in 1999"
+2021-11-20T01:48:26+00:00,1056150054,1056000867,0,Greglarocca095,Jane Krakowski,/* Television */
+2023-01-14T00:35:45+00:00,1133477598,1133246745,0,151.192.87.156,Jane Krakowski,
+2021-12-26T19:44:37+00:00,1062170637,1061877792,0,CBDunkerson,Jane Krakowski,/* Personal life */ Court found that being falsely 'accused' of dating a beautiful celebrity is not defamatory / harmful to Lindell's reputation
+2022-06-07T12:28:01+00:00,1091961905,1091961117,0,SNUGGUMS,Jon Lovitz,"""memorable role"" doesn't sound like appropriate tone, and starting three consecutive sentences with ""he"" feels repetitive"
+2023-02-12T11:58:19+00:00,1138925929,1138925859,0,Materialscientist,Jon Lovitz,Reverted edits by [[Special:Contributions/Jimmybib|Jimmybib]] ([[User talk:Jimmybib|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2021-06-23T19:13:42+00:00,1030081078,1029218721,0,67.6.241.250,Jon Lovitz,/* Personal life */Fixed two misspellings
+2021-12-20T06:49:24+00:00,1061197071,1055916081,0,JJMC89 bot III,Kim Chan,Moving [[:Category:Pre-1949 Republic of China emigrants to the United States]] to [[:Category:Republic of China (1912–1949) emigrants to the United States]] per [[Wikipedia:Categories for discussion/Speedy]]
+2021-07-16T13:27:37+00:00,1033889134,1033444876,0,81.100.233.95,Jon Lovitz,/* Feud with Andy Dick */Headcount
+2022-01-19T23:18:07+00:00,1066749477,1065523757,0,2804:431:D7FF:7309:6488:4EB3:7F0:41,Jon Lovitz,/* Film */
+2021-07-05T22:54:52+00:00,1032178511,1032083601,0,2600:1008:B01E:DCC5:3534:281F:2349:32E,Jon Lovitz,/* Other work */Added more information
+2021-09-10T17:12:26+00:00,1043547603,1027449992,0,Juanpumpchump,Marshall Bell,/* Career */ It was a Swartzenegger vehicle. Stone was pre Basis Instinct success and Ticotin was not star billing.
+2021-06-19T06:57:14+00:00,1029316185,1028630272,0,Marcocapelle,Michael Paul Chan,/* External links */removed parent categories of [[Category:American male actors of Chinese descent]]
+2021-06-14T23:53:54+00:00,1028606315,1028578874,0,SamStrongTalks,Miguel Sandoval,Rollback edit(s) by [[Special:Contributions/172.117.166.207|172.117.166.207]] ([[User_talk:172.117.166.207|talk]]): [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16.1)]]
+2023-03-26T05:11:00+00:00,1146652614,1146652584,0,Rat2,Michael Paul Chan,/* Filmography */
+2022-07-13T16:53:14+00:00,1097983191,1097979866,0,Bdchoffman,Molly Shannon,/* Career */ Added a reference to Molly Shannon co-starring in I Love That For You.
+2023-03-20T08:40:19+00:00,1145661540,1145661499,0,Spinixster,Molly Shannon,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.3
+2022-04-13T23:40:14+00:00,1082578302,1082371069,0,Mapsax,Molly Shannon,/* Career */ ISBN for memoir + title adjust; excessive cite template
+2022-06-12T16:52:51+00:00,1092794028,1091602845,0,2A00:23C7:AF00:6101:D0D1:6767:10E6:D51B,Molly Shannon,/* Film */
+2022-03-15T03:10:06+00:00,1077212920,1076981068,0,2001:8003:DD7D:7B01:CD03:C40F:C4CC:3658,Molly Shannon,/* Film */
+2021-08-04T07:33:16+00:00,1037054705,1030149464,0,Trentreese,Molly Shannon,/* Television */
+2022-03-30T12:20:21+00:00,1080122743,1079301010,0,2600:387:C:2C16:0:0:0:C,Molly Shannon,
+2022-09-22T08:15:42+00:00,1111673842,1110012759,0,Graham87,Molly Shannon,Reverted edits by [[Special:Contribs/2001:8003:ED1B:4600:8112:3A24:FAFE:2582|2001:8003:ED1B:4600:8112:3A24:FAFE:2582]] ([[User talk:2001:8003:ED1B:4600:8112:3A24:FAFE:2582|talk]]) to last version by Jmg38
+2023-01-23T00:00:45+00:00,1135156155,1134208967,0,BattyBot,Molly Shannon,"Removed/fixed incorrect author parameter(s), performed [[WP:AWB/GF|general fixes]]"
+2022-05-11T01:42:31+00:00,1087206363,1086852180,0,2600:1700:4E34:2080:851D:49DA:F9AD:6C37,Phil Hartman,/* The Simpsons (1991–1998) */
+2022-02-21T03:04:36+00:00,1073114507,1073057559,0,68.174.44.11,Phil Hartman,tense correction
+2022-12-28T02:57:15+00:00,1129989026,1129948431,0,Wetdogmeat,Phil Hartman,/* Death */ Redundant
+2023-02-16T04:01:03+00:00,1139640500,1137665400,0,Oxalis51,Richard Pryor,/* Sexuality */ Punctuation.
+2021-09-17T04:56:05+00:00,1044802183,1044012577,0,Treybien2,Richard Pryor,/* External links */
+2022-01-30T08:55:17+00:00,1068810679,1068741059,0,75.172.29.148,Phil Hartman,/* Personal life */
+2022-09-29T11:38:18+00:00,1113037200,1113009706,0,Paul Erik,Sandra Oh,Undid revision 1113009706 by [[Special:Contributions/106.200.249.66|106.200.249.66]] ([[User talk:106.200.249.66|talk]]) not an improvement
+2022-04-18T16:39:52+00:00,1083402127,1082960030,0,2601:589:4101:E5C:6D94:A1D4:195B:56DD,Sandra Oh,
+2022-05-13T16:00:55+00:00,1087627073,1087626623,0,2A02:8084:8020:2280:E016:D628:8930:2951,Sandra Oh,/* 2014–present: Film roles and Killing Eve */
+2022-04-05T10:26:37+00:00,1081106608,1079810411,0,Stephan1000000,Sandra Oh,killing exe
+2022-07-12T13:39:14+00:00,1097750234,1097257361,0,JJMC89 bot III,Sandra Oh,Removing [[:Category:Time 100]] per [[Wikipedia:Categories for discussion/Log/2022 June 3#Category:Time 100]]
+2022-10-11T01:54:13+00:00,1115356613,1113943640,0,InternetArchiveBot,Richard Pryor,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.9.2) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 10860
+2022-11-13T02:45:43+00:00,1121589241,1121589085,0,Paul Erik,Sandra Oh,+ protection template
+2022-11-08T19:36:34+00:00,1120777958,1120777738,0,S0091,Sandra Oh,/* Activism */ Change to subheading
+2022-11-27T00:28:10+00:00,1124031029,1124030237,0,Liz,Sandra Oh,"Changed protection settings for ""[[Sandra Oh]]"": Persistent [[WP:Vandalism|vandalism]] ([Edit=Require extended confirmed access] (expires 02:44, 13 December 2022 (UTC)) [Move=Require extended confirmed access] (expires 02:44, 13 December 2022 (UTC)))"
+2022-07-14T19:41:34+00:00,1098214119,1098091844,0,Animation231,The Good Dinosaur,
+2021-11-05T07:52:14+00:00,1053663074,1052373953,0,198.90.127.97,The Good Dinosaur,
+2022-10-02T03:29:14+00:00,1113562998,1113557136,0,MarnetteD,The Good Dinosaur,rvt unexplained changes
+2022-11-13T15:43:11+00:00,1121681555,1121681041,0,General Ization,Verne Troyer,Restored revision 1111828107 by [[Special:Contributions/FMSky|FMSky]] ([[User talk:FMSky|talk]]): RVV
+2022-08-23T09:52:30+00:00,1106137067,1105914947,0,Tippitytap,Verne Troyer,Undid revision 1105914947 by [[Special:Contributions/Jojhutton|Jojhutton]] ([[User talk:Jojhutton|talk]])
+2022-01-30T16:37:15+00:00,1068882317,1068757285,0,Gato Onyx,Wilmer Valderrama,Added a music video he was a guest artist on.
+2022-07-19T14:32:36+00:00,1099204053,1099197697,0,Jojhutton,Verne Troyer,Restored revision 1096515348 by [[Special:Contributions/2600:1700:2E11:CB30:5C91:10A6:7823:B3CD|2600:1700:2E11:CB30:5C91:10A6:7823:B3CD]] ([[User talk:2600:1700:2E11:CB30:5C91:10A6:7823:B3CD|talk]]): Clean version
+2021-08-26T23:48:14+00:00,1040835927,1040332338,0,68.117.66.53,Wilmer Valderrama,/* Television */
+2023-02-11T14:02:41+00:00,1138769399,1138471514,0,148.102.115.138,Wilmer Valderrama,/* Television */
+2022-04-18T20:29:48+00:00,1083438263,1082925734,0,35.141.74.186,Wilmer Valderrama,/* Early life */
+2022-09-02T02:08:41+00:00,1108005626,1108000368,0,Manticore,Wilmer Valderrama,Reverted 1 pending edit by [[Special:Contributions/50.67.214.10|50.67.214.10]] to revision 1107911012 by Malmmf: rvv
+2021-07-12T00:03:39+00:00,1033157880,1032627373,0,Fsm83,Wilmer Valderrama,
+2022-04-22T05:21:13+00:00,1084031171,1084031037,0,2001:8003:3A38:1600:75F9:863C:6598:6664,Wilmer Valderrama,/* Television and film career */

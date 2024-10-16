@@ -1,0 +1,24 @@
+timestamp,revid,parentid,sock,user,page,message
+2018-02-19T16:17:50+00:00,826519514,826503128,1,Эмиль_Золя,Cryptocurrency,
+2018-02-19T16:14:44+00:00,826519082,826282768,1,Эмиль_Золя,Bitcoin Cash,
+2018-02-19T16:28:44+00:00,826520933,826075436,1,Василий_Маркин,Litecoin,
+2018-02-19T16:23:36+00:00,826520260,826255417,1,Елена_Солнцевая,Ripple (payment protocol),
+2018-02-19T16:20:51+00:00,826519898,826491712,1,Елена_Солнцевая,Ethereum,
+2018-02-19T16:32:20+00:00,826521441,825495978,1,Софи_Яковлева,Stellar (payment network),Removed external links
+2018-02-19T16:14:44+00:00,826519082,826282768,0,Эмиль Золя,Bitcoin Cash,
+2018-02-19T16:28:48+00:00,826520939,826520933,0,ClueBot NG,Litecoin,"Reverting possible vandalism by [[Special:Contribs/Василий Маркин|Василий Маркин]] to version by Oshwah. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3290317) (Bot)"
+2018-02-19T16:21:28+00:00,826519984,826519514,0,MrX,Cryptocurrency,Reverted edits by [[Special:Contribs/Эмиль Золя|Эмиль Золя]] ([[User talk:Эмиль Золя|talk]]) to last version by FloKd
+2018-02-19T16:24:20+00:00,826520347,826519898,0,NottNott,Ethereum,Reverted edits by [[Special:Contributions/Елена_Солнцевая|Елена_Солнцевая]] ([[User talk:Елена_Солнцевая|talk]]) ([[WP:HG|HG]]) (3.3.3)
+2018-02-17T01:47:43+00:00,826075436,826075390,0,Oshwah,Litecoin,Reverted edits by [[Special:Contributions/2600:1017:B129:5AF8:6965:3DE3:587A:B2BF|2600:1017:B129:5AF8:6965:3DE3:587A:B2BF]] ([[User talk:2600:1017:B129:5AF8:6965:3DE3:587A:B2BF|talk]]): addition of [[WP:CITE|unsourced content]] ([[WP:HG|HG]]) (3.3.3)
+2018-02-19T16:17:50+00:00,826519514,826503128,0,Эмиль Золя,Cryptocurrency,
+2018-02-19T16:16:43+00:00,826519355,826519082,0,Nick Moyes,Bitcoin Cash,"Reverted 1 edit by [[Special:Contributions/Эмиль Золя|Эмиль Золя]] ([[User talk:Эмиль Золя|talk]]): Deleted link - it  seems inappropriate, possibly gaining benefit from user clicks. ([[WP:TW|TW]])"
+2018-02-18T03:20:37+00:00,826255417,826253962,0,Zenithseeker,Ripple (payment protocol),Update current rippled version
+2018-02-13T18:46:20+00:00,825495978,822335652,0,Rhododendrites,Stellar (payment network),spam
+2018-02-19T16:24:09+00:00,826520323,826520260,0,NottNott,Ripple (payment protocol),Reverted edits by [[Special:Contributions/Елена_Солнцевая|Елена_Солнцевая]] ([[User talk:Елена_Солнцевая|talk]]) ([[WP:HG|HG]]) (3.3.3)
+2018-02-16T11:43:05+00:00,825961209,825780183,0,Renamed user 98e45ntvei,Bitcoin Cash,/* Idea forms */ please read the BIP
+2018-02-15T07:31:15+00:00,825763215,825748792,0,Cvn74oliver,Cryptocurrency,Dead link updated with new relevant link
+2018-02-12T23:00:04+00:00,825357214,825356886,0,MarkZusab,Litecoin,added access date for a source
+2018-02-18T07:18:36+00:00,826282768,826279960,0,Jtbobwaysf,Bitcoin Cash,/* History */ voting term is [[WP:OR]] use signaling if you want to use jargon instead
+2018-02-15T10:55:24+00:00,825780183,825779568,0,Wvdp,Bitcoin Cash,Undid revision 825779568 by [[Special:Contributions/145.52.153.130|145.52.153.130]] ([[User talk:145.52.153.130|talk]])
+2018-02-14T22:46:26+00:00,825706335,825474688,0,Adi.mit,Ripple (payment protocol),/* Consensus ledger */
+2018-02-13T16:33:20+00:00,825474688,825353316,0,Bonadea,Ripple (payment protocol),Reverted 1 edit by [[Special:Contributions/122.162.46.129|122.162.46.129]] ([[User talk:122.162.46.129|talk]]) to last revision by Nurg. ([[WP:TW|TW]])

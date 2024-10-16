@@ -1,0 +1,54 @@
+timestamp,revid,parentid,sock,user,page,message
+2015-04-06T09:02:07+00:00,655160978,654562453,1,Bamsi2929,Saka,
+2015-04-06T09:00:36+00:00,655160860,654819660,1,Bamsi2929,Wusun,
+2015-04-06T08:45:53+00:00,655159702,655159640,1,Bamsi2929,Xiongnu,
+2015-04-06T08:45:06+00:00,655159640,655110743,1,Bamsi2929,Xiongnu,
+2015-04-03T19:40:39+00:00,654819192,648941153,1,Bamsi2929,Wusun,
+2015-03-28T13:50:56+00:00,653889857,651909266,1,Bamsi2929,Hephthalites,
+2015-03-28T13:04:47+00:00,653885870,653885784,1,Bamsi2929,Tungusic peoples,
+2015-03-28T13:03:48+00:00,653885784,653885738,1,Bamsi2929,Tungusic peoples,
+2015-03-28T13:03:12+00:00,653885738,650843330,1,Bamsi2929,Tungusic peoples,
+2015-03-22T16:42:22+00:00,653031778,653031231,1,Bamsi2929,Xiongnu,
+2015-03-22T16:38:14+00:00,653031231,652684206,1,Bamsi2929,Xiongnu,
+2015-05-08T13:20:55+00:00,661407523,661407442,1,TürükOfsteppes,Ergenekon,
+2015-05-08T13:20:19+00:00,661407442,652979671,1,TürükOfsteppes,Ergenekon,
+2015-05-01T11:42:38+00:00,660230085,660029290,1,TürükOfsteppes,Xiongnu,
+2015-04-19T21:52:51+00:00,657241218,656512113,1,Ulu_hun_ogur_oghuz,Huns,
+2015-04-18T09:19:14+00:00,657014705,657014397,1,Ulu_hun_ogur_oghuz,Xiongnu,/* Xiongnu hierarchy */
+2015-04-18T09:14:42+00:00,657014397,657014028,1,Ulu_hun_ogur_oghuz,Xiongnu,
+2015-04-18T09:09:21+00:00,657014028,657013955,1,Ulu_hun_ogur_oghuz,Xiongnu,
+2015-04-18T09:08:23+00:00,657013955,655238243,1,Ulu_hun_ogur_oghuz,Xiongnu,
+2015-04-18T09:05:04+00:00,657013687,652468382,1,Ulu_hun_ogur_oghuz,Rouran Khaganate,/* Origin and expansion */
+2015-03-22T06:21:25+00:00,652979671,649247155,0,5.32.14.30,Ergenekon,/* Turkic version */
+2015-04-05T23:44:25+00:00,655110048,653922491,0,Krakkos,Hephthalites,Various fixes
+2015-04-18T13:33:59+00:00,657035528,657013687,0,Edward321,Rouran Khaganate,rv unsourced
+2015-02-26T14:30:06+00:00,648941153,648940524,0,Aldrasto11,Wusun,/* History */
+2015-04-16T19:18:54+00:00,656795307,654208860,0,165.124.145.251,Tungusic peoples,
+2015-03-20T01:43:45+00:00,652468382,651751374,0,104.35.41.35,Rouran Khaganate,Turkic Khaganate
+2015-04-21T14:38:21+00:00,657562280,657554671,0,Renamed user ExPsittacine,Hephthalites,Reverted 1 edit by [[Special:Contributions/218.212.238.52|218.212.238.52]] ([[User talk:218.212.238.52|talk]]): Why is it an invalid source? ([[WP:TW|TW]])
+2015-03-13T18:00:22+00:00,651221039,651221024,0,ClueBot NG,Saka,"Reverting possible vandalism by [[Special:Contributions/198.109.8.25|198.109.8.25]] to version by Krakkos. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (2159932) (Bot)"
+2015-04-11T10:12:14+00:00,655952684,655952662,0,Marcocapelle,Huns,correction on the previous
+2015-03-11T01:35:28+00:00,650843330,647454900,0,Evecurid,Tungusic peoples,
+2015-04-06T12:23:40+00:00,655178851,655160860,0,Mann Mann,Wusun,Reverted 1 edit by [[Special:Contributions/Bamsi2929|Bamsi2929]] ([[User talk:Bamsi2929|talk]]): Source falsification/disruptive changes. ([[WP:TW|TW]])
+2015-04-22T02:03:25+00:00,658029290,658028905,0,North Shoreman,Huns,Reverted edits by [[Special:Contribs/173.230.190.53|173.230.190.53]] ([[User talk:173.230.190.53|talk]]) to last version by North Shoreman
+2015-03-30T17:14:17+00:00,654208860,653916359,0,217.140.96.140,Tungusic peoples,/* Location */ link fix
+2015-04-06T12:24:47+00:00,655178951,655160978,0,Mann Mann,Saka,Reverted 1 edit by [[Special:Contributions/Bamsi2929|Bamsi2929]] ([[User talk:Bamsi2929|talk]]): Unsourced and disruptive. ([[WP:TW|TW]])
+2015-05-01T11:59:04+00:00,660232040,660230085,0,Materialscientist,Xiongnu,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/TürükOfsteppes|TürükOfsteppes]] using [[WP:STiki|STiki]]
+2015-04-06T20:19:35+00:00,655238243,655178685,0,2602:306:CC62:87B0:D3E:B65F:8E2D:6D2E,Xiongnu,/* Xiongnu tribes */
+2015-04-24T23:29:57+00:00,659063064,657035426,0,Wavelength,Xiongnu,"removing ""old"": —> ""at the age of 70 years""—""of"" ([[preposition]]) followed by ""70 years"" ([[noun phrase]])—""70 years old"" being an [[adjective phrase]]"
+2015-04-18T13:32:47+00:00,657035426,657014705,0,Edward321,Xiongnu,rv info added in a way to make it appear existing source supports it
+2015-03-24T17:04:12+00:00,653330210,653209184,0,81.214.41.224,Xiongnu,
+2015-03-29T02:03:37+00:00,653977765,653330210,0,2604:2000:E960:C900:E061:B291:5223:967C,Xiongnu,
+2015-03-23T05:17:40+00:00,653114974,653036973,0,182.250.240.94,Xiongnu,Gram
+2015-04-15T13:58:16+00:00,656608388,655110048,0,197.213.59.26,Hephthalites,
+2015-03-29T20:43:10+00:00,654082508,653454043,0,Redrose64,Huns,"/* top */ prot expired 01:02, 4 March 2015"
+2015-03-23T20:45:33+00:00,653209673,653185419,0,Richard Keatinge,Huns,removed over-interpreted work presented as a one-page conference report
+2015-03-18T10:32:51+00:00,651909266,650482071,0,84.241.200.234,Hephthalites,unsourced statement removed and correct template added.
+2015-04-14T22:01:27+00:00,656512113,656508878,0,AnomieBOT,Huns,Dating maintenance tags: {{Fact}}
+2015-04-29T20:27:21+00:00,659934863,658374291,0,Egsan Bacon,Huns,Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2015-02-23T07:32:36+00:00,648443961,646338713,0,Khorichar,Rouran Khaganate,
+2015-02-05T13:38:47+00:00,645749112,645106654,0,Khorichar,Hephthalites,/* History */
+2015-02-16T21:41:18+00:00,647454900,647182553,0,Thomasettaei,Tungusic peoples,"Take this section off.  Can't add these without basis or if it is based on speculation, [[Wikipedia:NOR]].  And this article isn't a list."
+2015-04-30T03:28:08+00:00,659991201,659431407,0,BD2412,Xiongnu,"minor fixes, mostly [[Wikipedia:Disambiguation pages with links|disambig links]] using [[Project:AWB|AWB]]"
+2015-03-03T18:51:14+00:00,649723680,649723140,0,Daduxing,Xiongnu,/* See also */ wikilinks
+2015-02-21T20:58:40+00:00,648233767,648123733,0,Bjelleklang,Xiongnu,Reverted to revision 647608947 by [[Special:Contributions/Richard Keatinge|Richard Keatinge]]: Restoring revision per talkpage request. Previous revision used a couple of wordpress sources; this one makes more sense to me. ([[WP:TW|TW]])

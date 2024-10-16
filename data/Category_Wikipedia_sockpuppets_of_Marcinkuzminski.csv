@@ -1,0 +1,89 @@
+timestamp,revid,parentid,sock,user,page,message
+2017-12-08T23:33:29+00:00,814461875,800071965,1,Marcinkuzminski,RhodeCode,
+2017-09-17T08:10:58+00:00,801035661,800275267,1,Marcinkuzminski,Mantis Bug Tracker,/* Revision control system integration */
+2015-07-27T09:05:29+00:00,673277765,673277154,1,Marcinkuzminski,RhodeCode,Updated some small info
+2015-07-27T08:57:07+00:00,673277154,655516767,1,Marcinkuzminski,RhodeCode,Person no longer involved in the company
+2015-07-27T08:55:49+00:00,673277065,673276991,1,Marcinkuzminski,List of tools for code review,
+2015-07-27T08:54:57+00:00,673276991,671626185,1,Marcinkuzminski,List of tools for code review,
+2015-02-09T23:55:03+00:00,646422177,646418530,1,Marcinkuzminski,User talk:Marcinkuzminski,blanked my page
+2015-02-09T23:48:18+00:00,646421504,646418529,1,Marcinkuzminski,Wikipedia:Articles for deletion/RhodeCode Enterprise (software),
+2015-02-09T23:02:58+00:00,646416401,646405847,1,Marcinkuzminski,List of tools for code review,linkify to RhodeCode Enterprise (software) that RhodeCode company released.
+2015-02-09T21:36:18+00:00,646405847,646374723,1,Marcinkuzminski,List of tools for code review,"Undid revision 646374723 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]]), Other code-review tools listed in that page uses Proprietary licenseing, If a fork of RhodeCode is listed here, removing RhodeCode is unfair."
+2015-02-09T21:31:49+00:00,646405286,646404949,1,Marcinkuzminski,RhodeCode,Free version includes 10 free users.
+2015-02-09T21:29:15+00:00,646404949,642732045,1,Marcinkuzminski,RhodeCode,As a creator of RhodeCode i exactly know why i created the software. Reverting previous change that someone removed.
+2015-02-08T17:38:10+00:00,646212488,646089656,1,Marcinkuzminski,List of tools for code review,
+2014-11-02T12:53:32+00:00,632132730,631926796,1,Marcinkuzminski,RhodeCode,Lukasz Balcerzak wasn't the author of RhodeCode but one of the libraries used in RhodeCode
+2013-07-21T22:55:26+00:00,565250054,565244254,1,Marcinkuzminski,List of tools for code review,/* Open Source */
+2013-07-21T22:03:19+00:00,565244254,564848850,1,Marcinkuzminski,List of tools for code review,/* Open Source */
+2013-07-17T16:20:40+00:00,564671253,563983757,1,Marcinkuzminski,Comparison of version-control software,/* User interfaces */
+2013-07-17T16:17:03+00:00,564670898,564430570,1,Marcinkuzminski,Mercurial,/* Source code hosting */
+2013-07-17T16:16:00+00:00,564670781,564488851,1,Marcinkuzminski,Git,/* Adoption */
+2013-07-17T16:12:33+00:00,564670391,564272200,1,Marcinkuzminski,List of tools for code review,/* Comparison */
+2012-12-02T01:28:06+00:00,525952197,525951703,1,Marcinkuzminski,List of tools for code review,/* Comparison */
+2012-12-02T01:23:39+00:00,525951703,524703915,1,Marcinkuzminski,List of tools for code review,/* Open Source */
+2017-06-19T12:48:05+00:00,786431796,785988711,0,FleetCommand,List of tools for code review,Reverted 1 edit by [[Special:Contributions/2601:196:4901:5BF7:90D3:6E1:EE6B:5F4C|2601:196:4901:5BF7:90D3:6E1:EE6B:5F4C]] ([[User talk:2601:196:4901:5BF7:90D3:6E1:EE6B:5F4C|talk]]): Reverted bogus entry. Possibly a joke. ([[WP:TW|TW]])
+2015-11-09T07:50:29+00:00,689766985,686656760,0,Theaspect,List of tools for code review,
+2015-07-20T13:55:02+00:00,672275387,671472327,0,194.151.43.175,Comparison of version-control software,"/* Advanced features */  added line for Visual Source Safe, will add as I know more features"
+2013-03-08T22:17:16+00:00,542912555,540721866,0,64.125.71.142,List of tools for code review,/* Open Source */
+2013-04-22T04:49:24+00:00,551577640,550983964,0,WIzard999,List of tools for code review,/* Comparison */ font-size: 80% -> 100%
+2013-11-05T23:15:14+00:00,580375717,579793291,0,Antanst,Git,"Removed false statement. Git, as all DVCS projects, gets substancially slower as the project grows. See here http://thread.gmane.org/gmane.comp.version-control.git/189776"
+2014-01-21T03:11:30+00:00,591661066,591660888,0,Jchyip,List of tools for code review,/* Comparison */ Link to Guido's page
+2015-05-19T13:17:16+00:00,663079478,662433522,0,MrOllie,List of tools for code review,Reverted to revision 653760679 by [[Special:Contributions/Karensage|Karensage]] ([[User talk:Karensage|talk]]): Clean list. ([[WP:TW|TW]])
+2013-07-23T18:50:52+00:00,565513895,565264521,0,70.39.231.191,Comparison of version-control software,/* Advanced commands */
+2014-12-01T12:44:50+00:00,636163349,636150620,0,MrOllie,List of tools for code review,Reverted to revision 634728485 by [[Special:Contributions/MrOllie|MrOllie]] ([[User talk:MrOllie|talk]]): Rm unlinked entry. ([[WP:TW|TW]])
+2015-08-18T11:39:06+00:00,676663099,676634145,0,Kuru,List of tools for code review,rmv addition with no article
+2016-01-28T11:22:13+00:00,702093459,700172365,0,Unnamed666,List of tools for code review,Added JetBrains Upsource
+2016-01-16T21:31:47+00:00,700172365,699585167,0,75.136.67.40,List of tools for code review,clean list
+2015-04-20T22:43:43+00:00,657394474,653760679,0,Ntouran,List of tools for code review,added phabricator
+2014-11-20T19:26:29+00:00,634728485,634373466,0,MrOllie,List of tools for code review,Reverted to revision 632431696 by [[Special:Contributions/192.55.55.41|192.55.55.41]] ([[User talk:192.55.55.41|talk]]). ([[WP:TW|TW]])
+2016-02-16T03:55:15+00:00,705209103,704072553,0,Emphrase,Git,
+2013-11-21T12:32:10+00:00,582663208,582646230,0,MrOllie,List of tools for code review,Reverted 1 edit by [[Special:Contributions/Peter Laskin|Peter Laskin]] ([[User talk:Peter Laskin|talk]]): Rv devart spam / entries per [[WP:WTAF]] and edit notice. ([[WP:TW|TW]])
+2015-07-15T23:16:13+00:00,671626185,670336810,0,74.202.43.210,List of tools for code review,Added phabricator
+2013-11-17T16:26:36+00:00,582066652,581397773,0,ChrisGualtieri,Mantis Bug Tracker,Checkwiki 61 + General fixes using [[Project:AWB|AWB]]
+2014-04-28T09:59:07+00:00,606157304,606157264,0,MrOllie,List of tools for code review,
+2015-06-08T17:32:23+00:00,666064376,666045303,0,MrOllie,List of tools for code review,Reverted 1 edit by [[Special:Contributions/W32blaster|W32blaster]] ([[User talk:W32blaster|talk]]). ([[WP:TW|TW]])
+2014-07-30T13:54:09+00:00,619136850,619113093,0,Walter Görlitz,Mantis Bug Tracker,Reverted 1 edit by [[Special:Contributions/Belamp|Belamp]] ([[User talk:Belamp|talk]]): Link hijacking. ([[WP:TW|TW]])
+2016-02-02T17:01:15+00:00,702957082,702956848,0,2001:470:6F:49F:6E88:14FF:FE7D:4948,RhodeCode,
+2016-11-11T11:30:30+00:00,748952834,748823539,0,Marcjohne,Mercurial,/* Open source projects using Mercurial */ Added LiquidFeedback
+2014-03-05T21:59:34+00:00,598315404,597872856,0,23.30.45.145,Mercurial,/* Source code hosting */ remove redlink
+2016-08-17T10:25:21+00:00,734892462,734892416,0,Sfinucan,List of tools for code review,
+2016-09-13T15:54:58+00:00,739244488,737490074,0,217.110.80.4,RhodeCode,updated infoboxes with the most recent release dates
+2015-03-27T15:03:13+00:00,653759556,653758448,0,Intgr,RhodeCode,"Remove what sounds like [[WP:OR|original research]]; copyedit: punctation goes before ref tags and there should be no space between, see [[WP:CITE]]"
+2015-12-15T00:12:27+00:00,695280146,684230381,0,XYZ2023,RhodeCode,fixed syntax
+2016-07-24T23:50:46+00:00,731377527,731377362,0,Alex.pronin,RhodeCode,Remove issues template since most of the content has been updated
+2014-12-26T11:59:45+00:00,639682426,638300162,0,Intgr,RhodeCode,+[[Category:Formerly free software]]
+2016-10-19T14:54:37+00:00,745149779,739244488,0,Alex.pronin,RhodeCode,expanded Category section
+2015-07-27T09:32:59+00:00,673280174,673280140,0,Intgr,User talk:Marcinkuzminski,/* Conflict of interest notice */ Remove double header
+2015-02-16T03:30:58+00:00,647342336,646792724,0,MelanieN,Wikipedia:Articles for deletion/RhodeCode Enterprise (software),"/* RhodeCode Enterprise (software) */ closing discussion, result was delete"
+2016-05-22T19:51:42+00:00,721577109,721576809,0,Saeed.gnu,Git,/* See also */
+2014-04-15T10:09:35+00:00,604280836,603951861,0,5.134.217.102,Git,Interwiki
+2017-09-22T11:21:50+00:00,801863040,801426377,0,91.103.66.203,Comparison of version-control software,Neither Perforce nor TFS\VSTS support signing revisions.
+2015-03-24T23:43:21+00:00,653384021,652716298,0,Wikiinger,Git,/* See also */
+2016-10-12T07:56:12+00:00,743964015,740604061,0,217.128.254.27,List of tools for code review,
+2017-06-27T13:59:04+00:00,787779836,787700487,0,Zundark,Git,"/* Characteristics */ nobody calls it ""central processing unit intensive work"""
+2013-06-14T12:49:31+00:00,559870051,559463470,0,109.107.37.39,List of tools for code review,/* Open Source */
+2014-07-03T14:33:14+00:00,615437816,613441253,0,96.45.202.246,List of tools for code review,
+2017-08-30T07:31:44+00:00,797973740,797047125,0,188.130.155.154,List of tools for code review,
+2014-05-18T14:00:05+00:00,609095379,607979304,0,Rahaeli,Comparison of version-control software,Removing external links entirely and moving the still active ones to talk page to see if any need to be converted to references.
+2016-01-09T09:17:09+00:00,698958679,697451586,0,18.111.18.219,Comparison of version-control software,Fixed links to Microsoft Visual SourceSafe
+2015-09-29T17:04:50+00:00,683332891,682687391,0,177.54.218.10,List of tools for code review,
+2016-03-13T10:50:42+00:00,709835558,709832302,0,Tedickey,Comparison of version-control software,Undid revision 709832302 by [[Special:Contributions/95.46.140.8|95.46.140.8]] ([[User talk:95.46.140.8|talk]])
+2016-06-10T09:19:40+00:00,724605079,724002722,0,M Raghu Reddy,List of tools for code review,I just changed the first line
+2016-09-08T03:53:35+00:00,738305318,738265384,0,Yobot,List of tools for code review,/* top */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]]
+2014-07-20T22:54:06+00:00,617766625,617344302,0,Kfogel,List of tools for code review,"In the ""Crucible"" entry, describe the license as ""Proprietary"" not ""Commercial"" (all the licenses listed on this page are commercial, including the open source ones; being proprietary is what distinguishes Crucible's license from the others)."
+2013-09-16T08:07:59+00:00,573125480,572675475,0,83.163.177.81,List of tools for code review,/* Comparison */
+2015-03-27T15:12:37+00:00,653760679,653358152,0,Karensage,List of tools for code review,Corrected VCS list for RhodeCode was missing SubVersion
+2015-02-02T12:39:21+00:00,645298434,645297067,0,Antonenk,List of tools for code review,
+2012-10-31T07:27:55+00:00,520713693,520713688,0,ClueBot NG,Mantis Bug Tracker,"Reverting possible vandalism by [[Special:Contributions/49.248.2.194|49.248.2.194]] to version by Walter Görlitz. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1305825) (Bot)"
+2013-03-27T20:05:07+00:00,547322709,540588907,0,Nemo bis,Mantis Bug Tracker,/* Minor features */ +Localised dozens of languages on [[translatewiki.net]].
+2013-10-21T22:22:24+00:00,578177453,576635636,0,David Gerard,Mercurial,/* History */
+2015-12-24T11:54:06+00:00,696621933,694508041,0,S.jodogne,Mercurial,Add Orthanc to open source projects using Mercurial
+2017-07-07T08:22:01+00:00,789429777,789137420,0,Tea2min,Mercurial,/* top */ Mention [[TortoiseHg]] and IDE support for Hg.
+2014-08-12T12:03:29+00:00,620905936,620636433,0,Cnwilliams,RhodeCode,Disambiguated: [[firewall]] → [[firewall (computing)]]
+2015-10-05T11:25:47+00:00,684230381,684213492,0,Andrej Shadura,RhodeCode,Disambiguated: [[Git]] → [[Git (software)]]
+2016-03-30T13:57:54+00:00,712674799,709153612,0,Pthewizard,Mantis Bug Tracker,/* History */ I have changed unsupported databases for MantisBT.
+2017-09-11T10:40:28+00:00,800071965,778465272,0,Codename Lisa,RhodeCode,Infobox cleanup. Removed erroneous parameters from the infobox. For a list of supported parameters please consult [[Template:Infobox software/doc]]. Please preview articles to see parameters errors.
+2014-11-04T16:03:46+00:00,632431850,632132730,0,192.55.54.42,RhodeCode,/* References */
+2013-12-10T13:26:36+00:00,585429912,585428910,0,188.162.64.115,Mercurial,/* Projects using Mercurial */
+2014-06-25T17:14:31+00:00,614389528,614389329,0,Brainy J,RhodeCode,
+2013-07-23T00:57:22+00:00,565407364,565305336,0,King of Hearts,User talk:Marcinkuzminski,Adding sockpuppetry block notice per [[Wikipedia:Sockpuppet investigations/Marcinkuzminski]]

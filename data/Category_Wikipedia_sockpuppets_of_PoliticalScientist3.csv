@@ -1,0 +1,571 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-05-07T21:49:07+00:00,1022007500,1016854219,1,PoliticalScientist3,Mark Amodei,/* Tenure */ Added ideological rating sourced via votesmart
+2021-05-07T21:28:16+00:00,1022005100,1016854596,1,PoliticalScientist3,Dina Titus,"/* Political positions */ Added ideological ratings, sourced by nonpartisan website votesmart."
+2021-05-07T21:24:13+00:00,1022004599,1017879046,1,PoliticalScientist3,Adrian Smith (politician),/* Tenure */ Added ideological rating sourced via votesmart
+2021-05-07T21:20:10+00:00,1022004111,1021976922,1,PoliticalScientist3,Don Bacon,/* Tenure */ Added ideological rating sourced via votesmart
+2021-05-07T21:15:26+00:00,1022003508,1020443255,1,PoliticalScientist3,Jeff Fortenberry,"/* Tenure */ Added ideological ratings, sourced by nonpartisan website votesmart."
+2021-05-07T20:20:03+00:00,1021995933,1020443165,1,PoliticalScientist3,Jason Smith (American politician),/* Tenure */ Added ideological scores from several think tanks.
+2021-05-07T20:16:08+00:00,1021995266,1020443774,1,PoliticalScientist3,Billy Long,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-07T20:13:15+00:00,1021994754,1018286092,1,PoliticalScientist3,Sam Graves,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-07T20:07:11+00:00,1021993698,1021343681,1,PoliticalScientist3,Emanuel Cleaver,/* Tenure */ Added ideological scores from several think tanks.
+2021-05-07T20:03:04+00:00,1021992939,1017281067,1,PoliticalScientist3,Vicky Hartzler,/* Political positions */ Added rating from think tank
+2021-05-07T19:57:16+00:00,1021991932,1017414357,1,PoliticalScientist3,Blaine Luetkemeyer,/* Tenure */ Added rating from think tank
+2021-05-07T19:52:20+00:00,1021991157,1020932421,1,PoliticalScientist3,Ann Wagner,/* Tenure */ Added rating from think tank
+2021-05-07T19:49:11+00:00,1021990624,1020442173,1,PoliticalScientist3,Steven Palazzo,/* Tenure */ Added rating from think tank
+2021-05-07T19:37:37+00:00,1021988539,1018930043,1,PoliticalScientist3,Michael Guest (politician),/* Tenure */ Added rating from think tank
+2021-05-07T19:25:31+00:00,1021986216,1021985163,1,PoliticalScientist3,Bennie Thompson,/* Tenure */ Added rating from think tank
+2021-05-07T18:04:40+00:00,1021971913,1020319372,1,PoliticalScientist3,John Barrasso,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-07T18:00:06+00:00,1021971028,1021078920,1,PoliticalScientist3,Tammy Baldwin,/* Ideology */  Added rating from think tank
+2021-05-07T15:40:43+00:00,1021948406,1021883626,1,PoliticalScientist3,Shelley Moore Capito,/* Political positions */ Added rating from think tank
+2021-05-07T15:30:22+00:00,1021946737,1021882383,1,PoliticalScientist3,Joe Manchin,/* Political positions */ updated think tank score to reflect current year
+2021-05-07T15:03:35+00:00,1021943115,1019908588,1,PoliticalScientist3,Maria Cantwell,/* Tenure */ Added ideological scores from several think tanks.
+2021-05-07T14:58:38+00:00,1021942427,1019207539,1,PoliticalScientist3,Patty Murray,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-07T14:50:45+00:00,1021941352,1021925462,1,PoliticalScientist3,Mark Warner,/* Tenure */ Added ideological scores from several think tanks.
+2021-05-07T14:39:45+00:00,1021939831,1020348230,1,PoliticalScientist3,Patrick Leahy,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-07T14:18:25+00:00,1021936933,1021224486,1,PoliticalScientist3,John Cornyn,/* Political positions */ Added rating from think tank
+2021-05-07T14:04:51+00:00,1021935115,1021780620,1,PoliticalScientist3,Marsha Blackburn,/* Political positions */ updated think tank score to reflect current year
+2021-05-07T13:52:48+00:00,1021933664,1020944737,1,PoliticalScientist3,Mike Rounds,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-05T18:10:20+00:00,1021616174,1021224649,1,PoliticalScientist3,John Thune,/* Tenure */ updated think tank score to reflect current year
+2021-05-05T17:21:57+00:00,1021608606,1020311689,1,PoliticalScientist3,Richard Burr,/* Tenure and political positions */ Added rating from think tank
+2021-05-05T17:18:51+00:00,1021608113,1021451534,1,PoliticalScientist3,Ben Sasse,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-05T17:12:26+00:00,1021607115,1021606996,1,PoliticalScientist3,Deb Fischer,/* Political positions */ added citation
+2021-05-05T17:11:37+00:00,1021606996,1020871760,1,PoliticalScientist3,Deb Fischer,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-05T16:47:16+00:00,1021603191,1019204967,1,PoliticalScientist3,Steve Daines,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-05T16:34:41+00:00,1021601316,1020051292,1,PoliticalScientist3,Roy Blunt,/* ACU rating */ updated think tank score to reflect current year
+2021-05-05T16:22:00+00:00,1021599398,1021173571,1,PoliticalScientist3,Roger Wicker,/* ACU Rating */ updated think tank score to reflect current year
+2021-05-05T16:09:29+00:00,1021597444,1020894449,1,PoliticalScientist3,Cindy Hyde-Smith,/* Political positions */ Added rating from think tank
+2021-05-05T16:05:50+00:00,1021596682,1021340767,1,PoliticalScientist3,Susan Collins,/* Political positions */ Added rating from think tank
+2021-05-05T15:54:50+00:00,1021594781,1021062446,1,PoliticalScientist3,John Kennedy (Louisiana politician),/* Political positions */ Added rating from think tank
+2021-05-05T15:50:11+00:00,1021594075,1021175605,1,PoliticalScientist3,Bill Cassidy,/* Political positions */ Added rating from think tank
+2021-05-05T15:29:11+00:00,1021590750,1021079084,1,PoliticalScientist3,Jerry Moran,/* Political positions */ updated think tank score to reflect current year
+2021-05-05T15:24:55+00:00,1021590094,1021492854,1,PoliticalScientist3,Joni Ernst,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-05T14:49:19+00:00,1021584834,1019368102,1,PoliticalScientist3,Jim Risch,/* Political positions */ Added ideological scores from several think tanks.
+2021-05-05T14:44:40+00:00,1021584206,1019368141,1,PoliticalScientist3,Mike Crapo,/* Political positions */ Added ideology scores from several think tanks
+2021-05-03T18:48:00+00:00,1021256120,1020072912,1,PoliticalScientist3,Tom Cotton,/* Domestic policy positions */ Added rating from think tank
+2021-05-03T18:41:07+00:00,1021255056,1020270930,1,PoliticalScientist3,John Boozman,/* Political positions and votes */ Updated think tank score of Sen. Boozman to reflect current year
+2021-05-03T18:25:56+00:00,1021252380,1019901714,1,PoliticalScientist3,Lisa Murkowski,/* Tenure and political positions */ Added ideological scores from several think tanks.
+2021-05-03T18:00:23+00:00,1021247634,1020936382,1,PoliticalScientist3,Richard Shelby,/* Political positions */ Added ideology scores from politically liberal and conservative think tanks.
+2021-05-03T17:46:06+00:00,1021245167,1018837397,1,PoliticalScientist3,Dan Sullivan (U.S. senator),/* Political positions */ Added ideology ratings for Senator Sullivan from several think tanks.
+2021-05-07T19:29:55+00:00,1021987042,1020783673,1,Academic.student.athlete,Andy Biggs,Added Ideological scores from several think tanks
+2021-05-07T18:12:48+00:00,1021973251,1020787810,1,Academic.student.athlete,Raúl Grijalva,Added Ideological scores from several think tanks
+2021-05-07T15:35:52+00:00,1021947609,1020270785,1,Academic.student.athlete,Ann Kirkpatrick,Added Ideological scores from several think tanks
+2021-05-07T15:28:30+00:00,1021946493,1021292220,1,Academic.student.athlete,Tom O'Halleran,Added Ideological scores from several think tanks
+2021-05-07T15:09:18+00:00,1021943962,1020792673,1,Academic.student.athlete,Don Young,Added Ideological scores from several think tanks
+2021-05-07T15:01:48+00:00,1021942853,1020585893,1,Academic.student.athlete,Terri Sewell,Added Ideological scores from several think tanks
+2021-05-07T14:57:32+00:00,1021942290,1020269662,1,Academic.student.athlete,Gary Palmer (politician),Added Ideological scores from several think tanks
+2021-05-07T14:51:10+00:00,1021941413,1019714643,1,Academic.student.athlete,Mo Brooks,Added Ideological scores from several think tanks
+2021-05-07T14:48:01+00:00,1021940948,1020792790,1,Academic.student.athlete,Robert Aderholt,Added Ideological scores from several think tanks
+2021-05-07T14:41:52+00:00,1021940121,1020269697,1,Academic.student.athlete,Mike Rogers (Alabama politician),fixed a statistic
+2021-05-07T14:33:05+00:00,1021938855,1020269991,1,Academic.student.athlete,Barry Moore (Alabama politician),Added Ideological scores from several think tanks
+2021-05-07T13:21:17+00:00,1021929848,1021616578,1,Academic.student.athlete,Martin Heinrich,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T19:04:16+00:00,1021799421,1020328138,1,Academic.student.athlete,Sheldon Whitehouse,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T19:02:03+00:00,1021799085,1021225920,1,Academic.student.athlete,Jack Reed (Rhode Island politician),"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T18:58:49+00:00,1021798548,1021100135,1,Academic.student.athlete,Pat Toomey,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T18:56:41+00:00,1021798185,1021100470,1,Academic.student.athlete,Bob Casey Jr.,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T18:48:00+00:00,1021796763,1019367548,1,Academic.student.athlete,Jeff Merkley,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T18:31:58+00:00,1021794224,1019016449,1,Academic.student.athlete,Ron Wyden,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T18:24:17+00:00,1021793142,1019160461,1,Academic.student.athlete,James Lankford,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T18:20:48+00:00,1021792601,1020732810,1,Academic.student.athlete,Rob Portman,
+2021-05-06T18:19:12+00:00,1021792370,1021226441,1,Academic.student.athlete,Sherrod Brown,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T18:16:15+00:00,1021791918,1020445586,1,Academic.student.athlete,Kevin Cramer,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T18:13:27+00:00,1021791528,1021106071,1,Academic.student.athlete,John Hoeven,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-06T17:53:04+00:00,1021788379,1020684630,1,Academic.student.athlete,Thom Tillis,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T18:13:46+00:00,1021616657,1021062571,1,Academic.student.athlete,Kirsten Gillibrand,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T17:57:39+00:00,1021614119,1021367055,1,Academic.student.athlete,Martin Heinrich,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T17:50:29+00:00,1021613000,1021147006,1,Academic.student.athlete,Maggie Hassan,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T17:39:14+00:00,1021611265,1020952396,1,Academic.student.athlete,Jeanne Shaheen,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T17:35:32+00:00,1021610699,1020223057,1,Academic.student.athlete,Jacky Rosen,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T17:22:16+00:00,1021608657,1021110257,1,Academic.student.athlete,Catherine Cortez Masto,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T15:56:45+00:00,1021595105,1021501893,1,Academic.student.athlete,Jon Tester,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T15:53:16+00:00,1021594560,1020787759,1,Academic.student.athlete,Tina Smith,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T15:48:15+00:00,1021593737,1021577018,1,Academic.student.athlete,Amy Klobuchar,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T15:44:51+00:00,1021593207,1019204413,1,Academic.student.athlete,Gary Peters,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T15:20:38+00:00,1021589495,1020443397,1,Academic.student.athlete,Debbie Stabenow,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T14:25:38+00:00,1021581549,1020327641,1,Academic.student.athlete,Chris Van Hollen,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T14:21:38+00:00,1021580974,1020913347,1,Academic.student.athlete,Ben Cardin,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T14:13:26+00:00,1021579894,1021108049,1,Academic.student.athlete,Angus King,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-05T13:38:20+00:00,1021574992,1021441781,1,Academic.student.athlete,Mike Braun,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-04T19:49:22+00:00,1021453206,1018838648,1,Academic.student.athlete,Todd Young,"Altering a lifetime rating based off a credible Conservative Source, The American Conservative Union."
+2021-05-04T19:33:59+00:00,1021450691,1021224570,1,Academic.student.athlete,Dick Durbin,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-04T18:57:58+00:00,1021445050,1020341759,1,Academic.student.athlete,Mazie Hirono,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-04T18:41:00+00:00,1021442023,1018838351,1,Academic.student.athlete,Brian Schatz,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-04T18:20:07+00:00,1021438382,1021202654,1,Academic.student.athlete,Chris Coons,"Adding a lifetime rating based off a credible conservative scorecard, The American Conservative Union."
+2021-05-04T17:59:46+00:00,1021435229,1020867776,1,Academic.student.athlete,Tom Carper,"Updated his lifetime rating based off a credible source conservative source, The American Conservative Union."
+2021-05-04T17:38:08+00:00,1021431852,1019563301,1,Academic.student.athlete,Chris Murphy,Adding a lifetime rating based off a credible conservative scorecard.
+2021-05-04T17:26:46+00:00,1021429979,1020226556,1,Academic.student.athlete,Richard Blumenthal,Added the congressman's lifetime rating from a conservative scorecard.
+2021-05-04T17:06:58+00:00,1021426861,1021143693,1,Academic.student.athlete,Michael Bennet,Adding his lifetime rating from score card of the American Conservative Union
+2021-05-04T15:58:03+00:00,1021414984,1021337116,1,Academic.student.athlete,Mark Kelly,I added Mark Kelly's lifetime rating from a conservative source.
+2021-06-11T13:21:18+00:00,1028037212,1028036589,1,Dogdad3,User talk:Ser Amantio di Nicolao,/* Why revert the political ideology ratings? */
+2021-06-11T13:16:13+00:00,1028036589,1027921667,1,Dogdad3,User talk:Ser Amantio di Nicolao,/* Why revert the political ideology ratings? */
+2021-06-10T15:05:24+00:00,1027882028,1021415152,1,Dogdad3,Chris Croft,Political Ideology
+2021-06-10T15:02:29+00:00,1027881568,1027881440,1,Dogdad3,Michael Capps (politician),Fix
+2021-06-10T15:01:46+00:00,1027881440,1016609813,1,Dogdad3,Michael Capps (politician),Political Ideology
+2021-06-10T14:54:57+00:00,1027880218,1001577258,1,Dogdad3,Randy Garber (politician),Political Ideology
+2021-06-10T14:52:27+00:00,1027879861,1027879775,1,Dogdad3,Richard Hilderbrand,
+2021-06-10T14:51:49+00:00,1027879775,1015355086,1,Dogdad3,Richard Hilderbrand,Political Ideology
+2021-06-10T14:45:30+00:00,1027878851,1021400285,1,Dogdad3,Michael Houser (politician),Political Ideology
+2021-06-10T14:31:22+00:00,1027876803,1024782596,1,Dogdad3,Jesse Burris,Political Ideology
+2021-06-10T14:03:45+00:00,1027872803,1027872740,1,Dogdad3,Renee Erickson (politician),Pronoun correction
+2021-06-10T14:03:16+00:00,1027872740,1027516913,1,Dogdad3,Renee Erickson (politician),Political Ideology
+2021-06-10T13:57:57+00:00,1027871904,1011624982,1,Dogdad3,Blake Carpenter,Political Ideology
+2021-06-10T13:53:23+00:00,1027871254,1027871199,1,Dogdad3,Barbara Wasinger,Pronoun correction
+2021-06-10T13:53:03+00:00,1027871199,1012535975,1,Dogdad3,Barbara Wasinger,Political Ideology
+2021-06-10T13:47:16+00:00,1027870296,1000754408,1,Dogdad3,Francis Awerkamp,Political Ideology
+2021-06-10T13:39:18+00:00,1027869161,1027410181,1,Dogdad3,Ken Buck,Political Ideology
+2021-06-10T13:31:09+00:00,1027868002,1027586149,1,Dogdad3,Jody Hice,Political Ideology
+2021-06-09T16:07:56+00:00,1027722333,1025926571,1,Dogdad3,Larry S. Hicks,Political Ideology
+2021-06-09T16:04:14+00:00,1027721890,1025924771,1,Dogdad3,Cheri Steinmetz,Political Ideology
+2021-06-09T15:54:52+00:00,1027720476,1002226664,1,Dogdad3,Lynn Hutchings,Political Ideology
+2021-06-09T15:45:44+00:00,1027719254,1002872537,1,Dogdad3,Mark Jennings (politician),Political Ideology
+2021-06-09T15:38:29+00:00,1027718023,1025927381,1,Dogdad3,Garry Piiparinen,Political Ideology
+2021-06-09T15:30:42+00:00,1027716980,1016278306,1,Dogdad3,Roy Edwards (politician),Political Ideology
+2021-06-09T15:14:16+00:00,1027714883,1025927019,1,Dogdad3,Tom James (Wyoming politician),Political Ideology
+2021-06-09T14:58:39+00:00,1027712859,1025926280,1,Dogdad3,Chuck Gray (Wyoming politician),Political Ideology
+2021-06-09T14:52:25+00:00,1027712063,998592494,1,Dogdad3,Wyatt Agar,Political Ideology
+2021-06-09T14:45:08+00:00,1027710513,1025280045,1,Dogdad3,Anthony Bouchard,Political Ideology
+2021-06-09T14:39:06+00:00,1027709637,1025926045,1,Dogdad3,Bo Biteman,Political Ideology
+2021-06-09T14:26:12+00:00,1027708002,1024143379,1,Dogdad3,Lance Gooden,Political Ideology
+2021-06-09T14:16:30+00:00,1027706768,1027419284,1,Dogdad3,Greg Steube,Political Ideology
+2021-06-08T16:03:18+00:00,1027553345,1027409583,1,Dogdad3,Tom McClintock,Political Ideology
+2021-06-08T15:54:10+00:00,1027552084,1027551754,1,Dogdad3,Michael Cloud,Fix
+2021-06-08T15:51:45+00:00,1027551754,1026046656,1,Dogdad3,Michael Cloud,Political Ideology
+2021-06-08T15:42:02+00:00,1027550487,1027548859,1,Dogdad3,Ryan Warner,Fix
+2021-06-08T15:29:39+00:00,1027548859,1022792879,1,Dogdad3,Ryan Warner,Political Ideology
+2021-06-08T15:25:14+00:00,1027548268,1001194037,1,Dogdad3,Paul Schemel,Political Ideology
+2021-06-08T15:19:54+00:00,1027547498,1024189928,1,Dogdad3,Greg Rothman,Political Ideology
+2021-06-08T15:13:32+00:00,1027546704,1016184331,1,Dogdad3,Frank Ryan (politician),Political Ideology
+2021-06-08T15:08:30+00:00,1027546066,1027546009,1,Dogdad3,Dawn Keefer,Pronoun correction
+2021-06-08T15:08:00+00:00,1027546009,1025097102,1,Dogdad3,Dawn Keefer,Political Ideology
+2021-06-08T15:01:47+00:00,1027545208,1016184165,1,Dogdad3,Mike Jones (Pennsylvania politician),Political Ideology
+2021-06-08T14:55:57+00:00,1027544423,1020390869,1,Dogdad3,Eric Davanzo,Political Ideology
+2021-06-08T14:48:12+00:00,1027543418,1023141249,1,Dogdad3,Timothy R. Bonner,Political Ideology
+2021-06-08T14:35:26+00:00,1027541773,1020437092,1,Dogdad3,David H. Rowe,Political Ideology
+2021-06-08T14:24:00+00:00,1027540296,1000682375,1,Dogdad3,Daryl Metcalfe,Added political ideology rating.
+2021-06-08T14:15:37+00:00,1027539146,1027428452,1,Dogdad3,Hal Rogers,Citing fixes
+2021-06-08T14:09:34+00:00,1027538242,1026352720,1,Dogdad3,Ken Calvert,Adding political ratings to highlight the legislator's ideology.
+2021-06-07T21:28:16+00:00,1027428452,1014034806,1,Dogdad3,Hal Rogers,Adding political ratings to highlight the legislator's ideology.
+2021-05-24T20:04:49+00:00,1024930025,1024094899,0,EdJF,Amy Klobuchar,/* Personal life */ We do not name non-notable offspring WP:BLPPRIVACY)
+2021-05-21T12:21:02+00:00,1024320699,1024320454,0,Renamed user 150tcy3tya3ql,Ann Wagner,Undid revision 1024320454 by [[Special:Contributions/1.127.105.210|1.127.105.210]] ([[User talk:1.127.105.210|talk]]): Less neutral synonym
+2021-05-18T10:47:51+00:00,1023790179,1021962709,0,Pvmoutside,Ann Kirkpatrick,/* External links */
+2021-04-16T13:21:53+00:00,1018137360,1018137170,0,Uranium Site,Anthony Bouchard,Reverted 1 edit by [[Special:Contributions/2600:6C67:8800:2612:593:506B:87E7:24D3|2600:6C67:8800:2612:593:506B:87E7:24D3]] ([[User talk:2600:6C67:8800:2612:593:506B:87E7:24D3|talk]]) to last revision by Uranium Site
+2021-04-28T04:55:45+00:00,1020269991,1019567018,0,Citation bot,Barry Moore (Alabama politician),Alter: title. Add: authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Deadman137 | [[Category:Members of the United States House of Representatives from Alabama]] | via #UCB_Category 104/185
+2021-05-20T02:24:37+00:00,1024094899,1023526074,0,67.70.23.84,Amy Klobuchar,/* Early life and education */
+2021-05-24T07:30:25+00:00,1024818301,1024727999,0,86.99.87.85,Andy Biggs,Undid revision 1024727999 by [[Special:Contributions/2601:400:4380:8D20:4C4B:D468:363C:7197|2601:400:4380:8D20:4C4B:D468:363C:7197]] ([[User talk:2601:400:4380:8D20:4C4B:D468:363C:7197|talk]])
+2021-05-17T11:55:37+00:00,1023621077,1022500145,0,Pvmoutside,Ann Wagner,/* External links */
+2021-03-16T22:22:26+00:00,1012535975,1000233244,0,PerpetuityGrat,Barbara Wasinger,"Deleting succession box - [[WP:EXCESSDETAIL]], too much unnecessary information - deviates from the purpose of the article.  Relevant succession info found in infobox."
+2021-04-15T03:02:20+00:00,1017879046,1016675693,0,AlsoWukai,Adrian Smith (politician),ce
+2021-05-07T17:11:48+00:00,1021962709,1021947609,0,Novemberjazz,Ann Kirkpatrick,Stop
+2021-05-13T06:00:35+00:00,1022907387,1022715238,0,Novemberjazz,Anthony Bouchard,broken english
+2021-06-06T00:44:59+00:00,1027084240,1025866132,0,Tom.Reding,Barry Moore (Alabama politician),"+{{[[Template:Authority control|Authority control]]}} ([[d:Q63198048|1 ID]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2021-05-07T23:11:45+00:00,1022016583,1022004599,0,Apokryltaros,Adrian Smith (politician),Reverted edits by [[Special:Contribs/PoliticalScientist3|PoliticalScientist3]] ([[User talk:PoliticalScientist3|talk]]) to last version by AlsoWukai
+2021-05-14T04:06:54+00:00,1023063053,1023040280,0,Peaceray,Angus King,Reverting edit(s) by [[Special:Contributions/172.58.110.223|172.58.110.223]] ([[User_talk:172.58.110.223|talk]]) to rev. 1022141458 by General Ization: Reverting substitution of alt parameter for caption (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]]
+2021-05-08T18:28:26+00:00,1022141458,1021948939,0,General Ization,Angus King,Reverted edits by [[Special:Contribs/67.80.249.131|67.80.249.131]] ([[User talk:67.80.249.131|talk]]) to last version by Academic.student.athlete
+2021-05-16T23:57:48+00:00,1023545491,1023063068,0,Oath2order,Ben Cardin,Wording.
+2021-05-06T05:50:13+00:00,1021700251,1021622754,0,AlsoWukai,Ben Sasse,/* Political positions */ ce
+2021-03-11T22:56:56+00:00,1011624982,998573684,0,Citation bot,Blake Carpenter,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Use mdy dates from December 2017‎]] | via #UCB_Category 804/1522
+2021-05-07T20:22:09+00:00,1021996300,1021995266,0,JzG,Billy Long,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/PoliticalScientist3|PoliticalScientist3]] ([[User talk:PoliticalScientist3|talk]]): Primary-sourced opinion from a think-tank is [[WP:UNDUE]].
+2021-05-07T20:30:33+00:00,1021997540,1021986216,0,JzG,Bennie Thompson,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/PoliticalScientist3|PoliticalScientist3]] ([[User talk:PoliticalScientist3|talk]]): Primary-sourced opinion from a think-tank is [[WP:UNDUE]].
+2021-05-14T00:40:44+00:00,1023042530,1023042355,0,Melecie,Bill Cassidy,Reverting edit(s) by [[Special:Contributions/172.58.110.223|172.58.110.223]] ([[User_talk:172.58.110.223|talk]]) to rev. 1021698778 by AlsoWukai: Reverting [[WP:AGF|good faith]] edits: pretty sure this fits more under caption than alt text [[w:en:WP:RW|(RW 16.1)]]
+2021-05-06T19:29:59+00:00,1021803786,1021798185,0,Muboshgu,Bob Casey Jr.,Reverted 1 edit by [[Special:Contributions/Academic.student.athlete|Academic.student.athlete]] ([[User talk:Academic.student.athlete|talk]]): [[WP:UNDUE]]
+2021-01-06T00:59:55+00:00,998573699,995607216,0,Ser Amantio di Nicolao,Bo Biteman,add category
+2021-05-07T20:25:50+00:00,1021996892,1021991932,0,JzG,Blaine Luetkemeyer,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/PoliticalScientist3|PoliticalScientist3]] ([[User talk:PoliticalScientist3|talk]]): Primary-sourced opinion from a think-tank is [[WP:UNDUE]].
+2021-05-14T03:58:53+00:00,1023062244,1023040750,0,Peaceray,Brian Schatz,"Reverting edit(s) by [[Special:Contributions/172.58.110.223|172.58.110.223]] ([[User_talk:172.58.110.223|talk]]) to rev. 1021442023 by Academic.student.athlete: Reverting [[WP:AGF|good faith]] edits: Why remove the caption? If you want to use the alt parameter, add it separately. [[w:en:WP:RW|(RW 16.1)]]"
+2021-05-13T15:06:52+00:00,1022968096,1021997540,0,Woko Sapien,Bennie Thompson,/* See also */
+2021-04-12T16:30:43+00:00,1017414357,1017282420,0,AlsoWukai,Blaine Luetkemeyer,
+2021-05-30T07:00:10+00:00,1025898968,1025742276,0,AlsoWukai,Bill Cassidy,
+2021-05-17T08:51:03+00:00,1023602771,1023073241,0,Elli,Bob Casey Jr.,"([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Casey vs Santorum map, 2006.svg]] → [[File:2006 United States Senate election in Pennsylvania results map by county.svg]] [[c:COM:FR#FR4|Criterion 4]]"
+2021-06-01T21:39:40+00:00,1026370260,1023094011,0,Novemberjazz,Catherine Cortez Masto,"no, this is Catherine Cortez Masto"
+2021-02-04T21:48:09+00:00,1004881505,1004881341,0,Ser Amantio di Nicolao,Cheri Steinmetz,Adding [[Category:Women state legislators in Wyoming]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2021-05-14T09:56:40+00:00,1023094011,1023063091,0,AlsoWukai,Catherine Cortez Masto,"rv primary-sourced, promotional, non-encyclopedic puffery"
+2021-06-10T02:16:40+00:00,1027798234,1027548720,0,InternetArchiveBot,Chris Coons,Rescuing 5 sources and tagging 1 as dead.) #IABot (v2.0.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 7981
+2021-05-26T13:49:36+00:00,1025237579,1025048051,0,M.Bitton,Chris Coons,Reverted 1 edit by [[Special:Contributions/67.80.249.131|67.80.249.131]] ([[User talk:67.80.249.131|talk]]) to last revision by 2601:646:8C01:D750:A495:57EE:E846:4A2C
+2021-05-04T15:59:06+00:00,1021415152,1021265810,0,DanCherek,Chris Croft,/* top */ non-RS
+2021-06-02T15:35:33+00:00,1026487254,1026384459,0,Missvain,Chris Murphy,Filled in 1 bare reference(s) with reFill 2
+2021-05-06T20:17:04+00:00,1021810651,1021431852,0,Muboshgu,Chris Murphy,Reverted edits by [[Special:Contribs/Academic.student.athlete|Academic.student.athlete]] ([[User talk:Academic.student.athlete|talk]]) to last version by KidAd
+2021-05-30T11:26:53+00:00,1025926280,1021565238,0,Simeon,Chuck Gray (Wyoming politician),"Adding [[Wikipedia:Short description|short description]]: ""American politician"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-05-08T18:28:26+00:00,1022141457,1021847470,0,General Ization,Chris Van Hollen,Reverted edits by [[Special:Contribs/67.80.249.131|67.80.249.131]] ([[User talk:67.80.249.131|talk]]) to last version by Academic.student.athlete
+2021-05-29T00:08:17+00:00,1025689943,1023063059,0,73.71.179.240,Chris Van Hollen,
+2021-05-10T23:08:32+00:00,1022514965,1022513709,0,Thenightaway,Dan Sullivan (U.S. senator),Undid revision 1022513709 by [[Special:Contributions/166.181.82.50|166.181.82.50]] ([[User talk:166.181.82.50|talk]])
+2021-05-06T13:40:10+00:00,1021751010,1021629741,0,CommonsDelinker,Cindy Hyde-Smith,Replacing Chs_headshot_1024x1280.jpg with [[File:Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg]] (by [[commons:User:CommonsDelinker|CommonsDelinker]] because: [[:c:COM:FR|File renamed]]: [[:c:COM:FR#FR2|Criterion 2]] (meaningless or ambiguous name)
+2021-05-05T12:21:33+00:00,1021565238,1011879590,0,ScienticGuy,Chuck Gray (Wyoming politician),/* 2022 */
+2021-06-10T05:35:17+00:00,1027817650,1027693895,0,AlsoWukai,Dan Sullivan (U.S. senator),Undid revision 1027693895 by [[Special:Contributions/Mickie-Mickie|Mickie-Mickie]] ([[User talk:Mickie-Mickie|talk]])
+2021-01-16T05:50:52+00:00,1000682375,999023646,0,Monkbot,Daryl Metcalfe,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 31 templates: hyphenate params (14×);
+2021-04-29T02:33:13+00:00,1020437092,1017661846,0,75.88.88.139,David H. Rowe,
+2021-04-06T22:46:13+00:00,1016391353,1016184135,0,2601:987:200:5130:B02E:CCB6:4DA8:1B95,Dawn Keefer,/* Career */Removed questionable source content
+2021-05-25T18:13:11+00:00,1025097102,1016391353,0,Extraordinary Writ,Dawn Keefer,"Adding [[Wikipedia:Short description|short description]]: ""American politician"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-05-29T18:19:55+00:00,1025812188,1025653339,0,MopTop,Deb Fischer,/* Tenure and political positions */ Voted against Jan 6 commission
+2021-05-14T15:31:17+00:00,1023134297,1022681358,0,Marquardtika,Deb Fischer,/* Tenure and political positions */ needless subheadings
+2021-06-04T00:50:16+00:00,1026740388,1025680158,0,Mad Mismagius,Dick Durbin,
+2021-06-04T17:15:23+00:00,1026863744,1026738625,0,TheTechnician27,Debbie Stabenow,Cleaned up a handful of citations.
+2021-05-29T21:02:57+00:00,1025834164,1023899042,0,Dicklyon,Dina Titus,genocide case cleanup (via [[WP:JWB]])
+2021-05-20T02:15:46+00:00,1024094039,1024093738,0,174.253.66.132,Dick Durbin,
+2021-05-26T08:52:59+00:00,1025200010,1025103522,0,Abovfold,Don Bacon,"Undid revision 1025103522 by [[Special:Contributions/Love of Corey|Love of Corey]] ([[User talk:Love of Corey|talk]]) partial revert, arbitrary section blanking"
+2021-05-30T03:35:22+00:00,1025880350,1025868290,0,Curbon7,Don Young,Added {{[[Template:Recentism|Recentism]]}} tag: Very little meaningful content of his pre-1994 career.
+2021-06-02T09:14:28+00:00,1026443831,1026431491,0,AlsoWukai,Don Bacon,ce
+2021-05-10T03:42:22+00:00,1022367331,1022019436,0,Citation bot,Don Young,Alter: title. Add: work. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | Linked from User:AManWithNoPlan/sandbox2 | #UCB_webform_linked 231/547
+2021-05-13T14:26:28+00:00,1022961947,1021996862,0,Woko Sapien,Emanuel Cleaver,/* See also */
+2021-04-28T20:31:49+00:00,1020390869,1016182763,0,Extraordinary Writ,Eric Davanzo,"Adding [[Wikipedia:Short description|short description]]: ""American politician"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-01-27T00:21:48+00:00,1002995706,999217288,0,Monkbot,Garry Piiparinen,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 5 templates: hyphenate params (5×);
+2021-01-16T15:21:12+00:00,1000754408,998578838,0,Monkbot,Francis Awerkamp,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: del empty params (1×); hyphenate params (2×);
+2021-04-05T20:44:28+00:00,1016184331,1011230244,0,Chsdrummajor07,Frank Ryan (politician),/* External links */
+2021-05-18T11:03:16+00:00,1023791842,1021942290,0,Pvmoutside,Gary Palmer (politician),/* External links */
+2021-05-19T20:43:40+00:00,1024052531,1024052314,0,Elli,Gary Peters,/* External links */ typo
+2021-05-20T17:00:18+00:00,1024189928,1019540794,0,CommonsDelinker,Greg Rothman,Removing [[:c:File:Greg_Rothman.jpg|Greg_Rothman.jpg]]; it has been deleted from Commons by [[:c:User:Túrelio|Túrelio]] because: [[:c:COM:L|Copyright violation]]: copyrighted image from [https://www.legis.state.pa.us/cfdocs/legis/home/member_information/h
+2021-05-21T11:11:33+00:00,1024313020,1024192282,0,Pvmoutside,Greg Steube,/* External links */
+2021-06-08T17:58:11+00:00,1027569193,1027539146,0,Missvain,Hal Rogers,Filled in 2 bare reference(s) with reFill 2
+2021-03-24T20:25:22+00:00,1014034806,1013803185,0,AlsoWukai,Hal Rogers,/* Committee assignments */
+2021-05-03T15:46:34+00:00,1021225920,1021225552,0,Praxidicae,Jack Reed (Rhode Island politician),Reverted edits by [[Special:Contribs/Alan Svirnovskiy|Alan Svirnovskiy]] ([[User talk:Alan Svirnovskiy|talk]]) to last version by Thomascampbell123
+2021-05-14T04:07:11+00:00,1023063081,1023040164,0,Peaceray,Jacky Rosen,Reverting edit(s) by [[Special:Contributions/172.58.110.223|172.58.110.223]] ([[User_talk:172.58.110.223|talk]]) to rev. 1021699548 by AlsoWukai: Reverting substitution of alt parameter for caption (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]]
+2021-05-06T20:16:37+00:00,1021810581,1021799085,0,Muboshgu,Jack Reed (Rhode Island politician),Reverted edits by [[Special:Contribs/Academic.student.athlete|Academic.student.athlete]] ([[User talk:Academic.student.athlete|talk]]) to last version by Praxidicae
+2021-05-18T21:16:50+00:00,1023879849,1023681163,0,Summer Travel,James Lankford,Added a link
+2021-05-31T22:00:22+00:00,1026189601,1025895847,0,Tchouppy,James Lankford,/* 2020 election */ deleted duplicate information and source
+2021-05-25T21:06:44+00:00,1025123493,1023621504,0,Ephminus,Jason Smith (American politician),
+2021-05-29T01:45:58+00:00,1025701180,1025700359,0,Muboshgu,Jacky Rosen,Reverted edits by [[Special:Contribs/2A00:23C5:980:B600:E5A4:FD5D:D8D9:7B2D|2A00:23C5:980:B600:E5A4:FD5D:D8D9:7B2D]] ([[User talk:2A00:23C5:980:B600:E5A4:FD5D:D8D9:7B2D|talk]]) to last version by Peaceray
+2021-05-20T03:00:23+00:00,1024098553,1024098071,0,Love of Corey,Jeff Fortenberry,"/* January 6, 2021 commission */ +"
+2021-06-02T23:20:37+00:00,1026551668,1023023859,0,HouseBlaster,Jeanne Shaheen,"/* Elections */ removed the word ""recent"""
+2021-05-12T02:32:01+00:00,1022717557,1021798250,0,Lunar werg,Jeff Merkley,Cleaned up the electoral history tables
+2021-05-24T02:19:13+00:00,1024782596,1021790584,0,Ser Amantio di Nicolao,Jesse Burris,/* References */add category
+2021-05-29T18:42:00+00:00,1025815160,1021599172,0,MopTop,Jerry Moran,Voted against Jan 6 commission
+2021-05-02T21:32:06+00:00,1021093397,1021093258,0,Novemberjazz,Jesse Burris,categories
+2021-05-05T16:20:31+00:00,1021599172,1021590750,0,Keith D,Jerry Moran,/* Political positions */ Fix cite date error
+2021-05-29T19:08:09+00:00,1025818676,1023004668,0,MopTop,Jim Risch,Abstained from vote on Jan 6 commission
+2021-05-06T01:03:34+00:00,1021671854,1021661623,0,Ser Amantio di Nicolao,Jody Hice,Reverted 1 edit by [[Special:Contributions/PlaneCeiling912|PlaneCeiling912]] ([[User talk:PlaneCeiling912|talk]])
+2021-05-13T19:19:50+00:00,1023004668,1023004569,0,PerpetuityGrat,Jim Risch,Fixing dates
+2021-05-29T14:44:20+00:00,1025780618,1025780369,0,Sdrqaz,Joe Manchin,Reverted edits by [[Special:Contribs/2601:1C2:501:3C30:692D:88D5:15ED:C9E0|2601:1C2:501:3C30:692D:88D5:15ED:C9E0]] ([[User talk:2601:1C2:501:3C30:692D:88D5:15ED:C9E0|talk]]) to last version by Sdrqaz
+2021-05-16T00:58:53+00:00,1023370182,1023334419,0,Mreditoratlast,John Barrasso,
+2021-04-28T12:51:14+00:00,1020319372,1018841596,0,82.10.221.224,John Barrasso,/* U.S. Senate */
+2021-05-13T23:11:52+00:00,1023032780,1023032720,0,HelenDegenerate,Joe Manchin,Reverted edits by [[Special:Contribs/65.78.101.45|65.78.101.45]] ([[User talk:65.78.101.45|talk]]) to last version by Sdrqaz
+2021-05-29T18:04:43+00:00,1025810111,1023063124,0,MopTop,John Boozman,/* National security */ Voted against Jan 6 commission
+2021-05-07T22:24:57+00:00,1022011707,1021626439,0,104.63.165.123,John Boozman,"He is a former optometrist, not a former physician.  “Physician” implies that he is a medical doctor (MD, DO)."
+2021-05-14T00:26:19+00:00,1023040812,1021811152,0,172.58.110.223,John Hoeven,
+2021-05-10T11:29:27+00:00,1022415365,1022023997,0,2405:204:30E:DF91:EC6F:200F:4B9B:485C,John Cornyn,
+2021-05-08T00:26:48+00:00,1022023997,1022023968,0,HelenDegenerate,John Cornyn,Reverted 1 edit by [[Special:Contributions/75.72.196.159|75.72.196.159]] ([[User talk:75.72.196.159|talk]]) to last revision by Marquardtika
+2021-05-22T08:05:30+00:00,1024461182,1024441151,0,AlsoWukai,John Hoeven,Undid revision 1024441151 by [[Special:Contributions/49.147.195.72|49.147.195.72]] ([[User talk:49.147.195.72|talk]])
+2021-05-05T16:16:16+00:00,1021598505,1021594781,0,Keith D,John Kennedy (Louisiana politician),/* Political positions */ Fix cite date error
+2021-05-29T18:51:18+00:00,1025816317,1022287214,0,MopTop,John Thune,Voted against Jan 6 commission
+2021-05-10T18:40:35+00:00,1022477937,1021595105,0,Novemberjazz,Jon Tester,"No, this is Jon Tester"
+2021-05-02T18:06:24+00:00,1021062446,1021061869,0,Larry Hockett,John Kennedy (Louisiana politician),Undid revision 1021061869 by [[Special:Contributions/Alan Svirnovskiy|Alan Svirnovskiy]] ([[User talk:Alan Svirnovskiy|talk]]) can be inferred that this is the article subject
+2021-05-21T18:50:27+00:00,1024375961,1024375862,0,General Ization,Joni Ernst,Reverted 1 edit by [[Special:Contributions/170.232.227.223|170.232.227.223]] ([[User talk:170.232.227.223|talk]]) to last revision by General Ization
+2021-04-30T16:14:11+00:00,1020707574,1020419452,0,Missvain,Ken Buck,Filled in 1 bare reference(s) with reFill 2
+2021-05-13T16:55:11+00:00,1022984039,1022983316,0,Srich32977,Ken Calvert,ce
+2021-06-01T19:34:32+00:00,1026352720,1022984039,0,Marquardtika,Ken Calvert,"/* Texas v. Pennsylvania */ [[WP:UNDUE]] detail, [[WP:IMPARTIAL]]"
+2021-05-19T12:33:42+00:00,1023981024,1023118958,0,AManWithNoPlan,Kirsten Gillibrand,pick one type
+2021-05-22T08:06:01+00:00,1024461224,1024441526,0,AlsoWukai,Kevin Cramer,Undid revision 1024441526 by [[Special:Contributions/49.147.195.72|49.147.195.72]] ([[User talk:49.147.195.72|talk]])
+2019-03-22T05:41:38+00:00,888915880,879807623,0,Ser Amantio di Nicolao,Larry S. Hicks,add category
+2021-04-12T11:43:02+00:00,1017370509,1014771598,0,Pvmoutside,Lance Gooden,/* External links */
+2021-05-20T10:51:13+00:00,1024143379,1017370509,0,Pvmoutside,Lance Gooden,/* External links */
+2021-05-15T00:26:16+00:00,1023200246,1023063004,0,64.202.33.150,Kevin Cramer,"Slightly altered the bit of text about Joe Biden's victory, since it was incredibly biased and seemed to be an attempt to demonize Donald Trump."
+2021-05-15T20:51:18+00:00,1023334230,1023166864,0,Novemberjazz,Lisa Murkowski,"No, this is Lisa Murkowski"
+2021-06-08T21:15:35+00:00,1027595274,1026734398,0,A wild Rattata,Lisa Murkowski,added link
+2021-01-23T12:25:48+00:00,1002226664,998595051,0,Citation bot,Lynn Hutchings,Misc citation tidying. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:African-American women in politics]] | via #UCB_Category 44/578
+2021-05-20T01:53:22+00:00,1024090982,1024090194,0,GoodDay,Maggie Hassan,
+2021-06-10T16:02:07+00:00,1027890685,1027720476,0,Novemberjazz,Lynn Hutchings,stop spamming this content
+2021-05-06T20:21:48+00:00,1021811351,1021613000,0,Muboshgu,Maggie Hassan,Reverted edits by [[Special:Contribs/Academic.student.athlete|Academic.student.athlete]] ([[User talk:Academic.student.athlete|talk]]) to last version by AlsoWukai
+2021-05-07T17:08:39+00:00,1021962249,1021943115,0,Novemberjazz,Maria Cantwell,What does this have to do with tenure?
+2021-05-07T23:11:40+00:00,1022016577,1022007500,0,Apokryltaros,Mark Amodei,Reverted edits by [[Special:Contribs/PoliticalScientist3|PoliticalScientist3]] ([[User talk:PoliticalScientist3|talk]]) to last version by Pvmoutside
+2021-01-26T12:07:54+00:00,1002872537,1001180271,0,FreeToDisagree,Mark Jennings (politician),Removed the religion-parameter from the infobox since it is no longer in use.
+2021-06-04T00:31:23+00:00,1026737615,1024929003,0,Mad Mismagius,Mark Warner,
+2021-05-04T16:01:35+00:00,1021415597,1021414984,0,Muboshgu,Mark Kelly,"Reverted 1 edit by [[Special:Contributions/Academic.student.athlete|Academic.student.athlete]] ([[User talk:Academic.student.athlete|talk]]): If ""no data has been inputted"", then this is meaningless"
+2021-05-18T23:22:05+00:00,1023894894,1022179076,0,Novemberjazz,Mark Kelly,"no, this is Mark Kelly"
+2021-05-11T14:09:24+00:00,1022614140,1022484236,0,Thenightaway,Marsha Blackburn,/* Political positions */
+2021-05-24T19:57:57+00:00,1024929003,1024643706,0,EdJF,Mark Warner,/* Personal life */ We do not name non-notable offspring WP:BLPPRIVACY
+2021-05-24T19:15:06+00:00,1024921579,1023139733,0,GreenC bot,Martin Heinrich,Rescued 3 archive links; reformat 5 links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-06-08T13:08:30+00:00,1027530413,1025817442,0,Citation bot,Marsha Blackburn,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:21st-century American women politicians]] | #UCB_Category 2620/4064
+2021-05-14T17:31:25+00:00,1023150709,1023150673,0,Missvain,Mazie Hirono,/* Personal life */
+2021-05-23T13:02:42+00:00,1024660574,1023150709,0,CommonsDelinker,Mazie Hirono,Removing [[:c:File:Senator_Mazie_Hirono_Heart_of_Fire.jpg|Senator_Mazie_Hirono_Heart_of_Fire.jpg]]; it has been deleted from Commons by [[:c:User:Fitindia|Fitindia]] because: No permission since 14 May 2021.
+2021-05-07T14:57:55+00:00,1021942339,1021929848,0,Gobonobo,Martin Heinrich,Undid revision 1021929848 by [[Special:Contributions/Academic.student.athlete|Academic.student.athlete]] ([[User talk:Academic.student.athlete|talk]]) not relevant or useful
+2021-05-05T06:09:58+00:00,1021529078,1021426861,0,AlsoWukai,Michael Bennet,ce
+2021-05-16T11:49:02+00:00,1023437290,1023149347,0,Williamgregory213,Michael Bennet,
+2021-04-08T03:05:22+00:00,1016609813,1006696388,0,108.7.160.152,Michael Capps (politician),Updated term end
+2021-05-19T11:53:22+00:00,1023976211,1022119071,0,Pvmoutside,Michael Cloud,/* External links */
+2021-05-31T02:24:37+00:00,1026046656,1023976211,0,SdkbBot,Michael Cloud,/* Tenure */removed [[WP:REFPUNCT|erroneous]] space
+2021-05-07T20:28:18+00:00,1021997268,1021988539,0,JzG,Michael Guest (politician),Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/PoliticalScientist3|PoliticalScientist3]] ([[User talk:PoliticalScientist3|talk]]): Primary-sourced opinion from a think-tank is [[WP:UNDUE]].
+2021-05-04T14:20:47+00:00,1021400285,1002204003,0,PerpetuityGrat,Michael Houser (politician),Infobox date specification
+2021-05-29T19:02:57+00:00,1025817871,1025617163,0,MopTop,Mike Braun,Abstained from vote on Jan 6 commission
+2021-05-06T05:36:17+00:00,1021698932,1021598674,0,AlsoWukai,Mike Crapo,ce
+2021-04-05T20:43:26+00:00,1016184165,1002119772,0,Chsdrummajor07,Mike Jones (Pennsylvania politician),/* External links */
+2021-05-14T15:47:36+00:00,1023136587,1021996398,0,Marquardtika,Mike Rounds,/* Abortion */ this is poorly sourced and [[WP:SYNTH]]
+2021-04-25T00:26:44+00:00,1019714643,1019714566,0,HelenDegenerate,Mo Brooks,Reverted 1 edit by [[Special:Contributions/2601:602:C980:2920:A997:1B3A:5E50:5E87|2601:602:C980:2920:A997:1B3A:5E50:5E87]] ([[User talk:2601:602:C980:2920:A997:1B3A:5E50:5E87|talk]]) to last revision by AlsoWukai
+2021-05-08T19:15:34+00:00,1022147460,1022147362,0,Ecangola,Mo Brooks,/* Early political career */
+2021-05-15T04:03:10+00:00,1023221170,1023198011,0,TEMPO156,Pat Toomey,"Undid revision 1023198011 by [[Special:Contributions/KidAd|KidAd]] ([[User talk:KidAd|talk]]) [[WP:CAPLENGTH]]. KidAd, if you want to change the guideline, [[Wikipedia talk:Manual of Style/Captions]] is that way."
+2021-05-10T11:24:22+00:00,1022414839,1021996505,0,Lennart97,Patrick Leahy,Disambiguating links to [[Khan al-Ahmar]] (link changed to [[Khan al-Ahmar (village)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-05-27T03:41:34+00:00,1025351567,1025351298,0,2600:1700:4241:C100:418A:A490:F7D5:954C,Patrick Leahy,
+2021-05-17T22:03:14+00:00,1023708023,1023707947,0,PrairieKid,Patty Murray,Let's still name incumbent Bill Kiskaddon
+2021-05-29T19:15:22+00:00,1025819702,1025266046,0,MopTop,Patty Murray,Abstained from vote on Jan 6 commission
+2021-01-18T17:17:08+00:00,1001194037,1000615796,0,Richard-of-Earth,Paul Schemel,"Fix link, remove depriciated parameter. ""religion="" parameter was removed from Infobox officeholder as a result of [[Template talk:Infobox officeholder/Archive 21#Religion in officeholder infoboxes]]"
+2021-06-03T05:44:02+00:00,1026596260,1025974460,0,Thomascampbell123,Raúl Grijalva,
+2021-01-20T09:01:22+00:00,1001577258,983975574,0,Monkbot,Randy Garber (politician),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 5 templates: hyphenate params (2×);
+2021-05-17T01:02:20+00:00,1023554941,1021615165,0,Wizardman,Renee Erickson (politician),/* External links */ -
+2021-05-05T18:04:08+00:00,1021615165,1021614858,0,DanCherek,Renee Erickson (politician),Undid revision 1021614858 by [[Special:Contributions/Liam369|Liam369]] ([[User talk:Liam369|talk]])
+2021-05-05T06:03:11+00:00,1021528223,1021429979,0,AlsoWukai,Richard Blumenthal,
+2021-05-15T22:53:48+00:00,1023353539,1023236112,0,99.237.98.219,Richard Blumenthal,/* Personal life */
+2021-05-08T18:21:53+00:00,1022140682,1022140457,0,General Ization,Richard Burr,Reverted edits by [[Special:Contribs/67.80.249.131|67.80.249.131]] ([[User talk:67.80.249.131|talk]]) to last version by Keith D
+2021-04-01T00:25:40+00:00,1015355086,1013317726,0,BattyBot,Richard Hilderbrand,/* References */Removed [[Category:Year of birth missing (living people)]] and [[WP:AWB/GF|General fixes]]
+2021-04-28T11:45:47+00:00,1020311689,1019429140,0,Citation bot,Richard Burr,Add: work. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Deadman137 | [[Category:Republican Party United States senators]] | via #UCB_Category 174/669
+2021-05-14T04:07:25+00:00,1023063113,1023039683,0,Peaceray,Richard Shelby,Reverting edit(s) by [[Special:Contributions/172.58.110.223|172.58.110.223]] ([[User_talk:172.58.110.223|talk]]) to rev. 1022989443 by Woko Sapien: Reverting substitution of alt parameter for caption (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]]
+2021-05-19T19:47:58+00:00,1024044536,1024021423,0,M.nelson,Richard Shelby,Undid revision 1024021423 by [[Special:Contributions/Mohagholami|Mohagholami]] ([[User talk:Mohagholami|talk]]) rvv
+2021-05-08T11:52:00+00:00,1022090517,1022052495,0,94.252.88.66,Ron Wyden,/* U.S. House of Representatives */
+2021-05-26T19:12:09+00:00,1025287243,1023889524,0,WikiCleanerBot,Robert Aderholt,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-05-01T01:41:16+00:00,1020792790,1020604024,0,Missvain,Robert Aderholt,Filled in 1 bare reference(s) with reFill 2
+2021-05-29T18:56:21+00:00,1025816979,1025449867,0,MopTop,Roger Wicker,Voted against Jan 6 commission
+2021-05-14T00:37:46+00:00,1023042182,1023041997,0,Melecie,Roger Wicker,Reverting edit(s) by [[Special:Contributions/172.58.110.223|172.58.110.223]] ([[User_talk:172.58.110.223|talk]]) to rev. 1021699849 by AlsoWukai: Reverting [[WP:AGF|good faith]] edits: pretty sure this fits more under caption than alt text [[w:en:WP:RW|(RW 16.1)]]
+2021-06-05T20:43:33+00:00,1027053925,1026528419,0,Thomascampbell123,Ron Wyden,He was previously an educator.
+2021-05-20T13:16:21+00:00,1024158600,1024157738,0,Renamed user 150tcy3tya3ql,Roy Blunt,Undid revision 1024157738 by [[Special:Contributions/184.20.254.168|184.20.254.168]] ([[User talk:184.20.254.168|talk]])
+2021-06-04T00:43:16+00:00,1026739347,1025832217,0,Mad Mismagius,Roy Blunt,Undid revision 1023072978 by [[Special:Contributions/172.58.110.248|172.58.110.248]] ([[User talk:172.58.110.248|talk]])
+2021-04-06T09:48:10+00:00,1016278306,1006588982,0,JJMC89 bot III,Roy Edwards (politician),Removing [[:Category:Politicians who died in office]] per [[Wikipedia:Categories for discussion/Log/2021 March 13#Category:Politicians who died in office]]
+2021-05-12T14:32:21+00:00,1022792879,1016182636,0,FreeToDisagree,Ryan Warner,Removed the religion-parameter from the infobox since it is no longer in use.
+2021-04-05T20:33:59+00:00,1016182636,888013120,0,Chsdrummajor07,Ryan Warner,/* External links */
+2021-06-09T04:38:44+00:00,1027644777,1027550487,0,Lotje,Ryan Warner,Fixing CS1 error
+2021-04-17T07:19:02+00:00,1018286092,1017277497,0,RandomUserGuy1738,Sam Graves,Added picture.
+2021-06-01T18:07:04+00:00,1026339457,1026220073,0,Jamesy0627144,Shelley Moore Capito,wikilinks
+2021-05-17T16:58:59+00:00,1023663540,1021810594,0,Novemberjazz,Sheldon Whitehouse,"no, this is Sheldon Whitehouse"
+2021-05-07T20:34:01+00:00,1021998003,1021948406,0,JzG,Shelley Moore Capito,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/PoliticalScientist3|PoliticalScientist3]] ([[User talk:PoliticalScientist3|talk]]): Primary-sourced opinion from a think-tank is [[WP:UNDUE]].
+2021-05-19T18:40:23+00:00,1024034380,1022202944,0,Woko Sapien,Sherrod Brown,/* See also */ updated list
+2021-05-29T18:16:51+00:00,1025811790,1023139257,0,MopTop,Steve Daines,/* Donald Trump */ voted against Jan 6 commission
+2021-05-09T03:25:13+00:00,1022202944,1021810438,0,Politicsfan4,Sherrod Brown,infobox cleanup
+2021-04-22T02:06:54+00:00,1019204967,1018839721,0,Mad Mismagius,Steve Daines,"changed portrait date in caption to 2019, when it was created."
+2021-05-07T20:27:43+00:00,1021997184,1021990624,0,JzG,Steven Palazzo,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/PoliticalScientist3|PoliticalScientist3]] ([[User talk:PoliticalScientist3|talk]]): Primary-sourced opinion from a think-tank is [[WP:UNDUE]].
+2021-06-01T01:53:20+00:00,1026220229,1026198754,0,SeminarianJohn,Susan Collins,/* Political positions */ updated for end of May
+2021-05-07T20:31:48+00:00,1021997699,1021971028,0,JzG,Tammy Baldwin,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/PoliticalScientist3|PoliticalScientist3]] ([[User talk:PoliticalScientist3|talk]]): Primary-sourced opinion from a think-tank is [[WP:UNDUE]].
+2021-05-16T00:55:43+00:00,1023369719,1023180126,0,Mreditoratlast,Tammy Baldwin,
+2021-05-08T08:29:40+00:00,1022070877,1021942853,0,"Dr.Swag Lord, Ph.d",Terri Sewell,Reverting edit(s) by [[Special:Contributions/Academic.student.athlete|Academic.student.athlete]] ([[User_talk:Academic.student.athlete|talk]]) to rev. 1020585893 by 100.12.77.122: Rv sock [[w:en:WP:RW|(RW 16.1)]]
+2021-04-29T22:06:37+00:00,1020585893,1017429186,0,100.12.77.122,Terri Sewell,
+2021-04-30T13:44:15+00:00,1020684630,1020681725,0,Hammersoft,Thom Tillis,rv uncited
+2021-05-29T18:53:11+00:00,1025816560,1023135827,0,MopTop,Thom Tillis,Voted against Jan 6 commission
+2021-05-14T16:20:35+00:00,1023141249,999023575,0,GrahamHardy,Timothy R. Bonner,defsort
+2021-05-16T08:47:39+00:00,1023417986,1022966607,0,AlsoWukai,Tina Smith,Undid revision 1022966607 by [[Special:Contributions/2600:1000:B05B:DAE7:64E4:2D70:B16:4DAD|2600:1000:B05B:DAE7:64E4:2D70:B16:4DAD]] ([[User talk:2600:1000:B05B:DAE7:64E4:2D70:B16:4DAD|talk]])
+2021-01-08T03:37:12+00:00,999023575,998591250,0,Chsdrummajor07,Timothy R. Bonner,/* References */
+2021-05-29T18:57:30+00:00,1025817148,1024365204,0,MopTop,Todd Young,Voted against Jan 6 commission
+2021-05-14T04:02:53+00:00,1023062632,1023041854,0,Peaceray,Tom Carper,Reverting edit(s) by [[Special:Contributions/172.58.110.223|172.58.110.223]] ([[User_talk:172.58.110.223|talk]]) to rev. 1022935632 by Citation bot: Reverting substitution of alt parameter for caption (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]]
+2021-05-26T13:49:40+00:00,1025237591,1025047957,0,M.Bitton,Tom Carper,Reverted 1 edit by [[Special:Contributions/67.80.249.131|67.80.249.131]] ([[User talk:67.80.249.131|talk]]) to last revision by Citation bot
+2021-05-22T23:10:13+00:00,1024570463,1024103319,0,AlsoWukai,Tom Cotton,neutrality
+2021-05-30T11:33:45+00:00,1025927019,998591379,0,Simeon,Tom James (Wyoming politician),"Adding local [[Wikipedia:Short description|short description]]: ""American politician"", overriding Wikidata description ""American politician and surface miner"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-05-11T00:51:15+00:00,1022529089,1021426922,0,JJMC89 bot III,Tom Cotton,Removing [[:Category:Members of the American Legion]] per [[Wikipedia:Categories for discussion/Log/2021 May 2#Category:Members of the American Legion]]
+2021-01-06T02:57:35+00:00,998591379,956872498,0,Ser Amantio di Nicolao,Tom James (Wyoming politician),/* References */add category
+2021-04-28T05:35:44+00:00,1020272961,1020192464,0,Citation bot,Tom McClintock,Alter: title. Add: work. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Deadman137 | [[Category:Members of the United States House of Representatives from California]] | via #UCB_Category 207/385
+2021-05-26T00:26:55+00:00,1025147457,1023975129,0,Thomascampbell123,Tom O'Halleran,Added college
+2021-05-19T11:43:25+00:00,1023975129,1022013305,0,Pvmoutside,Tom O'Halleran,/* External links */
+2021-05-10T05:22:16+00:00,1022377217,1022376215,0,Ser Amantio di Nicolao,User talk:Ser Amantio di Nicolao,/* Martha Berkeley */
+2021-05-26T06:03:59+00:00,1025182710,1024908971,0,Suryabeej,User talk:Ser Amantio di Nicolao,/* Need to talk  */ new section
+2021-05-26T14:41:39+00:00,1025245317,1021996010,0,A wild Rattata,Vicky Hartzler,/* U.S. House of Representatives */
+2021-05-05T13:55:12+00:00,1021577306,1021390180,0,Ser Amantio di Nicolao,User talk:Ser Amantio di Nicolao,/* A barnstar for you! */
+2021-01-06T03:05:37+00:00,998592494,988295371,0,Ser Amantio di Nicolao,Wyatt Agar,add category
+2021-05-11T11:34:05+00:00,1022593279,1022592261,0,EN-Jungwon,User talk:Ser Amantio di Nicolao,Reverted edits by [[Special:Contribs/51.219.21.29|51.219.21.29]] ([[User talk:51.219.21.29|talk]]) to last version by Ser Amantio di Nicolao
+2021-02-02T17:25:38+00:00,1004450724,999101899,0,KingSkyLord,Adrian Smith (politician),/* References */
+2019-06-21T01:40:43+00:00,902757597,902757121,0,Besselfunctions,Andy Biggs,assignments for 116 Congress
+2020-08-29T18:43:38+00:00,975658912,975614751,0,Neutrality,Amy Klobuchar,cite AP directly rather than through tabloid
+2021-01-14T17:44:23+00:00,1000330838,1000330306,0,Unknown0124,Amy Klobuchar,
+2020-02-04T18:33:00+00:00,939155276,936154043,0,Postcard Cathy,Ann Wagner,added [[Category:American women ambassadors]] using [[WP:HC|HotCat]]
+2020-11-04T22:45:41+00:00,987101631,987101581,0,2601:88:8101:E300:B044:95EB:EA81:FC1B,Angus King,
+2021-02-06T03:30:24+00:00,1005131701,1005126407,0,FantinoFalco,Andy Biggs,/* 2021 storming of the United States Capitol */  Vandalism. Please discuss instead of making ridiculous edits
+2019-10-03T08:06:03+00:00,919355213,919022267,0,Ehlla,Ann Kirkpatrick,/* External links */
+2020-11-27T06:26:37+00:00,990914046,990913814,0,24.29.56.240,Ann Kirkpatrick,Filled in 2 bare reference(s) with reFill 2
+2019-06-17T04:36:07+00:00,902183494,901560267,0,Billybob2002,Ann Wagner,
+2019-04-13T14:39:02+00:00,892293631,884051968,0,Cabayi,Ann Wagner,"/* External links */Stick to the standard set of templates, replaced: {{USRSB → {{US House succession box"
+2021-01-28T16:34:34+00:00,1003359013,1003280971,0,2A02:A420:45:72F2:F0DD:2795:2E6B:53B8,Anthony Bouchard,
+2021-03-17T22:37:59+00:00,1012716431,1012693207,0,BlueShirtz,Anthony Bouchard,/* Wyoming Legislature */ added info about Bouchard's congressional campaign
+2021-02-02T02:41:31+00:00,1004332635,1003617743,0,420Prince1012,Barry Moore (Alabama politician),Addded his committee assingments
+2020-03-04T04:56:17+00:00,943837991,928295995,0,Therequiembellishere,Barry Moore (Alabama politician),
+2020-11-25T05:58:17+00:00,990564087,989640927,0,John Broughton,Barry Moore (Alabama politician),Adding info and cites.
+2021-05-31T00:40:19+00:00,1026033201,1026033121,0,Johnjoshua1,Ben Sasse,/* Electoral history */
+2020-02-06T23:55:41+00:00,939520773,938982836,0,Arbor to SJ,Ben Cardin,remove questionable genealogy source.
+2020-01-16T00:48:48+00:00,935988722,926317320,0,Therequiembellishere,Bennie Thompson,
+2020-12-15T18:53:48+00:00,994438334,994438220,0,172.58.107.187,Bennie Thompson,/* Elections */ updated
+2020-08-18T10:52:21+00:00,973641860,968280968,0,SecretName101,Bennie Thompson,/* National politics */ updating language
+2019-11-08T03:36:29+00:00,925146623,923789748,0,Americus55,Bill Cassidy,
+2021-05-17T20:23:41+00:00,1023694774,1023694699,0,DansterTheManster,Bill Cassidy,/* Taxes */ typo fixed
+2020-10-26T23:33:21+00:00,985619912,985619884,0,Donner60,Billy Long,Reverted edits by [[Special:Contributions/2601:601:0:4A20:45C7:8A4F:C6AA:ED74|2601:601:0:4A20:45C7:8A4F:C6AA:ED74]] ([[User talk:2601:601:0:4A20:45C7:8A4F:C6AA:ED74|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2019-07-29T21:14:02+00:00,908458740,902260644,0,174.206.1.115,Blaine Luetkemeyer,/* U.S. House of Representatives */
+2019-11-12T02:50:16+00:00,925752728,923956932,0,HangingCurve,Blaine Luetkemeyer,/* Early life */ St. Elizabeth is near Osage Beach
+2021-02-05T09:32:17+00:00,1004974616,998931099,0,Therequiembellishere,Blaine Luetkemeyer,/* External links */
+2019-07-27T17:11:49+00:00,908129884,906633699,0,2600:100C:B226:F81D:99B9:8E1C:2E60:6628,Billy Long,/* U.S. House of Representatives */
+2018-11-30T17:21:47+00:00,871378288,813972692,0,JoeHebda,Blake Carpenter,/* Category */ rm cat.notice; add auth.control
+2019-04-17T10:41:50+00:00,892860875,890987821,0,Informant16,Bob Casey Jr.,/* Birth control */
+2019-01-11T06:50:27+00:00,877843506,759351342,0,Jack Cox,Bo Biteman,
+2019-07-25T00:01:50+00:00,907743106,906696274,0,M.boli,Bob Casey Jr.,/* Healthcare */ Wikilink Black Lung Disability Trust Fund
+2020-08-11T04:10:44+00:00,972263447,969653985,0,2601:601:80:8090:3896:E28C:651:FBD7,Bob Casey Jr.,
+2019-07-02T00:16:33+00:00,904412351,904160335,0,2607:FEA8:1CA0:738:ECF3:EC32:30A2:F401,Brian Schatz,/* Political positions */
+2020-08-02T21:45:20+00:00,970867326,966624471,0,Volvlogia,Brian Schatz,
+2019-08-04T07:56:27+00:00,909263198,909030915,0,174.206.7.251,Catherine Cortez Masto,/* U.S. Senate */
+2019-06-04T03:03:45+00:00,900202135,900188342,0,Connormah,Chris Coons,Reverted edits by [[Special:Contribs/2600:100F:B002:168A:A143:D034:8487:132E|2600:100F:B002:168A:A143:D034:8487:132E]] ([[User talk:2600:100F:B002:168A:A143:D034:8487:132E|talk]]) to last version by Informant16
+2019-04-04T21:41:08+00:00,890988421,890104471,0,Informant16,Chris Coons,/* Foreign policy */
+2020-12-22T06:36:51+00:00,995669217,994900292,0,GoingBatty,Chris Coons,[[WP:AWB/GF|General fixes]] and manual cleanup
+2019-06-09T13:24:55+00:00,901065861,900202135,0,Balon Greyjoy,Chris Coons,replacing curly quotation marks and apostrophes with straight ones (via [[WP:JWB]])
+2020-02-24T04:15:29+00:00,942351458,942351350,0,124.150.90.53,Catherine Cortez Masto,/* Political positions */
+2019-04-22T16:17:18+00:00,893629634,893628775,0,2600:387:5:803:0:0:0:3C,Chris Murphy,/* U.S. Senate */
+2019-05-03T11:36:44+00:00,895310707,895310505,0,Wukai,Chris Van Hollen,
+2020-02-14T14:26:26+00:00,940769869,940767978,0,Adavidb,Chris Van Hollen,"/* top */ expanded source citations, including archive info for a dead link"
+2019-08-02T11:14:20+00:00,908998036,906378178,0,98.160.114.41,Dan Sullivan (U.S. senator),/* Early life and education */
+2020-06-19T12:02:11+00:00,963364403,963364289,0,Érico,Cindy Hyde-Smith,Reverted edits by [[Special:Contributions/208.84.193.33|208.84.193.33]] ([[User talk:208.84.193.33|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-05-20T16:01:48+00:00,957793798,957675883,0,TrynaBallWithMyBros,Dan Sullivan (U.S. senator),"clean up, removed unnecessary wikilinks"
+2020-06-06T15:06:31+00:00,961090447,961090175,0,LuK3,David H. Rowe,Reverted to revision 960946258 by [[Special:Contributions/Vycl1994|Vycl1994]] ([[User talk:Vycl1994|talk]]): The source does not back up that claim ([[WP:TW|TW]])
+2020-06-22T19:44:51+00:00,963959518,948655700,0,Jack17212,Dawn Keefer,
+2019-09-13T08:04:02+00:00,915436445,907760739,0,68.102.175.152,Dawn Keefer,"Added rating by American Conservative Union taken from the cited Project Vote Smart and category based upon it,"
+2019-11-05T17:14:19+00:00,924737900,923624787,0,GeauxDevils,Deb Fischer,/* Israel Anti-Boycott Act */ Being one of 47 cosponsors of a bill that has gone nowhere is not newsworthy or deserving of its own section--nor is she even mentioned by name in the source included.
+2019-08-04T06:58:50+00:00,909258848,908940886,0,AnomieBOT,Deb Fischer,"Rescuing orphaned refs (""NE_primary"" from [[2012 United States Senate election in Nebraska]])"
+2019-06-18T15:03:17+00:00,902397961,897243771,0,Balon Greyjoy,Deb Fischer,"replacing curly quotation marks/apostrophes with straight ones, per [[MOS:']]  (via [[WP:JWB]])"
+2021-02-02T10:07:12+00:00,1004384012,1004383070,0,2600:1014:B103:5CE9:BDBC:641B:EA59:E807,Deb Fischer,/* Personal life */
+2020-10-01T17:41:38+00:00,981332202,981330967,0,LindsayH,Dick Durbin,Repair CS1 error(s)
+2020-08-20T05:57:17+00:00,973949521,972569115,0,RoundSquare,Debbie Stabenow,
+2020-04-09T19:40:00+00:00,950011054,948427546,0,2600:1700:2CC0:DAC0:48A:B021:9706:B4BF,Dick Durbin,/* U.S. Senate */
+2020-07-22T09:34:47+00:00,968921140,968768824,0,Kj cheetham,Dina Titus,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""U.S. Representative from Nevada"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2019-05-03T02:15:45+00:00,895265574,895264084,0,Shenme,Don Bacon,Undid revision 895264084 by [[Special:Contributions/2600:8804:1F01:3750:E8E3:7D4D:CEC7:F374|2600:8804:1F01:3750:E8E3:7D4D:CEC7:F374]] ([[User talk:2600:8804:1F01:3750:E8E3:7D4D:CEC7:F374|talk]])
+2020-02-10T20:01:37+00:00,940144243,939974582,0,38.110.51.42,Dina Titus,/* Caucus memberships */
+2020-11-05T04:49:37+00:00,987140818,986024153,0,107.197.44.171,Dick Durbin,/* U.S. Senate */
+2019-10-23T02:52:07+00:00,922594310,922594269,0,Bobbychan193,Debbie Stabenow,/* Education */
+2020-11-08T09:12:06+00:00,987633321,986986697,0,46.208.152.69,Don Young,"/* Healthcare legislation */ fixed some seriously inept writing - failure to use paragraphs in any coherent way, lazy use of contractions, etc etc"
+2020-09-08T18:34:10+00:00,977417052,975571782,0,XXThePhischXx,Don Young,"/* Post Office */ If we are talking about H.R.8015 - Delivering for America Act, then it should be billions and not trillions"
+2021-01-14T15:09:05+00:00,1000299655,999387398,0,HangingCurve,Emanuel Cleaver,/* Political campaigns */ reverted to form
+2020-05-16T23:30:20+00:00,957090380,952592084,0,Avman89,Don Young,"/* ""Bridge to Nowhere"" */ spelling"
+2019-06-17T04:37:22+00:00,902183588,900404032,0,2600:100C:B225:34B:8168:56FA:808F:7AB9,Gary Palmer (politician),
+2019-07-26T17:18:49+00:00,907992422,907992107,0,Diannaa,Gary Peters,"Attribution: content in this article was copied from [[Seth Moulton]] on July 25, 2019. Please see the history of that page for full attribution."
+2020-06-30T20:45:30+00:00,965352881,965349794,0,AnomieBOT,Gary Peters,Dating maintenance tags: {{Deadlink}}
+2020-11-28T10:42:12+00:00,991120077,991077132,0,R'n'B,Greg Rothman,Disambiguating links to [[Trump]] (link changed to [[Trump (president)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2018-09-27T12:29:32+00:00,861436397,785970512,0,Alaney2k,Garry Piiparinen,/* top */US => Americans; reduce overlinking
+2019-12-30T09:04:05+00:00,933163259,929343896,0,68.102.175.172,Hal Rogers,Added category American conservative people as the article refers to his conservative voting record.
+2019-08-01T08:55:49+00:00,908833670,908787177,0,CycloneYoris,Hal Rogers,/* Electoral history */ corrections.
+2020-12-05T08:50:57+00:00,992445128,992444996,0,OccasionalEditor30,Hal Rogers,/* Electoral history */
+2021-02-16T22:42:09+00:00,1007194107,1007168166,0,65.122.179.250,Jack Reed (Rhode Island politician),/* Committee assignments */
+2019-06-01T14:28:00+00:00,899807711,897431922,0,Ben76266,Jack Reed (Rhode Island politician),
+2020-08-24T00:51:52+00:00,974617539,966688339,0,Ben76266,Jack Reed (Rhode Island politician),
+2020-02-29T22:16:01+00:00,943269867,938109939,0,Tinton5,Jacky Rosen,
+2020-04-27T04:18:55+00:00,953401139,952309924,0,209.166.108.199,Jacky Rosen,/* External links */
+2019-11-06T17:19:49+00:00,924905380,923270559,0,Sun Creator,Jason Smith (American politician),"[[WP:AWB/GF|General fixes]], [[WP:AWB/T|typo(s) fixed]]: law makers → lawmakers"
+2020-06-21T07:49:11+00:00,963695290,963391219,0,2601:1C0:4600:A210:1D18:C4B4:D5D7:E2CB,James Lankford,/* Electoral history */
+2020-01-01T22:34:21+00:00,933586523,933438409,0,2601:981:4300:7480:FC93:5080:DAD3:B2DE,James Lankford,
+2019-06-17T18:53:58+00:00,902275451,900631274,0,Ken Gallager,Jeanne Shaheen,link
+2020-02-24T23:59:00+00:00,942487444,942487103,0,All Hallow's Wraith,Jeanne Shaheen,"/* External links */ she's not self-id'd, she has a genealogical, traced, link"
+2019-11-12T03:30:27+00:00,925757128,925734844,0,Baane247,Jeff Merkley,Undid revision 925734844 by [[Special:Contributions/97.88.226.68|97.88.226.68]] ([[User talk:97.88.226.68|talk]])
+2019-06-20T20:48:22+00:00,902729201,902728463,0,Informant16,Jerry Moran,/* National security and military */
+2019-11-06T23:53:12+00:00,924960664,924277281,0,Snickers2686,Jim Risch,/* External links */
+2020-06-18T17:11:19+00:00,963231753,962699294,0,Display name 99,Joe Manchin,/* 2012 */ Add link.
+2020-03-29T19:33:26+00:00,948026090,946863344,0,Sunnybadman,Joe Manchin,
+2020-12-01T18:14:43+00:00,991762014,991761908,0,Materialscientist,Joe Manchin,Reverted edits by [[Special:Contributions/79.35.180.107|79.35.180.107]] ([[User talk:79.35.180.107|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-07-29T23:24:14+00:00,970212997,969917646,0,2601:88:8101:E300:64AB:8B1D:A3B0:E720,John Barrasso,"/* Early life, education, and medical career */"
+2021-02-23T14:45:55+00:00,1008481442,1008360679,0,2600:6C64:507F:E6E1:F5A5:1BDA:905B:444F,John Barrasso,/* Environment */ LCV score has decreased and has been updated
+2019-07-03T03:59:24+00:00,904587553,902624903,0,Therequiembellishere,Jim Risch,
+2020-08-13T04:03:29+00:00,972636631,970212997,0,2601:88:8101:E300:4965:8904:5737:EFB3,John Barrasso,
+2021-03-18T07:01:21+00:00,1012772482,1010769582,0,2601:549:4304:8010:A0F2:F1B7:A145:2D70,John Boozman,/* Personal life */
+2019-07-03T08:32:59+00:00,904610881,900610782,0,174.206.5.113,John Boozman,/* 2016 election */
+2019-06-06T17:01:45+00:00,900610782,900609124,0,HaeB,John Boozman,Reverted 1 edit by [[Special:Contributions/12.186.81.251|12.186.81.251]] ([[User talk:12.186.81.251|talk]]): [[WP:EL]] ([[WP:TW|TW]])
+2019-10-30T20:00:15+00:00,923790605,923640195,0,Activist,John Cornyn,Reverted edits by [[Special:Contribs/Nacamier Nunoi|Nacamier Nunoi]] ([[User talk:Nacamier Nunoi|talk]]) to last version by Tobby72
+2020-05-11T02:40:35+00:00,956017248,954682408,0,BD2412,John Hoeven,{{redirect|Senator Hoeven|the Iowa state senate member|Charles B. Hoeven}}
+2019-12-05T04:14:42+00:00,929336197,928273001,0,MoorePhin,John Boozman,/* Arkansas history */ Added photo
+2019-06-16T07:27:15+00:00,902058345,899167342,0,ImperfectlyInformed,John Hoeven,add mention of climate change position
+2021-03-03T04:27:37+00:00,1009965449,1009561370,0,TommyBoy,John Kennedy (Louisiana politician),
+2020-02-18T03:03:55+00:00,941358501,939429943,0,DemonDays64 Bot,John Hoeven,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2019-05-18T14:18:19+00:00,897656180,896219491,0,2600:1702:1E51:1890:551E:DE8E:F4FA:2671,John Kennedy (Louisiana politician),Not relevant to bio
+2021-04-22T14:23:53+00:00,1019289415,1018838941,0,2600:1004:B018:BC4F:A174:9F9A:FFDE:3766,John Kennedy (Louisiana politician),/* 2020 presidential election */Improved readability
+2020-02-18T00:29:03+00:00,941336885,941332864,0,TommyBoy,John Kennedy (Louisiana politician),/* Treasurer of Louisiana */Grammar correction
+2020-07-14T11:08:40+00:00,967631797,966565042,0,EditQwerty,John Thune,Reference edited with [[Wikipedia:ProveIt|ProveIt]]
+2020-10-02T22:50:28+00:00,981538420,980605760,0,Moriori,Joni Ernst,/* Tenure */ not speaking in the image
+2019-05-21T10:07:28+00:00,898092187,898033231,0,Cabayi,Ken Buck,"/* External links */Template renamed. Stick to the standard set of templates, replaced: {{USRepSuccessionBox → {{US House succession box"
+2020-12-11T12:03:26+00:00,993591569,992935907,0,Cpotisch,Joni Ernst,Added link to “I’m not a scientist”
+2019-10-21T17:26:08+00:00,922361508,921971732,0,Paleontologist99,Ken Calvert,added [[Category:American gun rights advocates]] using [[WP:HC|HotCat]]
+2019-04-13T15:26:46+00:00,892299248,877014967,0,Cabayi,Ken Calvert,"/* External links */Template renamed. Stick to the standard set of templates, replaced: {{USRepSuccessionBox → {{US House succession box (3)"
+2019-07-20T07:16:20+00:00,907065037,907064313,0,Billmckern,Kirsten Gillibrand,references
+2019-10-30T19:26:20+00:00,923785381,923785293,0,Ubiquity,Kirsten Gillibrand,Reverted 1 edit by [[Special:Contributions/50.30.140.23|50.30.140.23]] ([[User talk:50.30.140.23|talk]]) to last revision by Hydromania ([[WP:TW|TW]])
+2021-02-01T20:39:31+00:00,1004268911,1002870615,0,420Prince1012,Lance Gooden,Fixed a formatting error
+2021-03-02T01:39:01+00:00,1009733694,1007776289,0,DumbBOT,Lisa Murkowski,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2020-10-13T04:31:11+00:00,983250217,982772136,0,Shadowhen,Lisa Murkowski,Undid revision 982772136 by [[Special:Contributions/99.203.22.119|99.203.22.119]] ([[User talk:99.203.22.119|talk]]) readded caption
+2019-08-02T01:53:04+00:00,908949969,908949886,0,190.58.52.33,Lisa Murkowski,
+2020-06-25T13:23:22+00:00,964432079,949944463,0,Jgeorge20,Lynn Hutchings,/* Comments on death penalty */
+2020-04-25T09:11:45+00:00,953025667,951313518,0,Tvlover19,Maggie Hassan,/* Firearms */
+2019-12-23T14:26:29+00:00,932111121,931095436,0,Genieglimmer,Maggie Hassan,
+2019-04-16T02:41:01+00:00,892670374,887835412,0,Shivertimbers433,Maria Cantwell,
+2019-10-13T02:46:56+00:00,920977183,917162280,0,Ad Orientem,Maria Cantwell,Removing link(s): [[Wikipedia:Articles for deletion/Blue–green alliance]] closed as delete ([[WP:XFDC|XFDcloser]])
+2021-01-07T03:30:01+00:00,998808119,998659364,0,Paintspot,Mark Amodei,"Respell template (often very helpful, for those who don't speak IPA)."
+2020-03-21T23:06:18+00:00,946712198,869635472,0,Plandu,Mark Jennings (politician),
+2019-08-11T04:24:42+00:00,910307231,896226804,0,47.16.106.69,Lynn Hutchings,
+2020-12-24T14:25:56+00:00,996096106,995926125,0,24.210.149.3,Mark Kelly,/* 2020 special election */
+2020-02-10T14:36:55+00:00,940096950,940096362,0,DemocraticLuntz,Mark Kelly,Reverted 1 edit by [[Special:Contributions/66.232.217.186|66.232.217.186]] identified as test/vandalism using [[WP:STiki|STiki]]
+2020-01-19T01:17:36+00:00,936464496,936157810,0,Davemck,Mark Kelly,format refs
+2020-08-01T22:39:20+00:00,970707256,969872297,0,Dcfc1988,Mark Kelly,
+2020-01-16T01:04:05+00:00,935990612,933298428,0,Therequiembellishere,Mark Warner,
+2019-09-04T07:54:05+00:00,913954233,913950366,0,Ward20,Marsha Blackburn,"/* LGBT rights */add secondary source, remove tag"
+2020-09-02T12:04:36+00:00,976337889,976337570,0,Bneu2013,Marsha Blackburn,Undid revision 976337570 by [[Special:Contributions/2601:484:C580:3F40:30E8:78A8:D30C:1D9D|2601:484:C580:3F40:30E8:78A8:D30C:1D9D]] ([[User talk:2601:484:C580:3F40:30E8:78A8:D30C:1D9D|talk]]) - loaded language; discuss on talk page
+2020-11-29T08:29:11+00:00,991290335,990407203,0,Corkythehornetfan,Martin Heinrich,
+2020-02-04T19:29:49+00:00,939163905,925141730,0,107.26.156.167,Martin Heinrich,Update
+2020-01-19T13:40:06+00:00,936531718,933467340,0,DumbBOT,Marsha Blackburn,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2020-04-16T23:55:45+00:00,951400544,951399496,0,Newyorkbrad,Mazie Hirono,Reverted edits by [[Special:Contribs/32.214.185.144|32.214.185.144]] ([[User talk:32.214.185.144|talk]]) to last version by JJMC89 bot III
+2020-05-10T22:05:06+00:00,955983601,955983021,0,Adavidb,Mazie Hirono,"/* top */ rejoined ""Although..."" introduction with a comma; replaced posessive pronoun with name for clarity; adjusted verb tense (terms... make)"
+2020-10-13T00:30:26+00:00,983225529,983219902,0,力,Mazie Hirono,Reverted 1 edit by [[Special:Contributions/Suthec2197|Suthec2197]] ([[User talk:Suthec2197|talk]]) to last revision by Woko Sapien
+2021-05-22T10:59:56+00:00,1024477861,1024477643,0,Thomas C. Well,Mark Warner,
+2019-10-03T23:20:45+00:00,919480015,919459979,0,Corkythehornetfan,Mazie Hirono,Reverted edits by [[Special:Contribs/208.76.113.2|208.76.113.2]] ([[User talk:208.76.113.2|talk]]) to last version by Adavidb
+2020-03-08T05:56:46+00:00,944498403,944497855,0,Emk9,Michael Bennet,Undid revision 944497855 by [[Special:Contributions/2601:600:9880:55E0:8C97:FC6A:FDE9:BCB6|2601:600:9880:55E0:8C97:FC6A:FDE9:BCB6]] ([[User talk:2601:600:9880:55E0:8C97:FC6A:FDE9:BCB6|talk]]) reverting vandalism
+2020-04-03T15:07:40+00:00,948878381,948816300,0,Jon698,Michael Bennet,
+2019-11-03T20:43:15+00:00,924432141,924340962,0,BlueShirtz,Michael Bennet,added links to the Wikipedia page about Bennet's campaign
+2019-05-11T09:16:05+00:00,896555897,896225580,0,Dcfc1988,Michael Bennet,/* Career before U.S. Senate */
+2020-08-18T13:24:41+00:00,973657857,970684880,0,Plandu,Michael Cloud,
+2019-07-21T22:43:32+00:00,907296778,887679379,0,68.102.175.152,Michael Houser (politician),Added evaluation by American Conservative Union as shown in the cited Vote Smart site and appropriate category.
+2019-12-11T05:48:10+00:00,930248209,929804024,0,PhilipR,Mike Crapo,rv unsubstantiated change in pronunciation. Assuming it was an undetected joke. 925451645 by [[Special:Contributions/Teiu88|Teiu88]] ([[User talk:Teiu88|talk]])
+2020-08-10T17:42:32+00:00,972188268,969177845,0,Oeoi,Mike Braun,
+2020-01-20T17:41:10+00:00,936731723,927525246,0,EdwardsCluaser,Mike Rounds,/* Elections */
+2019-10-22T03:50:23+00:00,922437844,922437767,0,Paleontologist99,Mike Rounds,/* Positions */
+2019-07-30T07:59:50+00:00,908522194,902869832,0,174.206.15.181,Mo Brooks,/* U.S. House of Representatives */
+2019-12-07T21:08:33+00:00,929730206,929730125,0,72.86.137.7,Pat Toomey,/* Impeaching President Donald Trump */
+2019-09-05T13:49:00+00:00,914148713,911729728,0,Tobby72,Pat Toomey,add info
+2020-07-14T22:58:32+00:00,967727846,967727784,0,ImTheIP,Patrick Leahy,/* Human rights */
+2020-05-18T21:34:35+00:00,957440947,956404127,0,Valenciano,Patty Murray,not needed
+2019-06-16T21:05:37+00:00,902140408,901872434,0,86.162.253.246,Patty Murray,
+2019-03-28T13:49:07+00:00,889867662,889713569,0,Psyden,Paul Schemel,"Ward said ""hard no"""
+2020-05-03T16:02:19+00:00,954655358,889867662,0,Lepricavark,Paul Schemel,"Adding local [[Wikipedia:Short description|short description]]: ""American politician"", overriding Wikidata description ""politician"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2019-02-18T00:59:34+00:00,883850230,883849925,0,77.173.90.33,Randy Garber (politician),/* Biography */ Fixing dead link.
+2020-01-30T21:03:15+00:00,938381958,924555408,0,Quorum816,Randy Garber (politician),/* Political career */ Added additional information regarding political career and citations
+2020-04-06T22:03:22+00:00,949511778,948427650,0,2601:241:301:4360:B12A:4B0C:F644:122D,Raúl Grijalva,/* External links */
+2021-01-13T21:13:28+00:00,1000153210,1000134907,0,SporkBot,Renee Erickson (politician),Repair [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]]
+2019-11-30T00:38:20+00:00,928547138,928547040,0,Acroterion,Richard Blumenthal,Reverted edits by [[Special:Contribs/2001:48F8:4059:785:8D3B:E87F:6C2F:C6DC|2001:48F8:4059:785:8D3B:E87F:6C2F:C6DC]] ([[User talk:2001:48F8:4059:785:8D3B:E87F:6C2F:C6DC|talk]]) to last version by Lvsz
+2020-11-10T13:53:31+00:00,987999425,982384724,0,All Hallow's Wraith,Richard Burr,"/* Early life, education, and business career */ add"
+2020-02-09T18:17:48+00:00,939950817,939635565,0,RedHotPear,Richard Blumenthal,Harvard uses the AB abbreviation
+2021-03-05T00:14:54+00:00,1010337251,1010337016,0,SocialistJason,Richard Blumenthal,/* Committee assignments */
+2020-02-01T01:40:16+00:00,938576943,938576901,0,つがる,Richard Burr,Reverted edits by [[Special:Contributions/69.80.136.14|69.80.136.14]] ([[User talk:69.80.136.14|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2020-07-08T17:49:52+00:00,966704663,966248481,0,Norman R MacDonald,Richard Burr,Added information.
+2020-07-30T13:06:51+00:00,970293118,966704663,0,R'n'B,Richard Burr,Disambiguated: [[Intelligencer]] → [[Intelligencer (website)]]
+2019-10-24T11:42:21+00:00,922799248,920350015,0,FieldMarine,Richard Shelby,/* External links */ + cat.
+2020-02-17T16:45:32+00:00,941276304,939834387,0,DemonDays64 Bot,Richard Shelby,HTTPS security. [[User talk:DemonDays64|tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2019-10-06T18:52:19+00:00,919934076,919696430,0,Wow,Robert Aderholt,Undid revision 919696430 by [[Special:Contributions/2601:600:9880:55E0:7153:84CA:14BD:86D6|2601:600:9880:55E0:7153:84CA:14BD:86D6]] ([[User talk:2601:600:9880:55E0:7153:84CA:14BD:86D6|talk]])
+2019-10-30T13:38:33+00:00,923737088,923736798,0,Aboideau,Robert Aderholt,Undid revision 923736798 by [[Special:Contributions/Nacamier Nunoi|Nacamier Nunoi]] ([[User talk:Nacamier Nunoi|talk]]) not really appropriate in the lead
+2019-12-27T20:14:11+00:00,932716342,927439104,0,153.25.178.61,Roger Wicker,"/* Committee Assignments, 115th Congress */"
+2019-03-28T00:29:55+00:00,889795544,889795355,0,66.186.236.125,Roger Wicker,/* Electoral history */ corrected my own mistake (numbers in the wrong box)
+2019-07-03T03:53:10+00:00,904581419,902992301,0,JJMC89,Roger Wicker,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Air Force]] ([[User:Evad37/Xunlink|Xunlink]])
+2021-02-11T00:08:23+00:00,1006088926,1005401019,0,Ryme071,Ron Wyden,updated accordingly to current events
+2020-02-12T13:20:49+00:00,940424517,940049602,0,Therequiembellishere,Ron Wyden,
+2020-05-05T07:01:09+00:00,954965844,954965739,0,2605:E000:141A:551D:DDCC:1965:FAB5:D0A0,Roy Blunt,Republican Party
+2019-04-19T18:49:53+00:00,893202227,892305788,0,Matthiaspaul,Roy Blunt,+link
+2019-10-06T07:59:18+00:00,919860395,919860216,0,DocWatson42,Roy Blunt,"/* Early life, education and career */ Cleaned up references and other matters."
+2020-02-21T01:14:27+00:00,941846842,941846459,0,RoundSquare,Roy Edwards (politician),
+2019-10-26T04:00:32+00:00,923067977,921710896,0,Paleontologist99,Sam Graves,/* External links */
+2019-02-20T06:19:57+00:00,884212506,882802292,0,108.166.141.146,Sam Graves,"/* Early life, education and career */"
+2020-06-18T06:41:07+00:00,963159754,961737614,0,JaredDLarsen,Shelley Moore Capito,
+2020-06-28T23:51:30+00:00,965025905,963815842,0,Bender the Bot,Sherrod Brown,"HTTP → HTTPS for [[ABC News]], replaced: http://abcnews.go.com/ → https://abcnews.go.com/ (6)"
+2020-10-10T22:30:53+00:00,982876700,982770527,0,Shadowhen,Sherrod Brown,Undid revision 982770470 by [[Special:Contributions/99.203.22.119|99.203.22.119]] ([[User talk:99.203.22.119|talk]]) It was better before with caption
+2019-07-18T20:58:56+00:00,906872647,906492114,0,2600:6C67:6C7F:A67A:F08F:1F47:1D55:37C9,Steve Daines,/* Early life and education */
+2019-04-30T05:41:22+00:00,894815635,888702927,0,Connormah,Steve Daines,2019 photo
+2020-03-10T21:40:47+00:00,944947876,944302184,0,47.223.78.205,Steve Daines,
+2019-06-26T02:47:52+00:00,903502443,899624987,0,JJMC89,Steven Palazzo,Removing link(s): [[Wikipedia:Miscellany for deletion/Portal:United States Army]] ([[User:Evad37/Xunlink|Xunlink]])
+2019-06-20T04:05:17+00:00,902626554,902625788,0,Hydromania,Susan Collins,"reword, trim"
+2019-07-30T04:13:21+00:00,908503056,908274956,0,174.206.1.112,Terri Sewell,/* U.S. House of Representatives */
+2019-10-28T00:09:44+00:00,923348779,922765574,0,Display name 99,Tammy Baldwin,"55%-45% is not a landslide. A solid victory yes, but not a landslide."
+2020-10-25T17:11:02+00:00,985383160,983295037,0,HeliosX,Terri Sewell,
+2020-03-20T06:43:39+00:00,946449701,946050798,0,PoliteBrite,Terri Sewell,Adding link
+2019-03-16T05:14:51+00:00,887991362,887991300,0,SunCrow,Thom Tillis,/* Personal life */ add info
+2020-05-20T04:33:26+00:00,957706082,957681116,0,ILovetoEditWikis,Thom Tillis,/* Internet and technology */ Added May 2020 FISA vote
+2020-06-23T03:59:51+00:00,964021861,960450901,0,Adavidb,Timothy R. Bonner,/* References */ +templates
+2020-02-16T08:09:56+00:00,941046169,939308399,0,47.223.78.205,Tina Smith,
+2019-11-08T02:17:51+00:00,925137304,925112199,0,Bobamnertiopsis,Tina Smith,Reverted to revision 918932430 by [[Special:Contributions/Rich Farmbrough|Rich Farmbrough]] ([[User talk:Rich Farmbrough|talk]]): Dayton was gov when smith was lt gov ([[WP:TW|TW]])
+2019-05-04T12:02:55+00:00,895459833,892860707,0,Ben76266,Tom Carper,
+2019-06-20T20:40:25+00:00,902728389,902667715,0,Informant16,Todd Young,/* Foreign policy */
+2019-08-01T23:18:18+00:00,908932959,908925784,0,Notwally,Tom Carper,Reverted 1 edit by [[Special:Contributions/KingOpti101|KingOpti101]] ([[User talk:KingOpti101|talk]]): This information is already included in another table on the page ([[WP:TW|TW]])
+2020-11-04T02:30:10+00:00,986975553,986975470,0,74.96.68.162,Tom Cotton,/* Coronavirus */
+2020-10-11T01:34:47+00:00,982898242,982787081,0,MarioBayo,Tom Cotton,/* U.S. House of Representatives (2013-2015) */
+2020-08-11T17:54:11+00:00,972372642,972372630,0,ClueBot NG,Tom Cotton,"Reverting possible vandalism by [[Special:Contribs/71.202.39.43|71.202.39.43]] to version by Philip Cross. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3754715) (Bot)"
+2020-05-15T19:42:26+00:00,956872498,955765772,0,Bamyers99,Tom James (Wyoming politician),+[[Category:Year of birth missing (living people)]]; +[[Category:Living people]] using [[WP:HC|HotCat]]
+2021-03-28T23:03:23+00:00,1014761351,1014621627,0,420Prince1012,Tom McClintock,/* Legislation */
+2019-07-12T20:24:49+00:00,905984420,905984032,0,Kaitlinhooker,Tom O'Halleran,edited links for new committee assignments
+2019-11-03T17:01:08+00:00,924402144,922482910,0,2600:100C:B224:67FD:625A:620E:700E:A476,Tom O'Halleran,
+2020-06-13T02:59:23+00:00,962273907,959602629,0,Plissentique,Tom O'Halleran,
+2020-11-12T00:43:59+00:00,988249154,983704871,0,Buidhe,Vicky Hartzler,link [[arbitrary arrest and detention|arbitrary arrest]] using [[:en:User:Edward/Find link|Find link]]
+2019-08-19T21:32:05+00:00,911592835,910986513,0,173.184.187.182,Vicky Hartzler,/* Positions */  rewrite of stance for neutrality
+2019-06-21T23:56:23+00:00,902884295,869453081,0,2A02:6EA0:C112:0:0:0:0:2,Wyatt Agar,
+2021-02-05T23:44:17+00:00,1005094817,1005015941,0,Vermont,User talk:Ser Amantio di Nicolao,merchandise giveawy nomination
+2020-11-12T06:56:39+00:00,988286120,987952545,0,Squeeps10,User talk:Ser Amantio di Nicolao,Notification: [[Wikipedia:Articles for deletion/Ram Bow Bluff|nomination]] of [[:Ram Bow Bluff]]  at [[WP:AFD|articles for deletion]].

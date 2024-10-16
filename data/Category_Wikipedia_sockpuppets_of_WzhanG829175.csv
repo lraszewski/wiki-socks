@@ -1,0 +1,171 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-07-21T21:29:55+00:00,1034795461,1034620894,1,WzhanG829175,Omega-3 fatty acid,
+2021-06-27T17:06:29+00:00,1030718373,1030455755,1,WzhanG829175,Heart rate,
+2021-06-17T20:54:52+00:00,1029092024,1029064574,1,WzhanG829175,Chronotropic,
+2021-06-17T17:37:07+00:00,1029064574,1029057562,1,WzhanG829175,Chronotropic,
+2021-06-17T16:45:23+00:00,1029057562,1012286588,1,WzhanG829175,Chronotropic,
+2021-02-19T22:35:22+00:00,1007783586,1007725538,1,WzhanG829175,Omega-3 fatty acid,
+2021-02-19T16:33:31+00:00,1007725538,1006643812,1,WzhanG829175,Omega-3 fatty acid,
+2020-12-23T20:25:19+00:00,995963485,963438603,1,WzhanG829175,Guanethidine,/* Uses */
+2020-08-23T19:52:13+00:00,974576085,974575674,1,WzhanG829175,Calcineurin,
+2020-08-23T19:50:30+00:00,974575674,951398607,1,WzhanG829175,Calcineurin,Add subtitle: Hypertension
+2020-08-23T18:06:27+00:00,974557740,955834894,1,WzhanG829175,Baroreceptor,added baroreceptor resetting
+2020-08-23T16:35:41+00:00,974542132,967595308,1,WzhanG829175,Baroreflex,
+2020-08-23T16:32:49+00:00,974541688,974541145,1,WzhanG829175,Heart rate,deleted a redundant ref
+2020-08-23T16:29:03+00:00,974541145,973218484,1,WzhanG829175,Heart rate,deleted a redundant ref
+2020-08-16T01:22:08+00:00,973218484,973216368,1,WzhanG829175,Heart rate,Added a reference https://pubmed.ncbi.nlm.nih.gov/19022405/ and slightly modified the first paragraph.
+2020-08-16T01:06:31+00:00,973216368,973216096,1,WzhanG829175,Heart rate,Added a reference
+2020-08-16T01:04:59+00:00,973216096,973215851,1,WzhanG829175,Heart rate,
+2020-08-16T01:03:11+00:00,973215851,973215706,1,WzhanG829175,Heart rate,
+2020-08-16T01:02:02+00:00,973215706,973147175,1,WzhanG829175,Heart rate,added DOI: 10.1016/j.arr.2008.10.001
+2020-08-15T17:10:19+00:00,973147631,973140993,1,WzhanG829175,Metabolic syndrome,
+2020-08-15T17:06:28+00:00,973147175,972728360,1,WzhanG829175,Heart rate,Added a reference: https://pubmed.ncbi.nlm.nih.gov/25179964/
+2020-08-15T16:20:04+00:00,973140993,964654451,1,WzhanG829175,Metabolic syndrome,Added a reference: https://pubmed.ncbi.nlm.nih.gov/25179964/
+2016-10-11T16:28:59+00:00,743848948,743848534,1,WzhanG829175,Omega-3 fatty acid,/* External links */
+2016-10-11T16:26:22+00:00,743848534,743847950,1,WzhanG829175,Omega-3 fatty acid,/* Other sources */
+2016-10-11T16:22:30+00:00,743847950,743847716,1,WzhanG829175,Omega-3 fatty acid,/* References */
+2016-10-11T16:21:09+00:00,743847716,743683515,1,WzhanG829175,Omega-3 fatty acid,/* References */
+2012-03-11T14:20:27+00:00,481329295,481327994,1,WzhanG829175,Arginine,/* Potential medical uses */
+2012-03-11T14:09:43+00:00,481327994,481327645,1,WzhanG829175,Arginine,/* Potential medical uses */
+2012-03-11T14:06:32+00:00,481327645,481327433,1,WzhanG829175,Arginine,/* Potential medical uses */
+2012-03-11T14:04:29+00:00,481327433,481318495,1,WzhanG829175,Arginine,/* Potential medical uses */
+2012-03-11T12:40:36+00:00,481318495,481299102,1,WzhanG829175,Arginine,/* Potential medical uses */
+2021-07-23T17:03:05+00:00,1035097168,1034267555,1,Nephele1,Heart rate,
+2021-07-22T13:52:52+00:00,1034907279,1034793138,1,Nephele1,Chronotropic,
+2021-07-21T21:11:35+00:00,1034793138,1030718581,1,Nephele1,Chronotropic,
+2017-12-18T04:10:44+00:00,815932495,810014711,0,JJMC89,Arginine,"[[WP:FIX]] + [[WP:GENFIXES|general fixes]], [[WP:AWB/T|typo(s) fixed]]: by by → by"
+2015-02-23T01:13:02+00:00,648406824,635059772,0,Jelly Bean MD,Baroreflex,/* Anatomy of the reflex */
+2018-11-15T22:40:37+00:00,869022747,868580279,0,Will-o-the-west,Arginine,/* Growth hormone */ removed incorrect hyphen
+2020-01-07T02:00:52+00:00,934533444,934527554,0,MrOllie,Arginine,Reverted to revision 931716195 by [[Special:Contributions/Mdewman6|Mdewman6]] ([[User talk:Mdewman6|talk]]): Restore cites ([[WP:TW|TW]])
+2019-04-07T18:27:45+00:00,891399206,891066599,0,107.77.234.12,Arginine,There is no evidence for any of this.
+2020-01-20T17:24:02+00:00,936729695,936458219,0,129.67.74.221,Arginine,corrected guandino (incorrect) to guanidino (correct).
+2012-03-25T20:40:25+00:00,483901482,481739382,0,Alan Liefting,Calcineurin,"cleanup, removed stub tag using [[Project:AWB|AWB]]"
+2019-03-30T13:52:46+00:00,890153025,885459575,0,Trappist the monk,Baroreflex,/* top */ cite repair;
+2014-01-05T05:51:22+00:00,589247857,585432810,0,Larry Hockett,Chronotropic,medicine stub → pharm stub
+2018-06-10T08:09:25+00:00,845218394,845218206,0,VexorAbVikipædia,Arginine,"/* History */ Added link to Wiki article ""S.P.L. Sørensen"""
+2018-04-19T12:32:29+00:00,837213491,837213302,0,Darrel francis,Baroreceptor,/* Arterial baroreceptors */ Adding citation
+2019-11-03T18:21:15+00:00,924412210,919605368,0,Sun Creator,Calcineurin,"/* Rheumatic diseases */[[WP:AWB/GF|General fixes]], [[WP:AWB/T|typo(s) fixed]]: ’s → 's"
+2017-03-04T20:13:18+00:00,768605185,740161102,0,PrimeBOT,Chronotropic,/* References */rmv template being deleted - [[Wikipedia:Templates for discussion/Log/2017 February 20|TFD]] - [[Wikipedia:Bots/Requests for approval/PrimeBOT 12|BRFA]]
+2016-04-03T18:30:56+00:00,713382929,710045038,0,2604:6000:88C0:D900:1589:2F4E:7A75:9C63,Calcineurin,
+2016-08-17T20:14:45+00:00,734961415,734947163,0,Edgar181,Arginine,Reverted edits by [[Special:Contribs/68.186.214.120|68.186.214.120]] ([[User talk:68.186.214.120|talk]]) to last version by Boatswi
+2013-03-17T20:40:14+00:00,545048320,542374257,0,CsDix,Arginine,/* External links */ template name update
+2016-12-03T21:13:18+00:00,752867458,749437977,0,McortNGHH,Calcineurin,/* Rheumatic diseases */ Adding/removing wikilink(s)
+2015-08-15T02:09:19+00:00,676155854,676155848,0,ClueBot NG,Chronotropic,"Reverting possible vandalism by [[Special:Contributions/49.148.163.63|49.148.163.63]] to version by 192.76.8.11. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (2315465) (Bot)"
+2018-10-17T01:42:45+00:00,864412758,864061487,0,CowHouse,Chronotropic,Undid revision 864061487 by [[Special:Contributions/Man in the world look to know things|Man in the world look to know things]] ([[User talk:Man in the world look to know things|talk]])
+2016-03-07T14:04:26+00:00,708768726,676155854,0,Hazard-Bot,Chronotropic,[[Wikipedia:Bots|Bot]]: Adding {{Research help|Med}}; please leave feedback/comments at [[Wikipedia talk:Research help]] #ResHelp
+2014-07-16T16:46:05+00:00,617200251,600233688,0,Monkbot,Chronotropic,/* Positive chronotropes */Task 2: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]
+2015-10-08T20:22:27+00:00,684796379,677235679,0,Edgar181,Guanethidine,/* Chemical synthesis */ [[WP:COPYVIO]] from Synthesis of Essential Drugs
+2018-01-25T19:33:52+00:00,822332216,822330480,0,Dbsseven,Heart rate,"re-word to give the consensus value first, add cites later"
+2015-08-21T23:27:20+00:00,677235679,669022625,0,Njain1091,Guanethidine,Added spaces between sentences
+2013-09-29T05:05:29+00:00,574962683,572959215,0,Ewulp,Heart rate,/* Abnormalities */ Sentence fix
+2013-04-12T03:39:45+00:00,549949842,549948998,0,213.122.197.159,Heart rate,slight alteration i didnt notice til after saving
+2018-10-07T00:07:49+00:00,862831210,858929350,0,63.230.51.231,Heart rate,/* Tachycardia */
+2021-03-08T21:23:12+00:00,1011070580,1008481582,0,Tom.Reding,Heart rate,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q1073121|1 ID]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2013-08-01T01:33:12+00:00,566656355,566591728,0,24.212.169.28,Heart rate,"/* Measuring the heart rate */  3rd sentence added. Nice job updating your site's editing ""layout"" or ""interface"" or whatever, btw."
+2020-04-22T13:31:11+00:00,952483498,952483449,0,Materialscientist,Heart rate,Reverted edits by [[Special:Contributions/5.2.96.0|5.2.96.0]] ([[User talk:5.2.96.0|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2017-09-27T13:46:50+00:00,802637880,802637870,0,ClueBot NG,Heart rate,"Reverting possible vandalism by [[Special:Contribs/187.162.244.11|187.162.244.11]] to version by 101.80.225.80. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3137476) (Bot)"
+2017-05-19T10:29:46+00:00,781142181,781135644,0,Iztwoz,Heart rate,Undid revision 781076921 by [[Special:Contributions/Haggooo|Haggooo]] ([[User talk:Haggooo|talk]])
+2015-08-22T15:14:44+00:00,677332592,676902006,0,FrescoBot,Heart rate,Bot: undo [[Wikipedia_talk:Manual_of_Style/Linking#Saxon_genitive_and_piping|'s outside the link]]
+2020-07-21T14:47:48+00:00,968791528,967619368,0,2A02:A458:4A9B:1:F46E:6D99:A8E3:2C20,Heart rate,/* Zoladz method */
+2012-06-19T16:36:18+00:00,498360955,498349735,0,Anthonyhcole,Heart rate,Undid revision 498349735 by [[Special:Contributions/2A01:E35:2E43:D830:26AB:81FF:FE22:A703|2A01:E35:2E43:D830:26AB:81FF:FE22:A703]] ([[User talk:2A01:E35:2E43:D830:26AB:81FF:FE22:A703|talk]]) rvv.
+2014-08-17T10:34:26+00:00,621606357,620529021,0,31.208.65.96,Heart rate,/* Gellish */
+2015-03-16T21:54:18+00:00,651693955,651661682,0,Bgwhite,Heart rate,[[WP:CHECKWIKI]] error fix. Broken bracket problem. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]] (10839)
+2013-01-13T22:00:53+00:00,532925315,532925200,0,ClueBot NG,Heart rate,"Reverting possible vandalism by [[Special:Contributions/94.4.107.175|94.4.107.175]] to version by Ratagonia. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1442426) (Bot)"
+2019-04-18T17:49:58+00:00,893056399,893043709,0,Zefr,Metabolic syndrome,Reverted 1 edit by [[Special:Contributions/SwMessand|SwMessand]] ([[User talk:SwMessand|talk]]): [[WP:BRD]]; see talk page ([[WP:TW|TW]])
+2013-01-12T01:50:04+00:00,532632966,527377573,0,142.196.42.26,Metabolic syndrome,/* Prevention */
+2016-08-25T18:34:23+00:00,736178704,736178643,0,Quercus solaris,Metabolic syndrome,Covered below jump
+2014-06-02T16:33:21+00:00,611251241,611229923,0,Palivar,Heart rate,"/* Tanaka, Monahan, & Seals */ Added standard deviation for the formula, as this and similar formulas are widely cited with no standard deviations."
+2013-03-25T21:50:31+00:00,546975797,545752383,0,Jcarroll,Metabolic syndrome,/* WHO */ Added citation with hyperlink
+2014-12-05T14:59:37+00:00,636761398,635654794,0,Kintetsubuffalo,Omega-3 fatty acid,
+2013-08-03T15:50:04+00:00,566999050,566420572,0,Eall Ân Ûle,Omega-3 fatty acid,/* The omega−6 to omega−3 ratio */ clarification
+2021-04-04T06:07:23+00:00,1015897970,1015236837,0,114.79.7.111,Omega-3 fatty acid,/* Dietary sources */
+2013-11-06T04:05:02+00:00,580403897,580328093,0,Doc James,Omega-3 fatty acid,Reverted to revision 580272506 by [[Special:Contributions/Maurice Carbonaro|Maurice Carbonaro]] ([[User talk:Maurice Carbonaro|talk]]): We already summarize this. ([[WP:TW|TW]])
+2016-07-10T20:16:05+00:00,729228190,729227681,0,Seppi333,Omega-3 fatty acid,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/86.148.83.143|86.148.83.143]]: The current wording seems to suggest there is some but not much [[clinical significance]] (as opposed to [[statistical significance]]). ([[WP:TW|TW]])
+2018-04-13T22:13:38+00:00,836298205,836278246,0,WolfmanSF,Omega-3 fatty acid,ce
+2018-02-17T18:04:15+00:00,826179000,825125901,0,Rjwilmsi,Omega-3 fatty acid,"/* Mechanism of action */Journal cites, Added 1 doi to a journal cite"
+2015-05-16T14:38:51+00:00,662596177,661865808,0,Donpayette,Omega-3 fatty acid,/* Risk of deficiency */
+2017-04-25T08:30:56+00:00,777110154,776946506,0,Uncle Roy,Omega-3 fatty acid,Disambiguated: [[Gemfish]] → [[Silver gemfish]]
+2020-05-15T02:32:05+00:00,956746053,956015688,0,Whywhenwhohow,Omega-3 fatty acid,add hatnote
+2013-05-27T08:24:37+00:00,556985869,556985540,0,Joe Schmedley,Omega-3 fatty acid,/* Dietary sources */ yeesh
+2012-07-10T20:13:44+00:00,501614373,501614176,0,192.8.61.10,Arginine,/* Potential medical uses */
+2017-03-02T20:34:02+00:00,768269897,768267450,0,The RedBurn,Arginine,/* Treatment of dentin hypersensitivity */ wikif
+2018-04-11T10:25:09+00:00,835882893,832944378,0,157.193.240.113,Arginine,/* Dietary sources */
+2017-11-12T22:25:18+00:00,810014711,809207846,0,BattyBot,Arginine,fixed citation template(s) to remove page from [[:Category:CS1 maint: Extra text]] & [[WP:AWB/GF|general fixes]] using [[Project:AWB|AWB]]
+2020-11-03T19:50:25+00:00,986923008,984336433,0,Photocyte,Arginine,add arginine hydrochloride salt CAS
+2015-05-18T00:39:10+00:00,662855970,657086275,0,KasparBot,Arginine,embed authority control with wikidata information
+2012-11-15T15:27:32+00:00,523165380,523164210,0,ChemNerd,Arginine,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/97.64.252.20|97.64.252.20]] ([[User talk:97.64.252.20|talk]]) to last version by Edgar181
+2019-07-25T15:48:51+00:00,907834572,904035505,0,141.209.57.178,Arginine,/* History */ added etymology
+2020-09-04T00:25:51+00:00,976616261,966180633,0,Citation bot,Arginine,"Add: pmc, s2cid. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Chemical articles with multiple PubChem CIDs]] | via #UCB_Category"
+2018-07-01T23:32:09+00:00,848448282,845218394,0,88.115.35.62,Arginine,/* Research */
+2014-05-13T03:43:25+00:00,608324584,607675088,0,142.136.160.77,Arginine,/* Erectile dysfunction */
+2020-07-05T15:27:28+00:00,966180633,964990596,0,Headbomb,Arginine,Alter: journal. Add: issue. | You can [[WP:UCB|use this tool]] yourself. [[WP:DBUG|Report bugs here]]. | via #UCB_Gadget
+2021-01-01T11:45:11+00:00,997614890,974574558,0,Bibeyjj,Baroreceptor,"/* Low-pressure baroreceptors */ ""See also"" template for separate article. /* See also */ Low pressure receptors article."
+2012-12-06T22:00:56+00:00,526774565,475910392,0,173.219.86.196,Baroreflex,/* Anatomy of the reflex */
+2014-04-04T15:23:02+00:00,602735708,602153668,0,137.53.241.25,Baroreceptor,/* Arterial baroreceptors */
+2017-02-10T08:09:10+00:00,764676047,764583681,0,2A02:1203:ECB5:FF80:F5AA:7689:362E:8E18,Baroreflex,/* Baroreflex activation therapy for treatment of resistant hypertension */
+2012-09-24T13:31:37+00:00,514314226,504845500,0,Yobot,Calcineurin,"clean up, References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8434)"
+2020-04-16T23:42:17+00:00,951398607,928030137,0,OAbot,Calcineurin,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2016-02-26T07:44:55+00:00,706965976,705368620,0,Anypodetos,Calcineurin,/* top */ Use INN per guidelines
+2012-02-09T08:59:40+00:00,475910392,466734496,0,64.9.54.128,Baroreflex,/* Set point and tonic activation */
+2015-08-02T08:32:04+00:00,674193887,670319706,0,Yobot,Calcineurin,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (11349)
+2013-02-10T22:38:31+00:00,537613735,536881423,0,Dermoid,Baroreceptor,fixed spacing
+2017-06-14T02:37:12+00:00,785537436,778900429,0,"Me, Myself, and I are Here",Calcineurin,/* top */ bold
+2016-01-29T16:59:09+00:00,702285901,701365220,0,Martin Gühmann,Calcineurin,/* External links */ Added Intracellular signaling peptides and proteins
+2021-03-15T15:52:11+00:00,1012286588,1012286528,0,Ozzie10aaaa,Chronotropic,Alter: pages. Add: issue. Formatted [[WP:ENDASH|dashes]]. | [[WP:UCB|Use this tool]]. [[WP:DBUG|Report bugs]]. | via #UCB_Gadget
+2011-11-11T23:22:43+00:00,460205469,460205386,0,74.92.229.129,Chronotropic,/* Negative Chronotropes */
+2013-02-26T04:08:21+00:00,540488184,496929425,0,Addbot,Chronotropic,"[[User:Addbot|Bot:]] Migrating 8 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1088369]] ([[User talk:Addbot|Report Errors]])"
+2019-11-22T05:09:00+00:00,927388249,864412758,0,Pbsouthwood,Chronotropic,"Adding local [[Wikipedia:Short description|short description]]: ""Chronotropic effects are those that change the heart rate"", overriding Wikidata description ""Chronotropic effects are those that change the heart rate"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2015-03-09T13:15:24+00:00,650603106,617200251,0,195.113.114.254,Chronotropic,/* Negative chronotropes */
+2019-12-03T17:41:19+00:00,929100518,928822954,0,193.236.58.32,Heart rate,/* Cardiovascular centres */
+2021-06-27T17:09:59+00:00,1030718929,1004556057,0,Notfrompedro,Guanethidine,rv self promotional refspam
+2019-10-24T05:22:13+00:00,922766708,922502931,0,Alith3204,Heart rate,/* Physiology */updated file
+2015-04-16T14:18:24+00:00,656759029,654125065,0,87.2.16.151,Heart rate,/* Robergs and Landwehr */
+2017-05-07T23:22:42+00:00,779264877,727562744,0,Vanished user 0x8cSXE0x6,Guanethidine,
+2021-06-21T03:21:31+00:00,1029625796,1029092024,0,OAbot,Chronotropic,[[Wikipedia:OABOT|Open access bot]]: pmc added to citation with #oabot.
+2014-02-25T01:12:28+00:00,597002177,597000622,0,Sintaku,Heart rate,Reverted 1 edit by [[Special:Contributions/72.229.158.98|72.229.158.98]] ([[User talk:72.229.158.98|talk]]) to last revision by ClueBot NG. ([[WP:TW|TW]])
+2021-06-27T17:07:17+00:00,1030718492,1030718373,0,Notfrompedro,Heart rate,Reverted 1 edit by [[Special:Contributions/WzhanG829175|WzhanG829175]] ([[User talk:WzhanG829175|talk]]): Self promotion
+2013-08-23T08:49:21+00:00,569836266,566656355,0,Christian75,Heart rate,Disambiguated: [[physical]] → [[Body]]
+2017-10-31T23:37:07+00:00,808114663,806085283,0,InternetArchiveBot,Heart rate,Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6)
+2017-11-27T17:18:00+00:00,812398057,812397957,0,Felicia777,Heart rate,Reverted 1 edit by [[Special:Contributions/100.2.43.190|100.2.43.190]] ([[User talk:100.2.43.190|talk]]) to last revision by Anaxial. ([[WP:TW|TW]])
+2017-07-12T15:49:37+00:00,790257914,790256027,0,SDK SDK,Heart rate,Include the HRreserve equivalence
+2015-06-07T20:33:58+00:00,665938848,665936109,0,JoeSperrazza,Heart rate,Reverted 1 edit by [[Special:Contributions/115.135.97.210|115.135.97.210]] identified as test/vandalism using [[WP:STiki|STiki]]
+2012-06-26T17:06:03+00:00,499472863,499472710,0,Justin W Smith,Heart rate,"Undid revision 499472710 by [[Special:Contributions/Justin W Smith|Justin W Smith]] ([[User talk:Justin W Smith|talk]]) whoops, it's a self-link"
+2021-04-07T14:46:35+00:00,1016504112,1016504011,0,HunMaster,Heart rate,Restored revision 1016377958 by [[Special:Contributions/AnomieBOT|AnomieBOT]] ([[User talk:AnomieBOT|talk]])
+2015-02-13T07:16:58+00:00,646915683,646837242,0,Yobot,Heart rate,"Removed invisible unicode characters + other fixes, replaced: →   (3) using [[Project:AWB|AWB]] (10823)"
+2013-05-05T23:51:38+00:00,553700308,553090464,0,90.196.147.21,Heart rate,
+2017-05-18T22:24:17+00:00,781076921,780665276,0,Haggooo,Heart rate,Fixed grammar
+2013-01-19T19:06:58+00:00,533885022,533437372,0,ONEder Boy,Heart rate,/* Resting heart rate */
+2013-03-22T16:37:42+00:00,546325859,546032138,0,2001:690:22C0:9003:4D34:D793:D443:E7FA,Heart rate,/* Heart rate reserve */
+2014-05-30T09:22:13+00:00,610765683,609634687,0,BattyBot,Heart rate,fixed [[Help:CS1 errors#bad_date|CS1 errors: dates]] to meet [[MOS:DATEFORMAT]] (also [[WP:AWB/GF|General fixes]]) using [[Project:AWB|AWB]] (10209)
+2018-04-08T16:15:12+00:00,835418719,835418687,0,Shellwood,Heart rate,Reverted edits by [[Special:Contributions/106.207.254.70|106.207.254.70]] ([[User talk:106.207.254.70|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2012-11-21T01:28:50+00:00,524117776,524040590,0,Aeusoes1,Heart rate,"nix redundant ""term used to describe"""
+2012-05-30T00:24:56+00:00,495044986,494835649,0,99.182.97.189,Heart rate,
+2017-06-25T01:26:15+00:00,787377749,787377574,0,Graham87,Heart rate,/* Resting heart rate */ copyedit
+2016-06-27T16:09:42+00:00,727234476,727126960,0,CommonsDelinker,Heart rate,"Removing ""Heart_Beating_Animation.gif"", it has been deleted from Commons by [[commons:User:Jcb|Jcb]] because: Missing permission as of 19 June 2016 -  Using [[:c:COM:VFC|VisualFileChange]].."
+2019-07-03T11:03:16+00:00,904624173,904624144,0,213.89.243.131,Heart rate,/* Manual measurement */
+2013-03-04T13:49:45+00:00,542045460,541820319,0,203.199.178.211,Heart rate,/* Resting heart rate */
+2016-02-15T16:24:45+00:00,705116492,705039115,0,DrJanaOfficial,Heart rate,
+2013-03-21T17:25:25+00:00,546032138,546031310,0,Barek,Heart rate,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/114.69.241.186|114.69.241.186]] ([[User talk:114.69.241.186|talk]]) to last version by Addbot
+2020-12-29T11:01:21+00:00,996961270,996741446,0,Keith D,Heart rate,Fix cite date error
+2015-03-13T01:35:01+00:00,651133643,649616201,0,SoSivr,Metabolic syndrome,Disambiguated: [[complication]] → [[complication (medicine)]]
+2013-02-22T21:16:11+00:00,539753772,539751495,0,Benbest,Metabolic syndrome,"/* See also */  Diabetes mellitus type 2, alphabetize"
+2020-12-01T16:30:42+00:00,991744876,991285030,0,Citation bot,Heart rate,"Add: pages, issue, volume. Formatted [[WP:ENDASH|dashes]]. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Medical signs‎]] | via #UCB_Category 173/316"
+2020-12-20T08:02:31+00:00,995298369,994995181,0,Citation bot,Metabolic syndrome,"Add: pmid, s2cid. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | All pages linked from cached copy of User:Abductive/sandbox | via #UCB_webform_linked 940/947"
+2018-05-22T16:18:14+00:00,842461100,842460917,0,Classicwiki,Metabolic syndrome,Reverted 1 edit by [[Special:Contributions/92.4.227.161|92.4.227.161]] ([[User talk:92.4.227.161|talk]]) to last revision by Count Count. ([[WP:TW|TW]])
+2014-10-11T13:14:45+00:00,629172244,629172005,0,Icdmaat,Metabolic syndrome,
+2020-07-29T05:46:52+00:00,970090893,968791528,0,Neils51,Heart rate,/* Zoladz method */ sp
+2013-02-04T19:00:36+00:00,536561439,536561401,0,99.4.191.120,Heart rate,/* External links */
+2017-08-17T16:34:25+00:00,795963670,782903126,0,Headbomb,Metabolic syndrome,"/* Cause */clean up, replaced: journal = Am J Psychiatry. → journal = Am J Psychiatry using [[Project:AWB|AWB]]"
+2013-09-11T18:25:51+00:00,572517964,572248382,0,68.194.172.226,Metabolic syndrome,added inches to EGIR section.
+2016-03-02T01:31:32+00:00,707832350,707817078,0,Dexbot,Omega-3 fatty acid,Bot: Fixing formatting per user request
+2017-01-12T08:22:50+00:00,759629832,759629202,0,MER-C,Omega-3 fatty acid,Reverted edits by [[Special:Contribs/Fast987|Fast987]] ([[User talk:Fast987|talk]]) to last version by Zefr
+2019-12-18T10:10:10+00:00,931341463,931076984,0,InternetArchiveBot,Omega-3 fatty acid,Bluelinking 1 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3
+2020-03-01T22:09:27+00:00,943438861,940927758,0,Ich,Omega-3 fatty acid,"Alter: title. Add: pmid, pmc, editor1-first, editor1-last. | You can [[WP:UCB|use this tool]] yourself. [[WP:DBUG|Report bugs here]]. | via #UCB_Gadget"
+2016-08-13T23:13:22+00:00,734383019,732272902,0,Teaktl17,Omega-3 fatty acid,fmt
+2017-07-11T13:28:54+00:00,790078849,790078685,0,David notMD,Omega-3 fatty acid,/* Plant sources */
+2020-03-22T19:42:09+00:00,946847348,946846918,0,Rischarr,Omega-3 fatty acid,/* Contamination */ Professional study
+2013-02-24T16:50:07+00:00,540096084,540095662,0,Gzuufy,Omega-3 fatty acid,/* The omega−6 to omega−3 ratio */
+2012-05-13T22:23:41+00:00,492429096,492219678,0,216.239.45.4,Omega-3 fatty acid,/* Inflammation */
+2017-10-18T00:50:39+00:00,805847598,805834542,0,AnomieBOT,Omega-3 fatty acid,Dating maintenance tags: {{Citation needed}}
+2013-08-09T20:31:01+00:00,567863853,567336432,0,Uruk003,Omega-3 fatty acid,"Fixed typo, changed from to form"
+2017-05-27T21:57:43+00:00,782587295,782586547,0,Drbogdan,Omega-3 fatty acid,Reverted 1 edit by [[Special:Contributions/87.117.37.250|87.117.37.250]] ([[User talk:87.117.37.250|talk]]) to last revision by Zefr. ([[WP:TW|TW]])

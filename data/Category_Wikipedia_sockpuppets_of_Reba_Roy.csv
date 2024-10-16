@@ -1,0 +1,506 @@
+timestamp,revid,parentid,sock,user,page,message
+2023-04-29T18:12:17+00:00,1152350080,1152349968,1,Reba_Roy,Gaurav Chakrabarty,
+2023-04-29T18:11:15+00:00,1152349968,1152131080,1,Reba_Roy,Gaurav Chakrabarty,
+2023-04-28T11:54:38+00:00,1152131149,1151524698,1,Reba_Roy,Ridhima Ghosh,/* Filmography */
+2023-04-28T11:54:04+00:00,1152131080,1151787379,1,Reba_Roy,Gaurav Chakrabarty,
+2023-04-26T07:05:07+00:00,1151787379,1151787189,1,Reba_Roy,Gaurav Chakrabarty,
+2023-04-26T07:03:36+00:00,1151787189,1151525511,1,Reba_Roy,Gaurav Chakrabarty,/* Filmography */
+2023-04-26T07:00:36+00:00,1151786955,1151786766,1,Reba_Roy,Tenida and Co.,
+2023-04-26T06:58:29+00:00,1151786766,1151363653,1,Reba_Roy,Tenida and Co.,/* Cast */
+2023-04-24T16:09:49+00:00,1151525511,1151333946,1,Reba_Roy,Gaurav Chakrabarty,/* Filmography */
+2023-04-24T16:04:25+00:00,1151524698,1151466819,1,Reba_Roy,Ridhima Ghosh,/* Filmography */
+2023-04-23T11:00:14+00:00,1151334053,1151333783,1,Reba_Roy,Ridhima Ghosh,
+2023-04-23T10:59:14+00:00,1151333946,1151333717,1,Reba_Roy,Gaurav Chakrabarty,
+2023-04-23T10:57:24+00:00,1151333783,1151165469,1,Reba_Roy,Ridhima Ghosh,/* Filmography */
+2023-04-23T10:56:36+00:00,1151333717,1151220541,1,Reba_Roy,Gaurav Chakrabarty,/* Filmography */
+2023-04-22T09:40:39+00:00,1151165469,1151165337,1,Reba_Roy,Ridhima Ghosh,/* Filmography */
+2023-04-22T09:39:39+00:00,1151165337,1151165253,1,Reba_Roy,Ridhima Ghosh,
+2023-04-22T09:38:53+00:00,1151165253,1151165172,1,Reba_Roy,Ridhima Ghosh,/* Filmography */
+2023-04-22T09:38:03+00:00,1151165172,1151165073,1,Reba_Roy,Ridhima Ghosh,
+2023-04-22T09:37:05+00:00,1151165073,1151164969,1,Reba_Roy,Ridhima Ghosh,/* Filmography */
+2023-04-22T09:36:07+00:00,1151164969,1151164806,1,Reba_Roy,Ridhima Ghosh,/* Filmography */
+2023-04-22T09:34:40+00:00,1151164806,1148960810,1,Reba_Roy,Ridhima Ghosh,/* Filmography */
+2023-04-09T08:11:44+00:00,1148956323,1148456329,1,Reba_Roy,Gaurav Chakrabarty,
+2023-04-09T08:10:21+00:00,1148956183,1147795607,1,Reba_Roy,Ridhima Ghosh,
+2023-04-06T07:54:15+00:00,1148456329,1148028541,1,Reba_Roy,Gaurav Chakrabarty,/* Filmography */
+2023-04-03T16:49:23+00:00,1148028541,1147795494,1,Reba_Roy,Gaurav Chakrabarty,/* Short films and web series */
+2023-04-02T07:03:53+00:00,1147795607,1147646961,1,Reba_Roy,Ridhima Ghosh,/* Short films & web series */
+2023-04-02T07:02:21+00:00,1147795494,1147647857,1,Reba_Roy,Gaurav Chakrabarty,/* Short films and web series */
+2023-04-01T08:31:25+00:00,1147647857,1147647015,1,Reba_Roy,Gaurav Chakrabarty,
+2023-04-01T08:20:51+00:00,1147647015,1147490278,1,Reba_Roy,Gaurav Chakrabarty,/* Filmography */
+2023-04-01T08:20:11+00:00,1147646961,1147646871,1,Reba_Roy,Ridhima Ghosh,/* Filmography */
+2023-04-01T08:18:58+00:00,1147646871,1147645932,1,Reba_Roy,Ridhima Ghosh,
+2023-04-01T08:07:09+00:00,1147645932,1146670368,1,Reba_Roy,Ridhima Ghosh,
+2023-03-31T08:59:08+00:00,1147490278,1146833317,1,Reba_Roy,Gaurav Chakrabarty,/* Filmography */
+2023-03-27T06:42:29+00:00,1146833317,1146670226,1,Reba_Roy,Gaurav Chakrabarty,/* Filmography */
+2023-03-26T08:28:51+00:00,1146670368,1146666911,1,Reba_Roy,Ridhima Ghosh,/* Television */
+2023-03-26T08:27:12+00:00,1146670226,1145630709,1,Reba_Roy,Gaurav Chakrabarty,
+2023-03-17T12:00:20+00:00,1145123756,1142446983,1,Reba_Roy,Gaurav Chakrabarty,/* Short films and web series */
+2023-02-22T17:52:43+00:00,1140965925,1139769995,1,Reba_Roy,Gaurav Chakrabarty,/* Podcast */
+2023-02-01T05:38:32+00:00,1136798014,1135533900,1,Reba_Roy,Gaurav Chakrabarty,/* TVCs */
+2023-02-01T05:37:46+00:00,1136797923,1134614041,1,Reba_Roy,Ridhima Ghosh,/* TVCs */
+2023-01-25T07:08:33+00:00,1135533900,1132574000,1,Reba_Roy,Gaurav Chakrabarty,
+2023-01-17T07:06:46+00:00,1134153410,1134153360,1,Reba_Roy,Arjun Chakrabarty,/* Telefilm */
+2023-01-17T07:06:24+00:00,1134153360,1133734271,1,Reba_Roy,Arjun Chakrabarty,/* Web Series */
+2023-01-09T14:37:47+00:00,1132574000,1131437989,1,Reba_Roy,Gaurav Chakrabarty,/* Awards and nominations */
+2023-01-04T04:44:51+00:00,1131437989,1131437525,1,Reba_Roy,Gaurav Chakrabarty,/* Awards and nominations */
+2023-01-04T04:41:35+00:00,1131437525,1131280841,1,Reba_Roy,Gaurav Chakrabarty,/* Awards and nominations */
+2022-12-17T06:03:21+00:00,1127887908,1127253756,1,Reba_Roy,Gaurav Chakrabarty,/* Short films and web series */
+2022-12-13T18:34:21+00:00,1127253887,1126985517,1,Reba_Roy,Ridhima Ghosh,/* Short films & web series */
+2022-12-13T18:33:27+00:00,1127253756,1126985390,1,Reba_Roy,Gaurav Chakrabarty,
+2022-12-12T08:10:45+00:00,1126985517,1124526257,1,Reba_Roy,Ridhima Ghosh,/* Short films & web series */
+2022-12-12T08:09:28+00:00,1126985390,1122908157,1,Reba_Roy,Gaurav Chakrabarty,/* Short films and web series */
+2023-07-16T17:30:55+00:00,1165670845,1165670749,1,Editor_Anjali,Gaurav Chakrabarty,/* Audio drama */
+2023-07-16T17:30:09+00:00,1165670749,1165670285,1,Editor_Anjali,Gaurav Chakrabarty,/* Audio drama */
+2023-07-16T17:26:11+00:00,1165670285,1165589662,1,Editor_Anjali,Gaurav Chakrabarty,
+2023-07-16T04:14:57+00:00,1165589662,1165589407,1,Editor_Anjali,Gaurav Chakrabarty,/* Audio drama */
+2023-07-16T04:11:59+00:00,1165589407,1165436554,1,Editor_Anjali,Gaurav Chakrabarty,/* Audio drama */
+2023-07-15T05:40:27+00:00,1165437940,1165437889,1,Editor_Anjali,Ridhima Ghosh,
+2023-07-15T05:39:54+00:00,1165437889,1165030853,1,Editor_Anjali,Ridhima Ghosh,/* TVCs */
+2023-07-15T05:32:01+00:00,1165437201,0,1,Editor_Anjali,User:Editor Anjali,[[WP:AES|←]]Created page with '==Contributions== * [[Gaurav Chakrabarty]] * [[Abar Kanchanjungha]]'
+2023-07-15T05:24:11+00:00,1165436554,1165436361,1,Editor_Anjali,Gaurav Chakrabarty,/* Audio drama */
+2023-07-15T05:21:14+00:00,1165436361,1165436067,1,Editor_Anjali,Gaurav Chakrabarty,/* Audio drama */
+2023-07-15T05:17:14+00:00,1165436067,1165165054,1,Editor_Anjali,Gaurav Chakrabarty,
+2023-07-13T15:42:40+00:00,1165189874,1165189758,1,Editor_Anjali,Abar Kanchanjungha,/* Cast */
+2023-07-13T15:41:54+00:00,1165189758,1164088058,1,Editor_Anjali,Abar Kanchanjungha,/* Cast */
+2023-07-13T11:44:54+00:00,1165165054,1163946067,1,Editor_Anjali,Gaurav Chakrabarty,/* Filmography */
+2023-05-22T05:49:18+00:00,1156297456,1156217499,1,LABAID2023,Gaurav Chakrabarty,
+2023-05-21T16:36:07+00:00,1156184671,1156183848,1,LABAID2023,Gaurav Chakrabarty,/* Podcast */
+2023-05-21T16:31:52+00:00,1156183848,1156183754,1,LABAID2023,Gaurav Chakrabarty,/* Podcast */
+2023-05-21T16:31:17+00:00,1156183754,1156111565,1,LABAID2023,Gaurav Chakrabarty,
+2023-05-21T08:28:02+00:00,1156120228,1156120102,1,LABAID2023,Ridhima Ghosh,
+2023-05-21T08:27:15+00:00,1156120102,1155689492,1,LABAID2023,Ridhima Ghosh,
+2023-05-21T07:27:25+00:00,1156111565,1156109837,1,LABAID2023,Gaurav Chakrabarty,
+2023-05-21T07:14:37+00:00,1156109837,1156104065,1,LABAID2023,Gaurav Chakrabarty,
+2023-05-21T06:38:50+00:00,1156104065,1156103448,1,LABAID2023,Gaurav Chakrabarty,
+2023-05-21T06:33:55+00:00,1156103448,1155689381,1,LABAID2023,Gaurav Chakrabarty,
+2023-05-19T08:19:36+00:00,1155689492,1155675004,1,LABAID2023,Ridhima Ghosh,/* Filmography */
+2023-05-19T08:18:40+00:00,1155689381,1155674936,1,LABAID2023,Gaurav Chakrabarty,/* Filmography */
+2023-05-19T06:39:20+00:00,1155675388,0,1,LABAID2023,User:LABAID2023,[[WP:AES|←]]Created page with '==Edition== *[[Gaurav Chakrabarty]] *[[Ridhima Ghosh]]'
+2023-05-19T06:36:34+00:00,1155675004,1155467746,1,LABAID2023,Ridhima Ghosh,/* Filmography */
+2023-05-19T06:35:54+00:00,1155674936,1155476823,1,LABAID2023,Gaurav Chakrabarty,/* Filmography */
+2023-05-18T07:44:16+00:00,1155462298,1155461550,1,LABAID2023,Gaurav Chakrabarty,
+2023-05-18T07:37:14+00:00,1155461550,1155461328,1,LABAID2023,Gaurav Chakrabarty,
+2023-05-18T07:35:16+00:00,1155461328,1155461035,1,LABAID2023,Gaurav Chakrabarty,
+2023-05-18T07:32:27+00:00,1155461035,1155460946,1,LABAID2023,Gaurav Chakrabarty,/* Short films and web series */
+2023-05-18T07:31:32+00:00,1155460946,1155460678,1,LABAID2023,Gaurav Chakrabarty,/* Short films and web series */
+2023-05-18T07:28:49+00:00,1155460678,1155348843,1,LABAID2023,Gaurav Chakrabarty,/* Short films and web series */
+2023-07-07T07:38:22+00:00,1163946067,1163945941,1,LILI_ROY_1987,Gaurav Chakrabarty,/* Television */
+2023-07-07T07:37:45+00:00,1163945941,1163945611,1,LILI_ROY_1987,Gaurav Chakrabarty,/* Filmography */
+2023-07-07T07:36:05+00:00,1163945611,1163537491,1,LILI_ROY_1987,Gaurav Chakrabarty,/* Filmography */
+2023-07-05T13:08:05+00:00,1163537988,1159629165,1,LILI_ROY_1987,Sabyasachi Chakrabarty,
+2023-07-05T13:05:53+00:00,1163537641,1161092075,1,LILI_ROY_1987,Arjun Chakrabarty,
+2023-07-05T13:04:59+00:00,1163537491,1163537113,1,LILI_ROY_1987,Gaurav Chakrabarty,
+2023-07-05T13:04:10+00:00,1163537298,1163537196,1,LILI_ROY_1987,Ridhima Ghosh,/* External links */
+2023-07-05T13:03:41+00:00,1163537196,1163536517,1,LILI_ROY_1987,Ridhima Ghosh,
+2023-07-05T13:03:11+00:00,1163537113,1163535762,1,LILI_ROY_1987,Gaurav Chakrabarty,/* External links */
+2023-07-05T13:00:27+00:00,1163536517,1163533969,1,LILI_ROY_1987,Ridhima Ghosh,/* External links */
+2023-07-05T12:57:19+00:00,1163535762,1163533782,1,LILI_ROY_1987,Gaurav Chakrabarty,/* External links */
+2023-07-05T12:45:58+00:00,1163533969,1163403248,1,LILI_ROY_1987,Ridhima Ghosh,
+2023-07-05T12:45:00+00:00,1163533782,1163490902,1,LILI_ROY_1987,Gaurav Chakrabarty,
+2023-07-05T10:17:33+00:00,1163516042,1163406860,1,LILI_ROY_1987,User talk:SmokeyJoe,"/* Question from LILI ROY 1987 (10:17, 5 July 2023) */ new section"
+2023-07-05T05:55:55+00:00,1163490902,1163490623,1,LILI_ROY_1987,Gaurav Chakrabarty,
+2023-07-05T05:51:40+00:00,1163490623,1163490605,1,LILI_ROY_1987,Gaurav Chakrabarty,/* TVCs */
+2023-07-05T05:51:19+00:00,1163490605,1163490488,1,LILI_ROY_1987,Gaurav Chakrabarty,/* TVCs */
+2023-07-05T05:49:52+00:00,1163490488,1163486155,1,LILI_ROY_1987,Gaurav Chakrabarty,/* Podcast */
+2023-07-05T05:00:18+00:00,1163486155,1163485467,1,LILI_ROY_1987,Gaurav Chakrabarty,
+2023-07-05T04:53:20+00:00,1163485467,1163484237,1,LILI_ROY_1987,Gaurav Chakrabarty,
+2023-07-05T04:44:23+00:00,1163484237,1163483509,1,LILI_ROY_1987,Gaurav Chakrabarty,
+2023-07-05T04:41:58+00:00,1163483919,1163416562,1,LILI_ROY_1987,User talk:LILI ROY 1987,/* Welcome! */ Reply
+2023-07-05T04:38:30+00:00,1163483509,1163406241,1,LILI_ROY_1987,Gaurav Chakrabarty,
+2023-07-04T18:05:56+00:00,1163406860,1162808012,1,LILI_ROY_1987,User talk:SmokeyJoe,"/* Question from LILI ROY 1987 (18:05, 4 July 2023) */ new section"
+2023-07-04T18:02:21+00:00,1163406241,1163406001,1,LILI_ROY_1987,Gaurav Chakrabarty,
+2023-07-04T18:01:05+00:00,1163406001,1163403821,1,LILI_ROY_1987,Gaurav Chakrabarty,/* Audio drama */
+2023-07-04T17:47:09+00:00,1163403818,1163403606,1,LILI_ROY_1987,Gaurav Chakrabarty,
+2023-07-04T17:44:52+00:00,1163403478,1163403456,1,LILI_ROY_1987,Gaurav Chakrabarty,/* Short films and web series */
+2023-07-04T17:43:16+00:00,1163403248,1159209900,1,LILI_ROY_1987,Ridhima Ghosh,Because this reference accesses denied.
+2023-07-04T17:42:18+00:00,1163403098,1162614253,1,LILI_ROY_1987,Gaurav Chakrabarty,Because this reference accesses denied.
+2023-06-30T05:54:38+00:00,1162614253,1162611189,1,Lily_Bella_Clara,Gaurav Chakrabarty,/* External links */
+2023-06-30T04:39:53+00:00,1162607862,1162499406,1,Lily_Bella_Clara,Gaurav Chakrabarty,/* External links */
+2023-06-29T15:07:40+00:00,1162499406,1162456471,1,Lily_Bella_Clara,Gaurav Chakrabarty,
+2023-06-29T08:55:31+00:00,1162456471,1162439810,1,Lily_Bella_Clara,Gaurav Chakrabarty,
+2023-06-29T05:30:35+00:00,1162439810,1162439708,1,Lily_Bella_Clara,Gaurav Chakrabarty,/* Short films and web series */
+2023-06-29T05:29:22+00:00,1162439708,1159658477,1,Lily_Bella_Clara,Gaurav Chakrabarty,
+2023-06-11T18:29:16+00:00,1159658477,1159480013,1,Lily_Bella_Clara,Gaurav Chakrabarty,/* Audio drama */
+2023-06-10T15:59:40+00:00,1159480013,1159446140,1,Lily_Bella_Clara,Gaurav Chakrabarty,/* Audio drama */
+2023-06-10T10:44:05+00:00,1159446140,1159444765,1,Lily_Bella_Clara,Gaurav Chakrabarty,
+2023-06-10T10:31:27+00:00,1159444765,1159444429,1,Lily_Bella_Clara,Gaurav Chakrabarty,/* Audio drama */
+2023-06-10T10:27:35+00:00,1159444429,1159444318,1,Lily_Bella_Clara,Gaurav Chakrabarty,/* Audio drama */
+2023-06-10T10:26:22+00:00,1159444318,1159443928,1,Lily_Bella_Clara,Gaurav Chakrabarty,
+2023-06-10T10:22:05+00:00,1159443928,1159210142,1,Lily_Bella_Clara,Gaurav Chakrabarty,/* Audio drama */
+2023-08-27T08:15:54+00:00,1172468380,1172468309,1,PhilippeAthos,Gaurav Chakrabarty,/* External link */
+2023-08-27T08:15:15+00:00,1172468309,1172466292,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-27T07:52:06+00:00,1172466292,1172464678,1,PhilippeAthos,Gaurav Chakrabarty,/* External link */
+2023-08-27T07:46:33+00:00,1172465842,1172442642,1,PhilippeAthos,User talk:PhilippeAthos,/* Categories */
+2023-08-27T07:34:54+00:00,1172464678,1172464647,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-27T07:34:18+00:00,1172464647,1172316509,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-27T03:20:38+00:00,1172442509,1172442445,1,PhilippeAthos,File:Swastik Sanket poster.jpg,/* Licensing */
+2023-08-27T03:19:47+00:00,1172442445,1095172967,1,PhilippeAthos,File:Swastik Sanket poster.jpg,/* Licensing */
+2023-08-26T09:46:21+00:00,1172317994,1172302738,1,PhilippeAthos,User talk:PhilippeAthos,[[WP:AES|←]]Blanked the page
+2023-08-26T09:29:17+00:00,1172316509,1172313643,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-26T08:50:00+00:00,1172313212,1171580775,1,PhilippeAthos,Gaurav Chakrabarty,/* Podcast */
+2023-08-25T17:37:28+00:00,1172214558,1095672107,1,PhilippeAthos,Category:Film posters for Bengali-language films,
+2023-08-21T07:21:32+00:00,1171465316,1171464863,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-21T07:14:57+00:00,1171464863,1171353726,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-20T16:36:44+00:00,1171353726,1171315581,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-20T10:31:19+00:00,1171315581,1171313921,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-20T10:11:06+00:00,1171313921,1171166137,1,PhilippeAthos,Gaurav Chakrabarty,/* Short films and web series */
+2023-08-19T12:24:35+00:00,1171166137,1171134585,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-19T06:50:50+00:00,1171134585,1171134472,1,PhilippeAthos,Gaurav Chakrabarty,/* Short films and web series */
+2023-08-19T06:49:34+00:00,1171134472,1169783711,1,PhilippeAthos,Gaurav Chakrabarty,/* Short films and web series */
+2023-08-17T07:51:34+00:00,1170798618,1153699450,1,PhilippeAthos,June Malia,
+2023-08-16T06:27:49+00:00,1170629153,1170595399,1,PhilippeAthos,User talk:PhilippeAthos,[[WP:AES|←]]Blanked the page
+2023-08-15T10:17:38+00:00,1170489981,1169619875,1,PhilippeAthos,Rukmini Maitra,
+2023-08-14T06:35:28+00:00,1170294838,1170259992,1,PhilippeAthos,User talk:PhilippeAthos,[[WP:AES|←]]Blanked the page
+2023-08-12T07:21:55+00:00,1169936991,1169936962,1,PhilippeAthos,User talk:PhilippeAthos,[[WP:AES|←]]Blanked the page
+2023-08-12T07:21:39+00:00,1169936962,1169936933,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-12T07:21:06+00:00,1169936933,1169936908,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-12T07:20:45+00:00,1169936908,1169531207,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-11T07:27:43+00:00,1169783711,1169517467,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-09T15:41:04+00:00,1169517903,1169469044,1,PhilippeAthos,Koushani Mukherjee,
+2023-08-09T15:38:40+00:00,1169517602,1166843650,1,PhilippeAthos,Ritwick Chakraborty,/* Television and web */
+2023-08-09T15:37:28+00:00,1169517467,1169517352,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-09T15:36:36+00:00,1169517352,1169468205,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-09T12:30:24+00:00,1169495757,1169495659,1,PhilippeAthos,Ridhima Ghosh,
+2023-08-09T12:29:23+00:00,1169495659,1169492948,1,PhilippeAthos,Ridhima Ghosh,
+2023-08-09T09:08:50+00:00,1169477981,1168972706,1,PhilippeAthos,Ridhima Ghosh,
+2023-08-09T07:29:39+00:00,1169469044,1156477346,1,PhilippeAthos,Koushani Mukherjee,/* Filmography */
+2023-08-09T07:20:59+00:00,1169468205,1168972663,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-09T07:05:28+00:00,1169465635,1169465261,1,PhilippeAthos,User talk:PhilippeAthos,/* Replaceable non-free use File:Gaurav Chakrabarty at the promotion of Abar Proloy.jpg */ Reply
+2023-08-08T12:40:51+00:00,1169331737,1169316213,1,PhilippeAthos,User talk:PhilippeAthos,/* File copyright problem with File:The Official Poster of Gaurav Bolchhi.jpg */
+2023-08-08T06:35:08+00:00,1169296328,1169296286,1,PhilippeAthos,User talk:PhilippeAthos,[[WP:AES|←]]Blanked the page
+2023-08-08T06:34:31+00:00,1169296286,1169296246,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-08T06:33:53+00:00,1169296246,1169296192,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-08T06:33:16+00:00,1169296192,1169146951,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-06T06:44:28+00:00,1168972706,1168872027,1,PhilippeAthos,Ridhima Ghosh,
+2023-08-06T06:44:00+00:00,1168972663,1168871887,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-05T16:35:32+00:00,1168874034,1168873941,1,PhilippeAthos,User talk:PhilippeAthos,[[WP:AES|←]]Blanked the page
+2023-08-05T16:34:50+00:00,1168873941,1168873883,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:34:26+00:00,1168873883,1168873780,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:33:38+00:00,1168873780,1168873716,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:33:11+00:00,1168873716,1168873658,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:32:48+00:00,1168873658,1168873590,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:32:25+00:00,1168873590,1168873505,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:31:48+00:00,1168873505,1168873412,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:31:07+00:00,1168873412,1168873311,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:30:19+00:00,1168873311,1168873199,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:29:24+00:00,1168873199,1168873104,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:28:38+00:00,1168873104,1168872845,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:26:45+00:00,1168872845,1168839148,1,PhilippeAthos,User talk:PhilippeAthos,
+2023-08-05T16:18:58+00:00,1168872027,1168849829,1,PhilippeAthos,Ridhima Ghosh,
+2023-08-05T16:17:38+00:00,1168871887,1168849791,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-05T11:19:54+00:00,1168841764,1168014936,1,PhilippeAthos,Ridhima Ghosh,
+2023-08-05T11:03:46+00:00,1168840454,1168818247,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-05T06:39:39+00:00,1168818247,1168310286,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-01T11:28:51+00:00,1168202396,1168202298,1,PhilippeAthos,Rwitobroto Mukherjee,/* Filmography */
+2023-08-01T11:27:41+00:00,1168202298,1168202270,1,PhilippeAthos,Rwitobroto Mukherjee,/* Audio drama */
+2023-08-01T11:27:21+00:00,1168202270,1168202227,1,PhilippeAthos,Rwitobroto Mukherjee,/* Theatre */
+2023-08-01T11:26:59+00:00,1168202227,1168202193,1,PhilippeAthos,Rwitobroto Mukherjee,/* Short films and web series */
+2023-08-01T11:26:39+00:00,1168202193,1168202048,1,PhilippeAthos,Rwitobroto Mukherjee,/* Filmography */
+2023-08-01T11:24:57+00:00,1168202048,1168201905,1,PhilippeAthos,Rwitobroto Mukherjee,
+2023-08-01T11:23:16+00:00,1168201905,1168201779,1,PhilippeAthos,Rwitobroto Mukherjee,/* Awards and nominations */
+2023-08-01T11:21:55+00:00,1168201779,1148960846,1,PhilippeAthos,Rwitobroto Mukherjee,/* Audio drama */
+2023-08-01T11:18:01+00:00,1168201420,1168016092,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-08-01T06:59:05+00:00,1168176933,1166434731,1,PhilippeAthos,Saswata Chatterjee,
+2023-07-31T07:29:51+00:00,1168016092,1168014899,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-07-31T07:15:55+00:00,1168014936,1167583630,1,PhilippeAthos,Ridhima Ghosh,
+2023-07-31T07:15:29+00:00,1168014899,1168010884,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-07-31T06:41:58+00:00,1168010884,1167859120,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-07-30T12:00:05+00:00,1167882970,1167058518,1,PhilippeAthos,Film and Television Institute of India,
+2023-07-30T08:09:45+00:00,1167859120,1167581347,1,PhilippeAthos,Gaurav Chakrabarty,/* Podcast */
+2023-07-28T17:02:03+00:00,1167583630,1166595293,1,PhilippeAthos,Ridhima Ghosh,
+2023-07-28T16:44:37+00:00,1167581347,1167545792,1,PhilippeAthos,Gaurav Chakrabarty,
+2023-07-28T11:21:26+00:00,1167544503,1167544315,1,PhilippeAthos,Gaurav Chakrabarty,/* Podcast */
+2023-07-28T11:19:18+00:00,1167544315,1167544216,1,PhilippeAthos,Gaurav Chakrabarty,/* Podcast */
+2023-07-28T11:17:58+00:00,1167544216,1167543797,1,PhilippeAthos,Gaurav Chakrabarty,/* Podcast */
+2023-07-28T11:13:35+00:00,1167543797,1167364938,1,PhilippeAthos,Gaurav Chakrabarty,/* Podcast */
+2023-07-28T07:22:28+00:00,1167521226,1167520868,1,PhilippeAthos,Priyanka Sarkar,/* Web series */
+2023-07-28T07:18:41+00:00,1167520868,1166879695,1,PhilippeAthos,Priyanka Sarkar,
+2023-07-28T07:17:03+00:00,1167520710,1167520491,1,PhilippeAthos,Anindita Bose,
+2023-07-28T07:14:45+00:00,1167520491,1165120808,1,PhilippeAthos,Anindita Bose,/* Filmography */
+2023-07-27T08:53:05+00:00,1167364938,1167361995,1,PhilippeAthos,Gaurav Chakrabarty,/* Awards and nominations */
+2023-07-27T08:24:33+00:00,1167361995,1166928981,1,PhilippeAthos,Gaurav Chakrabarty,/* Podcast */
+2023-07-24T17:06:46+00:00,1166929745,1166929568,1,PhilippeAthos,Mithu Chakrabarty,/* Filmography */
+2023-07-24T17:05:25+00:00,1166929568,1166929325,1,PhilippeAthos,Mithu Chakrabarty,/* Filmography */
+2023-07-24T17:03:39+00:00,1166929325,1166929186,1,PhilippeAthos,Mithu Chakrabarty,/* Filmography */
+2023-07-24T17:02:41+00:00,1166929186,1161278395,1,PhilippeAthos,Mithu Chakrabarty,/* Filmography */
+2023-07-24T17:01:11+00:00,1166928981,1166728556,1,PhilippeAthos,Gaurav Chakrabarty,/* Audio drama */
+2023-07-23T11:37:41+00:00,1166729488,1154578284,1,PhilippeAthos,Ritabhari Chakraborty,/* Filmography */
+2023-07-23T11:31:58+00:00,1166728958,1166728792,1,PhilippeAthos,Rahul Banerjee (actor),/* Web series */
+2023-07-23T11:30:19+00:00,1166728792,1164509298,1,PhilippeAthos,Rahul Banerjee (actor),/* Filmography */
+2023-07-23T11:27:44+00:00,1166728556,1166242651,1,PhilippeAthos,Gaurav Chakrabarty,/* Audio drama */
+2023-07-22T15:55:04+00:00,1166595293,1166595216,1,PhilippeAthos,Ridhima Ghosh,
+2023-07-22T15:54:31+00:00,1166595216,1166595075,1,PhilippeAthos,Ridhima Ghosh,
+2023-07-22T15:53:24+00:00,1166595075,1166543045,1,PhilippeAthos,Ridhima Ghosh,
+2023-07-22T15:45:27+00:00,1166594191,1166360919,1,PhilippeAthos,List of Bengali films of 2023,/* July – September */
+2023-07-20T08:14:16+00:00,1166242791,1163549006,1,PhilippeAthos,Arjun Chakrabarty,/* top */
+2023-07-20T08:12:08+00:00,1166242651,1166240245,1,PhilippeAthos,Gaurav Chakrabarty,/* Audio drama */ Add information
+2023-07-20T07:44:56+00:00,1166240245,1166240090,1,PhilippeAthos,Gaurav Chakrabarty,/* Audio drama */
+2023-07-20T07:43:00+00:00,1166240090,1165825957,1,PhilippeAthos,Gaurav Chakrabarty,/* Short films and web series */
+2023-06-08T18:57:47+00:00,1159176553,1157110763,1,Twinklestarsky,Gaurav Chakrabarty,/* Filmography */
+2023-05-27T16:08:53+00:00,1157283985,1157282395,1,Twinklestarsky,User talk:Twinklestarsky,/* Speedy deletion nomination of Gaurav Bolchhi */ Reply
+2023-05-26T15:53:22+00:00,1157139371,1151781399,1,Twinklestarsky,Sayantan Ghosal,/* TVCs */
+2023-05-26T11:09:05+00:00,1157111006,1156777853,1,Twinklestarsky,Ridhima Ghosh,
+2023-05-26T11:06:04+00:00,1157110763,1156297456,1,Twinklestarsky,Gaurav Chakrabarty,
+2023-05-24T16:00:10+00:00,1156782900,1156691119,1,Twinklestarsky,User talk:Alextejthompson,"/* Question from Twinklestarsky on Gaurav Bolchhi (16:00, 24 May 2023) */ new section"
+2023-05-24T15:49:33+00:00,1156781253,0,1,Twinklestarsky,User:Twinklestarsky,[[WP:AES|←]]Created page with '==Myself== I am Twinklestarsky. I would like to edit and contribute to [[Wikipedia]].'
+2023-05-24T15:33:20+00:00,1156778759,1156778713,1,Twinklestarsky,Arjun Chakrabarty,
+2023-05-24T15:33:02+00:00,1156778713,1156778646,1,Twinklestarsky,Arjun Chakrabarty,
+2023-05-24T15:32:31+00:00,1156778646,1156377230,1,Twinklestarsky,Arjun Chakrabarty,
+2023-05-24T15:27:04+00:00,1156777853,1156379713,1,Twinklestarsky,Ridhima Ghosh,/* Television */
+2023-05-22T15:22:58+00:00,1156379713,1156376272,1,Twinklestarsky,Ridhima Ghosh,
+2023-05-22T15:01:01+00:00,1156376272,1156210732,1,Twinklestarsky,Ridhima Ghosh,/* Short films & web series */
+2023-05-01T07:30:14+00:00,1152607780,1152607753,0,FakhrZ,Abar Kanchanjungha,/* External links */
+2023-04-09T08:55:21+00:00,1148960985,1145598347,0,Seraphimblade,Arjun Chakrabarty,Removing link(s) [[Wikipedia:Articles for deletion/Hoichoi]] closed as delete ([[WP:XFDC#4.0.13|XFDcloser]])
+2023-07-13T03:28:57+00:00,1165120808,1165030821,0,Geniac,Anindita Bose,Removing unreliable source
+2023-06-20T15:41:26+00:00,1161092075,1156778759,0,103.171.247.77,Arjun Chakrabarty,/* Awards and nominations */
+2023-01-02T18:35:16+00:00,1131133071,1131044269,0,Geniac,Anindita Bose,Reverted 1 edit by [[Special:Contributions/2409:40C4:3C:9945:947B:8281:7E43:D397|2409:40C4:3C:9945:947B:8281:7E43:D397]] ([[User talk:2409:40C4:3C:9945:947B:8281:7E43:D397|talk]]): Unexplained deletion
+2023-05-05T11:57:56+00:00,1153295605,1153295571,0,FakhrZ,Abar Kanchanjungha,episodes
+2023-05-31T02:01:54+00:00,1157799835,1157111735,0,Niceguyedc,Abar Kanchanjungha,v2.05 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Rahul Banerjee]] / Fix errors for [[WP:WCW|CW project]] (Link equal to linktext)
+2023-01-18T19:55:24+00:00,1134455043,1131133071,0,Bobby Sen,Anindita Bose,
+2023-05-13T04:37:35+00:00,1154537737,1151985127,0,Cyb Bots,Arjun Chakrabarty,
+2022-11-17T18:25:01+00:00,1122462771,1120643392,0,$oukm,Arjun Chakrabarty,/* References */
+2023-01-17T07:06:46+00:00,1134153410,1134153360,0,Reba Roy,Arjun Chakrabarty,/* Telefilm */
+2022-06-29T17:15:46+00:00,1095672107,1087025375,0,Mehedi Abedin,Category:Film posters for Bengali-language films,
+2022-06-26T20:44:19+00:00,1095172967,1095172859,0,Nahian,File:Swastik Sanket poster.jpg,
+2023-01-15T07:31:53+00:00,1133734271,1122462771,0,Bobby Sen,Arjun Chakrabarty,
+2023-03-02T12:20:31+00:00,1142446983,1140965925,0,42.110.146.74,Gaurav Chakrabarty,/* Awards and nominations */
+2023-07-30T20:45:42+00:00,1167946699,1167944943,0,Centrepiece12,Film and Television Institute of India,Added Citation
+2022-12-26T10:05:38+00:00,1129620465,1125800575,0,Billjones94,Film and Television Institute of India,URL format
+2023-02-01T05:38:32+00:00,1136798014,1135533900,0,Reba Roy,Gaurav Chakrabarty,/* TVCs */
+2023-04-29T18:12:17+00:00,1152350080,1152349968,0,Reba Roy,Gaurav Chakrabarty,
+2023-04-03T16:49:23+00:00,1148028541,1147795494,0,Reba Roy,Gaurav Chakrabarty,/* Short films and web series */
+2023-06-30T05:54:38+00:00,1162614253,1162611189,0,Lily Bella Clara,Gaurav Chakrabarty,/* External links */
+2023-06-11T18:29:16+00:00,1159658477,1159480013,0,Lily Bella Clara,Gaurav Chakrabarty,/* Audio drama */
+2022-12-12T08:09:28+00:00,1126985390,1122908157,0,Reba Roy,Gaurav Chakrabarty,/* Short films and web series */
+2023-04-09T08:54:31+00:00,1148960844,1148956323,0,Seraphimblade,Gaurav Chakrabarty,Removing link(s) [[Wikipedia:Articles for deletion/Hoichoi]] closed as delete ([[WP:XFDC#4.0.13|XFDcloser]])
+2023-01-09T14:37:47+00:00,1132574000,1131437989,0,Reba Roy,Gaurav Chakrabarty,/* Awards and nominations */
+2023-01-25T07:08:33+00:00,1135533900,1132574000,0,Reba Roy,Gaurav Chakrabarty,
+2022-12-17T06:03:21+00:00,1127887908,1127253756,0,Reba Roy,Gaurav Chakrabarty,/* Short films and web series */
+2023-03-27T06:42:29+00:00,1146833317,1146670226,0,Reba Roy,Gaurav Chakrabarty,/* Filmography */
+2023-03-17T12:00:20+00:00,1145123756,1142446983,0,Reba Roy,Gaurav Chakrabarty,/* Short films and web series */
+2022-12-24T23:25:35+00:00,1129364593,1127887908,0,Boca Jóvenes,Gaurav Chakrabarty,/* Podcast */clean up
+2023-02-22T17:52:43+00:00,1140965925,1139769995,0,Reba Roy,Gaurav Chakrabarty,/* Podcast */
+2023-03-20T04:17:23+00:00,1145630709,1145123756,0,Dicklyon,Gaurav Chakrabarty,case fix (via [[WP:JWB]])
+2022-12-29T09:30:29+00:00,1130259518,1130259259,0,42.110.147.11,Gaurav Chakrabarty,/* Short films and web series */
+2023-07-16T17:30:55+00:00,1165670845,1165670749,0,Editor Anjali,Gaurav Chakrabarty,/* Audio drama */
+2023-08-02T01:16:55+00:00,1168310286,1168201420,0,Salavat,Gaurav Chakrabarty,remove excessive use of a non-free image
+2023-04-23T10:59:14+00:00,1151333946,1151333717,0,Reba Roy,Gaurav Chakrabarty,
+2023-02-16T20:31:15+00:00,1139769995,1139468381,0,SagnikKundu,Gaurav Chakrabarty,
+2023-01-04T04:44:51+00:00,1131437989,1131437525,0,Reba Roy,Gaurav Chakrabarty,/* Awards and nominations */
+2023-04-26T07:05:07+00:00,1151787379,1151787189,0,Reba Roy,Gaurav Chakrabarty,
+2023-07-07T07:38:22+00:00,1163946067,1163945941,0,LILI ROY 1987,Gaurav Chakrabarty,/* Television */
+2023-04-24T16:09:49+00:00,1151525511,1151333946,0,Reba Roy,Gaurav Chakrabarty,/* Filmography */
+2023-07-13T11:44:54+00:00,1165165054,1163946067,0,Editor Anjali,Gaurav Chakrabarty,/* Filmography */
+2023-07-05T13:04:59+00:00,1163537491,1163537113,0,LILI ROY 1987,Gaurav Chakrabarty,
+2023-04-02T07:02:21+00:00,1147795494,1147647857,0,Reba Roy,Gaurav Chakrabarty,/* Short films and web series */
+2022-12-13T18:33:27+00:00,1127253756,1126985390,0,Reba Roy,Gaurav Chakrabarty,
+2023-03-31T08:59:08+00:00,1147490278,1146833317,0,Reba Roy,Gaurav Chakrabarty,/* Filmography */
+2023-05-18T09:48:39+00:00,1155476823,1155462298,0,ItzRahimAhmad,Gaurav Chakrabarty,
+2023-06-08T23:43:43+00:00,1159210142,1159176553,0,Sumanuil,Gaurav Chakrabarty,
+2022-12-27T11:03:13+00:00,1129847428,1129847017,0,110.227.93.38,Gaurav Chakrabarty,
+2023-08-22T00:55:23+00:00,1171580775,1171465316,0,ImageRemovalBot,Gaurav Chakrabarty,Removing links to deleted file [[:File:Gaurav Chakrabarty at trailer launch event of Bismillah in 2022.jpg]]
+2023-04-06T07:54:15+00:00,1148456329,1148028541,0,Reba Roy,Gaurav Chakrabarty,/* Filmography */
+2023-01-03T11:59:20+00:00,1131280841,1130259518,0,103.211.135.101,Gaurav Chakrabarty,/* Awards and nominations */
+2023-07-15T05:24:11+00:00,1165436554,1165436361,0,Editor Anjali,Gaurav Chakrabarty,/* Audio drama */
+2023-02-15T08:32:51+00:00,1139468381,1136798014,0,Laterthanyouthink,Gaurav Chakrabarty,/* Career */ Copyedit (minor)
+2023-04-20T08:48:31+00:00,1150813505,1148960844,0,গৌরব চক্রবর্তী,Gaurav Chakrabarty,Gourav
+2023-07-17T17:22:16+00:00,1165825957,1165670845,0,Geniac,Gaurav Chakrabarty,/* Television */ Removing unreliable source
+2023-05-07T20:21:42+00:00,1153699450,1153323468,0,Ser Amantio di Nicolao,June Malia,/* External links */remove [[Category:West Bengal politicians]]; in subcat
+2022-11-19T12:44:38+00:00,1122747090,1098477659,0,Marcocapelle,June Malia,/* External links */removed grandparent category of [[Trinamool Congress politicians from West Bengal]]
+2023-05-23T02:07:16+00:00,1156477346,1134381753,0,InternetArchiveBot,Koushani Mukherjee,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.4
+2023-01-05T06:28:43+00:00,1131671778,1131671567,0,Bobby Sen,List of Bengali films of 2023,
+2022-12-20T15:01:41+00:00,1128515083,1128367830,0,Ravensfire,Koushani Mukherjee,Reverting edit(s) by [[Special:Contributions/AshpanBhai|AshpanBhai]] ([[User_talk:AshpanBhai|talk]]) to rev. 1127933030 by 103.141.93.238: rv sock of Symon Sadik ([[w:en:WP:UV|UV 0.1.3]])
+2023-04-03T05:56:01+00:00,1147950218,1147884509,0,103.211.132.123,List of Bengali films of 2023,/* October – December */
+2023-06-21T18:30:20+00:00,1161278395,1155467572,0,146.196.47.80,Mithu Chakrabarty,/* Television */
+2023-01-18T11:42:46+00:00,1134381753,1128515083,0,202.142.71.223,Koushani Mukherjee,/* Filmography */
+2022-10-28T07:50:20+00:00,1118676659,1118293662,0,VNC200,Mithu Chakrabarty,/* Television */
+2023-02-03T10:38:30+00:00,1137204601,1118676659,0,Filelakeshoe,Mithu Chakrabarty,Removing link(s) [[Wikipedia:Articles for deletion/List of programmes broadcast by Star Jalsha]] closed as delete ([[WP:XFDC#4.0.13|XFDcloser]])
+2023-04-29T07:12:59+00:00,1152276088,1151984887,0,Rkieferbaum,Mithu Chakrabarty,error 64 in CWP + clean up
+2023-02-20T10:43:15+00:00,1140504198,1138235896,0,202.8.113.143,Priyanka Sarkar,Fixed married duration to extend till present.
+2023-05-18T08:22:16+00:00,1155466727,1153876251,0,ItzRahimAhmad,Priyanka Sarkar,Add source
+2023-06-14T12:02:58+00:00,1160098715,1149338976,0,FakhrZ,Rahul Banerjee (actor),/* Filmography */ +wikilinks
+2023-07-19T19:21:39+00:00,1166165359,1165823333,0,103.220.17.196,Priyanka Sarkar,
+2023-04-11T16:11:31+00:00,1149338976,1145598216,0,116.58.203.165,Rahul Banerjee (actor),
+2023-01-19T15:34:59+00:00,1134614041,1127253887,0,Ira Leviton,Ridhima Ghosh,Fixed references.  Please see [[Category:CS1 maint: numeric names: authors list]].
+2023-06-08T23:41:15+00:00,1159209900,1157160250,0,CommonsDelinker,Ridhima Ghosh,Removing [[:c:File:Ridhima_Ghosh_in_2020.jpg|Ridhima_Ghosh_in_2020.jpg]]; it has been deleted from Commons by [[:c:User:Elcobbola|Elcobbola]] because: Copyright violation; see [[:c:Commons:Licensing|]] ([[:c:COM:CSD#F1|F1]]): https://www.instagram.com/p/B
+2022-12-13T18:34:21+00:00,1127253887,1126985517,0,Reba Roy,Ridhima Ghosh,/* Short films & web series */
+2023-02-15T09:38:12+00:00,1139475026,1136797923,0,Laterthanyouthink,Ridhima Ghosh,/* Career */ link
+2023-04-09T08:54:31+00:00,1148960810,1148956183,0,Seraphimblade,Ridhima Ghosh,Removing link(s) [[Wikipedia:Articles for deletion/Hoichoi]] closed as delete ([[WP:XFDC#4.0.13|XFDcloser]])
+2023-05-04T03:02:59+00:00,1153080077,1152131149,0,Chris the speller,Ridhima Ghosh,/* Awards and nominations */replaced: Awards & nominations → Awards and nominations
+2023-05-26T18:50:43+00:00,1157160250,1157111006,0,Geniac,Ridhima Ghosh,Undid revision 1157111006 by [[Special:Contributions/Twinklestarsky|Twinklestarsky]] ([[User talk:Twinklestarsky|talk]]); unsourced
+2023-02-01T05:37:46+00:00,1136797923,1134614041,0,Reba Roy,Ridhima Ghosh,/* TVCs */
+2023-07-22T07:13:19+00:00,1166543045,1165437940,0,2607:FEA8:A580:2080:5014:4762:A836:6D29,Ridhima Ghosh,
+2023-03-22T23:21:04+00:00,1146130584,1143344220,0,Dicklyon,Ridhima Ghosh,case fix (via [[WP:JWB]])
+2023-04-02T07:03:53+00:00,1147795607,1147646961,0,Reba Roy,Ridhima Ghosh,/* Short films & web series */
+2023-04-23T11:00:14+00:00,1151334053,1151333783,0,Reba Roy,Ridhima Ghosh,
+2023-04-22T09:40:39+00:00,1151165469,1151165337,0,Reba Roy,Ridhima Ghosh,/* Filmography */
+2023-07-12T15:24:34+00:00,1165030853,1165009547,0,CommonsDelinker,Ridhima Ghosh,Removing [[:c:File:Ridhima.jpg|Ridhima.jpg]]; it has been deleted from Commons by [[:c:User:EugeneZelenko|EugeneZelenko]] because: [[:c:Commons:Licensing|]]: promo/press photo.
+2023-03-07T04:59:44+00:00,1143344220,1139475026,0,43.251.171.80,Ridhima Ghosh,/* Short films & web series */
+2023-04-24T07:12:52+00:00,1151466819,1151466740,0,Milusushil00,Ridhima Ghosh,
+2023-07-15T05:40:27+00:00,1165437940,1165437889,0,Editor Anjali,Ridhima Ghosh,
+2022-12-12T08:10:45+00:00,1126985517,1124526257,0,Reba Roy,Ridhima Ghosh,/* Short films & web series */
+2023-07-23T17:39:55+00:00,1166774825,1166729488,0,Geniac,Ritabhari Chakraborty,removed Indic script per [[WP:INDICSCRIPT]]
+2023-02-15T17:54:52+00:00,1139547671,1138236191,0,GreenC bot,Ritabhari Chakraborty,Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-01-24T07:38:21+00:00,1135372302,1111813226,0,202.142.71.223,Rwitobroto Mukherjee,/* Short films and web series */
+2023-07-14T12:30:04+00:00,1165323174,1165120590,0,Bobby Sen,Rukmini Maitra,
+2023-08-06T21:34:07+00:00,1169069017,1169068737,0,116.206.222.161,Rwitobroto Mukherjee,/* Theatre */Added content
+2023-06-04T22:45:04+00:00,1158571747,1156742894,0,198.98.206.186,Rukmini Maitra,
+2023-04-09T08:54:31+00:00,1148960846,1148758517,0,Seraphimblade,Rwitobroto Mukherjee,Removing link(s) [[Wikipedia:Articles for deletion/Hoichoi]] closed as delete ([[WP:XFDC#4.0.13|XFDcloser]])
+2022-09-23T02:10:39+00:00,1111813226,1107842266,0,Yamaguchi先生,Rwitobroto Mukherjee,Reverted edits by [[Special:Contribs/2409:4061:4E80:A5F3:7DA4:4EFC:21CA:220F|2409:4061:4E80:A5F3:7DA4:4EFC:21CA:220F]] ([[User talk:2409:4061:4E80:A5F3:7DA4:4EFC:21CA:220F|talk]]) to last version by Titodutta
+2023-03-20T00:45:29+00:00,1145599682,1135372302,0,Dicklyon,Rwitobroto Mukherjee,case fix (via [[WP:JWB]])
+2023-03-20T01:03:43+00:00,1145603142,1139395001,0,Dicklyon,Sabyasachi Chakrabarty,case fix (via [[WP:JWB]])
+2023-05-15T17:18:40+00:00,1154939741,1153095613,0,Vincelord,Saswata Chatterjee,/* Filmography */  added link
+2023-01-29T18:10:19+00:00,1136300941,1134723908,0,Vikram maingi,Saswata Chatterjee,/* Filmography */
+2023-04-07T06:07:24+00:00,1148605903,1145603142,0,Mehedi Abedin,Sabyasachi Chakrabarty,
+2023-06-25T22:03:59+00:00,1161924486,1161924341,0,Achuislemochroi75,Sayantan Ghosal,"Added italics, to Sagardwipey Jawker Dhan, to be consistent with formatting of other films."
+2022-09-23T15:42:08+00:00,1111903296,1108326751,0,Titodutta,Tenida and Co.,clean up
+2023-04-22T08:29:14+00:00,1151158371,1151157218,0,Bobby Sen,Tenida and Co.,
+2023-05-22T09:21:38+00:00,1156329229,1156328798,0,Pinakpani,Tenida and Co.,ref
+2023-02-15T00:23:14+00:00,1139408945,1138564613,0,ClueBot III,User talk:Alextejthompson,Archiving 1 discussion to [[User talk:Alextejthompson/Archives/ 5]]. (BOT)
+2023-03-18T00:34:12+00:00,1145242843,1145129137,0,ClueBot III,User talk:Alextejthompson,Archiving 1 discussion to [[User talk:Alextejthompson/Archives/ 5]]. (BOT)
+2023-08-02T10:00:14+00:00,1168361997,1168202959,0,FastilyBot,User talk:PhilippeAthos,BOT: Some of your contributions may require attention
+2023-08-02T20:05:53+00:00,1168445972,1168361997,0,Iruka13,User talk:PhilippeAthos,Notification: tagging for deletion of [[:File:Mithu Chakrabarty in 2021.jpg]].
+2023-08-20T10:39:20+00:00,1171316242,1171197282,0,Iruka13,User talk:PhilippeAthos,General note: Removing file deletion tags on [[:File:Gaurav Chakrabarty at trailer launch event of Bismillah in 2022.jpg]].
+2023-02-06T16:40:07+00:00,1137818559,1134250847,0,BusterD,User talk:SmokeyJoe,/* I've called the question. */ new section
+2023-06-17T17:30:54+00:00,1160611103,1159582141,0,MediaWiki message delivery,User talk:SmokeyJoe,/* New Pages Patrol newsletter June 2023 */ new section
+2023-01-04T17:02:52+00:00,1131547201,1131493092,0,WhatamIdoing,User talk:SmokeyJoe,/* Drafts */ Reply
+2023-07-17T16:49:23+00:00,1165821998,1157286286,0,Girth Summit,User talk:Twinklestarsky,Adding sockpuppetry block notice per [[:w:en:Wikipedia:Sockpuppet investigations/Annewsha Chakraborty]] (using [[:w:en:WP:SPIH|spihelper.js]])
+2023-04-20T17:12:37+00:00,1150894075,1150430658,0,MediaWiki message delivery,User talk:SmokeyJoe,/* New Page Patrol – May 2023 Backlog Drive */ new section
+2023-07-17T16:49:23+00:00,1165821980,1156781253,0,Girth Summit,User:Twinklestarsky,Adding sockpuppetry tag per [[:w:en:Wikipedia:Sockpuppet investigations/Annewsha Chakraborty]] (using [[:w:en:WP:SPIH|spihelper.js]])
+2023-07-17T16:49:23+00:00,1165821976,1155675388,0,Girth Summit,User:LABAID2023,Adding sockpuppetry tag per [[:w:en:Wikipedia:Sockpuppet investigations/Annewsha Chakraborty]] (using [[:w:en:WP:SPIH|spihelper.js]])
+2023-07-24T15:48:52+00:00,1166920417,1165189874,0,Bovineboy2008,Abar Kanchanjungha,use date template
+2023-06-24T19:38:12+00:00,1161741926,1161624203,0,2607:FEA8:4D00:27B0:4119:9F45:A48B:2AB0,Anindita Bose,
+2023-03-26T09:32:42+00:00,1146675876,1146675188,0,Adakiko,Anindita Bose,Reverted edits by [[Special:Contributions/202.134.154.97|202.134.154.97]] ([[User talk:202.134.154.97|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2022-06-12T05:35:25+00:00,1092728750,1092588700,0,JalenFolf,Anindita Bose,Reverted edits by [[Special:Contribs/Ramu2020|Ramu2020]] ([[User talk:Ramu2020|talk]]) to last version by Billjones94
+2022-10-16T11:16:17+00:00,1116402310,1116401501,0,150.129.110.35,Arjun Chakrabarty,Intro
+2023-04-27T13:06:00+00:00,1151985127,1148960985,0,Theriazz123,Arjun Chakrabarty,/* Films */
+2022-09-20T21:03:26+00:00,1111408452,1103232442,0,Ost316,Arjun Chakrabarty,"/* top */[[WP:AWB]] [[WP:CHECKWIKI]]  16/90/91 cleanup, et. al., replaced: <br> → <br />"
+2023-05-22T15:07:35+00:00,1156377230,1156376520,0,103.135.228.170,Arjun Chakrabarty,/* Awards and nominations */
+2022-08-08T22:59:11+00:00,1103232442,1102108930,0,Ost316,Arjun Chakrabarty,"[[WP:AWB]] [[WP:CHECKWIKI]]  16/90/91 cleanup, et. al."
+2023-07-05T14:08:12+00:00,1163549006,1163537641,0,Arjayay,Arjun Chakrabarty,Undid revision 1163537641 by [[Special:Contributions/LILI ROY 1987|LILI ROY 1987]] ([[User talk:LILI ROY 1987|talk]]) unexplained deletion
+2022-11-08T02:22:59+00:00,1120643392,1116402310,0,General Ization,Arjun Chakrabarty,Reverted edits by [[Special:Contribs/150.129.110.35|150.129.110.35]] ([[User talk:150.129.110.35|talk]]) to last version by John of Reading
+2023-06-30T17:22:24+00:00,1162701663,1161926390,0,174.74.153.236,Film and Television Institute of India,minor edits
+2022-07-02T05:23:27+00:00,1096080369,1096080147,0,Storchy,Film and Television Institute of India,/* Notable alumni */ [[WP:ALUMNI]]
+2023-07-18T13:18:08+00:00,1165954038,1162701663,0,AmNaTi200,Film and Television Institute of India,/* Notable alumni */Mukesh Khanna Has Been Mentioned Twice.
+2023-04-21T10:54:21+00:00,1151011211,1150229861,0,2406:B400:B5:7C61:D2F8:8CFF:FEA8:E158,Film and Television Institute of India,/* Notable alumni */
+2022-10-02T03:35:11+00:00,1113563768,1106390375,0,GripPhoenix,Film and Television Institute of India,/* Notable alumni */ Added links
+2023-04-09T09:21:47+00:00,1148963852,1148963719,0,Teammm,Film and Television Institute of India,Reverted edits by [[Special:Contributions/103.54.146.244|103.54.146.244]] ([[User talk:103.54.146.244|talk]]) ([[WP:AntiVandal|AV]])
+2022-11-28T00:55:50+00:00,1124244394,1123737843,0,Nikhilesh Mohite,Film and Television Institute of India,"/* Notable alumni */I was listening to Raza Murad's interview with Mukesh Khanna and he mentioned that he was a student in FTII Pune, when checked Wikipedia his name was missing from the Notable Alumni, thought to update the details :)"
+2022-12-05T22:35:30+00:00,1125800575,1124244394,0,82.21.91.62,Film and Television Institute of India,/* Notable alumni */added content
+2023-06-25T22:23:01+00:00,1161926390,1161061013,0,HeyElliott,Film and Television Institute of India,[[MOS:DOC]]
+2022-09-16T16:37:11+00:00,1110644897,1110644459,0,Amropali Varma,Gaurav Chakrabarty,/* TVCs */
+2022-07-29T17:15:25+00:00,1101169348,1100970962,0,Amropali Varma,Gaurav Chakrabarty,/* Filmography */
+2022-11-19T14:59:19+00:00,1122759713,1113563768,0,49.205.252.159,Film and Television Institute of India,/* Notable alumni */
+2022-07-13T06:51:39+00:00,1097901695,1097901589,0,Amropali Varma,Gaurav Chakrabarty,
+2022-09-30T15:21:24+00:00,1113253243,1111895386,0,Amropali Varma,Gaurav Chakrabarty,
+2022-10-25T15:52:02+00:00,1118176981,1113253243,0,Amropali Varma,Gaurav Chakrabarty,
+2022-07-30T06:39:23+00:00,1101283408,1101283092,0,Amropali Varma,Gaurav Chakrabarty,/* Filmography */
+2022-08-28T13:32:23+00:00,1107157845,1107005079,0,Amropali Varma,Gaurav Chakrabarty,/* TVCs */
+2022-11-20T14:53:22+00:00,1122908157,1118176981,0,160.238.0.148,Gaurav Chakrabarty,/* Filmography */
+2022-07-05T07:49:46+00:00,1096563381,1096563285,0,Amropali Varma,Gaurav Chakrabarty,
+2022-09-23T14:39:23+00:00,1111895386,1110644897,0,Amropali Varma,Gaurav Chakrabarty,/* TVCs */
+2022-09-06T14:55:18+00:00,1108840378,1107157845,0,Amropali Varma,Gaurav Chakrabarty,
+2022-05-21T21:22:42+00:00,1089088687,1089088553,0,223.223.130.123,June Malia,
+2022-07-16T01:19:00+00:00,1098477659,1089088687,0,Jevansen,June Malia,Moving from [[Category:All India Trinamool Congress politicians from West Bengal]] to [[Category:Trinamool Congress politicians from West Bengal]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2022-10-31T06:08:51+00:00,1119198460,1119198456,0,ClueBot NG,Koushani Mukherjee,"Reverting possible vandalism by [[Special:Contribs/2409:4071:4D97:B5B3:D84E:1C96:9C05:5F43|2409:4071:4D97:B5B3:D84E:1C96:9C05:5F43]] to version by 45.64.239.222. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4186275) (Bot)"
+2022-10-13T15:05:26+00:00,1115853905,1115853400,0,202.142.71.103,Koushani Mukherjee,/* Filmography */
+2022-08-07T05:36:50+00:00,1102842693,1098716167,0,Kailash29792,Koushani Mukherjee,/* top */clean up
+2023-06-27T06:26:34+00:00,1162137776,1162137650,0,103.211.20.237,List of Bengali films of 2023,/* October – December */
+2023-04-16T06:30:59+00:00,1150080568,1150080378,0,103.170.183.208,List of Bengali films of 2023,/* October – December */
+2023-07-25T15:44:06+00:00,1167082904,1167082695,0,Creativedada,List of Bengali films of 2023,/* July – September */
+2023-04-20T04:40:41+00:00,1150788058,1150080568,0,59.91.33.95,List of Bengali films of 2023,
+2023-02-27T10:07:47+00:00,1141884367,1141717925,0,Pal Babu,List of Bengali films of 2023,/* January – March */
+2023-08-10T22:51:48+00:00,1169730570,1169577212,0,Xzantiyamoloy,List of Bengali films of 2023,/* January – March */
+2023-05-27T15:00:23+00:00,1157276340,1157276250,0,Pal Babu,List of Bengali films of 2023,/* April – June */
+2022-07-11T17:31:06+00:00,1097608861,1087417335,0,151.63.212.10,Mithu Chakrabarty,
+2022-05-12T09:38:13+00:00,1087417335,1085373538,0,2409:4060:2E81:87C6:0:0:5FC8:E0B,Mithu Chakrabarty,
+2023-06-16T23:18:09+00:00,1160510068,1160509907,0,Pal Babu,List of Bengali films of 2023,/* April – June */
+2023-04-27T13:04:24+00:00,1151984887,1148960797,0,Theriazz123,Mithu Chakrabarty,/* Filmography */
+2023-03-18T03:05:44+00:00,1145259059,1137204601,0,Thispoeticworld,Mithu Chakrabarty,/* Filmography */
+2022-11-23T09:46:31+00:00,1123363459,1123363305,0,103.154.236.67,Priyanka Sarkar,/* Filmography */
+2022-06-17T04:42:08+00:00,1093523102,1090155451,0,2409:4060:2019:BD41:0:0:1662:A5,Priyanka Sarkar,
+2023-02-01T03:07:24+00:00,1136782814,1134973744,0,2406:7400:56:281C:F895:E407:FBD:70D,Priyanka Sarkar,
+2022-08-08T13:07:06+00:00,1103135922,1093523102,0,Fylindfotberserk,Priyanka Sarkar,/* top */ non notable children
+2023-05-08T21:18:51+00:00,1153876251,1148960798,0,203.192.253.9,Priyanka Sarkar,
+2022-10-12T20:06:53+00:00,1115707866,1115706803,0,42.110.147.123,Priyanka Sarkar,/* Filmography */Updated
+2022-11-01T09:43:51+00:00,1119389710,1117919964,0,2402:3A80:1CD2:C447:378:5634:1232:5476,Priyanka Sarkar,/* Filmography */
+2023-08-06T17:48:05+00:00,1169040438,1167521226,0,103.148.149.5,Priyanka Sarkar,
+2023-06-30T07:58:14+00:00,1162628523,1155466727,0,14.139.214.33,Priyanka Sarkar,
+2022-08-04T02:47:34+00:00,1102242007,1102240560,0,2409:4061:6E0B:EED9:D7C5:A9AE:1F3B:3101,Rahul Banerjee (actor),/* Filmography */
+2023-02-22T19:50:01+00:00,1140986427,1140557027,0,2402:3A80:1983:81F6:89C6:4233:44CF:A717,Rahul Banerjee (actor),Grammatical error corrected
+2022-11-13T20:39:34+00:00,1121726554,1121661636,0,Rodw,Rahul Banerjee (actor),Disambiguating links to [[Chaka]] (link changed to [[Chaka (film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-07-09T15:09:08+00:00,1164509298,1163025258,0,122.163.57.132,Rahul Banerjee (actor),legal action
+2023-08-01T02:43:45+00:00,1168147074,1166728958,0,Jevansen,Rahul Banerjee (actor),Moving from [[Category:People from Dhaka]] to [[Category:Actors from Dhaka]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2023-01-18T10:40:56+00:00,1134374104,1134341362,0,2402:3A80:1981:C736:F078:5A6E:43F6:9891,Rahul Banerjee (actor),
+2022-06-24T03:30:43+00:00,1094711559,1094071556,0,FrescoBot,Rahul Banerjee (actor),Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2023-07-02T14:08:31+00:00,1163025258,1163024844,0,Ikshya,Rahul Banerjee (actor),Added content
+2022-10-17T11:42:12+00:00,1116601696,1116600921,0,Amropali Varma,Ridhima Ghosh,
+2022-11-29T04:38:33+00:00,1124526257,1124526181,0,Jellysandwich0,Ridhima Ghosh,
+2022-07-24T15:24:23+00:00,1100176492,1097925985,0,Amropali Varma,Ridhima Ghosh,/* Short films & web series */
+2022-07-13T10:08:08+00:00,1097925985,1097924627,0,Amropali Varma,Ridhima Ghosh,/* Filmography */
+2022-08-02T17:49:40+00:00,1101961579,1101951356,0,103.145.74.151,Ritabhari Chakraborty,
+2023-08-18T18:31:12+00:00,1171046241,1170399357,0,Arjunsoumithran,Ritabhari Chakraborty,cleanup
+2023-04-17T11:48:03+00:00,1150309599,1150309524,0,Kj cheetham,Rukmini Maitra,Removed bit of [[WP:PUFFERY]]
+2022-09-05T22:10:02+00:00,1108717551,1108712938,0,Taukeerppw,Rukmini Maitra,Reverted 1 edit by [[Special:Contributions/Bobby Sen|Bobby Sen]] ([[User talk:Bobby Sen|talk]]) Unexplained removal and added unsourced
+2022-10-12T19:08:05+00:00,1115698160,1115636912,0,Bamyers99,Rukmini Maitra,/* External links */ recovered categories
+2023-07-29T20:08:00+00:00,1167772113,1167645628,0,103.218.237.76,Rukmini Maitra,/* Filmography */
+2022-06-03T16:54:34+00:00,1091332328,1090376923,0,Citation bot,Rukmini Maitra,"Alter: title. Add: date, title, work. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 2253/2858"
+2023-02-08T18:47:27+00:00,1138249364,1137451168,0,2405:201:8005:5AB3:84E5:E418:B79:E7D6,Rukmini Maitra,
+2022-11-23T09:00:12+00:00,1123358346,1123357849,0,Your Pritam,Rukmini Maitra,
+2022-12-08T07:07:27+00:00,1126234827,1123358346,0,Xzantiyamoloy,Rukmini Maitra,/* top */add dob
+2022-06-29T19:28:58+00:00,1095689150,1094074959,0,Johnsoniensis,Rwitobroto Mukherjee,/* External links */ not stub
+2022-09-01T05:30:25+00:00,1107842266,1105770823,0,2409:4061:4E80:A5F3:7DA4:4EFC:21CA:220F,Rwitobroto Mukherjee,/* Web Series and Short Films */
+2022-06-26T18:43:01+00:00,1095157946,1095157687,0,103.38.17.27,Sabyasachi Chakrabarty,
+2023-07-05T14:05:58+00:00,1163548599,1163537988,0,Arjayay,Sabyasachi Chakrabarty,Undid revision 1163537988 by [[Special:Contributions/LILI ROY 1987|LILI ROY 1987]] ([[User talk:LILI ROY 1987|talk]]) Unexplained deletion
+2023-06-11T14:46:50+00:00,1159629165,1158319799,0,Citation bot,Sabyasachi Chakrabarty,"Alter: url, title. URLs might have been anonymized. Add: date, archive-date, archive-url. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Delhi University alumni]] | #UCB_Category 127/659"
+2023-06-03T09:45:09+00:00,1158319799,1155468110,0,BattyBot,Sabyasachi Chakrabarty,Updated maintenance template(s) for [[WP:BLP|biography of living person]] & [[WP:AWB/GF|General fixes]]
+2022-10-16T16:29:42+00:00,1116446945,1113624467,0,Tassedethe,Sabyasachi Chakrabarty,/* Television series */
+2022-08-19T11:23:16+00:00,1105265022,1095157946,0,Citation bot,Sabyasachi Chakrabarty,Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Wikipedia articles needing clarification from April 2020]] | #UCB_Category 100/609
+2023-01-06T13:04:11+00:00,1131931008,1120674489,0,103.38.16.249,Sabyasachi Chakrabarty,/* Filmography */
+2022-09-11T20:03:24+00:00,1109773498,1105265022,0,89.110.25.70,Sabyasachi Chakrabarty,
+2022-11-08T06:17:23+00:00,1120674489,1116446945,0,P.Shiladitya,Sabyasachi Chakrabarty,/* Honours and awards */ dead link updated
+2023-03-26T20:41:05+00:00,1146764980,1145937567,0,ItsKhan Aman,Saswata Chatterjee,/* Filmography */
+2023-01-12T05:07:45+00:00,1133078364,1132077968,0,Liz,Saswata Chatterjee,"Removing link(s) to ""Bad Boy (upcoming film)"": Deleted article."
+2022-09-17T22:18:40+00:00,1110841830,1106989581,0,2402:3A80:1F02:7F9C:8F0A:E086:6E27:3CE6,Saswata Chatterjee,Filmography
+2022-07-15T20:17:09+00:00,1098430499,1092633395,0,Liz,Saswata Chatterjee,"Removing link(s) to ""Bastav (film)"": Removing links to deleted page Bastav (film)."
+2023-04-21T13:01:27+00:00,1151025521,1146764980,0,$harvanibp,Saswata Chatterjee,/* Filmography */
+2022-08-20T15:07:22+00:00,1105499440,1105442068,0,27.147.176.152,Saswata Chatterjee,
+2023-05-04T05:53:56+00:00,1153095613,1151025521,0,2402:3A80:1F69:B467:0:0:1447:911B,Saswata Chatterjee,/* Filmography */
+2022-06-11T14:54:08+00:00,1092633395,1092140020,0,2409:4060:2116:EDAD:0:0:1B80:30A5,Saswata Chatterjee,/* Awards */
+2022-08-14T18:15:12+00:00,1104398023,1098430499,0,Yarrowfes21,Saswata Chatterjee,
+2022-07-22T02:01:27+00:00,1099678785,1094098605,0,Ahoy.Starbuck,Sayantan Ghosal,/* Career */
+2022-10-01T02:28:16+00:00,1113356981,1111730176,0,2401:4900:3BD2:A5A1:6087:B412:FA34:1245,Sayantan Ghosal,/* External links */
+2023-07-21T07:19:38+00:00,1166392803,1166387027,0,Kashkc,Sayantan Ghosal,
+2022-12-09T08:42:25+00:00,1126432679,1119736888,0,Gotitbro,Sayantan Ghosal,
+2022-11-03T04:05:28+00:00,1119736888,1118481926,0,Gaurishrana,Sayantan Ghosal,Grammar correct in lead section.
+2022-12-17T12:50:28+00:00,1127929849,1127929363,0,103.141.93.238,Sayantan Ghosal,/* Web series and short films */
+2023-01-14T22:31:50+00:00,1133658286,1133386722,0,Idaho1111,Sayantan Ghosal,Fixed introduction grammar
+2023-01-22T21:57:37+00:00,1135141234,1133658286,0,Dl2000,Sayantan Ghosal,en-IN
+2022-09-03T19:45:05+00:00,1108326751,1108326723,0,Dl2000,Tenida and Co.,/* References */ cleanup param
+2023-05-31T09:34:29+00:00,1157844069,1157636472,0,Shadman1234,User talk:Alextejthompson,"/* Question from Shadman1234 (09:34, 31 May 2023) */ new section"
+2023-03-12T07:00:56+00:00,1144178355,1143893391,0,Red-tailed hawk,User talk:Alextejthompson,Undid revision 1143839549 by [[Special:Contributions/Thetoktik|Thetoktik]] ([[User talk:Thetoktik|talk]]) rv sock
+2023-05-09T19:31:06+00:00,1154023651,1151367147,0,Yapperbot,User talk:Alextejthompson,"[[WP:FRS|Feedback Request Service]] notification on a ""Wikipedia policies and guidelines"" request for comment (1/25 this month). You can unsubscribe at [[WP:FRS]]."
+2023-01-26T09:36:40+00:00,1135705569,1135512798,0,Peterfields90,User talk:Alextejthompson,"/* Question from Peterfields90 (09:36, 26 January 2023) */ new section"
+2022-12-15T12:29:21+00:00,1127564476,1127470604,0,GoodHelper111,User talk:Alextejthompson,"/* Question from GoodHelper111 (12:29, 15 December 2022) */ new section"
+2023-01-11T09:29:46+00:00,1132927631,1132364619,0,Mohamed thameem k,User talk:Alextejthompson,"/* Question from Mohamed thameem k on Ranipet district (09:29, 11 January 2023) */ new section"
+2022-08-13T15:09:15+00:00,1104221963,1104161788,0,Rajuahmmed007,User talk:Alextejthompson,"/* Question from Rajuahmmed007 (15:09, 13 August 2022) */ new section"
+2022-09-01T19:31:34+00:00,1107962303,1107959512,0,Yapperbot,User talk:Alextejthompson,"[[WP:FRS|Feedback Request Service]] notification on a ""Wikipedia policies and guidelines"" request for comment (1/30 this month). You can unsubscribe at [[WP:FRS]]."
+2022-12-21T20:28:34+00:00,1128751984,1128739926,0,Nihonjoe,User talk:Alextejthompson,"Nihonjoe moved page [[User talk:Rubbish computer]] to [[User talk:Alextejthompson]]: Automatically moved page while renaming the user ""[[Special:CentralAuth/Rubbish computer|Rubbish computer]]"" to ""[[Special:CentralAuth/Alextejthompson|Alextejthompson]]"""
+2023-06-23T18:22:21+00:00,1161589653,1161578782,0,Alextejthompson,User talk:Alextejthompson,"/* Question from TALASH 666 on Wikipedia:FAQ/Main (16:13, 23 June 2023) */ Reply"
+2022-12-18T15:16:50+00:00,1128131917,1127564476,0,Maryym khan,User talk:Alextejthompson,"/* Question from Maryym khan (15:16, 18 December 2022) */ new section"
+2022-11-15T03:49:55+00:00,1121970800,1120096291,0,Lowercase sigmabot III,User talk:SmokeyJoe,Archiving 2 discussion(s) to [[User talk:SmokeyJoe/Archive 12]]) (bot
+2022-07-05T03:54:28+00:00,1096540917,1096025268,0,Lowercase sigmabot III,User talk:SmokeyJoe,Archiving 2 discussion(s) to [[User talk:SmokeyJoe/Archive 12]]) (bot
+2023-04-18T03:57:26+00:00,1150430658,1148757996,0,Lowercase sigmabot III,User talk:SmokeyJoe,Archiving 2 discussion(s) to [[User talk:SmokeyJoe/Archive 12]]) (bot
+2023-06-01T00:08:55+00:00,1157945188,1157222029,0,Kvng,User talk:SmokeyJoe,/* Draft:2026 Israeli legislative election */ new section
+2023-02-15T04:45:13+00:00,1139444166,1139435355,0,Premeditated Chaos,User talk:SmokeyJoe,/* Ping at User talk:Athaenara */ Reply
+2022-07-24T20:56:27+00:00,1100227112,1096540917,0,JeanetteMartin,User talk:SmokeyJoe,/* NPP July 2022 backlog drive is on! */
+2022-12-08T01:20:51+00:00,1126192896,1124452980,0,Dronebogus,User talk:SmokeyJoe,Notification: [[Wikipedia:Miscellany for deletion/User:Some Wandom Noob/Silly animations|listing]] of [[:User:Some Wandom Noob/Silly animations]] at [[WP:Miscellany for deletion]].
+2022-08-22T03:56:18+00:00,1105858398,1105592892,0,Lowercase sigmabot III,User talk:SmokeyJoe,Archiving 2 discussion(s) to [[User talk:SmokeyJoe/Archive 12]]) (bot
+2023-08-05T00:02:08+00:00,1168780358,1168778476,0,SmokeyJoe,User talk:SmokeyJoe,"/* Question from YPMoldova (23:40, 4 August 2023) */ Reply"
+2023-03-29T03:54:02+00:00,1147147157,1143953044,0,Lowercase sigmabot III,User talk:SmokeyJoe,Archiving 2 discussion(s) to [[User talk:SmokeyJoe/Archive 12]]) (bot
+2022-08-16T17:02:41+00:00,1104741301,1104024901,0,Horse Eye's Back,User talk:SmokeyJoe,/* Taiwan as the Austronesian Homeland  */ new section
+2022-11-05T03:49:11+00:00,1120096291,1116542007,0,Lowercase sigmabot III,User talk:SmokeyJoe,Archiving 2 discussion(s) to [[User talk:SmokeyJoe/Archive 12]]) (bot
+2022-12-13T07:57:02+00:00,1127170726,1127169989,0,Timtrent,User talk:SmokeyJoe,/* That quasi-attack page at MfD */ Reply
+2023-03-10T22:56:11+00:00,1143953044,1143503721,0,Zinnober9,User talk:SmokeyJoe,End tag errors corrected
+2023-05-27T16:26:49+00:00,1157286286,1157283985,0,ULPS,User talk:Twinklestarsky,Notification: speedy deletion nomination of [[:Gaurav Bolchhi]].

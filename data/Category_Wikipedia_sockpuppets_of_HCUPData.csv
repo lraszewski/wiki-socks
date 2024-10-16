@@ -1,0 +1,895 @@
+timestamp,revid,parentid,sock,user,page,message
+2009-10-09T16:19:18+00:00,318891466,318890824,1,HCUPData,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2009-10-09T16:15:43+00:00,318890824,318888848,1,HCUPData,Healthcare Cost and Utilization Project,/* References */
+2009-10-09T16:07:10+00:00,318888848,318880752,1,HCUPData,Healthcare Cost and Utilization Project,
+2009-10-09T15:16:07+00:00,318880752,318880626,1,HCUPData,Healthcare Cost and Utilization Project,/* Procedure Classes */
+2009-10-09T15:15:24+00:00,318880626,318880440,1,HCUPData,Healthcare Cost and Utilization Project,/* Procedure Classes */
+2009-10-09T15:14:02+00:00,318880440,318880345,1,HCUPData,Healthcare Cost and Utilization Project,/* Procedure Classes */
+2009-10-09T15:13:19+00:00,318880345,318879951,1,HCUPData,Healthcare Cost and Utilization Project,/* HCUP Tools and Software */
+2009-10-09T15:10:59+00:00,318879951,318879685,1,HCUPData,Healthcare Cost and Utilization Project,/* HCUP Databases */
+2009-10-09T15:09:15+00:00,318879685,318879120,1,HCUPData,Healthcare Cost and Utilization Project,/* General Information */
+2009-10-09T15:05:54+00:00,318879120,314903431,1,HCUPData,Healthcare Cost and Utilization Project,
+2009-07-27T15:46:56+00:00,304495013,304494694,1,HCUPData,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2009-07-27T15:44:56+00:00,304494694,304494545,1,HCUPData,Healthcare Cost and Utilization Project,/* MONAHRQ */
+2009-07-27T15:44:02+00:00,304494545,304494079,1,HCUPData,Healthcare Cost and Utilization Project,/* MONAHRQ */
+2009-07-27T15:41:14+00:00,304494079,304492744,1,HCUPData,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2009-07-27T15:33:27+00:00,304492744,304492294,1,HCUPData,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2009-07-27T15:31:04+00:00,304492294,304491829,1,HCUPData,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2009-07-27T15:28:22+00:00,304491830,0,1,HCUPData,HCUP,moved [[HCUP]] to [[Healthcare Cost and Utilization Project (HCUP)]]
+2009-07-27T15:28:22+00:00,304491829,304491707,1,HCUPData,Healthcare Cost and Utilization Project,moved [[HCUP]] to [[Healthcare Cost and Utilization Project (HCUP)]]
+2009-07-27T15:27:36+00:00,304491707,304490831,1,HCUPData,Healthcare Cost and Utilization Project,moved [[Healthcare Cost and Utilization Project]] to [[HCUP]]
+2009-07-27T15:21:38+00:00,304490831,0,1,HCUPData,Healthcare Cost and Utilization Project,"[[WP:AES|←]]Created page with 'The '''Healthcare Cost and Utilization Project''' ('''HCUP''', pronounced '''""H-Cup""''') is a family of health care databases and related software tools and product...'"
+2016-11-10T00:22:24+00:00,748726653,748726448,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Statistical Briefs */
+2016-11-10T00:20:46+00:00,748726448,748726010,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Procedure Classes */
+2016-11-10T00:16:51+00:00,748726010,748725931,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Chronic Condition Indicator */
+2016-11-10T00:16:10+00:00,748725931,748725736,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-11-10T00:14:20+00:00,748725736,748725667,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-11-10T00:13:44+00:00,748725667,748725545,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-11-10T00:12:35+00:00,748725545,748725394,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-11-10T00:11:10+00:00,748725394,748725320,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-11-10T00:10:22+00:00,748725320,748725245,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Fast Stats */
+2016-11-10T00:09:42+00:00,748725245,748725128,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Fast Stats */
+2016-11-10T00:08:30+00:00,748725128,748724601,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUPnet */
+2016-11-10T00:03:20+00:00,748724601,748724413,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Chronic Condition Indicator */
+2016-11-10T00:01:49+00:00,748724413,748724264,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Chronic Condition Indicator */
+2016-11-10T00:00:30+00:00,748724264,748724235,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Nationwide Inpatient Sample (NIS) Hospital Ownership Files */
+2016-11-10T00:00:11+00:00,748724235,748724205,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Projection Reports */
+2016-11-09T23:59:53+00:00,748724205,748724179,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Methods Reports */
+2016-11-09T23:59:38+00:00,748724179,748724145,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* American Hospital Association (AHA) Linkage Files */
+2016-11-09T23:59:04+00:00,748724145,748724099,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Chronic Condition Indicator */
+2016-11-09T23:58:28+00:00,748724099,748724046,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Surgery Flags */
+2016-11-09T23:57:48+00:00,748724046,748723812,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Tools and Software */
+2016-11-09T23:55:14+00:00,748723812,748723662,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Chronic Condition Indicator */
+2016-11-09T23:53:36+00:00,748723662,748723519,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Chronic Condition Indicator */
+2016-11-09T23:52:02+00:00,748723519,748723131,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Chronic Condition Indicator */
+2016-11-09T23:47:50+00:00,748723131,748723011,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Comorbidity Software */
+2016-11-09T23:46:41+00:00,748723011,748722978,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Cost-to-Charge Ratio Files (CCR) */
+2016-11-09T23:46:14+00:00,748722978,748722926,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Supplemental Files */
+2016-11-09T23:45:37+00:00,748722926,748722882,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Cost-to-Charge Ratio Files (CCR) */
+2016-11-09T23:45:14+00:00,748722882,748722833,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Hospital Market Structure (HMS) Files */
+2016-11-09T23:44:35+00:00,748722833,748722676,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Supplemental Files */
+2016-11-09T23:42:51+00:00,748722676,748722536,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Projection Reports */
+2016-11-09T23:41:03+00:00,748722536,748719870,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Methods Reports */
+2016-11-09T23:09:20+00:00,748719870,748719502,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2016-11-09T23:05:38+00:00,748719502,748719444,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-11-09T23:05:00+00:00,748719444,748718967,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-11-09T22:59:57+00:00,748718967,748718897,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Supplemental Files */
+2016-11-09T22:59:11+00:00,748718897,748717090,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-11-09T22:41:57+00:00,748717090,748716172,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-11-09T22:21:52+00:00,748715050,748714247,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Fast Stats */
+2016-11-09T22:14:20+00:00,748714247,748713719,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUPnet */
+2016-11-09T22:09:34+00:00,748713719,748713651,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Tools and Software */
+2016-11-09T22:08:58+00:00,748713651,748712952,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* HCUP Databases */
+2016-11-09T22:03:03+00:00,748712952,748712814,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Obtaining HCUP databases through the Central Distributor */
+2016-11-09T22:01:53+00:00,748712814,748703634,1,HCUP_Outreach,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2016-11-09T20:19:42+00:00,748700256,748699697,1,HCUP_Outreach,Healthcare Cost and Utilization Project,
+2018-10-11T22:14:25+00:00,863615364,863614254,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2018-10-11T22:04:25+00:00,863614254,863612015,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* HCUP Supplemental Files */
+2018-10-11T21:45:04+00:00,863612015,863606346,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Surgery Flags */
+2018-10-11T20:59:52+00:00,863606346,863605455,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Utilization Flags */
+2018-10-11T20:51:53+00:00,863605455,863604924,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Procedure Classes */
+2018-10-11T20:48:06+00:00,863604924,863603501,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Procedure Classes */
+2018-10-11T20:37:04+00:00,863603501,863600140,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Elixhauser Comorbidity Software */
+2018-10-11T20:12:43+00:00,863600140,863593909,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Elixhauser Comorbidity Software */
+2018-10-11T19:30:15+00:00,863593909,863586715,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Chronic Condition Indicator */
+2018-10-11T18:35:20+00:00,863586715,863585800,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Clinical Classifications Software */
+2018-10-11T18:27:32+00:00,863585800,863442281,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */ reomoved 2012 redesign
+2018-10-10T19:55:57+00:00,863442281,863439019,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,
+2018-10-10T19:31:00+00:00,863439019,863432934,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Obtaining HCUP databases through the Central Distributor */
+2018-10-10T18:49:21+00:00,863432934,863430167,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2018-10-10T18:30:17+00:00,863430167,845953492,1,HCUP_Outreach_2017,Healthcare Cost and Utilization Project,/* General Information */
+2017-12-20T20:13:10+00:00,816349156,816348869,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T20:10:59+00:00,816348869,816348418,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T20:08:00+00:00,816348418,816348203,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T20:06:29+00:00,816348203,816347720,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T20:03:26+00:00,816347720,816346103,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T19:52:52+00:00,816346103,816345782,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T19:50:45+00:00,816345782,816345678,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T19:50:07+00:00,816345678,816345308,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T19:47:31+00:00,816345308,816345023,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T19:45:11+00:00,816345023,816344503,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-12-20T19:41:20+00:00,816344503,816342329,1,HCUP_Outreach2016,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2018-10-15T20:37:52+00:00,864213173,864212591,1,HCUP_Presentations,User talk:HCUP Presentations,/* October 2018 */
+2018-10-15T20:25:37+00:00,864211597,864211312,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* HCUPnet */
+2018-10-15T20:23:20+00:00,864211312,864209431,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* HCUP Tools and Software */
+2018-10-15T20:08:23+00:00,864209431,864208871,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* HCUP Databases */
+2018-10-15T20:04:00+00:00,864208871,864207754,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2018-10-15T19:55:23+00:00,864207754,864204489,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* General Information */
+2018-10-15T19:29:37+00:00,864204489,864204240,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2018-10-15T19:14:47+00:00,864202391,864202187,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* HCUP User Support Website (HCUP-US) */
+2018-10-15T19:13:21+00:00,864202187,864202114,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* HCUP Overview Course */
+2018-10-15T19:12:55+00:00,864202114,864201943,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* HCUP Overview Course */
+2018-10-15T19:11:39+00:00,864201943,864201806,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* HCUP Online Tutorial Series */
+2018-10-15T19:10:37+00:00,864201806,864201716,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2018-10-15T19:09:59+00:00,864201716,864201589,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Quality Indicators (QIs) */
+2018-10-15T19:09:15+00:00,864201589,864201466,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Elixhauser Comorbidity Software */
+2018-10-15T19:08:12+00:00,864201466,864201216,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2018-10-15T19:06:25+00:00,864201216,864200942,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Surgery Flags */
+2018-10-15T19:04:28+00:00,864200942,864200635,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Chronic Condition Indicator */
+2018-10-15T19:02:20+00:00,864200635,864197384,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* HCUP Tools and Software */
+2018-10-15T18:38:48+00:00,864197384,864196912,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Obtaining HCUP Databases Through the Central Distributor */
+2018-10-15T18:35:15+00:00,864196912,864195992,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Obtaining HCUP Databases Through the Central Distributor */
+2018-10-15T18:28:21+00:00,864195992,864195672,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2018-10-15T18:24:10+00:00,864195425,863785648,1,HCUP_Presentations,Healthcare Cost and Utilization Project,/* General Information */
+2015-04-06T20:38:30+00:00,655240909,646356518,1,HCUP_US,Women's health,/* Other medical issues */
+2015-04-06T20:37:17+00:00,655240744,652967380,1,HCUP_US,Gastrointestinal tract,
+2015-04-06T20:35:36+00:00,655240499,654383189,1,HCUP_US,Orthopedic surgery,/* Epidemiology */
+2015-04-06T20:34:51+00:00,655240377,654244337,1,HCUP_US,Circulatory system,/* Surgery */
+2015-04-06T20:33:15+00:00,655240148,652939161,1,HCUP_US,Cataract surgery,/* Operation procedures */
+2015-04-06T20:31:42+00:00,655239936,655236624,1,HCUP_US,Respiratory disease,/* Epidemiology */
+2015-04-06T20:30:32+00:00,655239776,655235027,1,HCUP_US,Medicaid,/* Enrollment */
+2015-04-06T20:29:36+00:00,655239666,654500680,1,HCUP_US,Teenage pregnancy in the United States,/* Birthrate */
+2015-04-06T20:28:38+00:00,655239528,652824797,1,HCUP_US,Neonatology,/* Treatment */
+2015-04-06T20:27:48+00:00,655239429,635540469,1,HCUP_US,Children's hospital,/* Utilization */
+2015-04-06T20:19:56+00:00,655238291,654148660,1,HCUP_US,Comorbidity,/* Treatment of comorbid patient */
+2015-04-06T20:19:12+00:00,655238187,654333473,1,HCUP_US,Childbirth,/* Costs */
+2015-04-06T20:18:00+00:00,655238024,632953035,1,HCUP_US,Coronary care unit,
+2015-04-06T20:16:44+00:00,655237814,654979537,1,HCUP_US,Arrhythmia,
+2015-04-06T20:10:00+00:00,655236809,580649238,1,HCUP_US,Inpatient care,/* Statistics */
+2015-04-06T20:08:38+00:00,655236624,652125267,1,HCUP_US,Respiratory disease,/* Epidemiology */
+2015-04-06T19:59:36+00:00,655235241,653504142,1,HCUP_US,Intensive care unit,/* Operational logistics */
+2015-04-06T19:58:00+00:00,655235027,655234425,1,HCUP_US,Medicaid,/* Utilization */
+2015-04-06T19:53:49+00:00,655234425,655234331,1,HCUP_US,Medicaid,/* Utilization */
+2015-04-06T19:53:14+00:00,655234331,654189911,1,HCUP_US,Medicaid,/* Utilization */
+2015-04-06T19:52:26+00:00,655234228,654896333,1,HCUP_US,Mood disorder,/* Epidemiology */
+2014-11-26T18:33:20+00:00,635541271,608262685,1,HCUP_US,Epidemiology of pneumonia,/* United States */
+2014-11-26T18:31:44+00:00,635541086,634654250,1,HCUP_US,Mood disorder,/* Epidemiology */
+2014-11-26T18:30:48+00:00,635540982,632501059,1,HCUP_US,Ambulatory care,/* Conditions */
+2014-11-26T18:29:45+00:00,635540851,633776748,1,HCUP_US,Cholecystectomy,/* Epidemiology */
+2014-11-26T18:28:50+00:00,635540742,630407733,1,HCUP_US,Neonatology,/* Treatment */
+2014-11-26T18:27:34+00:00,635540585,628957074,1,HCUP_US,Great Recession in the United States,/* Recovery */
+2014-11-26T18:26:39+00:00,635540469,630406997,1,HCUP_US,Children's hospital,/* Utilization */
+2014-11-26T18:25:35+00:00,635540353,635540039,1,HCUP_US,Surgery,/* Epidemiology */
+2014-10-20T18:39:11+00:00,630408364,629764676,1,HCUP_US,Medicaid,
+2014-10-20T18:37:39+00:00,630408171,630386291,1,HCUP_US,Southern United States,/* Health */
+2014-10-20T18:35:51+00:00,630407920,630386559,1,HCUP_US,Western United States,/* Health */
+2014-10-20T18:34:26+00:00,630407733,626205487,1,HCUP_US,Neonatology,/* Treatment */
+2014-10-20T18:33:01+00:00,630407563,617563034,1,HCUP_US,Abdominal pain,
+2014-10-20T18:31:24+00:00,630407377,629801484,1,HCUP_US,Chest pain,/* Epidemiology */
+2014-10-20T18:29:40+00:00,630407162,626440567,1,HCUP_US,Gastroenteritis,/* Non-infectious */
+2014-10-20T18:28:16+00:00,630406997,622985440,1,HCUP_US,Children's hospital,/* Utilization */
+2014-10-20T17:30:36+00:00,630399383,629661567,1,HCUP_US,Old age,/* Care and costs */
+2014-10-20T17:29:18+00:00,630399239,629406184,1,HCUP_US,Emergency department,/* United States */
+2014-10-20T15:42:50+00:00,630386968,629577990,1,HCUP_US,Rural area,/* Rural health */
+2014-10-20T15:41:29+00:00,630386808,630366101,1,HCUP_US,Midwestern United States,
+2014-10-20T15:39:16+00:00,630386559,630324087,1,HCUP_US,Western United States,
+2014-10-20T15:36:54+00:00,630386291,630148265,1,HCUP_US,Southern United States,/* Health */
+2014-10-20T15:34:55+00:00,630386071,629788727,1,HCUP_US,Northeastern United States,
+2014-10-20T15:21:58+00:00,630384723,629987543,1,HCUP_US,Substance abuse,/* United States */
+2014-10-20T15:19:18+00:00,630384433,630323333,1,HCUP_US,Recreational drug use,/* United States */
+2014-10-20T15:16:07+00:00,630384099,629094265,1,HCUP_US,Opioid use disorder,/* Epidemiology */
+2014-08-20T21:57:14+00:00,622114087,622112706,1,HCUP_US,Healthcare Cost and Utilization Project,
+2014-08-20T21:44:04+00:00,622112706,622112650,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP Infographics */
+2014-08-20T21:43:33+00:00,622112650,622112280,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2014-08-20T21:40:01+00:00,622112280,622112247,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2014-08-20T21:39:40+00:00,622112247,622111081,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2014-08-15T16:49:07+00:00,621374894,621197372,1,HCUP_US,Old age,/* Old age frailty */
+2014-08-15T16:46:08+00:00,621374543,616856432,1,HCUP_US,Psychiatric hospital,/* Types */
+2014-08-15T16:41:17+00:00,621373975,619691207,1,HCUP_US,Children's hospital,
+2014-08-01T18:05:27+00:00,619451701,613348434,1,HCUP_US,Healthcare in the United States,/* Overall costs */
+2014-08-01T18:03:46+00:00,619451551,616801408,1,HCUP_US,Neonatology,
+2014-08-01T18:00:03+00:00,619451195,617870905,1,HCUP_US,Surgery,/* Epidemiology */
+2014-08-01T16:07:13+00:00,619438950,619437063,1,HCUP_US,Emergency department,/* United States */
+2014-08-01T15:50:14+00:00,619437063,619434774,1,HCUP_US,Emergency department,/* United States */
+2014-08-01T15:30:38+00:00,619434774,619434659,1,HCUP_US,Emergency department,/* United States */
+2014-08-01T15:29:39+00:00,619434659,618913374,1,HCUP_US,Emergency department,/* United States */
+2014-08-01T15:23:03+00:00,619433853,618010545,1,HCUP_US,Pneumonia,/* Children */
+2014-08-01T15:21:07+00:00,619433629,611677204,1,HCUP_US,Acute bronchitis,
+2014-08-01T15:13:31+00:00,619432697,619421180,1,HCUP_US,Asthma,/* Epidemiology */
+2014-06-23T18:09:53+00:00,614122884,614121330,1,HCUP_US,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2014-06-23T17:56:35+00:00,614121330,614121220,1,HCUP_US,Healthcare Cost and Utilization Project,/* General Information */
+2014-06-23T17:55:44+00:00,614121220,614120971,1,HCUP_US,Healthcare Cost and Utilization Project,/* General Information */
+2014-06-23T17:53:34+00:00,614120971,614120814,1,HCUP_US,Healthcare Cost and Utilization Project,/* General Information */
+2014-06-23T17:52:07+00:00,614120814,608692438,1,HCUP_US,Healthcare Cost and Utilization Project,/* General Information */
+2014-06-13T14:31:18+00:00,612772743,612770054,1,HCUP_US,Natural childbirth,/* Prevalence of medical intervention in the U.S. */
+2014-06-13T14:07:37+00:00,612770054,612707147,1,HCUP_US,Natural childbirth,/* Prevalence of medical intervention in the U.S. */
+2014-06-10T13:56:51+00:00,612357933,612226472,1,HCUP_US,User talk:HCUP US,/* June 2014 */
+2014-06-10T13:55:44+00:00,612357820,612225297,1,HCUP_US,Iron-deficiency anemia,/* Treatment */
+2014-06-09T15:16:46+00:00,612225297,611091821,1,HCUP_US,Iron-deficiency anemia,/* Treatment */
+2014-06-06T12:57:04+00:00,611816539,558909721,1,HCUP_US,Perineal tear,
+2014-06-06T12:51:45+00:00,611815979,607177382,1,HCUP_US,Cervical weakness,/* Treatment */
+2014-06-06T12:50:40+00:00,611815879,611764117,1,HCUP_US,Placenta praevia,/* Mode of delivery */
+2014-06-06T12:49:20+00:00,611815730,610388334,1,HCUP_US,Natural childbirth,/* Prevalence of medical intervention in the U.S. */
+2014-06-06T12:47:11+00:00,611815460,611806094,1,HCUP_US,Caesarean section,/* Prevalence */
+2014-06-06T12:40:18+00:00,611814778,609229646,1,HCUP_US,Multiple birth,
+2014-05-21T14:48:48+00:00,609532105,609018902,1,HCUP_US,Sepsis,/* Epidemiology */
+2014-05-21T14:44:16+00:00,609531589,607413161,1,HCUP_US,Medicare (United States),/* Part A: Hospital insurance */
+2014-05-21T14:36:38+00:00,609530711,609528719,1,HCUP_US,Mood disorder,/* Epidemiology */
+2014-05-21T14:18:03+00:00,609528719,608227479,1,HCUP_US,Mood disorder,/* Epidemiology */
+2014-05-21T14:08:43+00:00,609527593,608829525,1,HCUP_US,Heart failure,/* Epidemiology */
+2014-05-21T13:53:34+00:00,609525765,609251327,1,HCUP_US,Percutaneous coronary intervention,/* Epidemiology */
+2014-05-19T16:18:39+00:00,609255579,609250458,1,HCUP_US,Coronary artery bypass surgery,/* Epidemiology */
+2014-05-19T16:16:45+00:00,609255367,609254686,1,HCUP_US,Spinal fusion,/* Epidemiology */
+2014-05-19T16:11:28+00:00,609254686,608715765,1,HCUP_US,Spinal fusion,
+2014-05-19T16:03:48+00:00,609253784,608568850,1,HCUP_US,Knee replacement,
+2014-05-19T15:58:59+00:00,609253205,609252757,1,HCUP_US,Surgery,
+2014-05-19T15:55:04+00:00,609252757,607442319,1,HCUP_US,Surgery,
+2014-05-19T15:43:59+00:00,609251327,605448660,1,HCUP_US,Percutaneous coronary intervention,
+2014-05-19T15:36:02+00:00,609250458,607185967,1,HCUP_US,Coronary artery bypass surgery,
+2014-05-15T14:19:17+00:00,608692438,586530196,1,HCUP_US,Healthcare Cost and Utilization Project,
+2013-12-17T18:55:19+00:00,586530196,562441738,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2013-07-01T19:57:19+00:00,562441738,562440615,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2013-07-01T19:48:14+00:00,562440615,562439822,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP Infographics */
+2013-07-01T19:42:06+00:00,562439822,561875216,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP Infographics */
+2013-06-25T21:41:33+00:00,561580855,560768408,1,HCUP_US,Healthcare Cost and Utilization Project,
+2013-05-08T17:35:56+00:00,554159962,554159054,1,HCUP_US,Kidney transplantation,/* Complications */
+2013-05-08T17:28:36+00:00,554159054,553702743,1,HCUP_US,Kidney transplantation,/* Complications */
+2013-05-08T17:20:35+00:00,554158018,554157926,1,HCUP_US,Cardiac surgery,/* Risks */
+2013-05-08T17:19:54+00:00,554157926,553726112,1,HCUP_US,Cardiac surgery,/* Risks */
+2013-05-07T20:46:45+00:00,554019554,553952457,1,HCUP_US,Amputation,/* Epidemiology */
+2013-05-07T20:40:57+00:00,554018603,554018159,1,HCUP_US,Medicare (United States),/* Demographics */
+2013-05-07T20:38:20+00:00,554018159,553920737,1,HCUP_US,Medicare (United States),/* Demographics */
+2013-05-07T20:31:55+00:00,554017185,553982951,1,HCUP_US,Schizophrenia,/* Epidemiology */
+2013-05-07T20:16:38+00:00,554014766,554014536,1,HCUP_US,Heart failure,/* Epidemiology */
+2013-05-07T20:15:13+00:00,554014536,554013962,1,HCUP_US,Heart failure,/* Epidemiology */
+2013-05-07T20:11:41+00:00,554013962,554013687,1,HCUP_US,Heart failure,/* Epidemiology */
+2013-05-07T20:09:54+00:00,554013687,553930879,1,HCUP_US,Heart failure,/* Epidemiology */
+2013-03-14T22:08:48+00:00,544206481,541791048,1,HCUP_US,Healthcare Cost and Utilization Project,
+2012-07-18T19:05:03+00:00,503002858,503002097,1,HCUP_US,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2012-07-18T18:59:46+00:00,503002097,502999989,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP News and Services */
+2012-07-18T18:44:51+00:00,502999989,502999615,1,HCUP_US,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2012-07-18T18:42:31+00:00,502999615,502999370,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP Tools and Software */
+2012-07-18T18:41:01+00:00,502999370,477858251,1,HCUP_US,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2011-06-23T19:30:28+00:00,435854133,0,1,HCUP_US,User:HCUP US,"moved [[User:HCUP US]] to [[MONAHRQ (My Own Network, Powered by AHRQ)]]: Page going live."
+2011-01-21T23:56:40+00:00,409260348,409260019,1,HCUP_US,Healthcare Cost and Utilization Project,/* External links */
+2011-01-21T23:54:19+00:00,409260019,390730707,1,HCUP_US,Healthcare Cost and Utilization Project,/* General information */
+2010-10-14T18:19:01+00:00,390730707,390730564,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP Supplemental Files for Revisit Analyses */
+2010-10-14T18:18:15+00:00,390730564,390729810,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP Online Tutorial Series */
+2010-10-14T18:13:41+00:00,390729810,390729336,1,HCUP_US,Healthcare Cost and Utilization Project,/* General information */
+2010-10-14T18:10:38+00:00,390729336,389166906,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP Tools and Software */
+2010-10-06T20:28:43+00:00,389166906,389164377,1,HCUP_US,Healthcare Cost and Utilization Project,/* MONAHRQ */
+2010-10-06T20:14:07+00:00,389164377,389164084,1,HCUP_US,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2010-10-06T20:12:25+00:00,389164084,389140838,1,HCUP_US,Healthcare Cost and Utilization Project,/* Obtaining HCUP databases through the Central Distributor */
+2010-10-06T17:58:51+00:00,389140838,389140124,1,HCUP_US,Healthcare Cost and Utilization Project,/* Obtaining HCUP databases through the Central Distributor */
+2010-10-06T17:54:40+00:00,389140124,389139968,1,HCUP_US,Healthcare Cost and Utilization Project,/* See also */
+2010-10-06T17:53:41+00:00,389139968,389139780,1,HCUP_US,Healthcare Cost and Utilization Project,/* Procedure Classes */
+2010-10-06T17:52:24+00:00,389139780,389139687,1,HCUP_US,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2010-10-06T17:51:46+00:00,389139687,389138199,1,HCUP_US,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2010-10-06T17:41:48+00:00,389138199,389137758,1,HCUP_US,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2010-10-06T17:39:02+00:00,389137758,389137658,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP E-Mail List */
+2010-10-06T17:38:24+00:00,389137658,389137534,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP eNews */
+2010-10-06T17:37:41+00:00,389137534,389137395,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP eNews */
+2010-10-06T17:36:50+00:00,389137395,389136501,1,HCUP_US,Healthcare Cost and Utilization Project,/* HCUP Facts and Figures */
+2010-10-06T17:30:41+00:00,389136501,389136020,1,HCUP_US,Healthcare Cost and Utilization Project,/* MONAHRQ */
+2010-10-06T17:27:16+00:00,389136020,358319772,1,HCUP_US,Healthcare Cost and Utilization Project,/* Overview of HCUP Databases */
+2010-01-05T17:14:35+00:00,336027884,336023824,1,HCUP_US,Healthcare Cost and Utilization Project,
+2010-01-05T16:50:48+00:00,336023824,331334164,1,HCUP_US,Healthcare Cost and Utilization Project,
+2009-12-12T23:21:26+00:00,331334164,331007825,1,HCUP_US,Healthcare Cost and Utilization Project,
+2009-09-07T00:40:44+00:00,312280427,312280273,1,HCUP_US,Healthcare Cost and Utilization Project,/* Quality Indicators (QIs) */
+2009-09-07T00:39:33+00:00,312280273,312280180,1,HCUP_US,Healthcare Cost and Utilization Project,/* Quality Indicators (QIs) */
+2009-09-07T00:38:44+00:00,312280180,312280052,1,HCUP_US,Healthcare Cost and Utilization Project,/* Quality Indicators (QIs) */
+2009-09-07T00:37:43+00:00,312280052,312059166,1,HCUP_US,Healthcare Cost and Utilization Project,
+2013-01-08T16:59:20+00:00,531977087,531976365,1,HCUPUsersupport,Healthcare Cost and Utilization Project,"/* HCUP Reports, Fact Books, Publications, and Other Resources */"
+2013-01-08T16:54:52+00:00,531976365,531976179,1,HCUPUsersupport,Healthcare Cost and Utilization Project,"/* HCUP Reports, Fact Books, Publications, and Other Resources */"
+2013-01-08T16:48:09+00:00,531975355,531972825,1,HCUPUsersupport,Healthcare Cost and Utilization Project,"/* HCUP Reports, Fact Books, Publications, and Other Resources */"
+2013-01-08T16:31:15+00:00,531972825,531972007,1,HCUPUsersupport,Healthcare Cost and Utilization Project,"/* HCUP Reports, Fact Books, Publications, and Other Resources */"
+2013-01-08T16:25:46+00:00,531972007,503013844,1,HCUPUsersupport,Healthcare Cost and Utilization Project,/* Clinical Classifications Software (CCS) */
+2016-12-13T15:52:28+00:00,754610087,754610061,0,"John ""Hannibal"" Smith",Ambulatory care,Reverted edits by [[Special:Contributions/63.73.199.69|63.73.199.69]] ([[User talk:63.73.199.69|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2012-05-23T17:12:36+00:00,494017162,493299421,0,128.135.138.215,Ambulatory care,changed unclear writing
+2014-06-12T20:03:57+00:00,612677067,612620558,0,LilHelpa,Caesarean section,"Typos and general fixes, [[WP:AWB/T|typo(s) fixed]]: prefered → preferred using [[Project:AWB|AWB]]"
+2010-04-29T21:38:01+00:00,359138439,348848987,0,Prague Nica,Acute bronchitis,/* Antihistamines */
+2012-01-26T18:07:09+00:00,473367440,473367359,0,Skizzik,Amputation,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/86.15.24.187|86.15.24.187]] ([[User talk:86.15.24.187|talk]]) to last version by Mark Arsten
+2016-04-01T22:33:53+00:00,713095320,712658481,0,Drchriswilliams,Asthma,/* Alternative medicine */ reference details required
+2017-02-06T22:18:23+00:00,764072163,764072141,0,Non-dropframe,Abdominal pain,Reverted 1 edit by [[Special:Contributions/200.7.90.144|200.7.90.144]] ([[User talk:200.7.90.144|talk]]) to last revision by ClueBot NG. ([[WP:TW|TW]])
+2013-05-11T23:34:38+00:00,554662287,544303131,0,Squids and Chips,Abdominal pain,"[[:en:WP:CLEANER|WPCleaner]] v1.27 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Digestive]], 1 to be fixed - [[Intussusception]]"
+2015-02-12T01:28:49+00:00,646733873,646733722,0,Gilliam,Arrhythmia,Reverted edits by [[Special:Contribs/174.1.142.102|174.1.142.102]] ([[User talk:174.1.142.102|talk]]) to last version by Doc James
+2016-02-26T19:18:46+00:00,707061293,706716504,0,Swpb,Amputation,
+2009-09-23T19:55:21+00:00,315770558,308079089,0,Tyrol5,Acute bronchitis,
+2013-02-09T22:09:54+00:00,537448667,535148150,0,110.174.174.155,Arrhythmia,/* Tachycardias */ Fixed missing subheading
+2013-05-14T19:13:53+00:00,555098328,554193662,0,163.231.6.88,Cardiac surgery,/* Risks */
+2016-08-14T11:41:19+00:00,734447021,734433862,0,Deli nk,Cataract surgery,/* See also */
+2014-11-02T02:01:19+00:00,632088946,632035940,0,Doc James,Asthma,trimmed unreffed content
+2016-05-02T03:37:56+00:00,718200500,716619102,0,Alaney2k,Caesarean section,"wlinks; awb fixes(if any), replaced: [[Canada|Canadian]] → [[Canadians|Canadian]] using [[Project:AWB|AWB]]"
+2015-12-08T00:46:33+00:00,694241971,693841698,0,PKT,Cardiac surgery,Disambiguated: [[Hahnemann Hospital]] → [[Hahnemann University Hospital]]
+2017-06-30T04:39:42+00:00,788215556,788214998,0,Usernamekiran,Cardiac surgery,Reverted edits by [[Special:Contributions/72.21.196.68|72.21.196.68]] ([[User talk:72.21.196.68|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2010-06-26T16:25:00+00:00,370269304,370261283,0,108.56.55.57,Cardiac surgery,
+2013-07-29T10:26:32+00:00,566265753,541192332,0,101.175.41.117,Children's hospital,
+2014-05-30T07:57:52+00:00,610759494,605085387,0,120.56.164.7,Chest pain,/* Diagnostic approach */
+2011-11-14T07:06:06+00:00,460571194,460337897,0,Citation bot,Chest pain,[394]Misc citation tidying.  | [[User:Langus-TxT|Langus-TxT]]
+2014-09-11T09:17:43+00:00,625065098,625019515,0,Doc James,Childbirth,Reverted to revision 624975518 by [[Special:Contributions/Rich Farmbrough|Rich Farmbrough]] ([[User talk:Rich Farmbrough|talk]]): Per explaination. ([[WP:TW|TW]])
+2009-09-28T22:30:06+00:00,316773729,313340457,0,99.33.106.142,Cervical weakness,
+2014-02-25T21:13:18+00:00,597124642,596963255,0,Wallstquant,Cervical weakness,/* Risk factors */
+2013-02-28T09:09:33+00:00,541192332,521682439,0,Addbot,Children's hospital,"[[User:Addbot|Bot:]] Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q644264]] ([[User talk:Addbot|Report Errors]])"
+2011-01-13T01:44:25+00:00,407580005,407579998,0,ClueBot NG,Children's hospital,"Reverting possible vandalism by [[Special:Contributions/Jessikuh97|Jessikuh97]] to version by 98.210.150.163. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (185648) (Bot)"
+2012-05-13T18:46:25+00:00,492400592,492400192,0,117.193.49.148,Cholecystectomy,/* Procedural risks and complications */
+2012-02-07T21:49:05+00:00,475649264,468119862,0,98.242.206.135,Cholecystectomy,/* External links */
+2017-07-07T06:57:32+00:00,789422671,789402286,0,Drchriswilliams,Children's hospital,Undid revision 789402286 by [[Special:Contributions/50.101.74.135|50.101.74.135]] ([[User talk:50.101.74.135|talk]]) reverted reinsertion of a poorly-sourced section of text
+2013-08-30T10:09:23+00:00,570789675,570789646,0,Tom (LT),Children's hospital,
+2013-12-28T18:37:22+00:00,588098393,587511825,0,Mymata,Comorbidity,/* Further reading */
+2018-04-09T16:06:22+00:00,835586650,835119605,0,Pbsouthwood,Circulatory system,/* top */
+2012-03-19T20:18:28+00:00,482778746,482778657,0,203.97.134.50,Comorbidity,/* Diagnosis of comorbidity */
+2015-10-04T02:26:58+00:00,684022515,684021879,0,Majora,Circulatory system,/* Other vertebrates */ Add citation regarding separate evolution of bird and crocodilan heart chambers.
+2016-05-26T06:10:22+00:00,722137081,721348185,0,Dcirovic,Children's hospital,"clean up, [[WP:AWB/T|typo(s) fixed]]: along side → alongside, wide-spread → widespread,  ,  → , using [[Project:AWB|AWB]]"
+2015-04-06T20:27:48+00:00,655239429,635540469,0,HCUP US,Children's hospital,/* Utilization */
+2011-04-27T11:18:51+00:00,426189175,417994152,0,86.160.247.144,Children's hospital,"Teenagers, i.e. anyone under 18 or 21 is a child."
+2015-08-31T09:20:43+00:00,678736882,678736033,0,A2soup,Coronary artery bypass surgery,/* Open heart surgery associated */ ce
+2015-08-31T17:57:33+00:00,678798134,678619879,0,Monkbot,Emergency department,/* Violence against health care workers */[[User:Monkbot/Task 7: CS1 et al. repair|Task 7c]]: repair/replace et al. in cs1 author/editor parameters;
+2010-12-12T20:20:08+00:00,402009320,390325890,0,Xqbot,Coronary care unit,r2.5.2) (robot Modifying: [[nl:Coronary care unit]]
+2014-10-31T06:12:54+00:00,631855217,631713101,0,BG19bot,Coronary care unit,/* History */[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (10480)
+2010-12-23T23:12:40+00:00,403945818,403945483,0,Citation bot,Coronary artery bypass surgery,Citations: [215] added: doi. [[User:RDBrown|RDBrown]]
+2016-05-07T17:19:19+00:00,719110465,719105562,0,Smmurphy,Coronary artery bypass surgery,Undid revision 719105562 by [[Special:Contributions/173.175.3.121|173.175.3.121]] ([[User talk:173.175.3.121|talk]]) rvv
+2011-12-02T16:11:13+00:00,463679096,462449494,0,124.254.74.235,Emergency department,/* See also */
+2010-09-25T02:41:17+00:00,386865070,386264021,0,Mkayatta,Coronary artery bypass surgery,/* CABG associated */
+2014-12-28T12:36:02+00:00,639938647,639637705,0,Trivialist,Emergency department,"/* Special facilities, training, and equipment */ rm self-promotional paragraph"
+2017-03-30T15:35:24+00:00,772985247,771117263,0,John of Reading,Emergency department,"/* United Kingdom */Typo/[[WP:AWB/GF|general]] fixes, replaced: eg → e.g. using [[Project:AWB|AWB]]"
+2014-05-18T12:55:24+00:00,609089144,608649539,0,67.71.28.67,Emergency department,/* Department operation */
+2011-11-19T15:18:59+00:00,461436639,452753581,0,Rjwilmsi,Epidemiology of pneumonia,"/* Children */typo fixing, typos fixed: occurr → occur using [[Project:AWB|AWB]] (7859)"
+2010-09-09T04:39:36+00:00,383773660,383773600,0,122.54.164.139,Gastroenteritis,/* Classification */
+2016-06-30T01:45:09+00:00,727602142,726880837,0,Headbomb,Gastroenteritis,"/* top */clean up, replaced: Clinical microbiology and infection → Clinical Microbiology and Infection, Clinical Microbiology and Infection : the official publication of the European Society of Clinical Microbiology and I using [[Project:AWB|AWB]]"
+2011-07-20T21:33:00+00:00,440549102,436067273,0,OgreBot,Emergency department,replacing [[File:Emergencyroomsign.jpg]] with commons equivalent [[File:Emergency room sign.jpg]] ([[User talk:Magog the Ogre|report errors here]])
+2010-01-06T14:40:06+00:00,336203392,335895097,0,Jstplace,Emergency department,/* Department layout */
+2014-08-22T10:48:57+00:00,622321740,621659412,0,86.188.243.70,Emergency department,/* Nomenclature in English */
+2016-10-31T20:33:27+00:00,747166654,747165926,0,Drchriswilliams,Emergency department,reverted to restore article title to lead
+2013-02-22T05:33:26+00:00,539600961,539123767,0,152.76.1.244,Gastrointestinal tract,/* Transit time */
+2013-05-12T00:42:32+00:00,554668426,304491830,0,AvicBot,HCUP,Robot: Fixing double redirect to [[Healthcare Cost and Utilization Project]]
+2013-05-08T02:25:14+00:00,554062228,553520004,0,75.141.246.187,Great Recession in the United States,/* See also */
+2011-07-03T16:35:46+00:00,437571496,437540008,0,2over0,Gastrointestinal tract,restore #See also inadvertently lost in previous edit
+2014-08-20T21:57:14+00:00,622114087,622112706,0,HCUP US,Healthcare Cost and Utilization Project,
+2011-11-30T15:07:36+00:00,463305847,462564411,0,The PIPE,Great Recession in the United States,/* See also */
+2010-04-26T01:34:53+00:00,358319772,349406977,0,FrescoBot,Healthcare Cost and Utilization Project,Bot: links syntax and spacing
+2013-07-01T19:57:19+00:00,562441738,562440615,0,HCUP US,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2017-07-31T18:18:04+00:00,793269841,772412567,0,BD2412,Healthcare Cost and Utilization Project,"/* HCUP Online Tutorial Series */clean up spacing around commas, replaced: ,c → , c using [[Project:AWB|AWB]]"
+2016-04-01T07:44:39+00:00,712993382,695541120,0,BG19bot,Healthcare Cost and Utilization Project,Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2013-03-22T20:57:05+00:00,546387707,546380060,0,ImageRemovalBot,Healthcare Cost and Utilization Project,Removing links to deleted file [[:File:Healthcare Cost and Utilization Project (HCUP) Logo.jpg]]
+2015-03-25T20:49:16+00:00,653511054,646811340,0,157.199.112.25,Healthcare Cost and Utilization Project,/* Obtaining HCUP databases through the Central Distributor */
+2011-01-21T23:56:40+00:00,409260348,409260019,0,HCUP US,Healthcare Cost and Utilization Project,/* External links */
+2016-12-29T11:41:27+00:00,757207112,753745220,0,BG19bot,Healthcare Cost and Utilization Project,Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility/LISTGAP]]
+2016-11-10T05:30:14+00:00,748757620,748726653,0,BG19bot,Healthcare Cost and Utilization Project,v1.41b - [[WP:WCW]] project (Internal link written as an external link)
+2011-06-27T15:05:59+00:00,436511841,436511540,0,163.231.6.67,Healthcare Cost and Utilization Project,/* MONAHRQ */
+2017-12-02T09:14:02+00:00,813191164,812056194,0,John of Reading,Healthcare Cost and Utilization Project,"/* External links */Typo/[[WP:AWB/GF|general]] fixes, replaced: practioners → practitioners, [[WP:AWB/T|typo(s) fixed]]: Never the less → Nevertheless using [[Project:AWB|AWB]]"
+2014-12-21T09:44:59+00:00,639028295,638700400,0,Yobot,Healthcare Cost and Utilization Project,[[:en:WP:CLEANER|WPCleaner]] v1.34b - [[WP:WCW]] project (Internal link written as an external link)
+2013-12-17T18:55:19+00:00,586530196,562441738,0,HCUP US,Healthcare Cost and Utilization Project,/* HCUP News and Reports */
+2010-03-12T11:42:06+00:00,349406977,336027884,0,JeepdaySock,Healthcare Cost and Utilization Project,wiki link
+2010-10-14T18:19:01+00:00,390730707,390730564,0,HCUP US,Healthcare Cost and Utilization Project,/* HCUP Supplemental Files for Revisit Analyses */
+2015-06-30T15:51:34+00:00,669349318,653511054,0,157.199.112.25,Healthcare Cost and Utilization Project,/* HCUP User Support Website (HCUP-US) */
+2012-02-20T09:50:15+00:00,477858251,468688125,0,John of Reading,Healthcare Cost and Utilization Project,"[[WP:AWB/T|Typo]] and [[WP:AWB/GF|General fixing]], replaced: within in → within using [[Project:AWB|AWB]]"
+2017-03-27T03:40:08+00:00,772412567,757207112,0,105.230.198.13,Healthcare Cost and Utilization Project,
+2013-01-08T17:19:25+00:00,531979893,531977087,0,AnomieBOT,Healthcare Cost and Utilization Project,Dating maintenance tags: {{Primarysources}}
+2013-03-02T21:37:09+00:00,541791048,531979893,0,Pmetzger,Healthcare Cost and Utilization Project,"/* Overview of HCUP Databases */ replace ""utilization"" with ""use""."
+2018-06-15T08:09:00+00:00,845953492,845000923,0,100.0.79.27,Healthcare Cost and Utilization Project,removed duplicate sentence and changed subsection format.
+2017-09-09T12:31:51+00:00,799718441,793269841,0,KolbertBot,Healthcare Cost and Utilization Project,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2012-07-18T20:22:19+00:00,503013844,503013693,0,163.231.6.88,Healthcare Cost and Utilization Project,/* HCUP News and Services */
+2015-12-16T20:24:50+00:00,695541120,694223022,0,157.199.112.25,Healthcare Cost and Utilization Project,/* HCUP Fast Stats */
+2009-09-07T00:40:44+00:00,312280427,312280273,0,HCUP US,Healthcare Cost and Utilization Project,/* Quality Indicators (QIs) */
+2014-05-15T14:19:17+00:00,608692438,586530196,0,HCUP US,Healthcare Cost and Utilization Project,
+2017-12-21T21:55:02+00:00,816523021,816349156,0,Diannaa,Healthcare Cost and Utilization Project,"partial restore of revision 813191164 dated 09:14, December 2, 2017 to remove excessive PD content copied here without attribution. Removed pasted in at the end of the article, after the reflist"
+2015-12-07T21:57:48+00:00,694223022,694222962,0,2605:E000:1C06:E0BC:A16A:33CD:560B:AF0C,Healthcare Cost and Utilization Project,/* HCUP Fast Stats */
+2013-06-06T21:59:43+00:00,558669202,558669048,0,157.199.112.25,Healthcare Cost and Utilization Project,/* See also */
+2015-02-12T16:08:42+00:00,646811340,639028295,0,AcademicSurgeon,Healthcare Cost and Utilization Project,Added wording about quality indicators and referenced a recent study showing how they can be misleading
+2009-09-19T13:09:33+00:00,314903431,312280427,0,Miyagawa,Healthcare Cost and Utilization Project,"clean up, added [[:Category:Articles that need to be wikified|wikify]] tag, added [[:Category:Orphaned articles|orphan]] tag using [[Project:AutoWikiBrowser|AWB]]"
+2013-05-12T00:22:47+00:00,554666558,553389243,0,Jfdwolff,Healthcare Cost and Utilization Project,Jfdwolff moved page [[Healthcare Cost and Utilization Project (HCUP)]] to [[Healthcare Cost and Utilization Project]]: [[WP:NC]]
+2014-06-23T19:43:41+00:00,614134301,614134177,0,157.199.112.25,Healthcare Cost and Utilization Project,/* HCUP Databases */
+2011-12-31T00:43:18+00:00,468688125,468686943,0,Danim,Healthcare Cost and Utilization Project,added [[Category:Databases in the United States]] using [[WP:HC|HotCat]]
+2014-08-07T20:30:19+00:00,620281611,620281191,0,157.199.112.25,Healthcare Cost and Utilization Project,/* HCUP Databases */
+2009-09-05T19:49:30+00:00,312059166,309633716,0,Xezbeth,Healthcare Cost and Utilization Project,cat
+2014-12-18T22:19:28+00:00,638700400,638700226,0,157.199.112.25,Healthcare Cost and Utilization Project,/* HCUP Databases */
+2009-12-12T23:21:26+00:00,331334164,331007825,0,HCUP US,Healthcare Cost and Utilization Project,
+2010-01-05T17:14:35+00:00,336027884,336023824,0,HCUP US,Healthcare Cost and Utilization Project,
+2016-12-08T23:01:42+00:00,753745220,748757620,0,Econterms,Healthcare Cost and Utilization Project,brevity
+2009-08-06T19:35:30+00:00,306458221,304495013,0,Erik9bot,Healthcare Cost and Utilization Project,add [[template:uncategorized]]
+2009-10-29T22:23:46+00:00,322814986,318891466,0,CmdrObot,Healthcare Cost and Utilization Project,Wikipedia URL→wikilink
+2017-11-25T18:49:53+00:00,812056194,806421998,0,Ira Leviton,Healthcare Cost and Utilization Project,What is going on with this article?
+2017-10-21T22:55:15+00:00,806421998,799718441,0,JCW-CleanerBot,Healthcare Cost and Utilization Project,/* External links */[[User:JCW-CleanerBot#Logic|task]] using [[Project:AWB|AWB]]
+2018-04-17T19:06:42+00:00,836937825,835617010,0,Annaou,Healthcare in the United States,"added to affordable care act & medicaid, added to providers section"
+2017-04-07T00:27:01+00:00,774217233,773357177,0,GreenC bot,Healthcare in the United States,Rescued 9 archive links; reformat 9 links. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]
+2016-12-16T23:47:19+00:00,755228231,755169828,0,Doc James,Heart failure,simplified
+2016-03-04T19:54:32+00:00,708297395,708283118,0,Doc James,Heart failure,added
+2011-03-04T12:01:24+00:00,417069627,416369990,0,87.114.236.234,Heart failure,
+2011-06-01T21:08:27+00:00,432063441,431667437,0,Jfdwolff,Heart failure,Reverted to revision 429775803 by Jfdwolff: rv nonsense. ([[WP:TW|TW]])
+2011-11-17T22:40:49+00:00,461185795,460491049,0,Jo3sampl,Heart failure,/* Classification */ simplify sentence; clean up link to disam page
+2011-05-18T20:23:10+00:00,429775803,429718939,0,Jfdwolff,Heart failure,/* Sex */ ref fix
+2016-05-24T13:48:48+00:00,721858895,721695522,0,Joe Vitale 5,Heart failure,
+2011-07-22T17:41:17+00:00,440862193,440857064,0,Ohnoitsjamie,Heart failure,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Anim8cme|Anim8cme]] ([[User talk:Anim8cme|talk]]) to last version by Arcadian
+2018-08-21T08:47:06+00:00,855857912,855855950,0,Mean as custard,Heart failure,Reverted edits by [[Special:Contribs/Stevan.vuk|Stevan.vuk]] ([[User talk:Stevan.vuk|talk]]) to last version by ClueBot NG
+2014-05-11T23:03:55+00:00,608138000,606990492,0,Monkbot,Heart failure,Task 3: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]
+2013-08-21T09:23:47+00:00,569547112,569546917,0,MrBill3,Intensive care unit,/* External links */
+2013-08-14T18:23:12+00:00,568540422,555308091,0,Funandtrvl,Inpatient care,added [[Category:Hospitals]] using [[WP:HC|HotCat]]
+2013-11-07T20:09:22+00:00,580649238,568540422,0,157.199.112.25,Inpatient care,
+2014-07-10T04:39:43+00:00,616324447,613852859,0,138.16.126.182,Intensive care unit,Corrected spelling error
+2010-04-08T21:11:12+00:00,354825211,353665372,0,CommonsDelinker,Iron-deficiency anemia,"Removing ""Koilonychia-11.jpg"", it has been deleted from Commons by [[commons:User:Andrew c|Andrew c]] because: no permission, OTRS 2010031110039799 (using [[commons:Project:AWB|AWB]])."
+2014-02-04T07:39:02+00:00,593854674,593724465,0,Citation bot 4,Iron-deficiency anemia,"[Cat531-dev]Alter: title. Add: display-authors, author pars. 10-30. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]."
+2017-02-25T01:37:00+00:00,767292403,767292215,0,Rileythetom8o,Iron-deficiency anemia,Reverted edits by [[Special:Contributions/182.119.71.94|182.119.71.94]] ([[User talk:182.119.71.94|talk]]): Editing tests ([[WP:HG|HG]]) (3.1.22)
+2015-04-25T14:08:40+00:00,659143732,656626954,0,Monkbot,Iron-deficiency anemia,/* Diet */Task 1k: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2011-03-19T09:56:51+00:00,419605658,419605416,0,Crowsnest,Kidney transplantation,/* History */ +photo
+2016-01-07T17:38:28+00:00,698690767,698667115,0,Jfdwolff,Kidney transplantation,rv - Oxford comma
+2011-09-17T05:22:26+00:00,450924007,450923752,0,NawlinWiki,Kidney transplantation,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/111.92.29.126|111.92.29.126]] ([[User talk:111.92.29.126|talk]]) to last version by Tpesa
+2011-06-01T17:28:27+00:00,432030476,431688145,0,Arcadian,Knee replacement,box
+2016-02-05T20:52:20+00:00,703488232,703488223,0,ClueBot NG,Medicaid,"Reverting possible vandalism by [[Special:Contribs/168.171.246.113|168.171.246.113]] to version by Ohnoitsjamie. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2535603) (Bot)"
+2018-07-03T14:02:54+00:00,848670957,848552875,0,JCW-CleanerBot,Knee replacement,"[[User:JCW-CleanerBot#Logic|task]], replaced: Cochrane database of systematic reviews → Cochrane Database of Systematic Reviews (3) using [[Project:AWB|AWB]]"
+2014-05-28T10:03:04+00:00,610473373,604794737,0,Dowlingsy,Medicaid,/* Budget */ Added Citation for Medicare Policy Basics
+2012-07-10T07:17:44+00:00,501521476,501521414,0,82.95.71.130,Kidney transplantation,/* Organ trade */
+2014-08-18T20:04:42+00:00,621817002,619880248,0,12.184.34.99,Medicaid,"/* Eligibility and benefits */ Grammar: ""details... vary"" not ""details... varies""."
+2017-05-03T19:54:47+00:00,778544849,773077898,0,207.255.207.181,Medicaid,/* History */
+2013-04-07T16:11:08+00:00,549173464,548795444,0,Jfruh,Medicaid,emphasize this is not universal
+2014-12-05T16:38:20+00:00,636773190,635581612,0,SandyGeorgia,Medicaid,"revert, vandalism was present, restore earlier"
+2010-11-26T17:45:53+00:00,398993493,398681539,0,68.61.245.191,Medicaid,/* History and participation */
+2016-04-10T20:59:47+00:00,714615720,711728077,0,68.96.8.104,Medicaid,/* Features */
+2014-10-02T19:49:35+00:00,627992910,627992795,0,FieldsTom,Medicaid,/* Dental */
+2014-02-12T13:34:54+00:00,595138194,595007282,0,Jfruh,Medicaid,rv vandalism
+2014-09-11T18:41:55+00:00,625126575,624753233,0,Muboshgu,Medicare (United States),date formats per [[WP:MOSNUM]] by [[WP:MOSNUMscript|script]]
+2011-07-25T22:54:28+00:00,441431487,440876909,0,203.94.150.46,Medicare (United States),/* Premiums */ grammar
+2011-11-14T08:28:44+00:00,460577926,459861188,0,92.192.87.63,Medicare (United States),naming critic
+2018-07-04T01:40:36+00:00,848748447,845499316,0,Nomeata,Medicare (United States),Missing space
+2017-06-01T15:01:43+00:00,783324226,783107510,0,GreenC bot,Medicare (United States),Rescued 1 archive link; reformat 1 link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]
+2017-10-16T01:01:03+00:00,805534883,805529571,0,AnomieBOT,Medicare (United States),"Rescuing orphaned refs (""content"" from rev 804117214)"
+2016-10-17T22:09:07+00:00,744864184,744864032,0,Atsuishin,Midwestern United States,/* Recent trends */
+2010-02-13T17:12:54+00:00,343767408,343767251,0,64.252.61.135,Midwestern United States,
+2013-05-09T16:47:27+00:00,554312317,554306587,0,Prof. Squirrel,Mood disorder,/* Substance induced mood disorders */ Hyphens in headers
+2013-11-18T12:37:24+00:00,582197496,582173930,0,Meteor sandwich yum,Mood disorder,/* Benzodiazepine-induced mood disorders */
+2011-05-11T22:50:04+00:00,428660179,428176193,0,Gaius Cornelius,Mood disorder,alternately --> alternatively using [[Project:AWB|AWB]]
+2010-06-06T00:36:01+00:00,366283375,365482511,0,Sumsum2010,Multiple birth,Undid revision 365482511 by [[Special:Contributions/134.39.28.254|134.39.28.254]] ([[User talk:134.39.28.254|talk]]) no sacasm please!
+2009-11-01T18:08:06+00:00,323311837,323298314,0,166.137.7.149,Natural childbirth,No citation. Superstitious.
+2018-09-30T16:05:47+00:00,861863739,859008224,0,Tayste,Mood disorder,/* Not otherwise specified */ fix red link in see also
+2013-03-28T14:02:38+00:00,547445536,547439454,0,Anthonyhcole,Mood disorder,"Undid revision 547439454 by [[Special:Contributions/37.205.63.56|37.205.63.56]] ([[User talk:37.205.63.56|talk]]) Therapeutic claims must be supported by strong independent ""secondary"" sources. See [[WP:MEDRS]]."
+2016-07-25T13:46:59+00:00,731456284,731456275,0,ClueBot NG,Mood disorder,"Reverting possible vandalism by [[Special:Contribs/190.148.39.93|190.148.39.93]] to version by Jasonanaggie. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2716250) (Bot)"
+2016-03-12T22:32:17+00:00,709758991,706281087,0,213.109.230.96,Multiple birth,/* External links */ [[Category:Sibling]]
+2016-10-22T20:21:03+00:00,745706266,745706186,0,BamBamBerg,Mood disorder,source
+2010-04-15T14:58:57+00:00,356183812,356182294,0,170.94.226.14,Mood disorder,/* Depressive disorders */
+2014-08-28T00:59:49+00:00,623113438,623113384,0,Millionmice,Natural childbirth,
+2017-06-06T04:29:41+00:00,784044474,760535701,0,2601:405:4280:640:ED70:BC98:3F41:5700,Natural childbirth,
+2015-06-24T05:11:36+00:00,668422702,668421688,0,Mann jess,Natural childbirth,"Reverted 1 edit by [[Special:Contributions/Wikimission|Wikimission]] ([[User talk:Wikimission|talk]]): Not irrelevant, because that's the topic of the article, and it's discussed in tandem in reliable sources. ([[WP:TW|TW]])"
+2016-05-09T21:12:22+00:00,719464380,715223918,0,Penbat,Natural childbirth,
+2009-09-10T07:30:47+00:00,312941017,312940497,0,67.183.33.126,Neonatology,
+2010-10-23T15:07:11+00:00,392414571,391936520,0,Rjwilmsi,Neonatology,/* History */journal cite volume/issue fixes using [[Project:AWB|AWB]] (7319)
+2012-06-04T03:39:42+00:00,495876981,495681627,0,Yobol,Neonatology,
+2012-10-03T14:37:47+00:00,515800780,515415051,0,~riley,Neonatology,Reverted [[WP:AGF|good faith]] edit(s) by [[Special:Contributions/110.172.141.53|110.172.141.53]]
+2009-08-08T17:46:00+00:00,306827695,306737286,0,BD2412,Neonatology,"Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], improving links, other minor cleanup tasks, Replaced: [[Image: → [[File:, [[M using [[Project:AutoWikiBrowser|AWB]]"
+2015-09-01T20:09:33+00:00,678982646,665118016,0,Monkbot,Neonatology,/* History */[[User:Monkbot/Task 7: CS1 et al. repair|Task 7c]]: repair/replace et al. in cs1 author/editor parameters;
+2018-04-03T16:02:25+00:00,834033787,834033238,0,KamGill,Neonatology,"Added an ""educational path"" section to the article; copied straight from my sandbox"
+2009-09-26T12:01:39+00:00,316291889,315649965,0,71.72.222.84,Neonatology,
+2011-02-16T07:15:29+00:00,414210088,414210041,0,OnePt618,Old age,Reverted edits by [[Special:Contributions/117.241.122.149|117.241.122.149]] ([[User talk:117.241.122.149|talk]]) to last revision by Zachlipton ([[WP:HG|HG]])
+2015-07-01T20:29:50+00:00,669531124,669528867,0,Thomas.W,Old age,Reverted 4 edits by [[Special:Contributions/90.221.251.176|90.221.251.176]] ([[User talk:90.221.251.176|talk]]): Rv good faith but very unhelpful edits.
+2014-03-18T22:48:36+00:00,600227257,600227248,0,ClueBot NG,Northeastern United States,"Reverting possible vandalism by [[Special:Contributions/75.128.89.250|75.128.89.250]] to version by NJRobbie. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1752092) (Bot)"
+2014-09-27T05:57:08+00:00,627247365,627247348,0,MONGO,Old age,Reverted edits by [[Special:Contribs/202.133.54.66|202.133.54.66]] ([[User talk:202.133.54.66|talk]]) to last version by TDKR Chicago 101
+2018-01-13T02:26:02+00:00,820105327,820105268,0,Ixfd64,Old age,Reverted edits by [[Special:Contribs/2601:14D:4300:9490:5C53:8692:43F:C3C8|2601:14D:4300:9490:5C53:8692:43F:C3C8]] ([[User talk:2601:14D:4300:9490:5C53:8692:43F:C3C8|talk]]) to last version by Simplexity22
+2015-09-16T02:21:26+00:00,681245932,681236169,0,Vsmith,Opioid use disorder,Reverted edits by [[Special:Contribs/99.112.214.19|99.112.214.19]] ([[User talk:99.112.214.19|talk]]) to last version by Seppi333
+2010-05-25T13:41:48+00:00,364111444,364110828,0,Hoppingalong,Northeastern United States,rm Northeast US footer (it is redundant and contains many malformed internal links to this article)
+2011-12-13T05:37:38+00:00,465588067,463443827,0,24.158.115.190,Opioid use disorder,/* Experimental treatments */
+2011-02-27T22:28:51+00:00,416276408,414932461,0,132.216.68.101,Orthopedic surgery,
+2014-03-31T07:45:45+00:00,602077320,595841936,0,Monkbot,Percutaneous coronary intervention,/* Adverse events */Task 1c: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2009-08-23T12:21:41+00:00,309590454,309473194,0,Orthosurgeon,Orthopedic surgery,/* External links */
+2016-01-14T15:26:48+00:00,699801369,699800078,0,Rjwilmsi,Percutaneous coronary intervention,"/* Types of stents used in PCI */Journal cites, Added 1 doi to a journal cite using [[Project:AWB|AWB]] (11771)"
+2014-11-23T10:43:32+00:00,635086159,633134448,0,Doc James,Percutaneous coronary intervention,/* Medical uses */ added
+2013-01-06T19:48:34+00:00,531665252,531198062,0,Sisodelaroca,Percutaneous coronary intervention,
+2012-03-03T09:05:20+00:00,479951548,439083773,0,Qetuth,Perineal tear,stub sorting
+2011-07-12T13:25:36+00:00,439083773,412264063,0,Vldscore,Perineal tear,
+2009-08-28T04:45:20+00:00,310492220,310349861,0,24.217.154.89,Placenta praevia,/* Risk factors */
+2010-04-14T10:40:50+00:00,355942210,355942080,0,Doc James,Pneumonia,formating
+2013-10-10T13:33:54+00:00,576584623,575343734,0,Red Star 777,Recreational drug use,/* External links */
+2014-03-01T20:27:22+00:00,597714020,593893738,0,Captain Cornwall,Pneumonia,
+2015-04-22T15:54:05+00:00,658475059,657362743,0,Icensnow42,Placenta praevia,Fixed a typo
+2013-12-17T23:13:09+00:00,586563257,585438451,0,Noodleki,Psychiatric hospital,"/* History */ Reorder, expand, some material from [[History of psychiatric institutions]]"
+2014-01-28T23:19:54+00:00,592873161,590713288,0,Monkbot,Psychiatric hospital,Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]
+2017-08-06T12:20:32+00:00,794187984,794183599,0,CV9933,Respiratory disease,Undid revision 794183599 by [[Special:Contributions/49.206.219.180|49.206.219.180]] ([[User talk:49.206.219.180|talk]]) rv unconstructive.
+2011-08-18T09:29:40+00:00,445476374,442083199,0,49.145.105.27,Respiratory disease,
+2018-01-02T09:49:53+00:00,818227086,810456074,0,Frans Fowler,Respiratory disease,/* Chronic respiratory disease */ Remove scrap half-sentence; other tidying
+2012-12-07T15:58:15+00:00,526880597,526880540,0,Min.neel,Recreational drug use,
+2009-09-23T06:12:36+00:00,315659866,315101687,0,76.189.11.150,Respiratory disease,/* Malignant tumors */
+2013-04-25T01:54:31+00:00,552054491,551886081,0,Corn cheese,Rural area,Filling in 2 references using [[WP:REFLINKS|Reflinks]]
+2012-07-19T05:58:36+00:00,503074668,501069158,0,71.199.128.6,Rural area,
+2010-09-27T20:33:05+00:00,387389978,387374807,0,Looie496,Schizophrenia,"Undo -- sorry, this is a featured article, additions need sources that meet [[WP:MEDRS]], not just wikilinks"
+2016-06-22T03:13:53+00:00,726427406,726408469,0,Motivação,Schizophrenia,
+2018-10-01T07:43:08+00:00,861961174,861960877,0,Iztwoz,Sepsis,/* top */ used entry term as used later
+2014-02-24T18:14:01+00:00,596946246,596946166,0,Doc James,Sepsis,/* Intravenous fluids */ simplified further
+2014-03-28T15:07:46+00:00,601663045,601654455,0,Jpgordon,Southern United States,rv unexplained edits
+2011-08-07T19:32:05+00:00,443554391,443469681,0,Hoppingalong,Southern United States,"Undid revision 443469681 by [[Special:Contributions/JamesTheGambler|JamesTheGambler]] ([[User talk:JamesTheGambler|talk]]) -- another good-faith try, but [[Wikipedia:WEIGHT#Undue_weight]]"
+2017-10-09T17:54:17+00:00,804541699,803805206,0,GreenC bot,Southern United States,Rescued 1 archive link; reformat 2 links. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]
+2015-10-20T20:54:03+00:00,686713388,686698240,0,Iztwoz,Spinal fusion,/* Types of spinal fusion */ case changes
+2012-09-03T23:46:56+00:00,510678410,498104569,0,Angelito7,Spinal fusion,MedlinePlus code
+2011-06-22T00:13:29+00:00,435555142,433364293,0,ChuispastonBot,Spinal fusion,r2.7.1) (robot Adding: [[ar:دمج الفقرات]]
+2012-01-11T21:18:13+00:00,470859021,470858778,0,Johnpacklambert,Southern United States,/* Native Americans */
+2011-01-31T15:03:15+00:00,411173007,411172402,0,91.65.105.48,Surgery,/* Terminology */
+2014-07-31T15:01:57+00:00,619298340,618576270,0,Andycadwell2,Spinal fusion,/* Notable persons who underwent spinal fusion */
+2017-11-28T18:20:02+00:00,812587175,812586136,0,DC80,Surgery,/* History */
+2011-08-16T22:56:06+00:00,445230350,445230159,0,Ohnoitsjamie,Substance abuse,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/LeoJweda|LeoJweda]] ([[User talk:LeoJweda|talk]]) to last version by Tesseract2
+2016-02-01T22:51:46+00:00,702834331,702529786,0,BG19bot,Surgery,/* Ancient Egypt */[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11876)
+2018-06-29T06:14:31+00:00,848006415,847936179,0,2601:14D:8000:368B:1E4:CEAF:8EF7:A7EC,Surgery,/* Islamic World */Capitalixation
+2015-09-12T01:57:10+00:00,680617772,680616921,0,Attaboy,Surgery,"/* Types of surgery */ Cosmetic is the purpose, not the type of procedure"
+2012-01-11T14:36:54+00:00,470795930,470794355,0,Taylornate,Surgery,Undid revision 470794355 by [[Special:Contributions/Mokotillon|Mokotillon]] ([[User talk:Mokotillon|talk]]) redundant with [[list of surgical procedures]]
+2015-01-18T06:53:55+00:00,643016024,639599222,0,Vgy7ujm,Surgery,/* Modern surgery */ Replaced a picture.
+2014-09-28T18:17:03+00:00,627442501,627184549,0,Mogism,Surgery,"/* Preoperative care */Cleanup/[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ,,  → , using [[Project:AWB|AWB]]"
+2017-05-31T22:42:35+00:00,783227499,783227498,0,ClueBot NG,Substance abuse,"Reverting possible vandalism by [[Special:Contribs/67.230.36.246|67.230.36.246]] to version by Doc James. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3052299) (Bot)"
+2016-09-25T19:06:50+00:00,741156464,741155936,0,Janeyleeme,Teenage pregnancy in the United States,/* Supporting Teenage Parents */ Fixed grammar
+2014-08-06T01:13:53+00:00,620033027,620032511,0,Jaywubba1887,Western United States,/* Politics */
+2016-01-04T15:36:11+00:00,698191119,698188987,0,Carrite,Western United States,Fixing typo raised by [[User:BracketBot|BracketBot]]
+2012-08-05T18:17:10+00:00,505938107,435854133,0,Versageek,User:HCUP US,rm redirect of user page to main space
+2015-01-11T05:14:06+00:00,641970077,641744791,0,Billinghurst,Western United States,Disambiguate [[Sierra Nevada Mountains]] to [[Sierra Nevada (U.S.)]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2017-12-14T20:41:31+00:00,815436620,814482449,0,InternetArchiveBot,Women's health,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])
+2012-10-18T13:59:49+00:00,518514839,518514737,0,165.155.204.100,Western United States,/* Region and concept */
+2012-10-08T04:28:23+00:00,516578837,516578814,0,Hyukjaes,Abdominal pain,
+2017-07-31T08:56:09+00:00,793204911,793204899,0,Oshwah,Abdominal pain,Reverted edits by [[Special:Contributions/46.185.212.9|46.185.212.9]] ([[User talk:46.185.212.9|talk]]): Editing tests ([[WP:HG|HG]]) (3.2.0)
+2016-11-05T09:13:06+00:00,747939130,747414737,0,Sanya3,Abdominal pain,"new key for [[Category:Abdominal pain]]: "" "" using [[WP:HC|HotCat]]"
+2016-10-23T21:26:53+00:00,745872154,745871922,0,White Arabian Filly,Abdominal pain,I think that is finally the dumbest thing I ever read
+2017-08-18T12:01:20+00:00,796087800,794545881,0,CFCF,Acute bronchitis,/* External links */Hidden category added for translation work using [[Project:AWB|AWB]]
+2012-05-19T10:13:02+00:00,493320353,480960611,0,112.201.223.158,Acute bronchitis,/* Cause/etiology */
+2009-10-13T20:35:27+00:00,319688634,318839134,0,71.224.136.30,Acute bronchitis,Removed some unnecessary and out of place info.
+2010-01-11T04:43:37+00:00,337133231,326060798,0,82.31.164.172,Acute bronchitis,/* Prognosis */
+2010-06-19T15:56:48+00:00,369012075,368995567,0,Citation bot 1,Acute bronchitis,Citations: [Pu168] added: postscript. Unified citation types.  You can [[WP:UCB|use this bot]] yourself! [[WP:DBUG|Report bugs here]].
+2014-07-17T11:48:57+00:00,617304109,605385366,0,Alan Merrit,Ambulatory care,no need for this definition; the term 'outpatient' is widely understood and anybody who doesn't understand it can simply click on the link
+2018-04-22T06:55:46+00:00,837664942,837662080,0,Boghog,Ambulatory care,templated citations
+2016-05-23T19:09:31+00:00,721734509,709132303,0,Trappist the monk,Ambulatory care,/* Conditions */cs1|2 maint: multiple [[Category:CS1 maint: Multiple names: authors list|authors]]/[[Category:CS1 maint: Multiple names: editors list|editors]] fixes; using [[Project:AWB|AWB]]
+2017-07-29T02:19:28+00:00,792844367,792791705,0,Lacypaperclip,Ambulatory care,v1.43 - [[WP:WCW]] project (Link equal to linktext)
+2017-03-04T18:58:56+00:00,768593047,754610087,0,PrimeBOT,Ambulatory care,/* References */rmv template being deleted - [[Wikipedia:Templates for discussion/Log/2017 February 20|TFD]] - [[Wikipedia:Bots/Requests for approval/PrimeBOT 12|BRFA]]
+2013-12-03T21:09:20+00:00,584424084,584304626,0,LeadSongDog,Arrhythmia,Undid revision 584304626 by [[Special:Contributions/75.83.210.1|75.83.210.1]] ([[User talk:75.83.210.1|talk]])
+2015-10-06T23:26:55+00:00,684491487,681305312,0,173.48.173.50,Ambulatory care,/* Conditions */
+2009-12-16T05:32:08+00:00,331965232,331848312,0,Repku,Arrhythmia,STOP EMPHASIZING WORDS ON WIKIPEDIA
+2018-03-09T22:04:57+00:00,829644618,829644507,0,Shellwood,Amputation,Reverted edits by [[Special:Contributions/70.75.112.151|70.75.112.151]] ([[User talk:70.75.112.151|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2011-04-27T17:26:45+00:00,426238817,426237959,0,Wikipelli,Amputation,Reverted edits by [[Special:Contributions/137.164.149.56|137.164.149.56]] ([[User talk:137.164.149.56|talk]]) to last revision by 173.55.134.104 ([[WP:HG|HG]])
+2015-01-19T16:30:31+00:00,643221033,642527743,0,Egsan Bacon,Amputation,Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2014-05-02T13:46:04+00:00,606769127,606768130,0,Darkwind,Amputation,Reverted edit(s) by [[Special:Contributions/199.197.77.7|199.197.77.7]] identified as vandalism ([[User:Darkwind/DAVT|DAVT]])
+2018-05-12T13:31:14+00:00,840833780,839470773,0,Renamed user cdb78c3737e6b7f6ba7e28cedcc6608711202eee,Amputation,/* Method */clean up using [[Project:AWB|AWB]]
+2010-05-07T12:48:31+00:00,360707860,360016092,0,193.235.173.250,Arrhythmia,Moved to discussion
+2011-02-10T18:06:47+00:00,413143035,413142303,0,Unklekrappy,Amputation,
+2018-09-13T16:36:01+00:00,859371859,855857905,0,HappyEnder9999,Arrhythmia,/* Normal electrical activity */
+2017-08-18T12:00:49+00:00,796087730,792173339,0,CFCF,Arrhythmia,/* External links */Hidden category added for translation work using [[Project:AWB|AWB]]
+2014-05-15T09:35:25+00:00,608666283,608666155,0,LibertyOrDeath,Arrhythmia,/* top */ Punctuation (rm extra comma)
+2017-09-08T18:49:48+00:00,799605192,798002939,0,The Eloquent Peasant,Asthma,Rescuing 21 sources and tagging 0 as dead. #IABot (v1.5.1)
+2015-01-15T18:06:22+00:00,642633189,642633083,0,Stamptrader,Asthma,fixed a typo
+2015-01-07T15:42:00+00:00,641434176,640777363,0,108.166.142.210,Caesarean section,/* History */
+2012-06-08T01:39:03+00:00,496533771,495879835,0,92.244.12.45,Caesarean section,/* Etymology */
+2012-11-11T20:24:10+00:00,522527517,522345968,0,70.125.137.132,Caesarean section,/* History */
+2012-06-01T19:47:48+00:00,495510282,494853873,0,Rezabot,Asthma,r2.7.1) (Robot: Adding [[tl:Hika]]
+2010-05-27T21:09:30+00:00,364547917,363611109,0,108.25.145.13,Caesarean section,/* Indications */
+2010-10-03T12:34:24+00:00,388457751,388404919,0,222.127.226.137,Asthma,/* References */
+2012-07-06T14:15:24+00:00,500954548,500954479,0,88.215.3.245,Cardiac surgery,/* External links */
+2013-09-30T01:20:26+00:00,575077399,575077328,0,Nightscream,Cardiac surgery,[[WP:DATESNO]].
+2010-10-10T12:10:53+00:00,389870274,389868442,0,91.105.86.245,Caesarean section,/* Etymology */
+2017-09-27T14:56:54+00:00,802646298,802646211,0,72,Cardiac surgery,Reverted edits by [[Special:Contributions/122.178.42.110|122.178.42.110]] ([[User talk:122.178.42.110|talk]]) ([[WP:HG|HG]]) (3.1.20)
+2010-04-14T14:26:38+00:00,355971353,355970880,0,71.111.210.190,Cardiac surgery,
+2010-05-20T15:30:23+00:00,363212949,362930548,0,SmackBot,Cardiac surgery,Date maintenance tags and general fixes: build 414:
+2011-04-24T09:43:15+00:00,425636986,425325361,0,Kjkolb,Cardiac surgery,"mostly wikified as per Wikipedia Manual of Style, some red links should probably be removed"
+2010-08-28T07:27:00+00:00,381457382,380862796,0,Citation bot 1,Cardiac surgery,Citations: [Pu184]Misc citation tidying.  You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].
+2009-11-23T15:35:26+00:00,327486074,326679782,0,209.181.228.22,Cardiac surgery,/* Open heart surgery */
+2013-08-12T20:01:43+00:00,568256355,567540453,0,152.7.224.2,Cataract surgery,/* Complications */
+2009-12-09T21:30:19+00:00,330734640,330544049,0,Elkman,Cardiac surgery,/* Open heart surgery */ Link U of M
+2013-04-02T21:24:38+00:00,548384769,547232446,0,Robertofreda,Cataract surgery,/* Types */
+2013-01-21T17:27:53+00:00,534189156,534185378,0,Dawnseeker2000,Cataract surgery,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Wealth009|Wealth009]] ([[User talk:Wealth009|talk]]) to last version by Descemet
+2012-02-12T17:25:28+00:00,476478500,455153276,0,JamesAM,Cervical weakness,/* Treatment */ Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2015-07-07T00:22:08+00:00,670279048,665397794,0,Trappist the monk,Cervical weakness,/* Treatment */replace/remove deprecated cs1|2 parameters; using [[Project:AWB|AWB]]
+2011-02-22T08:25:32+00:00,415287774,410493565,0,Agamemnon2,Chest pain,/* Diagnostic approach */ typo
+2015-05-12T03:09:02+00:00,661940982,661939269,0,Sf emv,Chest pain,/* Diagnostic approach */
+2010-05-26T10:45:57+00:00,364277037,364275236,0,Luckas-bot,Cervical weakness,robot Adding: [[ru:Истмико-цервикальная недостаточность (ИЦН)]]
+2011-02-04T19:59:07+00:00,412030642,383121807,0,EmausBot,Cervical weakness,r2.6.4) (robot Modifying: [[ru:Истмико-цервикальная недостаточность]]
+2012-11-26T10:03:28+00:00,524928891,524928692,0,Netha Hussain,Chest pain,/* Others */
+2014-04-21T00:39:42+00:00,605085387,605085317,0,Ocdnctx,Chest pain,/* Management */words edits
+2014-06-01T16:19:53+00:00,611097369,610969179,0,85.210.37.132,Childbirth,"/* Signs and symptoms */ the types of distress that women go through in childbirth are various; it's not just pain but also fear, sense of loss of control etc, and the psychological influence works even stronger on these"
+2018-08-21T16:12:23+00:00,855903687,855903648,0,Arjayay,Childbirth,Reverted edits by [[Special:Contribs/2604:2000:1580:C439:0:FCE9:B607:A2B4|2604:2000:1580:C439:0:FCE9:B607:A2B4]] ([[User talk:2604:2000:1580:C439:0:FCE9:B607:A2B4|talk]]) to last version by Doc James
+2018-03-03T14:35:05+00:00,828588342,828484829,0,188.10.254.98,Childbirth,/* Signs and symptoms */Fixed typo
+2012-04-27T02:06:44+00:00,489409504,487666600,0,98.245.98.207,Children's hospital,Fixed typo
+2016-06-08T02:11:06+00:00,724251980,722137081,0,69.22.64.188,Children's hospital,
+2010-02-03T04:44:31+00:00,341624536,341624290,0,156.145.253.90,Children's hospital,
+2010-06-17T21:48:14+00:00,368670697,368670153,0,Crazypaco,Children's hospital,/* Ranking */
+2017-04-04T13:44:27+00:00,773800626,768599531,0,Molly-in-md,Children's hospital,/* Professionalization of Children's Hospitals */ Added hotlinks to existing Wikipedia pages on children's hospitals.
+2018-04-12T18:59:29+00:00,836111353,825822066,0,SheriffIsInTown,Children's hospital,Filled in 2 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2013-10-21T19:34:48+00:00,578155549,570789675,0,Jdaloner,Children's hospital,"Removing this from ""Children's hospitals in the United States"" category (it's already in the more appropriate ""Children's hospitals"" category); also removing unnecessary/redundant ""DEFAULTSORT"" template"
+2012-02-12T11:16:29+00:00,476430504,446496987,0,Luckas-bot,Children's hospital,r2.7.1) (Robot: Adding [[fr:Hôpital pour enfants]]
+2016-09-09T09:11:30+00:00,738498990,738111849,0,Robert A. Curtis,Children's hospital,deleted information available in more detail in wikipedia.
+2014-04-29T04:07:20+00:00,606279512,606203247,0,Jonesey95,Cholecystectomy,Undid revision 606203247 by [[Special:Contributions/12.229.56.230|12.229.56.230]] ([[User talk:12.229.56.230|talk]]). Multiple articles spammed with this material unrelated to the core article content.
+2015-07-24T11:06:26+00:00,672864732,669280413,0,Bakerstmd,Cholecystectomy,
+2017-10-16T05:04:58+00:00,805561163,805210911,0,Shemaroo,Cholecystectomy,/* Procedural risks and complications */
+2017-03-04T19:40:04+00:00,768599531,767285839,0,PrimeBOT,Children's hospital,/* References */rmv template being deleted - [[Wikipedia:Templates for discussion/Log/2017 February 20|TFD]] - [[Wikipedia:Bots/Requests for approval/PrimeBOT 12|BRFA]]
+2014-09-03T13:12:45+00:00,624006424,621441860,0,SciGal,Cholecystectomy,/* Procedural risks and complications */ Removed redlink
+2016-05-13T15:05:57+00:00,720071783,717334751,0,2601:642:C004:2490:210B:498F:F278:9BBD,Cholecystectomy,/* Open cholecystectomy */Fixed typo
+2010-10-21T12:38:24+00:00,392017681,392016988,0,GB fan,Circulatory system,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/74.140.84.31|74.140.84.31]] ([[User talk:74.140.84.31|talk]]) to last version by Brookie
+2010-01-03T03:06:49+00:00,335569198,334807697,0,MER-C,Cholecystectomy,rm spam
+2014-02-04T23:20:35+00:00,593964444,592899394,0,Bjhodge8,Circulatory system,/* Closed cardiovascular system */ grammar i.e. number agreement
+2014-01-10T03:33:36+00:00,590023044,590020510,0,Materialscientist,Circulatory system,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/108.246.22.108|108.246.22.108]] ([[User talk:108.246.22.108|talk]]) to last version by Meters
+2011-01-12T21:47:55+00:00,407543980,407543896,0,Edderso,Circulatory system,Reverted edits by [[Special:Contributions/66.154.187.167|66.154.187.167]] ([[User talk:66.154.187.167|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])
+2013-07-09T20:08:30+00:00,563568898,563568290,0,117.208.95.2,Cholecystectomy,/* External links */
+2009-08-15T17:44:04+00:00,308155134,308057687,0,WikHead,Circulatory system,"Fixed typo, ""is is"""
+2014-01-23T13:18:32+00:00,592018948,592003900,0,115.112.83.122,Comorbidity,
+2012-03-30T04:54:29+00:00,484649439,482778746,0,Download,Comorbidity,"gen fixes, typos fixed: upto → up to, comprises of → comprises,  ,  → , using [[Project:AWB|AWB]]"
+2011-05-01T10:23:34+00:00,426869171,424713074,0,Stephanelarre,Comorbidity,/* Charlson index */
+2009-08-28T17:00:31+00:00,310570551,303583511,0,Jmvalderas,Comorbidity,/* Comorbidity in medicine */
+2012-07-18T03:50:33+00:00,502902770,502901996,0,174.53.163.119,Comorbidity,numerous punctuation corrections.  Someone was amazingly thorough about disregarding [[WP:MOS]] in these matters.
+2009-11-16T02:44:21+00:00,326093256,326076401,0,Graham87,Coronary artery bypass surgery,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/66.245.86.68|66.245.86.68]] ([[User talk:66.245.86.68|talk]]) to last version by Favonian
+2010-05-03T22:01:38+00:00,359935182,359682031,0,Fletcher,Coronary artery bypass surgery,/* History */ ce
+2010-06-14T02:48:45+00:00,367890763,367882835,0,Graham87,Coronary artery bypass surgery,/* History */ rm line breaks so it's easier to read diff
+2015-05-06T04:29:33+00:00,661053072,661008791,0,Graham87,Coronary artery bypass surgery,"copyedit, note that it's in PDF format"
+2010-09-18T15:00:44+00:00,385544014,385531341,0,Graham87,Coronary artery bypass surgery,"rv, not appropriate"
+2010-08-16T07:31:10+00:00,379178957,379047480,0,Graham87,Coronary artery bypass surgery,"rv, the link is [[WP:EL|too general]], not a [[WP:MEDRS|medical reliable source]]"
+2015-02-16T12:05:45+00:00,647386395,642708060,0,Niceguyedc,Coronary artery bypass surgery,[[:en:WP:CLEANER|WPCleaner]] v1.34 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Circumflex artery]]
+2012-03-16T03:46:15+00:00,482140518,481953337,0,Graham87,Coronary artery bypass surgery,"rv, not appropriate for the caption"
+2017-06-06T18:50:14+00:00,784147767,781991539,0,RoyGoldsmith,Coronary artery bypass surgery,/* top */ Added sentence for non-experts
+2009-12-19T18:17:42+00:00,332707598,332052232,0,P.NaZ,Coronary artery bypass surgery,
+2010-05-17T16:58:08+00:00,362639667,359516071,0,90.195.0.94,Coronary care unit,add Cardiac dysrhythmia to normal people on ward
+2009-11-30T23:55:33+00:00,328914363,328913945,0,Tide rolls,Coronary care unit,Reverted edits by [[Special:Contributions/173.59.21.44|173.59.21.44]] to last revision by Jmlaing ([[Wikipedia:Huggle|HG]])
+2014-11-08T13:28:27+00:00,632953035,632952480,0,Captain108,Coronary care unit,/* History */
+2014-03-20T06:19:42+00:00,600414755,600414719,0,74.15.210.251,Emergency department,/* Non-emergency use */
+2016-01-11T05:04:44+00:00,699248887,699145940,0,GünniX,Emergency department,ISSN using [[Project:AWB|AWB]]
+2017-05-11T14:34:10+00:00,779869624,779033197,0,Proxima Centauri,Emergency department,/* United Kingdom */
+2009-09-29T22:26:21+00:00,316974604,316974480,0,Iridescent,Emergency department,Reverted edits by [[Special:Contributions/66.44.192.171|66.44.192.171]] to last revision by 97.118.73.241 ([[WP:HG|HG]])
+2011-03-27T13:57:20+00:00,420979325,420979258,0,Cntras,Emergency department,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/94.128.85.198|94.128.85.198]] ([[User talk:94.128.85.198|talk]]) to last version by 184.187.163.104
+2015-01-15T22:01:50+00:00,642662006,641299825,0,StefenTower,Emergency department,clean up articles linked from [[University of Louisville]] for [[Wikipedia:WikiProject Louisville]] using [[Project:AWB|AWB]]
+2016-08-31T14:32:19+00:00,737061187,735866340,0,FlyingVolvo,Emergency department,/* Emergency department waiting times */  Extremely minor wording and editing changes.
+2016-12-19T00:14:15+00:00,755587956,754852363,0,NickPenguin,Emergency department,no consensus to merge
+2010-01-28T15:02:48+00:00,340533881,338321801,0,84.109.51.141,Emergency department,~yi
+2009-09-01T06:27:48+00:00,311227114,311226688,0,Espoo,Emergency department,/* Cardiac arrest */
+2010-06-02T09:39:42+00:00,365609180,364397072,0,Kaini,Emergency department,/* Department operation */ typo
+2017-05-30T22:11:07+00:00,783062401,782832572,0,203.145.94.189,Emergency department,/* History */
+2012-11-30T01:53:38+00:00,525634253,525633902,0,70.31.157.203,Emergency department,/* Department operation */
+2018-02-19T21:09:21+00:00,826563808,826437507,0,Treetear,Emergency department,
+2017-11-20T20:49:54+00:00,811311423,808655039,0,109.145.47.28,Emergency department,
+2015-08-11T12:33:58+00:00,675574502,670258456,0,GREGADAKA,Emergency department,/* United Kingdom */ explained something in further detail.
+2015-02-09T23:41:38+00:00,646420806,645326652,0,Quercus solaris,Emergency department,
+2017-06-25T02:03:19+00:00,787383596,787381356,0,Jtamad,Epidemiology of pneumonia,correction; cochrane not best reference for epidemiology
+2016-01-16T18:02:50+00:00,700145113,698956550,0,StefenTower,Gastroenteritis,"cleanup articles linked from [[History of Louisville, Kentucky]] for [[WP:LOU|WikiProject Louisville]] using [[Project:AWB|AWB]]"
+2015-01-12T10:48:01+00:00,642139957,642135065,0,EMsmile,Gastroenteritis,"/* Lifestyle */ added ""with soap"", it's important"
+2013-12-23T04:20:49+00:00,587325701,580661925,0,BattyBot,Epidemiology of pneumonia,fixed [[:Category:CS1 errors: dates|CS1 errors: dates]] & [[WP:AWB/GF|General fixes]] using [[Project:AWB|AWB]] (9803)
+2017-04-19T21:32:56+00:00,776252880,776252772,0,Bunsdome,Gastroenteritis,
+2017-11-09T14:10:54+00:00,809496232,807293023,0,Worldbruce,Gastroenteritis,"journal title cleanup; abbreviate or not, but consistently within article; use editors parameters"
+2010-10-27T13:00:26+00:00,393199281,392096113,0,Somercet,Gastroenteritis,fixed language.
+2009-09-09T06:23:07+00:00,312734259,312734222,0,NeoJustin,Gastrointestinal tract,Reverted edits by [[Special:Contributions/125.60.173.131|125.60.173.131]] to last revision by Finlay McWalter ([[WP:HG|HG]])
+2010-12-16T22:58:56+00:00,402768555,402767177,0,Hipal,Gastrointestinal tract,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/70.26.137.9|70.26.137.9]] ([[User talk:70.26.137.9|talk]]) to last version by 24.184.198.199
+2015-01-27T13:29:10+00:00,644401031,643675235,0,188.167.60.167,Gastrointestinal tract,
+2011-05-08T09:52:30+00:00,428052816,425696840,0,Giggett,Great Recession in the United States,moved [[2007–11 recession in the United States]] to [[2007–present recession in the United States]]: Just leave it as present to prevent any confusion with the recession ending this yeer
+2013-11-08T21:19:15+00:00,580807384,580807256,0,98.228.150.179,Great Recession in the United States,/* Recovery */
+2011-08-07T16:17:25+00:00,443526678,442746095,0,Enchanter,Gastrointestinal tract,revert vandalism
+2017-03-17T20:08:22+00:00,770822718,768491672,0,Bageense,Gastrointestinal tract,/* top */ novel is not relevant enough to deserve a hatnote
+2014-05-30T12:38:29+00:00,610784013,610783369,0,Djembayz,Great Recession in the United States,copyedit
+2016-02-03T22:36:17+00:00,703168274,701546520,0,167.57.174.239,Great Recession in the United States,
+2015-01-06T18:25:56+00:00,641275812,641274999,0,Forbes72,Great Recession in the United States,redundant category
+2013-06-07T16:18:38+00:00,558777002,558776929,0,98.228.150.160,Great Recession in the United States,/* Recovery */
+2013-05-03T19:15:41+00:00,553389243,553388748,0,163.231.6.68,Healthcare Cost and Utilization Project,/* See also */
+2010-03-12T23:35:11+00:00,349514277,349479629,0,Accius,Healthcare in the United States,/* reversing vandalism. how long has this been up? */
+2010-11-22T03:22:09+00:00,398178455,398136358,0,Barbula,Healthcare in the United States,
+2010-10-19T19:41:12+00:00,391699822,391648443,0,Zorrobot,Healthcare in the United States,robot Adding: [[sv:Sjukvård i USA]]
+2015-01-31T18:06:15+00:00,645022528,644020210,0,Boghog,Healthcare in the United States,"per [[Template_talk:Cite_doi#RfC:_Should_Template:cite_doi_cease_creating_a_separate_subpage_for_each_DOI.3F|consensus]], substituting transcluded cite templates; consistent citation formatting"
+2011-11-03T20:29:52+00:00,458865898,458865799,0,Jesanj,Healthcare in the United States,/* Health care payment */
+2012-07-05T20:17:02+00:00,500847982,500521801,0,137.79.7.57,Healthcare in the United States,/* Third-party payment problem and consumer-driven insurance */
+2016-07-12T18:07:36+00:00,729510573,729510145,0,173.13.222.94,Healthcare in the United States,
+2013-03-02T00:44:39+00:00,541617003,541616312,0,SoledadKabocha,Heart failure,/* Right-sided failure */ someone forgot some spaces here too
+2013-06-03T17:43:36+00:00,558159010,556815973,0,Wimpus~enwiki,Heart failure,
+2013-07-31T02:09:14+00:00,566516112,566515878,0,XLinkBot,Heart failure,BOT--Reverting link addition(s) by [[:en:Special:Contributions/Ojbooker|Ojbooker]] to revision 565351815 (http://myheartnet.wordpress.com/2013/06/25/diastolic-heart-failure-part-1/|Diastolic [\bwordpress\.com])
+2018-06-05T10:00:17+00:00,844501195,844499547,0,BallenaBlanca,Heart failure,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/27.123.254.43|27.123.254.43]] ([[User talk:27.123.254.43|talk]]): Https://www.evnews4.com [[WP:EL]]. ([[WP:TW|TW]])
+2010-02-21T15:07:16+00:00,345433551,345433041,0,DanielRigal,Heart failure,Undid revision 345433041 by [[Special:Contributions/85.227.184.5|85.227.184.5]] ([[User talk:85.227.184.5|talk]]) we already have an external links section and that blog may not be appropriate anyway
+2015-03-28T11:56:43+00:00,653880136,653880113,0,Mike Rosoft,Heart failure,Reverted edits by [[Special:Contributions/196.47.224.203|196.47.224.203]] ([[User talk:196.47.224.203|talk]]) ([[WP:HG|HG]])
+2009-10-23T01:38:47+00:00,321496475,319966729,0,99.30.201.132,Heart failure,/* Acute decompensation */
+2009-12-06T09:55:53+00:00,330036478,329842970,0,Paiamshadi,Heart failure,
+2012-07-05T17:18:14+00:00,500823354,499923827,0,217.40.155.9,Heart failure,/* Pathophysiology */
+2012-03-13T14:22:16+00:00,481685057,481219202,0,67.60.120.214,Heart failure,/* Classification */
+2018-08-13T16:20:30+00:00,854763587,854763397,0,108.41.116.149,Heart failure,
+2012-10-04T00:04:45+00:00,515879849,491946780,0,Vegaswikian,Inpatient care,Disambiguated: [[rounds]] → [[Grand rounds]]
+2009-08-11T02:35:02+00:00,307286095,307176915,0,68.101.38.109,Heart failure,/* Chronic Heart Failure */
+2009-11-14T00:44:04+00:00,325718031,321761853,0,69.127.80.175,Intensive care unit,/* Staff */
+2013-03-21T00:58:00+00:00,545833316,541628355,0,WhatamIdoing,Inpatient care,/* See also */ +
+2011-11-03T13:08:36+00:00,458800564,453314301,0,Vishybabs,Inpatient care,/* History */ Ashoka ruled in the BC era not AD
+2018-01-01T20:09:34+00:00,818133268,817765018,0,Leschnei,Inpatient care,/* Planning for patient discharge */ fixed a citation error
+2018-07-27T02:58:10+00:00,852166948,851486345,0,DDAANNIILLOO,Intensive care unit,/* Out of Hospital ICU */
+2009-11-15T23:13:10+00:00,326061520,325718031,0,RodC,Intensive care unit,/* Intensive care around the world */
+2010-02-19T05:14:20+00:00,344964834,344964743,0,70.187.59.171,Inpatient care,/* History */
+2017-08-11T08:45:24+00:00,794989695,789173044,0,Raviraj (somwari)panwar,Intensive care unit,
+2011-08-30T17:45:05+00:00,447519241,447447334,0,Jesanj,Intensive care unit,Reverted 1 edit by [[Special:Contributions/74.137.174.105|74.137.174.105]] ([[User talk:74.137.174.105|talk]]) identified as [[WP:VAND|vandalism]] to last revision by FeatherPluma. ([[WP:TW|TW]])
+2017-12-14T11:30:17+00:00,815365307,810070842,0,JzG,Intensive care unit,remove [[predatory open access]] publisher as identified by DOAJ and independent reports
+2013-06-18T08:59:46+00:00,560419334,560419059,0,Xanzzibar,Intensive care unit,More still
+2013-02-10T18:00:21+00:00,537573620,537572339,0,Graham Beards,Iron-deficiency anemia,low red blood cell or [[hemoglobin]] levels
+2017-07-09T00:06:27+00:00,789695927,789695707,0,94.8.254.141,Iron-deficiency anemia,/* Signs and symptoms */G
+2018-01-11T12:16:13+00:00,819816948,818590272,0,Onel5969,Iron-deficiency anemia,Disambiguating links to [[Arrhythmia]] (link changed to [[Heart arrhythmia]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2013-09-20T10:32:43+00:00,573761359,573761002,0,MER-C,Iron-deficiency anemia,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/112.135.233.184|112.135.233.184]] ([[User talk:112.135.233.184|talk]]) to last version by Mogism
+2013-10-09T12:47:53+00:00,576429749,576414367,0,Apparition11,Iron-deficiency anemia,Reverted 1 edit by [[Special:Contributions/112.135.13.32|112.135.13.32]] ([[User talk:112.135.13.32|talk]]): Spam. using [[WP:TWINKLE|TW]]
+2018-05-28T21:11:36+00:00,843391954,842378643,0,Josvebot,Iron-deficiency anemia,v1.43b - [[WP:WCW]] project (Unicode control characters)
+2018-08-31T15:43:40+00:00,857420157,856694323,0,Pileoswag27163,Kidney transplantation,/* Notable recipients */
+2011-11-26T14:48:36+00:00,462574452,461519759,0,41.241.197.112,Iron-deficiency anemia,/* Treatment */ Made Iron AAC into a link as a page is needed on this topic
+2015-01-23T08:00:17+00:00,643790462,643775166,0,Graham Beards,Iron-deficiency anemia,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/38.126.80.50|38.126.80.50]] ([[User talk:38.126.80.50|talk]]): Citation required. ([[WP:TW|TW]])
+2012-04-08T08:48:47+00:00,486225649,484174875,0,EmausBot,Kidney transplantation,r2.6.4) (Robot: Modifying [[ta:சிறுநீரகக் கொடை]]
+2015-02-12T20:45:39+00:00,646846194,646840741,0,APK,Kidney transplantation,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/162.206.173.118|162.206.173.118]] using [[WP:STiki|STiki]]
+2011-11-19T03:42:59+00:00,461379391,460889748,0,Adrian J. Hunter,Kidney transplantation,/* Living donors */ fix per talk
+2016-06-07T18:02:18+00:00,724189889,722988643,0,Trappist the monk,Kidney transplantation,/* top */Remove redundant |year= parameter from CS1 citations; using [[Project:AWB|AWB]]
+2013-08-28T17:29:12+00:00,570557385,570152908,0,70.183.20.162,Kidney transplantation,/* Sources of kidneys */
+2016-09-11T21:40:08+00:00,738936753,738170933,0,Magioladitis,Knee replacement,/* Variations */clean up using [[Project:AWB|AWB]] (12084)
+2012-11-05T05:38:54+00:00,521471452,518980010,0,Cablehorn,Knee replacement,/* Risks and complications */ w-link
+2012-03-14T12:51:19+00:00,481842583,481842115,0,Allens,Knee replacement,Reverted edit(s) by [[Special:Contributions/208.122.71.124|208.122.71.124]] identified as test/vandalism using [[WP:STiki|STiki]]
+2015-12-02T04:51:43+00:00,693379071,693378997,0,Steven Walling,Knee replacement,/* Instability */
+2009-07-30T23:47:04+00:00,305176532,304998987,0,Chris the speller,Knee replacement,sp
+2010-01-04T04:15:29+00:00,335753147,330107958,0,Ccacsmss,Medicaid,
+2013-12-22T02:24:50+00:00,587173615,587173573,0,K6ka,Medicaid,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/149.254.51.117|149.254.51.117]] ([[User talk:149.254.51.117|talk]]) to last version by Jack Greenmaven
+2010-10-29T22:03:33+00:00,393685246,393624820,0,208.81.184.4,Medicaid,Undid revision 393624820 by [[Special:Contributions/Alisonbroderick|Alisonbroderick]] ([[User talk:Alisonbroderick|talk]]) - rv [[WP:SPAM]]
+2011-02-15T08:13:21+00:00,414029344,414005435,0,Wouterstomp,Knee replacement,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/60.240.186.88|60.240.186.88]] ([[User talk:60.240.186.88|talk]]) to last version by 99.40.60.170
+2010-06-20T00:09:16+00:00,369091612,369090187,0,99.9.113.192,Knee replacement,Removed what amounted to an extended ad for a blog on knee replacement in India.
+2013-07-18T23:16:18+00:00,564853410,564674936,0,99.181.143.15,Medicaid,[[America's Health Insurance Plans]] (HIAA))
+2017-07-05T16:12:37+00:00,789140890,785971132,0,87.165.131.187,Knee replacement,/* Partial knee replacement */
+2016-07-19T16:50:49+00:00,730536962,729236120,0,2601:381:4203:1DC0:4DE0:D7DD:99BC:E93D,Medicaid,
+2013-10-11T03:26:54+00:00,576676556,576651393,0,Polmandc,Medicaid,Undid revision 576651393 by [[Special:Contributions/75.69.95.162|75.69.95.162]] ([[User talk:75.69.95.162|talk]]) rmvv
+2016-08-04T14:15:36+00:00,732973408,732970075,0,Sam Sailor,Medicaid,Reverted 1 edit by [[Special:Contributions/66.87.120.190|66.87.120.190]] identified as test/vandalism using [[WP:STiki|STiki]]
+2016-03-08T03:02:59+00:00,708890971,708879136,0,Flyer22 Frozen,Medicaid,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/73.34.95.158|73.34.95.158]] using [[WP:STiki|STiki]]
+2013-01-05T01:05:37+00:00,531370848,527715795,0,Aprolix,Medicaid,/* Enrollment */
+2018-02-02T17:44:54+00:00,823669716,822073120,0,164.107.185.91,Medicaid,/* History */
+2012-03-13T04:04:59+00:00,481627832,481627693,0,Nhajivandi,Medicaid,/* See also */
+2012-05-24T17:51:10+00:00,494184196,490347976,0,12.75.112.110,Medicaid,/* Categories */
+2014-04-18T21:18:07+00:00,604794737,604614701,0,BattyBot,Medicaid,/* In Process */fixed [[Help:CS1 errors#bad_date|CS1 errors: dates]] to meet [[MOS:DATEFORMAT]] (also [[WP:AWB/GF|General fixes]]) using [[Project:AWB|AWB]] (10069)
+2017-12-12T06:30:45+00:00,815015025,814476988,0,DocWatson42,Medicaid,Performed cleanup.
+2015-08-28T14:51:08+00:00,678300865,675369772,0,Cyberbot II,Medicare (United States),"Rescuing 4 sources, flagging 0 as dead, and archiving 8 sources. ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])"
+2015-04-26T01:25:10+00:00,659225901,658871559,0,Postdlf,Medicaid,/* In Process */  remove duplicate cites to the same source...in the same sentence
+2011-05-01T12:40:25+00:00,426882430,425081582,0,G Clark,Medicaid,Disambiguated: [[end stage renal disease]] → [[End Stage Renal Disease (US Federal Program)]] using [[tools:~dispenser/view/Dab_solver|Dab solver]]
+2017-02-20T16:35:18+00:00,766512978,765958344,0,UnitedStatesian,Medicare (United States),/* Part C: Medicare Advantage plans */ rm redundant WL
+2010-02-26T08:45:29+00:00,346462235,346460007,0,Timeshifter,Medicare (United States),/* Financial challenges */ chart caption
+2018-03-12T22:51:39+00:00,830130354,830129761,0,24.60.195.78,Medicare (United States),/* Graduate medical education */Information not consistent with a main point of the cited article- specifically that the freeze to Medicare funding has forced teaching hospitals to look for alternative funding sources for residency slots besides Medicare...
+2011-08-17T14:15:06+00:00,445336420,445336287,0,Jesanj,Medicare (United States),Undid revision 445333862 by [[Special:Contributions/122.181.130.13|122.181.130.13]] ([[User talk:122.181.130.13|talk]])
+2010-10-22T14:39:00+00:00,392223178,391594288,0,208.253.25.162,Medicare (United States),Added Non-Profit Advocacy Group
+2015-12-31T07:28:40+00:00,697557905,697447811,0,2601:404:303:7C18:B1AF:4567:45E1:CDCC,Medicare (United States),/* Costs and funding challenges */ Not backed by sound statistics. Krugman is highly partisan.
+2011-06-22T14:04:33+00:00,435639273,434317886,0,Ccgrimm,Medicare (United States),
+2011-03-18T23:05:54+00:00,419540554,419366013,0,Student7,Medicare (United States),/* Hospital accreditation */ not sure why this was erased. is it a good link?
+2015-01-18T08:02:54+00:00,643020795,638397619,0,111.69.139.91,Medicare (United States),/* Financing */ Reword last sentence of 2nd paragraph.
+2013-11-19T03:22:01+00:00,582318708,582281379,0,70.95.105.143,Medicare (United States),/* Benefits */
+2017-01-07T04:10:16+00:00,758720621,757312676,0,BillyTFried,Medicare (United States),
+2016-11-15T04:18:00+00:00,749593434,749540980,0,Ewulp,Medicare (United States),punct
+2013-03-09T05:34:07+00:00,542978688,542767182,0,Legobot,Midwestern United States,Bot: Migrating 1 langlinks to [[WP:Wikidata]] - [[d:q186545]]
+2017-12-30T16:21:43+00:00,817790267,817787255,0,Ahunt,Midwestern United States,Undid revision 817787255 by [[Special:Contributions/96.40.6.36|96.40.6.36]] ([[User talk:96.40.6.36|talk]])  [[WP:SPAM]]
+2014-05-29T22:17:07+00:00,610708551,610201285,0,71.204.246.107,Medicare (United States),
+2015-05-30T11:25:19+00:00,664694942,664616651,0,Giaawilhite,Midwestern United States,/* Sports */I added Major League Lacrosse (MLL) as a professional sport in the Midwest.  And in the Columbus city sports section I added the name of the MLL professional team Ohio Machine.
+2011-03-28T04:36:42+00:00,421094620,420829297,0,Astuishin,Midwestern United States,/* Culture */
+2016-07-25T21:14:06+00:00,731515730,731359077,0,207.238.203.211,Midwestern United States,/* Music */
+2016-11-08T03:50:11+00:00,748426642,748378454,0,CitationCleanerBot,Mood disorder,"clean up, url redundant with pmc, add pmc, and/or remove accessdate if no url using [[Project:AWB|AWB]]"
+2015-09-22T19:34:36+00:00,682289538,682289365,0,TheRedPenOfDoom,Mood disorder,Reverted edits by [[Special:Contribs/163.6.193.158|163.6.193.158]] ([[User talk:163.6.193.158|talk]]) to last version by GeneralizationsAreBad
+2012-05-17T17:45:36+00:00,493059228,492740427,0,Idontknowtheworldtoday,Mood disorder,
+2016-02-11T12:14:07+00:00,704409332,704271595,0,Dewritech,Mood disorder,Reverted 1 edit by [[Special:Contributions/138.51.159.63|138.51.159.63]] ([[User talk:138.51.159.63|talk]]): No imp. ([[WP:TW|TW]])
+2016-08-17T19:09:36+00:00,734953553,734260311,0,JzG,Mood disorder,rm. self-promotion
+2012-04-12T02:56:22+00:00,486936309,486874028,0,Jeraphine Gryphon,Mood disorder,Reverted 2 edits by [[Special:Contributions/Ashesid|Ashesid]] ([[User talk:Ashesid|talk]]): Original research.
+2017-12-14T23:57:50+00:00,815463818,814416350,0,Ta(y)lsthehedgehog,Mood disorder,added in fact about light therapy
+2014-08-15T14:53:00+00:00,621360131,621055471,0,46.164.34.82,Mood disorder,/* Treatment */
+2010-11-21T16:15:04+00:00,398072907,397558505,0,112.200.193.130,Mood disorder,/* Bipolar disorders */
+2011-10-28T19:28:50+00:00,457865241,457609442,0,68.153.116.112,Mood disorder,/* Epidemiology */
+2011-12-28T22:08:21+00:00,468159718,468150963,0,A3nm,Mood disorder,rv vandalism
+2009-09-09T20:27:16+00:00,312843978,312447650,0,99.41.254.15,Mood disorder,/* Alcohol-induced mood disorders */ just taking out a repeated word
+2016-02-22T13:13:17+00:00,706281087,706280879,0,Dogboxer,Multiple birth,/* Premature birth and low birth weight */
+2018-01-08T16:45:56+00:00,819302959,819002874,0,J4lambert,Multiple birth,/* Terminology */
+2013-10-06T11:18:32+00:00,575976581,575972431,0,Mikael Häggström,Multiple birth,/* Birthing process and neonatal intensive care */ Expanded
+2016-09-21T06:40:05+00:00,740465264,738967362,0,23.79.224.10,Multiple birth,/* Risks */
+2011-01-13T18:47:01+00:00,407700895,407116753,0,Kralizec!,Multiple birth,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/94.14.145.87|94.14.145.87]] ([[User talk:94.14.145.87|talk]]) to last version by Jedikaiti
+2013-09-09T20:24:04+00:00,572241739,569815756,0,130.132.173.104,Natural childbirth,/* Alternatives to intervention */
+2016-10-29T13:02:37+00:00,746771889,746771791,0,184.101.28.62,Multiple birth,
+2018-05-04T18:59:42+00:00,839644256,837672813,0,Ghosthunter2876,Multiple birth,/* Very high-order multiple births */
+2014-03-11T16:22:02+00:00,599152177,588186225,0,Jonesey95,Natural childbirth,Fixing [[Category:Pages containing cite templates with deprecated parameters|deprecated parameter]] using [[WP:AutoEd|AutoEd]]
+2011-01-11T21:14:55+00:00,407343153,407324752,0,Weetoddid,Natural childbirth,Reverted 2 edits by [[Special:Contributions/Thomas Gault|Thomas Gault]] ([[User talk:Thomas Gault|talk]]); Per [[WP:ELPOINTS]] # 2. ([[WP:TW|TW]])
+2010-01-12T21:19:52+00:00,337463013,337447390,0,Gillyweed,Natural childbirth,[[WP:UNDO|Undid]] revision 337447390 by [[Special:Contributions/170.140.211.17|170.140.211.17]] ([[User talk:170.140.211.17|talk]])Linkspam
+2012-12-06T19:07:04+00:00,526750323,520684381,0,161.185.151.193,Natural childbirth,what is exactly being disputed
+2009-11-28T03:59:47+00:00,328319087,327165959,0,Themfromspace,Neonatology,"Reverted 1 edit by [[Special:Contributions/Neomed|Neomed]]; Per [[WP:EL]], spammed. ([[WP:TW|TW]])"
+2012-08-18T11:46:47+00:00,507972020,500253639,0,95.123.57.226,Natural childbirth,/* Psychological aspects */
+2015-11-21T23:16:26+00:00,691753029,691751447,0,104.246.33.164,Neonatology,/* Academic training */
+2013-10-07T20:30:29+00:00,576191840,576191748,0,IronGargoyle,Neonatology,Reverted edits by [[Special:Contributions/196.43.134.179|196.43.134.179]] ([[User talk:196.43.134.179|talk]]) to last revision by Diptanshu.D ([[WP:HG|HG]])
+2017-08-13T21:49:10+00:00,795381855,795381653,0,64.251.32.254,Neonatology,/* Spectrum of care */
+2012-11-05T16:22:56+00:00,521528112,515800780,0,Saltwolf,Neonatology,Adding/removing wikilink(s) to orphan stub
+2016-11-30T18:51:20+00:00,752340606,722389317,0,104.246.32.133,Neonatology,/* Spectrum of care */
+2011-03-27T18:17:41+00:00,421015073,421014914,0,24.218.246.89,Neonatology,/* History */
+2011-07-20T05:54:21+00:00,440434741,439256462,0,Guavagirl,Neonatology,/* History */ Changed link from broad article on surfactants to the specific article discussing pulmonary surfactants
+2018-03-31T04:24:36+00:00,833371637,833369809,0,Ceyockey,Neonatology,replaced one citation
+2018-07-27T08:04:26+00:00,852194793,851841006,0,Josvebot,Neonatology,"Fixing [[WP:CHECKWIKI]] #16: unicode contol character (and other minor general edits caused by AWB), replaced: →   (5)"
+2012-09-20T13:09:21+00:00,513705809,513271017,0,68.143.59.58,Northeastern United States,/* History */
+2014-04-01T20:51:30+00:00,602318762,602058732,0,192.12.88.11,Northeastern United States,/* Demography */
+2012-05-01T07:06:46+00:00,490083916,490083831,0,TylerDurden8823,Neonatology,Added comma.
+2011-03-21T23:26:53+00:00,420055380,418555648,0,24.210.111.7,Northeastern United States,/* The Northeast megalopolis */
+2010-02-23T07:39:40+00:00,345834485,345834293,0,IW.HG,Old age,Reverted edits by [[Special:Contributions/219.75.5.38|219.75.5.38]] to last revision by ClueBot ([[WP:HG|HG]])
+2010-01-29T12:00:00+00:00,340704071,340702971,0,PhilKnight,Old age,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/210.212.194.97|210.212.194.97]] ([[User talk:210.212.194.97|talk]]) to last version by The Thing That Should Not Be
+2009-08-18T05:47:05+00:00,308628048,308178352,0,96.241.65.107,Northeastern United States,"/* See also */ Solar energy and African Amercian culture have nothing to do with this subject, at least not to be listed in the ""see also"" section"
+2011-01-15T03:44:52+00:00,407961210,404506919,0,208.100.225.206,Old age,
+2012-10-27T23:47:49+00:00,520184597,520184484,0,Mtking,Old age,Reverted edits by [[Special:Contributions/71.155.146.102|71.155.146.102]] ([[User talk:71.155.146.102|talk]]) editing [[WP:Sandbox|tests]] or vandalism ([[WP:HG|HG]])
+2015-10-19T20:55:08+00:00,686553622,686551863,0,Vejlefjord,Old age,/* Sub-group definitions */  corrected intra-Wikipedia link
+2014-12-15T16:38:55+00:00,638230160,638230129,0,This lousy T-shirt,Old age,Reverted edits by [[Special:Contribs/66.222.23.98|66.222.23.98]] ([[User talk:66.222.23.98|talk]]) to last version by Fgnievinski
+2011-01-23T11:14:47+00:00,409537864,409074009,0,R'n'B,Old age,Fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Nirvana (disambiguation)]]
+2016-08-29T09:09:36+00:00,736706071,736706008,0,Jytdog,Opioid use disorder,/* Cause */ parapharasing
+2016-01-19T22:10:48+00:00,700667256,700667207,0,Lena Key,Opioid use disorder,/* See also */ put added link in alphabetical order
+2012-07-14T01:24:42+00:00,502162885,501274588,0,98.245.80.201,Opioid use disorder,/* Psychological symptoms */
+2017-09-08T04:12:41+00:00,799509989,799409850,0,DocWatson42,Orthopedic surgery,Cleaned up [[Wikipedia:Manual of Style/Layout|layout]] and other matters.
+2011-10-30T12:53:23+00:00,458118448,457828970,0,VP-bot,Orthopedic surgery,r2.6.2) (Robot: Adding [[tr:Ortopedi]]
+2012-08-13T07:53:35+00:00,507167781,507021516,0,194.218.167.2,Orthopedic surgery,
+2015-04-10T02:59:33+00:00,655775014,655240499,0,Kintetsubuffalo,Orthopedic surgery,/* Children's Orthopedics */
+2011-03-08T04:30:23+00:00,417730055,414809230,0,CharlieCLC,Percutaneous coronary intervention,
+2014-12-17T03:19:52+00:00,638445202,638444938,0,108.180.79.52,Orthopedic surgery,/* History */
+2013-03-14T06:12:13+00:00,544023594,543784383,0,108.76.79.116,Orthopedic surgery,
+2017-08-01T06:22:15+00:00,793350317,785273937,0,77.146.154.56,Percutaneous coronary intervention,/* Types of stents */
+2011-06-05T05:36:27+00:00,432632686,432632336,0,Littleelf,Percutaneous coronary intervention,
+2014-02-17T07:26:29+00:00,595841936,592764643,0,Spannell,Percutaneous coronary intervention,/* Controversy - dubious source*/
+2018-10-04T06:46:25+00:00,862414433,859045740,0,Mimarx,Percutaneous coronary intervention,/* top */ fix link
+2017-12-17T12:35:58+00:00,815828425,808745523,0,Rodw,Percutaneous coronary intervention,Disambiguated: [[cardiac vein]] → [[Great cardiac vein]]
+2011-02-06T01:42:36+00:00,412264063,406737833,0,96.52.139.118,Perineal tear,
+2015-11-26T03:12:35+00:00,692497629,685339205,0,69.123.88.56,Perineal tear,"Deleted controversial statements re vaginal/perineal laceration reduction with the use of epidural, episiotomy,induction,and instrumental delivery."
+2015-05-26T08:11:16+00:00,664086755,663641178,0,130.56.76.103,Perineal tear,
+2011-01-24T02:22:40+00:00,409679080,406655558,0,Ke4roh,Placenta praevia,restoring a couple of words lost to vandalism or accident somewhere in the last 8 months...
+2016-09-28T18:48:07+00:00,741631801,734584965,0,140.203.216.129,Placenta praevia,/* History */
+2012-12-07T10:32:15+00:00,526844447,526844425,0,Widr,Placenta praevia,"Reverted good faith edits by [[Special:Contributions/117.201.192.72|117.201.192.72]] [[User talk:117.201.192.72|talk]],  ([[WP:HG|HG]])"
+2016-03-09T05:45:07+00:00,709111999,709111727,0,2602:306:834E:5790:E93C:E45C:C447:F21B,Placenta praevia,
+2018-04-23T01:01:26+00:00,837783605,837783401,0,TylerDurden8823,Placenta praevia,/* Signs and symptoms */
+2010-11-04T08:30:57+00:00,394750200,393517944,0,Luckas-bot,Pneumonia,robot Adding: [[be-x-old:Пнэўманія]]
+2013-06-15T10:12:50+00:00,560000410,557103001,0,Hogyn Lleol,Placenta praevia,"clean up, [[WP:AWB/T|typos fixed]]: segement → segment using [[Project:AWB|AWB]]"
+2013-01-19T14:51:27+00:00,533852037,533851712,0,Randykitty,Pneumonia,/* History */ typo
+2017-04-02T06:44:27+00:00,773411275,768787061,0,82.21.90.114,Psychiatric hospital,So 50 years ago
+2016-01-04T10:13:08+00:00,698159252,695643943,0,Topbanana,Psychiatric hospital,Link repair:  Phillipe Pinel -> Philippe Pinel  - [[w:en:WP:RLR|You can help!]]
+2013-01-24T14:35:39+00:00,534658443,534657589,0,Jojalozzo,Psychiatric hospital,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/216.56.38.72|216.56.38.72]] ([[User talk:216.56.38.72|talk]]) to last version by ClueBot NG
+2018-04-23T02:46:51+00:00,837796690,837744415,0,Srich32977,Psychiatric hospital,[[WP:UCB|Assisted by Citation bot]] | Cleaned up using [[WP:AutoEd|AutoEd]] Adding/removing wikilink(s)
+2014-11-03T11:26:14+00:00,632266729,627061192,0,The Anome,Psychiatric hospital,[[evidence-based medicine|evidence-based]] treatments
+2011-07-05T17:45:12+00:00,437904411,435339473,0,71.137.241.33,Psychiatric hospital,/* Anti-psychiatry objections */
+2010-09-13T20:09:12+00:00,384645167,384419600,0,Mdwh,Psychiatric hospital,"/* Secure Units */ why is this a misconception? it doesn't matter who runs it, that doesn't affect whether we consider it a ""prison"" or not"
+2014-04-30T17:39:40+00:00,606505820,605281694,0,203.87.133.107,Psychiatric hospital,
+2018-06-12T23:20:43+00:00,845610818,845500142,0,67.193.214.95,Recreational drug use,"Changed mention of ""black tea"" and caffeine to just ""tea"" to avoid confusion concerning the caffeine content of other types of tea."
+2014-02-06T07:12:46+00:00,594166327,594049528,0,2601:9:1680:13E:223:32FF:FED2:1D24,Recreational drug use,/* Risks */
+2011-12-22T11:32:48+00:00,467173121,467172616,0,24.246.29.104,Recreational drug use,/* Hallucinogens */
+2015-12-07T12:25:21+00:00,694152544,693519822,0,197.179.13.138,Respiratory disease,/* Lower respiratory tract infection */
+2018-09-03T18:13:17+00:00,857890100,857890049,0,KNHaw,Recreational drug use,Reverted 1 edit by [[Special:Contributions/67.248.37.252|67.248.37.252]] ([[User talk:67.248.37.252|talk]]) to last revision by 80.246.136.254. ([[WP:TW|TW]])
+2013-09-19T14:15:36+00:00,573646753,573644920,0,Roberticus,Recreational drug use,Reverted 1 edit by [[Special:Contributions/194.81.239.91|194.81.239.91]] ([[User talk:194.81.239.91|talk]]) to last revision by 98.230.33.40. ([[WP:TW|TW]])
+2010-01-22T12:56:19+00:00,339337173,339273849,0,Laurel Bush,Recreational drug use,I believe ‘drug use’ does include use of more than one drug – and [[Recreational]] redirects to [[Recreation]]
+2012-03-28T22:41:51+00:00,484449848,483695810,0,75.92.22.115,Recreational drug use,"/* Psychoactive plants, mushrooms and animals */"
+2012-06-29T06:37:04+00:00,499868705,498275361,0,Qwekiop147,Recreational drug use,changed tobacco to nicotine for drugs. more consistent
+2010-03-27T19:23:51+00:00,352385462,352385453,0,ClueBot,Respiratory disease,"Reverting possible vandalism by [[Special:Contributions/96.50.196.59|96.50.196.59]] to version by Jovianeye. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (577134) (Bot)"
+2018-04-15T16:10:09+00:00,836571007,836570989,0,Ozzie10aaaa,Respiratory disease,Fixing references styling.
+2010-08-22T09:33:38+00:00,380295824,379899194,0,124.182.126.22,Respiratory disease,/* Symptoms */
+2013-02-15T11:21:28+00:00,538383851,538364253,0,Biologos,Respiratory disease,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/182.72.174.242|182.72.174.242]] ([[User talk:182.72.174.242|talk]]) to last version by ClueBot NG
+2016-07-09T12:54:50+00:00,729041363,728590805,0,Anypodetos,Respiratory disease,Fix section headers
+2018-04-21T02:35:51+00:00,837477622,836571007,0,103.8.132.94,Respiratory disease,lol
+2017-06-16T09:49:45+00:00,785942984,785942642,0,Mikael Häggström,Respiratory disease,just linked instead
+2018-02-24T15:38:58+00:00,827406533,827397006,0,KylieTastic,Rural area,Reverted 1 edit by [[Special:Contributions/2A00:23C4:AF08:D000:814A:9722:D608:D6CD|2A00:23C4:AF08:D000:814A:9722:D608:D6CD]] ([[User talk:2A00:23C4:AF08:D000:814A:9722:D608:D6CD|talk]]) to last revision by 86.98.106.221. ([[WP:TW|TW]])
+2011-03-01T16:58:00+00:00,416580122,415872625,0,72.14.169.150,Respiratory disease,/* References */
+2011-09-10T09:12:28+00:00,449506747,447765650,0,89.211.190.101,Rural area,
+2009-10-04T01:46:28+00:00,317756996,317329801,0,76.119.96.212,Rural area,[[WP:UNDO|Undid]] revision 317329801 by [[Special:Contributions/216.38.64.126|216.38.64.126]] ([[User talk:216.38.64.126|talk]])
+2015-01-07T02:49:04+00:00,641344122,640939456,0,Monterey Bay,Rural area,rv tag
+2013-08-15T02:19:47+00:00,568595486,568471880,0,CensoredScribe,Schizophrenia,/* Symptoms */
+2010-04-04T17:17:43+00:00,353936233,353489865,0,Roeschter,Schizophrenia,/* Causes */
+2012-02-23T18:27:33+00:00,478464283,478464021,0,Jim1138,Rural area,Reverted unexplained removal of content ([[WP:HG|HG]])
+2016-02-22T23:01:59+00:00,706368957,706296816,0,Keith D,Rural area,/* United States */ Fix cite date errors
+2016-03-03T17:54:04+00:00,708108619,708108178,0,Cynulliad,Schizophrenia,"The page for bipolar disorder links to the ""environment"" disambiguation page - therfore including both the biophysical and social environment, so I suggest this page does as well"
+2016-08-07T21:32:44+00:00,733446600,732838002,0,2601:541:4305:C70:C4D1:215F:39FA:C2EE,Rural area,remove link
+2015-04-13T23:32:25+00:00,656351150,656349346,0,Jytdog,Schizophrenia,Reverted edits by [[Special:Contribs/Thoughtprovoke|Thoughtprovoke]] ([[User talk:Thoughtprovoke|talk]]) to last version by Rjwilmsi
+2018-06-18T01:37:23+00:00,846330296,846330218,0,Petergstrom,Schizophrenia,
+2013-03-01T21:29:53+00:00,541592746,541072219,0,Michaelturken,Sepsis,/* Diagnosis */ Updated definition of severe sepsis with 2012 guidelines
+2009-09-23T07:01:01+00:00,315664471,315318119,0,WikHead,Schizophrenia,"Fixed typo, ""the the"""
+2013-07-25T03:31:07+00:00,565700291,565699956,0,RCraig09,Sepsis,/* Prognosis */ minor: correcting citation
+2010-12-04T11:32:52+00:00,400470909,400470811,0,188.116.237.240,Sepsis,/* Terminology */
+2015-01-21T14:28:36+00:00,643522266,642048331,0,Jigsaw~enwiki,Sepsis,"/* Intravenous fluids */ ""maybe"" corrected to ""may be"""
+2014-01-09T00:46:32+00:00,589853253,588328382,0,BattyBot,Sepsis,fixed [[:Category:CS1 errors: dates|CS1 errors: dates]] & [[WP:AWB/GF|General fixes]] using [[Project:AWB|AWB]] (9846)
+2012-10-01T14:56:00+00:00,515472545,515468654,0,Hulmem,Southern United States,Undid revision 515468654 by [[Special:Contributions/64.25.221.233|64.25.221.233]] ([[User talk:64.25.221.233|talk]]) No rationale for change differing from cited source
+2011-01-16T21:50:36+00:00,408276181,408273364,0,84.82.180.46,Southern United States,
+2015-05-29T21:13:38+00:00,664617056,664615255,0,Bkonrad,Southern United States,Reverted edits by [[Special:Contribs/98.144.71.22|98.144.71.22]] ([[User talk:98.144.71.22|talk]]) to last version by Ferret
+2014-07-09T20:23:18+00:00,616275785,615599909,0,63.241.40.124,Southern United States,"/* Culture */  I deleted the section on charitable giving, as it does not bear upon the ""culture"" of the American South. The website cited was not a peer reviewed article about charitable giving."
+2011-08-27T00:00:15+00:00,446900328,446899387,0,Hulmem,Southern United States,Undid revision 446899387 by [[Special:Contributions/184.65.39.81|184.65.39.81]] ([[User talk:184.65.39.81|talk]]) no rationale for removal of cited text
+2017-07-16T04:55:00+00:00,790801905,790649683,0,2601:CC:4:2860:9065:94F9:C58F:157C,Southern United States,/* Sports */
+2012-12-25T22:55:01+00:00,529762506,529628819,0,Dough4872,Southern United States,/* Politics */
+2013-10-10T17:03:28+00:00,576608874,575922862,0,Stevewonder2,Southern United States,"/* Health */ added southern health info from Do Mess With It, American State Litter Scorecard, Travel+Leisure's Americas Dirtiest Cities"
+2014-01-21T16:16:40+00:00,591731137,590880538,0,ComfyKem,Southern United States,/* Other politicians and political movements */
+2009-11-16T02:35:36+00:00,326092049,325338060,0,66.254.223.14,Southern United States,/* Antebellum years */
+2009-12-16T03:56:51+00:00,331950671,317700511,0,72.12.198.107,Spinal fusion,/* Reasons for spinal fusion */
+2012-03-21T04:07:01+00:00,483036183,483035799,0,RichardMills65,Spinal fusion,Reverted 1 edit by [[Special:Contributions/68.63.154.77|68.63.154.77]] ([[User talk:68.63.154.77|talk]]): Why mis spell on purpose ? ([[WP:TW|TW]])
+2013-06-02T22:25:06+00:00,558039798,557910223,0,Dthomsen8,Spinal fusion,"clean up, [[WP:AWB/T|typos fixed]]: et al → et al. using [[Project:AWB|AWB]]"
+2013-12-03T17:02:38+00:00,584388358,581590405,0,BruceBlaus,Spinal fusion,Added gallery image
+2016-10-02T13:21:13+00:00,742230931,738048959,0,184.18.203.88,Spinal fusion,/* Medical uses */
+2011-12-07T22:51:26+00:00,464655981,460506715,0,140.32.16.14,Spinal fusion,
+2017-03-25T19:34:07+00:00,772176726,771474696,0,Brainist,Spinal fusion,
+2016-11-20T17:19:44+00:00,750581027,750580181,0,Tentinator,Substance abuse,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/42.111.118.242|42.111.118.242]] ([[User talk:42.111.118.242|talk]]).
+2013-10-31T16:39:22+00:00,579630829,576964829,0,204.16.115.224,Substance abuse,"/* APA, AMA, and NCDA */"
+2016-09-06T16:52:51+00:00,738048959,728062197,0,Davykamanzi,Spinal fusion,/* Types of spinal fusion */
+2014-04-02T17:57:57+00:00,602449142,600164622,0,Dosenfant,Substance abuse,"/* top */ Changed file for diagram based on Lancet study, Mean Physical Harm in prior file-version contained undefined terms treated wrongly as 0."
+2017-05-12T03:39:01+00:00,779968318,779948243,0,Jytdog,Substance abuse,Undid revision 779948243 by [[Special:Contributions/AlexBayliss|AlexBayliss]] ([[User talk:AlexBayliss|talk]]) spam
+2016-10-19T15:28:22+00:00,745154112,744283853,0,JamesP,Spinal fusion,fixed typo
+2011-06-18T10:49:07+00:00,434913515,434451551,0,Thebugman18,Substance abuse,/* Signs and symptoms */
+2009-12-05T22:38:02+00:00,329948410,329947606,0,Literaturegeek,Substance abuse,Reverted 1 edit by [[Special:Contributions/130.13.81.152|130.13.81.152]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Literaturegeek|Literaturegeek]]. ([[WP:TW|TW]])
+2017-10-19T15:06:10+00:00,806078453,804957329,0,Christom,Substance abuse,"/* Medical definitions */ Removed ""ICRIS"" rubbish"
+2016-08-19T19:17:11+00:00,735289941,735289020,0,Edison,Surgery,"/* Surgery */ Rewrite the first section for clarity. Removed ""iodine"" since it is typically Betadine, but unsure it is always Betadine."
+2016-06-16T23:25:55+00:00,725641172,725640562,0,2601:445:4000:2A80:A910:2DC7:37F:211B,Surgery,punctuation corrections obviously required by [[WP:MOS]]
+2011-11-07T09:42:54+00:00,459432506,456744022,0,82.1.242.92,Surgery,/* Surgical specialties and sub-specialties */
+2012-02-15T11:33:48+00:00,476988956,476987827,0,Favonian,Surgery,Reverted 3 edits by [[Special:Contributions/193.108.213.144|193.108.213.144]] ([[User talk:193.108.213.144|talk]]): Link spam. ([[WP:TW|TW]])
+2010-02-25T21:42:03+00:00,346374369,346373779,0,67.173.106.214,Surgery,/* Surgical specialties and sub-specialties */
+2018-06-16T11:32:54+00:00,846111847,845928161,0,94.200.107.10,Surgery,
+2010-08-30T08:32:44+00:00,381843663,381174572,0,Varnav,Surgery,"/* Modern surgery */ Uh, why was it there?"
+2010-11-03T21:18:35+00:00,394661095,394660852,0,WhatamIdoing,Surgery,/* Types of surgery */ Semi-elective
+2017-11-05T09:43:25+00:00,808812188,808812129,0,Jack Frost,Surgery,Reverted edits by [[Special:Contributions/217.194.199.190|217.194.199.190]] ([[User talk:217.194.199.190|talk]]): addition of [[WP:CITE|unsourced content]] ([[WP:HG|HG]]) (3.3.0)
+2013-08-04T08:13:32+00:00,567086765,565541128,0,DocWatson42,Surgery,/* History */ Made three minor corrections.
+2010-06-04T16:34:29+00:00,366043423,365421608,0,98.109.201.34,Surgery,/* External links */
+2011-06-17T13:58:39+00:00,434764729,434401485,0,FoxBot,Surgery,robot Adding: [[kk:Хирургия]]
+2014-08-14T08:11:08+00:00,621179349,620827576,0,122.165.67.164,Surgery,/* See also */
+2011-07-09T17:43:03+00:00,438612385,438451086,0,Lamro,Surgery,link
+2011-09-13T13:17:22+00:00,450289617,449304054,0,Jauhienij,Surgery,/* External links */
+2017-09-05T12:08:17+00:00,799063680,798459567,0,85.255.233.79,Surgery,/* In low- and middle-income countries */
+2015-11-13T01:00:01+00:00,690384887,689716412,0,Wavelength,Teenage pregnancy in the United States,"[[WP:HYPHEN]], sub-subsection 3, points 3 and 7 and 8"
+2013-08-23T14:19:15+00:00,569867083,569867049,0,Illuminato,Teenage pregnancy in the United States,/* By race */
+2016-12-16T19:31:12+00:00,755191236,751951253,0,SuperHamster,Teenage pregnancy in the United States,"Reverted 1 edit by [[Special:Contributions/162.223.18.136|162.223.18.136]] ([[User talk:162.223.18.136|talk]]): A bit high, no? ([[WP:TW|TW]])"
+2011-10-27T15:18:24+00:00,457668181,457142434,0,198.209.201.11,Western United States,/* Climate and agriculture */
+2012-03-30T08:02:07+00:00,484664587,483756348,0,70.172.204.219,Western United States,"Fixed Major metropolitan areas, edited SF-Oakland MSA, added San Jose MSA~~~"
+2009-08-24T06:05:40+00:00,309733202,309283949,0,140.32.16.100,Western United States,/* Metropolitan Statistical Areas */
+2016-07-08T01:16:30+00:00,728843577,727472543,0,69.14.153.184,Western United States,
+2010-03-28T16:46:07+00:00,352559751,352541871,0,188.26.46.130,Western United States,/* Politics */ more specific
+2015-02-03T07:35:06+00:00,645422597,643678843,0,Ijon,Western United States,clean up using [[Project:AWB|AWB]]
+2009-09-24T14:47:22+00:00,315924485,315924395,0,Little Mountain 5,Western United States,Reverted edits by [[Special:Contributions/64.18.44.156|64.18.44.156]] to last revision by AdjustShift ([[WP:HG|HG]])
+2013-10-02T16:36:40+00:00,575458495,574671463,0,Rcsprinter123,Western United States,Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]] using [[Project:AWB|AWB]]
+2015-02-09T15:27:55+00:00,646356518,636293778,0,The Vintage Feminist,Women's health,/* See also */ Added ''[[Women's Health Issues (journal)|Women's Health Issues]]'' academic journal.
+2009-11-20T09:25:36+00:00,326899301,314710495,0,Mathiaseu,Women's health,
+2014-01-09T09:16:52+00:00,589898893,589898745,0,Materialscientist,Women's health,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/70.209.67.199|70.209.67.199]] using [[WP:STiki|STiki]]
+2013-04-22T09:43:38+00:00,551603937,550257843,0,Sfan00 IMG,Women's health,Filling in 1 references using [[WP:REFLINKS|Reflinks]]
+2012-02-11T22:06:26+00:00,476346643,464240659,0,Nikkimaria,Women's health,rm

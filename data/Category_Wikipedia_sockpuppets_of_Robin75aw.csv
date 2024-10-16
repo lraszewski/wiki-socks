@@ -1,0 +1,859 @@
+timestamp,revid,parentid,sock,user,page,message
+2022-05-30T19:37:05+00:00,1090676891,1090675767,1,Robin75aw,Warwick,/* Twin towns */ link
+2022-05-30T19:29:46+00:00,1090675767,1090674851,1,Robin75aw,Warwick,/* Waterways */
+2022-05-30T19:23:39+00:00,1090674851,1090673536,1,Robin75aw,Warwick,/* Transport */ link
+2022-05-30T19:14:58+00:00,1090673536,1090671474,1,Robin75aw,Warwick,/* Road */ links
+2022-05-30T19:10:23+00:00,1090672908,1083673361,1,Robin75aw,St Michael's Leper Hospital,spelling
+2022-05-30T18:59:28+00:00,1090671474,1090670854,1,Robin75aw,Warwick,/* Schools */ link
+2022-05-30T18:54:32+00:00,1090670854,1090670360,1,Robin75aw,Warwick,/* Hospitals */
+2022-05-30T18:51:03+00:00,1090670360,1090669219,1,Robin75aw,Warwick,/* Museums */ link
+2022-05-30T18:43:07+00:00,1090669219,1090661492,1,Robin75aw,Warwick,/* Culture */ links
+2022-05-30T17:54:45+00:00,1090661492,1090661266,1,Robin75aw,Warwick,/* Economy */ ditto
+2022-05-30T17:53:16+00:00,1090661266,1090661204,1,Robin75aw,Warwick,/* Economy */ ditot
+2022-05-30T17:52:59+00:00,1090661204,1090572316,1,Robin75aw,Warwick,/* Economy */ duplication
+2022-05-29T17:40:44+00:00,1090468366,1090467046,1,Robin75aw,Wikipedia:Administrator intervention against vandalism,/* Reports */
+2022-05-29T17:30:03+00:00,1090466868,1090388315,1,Robin75aw,User talk:Robin75aw,/* Notice of edit warring noticeboard discussion */
+2022-05-29T17:25:52+00:00,1090466228,1090466128,1,Robin75aw,Talk:Stratford-upon-Avon,/* Recent edits */ Reply
+2022-05-29T17:25:06+00:00,1090466128,1090466071,1,Robin75aw,Talk:Stratford-upon-Avon,/* Recent edits */
+2022-05-29T17:24:39+00:00,1090466071,1090466004,1,Robin75aw,Talk:Stratford-upon-Avon,/* Recent edits */ Reply
+2022-05-29T07:30:00+00:00,1090387118,1090385525,1,Robin75aw,Stratford-upon-Avon,/* See also */ link
+2022-05-29T07:16:04+00:00,1090385525,1090385190,1,Robin75aw,Stratford-upon-Avon,/* Twin towns */ link
+2022-05-29T07:13:15+00:00,1090385190,1090385036,1,Robin75aw,Stratford-upon-Avon,/* Twin towns */ link
+2022-05-29T07:12:13+00:00,1090385036,1090382685,1,Robin75aw,Stratford-upon-Avon,/* Twin towns */ links
+2022-05-29T06:41:01+00:00,1090380662,1090380311,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ link
+2022-05-29T06:36:36+00:00,1090380311,1090380103,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ links
+2022-05-29T06:34:18+00:00,1090380103,1090379882,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ no page
+2022-05-29T06:31:57+00:00,1090379882,1090379770,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ overlinkinig
+2022-05-29T06:30:48+00:00,1090379770,1090379694,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ ditto
+2022-05-29T06:30:00+00:00,1090379694,1090379554,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ irrelevant
+2022-05-29T06:28:26+00:00,1090379554,1090379170,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ links
+2022-05-29T06:24:03+00:00,1090379170,1090377408,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ poor english
+2022-05-29T06:05:21+00:00,1090377408,1090377227,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ poor english
+2022-05-29T06:03:01+00:00,1090377227,1090375034,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ links
+2022-05-29T05:36:39+00:00,1090375034,1090374986,1,Robin75aw,Stratford-upon-Avon,/* Freedom of the Town */ layout
+2022-05-29T05:36:03+00:00,1090374986,1090374664,1,Robin75aw,Stratford-upon-Avon,/* Twin towns */ links
+2022-05-29T05:31:25+00:00,1090374664,1090374326,1,Robin75aw,Stratford-upon-Avon,/* Churches */ links
+2022-05-29T05:27:46+00:00,1090374326,1090374236,1,Robin75aw,Stratford-upon-Avon,/* Sport */ no page
+2022-05-29T05:27:01+00:00,1090374236,1090373824,1,Robin75aw,Stratford-upon-Avon,/* Sport */ link
+2022-05-29T05:22:13+00:00,1090373824,1090373793,1,Robin75aw,Stratford-upon-Avon,/* Sport */ link
+2022-05-29T05:21:49+00:00,1090373793,1090373627,1,Robin75aw,Stratford-upon-Avon,/* Sport */ links
+2022-05-29T05:19:46+00:00,1090373627,1090373490,1,Robin75aw,Stratford-upon-Avon,/* Sport */ poor english
+2022-05-29T05:18:10+00:00,1090373490,1090373367,1,Robin75aw,Stratford-upon-Avon,/* Education */
+2022-05-29T05:17:05+00:00,1090373367,1090373338,1,Robin75aw,Stratford-upon-Avon,/* Education */ no page
+2022-05-29T05:16:47+00:00,1090373338,1090373242,1,Robin75aw,Stratford-upon-Avon,/* Education */ links
+2022-05-29T05:15:44+00:00,1090373242,1090372236,1,Robin75aw,Stratford-upon-Avon,/* Education */ links
+2022-05-29T05:04:36+00:00,1090372236,1090372193,1,Robin75aw,Stratford-upon-Avon,/* Education */
+2022-05-29T05:04:04+00:00,1090372193,1090371335,1,Robin75aw,Stratford-upon-Avon,/* Education */ links
+2022-05-29T04:53:14+00:00,1090371335,1090371270,1,Robin75aw,Stratford-upon-Avon,/* Cycling */
+2022-05-29T04:52:33+00:00,1090371270,1090370827,1,Robin75aw,Stratford-upon-Avon,/* Cycling */ link
+2022-05-29T04:47:53+00:00,1090370827,1090370784,1,Robin75aw,Stratford-upon-Avon,/* Water */ link
+2022-05-29T04:47:15+00:00,1090370784,1090370379,1,Robin75aw,Stratford-upon-Avon,/* Water */ links
+2022-05-29T04:43:04+00:00,1090370379,1090370333,1,Robin75aw,Stratford-upon-Avon,/* Railway */
+2022-05-29T04:42:39+00:00,1090370333,1090370139,1,Robin75aw,Stratford-upon-Avon,/* Railway */ links
+2022-05-29T04:40:43+00:00,1090370139,1090369585,1,Robin75aw,Stratford-upon-Avon,/* Railway */ link
+2022-05-29T04:33:19+00:00,1090369585,1090369219,1,Robin75aw,Stratford-upon-Avon,/* Railway */ links
+2022-05-29T04:28:26+00:00,1090369219,1090364870,1,Robin75aw,Stratford-upon-Avon,/* Road */ links
+2022-05-29T03:32:12+00:00,1090364870,1090361685,1,Robin75aw,Stratford-upon-Avon,/* Other attractions */ links
+2022-05-29T03:27:44+00:00,1090364499,1090359745,1,Robin75aw,Talk:Stratford-upon-Avon,/* Recent edits */ Reply
+2022-05-29T03:06:13+00:00,1090362724,1090362282,1,Robin75aw,User talk:Robin75aw,/* May 2022 */
+2022-05-29T02:55:18+00:00,1090361685,1090361642,1,Robin75aw,Stratford-upon-Avon,/* Waterside and Southern Lane */ no page
+2022-05-29T02:54:51+00:00,1090361642,1090361281,1,Robin75aw,Stratford-upon-Avon,/* Waterside and Southern Lane */ links
+2022-05-29T02:50:53+00:00,1090361281,1090361011,1,Robin75aw,Stratford-upon-Avon,/* Waterside and Southern Lane */
+2022-05-29T02:48:06+00:00,1090361011,1090360980,1,Robin75aw,Stratford-upon-Avon,/* Waterside and Southern Lane */ no page
+2022-05-29T02:47:48+00:00,1090360980,1090359277,1,Robin75aw,Stratford-upon-Avon,/* Waterside and Southern Lane */ links
+2022-05-29T02:35:01+00:00,1090359277,1090359235,1,Robin75aw,Stratford-upon-Avon,/* Sheep Street */ no page
+2022-05-29T02:34:45+00:00,1090359235,1090358788,1,Robin75aw,Stratford-upon-Avon,/* Sheep Street */ links
+2022-05-29T02:31:30+00:00,1090358788,1090358062,1,Robin75aw,Stratford-upon-Avon,/* Sheep Street */ links
+2022-05-29T02:26:06+00:00,1090358062,1090357972,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */
+2022-05-29T02:25:21+00:00,1090357972,1090357758,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */
+2022-05-29T02:23:34+00:00,1090357758,1090357201,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */ no page
+2022-05-29T02:19:13+00:00,1090357201,1090356501,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */links
+2022-05-29T02:13:27+00:00,1090356501,1090356254,1,Robin75aw,Stratford-upon-Avon,Undid revision 1090355907 by [[Special:Contributions/G-13114|G-13114]] ([[User talk:G-13114|talk]]) if you do not adhere to the required standards then you should be barred for using this website!!
+2022-05-29T02:11:27+00:00,1090356254,1090355907,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */ links
+2022-05-29T02:08:13+00:00,1090355832,1090355195,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */ poor English
+2022-05-29T02:03:25+00:00,1090355195,1090355061,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */ no pgs
+2022-05-29T02:02:23+00:00,1090355061,1090354377,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */ links
+2022-05-29T01:58:11+00:00,1090354377,1090354091,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */
+2022-05-29T01:55:55+00:00,1090354091,1090353184,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */ links
+2022-05-29T00:40:28+00:00,1090342919,1090342423,1,Robin75aw,Stratford-upon-Avon,/* Pubs */ links
+2022-05-29T00:36:50+00:00,1090342423,1090340966,1,Robin75aw,Stratford-upon-Avon,/* Shakespeare's celebrations */ link
+2022-05-29T00:21:55+00:00,1090340645,1090340605,1,Robin75aw,Stratford-upon-Avon,/* Literature */ ditto
+2022-05-29T00:21:38+00:00,1090340605,1090340567,1,Robin75aw,Stratford-upon-Avon,/* Literature */ link
+2022-05-29T00:21:18+00:00,1090340567,1090339676,1,Robin75aw,Stratford-upon-Avon,/* Literature */ links
+2022-05-29T00:13:55+00:00,1090339676,1090339140,1,Robin75aw,Stratford-upon-Avon,/* Museums and Shakespeare's houses */ links
+2022-05-29T00:09:42+00:00,1090339140,1090339018,1,Robin75aw,Stratford-upon-Avon,/* Museums and Shakespeare's houses */ no pgs
+2022-05-29T00:08:52+00:00,1090339018,1090336775,1,Robin75aw,Stratford-upon-Avon,/* Museums and Shakespeare's houses */ links
+2022-05-28T23:55:29+00:00,1090336775,1090336506,1,Robin75aw,Stratford-upon-Avon,/* Music */ link
+2022-05-28T23:53:48+00:00,1090336506,1090336444,1,Robin75aw,Stratford-upon-Avon,/* Music */ no page
+2022-05-28T23:53:28+00:00,1090336444,1090336369,1,Robin75aw,Stratford-upon-Avon,/* Music */ no pgs
+2022-05-28T23:52:56+00:00,1090336369,1090335778,1,Robin75aw,Stratford-upon-Avon,/* Music */ links
+2022-05-28T18:08:20+00:00,1090298526,1090298019,1,Robin75aw,Stratford-upon-Avon,/* Filming and television */ link
+2022-05-28T18:03:55+00:00,1090298019,1090297981,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ nop age
+2022-05-28T18:03:33+00:00,1090297981,1090297941,1,Robin75aw,Stratford-upon-Avon,/* Theatre */
+2022-05-28T18:03:11+00:00,1090297941,1090297861,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ no pgs
+2022-05-28T18:02:28+00:00,1090297861,1090297522,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ no pgs
+2022-05-28T18:00:09+00:00,1090297522,1090296526,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ links
+2022-05-28T17:51:41+00:00,1090296526,1090296480,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ links
+2022-05-28T17:51:15+00:00,1090296480,1090295217,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ links
+2022-05-28T17:40:53+00:00,1090295217,1090294785,1,Robin75aw,Stratford-upon-Avon,/* Theatre */
+2022-05-28T17:37:11+00:00,1090294785,1090292822,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ links
+2022-05-28T17:22:53+00:00,1090292822,1090292769,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ no page
+2022-05-28T17:22:31+00:00,1090292769,1090291999,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ links
+2022-05-28T17:17:24+00:00,1090291999,1090291933,1,Robin75aw,Stratford-upon-Avon,/* Shopping centres */ no pgs
+2022-05-28T17:16:58+00:00,1090291933,1090291302,1,Robin75aw,Stratford-upon-Avon,/* Shopping centres */ links
+2022-05-28T17:12:47+00:00,1090291302,1090291264,1,Robin75aw,Stratford-upon-Avon,/* Tourism */ no page
+2022-05-28T17:12:28+00:00,1090291264,1090289617,1,Robin75aw,Stratford-upon-Avon,/* Tourism */ links
+2022-05-28T16:59:36+00:00,1090289617,1090289571,1,Robin75aw,Stratford-upon-Avon,/* Economy */ link
+2022-05-28T16:59:13+00:00,1090289571,1090287878,1,Robin75aw,Stratford-upon-Avon,/* Economy */ links
+2022-05-28T16:45:07+00:00,1090287878,1090287682,1,Robin75aw,Stratford-upon-Avon,/* Climate */ link
+2022-05-28T16:43:30+00:00,1090287682,1090286249,1,Robin75aw,Stratford-upon-Avon,/* Demography */ link
+2022-05-28T16:32:06+00:00,1090286249,1090283864,1,Robin75aw,Stratford-upon-Avon,/* Geography */ links
+2022-05-28T16:13:45+00:00,1090283864,1090283705,1,Robin75aw,Stratford-upon-Avon,/* Governance */ link
+2022-05-28T16:12:31+00:00,1090283705,1090282630,1,Robin75aw,Stratford-upon-Avon,/* Governance */ links
+2022-05-28T16:03:47+00:00,1090282630,1090217311,1,Robin75aw,Stratford-upon-Avon,/* Governance */ links
+2022-05-28T04:48:50+00:00,1090217311,1090216848,1,Robin75aw,Stratford-upon-Avon,/* Industrial revolution and Victorian era */ links
+2022-05-28T04:42:12+00:00,1090216848,1090216825,1,Robin75aw,Stratford-upon-Avon,/* Industrial revolution and Victorian era */ no page
+2022-05-28T04:41:54+00:00,1090216825,1090216194,1,Robin75aw,Stratford-upon-Avon,/* Industrial revolution and Victorian era */ links
+2022-05-28T04:34:48+00:00,1090216194,1090215920,1,Robin75aw,Stratford-upon-Avon,/* Industrial revolution and Victorian era */ link
+2022-05-28T04:31:24+00:00,1090215920,1090213897,1,Robin75aw,Stratford-upon-Avon,/* Industrial revolution and Victorian era */ links
+2022-05-28T04:17:48+00:00,1090213897,1090213860,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ no page
+2022-05-28T04:17:21+00:00,1090213860,1090213817,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ link
+2022-05-28T04:16:54+00:00,1090213817,1090213335,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ links
+2022-05-28T04:10:26+00:00,1090213335,1090213296,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ no page
+2022-05-28T04:09:57+00:00,1090213296,1090213112,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ link
+2022-05-28T04:07:33+00:00,1090213112,1090212789,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ links
+2022-05-28T04:03:57+00:00,1090212789,1090212363,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ inaccurate info
+2022-05-28T03:59:12+00:00,1090212363,1090204763,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ links
+2022-05-28T02:40:28+00:00,1090204763,1090204131,1,Robin75aw,Stratford-upon-Avon,/* Tudor period */ poor english
+2022-05-28T02:33:53+00:00,1090204131,1090204021,1,Robin75aw,Stratford-upon-Avon,/* Tudor period */ link
+2022-05-28T02:32:54+00:00,1090204021,1090203319,1,Robin75aw,Stratford-upon-Avon,/* Tudor period */ links
+2022-05-28T02:27:39+00:00,1090203319,1090202211,1,Robin75aw,Stratford-upon-Avon,/* Medieval */ link
+2022-05-28T02:17:50+00:00,1090202211,1090201127,1,Robin75aw,Stratford-upon-Avon,/* Medieval */ poor english
+2022-05-28T02:07:41+00:00,1090201127,1090200425,1,Robin75aw,Stratford-upon-Avon,/* Medieval */ poor english
+2022-05-28T02:01:38+00:00,1090200425,1090198139,1,Robin75aw,Stratford-upon-Avon,/* Medieval */ links
+2022-05-28T01:45:31+00:00,1090198139,1090196974,1,Robin75aw,Stratford-upon-Avon,/* Medieval */ links
+2022-05-28T01:37:20+00:00,1090196974,1090186838,1,Robin75aw,Stratford-upon-Avon,/* Etymology */ links
+2022-05-28T00:20:29+00:00,1090186838,1090186798,1,Robin75aw,Stratford-upon-Avon,
+2022-05-28T00:20:05+00:00,1090186798,1090186748,1,Robin75aw,Stratford-upon-Avon,
+2022-05-28T00:19:34+00:00,1090186748,1090186237,1,Robin75aw,Stratford-upon-Avon,links
+2022-05-28T00:14:20+00:00,1090186237,1090186005,1,Robin75aw,Stratford-upon-Avon,link
+2022-05-28T00:12:19+00:00,1090186005,1090065586,1,Robin75aw,Stratford-upon-Avon,links
+2022-05-27T04:50:09+00:00,1090065586,1090065501,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ ditto
+2022-05-27T04:49:24+00:00,1090065501,1090065061,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ not in order
+2022-05-27T04:44:25+00:00,1090065061,1090064897,1,Robin75aw,Stratford-upon-Avon,/* Notable people */ not in order
+2022-05-27T04:42:38+00:00,1090064897,1090064874,1,Robin75aw,Stratford-upon-Avon,/* Tudor period */ new para
+2022-05-27T04:42:19+00:00,1090064874,1090064840,1,Robin75aw,Stratford-upon-Avon,/* Tudor period */
+2022-05-27T04:41:53+00:00,1090064840,1090064755,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ new para
+2022-05-27T04:40:44+00:00,1090064755,1090064695,1,Robin75aw,Stratford-upon-Avon,/* 17th century */ layout
+2022-05-27T04:40:05+00:00,1090064695,1090064463,1,Robin75aw,Stratford-upon-Avon,/* Industrial revolution and Victorian era */
+2022-05-27T04:37:31+00:00,1090064463,1090064374,1,Robin75aw,Stratford-upon-Avon,/* Theatre */ new para
+2022-05-27T04:36:42+00:00,1090064374,1090064318,1,Robin75aw,Stratford-upon-Avon,/* Museums and Shakespeare's houses */ layout
+2022-05-27T04:35:58+00:00,1090064318,1090064281,1,Robin75aw,Stratford-upon-Avon,/* Waterside and Southern Lane */ new para
+2022-05-27T04:35:28+00:00,1090064281,1090064228,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */ new para
+2022-05-27T04:34:50+00:00,1090064228,1090064170,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */ irrelevant
+2022-05-27T04:34:04+00:00,1090064170,1090064087,1,Robin75aw,Stratford-upon-Avon,/* Henley Street */
+2022-05-27T04:33:08+00:00,1090064087,1090064039,1,Robin75aw,Stratford-upon-Avon,new para
+2022-05-27T04:32:36+00:00,1090064039,1090063971,1,Robin75aw,Stratford-upon-Avon,layout
+2022-05-27T04:31:33+00:00,1090063971,1090063944,1,Robin75aw,Stratford-upon-Avon,/* Sport */ new para
+2022-05-27T04:31:13+00:00,1090063944,1090063877,1,Robin75aw,Stratford-upon-Avon,/* Education */ new para
+2022-05-27T04:30:20+00:00,1090063877,1090063846,1,Robin75aw,Stratford-upon-Avon,/* Railway */ new para
+2022-05-27T04:30:00+00:00,1090063846,1090063804,1,Robin75aw,Stratford-upon-Avon,/* Railway */ layout
+2022-05-27T04:29:35+00:00,1090063804,1090063725,1,Robin75aw,Stratford-upon-Avon,/* Sport */ layout
+2022-05-27T04:28:41+00:00,1090063725,1090063547,1,Robin75aw,Stratford-upon-Avon,/* 17th century to present */ new section
+2022-05-27T04:26:24+00:00,1090063547,1090063481,1,Robin75aw,Stratford-upon-Avon,/* Economy */ layout
+2022-05-27T04:25:49+00:00,1090063481,1090063390,1,Robin75aw,Stratford-upon-Avon,/* Geography */ layout
+2022-05-27T04:24:45+00:00,1090063390,1090063352,1,Robin75aw,Stratford-upon-Avon,/* History */
+2022-05-27T04:24:16+00:00,1090063352,1090063154,1,Robin75aw,Stratford-upon-Avon,/* History */ photos
+2022-05-27T04:22:10+00:00,1090063154,1090063047,1,Robin75aw,Stratford-upon-Avon,/* History */ apt heading
+2022-05-27T04:20:47+00:00,1090063047,1090062991,1,Robin75aw,Stratford-upon-Avon,/* Governance */ no page
+2022-05-27T04:20:04+00:00,1090062991,1090062928,1,Robin75aw,Stratford-upon-Avon,/* Governance */ layout
+2022-05-27T04:19:21+00:00,1090062928,1090062890,1,Robin75aw,Stratford-upon-Avon,/* Streets */ photo
+2022-05-27T04:18:56+00:00,1090062890,1090062843,1,Robin75aw,Stratford-upon-Avon,/* Geography */
+2022-05-27T04:18:28+00:00,1090062843,1090062792,1,Robin75aw,Stratford-upon-Avon,/* Geography */ layout
+2022-05-27T04:17:49+00:00,1090062792,1090062756,1,Robin75aw,Stratford-upon-Avon,/* Demography */
+2022-05-27T04:17:24+00:00,1090062756,1090062721,1,Robin75aw,Stratford-upon-Avon,/* See also */ new section
+2022-05-27T04:16:43+00:00,1090062721,1090062562,1,Robin75aw,Stratford-upon-Avon,/* Geography */ photos
+2022-05-27T04:14:58+00:00,1090062562,1090062406,1,Robin75aw,Stratford-upon-Avon,/* Culture */ photos
+2022-05-27T04:13:08+00:00,1090062406,1090062291,1,Robin75aw,Stratford-upon-Avon,/* Streets */ photos
+2022-05-27T04:11:34+00:00,1090062291,1090062219,1,Robin75aw,Stratford-upon-Avon,/* Cycling */
+2022-05-27T04:10:46+00:00,1090062219,1090062201,1,Robin75aw,Stratford-upon-Avon,/* Transport */
+2022-05-27T04:10:30+00:00,1090062201,1090061984,1,Robin75aw,Stratford-upon-Avon,/* Transport */ photos
+2022-05-27T04:08:06+00:00,1090061984,1090061917,1,Robin75aw,Stratford-upon-Avon,/* Other attractions */ layout
+2022-05-27T04:07:24+00:00,1090061917,1090061822,1,Robin75aw,Stratford-upon-Avon,/* Churches */ add columns
+2022-05-27T04:06:18+00:00,1090061822,1090061782,1,Robin75aw,Stratford-upon-Avon,/* Education */ layout
+2022-05-27T04:05:51+00:00,1090061782,1090032640,1,Robin75aw,Stratford-upon-Avon,/* Notable people */
+2022-05-27T01:27:38+00:00,1090043362,1090043268,1,Robin75aw,"Tiddington, Warwickshire",/* Amenities */
+2022-05-27T01:26:56+00:00,1090043268,1090042931,1,Robin75aw,"Tiddington, Warwickshire",/* Amenities */ link
+2022-05-27T01:23:51+00:00,1090042931,1090042863,1,Robin75aw,"Tiddington, Warwickshire",/* Amenities */ link
+2022-05-27T01:23:12+00:00,1090042863,1090042382,1,Robin75aw,"Tiddington, Warwickshire",/* Amenities */ links
+2022-05-27T01:18:49+00:00,1090042382,1090042302,1,Robin75aw,"Tiddington, Warwickshire",/* History */ poor english
+2022-05-27T01:18:10+00:00,1090042302,1090042277,1,Robin75aw,"Tiddington, Warwickshire",/* Amenities */
+2022-05-27T01:17:59+00:00,1090042277,1090042251,1,Robin75aw,"Tiddington, Warwickshire",/* Amenities */
+2022-05-27T01:17:50+00:00,1090042251,1090042187,1,Robin75aw,"Tiddington, Warwickshire",/* Health */
+2022-05-27T01:17:20+00:00,1090042187,1090042146,1,Robin75aw,"Tiddington, Warwickshire",/* Health */ no psg
+2022-05-27T01:17:03+00:00,1090042146,1090042057,1,Robin75aw,"Tiddington, Warwickshire",/* Archaeology and history */ new section
+2022-05-27T01:16:27+00:00,1090042057,1090030580,1,Robin75aw,"Tiddington, Warwickshire",/* Archaeology and history */ links
+2022-05-27T00:58:02+00:00,1090039518,1090039491,1,Robin75aw,Shottery,/* Governance */
+2022-05-27T00:57:50+00:00,1090039491,1090039447,1,Robin75aw,Shottery,/* Governance */
+2022-05-27T00:57:32+00:00,1090039447,1090039368,1,Robin75aw,Shottery,/* Governance */
+2022-05-27T00:56:54+00:00,1090039368,1090038692,1,Robin75aw,Shottery,/* Governance */ links
+2022-05-27T00:51:38+00:00,1090038692,1090038618,1,Robin75aw,Shottery,/* History and amenities */ no page
+2022-05-27T00:51:08+00:00,1090038618,1090038482,1,Robin75aw,Shottery,/* History and amenities */ linksno pgs
+2022-05-27T00:50:18+00:00,1090038482,1090037375,1,Robin75aw,Shottery,/* History and amenities */ links
+2022-05-27T00:42:43+00:00,1090037375,1090030849,1,Robin75aw,Shottery,/* History and amenities */ links
+2022-05-27T00:28:20+00:00,1090035381,1090035338,1,Robin75aw,"Alveston, Warwickshire",no page
+2022-05-27T00:28:05+00:00,1090035338,1090030321,1,Robin75aw,"Alveston, Warwickshire",link
+2022-05-26T23:58:36+00:00,1090030849,1083675692,1,Robin75aw,Shottery,/* History and amenities */ tidied layout
+2022-05-26T23:56:30+00:00,1090030580,1078222505,1,Robin75aw,"Tiddington, Warwickshire",tidied layout
+2022-05-26T23:54:28+00:00,1090030321,1081176562,1,Robin75aw,"Alveston, Warwickshire",tidied layout
+2022-05-26T17:41:44+00:00,1089980111,1089980044,1,Robin75aw,Atherstone,/* External links */
+2022-05-26T17:41:18+00:00,1089980044,1089979826,1,Robin75aw,Atherstone,/* External links */ links
+2022-05-26T17:39:47+00:00,1089979826,1089979391,1,Robin75aw,Atherstone,/* See also */ already mentioned
+2022-05-26T17:36:55+00:00,1089979391,1089979353,1,Robin75aw,Atherstone,/* Notable people */ no page
+2022-05-26T17:36:39+00:00,1089979353,1089979302,1,Robin75aw,Atherstone,/* Notable people */
+2022-05-26T17:36:19+00:00,1089979302,1089976968,1,Robin75aw,Atherstone,/* Notable people */ links
+2022-05-26T17:19:36+00:00,1089976968,1089976915,1,Robin75aw,Atherstone,/* Education */ link
+2022-05-26T17:19:13+00:00,1089976915,1089976679,1,Robin75aw,Atherstone,/* Education */ link
+2022-05-26T17:17:40+00:00,1089976679,1089976235,1,Robin75aw,Atherstone,/* Naval connections */ link
+2022-05-26T17:14:51+00:00,1089976235,1089975814,1,Robin75aw,Atherstone,/* Naval connections */ duplication
+2022-05-26T17:11:56+00:00,1089975814,1089975525,1,Robin75aw,Atherstone,/* Shrovetide Ball Game */ links
+2022-05-26T17:10:01+00:00,1089975525,1089973636,1,Robin75aw,Atherstone,/* Shrovetide Ball Game */ links
+2022-05-26T16:58:20+00:00,1089973636,1089973354,1,Robin75aw,Atherstone,/* Shrovetide Ball Game */ link
+2022-05-26T16:56:25+00:00,1089973354,1089973296,1,Robin75aw,Atherstone,/* Shrovetide Ball Game */ new para
+2022-05-26T16:56:02+00:00,1089973296,1089972527,1,Robin75aw,Atherstone,/* Shrovetide Ball Game */ new para
+2022-05-26T16:51:00+00:00,1089972527,1089971764,1,Robin75aw,Atherstone,/* Recreation */ links
+2022-05-26T16:46:08+00:00,1089971764,1089971675,1,Robin75aw,Atherstone,/* Recreation */ no pgs
+2022-05-26T16:45:34+00:00,1089971675,1089969563,1,Robin75aw,Atherstone,/* Recreation */ links
+2022-05-26T16:31:38+00:00,1089969563,1089968694,1,Robin75aw,Atherstone,/* Transport */ link
+2022-05-26T16:25:41+00:00,1089968694,1089968473,1,Robin75aw,Atherstone,/* Transport */ duplication
+2022-05-26T16:23:57+00:00,1089968473,1089965074,1,Robin75aw,Atherstone,"/* Transport */ removed section re links to Coventry and Stanstead as this relates to Nuneaton and not Atherstone, sorry"
+2022-05-26T15:59:41+00:00,1089965074,1089964920,1,Robin75aw,Atherstone,/* Transport */ link
+2022-05-26T15:58:32+00:00,1089964920,1089958776,1,Robin75aw,Atherstone,/* Transport */
+2022-05-26T15:18:40+00:00,1089958776,1089958608,1,Robin75aw,Atherstone,/* Transport */ links
+2022-05-26T15:17:23+00:00,1089958608,1089958465,1,Robin75aw,Atherstone,/* Transport */ new para
+2022-05-26T15:16:30+00:00,1089958465,1089956511,1,Robin75aw,Atherstone,/* Transport */ links
+2022-05-26T15:03:09+00:00,1089956511,1089952058,1,Robin75aw,Atherstone,/* Economy */ links
+2022-05-26T14:33:42+00:00,1089952058,1089951426,1,Robin75aw,Atherstone,/* Governance */ links
+2022-05-26T14:29:07+00:00,1089951426,1089951387,1,Robin75aw,Atherstone,Undid revision 1089951387 by [[Special:Contributions/Robin75aw|Robin75aw]] ([[User talk:Robin75aw|talk]])
+2022-05-26T14:28:45+00:00,1089951387,1089950646,1,Robin75aw,Atherstone,/* History */ links
+2022-05-26T14:23:18+00:00,1089950646,1089950591,1,Robin75aw,Atherstone,/* History */ link
+2022-05-26T14:22:52+00:00,1089950591,1089950533,1,Robin75aw,Atherstone,/* History */
+2022-05-26T14:22:26+00:00,1089950533,1089948690,1,Robin75aw,Atherstone,/* History */ links
+2022-05-26T14:08:45+00:00,1089948690,1089856354,1,Robin75aw,Atherstone,/* History */ links
+2022-05-26T01:09:17+00:00,1089856354,1089854710,1,Robin75aw,Atherstone,/* History */ links
+2022-05-26T00:57:57+00:00,1089854710,1089854598,1,Robin75aw,Atherstone,/* History */ no page
+2022-05-26T00:57:17+00:00,1089854598,1089852990,1,Robin75aw,Atherstone,/* History */ links
+2022-05-26T00:45:53+00:00,1089852990,1089821906,1,Robin75aw,Atherstone,/* History */ link
+2022-05-25T20:50:50+00:00,1089821906,1089821734,1,Robin75aw,Atherstone,/* Governance */ add photo
+2022-05-25T20:49:36+00:00,1089821734,1089821689,1,Robin75aw,Atherstone,/* Governance */
+2022-05-25T20:49:19+00:00,1089821689,1089821603,1,Robin75aw,Atherstone,/* Governance */ ditto
+2022-05-25T20:48:40+00:00,1089821603,1089821242,1,Robin75aw,Atherstone,/* Governance */ add photo
+2022-05-25T20:46:14+00:00,1089821242,1089821158,1,Robin75aw,Atherstone,
+2022-05-25T20:45:38+00:00,1089821158,1089820869,1,Robin75aw,Atherstone,
+2022-05-25T20:43:47+00:00,1089820869,1089778721,1,Robin75aw,Atherstone,links
+2022-05-25T15:52:36+00:00,1089778721,1089778669,1,Robin75aw,Atherstone,/* Shrovetide Ball Game */ new para
+2022-05-25T15:52:15+00:00,1089778669,1089778585,1,Robin75aw,Atherstone,/* Recreation */ new para
+2022-05-25T15:51:36+00:00,1089778585,1089778412,1,Robin75aw,Atherstone,/* Recreation */ layout
+2022-05-25T15:50:12+00:00,1089778412,1089778258,1,Robin75aw,Atherstone,/* History */ new para
+2022-05-25T15:49:07+00:00,1089778258,1089778164,1,Robin75aw,Atherstone,/* History */
+2022-05-25T15:48:23+00:00,1089778164,1089777956,1,Robin75aw,Atherstone,/* History */ new para
+2022-05-25T15:46:45+00:00,1089777956,1089777818,1,Robin75aw,Atherstone,/* History */ new para
+2022-05-25T15:45:48+00:00,1089777818,1089777619,1,Robin75aw,Atherstone,/* History */ new para
+2022-05-25T15:44:36+00:00,1089777619,1089777441,1,Robin75aw,Atherstone,/* History */ new para
+2022-05-25T15:43:21+00:00,1089777441,1089777381,1,Robin75aw,Atherstone,/* Governance */ photo location
+2022-05-25T15:43:00+00:00,1089777381,1089777332,1,Robin75aw,Atherstone,/* Notable people */
+2022-05-25T15:42:42+00:00,1089777332,1089777213,1,Robin75aw,Atherstone,/* Recreation */ layout
+2022-05-25T15:41:56+00:00,1089777213,1089777142,1,Robin75aw,Atherstone,/* Transport */ layout
+2022-05-25T15:41:25+00:00,1089777142,1089777087,1,Robin75aw,Atherstone,/* History */ photo location
+2022-05-25T15:41:06+00:00,1089777087,1089777007,1,Robin75aw,Atherstone,/* Geography */ layout
+2022-05-25T15:40:35+00:00,1089777007,1089776817,1,Robin75aw,Atherstone,tidied layout
+2022-05-25T15:39:05+00:00,1089776817,1089776742,1,Robin75aw,Atherstone,layout
+2022-05-25T15:38:32+00:00,1089776742,1089776660,1,Robin75aw,Atherstone,/* Education */ layout
+2022-05-25T15:38:02+00:00,1089776660,1089443203,1,Robin75aw,Atherstone,/* External links */ irrelevant
+2022-05-25T15:36:17+00:00,1089776428,1089776353,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Location */
+2022-05-25T15:35:42+00:00,1089776353,1089775499,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Location */ links
+2022-05-25T15:30:12+00:00,1089775499,1089775464,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Media */ no page
+2022-05-25T15:29:58+00:00,1089775464,1089774478,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Media */ links
+2022-05-25T15:24:24+00:00,1089774478,1089773422,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Transport */ links
+2022-05-25T15:18:02+00:00,1089773422,1089769213,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Culture and recreation */ lin
+2022-05-25T15:06:46+00:00,1089769213,1089769175,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Culture and recreation */ no page
+2022-05-25T15:06:32+00:00,1089769175,1089769073,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Culture and recreation */ no pgs
+2022-05-25T15:05:52+00:00,1089769073,1089768088,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Culture and recreation */ links
+2022-05-25T14:59:13+00:00,1089768088,1089767964,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Economy */ link
+2022-05-25T14:58:15+00:00,1089767964,1089766779,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Education */ links
+2022-05-25T14:49:37+00:00,1089766779,1089766591,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Religion */ link
+2022-05-25T14:48:14+00:00,1089766591,1089765894,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Religion */ links
+2022-05-25T14:43:23+00:00,1089765894,1089748075,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Religion */ new para
+2022-05-25T12:35:27+00:00,1089748075,1089748042,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Public services */ no page
+2022-05-25T12:35:09+00:00,1089748042,1089746207,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Public services */ links
+2022-05-25T12:20:17+00:00,1089746207,1089745812,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Health */ links
+2022-05-25T12:17:13+00:00,1089745812,1089745360,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Crime */ link
+2022-05-25T12:13:05+00:00,1089745360,1089745325,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Crime */ no page
+2022-05-25T12:12:47+00:00,1089745325,1089744614,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Crime */ links
+2022-05-25T12:07:20+00:00,1089744614,1089744476,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Economy */ links
+2022-05-25T12:06:10+00:00,1089744476,1089743244,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Economy */ links
+2022-05-25T11:56:15+00:00,1089743244,1089737516,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Governance */
+2022-05-25T11:04:06+00:00,1089737516,1089737216,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Governance */
+2022-05-25T11:01:25+00:00,1089737216,1089737156,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Governance */ no pgs
+2022-05-25T11:00:49+00:00,1089737156,1089681510,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Governance */ links
+2022-05-25T03:06:09+00:00,1089681510,1089681309,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Governance */ link
+2022-05-25T03:04:12+00:00,1089681309,1089681274,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Climate */ no page
+2022-05-25T03:03:56+00:00,1089681274,1089681052,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Climate */ links
+2022-05-25T03:02:25+00:00,1089681052,1089680430,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Climate */ poor english
+2022-05-25T02:57:48+00:00,1089680430,1089680406,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geology */ no page
+2022-05-25T02:57:34+00:00,1089680406,1089680345,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geology */ links
+2022-05-25T02:57:04+00:00,1089680345,1089678819,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geology */ links
+2022-05-25T02:46:44+00:00,1089678819,1089678790,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Demographics */
+2022-05-25T02:46:31+00:00,1089678790,1089677483,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Demographics */ links
+2022-05-25T02:38:42+00:00,1089677483,1089677430,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* History */ no page
+2022-05-25T02:38:28+00:00,1089677430,1089676944,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* History */ links
+2022-05-25T02:35:43+00:00,1089676944,1089676853,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* History */ link
+2022-05-25T02:35:28+00:00,1089676853,1089676473,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* History */ links
+2022-05-25T02:32:49+00:00,1089676473,1089676366,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* History */ no pgs
+2022-05-25T02:32:18+00:00,1089676366,1089676137,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* History */ links
+2022-05-25T02:30:43+00:00,1089676137,1089676020,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Name */ overlinking
+2022-05-25T02:29:44+00:00,1089676020,1089675976,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Name */ link
+2022-05-25T02:29:22+00:00,1089675976,1089437857,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Name */ links
+2022-05-25T00:57:12+00:00,1089662071,1089661830,1,Robin75aw,"Coleshill, Warwickshire",/* Notable people from Coleshill */ not in order
+2022-05-25T00:55:31+00:00,1089661830,1089661723,1,Robin75aw,"Coleshill, Warwickshire",/* Education */
+2022-05-25T00:54:50+00:00,1089661723,1089661698,1,Robin75aw,"Coleshill, Warwickshire",/* Education */
+2022-05-25T00:54:38+00:00,1089661698,1089660486,1,Robin75aw,"Coleshill, Warwickshire",/* Education */ links
+2022-05-25T00:48:56+00:00,1089660486,1089660395,1,Robin75aw,"Coleshill, Warwickshire",/* Twin Town */
+2022-05-25T00:48:46+00:00,1089660395,1089656033,1,Robin75aw,"Coleshill, Warwickshire",/* Twin Town */ link
+2022-05-25T00:33:07+00:00,1089656033,1089655618,1,Robin75aw,"Coleshill, Warwickshire",/* Transport */ link
+2022-05-25T00:30:26+00:00,1089655618,1089655346,1,Robin75aw,"Coleshill, Warwickshire",/* Transport */ duplication
+2022-05-25T00:28:33+00:00,1089655346,1089655199,1,Robin75aw,"Coleshill, Warwickshire",/* Transport */ link
+2022-05-25T00:27:37+00:00,1089655199,1089653777,1,Robin75aw,"Coleshill, Warwickshire",/* Transport */ new para
+2022-05-25T00:17:28+00:00,1089653777,1089652578,1,Robin75aw,"Coleshill, Warwickshire",/* Transport */ links
+2022-05-25T00:09:50+00:00,1089652578,1089651637,1,Robin75aw,"Coleshill, Warwickshire",/* Notable buildings */ links
+2022-05-25T00:04:06+00:00,1089651637,1089651571,1,Robin75aw,"Coleshill, Warwickshire",/* Notable buildings */ no pgs
+2022-05-25T00:03:43+00:00,1089651571,1089650474,1,Robin75aw,"Coleshill, Warwickshire",/* Notable buildings */ links
+2022-05-24T23:57:27+00:00,1089650474,1089650433,1,Robin75aw,"Coleshill, Warwickshire",/* History */ link
+2022-05-24T23:57:07+00:00,1089650433,1089649538,1,Robin75aw,"Coleshill, Warwickshire",/* History */ links
+2022-05-24T23:50:46+00:00,1089649538,1089646702,1,Robin75aw,"Coleshill, Warwickshire",/* History */ link
+2022-05-24T23:28:51+00:00,1089646702,1089646667,1,Robin75aw,"Coleshill, Warwickshire",/* History */ no page
+2022-05-24T23:28:33+00:00,1089646667,1089646526,1,Robin75aw,"Coleshill, Warwickshire",/* History */ link
+2022-05-24T23:27:21+00:00,1089646526,1089646468,1,Robin75aw,"Coleshill, Warwickshire",/* History */ links
+2022-05-24T23:26:53+00:00,1089646468,1089646409,1,Robin75aw,"Coleshill, Warwickshire",/* History */ no pgs
+2022-05-24T23:26:26+00:00,1089646409,1089645615,1,Robin75aw,"Coleshill, Warwickshire",/* History */ links
+2022-05-24T23:20:05+00:00,1089645615,1089645423,1,Robin75aw,"Coleshill, Warwickshire",/* History */ duplication
+2022-05-24T23:18:33+00:00,1089645423,1089645391,1,Robin75aw,"Coleshill, Warwickshire",/* History */ duplication
+2022-05-24T23:18:15+00:00,1089645391,1089645370,1,Robin75aw,"Coleshill, Warwickshire",/* History */ no page
+2022-05-24T23:18:01+00:00,1089645370,1089583289,1,Robin75aw,"Coleshill, Warwickshire",/* History */ link
+2022-05-24T16:38:57+00:00,1089583289,1089583225,1,Robin75aw,"Coleshill, Warwickshire",/* History */ no page
+2022-05-24T16:38:27+00:00,1089583225,1089580888,1,Robin75aw,"Coleshill, Warwickshire",/* History */ links
+2022-05-24T16:21:40+00:00,1089580888,1089580849,1,Robin75aw,"Coleshill, Warwickshire",/* Location */ link
+2022-05-24T16:21:26+00:00,1089580849,1089580207,1,Robin75aw,"Coleshill, Warwickshire",/* Location */ links
+2022-05-24T16:17:28+00:00,1089580207,1089444252,1,Robin75aw,"Coleshill, Warwickshire",links
+2022-05-24T02:20:12+00:00,1089484458,1089484422,1,Robin75aw,Maxstoke,/* Handley Page O/400 crash */ no pgs
+2022-05-24T02:19:43+00:00,1089484422,1089484092,1,Robin75aw,Maxstoke,/* Handley Page O/400 crash */ links
+2022-05-24T02:16:43+00:00,1089484092,1089484057,1,Robin75aw,Maxstoke,/* Maxstoke Hill Challenge */ no pgs
+2022-05-24T02:16:26+00:00,1089484057,1089483186,1,Robin75aw,Maxstoke,/* Maxstoke Hill Challenge */ links
+2022-05-24T02:07:58+00:00,1089483186,1089483142,1,Robin75aw,Maxstoke,/* Railway */ link
+2022-05-24T02:07:25+00:00,1089483142,1089483092,1,Robin75aw,Maxstoke,/* Railway */
+2022-05-24T02:06:55+00:00,1089483092,1089482728,1,Robin75aw,Maxstoke,/* Railway */ links
+2022-05-24T02:03:24+00:00,1089482728,1089481807,1,Robin75aw,Maxstoke,/* Maxstoke Castle */ links
+2022-05-24T01:56:40+00:00,1089481807,1089481787,1,Robin75aw,Maxstoke,/* Maxstoke Priory */
+2022-05-24T01:56:27+00:00,1089481787,1089481588,1,Robin75aw,Maxstoke,/* Maxstoke Priory */ link
+2022-05-24T01:54:34+00:00,1089481588,1089481541,1,Robin75aw,Maxstoke,/* Maxstoke Priory */ link
+2022-05-24T01:54:12+00:00,1089481541,1089481214,1,Robin75aw,Maxstoke,/* Maxstoke Priory */ links
+2022-05-24T01:51:00+00:00,1089481214,1089480969,1,Robin75aw,Maxstoke,link
+2022-05-24T01:49:12+00:00,1089480969,1089472897,1,Robin75aw,Maxstoke,links
+2022-05-24T00:46:21+00:00,1089472897,1089445283,1,Robin75aw,Maxstoke,/* Handley Page O/400 crash */ no page
+2022-05-24T00:43:07+00:00,1089472505,1089472399,1,Robin75aw,Great Packington,link
+2022-05-24T00:42:18+00:00,1089472399,1089471950,1,Robin75aw,Great Packington,/* History */ links
+2022-05-24T00:38:25+00:00,1089471950,1087124002,1,Robin75aw,Great Packington,link
+2022-05-24T00:26:14+00:00,1089470474,1089470458,1,Robin75aw,Little Packington,no page
+2022-05-24T00:25:59+00:00,1089470458,1086988297,1,Robin75aw,Little Packington,links
+2022-05-24T00:04:51+00:00,1089467650,1089467551,1,Robin75aw,"Gilson, Warwickshire",/* History */ links
+2022-05-24T00:04:02+00:00,1089467551,1089466869,1,Robin75aw,"Gilson, Warwickshire",/* History */ links
+2022-05-24T00:00:16+00:00,1089466869,1089444906,1,Robin75aw,"Gilson, Warwickshire",link
+2022-05-23T23:57:08+00:00,1089466521,1089466274,1,Robin75aw,Blythe End,duplication
+2022-05-23T23:54:40+00:00,1089466274,1089444628,1,Robin75aw,Blythe End,links
+2022-05-23T20:51:42+00:00,1089445283,1089445194,1,Robin75aw,Maxstoke,tidied layout
+2022-05-23T20:51:06+00:00,1089445194,1088524411,1,Robin75aw,Maxstoke,/* History */ layout
+2022-05-23T20:49:02+00:00,1089444906,1083727157,1,Robin75aw,"Gilson, Warwickshire",tidied layout
+2022-05-23T20:47:05+00:00,1089444628,947892785,1,Robin75aw,Blythe End,tidied layout
+2022-05-23T20:44:37+00:00,1089444252,1089444142,1,Robin75aw,"Coleshill, Warwickshire",/* History */ new para
+2022-05-23T20:43:55+00:00,1089444142,1089444074,1,Robin75aw,"Coleshill, Warwickshire",/* History */ new para
+2022-05-23T20:43:24+00:00,1089444074,1089443959,1,Robin75aw,"Coleshill, Warwickshire",tidied layout
+2022-05-23T20:42:42+00:00,1089443959,1089443900,1,Robin75aw,"Coleshill, Warwickshire",/* Notable buildings */ new para
+2022-05-23T20:42:21+00:00,1089443900,1089443830,1,Robin75aw,"Coleshill, Warwickshire",/* Transport */ layout
+2022-05-23T20:41:56+00:00,1089443830,1086988375,1,Robin75aw,"Coleshill, Warwickshire",/* Notable buildings */ layout
+2022-05-23T20:37:37+00:00,1089443203,1085172910,1,Robin75aw,Atherstone,/* Notable people */
+2022-05-23T20:00:18+00:00,1089437857,1089436431,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",links
+2022-05-23T19:51:34+00:00,1089436431,1089043983,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",superfluous
+2022-05-23T19:46:04+00:00,1089435548,1089435253,1,Robin75aw,"Kingsbury, Warwickshire",/* Kingsbury today */
+2022-05-23T19:43:54+00:00,1089435253,1089433937,1,Robin75aw,"Kingsbury, Warwickshire",/* Kingsbury today */ links
+2022-05-23T19:35:15+00:00,1089433937,1089433180,1,Robin75aw,"Kingsbury, Warwickshire",/* Kingsbury today */ links
+2022-05-23T19:30:17+00:00,1089433180,1089432578,1,Robin75aw,"Kingsbury, Warwickshire",/* Governance */ links
+2022-05-23T19:25:45+00:00,1089432578,1089432254,1,Robin75aw,"Kingsbury, Warwickshire",/* History */ link
+2022-05-23T19:23:43+00:00,1089432254,1089432199,1,Robin75aw,"Kingsbury, Warwickshire",/* History */
+2022-05-23T19:23:20+00:00,1089432199,1089432042,1,Robin75aw,"Kingsbury, Warwickshire",/* History */ new para
+2022-05-23T19:22:17+00:00,1089432042,1089431526,1,Robin75aw,"Kingsbury, Warwickshire",/* History */ no pgs
+2022-05-23T19:18:38+00:00,1089431526,1089431371,1,Robin75aw,"Kingsbury, Warwickshire",/* History */ no pgs
+2022-05-23T19:17:36+00:00,1089431371,1089429645,1,Robin75aw,"Kingsbury, Warwickshire",/* History */ links
+2022-05-23T19:04:46+00:00,1089429645,1089429627,1,Robin75aw,"Kingsbury, Warwickshire",/* History */ no page
+2022-05-23T19:04:34+00:00,1089429627,1089429095,1,Robin75aw,"Kingsbury, Warwickshire",/* History */ links
+2022-05-23T19:00:29+00:00,1089429095,1089429030,1,Robin75aw,"Kingsbury, Warwickshire",/* History */ no page
+2022-05-23T19:00:05+00:00,1089429030,1089426402,1,Robin75aw,"Kingsbury, Warwickshire",/* History */ links
+2022-05-23T18:40:41+00:00,1089426402,1088975934,1,Robin75aw,"Kingsbury, Warwickshire",links
+2022-05-22T19:58:48+00:00,1089260449,1089248302,1,Robin75aw,Bodymoor Heath,/* History */ links
+2022-05-22T18:43:09+00:00,1089248302,1089248260,1,Robin75aw,Bodymoor Heath,/* Aston Villa */
+2022-05-22T18:42:53+00:00,1089248260,1088468988,1,Robin75aw,Bodymoor Heath,add photo
+2022-05-22T18:41:04+00:00,1089248007,1083052455,1,Robin75aw,Freasley,link
+2022-05-21T04:50:26+00:00,1088977598,1088977500,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geography */
+2022-05-21T04:49:43+00:00,1088977500,1088977484,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* =Climate */
+2022-05-21T04:49:33+00:00,1088977484,1088977356,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geography */
+2022-05-21T04:48:10+00:00,1088977356,1088977331,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geology */
+2022-05-21T04:47:57+00:00,1088977331,1088977290,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geography */ layout
+2022-05-21T04:47:34+00:00,1088977290,1088977051,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geography */
+2022-05-21T04:45:24+00:00,1088977051,1088977029,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Governance */ moved photos
+2022-05-21T04:45:07+00:00,1088977029,1088976976,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Demographics */
+2022-05-21T04:44:24+00:00,1088976976,1088976949,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geography */ moved section
+2022-05-21T04:44:02+00:00,1088976949,1088976925,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Demographics */
+2022-05-21T04:43:35+00:00,1088976925,1088976907,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Religion */ photos
+2022-05-21T04:43:16+00:00,1088976907,1088976860,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Economy */
+2022-05-21T04:42:28+00:00,1088976860,1088976756,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Geography */ moved section
+2022-05-21T04:41:08+00:00,1088976756,1088976691,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Economy */ layout
+2022-05-21T04:40:20+00:00,1088976691,1088976509,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",tidied layout
+2022-05-21T04:38:40+00:00,1088976509,1088976480,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Crime */ ditto
+2022-05-21T04:38:20+00:00,1088976480,1088976445,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Health */ ditto
+2022-05-21T04:38:01+00:00,1088976445,1088976408,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Public services */ layout
+2022-05-21T04:37:44+00:00,1088976408,1088976332,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Religion */ ditto
+2022-05-21T04:37:13+00:00,1088976332,1088976278,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Religion */ layout
+2022-05-21T04:36:37+00:00,1088976278,1088976162,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Religion */ moved photos
+2022-05-21T04:35:11+00:00,1088976162,1088976113,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Education */ layout
+2022-05-21T04:34:37+00:00,1088976113,1088976080,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Culture and recreation */ layout
+2022-05-21T04:34:11+00:00,1088976080,1088976064,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Transport */ layout
+2022-05-21T04:33:50+00:00,1088976064,1088976042,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Media */ moved section
+2022-05-21T04:33:25+00:00,1088976042,1068964894,1,Robin75aw,"Wood End, Kingsbury, Warwickshire",/* Location */
+2022-05-21T04:31:59+00:00,1088975934,1088469606,1,Robin75aw,"Kingsbury, Warwickshire",
+2022-05-20T21:29:30+00:00,1088924020,1088923279,1,Robin75aw,"Hurley, Warwickshire",/* Media */ links
+2022-05-20T21:24:52+00:00,1088923279,1088921582,1,Robin75aw,"Hurley, Warwickshire",/* Transport */ links
+2022-05-20T21:13:02+00:00,1088921582,1088921479,1,Robin75aw,"Hurley, Warwickshire",/* Public services */ no page
+2022-05-20T21:12:22+00:00,1088921479,1088920149,1,Robin75aw,"Hurley, Warwickshire",/* Public services */ links
+2022-05-20T21:02:19+00:00,1088920149,1088920108,1,Robin75aw,"Hurley, Warwickshire",/* Education */ no page
+2022-05-20T21:02:02+00:00,1088920108,1088919781,1,Robin75aw,"Hurley, Warwickshire",/* Education */ links
+2022-05-20T20:59:49+00:00,1088919781,1088917850,1,Robin75aw,"Hurley, Warwickshire",/* Crime */ links
+2022-05-20T20:45:12+00:00,1088917850,1088917180,1,Robin75aw,"Hurley, Warwickshire",/* Governance */ links
+2022-05-20T20:40:15+00:00,1088917180,1088917144,1,Robin75aw,"Hurley, Warwickshire",/* Economy */ no page
+2022-05-20T20:40:02+00:00,1088917144,1088917081,1,Robin75aw,"Hurley, Warwickshire",/* Economy */ link
+2022-05-20T20:39:39+00:00,1088917081,1088915805,1,Robin75aw,"Hurley, Warwickshire",/* Economy */ links
+2022-05-20T20:31:05+00:00,1088915805,1088915726,1,Robin75aw,"Hurley, Warwickshire",/* Religion */ link
+2022-05-20T20:30:34+00:00,1088915726,1088915453,1,Robin75aw,"Hurley, Warwickshire",/* Religion */ link
+2022-05-20T20:28:33+00:00,1088915453,1088914938,1,Robin75aw,"Hurley, Warwickshire",/* Religion */ links
+2022-05-20T20:25:03+00:00,1088914938,1088914902,1,Robin75aw,"Hurley, Warwickshire",/* History */ link
+2022-05-20T20:24:46+00:00,1088914902,1088913860,1,Robin75aw,"Hurley, Warwickshire",/* History */ link
+2022-05-20T20:17:37+00:00,1088913860,1088902166,1,Robin75aw,"Hurley, Warwickshire",links
+2022-05-20T19:01:45+00:00,1088903151,1088903121,1,Robin75aw,Hurley Common,/* Media */ ditto
+2022-05-20T19:01:33+00:00,1088903121,1088903080,1,Robin75aw,Hurley Common,/* Transport */ ditto
+2022-05-20T19:01:21+00:00,1088903080,1088903047,1,Robin75aw,Hurley Common,/* Recreation */ ditto
+2022-05-20T19:01:10+00:00,1088903047,1088903023,1,Robin75aw,Hurley Common,/* Public services */ layout
+2022-05-20T19:00:59+00:00,1088903023,1051919336,1,Robin75aw,Hurley Common,/* Governance */ layout
+2022-05-20T18:54:55+00:00,1088902166,1088470086,1,Robin75aw,"Hurley, Warwickshire",
+2022-05-20T03:50:55+00:00,1088788262,1088788235,1,Robin75aw,"Austrey, Warwickshire",/* Settlement */ mo pgs
+2022-05-20T03:50:35+00:00,1088788235,1088787456,1,Robin75aw,"Austrey, Warwickshire",/* Settlement */ links
+2022-05-20T03:44:30+00:00,1088787456,1088787394,1,Robin75aw,"Austrey, Warwickshire",/* Settlement */ no page
+2022-05-20T03:43:53+00:00,1088787394,1088787319,1,Robin75aw,"Austrey, Warwickshire",/* Settlement */ no pgs
+2022-05-20T03:43:00+00:00,1088787319,1088785878,1,Robin75aw,"Austrey, Warwickshire",/* Settlement */ links
+2022-05-20T03:30:44+00:00,1088785878,1088785756,1,Robin75aw,"Austrey, Warwickshire",/* Parish church */
+2022-05-20T03:29:45+00:00,1088785756,1088785676,1,Robin75aw,"Austrey, Warwickshire",/* Parish church */
+2022-05-20T03:29:00+00:00,1088785676,1088785538,1,Robin75aw,"Austrey, Warwickshire",/* Parish church */ duplication
+2022-05-20T03:27:23+00:00,1088785538,1088785177,1,Robin75aw,"Austrey, Warwickshire",/* Parish church */ no page
+2022-05-20T03:24:28+00:00,1088785177,1088785137,1,Robin75aw,"Austrey, Warwickshire",/* Parish church */ no pgs
+2022-05-20T03:24:01+00:00,1088785137,1088785111,1,Robin75aw,"Austrey, Warwickshire",Undid revision 1088785111 by [[Special:Contributions/Robin75aw|Robin75aw]] ([[User talk:Robin75aw|talk]])
+2022-05-20T03:23:42+00:00,1088785111,1088784982,1,Robin75aw,"Austrey, Warwickshire",/* Parish church */ no pgs
+2022-05-20T03:22:34+00:00,1088784982,1088784666,1,Robin75aw,"Austrey, Warwickshire",/* Parish church */ links
+2022-05-20T03:19:38+00:00,1088784666,1088783234,1,Robin75aw,"Austrey, Warwickshire",/* Parish church */ link
+2022-05-20T03:02:45+00:00,1088783234,1088783133,1,Robin75aw,"Austrey, Warwickshire",/* Origins of the parish */ no page
+2022-05-20T03:01:23+00:00,1088783133,1088783054,1,Robin75aw,"Austrey, Warwickshire",/* Origins of the parish */ no pgs
+2022-05-20T03:00:24+00:00,1088783054,1088782617,1,Robin75aw,"Austrey, Warwickshire",/* Origins of the parish */ links
+2022-05-20T02:56:07+00:00,1088782617,1088782584,1,Robin75aw,"Austrey, Warwickshire",/* Origins of the parish */
+2022-05-20T02:55:53+00:00,1088782584,1088782553,1,Robin75aw,"Austrey, Warwickshire",/* Origins of the parish */ link
+2022-05-20T02:55:38+00:00,1088782553,1088782124,1,Robin75aw,"Austrey, Warwickshire",/* Origins of the parish */ link
+2022-05-20T02:51:51+00:00,1088782124,1088782052,1,Robin75aw,"Austrey, Warwickshire",/* Origins of the parish */ no pgs
+2022-05-20T02:51:19+00:00,1088782052,1088781110,1,Robin75aw,"Austrey, Warwickshire",/* Origins of the parish */ links
+2022-05-20T02:43:10+00:00,1088781110,1088780044,1,Robin75aw,"Austrey, Warwickshire",/* Origins of the parish */ links
+2022-05-20T02:33:38+00:00,1088780044,1088779969,1,Robin75aw,"Austrey, Warwickshire",/* Amenities and facilities */ no page
+2022-05-20T02:33:00+00:00,1088779969,1088779522,1,Robin75aw,"Austrey, Warwickshire",/* Amenities and facilities */ links
+2022-05-20T02:28:57+00:00,1088779522,1088774909,1,Robin75aw,"Austrey, Warwickshire",/* Amenities and facilities */ links
+2022-05-20T01:49:20+00:00,1088774909,1088774824,1,Robin75aw,"Austrey, Warwickshire",/* Location */
+2022-05-20T01:48:42+00:00,1088774824,1088468827,1,Robin75aw,"Austrey, Warwickshire",/* Location */ links
+2022-05-20T00:28:03+00:00,1088763534,1088763376,1,Robin75aw,Newton Regis,/* Places of interest */ links
+2022-05-20T00:26:53+00:00,1088763376,1088763272,1,Robin75aw,Newton Regis,/* Sport */ link
+2022-05-20T00:26:30+00:00,1088763272,1088763213,1,Robin75aw,Newton Regis,/* Sport */ links
+2022-05-20T00:26:03+00:00,1088763213,1088763016,1,Robin75aw,Newton Regis,/* Sport */ links
+2022-05-20T00:24:26+00:00,1088763016,1088762513,1,Robin75aw,Newton Regis,/* Education */ links
+2022-05-20T00:20:03+00:00,1088762513,1088762437,1,Robin75aw,Newton Regis,/* History */ no pgs
+2022-05-20T00:19:22+00:00,1088762437,1088761885,1,Robin75aw,Newton Regis,/* History */ links
+2022-05-20T00:14:55+00:00,1088761885,1088761854,1,Robin75aw,Newton Regis,/* History */ no page
+2022-05-20T00:14:38+00:00,1088761854,1088761360,1,Robin75aw,Newton Regis,/* History */ links
+2022-05-20T00:10:51+00:00,1088761360,1088467464,1,Robin75aw,Newton Regis,conflicting data that was inaccurate
+2022-05-20T00:03:19+00:00,1088760316,1088759957,1,Robin75aw,"No Man's Heath, Warwickshire",links
+2022-05-20T00:01:14+00:00,1088759957,1088703575,1,Robin75aw,"No Man's Heath, Warwickshire",link
+2022-05-19T17:29:28+00:00,1088703575,1088702848,1,Robin75aw,"No Man's Heath, Warwickshire",
+2022-05-19T17:24:03+00:00,1088702848,1088702806,1,Robin75aw,"No Man's Heath, Warwickshire",
+2022-05-19T17:23:49+00:00,1088702806,1088467264,1,Robin75aw,"No Man's Heath, Warwickshire",/* See also */ irrelevant
+2022-05-19T17:22:17+00:00,1088702525,1088701452,1,Robin75aw,Seckington,/* Other listed buildings */ links
+2022-05-19T17:15:35+00:00,1088701452,1088701369,1,Robin75aw,Seckington,/* Parish church */ no pgs
+2022-05-19T17:15:03+00:00,1088701369,1088699929,1,Robin75aw,Seckington,/* Parish church */ links
+2022-05-19T17:05:08+00:00,1088699929,1088699823,1,Robin75aw,Seckington,/* Parish church */ no page
+2022-05-31T18:05:33+00:00,1090842407,1090812749,1,RawUtd,User talk:Bilorv,"/* Question from RawUtd (00:20, 31 May 2022) */ Reply"
+2022-05-31T00:20:49+00:00,1090717754,1090402334,1,RawUtd,User talk:Bilorv,"/* Question from RawUtd (00:20, 31 May 2022) */ new section"
+2022-05-30T05:54:56+00:00,1090572316,1090571796,1,RawUtd,Warwick,/* Demography */ poor english
+2022-05-30T05:49:56+00:00,1090571796,1090569979,1,RawUtd,Warwick,/* Demography */ duplicate link
+2022-05-30T05:35:24+00:00,1090569979,1090569036,1,RawUtd,Warwick,/* Climate */ links
+2022-05-30T05:27:08+00:00,1090569036,1090568876,1,RawUtd,Warwick,/* Suburbs */ link
+2022-05-30T05:26:02+00:00,1090568876,1090568479,1,RawUtd,Warwick,/* Suburbs */ link
+2022-05-30T05:23:16+00:00,1090568479,1090563397,1,RawUtd,Warwick,/* Geography */ link
+2022-05-30T04:45:52+00:00,1090563397,1090563036,1,RawUtd,Warwick,/* Governance */ poor english
+2022-05-30T04:42:29+00:00,1090563036,1090562743,1,RawUtd,Warwick,/* Governance */ links
+2022-05-30T04:40:06+00:00,1090562743,1090561421,1,RawUtd,Warwick,/* Governance */
+2022-05-30T04:28:16+00:00,1090561421,1090549828,1,RawUtd,Warwick,/* 18th century to present */
+2022-05-30T02:41:05+00:00,1090549828,1090549503,1,RawUtd,Warwick,/* 18th century to present */
+2022-05-30T02:38:23+00:00,1090549503,1090549085,1,RawUtd,Warwick,/* 18th century to present */
+2022-05-30T02:35:28+00:00,1090549085,1090548895,1,RawUtd,Warwick,/* 18th century to present */ 3rd time lucky
+2022-05-30T02:34:06+00:00,1090548895,1090548470,1,RawUtd,Warwick,/* 18th century to present */
+2022-05-30T02:30:46+00:00,1090548470,1090548412,1,RawUtd,Warwick,/* 18th century to present */
+2022-05-30T02:30:20+00:00,1090548412,1090547047,1,RawUtd,Warwick,/* 18th century to present */ posted outcome of bid to become city
+2022-05-30T02:18:12+00:00,1090547047,1090545854,1,RawUtd,Warwick,/* 17th century */
+2022-05-30T02:09:09+00:00,1090545854,1090544544,1,RawUtd,Warwick,/* Norman and medieval */ link already in paragraph
+2022-05-30T02:00:50+00:00,1090544544,1090544439,1,RawUtd,Warwick,/* Landmarks and notable buildings */
+2022-05-30T02:00:13+00:00,1090544439,1090544361,1,RawUtd,Warwick,/* Landmarks and notable buildings */
+2022-05-30T01:59:43+00:00,1090544361,1090544319,1,RawUtd,Warwick,/* University of Warwick */
+2022-05-30T01:59:24+00:00,1090544319,1090544161,1,RawUtd,Warwick,/* Sport */ add photo
+2022-05-30T01:58:25+00:00,1090544161,1090543679,1,RawUtd,Warwick,/* University of Warwick */ add photo
+2022-05-30T01:55:16+00:00,1090543679,1090543552,1,RawUtd,Warwick,/* Warwick School */ better photo
+2022-05-30T01:54:26+00:00,1090543552,1090543422,1,RawUtd,Warwick,/* Warwick School */ add phot
+2022-05-30T01:53:35+00:00,1090543422,1090543209,1,RawUtd,Warwick,/* Economy */ add phot
+2022-05-30T01:52:07+00:00,1090543209,1090543017,1,RawUtd,Warwick,/* Norman and medieval */ add photo
+2022-05-30T01:50:49+00:00,1090543017,1090542960,1,RawUtd,Warwick,/* Saxon */ add photo
+2022-05-30T01:50:27+00:00,1090542960,1090541408,1,RawUtd,Warwick,/* Norman and medieval */ add photo
+2022-05-30T01:40:49+00:00,1090541408,1090541361,1,RawUtd,Warwick,/* Norman and medieval */
+2022-05-30T01:40:33+00:00,1090541361,1090541285,1,RawUtd,Warwick,/* 17th century */
+2022-05-30T01:40:05+00:00,1090541285,1090541175,1,RawUtd,Warwick,/* Norman and medieval */
+2022-05-30T01:39:25+00:00,1090541175,1090530891,1,RawUtd,Warwick,/* Culture */
+2022-05-30T01:34:59+00:00,1090540487,1090540145,1,RawUtd,Whitnash,/* Twin towns */ links
+2022-05-30T01:32:32+00:00,1090540145,1090539780,1,RawUtd,Whitnash,/* Recreation */ links
+2022-05-30T01:30:04+00:00,1090539780,1090539729,1,RawUtd,Whitnash,/* Politics */ link
+2022-05-30T01:29:43+00:00,1090539729,1090539275,1,RawUtd,Whitnash,/* Politics */ link
+2022-05-30T01:25:59+00:00,1090539275,1090532108,1,RawUtd,Whitnash,/* Town centre */ link
+2022-05-30T00:37:15+00:00,1090532108,1090532047,1,RawUtd,Whitnash,/* History */ np
+2022-05-30T00:36:50+00:00,1090532047,1090531840,1,RawUtd,Whitnash,np
+2022-05-30T00:35:26+00:00,1090531840,1062644246,1,RawUtd,Whitnash,/* History */ np
+2022-05-30T00:28:54+00:00,1090530891,1090528026,1,RawUtd,Warwick,/* Saxon */ link already in paragraph
+2022-05-30T00:10:48+00:00,1090528026,1090527052,1,RawUtd,Warwick,as per original
+2022-05-30T00:05:31+00:00,1090527052,1090526915,1,RawUtd,Warwick,/* Saxon */ np
+2022-05-30T00:04:39+00:00,1090526915,1090526561,1,RawUtd,Warwick,
+2022-05-30T00:02:46+00:00,1090526561,1090526476,1,RawUtd,Warwick,/* Suburbs */ np
+2022-05-30T00:02:22+00:00,1090526476,1090526163,1,RawUtd,Warwick,/* Norman and medieval */ np
+2022-05-30T00:00:53+00:00,1090526163,1090526063,1,RawUtd,Warwick,Undid revision 1090526063 by [[Special:Contributions/RawUtd|RawUtd]] ([[User talk:RawUtd|talk]]) apologies
+2022-05-30T00:00:28+00:00,1090526063,1090525973,1,RawUtd,Warwick,/* References */
+2022-05-29T23:59:54+00:00,1090525973,1090525788,1,RawUtd,Warwick,np
+2022-05-29T23:58:30+00:00,1090525788,1090525713,1,RawUtd,Warwick,/* Roman */
+2022-05-29T23:57:52+00:00,1090525713,1090525655,1,RawUtd,Warwick,/* 18th century to present */
+2022-05-29T23:57:23+00:00,1090525655,1090524978,1,RawUtd,Warwick,
+2022-05-29T23:52:18+00:00,1090524978,1090524928,1,RawUtd,Warwick,/* Demography */
+2022-05-29T23:51:53+00:00,1090524928,1090524801,1,RawUtd,Warwick,/* Culture */
+2022-05-29T23:50:54+00:00,1090524801,1090497701,1,RawUtd,Warwick,/* Twin towns */ add columns
+2022-05-29T23:40:01+00:00,1090523383,1087610081,1,RawUtd,"Rugby, Warwickshire",/* Further reading */
+2022-05-29T20:50:20+00:00,1090497701,1090497648,1,RawUtd,Warwick,/* Suburbs */
+2022-05-29T20:49:55+00:00,1090497648,1090497554,1,RawUtd,Warwick,/* Economy */ no pages
+2022-05-29T20:49:19+00:00,1090497554,1090497098,1,RawUtd,Warwick,/* Landmarks and notable buildings */ add columns
+2022-05-29T20:47:54+00:00,1090497098,1090496891,1,RawUtd,Warwick,/* Further reading */
+2022-05-29T20:47:29+00:00,1090496891,1090054710,1,RawUtd,Warwick,/* Notes */ mentioned underneath
+2022-05-27T01:30:16+00:00,1090043653,1090035381,0,G-13114,"Alveston, Warwickshire",revert paragraph bunching per [[WP:PARAGRAPH]]
+2022-04-28T21:41:34+00:00,1085172910,1083673717,0,Trappist the monk,Atherstone,/* Shrovetide Ball Game */cite repair;
+2022-04-05T19:22:21+00:00,1081176562,1081174204,0,G-13114,"Alveston, Warwickshire",paragraphs exist for a reason!
+2022-05-29T12:37:16+00:00,1090424003,1090043486,0,131.111.185.69,Atherstone,
+2022-05-27T01:28:43+00:00,1090043486,1090029859,0,G-13114,Atherstone,Undid revision 1090029859 by [[Special:Contributions/79.76.167.138|79.76.167.138]] ([[User talk:79.76.167.138|talk]]) The same problems with [[WP:PARAGRAPH]] and [[WP:STACKING]] and addition of pointless images
+2022-05-24T11:02:16+00:00,1089538141,1088788262,0,GrindtXX,"Austrey, Warwickshire",minor cleanup
+2020-03-29T02:00:34+00:00,947892785,946758599,0,Rich Farmbrough,Blythe End,Date formats
+2022-04-16T18:27:51+00:00,1083052455,988449784,0,BrownHairedGirl,Freasley,add {{[[Template:Use dmy dates|Use dmy dates]]}} for geographical sub-projects of [[WP:WikiProject England]]
+2022-04-20T09:47:21+00:00,1083727157,1081930938,0,BrownHairedGirl,"Gilson, Warwickshire",add {{[[Template:Use dmy dates|Use dmy dates]]}} for sub-projects of [[WP:WikiProject England]]
+2022-05-10T14:09:25+00:00,1087124002,1086988263,0,Alpha Piscis Austrini,Great Packington,clean up
+2022-05-18T14:54:10+00:00,1088524411,1057922162,0,46.231.64.2,Maxstoke,
+2022-05-21T01:26:09+00:00,1088955647,1088763534,0,79.76.173.36,Newton Regis,/* Sport */
+2022-05-20T21:13:22+00:00,1088921633,1088921427,0,G-13114,"No Man's Heath, Warwickshire",these aren't irrellevant
+2022-05-13T13:54:05+00:00,1087610081,1087588172,0,Storchy,"Rugby, Warwickshire",Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]
+2022-05-24T10:40:10+00:00,1089536080,1089535971,0,46.231.64.2,Seckington,
+2022-04-20T02:46:51+00:00,1083675692,1029254606,0,BrownHairedGirl,Shottery,add {{[[Template:Use dmy dates|Use dmy dates]]}} for sub-projects of [[WP:WikiProject England]]
+2022-04-20T02:31:24+00:00,1083673361,1071580419,0,BrownHairedGirl,St Michael's Leper Hospital,add {{[[Template:Use dmy dates|Use dmy dates]]}} for sub-projects of [[WP:WikiProject England]]
+2022-05-10T12:46:16+00:00,1087114396,1087114258,0,G-13114,Stratford-upon-Avon,Undid revision 1087114258 by [[Special:Contributions/2A04:4A43:4B1F:C371:94C:BF9F:5BF1:3211|2A04:4A43:4B1F:C371:94C:BF9F:5BF1:3211]] ([[User talk:2A04:4A43:4B1F:C371:94C:BF9F:5BF1:3211|talk]])
+2022-05-30T21:58:30+00:00,1090698854,1090698741,0,G-13114,Stratford-upon-Avon,/* Tudor period */ split paragraph with topic
+2022-05-29T18:07:17+00:00,1090472404,1090472367,0,RandomCanadian,Stratford-upon-Avon,/* Transport */ same
+2022-05-29T00:25:10+00:00,1090340966,1090340645,0,G-13114,Stratford-upon-Avon,revert to fixed version
+2022-05-28T22:31:44+00:00,1090328067,1090327931,0,G-13114,Stratford-upon-Avon,/* Transport */ doesn't belong here
+2022-05-29T18:06:58+00:00,1090472367,1090472279,0,RandomCanadian,Stratford-upon-Avon,/* Streets */ same
+2022-05-29T06:49:43+00:00,1090381486,1090380662,0,KJP1,Stratford-upon-Avon,/* Theatre */ already linked above
+2021-10-03T06:58:50+00:00,1047911150,1047911127,0,KJP1,Talk:Stratford-upon-Avon,/* images */
+2022-05-30T07:36:42+00:00,1090584198,1090466228,0,G-13114,Talk:Stratford-upon-Avon,/* Recent edits */
+2022-03-20T13:54:37+00:00,1078222505,1078221988,0,G-13114,"Tiddington, Warwickshire",
+2022-05-19T14:01:54+00:00,1088673751,1087587443,0,Gerda Arendt,User talk:Bilorv,/* Challenges category suggestion */ upd
+2022-05-31T07:05:08+00:00,1090765424,1090717754,0,Bilorv,User talk:Bilorv,"/* Question from RawUtd (00:20, 31 May 2022) */ reply ([[c:Special:MyLanguage/User:JWBTH/CD|CD]])"
+2022-05-28T11:15:20+00:00,1090250979,1090214701,0,Bilorv,User talk:Bilorv,/* June 2022 Good Article Nominations backlog drive */ read
+2022-05-22T15:59:35+00:00,1089221183,1089209195,0,Bilorv,User talk:Bilorv,"/* Question from Biginatventureafrica (14:13, 22 May 2022) */ reply ([[c:Special:MyLanguage/User:JWBTH/CD|CD]])"
+2022-04-11T06:30:59+00:00,1082072098,1082071228,0,DMacks,User talk:Robin75aw,/* Referencing at Norton Lindsey */ nod
+2022-05-29T07:39:56+00:00,1090388315,1090388277,0,G-13114,User talk:Robin75aw,/* Notice of edit warring noticeboard discussion */
+2022-05-27T02:56:27+00:00,1090054710,1090019056,0,2603:6010:DE3D:3FF6:252F:5AEC:9AD:5E78,Warwick,
+2022-05-23T15:52:24+00:00,1089402592,1089296450,0,Keith D,Warwick,/* Waterways */ Grammar - though could be a missing word
+2022-05-25T21:39:03+00:00,1089827945,1089817729,0,2603:6010:DE3D:3FF6:85A7:F98A:D263:58C2,Warwick,
+2022-05-02T16:14:27+00:00,1085815496,1084662187,0,L ke,Warwick,/* Twin towns */ restyled to match other sections on twin towns
+2022-05-24T21:48:11+00:00,1089631096,1089402592,0,G-13114,Warwick,/* Waterways */ image
+2022-05-23T00:41:47+00:00,1089296450,1085815496,0,G-13114,Warwick,/* Waterways */ expand
+2022-05-31T07:03:47+00:00,1090765218,1090676891,0,Bilorv,Warwick,/* 18th century to present */ fix access-date error
+2022-05-25T20:05:45+00:00,1089815245,1089811194,0,2603:6010:DE3D:3FF6:85A7:F98A:D263:58C2,Warwick,
+2022-05-26T22:20:40+00:00,1090019056,1090018971,0,G-13114,Warwick,/* Roman */
+2022-05-25T17:44:29+00:00,1089795299,1089775325,0,AnomieBOT,Warwick,"Rescuing orphaned refs (""BHOLint"" from rev 1089631096)"
+2022-05-26T16:05:13+00:00,1089965903,1089827945,0,2603:6010:DE3D:3FF6:252F:5AEC:9AD:5E78,Warwick,
+2021-12-29T17:59:12+00:00,1062644246,1062154585,0,G-13114,Whitnash,/* History */ not in the reference
+2022-05-19T17:52:50+00:00,1088707403,1088707215,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,Empty. rm [[Special:Contributions/174.235.48.51|174.235.48.51]] (blocked 31 hours by [[User:Ad Orientem|Ad Orientem]] [[User:HBC AIV helperbot/Legend|(AO ACB)]]).
+2022-01-31T01:05:37+00:00,1068964894,1052468861,0,Mauls,"Wood End, Kingsbury, Warwickshire",/* Public services */
+2022-05-31T00:01:15+00:00,1090715135,1090714603,0,Wikipelli,Wikipedia:Administrator intervention against vandalism,Added report for [[Special:Contributions/122.56.78.133|122.56.78.133]] ([[WP:HG|HG]]) (3.4.10)
+2022-05-21T15:54:20+00:00,1089043983,1088977598,0,FDent,"Wood End, Kingsbury, Warwickshire",correct PC website
+2022-05-27T18:47:09+00:00,1090150284,1089776428,0,FDent,"Wood End, Kingsbury, Warwickshire","birch coppice source, reduce over-use of the word small, don't link place name which is part of a road name"
+2020-03-22T02:47:38+00:00,946738382,915518837,0,Ser Amantio di Nicolao,"Alveston, Warwickshire",/* External links */add authority control
+2021-08-05T06:23:57+00:00,1037217536,1033520188,0,Citation bot,Atherstone,Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1494/2196
+2020-09-24T20:15:28+00:00,980136176,979542100,0,78.150.149.246,Atherstone,/* Notable people */
+2021-07-14T05:53:30+00:00,1033520188,1032648895,0,Qwfp,Atherstone,/* History */ hatters gonna hat
+2020-12-09T13:31:48+00:00,993225545,987245881,0,Monkbot,Atherstone,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 14 templates: del empty params (2×); hyphenate params (16×);
+2021-05-25T21:41:35+00:00,1025128285,1025128141,0,2.28.34.149,Atherstone,/* Economy */
+2020-11-05T20:47:28+00:00,987245881,987245618,0,Kelvmeister,Atherstone,/* Recreation */
+2021-03-17T14:59:47+00:00,1012645675,1006623581,0,Gronk Oz,Atherstone,"clean up, [[WP:AWB/T|typo(s) fixed]]: one mile → one-mile, 1960's → 1960s"
+2021-12-19T15:07:33+00:00,1061082771,1054504431,0,Citation bot,Atherstone,"Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 589/2196"
+2022-01-14T16:11:19+00:00,1065642652,1065527499,0,Iridescent 2,Atherstone,"/* Economy */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ’s → 's"
+2020-06-05T14:54:09+00:00,960903513,960786028,0,Prahlad balaji,Atherstone,"Changing [[Wikipedia:Short description|short description]] from ""Market town and parish in Warwickshire, England"" to ""Market town and civil parish in Warwickshire, England"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-04-13T08:58:44+00:00,950677293,946740548,0,82.35.145.162,Atherstone,
+2021-02-13T21:59:56+00:00,1006623581,1006575615,0,Goszei,Atherstone,[[WP:GENFIXES|General fixes]]
+2021-02-01T16:06:52+00:00,1004217478,993225545,0,Kelvmeister,Atherstone,/* Recreation */
+2020-05-21T12:47:38+00:00,957986396,957986341,0,62.249.210.125,Atherstone,
+2020-07-20T11:59:48+00:00,968607383,968607253,0,LuK3,Atherstone,Reverted to revision 960903513 by [[Special:Contributions/Prahlad balaji|Prahlad balaji]] ([[User talk:Prahlad balaji|talk]]): Rv disruptive ([[WP:TW|TW]])
+2020-03-22T03:06:17+00:00,946740548,944545244,0,Ser Amantio di Nicolao,Atherstone,add authority control
+2020-09-15T21:04:29+00:00,978595165,976393696,0,Darren-M,Atherstone,"/* top */ Remove l2 heading 'Hat Industry', merge into History."
+2020-04-21T10:01:35+00:00,952259316,946740882,0,AtticTapestry,"Austrey, Warwickshire",/* Parish church */ Link to [[Hugh Watts (bell-founder)]]
+2021-12-03T03:20:26+00:00,1058367088,1052104698,0,Rlink2,"Austrey, Warwickshire","/* External links */archive link repair, may include: archive.* -> archive.today, and http->https for ghostarchive.org and archive.org ([[wp:el#Specifying_protocols]])"
+2020-07-26T10:10:47+00:00,969586880,952259316,0,EdwardUK,"Austrey, Warwickshire",infobox
+2020-12-23T20:17:08+00:00,995962122,984064234,0,Monkbot,"Austrey, Warwickshire",[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 12 templates: del empty params (32×); hyphenate params (4×);
+2022-01-10T22:17:36+00:00,1064924276,1064922142,0,162 etc.,"Austrey, Warwickshire",/* External links */ excessive
+2020-10-17T23:20:53+00:00,984064234,969586880,0,Tom.Reding,"Austrey, Warwickshire",[[:Category:CS1 errors: deprecated parameters]] (last-author-amp=y/yes → name-list-style=amp; etc.)
+2020-03-22T03:09:02+00:00,946740882,914869341,0,Ser Amantio di Nicolao,"Austrey, Warwickshire",/* External links */add authority control
+2020-03-22T21:58:34+00:00,946867987,883639579,0,Ser Amantio di Nicolao,Freasley,"add authority control, added [[CAT:UL|underlinked]] tag"
+2020-11-13T07:20:52+00:00,988449784,988032367,0,P1,Freasley,stub tag and whitespace fix
+2020-03-22T22:12:32+00:00,946870083,922044994,0,Ser Amantio di Nicolao,"Gilson, Warwickshire",/* References */add authority control
+2021-05-04T18:52:36+00:00,1021444107,1021443813,0,2.28.34.134,"Gilson, Warwickshire",
+2021-12-28T08:49:38+00:00,1062412277,1062412210,0,Citation bot,"Gilson, Warwickshire","Alter: title, pages. Add: s2cid. Formatted [[WP:ENDASH|dashes]]. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Headbomb | #UCB_toolbar"
+2021-12-29T23:01:28+00:00,1062686191,1062412277,0,WikiCleanerBot,"Gilson, Warwickshire",v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2021-04-05T13:16:14+00:00,1016113054,1013242827,0,Garuda3,"Gilson, Warwickshire",roads info
+2021-03-09T17:41:59+00:00,1011214969,1011194308,0,"Crouch, Swale","Gilson, Warwickshire","not needed, parish stated anyway"
+2022-04-10T14:05:01+00:00,1081930938,1062686191,0,Ira Leviton,"Gilson, Warwickshire",Fixed references.  Please see [[Category:CS1 maint: numeric names: authors list]].
+2021-03-20T17:07:58+00:00,1013242827,1012688339,0,"Crouch, Swale","Gilson, Warwickshire",no longer needed
+2020-05-26T10:57:45+00:00,958935154,956999251,0,CommanderInDubio,Great Packington,v2.02 - [[WP:WCW]] project (Reference list missing)
+2020-05-16T13:43:44+00:00,956999251,956994184,0,98.243.51.84,Great Packington,+refs +links
+2020-09-08T21:38:51+00:00,977443213,971402009,0,Chris the speller,Maxstoke,/* Handley Page o/400 crash */replaced: onboard → on board
+2020-08-05T22:35:25+00:00,971402009,933955863,0,2A02:C7F:B8D4:5200:E48A:E16:FC74:503B,Maxstoke,/* Maxstoke Hill Challenge */Fixed typo
+2021-05-24T12:19:36+00:00,1024852855,1024852738,0,Dave.Dunford,Maxstoke,/* Handley Page o/400 crash */ main (and merge paras)
+2020-12-23T16:44:04+00:00,995926620,995925770,0,Materialscientist,Maxstoke,"Reverted edits by [[Special:Contributions/2.29.200.112|2.29.200.112]] ([[User talk:2.29.200.112|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.10)"
+2021-11-30T12:44:08+00:00,1057922162,1024852855,0,FieldOfWheat,Maxstoke,
+2020-01-03T22:58:50+00:00,933955863,932817187,0,213.205.242.1,Maxstoke,/* Maxstoke Hill Challenge */ Corrected mistake
+2020-12-06T01:27:10+00:00,992583480,977443213,0,Monkbot,Maxstoke,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 3 templates: del empty params (1×);
+2021-02-25T16:49:55+00:00,1008895176,951516276,0,Iridescent 2,Newton Regis,"/* top */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: a 15th century → a 15th-century (2), ’s → 's"
+2020-04-17T15:28:48+00:00,951516276,951084527,0,InternetArchiveBot,Newton Regis,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2022-01-11T22:32:19+00:00,1065113834,1008895176,0,162 etc.,Newton Regis,
+2020-03-23T03:41:16+00:00,946914378,922330312,0,Ser Amantio di Nicolao,Newton Regis,/* External links */add authority control
+2020-03-23T03:44:00+00:00,946914704,922222174,0,Ser Amantio di Nicolao,"No Man's Heath, Warwickshire",/* External links */add authority control
+2020-04-15T11:48:05+00:00,951084532,946914704,0,JJMC89 bot III,"No Man's Heath, Warwickshire",Moving [[:Category:North Warwickshire District]] to [[:Category:Borough of North Warwickshire]] per [[Wikipedia:Categories for discussion/Log/2020 March 19#Category:North Warwickshire District]]
+2021-06-30T15:32:59+00:00,1031249168,980954744,0,Owain,"No Man's Heath, Warwickshire",improve coordinates
+2022-04-29T14:08:18+00:00,1085273389,1085273368,0,Ingenuity,"Rugby, Warwickshire",Reverted edits by [[Special:Contributions/37.72.113.38|37.72.113.38]] ([[User talk:37.72.113.38|talk]]) ([[User:Ingenuity/AntiVandal|AV]])
+2020-04-11T01:55:51+00:00,950253490,949863156,0,Atsme,"Rugby, Warwickshire",fix miscapitalization (via [[WP:JWB]])
+2021-01-21T23:15:43+00:00,1001912104,1001912081,0,Darren-M,"Rugby, Warwickshire",Reverted edits by [[Special:Contributions/2A01:388:516:150:0:0:1:E6|2A01:388:516:150:0:0:1:E6]] ([[User talk:2A01:388:516:150:0:0:1:E6|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.10)
+2020-07-06T16:10:51+00:00,966349368,966320944,0,SovalValtos,"Rugby, Warwickshire",Undid revision 966320944 by [[Special:Contributions/2A00:23C6:5502:901:D6F:8DC7:E14:9698|2A00:23C6:5502:901:D6F:8DC7:E14:9698]] ([[User talk:2A00:23C6:5502:901:D6F:8DC7:E14:9698|talk]])Not cited even in linked article
+2021-10-25T18:50:43+00:00,1051811363,1051781526,0,Citation bot,"Rugby, Warwickshire",Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_new_bare_URL_refs | #UCB_webform_linked 1613/2185
+2020-06-08T19:40:15+00:00,961489942,961489369,0,ProcrastinatingReader,"Rugby, Warwickshire",Reverted 1 edit by [[Special:Contributions/2A00:23C7:551D:8100:7849:28E3:C35E:26AF|2A00:23C7:551D:8100:7849:28E3:C35E:26AF]] ([[User talk:2A00:23C7:551D:8100:7849:28E3:C35E:26AF|talk]]) to last revision by SovalValtos ([[WP:TW|TW]])
+2020-07-23T12:41:32+00:00,969106652,966349368,0,Mndata2,"Rugby, Warwickshire",/* Rugby today */Added link
+2021-11-20T21:51:21+00:00,1056285010,1051811363,0,Grand'mere Eugene,"Rugby, Warwickshire",/* Secondary */ redlinked school established in 2021
+2021-05-01T17:57:06+00:00,1020897484,1020762892,0,TheSandDoctor,"Rugby, Warwickshire","Removed protection from ""[[Rugby, Warwickshire]]"": Lifting old move-protection that is [[Wikipedia:UNPROTPOL|no longer necessary]], was protected full sysop. Can be restored if required (testing unprotection after 11-12 years)."
+2021-05-11T09:02:57+00:00,1022578082,1020897484,0,Lennart97,"Rugby, Warwickshire",Disambiguating links to [[Brandon Marsh]] (link changed to [[Brandon Marsh nature reserve]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-10-24T12:02:54+00:00,985173874,985173314,0,Romiley401,"Rugby, Warwickshire",/* Transport */Fixed typos
+2021-06-15T13:03:04+00:00,1028689682,1027931321,0,77.101.44.195,"Rugby, Warwickshire",/* Secondary */
+2022-04-09T10:09:30+00:00,1081737950,1081737271,0,SovalValtos,"Rugby, Warwickshire",Undid revision 1081737271 by [[Special:Contributions/213.122.234.174|213.122.234.174]] ([[User talk:213.122.234.174|talk]])Not lead material
+2021-08-21T15:49:08+00:00,1039922127,1038937458,0,209.93.109.33,"Rugby, Warwickshire",/* Primary */ Added missing school
+2021-12-11T09:02:19+00:00,1059739883,1056285010,0,Orenburg1,"Rugby, Warwickshire",sp
+2021-07-21T18:22:45+00:00,1034771288,1033856067,0,Ira Leviton,"Rugby, Warwickshire",Fixed a typo found with [[Wikipedia:Typo_Team/moss]].
+2022-03-02T23:01:02+00:00,1074922855,1074184663,0,Bleaney,"Rugby, Warwickshire",/* Secondary */ In Houlton not Rugby
+2021-11-11T18:36:00+00:00,1054718505,996204871,0,"Crouch, Swale",Seckington,not its self
+2020-11-07T17:05:44+00:00,987528471,971990659,0,Mndata2,Seckington,/* Parish church */Added link
+2022-01-11T22:35:47+00:00,1065114356,1054718505,0,162 etc.,Seckington,
+2020-08-09T15:03:32+00:00,971990659,951084546,0,AJP,Seckington,post town
+2020-03-26T14:39:22+00:00,947470606,867854011,0,Ser Amantio di Nicolao,Seckington,/* Sources */add authority control
+2020-04-15T11:48:09+00:00,951084546,947470606,0,JJMC89 bot III,Seckington,Moving [[:Category:North Warwickshire District]] to [[:Category:Borough of North Warwickshire]] per [[Wikipedia:Categories for discussion/Log/2020 March 19#Category:North Warwickshire District]]
+2020-12-25T03:39:49+00:00,996204871,994983277,0,Monkbot,Seckington,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 9 templates: del empty params (2×); hyphenate params (7×); del |ref=harv (3×);
+2020-10-30T10:59:16+00:00,986193948,986193837,0,Macncheese65,Shottery,
+2020-03-26T16:35:34+00:00,947486125,923649445,0,Ser Amantio di Nicolao,Shottery,/* External links */add authority control
+2021-06-18T20:35:24+00:00,1029254606,986193948,0,RoundSquare,Shottery,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Village in United Kingdom"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-01-15T18:21:10+00:00,1000574068,1000513701,0,146.198.65.22,St Michael's Leper Hospital,/* History */  Minor stylistic change for clarity.
+2022-02-13T09:31:14+00:00,1071580419,1000574068,0,JJMC89 bot III,St Michael's Leper Hospital,Moving [[:Category:Scheduled Ancient Monuments in Warwickshire]] to [[:Category:Scheduled monuments in Warwickshire]] per [[Wikipedia:Categories for discussion/Speedy]]
+2021-01-01T20:40:49+00:00,997701880,926644061,0,Monkbot,St Michael's Leper Hospital,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 6 templates: del empty params (18×); hyphenate params (3×);
+2019-11-17T19:51:14+00:00,926644061,876937575,0,Wbm1058,St Michael's Leper Hospital,more specific link to [[Heritage at Risk Register]] (via [[WP:JWB]])
+2021-05-30T20:27:59+00:00,1026000515,1026000495,0,ClueBot NG,Stratford-upon-Avon,"Reverting possible vandalism by [[Special:Contribs/2.28.176.72|2.28.176.72]] to version by 88.97.33.21. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3982982) (Bot)"
+2020-06-22T08:05:14+00:00,963868912,961062377,0,Abductive,Stratford-upon-Avon,Over-rounded coordinates pointed to the outskirts of town. Just use DMS.
+2022-04-15T19:55:03+00:00,1082901954,1080598852,0,GoingBatty,Stratford-upon-Avon,"[[WP:AWB/GF|General fixes]] & manual cleanup, replaced: ''[[Harry Potter]]'' film → ''[[Harry Potter (film series)|Harry Potter]]'' film, [[WP:AWB/T|typo(s) fixed]]: modern day → modern-day"
+2021-04-09T04:17:05+00:00,1016800298,1014413475,0,GoingBatty,Stratford-upon-Avon,[[WP:AWB/GF|General fixes]] and manual cleanup
+2021-09-08T01:01:03+00:00,1043031923,1042974677,0,Chong Yi Lam,Stratford-upon-Avon,
+2021-04-21T04:33:32+00:00,1019029872,1017942329,0,Olef641,Stratford-upon-Avon,/* Early history */ added thumbnail definition to allow understanding of term without having to leave the page
+2020-04-29T11:32:20+00:00,953853399,953853345,0,Wtmitchell,Stratford-upon-Avon,Reverted edits by [[Special:Contributions/86.161.165.101|86.161.165.101]] ([[User talk:86.161.165.101|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2021-10-02T13:01:39+00:00,1047765553,1047763721,0,Orangemike,Stratford-upon-Avon,removed spamlink
+2022-01-20T02:07:07+00:00,1066773222,1063710179,0,2.125.60.38,Stratford-upon-Avon,/* Music */
+2020-12-08T23:03:20+00:00,993127377,992219011,0,73.91.111.236,Stratford-upon-Avon,/* See also */
+2021-07-04T16:25:11+00:00,1031940679,1031904010,0,Tide rolls,Stratford-upon-Avon,format
+2020-10-27T15:42:15+00:00,985721578,984909222,0,The Madras,Stratford-upon-Avon,
+2021-11-04T23:03:22+00:00,1053611989,1051775786,0,2A00:23C5:E187:5F00:7C48:4023:E372:DF2F,Stratford-upon-Avon,Southernmost is a word
+2021-10-12T14:50:27+00:00,1049560569,1049560472,0,CXC922,Stratford-upon-Avon,
+2022-02-03T19:23:04+00:00,1069725901,1069039470,0,Iridescent 2,Stratford-upon-Avon,"/* Sport */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: 2012/3 → 2012–3"
+2020-11-21T19:10:42+00:00,989913351,985721578,0,Citation bot,Stratford-upon-Avon,Alter: url. URLs might have been internationalized/anonymized. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox2 | via #UCB_webform_linked 499/3680
+2020-12-27T07:15:27+00:00,996548943,993127377,0,Monkbot,Stratford-upon-Avon,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 91 templates: hyphenate params (94×);
+2020-09-26T19:26:56+00:00,980480586,979002843,0,Citation bot,Stratford-upon-Avon,"Alter: url, template type, title. Add: isbn. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox2 | via #UCB_webform_linked"
+2020-03-25T12:56:13+00:00,947289741,942584771,0,82.29.91.168,Stratford-upon-Avon,/* Notable people */
+2021-10-21T00:02:02+00:00,1050979591,1049560569,0,Citation bot,Stratford-upon-Avon,"Alter: isbn, template type. Add: date, work, title. Changed bare reference to CS1/2. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 1339/2191"
+2021-05-09T17:01:27+00:00,1022286922,1022286516,0,86.9.96.54,Stratford-upon-Avon,
+2022-01-04T14:01:28+00:00,1063710179,1061271563,0,Bleaney,Stratford-upon-Avon,/* Education */ Stratford-upon-Avon School
+2021-07-22T12:25:25+00:00,1034897156,1031940679,0,86.171.69.174,Stratford-upon-Avon,"Correct ""Stratford upon Avon district"" to ""Stratford-on-Avon district"""
+2021-12-11T15:42:27+00:00,1059778021,1058435477,0,PrimeBOT,Stratford-upon-Avon,[[User:PrimeBOT/24|Task 24]]: template update following [[Wikipedia:Templates_for_discussion/Log/2021_August_26|a TFD]]
+2021-02-12T16:25:49+00:00,1006385068,1006372473,0,Ohnoitsjamie,Stratford-upon-Avon,Reverted edits by [[Special:Contribs/136.232.2.202|136.232.2.202]] ([[User talk:136.232.2.202|talk]]) to last version by KJP1
+2021-10-25T14:51:12+00:00,1051775786,1050979591,0,Wikignome Wintergreen,Stratford-upon-Avon,/* Sport */ Removed inappropriate external link
+2020-06-01T18:16:31+00:00,960209564,960209462,0,82.29.91.168,Stratford-upon-Avon,/* Sheep Street */
+2021-08-30T15:50:29+00:00,1041446600,1040846541,0,JoeNMLC,Stratford-upon-Avon,"/* Sport */ add Adventure Bike Rider, wikilink, info."
+2021-03-21T19:38:50+00:00,1013466804,1013465395,0,Envysan,Stratford-upon-Avon,Reverted 2 edits by [[Special:Contributions/2A00:23C7:DE99:4301:304A:D7D0:BE3C:8655|2A00:23C7:DE99:4301:304A:D7D0:BE3C:8655]] ([[User talk:2A00:23C7:DE99:4301:304A:D7D0:BE3C:8655|talk]]) to last revision by Wikignome Wintergreen
+2022-05-27T00:09:40+00:00,1090032640,1087114396,0,79.76.167.138,Stratford-upon-Avon,/* Demography */
+2021-11-24T04:35:54+00:00,1056886145,1053611989,0,2.96.59.116,Stratford-upon-Avon,
+2020-08-24T17:10:12+00:00,974726273,974713600,0,Dormskirk,Stratford-upon-Avon,/* Local government */ punctuation
+2020-08-18T18:42:06+00:00,973701643,973613125,0,2.29.200.21,Stratford-upon-Avon,/* Transport */Added content
+2020-05-09T22:32:37+00:00,955807431,954882122,0,GreenC bot,Stratford-upon-Avon,Reformat 2 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-05-04T19:52:45+00:00,954882478,906915223,0,Orangemike,Talk:Stratford-upon-Avon,/* This is not a shoppers' guide */ new section
+2019-07-19T05:12:29+00:00,906915223,906888206,0,Djm-leighpark,Talk:Stratford-upon-Avon,/* I have a question regarding one of the sources */ hmmm
+2020-12-25T19:42:41+00:00,996305096,986258594,0,Monkbot,"Tiddington, Warwickshire",[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 3 templates: del empty params (1×); hyphenate params (2×);
+2020-03-27T01:52:09+00:00,947561748,944226015,0,Ser Amantio di Nicolao,"Tiddington, Warwickshire",/* External links */add authority control
+2020-07-28T17:23:47+00:00,970003081,969452397,0,Flowerpot7890,"Tiddington, Warwickshire",
+2020-10-30T19:14:24+00:00,986258594,978090497,0,Bellowhead678,"Tiddington, Warwickshire",restauant->restaurant - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2020-09-12T20:53:14+00:00,978090497,970003081,0,2A00:23C7:7D8A:AE00:D0F1:D7B1:3B7C:7DD8,"Tiddington, Warwickshire",syntax and factual correction
+2021-02-06T19:12:03+00:00,1005249582,1005249012,0,Mondayudowong,User talk:Bilorv,
+2022-02-17T21:00:25+00:00,1072455155,1072454377,0,Serial Number 54129,User talk:Bilorv,/* New TV article */ re
+2020-07-11T07:21:03+00:00,967117523,966933145,0,Harrias,User talk:Bilorv,/* April–May 2020 GAN Backlog drive */ new section
+2021-08-04T18:01:32+00:00,1037131809,1037096546,0,BusterD,User talk:Bilorv,/* Thank you for participating in my recent RFA */ new section
+2022-01-22T19:40:21+00:00,1067304569,1067299794,0,Usernameunique,User talk:Bilorv,/* WikiCup & the Good Article Nomination Backlog Drive */ new section
+2020-05-04T01:01:02+00:00,954731896,954307952,0,FastilyBot,User talk:Bilorv,BOT: Notify user of FfD
+2020-04-18T09:53:57+00:00,951680829,951600223,0,Damien Linnane,User talk:Bilorv,/* Triple Crown */ request for input
+2022-03-18T18:29:20+00:00,1077883374,1077715103,0,FastWolfPanther,User talk:Bilorv,"/* Question from FastWolfPanther (18:53, 12 March 2022) */ Reply"
+2020-04-01T03:44:48+00:00,948457944,948449140,0,BlueMoonset,User talk:Bilorv,/* DYK for Prof: Alan Turing Decoded */ four dots should be three dots in hook
+2021-12-26T01:38:13+00:00,1062065677,1062062786,0,Espresso Addict,User talk:Bilorv,/* On adminship... */ new section
+2022-01-07T19:42:39+00:00,1064323874,1064322361,0,Rathfelder,User talk:Bilorv,/* Penelope Lea */
+2020-05-31T17:01:40+00:00,960001545,959913043,0,Legobot,User talk:Bilorv,/* Your [[WP:GA|GA]] nomination of [[The 1975 (2019 song)]] */ new section
+2021-01-18T05:57:05+00:00,1001092165,1000930929,0,Rajveer90,User talk:Bilorv,/* Why my draft of book Why does a man rape is declined? */
+2020-08-25T01:22:02+00:00,974788695,971377486,0,Giants2008,User talk:Bilorv,/* TFL notification */ new section
+2021-09-15T19:11:56+00:00,1044534896,1044534335,0,165.73.228.154,User talk:Bilorv,
+2020-05-31T21:41:04+00:00,960050029,960001545,0,Legobot,User talk:Bilorv,/* Your [[WP:GA|GA]] nomination of [[The 1975 (2019 song)]] */ new section
+2022-04-01T23:27:26+00:00,1080554481,1080197075,0,Theleekycauldron,User talk:Bilorv,your hook is on the stats page!
+2020-12-20T16:26:35+00:00,995356974,995354921,0,J.Turner99,User talk:Bilorv,/* Beyond Order */ reply—thank you
+2020-06-06T14:06:28+00:00,961081525,961064445,0,Reidgreg,User talk:Bilorv,/* Million Awards */ new section
+2021-07-12T12:41:26+00:00,1033233756,1033164432,0,Legobot,User talk:Bilorv,/* Your [[WP:GA|GA]] nomination of [[Pickle Rick]] */ new section
+2020-04-02T12:32:15+00:00,948683233,948587526,0,Damien Linnane,User talk:Bilorv,"/* Triple Crown */ reply, thanks"
+2021-04-17T02:14:08+00:00,1018255109,1018252320,0,Aoba47,User talk:Bilorv,/* Question about television episode citations */ Never mind. I believe that I have located a good source for this.
+2021-05-02T10:27:22+00:00,1021003696,1020964522,0,MediaWiki message delivery,User talk:Bilorv,/* WikiCup 2021 May newsletter */ new section
+2021-04-21T13:15:56+00:00,1019088823,1019088534,0,Eddie891,User talk:Bilorv,/* Adminship */ Replying to Samwalton9 (using [[w:en:User:Enterprisey/reply-link|reply-link]])
+2021-03-10T19:27:47+00:00,1011414407,1011412107,0,J.Turner99,User talk:Bilorv,
+2021-04-04T11:02:30+00:00,1015925923,1015677564,0,SoWhy,User talk:Bilorv,DYK notification
+2021-12-16T15:28:24+00:00,1060607251,1060607181,0,CreecregofLife,User talk:Bilorv,/* Reverting and notability */
+2020-11-03T12:02:13+00:00,986858383,986854898,0,DYKUpdateBot,User talk:Bilorv,Giving DYK credit for [[David Attenborough: A Life on Our Planet]] on behalf of [[User:Amakuru|Amakuru]]
+2020-07-25T00:02:10+00:00,969365770,968755165,0,DYKUpdateBot,User talk:Bilorv,Giving DYK credit for [[Natives: Race and Class in the Ruins of Empire]] on behalf of [[User:Cwmhiraeth|Cwmhiraeth]]
+2021-07-21T15:26:17+00:00,1034744744,1034740593,0,-ink&fables,User talk:Bilorv,"/* Harry Potter characters' infobox (house) */reply, thank you"
+2021-04-01T01:54:41+00:00,1015366553,1014886251,0,Robert McClenon,User talk:Bilorv,/* Draft:Happiness Ever After */ new section
+2021-11-02T15:55:17+00:00,1053213524,1053213279,0,Bazza 7,User talk:Robin75aw,/* Overlinking */ correction
+2021-11-23T01:05:35+00:00,1056694163,1053213524,0,MediaWiki message delivery,User talk:Robin75aw,/* ArbCom 2021 Elections voter message */ new section
+2021-10-08T16:24:13+00:00,1048896772,1048608039,0,PerpetuityGrat,User talk:Robin75aw,/* Edit summaries */ reply
+2022-03-26T10:43:28+00:00,1079362345,1078786450,0,Belbury,User talk:Robin75aw,/* Manual of style */
+2022-02-13T17:20:26+00:00,1071648479,1068133101,0,MIDI,User talk:Robin75aw,/* Manual of style */ new section
+2021-09-19T11:22:48+00:00,1045204536,1045200348,0,Dave.Dunford,User talk:Robin75aw,/* MOS:BOLDLEAD */ new section
+2021-12-13T06:01:19+00:00,1060057333,1056694163,0,DPL bot,User talk:Robin75aw,dablink notification message (see the [[User:DPL bot/Dablink notification FAQ|FAQ]])
+2022-03-28T12:15:42+00:00,1079749400,1079666741,0,Belbury,User talk:Robin75aw,/* Preview button */
+2022-02-16T20:50:04+00:00,1072272227,1072269097,0,MIDI,User talk:Robin75aw,/* Manual of style */ r
+2022-03-23T09:23:45+00:00,1078786450,1072272227,0,Belbury,User talk:Robin75aw,/* Manual of style */
+2020-07-15T11:55:12+00:00,967802736,967702621,0,Bmcln1,Warwick,/* History */
+2020-10-21T22:03:25+00:00,984753668,984753618,0,Bmcln1,Warwick,/* Rail */
+2021-02-25T02:51:10+00:00,1008797579,1008797563,0,Thegreatluigi,Warwick,Reverted edits by [[Special:Contribs/LordMcPoopBut|LordMcPoopBut]] ([[User talk:LordMcPoopBut|talk]]) to last version by Asukite
+2020-06-14T04:18:20+00:00,962450986,960385818,0,BHGbot,Warwick,[[WP:BHGbot 6]] ([[User:BHGbot/6/List 3|List 3]]): fixed sort key; [[WP:GENFIXES]]
+2020-11-10T03:29:03+00:00,987938761,987938682,0,Dmartin969,Warwick,Reverted 1 edit by [[Special:Contributions/85.255.237.156|85.255.237.156]] ([[User talk:85.255.237.156|talk]]) to last revision by Lereinbied
+2022-04-04T21:52:51+00:00,1081030379,1081030296,0,Dormskirk,Warwick,link
+2020-08-13T23:28:14+00:00,972819013,972810399,0,Bmcln1,Warwick,Really that's not English at all. Get some help if you really think those stores need naming. I don't.
+2021-11-06T22:01:29+00:00,1053918605,1053252083,0,Citation bot,Warwick,Alter: title. Add: issue. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_new_bare_URL_refs | #UCB_webform_linked 2049/2131
+2020-05-06T21:46:20+00:00,955271629,955271242,0,31.52.74.140,Warwick,/* Culture */ amended tense for past event
+2020-03-18T20:00:56+00:00,946211787,946209281,0,Bmcln1,Warwick,Lead tightened (one par is normal for Lead)
+2021-04-22T20:44:39+00:00,1019348752,1019347993,0,Bmcln1,Warwick,
+2021-01-05T21:26:49+00:00,998541663,998525818,0,Bmcln1,Warwick,18th century trimmed; consistent ref caps and spacing
+2021-07-30T20:39:56+00:00,1036322713,1022261200,0,Ira Leviton,Warwick,"Deleted a duplicate ""the"" and reduced ALLCAPS.  Please see [[Wikipedia:Manual_of_Style/Capital_letters#All_caps_and_small_caps]]."
+2020-11-02T00:59:27+00:00,986625745,984753668,0,Lereinbied,Warwick,/* Air */ Birmingham Airport
+2021-12-08T21:30:50+00:00,1059335125,1059195453,0,Citation bot,Warwick,"Alter: url. URLs might have been anonymized. Add: archive-date, archive-url. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_webform 586/612"
+2021-11-02T20:37:52+00:00,1053252083,1051290543,0,Vauxford,Warwick,"Revert change done on 18th September 2020. I disagree although interesting photo of it in 2004, the one I photographed shows way more details and shows the full of the spire and the clock face as well as not having the traffic lights and car protruding the shot. If disagree, discuss it on the talk page."
+2021-05-09T13:53:21+00:00,1022261200,1022237041,0,Bmcln1,Warwick,Ref spacing
+2022-02-03T19:12:01+00:00,1069724145,1065686899,0,Iridescent 2,Warwick,"/* Economy */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: north-south → north–south, east-west → east–west"
+2021-02-01T12:24:41+00:00,1004181537,1004180700,0,Fieryninja,Warwick,Undid revision 1004180700 by [[Special:Contributions/2A00:23C4:9604:2C00:39A8:F4AA:AC07:8FDB|2A00:23C4:9604:2C00:39A8:F4AA:AC07:8FDB]] ([[User talk:2A00:23C4:9604:2C00:39A8:F4AA:AC07:8FDB|talk]])reverting vandalism
+2020-12-12T00:37:10+00:00,993697684,987938761,0,Monkbot,Warwick,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 49 templates: del empty params (1×); hyphenate params (57×); del |url-status= (1×);
+2021-10-01T11:02:57+00:00,1047548863,1047500564,0,Bmcln1,Warwick,Condensed lead
+2020-06-02T17:31:54+00:00,960385818,955271629,0,Wheatbreadsauce,Warwick,Quick respell addition
+2021-01-17T21:56:18+00:00,1001022318,1000360914,0,151.82.135.57,Warwick,/ɒr/ = orr
+2021-12-08T00:57:57+00:00,1059195453,1058879193,0,Vauxford,Warwick,Undid revision 1058451722 by [[Special:Contributions/G-13114|G-13114]] ([[User talk:G-13114|talk]]) Take it to discussion on the talk page.
+2020-09-18T13:48:16+00:00,979051629,979045766,0,Sirhissofloxley,Warwick,/* Landmarks */ Wikilink to Market Square
+2022-01-14T19:27:26+00:00,1065686899,1065140193,0,Citation bot,Warwick,"Alter: template type. Add: work, date. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Anas1712 | #UCB_webform 1509/2055"
+2021-12-02T11:24:45+00:00,1058252908,1058227198,0,Waering,Warwick,/* Saxon and medieval */ fixing spelling and simplifying language in the etymological hypotheses
+2022-01-01T19:31:51+00:00,1063188394,1062882647,0,95.149.9.98,Warwick,/* Suburbs */
+2020-04-08T11:04:53+00:00,949759314,947713121,0,Thegeographer14,Whitnash,/* Education */ Added politics
+2020-12-02T02:27:51+00:00,991840544,973519264,0,Monkbot,Whitnash,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 8 templates: del empty params (8×); hyphenate params (2×); del |url-status= (1×);
+2021-03-15T01:13:02+00:00,1012179373,1005240476,0,DragonofBatley,Whitnash,
+2021-02-06T18:08:13+00:00,1005240476,1005239918,0,2.28.34.165,Whitnash,
+2022-02-16T18:36:56+00:00,1072252744,1072250420,0,Bsoyka,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/89.230.81.233|89.230.81.233]].
+2020-09-16T23:30:33+00:00,978790245,978790157,0,GPL93,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/Thembakha|Thembakha]].
+2021-02-01T09:32:31+00:00,1004157842,1004156412,0,DoebLoggs,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/37.111.5.224|37.111.5.224]].
+2022-02-19T11:32:07+00:00,1072772461,1072770988,0,Widr,Wikipedia:Administrator intervention against vandalism,/* User-reported */ clear
+2021-07-21T02:56:35+00:00,1034648709,1034648685,0,GeneralNotability,Wikipedia:Administrator intervention against vandalism,"rm 2003:D1:71C:3E69:C508:89CC:8D13:65D6, blocked the /64"
+2021-05-04T06:47:57+00:00,1021347110,1021347000,0,HurricaneEdgar,Wikipedia:Administrator intervention against vandalism,rm restore
+2022-01-10T02:00:44+00:00,1064756262,1064755549,0,MDanielsBot,Wikipedia:Administrator intervention against vandalism,"BOT: Removing Stale AIV Reports. [[Wikipedia:Bots/Requests_for_approval/MDanielsBot 4|BRFA]]. Stale time is at 4.6 hours, see [[User:SQL/AIVStale|Explanation]]."
+2020-10-30T09:52:34+00:00,986187710,986187329,0,Curbon7,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/Carrlynpatrice|Carrlynpatrice]].
+2020-10-20T01:22:26+00:00,984425009,984424627,0,180.243.208.98,Wikipedia:Administrator intervention against vandalism,/* User-reported */rmv
+2021-12-16T14:53:49+00:00,1060602552,1060602537,0,Citobun,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/219.76.24.209|219.76.24.209]].
+2020-07-08T05:43:53+00:00,966625689,966624631,0,DannyS712,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/COVWars 1|COVWars 1]]. ([[WP:TW|TW]])
+2021-02-11T23:58:04+00:00,1006268778,1006267504,0,Knuthove,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/125.215.181.1|125.215.181.1]].
+2021-01-25T11:12:26+00:00,1002637680,1002637331,0,Isochrone,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/2A02:C7F:8CAC:C000:A8A0:7EA5:9C39:6AE6|2A02:C7F:8CAC:C000:A8A0:7EA5:9C39:6AE6]] [[w:en:WP:RW|(RW 16)]]
+2020-08-11T08:13:28+00:00,972290259,972290043,0,Cahk,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/Metro FM 90.5 Sunyani|Metro FM 90.5 Sunyani]]. ([[WP:TW|TW]])
+2021-05-10T07:20:29+00:00,1022389172,1022389072,0,MDanielsBot,Wikipedia:Administrator intervention against vandalism,"BOT: Removing Stale AIV Reports. [[Wikipedia:Bots/Requests_for_approval/MDanielsBot 4|BRFA]]. Stale time is at 7.3 hours, see [[User:SQL/AIVStale|Explanation]]."
+2020-07-11T00:51:29+00:00,967078905,967076827,0,Zinnober9,Wikipedia:Administrator intervention against vandalism,/* User-reported */ Soon would be nice!
+2020-07-14T17:06:49+00:00,967680752,967680690,0,71.234.37.237,Wikipedia:Administrator intervention against vandalism,/* User-reported */ removing since user was warned
+2021-09-21T07:20:17+00:00,1045567927,1045567270,0,MDanielsBot,Wikipedia:Administrator intervention against vandalism,"BOT: Removing Stale AIV Reports. [[Wikipedia:Bots/Requests_for_approval/MDanielsBot 4|BRFA]]. Stale time is at 7.2 hours, see [[User:SQL/AIVStale|Explanation]]."
+2021-08-26T18:12:18+00:00,1040793972,1040793075,0,Jan Myšák,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/CaptionL!$T$|CaptionL!$T$]].
+2020-07-30T02:44:04+00:00,970234758,970234714,0,2601:188:180:B8E0:65F5:930C:B0B2:CD63,Wikipedia:Administrator intervention against vandalism,/* User-reported */ add
+2021-05-23T04:28:19+00:00,1024605786,1024604379,0,Run n Fly,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/BaneOfVariants|BaneOfVariants]].
+2022-04-23T21:08:52+00:00,1084326089,1084325558,0,Binksternet,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/200.82.113.162|200.82.113.162]].
+2021-06-23T03:44:22+00:00,1029970895,1029970804,0,General Ization,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/2001:8003:360F:C700:781E:DD67:CC24:CFAB|2001:8003:360F:C700:781E:DD67:CC24:CFAB]].
+2022-02-08T19:52:57+00:00,1070695655,1070693985,0,DanielRigal,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/Dave wolf544|Dave wolf544]].
+2022-04-10T01:16:33+00:00,1081843935,1081843851,0,Dizzyflamingo,Wikipedia:Administrator intervention against vandalism,/* User-reported */ Reply
+2021-10-17T04:02:32+00:00,1050319946,1050319134,0,106.69.33.39,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2022-01-14T03:57:26+00:00,1065551087,1065546825,0,Baseball Bugs,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2021-11-25T05:18:37+00:00,1057057439,1057057420,0,TornadoLGS,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2021-08-16T14:26:23+00:00,1039074004,1039072869,0,TheAmazingPeanuts,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2022-02-21T19:26:27+00:00,1073251045,1073247410,0,3PPYB6,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/62.255.238.146|62.255.238.146]] [[w:en:WP:RW|(RW 16.1)]]
+2020-07-26T07:30:38+00:00,969571961,969571199,0,DannyS712,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/Wack the Crazy|Wack the Crazy]]. ([[WP:TW|TW]])
+2021-06-13T04:14:27+00:00,1028299616,1028299572,0,FMSky,Wikipedia:Administrator intervention against vandalism,
+2021-02-17T05:41:06+00:00,1007261319,1007261182,0,Robertsky,Wikipedia:Administrator intervention against vandalism,/* User-reported */ extended block request
+2022-05-16T02:49:17+00:00,1088081401,1088080494,0,Chip3004,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2020-08-10T05:52:41+00:00,972106701,972104149,0,Kami2018,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/W28394|W28394]]. ([[WP:TW|TW]])
+2020-04-22T23:33:49+00:00,952573600,952573117,0,LizardJr8,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/2601:58C:4300:CC0:D83:C41C:3863:B821|2601:58C:4300:CC0:D83:C41C:3863:B821]]. ([[WP:TW|TW]])
+2022-05-03T13:06:29+00:00,1085973618,1085973414,0,MrOllie,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/74.115.140.141|74.115.140.141]].
+2020-06-17T05:49:50+00:00,962996372,962994270,0,LSGH,Wikipedia:Administrator intervention against vandalism,Adding report for [[Special:Contributions/Seandaviswiki|Seandaviswiki]]
+2021-02-04T14:45:58+00:00,1004813377,1004812439,0,Citobun,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2021-03-24T22:15:15+00:00,1014050647,1014050538,0,Crboyer,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2020-11-02T11:18:45+00:00,986686149,986683985,0,Maile66,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2020-04-15T11:48:19+00:00,951084566,947716614,0,JJMC89 bot III,"Wood End, Kingsbury, Warwickshire",Moving [[:Category:North Warwickshire District]] to [[:Category:Borough of North Warwickshire]] per [[Wikipedia:Categories for discussion/Log/2020 March 19#Category:North Warwickshire District]]
+2020-11-29T00:01:36+00:00,991229228,951084566,0,Thirdman,"Wood End, Kingsbury, Warwickshire",/* Governance */ Brexit
+2021-03-14T15:11:54+00:00,1012090003,991229228,0,2A02:C7F:7AA1:A200:9C8B:66A:2544:5500,"Wood End, Kingsbury, Warwickshire",incorrect MP listed. changed to Craig tracey
+2021-10-29T09:33:21+00:00,1052468861,1051916616,0,Pi bot,"Wood End, Kingsbury, Warwickshire","Updating the Commons category from ""Category:Wood End, Atherstone"" to ""Category:Wood End, Kingsbury"" to avoid a category redirect"
+2021-10-24T22:21:53+00:00,1051670949,1012090003,0,Bruce1ee,"Wood End, Kingsbury, Warwickshire",fixed [[Special:LintErrors|lint errors]] – links in links
+2020-03-28T01:23:31+00:00,947716614,935113718,0,Ser Amantio di Nicolao,"Wood End, Kingsbury, Warwickshire",add authority control
+2021-10-26T09:29:15+00:00,1051916616,1051670949,0,"Crouch, Swale","Wood End, Kingsbury, Warwickshire",/* External links */ RM incorrect categories

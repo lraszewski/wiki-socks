@@ -1,0 +1,460 @@
+timestamp,revid,parentid,sock,user,page,message
+2020-05-26T16:32:23+00:00,958986501,958986360,1,Invisiblehovercraft,Being Ian,
+2020-05-26T16:31:31+00:00,958986360,958986149,1,Invisiblehovercraft,Being Ian,
+2020-05-26T16:30:10+00:00,958986149,957411475,1,Invisiblehovercraft,Being Ian,
+2020-05-26T16:23:34+00:00,958985095,958984779,1,Invisiblehovercraft,Larryboy: The Cartoon Adventures,
+2020-05-26T16:21:42+00:00,958984779,958984633,1,Invisiblehovercraft,Larryboy: The Cartoon Adventures,
+2020-05-26T16:20:47+00:00,958984633,958910690,1,Invisiblehovercraft,Larryboy: The Cartoon Adventures,
+2020-05-26T16:17:39+00:00,958984121,958984052,1,Invisiblehovercraft,Big Idea Entertainment,
+2020-05-26T16:17:14+00:00,958984052,958983851,1,Invisiblehovercraft,Big Idea Entertainment,
+2020-05-26T16:15:59+00:00,958983851,958983664,1,Invisiblehovercraft,Big Idea Entertainment,
+2020-05-26T16:14:51+00:00,958983664,958061193,1,Invisiblehovercraft,Big Idea Entertainment,
+2020-05-26T16:13:32+00:00,958983430,958983218,1,Invisiblehovercraft,Phil Vischer,
+2020-05-26T16:12:15+00:00,958983218,955679519,1,Invisiblehovercraft,Phil Vischer,
+2020-05-26T16:10:39+00:00,958982988,958982019,1,Invisiblehovercraft,VeggieTales,
+2020-05-26T16:05:14+00:00,958982019,958227434,1,Invisiblehovercraft,VeggieTales,
+2020-05-26T15:58:19+00:00,958980681,958978196,1,Invisiblehovercraft,Wayside (TV series),
+2020-05-26T15:43:32+00:00,958978196,958973412,1,Invisiblehovercraft,Wayside (TV series),/* Season 1 (2007) */
+2020-05-26T15:15:07+00:00,958973412,958973320,1,Invisiblehovercraft,Wayside (TV series),/* Season 1 (2007) */
+2020-05-26T15:14:34+00:00,958973320,958973160,1,Invisiblehovercraft,Wayside (TV series),/* Season 1 (2007) */
+2020-05-26T15:13:33+00:00,958973160,958972778,1,Invisiblehovercraft,Wayside (TV series),/* Season 1 (2007) */
+2020-05-26T15:11:08+00:00,958972778,958972513,1,Invisiblehovercraft,Wayside (TV series),
+2020-05-26T15:09:20+00:00,958972513,957738579,1,Invisiblehovercraft,Wayside (TV series),
+2020-05-26T15:04:01+00:00,958971666,958924908,1,Invisiblehovercraft,Naked Angels,
+2020-05-27T18:17:36+00:00,959222516,959222305,1,2LG,The Fairly OddParents season 6,
+2020-05-27T18:16:23+00:00,959222305,959221775,1,2LG,The Fairly OddParents season 6,
+2020-05-27T18:13:16+00:00,959221775,959220111,1,2LG,The Fairly OddParents season 6,
+2020-05-27T18:04:29+00:00,959220111,949553054,1,2LG,The Fairly OddParents season 6,
+2020-05-27T17:54:46+00:00,959218265,959216674,1,2LG,Superbook (1981 TV series),
+2020-05-27T17:46:07+00:00,959216674,959216559,1,2LG,Superbook (1981 TV series),/* Series 5 (2019–present) */
+2020-05-27T17:45:28+00:00,959216559,959215259,1,2LG,Superbook (1981 TV series),
+2020-05-27T17:38:43+00:00,959215259,958407691,1,2LG,Superbook (1981 TV series),
+2020-05-27T12:27:09+00:00,959161558,958834058,1,2LG,Jonah: A VeggieTales Movie,
+2020-05-27T12:07:38+00:00,959158872,957032532,1,2LG,Cartoon Pizza,
+2020-05-27T11:54:53+00:00,959157129,958889980,1,2LG,John C. Tarsney,
+2020-05-27T11:48:10+00:00,959156244,959156194,1,2LG,Bekhudi,
+2020-05-27T11:47:47+00:00,959156194,959089253,1,2LG,Bekhudi,
+2020-05-27T11:40:52+00:00,959155268,959132457,1,2LG,Thalaivankottai,
+2020-05-27T11:37:57+00:00,959154873,959117712,1,2LG,André Jolles,
+2020-05-27T11:26:27+00:00,959153348,959153279,1,2LG,Merz Akademie,
+2020-05-27T11:25:57+00:00,959153279,959057447,1,2LG,Merz Akademie,
+2020-06-04T15:37:57+00:00,960726587,960724555,1,Devourcomm,Boston Market,
+2020-06-04T15:32:17+00:00,960725710,960725610,1,Devourcomm,Arthur Cores,
+2020-06-04T15:31:43+00:00,960725610,919446435,1,Devourcomm,Arthur Cores,
+2020-06-04T15:24:09+00:00,960724555,960390767,1,Devourcomm,Boston Market,
+2020-06-03T22:11:17+00:00,960608719,960590932,1,Devourcomm,Pizza,
+2020-06-03T22:08:30+00:00,960608422,958075281,1,Devourcomm,Barbecue sauce,
+2020-06-03T21:39:57+00:00,960604769,960195387,1,Devourcomm,Hot dog,
+2020-06-03T21:38:45+00:00,960604589,960597837,1,Devourcomm,French fries,
+2020-06-03T21:36:02+00:00,960604240,912949620,1,Devourcomm,Chicken fingers,
+2020-06-03T21:33:33+00:00,960603911,960498011,1,Devourcomm,Ketchup,
+2020-06-03T21:27:56+00:00,960603186,956650906,1,Devourcomm,Chocolate ice cream,
+2020-06-03T21:17:07+00:00,960601778,955798094,1,Devourcomm,Chocolate chip cookie,
+2020-06-03T21:14:44+00:00,960601433,957133995,1,Devourcomm,Chocolate cake,
+2020-06-03T21:11:06+00:00,960600931,959438432,1,Devourcomm,Apple pie,
+2020-06-03T21:08:14+00:00,960600521,949030476,1,Devourcomm,Cherry pie,
+2020-06-03T21:05:13+00:00,960600070,955612397,1,Devourcomm,Pie,
+2020-06-03T20:59:33+00:00,960599250,958847699,1,Devourcomm,Keebler Company,
+2020-06-03T20:51:59+00:00,960598051,959633185,1,Devourcomm,Nido (brand),
+2020-06-03T20:49:33+00:00,960597704,958590885,1,Devourcomm,Nesquik,
+2020-06-03T20:47:45+00:00,960597436,956548034,1,Devourcomm,Peter Pan (peanut butter),
+2020-06-03T20:42:22+00:00,960596629,959691724,1,Devourcomm,Skippy (peanut butter),
+2020-06-03T20:37:29+00:00,960595929,960458331,1,Devourcomm,Peanut butter,
+2020-06-03T20:29:47+00:00,960594739,959329751,1,Devourcomm,Falafel,
+2020-06-03T20:20:06+00:00,960593311,952881841,1,Devourcomm,Burrito,
+2020-06-03T20:17:23+00:00,960592884,959661437,1,Devourcomm,Quesadilla,
+2020-06-03T20:13:42+00:00,960592332,954957864,1,Devourcomm,Taco,
+2020-06-03T20:05:48+00:00,960591132,952023333,1,Devourcomm,Cheesecake,
+2020-06-03T19:56:23+00:00,960589640,956190013,1,Devourcomm,Chicken as food,
+2020-06-03T19:51:28+00:00,960588967,959802642,1,Devourcomm,Spaghetti,
+2020-06-03T19:48:29+00:00,960588503,960588017,1,Devourcomm,Pizza,
+2020-06-03T19:45:13+00:00,960588017,959245376,1,Devourcomm,Pizza,
+2020-06-03T19:18:50+00:00,960583758,960397996,1,Devourcomm,Mayonnaise,
+2020-06-03T19:16:45+00:00,960583451,960490388,1,Devourcomm,French fries,
+2020-06-03T19:14:39+00:00,960583142,959798897,1,Devourcomm,Pickled cucumber,
+2020-06-03T18:57:50+00:00,960580649,952758382,1,Devourcomm,Cheeseburger,Cheeseburger
+2020-06-03T18:44:28+00:00,960578708,959617018,1,Devourcomm,Lasagna,
+2020-06-03T18:29:16+00:00,960576507,960575661,1,Devourcomm,9 Story USA,
+2020-06-03T18:23:25+00:00,960575661,960575420,1,Devourcomm,9 Story USA,
+2020-06-03T18:21:47+00:00,960575420,960090146,1,Devourcomm,9 Story USA,
+2020-06-03T14:51:45+00:00,960544663,960542154,1,Devourcomm,Sega,
+2020-06-03T00:26:19+00:00,960442487,960442111,1,Devourcomm,Universal Kids,/* As Universal Kids (2017–present) */
+2020-06-03T00:23:08+00:00,960442111,960440344,1,Devourcomm,Universal Kids,/* As PBS Kids Sprout/Sprout (2005–2017) */
+2020-06-03T00:09:05+00:00,960440290,960440173,1,Devourcomm,Universal Kids,
+2020-06-03T00:08:26+00:00,960440173,958780307,1,Devourcomm,Universal Kids,
+2020-06-03T00:00:08+00:00,960438782,951999089,1,Devourcomm,"Paws, Inc.",
+2020-06-02T23:50:53+00:00,960437549,960095188,1,Devourcomm,"Aventura, Florida",
+2020-06-02T23:22:58+00:00,960434187,960417661,1,Devourcomm,Tri-Rail,
+2020-05-31T22:21:30+00:00,960055905,960055834,1,Devourcomm,Cocoa Puffs,
+2020-05-31T22:21:05+00:00,960055834,960055266,1,Devourcomm,Cocoa Puffs,
+2020-05-31T22:17:18+00:00,960055266,954691813,1,Devourcomm,Cocoa Puffs,
+2020-05-31T22:14:15+00:00,960054781,960054642,1,Devourcomm,Mickey Mouse Clubhouse (season 4),
+2020-05-31T22:13:17+00:00,960054642,952913914,1,Devourcomm,Mickey Mouse Clubhouse (season 4),/* Episodes */
+2020-05-31T22:07:31+00:00,960053820,960053625,1,Devourcomm,Mickey Mouse Clubhouse,
+2020-05-31T22:06:13+00:00,960053625,960052363,1,Devourcomm,Mickey Mouse Clubhouse,
+2020-05-31T21:57:16+00:00,960052363,960052255,1,Devourcomm,Mickey Mouse Clubhouse,
+2020-05-31T21:56:37+00:00,960052255,960051905,1,Devourcomm,Mickey Mouse Clubhouse,
+2020-05-31T21:54:00+00:00,960051905,959780948,1,Devourcomm,Mickey Mouse Clubhouse,
+2020-05-31T21:49:33+00:00,960051258,950830065,1,Devourcomm,Treehouse TV,
+2020-05-31T21:45:35+00:00,960050716,959839596,1,Devourcomm,Hero Elementary,
+2020-05-31T21:39:22+00:00,960049692,951295535,1,Devourcomm,Lincoln Peirce,
+2020-05-31T21:36:40+00:00,960049139,960049054,1,Devourcomm,ITunes,
+2020-05-31T21:36:20+00:00,960049054,960036229,1,Devourcomm,ITunes,
+2020-05-30T20:34:23+00:00,959828517,959828434,1,Devourcomm,Superbook (1981 TV series),/* Reboot series */
+2020-05-30T20:33:57+00:00,959828434,959643610,1,Devourcomm,Superbook (1981 TV series),/* Series 1 (2011–13) */
+2020-05-30T20:19:53+00:00,959825917,959696219,1,Devourcomm,WPLG,
+2020-05-30T20:18:17+00:00,959825638,959737051,1,Devourcomm,WSVN,
+2020-05-29T22:04:48+00:00,959652144,957096205,1,Devourcomm,WPLG,
+2020-05-29T22:03:02+00:00,959651937,959651892,1,Devourcomm,WSVN,
+2020-05-29T22:02:38+00:00,959651892,959651550,1,Devourcomm,WSVN,
+2020-05-29T22:00:22+00:00,959651550,957446768,1,Devourcomm,WSVN,
+2020-05-29T21:57:04+00:00,959651064,959651040,1,Devourcomm,Restaurant Brands International,
+2020-05-29T21:56:48+00:00,959651040,959042839,1,Devourcomm,Restaurant Brands International,
+2020-05-29T21:55:57+00:00,959650932,950722062,1,Devourcomm,Al Copeland,
+2020-05-29T21:49:44+00:00,959649880,959642586,1,Devourcomm,Lexus,
+2020-05-29T20:51:14+00:00,959641081,958356689,1,Devourcomm,Lexus,
+2020-05-29T20:35:49+00:00,959638744,928552857,1,Devourcomm,Donald Soffer,
+2020-06-11T20:32:30+00:00,962048542,962048478,1,Sammyboy2009,Scion (automobile),
+2020-06-11T20:32:04+00:00,962048478,962048423,1,Sammyboy2009,Scion (automobile),
+2020-06-11T20:31:41+00:00,962048423,956104232,1,Sammyboy2009,Scion (automobile),
+2020-06-06T19:22:11+00:00,961129266,961129120,1,Sammyboy2009,Al Copeland,
+2020-06-06T19:21:09+00:00,961129120,961129082,1,Sammyboy2009,Al Copeland,
+2020-06-06T19:20:51+00:00,961129082,961129042,1,Sammyboy2009,Al Copeland,
+2020-06-06T19:20:31+00:00,961129042,961128946,1,Sammyboy2009,Al Copeland,
+2020-06-06T19:19:52+00:00,961128946,959651185,1,Sammyboy2009,Al Copeland,
+2020-06-06T19:12:28+00:00,961127860,961127737,1,Sammyboy2009,Arthur Cores,
+2020-06-06T19:11:45+00:00,961127737,960750628,1,Sammyboy2009,Arthur Cores,
+2020-06-06T19:09:27+00:00,961127410,960750598,1,Sammyboy2009,Boston Market,
+2020-06-06T19:08:19+00:00,961127251,957538751,1,Sammyboy2009,Will Keith Kellogg,
+2020-06-06T00:32:44+00:00,960983603,960982944,1,Sammyboy2009,Wikipedia:Teahouse,
+2020-06-04T23:31:52+00:00,960795513,0,1,Sammyboy2009,User talk:Sammyboy2009,"[[WP:AES|←]]Created page with 'Wikipedia, please unblock the article I am going to edit. I am sorry I edited all articles, I won't do it again.'"
+2020-06-04T20:11:02+00:00,960768316,960768271,1,Sammyboy2009,List of Bubble Guppies episodes,/* Season 1 (2011) */
+2020-06-04T20:10:44+00:00,960768271,960767998,1,Sammyboy2009,List of Bubble Guppies episodes,/* Season 1 (2011) */
+2020-06-04T20:08:49+00:00,960767998,960766044,1,Sammyboy2009,List of Bubble Guppies episodes,/* Season 2 (2011–13) */
+2020-06-04T19:55:45+00:00,960766044,960693251,1,Sammyboy2009,List of Bubble Guppies episodes,/* Season 1 (2011) */
+2020-06-04T19:49:21+00:00,960765015,960733764,1,Sammyboy2009,Kataka (film),
+2020-05-29T21:57:48+00:00,959651185,959650932,0,Deor,Al Copeland,Undid revision 959650932 by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]])
+2020-05-24T20:50:47+00:00,958624601,958624558,0,AdhiOK,9 Story USA,Undid revision 958623479 by [[Special:Contributions/Josiahthemovieexpert157|Josiahthemovieexpert157]] ([[User talk:Josiahthemovieexpert157|talk]])
+2020-05-28T11:17:06+00:00,959355183,959351372,0,Nick Moyes,André Jolles,Reverted 1 edit by [[Special:Contributions/Wooodjablowme|Wooodjablowme]] ([[User talk:Wooodjablowme|talk]]) to last revision by Helixcouncil ([[WP:TW|TW]])
+2020-05-31T19:45:15+00:00,960030681,960030629,0,Josiahthemovieexpert157,9 Story USA,
+2020-06-07T08:53:14+00:00,961226378,961129266,0,Graham87,Al Copeland,"rv, we don't do that"
+2020-06-01T02:32:30+00:00,960090146,960090115,0,AdhiOK,9 Story USA,Undid revision 960030542 by [[Special:Contributions/Josiahthemovieexpert157|Josiahthemovieexpert157]] ([[User talk:Josiahthemovieexpert157|talk]])
+2020-06-03T12:52:30+00:00,960527609,960394194,0,Scottyoak2,André Jolles,v2.02 - [[WP:WCW]] project (DEFAULTSORT with special characters - DEFAULTSORT with a blank at first position)
+2020-04-13T14:11:59+00:00,950722062,950692253,0,Graham87,Al Copeland,"fix new link, not notable as a Catholic so the cat shouldn't be there"
+2019-10-03T19:49:07+00:00,919446435,790658028,0,InternetArchiveBot,Arthur Cores,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2020-06-07T08:55:11+00:00,961226613,961127860,0,Graham87,Arthur Cores,"rv, we don't do that"
+2020-06-03T21:22:26+00:00,960602459,960600931,0,ProcrastinatingReader,Apple pie,Undid revision 960600931 by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]). Region/creator not applicable (& country is already stated). Calories is unsourced and contradicts info elsewhere in article. Alternative name is unsourced.
+2020-06-03T18:57:12+00:00,960580561,960437549,0,Mindmatrix,"Aventura, Florida",revert - rm superfluous detail
+2020-06-04T18:15:07+00:00,960750628,960725710,0,J. M.,Arthur Cores,Reverted 2 edits by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]) ([[WP:TW|TW]])
+2020-05-29T15:04:43+00:00,959591593,958986501,0,Rodw,Being Ian,Disambiguated: [[YTV]] → [[YTV (TV channel)]]
+2020-06-03T22:31:39+00:00,960611170,960608422,0,J. M.,Barbecue sauce,Undid revision 960608422 by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]): unsourced and questionable
+2020-05-30T18:58:29+00:00,959811076,959591593,0,Toughpigs,Being Ian,"taking out more citations tag, added reference"
+2020-06-09T00:08:18+00:00,961524384,961524349,0,Incagnito,Barbecue sauce,Rollback edit(s) by [[Special:Contributions/67.68.11.169|67.68.11.169]] ([[User_talk:67.68.11.169|talk]]) to rev. 960611170 by J. M.: vandalism [[WP:REDWARN|(RedWarn rev13)]]
+2020-05-30T19:20:40+00:00,959815227,959815049,0,Idklol1234,Bekhudi,/* Plot */
+2020-05-27T15:22:26+00:00,959189265,959183048,0,OnealTheReal,Bekhudi,/* Plot */
+2020-06-02T15:36:43+00:00,960367740,960349869,0,Buddhika75,Bekhudi,Mistakenly used she instead of he. Corrected that.
+2020-06-08T16:12:38+00:00,961459798,961458509,0,ThomasPublicRelations,Bekhudi,
+2020-05-26T19:14:48+00:00,959015402,958984121,0,Ckruschke,Big Idea Entertainment,please provide citations to back up your dates
+2020-05-28T17:11:53+00:00,959413864,959413454,0,71.59.16.190,Big Idea Entertainment,
+2020-06-08T20:49:07+00:00,961499795,959413864,0,2601:2C3:C280:46E0:90A3:C4E2:6A12:1179,Big Idea Entertainment,
+2020-06-07T08:56:41+00:00,961226770,961127410,0,Graham87,Boston Market,"rv, unexplained"
+2020-05-10T01:12:05+00:00,955827094,955229160,0,2601:C4:4100:4D40:91F4:9DC3:E17:C04,Boston Market,"/* History */Removed duplicate information, basically verbatim, that added no value to the article."
+2020-06-01T17:51:36+00:00,960205736,955827094,0,Kmiller2,Boston Market,
+2020-04-24T15:09:13+00:00,952881841,948657013,0,Pbsouthwood,Burrito,"Adding local [[Wikipedia:Short description|short description]]: ""Mexican dish consisting of a wheat flour tortilla wrapped to enclose the filling"", overriding Wikidata description ""Mexican dish consisting of a wheat flour tortilla wrapped or folded into a cylindrical shape to completely enclose the filling"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-06-04T18:14:54+00:00,960750598,960726587,0,J. M.,Boston Market,Reverted 2 edits by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]): Unsourced ([[WP:TW|TW]])
+2020-04-23T23:15:19+00:00,952758382,949314068,0,Qwertyxp2000,Cheeseburger,"Adding local [[Wikipedia:Short description|short description]]: ""Hamburger topped with cheese"", overriding Wikidata description ""hamburger topped with cheese"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-05-30T15:51:20+00:00,959780093,959158872,0,2601:280:C600:CFA0:25C8:3FBF:A49D:F96F,Cartoon Pizza,/* Productions */
+2020-04-04T09:14:23+00:00,949030476,930410576,0,John of Reading,Cherry pie,"rv old vandalism, and removed a redundant heading."
+2020-06-03T21:13:16+00:00,960601252,960600521,0,Mindmatrix,Cherry pie,Reverted edits by [[Special:Contribs/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]) to last version by John of Reading
+2020-06-03T20:20:33+00:00,960593389,960591132,0,Mindmatrix,Cheesecake,Reverted edits by [[Special:Contribs/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]) to last version by TheSameGuy
+2020-04-20T05:28:43+00:00,952023333,936925015,0,TheSameGuy,Cheesecake,/* History */ Used the American English word since it is a US invention.
+2020-06-04T00:20:36+00:00,960624552,960580649,0,Macrakis,Cheeseburger,creator too uncertain to include in infobox
+2020-05-12T00:19:10+00:00,956190013,950563175,0,Kefeizheng01,Chicken as food,Added a photo image! /* Cooking */
+2020-06-03T21:28:15+00:00,960603218,960601433,0,ProcrastinatingReader,Chocolate cake,"Undid revision 960601433 by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]). Unsourced. Calories and serving inapplicable. [sidenote, country USA seems dubious, when article suggests another country and the cake existed before the US was founded.]"
+2020-06-03T23:55:58+00:00,960621171,960604240,0,Macrakis,Chicken fingers,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]): Caption not useful in infobox ([[WP:TW|TW]])
+2020-05-09T21:39:29+00:00,955798094,948006823,0,JLROSENB,Chocolate chip cookie,Typo
+2020-06-03T23:55:00+00:00,960621078,960601778,0,MrOllie,Chocolate chip cookie,Reverted 1 edit by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]) to last revision by JLROSENB ([[WP:TW|TW]])
+2020-05-14T14:39:52+00:00,956650906,956650705,0,DB1729,Chocolate ice cream,Reverted 1 edit by [[Special:Contributions/100.11.101.183|100.11.101.183]] ([[User talk:100.11.101.183|talk]]): Test ([[WP:TW|TW]])
+2020-06-03T20:08:37+00:00,960591582,960591430,0,Mindmatrix,Cocoa Puffs,fix mascot
+2020-05-03T19:52:50+00:00,954691813,953522595,0,Famartin,Cocoa Puffs,/* External links */
+2020-05-30T23:13:57+00:00,959855780,959638744,0,Prodego,Donald Soffer,Reverted edits by [[Special:Contribs/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]) to last version by InternetArchiveBot
+2020-06-03T20:45:56+00:00,960597147,960594739,0,Macrakis,Falafel,origin of chickpea version unclear; calories silly for a dish which is very variable
+2019-11-30T01:35:52+00:00,928552857,900022894,0,InternetArchiveBot,Donald Soffer,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2020-06-06T14:32:54+00:00,961085508,961085128,0,Jellysandwich0,Falafel,
+2020-06-04T06:51:52+00:00,960666750,960621214,0,Aoa8212,French fries,/* France */
+2020-05-23T19:45:01+00:00,958432568,958431034,0,IamNotU,French fries,"Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/CaribDigita|CaribDigita]] ([[User talk:CaribDigita|talk]]): Not a common or significant alternative name, see [[MOS:ALTNAME]]. ([[WP:TW|TW]])"
+2020-06-09T20:01:49+00:00,961673893,961596133,0,WilliamSpeare,French fries,Strange to use the polynesian word for sweet potato instead of the english...
+2020-06-04T21:18:01+00:00,960778283,960777863,0,Cyberfan195,Hero Elementary,/* External links */ fixed.
+2020-05-19T01:49:17+00:00,957476152,957445876,0,PrimeBOT,Hero Elementary,[[User:PrimeBOT/30|Task 30]] - updating infobox parameters in [[Template:infobox television]] + article genfixes
+2020-05-22T15:54:36+00:00,958226089,958054687,0,March Fox,Hot dog,
+2020-06-02T23:17:47+00:00,960433603,960433524,0,63.155.220.232,ITunes,/* iTunes Store */
+2020-06-04T14:33:55+00:00,960717087,960682428,0,J. M.,ITunes,Reverted edits by [[Special:Contribs/Sam Wallen|Sam Wallen]] ([[User talk:Sam Wallen|talk]]) to last version by 63.155.220.232
+2020-06-04T10:37:58+00:00,960689299,960689294,0,ClueBot NG,John C. Tarsney,"Reverting possible vandalism by [[Special:Contribs/Yeetyyeetidyyeet|Yeetyyeetidyyeet]] to version by OBJRA. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3725809) (Bot)"
+2020-06-05T05:54:40+00:00,960841841,960689299,0,QRCodeCompliance,John C. Tarsney,
+2020-06-03T21:08:57+00:00,960600612,960599250,0,Mindmatrix,Keebler Company,revert - unsourced info about workforce
+2020-05-27T14:41:13+00:00,959182196,959161558,0,Walter Görlitz,Jonah: A VeggieTales Movie,"Undid revision 959161558 by [[Special:Contributions/2LG|2LG]] ([[User talk:2LG|talk]]) Common name is United States, we show time in minutes. Removing content without an explanation is not minor."
+2020-06-08T15:06:40+00:00,961450670,961442081,0,Daffern,Kataka (film),/* Release */
+2020-06-09T04:46:10+00:00,961557415,961450670,0,Nido Nidz,Kataka (film),Spelling and grammar
+2020-05-28T01:24:40+00:00,959287005,959286781,0,AdhiOK,Larryboy: The Cartoon Adventures,
+2020-05-29T22:18:50+00:00,959654316,959654143,0,Hazhk,Ketchup,/* top */ Part revert
+2020-06-11T02:11:40+00:00,961910900,961910591,0,Blue counter,Ketchup,/* Tomato ketchup */
+2020-06-03T18:56:26+00:00,960580448,960578708,0,Mindmatrix,Lasagna,revert - not the same thing
+2020-05-23T10:18:08+00:00,958356689,958356218,0,103.127.57.162,Lexus,/* Assembly plants */
+2020-06-04T21:20:03+00:00,960778547,960049692,0,Mrjulesd,Lincoln Peirce,Undid revision 960049692 by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]])
+2020-05-26T17:30:27+00:00,958996474,958995493,0,MusikBot,List of Bubble Guppies episodes,Removing protection templates from unprotected page ([[User:MusikBot/FixPP/FAQ|more info]])
+2020-06-06T00:30:56+00:00,960983364,960768316,0,Renamed user 3429187546,List of Bubble Guppies episodes,"/* Season 5 (2019–20) */ Added official title for song in ""A Furry Tale!"""
+2020-06-02T06:04:17+00:00,960302749,960302238,0,124.13.164.110,List of Bubble Guppies episodes,
+2020-06-09T20:36:59+00:00,961679253,961678268,0,Macrakis,Mayonnaise,"old phrasing was better: ""used in French fries"" doesn't make sense"
+2020-06-06T13:00:44+00:00,961072432,961071903,0,27Success,Merz Akademie,/* Programs */
+2020-05-31T23:11:00+00:00,960062705,960061628,0,Hillelfrei,Mayonnaise,Reverting 1 pending edit by [[Special:Contributions/2601:19C:4703:3AA0:9D15:C01E:D8E8:2795|2601:19C:4703:3AA0:9D15:C01E:D8E8:2795]] to last accepted version by [[Special:Contributions/Favonian|Favonian]] ([[WP:REDWARN|RedWarn rev12]])
+2020-05-26T23:33:15+00:00,959057447,958599633,0,Boarkin,Merz Akademie,/* History */  added social media as a resource
+2020-06-11T07:40:41+00:00,961947315,961945989,0,110.159.73.224,List of Bubble Guppies episodes,
+2020-05-24T18:00:30+00:00,958599633,958599484,0,Old man jeff,Merz Akademie,Grammar
+2020-06-09T17:41:08+00:00,961651579,961420088,0,1234567LDM,Merz Akademie,/* History */
+2020-06-01T06:46:33+00:00,960121772,960118493,0,SummerPhDv2.0,Mickey Mouse Clubhouse,further revert of [[WP:KIDSTVDATES]]
+2020-06-04T09:57:10+00:00,960685105,960684759,0,CatScratch12345,Mickey Mouse Clubhouse,Moved reference to proper location
+2020-06-05T19:58:37+00:00,960947579,960943995,0,MrSchimpf,Mickey Mouse Clubhouse,Reverted edits by [[Special:Contribs/74.88.73.172|74.88.73.172]] ([[User talk:74.88.73.172|talk]]) to last version by CatScratch12345
+2020-05-22T16:44:20+00:00,958233731,958223347,0,Janisawls,Mickey Mouse Clubhouse,
+2020-06-07T20:49:18+00:00,961327709,961323597,0,MrSchimpf,Mickey Mouse Clubhouse,Reverted edits by [[Special:Contribs/74.88.72.138|74.88.72.138]] ([[User talk:74.88.72.138|talk]]) to last version by Mrschimpf
+2020-06-01T17:06:23+00:00,960199017,960196727,0,Djsasso,Mickey Mouse Clubhouse,Reverted to revision 960195147 by [[Special:Contributions/IceWelder|IceWelder]] ([[User talk:IceWelder|talk]]) ([[WP:TW|TW]])
+2020-06-06T03:32:09+00:00,961003645,960655394,0,Ser Amantio di Nicolao,Naked Angels,add category
+2020-06-05T13:08:02+00:00,960889093,960888870,0,124.244.134.197,Mickey Mouse Clubhouse (season 4),/* Season 4 */
+2020-05-28T18:07:50+00:00,959422238,959308911,0,Julianadewsnap,Naked Angels,Small changes to copy
+2020-06-04T18:53:17+00:00,960756153,960054781,0,Rockstone35,Mickey Mouse Clubhouse (season 4),Reverted to revision 952913914 by [[Special:Contributions/157.52.22.199|157.52.22.199]] ([[User talk:157.52.22.199|talk]]): Unexplained date changes ([[WP:TW|TW]])
+2020-06-03T21:31:35+00:00,960603652,960597704,0,ProcrastinatingReader,Nesquik,"Undid revision 960597704 by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]). Founder is not suitable. Parent is more suitable, which is already given in the infobox"
+2020-05-29T19:54:35+00:00,959633185,951689622,0,MonkeyStolen234,Nido (brand),"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Nestlé milk brand"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-06-03T23:59:19+00:00,960621535,960598051,0,Macrakis,Nido (brand),"if producedby is the same as currentowner, don't mention"
+2020-05-24T17:11:12+00:00,958590885,953522559,0,Niskka,Nesquik,/* See also */
+2020-06-03T00:32:29+00:00,960443219,960438782,0,Sumanuil,"Paws, Inc.",Reverted 1 edit by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]) to last revision by ZacktheEditor ([[WP:TW|TW]])
+2020-05-02T21:37:39+00:00,954523020,952404518,0,InternetArchiveBot,Peanut butter,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2020-05-14T00:04:14+00:00,956548034,956524640,0,2600:8807:A700:10CA:0:0:0:F04,Peter Pan (peanut butter),Improving the article.
+2020-06-03T21:06:29+00:00,960600253,960597436,0,Mindmatrix,Peter Pan (peanut butter),revert - not the purpose of that parameter
+2020-05-26T19:16:25+00:00,959015687,958983430,0,Ckruschke,Phil Vischer,previous was correct - name was changed after Vischer attended
+2020-05-27T20:17:30+00:00,959245376,956616310,0,Prahlad balaji,Pizza,
+2020-05-08T19:45:09+00:00,955612397,955231762,0,Rodw,Pie,Disambiguating links to [[Cobbler]] (link changed to [[Cobbler (food)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2020-06-04T00:00:26+00:00,960621669,960583142,0,Macrakis,Pickled cucumber,Reverted 1 edit by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]) to last revision by Citation bot ([[WP:TW|TW]])
+2020-06-03T23:57:49+00:00,960621381,960600070,0,Macrakis,Pie,Reverted 1 edit by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]) to last revision by Rodw ([[WP:TW|TW]])
+2020-05-28T14:05:33+00:00,959383752,956953912,0,LordParsifal,Pickled cucumber,/* Polish and German */
+2020-06-07T02:29:42+00:00,961185874,960608755,0,Randy Kryn,Pizza,"added a few more toppings, edits and parentheses better accommodate the slightly longer sentence"
+2020-06-03T22:11:38+00:00,960608755,960608719,0,HickoryOughtShirt?4,Pizza,Reverted edits by [[Special:Contribs/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]) to last version by Mindmatrix
+2020-05-29T23:07:47+00:00,959661437,956720972,0,Mndata2,Quesadilla,/* Original Mexican quesadilla */Added capital
+2020-05-30T04:14:26+00:00,959697304,959651064,0,Graham87,Restaurant Brands International,"rv, not what we do here"
+2020-05-26T21:56:05+00:00,959042839,955932813,0,Presidentman,Restaurant Brands International,/* top */ Copyedit (minor)
+2020-05-11T14:44:03+00:00,956104232,950267718,0,Zlobnik Urac,Scion (automobile),
+2020-06-08T11:00:08+00:00,961421374,961416240,0,Popcornfud,Sega,/* Restructuring (2015–present) */ on reflection this is prob too much info for the Sega article
+2020-05-29T13:20:49+00:00,959576741,959232712,0,Popcornfud,Sega,/* Dreamcast and continuing struggles (1998–2001) */
+2020-05-30T03:17:24+00:00,959691724,959690989,0,Hummerrocket,Skippy (peanut butter),Reverted edits by [[Special:Contribs/Eeereee|Eeereee]] ([[User talk:Eeereee|talk]]) to last version by DB1729
+2020-04-19T11:34:35+00:00,951884597,950564232,0,Alexander Davronov,Spaghetti,/* Spaghetti dishes */
+2020-06-10T02:08:29+00:00,961724763,961519260,0,Gwapong Chikoy,Superbook (1981 TV series),/* Series 5 (2019–20) */added content
+2020-06-02T18:20:56+00:00,960392977,960357182,0,GoingBatty,Superbook (1981 TV series),[[WP:AWB/GF|General fixes]] and manual cleanup
+2020-05-31T01:09:26+00:00,959875858,959857432,0,Cewbot,Superbook (1981 TV series),[[User:Cewbot/log/20150916/configuration|Normalize {{Multiple issues}}]]: Merge 1 template(s) into {{Multiple issues}}: Cleanup
+2020-06-07T14:10:41+00:00,961267494,961266106,0,98.113.217.19,Superbook (1981 TV series),/* Series 1 (2011–13) */
+2020-06-01T11:16:25+00:00,960150405,960106704,0,Superbookfan,Superbook (1981 TV series),
+2020-06-02T14:17:13+00:00,960357182,960312287,0,CruzRamiss2002,Superbook (1981 TV series),Reverted to revision 959828517 by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]): Restored. ([[WP:TW|TW]])
+2020-05-05T05:34:57+00:00,954957864,954835923,0,Markalthea 15,Taco,/* See also */
+2020-05-28T06:33:59+00:00,959324315,959324287,0,Coffee ziska,Superbook (1981 TV series),Removed All Extra Folders after reverting.
+2020-06-06T10:35:23+00:00,961053304,960717753,0,HensBoy21,Thalaivankottai,
+2020-04-14T02:08:03+00:00,950830065,950829715,0,Jusdafax,Treehouse TV,Reverted edits by [[Special:Contributions/2601:205:C100:9A00:68C1:AEA5:C04E:4A5B|2601:205:C100:9A00:68C1:AEA5:C04E:4A5B]] ([[User talk:2601:205:C100:9A00:68C1:AEA5:C04E:4A5B|talk]]): not adhering to [[WP:NPOV|neutral point of view]] ([[WP:HG|HG]]) (3.4.9)
+2020-05-31T22:13:45+00:00,960054709,960051258,0,2001:569:BD39:6400:52E:650C:A269:3FA9,Treehouse TV,
+2020-06-02T23:31:23+00:00,960435186,960434187,0,M.Bitton,Tri-Rail,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]]): Not an improvement. Please read [[MOS:DATEFORMAT]] ([[WP:TW|TW]])
+2020-05-22T18:48:07+00:00,958251052,958250891,0,2600:1010:B15E:3B00:1D2D:D37A:AD28:B561,Tri-Rail,/* Ridership */
+2020-06-04T12:57:27+00:00,960704643,960694050,0,Gergő90,Universal Kids,/* Peacock Jr. */
+2020-05-25T17:45:38+00:00,958780307,958660531,0,41.90.146.80,Universal Kids,/* As Universal Kids (2017–present) */
+2020-06-06T05:03:05+00:00,961013724,960803243,0,72.83.173.97,Universal Kids,
+2020-06-07T00:16:27+00:00,961169728,961013724,0,D.E.O TrainStar296,Universal Kids,/* Programming */
+2020-06-03T22:19:28+00:00,960609695,960579960,0,Keith D,Universal Kids,Remove days from ref dates
+2020-06-07T09:16:48+00:00,961228884,961228733,0,Graham87,User talk:Sammyboy2009,/* Your edits */ tweak
+2020-06-08T13:59:31+00:00,961441943,961441834,0,74.88.66.103,VeggieTales,
+2020-05-30T04:24:13+00:00,959698247,959697087,0,Walter Görlitz,VeggieTales,still needed
+2020-05-17T00:18:22+00:00,957096205,956807037,0,Wcquidditch,WPLG,"update licensee (""WPLG, LLC"" was converted to a corporation at the end of 2017, and is now ""WPLG, Inc."")"
+2020-05-30T22:26:19+00:00,959847489,959825917,0,Mvcg66b3r,WPLG,Undid revision 959825917 by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]])
+2020-05-18T22:13:20+00:00,957446768,951205238,0,32.216.72.51,WSVN,
+2020-05-30T23:10:27+00:00,959855309,959825638,0,Mvcg66b3r,WSVN,Undid revision 959825638 by [[Special:Contributions/Devourcomm|Devourcomm]] ([[User talk:Devourcomm|talk]])
+2020-05-26T17:06:21+00:00,958992297,958980681,0,Neiltonks,Wayside (TV series),Reverted 7 pending edits by [[Special:Contributions/Invisiblehovercraft|Invisiblehovercraft]] to revision 957738579 by PrimeBOT: Changing fields to contain two dates without indicating what they represent isn’t helpful to anyone reading the article
+2020-05-30T22:01:20+00:00,959843301,959842382,0,FilmandTVFan28,Wayside (TV series),Reverted 1 edit by [[Special:Contributions/2601:248:4600:67E0:595C:2691:9D37:50E5|2601:248:4600:67E0:595C:2691:9D37:50E5]] ([[User talk:2601:248:4600:67E0:595C:2691:9D37:50E5|talk]]) to last revision by Bogger ([[WP:TW|TW]])
+2020-06-10T19:54:57+00:00,961859778,961429971,0,Erpert,Wayside (TV series),Fixed grammar
+2020-06-08T12:16:27+00:00,961429971,959843301,0,109.78.209.143,Wayside (TV series),
+2020-05-29T11:35:01+00:00,959562997,958992297,0,Bogger,Wayside (TV series),/* Awards and nominations */ [[Cartoons on the Bay]]
+2020-06-11T17:54:31+00:00,962027693,962027524,0,Hamuyi,Wikipedia:Teahouse,/* Conflict of Interest? */
+2020-06-07T08:57:29+00:00,961226870,961127251,0,Graham87,Will Keith Kellogg,"rv, unsourced"
+2020-06-04T23:11:37+00:00,960793344,960792622,0,(Oinkers42),Wikipedia:Teahouse,/* Creating a Category */ new section
+2020-05-19T10:13:47+00:00,957538751,956619005,0,Dayirmiter,Will Keith Kellogg,/* Kellogg cereals */ Improved syntax.
+2020-02-14T16:41:51+00:00,940785120,940784906,0,Materialscientist,Al Copeland,Reverted 1 edit by [[Special:Contributions/12.208.117.122|12.208.117.122]] identified as test/vandalism using [[WP:STiki|STiki]]
+2020-03-05T23:24:18+00:00,944136963,942818950,0,Jonesey95,André Jolles,Fix [[Category:Pages with ISBN errors|ISBN error]] or other ISBN error using [[WP:AutoEd|AutoEd]] (or wrap invalid ISBN in template to show error message)
+2020-02-29T18:07:04+00:00,943233727,943232359,0,Materialscientist,9 Story USA,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/188.222.2.243|188.222.2.243]] using [[WP:STiki|STiki]]
+2020-05-16T16:31:06+00:00,957026611,955075577,0,JJMC89 bot III,9 Story USA,Moving [[:Category:Media companies established in 1996]] to [[:Category:Mass media companies established in 1996]] per [[Wikipedia:Categories for discussion/Speedy]]
+2020-04-17T16:59:49+00:00,951531532,951525452,0,Koldcuts,9 Story USA,Reverted 2 pending edits by [[Special:Contributions/2A02:C7F:BC15:E00:3482:39CF:AABA:F6B8|2A02:C7F:BC15:E00:3482:39CF:AABA:F6B8]] to revision 950199753 by EvergreenFir: Not how that works.
+2019-10-25T03:05:22+00:00,922911762,920795998,0,2601:C2:4100:46E0:D815:F269:7854:C675,9 Story USA,/* Filmography */Todd Kessler is the creator of Blue's Clues & You! instead of Eric Fogel.
+2020-02-01T07:08:44+00:00,938604282,938604184,0,Mcpusc,Apple pie,/* Ingredients */ rephrase to a positive call for honey instead of a negative for sugar.
+2020-03-05T02:13:22+00:00,943994112,943993934,0,C.Fred,Apple pie,Reverted edits by [[Special:Contribs/131.125.11.1|131.125.11.1]] ([[User talk:131.125.11.1|talk]]) to last version by Oshwah
+2019-12-12T02:33:09+00:00,930382045,930381877,0,12.157.167.3,Barbecue sauce,
+2020-05-05T23:36:15+00:00,955098017,955097772,0,Julietdeltalima,Barbecue sauce,"Reverted 1 edit by [[Special:Contributions/107.77.193.226|107.77.193.226]] ([[User talk:107.77.193.226|talk]]): Reverting unexplained, unnecessary addition of idiomatic quotation marks where none appear needed ([[WP:TW|TW]])"
+2020-04-12T23:55:06+00:00,950609016,950427223,0,GreenC bot,"Aventura, Florida",Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2019-10-21T21:16:45+00:00,922394110,909801076,0,Graeme Bartlett,Bekhudi,alongwith split
+2020-03-04T04:09:31+00:00,943832718,943073411,0,Shane6456,Being Ian,
+2020-03-16T18:17:51+00:00,945877919,945290680,0,Arjayay,Being Ian,Rm pleonasm
+2019-10-25T17:48:44+00:00,923000702,923000656,0,K6ka,Being Ian,Reverted edits by [[Special:Contributions/190.22.1.133|190.22.1.133]] ([[User talk:190.22.1.133|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2020-02-28T17:32:45+00:00,943073411,940990016,0,70.55.26.74,Being Ian,/* Season 3 (2007) */
+2019-11-07T17:53:32+00:00,925073612,925073557,0,Julietdeltalima,Barbecue sauce,Reverted 1 edit by [[Special:Contributions/72.93.83.194|72.93.83.194]] ([[User talk:72.93.83.194|talk]]) to last revision by Albino biscuit ([[WP:TW|TW]])
+2020-03-30T12:55:10+00:00,948154460,948154160,0,DVdm,Big Idea Entertainment,Reverted edits by [[Special:Contributions/2600:1000:BE04:7DA:71DE:98CC:C47C:DB1F|2600:1000:BE04:7DA:71DE:98CC:C47C:DB1F]] ([[User talk:2600:1000:BE04:7DA:71DE:98CC:C47C:DB1F|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2019-11-17T21:28:09+00:00,926656301,926565328,0,2600:6C50:627F:E44B:D886:62A9:5C46:2673,Big Idea Entertainment,/* Television series */
+2020-01-29T11:35:12+00:00,938145645,915708199,0,108.31.195.97,Boston Market,
+2019-09-14T21:35:59+00:00,915708199,909555523,0,Monkbot,Boston Market,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (5×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2020-02-11T04:50:47+00:00,940210029,937879957,0,Opus88888,Burrito,/* History */
+2020-01-24T09:41:43+00:00,937330930,933563695,0,Saviprinz,Cartoon Pizza,grammar and layout edit
+2020-03-13T02:38:28+00:00,945302207,945293288,0,BaldiBasicsFan,Cartoon Pizza,Undid revision 945293288 by [[Special:Contributions/148.74.15.169|148.74.15.169]] ([[User talk:148.74.15.169|talk]])
+2019-11-27T04:29:07+00:00,928152852,927936961,0,Kingadrock,Burrito,/* San Diego */
+2019-10-08T19:07:16+00:00,920280617,915935732,0,Zheng Zhou,Cheeseburger,/* Gallery */
+2019-12-22T11:17:27+00:00,931947619,930910781,0,Citation bot,Cheesecake,"Alter: first, title. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:Grimes2]] | via #UCB_webform"
+2019-08-10T06:42:56+00:00,910178417,900850485,0,104.34.108.44,Cherry pie,Sugar and Constarch are main ingredients to make filling texture thicker.
+2019-08-28T22:46:54+00:00,912949620,901974713,0,Kanghuitari,Chicken fingers,/* External links */
+2020-04-12T18:54:17+00:00,950563175,941741701,0,OAbot,Chicken as food,[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.
+2020-01-21T21:22:31+00:00,936925015,936638167,0,Joseph.pentangelo,Cheesecake,Fixed incorrect summary of cited source
+2020-03-29T17:27:34+00:00,948006823,938261837,0,PurplePanda2021,Chocolate chip cookie,
+2019-10-01T14:33:42+00:00,919041268,919041231,0,Aboideau,Chocolate cake,Reverted edits by [[Special:Contribs/88.9.45.118|88.9.45.118]] ([[User talk:88.9.45.118|talk]]) to last version by Gilliam
+2020-04-16T21:56:05+00:00,951382473,951382190,0,CLCStudent,Chocolate cake,Reverted edits by [[Special:Contribs/86.7.236.48|86.7.236.48]] ([[User talk:86.7.236.48|talk]]) to last version by Materialscientist
+2019-12-12T08:30:04+00:00,930410576,930358897,0,Jetgraphics,Cherry pie,Undid revision 930358897 by [[Special:Contributions/96.60.143.237|96.60.143.237]] ([[User talk:96.60.143.237|talk]]) VANDALISM fix
+2019-10-30T01:54:01+00:00,923676079,922069661,0,Sam-2727,Chocolate chip cookie,Seems kind of like a promotion
+2020-03-20T15:26:49+00:00,946500163,946438242,0,Tacyarg,Chocolate ice cream,Reverted 1 edit by [[Special:Contributions/2402:3A80:DC3:F3E4:3E5B:6709:5A5D:F93|2402:3A80:DC3:F3E4:3E5B:6709:5A5D:F93]] ([[User talk:2402:3A80:DC3:F3E4:3E5B:6709:5A5D:F93|talk]]) to last revision by Melmann ([[WP:TW|TW]])
+2020-01-05T02:16:33+00:00,934164417,933915237,0,174.125.14.206,Cocoa Puffs,/* External links */
+2020-03-17T01:03:26+00:00,945931302,945931256,0,162.204.184.180,Cocoa Puffs,/* Ingredients */
+2019-11-02T19:43:17+00:00,924260103,924222722,0,156.209.130.209,Falafel,Undid revision 924222722 by [[Special:Contributions/156.209.130.209|156.209.130.209]] ([[User talk:156.209.130.209|talk]])
+2020-01-10T18:17:35+00:00,935134098,932741089,0,Xaosflux,French fries,+[[Hiberno-English]] requested on talk
+2020-03-13T02:39:44+00:00,945302381,945302213,0,CLCStudent,Cocoa Puffs,Reverted edits by [[Special:Contribs/2600:1700:3170:840:3008:CAF8:8118:324E|2600:1700:3170:840:3008:CAF8:8118:324E]] ([[User talk:2600:1700:3170:840:3008:CAF8:8118:324E|talk]]) to last version by 174.125.14.206
+2020-05-15T23:51:14+00:00,956908597,955304913,0,2605:6000:1B0A:E056:85BD:466:D38A:A4A8,Falafel,/* Middle East */The country Jordan was listed twice
+2020-02-02T18:16:40+00:00,938840961,938840575,0,Ianmacm,Falafel,Reverted edits by [[Special:Contribs/79.173.218.58|79.173.218.58]] ([[User talk:79.173.218.58|talk]]) to last version by InternetArchiveBot
+2020-01-27T04:10:48+00:00,937774549,937166333,0,FrankKaplan,Falafel,Alter: title. Add: journal. Removed URL that duplicated unique identifier. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this tool]] yourself. [[WP:DBUG|Report bugs here]]. | via #UCB_Gadget
+2019-12-27T23:20:03+00:00,932741089,932119571,0,Monkbot,French fries,/* Belgium and the Netherlands */[[User:Monkbot/task 15: normalize lang icon templates|Task 15]]:  language icon template(s) replaced (2×);
+2020-01-24T20:13:32+00:00,937403463,935134098,0,WOSlinker,French fries,remove unused closing small tag
+2020-04-16T19:32:36+00:00,951356606,944588686,0,Waldo79,French fries,/* Belgium and the Netherlands */Dunglish
+2019-12-20T17:07:05+00:00,931705613,931116291,0,DFS,Hot dog,/* Variations */
+2020-02-12T16:59:32+00:00,940454145,940449442,0,Materialscientist,Hero Elementary,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/41.80.41.19|41.80.41.19]] using [[WP:STiki|STiki]]
+2020-02-01T13:49:26+00:00,938636370,938636300,0,164.177.201.49,ITunes,
+2020-03-19T00:55:58+00:00,946249988,945452395,0,Monkbot,Hot dog,/* Etymology */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/1×);
+2020-04-26T01:58:42+00:00,953173519,953173489,0,Dl2000,French fries,/* References */ reflist auto
+2020-01-05T21:07:36+00:00,934307410,933601029,0,Jmertel23,Hero Elementary,Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (refimprove)
+2020-01-27T21:46:04+00:00,937896446,937679490,0,JT0096,Jonah: A VeggieTales Movie,
+2019-12-18T12:30:16+00:00,931356683,931234946,0,R.Vaish,ITunes,/* History */ added citation
+2020-01-25T00:46:59+00:00,937435837,937435764,0,DarthFlappy,ITunes,Undid revision 937435764 by [[Special:Contributions/209.243.16.153|209.243.16.153]] ([[User talk:209.243.16.153|talk]])
+2020-03-28T20:12:24+00:00,947841501,925772654,0,Bruin2,John C. Tarsney,"Relocated one paragraph mentioning appointment to Oklahoma Territory Supreme Court; added to ""Early life"" section"
+2020-03-03T15:47:26+00:00,943724648,940306757,0,RobertoPizza,Keebler Company,acquisition update
+2020-01-18T16:40:36+00:00,936400821,935481663,0,71.187.156.220,Larryboy: The Cartoon Adventures,
+2019-12-26T23:54:04+00:00,932584899,932545299,0,Stepho-wrs,Lexus,Formatted bare reference.
+2019-10-28T23:41:55+00:00,923503596,922261627,0,2602:306:CEBF:49A0:5566:2B50:CF75:F2C3,Larryboy: The Cartoon Adventures,
+2019-12-19T10:53:13+00:00,931521938,931521662,0,William Avery,Ketchup,Reverted 2 edits by [[Special:Contributions/2.228.95.200|2.228.95.200]] ([[User talk:2.228.95.200|talk]]) ([[WP:TW|TW]])
+2020-01-25T22:53:45+00:00,937579860,937368210,0,Rogerd,Ketchup,"Adding local [[Wikipedia:Short description|short description]]: ""Sauce used as a condiment"", overriding Wikidata description ""sauce"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-05-10T14:58:48+00:00,955920719,954354385,0,Sinaloa,Ketchup,/* Mushroom ketchup */
+2020-06-01T00:03:29+00:00,960069753,959651380,0,Nurg,Lexus,/* top */ c/e
+2020-05-02T00:38:13+00:00,954354385,953192452,0,Drbeechwood,Ketchup,/* Later innovations */ added an example In-N-Out
+2019-12-04T20:23:52+00:00,929282706,928993303,0,2604:2000:E010:1100:C023:5221:4F7F:A17D,Lincoln Peirce,/* External links */
+2019-11-03T20:13:23+00:00,924428089,924348167,0,AussieLegend,List of Bubble Guppies episodes,persistent and deliberate falsification of dates at multiple articles as well as deliberate insertion of false information
+2019-10-15T04:26:31+00:00,921330376,921327644,0,Flyer22 Frozen,Lincoln Peirce,Reverted edits by [[Special:Contributions/73.246.98.149|73.246.98.149]] ([[User talk:73.246.98.149|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2020-05-29T18:03:06+00:00,959617018,959597091,0,RandomCanadian,Lasagna,"Rollback edit(s) by [[Special:Contributions/83.54.29.133|83.54.29.133]] ([[User_talk:83.54.29.133|talk]]) to rev. 958655677 by Materialscientist: revert good faith edits : not necessary, pepper is not a vegetable... [[WP:REDWARN|(RedWarn rev12)]]"
+2020-01-25T02:11:01+00:00,937444968,937442251,0,The Mirror Cracked,Lasagna,Reverted 2 edits by [[Special:Contributions/2600:1005:B169:E970:7422:E51B:894A:B9D8|2600:1005:B169:E970:7422:E51B:894A:B9D8]] ([[User talk:2600:1005:B169:E970:7422:E51B:894A:B9D8|talk]]) to last revision by Percilius ([[WP:TW|TW]])
+2020-05-22T22:16:21+00:00,958280138,958280020,0,Bulgerkyle,List of Bubble Guppies episodes,/* Series overview */
+2020-04-18T18:36:51+00:00,951756660,951002776,0,BaldiBasicsFan,List of Bubble Guppies episodes,/* Season 5 (2019–20) */
+2020-01-01T22:30:02+00:00,933585947,933582461,0,74.119.161.16,List of Bubble Guppies episodes,
+2019-11-16T10:39:30+00:00,926435437,926419894,0,41.80.240.61,List of Bubble Guppies episodes,/* Season 3 (2013–2015) */
+2020-01-12T20:32:49+00:00,935477378,935432863,0,Geraldo Perez,List of Bubble Guppies episodes,Reverted edits by [[Special:Contribs/41.147.149.165|41.147.149.165]] ([[User talk:41.147.149.165|talk]]) to last version by 2001:E68:5415:2C69:91D2:CF5F:95DE:5865
+2020-05-03T16:28:26+00:00,954659606,954651965,0,Trappist the monk,List of Bubble Guppies episodes,/* Season 5 (2019–20) */remove '[[:Category:CS1 errors: invisible characters|invisible]]' characters from cs1|2 template parameters; (8× NBSP)
+2020-05-19T13:39:24+00:00,957566545,957561439,0,RandomCanadian,Mayonnaise,"Reverted 1 pending edit by [[Special:Contributions/2.25.126.49|2.25.126.49]] to revision 957541362 by 131.111.5.183: [[Aioli]] shows that both terms might be acceptable, but rming the wikilink is not an improvement"
+2019-11-12T01:35:22+00:00,925744537,925744536,0,MelanieN,Merz Akademie,Adding {{pp-vandalism}} ([[WP:TW|TW]])
+2020-04-18T01:53:37+00:00,951624132,951519116,0,Edovald,Mayonnaise,
+2019-10-05T02:44:50+00:00,919678911,919673671,0,CLCStudent,Merz Akademie,Reverted edits by [[Special:Contribs/Openpoultrystandards|Openpoultrystandards]] ([[User talk:Openpoultrystandards|talk]]) to last version by Wtmitchell
+2020-01-14T10:23:18+00:00,935729360,935690531,0,Brettins,Merz Akademie,
+2019-10-29T06:49:43+00:00,923547372,923484866,0,Jake Brockman,Merz Akademie,Reverted to revision 921838257 by [[Special:Contributions/Nixrero 2|Nixrero 2]] ([[User talk:Nixrero 2|talk]]): Rvt introduction of incorrect punctuation and yet again arbitarty changes to AE. ([[WP:TW|TW]])
+2020-02-02T12:20:30+00:00,938801390,938663583,0,Gunman47,Mayonnaise,/* History */
+2020-02-17T23:08:50+00:00,941327834,941327622,0,ToBeFree,Merz Akademie,previous edit was mine
+2019-10-18T06:59:37+00:00,921838257,921670900,0,Nixrero 2,Merz Akademie,/* Programs */
+2020-02-26T20:54:32+00:00,942787255,942782852,0,78.18.76.146,Mickey Mouse Clubhouse,
+2020-05-13T21:31:28+00:00,956529679,956456040,0,Seerightly,Merz Akademie,/* History */ corrected typographical errors
+2020-03-18T22:35:16+00:00,946233529,946233348,0,S0091,Merz Akademie,Reverted 1 edit by [[Special:Contributions/ChiliFromSwahili|ChiliFromSwahili]] ([[User talk:ChiliFromSwahili|talk]]) to last revision by Tridwoxi ([[WP:TW|TW]])
+2019-11-26T23:52:32+00:00,928124049,928124023,0,CLCStudent,Mayonnaise,Reverted 1 edit by [[Special:Contributions/99.56.46.112|99.56.46.112]] ([[User talk:99.56.46.112|talk]]) to last revision by Oshwah ([[WP:TW|TW]])
+2019-11-22T19:59:44+00:00,927486254,924886295,0,LTPHarry,Mickey Mouse Clubhouse,
+2020-02-09T21:23:18+00:00,939980454,938664737,0,67.241.180.73,Mickey Mouse Clubhouse,/* Guest appearances */
+2019-12-07T16:21:04+00:00,929695745,929692102,0,Trivialist,Mickey Mouse Clubhouse,rv unexplained date changes
+2020-03-12T10:38:03+00:00,945188053,944754341,0,173.46.240.180,Mickey Mouse Clubhouse,There are 5 seasons
+2019-10-10T15:41:28+00:00,920565938,920565879,0,75.99.18.219,Mickey Mouse Clubhouse,
+2019-09-26T09:32:37+00:00,917960414,914590315,0,Monkbot,Mickey Mouse Clubhouse (season 4),/* Season 4 */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (2×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2020-03-31T13:36:21+00:00,948334810,948333077,0,Enes Veliq,Mickey Mouse Clubhouse,/* Home media */
+2019-10-24T16:44:54+00:00,922835041,922834925,0,Sonny23282,Mickey Mouse Clubhouse,/* Mickey Mouse Mixed-Up Adventures (originally known as Mickey and the Roadster Racers) */
+2019-11-20T13:20:24+00:00,927119965,927119875,0,192.149.67.175,Mickey Mouse Clubhouse (season 4),/* Season 4 */Mickey Mouse Clubhouse
+2020-01-02T17:21:21+00:00,933717509,933477175,0,108.175.225.40,Mickey Mouse Clubhouse (season 4),
+2020-04-24T18:39:40+00:00,952913914,948901424,0,157.52.22.199,Mickey Mouse Clubhouse (season 4),
+2020-04-27T16:51:46+00:00,953522559,947028684,0,Maxeto0910,Nesquik,unnecessary
+2019-09-25T11:54:48+00:00,917770536,871384956,0,Sc2353,Naked Angels,-[[Category:1960s drama films]]; ±[[Category:1960s crime films]]→[[Category:1960s crime drama films]]; ±[[Category:American drama films]]→[[Category:American crime drama films]] using [[WP:HC|HotCat]]
+2020-01-06T03:45:14+00:00,934364339,931075999,0,Monkbot,Nesquik,/* Mixes */[[User:Monkbot/task 15: normalize lang icon templates|Task 15]]:  language icon template(s) replaced (1×);
+2019-11-09T22:50:46+00:00,925404269,924711079,0,112.203.0.53,Nesquik,
+2020-03-23T21:21:48+00:00,947028684,947028434,0,1980fast,Nesquik,/* Nesquik Bunny (a.k.a. Quicky) */ Punctuation
+2020-03-08T11:38:52+00:00,944530912,923079950,0,179.111.134.24,Nido (brand),
+2020-01-21T23:56:38+00:00,936943854,935417053,0,InFrontOfTheForest,Pickled cucumber,Deleted the Weihnachtsgurke according to myth from talk page
+2019-12-09T23:19:50+00:00,930057340,926135357,0,Numerical advantage,Peanut butter,removed sentence which added no value
+2019-03-10T22:50:22+00:00,887152718,887152564,0,Citizen Canine,Peter Pan (peanut butter),"/* The ""Say When!!"" Incident */ fix heading"
+2019-08-01T11:59:11+00:00,908849025,886676744,0,Bhozhjb,Nido (brand),/* References */
+2020-02-11T03:33:35+00:00,940201618,936943854,0,CJDOS,Pickled cucumber,"Missing a comma in opening sentence needed to geographically divide between ""pickle"", and ""gherkin""."
+2020-04-20T02:06:45+00:00,951999089,951165050,0,ZacktheEditor,"Paws, Inc.",
+2019-11-19T10:54:27+00:00,926939934,924105959,0,240D:1A:4B5:2800:A8AD:B4BC:9E15:45CD,"Paws, Inc.",/* External links */
+2019-10-09T15:30:55+00:00,920402696,887152718,0,Cerebral726,Peter Pan (peanut butter),Reformatted sections
+2020-02-21T15:48:10+00:00,941939737,936955102,0,DemonDays64 Bot,Peanut butter,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2019-11-06T14:28:24+00:00,924882557,924864623,0,Spiffy sperry,Phil Vischer,"Undid revision 924864623 by [[Special:Contributions/70.178.177.48|70.178.177.48]] ([[User talk:70.178.177.48|talk]]), Phil was joking"
+2019-10-26T16:42:48+00:00,923139298,921706420,0,Savevp,Pickled cucumber,/* Gherkin */
+2019-10-26T06:46:59+00:00,923079950,908849025,0,Begoon,Nido (brand),png
+2020-03-19T13:17:19+00:00,946322165,946320723,0,Oknazevad,Pickled cucumber,/* Gherkin */
+2020-02-08T16:06:17+00:00,939765567,938582447,0,UniNoUta,Pie,"minor refinement for clarification -  ""completely"" implies total encasement, which (as established in both the picture to the right and the next paragraph) is not the case."
+2019-11-12T09:05:10+00:00,925785406,925579240,0,David Gerard,Pizza,"rm deprecated source, redundant"
+2020-05-02T23:53:58+00:00,954541392,953057935,0,JIP,Pizza,/* Cheese */ fixed image name
+2019-12-15T20:41:39+00:00,930916283,930147597,0,Thisisnotatest,Pizza,/* Preparation */ Clarifying that pizza is also served whole
+2019-10-15T16:47:26+00:00,921418068,920809022,0,Alex Devens,Pizza,"obviously, pizza does not always have these other ingredients"
+2019-11-30T02:47:59+00:00,928559756,928559714,0,Frood,Quesadilla,Reverted edits by [[Special:Contributions/2806:102E:12:AE4D:B193:4786:A8EA:6504|2806:102E:12:AE4D:B193:4786:A8EA:6504]] ([[User talk:2806:102E:12:AE4D:B193:4786:A8EA:6504|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2020-03-14T06:13:09+00:00,945476186,940862993,0,Illegitimate Barrister,Quesadilla,/* U.S. */
+2020-01-22T01:32:10+00:00,936954577,934751872,0,TrailBlzr,Restaurant Brands International,[[WP:SEAOFBLUE]]
+2020-03-28T22:15:34+00:00,947859465,946042674,0,Drt1245,Restaurant Brands International,Reverted 1 edit by [[Special:Contributions/2601:CD:C104:7A30:F8F4:5E23:6F8E:E98E|2601:CD:C104:7A30:F8F4:5E23:6F8E:E98E]] ([[User talk:2601:CD:C104:7A30:F8F4:5E23:6F8E:E98E|talk]]) ([[WP:TW|TW]])
+2019-09-27T18:54:29+00:00,918249242,918248511,0,Carguychris,Scion (automobile),/* Struggles */ two typos...
+2020-03-27T23:56:35+00:00,947705166,947705003,0,Vaselineeeeeeee,Pizza,Reverted 1 edit by [[Special:Contributions/CornadCrater|CornadCrater]] ([[User talk:CornadCrater|talk]]) ([[WP:TW|TW]])
+2019-12-29T16:20:10+00:00,933031713,933018852,0,Red Phoenix,Sega,"Adjusting the infobox; still Sega Games Co., Ltd. until April"
+2020-01-22T00:35:07+00:00,936948034,936077399,0,2601:2C6:4D00:D0D0:FC42:7F12:8F8:BAAD,Scion (automobile),
+2019-11-15T23:01:28+00:00,926373240,924678682,0,Frietjes,Sega,/* top */
+2019-09-27T04:43:49+00:00,918126970,913287570,0,Adavidb,Skippy (peanut butter),"/* History */clean up, incl. any deadurl tags"
+2019-11-06T16:05:34+00:00,924895326,924893978,0,CLCStudent,Skippy (peanut butter),Reverted edits by [[Special:Contribs/80.233.58.75|80.233.58.75]] ([[User talk:80.233.58.75|talk]]) to last version by Rich Farmbrough
+2020-01-15T23:22:07+00:00,935978445,932973791,0,Unknownentity9888,Spaghetti,
+2019-10-31T11:29:31+00:00,923880521,923859286,0,Adelleturfs,Superbook (1981 TV series),/* Series 5 (2019) */
+2019-11-27T19:47:09+00:00,928243552,923891344,0,Mr. Guye,Spaghetti,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Type of pasta"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2020-03-20T15:48:50+00:00,946502936,946369585,0,JJMC89 bot III,Superbook (1981 TV series),Moving [[:Category:Fox Family original programming]] to [[:Category:Fox Family Channel original programming]] per [[Wikipedia:Categories for discussion/Log/2020 March 5#Category:Fox Family original programming]]
+2020-04-19T18:22:56+00:00,951938405,951938352,0,MB,Superbook (1981 TV series),"Adding local [[Wikipedia:Short description|short description]]: ""Anime television series, 1981-1983"", overriding Wikidata description ""television series, 1981-1983"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2019-11-14T13:21:05+00:00,926136783,925815260,0,112.204.84.178,Superbook (1981 TV series),/* Series 5 (2019) */
+2020-02-02T04:13:27+00:00,938751460,938715470,0,JJMC89 bot III,Superbook (1981 TV series),Moving [[:Category:Fox Family shows]] to [[:Category:Fox Family original programming]] per [[Wikipedia:Categories for discussion/Log/2020 January 22#American television series by network]]
+2020-01-05T05:12:55+00:00,934187177,934172302,0,AnomieBOT,Superbook (1981 TV series),Dating maintenance tags: {{Fact}}
+2019-12-31T08:53:57+00:00,933332984,926511775,0,Miracle Pen,Taco,
+2018-06-11T02:59:58+00:00,845333837,788214718,0,Dl2000,Thalaivankottai,en-IN
+2019-12-08T14:48:03+00:00,929832637,845333837,0,Arunram,Thalaivankottai,added [[Category:Palayam]] using [[WP:HC|HotCat]]
+2020-03-14T16:40:42+00:00,945535814,944300084,0,HangingCurve,Tri-Rail,/* Operations */ Amtrak doesn't allow local travel in South Florida
+2020-01-13T17:33:50+00:00,935614631,933947241,0,Damnedfan1234,Treehouse TV,
+2019-10-24T15:34:38+00:00,922825321,922760877,0,67.233.56.180,Tri-Rail,
+2020-04-03T20:40:19+00:00,948937097,947850491,0,MalachiColey,Treehouse TV,
+2019-09-25T07:47:25+00:00,917743427,909286130,0,Monkbot,Tri-Rail,[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (5×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2020-03-08T00:47:47+00:00,944465214,944320467,0,GalaxyFighter55,Universal Kids,Service discontinued
+2020-04-21T02:01:34+00:00,952200552,951218644,0,100.16.39.134,Universal Kids,"/* Universal Kids Preschool */According to my Verizon cable, universal kids no longer airing any preschool programming between 3am-6am on weekends"
+2020-01-10T23:39:10+00:00,935173087,934860675,0,2600:1702:29C0:7400:3149:34DD:98D2:1CA9,Universal Kids,
+2020-03-23T22:38:17+00:00,947038575,946990583,0,Oknazevad,Universal Kids,/* As Universal Kids (2017–present) */ relive editorializing. Whether or not something is unfortunate is POV and must not be included in Wikipedia's voice
+2020-04-26T21:36:40+00:00,953333295,953323303,0,2601:C2:4100:46E0:5416:F644:B512:EA7F,Universal Kids,
+2020-04-02T23:17:52+00:00,948773180,948559249,0,2600:1702:29C0:7400:EC69:D832:5F12:81D,Universal Kids,/* Effects of Comcast/NBCUniversal merger */
+2019-12-29T01:15:17+00:00,932929856,932766700,0,108.53.126.5,Universal Kids,/* Programming */
+2019-12-02T00:56:07+00:00,928844885,928844739,0,2600:1702:29C0:7400:4900:9517:519C:AD79,Universal Kids,
+2019-12-19T19:14:51+00:00,931575746,931575507,0,CLCStudent,VeggieTales,Reverted edits by [[Special:Contribs/Bobbisss|Bobbisss]] ([[User talk:Bobbisss|talk]]) to last version by Upsidedown Keyboard
+2019-11-27T05:00:22+00:00,928155270,924887290,0,Patapsco913,WPLG,/* Notable former on-air staff */
+2019-10-15T13:36:17+00:00,921388566,920481721,0,Rodriguez344,WPLG,"I switched: ""The station is owned by the BH Media subsidiary of Berkshire Hathaway as its sole broadcast property"".   for "" The station is owned by Berkshire Hathaway as its sole broadcast property"""
+2020-04-16T00:43:43+00:00,951205238,949850399,0,DemonDays64 Bot,WSVN,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2019-12-15T17:50:36+00:00,930894878,930894652,0,Larry LightYear,VeggieTales,
+2020-01-11T20:00:17+00:00,935295853,935288159,0,A-NEUN,VeggieTales,Reverted 1 edit by [[Special:Contributions/2602:306:CEBF:49A0:D14C:85C5:E9C5:8A31|2602:306:CEBF:49A0:D14C:85C5:E9C5:8A31]] identified as test/vandalism using [[WP:STiki|STiki]]
+2020-04-10T18:00:04+00:00,950188641,950187504,0,Geraldo Perez,Wayside (TV series),Reverted 4 edits by [[Special:Contributions/Realsweetie|Realsweetie]] ([[User talk:Realsweetie|talk]]): Unsourced unexplained date and detail changes ([[WP:TW|TW]])
+2020-02-22T19:14:41+00:00,942124140,942051209,0,Koldcuts,Wayside (TV series),"Reverted 1 pending edit by [[Special:Contributions/Hassell Kampelman|Hassell Kampelman]] to revision 934245048 by IdentFan101: Previous version was more concise, no need to give unnecessary detail."
+2020-03-27T12:52:13+00:00,947619099,947240733,0,IdentFan101,Wayside (TV series),
+2020-01-05T14:07:43+00:00,934245048,934244952,0,IdentFan101,Wayside (TV series),/* Main */
+2020-05-16T05:36:30+00:00,956948882,956926162,0,CycloneYoris,Wayside (TV series),Reverted 1 pending edit by [[Special:Contributions/81.185.174.132|81.185.174.132]] to revision 954642455 by Cyberfan195: Unexplained date change.
+2019-10-24T03:00:11+00:00,922755027,918687544,0,172.58.27.221,Wayside (TV series),
+2019-10-17T01:43:17+00:00,921658692,921657363,0,Oldperson,Wikipedia:Teahouse,
+2019-11-01T11:27:42+00:00,924034963,924034931,0,331dot,Wikipedia:Teahouse,/* I need Help */ fix
+2020-04-27T21:25:15+00:00,953561763,953559697,0,Tenryuu,Wikipedia:Teahouse,/* how to submit a draft for review */ Reply
+2019-11-12T07:17:29+00:00,925776485,925776347,0,RockingGeo,Will Keith Kellogg,Reverted 2 edits by [[Special:Contributions/109.247.24.183|109.247.24.183]] ([[User talk:109.247.24.183|talk]]) to last revision by Gilliam ([[WP:TW|TW]])
+2020-04-12T01:11:45+00:00,950425548,950423454,0,David notMD,Wikipedia:Teahouse,/* George William Eve (1855-1914) article and questions */
+2020-01-06T16:34:50+00:00,934452801,925776485,0,LearnMore,Will Keith Kellogg,Fixed punctuation.

@@ -1,0 +1,790 @@
+timestamp,revid,parentid,sock,user,page,message
+2024-05-26T03:33:12+00:00,1225694800,1225190140,1,LachlanTansey,Officer railway station,changed to east pakenham terminus
+2024-05-26T03:30:24+00:00,1225694539,1224542446,1,LachlanTansey,Cardinia Road railway station,added east pakenham terminus
+2024-05-25T12:58:22+00:00,1225590384,1170067425,1,LachlanTansey,Template:Public Transport Victoria railway stations,removed italics from East Pakenham noting construction ahead of opening
+2024-05-25T02:00:44+00:00,1225535915,1225241449,1,LachlanTansey,Pakenham railway station,edited station infobox and services to show East Pakenham prior to opening
+2024-05-08T09:01:14+00:00,1222852241,1222839469,1,LachlanTansey,Sydney Trains K set,changed withdrawal 2024 to still in service
+2024-04-29T10:14:54+00:00,1221339727,1219874903,1,LachlanTansey,V/Line A class,/* Status table */ Changed A70 to under restoration
+2024-04-28T22:01:17+00:00,1221267115,1221005260,1,LachlanTansey,Ringwood East railway station,new image
+2024-04-27T09:55:23+00:00,1221017486,1214498653,1,LachlanTansey,User:LachlanTansey/sandbox,
+2024-04-14T00:51:39+00:00,1218814636,1211097333,1,LachlanTansey,Pakenham line,/* Stations */ new narre warren image
+2024-03-28T06:31:01+00:00,1215966960,1215816158,1,LachlanTansey,Narre Warren railway station,New images and changed wording regarding the reopening of the station
+2024-03-27T08:41:12+00:00,1215816158,1208412733,1,LachlanTansey,Narre Warren railway station,changed all mentions of island platforms to side platforms and edited opening dates to tomorrow march 28
+2024-03-19T09:41:55+00:00,1214498653,1208393316,1,LachlanTansey,User:LachlanTansey/sandbox,
+2024-03-15T13:35:05+00:00,1213846113,1190121426,1,LachlanTansey,"St Albans railway station, Melbourne",added Sunshine to former V/Line service and Sunbury noting the former Sunbury V/Line shuttle
+2024-03-09T12:55:38+00:00,1212758180,1211150964,1,LachlanTansey,"Sunbury railway station, Melbourne","Removed ""Peak Limited Express"" service does not exist"
+2024-03-07T05:37:44+00:00,1212311825,1177588543,1,LachlanTansey,Watergardens railway station,"Removed ""Peak Limited Express"" service does not exist"
+2024-02-17T09:28:10+00:00,1208393316,1208392501,1,LachlanTansey,User:LachlanTansey/sandbox,
+2024-02-17T09:22:08+00:00,1208392501,1199161381,1,LachlanTansey,User:LachlanTansey/sandbox,
+2024-01-28T02:34:36+00:00,1199831267,1199608458,1,LachlanTansey,User talk:LachlanTansey,/* A clear */ Reply
+2024-01-27T01:31:45+00:00,1199426292,1197607516,1,LachlanTansey,"Victoria Park railway station, Perth",elaborated more on additions during the first 3 day shutdown
+2024-01-26T06:03:36+00:00,1199161381,1198843773,1,LachlanTansey,User:LachlanTansey/sandbox,
+2024-01-26T04:48:37+00:00,1199150484,1195338217,1,LachlanTansey,Template:Midland railway line map,changed new midland to under construction
+2024-01-25T05:49:21+00:00,1198843773,1198836989,1,LachlanTansey,User:LachlanTansey/sandbox,
+2024-01-25T05:21:43+00:00,1198836989,1198768251,1,LachlanTansey,User:LachlanTansey/sandbox,
+2024-01-25T01:00:35+00:00,1198768251,1198763484,1,LachlanTansey,User:LachlanTansey/sandbox,
+2024-01-25T00:43:35+00:00,1198763484,1198763123,1,LachlanTansey,User:LachlanTansey/sandbox,added disclosure text
+2024-01-25T00:42:18+00:00,1198763123,0,1,LachlanTansey,User:LachlanTansey/sandbox,Byford sandbox (my proposal post reopening)
+2024-01-25T00:13:03+00:00,1198754974,1198738722,1,LachlanTansey,User talk:LachlanTansey,/* May 2020 */ Reply
+2024-01-24T11:54:53+00:00,1198552882,1198549062,1,LachlanTansey,User talk:LachlanTansey,/* May 2020 */ Reply
+2024-01-24T11:36:31+00:00,1198548342,1198533780,1,LachlanTansey,User talk:LachlanTansey,/* May 2020 */ Reply
+2024-01-24T06:43:40+00:00,1198482393,957211560,1,LachlanTansey,User talk:LachlanTansey,/* {{unblock | reason=Still interested in sharing my insight ~~~~}} */ new section
+2020-05-16T09:22:16+00:00,956970386,931853067,1,LachlanTansey,Fremantle line,
+2020-05-16T09:15:36+00:00,956969752,956575349,1,LachlanTansey,Fremantle railway station,
+2020-05-16T09:11:34+00:00,956969353,950095136,1,LachlanTansey,"Claremont railway station, Perth",
+2020-05-14T06:02:56+00:00,956593656,955410134,1,LachlanTansey,"Sunshine railway station, Melbourne",
+2020-05-14T06:01:31+00:00,956593497,946444235,1,LachlanTansey,"St Albans railway station, Melbourne",
+2020-05-14T06:00:27+00:00,956593362,949025985,1,LachlanTansey,Watergardens railway station,
+2020-05-14T05:58:37+00:00,956593144,946444857,1,LachlanTansey,"Sunbury railway station, Melbourne",
+2020-05-14T05:48:25+00:00,956591752,929060834,1,LachlanTansey,"Tocumwal railway line, Victoria",
+2020-05-12T06:04:29+00:00,956228588,955084770,1,LachlanTansey,Montreal Central Station,
+2020-04-20T03:08:08+00:00,952007053,925433638,1,LachlanTansey,Byford railway station,
+2020-04-20T00:59:53+00:00,951989961,934578226,1,LachlanTansey,Subiaco railway station,
+2020-04-20T00:56:53+00:00,951989574,946920942,1,LachlanTansey,Daglish railway station,
+2020-04-08T16:28:26+00:00,949802304,929490875,1,LachlanTansey,McIver railway station,
+2020-04-08T16:24:13+00:00,949801735,946831943,1,LachlanTansey,Leederville railway station,
+2020-04-08T16:19:49+00:00,949801106,901672162,1,LachlanTansey,City West railway station,
+2020-04-08T16:18:01+00:00,949800832,949709739,1,LachlanTansey,Perth railway station,
+2020-03-30T09:51:56+00:00,948134600,903426720,1,LachlanTansey,Fremantle railway station,
+2020-03-30T09:49:49+00:00,948134395,941046099,1,LachlanTansey,"Rockingham railway station, Perth",
+2020-03-30T09:45:39+00:00,948133993,947434797,1,LachlanTansey,Perth railway station,
+2020-03-30T09:40:10+00:00,948133493,946444134,1,LachlanTansey,Diggers Rest railway station,
+2020-03-30T09:36:07+00:00,948133143,820529204,1,LachlanTansey,Mandurah railway station,
+2020-03-24T06:23:00+00:00,947087065,944631243,1,LachlanTansey,"Marla, South Australia",
+2020-03-12T21:06:08+00:00,945263723,945263688,1,LachlanTansey,User:LachlanTansey,[[WP:AES|←]]Blanked the page
+2020-03-12T21:05:49+00:00,945263688,945176963,1,LachlanTansey,User:LachlanTansey,
+2020-03-12T08:15:44+00:00,945176963,0,1,LachlanTansey,User:LachlanTansey,[[WP:AES|←]]Created page with ''''EBONIS WIKI''''
+2023-03-26T03:26:11+00:00,1146642798,1146563398,1,Lachlan2009,User talk:Lachlan2009,/* Blocked as a sockpuppet */ Reply
+2023-03-25T10:17:33+00:00,1146511933,1146505686,1,Lachlan2009,Williamstown Pier railway station,fixed newport
+2023-03-25T09:04:03+00:00,1146505686,1146306053,1,Lachlan2009,Williamstown Pier railway station,new info
+2023-03-25T08:21:17+00:00,1146501830,1139480099,1,Lachlan2009,Footscray railway station,
+2023-03-25T08:17:15+00:00,1146501540,1141266800,1,Lachlan2009,"Sunshine railway station, Melbourne",updated services
+2023-03-24T10:31:21+00:00,1146351939,1144499205,1,Lachlan2009,Mont Albert railway station,
+2023-03-24T10:29:38+00:00,1146351780,1144544492,1,Lachlan2009,Surrey Hills railway station,
+2023-03-24T08:26:32+00:00,1146340834,1129449103,1,Lachlan2009,Salt Water River railway station,
+2023-03-24T02:22:51+00:00,1146308493,1146307055,1,Lachlan2009,"Newport railway station, Melbourne",removed peak warrnambool services (inaccurate)
+2023-03-24T02:07:28+00:00,1146307055,1139294101,1,Lachlan2009,"Newport railway station, Melbourne",more services
+2023-03-24T01:59:15+00:00,1146306112,1146305521,1,Lachlan2009,Williamstown railway station,fixed link on former services
+2023-03-24T01:58:38+00:00,1146306053,1139867545,1,Lachlan2009,Williamstown Pier railway station,changed services
+2023-03-24T01:52:37+00:00,1146305521,1139299788,1,Lachlan2009,Williamstown railway station,added williamstown pier as former services
+2023-03-22T10:02:30+00:00,1146025931,1139840535,1,Lachlan2009,Stawell railway station,great southern
+2023-03-22T09:58:03+00:00,1146025422,1047407385,1,Lachlan2009,Harcourt railway station,
+2023-03-22T02:43:52+00:00,1145982814,1088248350,1,Lachlan2009,Cremorne railway station,new and changed info
+2023-03-21T23:42:38+00:00,1145959574,1138680914,1,Lachlan2009,Upfield line,added service pattern
+2023-03-20T06:29:59+00:00,1145645177,1145645080,1,Lachlan2009,"St Albans railway station, Melbourne",
+2023-03-20T06:29:01+00:00,1145645080,1144687839,1,Lachlan2009,"St Albans railway station, Melbourne",added routemap
+2023-03-20T06:01:50+00:00,1145642407,1144498611,1,Lachlan2009,Yarra Valley Railway,
+2023-03-19T21:45:28+00:00,1145574161,1131933961,1,Lachlan2009,Lilydale railway station,
+2023-03-19T20:17:31+00:00,1145561182,1145471041,1,Lachlan2009,Sunbury line,/* Operations */
+2023-03-19T19:57:45+00:00,1145557974,1115004655,1,Lachlan2009,Eaglehawk railway station,/* References */ removed former raywood services
+2023-03-19T09:39:56+00:00,1145471041,1145470451,1,Lachlan2009,Sunbury line,fixed host and premium stations
+2023-03-19T09:35:51+00:00,1145470451,1138577894,1,Lachlan2009,Sunbury line,added service pattern
+2023-03-19T07:37:15+00:00,1145457522,1145304082,1,Lachlan2009,Dandenong railway station,/* Gallery */ unelectrified siding abolished
+2023-03-18T09:42:31+00:00,1145295190,1144861895,1,Lachlan2009,Comeng (train),/* External links */ added category
+2023-03-17T23:49:54+00:00,1145237315,1145071678,1,Lachlan2009,Burrumbeet railway station,routemap updated
+2023-03-17T03:50:21+00:00,1145071678,1112254557,1,Lachlan2009,Burrumbeet railway station,added track layout
+2023-03-17T03:24:55+00:00,1145068696,1097442984,1,Lachlan2009,Elmore railway station,/* History */ removed Huntly from disused stations
+2023-03-16T00:07:18+00:00,1144861895,1144710932,1,Lachlan2009,Comeng (train),/* Description */
+2023-03-15T01:29:29+00:00,1144687839,1142215721,1,Lachlan2009,"St Albans railway station, Melbourne",removed peak and former metro services
+2023-03-14T08:38:11+00:00,1144544492,1144544325,1,Lachlan2009,Surrey Hills railway station,changed former services to keep up with consistency
+2023-03-14T08:36:57+00:00,1144544325,1144313273,1,Lachlan2009,Surrey Hills railway station,/* External links */
+2023-03-14T01:13:47+00:00,1144489665,1144313375,1,Lachlan2009,Mont Albert railway station,/* Gallery */ rephrased closure services
+2023-03-13T00:14:25+00:00,1144304374,1137548206,1,Lachlan2009,"Showgrounds railway station, Perth",/* Platforms */ show express ceased
+2023-03-13T00:12:19+00:00,1144304048,1125882097,1,Lachlan2009,Fremantle railway station,corrected track layout (track beyond platform 1 is disused and has a derailer)
+2023-03-12T21:50:33+00:00,1144285399,1144285353,1,Lachlan2009,Belgrave line,Undid revision 1144285353 by [[Special:Contributions/Lachlan2009|Lachlan2009]] ([[User talk:Lachlan2009|talk]])
+2023-03-12T21:50:08+00:00,1144285353,1143533580,1,Lachlan2009,Belgrave line,/* Route */
+2023-03-12T09:49:56+00:00,1144193934,1144143045,1,Lachlan2009,Yarra Valley Railway,/* Line guide */ updated
+2023-03-12T01:53:44+00:00,1144143045,1125682739,1,Lachlan2009,Yarra Valley Railway,/* Line guide */ edited line guide to reflect extension to Yarra Glen
+2023-03-12T01:25:13+00:00,1144138990,1140075066,1,Lachlan2009,"Chatham railway station, Melbourne",
+2023-03-12T01:21:28+00:00,1144138444,1142983084,1,Lachlan2009,Hammersmith tube station (Circle and Hammersmith & City lines),/* External links */
+2023-03-12T01:18:57+00:00,1144138073,1136554508,1,Lachlan2009,Barbican tube station,/* Elizabeth line */ changed internal Crossrail services to reflect on through running
+2023-03-12T01:00:47+00:00,1144135042,1135972277,1,Lachlan2009,Redcar Central railway station,/* External links */
+2023-03-11T08:18:06+00:00,1144008943,1124015591,1,Lachlan2009,Clapham High Street railway station,readded the once daily southeastern service with sources
+2023-03-11T08:14:29+00:00,1144008564,1128837062,1,Lachlan2009,Wandsworth Road railway station,readded the once daily southeastern service with sources
+2023-03-11T07:48:00+00:00,1144005283,794567036,1,Lachlan2009,Talk:Clapham High Street railway station,/* add the southeastern service */ new section
+2023-03-11T05:03:15+00:00,1143991475,1143049103,1,Lachlan2009,Ealing Broadway station,Undid revision 1140261024 by [[Special:Contributions/Lachlan2009|Lachlan2009]] ([[User talk:Lachlan2009|talk]]) self revert after feedback
+2023-03-11T02:22:51+00:00,1143976971,1141289819,1,Lachlan2009,Seven Sisters station,/* External links */ fixed spelling error
+2023-03-10T23:51:22+00:00,1143958705,1143957752,1,Lachlan2009,West Ealing railway station,/* Services */
+2023-03-10T23:50:00+00:00,1143958567,1132800567,1,Lachlan2009,Windsor & Eton Central railway station,/* Services */ District Line --> District Railway
+2023-03-10T23:49:19+00:00,1143958518,1138452584,1,Lachlan2009,Slough railway station,/* Service table */ District Line --> District Railway
+2023-03-10T23:48:16+00:00,1143958418,1141792954,1,Lachlan2009,Langley railway station,/* Frequency */ District Line --> District Railway
+2023-03-10T23:47:20+00:00,1143958331,1128821472,1,Lachlan2009,West Drayton railway station,/* Services */ District Line --> District Railway
+2023-03-10T23:45:56+00:00,1143958177,1124416050,1,Lachlan2009,Hayes & Harlington railway station,/* Service table */ District Line --> District Railway
+2023-03-10T23:44:08+00:00,1143957998,1143049763,1,Lachlan2009,Southall railway station,District Line --> District Railway
+2023-03-10T23:43:03+00:00,1143957891,1143049424,1,Lachlan2009,Hanwell railway station,/* Services */ District Line --> District Railway
+2023-03-10T23:41:42+00:00,1143957752,1141793723,1,Lachlan2009,West Ealing railway station,District Line --> District Railway
+2023-03-10T23:35:26+00:00,1143957172,1141608263,1,Lachlan2009,Mark Lane tube station,/* External links */ added former joint Metropolitan & District railway circle services
+2023-03-10T22:37:18+00:00,1143950824,1138132992,1,Lachlan2009,Mill Hill East tube station,/* Services */ edited
+2023-03-10T10:23:48+00:00,1143859751,1143835677,1,Lachlan2009,Tower of London tube station,/* References */
+2023-03-10T05:57:48+00:00,1143835677,1143835412,1,Lachlan2009,Tower of London tube station,/* References */
+2023-03-10T05:54:24+00:00,1143835412,1114245579,1,Lachlan2009,Tower of London tube station,/* Bibliography */ windsor
+2023-03-10T05:39:19+00:00,1143834238,1140001667,1,Lachlan2009,Mansion House tube station,/* External links */
+2023-03-10T04:42:50+00:00,1143829519,1124757424,1,Lachlan2009,Nassau station,/* History */ changed services from Arthur Kill to Atlantic to reflect on era
+2023-03-10T02:09:18+00:00,1143815548,1136555113,1,Lachlan2009,Stonebridge Park station,/* External links */ added former services
+2023-03-09T07:00:39+00:00,1143681820,1143681739,1,Lachlan2009,Waddesdon railway station,/* Routes */ fixed error
+2023-03-09T06:59:52+00:00,1143681739,1143648764,1,Lachlan2009,Waddesdon railway station,/* Routes */
+2023-03-09T01:33:07+00:00,1143648764,1143371230,1,Lachlan2009,Waddesdon railway station,/* Routes */ line passing through is still open to freight
+2023-03-08T23:10:05+00:00,1143631400,1091345090,1,Lachlan2009,Verney Junction railway station,"/* External links */ added ""towards"""
+2023-03-08T23:08:30+00:00,1143631248,1143515447,1,Lachlan2009,Quainton Road railway station,/* External links */ fixed sizing of towards
+2023-03-08T09:35:06+00:00,1143530081,1136555174,1,Lachlan2009,Upminster station,/* External links */
+2023-03-08T09:23:04+00:00,1143528928,1124866866,1,Lachlan2009,Ryde Pier Head railway station,"added ""towards"""
+2023-03-08T09:22:41+00:00,1143528892,1124860399,1,Lachlan2009,Ryde Esplanade railway station,"added ""towards"""
+2023-03-08T09:21:50+00:00,1143528814,1124860582,1,Lachlan2009,Ryde St John's Road railway station,"added ""towards"""
+2023-03-08T09:20:47+00:00,1143528706,1125019701,1,Lachlan2009,Smallbrook Junction railway station,"/* Services */ added ""towards"""
+2023-03-08T09:18:23+00:00,1143528474,1124172193,1,Lachlan2009,Brading railway station,"added ""towards"""
+2023-03-08T09:16:02+00:00,1143528281,1124862364,1,Lachlan2009,Sandown railway station,"added ""towards"""
+2023-03-08T09:14:06+00:00,1143528112,1124990806,1,Lachlan2009,Shanklin railway station,"added ""towards"""
+2023-03-08T09:12:22+00:00,1143527952,1124651868,1,Lachlan2009,Lake railway station,"added ""towards"""
+2023-03-08T06:08:39+00:00,1143513906,1143018679,1,Lachlan2009,Wembley Park tube station,added redirections to Wembley Central
+2023-03-08T04:02:23+00:00,1143503511,1114105751,1,Lachlan2009,Quainton Road railway station,added toward
+2023-03-07T23:34:31+00:00,1143474088,1140292926,1,Lachlan2009,Rickmansworth station,readded Chiltern services
+2023-03-07T10:14:45+00:00,1143374426,1140688699,1,Lachlan2009,Aylesbury railway station,"/* Services */ added ""towards"""
+2023-03-07T09:50:19+00:00,1143371230,1122924487,1,Lachlan2009,Waddesdon railway station,added underground symbol
+2023-03-06T23:51:07+00:00,1143304416,1143249776,1,Lachlan2009,Watford Junction railway station,/* Services */ added terminus for LNWR services (feel free to revert if you feel it is necessary)
+2023-03-06T23:29:43+00:00,1143301323,1125876547,1,Lachlan2009,Croxley Green railway station,added line terminus
+2023-03-06T23:26:06+00:00,1143300813,1105533134,1,Lachlan2009,Watford West railway station,/* External links */ added line terminus
+2023-03-06T23:24:35+00:00,1143300573,1105533120,1,Lachlan2009,Watford Stadium Halt railway station,/* External links */ added line terminus
+2023-03-06T23:12:28+00:00,1143298632,1125001793,1,Lachlan2009,Watford High Street railway station,changed Croxley Green services to show terminus
+2023-03-06T01:30:57+00:00,1143121974,1136555014,1,Lachlan2009,Rayners Lane tube station,/* Gallery */ specified on district line dates
+2023-03-05T23:03:38+00:00,1143100193,1123809872,1,Lachlan2009,Bethnal Green railway station,/* External links */ added bethnal green tube services
+2023-03-05T22:58:29+00:00,1143099414,1142136884,1,Lachlan2009,Moorgate station,updated Elizabeth Line services to reflect on through running
+2023-03-05T09:11:35+00:00,1142983084,1140329592,1,Lachlan2009,Hammersmith tube station (Circle and Hammersmith & City lines),/* External links */ changed paddington terminus and added grove road services
+2023-03-05T08:59:44+00:00,1142981956,1136555622,1,Lachlan2009,Hounslow West tube station,/* External links */ added from old hounslow west station to former services
+2023-03-04T23:37:41+00:00,1142905524,1136555736,1,Lachlan2009,Mile End tube station,/* External links */ fixed leftward central line terminus
+2023-03-01T01:02:18+00:00,1142192810,1139933448,1,Lachlan2009,London Underground S7 and S8 Stock,added lines served
+2023-03-01T00:58:54+00:00,1142192159,1141704753,1,Lachlan2009,London Underground C69 and C77 Stock,added lines served
+2023-03-01T00:16:20+00:00,1142185723,1136555208,1,Lachlan2009,Wembley Park tube station,/* External links */ added more historicals and added met line stopping at Neasden
+2023-02-28T04:01:54+00:00,1142031326,1141404615,1,Lachlan2009,London Underground,made corrections on terminus’s
+2023-02-25T22:33:03+00:00,1141608263,1140000259,1,Lachlan2009,Mark Lane tube station,changed and fixed services to reflect on era
+2023-02-25T22:24:13+00:00,1141606823,1136554888,1,Lachlan2009,Loughton tube station,/* Services and connections */ fixed night tube terminus
+2023-02-24T08:48:21+00:00,1141290022,1136555545,1,Lachlan2009,Finsbury Park station,/* London Underground */
+2023-02-24T08:46:23+00:00,1141289819,1141289284,1,Lachlan2009,Seven Sisters station,readded all services
+2023-02-24T08:41:23+00:00,1141289284,1141289147,1,Lachlan2009,Seven Sisters station,Undid revision 1141289147 by [[Special:Contributions/Lachlan2009|Lachlan2009]] ([[User talk:Lachlan2009|talk]])
+2023-02-24T08:40:14+00:00,1141289147,1140264923,1,Lachlan2009,Seven Sisters station,/* External links */ added victoria terminus
+2023-02-24T08:37:47+00:00,1141288858,1136555911,1,Lachlan2009,Tottenham Hale station,/* London Underground */ added victoria terminus
+2023-02-24T08:36:56+00:00,1141288778,1136555401,1,Lachlan2009,Blackhorse Road station,added victoria terminus
+2023-02-24T08:35:12+00:00,1141288630,1136555938,1,Lachlan2009,Walthamstow Central station,/* Services */ added victoria terminus
+2023-02-23T01:23:44+00:00,1141037691,1140323977,1,Lachlan2009,North Weald railway station,/* External links */ added post blake hall closure services
+2023-02-23T01:18:59+00:00,1141037035,1136554762,1,Lachlan2009,Hainault tube station,added shuttle services
+2023-02-22T06:57:06+00:00,1140883533,1140070551,1,Lachlan2009,Chesham tube station,shuttle ceased date added to key dates
+2023-02-21T05:27:00+00:00,1140672805,1140002429,1,Lachlan2009,Aylesbury railway station,/* Services */ converted the Metropolitan Railway services to Metropolitan Line services (waddesdon station is iffy)
+2023-02-21T05:03:51+00:00,1140669593,1136555198,1,Lachlan2009,Watford tube station,/* Bibliography */ added North Curve services
+2023-02-19T10:16:13+00:00,1140280628,1124606181,1,Lachlan2009,Hendon railway station,added Hendon Central
+2023-02-19T09:49:20+00:00,1140277788,1136554904,1,Lachlan2009,Neasden tube station,added limited metropolitan line services as well as new former services
+2023-02-19T07:16:15+00:00,1140261024,1138059144,1,Lachlan2009,Ealing Broadway station,fixed specifications on the Windsor District line services
+2023-02-19T00:48:45+00:00,1140212470,1138592395,1,Lachlan2009,Aldwych tube station,/* External links */ added sentence on the Jubilee Line overrun tunnels and through services until 1962
+2023-02-18T13:20:34+00:00,1140106609,1138068409,1,Lachlan2009,Shadwell railway station,added Whitechapel off peak services
+2023-02-18T13:18:29+00:00,1140106389,1124881066,1,Lachlan2009,Wapping railway station,/* Bibliography */ added Whitechapel off peak services
+2023-02-18T13:17:47+00:00,1140106306,1124858724,1,Lachlan2009,Rotherhithe railway station,/* References */ added Whitechapel off peak services
+2023-02-18T13:16:58+00:00,1140106212,1137113504,1,Lachlan2009,Canada Water station,/* Services */ added Whitechapel off peak services
+2023-02-18T13:15:21+00:00,1140106066,1137977201,1,Lachlan2009,New Cross railway station,/* Platform layout */ added Whitechapel off peak services
+2023-02-18T13:14:11+00:00,1140105954,1138069356,1,Lachlan2009,Surrey Quays railway station,/* References */ added Whitechapel off peak services
+2023-02-18T13:12:38+00:00,1140105775,1124646328,1,Lachlan2009,New Cross Gate railway station,/* Services */ added Whitechapel off peak services
+2023-02-18T08:17:50+00:00,1140073687,1140023433,1,Lachlan2009,London Underground,/* Lines */
+2023-02-18T08:07:43+00:00,1140072370,1136555028,1,Lachlan2009,Rickmansworth station,/* Services */ added North Curve services
+2020-05-16T09:04:50+00:00,956968591,956947480,1,Lachlan298383829283,User talk:Lachlan298383829283,/* May 2020 */
+2020-05-16T08:41:24+00:00,956966291,956758031,1,Lachlan298383829283,"Belmont Park railway station, Perth",
+2020-05-16T08:38:23+00:00,956966024,925803149,1,Lachlan298383829283,Lathlain railway station,
+2020-05-16T08:30:30+00:00,956965324,956965247,1,Lachlan298383829283,Joondalup line,/* Disused stopping patterns */
+2020-05-16T08:29:37+00:00,956965247,956964753,1,Lachlan298383829283,Joondalup line,/* Disused stopping patterns */
+2020-05-16T08:24:17+00:00,956964753,949018804,1,Lachlan298383829283,Joondalup line,/* Stations */
+2020-05-16T05:01:45+00:00,956945188,925876984,1,Lachlan298383829283,Nhill railway station,
+2020-05-25T12:12:18+00:00,958730067,958729602,1,Lachlan928292942887,User talk:Lachlan928292942887,
+2020-05-25T12:08:04+00:00,958729602,956633742,1,Lachlan928292942887,User talk:Lachlan928292942887,[[WP:AES|←]]Replaced content with 'one moment'
+2020-05-14T12:26:52+00:00,956633146,951989574,1,Lachlan928292942887,Daglish railway station,
+2020-05-14T12:10:04+00:00,956631323,956630605,1,Lachlan928292942887,User:Lachlan928292942887,
+2020-05-14T12:02:56+00:00,956630605,956559797,1,Lachlan928292942887,User:Lachlan928292942887,
+2020-05-14T11:48:54+00:00,956629118,956628941,1,Lachlan928292942887,Werribee railway station,Undid revision 956628941 by [[Special:Contributions/Fleet Lists|Fleet Lists]] ([[User talk:Fleet Lists|talk]])
+2020-05-14T11:47:47+00:00,956629018,956627898,1,Lachlan928292942887,"Newport railway station, Melbourne",
+2020-05-14T11:42:42+00:00,956628500,956628460,1,Lachlan928292942887,Werribee railway station,
+2020-05-14T11:42:13+00:00,956628460,956627442,1,Lachlan928292942887,Werribee railway station,
+2020-05-14T11:39:12+00:00,956628133,956628055,1,Lachlan928292942887,Footscray railway station,
+2020-05-14T11:38:27+00:00,956628055,946551905,1,Lachlan928292942887,Footscray railway station,
+2020-05-14T11:36:55+00:00,956627898,951497665,1,Lachlan928292942887,"Newport railway station, Melbourne",
+2020-05-14T11:34:45+00:00,956627667,929889829,1,Lachlan928292942887,Little River railway station,
+2020-05-14T11:32:44+00:00,956627442,956627099,1,Lachlan928292942887,Werribee railway station,
+2020-05-14T11:29:38+00:00,956627099,929889030,1,Lachlan928292942887,Werribee railway station,
+2020-05-14T11:24:45+00:00,956626592,956626387,1,Lachlan928292942887,Southern Cross railway station,
+2020-05-14T11:22:44+00:00,956626387,950509220,1,Lachlan928292942887,Southern Cross railway station,
+2020-05-14T10:54:18+00:00,956623374,954355194,1,Lachlan928292942887,Lidcombe railway station,
+2020-05-14T01:42:21+00:00,956560251,814636951,1,Lachlan928292942887,"Victoria Street railway station, Perth",
+2020-05-14T01:38:06+00:00,956559797,0,1,Lachlan928292942887,User:Lachlan928292942887,[[WP:AES|←]]Created page with 'Hi im Lachlan and im a very funny person'
+2020-05-14T01:33:45+00:00,956559347,919303513,1,Lachlan928292942887,"Armadale railway station, Perth",
+2020-05-14T01:26:54+00:00,956558554,955128148,1,Lachlan928292942887,"Serpentine, Western Australia",
+2020-05-14T01:22:16+00:00,956557900,897914379,1,Lachlan928292942887,"Victoria Park railway station, Perth",
+2020-05-14T01:19:35+00:00,956557425,903669416,1,Lachlan928292942887,"Belmont Park railway station, Perth",
+2020-05-14T01:08:09+00:00,956555978,956555789,1,Lachlan928292942887,Flinders Street railway station,
+2020-05-14T01:06:14+00:00,956555789,950898213,1,Lachlan928292942887,Flinders Street railway station,
+2021-03-20T15:30:15+00:00,1013193773,1013056884,0,Dawnseeker2000,"Belmont Park railway station, Perth",/* top */[[MOS:BLUESEA]]
+2020-05-29T12:54:16+00:00,959573483,950468509,0,FrescoBot,Belgrave line,Bot: [[User:FrescoBot/Links|link syntax]] and minor changes
+2021-11-25T21:40:59+00:00,1057166289,1049963560,0,Pkbwcgs,Aylesbury railway station,Updated figures
+2022-03-09T11:48:14+00:00,1076109522,1070051331,0,Steamybrian2,Aldwych tube station,"added categories closed 1940, open 1946"
+2022-07-18T15:26:49+00:00,1099011566,1089647570,0,Randomy1686,Aylesbury railway station,
+2023-06-08T19:48:53+00:00,1159184110,1159182627,0,Fork99,"Armadale railway station, Perth",Located on
+2022-05-24T23:35:33+00:00,1089647570,1057166289,0,Dorkinglad,Aylesbury railway station,/* Services */
+2020-12-18T09:52:45+00:00,994940925,987508136,0,Citation bot,Barbican tube station,Alter: title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Wikipedia articles in need of updating from July 2020]] | via #UCB_Category 24/569
+2022-02-18T09:47:05+00:00,1072563770,1057175221,0,Archon 2488,Bethnal Green railway station,minor stylistic adjustments
+2023-07-20T18:05:38+00:00,1166304616,1164416510,0,Onel5969,"Belmont Park railway station, Perth",Disambiguating links to [[Armadale and Thornlie lines]] (link changed to [[Armadale line]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2024-01-02T13:29:33+00:00,1193181233,1193177452,0,Redrose64,Aylesbury railway station,/* History */ pre-1863 expansion
+2024-01-27T23:32:51+00:00,1199778579,1195570413,0,2403:5801:D94F:0:ED86:1974:E03A:4F3,Belgrave line,/* Future */
+2023-03-25T20:00:28+00:00,1146584644,1143100193,0,Redrose64,Bethnal Green railway station,Reverted edits by [[Special:Contribs/Lachlan2009|Lachlan2009]] ([[User talk:Lachlan2009|talk]]) to last version by Pkbwcgs
+2020-07-10T01:00:29+00:00,966920152,964295878,0,Jonesey95,Aldwych tube station,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Closed London Underground station"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2023-09-08T10:37:51+00:00,1174425179,1174425146,0,Kj cheetham,Belgrave line,/* top */ ce
+2023-01-24T18:09:56+00:00,1135441474,1118112226,0,CommonsDelinker,"Belmont Park railway station, Perth",Replacing Transperth_Belmont_Park_Train_Station.jpg with [[File:Transperth_Belmont_Park_Train_Station_2005.jpg]] (by [[commons:User:CommonsDelinker|CommonsDelinker]] because: [[:c:COM:FR|File renamed]]: to aid comprehension).
+2020-12-29T04:18:46+00:00,996911611,994940925,0,Monkbot,Barbican tube station,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 28 templates: hyphenate params (48×);
+2022-10-30T04:41:30+00:00,1118993923,1118814235,0,Steelkamp,"Armadale railway station, Perth",added source and removed what could not be sourced
+2023-10-15T01:56:28+00:00,1180189240,1146586058,0,InternetArchiveBot,Blackhorse Road station,Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.9.5
+2020-01-14T21:33:41+00:00,935808475,935772779,0,Redrose64,Blackhorse Road station,/* top */ please keep it at five
+2021-06-15T11:18:20+00:00,1028676869,1028660766,0,Steelkamp,Byford railway station,[[MOS:TRADEMARK]] +
+2023-03-25T04:40:41+00:00,1146483102,1146391365,0,ThylacineHunter,Burrumbeet railway station,"Windermere, Victoria"
+2023-12-17T17:08:18+00:00,1190394171,1190394116,0,2A00:23C5:6495:E401:B8C1:785E:42:5815,Canada Water station,
+2020-12-12T05:28:13+00:00,993735497,957770145,0,Fleet Lists,Burrumbeet railway station,Move services into Infobox - style=Australian closed station
+2023-08-10T12:12:04+00:00,1169653014,1157496713,0,Aaroncrudge,Brading railway station,/* Services */Updated now that Pier Head is open again
+2020-11-10T17:31:37+00:00,988032969,987998777,0,Keith D,Brading railway station,/* top */UK -> England
+2022-07-10T19:43:44+00:00,1097445262,993735497,0,ThadeusOfNazereth,Burrumbeet railway station,"Adding local [[Wikipedia:Short description|short description]]: ""Former railway station in Victoria, Australia"", overriding Wikidata description ""former railway station in Victoria, Australia"""
+2021-11-01T10:23:06+00:00,1053005203,1052437627,0,Bananabones,Cardinia Road railway station,
+2024-04-02T04:46:59+00:00,1216821929,1172370490,0,JJMC89 bot,Cardinia Road railway station,"Replace BSicon(s): STR+BSl→PSTR(L), STR+BSr→PSTR(R)"
+2021-01-26T00:50:51+00:00,1002779433,1000568725,0,Class380,Canada Water station,
+2023-06-13T13:35:51+00:00,1159937127,1159771024,0,Purin128AL,"Chatham railway station, Melbourne",/* top */Fix lint errors
+2022-11-14T15:18:11+00:00,1121864568,1121005033,0,Ntmr,Chesham tube station,/* Services */Inserted hyperlink
+2024-04-02T16:25:45+00:00,1216896054,1190748507,0,Luis9595,Chesham tube station,Moved adjacent stations template to services section
+2023-06-29T07:14:08+00:00,1162448258,1162329682,0,Steelkamp,City West railway station,updated platform destinations
+2020-10-25T15:39:49+00:00,985369274,969053669,0,Anupamdutta73,City West railway station,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Railway station in Perth, Western Australia"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2023-07-01T10:02:49+00:00,1162828161,1161990886,0,Bobster1001,Clapham High Street railway station,Edited opening paragraph
+2020-06-27T22:26:12+00:00,964843516,963026771,0,Jessicapierce,Comeng (train),"minor copy edits, trimmed some wording"
+2021-07-19T08:31:03+00:00,1034336445,1034308246,0,JarrahTree,"Claremont railway station, Perth","Importing Wikidata [[Wikipedia:Short description|short description]]: ""Railway station in Perth, Western Australia"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2024-04-02T04:33:58+00:00,1216820727,1178044567,0,JJMC89 bot,"Claremont railway station, Perth","Replace BSicon(s): STR+BSl→PSTR(L), STR+BSr→PSTR(R)"
+2020-06-17T10:51:59+00:00,963026771,943798878,0,49.177.86.214,Comeng (train),/* Description */
+2023-05-18T02:13:24+00:00,1155416042,1147642453,0,Mitch Ames,Cremorne railway station,[[MOS:DOUBLE]]
+2023-01-13T20:38:31+00:00,1133441349,1133119551,0,Edgar Searle,Comeng (train),
+2022-05-16T23:55:29+00:00,1088248350,1079553325,0,GreenC bot,Cremorne railway station,Move 2 urls. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-09-14T13:53:17+00:00,1175354986,1172441745,0,2A00:23C7:511A:B601:92C:18EE:ADDE:A52D,Clapham High Street railway station,
+2023-07-09T05:01:18+00:00,1164417940,1162329710,0,Mitch Ames,Daglish railway station,"replace ""disabled"" with ""accessible"" in infobox, per preview warning"
+2020-12-07T17:23:52+00:00,992890163,992723030,0,Gareth Griffith-Jones,Croxley Green railway station,lower case
+2021-02-11T14:34:41+00:00,1006182823,1006182208,0,Grandtubetrains,Croxley Green railway station,/* History */ Exact date
+2022-06-19T12:05:52+00:00,1093885220,1093820521,0,FACBot,Daglish railway station,Promoting 'Daglish railway station' to Featured Article status
+2022-02-05T17:13:56+00:00,1070095064,1069075778,0,Rlink2,Daglish railway station,"archive references with web.archive.org, archive.today, and/or ghostarchive.org  [[WP:LINKROT]]"
+2024-01-14T07:56:52+00:00,1195542165,1195541990,0,Materialscientist,Comeng (train),Reverted edits by [[Special:Contributions/110.174.81.225|110.174.81.225]] ([[User talk:110.174.81.225|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2021-05-14T11:14:55+00:00,1023101288,1021689355,0,GMB205,Dandenong railway station,"/* Facilities, platforms and services */ added set down & pick up"
+2022-01-06T03:30:59+00:00,1064010888,1052627014,0,Tullyvallin,Diggers Rest railway station,a few minor edits
+2022-05-15T03:48:04+00:00,1087898537,1087793911,0,Steelkamp,Daglish railway station,changes from FAC
+2020-11-24T01:42:54+00:00,990337053,983094358,0,Techie3,Diggers Rest railway station,Get colour from Adjacent stations module (via [[WP:JWB]])
+2020-12-21T10:58:12+00:00,995500013,990108232,0,T09,Dandenong railway station,
+2020-10-27T04:28:50+00:00,985654401,925539971,0,Techie3,Elmore railway station,Adjacent Stations using [[WP:AutoEd|AutoEd]]
+2021-05-07T10:54:34+00:00,1021912215,998208959,0,GMB205,Eaglehawk railway station,/* Platforms & services */ added platform to follow traditional layout
+2021-01-23T08:44:49+00:00,1002200769,992171114,0,Pedroperezhumberto,Ealing Broadway station,
+2023-05-20T06:41:54+00:00,1155895955,1155262736,0,Purin128AL,Elmore railway station,better line representation
+2022-06-26T12:19:28+00:00,1095111571,1092921958,0,DoctorWhoEditor2,Ealing Broadway station,/* Services */Added image of LU service under the ‘Services’ heading
+2023-03-11T05:54:48+00:00,1143995849,1143179697,0,Ashton 29,Flinders Street railway station,/* History */
+2022-08-12T05:08:44+00:00,1104033253,1095752855,0,2405:6E00:3187:7100:68D7:AB4F:6553:694B,Flinders Street railway station,added peak services
+2023-11-13T17:42:14+00:00,1184956784,1177645166,0,Tom.Reding,Finsbury Park station,+{{[[Template:Authority control|Authority control]]}} ([[d:Q536796|1 ID]] from [[Wikidata]]); [[WP:GenFixes]] & cleanup on
+2022-04-12T17:30:02+00:00,1082346539,1081532627,0,Truthanado,Flinders Street railway station,"c/e, date range per [[WP:DATERANGE]]"
+2022-10-22T09:03:02+00:00,1117547672,1116934093,0,Huntliar456,Flinders Street railway station,
+2023-08-27T10:04:41+00:00,1172477980,1172452441,0,Kj cheetham,Footscray railway station,"fixed [[MOS:DASH|dashes]] using [[User:Ohconfucius/dashes.js]], [[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]]"
+2020-10-27T04:25:18+00:00,985654116,969592191,0,Techie3,Eaglehawk railway station,Adjacent Stations using [[WP:AutoEd|AutoEd]] and swap other services
+2023-07-29T21:40:59+00:00,1167784862,1167617679,0,Redrose64,Finsbury Park station,"Undid revision 1167617679 by [[Special:Contributions/87.81.90.199|87.81.90.199]] ([[User talk:87.81.90.199|talk]]) maybe it is, but this doesn't belong in the lead and is unsourced"
+2020-07-26T04:36:35+00:00,969556259,967607848,0,Aidanthomas99,Footscray railway station,/* Regional Rail Link upgrade */
+2022-02-01T10:52:29+00:00,1069255872,1068607657,0,Marcnut1996,Footscray railway station,"/* Gallery */ in 2008, platforms 5 and 6 were 3 and 4"
+2021-03-16T03:33:24+00:00,1012392042,1012392026,0,ClueBot NG,Footscray railway station,"Reverting possible vandalism by [[Special:Contribs/ZingerBox3|ZingerBox3]] to version by Pizza1016. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3924712) (Bot)"
+2021-05-14T11:03:05+00:00,1023100155,1021726217,0,GMB205,Footscray railway station,/* Platforms & services */ ballarat line update
+2022-02-28T06:21:14+00:00,1074429216,1074429150,0,Edgar Searle,Fremantle line,
+2023-06-28T11:52:31+00:00,1162329726,1162329465,0,JJMC89 bot III,Fremantle railway station,"Moving [[:Category:Railway stations in Perth, Western Australia]] to [[:Category:Transperth railway stations]] per [[Wikipedia:Categories for discussion/Log/2023 June 11#Category:Railway stations in Perth, Western Australia]]"
+2022-01-21T14:42:19+00:00,1067063051,1067060566,0,Steelkamp,Fremantle line,/* Description */ 37 actually for this line
+2024-01-05T21:21:06+00:00,1193826052,1177211109,0,Aviation lover 2,Hainault tube station,/* Services and connections */
+2022-01-19T08:18:29+00:00,1066625579,1066592481,0,JJMC89 bot III,Fremantle railway station,Moving [[:Category:Fremantle railway line]] to [[:Category:Fremantle line]] per [[Wikipedia:Categories for discussion/Speedy]]
+2023-05-31T02:30:12+00:00,1157802942,1157528250,0,Dawnseeker2000,Fremantle railway station,"date format audit, minor formatting"
+2021-03-02T11:21:16+00:00,1009807253,1000884156,0,JarrahTree,Fremantle railway station,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Railway station in Fremantle, Western Australia"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-01-17T05:52:43+00:00,1000884156,1000871974,0,2001:8004:16C0:6AF:D03E:D2C4:B917:2A04,Fremantle railway station,/* Platforms */
+2020-04-10T00:52:21+00:00,950058011,949344475,0,Calistemon,Fremantle railway station,change category
+2021-09-27T08:52:18+00:00,1046759571,1024536308,0,GoAheadFan95,Hainault tube station,Hainault station's code is HAI
+2021-01-13T19:01:23+00:00,1000131862,999924834,0,Monkbot,Hammersmith tube station (Circle and Hammersmith & City lines),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 3 templates: hyphenate params (2×);
+2023-09-22T01:11:35+00:00,1176487605,1160552206,0,GreenC bot,Hammersmith tube station (Circle and Hammersmith & City lines),Move 2 urls. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-04-18T13:08:07+00:00,1150483400,1146579510,0,Bob1960evens,Hammersmith tube station (Circle and Hammersmith & City lines),/* External links */ LTM collection > LTM archive
+2022-03-09T14:13:11+00:00,1076127514,1057393157,0,Ethan2226,Hanwell railway station,
+2023-06-17T07:17:04+00:00,1160552206,1160552133,0,10mmsocket,Hammersmith tube station (Circle and Hammersmith & City lines),/* In popular culture */ unsourced and only passing features [[WP:IPC]]
+2020-06-16T01:49:19+00:00,962787072,959553998,0,WikiCleanerBot,Hanwell railway station,v2.02b - [[User:WikiCleanerBot#T7|Special:LintError/missing-end-tag]] - [[WP:WCW]] project (Missing end tag)
+2022-11-28T20:29:16+00:00,1124416050,1120330461,0,Pkbwcgs,Hayes & Harlington railway station,Updated figures
+2021-09-30T18:02:41+00:00,1047407385,993492507,0,Iridescent 2,Harcourt railway station,"/* top */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: 10 ton → 10-ton"
+2020-12-10T22:10:25+00:00,993492507,930720586,0,Fleet Lists,Harcourt railway station,Move services into Infobox - style=Australian closed station
+2020-08-13T04:27:54+00:00,972639929,963004237,0,GoAheadFan95,Hayes & Harlington railway station,Bypass redirects
+2022-11-29T15:43:26+00:00,1124606181,1124436669,0,Xenophon Philosopher,Hendon railway station,Check on footnotes
+2020-01-15T21:08:46+00:00,935962164,917054393,0,Pkbwcgs,Hendon railway station,Updated figures
+2021-07-22T15:04:23+00:00,1034916783,1030400364,0,Trappist the monk,Hounslow West tube station,/* Bibliography */[[:Category:CS1 maint: ref duplicates default]]; remove duplicates; (3× removed; 1× skipped) eval 27 templates:
+2020-11-12T03:56:29+00:00,988268542,984457742,0,Citation bot,Hounslow West tube station,Alter: url. URLs might have been internationalized/anonymized. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox2 | via #UCB_webform_linked 969/2031
+2024-05-09T06:58:10+00:00,1222997034,1222994809,0,Steelkamp,Joondalup line,fixed typo
+2021-03-10T13:10:59+00:00,1011356330,1011152692,0,PrimeHunter,Joondalup line,/* Patronage */close {{[[Template:Div flex row|Div flex row]]}} with {{[[Template:Div flex row end|Div flex row end]]}}
+2023-02-04T15:21:17+00:00,1137418998,1127021164,0,1.159.200.174,Joondalup line,/* Stations */
+2020-09-11T05:16:03+00:00,977818951,964654737,0,49.196.13.47,Joondalup line,/* Stations */
+2020-05-16T10:07:26+00:00,956975088,956965324,0,Fleet Lists,Joondalup line,Revert to previous version by 203.63.135.120 vandalism
+2023-12-15T16:04:34+00:00,1190040504,1169653140,0,Pkbwcgs,Lake railway station,Updated figures
+2020-01-16T13:01:15+00:00,936057091,930233934,0,Pkbwcgs,Lake railway station,Updated figures
+2020-06-17T07:18:31+00:00,963004254,957233420,0,JJMC89 bot III,Langley railway station,Moving [[:Category:Great Western Main Line]] to [[:Category:Great Western main line]] per [[Wikipedia:Categories for discussion/Speedy]]
+2022-10-22T03:52:59+00:00,1117513088,1117502975,0,JarrahTree,Lathlain railway station,/* History */ sp
+2023-08-09T04:07:28+00:00,1169448998,1164421099,0,Achmad Rachmani,Lidcombe railway station,/* Trackplan */ Missing name
+2022-12-06T03:39:54+00:00,1125835678,1124522429,0,Steelkamp,Leederville railway station,"added infobox map, copyedit"
+2023-11-18T10:38:48+00:00,1185685024,1185684829,0,Steelkamp,Lathlain railway station,last service on 2 February 2003
+2021-08-10T21:03:20+00:00,1038156124,1034356884,0,Vanamonde93,Leederville railway station,Removing link(s) [[Wikipedia:Articles for deletion/Transperth fare zone]] closed as delete ([[WP:XFDC#4.0.12|XFDcloser]])
+2020-08-09T22:32:44+00:00,972054138,967966266,0,Fleet Lists,Lidcombe railway station,Adjacent stations
+2023-07-02T12:41:01+00:00,1163015952,1161046471,0,Citation bot,Joondalup line,"Alter: isbn, title. Add: date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 3345/3850"
+2023-09-12T11:20:23+00:00,1175038443,1171816759,0,Wikibility,Lilydale railway station,Template addition
+2022-11-07T11:19:08+00:00,1120511940,1120511821,0,Adakiko,London Underground,Reverted edits by [[Special:Contributions/103.31.93.125|103.31.93.125]] ([[User talk:103.31.93.125|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-05-01T10:51:21+00:00,954236218,953713616,0,C2A06,London Underground,/* Depots */
+2022-05-30T22:55:20+00:00,1090706159,1080397576,0,Boota Ram,Lilydale railway station,
+2019-12-08T22:27:47+00:00,929889829,929889624,0,BigC9heese,Little River railway station,Updated previous station
+2022-01-30T19:56:26+00:00,1068919235,1068075278,0,Mlatham55,London Underground,/* Accessibility */ updated the number of step free stations
+2022-03-20T17:55:55+00:00,1078263711,1068328965,0,Spudgun67,London Underground C69 and C77 Stock,/* Post-withdrawal use */ added image of car 5720 at Plumcroft Primary School SE18
+2024-02-03T01:17:39+00:00,1202557972,1202557781,0,Joyous!,London Underground,Reverted 1 edit by [[Special:Contributions/2600:8807:C940:4EA0:13D8:A774:6F82:4363|2600:8807:C940:4EA0:13D8:A774:6F82:4363]] ([[User talk:2600:8807:C940:4EA0:13D8:A774:6F82:4363|talk]]) to last revision by Philipnelson99
+2022-01-11T22:55:48+00:00,1065117206,1064856258,0,2A00:23C6:B83:C000:E079:FC4:AF94:27E0,London Underground S7 and S8 Stock,
+2022-01-27T20:53:23+00:00,1068328965,1068328120,0,GWR 2019,London Underground C69 and C77 Stock,
+2023-03-01T07:41:45+00:00,1142238283,1142192810,0,Redrose64,London Underground S7 and S8 Stock,"Undid revision 1142192810 by [[Special:Contributions/Lachlan2009|Lachlan2009]] ([[User talk:Lachlan2009|talk]]) please stop doing that, see [[WP:INFOBOXSTYLE]]"
+2022-01-10T08:24:14+00:00,1064806179,1060412658,0,86.177.92.6,Loughton tube station,updates name of premises Cafe Rouge
+2022-10-09T14:55:16+00:00,1115040801,1114083237,0,Assimo23,Loughton tube station,/* External links */
+2023-05-18T14:02:13+00:00,1155516365,1155301971,0,Mitch Ames,Little River railway station,"/* In music */ song titles have quote marks, not italics"
+2024-01-25T15:13:37+00:00,1198976541,1168096591,0,Tom.Reding,Mandurah railway station,Confirm {{[[Template:Use dmy dates|Use dmy dates]]}} from 2013; [[WP:GenFixes]] & cleanup on
+2018-01-15T04:29:07+00:00,820529204,792561539,0,InternetArchiveBot,Mandurah railway station,Rescuing 3 sources and tagging 1 as dead. #IABot (v1.6.2)
+2022-08-13T22:50:47+00:00,1104275550,1096132532,0,JJMC89 bot III,Mansion House tube station,Moving [[:Category:Circle line stations]] to [[:Category:Circle line (London Underground) stations]] per [[Wikipedia:Categories for discussion/Log/2022 July 29#Ambiguous London Underground line names]]
+2021-03-16T01:30:32+00:00,1012375295,987272849,0,2A02:C7D:F218:3200:8611:9EFF:FEF5:3C1D,Mansion House tube station,/* Connections */
+2023-03-31T20:23:15+00:00,1147568928,1146613079,0,Lawrence 979,Mark Lane tube station,"slightly amended the infobox to show the services that ran when the station closed, rather than showing the services that run to its successor station"
+2022-04-15T08:10:48+00:00,1082817560,1082817439,0,DavidCane,Mark Lane tube station,"actually, let's remove citations in the lead as they are given in the body anyway"
+2021-01-13T18:03:09+00:00,1000122307,971181281,0,Monkbot,Mark Lane tube station,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: hyphenate params (1×); del |ref=harv (2×);
+2021-04-02T08:26:40+00:00,1015580162,1015574844,0,Fleet Lists,"Marla, South Australia",/* Transport */Morning breakfast expeience.
+2023-07-15T04:29:01+00:00,1165431936,1139023505,0,Marionlad,"Marla, South Australia",Updated population details with 2021 census data
+2021-03-02T11:22:59+00:00,1009807476,1006510334,0,JarrahTree,McIver railway station,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Railway station in Perth, Western Australia"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2024-04-02T00:31:04+00:00,1216791085,1215275148,0,JJMC89 bot,McIver railway station,"Replace BSicon(s): BSr→PLTr, dBS→dPLT, BSl→PLTl"
+2021-10-25T03:33:06+00:00,1051704774,1046760300,0,Citation bot,Mile End tube station,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 490/2200
+2023-09-30T16:40:33+00:00,1177943131,1149471650,0,TTWIDEE,Mill Hill East tube station,/* Services */ Added Battersea Power Station as a destination
+2022-02-06T00:52:28+00:00,1070158286,1070158141,0,Majorbonkers,Mill Hill East tube station,/* Post-war */
+2020-05-20T02:11:35+00:00,957686587,911597551,0,BrownHairedGirl,Mont Albert railway station,"populating subcats of [[Category:Railway stations in Australia by year of opening]], replaced: [[Category:Railway stations opened in 1890]] → [[Category:Railway stations in Australia opened in 1890]], <br> → <br />"
+2021-10-30T09:00:59+00:00,1052639174,1051893737,0,Bananabones,Mont Albert railway station,
+2023-12-02T02:26:06+00:00,1187891775,1186723366,0,Wantenline,Mont Albert railway station,"/* External links */ amend categories, remove navigation box"
+2021-11-18T13:19:16+00:00,1055894279,1055745873,0,104.221.127.45,Montreal Central Station,
+2021-08-23T20:05:55+00:00,1040306887,1040304820,0,Blythwood,Moorgate station,/* Infrastructure */ Added more on the shield
+2022-07-14T04:23:10+00:00,1098086753,1096014247,0,InternetArchiveBot,Montreal Central Station,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.8) ([[User:Ost316|Ost316]] - 10369
+2023-04-13T13:47:04+00:00,1149638582,1146584952,0,Bob1960evens,Moorgate station,/* External links */ LTM collection > LTM archive
+2020-05-20T02:11:55+00:00,957686650,950696589,0,BrownHairedGirl,Narre Warren railway station,"populating subcats of [[Category:Railway stations in Australia by year of opening]], replaced: [[Category:Railway stations opened in 1882]] → [[Category:Railway stations in Australia opened in 1882]]"
+2022-03-11T04:09:24+00:00,1076442482,1075168033,0,Tullyvallin,Narre Warren railway station,various minor edits for accuracy & expression
+2024-01-19T13:35:56+00:00,1197176474,1189675306,0,Marcnut1996,Narre Warren railway station,"/* History */ elaborate when the station will be completed, remove the 22nd nov announcement and combine with 24th nov information"
+2020-04-13T11:31:32+00:00,950696589,942561442,0,InternetArchiveBot,Narre Warren railway station,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0
+2021-12-12T20:11:55+00:00,1059980206,1008785972,0,Rlink2,Nassau station,"/* Station layout */Fixing archives for YouTube videos ([[WP:Link_Rot]], [[WP:CEFC#Pre-emptive_archiving]], [[phab:T294880]])"
+2020-10-18T03:20:32+00:00,984091003,972864921,0,Herbfur,Nassau station,Overpass is blocked.
+2021-01-01T00:13:22+00:00,997532013,973227475,0,Monkbot,Neasden tube station,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: hyphenate params (3×);
+2021-11-27T22:12:32+00:00,1057479494,1051493048,0,Pkbwcgs,New Cross railway station,Updated figures
+2021-11-27T22:13:37+00:00,1057479625,1052454154,0,Pkbwcgs,New Cross Gate railway station,Updated figures
+2022-07-11T18:07:13+00:00,1097614375,1088103186,0,ThadeusOfNazereth,"Newport railway station, Melbourne","Adding local [[Wikipedia:Short description|short description]]: ""Railway station in Melbourne, Australia"", overriding Wikidata description ""railway station in Newport, Melbourne, Victoria, Australia"""
+2023-03-25T20:22:20+00:00,1146587634,1140105775,0,Redrose64,New Cross Gate railway station,Undid revision 1140105775 by [[Special:Contributions/Lachlan2009|Lachlan2009]] ([[User talk:Lachlan2009|talk]]) [[WP:BRV]]
+2022-05-16T05:57:15+00:00,1088103186,1086064711,0,2001:44B8:41C6:F700:B960:2792:E2BD:9494,"Newport railway station, Melbourne",
+2020-08-05T09:39:36+00:00,971309180,969628650,0,Dpm853,"Newport railway station, Melbourne",
+2020-08-16T02:31:53+00:00,973227475,957207968,0,GoAheadFan95,Neasden tube station,Neasden station was opened on 2 August 1880
+2023-10-31T10:09:15+00:00,1182780797,1172477891,0,Fork99,"Newport railway station, Melbourne",Consistency with other adjacent stations on this line
+2020-05-20T02:11:59+00:00,957686663,956629886,0,BrownHairedGirl,"Newport railway station, Melbourne","populating subcats of [[Category:Railway stations in Australia by year of opening]], replaced: [[Category:Railway stations opened in 1859]] → [[Category:Railway stations in Australia opened in 1859]], <br> → <br />"
+2021-05-05T08:13:52+00:00,1021541037,1015705714,0,GMB205,Nhill railway station,/* Platforms & services */ added routebox
+2022-11-16T02:03:40+00:00,1122142389,1075533456,0,Redhen334,Nhill railway station,
+2022-10-04T18:08:00+00:00,1114079702,1091373468,0,Frietjes,North Weald railway station,update template syntax
+2020-11-07T04:31:20+00:00,987455400,965234136,0,AnomieBOT,North Weald railway station,Substing templates: {{Infobox UK heritage station}} per [[WP:Templates for discussion/Log/2020 July 22#Template:Infobox UK heritage station]]. Report errors at [[User talk:AnomieBOT/TFDTemplateSubster]].
+2020-10-12T13:47:18+00:00,983140588,957686745,0,Techie3,Officer railway station,Adjacent Stations using [[WP:AutoEd|AutoEd]]
+2024-02-29T21:06:00+00:00,1211097333,1206969786,0,49.198.19.199,Pakenham line,/* Services */
+2020-02-15T11:11:14+00:00,940907601,935065114,0,Reubstar6,Pakenham line,/* Services */
+2021-11-19T02:24:22+00:00,1055994553,1054789034,0,Bananabones,Pakenham railway station,
+2020-05-20T02:12:33+00:00,957686761,953802980,0,BrownHairedGirl,Pakenham railway station,"populating subcats of [[Category:Railway stations in Australia by year of opening]], replaced: [[Category:Railway stations opened in 1877]] → [[Category:Railway stations in Australia opened in 1877]]"
+2021-05-06T03:56:29+00:00,1021689449,1021537923,0,GMB205,Officer railway station,/* Platforms & services */
+2020-08-04T03:42:48+00:00,971093210,970655451,0,194.193.189.65,Perth railway station,
+2020-06-27T05:26:28+00:00,964720200,964036709,0,McVahl,Perth railway station,/* top */ rcb
+2023-11-23T04:05:27+00:00,1186440398,1186439736,0,Shinjiman,Perth railway station,update references to latest Train timetable using templates
+2022-10-04T20:54:24+00:00,1114105751,1110153317,0,Frietjes,Quainton Road railway station,update template syntax
+2021-12-30T17:23:17+00:00,1062807970,1061654928,0,Trappist the monk,Quainton Road railway station,Cite newspaper The Times: replace/delete deprecated parameters;
+2024-03-24T03:37:17+00:00,1215275251,1186440398,0,Steelkamp,Perth railway station,MEL opening in 2024
+2020-05-17T18:24:52+00:00,957222649,957207893,0,BrownHairedGirl,Quainton Road railway station,"populating subcats of [[Category:Railway stations in Great Britain by year of opening]]/closing, replaced: [[Category:Railway stations closed in 1963]] → [[Category:Railway stations in Great Britain closed in 1963]]"
+2023-09-02T01:38:19+00:00,1173376911,1166769081,0,Onel5969,Quainton Road railway station,"clean up, [[WP:AWB/T|typo(s) fixed]]: Managing Director → managing director, Chairman → chairman, Centre → centre (3)"
+2021-02-20T20:24:44+00:00,1007957225,1007955844,0,109.154.221.91,Rayners Lane tube station,Plus disambiguation
+2020-05-31T11:13:50+00:00,959948917,959948179,0,Mikeya,Rayners Lane tube station,Added dates of reconstruction and references to 1938.
+2022-11-24T17:15:20+00:00,1123606273,1123563150,0,The joy of all things,Redcar Central railway station,caps
+2020-03-22T14:38:15+00:00,946803238,945291535,0,Timrollpickering,Redcar Central railway station,"/* External links */per [[Wikipedia:Categories for discussion/Log/2020 March 1]], replaced: Railway stations served by Northern (train operating company) → Northern franchise railway stations"
+2022-11-30T21:44:26+00:00,1124855801,1118306197,0,Pkbwcgs,Rickmansworth station,Updated figures
+2020-05-17T19:21:05+00:00,957232045,952629323,0,BrownHairedGirl,Rickmansworth station,"populating subcats of [[Category:Railway stations in Great Britain by year of opening]]/closing, replaced: [[Category:Railway stations opened in 1887]] → [[Category:Railway stations in Great Britain opened in 1887]], <br> → <br />"
+2021-08-10T14:52:51+00:00,1038102817,1037248409,0,Citation bot,Rickmansworth station,Alter: url. URLs might have been anonymized. Add: authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Use dmy dates from August 2012]] | #UCB_Category 4118/4379
+2020-12-06T17:50:50+00:00,992704157,957232045,0,Pkbwcgs,Rickmansworth station,Updated figures
+2022-07-11T18:18:13+00:00,1097616057,1072565893,0,ThadeusOfNazereth,Ringwood East railway station,"Adding local [[Wikipedia:Short description|short description]]: ""Railway station in Melbourne, Australia"", overriding Wikidata description ""railway station in Ringwood East, Melbourne, Victoria, Australia"""
+2022-02-18T10:03:23+00:00,1072565893,1068602726,0,Bananabones,Ringwood East railway station,
+2020-06-27T06:05:26+00:00,964723720,964039101,0,McVahl,"Rockingham railway station, Perth",/* top */ invoke [[Template:Rail color box]]
+2024-04-25T12:09:56+00:00,1220705465,1220690818,0,Graham87,"Rockingham railway station, Perth","Graham87 moved page [[Rockingham railway station (Perth)]] to [[Rockingham railway station, Perth]] over redirect: not a single railway station in the subcategories of [[Category:Transperth railway lines]] is like this; if you want to change this precedent, start a mass move request"
+2023-05-05T21:24:54+00:00,1153362131,1152955633,0,79.24.166.33,Rotherhithe railway station,60:16=less than 4
+2022-01-12T14:38:06+00:00,1065239498,1057602261,0,Eevee2425,Ryde Esplanade railway station,/* Gallery */ added photos with regards to changes
+2020-05-17T22:06:04+00:00,957257211,957222990,0,SK2242,Rotherhithe railway station,/* Connections */Update
+2023-05-29T01:00:37+00:00,1157495890,1146581866,0,Maurice Oly,Ryde Esplanade railway station,Removed red link
+2020-03-21T23:30:19+00:00,946714881,936100752,0,Billinghurst,Ryde Pier Head railway station,"([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:P1010080FY.JPG]] → [[File:Interior of Ryde Pier Head station, September 2007.jpg]] [[c:COM:FR#FR2|Criterion 2]] (meaningless or ambiguous name)"
+2020-12-06T18:13:34+00:00,992707940,988024040,0,Pkbwcgs,Ryde St John's Road railway station,Updated figures
+2023-04-28T20:08:18+00:00,1152199383,1146581783,0,WOSlinkerBot,Ryde Pier Head railway station,Fix [[Special:LintErrors/bogus-image-options|lint errors]] with image options
+2021-11-28T16:10:53+00:00,1057602431,1056453692,0,Pkbwcgs,Ryde St John's Road railway station,Updated figures
+2020-05-20T02:25:08+00:00,957688647,896853468,0,BrownHairedGirl,Salt Water River railway station,"populating subcats of [[Category:Railway stations in Australia by year of opening]], replaced: [[Category:Railway stations opened in 1859]] → [[Category:Railway stations in Australia opened in 1859]]"
+2022-12-25T12:05:27+00:00,1129449103,1129446970,0,The Drover's Wife,Salt Water River railway station,The Drover's Wife moved page [[Saltwater River railway station]] to [[Salt Water River railway station]] over redirect: most sources refer to it with the space
+2023-04-05T18:21:43+00:00,1148360272,1146582370,0,Aaroncrudge,Sandown railway station,/* Services */Updated services for April 2023
+2022-08-13T21:56:48+00:00,1104269828,1095813143,0,JalenFolf,Sandown railway station,removed [[Category:Railway stations served by South Western Railway]]; added [[Category:Island Line railway stations (Isle of Wight)]] using [[WP:HC|HotCat]]
+2022-01-17T23:29:10+00:00,1066345902,1058407044,0,Rlink2,"Serpentine, Western Australia",/* top */Filling completely bare references [[Wikipedia:Bare_URLs]]
+2020-07-08T03:39:15+00:00,966615251,964092360,0,Mx. Granger,"Serpentine, Western Australia",removing reference that was undefined even when it was first added
+2021-11-28T18:59:55+00:00,1057626441,1033856111,0,Pkbwcgs,Seven Sisters station,Updated figures
+2023-09-21T12:42:13+00:00,1176392524,1176387847,0,Gregwholikestrains,Seven Sisters station,/* External links */ Greater Anglia preceeding stations.
+2022-01-16T18:29:49+00:00,1066081220,1060608047,0,Citation bot,Seven Sisters station,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1462/2195
+2020-05-17T18:41:07+00:00,957225451,939543604,0,BrownHairedGirl,Seven Sisters station,"populating subcats of [[Category:Railway stations in Great Britain by year of opening]]/closing, replaced: [[Category:Railway stations opened in 1872]] → [[Category:Railway stations in Great Britain opened in 1872]], <br> → <br /> (3), <br/> →"
+2020-12-14T20:03:49+00:00,994249517,991268169,0,Pkbwcgs,Seven Sisters station,Updated figures
+2020-02-07T03:07:12+00:00,939543604,939491658,0,Vincent60030,Seven Sisters station,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/CLASS360|CLASS360]] ([[User talk:CLASS360|talk]]): I dont think that’s needed in the lead section ([[WP:TW|TW]])
+2023-08-15T17:44:35+00:00,1170542907,1146586846,0,Pedroperezhumberto,Shadwell railway station,fix manager and owner
+2020-05-17T21:58:28+00:00,957255902,957222743,0,SK2242,Shadwell railway station,/* Connections */Update
+2021-01-28T12:28:17+00:00,1003319787,994250409,0,331dot,Shanklin railway station,/* Bus routes */ rm link to article about different topic
+2021-11-28T19:19:39+00:00,1057629849,1056454087,0,Pkbwcgs,Shanklin railway station,Updated figures
+2021-07-19T08:31:29+00:00,1034336490,993715380,0,JarrahTree,"Showgrounds railway station, Perth","Importing Wikidata [[Wikipedia:Short description|short description]]: ""Railway station in Perth, Western Australia"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2023-07-31T18:17:42+00:00,1168086240,1164423295,0,InternetArchiveBot,"Showgrounds railway station, Perth",Rescuing 1 sources and tagging 1 as dead.) #IABot (v2.0.9.5) ([[User:GreenC|GreenC]] - 14210
+2020-03-17T09:13:39+00:00,945979553,936393043,0,InternetArchiveBot,Slough railway station,Bluelink 1 book for [[Wikipedia:Verifiability|verifiability]] ([[WP:GBWP|goog]])) #IABot (v2.0) ([[User:GreenC bot|GreenC bot]]
+2020-06-17T07:19:04+00:00,963004327,957233398,0,JJMC89 bot III,Slough railway station,Moving [[:Category:Great Western Main Line]] to [[:Category:Great Western main line]] per [[Wikipedia:Categories for discussion/Speedy]]
+2023-07-20T07:20:01+00:00,1166238191,1161032965,0,2403:5801:D94F:0:70B4:15F5:C328:BF6E,Smallbrook Junction railway station,/* Services */
+2020-05-17T23:00:35+00:00,957264365,936111729,0,BrownHairedGirl,Smallbrook Junction railway station,"populating subcats of [[Category:Railway stations in Great Britain by year of opening]]/closing, replaced: [[Category:Railway stations opened in 1991]] → [[Category:Railway stations in Great Britain opened in 1991]], <br> → <br />"
+2021-11-18T23:18:57+00:00,1055972705,1055956048,0,Marcnut1996,Southern Cross railway station,wikilink IFM investors
+2022-06-14T05:43:00+00:00,1093041479,1092268520,0,JD22LU,Southall railway station,Updated service information.
+2021-06-17T06:02:11+00:00,1028983209,1028792302,0,Tullyvallin,Southern Cross railway station,minor clarification of ownership with cites
+2023-11-14T20:14:37+00:00,1185136537,1178077217,0,Likelife,Southall railway station,"Managed by the Elizabeth line, not TfL"
+2021-08-29T12:32:35+00:00,1041243557,1039521866,0,Tullyvallin,Southern Cross railway station,/* 1880s: Passenger services commence */minor edit for accuracy
+2021-10-30T06:45:29+00:00,1052626062,1051918235,0,Bananabones,"St Albans railway station, Melbourne",
+2020-10-12T06:07:06+00:00,983094306,976069501,0,Techie3,"St Albans railway station, Melbourne",Adjacent Stations using [[WP:AutoEd|AutoEd]]
+2022-02-02T01:16:59+00:00,1069379237,1063994210,0,Tullyvallin,"St Albans railway station, Melbourne",a few minor edits
+2021-07-08T01:17:50+00:00,1032532721,1032532606,0,49.176.246.63,"St Albans railway station, Melbourne",
+2024-04-02T04:03:07+00:00,1216818235,1213846113,0,JJMC89 bot,"St Albans railway station, Melbourne","Replace BSicon(s): STR+BSl→PSTR(L), STR+BSr→PSTR(R)"
+2020-05-14T06:15:25+00:00,956595105,956593497,0,Fleet Lists,"St Albans railway station, Melbourne",Undid revision 956593497 by [[Special:Contributions/LachlanTansey|LachlanTansey]] ([[User talk:LachlanTansey|talk]])Inorrect information
+2022-08-20T18:38:37+00:00,1105542036,1097614439,0,Citation bot,"St Albans railway station, Melbourne",Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 1093/3820
+2024-04-20T12:21:29+00:00,1219881912,1206514917,0,PEPSI697,Stawell railway station,Replacing “in” with comma in main image description
+2022-11-16T02:01:55+00:00,1122142024,1097443404,0,Redhen334,Stawell railway station,Change Overland adjacent stations direction
+2024-01-19T12:35:51+00:00,1197160582,1191369440,0,HJ Mitchell,Stonebridge Park station,/* History */ [[Brent Viaduct]]
+2020-05-17T18:25:03+00:00,957222685,957208319,0,BrownHairedGirl,Stonebridge Park station,"populating subcats of [[Category:Railway stations in Great Britain by year of opening]]/closing, replaced: [[Category:Railway stations closed in 1917]] → [[Category:Railway stations in Great Britain closed in 1917]]"
+2023-08-01T00:04:51+00:00,1168126955,1164423504,0,InternetArchiveBot,Subiaco railway station,Rescuing 2 sources and tagging 1 as dead.) #IABot (v2.0.9.5) ([[User:GreenC|GreenC]] - 14210
+2020-06-27T06:10:27+00:00,964724139,964036287,0,McVahl,Subiaco railway station,/* top */ invoke [[Template:Rail color box]]
+2020-01-05T12:27:37+00:00,934232803,934093995,0,Dormskirk,Sunbury line,link
+2023-04-13T00:55:07+00:00,1149563187,1149433251,0,49.185.143.145,Sunbury line,/* Operations */Removed Sunshine from table not used as a regular terminus
+2024-03-02T06:03:04+00:00,1211374406,1195004497,0,Techie3,Sunbury line,Sunbury Line
+2023-05-22T11:25:59+00:00,1156346928,1156335996,0,HoHo3143,Sunbury line,/* External links */
+2024-04-24T06:24:43+00:00,1220510204,1211374406,0,PEPSI697,Sunbury line,Added capture month and year to main image description
+2023-06-02T07:35:17+00:00,1158150681,1157384793,0,2001:44B8:41C6:F700:240F:C917:1A30:372B,"Sunbury railway station, Melbourne",
+2022-12-27T12:53:09+00:00,1129860499,1119522223,0,Bananabones,"Sunbury railway station, Melbourne",
+2021-11-12T09:14:50+00:00,1054828246,1052625273,0,Bananabones,"Sunshine railway station, Melbourne",
+2022-02-26T23:07:52+00:00,1074191020,1073481877,0,Bananabones,"Sunbury railway station, Melbourne",
+2022-11-02T01:03:38+00:00,1119522223,1119399327,0,LachlanTansey45566788765444332,"Sunbury railway station, Melbourne","added Peak Hour ""express"" services"
+2020-12-13T13:35:36+00:00,993969602,990341283,0,Dawnseeker2000,"Sunshine railway station, Melbourne","date format audit, minor formatting, [[WP:AWB/T|typo(s) fixed]]: between 2012-2014 → between 2012 and 2014, From 2012-2014 → From 2012 to 2014"
+2020-05-20T02:21:28+00:00,957688099,917624580,0,BrownHairedGirl,Surrey Hills railway station,"populating subcats of [[Category:Railway stations in Australia by year of opening]], replaced: [[Category:Railway stations opened in 1883]] → [[Category:Railway stations in Australia opened in 1883]], <br/> → <br />"
+2022-12-16T00:16:49+00:00,1127664119,1118122938,0,Djmandibular,Surrey Hills railway station,
+2020-12-06T09:24:02+00:00,992635749,991880716,0,Dimlys1994,Surrey Hills railway station,
+2022-03-28T23:28:49+00:00,1079851420,1072569653,0,Boota Ram,Surrey Hills railway station,/* History */
+2020-05-17T22:13:57+00:00,957258472,957222999,0,SK2242,Surrey Quays railway station,/* Connections */Update
+2021-07-20T11:42:59+00:00,1034529682,1034181709,0,Denham331,Surrey Quays railway station,
+2020-03-03T08:33:29+00:00,943675963,943193834,0,Democfest,Sydney Trains K set,
+2020-10-31T00:15:33+00:00,986298839,985336217,0,Edgar Searle,Sydney Trains K set,
+2023-03-25T19:25:33+00:00,1146580012,1144005283,0,Redrose64,Talk:Clapham High Street railway station,Undid revision 1144005283 by [[Special:Contributions/Lachlan2009|Lachlan2009]] ([[User talk:Lachlan2009|talk]]) [[WP:BRV]]
+2017-08-08T19:58:55+00:00,794567036,764269516,0,InternetArchiveBot,Talk:Clapham High Street railway station,Notification of altered sources needing review #IABot (v1.5beta)
+2022-07-16T07:15:32+00:00,1098528053,1091753836,0,Marcnut1996,Template:Public Transport Victoria railway stations,opening days are today and tomorrow
+2021-08-17T21:57:49+00:00,1039297575,1010398281,0,Xbspiro,"Tocumwal railway line, Victoria",added a related wikinews article
+2022-08-30T07:05:59+00:00,1107487810,1107479013,0,Bruce1ee,Template:Midland railway line map,fixed [[Special:LintErrors|lint errors]] – missing end tag
+2020-07-03T03:31:55+00:00,965737269,964061313,0,Pacmodern,Template:Midland railway line map,Forrestfield-Airport Link → Airport railway line
+2022-03-25T02:23:41+00:00,1079112502,1079112399,0,Boota Ram,Template:Public Transport Victoria railway stations,
+2023-08-25T21:12:07+00:00,1172240954,1169807846,0,Kj cheetham,"Tocumwal railway line, Victoria","fixed [[MOS:DASH|dashes]] using [[User:Ohconfucius/dashes.js]], [[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]]"
+2022-10-09T15:53:57+00:00,1115050818,1114329406,0,Assimo23,Tottenham Hale station,/* External links */
+2020-08-12T08:46:53+00:00,972479253,967025547,0,78.145.62.149,Tottenham Hale station,
+2023-03-25T19:33:25+00:00,1146581031,1144077047,0,Redrose64,Tower of London tube station,rv x4: [[WP:BRV]]
+2020-05-17T19:14:09+00:00,957230918,952002038,0,BrownHairedGirl,Tower of London tube station,"populating subcats of [[Category:Railway stations in Great Britain by year of opening]]/closing, replaced: [[Category:Railway stations opened in 1882]] → [[Category:Railway stations in Great Britain opened in 1882]], [[Category:Railway stations cl"
+2021-01-13T16:54:54+00:00,1000110660,957230918,0,Monkbot,Tower of London tube station,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: hyphenate params (1×); del |ref=harv (2×);
+2022-03-13T23:31:42+00:00,1076973999,1058551376,0,BrownHairedGirl,Upfield line,tag with {{[[Template:Bare URL PDF|Bare URL PDF]]}}
+2021-02-21T08:45:57+00:00,1008049176,998352496,0,Davidnicholsknowsbest,Upfield line,/* Infrastructure */ level crossings don't just slow cars down
+2021-05-16T22:22:19+00:00,1023532753,1023532519,0,Maxopolitan,Upminster station,
+2021-02-02T13:04:04+00:00,1004407629,993904839,0,2A02:C7F:CAA0:F600:75F2:6A49:C472:2EC8,Upminster station,
+2020-11-14T02:08:29+00:00,988587818,958732816,0,Liz,User talk:Lachlan928292942887,Notification: speedy deletion of [[:Draft:Leighton railway station]].
+2020-05-17T17:17:01+00:00,957211560,956595952,0,Drmies,User talk:LachlanTansey,{{checkuserblock-account}}. ([[WP:TW|TW]])
+2020-04-09T08:51:22+00:00,949926524,948137236,0,John beta,User talk:LachlanTansey,Perth railway stations
+2020-05-17T17:20:49+00:00,957212108,956631323,0,Drmies,User:Lachlan928292942887,[[WP:AES|←]]Replaced content with '{{sock|LachlanTansey|confirmed}}'
+2020-05-17T17:19:47+00:00,957211962,945263723,0,Drmies,User:LachlanTansey,
+2023-01-13T05:59:42+00:00,1133321542,1131713406,0,Ngin34,V/Line A class,/* History */
+2020-05-31T09:54:43+00:00,959939629,959914224,0,114.72.51.75,V/Line A class,"/* Status table */ Alterations to colours of the status table, preparing for upcoming alterations."
+2022-06-03T18:35:08+00:00,1091345090,1050063027,0,Steamybrian2,Verney Junction railway station,/* References */
+2023-01-14T11:25:30+00:00,1133557626,1126026134,0,Seabiscuit77,"Victoria Park railway station, Perth",
+2022-01-19T08:20:26+00:00,1066625757,1038156165,0,JJMC89 bot III,"Victoria Park railway station, Perth",Moving [[:Category:Armadale railway line]] to [[:Category:Armadale and Thornlie lines]] per [[Wikipedia:Categories for discussion/Speedy]]
+2022-10-29T22:15:05+00:00,1118949001,1118229942,0,LachlanTansey45566788765444332,"Victoria Street railway station, Perth",
+2022-12-06T10:47:25+00:00,1125882000,1125550944,0,Steelkamp,"Victoria Street railway station, Perth",ce
+2020-06-30T12:34:41+00:00,965280432,959642283,0,Feloniii,Waddesdon railway station,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Former GCML and Metropolitan Railway Station in Buckinghamshire"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2023-10-21T18:31:16+00:00,1181230820,1170867185,0,81.153.181.106,Walthamstow Central station,
+2022-06-12T19:32:12+00:00,1092813668,965280432,0,Steamybrian2,Waddesdon railway station,/* History */ Line not used for freight
+2023-04-18T13:11:59+00:00,1150483892,1143682013,0,Bob1960evens,Waddesdon railway station,/* External links */ LTM collection > LTM archive
+2023-03-11T09:39:14+00:00,1144018702,1144008564,0,Mattdaviesfsic,Wandsworth Road railway station,"Restored revision 1128837062 by [[Special:Contributions/Mattdaviesfsic|Mattdaviesfsic]] ([[User talk:Mattdaviesfsic|talk]]): Thanks, but better source needed. RTT generally avoided, and I'm not sure a booking engine is helpful. Both of these wouild also be deleted at some point, we need a reference to the WTT, for example"
+2021-09-12T17:25:26+00:00,1043917011,1027004059,0,82.10.86.69,Walthamstow Central station,
+2020-08-02T00:29:17+00:00,970721033,957223448,0,GoAheadFan95,Wandsworth Road railway station,
+2022-01-11T09:09:06+00:00,1065005796,1057748210,0,31.200.10.48,Wapping railway station,/* Connections */
+2021-01-26T00:53:39+00:00,1002779944,1002779864,0,Class380,Wapping railway station,Undid revision 1002779864 by [[Special:Contributions/Class380|Class380]] ([[User talk:Class380|talk]])
+2023-09-28T09:14:52+00:00,1177588543,1177145731,0,WikiCleanerBot,Watergardens railway station,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2020-10-12T05:55:22+00:00,983093191,983093153,0,Techie3,Watergardens railway station,
+2022-04-12T01:24:40+00:00,1082230286,1082213045,0,AnomieBOT,Watford High Street railway station,"Rescuing orphaned refs (""tfl_2053"" from rev 1060731104; ""newcivilengineer"" from rev 1060731104; ""crlu20141217"" from rev 1060731104)"
+2023-06-13T14:22:57+00:00,1159943068,1159772665,0,Purin128AL,Watergardens railway station,/* top */Fix lint errors
+2021-06-03T07:10:38+00:00,1026604567,1017811210,0,Edgar Searle,Watford High Street railway station,/* Services */ It seems that the Croxley Rail Link plan was left abandoned
+2023-10-08T23:41:48+00:00,1179260125,1168391188,0,Citation bot,Watford Junction railway station,Add: date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Eastmain | [[Category:Railway stations served by Govia Thameslink Railway]] | #UCB_Category 179/326
+2023-03-25T19:57:09+00:00,1146584148,1143305971,0,Redrose64,Watford Stadium Halt railway station,[[WP:BRV]]
+2022-02-09T17:32:45+00:00,1070863453,1068601158,0,79.69.216.208,Watford Junction railway station,previous image was better despite having an old livery
+2023-12-24T12:49:46+00:00,1191590478,1191341914,0,Redrose64,Watford West railway station,Undid revision 1191341914 by [[Special:Contributions/SpongeDan2000|SpongeDan2000]] ([[User talk:SpongeDan2000|talk]]) it's not
+2023-03-26T21:54:24+00:00,1146775355,1146586409,0,Grandtubetrains,Watford tube station,"Undid revision 1146586409 by [[Special:Contributions/Redrose64|Redrose64]] ([[User talk:Redrose64|talk]]) Met trains do make the routing via Rickmansworth, so this should be kept"
+2023-12-20T19:09:20+00:00,1190940566,1190940420,0,2605:8D80:139C:34B0:1A8:F7D:DBB9:61C4,Watford tube station,
+2019-12-18T21:42:59+00:00,931431629,919424884,0,InternetArchiveBot,Wembley Park tube station,Bluelinking 2 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3
+2021-08-10T13:30:14+00:00,1038092522,1032587438,0,Citation bot,Wembley Park tube station,"Alter: url, chapter-url. URLs might have been anonymized. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Use dmy dates from August 2012]] | #UCB_Category 2943/4379"
+2022-08-25T10:45:42+00:00,1106590277,1097219594,0,BritishRailWikiEditor,Wembley Park tube station,
+2021-03-10T22:24:23+00:00,1011441306,987541481,0,Turini2,Wembley Park tube station,"edits and additions, new references"
+2021-03-04T12:23:26+00:00,1010226357,1004945009,0,Tullyvallin,Werribee railway station,
+2019-12-08T22:21:39+00:00,929889030,923106374,0,BigC9heese,Werribee railway station,Werribee is the terminus of the Metro line
+2022-05-15T22:52:20+00:00,1088048885,1084883643,0,Boota Ram,Werribee railway station,
+2024-01-10T14:28:31+00:00,1194741896,1182780549,0,Imro Grizgo,Werribee railway station,
+2021-10-30T06:22:46+00:00,1052623333,1051919462,0,Bananabones,Werribee railway station,
+2022-02-13T11:25:37+00:00,1071594748,1071594636,0,Marcnut1996,Werribee railway station,/* History */ construction begins 2023
+2021-07-22T02:51:27+00:00,1034832366,999639156,0,JJMC89 bot III,West Drayton railway station,Moving [[:Category:Great Western main line]] to [[:Category:Great Western Main Line]] per [[Wikipedia:Categories for discussion/Speedy]]
+2022-12-22T04:32:50+00:00,1128821472,1125039999,0,JalenFolf,West Drayton railway station,December 2022 timetable has removed this station from GWR service
+2020-02-11T18:13:22+00:00,940296034,938457267,0,Mac Dreamstate,West Ealing railway station,/* History */
+2021-09-25T22:24:36+00:00,1046480807,1046461489,0,Redrose64,West Ealing railway station,/* Crossrail */ don't put images into the middle of a paragraph
+2021-03-27T00:52:51+00:00,1014428756,1014428677,0,Mac Dreamstate,West Ealing railway station,/* Future */
+2020-08-13T05:06:16+00:00,972645346,963012197,0,GoAheadFan95,West Ealing railway station,Bypass redirects
+2020-10-19T07:29:47+00:00,984282155,983923138,0,Fleet Lists,Williamstown Pier railway station,Adjacent stations
+2020-05-20T02:25:37+00:00,957688716,867028630,0,BrownHairedGirl,Williamstown Pier railway station,"populating subcats of [[Category:Railway stations in Australia by year of opening]], replaced: [[Category:Railway stations opened in 1905]] → [[Category:Railway stations in Australia opened in 1905]], [[Category:1905 establishments in Australia]]"
+2018-11-03T04:07:01+00:00,867028630,822622286,0,Shyamsunder,Williamstown Pier railway station,"added [[Category:Williamstown, Victoria]] using [[WP:HC|HotCat]]"
+2023-06-12T10:47:32+00:00,1159760478,1158727492,0,Purin128AL,Werribee railway station,Collapse some passenger data
+2023-05-26T18:33:25+00:00,1157158365,1154923177,0,Purin128AL,Williamstown Pier railway station,
+2019-03-22T21:48:22+00:00,889019630,887899093,0,Fleet Lists,Williamstown railway station,Use short version of PTV URL - change train and bus URL's to Cite PTV route template
+2020-05-20T02:22:30+00:00,957688256,953515160,0,BrownHairedGirl,Williamstown railway station,"populating subcats of [[Category:Railway stations in Australia by year of opening]], replaced: [[Category:Railway stations opened in 1859]] → [[Category:Railway stations in Australia opened in 1859]]"
+2022-10-12T14:35:08+00:00,1115653897,1115653802,0,Crowsus,Williamstown railway station,Removing from [[Category:Buildings and structures in the City of Hobsons Bay]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2023-10-31T10:21:31+00:00,1182782158,1182779610,0,Fork99,Williamstown railway station,"Fix incorrect link to [[Newport railway station, Melbourne]] instead of [[Newport railway station]]"
+2023-08-15T12:24:55+00:00,1170501813,1170209158,0,Bazza 7,Windsor & Eton Central railway station,/* Services */ no deliberate connections; clarify which company operates which type of service
+2023-04-26T08:53:59+00:00,1151796806,1150595261,0,InternetArchiveBot,Windsor & Eton Central railway station,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.3) ([[User:Eastmain|Eastmain]] - 13425
+2023-05-27T22:47:10+00:00,1157327760,1153578671,0,Fork99,Yarra Valley Railway,Rescuing 8 sources and tagging 0 as dead.) #IABot (v2.0.9.4
+2023-12-03T07:47:24+00:00,1188089488,1175615313,0,Fork99,Yarra Valley Railway,Unnecessary capitalisation in image caption
+2020-10-15T00:46:10+00:00,983573417,963863027,0,210.49.70.196,Yarra Valley Railway,/* Locomotives */ Updates
+2021-11-02T08:56:59+00:00,1053164760,1030693611,0,MetroManMelbourne,Yarra Valley Railway,/* Locomotives */ fixed issue
+2023-09-16T06:15:59+00:00,1175615313,1170269847,0,GreenC bot,Yarra Valley Railway,Reformat 1 URL ([[en:User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]])
+2024-03-17T12:46:25+00:00,1214188621,1214187894,0,The wub,Aldwych tube station,"/* Operation */ KCL Rifle and Pistol Club, and link Classics department"
+2017-09-23T11:12:03+00:00,802008323,799899786,0,Laytar1,Aldwych tube station,/* External links */
+2018-01-29T20:39:51+00:00,823014859,821478939,0,88.98.85.216,Aylesbury railway station,correct linking
+2021-07-27T01:58:05+00:00,1035674339,1035358861,0,David notMD,Aldwych tube station,Undid revision 1035358861 by [[Special:Contributions/45.232.93.47|45.232.93.47]] ([[User talk:45.232.93.47|talk]]) because
+2021-05-13T20:29:55+00:00,1023014176,1019161435,0,JMF,Aylesbury railway station,/* Future */ connection to EWR is 'deferred indefinitely'.
+2019-01-22T20:57:48+00:00,879697527,877012486,0,Ymblanter,Barbican tube station,+ short description
+2021-05-11T16:41:04+00:00,1022636012,1014213588,0,DisillusionedBitterAndKnackered,Barbican tube station,/* Future development */ missing article
+2019-04-20T03:58:26+00:00,893258502,837528109,0,SquiddyFish,"Armadale railway station, Perth",Fixed typo
+2017-08-21T22:36:02+00:00,796595103,796529769,0,KolbertBot,Barbican tube station,Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]
+2017-07-28T12:49:14+00:00,792751315,788600609,0,124.176.117.164,Belgrave line,
+2020-06-23T11:09:21+00:00,964062598,963529586,0,Mackensen,"Belmont Park railway station, Perth",c/e
+2023-08-19T15:32:09+00:00,1171187382,1170846697,0,Real4jyy,Belgrave line,layout fix
+2022-07-25T15:25:40+00:00,1100370251,1086502728,0,DrRespect,"Belmont Park railway station, Perth",Added passenger numbers
+2018-02-12T14:10:10+00:00,825279318,824928605,0,Certes,"Belmont Park railway station, Perth",Fix hatnote per [[WP:INTDAB]]
+2018-03-26T15:35:24+00:00,832530743,826531410,0,TBM10,Bethnal Green railway station,
+2023-12-08T10:47:30+00:00,1188898671,1186982413,0,Tract10n3ng1ne,Bethnal Green railway station,Minor detailing to the text
+2018-06-04T09:21:36+00:00,844345344,834252944,0,TBM10,Blackhorse Road station,Gospel Oak is at 4ch so previous measurement was 4ch out
+2020-06-13T00:24:48+00:00,962256204,957233316,0,82.132.229.201,Bethnal Green railway station,"Bethnal Green is an interchange between three, not two, rail services operated by London Overground."
+2017-08-21T21:23:26+00:00,796587167,792092011,0,Spiderjerky,Brading railway station,removed [[Category:Railway stations served by South West Trains]]; added [[Category:Railway stations served by South Western Railway]] using [[WP:HC|HotCat]]
+2018-01-29T00:30:47+00:00,822874097,822621640,0,Dl2000,Burrumbeet railway station,en-AU
+2019-11-02T01:54:55+00:00,924139007,921409224,0,AvalerionV,Canada Water station,v2.02b - [[WP:WCW]] project (Template contains useless word template:)
+2019-05-03T12:53:20+00:00,895318646,879813162,0,185.49.74.145,Canada Water station,
+2018-06-01T07:18:31+00:00,843900554,790370546,0,114.76.105.215,Cardinia Road railway station,/* Platforms & services */
+2019-01-23T15:27:27+00:00,879813162,875079953,0,Ymblanter,Canada Water station,+ short description
+2020-07-17T16:19:55+00:00,968160457,957224320,0,Qazwsx777,Chesham tube station,/* Gallery */ Expanding article
+2022-07-17T03:49:03+00:00,1098706955,1087237425,0,DrRespect,"Claremont railway station, Perth",Added passenger numbers
+2018-05-19T00:46:49+00:00,841927015,835154330,0,Peter Horn,Comeng (train),[[tread brake]]s → [[Brake shoe#Railway tread brake|tread brakes]]
+2022-01-14T04:52:53+00:00,1065561040,1065560684,0,Sea Cow,Comeng (train),"Reverted edits by [[Special:Contributions/159.196.238.93|159.196.238.93]] ([[User talk:159.196.238.93|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.10)"
+2017-04-23T15:19:56+00:00,776830988,691906819,0,Kerry Raymond,Cremorne railway station,"/* top */using preferred persistent URL, replaced: http://trove.nla.gov.au/ndp/del/article/ → http://nla.gov.au/nla.news-article (3) using [[Project:AWB|AWB]]"
+2020-03-04T00:01:32+00:00,943798878,941210641,0,125.254.27.226,Comeng (train),/* Refurbishment */ Removing unnecessary <small> tags on 'Light Fittings'
+2021-06-02T01:10:21+00:00,1026394865,1010129071,0,Beland,Croxley Green railway station,convert special characters (via [[WP:JWB]])
+2019-07-23T07:39:11+00:00,907488038,907487713,0,180.150.37.208,Comeng (train),/* Life Extension / Retirement */
+2019-07-14T09:21:09+00:00,906201522,905963902,0,2001:8003:403F:2001:A8F1:591B:5EE8:DD30,Comeng (train),Spelling error
+2019-01-27T08:38:38+00:00,880415974,792558474,0,1.126.105.51,Daglish railway station,
+2017-07-27T06:48:41+00:00,792558474,761801899,0,PhilipTerryGraham,Daglish railway station,/* External links */ Replaced {{Transperth railway stations}} with {{Public Transport Authority of Western Australia railway stations}}
+2019-11-10T19:39:12+00:00,925537762,902901568,0,Rich Farmbrough,Eaglehawk railway station,/* top */Date formats
+2019-06-05T23:38:32+00:00,900478227,898207318,0,Triptothecottage,Diggers Rest railway station,/* Platforms & services */ rm OR
+2018-06-07T16:55:43+00:00,844856934,843900204,0,120.21.15.154,Dandenong railway station,
+2020-07-26T11:04:12+00:00,969592191,925537762,0,Heyitsstevo,Eaglehawk railway station,/* Platforms & services */
+2018-02-16T22:19:01+00:00,826047994,824681324,0,TBM10,Ealing Broadway station,
+2019-01-24T20:29:31+00:00,880017061,873882632,0,Ymblanter,Ealing Broadway station,+ short description
+2024-04-30T08:03:26+00:00,1221494411,1219870452,0,Panamitsu,Elmore railway station,[[Template:Use Australian English|Use Australian English]] and [[WP:AWB/GF|general fixes]]
+2019-12-23T21:27:14+00:00,932158902,932158753,0,Mwarhurst1,Finsbury Park station,/* Future development */
+2023-05-12T20:46:32+00:00,1154487186,1149608480,0,The wub,Finsbury Park station,/* Station upgrades */ step free work completed
+2023-06-26T04:32:28+00:00,1161965222,1161765545,0,Spinixster,Finsbury Park station,Filled in 3 bare reference(s) with reFill 2 | Removed parameters. | [[:en:WP:UCB|Use this tool]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_Gadget
+2022-08-27T22:39:37+00:00,1107057545,1106886146,0,Paul2520,Flinders Street railway station,clears [[:Category:CS1 errors: dates|CS1 date error]](s) (via [[WP:JWB]])
+2020-08-27T11:33:50+00:00,975212041,974835359,0,Arjayay,Flinders Street railway station,Duplicate word removed
+2019-06-05T23:18:59+00:00,900476332,900406763,0,Triptothecottage,Flinders Street railway station,belongs in sourced prose if it belongs at all
+2020-10-22T19:38:12+00:00,984900393,984211377,0,122.105.39.60,Flinders Street railway station,
+2023-11-01T07:12:01+00:00,1182930362,1182750099,0,Rohanstorey,Flinders Street railway station,/* Current building */ improved para re competition
+2018-06-01T06:10:47+00:00,843896006,843744024,0,114.76.105.215,Footscray railway station,/* Platforms & services */
+2022-07-31T17:28:21+00:00,1101557803,1097614240,0,Michaelwallace22,Footscray railway station,/* Regional Rail Link upgrade */ link
+2021-02-05T05:11:48+00:00,1004943731,1000706485,0,Pizza1016,Footscray railway station,
+2019-06-08T02:25:30+00:00,900862708,900473601,0,Ajf773,Footscray railway station,/* Platforms & services */ not a guide
+2020-09-11T05:43:01+00:00,977821148,972099234,0,58.108.33.213,Fremantle line,/* Stations */
+2020-01-13T08:39:00+00:00,935555912,926570913,0,58.161.232.26,Footscray railway station,
+2022-07-27T12:08:25+00:00,1100736123,1098708100,0,DrRespect,Fremantle railway station,/* Platforms */ Added track layout
+2024-04-30T18:38:17+00:00,1221574405,1205054771,0,2A00:23C5:EDA9:4D01:515F:D2D8:ABC5:459D,Hainault tube station,
+2018-08-05T19:54:54+00:00,853583342,817509696,0,Andrew Gray,Hainault tube station,/* Gallery */ add aerial photo
+2023-09-26T18:11:39+00:00,1177211109,1149499800,0,88.97.38.140,Hainault tube station,/* History */Fix typo
+2020-09-05T06:43:23+00:00,976818416,957241264,0,Lochinaness,Hammersmith tube station (Circle and Hammersmith & City lines),S stock link
+2019-10-12T03:12:16+00:00,920825027,920691991,0,EmausBot,Hammersmith tube station (Circle and Hammersmith & City lines),"Bot: Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:Q1762419]]"
+2020-02-24T11:57:10+00:00,942395175,920825027,0,92.1.7.37,Hammersmith tube station (Circle and Hammersmith & City lines),
+2017-08-21T21:53:30+00:00,796590466,788301680,0,72,Hanwell railway station,"Filling in 1 references using [[WP:REFLINKS|Reflinks]], date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]], spelling per [[WP:ENGVAR]] by [[User:Ohconfucius/EngvarB|script]]"
+2019-01-27T09:27:17+00:00,880420777,870302492,0,Ymblanter,Hammersmith tube station (Circle and Hammersmith & City lines),+ short description
+2019-08-10T08:54:11+00:00,910188824,877883185,0,88.98.84.29,Hanwell railway station,"/* External links */ delete Heathrow Connect category, ceased in 2018"
+2019-01-11T14:20:41+00:00,877883185,874644028,0,2A01:4C8:3D:F9F3:C034:431E:65BF:CC4F,Hanwell railway station,Removed reference to Elizabeth Line commencing December 2018 as that did not happen.
+2021-08-31T10:11:20+00:00,1041583402,1035147827,0,92.15.113.195,Hayes & Harlington railway station,
+2018-03-21T00:04:00+00:00,831516575,826050550,0,79.66.192.41,Hayes & Harlington railway station,The 2016-17 station usage figures had a green increase arrow when the red decrease arrow should have been used
+2023-08-18T21:16:13+00:00,1171065572,1150281940,0,2A00:23C4:3282:E301:5D96:EA01:963E:DE1E,Hounslow West tube station,/* Services and connections */
+2020-12-05T12:45:54+00:00,992470312,989554707,0,Khronos1,Joondalup line,/* Patronage */ Added 2019-2020 patronage figures.
+2020-06-26T19:46:01+00:00,964654737,964369825,0,27.32.183.254,Joondalup line,
+2021-06-20T06:09:53+00:00,1029472018,1017882435,0,Nick-D,Joondalup line,add photo
+2019-02-24T04:24:05+00:00,884811532,876911822,0,2001:8003:9006:8C00:85A6:F3C8:1A61:5729,Joondalup line,/* Disused stopping patterns */
+2017-11-04T02:20:32+00:00,808628321,808626827,0,49.196.155.73,Joondalup line,Fixed double up of system
+2018-08-06T06:24:09+00:00,853665156,853665048,0,Betterkeks,Joondalup line,/* History */+date
+2019-02-06T13:31:48+00:00,882045187,876812586,0,Davey2010,Lake railway station,"/* Gallery */ Amended - ""One of the cheapest journeys on British railways "" may now not be true given the photo/ticket is over 10 years old"
+2017-07-27T07:35:05+00:00,792562389,784295153,0,PhilipTerryGraham,Joondalup line,/* External links */ Replaced {{Transperth railway stations}} with {{Public Transport Authority of Western Australia railway stations}}
+2017-08-21T21:35:54+00:00,796588510,757655256,0,Spiderjerky,Lake railway station,removed [[Category:Railway stations served by South West Trains]]; added [[Category:Railway stations served by South Western Railway]] using [[WP:HC|HotCat]]
+2023-08-10T12:13:07+00:00,1169653140,1169652833,0,Ehrenkater,Lake railway station,/* top */
+2018-08-23T07:56:48+00:00,856156833,822350364,0,Redaktor,Langley railway station,No direct trains from Iver to Shenfield
+2015-12-27T18:22:03+00:00,697024002,694055042,0,WereSpielChequers,Lathlain railway station,"/* History */[[WP:AWB/T|Typo fixing]], replaced: Minster  → Minister using [[Project:AWB|AWB]]"
+2020-12-13T09:43:26+00:00,993947167,964052547,0,Betterkeks,Lathlain railway station,+cvt
+2018-01-25T21:36:19+00:00,822350364,816954505,0,TBM10,Langley railway station,
+2019-07-26T14:06:13+00:00,907967908,697024002,0,118.208.169.6,Lathlain railway station,/* History */
+2018-06-10T11:44:17+00:00,845236428,792560709,0,60.241.30.193,Leederville railway station,97 bus no longer serves Leederville station (aftermath of https://www.communitynews.com.au/western-suburbs-weekly/news/bus-97-extension-under-threat/)
+2020-02-10T18:28:12+00:00,940130749,940066769,0,The Anome,Lidcombe railway station,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Railway station in Sydney, New South Wales, Australia"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2019-03-14T02:07:16+00:00,887666989,887348521,0,61.69.118.118,Lilydale railway station,Flinders Street station link
+2018-07-03T23:15:58+00:00,848735107,844192107,0,Jamisonedd,Lilydale railway station,/* Transport links */
+2023-09-23T10:22:38+00:00,1176688165,1176627592,0,49.181.56.118,Lidcombe railway station,
+2018-09-29T12:38:43+00:00,861710511,861708980,0,Ghmyrtle,London Underground,Undid revision 861708980 by [[Special:Contributions/Wiki007edit|Wiki007edit]] ([[User talk:Wiki007edit|talk]])- [[MOS:CAPS]]
+2022-05-31T08:33:17+00:00,1090773946,1090695428,0,Murgatroyd49,London Underground,Undid revision 1090695428 by [[Special:Contributions/Jbabiuch1234|Jbabiuch1234]] ([[User talk:Jbabiuch1234|talk]]) not :U despite being underground
+2023-02-08T15:27:54+00:00,1138209523,1137453625,0,Tobawiki,London Underground,Merged Northwick Park and Preston Road cells in Fast and semi fast services
+2022-03-07T11:11:35+00:00,1075735375,1074656400,0,Salandarianflag,London Underground,
+2023-04-03T03:50:47+00:00,1147934931,1142238242,0,2601:243:1980:2810:185A:56B7:6EF2:5BC7,London Underground C69 and C77 Stock,/* Design */
+2017-11-11T13:48:21+00:00,809797823,809797731,0,BErrIa9999,London Underground S7 and S8 Stock,
+2023-08-21T08:43:46+00:00,1171472096,1163811629,0,195.224.42.18,Loughton tube station,
+2020-07-08T22:33:03+00:00,966741377,966701360,0,PeterSkuce,London Underground S7 and S8 Stock,/* District line */
+2018-05-24T08:20:45+00:00,842725900,841581452,0,Alnitak3,Mansion House tube station,/* History */ Details of Platform 2 decommissioning
+2021-06-18T08:29:27+00:00,1029162632,1012375295,0,HarJIT,Mansion House tube station,
+2020-08-04T16:51:12+00:00,971181281,957224092,0,Belbury,Mark Lane tube station,/* top */ copyedit
+2022-11-29T13:48:38+00:00,1124589571,1124287023,0,Philipstorry,Mark Lane tube station,"Removed repeated word ""named"" in text"
+2017-11-29T19:34:20+00:00,812771319,788476932,0,Blurryman,Mark Lane tube station,ce
+2018-08-07T14:16:17+00:00,853874333,853847514,0,AussieLegend,"Marla, South Australia",Reverted 2 edits by [[Special:Contributions/27.253.99.63|27.253.99.63]] ([[User talk:27.253.99.63|talk]]): Unconstructive. ([[WP:TW|TW]])
+2017-07-27T04:02:22+00:00,792541686,792541420,0,PhilipTerryGraham,McIver railway station,"Replaced list of services in ""line"" parameter with actual railway lines, as intended for {{Infobox station}}"
+2023-10-29T18:37:39+00:00,1182500811,1163001070,0,2605:8D80:60C:A0A5:80C8:6748:D47A:ED95,Mile End tube station,
+2023-11-27T09:50:34+00:00,1187080198,1181734221,0,Thomas roo,Mill Hill East tube station,/* Services */
+2019-01-30T08:34:48+00:00,880917541,858470810,0,Ymblanter,Mill Hill East tube station,+ short description
+2023-04-01T05:14:03+00:00,1147630598,1146779434,0,49.198.27.70,Mont Albert railway station,/* History */
+2019-02-12T00:39:28+00:00,882898010,882897897,0,Mackensen,Montreal Central Station,+branch
+2023-09-20T23:40:53+00:00,1176321376,1175811302,0,70.31.134.92,Montreal Central Station,
+2023-11-25T02:05:02+00:00,1186723366,1185364690,0,49.198.22.167,Mont Albert railway station,
+2019-07-22T22:29:19+00:00,907440342,902799025,0,Blurryman,Moorgate station,/* 1950 – present */ ce
+2017-07-13T09:20:23+00:00,790370469,782668214,0,PhilipTerryGraham,Narre Warren railway station,"/* External links */ Added {{Public Transport Victoria railway stations}}, with appropriate parameters active"
+2018-06-01T07:14:21+00:00,843900280,828893749,0,114.76.105.215,Narre Warren railway station,"/* Platforms, services & connecting bus services */"
+2018-08-28T06:32:50+00:00,856893148,843900280,0,136.186.96.222,Narre Warren railway station,
+2021-03-03T12:00:39+00:00,1010018988,983140385,0,Sinisterial,Narre Warren railway station,Removed incorrect line details.
+2018-08-26T04:02:31+00:00,856567266,854055476,0,Tdorante10,Nassau station,/* History */ cite
+2020-01-14T11:42:48+00:00,935736709,935727070,0,Bellowhead678,New Cross railway station,update
+2017-06-03T13:25:09+00:00,783609253,773653657,0,WOSlinker,New Cross railway station,update coords format in infobox
+2017-07-12T19:51:22+00:00,790291385,786584428,0,PhilipTerryGraham,"Newport railway station, Melbourne","/* External links */ Added {{Public Transport Victoria railway stations}}, with appropriate parameters active"
+2021-08-29T04:40:47+00:00,1041194005,1033689375,0,Bl4cksat1nn,"Newport railway station, Melbourne",
+2018-08-20T20:29:20+00:00,855785684,843896369,0,Kerinlong,"Newport railway station, Melbourne",Mernda line link
+2020-11-19T04:04:00+00:00,989466865,982927431,0,TheGRVOfLightning,"Newport railway station, Melbourne",Altered image as the one added was of North Williamstown station.
+2021-04-25T20:00:30+00:00,1019855160,994166968,0,"Crouch, Swale",North Weald railway station,/* External links */ [[Category:North Weald Bassett]]
+2023-01-10T15:30:56+00:00,1132784111,1132719198,0,Gilo1969,North Weald railway station,fix citation with wikilink embedded in URL title
+2017-07-13T09:20:42+00:00,790370504,757969292,0,PhilipTerryGraham,Officer railway station,"/* External links */ Added {{Public Transport Victoria railway stations}}, with appropriate parameters active"
+2018-03-20T08:40:50+00:00,831381108,831381051,0,112.141.230.88,Pakenham line,
+2018-08-18T08:36:05+00:00,855437516,855303079,0,Mienshao2,Pakenham line,"/* Services */ Removed incorrect and confusing information. Specific procedures regarding disruptions are unnecessary. Poor grammar should be avoided. Use of the word ""probably"" is unprofessional."
+2017-07-13T08:28:11+00:00,790366320,713172060,0,PhilipTerryGraham,Pakenham railway station,"/* External links */ Added {{Public Transport Victoria railway stations}}, with appropriate parameters active"
+2021-02-13T07:45:23+00:00,1006513315,1006510134,0,58.108.86.194,Perth railway station,
+2018-12-07T22:44:59+00:00,872588483,872087613,0,Wbm1058,Perth railway station,disallowed [[WP:DISPLAYTITLE]] modification. See [[WP:RM]].
+2021-06-05T10:39:45+00:00,1026981541,1026980897,0,IdreamofJeanie,Quainton Road railway station,Reverting edit(s) by [[Special:Contributions/217.147.233.77|217.147.233.77]] ([[User_talk:217.147.233.77|talk]]) to rev. 1026343532 by 146.199.230.233: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2022-06-19T16:22:02+00:00,1093912146,1080293632,0,Animal lover 666,Rayners Lane tube station,/* Gallery */
+2018-07-30T16:53:51+00:00,852679373,845031008,0,109.144.222.125,Rayners Lane tube station,
+2021-03-06T08:50:10+00:00,1010597605,1009390690,0,Xbhpnvs798,Redcar Central railway station,
+2017-06-27T03:00:27+00:00,787713876,773039989,0,Magic links bot,Redcar Central railway station,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2020-01-15T21:46:08+00:00,935967213,933708522,0,WizardOfTheNorth,Rickmansworth station,National rail usage figures for 2018/19 added.
+2018-02-12T15:27:25+00:00,825289598,823619174,0,CyanCoffee,Rickmansworth station,/* Services */ Hyperlink to parliamentary trains
+2019-07-19T05:43:06+00:00,906917276,906916936,0,Andrew Lorimer,Ringwood East railway station,"/* External links */ rm irrelevant Commons link, add Metro link"
+2019-01-31T19:32:07+00:00,881149715,874806250,0,Pi bot,Rotherhithe railway station,"Updating the Commons category from ""Category:Rotherhithe station"" to ""Category:Rotherhithe railway station"" to avoid a category redirect"
+2018-01-14T21:09:08+00:00,820454953,818832760,0,Od Mishehu,Rotherhithe railway station,removed [[Category:Railway stations located underground]]; added [[Category:Railway stations located underground in the United Kingdom]] using [[WP:HC|HotCat]]
+2019-01-04T16:58:28+00:00,876812282,874815209,0,Hammersfan,Ryde Esplanade railway station,/* Service pattern */
+2019-01-04T16:58:54+00:00,876812329,874815563,0,Hammersfan,Ryde Pier Head railway station,/* Services */
+2019-11-16T15:15:59+00:00,926460044,916817156,0,BrayLockBoy,Ryde Pier Head railway station,/* History */
+2021-01-07T21:18:37+00:00,998964554,998964489,0,92.26.13.101,Ryde Pier Head railway station,
+2021-09-01T21:25:29+00:00,1041847862,1040216545,0,Dave F63,Ryde Esplanade railway station,
+2023-11-01T17:44:10+00:00,1183003629,1153687809,0,Nchitu,Salt Water River railway station,Adding [[Category:Railway stations in Australia closed in the 19th century]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2020-03-24T02:03:36+00:00,947063182,936104102,0,Willthorpe,Sandown railway station,
+2019-02-01T08:55:46+00:00,881241324,879526704,0,Ymblanter,Seven Sisters station,+ short description
+2020-01-29T19:11:09+00:00,938204326,938190426,0,Belbury,Seven Sisters station,Reverted edits by [[Special:Contribs/86.133.92.154|86.133.92.154]] ([[User talk:86.133.92.154|talk]]) to last version by Vincent60030
+2018-01-14T21:14:40+00:00,820455903,814787274,0,Od Mishehu,Seven Sisters station,removed [[Category:Railway stations located underground]]; added [[Category:Railway stations located underground in the United Kingdom]] using [[WP:HC|HotCat]]
+2021-11-29T00:41:03+00:00,1057674887,1057629635,0,2A02:C7D:4E6B:8600:21D4:80ED:2A7F:BA6F,Shadwell railway station,
+2019-10-21T07:46:55+00:00,922300368,922300277,0,EEng,Shadwell railway station,"(dummy edit) Prior edit summary should have read: Some random thing that happened to happen at the station doesn't tell readers about the station itself, which is the subject of this article"
+2018-05-07T17:59:04+00:00,840094892,840094737,0,2A02:C7F:8213:D200:54DA:F9FB:4739:736F,Shanklin railway station,/* Rail services */
+2019-01-04T17:01:33+00:00,876812634,874854677,0,Hammersfan,Shanklin railway station,/* Rail services */
+2017-10-10T21:58:32+00:00,804747066,800155297,0,Robby,"Showgrounds railway station, Perth",/* External links */ no such categories on commons
+2017-07-27T06:49:35+00:00,792558552,748223470,0,PhilipTerryGraham,"Showgrounds railway station, Perth",/* External links */ Replaced {{Transperth railway stations}} with {{Public Transport Authority of Western Australia railway stations}}
+2018-07-13T00:27:49+00:00,850014852,850014810,0,Oshawott 12,Slough railway station,/* Services */
+2019-04-18T16:00:50+00:00,893043836,876812446,0,143.159.209.103,Smallbrook Junction railway station,
+2021-09-06T22:58:42+00:00,1042817661,1034717363,0,RandomCanadian,Smallbrook Junction railway station,/* History */ british station = british english for consistency
+2022-03-16T17:09:15+00:00,1077498407,1057649297,0,SalamAlayka,Southall railway station,/* Bilingual signage */ whitechapel
+2023-12-14T16:41:13+00:00,1189881353,1189858904,0,2A00:23C5:6495:E401:D929:57D1:2F03:4DE5,Southall railway station,
+2024-01-30T07:23:15+00:00,1200786426,1194835519,0,Loytra,Southern Cross railway station,
+2020-03-20T08:18:39+00:00,946457198,946453863,0,Heyitsstevo,Southern Cross railway station,/* Broad gauge */
+2023-08-12T10:05:32+00:00,1169951803,1169756443,0,ITBF,Southern Cross railway station,
+2020-09-01T01:11:27+00:00,976069501,961532180,0,Vanished user 9284528,"St Albans railway station, Melbourne",added the country to the infobox.
+2017-11-26T07:03:59+00:00,812148355,808650282,0,Thebusofdoom,"St Albans railway station, Melbourne",Added picture of the new station.
+2017-11-04T06:37:20+00:00,808650282,790419588,0,124.176.144.13,"St Albans railway station, Melbourne",Updating page with level crossing removal info.
+2020-01-13T08:37:39+00:00,935555821,930501645,0,58.161.232.26,"St Albans railway station, Melbourne",
+2019-06-05T23:12:51+00:00,900475780,900406161,0,Triptothecottage,"St Albans railway station, Melbourne","general copyedit, rm unsourced and unhelpful"
+2020-03-02T18:47:40+00:00,943584720,896973229,0,Chris the speller,Stawell railway station,"/* History */replaced: hand operated → hand-operated, [[WP:AWB/T|typo(s) fixed]]: 1910-15 → 1910–15"
+2017-12-17T18:30:02+00:00,815866791,815866694,0,Laytar1,Stonebridge Park station,
+2019-04-10T03:52:33+00:00,891781099,859976830,0,49.196.166.61,Subiaco railway station,changed the express routes on the platforms table
+2023-08-17T17:02:19+00:00,1170860320,1170849806,0,SilverLocust,Sunbury line,hatnote
+2022-08-20T00:04:00+00:00,1105380851,1088482293,0,101.112.56.43,Sunbury line,
+2017-09-01T11:05:01+00:00,798347828,798130523,0,Canterbury Tail,Sunbury line,/* History */ rv spelling errors. . not normally used with St and Albans isn't a possessive.
+2018-04-23T13:50:36+00:00,837861794,837861582,0,AY3501,Sunbury line,/* 2012 onwards: The Sunbury line */Added content
+2022-11-27T06:15:32+00:00,1124077686,1122395678,0,180.150.36.255,Sunbury line,/* Infrastructure */
+2018-01-06T19:42:28+00:00,818991135,812667917,0,Agusbou2015,"Sunbury railway station, Melbourne",/* Platforms and services */ Fixed a spelling mistake.
+2020-07-14T07:39:46+00:00,967607738,957688086,0,Cards84664,"Sunbury railway station, Melbourne",revert myself
+2019-06-05T23:37:55+00:00,900478172,898116166,0,Triptothecottage,"Sunbury railway station, Melbourne",/* Platforms and services */ rm OR
+2019-01-20T20:27:26+00:00,879369201,877340193,0,MB,"Sunshine railway station, Melbourne",clean up
+2023-05-31T09:02:25+00:00,1157840794,1153330309,0,Romiley401,Surrey Quays railway station,"Fixed typos, added detail, removed duplicated link"
+2019-02-27T16:27:17+00:00,885369334,874838365,0,82.240.244.27,Surrey Quays railway station,/* History */ citation request
+2024-02-16T15:33:06+00:00,1208131274,1190393874,0,Sootysuerickie,Surrey Quays railway station,/* References */
+2021-08-22T03:27:53+00:00,1040004762,1033173076,0,Ira Leviton,Sydney Trains K set,Fixed a typo found with [[Wikipedia:Typo_Team/moss]].
+2019-11-12T10:07:57+00:00,925791970,922792910,0,1.42.130.12,Sydney Trains K set,
+2023-07-08T14:07:01+00:00,1164254929,1157788296,0,120.17.195.231,Sydney Trains K set,
+2024-02-12T22:31:32+00:00,1206708531,1146580012,0,Cewbot,Talk:Clapham High Street railway station,"[[User:Cewbot/log/20200122/configuration|Maintain {{WPBS}}]]: 2 WikiProject templates. Keep majority rating ""Start"" in {{WPBS}}. Remove 2 same ratings as {{WPBS}} in {{WikiProject Trains}}, {{WikiProject London}}."
+2023-07-20T16:24:50+00:00,1166291452,1131473041,0,Amakuru,Template:Midland railway line map,c/e
+2023-08-13T00:58:49+00:00,1170067425,1169751747,0,Champion,Template:Public Transport Victoria railway stations,No other closed station is listed here
+2017-12-08T03:37:42+00:00,814323145,804340439,0,Grinynia,Template:Public Transport Victoria railway stations,Southland
+2021-09-19T00:29:50+00:00,1045129930,1039297575,0,Niceguyedc,"Tocumwal railway line, Victoria",v2.04 - disambiguate [[Oak Park railway station]]
+2020-05-21T01:41:51+00:00,957901824,957896352,0,Triptothecottage,"Tocumwal railway line, Victoria",signalling
+2024-02-18T19:21:44+00:00,1208746471,1194446322,0,Ben-fpyt,Tottenham Hale station,lead section - refining
+2020-04-20T02:29:10+00:00,952002038,904045368,0,Hugo999,Tower of London tube station,/* Bibliography */
+2023-03-11T18:12:18+00:00,1144077047,1143859751,0,Certes,Tower of London tube station,Disambiguated: Ealing Broadway
+2018-08-07T03:48:34+00:00,853815577,849918995,0,Chris the speller,Upfield line,/* Future */removed: together using [[Project:AWB|AWB]]
+2023-11-07T04:59:54+00:00,1183900021,1177400538,0,Axver,Upfield line,/* Upfield—Somerton link (1950–1970) */ removed unnecessary apostrophes
+2019-10-17T13:44:36+00:00,921721214,921721173,0,MelbourneStar,Upfield line,rm unusable gif
+2022-11-30T23:36:30+00:00,1124871742,1124849670,0,Johnlp,Upminster station,Usage
+2023-12-24T11:19:45+00:00,1191581042,1191580785,0,MRSC,Upminster station,/* Services */ off-peak Monday to Friday
+2017-10-16T16:37:52+00:00,805628058,774650158,0,Mjroots,V/Line A class,added [[Category:Diesel-electric locomotives of Australia]] using [[WP:HC|HotCat]]
+2023-07-03T11:06:42+00:00,1163178047,1163005666,0,203.220.95.217,V/Line A class,/* Status table */ Not relevant to this article
+2021-10-15T14:59:03+00:00,1050063027,1015663224,0,Patrickov,Verney Junction railway station,/* External links */ Update archive link of abandonedstations.org.uk page
+2017-09-17T18:37:01+00:00,801109927,792559273,0,KolbertBot,"Victoria Park railway station, Perth",Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2020-11-04T09:01:16+00:00,987010539,987009789,0,175.34.90.133,"Victoria Street railway station, Perth",
+2017-06-02T20:45:29+00:00,783519261,780943806,0,WOSlinker,Waddesdon railway station,update coords format in infobox
+2022-05-25T21:47:12+00:00,1089828935,1083558282,0,2A00:23C4:3285:ED01:C193:26ED:CF30:8743,Walthamstow Central station,/* Connections */
+2023-06-17T19:40:02+00:00,1160627723,1146586118,0,Cyan B16,Walthamstow Central station,/* Connections */
+2024-02-18T18:10:16+00:00,1208732833,1192823471,0,Ben-fpyt,Walthamstow Central station,lead section - refining
+2018-01-27T11:34:27+00:00,822606677,816058247,0,Johnlp,Wandsworth Road railway station,Usage
+2019-12-13T03:57:05+00:00,930533406,930533383,0,Heyitsstevo,Watergardens railway station,
+2018-06-01T06:29:57+00:00,843897323,823386748,0,114.76.105.215,Watergardens railway station,/* Platforms & services */
+2018-09-06T19:59:44+00:00,858384425,850697927,0,92.234.126.251,Watford High Street railway station,
+2021-06-10T06:33:56+00:00,1027823899,1027329244,0,UsernameHD,Watford Junction railway station,/* Avanti West Coast */
+2022-08-29T17:35:01+00:00,1107374284,1107368184,0,Danielsltt,Watford Junction railway station,/* External links */
+2022-01-03T20:14:31+00:00,1063578792,1063572196,0,JMF,Watford Junction railway station,Undid revision 1063572196 by [[Special:Contributions/81.135.192.182|81.135.192.182]] ([[User talk:81.135.192.182|talk]]) rv good faith but more general before
+2019-04-23T22:01:17+00:00,893837488,893834995,0,Nthep,Watford Stadium Halt railway station,Reverted 1 edit by [[Special:Contributions/2A02:C7D:4E32:F100:EC75:3C42:836A:B4A8|2A02:C7D:4E32:F100:EC75:3C42:836A:B4A8]] ([[User talk:2A02:C7D:4E32:F100:EC75:3C42:836A:B4A8|talk]]): Rv sock ([[WP:TW|TW]])
+2017-07-04T07:51:22+00:00,788917667,783603070,0,176.27.84.168,Wembley Park tube station,/* History */ Fixed grammar
+2021-02-05T05:22:18+00:00,1004945009,1004360870,0,Pizza1016,Werribee railway station,
+2019-08-16T14:15:33+00:00,911099667,911099380,0,49.176.1.7,Werribee railway station,/* Transport links */
+2017-07-12T19:55:57+00:00,790291974,757331138,0,PhilipTerryGraham,Werribee railway station,"/* External links */ Added {{Public Transport Victoria railway stations}}, with appropriate parameters active"
+2018-02-16T22:20:30+00:00,826049996,822349350,0,TBM10,West Ealing railway station,
+2021-01-29T14:58:55+00:00,1003551416,1002200041,0,Jellysandwich0,West Ealing railway station,spelling
+2023-11-02T23:58:06+00:00,1183225842,1183225704,0,Nchitu,Williamstown Pier railway station,Removing from [[Category:Railway stations in Australia closed in the 1980s]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2018-06-01T06:19:20+00:00,843896607,823387325,0,114.76.105.215,Williamstown railway station,/* Platforms & services */
+2021-01-31T16:53:04+00:00,1003987958,1003887713,0,SporkBot,Windsor & Eton Central railway station,Repair [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]]
+2019-10-06T07:32:36+00:00,919857856,909701463,0,Train of Knowledge,Yarra Valley Railway,Fixing typos and capitalisation errors
+2020-06-22T07:00:40+00:00,963863027,947583437,0,Hatchens,Yarra Valley Railway,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Heritage Railway in Victoria, Australia"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2017-04-05T10:21:29+00:00,773942632,773924562,0,Supt. of Printing,Yarra Valley Railway,Undid revision 773924562 by [[Special:Contributions/108.171.134.165|108.171.134.165]] ([[User talk:108.171.134.165|talk]])
+2019-04-24T00:08:43+00:00,893850161,888735091,0,Tommyb2703,Yarra Valley Railway,/* Rail Tractors */

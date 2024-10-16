@@ -1,0 +1,6 @@
+timestamp,revid,parentid,sock,user,page,message
+2019-11-05T10:12:33+00:00,924691202,924690909,1,2helloworld123,Typhoon Hagibis,TEA
+2019-11-05T10:02:22+00:00,924690069,924688916,1,2helloworld123,Typhoon Hagibis,
+2019-11-05T10:09:44+00:00,924690905,924690602,1,12hellowrold12,Typhoon Hagibis,
+2019-11-05T10:06:41+00:00,924690602,924690069,1,12hellowrold12,Typhoon Hagibis,
+2019-11-05T10:09:45+00:00,924690909,924690905,0,ClueBot NG,Typhoon Hagibis,"Reverting possible vandalism by [[Special:Contribs/12hellowrold12|12hellowrold12]] to version by 2helloworld123. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3668826) (Bot)"

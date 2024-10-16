@@ -1,0 +1,493 @@
+timestamp,revid,parentid,sock,user,page,message
+2016-08-18T20:29:18+00:00,735136397,722212642,1,Alansin2,Coronary stent,Reference added
+2016-08-18T20:27:55+00:00,735136197,727924087,1,Alansin2,Drug-eluting stent,Reference added
+2016-08-18T20:25:16+00:00,735135792,735135741,1,Alansin2,Sirolimus,/* Coronary stent coating */
+2016-08-18T20:24:51+00:00,735135741,735135594,1,Alansin2,Sirolimus,/* Coronary stent coating */
+2016-08-18T20:23:53+00:00,735135594,734290944,1,Alansin2,Sirolimus,Reference added
+2016-08-18T20:19:05+00:00,735134723,733736834,1,Alansin2,MTOR,Reference added
+2016-08-18T20:12:50+00:00,735133706,724050934,1,Alansin2,Angiopoietin-related protein 7,/* Further reading */
+2016-08-18T20:12:30+00:00,735133653,724050923,1,Alansin2,Angiopoietin-related protein 2,/* Further reading */
+2016-08-18T20:11:58+00:00,735133565,735133499,1,Alansin2,Angiopoietin-related protein 1,/* Further reading */
+2016-08-18T20:11:38+00:00,735133499,735133333,1,Alansin2,Angiopoietin-related protein 1,/* Further reading */
+2016-08-18T20:10:48+00:00,735133333,724050876,1,Alansin2,Angiopoietin-related protein 1,/* Function */ reference added
+2016-08-18T20:10:05+00:00,735133204,735132341,1,Alansin2,Angiogenesis,/* Angiopoietins */reference added
+2016-08-18T20:05:42+00:00,735132341,734933506,1,Alansin2,Angiogenesis,/* Angiogenesis as a therapeutic target */reference added
+2016-08-18T20:04:04+00:00,735132041,722474068,1,Alansin2,Carotid artery stenosis,/* Pathophysiology */ reference added
+2016-08-18T20:03:22+00:00,735131934,728389459,1,Alansin2,Stenosis,/* Causes */ Reference added
+2016-08-18T20:02:37+00:00,735131809,734665259,1,Alansin2,Angioplasty,Reference added
+2016-08-18T20:01:00+00:00,735131544,731925799,1,Alansin2,Stent,Reference added
+2016-08-18T19:58:06+00:00,735131112,732385258,1,Alansin2,Regulation of gene expression,/* Post-transcriptional regulation */ reference added
+2016-08-18T19:55:11+00:00,735130676,735130263,1,Alansin2,MicroRNA,/* miRNA-712 */ reference added
+2016-08-18T19:52:13+00:00,735130263,735128947,1,Alansin2,MicroRNA,/* Target prediction */
+2016-08-18T19:42:30+00:00,735128947,735030282,1,Alansin2,MicroRNA,/* Heart disease */ Reference Added
+2016-08-18T19:39:48+00:00,735128576,735128161,1,Alansin2,Atrial fibrillation,/* Causes */ Reference added
+2016-08-18T19:36:47+00:00,735128161,735127666,1,Alansin2,Atrial fibrillation,/* Pathology */ reference added
+2016-08-18T19:33:14+00:00,735127666,734935150,1,Alansin2,Atrial fibrillation,/* Pathology */ reference added
+2016-08-18T17:28:09+00:00,735109510,735109442,1,Alansin2,Citric acid cycle,/* Regulation */
+2016-08-18T17:27:40+00:00,735109442,734712378,1,Alansin2,Citric acid cycle,/* Regulation */ reference added
+2016-08-18T17:24:30+00:00,735109015,735108828,1,Alansin2,Mitochondrial calcium uniporter,
+2016-08-18T17:23:07+00:00,735108828,735108664,1,Alansin2,Mitochondrial calcium uniporter,
+2016-08-18T17:21:51+00:00,735108664,735108556,1,Alansin2,Mitochondrial calcium uniporter,
+2016-08-18T17:21:01+00:00,735108556,734138276,1,Alansin2,Mitochondrial calcium uniporter,Reference added
+2016-08-18T14:48:45+00:00,735087869,734716274,1,Alansin2,Adrenal gland,/* Further reading */ Added link to reference
+2016-08-17T17:01:28+00:00,734937050,734936941,1,Alansin2,CAMK,
+2016-08-17T17:00:29+00:00,734936941,721404567,1,Alansin2,CAMK,Reference added
+2016-08-17T16:58:18+00:00,734936687,734936500,1,Alansin2,CAMK4,
+2016-08-17T16:56:41+00:00,734936500,721613215,1,Alansin2,CAMK4,Reference added
+2016-08-17T16:38:23+00:00,734934208,733702739,1,Alansin2,Atrial fibrillation,/* Pathology */ reference added
+2016-08-17T16:35:24+00:00,734933867,734933724,1,Alansin2,Cardiac resynchronization therapy,doi fixed
+2016-08-17T16:34:14+00:00,734933724,727586881,1,Alansin2,Cardiac resynchronization therapy,Reference added
+2016-08-17T16:29:08+00:00,734933113,734933010,1,Alansin2,XBP1,/* Endoplasmic reticulum stress response */ reference added
+2016-08-17T16:28:19+00:00,734933010,733800281,1,Alansin2,XBP1,/* Endoplasmic reticulum stress response */ reference added
+2016-08-17T16:26:21+00:00,734932743,733928983,1,Alansin2,Amiodarone,/* Thyroid */ reference added
+2016-08-17T16:21:08+00:00,734932063,732198728,1,Alansin2,Beta blocker,/* Medical uses */ reference added
+2016-08-17T16:16:08+00:00,734931367,734931142,1,Alansin2,G protein-coupled receptor,/* Phosphorylation by GRKs */
+2016-08-17T16:14:31+00:00,734931142,734170512,1,Alansin2,G protein-coupled receptor,/* Phosphorylation by GRKs */ reference added
+2016-08-17T16:08:43+00:00,734930357,727796018,1,Alansin2,Adrenergic receptor,/* β2 receptor */ reference added
+2016-08-17T16:06:11+00:00,734930003,723747979,1,Alansin2,Peroxisome proliferator-activated receptor gamma,/* Clinical relevance */ reference added
+2016-08-17T16:04:47+00:00,734929779,734929472,1,Alansin2,PDX1,/* β-cell maturation and survival */
+2016-08-17T16:03:02+00:00,734929472,723527880,1,Alansin2,PDX1,/* β-cell maturation and survival */ reference added
+2016-08-17T15:58:57+00:00,734929016,734928779,1,Alansin2,Ryanodine receptor 2,Modified Sep to September
+2016-08-17T15:56:56+00:00,734928779,734928306,1,Alansin2,Ryanodine receptor 2,/* Clinical significance */ reference added
+2016-08-17T15:52:51+00:00,734928306,721233318,1,Alansin2,Ryanodine receptor 2,Reference added
+2016-08-17T15:46:00+00:00,734927495,734924033,1,Alansin2,Inositol trisphosphate receptor,Reference added
+2016-08-17T15:16:18+00:00,734924033,734923970,1,Alansin2,Inositol trisphosphate receptor,
+2016-08-17T15:15:46+00:00,734923970,734923859,1,Alansin2,Inositol trisphosphate receptor,/* Distribution */ reference added
+2016-08-17T15:14:55+00:00,734923859,723097418,1,Alansin2,Inositol trisphosphate receptor,Reference added
+2016-08-17T14:51:21+00:00,734920832,734920667,1,Alansin2,Muscle contraction,/* Excitation-contraction coupling */ Reference added
+2016-08-17T14:50:10+00:00,734920667,734886271,1,Alansin2,Muscle contraction,/* Excitation-contraction coupling */ Reference added
+2016-08-16T18:50:59+00:00,734789440,732812822,1,Alansin2,Beta cell,/* Control of insulin secretion */ reference added
+2016-08-16T18:49:42+00:00,734789232,733788042,1,Alansin2,Unfolded protein response,/* Initiating apoptosis */ reference added
+2016-08-16T18:27:12+00:00,734786324,734625031,1,Alansin2,Endoplasmic reticulum,/* Sarcoplasmic reticulum */ inserted citation
+2016-08-16T18:26:35+00:00,734786231,734784731,1,Alansin2,Ryanodine receptor,Adding link to a reference
+2016-08-16T18:22:03+00:00,734785688,734629234,1,Alansin2,Cytoplasm,Reference added
+2016-08-16T18:19:53+00:00,734785405,734785325,1,Alansin2,Insulin,/* Release */ Period added at the end of a sentence
+2016-08-16T18:19:13+00:00,734785325,734733401,1,Alansin2,Insulin,/* Release */ reference added
+2016-08-16T18:14:45+00:00,734784731,734778627,1,Alansin2,Ryanodine receptor,/* Physiology */ link added
+2016-08-16T18:09:09+00:00,734784089,726878464,1,Alansin2,Endothelial dysfunction,Reference added
+2016-08-16T18:06:05+00:00,734783699,723546755,1,Alansin2,Mir-126,Reference added
+2016-08-16T18:04:46+00:00,734783576,731442357,1,Alansin2,MicroRNA,/* Target prediction */ reference added
+2016-08-16T18:01:47+00:00,734783220,734783143,1,Alansin2,Restenosis,
+2016-08-16T18:01:06+00:00,734783143,734782989,1,Alansin2,Restenosis,Link inserted
+2016-08-16T17:59:34+00:00,734782989,716950285,1,Alansin2,Restenosis,Reference added
+2016-08-16T17:54:01+00:00,734782377,734696234,1,Alansin2,Hypertension,/* Pathophysiology */ reference added
+2016-08-16T17:50:18+00:00,734782001,731554060,1,Alansin2,Endothelium,Reference added
+2016-08-16T17:44:36+00:00,734781419,734781229,1,Alansin2,Angiopoietin,Title of Journal modified to ITALIC
+2016-08-16T17:42:53+00:00,734781229,722776041,1,Alansin2,Angiopoietin,Reference added
+2016-08-16T17:21:04+00:00,734778627,734778332,1,Alansin2,Ryanodine receptor,Title of Journals modified to Italic
+2016-08-16T17:18:29+00:00,734778332,734776893,1,Alansin2,Ryanodine receptor,/* Physiology */ Reference added
+2016-08-16T17:05:02+00:00,734776893,734776655,1,Alansin2,Ryanodine receptor,Reference added
+2016-08-16T17:02:44+00:00,734776655,734776608,1,Alansin2,Ryanodine receptor,/* Role in disease */
+2016-08-16T17:02:22+00:00,734776608,734776540,1,Alansin2,Ryanodine receptor,/* Role in disease */
+2016-08-16T17:01:46+00:00,734776540,734776133,1,Alansin2,Ryanodine receptor,/* Role in disease */  corrected reference cited twice
+2016-08-16T16:57:57+00:00,734776133,734775826,1,Alansin2,Ryanodine receptor,/* Role in disease */ Reference added
+2016-08-16T16:54:59+00:00,734775826,710456831,1,Alansin2,Ryanodine receptor,/* Role in disease */ Reference added
+2016-08-16T16:35:46+00:00,734773691,734773200,1,Alansin2,Beta-2 adrenergic receptor,/* Digestive system */ Reference added
+2016-08-16T16:31:29+00:00,734773200,734322102,1,Alansin2,Beta-2 adrenergic receptor,/* Digestive system */ References added
+2016-08-15T21:53:50+00:00,734664654,733795056,1,Alansin2,Angiogenesis,Added a section for Further Reading
+2016-08-15T21:47:41+00:00,734663972,729009574,1,Alansin2,Adrenal gland,"Added ""Further Readings"""
+2017-10-18T19:58:44+00:00,805967438,739153842,1,OllieMD,User talk:OllieMD,[[WP:AES|←]]Blanked the page
+2016-09-09T19:23:54+00:00,738569769,737646696,1,OllieMD,Zileuton,/* Chemistry */
+2016-09-09T19:21:10+00:00,738569419,735188263,1,OllieMD,Montelukast,Reference added
+2016-09-09T19:20:41+00:00,738569363,737412559,1,OllieMD,Beta cell,/* Control of insulin secretion */
+2016-09-09T19:15:18+00:00,738568644,723776540,1,OllieMD,Pranlukast,Reference added
+2016-09-09T19:14:41+00:00,738568578,720364313,1,OllieMD,Antileukotriene,Missing Reference added
+2016-09-08T18:34:08+00:00,738397859,733357633,1,OllieMD,Anti-VEGF,Reference added
+2016-09-08T18:32:30+00:00,738397625,737730866,1,OllieMD,Photodynamic therapy,Reference added
+2016-09-08T18:31:16+00:00,738397433,738397253,1,OllieMD,Angiogenesis,/* Angiogenesis as a therapeutic target */
+2016-09-08T18:30:10+00:00,738397253,738397139,1,OllieMD,Angiogenesis,Reference added
+2016-09-08T18:29:19+00:00,738397139,738397098,1,OllieMD,Angiogenesis,
+2016-09-08T18:29:03+00:00,738397098,736698085,1,OllieMD,Angiogenesis,Reference added
+2016-09-08T18:22:50+00:00,738396157,730421254,1,OllieMD,Von Willebrand disease,Reference added
+2016-09-08T18:21:34+00:00,738395959,724066618,1,OllieMD,Weibel–Palade body,Reference added
+2016-09-08T18:19:59+00:00,738395723,736059484,1,OllieMD,Angiopoietin,Reference added
+2016-09-08T18:18:55+00:00,738395555,723600509,1,OllieMD,NADPH oxidase,Reference added
+2016-09-08T18:17:25+00:00,738395324,726604159,1,OllieMD,"Ryanodine-Inositol 1,4,5-triphosphate receptor calcium channels",/* Function */
+2016-09-08T18:15:18+00:00,738395057,733841924,1,OllieMD,KCNMB1,/* Function */
+2016-09-08T18:14:00+00:00,738394862,732378238,1,OllieMD,BK channel,/* Pharmacology */
+2016-09-08T18:12:02+00:00,738394578,701487522,1,OllieMD,D1–D2 dopamine receptor heteromer,/* Physiology */
+2016-09-08T18:09:24+00:00,738394214,735138874,1,OllieMD,G protein-coupled receptor,/* Phosphorylation by GRKs */
+2016-09-06T18:42:31+00:00,738068090,732619031,1,OllieMD,Fordyce spots,/* Treatment */
+2016-09-06T18:38:47+00:00,738067419,727587899,1,OllieMD,Cornea verticillata,Reference added
+2016-09-06T18:37:34+00:00,738067226,736546074,1,OllieMD,Amiodarone,/* Mechanism of action */
+2016-09-06T18:30:37+00:00,738066046,733069787,1,OllieMD,Helicobacter pylori,Reference added
+2016-09-06T18:23:20+00:00,738064863,738064750,1,OllieMD,Mitochondrion,/* Calcium signaling */
+2016-09-06T18:22:34+00:00,738064750,738063564,1,OllieMD,Mitochondrion,/* Storage of calcium ions */
+2016-09-02T23:08:10+00:00,737460580,737334686,1,OllieMD,Roger Y. Tsien,/* Personal life */
+2016-08-27T01:19:35+00:00,736372637,736372360,1,OllieMD,Calcium,/* Compounds */ Reference fixed
+2016-08-27T01:16:51+00:00,736372360,731496627,1,OllieMD,Calcium,/* Cell signaling */
+2016-08-27T01:14:26+00:00,736372120,717705904,1,OllieMD,Metabolic alkalosis,/* Causes */
+2016-08-27T01:13:56+00:00,736372071,721804022,1,OllieMD,Congenital chloride diarrhea,/* Diagnosis */
+2016-08-27T01:12:26+00:00,736371885,736371738,1,OllieMD,Milk-alkali syndrome,Reference added
+2016-08-27T01:11:12+00:00,736371738,722277474,1,OllieMD,Milk-alkali syndrome,Reference added
+2016-08-25T15:23:10+00:00,736156125,732825372,1,OllieMD,Braxton Hicks contractions,Reference added
+2016-08-24T20:55:01+00:00,736052352,724299389,1,OllieMD,Daunorubicin,Reference added
+2016-08-24T20:53:21+00:00,736052138,688703980,1,OllieMD,Uronic acid,Reference added
+2016-08-24T20:52:12+00:00,736052032,678881921,1,OllieMD,Chondroprotection,Reference added
+2016-08-24T20:49:19+00:00,736051619,735144375,1,OllieMD,Sirolimus,Reference added
+2016-08-24T20:46:14+00:00,736051166,723921847,1,OllieMD,Tacrolimus,Reference added
+2016-08-24T20:43:53+00:00,736050857,727534564,1,OllieMD,FKBP1B,Reference added
+2016-08-24T20:40:09+00:00,736050379,732381337,1,OllieMD,Cajal body,/* Localization */
+2016-08-24T20:38:35+00:00,736050172,721466131,1,OllieMD,CDCP1,/* Clinical significance */
+2016-08-24T20:37:26+00:00,736050022,735138974,1,OllieMD,Cardiac resynchronization therapy,Reference added
+2016-08-24T20:35:10+00:00,736049762,736049722,1,OllieMD,Long QT syndrome,/* Genetics */
+2016-08-24T20:34:48+00:00,736049722,729718125,1,OllieMD,Long QT syndrome,/* Genetics */
+2016-08-23T18:11:40+00:00,735878199,722283009,1,OllieMD,Kaposi's sarcoma-associated herpesvirus,/* Epidemiology */
+2016-08-23T18:09:39+00:00,735877933,735877868,1,OllieMD,Angiopoietin,Fixed reference style
+2016-08-23T18:09:03+00:00,735877868,735139594,1,OllieMD,Angiopoietin,Reference added
+2016-08-23T18:07:33+00:00,735877671,687236205,1,OllieMD,Weismann-Netter–Stuhl syndrome,Reference added
+2016-08-23T18:06:25+00:00,735877554,735877486,1,OllieMD,Saber shin,
+2016-08-23T18:05:52+00:00,735877486,735877393,1,OllieMD,Saber shin,Reference added
+2016-08-23T18:05:04+00:00,735877393,728330257,1,OllieMD,Saber shin,Reference added
+2016-08-23T18:03:01+00:00,735877159,722410914,1,OllieMD,Rothmund–Thomson syndrome,Reference added
+2016-08-23T17:15:11+00:00,735871489,730501307,1,OllieMD,Trisomy 8,/* Characteristics */
+2016-08-23T17:13:36+00:00,735871321,734218242,1,OllieMD,Esthesioneuroblastoma,/* Treatment */
+2016-08-23T16:05:49+00:00,735863199,735490852,1,OllieMD,Kuru (disease),/* History */
+2016-08-23T16:04:06+00:00,735862922,735313566,1,OllieMD,Fatal insomnia,/* Related conditions */
+2016-08-23T16:01:30+00:00,735862596,722258994,1,OllieMD,Gerstmann–Sträussler–Scheinker syndrome,Reference added
+2016-08-23T15:58:23+00:00,735862205,722441828,1,OllieMD,Spinocerebellar ataxia,/* Treatment */ reference added
+2016-08-23T15:55:12+00:00,735861769,735861599,1,OllieMD,Inositol trisphosphate,Fixed Reference Style
+2016-08-23T15:53:40+00:00,735861599,735860967,1,OllieMD,Inositol trisphosphate,References added
+2016-08-23T15:48:11+00:00,735860967,733803377,1,OllieMD,Inositol trisphosphate,/* Sea urchin eggs */
+2016-08-22T20:04:21+00:00,735739605,733167281,1,OllieMD,Triolein,Reference added
+2016-08-22T20:01:25+00:00,735739213,678983912,1,OllieMD,Neutral lipid storage disease,
+2016-08-22T19:34:15+00:00,735735727,723518877,1,OllieMD,NPM1,/* Clinical significance */
+2016-08-22T17:35:13+00:00,735720926,734135594,1,OllieMD,Pancreatic cancer,/* Research directions */
+2016-08-22T17:32:21+00:00,735720506,734109969,1,OllieMD,Neuroblastoma,/* Refractory and relapsed neuroblastoma */
+2016-08-22T16:08:23+00:00,735710650,728039800,1,OllieMD,Adrenocortical carcinoma,Reference added
+2016-08-22T15:57:24+00:00,735709389,735694046,1,OllieMD,Samsung Galaxy Note 7,/* Storage */
+2016-08-22T15:54:12+00:00,735709006,735708909,1,OllieMD,Alpha collagen,
+2016-08-22T15:53:25+00:00,735708909,735660256,1,OllieMD,Alpha collagen,Reference added
+2017-08-30T20:22:05+00:00,798070909,797887851,0,Seppi333,Adrenergic receptor,fix ref title and rm repeated ref error
+2017-03-03T17:29:49+00:00,768414408,757388633,0,Neodop,Alpha collagen,-[[Category:Structural proteins]]; -[[Category:Integrins]]; -[[Category:Anti-aging substances]] using [[WP:HC|HotCat]]
+2017-08-28T08:50:40+00:00,797623900,797490359,0,KolbertBot,Alpha collagen,Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]
+2016-08-31T21:14:01+00:00,737115346,737056142,0,Iztwoz,Adrenal gland,Reverted 1 edit by [[Special:Contributions/150.242.174.12|150.242.174.12]] ([[User talk:150.242.174.12|talk]]) to last revision by Doc James. ([[WP:TW|TW]])
+2017-05-13T00:31:41+00:00,780105497,779206343,0,IAMGOOMBA,Adrenal gland,Undid revision 779206343 by [[Special:Contributions/إبراهيم طه|إبراهيم طه]] ([[User talk:إبراهيم طه|talk]]): I don't think so.
+2016-10-27T13:40:07+00:00,746448749,739950254,0,Iridescent,Alpha collagen,"/* top */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: comprises of → comprises using [[Project:AWB|AWB]]"
+2017-03-08T06:13:08+00:00,769217078,769025058,0,Wmayner,Angiogenesis,/* Tumor angiogenesis */ Removing (1) incorrect and misleading description of the important but now significantly out-of-date work of Otto Heinrich Warburg and (2) misquoted reference
+2017-07-12T21:30:12+00:00,790304358,790276176,0,Doc James,Amiodarone,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/139.167.12.78|139.167.12.78]] ([[User talk:139.167.12.78|talk]]): ? ([[WP:TW|TW]])
+2017-05-09T20:34:25+00:00,779592834,779264683,0,SporkBot,Amiodarone,"Remove template per [[Wikipedia:Templates for discussion/Log/2017 April 29|TFD]], but consider adding a link to [[List of cytochrome P450 modulators]]"
+2016-10-04T15:25:50+00:00,742583487,736059155,0,InternetArchiveBot,Adrenocortical carcinoma,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.4)
+2017-02-24T16:09:10+00:00,767217536,767217515,0,Happysailor,Adrenal gland,Reverted edits by [[Special:Contributions/139.167.9.159|139.167.9.159]] ([[User talk:139.167.9.159|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2017-04-14T20:12:06+00:00,775425960,775425788,0,BrainistBot,Adrenergic receptor,Undid revision 775425788 by [[Special:Contributions/BrainistBot|BrainistBot]] ([[User talk:BrainistBot|talk]])
+2016-08-29T07:32:15+00:00,736698085,735145234,0,GreenC bot,Angiogenesis,[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]
+2017-08-09T15:01:26+00:00,794698394,794698164,0,Saipawar4,Angiogenesis,/* Angiogenesis for cardiovascular disease */
+2016-12-20T16:00:03+00:00,755857790,755857788,0,ClueBot NG,Amiodarone,"Reverting possible vandalism by [[Special:Contribs/80.178.74.207|80.178.74.207]] to version by TylerDurden8823. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2875460) (Bot)"
+2017-07-26T05:43:40+00:00,792383440,787720286,0,InternetArchiveBot,Adrenal gland,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5beta)
+2017-07-06T02:01:27+00:00,789216170,779339402,0,InternetArchiveBot,Angiogenesis,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.4)
+2017-05-08T09:31:25+00:00,779339402,779336719,0,MrOllie,Angiogenesis,Reverted 1 edit by [[Special:Contributions/193.224.49.8|193.224.49.8]] ([[User talk:193.224.49.8|talk]]): Rv refspam. ([[WP:TW|TW]])
+2017-02-04T00:59:38+00:00,763583759,763583480,0,Quercus solaris,Angiogenesis,
+2017-09-10T11:55:48+00:00,799885935,797993825,0,JCW-CleanerBot,Angiogenesis,"/* Tumor angiogenesis */[[User:JCW-CleanerBot#Logic|task]], replaced: Trends → Trends in (2), Trends in in → Trends in using [[Project:AWB|AWB]]"
+2016-10-14T02:10:49+00:00,744250041,741404266,0,InternetArchiveBot,Angioplasty,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.4)
+2017-03-04T18:34:53+00:00,768589298,759639498,0,PrimeBOT,Angioplasty,/* References */rmv template being deleted - [[Wikipedia:Templates for discussion/Log/2017 February 20|TFD]] - [[Wikipedia:Bots/Requests for approval/PrimeBOT 12|BRFA]]
+2017-05-01T13:31:28+00:00,778154951,764872785,0,Rjwilmsi,Angiopoietin,"Journal cites: format PMC URL,  using [[Project:AWB|AWB]] (12156)"
+2016-11-07T17:02:53+00:00,748325452,744249835,0,CitationCleanerBot,Angiogenesis,"clean up redundant pmc/pmid url, remove accessdate without url, + [[WP:AWB]] general fixes. Report issues at [[User talk:CitationCleanerBot]]"
+2017-08-29T21:22:26+00:00,797906108,778154951,0,KolbertBot,Angiopoietin,Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]
+2016-10-17T03:59:37+00:00,744738351,738395723,0,Bender the Bot,Angiopoietin,http&rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]
+2017-02-11T12:15:11+00:00,764872785,764870603,0,AnomieBOT,Angiopoietin,Dating maintenance tags: {{Clarify}}
+2017-06-20T00:37:19+00:00,786523652,764863313,0,Ajpolino,Angiopoietin-related protein 1,Remove orphan tag. Incoming link
+2016-08-18T21:32:55+00:00,735145279,735140437,0,DMacks,Angiopoietin-related protein 1,blind reverting of [[User:MrOllie]] as sock/meat of [[User:Alansin2]]
+2017-05-22T14:19:18+00:00,781657202,756388323,0,Magic links bot,Antileukotriene,Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]
+2017-06-20T02:36:07+00:00,786535979,786535886,0,TylerDurden8823,Atrial fibrillation,/* Anticoagulants */
+2016-08-18T21:32:55+00:00,735145278,735140551,0,DMacks,Angiopoietin-related protein 7,blind reverting of [[User:MrOllie]] as sock/meat of [[User:Alansin2]]
+2016-06-06T20:57:55+00:00,724050934,721618405,0,Tom.Reding,Angiopoietin-related protein 7,"/* External links */Now categorized, removed uncategorised tag using [[Project:AWB|AWB]]"
+2017-07-31T00:50:00+00:00,793158547,790528058,0,Ajpolino,Angiopoietin-related protein 2,Remove orphan tag. Incoming link
+2017-04-13T20:54:12+00:00,775278599,770857679,0,Headbomb,Atrial fibrillation,/* Anticoagulants */cleanup using [[Project:AWB|AWB]]
+2017-01-13T21:35:18+00:00,759918705,735139252,0,Alakey,Angiopoietin-related protein 2,/* References */ Adding link to ANGPTL2 gene details page and display in UCSC genome browser.
+2017-06-17T23:09:50+00:00,786202726,786186755,0,Headbomb,Anti-VEGF,/* top */cleanup using [[Project:AWB|AWB]]
+2017-04-26T01:49:11+00:00,777243185,777243139,0,Doc James,Atrial fibrillation,/* Diagnosis */
+2016-12-23T22:21:52+00:00,756388323,738568578,0,Rjwilmsi,Antileukotriene,"/* top */Journal cites, added 1 PMID using [[Project:AWB|AWB]] (12130)"
+2017-02-25T22:29:43+00:00,767434480,764577600,0,Magioladitis,Anti-VEGF,v1.41b - [[WP:WCW]] project (DEFAULTSORT missing for titles with special letters)
+2017-02-11T14:48:02+00:00,764890950,764890931,0,Rjwilmsi,Atrial fibrillation,"/* Ablation */Journal cites, Added 1 doi to a journal cite using [[Project:AWB|AWB]] (12142)"
+2017-09-22T00:30:07+00:00,801809441,801060590,0,Doc James,Atrial fibrillation,Fixing references styling.
+2017-07-13T05:19:26+00:00,790352051,777007534,0,InternetArchiveBot,BK channel,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.4)
+2017-07-30T05:30:58+00:00,793029679,792798077,0,It's gonna be awesome,Atrial fibrillation,/* top */
+2017-05-04T05:45:42+00:00,778613161,756393653,0,Rjwilmsi,Beta cell,"Journal cites, added 1 PMC using [[Project:AWB|AWB]] (12156)"
+2016-11-02T04:51:54+00:00,747400204,746793895,0,Meticulo,Atrial fibrillation,→Intro (+lightheadedness)
+2017-07-26T01:39:56+00:00,792358076,778613161,0,TAnthony,Beta cell,/* References */Correct unknown or deprecated {{Reflist}} parameters (the template is now responsive) using [[Project:AWB|AWB]]
+2016-09-04T11:10:17+00:00,737681313,737681214,0,118.127.104.26,Beta-2 adrenergic receptor,/* Circulatory system */
+2017-04-29T20:26:02+00:00,777869345,746716953,0,2601:282:F00:A61B:697F:E249:2AC8:149D,Braxton Hicks contractions,/* Symptoms */
+2016-08-27T00:59:45+00:00,736370400,735145223,0,Seppi333,CAMK,c
+2017-04-29T06:50:50+00:00,777784764,777784591,0,Piandcompany,Beta-2 adrenergic receptor,Reverted edits by [[Special:Contributions/Ahmadharb_70|Ahmadharb_70]] ([[User talk:Ahmadharb_70|talk]]): Editing tests ([[WP:HG|HG]]) (3.1.20)
+2016-12-01T13:47:52+00:00,752478103,751520148,0,Bela Bartoszek,Beta blocker,/* Contraindications */
+2016-10-29T02:59:37+00:00,746716953,746716619,0,Donner60,Braxton Hicks contractions,Reverted edits by [[Special:Contributions/75.161.89.125|75.161.89.125]] ([[User talk:75.161.89.125|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2016-11-09T01:30:49+00:00,748590555,744864723,0,86.187.167.193,Beta-2 adrenergic receptor,/* Mechanism */ typo/grammar
+2017-09-11T22:01:37+00:00,800169626,800169411,0,Cooper Swenson,Beta-2 adrenergic receptor,/* Mechanism */
+2017-06-04T01:15:34+00:00,783694258,783625398,0,Jytdog,CAMK,Reverted edits by [[Special:Contribs/Spl brenda|Spl brenda]] ([[User talk:Spl brenda|talk]]) to last version by Seppi333
+2016-08-18T21:32:56+00:00,735145282,735140659,0,DMacks,CAMK4,blind reverting of [[User:MrOllie]] as sock/meat of [[User:Alansin2]]
+2017-06-28T01:00:25+00:00,787864637,764089839,0,"Me, Myself, and I are Here",CAMK4,layout
+2016-08-25T05:41:33+00:00,736104392,736104211,0,Boghog,CDCP1,consistent citation formatting
+2016-08-25T05:54:32+00:00,736105348,736050022,0,Yobot,Cardiac resynchronization therapy,"Removed invisible unicode characters + other fixes, replaced: →, added [[CAT:UL|underlinked]] tag using [[Project:AWB|AWB]] (12082)"
+2016-12-24T08:59:42+00:00,756451183,740146122,0,Rjwilmsi,Cajal body,"/* Localization */Journal cites, added 1 PMID using [[Project:AWB|AWB]] (12130)"
+2016-09-11T22:49:03+00:00,738946005,738945966,0,Doc James,Calcium,/* Food */
+2017-03-21T12:21:58+00:00,771418796,736105348,0,12.232.14.2,Cardiac resynchronization therapy,/* Cardiac resynchronization therapy in heart failure */ added reduced
+2017-03-20T17:22:05+00:00,771282988,736104392,0,Alakey,CDCP1,/* External links */ Adding link to CDCP1 gene details page and display in UCSC genome browser.
+2017-04-27T20:34:30+00:00,777549486,776876555,0,David notMD,Calcium,/* Dietary supplement */ removing the dementia content and the two refs. See discussion in Talk
+2017-06-15T13:09:39+00:00,785794150,785711271,0,KAP03,Calcium,/* Uses */ Adding references
+2017-09-14T00:05:27+00:00,800506233,799898009,0,Bibcode Bot,Calcium,"Adding 1 [[arXiv|arxiv eprint(s)]], 1 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2017-09-06T18:23:55+00:00,799272873,768611517,0,165.214.11.78,Carotid artery stenosis,/* Signs and symptoms */
+2016-08-18T20:48:42+00:00,735139096,735109510,0,MrOllie,Citric acid cycle,Reverted 2 edits by [[Special:Contributions/Alansin2|Alansin2]] ([[User talk:Alansin2|talk]]): Rv refspamming. ([[WP:TW|TW]])
+2016-08-18T20:49:32+00:00,735139209,735132041,0,MrOllie,Carotid artery stenosis,Reverted 1 edit by [[Special:Contributions/Alansin2|Alansin2]] ([[User talk:Alansin2|talk]]): Rv refspamming. ([[WP:TW|TW]])
+2016-08-25T03:27:45+00:00,736092669,736092372,0,DMacks,Chondroprotection,linkrot cleanup
+2016-10-11T02:52:42+00:00,743757220,743756880,0,2405:205:1304:AE8A:0:0:1262:30AC,Citric acid cycle,/* Steps */
+2017-10-02T23:16:53+00:00,803505605,803503538,0,AnomieBOT,Congenital chloride diarrhea,Dating maintenance tags: {{Empty section}}
+2017-01-08T07:52:28+00:00,758923114,758922626,0,Yurivict,Cytoplasm,
+2017-10-01T17:29:11+00:00,803297283,803297160,0,Arjayay,Cytoplasm,Reverted edits by [[Special:Contribs/2602:302:D178:8E50:1505:2505:A4EC:D1A4|2602:302:D178:8E50:1505:2505:A4EC:D1A4]] ([[User talk:2602:302:D178:8E50:1505:2505:A4EC:D1A4|talk]]) to last version by Materialscientist
+2017-09-16T08:25:02+00:00,800884776,800884684,0,Jim1138,Citric acid cycle,Reverted edits by [[Special:Contributions/117.247.245.147|117.247.245.147]] ([[User talk:117.247.245.147|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.3.0)
+2017-03-09T09:43:25+00:00,769406222,768358102,0,Panintelize,D1–D2 dopamine receptor heteromer,/* Structure */ // Edit via Wikiplus
+2017-05-05T18:29:27+00:00,778879597,778879247,0,Rjwilmsi,Daunorubicin,"/* History */Journal cites, Added 1 doi to a journal cite using [[Project:AWB|AWB]] (12156)"
+2016-10-15T17:09:18+00:00,744501344,743890047,0,Gerry D,Coronary stent,/* History */
+2017-03-05T02:04:54+00:00,768659954,738067419,0,PrimeBOT,Cornea verticillata,/* References */rmv template being deleted - [[Wikipedia:Templates for discussion/Log/2017 February 20|TFD]] - [[Wikipedia:Bots/Requests for approval/PrimeBOT 12|BRFA]]
+2016-12-17T03:47:46+00:00,755271537,738282437,0,InternetArchiveBot,Drug-eluting stent,Rescuing 5 sources and tagging 0 as dead. #IABot (v1.2.7.1)
+2017-08-22T10:56:16+00:00,796667552,783146881,0,Quinton Feldberg,Drug-eluting stent,fix citations
+2017-07-03T03:15:44+00:00,788726815,788661053,0,Adrian J. Hunter,Endoplasmic reticulum,rv test; fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]
+2016-12-18T22:27:20+00:00,755572851,753301861,0,Kadellar,Fatal insomnia,/* Presentation */
+2016-11-01T06:21:39+00:00,747233144,747231480,0,Mild Bill Hiccup,Esthesioneuroblastoma,Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()
+2016-08-18T21:32:32+00:00,735145218,735142677,0,Doc James,Endothelial dysfunction,Reverted edits by [[Special:Contribs/156.145.196.56|156.145.196.56]] ([[User talk:156.145.196.56|talk]]) to last version by MrOllie
+2016-12-13T22:07:57+00:00,754674376,754642202,0,Maggiemywang,Esthesioneuroblastoma,
+2016-09-23T23:19:26+00:00,740883526,740868565,0,Keith D,Endothelial dysfunction,Fix cite date errors
+2016-12-12T04:04:46+00:00,754343756,743563799,0,Benjbr89,G protein-coupled receptor,changed a few words to more accurately describe the function of gpcrs
+2016-11-22T16:27:51+00:00,750975068,750974886,0,JBW,Endoplasmic reticulum,"Changed protection level for ""[[Endoplasmic reticulum]]"": Persistent [[WP:Vandalism|vandalism]] ([Edit=Require autoconfirmed or confirmed access] (expires 16:27, 22 February 2017 (UTC)) [Move=Require administrator access] (indefinite))"
+2016-11-14T18:37:24+00:00,749509188,749408915,0,BarrelProof,Fatal insomnia,death is a pretty important thing to mention only in parenthesis
+2016-09-11T04:34:30+00:00,738804891,738068090,0,Matthew Ferguson 57,Fordyce spots,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/OllieMD|OllieMD]] ([[User talk:OllieMD|talk]]): Refspam. ([[WP:TW|TW]])
+2017-02-25T14:41:33+00:00,767375064,767261385,0,Trappist the monk,G protein-coupled receptor,/* Structure-function relationships */ cite repair;
+2016-08-25T03:32:31+00:00,736093112,736050857,0,DMacks,FKBP1B,useless cite interleaved in Entrez content Undid revision 736050857 by [[Special:Contributions/OllieMD|OllieMD]] ([[User talk:OllieMD|talk]])
+2016-11-10T07:52:34+00:00,748769363,739235909,0,InternetArchiveBot,Endothelium,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.7)
+2017-08-08T13:15:36+00:00,794507355,794507351,0,ClueBot NG,Endothelium,"Reverting possible vandalism by [[Special:Contribs/213.199.220.205|213.199.220.205]] to version by Sakura Cartelet. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3098631) (Bot)"
+2017-01-07T19:05:32+00:00,758815899,758791085,0,LizardWizard,Fordyce spots,Undid revision 758791085 by [[Special:Contributions/Wikipicturesxd|Wikipicturesxd]] ([[User talk:Wikipicturesxd|talk]]) Previous image seems better to me.
+2017-01-07T00:29:50+00:00,758696065,758626067,0,InternetArchiveBot,G protein-coupled receptor,Rescuing 0 sources and tagging 1 as dead. #IABot (v1.2.7.1)
+2017-07-24T16:35:13+00:00,792125206,791474923,0,Headbomb,G protein-coupled receptor,/* Structure-function relationships */Identifier linking + [[WP:GENFIXES|AWB fixes]] using [[Project:AWB|AWB]]
+2016-09-18T21:27:47+00:00,740067135,740043472,0,Chris the speller,Gerstmann–Sträussler–Scheinker syndrome,sp
+2017-05-24T19:39:15+00:00,782069345,781851047,0,DrKay,Helicobacter pylori,unsourced; added since the FA promotion
+2017-04-25T01:32:50+00:00,777068026,777067830,0,Doc James,Helicobacter pylori,
+2016-12-27T18:14:16+00:00,756925601,755871175,0,Monkbot,Hypertension,Task 11: cs1|2 maint: multiple [[Category:CS1 maint: Multiple names: authors list|authors]]/[[Category:CS1 maint: Multiple names: editors list|editors]] fixes;
+2017-05-03T19:53:37+00:00,778544676,775801678,0,Mountain9,Gerstmann–Sträussler–Scheinker syndrome,corrected reference
+2017-01-26T07:20:34+00:00,762036246,762036192,0,123.201.93.49,Hypertension,Undid revision 762036192 by [[Special:Contributions/123.201.93.49|123.201.93.49]] ([[User talk:123.201.93.49|talk]])
+2017-02-16T19:21:48+00:00,765843012,741532537,0,CitationCleanerBot,Inositol trisphosphate,"/* Alzheimer's disease */clean up, remove url redundant with pmid, remove accessdate if no url, Report bugs, errors, and suggestions at [[User talk:CitationCleanerBot]]"
+2017-04-11T04:36:39+00:00,774867435,773799448,0,InternetArchiveBot,Inositol trisphosphate,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.3beta4)
+2016-08-18T21:32:38+00:00,735145242,735141514,0,Doc James,Inositol trisphosphate receptor,Reverted edits by [[Special:Contribs/156.145.196.56|156.145.196.56]] ([[User talk:156.145.196.56|talk]]) to last version by MrOllie
+2016-09-28T03:03:24+00:00,741532537,741532352,0,24.184.115.130,Inositol trisphosphate,
+2017-01-23T05:09:15+00:00,761478122,761311859,0,75.132.119.238,Insulin,Added a necessary space
+2017-08-28T21:06:59+00:00,797729258,797542784,0,130.126.230.163,Insulin,Added a ref to the Opie article in Bull Johns Hopkins Hosp. in which the originally cited quotation appears.
+2017-09-18T22:12:02+00:00,801304619,801200432,0,Iztwoz,Insulin,/* Blood content */ changed to clearer blood insulin level and further info hatnote
+2017-05-05T13:19:07+00:00,778831440,738395057,0,Rjwilmsi,KCNMB1,"/* Further reading */Journal cites, added 1 PMC using [[Project:AWB|AWB]] (12156)"
+2017-01-17T22:19:55+00:00,760585737,753720501,0,Project2501a,Long QT syndrome,new category for clinical phenotypes which are associated with SNPs
+2016-12-13T10:54:38+00:00,754571958,738014626,0,Graham Beards,Kaposi's sarcoma-associated herpesvirus,/* Epidemiology */ fused participle
+2017-01-19T21:59:42+00:00,760929602,760647079,0,Bpatte16,Kuru (disease),Edited for clarity.
+2017-07-21T15:51:06+00:00,791646499,788794908,0,143.195.108.210,Insulin,
+2016-09-28T06:43:24+00:00,741555657,741555551,0,72.47.0.251,Kuru (disease),/* In popular culture */
+2016-09-06T12:01:35+00:00,738014626,736312767,0,Magioladitis,Kaposi's sarcoma-associated herpesvirus,/* Epidemiology */ISSN syntax and/or other fixes using [[Project:AWB|AWB]] (12084)
+2017-09-23T19:17:17+00:00,802062577,802001211,0,Doc James,Long QT syndrome,moved
+2016-11-25T19:53:12+00:00,751451701,748915530,0,Benbest,MTOR,"conserved, kinase"
+2017-06-20T10:06:06+00:00,786581897,780556056,0,Magioladitis,Metabolic alkalosis,"/* Chloride-responsive (Urine chloride < 10 mEq/L) */[[WP:CHECKWIKI]] error fixes, References after punctuation per [[WP:CITEFOOT]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (12151)"
+2017-04-30T15:30:51+00:00,777997344,776992460,0,Diptanshu Das,Long QT syndrome,/* References */Used dynamic column width using [[Project:AWB|AWB]]
+2017-09-04T19:08:34+00:00,798948165,796061282,0,KolbertBot,MTOR,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2017-03-27T16:17:25+00:00,772491029,765686319,0,Brainist,Long QT syndrome,removed [[Category:Syndromes]]; added [[Category:Syndromes affecting heart]] using [[WP:HC|HotCat]]
+2016-11-18T12:31:40+00:00,750220873,736372120,0,31.30.44.85,Metabolic alkalosis,/* Chloride-responsive (Urine chloride < 20 mEq/L) */
+2017-08-22T21:41:38+00:00,796756970,796693593,0,JCW-CleanerBot,MicroRNA,"/* top */[[User:JCW-CleanerBot#Logic|Fixing]] |journal= parameters;, replaced: Trends in Ecology and Evolution. → Trends in Ecology and Evolution"
+2017-09-08T18:41:20+00:00,799604033,796756970,0,BD2412,MicroRNA,"/* Obesity */clean up spacing around punctuation, replaced: ,and  → , and , ,m → , m using [[Project:AWB|AWB]]"
+2017-06-10T16:08:04+00:00,784899957,783752858,0,InternetArchiveBot,MicroRNA,Rescuing 1 sources and tagging 0 as dead. #IABot (v1.4beta)
+2017-03-23T22:19:11+00:00,771855511,765041314,0,129.10.9.86,MicroRNA,/* External links */ Added miRNA precursor families template
+2017-04-26T08:43:58+00:00,777285452,771855511,0,42.241.129.93,MicroRNA,
+2017-01-04T08:32:27+00:00,758243782,757487868,0,91.251.109.16,MicroRNA,/* Biogenesis */
+2016-11-08T03:39:02+00:00,748424998,748380128,0,CitationCleanerBot,MicroRNA,"clean up, url redundant with pmc, add pmc, and/or remove accessdate if no url using [[Project:AWB|AWB]]"
+2017-03-31T19:49:54+00:00,773174625,736371885,0,Brainist,Milk-alkali syndrome,added [[Category:Syndromes]] using [[WP:HC|HotCat]]
+2017-06-12T18:01:56+00:00,785290091,735145217,0,Jinchao Yu,Mir-126,SO added; Tax domain re-formatted
+2016-08-18T21:32:31+00:00,735145217,735142735,0,Doc James,Mir-126,Reverted edits by [[Special:Contribs/156.145.196.56|156.145.196.56]] ([[User talk:156.145.196.56|talk]]) to last version by MrOllie
+2017-04-26T08:31:52+00:00,777284379,748425923,0,144.82.8.106,Mitochondrial calcium uniporter,
+2016-11-08T03:45:17+00:00,748425923,735139082,0,CitationCleanerBot,Mitochondrial calcium uniporter,"/* top */clean up, url redundant with pmc, add pmc, and/or remove accessdate if no url using [[Project:AWB|AWB]]"
+2017-01-01T19:06:39+00:00,757786493,757211311,0,HarmonicSphere,Mitochondrion,"/* Genome */ Sentence 1, paragraph 1: spelling correction (""endoymbiosis"" => ""endosymbiosis"")"
+2017-09-11T10:53:37+00:00,800073363,799016692,0,Trappist the monk,Mitochondrion,/* Mitochondrial diseases */ cite repair;
+2016-08-18T20:48:37+00:00,735139082,735109015,0,MrOllie,Mitochondrial calcium uniporter,Reverted 4 edits by [[Special:Contributions/Alansin2|Alansin2]] ([[User talk:Alansin2|talk]]): Rv refspamming. ([[WP:TW|TW]])
+2017-03-03T03:45:48+00:00,768326505,767947800,0,Isaac Rabinovitch,Mitochondrion,/* top */ a little style tweak
+2016-11-06T14:58:57+00:00,748134496,745902628,0,2607:FCC8:E988:6A00:80A8:B278:9357:A395,Montelukast,Fixed link for dysmenorrhea causes in medial uses
+2017-04-08T15:04:54+00:00,774451035,774430871,0,HCA,Muscle contraction,Reverted edits by [[Special:Contribs/63.143.116.165|63.143.116.165]] ([[User talk:63.143.116.165|talk]]) to last version by Danielkueh
+2016-11-14T00:28:04+00:00,749371042,748831465,0,CitationCleanerBot,Muscle contraction,"/* History */clean up, url redundant with jstor, and/or remove accessdate if no url using [[Project:AWB|AWB]]"
+2017-05-09T20:50:42+00:00,779595418,777859614,0,SporkBot,Montelukast,"Remove template per [[Wikipedia:Templates for discussion/Log/2017 April 29|TFD]], but consider adding a link to [[List of cytochrome P450 modulators]]"
+2017-05-31T08:59:42+00:00,783129597,780313561,0,93.3.250.253,NADPH oxidase,
+2017-05-04T10:35:38+00:00,778637599,778637594,0,ClueBot NG,Muscle contraction,"Reverting possible vandalism by [[Special:Contribs/2001:770:20:4280:15DD:BED5:A0A1:F25E|2001:770:20:4280:15DD:BED5:A0A1:F25E]] to version by HCA. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3028484) (Bot)"
+2016-09-21T21:31:57+00:00,740565152,739491014,0,Zppix,Muscle contraction,/* Fibrillar muscles */[[wp:GENFIXES|General Fixes]] using [[Project:AWB|AWB]]
+2017-06-24T19:03:10+00:00,787323072,738014882,0,PrimeBOT,Neutral lipid storage disease,Replace [[Help:Magic_links|magic links]] with templates per [[Special:PermaLink/772743896#Future_of_magic_links|local RfC]] - [[User:PrimeBOT/13|BRFA]]
+2016-12-08T15:38:28+00:00,753670176,753670118,0,Dllahr,NPM1,/* Function */ add link to centrosome page
+2016-09-26T20:10:13+00:00,741328035,741188190,0,Ruslik0,Neuroblastoma,Reverted edits by [[Special:Contribs/66.87.152.85|66.87.152.85]] ([[User talk:66.87.152.85|talk]]) to last version by Diptanshu.D
+2017-03-04T23:08:06+00:00,768634938,761541213,0,DePiep,Neuroblastoma,"unk parameter: use image_size, symptoms (via JWB)"
+2016-09-06T12:04:14+00:00,738014882,735739213,0,Magioladitis,Neutral lipid storage disease,ISSN syntax and/or other fixes using [[Project:AWB|AWB]] (12084)
+2017-07-17T00:38:20+00:00,790926420,782751241,0,Natg 19,PDX1,Disambiguating links to [[Β-cell]] (link changed to [[Beta cell]]; link changed to [[Beta cell]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2017-01-12T16:53:36+00:00,759687212,759633575,0,Doc James,Pancreatic cancer,fixed
+2017-03-22T13:52:28+00:00,771601227,769917079,0,Loraof,Pancreatic cancer,/* Surgery */ sentence fragment
+2017-05-28T23:23:32+00:00,782751241,735138841,0,"Me, Myself, and I are Here",PDX1,/* Transcriptional Network */ cap
+2016-08-18T20:46:53+00:00,735138841,734929779,0,MrOllie,PDX1,Reverted 2 edits by [[Special:Contributions/Alansin2|Alansin2]] ([[User talk:Alansin2|talk]]): Rv refspamming. ([[WP:TW|TW]])
+2016-08-18T20:47:01+00:00,735138858,734930003,0,MrOllie,Peroxisome proliferator-activated receptor gamma,Reverted 1 edit by [[Special:Contributions/Alansin2|Alansin2]] ([[User talk:Alansin2|talk]]): Rv refspamming. ([[WP:TW|TW]])
+2017-03-07T22:12:49+00:00,769157865,766657505,0,Plantdrew,Photodynamic therapy,dab paramecia
+2016-11-12T21:16:33+00:00,749169674,747494057,0,Chaya5260,Regulation of gene expression,/* Regulation of transcription in cancer */ CpG islands are mostly found in vertebrates
+2016-12-30T12:01:58+00:00,757391811,738569957,0,Rjwilmsi,Pranlukast,"/* top */Journal cites, added 1 PMID using [[Project:AWB|AWB]] (12137)"
+2017-01-25T10:57:41+00:00,761885664,749169674,0,Evolution and evolvability,Regulation of gene expression,/* See also */ + gene structure
+2016-07-21T18:59:07+00:00,730923628,729217903,0,152.2.172.226,Photodynamic therapy,/* Photochemical processes */
+2016-09-09T19:25:31+00:00,738569957,738568644,0,CheMoBot,Pranlukast,Updating {{infobox_drug}} (changes to watched fields) per [[WP:CHEMVALID|Chem/infobox_drug validation]] (report [[Wikipedia talk:WikiProject_Pharmacology|errors]] or [[user talk:CheMoBot|bugs]])
+2017-06-30T20:26:42+00:00,788324227,788285756,0,Jytdog,Peroxisome proliferator-activated receptor gamma,Undid revision 788285756 by [[Special:Contributions/Benbest|Benbest]] ([[User talk:Benbest|talk]]) primary source; please use reviews per MEDRS
+2016-11-05T06:46:18+00:00,747927239,741806264,0,Bender the Bot,Restenosis,/* Binary Restenosis */http&rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]
+2016-09-29T19:54:42+00:00,741806264,735145235,0,99.101.95.84,Restenosis,"Corrected misuse of ""restentosis"" for ""restenosis."""
+2017-04-27T21:36:37+00:00,777557097,777441801,0,Wikid77,Roger Y. Tsien,"fix 2 cites for ""archivedat="" as ""archivedate="" or ""doi="""
+2017-01-31T12:47:08+00:00,762922101,750971432,0,Tooyouyou,Ryanodine receptor,MicroMolar to micromolar
+2017-08-07T20:36:39+00:00,794404436,794401866,0,AnomieBOT,Rothmund–Thomson syndrome,Dating maintenance tags: {{Empty section}}
+2017-04-25T12:42:24+00:00,777138418,772607944,0,Rjwilmsi,Rothmund–Thomson syndrome,"Journal cites:, added 1 PMID, added 1 PMC using [[Project:AWB|AWB]] (12151)"
+2016-08-17T04:37:52+00:00,734860364,734786231,0,Bgwhite,Ryanodine receptor,[[WP:CHECKWIKI]] error fix #102. PMID syntax problem. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]] (12082)
+2017-08-03T13:33:12+00:00,793713380,776952059,0,Llightex,Ryanodine receptor,/* Etymology */ typo
+2017-02-12T10:25:25+00:00,765043710,762922101,0,Rjwilmsi,Ryanodine receptor,"Journal cites: fix volume param, added 2 PMCs using [[Project:AWB|AWB]] (12142)"
+2016-11-22T15:57:48+00:00,750971432,748060497,0,2607:F470:6:2002:7024:2839:9B0C:B66,Ryanodine receptor,/* Physiology */
+2017-07-06T03:46:34+00:00,789227401,789226444,0,損齋,Roger Y. Tsien,added [[Category:Descendants of Qian Liu]] using [[WP:HC|HotCat]]
+2016-11-06T02:57:58+00:00,748060497,738015188,0,My very best wishes,Ryanodine receptor,
+2017-04-24T10:22:02+00:00,776952059,765043710,0,Brainist,Ryanodine receptor,added [[Category:Calcium channels]] using [[WP:HC|HotCat]]
+2016-09-06T12:06:20+00:00,738015188,736607997,0,Magioladitis,Ryanodine receptor,/* top */ISSN syntax and/or other fixes using [[Project:AWB|AWB]] (12084)
+2016-08-18T21:32:45+00:00,735145256,735141263,0,Doc James,Ryanodine receptor 2,Reverted edits by [[Special:Contribs/156.145.196.56|156.145.196.56]] ([[User talk:156.145.196.56|talk]]) to last version by MrOllie
+2016-11-24T15:33:33+00:00,751279933,735145256,0,Neodop,Ryanodine receptor 2,added [[Category:EF-hand-containing proteins]] using [[WP:HC|HotCat]]
+2017-05-01T17:42:35+00:00,778194178,751279933,0,Rjwilmsi,Ryanodine receptor 2,"/* Function */Journal cites, added 1 PMC using [[Project:AWB|AWB]] (12156)"
+2017-09-11T05:26:55+00:00,800025849,778194178,0,KolbertBot,Ryanodine receptor 2,Bot: [[User:KolbertBot|HTTP→HTTPS]]
+2016-11-08T05:32:21+00:00,748439293,748060578,0,CitationCleanerBot,"Ryanodine-Inositol 1,4,5-triphosphate receptor calcium channels","clean up, url redundant with pmc, add pmc, and/or remove accessdate if no url using [[Project:AWB|AWB]]"
+2016-07-04T18:05:52+00:00,728330257,676374890,0,Headbomb,Saber shin,"/* Causes */clean up, replaced: Journal of clinical rheumatology → Journal of Clinical Rheumatology, Journal of Clinical Rheumatology : practical reports on rheumatic & musculoskeletal diseases → Journal of Clinical Rhe using [[Project:AWB|AWB]]"
+2017-05-25T05:14:52+00:00,782145290,735877554,0,Dough34,Saber shin,/* Causes */ fix capitalization
+2017-07-23T03:57:46+00:00,791896121,791798324,0,AlphaBetaGamma01,Samsung Galaxy Note 7,/* top */
+2017-08-11T05:37:37+00:00,794974101,794938172,0,2600:387:8:5:0:0:0:91,Samsung Galaxy Note 7,/* Battery faults */
+2017-01-12T19:27:31+00:00,759710863,759691363,0,Anypodetos,Sirolimus,Trade name boldface
+2017-08-06T23:04:42+00:00,794265668,792870182,0,Fuse809,Sirolimus,"/* Effects on longevity */ Rapamycin->sirolimus, we usually stick to one name the whole way through the article."
+2017-05-01T15:25:58+00:00,778171444,775097841,0,Rjwilmsi,Sirolimus,"Journal cites, added 1 PMC using [[Project:AWB|AWB]] (12156)"
+2017-07-13T18:55:35+00:00,790435523,790435199,0,Boghog,Sirolimus,added missing citation
+2017-04-12T17:10:31+00:00,775097841,775096105,0,Jytdog,Sirolimus,Undid revision 775096105 by [[Special:Contributions/129.111.104.126|129.111.104.126]] ([[User talk:129.111.104.126|talk]]) trivia
+2017-03-30T17:48:26+00:00,773002919,769870855,0,Was a bee,Spinocerebellar ataxia,/* Classification */fix link to each chromosome page using [[Project:AWB|AWB]]
+2016-10-12T17:29:40+00:00,744024744,744018554,0,Fuhghettaboutit,Sirolimus,RevDeletion of copyright infringing edits completed. Thank you for reporting this!
+2016-08-20T02:16:40+00:00,735340879,735139200,0,97.117.244.203,Stenosis,/* Types */
+2017-01-28T17:52:04+00:00,762415554,762083194,0,Alextejthompson,Spinocerebellar ataxia,"/* Rehabilitation */typo fixing, replaced: Assesment → Assessment using [[Project:AWB|AWB]]"
+2016-09-08T11:18:28+00:00,738343975,735340879,0,Nickviavant,Stenosis,"Spelling error fixed, and non-existent wiki page link changed"
+2017-04-25T14:33:15+00:00,777153045,776153922,0,Rjwilmsi,Stent,"/* Etymology */Journal cites:, added 1 PMID using [[Project:AWB|AWB]] (12151)"
+2016-09-12T18:13:00+00:00,739084268,739083970,0,Momoricks,Stent,/* See also */ alphabetized; rm links that are already located in body per [[WP:NOTSEEALSO]]
+2016-09-06T12:08:22+00:00,738015557,735739605,0,Magioladitis,Triolein,ISSN syntax and/or other fixes using [[Project:AWB|AWB]] (12084)
+2017-07-31T10:08:01+00:00,793211522,792441000,0,Anypodetos,Tacrolimus,"/* Interactions */ Sorry, but a study in rats isn't sufficient for such a claim; see [[WP:RSMED]]"
+2017-05-01T13:36:00+00:00,778155603,777478873,0,Rjwilmsi,Tacrolimus,"/* Pharmacogenetics */Journal cites, added 1 PMC using [[Project:AWB|AWB]] (12156)"
+2017-01-06T01:01:29+00:00,758534501,738015557,0,Guyus24,Triolein,
+2016-09-06T12:08:30+00:00,738015576,735871489,0,Magioladitis,Trisomy 8,ISSN syntax and/or other fixes using [[Project:AWB|AWB]] (12084)
+2016-08-18T20:55:47+00:00,735140088,734860423,0,MrOllie,Unfolded protein response,Reverted to revision 733788042 by [[Special:Contributions/202.28.154.126|202.28.154.126]] ([[User talk:202.28.154.126|talk]]): Rv refspamming. ([[WP:TW|TW]])
+2017-04-20T15:17:53+00:00,776363629,760732515,0,M97uzivatel,Uronic acid,
+2016-10-06T13:01:03+00:00,742890862,742886697,0,Edgar181,Uronic acid,
+2017-05-16T19:22:17+00:00,780714594,776752914,0,Chaoyantime,Unfolded protein response,/* Functions */
+2016-09-13T02:33:13+00:00,739153842,738492642,0,Someguy1221,User talk:OllieMD,Adding sockpuppetry block notice per [[Wikipedia:Sockpuppet investigations/Alansin2]]
+2016-11-26T09:17:11+00:00,751536034,751449140,0,Iztwoz,Von Willebrand disease,Undid revision 751449140 by [[Special:Contributions/99.195.223.221|99.195.223.221]] ([[User talk:99.195.223.221|talk]]) Undid good faith edit - not mentioned in ref
+2016-06-06T23:02:23+00:00,724066618,673173224,0,Dcirovic,Weibel–Palade body,/* Production */refs using [[Project:AWB|AWB]]
+2016-10-03T19:35:38+00:00,742447866,738395959,0,Yobot,Weibel–Palade body,/* top */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12095)
+2017-03-30T20:57:17+00:00,773028823,751007718,0,Was a bee,XBP1,/* top */fix link to each chromosome page using [[Project:AWB|AWB]]
+2016-08-18T20:47:35+00:00,735138934,734933113,0,MrOllie,XBP1,Reverted 2 edits by [[Special:Contributions/Alansin2|Alansin2]] ([[User talk:Alansin2|talk]]): Rv refspamming. ([[WP:TW|TW]])
+2017-08-20T00:55:51+00:00,796320186,796318351,0,AnomieBOT,Weismann-Netter–Stuhl syndrome,Dating maintenance tags: {{Empty section}}
+2017-06-05T21:53:46+00:00,783993329,783985067,0,Jytdog,Zileuton,Undid revision 783985067 by [[Special:Contributions/2603:3003:F05:2A00:3D03:2A10:52A6:3550|2603:3003:F05:2A00:3D03:2A10:52A6:3550]] ([[User talk:2603:3003:F05:2A00:3D03:2A10:52A6:3550|talk]]) spam
+2017-02-17T16:34:31+00:00,765995486,765995424,0,141.70.13.124,Zileuton,/* External links */
+2017-10-12T11:58:14+00:00,804995703,803544265,0,122.8.190.225,Adrenal gland,/* Structure */Added content
+2016-09-26T22:27:59+00:00,741344986,741344445,0,EditronMan,Adrenal gland,/* Adrenaline and noradrenaline */
+2017-05-07T16:38:18+00:00,779206343,779028051,0,أحمد ناجي,Adrenal gland,
+2016-12-31T17:45:09+00:00,757611495,753504973,0,72.239.0.15,Adrenal gland,change link
+2017-08-02T06:28:36+00:00,793511862,787184465,0,211.46.131.135,Adrenergic receptor,
+2017-04-18T19:52:52+00:00,776067728,776067655,0,Shellwood,Adrenal gland,Reverted edits by [[Special:Contributions/96.252.17.5|96.252.17.5]] ([[User talk:96.252.17.5|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2016-12-07T15:59:44+00:00,753504973,750573553,0,Bear-rings,Adrenal gland,"- rep. links, ]s"
+2017-01-07T14:34:39+00:00,758774711,755857790,0,J. 'mach' wust,Amiodarone,"removing deprecated characters, see [[Help:IPA for English]]"
+2016-11-28T05:32:16+00:00,751857231,742101411,0,108.34.151.139,Amiodarone,/* Cardiac arrest */
+2017-01-15T21:45:49+00:00,760251654,754961251,0,Citation bot,Angiogenesis,Add: bibcode. Removed parameters. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].
+2016-12-15T13:10:24+00:00,754961251,752025631,0,Dexbot,Angiogenesis,Bot: Fix bad ref naming
+2016-05-05T19:42:17+00:00,718812341,718812318,0,24.5.143.190,Angiogenesis,/* Intussusceptive angiogenesis */
+2017-04-14T02:50:20+00:00,775316611,769217078,0,2604:2000:D05B:1100:380D:10CB:7A68:5D8C,Angiogenesis,/* External links */ Updated link.
+2016-06-21T07:02:22+00:00,726287419,726287396,0,David.moreno72,Angiogenesis,Reverted edits by [[Special:Contributions/27.251.66.110|27.251.66.110]] ([[User talk:27.251.66.110|talk]]) ([[WP:HG|HG]]) (3.1.19)
+2016-09-22T04:05:20+00:00,740608942,738397433,0,Geekdiva,Angiogenesis,"/* Sprouting angiogenesis */ [[Sprouting]] angiogenesis led to the food (e.g., alfalfa sprouts), which was not appropriate. Removed wikilink."
+2017-08-05T19:54:06+00:00,794093584,791666867,0,186.139.53.16,Angioplasty,/* History */
+2017-06-12T09:50:15+00:00,785233578,781256452,0,122.180.206.17,Angioplasty,Added external link to article.
+2017-02-11T10:39:30+00:00,764863313,759918594,0,Rod57,Angiopoietin-related protein 1,/* Function */ //
+2017-02-11T12:22:51+00:00,764873661,764873626,0,Rod57,Angiopoietin-related protein 7,/* top */ [[
+2017-06-28T17:57:16+00:00,787970863,786202726,0,The Collector,Anti-VEGF,Added findings from 2017 systematic review on diabetic macular adema; added pipelink to Aflibercept
+2017-03-18T00:46:33+00:00,770857679,770848336,0,Raquel Baranow,Atrial fibrillation,Undid revision 770848336 by [[Special:Contributions/77.97.152.79|77.97.152.79]] ([[User talk:77.97.152.79|talk]]) not sure why that's necessary
+2017-06-16T13:54:41+00:00,785969012,785967888,0,BallenaBlanca,Atrial fibrillation,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Temple2020|Temple2020]] ([[User talk:Temple2020|talk]]): Again... ([[WP:TW|TW]])
+2016-10-25T23:11:15+00:00,746208732,745422266,0,47.186.12.132,Atrial fibrillation,"/* Classification */""Half of people"" did not mean ""half of all humans"""
+2017-07-01T15:53:14+00:00,788470111,788469474,0,86.165.133.43,Beta-2 adrenergic receptor,/* Mechanism */  Edited for inappropriate use of capital letters for non-specific scientific terminology
+2017-08-31T05:17:42+00:00,798131874,797957142,0,GünniX,Beta blocker,template cite web using [[Project:AWB|AWB]]
+2017-02-28T11:08:58+00:00,767862231,762839763,0,185.113.97.71,Beta-2 adrenergic receptor,Noted a need for citation on a weak presumption.
+2017-04-10T15:34:54+00:00,774768818,767862231,0,128.172.48.5,Beta-2 adrenergic receptor,"Typo described receptor as also coupling ""Gs"", which it normally couples, and it was clear by the citation specified that the original editor meant ""Gi""."
+2016-10-22T13:40:01+00:00,745656086,745656019,0,43.224.131.20,Beta cell,/* Control of insulin secretion */
+2017-05-17T05:54:53+00:00,780786893,777784764,0,24.177.127.212,Beta-2 adrenergic receptor,Added Propranolol to list of Beta Receptor antagonists as it blocks Beta-1 and Beta-2 nonselectively
+2016-08-03T14:03:46+00:00,732825372,732340843,0,65.173.249.22,Braxton Hicks contractions,
+2016-10-12T02:18:24+00:00,743928351,743443195,0,Osterluzei,Calcium,
+2016-10-28T16:23:46+00:00,746637919,743757220,0,128.135.100.105,Citric acid cycle,/* Regulation */ fix spacing
+2016-12-01T09:55:19+00:00,752455347,751382303,0,Cedar101,Citric acid cycle,/* Overview */ {{underset}}
+2016-12-04T16:41:30+00:00,753000022,752999977,0,Semmendinger,Cytoplasm,Reverted 1 edit by [[Special:Contributions/79.67.235.40|79.67.235.40]] ([[User talk:79.67.235.40|talk]]): English. ([[WP:TW|TW]])
+2016-12-13T14:04:36+00:00,754595041,754593304,0,Vsmith,Cytoplasm,Reverted edits by [[Special:Contribs/206.219.158.10|206.219.158.10]] ([[User talk:206.219.158.10|talk]]) to last version by Semmendinger
+2016-09-27T00:57:04+00:00,741360852,741360792,0,Oshwah,Endoplasmic reticulum,Reverted edits by [[Special:Contributions/204.210.213.233|204.210.213.233]] ([[User talk:204.210.213.233|talk]]): Editing tests ([[WP:HG|HG]]) (3.1.21)
+2016-11-04T18:34:07+00:00,747846421,747628931,0,Vitund,Endoplasmic reticulum,Minor edit.
+2017-08-20T00:21:52+00:00,796317152,794183888,0,201.114.214.176,Endothelial dysfunction,/* Testing & Diagnosis */
+2017-05-02T23:49:21+00:00,778412319,778412269,0,Sakura Cartelet,Endothelium,Undid revision 778412269 by [[Special:Contributions/165.230.224.130|165.230.224.130]] ([[User talk:165.230.224.130|talk]])
+2016-07-26T02:53:32+00:00,731554060,722767457,0,TiMike,Endothelium,Minor copyedits
+2017-06-13T01:06:51+00:00,785347804,784029928,0,Myoglobin,Esthesioneuroblastoma,/* Signs and Symptoms */ ce
+2017-06-30T10:41:02+00:00,788248664,781351567,0,AxelBoldt,Fatal insomnia,"refs improved, seem ok now."
+2017-08-25T22:16:09+00:00,797259059,797258647,0,Grayfell,Fordyce spots,Reverted 1 edit by [[Special:Contributions/Saddampk|Saddampk]] ([[User talk:Saddampk|talk]]) to last revision by 92.239.239.183. ([[WP:TW|TW]])
+2017-03-10T22:36:47+00:00,769665112,769400061,0,Fixer88,Fatal insomnia,Disambiguated: [[Basque Country]] → [[Basque Country (autonomous community)]]
+2017-10-06T14:01:42+00:00,804063692,803158778,0,Clavelian,Fatal insomnia,/* In popular culture */
+2017-05-26T12:05:27+00:00,782359988,779154880,0,Omnipaedista,G protein-coupled receptor,per MOS:CAPS
+2016-12-23T19:54:12+00:00,756371704,756176461,0,Anastrophe,Gerstmann–Sträussler–Scheinker syndrome,/* top */ rm unsourced claim challenged since jan 2009
+2016-11-27T19:02:47+00:00,751768014,751767884,0,73.218.220.125,Gerstmann–Sträussler–Scheinker syndrome,
+2017-03-07T06:44:20+00:00,769043401,769043195,0,Quisqualis,Helicobacter pylori,/* Prevention */ wording
+2017-05-16T10:51:34+00:00,780644684,780397781,0,Annie1616,Hypertension,/* Medications */
+2017-03-22T21:36:35+00:00,771671130,771524233,0,Bfpage,Helicobacter pylori,/* Signs and symptoms */ restored ref
+2016-08-31T15:36:41+00:00,737069371,736059343,0,4.15.26.115,Inositol trisphosphate,
+2016-04-23T11:22:33+00:00,716714446,701955550,0,Eno Lirpa,Inositol trisphosphate,"/* See also */ added Adenophostin, added div col 3"
+2017-02-12T16:39:43+00:00,765092900,765091899,0,Rollingcontributor,Insulin,Reverted 1 edit by [[Special:Contributions/103.237.76.19|103.237.76.19]] ([[User talk:103.237.76.19|talk]]) to last revision by 146.115.44.143. ([[WP:TW|TW]])
+2017-02-03T19:03:32+00:00,763521629,761478122,0,146.115.44.143,Insulin,"changed ""none of which are"" to ""none of which is"" (""none"" is singular)"
+2017-04-27T13:24:40+00:00,777486937,777484140,0,LynxTufts,Insulin,Reverted 1 edit by [[Special:Contributions/89.197.61.174|89.197.61.174]] ([[User talk:89.197.61.174|talk]]) to last revision by ClueBot NG. ([[WP:TW|TW]])
+2017-08-03T09:49:34+00:00,793686870,793685874,0,Joshua J Reed,Insulin,
+2017-09-09T17:25:07+00:00,799756291,793488820,0,Narky Blert,Kaposi's sarcoma-associated herpesvirus,DN resolved
+2016-08-26T16:35:53+00:00,736312767,735878199,0,138.16.103.141,Kaposi's sarcoma-associated herpesvirus,/* Epidemiology */
+2016-11-26T18:21:48+00:00,751597734,750909969,0,Nikkimaria,Kuru (disease),rm material lacking reliable secondary sourcing
+2017-06-17T22:48:35+00:00,786200477,777997344,0,188.53.53.89,Long QT syndrome,corrected from dominant to recessive
+2017-10-07T15:11:42+00:00,804218627,799756291,0,2003:CA:A3C5:1966:F54B:8F20:E5E:7C09,Kaposi's sarcoma-associated herpesvirus,"Inserted the info, that EphA2 is the most important receptor for the Entry of HHV8"
+2017-03-11T02:47:23+00:00,769694565,769042471,0,Cidermitts,Kuru (disease),Changed conjunctions in final sentences of second paragraph.
+2017-06-11T04:49:32+00:00,785014381,785013622,0,Wmarcc,Kuru (disease),/* History */ Added links
+2017-03-10T09:31:46+00:00,769563717,769155361,0,Dmitry Dzhagarov,MTOR,/* External links */
+2016-12-17T19:35:20+00:00,755393825,755393718,0,82.238.243.184,MTOR,/* Aging */
+2017-09-28T22:20:33+00:00,802858781,802286737,0,128.252.25.64,MTOR,"""Tissuess"" was misspelled. Was changed to ""tissues."""
+2016-07-06T16:30:37+00:00,728634397,724258215,0,VTD,MicroRNA,
+2016-06-08T03:14:25+00:00,724258215,724254906,0,Majora,MicroRNA,Reverted 1 edit by [[Special:Contributions/130.216.139.149|130.216.139.149]] ([[User talk:130.216.139.149|talk]]): No. Just no. ([[WP:TW|TW]])
+2016-06-06T02:53:48+00:00,723925346,723543501,0,Rbleibenusw,MicroRNA,/* Evolution */ Reverting poorly sourced and nonsensical theory from IP account who is likely an author of the source (appears in vanity press)
+2016-07-25T11:30:44+00:00,731442357,728634397,0,Parutakupiu,MicroRNA,/* References */
+2016-03-02T19:52:05+00:00,707955521,706773848,0,Iamozy,Mitochondrial calcium uniporter,sp
+2017-09-29T20:27:40+00:00,802995966,801130546,0,Manudouz,Mitochondrion,/* Organization and distribution */ Mentionning the chondriome.
+2016-10-21T03:14:03+00:00,745434267,743729170,0,Ashorocetus,Mitochondrion,
+2016-06-11T00:43:07+00:00,724713437,715486613,0,Vanished user 0x8cSXE0x6,Montelukast,/* External links */
+2017-07-25T09:36:07+00:00,792234736,791499770,0,L8 ManeValidus,Mitochondrion,added internal link with [[Staining]]
+2017-04-17T05:09:01+00:00,775799234,774482504,0,DocWatson42,Montelukast,Made two minor corrections.
+2016-12-28T19:25:06+00:00,757094421,755542802,0,Citation bot,Montelukast,Add: pmid. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].
+2017-03-27T15:48:43+00:00,772487062,772416076,0,Danielkueh,Muscle contraction,Undid revision 772416076 by [[Special:Contributions/Maaaty|Maaaty]] ([[User talk:Maaaty|talk]]) This is a muscle-related article. Why would we remove those categories?
+2017-03-04T02:23:21+00:00,768484554,766513039,0,103.42.159.253,Muscle contraction,Corrected the grammar to clarify the meaning.
+2016-06-27T20:01:41+00:00,727262000,723971150,0,LilHelpa,Muscle contraction,Typos and general fixes using [[Project:AWB|AWB]]
+2017-03-01T12:03:00+00:00,768038522,764715566,0,132.68.106.142,NADPH oxidase,/* Function of NADPH */
+2017-05-30T22:12:26+00:00,783062539,783050207,0,Plastikspork,Neuroblastoma,Fix duplicates
+2017-06-09T16:09:36+00:00,784692133,784692000,0,111.31.248.138,Pancreatic cancer,/* Precursors */
+2017-10-10T23:38:06+00:00,804758399,804755443,0,Zefr,Pancreatic cancer,/* Research directions */ too preliminary; Curematch is not a valid [[WP:SECONDARY]] source; trim sources per [[WP:CITEKILL]]
+2017-06-12T02:38:59+00:00,785178460,764554780,0,Kitcat007,Peroxisome proliferator-activated receptor gamma,/* Function */ I added PPAR-beta because it is part of the subtypes of the PPAR family
+2017-08-31T22:49:34+00:00,798269038,796868399,0,Vanished user 0x8cSXE0x6,Peroxisome proliferator-activated receptor gamma,
+2017-05-03T13:42:49+00:00,778496586,774267387,0,80.246.138.52,Photodynamic therapy,Photoimmunotherapy
+2017-03-27T06:20:46+00:00,772427140,761885664,0,Serjatt4,Regulation of gene expression,
+2016-07-22T18:48:44+00:00,731067135,723848874,0,128.253.227.46,Roger Y. Tsien,/* Education and early life */
+2016-04-24T21:59:47+00:00,716950285,706154036,0,Vanished user 4560985,Restenosis,
+2016-08-22T17:47:37+00:00,735722489,734353886,0,Erin Rod,Roger Y. Tsien,"I changed tetrapyrrole to describe the exact tetrapyrole: biliverdin.  Removed that there is enough biliverdin in cells because this is no longer agreed by the scientific community and my boss, Roger Tsien."
+2016-09-04T04:13:39+00:00,737639353,737460580,0,Daniel Mietchen,Roger Y. Tsien,/* Death */
+2016-10-16T04:58:58+00:00,744581339,742447725,0,Milktaco,Roger Y. Tsien,
+2016-03-17T02:00:47+00:00,710456831,699224805,0,BG19bot,Ryanodine receptor,/* Pharmacology */Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]
+2016-05-20T13:54:10+00:00,721233318,674197576,0,ProteinBoxBot,Ryanodine receptor 2,Updating to new gene infobox populated via wikidata
+2016-06-23T05:55:55+00:00,726604159,715819374,0,ImageRemovalBot,"Ryanodine-Inositol 1,4,5-triphosphate receptor calcium channels",Removing links to deleted file [[:File:4JKQ bio r 500.jpg]]
+2016-07-22T04:00:28+00:00,730982452,723556157,0,Pangkakit,Samsung Galaxy Note 7,[[Samsung Galaxy Note 7]]
+2017-05-10T08:44:14+00:00,779672707,779671896,0,Shellwood,Samsung Galaxy Note 7,Reverted edits by [[Special:Contributions/The-editor3000|The-editor3000]] ([[User talk:The-editor3000|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2016-08-16T13:47:08+00:00,734752788,734752032,0,62.120.194.14,Samsung Galaxy Note 7,Fixed typo
+2016-08-01T21:57:46+00:00,732580568,732580488,0,Iamozy,Sirolimus,/* Tuberous sclerosis complex */ typo
+2016-06-19T02:23:24+00:00,725967470,723890683,0,Boatswi,Sirolimus,/* Effects on longevity */ added effects of co-administration of metformin
+2017-06-09T16:06:11+00:00,784691437,783480772,0,Nolabob,Sirolimus,/* Effects on longevity */ added link to Dog Aging Project
+2017-01-09T15:20:19+00:00,759156424,757759560,0,J. 'mach' wust,Stenosis,"replacing deprecated characters, see [[Help:IPA for English]]"
+2016-06-25T22:50:36+00:00,726998545,722647902,0,Dirac66,Stent,Link for lumen
+2016-10-13T07:24:55+00:00,744120111,741655361,0,Kipepea,Stent,/* Overuse in stable coronary artery disease */
+2017-10-16T01:24:41+00:00,805537784,802301588,0,70.51.45.76,Stent,
+2016-12-22T10:27:04+00:00,756156569,746182853,0,2A02:C7F:3E20:DC00:55F4:3610:A081:A21B,Tacrolimus,/* Carcinogenesis and mutagenesis */
+2017-03-21T19:07:10+00:00,771473592,771473587,0,Excirial,Unfolded protein response,Reverted edits by [[Special:Contributions/50.224.111.235|50.224.111.235]] ([[User talk:50.224.111.235|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2017-06-02T14:34:03+00:00,783469782,783197963,0,161.17.0.1,Von Willebrand disease,
+2015-10-24T05:55:14+00:00,687236205,687235888,0,WhatamIdoing,Weismann-Netter–Stuhl syndrome,Begin with plain English
+2016-11-22T20:14:28+00:00,751007718,748489750,0,130.217.138.38,XBP1,/* Endoplasmic reticulum stress response */
+2016-12-11T14:47:48+00:00,754228280,738569769,0,Animeronin,Zileuton,

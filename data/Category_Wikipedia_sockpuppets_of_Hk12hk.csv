@@ -1,0 +1,73 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-05-28T06:07:34+00:00,1025553298,1025552978,1,Hk12hk,United Commercial Bank PLC,
+2021-05-28T06:05:11+00:00,1025552978,1025551950,1,Hk12hk,United Commercial Bank PLC,
+2021-05-28T05:57:27+00:00,1025551950,1025551704,1,Hk12hk,United Commercial Bank PLC,
+2021-05-28T05:55:18+00:00,1025551704,1002375838,1,Hk12hk,United Commercial Bank PLC,
+2021-05-27T22:51:06+00:00,1025500370,1025500128,1,Hk12hk,Dhaka,ref added
+2021-05-27T22:49:06+00:00,1025500128,1025499914,1,Hk12hk,Dhaka,
+2021-05-27T22:47:24+00:00,1025499914,1025202970,1,Hk12hk,Dhaka,
+2021-05-27T22:35:04+00:00,1025498463,1025497686,1,Hk12hk,Dhaka South City Corporation,
+2021-05-27T22:28:06+00:00,1025497686,1025497338,1,Hk12hk,Dhaka South City Corporation,
+2021-05-27T22:24:57+00:00,1025497338,1025496776,1,Hk12hk,Dhaka South City Corporation,
+2021-05-27T22:19:42+00:00,1025496776,1020537433,1,Hk12hk,Dhaka South City Corporation,
+2021-05-27T22:10:25+00:00,1025495796,1025482093,1,Hk12hk,Savar Upazila,
+2021-05-27T20:20:44+00:00,1025482093,1025481722,1,Hk12hk,Savar Upazila,
+2021-05-27T20:17:57+00:00,1025481722,1025481298,1,Hk12hk,Savar Upazila,
+2021-05-27T20:14:22+00:00,1025481298,1025481201,1,Hk12hk,Savar Upazila,
+2021-05-27T20:13:33+00:00,1025481201,1025480543,1,Hk12hk,Savar Upazila,
+2021-05-27T20:08:16+00:00,1025480543,1025480431,1,Hk12hk,Savar Upazila,
+2021-05-27T20:07:17+00:00,1025480431,1025480308,1,Hk12hk,Savar Upazila,
+2021-05-27T20:06:16+00:00,1025480308,1025480176,1,Hk12hk,Savar Upazila,added ref
+2021-05-27T20:05:12+00:00,1025480176,1025478620,1,Hk12hk,Savar Upazila,Undid revision 1025478620 by [[Special:Contributions/Nightenbelle|Nightenbelle]] ([[User talk:Nightenbelle|talk]])
+2021-05-27T20:04:11+00:00,1025480074,1025224183,1,Hk12hk,User talk:Nightenbelle,
+2021-05-27T19:53:20+00:00,1025478549,1013875249,1,Hk12hk,Savar Upazila,
+2021-05-28T18:13:01+00:00,1025644339,1013479232,1,Dhakathecity,Talk:Dhaka,
+2021-05-28T16:26:59+00:00,1025629193,1025626617,1,Dhakathecity,Dhaka,Undid revision 1025626617 by [[Special:Contributions/Danloud|Danloud]] ([[User talk:Danloud|talk]])
+2021-05-28T16:26:28+00:00,1025629109,1025626748,1,Dhakathecity,User talk:Danloud,Undid revision 1025626748 by [[Special:Contributions/Danloud|Danloud]] ([[User talk:Danloud|talk]])
+2021-05-28T16:25:52+00:00,1025629009,1025628404,1,Dhakathecity,Wikipedia:Administrator intervention against vandalism,/* Reports */
+2021-05-28T15:45:15+00:00,1025622601,1025593599,1,Dhakathecity,Dhaka,Undid revision 1025593599 by [[Special:Contributions/Danloud|Danloud]] ([[User talk:Danloud|talk]]) reverted the random removal of sourced content. [[User talk:Danloud|talk]]
+2021-05-28T15:43:06+00:00,1025622279,1021729976,1,Dhakathecity,User talk:Danloud,
+2021-05-28T12:11:37+00:00,1025593599,1025500370,0,Danloud,Dhaka,Reverted edits by [[Special:Contribs/Hk12hk|Hk12hk]] ([[User talk:Hk12hk|talk]]) to last version by 45.248.151.131
+2021-05-28T17:25:46+00:00,1025637699,1025629193,0,Ymblanter,Dhaka,Undid revision 1025629193 by [[Special:Contributions/Dhakathecity|Dhakathecity]] ([[User talk:Dhakathecity|talk]]) pls discuss @ the talk page
+2021-03-21T20:57:58+00:00,1013479232,1013478029,0,SandyGeorgia,Talk:Dhaka,Featured article review needed
+2021-01-24T03:36:07+00:00,1002375838,983194160,0,Monkbot,United Commercial Bank PLC,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 7 templates: hyphenate params (7×);
+2021-05-06T10:47:07+00:00,1021729976,1021729770,0,Danloud,User talk:Danloud,/* improvement and translation request for Novgrad */
+2021-05-27T20:05:26+00:00,1025480207,1025480074,0,Nightenbelle,User talk:Nightenbelle,/* Savar article */
+2021-05-28T15:38:56+00:00,1025621652,1025620992,0,212.191.80.214,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2021-05-28T05:40:15+00:00,1025549943,1025547951,0,MDanielsBot,Wikipedia:Administrator intervention against vandalism,"BOT: Removing Stale AIV Reports. [[Wikipedia:Bots/Requests_for_approval/MDanielsBot 4|BRFA]]. Stale time is at 6.8 hours, see [[User:SQL/AIVStale|Explanation]]."
+2021-02-01T20:28:56+00:00,1004266750,1004266690,0,ClueBot NG,Dhaka,"Reverting possible vandalism by [[Special:Contribs/95.184.175.247|95.184.175.247]] to version by Theroadislong. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3886012) (Bot)"
+2021-04-14T01:54:08+00:00,1017674239,1017226866,0,75.133.74.66,Dhaka,removed flag in infobox
+2021-02-17T17:52:54+00:00,1007349727,1006932441,0,Citation bot,Dhaka,"Alter: template type, url, isbn, title. URLs might have been anonymized. Add: oclc, chapter-url, chapter-url-access, issue, work, year, encyclopedia, isbn, authors 1-2. Removed or converted URL. Removed parameters. Some additions/deletions were parameter name changes. Upgrade ISBN10 to ISBN13. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | [[Category:Use Bangladeshi English from September 2019]] | via #UCB_Category 27/63"
+2021-03-06T00:41:37+00:00,1010540953,1010320462,0,GreenC bot,Dhaka,Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-03-18T21:05:48+00:00,1012881705,1012666256,0,BalinKingOfMoria,Dhaka,/* Transport */
+2021-03-23T21:11:46+00:00,1013860752,1013860083,0,2600:8806:2708:D400:584:C343:A29C:6955,Dhaka,
+2021-01-27T17:30:00+00:00,1003154779,1002968719,0,2620:22:4000:120C:0:0:0:190F,Dhaka,/* Education */
+2021-02-13T05:21:37+00:00,1006497222,1005884672,0,Dongar Kathorekar,Dhaka,Added bengali script
+2021-02-09T22:37:27+00:00,1005884672,1005797664,0,45.61.13.196,Dhaka,
+2021-05-09T08:28:15+00:00,1022229054,1021745395,0,Citation bot,Dhaka,Alter: isbn. Add: chapter-url. Removed or converted URL. Upgrade ISBN10 to ISBN13. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 389/560
+2020-09-07T17:53:28+00:00,977232178,977223206,0,Kmzayeem,Talk:Dhaka,/* Maps in infobox */
+2021-02-23T12:33:40+00:00,1008463860,1008160147,0,Mellk,User talk:Danloud,/* Liberal Democratic Party of Russia */ new section
+2021-04-21T11:20:04+00:00,1019074026,1018322091,0,Austronesier,User talk:Danloud,General note: Not assuming good faith.
+2021-04-02T13:30:44+00:00,1015611638,1015584072,0,Yapperbot,User talk:Nightenbelle,"[[WP:FRS|Feedback Request Service]] notification on a ""History and geography"" request for comment (1/15 this month). You can unsubscribe at [[WP:FRS]]."
+2021-05-15T23:01:09+00:00,1023354583,1022601265,0,Robert McClenon,User talk:Nightenbelle,/* Claire Guimond tags */ \  caution
+2021-04-11T19:37:26+00:00,1017261327,1016751073,0,Muhur,User talk:Nightenbelle,/* A barnstar for you! */ new WikiLove message
+2021-02-23T21:55:12+00:00,1008550851,1008550806,0,BatYote.,User talk:Nightenbelle,/* Draft: Jérôme Chenal */
+2021-01-29T03:38:41+00:00,1003473022,1003472205,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,8 IPs & 5 users left. rm [[Special:Contributions/London Bus Fan|London Bus Fan]] (blocked indef by [[User:Ohnoitsjamie|Ohnoitsjamie]] [[User:HBC AIV helperbot/Legend|(TPD ACB)]]).
+2021-03-18T15:52:20+00:00,1012834618,1012833896,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,4 IPs & 5 users left. rm [[Special:Contributions/204.81.192.178|204.81.192.178]] (blocked 31 hours by [[User:Sarahj2107|Sarahj2107]] [[User:HBC AIV helperbot/Legend|(AO ACB)]]).
+2021-03-08T15:07:51+00:00,1011009621,1011009537,0,84.67.64.23,Wikipedia:Administrator intervention against vandalism,/* User-reported */
+2021-05-14T03:04:16+00:00,1023057698,1023057171,0,Nemov,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/JuanNicolas04|JuanNicolas04]].
+2021-03-26T01:06:48+00:00,1014252883,1014252597,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,2 IPs & 1 user left. rm [[Special:Contributions/2804:D55:52C2:FA00:0:0:0:0/64|2804:D55:52C2:FA00:0:0:0:0/64]] (blocked 31 hours by [[User:Zzuuzz|Zzuuzz]] [[User:HBC AIV helperbot/Legend|(AO ACB)]]).
+2021-04-18T16:04:11+00:00,1018535901,1018531071,0,Farscot,User talk:Nightenbelle,
+2021-01-27T11:25:57+00:00,1003095834,1003093215,0,Ferien,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/222.229.9.115|222.229.9.115]].
+2021-05-22T12:07:12+00:00,1024485184,1024484350,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,1 IP & 2 users left. rm [[Special:Contributions/Sir king Luis32nd|Sir king Luis32nd]] (blocked indef by [[User:Carlosguitar|Carlosguitar]] [[User:HBC AIV helperbot/Legend|(ACB)]]).
+2021-04-05T01:01:48+00:00,1016030169,1016029580,0,力,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/Pplover420|Pplover420]].
+2021-05-01T10:05:13+00:00,1020838747,1020068054,0,Bam123456,User talk:Nightenbelle,Add iThena note
+2021-03-12T11:19:12+00:00,1011708498,1011708391,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,3 IPs & 3 users left. rm [[Special:Contributions/Cha0s skyler|Cha0s skyler]] (blocked indef by [[User:HJ Mitchell|HJ Mitchell]] [[User:HBC AIV helperbot/Legend|(ACB)]]).
+2021-03-04T02:41:48+00:00,1010161418,1010161322,0,RandomCanadian,Wikipedia:Administrator intervention against vandalism,Reporting [[Special:Contributions/DidYouDoItForTheLulz|DidYouDoItForTheLulz]].
+2021-04-25T11:16:25+00:00,1019782207,1019782139,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,3 IPs & 1 user left. rm [[Special:Contributions/79.127.73.133|79.127.73.133]] (blocked 1 month by [[User:ToBeFree|ToBeFree]] [[User:HBC AIV helperbot/Legend|(AO ACB)]]).
+2021-05-07T14:24:29+00:00,1021937689,1021937666,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,4 reports remaining. Noticeboard is backlogged.
+2021-04-08T06:20:48+00:00,1016628108,1016627832,0,Tarheel95,Wikipedia:Administrator intervention against vandalism,Added report for [[Special:Contributions/2601:444:202:1600:4484:421F:ACB4:544F|2601:444:202:1600:4484:421F:ACB4:544F]] ([[WP:HG|HG]]) (3.4.10)
+2021-02-12T21:15:11+00:00,1006430038,1006429856,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,3 IPs & 2 users left. rm [[Special:Contributions/WikiSmikiZ|WikiSmikiZ]] (blocked indef by [[User:EvergreenFir|EvergreenFir]] [[User:HBC AIV helperbot/Legend|(ACB)]]).
+2021-02-27T19:52:43+00:00,1009289479,1009289322,0,HJ Mitchell,Wikipedia:Administrator intervention against vandalism,/* User-reported */ Edits are not vandalism (using [[User:MusikAnimal/responseHelper|responseHelper]])
+2021-05-01T09:38:30+00:00,1020836193,1020836055,0,Ab207,Wikipedia:Administrator intervention against vandalism,/* User-reported */ typo
+2021-01-25T03:39:51+00:00,1002586495,1002586269,0,HBC AIV helperbot5,Wikipedia:Administrator intervention against vandalism,10 IPs & 4 users left. rm [[Special:Contributions/PARENLAWEA|PARENLAWEA]] (blocked indef by [[User:Fuzheado|Fuzheado]] [[User:HBC AIV helperbot/Legend|(ACB)]]).

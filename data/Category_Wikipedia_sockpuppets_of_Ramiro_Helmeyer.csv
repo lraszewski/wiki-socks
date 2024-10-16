@@ -1,0 +1,11 @@
+timestamp,revid,parentid,sock,user,page,message
+2014-05-21T16:28:48+00:00,609544345,609543865,1,Ramiro_Helmeyer,Thor Halvorssen (businessman),/* Arrest and imprisonment */
+2014-05-21T16:25:04+00:00,609543865,607741064,1,Ramiro_Helmeyer,Thor Halvorssen (businessman),/* Arrest and imprisonment */
+2014-05-28T18:56:13+00:00,610530454,610530283,1,Blanquita_Nieves,Thor Halvorssen (businessman),/* Notes */
+2014-05-28T18:54:42+00:00,610530283,609912480,1,Blanquita_Nieves,Thor Halvorssen (businessman),/* Arrest and imprisonment */
+2014-05-22T14:29:16+00:00,609676168,609559884,1,Giselle_Encantada,Thor Halvorssen (businessman),/* Notes */
+2014-05-21T18:31:44+00:00,609559884,609544345,0,AnomieBOT,Thor Halvorssen (businessman),"Rescuing orphaned refs (""halletter"" from rev 609543865)"
+2014-05-24T07:10:02+00:00,609912480,609731286,0,DonCalo,Thor Halvorssen (businessman),Reverted to revision 607741064 by [[Special:Contributions/BG19bot|BG19bot]] ([[User talk:BG19bot|talk]]): Unexplained deletions of properly referenced information. ([[WP:TW|TW]])
+2014-05-22T22:21:57+00:00,609731286,609676168,0,Xqbot,Thor Halvorssen (businessman),Robot: Adding missing <references /> tag
+2014-05-22T14:29:16+00:00,609676168,609559884,0,Giselle Encantada,Thor Halvorssen (businessman),/* Notes */
+2014-05-21T16:28:48+00:00,609544345,609543865,0,Ramiro Helmeyer,Thor Halvorssen (businessman),/* Arrest and imprisonment */

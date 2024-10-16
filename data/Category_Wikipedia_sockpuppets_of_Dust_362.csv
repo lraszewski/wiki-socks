@@ -1,0 +1,198 @@
+timestamp,revid,parentid,sock,user,page,message
+2010-02-27T23:24:19+00:00,346772690,346749639,1,Dust_362,Pizza Hut,
+2010-02-27T23:21:55+00:00,346772312,346746253,1,Dust_362,Gap Inc.,
+2010-02-12T19:38:38+00:00,343594886,343511955,1,Adam_X_127,Porsche,
+2010-02-12T19:36:58+00:00,343594606,343403416,1,Adam_X_127,Harley-Davidson,
+2010-02-12T19:38:48+00:00,343594913,343547986,1,Alchemy_142,General Electric,
+2010-02-12T19:37:34+00:00,343594700,343562080,1,Alchemy_142,IBM,
+2010-02-12T19:49:00+00:00,343596674,340378852,1,Apocalypse_295,Cartier (jeweler),
+2010-02-12T19:47:57+00:00,343596491,343395325,1,Apocalypse_295,Panasonic,
+2010-02-19T17:17:37+00:00,345048296,344805733,1,Arclight_94,Porsche,
+2010-02-19T17:15:52+00:00,345048032,344810942,1,Arclight_94,Harley-Davidson,
+2010-02-19T17:21:13+00:00,345048874,343596679,1,Armor_466,Cartier (jeweler),
+2010-02-19T17:20:03+00:00,345048691,344348190,1,Armor_466,Panasonic,
+2010-02-19T17:26:10+00:00,345049825,344882014,1,Asylum_170,Pizza Hut,
+2010-02-19T17:24:58+00:00,345049573,344622227,1,Asylum_170,Gap Inc.,
+2010-02-19T17:32:25+00:00,345050898,344582222,1,Aurora_260,Allianz,
+2010-02-19T17:28:02+00:00,345050188,344604198,1,Aurora_260,Johnson & Johnson,
+2010-02-19T17:40:14+00:00,345052312,345005827,1,Bling_81,BP,
+2010-02-19T17:39:04+00:00,345052086,344325897,1,Bling_81,Moët & Chandon,
+2010-02-19T17:42:53+00:00,345052752,344938018,1,Blink_195,Duracell,
+2010-02-19T17:41:57+00:00,345052612,342747336,1,Blink_195,Smirnoff,
+2010-02-19T17:46:23+00:00,345053304,343798961,1,Blockbuster_219,Prada,
+2010-02-19T17:45:19+00:00,345053124,341374182,1,Blockbuster_219,Nivea,
+2010-02-19T17:53:15+00:00,345054462,345004269,1,Boom-Boom_309,Shell plc,
+2010-02-19T17:51:49+00:00,345054207,343615428,1,Boom-Boom_309,Lancôme,
+2010-02-19T17:58:56+00:00,345055492,343013708,1,Cable_66,Puma (brand),
+2010-02-19T17:57:55+00:00,345055298,342554773,1,Cable_66,Lexus,
+2010-02-19T18:02:41+00:00,345056156,342294325,1,Caliban_322,Campbell Soup Company,
+2010-02-19T18:01:38+00:00,345055965,344637111,1,Caliban_322,Polo Ralph Lauren,
+2010-02-19T18:00:37+00:00,345055797,341895570,1,Caliban_322,Burberry,
+2010-02-19T20:17:09+00:00,345080888,345077540,1,Collective_Man_375,Louis Vuitton,
+2010-02-19T20:16:19+00:00,345080741,345080351,1,Collective_Man_375,BMW,
+2010-02-19T20:14:09+00:00,345080351,344815197,1,Collective_Man_375,BMW,
+2010-02-19T20:20:34+00:00,345081486,344641566,1,Colossus_110,Honda,
+2010-02-19T20:18:42+00:00,345081170,344853334,1,Colossus_110,Marlboro,
+2010-02-20T17:11:14+00:00,345243315,345049029,1,Diamond_Lil_174,Kellogg's,
+2010-02-27T23:14:38+00:00,346771220,345898388,1,Doorman_13,Porsche,
+2010-02-27T23:08:55+00:00,346770347,346513026,1,Doorman_13,Harley-Davidson,
+2010-02-27T23:19:25+00:00,346771930,345105520,1,Dragoness_308,Cartier (jeweler),
+2010-02-27T23:17:42+00:00,346771654,345797171,1,Dragoness_308,Panasonic,
+2010-02-27T23:27:33+00:00,346773310,345054169,1,Elixir_259,Johnson & Johnson,
+2010-02-27T23:14:43+00:00,346771231,346463797,1,Emma_Frost_481,General Electric,
+2010-02-27T23:12:08+00:00,346770836,346696000,1,Emma_Frost_481,IBM,
+2010-02-27T23:35:40+00:00,346774874,346747158,1,Empath_194,Moët & Chandon,
+2010-02-27T23:20:08+00:00,346772039,346744969,1,Gambit_28,Intel,
+2010-02-27T23:18:13+00:00,346771747,346599734,1,Gambit_28,Nokia,
+2010-02-27T23:24:41+00:00,346772751,346702970,1,Gargouille_238,Hewlett-Packard,
+2010-02-27T23:28:32+00:00,346773485,346748424,1,Gateway_93,Mercedes-Benz,
+2010-02-19T17:55:52+00:00,345054928,344687593,1,Jamie_Braddock_410,Adobe Inc.,
+2010-02-19T17:54:56+00:00,345054740,344165940,1,Jamie_Braddock_410,Visa Inc.,
+2010-02-19T17:50:01+00:00,345053923,344891411,1,Tito_Bohusk_362,Starbucks,
+2010-02-19T17:48:24+00:00,345053652,344124079,1,Tito_Bohusk_362,Armani,
+2010-02-17T20:09:25+00:00,344674796,344674425,0,Dennis Bratland,BMW,Undid revision 344674425 by [[Special:Contributions/188.188.38.89|188.188.38.89]] ([[User talk:188.188.38.89|talk]]) rvv
+2010-02-20T14:33:50+00:00,345218878,345175695,0,Lucasbfrbot,BMW,Replaced [[File:BMWZentrum.jpg]] by its duplicate on Commons [[File:BMW Zentrum Spartanburg.jpg]]
+2010-02-09T04:06:04+00:00,342856181,342669415,0,Joshua Scott,BP,rv to previous version supported by sources.
+2010-02-23T00:31:09+00:00,345774301,345774234,0,66.31.36.94,Allianz,/* India */
+2010-02-11T11:47:42+00:00,343329005,343328904,0,68.175.5.103,Armani,/* Armani Exchange */
+2010-02-12T19:49:03+00:00,343596679,343596674,0,ClueBot,Cartier (jeweler),"Reverting possible vandalism by [[Special:Contributions/Apocalypse 295|Apocalypse 295]] to version by 86.216.14.237. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (551468) (Bot)"
+2010-02-19T22:40:19+00:00,345105520,345102563,0,Flyguy649,Cartier (jeweler),rvv
+2010-02-23T06:09:29+00:00,345824782,345823811,0,Dennis Bratland,BMW,rvv
+2010-02-19T19:57:26+00:00,345077189,345055797,0,CZmarlin,Burberry,Reverted 1 edit by [[Special:Contributions/Caliban 322|Caliban 322]] identified as [[WP:VAND|vandalism]] to last revision by [[User:John|John]]. ([[WP:TW|TW]])
+2010-02-26T00:04:54+00:00,346399543,346399466,0,59.154.111.154,Adobe Inc.,/* 2009 */
+2010-02-04T14:42:05+00:00,341895570,341880870,0,John,Burberry,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Botoole12|Botoole12]] ([[User talk:Botoole12|talk]]) to last version by 24.91.55.102
+2010-02-06T14:35:36+00:00,342294325,342164415,0,Frecklefoot,Campbell Soup Company,[[WP:UNDO|Undid]] revision 342164415 by [[Special:Contributions/96.242.22.74|96.242.22.74]] ([[User talk:96.242.22.74|talk]])
+2010-02-17T09:20:38+00:00,344582222,342717926,0,124.157.205.125,Allianz,sold of Dresdner Bank
+2010-02-19T19:20:58+00:00,345070488,345052312,0,Mdd,BP,Undid revision 345052312 by [[Special:Contributions/Bling 81|Bling 81]] ([[User talk:Bling 81|talk]])
+2010-02-16T15:46:09+00:00,344420897,344399350,0,Motorrad-67,BMW,/* Motorcycles */
+2010-02-19T18:19:00+00:00,345059018,345056156,0,Frecklefoot,Campbell Soup Company,Undid revision 345056156 by [[Special:Contributions/Caliban 322|Caliban 322]] ([[User talk:Caliban 322|talk]])
+2010-02-13T19:44:27+00:00,343798180,343329005,0,Theologiae,Armani,/* Lines */
+2010-02-17T03:26:57+00:00,344545384,344545377,0,Courcelles,Duracell,Reverted edits by [[Special:Contributions/75.75.169.176|75.75.169.176]] to last revision by Ash ([[WP:HG|HG]])
+2010-02-16T12:33:35+00:00,344394841,343088316,0,213.24.76.22,Gap Inc.,/* Store count */
+2010-02-19T17:54:58+00:00,345054748,345052752,0,Ash,Duracell,Reverted 1 edit by [[Special:Contributions/Blink 195|Blink 195]] identified as [[WP:VAND|vandalism]] to last revision by [[User:69.221.150.92|69.221.150.92]]. ([[WP:TW|TW]])
+2010-02-19T17:17:06+00:00,345048222,345048032,0,Biker Biker,Harley-Davidson,Reverted 1 edit by [[Special:Contributions/Arclight 94|Arclight 94]] identified as [[WP:VAND|vandalism]] to last revision by [[User:83.55.248.230|83.55.248.230]]. ([[WP:TW|TW]])
+2010-02-12T19:37:12+00:00,343594645,343594606,0,ClueBot,Harley-Davidson,"Reverting possible vandalism by [[Special:Contributions/Adam X 127|Adam X 127]] to version by 64.253.166.252. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (551451) (Bot)"
+2010-02-14T07:24:59+00:00,343965898,343965772,0,Ginsengbomb,Harley-Davidson,Reverted edits by [[Special:Contributions/131.191.18.73|131.191.18.73]] to last revision by ClueBot ([[WP:HG|HG]])
+2010-02-26T16:31:22+00:00,346513026,346512645,0,75.145.157.225,Harley-Davidson,
+2010-02-16T22:11:11+00:00,344489430,344055010,0,93.97.138.93,General Electric,/* Media depiction */
+2010-02-17T16:47:42+00:00,344640005,344117072,0,151.207.246.4,Hewlett-Packard,/* Merger with Compaq */
+2010-02-21T21:02:49+00:00,345501574,345370449,0,JLRedperson,Hewlett-Packard,added telecom software and hardware to products list
+2010-02-18T19:52:02+00:00,344875754,344855284,0,Wine Guy,General Electric,Reverted to revision 344489430 by [[Special:Contributions/93.97.138.93|93.97.138.93]]; rv edit that removed infobox. ([[WP:TW|TW]])
+2010-02-14T18:06:57+00:00,344055010,344054980,0,Madhero88,General Electric,Reverted edits by [[Special:Contributions/Therealcolletepierre|Therealcolletepierre]] to last revision by Langkid1 ([[WP:HG|HG]])
+2010-02-16T18:09:11+00:00,344445279,344444517,0,Evb-wiki,Harley-Davidson,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/109.77.124.104|109.77.124.104]] ([[User talk:109.77.124.104|talk]]) to last version by Ginsengbomb
+2010-02-19T22:20:30+00:00,345102330,345049573,0,Flyguy649,Gap Inc.,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Asylum 170|Asylum 170]] ([[User talk:Asylum 170|talk]]) to last version by 67.240.1.42
+2010-02-21T18:52:38+00:00,345474421,345102330,0,Edenc1,Gap Inc.,/* Store count */
+2010-02-25T11:24:09+00:00,346275410,346275398,0,ClueBot,Honda,"Reverting possible vandalism by [[Special:Contributions/Skederid|Skederid]] to version by Rjwilmsi. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (556606) (Bot)"
+2010-02-12T21:50:01+00:00,343616241,343615933,0,207.14.148.50,IBM,/* developerWorks */
+2010-02-14T18:03:04+00:00,344054431,344054357,0,Madhero88,Intel,Reverted edits by [[Special:Contributions/Therealcolletepierre|Therealcolletepierre]] to last revision by Hblackhawks ([[WP:HG|HG]])
+2010-02-15T04:33:26+00:00,344150261,344054889,0,Cc68,IBM,/* Support to Nazi Germany */   Extensive reworking of the section.  See talk page.
+2010-02-19T21:31:05+00:00,345093735,345076781,0,Wine Guy,IBM,Reverted 1 edit by [[Special:Contributions/Cannonball 248|Cannonball 248]]; Rvv. ([[WP:TW|TW]])
+2010-02-12T18:49:22+00:00,343587089,343088298,0,Moretto,Johnson & Johnson,more on litigation
+2010-02-17T12:52:41+00:00,344604198,343587089,0,MondalorBot,Johnson & Johnson,Robot adding: [[ko:존슨 앤 존슨]]; cosmetic changes
+2010-02-19T17:51:34+00:00,345054169,345050188,0,Edgar181,Johnson & Johnson,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Aurora 260|Aurora 260]] ([[User talk:Aurora 260|talk]]) to last version by MondalorBot
+2010-02-19T22:46:35+00:00,345106561,345066220,0,Flyguy649,Lancôme,capitalization in headers
+2010-02-15T19:54:45+00:00,344262209,344212656,0,69.139.89.11,Louis Vuitton,/* 1893 through 1936 */
+2010-02-24T21:31:54+00:00,346165763,345855066,0,208.65.73.106,Lexus,
+2010-02-22T05:03:49+00:00,345603671,345239931,0,173.50.233.227,Intel,/* Partnership with Apple */
+2010-02-23T11:09:01+00:00,345855066,345098288,0,Paul1adams,Lexus,/* External links */
+2010-02-14T17:48:39+00:00,344052156,344051284,0,Nthep,Kellogg's,Undid revision 344051284 by [[Special:Contributions/Therealcolletepierre|Therealcolletepierre]] ([[User talk:Therealcolletepierre|talk]])no reason given for removing valid refs
+2010-02-20T17:12:33+00:00,345243552,345243315,0,Bongwarrior,Kellogg's,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Diamond Lil 174|Diamond Lil 174]] ([[User talk:Diamond Lil 174|talk]]) to last version by Nthep
+2010-02-18T23:54:19+00:00,344917898,344514670,0,137.222.216.131,Louis Vuitton,/* 1854 through 1892 */ (corrected the date of Louis Vuitton founding to 1854 from 1853 -the citation for 1853 [the Louis Vuitton Website] gives the date as 1854. I assume it was a typo)
+2010-02-19T21:48:43+00:00,345096916,345081170,0,SQGibbon,Marlboro,Reverted 1 edit by [[Special:Contributions/Colossus 110|Colossus 110]] identified as [[WP:VAND|vandalism]] to last revision by [[User:OllieFury|OllieFury]]. ([[WP:TW|TW]])
+2010-02-26T19:18:19+00:00,346540774,346520518,0,Sanfranman59,Mercedes-Benz,"revert Russian(?) language ""fan site"" ... per note, please discuss new external links on the talk page first"
+2010-02-20T05:49:56+00:00,345166678,345103859,0,Raine r pierre,Nivea,/* Spokesmodels */
+2010-02-13T03:41:24+00:00,343665007,342626140,0,Brandon,Marlboro,whitespace
+2010-02-21T23:23:23+00:00,345534813,345219090,0,Damsleth,Moët & Chandon,
+2010-02-20T14:35:19+00:00,345219090,345216247,0,Fattymogens,Moët & Chandon,
+2010-02-15T19:53:55+00:00,344262042,344195842,0,TheReaderOfOz,Mercedes-Benz,Undid revision 344195842 by [[Special:Contributions/202.131.97.247|202.131.97.247]] ([[User talk:202.131.97.247|talk]])
+2010-02-14T00:08:57+00:00,343859709,343842262,0,91.153.245.113,Nokia,
+2010-02-23T02:43:06+00:00,345797171,345797123,0,Spiceynanaers,Panasonic,
+2010-02-19T22:23:09+00:00,345102751,345059263,0,Flyguy649,Panasonic,revert edit by corporate name vandal sock ([[user:Armor 466]])
+2010-02-20T03:55:04+00:00,345153462,345147130,0,125.164.128.31,Panasonic,
+2010-02-21T15:18:23+00:00,345435387,345282443,0,AlexandrDmitri,Pizza Hut,/* Book It! */ Correct dab and grammar
+2010-02-26T19:19:46+00:00,346541050,346538450,0,Flyguy649,Pizza Hut,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/98.140.185.54|98.140.185.54]] ([[User talk:98.140.185.54|talk]]) to last version by AlexandrDmitri
+2010-02-24T17:44:14+00:00,346124446,346124431,0,ClueBot,Pizza Hut,"Reverting possible vandalism by [[Special:Contributions/164.116.207.155|164.116.207.155]] to version by Bongwarrior. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (555585) (Bot)"
+2010-02-23T19:21:36+00:00,345930568,345930503,0,Bongwarrior,Pizza Hut,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Cremepuff555|Cremepuff555]] ([[User talk:Cremepuff555|talk]]) to last version by NawlinWiki
+2010-02-13T03:41:12+00:00,343664982,343664746,0,Zoadico.,Porsche,/* US sales */  +ref
+2010-02-14T04:30:40+00:00,343924374,343923995,0,FinnishDriver,Porsche,/* History */
+2010-02-19T22:29:05+00:00,345103717,345063385,0,Hebrides,Prada,"clean up, replaced: d  b → d b (3), 7 billion → 7&nbsp;billion (19) using [[Project:AWB|AWB]]"
+2010-02-23T16:31:01+00:00,345898388,345898367,0,ClueBot,Porsche,"Reverting possible vandalism by [[Special:Contributions/64.8.149.98|64.8.149.98]] to version by Ronhjones. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (554063) (Bot)"
+2010-02-19T17:23:36+00:00,345049304,345048296,0,Rodhullandemu,Porsche,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Arclight 94|Arclight 94]] ([[User talk:Arclight 94|talk]]) to last version by LG4761
+2010-02-13T15:12:46+00:00,343743948,341320319,0,True Pagan Warrior,Polo Ralph Lauren,updated link
+2010-02-12T19:38:47+00:00,343594910,343594886,0,ClueBot,Porsche,"Reverting possible vandalism by [[Special:Contributions/Adam X 127|Adam X 127]] to version by Ibbn. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (551453) (Bot)"
+2010-02-19T19:57:59+00:00,345077292,345055965,0,CZmarlin,Polo Ralph Lauren,Reverted 1 edit by [[Special:Contributions/Caliban 322|Caliban 322]] identified as [[WP:VAND|vandalism]] to last revision by [[User:YUL89YYZ|YUL89YYZ]]. ([[WP:TW|TW]])
+2010-02-13T19:47:54+00:00,343798961,343798641,0,Theologiae,Prada,/* LG Prada cell phone */
+2010-02-09T21:27:41+00:00,343013708,340678035,0,Bootdog,Puma (brand),reverted a missed nonconstructive edit from 3 May 2008
+2010-02-19T18:54:49+00:00,345065699,345054462,0,GainLine,Shell plc,Undid revision 345054462 by [[Special:Contributions/Boom-Boom 309|Boom-Boom 309]] ([[User talk:Boom-Boom 309|talk]]) RV probable test edit
+2010-02-19T17:55:51+00:00,345054926,345052612,0,Ash,Smirnoff,Reverted 1 edit by [[Special:Contributions/Blink 195|Blink 195]] identified as [[WP:VAND|vandalism]] to last revision by [[User:NeilN|NeilN]]. ([[WP:TW|TW]])
+2010-02-25T18:45:54+00:00,346341040,346314854,0,WhisperToMe,Starbucks,/* See also */
+2010-02-14T03:01:35+00:00,343902444,342377646,0,Xqbot,Shell plc,robot Modifying: [[fa:رویال داچ شل]]
+2010-02-22T13:38:25+00:00,345658112,345452787,0,Lindsey Hills,Starbucks,
+2010-02-15T07:01:22+00:00,344165940,343579505,0,Coolcaesar,Visa Inc.,/* Background */ Fixing vandalism (the word palpable is NOT synonymous with obvious)
+2010-02-08T15:56:49+00:00,342717926,336781360,0,SchuminWeb,Allianz,Removing backlinks to Allianz Cornhill Information Services that has been speedily deleted per ([[WP:CSD#G12|CSD G12]]);  using [[WP:TWINKLE|TW]]
+2010-02-22T23:55:21+00:00,345767773,345252228,0,ImageRemovalBot,Armani,Removing deleted [[:File:Ronaldo armani ad.jpg|image]]
+2010-01-09T11:17:07+00:00,336781360,336780928,0,JASpencer,Allianz,past tense
+2010-02-26T14:36:28+00:00,346496206,345210541,0,Abrahampaulose01,BP,/* Air BP and BP Shipping */
+2010-02-26T12:00:37+00:00,346478895,346465665,0,211.31.31.251,Armani,/* Giorgio Armani */
+2010-01-26T00:23:52+00:00,340034168,340012331,0,NerdyScienceDude,Adobe Inc.,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/68.48.233.210|68.48.233.210]] ([[User talk:68.48.233.210|talk]]) to last version by John
+2010-02-12T15:23:21+00:00,343554917,343476330,0,Eedwa 01,BMW,/* Company history */  removed extra blank line
+2010-02-15T03:07:32+00:00,344139970,344057484,0,70.81.226.227,Adobe Inc.,Undid revision 344057484 by [[Special:Contributions/86.154.112.72|86.154.112.72]] ([[User talk:86.154.112.72|talk]])
+2010-02-25T20:39:42+00:00,346361756,346329309,0,Gr1st,Allianz,source?
+2010-02-15T01:21:30+00:00,344124079,343798180,0,75.177.138.189,Armani,/* Armani Eric Read */
+2010-02-14T19:00:56+00:00,344063123,344062859,0,Nihiltres,BMW,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/87.188.230.15|87.188.230.15]] ([[User talk:87.188.230.15|talk]]) to last version by Alanraywiki
+2010-02-20T13:25:30+00:00,345210541,345070488,0,148.122.187.66,BP,/* Air BP and BP Shipping */
+2010-01-27T18:51:15+00:00,340378852,340359671,0,86.216.14.237,Cartier (jeweler),
+2010-02-10T04:19:26+00:00,343088316,342577001,0,222.155.220.114,Gap Inc.,/* Store count */
+2010-02-17T15:04:50+00:00,344622227,344600902,0,67.240.1.42,Gap Inc.,
+2010-02-11T19:57:48+00:00,343403416,343073073,0,64.253.166.252,Harley-Davidson,/* Factory tours & museum */
+2010-02-18T13:31:10+00:00,344810942,344514820,0,83.55.248.230,Harley-Davidson,/* Harley Owners Group */
+2010-02-12T22:02:54+00:00,343618498,343594929,0,Langkid1,General Electric,Removed text: amaw ka!
+2010-02-26T09:07:32+00:00,346463797,346463774,0,Icseaturtles,General Electric,Reverted edits by [[Special:Contributions/220.227.56.66|220.227.56.66]] to last revision by 208.123.162.2 ([[WP:HG|HG]])
+2010-02-07T13:29:51+00:00,342480473,341883306,0,Trekphiler,General Electric,/* RCA */ add info/fn
+2010-02-04T13:04:04+00:00,341883306,341188377,0,TXiKiBoT,General Electric,robot Adding: [[hi:जनरल इलेक्ट्रिक]]
+2010-02-21T06:38:12+00:00,345366013,345093333,0,SmackBot,General Electric,Date maintenance tags and general fixes: build 400:
+2010-02-14T14:56:49+00:00,344028681,344028230,0,1wax,Hewlett-Packard,/* Merger with Compaq */
+2010-02-23T10:13:16+00:00,345849340,345677016,0,Rjwilmsi,Honda,"citation parameter fixes, replaced: |titleFIRST MOTORCYCLE AIRBAG EARNS TAKATA AND HONDA 2008 AUTOMOTIVE NEWS PACE INNOVATION PARTNERSHIP AWARD| → |title=FIRST MOTORCYCLE AIRBAG EARNS TAKATA AND HONDA 2008 AUTOMOTIVE NEWS using [[Project:AWB|AWB]]"
+2010-02-15T00:40:25+00:00,344117072,344100594,0,75.53.206.83,Hewlett-Packard,Undid revision 344028681 by [[Special:Contributions/1wax|1wax]] ([[User talk:1wax|talk]]) vandalism
+2010-02-17T16:56:39+00:00,344641566,344305422,0,128.95.3.236,Honda,/* Electric and alternative fuel vehicles */
+2010-02-03T03:19:13+00:00,341612775,341612748,0,Jojhutton,IBM,Reverted edits by [[Special:Contributions/173.61.156.197|173.61.156.197]] to last revision by Jojhutton ([[WP:HG|HG]])
+2010-02-26T00:23:36+00:00,346402472,346401515,0,Commander Keane,IBM,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/24.193.99.238|24.193.99.238]] ([[User talk:24.193.99.238|talk]]) to last version by Žiedas
+2010-02-19T14:41:09+00:00,345022939,345021847,0,Ian Rose,IBM,Revert to revision 344806823 dated 2010-02-18 12:57:08 by SieBot using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2010-02-07T06:58:44+00:00,342442785,342436965,0,122.173.184.239,IBM,updated current fy 09 results
+2010-02-13T03:37:42+00:00,343664603,343595706,0,Hblackhawks,Intel,/* Finances */
+2010-02-05T02:29:26+00:00,342020283,341823457,0,TXiKiBoT,Johnson & Johnson,robot Adding: [[cs:Johnson & Johnson]]
+2010-02-27T20:40:39+00:00,346744969,346744313,0,RobertMfromLI,Intel,Reverted 1 edit by [[Special:Contributions/188.50.63.115|188.50.63.115]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Hosszuka|Hosszuka]]. ([[WP:TW|TW]])
+2010-02-11T05:17:44+00:00,343295792,343294392,0,Ian Rose,IBM,Revert to revision 342442785 dated 2010-02-07 06:58:44 by 122.173.184.239 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2010-02-24T14:53:31+00:00,346095278,345998707,0,Tigz54,Intel,"/* Intel Inside, Intel Systems Division, and Intel Architecture Labs */"
+2010-02-07T21:03:07+00:00,342554773,342552544,0,SynergyStar,Lexus,table format space
+2010-01-26T16:12:12+00:00,340152499,340151848,0,BGfun246,Lancôme,
+2010-02-04T22:52:51+00:00,341983914,341940382,0,Hilda Harris,Kellogg's,
+2010-02-21T04:37:01+00:00,345351832,345099835,0,203.219.184.103,Louis Vuitton,
+2010-02-10T04:19:17+00:00,343088298,342853359,0,SmackBot,Johnson & Johnson,Date maintenance tags and general fixes: build 398:
+2010-02-04T03:57:20+00:00,341823921,341823840,0,Alansohn,Lexus,Reverted edits by [[Special:Contributions/68.40.168.203|68.40.168.203]] to last revision by HalfShadow ([[WP:HG|HG]])
+2010-02-19T22:06:00+00:00,345099835,345081808,0,174.48.155.32,Louis Vuitton,
+2010-02-17T00:25:45+00:00,344514670,344262209,0,98.219.80.15,Louis Vuitton,
+2010-02-08T03:28:38+00:00,342626140,342626132,0,The Thing That Should Not Be,Marlboro,[[WP:RBK|Reverted]] edits by [[Special:Contributions/68.193.174.234|68.193.174.234]] ([[User_talk:68.193.174.234|talk]]) to last revision by Tyw7 ([[User_talk:The Thing That Should Not Be|Report Mistake]]) ([[WP:HG|HG]])
+2010-01-30T19:20:13+00:00,340947407,339961187,0,84.177.234.226,Marlboro,irrelevant for introduction
+2010-02-18T17:50:15+00:00,344853334,344853272,0,OllieFury,Marlboro,Reverted edits by [[Special:Contributions/173.161.162.158|173.161.162.158]] to last revision by Brandon ([[WP:HG|HG]])
+2010-02-06T00:52:10+00:00,342205440,342032062,0,5 albert square,Louis Vuitton,"clean up and re-categorisation per [[WP:CFD|CFD]], typos fixed: jewelery → jewellery using [[Project:AWB|AWB]]"
+2010-02-07T21:27:52+00:00,342559482,342559193,0,SynergyStar,Mercedes-Benz,/* Robot cars */  add ref
+2010-02-01T23:57:02+00:00,341374182,341177543,0,Stan J Klimas,Nivea,remove red link (already correctly linked above)
+2010-02-04T23:56:07+00:00,341994605,341870711,0,68.47.124.80,Moët & Chandon,/* Pronunciation */
+2010-02-06T23:05:51+00:00,342376150,342376050,0,Ninetyone,Panasonic,Reverted edits by [[Special:Contributions/72.161.171.101|72.161.171.101]] to last revision by Ninetyone ([[WP:HG|HG]])
+2010-02-13T14:31:37+00:00,343737267,343596504,0,86.146.162.31,Panasonic,
+2010-02-11T19:11:40+00:00,343395325,342376150,0,EEMIV,Panasonic,/* Name */ OR/speculation
+2010-02-22T22:18:50+00:00,345749110,345435387,0,NawlinWiki,Pizza Hut,Protected Pizza Hut: [[WP:MOVP|Page-move vandalism]]: target per edit filter ([move=sysop] (indefinite))
+2010-02-10T14:11:01+00:00,343151589,343145499,0,Gejyspa,Pizza Hut,"/* Products */  ""backs"" -> ""box"""
+2010-02-12T02:24:10+00:00,343470058,343469416,0,Jerem43,Pizza Hut,Reverted 1 edit by [[Special:Contributions/67.212.102.63|67.212.102.63]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Gejyspa|Gejyspa]]. ([[WP:TW|TW]])
+2010-02-03T10:17:27+00:00,341657287,341657148,0,Ibbn,Porsche,[[WP:UNDO|Undid]] revision 341657148 by [[Special:Contributions/145.118.56.181|145.118.56.181]] ([[User talk:145.118.56.181|talk]])
+2010-02-05T18:18:33+00:00,342137000,342136839,0,76.215.208.188,Porsche,/* See also */
+2010-02-23T20:45:26+00:00,345947509,345077292,0,BrokenSphere,Polo Ralph Lauren,/* External links */ + Commons
+2010-02-08T18:37:40+00:00,342747336,342747038,0,NeilN,Smirnoff,Reverted 1 edit by [[Special:Contributions/142.109.6.2|142.109.6.2]] identified as [[WP:VAND|vandalism]] to last revision by [[User:87.210.119.109|87.210.119.109]]. using [[WP:TWINKLE|TW]]
+2010-02-23T15:15:05+00:00,345884843,345565713,0,168.216.181.19,Prada,
+2010-02-06T23:14:07+00:00,342377646,341420822,0,Martarius,Shell plc,"/* Health, safety, and other issues */ +fs"
+2010-02-12T18:00:09+00:00,343579505,340786878,0,198.241.159.80,Visa Inc.,/* Logo design */
+2010-02-19T17:52:41+00:00,345054346,345053923,0,Ohnoitsjamie,Starbucks,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Tito Bohusk 362|Tito Bohusk 362]] ([[User talk:Tito Bohusk 362|talk]]) to last version by Daniel J. Leivick
+2010-02-21T16:55:20+00:00,345452787,345439549,0,Esrever,Starbucks,Reverted to revision 345054346 by [[Special:Contributions/Ohnoitsjamie|Ohnoitsjamie]]; rv to Taiwan. ([[WP:TW|TW]])
+2010-02-25T00:09:03+00:00,346193785,346172213,0,140.144.129.4,Starbucks,/* International expansion */ ROC is not just Taiwan
+2010-02-22T17:11:44+00:00,345691141,345691110,0,Acather96,Visa Inc.,Reverted edits by [[Special:Contributions/216.109.2.77|216.109.2.77]] to last revision by Bdushaw ([[WP:HG|HG]])

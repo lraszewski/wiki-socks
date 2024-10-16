@@ -1,0 +1,558 @@
+timestamp,revid,parentid,sock,user,page,message
+2022-05-28T22:24:32+00:00,1090327377,1089372102,1,SlidingD,Bruno Fernandes,/* Honours */
+2022-05-28T02:19:57+00:00,1090202439,1090118550,1,SlidingD,Rúben Amorim,
+2022-05-28T02:16:39+00:00,1090202102,1090202067,1,SlidingD,Harry Kane,/* 2015–16 season: Premier League top goalscorer */
+2022-05-28T02:16:19+00:00,1090202067,1090202026,1,SlidingD,Harry Kane,/* 2014–15 season: PFA Young Player of the Year */
+2022-05-28T02:15:57+00:00,1090202026,1090201995,1,SlidingD,Harry Kane,/* 2016–17 season: League runner-up and second Golden Boot */
+2022-05-28T02:15:37+00:00,1090201995,1090201940,1,SlidingD,Harry Kane,/* 2017–18 season: Record breaking year */
+2022-05-28T02:15:07+00:00,1090201940,1090201877,1,SlidingD,Harry Kane,/* 2018–19 season: UEFA Champions League runner-up */
+2022-05-28T02:14:37+00:00,1090201877,1090201830,1,SlidingD,Harry Kane,/* 2019–20 season: Injury struggles */
+2022-05-28T02:14:05+00:00,1090201830,1090201801,1,SlidingD,Harry Kane,/* 2020–21 season: Third Golden Boot and Playmaker of the Season */
+2022-05-28T02:13:44+00:00,1090201801,1090201744,1,SlidingD,Harry Kane,/* 2021–22: Desire to leave Tottenham and Champions League qualification */
+2022-05-28T02:13:11+00:00,1090201744,1089757039,1,SlidingD,Harry Kane,/* 2021–22 season */
+2022-05-28T02:10:26+00:00,1090201424,1090066917,1,SlidingD,Son Heung-min,/* 2021–22 season */
+2022-05-28T02:08:13+00:00,1090201183,1090036802,1,SlidingD,Erling Haaland,/* 2020–22: Injury struggles and Final season with Dortmund */
+2022-05-27T10:56:05+00:00,1090098444,1090097616,1,SlidingD,2021–22 Serie A,/* Top assists */
+2022-05-27T10:46:39+00:00,1090097616,1089836690,1,SlidingD,2021–22 Serie A,/* Top assists */
+2022-05-27T10:24:21+00:00,1090095603,1089911317,1,SlidingD,Sérgio Oliveira,/* Return to Porto */
+2022-05-27T10:18:53+00:00,1090095147,1089930989,1,SlidingD,Pedro Porro,/* Sporting CP */
+2022-05-27T09:57:17+00:00,1090093245,1090092881,1,SlidingD,José Mourinho,/* 2021–22 season */
+2022-05-27T09:49:21+00:00,1090092586,1090092555,1,SlidingD,José Mourinho,/* 2021–22 season */
+2022-05-27T09:48:54+00:00,1090092555,1090092467,1,SlidingD,José Mourinho,/* Roma */
+2022-05-27T09:47:39+00:00,1090092467,1090092366,1,SlidingD,José Mourinho,/* 2021–22 season */
+2022-05-27T09:46:17+00:00,1090092366,1090008795,1,SlidingD,José Mourinho,/* 2021–22 season */
+2022-05-27T09:43:59+00:00,1090092180,1090091899,1,SlidingD,UEFA Europa Conference League,/* History */
+2022-05-27T09:40:08+00:00,1090091899,1089975976,1,SlidingD,UEFA Europa Conference League,/* History */
+2022-05-26T14:59:38+00:00,1089955954,1089955652,1,SlidingD,Rúben Amorim,/* Manager */
+2022-05-26T14:57:50+00:00,1089955652,1089955610,1,SlidingD,Rúben Amorim,/* Braga */
+2022-05-26T14:57:29+00:00,1089955610,1089955561,1,SlidingD,Rúben Amorim,/* Tactics */
+2022-05-26T14:57:07+00:00,1089955561,1089955466,1,SlidingD,Rúben Amorim,/* 2021–22 season: Champions League achievement */
+2022-05-26T14:56:32+00:00,1089955466,1089952073,1,SlidingD,Rúben Amorim,/* 2021–22 season: Champions League achievement */
+2022-05-26T14:44:07+00:00,1089953596,1089949635,1,SlidingD,Antonio Conte,/* Tottenham Hotspur */
+2022-05-26T14:33:49+00:00,1089952073,1089383388,1,SlidingD,Rúben Amorim,
+2022-05-26T14:15:31+00:00,1089949635,1089664310,1,SlidingD,Antonio Conte,/* Tottenham Hotspur */
+2022-05-26T12:18:20+00:00,1089934261,1089931761,1,SlidingD,Erling Haaland,/* Style of play */
+2022-05-26T12:01:14+00:00,1089931761,1089929260,1,SlidingD,Erling Haaland,
+2022-05-26T11:56:27+00:00,1089930989,1089930948,1,SlidingD,Pedro Porro,/* Sporting CP */
+2022-05-26T11:56:12+00:00,1089930948,1089930608,1,SlidingD,Pedro Porro,
+2022-05-26T11:54:02+00:00,1089930608,1089672402,1,SlidingD,Pedro Porro,/* Sporting CP */
+2022-05-26T11:44:10+00:00,1089929260,1089929186,1,SlidingD,Erling Haaland,/* 2021–22 season */
+2022-05-26T11:43:32+00:00,1089929186,1089929051,1,SlidingD,Erling Haaland,/* 2020–21 season */
+2022-05-26T11:42:20+00:00,1089929051,1089928897,1,SlidingD,Erling Haaland,/* 2019–20 season */
+2022-05-26T11:40:36+00:00,1089928897,1089923950,1,SlidingD,Erling Haaland,/* Club career */
+2022-05-26T11:00:38+00:00,1089923950,1089923898,1,SlidingD,Erling Haaland,
+2022-05-26T11:00:20+00:00,1089923898,1089923718,1,SlidingD,Erling Haaland,
+2022-05-26T10:58:39+00:00,1089923718,1089922549,1,SlidingD,Erling Haaland,
+2022-05-26T10:57:31+00:00,1089923577,1089922731,1,SlidingD,Christopher Nkunku,
+2022-05-26T10:50:35+00:00,1089922731,1089922671,1,SlidingD,Christopher Nkunku,/* Honours */
+2022-05-26T10:50:10+00:00,1089922671,1089085791,1,SlidingD,Christopher Nkunku,
+2022-05-26T10:49:19+00:00,1089922549,1089840186,1,SlidingD,Erling Haaland,
+2022-05-26T10:38:55+00:00,1089921278,1089921121,1,SlidingD,Dušan Vlahović,"Just removing the Italian Primavera link, whoch is more suited to the Italian wikipedia"
+2022-05-26T10:37:22+00:00,1089921079,1089921018,1,SlidingD,Dušan Vlahović,/* 2021–2022: Debut season and Coppa Italia final */
+2022-05-26T10:36:55+00:00,1089921018,1089920864,1,SlidingD,Dušan Vlahović,/* Juventus */
+2022-05-26T10:35:42+00:00,1089920864,1089920276,1,SlidingD,Dušan Vlahović,/* Honours */
+2022-05-26T10:31:04+00:00,1089920276,1089920249,1,SlidingD,Dušan Vlahović,/* Honours */
+2022-05-26T10:30:51+00:00,1089920249,1089736366,1,SlidingD,Dušan Vlahović,/* Honours */
+2022-05-26T10:29:59+00:00,1089920138,1087614438,1,SlidingD,Udo Lattek,
+2022-05-26T10:27:48+00:00,1089919799,1089919541,1,SlidingD,José Mourinho,
+2022-05-26T10:25:56+00:00,1089919541,1089919338,1,SlidingD,José Mourinho,/* Roma */
+2022-05-26T10:24:32+00:00,1089919338,1089918524,1,SlidingD,José Mourinho,
+2022-05-26T10:22:48+00:00,1089919119,1089265213,1,SlidingD,Giovanni Trapattoni,
+2022-05-26T10:17:55+00:00,1089918524,1089918450,1,SlidingD,José Mourinho,/* Roma */
+2022-05-26T10:17:14+00:00,1089918450,1089918223,1,SlidingD,José Mourinho,/* Roma */
+2022-05-26T10:15:27+00:00,1089918223,1089912422,1,SlidingD,José Mourinho,/* Roma */
+2022-05-26T10:09:24+00:00,1089917484,1089909976,1,SlidingD,Tammy Abraham,/* Honours */
+2022-05-26T09:54:39+00:00,1089915797,1089705674,1,SlidingD,Carlo Ancelotti,/* Return to Real Madrid */
+2022-05-26T09:22:48+00:00,1089912422,1089912348,1,SlidingD,José Mourinho,/* Roma */
+2022-05-26T09:22:06+00:00,1089912348,1089910376,1,SlidingD,José Mourinho,/* Roma */
+2022-05-26T08:55:02+00:00,1089909562,1089909385,1,SlidingD,José Mourinho,/* Roma */
+2022-05-26T08:53:10+00:00,1089909385,1089909324,1,SlidingD,José Mourinho,/* Roma */
+2022-05-26T08:52:29+00:00,1089909324,1089909266,1,SlidingD,José Mourinho,/* Roma */
+2022-05-26T08:52:00+00:00,1089909266,1089889230,1,SlidingD,José Mourinho,Just changing to a proper section
+2022-05-24T12:02:20+00:00,1089544536,1089543479,1,SlidingD,Rafael Leão,/* Reception */
+2022-05-24T11:53:05+00:00,1089543479,1089543427,1,SlidingD,Rafael Leão,/* Reception */
+2022-05-24T11:52:39+00:00,1089543427,1089457203,1,SlidingD,Rafael Leão,/* Style of play */
+2022-05-24T11:24:27+00:00,1089540141,1089538543,1,SlidingD,Dušan Vlahović,/* Style of play */
+2022-05-24T11:06:23+00:00,1089538543,1089520870,1,SlidingD,Dušan Vlahović,
+2022-05-24T08:28:53+00:00,1089520870,1089478327,1,SlidingD,Dušan Vlahović,
+2022-05-24T08:27:38+00:00,1089520733,1089520670,1,SlidingD,Wikipedia:Administrators' noticeboard/Incidents,/* User:SlidingD's copyright violations */ Reply
+2022-05-24T08:27:05+00:00,1089520670,1089520443,1,SlidingD,Wikipedia:Administrators' noticeboard/Incidents,/* User:SlidingD's copyright violations */ Reply
+2022-05-23T21:56:14+00:00,1089452672,1089448690,1,SlidingD,Diogo Jota,
+2022-05-23T21:50:37+00:00,1089452025,1089448851,1,SlidingD,Rafael Leão,
+2022-05-23T21:46:28+00:00,1089451592,1089451225,1,SlidingD,Dušan Vlahović,"Because its better written, because youre missing the interest of various european clubs in him and why does qualifying for the 2022 WC matter?"
+2022-05-23T21:42:11+00:00,1089451106,1089441733,1,SlidingD,Dušan Vlahović,
+2022-05-23T20:03:26+00:00,1089438403,1089435549,1,SlidingD,Dušan Vlahović,It doesnt need to be reverted just because a few errors
+2022-05-23T16:43:08+00:00,1089409837,1089400911,1,SlidingD,Diogo Jota,The file has the correct license as you can see in wikimedia
+2022-05-23T16:42:21+00:00,1089409741,1089401599,1,SlidingD,Rafael Leão,The file has the correct license as you can see in wikimedia
+2022-05-23T16:39:10+00:00,1089409260,1089409168,1,SlidingD,Dušan Vlahović,
+2022-05-23T16:38:30+00:00,1089409168,1089408452,1,SlidingD,Dušan Vlahović,The file has the correct license as you can see in wikimedia
+2022-05-23T16:33:50+00:00,1089408452,1089408337,1,SlidingD,Dušan Vlahović,/* Senior */
+2022-05-23T16:33:05+00:00,1089408337,1089406716,1,SlidingD,Dušan Vlahović,/* Senior */
+2022-05-23T16:22:52+00:00,1089406716,1089406014,1,SlidingD,Dušan Vlahović,/* Senior */
+2022-05-23T16:17:35+00:00,1089406014,1089405781,1,SlidingD,Dušan Vlahović,/* 2021–22: Debut season and Coppa Italia final */
+2022-05-23T16:15:47+00:00,1089405781,1089402809,1,SlidingD,Dušan Vlahović,/* 2021–22: Debut season and Coppa Italia final */
+2022-05-23T15:40:02+00:00,1089400955,1089400883,1,SlidingD,Dušan Vlahović,/* Partizan */
+2022-05-23T15:39:30+00:00,1089400883,1089400778,1,SlidingD,Dušan Vlahović,/* Juventus */
+2022-05-23T15:38:37+00:00,1089400778,1089400186,1,SlidingD,Dušan Vlahović,/* Fiorentina */
+2022-05-23T15:33:52+00:00,1089400186,1089389512,1,SlidingD,Dušan Vlahović,/* Partizan */
+2022-05-23T14:16:10+00:00,1089389512,1089388235,1,SlidingD,Dušan Vlahović,/* Fiorentina */
+2022-05-23T14:06:48+00:00,1089388235,1089375998,1,SlidingD,Dušan Vlahović,/* Fiorentina */
+2022-05-23T12:37:20+00:00,1089375998,1089375953,1,SlidingD,Dušan Vlahović,/* Honours */
+2022-05-23T12:37:00+00:00,1089375953,1089375652,1,SlidingD,Dušan Vlahović,/* Honours */
+2022-05-23T12:34:33+00:00,1089375652,1089375491,1,SlidingD,Dušan Vlahović,/* Fiorentina */
+2022-05-23T12:33:06+00:00,1089375491,1089375407,1,SlidingD,Dušan Vlahović,
+2022-05-23T12:32:31+00:00,1089375407,1089375350,1,SlidingD,Dušan Vlahović,
+2022-05-23T12:32:06+00:00,1089375350,1089375269,1,SlidingD,Dušan Vlahović,
+2022-05-23T12:31:20+00:00,1089375269,1089363265,1,SlidingD,Dušan Vlahović,
+2022-05-23T12:07:33+00:00,1089372494,1089023533,1,SlidingD,Ricardo Horta,
+2022-05-23T12:04:56+00:00,1089372102,1089234716,1,SlidingD,Bruno Fernandes,/* 2021–2022: Further individual success */
+2022-05-23T10:54:14+00:00,1089363265,1089362989,1,SlidingD,Dušan Vlahović,/* Partizan */
+2022-05-23T10:51:55+00:00,1089362989,1089117246,1,SlidingD,Dušan Vlahović,
+2022-05-23T10:32:41+00:00,1089360527,1089056080,1,SlidingD,Sébastien Haller,
+2022-05-22T21:16:35+00:00,1089271344,1089270282,1,SlidingD,Rafael Leão,
+2022-05-22T21:11:10+00:00,1089270671,1089266444,1,SlidingD,Olivier Giroud,
+2022-05-22T21:07:41+00:00,1089270282,1089270231,1,SlidingD,Rafael Leão,/* 2021–22: Serie A champion */
+2022-05-22T21:07:18+00:00,1089270231,1089270172,1,SlidingD,Rafael Leão,/* Honours */
+2022-05-22T21:06:47+00:00,1089270172,1089269955,1,SlidingD,Rafael Leão,/* Honours */
+2022-05-22T21:04:55+00:00,1089269955,1089269777,1,SlidingD,Rafael Leão,/* 2021–22: Serie A champion */
+2022-05-22T21:03:30+00:00,1089269777,1089269402,1,SlidingD,Rafael Leão,/* Honours */
+2022-05-22T21:01:02+00:00,1089269402,1089268635,1,SlidingD,Rafael Leão,/* 2021–22: Serie A champion */
+2022-05-22T20:55:40+00:00,1089268635,1089268408,1,SlidingD,Rafael Leão,/* 2021–22: Serie A champion */
+2022-05-22T20:53:50+00:00,1089268408,1089268272,1,SlidingD,Rafael Leão,/* 2021–22: Serie A champion */
+2022-05-22T20:52:53+00:00,1089268272,1089265485,1,SlidingD,Rafael Leão,/* 2021–22: Serie A champion */
+2022-05-22T20:42:44+00:00,1089266718,1089266359,1,SlidingD,Sandro Tonali,/* 2021–22 season */
+2022-05-22T20:40:57+00:00,1089266444,1089259108,1,SlidingD,Olivier Giroud,/* AC Milan */
+2022-05-22T20:38:45+00:00,1089266136,1089265841,1,SlidingD,Romelu Lukaku,/* 2021–22 season */
+2022-05-22T20:36:37+00:00,1089265841,1089265706,1,SlidingD,Romelu Lukaku,/* 2019–20 season: Club record transfer */
+2022-05-22T20:35:46+00:00,1089265706,1089265634,1,SlidingD,Romelu Lukaku,/* 2018–19 season: Final season in Manchester */
+2022-05-22T20:35:20+00:00,1089265634,1089265556,1,SlidingD,Romelu Lukaku,/* 2017–18 season: Debut season and loss in form */
+2022-05-22T20:34:52+00:00,1089265556,1088746987,1,SlidingD,Romelu Lukaku,/* 2020–21 season: Serie A champion */
+2022-05-22T20:34:19+00:00,1089265485,1089252998,1,SlidingD,Rafael Leão,/* 2021–22: Third season and milestones */
+2022-05-22T20:33:37+00:00,1089265387,1089265223,1,SlidingD,Serie A Awards,/* 2021–22 */
+2022-05-22T20:32:15+00:00,1089265223,1089265025,1,SlidingD,Serie A Awards,/* Awards */
+2022-05-22T20:30:53+00:00,1089265025,1088882997,1,SlidingD,Serie A Awards,
+2022-05-22T20:29:27+00:00,1089264771,1089186410,1,SlidingD,Paris Saint-Germain F.C. ownership and finances,"It isnt a transfer, but it involves PSG finances, which clearly is the theme of the article"
+2022-05-22T02:19:29+00:00,1089126683,1087942685,1,SlidingD,Paris Saint-Germain F.C. ownership and finances,/* Messi and the greatest transfer window of all time */
+2022-05-22T01:01:52+00:00,1089117029,1089116193,1,SlidingD,Paris Saint-Germain F.C.,/* QSI ownership and domestic hegemony (2011–present) */
+2022-05-22T01:01:13+00:00,1089116921,1088083091,1,SlidingD,History of Paris Saint-Germain F.C.,
+2022-05-22T00:55:38+00:00,1089116193,1088868842,1,SlidingD,Paris Saint-Germain F.C.,
+2022-05-17T11:47:46+00:00,1088329194,1087159799,1,SlidingD,2021–22 Campeonato Nacional de Futebol Feminino,
+2022-05-17T11:36:21+00:00,1088328043,1081095082,1,SlidingD,2020–21 Campeonato Nacional de Futebol Feminino,/* Teams */
+2022-05-17T09:29:23+00:00,1088312896,1087843183,1,SlidingD,S.L. Benfica,/* 2003–present */
+2022-05-02T21:36:03+00:00,1085864461,1085864268,1,SlidingD,Bruno Fernandes,
+2022-05-02T21:34:51+00:00,1085864268,1085863920,1,SlidingD,Bruno Fernandes,/* 2021–2022: 50 Manchester United goals */
+2022-05-02T21:30:11+00:00,1085863470,1085863303,1,SlidingD,Bruno Fernandes,/* Club */
+2022-05-02T21:29:03+00:00,1085863303,1085169181,1,SlidingD,Bruno Fernandes,
+2022-04-23T22:53:44+00:00,1084341280,1084341204,1,SlidingD,Paris Saint-Germain F.C.,
+2022-04-23T22:53:05+00:00,1084341204,1084324615,1,SlidingD,Paris Saint-Germain F.C.,
+2022-04-17T14:58:05+00:00,1083185078,1083181656,1,SlidingD,Renato Sanches,/* 2021–22 season */
+2022-04-17T03:14:18+00:00,1083112037,1083034936,1,SlidingD,Bruno Fernandes,/* Senior */
+2022-03-30T00:22:39+00:00,1080039469,1080039411,1,SlidingD,Christopher Nkunku,/* International career */
+2022-03-30T00:22:10+00:00,1080039411,1080039358,1,SlidingD,Christopher Nkunku,/* RB Leipzig */
+2022-03-30T00:21:47+00:00,1080039358,1080039293,1,SlidingD,Christopher Nkunku,/* RB Leipzig */
+2022-03-30T00:21:16+00:00,1080039293,1080015768,1,SlidingD,Christopher Nkunku,/* RB Leipzig */
+2022-03-30T00:18:53+00:00,1080038968,1080036645,1,SlidingD,Federico Chiesa,
+2022-03-30T00:01:41+00:00,1080036645,1080036569,1,SlidingD,Federico Chiesa,/* 2021–22: Season ending-injury */
+2022-03-30T00:01:17+00:00,1080036569,1080036476,1,SlidingD,Federico Chiesa,/* 2021–22: Season ending-injury */
+2022-03-30T00:00:46+00:00,1080036476,1080035252,1,SlidingD,Federico Chiesa,/* Juventus */
+2022-03-29T23:50:07+00:00,1080035252,1080035218,1,SlidingD,Federico Chiesa,/* 2017–2019 */
+2022-03-29T23:49:44+00:00,1080035218,1080035186,1,SlidingD,Federico Chiesa,/* 2016–17: Established starter */
+2022-03-29T23:49:28+00:00,1080035186,1078467940,1,SlidingD,Federico Chiesa,/* 2016–17 season */
+2022-06-01T12:01:52+00:00,1090964312,1090962199,1,TomuraX,"Fábio Vieira (footballer, born 2000)",/* International career */
+2022-06-01T11:59:30+00:00,1090964044,1090963992,1,TomuraX,"Vitinha (footballer, born February 2000)",
+2022-06-01T11:58:57+00:00,1090963992,1090962753,1,TomuraX,"Vitinha (footballer, born February 2000)",
+2022-06-01T11:45:46+00:00,1090962753,1090962447,1,TomuraX,"Vitinha (footballer, born February 2000)",
+2022-06-01T11:42:26+00:00,1090962447,1090960485,1,TomuraX,"Vitinha (footballer, born February 2000)",
+2022-06-01T11:39:48+00:00,1090962199,1090962096,1,TomuraX,"Fábio Vieira (footballer, born 2000)",/* Honours */
+2022-06-01T11:38:50+00:00,1090962096,1090960595,1,TomuraX,"Fábio Vieira (footballer, born 2000)",
+2022-06-01T11:32:24+00:00,1090961518,1090961479,1,TomuraX,Diogo Costa,/* 2021–Present: First-choice goalkeeper and domestic double */
+2022-06-01T11:31:46+00:00,1090961479,1090961410,1,TomuraX,Diogo Costa,/* Honours */
+2022-06-01T11:30:57+00:00,1090961410,1089729292,1,TomuraX,Diogo Costa,/* 2021–Present: Breakthrough into starting eleven and first-choice goalkeeper */
+2022-06-01T11:22:27+00:00,1090960595,1090959525,1,TomuraX,"Fábio Vieira (footballer, born 2000)",
+2022-06-01T11:21:12+00:00,1090960485,1090953081,1,TomuraX,"Vitinha (footballer, born February 2000)",
+2022-06-01T11:10:26+00:00,1090959525,1090959466,1,TomuraX,"Fábio Vieira (footballer, born 2000)",/* Club career */
+2022-06-01T11:09:47+00:00,1090959466,1089243263,1,TomuraX,"Fábio Vieira (footballer, born 2000)",/* Club career */
+2022-06-01T10:05:03+00:00,1090953081,1090953038,1,TomuraX,"Vitinha (footballer, born February 2000)",/* Honours */
+2022-06-01T10:04:27+00:00,1090953038,1090952998,1,TomuraX,"Vitinha (footballer, born February 2000)",/* 2021–22: Return and breakthrough */
+2022-06-01T10:04:05+00:00,1090952998,1089287194,1,TomuraX,"Vitinha (footballer, born February 2000)",/* 2021–22: Return and breakthrough */
+2022-06-01T09:23:09+00:00,1090948723,1090948400,1,TomuraX,Paris Saint-Germain F.C.,/* QSI ownership and domestic hegemony (2011–present) */
+2022-06-01T09:21:39+00:00,1090948554,1090789798,1,TomuraX,Paris Saint-Germain F.C. ownership and finances,/* Messi and the greatest transfer window of all time */
+2022-06-01T09:20:26+00:00,1090948400,1090941976,1,TomuraX,Paris Saint-Germain F.C.,/* QSI ownership and domestic hegemony (2011–present) */
+2022-05-31T11:09:18+00:00,1090789798,1089638273,1,TomuraX,Paris Saint-Germain F.C. ownership and finances,/* Messi and the greatest transfer window of all time */
+2022-05-31T11:05:44+00:00,1090789446,1090789198,1,TomuraX,"Nuno Mendes (footballer, born 2002)",
+2022-05-31T11:05:26+00:00,1090789414,1090784615,1,TomuraX,Paris Saint-Germain F.C.,/* QSI ownership and domestic hegemony (2011–present) */
+2022-05-24T10:26:25+00:00,1089534872,1089279877,1,TomuraX,Ferran Torres,
+2022-05-24T10:24:16+00:00,1089534686,1089285094,1,TomuraX,Xavi,
+2022-05-24T10:07:40+00:00,1089533228,1089143817,1,TomuraX,Achraf Hakimi,/* Paris Saint-Germain */
+2022-05-24T09:54:46+00:00,1089531794,1088679381,1,TomuraX,Eintracht Frankfurt,/* Success outside the Bundesliga */
+2022-05-24T09:53:10+00:00,1089531596,1089530931,1,TomuraX,Sébastien Haller,/* 2021–22 season */
+2022-05-24T09:48:20+00:00,1089530931,1089360527,1,TomuraX,Sébastien Haller,/* 2021–22 season */
+2022-05-24T09:44:36+00:00,1089530470,1089451839,1,TomuraX,Oleksandr Zinchenko (footballer),
+2022-05-24T09:38:08+00:00,1089529646,1089529619,1,TomuraX,Federico Chiesa,/* P=Post Euros and 2021 UEFA Nations League Finals== */
+2022-05-24T09:37:56+00:00,1089529619,1089529595,1,TomuraX,Federico Chiesa,/* Post Euros and 2021 UEFA Nations League Finals */
+2022-05-24T09:37:45+00:00,1089529595,1089529573,1,TomuraX,Federico Chiesa,/* Euro 2020 */
+2022-05-24T09:37:34+00:00,1089529573,1089529532,1,TomuraX,Federico Chiesa,/* Early senior career */
+2022-05-24T09:37:17+00:00,1089529532,1089436850,1,TomuraX,Federico Chiesa,/* Senior */
+2021-09-26T18:25:03+00:00,1046640237,0,0,A.Caseiro,2021–22 Campeonato Nacional de Futebol Feminino,"create page with infobox, description and team changes"
+2022-05-13T20:51:08+00:00,1087668171,1087624300,0,ReaperSox,Antonio Conte,
+2022-04-05T21:18:31+00:00,1081190646,1080680149,0,Matthewrb,Bruno Fernandes,Fix citation
+2022-04-20T21:08:10+00:00,1083808122,1083323649,0,1.164.241.230,Antonio Conte,/* Honours */
+2021-10-09T15:41:10+00:00,1049052642,1039284605,0,Francis1904,2020–21 Campeonato Nacional de Futebol Feminino,/* Championship Group */
+2022-04-30T20:52:34+00:00,1085488795,1085487226,0,Mediocre Legacy,2021–22 Serie A,/* Top assists */Update
+2022-04-09T14:00:52+00:00,1081759897,1081190646,0,HearUnitedSing,Bruno Fernandes,
+2022-04-05T08:29:16+00:00,1081095082,1049052642,0,WDM10,2020–21 Campeonato Nacional de Futebol Feminino,/* Relegation Play-offs */ Replaced hyphens with dashes
+2022-05-02T23:54:10+00:00,1085885355,1085880145,0,HearUnitedSing,Bruno Fernandes,/* 2021–2022: Further individual success */
+2022-04-10T20:52:38+00:00,1081999890,1081999521,0,Foghe,2021–22 Serie A,/* Results */ TOR–MIL.
+2022-05-10T00:52:59+00:00,1087050267,1087034444,0,Mediocre Legacy,2021–22 Serie A,/* Monthly awards */Added info
+2022-03-31T01:41:48+00:00,1080231035,1080057471,0,Sueisfine,Bruno Fernandes,/* Senior */Updated
+2022-04-01T15:53:55+00:00,1080487362,1080453212,0,Anchor62,Bruno Fernandes,/* 2021–2022: Further individual success */
+2022-03-21T18:13:46+00:00,1078464498,1078272599,0,Mediocre Legacy,Antonio Conte,/* Manager */Update
+2022-04-25T00:07:50+00:00,1084517175,1084302064,0,Zecanard,Antonio Conte,"/* ,Player */ Spelling/grammar/punctuation/typographical correction"
+2022-04-29T21:11:00+00:00,1085325646,1085324037,0,Mediocre Legacy,Achraf Hakimi,/* Club */Stat update
+2022-04-09T18:23:08+00:00,1081793645,1081789792,0,Foghe,2021–22 Serie A,/* Positions by round */ Update.
+2022-05-07T18:42:23+00:00,1086686852,1085885355,0,Stuart1234,Bruno Fernandes,
+2022-04-28T21:11:33+00:00,1085169181,1085168872,0,HearUnitedSing,Bruno Fernandes,/* Club */
+2022-04-25T18:53:31+00:00,1084646146,1084287602,0,JJMC89 bot III,Bruno Fernandes,Moving [[:Category:Novara Calcio players]] to [[:Category:Novara F.C. players]] per [[Wikipedia:Categories for discussion/Speedy]]
+2022-05-28T01:26:27+00:00,1090195342,1089915797,0,2603:6011:BF20:8900:24B2:B315:7AF2:16B6,Carlo Ancelotti,
+2022-05-07T22:41:21+00:00,1086717246,1086717131,0,Ninj23x,Carlo Ancelotti,
+2022-04-10T22:45:02+00:00,1082015145,1081996049,0,Certes,Christopher Nkunku,typo: Manchester (via [[WP:JWB]])
+2022-04-02T19:38:44+00:00,1080684948,1080684889,0,Mediocre Legacy,Christopher Nkunku,Stat update
+2022-05-21T21:00:34+00:00,1089085791,1089084767,0,Ampimd,Christopher Nkunku,/* Honours */ RB Leipzig  DFB-Pokal: 2021–22
+2022-04-29T12:20:15+00:00,1085261673,1085176798,0,Stuart1234,Christopher Nkunku,
+2022-05-17T09:50:10+00:00,1088315124,1088314772,0,5.149.171.210,Christopher Nkunku,Undid revision 1088314772 by [[Special:Contributions/5.149.171.210|5.149.171.210]] ([[User talk:5.149.171.210|talk]])
+2022-05-27T21:03:45+00:00,1090167319,1090098412,0,Stuart1234,Christopher Nkunku,
+2022-04-07T19:10:10+00:00,1081494543,1080947808,0,Mediocre Legacy,Christopher Nkunku,/* Club */Stat update
+2022-04-04T12:09:48+00:00,1080947808,1080684948,0,71.3.200.51,Christopher Nkunku,/* Paris Saint-Germain */ + content
+2022-04-24T15:56:51+00:00,1084453179,1084421127,0,45.241.91.131,Christopher Nkunku,/* Honours */
+2022-04-11T13:23:42+00:00,1082125191,1082125135,0,46.50.6.105,Diogo Costa,
+2022-05-13T17:52:35+00:00,1087643435,1086726360,0,89.214.149.59,Diogo Costa,
+2022-04-10T18:02:35+00:00,1081970464,1081970329,0,Mediocre Legacy,Diogo Jota,Fix
+2022-05-25T09:45:56+00:00,1089729292,1089287409,0,John of Reading,Diogo Costa,"Typo/[[WP:AWB/GF|general]] fixes, replaced: an professional → a professional"
+2022-04-20T10:43:05+00:00,1083731989,1083645245,0,AriaBr,Diogo Jota,
+2022-04-30T18:53:27+00:00,1085471242,1085469644,0,Wikipediæ philosophia,Dušan Vlahović,"Added {{[[Template:Cleanup|Cleanup]]}}, {{[[Template:Cleanup rewrite|Cleanup rewrite]]}}, {{[[Template:Cleanup reorganize|Cleanup reorganize]]}}, {{[[Template:Lead too short|Lead too short]]}}, {{[[Template:Too many sections|Too many sections]]}}, and {{[[Template:Under construction|Under construction]]}} tags"
+2022-05-03T21:09:28+00:00,1086043586,1086039127,0,Mediocre Legacy,Diogo Jota,/* Club */Stat update
+2022-05-18T07:43:24+00:00,1088481231,1088481208,0,Mediocre Legacy,Diogo Jota,Stat update
+2022-04-03T22:08:23+00:00,1080859692,1080859664,0,Mediocre Legacy,Dušan Vlahović,Stat update
+2022-05-27T11:31:48+00:00,1090101506,1090098817,0,Wikipediæ philosophia,Dušan Vlahović,Undid revision 1090098392 by [[Special:Contributions/178.148.164.160|178.148.164.160]] ([[User talk:178.148.164.160|talk]]) why not?
+2022-04-16T22:53:47+00:00,1083082803,1083082762,0,Mediocre Legacy,Dušan Vlahović,Stat update
+2022-05-02T03:07:43+00:00,1085723802,1085723765,0,Mediocre Legacy,Dušan Vlahović,Stat update
+2022-04-10T00:26:20+00:00,1081837238,1081831802,0,Wikipediæ philosophia,Dušan Vlahović,
+2022-05-06T06:45:18+00:00,1086447137,1085723802,0,Cewbot,Dušan Vlahović,[[User:Cewbot/log/20150916/configuration|Normalize {{Multiple issues}}]]: Merge 1 template(s) into {{Multiple issues}}: Under construction
+2022-05-22T01:03:31+00:00,1089117246,1088231778,0,Lorimer11,Dušan Vlahović,
+2022-05-28T22:45:13+00:00,1090329441,1090318015,0,Nehme1499,Dušan Vlahović,
+2022-05-06T23:03:51+00:00,1086563587,1086560150,0,Lorimer11,Dušan Vlahović,
+2022-05-12T10:31:04+00:00,1087421911,1087384954,0,Gagibgd,Dušan Vlahović,
+2022-05-25T01:20:47+00:00,1089665893,1089626646,0,47.203.198.163,Dušan Vlahović,
+2022-04-26T07:36:55+00:00,1084733565,1084733536,0,Mediocre Legacy,Dušan Vlahović,Stat update
+2022-03-31T11:04:41+00:00,1080292454,1080266891,0,Nehme1499,Dušan Vlahović,Partial rv (removed unsourced pronunciation). Keeping the date of birth in the lead is standard across all articles in Wikipedia.
+2022-04-21T16:52:43+00:00,1083932549,1083082803,0,Mediocre Legacy,Dušan Vlahović,/* Club */Stat update
+2022-03-20T16:30:31+00:00,1078247205,1078247130,0,Mediocre Legacy,Dušan Vlahović,Stat update
+2022-04-30T11:13:28+00:00,1085405530,1085404948,0,Wikipediæ philosophia,Dušan Vlahović,/* Juventus */
+2022-05-26T10:50:45+00:00,1089922746,1089921278,0,Wikipediæ philosophia,Dušan Vlahović,Undid revision 1089921278 by [[Special:Contributions/SlidingD|SlidingD]] ([[User talk:SlidingD|talk]]) this rule isn't valid here
+2022-05-24T21:24:17+00:00,1089626646,1089606563,0,Wikipediæ philosophia,Dušan Vlahović,UK spelling
+2022-03-31T07:02:33+00:00,1080266891,1078247205,0,Spirit Fox99,Dušan Vlahović,RV of superfluous information from lead as well as redundant info already present in infobox.
+2022-06-01T09:51:19+00:00,1090951657,1090934552,0,Nehme1499,Dušan Vlahović,Reverted edits by [[Special:Contribs/5.239.106.8|5.239.106.8]] ([[User talk:5.239.106.8|talk]]) to last version by Nehme1499
+2022-03-22T18:52:37+00:00,1078669924,1078500064,0,-Lemmy-,Eintracht Frankfurt,/* Players out on loan */
+2022-05-15T02:02:03+00:00,1087885699,1087860659,0,Jevansen,Erling Haaland,added [[:Category:Sportspeople from Rogaland]]
+2022-04-24T05:11:35+00:00,1084386939,1084386921,0,Mediocre Legacy,Erling Haaland,Stat update
+2022-05-17T16:06:05+00:00,1088365127,1088344284,0,Mattythewhite,Erling Haaland,Restored revision 1087885699 by [[Special:Contributions/Jevansen|Jevansen]] ([[User talk:Jevansen|talk]]): Unsourced
+2022-05-23T23:04:29+00:00,1089460768,1089460415,0,TylerBurden,Erling Haaland,Minor cleanup.
+2022-05-22T12:23:26+00:00,1089197526,1089197408,0,BusWikiBoy,Erling Haaland,/* Style of play */  Added the link to Cristiano Ronaldo's wiki page if you hover over his name.
+2022-04-19T18:20:05+00:00,1083606367,1083606020,0,TylerBurden,Erling Haaland,Removed [[MOS:OVERLINK]]
+2022-04-16T15:22:58+00:00,1083025059,1083024896,0,ScotlandLaddie04,Erling Haaland,
+2022-03-31T02:03:50+00:00,1080234175,1080173491,0,TylerBurden,Erling Haaland,"Undid revision 1080173491 by [[Special:Contributions/ArsenalGhanaPartey|ArsenalGhanaPartey]] ([[User talk:ArsenalGhanaPartey|talk]]) To be honest the image while slightly newer, isn't really an improvement. It's blurry and a little too ″in the action″, it's probably better to try and obtain a much more up to date photo of decent quality as he looks different now from this image as well. Until then might as well keep the slightly older one of much higher quality."
+2022-04-10T03:49:45+00:00,1081861525,1081861471,0,Goggo2022,Erling Haaland,
+2022-05-07T16:56:23+00:00,1086672859,1086672797,0,Mediocre Legacy,Erling Haaland,Stat update
+2022-05-02T06:16:53+00:00,1085745507,1085489642,0,TylerBurden,Erling Haaland,Should be ″in″ no?
+2022-04-08T08:52:37+00:00,1081576556,1080683163,0,Goggo2022,Erling Haaland,it's just football
+2022-04-08T22:17:55+00:00,1081671525,1081671478,0,Mediocre Legacy,Erling Haaland,Stat update
+2022-03-30T10:59:28+00:00,1080113866,1080038968,0,Nehme1499,Federico Chiesa,Cleanup
+2022-04-12T15:43:08+00:00,1082331252,1082292185,0,Wikipediæ philosophia,Federico Chiesa,/* Club */
+2022-05-26T11:06:42+00:00,1089924783,1089529646,0,180.243.12.16,Federico Chiesa,
+2022-05-14T11:24:36+00:00,1087767712,1082331252,0,ST MADG*85,Federico Chiesa,/* 2021–22: Season-ending injury */ Added apostrophe where required etc. I want to say thank you to everyone who has contributed to my article.
+2022-05-29T13:16:18+00:00,1090430191,1090201183,0,WinstonSmith22,Erling Haaland,
+2022-05-15T19:41:09+00:00,1088021144,1087251208,0,Erminameraz,Ferran Torres,
+2022-03-31T03:08:51+00:00,1080241441,1080019095,0,MikeVM3,Ferran Torres,
+2022-05-14T18:34:44+00:00,1087821453,1087161093,0,2001:8A0:767B:9C00:8419:1A68:F993:6036,"Fábio Vieira (footballer, born 2000)",Box: season over.
+2022-05-10T19:10:11+00:00,1087161093,1087121152,0,2001:8A0:767B:9C00:6DEE:6F76:4AB2:5F06,"Fábio Vieira (footballer, born 2000)","AGAIN? ""Primeira Liga"" not ""Primeira Liga's""!!!! And source much?!?!?!"
+2022-04-26T08:33:11+00:00,1084738702,1083597181,0,193.137.135.2,"Fábio Vieira (footballer, born 2000)","Box, updated stats."
+2022-05-08T14:35:40+00:00,1086815294,1086725942,0,2001:8A0:767B:9C00:D031:428:3600:E859,"Fábio Vieira (footballer, born 2000)","Honours, added source."
+2022-04-05T14:53:25+00:00,1081138788,1081138375,0,193.137.135.2,"Fábio Vieira (footballer, born 2000)","/* Club career */ My bad, redirect."
+2022-05-19T12:50:58+00:00,1088665894,1087821453,0,Jevansen,"Fábio Vieira (footballer, born 2000)",added [[:Category:Sportspeople from Aveiro District]]
+2022-05-01T21:04:45+00:00,1085677807,1084738702,0,2001:8A0:767B:9C00:3C2D:1C2D:BE68:EF69,"Fábio Vieira (footballer, born 2000)",Updated box.
+2022-04-19T17:16:46+00:00,1083597181,1081138788,0,193.137.135.2,"Fábio Vieira (footballer, born 2000)",Box: as of last round.
+2022-04-19T13:38:49+00:00,1083565977,1083565907,0,Footwiks,Giovanni Trapattoni,/* 2008–2013: Republic of Ireland */
+2022-05-12T20:52:11+00:00,1087499164,1087498876,0,Mattythewhite,Harry Kane,infobox and career stats match played 12 May 2022
+2022-05-25T13:41:22+00:00,1089757039,1089755972,0,Ohnoitsjamie,Harry Kane,ref
+2022-04-02T14:10:36+00:00,1080641400,1080618728,0,Mattythewhite,Harry Kane,Reverted 1 edit by [[Special:Contributions/Wolfgang|Wolfgang]] ([[User talk:Wolfgang|talk]]): Unexplained removal of most recent England cap
+2022-04-16T13:42:23+00:00,1083014119,1083014049,0,Mediocre Legacy,Harry Kane,Stat update
+2022-05-02T02:49:29+00:00,1085721801,1085721725,0,Mediocre Legacy,Harry Kane,Stat update
+2022-05-22T17:18:22+00:00,1089232557,1089232330,0,ScotlandLaddie04,Harry Kane,
+2022-05-19T02:25:26+00:00,1088608481,1087981707,0,GreenC bot,Harry Kane,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-05-07T22:03:29+00:00,1086713058,1086713017,0,Mediocre Legacy,Harry Kane,Stat update
+2022-05-15T15:55:31+00:00,1087981707,1087981646,0,Mediocre Legacy,Harry Kane,Stat update
+2022-04-18T23:27:54+00:00,1083462737,1083014119,0,Yuiv22,Harry Kane,/* Personal life */
+2022-05-16T03:04:58+00:00,1088083091,1086796422,0,Paul Vaurie,History of Paris Saint-Germain F.C.,/* National quadruples and European breakthrough */
+2022-03-10T05:02:59+00:00,1076255908,1075380401,0,Paul Vaurie,History of Paris Saint-Germain F.C.,/* National quadruples and European breakthrough */
+2022-05-09T20:50:38+00:00,1087021150,1086550876,0,Saintandy7,José Mourinho,/* Managerial statistics */
+2022-04-23T17:56:29+00:00,1084298290,1083521162,0,Saintandy7,José Mourinho,/* Managerial statistics */
+2022-04-19T07:16:29+00:00,1083521162,1083391183,0,Saintandy7,José Mourinho,/* Managerial statistics */
+2022-05-10T19:35:59+00:00,1087164252,1087159233,0,Mattythewhite,Harry Kane,"Reverted 1 edit by [[Special:Contributions/Hemanth Dx|Hemanth Dx]] ([[User talk:Hemanth Dx|talk]]): Competition had different names in both seasons Kane/Spurs made the final, and we don't include tally in brackets"
+2022-05-01T20:39:56+00:00,1085673829,1085264640,0,Saintandy7,José Mourinho,/* Managerial statistics */
+2022-04-14T20:52:42+00:00,1082745581,1081968752,0,Saintandy7,José Mourinho,/* Managerial statistics */
+2022-05-06T21:16:30+00:00,1086550876,1086533013,0,Willbb234,José Mourinho,/* Roma */ f
+2022-05-26T21:07:31+00:00,1090008795,1089968867,0,Dred05m,José Mourinho,Portugal as his home country.
+2022-04-10T17:55:31+00:00,1081968752,1081651965,0,Saintandy7,José Mourinho,/* Managerial statistics */
+2022-04-28T20:54:08+00:00,1085167057,1085153559,0,Saintandy7,José Mourinho,/* Managerial statistics */
+2022-04-29T12:49:21+00:00,1085264640,1085247238,0,PeeJay,José Mourinho,newer image is better
+2022-05-29T19:50:58+00:00,1090487948,1090487861,0,Librarian from Liberia,José Mourinho,−[[Category:Sportspeople from Setúbal District]]; ±[[Category:People from Setúbal]]→[[Category:Sportspeople from Setúbal]] using [[WP:HC|HotCat]]
+2022-05-31T12:07:53+00:00,1090796103,1090726603,0,Injasu,José Mourinho,
+2022-05-14T23:41:55+00:00,1087866111,1087669528,0,Saintandy7,José Mourinho,/* Managerial statistics */
+2022-03-22T11:52:08+00:00,1078607565,1078279560,0,ITProSpecialOne,José Mourinho,/* Parames' statement */
+2022-05-19T13:38:08+00:00,1088671196,1088670321,0,Alessandraronaldo,José Mourinho,/* Manager */
+2022-04-04T07:17:57+00:00,1080920022,1080919981,0,Mediocre Legacy,"Nuno Mendes (footballer, born 2002)",Stat update
+2022-04-08T19:38:47+00:00,1081651965,1081524497,0,Ettrig,José Mourinho,spelling typo
+2022-03-29T23:35:12+00:00,1080033596,1080015376,0,Mediocre Legacy,Olivier Giroud,Update
+2022-05-06T18:49:01+00:00,1086533013,1086531931,0,Marlborozmoker,José Mourinho,These are already sourced in the main body.
+2022-04-25T11:18:50+00:00,1084586599,1084586500,0,DroopyDoggy,Paris Saint-Germain F.C.,/* Domestic */
+2022-03-30T09:50:37+00:00,1080107163,1080106870,0,Roman Shosirobe,Oleksandr Zinchenko (footballer),Undid 5 revisions by [[Special:Contributions/2001:EE0:4FB3:7C40:40C9:7DBD:300A:BD0|2001:EE0:4FB3:7C40:40C9:7DBD:300A:BD0]] ([[User talk:2001:EE0:4FB3:7C40:40C9:7DBD:300A:BD0|talk]])
+2022-05-08T12:01:25+00:00,1086796333,1086791337,0,DroopyDoggy,Paris Saint-Germain F.C.,Undid revision 1086791337 by [[Special:Contributions/Aminabedi1368|Aminabedi1368]] ([[User talk:Aminabedi1368|talk]])
+2022-05-09T17:08:49+00:00,1086991932,1086990725,0,Kante4,Paris Saint-Germain F.C.,Undid revision 1086990725 by [[Special:Contributions/Thebraverynobrakes|Thebraverynobrakes]] ([[User talk:Thebraverynobrakes|talk]])
+2022-03-30T03:12:10+00:00,1080061902,1080037218,0,Mediocre Legacy,"Nuno Mendes (footballer, born 2002)",/* International */Stat update
+2022-04-15T21:23:33+00:00,1082912768,1082912724,0,ReaperSox,Olivier Giroud,
+2022-05-15T21:10:24+00:00,1088034149,1088005056,0,ReaperSox,Olivier Giroud,
+2022-03-28T14:11:07+00:00,1079765315,1079391208,0,Tictacbusinisse,Paris Saint-Germain F.C.,
+2022-05-25T22:22:44+00:00,1089833692,1089541404,0,Rlink2,Paris Saint-Germain F.C.,"/* QSI ownership and domestic hegemony (2011–present) */Adding archives to assist with [[Wikipedia:Verifiability]], [[WP:SOURCEACCESS]]"
+2022-04-24T01:07:39+00:00,1084359120,1084341280,0,DoMinh95,Paris Saint-Germain F.C.,Change 'nine league titles' to 'ten league titles' at first paragraph (introduction).
+2022-05-28T03:42:17+00:00,1090211051,1090095520,0,Ryder1992,Paris Saint-Germain F.C.,
+2022-04-04T21:24:24+00:00,1081027315,1081027238,0,ReaperSox,Olivier Giroud,
+2022-05-12T22:10:35+00:00,1087508564,1087145177,0,DroopyDoggy,Paris Saint-Germain F.C.,/* Supporters */
+2022-04-27T12:14:42+00:00,1084932830,1084932382,0,DroopyDoggy,Paris Saint-Germain F.C.,/* Honours */
+2022-04-12T00:17:18+00:00,1082221524,1082219783,0,DroopyDoggy,Paris Saint-Germain F.C.,/* Support */
+2022-05-15T10:33:22+00:00,1087942685,1087942620,0,DroopyDoggy,Paris Saint-Germain F.C. ownership and finances,/* Messi and the greatest transfer window of all time */
+2022-03-22T05:53:23+00:00,1078561200,1078280801,0,Maxeto0910,Paris Saint-Germain F.C. ownership and finances,Added short description.
+2022-04-19T15:10:12+00:00,1083579075,1083578535,0,DroopyDoggy,Paris Saint-Germain F.C. ownership and finances,/* Sponsorships */
+2022-04-22T03:48:20+00:00,1084019996,1083409720,0,Mediocre Legacy,Pedro Porro,/* Club */Stat update
+2022-05-09T23:23:14+00:00,1087039489,1087039463,0,Mediocre Legacy,Pedro Porro,Stat update
+2022-03-15T13:21:51+00:00,1077273510,1077273461,0,Mediocre Legacy,Pedro Porro,Stat update
+2022-04-10T10:18:23+00:00,1081902932,1081902895,0,Mediocre Legacy,Pedro Porro,Stat update
+2022-05-17T10:23:21+00:00,1088319949,1087039489,0,193.136.52.11,Pedro Porro,Porro was signed permanently by Sporting.
+2022-05-29T15:51:22+00:00,1090451639,1090307213,0,Librarian from Liberia,Rafael Leão,−[[Category:Sportspeople from Setúbal District]]; ±[[Category:People from Almada]]→[[Category:Sportspeople from Almada]] using [[WP:HC|HotCat]]
+2022-05-16T11:23:04+00:00,1088140945,1088119022,0,Oculi,Rafael Leão,Undid revision 1087928431 by [[Special:Contributions/37.131.70.40|37.131.70.40]] ([[User talk:37.131.70.40|talk]])
+2022-05-06T20:40:26+00:00,1086546463,1086339481,0,2001:8003:DCF1:1D00:9885:C457:33C7:E800,Rafael Leão,
+2022-04-25T09:40:58+00:00,1084578006,1084577969,0,Robby.is.on,Rafael Leão,Date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]
+2022-05-13T00:48:48+00:00,1087532009,1087530748,0,Mattythewhite,Rafael Leão,partial rv
+2022-04-16T07:48:51+00:00,1082980289,1082913195,0,Tinu Varun,Rafael Leão,/* 2021–22 */Fixed error
+2022-04-19T23:09:32+00:00,1083646557,1083518540,0,Mediocre Legacy,Rafael Leão,/* Club */Stat update
+2022-05-25T12:06:00+00:00,1089744457,1089728478,0,139.28.41.16,Rafael Leão,
+2022-04-16T16:42:31+00:00,1083036871,1082980289,0,83.223.242.253,Rafael Leão,/* Youth */
+2022-04-04T21:28:27+00:00,1081027760,1081027714,0,ReaperSox,Rafael Leão,
+2022-04-11T07:54:39+00:00,1082083369,1082083322,0,ReaperSox,Rafael Leão,
+2022-05-19T12:20:39+00:00,1088662135,1088140945,0,Jevansen,Rafael Leão,added [[:Category:Sportspeople from Setúbal District]]
+2022-05-08T21:46:06+00:00,1086870399,1086870370,0,ReaperSox,Rafael Leão,
+2022-05-24T17:44:19+00:00,1089593161,1089574940,0,Ho-ju-96,Rafael Leão,Editing a link to Hellas Verona.
+2022-03-30T03:08:01+00:00,1080061353,1080037720,0,Mediocre Legacy,Rafael Leão,/* International */Stat update
+2022-05-23T00:41:44+00:00,1089296446,1089278767,0,Yogwi21,Rafael Leão,/* External links */
+2022-05-02T15:43:49+00:00,1085811738,1085811517,0,MohammedLombardia,Rafael Leão,/* 2021–22: Third season and milestones */
+2022-04-15T21:27:20+00:00,1082913195,1082913156,0,ReaperSox,Rafael Leão,
+2022-04-07T23:36:59+00:00,1081524645,1081464639,0,Mediocre Legacy,Ricardo Horta,/* Club */Stat update
+2022-04-04T20:17:25+00:00,1081018758,1077252461,0,2A00:23C5:E187:5F00:6924:73CA:DB1E:EB84,Ricardo Horta,surpassing the record is a bit more important that coming second to it
+2022-05-22T05:34:46+00:00,1089147894,1089147874,0,Mediocre Legacy,Renato Sanches,Stat update
+2022-04-24T22:02:15+00:00,1084503689,1084451020,0,Mattythewhite,Romelu Lukaku,"ce, full name, refs"
+2022-05-02T13:53:27+00:00,1085796648,1085795090,0,Mattythewhite,Romelu Lukaku,Reverted 1 edit by [[Special:Contributions/Iliochori2|Iliochori2]] ([[User talk:Iliochori2|talk]]): Unsourced
+2022-04-02T17:16:30+00:00,1080667605,1080667542,0,Mediocre Legacy,Romelu Lukaku,Stat update
+2022-04-06T21:35:44+00:00,1081341592,1081136287,0,Mediocre Legacy,Romelu Lukaku,/* Club */Stat update
+2022-05-26T09:49:08+00:00,1089915199,1089266136,0,Haggis MacHaggis,Romelu Lukaku,+ Ballon d'Or nomination (// Zlatan Ibrahimovic)
+2022-04-05T14:35:11+00:00,1081136287,1080667605,0,Sweetchikoo2403,Romelu Lukaku,
+2022-05-08T10:25:33+00:00,1086785869,1085681138,0,81.35.99.109,Rúben Amorim,/* Managerial statistics */
+2022-04-17T18:20:21+00:00,1083217183,1082373601,0,Mediocre Legacy,Romelu Lukaku,/* Club */Stat update
+2022-04-21T06:49:21+00:00,1083869664,1083812896,0,Mediocre Legacy,Romelu Lukaku,/* Club */Stat update
+2022-04-09T21:29:36+00:00,1081817136,1080860163,0,Saintandy7,Rúben Amorim,/* Managerial statistics */
+2022-04-11T18:09:59+00:00,1082167667,1081817136,0,Fran varela04,Rúben Amorim,Wrong IPA transcription
+2022-05-15T00:16:54+00:00,1087871328,1086785869,0,Saintandy7,Rúben Amorim,/* Managerial statistics */
+2022-05-23T13:33:30+00:00,1089383388,1087871328,0,2A04:4A43:4EFF:706:DD10:575D:6986:7D37,Rúben Amorim,
+2022-04-25T21:23:37+00:00,1084665979,1084065004,0,Saintandy7,Rúben Amorim,/* Managerial statistics */
+2022-03-23T17:44:56+00:00,1078852197,1076174170,0,Klbrain,S.L. Benfica,/* Media */ Adding missing merge template
+2022-05-14T20:57:34+00:00,1087843183,1087842237,0,SLBedit,S.L. Benfica,
+2022-05-09T09:36:00+00:00,1086941046,1086941015,0,ArtemAlexanderson,Sandro Tonali,/* 2021–22 season */
+2022-03-24T16:14:59+00:00,1079024720,1079024567,0,Socialdilema,Serie A Awards,Undid revision 1079024567 by [[Special:Contributions/82.1.102.144|82.1.102.144]] ([[User talk:82.1.102.144|talk]])
+2022-05-26T09:26:05+00:00,1089912810,1089907222,0,ReaperSox,Sandro Tonali,
+2022-03-31T15:35:54+00:00,1080324862,1080315778,0,Mattythewhite,Son Heung-min,Restored revision 1079982335 by [[Special:Contributions/Issue0501|Issue0501]] ([[User talk:Issue0501|talk]]): Rvv
+2022-05-25T02:57:22+00:00,1089680391,1089574427,0,Pinineeon,Son Heung-min,/* Honours */
+2022-03-30T05:26:37+00:00,1080077599,1080077581,0,Mediocre Legacy,Sébastien Haller,Stat update
+2022-04-17T18:57:01+00:00,1083223011,1081900545,0,Mediocre Legacy,Sébastien Haller,/* Club */Stat update
+2022-05-01T06:19:31+00:00,1085567068,1085567039,0,Mediocre Legacy,Sébastien Haller,Stat update
+2022-04-02T22:57:57+00:00,1080706872,1080706840,0,Mediocre Legacy,Sébastien Haller,Stat update
+2022-05-19T12:46:18+00:00,1088665270,1087093053,0,Jevansen,Sérgio Oliveira,added [[:Category:Sportspeople from Aveiro District]]
+2022-04-10T10:01:02+00:00,1081900545,1081900504,0,Mediocre Legacy,Sébastien Haller,Stat update
+2022-05-02T13:20:28+00:00,1085792958,1085792876,0,محمد ۱۳۷۸,Tammy Abraham,
+2022-05-25T22:06:48+00:00,1089831435,1089825492,0,Mediocre Legacy,Sérgio Oliveira,/* Club */Stat update
+2022-03-30T15:19:48+00:00,1080146125,1080145740,0,Iggy the Swan,Tammy Abraham,Restored revision 1079919390 by [[Special:Contributions/Hiddenstranger|Hiddenstranger]] ([[User talk:Hiddenstranger|talk]]): All edits today are wrong
+2022-05-22T23:28:14+00:00,1089287194,1088773194,0,89.214.151.67,"Vitinha (footballer, born February 2000)",/* Honours */
+2022-04-18T11:55:15+00:00,1083359346,1083355009,0,Adakiko,Udo Lattek,Reverted edits by [[Special:Contributions/151.236.165.164|151.236.165.164]] ([[User talk:151.236.165.164|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2022-05-20T01:36:35+00:00,1088773194,1088771444,0,Jevansen,"Vitinha (footballer, born February 2000)",added [[:Category:Sportspeople from Braga District]]
+2022-04-12T12:41:35+00:00,1082306011,1081096866,0,83.223.248.240,"Vitinha (footballer, born February 2000)",/* Honours */
+2022-03-12T15:44:11+00:00,1076716492,1039235278,0,Dewritech,Udo Lattek,"clean up, [[WP:AWB/T|typo(s) fixed]]: 2-1 → 2–1 (2), 3-1 → 3–1 (2)"
+2022-04-04T17:57:57+00:00,1080998641,1080683696,0,Citation bot,"Vitinha (footballer, born February 2000)",Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_new_bare_URL_refs | #UCB_webform_linked 549/706
+2022-04-05T08:48:33+00:00,1081096866,1080998641,0,193.136.52.11,"Vitinha (footballer, born February 2000)",
+2022-05-26T14:46:12+00:00,1089953913,1089953036,0,Ferret,Wikipedia:Administrators' noticeboard/Incidents,/* CIR and short descriptions */
+2022-05-19T20:53:22+00:00,1088734686,1088734642,0,Rsjaffe,Wikipedia:Administrators' noticeboard/Incidents,/* Persisting Vandalism article Mokshas bot needed */ Fixing style/layout errors
+2022-04-30T13:26:13+00:00,1085420252,1085410200,0,Inter,Wikipedia:Administrators' noticeboard/Incidents,/* Draft:Pepul (social network) */ Reply
+2022-05-11T06:32:37+00:00,1087234868,1087234788,0,Liz,Wikipedia:Administrators' noticeboard/Incidents,/* Proposal : Topic ban */ Amending comment
+2022-05-06T18:58:32+00:00,1086534021,1086527445,0,149.22.3.71,Xavi,
+2022-05-01T21:04:19+00:00,1085677758,1084664407,0,Saintandy7,Xavi,/* Managerial statistics */
+2021-08-17T20:17:23+00:00,1039284605,1032581043,0,Qwerfjkl,2020–21 Campeonato Nacional de Futebol Feminino,Removed 'The' from the beginning of the [[WP:Short descriptions|short description]] per [[WP:SDFORMAT]]. (via [[WP:JWB]])
+2022-04-13T22:23:46+00:00,1082568824,1082457841,0,Flabbergasted9642,2021–22 Serie A,
+2022-02-16T14:37:34+00:00,1072213656,1072124522,0,102.158.126.157,2021–22 Serie A,/* Results */
+2021-10-17T18:02:58+00:00,1050418130,1050394878,0,Angelo.romano,2021–22 Serie A,Salernitana
+2022-01-31T07:18:43+00:00,1069014650,1068904923,0,Arroyo Football,Achraf Hakimi,/* External links */
+2022-02-14T00:52:47+00:00,1071718795,1071695613,0,2804:7F7:E189:5126:79:F24C:BE08:5361,2021–22 Serie A,/* Top goalscorers */
+2021-12-24T12:36:50+00:00,1061857297,1061856943,0,187.18.220.94,2021–22 Serie A,/* Season statistics */
+2021-10-27T10:11:28+00:00,1052091231,1051998479,0,Naddy555,Antonio Conte,/* Style of management */
+2022-02-05T22:10:36+00:00,1070138857,1069849431,0,131.111.129.251,Antonio Conte,
+2022-02-12T17:52:03+00:00,1071450164,1071448007,0,Dirkbb,Antonio Conte,Reverted 1 edit by [[Special:Contributions/92.28.190.243|92.28.190.243]] ([[User talk:92.28.190.243|talk]]) to last revision by Mattythewhite
+2021-11-12T19:13:44+00:00,1054915591,1054853030,0,7Road,Bruno Fernandes,
+2021-11-26T23:21:55+00:00,1057327581,1057327547,0,7Road,Bruno Fernandes,/* 2021–2022 season */
+2021-11-01T00:40:22+00:00,1052945942,1052744566,0,Elditya 029,Bruno Fernandes,/* Individual */ non-notable honours
+2021-12-12T01:35:13+00:00,1059855628,1059820357,0,ICERIB13,Bruno Fernandes,/* 2021–2022 season */
+2022-03-11T11:21:52+00:00,1076491856,1076491632,0,197.246.42.202,Carlo Ancelotti,
+2021-12-09T05:19:47+00:00,1059393057,1058754087,0,2806:104E:4:68B0:C1CE:5814:9976:F19C,Christopher Nkunku,
+2021-11-14T13:38:31+00:00,1055200342,1055200250,0,41.212.192.97,Christopher Nkunku,
+2021-10-06T00:08:41+00:00,1048436408,1047965689,0,Callum6295,Christopher Nkunku,
+2021-12-21T12:46:50+00:00,1061394270,1061375662,0,86.16.171.193,Christopher Nkunku,He is not dead as was stated.
+2022-01-09T04:28:32+00:00,1064588313,1064586410,0,Sir Sputnik,Christopher Nkunku,Reverted 1 edit by [[Special:Contributions/Bignet56|Bignet56]] ([[User talk:Bignet56|talk]]): Transfermarkt is not a reliable source
+2021-11-20T01:10:25+00:00,1056145894,1054542670,0,Rupert1904,Diogo Costa,/* Honours */ fixes
+2021-12-29T18:15:28+00:00,1062646483,1062646467,0,Serols,Christopher Nkunku,Reverted edits by [[Special:Contributions/77.101.32.143|77.101.32.143]] ([[User talk:77.101.32.143|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-12-29T00:45:25+00:00,1062527020,1060274844,0,Soccerfan 164,Diogo Costa,Stat update
+2022-02-18T13:38:08+00:00,1072593839,1072272851,0,Jakotamta,Diogo Jota,/* Personal Life */
+2022-03-20T20:39:12+00:00,1078290322,1078280932,0,JoaumBoladaum,Diogo Jota,/* Club */
+2021-12-07T15:02:23+00:00,1059115647,1059040280,0,Adeletron 3030,Diogo Jota,Reverted 10 edits by [[Special:Contributions/193.136.189.3|193.136.189.3]] ([[User talk:193.136.189.3|talk]]): Obvious copyvio
+2022-01-16T11:15:49+00:00,1066009427,1064898388,0,213.32.243.12,Diogo Costa,
+2022-01-10T19:24:43+00:00,1064898388,1062527020,0,31.22.203.235,Diogo Costa,/* Honours */
+2021-11-14T21:58:37+00:00,1055267737,1054685630,0,2001:818:D858:F700:1CA4:458A:F656:4927,Diogo Jota,
+2021-10-18T17:06:19+00:00,1050572510,1050375555,0,2001:8A0:7667:5801:D5D4:8876:4C2:CD01,Diogo Costa,"Intro: reinstated (kind of)! Links: +1, for his newfound int'l status."
+2021-12-06T21:07:13+00:00,1059000806,1058996589,0,Theonewithreason,Dušan Vlahović,Undid revision 1058996589 by [[Special:Contributions/Xgameboss123|Xgameboss123]] ([[User talk:Xgameboss123|talk]]) rv unsourced
+2021-12-26T04:50:53+00:00,1062083916,1061678369,0,98.116.73.183,Dušan Vlahović,
+2021-12-17T07:57:54+00:00,1060723589,1060723384,0,Catbus4ants,Dušan Vlahović,Undid revision 1060723384 by [[Special:Contributions/2A00:1851:8001:6B82:F9E1:8159:388F:4483|2A00:1851:8001:6B82:F9E1:8159:388F:4483]] ([[User talk:2A00:1851:8001:6B82:F9E1:8159:388F:4483|talk]])
+2022-01-06T00:38:11+00:00,1063989317,1063989312,0,MelanieN,Dušan Vlahović,Adding {{pp-vandalism}}
+2021-12-05T14:46:54+00:00,1058771930,1058758214,0,109.93.218.188,Dušan Vlahović,
+2022-02-23T19:55:34+00:00,1073644084,1073644075,0,MelanieN,Dušan Vlahović,Adding {{pp-vandalism}}
+2022-02-11T10:44:21+00:00,1071202091,1071161543,0,Dorrough618,Dušan Vlahović,/* Debut */
+2021-10-13T08:18:35+00:00,1049691520,1049691432,0,Nightfall87,Dušan Vlahović,/* International goals */
+2021-10-31T18:56:59+00:00,1052899802,1052874407,0,69.117.160.122,Dušan Vlahović,/* International */
+2022-01-31T13:12:02+00:00,1069058870,1068542451,0,Cracker-Kun,Dušan Vlahović,
+2021-11-06T20:33:26+00:00,1053908272,1053837980,0,178.222.9.19,Dušan Vlahović,
+2021-09-27T13:01:16+00:00,1046793528,1046607609,0,FireflyBot,Dušan Vlahović,([[Wikipedia:Bots/Requests_for_approval/FireflyBot_13|BOT]]) Substituting [[Template:Date]] - should not be used in article space.
+2021-12-23T05:47:41+00:00,1061678369,1061678273,0,98.47.40.88,Dušan Vlahović,
+2021-12-03T14:33:30+00:00,1058438872,1058412992,0,FrenchFootball,Dušan Vlahović,Undid revision 1058412992 by [[Special:Contributions/82.1.140.174|82.1.140.174]] ([[User talk:82.1.140.174|talk]]) It was known as the Federal Republic of Yugoslavia from 1992 to 2003
+2021-10-06T03:34:22+00:00,1048459968,1046593780,0,GiofanniRahman,Eintracht Frankfurt,
+2021-11-17T16:02:30+00:00,1055751571,1055715740,0,Add92,Dušan Vlahović,Undid revision 1055715740 by [[Special:Contributions/114.5.214.118|114.5.214.118]] ([[User talk:114.5.214.118|talk]])
+2021-12-14T19:57:22+00:00,1060319773,1060276288,0,Dreamy Jazz,Dušan Vlahović,Reverted edits by [[Special:Contribs/Granido|Granido]] ([[User talk:Granido|talk]]) to last version by Ghant312
+2021-11-17T21:20:14+00:00,1055797125,1055796240,0,MusikBot II,Erling Haaland,Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]])
+2021-11-08T08:10:22+00:00,1054136210,1054136017,0,HMSLavender,Erling Haaland,"Reverted edits by [[Special:Contributions/2409:4060:301:F518:5AEA:9530:5A84:3FAB|2409:4060:301:F518:5AEA:9530:5A84:3FAB]] ([[User talk:2409:4060:301:F518:5AEA:9530:5A84:3FAB|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.10)"
+2022-01-28T15:30:57+00:00,1068466726,1068311104,0,Jonny Nixon,Erling Haaland,added [[Category:People from Bryne]] using [[WP:HC|HotCat]]
+2021-12-26T02:25:44+00:00,1062070687,1062070547,0,Kind Tennis Fan,Erling Haaland,As per [[WP:SAID]].
+2021-10-28T06:42:02+00:00,1052264542,1052163960,0,93.184.128.33,Erling Haaland,Added individual Honours missing compared to the german Version of this article
+2022-01-22T17:46:59+00:00,1067283699,1067283070,0,Bentennyson123,Erling Haaland,/* Career statistics */
+2022-02-20T12:30:15+00:00,1072984851,1072984434,0,ItsKesha,Erling Haaland,/* Molde */
+2021-10-18T19:35:15+00:00,1050592916,1050592429,0,Felida97,Erling Haaland,Restored revision 1050580749 by [[Special:Contributions/Felida97|Felida97]] ([[User talk:Felida97|talk]]): Good faith (unnecessary link pipe added during vandalism revert)
+2022-02-25T04:33:47+00:00,1073875550,1073810576,0,Rupert1904,Erling Haaland,/* Club */ 2021-22 European appearances all came in UCL
+2022-03-13T02:13:29+00:00,1076808870,1073875550,0,Cracker-Kun,Erling Haaland,
+2022-04-23T16:44:59+00:00,1084286706,1083606367,0,Alas2022,Erling Haaland,
+2022-03-21T18:32:25+00:00,1078467940,1078460221,0,Tanonero,Federico Chiesa,/* External links */ added template
+2021-11-26T15:47:07+00:00,1057272981,1057272971,0,ClueBot NG,Federico Chiesa,"Reverting possible vandalism by [[Special:Contribs/2A02:C7E:1EAD:C500:BDCA:4257:2906:8B47|2A02:C7E:1EAD:C500:BDCA:4257:2906:8B47]] to version by Rupert1904. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4084192) (Bot)"
+2022-03-20T22:27:51+00:00,1078307380,1078307312,0,Bocanegra,Ferran Torres,/* Barcelona */
+2021-11-16T02:13:56+00:00,1055474497,1055195796,0,Messirulez,Federico Chiesa,stats update
+2022-01-28T13:21:08+00:00,1068448034,1068359903,0,Albert101032,Ferran Torres,
+2021-11-16T21:27:52+00:00,1055614777,1055605481,0,2001:8A0:7667:5801:8E3:4F1A:72E4:CEF6,"Fábio Vieira (footballer, born 2000)",Has scored!
+2021-12-31T00:55:39+00:00,1062880377,1061709293,0,2001:8A0:7667:5801:C4FB:FB70:A418:934C,"Fábio Vieira (footballer, born 2000)",Updated box.
+2021-09-28T20:57:28+00:00,1047068921,1043752872,0,Geregen2,"Fábio Vieira (footballer, born 2000)",/* External links */
+2022-02-27T22:32:36+00:00,1074368042,1073589325,0,2001:8A0:7667:5801:39D8:6EC1:EFF9:78F3,"Fábio Vieira (footballer, born 2000)","How about sourcing that honour you just added? In another proper edit, updated box."
+2022-02-12T02:37:29+00:00,1071329297,1070315201,0,2001:8A0:7667:5801:9C55:DE00:E64:59E3,"Fábio Vieira (footballer, born 2000)",Updated box.
+2021-10-08T17:44:01+00:00,1048908482,1047068921,0,2001:8A0:7667:5801:79C7:FBD2:D785:73A1,"Fábio Vieira (footballer, born 2000)",Box: updated both parameters.
+2022-03-09T01:00:36+00:00,1076028822,1074832359,0,InternetArchiveBot,Giovanni Trapattoni,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.6
+2021-09-11T19:56:55+00:00,1043752872,1042872440,0,2001:8A0:7667:5801:78A3:45BD:BA74:787B,"Fábio Vieira (footballer, born 2000)",Played for CLUB and COUNTRY at the same time?!
+2022-03-30T00:35:39+00:00,1080041277,1079721915,0,2001:818:D858:F700:CCB6:7327:F774:8565,"Fábio Vieira (footballer, born 2000)",
+2022-01-20T18:55:50+00:00,1066910251,1066847957,0,Elditya 029,Harry Kane,/* Honours */
+2022-02-27T12:57:16+00:00,1074285301,1074194199,0,Daemonickangaroo2018,Harry Kane,Undid revision 1074194199 by [[Special:Contributions/Dragon12417|Dragon12417]] ([[User talk:Dragon12417|talk]])
+2021-10-29T00:51:24+00:00,1052410683,1052410331,0,Messirulez,Harry Kane,
+2022-01-24T22:50:31+00:00,1067736525,1067615985,0,SVTCobra,Harry Kane,"/* Honours */ non-notable [[WP:USERGENERATED]] list of players, not an official award"
+2021-11-20T15:06:47+00:00,1056230100,1056134446,0,Stuartwilson23,Harry Kane,/* 2018–19 season: UEFA Champions League runner-up */ corrected score line
+2021-10-26T09:13:59+00:00,1051915163,1051914898,0,Nampa DC,Harry Kane,/* 2021–22 season */
+2021-10-04T15:30:32+00:00,1048156276,1048108808,0,Hzh,Harry Kane,/* 2021–22 season */ ce
+2021-11-16T10:40:23+00:00,1055524878,1055439450,0,Clenixon,Harry Kane,Adding Harry Kane's back-to-back hat-tricks
+2021-10-26T21:55:26+00:00,1052016002,1052015510,0,91.153.177.87,History of Paris Saint-Germain F.C.,/* National quadruples and European breakthrough */
+2021-11-22T15:24:04+00:00,1056573751,1052016002,0,Maxim,History of Paris Saint-Germain F.C.,revert banned user
+2021-11-23T03:05:27+00:00,1056709011,1056449122,0,LightingMan01,José Mourinho,
+2021-10-04T03:53:09+00:00,1048077665,1047532844,0,HCF1007,José Mourinho,/* Managerial statistics */
+2022-02-22T18:30:09+00:00,1073436723,1073378675,0,TheInevitables,José Mourinho,/* Roma */
+2022-01-27T09:12:49+00:00,1068228229,1068036581,0,Orenburg1,José Mourinho,sp
+2021-11-05T18:07:00+00:00,1053734234,1053734042,0,Emmett SP,José Mourinho,/* Inter Milan */
+2022-05-26T02:37:25+00:00,1089869011,1089844933,0,NullReason,José Mourinho,/* Roma */ UEFA Conference League success
+2021-11-10T21:37:52+00:00,1054576131,1054501279,0,Bakir123,José Mourinho,More recent image.
+2022-05-23T20:19:28+00:00,1089440628,1089343148,0,Fabricio augusto gomes,José Mourinho,/* Managerial statistics */
+2021-11-19T13:21:37+00:00,1056057111,1055930091,0,Kuyondo,José Mourinho,
+2021-12-26T15:58:54+00:00,1062143519,1062048048,0,2001:8A0:7667:5801:5C0F:557C:5A8:60AB,"Nuno Mendes (footballer, born 2002)","Undid revision 1062048048 by [[Special:Contributions/46.50.4.12|46.50.4.12]] ([[User talk:46.50.4.12|talk]])If you don't know English, please don't correct those who do!"
+2021-10-10T19:45:56+00:00,1049255802,1049213974,0,Jaellee,Oleksandr Zinchenko (footballer),Undid revision 1049213974 by [[Special:Contributions/2A01:5EC0:D003:ADD7:5DEB:F7F6:4E5B:566D|2A01:5EC0:D003:ADD7:5DEB:F7F6:4E5B:566D]] ([[User talk:2A01:5EC0:D003:ADD7:5DEB:F7F6:4E5B:566D|talk]]) reverted unexplained changes
+2022-02-11T02:37:11+00:00,1071139126,1071137422,0,BrownHairedGirl,Olivier Giroud,"Added 1  {{[[Template:Bare URL inline|Bare URL inline]]}} tag(s) using [[User:BrownHairedGirl/BareURLinline.js|a script]]. For other recently-tagged pages with [[WP:Bare URLs|bare URLs]], see [[:Category:Articles with bare URLs for citations from February 2022]]"
+2022-01-02T23:47:13+00:00,1063415445,1061716791,0,JCW-CleanerBot,Olivier Giroud,"[[User:JCW-CleanerBot#Logic|task]], replaced: work=[[Goal (website)]] → work=[[Goal (website)|Goal]]"
+2021-12-20T18:22:24+00:00,1061269063,1060540981,0,Stef4o90,Olivier Giroud,
+2022-02-14T19:32:25+00:00,1071869647,1071869600,0,BrownHairedGirl,Olivier Giroud,"Added 1  {{[[Template:Bare URL inline|Bare URL inline]]}} tag(s) using [[User:BrownHairedGirl/BareURLinline.js|a script]]. For other recently-tagged pages with [[WP:Bare URLs|bare URLs]], see [[:Category:Articles with bare URLs for citations from February 2022]]"
+2022-05-26T10:33:52+00:00,1089920614,1089592824,0,FixyF1,Olivier Giroud,/* Personal life */
+2021-12-01T00:59:16+00:00,1058026257,1057932996,0,GiofanniRahman,Paris Saint-Germain F.C.,/* Youth players under contract */
+2022-01-04T14:19:39+00:00,1063712681,1063071841,0,Leachzs,Paris Saint-Germain F.C.,
+2021-09-28T21:58:08+00:00,1047077814,1045277661,0,Longdonwong,Paris Saint-Germain F.C.,
+2022-05-18T10:28:26+00:00,1088495374,1088366514,0,GiofanniRahman,Paris Saint-Germain F.C.,/* Players */
+2021-09-05T22:47:05+00:00,1042619723,1042619677,0,Discospinster,Paris Saint-Germain F.C. ownership and finances,Reverted edits by [[Special:Contributions/2600:8801:20BD:CE00:FD05:4636:98E:2DD1|2600:8801:20BD:CE00:FD05:4636:98E:2DD1]] ([[User talk:2600:8801:20BD:CE00:FD05:4636:98E:2DD1|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-02-13T05:14:07+00:00,1071544795,1070080014,0,2804:14D:3287:5DFC:CCF3:809:C89B:369B,Pedro Porro,
+2021-09-27T01:26:21+00:00,1046702089,1042640596,0,77.100.198.31,Pedro Porro,
+2021-11-02T18:48:06+00:00,1053237546,1053237294,0,2.220.239.97,Pedro Porro,
+2021-12-05T20:16:27+00:00,1058824792,1058097241,0,31.22.145.90,Pedro Porro,/* Club */
+2022-01-17T21:28:38+00:00,1066327987,1066321426,0,Rupert1904,Rafael Leão,/* International */ unbolded Portugal
+2022-05-11T08:14:38+00:00,1087245218,1087227535,0,37.131.70.40,Rafael Leão,/* 2020–21 */
+2022-05-22T17:57:46+00:00,1089240226,1088800282,0,SeanMcCann1,Rafael Leão,/* Honours */
+2021-11-07T17:25:03+00:00,1054033135,1054033044,0,193.136.189.3,Rafael Leão,/* AC Milan */
+2021-11-22T14:21:47+00:00,1056564673,1056355502,0,WikiCleanerBot,Rafael Leão,v2.04b - [[User:WikiCleanerBot#T5|Bot T5 CW#16]] - Fix errors for [[WP:WCW|CW project]] (Unicode control characters)
+2021-12-24T14:37:57+00:00,1061868720,1060666362,0,1234qwer1234qwer4,Rafael Leão,aproved->approved - [[Wikipedia:Correct typos in one click|Fix a typo in one click]]
+2021-11-04T16:22:10+00:00,1053556402,1053499973,0,2A00:23C5:E187:5F00:2D9C:FA5D:9CEF:B833,Rafael Leão,"Clearly not your own work, you just saved it from his Twitter page, you fraud"
+2022-03-05T20:59:11+00:00,1075449171,1073939505,0,2001:8A0:764A:BD00:84EE:77EA:AC80:BC20,Ricardo Horta,Box: as of last round.
+2021-11-30T21:15:31+00:00,1057994665,1054133563,0,2001:8A0:7667:5801:1DF5:BEC1:4BC6:FF5C,Ricardo Horta,Updated box.
+2022-05-23T21:17:23+00:00,1089448962,1089372494,0,GiantSnowman,Ricardo Horta,Undid revision 1089372494 by [[Special:Contributions/SlidingD|SlidingD]] ([[User talk:SlidingD|talk]]) - career over
+2021-11-06T15:56:35+00:00,1053871800,1053344810,0,Ich,Romelu Lukaku,"""killing of George Floyd"" > ""murder of George Floyd"""
+2021-11-24T13:07:24+00:00,1056939641,1053871800,0,Shuipzv3,Romelu Lukaku,/* Activism */ Grammar
+2021-10-26T19:38:26+00:00,1051997645,1051810179,0,Shingo 07,Romelu Lukaku,
+2021-10-29T16:28:20+00:00,1052517755,1051997645,0,TheInevitables,Romelu Lukaku,Picture addition
+2021-10-04T00:25:48+00:00,1048051220,1047778767,0,189.45.167.81,Rúben Amorim,/* Managerial statistics */
+2022-05-28T21:46:15+00:00,1090323208,1090202439,0,2A00:23C5:E187:5F01:19A1:17AD:F678:ACA8,Rúben Amorim,[[WP:SUMMARY]] there is an article for the season for putting the results of every single game if you want
+2021-10-24T00:37:39+00:00,1051516467,1050929318,0,200.95.221.29,Rúben Amorim,/* Managerial statistics */
+2022-03-06T13:03:44+00:00,1075562902,1074363423,0,Re2901,S.L. Benfica,/* Crest and shirt */
+2021-08-28T10:15:11+00:00,1041064603,1040970489,0,Tanonero,Serie A Awards,Undid revision 1040970489 by [[Special:Contributions/62.19.136.90|62.19.136.90]] ([[User talk:62.19.136.90|talk]])
+2021-12-16T12:16:47+00:00,1060584605,1060403156,0,115.93.156.99,Son Heung-min,/* 2020–21 season */
+2022-02-26T19:16:07+00:00,1074162404,1074146119,0,Dirkbb,Son Heung-min,ce
+2021-12-10T15:03:21+00:00,1059617110,1059616640,0,Chipmunkdavis,Son Heung-min,Reverted edits by [[Special:Contribs/223.24.161.75|223.24.161.75]] ([[User talk:223.24.161.75|talk]]) to last version by ClueBot NG
+2022-03-17T12:11:53+00:00,1077643715,1077643535,0,Govvy,Son Heung-min,Reverted 1 edit by [[Special:Contributions/89.197.6.233|89.197.6.233]] ([[User talk:89.197.6.233|talk]]) to last revision by Serols
+2021-11-26T01:13:23+00:00,1057188109,1057188053,0,7Road,Sébastien Haller,/* International career */
+2022-02-23T23:35:03+00:00,1073673347,1073667264,0,Croxyz,Sébastien Haller,/* Eintracht Frankfurt */
+2021-10-12T03:40:33+00:00,1049488811,1048468714,0,2607:FEA8:1E5F:F0E0:D523:1071:D13F:FA03,Sébastien Haller,
+2021-12-06T18:43:49+00:00,1058978263,1058542070,0,2A02:A45B:DE88:1:643F:8234:BF84:3EF2,Sébastien Haller,/* 2021–22 season */Corrected a factual mistake
+2021-10-25T08:18:06+00:00,1051731654,1051731569,0,185.26.61.45,Sébastien Haller,Undid revision 1051731569 by [[Special:Contributions/185.26.61.45|185.26.61.45]] ([[User talk:185.26.61.45|talk]])
+2021-10-16T23:47:19+00:00,1050292623,1050097374,0,2001:818:DF92:1F00:48EF:1263:8CFC:2A80,Sérgio Oliveira,/* Club */
+2021-11-08T15:37:36+00:00,1054186735,1054077916,0,2001:8A0:7667:5801:38B8:BDFE:AC80:4B76,Sérgio Oliveira,"No update below, again! In a proper edit, career summary in intro."
+2022-05-09T04:14:54+00:00,1086913046,1086912176,0,2601:192:4D80:850:E105:8DC6:6C7B:6C11,Tammy Abraham,/* Career statistics */
+2021-08-17T14:07:38+00:00,1039235278,1033295025,0,20SS00,Udo Lattek,/* External links */
+2022-01-09T17:00:10+00:00,1064675001,1062855150,0,RetiredDuke,"Vitinha (footballer, born February 2000)","why the red link, though"
+2021-10-22T02:31:58+00:00,1051193457,1042874796,0,Andriyrussu,"Vitinha (footballer, born February 2000)",
+2022-02-06T22:02:51+00:00,1070323684,1068997055,0,Soccerfan 164,"Vitinha (footballer, born February 2000)",Stat update
+2022-02-18T13:46:16+00:00,1072595015,1072030402,0,89.214.151.73,"Vitinha (footballer, born February 2000)",/* Honours */
+2021-12-24T18:06:16+00:00,1061894659,1061363108,0,83.223.224.89,"Vitinha (footballer, born February 2000)",
+2021-12-16T04:47:21+00:00,1060543603,1060542866,0,MrSchimpf,Wikipedia:Administrators' noticeboard/Incidents,/* Personal attacks */
+2021-11-23T04:00:49+00:00,1056715041,1056714809,0,GoodDay,Wikipedia:Administrators' noticeboard/Incidents,/* Close */
+2021-12-14T23:32:26+00:00,1060345989,1060345601,0,Godsy,Wikipedia:Administrators' noticeboard/Incidents,/* Suggesting WP:BOOMERANG */ alter link
+2022-03-03T03:26:34+00:00,1074959040,1074959004,0,Renamed user xyBW847toYwJSYpc,Wikipedia:Administrators' noticeboard/Incidents,/* A hard block for user:ClintonGutsfʉck */
+2022-03-01T01:51:40+00:00,1074590281,1074587840,0,Drmies,Wikipedia:Administrators' noticeboard/Incidents,/* User:Calton (1961-2022) */ :(
+2022-05-21T08:26:39+00:00,1088996767,1088996511,0,Kinu,Wikipedia:Administrators' noticeboard/Incidents,Undid revision 1088996511 by [[Special:Contributions/Nathaniel Bapelaa II|Nathaniel Bapelaa II]] ([[User talk:Nathaniel Bapelaa II|talk]])
+2021-10-09T11:12:51+00:00,1049022130,1048924124,0,Cracker-Kun,Xavi,
+2022-01-23T22:12:20+00:00,1067517404,1067517381,0,MelanieN,Xavi,Adding {{pp-pc}}
+2021-11-14T20:21:34+00:00,1055255026,1055073344,0,83.233.3.14,Xavi,/* Barcelona */
+2022-02-03T15:09:27+00:00,1069686520,1069685939,0,BX,Wikipedia:Administrators' noticeboard/Incidents,/* I think there is probably vandalism in https://en.wikipedia.org/wiki/List_of_multiple_Winter_Olympic_medalists */ fixed
+2021-11-29T08:14:37+00:00,1057724615,1057721771,0,Ab207,Wikipedia:Administrators' noticeboard/Incidents,/* Dubious cast additions by IP 2001:1C04:431F:5600 */ new section

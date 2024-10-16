@@ -1,0 +1,89 @@
+timestamp,revid,parentid,sock,user,page,message
+2023-07-31T23:38:22+00:00,1168124042,1166598446,1,Jerry_Z._Liu,Phase transition,/* See also */
+2023-07-31T23:36:42+00:00,1168123880,1160175033,1,Jerry_Z._Liu,State of matter,/* See also */
+2023-07-31T23:31:56+00:00,1168123384,1150972772,1,Jerry_Z._Liu,Displacement current,/* See also */
+2023-07-31T23:31:10+00:00,1168123308,1162408852,1,Jerry_Z._Liu,Speed of electricity,/* See also */
+2023-07-31T23:30:18+00:00,1168123205,1167539441,1,Jerry_Z._Liu,Electron mobility,/* See also */
+2023-07-31T23:26:39+00:00,1168122888,1148199035,1,Jerry_Z._Liu,Current density,/* See also */
+2023-07-31T23:25:14+00:00,1168122764,1152907427,1,Jerry_Z._Liu,Electric current,/* See also */
+2023-07-31T23:23:43+00:00,1168122559,1160187585,1,Jerry_Z._Liu,Free electron model,/* See also */
+2023-07-31T23:19:30+00:00,1168122125,1141740072,1,Jerry_Z._Liu,Type-II superconductor,/* See also */
+2023-07-31T23:18:45+00:00,1168122057,1149132210,1,Jerry_Z._Liu,Type-I superconductor,/* See also */
+2023-07-31T23:17:38+00:00,1168121936,1167724727,1,Jerry_Z._Liu,High-temperature superconductivity,/* See also */
+2023-07-31T23:15:49+00:00,1168121732,1127666488,1,Jerry_Z._Liu,Covalent superconductor,/* See also */
+2023-07-31T23:13:35+00:00,1168121477,1163174882,1,Jerry_Z._Liu,BCS theory,/* See also */
+2023-07-31T23:09:36+00:00,1168121067,1140514347,1,Jerry_Z._Liu,Electron transfer,/* See also */
+2023-07-31T23:08:46+00:00,1168120968,1161940991,1,Jerry_Z._Liu,Charge transport mechanisms,/* See also */
+2023-07-31T23:07:21+00:00,1168120791,1164806395,1,Jerry_Z._Liu,Drude model,/* See also */
+2023-07-31T22:50:22+00:00,1168118824,1164034449,1,Jerry_Z._Liu,Electrical resistivity and conductivity,/* See also */
+2023-07-30T17:26:59+00:00,1167920551,1167312244,1,Jerry_Z._Liu,Superconductivity,/* See also */
+2023-08-02T05:50:57+00:00,1168339713,1168338896,1,Helenkallynature,LK-99,/* New promises for synthesizing superconductors */
+2023-08-02T05:42:24+00:00,1168338896,1168337480,1,Helenkallynature,LK-99,/* New promises for synthesizing superconductors */
+2023-08-02T05:21:18+00:00,1168337480,1168331679,1,Helenkallynature,LK-99,
+2023-07-31T23:13:35+00:00,1168121477,1163174882,0,Jerry Z. Liu,BCS theory,/* See also */
+2023-04-04T17:34:11+00:00,1148199035,1147280527,0,Elocute,Current density,/* Definition */ cleaned up current density argument
+2023-06-26T00:35:46+00:00,1161940991,1138852642,0,Quondum,Charge transport mechanisms,modern term
+2023-07-31T23:08:46+00:00,1168120968,1161940991,0,Jerry Z. Liu,Charge transport mechanisms,/* See also */
+2023-04-21T04:01:29+00:00,1150972772,1147033820,0,Fgnievinski,Displacement current,
+2023-08-01T09:04:11+00:00,1168189035,1168120791,0,ReyHahn,Drude model,Undid revision 1168120791 by [[Special:Contributions/Jerry Z. Liu|Jerry Z. Liu]] ([[User talk:Jerry Z. Liu|talk]]) proposed for deletion
+2023-07-28T10:25:36+00:00,1167539441,1163410627,0,2602:FC24:13:1:E4F7:9065:0:1,Electron mobility,
+2023-07-31T22:50:22+00:00,1168118824,1164034449,0,Jerry Z. Liu,Electrical resistivity and conductivity,/* See also */
+2023-07-31T23:31:56+00:00,1168123384,1150972772,0,Jerry Z. Liu,Displacement current,/* See also */
+2023-07-31T23:09:36+00:00,1168121067,1140514347,0,Jerry Z. Liu,Electron transfer,/* See also */
+2022-12-16T00:33:29+00:00,1127666488,1127662678,0,Quondum,Covalent superconductor,B (not H) for magnetic field; fmt
+2023-08-01T09:03:22+00:00,1168188962,1168121477,0,ReyHahn,BCS theory,Undid revision 1168121477 by [[Special:Contributions/Jerry Z. Liu|Jerry Z. Liu]] ([[User talk:Jerry Z. Liu|talk]]) proposed for deletion
+2023-07-31T23:30:18+00:00,1168123205,1167539441,0,Jerry Z. Liu,Electron mobility,/* See also */
+2023-07-07T17:18:54+00:00,1164034449,1162988890,0,Fgnievinski,Electrical resistivity and conductivity,
+2023-07-31T23:25:14+00:00,1168122764,1152907427,0,Jerry Z. Liu,Electric current,/* See also */
+2023-07-31T23:07:21+00:00,1168120791,1164806395,0,Jerry Z. Liu,Drude model,/* See also */
+2023-07-31T23:23:43+00:00,1168122559,1160187585,0,Jerry Z. Liu,Free electron model,/* See also */
+2023-08-02T04:17:32+00:00,1168331679,1168326451,0,QuickQuokka,LK-99,Better quality photo of pellet
+2023-08-01T18:11:04+00:00,1168251677,1168251561,0,Carnby,High-temperature superconductivity,Ooops I forgot the interval is the same!
+2023-07-31T20:05:18+00:00,1168099455,1168095942,0,Susmuffin,LK-99,/* Replication attempts */ A non-scientist VTuber's blog is not a reliable source.
+2023-07-31T07:36:51+00:00,1168016684,1168015010,0,AnomieBOT,LK-99,Dating maintenance tags: {{Citation needed}}
+2023-07-31T23:31:10+00:00,1168123308,1162408852,0,Jerry Z. Liu,Speed of electricity,/* See also */
+2023-07-31T01:46:59+00:00,1167981440,1167980803,0,85.147.66.47,LK-99,"c/e, less precise but reads better. hard to misunderstand."
+2023-07-31T02:24:31+00:00,1167985868,1167943472,0,Temerarius,Superconductivity,/* Elementary properties of superconductors */
+2023-08-02T01:25:48+00:00,1168311342,1168310180,0,ShotoKye,LK-99,/* Theoretical studies */
+2023-08-01T09:03:48+00:00,1168189006,1168122057,0,ReyHahn,Type-I superconductor,Undid revision 1168122057 by [[Special:Contributions/Jerry Z. Liu|Jerry Z. Liu]] ([[User talk:Jerry Z. Liu|talk]]) proposed for deletion
+2023-07-31T23:36:42+00:00,1168123880,1160175033,0,Jerry Z. Liu,State of matter,/* See also */
+2023-07-22T16:20:14+00:00,1166598446,1166598075,0,Forbes72,Phase transition,/* Mixtures */ add context
+2023-08-01T09:06:19+00:00,1168189254,1168123880,0,ReyHahn,State of matter,Reverted 1 edit by [[Special:Contributions/Jerry Z. Liu|Jerry Z. Liu]] ([[User talk:Jerry Z. Liu|talk]]): Article for deletion
+2023-08-01T11:07:43+00:00,1168200328,1168124042,0,MadeOfAtoms,Phase transition,Undid revision 1168124042 by [[Special:Contributions/Jerry Z. Liu|Jerry Z. Liu]] ([[User talk:Jerry Z. Liu|talk]]) off-topic
+2023-08-01T05:31:16+00:00,1168167975,1168167028,0,185.40.98.107,LK-99,"/* Replication attempts */It's a twitter run by Sankar das Sarma. Prominent condensed matter theoretical physicist. He reports that _other groups_ attempt replication, but not that CMTC is attempting replication."
+2023-06-28T23:54:04+00:00,1162408852,1144588326,0,HeyElliott,Speed of electricity,/* Electromagnetic waves in circuits */ [[MOS:NOTE]]
+2023-07-29T13:58:55+00:00,1167724727,1167724680,0,JackkBrown,High-temperature superconductivity,
+2023-07-31T23:19:30+00:00,1168122125,1141740072,0,Jerry Z. Liu,Type-II superconductor,/* See also */
+2022-10-27T15:24:16+00:00,1118539294,1094380836,0,Mu301,BCS theory,"Add: bibcode, pages, issue. | [[WP:UCB|Use this tool]]. [[WP:DBUG|Report bugs]]. | #UCB_Gadget"
+2023-02-12T00:27:24+00:00,1138852642,1131290989,0,Citation bot,Charge transport mechanisms,Add: pmid. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Corvus florensis | #UCB_webform 2764/3499
+2022-11-04T02:53:52+00:00,1119914625,1119347257,0,Srleffler,Displacement current,Reverted edits by [[Special:Contribs/Srleffler|Srleffler]] ([[User talk:Srleffler|talk]]) to last version by 46.18.177.138
+2023-07-11T06:33:26+00:00,1164806395,1162199035,0,Alexander Davronov,Drude model,Electrons don't behave like a gas for sure; tag for citation
+2023-03-28T23:39:15+00:00,1147117970,1137543381,0,136.33.226.108,Drude model,/* AC field */Fixed lack of negative sign
+2023-02-14T17:48:42+00:00,1139349683,1138748664,0,OlliverWithDoubleL,Current density,math formatting (mvar)
+2023-02-11T08:00:00+00:00,1138730314,1119914625,0,Leonardo Stenghel,Displacement current,"Eliminated bold (current intensity is a scalar, not a vector, as can be seen from the scalar product)"
+2023-02-05T05:06:44+00:00,1137543381,1134233809,0,Hellacioussatyr,Drude model,/* Time-varying analysis */
+2022-12-27T00:08:51+00:00,1129753571,1129745758,0,Chetvorno,Electric current,/* Reference direction */ Added citation
+2023-05-03T01:11:08+00:00,1152907427,1152907059,0,Constant314,Electric current,There are many ways to measure current.
+2023-04-05T01:19:54+00:00,1148256130,1143014793,0,Mover of molehills,Electrical resistivity and conductivity,Removed unnecessary detail
+2023-01-13T06:02:01+00:00,1133321837,1133053024,0,159.196.57.185,Electrical resistivity and conductivity,
+2023-04-19T22:59:01+00:00,1150744367,1150744344,0,CyberOne25,Electron mobility,Undid revision 1150743968 by [[Special:Contributions/CyberOne25|CyberOne25]] ([[User talk:CyberOne25|talk]])
+2023-06-06T12:09:18+00:00,1158816116,1157469359,0,145.107.106.165,Electrical resistivity and conductivity,
+2022-12-14T18:10:05+00:00,1127436905,1124248360,0,Citation bot,Electron mobility,Add: bibcode. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BorgQueen | [[Category:Materials science]] | #UCB_Category 54/420
+2023-01-24T13:31:18+00:00,1135404962,1135404492,0,2A00:93C0:1008:23:6DE2:2F01:7F5:DC2F,High-temperature superconductivity,/* Ongoing research */
+2023-06-23T05:21:29+00:00,1161508951,1161247653,0,Zato123,High-temperature superconductivity,/* Selected list of superconductors */ Typo
+2022-06-18T10:30:55+00:00,1093709259,1093584022,0,I dream of horses,Electron transfer,Disambiguating links to [[Vector]] (help needed) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-02-20T14:20:23+00:00,1140532987,1139145293,0,Citation bot,High-temperature superconductivity,Removed proxy/dead URL that duplicated identifier. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine
+2023-02-20T12:06:16+00:00,1140514347,1138356850,0,AukusRuckus,Electron transfer,/* Vectoral electron transfer */ Disambiguated [[Vector]] → [[Vector (molecular biology)]]
+2023-06-08T15:36:20+00:00,1159150054,1159149798,0,Antarktikos,High-temperature superconductivity,
+2023-04-10T10:21:50+00:00,1149126691,1146497580,0,OrderParam169,Phase transition,"/* Order parameters */ Changed the citation for order parameters from one that did not allow access to the old source, to a new one that the old source was paraphrasing from."
+2023-03-25T07:27:17+00:00,1146497580,1144870972,0,5.18.86.106,Phase transition,/* Types of phase transition */
+2022-12-07T07:24:13+00:00,1126050973,1125871353,0,Dougsim,Phase transition,further clarifification
+2022-08-13T07:37:22+00:00,1104182073,1104182030,0,Ashcanpete,Speed of electricity,Typo
+2023-03-14T14:24:44+00:00,1144588326,1144584395,0,Constant314,Speed of electricity,"/* Velocity of electromagnetic waves in good dielectrics */ The formula is for phase velocity.  Typically, the group velocity is about the same, but that would need a reliable source to be added."
+2023-01-11T16:25:32+00:00,1132973516,1114378104,0,CactiStaccingCrane,State of matter,
+2023-05-16T16:48:21+00:00,1155098551,1155098414,0,CactiStaccingCrane,State of matter,/* Glass */ total_width exists
+2023-04-03T18:38:15+00:00,1148042445,1132973516,0,Rkieferbaum,State of matter,v2.05 - Fix errors for [[WP:WCW|CW project]] (Link equal to linktext)
+2022-12-04T08:01:09+00:00,1125491473,1125399344,0,Eric Kvaalen,Superconductivity,Wikilink to skyrmions
+2023-02-26T15:17:18+00:00,1141740072,1108100300,0,73.38.222.15,Type-II superconductor,en-dash
+2020-11-29T21:02:02+00:00,991396267,931696222,0,Citation bot,Type-I superconductor,Add: author pars. 1-1. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Magnetism]] | via #UCB_Category 72/156
+2023-06-14T21:09:25+00:00,1160175033,1159842203,0,Dr vulpes,State of matter,"/* Magnetically ordered */Reverting Spin edits as per [[Talk:Spin (particle physics)]] and [[Wikipedia talk:WikiProject Physics]], replaced: Spin (particle physics) → Spin (physics)"

@@ -1,0 +1,524 @@
+timestamp,revid,parentid,sock,user,page,message
+2012-06-14T14:49:55+00:00,497558883,497558825,1,AmMasters,American Masters,/* Z */
+2012-06-14T14:49:30+00:00,497558825,497558763,1,AmMasters,American Masters,/* U */
+2012-06-14T14:49:08+00:00,497558763,497449517,1,AmMasters,American Masters,/* X */
+2012-06-13T18:31:33+00:00,497433022,497416556,1,AmMasters,American Masters,
+2012-06-13T16:32:47+00:00,497416556,497416201,1,AmMasters,American Masters,/* Q */
+2012-06-13T16:30:04+00:00,497416201,497412908,1,AmMasters,American Masters,/* I */
+2012-06-13T16:03:37+00:00,497412908,497412698,1,AmMasters,American Masters,/* Y */
+2012-06-13T16:02:03+00:00,497412698,497412545,1,AmMasters,American Masters,/* W */
+2012-06-13T16:00:53+00:00,497412545,497412116,1,AmMasters,American Masters,/* W */
+2012-06-13T15:57:30+00:00,497412116,497410792,1,AmMasters,American Masters,/* V */
+2012-06-13T15:47:14+00:00,497410792,497410123,1,AmMasters,American Masters,/* T */
+2012-06-13T15:42:01+00:00,497410123,497409228,1,AmMasters,American Masters,/* S */
+2012-06-13T15:34:39+00:00,497409228,497407386,1,AmMasters,American Masters,/* R */
+2012-06-13T15:21:53+00:00,497407386,497406682,1,AmMasters,American Masters,/* P */
+2012-06-13T15:17:21+00:00,497406682,497406510,1,AmMasters,American Masters,/* O */
+2012-06-13T15:16:12+00:00,497406510,497406141,1,AmMasters,American Masters,/* N */
+2012-06-13T15:13:35+00:00,497406141,497405596,1,AmMasters,American Masters,/* M */
+2012-06-13T15:09:41+00:00,497405596,497404745,1,AmMasters,American Masters,/* L */
+2012-06-13T15:03:20+00:00,497404745,497404011,1,AmMasters,American Masters,/* K */
+2012-06-13T14:58:04+00:00,497404011,497403493,1,AmMasters,American Masters,/* J */
+2012-06-13T14:54:16+00:00,497403493,497403419,1,AmMasters,American Masters,/* H */
+2012-06-13T14:53:46+00:00,497403419,497402890,1,AmMasters,American Masters,/* H */
+2012-06-13T14:49:39+00:00,497402890,497400793,1,AmMasters,American Masters,/* G */
+2012-06-13T14:33:39+00:00,497400793,497398649,1,AmMasters,American Masters,/* F */
+2012-06-13T14:16:28+00:00,497398649,497398032,1,AmMasters,American Masters,/* E */
+2012-06-13T14:11:03+00:00,497398032,496504508,1,AmMasters,American Masters,/* D */
+2012-06-07T21:26:17+00:00,496504508,496491585,1,AmMasters,American Masters,/* C */
+2012-06-07T19:58:09+00:00,496491585,496483543,1,AmMasters,American Masters,/* B */
+2012-06-07T19:07:05+00:00,496483543,496459695,1,AmMasters,American Masters,/* A */
+2012-06-07T17:07:20+00:00,496466514,496465564,1,AmMasters,User talk:AmMasters,/* June 2012 */
+2012-06-07T17:02:17+00:00,496465791,496461802,1,AmMasters,User talk:Mdann52,/* American Masters */
+2012-06-07T16:33:03+00:00,496461802,496460750,1,AmMasters,User talk:Mdann52,/* American Masters */
+2012-06-07T16:24:31+00:00,496460750,496460693,1,AmMasters,User talk:Mdann52,/* =American Masters */
+2012-06-07T16:24:07+00:00,496460693,494264411,1,AmMasters,User talk:Mdann52,
+2012-06-07T16:15:04+00:00,496459452,496456553,1,AmMasters,American Masters,/* Funding */
+2012-06-07T15:54:19+00:00,496456553,496456506,1,AmMasters,American Masters,/* Visual Artists */
+2012-06-07T15:54:01+00:00,496456506,496456455,1,AmMasters,American Masters,/* Visual Artists */
+2012-06-07T15:53:33+00:00,496456455,496455901,1,AmMasters,American Masters,
+2012-06-07T15:49:28+00:00,496455901,496455114,1,AmMasters,American Masters,
+2012-06-07T15:43:39+00:00,496455105,496455040,1,AmMasters,American Masters,/* =Television Personalities */
+2012-06-07T15:43:12+00:00,496455040,496454530,1,AmMasters,American Masters,
+2012-06-07T15:39:15+00:00,496454530,496417902,1,AmMasters,American Masters,
+2012-05-23T19:49:03+00:00,494038875,494038778,1,AmMasters,American Masters,/* W */
+2012-05-23T19:48:23+00:00,494038778,494038443,1,AmMasters,American Masters,/* W */
+2012-05-23T19:45:49+00:00,494038443,494038266,1,AmMasters,American Masters,/* S */
+2012-05-23T19:44:24+00:00,494038266,494037628,1,AmMasters,American Masters,/* S */
+2012-05-23T19:40:04+00:00,494037628,494037539,1,AmMasters,American Masters,/* R */
+2012-05-23T19:39:21+00:00,494037539,494037444,1,AmMasters,American Masters,/* N */
+2012-05-23T19:38:32+00:00,494037444,494037400,1,AmMasters,American Masters,/* N */
+2012-05-23T19:38:12+00:00,494037400,494037330,1,AmMasters,American Masters,/* N */
+2012-05-23T19:37:38+00:00,494037330,494037271,1,AmMasters,American Masters,/* M */
+2012-05-23T19:37:09+00:00,494037271,494037222,1,AmMasters,American Masters,/* N */
+2012-05-23T19:36:49+00:00,494037222,494037110,1,AmMasters,American Masters,/* M */
+2012-05-23T19:35:53+00:00,494037110,494036922,1,AmMasters,American Masters,/* L */
+2012-05-23T19:34:20+00:00,494036922,494033896,1,AmMasters,American Masters,
+2013-07-18T19:09:35+00:00,564828938,564137230,1,American_Masters,Charlie Parker,PBS American Masters.
+2013-07-18T19:07:16+00:00,564828606,564827796,1,American_Masters,Jack Paar,PBS American Masters.
+2013-07-18T19:06:01+00:00,564828456,553919687,1,American_Masters,José Clemente Orozco,PBS American Masters.
+2013-07-18T19:04:33+00:00,564828276,563741704,1,American_Masters,Eugene O'Neill,PBS American Masters.
+2013-07-18T19:03:35+00:00,564828173,564827870,1,American_Masters,Truman Capote,/* External links */
+2013-07-18T19:03:14+00:00,564828132,560451589,1,American_Masters,Georgia O'Keeffe,PBS American Masters.
+2013-07-18T19:00:06+00:00,564827768,561132965,1,American_Masters,Phil Ochs,PBS American Masters.
+2013-07-18T19:00:00+00:00,564827752,564321706,1,American_Masters,Truman Capote,/* External links */
+2013-07-18T18:57:27+00:00,564827453,560252564,1,American_Masters,Cab Calloway,/* External links */
+2013-07-18T18:55:46+00:00,564827279,563689315,1,American_Masters,Alexander Calder,/* External links */
+2013-07-18T18:53:45+00:00,564827049,555274211,1,American_Masters,Alwin Nikolais,PBS American Masters.
+2013-07-18T18:53:04+00:00,564826948,564320990,1,American_Masters,John Cage,/* Media */
+2013-07-18T18:51:22+00:00,564826741,559261287,1,American_Masters,Mike Nichols,PBS American Masters.
+2013-07-18T18:50:59+00:00,564826682,562989154,1,American_Masters,Carol Burnett,/* External links */
+2013-07-18T18:48:40+00:00,564826396,564332050,1,American_Masters,Bob Newhart,PBS American Masters.
+2013-07-18T18:47:50+00:00,564826281,564778896,1,American_Masters,James Brown,/* External links */
+2013-07-18T18:46:13+00:00,564826106,562739565,1,American_Masters,Negro Ensemble Company,PBS American Masters.
+2013-07-18T18:40:58+00:00,564825504,561400179,1,American_Masters,Cole Porter,PBS. Extra informational link about Cole Porter.
+2013-07-18T18:28:57+00:00,564823989,564334120,1,American_Masters,Jeff Bridges,/* External links */
+2013-07-18T18:26:58+00:00,564823707,562174232,1,American_Masters,Leonard Bernstein,/* External links */
+2013-07-18T18:23:31+00:00,564823222,564822992,1,American_Masters,Lucille Ball,
+2013-07-18T18:21:47+00:00,564822992,564607172,1,American_Masters,Lucille Ball,
+2013-07-18T18:19:50+00:00,564822729,564375207,1,American_Masters,James Baldwin,/* External links */
+2013-07-18T18:19:33+00:00,564822685,558152544,1,American_Masters,Jack Paar,PBS American Masters. Extra informational link about Jack Paar.
+2013-07-18T18:16:35+00:00,564822325,557304291,1,American_Masters,Joan Baez,
+2013-07-18T18:14:34+00:00,564822091,564584219,1,American_Masters,John James Audubon,
+2013-07-18T18:08:24+00:00,564821358,561771566,1,American_Masters,Richard Avedon,
+2013-07-18T18:02:29+00:00,564820679,564714690,1,American_Masters,Woody Allen,
+2013-07-18T17:58:06+00:00,564820141,563740163,1,American_Masters,Louisa May Alcott,
+2013-07-18T16:04:22+00:00,564806082,553262937,1,American_Masters,Talk:Willie Nelson,/* Edit request on 18 July 2013 */ new section
+2013-07-18T16:00:39+00:00,564805607,562434456,1,American_Masters,Stella Adler,
+2013-07-18T19:24:28+00:00,564830826,564620881,1,American_Masters1,Gregory Peck,PBS American Masters.
+2013-07-30T14:50:54+00:00,566435005,562845615,1,AMintern,Robert Rauschenberg,/* External links */
+2013-07-30T14:47:36+00:00,566434540,566144630,1,AMintern,Cole Porter,/* External links */
+2013-07-30T14:45:20+00:00,566434224,564453587,1,AMintern,Sidney Poitier,/* External links */
+2013-07-30T14:41:23+00:00,566433657,562422925,1,AMintern,I. M. Pei,/* External links */
+2013-07-30T14:39:49+00:00,566433405,566433116,1,AMintern,Gregory Peck,/* External links */
+2013-07-30T14:37:56+00:00,566433116,565391945,1,AMintern,Gregory Peck,/* External links */
+2013-07-30T14:34:23+00:00,566432598,564828961,1,AMintern,Charlie Parker,/* External links */
+2013-07-30T16:42:54+00:00,566447931,562435153,1,MeltzerSeltzer,Martha Graham,PBS American Masters
+2013-07-30T16:41:46+00:00,566447800,565017515,1,MeltzerSeltzer,Benny Goodman,PBS American Masters
+2013-07-30T16:39:44+00:00,566447587,565307588,1,MeltzerSeltzer,Samuel Goldwyn,PBS American Masters
+2013-07-30T16:38:10+00:00,566447410,562415448,1,MeltzerSeltzer,Glenn Gould,PBS American Masters
+2013-07-30T16:35:06+00:00,566447072,565543944,1,MeltzerSeltzer,Philip Glass,PBS American Masters
+2013-07-30T16:32:25+00:00,566446792,564695787,1,MeltzerSeltzer,Lillian Gish,PBS American Masters
+2013-07-30T16:30:19+00:00,566446524,566346085,1,MeltzerSeltzer,Allen Ginsberg,PBS American Masters
+2013-07-30T16:28:23+00:00,566446272,566140332,1,MeltzerSeltzer,George Gershwin,PBS American Masters
+2013-07-30T16:26:46+00:00,566446089,565150705,1,MeltzerSeltzer,Frank Gehry,PBS American Masters
+2013-07-30T16:16:36+00:00,566444959,565967270,1,MeltzerSeltzer,Marvin Gaye,PBS American Masters
+2013-07-30T16:14:13+00:00,566444684,565787866,1,MeltzerSeltzer,Judy Garland,American Masters PBS
+2013-07-30T16:12:24+00:00,566444474,566396683,1,MeltzerSeltzer,Buckminster Fuller,American Masters PBS
+2013-07-30T16:10:00+00:00,566444211,566114692,1,MeltzerSeltzer,Aretha Franklin,PBS American Masters
+2013-07-30T16:07:55+00:00,566443972,565633969,1,MeltzerSeltzer,Miloš Forman,PBS American Masters
+2013-07-30T16:05:48+00:00,566443692,564599700,1,MeltzerSeltzer,John Ford,PBS American Masters
+2013-07-30T16:02:38+00:00,566443287,566340486,1,MeltzerSeltzer,F. Scott Fitzgerald,PBS American Masters
+2013-07-30T16:00:54+00:00,566443027,566223827,1,MeltzerSeltzer,Ella Fitzgerald,PBS American Masters
+2013-07-30T15:59:24+00:00,566442803,565068926,1,MeltzerSeltzer,Ahmet Ertegun,PBS American Masters external link.
+2013-07-30T15:57:36+00:00,566442568,561845261,1,MeltzerSeltzer,Ralph Ellison,PBS American Masters
+2013-07-30T15:55:17+00:00,566442282,566085221,1,MeltzerSeltzer,Duke Ellington,PBS American Masters
+2013-07-30T15:51:35+00:00,566441838,565349100,1,MeltzerSeltzer,Thomas Eakins,PBS American Masters
+2013-07-30T15:48:51+00:00,566441542,566165862,1,MeltzerSeltzer,Bob Dylan,PBS American Masters
+2013-07-30T15:45:35+00:00,566441186,564366594,1,MeltzerSeltzer,Plácido Domingo,American Masters PBS
+2013-07-30T15:43:29+00:00,566440928,565290973,1,MeltzerSeltzer,James Dean,PBS American Masters
+2013-07-30T15:40:40+00:00,566440590,566328576,1,MeltzerSeltzer,The Doors,PBS American Masters
+2013-07-30T15:39:06+00:00,566440413,561639112,1,MeltzerSeltzer,Edward S. Curtis,PBS American Masters
+2013-07-30T15:36:59+00:00,566440186,565911676,1,MeltzerSeltzer,Merce Cunningham,American Masters External link
+2013-07-30T14:49:37+00:00,566434816,565114869,1,MeltzerSeltzer,George Cukor,PBS American Masters external link
+2013-07-30T14:46:31+00:00,566434400,564331137,1,MeltzerSeltzer,Aaron Copland,american masters
+2013-07-30T14:43:23+00:00,566433956,566048012,1,MeltzerSeltzer,Sam Cooke,PBS American Masters
+2013-07-30T14:41:11+00:00,566433622,563909871,1,MeltzerSeltzer,Nat King Cole,Extra informational link about Nat King Cole
+2013-07-30T14:38:13+00:00,566433154,564418045,1,MeltzerSeltzer,Julia Child,Extra link about Julia Child from PBS
+2013-07-30T14:36:12+00:00,566432875,566345517,1,MeltzerSeltzer,Ray Charles,"Extra link from American Masters, PBS"
+2013-07-30T14:33:07+00:00,566432458,564981543,1,MeltzerSeltzer,Lon Chaney,Extra link from American Masters
+2013-02-12T18:40:42+00:00,537910838,537454926,0,Khazar2,Aaron Copland,"/* Popular works */clean up, replaced: twenty minute  → twenty-minute using [[Project:AWB|AWB]] (8564)"
+2012-11-16T20:28:03+00:00,523382220,522417689,0,24.119.193.35,Ahmet Ertegun,
+2012-06-23T22:57:42+00:00,499053698,478037970,0,Colonies Chris,Alwin Nikolais,"sp, date & link fixes; unlinking common words, replaced: ’s → 's (5), “ → "" (4), ” → "" (4), [[Southington, Connecticut|Southington]], [[Connecticut]] → [[Southington, Connecticut]], [[Spain]] → Spain (2), [[ using [[Project:AWB|AWB]]"
+2012-02-21T08:31:08+00:00,478037970,478019875,0,Xqbot,Alwin Nikolais,Robot: Adding missing <references /> tag
+2012-10-31T19:59:42+00:00,520794509,520489741,0,198.7.241.125,Allen Ginsberg,
+2012-11-21T06:21:05+00:00,524149159,522903026,0,Spideog,American Masters,/* G */ ''Inventing David Geffen''
+2012-08-30T22:52:09+00:00,510019714,508475739,0,CobraWiki,American Masters,Changed image to SVG format
+2013-05-29T05:16:46+00:00,557289109,557216218,0,Cydebot,American Masters,Robot - Moving category English-language television series to [[:Category:English-language television programming]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2013 March 17]].
+2013-01-19T00:21:59+00:00,533772825,529886758,0,TJRC,American Masters,/* J */ use correctly-spelled URL; note misspelling in title
+2013-07-10T16:54:42+00:00,563689315,563687983,0,186.95.103.81,Alexander Calder,/* Sculpture */
+2012-12-26T22:02:13+00:00,529886758,526641822,0,GoingBatty,American Masters,"bad link repair, replaced: [[Actor's Studio]] → [[Actors Studio]] (2) using [[Project:AWB|AWB]] (8834)"
+2012-07-15T16:10:34+00:00,502443960,499061273,0,Adavidb,American Masters,"Disambiguate [[Lon Chaney]] to [[Lon Chaney, Sr.]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]"
+2013-03-20T03:08:07+00:00,545583738,545292182,0,Addbot,Ahmet Ertegun,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q352760]]"
+2012-07-29T21:20:45+00:00,504827425,503613973,0,InverseHypercube,Allen Ginsberg,unspacing en dash
+2012-07-11T13:09:12+00:00,501716191,500677473,0,Modernist,Alexander Calder,/* Gallery */ return to 4
+2012-11-30T13:59:12+00:00,525701429,525701356,0,ClueBot NG,Aaron Copland,"Reverting possible vandalism by [[Special:Contributions/204.49.244.2|204.49.244.2]] to version by Jonyungk. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1369106) (Bot)"
+2012-06-24T00:10:26+00:00,499061273,498673479,0,83.94.245.162,American Masters,/* Y */
+2013-03-19T16:45:55+00:00,545463297,545462978,0,67.239.60.35,American Masters,/* F */
+2012-06-21T14:49:53+00:00,498673479,498522296,0,JackalLantern,American Masters,Added category
+2012-12-06T02:48:39+00:00,526641822,526638160,0,CAWylie,American Masters,/* References */
+2012-08-07T19:59:20+00:00,506280635,502443960,0,Magioladitis,American Masters,Fix template prefix + general fixes using [[Project:AWB|AWB]] (8232)
+2013-06-18T21:34:42+00:00,560512639,557289109,0,TheOCflash,American Masters,/* R */WIKI - link to Frederic Remington: The Truth of Other Days
+2012-09-24T22:29:59+00:00,514402995,510019714,0,Koumz,American Masters,Disambiguated: [[Group Theatre]] → [[Group Theatre (New York)]]
+2013-03-13T21:00:12+00:00,543924459,540045747,0,Addbot,American Masters,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2842976]]"
+2012-11-13T23:14:41+00:00,522903026,522392556,0,Sus scrofa,American Masters,"/* H */ John Hammond wlink disambiguated, according to the reference given this John Hammond was a record producer born in 1910"
+2012-10-25T21:59:20+00:00,519836188,519815761,0,Magioladitis,American Masters,/* H */clean up using [[Project:AWB|AWB]] (8479)
+2012-10-23T01:20:56+00:00,519307255,514402995,0,Bamyers99,American Masters,/* C */ Removed stray ]]
+2013-03-18T14:41:28+00:00,545220067,545219741,0,67.239.60.35,American Masters,/* P */
+2013-02-24T10:54:50+00:00,540045747,540045612,0,Kennvido,American Masters,/* W */
+2012-05-28T03:14:22+00:00,494719627,494038875,0,Pinkadelica,American Masters,added [[Category:English-language television series]] using [[WP:HC|HotCat]]
+2013-04-23T18:47:38+00:00,551837767,551837580,0,ClueBot NG,Benny Goodman,"Reverting possible vandalism by [[Special:Contributions/167.135.15.251|167.135.15.251]] to version by ResearcherQ. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1605114) (Bot)"
+2013-03-14T17:51:37+00:00,544150214,544134416,0,167.217.152.58,Aretha Franklin,/* All no. 1 hits in US  R&B  100 singles */
+2012-08-21T16:24:19+00:00,508475739,507988655,0,Cydebot,American Masters,Robot - Speedily moving category Programs produced by Thirteen/WNET New York to [[:Category:Television series by WNET]] per [[WP:CFDS|CFDS]].
+2012-11-30T19:02:58+00:00,525741564,525738437,0,Georgeduke,Benny Goodman,/* Childhood and early years */
+2013-02-02T05:23:22+00:00,536141509,536080528,0,BizarreLoveTriangle,Aretha Franklin,"−[[Category:Musicians from Detroit, Michigan]]; −[[Category:People from Detroit, Michigan]]; +[[Category:African-American Christians]] using [[WP:HC|HotCat]]"
+2013-06-01T17:17:13+00:00,557857296,557477933,0,Deflective,Bob Dylan,standardizing IPAc-en calls using [[Project:AWB|AWB]]
+2012-11-08T21:16:16+00:00,522065898,521994809,0,Mick gold,Bob Dylan,/* Legacy */ shorten
+2012-06-04T11:36:49+00:00,495918656,495242775,0,Jan Arkesteijn,Bob Newhart,-+ image
+2012-12-10T21:51:49+00:00,527419416,526823117,0,Mr. Nobody from Nowhere,Bob Newhart,/* Personal comedic style */ Berman accusation
+2013-03-01T05:16:33+00:00,541431872,541430929,0,Acroterion,Buckminster Fuller,"Reverted 1 edit by [[Special:Contributions/203.213.61.186|203.213.61.186]] ([[User talk:203.213.61.186|talk]]): Rv: bad engineering, yes, but ""deranged?"" In any case unsourced opinion. ([[WP:TW|TW]])"
+2013-06-05T15:37:47+00:00,558460028,558460006,0,MusikAnimal,Buckminster Fuller,Reverted edits by [[Special:Contributions/70.88.209.33|70.88.209.33]] ([[User talk:70.88.209.33|talk]]) to last revision by RossPatterson ([[WP:HG|HG]])
+2012-06-30T17:36:43+00:00,500072259,500068583,0,Ssilvers,Carol Burnett,/* Television */ ce
+2012-06-29T00:12:42+00:00,499833884,499562652,0,69.183.55.42,Charlie Parker,/* Addiction */
+2012-09-18T17:56:08+00:00,513407221,511746243,0,Discographer,Charlie Parker,/* External links */ book
+2012-05-25T12:45:03+00:00,494304768,494014240,0,Nikkimaria,Charlie Parker,tr
+2012-08-29T13:57:54+00:00,509773267,509295124,0,108.17.71.21,Charlie Parker,Fixed typos.
+2012-11-18T11:16:46+00:00,523652987,522949847,0,VIAFbot,Cole Porter,Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 5118684: http://viaf.org/viaf/5118684 . Please [[WP:VIAF/errors|report any errors]].
+2013-03-11T13:58:51+00:00,543424816,543423909,0,Autumnalmonk,Cole Porter,Reverted edit(s) by [[Special:Contributions/50.203.58.201|50.203.58.201]] identified as test/vandalism using [[WP:STiki|STiki]]
+2013-03-21T08:32:43+00:00,545929577,545805682,0,Tim riley,Cole Porter,Undid revision 545805682 by [[Special:Contributions/50.90.126.215|50.90.126.215]] ([[User talk:50.90.126.215|talk]])rev to correct page title
+2012-10-25T14:15:44+00:00,519763570,519762636,0,Mrt3366,Duke Ellington,Undid edit(s) by [[Special:Contributions/38.101.133.10|38.101.133.10]] identified as test and/or unhelpful. If my edit is an error please feel free to revert.
+2013-03-11T17:38:45+00:00,543460022,542670804,0,Jaksco,Edward S. Curtis,"/* Critical Reception - in fact, I removed in fact */"
+2013-05-31T08:17:53+00:00,557649919,553804087,0,Omnipaedista,Edward S. Curtis,rm wrong transwiki links
+2013-05-01T21:22:26+00:00,553103024,553078009,0,SummerPhD,Ella Fitzgerald,Reverted 1 edit by [[Special:Contributions/4.28.35.210|4.28.35.210]] ([[User talk:4.28.35.210|talk]]) to last revision by Flyer22. ([[WP:TW|TW]])
+2013-06-12T00:02:10+00:00,559469711,559344247,0,Nehrams2020,Carol Burnett,added new Wikimedia Commons image
+2013-02-10T15:30:52+00:00,537552782,537547945,0,Lowercase sigmabot,Duke Ellington,Adding protection templates) (bot
+2013-05-20T08:55:17+00:00,555917524,555682554,0,76.168.85.107,Cole Porter,/* Notable songs */
+2013-06-17T05:11:24+00:00,560252564,559572107,0,FrescoBot,Cab Calloway,Bot: [[User:FrescoBot/Links|link syntax/spacing]] and minor changes
+2012-10-22T10:28:25+00:00,519178877,517034540,0,88.207.229.178,Ella Fitzgerald,/* Tributes and legacy */
+2013-06-30T11:49:43+00:00,562236488,561465209,0,Qwerty Binary,Eugene O'Neill,/* Early years */ Clean up.
+2013-02-21T14:30:55+00:00,539424613,537704321,0,Addbot,Eugene O'Neill,"[[User:Addbot|Bot:]] Migrating 58 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q93157]] ([[User talk:Addbot|Report Errors]])"
+2013-03-05T17:01:37+00:00,542230498,542230432,0,Dawn Bard,F. Scott Fitzgerald,Rejected the last text change (by [[Special:Contributions/208.180.10.130|208.180.10.130]]) and restored revision 541495757 by Dick Shane
+2013-02-10T03:08:24+00:00,537483415,537483083,0,BizarreLoveTriangle,F. Scott Fitzgerald,added [[Category:Burials in Maryland]] using [[WP:HC|HotCat]]
+2013-06-23T02:12:46+00:00,561143303,558288382,0,108.7.59.192,Frank Gehry,s/which/that/
+2012-09-30T12:34:30+00:00,515301270,515300255,0,Modernist,Frank Gehry,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/90.193.139.122|90.193.139.122]] ([[User talk:90.193.139.122|talk]]) to last version by 99.239.248.41
+2012-11-08T16:44:42+00:00,522024423,522024256,0,Postdlf,Georgia O'Keeffe,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/81.153.63.62|81.153.63.62]] ([[User talk:81.153.63.62|talk]]) to last version by Ekabhishek
+2013-07-20T23:00:53+00:00,565114869,564240150,0,Tassedethe,George Cukor,"[[:en:WP:CLEANER|WPCleaner]] v1.28 - Repaired 2 links to disambiguation page - [[WP:DPL|(You can help)]] - [[Gaslight (film)]], [[Zaza (film)]]"
+2012-10-05T16:26:02+00:00,516171489,516171472,0,Favonian,George Gershwin,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/168.170.203.138|168.170.203.138]] ([[User talk:168.170.203.138|talk]]) to last version by A. B.
+2012-10-13T17:46:58+00:00,517603230,517600690,0,AnomieBOT,Glenn Gould,Dating maintenance tags: {{Toomanylinks}}
+2012-11-22T18:39:33+00:00,524391479,523928473,0,VIAFbot,Glenn Gould,Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 54148399: http://viaf.org/viaf/54148399 . Please [[WP:VIAF/errors|report any errors]].
+2012-09-13T16:35:43+00:00,512206482,512206454,0,ClueBot NG,Georgia O'Keeffe,"Reverting possible vandalism by [[Special:Contributions/152.26.74.5|152.26.74.5]] to version by Bkwalls. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1211776) (Bot)"
+2013-04-22T11:18:29+00:00,551612924,551607295,0,Keith D,Gregory Peck,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/91.85.33.63|91.85.33.63]] ([[User talk:91.85.33.63|talk]]) to last version by Tolly4bolly
+2012-12-21T09:07:29+00:00,529092349,528882602,0,24.4.209.44,Gregory Peck,"/* Film */ added the very significant ""The Man in the Gray Flannel Suit)"" to list"
+2013-01-17T22:41:18+00:00,533599305,533599284,0,ClueBot NG,Gregory Peck,"Reverting possible vandalism by [[Special:Contributions/151.226.156.231|151.226.156.231]] to version by Keith D. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1451787) (Bot)"
+2013-04-21T12:57:05+00:00,551451120,550760470,0,Thomas Peardew,George Cukor,/* Personal life */ Add reference to Walpole
+2012-11-03T22:02:34+00:00,521265130,521264983,0,Bossanoven,George Gershwin,Undid revision 520981943 by [[Special:Contributions/98.244.127.119|98.244.127.119]] ([[User talk:98.244.127.119|talk]])
+2012-12-13T00:19:15+00:00,527783556,527545877,0,SporkBot,Gregory Peck,Remove template per [[Wikipedia:Templates for discussion/Log/2012 December 4|TFD outcome]]
+2012-08-20T21:56:24+00:00,508356215,508341499,0,Fat&Happy,Gregory Peck,
+2013-02-02T11:41:43+00:00,536173862,534541229,0,MovieBuff74,Gregory Peck,added [[Category:20th Century Fox contract players]] using [[WP:HC|HotCat]]
+2012-06-27T05:39:49+00:00,499557286,497847397,0,Mallexikon,I. M. Pei,"/* Childhood */  correcting founder's religion, cf [[Lion Grove Garden]]"
+2012-10-06T11:00:31+00:00,516294383,514043680,0,Little Professor,Jack Paar,/* Prime time */
+2013-06-03T16:51:58+00:00,558152544,555328269,0,1archie99,Jack Paar,/* External links */ Expanding article
+2012-09-13T02:38:23+00:00,512111868,511140462,0,70.160.253.205,James Baldwin,
+2013-01-20T05:10:38+00:00,533959642,532640361,0,Randi75,Jack Paar,/* Early career */
+2013-02-14T17:53:07+00:00,538259896,537781529,0,96.24.159.17,James Baldwin,/* Religion */
+2013-02-14T08:02:01+00:00,538186846,537953393,0,Mmlov,James Brown,
+2012-09-29T18:49:35+00:00,515190581,514746898,0,Goethean,James Brown,/* 1967–1969: Soul Brother No. 1 */ sp
+2012-06-16T15:49:32+00:00,497882713,496273011,0,NewTestLeper79,James Dean,/* Death */ day unnecessary
+2013-01-20T03:50:19+00:00,533950576,533715107,0,108.226.32.234,James Dean,Song lyrics by Rob Zarro
+2013-04-11T19:14:51+00:00,549891492,549889048,0,67.183.192.88,Joan Baez,
+2013-01-25T02:16:32+00:00,534756604,533939057,0,108.29.27.68,Jeff Bridges,/* Music */
+2012-09-20T04:14:35+00:00,513637068,513636857,0,24.10.250.65,Jeff Bridges,/* Personal life */
+2012-06-22T14:53:42+00:00,498840746,495934709,0,Wikicaption,John Cage,
+2012-11-26T21:24:40+00:00,525020394,525020384,0,Lugia2453,John Cage,Reverted edits by [[Special:Contributions/82.6.217.239|82.6.217.239]] ([[User talk:82.6.217.239|talk]]) to last revision by GoShow ([[WP:HG|HG]])
+2013-04-29T19:02:00+00:00,552769847,552769119,0,173.52.252.205,Joan Baez,/* 2000s-2010s */ update
+2012-07-25T05:16:06+00:00,504065747,503423213,0,Corbeau1,John Ford,/* Personality */
+2012-12-20T13:30:32+00:00,528955992,528955700,0,Beardfrun,I. M. Pei,
+2012-09-21T00:27:42+00:00,513799765,513799750,0,ClueBot NG,John James Audubon,"Reverting possible vandalism by [[Special:Contributions/98.64.5.107|98.64.5.107]] to version by 167.206.190.114. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1226623) (Bot)"
+2012-11-14T17:36:47+00:00,523019449,522886093,0,Vcohen,John James Audubon,typos
+2013-02-25T23:47:53+00:00,540400708,540398261,0,Mandarax,José Clemente Orozco,Undid edits by [[Special:Contributions/187.140.150.67|187.140.150.67]] ([[User talk:187.140.150.67|talk]]); rv to last version by Addbot – This is the English Wikipedia
+2013-05-07T08:35:45+00:00,553919687,552897419,0,Yobot,José Clemente Orozco,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (9120)
+2013-05-24T15:10:22+00:00,556593685,555718534,0,Quebec99,Julia Child,fixed references
+2012-11-06T10:37:05+00:00,521651083,521627572,0,RobertG,Judy Garland,"her death and funeral weren't the same date: I think this is what was intended - also ""and based on"" didn't connect to anything, is this what was meant?"
+2012-12-29T02:27:05+00:00,530235181,530234543,0,Tal1962,Judy Garland,/* Gay icon */
+2013-01-31T23:49:01+00:00,535942114,534101766,0,Johnpacklambert,Lillian Gish,"/* External links */ moved to actress cats, not a 19th-century writer"
+2012-06-19T19:49:07+00:00,498386511,495976812,0,GrouchoBot,Julia Child,r2.7.2) (Robot: Adding [[ar:جوليا تشايلد]]
+2013-01-18T11:42:31+00:00,533678458,533069546,0,Jameboy,Leonard Bernstein,/* 1951–1959 */ [[WP:EDITORIAL]]
+2012-07-24T21:47:26+00:00,504015779,504010983,0,MarnetteD,Lon Chaney,clairfy as he did not go by this name in Lon's lifetime
+2013-06-10T05:20:42+00:00,559178117,559044951,0,210.56.86.131,Lillian Gish,
+2013-06-29T23:12:10+00:00,562174232,560984510,0,24.16.117.121,Leonard Bernstein,/* 1960–1969 */
+2012-06-27T10:52:12+00:00,499584612,499192527,0,Loeba,Lon Chaney,added [[Category:Metro-Goldwyn-Mayer contract players]] using [[WP:HC|HotCat]]
+2013-05-08T16:47:23+00:00,554153732,554149795,0,Johnpacklambert,Louisa May Alcott,removed [[Category:American novelists]] using [[WP:HC|HotCat]] Already in the by century category
+2013-04-09T21:47:52+00:00,549581261,549576190,0,Shearonink,Lucille Ball,Reverted to revision 546411577 by Sjones23: unsourced edit. ([[WP:TW|TW]])
+2012-11-29T19:44:14+00:00,525581498,523456689,0,64.26.76.130,Louisa May Alcott,/* Childhood and early work */
+2012-08-06T16:46:27+00:00,506089377,505995580,0,MrDolomite,Lucille Ball,/* Legacy and posthumous recognition */ link [[Hollywood Walk of Fame]]
+2013-07-06T07:04:13+00:00,563074376,562510785,0,AndyFielding,Lucille Ball,"The previous paragraph ends with a reference to Angela Lansbury, so ""she"" here was ambiguous."
+2013-01-16T19:03:25+00:00,533405024,532754868,0,R'n'B,Lucille Ball,Fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Duplex]]
+2013-04-24T06:53:17+00:00,551920134,551858944,0,Michael Bednarek,Martha Graham,"Undid revision 551858944 by [[Special:Contributions/69.136.206.160|69.136.206.160]] ([[User talk:69.136.206.160|talk]]): restore 1954 as the year of her divorce from [[Erick Hawkins]], consistent with that article."
+2013-04-28T20:59:34+00:00,552622373,551920134,0,99.113.76.42,Martha Graham,/* New era in dance */
+2013-06-14T20:06:09+00:00,559923128,559877681,0,81.178.164.246,Marvin Gaye,
+2013-04-16T05:20:55+00:00,550595525,548885849,0,174.106.248.207,Mike Nichols,
+2013-06-18T20:42:16+00:00,560505504,559923128,0,111.69.25.100,Marvin Gaye,/* Early career */
+2012-12-03T15:05:39+00:00,526178242,525798307,0,95.178.226.83,Miloš Forman,
+2012-09-02T13:25:20+00:00,510425869,510295494,0,Peterhoneyman,Merce Cunningham,/* Biography */ '
+2013-02-04T02:29:29+00:00,536450874,536450799,0,Pinkadelica,Nat King Cole,Added {{[[Template:ref improve|ref improve]]}} tag to article ([[WP:TW|TW]])
+2013-06-04T20:43:54+00:00,558343940,558342626,0,Marmarra,Negro Ensemble Company,/* Notable alumni */
+2013-05-17T22:56:30+00:00,555579832,555567945,0,Ladyofsongandverse,Nat King Cole,
+2013-01-20T19:36:42+00:00,534044324,519310196,0,Chris the speller,Negro Ensemble Company,sp
+2013-02-22T20:43:10+00:00,539745815,537951084,0,Addbot,Merce Cunningham,"[[User:Addbot|Bot:]] Migrating 21 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q318364]] ([[User talk:Addbot|Report Errors]])"
+2013-04-16T19:18:18+00:00,550687862,550687354,0,XLinkBot,Miloš Forman,BOT--Reverting link addition(s) by [[:en:Special:Contributions/94.113.153.76|94.113.153.76]] to revision 548974275 (http://www.facebook.com/milosforman [\bfacebook\.com])
+2013-02-04T15:38:36+00:00,536532021,535938834,0,173.49.142.213,Mike Nichols,/* Early life and education */ the move to New York City came after they had already fled the Nazis and were in the US
+2012-08-02T15:29:50+00:00,505436835,505388212,0,Malik Shabazz,Phil Ochs,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/209.6.149.160|209.6.149.160]] ([[User talk:209.6.149.160|talk]]): Isn't that what a hit means? ([[WP:TW|TW]])
+2012-07-19T06:24:17+00:00,503076967,503076895,0,Malik Shabazz,Phil Ochs,/* 1971–1975 */  wasn't --> was not
+2013-02-11T01:09:11+00:00,537632372,537632017,0,All Hallow's Wraith,Philip Glass,
+2013-06-01T23:28:40+00:00,557896567,557645499,0,Marosc9,Philip Glass,"/* Chamber music, concertos and symphonies (2008–present) */"
+2013-03-21T17:40:20+00:00,546035225,546032338,0,Voceditenore,Plácido Domingo,"pruning utter, uncontextualised, and dubious trivia, add book to further reading"
+2012-12-27T01:18:11+00:00,529909889,529876050,0,Deskford,Plácido Domingo,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Thehelpfulbot|Thehelpfulbot]] ([[User talk:Thehelpfulbot|talk]]) to last version by 71.166.131.92
+2013-03-23T20:22:08+00:00,546604399,541643590,0,99.135.136.137,Ralph Ellison,
+2013-06-05T15:14:14+00:00,558456873,557703602,0,Lorrainx,Ray Charles,
+2012-09-27T20:21:16+00:00,514871822,514771350,0,75.167.225.182,Richard Avedon,/* Early life and education */
+2013-06-26T08:27:59+00:00,561639274,561638252,0,Mandarax,Robert Rauschenberg,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/109.174.157.238|109.174.157.238]] ([[User talk:109.174.157.238|talk]]) to last version by Modernist
+2013-07-08T23:41:02+00:00,563446887,563432851,0,Flat Out,Ray Charles,Reverted 1 edit by [[Special:Contributions/190.233.208.160|190.233.208.160]] ([[User talk:190.233.208.160|talk]]) to last revision by Flat Out. ([[WP:TW|TW]])
+2012-09-06T02:13:46+00:00,511008353,508756812,0,Courcelles,Robert Rauschenberg,/* External links */Moving [[Category:Grammy Award winners]] to [[Category:Grammy Award-winning artists]] per [[Wikipedia:Categories for discussion/Log/2012 September 2]] using [[Project:AWB|AWB]]
+2013-03-12T17:11:33+00:00,543658415,543436328,0,Anthony22,Richard Avedon,"in info box, highlighted ""Photography"" as entry for Occupation"
+2012-11-25T10:06:35+00:00,524774170,524774027,0,Fc554j,Sam Cooke,
+2013-06-09T06:12:50+00:00,559016587,559014366,0,Materialscientist,Sidney Poitier,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/John Richards (USA)|John Richards (USA)]] ([[User talk:John Richards (USA)|talk]]) to last version by YousufMiah
+2012-06-03T13:04:05+00:00,495764939,492103727,0,Grafen,Stella Adler,"clean up, replaced: protege → protégé (2) using [[Project:AWB|AWB]]"
+2012-09-16T14:08:20+00:00,512898608,512275928,0,Tabledhote,Samuel Goldwyn,/* Goldwynisms */ formatting
+2013-07-16T03:34:46+00:00,564453587,563172001,0,Adam9389,Sidney Poitier,/* Early life */ Minor grammatical correction.
+2013-01-03T18:08:46+00:00,531120845,531120172,0,Smoovedogg,Sam Cooke,/* Early life and career */ Jesus Gave Me Water - first recording in 1951.  Sam was actually 20 at the time.  Source included.
+2013-02-06T23:32:11+00:00,536961355,536309823,0,2001:558:6045:CD:458F:2872:AD46:EC53,Samuel Goldwyn,/* Samuel Goldwyn Productions */
+2012-12-11T02:48:03+00:00,527461687,527110782,0,Johnpacklambert,Stella Adler,added [[Category:20th-century actors]] using [[WP:HC|HotCat]]
+2013-02-14T21:52:44+00:00,538297331,529522391,0,Moriori,Talk:Willie Nelson,Cissy Houston?
+2013-02-03T20:46:19+00:00,536409680,536276195,0,LittleWink,The Doors,[[:en:WP:CLEANER|WPCleaner]] v1.24 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Heavy metal]]
+2012-08-20T08:36:32+00:00,508256195,503659491,0,92.7.19.74,Talk:Willie Nelson,/* Emphysema */ new section
+2012-09-06T09:48:37+00:00,511044656,510924656,0,Augustinosc,The Doors,
+2013-02-01T13:09:15+00:00,536019631,532612198,0,Smiles Aloud,Thomas Eakins,/* The figure */ link correction
+2012-07-05T08:37:11+00:00,500769118,493989426,0,Sun Creator,Thomas Eakins,"[[WP:AWB/T|Typo fixing]] and [[WP:GENFIXES|General]], typos fixed: life-long → lifelong using [[Project:AWB|AWB]]"
+2012-06-04T01:21:58+00:00,495863990,494857838,0,71.77.5.143,Truman Capote,
+2012-06-10T17:57:36+00:00,496933149,495863990,0,Nobaddude,Truman Capote,/* Friendship with Harper Lee */
+2013-06-11T07:00:03+00:00,559350795,558037352,0,Aboutmovies,Truman Capote,"removed [[Category:People from New Orleans, Louisiana]]; added [[Category:Writers from New Orleans, Louisiana]] using [[WP:HC|HotCat]]"
+2012-11-27T18:57:50+00:00,525185600,525101487,0,Insomesia,Truman Capote,Undid revision 525101487 by [[Special:Contributions/145.107.11.58|145.107.11.58]] ([[User talk:145.107.11.58|talk]])
+2012-09-17T01:20:55+00:00,513028252,496497868,0,Cydebot,User talk:AmMasters,Robot - Moving category Wikipedia users who received a Teahouse invitation through AfC to [[:Category:Wikipedians who have received a Teahouse invitation through AfC]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2012 August 26]].
+2013-03-22T00:36:57+00:00,546133288,546132522,0,Shearonink,User talk:Mdann52,/* Please tell me... */ and something else...
+2013-01-02T22:22:26+00:00,530987816,530974500,0,SpeedReader,User talk:Mdann52,/* AFC Drive */
+2013-04-12T16:34:23+00:00,550023768,549836080,0,MiszaBot III,User talk:Mdann52,"Robot: Archiving 2 threads (older than 10d) to [[User talk:Mdann52/Archive 6]], [[User talk:Mdann52/Archive 5]]."
+2013-06-03T19:43:27+00:00,558175077,558175022,0,MicheleYD,User talk:Mdann52,/* Western & Southern */
+2012-06-14T15:43:46+00:00,497566233,497551697,0,Mdann52,User talk:Mdann52,/* Response to not completeing the request to change his club status to Lille. */
+2013-04-03T10:30:03+00:00,548463824,548463723,0,SineBot,User talk:Mdann52,"Signing comment by [[User:Hors-la-loi|Hors-la-loi]] - ""Draft article on John Carteret Pilkington"""
+2013-04-17T10:02:47+00:00,550783411,550684895,0,Mdann52,User talk:Mdann52,/* The note you posted and then removed */ r
+2012-12-21T17:06:07+00:00,529136558,529136473,0,Haploidavey,User talk:Mdann52,/* List of Greek mythological creatures */ ce
+2013-02-02T02:07:24+00:00,536121674,535723810,0,Jenbencan,Woody Allen,/* Comedy writer */ changed which to that for a restrictive clause.
+2012-11-05T00:53:57+00:00,521440279,521436148,0,Cresix,Woody Allen,Reverted 1 edit by [[Special:Contributions/151.204.254.43|151.204.254.43]] ([[User talk:151.204.254.43|talk]]): Fails verfication by source. ([[WP:TW|TW]])
+2013-01-17T21:17:55+00:00,533587712,532549913,0,John of Reading,Aaron Copland,"Typo/[[WP:AWB/GF|general]] fixing, [[WP:AWB/T|typos fixed]]: acessible → accessible using [[Project:AWB|AWB]] (8853)"
+2012-07-31T01:18:12+00:00,505023292,504827425,0,149.43.96.8,Allen Ginsberg,/* Involvement in exposing CIA's drug trafficking */
+2013-05-11T22:56:34+00:00,554658610,554658279,0,Gareth Griffith-Jones,Alexander Calder,/* Life and career */ Rm. nonsense ...
+2012-03-01T01:31:56+00:00,479574896,479574866,0,Thirdright,Aaron Copland,Reverted edits by [[Special:Contributions/50.103.39.32|50.103.39.32]] ([[User talk:50.103.39.32|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])
+2012-09-01T16:29:48+00:00,510295797,499053698,0,68.236.159.54,Alwin Nikolais,/* Life */
+2013-04-29T23:44:55+00:00,552806716,552788731,0,Reify-tech,Alexander Calder,Reverted 2 edits by [[Special:Contributions/71.57.174.248|71.57.174.248]] ([[User talk:71.57.174.248|talk]]): Unreferenced changes. ([[WP:TW|TW]])
+2012-09-13T18:56:07+00:00,512228508,512228413,0,Intelati,Allen Ginsberg,Reverted edits by [[Special:Contributions/165.139.169.216|165.139.169.216]] ([[User talk:165.139.169.216|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])
+2013-05-15T21:31:59+00:00,555274211,555274197,0,DerHexer,Alwin Nikolais,Reverted edits by [[Special:Contributions/97.84.204.52|97.84.204.52]] ([[User talk:97.84.204.52|talk]]) to last revision by Wikipelli ([[WP:HG|HG]])
+2012-09-14T20:40:36+00:00,512482805,510994658,0,68.53.106.183,Ahmet Ertegun,/* Early career */
+2012-12-04T04:33:06+00:00,526286152,524189256,0,74.240.203.110,Ahmet Ertegun,/* Later career */
+2012-12-13T23:50:33+00:00,527935836,527096177,0,Writ Keeper,Allen Ginsberg,moving and slightly rearranging health subsection; made no sense where it was
+2012-04-09T17:40:03+00:00,486466494,486466225,0,99.137.202.253,Alexander Calder,/* Selected works */
+2012-04-28T03:28:20+00:00,489569670,489569154,0,Antandrus,Aaron Copland,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/99.29.151.61|99.29.151.61]] ([[User talk:99.29.151.61|talk]]) to last version by JackofOz
+2013-04-07T01:28:02+00:00,549082993,548989280,0,24.151.108.3,Alexander Calder,/* External links */
+2012-11-30T05:35:52+00:00,525658267,523976970,0,Yoman82,Allen Ginsberg,
+2012-03-13T15:34:09+00:00,481695097,481491736,0,PKT,American Masters,"Disambiguated: [[Lon Chaney]] → [[Lon Chaney, Sr.]]"
+2012-04-30T07:09:58+00:00,489911195,489797607,0,Logan,American Masters,Unlinked: [[Susan Lacy]] (2) using [[tools:~dispenser/view/Dab_solver|Dab solver]]
+2012-02-03T18:55:50+00:00,474832209,472327309,0,Dwanyewest,American Masters,/* External links */
+2012-04-15T01:31:04+00:00,487432227,481695097,0,209.255.241.162,American Masters,/* J */ added Juilliard School
+2012-05-15T02:54:57+00:00,492630516,489911195,0,Barrympls,American Masters,/* C */
+2012-03-12T10:22:25+00:00,481491736,481491577,0,68.51.87.188,American Masters,
+2013-06-29T04:48:16+00:00,562065528,560875869,0,Viniciusmc,Aretha Franklin,img
+2012-06-07T02:26:05+00:00,496371439,496371335,0,Jim1138,Bob Dylan,Reverted edits by [[Special:Contributions/71.62.209.227|71.62.209.227]] ([[User talk:71.62.209.227|talk]]) addition of [[WP:References|unsourced]] content ([[WP:HG|HG]])
+2012-09-18T19:23:57+00:00,513419578,511250283,0,Jax 0677,Benny Goodman,/* External links */ +{{Benny Goodman}}
+2013-06-27T01:15:28+00:00,561755950,559033890,0,ChrisGualtieri,Benny Goodman,General Fixes + MOS + MDY changes using [[Project:AWB|AWB]]
+2012-11-25T00:50:48+00:00,524727029,524300902,0,Lockesdonkey,Aretha Franklin,/* Later work (1999-present) */
+2012-03-07T03:56:21+00:00,480604318,480600299,0,SkyMachine,Benny Goodman,Reverted 2 edits by [[Special:Contributions/143.44.68.234|143.44.68.234]] ([[User talk:143.44.68.234|talk]]): Unexplained removal of content. ([[WP:TW|TW]])
+2012-10-12T06:21:25+00:00,517333287,515149901,0,Braincricket,Buckminster Fuller,"clean up, [[WP:AWB/T|typos fixed]]: self supporting → self-supporting using [[Project:AWB|AWB]] (8414)"
+2012-03-24T08:26:55+00:00,483660041,482978826,0,Helpful Pixie Bot,Bob Newhart,ISBNs (Build J/)
+2012-03-01T01:33:43+00:00,479575076,479145893,0,99.3.65.185,Bob Newhart,/* Newhart */ grammar
+2012-08-27T23:45:13+00:00,509515904,507727168,0,Dlsnider,Bob Newhart,
+2012-12-11T21:21:52+00:00,527598922,527419416,0,50.14.53.235,Bob Newhart,/* Writings */
+2012-06-29T17:39:36+00:00,499939910,498136473,0,209.6.71.32,Benny Goodman,/* Later years */
+2012-07-01T19:32:10+00:00,500220012,500210235,0,EncMstr,Buckminster Fuller,Reverted 2 edits by [[Special:Contributions/74.99.78.49|74.99.78.49]] ([[User talk:74.99.78.49|talk]]): Unexplained removals. ([[WP:TW|TW]])
+2012-08-26T01:35:55+00:00,509176122,508581760,0,Bede735,Bob Dylan,/* Discography */
+2012-05-09T15:08:33+00:00,491610226,490534173,0,76.169.209.27,Buckminster Fuller,/* Housing */
+2013-07-05T20:29:06+00:00,563019699,562440743,0,Skyerise,Buckminster Fuller,/* Quirks */ rmxsws
+2012-09-01T20:43:21+00:00,510330537,510330277,0,Truthanado,Carol Burnett,"c/e, wikilink"
+2012-08-01T07:49:30+00:00,505224585,504737782,0,24.2.207.155,Carol Burnett,/* Personal life */
+2012-10-07T05:12:32+00:00,516427769,516427573,0,70.68.46.109,Carol Burnett,/* Television */
+2012-07-15T12:58:24+00:00,502413381,497402136,0,88.114.249.10,Cab Calloway,
+2012-11-15T08:27:27+00:00,523124435,523121579,0,Donner60,Charlie Parker,Reverted 1 edit by [[Special:Contributions/93.220.118.106|93.220.118.106]] ([[User talk:93.220.118.106|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Matthew Fennell. ([[WP:TW|TW]])
+2013-04-05T00:39:44+00:00,548754679,548643676,0,DutchmanInDisguise,Charlie Parker,title for birdlives ref
+2012-03-25T15:30:06+00:00,483857557,483756127,0,99.176.15.62,Charlie Parker,"/* Charlie Parker with strings */ Capitialized Strings, as it was the official name of the albums from these recording sessions."
+2012-07-07T14:30:52+00:00,501103998,501047796,0,Renamed user 995577823Xyn,Carol Burnett,/* The Carol Burnett Show */ added free use photo
+2012-08-12T09:23:26+00:00,507013552,506707980,0,Ninmacer20,Charlie Parker,Added extra information to his biography.
+2012-06-22T15:06:46+00:00,498842537,496544178,0,Thumper2,Cole Porter,"/* Notable songs */ ""Where Have You Been?"" added to 'The New Yorkers'"
+2012-08-05T16:04:01+00:00,505920189,505916047,0,Theopolisme,Cole Porter,"unsourced, Reverted edit(s) by [[Special:Contributions/99.192.45.168|99.192.45.168]] identified as unconstructive using [[WP:STiki|STiki]]"
+2012-12-18T17:13:59+00:00,528659388,525199988,0,67.221.183.17,Cole Porter,spelling
+2012-05-09T17:03:46+00:00,491631544,482616178,0,Helpful Pixie Bot,Edward S. Curtis,ISBNs (Build KE)
+2012-09-24T14:19:49+00:00,514322779,514322046,0,Rosalina523,Cole Porter,fixed disambig links
+2013-04-14T06:53:18+00:00,550269237,550266370,0,Philip Cross,Duke Ellington,"Undid revision 550266370 by [[Special:Contributions/DavidESpeed|DavidESpeed]] ([[User talk:DavidESpeed|talk]]) [[WP:UNDUE|undue weight]], this material belongs in Clare Fischer's article"
+2013-03-08T17:56:10+00:00,542859174,542422088,0,Epeefleche,Duke Ellington,/* Early career */ ce
+2012-08-19T05:24:01+00:00,508088021,506664265,0,ShelfSkewed,Duke Ellington,"fix isbns, rm notices"
+2012-03-03T11:46:16+00:00,479965818,479731912,0,Ground Zero,Edward S. Curtis,[[WP:OVERLINK]]
+2012-12-13T11:08:45+00:00,527843656,527717789,0,98.17.86.173,Ella Fitzgerald,/* Later life */
+2013-07-20T09:15:00+00:00,565032082,564828298,0,100.2.13.111,Eugene O'Neill,
+2012-10-24T02:01:42+00:00,519495927,519495300,0,Moe Epsilon,Ella Fitzgerald,Reverted edit(s) by [[Special:Contributions/98.144.113.80|98.144.113.80]] identified as test/vandalism using [[WP:STiki|STiki]].
+2012-09-06T03:01:59+00:00,511013578,511013418,0,Ponyo,Ella Fitzgerald,Undid revision 511013418 by [[Special:Contributions/98.248.82.167|98.248.82.167]] ([[User talk:98.248.82.167|talk]]) see reference #3
+2013-06-09T16:29:20+00:00,559085055,554378781,0,TonyTheTiger,Eugene O'Neill,/* External links */  {{Anna Christie}}
+2012-04-02T04:22:03+00:00,485103757,483402925,0,Don4of4,Eugene O'Neill,General Cleanup
+2012-04-30T22:23:55+00:00,490025249,485103757,0,SmartyBoots,Eugene O'Neill,Style
+2012-12-15T19:55:59+00:00,528199184,527871770,0,107.10.253.174,F. Scott Fitzgerald,/* Zelda Fitzgerald */
+2012-03-31T06:37:39+00:00,484809311,480238354,0,ZéroBot,George Cukor,r2.7.1) (Robot: Adding [[ko:조지 큐커]]
+2012-07-02T07:02:19+00:00,500294358,495423164,0,Alishakitty,Frank Gehry,/* Architectural style */
+2013-01-30T22:58:54+00:00,535769265,530554111,0,Gerakibot,George Cukor,r2.7.1) (Robot: Adding [[el:Τζορτζ Κιούκορ]]
+2013-04-06T19:56:05+00:00,549042960,547774094,0,Mmqcontrary,George Cukor,"Added ""Gaslight"" to movie list in opening paragraph"
+2013-06-07T23:20:42+00:00,558832565,556834158,0,98.14.254.184,George Cukor,
+2012-08-05T00:59:23+00:00,505828953,503400337,0,ImageRemovalBot,Frank Gehry,Removing links to deleted file [[:File:Peter-B-Lewis-Building.jpg]]
+2012-10-08T03:47:51+00:00,516575198,515301270,0,99.236.30.31,Frank Gehry,
+2012-04-19T17:31:43+00:00,488201097,488201037,0,Sjones23,George Gershwin,/* Opera */ agh...!
+2012-03-05T16:53:21+00:00,480345552,480345242,0,Flami72,George Gershwin,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/24.147.126.195|24.147.126.195]] ([[User talk:24.147.126.195|talk]]) to last version by Epbr123
+2012-05-22T15:50:11+00:00,493838837,493537673,0,Tom,George Gershwin,reword lead; more wlinks; less emphasis on death
+2013-06-13T18:46:07+00:00,559761651,559761516,0,Beerest355,Georgia O'Keeffe,Reverted 1 edit by [[Special:Contributions/5.66.180.136|5.66.180.136]] ([[User talk:5.66.180.136|talk]]) to last revision by Shearonink. ([[WP:TW|TW]])
+2012-06-14T14:30:03+00:00,497556309,497405771,0,Lotje,Georgia O'Keeffe,Filling in 1 references using [[WP:REFLINKS|Reflinks]]
+2013-03-11T15:47:18+00:00,543440846,543435683,0,Soundofmusicals,George Gershwin,Undid revision 543435683 by [[Special:Contributions/24.239.128.97|24.239.128.97]] ([[User talk:24.239.128.97|talk]]) Revert good faith but inappropriate comment
+2012-12-19T10:11:39+00:00,528781088,527831861,0,175.142.19.159,Glenn Gould,/* Juno Awards */
+2013-03-11T18:10:01+00:00,543465383,543465084,0,Fraggle81,Georgia O'Keeffe,Reverted edit(s) by [[Special:Contributions/205.122.8.79|205.122.8.79]] using [[WP:STiki|STiki]]
+2012-06-18T06:12:42+00:00,498133172,498052458,0,Markinboone,Gregory Peck,"/* Personal life */  added link for Catholic Church's position on abortion, and corrected link for ordination of women"
+2013-05-28T04:21:32+00:00,557120236,557119308,0,Toccata quarta,Glenn Gould,ce
+2012-09-29T02:22:48+00:00,515094321,511166245,0,65.92.109.234,Gregory Peck,
+2013-07-01T16:32:41+00:00,562415448,562397393,0,Afterwriting,Glenn Gould,/* Awards */  Style
+2013-04-23T14:55:25+00:00,551804980,551804287,0,Toccata quarta,Glenn Gould,[[WP:CAP]]; ce.
+2012-09-07T02:57:17+00:00,511166245,510519436,0,68.149.176.192,Gregory Peck,/* Later work */
+2012-04-08T20:59:23+00:00,486318328,486207728,0,Monkeyzpop,Gregory Peck,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/64.201.128.30|64.201.128.30]] ([[User talk:64.201.128.30|talk]]) to last version by 99.24.203.76
+2013-03-19T20:26:31+00:00,545507637,545087155,0,Tktktk,Gregory Peck,/* Stage */ fix date; add ref
+2012-05-10T16:24:19+00:00,491826349,491119126,0,Helpful Pixie Bot,Gregory Peck,ISBNs (Build KE)
+2013-05-25T22:51:35+00:00,556790372,556761472,0,Cyphoidbomb,Gregory Peck,"Undid revision 556761472 by [[Special:Contributions/81.98.167.180|81.98.167.180]] ([[User talk:81.98.167.180|talk]]) Peck was an American, so American-English is appropriate."
+2012-03-15T23:54:18+00:00,482111930,482110972,0,RichardMills65,Gregory Peck,typo correction
+2012-10-06T18:19:00+00:00,516347409,515094321,0,92.7.3.133,Gregory Peck,
+2013-07-01T17:33:24+00:00,562422925,562410141,0,Sjban,I. M. Pei,/* External links */
+2012-06-16T10:27:06+00:00,497847397,495393301,0,DITWIN GRIM,I. M. Pei,/* Le Grand Louvre */ better picture
+2012-04-30T21:42:33+00:00,490019562,489986386,0,Wikiklrsc,I. M. Pei,Undid revision 489986386 by [[Special:Contributions/90.200.219.186|90.200.219.186]] ([[User talk:90.200.219.186|talk]])
+2013-04-26T08:34:05+00:00,552244342,552244274,0,93.167.80.7,I. M. Pei,
+2012-04-04T06:35:43+00:00,485464641,482085289,0,Jamie7687,Jack Paar,"/* Retrospectives */ ""lead"" -> ""led"" (past-tense verb)"
+2012-12-14T15:08:46+00:00,528020318,524976107,0,Accubam,Jack Paar,/* The Tonight Show */
+2012-06-16T03:42:25+00:00,497815135,495554592,0,Pauldionne,Jack Paar,/* Personal life */
+2012-03-09T14:39:11+00:00,481007404,480400554,0,198.83.125.107,James Baldwin,/* Early life */  added a space
+2013-01-05T02:48:47+00:00,531384444,531378618,0,Richardguk,James Baldwin,Revert to revision 528654713 dated 2012-12-18 16:38:07 by Earthseed using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2013-07-21T07:09:34+00:00,565154625,565154013,0,Flyer22 Frozen,James Dean,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Hunterjessica59|Hunterjessica59]] ([[User talk:Hunterjessica59|talk]]) to last version by Zythe
+2012-03-06T03:25:13+00:00,480435465,480434028,0,PorshaBoy,James Dean,"/* The ""curse"" of ""Little Bastard"" */  removed prior reference number that has been superceded by another source reference"
+2012-05-12T21:01:46+00:00,492261279,492042304,0,Helpful Pixie Bot,James Brown,ISBNs (Build KH)
+2012-07-10T10:55:20+00:00,501539287,501531792,0,Tomcat7,James Brown,revert uncited; please add in-line citations as clearly explained on your talk page.
+2013-05-16T10:58:03+00:00,555348974,555266675,0,121.217.57.220,James Brown,/* Marriages and children */
+2012-08-15T23:58:37+00:00,507609702,506955586,0,88.70.183.135,Jeff Bridges,/* Studio albums */
+2013-01-27T15:35:17+00:00,535181072,535145581,0,Helpsome,Jeff Bridges,Undid revision 535145581 by [[Special:Contributions/76.107.56.101|76.107.56.101]] ([[User talk:76.107.56.101|talk]])
+2012-05-01T17:10:37+00:00,490153570,490153299,0,134.174.110.7,Joan Baez,/* Early relationships */
+2012-09-12T23:31:24+00:00,512090585,512090522,0,Lexein,Joan Baez,/* 1950s */ rm err
+2012-02-20T09:18:57+00:00,477855023,477854958,0,Bmusician,John Cage,Reverted edits by [[Special:Contributions/66.254.226.162|66.254.226.162]] ([[User talk:66.254.226.162|talk]]) as factual errors ([[WP:HG|HG]])
+2012-06-02T20:08:57+00:00,495667926,495372960,0,99.129.228.207,Jeff Bridges,
+2012-03-09T16:42:57+00:00,481025510,481024412,0,Sensei48,Joan Baez,Undid revision 481024412 by [[Special:Contributions/198.175.205.6|198.175.205.6]]rvv
+2012-12-25T12:43:37+00:00,529712608,529712393,0,Pierre201012,John Cage,/* 1987–92: Final years and death */
+2012-07-05T16:05:51+00:00,500814217,500112213,0,Rjwilmsi,Joan Baez,/* Early life */Format plain DOIs using [[Project:AWB|AWB]] (8087)
+2013-05-13T19:18:24+00:00,554934198,554922213,0,The Devil's Advocate,Jeff Bridges,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/2gill2|2gill2]] ([[User talk:2gill2|talk]]) to last version by Helpsome
+2013-06-05T21:59:17+00:00,558510999,558510985,0,Discospinster,John Cage,Reverted edits by [[Special:Contributions/173.2.103.170|173.2.103.170]] ([[User talk:173.2.103.170|talk]]) to last revision by Semitransgenic ([[WP:HG|HG]])
+2012-05-04T00:04:47+00:00,490550246,490337788,0,99.21.171.138,John Ford,add
+2013-02-18T23:18:19+00:00,538948758,537475919,0,Dsp13,John Ford,/* References */ wlink
+2012-06-28T16:23:59+00:00,499776699,499620873,0,Thedavid,John James Audubon,
+2013-06-25T02:55:03+00:00,561454739,561454253,0,Dnuszblack,John James Audubon,Removed the reference to Elizabethtown being on the Louisville/Nashville turnpike. This fits with the removal of the erroneous mention of Elizabethtown in previous sentence.
+2012-02-23T05:13:00+00:00,478376885,478376822,0,Petropoxy (Lithoderm Proxy),José Clemente Orozco,From the Spanish wiki
+2012-05-14T15:55:36+00:00,492537886,492478102,0,Derek R Bullamore,Judy Garland,Filling in 2 references using [[WP:REFLINKS|Reflinks]]
+2013-03-31T03:13:25+00:00,547923343,547922994,0,Jason Quinn,Judy Garland,used citation needed span instead of citation needed
+2012-10-08T06:27:19+00:00,516588537,516448563,0,Tellumo,Julia Child,Add last meal (relevant due to her career)
+2012-02-25T04:08:49+00:00,478722673,477325251,0,76.21.13.28,Julia Child,/* Childhood and education */
+2012-10-11T22:44:32+00:00,517283728,516911711,0,Tagishsimon,Leonard Bernstein,/* 1970–1979 */ link [[Allan Warren]]
+2012-11-26T19:23:26+00:00,524999127,524997537,0,Susfele,Julia Child,Reverted 1 edit by [[Special:Contributions/82.0.106.161|82.0.106.161]] ([[User talk:82.0.106.161|talk]]) identified as [[WP:VAND|vandalism]] to last revision by ClueBot NG. ([[WP:TW|TW]])
+2013-05-07T16:22:54+00:00,553978552,553827884,0,MUSIKVEREIN,Leonard Bernstein,Undid revision 553827884 by [[Special:Contributions/68.38.95.74|68.38.95.74]] ([[User talk:68.38.95.74|talk]]) It was correct before (British spelling)
+2013-05-31T05:47:31+00:00,557637267,557637111,0,Toccata quarta,Leonard Bernstein,ce
+2013-06-25T05:35:27+00:00,561469809,559917996,0,Redd Foxx 1991,Judy Garland,
+2012-03-22T15:16:59+00:00,483376124,481823720,0,Ohconfucius,Lillian Gish,"[[WP:MOS|style]] fixes, incl. [[WP:MOSDATES|dates]], [[MOS:LINK]] and [[MOS:TEXT]]"
+2013-04-24T23:44:21+00:00,552038695,551552109,0,74.195.70.223,Julia Child,"/* Last years and posthumous */  Secret of a long life, a common julia child comment."
+2012-09-18T08:10:04+00:00,513332534,509992385,0,80.72.34.250,Leonard Bernstein,/* Early life */
+2012-10-09T19:48:40+00:00,516873967,516873763,0,Koplimek,Lillian Gish,/* Early life */ improvement to altered sentence
+2013-02-26T05:02:13+00:00,540499189,540499125,0,And we drown,Lillian Gish,removed [[Category:American writers]]; added [[Category:20th-century American writers]] using [[WP:HC|HotCat]]
+2012-09-24T23:45:17+00:00,514412596,509784784,0,76.93.4.156,Lon Chaney,Edited lost films
+2013-06-21T19:11:38+00:00,560957916,560957776,0,Sellpink,Lon Chaney,/* Early life */ Mistake
+2012-12-31T20:28:46+00:00,530659610,530346680,0,67.234.185.113,Lon Chaney,/* Early life */ Re-writing for understandability.
+2012-06-21T18:02:46+00:00,498700396,497798085,0,Mdgately,Louisa May Alcott,/* Further reading */ Added Matteson biography
+2012-02-12T02:10:15+00:00,476381388,476287409,0,Jwy,Louisa May Alcott,Revert to revision 475705699 dated 2012-02-08 04:52:49 by Jwy using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2012-08-24T07:10:56+00:00,508894933,507914396,0,Gobonobo,Lucille Ball,adding [[National Women's Hall of Fame]] navbox
+2012-04-07T19:39:17+00:00,486128141,486127370,0,75.140.21.41,Lucille Ball,
+2013-02-11T17:30:35+00:00,537734113,537508660,0,Vincelord,Lucille Ball,
+2012-07-19T13:38:13+00:00,503117874,502741605,0,LucilleBall,Lucille Ball,
+2013-03-22T22:34:56+00:00,546411577,546406400,0,Sjones23,Lucille Ball,Reverted to revision 545682553 by ClueBot NG: Unexplained removal of content. ([[WP:TW|TW]])
+2013-07-20T05:07:45+00:00,565014801,564959535,0,KingQueenPrince,Lucille Ball,"Reverted to revision 564607172 by KingQueenPrince: rv test edit, pos. vandalism. ([[WP:TW|TW]])"
+2012-06-11T22:44:24+00:00,497135937,497131884,0,Itbeso,Martha Graham,
+2013-03-18T22:27:13+00:00,545288905,545286920,0,Littleolive oil,Martha Graham,
+2012-07-16T20:07:01+00:00,502677143,502616867,0,BrothaTimothy,Marvin Gaye,/* Social commentary and concept albums */
+2012-10-03T06:01:17+00:00,515748520,515662265,0,Download,Marvin Gaye,gen fixes using [[Project:AWB|AWB]]
+2013-03-25T18:54:51+00:00,546950111,546916763,0,173.70.165.3,Merce Cunningham,/* Biography */
+2012-06-11T22:06:00+00:00,497130648,495516585,0,Itbeso,Merce Cunningham,/* Biography */
+2012-03-21T17:41:36+00:00,483181325,482720308,0,ABonisoli,Merce Cunningham,
+2013-05-23T02:47:17+00:00,556366271,556366117,0,68.40.200.16,Mike Nichols,
+2012-08-12T10:21:56+00:00,507018950,505707468,0,DocWatson42,Miloš Forman,"/* Filmography */ Added cleanup message, and deleted another."
+2013-03-15T08:13:15+00:00,544313431,543941232,0,Thismightbezach,Nat King Cole,
+2013-03-20T15:33:41+00:00,545705886,543796498,0,162.25.24.148,Miloš Forman,
+2012-11-01T15:38:56+00:00,520910358,520908956,0,Tomcat7,Nat King Cole,Undid revision 520908956 by [[Special:Contributions/98.71.52.245|98.71.52.245]] ([[User talk:98.71.52.245|talk]]) very unlikely and unreferenced
+2012-06-18T07:41:32+00:00,498140722,496455859,0,RedBot,Miloš Forman,r2.7.2) (Robot: Modifying [[simple:Miloš Forman]]
+2013-04-29T20:34:10+00:00,552782928,551962050,0,Bob Manners,Nat King Cole,/* Television */
+2012-10-26T21:19:11+00:00,520022021,519623975,0,65.9.209.123,Nat King Cole,
+2012-03-23T04:00:29+00:00,483476717,474043416,0,Hmains,Negro Ensemble Company,"copyedit, clarity edits, MOS implementation, and/or AWB general fixes using [[Project:AWB|AWB]]"
+2012-08-26T06:53:26+00:00,509206037,505563860,0,BattyBot,Negro Ensemble Company,changed {{Unreferenced}} to {{Refimprove}} & [[WP:AWB/GF|general fixes]] using [[Project:AWB|AWB]] (8277)
+2012-10-23T01:45:41+00:00,519310196,519245504,0,Dawnseeker2000,Negro Ensemble Company,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/63.81.55.2|63.81.55.2]] ([[User talk:63.81.55.2|talk]]) to last version by BattyBot
+2012-08-20T04:52:36+00:00,508237424,508237206,0,Tvoz,Phil Ochs,/* Films */  edited version
+2012-02-21T06:30:52+00:00,478028075,476704323,0,ShelfSkewed,Philip Glass,Disambiguate [[The Voyage]] to [[The Voyage (opera)]]
+2012-11-07T19:31:03+00:00,521871185,521870714,0,Walter Görlitz,Philip Glass,Undid revision 521870714 by [[Special:Contributions/Bhny|Bhny]] ([[User talk:Bhny|talk]]) not weasel words. Glass doesn't consider himself as a minimalist and not all call him one.
+2012-07-10T13:38:45+00:00,501558546,498578507,0,Mimich,Plácido Domingo,
+2013-01-14T17:57:21+00:00,533063561,532587189,0,Kitty1976,Philip Glass,
+2013-04-18T22:18:34+00:00,551044360,550560921,0,108.41.155.154,Ralph Ellison,/* Final years */
+2012-10-25T17:54:18+00:00,519798158,519796525,0,MelanieN,Plácido Domingo,"/* Writings */ deleting reference to ""The Joy of Opera""; I can't find any evidence that this book was ever published"
+2012-11-06T04:48:52+00:00,521622717,520244465,0,Bt8257,Ray Charles,
+2013-05-17T01:35:11+00:00,555449285,555449229,0,Tinton5,Ray Charles,fix
+2013-06-27T16:54:45+00:00,561845261,560293811,0,Neonorange,Ralph Ellison,removed [[Category:American novelists]] using [[WP:HC|HotCat]] per close (consensus for fix 1) Category Talk:American novelists
+2012-08-04T10:44:21+00:00,505722257,505266832,0,Pbarrois,Philip Glass,
+2012-12-12T04:04:35+00:00,527650412,527650075,0,Moe Epsilon,Ray Charles,Reverted edit(s) by [[Special:Contributions/71.223.183.96|71.223.183.96]] identified as test/vandalism using [[WP:STiki|STiki]]
+2012-12-07T17:31:29+00:00,526893662,526889071,0,TheMindsEye,Richard Avedon,rvt multi vandalisms
+2012-08-28T15:09:48+00:00,509612907,509611108,0,JamesMatthewMartin,Richard Avedon,
+2013-06-02T14:53:33+00:00,557980848,557974302,0,TheMindsEye,Richard Avedon,/* Legacy */ rmv unreferenced OR
+2012-04-06T13:26:35+00:00,485898223,485678823,0,213.214.55.75,Robert Rauschenberg,/* Life and career */
+2013-01-12T16:34:31+00:00,532718310,532522604,0,TheMindsEye,Richard Avedon,rvt uncited changes
+2012-11-11T18:13:18+00:00,522507854,522501604,0,Littleolive oil,Robert Rauschenberg,Undid revision 522501604 by [[Special:Contributions/86.182.193.138|86.182.193.138]] rv vandalism ([[User talk:86.182.193.138|talk]])
+2012-07-10T23:16:47+00:00,501638406,501561171,0,66.108.214.204,Robert Rauschenberg,/* Performance and dance */
+2013-04-18T23:07:48+00:00,551049960,548568650,0,Theramin,Robert Rauschenberg,/* Artistic contribution */ [[Erased de Kooning Drawing]]
+2012-04-24T12:04:22+00:00,488974004,488928402,0,Tomcat7,Sam Cooke,Undid revision 488928402 by [[Special:Contributions/Teachitfornot|Teachitfornot]] ([[User talk:Teachitfornot|talk]])
+2013-02-15T11:03:34+00:00,538382154,538295104,0,Tomcat7,Sam Cooke,Undid revision 538295104 by [[Special:Contributions/70.168.46.250|70.168.46.250]] ([[User talk:70.168.46.250|talk]])
+2012-08-21T21:22:13+00:00,508518254,505329223,0,74.60.187.239,Sam Cooke,/* Early life and career */
+2012-06-25T11:13:26+00:00,499267487,499267328,0,EamonnPKeane,Samuel Goldwyn,
+2012-10-28T15:13:46+00:00,520273553,520273302,0,58.7.94.82,Samuel Goldwyn,Names
+2012-10-01T02:08:16+00:00,515403311,512898608,0,Michaelt54,Samuel Goldwyn,
+2013-06-02T19:26:04+00:00,558016275,557556119,0,YousufMiah,Sidney Poitier,
+2012-10-23T13:06:21+00:00,519382953,519136105,0,162.83.180.124,Sidney Poitier,/* Early life */
+2013-06-24T01:47:05+00:00,561293981,561293941,0,Tinton5,Sidney Poitier,
+2012-02-28T06:46:26+00:00,479259460,479259425,0,Bibliomaniac15,Sidney Poitier,{{pp-semi-protected|small=yes}}
+2012-12-04T00:20:17+00:00,526257892,523986744,0,Princeton wu,Samuel Goldwyn,/* Goldwynisms */
+2012-07-01T12:11:01+00:00,500172331,495764939,0,Mogism,Stella Adler,"/* Stanislavski and The Method */[[WP:AWB/T|Typo fixing]] and cleanup, typos fixed: Robert de Niro → Robert De Niro using [[Project:AWB|AWB]]"
+2012-10-15T02:09:57+00:00,517846519,511165171,0,75.177.49.222,Stella Adler,
+2012-01-27T19:44:23+00:00,473564726,473299382,0,91.84.176.7,Stella Adler,rm link to advertising site
+2012-06-12T05:29:23+00:00,497177529,496835353,0,Jayhare,The Doors,
+2013-04-06T06:34:38+00:00,548952515,548941533,0,Rivertorch,Talk:Willie Nelson,/* Edit request on 23 December 2012 */ reply
+2012-06-23T22:15:34+00:00,499049001,488651128,0,BillyJack193,Talk:Willie Nelson,/* Liberal Activist? */ new section
+2012-04-23T06:42:19+00:00,488771823,487075873,0,Charvex,Thomas Eakins,minor formatting
+2013-06-27T03:52:41+00:00,561771532,554349530,0,Moonraker,Thomas Eakins,[[Category:Central High School (Philadelphia) alumni]]
+2012-06-28T19:30:36+00:00,499800253,499748887,0,Greatgray,The Doors,
+2013-03-09T02:35:59+00:00,542960483,540997655,0,Legobot,Thomas Eakins,Bot: Migrating 1 langlinks to [[WP:Wikidata]] - [[d:q214905]]
+2012-03-26T23:06:22+00:00,484090406,483673095,0,86.180.19.116,Truman Capote,/* Celebrity */
+2013-05-03T19:35:23+00:00,553391702,552908759,0,TonyTheTiger,Truman Capote,/* External links */ |state=expanded
+2013-04-05T21:34:35+00:00,548898101,548896200,0,Marteau,Truman Capote,Reverted 1 edit by [[Special:Contributions/67.182.141.119|67.182.141.119]] ([[User talk:67.182.141.119|talk]]): Revert to reflect the exact quote.  PLEASE be careful when editing direct quotes. ([[WP:TW|TW]])
+2012-03-25T02:26:28+00:00,483783400,479242004,0,MasqueIV,Stella Adler,/* Stella Adler Schools */
+2013-03-25T19:10:48+00:00,546952545,546650391,0,184.60.37.152,Truman Capote,/* Last years */
+2012-07-05T11:59:54+00:00,500787604,500787275,0,Callanecc,Truman Capote,"Reverted good faith edits by [[Special:Contributions/86.138.83.6|86.138.83.6]] [[User talk:86.138.83.6|talk]],  ([[WP:HG|HG]])"
+2012-10-26T00:41:44+00:00,519857529,519853507,0,Arxiloxos,Truman Capote,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/98.93.148.248|98.93.148.248]] ([[User talk:98.93.148.248|talk]]) to last version by Furrycat66
+2012-06-07T20:40:08+00:00,496497868,496469187,0,KTC,User talk:AmMasters,Your submission at [[WP:AFC|Articles for creation]] ([[WP:AFCH|AFCH]])
+2012-08-12T22:17:35+00:00,507107011,506962588,0,Crinoline,User talk:Mdann52,/* Re: User talk:Crinoline#A cupcake for you! */ new section
+2013-03-19T01:19:20+00:00,545319254,545257231,0,Wombat24,User talk:Mdann52,
+2012-12-18T04:37:34+00:00,528586129,528566184,0,Sven Manguard,User talk:Mdann52,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Sven Manguard|Sven Manguard]] ([[User talk:Sven Manguard|talk]]) to last version by EdwardsBot
+2013-01-17T16:24:48+00:00,533547032,533546046,0,TParis,User talk:Mdann52,/* Across the Niger */ new section
+2012-03-23T17:39:55+00:00,483558368,482713244,0,09hailj,User talk:Mdann52,/* love you */ new WikiLove message
+2012-08-26T08:25:17+00:00,509213135,509166024,0,Kbala1055,User talk:Mdann52,/* DYK for Abdi Jama */
+2012-08-22T00:21:55+00:00,508540697,508540560,0,Mybluedog1,User talk:Mdann52,/* Help on a NPOV */
+2012-03-04T16:28:35+00:00,480169776,479822316,0,QuickMotion,Woody Allen,
+2013-03-11T17:03:30+00:00,543453809,543452369,0,Fraggle81,Woody Allen,Reverted unconstructive edit(s) by [[Special:Contributions/86.135.58.228|86.135.58.228]] identified using [[WP:STiki|STiki]]
+2013-06-16T15:49:21+00:00,560165774,560165753,0,10metreh,Woody Allen,Reverted edits by [[Special:Contributions/92.243.183.112|92.243.183.112]] ([[User talk:92.243.183.112|talk]]) to last revision by 10metreh ([[WP:HG|HG]])
+2013-05-24T20:14:59+00:00,556633527,556632635,0,NawlinWiki,Woody Allen,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/TheFirstOfManyEggs|TheFirstOfManyEggs]] ([[User talk:TheFirstOfManyEggs|talk]]) to last version by Wikiwatcher1

@@ -1,0 +1,293 @@
+timestamp,revid,parentid,sock,user,page,message
+2020-08-31T11:31:23+00:00,975960960,964603195,1,Adelinakon,"Black Mountain, New South Wales",
+2020-08-31T10:30:20+00:00,975954348,962099049,1,Adelinakon,Billimari,
+2020-08-29T11:57:51+00:00,975597195,955102763,1,Adelinakon,"Berry Mountain, New South Wales",
+2020-08-27T17:10:23+00:00,975259285,955102204,1,Adelinakon,Bellmount Forest,
+2020-08-03T03:21:38+00:00,970912227,964597380,1,Adelinakon,Beckom,
+2020-07-31T01:48:49+00:00,970396202,955101190,1,Adelinakon,Barmedman,
+2020-07-30T12:37:52+00:00,970289516,955100749,1,Adelinakon,Ballimore,
+2020-07-28T15:29:20+00:00,969987452,964599596,1,Adelinakon,"Ardglen, New South Wales",
+2020-07-27T14:09:26+00:00,969802275,955098739,1,Adelinakon,"Ando, New South Wales",
+2020-07-26T14:19:40+00:00,969614460,967707530,1,Adelinakon,"Agnes Banks, New South Wales",
+2020-08-31T12:31:43+00:00,975968016,955103574,1,Ashtontin,"Blowering, New South Wales",
+2020-08-31T10:42:28+00:00,975955622,967430174,1,Ashtontin,"Bingara, New South Wales",
+2020-08-29T12:16:27+00:00,975599160,965514568,1,Ashtontin,"Big Hill, New South Wales",
+2020-08-27T17:39:57+00:00,975265789,965263611,1,Ashtontin,Berlang,
+2020-08-03T03:39:31+00:00,970914406,965081407,1,Ashtontin,"Bell, New South Wales",
+2020-07-31T02:10:59+00:00,970398403,969975026,1,Ashtontin,Batemans Bay,
+2020-07-30T12:58:57+00:00,970291846,955101063,1,Ashtontin,"Banyabba, New South Wales",
+2020-07-29T11:17:44+00:00,970120203,955100313,1,Ashtontin,"Aylmerton, New South Wales",
+2020-08-31T12:21:42+00:00,975967014,955103519,1,Delarunin,"Blandford, New South Wales",
+2020-08-31T10:33:28+00:00,975954627,970045609,1,Delarunin,"Bilpin, New South Wales",
+2020-08-29T12:04:51+00:00,975598032,955102875,1,Delarunin,"Bevendale, New South Wales",
+2020-08-27T17:15:45+00:00,975260484,965512399,1,Delarunin,"Ben Lomond, New South Wales",
+2020-08-03T03:27:48+00:00,970912951,964603817,1,Delarunin,Beelbangera,
+2020-07-31T01:55:09+00:00,970396766,968936919,1,Delarunin,"Barraba, New South Wales",
+2020-07-30T12:45:30+00:00,970290267,955100767,1,Delarunin,"Balmoral, New South Wales (Southern Highlands)",
+2020-07-28T15:45:02+00:00,969989644,960899243,1,Delarunin,"Ashtonfield, New South Wales",
+2020-07-27T13:29:12+00:00,969795883,926651791,1,Delarunin,"Alison, New South Wales",
+2020-08-31T11:25:07+00:00,975960192,964603321,1,Emberdi,"Binya, New South Wales",
+2020-08-31T10:24:30+00:00,975953742,955103075,1,Emberdi,"Bilambil, New South Wales",
+2020-08-29T10:46:03+00:00,975590236,959954113,1,Emberdi,"Berridale, New South Wales",
+2020-08-27T16:43:11+00:00,975254067,955102130,1,Emberdi,Bellawongarah,
+2020-08-03T03:12:02+00:00,970910931,955101664,1,Emberdi,"Baw Baw, New South Wales",
+2020-07-31T01:38:53+00:00,970394797,964598359,1,Emberdi,Barellan,
+2020-07-30T12:22:39+00:00,970287932,955100406,1,Emberdi,"Baerami, New South Wales",
+2020-07-28T15:14:31+00:00,969985316,955098900,1,Emberdi,"Araluen, New South Wales",
+2020-07-27T13:49:39+00:00,969799201,955098411,1,Emberdi,"Alstonvale, New South Wales",
+2020-07-26T14:38:03+00:00,969617193,968284875,1,Emberdi,"Albion Park, New South Wales",
+2020-07-24T14:12:02+00:00,969285396,964605389,1,Emberdi,"Aberdeen, New South Wales",
+2020-08-31T12:25:43+00:00,975967439,965815408,1,Emmylinen,"Blayney, New South Wales",
+2020-08-31T10:35:24+00:00,975954774,955103124,1,Emmylinen,"Bimbi, New South Wales",
+2020-08-29T12:08:28+00:00,975598374,955102928,1,Emmylinen,"Bexhill, New South Wales",
+2020-08-27T17:21:12+00:00,975261697,965178510,1,Emmylinen,Bendick Murrell,
+2020-08-03T03:30:36+00:00,970913333,969981023,1,Emmylinen,"Bega, New South Wales",
+2020-07-31T01:57:41+00:00,970397019,911826543,1,Emmylinen,"Barrack Heights, New South Wales",
+2020-07-30T12:49:48+00:00,970290703,959915160,1,Emmylinen,Bangalow,
+2020-07-28T14:47:25+00:00,969981373,955098763,1,Emmylinen,Anembo,
+2020-08-31T12:27:30+00:00,975967623,969482944,1,Horoshan,"Lyndhurst, New South Wales",
+2020-08-31T10:38:02+00:00,975955070,973499713,1,Horoshan,Binalong,
+2020-08-29T12:11:45+00:00,975598683,955102935,1,Horoshan,"Biala, New South Wales",
+2020-08-27T17:33:32+00:00,975264358,911828553,1,Horoshan,"Beresfield, New South Wales",
+2020-08-27T17:24:44+00:00,975262477,955102628,1,Horoshan,Bendoura,
+2020-08-03T03:33:49+00:00,970913698,957571705,1,Horoshan,"Belanglo, New South Wales",
+2020-07-31T02:01:57+00:00,970397447,955101307,1,Horoshan,"Barrengarry, New South Wales",
+2020-07-30T12:53:35+00:00,970291081,970253044,1,Horoshan,"Bannaby, New South Wales",
+2020-07-28T14:53:45+00:00,969982346,964010559,1,Horoshan,"Anglers Reach, New South Wales",
+2020-08-31T11:23:54+00:00,975960053,955103302,1,Izluminda,"Binnaway, New South Wales",
+2020-08-31T10:21:25+00:00,975953450,955103044,1,Izluminda,"Bigga, New South Wales",
+2020-08-29T10:42:45+00:00,975589916,955102706,1,Izluminda,Berrara,
+2020-08-27T16:39:28+00:00,975253443,967503729,1,Izluminda,Bellata,
+2020-08-03T03:07:59+00:00,970910406,966908858,1,Izluminda,"Batlow, New South Wales",
+2020-07-31T01:31:58+00:00,970393831,965067047,1,Izluminda,Baradine,
+2020-07-30T12:19:09+00:00,970287637,955100348,1,Izluminda,"Back Forest, New South Wales",
+2020-07-28T15:07:48+00:00,969984331,969618121,1,Izluminda,"Appin, New South Wales",
+2020-07-27T13:45:15+00:00,969798465,964604545,1,Izluminda,"Alma Park, New South Wales",
+2020-07-26T14:31:55+00:00,969616253,955098142,1,Izluminda,"Albert, New South Wales",
+2020-07-24T14:37:48+00:00,969288798,962601324,1,Izluminda,"Adelong, New South Wales",
+2020-07-24T02:21:58+00:00,969215109,955110547,1,Izluminda,Derriwong,
+2020-08-31T11:33:33+00:00,975961241,911835397,1,Lauraninen,"Blackbutt, New South Wales",
+2020-08-31T10:31:39+00:00,975954477,966063662,1,Lauraninen,"Billinudgel, New South Wales",
+2020-08-29T12:01:39+00:00,975597614,968104972,1,Lauraninen,"Bethungra, New South Wales",
+2020-08-27T17:14:03+00:00,975260088,955102269,1,Lauraninen,"Ben Bullen, New South Wales",
+2020-08-03T03:24:27+00:00,970912512,955101866,1,Lauraninen,Bectric,
+2020-07-31T01:52:32+00:00,970396532,969935961,1,Lauraninen,Barooga,
+2020-07-30T12:41:40+00:00,970289921,966416880,1,Lauraninen,"Ballina, New South Wales",
+2020-07-28T15:41:31+00:00,969989238,969418787,1,Lauraninen,Armidale,
+2020-07-27T13:21:39+00:00,969794771,969759348,1,Lauraninen,Albury,
+2020-08-31T11:27:08+00:00,975960424,955103391,1,Meganfixo,"Birriwa, New South Wales",
+2020-08-31T10:26:08+00:00,975953920,964603410,1,Meganfixo,"Bilbul, New South Wales",
+2020-08-29T10:49:08+00:00,975590523,965622770,1,Meganfixo,"Berrima, New South Wales",
+2020-08-27T16:47:20+00:00,975254851,974807574,1,Meganfixo,"Bellevue Hill, New South Wales",
+2020-08-03T03:15:24+00:00,970911323,964908757,1,Meganfixo,Bawley Point,
+2020-07-31T01:42:10+00:00,970395264,961540793,1,Meganfixo,"Bargo, New South Wales",
+2020-07-30T12:28:51+00:00,970288560,911825994,1,Meganfixo,"Balcolyn, New South Wales",
+2020-07-28T15:20:11+00:00,969986122,964599914,1,Meganfixo,"Arcadia, New South Wales",
+2020-07-27T13:54:10+00:00,969800139,959915112,1,Meganfixo,"Alstonville, New South Wales",
+2020-07-26T14:42:21+00:00,969617911,960633657,1,Meganfixo,"Albion Park Rail, New South Wales",
+2020-07-24T14:25:48+00:00,969287191,915035647,1,Meganfixo,"Aberglasslyn, New South Wales",
+2020-07-01T02:56:14+00:00,965398351,906221409,1,Pilipenkoval,"Valuyki, Belgorod Oblast",
+2020-08-31T11:29:36+00:00,975960700,968444972,1,Rostentin,"Black Hill, New South Wales",
+2020-08-31T10:28:43+00:00,975954167,955103101,1,Rostentin,Billilingra,
+2020-08-29T10:51:20+00:00,975590729,955102749,1,Rostentin,Berringer Lake,
+2020-08-27T17:07:53+00:00,975258774,955133401,1,Rostentin,"Urunga, New South Wales",
+2020-08-03T03:18:37+00:00,970911763,911828015,1,Rostentin,"Bearbong, New South Wales",
+2020-07-31T01:45:28+00:00,970395744,970252930,1,Rostentin,"Barham, New South Wales",
+2020-07-30T12:33:57+00:00,970289100,970289048,1,Rostentin,Ballalaba,
+2020-07-30T12:33:28+00:00,970289048,955100581,1,Rostentin,Ballalaba,
+2020-07-28T15:25:45+00:00,969986965,911814893,1,Rostentin,"Arcadia Vale, New South Wales",
+2020-07-27T14:06:32+00:00,969801915,968975374,1,Rostentin,"Anambah, New South Wales",
+2020-07-26T14:01:11+00:00,969611711,964605185,1,Rostentin,Adjungbilly,
+2020-08-31T12:29:35+00:00,975967799,964603085,1,Takelaunin,"Blighty, New South Wales",
+2020-08-31T10:39:38+00:00,975955263,955103253,1,Takelaunin,"Binda, New South Wales",
+2020-08-29T12:14:03+00:00,975598913,963847032,1,Takelaunin,"Bidgeemia, New South Wales",
+2020-08-27T17:36:06+00:00,975264934,957107970,1,Takelaunin,"Berkeley, New South Wales",
+2020-08-03T03:37:15+00:00,970914106,955102002,1,Takelaunin,"Belimbla Park, New South Wales",
+2020-07-31T02:06:00+00:00,970397844,955891961,1,Takelaunin,Basin View,
+2020-07-30T12:56:20+00:00,970291434,941193428,1,Takelaunin,Banora Point,
+2020-07-29T11:12:48+00:00,970119646,962502564,1,Takelaunin,"Awaba, New South Wales",
+2020-08-31T11:22:02+00:00,975959831,955103291,1,Talianak,"Biniguy, New South Wales",
+2020-08-31T10:19:05+00:00,975953225,955103030,1,Talianak,"Big Jacks Creek, New South Wales",
+2020-08-29T10:40:01+00:00,975589681,955102700,1,Talianak,"Bermagui, New South Wales",
+2020-08-27T16:34:49+00:00,975252618,968194258,1,Talianak,"Bellambi, New South Wales",
+2020-08-03T03:04:02+00:00,970909930,969800264,1,Talianak,"Bathurst, New South Wales",
+2020-07-31T01:27:45+00:00,970393341,915567361,1,Talianak,"Bar Point, New South Wales",
+2020-07-30T12:15:17+00:00,970287253,964598622,1,Talianak,Baan Baa,
+2020-07-28T15:01:18+00:00,969983449,963108371,1,Talianak,"Angourie, New South Wales",
+2020-07-27T13:38:39+00:00,969797313,955098333,1,Talianak,"Allworth, New South Wales",
+2020-07-26T14:25:23+00:00,969615335,940035308,1,Talianak,"Airds, New South Wales",
+2020-07-24T14:33:21+00:00,969288159,965622237,1,Talianak,Adaminaby,
+2020-07-24T02:03:58+00:00,969213207,969213152,1,Talianak,Balranald,
+2020-07-24T02:03:33+00:00,969213152,967235933,1,Talianak,Balranald,
+2020-07-26T14:39:31+00:00,969617431,969615335,0,14.200.14.51,"Airds, New South Wales",Included a suburb map on infobox
+2020-08-08T02:13:05+00:00,971762336,969287191,0,Editrite!,"Aberglasslyn, New South Wales",/* Description and history */
+2020-01-24T21:55:02+00:00,937416094,937414902,0,Rileyb,"Albion Park, New South Wales",/*History*/ Added some further information and sources.
+2020-06-26T13:47:24+00:00,964605185,955098081,0,Graham87,Adjungbilly,not a dead link
+2020-02-10T04:20:18+00:00,940035308,937074414,0,Bender the Bot,"Airds, New South Wales","/* Airds Bradbury Renewal Project */HTTP → HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/"
+2020-07-28T14:01:58+00:00,969974074,969955297,0,Subtropical-man,Albury,Reverted edits by [[Special:Contribs/14.200.14.51|14.200.14.51]] ([[User talk:14.200.14.51|talk]]) to last version by Lauraninen
+2019-11-17T20:50:34+00:00,926651791,926651315,0,Mandarax,"Alison, New South Wales",Unreferenced → More citations needed
+2020-08-06T04:26:44+00:00,971438587,971435492,0,HiLo48,Albury,Reverted change to content without a corresponding change in sourcing.
+2020-05-05T23:38:14+00:00,955098333,911812856,0,Ser Amantio di Nicolao,"Allworth, New South Wales",add authority control
+2020-05-05T23:38:46+00:00,955098411,911813194,0,Ser Amantio di Nicolao,"Alstonvale, New South Wales",/* References */add authority control
+2020-06-26T13:41:46+00:00,964604545,957210810,0,Graham87,"Alma Park, New South Wales",not a dead link
+2020-06-23T02:26:10+00:00,964010559,961533062,0,Frey Lockyer,"Anglers Reach, New South Wales",/* Climate */
+2020-05-05T23:40:47+00:00,955098763,911813289,0,Ser Amantio di Nicolao,Anembo,/* References */add authority control
+2020-05-05T23:40:41+00:00,955098739,911813274,0,Ser Amantio di Nicolao,"Ando, New South Wales",/* References */add authority control
+2020-06-24T02:40:45+00:00,964192203,963424511,0,Afitz450,"Appin, New South Wales","/* The Appin Massacre */Updated phrase ""Aborigines"" to ""Aboriginal people"" as the prior term is deemed offensive by many Aboriginal and Torres Strait Islander people."
+2020-06-17T21:39:22+00:00,963108371,955098802,0,InternetArchiveBot,"Angourie, New South Wales",Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-06-26T13:03:18+00:00,964599914,954919488,0,Graham87,"Arcadia, New South Wales",not a dead link
+2020-05-05T23:41:31+00:00,955098900,921157628,0,Ser Amantio di Nicolao,"Araluen, New South Wales",/* References */add authority control
+2020-06-14T12:33:52+00:00,962502564,955100297,0,Liverpoolpics,"Awaba, New South Wales",
+2020-06-05T14:22:24+00:00,960899243,960898873,0,Yelnickam11,"Ashtonfield, New South Wales",/* Trivia */Updated trivia
+2020-06-26T13:52:55+00:00,964605863,963638053,0,Graham87,Armidale,not a dead link
+2020-06-26T13:00:43+00:00,964599596,963657795,0,Graham87,"Ardglen, New South Wales",not a dead link
+2020-05-05T23:51:49+00:00,955100313,952067109,0,Ser Amantio di Nicolao,"Aylmerton, New South Wales",add authority control
+2020-08-07T23:48:54+00:00,971746977,971745048,0,AnomieBOT,"Araluen, New South Wales",Dating maintenance tags: {{Fact}}
+2020-06-26T12:53:14+00:00,964598622,955100324,0,Graham87,Baan Baa,not a dead link
+2019-08-21T11:54:24+00:00,911825994,897108156,0,Kerry Raymond,"Balcolyn, New South Wales",/* top */Australian English tagging
+2020-05-05T23:52:33+00:00,955100406,911825907,0,Ser Amantio di Nicolao,"Baerami, New South Wales",/* References */add authority control
+2020-05-05T23:54:01+00:00,955100581,911826047,0,Ser Amantio di Nicolao,Ballalaba,add authority control
+2020-05-05T23:55:05+00:00,955100749,911826077,0,Ser Amantio di Nicolao,Ballimore,add authority control
+2020-06-30T10:07:31+00:00,965264393,964563670,0,Tony1,Balranald,"[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+2020-07-30T15:19:29+00:00,970311136,970290267,0,CalDoesIt,"Balmoral, New South Wales (Southern Highlands)",Grammar fix.
+2020-06-21T05:47:22+00:00,963683930,959914773,0,BHGbot,"Ballina, New South Wales","[[WP:BHGbot 6]] ([[User:BHGbot/6/List 5|List 5]]): eponymous category first, per [[MOS:CATORDER]]; fixed sort key; [[WP:GENFIXES]]"
+2020-05-05T23:55:09+00:00,955100767,939887479,0,Ser Amantio di Nicolao,"Balmoral, New South Wales (Southern Highlands)",add authority control
+2020-07-12T01:11:32+00:00,967235933,965264393,0,120.20.148.16,Balranald,/* Population */Double fullstop
+2020-02-17T03:47:06+00:00,941193428,911826287,0,KC Roosters,Banora Point,"Adding custom [[Wikipedia:Short description|short description]]: ""Town in New South Wales, Australia"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2020-06-29T06:18:11+00:00,965067047,965065637,0,141.243.9.171,Baradine,/* Churches */
+2019-09-14T01:37:14+00:00,915567361,911826306,0,Monkbot,"Bar Point, New South Wales",/* Geography */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;
+2020-05-05T23:56:48+00:00,955101063,911826292,0,Ser Amantio di Nicolao,"Banyabba, New South Wales",/* References */add authority control
+2020-07-31T15:27:33+00:00,970482862,970395744,0,GreenC bot,"Barham, New South Wales",Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-08-13T06:21:20+00:00,972655103,972654940,0,TribunalMan,"Bargo, New South Wales",Reverted 1 edit by [[Special:Contributions/Bennyc1988|Bennyc1988]] ([[User talk:Bennyc1988|talk]]) to last revision by Chlod ([[WP:TW|TW]])
+2020-05-05T23:57:42+00:00,955101190,915354355,0,Ser Amantio di Nicolao,Barmedman,/* External links */add authority control
+2020-06-27T06:03:49+00:00,964723583,964604079,0,InternetArchiveBot,"Barraba, New South Wales",Rescuing 3 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-05-05T23:58:20+00:00,955101262,909873792,0,Ser Amantio di Nicolao,Barooga,/* References */add authority control
+2020-05-10T10:50:39+00:00,955891961,955101473,0,Acalycine,Basin View,fix link
+2020-07-27T13:54:54+00:00,969800264,966285182,0,WikiCleanerBot,"Bathurst, New South Wales",v2.03b - [[User:WikiCleanerBot#T12|Bot T12 CW#548]] - [[WP:WCW]] project (Punctuation in link - Link equal to linktext)
+2020-06-26T12:48:42+00:00,964598085,955977245,0,Graham87,"Batlow, New South Wales",not a dead link
+2020-08-05T23:50:02+00:00,971409798,970909930,0,218.215.3.37,"Bathurst, New South Wales",/* Landmarks */
+2020-07-04T04:59:23+00:00,965911667,964598085,0,Frey Lockyer,"Batlow, New South Wales",/* Climate and Geography */
+2020-06-28T09:07:26+00:00,964908757,961366081,0,InternetArchiveBot,Bawley Point,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.1
+2019-08-21T12:13:44+00:00,911828015,905523143,0,Kerry Raymond,"Bearbong, New South Wales",/* top */Australian English tagging
+2020-06-26T12:42:44+00:00,964597380,955101856,0,Graham87,Beckom,not a dead link
+2020-05-12T01:09:27+00:00,956195892,956195818,0,Materialscientist,"Bega, New South Wales",Reverted edits by [[Special:Contributions/2001:8003:3535:BD00:C10C:F089:BB7E:3C70|2001:8003:3535:BD00:C10C:F089:BB7E:3C70]] ([[User talk:2001:8003:3535:BD00:C10C:F089:BB7E:3C70|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-06-26T13:34:43+00:00,964603817,955101925,0,Graham87,Beelbangera,not a dead link
+2020-05-06T00:01:54+00:00,955101866,911828067,0,Ser Amantio di Nicolao,Bectric,/* External links */add authority control
+2020-06-29T08:47:08+00:00,965081407,962534659,0,InternetArchiveBot,"Bell, New South Wales",Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-07-17T20:34:21+00:00,968194258,943908871,0,GreenC bot,"Bellambi, New South Wales",Reformat 2 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-05-06T00:02:27+00:00,955102002,887398759,0,Ser Amantio di Nicolao,"Belimbla Park, New South Wales",/* References */add authority control
+2020-05-19T14:09:17+00:00,957571705,957571566,0,Bowralbaby,"Belanglo, New South Wales",
+2020-07-13T16:38:13+00:00,967503729,964597293,0,Chris the speller,Bellata,"cap, punct"
+2020-05-06T00:02:57+00:00,955102130,911828289,0,Ser Amantio di Nicolao,Bellawongarah,add authority control
+2020-05-06T00:03:15+00:00,955102204,911828362,0,Ser Amantio di Nicolao,Bellmount Forest,add authority control
+2020-08-25T04:04:16+00:00,974807574,969623796,0,60.242.94.162,"Bellevue Hill, New South Wales",
+2020-07-01T19:22:57+00:00,965512399,964597198,0,Dawnseeker2000,"Ben Lomond, New South Wales","date format audit, refine ref details"
+2020-05-06T00:03:29+00:00,955102269,911828431,0,Ser Amantio di Nicolao,"Ben Bullen, New South Wales",/* References */add authority control
+2020-07-26T15:17:49+00:00,969623796,960693916,0,14.200.14.51,"Bellevue Hill, New South Wales",
+2020-05-06T00:05:25+00:00,955102628,911828486,0,Ser Amantio di Nicolao,Bendoura,add authority control
+2020-06-29T20:56:02+00:00,965178510,955102615,0,InternetArchiveBot,Bendick Murrell,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.1
+2019-08-21T12:18:52+00:00,911828553,900675279,0,Kerry Raymond,"Beresfield, New South Wales",/* top */Australian English tagging
+2020-05-17T02:02:12+00:00,957107970,933008784,0,Editrite!,"Berkeley, New South Wales",/* History */
+2020-06-30T10:00:04+00:00,965263611,955102683,0,InternetArchiveBot,Berlang,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-05-06T00:05:50+00:00,955102700,921112461,0,Ser Amantio di Nicolao,"Bermagui, New South Wales",/* External links */add authority control
+2020-05-06T00:05:51+00:00,955102706,916391542,0,Ser Amantio di Nicolao,Berrara,/* References */add authority control
+2020-05-31T11:57:06+00:00,959954113,959953974,0,Frey Lockyer,"Berridale, New South Wales",/* Climate and geography */
+2020-07-02T12:20:21+00:00,965622770,963794169,0,Tony1,"Berrima, New South Wales","[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+2020-05-06T00:06:07+00:00,955102749,935075684,0,Ser Amantio di Nicolao,Berringer Lake,/* References */add authority control
+2020-05-06T00:06:12+00:00,955102763,911828664,0,Ser Amantio di Nicolao,"Berry Mountain, New South Wales",add authority control
+2020-07-17T07:58:40+00:00,968104972,964603501,0,103.217.166.21,"Bethungra, New South Wales",Changed Olympic Way to Olympic Highway as that is the correct road name.
+2020-05-06T00:06:35+00:00,955102875,916392164,0,Ser Amantio di Nicolao,"Bevendale, New South Wales",add authority control
+2020-05-06T00:06:48+00:00,955102928,911845368,0,Ser Amantio di Nicolao,"Bexhill, New South Wales",add authority control
+2020-05-06T00:06:50+00:00,955102935,911831078,0,Ser Amantio di Nicolao,"Biala, New South Wales",add authority control
+2020-06-22T04:16:29+00:00,963847032,955102983,0,GreenC bot,"Bidgeemia, New South Wales",Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2020-07-01T19:38:21+00:00,965514568,964596799,0,InternetArchiveBot,"Big Hill, New South Wales",Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-05-06T00:07:17+00:00,955103030,911832064,0,Ser Amantio di Nicolao,"Big Jacks Creek, New South Wales",/* External links */add authority control
+2020-05-06T00:07:21+00:00,955103044,938093795,0,Ser Amantio di Nicolao,"Bigga, New South Wales",add authority control
+2020-06-26T13:30:47+00:00,964603410,955103087,0,Graham87,"Bilbul, New South Wales",not a dead link
+2020-05-06T00:07:28+00:00,955103075,941193895,0,Ser Amantio di Nicolao,"Bilambil, New South Wales",/* References */add authority control
+2020-05-06T00:07:37+00:00,955103101,952641013,0,Ser Amantio di Nicolao,Billilingra,add authority control
+2020-06-12T02:55:29+00:00,962099049,955103110,0,Silent Billy,Billimari,wiki link to phrog page
+2020-07-05T00:07:57+00:00,966063662,966044126,0,Doctorhawkes,"Billinudgel, New South Wales",Reverted 1 edit by [[Special:Contributions/49.197.64.255|49.197.64.255]] ([[User talk:49.197.64.255|talk]]) to last revision by KC Roosters ([[WP:TW|TW]])
+2020-05-06T00:07:47+00:00,955103124,911832125,0,Ser Amantio di Nicolao,"Bimbi, New South Wales",/* External links */add authority control
+2020-07-12T14:04:03+00:00,967307953,967307862,0,Grahamec,Binalong,Reverted edits by [[Special:Contribs/Grahamec|Grahamec]] ([[User talk:Grahamec|talk]]) to last version by 118.209.166.131
+2020-07-28T22:21:15+00:00,970045609,968435082,0,JTdale,"Bilpin, New South Wales",
+2020-05-06T00:08:28+00:00,955103253,938094210,0,Ser Amantio di Nicolao,"Binda, New South Wales",add authority control
+2020-07-13T06:17:55+00:00,967430174,964596630,0,JJMC89 bot III,"Bingara, New South Wales","Merging [[:Category:Bingara, New South Wales]] to [[:Category:Gwydir Shire]] per [[Wikipedia:Categories for discussion/Log/2020 July 4#Gwydir Shire smallcats]]"
+2020-05-06T00:08:43+00:00,955103302,936356034,0,Ser Amantio di Nicolao,"Binnaway, New South Wales",add authority control
+2020-05-06T00:09:13+00:00,955103391,911832282,0,Ser Amantio di Nicolao,"Birriwa, New South Wales",/* References */add authority control
+2020-05-06T00:08:39+00:00,955103291,921691296,0,Ser Amantio di Nicolao,"Biniguy, New South Wales",/* References */add authority control
+2020-06-26T13:30:04+00:00,964603321,955103327,0,Graham87,"Binya, New South Wales",not a dead link
+2020-07-19T12:46:32+00:00,968444972,968444644,0,Bob Marvin10,"Black Hill, New South Wales",Edit
+2020-06-26T13:29:11+00:00,964603195,955103419,0,Graham87,"Black Mountain, New South Wales",not a dead link
+2019-08-21T13:15:53+00:00,911835397,905565082,0,Kerry Raymond,"Blackbutt, New South Wales",/* top */Australian English tagging
+2020-05-06T00:10:00+00:00,955103519,887022432,0,Ser Amantio di Nicolao,"Blandford, New South Wales",/* External links */add authority control
+2020-07-03T15:40:38+00:00,965815408,963804465,0,InternetArchiveBot,"Blayney, New South Wales",Rescuing 4 sources and tagging 0 as dead.) #IABot (v2.0.1
+2020-06-26T13:28:25+00:00,964603085,955103543,0,Graham87,"Blighty, New South Wales",not a dead link
+2020-05-06T00:10:23+00:00,955103574,938468347,0,Ser Amantio di Nicolao,"Blowering, New South Wales",/* References */add authority control
+2020-07-25T18:12:42+00:00,969482944,969482394,0,203.7.172.8,"Lyndhurst, New South Wales",/* Lyndhurst today */
+2020-05-06T03:42:12+00:00,955133401,954795613,0,Ser Amantio di Nicolao,"Urunga, New South Wales","add authority control, removed stub tag"
+2019-05-22T23:07:55+00:00,898345153,868669846,0,Pegship,Adjungbilly,Replaced stub templates with {{Riverina-geo-stub}} using [[User:Danski454/stubsearch|a tool]]
+2019-09-20T06:08:23+00:00,916706711,911812305,0,Nick Thorne,"Albion Park, New South Wales",/* Museums */ add wikilink
+2020-01-25T13:30:32+00:00,937508702,937508572,0,John B123,Albury,/* Industry */ Fixed cite error
+2020-03-09T01:26:35+00:00,944638848,943640208,0,Hughpugh2,Albury,/* Television */
+2020-05-17T17:11:54+00:00,957210810,955098356,0,Shhhnotsoloud,"Alma Park, New South Wales",Fixing style/layout errors
+2019-11-18T02:01:39+00:00,926689190,915255007,0,Laterthanyouthink,"Appin, New South Wales",/* The Appin Massacre */ Added see also to List of massacres
+2019-09-17T01:57:04+00:00,916106926,911814981,0,TAnthony,"Ardglen, New South Wales","/* History */Correct citation errors (deprecated dead-url parameters), and genfixes"
+2020-05-05T00:00:38+00:00,954919488,915261489,0,Lara robertson,"Arcadia, New South Wales",Updated census data on population
+2019-12-27T09:39:24+00:00,932640587,928836981,0,Jo-Jo Eumerus,Armidale,Removing link(s) / list item(s): [[Wikipedia:Articles for deletion/List of The Apprentice candidates (British series 1)]] closed as delete ([[WP:XFDC|XFDcloser]])
+2020-03-29T08:01:04+00:00,947935837,947632578,0,Matthewrb,Armidale,Remove malformed citation that doesn't appear to be related to the article
+2019-08-21T00:42:25+00:00,911766978,887230787,0,203.41.229.134,"Awaba, New South Wales",/* History and facilities */
+2020-04-20T11:52:53+00:00,952067109,911824380,0,Rangasyd,"Aylmerton, New South Wales","added [[Category:Main Southern railway line, New South Wales]] using [[WP:HC|HotCat]]"
+2019-09-11T15:57:51+00:00,915162569,914376603,0,123.3.237.96,"Ballina, New South Wales","/* The Big Prawn */ the old linkref is dead, this one is active"
+2019-08-22T22:06:30+00:00,912046872,911826085,0,Warnester,"Ballina, New South Wales",/* Sport and recreation */
+2019-12-26T17:25:31+00:00,932538422,932499589,0,John B123,"Ballina, New South Wales",/* Ballina bypass */ Fixed cite error
+2020-04-22T00:09:10+00:00,952387768,947879074,0,2407:7000:A21F:B000:41C5:A0B9:1A04:9825,"Ballina, New South Wales",/* Climate */
+2020-05-22T11:27:51+00:00,958190435,955100814,0,Purrum,Balranald,
+2020-01-30T05:16:31+00:00,938278780,938278701,0,Aliaretiree,Balranald,/* 1901 to the present */ creating red link
+2020-04-09T12:17:58+00:00,949947768,938278780,0,Dippiljemmy,Balranald,/* History */
+2019-08-23T13:23:02+00:00,912132310,911490447,0,ScottDavis,Balranald,/* Solar power */ rephrase
+2019-12-01T01:22:55+00:00,928692915,915476756,0,Oronsay,Baradine,/* History */ added link to Eric Charles Rolls
+2019-09-26T20:53:47+00:00,918061959,918036761,0,Mild Bill Hiccup,"Bargo, New South Wales",/* top */ Spelling/grammar/punctuation correction
+2019-10-17T05:03:22+00:00,921676939,915602466,0,130.56.96.56,"Barham, New South Wales",Correcting federal division to Farrer (was incorrectly Riverina)
+2019-12-31T02:15:14+00:00,933292779,931935567,0,Ira Leviton,"Bargo, New South Wales",Fixed a typo found with [[Wikipedia:Typo_Team/moss]].
+2019-09-12T19:04:37+00:00,915354355,911826431,0,Rich Farmbrough,Barmedman,/* top */clean up
+2019-09-28T18:12:34+00:00,918445919,915488519,0,KevRobbAU,"Barraba, New South Wales",fixed typo
+2020-03-09T15:41:57+00:00,944727814,936517045,0,Amenie19,"Barraba, New South Wales",/* Notable residents */Added content
+2019-08-31T22:07:10+00:00,913406003,913007602,0,106.69.99.51,"Bathurst, New South Wales",
+2019-10-24T20:43:31+00:00,922867712,921097021,0,125.7.24.158,"Bathurst, New South Wales",Formatting/Grammatical corrections
+2020-02-20T11:16:10+00:00,941742003,939888178,0,Cnwilliams,"Batlow, New South Wales",Disambiguated: [[service station]] → [[Filling station]]
+2020-04-16T02:40:06+00:00,951221590,951221342,0,AussieNewsHound,Bawley Point,
+2020-06-08T02:04:31+00:00,961366081,951221590,0,AussieNewsHound,Bawley Point,/* External links */
+2019-09-14T04:54:26+00:00,915589931,915540437,0,TAnthony,Beckom,"/* top */Correct citation errors (deprecated dead-url parameters), and genfixes"
+2019-12-03T16:32:23+00:00,929091706,927218383,0,Rodw,"Bega, New South Wales",Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/220.235.21.93|220.235.21.93]] ([[User talk:220.235.21.93|talk]]): Reference or link to specific article needed ([[WP:TW|TW]])
+2019-10-07T14:16:34+00:00,920069284,920069088,0,Woodlot,"Belanglo, New South Wales",add 'more citations needed' template
+2019-10-27T04:38:50+00:00,923222151,923222047,0,TrimmerinWiki,"Bellambi, New South Wales",/* See also */
+2020-04-06T05:41:09+00:00,949386747,949386647,0,Vanished user 251214,"Bellevue Hill, New South Wales",
+2019-09-16T11:16:37+00:00,915991765,911828330,0,120.158.64.211,"Bellevue Hill, New South Wales",
+2019-08-26T06:45:58+00:00,912530112,912530085,0,Crveni5,Bendick Murrell,
+2019-11-23T11:14:07+00:00,927577475,916059005,0,Find bruce,"Berkeley, New South Wales",NSW Electoral Commission profile
+2019-12-29T13:15:04+00:00,933008784,927577475,0,Ingratis,"Berkeley, New South Wales",space
+2019-10-15T16:53:08+00:00,921418875,921315738,0,Rodw,"Berrima, New South Wales","Reverted to revision 915579309 by [[Special:Contributions/Monkbot|Monkbot]] ([[User talk:Monkbot|talk]]): Unexplained ""[[Morris]], Earthmoving"" ([[WP:TW|TW]])"
+2020-01-28T21:37:46+00:00,938056117,938055811,0,49.180.96.23,"Berrima, New South Wales",Added links
+2020-01-10T09:17:17+00:00,935075684,0,0,Fixer88,Berringer Lake,[[WP:AES|←]]Created page with '{{Infobox Australian place | type     = town | name     = Berringer Lake | state    = nsw | image    =  | lga      = [[City of Shoalhaven]]<ref name=gnbsuburbPSC...'
+2020-05-16T00:38:41+00:00,956914368,955102846,0,Fleet Lists,"Bethungra, New South Wales",Update hatnote target
+2018-10-30T10:13:48+00:00,866438876,866438806,0,203.196.41.161,"Bilambil, New South Wales",/* Demographics */
+2020-04-05T05:17:31+00:00,949207584,915597835,0,DannyS712,"Bilbul, New South Wales",Fixing the location of periods / full stops
+2017-06-11T02:35:04+00:00,785001669,720341509,0,JJMC89 bot,Billimari,"Migrate {{Infobox Australian place}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]"
+2019-06-20T12:10:21+00:00,902665845,892012304,0,203.196.41.161,"Billinudgel, New South Wales",
+2020-04-01T02:38:14+00:00,948449070,948446583,0,Flyer22 Frozen,"Billinudgel, New South Wales",Reverted edits by [[Special:Contributions/49.197.65.128|49.197.65.128]] ([[User talk:49.197.65.128|talk]]) ([[WP:HG|HG]]) (3.4.9)
+2019-12-21T18:54:59+00:00,931857611,931834246,0,Dave Rave,"Bilpin, New South Wales","Undid revision 931834246 by [[Special:Contributions/2001:8003:241D:F000:646E:941D:AB63:386|2001:8003:241D:F000:646E:941D:AB63:386]] ([[User talk:2001:8003:241D:F000:646E:941D:AB63:386|talk]]) BM is bells line too, not just the LGA"
+2020-08-17T15:25:05+00:00,973499713,967307953,0,FrescoBot,Binalong,Bot: [[Wikipedia:Linking#Link specificity|link specificity]] and minor changes
+2020-01-29T02:20:47+00:00,938094210,925166841,0,Tassedethe,"Binda, New South Wales",v2.02 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[James Meehan]]
+2019-12-21T09:49:00+00:00,931804183,920821853,0,Citation bot,Binalong,Alter: volume. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:Grimes2]] | via #UCB_webform
+2020-04-03T21:20:37+00:00,948943820,931804183,0,180.150.71.154,Binalong,Byn sounds like bin surely?
+2020-06-08T12:36:15+00:00,961432140,961432134,0,ClueBot NG,"Bingara, New South Wales","Reverting possible vandalism by [[Special:Contribs/Niallshunni|Niallshunni]] to version by Ser Amantio di Nicolao. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3726715) (Bot)"
+2019-11-16T02:27:51+00:00,926395899,926395817,0,~riley,"Bingara, New South Wales",Fix ref
+2020-01-18T08:59:14+00:00,936356034,911832206,0,Coolabahapple,"Binnaway, New South Wales","added see also section and a wikilink to [[Box Ridge, New South Wales]], a locality next to Binnaway."
+2019-02-28T00:25:28+00:00,885433198,867680601,0,Mattinbgn,"Binya, New South Wales",added [[Category:Narrandera Shire]] using [[WP:HC|HotCat]]
+2019-11-19T23:33:09+00:00,927036734,926915425,0,Sun Creator,"Blayney, New South Wales","[[WP:AWB/GF|General fixes]], [[WP:AWB/T|typo(s) fixed]]: 24 hour → 24-hour"
+2019-08-05T10:39:11+00:00,909426723,868919575,0,194.223.6.69,"Blighty, New South Wales",
+2019-07-09T17:39:57+00:00,905524228,836842696,0,Rich Farmbrough,"Blowering, New South Wales",Date formats
+2020-01-31T11:11:17+00:00,938468347,905524228,0,ScottDavis,"Blowering, New South Wales","infobox, removed duplicate references"
+2019-10-19T03:31:40+00:00,921982502,921982388,0,JulieMay54,"Urunga, New South Wales",/* Urunga Wetlands */
+2020-01-22T12:56:57+00:00,937019649,937019011,0,2001:8003:C811:1200:955B:AB23:3E30:D007,"Urunga, New South Wales",/* Culture */Content

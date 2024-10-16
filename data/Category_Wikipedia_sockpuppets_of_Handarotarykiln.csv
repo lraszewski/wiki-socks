@@ -1,0 +1,106 @@
+timestamp,revid,parentid,sock,user,page,message
+2015-09-09T09:36:56+00:00,680196289,680196254,1,Handarotarykiln,Lime kiln,
+2015-09-09T09:36:31+00:00,680196254,680193008,1,Handarotarykiln,Lime kiln,
+2015-09-09T09:29:40+00:00,680195538,680195464,1,Handarotarykiln,Cement kiln,
+2015-09-09T09:29:01+00:00,680195464,680195153,1,Handarotarykiln,Cement kiln,
+2015-09-09T09:25:45+00:00,680195153,680194517,1,Handarotarykiln,Cement kiln,
+2015-09-09T09:18:09+00:00,680194517,673685303,1,Handarotarykiln,Cement kiln,
+2015-09-09T08:08:24+00:00,680187754,680186380,1,Handarotarykiln,Rotary kiln,
+2016-01-29T06:18:25+00:00,702222270,702222124,1,Hdrotarykiln,Rotary kiln,
+2016-01-29T06:16:44+00:00,702222124,701233125,1,Hdrotarykiln,Rotary kiln,http://www.han-da.com/rotary-kiln
+2016-01-27T05:57:48+00:00,701895438,701894149,1,Hdrotarykiln,Lime kiln,
+2016-01-27T05:45:52+00:00,701894149,700866584,1,Hdrotarykiln,Lime kiln,
+2016-05-03T03:05:29+00:00,718366616,668377585,1,Hdrotarykilns,Aggregate (composite),/* Aggregate size */
+2015-09-10T01:28:22+00:00,680307695,680200200,1,Macrina521,Lime kiln,
+2015-09-10T01:18:40+00:00,680306777,680200206,1,Macrina521,Rotary kiln,
+2016-03-09T09:34:56+00:00,709134282,702222900,1,Rotary_kiln_001,Rotary kiln,/* Drive gear */
+2016-02-29T03:16:11+00:00,707481210,707478594,1,Rotary_kiln_001,Rotary dryer,/* Working Principle */
+2016-02-29T02:52:34+00:00,707478594,683631440,1,Rotary_kiln_001,Rotary dryer,/*  Working Principle */
+2016-02-25T01:07:16+00:00,706740604,705536885,1,Rotary_kiln_001,Expanded clay aggregate,/* Characteristics */
+2016-02-24T05:38:36+00:00,706597670,706597600,1,Rotary_kiln_001,Vertical roller mill,/* Method of operation */
+2016-02-24T05:37:45+00:00,706597600,706597457,1,Rotary_kiln_001,Vertical roller mill,/* Method of operation */
+2016-02-24T05:36:06+00:00,706597457,706570475,1,Rotary_kiln_001,Vertical roller mill,/* Benefits over ball mill */
+2016-02-24T01:32:15+00:00,706570475,705189567,1,Rotary_kiln_001,Vertical roller mill,/* Method of operation */
+2016-02-18T01:55:53+00:00,705536885,675311874,1,Rotary_kiln_001,Expanded clay aggregate,/* Characteristics */
+2016-03-14T08:33:15+00:00,709988257,702223115,1,Rotary_kiln_002,Lime kiln,/* Early lime use */
+2016-01-22T02:06:31+00:00,701030935,700914892,1,Rotary_kiln_handa,Rotary kiln,/* classification */ expand the classification
+2016-01-21T06:18:42+00:00,700886208,700866568,1,Rotary_kiln_handa,Rotary kiln,/* Cement Rotary Kiln */
+2016-01-20T08:06:25+00:00,700732288,700574305,1,Rotary_kiln_handa,Rotary kiln,/* Cement Rotary Kiln */
+2016-01-19T09:05:37+00:00,700572093,700570664,1,Rotary_kiln_handa,Rotary kiln,/* History */
+2016-01-19T08:41:05+00:00,700570256,700403527,1,Rotary_kiln_handa,Rotary kiln,/* Introduction */ *History/
+2016-01-18T08:47:36+00:00,700403438,700381033,1,Rotary_kiln_handa,Rotary kiln,/* Principle of Operation */ *History*/Application
+2015-09-09T10:09:06+00:00,680199327,680197251,1,Rotarykiln,Lime kiln,
+2015-09-09T10:06:55+00:00,680199152,680199126,1,Rotarykiln,Rotary kiln,
+2015-09-09T10:06:38+00:00,680199126,680198149,1,Rotarykiln,Rotary kiln,
+2015-09-09T09:02:45+00:00,680193152,680187754,1,Rotarykiln,Rotary kiln,
+2015-09-09T09:01:13+00:00,680193008,680192950,1,Rotarykiln,Lime kiln,
+2015-09-09T09:00:44+00:00,680192950,680192892,1,Rotarykiln,Lime kiln,
+2015-09-09T08:58:39+00:00,680192759,680192714,1,Rotarykiln,Lime kiln,
+2015-09-09T08:58:03+00:00,680192714,680192461,1,Rotarykiln,Lime kiln,
+2015-09-09T08:55:39+00:00,680192461,680192095,1,Rotarykiln,Lime kiln,
+2015-09-09T08:52:02+00:00,680192095,680187647,1,Rotarykiln,Lime kiln,
+2015-09-09T07:58:12+00:00,680186380,680186360,1,Rotarykiln,Rotary kiln,
+2015-09-09T07:57:57+00:00,680186360,680186326,1,Rotarykiln,Rotary kiln,
+2015-09-09T07:57:38+00:00,680186326,680148064,1,Rotarykiln,Rotary kiln,
+2015-09-09T07:55:49+00:00,680186203,668988757,1,Rotarykiln,Lime kiln,
+2015-09-09T01:12:59+00:00,680148064,662674635,1,Rotarykiln,Rotary kiln,
+2016-01-21T03:01:57+00:00,700866430,700733356,1,Rotarykilns,Rotary kiln,
+2016-01-20T03:41:33+00:00,700707776,700707687,1,Rotarykilns,Lime kiln,/* External links */
+2016-01-20T03:40:34+00:00,700707687,700381094,1,Rotarykilns,Lime kiln,/* External links */ lime calcining productio line
+2016-01-18T04:05:56+00:00,700377700,700377640,1,Rotarykilns,Rotary kiln,/* References */
+2016-01-18T04:05:23+00:00,700377640,686121940,1,Rotarykilns,Rotary kiln,/* References */
+2016-01-18T04:02:53+00:00,700377380,700367303,1,Rotarykilns,Lime kiln,
+2016-01-15T07:18:56+00:00,699921907,699921874,1,Rotarykilns,Lime kiln,/* External links */
+2016-01-15T07:18:35+00:00,699921874,699921778,1,Rotarykilns,Lime kiln,/* References */
+2016-01-15T07:17:16+00:00,699921778,699921746,1,Rotarykilns,Lime kiln,/* External links */
+2016-01-15T07:16:45+00:00,699921746,699921715,1,Rotarykilns,Lime kiln,/* References */
+2016-01-15T07:16:07+00:00,699921715,699789885,1,Rotarykilns,Lime kiln,/* References */
+2016-01-14T07:54:24+00:00,699756498,699755961,1,Rotarykilns,Lime kiln,
+2016-01-14T07:47:05+00:00,699755961,699755395,1,Rotarykilns,Lime kiln,
+2016-01-14T07:40:00+00:00,699755395,699755196,1,Rotarykilns,Lime kiln,
+2016-01-14T07:37:53+00:00,699755196,686643188,1,Rotarykilns,Lime kiln,
+2015-11-01T04:53:55+00:00,688476585,688472965,0,Materialscientist,Cement kiln,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Deependra sharma 1998|Deependra sharma 1998]] using [[WP:STiki|STiki]]
+2015-06-23T23:24:06+00:00,668377585,643006317,0,KasparBot,Aggregate (composite),embed {{Authority control}} with wikidata information
+2015-09-15T08:58:44+00:00,681120511,681103097,0,Mean as custard,Cement kiln,Reverted edits by [[Special:Contribs/Pedeall88|Pedeall88]] ([[User talk:Pedeall88|talk]]) to last version by Mean as custard
+2015-12-27T18:04:39+00:00,697022151,694295451,0,Iridescent,Cement kiln,"/* The rotary kiln */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: Now a days → Nowadays using [[Project:AWB|AWB]]"
+2016-03-14T08:38:36+00:00,709988648,709988257,0,Materialscientist,Lime kiln,Reverted edits by [[Special:Contribs/Rotary kiln 002|Rotary kiln 002]] ([[User talk:Rotary kiln 002|talk]]) to last version by Materialscientist
+2015-08-09T19:59:34+00:00,675311874,667113197,0,Ser Amantio di Nicolao,Expanded clay aggregate,[[Help:Cat-a-lot|Cat-a-lot]]: Moving from [[Category:Soil based building materials]] to [[Category:Soil-based building materials]]
+2016-02-08T20:03:48+00:00,703975970,697022151,0,144.29.129.19,Cement kiln,/* The rotary kiln */
+2015-12-04T09:34:13+00:00,693707135,693700690,0,Caballero1967,Cement kiln,Reverted 1 edit by [[Special:Contributions/1.39.13.188|1.39.13.188]] identified as test/vandalism using [[WP:STiki|STiki]]
+2016-01-29T06:28:57+00:00,702223115,702098812,0,Materialscientist,Lime kiln,rvt spam | fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]
+2015-10-20T11:17:58+00:00,686643188,685089299,0,Marionlad,Lime kiln,/* Australia */
+2016-01-28T12:24:23+00:00,702098812,701895438,0,Filedelinkerbot,Lime kiln,Bot: Removing [[Commons:File:Lime-calcining-system.jpg]] ([[:File:Lime-calcining-system.jpg|en]]). It was deleted on Commons by [[:Commons:User:Herbythyme|Herbythyme]] (Copyright violation; see [[Commons:Commons:Licensing]]).
+2015-09-10T13:12:48+00:00,680370828,680370698,0,Frietjes,Lime kiln,/* Great Britain */
+2016-01-21T03:03:27+00:00,700866584,700707776,0,Materialscientist,Lime kiln,Reverted edits by [[Special:Contribs/Rotarykilns|Rotarykilns]] ([[User talk:Rotarykilns|talk]]) to last version by Materialscientist
+2015-09-28T16:28:09+00:00,683170917,683124481,0,DMacks,Lime kiln,Reverted edits by [[Special:Contribs/154.42.167.35|154.42.167.35]] ([[User talk:154.42.167.35|talk]]) to last version by Frietjes
+2016-01-18T04:40:19+00:00,700381094,700381047,0,Materialscientist,Lime kiln,rvt unsourced addition
+2016-03-09T09:53:53+00:00,709136172,707701143,0,Mean as custard,Rotary dryer,de-spam
+2015-09-22T09:57:59+00:00,682222183,682187469,0,Mean as custard,Rotary dryer,
+2015-10-17T04:11:13+00:00,686121940,686121426,0,Materialscientist,Rotary kiln,Reverted edits by [[Special:Contribs/192.173.146.188|192.173.146.188]] ([[User talk:192.173.146.188|talk]]) to last version by Rchandra
+2015-10-01T14:28:01+00:00,683631440,683479857,0,72.95.132.10,Rotary dryer,deleted Working Principle (redundant copy)
+2016-01-29T06:25:57+00:00,702222900,702222270,0,Materialscientist,Rotary kiln,Reverted edits by [[Special:Contribs/Hdrotarykiln|Hdrotarykiln]] ([[User talk:Hdrotarykiln|talk]]) to last version by Bgwhite
+2016-03-09T09:48:17+00:00,709135611,709134282,0,Mean as custard,Rotary kiln,Reverted edits by [[Special:Contribs/Rotary kiln 001|Rotary kiln 001]] ([[User talk:Rotary kiln 001|talk]]) to last version by Materialscientist
+2015-10-04T15:52:25+00:00,684100129,683223380,0,Rchandra,Rotary kiln,Copyedit (minor)
+2015-09-28T23:04:05+00:00,683223380,680960791,0,SQMeaner,Rotary kiln,
+2016-01-23T08:45:48+00:00,701233125,701032289,0,Bgwhite,Rotary kiln,[[WP:CHECKWIKI]] error fix #94. Stray ref tag. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]] (11800)
+2016-01-20T08:19:14+00:00,700733356,700732288,0,Materialscientist,Rotary kiln,Reverted edits by [[Special:Contribs/Rotary kiln handa|Rotary kiln handa]] ([[User talk:Rotary kiln handa|talk]]) to last version by Mean as custard
+2016-01-22T02:17:43+00:00,701032289,701030935,0,Materialscientist,Rotary kiln,Undid revision 701030935 by [[Special:Contributions/Rotary kiln handa|Rotary kiln handa]] copyvio: http://en.pedeall.com/baike/view/241.html etc.
+2016-01-18T08:48:39+00:00,700403527,700403438,0,Materialscientist,Rotary kiln,Reverted edits by [[Special:Contribs/Rotary kiln handa|Rotary kiln handa]] ([[User talk:Rotary kiln handa|talk]]) to last version by Materialscientist
+2015-09-01T07:13:40+00:00,678888046,649903921,0,Alexander Z.,Vertical roller mill,interwiki:de
+2016-04-04T12:49:26+00:00,713507031,709136069,0,61.12.0.82,Vertical roller mill,/* Manufacturers */
+2016-03-09T09:52:46+00:00,709136069,706773435,0,Mean as custard,Vertical roller mill,de-spam
+2015-12-23T15:42:34+00:00,696497302,696368441,0,Yikkayaya,Vertical roller mill,Disambiguated: [[milling]] → [[Milling (grinding)]]
+2015-12-08T09:44:05+00:00,694295451,693707135,0,113.193.249.36,Cement kiln,/* Preheaters */
+2015-03-03T15:27:48+00:00,649697794,644236383,0,86.158.15.38,Cement kiln,"/* Early history */ remove section added 6 years ago, and unchallenged since then.  Kilns said to be up-draft (never true) and completely wrong explanation of chamber kiln."
+2016-04-22T10:39:21+00:00,716553532,709135643,0,68.37.168.37,Expanded clay aggregate,/* History */ l
+2015-06-15T22:35:57+00:00,667113197,663738424,0,Guy Macon,Expanded clay aggregate,"[[Wikipedia:WikiProject Fix common mistakes|Corrected ""a the"" error]]"
+2016-02-25T01:07:16+00:00,706740604,705536885,0,Rotary kiln 001,Expanded clay aggregate,/* Characteristics */
+2015-06-28T03:03:52+00:00,668988757,661945049,0,Chris the speller,Lime kiln,/* Great Britain */replaced: 19th century → 19th-century (2) using [[Project:AWB|AWB]]
+2015-10-10T18:56:10+00:00,685089299,683170917,0,Philg88,Lime kiln,/* Early kilns */ ce
+2015-05-12T03:56:47+00:00,661945049,627511660,0,Narayansg,Lime kiln,/* Carbon dioxide emissions */
+2016-03-01T08:38:19+00:00,707701143,707481210,0,Yobot,Rotary dryer,"Removed invisible unicode characters + other fixes, replaced: → using [[Project:AWB|AWB]] (11963)"
+2015-06-12T02:55:08+00:00,666572305,656609197,0,171.8.214.46,Rotary dryer,/* References */
+2015-09-10T02:29:26+00:00,680314783,666572305,0,Kilndesign,Rotary dryer,
+2015-09-10T11:35:54+00:00,680361363,680306777,0,Rsrikanth05,Rotary kiln,Reverted edits by [[Special:Contribs/Macrina521|Macrina521]] ([[User talk:Macrina521|talk]]) to last version by Mean as custard
+2015-03-04T22:33:32+00:00,649903921,646955630,0,Mild Bill Hiccup,Vertical roller mill,Cleaned up using [[WP:AutoEd|AutoEd]]
+2016-02-25T05:40:06+00:00,706773435,706597670,0,Yobot,Vertical roller mill,"Removed invisible unicode characters + other fixes, replaced: → using [[Project:AWB|AWB]] (11951)"

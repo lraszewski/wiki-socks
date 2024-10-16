@@ -1,0 +1,555 @@
+timestamp,revid,parentid,sock,user,page,message
+2012-01-11T09:30:38+00:00,470763556,460660651,1,Rule_Outed,Anheuser-Busch,/* Corporate Social Responsibility */
+2012-01-11T09:28:18+00:00,470763380,466411734,1,Rule_Outed,Applied Materials,/* Corporate Social Responsibility */
+2012-01-11T09:27:11+00:00,470763307,467988498,1,Rule_Outed,Autodesk,/* Corporate Social Responsibility */
+2012-01-11T09:26:21+00:00,470763234,470038457,1,Rule_Outed,Avaya,/* Corporate Social Responsibility */
+2012-01-11T09:24:33+00:00,470763076,465608838,1,Rule_Outed,Ball Corporation,/* Corporate Social Responsibility */
+2012-01-11T09:22:43+00:00,470762946,470233868,1,Rule_Outed,Bank of America,/* Corporate Social Responsibility */
+2012-01-11T09:21:21+00:00,470762840,470762779,1,Rule_Outed,Best Buy,/* Corporate Social Responsibility */
+2012-01-11T09:20:26+00:00,470762779,469262269,1,Rule_Outed,Best Buy,add CSR
+2012-01-11T09:19:22+00:00,470762693,469199150,1,Rule_Outed,Baxter International,add CSR
+2012-01-11T08:13:07+00:00,470757233,470499525,1,Rule_Outed,Alcatel-Lucent,add CSR
+2012-01-11T08:10:01+00:00,470756964,465800045,1,Rule_Outed,MTR,add CSR
+2012-01-11T08:06:38+00:00,470756764,463311929,1,Rule_Outed,The Hong Kong and China Gas Company,add CSR
+2012-01-11T08:04:48+00:00,470756636,459369824,1,Rule_Outed,Alberto-Culver,add CSR
+2012-01-11T08:00:57+00:00,470756296,451862917,1,Rule_Outed,Allens (law firm),add CSR
+2012-01-11T07:58:34+00:00,470756098,464992431,1,Rule_Outed,CLP Group,add CSR
+2012-01-11T04:56:43+00:00,470740258,448720749,1,Rule_Outed,Airport Authority Hong Kong,
+2012-01-11T04:55:16+00:00,470740113,470261583,1,Rule_Outed,HSBC (Hong Kong),
+2012-01-11T04:53:58+00:00,470739994,449731314,1,Rule_Outed,Sino Group,
+2012-01-11T04:52:09+00:00,470739820,451774463,1,Rule_Outed,Hang Lung Properties,
+2012-01-11T04:50:21+00:00,470739640,470732276,1,Rule_Outed,Cathay Pacific,
+2012-01-11T04:41:13+00:00,470738802,469613958,1,Rule_Outed,PwC,
+2012-01-11T04:38:58+00:00,470738604,463486051,1,Rule_Outed,Environmental Protection Department,
+2012-01-11T03:31:41+00:00,470730970,369159440,1,Rule_Outed,Electrical and Mechanical Services Department,
+2012-01-11T03:28:08+00:00,470730521,464540589,1,Rule_Outed,Hong Kong Jockey Club,
+2012-01-10T07:53:17+00:00,470577871,463511604,1,Rule_Outed,City Telecom (Hong Kong),Added a CSR section
+2011-09-22T05:28:01+00:00,451798578,444859624,1,Rule_Outed,City Telecom (Hong Kong),/* External links */
+2011-09-22T05:12:55+00:00,451797472,385552197,1,Rule_Outed,St. James' Settlement (Hong Kong),/* External links */
+2011-09-22T05:08:47+00:00,451797019,445343992,1,Rule_Outed,Henderson Land Development,/* External links */
+2011-09-22T04:51:31+00:00,451795473,429462861,1,Rule_Outed,PNM Resources,/* External links */
+2011-09-22T04:03:36+00:00,451790629,449956926,1,Rule_Outed,Swire Properties,/* External links */
+2011-09-22T03:40:53+00:00,451788342,450407292,1,Rule_Outed,Pacific Gas and Electric Company,/* External links */
+2011-09-22T02:51:01+00:00,451783233,451742312,1,Rule_Outed,IBM,/* External links */
+2011-09-22T02:18:16+00:00,451780149,407521934,1,Rule_Outed,Standard Chartered Hong Kong,/* External links */
+2011-09-22T01:57:28+00:00,451777883,451542247,1,Rule_Outed,Intel,/* External links */
+2011-08-31T09:36:59+00:00,447629097,445852826,1,Rule_Outed,TurboJET,/* External links */
+2011-08-31T09:20:43+00:00,447627878,447446549,1,Rule_Outed,Guidehouse,/* External links */
+2011-08-31T08:31:53+00:00,447623997,446350352,1,Rule_Outed,Ricoh,/* External links */
+2011-08-31T07:37:39+00:00,447619495,447619465,1,Rule_Outed,OOCL,/* External links */
+2011-08-31T07:37:14+00:00,447619465,436972133,1,Rule_Outed,OOCL,/* External links */
+2011-08-31T06:34:43+00:00,447614051,447601267,1,Rule_Outed,Aedas,/* Aedas links */
+2011-08-31T03:32:14+00:00,447598067,445625118,1,Rule_Outed,Melco International Development,/* External links */
+2011-08-31T02:54:42+00:00,447594455,444352080,1,Rule_Outed,Baxter International,/* External links */
+2011-08-31T02:16:45+00:00,447590552,447590422,1,Rule_Outed,Mexel,/* External links */
+2011-08-31T02:15:44+00:00,447590422,401238567,1,Rule_Outed,Mexel,/* External links */
+2011-08-31T01:55:18+00:00,447588212,432975660,1,Rule_Outed,Capita Property and Infrastructure,/* External links */
+2011-08-26T09:40:26+00:00,446796997,429996535,1,Rule_Outed,Link REIT,/* External links */
+2011-08-26T09:29:14+00:00,446795941,441983882,1,Rule_Outed,BYD Auto,/* External links */
+2011-08-26T09:25:52+00:00,446795636,445454545,1,Rule_Outed,Siemens,/* External links */
+2011-08-26T09:19:44+00:00,446795145,443896215,1,Rule_Outed,Covestro,/* External links */
+2011-08-25T07:44:19+00:00,446618106,409495587,1,Rule_Outed,Environmental Protection Department,/* External links */
+2011-08-25T07:41:28+00:00,446617906,424838800,1,Rule_Outed,Carbon Trust,/* External links */
+2011-08-25T07:17:16+00:00,446615984,446302354,1,Rule_Outed,Best Buy,/* External links */
+2012-01-06T02:50:50+00:00,469835035,469834914,1,Gingin27,Lookbook,/* External links */
+2012-01-06T02:50:01+00:00,469834914,469833395,1,Gingin27,Lookbook,/* References */
+2012-01-06T02:38:26+00:00,469833395,469833270,1,Gingin27,Lookbook,/* References */
+2012-01-06T02:37:24+00:00,469833270,441867195,1,Gingin27,Lookbook,/* References */
+2012-01-13T09:27:15+00:00,471112465,455167991,1,Outed_Rule,Panda Hotel,add a CSR section
+2012-01-13T09:23:52+00:00,471112127,459809542,1,Outed_Rule,Henderson Land Development,add a CSR section
+2012-01-13T09:19:07+00:00,471111678,468070148,1,Outed_Rule,Swire Properties,add a CSR section
+2012-01-13T09:17:40+00:00,471111562,470874749,1,Outed_Rule,Standard Chartered Hong Kong,add a CSR section
+2012-01-13T09:13:29+00:00,471111169,454221446,1,Outed_Rule,New World Development,add a CSR section
+2012-01-13T09:12:09+00:00,471111041,470977416,1,Outed_Rule,Mott MacDonald,add a CSR section
+2012-01-13T09:09:37+00:00,471110796,469026241,1,Outed_Rule,Hong Kong Airport Services,add a CSR section and references
+2012-01-13T09:07:34+00:00,471110605,471110568,1,Outed_Rule,Grundfos,/* References */
+2012-01-13T09:06:57+00:00,471110568,466763845,1,Outed_Rule,Grundfos,add a CSR section
+2012-01-13T08:57:53+00:00,471109682,461711783,1,Outed_Rule,Eaton Hotel Hong Kong,add a CSR section
+2012-01-13T08:49:47+00:00,471108940,470233066,1,Outed_Rule,Citigroup,add a CSR section
+2012-01-13T08:45:42+00:00,471108584,400666119,1,Outed_Rule,China Harbour Engineering Company,add a CSR section
+2012-01-13T08:36:23+00:00,471107727,470789108,1,Outed_Rule,City Telecom (Hong Kong),add a CSR section
+2011-10-18T05:26:24+00:00,456131068,454203828,1,Outed_Rule,Li & Fung,/* External links */
+2011-10-11T04:06:39+00:00,454985579,454924765,1,Outed_Rule,Siemens,/* External links */
+2011-10-11T04:03:34+00:00,454985269,424167328,1,Outed_Rule,Pöyry,/* External links */
+2011-10-06T04:13:41+00:00,454181967,453896444,1,Outed_Rule,TDK,
+2011-10-04T04:43:44+00:00,453835332,445304317,1,Outed_Rule,Hong Kong Exchanges and Clearing,/* External links */
+2011-10-04T04:40:31+00:00,453834931,433497192,1,Outed_Rule,Ming Pao,/* External links */
+2011-10-04T02:26:44+00:00,453818911,453596774,1,Outed_Rule,Whirlpool Corporation,/* External links */
+2011-10-04T02:08:29+00:00,453816408,453806791,1,Outed_Rule,PwC,/* External links */
+2012-01-10T02:07:03+00:00,470542754,461842632,1,TreeBread,Bally (fashion house),/* External links */
+2012-01-09T07:41:18+00:00,470395393,457681425,1,TreeBread,Stone Island,/* Links */
+2012-01-09T04:27:03+00:00,470377953,466415301,1,TreeBread,Loyalty business model,Reference on an e-commerce perspective
+2012-01-09T03:56:25+00:00,470374776,470374558,1,TreeBread,Block B,/* External links */
+2012-01-09T03:54:28+00:00,470374558,470306097,1,TreeBread,Block B,/* External links */
+2012-01-09T02:22:51+00:00,470365280,468046259,1,TreeBread,Japanese street fashion,/* External links */
+2012-01-06T02:43:13+00:00,469834043,469833820,1,TreeBread,Jessica Jung,/* Modeling */
+2012-01-06T02:41:39+00:00,469833820,469716380,1,TreeBread,Jessica Jung,/* Modeling */
+2012-01-06T02:27:00+00:00,469831779,469775964,1,TreeBread,Harajuku,/* External links */
+2011-08-18T09:44:31+00:00,445477680,444025701,1,TreeBread,Social analytics,
+2011-07-08T14:06:27+00:00,438417462,438233582,1,TreeBread,Low-carbon economy,/* External links */
+2011-04-13T09:49:13+00:00,423830718,421283322,1,TreeBread,Low-carbon economy,/* External links */
+2011-03-29T05:48:47+00:00,421271995,420632525,1,TreeBread,Allens (law firm),/* External links */
+2009-12-14T04:43:29+00:00,331562202,322984431,1,TreeBread,Detoxification,
+2009-12-14T04:31:43+00:00,331560751,326778522,1,TreeBread,Drug rehabilitation,/* External links */
+2009-11-23T04:47:30+00:00,327416580,326634059,1,TreeBread,Harajuku,/* External links */
+2009-11-23T04:38:21+00:00,327415525,325943230,1,TreeBread,Ganguro,/* External links */
+2009-11-17T04:15:18+00:00,326290539,316759872,1,TreeBread,Variable air volume,/* See also */
+2009-11-17T04:13:25+00:00,326290300,324221457,1,TreeBread,Automatic control,/* See also */
+2009-11-17T04:10:43+00:00,326289920,326190855,1,TreeBread,Biomass (energy),/* External links */
+2009-11-17T04:08:14+00:00,326289573,325051418,1,TreeBread,Cooling tower,/* External links */
+2009-11-03T16:28:05+00:00,323712462,322191539,1,TreeBread,Leggings,
+2009-09-25T02:13:28+00:00,316045023,316044929,1,TreeBread,Direct digital control,/* External links */
+2009-09-25T02:12:47+00:00,316044929,309276777,1,TreeBread,Direct digital control,/* External links */
+2009-09-25T02:10:39+00:00,316044606,309739973,1,TreeBread,X10 (industry standard),/* External links */
+2009-09-25T02:07:06+00:00,316044046,314551246,1,TreeBread,Home automation,/* External links */
+2009-09-25T02:06:02+00:00,316043877,299123449,1,TreeBread,Digital home,/* References */
+2009-09-25T02:02:50+00:00,316043344,316043060,1,TreeBread,Building automation,/* References */
+2009-09-25T02:02:21+00:00,316043269,314743707,1,TreeBread,Building management system,/* External links */
+2009-09-25T02:01:02+00:00,316043060,314551452,1,TreeBread,Building automation,/* References */
+2009-05-19T16:29:49+00:00,290973587,290971921,1,TreeBread,HVAC control system,/* Direct digital control */
+2009-05-19T16:21:06+00:00,290971921,290970165,1,TreeBread,HVAC control system,/* External links */
+2009-05-19T16:12:17+00:00,290970165,279772150,1,TreeBread,HVAC control system,/* Direct digital control */
+2009-05-19T15:30:20+00:00,290962141,290097566,1,TreeBread,Comparison of online backup services,
+2009-05-19T15:16:51+00:00,290959649,289904558,1,TreeBread,Comparison of file comparison tools,/* General */
+2009-05-18T13:49:01+00:00,290713199,290702272,1,TreeBread,List of backup software,/* Proprietary */
+2009-05-18T11:24:46+00:00,290694162,290685170,1,TreeBread,File synchronization,/* Commercial */
+2010-05-21T12:49:17+00:00,363379652,354062724,0,Takamaxa,Airport Authority Hong Kong,/* External links */
+2011-04-18T00:08:16+00:00,424605625,420648646,0,Chrisahn,Alberto-Culver,removed unsourced 'number one' claim
+2009-09-09T14:47:46+00:00,312788395,308472081,0,Rjwilmsi,Alcatel-Lucent,/* Organization */cite tempate date fixes using [[Project:AutoWikiBrowser|AWB]]
+2011-04-06T23:55:54+00:00,422777463,421556496,0,MySydney,Allens (law firm),/* Notable alumni */
+2010-11-11T18:47:47+00:00,396173471,390965900,0,Izvora,Automatic control,
+2011-09-22T15:33:57+00:00,451862917,449360924,0,MrOllie,Allens (law firm),/* External links */ rm spammed site
+2011-06-15T12:37:21+00:00,434401345,434401240,0,82.198.28.227,Autodesk,
+2009-08-13T22:26:23+00:00,307829216,307828996,0,Nicodemus8,Allens (law firm),
+2009-09-26T01:41:00+00:00,316232313,316229755,0,85.83.9.247,Aedas,"Removed a listed award since it is untrue, the project did NOT win an award but only got a comendation"
+2010-02-07T02:09:28+00:00,342406114,342077441,0,Nicodemus8,Allens (law firm),
+2011-08-08T18:33:24+00:00,443722767,443721136,0,Wireless friend,Automatic control,"correction, clarification, logical order"
+2010-01-05T08:26:36+00:00,335966142,335875910,0,Tinton5,Alberto-Culver,
+2011-09-06T09:20:23+00:00,448720749,446482934,0,Good Olfactory,Airport Authority Hong Kong,added [[Category:Hong Kong International Airport]] using [[WP:HC|HotCat]]
+2011-09-03T00:03:37+00:00,448126528,440814975,0,Jstingel,Anheuser-Busch,
+2010-12-16T05:13:52+00:00,402646817,401291344,0,122.163.19.21,Aedas,/* Aedas Today */
+2009-12-10T11:11:44+00:00,330849763,330667493,0,SmackBot,Alcatel-Lucent,Date maintenance tags and general  fixes using [[Project:AWB]]
+2010-02-06T21:28:02+00:00,342359148,342340606,0,Jpgordon,Autodesk,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/66.175.148.151|66.175.148.151]] ([[User talk:66.175.148.151|talk]]) to last version by 169.244.195.225
+2010-08-05T04:31:13+00:00,377243945,377012459,0,Pzepedavera,Applied Materials,
+2010-08-20T00:03:38+00:00,379872743,379867827,0,Pzepedavera,Applied Materials,/* Semiconductor (Silicon Systems Group) */ Added a photo of the Applied Endura platform.
+2011-11-14T20:00:44+00:00,460660651,459088849,0,198.82.111.131,Anheuser-Busch,
+2011-08-18T21:12:27+00:00,445565058,445520877,0,Geek2003,Avaya,added Corporate Information
+2011-06-30T12:35:24+00:00,437041482,435997334,0,Xcrivener,Avaya,"/* Products acquired from Nortel */ Added CallPilot, removed invalid crosslinks"
+2010-06-10T22:24:52+00:00,367302158,366966630,0,165.123.20.117,Baxter International,
+2009-10-21T23:50:59+00:00,321292293,320714576,0,Xqbot,BYD Auto,robot Modifying: [[ca:BYD Auto]]
+2009-11-26T07:33:51+00:00,328006060,327426691,0,98.212.41.6,Bank of America,/* Expansion outside California */
+2009-11-15T19:05:06+00:00,326021463,324091909,0,Delta 51,BYD Auto,+pl
+2011-09-29T14:57:17+00:00,453057131,448948533,0,66.61.34.48,Baxter International,"/* History */ Founded by Donald Baxter, not Davis Baxter."
+2011-06-29T21:19:12+00:00,436926905,436025276,0,Tbaseler14,Ball Corporation,
+2010-01-01T22:56:36+00:00,335355283,329545160,0,Jovianeye,Bally (fashion house),clean up using [[Project:AWB]]
+2010-04-26T20:23:16+00:00,358484263,358484175,0,Coolcaesar,Best Buy,Still trying to fix this mess with the layout
+2011-02-17T10:07:34+00:00,414409490,404053918,0,116.49.56.17,Bally (fashion house),
+2010-12-06T08:10:10+00:00,400819318,388321413,0,Financial Zorro,Ball Corporation,Updating company box for Fiscal 2009
+2011-08-05T01:35:58+00:00,443112152,442918014,0,Ugen64,Bank of America,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Nickoso|Nickoso]] ([[User talk:Nickoso|talk]]) to last version by Fat&Happy
+2009-10-03T01:38:20+00:00,317568185,317567915,0,Caribroo,Baxter International,"fixed my oops, I think."
+2010-01-23T02:29:20+00:00,339465613,339465550,0,MC10,Best Buy,"Reverted 3 edits by [[Special:Contributions/MC10|MC10]], [[Special:Contributions/74.211.137.58|74.211.137.58]] and [[Special:Contributions/24.121.86.32|24.121.86.32]] to last revision by The Thing That Should Not Be ([[WP:HG|HG]])"
+2010-05-14T18:44:00+00:00,362137912,362013773,0,174.114.234.6,Best Buy,/* PC optimization */
+2011-09-22T15:25:40+00:00,451861747,451861551,0,MrOllie,Best Buy,/* External links */ [[WP:EL]]
+2010-02-16T01:25:57+00:00,344319400,344319369,0,5 albert square,Best Buy,Reverted edits by [[Special:Contributions/72.206.105.96|72.206.105.96]] to last revision by GorillaWarfare ([[WP:HG|HG]])
+2011-04-08T20:49:01+00:00,423077198,422983420,0,98.243.115.148,Best Buy,
+2011-03-15T17:34:51+00:00,418982282,418820136,0,Xsanda,Biomass (energy),/* Biomass sources */
+2011-08-22T12:58:14+00:00,446144930,446134052,0,195.229.235.45,Building management system,/* A BMS normally comprises */
+2011-12-08T17:53:39+00:00,464802070,464801289,0,168.170.197.80,Building management system,/* Functions of Building Management Systems */
+2011-07-11T13:52:04+00:00,438909657,434439184,0,Ankimai,Building automation,/* Manufacturers */ removed red links
+2011-11-20T02:59:18+00:00,461530987,461457901,0,67.168.70.14,Block B,
+2010-10-06T08:18:34+00:00,389057578,389057559,0,Vrenator,Biomass (energy),Reverted edits by [[Special:Contributions/62.49.186.28|62.49.186.28]] to last version by 5 albert square ([[User:Ale_jrb/Scripts/igloo|GLOO]])
+2010-03-29T18:03:24+00:00,352779924,352689175,0,Andrew c,Building automation,redlinks
+2011-10-17T03:56:45+00:00,455954044,454922924,0,71.118.63.154,Building automation,/* Manufacturers */
+2011-12-18T22:40:39+00:00,466595208,465545253,0,FrescoBot,Building automation,Bot: [[User:FrescoBot/Links|link syntax/spacing]]
+2009-10-27T02:00:26+00:00,322263957,310241826,0,125.215.197.98,CLP Group,/* Hong Kong */
+2009-07-27T11:06:40+00:00,304456261,304456226,0,ChurchLukas,Capita Property and Infrastructure,
+2011-03-06T20:55:30+00:00,417486673,417332678,0,Mr.choppers,CLP Group,Undid revision 417332678 by [[Special:Contributions/Fleetham|Fleetham]] ([[User talk:Fleetham|talk]])
+2011-08-31T01:55:18+00:00,447588212,432975660,0,Rule Outed,Capita Property and Infrastructure,/* External links */
+2011-04-19T11:05:27+00:00,424838800,424701765,0,SoxBot,Carbon Trust,Removing categorization template
+2011-06-05T12:12:30+00:00,432669540,432563164,0,221.126.113.238,Cathay Pacific,
+2009-07-14T02:34:26+00:00,301976654,298329792,0,ZzzrByte,Carbon Trust,/* External links */ Carbon Trust funded research in laser ignition systems
+2011-02-01T05:16:35+00:00,411321971,410714234,0,Djsflynn,Cathay Pacific,/* Business class */
+2010-04-28T17:40:58+00:00,358883669,357582533,0,192.193.171.155,Citigroup,/* Brands */
+2010-04-23T02:00:13+00:00,357742992,357742859,0,Visik,China Harbour Engineering Company,
+2010-10-05T03:57:25+00:00,388829239,388828678,0,Tabletop,China Harbour Engineering Company,signed
+2010-10-31T21:43:26+00:00,394049476,393152203,0,Vladmirfish,Citigroup,/* Real estate */ fixed link for Citigroup building in Queens
+2011-09-26T11:26:47+00:00,452506981,452505076,0,AnomieBOT,City Telecom (Hong Kong),Dating maintenance tags: {{Coi}} {{Cn}} {{Refimprove}}
+2010-05-20T05:17:35+00:00,363144707,352356599,0,203.117.64.227,City Telecom (Hong Kong),
+2011-07-03T06:40:11+00:00,437512927,437223793,0,96.55.112.171,Comparison of file comparison tools,
+2010-09-29T15:05:08+00:00,387735856,387124813,0,58.33.35.242,Comparison of file comparison tools,update Compare++ version
+2010-10-13T02:38:03+00:00,390426124,389977229,0,64.83.215.174,Comparison of online backup services,/* Comparison */
+2009-08-12T15:06:21+00:00,307568362,307391024,0,TXiKiBoT,Cooling tower,robot Adding: [[eo:Malvarmiga turo]]
+2011-08-14T20:53:10+00:00,444859624,432042325,0,Aspects,City Telecom (Hong Kong),Removed flagicon per [[Template:Infobox company]]
+2011-10-13T19:10:53+00:00,455417229,455124003,0,GrouchoBot,Cooling tower,r2.6.4) (Robot: Adding [[sk:Chladiaca veža]]
+2011-02-24T10:17:01+00:00,415666547,396210321,0,212.64.228.100,Covestro,
+2009-08-19T09:24:39+00:00,308849995,208944615,0,116.49.200.125,Covestro,
+2010-11-30T10:59:13+00:00,399701735,398511451,0,Luckas-bot,Detoxification,[r2.5.2] robot Adding: [[te:నిర్విషీకరణ]]
+2010-12-15T04:20:47+00:00,402461185,402461144,0,75.179.176.190,Detoxification,/* Metabolic detoxification */
+2011-03-23T23:51:51+00:00,420408150,420312281,0,Cybercobra,Comparison of online backup services,Reverted 1 edit by [[Special:Contributions/62.0.10.163|62.0.10.163]] ([[User talk:62.0.10.163|talk]]). ([[WP:TW|TW]])
+2009-09-25T13:37:35+00:00,316121364,316120210,0,Mindmatrix,Digital home,"cleanup, though it still needs work"
+2011-06-11T21:11:00+00:00,433776543,426081588,0,Mandarax,Direct digital control,"/* Integration */[[WP:AWB/T|Typo patrol]], typos fixed: i.e  → i.e. using [[Project:AWB|AWB]] (7734)"
+2011-02-09T05:34:00+00:00,412863374,412847278,0,Dicklyon,Direct digital control,Reverted 1 edit by [[Special:Contributions/199.64.0.252|199.64.0.252]] ([[User talk:199.64.0.252|talk]]); Unsupported addition to list. ([[WP:TW|TW]])
+2011-06-10T08:11:30+00:00,433521065,385310084,0,Kiaitutoi,Digital home,[[WP:AES|←]]Redirected page to [[Domotics]]
+2011-04-01T18:02:24+00:00,421854122,421839961,0,Tedder,Drug rehabilitation,Reverted 1 edit by [[Special:Contributions/70.240.168.58|70.240.168.58]] ([[User talk:70.240.168.58|talk]]); Spam. ([[WP:TW|TW]])
+2010-06-06T09:05:26+00:00,366334938,349985216,0,BenzolBot,Direct digital control,robot Modifying: [[de:Direct Digital Control (Regelungstechnisches Verfahren)]]
+2011-01-30T13:48:06+00:00,410961548,410958333,0,Ratemonth,Drug rehabilitation,Undid revision 410958333 by [[Special:Contributions/RobWilliams10|RobWilliams10]] ([[User talk:RobWilliams10|talk]])
+2011-04-01T09:16:57+00:00,421791401,413666395,0,Dawynn,Eaton Hotel Hong Kong,/* External links */
+2011-11-21T04:01:48+00:00,461711783,421791401,0,CommonsDelinker,Eaton Hotel Hong Kong,"Removing ""Eaton_hong_kong.jpg"", it has been deleted from Commons by [[commons:User:Fastily|Fastily]] because: [[commons:COM:OTRS|No permission]] since 13 November 2011."
+2010-06-20T11:13:17+00:00,369159440,354061648,0,Takamaxa,Electrical and Mechanical Services Department,/* External links */
+2009-01-29T09:53:15+00:00,267161664,264479019,0,Rjwilmsi,Environmental Protection Department,"[[User:Rjwilmsi#Other_fixes|gen fixes]]:(2) apply [[Template:Lang]] (1), using [[Project:AutoWikiBrowser|AWB]]"
+2010-07-10T11:42:34+00:00,372730786,369617803,0,Liveste,Environmental Protection Department,Minor wikification; rm tag
+2011-09-22T15:30:11+00:00,451862393,446618106,0,MrOllie,Environmental Protection Department,Reverted 1 edit by [[Special:Contributions/Rule Outed|Rule Outed]] ([[User talk:Rule Outed|talk]]): Rv linkspam. ([[WP:TW|TW]])
+2011-04-04T16:21:03+00:00,422338339,422336249,0,N5iln,File synchronization,Reverted edits by [[Special:Contributions/79.66.209.235|79.66.209.235]] ([[User talk:79.66.209.235|talk]]) to last revision by 66.68.36.41 ([[WP:HG|HG]])
+2009-09-28T20:20:52+00:00,316751281,316383494,0,95.115.104.169,File synchronization,/* Open source */
+2011-09-02T06:02:39+00:00,447994385,447994381,0,ClueBot NG,Ganguro,"Reverting possible vandalism by [[Special:Contributions/50.72.99.97|50.72.99.97]] to version by Chikazuku. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (564268) (Bot)"
+2011-01-23T04:53:35+00:00,409495587,396306893,0,Yobot,Environmental Protection Department,[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7567)
+2010-09-14T22:41:32+00:00,384877574,384877537,0,L Kensington,Ganguro,Reverted edits by [[Special:Contributions/156.34.220.1|156.34.220.1]] ([[User talk:156.34.220.1|talk]]) to last revision by Grampion76 ([[WP:HG|HG]])
+2010-07-15T20:44:51+00:00,373690358,369952030,0,CliffC,Grundfos,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Alex.whittingham|Alex.whittingham]] ([[User talk:Alex.whittingham|talk]]) to last version by EmausBot
+2011-10-05T12:38:46+00:00,454063291,440684350,0,Mikesmith911,Grundfos,Added current lead executive
+2010-06-06T00:29:01+00:00,366282535,342068296,0,87.114.27.168,Grundfos,Addition of detail ref aquisition of Alldos
+2010-04-21T00:09:54+00:00,357309742,334117205,0,Yobot,Guidehouse,"Autotagging+genfixes, removed orphan tag using [[Project:AWB|AWB]]"
+2009-06-16T15:00:42+00:00,296767226,296757512,0,UnitedStatesian,Guidehouse,revert edits made without comment: please do no remove sourced information from Wikipedia
+2009-04-27T19:02:38+00:00,286491412,272922216,0,193.3.1.132,Grundfos,"/* Ownership */  there was a n out of place word, yeah not attached to anything"
+2009-05-19T04:16:06+00:00,290872519,289861778,0,99.246.4.248,HSBC (Hong Kong),/* Cultural References */ grammar
+2011-09-12T20:51:55+00:00,450146976,450106072,0,140.109.113.28,HSBC (Hong Kong),/* Taiwan */
+2011-06-13T17:56:55+00:00,434092959,434092581,0,209.112.22.10,HVAC control system,Undid revision 434092581 by [[Special:Contributions/209.112.22.10|209.112.22.10]] ([[User talk:209.112.22.10|talk]])
+2010-02-27T16:28:22+00:00,346702048,344850851,0,Ninokurtalj,HVAC control system,/* See also */
+2009-05-19T17:59:20+00:00,290989891,290973587,0,Glenn,HVAC control system,"-cat, +[[Category:Building automation]]"
+2009-11-11T10:42:32+00:00,325223184,325223172,0,Rsrikanth05,HVAC control system,Reverted edits by [[Special:Contributions/203.45.2.10|203.45.2.10]] to last revision by Glenn ([[WP:HG|HG]])
+2010-11-16T10:27:15+00:00,397078652,397078539,0,WikHead,Hang Lung Properties,Filling in 1 references using [[WP:REFLINKS|Reflinks]]
+2011-04-24T12:01:20+00:00,425650075,421328515,0,Gabe19,Harajuku,inserting break :
+2011-01-26T03:22:33+00:00,410100403,408445469,0,108.2.34.63,Harajuku,/* Styles */
+2011-01-17T19:37:58+00:00,408445469,408444561,0,Loggerjack,Harajuku,/* Impact */ better phrasing
+2011-08-20T16:52:33+00:00,445844621,445844399,0,Lawsonstu,Harajuku,/* Styles */ link added
+2011-08-17T14:59:01+00:00,445343992,424073913,0,Lotje,Henderson Land Development,"Punctuation, +files"
+2011-04-14T18:55:11+00:00,424073913,415659424,0,NoomBot,Henderson Land Development,Moving ticker symbols to traded_as field. (BOT)
+2010-12-17T15:39:47+00:00,402872209,402868978,0,Mindmatrix,Home automation,/* External links */ prune links per [[WP:ELNO]]
+2009-05-06T23:08:34+00:00,288366620,283781389,0,Da Vynci,Henderson Land Development,
+2011-08-28T15:30:42+00:00,447151138,447142172,0,Kiaitutoi,Home automation,Undid revision 447142172 by [[Special:Contributions/Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) - There is a discussion on the talk page
+2011-09-06T09:23:23+00:00,448721001,422384573,0,Good Olfactory,Hong Kong Airport Services,added [[Category:Hong Kong International Airport]] using [[WP:HC|HotCat]]
+2009-08-28T01:03:25+00:00,310468133,310306386,0,210.177.158.189,Hong Kong Exchanges and Clearing,/* Valuation */
+2011-08-17T09:42:15+00:00,445304317,445275732,0,116.55.121.41,Hong Kong Exchanges and Clearing,/* Penny stocks fiasco */
+2011-08-18T09:37:05+00:00,445477013,444822267,0,ChuispastonBot,Hong Kong Jockey Club,r2.7.1) (robot Adding: [[eo:Hong Kong Jockey Club]]
+2010-01-09T13:31:37+00:00,336795493,336795349,0,218.189.225.163,Hong Kong Jockey Club,
+2011-11-29T20:54:53+00:00,463169183,463167218,0,208.87.234.180,Intel,
+2011-09-05T22:04:37+00:00,448651439,448631038,0,Rostz,IBM,[[WP:ENGVAR]]
+2010-10-06T05:49:22+00:00,389038466,388912638,0,SmackBot,Japanese street fashion,Date maintenance tags and general fixes: build X1
+2011-04-29T18:05:19+00:00,426597876,426591754,0,128.253.156.191,IBM,fixed gallery
+2010-01-26T04:49:19+00:00,340073031,339557053,0,67.10.88.44,Intel,/* Partnership with Apple */
+2010-02-14T03:00:16+00:00,343902132,343901635,0,MER-C,Japanese street fashion,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/MER-C|MER-C]] ([[User talk:MER-C|talk]]) to last version by 90.208.236.184
+2010-04-18T12:21:41+00:00,356774109,356657492,0,112.198.79.104,Jessica Jung,
+2011-06-10T02:46:23+00:00,433490171,433363900,0,Evaders99,Jessica Jung,removing vandalism - Undid revision 433363900 by [[Special:Contributions/76.17.178.218|76.17.178.218]] ([[User talk:76.17.178.218|talk]])
+2011-12-29T03:52:25+00:00,468207511,468206797,0,175.139.63.168,Jessica Jung,/* Girls' Generation */
+2009-09-07T15:10:59+00:00,312397526,312362445,0,CommonsDelinker,Leggings,"Removing ""Laurenconrad_blue.jpg"", it has been deleted from Commons by [[commons:User:Tabercil|Tabercil]] because: Duplicated of or superseded by: Lauren-conrad.jpg."
+2010-10-06T01:39:43+00:00,389003538,388897030,0,68.121.16.209,Jessica Jung,Undid revision 388897030 by [[Special:Contributions/89.36.162.48|89.36.162.48]] ([[User talk:89.36.162.48|talk]])
+2009-12-21T03:08:43+00:00,332974155,323762672,0,118.100.104.58,Li & Fung,
+2009-06-27T21:33:02+00:00,299008135,285786967,0,216.86.113.139,Li & Fung,shortcut toy
+2010-01-12T16:48:27+00:00,337411265,335368074,0,Fishnet37222,Leggings,/* Sports and leggings */
+2010-07-31T21:26:30+00:00,376486716,360959351,0,Tavatar,Link REIT,/* External links */clean up using [[Project:AWB|AWB]]
+2011-10-12T11:04:20+00:00,455187779,451862368,0,ZéroBot,Link REIT,r2.7.1) (Robot: Adding [[ru:Link Real Estate Investment Trust]]
+2009-06-11T09:36:11+00:00,295750600,295666177,0,Hm2k,List of backup software,closed source is not recognised terminology
+2009-12-16T16:36:56+00:00,332068007,332067924,0,Miami33139,List of backup software,/* Proprietary */ I have remove hidden comment.
+2010-11-26T04:37:12+00:00,398914128,385310183,0,Sadads,Lookbook,"removing orphan tags, removed orphan tag using [[Project:AWB|AWB]]"
+2011-01-01T08:53:52+00:00,405296517,398914128,0,Traveler100,Lookbook,cat
+2011-07-28T13:12:23+00:00,441867195,441866490,0,Mbinebri,Lookbook,"Removed t-shirt forum EL; moved site mention to ""See also"" section—doesn't really have encyclopedic relevance"
+2009-08-17T06:10:14+00:00,308431479,0,0,Vintageandhaute,Lookbook,"[[WP:AES|←]]Created page with 'A '''lookbook''' is a collection of photographs compiled to show off a model, a photographer, a style, or a clothing line.<ref>NY TIMES...A Look Book Makeover http:...'"
+2010-09-17T06:44:10+00:00,385310183,381588348,0,76.126.173.51,Lookbook,/* Examples */
+2010-07-23T02:17:34+00:00,374961372,374960905,0,Vegaswikian,Low-carbon economy,MoS cleanup +
+2009-09-21T17:15:22+00:00,315326699,315073445,0,88.108.144.123,Low-carbon economy,/* United Kingdom */ conclusion of 2008 Royal Society meeting
+2009-05-14T12:53:11+00:00,289871106,289870857,0,Nopetro,Low-carbon economy,/* References */  Repeated
+2010-06-08T05:21:38+00:00,366726895,365461454,0,FironDraak,Low-carbon economy,"undo all of 222.79.23.234's changes, which were copy-pasted  from various places (probably other wiki articles)"
+2009-07-08T11:29:18+00:00,300972101,294803129,0,Bazzer palm,Loyalty business model,/* See also */
+2010-05-30T05:09:11+00:00,364971365,364834685,0,Sameboat,MTR,videos are uploaded illegally without the copyright holder's permission
+2009-05-21T09:09:02+00:00,291363868,257895998,0,SmackBot,Melco International Development,"/* Reference */Standard headings/general fixes, Replaced: == Reference == → ==References==,"
+2010-01-11T02:05:57+00:00,337112740,336748417,0,NagamasaAzai,MTR,/* In-station commerce and journals */
+2010-09-11T22:31:14+00:00,384277287,368761576,0,Bearcat,Mexel,"categorization/tagging, added [[CAT:O|orphan]] tag using [[Project:AWB|AWB]]"
+2010-12-08T12:17:19+00:00,401238567,384277287,0,Malcolma,Mexel,cat
+2010-05-03T17:40:00+00:00,359886753,359886155,0,Joseph20202021,Ming Pao,/* See also */ Change wikilink
+2010-04-29T08:51:07+00:00,359020965,358943085,0,Luckas-bot,OOCL,robot Adding: [[ja:東方海外貨櫃航運公司]]
+2009-07-27T13:06:03+00:00,304470112,303314150,0,PrimeHunter,Mott MacDonald,replace old logo with the new [[:File:Mott MacDonald logo.gif]]
+2010-12-15T01:17:17+00:00,402438520,382811997,0,41.218.227.160,New World Development,/* See also */
+2009-11-03T12:19:56+00:00,323677519,321229760,0,80.254.146.52,Mott MacDonald,/* External links */
+2010-08-04T22:37:42+00:00,377200127,352629328,0,Player-23,New World Development,
+2009-04-30T20:01:29+00:00,287111354,285619764,0,38.113.0.254,Loyalty business model,/* Data collection */ Fix Wiki link formatting.
+2010-01-12T13:02:57+00:00,337378149,334926579,0,77.86.88.208,OOCL,/* External links */
+2009-05-12T04:14:33+00:00,289395661,278471439,0,Newone,OOCL,
+2009-11-22T12:49:35+00:00,327280120,322697313,0,80.229.19.146,PNM Resources,/* Public Service Company of New Mexico (PNM) */
+2010-09-07T05:23:40+00:00,383396560,380051779,0,203.87.178.21,OOCL,/* Trivia */
+2010-09-04T11:21:21+00:00,382855058,378483633,0,RussBot,PNM Resources,Robot: Editing intentional link to disambiguation page in hatnote per [[WP:INTDABLINK]] [[User:RussBot#About the hatnote task|(explanation)]]
+2011-12-18T23:26:35+00:00,466600755,465475795,0,Anthonyramos1,Pacific Gas and Electric Company,/* References */
+2011-08-07T23:49:10+00:00,443589609,443589591,0,The wub,Pacific Gas and Electric Company,Reverted edits by [[Special:Contributions/64.164.147.1|64.164.147.1]] ([[User talk:64.164.147.1|talk]]) to last revision by Phil001a ([[WP:HG|HG]])
+2011-02-18T23:01:53+00:00,414694316,414694294,0,Stefanoest1990,Panda Hotel,
+2009-08-04T15:55:58+00:00,306032088,297546946,0,Underwaterbuffalo,Panda Hotel,commons
+2010-04-29T21:43:04+00:00,359139289,358992272,0,Dormskirk,PwC,rvt - better cat already applied
+2009-09-08T22:23:02+00:00,312671488,312513864,0,Dormskirk,PwC,[[WP:UNDO|Undid]] revision 312513864 by [[Special:Contributions/76.94.222.0|76.94.222.0]] ([[User talk:76.94.222.0|talk]])
+2011-03-14T16:56:32+00:00,418804772,415925554,0,163.156.240.17,PwC,/* Other */
+2010-11-07T16:11:26+00:00,395368138,395364789,0,Dormskirk,PwC,linkspam
+2010-01-05T14:49:41+00:00,336005825,311032293,0,217.152.223.3,Pöyry,/* External links */
+2009-08-10T06:55:45+00:00,307118027,306713572,0,WhisperToMe,Ricoh,Move up
+2011-02-16T02:20:04+00:00,414178767,414177294,0,Dr unix,Ricoh,/* List of Ricoh products */ add the Singlex's
+2010-04-24T05:57:17+00:00,357968031,357261784,0,Kkm010,Siemens,error fix
+2009-06-26T18:28:48+00:00,298797062,298793979,0,MrOllie,Siemens,Reverted 1 edit by [[Special:Contributions/MonaNL|MonaNL]]; Rm POV. ([[WP:TW|TW]])
+2011-12-18T14:39:02+00:00,466528177,466426256,0,Gr1st,Siemens,Undid revision 466426256 by [[Special:Contributions/88.89.69.145|88.89.69.145]] ([[User talk:88.89.69.145|talk]]) unsourced and contentious
+2011-10-11T10:40:48+00:00,455017634,454985579,0,FrescoBot,Siemens,Bot: [[User:FrescoBot/Links|link syntax/spacing]]
+2010-02-10T05:06:54+00:00,343094835,342470525,0,SmackBot,Sino Group,Date maintenance tags and general fixes: build 398:
+2010-11-26T08:28:50+00:00,398935727,357390347,0,Sadads,Social analytics,"removing orphan tags, removed orphan tag using [[Project:AWB|AWB]]"
+2010-07-24T08:16:04+00:00,375179514,322095421,0,PL290,Standard Chartered Hong Kong,/* External links */general fixes and [[WP:MOS|MoS]] cleanup using [[Project:AWB|AWB]]
+2010-09-18T15:51:46+00:00,385552197,380081860,0,Xezbeth,St. James' Settlement (Hong Kong),"/* Reference */General fixes, replaced: Retrived → Retrieved using [[Project:AWB|AWB]]"
+2011-01-12T19:39:09+00:00,407521934,407521589,0,Onanoff,Standard Chartered Hong Kong,"add Katherine to infobox, replace Chow"
+2009-07-14T18:51:51+00:00,302090121,300811172,0,92.24.144.213,Stone Island,
+2011-08-08T15:11:50+00:00,443691337,415721898,0,86.148.23.76,Stone Island,
+2011-05-03T07:12:29+00:00,427196664,427196229,0,Athaenara,Swire Properties,reverted [[WP:SPAM|spam]] edits by 218.103.47.57 and SwireHotelsBrand
+2009-12-27T04:36:43+00:00,334204504,330249834,0,Jesse Viviano,TDK,"/* History */ TDK has left the recording media business and licensed its brand to Imation, causing the quality to go from high to zero."
+2010-09-08T11:39:58+00:00,383626703,379910713,0,Martarius,TDK,/* History */ fr
+2009-10-29T00:40:07+00:00,322645870,312199867,0,ZhBot,The Hong Kong and China Gas Company,Robot: Automated text replacement  (-{{\s*(?:(?i)Template\s*:\s*)?[zZ]h(?:-c|-cp|-cpcy|-cpl|-cpw|-cw|-cpwl|-p|-s|-sp|-st|-stp|-stpw|-t|-tp|-tpw|-ts|-tsp|-tspj|-tspw)\s*\| +{{zh|)
+2010-04-02T19:40:32+00:00,353599157,322645870,0,GrahamHardy,The Hong Kong and China Gas Company,+defsort
+2009-11-05T23:37:39+00:00,324177407,323318147,0,SoHome,TurboJET,Change a picture
+2009-11-17T04:54:38+00:00,326295121,326290539,0,Vsmith,Variable air volume,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/TreeBread|TreeBread]] ([[User talk:TreeBread|talk]]) to last version by ClueBot
+2011-10-09T05:53:05+00:00,454666744,452838052,0,202.40.137.201,TurboJET,/* Vessels information */
+2010-11-04T00:47:37+00:00,394695528,371073092,0,Cyberwriter,Variable air volume,Added a link to another page.
+2010-11-29T12:50:58+00:00,399510233,399488934,0,Steelbeard1,Whirlpool Corporation,Undid revision 399488934 by [[Special:Contributions/99.74.227.44|99.74.227.44]] ([[User talk:99.74.227.44|talk]])
+2011-10-02T07:57:42+00:00,453495638,449739988,0,HiW-Bot,X10 (industry standard),r2.7.2) (Robot: Removing [[pt:X10]]
+2011-08-10T12:07:34+00:00,444047396,443725280,0,141.65.95.168,Whirlpool Corporation,Privileg
+2011-06-01T19:59:08+00:00,432052636,428214524,0,GrouchoBot,X10 (industry standard),r2.6.4) (robot Modifying: [[de:X10 (Protokoll)]]
+2009-07-18T10:52:54+00:00,302753470,302202941,0,Woohookitty,Alberto-Culver,Disambiguate [[Director]] to [[Executive director]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2011-03-25T12:27:46+00:00,420648646,420648551,0,121.212.145.1,Alberto-Culver,
+2010-03-22T21:11:58+00:00,351436852,349207167,0,Escarbot,Alcatel-Lucent,robot Adding: [[sah:Alcatel-Lucent]]
+2009-11-17T05:56:25+00:00,326301442,323687948,0,Funandtrvl,Airport Authority Hong Kong,sortkey
+2010-01-14T03:44:43+00:00,337732622,331032280,0,203.63.130.189,Allens (law firm),/* Australian Art Collection */
+2011-02-25T11:24:19+00:00,415848184,408312910,0,Euchiasmus,Alberto-Culver,link [[Chineham]] using [[User:Edward/Find link|Find link]]
+2011-03-08T08:34:09+00:00,417749688,417749037,0,64.208.49.30,Alcatel-Lucent,
+2011-11-06T23:23:25+00:00,459369824,451552557,0,90.198.214.97,Alberto-Culver,
+2011-03-20T09:52:01+00:00,419772195,417749688,0,Stevenmitchell,Alcatel-Lucent,internal reference
+2011-11-16T09:04:12+00:00,460919864,460919657,0,Wikiwowme,Aedas,/* Americas Equity and Managing Directors */
+2011-03-30T22:24:57+00:00,421556496,421556369,0,Davidbradbury,Allens (law firm),"Spotted another statement that ""Allens Arthur is a legitimate abbreviation of the name"" - it isn't."
+2009-01-16T05:34:33+00:00,264410876,264410737,0,Alansohn,Allens (law firm),"if true, it requires sources and does not belong in lead"
+2011-04-19T01:13:24+00:00,424781434,422899186,0,Idaltu,Applied Materials,
+2011-10-22T12:22:34+00:00,456818184,454003981,0,Unreal7,Anheuser-Busch,/* Advertising */
+2011-08-19T22:50:54+00:00,445735505,443838774,0,J04n,Autodesk,Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2009-09-30T15:16:33+00:00,317100006,315559871,0,Aschwarm,Applied Materials,/* Service */
+2010-05-18T01:30:52+00:00,362722516,360495097,0,IceCreamAntisocial,Anheuser-Busch,/* Advertising */ copyedit
+2010-04-05T03:02:10+00:00,354030537,352870636,0,Woohookitty,Anheuser-Busch,[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.99 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2010-10-16T16:02:45+00:00,391074819,387366222,0,BD2412,Autodesk,"/* Manufacturing */[[Wikipedia:Disambiguation pages with links|Fixing links to disambiguation pages]], improving links, other minor cleanup tasks using [[Project:AWB|AWB]]"
+2010-08-27T10:56:38+00:00,381288612,379960200,0,RjwilmsiBot,Anheuser-Busch,"CiteCompletion, dates: 1, authors: 3, {{dead link}}s: 1 using [[Project:AWB|AWB]] (7039)"
+2009-02-08T19:07:58+00:00,269369617,269369447,0,John Carter,Applied Materials,/* References= */ fixed
+2010-10-15T23:14:28+00:00,390965900,384922954,0,Hmains,Automatic control,/* Industrial Revolution in Europe */centuries by MOS and or AWB general fixes using [[Project:AWB|AWB]]
+2011-12-17T22:28:11+00:00,466411734,460021584,0,Mr.moyal,Applied Materials,added References
+2008-12-06T20:04:56+00:00,256282366,242302269,0,Ghettoblaster,Automatic control,
+2011-04-12T19:01:56+00:00,423728759,417251708,0,66.205.132.141,Automatic control,/* See also */
+2010-05-08T07:04:49+00:00,360859102,360859083,0,Pumpmeup,Automatic control,Reverted 1 edit by [[Special:Contributions/90.215.29.151|90.215.29.151]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Caporaletti|Caporaletti]].
+2009-07-14T16:49:55+00:00,302070788,301700708,0,Sunith1978,Autodesk,/* External links */
+2009-01-28T01:58:31+00:00,266879080,266878916,0,97.96.206.34,Avaya,
+2011-06-13T20:48:51+00:00,434119791,434118237,0,203.110.243.21,Avaya,m (loss -> net_income)
+2011-02-25T12:59:37+00:00,415858203,411467999,0,58.153.15.104,BYD Auto,/* History */
+2009-12-09T04:46:07+00:00,330607692,330607677,0,A8UDI,Ball Corporation,Reverted edits by [[Special:Contributions/66.82.9.99|66.82.9.99]] to last version by 69.25.170.22 ([[User:Ale_jrb/Scripts/igloo|IG]])
+2011-01-10T16:06:11+00:00,407088099,407072418,0,Fleetham,BYD Auto,/* See also */
+2010-08-29T04:10:47+00:00,381625507,374856847,0,Jvcdude,Ball Corporation,
+2010-12-05T14:17:08+00:00,400669065,396338485,0,212.243.65.66,Bally (fashion house),Undid revision 396338485 by [[Special:Contributions/95.97.72.58|95.97.72.58]] ([[User talk:95.97.72.58|talk]])
+2011-05-04T12:58:07+00:00,427400893,425242409,0,WikitanvirBot,Avaya,r2.7.1) (robot Adding: [[da:Avaya]]
+2009-03-21T11:50:22+00:00,278719617,277816072,0,Drbreznjev,Bank of America,WikiProject Check Wikipedia: removed double category
+2009-10-24T19:25:26+00:00,321805967,312769966,0,Sarrus,Bally (fashion house),+[[da:Bally Shoe]]
+2011-07-31T06:46:01+00:00,442316967,440936669,0,Johnpacklambert,Ball Corporation,/* External links */
+2009-04-21T04:55:10+00:00,285171326,283674218,0,Deor,Bally (fashion house),[[WP:UNDO|Undid]] revision 283674218 by [[Special:Contributions/190.77.64.92|190.77.64.92]] ([[User talk:190.77.64.92|talk]]) - unsourced changes
+2010-05-03T22:09:53+00:00,359936580,359683570,0,129.2.223.197,BYD Auto,
+2010-07-19T18:22:37+00:00,374346510,374346398,0,216.136.46.132,Bank of America,/* Board of directors */
+2010-02-07T04:55:31+00:00,342429023,342370805,0,69.123.12.140,Bank of America,/* International operations */
+2011-01-27T05:23:42+00:00,410315209,410313134,0,Fleetham,BYD Auto,copy edit
+2011-10-05T18:40:00+00:00,454110478,454068139,0,Wiedenu,Bank of America,Grammer - removed comma from introduction
+2009-03-18T20:40:25+00:00,278187146,277941911,0,Signalhead,Baxter International,"/* External links */ Spelling error corrected: ""subsiduary"" ==> subsidiary"
+2010-11-05T15:17:56+00:00,394997817,392231019,0,BNcomms,Baxter International,Updated figures and details in Opening and Structure sections to 2009 information based on changes to the Corporate Overview source referenced in the sections previously.
+2010-05-09T01:41:26+00:00,361010155,360996147,0,Learn something - read a book today!,Baxter International,/* 2010 award over Hepatitis C infections */
+2009-03-19T16:03:36+00:00,278348998,278341519,0,BaxterInternationalInc,Baxter International,
+2011-06-04T07:56:31+00:00,432483469,432041680,0,Osiris advocate,Best Buy,
+2011-10-14T06:09:10+00:00,455490808,455103641,0,66.191.218.183,Best Buy,/* Billion-dollar company */
+2009-10-04T02:43:43+00:00,317765732,317765615,0,200.77.8.220,Best Buy,
+2010-12-13T03:13:35+00:00,402077339,402076987,0,Alansohn,Best Buy,Reverted edits by [[Special:Contributions/67.141.140.209|67.141.140.209]] ([[User talk:67.141.140.209|talk]]) to last revision by 76.168.85.67 ([[WP:HG|HG]])
+2011-08-17T07:08:50+00:00,445289151,445090848,0,50.46.147.46,Best Buy,/* Pricing controversies */ typo
+2009-04-16T23:20:43+00:00,284309819,284309742,0,ClueBot,Best Buy,"Reverting possible vandalism by [[Special:Contributions/205.122.11.60|205.122.11.60]] to version by Tmore3. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (672688) (Bot)"
+2011-02-15T02:09:48+00:00,413991473,413982863,0,Kamehameha10,Best Buy,
+2010-04-11T05:47:59+00:00,355281940,354975223,0,71.163.224.65,Best Buy,
+2010-11-08T01:00:47+00:00,395455728,395021372,0,67.168.125.180,Best Buy,
+2009-12-20T00:14:03+00:00,332763638,332736479,0,Adavidb,Best Buy,"[[WP:UNDO|Undid]] revision 332736479 by [[Special:Contributions/65.25.29.202|65.25.29.202]] ([[User talk:65.25.29.202|talk]]) unsourced, original research"
+2009-03-19T14:05:21+00:00,278329589,278314621,0,MLauba,Biomass (energy),Reverted 1 edit by [[Special:Contributions/85.244.193.19|85.244.193.19]]; Rv jk or test edit. ([[WP:TW|TW]])
+2009-11-20T15:46:56+00:00,326942245,326935816,0,Richard New Forest,Biomass (energy),Revert to revision 326790545 dated 2009-11-19 20:12:59 by Vsmith using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2011-11-21T09:31:59+00:00,461740979,456555744,0,59.181.132.180,Building management system,/* Building tenant/occupants */
+2010-05-26T21:02:31+00:00,364367060,362852814,0,66.60.153.46,Building automation,Added missing word 'variable' to the 'Condenser water system' subsection in relation to the requirement of constant temperature in a cooling tower; slightly changed sentence to flow better.
+2010-07-14T09:56:41+00:00,373416248,364367060,0,Woohookitty,Building automation,[[:en:WP:CLEANER|WikiCleaner]] 0.99 - Repairing link to disambiguation page - [[WP:DPL|You can help!]]
+2011-04-13T03:07:02+00:00,423795535,421333946,0,202.79.215.251,Building automation,/* Constant volume air-handling units */
+2009-04-23T21:52:21+00:00,285732995,285731125,0,Cra41g,Building automation,/* Hot water system */
+2009-09-16T03:54:22+00:00,314268683,312536899,0,165.84.1.72,Building management system,/* History */  Deleting commercial spam
+2009-05-14T04:05:13+00:00,289814022,289813960,0,Jamesrnorwood,Biomass (energy),Reverted 1 edit by [[Special:Contributions/61.8.97.122|61.8.97.122]] identified as [[WP:VAND|vandalism]] to last revision by [[User:RegentsPark|RegentsPark]]. ([[WP:TW|TW]])
+2010-07-30T07:16:49+00:00,376222453,376222399,0,59.162.208.127,Building management system,/* Characteristics */
+2011-03-29T16:04:34+00:00,421333946,420688520,0,98.149.148.70,Building automation,/* Room automation */
+2010-02-07T21:39:04+00:00,342561679,341250778,0,Simsd1ca,Building automation,Add Manufacturer KMC
+2009-03-10T08:43:25+00:00,276226390,259866493,0,Shortride,CLP Group,/* External links */
+2011-11-12T11:30:21+00:00,460275337,453712778,0,MystBot,CLP Group,r2.7.1) (Robot: Adding [[fr:CLP Holdings]]
+2011-04-27T05:11:31+00:00,426153218,422328364,0,Fleetham,CLP Group,added [[Category:Electric power companies]] using [[WP:HC|HotCat]]
+2010-11-04T23:26:13+00:00,394882058,394820753,0,Legobot II,CLP Group,[[WP:BOT|BOT]]: Date maintenance tags and general fixes
+2009-07-06T13:15:42+00:00,300590750,299757247,0,196.213.35.114,Building management system,
+2010-07-09T03:06:28+00:00,372511554,343143219,0,86.133.175.233,Capita Property and Infrastructure,I have edited the number of employees based on the figure from Capita.
+2009-09-21T12:39:49+00:00,315282554,311628252,0,157.203.42.175,Carbon Trust,"/* Staff */  Sir Ian is no longer chairman of NR, amended to show this."
+2009-11-30T11:22:12+00:00,328780921,323879797,0,Richwil,Carbon Trust,spelling correction: accelerate
+2010-01-08T05:41:41+00:00,336548430,335991017,0,128.54.190.171,Carbon Trust,improper bolding
+2009-06-22T09:20:45+00:00,297881749,297880630,0,Louise K R,Capita Property and Infrastructure,
+2011-10-18T13:21:55+00:00,456178867,455363442,0,JChurchman-Davies,Carbon Trust,/* Carbon Trust Standard */  added major UK corporates who achieved the standard in 2011.  Suggest link to reference list on CT website as alternative to exhaustive list?
+2010-02-11T11:18:08+00:00,343325356,341464324,0,122.148.203.82,Cathay Pacific,
+2009-03-05T15:16:25+00:00,275177985,275028416,0,Russavia,Cathay Pacific,"Quick-adding category ""Association of Asia Pacific Airlines"" (using [[WP:HOTCAT|HotCat]])"
+2011-03-11T08:40:09+00:00,418268666,418116592,0,Sp33dyphil,Cathay Pacific,"[[tools:~dispenser/view/Pywikipedia|reflinks]]: Bot: Converting bare references, using ref names to avoid duplicates, see [[User:DumZiBoT/refLinks|FAQ]]"
+2010-10-10T07:58:44+00:00,389845580,388836192,0,Sp33dyphil,Cathay Pacific,/* Awards */ + award and ref
+2010-12-05T13:49:34+00:00,400666119,388829239,0,CmdrObot,China Harbour Engineering Company,sp: a engineering→an engineering
+2008-08-10T10:57:29+00:00,230996280,205115019,0,Dsp13,China Harbour Engineering Company,"Quick-adding category ""Companies established in 2005"" (using [[WP:HOTCAT|HotCat]])"
+2009-09-22T13:35:13+00:00,315503947,315503376,0,SNIyer12,Citigroup,/* Federal bailout 2008 */
+2011-01-15T13:40:31+00:00,408016010,406123472,0,Kishshan,Citigroup,/* Citi Private Bank */ Removed advertising. Link was invalid and did not verify claim.
+2009-03-05T08:36:13+00:00,275126861,275125462,0,Someguy1221,Citigroup,Reverted edits by [[Special:Contributions/117.96.4.190|117.96.4.190]] ([[User talk:117.96.4.190|talk]]) to last version by 12.163.3.14
+2010-05-14T06:47:46+00:00,362045649,362039162,0,Someguy1221,Citigroup,"rv; very specific claim, no reference"
+2010-10-24T20:08:48+00:00,392653088,392502833,0,98.210.192.26,Comparison of file comparison tools,/* Other features */
+2009-01-06T02:28:09+00:00,262223907,262065296,0,203.186.95.10,City Telecom (Hong Kong),
+2009-11-14T14:42:39+00:00,325801731,325800909,0,86.198.27.93,Comparison of file comparison tools,/* Other features */
+2011-09-16T12:14:06+00:00,450794643,450485735,0,Jorioux,Comparison of file comparison tools,/* General */
+2010-05-27T15:31:12+00:00,364494008,364315912,0,83.163.76.237,Comparison of online backup services,/* Other services */
+2010-09-25T00:09:32+00:00,386845407,386422471,0,Ddrcoder,Comparison of online backup services,Removed redundant header lines
+2011-10-07T05:44:04+00:00,454344516,452978827,0,Ledona delano,Comparison of online backup services,/* Comparison */ Asus Webstore also now supports mac
+2009-05-19T17:16:04+00:00,290982121,283216458,0,Hipal,Cooling tower,/* External links */ promotional
+2010-09-07T20:49:01+00:00,383519628,379801980,0,TJBlackwell,Cooling tower,Contributed new photograph and slightly downsized thumbnail of existing shot.
+2011-10-01T09:59:37+00:00,453345779,453340540,0,Old Moonraker,Cooling tower,"Reverted 1 edit by [[Special:Contributions/Webmasterpct|Webmasterpct]] ([[User talk:Webmasterpct|talk]]): ""now the leading manufacturers of cooling towers"" = [[WP:SPAM]]. ([[WP:TW|TW]])"
+2011-03-25T14:11:17+00:00,420659839,419308661,0,99.181.120.131,Cooling tower,/* HVAC */
+2008-04-29T06:51:13+00:00,208944615,205848598,0,203.116.176.2,Covestro,/* External links */
+2010-09-09T12:54:41+00:00,383825059,370796132,0,Δ,Covestro,Clean up using [[Project:AWB|AWB]] (7069)
+2010-03-28T17:47:19+00:00,352569967,352569807,0,Thecurran91,Digital home,
+2009-08-26T00:17:22+00:00,310070348,310070276,0,Tgv8925,Detoxification,Reverted 1 edit by [[Special:Contributions/122.165.23.193|122.165.23.193]]; Undo test edit. ([[WP:TW|TW]])
+2009-07-18T21:12:53+00:00,302835692,302834414,0,146.244.138.128,Detoxification,
+2010-06-13T22:27:32+00:00,367851932,352569967,0,GoingBatty,Digital home,Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]] and other clean up using [[Project:AWB|AWB]]
+2009-06-28T14:34:48+00:00,299123449,298066343,0,Alpcos,Digital home,
+2010-10-22T02:20:34+00:00,392143093,366334938,0,118.142.17.238,Direct digital control,/* Integration */
+2009-10-05T09:01:41+00:00,318009229,318009197,0,RobertEves92,Direct digital control,Reverted edits by [[Special:Contributions/59.184.40.21|59.184.40.21]] to last revision by TreeBread ([[WP:HG|HG]])
+2009-07-05T06:01:49+00:00,300357796,276505439,0,George6996,Direct digital control,
+2011-12-24T14:11:02+00:00,467498542,467462808,0,Apparition11,Drug rehabilitation,Reverted 1 edit by [[Special:Contributions/Pkloeb|Pkloeb]] ([[User talk:Pkloeb|talk]]): [[WP:ELNO]]. using [[WP:TWINKLE|TW]]
+2010-05-03T04:15:01+00:00,359778605,359714216,0,Vn89508412,Drug rehabilitation,/* External links */
+2010-12-30T19:35:13+00:00,405042155,405042089,0,Bellerophon,Drug rehabilitation,Reverted edits by [[Special:Contributions/110.168.97.127|110.168.97.127]] ([[User talk:110.168.97.127|talk]]) to last revision by Tedder ([[WP:HG|HG]])
+2010-02-25T02:29:16+00:00,346217110,333576310,0,152.101.107.230,Eaton Hotel Hong Kong,/* Facility */
+2008-12-19T03:05:02+00:00,258906913,213896646,0,Quantastralia,Eaton Hotel Hong Kong,
+2011-10-06T02:58:34+00:00,454175078,454175023,0,112.204.24.252,File synchronization,
+2009-01-28T04:36:00+00:00,266903378,266902234,0,69.248.250.7,File synchronization,"/*  Open-source */ Noted that Kdiff3 is not a general data sync utility, but that it is used only for text files"
+2010-03-17T18:02:33+00:00,350439687,350246119,0,R'n'B,File synchronization,Fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Bash]]
+2009-09-24T10:41:53+00:00,315885055,315884424,0,Earthlyreason,Electrical and Mechanical Services Department,add ref
+2011-10-02T00:04:33+00:00,453448757,450390595,0,66.87.2.33,Ganguro,
+2009-10-21T08:07:11+00:00,321156309,311453251,0,Olivier,Eaton Hotel Hong Kong,dab + cat
+2009-02-01T00:15:44+00:00,267730581,266903378,0,89.54.82.249,File synchronization,/*  Open-source */
+2009-11-25T14:53:19+00:00,327869053,327415525,0,85.235.223.57,Ganguro,
+2010-02-05T09:21:29+00:00,342068296,342067417,0,Constantinobel,Grundfos,/* External links */
+2010-07-23T06:16:15+00:00,374986684,373690358,0,194.176.58.193,Grundfos,/* Ownership */
+2011-04-30T19:41:44+00:00,426771740,423027050,0,78.149.97.159,Ganguro,Why so small?
+2011-07-21T17:18:41+00:00,440684350,440668325,0,PixelBot,Grundfos,r2.6.4) (robot Removing: [[fr:Grundfos]]
+2009-09-08T01:17:52+00:00,312503050,312501734,0,CTS 2009 09,Guidehouse,
+2010-06-09T18:13:04+00:00,367026644,357309742,0,66.134.92.138,Guidehouse,"Undid revision 324859069 by [[Special:Contributions/DCtownie|DCtownie]] ([[User talk:DCtownie|talk]]) (Well-sourced information from major news sources should not be removed as ""misleading."")"
+2010-11-23T15:37:35+00:00,398453657,398453117,0,WikiAuthor2010,Guidehouse,
+2011-03-06T08:12:34+00:00,417396400,416764661,0,180.194.52.201,HSBC (Hong Kong),/* Foundation */
+2011-04-20T12:45:28+00:00,425011042,421532080,0,Memorymike,HVAC control system,/* Direct digital control */
+2011-01-23T16:15:04+00:00,409575207,407337250,0,67.81.15.126,HVAC control system,/* See also */
+2010-04-26T06:11:18+00:00,358355045,358354985,0,116.247.126.74,HVAC control system,/* External links */
+2010-01-27T16:13:33+00:00,340352224,340352066,0,Rich Farmbrough,HVAC control system,Copyedit. rvv
+2009-07-07T04:32:47+00:00,300733096,299527092,0,Inuzukaluv,Harajuku,
+2010-02-16T09:33:39+00:00,344377638,324514042,0,Matthew hk,Hang Lung Properties,
+2009-09-16T17:20:35+00:00,314376189,314374311,0,Kocio,Harajuku,/* History */ para
+2009-03-10T02:00:34+00:00,276174874,276174607,0,119.111.41.81,Harajuku,/* Styles */
+2010-01-21T14:33:36+00:00,339154603,339154590,0,ClueBot,Harajuku,"Reverting possible vandalism by [[Special:Contributions/173.9.65.101|173.9.65.101]] to version by JonHarder. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (530166) (Bot)"
+2009-05-19T06:21:10+00:00,290887856,287669963,0,173.18.21.95,Harajuku,/* Styles */
+2009-08-25T20:43:58+00:00,310037473,309429772,0,76.79.224.253,Harajuku,This originally was linking to a derivitve reference to Gwen Stefani's back up singers
+2011-03-29T15:27:21+00:00,421328515,420937952,0,AXRL,Harajuku,/* External links */
+2009-02-04T05:45:10+00:00,268418671,268260008,0,Ohconfucius,Henderson Land Development,resized logo
+2009-04-14T14:01:36+00:00,283781389,283781269,0,Ohconfucius,Henderson Land Development,
+2010-02-18T13:03:13+00:00,344807533,344806674,0,87.66.58.101,Home automation,/* Organizations */
+2011-01-14T14:12:57+00:00,407842422,407841061,0,Mdbijl,Home automation,
+2011-05-21T19:49:55+00:00,430240931,430239735,0,Wtshymanski,Home automation,"not yet FA, but way better than when tagged 1 1/2 years ago ..remove stale tag"
+2009-07-26T03:54:12+00:00,304233485,303765543,0,J04n,Home automation,Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+2010-11-27T14:44:12+00:00,399144697,396387443,0,Ohconfucius,Hong Kong Exchanges and Clearing,"General formatting, [[WP:ENGVAR|all British spelling]] by [[User:Ohconfucius/EngvarB|script]]"
+2011-04-29T16:07:01+00:00,426580055,417730697,0,Rlee20,Hong Kong Exchanges and Clearing,"Added ""Products"" section under Operations heading."
+2012-01-04T19:32:11+00:00,469566921,459580134,0,Cydebot,Hong Kong Exchanges and Clearing,Robot - Removing category Callable Bull/Bear Contracts issued in Hong Kong Stock Exchange per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 December 28]].
+2009-07-23T10:53:00+00:00,303713331,287422641,0,58.153.85.146,Hong Kong Jockey Club,
+2010-12-07T02:57:17+00:00,400982958,396927699,0,210.177.186.253,Hong Kong Jockey Club,/* Club chairmen */
+2010-02-26T00:23:36+00:00,346402472,346401515,0,Commander Keane,IBM,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/24.193.99.238|24.193.99.238]] ([[User talk:24.193.99.238|talk]]) to last version by Žiedas
+2011-04-28T20:25:18+00:00,426442499,426440002,0,Ezhiki,IBM,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Packerman4290|Packerman4290]] ([[User talk:Packerman4290|talk]]) to last version by CliffC
+2010-04-12T00:54:04+00:00,355439533,355439237,0,165.228.110.52,IBM,
+2011-02-02T00:00:52+00:00,411476589,411476262,0,Nerd in the Red Shirt,IBM,
+2011-04-10T05:28:42+00:00,423286775,422542734,0,187.63.95.249,Intel,The official name of the company contains only the original symbol was made ​​when the IPO on Nasdaq: http://newsroom.intel.com/community/intel_newsroom/blog/2011/01/03/ge-and-intels-telehealth-and-independent-living-company-is-operational-today
+2009-10-29T11:51:38+00:00,322716303,322610104,0,Kintetsubuffalo,Japanese street fashion,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/24.235.168.162|24.235.168.162]] ([[User talk:24.235.168.162|talk]]) to last version by Anna Lincoln
+2011-08-13T05:23:48+00:00,444575385,444519183,0,Music Sorter,Intel,"Undid revision 444519183 by [[Special:Contributions/Privatechef|Privatechef]] ([[User talk:Privatechef|talk]])RV Source even says IBM 5150 was not the first PC, so adding it here is not so relevant."
+2010-07-01T09:47:36+00:00,371175853,369816993,0,Erianna,Japanese street fashion,
+2009-12-23T08:45:06+00:00,333501491,333479101,0,Kintetsubuffalo,Japanese street fashion,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/173.58.87.110|173.58.87.110]] ([[User talk:173.58.87.110|talk]]) to last version by Kintetsubuffalo
+2011-10-16T15:28:29+00:00,455856179,455854670,0,Dia^,Japanese street fashion,"no spam, please"
+2009-08-12T06:16:08+00:00,307509345,0,0,Argo Wilis Kereta,Jessica Jung,[[WP:AES|←]]Redirected page to [[Girls' Generation]]
+2010-11-16T17:50:24+00:00,397140692,396951934,0,189.3.51.135,Jessica Jung,
+2010-12-17T19:09:49+00:00,402900299,401855745,0,112.198.78.127,Jessica Jung,/* Music video appearances */
+2011-05-03T05:23:09+00:00,427188144,426659410,0,Gray eyes,Jessica Jung,
+2010-12-10T22:47:47+00:00,401687353,400880564,0,Srich32977,Leggings,Korean War v conflict
+2010-05-29T07:48:28+00:00,364807132,364792065,0,Chaheel Riens,Leggings,Undid revision 364792065 by [[Special:Contributions/68.148.136.238|68.148.136.238]] ([[User talk:68.148.136.238|talk]]) Unnecessary addition.
+2011-01-02T18:04:47+00:00,405528796,401687353,0,Kencf0618,Leggings,/* Modern leggings */ GreenArgyleLeggings02298.JPG
+2010-09-22T18:27:17+00:00,386369468,384992256,0,Gogo Dodo,Leggings,"/* See also */ Rm, link spam"
+2010-04-15T09:30:53+00:00,356140295,354262957,0,202.126.223.141,Li & Fung,
+2009-04-24T03:24:13+00:00,285786967,285618710,0,D6,Li & Fung,fix unicode in templates ([[Wikipedia:WikiProject_Check_Wikipedia|WikiProject Check Wikipedia]] check [[Wikipedia:WikiProject_Check_Wikipedia#Template_with_Unicode_control_characters|#16]]
+2010-12-04T22:47:55+00:00,400566979,391412965,0,Cydebot,Li & Fung,Robot - Speedily moving category Transportation companies of China to Transport companies of China per [[WP:CFDS|CFDS]].
+2009-12-24T09:06:21+00:00,333776961,333776822,0,82.143.7.74,List of backup software,/* Proprietary */
+2009-08-27T09:54:53+00:00,310336031,309804536,0,155.35.46.32,List of backup software,/* Proprietary */
+2010-04-23T10:36:56+00:00,357800615,357799399,0,208.232.182.71,List of backup software,
+2010-04-06T05:13:55+00:00,354256833,353671140,0,F Notebook,Lookbook,spelling
+2010-05-30T20:05:16+00:00,365078473,354256833,0,LaaknorBot,Lookbook,robot Adding: [[sv:Lookbook]]
+2009-08-22T06:09:45+00:00,309381365,308509829,0,Sagan666,Low-carbon economy,minor spacing
+2009-07-29T10:26:48+00:00,304853875,303595404,0,Enescot,Low-carbon economy,"/* External links */  added link to a series of lectures at the Department of Physics website, University of Oxford. Covers low-carbon technologies and climate change economics."
+2010-01-09T17:06:21+00:00,336824127,330925252,0,216.252.78.104,Low-carbon economy,/* Agriculture */
+2011-05-09T21:45:16+00:00,428321798,422192232,0,Adamcadaver,Loyalty business model,/* The service quality model */
+2009-01-26T23:25:14+00:00,266634862,266563423,0,173.73.167.151,Loyalty business model,
+2010-03-07T10:02:09+00:00,348304437,346272576,0,SilvonenBot,Loyalty business model,robot Adding: [[fi:Asiakasuskollisuus]]
+2011-12-17T22:48:53+00:00,466415301,466406526,0,Kuru,Loyalty business model,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/188.122.44.178|188.122.44.178]] ([[User talk:188.122.44.178|talk]]) to last version by Edward
+2010-05-19T18:09:59+00:00,363046593,360888762,0,Hokachung,MTR,/* Future Changchun trains */
+2009-12-21T15:36:30+00:00,333072112,332966181,0,Mailer diablo,MTR,duplicates [[MTR Corporation]] (related to company rather than system itself in HK)
+2011-10-12T04:54:03+00:00,455156058,454844538,0,Citation bot 1,MTR,[Pu408]Misc citation tidying.  You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].
+2009-11-02T10:48:40+00:00,323449881,323287416,0,218.102.170.35,MTR,/* Network */
+2011-08-24T23:12:26+00:00,446568688,443895908,0,Rangoon11,Mott MacDonald,Replace link farm with template
+2011-09-02T11:12:08+00:00,448022314,446568688,0,80.254.147.220,Mott MacDonald,/* Latest awards */
+2009-10-26T07:15:19+00:00,322091021,282418892,0,Vegaswikian1,New World Development,MoS cleanup
+2011-01-05T14:26:35+00:00,406085467,405945810,0,GD 6041,Mott MacDonald,rv to sourced
+2009-12-09T01:22:07+00:00,330579356,322091021,0,Full-date unlinking bot,New World Development,Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: AMreg(×1)
+2009-01-14T16:15:48+00:00,264055960,263409552,0,GVP Webmaster,OOCL,SI name
+2011-02-24T01:52:33+00:00,415616938,415131821,0,203.186.214.238,OOCL,
+2009-09-04T05:21:19+00:00,311785377,310328395,0,Shortride,OOCL,subsidiary
+2011-05-16T21:51:36+00:00,429462861,409239941,0,64.234.39.72,PNM Resources,"/* EnergyCo, LLC */"
+2011-04-30T11:48:35+00:00,426711026,424583564,0,Welsh,Pacific Gas and Electric Company,/* Nuclear */ fix link
+2011-01-15T20:52:10+00:00,408081826,408080510,0,76.197.15.31,Pacific Gas and Electric Company,/* Pacific Gas and Electric company 1905 */
+2009-04-22T19:56:09+00:00,285507229,285507131,0,67.87.102.70,Pacific Gas and Electric Company,/* The legal case in Hinkley (1993-1996) */
+2006-11-06T13:15:15+00:00,86041831,83888103,0,Yomangani,Panda Hotel,redirect per afd
+2010-02-14T16:53:03+00:00,344044519,343840396,0,Emerson7,PwC,/* Major clients */ -unnecessary bold
+2011-07-30T18:33:37+00:00,442236656,441750887,0,Lord Mauleverer,PwC,/* Price Waterhouse */ removed off-topic text
+2011-04-15T08:31:44+00:00,424167328,420319651,0,Nickloke,Pöyry,
+2010-08-06T12:02:51+00:00,377465989,377218771,0,155.201.35.55,PwC,/* Other */
+2009-07-22T07:06:11+00:00,303488813,303471193,0,DocWatson42,PwC,Cleaned up formating and other matters.
+2011-10-11T04:03:34+00:00,454985269,424167328,0,Outed Rule,Pöyry,/* External links */
+2009-06-16T21:43:24+00:00,296837363,296554074,0,205.145.24.20,Ricoh,
+2009-03-31T19:11:14+00:00,280918407,275027093,0,208.252.21.146,Ricoh,/* See also */
+2010-06-03T13:17:04+00:00,365825652,365723448,0,Nicander,Ricoh,
+2011-12-03T06:55:44+00:00,463788511,463600875,0,WJetChao,Siemens,making logo a little bit larger
+2009-11-06T11:26:03+00:00,324259231,324259183,0,78.148.90.241,Siemens,/* Major clients */
+2009-03-16T06:12:29+00:00,277584237,277319458,0,Johnfos,Siemens,/* External links */
+2011-04-07T19:48:07+00:00,422909329,422556369,0,Rangoon11,Siemens,/* External links */ Template added
+2011-10-29T22:03:55+00:00,458036064,458033892,0,Rangoon11,Siemens,Rv - probable vandalism
+2010-05-08T12:09:49+00:00,360887524,360887491,0,Orphan Wiki,Siemens,Reverted edits by [[Special:Contributions/70.49.71.149|70.49.71.149]] ([[User talk:70.49.71.149|talk]]) to last revision by [[User:79.80.241.89|79.80.241.89]] ([[WP:HG|HG]])
+2010-11-02T19:30:48+00:00,394432451,394432254,0,Uncle Dick,Siemens,Reverted edits by [[Special:Contributions/71.163.59.143|71.163.59.143]] ([[User talk:71.163.59.143|talk]]) to last revision by Sf5xeplus ([[WP:HG|HG]])
+2009-03-31T12:28:03+00:00,280848774,280825085,0,Thlgnosis,Social analytics,
+2009-10-26T08:10:55+00:00,322095421,312735650,0,Helloahappysa,Standard Chartered Hong Kong,
+2011-02-24T17:56:41+00:00,415721898,415721833,0,CIreland,Stone Island,Undid revision 415712754 by [[Special:Contributions/92.20.160.57|92.20.160.57]] ([[User talk:92.20.160.57|talk]]) Unsourced opinion
+2010-02-10T23:19:44+00:00,343243808,336204088,0,Finnrind,Stone Island,iw no
+2011-10-06T12:46:19+00:00,454224684,453154040,0,218.252.84.34,Swire Properties,
+2011-02-02T21:24:18+00:00,411653677,404922581,0,Cydebot,TDK,Robot - Moving category Japanese video game companies to Video game companies of Japan per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 January 24]].
+2009-01-28T10:37:18+00:00,266940698,266940307,0,Herbertxu,TDK,Fixed bogus plural.
+2009-03-03T12:00:16+00:00,274666878,268834507,0,Earthlyreason,The Hong Kong and China Gas Company,moved [[The Hong Kong and China Gas Company Limited]] to [[The Hong Kong and China Gas Company]]:&#32;No need for 'Ltd'.
+2010-08-05T02:12:40+00:00,377227914,357856975,0,SchmuckyTheCat,TurboJET,avoid rdr in template.
+2009-11-17T17:04:01+00:00,326371206,324927197,0,Starbois,TurboJET,sp
+2011-01-19T22:56:13+00:00,408868121,394695528,0,146.23.2.50,Variable air volume,
+2010-04-21T04:29:43+00:00,357348408,326295121,0,97.73.64.163,Variable air volume,/* See also */
+2009-11-17T20:37:28+00:00,326405940,324882868,0,SemperDoctus,Whirlpool Corporation,added advert tag
+2011-01-17T16:45:32+00:00,408416444,406597270,0,74.138.158.117,Whirlpool Corporation,rewrite sentence about Whirlpool passing Electrolux to improve readability.
+2011-04-09T04:39:44+00:00,423128495,419161125,0,Idaltu,Whirlpool Corporation,
+2011-05-09T08:33:52+00:00,428214524,426496014,0,79.175.84.115,X10 (industry standard),/* History */
+2010-08-02T05:25:09+00:00,376708572,376708000,0,66.113.56.117,X10 (industry standard),/* Relatively slow */
+2009-08-24T07:21:29+00:00,309739973,301664601,0,A5b,X10 (industry standard),{{about|||X10}}
+2009-03-26T17:28:47+00:00,279833181,279833078,0,Kyle1278,X10 (industry standard),Reverted edits by [[Special:Contributions/193.137.65.114|193.137.65.114]] to last revision by FluffyWhiteCat ([[WP:HG|HG]])
+2010-12-20T06:55:47+00:00,403310071,400452889,0,223.19.180.62,TurboJET,

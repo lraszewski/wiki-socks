@@ -1,0 +1,54 @@
+timestamp,revid,parentid,sock,user,page,message
+2014-06-13T08:38:25+00:00,612742315,609468893,1,Levinxiong,Organic compound,/* External links */
+2014-06-13T08:30:51+00:00,612741772,487777151,1,Levinxiong,Chemicalize,/* External links */
+2014-06-12T07:12:05+00:00,612600948,612600521,1,Levinxiong,Chemical database,/* Databases of chemical names */
+2014-06-12T07:05:08+00:00,612600521,612600441,1,Levinxiong,Chemical database,/* Databases of chemical structures */
+2014-06-12T07:03:53+00:00,612600441,607004924,1,Levinxiong,Chemical database,/* Databases of chemical structures */
+2014-06-13T09:14:42+00:00,612745107,612745024,1,Yoejan,Cheminformatics,/* External links */
+2014-06-13T09:13:28+00:00,612745024,607005865,1,Yoejan,Cheminformatics,/* External links */
+2014-06-12T09:28:04+00:00,612611394,601181255,1,Yoejan,List of CAS numbers by chemical compound,/* External links */
+2014-06-12T09:14:07+00:00,612610361,612319356,1,Yoejan,Organic chemistry,/* External links */
+2014-06-13T08:48:25+00:00,612742967,606483025,1,Yoejay,CAS Registry Number,/* External links */
+2014-06-13T08:46:21+00:00,612742846,612742788,1,Yoejay,Chemical database,/* Databases of chemical names */
+2014-06-13T08:45:26+00:00,612742788,612742408,1,Yoejay,Chemical database,/* Database and registration software */
+2014-06-12T09:08:32+00:00,612609944,610862441,1,Yoejay,Functional group,/* External links */
+2014-06-12T08:27:22+00:00,612606595,601788869,1,Yoejay,Wikipedia:Chemical infobox,/* References */
+2014-04-30T14:48:16+00:00,606483025,606426839,0,Edgar181,CAS Registry Number,Reverted edits by [[Special:Contribs/61.171.88.225|61.171.88.225]] ([[User talk:61.171.88.225|talk]]) to last version by 122.166.106.145
+2012-04-17T03:36:35+00:00,487777151,452177214,0,Hmains,Chemicalize,"copyedit, clarity edits, MOS implementation, and/or AWB general fixes using [[Project:AWB|AWB]]"
+2014-06-13T04:47:36+00:00,612726058,612600948,0,BG19bot,Chemical database,/* Databases of chemical names */[[WP:CHECKWIKI]] error fix for #93.  External link with double http:// Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (10242)
+2014-06-12T11:53:19+00:00,612623091,612614537,0,Beetstra,Functional group,Undid revision 612609944 by [[Special:Contributions/Yoejay|Yoejay]] ([[User talk:Yoejay|talk]]) Inappropriate external link
+2014-05-31T00:38:26+00:00,610862441,610739211,0,Graeme Bartlett,Functional group,"/* Groups containing oxygen */ tert-Butyl hydroperoxide as better example of hydroperoxide, the methyl ethyl ketone forms a dimer peroxide"
+2014-05-04T09:54:00+00:00,607005865,595010381,0,Rjwilmsi,Cheminformatics,/* Basics */Added 1 dois to journal cites using [[Project:AWB|AWB]] (10094)
+2014-05-21T02:55:35+00:00,609468893,602712289,0,66.254.204.68,Organic compound,/* Vitalism */
+2012-06-28T13:06:26+00:00,499749440,499641462,0,Justincheng12345-bot,Chemical database,r2.7.3) (Robot: Adding [[zh:化学数据库]]
+2012-07-04T11:39:16+00:00,500636594,500628847,0,Vibhijain,CAS Registry Number,Reverted edit(s) by [[Special:Contributions/118.94.63.31|118.94.63.31]] identified as test/vandalism using [[WP:STiki|STiki]]
+2014-03-15T22:32:29+00:00,599783421,598329311,0,Colonies Chris,Chemical database,"sp, date & link fixes; unlinking common words, replaced: in Jr → in, Jr., vapor-liquid → vapor–liquid using [[Project:AWB|AWB]]"
+2013-09-26T18:23:57+00:00,574637815,573603077,0,198.185.18.207,Chemical database,added correct Ullman algorithm reference
+2012-06-25T18:10:07+00:00,499319645,499319138,0,148.177.1.210,CAS Registry Number,/* Use */ clarify
+2012-04-14T07:19:22+00:00,487301560,486515710,0,FrescoBot,CAS Registry Number,Bot: [[User:FrescoBot/Links|link syntax/spacing]]
+2012-05-13T13:00:14+00:00,492355781,491812124,0,Luckas-bot,CAS Registry Number,r2.7.1) (Robot: Adding [[mk:CAS-број]]
+2012-10-18T18:51:50+00:00,518561179,511068325,0,Zephalis,CAS Registry Number,Updated counts of cas numbers / commented out dead reference / supplied new reference for the new numbers only (CAS official daily database counts)
+2012-12-14T14:19:09+00:00,528014510,525143361,0,Barry.b.benson,Chemical database,
+2012-09-06T13:39:39+00:00,511068325,510947049,0,ChrisGualtieri,CAS Registry Number,General fixes / CHECKWIKI fixes / Interwiki Link Duplication using [[Project:AWB|AWB]] (8323)
+2012-11-11T14:11:29+00:00,522478588,522107952,0,Badmusician,Functional group,/* Groups containing nitrogen */
+2013-05-12T11:52:26+00:00,554721973,544547594,0,14.139.63.66,Cheminformatics,/* External links */
+2013-03-16T04:14:31+00:00,544547594,541890417,0,Rybec,Cheminformatics,link to new article
+2013-09-24T03:55:11+00:00,574275885,574275214,0,UseTheCommandLine,Cheminformatics,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Jagatchauhan|Jagatchauhan]] ([[User talk:Jagatchauhan|talk]]) to last version by Aoidh
+2014-01-03T08:32:49+00:00,588946365,588946187,0,79.75.80.14,Functional group,Undid revision 588946187 by [[Special:Contributions/122.168.33.192|122.168.33.192]] ([[User talk:122.168.33.192|talk]])
+2012-05-29T13:06:05+00:00,494947082,494947033,0,146.232.129.75,Functional group,/* See also */
+2013-02-02T21:32:17+00:00,536251162,520757418,0,Beasarah,Cheminformatics,copyediting
+2013-06-27T03:49:30+00:00,561771231,561769268,0,AnomieBOT,Cheminformatics,Dating maintenance tags: {{Toomanylinks}}
+2012-10-31T15:21:45+00:00,520757418,517186158,0,Sianirose,Cheminformatics,/* External links */
+2012-05-23T10:55:40+00:00,493970576,492825398,0,14.139.128.12,Functional group,/* Table of common functional groups */
+2013-04-12T18:39:54+00:00,550040338,546003748,0,ChrisGualtieri,Functional group,/* Groups containing oxygen */General Fixes using [[Project:AWB|AWB]]
+2012-06-20T17:31:46+00:00,498527111,497059516,0,Jmottaghi,Functional group,/* Groups containing oxygen */
+2013-05-17T18:37:21+00:00,555549785,555429664,0,Liko81,Functional group,
+2012-04-10T23:34:25+00:00,486715981,486714844,0,Materialscientist,Organic compound,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/98.198.76.139|98.198.76.139]] ([[User talk:98.198.76.139|talk]]) to last version by Puffin
+2013-07-02T09:04:18+00:00,562516984,558263797,0,JorisvS,Functional group,logical quote
+2013-05-13T23:50:13+00:00,554970851,554970701,0,Discospinster,Functional group,Reverted edits by [[Special:Contributions/72.199.35.251|72.199.35.251]] ([[User talk:72.199.35.251|talk]]) to last revision by Edgar181 ([[WP:HG|HG]])
+2013-03-18T03:15:41+00:00,545130766,545120149,0,Materialscientist,Organic compound,"fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]], rvt deletion"
+2012-09-23T14:12:27+00:00,514165467,513222411,0,YFdyh-bot,Organic compound,r2.7.3) (Robot: Adding [[ka:ორგანული ნივთიერებები]]
+2013-02-12T06:13:31+00:00,537829945,537829758,0,DMacks,Organic compound,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/114.108.230.6|114.108.230.6]] ([[User talk:114.108.230.6|talk]]) to last version by Materialscientist
+2013-10-11T10:06:01+00:00,576701620,576701602,0,Satellizer,Organic compound,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/122.164.129.190|122.164.129.190]] ([[User talk:122.164.129.190|talk]]) to last version by Satellizer
+2013-02-20T23:39:27+00:00,539323175,538143113,0,Addbot,Organic compound,"[[User:Addbot|Bot:]] Migrating 59 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q174211]] ([[User talk:Addbot|Report Errors]])"
+2013-09-12T13:27:22+00:00,572621336,569883863,0,Ensahequ,Organic compound,"Allotropes of carbon are simple substances, not compounds!"

@@ -1,0 +1,736 @@
+timestamp,revid,parentid,sock,user,page,message
+2022-05-17T19:35:57+00:00,1088396295,1088396201,1,Orangefeliscatus,User talk:Orangefeliscatus,
+2022-05-17T19:35:11+00:00,1088396201,1088396119,1,Orangefeliscatus,User talk:Orangefeliscatus,
+2022-05-17T19:34:31+00:00,1088396119,1077436961,1,Orangefeliscatus,User talk:Orangefeliscatus,[[WP:AES|←]]Replaced content with '{{retired}}'
+2022-03-23T14:12:58+00:00,1078821918,1078759413,1,Orangefeliscatus,User talk:Sergecross73,
+2022-03-22T11:49:12+00:00,1078607153,1078605691,1,Orangefeliscatus,Fantastic Beasts and Where to Find Them (soundtrack),
+2022-03-22T11:39:47+00:00,1078605908,1073661737,1,Orangefeliscatus,Chaos and the Calm,Removed unnecessary {{nobold|}} tag.
+2022-03-22T11:37:54+00:00,1078605691,1078605079,1,Orangefeliscatus,Fantastic Beasts and Where to Find Them (soundtrack),"1. Corrected Soundtrack title in info box, first paragraph and article's soundtrack and other soundtracks' titles in chronology section. 2. ––> Track listing > Corrected track(s) titles."
+2022-03-22T11:32:26+00:00,1078605079,1078572647,1,Orangefeliscatus,Fantastic Beasts and Where to Find Them (soundtrack),"1. Aligned spacing in info box, 2. ––> Track listing > (i) Headlines as per [[Template:Track listing#Parameters]], (ii) Aligned spacing, (iii) Put ""Includes theme by..."" into ""music = "" parameter instead of ""writer ="" as they do not contain any lyrics and removed unnecessary hyperlink for the same when repeated. (iv) corrected track(s) titles, (v) Made the total_length for deluxe to plus of both standard and deluxe as deluxe is not available as standalone version."
+2022-03-22T11:15:51+00:00,1078603108,1076394579,1,Orangefeliscatus,Toy Story (soundtrack),"1. Aligned spacing in info box, 2. Removed brackets from ––> Track listing track 16 > note 16 as they are added by default."
+2022-03-21T19:48:54+00:00,1078480451,1078168677,1,Orangefeliscatus,Violet Evergarden,"Undid revision 1078168677 by [[Special:Contributions/OwlCityzen|OwlCityzen]] ([[User talk:OwlCityzen|talk]]) ""Of"" doesn't fits with the full sentence and also unnecessary."
+2022-03-20T12:37:44+00:00,1078210370,1078071640,1,Orangefeliscatus,Harry Potter and the Goblet of Fire (soundtrack),Arranged Categories alphabetically.
+2022-03-20T12:36:35+00:00,1078210229,1078210077,1,Orangefeliscatus,Cars (soundtrack),
+2022-03-20T12:35:32+00:00,1078210077,1075038370,1,Orangefeliscatus,Cars (soundtrack),"1. Aligned spacing in infobox, 2. Added > Category:Animated film soundtracks and arranged all the Categories alphabetically."
+2022-03-19T09:17:22+00:00,1077998291,1073797379,1,Orangefeliscatus,Harry Potter and the Philosopher's Stone (soundtrack),"1. Minor correction in info box title and aligned spacing for it, 2. Soundtrack albums' names in Chronology section"
+2022-03-19T09:17:19+00:00,1077998282,1061426933,1,Orangefeliscatus,Harry Potter and the Chamber of Secrets (soundtrack),"1. Minor correction in info box title and aligned spacing for it, 2. Soundtrack albums' names in Chronology section, 3. Minor correction in Soundtrack's title in first paragraph."
+2022-03-19T09:11:05+00:00,1077997580,1077995589,1,Orangefeliscatus,Harry Potter and the Goblet of Fire (soundtrack),Corrected credits.
+2022-03-19T08:58:42+00:00,1077996198,1077543093,1,Orangefeliscatus,Harry Potter and the Prisoner of Azkaban (soundtrack),"1. Aligned infobox and track listing's spacing, 2. ––> Soundtrack albums' names in Chronology section, 3. Headline as per [[Template:Track listing#Parameters]], 4. Using ""music = "" instead of ""writer = "" in ""Includes theme by..."" as they do not contain any lyrics, and a minor correction in title in first paragraph."
+2022-03-19T08:53:28+00:00,1077995589,1077995360,1,Orangefeliscatus,Harry Potter and the Goblet of Fire (soundtrack),"1. Aligned infobox and track listing's spacing, 2. ––> Soundtrack albums' names in Chronology section, 3. Headline as per [[Template:Track listing#Parameters]], 4. Using ""music = "" instead of ""writer = "" in ""Includes theme by..."" as they do not contain any lyrics, and a minor correction in title in first paragraph."
+2022-03-19T08:51:20+00:00,1077995360,1070298747,1,Orangefeliscatus,Harry Potter and the Goblet of Fire (soundtrack),"1. Aligned infobox and track listing's spacing, 2. ––> Soundtrack albums' names in Chronology section, 3. Headline as per [[Template:Track listing#Parameters]], 4. Using ""music = "" instead of ""writer = "" in ""Includes theme by..."" as they do not contain any lyrics, and a minor correction in title in first paragraph."
+2022-03-19T08:34:19+00:00,1077993486,1065721576,1,Orangefeliscatus,Harry Potter and the Order of the Phoenix (soundtrack),"1. Aligned infobox and track listing's spacing, 2. ––> Soundtrack albums' names in Chronology section, 3. Headline as per [[Template:Track listing#Parameters]], 4. Using ""music = "" instead of ""writer = "" in ""Includes theme by..."" as they do not contain any lyrics, and a minor correction in title in first paragraph."
+2022-03-19T08:16:11+00:00,1077991567,1077989027,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),"Using ""music = "" parameter instead of ""note = "" parameter for ""Includes theme...""."
+2022-03-19T08:14:32+00:00,1077991395,1077988766,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 1 (soundtrack),"Using ""music = "" parameter instead of ""note = "" parameter for ""Includes theme...""."
+2022-03-19T08:11:48+00:00,1077990863,1073326128,1,Orangefeliscatus,Harry Potter and the Half-Blood Prince (soundtrack),"1. Aligned spacing in infobox and track listing, 2. (Original Motion Picture Soundtrack), 3. Headline as per [[Template:Track listing#Parameters]] and track listings don't require references as album itself is the considered the source for it. 4. Used ""music = "" parameter instead of ""writer = "" to denote ""Includes theme..."" as they do not contain any lyrics."
+2022-03-19T08:03:17+00:00,1077989027,1077823979,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),––> Soundtrack albums' names in Chronology section.
+2022-03-19T08:01:19+00:00,1077988766,1077823901,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 1 (soundtrack),––> Soundtrack albums' names in Chronology section.
+2022-03-18T10:47:19+00:00,1077823979,1077823262,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),Title from Warner Bros. Website.
+2022-03-18T10:46:16+00:00,1077823901,1077823829,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 1 (soundtrack),
+2022-03-18T10:45:29+00:00,1077823829,1077821616,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 1 (soundtrack),"––> Track listing. Unsure if ""Includes theme..."" information is even necessary or not. Anyway, maybe this is better? Put it into note parameter. Added full title in infobox and used ""-"" instead of ""–"" after checking it from Warner Bros. website."
+2022-03-18T10:39:39+00:00,1077823262,1077822997,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),headline as per [[Template:Track listing#Parameters]].
+2022-03-18T10:36:43+00:00,1077822997,1077822680,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),"––> Track listing, maybe this is better? removed reiterated hyperlinks, shortened the Includes theme by [[Artist]], and put them into note parameter."
+2022-03-18T10:33:04+00:00,1077822680,1063076321,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),"––> Track listing. 1. Headline, 2. Track listing spacing, 3. Track (1) ""note1 = opening"" removed as unnecessary. 4). Used ""music = "" parameter instead of ""writer = "" as they contain no lyrics, still unsure if such information is even needed,5. All tracks credits and track listing don't require citations as album itself is considered the source for it and minor grammar fixed for the same."
+2022-03-18T10:20:55+00:00,1077821616,1075310086,1,Orangefeliscatus,Harry Potter and the Deathly Hallows – Part 1 (soundtrack),"Fixed Track listing spacing for all. Fixed ""standard edition"" track listing name, used ""music3 = "" instead of ""writer 3 = "" as it contains no lyrics, ––> Limited edition bonus disc, used 'lyrics6 = "" instead of note parameter."
+2022-03-18T10:13:25+00:00,1077820923,1075346222,1,Orangefeliscatus,Violet Evergarden,
+2022-03-18T10:12:50+00:00,1077820870,1069152571,1,Orangefeliscatus,The Lumineers (album),
+2022-03-18T09:41:13+00:00,1077817934,1077592985,1,Orangefeliscatus,Cars 3,Cars 3 (Original Score) minor edit in Track listing.
+2022-03-16T09:05:38+00:00,1077436961,1077436430,1,Orangefeliscatus,User talk:Orangefeliscatus,
+2022-03-16T09:04:21+00:00,1077436827,1075518821,1,Orangefeliscatus,User talk:2600:6C40:5A00:1E97:38:E2CC:6D43:EE38,"I recently updated my signature and stick to font ""Segoe UI"" with my text so updating my text style. Thank you!"
+2022-03-16T09:03:23+00:00,1077436727,1077091456,1,Orangefeliscatus,User talk:Washuotaku,"I recently updated my signature and stick to font ""Segoe UI"" with my text so updating my text style. Thank you!"
+2022-03-16T09:00:05+00:00,1077436430,1077434641,1,Orangefeliscatus,User talk:Orangefeliscatus,"Using <span style> to change font to ""Segoe UI"" instead of <p>."
+2022-03-16T08:37:47+00:00,1077434641,1075210241,1,Orangefeliscatus,User talk:Orangefeliscatus,"Changing font to ""Segoe UI""."
+2022-03-14T13:47:45+00:00,1077089940,1073441522,1,Orangefeliscatus,User talk:Washuotaku,A thank you.
+2022-03-13T17:49:16+00:00,1076929837,1076705492,1,Orangefeliscatus,The Anime Man,Updated Education with reference.
+2022-03-08T16:14:48+00:00,1075961932,1067917868,1,Orangefeliscatus,Dream Your Life Away,"Fixed Track listing (Headlines, correct use of | note = , and added a missing edition track listing i.e., Special edition."
+2022-03-07T09:53:39+00:00,1075726834,1075345984,1,Orangefeliscatus,Storks (film),
+2022-03-06T18:08:09+00:00,1075606574,1059690065,1,Orangefeliscatus,Weathering with You (album),"| headline = , parameter as per [[Template:Track listing#Parameters]] (caption added). Also, track listings don't generally require a reference as the album itself is considered the source for it and total_length is always in minutes:seconds."
+2022-03-06T18:03:42+00:00,1075605879,1046858796,1,Orangefeliscatus,Drunk Uncle (album),"| headline = , parameter caption is necessary even if said it reiterates information, see [[Template:Track listing#Parameters]]."
+2022-03-06T07:18:33+00:00,1075521096,1075520151,1,Orangefeliscatus,Cars 2,Track listing ––> Track 3 credits corrected and minor edits.
+2022-03-06T07:09:09+00:00,1075520151,1075519838,1,Orangefeliscatus,Cars 2,Track listing ––> Track title.
+2022-03-06T07:06:05+00:00,1075519838,1075519657,1,Orangefeliscatus,Cars 2,Minor typo fixed in headline parameter spelling.
+2022-03-06T07:03:52+00:00,1075519657,1075461994,1,Orangefeliscatus,Cars 2,"| headline = , parameter is necessary even if it reiterates the information, see [[Template:Track listing#Parameters]] and added total_length."
+2022-03-06T06:55:34+00:00,1075518821,1075305761,1,Orangefeliscatus,User talk:2600:6C40:5A00:1E97:38:E2CC:6D43:EE38,
+2022-03-06T06:50:15+00:00,1075518293,1075517586,1,Orangefeliscatus,Toy Story 4,"Reverting my own edit. I'm so sorry and apologize for any inconvenience, I mistakenly confused you with the previous ip address who disruptively edited the page, After cross-checking the facts again I can't be sure but your edit maybe right, please add your reference."
+2022-03-06T06:43:04+00:00,1075517586,1075486676,1,Orangefeliscatus,Toy Story 4,"Undid revision 1075486676 by [[Special:Contributions/2601:483:1:55F0:A479:3B67:3E53:10B|2601:483:1:55F0:A479:3B67:3E53:10B]] ([[User talk:2601:483:1:55F0:A479:3B67:3E53:10B|talk]]) All the previous edits were vandalism by this ip user, also just checked the accuracy of this edit and its\'s wrong. Please provide the reference for your edit and do not take part in disruptive editing to avoid any future bans."
+2022-03-05T07:07:45+00:00,1075346222,1074995294,1,Orangefeliscatus,Violet Evergarden,Unnecessary {{nobold|}} tag removed in Track listing.
+2022-03-05T07:05:10+00:00,1075345984,1073656420,1,Orangefeliscatus,Storks (film),"Fixed Track listing. ––> | headline = , parameter caption see [[Template:Track listing#Parameters]]. Reduced page size as all_writing should be used and note for stating Track 30's exception."
+2022-03-05T06:56:32+00:00,1075345170,1075345011,1,Orangefeliscatus,The Good Dinosaur,Consistency of Soundtrack's name in Chronology section.
+2022-03-05T06:55:00+00:00,1075345011,1072950955,1,Orangefeliscatus,The Good Dinosaur,"| headline = , parameter is necessary even when it reiterates the information, see [[Template:Track listing#Parameters]]."
+2022-03-05T06:46:13+00:00,1075344155,1071467004,1,Orangefeliscatus,Optimist (album),
+2022-03-05T06:43:24+00:00,1075343829,1065490017,1,Orangefeliscatus,Blood Harmony,
+2022-03-04T14:41:27+00:00,1075210241,1075206750,1,Orangefeliscatus,User talk:Orangefeliscatus,Signature update.
+2022-03-04T14:20:02+00:00,1075206750,1075185148,1,Orangefeliscatus,User talk:Orangefeliscatus,
+2022-03-03T09:34:18+00:00,1074997642,1074996282,1,Orangefeliscatus,Toy Story 4,
+2022-03-03T09:32:23+00:00,1074997433,1074997279,1,Orangefeliscatus,Toy Story 2,
+2022-03-03T09:30:58+00:00,1074997279,1074962781,1,Orangefeliscatus,Toy Story 2,"| headline = , parameter caption is necessary even when it reiterates the information, see [[Template:Track listing#Parameters]]."
+2022-03-03T09:20:26+00:00,1074996282,1074995321,1,Orangefeliscatus,Toy Story 4,"skipped numbers 17, 22 and 23 fixed in Track listing."
+2022-03-03T09:10:23+00:00,1074995321,1074994978,1,Orangefeliscatus,Toy Story 4,
+2022-03-03T09:10:10+00:00,1074995294,1072163098,1,Orangefeliscatus,Violet Evergarden,
+2022-03-03T09:06:47+00:00,1074994978,1074934588,1,Orangefeliscatus,Toy Story 4,"Corrected headline parameter in track listing adding caption see [[Template:Track listing#Parameters]], removed reference to Apple Music as Wikipedia says to avoid references to Commercial and Streaming websites and generally references are not needed by track listing as album itself is considered the source for it."
+2022-03-03T08:54:16+00:00,1074993735,1074993094,1,Orangefeliscatus,Demon Slayer: Kimetsu no Yaiba season 1,Episode 8 Summary.
+2022-03-03T08:47:59+00:00,1074993094,1074992076,1,Orangefeliscatus,Demon Slayer: Kimetsu no Yaiba season 1,
+2022-03-03T08:37:24+00:00,1074992076,1074984691,1,Orangefeliscatus,Demon Slayer: Kimetsu no Yaiba season 1,Episode 6 Summary.
+2022-03-03T07:30:51+00:00,1074984691,1074984339,1,Orangefeliscatus,Demon Slayer: Kimetsu no Yaiba season 1,
+2022-03-03T07:27:27+00:00,1074984339,1074983979,1,Orangefeliscatus,Demon Slayer: Kimetsu no Yaiba season 1,Episode 5 Summary.
+2022-03-03T07:23:44+00:00,1074983979,1074983906,1,Orangefeliscatus,Demon Slayer: Kimetsu no Yaiba season 1,
+2022-03-03T07:22:58+00:00,1074983906,1074983316,1,Orangefeliscatus,Demon Slayer: Kimetsu no Yaiba season 1,Episode 4 Summary.
+2022-03-03T07:16:22+00:00,1074983316,1074982183,1,Orangefeliscatus,Demon Slayer: Kimetsu no Yaiba season 1,Episode 3 Summary.
+2022-03-03T07:05:57+00:00,1074982183,1074620134,1,Orangefeliscatus,Demon Slayer: Kimetsu no Yaiba season 1,"Removing excessive and unnecessary plot details in Summary of Episode 1, and Episode 2."
+2022-03-02T11:57:29+00:00,1074829545,1072737083,1,Orangefeliscatus,My Love (Westlife song),Track listings' headlines don't require references as album itself is considered the reference for them. Added proper Track listingas [[Template:Track listing]].
+2022-03-02T11:41:39+00:00,1074827776,1071350767,1,Orangefeliscatus,My War (song),Matches source code for track listing with [[Template:Track listing]].
+2022-03-02T11:32:03+00:00,1074826744,1074826462,1,Orangefeliscatus,Electric Light (album),Track listings' headlines simplified and corrected.
+2022-03-02T11:29:44+00:00,1074826462,1047173380,1,Orangefeliscatus,Electric Light (album),"Track listings don't generally require references as album itself is considered the source for it. Also, parameter | headline =, is necessary even when it reiterates information as per [[Template:Track listing#Parameters]]."
+2022-03-01T08:49:03+00:00,1074635559,1074635426,1,Orangefeliscatus,Ratatouille (film),Soundtrack > Chronology Section > Soundtrack albums' names.
+2022-03-01T08:47:24+00:00,1074635426,1074247232,1,Orangefeliscatus,Ratatouille (film),"––> Soundtrack section > | headline = , parameter is necessary even when it reiterates the information, see [[Template:Track listing#Parameters]]."
+2022-03-01T08:39:32+00:00,1074634663,1060821271,1,Orangefeliscatus,Toy Story (soundtrack),"| Headline = , parameter is necessary even when it reiterates the information as per [[Template:Track listing#Parameters]], also corrects use of track listing."
+2022-03-01T08:30:55+00:00,1074633750,1074580284,1,Orangefeliscatus,Attack on Titan season 4,"Soundtrack section –> ""Footsteps of Doom"" is indeed a song and exists but it was released on the album and not featured on the album and hence not a single from the TV Anime ""Attack on Titan"" The Final Season (Original Soundtrack) album."
+2022-02-28T18:31:19+00:00,1074527964,1074527019,1,Orangefeliscatus,Rascal Does Not Dream,Titles of Picture Drama and references in titles for the same.
+2022-02-28T18:24:57+00:00,1074527019,1067520983,1,Orangefeliscatus,Rascal Does Not Dream,This edit adds information on Picture Drama.
+2022-02-27T14:06:49+00:00,1074294289,1074262554,1,Orangefeliscatus,Attack on Titan season 4,"Unnecessary unbold text removed from = headline parameter in track listing, corrected headline parameter with [[Template:Track listing#Parameters]] in Soundtrack."
+2022-02-27T14:05:00+00:00,1074294056,1070604979,1,Orangefeliscatus,Attack on Titan season 1,"Unnecessary unbold text removed from = headline parameter in track listing, corrected headline parameter with [[Template:Track listing#Parameters]] in Soundtrack."
+2022-02-27T14:03:30+00:00,1074293847,1074192891,1,Orangefeliscatus,Attack on Titan (TV series),"Unnecessary unbold text removed from = headline parameter in track listing, corrected headline parameter with [[Template:Track listing#Parameters]] in Season 1 and 4's Soundtrack."
+2022-02-27T13:56:44+00:00,1074292911,1071556872,1,Orangefeliscatus,Cars (soundtrack),"= headline captions are necessary even when they reiterate the information, see Template Track listing Parameters > [[Template:Track listing#Parameters]] and corrected track listing whilst also correcting Lightning McQueen's Fast-Tracks tracks' lengths."
+2022-02-27T12:09:17+00:00,1074280213,0,1,Orangefeliscatus,User talk:Orangefeliscatus,"[[WP:AES|←]]Created page with 'Hey, and thank you for visiting my Talk page.'"
+2022-07-15T15:59:49+00:00,1098387236,1098351622,1,Paperpseudonym,User talk:Paperpseudonym,
+2022-07-15T11:55:28+00:00,1098351622,1098351387,1,Paperpseudonym,User talk:Paperpseudonym,
+2022-07-15T11:50:42+00:00,1098351005,1098350605,1,Paperpseudonym,User talk:Paperpseudonym,
+2022-07-15T09:49:22+00:00,1098335971,1098214998,1,Paperpseudonym,User talk:Paperpseudonym,
+2022-07-14T19:25:42+00:00,1098211566,1098210720,1,Paperpseudonym,User talk:Paperpseudonym,/* Your email */ Reply
+2022-07-07T08:57:03+00:00,1096891501,1096891460,1,Paperpseudonym,Attack on Titan season 1,"Undid revision 1096891460 by [[Special:Contributions/Paperpseudonym|Paperpseudonym]] ([[User talk:Paperpseudonym|talk]]) Sorry for this nevermind, i mistakenly hit enter while i was editing."
+2022-07-07T08:56:26+00:00,1096891460,1096171282,1,Paperpseudonym,Attack on Titan season 1,"Fixed summary, changed"
+2022-07-07T08:32:06+00:00,1096889497,1096717045,1,Paperpseudonym,Attack on Titan (TV series),Undid revision 1096717045 by [[Special:Contributions/AnimeLoverForLife|AnimeLoverForLife]] ([[User talk:AnimeLoverForLife|talk]]) This is unnecessary.
+2022-07-04T18:31:56+00:00,1096479956,1096479868,1,Paperpseudonym,User:Paperpseudonym,
+2022-07-04T18:31:11+00:00,1096479868,1095946760,1,Paperpseudonym,User:Paperpseudonym,
+2022-07-01T10:45:09+00:00,1095946760,1095946079,1,Paperpseudonym,User:Paperpseudonym,
+2022-07-01T10:43:34+00:00,1095946609,1095816201,1,Paperpseudonym,User talk:Paperpseudonym,
+2022-07-01T10:37:55+00:00,1095946079,1095831218,1,Paperpseudonym,User:Paperpseudonym,
+2022-06-30T17:10:26+00:00,1095831218,1095829078,1,Paperpseudonym,User:Paperpseudonym,
+2022-06-30T16:54:12+00:00,1095829078,1095816163,1,Paperpseudonym,User:Paperpseudonym,
+2022-06-30T16:32:21+00:00,1095826339,1095139547,1,Paperpseudonym,Violet Evergarden: The Movie,––> Track listing ––> Using last name to mention the artist(s) when repeated.
+2022-06-30T16:23:30+00:00,1095825207,1090785199,1,Paperpseudonym,User talk:Schläger4,
+2022-06-30T16:19:24+00:00,1095824698,1093109371,1,Paperpseudonym,It's Time (song),1. Arranged the source code of the Track listing. 2. Removed parameters not in use and some minor fixes. 3. Removed references to Commercial/Streaming websites as Wikipedia says to avoid them in references.
+2022-06-30T16:02:11+00:00,1095822528,1095821666,1,Paperpseudonym,Night Visions,Using all_wrting as most of the tracks are written by the same artist(s).
+2022-06-30T15:54:51+00:00,1095821666,1095818569,1,Paperpseudonym,Night Visions,"Using last name to mention the artist(s) when repeated instead of using the full name, see [[Template:Track listing]]. Also, using commas to separte the Artist(s) instead of using {{hlist|}}, using commas reduces the page size by a lot and also suffices the purpose and that's what's been used on [[Template:Track listing]]."
+2022-06-30T15:29:48+00:00,1095818569,1095527681,1,Paperpseudonym,Night Visions,"––> Track listing ––> 1. Added missing headine for the Standard edition as per [[Template:Track listing#Parameters]], 2. Removed parameters not in use and some minor fixes. 3. Removed reference link to Spotify in headline, Wikipedia says to avoid refernces to any commercial/streaming websites."
+2022-06-30T15:13:35+00:00,1095816588,1095413340,1,Paperpseudonym,Japan Sinks,Removed hyperlink for an article that does not exist.
+2022-06-30T15:10:29+00:00,1095816201,1089935346,1,Paperpseudonym,User talk:Paperpseudonym,[[WP:AES|←]]Replaced content with '{{lowercase title}}'
+2022-06-30T15:10:09+00:00,1095816163,1088389508,1,Paperpseudonym,User:Paperpseudonym,
+2022-06-30T11:24:24+00:00,1095789675,1095756531,1,Paperpseudonym,User talk:Ferret,
+2022-06-30T11:17:54+00:00,1095789139,1095651470,1,Paperpseudonym,Ratatouille (soundtrack),"Undid revision 1095651470 by [[Special:Contributions/212.115.224.254|212.115.224.254]] ([[User talk:212.115.224.254|talk]]) Please stop adding incorrect release dates, you've already been reverted once by another editor. Should you keep adding incorrect information without any references, i'll have to report you to an admin."
+2022-06-28T06:43:25+00:00,1095413340,1084031363,1,Paperpseudonym,Japan Sinks,Arranged Categories alphabetically.
+2022-06-28T06:41:31+00:00,1095413182,1090638661,1,Paperpseudonym,Kensuke Ushio,Removed hyperlinks for articles that do not exist.
+2022-06-28T06:36:24+00:00,1095412772,1095337910,1,Paperpseudonym,Fanfare of Adolescence,
+2022-06-28T06:33:54+00:00,1095412565,1076448616,1,Paperpseudonym,Remember (Hiroyuki Sawano album),"Arranged the source code for the Track listing, also, added headline caption as necessary per [[Template:Track listing#Parameters]] and removed parameters not in use and some minor edits."
+2022-06-27T20:26:21+00:00,1095343451,1072421280,1,Paperpseudonym,Rendezvous (band),
+2022-06-27T20:08:42+00:00,1095341237,1095341044,1,Paperpseudonym,Hiroyuki Sawano,
+2022-06-27T20:07:15+00:00,1095341044,1095305535,1,Paperpseudonym,Hiroyuki Sawano,"Made hyperlink landings more specific, and some minor edits to the Soundtracks' titles."
+2022-06-27T20:00:37+00:00,1095339960,1095339703,1,Paperpseudonym,Bubble (2022 film),
+2022-06-27T19:58:42+00:00,1095339703,1094177684,1,Paperpseudonym,Bubble (2022 film),"––> Music ––> 1. Corrected title of the Soundtrack and removed ALL CAPS, (minor edit). 2. Added caption in headline parameter, see [[Template:Track listing#Parameters]]. 3. Aligned spacing in source code of the Track listing. 4. Used all_music to denote the composer as most of the tracks are composed by the same artist, and let the individual exceptions be. 5. Removed extra_column as not in use. 6. Added total_length at the end of the Track listing."
+2022-06-27T19:46:10+00:00,1095337910,1095337349,1,Paperpseudonym,Fanfare of Adolescence,––> Soundtrack.
+2022-06-27T19:42:13+00:00,1095337349,1094962632,1,Paperpseudonym,Fanfare of Adolescence,"Added Music and Soundtrack. Also, please note: I've added the original titles as they were, I'm not much familiar with it, so, if you believe there can be appropriate {{Nihongo|}} parameter used and English translations added, please do add them."
+2022-06-27T18:49:07+00:00,1095330015,1095185174,1,Paperpseudonym,User talk:Horsesizedduck,
+2022-06-26T11:23:56+00:00,1095106686,1094898461,1,Paperpseudonym,Ratatouille (soundtrack),Added cover art.
+2022-06-26T11:22:20+00:00,1095106531,0,1,Paperpseudonym,File:Ratatouille (Original Motion Picture Soundtrack).png,Uploading a piece of non-free cover art using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]
+2022-06-26T11:15:20+00:00,1095105879,1094897387,1,Paperpseudonym,WALL-E (soundtrack),
+2022-06-26T11:11:55+00:00,1095105547,1094891123,1,Paperpseudonym,The Good Dinosaur (soundtrack),Added cover art.
+2022-06-26T11:09:11+00:00,1095105264,0,1,Paperpseudonym,File:The Good Dinosaur (Original Motion Picture Soundtrack).png,Uploading a piece of non-free cover art using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]
+2022-06-26T10:50:16+00:00,1095103248,1094827715,1,Paperpseudonym,Attack on Titan season 4,"Changed ""Fort Zlava"" back to ""Fort Slava"", it's controversial, and the spelling may differ from sources to sources, however, the majority and most reliable sources says it's Slava. Start the discussion at talk page to discuss."
+2022-06-25T16:44:01+00:00,1094967599,1092191569,1,Paperpseudonym,Sky Italia,Removed hyperlinks for articles that do not exist.
+2022-06-25T07:32:49+00:00,1094901926,1094901783,1,Paperpseudonym,User talk:Centcom08,
+2022-06-25T07:21:05+00:00,1094900801,1094891326,1,Paperpseudonym,User talk:Centcom08,
+2022-06-25T07:16:16+00:00,1094900200,1094595500,1,Paperpseudonym,Cars (soundtrack),"Removed unused parameters in Track listing, and a minor typo fixed in total_length–Lightning McQueen's Fast Tracks."
+2022-06-25T07:09:02+00:00,1094898461,1094898283,1,Paperpseudonym,Ratatouille (soundtrack),
+2022-06-25T07:08:33+00:00,1094898283,1091657064,1,Paperpseudonym,Ratatouille (soundtrack),
+2022-06-25T07:02:53+00:00,1094897387,1071701456,1,Paperpseudonym,WALL-E (soundtrack),"Fixed credits, titles etc and minor edits to the Track listing, and added headline as it is necessary. See, [[Template:Track listing#Parameters]]."
+2022-06-25T06:13:10+00:00,1094893216,1094002373,1,Paperpseudonym,Up (soundtrack),
+2022-06-25T06:04:28+00:00,1094892496,1092911825,1,Paperpseudonym,÷ (album),"––> Track listing ––> I've used commas to separate Artist(s) names instead of {{hlist|}}, this reduces up the article size, it's simple and it suffices the purpose."
+2022-06-25T05:54:43+00:00,1094891775,1094829961,1,Paperpseudonym,A Shape of Light,
+2022-06-25T05:47:56+00:00,1094891326,1094890624,1,Paperpseudonym,User talk:Centcom08,
+2022-06-25T05:44:28+00:00,1094891123,1094891093,1,Paperpseudonym,The Good Dinosaur (soundtrack),
+2022-06-25T05:44:04+00:00,1094891093,1090594931,1,Paperpseudonym,The Good Dinosaur (soundtrack),"Arranged the source code for Track listing. Also, added total_length in minutes:seconds in info box (hours:minutes:seconds should not be used, see [[Template:Infobox_album#length]]."
+2022-06-25T05:30:34+00:00,1094890049,1094889740,1,Paperpseudonym,User talk:Centcom08,
+2022-06-25T05:22:53+00:00,1094889509,1094889110,1,Paperpseudonym,User talk:Centcom08,
+2022-06-25T05:16:51+00:00,1094889110,1094808874,1,Paperpseudonym,User talk:Centcom08,
+2022-06-24T19:34:23+00:00,1094833276,1091551381,1,Paperpseudonym,Violet Evergarden: Eternity and the Auto Memory Doll,"Removed ref. from headline, they're not usually required as the album itself is considered the source for it."
+2022-06-24T19:34:21+00:00,1094833270,1090698870,1,Paperpseudonym,Violet Evergarden: The Movie,"Removed ref. from headline, they're not usually required as the album itself is considered the source for it."
+2022-06-24T19:29:05+00:00,1094832652,1063428329,1,Paperpseudonym,Red Swan (song),"1. Removed ref. from headline, they are not usually required, the album itself is considered the source for it."
+2022-06-24T19:24:20+00:00,1094832042,1091445455,1,Paperpseudonym,Titanic: Music from the Motion Picture,"I've used Commas to separate Artist(s) names instead of {{hlist|}}, this reduces page size, and also suffices the purpose."
+2022-06-24T19:12:32+00:00,1094830434,1093127664,1,Paperpseudonym,Chaos and the Calm,"––> Track listing ––> I've used commas to separate Artist(s) names instead of {{hlist|}}, this reduces up the article size, it's simple and it suffices the purpose. Also, removed Adam Argyle from writer(s) field, it is for Music and Lyrics that is Composers and lyricists. An adapter is usually not considered a composer."
+2022-06-24T19:06:54+00:00,1094829809,1094600465,1,Paperpseudonym,Violet Evergarden,"––> Track listing ––> I've used commas to separate Artist(s) names instead of {{hlist|}}, this reduces up the article size, it's simple and it suffices the purpose. Also, removed unnecessary."
+2022-06-24T19:03:31+00:00,1094829462,1094638225,1,Paperpseudonym,Belle (2021 film),"––> Track listing ––> I've used commas to separate Artist(s) names instead of {{hlist|}}, this reduces up the article size, it's simple and it suffices the purpose."
+2022-06-24T18:58:47+00:00,1094828916,1094600764,1,Paperpseudonym,Bolt (2008 film),"––> Track listing ––> I've used commas to separate Artist(s) names instead of {{hlist|}}, this reduces up the article size, it's simple and it suffices the purpose."
+2022-06-24T18:56:39+00:00,1094828712,1091545269,1,Paperpseudonym,Some Nights (album),Corrected headlines as per [[Template:Track listing#Parameters]].
+2022-06-24T18:54:12+00:00,1094828466,1094828358,1,Paperpseudonym,A Shape of Light,
+2022-06-24T18:53:00+00:00,1094828358,1094595174,1,Paperpseudonym,A Shape of Light,"Used {{hlist|}} to separate the Artist name, reduces page size and suffices the purpose. Also, removed unnecessary ""violin"" in a track, mentioning them as Artist shows they've already participated in creating the track and mentioning their instrument is not necessary."
+2022-06-24T18:46:43+00:00,1094827715,1094625788,1,Paperpseudonym,Attack on Titan season 4,"––> Track listing ––> I've used commas to separate Artist(s) names instead of {{hlist|}}, this reduces up the article size, it's simple and it suffices the purpose."
+2022-06-24T18:46:01+00:00,1094827652,1094614331,1,Paperpseudonym,Attack on Titan season 3,"––> Track listing ––> I've used commas to separate Artist(s) names instead of {{hlist|}}, this reduces up the article size, it's simple and it suffices the purpose."
+2022-06-24T18:44:03+00:00,1094827463,1094625002,1,Paperpseudonym,Attack on Titan season 2,"––> Track listing ––> I've used commas to separate Artist(s) names instead of {{hlist|}}, this reduces up the article size, it's simple and it suffices the purpose."
+2022-06-24T18:41:30+00:00,1094827216,1094624049,1,Paperpseudonym,Attack on Titan season 1,"––> Track listing ––> I've used commas to separate Artist(s) names instead of {{hlist|}}, this reduces up the article size, it's simple and it suffices the purpose."
+2022-06-24T18:38:26+00:00,1094826887,1094826263,1,Paperpseudonym,User talk:Sergecross73,
+2022-06-24T18:35:35+00:00,1094826577,1094625985,1,Paperpseudonym,Attack on Titan (TV series),"I've added commas instead of {{hlist|}} for separating Artist's names, this reduces up article size."
+2022-06-24T18:13:55+00:00,1094824119,1094820416,1,Paperpseudonym,User talk:Sergecross73,
+2022-06-24T17:32:47+00:00,1094819000,1094795581,1,Paperpseudonym,User talk:Sergecross73,
+2022-06-24T14:48:48+00:00,1094794795,1094722462,1,Paperpseudonym,User talk:Sergecross73,
+2022-06-23T17:27:07+00:00,1094625985,1094623186,1,Paperpseudonym,Attack on Titan (TV series),
+2022-06-23T17:26:12+00:00,1094625788,1094610757,1,Paperpseudonym,Attack on Titan season 4,
+2022-06-23T17:22:11+00:00,1094625002,1094611189,1,Paperpseudonym,Attack on Titan season 2,Using all_music to denote the Composer in track listing as the Composer for all the tracks is the same.
+2022-06-23T17:17:30+00:00,1094624049,1094611322,1,Paperpseudonym,Attack on Titan season 1,Using all_music to denote the Composer in track listing as the Composer for all the tracks is the same.
+2022-06-23T17:13:06+00:00,1094623186,1094617402,1,Paperpseudonym,Attack on Titan (TV series),"Using all_music to denote Composer in Season 1, 2, and 3's Soundtrack as the composer for all the tracks is the same."
+2022-06-23T16:43:36+00:00,1094617402,1094616006,1,Paperpseudonym,Attack on Titan (TV series),Removed parameters in track listing that were not in use.
+2022-06-23T16:36:21+00:00,1094616006,1094592938,1,Paperpseudonym,Attack on Titan (TV series),"Removing ""(vocals)"" from Artist field, I believe it's unnecessary."
+2022-06-23T16:27:49+00:00,1094614331,1094613363,1,Paperpseudonym,Attack on Titan season 3,"Forgot to type the summary for the previous edit. Anyway, here's for both. Current edit: fixed a minor mistake i made with last edit. Previous edit: 1. Removed (vocals) from artist(s) field, I believe they're unnecessary. 2. Removing full names of artists if repeated as the full name was just mentioned in the Disc above. 3. Arranged the source code for the track listing and removed parameters that were not in use."
+2022-06-23T16:23:01+00:00,1094613363,1094593742,1,Paperpseudonym,Attack on Titan season 3,
+2022-06-23T16:09:24+00:00,1094611322,1094593511,1,Paperpseudonym,Attack on Titan season 1,"Removed (vocals) from artist(s) field, I believe they're unnecessary."
+2022-06-23T16:08:28+00:00,1094611189,1094593625,1,Paperpseudonym,Attack on Titan season 2,"Removed (vocals) from artist(s) field, I believe they're unnecessary."
+2022-06-23T16:05:35+00:00,1094610757,1094593882,1,Paperpseudonym,Attack on Titan season 4,"Removed (vocals) from artist(s) field, I believe they're unnecessary."
+2022-06-23T15:15:26+00:00,1094600764,1094161142,1,Paperpseudonym,Bolt (2008 film),
+2022-06-23T15:13:51+00:00,1094600465,1093305221,1,Paperpseudonym,Violet Evergarden,
+2022-06-23T15:10:54+00:00,1094599927,1094596690,1,Paperpseudonym,Belle (2021 film),Corrected released and length parameters in Soundtrack info box. See: [[Template:Infobox_album#released]] and [[Template:Infobox_album#length]].
+2022-06-23T14:53:31+00:00,1094596690,1094394113,1,Paperpseudonym,Belle (2021 film),"A minor edit and, i removed (as ""Belle"") from Artist's names, well, it's not necessary and also there are several soundtracks, English and Japanese editions, needless to say with different voice actors but none mention the character like (as ""character""). Also, Wikipedia manuals also don't tell us to state something like that so better to leave it at that."
+2022-06-23T14:48:19+00:00,1094595653,1094077326,1,Paperpseudonym,Cars 2,
+2022-06-23T14:47:25+00:00,1094595500,1094131075,1,Paperpseudonym,Cars (soundtrack),
+2022-06-23T14:45:32+00:00,1094595174,1092319807,1,Paperpseudonym,A Shape of Light,
+2022-06-23T14:43:39+00:00,1094594862,1094593447,1,Paperpseudonym,User talk:Sergecross73,
+2022-06-23T14:38:18+00:00,1094593882,1094589148,1,Paperpseudonym,Attack on Titan season 4,
+2022-06-23T14:37:34+00:00,1094593742,1094575617,1,Paperpseudonym,Attack on Titan season 3,
+2022-06-23T14:36:57+00:00,1094593625,1086702032,1,Paperpseudonym,Attack on Titan season 2,
+2022-06-23T14:36:18+00:00,1094593511,1094250779,1,Paperpseudonym,Attack on Titan season 1,
+2022-06-23T14:33:05+00:00,1094592938,1094589781,1,Paperpseudonym,Attack on Titan (TV series),Minor edit.
+2022-06-23T14:16:03+00:00,1094589781,1093822220,1,Paperpseudonym,Attack on Titan (TV series),Added new Soundtrack's track listing.
+2022-06-23T14:12:41+00:00,1094589148,1094406977,1,Paperpseudonym,Attack on Titan season 4,Added new Soundtrack's track listing.
+2022-06-22T16:44:26+00:00,1094440690,1093775588,1,Paperpseudonym,Hotarubi no Mori e,
+2022-06-22T16:41:46+00:00,1094440267,1090215033,1,Paperpseudonym,User talk:Juhachi,
+2022-06-17T20:52:39+00:00,1093626982,1093406857,1,Paperpseudonym,Hotarubi no Mori e,"I see... i'm not sure about whether their English titles have been published or not but i'll look for sources. About the headline, captions are necessary, please see [[Template:Track listing#Parameters]], and also references are not necessary for Track listing as the album itself is considered the source for it."
+2022-06-15T14:32:19+00:00,1093267420,1092323383,1,Paperpseudonym,Talk:Belle (2021 film),
+2022-06-14T19:10:57+00:00,1093130442,1092434659,1,Paperpseudonym,Violet Evergarden,
+2022-06-14T19:08:35+00:00,1093130108,1080436696,1,Paperpseudonym,Hotarubi no Mori e,"Correcting use of {{Nihongo|}} tag in Track listing titles. Also, this is English Wikipedia so English titles should be prioritised and other language titles noted as appropriate."
+2022-06-14T18:52:52+00:00,1093128128,1087972432,1,Paperpseudonym,Electric Light (album),––> headlines as per [[Template:Track listing]].
+2022-06-14T18:48:56+00:00,1093127664,1083330123,1,Paperpseudonym,Chaos and the Calm,––> headlines as per [[Template:Track listing#Parameters]].
+2022-06-14T18:46:23+00:00,1093127341,1086700339,1,Paperpseudonym,Blood Harmony,––> Track listing headlines as per [[Template:Track listing#Parameters]].
+2022-06-14T18:44:29+00:00,1093127111,1078821053,1,Paperpseudonym,One Last Kiss (EP),"1. Removed reference to Apple Music in Track listing, references are not usually required as the album itself is the considered the source for it. Also, Wikipedia says to avoid references to Streaming/Commercial websites. 2. Aligned the source code for Track listing."
+2022-06-11T15:58:18+00:00,1092641178,1092640803,1,Paperpseudonym,Belle (2021 film),Fixed a typo with the hyperlink in the last edit.
+2022-06-11T15:55:09+00:00,1092640803,1092640513,1,Paperpseudonym,Belle (2021 film),"Added hyperlink for artist ""ermhoi"" in the standard edition."
+2022-06-11T15:52:48+00:00,1092640513,1092432833,1,Paperpseudonym,Belle (2021 film),"The Artist's full name was just mentioned above, so reducing only to the last name in the second track."
+2022-06-10T08:10:03+00:00,1092436823,1089771628,1,Paperpseudonym,Bolt (2008 film),"Corrected headline in Track listing as it is necessary, [[Template:Track listing#Parameters]]."
+2022-06-10T08:04:24+00:00,1092436307,1092435178,1,Paperpseudonym,Weathering with You (album),Using {{Nihongo||}} parameter in titles. I'll add the Romaji later.
+2022-06-10T07:50:52+00:00,1092435178,1091357085,1,Paperpseudonym,Weathering with You (album),"Corrected headline, see [[Template:Track listing#Parameters]]."
+2022-06-10T07:49:24+00:00,1092435064,1091304989,1,Paperpseudonym,Panic Fancy,"Corrected headline, see [[Template:Track listing#Parameters]]."
+2022-06-10T07:45:58+00:00,1092434659,1085225337,1,Paperpseudonym,Violet Evergarden,"––> Soundtrack ––> Disc 2, Track (22), I've added {{Nihongo||}} parameter for the title rather than using note."
+2022-06-10T07:41:38+00:00,1092434230,1092042525,1,Paperpseudonym,Demon Slayer: Kimetsu no Yaiba,"A minor edit in Soundtracks' Track listing's headline, see [[Template:Track listing#Parameters]], I think Disc ""1"" suffices the purpose rather than stretching it to Disc ""one"". I tried reading all the manuals I could for this, but if still end up making a mistake here, please undo the edit and please provide a summary explaining why."
+2022-06-10T07:37:11+00:00,1092433872,1092322520,1,Paperpseudonym,Your Name (album),Corrected the headline in track listing as per [[Template:Track listing#Parameters]].
+2022-06-10T07:35:40+00:00,1092433719,1089011251,1,Paperpseudonym,X (Ed Sheeran album),"1. Removed reference from headline as they are not usually necessary, the album itself is considered the source for it. 2. Arranged the source code for track listing [[Template:Track listing#Usage]]."
+2022-06-10T07:24:34+00:00,1092432833,1092432464,1,Paperpseudonym,Belle (2021 film),Corrected headline in Track listing [[Template:Track listing#Parameters]].
+2022-06-10T07:19:37+00:00,1092432464,1092345035,1,Paperpseudonym,Belle (2021 film),
+2022-06-09T18:44:35+00:00,1092345035,1092332748,1,Paperpseudonym,Belle (2021 film),Added {{Nihongo|||}} parameter for titles in standard edition in track listing and some minor edits in titles to maintain consistency.
+2022-06-09T17:06:24+00:00,1092332748,1092332292,1,Paperpseudonym,Belle (2021 film),"Using | note = , parameter to denote English Version etc when needed."
+2022-06-09T17:02:17+00:00,1092332292,1092321995,1,Paperpseudonym,Belle (2021 film),"1. Added separate track listing for English edition, the lyricist(s) and performer(s) of both the standard edition and English edition differ at times, on top of that it remains the same that they are different editions, so it only makes sense to create a separate track listing for it. 2. Made appropriate changes for both the standard and English edition. Please preview the edit to view the changes made."
+2022-06-09T15:53:43+00:00,1092323383,1072740276,1,Paperpseudonym,Talk:Belle (2021 film),
+2022-06-09T15:47:13+00:00,1092322520,1091339001,1,Paperpseudonym,Your Name (album),
+2022-06-09T15:43:29+00:00,1092321995,1092321399,1,Paperpseudonym,Belle (2021 film),Arranged Categories alphabetically.
+2022-06-09T15:39:14+00:00,1092321399,1091915705,1,Paperpseudonym,Belle (2021 film),1. Fixed Soundtrack's name in album's info box. 2. Some minor edits in the source code of Track listing. 3. Added headline in Track listing as per [[Template:Track listing#Usage]].
+2022-06-09T15:32:28+00:00,1092320559,1055167975,1,Paperpseudonym,The Earth Is Not a Cold Dead Place,Added appropriate headline. [[Template:Track listing#Usage]] and some minor edits in source code of the Track listing.
+2022-06-09T15:26:35+00:00,1092319807,1063888315,1,Paperpseudonym,A Shape of Light,Trimmed down the extra spacing in Track listing source code.
+2022-06-04T14:39:01+00:00,1091470805,1091244428,1,Paperpseudonym,Demon Slayer: Kimetsu no Yaiba,"Changes I made: 1. Aligned spacing for info box in source code, making it easier to read and edit. 2. A few minor changes in improving the Track listing and removed parameters not in use in Track listing."
+2022-06-04T14:26:20+00:00,1091468828,1091467276,1,Paperpseudonym,User talk:Bigeshjen,
+2022-06-04T14:15:50+00:00,1091467276,1091445748,1,Paperpseudonym,User talk:Bigeshjen,
+2022-06-04T11:08:30+00:00,1091445455,1091444698,1,Paperpseudonym,Titanic: Music from the Motion Picture,"Removing unnecessary all_music tags, use it when there's just one track with different writer(s), here all writer(s) have already been mentioned for each track. Also, changing vocal(s)/Artist(s) to Performer(s) in extra_column."
+2022-06-04T11:01:48+00:00,1091444698,1091444043,1,Paperpseudonym,Titanic: Music from the Motion Picture,"Reverting edit by [[User:Bigeshjen]], no summary provided and mainly the edit revert is wrong. Please read [[Template:Track listing]]. all_writing is used to denote, both lyrics and music, using all_writing here don't make sense, first and foremost, no tracks in the list contain lyrics but one, and that is already noted with lyric parameter. So, it only makes sense to use all_music here. Thank you!"
+2022-06-04T10:58:58+00:00,1091444384,1091371207,1,Paperpseudonym,User talk:Bigeshjen,
+2022-06-04T10:55:41+00:00,1091444043,1091443738,1,Paperpseudonym,Titanic: Music from the Motion Picture,Removing completely unnecessary information.
+2022-06-04T10:52:04+00:00,1091443738,1091441799,1,Paperpseudonym,Titanic: Music from the Motion Picture,"Using only last name in track listing when an artists' name is repeated, also removing repeated links for the same."
+2022-06-04T10:29:10+00:00,1091441799,1091441391,1,Paperpseudonym,Titanic: Music from the Motion Picture,Minor change: Placed Album/extended/etc version using note = parameter rather than in title itself.
+2022-06-04T10:22:27+00:00,1091441285,1091441080,1,Paperpseudonym,Titanic: Music from the Motion Picture,Minor edit: Changed all_writing to all_music in Two-Disc Anniversary Edition as Horner only composed Music and no tracks contain lyrics but one which had already been noted.
+2022-06-04T10:19:52+00:00,1091441080,1089282586,1,Paperpseudonym,Titanic: Music from the Motion Picture,"1. Aligned spacing in info box and Track listing. 2. Track listing headline as per [[Template:Track listing]]. 3. Removed fields that were not in use. 4. ––> Standard edition > Track (14), put lyrics and vocals info in lyric and extra_column, respectively. Removed producer information as it is not primary information. 5. Reiterated the same previous change in all editions for track (14)."
+2022-06-03T18:00:08+00:00,1091340514,1091340153,1,Paperpseudonym,Weathering with You (album),"I'll add the titles with their appropriate Hepburn translation well in near future, please fix the titles if you see any mistakes. Also, in the last edit, I removed references in Track listing as they were unnecessary as they're not usually required, the album itself is considered the source for it."
+2022-06-03T17:57:36+00:00,1091340153,1091221333,1,Paperpseudonym,Weathering with You (album),"1. Aligned spacing in info box. 2. Aligned spacing in track listing and removed unnecessary/unused or columns that do not exist in [[Template:Track listing]]. Also, removed unnecessary reference for track listing as they"
+2022-06-03T17:48:18+00:00,1091339001,1091310831,1,Paperpseudonym,Your Name (album),"This is English Wikipedia, so English titles should be prioritized while original Japanese and Hepburn text placed with appropriate tag."
+2022-06-03T13:59:28+00:00,1091310831,1091310789,1,Paperpseudonym,Your Name (album),
+2022-06-03T13:58:58+00:00,1091310789,1091310644,1,Paperpseudonym,Your Name (album),"––> Deluxe edition - Disc 2 > All tracks are written by the same artist, so using all_writing column to reduce the article size and avoid reiteration of information."
+2022-06-03T13:57:33+00:00,1091310644,1091309683,1,Paperpseudonym,Your Name (album),Using note(s) to denote movie/english/etc versions.
+2022-06-03T13:48:17+00:00,1091309683,1065455115,1,Paperpseudonym,Your Name (album),"1. Aligned spacing in info box. 2. Refined track listing, corrected points includes but not limited to: Removing fields not used, correcting track(s) length, converting total_length into minutes instead of hours and minutes, etc [[Template:Track listing]]. 3. Also, removed references in track listing as references are not usually required in track listing as the album itself is considered the source for it."
+2022-06-03T13:01:56+00:00,1091304989,1091275012,1,Paperpseudonym,Panic Fancy,
+2022-06-03T07:43:59+00:00,1091275012,1091274848,1,Paperpseudonym,Panic Fancy,
+2022-06-03T07:42:33+00:00,1091274848,1091271829,1,Paperpseudonym,Panic Fancy,"1. Removed stylization that is ALL CAPS here, instead noted it in the first paragraph [[Wikipedia:Manual of Style]]. 2. Added Track listing as per [[Template:Track listing]] and corrected track(s) titles and lengths. 3. Removed unnecessary clickable links."
+2022-06-03T07:11:10+00:00,1091271829,1061179534,1,Paperpseudonym,Panic Fancy,Removed the hyperlink to producer in album infobox as the article does not exists.
+2022-05-26T12:26:31+00:00,1089935346,1088389607,1,Paperpseudonym,User talk:Paperpseudonym,
+2022-05-17T18:49:38+00:00,1088389607,0,1,Paperpseudonym,User talk:Paperpseudonym,[[WP:AES|←]]Created blank page
+2022-05-17T18:49:06+00:00,1088389508,0,1,Paperpseudonym,User:Paperpseudonym,[[WP:AES|←]]Created blank page
+2022-01-05T12:29:43+00:00,1063888315,1063888100,0,Ss112,A Shape of Light,"this is really not significant, and does not need to be bolded and especially not have a fully stylised title"
+2022-06-27T16:34:34+00:00,1095307860,1095235867,0,Schläger4,Attack on Titan (TV series),link [[Kohta Yamamoto]] using [[:en:User:Edward/Find link|Find link]]
+2022-04-17T20:06:02+00:00,1083232494,1082885346,0,Smeagol 17,Attack on Titan (TV series),/* Viewership */
+2022-06-02T09:25:54+00:00,1091119911,1090836858,0,167.98.133.204,Attack on Titan (TV series),
+2022-06-11T10:25:48+00:00,1092606425,1092606099,0,89.215.145.164,Attack on Titan (TV series),
+2022-03-21T23:56:02+00:00,1078514223,1078508943,0,WillsEdtior777,Attack on Titan (TV series),This is already discussed in viewership and critical reception
+2022-04-15T17:41:06+00:00,1082885346,1082884656,0,Ïvana,Attack on Titan (TV series),Reverted 1 edit by [[Special:Contributions/2607:FEA8:5561:2700:814A:3E43:9242:89DF|2607:FEA8:5561:2700:814A:3E43:9242:89DF]] ([[User talk:2607:FEA8:5561:2700:814A:3E43:9242:89DF|talk]]) to last revision by Álvaro678
+2022-06-19T01:01:25+00:00,1093822220,1093822080,0,Queen of Hearts,Attack on Titan (TV series),Reverted edits by [[Special:Contribs/62.4.44.178|62.4.44.178]] ([[User talk:62.4.44.178|talk]]) to last version by Evolimaster133
+2022-07-13T04:23:25+00:00,1097883969,1097765317,0,GalaxyFighter55,Attack on Titan (TV series),/* The Final Season */
+2022-03-14T14:54:22+00:00,1077100665,1077052969,0,Frietjes,Attack on Titan (TV series),
+2022-04-17T04:42:43+00:00,1083120162,1083119743,0,SpectresWrath,Attack on Titan season 1,/* Episode list */
+2022-03-20T19:36:10+00:00,1078280567,1078280530,0,ClueBot NG,Attack on Titan season 1,"Reverting possible vandalism by [[Special:Contribs/2A02:587:800A:3C00:1932:4777:70B9:F335|2A02:587:800A:3C00:1932:4777:70B9:F335]] to version by Yowashi. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4149272) (Bot)"
+2022-03-06T17:33:00+00:00,1075601157,1075459364,0,Only1greenyoshi,Attack on Titan (TV series),
+2022-03-14T20:52:07+00:00,1077164511,1075854296,0,Yowashi,Attack on Titan season 1,Ce
+2022-02-27T20:34:24+00:00,1074353196,1074294056,0,Yowashi,Attack on Titan season 1,/* Episodes */ copy edit
+2022-03-08T01:53:18+00:00,1075854256,1072334541,0,2601:8C:4180:DD50:41BB:2AB9:12EA:CC7C,Attack on Titan season 2,/* Episodes */
+2022-02-17T05:08:04+00:00,1072334541,1071484653,0,GalaxyFighter55,Attack on Titan season 2,/* Episodes */
+2022-05-07T20:40:53+00:00,1086702032,1082593124,0,Hemang 18,Attack on Titan season 2,
+2022-03-08T01:53:02+00:00,1075854216,1075367219,0,2601:8C:4180:DD50:41BB:2AB9:12EA:CC7C,Attack on Titan season 3,/* Episodes */
+2022-04-14T01:25:14+00:00,1082593000,1082553292,0,GalaxyFighter55,Attack on Titan season 3,
+2022-05-01T11:19:08+00:00,1085599229,1085599204,0,Serols,Attack on Titan season 3,Reverted edits by [[Special:Contributions/103.181.132.90|103.181.132.90]] ([[User talk:103.181.132.90|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-05-21T07:21:11+00:00,1088991100,1088212837,0,GalaxyFighter55,Attack on Titan season 4,
+2022-03-31T03:58:43+00:00,1080246500,1080103403,0,Yowashi,Attack on Titan season 3,/* Episode list */
+2022-05-11T17:25:16+00:00,1087306968,1085599229,0,Hemang 18,Attack on Titan season 3,
+2022-05-01T20:04:25+00:00,1085668554,1083281104,0,Yowashi,Attack on Titan season 4,Grammar
+2022-03-27T17:56:18+00:00,1079606673,1079601381,0,146.199.177.63,Attack on Titan season 4,/* Episode list */
+2022-05-08T03:15:58+00:00,1086747189,1086595908,0,SpectresWrath,Attack on Titan season 4,/* References */
+2022-03-20T04:32:32+00:00,1078155433,1078085051,0,2603:9000:7D0A:8C00:7413:55C5:5D49:3396,Attack on Titan season 4,/* Episode list */
+2022-06-20T22:24:07+00:00,1094126447,1093257127,0,VillainofWiki,Attack on Titan season 4,/* Episode list */
+2022-04-07T18:48:00+00:00,1081491767,1081349343,0,GalaxyFighter55,Attack on Titan season 4,/* Episode list */ Via Toonami Facebook
+2022-03-13T17:53:33+00:00,1076930471,1076908235,0,86.135.14.73,Attack on Titan season 4,/* Episode list */
+2022-05-18T16:15:27+00:00,1088534775,1088402715,0,ChoHyeri,Belle (2021 film),
+2022-03-13T12:21:22+00:00,1076881053,1076600366,0,Gellerman,Belle (2021 film),/* Accolades */
+2022-06-05T05:39:54+00:00,1091587007,1091520345,0,AppGoo0011,Belle (2021 film),Placed dates in infobox
+2022-06-15T13:20:56+00:00,1093257127,1091568886,0,Minedor,Attack on Titan season 4,"The Wall Titans number in the millions, not thousands"
+2022-04-18T02:00:56+00:00,1083281104,1083232016,0,TimSmit,Attack on Titan season 4,/* English */ Fixed table
+2022-03-10T19:09:51+00:00,1076363797,1076090297,0,2001:569:518B:1200:3031:1BAE:578A:7C56,Attack on Titan season 4,/* Episode list */
+2022-06-11T22:47:35+00:00,1092691435,1092691386,0,79.235.161.80,Belle (2021 film),/* Soundtrack */
+2022-04-03T08:52:55+00:00,1080762618,1080762478,0,Wizymon,Attack on Titan season 4,/* Episode list */
+2022-03-24T01:29:53+00:00,1078921884,1078789196,0,2A04:CEC0:11D9:7C6C:5127:7500:E681:B7A,Attack on Titan season 4,Undid revision 1078528017 by [[Special:Contributions/64.251.244.64|64.251.244.64]] ([[User talk:64.251.244.64|talk]])
+2022-03-20T17:46:38+00:00,1078262041,1078252531,0,Crboyer,Belle (2021 film),Restored revision 1077918425 by [[Special:Contributions/Evope|Evope]] ([[User talk:Evope|talk]]): Restore last good version.
+2022-05-14T14:12:06+00:00,1087784829,1085534084,0,DBeyer2003,Belle (2021 film),/* Critical response */Updated rt info
+2022-03-26T02:15:19+00:00,1079302938,1078262041,0,Evope,Belle (2021 film),
+2022-06-23T18:26:55+00:00,1094638225,1094599927,0,Abdotorg,Belle (2021 film),+wikilink
+2022-05-01T02:03:53+00:00,1085534084,1084036212,0,114.10.23.60,Belle (2021 film),/* External links */
+2022-03-05T05:00:36+00:00,1075332869,1075113055,0,Evope,Belle (2021 film),
+2022-03-16T15:19:55+00:00,1077480781,1077480212,0,Phil81194,Belle (2021 film),
+2022-05-02T22:34:04+00:00,1085873836,1085584709,0,WikiCleanerBot,Blood Harmony,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2022-03-21T00:27:22+00:00,1078324111,1075343829,0,Mediafanatic17,Blood Harmony,so? don't just discredit the entire body of work by being biased
+2022-04-03T16:18:02+00:00,1080811678,1078265059,0,Indagate,Bolt (2008 film),Updating Rotten Tomatoes info with Wikidata.
+2022-07-09T23:48:12+00:00,1097307559,1096636524,0,KING WIKIPEDIAN DCCLXIV,Bolt (2008 film),
+2022-02-20T01:51:32+00:00,1072903702,1071465560,0,Rlink2,Bolt (2008 film),/* Critical reception */Adding web.archive.org links for citations with url-status=live [[Category:CS1_maint:_url-status]]
+2022-05-12T12:53:07+00:00,1087437531,1087435870,0,151.43.105.179,Cars (soundtrack),/* Lightning McQueen's Fast Tracks */
+2022-04-14T21:45:33+00:00,1082751456,1082692343,0,Maxbmogs,Bubble (2022 film),Undid revision 1082692343 by [[Special:Contributions/63.116.166.11|63.116.166.11]] ([[User talk:63.116.166.11|talk]])
+2022-03-01T02:01:37+00:00,1074591532,1074585553,0,Harushiga,Bubble (2022 film),
+2022-06-08T05:50:36+00:00,1092103893,1087437531,0,Starcheerspeaksnewslostwars,Cars (soundtrack),removed [[Category:Songs from Cars (franchise)]] using [[WP:HC|HotCat]]
+2022-03-20T18:02:52+00:00,1078265059,1077018838,0,DerpderpX,Bolt (2008 film),Added in links about the film's role in the Disney Revival.
+2022-07-13T14:23:51+00:00,1097960769,1097960683,0,$tarstruck,Cars 2,/* Plot */
+2022-03-26T04:46:41+00:00,1079321464,1078772823,0,SuperSkaterDude45,Cars 2,/* Plot */ Typo and added linking
+2022-05-08T00:14:29+00:00,1086727930,1085489520,0,Tinioril,Cars 2,"/* Voice cast */ ""Holly"" to ""Holley"""
+2022-05-11T13:52:35+00:00,1087277644,1087212858,0,Madyoshi01,Cars 3,
+2022-06-14T18:21:28+00:00,1093124410,1092679277,0,Bryangul2020,Cars 2,
+2022-05-29T01:17:16+00:00,1090348489,1089120473,0,GreenC bot,Cars 2,Reformat 2 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-04-12T18:21:26+00:00,1082354628,1082312496,0,Bbb23,Cars 2,revert sock
+2022-02-23T22:03:56+00:00,1073661737,1064069458,0,Synthfiend,Chaos and the Calm,
+2022-03-23T06:57:43+00:00,1078772823,1077598027,0,LancedSoul,Cars 2,/* Plot */
+2022-02-23T14:28:25+00:00,1073596547,1069083298,0,Trivialist,Cars 3,Copyedit (minor)
+2022-04-01T15:10:42+00:00,1080481545,1078605908,0,HumanxAnthro,Chaos and the Calm,/* Year-end charts */
+2022-03-24T09:12:47+00:00,1078974811,1078931691,0,Maanshen,Demon Slayer: Kimetsu no Yaiba,/* Story */
+2022-04-18T08:02:01+00:00,1083330123,1080481545,0,BrownHairedGirl,Chaos and the Calm,add {{[[Template:Use dmy dates|Use dmy dates]]}}
+2022-02-27T14:00:33+00:00,1074293427,1074284745,0,124.246.68.1,Demon Slayer: Kimetsu no Yaiba,Fixed tanjiro name as muzan
+2022-05-11T01:23:56+00:00,1087204330,1087202448,0,Aerkdude,Demon Slayer: Kimetsu no Yaiba,Undid revision 1087202448 by [[Special:Contributions/Dan Wescher|Dan Wescher]] ([[User talk:Dan Wescher|talk]])
+2022-06-10T04:01:43+00:00,1092413522,1091838236,0,50.44.10.217,Demon Slayer: Kimetsu no Yaiba season 1,/* Episode list */ Eliminating Circular redirect
+2022-05-24T09:44:54+00:00,1089530497,1086862868,0,Toebiscuit,Demon Slayer: Kimetsu no Yaiba season 1,/* Episode list */
+2022-04-09T16:23:26+00:00,1081778285,1081778085,0,2600:1011:B135:7205:8F3:627A:AF97:BB46,Demon Slayer: Kimetsu no Yaiba season 1,
+2022-04-23T02:11:05+00:00,1084191556,1084175004,0,GalaxyFighter55,Demon Slayer: Kimetsu no Yaiba season 1,
+2022-05-08T20:39:21+00:00,1086862868,1084191556,0,70.126.135.22,Demon Slayer: Kimetsu no Yaiba season 1,/* Episode list */Fixed typo
+2022-03-10T13:13:59+00:00,1076312049,1076287520,0,24.172.204.130,Demon Slayer: Kimetsu no Yaiba season 1,/* Episode list */
+2022-03-23T06:07:45+00:00,1078766641,1078764366,0,InversePrime,Demon Slayer: Kimetsu no Yaiba season 1,/* Episode list */
+2022-03-27T22:56:40+00:00,1079652049,1079651647,0,AberrationForced,Demon Slayer: Kimetsu no Yaiba season 1,
+2022-01-25T20:31:20+00:00,1067917868,1054848632,0,Muhandes,Dream Your Life Away,/* Certifications */ improve BPI citation
+2022-07-01T07:11:41+00:00,1095926570,1095063273,0,Toebiscuit,Demon Slayer: Kimetsu no Yaiba season 1,
+2022-04-04T20:28:47+00:00,1081020329,1075605879,0,ParisBlue,Drunk Uncle (album),Fixed a typo. Changed a word for neutrality.
+2022-04-28T09:06:02+00:00,1085083509,1076741581,0,BrownHairedGirl,Dream Your Life Away,add {{[[Template:Use dmy dates|Use dmy dates]]}}
+2022-04-30T16:05:06+00:00,1085446218,1083345631,0,Harushiga,Fanfare of Adolescence,/* Episode list */
+2022-05-15T14:51:47+00:00,1087972432,1083326123,0,62.198.135.141,Electric Light (album),
+2022-04-18T07:30:47+00:00,1083326123,1074826744,0,BrownHairedGirl,Electric Light (album),add {{[[Template:Use dmy dates|Use dmy dates]]}}
+2022-03-06T12:07:56+00:00,1075556573,1074292017,0,Harushiga,Fanfare of Adolescence,
+2022-04-18T10:06:07+00:00,1083345631,1083208584,0,Harushiga,Fanfare of Adolescence,/* Episode list */
+2022-06-25T16:06:04+00:00,1094962632,1093750484,0,Harushiga,Fanfare of Adolescence,
+2022-03-29T21:48:34+00:00,1080019839,1079236416,0,CJMinor6200,Fantastic Beasts and Where to Find Them (soundtrack),/* Track listing */
+2022-04-18T07:19:20+00:00,1083324352,1082504558,0,BrownHairedGirl,Fantastic Beasts and Where to Find Them (soundtrack),add {{[[Template:Use dmy dates|Use dmy dates]]}}
+2022-06-05T17:17:25+00:00,1091672445,1090839810,0,CJMinor6200,Fantastic Beasts and Where to Find Them (soundtrack),/* Background */
+2022-06-26T11:41:35+00:00,1095108204,1095106531,0,Владлен Манилов,File:Ratatouille (Original Motion Picture Soundtrack).png,Adding {{Non-free reduce}}
+2022-07-04T02:06:51+00:00,1096370947,1095195737,0,DeltaQuadBot,File:Ratatouille (Original Motion Picture Soundtrack).png,(Image Revdel) Orphaned non-free file(s) deleted per [[WP:F5|F5]] ([[User:AmandaNP/Imagerevdel/Run|disable]])
+2022-05-08T11:54:39+00:00,1086795591,1077991395,0,PrimeBOT,Harry Potter and the Deathly Hallows – Part 1 (soundtrack),/* Development */[[Wikipedia:Bots/Requests for approval/PrimeBOT 17|Task 17]] - remove [[UTM parameters]] (Google analytics) from URLs
+2022-01-01T02:32:28+00:00,1063076321,1063045194,0,CJMinor6200,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),/* Development */
+2022-06-21T04:28:33+00:00,1094169426,1094169375,0,Seloloving,Harry Potter and the Goblet of Fire (soundtrack),ce
+2022-07-02T14:40:12+00:00,1096132373,1094169426,0,CJMinor6200,Harry Potter and the Goblet of Fire (soundtrack),/* Track listing */
+2022-04-02T03:34:09+00:00,1080585438,1079921041,0,Citation bot,Harry Potter and the Half-Blood Prince (soundtrack),"Add: date, website, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 966/2841"
+2022-03-29T10:17:50+00:00,1079921382,1077993486,0,InternetArchiveBot,Harry Potter and the Order of the Phoenix (soundtrack),Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.6
+2022-05-14T04:14:43+00:00,1087723904,1084341365,0,Rupturestriker,Harry Potter and the Philosopher's Stone (soundtrack),
+2022-02-24T17:25:18+00:00,1073797379,1073775213,0,Facu-el Millo,Harry Potter and the Philosopher's Stone (soundtrack),Undid revision 1073775213 by [[Special:Contributions/87.127.204.105|87.127.204.105]] ([[User talk:87.127.204.105|talk]]) Vandalism
+2022-07-03T20:26:27+00:00,1096334368,1096329599,0,Schläger4,Hiroyuki Sawano,
+2022-05-24T18:21:50+00:00,1089598883,1089458245,0,Schläger4,Hiroyuki Sawano,/* Works */
+2021-11-30T00:24:46+00:00,1057841827,1040486336,0,Xexerss,Hotarubi no Mori e,/* External links */
+2022-03-09T09:48:39+00:00,1076095993,1076071477,0,Juhachi,Hotarubi no Mori e,to the apparent age of Gin
+2022-04-27T08:12:40+00:00,1084907392,1081138710,0,Coolmarc,It's Time (song),/* Certifications */ add
+2022-02-06T02:57:27+00:00,1070172985,1068614327,0,179.66.123.56,It's Time (song),/* Certifications */
+2022-04-22T05:22:44+00:00,1084031363,1084031209,0,2804:7F3:4980:4DA6:C096:3A28:AD93:6DB5,Japan Sinks,/* Anime adaptation */
+2022-02-05T09:19:28+00:00,1070033692,1070033524,0,GrahamHardy,Japan Sinks,caption
+2022-02-04T23:59:30+00:00,1069962825,1063182748,0,2601:645:201:FBD0:DB1:56CD:DB9F:EB65,Kensuke Ushio,/* External links */
+2022-05-30T15:20:01+00:00,1090638661,1089255810,0,Schläger4,Kensuke Ushio,
+2022-03-16T15:53:40+00:00,1077486049,1074829554,0,ResolutionsPerMinute,My Love (Westlife song),/* Year-end charts */ +Ireland
+2022-04-06T18:28:34+00:00,1081318186,1074827776,0,10969milo,My War (song),Music video
+2022-02-06T18:33:52+00:00,1070292974,1069149579,0,Mediafanatic17,Night Visions,Rescuing 105 sources and tagging 0 as dead.) #IABot (v2.0.8.6
+2022-04-25T05:15:46+00:00,1084555778,1079737776,0,Mr00Mister,Night Visions,/* Promotion */
+2022-03-28T10:36:43+00:00,1079737776,1070292974,0,Pantomime15,Night Visions,Updated Imagine Dragons certification stats
+2022-06-20T14:57:57+00:00,1094067306,1084555778,0,LuanCampSouza93,Night Visions,/* Certifications */ Updating Italy cert
+2022-02-19T12:54:23+00:00,1072783138,1068160856,0,Dark raito,One Last Kiss (EP),
+2022-03-23T14:06:09+00:00,1078821053,1078820856,0,Mdbaxter,One Last Kiss (EP),Undid revision 1078820856 by [[Special:Contributions/Mdbaxter|Mdbaxter]] ([[User talk:Mdbaxter|talk]])
+2021-12-20T03:44:37+00:00,1061179534,1061142873,0,OWGNicholas,Panic Fancy,
+2022-06-01T17:10:22+00:00,1091007386,1089664434,0,Jackie Stuntmaster,Optimist (album),
+2022-06-10T15:51:52+00:00,1092483069,1091330178,0,174.52.186.18,Rascal Does Not Dream,/* Light novels */ Updated volume 8 title to match Yen Press's listing
+2022-06-30T15:00:10+00:00,1095814850,1095525036,0,Stormplatter,Rascal Does Not Dream,/* Anime */Typo+q
+2022-05-11T06:13:33+00:00,1087233058,1087205487,0,Harushiga,Rascal Does Not Dream,Reverted 1 edit by [[Special:Contributions/66.96.225.76|66.96.225.76]] ([[User talk:66.96.225.76|talk]]) to last revision by Harushiga
+2022-05-15T23:20:49+00:00,1088052350,1088051853,0,Wcquidditch,Ratatouille (film),"Reverted 1 edit by [[Special:Contributions/2600:1700:2D98:9010:F168:4AAA:8A31:735B|2600:1700:2D98:9010:F168:4AAA:8A31:735B]] ([[User talk:2600:1700:2D98:9010:F168:4AAA:8A31:735B|talk]]): Unexplained removal of content; ""sadly"" is editorializing, [[MOS:EDITORIAL|which the Manual of Style does not allow]]"
+2022-06-03T05:43:39+00:00,1091261890,1091259263,0,Jasper Deng,Ratatouille (film),/* Voice cast */restore tidbit that was likely a deliberate choice by the producers
+2022-04-08T18:58:30+00:00,1081647139,1081285724,0,Kaibotang,Rascal Does Not Dream,More description about Yuma Kunimi.
+2022-06-19T17:22:33+00:00,1093919374,1093685614,0,Tbhotch,Ratatouille (film),Reverted 1 edit by [[Special:Contributions/68.55.138.40|68.55.138.40]] ([[User talk:68.55.138.40|talk]]) to last revision by 71.185.73.41
+2022-06-04T18:33:36+00:00,1091506824,1091261890,0,101.183.54.88,Ratatouille (film),/* Voice cast */
+2020-05-13T22:40:08+00:00,956538358,611426136,0,St. Jimmy Jammy,Ratatouille (soundtrack),section was renamed
+2022-04-21T14:51:37+00:00,1083916124,1083915677,0,122.162.4.17,Ratatouille (soundtrack),
+2022-03-11T05:04:45+00:00,1076448616,1076448527,0,Orkrucker,Remember (Hiroyuki Sawano album),correction
+2022-02-17T16:58:07+00:00,1072421280,988227772,0,Dewritech,Rendezvous (band),"/* top */clean up, [[WP:AWB/T|typo(s) fixed]]: September 7, 2011 → September 7, 2011,"
+2022-01-03T01:15:11+00:00,1063428329,1063344822,0,Ss112,Red Swan (song),"/* Track listing */ okay, so Hyde can't technically be ""featured"" on the instrumental tracks"
+2022-06-26T11:02:08+00:00,1095104533,1094828712,0,GreenC bot,Some Nights (album),Rescued 11 archive links; reformat 3 links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-02-06T13:39:05+00:00,1070246078,1070244156,0,Dzulfi Ramadan,Sky Italia,/* Sky HD and 4K HDR */
+2022-05-04T02:55:56+00:00,1086086547,1075337210,0,Thatweirdpro,Some Nights (album),
+2022-05-13T16:16:26+00:00,1087629188,1084822489,0,VenezuelanSpongeBobFan2004,Sky Italia,
+2022-05-22T14:05:06+00:00,1089208205,1088497879,0,MojoDiJi,Storks (film),/* Plot */
+2022-04-15T05:42:28+00:00,1082802189,1082777487,0,Fieryninja,Storks (film),Undid revision 1082777487 by [[Special:Contributions/73.204.142.150|73.204.142.150]] ([[User talk:73.204.142.150|talk]])unexplained removal
+2022-02-19T07:14:12+00:00,1072740276,1066643581,0,73.221.225.178,Talk:Belle (2021 film),/* Cristina Vee Role Listing */ new section
+2022-04-22T17:52:21+00:00,1084125984,1083935615,0,UserTwoSix,The Anime Man,hafu
+2022-04-21T17:14:10+00:00,1083935615,1083935522,0,Lol1VNIO,The Anime Man,rvv
+2021-11-14T07:57:05+00:00,1055167975,1049180143,0,BrownHairedGirl,The Earth Is Not a Cold Dead Place,"[[phab:T291704]] and.or [[H:BR]] fixes, plus [[WP:GENFIXES]]"
+2022-05-28T12:49:44+00:00,1090259636,1089973451,0,Indagate,The Good Dinosaur,/* Critical response */
+2022-04-07T01:32:02+00:00,1081367546,1081367472,0,2600:1700:1E11:1350:858D:6236:C069:4C45,The Good Dinosaur,
+2022-06-28T23:03:22+00:00,1095538201,1094067142,0,GreenC bot,The Good Dinosaur,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-03-10T18:09:08+00:00,1076354920,1076343425,0,Geraldo Perez,The Good Dinosaur,Reverted 1 edit by [[Special:Contributions/173.220.31.26|173.220.31.26]] ([[User talk:173.220.31.26|talk]]): Unnecessary
+2022-05-24T03:50:42+00:00,1089493217,1089415397,0,Mandarax,The Good Dinosaur (soundtrack),Redirects to wrong page
+2022-05-30T09:22:45+00:00,1090594931,1089493217,0,I dream of horses,The Good Dinosaur (soundtrack),Disambiguating links to [[Score]] (link changed to [[Theatre music]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2022-01-31T21:34:15+00:00,1069152571,1069151220,0,Magatta,The Lumineers (album),/* Decade-end charts */ mdy
+2022-02-25T15:59:24+00:00,1073953918,1071299569,0,Inwind,Titanic: Music from the Motion Picture,"clean up, link"
+2022-04-26T08:39:23+00:00,1084739219,1084738430,0,Dhoffryn,Titanic: Music from the Motion Picture,+ BMG sales
+2022-05-22T22:44:08+00:00,1089282586,1084739219,0,Citation bot,Titanic: Music from the Motion Picture,"Alter: template type. Add: magazine, date, newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Anas1712 | #UCB_webform 258/261"
+2022-07-05T16:07:44+00:00,1096614512,1094832042,0,Dhoffryn,Titanic: Music from the Motion Picture,Thailand - sales
+2022-05-11T17:08:12+00:00,1087304633,1078603108,0,27.58.137.156,Toy Story (soundtrack),simplified navigation boxes
+2022-03-10T22:23:59+00:00,1076394579,1074634663,0,24.185.151.3,Toy Story (soundtrack),/* Track listing */
+2022-04-25T20:21:18+00:00,1084658255,1084639522,0,JJMC89 bot III,Toy Story 2,Merging [[:Category:Animation controversies in film]] to [[:Category:Film controversies]] per [[Wikipedia:Categories for discussion/Log/2022 March 5#Category:Animation controversies in film]]
+2022-04-12T03:11:14+00:00,1082241898,1082241775,0,Masem,Toy Story 2,Reverted 1 edit by [[Special:Contributions/47.145.135.240|47.145.135.240]] ([[User talk:47.145.135.240|talk]]) to last revision by 200.84.18.108
+2022-06-20T09:09:11+00:00,1094026430,1087304633,0,Aithus,Toy Story (soundtrack),/* References */ fix navbox template error
+2022-07-03T21:34:46+00:00,1096342952,1095947116,0,Seinfeld429,Toy Story 4,Grammar
+2022-07-06T01:08:33+00:00,1096683402,1096683365,0,Andethyst,Toy Story 2,Reverted edits by [[Special:Contributions/2600:8803:3404:FB00:FC85:AA2D:2311:290A|2600:8803:3404:FB00:FC85:AA2D:2311:290A]] ([[User talk:2600:8803:3404:FB00:FC85:AA2D:2311:290A|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2022-06-13T14:08:54+00:00,1092929811,1092831805,0,74.105.204.67,Toy Story 2,/* Voice cast */
+2022-06-06T14:32:56+00:00,1091809168,1091756452,0,ReneeWrites,Toy Story 4,
+2022-02-28T01:57:03+00:00,1074400050,1074224746,0,The Night Watch,Toy Story 4,
+2022-04-30T04:06:29+00:00,1085367649,1085367144,0,Geraldo Perez,Toy Story 4,Reverted 1 edit by [[Special:Contributions/Madyoshi01|Madyoshi01]] ([[User talk:Madyoshi01|talk]]): Per how credited
+2022-06-01T10:28:44+00:00,1090955402,1090802063,0,Chompy Ace,Toy Story 4,
+2022-04-19T17:12:28+00:00,1083596611,1083583494,0,Geraldo Perez,Toy Story 4,Reverted 1 edit by [[Special:Contributions/80.111.32.66|80.111.32.66]] ([[User talk:80.111.32.66|talk]]): Irrelevant trivia - actor articles cover actor stuff
+2022-04-14T01:50:45+00:00,1082596365,1081986092,0,Pockensupperl,Toy Story 4,
+2022-03-15T01:36:00+00:00,1077200157,1075518293,0,2603:7080:293D:8E3F:A1FC:4A9C:FD2D:C4D7,Toy Story 4,I decided to link Jessie's first appearance in the plot above.
+2022-04-27T21:37:56+00:00,1085005522,1085001248,0,Geraldo Perez,Toy Story 4,Reverted 1 edit by [[Special:Contributions/Jrpierre123|Jrpierre123]] ([[User talk:Jrpierre123|talk]]): Trivial for lead and unsourced
+2022-06-27T12:47:45+00:00,1095275696,1095181565,0,Richferrara,Toy Story 4,Cleaned up a sentence
+2022-06-23T16:20:45+00:00,1094613007,1094573722,0,Geraldo Perez,Toy Story 4,Reverted edits by [[Special:Contribs/79.33.36.26|79.33.36.26]] ([[User talk:79.33.36.26|talk]]) to last version by 72.206.109.58
+2021-07-09T14:24:24+00:00,1032764528,1032753319,0,Mwalimu59,Up (soundtrack),Undid revision 1032753319 by [[Special:Contributions/72.239.111.58|72.239.111.58]] ([[User talk:72.239.111.58|talk]]) rv
+2022-05-11T20:04:46+00:00,1087328510,1032764528,0,Tbhotch,Up (soundtrack),
+2021-11-05T11:08:40+00:00,1053680404,1052841657,0,511KeV,User talk:Bigeshjen,Notification: speedy deletion nomination of [[:Sukhmahbaws]].
+2022-05-20T05:04:30+00:00,1088796662,1088714626,0,Bigeshjen,User talk:Bigeshjen,
+2022-06-26T12:11:36+00:00,1095110831,1095110624,0,Bigeshjen,User talk:Bigeshjen,/* If I did anything wrong please correct me */ Reply
+2022-03-15T04:35:34+00:00,1077222638,1076691840,0,CallerofStorms,User talk:Centcom08,
+2022-07-07T05:39:36+00:00,1096874842,1096874606,0,CreecregofLife,User talk:Centcom08,/* The unknown word */ Reply
+2022-04-08T01:22:33+00:00,1081535633,1081452472,0,ClueBot III,User talk:Centcom08,Archiving 1 discussion to [[User talk:Centcom08/Archive 1]]. (BOT)
+2022-03-08T01:34:44+00:00,1075851996,1075831165,0,Centcom08,User talk:Centcom08,/* Replying about Spiderman No Way Home */Added a reply
+2022-07-01T19:23:10+00:00,1096017074,1095366399,0,ClueBot III,User talk:Centcom08,Archiving 1 discussion to [[User talk:Centcom08/Archive 1]]. (BOT)
+2022-05-07T11:19:44+00:00,1086632294,1086612125,0,SirDot,User talk:Centcom08,/* A barnstar for you! */
+2022-06-16T06:49:38+00:00,1093378438,1093314366,0,Bigeshjen,User talk:Bigeshjen,/* Speedy deletion */ Reply
+2022-05-06T03:50:55+00:00,1086429218,1084807073,0,SirDot,User talk:Centcom08,/* A barnstar for you! */ new WikiLove message
+2022-03-05T05:14:46+00:00,1075334621,1074970750,0,Lowercase sigmabot III,User talk:Ferret,Archiving 1 discussion(s) to [[User talk:Ferret/Archive 16]]) (bot
+2022-02-24T22:50:05+00:00,1073836657,1073126954,0,ClueBot III,User talk:Centcom08,Archiving 1 discussion to [[User talk:Centcom08/Archive 1]]. (BOT)
+2022-05-16T01:15:28+00:00,1088069276,1088069191,0,Centcom08,User talk:Centcom08,/* A barnstar for you! */Updated {{subst:DNAU}} template
+2022-06-02T05:30:45+00:00,1091097418,1090997825,0,Lowercase sigmabot III,User talk:Ferret,Archiving 2 discussion(s) to [[User talk:Ferret/Archive 16]]) (bot
+2022-02-27T20:20:07+00:00,1074350413,1068923593,0,MediaWiki message delivery,User talk:Horsesizedduck,/* The Signpost: 27 February 2022 */ new section
+2022-05-28T04:26:37+00:00,1090215033,1086628454,0,MediaWiki message delivery,User talk:Juhachi,/* June 2022 Good Article Nominations backlog drive */ new section
+2022-05-17T23:06:23+00:00,1088424866,1088396295,0,Liz,User talk:Orangefeliscatus,"Removing CSD tag, user talk pages are not deleted but can be blanked"
+2022-05-31T10:21:50+00:00,1090785199,1090228876,0,The Most Comfortable Chair,User talk:Schläger4,Notification: Your [[Wikipedia:Articles for creation|Articles for creation]] submission has been accepted ([[WP:AFCH|AFCH]] 0.9.1)
+2022-07-09T14:11:51+00:00,1097235828,1097234544,0,OceanHok,User talk:Sergecross73,/* Vandalism pt 29 */
+2022-04-16T05:06:08+00:00,1082963362,1082923498,0,Lowercase sigmabot III,User talk:Sergecross73,Archiving 1 discussion(s) to [[User talk:Sergecross73/Archive 89]]) (bot
+2022-06-22T13:44:46+00:00,1094414044,1094412402,0,Sergecross73,User talk:Sergecross73,/* Help review Imani Lewis so it shows on google search */ Reply
+2022-06-14T04:47:01+00:00,1093035805,1092857157,0,Ss112,User talk:Sergecross73,email notification
+2022-04-24T21:36:37+00:00,1084500626,1084499095,0,Wazzok1,User talk:Sergecross73,/* Sonic the Hedgehog (1991) */ Reply
+2022-05-28T05:03:52+00:00,1090218553,1090131245,0,Lowercase sigmabot III,User talk:Sergecross73,Archiving 1 discussion(s) to [[User talk:Sergecross73/Archive 90]]) (bot
+2022-07-04T05:08:10+00:00,1096386393,1096282894,0,Lowercase sigmabot III,User talk:Sergecross73,Archiving 1 discussion(s) to [[User talk:Sergecross73/Archive 90]]) (bot
+2022-03-14T15:23:15+00:00,1077106017,1077077873,0,Sergecross73,User talk:Sergecross73,/* Vandalism pt 29 */ Reply
+2022-03-24T14:45:12+00:00,1079010674,1079003107,0,Sergecross73,User talk:Sergecross73,/* Sonic Adventure */
+2022-04-29T07:54:01+00:00,1085239435,1085223566,0,Missileboi,User talk:Sergecross73,/* Vandalism pt 29 */ Reply
+2022-03-05T15:11:09+00:00,1075399493,1075393822,0,Zeneater,User talk:Sergecross73,/* Dubious claim of Tommy Tallarico's that he is Steven Tyler's cousin */
+2022-05-25T06:47:56+00:00,1089710519,1083844987,0,SunDawn,User talk:Washuotaku,/* I have sent you a note about a page you started */ new section
+2022-04-21T02:18:12+00:00,1083844987,1078828022,0,Mdewman6,User talk:Washuotaku,Notification: [[Wikipedia:Articles for deletion/List of bicycle routes in Tennessee|listing]] of [[:List of bicycle routes in Tennessee]] at [[WP:Articles for deletion]].
+2022-06-14T15:09:27+00:00,1093100980,1092475483,0,Whpq,User talk:Washuotaku,Notification: [[Wikipedia:Files for discussion/2022 June 14#File:CDawgVA-YouTube.jpg|listing]] of [[:File:CDawgVA-YouTube.jpg]] at [[WP:Files for discussion]].
+2022-06-25T23:33:55+00:00,1095023449,1095014729,0,Washuotaku,User talk:Washuotaku,/* Why are you removing the Anime Man photo? */
+2022-04-29T05:20:44+00:00,1085225337,1084604917,0,Harushiga,Violet Evergarden,/* External links */ Moving to main article
+2022-07-08T15:55:17+00:00,1097091892,1094829809,0,SubZeroSilver,Violet Evergarden,/* Others */
+2022-07-11T11:45:13+00:00,1097557137,1097363061,0,Maxeto0910,Violet Evergarden,no sentence
+2022-01-26T03:14:26+00:00,1067974032,1067485618,0,Centcom08,Violet Evergarden: Eternity and the Auto Memory Doll,/* top */Updated caption (removed nationality since it is the same as the film's country of origin)
+2022-06-24T22:35:47+00:00,1094853268,1094833276,0,Centcom08,Violet Evergarden: Eternity and the Auto Memory Doll,Undid revision 1094833276 by [[Special:Contributions/Paperpseudonym|Paperpseudonym]] ([[User talk:Paperpseudonym|talk]]) Restored source ([[WP:VERIFY]]) since the source provides the titles in the album
+2022-05-06T08:30:40+00:00,1086458097,1086457732,0,Centcom08,Violet Evergarden: The Movie,/* Music */ Updated {{Track listing}} template
+2022-04-17T07:59:12+00:00,1083140831,1083140706,0,Centcom08,Violet Evergarden: The Movie,Undid revision 1083140706 by [[Special:Contributions/87.6.158.113|87.6.158.113]] ([[User talk:87.6.158.113|talk]]) Restored correct box office
+2022-06-30T22:37:45+00:00,1095873059,1095826339,0,Centcom08,Violet Evergarden: The Movie,"/* Music */ Removed Call's first name due to its mention in the paragraph (""all_music"" appears as prose, not inside the table)"
+2022-02-13T22:48:11+00:00,1071701456,1071585992,0,Brayden143,WALL-E (soundtrack),
+2022-05-18T22:25:18+00:00,1088579489,1088578903,0,Centcom08,Violet Evergarden: The Movie,/* top */Removed duplicate statement about being a sequel to the anime series
+2022-03-06T20:14:11+00:00,1075625391,1075606574,0,AnomieBOT,Weathering with You (album),"Rescuing orphaned refs (""linkcore"" from rev 1059690065)"
+2022-04-26T07:56:48+00:00,1084735515,1084732961,0,Lyndon George,X (Ed Sheeran album),/* Track listing */
+2022-06-11T09:27:39+00:00,1092600938,1092444600,0,GreenC bot,X (Ed Sheeran album),Rescued 5 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-01-13T16:51:34+00:00,1065455115,1046789315,0,110.137.102.205,Your Name (album),
+2022-05-21T18:20:23+00:00,1089063869,1086806268,0,Muhandes,÷ (album),/* Certifications */ update BPI cert
+2022-04-01T16:53:24+00:00,1080496704,1080480398,0,HumanxAnthro,÷ (album),/* Year-end charts */
+2020-12-07T22:37:04+00:00,992938026,992927631,0,Alex 21,Attack on Titan (TV series),
+2021-09-06T17:11:34+00:00,1042764046,1042764012,0,Discospinster,Attack on Titan (TV series),Reverted edits by [[Special:Contributions/155.93.130.177|155.93.130.177]] ([[User talk:155.93.130.177|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-05-17T04:24:54+00:00,1023577988,1023577931,0,206.45.7.33,A Shape of Light,/* Background */
+2020-08-03T08:50:22+00:00,970945160,970858937,0,Devonian Wombat,Attack on Titan (TV series),Undid revision 970858937 by [[Special:Contributions/2601:145:502:3F80:1D18:E9BB:531D:2362|2601:145:502:3F80:1D18:E9BB:531D:2362]] ([[User talk:2601:145:502:3F80:1D18:E9BB:531D:2362|talk]]) vandalism
+2020-07-19T19:17:36+00:00,968495569,967694143,0,TheDarkX,Attack on Titan (TV series),/* 2020 season */
+2022-05-15T09:49:51+00:00,1087937985,1087815196,0,Yungmacs,Attack on Titan (TV series),
+2021-12-03T19:49:26+00:00,1058479451,1057716099,0,Lord Opeth,Attack on Titan (TV series),/* External links */
+2022-07-06T06:27:03+00:00,1096717045,1095307860,0,AnimeLoverForLife,Attack on Titan (TV series),
+2021-03-04T17:00:57+00:00,1010269776,1009593360,0,Sarca sc,Attack on Titan (TV series),"The English translation is irrelevant; (https://www.animenewsnetwork.com/feature/2016-08-17/your-ultimate-guide-to-anime-ending-credits-part-iv/.105472) this piece] by ANN describes its apparent importance, and (https://www.nisekoi.jp/staff/) this series co-credits a ""sou kantoku"" (chief director) and ""chifu enshutsu"" for direction, so it's obviously worth listing as a director credit regardless of the translation"
+2022-05-22T16:42:52+00:00,1089227147,1089060313,0,JintheAM,Attack on Titan (TV series),
+2021-07-09T22:12:15+00:00,1032824683,1023577988,0,Phyrexian,A Shape of Light,/* Tracklist */ typo
+2022-03-02T06:19:10+00:00,1074794692,1074326977,0,103.115.183.233,Attack on Titan (TV series),
+2021-03-23T09:48:34+00:00,1013761309,1013442564,0,93.220.114.87,Attack on Titan (TV series),/* Series overview */ dixed Episode count
+2021-10-13T17:39:23+00:00,1049758688,1049721401,0,Vanished user 28548597576,Attack on Titan (TV series),
+2021-07-11T00:13:33+00:00,1033000366,1032464114,0,Sumanuil,Attack on Titan season 1,/* Music */
+2020-06-25T06:05:32+00:00,964385961,964384498,0,180.252.214.51,Attack on Titan (TV series),
+2021-11-24T09:19:58+00:00,1056916426,1056913759,0,Lunar-akaunto,Attack on Titan season 1,–– Soundtrack.
+2020-12-01T16:33:45+00:00,991745314,991733134,0,PedroH,Attack on Titan (TV series),/* Series overview */ links to seasons
+2021-10-10T01:05:03+00:00,1049128301,1049064794,0,ImageRemovalBot,Attack on Titan season 1,Removing links to deleted file [[:File:TV Anime Attack on Titan (Original Soundtrack).jpeg]]
+2020-07-20T23:59:27+00:00,968701637,963311014,0,Joeyconnick,Attack on Titan season 1,unnecessary
+2021-01-05T11:31:56+00:00,998442072,994064686,0,Amir-Toly,Attack on Titan season 2,"Remove unnecessary ""and"""
+2021-10-10T01:03:47+00:00,1049128141,1048503289,0,ImageRemovalBot,Attack on Titan season 2,"Removing links to deleted file [[:File:TV Anime ""Attack on Titan Season 2"" (Original Soundtrack).jpeg]]"
+2021-07-20T19:40:17+00:00,1034591871,1034568681,0,Jaume141,Attack on Titan season 2,"Yes. A synopsis is supposed to be as simplified as possible, you're giving way too many details"
+2020-06-09T01:25:12+00:00,961533198,959607641,0,2601:8C:4005:61A0:20BB:75BD:9119:5CDD,Attack on Titan season 3,
+2021-11-26T19:20:29+00:00,1057300239,1056915294,0,80.194.10.196,Attack on Titan season 2,/* Episode list */
+2021-04-30T06:08:33+00:00,1020636950,1019127067,0,Alex 21,Attack on Titan season 3,Undid revision 1017503172 by [[Special:Contributions/Custardbandlers|Custardbandlers]] ([[User talk:Custardbandlers|talk]]) Restore; issue not fixed after discussion.
+2021-11-24T10:55:03+00:00,1056926053,1056905245,0,Lunar-akaunto,Attack on Titan season 3,This edit arranges the source code for the soundtrack's track lisitng whilst also refining it.
+2021-10-10T01:00:11+00:00,1049127671,1047832943,0,ImageRemovalBot,Attack on Titan season 3,Removing links to deleted file [[:File:TV Anime Attack on Titan Season 3 (Original Soundtrack).jpg]]
+2021-02-04T17:49:42+00:00,1004844185,998442072,0,2601:249:100:24E0:3498:F80E:37C1:48B4,Attack on Titan season 2,/* Episode list */
+2020-12-15T16:49:20+00:00,994418233,994064725,0,DripRockii,Attack on Titan season 3,/* Episode list */
+2021-02-26T00:09:42+00:00,1008961183,1008960822,0,187.24.232.13,Attack on Titan season 3,Typo in the original name
+2021-08-22T18:41:04+00:00,1040117371,1036395577,0,Link20XX,Attack on Titan season 3,/* Episodes */Linking to newly created article
+2021-02-22T06:24:15+00:00,1008229444,1008164205,0,Ozflashman,Attack on Titan season 4,"/* Episode list */ Edit Episode 70, events, grammar and syntax."
+2021-05-31T20:40:44+00:00,1026178356,1024498541,0,Journey of Learning,Attack on Titan season 4,/* Episodes */ Spelling error corrected.
+2022-07-07T20:01:15+00:00,1096962186,1096003227,0,Hithere41&,Attack on Titan season 4,/* Episode list */
+2022-06-05T02:58:30+00:00,1091568886,1091301463,0,Miraz van Nohrr,Attack on Titan season 4,/* Episode list */ Fixed typo
+2021-11-24T09:19:01+00:00,1056916300,1056912067,0,Lunar-akaunto,Attack on Titan season 4,–– Soundtrack.
+2021-06-24T10:01:09+00:00,1030176067,1030168500,0,Rrrabab,Attack on Titan season 4,/* Track listing */
+2022-07-01T17:45:41+00:00,1096003227,1096003086,0,Keith D,Attack on Titan season 4,/* Japanese */ Remove spurious }
+2022-04-10T08:41:41+00:00,1081890665,1081827481,0,104.1.182.97,Attack on Titan season 4,
+2021-04-25T20:44:35+00:00,1019861546,1019847173,0,2A04:CEC0:1001:2B3E:5CE2:F52A:14A4:9EE3,Attack on Titan season 4,Undid revision 1019786626 by [[Special:Contributions/2601:85:4600:9300:B4B7:CD07:D1FD:3351|2601:85:4600:9300:B4B7:CD07:D1FD:3351]] ([[User talk:2601:85:4600:9300:B4B7:CD07:D1FD:3351|talk]])
+2021-08-26T01:34:31+00:00,1040681678,1040361865,0,Grapesoda22,Attack on Titan season 4,/* Episodes */
+2022-06-26T18:16:21+00:00,1095153415,1095103248,0,Horsesizedduck,Attack on Titan season 4,A round of trims on the plot
+2021-02-12T14:16:17+00:00,1006366208,1006251160,0,DripRockii,Attack on Titan season 4,/* Episode list */
+2022-04-22T06:06:22+00:00,1084036212,1082669006,0,NahuelFanboy2004,Belle (2021 film),
+2020-12-13T22:58:51+00:00,994065506,994065423,0,Asension,Attack on Titan season 4,Reverted 3 edits by [[Special:Contributions/78.190.146.31|78.190.146.31]] ([[User talk:78.190.146.31|talk]]) to last revision by SpectresWrath
+2021-04-30T07:35:16+00:00,1020644597,1020636953,0,Edward hahm,Attack on Titan season 4,/* Episodes */ Minor grammar edit
+2022-04-10T01:43:02+00:00,1081847927,1081041128,0,Nieve,Belle (2021 film),
+2020-11-18T10:36:45+00:00,989328343,989282772,0,Warfarenoerjcwc,Attack on Titan season 4,
+2021-09-10T16:58:59+00:00,1043545610,1043363174,0,Praetor94,Attack on Titan season 4,Episodes 12-16: touch-ups
+2021-08-19T09:52:06+00:00,1039548518,1039422538,0,Fortunewriter,Belle (2021 film),
+2021-08-12T07:19:55+00:00,1038387515,1038387296,0,193.224.191.251,Belle (2021 film),
+2021-12-27T08:20:49+00:00,1062250322,1062228363,0,55go,Belle (2021 film),Undid revision 1062228363 by [[Special:Contributions/Debiit|Debiit]] ([[User talk:Debiit|talk]]) https://www.afterschool-music.com/lilas/
+2020-08-21T19:31:53+00:00,974222989,973379792,0,Danionek,Blood Harmony,/* Track listing */
+2021-01-23T13:00:31+00:00,1002231416,1001075659,0,PlanetDeadwing,Bolt (2008 film),/* Plot */
+2020-11-01T11:54:41+00:00,986526195,985631452,0,Smb1001,Bolt (2008 film),citation request
+2021-02-07T21:11:02+00:00,1005474643,1003073182,0,Tom.Reding,Blood Harmony,"+{{[[Template:Authority control|Authority control]]}} ([[d:Q69941181|1 ID]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2022-02-12T19:27:46+00:00,1071465560,1070100035,0,Xoruz,Bolt (2008 film),/* External links */
+2021-10-30T09:05:37+00:00,1052639630,1052639456,0,Lunar-akaunto,Bolt (2008 film),Corrects the clickable link for John Powell in track listing.
+2021-08-09T23:07:48+00:00,1038000533,1037935006,0,Whoop whoop pull up,Bolt (2008 film),/* top */
+2021-12-25T02:22:13+00:00,1061943414,1061927407,0,Whiteguru,Bubble (2022 film),Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (refimprove)
+2021-03-27T05:19:36+00:00,1014455643,1013540658,0,Binksternet,Cars (soundtrack),Reverted 1 edit by [[Special:Contributions/2603:8000:8401:60EE:9465:DD09:644C:959|2603:8000:8401:60EE:9465:DD09:644C:959]] ([[User talk:2603:8000:8401:60EE:9465:DD09:644C:959|talk]]) to last revision by Binksternet
+2020-06-16T17:51:02+00:00,962908518,958648318,0,2604:6000:B786:8300:35A5:D315:E4FF:7FEC,Cars (soundtrack),
+2021-10-24T04:15:43+00:00,1051540841,1051178355,0,Magitroopa,Cars 2,Undid revision 1051178355 by [[Special:Contributions/HappyWheelsFan2022|HappyWheelsFan2022]] ([[User talk:HappyWheelsFan2022|talk]]) [[WP:BANREVERT]]- very clear sock account
+2021-12-25T19:44:44+00:00,1062030986,1055013590,0,24.38.180.161,Cars (soundtrack),
+2021-04-30T19:09:17+00:00,1020737092,1020736862,0,Blaze Wolf,Cars 2,Undid revision 1020736862 by [[Special:Contributions/Asherpate220|Asherpate220]] ([[User talk:Asherpate220|talk]]) Removing unsourced content
+2022-01-27T09:44:48+00:00,1068232021,1067918791,0,Shhhnotsoloud,Bubble (2022 film),Hatnote
+2021-04-06T21:11:28+00:00,1016377382,1015949759,0,ChristianJosephAllbee,Cars 2,/* Critical response */
+2021-07-11T18:41:07+00:00,1033122258,1028280327,0,Asherpate220,Cars 2,
+2020-07-27T17:50:49+00:00,969837051,969811757,0,Janisawls,Cars 2,
+2020-11-15T18:10:27+00:00,988860501,988824625,0,Janisawls,Cars 2,
+2021-02-01T03:20:39+00:00,1004112279,1003971768,0,Fire9600,Cars 2,/* Plot */
+2020-09-26T11:31:03+00:00,980412451,979556880,0,Bmorrow151,Cars 2,
+2022-01-21T20:12:50+00:00,1067113705,1065366066,0,CriticallyThinking,Cars 2,
+2021-03-20T16:54:09+00:00,1013233103,1010066954,0,Gamerknowitall,Cars 2,Fixed grammatical errors.
+2022-07-12T16:54:37+00:00,1097781856,1095091655,0,Ser Amantio di Nicolao,Cars 3,Removing from [[Category:Animated comedy films]] No longer non-diffusing using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2020-05-29T06:08:41+00:00,959525688,959062645,0,Ser Amantio di Nicolao,Cars 2,/* External links */add category
+2022-04-06T18:54:34+00:00,1081321480,1081320747,0,MB,Cars 3,"cleanup, [[WP:AWB/T|typo(s) fixed]]: May 23, 2017 → May 23, 2017,"
+2020-09-06T20:39:16+00:00,977083014,976632760,0,Michawn2003,Cars 3,
+2021-03-26T22:26:21+00:00,1014410969,1014118532,0,Segavisions1991,Cars 3,/* Plot */
+2020-09-04T02:44:47+00:00,976632760,971964117,0,Donaldduckedits,Cars 3,/* Voice cast */ Elaborated and cleared up cast text
+2021-07-21T02:03:35+00:00,1034642131,1034642014,0,Dylanvt,Cars 3,/* Voice cast */
+2020-05-24T00:54:11+00:00,958475749,958205407,0,Tim96144,Chaos and the Calm,/* Year-end charts */
+2020-07-10T05:45:13+00:00,966946323,958475749,0,Greenock125,Chaos and the Calm,
+2020-09-13T12:57:25+00:00,978191614,974863776,0,80.2.91.107,Chaos and the Calm,
+2020-10-19T07:02:22+00:00,984279756,984223717,0,61.204.192.10,Demon Slayer: Kimetsu no Yaiba,/* Plot */
+2020-09-04T02:30:20+00:00,976630962,976630907,0,Dmartin969,Demon Slayer: Kimetsu no Yaiba,Reverted 1 edit by [[Special:Contributions/Bluebella0310|Bluebella0310]] ([[User talk:Bluebella0310|talk]]): Notenglish ([[WP:TW|TW]])
+2022-04-20T09:55:56+00:00,1083727972,1082722711,0,Luthfee Manga,Demon Slayer: Kimetsu no Yaiba,
+2021-06-14T14:50:15+00:00,1028532881,1028335820,0,RMCD bot,Demon Slayer: Kimetsu no Yaiba,Notifying subject page of move discussion on [[Talk:Demon Slayer#Requested move 14 June 2021|Talk:Demon Slayer]]
+2021-10-05T20:04:32+00:00,1048403188,1048403101,0,Tintor2,Demon Slayer: Kimetsu no Yaiba season 1,
+2021-10-21T19:31:08+00:00,1051135348,1051133274,0,Lunar-akaunto,Demon Slayer: Kimetsu no Yaiba season 1,Summarizes and removes excessive details from the Summary of episode 6 and episode 7. Thank you!
+2021-07-01T06:19:09+00:00,1031363895,1030796690,0,Landingdude13,Demon Slayer: Kimetsu no Yaiba season 1,/* References */ added like the upcoming second season
+2022-02-15T00:12:35+00:00,1071906570,1070884007,0,Sdf,Demon Slayer: Kimetsu no Yaiba season 1,+[[Category:Asakusa]]; +[[Category:Spiders in popular culture]] using [[WP:HC|HotCat]]
+2021-02-02T03:40:05+00:00,1004340038,1004324832,0,138.219.60.197,Dream Your Life Away,/* Weekly charts */
+2021-01-13T07:00:09+00:00,1000042217,986892868,0,Ser Amantio di Nicolao,Dream Your Life Away,add authority control
+2021-11-12T12:03:38+00:00,1054848632,1052715199,0,YGO24895,Dream Your Life Away,Cert is in database
+2019-05-16T13:50:03+00:00,897355301,897355235,0,Atlantic306,Drunk Uncle (album),ced
+2021-09-27T19:31:01+00:00,1046858796,968852463,0,Tom.newsome,Drunk Uncle (album),Added page links
+2021-01-14T02:43:06+00:00,1000202488,988005457,0,Ser Amantio di Nicolao,Electric Light (album),add authority control
+2021-04-20T03:41:17+00:00,1018831542,1000202488,0,Srodgers1701,Electric Light (album),/* Critical reception */
+2021-03-30T20:45:41+00:00,1015139677,1009686622,0,Rfl0216,Fantastic Beasts and Where to Find Them (soundtrack),
+2021-01-01T21:08:07+00:00,997707256,988241362,0,Monkbot,Harry Potter and the Deathly Hallows – Part 1 (soundtrack),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 26 templates: hyphenate params (30×);
+2020-05-19T23:11:42+00:00,957662231,957144800,0,Cwf97,Harry Potter and the Deathly Hallows – Part 1 (soundtrack),/* External links */
+2021-02-05T11:56:57+00:00,1004991555,1001409060,0,Tom.Reding,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),"+{{[[Template:Authority control|Authority control]]}} ([[d:Q1341446|1 ID]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2021-01-19T15:21:22+00:00,1001409060,1001408724,0,Packer1028,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),/* Development */ ditto
+2021-03-21T23:09:11+00:00,1013499708,1005285164,0,BD2412,Harry Potter and the Goblet of Fire (soundtrack),"/* top */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], replaced: Munich (film) → Munich (2005 film)"
+2021-08-06T19:35:15+00:00,1037472752,1032472182,0,ZI Jony,Harry Potter and the Deathly Hallows – Part 2 (soundtrack),v2.04b - Fix errors for [[WP:WCW|CW project]] (DEFAULTSORT missing for titles with special letters)
+2020-08-05T23:50:21+00:00,971409814,971409777,0,Chuychuychuy98,Harry Potter and the Goblet of Fire (soundtrack),Fixed typo
+2020-05-19T23:11:31+00:00,957662205,942600409,0,Cwf97,Harry Potter and the Half-Blood Prince (soundtrack),/* References */
+2022-05-01T06:06:05+00:00,1085565464,1078210370,0,2600:8800:2B84:6100:E9F3:EDF9:5BC5:E77A,Harry Potter and the Goblet of Fire (soundtrack),
+2022-02-06T19:14:17+00:00,1070298747,1068347727,0,PlanetDeadwing,Harry Potter and the Goblet of Fire (soundtrack),
+2021-04-16T19:42:50+00:00,1018205804,1004536652,0,BobbieCarynBevis,Harry Potter and the Order of the Phoenix (soundtrack),Corrected the orchestra used for recording
+2021-02-03T02:26:51+00:00,1004536652,999236740,0,Tom.Reding,Harry Potter and the Order of the Phoenix (soundtrack),"+{{[[Template:Authority control|Authority control]]}} ([[d:Q1148993|1 ID]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2020-06-14T21:30:09+00:00,962576893,957662181,0,2601:345:8300:2CD:6926:3C4E:C1E0:AD14,Harry Potter and the Order of the Phoenix (soundtrack),original research
+2021-07-16T18:52:17+00:00,1033933126,1029290415,0,160.2.211.63,Harry Potter and the Philosopher's Stone (soundtrack),/* Behind the scenes */
+2020-07-02T14:29:56+00:00,965638698,959797904,0,Randy Kryn,Harry Potter and the Philosopher's Stone (soundtrack),"added year, removed morecites tag from 2008 (cites added since)"
+2021-02-06T00:57:57+00:00,1005107085,997620789,0,Tom.Reding,Harry Potter and the Philosopher's Stone (soundtrack),"+{{[[Template:Authority control|Authority control]]}} ([[d:Q1138738|1 ID]] from [[Wikidata]]), [[WP:GenFixes]] on"
+2021-02-14T21:47:10+00:00,1006801528,1004182328,0,LightKeyDarkBlade,Hiroyuki Sawano,/* Other involvements */
+2020-08-18T15:45:58+00:00,973675014,969064560,0,T.Hayes,Hiroyuki Sawano,Credits
+2021-11-30T11:40:16+00:00,1057915443,1056372412,0,PralesničkaStrašná,Hiroyuki Sawano,Added archive URL
+2022-04-01T08:15:38+00:00,1080436696,1080435170,0,Opencooper,Hotarubi no Mori e,"/* Anime */ simplifying table within a table; tables already captions; not an infobox, though that class was making the font size 88%"
+2020-10-08T02:38:48+00:00,982429301,981920740,0,Historyday01,Hotarubi no Mori e,
+2021-02-18T11:44:39+00:00,1007489893,1007489798,0,Ratekreel,Hotarubi no Mori e,Reverting edit(s) by [[Special:Contributions/178.143.33.129|178.143.33.129]] ([[User_talk:178.143.33.129|talk]]) to rev. 999934037 by Monkbot: [[WP:CRV|Unexplained content removal]] [[w:en:WP:RW|(RW 16)]]
+2020-08-11T11:35:49+00:00,972314475,966222822,0,ManuelButera,It's Time (song),/* Year-end charts */
+2020-05-19T23:09:52+00:00,957661996,956490320,0,Cwf97,Harry Potter and the Philosopher's Stone (soundtrack),/* References */
+2020-10-01T04:36:56+00:00,981244403,981243929,0,2600:8801:DC00:6BB:9085:60F0:BC17:80D9,Japan Sinks,/* Episode list */
+2021-11-14T14:40:05+00:00,1055206729,1052881036,0,Ram Roldan,Japan Sinks,
+2020-08-16T04:35:25+00:00,973244064,973198599,0,Duckwalk71,Japan Sinks,
+2021-11-25T22:27:47+00:00,1057171153,1055206729,0,Link20XX,Japan Sinks,link [[Abby Trott]] using [[:en:User:Edward/Find link|Find link]]
+2020-07-11T04:26:14+00:00,967101827,967101783,0,2605:E000:1200:8F29:51D9:3B6D:3181:995B,Kensuke Ushio,
+2020-04-29T20:10:31+00:00,953931396,953931259,0,ZappaOMatic,Kensuke Ushio,/* Career */ Italic
+2021-09-03T15:12:50+00:00,1042172996,1042168032,0,Link20XX,Kensuke Ushio,Unnecessary all caps
+2021-07-12T15:57:05+00:00,1033261085,1032991995,0,Binksternet,My Love (Westlife song),"Reverted 1 edit by [[Special:Contributions/Mdgds|Mdgds]] ([[User talk:Mdgds|talk]]):  rv per [[WP:CATDEF]]. The song's [[Key (music)]] is not important to the topic, not definitive."
+2020-05-18T17:10:31+00:00,957397170,956098685,0,212.85.90.71,My Love (Westlife song),/* Music video */
+2021-03-06T07:43:21+00:00,1010591480,1010124006,0,Whatisbetter,Japan Sinks,/* Japan Sinks */ Short description for novel
+2020-09-30T20:09:16+00:00,981186097,981141480,0,SummerPhDv2.0,Night Visions,Reverted 2 edits by [[Special:Contributions/194.81.39.200|194.81.39.200]] ([[User talk:194.81.39.200|talk]]) to last revision by 143.60.242.169
+2021-01-26T01:13:50+00:00,1002783505,1001516092,0,Monkbot,Night Visions,[[User:Monkbot/task 18|Task 18b (cosmetic)]]: eval 42 templates: del empty params (1×); hyphenate params (27×); del pos params (1×);
+2021-09-03T14:44:07+00:00,1042168666,1041928695,0,2601:182:C77F:9120:7C33:B3DD:362:434,Night Visions,/* Critical reception */
+2021-06-28T16:21:57+00:00,1030895052,1030894961,0,2A00:23C5:A201:1E00:D884:8629:4527:DFE8,One Last Kiss (EP),/* Background and release */
+2020-06-28T20:38:13+00:00,964999414,963718544,0,Bender the Bot,Night Visions,"/* Tour */HTTP → HTTPS for [[ABC News]], replaced: http://abcnews.go.com/ → https://abcnews.go.com/"
+2020-07-23T02:47:19+00:00,969048249,968986147,0,Awker22,Night Visions,Reverted to revision 964999414 by [[Special:Contributions/Bender the Bot|Bender the Bot]] ([[User talk:Bender the Bot|talk]]) ([[WP:TW|TW]])
+2021-09-17T17:48:13+00:00,1044906856,1044744603,0,-αβοοδ,One Last Kiss (EP),"""Vinyl"", not ""Vynil"""
+2021-09-08T12:56:48+00:00,1043121255,1037360530,0,Gagaluv1,Optimist (album),
+2018-01-18T14:02:04+00:00,821116447,784451906,0,Moscow Connection,Panic Fancy,category
+2021-01-20T05:11:11+00:00,1001551215,821116447,0,Ser Amantio di Nicolao,Panic Fancy,add authority control
+2021-06-05T13:49:52+00:00,1027001019,1027000994,0,Link20XX,Rascal Does Not Dream,Undid revision 1026995822 by [[Special:Contributions/180.251.43.72|180.251.43.72]] ([[User talk:180.251.43.72|talk]])
+2022-01-23T22:39:49+00:00,1067520983,1067133104,0,Nighthawlc,Rascal Does Not Dream,/* Light novels */ Yen On updated the English title of vol. 7
+2021-07-24T20:37:44+00:00,1035293832,1034541103,0,2601:680:8300:5450:7883:1ACA:732:FFE3,Rascal Does Not Dream,/* Light novels */Fixed light novel volume 5 English title to match what the printed version of the book shows
+2021-11-16T10:02:41+00:00,1055521203,1055167012,0,Nighthawlc,Rascal Does Not Dream,/* Light novels */ Vol. 6 English ToC
+2021-04-20T22:11:29+00:00,1018981372,1018977366,0,FLIP1970,Rascal Does Not Dream,Clarify 'volumes' refers to novel series volumes.
+2020-10-23T06:04:08+00:00,984974019,984964084,0,ChickyBros,Rascal Does Not Dream,
+2021-09-11T06:29:29+00:00,1043648120,1043646219,0,109.79.174.194,Ratatouille (film),Fix reference missing title
+2021-02-23T17:45:04+00:00,1008511078,1008460279,0,Instant Comma,Ratatouille (film),Undid revision 1008460279 by [[Special:Contributions/Janisawls 2|Janisawls 2]] ([[User talk:Janisawls 2|talk]]) - Please provide a source for this.
+2021-06-17T19:19:17+00:00,1029078503,1029075434,0,Buh6173,Ratatouille (film),/* Plot */
+2022-01-23T16:51:48+00:00,1067468526,1067136833,0,Tex1996,Ratatouille (film),/* Marketing */
+2020-06-06T15:16:18+00:00,961092023,960166109,0,Ps.,Ratatouille (film),"/* Reception */ Replaced dead citation and added additional fact, re: French box office"
+2020-11-22T09:07:10+00:00,990016130,987651441,0,Czar,Ratatouille (film),Legacy; [[Ratatouille the Musical]]
+2021-09-16T22:11:54+00:00,1044751897,1044751718,0,84.245.15.177,Ratatouille (film),
+2021-10-06T05:17:01+00:00,1048471398,1048470488,0,Apokryltaros,Ratatouille (film),Reverted 1 edit by [[Special:Contributions/136.158.43.102|136.158.43.102]] ([[User talk:136.158.43.102|talk]]) to last revision by Kbatra97
+2021-07-11T23:48:50+00:00,1033156305,1028076415,0,Niceguyedc,Remember (Hiroyuki Sawano album),"v2.04 - Repaired 3 links to disambiguation pages - [[WP:DPL|(You can help)]] - [[Akiko]], [[Mpi]], [[Uru]]"
+2020-11-17T00:36:37+00:00,989092347,989092175,0,Onel5969,Remember (Hiroyuki Sawano album),fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]
+2020-11-11T21:48:11+00:00,988227772,984966766,0,Kaltenmeyer,Rendezvous (band),"/* Current project */clean up, replaced: acoompan → accompan"
+2020-06-20T14:48:53+00:00,963568103,963567892,0,188.50.129.123,Sky Italia,/* Television channels */
+2019-05-29T09:42:03+00:00,899327423,899317770,0,MrOllie,Rendezvous (band),Reverted 1 edit by [[Special:Contributions/Beatperminute|Beatperminute]] ([[User talk:Beatperminute|talk]]) to last revision by Flooded with them hundreds ([[WP:TW|TW]])
+2021-03-20T18:56:01+00:00,1013283198,1009741896,0,Skossa,Sky Italia,/* 2020 */ Typo
+2021-12-14T03:31:56+00:00,1060216663,1052412827,0,Sumanuil,Sky Italia,/* Logos */
+2020-09-27T09:25:22+00:00,980584993,980581552,0,Sietenabbi,Sky Italia,
+2020-05-31T15:46:37+00:00,959989220,959988963,0,87.109.223.10,Sky Italia,/* Television channels */
+2021-06-05T14:24:45+00:00,1027005319,1025282805,0,Sean Stephens,Some Nights (album),Final
+2020-11-25T21:19:08+00:00,990672108,987391502,0,Monkbot,Some Nights (album),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 74 templates: del empty params (4×); hyphenate params (77×); del pos params (1×); cvt lang vals (11×);
+2020-05-31T03:01:31+00:00,959892531,958874107,0,Ser Amantio di Nicolao,Storks (film),add category
+2021-02-27T17:23:49+00:00,1009268005,1008977961,0,2603:7080:293F:F765:71F0:28CE:C2B2:CB53,Storks (film),/* Voice cast */
+2021-09-11T07:38:21+00:00,1043656047,1043276507,0,2001:FD8:B29B:B14E:7D08:A2A1:6DA3:386A,Sky Italia,
+2021-10-29T08:46:31+00:00,1052464388,1049893382,0,Lunar-akaunto,Storks (film),This edit removes reference to AppleMusic as Wikipedia says to avoid references to Streaming/Commerical websites.
+2021-05-20T14:51:42+00:00,1024171719,1022299981,0,Bearcat,Storks (film),removed [[Category:LGBT-related animation]]; added [[Category:LGBT-related animated films]] using [[WP:HC|HotCat]]
+2021-07-03T20:25:37+00:00,1031815569,1031783070,0,Natedz,Storks (film),
+2021-09-16T13:59:54+00:00,1044678189,1044237875,0,Rfl0216,Talk:Belle (2021 film),
+2020-05-15T16:14:41+00:00,956840131,956786263,0,GoingBatty,The Anime Man,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Japanese-Australian YouTuber"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-12-11T14:20:53+00:00,1059768097,1059693008,0,IAmAnIndividual,The Anime Man,Removed hypocorism per [[MOS:NICKNAME]]
+2021-10-25T04:29:07+00:00,1051710084,1050472692,0,T3ch3dbazz,The Anime Man,Update subscriber count
+2020-12-05T02:05:49+00:00,992399245,992386324,0,Mccunicano,The Anime Man,Undid revision 992386324 by [[Special:Contributions/RiskyAsterisk|RiskyAsterisk]] ([[User talk:RiskyAsterisk|talk]]) removed unsourced content
+2021-08-09T07:14:42+00:00,1037881584,1037881420,0,122.107.214.108,The Anime Man,/* Personal life */
+2021-11-05T07:52:14+00:00,1053663074,1052373953,0,198.90.127.97,The Good Dinosaur,
+2021-10-01T12:49:42+00:00,1047563938,1046858163,0,Draco9904,The Good Dinosaur,
+2021-12-28T06:28:02+00:00,1062397959,1060441881,0,Tobyjamesaus,The Lumineers (album),/* Charts and certifications */
+2020-04-22T13:00:45+00:00,952479193,949676485,0,Kkyser soze,The Lumineers (album),
+2021-01-24T04:37:39+00:00,1002383391,996241615,0,Ser Amantio di Nicolao,The Lumineers (album),/* References */add authority control
+2021-03-28T20:05:28+00:00,1014733751,1011730410,0,Moh8213,Titanic: Music from the Motion Picture,/* Sales and certifications */
+2021-10-24T01:39:51+00:00,1051523089,1051523064,0,2A00:23C7:F106:CE00:F597:FE83:FEB3:8A13,Titanic: Music from the Motion Picture,/* Principal leitmotifs */
+2021-09-17T04:01:15+00:00,1044795419,1041509775,0,Markus WikiEditor,Titanic: Music from the Motion Picture,/* Certifications and sales */ add Brazil sales
+2020-06-20T05:04:46+00:00,963508817,963508788,0,Larrymcp,Titanic: Music from the Motion Picture,/* Four Disc Anniversary Edition */ Fix punctuation
+2021-05-26T22:39:39+00:00,1025316750,1024004931,0,Apoxyomenus,Titanic: Music from the Motion Picture,removing Hitparadeitalia.it per [[Wikipedia:Record charts#Websites to avoid|websites to avoid]]
+2021-06-16T17:01:58+00:00,1028895482,1025316750,0,188.169.43.36,Titanic: Music from the Motion Picture,
+2020-05-25T17:12:12+00:00,958774343,958053745,0,90.248.79.21,Toy Story (soundtrack),
+2021-04-05T22:00:08+00:00,1016196705,1016187182,0,Magitroopa,Toy Story (soundtrack),Revert [[WP:DE]] IP
+2021-12-17T21:39:33+00:00,1060821271,1060820274,0,Special-T,Toy Story (soundtrack),Restored revision 1060436698 by [[Special:Contributions/Special-T|Special-T]] ([[User talk:Special-T|talk]]): Rv - this information lacks any reference
+2022-01-19T02:50:47+00:00,1066583269,1066583202,0,Cassiopeia,Toy Story 2,Reverted edits by [[Special:Contributions/173.62.246.212|173.62.246.212]] ([[User talk:173.62.246.212|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.9)
+2021-07-15T22:02:55+00:00,1033794641,1033738613,0,Notwally,Toy Story 2,Reverted 3 edits by [[Special:Contributions/108.17.152.6|108.17.152.6]] ([[User talk:108.17.152.6|talk]]) to last revision by Binksternet
+2020-10-04T16:04:20+00:00,981819122,981779877,0,AJFU,Toy Story 2,Unsourced
+2021-03-02T15:16:34+00:00,1009839442,1009839043,0,2601:580:C000:9900:5472:DB34:9828:1D74,Toy Story 2,/* Plot */
+2022-05-31T21:34:39+00:00,1090870375,1090859455,0,45.51.74.102,Toy Story 2,/* Plot */
+2021-02-14T18:47:13+00:00,1006773813,1006753705,0,Janisawls 2,Toy Story 2,
+2021-12-21T14:53:48+00:00,1061408544,1061296223,0,Nature Creature,Toy Story 2,Unnecessary
+2021-07-27T02:50:08+00:00,1035680655,1035680634,0,Renzo487,Toy Story 2,
+2020-05-07T20:48:50+00:00,955442458,954555710,0,TropicAces,Toy Story 4,Done in theaters
+2021-01-03T16:14:55+00:00,998055290,998050465,0,Escape Orbit,Toy Story 4,/* Development */ ce.  Avoid wikilinks in quotes
+2021-02-04T00:01:22+00:00,1004710721,1004710504,0,Extraordinary Writ,Toy Story 4,Reverted 1 edit by [[Special:Contributions/2A00:23C7:FF85:6001:2173:84C5:7128:549|2A00:23C7:FF85:6001:2173:84C5:7128:549]] ([[User talk:2A00:23C7:FF85:6001:2173:84C5:7128:549|talk]]) to last revision by Blablubbs
+2021-02-10T19:08:41+00:00,1006045737,1006043047,0,Fru1tbat,Toy Story 4,Reverted 1 edit by [[Special:Contributions/47.12.93.13|47.12.93.13]] ([[User talk:47.12.93.13|talk]]) to last revision by Fru1tbat
+2021-09-26T12:37:33+00:00,1046586397,1046154206,0,Cewbot,Toy Story 4,[[User:Cewbot/log/20201008/configuration|Fix broken anchor]]: [[Special:Diff/1031044101|2021-06-29]] (VERY DIFFERENT 11≥5) #Soundtrack→[[Incredibles 2#Music]]
+2021-01-18T21:18:08+00:00,1001242657,1000739310,0,2A02:C7F:BEC6:D100:601A:8F2C:E8BF:B750,Toy Story 4,/* Plot */
+2021-12-01T07:02:49+00:00,1058066005,1058065933,0,Contributor19,Toy Story 4,
+2022-03-01T08:46:38+00:00,1074635352,1074400050,0,ChallengeCick,Toy Story 4,/* Plot */
+2022-06-16T03:31:24+00:00,1093358502,1092465266,0,AlienChex,Toy Story 4,/* Plot */
+2021-04-28T17:48:23+00:00,1020362660,1019847382,0,2601:CB:8200:7220:CD15:41A8:FC88:96F3,Toy Story 4,
+2021-03-05T09:13:47+00:00,1010408683,1009433390,0,SamuelLovesFilms,Toy Story 4,
+2020-08-05T03:18:31+00:00,971274869,970665404,0,Mochgamen1,Toy Story 4,/* External links */
+2022-01-20T23:57:43+00:00,1066954607,1066612117,0,24.239.194.50,Toy Story 4,
+2021-06-22T22:57:18+00:00,1029938739,1029922154,0,204.111.9.33,Toy Story 4,/* Plot */
+2020-11-20T21:27:22+00:00,989758778,987159021,0,Tom.Reding,Up (soundtrack),[[Category:CS1 errors: empty unknown parameters]]; [[WP:GenFixes]] on
+2021-04-14T10:30:21+00:00,1017740355,1017595755,0,Devonian Wombat,User talk:Centcom08,Notification: Your [[Wikipedia:Articles for creation|Articles for creation]] submission has been accepted ([[WP:AFCH|AFCH]] 0.9.1)
+2021-04-02T16:54:19+00:00,1015640494,1015639116,0,Ferret,User talk:Ferret,/* RevanRevanRevan */
+2021-08-18T15:19:59+00:00,1039412674,1039408992,0,Ferret,User talk:Ferret,/* 2K resolution page */
+2021-05-29T01:38:43+00:00,1025700151,1025700098,0,Zacharyalejandro,User talk:Ferret,/* Inclusion of references on lists. */
+2022-02-15T14:54:09+00:00,1072016030,1072014851,0,Ferret,User talk:Ferret,/* Waterfall */
+2022-05-07T10:34:10+00:00,1086628454,1082051440,0,Yarisu,User talk:Juhachi,/* A kitten for you! */ new WikiLove message
+2021-02-21T14:06:53+00:00,1008086962,1008067409,0,Ferret,User talk:Sergecross73,/* Vandalism pt 25 */
+2021-07-07T06:22:46+00:00,1032401773,1032398943,0,Teflon Peter Christ,User talk:Sergecross73,
+2021-06-16T18:31:40+00:00,1028907807,1028905218,0,Smuckola,User talk:Sergecross73,/* Vandalism pt 26 */
+2021-07-21T20:35:21+00:00,1034788314,1034577566,0,Sasquatch,User talk:Washuotaku,/* Potentially copyrighted images */ +note
+2021-04-16T22:28:57+00:00,1018228753,1018228274,0,2600:1700:6180:6290:352A:57CD:881B:26EC,User talk:Washuotaku,/* Message */  delete section
+2020-06-24T17:03:41+00:00,964290287,963060074,0,Normal Op,User talk:Washuotaku,/* Thanks for compressing multi-line citations */ new section
+2020-06-15T21:45:07+00:00,962756697,962750595,0,Vchimpanzee,User talk:Washuotaku,/* Interstate 40 in North Carolina */
+2020-12-24T06:35:38+00:00,996046783,993385928,0,DPL bot,User talk:Washuotaku,dablink notification message (see the [[User:DPL bot/Dablink notification FAQ|FAQ]])
+2020-05-14T20:24:33+00:00,956701454,952208853,0,HangingCurve,User talk:Washuotaku,/* COVID-related train suspensions */ new section
+2021-11-28T10:25:33+00:00,1057562990,1057538005,0,Ineedahouse,Violet Evergarden,Added new categories regarding genre.
+2020-11-28T20:20:26+00:00,991198235,991143923,0,Goszei,Violet Evergarden,Reverted to revision 990538942 by [[Special:Contributions/LainEverliving|LainEverliving]] ([[User talk:LainEverliving|talk]]): Unsourced additions
+2021-05-06T02:25:09+00:00,1021680577,1020042698,0,Jkudlick,Violet Evergarden,/* Films */ corrections
+2021-08-15T02:48:40+00:00,1038839740,1037257121,0,4idaho,Violet Evergarden,"/* Films */ Several small changes to the second film's summary for clarity, accuracy, and grammar."
+2020-06-27T10:48:08+00:00,964751343,964557382,0,240D:1A:4B5:2800:3568:8FE0:D5B3:A2F0,Violet Evergarden,/* Film */
+2020-07-21T19:38:22+00:00,968830709,0,0,Bovineboy2008,Violet Evergarden: Eternity and the Auto Memory Doll,#REDIRECT [[Violet_Evergarden#Film]]
+2021-02-02T05:12:32+00:00,1004351459,1004296977,0,Monkbot,WALL-E (soundtrack),[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 1 template: hyphenate params (1×);
+2020-12-19T22:45:50+00:00,995230964,991992083,0,JC1996,WALL-E (soundtrack),/* WALL-E (soundtrack) */
+2021-09-18T22:26:30+00:00,1045116881,1031663283,0,-Verso-,Weathering with You (album),Correct record label
+2022-01-23T15:46:38+00:00,1067458374,1066292723,0,William Avery,X (Ed Sheeran album),[[MOS:LQ]]
+2021-02-11T11:35:35+00:00,1006161551,1006161455,0,2A02:B98:4731:3468:7CAE:34D8:7958:FEC1,X (Ed Sheeran album),/* Certifications */
+2020-07-06T08:11:00+00:00,966293973,965327477,0,Kleool,X (Ed Sheeran album),"/* Certifications */ norway - remove old reflink, sweden - add certweek"
+2021-05-03T23:49:15+00:00,1021302099,1021107750,0,Jessamyn,X (Ed Sheeran album),link [[Annie Zaleski]] using [[:en:User:Edward/Find link|Find link]]
+2020-04-20T21:37:23+00:00,952164420,949974904,0,ChromeGames,Your Name (album),Wording
+2021-07-03T04:56:47+00:00,1031704993,1022520837,0,Niko3818,Your Name (album),
+2021-06-03T22:28:05+00:00,1026723807,1026380637,0,DB1729,÷ (album),Reverted 1 edit by [[Special:Contributions/Roweg|Roweg]] ([[User talk:Roweg|talk]]): Unsourced
+2021-02-19T19:20:20+00:00,1007752491,1007752137,0,ThatIPEditor,÷ (album),Reverting edit(s) by [[Special:Contributions/67.188.179.0|67.188.179.0]] ([[User_talk:67.188.179.0|talk]]) to rev. 1003515493 by 93.107.73.220: per [[WP:NPOV]] [[w:en:WP:RW|(RW 16)]]
+2022-05-28T16:06:34+00:00,1090282950,1089063869,0,Moh8213,÷ (album),/* Certifications */Updating NZ cert.

@@ -1,0 +1,415 @@
+timestamp,revid,parentid,sock,user,page,message
+2024-05-21T04:40:22+00:00,1224900264,1210195698,1,AjoanneWcy,Kuala Lipis,
+2024-05-21T04:37:15+00:00,1224899994,1224885114,1,AjoanneWcy,Kuantan,/* Economy */
+2024-05-21T04:21:35+00:00,1224898853,1143734294,1,AjoanneWcy,Jerantut District,
+2024-05-21T04:17:23+00:00,1224898581,1223810212,1,AjoanneWcy,Cameron Highlands,/* Demographics */
+2024-05-21T02:33:11+00:00,1224889785,1212136465,1,AjoanneWcy,Bera District,/* Demographics */
+2024-05-21T02:29:37+00:00,1224889414,1221019249,1,AjoanneWcy,Bentong District,/* Infrastructure */
+2024-05-21T02:26:01+00:00,1224889044,1223171420,1,AjoanneWcy,Tampin (town),/* Politics */
+2024-05-21T02:21:44+00:00,1224888659,1222360035,1,AjoanneWcy,Seremban,/* Economy */
+2024-05-21T02:18:26+00:00,1224888373,1207445321,1,AjoanneWcy,Rembau (town),
+2024-05-21T02:12:59+00:00,1224887880,1221176185,1,AjoanneWcy,Port Dickson (town),/* Economy */
+2024-05-21T02:09:43+00:00,1224887522,1210908398,1,AjoanneWcy,Kuala Pilah (town),
+2024-05-21T01:11:15+00:00,1224880728,1217889219,1,AjoanneWcy,Jempol District,/* Demographics */
+2024-05-21T01:07:39+00:00,1224880303,1221163364,1,AjoanneWcy,Jelebu District,/* Economy */
+2024-05-20T09:37:18+00:00,1224764888,1216978429,1,AjoanneWcy,Melaka Tengah District,/* Economy */
+2024-05-20T09:34:07+00:00,1224764622,1221331906,1,AjoanneWcy,Malacca City,/* Economy */
+2024-05-20T09:30:02+00:00,1224764276,1215121740,1,AjoanneWcy,Jasin District,/* Economy */
+2024-05-20T09:25:09+00:00,1224763878,1219670674,1,AjoanneWcy,Alor Gajah,/* Economy */
+2024-05-20T09:19:36+00:00,1224763400,1223370058,1,AjoanneWcy,Kota Bharu,/* Demographics */
+2024-05-20T09:15:41+00:00,1224763031,1174749374,1,AjoanneWcy,Pasir Mas (town),/* Development */
+2024-05-20T09:11:34+00:00,1224762696,1211767890,1,AjoanneWcy,Tumpat District,/* Demographics */
+2024-05-20T09:07:33+00:00,1224762328,1222680347,1,AjoanneWcy,Tanah Merah District,/* Demographics */
+2024-05-20T08:58:53+00:00,1224761560,1224738201,1,AjoanneWcy,Pasir Puteh District,/* Demographics */
+2024-05-20T08:54:43+00:00,1224761202,1174749406,1,AjoanneWcy,Pasir Mas District,/* Population */
+2024-05-20T08:46:40+00:00,1224760421,1173113096,1,AjoanneWcy,Machang District,/* Demographics */
+2024-05-20T08:43:02+00:00,1224760069,1182073127,1,AjoanneWcy,Kuala Krai District,/* Demographics */
+2024-05-20T08:34:50+00:00,1224759324,1201150361,1,AjoanneWcy,Kota Bharu District,/* Population */
+2024-05-20T08:20:32+00:00,1224758032,1204133127,1,AjoanneWcy,Jeli District,/* Population */
+2024-05-20T08:04:53+00:00,1224756621,1224756534,1,AjoanneWcy,Gua Musang District,/* Demographics */
+2024-05-20T08:03:53+00:00,1224756534,1220360936,1,AjoanneWcy,Gua Musang District,/* Demographics */
+2024-05-20T07:56:39+00:00,1224755959,1219672555,1,AjoanneWcy,Bachok District,/* Economy */
+2024-05-20T07:53:48+00:00,1224755715,1212468550,1,AjoanneWcy,Yan District,/* Demographics */
+2024-05-20T07:49:35+00:00,1224755311,1211412108,1,AjoanneWcy,Sik District,/* Demographics */
+2024-05-20T07:46:47+00:00,1224755050,1210781196,1,AjoanneWcy,Pokok Sena District,/* Development */
+2024-05-20T07:43:48+00:00,1224754626,1213086450,1,AjoanneWcy,Pendang District,/* Demographics */
+2024-05-20T07:40:27+00:00,1224754362,1212895901,1,AjoanneWcy,Padang Terap District,/* Demographics */
+2024-05-20T07:37:23+00:00,1224754072,1222565380,1,AjoanneWcy,Langkawi,/* Demographics */
+2024-05-20T07:25:39+00:00,1224752895,1222048544,1,AjoanneWcy,Kulim District,/* Economy */
+2024-05-20T07:22:07+00:00,1224752512,1221382561,1,AjoanneWcy,Kubang Pasu District,/* Demographics */
+2024-05-20T07:18:59+00:00,1224752116,1209288927,1,AjoanneWcy,Kuala Muda District,/* Demographics */
+2024-05-20T07:15:15+00:00,1224751735,1211417076,1,AjoanneWcy,Kota Setar District,/* Demographics */
+2024-05-20T07:10:32+00:00,1224751352,1221419516,1,AjoanneWcy,Bandar Baharu District,/* Demographic */
+2024-05-20T07:04:25+00:00,1224749822,1220557281,1,AjoanneWcy,Baling District,/* Demographics */
+2024-05-20T06:55:40+00:00,1224749087,1211032683,1,AjoanneWcy,Tangkak,/* Developments */
+2024-05-20T06:46:40+00:00,1224748179,1224288581,1,AjoanneWcy,Segamat (town),/* Government and politics */
+2024-05-20T06:29:05+00:00,1224746591,1224744935,1,AjoanneWcy,Kota Tinggi,/* Geography and Economy */
+2024-05-20T06:27:07+00:00,1224746434,1224745630,1,AjoanneWcy,Kulai,
+2024-05-20T06:24:53+00:00,1224746255,1221287698,1,AjoanneWcy,Muar (town),/* Economy */
+2024-05-20T06:18:22+00:00,1224745630,1210572354,1,AjoanneWcy,Kulai,
+2024-05-20T06:10:01+00:00,1224744935,1214903793,1,AjoanneWcy,Kota Tinggi,
+2024-05-20T04:34:46+00:00,1224736177,1221165500,1,AjoanneWcy,Kluang,/* Industry and commerce */
+2024-05-20T04:30:34+00:00,1224735713,1222359531,1,AjoanneWcy,Johor Bahru,/* Economy */
+2024-05-20T04:23:22+00:00,1224735051,1219673317,1,AjoanneWcy,Batu Pahat (town),
+2024-05-20T04:05:51+00:00,1224733348,1224687750,1,AjoanneWcy,Kuala Lumpur,/* Economy */
+2024-04-16T09:34:51+00:00,1219200124,1209796285,1,AjoanneWcy,Kemaman District,/* Economy */
+2024-04-16T09:27:46+00:00,1219199294,1218203705,1,AjoanneWcy,Terengganu,/* Economy */
+2024-04-16T09:14:34+00:00,1219197626,1217624590,1,AjoanneWcy,Labuan,/* Economy */
+2024-05-21T02:06:58+00:00,1224887228,1224885518,1,SY_Chow_SY,"Raub, Pahang","Added recent real estate transaction data for Raub, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T01:50:44+00:00,1224885518,1223507927,1,SY_Chow_SY,"Raub, Pahang","Added recent real estate transaction data for Raub, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T01:46:53+00:00,1224885114,1223822666,1,SY_Chow_SY,Kuantan,"Added recent real estate transaction data for Kuantan, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T01:41:48+00:00,1224884580,1223765531,1,SY_Chow_SY,Pahang,"Added recent real estate transaction data for Pahang , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T01:29:48+00:00,1224883138,1224035542,1,SY_Chow_SY,Penang,"Added recent real estate transaction data for Penang , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T01:13:51+00:00,1224881065,1221164319,1,SY_Chow_SY,"Kampar, Perak","Added recent real estate transaction data for Kampar, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T01:12:05+00:00,1224880821,1219672744,1,SY_Chow_SY,Bagan Datuk (town),"Added recent real estate transaction data for bagan datuk, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T01:10:11+00:00,1224880599,1222564852,1,SY_Chow_SY,Manjung District,"Added recent real estate transaction data for Manjung, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T01:05:20+00:00,1224880079,1222611719,1,SY_Chow_SY,Perak,"Added recent real estate transaction data for perak, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T01:00:34+00:00,1224879570,1221650709,1,SY_Chow_SY,Klang (city),"Added recent real estate transaction data for Klang, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T00:58:40+00:00,1224879251,1205731288,1,SY_Chow_SY,Sepang District,"Added recent real estate transaction data for Sepang, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T00:46:57+00:00,1224877859,1211055620,1,SY_Chow_SY,Hulu Selangor District,"Added recent real estate transaction data for Hulu Selangor, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-21T00:41:21+00:00,1224877185,1222838683,1,SY_Chow_SY,Selangor,"Added recent real estate transaction data for selangor, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T09:19:44+00:00,1224763412,1223654523,1,SY_Chow_SY,Kuala Terengganu,"Added recent real estate transaction data for Kuala Terengganu, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T09:15:40+00:00,1224763026,1222995180,1,SY_Chow_SY,Kemaman District,"Added recent real estate transaction data for Kemaman, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T09:13:41+00:00,1224762870,1223841781,1,SY_Chow_SY,Terengganu,"Added recent real estate transaction data for Terengganu, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T09:05:40+00:00,1224762166,1221180175,1,SY_Chow_SY,Sibu,"Added recent real estate transaction data for Sibu, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T08:43:30+00:00,1224760121,1166551217,1,SY_Chow_SY,Sarikei Division,"Added recent real estate transaction data for Sarikei, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T08:37:07+00:00,1224759546,1220976928,1,SY_Chow_SY,Sarawak,"Added recent real estate transaction data for sarawak, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T08:29:59+00:00,1224758867,1222301457,1,SY_Chow_SY,Miri Division,"Added recent real estate transaction data for miri, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T08:26:13+00:00,1224758564,1223281952,1,SY_Chow_SY,Limbang Division,"Added recent real estate transaction data for Limbang, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T08:22:45+00:00,1224758221,1216442870,1,SY_Chow_SY,Kuching Division,"Added recent real estate transaction data for Kuching, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T08:16:32+00:00,1224757673,1220820813,1,SY_Chow_SY,Bintulu Division,"Added recent real estate transaction data for Bintulu, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T07:48:41+00:00,1224755228,1210364505,1,SY_Chow_SY,"Betong, Sarawak","Added recent real estate transaction data for Betong, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T07:42:08+00:00,1224754505,1223592107,1,SY_Chow_SY,Kota Kinabalu,"Added recent real estate transaction data for Kota Kinabalu, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T07:37:55+00:00,1224754115,1224653452,1,SY_Chow_SY,Ranau District,"Added recent real estate transaction data for Ranau, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T07:27:12+00:00,1224753044,1209928168,1,SY_Chow_SY,Penampang District,"Added recent real estate transaction data for Penampang, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T06:26:53+00:00,1224746416,1222618397,1,SY_Chow_SY,Tawau,"Added recent real estate transaction data for Tawau, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T06:07:50+00:00,1224744759,1219515552,1,SY_Chow_SY,Semporna,"Added recent real estate transaction data for Semporna, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T06:04:57+00:00,1224744523,1219504507,1,SY_Chow_SY,Lahad Datu,"Added recent real estate transaction data for Lahad Datu, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T04:40:05+00:00,1224736676,1221178837,1,SY_Chow_SY,Sandakan,"Added recent real estate transaction data for Sandakan, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T04:31:42+00:00,1224735818,1221144825,1,SY_Chow_SY,Sabah,"Added recent real estate transaction data for Sabah, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T04:10:53+00:00,1224733793,1224732491,1,SY_Chow_SY,Labuan,"Added recent real estate transaction data for Labuan, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-20T03:55:45+00:00,1224732491,1224584239,1,SY_Chow_SY,Labuan,"Added recent real estate transaction data for Labuan, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T06:26:14+00:00,1219516626,1215110312,1,SY_Chow_SY,Pontian District,"Added recent real estate transaction data for Pontian, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T06:20:37+00:00,1219516218,1152924159,1,SY_Chow_SY,Penampang,"Added recent real estate transaction data for Penampang , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T06:14:24+00:00,1219515552,1186967253,1,SY_Chow_SY,Semporna,"Added recent real estate transaction data for semporna, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T06:09:45+00:00,1219515004,1219506094,1,SY_Chow_SY,"Kampar, Perak","Added recent real estate transaction data for Kampar, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:46:11+00:00,1219506396,1217703112,1,SY_Chow_SY,Kulim District,"Added recent real estate transaction data for Kulim, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:42:28+00:00,1219506094,1217381718,1,SY_Chow_SY,"Kampar, Perak","Added recent real estate transaction data for Kampar, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:35:29+00:00,1219505488,1191592633,1,SY_Chow_SY,Alor Gajah,"Added recent real estate transaction data for Alor Gajah, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:30:24+00:00,1219505074,1218243053,1,SY_Chow_SY,Kuala Terengganu,"Added recent real estate transaction data for Kuala Terengganu , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:23:54+00:00,1219504507,1209666461,1,SY_Chow_SY,Lahad Datu,"Added recent real estate transaction data for Lahad Datu , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:14:33+00:00,1219503751,1218144822,1,SY_Chow_SY,Kedah,"Added recent real estate transaction data for Kedah , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:09:59+00:00,1219503383,1218433317,1,SY_Chow_SY,Jelebu District,"Added recent real estate transaction data for Jelebu, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:02:24+00:00,1219502691,1212580054,1,SY_Chow_SY,Sibu,"Added recent real estate transaction data for Sibu , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T03:55:55+00:00,1219501999,1195884460,1,SY_Chow_SY,Sarikei,"Added recent real estate transaction data for sarikie , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T03:48:26+00:00,1219501334,1214340004,1,SY_Chow_SY,Mukah,"Added recent real estate transaction data for Mukah , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T03:43:06+00:00,1219500826,1218228162,1,SY_Chow_SY,Miri,"Added recent real estate transaction data for Miri , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T02:15:02+00:00,1219491670,1219396863,1,SY_Chow_SY,Limbang,"Added recent real estate transaction data for Limbang , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T02:10:44+00:00,1219491054,1212172511,1,SY_Chow_SY,Kapit,"Added recent real estate transaction data for Kapit, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T02:05:44+00:00,1219490259,1218406168,1,SY_Chow_SY,Bagan Datuk (town),"Added recent real estate transaction data for Bagan Datuk , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T02:00:41+00:00,1219489474,1181460523,1,SY_Chow_SY,Bachok District,"Added recent real estate transaction data for Bachok , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T01:52:11+00:00,1219488330,1212333548,1,SY_Chow_SY,Sandakan,"Added recent real estate transaction data for Sandakan, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T01:47:39+00:00,1219487697,1217375975,1,SY_Chow_SY,Port Dickson (town),"Added recent real estate transaction data for Port Dickson , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T01:00:20+00:00,1219481433,1214156063,1,SY_Chow_SY,Manjung District,"Added recent real estate transaction data for Manjung , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T09:32:03+00:00,1219365625,1202100960,1,SY_Chow_SY,Kulai District,"Added recent real estate transaction data for Kulai, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T09:19:23+00:00,1219365212,1216342032,1,SY_Chow_SY,Kuching,"Added recent real estate transaction data for Kuching, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T09:13:21+00:00,1219364783,1218388918,1,SY_Chow_SY,Seremban,"Added recent real estate transaction data for Seremban, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T09:00:21+00:00,1219363792,1218126216,1,SY_Chow_SY,Negeri Sembilan,"Added recent real estate transaction data for Negeri Sembilan , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T08:49:05+00:00,1219362971,1218683459,1,SY_Chow_SY,Tawau,"Added recent real estate transaction data for Tawau , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T08:42:17+00:00,1219362455,1189347946,1,SY_Chow_SY,Sipitang,"Added recent real estate transaction data for Sipitang, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T08:36:11+00:00,1219361936,1218422849,1,SY_Chow_SY,Petaling Jaya,"Added recent real estate transaction data for Petaling Jaya , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T08:31:01+00:00,1219361516,1216629049,1,SY_Chow_SY,Kuantan,"Added recent real estate transaction data for kuantan , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T08:21:30+00:00,1219360643,1218596930,1,SY_Chow_SY,Malacca,"Added recent real estate transaction data for melaka, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T08:16:29+00:00,1219360271,1219157067,1,SY_Chow_SY,Batu Pahat (town),"Added recent real estate transaction data for Batu Pahat, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T08:05:10+00:00,1219359115,1218572612,1,SY_Chow_SY,Kota Kinabalu,"Added recent real estate transaction data for Kota Kinabalu , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T07:45:35+00:00,1219357551,1218996925,1,SY_Chow_SY,Sarawak,"Added recent real estate transaction data for Sarawak , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-17T07:40:01+00:00,1219357043,1217530933,1,SY_Chow_SY,Kelantan,"Added recent real estate transaction data for Kelantan , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-19T04:22:55+00:00,1219670674,1219505488,0,WikiCleanerBot,Alor Gajah,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-19T04:42:16+00:00,1219672555,1219489474,0,WikiCleanerBot,Bachok District,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-19T04:43:36+00:00,1219672744,1219490259,0,WikiCleanerBot,Bagan Datuk (town),v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-24T15:10:09+00:00,1220557281,1210581784,0,Pikamander2,Baling District,/* See Also */
+2024-04-19T04:49:00+00:00,1219673317,1219360271,0,WikiCleanerBot,Batu Pahat (town),v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-03-30T06:45:52+00:00,1216290252,1210779743,0,Wiki Farazi,Bandar Baharu District,/* Transportation */
+2024-04-29T20:48:19+00:00,1221419516,1216290252,0,Paintato34343,Bandar Baharu District,"Edited description of the park to sound less like an advertisement, and to fix minor grammatical errors (such as no ""the"" before ""Ministry of Culture"". Added some links."
+2024-04-27T10:15:23+00:00,1221019249,1209953210,0,Snow559,Bentong District,Filled in 1 bare reference(s) with reFill 2
+2024-02-26T07:26:05+00:00,1210364505,1180543864,0,Anne4321,"Betong, Sarawak",/* Notable people */
+2024-03-06T09:22:15+00:00,1212136465,1161304833,0,KjjjKjjj,Bera District,/* Federal Parliament and State Assembly Seats */
+2024-02-24T08:44:12+00:00,1209953210,1194568858,0,KjjjKjjj,Bentong District,/* Federal Parliament and State Assembly seats */
+2024-04-23T09:15:26+00:00,1220360936,1220360920,0,ClueBot NG,Gua Musang District,"Reverting possible vandalism by [[Special:Contribs/Irwanshah000|Irwanshah000]] to version by عرفان الغاري. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4317185) (Bot)"
+2024-03-23T08:28:47+00:00,1215130113,1209663468,0,AyyanD,Cameron Highlands,
+2024-03-30T10:45:46+00:00,1216323788,1216323317,0,عرفان الغاري,Gua Musang District,Language
+2024-04-26T03:20:01+00:00,1220820813,1220820760,0,60.53.233.107,Bintulu Division,/* Members of Parliament */
+2024-02-29T16:39:31+00:00,1211055620,1205733957,0,113.211.140.141,Hulu Selangor District,
+2024-04-18T04:09:59+00:00,1219503383,1218433317,0,SY Chow SY,Jelebu District,"Added recent real estate transaction data for Jelebu, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-14T14:20:37+00:00,1223810212,1223809926,0,Redtree21,Cameron Highlands,Deleted caption of image removed from infobox
+2024-03-23T06:48:26+00:00,1215121740,1187248261,0,210.19.91.132,Jasin District,Typo fixed
+2024-04-28T07:29:31+00:00,1221163364,1219503383,0,WikiCleanerBot,Jelebu District,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-02-06T13:56:09+00:00,1204133127,1129896109,0,Fikku fiq,Jeli District,/* Education */
+2024-04-08T13:26:57+00:00,1217889219,1217888757,0,AyyanD,Jempol District,
+2023-03-09T15:23:00+00:00,1143734294,1134351042,0,InternetArchiveBot,Jerantut District,Rescuing 4 sources and tagging 0 as dead.) #IABot (v2.0.9.3
+2024-04-30T16:32:53+00:00,1221557068,1221555547,0,Kekepalmer2001,Johor Bahru,
+2024-04-28T07:40:31+00:00,1221164319,1219515004,0,WikiCleanerBot,"Kampar, Perak",v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-28T07:41:11+00:00,1221164379,1219491054,0,WikiCleanerBot,Kapit,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-03T15:25:22+00:00,1222047955,1221921531,0,Danish yusri,Kedah,
+2024-04-11T17:53:16+00:00,1218433317,1215126385,0,Fikku fiq,Jelebu District,
+2024-04-13T01:07:07+00:00,1218659025,1218507509,0,50.81.237.217,Johor Bahru,/* Shopping */ 2020-tagged unsourced commercial promos
+2024-04-18T06:09:45+00:00,1219515004,1219506094,0,SY Chow SY,"Kampar, Perak","Added recent real estate transaction data for Kampar, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-19T07:44:51+00:00,1219691234,1219459515,0,WikiCleanerBot,Kelantan,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-01T03:02:44+00:00,1221640246,1221639989,0,Jakawel,Kemaman District,/* Tourism */BP
+2024-05-09T06:37:12+00:00,1222995180,1221640246,0,WikiCleanerBot,Kemaman District,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-01T05:00:20+00:00,1221650709,1221648840,0,AnomieBOT,Klang (city),Dating maintenance tags: {{Cn}}
+2024-04-28T07:52:09+00:00,1221165500,1219752884,0,WikiCleanerBot,Kluang,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-19T07:51:21+00:00,1219691906,1219351033,0,WikiCleanerBot,Kota Bharu,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-11T17:38:44+00:00,1223370058,1219691906,0,Toughpigs,Kota Bharu,
+2024-05-09T06:50:39+00:00,1222996276,1222383139,0,WikiCleanerBot,Kota Kinabalu,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-20T07:42:08+00:00,1224754505,1223592107,0,SY Chow SY,Kota Kinabalu,"Added recent real estate transaction data for Kota Kinabalu, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-01-31T01:21:51+00:00,1201150361,1176667828,0,Fikku fiq,Kota Bharu District,
+2024-04-19T07:51:31+00:00,1219691919,1219533362,0,WikiCleanerBot,Kota Kinabalu,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-29T05:55:25+00:00,1221317961,1219691919,0,Lincolntoh7,Kota Kinabalu,change the citation
+2024-03-02T12:40:06+00:00,1211417076,1209176990,0,ClustalX,Kota Setar District,/* Administrative divisions */
+2024-03-21T22:48:27+00:00,1214903793,1167941063,0,Danial Bass,Kota Tinggi,/* Politics */ rmv typo
+2023-10-26T23:49:56+00:00,1182073127,1182073100,0,Fikku fiq,Kuala Krai District,/* Demographics */
+2024-02-25T12:29:44+00:00,1210195698,1209380011,0,Fikku fiq,Kuala Lipis,
+2024-04-29T14:27:26+00:00,1221367191,1220938952,0,2001:D08:20FF:4185:1:0:4DE3:57C9,Kuala Lumpur,
+2024-02-21T05:07:17+00:00,1209288927,1209121971,0,KjjjKjjj,Kuala Muda District,
+2024-02-28T22:47:24+00:00,1210908398,1210681357,0,Citation bot,Kuala Pilah (town),"Altered url. URLs might have been anonymized. Add: archive-date, archive-url. Removed parameters. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_CommandLine"
+2024-05-09T07:58:42+00:00,1223003468,1221165873,0,115.135.29.156,Kuala Terengganu,/* Governance */
+2024-04-28T07:56:19+00:00,1221165873,1219505074,0,WikiCleanerBot,Kuala Terengganu,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-18T04:30:24+00:00,1219505074,1218243053,0,SY Chow SY,Kuala Terengganu,"Added recent real estate transaction data for Kuala Terengganu , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-19T07:52:01+00:00,1219691958,1219361516,0,WikiCleanerBot,Kuantan,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-14T15:46:07+00:00,1223822666,1219691958,0,115.135.24.19,Kuantan,/* Tallest structures in Kuantan */
+2024-04-29T16:17:21+00:00,1221382561,1221382450,0,180.75.47.187,Kubang Pasu District,
+2024-04-20T10:17:15+00:00,1219870119,1211415012,0,Chongkian,Kubang Pasu District,this is a start-class article already per [[WP:STARTCLASS]]
+2024-04-27T06:48:53+00:00,1221001067,1220392581,0,I'llbeyourbeach,Kuching,/* Etymology */C/e
+2024-05-14T22:18:03+00:00,1223877117,1221001067,0,Liz,Kuching,"Removing link(s) to ""Sunny Hill School"": Removing links to deleted page Sunny Hill School."
+2024-03-31T01:14:43+00:00,1216442870,1213966023,0,DDG9912,Kuching Division,Add the Malay name
+2024-02-27T08:07:49+00:00,1210572354,1206606021,0,2001:F40:904:1B26:5A3:4E3D:8937:EF2C,Kulai,/* Shopping Centres */
+2024-04-19T07:52:21+00:00,1219691982,1219365625,0,WikiCleanerBot,Kulai District,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-17T09:32:03+00:00,1219365625,1202100960,0,SY Chow SY,Kulai District,"Added recent real estate transaction data for Kulai, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-25T03:43:11+00:00,1220659473,1220476295,0,HarukaAmaranth,Kulim District,/* Economy */ Grammar fixes
+2024-05-03T15:30:15+00:00,1222048544,1220659473,0,Danish yusri,Kulim District,/* International relations */
+2024-04-18T04:46:11+00:00,1219506396,1217703112,0,SY Chow SY,Kulim District,"Added recent real estate transaction data for Kulim, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:23:54+00:00,1219504507,1209666461,0,SY Chow SY,Lahad Datu,"Added recent real estate transaction data for Lahad Datu , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-05-14T07:45:50+00:00,1223773406,1223772871,0,Daringdo94,Labuan,
+2024-02-23T00:59:16+00:00,1209666461,1203879688,0,BD2412,Lahad Datu,"Clean up spacing errors around ref tags., replaced: /ref>A → /ref> A, /ref>B → /ref> B"
+2024-05-06T17:37:22+00:00,1222565380,1219704999,0,Citation bot,Langkawi,Added date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Neko-chan | #UCB_webform 208/500
+2024-04-17T03:12:00+00:00,1219331313,1215790677,0,I dream of horses,Limbang Division,Disambiguating links to [[Bisaya]] (link changed to [[Bisaya people]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-08-31T10:08:39+00:00,1173113096,1147952050,0,185.2.247.20,Machang District,/* National Schools */
+2024-05-05T08:27:50+00:00,1222316860,1222314668,0,AnomieBOT,Malacca,"Rescuing orphaned refs (""NOAA"" → ""NOAA (sun)"" from rev 1219694886)"
+2024-05-11T14:03:58+00:00,1223344016,1223343157,0,Cerevisae,Limbang,/* Federation of Malaysia */
+2024-05-11T01:43:13+00:00,1223281952,1219331313,0,DDG9912,Limbang Division,Add Malay name
+2024-04-28T08:26:48+00:00,1221169256,1220552473,0,WikiCleanerBot,Manjung District,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-12T15:34:30+00:00,1218581185,1208640150,0,Fikku fiq,Malacca City,
+2024-05-06T17:34:18+00:00,1222564852,1221169256,0,2001:F40:98E:D3F:92F:7E81:DE13:19E,Manjung District,Introduced Manjung District as the 26th-most populated district in Malaysia.
+2024-04-03T02:24:44+00:00,1216978429,1216978401,0,2001:E68:540F:4789:75F1:CA03:5567:94BF,Melaka Tengah District,/* Galleries */
+2024-04-26T03:21:42+00:00,1220820999,1220820965,0,60.53.233.107,Miri Division,/* Members of Parliament */
+2024-04-28T08:43:10+00:00,1221170936,1219500826,0,WikiCleanerBot,Miri,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-05T05:39:23+00:00,1222301457,1222301072,0,175.136.121.218,Miri Division,
+2024-04-19T08:51:15+00:00,1219697024,1219333434,0,WikiCleanerBot,Muar (town),v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-29T00:49:59+00:00,1221287698,1219697024,0,AyyanD,Muar (town),
+2024-04-19T09:00:48+00:00,1219697958,1219509327,0,WikiCleanerBot,Negeri Sembilan,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-18T03:48:26+00:00,1219501334,1214340004,0,SY Chow SY,Mukah,"Added recent real estate transaction data for Mukah , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-03-10T02:26:14+00:00,1212895901,1211416735,0,KjjjKjjj,Padang Terap District,/* Federal Parliament and State Assembly Seats */
+2024-03-18T00:10:46+00:00,1214278023,1208673022,0,DervotNum4,Pahang,"Changed some wording, capitilisation"
+2024-05-14T06:13:17+00:00,1223765531,1214278023,0,Radio-Somewhere,Pahang,/* Ethnicity */
+2024-04-07T01:03:30+00:00,1217639672,1186332870,0,Leon219,Pasir Puteh District,
+2023-09-10T12:25:08+00:00,1174749406,1135021299,0,AyyanD,Pasir Mas District,
+2023-09-10T12:24:48+00:00,1174749374,1168155279,0,AyyanD,Pasir Mas (town),
+2024-02-24T05:30:21+00:00,1209928168,1205839040,0,2001:E68:540F:6CFF:B18E:A25B:1B31:1157,Penampang District,
+2024-04-28T09:27:20+00:00,1221175151,1219516218,0,WikiCleanerBot,Penampang,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-06T13:09:24+00:00,1222525068,1222296874,0,Citation bot,Penang,"Altered title. Add: jstor, doi. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Лисан аль-Гаиб | #UCB_webform 45/73"
+2024-05-10T14:42:08+00:00,1223198588,1223197630,0,HundenvonPenang,Penang,Undid revision [[Special:Diff/1223197630|1223197630]] by [[Special:Contributions/HoumanKia|HoumanKia]] ([[User talk:HoumanKia|talk]]) unexplained change from British English
+2024-05-06T22:43:59+00:00,1222611719,1222610964,0,DervotNum4,Perak,Removed double spaces
+2024-04-24T01:29:04+00:00,1220481188,1220430550,0,Fahrurozi.86,Perak,/* External links */
+2024-03-11T02:22:27+00:00,1213086450,1204044630,0,KjjjKjjj,Pendang District,/* Federal Parliament and State Assembly Seats */
+2024-05-02T13:47:50+00:00,1221869976,1221855310,0,RodRabelo7,Petaling Jaya,Reverting edit(s) by [[Special:Contributions/192.228.179.133|192.228.179.133]] ([[User_talk:192.228.179.133|talk]]) to rev. 1219699925 by WikiCleanerBot: Vandalism ([[w:en:WP:UV|UV 0.1.5]])
+2024-04-19T09:25:43+00:00,1219699925,1219361936,0,WikiCleanerBot,Petaling Jaya,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-02-28T08:49:18+00:00,1210781196,1209178505,0,KjjjKjjj,Pokok Sena District,/* Federal Parliament and State Assembly Seats */
+2024-03-23T04:21:39+00:00,1215110312,1210219067,0,AyyanD,Pontian District,
+2024-04-28T09:38:50+00:00,1221176185,1220018091,0,WikiCleanerBot,Port Dickson (town),v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-28T09:38:10+00:00,1221176107,1219516626,0,WikiCleanerBot,Pontian District,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-07T18:45:50+00:00,1217761226,1217759728,0,60.53.163.161,Ranau District,/* Notable people */
+2024-04-05T13:29:49+00:00,1217375975,1215131170,0,AyyanD,Port Dickson (town),
+2024-02-23T08:57:08+00:00,1209730058,1208639593,0,KjjjKjjj,"Raub, Pahang",/* Government and administration */
+2024-04-18T01:47:39+00:00,1219487697,1217375975,0,SY Chow SY,Port Dickson (town),"Added recent real estate transaction data for Port Dickson , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-02-14T21:11:50+00:00,1207445321,1207373246,0,JJMC89 bot,Rembau (town),Removed [[WP:NFCC]] violation(s). No valid [[WP:NFUR|non-free use rationale]] for this page. See [[WP:NFC#Implementation]]. Questions? [[WP:MCQ|Ask here]].
+2024-04-28T04:34:12+00:00,1221144825,1221018830,0,Winnieswikiworld,Sabah,Changed wording to reflect link
+2024-04-18T01:52:11+00:00,1219488330,1212333548,0,SY Chow SY,Sandakan,"Added recent real estate transaction data for Sandakan, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-28T10:04:33+00:00,1221178837,1219488330,0,WikiCleanerBot,Sandakan,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-19T10:04:01+00:00,1219703952,1219357551,0,WikiCleanerBot,Sarawak,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-04-27T02:24:43+00:00,1220976928,1220920054,0,Citation bot,Sarawak,Added date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_toolbar
+2023-07-22T08:46:29+00:00,1166551217,1106310757,0,Yip Siew Loong,Sarikei Division,/* Demographics */Update information
+2024-04-18T03:55:55+00:00,1219501999,1195884460,0,SY Chow SY,Sarikei,"Added recent real estate transaction data for sarikie , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-28T10:06:23+00:00,1221179023,1219501999,0,WikiCleanerBot,Sarikei,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-20T08:37:07+00:00,1224759546,1220976928,0,SY Chow SY,Sarawak,"Added recent real estate transaction data for sarawak, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-24T08:27:41+00:00,1220519850,1208697244,0,2001:E68:5471:AC12:C1A3:498D:E719:6A80,Segamat (town),
+2024-04-12T03:49:23+00:00,1218509032,1217861849,0,Lincolntoh7,Selangor,"Added latest residential and commercial property price data, including median prices and psf, based on recent subsale transactions."
+2024-05-08T06:24:06+00:00,1222838683,1218509032,0,Bobbipedia,Selangor,the
+2024-04-18T06:14:24+00:00,1219515552,1186967253,0,SY Chow SY,Semporna,"Added recent real estate transaction data for semporna, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-02-18T14:57:01+00:00,1208697244,1200193211,0,183.171.108.145,Segamat (town),New MPS President as of 01/02/2024
+2024-02-10T08:58:15+00:00,1205731288,1205730993,0,ClustalX,Sepang District,/* Demographics */
+2024-05-05T15:40:19+00:00,1222360035,1222359958,0,Derkommander0916,Seremban,/* Demographics */
+2024-04-17T09:13:21+00:00,1219364783,1218388918,0,SY Chow SY,Seremban,"Added recent real estate transaction data for Seremban, sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-18T04:02:24+00:00,1219502691,1212580054,0,SY Chow SY,Sibu,"Added recent real estate transaction data for Sibu , sourced from NAPIC, reflecting median prices and price per square foot for residential and commercial properties over the past 12 months."
+2024-04-28T10:17:04+00:00,1221180175,1219502691,0,WikiCleanerBot,Sibu,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-03-02T11:49:31+00:00,1211412108,1210653048,0,ClustalX,Sik District,/* Attractions */
+2024-04-19T10:18:03+00:00,1219705414,1219362455,0,WikiCleanerBot,Sipitang,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-02-06T03:46:18+00:00,1203980384,1203980319,0,ZimZalaBim,Tampin (town),/* Politics */ avoid the need to constantly update this
+2024-02-29T14:10:16+00:00,1211032683,1177015508,0,KjjjKjjj,Tangkak,/* Politics */
+2024-02-25T09:17:40+00:00,1210171809,1162391087,0,KjjjKjjj,Tanah Merah District,/* Federal Parliament and State Assembly Seats */
+2024-05-02T16:00:32+00:00,1221888062,1221704719,0,Giraffedata,Tawau,"dangling participle, [[User:Giraffedata/comprised of|comprised of]], contraction"
+2024-04-19T10:43:27+00:00,1219708301,1219362971,0,WikiCleanerBot,Tawau,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-05-06T23:32:03+00:00,1222618397,1221888062,0,Native99girl,Tawau,/* Demography */
+2024-05-14T18:05:11+00:00,1223841781,1223812179,0,Lim Zhi Hang,Terengganu,/* top */
+2024-04-23T14:03:30+00:00,1220388158,1220338038,0,Vif12vf,Terengganu,Restored revision 1219199294 by [[Special:Contributions/AjoanneWcy|AjoanneWcy]] ([[User talk:AjoanneWcy|talk]])
+2024-04-28T10:46:04+00:00,1221182517,1220388158,0,WikiCleanerBot,Terengganu,v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2024-03-04T09:54:45+00:00,1211767890,1204006197,0,KjjjKjjj,Tumpat District,/* Federal Parliament and State Assembly Seats */
+2024-03-08T01:19:25+00:00,1212468550,1211607926,0,DDG9912,Yan District,/* Demographics */
+2023-10-23T05:16:11+00:00,1181460523,1162405264,0,KLITE789,Bachok District,
+2023-09-12T19:15:30+00:00,1175092695,1172039026,0,Nobel X300,Alor Gajah,Fixing style/layout errors
+2023-12-13T17:07:26+00:00,1189729784,1189029119,0,Pbh19950,Bandar Baharu District,CE. Editing for conciseness
+2022-12-05T13:07:52+00:00,1125715527,1122830636,0,WEEROR,Baling District,/* Federal Parliament and State Assembly Seats */
+2023-09-23T14:10:19+00:00,1176710117,1144921379,0,175.136.183.131,Bagan Datuk (town),
+2023-12-09T06:23:39+00:00,1189029119,1189008830,0,RandomManna106,Bandar Baharu District,Copyediting
+2023-06-21T21:53:44+00:00,1161304833,1131298783,0,2001:E68:5470:7771:9035:67F9:D34E:3C9B,Bera District,/* Geography */
+2022-12-22T00:42:29+00:00,1128788471,1125715656,0,Steel1943,Bandar Baharu District,Add hatnote
+2024-01-09T17:22:01+00:00,1194568858,1178757013,0,202.58.91.55,Bentong District,Updated population
+2023-04-17T16:49:29+00:00,1150346617,1150346362,0,Muhammad Danish Bin Yusri,Bentong District,
+2023-01-03T14:13:06+00:00,1131298783,1131068731,0,Hskdop,Bera District,/* Federal Parliament and State Assembly Seats */
+2024-01-16T23:08:13+00:00,1196251570,1189998746,0,Dawnseeker2000,Batu Pahat (town),"date format audit, minor formatting"
+2024-02-14T23:25:49+00:00,1207483301,1187449086,0,DaGizza,Bintulu Division,ce
+2023-02-16T17:43:41+00:00,1139741331,1136402724,0,Bompanigcc,Cameron Highlands,Fixing style/layout errors
+2023-09-06T09:01:46+00:00,1174097211,1174096358,0,Niknasael,Hulu Selangor District,/* History */
+2023-05-09T07:16:41+00:00,1153937287,1153134614,0,Jangg0t,Gua Musang District,Update the seal with correct Jawi spelling
+2023-08-19T02:58:10+00:00,1171112284,1166571717,0,2001:D08:138A:D23F:87B7:8671:B80F:CE19,Gua Musang District,/* Shopping */Added content
+2023-11-28T02:37:43+00:00,1187248261,1187076896,0,2001:448A:1003:2CF1:7106:91CD:2CF8:9668,Jasin District,
+2023-07-27T13:32:00+00:00,1167394163,1164011134,0,Waniosa Amedestir,Jasin District,Undid revision 1164011134 by [[Special:Contributions/Mrmiladknock|Mrmiladknock]] ([[User talk:Mrmiladknock|talk]])
+2023-07-18T08:06:53+00:00,1165924044,1144762219,0,Egeymi,Jelebu District,Filled in 2 bare reference(s) with reFill 2
+2022-12-27T16:59:58+00:00,1129896109,1128445552,0,113.210.50.29,Jeli District,
+2023-10-07T03:41:03+00:00,1178986488,1176497699,0,2601:283:4500:7AA0:39BD:1230:915D:1384,Johor Bahru,/* Notable people */
+2023-11-07T00:21:11+00:00,1183868556,1181303447,0,2001:E68:540A:1EC9:41A3:83BC:D9CB:BCC3,"Kampar, Perak",
+2023-09-08T15:59:14+00:00,1174462910,1168711928,0,Mikeblas,"Kampar, Perak",revert unreferenced changes
+2023-09-14T07:36:14+00:00,1175322462,1171620988,0,2400:9800:261:6B2F:8DEE:C81E:D9CA:9C7C,Kedah,
+2024-01-10T11:05:56+00:00,1194716679,1194335101,0,Hzh,Johor Bahru,/* Etymology */
+2024-01-16T12:48:33+00:00,1196123768,1183868556,0,2001:E68:540F:9E4:A50A:C6F4:FF7C:4814,"Kampar, Perak",
+2024-02-23T03:16:04+00:00,1209687765,1195033907,0,Ab.Saleem,Kedah,/* top */
+2023-03-31T05:25:33+00:00,1147472016,1145292770,0,183.171.117.162,Kapit,/* Education */
+2023-11-19T08:49:34+00:00,1185838781,1185415458,0,JohnnyBflat,Kelantan,Major cleanup of duplicate wikilinks
+2023-10-14T18:19:23+00:00,1180127970,1180126747,0,27.125.242.206,Kemaman District,
+2023-07-25T11:36:09+00:00,1167054612,1152812366,0,Muhammad Danish Bin Yusri,Kemaman District,
+2023-11-08T10:17:59+00:00,1184103286,1180319468,0,JalenFolf,Klang (city),/* Districts */ [[WP:SELFRED]]
+2023-03-09T19:09:12+00:00,1143764964,1126785027,0,21Kakai,Kemaman District,added info to source
+2023-05-21T05:33:35+00:00,1156097381,1149751900,0,Egeymi,Kluang,Filled in 7 bare reference(s) with reFill 2 + 1 manually
+2023-05-07T09:43:51+00:00,1153610125,1153610020,0,Hzh,Klang (city),Undid revision 1153610020 by [[Special:Contributions/2001:D08:DF:B7CC:A1E9:63DA:A87C:FAFB|2001:D08:DF:B7CC:A1E9:63DA:A87C:FAFB]] ([[User talk:2001:D08:DF:B7CC:A1E9:63DA:A87C:FAFB|talk]])
+2023-10-08T15:20:55+00:00,1179199321,1178678359,0,2001:D08:1389:84C6:30DA:34FF:FE78:3FC1,Kota Bharu,"Masjid Kampung Laut move to Tumpat, Kelantan not again at Kota Bharu"
+2023-04-07T21:37:51+00:00,1148719247,1147981999,0,Salvio giuliano,Kota Kinabalu,Removing link(s) [[Wikipedia:Articles for deletion/Eurasian (mixed ancestry)]] closed as delete ([[WP:XFDC#4.0.13-beta|XFDcloser]])
+2022-12-26T12:13:57+00:00,1129635742,1129635129,0,27.125.246.10,Kota Bharu District,
+2023-04-03T10:56:04+00:00,1147986150,1146762820,0,Rodw,Kota Bharu,Disambiguating links to [[Lotus]] (link changed to [[Tesco Lotus]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2024-01-23T12:26:57+00:00,1198211398,1198210820,0,Ayzkao,Kota Kinabalu,
+2023-07-11T14:39:10+00:00,1164860919,1164860649,0,60.53.232.223,Kota Bharu,
+2023-03-17T07:34:35+00:00,1145098472,1145098422,0,Tellisavas,Kelantan,
+2024-03-07T13:42:43+00:00,1212364076,1198211398,0,Rey161203,Kota Kinabalu,
+2023-10-18T04:04:03+00:00,1180680559,1156424557,0,Insankerdilmahubersuara1993,Kota Setar District,/* Federal Parliament and State Assembly Seats */ change current state representative
+2023-08-25T16:00:35+00:00,1172199322,1172199268,0,--WikiUser1234945--,Kota Kinabalu,Reverted edits by [[Special:Contributions/2001:E68:540E:CA8B:C9EF:A4BE:AEC9:8EEF|2001:E68:540E:CA8B:C9EF:A4BE:AEC9:8EEF]] ([[User talk:2001:E68:540E:CA8B:C9EF:A4BE:AEC9:8EEF|talk]]) ([[WP:HG|HG]]) (3.4.12)
+2023-03-21T09:19:31+00:00,1145847355,1145639282,0,Hongqilim,Kota Kinabalu,
+2023-07-30T19:59:51+00:00,1167941063,1144922964,0,Egeymi,Kota Tinggi,Filled in 1 bare reference
+2023-09-08T13:45:51+00:00,1174444133,1163171572,0,115.135.62.53,Kuala Lipis,/* Personalities */
+2023-05-04T02:46:17+00:00,1153078555,1152302065,0,EelamStyleZ,Kuala Lumpur,
+2023-07-03T10:15:18+00:00,1163171572,1156854581,0,Syahmi12,Kuala Lipis,
+2023-11-09T01:08:43+00:00,1184212995,1158512767,0,202.190.54.184,Kuala Muda District,/* History */
+2023-09-07T16:32:37+00:00,1174305656,1172907725,0,2001:D08:1010:8511:1:2:8C7:B71E,Kuala Lumpur,
+2023-11-24T18:02:58+00:00,1186659846,1181298934,0,Salmoonlight,Kuala Terengganu,
+2023-09-08T07:05:26+00:00,1174404768,1174404552,0,2001:D08:F0:817E:BCE2:E58E:9588:157F,Kuantan,/* History */
+2023-11-19T06:06:17+00:00,1185823020,1185821958,0,210.186.75.42,Kuantan,/* Tallest structures in Kuantan */
+2023-05-30T06:36:18+00:00,1157671586,1157671441,0,Immeasurable radiance,Kuantan,
+2023-06-19T18:42:36+00:00,1160953645,1156867090,0,Nokeyboard,Kubang Pasu District,
+2023-04-14T08:20:17+00:00,1149762447,1147012456,0,203.82.70.100,Kuantan,
+2023-10-20T15:59:16+00:00,1181057970,1181049701,0,2406:3003:2077:29B4:F0:8930:7131:9D7C,Kuching,Asded content
+2023-02-24T16:31:15+00:00,1141349297,1141349056,0,ErnieTheMighty,Kuching Division,corrected the link for both
+2023-04-03T03:15:17+00:00,1147931238,1147931122,0,Gobonobo,Kulai,Reverted 1 edit by [[Special:Contributions/122.129.123.172|122.129.123.172]] ([[User talk:122.129.123.172|talk]]) to last revision by AyyanD
+2023-04-12T10:58:44+00:00,1149457458,1147931238,0,Pangalau,Kulai,Provided link
+2023-10-31T01:46:16+00:00,1182732462,1162979745,0,59.17.26.64,Kulai District,
+2023-07-25T11:21:31+00:00,1167053297,1167051901,0,Muhammad Danish Bin Yusri,Kulim District,
+2024-01-03T13:47:01+00:00,1193370930,1193370861,0,C411978,Kulim District,wikilinked
+2024-01-10T13:22:25+00:00,1194733018,1182732462,0,Qaidul,Kulai District,/* Federal Parliament and State Assembly Seats */
+2024-02-02T01:42:17+00:00,1202100960,1194733018,0,Kaltenmeyer,Kulai District,"/* History */copyedit, [[WP:AWB/T|typo(s) fixed]]: should had been → should have been"
+2023-05-15T17:51:28+00:00,1154946290,1145467498,0,2404:160:A006:153A:6CB7:FE76:A013:EF9A,Lahad Datu,/* Foreign militant intrusion */
+2024-04-07T11:00:31+00:00,1217703112,1217702884,0,2001:E68:545C:57B9:78F1:1717:A95A:2ACC,Kulim District,/* International relations */
+2023-11-24T20:31:50+00:00,1186679908,1182600792,0,2001:E68:545C:3CC2:65E2:8921:2BA6:4214,Kulim District,
+2023-10-28T16:50:02+00:00,1182329664,1182329577,0,Malayan88,Labuan,/* Economy */
+2023-06-26T13:50:20+00:00,1162017667,1154946290,0,Onel5969,Lahad Datu,"clean up, [[WP:AWB/T|typo(s) fixed]]: a integrated → an integrated,  ,  → ,"
+2023-08-21T05:42:07+00:00,1171457196,1171369798,0,GreenC bot,Limbang,Reformat 6 citations per [[:Category:CS1 errors: archive-url]]. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-12-09T10:13:37+00:00,1126441810,1106063593,0,Azuru79,Limbang Division,"Adding [[Wikipedia:Short description|short description]]: ""Division of Sarawak, Malaysia"", overriding automatically generated description"
+2024-02-12T13:01:29+00:00,1206549559,1175257668,0,2001:D08:DD:48A8:59A0:5FB5:D2AB:11BF,Limbang Division,/* Ethnics */
+2023-04-03T06:12:22+00:00,1147952050,1144921889,0,ShelfSkewed,Machang District,"Unlinked ambiguous—not useful, no article"
+2023-06-29T21:15:22+00:00,1162554950,1160849927,0,DressChimera241,Malacca City,Expanded bare references
+2024-03-04T10:05:02+00:00,1211768778,1210852748,0,Traxezz,Malacca,/* Tourism */
+2024-01-17T03:42:37+00:00,1196328370,1196328078,0,Vic Park,Manjung District,
+2023-03-19T16:40:57+00:00,1145529571,1145529495,0,180.75.129.97,Manjung District,/* Demographics */
+2023-05-08T18:01:25+00:00,1153850370,1152762174,0,JoeNMLC,Malacca,"/* Higher education */ ce, add wikilink Malacca College of Complementary Medicine"
+2024-04-24T14:33:21+00:00,1220552473,1220551276,0,Insankerdilmahubersuara1993,Manjung District,/* Tourism */ Fixed typo
+2023-06-28T07:30:02+00:00,1162302764,1162302692,0,Knobulussuperbus,Miri,/* Other attractions */
+2023-07-17T09:16:51+00:00,1165772277,1159266485,0,Mauls,Manjung District,
+2024-01-10T08:19:27+00:00,1194695606,1193841019,0,Anas1712,Miri,
+2024-02-04T19:27:19+00:00,1203379431,1150874877,0,Kku,Melaka Tengah District,link palm oil
+2023-04-20T15:22:49+00:00,1150874877,1150870167,0,Hongqilim,Melaka Tengah District,/* Libraries */
+2023-03-11T06:57:14+00:00,1144001166,1144001122,0,Tom Radulovich,Miri Division,removed [[Category:Divisions of Sarawak]] using [[WP:HC|HotCat]]
+2024-03-04T12:46:47+00:00,1211783091,1206410980,0,42.61.138.209,Muar (town),/* Politicians and public servants */
+2023-08-21T16:37:48+00:00,1171522574,1167357459,0,Nobel X300,Muar (town),Fixing style/layout errors
+2023-10-10T19:10:14+00:00,1179532664,1175189334,0,Danielt998,Muar (town),"/* Chinese primary schools */clean up, replaced: g（ → g (, ） → ) (2)"
+2023-11-07T15:10:34+00:00,1183964073,1163727658,0,John of Reading,Mukah,"Typo/[[MOS:CURLY|quotemark]] fixes, replaced: was then became → then became, was name → was named, since 1960s → since the 1960s, ’s → 's"
+2023-12-23T19:11:51+00:00,1191468371,1179532664,0,Nkkhoo,Muar (town),Update 2020's population census
+2023-04-06T15:13:11+00:00,1148501382,1147143422,0,NotTriangle,Pahang,"Changing [[Wikipedia:Short description|short description]] from ""State of Malaysia"" to ""State in Malaysia"""
+2024-01-06T09:18:58+00:00,1193928687,1193893152,0,Mikeyspeed7,Negeri Sembilan,
+2024-01-07T03:54:47+00:00,1194086577,1193894252,0,ZoschH,Pahang,The tower Kuantan 188 is irrelevant here
+2023-04-19T04:01:06+00:00,1150616516,1148501382,0,Bompanigcc,Pahang,Fixing style/layout errors
+2023-01-22T03:32:48+00:00,1135021299,1129974237,0,2001:D08:2185:2D49:1:0:5667:1F4F,Pasir Mas District,/* Education */School additional
+2023-07-18T09:53:29+00:00,1165933254,1165912737,0,2001:448A:11A5:1C46:3CD2:D034:77A:A71A,Pahang,
+2023-02-22T11:56:05+00:00,1140915622,1129895964,0,Rodw,Pasir Puteh District,Disambiguating links to [[Semerak]] (link changed to [[Semerak (state constituency)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-05-03T03:47:41+00:00,1152924159,1145647525,0,Explicit,Penampang,Removing link(s) [[Wikipedia:Articles for deletion/Mega Long Mall]] closed as delete ([[WP:XFDC#4.0.13|XFDcloser]])
+2023-12-02T11:27:01+00:00,1187937867,1185378645,0,2001:E68:540F:D45:FC16:DE1B:BD45:B2FA,Penampang District,/* Notable Person */
+2023-06-13T05:12:10+00:00,1159888915,1159767059,0,Malaysia Skyline,Penang,/* Demographics */ Revised contradictory content
+2023-10-09T11:18:37+00:00,1179325507,1179269044,0,Tellisavas,Perak,/* Demography */
+2023-11-16T13:58:19+00:00,1185399944,1179325507,0,2.99.43.231,Perak,
+2024-05-01T14:45:43+00:00,1221705688,1221705135,0,ZKang123,Penang,/* Post-independence era */ removed stray old sentence
+2023-05-23T14:34:13+00:00,1156571260,1156571125,0,Malaysia Skyline,Penang,/* George Town Conurbation */
+2023-10-18T05:51:20+00:00,1180689536,1176059482,0,175.143.55.25,Petaling Jaya,/* Education */
+2023-08-17T16:11:55+00:00,1170851856,1169858049,0,HeyElliott,Perak,[[Category:CS1 errors: missing periodical]]
+2023-07-27T08:45:34+00:00,1167364158,1167363520,0,2001:F40:905:13A0:487B:CDE5:1A55:7A83,Petaling Jaya,/* Sports */
+2023-06-12T06:30:57+00:00,1159734529,1140941981,0,Leobadboy,Pontian District,
+2023-06-01T13:15:20+00:00,1158019644,1152793092,0,Ksmuthukrishnan,Pokok Sena District,
+2023-12-18T04:55:35+00:00,1190489072,1189679642,0,2001:D08:1389:1A2:277B:B2BC:450F:5C0,Port Dickson (town),/* History */Added link for lukut
+2023-07-21T12:46:04+00:00,1166421378,1166421175,0,Muhammad Danish Bin Yusri,Port Dickson (town),
+2024-02-21T06:02:13+00:00,1209295873,1190489072,0,GünniX,Port Dickson (town),"v2.05 - Fix errors for [[WP:WCW|CW project]] (Heading with ""="")"
+2023-06-08T13:51:57+00:00,1159136391,1149736248,0,Hongqilim,Port Dickson (town),/* Gallery */
+2023-03-20T14:39:58+00:00,1145704845,1117154804,0,Cewbot,Ranau District,[[User:Cewbot/log/20201008/configuration|Fixing broken anchor]]: [[Special:Diff/563120299|2013-07-06]] #Rice growing ecology→[[Rice#Rice-growing environments]]
+2023-07-04T02:52:08+00:00,1163301565,1161733231,0,2001:D08:1C40:373C:176E:2E4:21F7:F926,Ranau District,
+2023-08-29T15:46:33+00:00,1172829470,1169123569,0,林孝導,Port Dickson (town),/* top */Fixed typo
+2023-02-22T15:15:29+00:00,1140941981,1130895712,0,183.171.191.61,Pontian District,
+2023-07-11T06:18:44+00:00,1164805288,1164583139,0,No Lives Left,Sabah,"removing non-ISO information from ""ISO code"" section of infobox"
+2023-04-27T18:08:07+00:00,1152024098,1150151741,0,Egeymi,Sandakan,Filled in 0 bare reference(s) with reFill 2
+2024-01-02T12:07:34+00:00,1193167694,1190523697,0,Night Lantern,Sandakan,update outdated info
+2023-03-30T08:42:36+00:00,1147336960,1147198079,0,Hongqilim,Sarawak,/* Broadcasting */
+2023-12-17T22:30:57+00:00,1190439591,1190328430,0,Declangi,Sarawak,Undid revision 1190328430 by [[Special:Contributions/2001:8F8:1C3B:EEC:882C:FF91:6153:28EA|2001:8F8:1C3B:EEC:882C:FF91:6153:28EA]] ([[User talk:2001:8F8:1C3B:EEC:882C:FF91:6153:28EA|talk]]) test edits?
+2023-04-25T12:32:16+00:00,1151661649,1146976491,0,SHB2000,Sarikei,hyphenate compound adjectives
+2023-08-24T05:54:04+00:00,1171968928,1154943881,0,GreenC bot,Sarikei,Reformat 1 citation per [[:Category:CS1 errors: archive-url]]. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2023-03-11T01:13:30+00:00,1143969032,1142208335,0,202.188.12.228,Sarawak,
+2023-09-28T08:36:49+00:00,1177584213,1177584151,0,The Malaysian Redcoat,Sarawak,Undid revision 1177584151 by [[Special:Contributions/The Malaysian Redcoat|The Malaysian Redcoat]] ([[User talk:The Malaysian Redcoat|talk]])
+2023-12-20T11:24:04+00:00,1190882261,1189413492,0,Kahtar,Segamat (town),"Repair CS1 error(s), replaced: website=https://www. → website=www."
+2023-03-02T11:43:53+00:00,1142442953,1142442776,0,MrknowitinMalaysia,Segamat (town),
+2023-12-05T01:27:17+00:00,1188379329,1183324513,0,Mikeyspeed7,Selangor,instrumental anthem file
+2023-09-14T06:21:15+00:00,1175315822,1175174666,0,2400:9800:261:FEC8:E041:E791:F08F:9759,Selangor,
+2023-11-09T08:50:20+00:00,1184260529,1155941539,0,Onel5969,Semporna,Disambiguating links to [[Pirate (disambiguation)]] (link changed to [[Pirate]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-03-13T11:04:21+00:00,1144368175,1143176714,0,Dawnseeker2000,Sepang District,"date format audit, minor formatting, [[WP:AWB/T|typo(s) fixed]]: in 16 March 2023 → on 16 March 2023 (2)"
+2023-12-22T06:01:51+00:00,1191217790,1190539266,0,Lephuoc10012007,Sibu,
+2023-04-17T16:14:51+00:00,1150342091,1109526313,0,Muhammad Danish Bin Yusri,Sik District,
+2023-06-30T14:11:24+00:00,1162673568,1147866368,0,Quxyz,Sipitang,Undid revision 1147866368 by [[Special:Contributions/2001:D08:2900:FC70:A681:978A:A1C0:CA9E|2001:D08:2900:FC70:A681:978A:A1C0:CA9E]] ([[User talk:2001:D08:2900:FC70:A681:978A:A1C0:CA9E|talk]]) Could not find source to back up claim
+2023-07-04T08:56:12+00:00,1163337186,1157373575,0,2001:D08:2930:6FC7:8B8D:83CE:9725:9D20,Tawau,/* Ethnicity and religion */
+2023-09-25T11:55:55+00:00,1177015508,1171502136,0,John of Reading,Tangkak,"/* Developments */Typo fixing, replaced: were administratively were → were administratively"
+2024-01-02T11:38:25+00:00,1193164783,1192017097,0,Night Lantern,Tawau,update outdated info
+2023-10-10T00:29:02+00:00,1179417234,1179417170,0,Tellisavas,Terengganu,
+2024-01-23T00:50:28+00:00,1198106802,1198106516,0,Lemonaka,Terengganu,Reverted edits by [[Special:Contributions/2001:D08:1B94:381C:1948:42D6:A694:3159|2001:D08:1B94:381C:1948:42D6:A694:3159]] ([[User talk:2001:D08:1B94:381C:1948:42D6:A694:3159|talk]]) ([[WP:AntiVandal|AV]])
+2023-06-16T16:05:56+00:00,1160458203,1159451916,0,Rodw,Terengganu,Disambiguating links to [[Pattani]] (link changed to [[Patani (historical region)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2023-05-09T13:09:15+00:00,1153974393,1152762373,0,Akramgl1479,Terengganu,
+2023-04-06T06:56:19+00:00,1148450925,1137703208,0,Niceguyedc,Tumpat District,v2.05 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Tumpat]]
+2022-09-10T11:38:48+00:00,1109526132,1106619593,0,Muhammad Danish Bin Yusri,Yan District,

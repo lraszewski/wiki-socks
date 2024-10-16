@@ -1,0 +1,512 @@
+timestamp,revid,parentid,sock,user,page,message
+2011-07-23T02:37:53+00:00,440932630,440931781,1,Bopomofo,Action at a distance,/* Direct current */
+2011-07-23T02:36:05+00:00,440932466,440932394,1,Bopomofo,Tachyon,/* Tachyons in surface waves */
+2011-07-23T02:35:21+00:00,440932394,440931759,1,Bopomofo,Tachyon,/* Tachyons in good conductors */
+2011-07-23T02:25:41+00:00,440931269,440923375,1,Bopomofo,Action at a distance,/* Direct current in Metals */
+2011-07-23T02:21:31+00:00,440930779,440930699,1,Bopomofo,Superluminal motion,/* Surface Waves */
+2011-07-23T02:20:51+00:00,440930699,440930504,1,Bopomofo,Superluminal motion,/* Tachyons in Metals */
+2011-07-23T02:19:08+00:00,440930504,440789010,1,Bopomofo,Superluminal motion,/* Low frequency field in good conductors */
+2011-07-23T02:10:50+00:00,440929482,440929094,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T02:07:16+00:00,440929094,440928963,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T02:05:50+00:00,440928963,440928791,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T02:04:08+00:00,440928791,440928571,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T02:01:54+00:00,440928571,440928458,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T02:00:40+00:00,440928458,440928110,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:57:13+00:00,440928110,440927846,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:54:42+00:00,440927846,440927730,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:53:43+00:00,440927730,440927366,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:50:26+00:00,440927366,440927151,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:48:33+00:00,440927151,440926827,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:45:19+00:00,440926827,440926572,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:42:47+00:00,440926572,440926333,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:40:14+00:00,440926333,440926240,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:39:17+00:00,440926240,440926169,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:38:38+00:00,440926169,440926099,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:37:44+00:00,440926099,440925843,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:35:13+00:00,440925843,440925743,1,Bopomofo,Tachyon,/* Tachyons in surface waves */
+2011-07-23T01:34:23+00:00,440925743,440925543,1,Bopomofo,Tachyon,/* Tachyons in good conductors */
+2011-07-23T01:31:26+00:00,440925469,440925264,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:29:21+00:00,440925264,440925168,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:28:18+00:00,440925168,440788719,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-23T01:17:51+00:00,440924125,440923823,1,Bopomofo,Abraham–Minkowski controversy,/* Experimental evidence */
+2011-07-23T01:15:13+00:00,440923823,440785320,1,Bopomofo,Abraham–Minkowski controversy,/* Experimental evidence */
+2011-07-23T01:10:49+00:00,440923375,440788578,1,Bopomofo,Action at a distance,/* Direct current in Metals */
+2011-07-22T07:15:41+00:00,440791134,440790844,1,Bopomofo,Superluminal communication,
+2011-07-22T07:12:47+00:00,440790844,440790566,1,Bopomofo,Superluminal communication,
+2011-07-22T07:09:56+00:00,440790566,439670856,1,Bopomofo,Superluminal communication,
+2011-07-22T06:54:40+00:00,440789010,440784155,1,Bopomofo,Superluminal motion,/* Low frequency field in good conductors */
+2011-07-22T06:51:15+00:00,440788719,440782936,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T06:49:46+00:00,440788578,440788470,1,Bopomofo,Action at a distance,/* Direct current in Metals */
+2011-07-22T06:48:52+00:00,440788470,440788422,1,Bopomofo,Action at a distance,/* Direct current in Metals */
+2011-07-22T06:48:19+00:00,440788422,440788351,1,Bopomofo,Action at a distance,/* Direct current in Metals */
+2011-07-22T06:47:44+00:00,440788351,440788031,1,Bopomofo,Action at a distance,/* Direct current in Metals */
+2011-07-22T06:44:49+00:00,440788031,436786805,1,Bopomofo,Action at a distance,/* Direct current */
+2011-07-22T06:33:27+00:00,440786986,440786837,1,Bopomofo,Transformation optics,/* Coordinate transformations */
+2011-07-22T06:31:53+00:00,440786837,440786797,1,Bopomofo,Transformation optics,/* Coordinate transformations */
+2011-07-22T06:31:25+00:00,440786797,440786700,1,Bopomofo,Transformation optics,/* Coordinate transformations */
+2011-07-22T06:30:21+00:00,440786700,440786475,1,Bopomofo,Transformation optics,/* Coordinate transformations */
+2011-07-22T06:27:53+00:00,440786475,440786385,1,Bopomofo,Transformation optics,/* Coordinate transformations */
+2011-07-22T06:26:55+00:00,440786385,440786260,1,Bopomofo,Transformation optics,/* Coordinate transformations */
+2011-07-22T06:25:29+00:00,440786260,440786131,1,Bopomofo,Transformation optics,/* Coordinate transformations */
+2011-07-22T06:24:00+00:00,440786131,440786038,1,Bopomofo,Transformation optics,/* Coordinate transformations */
+2011-07-22T06:23:02+00:00,440786038,426989261,1,Bopomofo,Transformation optics,/* Coordinate transformations */
+2011-07-22T06:13:53+00:00,440785320,440785180,1,Bopomofo,Abraham–Minkowski controversy,/* Experimental evidence */
+2011-07-22T06:12:06+00:00,440785180,440784893,1,Bopomofo,Abraham–Minkowski controversy,/* Experimental evidence */
+2011-07-22T06:08:55+00:00,440784893,439099317,1,Bopomofo,Abraham–Minkowski controversy,/* Experimental evidence */
+2011-07-22T06:00:42+00:00,440784155,440783987,1,Bopomofo,Superluminal motion,/* Low frequency field in good conductors */
+2011-07-22T05:58:40+00:00,440783987,440783901,1,Bopomofo,Superluminal motion,/* Low frequency field in good conductors */
+2011-07-22T05:57:33+00:00,440783901,440760147,1,Bopomofo,Superluminal motion,/* Surface Waves */
+2011-07-22T05:47:44+00:00,440782936,440782724,1,Bopomofo,Tachyon,/* Tachyons in surface waves */
+2011-07-22T05:45:04+00:00,440782724,440782332,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T05:40:36+00:00,440782332,440781700,1,Bopomofo,Tachyon,/* Tachyons in surface waves */
+2011-07-22T05:33:46+00:00,440781700,440780580,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T05:20:40+00:00,440780580,440780435,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T05:19:13+00:00,440780435,440779909,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T05:13:54+00:00,440779909,440779334,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T05:08:24+00:00,440779334,440778362,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T04:59:49+00:00,440778362,440777807,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T04:54:00+00:00,440777807,440777080,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T04:47:04+00:00,440777080,440760856,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T02:12:44+00:00,440760856,440759733,1,Bopomofo,Tachyon,/* Tachyons in Metals */
+2011-07-22T02:06:00+00:00,440760126,437245912,1,Bopomofo,Superluminal motion,/* Low frequency field in good conductors */
+2011-07-22T01:59:12+00:00,440759333,440227929,1,Bopomofo,Tachyon,/* Tachyons in good conductors */
+2011-06-12T07:06:58+00:00,433845792,430431886,1,Bopomofo,Introduction to special relativity,
+2011-06-12T07:00:03+00:00,433845311,433733161,1,Bopomofo,Special relativity,
+2011-06-12T06:53:29+00:00,433844886,433844575,1,Bopomofo,Lorentz transformation,/* Extensions of Lorentz transformations */
+2011-06-12T06:49:05+00:00,433844575,433843455,1,Bopomofo,Lorentz transformation,/* Extensions of Lorentz transformations */
+2011-06-12T06:34:44+00:00,433843455,433301554,1,Bopomofo,Lorentz transformation,
+2011-06-12T06:20:29+00:00,433842235,433842101,1,Bopomofo,Abraham–Minkowski controversy,/* Crucial Experiment */
+2011-06-12T06:19:04+00:00,433842101,433841965,1,Bopomofo,Abraham–Minkowski controversy,/* Crucial Experiment */
+2011-06-12T06:17:08+00:00,433841965,433841736,1,Bopomofo,Abraham–Minkowski controversy,/* Crucial Experiment */
+2011-06-12T06:14:10+00:00,433841736,433841519,1,Bopomofo,Abraham–Minkowski controversy,/* Crucial Experiment */
+2011-06-12T06:11:05+00:00,433841519,433840897,1,Bopomofo,Abraham–Minkowski controversy,/* Crucial Experiment */
+2011-06-12T06:04:39+00:00,433840897,426065966,1,Bopomofo,Abraham–Minkowski controversy,/* Crucial Experiment */
+2011-06-12T01:53:41+00:00,433813518,432332498,1,Bopomofo,Superluminal motion,/* Low frequency field in good conductors */
+2011-06-12T01:52:29+00:00,433813377,433424168,1,Bopomofo,Superluminal communication,/* Low frequency electromagnetic fields in good conductors */
+2011-06-12T01:50:11+00:00,433813085,433812891,1,Bopomofo,Action at a distance,/* Direct current */
+2011-06-12T01:48:29+00:00,433812891,433588641,1,Bopomofo,Action at a distance,/* Direct current */
+2011-06-12T01:38:39+00:00,433811708,433249907,1,Bopomofo,Tachyon,/* Tachyons in good conductors */
+2011-06-12T01:31:38+00:00,433810935,433767112,1,Bopomofo,Faster-than-light,/* Energy flow velocities above c */
+2011-06-03T03:18:25+00:00,432287557,432287286,1,Bopomofo,Surface wave,/* Energy flow velocity */
+2011-06-03T03:15:52+00:00,432287286,432286774,1,Bopomofo,Surface wave,/* Energy velocity */
+2011-06-03T03:10:51+00:00,432286774,431446754,1,Bopomofo,Surface wave,/* Energy velocity */
+2011-06-03T03:05:55+00:00,432286283,431605034,1,Bopomofo,Superluminal communication,/* surface waves */
+2011-06-03T03:05:13+00:00,432286207,432244347,1,Bopomofo,Superluminal motion,/* Surface Waves */
+2011-05-30T06:37:12+00:00,431608491,428972767,1,Bopomofo,Action at a distance,
+2011-05-30T06:11:38+00:00,431606256,431606207,1,Bopomofo,Faster-than-light,/* Good conductors */
+2011-05-30T06:10:55+00:00,431606207,431457619,1,Bopomofo,Faster-than-light,/* Good conductors */
+2011-05-30T06:07:21+00:00,431605910,431447827,1,Bopomofo,Superluminal motion,/* Others */
+2011-05-30T05:58:07+00:00,431605034,431541984,1,Bopomofo,Superluminal communication,/* Low frequency electromagnetic fields in good conductors */
+2011-05-29T08:40:17+00:00,431456580,431455269,1,Bopomofo,Superluminal communication,/* Low frequency electromagnetic field in good conductors */
+2011-05-29T08:22:55+00:00,431455269,431454998,1,Bopomofo,Superluminal communication,/* Low frequency electromagnetic field in good conductors */
+2011-05-29T08:19:49+00:00,431454998,431454914,1,Bopomofo,Superluminal communication,/* Low frequency electromagnetic field in good conductors */
+2011-05-29T08:18:45+00:00,431454914,431454606,1,Bopomofo,Superluminal communication,/* Low frequency electromagnetic field in good conductors */
+2011-05-29T08:15:31+00:00,431454606,430896140,1,Bopomofo,Superluminal communication,
+2011-05-29T08:08:13+00:00,431454027,431453598,1,Bopomofo,Tachyon,/* Tachyons in Good conductors */
+2011-05-29T08:03:46+00:00,431453598,431453440,1,Bopomofo,Tachyon,/* Tachyons in Good conductors */
+2011-05-29T08:01:41+00:00,431453440,431453354,1,Bopomofo,Tachyon,/* Tachyons in surface electromagnetic waves */
+2011-05-29T08:00:42+00:00,431453354,431453170,1,Bopomofo,Tachyon,/* Tachyons in surface electromagnetic waves */
+2011-05-29T07:58:26+00:00,431453170,430923180,1,Bopomofo,Tachyon,
+2011-05-29T07:50:48+00:00,431452599,431452287,1,Bopomofo,Faster-than-light,/* Good conductors */
+2011-05-29T07:46:33+00:00,431452287,431451843,1,Bopomofo,Faster-than-light,/* Good conductors */
+2011-05-29T07:40:38+00:00,431451843,431450949,1,Bopomofo,Faster-than-light,/* Good conductors */
+2011-05-29T07:28:33+00:00,431450949,431450550,1,Bopomofo,Faster-than-light,/* Good conductors */
+2011-05-29T07:23:10+00:00,431450550,431446327,1,Bopomofo,Faster-than-light,/* FTL communication possibility */
+2011-05-29T06:50:02+00:00,431447827,416867934,1,Bopomofo,Superluminal motion,
+2011-05-29T06:36:07+00:00,431446754,422801128,1,Bopomofo,Surface wave,/* Energy flow velocity */
+2011-05-29T06:31:19+00:00,431446327,431406181,1,Bopomofo,Faster-than-light,
+2011-03-13T03:11:00+00:00,418556324,418555768,1,Bopomofo,Abraham–Minkowski controversy,
+2011-03-13T03:06:41+00:00,418555768,418555509,1,Bopomofo,Abraham–Minkowski controversy,
+2011-03-13T03:04:34+00:00,418555509,418553995,1,Bopomofo,Abraham–Minkowski controversy,
+2011-03-13T02:51:04+00:00,418553995,418553716,1,Bopomofo,Abraham–Minkowski controversy,
+2011-03-13T02:48:35+00:00,418553716,418553358,1,Bopomofo,Abraham–Minkowski controversy,
+2011-03-13T02:45:23+00:00,418553358,418553181,1,Bopomofo,Abraham–Minkowski controversy,
+2011-03-13T02:43:56+00:00,418553181,418552729,1,Bopomofo,Abraham–Minkowski controversy,
+2011-03-13T02:40:44+00:00,418552729,418551373,1,Bopomofo,Abraham–Minkowski controversy,
+2011-03-13T02:28:27+00:00,418551373,418551181,1,Bopomofo,Abraham–Minkowski controversy,/* Crucial Experiment */
+2011-03-13T02:26:50+00:00,418551181,415460695,1,Bopomofo,Abraham–Minkowski controversy,To add a latest experiment to resolve this puzzle.
+2011-02-19T07:28:22+00:00,414748536,414748275,1,Bopomofo,Surface wave,/* Energy flow velocity */
+2011-02-19T07:26:00+00:00,414748275,414748102,1,Bopomofo,Surface wave,/* Energy faster than light */
+2011-02-19T07:24:11+00:00,414748102,414723347,1,Bopomofo,Surface wave,/* Velocity of Energy flow */
+2011-02-19T07:01:21+00:00,414746316,414746239,1,Bopomofo,Total internal reflection,/* Superluminal energy flow */
+2011-02-19T07:00:24+00:00,414746239,414743598,1,Bopomofo,Total internal reflection,/* Energy flow velocity */
+2011-02-19T06:55:03+00:00,414745828,414715904,1,Bopomofo,Faster-than-light,/* Energy flow velocities above c */
+2011-02-19T06:48:10+00:00,414745251,414744734,1,Bopomofo,Tachyon,
+2011-02-19T06:42:48+00:00,414744734,414579142,1,Bopomofo,Tachyon,/* Surface Electromagnetic Wave */
+2011-02-19T06:39:17+00:00,414744405,414744348,1,Bopomofo,Goos–Hänchen effect,/* Energy flow faster than light */
+2011-02-19T06:38:42+00:00,414744348,414743837,1,Bopomofo,Goos–Hänchen effect,/* Superluminal Energy flow */
+2011-02-19T06:33:27+00:00,414743837,414739328,1,Bopomofo,Goos–Hänchen effect,/* Velocity of Energy flow */
+2011-02-19T06:30:32+00:00,414743598,414743442,1,Bopomofo,Total internal reflection,/* Energy flow velocity */
+2011-02-19T06:28:37+00:00,414743442,414743361,1,Bopomofo,Total internal reflection,/* Velocity of Energy flow */
+2011-02-19T06:27:42+00:00,414743361,414743284,1,Bopomofo,Total internal reflection,/* Velocity of Energy flow */
+2011-02-19T06:26:46+00:00,414743284,413744789,1,Bopomofo,Total internal reflection,
+2011-02-19T05:43:07+00:00,414739328,414723874,1,Bopomofo,Goos–Hänchen effect,
+2011-02-19T01:53:32+00:00,414715904,414715815,1,Bopomofo,Faster-than-light,/* Energy flow velocities above c */
+2011-02-19T01:52:31+00:00,414715815,414575007,1,Bopomofo,Faster-than-light,/* Energy flow velocities above c */
+2011-02-18T07:29:28+00:00,414584124,413812514,1,Bopomofo,Goos–Hänchen effect,
+2011-02-18T07:24:21+00:00,414583726,414576932,1,Bopomofo,Surface wave,/* Rate of Energy flow */
+2011-02-18T06:30:33+00:00,414579142,414576133,1,Bopomofo,Tachyon,/* Surface Electromagnetic Wave */
+2011-02-18T06:06:42+00:00,414576932,414576765,1,Bopomofo,Surface wave,/* Rate of Energy flow */
+2011-02-18T06:04:39+00:00,414576765,414555173,1,Bopomofo,Surface wave,/* Rate of Energy flow */
+2011-02-18T05:58:37+00:00,414576133,414576029,1,Bopomofo,Tachyon,/* Surface Electromagnetic Wave */
+2011-02-18T05:57:40+00:00,414576029,414552538,1,Bopomofo,Tachyon,/* Surface Electromagnetic Wave */
+2011-02-18T05:49:10+00:00,414575007,414555856,1,Bopomofo,Faster-than-light,/* Energy flow velocities above c */
+2011-02-18T03:08:17+00:00,414555856,414550140,1,Bopomofo,Faster-than-light,/* Energy flow velocities above c */
+2011-02-18T03:02:35+00:00,414555173,414555005,1,Bopomofo,Surface wave,/* Rate of Energy flow */
+2011-02-18T03:01:06+00:00,414555005,414554187,1,Bopomofo,Surface wave,/* Rate of Energy flow */
+2011-02-18T02:54:57+00:00,414554187,412359202,1,Bopomofo,Surface wave,/* Electromagnetic waves */
+2011-02-18T02:42:58+00:00,414552538,414549584,1,Bopomofo,Tachyon,/* Surface Electromagnetic Wave */
+2011-02-18T02:23:45+00:00,414550140,414545044,1,Bopomofo,Faster-than-light,/* Energy flow velocities above c */
+2011-02-18T02:19:54+00:00,414549584,414549259,1,Bopomofo,Tachyon,/* Surface Electromagnetic Wave */
+2011-02-18T02:17:16+00:00,414549259,414548623,1,Bopomofo,Tachyon,/* Surface Electromagnetic Wave */
+2011-02-18T02:12:42+00:00,414548623,414548441,1,Bopomofo,Tachyon,/* Surface Electromagnetic Wave */
+2011-02-18T02:11:25+00:00,414548441,414547367,1,Bopomofo,Tachyon,/* Surface Electromagnetic Wave */
+2011-02-18T02:02:26+00:00,414547367,413725578,1,Bopomofo,Tachyon,/* Properties */
+2011-02-18T01:44:51+00:00,414545044,414544829,1,Bopomofo,Faster-than-light,/* Energy flow velocities above c */
+2011-02-18T01:43:18+00:00,414544829,414544693,1,Bopomofo,Faster-than-light,/* Energy transport velocities above c */
+2011-02-18T01:42:25+00:00,414544693,414544651,1,Bopomofo,Faster-than-light,/* Energy transport velocities above c */
+2011-02-18T01:42:07+00:00,414544651,414398123,1,Bopomofo,Faster-than-light,/* Energy transport velocities above c */
+2011-02-17T08:13:04+00:00,414398123,414398065,1,Bopomofo,Faster-than-light,/* Energy transport velocities above c */
+2011-02-17T08:12:22+00:00,414398065,414140724,1,Bopomofo,Faster-than-light,/* FTL phenomena */
+2011-10-17T09:01:59+00:00,455979191,452069451,1,Bobo123456,Action at a distance,Add new references
+2011-10-09T06:37:14+00:00,454670189,454440462,1,Bobo123456,Special relativity,Add 4 newest references.
+2011-10-08T02:50:53+00:00,454487390,454442520,1,Bobo123456,Tachyon,/* Effective tachyons in good conductors */ Add formulations
+2011-10-07T02:42:29+00:00,454329567,453724476,1,Bobo123456,Faster-than-light,"/* Phase velocities below c */ The datum ""1/a=0.85cm"" is in Jackson's textbook and not Ref13"
+2011-10-06T01:27:50+00:00,454165431,454147136,1,Bobo123456,Tachyon,/* Effective tachyons in good conductors */ Link to the newest version of Reference21
+2011-10-06T01:19:17+00:00,454164555,454164387,1,Bobo123456,Phase velocity,/* Slow phase velocity and superluminality */ Update to the newest version of Reference3
+2011-10-06T01:17:44+00:00,454164387,452677808,1,Bobo123456,Phase velocity,/* Slow phase velocity and superluminality */ Update to the newest version of Reference3
+2011-10-04T06:57:03+00:00,453849637,452870039,1,Bobo123456,Lorentz transformation,Add a new reference
+2011-10-01T02:32:53+00:00,453306102,448443224,1,Bobo123456,Abraham–Minkowski controversy,/* Experimental evidence */ Update the reference
+2011-09-26T05:53:47+00:00,452477400,452476522,1,Bobo123456,Faster-than-light,/* Time of flight of neutrinos */ Add a paper to predict the faster-than-light neutrino published in 1985.
+2011-09-26T05:44:33+00:00,452476522,452474742,1,Bobo123456,Faster-than-light,To introduce a new paper below the recent report of FTL neutrinos
+2011-09-29T09:08:23+00:00,453019579,452915809,1,Dyetsu,Faster-than-light,/* FTL travel of non-information */ Add a new reference to discuss the relation between a subluminal phase velocity and FTL.
+2011-09-24T07:01:37+00:00,452153570,452023627,1,Dyetsu,Tachyon,/* Tachyons in good conductors */ To correct the link of reference18
+2011-08-15T06:13:44+00:00,444927448,444864203,1,Hstdgrypk,Alternating current,
+2011-08-11T04:45:46+00:00,444200705,443982854,1,Hstdgrypk,Tachyon,/* Tachyons in good conductors */ Update a reference
+2011-08-08T05:06:58+00:00,443625908,443351909,1,Hstdgrypk,Faster-than-light,To add formulations
+2011-08-19T06:27:20+00:00,445627233,445168398,1,Stehgdop,Neutrino,/* Speed */ To add a reference.
+2011-08-19T01:55:41+00:00,445599446,444660015,1,Stehgdop,Drift velocity,/* Numerical example */
+2011-08-04T06:55:14+00:00,442973000,438071035,1,Zgstehdyp,Speed of electricity,/* Electromagnetic waves */ To add references to study this topic and paste formulations.
+2011-08-03T05:13:46+00:00,442794061,442489146,1,Zgstehdyp,Electric power transmission,I introduce new papers and Jackson's textbook to discuss the velocity to transmit electric energy along metal wires to readers of Wiki.
+2011-08-03T04:59:56+00:00,442792575,442792461,1,Zgstehdyp,Action at a distance,/* Direct current */ spelling mistake
+2011-08-03T04:58:52+00:00,442792461,442792130,1,Zgstehdyp,Action at a distance,/* Direct current */ To check errors in new mathematical expressions
+2011-08-03T04:56:10+00:00,442792130,442627010,1,Zgstehdyp,Action at a distance,/* Direct current */ There have no formulations in the text so I add for convenience.
+2011-08-02T05:17:13+00:00,442627010,440935438,1,Zgstehdyp,Action at a distance,/* Direct current */ The text is not modified. A new reference is to replace that cited in the old edition.
+2011-08-02T05:05:35+00:00,442625929,437218987,1,Zgstehdyp,Tachyon condensation,A recent paper is to discuss whether there exist tachyons in macroscopical world so I cite and introduce the idea to readers of Wiki.
+2011-08-01T09:09:59+00:00,442481181,442481014,1,Zgstehdyp,Electric power transmission,/* Faster than light transmission */
+2011-08-01T09:08:03+00:00,442481014,442480883,1,Zgstehdyp,Electric power transmission,/* Faster than light transmission */
+2011-08-01T09:06:21+00:00,442480883,442480736,1,Zgstehdyp,Electric power transmission,/* Faster than light transmission */
+2011-08-01T09:04:56+00:00,442480736,442480543,1,Zgstehdyp,Electric power transmission,/* Faster than light transmission */
+2011-08-01T09:02:23+00:00,442480543,442480109,1,Zgstehdyp,Electric power transmission,/* Faster than light transmission */
+2011-08-01T08:56:03+00:00,442480109,442479721,1,Zgstehdyp,Electric power transmission,/* Faster than light transmission */
+2011-08-01T08:51:09+00:00,442479721,442479388,1,Zgstehdyp,Electric power transmission,/* Faster than light transmission */
+2011-08-01T08:47:26+00:00,442479388,441465677,1,Zgstehdyp,Electric power transmission,
+2011-07-30T06:29:29+00:00,442161962,442159472,1,Zgstehdyp,Phase velocity,/* Slow phase velocity and superluminality */
+2011-07-30T05:58:56+00:00,442159472,442159360,1,Zgstehdyp,Phase velocity,/* Low phase velocity and superluminality */
+2011-07-30T05:57:24+00:00,442159360,442159315,1,Zgstehdyp,Phase velocity,/* Low phase velocity and superluminality */
+2011-07-30T05:56:50+00:00,442159315,442159224,1,Zgstehdyp,Phase velocity,/* Low phase velocity and superluminality */
+2011-07-30T05:55:32+00:00,442159224,442159135,1,Zgstehdyp,Phase velocity,/* Low phase velocity and superluminality */
+2011-07-30T05:54:10+00:00,442159135,441157484,1,Zgstehdyp,Phase velocity,
+2011-07-29T05:05:02+00:00,441988413,441988355,1,Zgstehdyp,Faster-than-light,/* Energy velocities above c */
+2011-07-29T05:04:26+00:00,441988355,441988145,1,Zgstehdyp,Faster-than-light,/* Energy velocities above c */
+2011-07-29T05:02:15+00:00,441988145,441941230,1,Zgstehdyp,Faster-than-light,/* Energy velocities above c */
+2011-07-29T01:46:24+00:00,441970378,441767762,1,Zgstehdyp,Tachyon,/* Speed */
+2011-07-28T04:51:34+00:00,441818332,441529259,1,Zgstehdyp,Faster-than-light,/* Energy velocities above c */
+2011-07-27T04:51:11+00:00,441656367,441656244,1,Zgstehdyp,Tachyon,/* Tachyons in good conductors */
+2011-07-27T04:50:06+00:00,441656244,441655824,1,Zgstehdyp,Tachyon,/* Tachyons in good conductors */
+2011-07-27T04:45:51+00:00,441655824,440935763,1,Zgstehdyp,Tachyon,/* Tachyons in good conductors */
+2011-07-26T02:50:12+00:00,441460680,441429242,1,Zgstehdyp,Faster-than-light,/* FTL travel of non-information */
+2011-03-30T14:45:39+00:00,421490394,418556324,0,Headbomb,Abraham–Minkowski controversy,cleanup (PR journals references) using [[Project:AWB|AWB]]
+2011-09-04T18:23:22+00:00,448443224,447899270,0,D.H,Abraham–Minkowski controversy,Sources
+2011-07-25T23:25:36+00:00,441435677,440924125,0,Derek Ross,Abraham–Minkowski controversy,/* Experimental evidence */ gr
+2011-04-26T19:18:12+00:00,426065966,424650208,0,Bibcode Bot,Abraham–Minkowski controversy,"Converting 0 ""id = {{arxiv|...}}"" to ""|arxiv=..."". Adding 1 [[arXiv|arXiv eprint]](s), 0 [[bibcode]](s) and 0 [[digital object identifier|doi]](s). Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2011-02-23T05:39:02+00:00,415460695,408090136,0,RjwilmsiBot,Abraham–Minkowski controversy,Per [[WP:ISBN]] formatted 1 ISBNs using [[Project:AWB|AWB]] (7609)
+2011-07-12T15:17:37+00:00,439099317,437302221,0,Derek Ross,Abraham–Minkowski controversy,/* Crucial Experiment */ Doesn't seem particularly crucial. Certainly didn't resolve the controversy.
+2011-07-01T22:18:40+00:00,437302221,435967290,0,Wilhelmina Will,Abraham–Minkowski controversy,Completed copyedit.
+2011-04-15T23:22:15+00:00,424282892,424282825,0,Vectorhat,Action at a distance,
+2011-08-15T12:08:43+00:00,444961974,444434525,0,RibotBOT,Action at a distance,robot Adding: [[kk:Жақыннан әсер ету]]
+2011-06-29T03:37:40+00:00,436786805,436501919,0,Syhon,Action at a distance,/* Electricity */ Grammar fix.
+2011-09-23T18:50:26+00:00,452069451,450271722,0,Trilobitealive,Action at a distance,/* Quantum mechanics */ wikilink
+2011-07-23T03:04:16+00:00,440935438,440932630,0,Drmies,Action at a distance,"Reverted 1 edit by [[Special:Contributions/Bopomofo|Bopomofo]] ([[User talk:Bopomofo|talk]]): It's clear now what this is: spamming for this article, http://www.sciencedirect.com/science/article/pii/S0030401810013593. ([[WP:TW|TW]])"
+2011-01-21T23:48:15+00:00,409259177,409259085,0,EdJohnston,Action at a distance,Add semi-protection template
+2011-08-31T19:45:35+00:00,447712042,447702057,0,137.53.92.224,Action at a distance,
+2011-06-02T15:28:40+00:00,432191225,431608491,0,128.54.45.155,Action at a distance,[[WP:NAME]]
+2011-05-13T19:48:37+00:00,428972767,425975292,0,160.79.66.130,Action at a distance,/* Newton */  fixed typo
+2011-04-26T08:09:41+00:00,425975292,425394279,0,Bibcode Bot,Action at a distance,"Converting 0 ""id = {{arxiv|...}}"" to ""|arxiv=..."". Adding 0 [[arXiv|arXiv eprint]](s), 1 [[bibcode]](s) and 0 [[digital object identifier|doi]](s). Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2011-08-12T13:00:53+00:00,444434525,443043737,0,80.94.164.195,Action at a distance,
+2011-04-11T20:37:30+00:00,423572324,423571885,0,Citation bot,Action at a distance,"[336]+: author1, title, year, pages, volume, journal, arxiv, last1, first1, last2, first2, last3, first3, issue, doi. Formatted [[WP:ENDASH|dashes]]."
+2011-09-13T10:38:40+00:00,450271722,450094332,0,38.99.102.165,Action at a distance,
+2011-08-04T17:15:44+00:00,443043737,442792575,0,FyzixFighter,Action at a distance,/* Direct current */ removing section of bad physics
+2011-08-23T13:13:39+00:00,446314055,445599446,0,110.49.226.217,Drift velocity,"rvv ""tachyon"" edit by [[Special:Contributions/Stehgdop|Stehgdop]]"
+2011-02-12T23:41:18+00:00,413582991,413194477,0,Yobot,Alternating current,[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7579)
+2011-06-28T17:20:06+00:00,436704621,436703475,0,Andy Dingley,Alternating current,rvv.
+2011-06-15T13:57:35+00:00,434411467,432210201,0,164.106.201.50,Drift velocity,/* Derivation */
+2011-09-23T18:12:40+00:00,452062883,451773555,0,Jo3sampl,Electric power transmission,typo
+2011-07-20T02:46:10+00:00,440414865,440135938,0,203.44.132.76,Electric power transmission,"/* Health concerns */  fixed dead WHO link, clean up and simplified terms"
+2011-06-29T17:19:09+00:00,436884767,436570523,0,Casonsnow,Electric power transmission,Added links to relevant Wikipedia pages for some of the Northeast blackouts.
+2011-09-18T07:39:04+00:00,451105317,448503541,0,Pawyilee,Electric power transmission,rearranged blackout dates ; added Great Black out of 2011 ; See also */ * [[Path 27]] and [[Path 46]]
+2011-03-24T21:11:51+00:00,420555925,420554904,0,SmackBot,Electric power transmission,Dated {{Page needed}}. (Build p608)
+2011-02-22T00:04:07+00:00,415229834,415224862,0,70.189.170.229,Electric power transmission,link
+2011-08-03T10:46:16+00:00,442826090,442825387,0,Helpful Pixie Bot,Electric power transmission,Dated {{Disputed-section}}. (Build p613)
+2011-05-25T17:51:16+00:00,430880451,429950490,0,192.251.13.62,Electric power transmission,"""near to"" should have just been ""near"" - grammar error (someone probably replaced ""close to"" with ""near"" but left in the ""to"""
+2011-06-27T21:35:58+00:00,436570523,436555788,0,Wtshymanski,Electric power transmission,sp; restore commented out section
+2011-07-13T04:31:46+00:00,439206386,439205723,0,TorontoFever,Faster-than-light,/* Scientific links */
+2011-09-05T02:18:45+00:00,448503541,448503449,0,Truthunmasked,Electric power transmission,/* Health concerns */
+2011-03-31T13:09:57+00:00,421646057,421403003,0,Wtshymanski,Electric power transmission,merged
+2011-10-11T00:02:33+00:00,454957574,454940955,0,FrescoBot,Faster-than-light,Bot: [[User:FrescoBot/Links|link syntax/spacing]] and minor changes
+2011-04-30T16:10:01+00:00,426741790,426735588,0,EncMstr,Electric power transmission,Undid addition by [[Special:Contributions/62.200.86.169|62.200.86.169]] ([[User talk:62.200.86.169|talk]]):  this is the English Wikipedia
+2011-05-12T04:44:37+00:00,428699933,427230792,0,85.185.186.62,Electric power transmission,/* Losses */
+2011-10-06T18:39:25+00:00,454271703,452603852,0,Ortonmc,Electric power transmission,/* Health concerns */ grammar
+2011-04-29T14:41:36+00:00,426568102,426567880,0,Headbomb,Faster-than-light,/* Daily motion of the Heavens */ ce
+2011-03-08T21:32:51+00:00,417849198,417849167,0,Epbr123,Faster-than-light,Reverted edits by [[Special:Contributions/216.138.228.158|216.138.228.158]] ([[User talk:216.138.228.158|talk]]) to last revision by Martin Hogbin ([[WP:HG|HG]])
+2011-10-03T16:43:56+00:00,453724476,453573267,0,Uioplk,Faster-than-light,/* Apparent FTL propagation of static field effects */ created a nice-looking shortcut 4 that section
+2011-04-23T16:05:37+00:00,425513684,425472348,0,Bibcode Bot,Faster-than-light,"Converting 0 ""id = {{arxiv|...}}"" to ""|arxiv=..."". Adding 0 [[arXiv|arXiv eprint]](s), 12 [[bibcode]](s) and 0 [[digital object identifier|doi]](s). Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2011-02-21T17:21:27+00:00,415160424,414745828,0,Sbharris,Faster-than-light,"Move all well-accepted effects that do not violated supraluminal communication, to the front of the article where they are first mentioned"
+2011-02-22T06:19:25+00:00,415277009,415191719,0,Sbharris,Faster-than-light,/* Apparent FTL propagation of static field effects */
+2011-05-25T05:40:13+00:00,430797380,430494307,0,83.249.90.134,Faster-than-light,fixed the wording
+2011-03-20T13:18:49+00:00,419792086,419692736,0,Headbomb,Faster-than-light,/* Hartman effect */clean up using [[Project:AWB|AWB]]
+2011-09-23T18:36:46+00:00,452067001,452053971,0,66.250.191.192,Faster-than-light,/* Claimed detections of faster-than-light */
+2011-08-18T02:07:33+00:00,445434731,445430420,0,131.170.90.6,Faster-than-light,/* How far can one travel from the Earth? */
+2011-08-10T01:20:36+00:00,443973267,443950468,0,Trovatore,Faster-than-light,"""C-plus"" is as far as I know specific to Fred Saberhagen's [[Berserker]] series"
+2011-03-23T13:26:31+00:00,420316558,419792086,0,Roger491127,Faster-than-light,/* Proper speeds */ copied from http://en.wikipedia.org/wiki/Special_relativity
+2011-07-07T15:33:29+00:00,438255178,438253789,0,Hairy Dude,Faster-than-light,/* Lorentz symmetry violation */ spacing
+2011-10-01T10:59:49+00:00,453352424,453297281,0,198.54.202.154,Faster-than-light,"/* Apparent FTL propagation of static field effects */  this section is too big must be significantly shortened. Please, create a separate page with all details. Leave here only essential  *facts*."
+2011-08-06T14:28:40+00:00,443351909,442959222,0,Javalenok,Faster-than-light,/* Closing speeds */
+2011-09-26T19:25:23+00:00,452569971,452549233,0,Visuall,Faster-than-light,"Added image ""The result of [[OPERA experiment]]"" to ""[[#Time of flight of neutrinos|Time of flight of neutrinos]]"" section."
+2011-02-27T02:30:35+00:00,416139641,416134253,0,Ensnaregod,Faster-than-light,/* Apparent FTL propagation of static field effects */
+2011-08-01T14:36:14+00:00,442516198,442515155,0,HumphreyW,Faster-than-light,/* See also */ See also should not have red links.
+2011-07-01T21:00:58+00:00,437291429,436781882,0,Sbharris,Faster-than-light,/* Apparent FTL propagation of static field effects */ Cut this section down per TALK
+2011-06-18T21:59:29+00:00,434997335,434997109,0,Citation bot,Faster-than-light,[338]+: issue. Formatted [[WP:ENDASH|dashes]].
+2011-06-03T23:52:22+00:00,432439603,432379729,0,Martin Hogbin,Faster-than-light,"/* Good conductors */ Highly speculative, please discuss"
+2011-05-21T20:14:26+00:00,430244278,430243832,0,174.119.182.107,Faster-than-light,"/* Give up causality */ delete bit about expanding universe -- out of place, maybe leftover from older version, and better explained in later subsection"
+2011-07-29T11:17:08+00:00,442024543,441988413,0,Wildstarlights,Faster-than-light,/* Closing speeds */
+2011-05-07T14:15:18+00:00,427914521,427471346,0,Bibcode Bot,Faster-than-light,"Converting 0 ""id = {{arxiv|...}}"" to ""|arxiv=..."". Adding 0 [[arXiv|arXiv eprint]](s), 1 [[bibcode]](s) and 1 [[digital object identifier|doi]](s). Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2011-05-15T00:28:59+00:00,429161066,428655827,0,Richard.decal,Faster-than-light,/* Daily motion of the Heavens */
+2011-09-05T23:57:30+00:00,448665999,448355515,0,Tesi1700,Faster-than-light,/* Daily motion of the Heavens */
+2011-05-04T21:04:51+00:00,427471346,426568102,0,M-le-mot-dit,Faster-than-light,"[[:en:WP:CLEANER|WPCleaner]] (v1.05) Repairing link to disambiguation page - [[WP:DPL|(You can help)]] - [[RPG]], [[Reference frame]], [[Travel time]]"
+2011-09-27T21:25:10+00:00,452764869,452760991,0,AnomieBOT,Faster-than-light,Dating maintenance tags: {{Citation needed}} {{Cn}}
+2011-10-02T19:24:45+00:00,453573267,453528625,0,GregorB,Faster-than-light,"/* OPERA experiment */ Minus, as of"
+2011-04-20T01:42:16+00:00,424953439,424952138,0,JohnBlackburne,Faster-than-light,Reverted 1 edit by [[Special:Contributions/124.171.86.3|124.171.86.3]] ([[User talk:124.171.86.3|talk]]); Edit test? ([[WP:TW|TW]])
+2011-07-26T13:25:50+00:00,441529259,441460680,0,Javalenok,Faster-than-light,"/* Closing speeds */ generalizing for v1 /= -v2, relating galilean relativity to closing speed (right?) while making bit text shorter"
+2011-10-17T00:40:54+00:00,455933610,455933428,0,Helpful Pixie Bot,Faster-than-light,Dated {{Cleanup-rewrite}}. (Build p616)
+2011-08-08T05:15:10+00:00,443626783,443625908,0,Trovatore,Faster-than-light,Undid revision 443625908 by [[Special:Contributions/Hstdgrypk|Hstdgrypk]] ([[User talk:Hstdgrypk|talk]]) revert edit improperly marked as minor
+2011-08-04T04:33:54+00:00,442959222,442959077,0,Headbomb,Faster-than-light,/* Variable speed of light */ ce
+2011-07-22T05:47:43+00:00,440782934,440782139,0,71.197.138.169,Faster-than-light,/* How far can one travel from the Earth? */
+2011-04-18T04:08:47+00:00,424633073,419420752,0,EmausBot,Goos–Hänchen effect,r2.6.4) (robot Modifying: [[ru:Эффект Гуса — Хенхена]]
+2011-06-22T22:03:50+00:00,435711933,435711546,0,Omnipaedista,Goos–Hänchen effect,eponyms
+2011-08-16T02:43:08+00:00,445086065,435711933,0,Bibcode Bot,Goos–Hänchen effect,"Adding 0 [[arXiv|arxiv eprint(s)]], 1 [[bibcode|bibcode(s)]] and 1 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2011-05-09T20:37:59+00:00,428310294,428308928,0,Staffscientist,Goos–Hänchen effect,
+2011-03-13T15:37:48+00:00,418624457,414484380,0,Beajlang,Introduction to special relativity,Removed broken link to Yale lecture on Google Video.
+2011-06-12T07:20:14+00:00,433846733,433845792,0,Trovatore,Introduction to special relativity,"Undid revision 433845792 by [[Special:Contributions/Bopomofo|Bopomofo]] ([[User talk:Bopomofo|talk]]) incorrectly marked ""minor"""
+2011-04-03T03:52:20+00:00,422086281,420833228,0,Multipole~enwiki,Lorentz transformation,/* Derivation */  corrected overstatement
+2011-02-28T17:38:56+00:00,416404915,416404892,0,Epbr123,Lorentz transformation,Reverted edits by [[Special:Contributions/65.160.244.3|65.160.244.3]] ([[User talk:65.160.244.3|talk]]) to last revision by Netheril96 ([[WP:HG|HG]])
+2011-06-12T07:26:41+00:00,433847241,433844886,0,Tim Shuba,Lorentz transformation,remove speculative and nonstandard section per [[WP:UNDUE]]
+2011-06-01T16:47:23+00:00,432024813,428310294,0,WikitanvirBot,Goos–Hänchen effect,r2.7.1) (robot Modifying: [[ru:Эффект Гуса — Хенхен]]
+2011-08-14T17:48:02+00:00,444833166,444755325,0,VQuakr,Lorentz transformation,Reverted 1 edit by [[Special:Contributions/68.2.71.157|68.2.71.157]] ([[User talk:68.2.71.157|talk]]): Rv spam. ([[WP:TW|TW]])
+2011-05-26T20:15:31+00:00,431067539,431067426,0,198.96.85.100,Neutrino,Undid revision 431067426 by [[Special:Contributions/198.96.85.100|198.96.85.100]] ([[User talk:198.96.85.100|talk]])
+2011-08-12T08:16:16+00:00,444406017,444158859,0,Bibcode Bot,Neutrino,"Adding 0 [[arXiv|arxiv eprint(s)]], 1 [[bibcode|bibcode(s)]] and 0 [[digital object identifier|doi(s)]]. Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2011-09-08T21:08:16+00:00,449201516,447314236,0,68.126.185.144,Phase velocity,"/* Relation to group velocity, refractive index and transmission speed */ removed awkwardly placed ""such"""
+2011-03-23T09:42:08+00:00,420295047,415821568,0,JAnDbot,Phase velocity,r2.5.2) (robot Modifying: [[fr:Vitesse d'une onde#Vitesse de phase]]
+2011-08-29T13:34:44+00:00,447314236,445972782,0,208.54.40.163,Phase velocity,"/* Relation to group velocity, refractive index and transmission speed */"
+2011-06-14T03:24:56+00:00,434172241,434172181,0,Logan,Phase velocity,Undoing own edit ([[WP:HG|HG]])
+2011-02-25T06:05:21+00:00,415821568,395884278,0,L3370x,Phase velocity,
+2011-09-27T11:23:13+00:00,452677808,452671815,0,Crowsnest,Phase velocity,math layout
+2011-06-23T00:16:09+00:00,435728530,434172241,0,Bandannaanan,Phase velocity,
+2011-05-27T11:58:27+00:00,431166418,420295047,0,EdwardLane,Phase velocity,/* See also */ added shear wave splitting
+2011-07-04T22:15:36+00:00,437776464,435728530,0,WikitanvirBot,Phase velocity,r2.7.1) (robot Removing: [[cs:Fázová rychlost]]
+2011-08-27T21:40:04+00:00,447038980,445983061,0,Fashionslide,Special relativity,update link
+2011-08-04T10:28:53+00:00,442992124,442990103,0,Martin Hogbin,Special relativity,"Undid revision 442990103 by [[Special:Contributions/Bonginkosi zwane|Bonginkosi zwane]] ([[User talk:Bonginkosi zwane|talk]])Rambling unreferenced commentary, which is not a minor edit  removed."
+2011-09-16T00:12:12+00:00,450728145,447038980,0,68.190.112.86,Special relativity,mass-energy equivalence is common knowledge in this context. Einstein's theory of special relativity covers it.
+2011-09-25T17:06:17+00:00,452379039,452164715,0,77.30.120.185,Special relativity,
+2011-02-09T19:03:55+00:00,412957942,404464716,0,67.221.98.2,Speed of electricity,"/* Electromagnetic waves */ Changed the decimals 0.95 and 0.97 to percentages, to be consistent with the notation used later in the sentence relating to the speed of light"
+2011-04-02T21:51:05+00:00,422043179,419765078,0,Yobot,Superluminal communication,"[[WP:CHECKWIKI]] error 61 fixes + [[WP:GENFIXES|general fixes]], References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (7671)"
+2011-08-08T12:14:09+00:00,443668745,440867879,0,Leutha,Superluminal communication,out
+2011-07-05T00:02:37+00:00,437787766,437595171,0,FyzixFighter,Superluminal communication,simplifying a bit more
+2010-11-24T11:55:57+00:00,398618246,398412468,0,Petri Krohn,Superluminal communication,/* See also */  [[Delayed choice quantum eraser]] – The Jensen proposal is related to this
+2011-08-15T03:49:07+00:00,444912834,444896768,0,Wikiliki,Superluminal communication,/* See also */
+2011-03-20T08:21:39+00:00,419765078,398618246,0,Citation bot 1,Superluminal communication,[Pu303]Misc citation tidying.
+2011-07-23T03:09:52+00:00,440935995,440935908,0,Drmies,Superluminal motion,"/* Superluminal motion of Electromagnetic Waves */ poorly written, unclear, and possibly spammed"
+2011-09-23T19:20:45+00:00,452073952,451957339,0,Sangrolu,Superluminal motion,/* Derivation of the relativistic explanation */ disambig AGN->Active galactic nucleus
+2011-03-03T06:25:23+00:00,416867934,410648465,0,WikitanvirBot,Superluminal motion,r2.7.1) (robot Adding: [[ar:حركة مفرطة اللمعية]]
+2011-06-03T10:28:02+00:00,432332498,432332204,0,Hermitage17,Superluminal motion,/* Derivation of the relativistic explanation */
+2011-01-28T22:42:08+00:00,410648465,409638314,0,78.142.92.84,Superluminal motion,Added an intuitive explanation
+2011-06-13T09:52:54+00:00,434030052,433813518,0,Hermitage17,Superluminal motion,/* Derivation of the relativistic explanation */
+2011-06-29T16:30:45+00:00,436876606,436176915,0,Serketan,Superluminal motion,/* Low frequency field in good conductors */ Removed obscure sentences
+2011-09-28T16:00:36+00:00,452892796,452303239,0,Wavelength,Superluminal motion,"/* External links */ correcting spelling: —> “motion"""
+2011-06-10T08:38:01+00:00,433523620,432287557,0,Yobot,Surface wave,[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7754)
+2011-07-21T12:39:31+00:00,440645001,440415801,0,GLPeterson,Surface wave,/* Web sites */
+2011-04-07T03:23:19+00:00,422801128,420201906,0,Rwestafer,Surface wave,/* Microwave field theory */ Corrected grammar and incorrect/inexact terminology
+2011-10-04T10:16:41+00:00,453871737,453871290,0,Cweickhmann,Surface wave,/* Journals and papers */
+2011-03-22T20:08:47+00:00,420201906,415052433,0,Mejor Los Indios,Surface wave,
+2011-02-21T01:58:41+00:00,415052433,415052422,0,ClueBot NG,Surface wave,"Reverting possible vandalism by [[Special:Contributions/67.169.229.151|67.169.229.151]] to version by Bopomofo. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (295137) (Bot)"
+2011-09-18T19:00:15+00:00,451190127,440645001,0,91.125.132.165,Surface wave,WL Love Waves
+2011-04-05T19:31:58+00:00,422565444,421584484,0,Deflective,Tachyon,IPAc-en conversion
+2011-07-16T16:23:24+00:00,439798392,439548301,0,Big Brother 1984,Tachyon,/* Causality */ the event IS cannot?
+2011-10-09T21:20:14+00:00,454769784,454758456,0,Michael C Price,Tachyon,/* Quantum field theory */ tweak
+2011-08-13T21:06:31+00:00,444693086,444560663,0,Omnipaedista,Tachyon,no indication of reliability; [[WP:COI]]
+2011-07-03T09:55:35+00:00,437530315,437530278,0,Cybercobra,Tachyon,/* Tachyons in string theory */ redundant
+2011-10-14T23:03:28+00:00,455607613,455149332,0,74.131.19.110,Tachyon,
+2011-08-10T02:35:46+00:00,443982854,442783080,0,FrescoBot,Tachyon,Bot: links syntax and minor changes
+2011-03-17T23:14:29+00:00,419378174,419377461,0,DacodaNelson,Tachyon,Added an anology to simple harmonic motion in relation to tachyon condensation.
+2011-05-25T22:47:07+00:00,430923180,430911446,0,Headbomb,Tachyon,nonsense tags
+2011-08-23T15:01:51+00:00,446327768,444693086,0,Bhny,Tachyon,simplified first sentence and moved greek derivation to 2nd parag
+2011-05-03T19:03:41+00:00,427280631,427280431,0,Monty845,Tachyon,doesn't make sense ([[WP:HG|HG]])
+2011-05-21T18:10:07+00:00,430227066,430224841,0,JohnBlackburne,Tachyon,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/67.255.3.141|67.255.3.141]] ([[User talk:67.255.3.141|talk]]) to last version by Monty845
+2011-08-03T03:21:52+00:00,442783080,442200190,0,71.200.180.110,Tachyon,/* Causality */ removed redundancy in first sentence
+2011-02-20T15:39:13+00:00,414961595,414961577,0,ClueBot NG,Tachyon,"Reverting possible vandalism by [[Special:Contributions/Dylanhansch1|Dylanhansch1]] to version by Bopomofo. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (293928) (Bot)"
+2011-09-30T05:30:49+00:00,453165925,452881216,0,Curb Chain,Tachyon,[[WP:HEAD]]
+2011-03-26T19:46:23+00:00,420859223,420850883,0,Mindmatrix,Tachyon,"revert - self-promotional, no citations; formatting: 11x whitespace, heading-style (using [[User:Cameltrader#Advisor.js|Advisor.js]])"
+2011-07-23T03:07:21+00:00,440935763,440932466,0,Drmies,Tachyon,Reverted 2 edits by [[Special:Contributions/Bopomofo|Bopomofo]] ([[User talk:Bopomofo|talk]]): Spam. ([[WP:TW|TW]])
+2011-06-15T04:06:54+00:00,434352271,434206853,0,Difluoroethene,Tachyon,/* Tachyons in good conductors */ what?
+2011-04-22T20:42:52+00:00,425397821,422565444,0,Antixt,Tachyon,/* See also */ rm entry which redirects to the article about an obscure particle physicist
+2011-09-26T13:19:36+00:00,452518813,452505388,0,141.84.43.125,Tachyon,"The finding is by Opera, not by CERN.  They made it public on the arxiv and at CERN.  This is also not tantamount to proving the existence of tachyons, so I made the wording a bit more careful."
+2011-08-29T08:37:31+00:00,447282353,446327768,0,Graham87,Tachyon,"1 revision from [[:nost:Tachyon]]: import old edit, see [[User:Graham87/Import]]"
+2011-09-03T13:45:10+00:00,448224848,447740513,0,193.62.3.245,Tachyon,/* Causality */
+2011-09-21T15:25:24+00:00,451688591,448224848,0,Wang1979,Tachyon,
+2011-03-11T15:26:54+00:00,418308218,414961595,0,Andrewhayes,Tachyon,grammar (which -> that)
+2011-06-04T04:24:50+00:00,432465883,432465800,0,217.92.1.69,Tachyon,Undid revision 432465800 by [[Special:Contributions/217.92.1.69|217.92.1.69]] ([[User talk:217.92.1.69|talk]])
+2011-06-17T09:02:51+00:00,434732106,434352271,0,Martin Hogbin,Tachyon,/* Mass */ Remove hyphen
+2011-03-28T08:31:50+00:00,421114257,421112482,0,AnomieBOT,Tachyon,Dating maintenance tags: {{Citation needed}}
+2011-03-31T02:17:06+00:00,421584484,421584207,0,97.88.141.198,Tachyon,/* Speed */
+2011-10-03T09:27:22+00:00,453668130,453534398,0,Ownedroad9,Tachyon,/* Good conductors */ effective tachyons
+2011-07-30T13:34:54+00:00,442200190,442200169,0,ClueBot NG,Tachyon,"Reverting possible vandalism by [[Special:Contributions/14.98.62.255|14.98.62.255]] to version by Zgstehdyp. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (526659) (Bot)"
+2011-03-21T21:48:24+00:00,420040988,419378174,0,Mabdul,Tachyon,Disambiguated: [[reference frame]] → [[frame of reference]]
+2011-06-21T14:36:07+00:00,435467074,435466895,0,95.146.203.150,Tachyon,posted a hyperlink to Cherenkov radiation
+2011-09-24T17:14:03+00:00,452221334,452211921,0,75.6.162.219,Tachyon,CERN neutrino experiment
+2011-08-31T22:43:13+00:00,447740513,447740361,0,Melab-1,Tachyon,"Fixed grammar. ""reversion of time"" still doesn't sound right."
+2011-10-11T14:57:28+00:00,455047571,455043751,0,Bhny,Tachyon,{{Current related|article|OPERA neutrino anomaly}} better than a hatnote?
+2011-05-01T08:01:15+00:00,426856901,425397821,0,Bibcode Bot,Tachyon,"Converting 0 ""id = {{arxiv|...}}"" to ""|arxiv=..."". Adding 1 [[arXiv|arXiv eprint]](s), 4 [[bibcode]](s) and 0 [[digital object identifier|doi]](s). Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2011-09-22T22:15:54+00:00,451924208,451688591,0,VatiBear,Tachyon,
+2011-03-10T19:50:51+00:00,418178093,416287548,0,129.63.129.196,Total internal reflection,/* Superluminal energy transport */  Fixed misunderstanding
+2011-08-04T16:45:09+00:00,443039366,442625929,0,FyzixFighter,Tachyon condensation,Undid revision 442625929 by [[Special:Contributions/Zgstehdyp|Zgstehdyp]] ([[User talk:Zgstehdyp|talk]]) rv - not RS and not really on topic
+2011-05-01T08:01:20+00:00,426856910,384380896,0,Bibcode Bot,Tachyon condensation,"Converting 0 ""id = {{arxiv|...}}"" to ""|arxiv=..."". Adding 1 [[arXiv|arXiv eprint]](s), 2 [[bibcode]](s) and 0 [[digital object identifier|doi]](s). Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2011-06-04T12:28:36+00:00,432509196,432509161,0,137.205.144.224,Total internal reflection,/* Critical angle */
+2011-09-12T12:01:16+00:00,450065172,448763272,0,Gareth McCaughan,Total internal reflection,"/* Critical angle */ fix tpyo: ""eminating"" -> ""emanating"""
+2011-04-21T15:40:40+00:00,425180733,424941390,0,141.156.188.193,Total internal reflection,
+2011-03-25T20:06:24+00:00,420706849,420691783,0,136.159.106.48,Total internal reflection,removed errant theta
+2011-07-08T14:09:51+00:00,438417863,436082590,0,119.153.140.212,Total internal reflection,/* Derivation of evanescent wave */
+2011-02-13T20:09:31+00:00,413744789,411371501,0,Asephei,Total internal reflection,"Added Wiki-links to ""dielectric"" and ""attenuation"" (physics)."
+2011-05-06T13:51:54+00:00,427747077,427747068,0,ClueBot NG,Total internal reflection,"Reverting possible vandalism by [[Special:Contributions/109.153.73.254|109.153.73.254]] to version by 118.208.145.99. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (393583) (Bot)"
+2011-02-27T23:45:41+00:00,416287548,415158493,0,JeR,Total internal reflection,/* Optical description */
+2011-05-02T01:38:40+00:00,426989261,421384772,0,Bibcode Bot,Transformation optics,"Converting 0 ""id = {{arxiv|...}}"" to ""|arxiv=..."". Adding 1 [[arXiv|arXiv eprint]](s), 12 [[bibcode]](s) and 0 [[digital object identifier|doi]](s). Did it miss something? Report bugs, errors, and suggestions at [[User talk:Bibcode Bot]]"
+2011-10-02T20:40:32+00:00,453584934,452364221,0,Amirobot,Total internal reflection,r2.7.1) (robot Adding: [[fa:بازتاب کلی]]
+2011-09-26T08:58:00+00:00,452493430,447508970,0,FrescoBot,Transformation optics,Bot: [[User:FrescoBot/Links|link syntax/spacing]]
+2011-07-27T06:13:46+00:00,441664176,440817227,0,Rjwilmsi,Transformation optics,"Journal cites:, added 1 PMID, using [[Project:AWB|AWB]] (7794)"
+2011-02-02T01:38:31+00:00,411493113,410215197,0,Steve Quinn,Transformation optics,/* See also */ add links and copy edit
+2011-03-29T21:35:18+00:00,421384772,421384485,0,Citation bot,Transformation optics,[316]Misc citation tidying.
+2011-06-15T14:51:37+00:00,434419001,434418802,0,Papa November,Abraham–Minkowski controversy,"/* Crucial Experiment */ ""Recently"" is imprecise.  Add year instead"
+2011-03-22T02:22:53+00:00,420079818,409259177,0,DumbBOT,Action at a distance,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2010-12-12T17:14:07+00:00,401979828,401836343,0,Antichristos,Action at a distance,/* Entangled multipixel patterns */
+2011-06-27T13:56:19+00:00,436501919,433813085,0,Markhurd,Action at a distance,Multiple distinct references now
+2011-04-22T20:18:47+00:00,425394279,425046256,0,Jzberkovitz,Action at a distance,
+2010-12-02T17:03:25+00:00,400152496,400141435,0,Laurascudder,Action at a distance,using citation templates
+2010-11-25T07:41:22+00:00,398774177,398664045,0,91.122.8.113,Action at a distance,/* Einstein */
+2011-06-06T11:56:36+00:00,432837066,432191225,0,Tercer,Action at a distance,/* Quantum mechanics */ I think a more direct link would be more helpful
+2011-04-01T00:10:01+00:00,421737581,421734852,0,Dicklyon,Alternating current,/* External links */ restore relevant category Electric power
+2011-04-14T16:43:00+00:00,424052895,424052489,0,78.86.37.131,Alternating current,/* AC power supply frequencies */
+2011-04-07T13:40:25+00:00,422857163,422067995,0,86.157.56.46,Drift velocity,/* Numerical example */
+2011-10-14T22:08:31+00:00,455600757,455024600,0,129.21.70.48,Drift velocity,"Removed redundant, improperly formatted, and poorly written additional definition at beginning of page."
+2011-05-06T14:59:43+00:00,427756442,427756380,0,Download,Alternating current,Reverted edits by [[Special:Contributions/70.34.80.119|70.34.80.119]] ([[User talk:70.34.80.119|talk]]) to last revision by 173.206.232.219 ([[WP:HG|HG]])
+2011-08-25T13:54:57+00:00,446656094,445961614,0,RussBot,Alternating current,Robot: fixing [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[PBS]]
+2010-11-29T19:16:57+00:00,399564532,396573601,0,132.177.67.152,Drift velocity,/* Numerical example */ changed 'Columbs' to 'Coulombs' in ~4 cases
+2011-04-03T01:03:05+00:00,422067995,422029803,0,BD2412,Drift velocity,/* Numerical example */repair [[Wikipedia:Disambiguation pages with links|disambig pages with links]] and other minor tasks using [[Project:AWB|AWB]]
+2011-08-21T09:03:40+00:00,445961614,445961481,0,Yottamaster,Alternating current,/* Example */
+2011-08-13T17:31:54+00:00,444660015,442490289,0,Lightbot,Drift velocity,mostly units
+2011-08-01T10:49:31+00:00,442490289,434411467,0,117.211.83.26,Drift velocity,/* Derivation */
+2011-02-14T01:03:09+00:00,413793234,412013890,0,LucienBOT,Drift velocity,r2.6.4) (robot Adding: [[pt:Velocidade de deriva]]
+2010-12-03T19:47:43+00:00,400361806,400361621,0,TwistOfCain,Electric power transmission,Reverted edits by [[Special:Contributions/75.94.53.71|75.94.53.71]] ([[User talk:75.94.53.71|talk]]) to last revision by TwistOfCain ([[WP:HG|HG]])
+2011-01-09T13:49:49+00:00,406872914,406521675,0,Jim.henderson,Electric power transmission,"[[Electricity liberalization]] link, etc"
+2011-03-29T23:54:07+00:00,421403003,421387782,0,Skierpage,Electric power transmission,"/* Losses */ fix link for DOE to go to answer, improve citation, also improve geni.org"
+2011-08-09T21:38:21+00:00,443941511,443941036,0,98.237.247.167,Electric power transmission,/* Wireless power transmission */
+2011-09-26T23:30:38+00:00,452603852,452062883,0,64.60.158.51,Electric power transmission,
+2011-01-12T20:08:50+00:00,407527073,407525152,0,PhilKnight,Electric power transmission,Reverted edits by [[Special:Contributions/68.13.70.19|68.13.70.19]] to last version by Shadowjams ([[User:Ale_jrb/Scripts/igloo|GLOO]])
+2010-12-27T02:47:58+00:00,404392577,404159459,0,Jim.henderson,Electric power transmission,[[ Electricity in the United States]] sharper link
+2011-09-18T23:05:06+00:00,451229568,451105317,0,GoingBatty,Electric power transmission,"[[WP:AWB/GF|General fixes]] and other clean up, replaced: can't → cannot, didn't → did not using [[Project:AWB|AWB]] (7794)"
+2011-05-01T12:15:47+00:00,426880082,426879957,0,Kongr43gpen,Electric power transmission,Reverted 1 edit by [[Special:Contributions/62.200.86.169|62.200.86.169]] ([[User talk:62.200.86.169|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Kongr43gpen. ([[WP:TW|TW]])
+2011-02-12T09:47:50+00:00,413459054,413425481,0,Jeh,Electric power transmission,fix wording
+2011-10-08T18:36:52+00:00,454584527,454569747,0,82.16.104.46,Faster-than-light,
+2011-06-13T05:54:46+00:00,434008252,433937496,0,96.233.22.171,Faster-than-light,/* Light spots and shadows */
+2011-09-25T15:28:33+00:00,452366132,452352026,0,Alphius,Faster-than-light,/* Time of flight of neutrinos */ Added commas
+2010-11-25T05:44:49+00:00,398762880,398165372,0,Luckas-bot,Faster-than-light,[r2.5.2] robot Adding: [[vi:Nhanh hơn ánh sáng]]
+2010-12-02T09:37:36+00:00,400095814,400095240,0,Hypnosifl,Faster-than-light,/* Possibility */ more detailed discussion of SR vs. GR
+2011-01-06T19:41:03+00:00,406334703,406324433,0,Christopher Thomas,Faster-than-light,Undid revision 406324433 by [[Special:Contributions/94.4.86.85|94.4.86.85]] ([[User talk:94.4.86.85|talk]]) Very vague statement with no reference provided.
+2011-01-26T04:25:51+00:00,410109134,407168712,0,174.23.88.73,Faster-than-light,/* Quantum mechanics */
+2011-02-05T19:50:35+00:00,412204992,412078568,0,94.197.90.25,Faster-than-light,
+2011-08-23T22:59:00+00:00,446399095,445955939,0,Robodude2000,Faster-than-light,/* How far can one travel from the Earth? */ Linked words and corrected apostrophe usage
+2011-09-04T06:23:07+00:00,448355515,448063770,0,Paine Ellsworth,Faster-than-light,hatnote to TOP per [[WP:HN]]
+2011-06-17T00:05:05+00:00,434676319,434008252,0,MIKQ,Faster-than-light,"Corrected ""University of  Koblenz"" to ""University of Cologne"" where Prof. Nitz was employed until he retired"
+2011-10-15T15:27:33+00:00,455699897,455699684,0,Bastien Sens-Méyé~enwiki,Faster-than-light,/* Guang-Jiong Ni measurements */
+2011-06-27T08:29:46+00:00,436466682,436461672,0,188.29.16.231,Faster-than-light,"Undid revision 436461672 by [[Special:Contributions/DVdm|DVdm]] ([[User talk:DVdm|talk]]) Articles are peer reviewed and granted by many patent offices. Would advise to read ""Not Invented Here"" syndrome."
+2011-07-23T21:47:25+00:00,441069393,441067050,0,91.85.180.216,Faster-than-light,/* EPR Paradox */
+2010-10-11T14:22:52+00:00,390068891,373219820,0,ChuispastonBot,Goos–Hänchen effect,robot Adding: [[zh:古斯－汉欣位移]]
+2011-03-18T05:51:57+00:00,419420752,419420170,0,130.220.71.21,Goos–Hänchen effect,
+2010-12-26T13:42:41+00:00,404293494,404293237,0,217.218.83.61,Goos–Hänchen effect,
+2011-09-08T00:29:07+00:00,449030837,445086065,0,Tony1,Goos–Hänchen effect,fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]
+2011-05-23T00:11:50+00:00,430431886,430134634,0,Rgdboer,Introduction to special relativity,/* The Minkowski formulation: introduction of spacetime */ lk Minkowski diagram
+2011-01-04T12:47:05+00:00,405876876,404385563,0,Rich Farmbrough,Introduction to special relativity,remove expand tag from stubs or convert section items using [[Project:AWB|AWB]]
+2011-05-07T13:39:40+00:00,427909914,424422660,0,SchuminWeb,Introduction to special relativity,/* The postulates of Special Relativity */ caps
+2011-02-07T20:02:07+00:00,412586767,405876876,0,John of Reading,Introduction to special relativity,"/* Reference frames and Galilean relativity: a classical prelude */[[WP:AWB/T|Typo fixing]], replaced: the the → the using [[Project:AWB|AWB]]"
+2011-08-13T23:33:24+00:00,444713452,444712000,0,A. di M.,Introduction to special relativity,Undid revision 444712000 by [[Special:Contributions/Lightbot|Lightbot]] ([[User talk:Lightbot|talk]]) it is definitely relevant here
+2010-12-26T02:21:24+00:00,404236889,404236806,0,Richerman,Introduction to special relativity,formatting: mdash (using [[User:Cameltrader#Advisor.js|Advisor.js]])
+2011-04-17T11:03:50+00:00,424507400,423460155,0,LokiClock,Lorentz transformation,"/* Matrix form */ Observer not indicated in image, thus not helpful illustration of concept of light cone"
+2011-04-16T20:42:20+00:00,424422660,424422611,0,ImageRemovalBot,Introduction to special relativity,Removing deleted [[:File:Rel6.GIF|image]]
+2011-08-28T21:44:22+00:00,447202600,446792349,0,128.143.102.218,Lorentz transformation,/* Lorentz transformation for frames in standard configuration */ Don't need to assume the convention
+2011-01-29T12:52:47+00:00,410749530,410255953,0,Netheril96,Lorentz transformation,/* Matrix form */
+2011-01-10T10:03:24+00:00,407044729,407040776,0,DVdm,Lorentz transformation,/* Principle of relativity */ subtle correction - see talk page
+2011-10-11T04:23:27+00:00,454987102,454987052,0,Loodog,Lorentz transformation,"/* Boost in x, y or z directions */ ""Simalarly ""?"
+2011-05-07T15:57:06+00:00,427928886,426479611,0,Arjayay,Lorentz transformation,Sp - Refered > Referred
+2010-12-01T22:25:19+00:00,400006130,399190728,0,Maxdlink,Lorentz transformation,named after lorentz
+2011-06-19T15:21:13+00:00,435103161,435102938,0,Greg L,Neutrino,/* Mass */ trim editorializing not mentioned in citation
+2011-07-25T20:53:49+00:00,441412799,441412414,0,86.26.57.40,Neutrino,/* Bibliography */
+2011-06-15T10:00:05+00:00,434384100,433883339,0,Jkforde,Neutrino,
+2011-07-28T17:49:53+00:00,441905737,441905171,0,Salih,Neutrino,Undid revision 441905171 by [[Special:Contributions/146.139.77.25|146.139.77.25]] ([[User talk:146.139.77.25|talk]])
+2011-07-08T14:56:52+00:00,438423486,438423216,0,Strait,Neutrino,/* Mass */ grammar
+2011-08-08T13:59:45+00:00,443681251,443678879,0,A. di M.,Neutrino,"Undid revision 443678879 by [[Special:Contributions/199.36.20.5|199.36.20.5]] ([[User talk:199.36.20.5|talk]]) not quite, if it meant ""neutronlet"" it'd be ""neutroncino"" :-)"
+2011-10-01T18:57:08+00:00,453409316,453300799,0,LikeLakers2,Neutrino,
+2011-03-14T15:45:03+00:00,418794499,418588821,0,Strait,Neutrino,"Deleted paragraph suggesting that neutrino mass is uncertain.  It is, in fact, well established.  Was this written by someone on OPERA trying to boost their experiment?"
+2010-11-10T05:08:10+00:00,395884278,395884135,0,132.178.125.240,Phase velocity,
+2011-07-24T11:36:16+00:00,441157484,441153678,0,Tpbradbury,Phase velocity,Filling in 1 references using [[WP:REFLINKS|Reflinks]]
+2011-08-12T08:27:14+00:00,444406975,444406915,0,203.129.195.130,Phase velocity,"/* Relation to group velocity, refractive index and transmission speed */"
+2011-08-08T21:07:35+00:00,443747872,442161962,0,169.229.144.67,Phase velocity,/* Slow phase velocity and superluminality */
+2010-12-03T04:37:53+00:00,400260776,400260688,0,NickCT,Special relativity,Reverted edits by [[Special:Contributions/125.21.190.5|125.21.190.5]] ([[User talk:125.21.190.5|talk]]) to last revision by D.H ([[WP:HG|HG]])
+2011-04-01T21:34:27+00:00,421885290,421677852,0,Count Iblis,Special relativity,/* Special relativity for a general audience (no math knowledge required) */
+2011-03-15T21:55:48+00:00,419022253,418949455,0,207.6.197.52,Special relativity,/* Space travel limits */
+2011-02-12T17:41:08+00:00,413518168,413015509,0,Troubled asset,Special relativity,"Way too long line, didn't print correctly. Split and aligned. Formulas unchanged."
+2011-07-04T17:18:24+00:00,437735456,437567518,0,92.21.239.113,Special relativity,/* Lack of an absolute reference frame */
+2011-07-13T12:23:53+00:00,439253457,438735969,0,Magioladitis,Special relativity,[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7783)
+2011-07-06T16:00:01+00:00,438071035,438070937,0,Qrsdogg,Speed of electricity,/* Potentials and electrics */ remove empty sections
+2011-09-23T16:47:23+00:00,452050333,452050042,0,Jimbobl,Speed of electricity,Undid revision 452050042 by [[Special:Contributions/Jimbobl|Jimbobl]] ([[User talk:Jimbobl|talk]])
+2011-07-01T15:40:27+00:00,437245912,437245768,0,David H Braun (1964),Superluminal motion,/* Low frequency field in good conductors */ Added Wikipedia link
+2011-09-25T04:27:26+00:00,452303239,452073952,0,75.24.124.79,Superluminal motion,/* Explanation */ not needed
+2010-11-22T03:11:14+00:00,398176993,392808204,0,91.55.51.85,Superluminal motion,
+2010-12-01T23:04:27+00:00,400012273,398176993,0,BRW,Superluminal motion,/* Laser Ranging */
+2011-01-23T22:21:07+00:00,409638314,409638262,0,188.200.72.49,Superluminal motion,/* External links */
+2011-01-10T17:06:56+00:00,407097084,407096930,0,Kate460,Surface wave,
+2011-02-06T15:46:13+00:00,412359202,412358945,0,Otterinfo,Surface wave,Undid revision 412358945 by [[Special:Contributions/Otterinfo|Otterinfo]] ([[User talk:Otterinfo|talk]])
+2010-12-19T15:27:26+00:00,403185334,403185265,0,Mr. Stradivarius,Surface wave,Reverted 1 edit by [[Special:Contributions/68.46.60.168|68.46.60.168]] ([[User talk:68.46.60.168|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Andy Dingley. ([[WP:TW|TW]])
+2010-12-23T20:29:07+00:00,403922998,403017154,0,24.193.60.231,Tachyon,/* Properties */
+2011-09-27T06:08:43+00:00,452646868,452646783,0,Grapplequip,Tachyon,further revised OPERA mention in lead
+2011-01-28T03:05:19+00:00,410495521,410495355,0,Slightsmile,Tachyon,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/71.193.110.11|71.193.110.11]] ([[User talk:71.193.110.11|talk]]) to last version by 69.3.116.130
+2011-08-13T03:30:38+00:00,444560663,444200705,0,Copernicus01,Tachyon,
+2011-10-15T23:09:21+00:00,455761701,455761359,0,99.141.31.102,Tachyon,fix link to [[Grolier]]
+2011-01-11T16:10:50+00:00,407290157,404253493,0,69.3.116.130,Tachyon,replace use of 'is' with would be in two cases
+2011-02-01T00:12:04+00:00,411276094,411020213,0,Luckas-bot,Tachyon,r2.7.1) (robot Adding: [[bs:Takion]]
+2011-02-09T20:38:57+00:00,412973884,412973694,0,Sjö,Tachyon,[[Help:Reverting|Reverted]] edits by [[Special:Contributions/207.239.56.1|207.239.56.1]] ([[User talk:207.239.56.1|talk]]) to last version by Noommos
+2011-09-28T14:41:23+00:00,452881216,452646868,0,Rwflammang,Tachyon,A more clear transliteration
+2011-02-13T18:19:50+00:00,413725578,413677857,0,Slightsmile,Tachyon,Undid revision 413677857 by [[Special:Contributions/124.148.190.51|124.148.190.51]] ([[User talk:124.148.190.51|talk]]) unexplained changes
+2010-11-21T02:50:51+00:00,397985398,397985385,0,L Kensington,Tachyon,Reverted edits by [[Special:Contributions/114.123.172.148|114.123.172.148]] ([[User talk:114.123.172.148|talk]]) to last revision by 72.166.147.162 ([[WP:HG|HG]])
+2010-12-16T05:31:41+00:00,402648554,402626051,0,Iiar,Tachyon,"they always ""disagree"" about the coordinate time"
+2011-10-12T03:42:21+00:00,455149332,455047571,0,TedderBot,Tachyon,"[[User:TedderBot/CurrentPruneBot|remove stale current-event template]], please see [[WP:CET]]. (bot edit)"
+2010-12-26T05:25:18+00:00,404253493,403922998,0,65.191.95.204,Tachyon,/* Tachyons in fiction */
+2010-12-03T23:53:14+00:00,400399661,397985398,0,95.43.66.199,Tachyon,
+2010-09-12T12:57:18+00:00,384380896,375347516,0,Julesd,Tachyon condensation,copyedit
+2011-09-25T15:13:22+00:00,452364221,450065172,0,94.3.95.83,Total internal reflection,
+2011-10-12T03:08:59+00:00,455145974,454915151,0,Reywas92,Total internal reflection,/* Critical angle */ What the hell are those for??
+2010-12-23T01:45:44+00:00,403803568,401770164,0,113.161.220.120,Total internal reflection,/* External links */
+2011-08-03T07:23:12+00:00,442806614,442805396,0,Jmnbatista,Total internal reflection,rearranged pictures' thumb sizes
+2011-05-26T19:27:39+00:00,431060278,430865105,0,DMacks,Total internal reflection,Undid revision 430707910 by [[Special:Contributions/86.143.99.189|86.143.99.189]] ([[User talk:86.143.99.189|talk]])
+2011-02-21T17:08:50+00:00,415158493,414863341,0,136.160.150.85,Total internal reflection,
+2011-08-12T21:01:59+00:00,444504257,444151797,0,Codeczero,Total internal reflection,Bad markup
+2010-11-28T19:04:54+00:00,399367029,398396886,0,46.107.250.13,Total internal reflection,/* External links */ +hu:
+2010-12-12T05:30:48+00:00,401905309,397102384,0,Sophus Bie,Transformation optics,/* Gradient index lensing */ punctuation
+2011-01-26T18:57:15+00:00,410215197,410213931,0,192.174.37.50,Transformation optics,

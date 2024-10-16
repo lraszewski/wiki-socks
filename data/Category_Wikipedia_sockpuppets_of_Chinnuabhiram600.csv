@@ -1,0 +1,1451 @@
+timestamp,revid,parentid,sock,user,page,message
+2019-05-10T02:35:34+00:00,896378501,896378460,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-10T02:35:06+00:00,896378460,896319621,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-08T18:01:33+00:00,896163803,896163765,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-08T18:01:18+00:00,896163765,895978699,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-07T17:34:31+00:00,895978699,895978663,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-07T17:34:11+00:00,895978663,895812371,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-06T17:20:03+00:00,895812371,895812333,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-06T17:19:49+00:00,895812333,895652893,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-05T18:22:33+00:00,895652893,895652855,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-05T18:22:17+00:00,895652855,895355802,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-01T20:08:01+00:00,895070024,895069979,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-05-01T20:07:44+00:00,895069979,894588444,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-28T19:40:06+00:00,894588444,894588371,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-28T19:39:48+00:00,894588371,894281156,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-26T20:36:48+00:00,894281156,894281117,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-26T20:36:30+00:00,894281117,894197370,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-25T21:25:38+00:00,894133104,894133067,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-25T21:25:23+00:00,894133067,894103501,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-24T21:56:15+00:00,893991573,893991547,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-24T21:55:59+00:00,893991547,893660604,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-22T20:17:21+00:00,893660604,893660544,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-22T20:17:01+00:00,893660544,893570502,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-18T18:26:33+00:00,893060680,893060649,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-18T18:26:19+00:00,893060649,892921602,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-17T19:00:28+00:00,892921602,892921006,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-17T18:55:13+00:00,892921006,892897688,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-16T19:23:02+00:00,892770790,892770736,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-16T19:22:40+00:00,892770736,892678179,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-15T18:58:45+00:00,892615935,892615743,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-15T18:57:10+00:00,892615743,892615651,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-15T18:56:20+00:00,892615651,892615120,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-15T18:52:38+00:00,892615218,892551161,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2019-04-15T18:51:59+00:00,892615120,892600117,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-15T04:22:29+00:00,892527640,892492590,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2019-04-14T19:54:02+00:00,892474288,892474237,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-14T19:53:26+00:00,892474237,892473500,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-14T19:47:18+00:00,892473500,892472039,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-14T19:41:53+00:00,892472830,892472433,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2019-04-14T19:38:26+00:00,892472433,892472248,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2019-04-14T19:36:50+00:00,892472248,892471796,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2019-04-14T19:35:04+00:00,892472039,892414698,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-14T19:33:07+00:00,892471796,892414431,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2019-04-12T20:46:22+00:00,892199158,892044823,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-11T20:28:34+00:00,892044823,891716584,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-09T18:30:43+00:00,891716873,891716834,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2019-04-09T18:30:27+00:00,891716834,890925132,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2019-04-09T18:28:31+00:00,891716584,891681257,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-09T18:25:39+00:00,891716262,890989478,1,Chinnuabhiram600,Sharjah International Airport,/* Passenger */
+2019-04-09T14:07:59+00:00,891681761,891341104,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Airlines and destinations */
+2019-04-09T14:04:26+00:00,891681257,891323185,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-06T03:07:03+00:00,891168456,891168421,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-06T03:06:38+00:00,891168421,890819402,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-03T19:03:47+00:00,890819402,890819356,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-04-03T19:03:27+00:00,890819356,890460720,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-29T20:58:28+00:00,890068717,890033176,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-28T19:57:08+00:00,889914059,889914025,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-28T19:56:52+00:00,889914025,889775896,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-27T21:38:47+00:00,889775896,889775850,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-03-27T21:38:25+00:00,889775850,889626638,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-26T22:18:20+00:00,889626638,889626610,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-03-26T22:18:06+00:00,889626610,889438423,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-03-21T18:40:37+00:00,888835821,888747366,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-03-19T21:25:37+00:00,888549571,888549484,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-19T21:24:57+00:00,888549484,888206516,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-17T16:51:57+00:00,888206516,887953088,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-15T03:40:35+00:00,887833670,887686285,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-11T19:17:05+00:00,887294845,887294816,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-03-11T19:16:48+00:00,887294816,886687099,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-03-07T21:21:59+00:00,886687099,886460215,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-03-05T20:09:00+00:00,886358132,886358072,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-05T20:08:33+00:00,886358072,885848344,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-02T18:59:07+00:00,885848344,885560880,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-28T17:39:35+00:00,885539279,885539230,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-28T17:39:14+00:00,885539230,884864181,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-24T14:33:31+00:00,884864181,884864099,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-24T14:33:00+00:00,884864099,884445348,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-21T17:57:54+00:00,884445348,884445302,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-02-21T17:57:26+00:00,884445302,883800524,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-02-17T18:36:04+00:00,883800524,883800497,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-02-17T18:35:50+00:00,883800497,883583462,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-02-12T18:28:07+00:00,883006347,883006282,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-12T18:27:30+00:00,883006282,883005433,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-12T18:20:49+00:00,883005433,882929555,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-10T16:49:17+00:00,882666306,882666209,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-10T16:48:31+00:00,882666209,882377489,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-08T17:26:15+00:00,882377489,882363489,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-07T18:34:55+00:00,882237308,882237207,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-07T18:34:18+00:00,882237207,882234557,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-06T17:18:37+00:00,882071691,882071503,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-02-06T17:17:13+00:00,882071503,881623934,1,Chinnuabhiram600,Visakhapatnam Airport,
+2019-02-03T19:51:32+00:00,881623934,881596472,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-30T19:30:29+00:00,880991289,880991194,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-30T19:29:55+00:00,880991194,880943444,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-30T11:28:30+00:00,880932243,880923403,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-29T18:21:25+00:00,880824507,880824146,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-29T18:18:50+00:00,880824146,880084246,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-27T07:28:09+00:00,880408701,880408656,1,Chinnuabhiram600,Lokpriya Gopinath Bordoloi International Airport,/* See also */
+2019-01-27T07:27:48+00:00,880408656,880139714,1,Chinnuabhiram600,Lokpriya Gopinath Bordoloi International Airport,/* See also */
+2019-01-27T07:26:30+00:00,880408485,880301661,1,Chinnuabhiram600,Biju Patnaik Airport,/* Airlines and destinations */
+2019-01-25T06:53:15+00:00,880084246,880084218,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-25T06:52:46+00:00,880084218,879811626,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-23T15:13:55+00:00,879811626,879811580,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-23T15:13:30+00:00,879811580,879661160,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-22T17:05:05+00:00,879661160,879661105,1,Chinnuabhiram600,Visakhapatnam Airport,/* Statistics */
+2019-01-22T17:04:42+00:00,879661105,879504489,1,Chinnuabhiram600,Visakhapatnam Airport,/* Statistics */
+2019-01-05T18:41:17+00:00,876973180,876973080,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-05T18:40:47+00:00,876973080,876944342,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-04T10:21:51+00:00,876770688,876727469,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-03T13:29:07+00:00,876627391,876592040,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-01T12:19:39+00:00,876289436,875443823,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-25T17:42:37+00:00,875332250,875332200,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-25T17:42:04+00:00,875332200,874198795,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-17T19:48:34+00:00,874198795,874198745,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-17T19:48:06+00:00,874198745,874182375,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-16T17:20:43+00:00,874024489,874024437,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-16T17:20:15+00:00,874024437,873672847,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-13T19:42:01+00:00,873555976,873461370,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-05T19:40:04+00:00,872193499,872193430,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-05T19:39:36+00:00,872193430,872160817,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-04T20:39:39+00:00,872034438,872034383,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-04T20:39:13+00:00,872034383,871928181,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-03T19:19:48+00:00,871836099,871750808,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2018-11-30T21:07:28+00:00,871406237,870779296,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-11-26T23:10:35+00:00,870779296,870779230,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-11-26T23:10:03+00:00,870779230,870712634,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-10-31T19:01:50+00:00,866663259,866663206,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-31T19:01:31+00:00,866663206,866467613,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-29T09:35:07+00:00,866266641,866266608,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-29T09:34:38+00:00,866266608,865987991,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-19T17:47:19+00:00,864819917,864601296,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-15T05:58:30+00:00,864117279,864117237,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-15T05:58:09+00:00,864117237,863849371,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-12T17:40:09+00:00,863735582,863680723,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2018-10-12T02:33:39+00:00,863645639,863645152,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-12T02:30:59+00:00,863645295,863504728,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2018-10-12T02:29:52+00:00,863645152,863645045,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-12T02:29:00+00:00,863645045,863644458,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-12T02:24:13+00:00,863644458,863644389,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-12T02:23:37+00:00,863644389,863637033,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-11T13:22:17+00:00,863545155,863536596,1,Chinnuabhiram600,User talk:Chinnuabhiram600,/* Friest check visakhapatnam airport flight schedules then talk to her please wrong scheduled I am visakhapatnam pepole OK bye */ new section
+2018-10-10T19:27:11+00:00,863438512,863437909,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-10-10T19:23:01+00:00,863437909,863437388,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-10T19:19:13+00:00,863437388,863373245,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-09T18:37:44+00:00,863267440,863267341,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-09T18:37:11+00:00,863267341,863181761,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-08T20:31:07+00:00,863117235,863117141,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-08T20:30:28+00:00,863117141,863063196,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-06T05:40:40+00:00,862712273,862467160,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-09-07T13:47:43+00:00,858479726,858293115,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-08-07T16:15:30+00:00,853888542,853441642,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-08-04T20:39:02+00:00,853441642,853441593,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-08-04T20:38:36+00:00,853441593,852010017,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-07-24T18:26:43+00:00,851804631,851804593,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-07-24T18:26:24+00:00,851804593,851509184,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-07-22T19:59:05+00:00,851509184,851509107,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-07-22T19:58:21+00:00,851509107,851509046,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-07-22T19:57:53+00:00,851509046,850744208,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-07-17T19:01:03+00:00,850744208,850744171,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-07-17T19:00:48+00:00,850744171,850647091,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-07-17T04:56:03+00:00,850647091,850647055,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-07-17T04:55:39+00:00,850647055,849850697,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-07-11T20:23:27+00:00,849850697,849850663,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-07-11T20:23:00+00:00,849850663,849730158,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-07-03T19:12:00+00:00,848707747,848707704,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-07-03T19:11:33+00:00,848707704,848401224,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-07-01T17:47:39+00:00,848401224,848401182,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-07-01T17:47:18+00:00,848401182,848259731,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-29T19:08:21+00:00,848094465,848054393,1,Chinnuabhiram600,Biju Patnaik Airport,/* Airlines and destinations */
+2018-06-26T19:21:10+00:00,847638551,847638508,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-26T19:20:44+00:00,847638508,847479008,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-25T17:06:48+00:00,847479008,847478935,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-25T17:06:07+00:00,847478935,846857014,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-21T01:17:56+00:00,846809157,846809096,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-21T01:17:25+00:00,846809096,846652832,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-16T07:30:05+00:00,846092057,846092028,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-16T07:29:40+00:00,846092028,846027498,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-13T18:50:37+00:00,845730331,845730276,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-13T18:50:09+00:00,845730276,845424955,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-11T18:20:49+00:00,845424955,845424898,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-11T18:20:26+00:00,845424898,845290221,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-10T20:04:01+00:00,845290221,845010866,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-08T18:13:25+00:00,845010866,844904548,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-06T18:29:31+00:00,844724445,844724397,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-06T18:29:06+00:00,844724397,844409284,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-04T18:48:52+00:00,844409284,844254340,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-03T18:31:59+00:00,844254340,843967198,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-01T17:39:36+00:00,843967198,843874176,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-31T18:15:04+00:00,843823730,843212191,1,Chinnuabhiram600,Rajahmundry Airport,/* Airlines and destinations */
+2018-05-31T18:12:48+00:00,843823441,843781381,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-27T17:22:49+00:00,843212191,842034102,1,Chinnuabhiram600,Rajahmundry Airport,/* Airlines and destinations */
+2018-05-27T17:20:03+00:00,843211886,843211846,1,Chinnuabhiram600,Tirupati Airport,
+2018-05-27T17:19:43+00:00,843211846,842033636,1,Chinnuabhiram600,Tirupati Airport,
+2018-05-27T17:19:06+00:00,843211750,843174176,1,Chinnuabhiram600,Vijayawada Airport,
+2018-05-27T17:17:32+00:00,843211569,843211525,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-27T17:17:11+00:00,843211525,842632714,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-23T17:31:25+00:00,842632714,842468843,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-22T17:15:49+00:00,842468843,842325467,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-21T18:37:37+00:00,842325467,842170457,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-20T18:25:54+00:00,842170457,842066849,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-20T00:57:43+00:00,842068707,790848998,1,Chinnuabhiram600,Tirupati–Sainagar Shirdi Express,/* Service */
+2018-05-20T00:40:39+00:00,842066849,841945722,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-18T18:24:45+00:00,841886520,841596549,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-05-15T18:07:24+00:00,841414001,841413935,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-15T18:06:57+00:00,841413935,841369217,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-14T18:14:49+00:00,841233535,840865784,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2018-05-14T18:13:20+00:00,841233223,841232886,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-14T18:12:00+00:00,841232886,841167783,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-13T16:27:57+00:00,841027568,841027528,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-05-13T16:27:40+00:00,841027528,840866666,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-05-12T17:17:51+00:00,840860637,840855922,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-05-11T13:36:33+00:00,840684708,838609664,1,Chinnuabhiram600,Tirupati–Jammu Tawi Humsafar Express,/* Composition */
+2018-05-11T09:08:41+00:00,840659909,840569306,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-10T18:30:29+00:00,840569306,840530442,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-09T17:49:57+00:00,840407095,840407012,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-09T17:49:20+00:00,840407012,840372702,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-09T04:17:44+00:00,840323673,840254261,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2018-05-09T04:15:44+00:00,840323530,840186267,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-09T04:07:29+00:00,840322923,840322829,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2018-05-09T04:06:06+00:00,840322829,839774041,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2018-05-07T17:35:43+00:00,840091495,840091399,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-05-07T17:35:07+00:00,840091399,839941725,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-05-06T18:37:45+00:00,839942117,839942061,1,Chinnuabhiram600,Duvvada railway station,
+2018-05-06T18:37:27+00:00,839942061,813594295,1,Chinnuabhiram600,Duvvada railway station,
+2018-05-06T18:36:34+00:00,839941939,839941880,1,Chinnuabhiram600,Visakhapatnam railway station,
+2018-05-06T18:36:11+00:00,839941880,837985146,1,Chinnuabhiram600,Visakhapatnam railway station,
+2018-05-06T18:35:08+00:00,839941725,839941678,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-05-06T18:34:47+00:00,839941678,839639233,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-05-04T18:27:02+00:00,839639755,839341015,1,Chinnuabhiram600,Jagdalpur Airport,/* Airlines and destinations */
+2018-05-04T18:23:22+00:00,839639233,839480592,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-03T18:16:45+00:00,839480592,839340590,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-01T18:12:07+00:00,839166155,839117842,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-01T05:59:45+00:00,839091720,838537491,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-04-27T17:01:12+00:00,838537635,838067529,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2018-04-27T17:00:17+00:00,838537491,838067098,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-04-24T18:28:13+00:00,838067179,837310808,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2018-04-24T18:27:40+00:00,838067098,837310877,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-04-19T18:17:48+00:00,837260285,836039912,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-04-12T06:31:36+00:00,836024600,835968378,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-04-10T08:27:07+00:00,835704080,835551124,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-04-04T16:50:18+00:00,834234592,834234345,1,Chinnuabhiram600,Kempegowda International Airport,/* Airlines and destinations */
+2018-04-04T16:48:31+00:00,834234345,834222197,1,Chinnuabhiram600,Kempegowda International Airport,/* Passenger */
+2018-04-04T16:43:43+00:00,834233645,834017515,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-03-26T20:39:11+00:00,832578711,831989198,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-03-23T04:29:34+00:00,831989198,830520462,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-03-13T05:12:00+00:00,830171623,829936745,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-03-11T18:33:33+00:00,829935676,829537333,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-02-11T16:40:12+00:00,825120802,824452888,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-02-06T16:43:00+00:00,824314186,824313771,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-02-06T16:39:52+00:00,824313771,824313451,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-02-06T16:37:32+00:00,824313451,824313331,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-02-06T16:36:40+00:00,824313331,824293144,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2018-02-01T18:43:31+00:00,823513936,823324787,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-01-31T15:44:05+00:00,823323491,823257043,1,Chinnuabhiram600,Vijayawada Airport,
+2018-01-31T15:43:15+00:00,823323359,823257214,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-01-31T15:41:57+00:00,823323189,823266381,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2018-01-07T17:02:31+00:00,819130126,819130090,1,Chinnuabhiram600,Visakhapatnam Airport,
+2018-01-07T17:02:15+00:00,819130090,817980106,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-12-20T17:14:11+00:00,816325516,816325412,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-12-20T17:13:32+00:00,816325412,816079197,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-12-13T16:10:49+00:00,815233587,815142532,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-12-12T18:16:31+00:00,815088413,815086980,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-12-12T18:10:09+00:00,815087607,814987054,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-12-12T18:05:49+00:00,815086980,815086938,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-12-12T18:05:31+00:00,815086938,814373814,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-12-08T05:48:41+00:00,814337793,813392510,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-11-09T17:40:37+00:00,809523115,809523067,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-11-09T17:40:16+00:00,809523067,809507001,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-11-08T17:26:25+00:00,809365623,809365588,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-11-08T17:26:08+00:00,809365588,808867125,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-11-05T18:20:46+00:00,808867125,808865673,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-11-05T18:08:35+00:00,808865673,808531164,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-10-31T11:05:17+00:00,808016067,808016028,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-10-31T11:04:58+00:00,808016028,807077719,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-10-25T19:17:17+00:00,807077719,807077494,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-10-25T19:15:26+00:00,807077494,806884264,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-10-16T19:35:32+00:00,805651380,805606629,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-10-08T18:08:33+00:00,804390651,804390508,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-10-08T18:07:35+00:00,804390508,804389948,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-10-08T18:02:59+00:00,804389948,804056961,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-27T17:49:16+00:00,802668301,801731096,1,Chinnuabhiram600,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-09-27T17:47:50+00:00,802668091,802667593,1,Chinnuabhiram600,Chaudhary Charan Singh International Airport,/* Airlines and destinations */
+2017-09-27T17:44:34+00:00,802667593,802442845,1,Chinnuabhiram600,Chaudhary Charan Singh International Airport,/* Airlines and destinations */
+2017-09-22T03:28:38+00:00,801828581,801828527,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-22T03:27:40+00:00,801828527,801606828,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-12T19:44:26+00:00,800317705,800317454,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-12T19:43:43+00:00,800317592,800317547,1,Chinnuabhiram600,Tirupati Airport,
+2017-09-12T19:43:28+00:00,800317547,800300640,1,Chinnuabhiram600,Tirupati Airport,
+2017-09-12T19:42:52+00:00,800317454,800305588,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-12T19:41:56+00:00,800317323,800300395,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-09-11T18:17:01+00:00,800135569,800094519,1,Chinnuabhiram600,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-09-11T18:14:13+00:00,800135085,800134816,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-09-11T18:12:32+00:00,800134816,800134157,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-09-11T18:09:49+00:00,800134355,798530897,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-09-11T18:08:36+00:00,800134157,800134093,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-09-11T18:08:15+00:00,800134093,798704117,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-09-11T18:07:42+00:00,800134010,800133942,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-11T18:07:18+00:00,800133942,799002184,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-11T13:01:57+00:00,800088750,799978261,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2017-09-10T10:05:10+00:00,799874956,799692915,1,Chinnuabhiram600,Ahmedabad Airport,/* Airlines and destinations */
+2017-09-04T21:25:01+00:00,798967202,798900273,1,Chinnuabhiram600,Kempegowda International Airport,/* Passenger */
+2017-09-02T11:54:14+00:00,798530682,798530476,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-09-02T11:52:08+00:00,798530471,797305254,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-08-31T17:17:36+00:00,798222400,797516478,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-08-14T04:59:01+00:00,795429086,795429033,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-08-14T04:58:14+00:00,795429033,795428994,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-08-14T04:57:47+00:00,795428994,795262321,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-08-02T16:52:51+00:00,793577740,793577607,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-08-02T16:51:34+00:00,793577607,792608227,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-07-23T17:10:37+00:00,791973547,791514745,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-07-20T19:39:29+00:00,791514745,791374249,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-07-19T19:59:15+00:00,791366958,790879785,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-07-19T19:57:43+00:00,791366780,791366405,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-07-19T19:54:30+00:00,791366405,791199220,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-07-11T18:46:55+00:00,790118654,790032999,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2017-07-11T14:19:44+00:00,790084861,790084692,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airport Expension */
+2017-07-11T14:18:22+00:00,790084692,790084376,1,Chinnuabhiram600,Visakhapatnam Airport,/* Runways */
+2017-07-11T14:15:46+00:00,790084376,790084207,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airport Images */
+2017-07-11T14:14:15+00:00,790084207,790084117,1,Chinnuabhiram600,Visakhapatnam Airport,/* Terminals */
+2017-07-11T14:13:26+00:00,790084117,790083873,1,Chinnuabhiram600,Visakhapatnam Airport,/* History */
+2017-07-11T14:11:22+00:00,790083873,790083776,1,Chinnuabhiram600,Visakhapatnam Airport,/* Images */
+2017-07-11T14:10:35+00:00,790083776,790083374,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airport apron */
+2017-07-11T14:07:00+00:00,790083374,790083311,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airport Expansion */
+2017-07-11T14:06:28+00:00,790083311,790082434,1,Chinnuabhiram600,Visakhapatnam Airport,/* Runways */
+2017-07-11T13:59:23+00:00,790082434,790050351,1,Chinnuabhiram600,Visakhapatnam Airport,/* Terminals */
+2017-07-07T19:34:12+00:00,789507142,789500798,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airport Images */
+2017-07-04T17:28:24+00:00,788989639,788330498,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2017-07-04T17:26:15+00:00,788989378,788988927,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-07-04T17:22:58+00:00,788988927,788434169,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-30T21:13:41+00:00,788330498,787928800,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2017-06-30T21:10:00+00:00,788330000,785740950,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-06-30T21:08:10+00:00,788329768,788275096,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-27T19:17:56+00:00,787821631,786821502,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-06-21T19:59:43+00:00,786821502,786645807,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-20T18:07:17+00:00,786645807,786257872,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-06-17T17:20:14+00:00,786160765,786132289,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-14T10:43:27+00:00,785589800,785589022,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-06-14T10:39:37+00:00,785589386,785069264,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2017-06-14T10:36:15+00:00,785589022,785588291,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-14T10:34:07+00:00,785588785,785466744,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-06-14T10:29:17+00:00,785588291,785587846,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-14T10:25:10+00:00,785587846,784915563,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-13T17:54:11+00:00,785466744,785466561,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-13T17:52:56+00:00,785466561,785466365,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-13T17:51:18+00:00,785466365,785466293,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-13T17:50:47+00:00,785466293,785085678,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-11T13:40:18+00:00,785069264,785069198,1,Chinnuabhiram600,Rajiv Gandhi International Airport,
+2017-06-11T13:39:50+00:00,785069198,785028411,1,Chinnuabhiram600,Rajiv Gandhi International Airport,
+2017-06-11T07:17:47+00:00,785028022,785027999,1,Chinnuabhiram600,Kempegowda International Airport,
+2017-06-11T07:17:29+00:00,785027999,785011519,1,Chinnuabhiram600,Kempegowda International Airport,
+2017-06-11T07:15:34+00:00,785027805,785027776,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-11T07:15:17+00:00,785027776,784925430,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-10T17:26:39+00:00,784916197,783007045,1,Chinnuabhiram600,Rajahmundry Airport,/* Airlines and destinations */
+2017-06-10T17:24:59+00:00,784915963,784915915,1,Chinnuabhiram600,Kadapa Airport,
+2017-06-10T17:24:39+00:00,784915915,784602049,1,Chinnuabhiram600,Kadapa Airport,
+2017-06-10T17:24:00+00:00,784915823,784915763,1,Chinnuabhiram600,Rajiv Gandhi International Airport,
+2017-06-10T17:23:37+00:00,784915763,784808766,1,Chinnuabhiram600,Rajiv Gandhi International Airport,
+2017-06-10T17:22:57+00:00,784915657,784601522,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-06-10T17:22:18+00:00,784915563,784601270,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-10T17:21:18+00:00,784915420,784636078,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-06-09T04:49:33+00:00,784602049,784601988,1,Chinnuabhiram600,Kadapa Airport,
+2017-06-09T04:48:59+00:00,784601988,784374917,1,Chinnuabhiram600,Kadapa Airport,
+2017-06-09T04:48:05+00:00,784601879,784446912,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2017-06-09T04:44:55+00:00,784601522,784601451,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-06-09T04:44:25+00:00,784601451,783733651,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-06-09T04:43:52+00:00,784601393,784601361,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-09T04:43:33+00:00,784601361,784303581,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-09T04:42:36+00:00,784601270,784600013,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-04T08:42:05+00:00,783733941,783422205,1,Chinnuabhiram600,Kadapa Airport,/* Airlines and destinations */
+2017-06-04T08:39:51+00:00,783733762,783733728,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-04T08:39:27+00:00,783733728,783352292,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-04T08:38:36+00:00,783733651,783352429,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-06-04T08:37:58+00:00,783733600,783733579,1,Chinnuabhiram600,Rajiv Gandhi International Airport,
+2017-06-04T08:37:37+00:00,783733579,783376783,1,Chinnuabhiram600,Rajiv Gandhi International Airport,
+2017-06-04T08:36:27+00:00,783733499,783733389,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-04T08:34:55+00:00,783733389,783352594,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-01T18:35:06+00:00,783352594,783352534,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-01T18:34:38+00:00,783352534,783212703,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-06-01T18:33:46+00:00,783352429,783352376,1,Chinnuabhiram600,Tirupati Airport,
+2017-06-01T18:33:25+00:00,783352376,783212027,1,Chinnuabhiram600,Tirupati Airport,
+2017-06-01T18:32:51+00:00,783352292,783352251,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-01T18:32:34+00:00,783352251,783221649,1,Chinnuabhiram600,Vijayawada Airport,
+2017-06-01T18:31:47+00:00,783352140,782778114,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2017-05-31T20:57:00+00:00,783213794,783213772,1,Chinnuabhiram600,Ahmedabad Airport,
+2017-05-31T20:56:44+00:00,783213772,783155046,1,Chinnuabhiram600,Ahmedabad Airport,
+2017-05-31T20:55:48+00:00,783213634,779930420,1,Chinnuabhiram600,Surat Airport,/* Airlines and destinations */
+2017-05-31T20:53:05+00:00,783213295,782683527,1,Chinnuabhiram600,Dabolim Airport,/* Passenger */
+2017-05-31T20:51:04+00:00,783213017,782414570,1,Chinnuabhiram600,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-05-31T20:48:49+00:00,783212703,783211537,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-05-31T20:46:10+00:00,783212306,783212262,1,Chinnuabhiram600,Dr. Babasaheb Ambedkar International Airport,
+2017-05-31T20:45:51+00:00,783212262,783157763,1,Chinnuabhiram600,Dr. Babasaheb Ambedkar International Airport,
+2017-05-31T20:45:05+00:00,783212175,783008271,1,Chinnuabhiram600,Swami Vivekananda Airport,/* Airlines and destinations */
+2017-05-31T20:43:54+00:00,783212027,783211975,1,Chinnuabhiram600,Tirupati Airport,
+2017-05-31T20:43:35+00:00,783211975,783084950,1,Chinnuabhiram600,Tirupati Airport,
+2017-05-31T20:42:24+00:00,783211837,783142305,1,Chinnuabhiram600,Kempegowda International Airport,/* Passenger */
+2017-05-31T20:40:56+00:00,783211666,782696085,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-05-31T20:39:45+00:00,783211537,783186770,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-31T17:25:56+00:00,783186770,783185209,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-05-31T17:13:58+00:00,783185209,783185059,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airport Expansion */
+2017-05-31T17:12:45+00:00,783185059,783157927,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-29T20:48:24+00:00,782887307,782856727,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-28T16:06:20+00:00,782696085,782389213,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-05-28T15:59:56+00:00,782695290,782694962,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-28T15:57:13+00:00,782694962,782486505,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-28T08:46:42+00:00,782651246,782651065,1,Chinnuabhiram600,Kempegowda International Airport,/* Airlines and destinations */
+2017-05-28T08:44:55+00:00,782651065,782354823,1,Chinnuabhiram600,Kempegowda International Airport,/* Passenger */
+2017-05-28T08:41:57+00:00,782650845,782650159,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-05-28T08:34:21+00:00,782650159,782617482,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-05-24T17:44:29+00:00,782050286,782050240,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-05-24T17:44:08+00:00,782050240,781801106,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-05-23T03:52:22+00:00,781769937,781769523,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-23T03:48:13+00:00,781769523,781117981,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-23T03:44:17+00:00,781769177,781757946,1,Chinnuabhiram600,Suvarnabhumi Airport,/* Passenger */
+2017-05-19T05:31:35+00:00,781117981,781113180,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-17T14:24:58+00:00,780843719,780843661,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-05-17T14:24:31+00:00,780843661,780670493,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-05-02T17:26:12+00:00,778361083,778361043,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-05-02T17:25:53+00:00,778361043,777597318,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-04-27T10:01:34+00:00,777467656,776478856,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-19T15:16:04+00:00,776196940,776196510,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-19T15:12:36+00:00,776196510,776037054,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-11T03:55:47+00:00,774863938,774193520,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-03T03:46:47+00:00,773555546,773409466,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-04-02T00:14:58+00:00,773366740,773366319,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-02T00:11:52+00:00,773366319,773365912,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-02T00:08:22+00:00,773365912,773330102,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T08:53:38+00:00,773255373,773255171,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T08:51:23+00:00,773255171,773254664,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T08:45:52+00:00,773254664,773249767,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T05:42:58+00:00,773238576,773238350,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-04-01T05:40:03+00:00,773238350,773136318,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-04-01T05:38:57+00:00,773238265,773237429,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T05:37:37+00:00,773238171,773238128,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-04-01T05:37:03+00:00,773238128,773136321,1,Chinnuabhiram600,Tirupati Airport,/* Airlines and destinations */
+2017-04-01T05:26:49+00:00,773237429,773237240,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T05:24:07+00:00,773237240,773236891,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T05:19:43+00:00,773236891,773236659,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-01T05:16:35+00:00,773236659,773198610,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-31T10:29:53+00:00,773109492,773109428,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-31T10:29:07+00:00,773109428,773109370,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-31T10:28:09+00:00,773109370,773095784,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-27T14:16:01+00:00,772474395,772436765,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-03-27T06:21:08+00:00,772427173,772322977,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-03-26T00:25:02+00:00,772218778,772202454,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2017-03-26T00:23:12+00:00,772218547,772218330,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-26T00:21:35+00:00,772218330,772204617,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-25T10:45:19+00:00,772109564,772109514,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-25T10:44:42+00:00,772109514,772106816,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-23T15:29:23+00:00,771794676,771794579,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-03-23T15:28:48+00:00,771794579,771760973,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-03-23T09:04:44+00:00,771750974,771750919,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-23T09:04:04+00:00,771750919,771708907,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-23T08:59:34+00:00,771750494,771479095,1,Chinnuabhiram600,Bandaranaike International Airport,/* Passenger */
+2017-03-22T20:44:57+00:00,771662537,771662349,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-22T20:43:37+00:00,771662349,771662240,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-22T20:42:59+00:00,771662240,771661468,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-22T20:39:03+00:00,771661468,771660479,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-22T20:33:14+00:00,771660479,771658809,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-22T20:23:22+00:00,771658809,771565799,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-21T03:44:42+00:00,771367807,771367749,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-21T03:44:03+00:00,771367749,771213439,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-19T16:08:56+00:00,771108153,771102968,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-19T13:51:35+00:00,771091055,771090658,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-19T13:48:16+00:00,771090658,770605443,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-07T20:49:51+00:00,769145582,768356536,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and destinations */
+2017-02-27T22:28:29+00:00,767780923,767780855,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-02-27T22:27:59+00:00,767780855,767636644,1,Chinnuabhiram600,Visakhapatnam Airport,
+2017-02-26T05:30:44+00:00,767483160,767482594,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and Destinations */
+2017-02-26T05:29:35+00:00,767483054,767168272,1,Chinnuabhiram600,Cochin International Airport,/* Passenger */
+2017-02-26T05:26:44+00:00,767482740,767168914,1,Chinnuabhiram600,Mangalore International Airport,/* Airlines and destinations */
+2017-02-26T05:25:11+00:00,767482594,767481851,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and Destinations */
+2017-02-26T05:23:55+00:00,767482485,767482374,1,Chinnuabhiram600,Kempegowda International Airport,/* Airlines and destinations */
+2017-02-26T05:22:41+00:00,767482374,767157340,1,Chinnuabhiram600,Kempegowda International Airport,/* Airlines and destinations */
+2017-02-25T19:23:38+00:00,767409560,767409243,1,Chinnuabhiram600,TruJet,/* Destinations */
+2017-02-25T19:21:07+00:00,767409243,767408971,1,Chinnuabhiram600,TruJet,/* Destinations */
+2017-02-25T19:19:17+00:00,767408971,764653116,1,Chinnuabhiram600,TruJet,/* Destinations */
+2017-02-25T19:15:57+00:00,767408533,766357458,1,Chinnuabhiram600,Chennai International Airport,/* Passenger */
+2017-02-25T19:12:38+00:00,767408111,767408077,1,Chinnuabhiram600,Tirupati Airport,
+2017-02-25T19:12:18+00:00,767408077,766257015,1,Chinnuabhiram600,Tirupati Airport,
+2017-02-25T19:11:37+00:00,767407987,767382339,1,Chinnuabhiram600,Rajiv Gandhi International Airport,/* Passenger */
+2017-02-25T19:08:48+00:00,767407646,767407596,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-02-25T19:08:22+00:00,767407596,767067752,1,Chinnuabhiram600,Vijayawada Airport,/* Airlines and destinations */
+2017-02-25T19:04:21+00:00,767407066,767406507,1,Chinnuabhiram600,Visakhapatnam Airport,/* Airlines and Destinations */
+2019-07-05T19:00:08+00:00,904948745,904948617,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-07-05T18:58:42+00:00,904948617,904806846,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-07-04T17:45:43+00:00,904806846,904806788,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-07-04T17:45:05+00:00,904806788,904665215,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-07-03T17:24:26+00:00,904665215,904631785,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-07-02T18:07:03+00:00,904515801,904515747,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-07-02T18:06:38+00:00,904515747,904474740,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-07-01T18:10:54+00:00,904368308,904368252,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-07-01T18:10:27+00:00,904368252,904209090,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-30T17:47:56+00:00,904209090,904209048,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-30T17:47:35+00:00,904209048,904055794,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-06-29T17:49:02+00:00,904055794,904055751,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-29T17:48:41+00:00,904055751,903905638,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-28T17:45:46+00:00,903905638,903905606,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-28T17:45:27+00:00,903905606,903691829,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-06-26T17:37:15+00:00,903602811,903514791,1,Chinnuabhiram611,Vijayawada Airport,
+2019-06-26T17:35:37+00:00,903602619,903602585,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-26T17:35:21+00:00,903602585,903590799,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-26T03:27:05+00:00,903515073,903399439,1,Chinnuabhiram611,Tirupati Airport,/* Airlines and destinations */
+2019-06-26T03:25:57+00:00,903514969,903455271,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-06-26T03:24:11+00:00,903514791,903395240,1,Chinnuabhiram611,Vijayawada Airport,/* Airlines and destinations */
+2019-06-24T17:38:43+00:00,903269700,903269651,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-24T17:38:21+00:00,903269651,903118893,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-23T18:03:52+00:00,903118893,903118446,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-06-23T18:00:40+00:00,903118446,903012183,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-21T18:38:44+00:00,902852493,902852465,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-21T18:38:28+00:00,902852465,902782084,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-21T06:46:04+00:00,902782084,902782061,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-21T06:45:46+00:00,902782061,902573035,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-19T19:01:22+00:00,902573035,902572960,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-19T19:00:51+00:00,902572960,902421806,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-06-18T18:22:08+00:00,902421806,902421777,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-18T18:21:54+00:00,902421777,902286430,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-17T20:16:46+00:00,902286430,902286396,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-17T20:16:33+00:00,902286396,902125040,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-16T18:48:32+00:00,902125040,902125012,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-16T18:48:17+00:00,902125012,901969387,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-14T18:04:28+00:00,901851688,901851646,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-14T18:04:08+00:00,901851646,901711911,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-14T07:29:47+00:00,901782297,901735309,1,Chinnuabhiram611,2019 Andhra Pradesh Legislative Assembly election,/* Vizianagaram */
+2019-06-13T19:21:07+00:00,901711911,901711891,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-13T19:20:52+00:00,901711891,901260093,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-10T18:16:25+00:00,901260487,901260432,1,Chinnuabhiram611,Chhatrapati Shivaji Maharaj International Airport,
+2019-06-10T18:16:02+00:00,901260432,901117636,1,Chinnuabhiram611,Chhatrapati Shivaji Maharaj International Airport,
+2019-06-10T18:13:09+00:00,901260093,901260049,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-10T18:12:54+00:00,901260049,900813963,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-07T18:52:39+00:00,900813963,900720936,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-06-06T19:19:42+00:00,900631535,900631502,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-06T19:19:27+00:00,900631502,900615301,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-06T17:33:26+00:00,900615629,900101902,1,Chinnuabhiram611,Vijayawada Airport,/* Airlines and destinations */
+2019-06-06T17:32:08+00:00,900615425,900528816,1,Chinnuabhiram611,Mysore Airport,/* Airlines and destinations */
+2019-06-06T17:31:13+00:00,900615301,900377443,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-06-04T20:50:46+00:00,900315917,900315871,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-06-04T20:50:27+00:00,900315871,900116268,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-05-30T17:45:05+00:00,899533662,899533616,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-05-30T17:44:43+00:00,899533616,899452123,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-05-29T19:41:09+00:00,899398354,899398303,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-05-29T19:40:45+00:00,899398303,899338142,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-05-28T18:50:54+00:00,899239854,899162637,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-05-28T18:49:58+00:00,899239726,899239658,1,Chinnuabhiram611,Vijayawada Airport,
+2019-05-28T18:49:27+00:00,899239658,899206055,1,Chinnuabhiram611,Vijayawada Airport,/* Airlines and destinations */
+2019-05-26T17:52:44+00:00,898907031,898906980,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-05-26T17:52:24+00:00,898906980,898898403,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-05-24T18:22:12+00:00,898605636,898605592,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-05-24T18:21:51+00:00,898605592,898577825,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-05-21T20:43:03+00:00,898168858,898168813,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-05-21T20:42:39+00:00,898168813,897932372,1,Chinnuabhiram611,Visakhapatnam Airport,/* Airlines and destinations */
+2019-05-20T08:18:48+00:00,897932372,897932312,1,Chinnuabhiram611,Visakhapatnam Airport,
+2019-05-20T08:18:15+00:00,897932312,897931877,1,Chinnuabhiram611,Visakhapatnam Airport,
+2018-11-25T09:01:46+00:00,870513362,870513264,0,LeoFrank,Ahmedabad Airport,fix
+2017-04-01T14:05:09+00:00,773284383,773263794,0,Captaingunadeep,Biju Patnaik Airport,IndiGo uses Night parking facility at Bhubaneswar Airport. Not used under hub-and-spoke system.. Read [[Airline hub]]
+2017-12-09T03:49:56+00:00,814491604,814417745,0,Pink 86,Biju Patnaik Airport,/* Scheduled */Airasia preponds the schedule.
+2017-11-17T10:29:25+00:00,810775375,809048982,0,Itzchampak,Biju Patnaik Airport,
+2017-08-01T02:05:07+00:00,793327421,793067740,0,2405:204:7388:EF6D:307F:B6F4:6E2C:C734,Ahmedabad Airport,/* Cargo */
+2017-07-14T15:20:18+00:00,790561848,789441865,0,49.205.149.94,Ahmedabad Airport,/* Passenger */
+2018-11-18T16:48:24+00:00,869439198,869253998,0,116.72.213.115,Ahmedabad Airport,/* Passenger */
+2018-11-06T18:58:22+00:00,867594504,867449512,0,47.8.133.226,2019 Andhra Pradesh Legislative Assembly election,
+2019-03-20T08:29:43+00:00,888614993,888198569,0,649pardeep,Ahmedabad Airport,
+2018-03-15T14:27:43+00:00,830547035,830493273,0,45.249.122.223,Chennai International Airport,/* Passenger */
+2018-06-10T06:10:32+00:00,845209755,845206872,0,LeoFrank,Chaudhary Charan Singh International Airport,Reverted 1 edit by [[Special:Contributions/Akshaym1234|Akshaym1234]] ([[User talk:Akshaym1234|talk]]): Given in vistara schedules. ([[WP:TW|TW]])
+2019-02-25T17:34:03+00:00,885051209,885008294,0,Harsh7422,Chaudhary Charan Singh International Airport,/* Terminals */
+2018-05-09T19:56:09+00:00,840422443,837990092,0,2405:204:7104:2F76:0:0:1835:70AC,Bandaranaike International Airport,
+2018-06-04T10:38:18+00:00,844351880,844043225,0,Akshaym1234,Chaudhary Charan Singh International Airport,/* Airlines and destinations */
+2018-02-22T08:25:01+00:00,827018211,826894500,0,Ironhulk01,Ahmedabad Airport,/* Passenger */Added content
+2017-05-29T08:44:55+00:00,782805110,782773671,0,FlyJet777,Bandaranaike International Airport,/* Passenger */
+2019-05-12T11:09:38+00:00,896710512,896317180,0,Fylindfotberserk,Chaudhary Charan Singh International Airport,"Adding local [[Wikipedia:Short description|short description]]: ""Airport located in Lucknow, Uttar Pradesh, India"" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+2018-01-14T02:08:19+00:00,820293206,820163428,0,Pink 86,Biju Patnaik Airport,/* Airlines and destinations */
+2017-09-20T20:53:09+00:00,801627163,801432585,0,2601:240:CC00:420:DD97:A615:CCFD:39B0,Chennai International Airport,/* Passenger */
+2017-10-28T16:14:25+00:00,807535756,807362179,0,157.50.9.129,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2018-10-05T13:22:10+00:00,862604566,862504177,0,LeoFrank,Dr. Babasaheb Ambedkar International Airport,Reverted edits by [[Special:Contribs/2405:204:9490:EF32:C47E:CB4E:B89C:7A29|2405:204:9490:EF32:C47E:CB4E:B89C:7A29]] ([[User talk:2405:204:9490:EF32:C47E:CB4E:B89C:7A29|talk]]) to last version by 45.116.150.205
+2017-06-09T08:32:36+00:00,784626414,783162680,0,65.162.175.19,Duvvada railway station,Changed from Dist  to city as it is part of the GVMC limits
+2018-10-29T13:18:13+00:00,866289407,865998016,0,LeoFrank,Cochin International Airport,"/* Passenger */ per the schedules, IX486 is COK-BLR-SIN"
+2018-09-09T14:25:49+00:00,858773432,858751134,0,LeoFrank,Chhatrapati Shivaji Maharaj International Airport,Reverted 1 edit by [[Special:Contributions/103.60.175.15|103.60.175.15]] ([[User talk:103.60.175.15|talk]]): [[MOS:IS]]. ([[WP:TW|TW]])
+2018-01-23T13:08:08+00:00,821932018,821922228,0,LeoFrank,Dr. Babasaheb Ambedkar International Airport,Reverted to revision 821785547 by [[Special:Contributions/LeoFrank|LeoFrank]] ([[User talk:LeoFrank|talk]]): Rvv by IPs. ([[WP:TW|TW]])
+2019-01-21T16:16:36+00:00,879491038,878371222,0,103.75.161.66,Dabolim Airport,
+2018-09-25T17:20:53+00:00,861180788,860439225,0,118.91.180.78,Chhatrapati Shivaji Maharaj International Airport,
+2018-11-09T22:13:02+00:00,868085451,868011005,0,Shady59,Cochin International Airport,Reverted to revision 867084835 by [[Special:Contributions/LeoFrank|LeoFrank]] ([[User talk:LeoFrank|talk]]). ([[WP:TW|TW]])
+2018-05-16T06:54:13+00:00,841499700,841033916,0,123.201.156.15,Duvvada railway station,
+2019-02-19T06:29:11+00:00,884053942,884053695,0,Marck777,Dabolim Airport,fixed a link
+2018-11-26T07:18:56+00:00,870662061,869256608,0,43.248.75.65,Dr. Babasaheb Ambedkar International Airport,/* Airlines and destinations */
+2019-02-20T12:53:04+00:00,884245704,882473396,0,2405:204:6483:B22F:B80E:C5D9:CBF1:7E54,Kadapa Airport,/* Airlines and destinations */
+2019-01-14T20:28:31+00:00,878435813,877991802,0,MSG17,Dr. Babasaheb Ambedkar International Airport,Fixed formatting
+2018-10-23T07:05:17+00:00,865328960,851444635,0,LeoFrank,Jagdalpur Airport,Air odisha has suspended operations; that makes no scheduled operator to this airport
+2017-03-04T16:40:46+00:00,768573789,766202701,0,117.246.148.151,Kadapa Airport,
+2018-10-17T17:01:52+00:00,864501138,864498701,0,2405:204:1D:121C:2DDB:B94B:5C60:3D47,Chhatrapati Shivaji Maharaj International Airport,
+2019-02-22T16:14:21+00:00,884583680,884583632,0,Serols,Jagdalpur Airport,Reverted edits by [[Special:Contributions/117.198.3.125|117.198.3.125]] ([[User talk:117.198.3.125|talk]]) ([[WP:HG|HG]]) (3.4.6)
+2019-03-14T11:50:12+00:00,887718978,878173469,0,106.203.113.52,Duvvada railway station,
+2019-05-09T17:27:20+00:00,896314725,896138872,0,116.197.184.14,Kadapa Airport,/* Airlines and destinations */ connecting flights
+2017-09-26T15:39:03+00:00,802503481,802142239,0,117.227.60.225,Kadapa Airport,Runway changed to 6562 m
+2019-05-14T11:55:31+00:00,897039317,896314725,0,173.29.118.136,Kadapa Airport,/* Airlines and destinations */
+2018-10-23T07:03:52+00:00,865328884,860822543,0,LeoFrank,Kadapa Airport,/* Airlines and destinations */ 6X has suspended operations; no bookings available
+2017-12-03T12:30:21+00:00,813389721,813372035,0,LeoFrank,Kempegowda International Airport,Reverted 1 edit by [[Special:Contributions/Crazy mind|Crazy mind]] ([[User talk:Crazy mind|talk]]): [[WP:BALL]]. ([[WP:TW|TW]])
+2017-10-22T14:09:38+00:00,806510004,806509921,0,LeoFrank,Kempegowda International Airport,/* Passenger */ {{nowrap}}
+2019-05-22T14:51:32+00:00,898274068,898273971,0,115.64.58.28,Kempegowda International Airport,/* Airlines and destinations */
+2018-08-22T20:36:03+00:00,856093288,856024911,0,Jnanaranjan sahu,Kempegowda International Airport,/* Terminals */
+2018-11-06T16:49:30+00:00,867578073,867526709,0,649pardeep,Kempegowda International Airport,/* Passenger */Added 3rd column for refs
+2018-09-10T17:23:28+00:00,858942110,858941961,0,Imblr,Kempegowda International Airport,/* Passenger */
+2018-10-05T06:01:40+00:00,862564698,862432514,0,LeoFrank,Kempegowda International Airport,/* Passenger */ add routesonline ref for BKK by AI
+2019-02-06T19:49:53+00:00,882091527,882032414,0,Shreyasjaronde14,Kempegowda International Airport,Added content
+2018-10-30T14:48:05+00:00,866469655,866289268,0,LeoFrank,Kempegowda International Airport,clean up
+2017-09-25T17:09:11+00:00,802355156,802021281,0,103.16.71.100,Kempegowda International Airport,
+2019-02-11T14:33:15+00:00,882815885,882768386,0,124.123.52.185,Kempegowda International Airport,/* Passenger */
+2019-01-31T18:22:17+00:00,881140038,881094090,0,ShivDewan99,Kempegowda International Airport,/* Future plans */
+2018-07-04T13:58:45+00:00,848812823,848797735,0,LeoFrank,Kempegowda International Airport,Reverted edits by [[Special:Contribs/123.201.249.106|123.201.249.106]] ([[User talk:123.201.249.106|talk]]) to last version by LeoFrank
+2017-07-06T06:12:38+00:00,789240164,789109837,0,183.82.16.14,Kempegowda International Airport,Added Bus timings for AC Bus Service to and from the Airport
+2019-07-01T15:09:01+00:00,904345718,904295426,0,91.140.145.116,Kempegowda International Airport,/* Passenger */
+2018-06-14T07:52:11+00:00,845804809,845734777,0,004.Berni.B,Kempegowda International Airport,/* Passenger */
+2018-06-18T12:47:50+00:00,846386300,846282482,0,106.202.197.214,Lal Bahadur Shastri Airport,
+2018-01-05T18:43:56+00:00,818811356,818811278,0,2405:204:4086:AF28:857F:DD76:691F:16E6,Lal Bahadur Shastri Airport,
+2018-12-30T14:57:12+00:00,876005177,875431906,0,649pardeep,Lokpriya Gopinath Bordoloi International Airport,/* Airlines and destinations */Added refs column
+2017-12-10T22:15:26+00:00,814780388,814620717,0,2601:1C1:8100:A262:79E9:4DB2:A4C9:4601,Kempegowda International Airport,/* Passenger */
+2017-04-30T10:55:08+00:00,777965663,777963377,0,LeoFrank,Lal Bahadur Shastri Airport,/* Airlines and destinations */ ended
+2018-07-30T16:48:44+00:00,852678736,852678310,0,Iqraaka,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-07-16T03:19:40+00:00,850476474,850171664,0,103.219.206.3,Kempegowda International Airport,/* Passenger */
+2018-05-21T16:11:34+00:00,842306225,841968493,0,RSJ1973,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */Minor alteration
+2019-04-08T13:15:13+00:00,891516702,891516587,0,83.171.184.234,Kempegowda International Airport,"irrelevant image, disorts the layout"
+2018-06-02T06:26:34+00:00,844043335,840213159,0,122.163.255.62,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-11-10T20:16:05+00:00,868221305,868156985,0,2405:204:E304:8CB3:B27A:95B7:49D8:8A25,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-09-07T08:40:51+00:00,858451953,858451928,0,103.238.105.174,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */
+2018-05-01T10:19:02+00:00,839113338,839113055,0,Vibhss,Lokpriya Gopinath Bordoloi International Airport,updated stat year
+2018-10-08T20:42:29+00:00,863118639,863097512,0,97.85.118.142,Mangalore International Airport,Undid revision 863097512 by [[Special:Contributions/খাঁ শুভেন্দু|খাঁ শুভেন্দু]] ([[User talk:খাঁ শুভেন্দু|talk]])booking engines not a reliable source.
+2018-12-31T13:34:50+00:00,876147584,872281718,0,649pardeep,Mangalore International Airport,/* Airlines and destinations */Added refs column
+2018-08-16T06:05:21+00:00,855138919,854166434,0,61.1.132.152,Mysore Airport,/* Airlines and destinations */Trujet doesn't operate direct flight from Mysuru to Hyderabad and Cuddapah.
+2019-04-19T11:14:30+00:00,893153854,888698940,0,106.76.42.189,Rajahmundry Airport,
+2018-02-02T17:13:28+00:00,823665549,823664014,0,223.237.242.124,Mysore Airport,/* Scheduled air service */
+2019-02-16T14:40:37+00:00,883613811,883613498,0,183.83.87.15,Rajahmundry Airport,
+2017-12-28T17:18:09+00:00,817477536,817396214,0,LeoFrank,Rajahmundry Airport,/* Airlines and destinations */ frequency is not to be mentioned per [[WP:AIRPORT-CONTENT]]
+2019-02-23T09:23:51+00:00,884687958,883613811,0,Vamsi10000,Rajahmundry Airport,
+2018-01-29T08:01:36+00:00,822921962,822921957,0,Coffee,Rajiv Gandhi International Airport,Adding {{pp-sock}}
+2018-11-24T02:44:40+00:00,870334957,870334888,0,LeoFrank,Rajiv Gandhi International Airport,"/* Cargo */ Istanbul, not Turkey"
+2018-10-28T11:58:31+00:00,866123883,866123708,0,Prafish,Rajiv Gandhi International Airport,/* Passenger */
+2017-10-12T02:17:48+00:00,804945077,804944112,0,Pink 86,Rajiv Gandhi International Airport,/* Passenger */
+2019-03-02T07:26:05+00:00,885777984,885347217,0,2401:4900:3688:E6C7:1:1:B896:9275,Rajiv Gandhi International Airport,/* Passenger */
+2019-05-15T03:18:37+00:00,897150651,897150336,0,103.49.52.145,Rajahmundry Airport,/* History */
+2018-11-08T11:10:40+00:00,867845368,867509107,0,649pardeep,Rajiv Gandhi International Airport,/* Airlines and destinations */Added 3rd column for Refs
+2019-02-18T19:41:32+00:00,883971971,883942762,0,2405:204:D480:9BB8:5B35:33BF:AC2D:C316,Rajiv Gandhi International Airport,/* Passenger */
+2017-06-14T18:52:31+00:00,785661605,785661255,0,FlyJet777,Rajiv Gandhi International Airport,"/* Passenger */ Chandigarh Airport is now spelled as Chandigarh International Airport. So, added ""International"" to the name."
+2018-03-21T14:49:27+00:00,831635062,831316456,0,Yashthepunisher,Rajiv Gandhi International Airport,Rescuing 86 sources and tagging 0 as dead. #IABot (v1.6.5)
+2018-09-24T04:27:10+00:00,860949770,860911233,0,27.59.154.206,Rajiv Gandhi International Airport,
+2018-11-13T15:37:16+00:00,868648422,867845368,0,LeoFrank,Rajiv Gandhi International Airport,/* Airlines and destinations */ add images of aircraft
+2018-12-07T07:58:38+00:00,872455820,872437381,0,LeoFrank,Rajiv Gandhi International Airport,Reverted 9 edits by [[Special:Contributions/Mir MohammadAk|Mir MohammadAk]] ([[User talk:Mir MohammadAk|talk]]): Unsourced. ([[WP:TW|TW]])
+2017-09-02T11:32:19+00:00,798528461,798523946,0,42.109.207.171,Rajiv Gandhi International Airport,/* Passenger */
+2018-03-31T07:04:12+00:00,833386819,833209698,0,649pardeep,Rajiv Gandhi International Airport,/* Passenger */Only Indigo operates non stop flight to Chandigarh (IXC).
+2019-05-15T07:33:19+00:00,897172665,897092003,0,124.123.249.175,Rajiv Gandhi International Airport,/* Construction and opening (2005–2008) */
+2018-06-22T14:38:46+00:00,847043295,846829407,0,Tarunuee,Rajiv Gandhi International Airport,/* Connectivity */ Hyderabad airport road is not the longest flyover in India. There are longer ones in Kanpur and in Mumbai.
+2018-05-06T16:22:05+00:00,839924046,839618001,0,MSG17,Rajiv Gandhi International Airport,
+2018-08-04T13:15:14+00:00,853393526,853375656,0,LeoFrank,Rajiv Gandhi International Airport,Reverted to revision 853124798 by [[Special:Contributions/14.141.64.5|14.141.64.5]] ([[User talk:14.141.64.5|talk]]): Rvv. ([[WP:TW|TW]])
+2017-07-31T03:03:21+00:00,793173277,793063484,0,183.83.223.48,Rajiv Gandhi International Airport,/* Passenger */ Removed the word 'international' from Dubai & Kuala Lumpur for consistency with other international destinations.
+2018-06-27T14:27:30+00:00,847749883,847043295,0,2405:204:6612:441D:0:0:225F:C0A5,Rajiv Gandhi International Airport,
+2017-12-29T03:12:03+00:00,817549733,817548586,0,183.82.209.130,Rajiv Gandhi International Airport,
+2017-04-24T14:39:13+00:00,776979263,776780643,0,Vibhss,Rajiv Gandhi International Airport,/* Passenger */
+2017-11-12T09:58:13+00:00,809921939,809921897,0,125.19.48.234,Rajiv Gandhi International Airport,/* Passenger */
+2017-09-05T23:07:50+00:00,799148534,799079256,0,2601:240:CC00:420:DD97:A615:CCFD:39B0,Rajiv Gandhi International Airport,/* Passenger */
+2017-11-03T20:49:26+00:00,808591991,808583657,0,104.187.76.152,Rajiv Gandhi International Airport,/* Passenger */
+2017-08-12T13:13:17+00:00,795166728,795147101,0,Sunnya343,Rajiv Gandhi International Airport,Undid revision 795145223 by [[Special:Contributions/49.48.106.130|49.48.106.130]] ([[User talk:49.48.106.130|talk]])already in alpha order
+2018-05-12T17:20:44+00:00,840860936,840379835,0,Manjappa A,Rajiv Gandhi International Airport,
+2018-11-17T22:06:31+00:00,869323421,869297783,0,VG31,Rajiv Gandhi International Airport,Reverted edits by [[Special:Contribs/2601:202:202:BE0C:40A5:9379:693C:2E03|2601:202:202:BE0C:40A5:9379:693C:2E03]] ([[User talk:2601:202:202:BE0C:40A5:9379:693C:2E03|talk]]) to last version by Wbm1058
+2017-08-13T04:20:32+00:00,795271818,795166728,0,73.106.72.232,Rajiv Gandhi International Airport,/* Passenger */
+2018-09-15T18:39:55+00:00,859700411,859355098,0,183.83.66.46,Rajiv Gandhi International Airport,/* Passenger */
+2017-10-04T03:07:49+00:00,803706773,803548510,0,2405:204:6101:9AB4:B686:BCB6:BAD6:A2A1,Rajiv Gandhi International Airport,Cross checked distance in google maps
+2018-01-25T15:26:08+00:00,822295417,822267565,0,LeoFrank,Rajiv Gandhi International Airport,"Reverted 2 edits by [[Special:Contributions/Deepscooby|Deepscooby]] ([[User talk:Deepscooby|talk]]): Though both sectors are flown by 77W, there is a change of aircraft at DEL. ([[WP:TW|TW]])"
+2018-04-01T12:46:52+00:00,833580034,833386819,0,LeoFrank,Rajiv Gandhi International Airport,Undid revision 833209698 by [[Special:Contributions/Kiranmore7991|Kiranmore7991]] ([[User talk:Kiranmore7991|talk]]); a firm date is required
+2018-01-05T18:32:27+00:00,818809615,818274463,0,Shone K. Sunny,Rajiv Gandhi International Airport,/* Passenger */
+2019-01-22T21:27:34+00:00,879702450,879634750,0,106.220.178.205,Rajiv Gandhi International Airport,
+2017-08-23T15:57:15+00:00,796876201,796670375,0,TravelLover37,Rajiv Gandhi International Airport,Undid revision 796670375 by [[Special:Contributions/49.48.127.54|49.48.127.54]] ([[User talk:49.48.127.54|talk]])
+2018-09-24T15:44:55+00:00,861011113,860949770,0,97.85.118.142,Rajiv Gandhi International Airport,Undid revision 860949770 by [[Special:Contributions/27.59.154.206|27.59.154.206]] ([[User talk:27.59.154.206|talk]])unreferenced
+2018-04-16T16:41:44+00:00,836747930,836747789,0,Crazy mind,Rajiv Gandhi International Airport,/* Airlines and destinations */Grammar
+2018-07-01T17:52:13+00:00,848401818,847963296,0,Otero12330,Sharjah International Airport,
+2018-09-12T00:34:58+00:00,859141539,858998161,0,CBG17,Sharjah International Airport,/* Passenger */
+2019-02-25T19:13:55+00:00,885065366,884886565,0,219.91.237.236,Surat Airport,/* Airlines and destinations */
+2017-11-28T13:19:48+00:00,812547199,812049714,0,Sunnya343,Suvarnabhumi Airport,/* Passenger */ correction with erf
+2017-10-19T12:08:40+00:00,806059488,805998391,0,180.34.2.254,Suvarnabhumi Airport,/* Airlines and destinations */
+2018-11-24T17:14:52+00:00,870414209,870405831,0,LeoFrank,Tirupati Airport,"Reverted 1 edit by [[Special:Contributions/LovSLif|LovSLif]] ([[User talk:LovSLif|talk]]): When you moved the article without any proper considerations, how well do you think you place this argument here? ([[WP:TW|TW]])"
+2017-09-13T15:09:52+00:00,800438165,800305692,0,Ambuj.kulshresth,Swami Vivekananda Airport,/* Airfield */Undid incorrect edit wrt runway length.
+2019-05-03T08:55:32+00:00,895297215,895191139,0,103.81.93.74,Surat Airport,
+2017-07-02T07:37:47+00:00,788584283,788582926,0,Jaywardhan009,Tirupati Airport,/* External links */
+2018-01-13T06:35:43+00:00,820131675,820131475,0,Ambuj.kulshresth,Swami Vivekananda Airport,/* Airfield */Updated the runway length as published in AAI brochure.
+2017-12-15T23:07:58+00:00,815615659,814373565,0,Dl2000,Tirupati Airport,en-IN
+2019-03-04T03:51:25+00:00,886077610,885531382,0,MB,Tirupati Airport,fix infobox maint error
+2018-07-28T00:41:34+00:00,852303308,849133044,0,Naniwako,Tirupati Airport,rm repeated language
+2019-03-07T01:44:51+00:00,886561490,886561470,0,Sunnya343,Tirupati Airport,airline names
+2017-05-08T14:44:37+00:00,779373870,779373827,0,Vin09,Tirupati Airport,Cleaned up using [[WP:AutoEd|AutoEd]]
+2018-06-24T18:02:14+00:00,847349095,845226361,0,103.84.178.14,Tirupati Airport,Updated website URL
+2017-12-08T12:10:28+00:00,814373565,811744643,0,45.114.36.220,Tirupati Airport,
+2019-05-11T09:40:32+00:00,896557869,896315670,0,Rdjmcu,Tirupati Airport,
+2018-09-14T17:27:09+00:00,859537457,859153657,0,Crazy mind,Tirupati Airport,/* Airlines and destinations */
+2017-10-01T17:38:29+00:00,803298728,801971431,0,2405:204:7109:7D0C:51CC:4D0E:62B3:81BC,Tirupati Airport,/* Airlines and destinations */
+2017-03-07T13:38:34+00:00,769082143,768902593,0,Aggi007,Tirupati Airport,made few corrections in Infobox as per [[Template:Infobox airport]]
+2018-02-26T06:22:44+00:00,827703913,827537058,0,2405:204:6221:38E2:48E1:E1F0:DF6C:1740,Tirupati Airport,/* Airlines and destinations */
+2019-05-14T00:04:18+00:00,896972439,896934440,0,Gilou2276,Tirupati Airport,/* Airlines and destinations */
+2017-08-26T06:12:50+00:00,797305254,797305152,0,103.229.26.94,Tirupati Airport,/* Airlines and destinations */
+2018-03-22T16:27:25+00:00,831873915,831014070,0,2405:204:668D:6B2C:0:0:AD4:70AC,Tirupati Airport,Correct distance optimised
+2017-10-21T09:41:09+00:00,806335389,805660042,0,Bingobro,Tirupati Airport,Removed the term international from the infobox.
+2018-01-07T06:06:19+00:00,819064774,818471428,0,14.139.185.125,Tirupati Airport,
+2017-04-28T17:47:38+00:00,777688802,773379242,0,171.70.232.157,Tirupati Airport,/* Airlines and destinations */
+2017-03-02T22:17:45+00:00,768286725,768245908,0,27.6.2.212,Tirupati Airport,
+2019-01-12T13:36:51+00:00,878021937,878019481,0,LovSLif,Tirupati Airport,"Leofrank, this is not social media page to attack personally as if you wish. Learn the facts or refrain from pinging me. I will keep on fighting for the integrity of actual facts"
+2018-04-25T20:23:43+00:00,838243702,838221463,0,FrescoBot,Tirupati Airport,Bot: [[User:FrescoBot/Links|link syntax]]
+2019-02-16T14:58:53+00:00,883615935,883593052,0,LovSLif,Tirupati Airport,Reverted 1 edit by [[Special:Contributions/157.49.223.144|157.49.223.144]] ([[User talk:157.49.223.144|talk]]) to last revision by 42.106.210.111 ([[WP:TW|TW]])
+2017-04-02T01:48:23+00:00,773379242,773311840,0,175.101.137.12,Tirupati Airport,
+2019-03-15T10:41:26+00:00,887869080,887547403,0,175.101.143.105,Tirupati Airport,
+2018-07-06T19:24:56+00:00,849133044,849132071,0,Shadowowl,Tirupati Airport,([[WP:HG|HG]]) (3.4.4)
+2017-09-02T11:56:17+00:00,798530897,798530688,0,Zzuuzz,Tirupati Airport,Reverted edits by [[Special:Contribs/72.70.46.66|72.70.46.66]] ([[User talk:72.70.46.66|talk]]) to last version by Chinnuabhiram600
+2017-08-16T08:44:51+00:00,795761926,795553101,0,Aggi007,Tirupati Airport,Undid revision 795553101 by [[Special:Contributions/Thetrumpkid101|Thetrumpkid101]] ([[User talk:Thetrumpkid101|talk]])
+2018-03-10T10:32:43+00:00,829717167,829422367,0,49.207.52.171,Tirupati Airport,/* Airlines and destinations */
+2017-11-23T17:31:41+00:00,811744643,811564742,0,Kashish008,Tirupati Airport,Undid revision 811564742 by [[Special:Contributions/202.156.182.84|202.156.182.84]] ([[User talk:202.156.182.84|talk]])
+2018-05-18T10:23:17+00:00,841829716,840684708,0,Kirannani,Tirupati–Jammu Tawi Humsafar Express,/* Loco link */
+2017-07-16T14:19:03+00:00,790848998,790848438,0,Feroze Ahmad 2,Tirupati–Sainagar Shirdi Express,
+2018-11-03T07:27:37+00:00,867045105,867044793,0,223.184.18.167,TruJet,/* Destinations */
+2019-05-08T02:53:00+00:00,896047919,896047300,0,Yellow alligator,TruJet,/* Destinations */Fixed content
+2018-04-06T03:27:53+00:00,834516750,832676230,0,60.243.83.200,TruJet,/* Fleet */
+2019-01-03T06:37:33+00:00,876589977,872147358,0,Saurabh272,TruJet,
+2018-02-01T18:48:42+00:00,823514781,823183557,0,117.215.34.124,TruJet,/* Fleet */
+2019-05-04T12:53:52+00:00,895464982,895452711,0,Rdjmcu,Vijayawada Airport,/* Statistics */
+2018-11-27T10:08:49+00:00,870842628,869690045,0,LeoFrank,User talk:Chinnuabhiram600,Only warning: Vandalism on [[:Visakhapatnam Airport]]. ([[WP:TW|TW]])
+2019-01-08T12:25:24+00:00,877401509,877379218,0,IM3847,Vijayawada Airport,Reverted 2 edits by [[Special:Contributions/202.153.44.117|202.153.44.117]] ([[User talk:202.153.44.117|talk]]) to last revision by 649pardeep. ([[WP:TW|TW]])
+2017-07-07T07:45:04+00:00,789426418,789258273,0,2405:204:6008:BBA:D20C:30FA:EFC4:C3F7,Vijayawada Airport,/* Airlines and destinations */No source or booking available for the same
+2017-07-29T21:31:04+00:00,792963202,792954387,0,2405:204:630F:D20D:0:0:B40:A0B1,Vijayawada Airport,/* Airlines and destinations */
+2017-08-18T18:59:37+00:00,796137686,796114868,0,Amdmustafa,Vijayawada Airport,/* Airlines and destinations */
+2019-02-15T17:04:18+00:00,883475299,883442696,0,Davemck,Vijayawada Airport,rmv duplicate parms
+2018-11-23T02:51:39+00:00,870192630,870101358,0,LeoFrank,Vijayawada Airport,Reverted edits by [[Special:Contribs/2409:4070:2284:F2E9:A5C7:60D1:FCE:F022|2409:4070:2284:F2E9:A5C7:60D1:FCE:F022]] ([[User talk:2409:4070:2284:F2E9:A5C7:60D1:FCE:F022|talk]]) to last version by LeoFrank
+2018-03-19T01:56:40+00:00,831156902,830681597,0,70.182.0.74,Vijayawada Airport,Website link to the Airport on Airp[orts Authority of India
+2018-06-26T16:18:31+00:00,847615762,847614429,0,RMCD bot,Vijayawada Airport,Removing notice of move discussion
+2018-12-10T17:42:34+00:00,873021547,872989912,0,199.67.140.46,Vijayawada Airport,/* Structure and amenities */
+2018-10-02T16:54:23+00:00,862173748,862173439,0,2401:4900:367C:FF93:5D66:A0C4:D826:E058,Vijayawada Airport,/* Airlines and destinations */
+2018-05-15T06:18:39+00:00,841334055,841233535,0,175.101.88.225,Vijayawada Airport,/* Airlines and destinations */
+2018-12-30T14:13:09+00:00,876000405,875627202,0,649pardeep,Vijayawada Airport,/* Airlines and destinations */Added refs column
+2018-03-25T16:35:40+00:00,832375043,832361492,0,Krinavolu,Vijayawada Airport,/* Airlines and destinations */
+2017-03-22T07:33:27+00:00,771566171,770461251,0,65.162.175.18,Vijayawada Airport,/* Airlines and destinations */
+2018-06-01T03:16:29+00:00,843882301,843882249,0,LeoFrank,Vijayawada Airport,corrected name
+2017-08-20T14:44:25+00:00,796391797,796382680,0,103.252.24.35,Vijayawada Airport,/* Airlines and destinations */
+2017-11-15T18:47:18+00:00,810513785,810059760,0,2601:240:CC00:420:BC0D:CD40:8AFA:B395,Vijayawada Airport,/* Airlines and destinations */
+2018-08-22T02:57:46+00:00,855974949,855974860,0,175.101.88.225,Vijayawada Airport,/* Airlines and destinations */
+2018-04-06T10:36:21+00:00,834554430,834551410,0,2405:204:6089:49BD:AB79:5E60:9091:365E,Vijayawada Airport,/* Airlines and destinations */
+2018-06-02T19:52:50+00:00,844125593,843960395,0,TheMagikBOT,Vijayawada Airport,Added page protection template where none existed
+2017-03-06T13:42:17+00:00,768909499,768878375,0,Vin09,Vijayawada Airport,Reverted to revision 768347865 by [[Special:Contributions/Reforety|Reforety]] ([[User talk:Reforety|talk]]): Corrected. ([[WP:TW|TW]])
+2018-04-03T08:08:16+00:00,833973378,833550467,0,123.201.237.196,Vijayawada Airport,Indigo added Vizag-Vijayawada flight
+2017-10-30T13:56:36+00:00,807853968,807837380,0,IM3847,Vijayawada Airport,Reverted 2 edits by [[Special:Contributions/14.139.185.121|14.139.185.121]] ([[User talk:14.139.185.121|talk]]) to last revision by 188.71.232.171. ([[WP:TW|TW]])
+2018-09-22T16:50:25+00:00,860726471,860708010,0,Roshan praneeth,Vijayawada Airport,/* Airlines and destinations */
+2019-05-31T02:07:57+00:00,899591047,899547579,0,Ktdk,Vijayawada Airport,/* Airlines and destinations */
+2018-01-05T20:20:17+00:00,818824050,818821347,0,Venkatsfv,Vijayawada Airport,/* Statistics */Added content of ground transportation.
+2018-09-14T16:44:35+00:00,859531678,859493288,0,106.51.5.149,Vijayawada Airport,
+2017-05-18T06:55:13+00:00,780961945,780961632,0,Jupitus Smart,Vijayawada Airport,Reverted 1 edit by [[Special:Contributions/178.152.254.191|178.152.254.191]] ([[User talk:178.152.254.191|talk]]): Don't do that Mani. ([[WP:TW|TW]])
+2018-12-18T04:24:52+00:00,874266955,874266944,0,ClueBot NG,Vijayawada Airport,"Reverting possible vandalism by [[Special:Contribs/37.39.104.52|37.39.104.52]] to version by Vamsi10000. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3563825) (Bot)"
+2019-02-24T12:40:26+00:00,884852853,884765599,0,GünniX,Vijayawada Airport,Template fixed
+2018-09-24T07:58:38+00:00,860965206,860955565,0,223.238.10.124,Vijayawada Airport,/* Airlines and destinations */
+2017-09-03T09:14:49+00:00,798704117,798462462,0,Vibhss,Vijayawada Airport,"/* Airlines and destinations */ Alliance  Air' s flight to Chennai has commenced, source isn't needed anymore"
+2018-07-15T07:24:20+00:00,850339152,850325251,0,Trinidade,Vijayawada Airport,Undid revision 843445080 by [[Special:Contributions/223.182.82.201|223.182.82.201]] ([[User talk:223.182.82.201|talk]])
+2018-11-09T02:30:37+00:00,867960097,867936047,0,LeoFrank,Vijayawada Airport,Reverted 1 edit by [[Special:Contributions/Asianperu|Asianperu]] ([[User talk:Asianperu|talk]]): Spam; [[WP:RS|blogs are not reliable sources]]. ([[WP:TW|TW]])
+2017-12-01T01:27:41+00:00,812984287,812919865,0,IM3847,Vijayawada Airport,Reverted 1 edit by [[Special:Contributions/2405:204:668A:1854:0:0:3F6:28B0|2405:204:668A:1854:0:0:3F6:28B0]] ([[User talk:2405:204:668A:1854:0:0:3F6:28B0|talk]]) to last revision by 2405:204:8085:5D8F:7461:5EAC:D000:31B6. ([[WP:TW|TW]])
+2017-05-23T21:31:47+00:00,781900173,781795986,0,RMCD bot,Vijayawada Airport,Removing notice of move discussion
+2019-03-11T11:17:55+00:00,887235845,886793742,0,Captaingunadeep,Vijayawada Airport,Undid revision 886793742 by [[Special:Contributions/103.37.201.77|103.37.201.77]] ([[User talk:103.37.201.77|talk]])
+2018-10-08T08:05:22+00:00,863030268,862832841,0,IM3847,Vijayawada Airport,removed content as per [[WP;SOAP]]
+2018-02-21T13:47:43+00:00,826875702,825755525,0,103.81.32.203,Vijayawada Airport,
+2018-03-29T18:13:35+00:00,833105877,833105341,0,Jessicapierce,Vijayawada Airport,minor copy edits
+2019-03-20T12:51:20+00:00,888637056,888602444,0,Rdjmcu,Vijayawada Airport,/* Airlines and destinations */
+2017-04-28T10:02:22+00:00,777630890,777215970,0,Captaingunadeep,Vijayawada Airport,/* Airlines and destinations */Zoom Air has dropped down plans to connect Vijayawada. Planning STV-BOM-TIR-BOM-STV
+2019-03-16T05:16:38+00:00,887991509,887919933,0,2405:204:6088:9ABD:0:0:15A4:20B1,Vijayawada Airport,
+2017-09-14T15:12:36+00:00,800601613,800601470,0,Vibhss,Vijayawada Airport,
+2018-11-19T03:56:04+00:00,869521828,869271132,0,Pmwiki15,Vijayawada Airport,Added info pertaining to old building revamp for int'l ops.
+2018-01-21T09:10:36+00:00,821573762,821397214,0,14.139.185.125,Vijayawada Airport,
+2017-10-12T09:24:04+00:00,804982253,804957987,0,Krishyvr,Vijayawada Airport,
+2018-06-19T14:44:49+00:00,846563171,844125593,0,RMCD bot,Vijayawada Airport,Notifying of move discussion on [[Talk:Vijayawada International Airport#Requested move 19 June 2018 |Talk:Vijayawada International Airport]]
+2017-04-02T13:37:07+00:00,773450633,773434720,0,Vin09,Vijayawada Airport,Clean up
+2018-03-11T02:12:39+00:00,829833689,829437748,0,49.204.174.228,Vijayawada Airport,/* History */
+2017-11-30T17:47:49+00:00,812919865,811827724,0,2405:204:668A:1854:0:0:3F6:28B0,Vijayawada Airport,/* Airlines and destinations */
+2018-07-27T04:40:11+00:00,852175440,851715566,0,175.101.88.225,Vijayawada Airport,/* Structure and amenities */
+2017-05-10T00:03:02+00:00,779620758,779526715,0,Pppery,Vijayawada Airport,"Pppery moved page [[Vijayawada International Airport]] to [[Vijayawada Airport]] over redirect: Revert execution of requested move before closure - part of the RM is about adding ""international"""
+2018-10-12T01:27:34+00:00,863637316,863637008,0,LeoFrank,Vijayawada Airport,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Pmwiki15|Pmwiki15]] ([[User talk:Pmwiki15|talk]]): Not notable; [[WP:PARAPHRASE]]. ([[WP:TW|TW]])
+2017-12-13T05:14:33+00:00,815168984,815151393,0,2001:420:C0C8:1005:0:0:0:21B,Vijayawada Airport,
+2019-02-27T16:31:03+00:00,885369794,885369558,0,Vamsi10000,Vijayawada Airport,/* Terminals */
+2017-06-10T18:15:51+00:00,784925430,784915420,0,IM3847,Vijayawada Airport,Reverted 1 edit by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]) to last revision by AnomieBOT. ([[WP:TW|TW]])
+2019-05-03T11:05:53+00:00,895307813,895296321,0,Rdjmcu,Vijayawada Airport,/* Airlines and destinations */IndiGo has extended its services to Singapore from Vijayawada for confirmation to Indigo website
+2017-06-14T12:22:47+00:00,785601774,785588785,0,FlyJet777,Vijayawada Airport,Undid revision 785588785 by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]) There is not any press release nor the airline has opened reservation for the flights.
+2019-03-29T02:33:52+00:00,889958710,889575352,0,175.101.88.225,Vijayawada Airport,Spicejet terminated their kochi via tirupati flight service from today onwards.
+2018-04-01T08:11:36+00:00,833550467,833550244,0,106.76.206.107,Vijayawada Airport,/* Accidents and incidents */
+2017-12-21T04:03:13+00:00,816407604,816302799,0,103.245.197.34,Vijayawada Airport,/* Airlines and destinations */
+2019-03-24T13:45:41+00:00,889248138,889234421,0,Rdjmcu,Vijayawada Airport,
+2018-02-25T13:06:00+00:00,827564248,827554466,0,TheMagikBOT,Visakhapatnam Airport,Added page protection template where none existed
+2019-05-11T05:58:30+00:00,896539975,896378501,0,49.199.226.73,Visakhapatnam Airport,/* Airlines and destinations */Updated date
+2017-08-10T04:34:34+00:00,794804927,794321060,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-28T03:27:51+00:00,777597318,777550038,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */Schedule shows bygone date. Bookings not open.
+2017-08-27T14:59:42+00:00,797516478,797354217,0,223.206.250.253,Visakhapatnam Airport,/* Airlines and destinations */
+2018-02-21T13:33:33+00:00,826873953,826873753,0,219.91.254.46,Visakhapatnam Airport,
+2019-04-16T04:02:51+00:00,892678179,892661556,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-17T14:25:09+00:00,775857170,775664650,0,Captaingunadeep,Visakhapatnam Airport,reference is no longer required
+2018-06-21T09:03:13+00:00,846857014,846856335,0,LeoFrank,Visakhapatnam Airport,Reverted edits by [[Special:Contribs/2401:4900:16B7:2100:FC82:31C6:D5EE:39F3|2401:4900:16B7:2100:FC82:31C6:D5EE:39F3]] ([[User talk:2401:4900:16B7:2100:FC82:31C6:D5EE:39F3|talk]]) to last version by Chinnuabhiram600
+2018-12-04T06:46:32+00:00,871928181,871406237,0,146.23.215.234,Visakhapatnam Airport,
+2017-08-21T06:06:15+00:00,796491684,795768090,0,45.114.36.172,Visakhapatnam Airport,
+2017-08-02T19:22:44+00:00,793596519,793596465,0,Filedelinkerbot,Visakhapatnam Airport,"Bot: Removing [[c:File:Visakhapatnam International Airport at Dusk.jpg]] , deleted by [[:C:User:Daphne Lantier|Daphne Lantier]] (per [[Commons:Commons:Deletion requests/Files uploaded by Jyoti Atma]])."
+2018-11-18T05:29:43+00:00,869374598,869293211,0,LeoFrank,Visakhapatnam Airport,Reverted 2 edits by [[Special:Contributions/Jagadeeshteja|Jagadeeshteja]] ([[User talk:Jagadeeshteja|talk]]): Unnecessary capitalization. ([[WP:TW|TW]])
+2017-03-03T09:16:12+00:00,768356536,768087398,0,118.189.8.122,Visakhapatnam Airport,/* Airlines and destinations */
+2017-11-11T12:41:59+00:00,809791971,809524113,0,Amdmustafa,Visakhapatnam Airport,Updated with correct figure
+2019-03-30T20:41:57+00:00,890202495,890068717,0,116.75.200.15,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-16T13:29:23+00:00,770605443,770577457,0,122.175.25.82,Visakhapatnam Airport,/* Airlines and destinations */
+2019-03-15T22:43:47+00:00,887953088,887833670,0,116.72.208.25,Visakhapatnam Airport,/* Airlines and destinations */
+2018-01-27T03:34:26+00:00,822567332,822492009,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/2405:204:618B:4BE6:0:0:5:A8A0|2405:204:618B:4BE6:0:0:5:A8A0]] ([[User talk:2405:204:618B:4BE6:0:0:5:A8A0|talk]]) to last revision by LeoFrank. ([[WP:TW|TW]])
+2018-10-30T14:33:20+00:00,866467613,866462307,0,LeoFrank,Visakhapatnam Airport,[[WP:DUE|undue]] in the [{WP:LEAD|lead]]
+2017-07-01T10:46:41+00:00,788434169,788329768,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */Vizag has daily return stop flights to Coimbatore by IndiGo
+2018-03-27T01:59:37+00:00,832621316,832578711,0,YSSYguy,Visakhapatnam Airport,/* Airlines and destinations */
+2018-01-14T16:33:15+00:00,820412932,820373272,0,LeoFrank,Visakhapatnam Airport,Reverted 3 edits by [[Special:Contributions/2405:204:651C:2392:78F9:46D5:7791:C2E|2405:204:651C:2392:78F9:46D5:7791:C2E]] ([[User talk:2405:204:651C:2392:78F9:46D5:7791:C2E|talk]]) to last revision by LeoFrank. ([[WP:TW|TW]])
+2018-04-03T14:12:09+00:00,834017515,834017436,0,123.201.157.35,Visakhapatnam Airport,/* Runways */
+2018-07-04T14:10:45+00:00,848813995,848813989,0,Deepfriedokra,Visakhapatnam Airport,Adding {{pp-protected}} ([[WP:TW|TW]])
+2019-03-24T05:00:22+00:00,889204861,889204739,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */
+2017-11-28T13:14:29+00:00,812546632,812514451,0,49.205.138.131,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-22T05:46:46+00:00,801839344,801836556,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-04T15:22:04+00:00,862467160,862467021,0,Ramu7777,Visakhapatnam Airport,/* Airlines and destinations */
+2018-11-13T16:16:01+00:00,868653794,867960798,0,LeoFrank,Visakhapatnam Airport,/* Airlines and destinations */ add better source
+2018-03-15T10:44:50+00:00,830520462,830171623,0,117.201.211.198,Visakhapatnam Airport,
+2018-02-15T14:04:06+00:00,825799292,825799181,0,203.109.108.61,Visakhapatnam Airport,/* Runways */
+2017-03-31T22:49:07+00:00,773198610,773198096,0,Captaingunadeep,Visakhapatnam Airport,/* Passenger terminal */
+2019-01-03T06:59:41+00:00,876592040,876585836,0,YSSYguy,Visakhapatnam Airport,
+2017-07-18T19:19:46+00:00,791199220,791198518,0,Ramu7777,Visakhapatnam Airport,/* Airlines and destinations */
+2018-04-20T01:14:54+00:00,837310877,837310222,0,GoingBatty,Visakhapatnam Airport,/* top */ replaced {{pagename}}
+2019-05-03T17:49:51+00:00,895355802,895276432,0,Taurusuudi,Visakhapatnam Airport,
+2017-10-15T12:18:50+00:00,805440938,804834754,0,Bingobro,Visakhapatnam Airport,"/* Airlines and destinations */ Removed spicejet to Udaipur , check website and schedules."
+2017-10-06T13:00:35+00:00,804056961,804005358,0,2405:204:3082:645D:8EFB:A61B:BE31:8B4A,Visakhapatnam Airport,more accurate info is given
+2019-06-15T15:19:54+00:00,901969387,901851688,0,116.72.126.2,Visakhapatnam Airport,/* Airlines and destinations */
+2017-08-07T08:19:46+00:00,794321060,794227584,0,2405:204:6684:7A43:0:0:28F:30A4,Visakhapatnam Airport,/* Airlines and destinations */
+2017-12-29T17:02:26+00:00,817635900,817635851,0,LeoFrank,Visakhapatnam Airport,unsourced
+2017-04-21T07:05:41+00:00,776478856,776196940,0,Captaingunadeep,Visakhapatnam Airport,"No seasonal flights to BLR,COk or IXE by Spicejet."
+2017-04-06T21:14:42+00:00,774193520,773953994,0,223.230.59.240,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-07T11:23:18+00:00,872483520,872417839,0,LeoFrank,Visakhapatnam Airport,Reverted to revision 872378221 by [[Special:Contributions/Komen.212|Komen.212]] ([[User talk:Komen.212|talk]]): Rvv. ([[WP:TW|TW]])
+2017-06-17T19:01:41+00:00,786172496,786172385,0,FlyJet777,Visakhapatnam Airport,Undid revision 786172385 by [[Special:Contributions/FlyJet777|FlyJet777]] ([[User talk:FlyJet777|talk]]) I did the wrong edit. Sorry for that.
+2017-03-23T16:26:56+00:00,771803642,771802967,0,115.98.83.77,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-24T05:51:14+00:00,865476589,865318562,0,2401:4900:16B8:C2F3:DE42:B1E0:C824:56CE,Visakhapatnam Airport,/* Airlines and destinations */9w979 / 9w 980 is still available for booking. Tickets are booked. Only recently introduced flights to DEL / BOM has been cancelled.\n\nPlease refer jetairways.com
+2017-04-11T10:02:34+00:00,774893586,774863938,0,223.230.117.186,Visakhapatnam Airport,/* Airlines and destinations */
+2018-04-06T11:44:07+00:00,834561027,834550703,0,2405:204:6017:3834:0:0:1749:F0AD,Visakhapatnam Airport,
+2018-07-26T01:13:24+00:00,852010017,851804631,0,InternetArchiveBot,Visakhapatnam Airport,Rescuing 1 sources and tagging 2 as dead. #IABot (v2.0beta2)
+2017-11-03T12:21:43+00:00,808531164,808339735,0,49.205.139.30,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-26T16:35:08+00:00,875443823,875443782,0,LeoFrank,Visakhapatnam Airport,/* Airlines and destinations */ tweak
+2018-02-24T05:38:24+00:00,827348786,827348556,0,223.237.18.10,Visakhapatnam Airport,
+2018-10-07T00:10:31+00:00,862831506,862772813,0,2401:4900:16B1:D5EB:1:1:4E6D:B803,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-02T10:18:29+00:00,862126149,861922589,0,LeoFrank,Visakhapatnam Airport,/* Airlines and destinations */ fix
+2018-02-17T14:53:56+00:00,826155284,826134567,0,103.218.115.137,Visakhapatnam Airport,
+2018-11-24T13:18:14+00:00,870388459,870388330,0,117.222.72.47,Visakhapatnam Airport,
+2018-05-08T07:55:29+00:00,840186267,840091495,0,Anandprakash1999,Visakhapatnam Airport,/* Airlines and destinations */
+2017-12-02T07:44:35+00:00,813183056,812546632,0,49.205.132.4,Visakhapatnam Airport,/* Airlines and destinations */ Air Asia India has Terminated it's VTZ-BLR-COK route (as in schedule and bookings) and RPR-VTZ is just an inbound flight.
+2018-05-12T17:50:22+00:00,840866666,840866111,0,Jessicapierce,Visakhapatnam Airport,minor copy edits
+2019-03-06T12:05:27+00:00,886460215,886358132,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */
+2017-07-10T05:08:06+00:00,789873579,789873545,0,61.12.11.130,Visakhapatnam Airport,/* Airport Images */
+2018-11-02T07:07:09+00:00,866893456,866893225,0,LeoFrank,Visakhapatnam Airport,/* Airlines and destinations */ add 6E schedule link in ref column
+2018-12-14T11:37:01+00:00,873672847,873555976,0,Doraemon25,Visakhapatnam Airport,/* Airlines and destinations */
+2018-02-07T12:42:12+00:00,824452888,824314186,0,LeoFrank,Visakhapatnam Airport,Reverted 4 edits by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]) to last revision by 103.81.34.13. ([[WP:TW|TW]])
+2017-11-01T04:27:36+00:00,808147313,808016067,0,42.111.198.83,Visakhapatnam Airport,
+2017-03-09T07:35:03+00:00,769395754,769145582,0,2001:420:C0C8:1001:0:0:0:590,Visakhapatnam Airport,/* Airlines and destinations */
+2019-05-30T04:17:03+00:00,899452123,899398354,0,Misty268,Visakhapatnam Airport,/* Airlines and destinations */
+2017-07-17T16:19:56+00:00,791019715,790947078,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */
+2017-11-26T12:25:50+00:00,812177409,812177333,0,Bingobro,Visakhapatnam Airport,Improved thumb.
+2019-05-27T09:43:01+00:00,899012921,898994359,0,49.207.57.240,Visakhapatnam Airport,/* Airlines and destinations */
+2017-08-16T10:01:28+00:00,795768090,795458493,0,Anirudh Emani,Visakhapatnam Airport,
+2018-03-09T07:08:49+00:00,829537333,827564248,0,Vibhss,Visakhapatnam Airport,/* Airlines and destinations */Fixed typo
+2018-12-17T17:47:21+00:00,874182375,874145986,0,2405:204:679C:A4D5:F0A:6EE7:831C:4DCE,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-05T02:14:02+00:00,799002184,798707090,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */
+2017-07-27T14:42:06+00:00,792608227,792608146,0,139.190.254.44,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-20T04:00:25+00:00,864881536,864819917,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]): Not operational! ([[WP:TW|TW]])
+2019-06-22T22:44:53+00:00,903012183,903011319,0,103.69.29.197,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-02T05:42:44+00:00,881383448,881383114,0,Hadesfly,Visakhapatnam Airport,/* References */
+2018-06-18T12:02:41+00:00,846381595,846357525,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/171.49.225.237|171.49.225.237]] ([[User talk:171.49.225.237|talk]]): Unsourced. ([[WP:TW|TW]])
+2017-10-24T19:11:36+00:00,806884264,806883977,0,117.207.242.189,Visakhapatnam Airport,
+2017-12-17T16:10:59+00:00,815850472,815837651,0,223.206.234.170,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-13T08:38:35+00:00,892262493,892199158,0,88.217.121.220,Visakhapatnam Airport,/* External links */ {{Portalbar|India|Aviation}} added
+2018-05-16T06:53:32+00:00,841499632,841414001,0,YSSYguy,Visakhapatnam Airport,Standard date format
+2018-05-19T04:18:38+00:00,841945722,841886520,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]) to last revision by YSSYguy. ([[WP:TW|TW]])
+2019-04-07T05:12:33+00:00,891323185,891168456,0,124.123.63.68,Visakhapatnam Airport,/* Airlines and destinations */
+2018-05-16T19:16:08+00:00,841589449,841499632,0,2405:204:6615:C781:0:0:57A:F8A1,Visakhapatnam Airport,
+2018-04-09T03:45:28+00:00,835513330,835490253,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/103.230.22.28|103.230.22.28]] ([[User talk:103.230.22.28|talk]]) to last revision by Anirudh Emani. ([[WP:TW|TW]])
+2018-07-10T23:31:24+00:00,849730158,849730108,0,Ravi1925,Visakhapatnam Airport,/* Airlines and destinations */
+2017-09-20T18:28:42+00:00,801606828,801560204,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */
+2019-02-13T02:30:53+00:00,883066290,883032187,0,175.101.88.225,Visakhapatnam Airport,IT'S NOT VTZ - BOM FLIGHT LINK.IT'S VGA - BOM FLIGHT LINK.AND IT'S LAST YEAR NEWS.NOT RECENT ONE.AIR INDIA ONLY CONNECTING VTZ WITH BOM
+2017-05-26T16:20:27+00:00,782391195,782390354,0,Captaingunadeep,Visakhapatnam Airport,/* Ground transport */
+2018-04-12T09:37:11+00:00,836039912,836024600,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]): How does adding a 0 make it useful? ([[WP:TW|TW]])
+2017-12-19T03:32:39+00:00,816079197,815850472,0,43.246.101.185,Visakhapatnam Airport,
+2017-03-26T10:23:59+00:00,772280036,772264113,0,Captaingunadeep,Visakhapatnam Airport,Please don't add Delhi and Srinagar in Jet Airways destinations... What's the use of adding destinations here where the passengers are not benefited with it
+2017-10-06T02:11:35+00:00,804005358,803943662,0,115.132.243.103,Visakhapatnam Airport,/* External links */
+2017-03-10T15:08:43+00:00,769600062,769395754,0,49.15.135.155,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-18T08:34:26+00:00,864601296,864350267,0,LeoFrank,Visakhapatnam Airport,/* Airlines and destinations */ air odisha is not operational
+2017-05-27T05:57:07+00:00,782486505,782391195,0,Orenburg1,Visakhapatnam Airport,sp
+2017-12-31T19:25:02+00:00,817980106,817635900,0,Captaingunadeep,Visakhapatnam Airport,/* History */
+2017-03-20T06:42:34+00:00,771213439,771132726,0,117.98.185.206,Visakhapatnam Airport,/* Airlines and destinations */
+2017-12-25T12:37:54+00:00,817014147,817012492,0,AnomieBOT,Visakhapatnam Airport,Dating maintenance tags: {{Cn}}
+2017-05-16T14:30:25+00:00,780670493,780670153,0,MusikBot,Visakhapatnam Airport,Removing protection templates from unprotected page
+2018-06-01T01:51:50+00:00,843874176,843823441,0,97.85.118.142,Visakhapatnam Airport,/* Airlines and destinations */
+2017-10-18T09:39:13+00:00,805896607,805651380,0,Vizagdestinations,Visakhapatnam Airport,added image
+2017-12-03T12:55:32+00:00,813392510,813183056,0,LeoFrank,Visakhapatnam Airport,/* Airlines and destinations */ no inbound flights-only to be listed
+2019-01-19T20:02:24+00:00,879214465,876973180,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */Spicejet operated one stop Mumbai flights via hyderabad. Refer flight numbers SG 421/422
+2018-02-02T04:28:39+00:00,823588901,823513936,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]): Stop changing the name! ([[WP:TW|TW]])
+2017-06-18T08:24:11+00:00,786257872,786257808,0,Captaingunadeep,Visakhapatnam Airport,BLR-AMD/BDQ flight number changed from 6E 759 to 6E 287 making it One Stop flight from VTZ to AMD/BDQ via BLR (Starting 15/18 June 2017)
+2018-10-25T16:25:56+00:00,865703317,865702938,0,LeoFrank,Visakhapatnam Airport,Reverted edits by [[Special:Contribs/106.222.14.114|106.222.14.114]] ([[User talk:106.222.14.114|talk]]) to last version by LeoFrank
+2017-04-02T03:41:58+00:00,773394478,773384854,0,Captaingunadeep,Visakhapatnam Airport,/* Awards and recognition */
+2017-09-03T09:42:12+00:00,798707090,798222400,0,Vibhss,Visakhapatnam Airport,Adding previously  used image
+2019-02-16T08:36:33+00:00,883583462,883429416,0,Anirudh Emani,Visakhapatnam Airport,/* Statistics */
+2017-04-05T12:21:53+00:00,773953994,773814582,0,106.220.11.87,Visakhapatnam Airport,"/* Airlines and destinations */Source: Trujet website, schedules. http://www.trujet.com/ebooking/Trip/FlightTimeTable."
+2018-06-08T00:14:00+00:00,844904548,844724445,0,219.92.197.5,Visakhapatnam Airport,/* External links */
+2019-07-03T05:08:43+00:00,904593086,904593027,0,Captaingunadeep,Visakhapatnam Airport,Reference removed for Kochi flight
+2018-11-26T15:54:54+00:00,870712634,870388459,0,2409:4055:60F:2E78:4566:3797:6E47:24AE,Visakhapatnam Airport,unsourced
+2017-03-12T20:35:04+00:00,769993918,769600062,0,122.175.7.153,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-16T17:01:31+00:00,864350267,864349870,0,LeoFrank,Visakhapatnam Airport,/* Airlines and destinations */ format
+2017-07-05T11:33:42+00:00,789107674,788989378,0,Vibhss,Visakhapatnam Airport,Reverted 2 edits by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]) to last revision by Captaingunadeep. ([[WP:TW|TW]])
+2017-11-12T17:34:40+00:00,809972110,809966020,0,Captaingunadeep,Visakhapatnam Airport,/* Airlines and destinations */
+2019-06-27T09:55:56+00:00,903691829,903613223,0,49.194.34.85,Visakhapatnam Airport,/* Airlines and destinations */Fixed a Destination. Any vandalism will be reported.
+2018-05-28T14:43:38+00:00,843344164,843211569,0,LeoFrank,Visakhapatnam Airport,Reverted 7 edits by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]) to last revision by LeoFrank. ([[WP:TW|TW]])
+2019-06-01T17:49:27+00:00,899830848,899533662,0,Ktdk,Visakhapatnam Airport,/* Airlines and destinations */
+2018-04-09T00:45:27+00:00,835490253,835452653,0,103.230.22.28,Visakhapatnam Airport,/* Airlines and destinations */
+2017-12-13T00:38:04+00:00,815142532,815088413,0,124.123.74.18,Visakhapatnam Airport,Source is not there
+2017-12-16T16:32:41+00:00,815712130,815233587,0,49.205.150.106,Visakhapatnam Airport,/* Airlines and destinations */
+2019-06-05T08:07:45+00:00,900377443,900315917,0,2409:4072:6297:5495:81F9:E117:EB04:EBD9,Visakhapatnam Airport,
+2019-04-19T10:56:31+00:00,893152336,893108084,0,Captaingunadeep,Visakhapatnam Airport,
+2017-11-09T17:48:46+00:00,809524113,809524027,0,49.205.157.77,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-22T07:29:00+00:00,771565799,771367807,0,65.162.175.18,Visakhapatnam Airport,/* Airlines and destinations */
+2017-07-11T23:23:47+00:00,790159783,790084861,0,107.15.100.102,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-01T18:42:45+00:00,768087398,768051401,0,106.220.154.36,Visakhapatnam Airport,/* Airlines and destinations */All Air Costa operations are temporarily suspended across the country.
+2019-04-14T10:58:16+00:00,892414698,892262493,0,88.217.115.130,Visakhapatnam Airport,/* Airlines and destinations */ grammar
+2017-04-03T10:18:42+00:00,773593573,773590450,0,106.220.145.245,Visakhapatnam Airport,/* Airlines and destinations */
+2017-11-02T08:16:58+00:00,808339735,808227530,0,Captaingunadeep,Visakhapatnam Airport,/* Cargo terminal */
+2018-04-08T03:48:34+00:00,835345872,835345556,0,LeoFrank,Visakhapatnam Airport,change to template
+2017-07-19T20:58:49+00:00,791374249,791373173,0,Ramu7777,Visakhapatnam Airport,/* Airlines and destinations */
+2018-02-06T03:28:13+00:00,824236238,823588901,0,2405:204:5281:A841:CCAC:56D5:B3B6:79EB,Visakhapatnam Airport,
+2018-05-16T20:08:14+00:00,841596549,841589449,0,YSSYguy,Visakhapatnam Airport,Undid revision 841589449 by [[Special:Contributions/2405:204:6615:C781:0:0:57A:F8A1|2405:204:6615:C781:0:0:57A:F8A1]] ([[User talk:2405:204:6615:C781:0:0:57A:F8A1|talk]])
+2017-11-22T12:46:02+00:00,811564150,809972110,0,202.156.182.84,Visakhapatnam Airport,
+2018-04-10T10:58:36+00:00,835719545,835704080,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]) to last revision by Bagumba. ([[WP:TW|TW]])
+2018-10-16T03:13:02+00:00,864256948,864117279,0,97.85.118.142,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-02T06:21:29+00:00,773409466,773403192,0,117.98.199.177,Visakhapatnam Airport,/* Airlines and destinations */UL 159/160 CMB - VTZ - CMB.. Booking started already. Don't delete.
+2017-08-26T14:34:20+00:00,797354217,797354123,0,223.206.233.103,Visakhapatnam Airport,/* Airlines and destinations */
+2018-10-11T12:11:26+00:00,863536969,863518367,0,LeoFrank,Visakhapatnam Airport,/* Airlines and destinations */ rm unsourced
+2017-04-27T17:02:54+00:00,777517639,777467656,0,Vibhss,Visakhapatnam Airport,updated fiscal year 2016-17 (April to March) statistics released by AAI today with updation of sources as well
+2017-05-30T16:35:47+00:00,783019526,783007676,0,Captaingunadeep,Visakhapatnam Airport,
+2017-09-17T13:13:08+00:00,801067452,801033224,0,219.91.241.78,Visakhapatnam Airport,/* Airlines and destinations */
+2019-01-21T17:54:38+00:00,879504489,879214465,0,103.91.85.246,Visakhapatnam Airport,
+2019-04-26T07:57:23+00:00,894197370,894197174,0,Ankmlord,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-01T13:59:54+00:00,890460720,890202495,0,Captaingunadeep,Visakhapatnam Airport,Due to Runway closure at Dubai Airport Vizag - Hyderabad - Dubai will operate out of Sharjah between 16 April 2019 to 30 May 2019
+2017-04-15T17:36:44+00:00,775556948,775556942,0,ClueBot NG,Visakhapatnam Airport,"Reverting possible vandalism by [[Special:Contribs/Thefabuedithor45|Thefabuedithor45]] to version by 2405:204:6406:CA9:71A5:DE2:9493:979A. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3006422) (Bot)"
+2017-03-23T01:55:13+00:00,771708907,771662537,0,106.220.49.40,Visakhapatnam Airport,/* Airlines and destinations */Aircosta destinations adjusted.
+2018-11-09T02:37:19+00:00,867960798,867958664,0,LeoFrank,Visakhapatnam Airport,/* Airlines and destinations */ fix link
+2017-04-18T16:08:37+00:00,776037054,775857170,0,QuickFixMe,Visakhapatnam Airport,
+2017-06-14T12:15:51+00:00,785601031,785589800,0,Captaingunadeep,Visakhapatnam Airport,no valid source or bookings for the same. please provide reference to add new airlines and destinations here
+2018-10-25T06:49:19+00:00,865641080,865476589,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/2401:4900:16B8:C2F3:DE42:B1E0:C824:56CE|2401:4900:16B8:C2F3:DE42:B1E0:C824:56CE]] ([[User talk:2401:4900:16B8:C2F3:DE42:B1E0:C824:56CE|talk]]): Wrong; no glights per the airline's schedule. ([[WP:TW|TW]])
+2018-01-31T15:54:49+00:00,823324787,823323359,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/Chinnuabhiram600|Chinnuabhiram600]] ([[User talk:Chinnuabhiram600|talk]]) to last revision by Clubjustin. ([[WP:TW|TW]])
+2018-02-24T14:47:08+00:00,827400172,827348786,0,123.201.231.211,Visakhapatnam Airport,"Bookings open for Jet Airways Delhi flight on their Website, Check Spicejet.com Schedules for Confirmation."
+2017-10-11T12:33:29+00:00,804834754,804460717,0,Sunnya343,Visakhapatnam Airport,Undid revision 804005358 by [[Special:Contributions/115.132.243.103|115.132.243.103]] ([[User talk:115.132.243.103|talk]]) Linkspam
+2017-04-01T19:38:19+00:00,773330102,773329646,0,Captaingunadeep,Visakhapatnam Airport,"I would definitely not say Visakhapatnam is hub for Trujet too, just because they are parking their aircraft in Vizag."
+2018-10-10T11:25:57+00:00,863373245,863372920,0,2405:204:740A:8BEB:4991:29DD:1BE:831,Visakhapatnam Airport,/* Airlines and destinations */
+2018-03-11T18:41:35+00:00,829936745,829935676,0,MusikBot,Visakhapatnam Airport,Removing protection templates from unprotected page
+2017-12-08T12:12:46+00:00,814373814,814337793,0,45.114.36.220,Visakhapatnam Airport,
+2018-02-15T06:10:52+00:00,825755504,825751210,0,Cyp,Visakhapatnam Airport,Reverted edits by [[Special:Contribs/157.48.56.24|157.48.56.24]] ([[User talk:157.48.56.24|talk]]) to last version by Chinnuabhiram600
+2019-06-26T19:01:35+00:00,903613223,903602619,0,116.72.211.174,Visakhapatnam Airport,/* Airlines and destinations */
+2018-06-20T03:05:11+00:00,846652832,846647528,0,LeoFrank,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/2401:4900:27DF:9F78:2395:9AB7:B1C:C208|2401:4900:27DF:9F78:2395:9AB7:B1C:C208]] ([[User talk:2401:4900:27DF:9F78:2395:9AB7:B1C:C208|talk]]): [[WP:BURDEN]]. ([[WP:TW|TW]])
+2017-10-09T04:11:59+00:00,804460717,804390651,0,Captaingunadeep,Visakhapatnam Airport,Please don't ad any airlines and destinations without any source
+2018-10-06T16:15:27+00:00,862772813,862753459,0,2405:204:740A:8BEB:810E:FA0F:350B:280D,Visakhapatnam Airport,/* Airlines and destinations */
+2017-05-23T09:12:20+00:00,781801106,781795926,0,Captaingunadeep,Visakhapatnam Airport,Raipur-Vizag resumes from 1st July 2017
+2018-10-21T10:54:08+00:00,865049983,865028818,0,LeoFrank,Visakhapatnam Airport,Reverted edits by [[Special:Contribs/Vamsi kuppili|Vamsi kuppili]] ([[User talk:Vamsi kuppili|talk]]) to last version by LeoFrank
+2019-04-05T13:37:59+00:00,891071077,891071034,0,Aditya.csit,Visakhapatnam railway station,
+2018-02-08T03:53:11+00:00,824569285,821263798,0,SimplexityBot,Visakhapatnam railway station,Removing links to current page
+2019-03-22T15:59:28+00:00,888971363,888930308,0,MB,Visakhapatnam railway station,Fix infobox image syntax
+2019-01-12T14:58:18+00:00,878030278,878027747,0,MB,Visakhapatnam railway station,rmv undefined infobox param
+2019-01-28T18:24:11+00:00,880665049,879790243,0,12.91.218.206,2019 Andhra Pradesh Legislative Assembly election,
+2018-12-30T10:45:16+00:00,875982989,875982939,0,Utkarsh220309,2019 Andhra Pradesh Legislative Assembly election,
+2018-06-15T18:33:09+00:00,846016834,845812175,0,KylieTastic,2019 Andhra Pradesh Legislative Assembly election,Removed missing (red-linked) image - not a recognised image file - Note images must be uploaded [[WP:UPIMAGE]] (copyright allowing)
+2019-06-30T02:24:44+00:00,904111950,903985026,0,BrownHairedGirl,2019 Andhra Pradesh Legislative Assembly election,"[[WP:ELLINKS]] (2/3): [[Andhra Pradesh Legislative Assembly election, 2014]] → [[2014 Andhra Pradesh Legislative Assembly election]]; [[Indian general election, 2019]] → [[2019 Indian general election]];"
+2019-05-10T09:59:20+00:00,896414773,896184751,0,117.209.155.84,2019 Andhra Pradesh Legislative Assembly election,
+2017-12-05T08:59:55+00:00,813802500,813637819,0,125.99.86.10,Ahmedabad Airport,no date / reference etc
+2018-08-13T23:58:10+00:00,854813840,854793986,0,Mehulintwala,Ahmedabad Airport,
+2018-07-15T07:31:48+00:00,850339681,849250540,0,202.134.183.210,Ahmedabad Airport,/* Passenger */
+2019-06-22T16:19:04+00:00,902964209,902963331,0,73.121.222.57,Ahmedabad Airport,/* Passenger */
+2019-04-01T06:04:49+00:00,890414540,889995145,0,202.136.70.64,Ahmedabad Airport,/* Passenger */
+2018-11-17T12:17:18+00:00,869253998,869253775,0,14.139.222.72,Ahmedabad Airport,/* Passenger */
+2017-12-08T18:49:29+00:00,814420648,813802500,0,42.106.11.12,Ahmedabad Airport,
+2018-08-11T05:44:22+00:00,854416726,854415383,0,42.106.30.17,Ahmedabad Airport,/* Airlines and destinations */
+2019-01-26T15:48:07+00:00,880287008,880253363,0,49.14.175.44,Ahmedabad Airport,/* Passenger */
+2019-01-25T02:24:49+00:00,880059570,880059443,0,Delta B727,Ahmedabad Airport,/* Passenger */Fix trujet
+2018-12-05T10:04:15+00:00,872132450,872131030,0,103.238.107.37,Ahmedabad Airport,/* Passenger */
+2017-10-26T03:49:07+00:00,807137244,807137078,0,203.187.228.215,Ahmedabad Airport,/* Passenger */
+2019-01-19T03:04:54+00:00,879113087,879022123,0,2401:4900:1734:F1AE:1E21:2C3B:21C2:ABB6,Ahmedabad Airport,/* Passenger */ Airport Content can include seasonal destinations and do not require a fixed date as well
+2017-11-13T22:45:15+00:00,810204533,809558684,0,60.254.85.34,Ahmedabad Airport,/* Passenger */
+2017-03-24T14:30:38+00:00,771963852,771952895,0,43.224.156.131,Ahmedabad Airport,/* History */
+2019-01-07T09:46:01+00:00,877223488,876977569,0,171.76.175.255,Ahmedabad Airport,/* Passenger */
+2017-11-05T15:38:10+00:00,808846585,808794154,0,171.5.223.246,Ahmedabad Airport,/* Passenger */
+2019-06-04T11:35:38+00:00,900245893,899489925,0,103.205.126.242,Ahmedabad Airport,/* Passenger */
+2018-12-29T06:49:50+00:00,875822880,875303762,0,106.0.37.153,Ahmedabad Airport,Plaza Premium Lounge addition
+2017-08-12T01:10:03+00:00,795103551,795050494,0,Stinger20,Bandaranaike International Airport,"Changed '-' to '–' per [[WP:Airports]], Fixed Various Other Name Issues, RegEx Typo Fixing (via [[JWB]])"
+2019-03-29T09:37:53+00:00,889995145,889925666,0,27.106.28.254,Ahmedabad Airport,/* Airlines and destinations */
+2019-02-10T07:43:23+00:00,882609036,882609027,0,182.65.232.51,Bandaranaike International Airport,/* Top destinations */
+2018-03-25T02:16:54+00:00,832295402,832293386,0,Mehulintwala,Ahmedabad Airport,
+2018-03-19T21:07:20+00:00,831293485,830173996,0,Filips3,Bandaranaike International Airport,/* Passenger */
+2018-08-25T02:35:49+00:00,856422658,856422488,0,106.203.38.207,Ahmedabad Airport,/* Passenger */ Wrong Information
+2018-09-02T21:02:43+00:00,857760726,857698258,0,Angryskies,Bandaranaike International Airport,/* External links */  aviation forum
+2018-11-22T10:29:19+00:00,870097871,870097378,0,103.81.93.115,Ahmedabad Airport,/* Passenger */
+2017-04-15T00:18:47+00:00,775456399,775113654,0,AirEnthusiast,Bandaranaike International Airport,/* Passenger */ SJ resume CMB-KNO & CMB-PKU charter routes
+2019-06-27T18:08:26+00:00,903746478,903659505,0,73.121.222.57,Ahmedabad Airport,
+2018-04-10T10:22:11+00:00,835716137,834127313,0,203.94.93.50,Bandaranaike International Airport,
+2017-09-22T13:47:27+00:00,801877352,801697764,0,107.77.222.56,Bandaranaike International Airport,"Undid revision 801697764 by [[Special:Contributions/103.4.94.108|103.4.94.108]] ([[User talk:103.4.94.108|talk]]) these services do not exist, stop adding them!!"
+2019-04-09T04:45:11+00:00,891625663,891603480,0,2402:4000:2082:1A48:1188:A13C:DA3C:471C,Bandaranaike International Airport,Undid revision 891603480 by [[Special:Contributions/2A00:C440:10:169:355D:35B6:F37A:2865|2A00:C440:10:169:355D:35B6:F37A:2865]] ([[User talk:2A00:C440:10:169:355D:35B6:F37A:2865|talk]])
+2017-12-08T16:30:20+00:00,814402752,813845280,0,Inspector123,Bandaranaike International Airport,/* Cargo */ updated from EYC website time table
+2017-05-29T02:43:05+00:00,782773671,782186096,0,Millanel,Bandaranaike International Airport,/* Passenger */
+2018-04-24T07:39:26+00:00,837990092,837482340,0,47.29.236.201,Bandaranaike International Airport,
+2018-08-24T11:03:26+00:00,856317582,856206185,0,ACE5000,Bandaranaike International Airport,/* Passenger */
+2018-09-30T03:30:30+00:00,861801041,861654843,0,Cyberz11,Bandaranaike International Airport,/* Passenger */Cleaned up soke garbage. There never was a colombo-kozhikode route and still isn't.
+2019-07-02T13:26:53+00:00,904480560,904037903,0,123.231.126.71,Bandaranaike International Airport,/* Statistics */
+2019-07-02T18:49:16+00:00,904521045,904480560,0,KolbertBot,Bandaranaike International Airport,[[User:KolbertBot#Tasks|Task #2]] : Remove link referral data
+2019-03-28T12:22:43+00:00,889857656,889857625,0,78.93.117.98,Bandaranaike International Airport,/* Airlines and destinations */
+2018-05-19T20:18:20+00:00,842038553,840422443,0,Chotiwala75,Bandaranaike International Airport,/* Passenger */Grammar
+2018-12-04T14:35:27+00:00,871973937,871973901,0,Antonbabich,Bandaranaike International Airport,/* Passenger */
+2017-11-20T03:00:50+00:00,811198508,810765397,0,Cacrazy234,Bandaranaike International Airport,/* Passenger */
+2019-04-11T19:13:06+00:00,892034724,892011727,0,SLAviationLover,Bandaranaike International Airport,Undid revision 892011727 by [[Special:Contributions/Caden Teo|Caden Teo]] ([[User talk:Caden Teo|talk]])
+2019-02-22T21:01:14+00:00,884621635,884550872,0,79.78.250.79,Bandaranaike International Airport,/* Passenger */
+2018-09-20T15:45:01+00:00,860422563,860396983,0,2405:204:F08B:6727:D41A:BEB0:500B:D775,Biju Patnaik Airport,/* Airlines and destinations */
+2018-03-06T07:13:47+00:00,829037380,829037355,0,223.31.14.217,Biju Patnaik Airport,/* Airlines and destinations */
+2018-05-24T09:15:12+00:00,842731178,842721394,0,180.149.227.44,Biju Patnaik Airport,/* Airlines and destinations */
+2018-05-19T00:16:49+00:00,841923939,841588256,0,2405:204:E206:45D3:5519:B551:A554:29D9,Biju Patnaik Airport,/* Coast Guard Air Enclave */
+2018-03-18T04:17:59+00:00,830999909,830908073,0,2409:4062:2115:ECDD:0:0:261A:30B0,Biju Patnaik Airport,/* Airlines and destinations */
+2018-07-08T13:57:43+00:00,849367958,849367907,0,SaUp2014,Biju Patnaik Airport,
+2017-04-04T20:28:14+00:00,773855474,773818629,0,192.223.136.5,Biju Patnaik Airport,/* Airlines and destinations */
+2017-09-09T12:36:49+00:00,799718992,799517551,0,49.48.112.93,Biju Patnaik Airport,/* Airlines and destinations */
+2018-12-04T19:08:50+00:00,872017716,871980067,0,Rohit1011,Biju Patnaik Airport,/* Airlines and destinations */
+2018-04-23T10:22:10+00:00,837838666,837719283,0,223.31.14.217,Biju Patnaik Airport,/* Airlines and destinations */
+2019-04-28T06:38:11+00:00,894493859,894474876,0,2409:4062:2109:D398:9A5D:838A:D609:1CEB,Biju Patnaik Airport,
+2017-06-30T13:11:38+00:00,788265645,787707700,0,Casudipta,Biju Patnaik Airport,/* Airlines and destinations */To be introduced... Bookings yet to begin
+2019-02-10T03:56:38+00:00,882588890,881226004,0,2409:4062:228D:925C:0:0:1E2C:A8AC,Biju Patnaik Airport,
+2019-03-09T17:59:45+00:00,886960226,886877772,0,2409:4062:201C:D22D:E88E:6714:DE42:CEB3,Biju Patnaik Airport,/* Airlines and destinations */
+2018-06-26T07:02:36+00:00,847561653,847561627,0,CommonsDelinker,Biju Patnaik Airport,"Removing [[:c:File:BPIA_Bhubaneswar.jpg|BPIA_Bhubaneswar.jpg]], it has been deleted from Commons by [[:c:User:Steinsplitter|Steinsplitter]] because: per [[:c:Commons:Deletion requests/Files of SaUp2014|]]."
+2019-02-01T05:50:55+00:00,881226004,880408485,0,223.31.14.217,Biju Patnaik Airport,/* Airlines and destinations */
+2017-06-03T16:13:15+00:00,783628752,783080539,0,Jyoti Atma,Chaudhary Charan Singh International Airport,
+2017-11-06T20:51:37+00:00,809048982,807618563,0,VishalK,Biju Patnaik Airport,
+2019-05-16T03:39:46+00:00,897300374,897300165,0,AutoRectify,Chaudhary Charan Singh International Airport,/* Airlines and destinations */
+2017-11-18T05:55:00+00:00,810904051,810903916,0,2601:240:CC00:420:3596:61E4:6276:6238,Chaudhary Charan Singh International Airport,/* Airlines and destinations */
+2017-10-13T18:44:45+00:00,805198400,805198271,0,2405:204:A19D:437:D0A0:A390:3E61:F01C,Chaudhary Charan Singh International Airport,/* Airlines and destinations */
+2017-03-19T06:14:43+00:00,771050577,770254881,0,122.163.216.45,Chaudhary Charan Singh International Airport,
+2017-11-15T15:35:36+00:00,810487695,810363451,0,Xkd2626,Chaudhary Charan Singh International Airport,
+2018-09-08T12:32:08+00:00,858612863,858268992,0,59.91.182.145,Chaudhary Charan Singh International Airport,
+2017-02-28T05:52:41+00:00,767832542,767825608,0,Saurabh226020,Chaudhary Charan Singh International Airport,
+2018-10-07T16:10:49+00:00,862923751,862923321,0,122.163.166.225,Chaudhary Charan Singh International Airport,/* Airlines and destinations */
+2018-07-31T19:31:46+00:00,852846097,852644161,0,2401:4900:1D2D:1C8C:2D70:A449:4283:5C43,Chaudhary Charan Singh International Airport,
+2019-04-26T17:58:34+00:00,894262600,894253708,0,112.79.214.63,Chaudhary Charan Singh International Airport,
+2018-10-26T12:27:34+00:00,865826394,865333217,0,122.163.157.58,Chaudhary Charan Singh International Airport,/* Airlines and destinations */
+2017-09-09T17:58:18+00:00,799761038,799468253,0,2607:FEA8:871F:FB9C:209F:B6FA:EC12:40D8,Chaudhary Charan Singh International Airport,/* Connectivity */
+2017-06-30T01:29:52+00:00,788197114,788109968,0,Saurabh226020,Chaudhary Charan Singh International Airport,Added an information
+2017-10-17T13:58:23+00:00,805764289,805198400,0,103.221.70.211,Chaudhary Charan Singh International Airport,/* Awards */
+2018-11-07T19:07:20+00:00,867746211,867550390,0,2405:204:E505:DBE7:BEF1:570F:F1EF:B9A2,Chaudhary Charan Singh International Airport,/* Airlines and destinations */
+2019-04-26T20:12:09+00:00,894278176,894278064,0,72.137.67.89,Chennai International Airport,/* Passenger */
+2017-04-28T06:31:42+00:00,777614008,777611296,0,111.95.116.8,Chennai International Airport,/* Passenger */
+2018-08-16T08:12:03+00:00,855149405,854995850,0,88.98.85.216,Chaudhary Charan Singh International Airport,linking
+2018-12-25T08:50:19+00:00,875291771,875056583,0,223.233.89.78,Chennai International Airport,Added kovhi in vistara
+2017-07-21T08:41:04+00:00,791598908,791361289,0,137.110.32.74,Chennai International Airport,Updated statistics to incorporate recently released 6.17 data
+2018-03-02T04:44:16+00:00,828377674,828301813,0,2601:240:CC00:420:915E:FB8F:C001:12F8,Chennai International Airport,/* Passenger */
+2017-03-21T15:12:22+00:00,771439472,771432651,0,101.222.233.179,Chennai International Airport,/* Passenger */
+2019-04-23T06:50:11+00:00,893730250,893592562,0,Gokul Bas,Chennai International Airport,/* Passenger */
+2018-12-18T09:41:40+00:00,874293133,874286935,0,2405:205:33A9:C39D:0:0:215C:38B0,Chennai International Airport,/* Passenger */
+2018-06-02T02:29:15+00:00,844023845,843945061,0,2601:243:600:70:5056:F4FB:3268:A9BC,Chennai International Airport,/* Passenger */
+2018-03-30T12:13:34+00:00,833238757,833238078,0,Samueljjohn,Chennai International Airport,
+2019-05-18T14:06:26+00:00,897654043,897649380,0,Mitchellhobbs,Chennai International Airport,/* Administration */ ~ added {cn}  ~
+2018-02-27T06:38:42+00:00,827874423,827874327,0,2601:240:CC00:420:60A7:ED3B:ED84:FDB3,Chennai International Airport,/* Passenger */
+2019-05-01T09:08:19+00:00,894989675,894278176,0,Rasnaboy,Chennai International Airport,/* Passenger vehicle parking */ Multilevel parking construction began
+2019-04-10T08:38:44+00:00,891808830,891795439,0,Mvbsravi,Chennai International Airport,/* Incidents and accidents */
+2019-02-09T19:01:48+00:00,882529522,881730352,0,2405:204:720D:CA17:0:0:5E9:20B1,Chennai International Airport,/* Cargo */
+2017-10-18T15:44:16+00:00,805933898,805670703,0,27.5.206.35,Chennai International Airport,/* Top Domestic Destinations (January- June 2017){{cite web|url=http://dgca.nic.in/reports/rep-ind.htm|title=REPORTS|last=Airports Authority of India|first=|date=|website=dgca.nic.in|access-date=2017-05-12}} */
+2017-04-08T03:52:13+00:00,774390969,773855646,0,122.174.101.57,Chennai International Airport,
+2019-03-31T07:26:06+00:00,890263716,890240525,0,2401:4900:278E:BF17:0:6E:5082:C401,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2019-04-06T19:23:52+00:00,891258681,891255693,0,2401:4900:3686:E27C:1:2:6A70:E385,Chennai International Airport,/* Passenger */
+2019-05-03T05:42:48+00:00,895281856,895190662,0,182.58.160.26,Chhatrapati Shivaji Maharaj International Airport,"/* Passenger */JFK Flight still there. Kindly check for washington, am not sure. Thanks"
+2019-03-26T00:26:19+00:00,889486491,889115120,0,104.38.149.165,Chhatrapati Shivaji Maharaj International Airport,/* Currently operational terminals */
+2018-02-25T15:46:48+00:00,827583380,827533603,0,Ashutosh2978,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2018-08-10T07:07:15+00:00,854287425,853988258,0,Mean as custard,Chhatrapati Shivaji Maharaj International Airport,
+2017-10-25T08:30:18+00:00,806994141,806994051,0,59.184.180.44,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */And also Suvarnabhumi page
+2018-04-15T09:52:47+00:00,836528622,836224013,0,Yardan Sheikh,Chhatrapati Shivaji Maharaj International Airport,
+2018-06-08T23:17:08+00:00,845044188,845034379,0,Rsrikanth05,Chhatrapati Shivaji Maharaj International Airport,Undid revision 845034379 by [[Special:Contributions/Jcc|Jcc]] ([[User talk:Jcc|talk]]) Seems to be listed here:https://flights.jetairways.com/en-in/flights-from-mumbai-to-jorhat?gclid=CjwKCAjw0ujYBRBDEiwAn7BKt6kAczQQ-FixXUd_ld-_32_xcbNWlbK9hqDLjCcUxt6Jg29lmZ3j6hoC-uwQAvD_BwE&tcid=GPPCNB&redirecturl=true
+2017-07-13T06:03:02+00:00,790355057,790354778,0,117.222.154.183,Chhatrapati Shivaji Maharaj International Airport,/* Airlines and destinations */
+2017-10-16T17:24:49+00:00,805634014,805605836,0,183.87.255.166,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2018-04-13T12:52:54+00:00,836224013,836221799,0,103.199.137.67,Chhatrapati Shivaji Maharaj International Airport,/* Top international destinations */
+2018-12-02T12:02:55+00:00,871630432,871578016,0,112.196.160.72,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2019-06-05T08:58:02+00:00,900382257,900368829,0,2402:3A80:138A:904F:FD02:7F76:50B2:E7FC,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2018-08-19T12:37:02+00:00,855591958,855558011,0,2405:204:38A:3352:0:0:27ED:8A0,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */Typo
+2018-03-25T09:56:29+00:00,832331942,832331802,0,122.178.74.136,Chhatrapati Shivaji Maharaj International Airport,repeated section
+2017-11-30T11:17:15+00:00,812874787,812871035,0,117.222.121.79,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2017-08-20T14:04:10+00:00,796387411,795626284,0,1.187.4.189,Chhatrapati Shivaji Maharaj International Airport,Name
+2019-04-10T17:42:59+00:00,891870675,891858277,0,116.75.8.138,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */
+2019-06-29T09:09:22+00:00,904000320,904000282,0,Sai199610,Chhatrapati Shivaji Maharaj International Airport,
+2019-03-23T20:15:45+00:00,889147485,888909338,0,Narayansg,Cochin International Airport,/* Naval Air Enclave */ added link to Mumbai airport
+2019-04-06T01:56:50+00:00,891161788,891071591,0,2001:8003:800F:7600:947:1DB5:AE8:B6AF,Cochin International Airport,/* Passenger */
+2017-03-31T14:06:26+00:00,773130264,772975377,0,134.210.195.177,Cochin International Airport,/* New terminal- T3 */
+2017-04-24T18:24:02+00:00,777010893,776992042,0,Monster eagle,Cochin International Airport,/* CIAL solar power project */ Added CONVERT functions and added additional information
+2018-09-23T11:00:29+00:00,860834110,860833903,0,2409:4072:609A:C37:8599:BEB6:D2D:E5F4,Cochin International Airport,/* Passenger */  SG 8562 to be rerouted as CJB - DEL from 9 October. However COK - PNQ - DEL is a direct connection between COK and DEL
+2017-08-21T09:37:20+00:00,796508643,796388679,0,111.92.77.134,Cochin International Airport,"/* Cargo */ Fixed grammar, Added links"
+2018-09-04T18:41:30+00:00,858046166,857801374,0,Athulathe,Cochin International Airport,/* Passenger */ Added new IndiGo destination - Kuwait
+2018-08-16T18:26:30+00:00,855214183,855213576,0,117.216.17.74,Cochin International Airport,
+2018-06-03T20:38:27+00:00,844268926,844200382,0,188.70.3.18,Cochin International Airport,/* Passenger */
+2018-05-26T08:07:26+00:00,843014138,843013855,0,1.129.111.94,Chhatrapati Shivaji Maharaj International Airport,Fixed missing bolding tag and a space.
+2017-07-22T14:36:53+00:00,791792938,791792903,0,A2j2manimala,Cochin International Airport,A2j2manimala moved page [[Nedumbasserry International Airport]] to [[Cochin International Airport]] over redirect: revert
+2019-03-17T19:42:05+00:00,888228447,888227968,0,104.38.149.165,Chhatrapati Shivaji Maharaj International Airport,/* Passenger */ Added back AF BOM-CDG
+2018-01-31T06:30:25+00:00,823269182,823247622,0,110.170.48.137,Cochin International Airport,/* Passenger */
+2017-09-27T19:30:12+00:00,802681622,801091582,0,Antonbabich,Dabolim Airport,/* Passenger */
+2018-02-10T12:45:41+00:00,824931947,824585401,0,DRyaboshapka,Dabolim Airport,/* Passenger */
+2018-12-19T01:40:19+00:00,874405571,874254078,0,Athulathe,Dabolim Airport,/* Passenger */ IndiGo to Kannur(CNN) is not supported by the citation(now).
+2018-09-17T11:44:04+00:00,859955050,858135205,0,Tourist Help,Dabolim Airport,/* Passenger */
+2018-11-24T04:26:41+00:00,870344886,869825641,0,5.36.97.199,Dabolim Airport,/* Passenger */
+2019-05-28T11:22:56+00:00,899180706,898045298,0,106.51.24.169,Dabolim Airport,/* Passenger */
+2017-07-01T08:49:56+00:00,788421824,784841375,0,60.53.212.203,Dabolim Airport,/* External links */
+2017-09-06T14:07:47+00:00,799238082,798546306,0,42.109.7.187,Dabolim Airport,/* History */
+2018-01-21T06:52:37+00:00,821561606,820266087,0,Tourist Help,Dabolim Airport,/* Passenger */
+2018-05-11T13:31:11+00:00,840684145,840337939,0,122.163.155.86,Dabolim Airport,/* Passenger */
+2017-08-03T06:05:33+00:00,793665473,793665377,0,14.192.157.223,Dabolim Airport,/* Passenger */
+2018-08-18T02:05:20+00:00,855406621,855375069,0,Peroxwhy2gen,Dabolim Airport,
+2018-10-11T19:29:26+00:00,863593790,863448144,0,Tourist Help,Dabolim Airport,/* Passenger */
+2017-10-10T19:44:10+00:00,804728284,804378785,0,MikleffCoolX,Dabolim Airport,/* Passenger */
+2019-04-13T17:46:39+00:00,892315752,892260625,0,124.123.54.227,Dr. Babasaheb Ambedkar International Airport,/* Airlines and destinations */
+2019-05-14T10:59:59+00:00,897032964,897030254,0,106.220.215.131,Dr. Babasaheb Ambedkar International Airport,
+2017-10-16T16:53:02+00:00,805630057,805629242,0,103.229.26.163,Dr. Babasaheb Ambedkar International Airport,Indigo announces flights from new Hyderabad
+2017-03-01T14:01:52+00:00,768050855,764380633,0,83.171.181.80,Dr. Babasaheb Ambedkar International Airport,/* References */
+2018-06-16T07:32:29+00:00,846092801,846091791,0,Varunshiralkar,Dr. Babasaheb Ambedkar International Airport,/* Airlines and destinations */
+2017-11-25T13:51:58+00:00,812022316,811762092,0,Hororoka,Dr. Babasaheb Ambedkar International Airport,
+2018-04-16T11:14:13+00:00,836704579,836487650,0,খাঁ শুভেন্দু,Dr. Babasaheb Ambedkar International Airport,/* External links */
+2017-12-20T21:30:34+00:00,816360591,816281997,0,2601:240:CC00:420:AD0D:3AA9:CD30:66A4,Dr. Babasaheb Ambedkar International Airport,/* Airlines and destinations */
+2018-12-08T18:51:31+00:00,872714808,872477419,0,2402:8100:3029:5532:1:1:71B2:ACD5,Dr. Babasaheb Ambedkar International Airport,/* Airlines and destinations */
+2018-02-28T15:12:42+00:00,828096742,828055928,0,157.49.243.122,Dr. Babasaheb Ambedkar International Airport,/* Airlines and destinations */
+2018-02-09T14:49:17+00:00,824792760,824608721,0,Varunshiralkar,Dr. Babasaheb Ambedkar International Airport,/* Airlines and destinations */
+2019-01-05T05:46:41+00:00,876896664,875704415,0,27.4.39.111,Dr. Babasaheb Ambedkar International Airport,
+2019-04-19T02:58:00+00:00,893113796,893077000,0,2401:4900:190E:2655:46D5:328F:7F96:6CE0,Dr. Babasaheb Ambedkar International Airport,/* Airlines and destinations */
+2017-09-25T04:27:28+00:00,802282649,802282518,0,57.250.245.249,Dr. Babasaheb Ambedkar International Airport,
+2017-11-23T19:51:39+00:00,811762092,811761714,0,117.198.85.71,Dr. Babasaheb Ambedkar International Airport,/* Airlines and destinations */
+2017-12-04T06:42:27+00:00,813594295,784626414,0,123.201.75.159,Duvvada railway station,/* Gallery */
+2017-03-02T13:43:30+00:00,768213662,767723949,0,123.201.115.16,Duvvada railway station,/* External links */
+2019-05-11T08:11:38+00:00,896551027,894684204,0,Fan of railways,Duvvada railway station,
+2018-07-22T09:51:31+00:00,851444635,845827188,0,157.49.9.46,Jagdalpur Airport,ICAO Code
+2018-03-24T06:59:01+00:00,832166652,829907320,0,117.215.33.219,Jagdalpur Airport,/* Airlines and destinations */
+2018-06-14T12:17:22+00:00,845827188,845627107,0,2409:4042:2088:5AED:8290:1F0C:FB19:9290,Jagdalpur Airport,/* Airlines and destinations */
+2017-07-15T08:15:30+00:00,790669612,776192867,0,27.5.13.229,Jagdalpur Airport,/* Flight Facilitate */
+2017-04-02T04:30:54+00:00,773399413,773399282,0,2405:204:E506:601:2D30:73F6:501B:F906,Jagdalpur Airport,/* Airlines and destinations */
+2018-03-11T15:20:19+00:00,829907320,829907045,0,103.61.53.136,Jagdalpur Airport,/* Airlines and destinations */
+2018-11-28T22:15:18+00:00,871096436,865328884,0,Iridescent,Kadapa Airport,"/* History */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: June of 2018 → June 2018"
+2018-03-13T06:56:29+00:00,830178723,829689401,0,2405:204:652A:2655:A584:62BB:84B6:9B1D,Kadapa Airport,Added links
+2017-10-29T07:24:47+00:00,807643690,807375800,0,2601:240:CC00:420:4406:FBE1:6916:F70B,Kadapa Airport,/* Airlines and destinations */
+2018-04-03T20:08:03+00:00,834072960,832695783,0,We are all here,Kadapa Airport,Disambiguated: [[Salem Airport]] → [[Salem Airport (India)]]
+2018-02-10T14:28:05+00:00,824942216,824200715,0,14.139.160.250,Kadapa Airport,/* History */
+2017-11-23T21:29:50+00:00,811773722,811744537,0,Iridescent,Kadapa Airport,"/* History */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: september → September (2) using [[Project:AWB|AWB]]"
+2018-05-22T18:13:43+00:00,842476219,841984850,0,14.139.160.250,Kadapa Airport,/* History */
+2018-05-02T21:14:52+00:00,839349072,834072960,0,SaUp2014,Kadapa Airport,/* Airlines and destinations */
+2017-03-01T00:28:08+00:00,767967305,767966996,0,Blessonprakash92,Kempegowda International Airport,corrected grammar
+2018-08-11T11:00:29+00:00,854441102,854314300,0,Samueljjohn,Kempegowda International Airport,/* Passenger */
+2018-07-03T11:42:29+00:00,848656309,848625827,0,2409:4042:2296:24C3:514A:2068:4DEE:9343,Kempegowda International Airport,/* Passenger */Spicejet leaves Belgaum. https://www.ch-aviation.com/portal/news/68056-indias-belgaum-to-lose-scheduled-ops-as-spicejet-leaves
+2018-03-05T15:03:48+00:00,828915784,828557367,0,157.32.123.72,Kempegowda International Airport,/* Passenger */
+2017-05-10T18:10:07+00:00,779737995,779494496,0,GreenC bot,Kempegowda International Airport,Rescued 1 archive link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]
+2018-09-25T13:05:20+00:00,861149535,861148368,0,Rohitraja23,Kempegowda International Airport,/* Passenger */
+2019-07-01T06:53:26+00:00,904295426,904295397,0,103.81.79.35,Kempegowda International Airport,/* History - */
+2018-05-08T08:07:09+00:00,840187186,840128614,0,Komen.212,Kempegowda International Airport,/* Passenger */
+2017-09-13T03:26:25+00:00,800370049,799501195,0,117.192.75.228,Kempegowda International Airport,
+2018-11-10T19:57:57+00:00,868219024,868061690,0,2607:FEA8:D120:4D7:685C:BD7F:63F7:560E,Kempegowda International Airport,
+2019-02-27T13:16:41+00:00,885346846,885268859,0,124.123.51.190,Kempegowda International Airport,/* Passenger */
+2018-02-02T11:27:59+00:00,823623867,823623609,0,Hemanth932,Kempegowda International Airport,/* Statistics */
+2019-01-06T16:17:44+00:00,877104421,877099782,0,Jellysandwich0,Kempegowda International Airport,spacing
+2017-04-11T23:25:02+00:00,774992994,774922524,0,Materialscientist,Kempegowda International Airport,Reverted edits by [[Special:Contribs/116.58.202.46|116.58.202.46]] ([[User talk:116.58.202.46|talk]]) to last version by LeoFrank
+2017-10-04T14:40:35+00:00,803770466,803417079,0,128.106.136.88,Kempegowda International Airport,/* Passenger */
+2018-09-19T11:05:15+00:00,860249173,859468908,0,Bdqbrc,Kempegowda International Airport,/* Airlines and destinations */
+2017-07-17T03:23:07+00:00,790947902,790685074,0,99.135.198.145,Kempegowda International Airport,
+2018-10-06T13:10:16+00:00,862752338,862751080,0,Rohitraja23,Kempegowda International Airport,/* Passenger */
+2017-03-02T09:15:54+00:00,768185369,768185086,0,Ccjclt,Kempegowda International Airport,Jetairways to start blr -ccj  https://www.google.co.in/flights/#search;f=BLR;t=CCJ;d=2017-12-11;tt=o
+2017-12-23T04:48:54+00:00,816711454,816711398,0,2601:240:CC00:420:F501:F959:DEDD:E99F,Kempegowda International Airport,/* Passenger */
+2018-08-08T19:54:51+00:00,854074111,854072980,0,106.193.9.228,Kempegowda International Airport,
+2017-04-16T23:00:04+00:00,775761039,775749431,0,Materialscientist,Kempegowda International Airport,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/129.49.100.26|129.49.100.26]] using [[WP:STiki|STiki]]
+2019-04-01T21:51:21+00:00,890528227,890526287,0,User-duck,Kempegowda International Airport,Correct cite. Narrower columns.
+2018-01-01T17:00:02+00:00,818109743,818102474,0,Mark the train,Kempegowda International Airport,Updated runway and metro timelines
+2019-02-07T16:35:56+00:00,882220857,882091527,0,124.123.56.117,Kempegowda International Airport,/* Passenger */
+2017-10-29T11:04:22+00:00,807661079,807660720,0,112.196.147.4,Lal Bahadur Shastri Airport,
+2019-04-29T17:56:29+00:00,894735584,894735428,0,Monsieurupanshu,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-09-03T15:02:14+00:00,798739223,798557884,0,112.196.160.126,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-12-27T10:43:09+00:00,875550432,875201686,0,171.76.254.77,Lal Bahadur Shastri Airport,
+2019-04-02T15:52:56+00:00,890636053,890582534,0,106.51.24.203,Lal Bahadur Shastri Airport,/* Airlines and destinations */ Removing unoperational routes. Proposed routes cannot be added till they are officially announced by the airlines
+2018-10-07T08:17:19+00:00,862875836,862603130,0,Monsieurupanshu,Lal Bahadur Shastri Airport,
+2017-06-17T02:15:48+00:00,786067301,785796961,0,112.196.160.126,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2019-03-21T15:15:15+00:00,888805211,888615217,0,193.148.16.227,Lal Bahadur Shastri Airport,/* Airlines and destinations */ Removing Indigo Chennai and Patna destinations as these routes are no longer having flights
+2018-08-16T18:13:07+00:00,855212583,852678736,0,Monsieurupanshu,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-02-01T04:47:41+00:00,823428175,823269491,0,2601:240:CC00:420:3596:61E4:6276:6238,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-07-21T02:49:10+00:00,851255749,849650347,0,KolbertBot,Lal Bahadur Shastri Airport,Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)
+2019-06-13T15:06:57+00:00,901681396,901680629,0,106.51.24.169,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-06-11T08:08:21+00:00,785033294,784078109,0,112.196.160.126,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-04-04T16:04:58+00:00,834227979,831995056,0,Sulthan90,Lal Bahadur Shastri Airport,website added
+2019-04-19T05:51:31+00:00,893128877,892899548,0,106.51.29.228,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2019-01-29T07:51:51+00:00,880753351,880392930,0,Eildon,Lal Bahadur Shastri Airport,/* Airlines and destinations */ Fixed Colombo airport
+2019-02-19T22:04:41+00:00,884158455,884080247,0,Monsieurupanshu,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2017-09-21T13:55:04+00:00,801731096,801084925,0,47.30.78.84,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-02-17T01:12:29+00:00,826071704,823428175,0,112.196.147.4,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-05-08T12:53:05+00:00,840213159,840078218,0,223.181.30.124,Lal Bahadur Shastri Airport,
+2018-04-21T04:12:05+00:00,837486244,837369303,0,Monsieurupanshu,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-09-08T07:09:56+00:00,858586028,858585868,0,Monsieurupanshu,Lal Bahadur Shastri Airport,/* Airlines and destinations */
+2018-09-16T08:34:21+00:00,859787123,859778993,0,Broman178,Lokpriya Gopinath Bordoloi International Airport,"/* Passenger */  Removed unsourced, duplicate link for Pakyong as services there haven't officially commenced yet."
+2019-02-11T13:45:23+00:00,882810405,882810281,0,Debanjan ray,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */ Removed the starting date as the service has already started.
+2019-04-12T04:30:18+00:00,892093426,889851320,0,Johnj1995,Lokpriya Gopinath Bordoloi International Airport,
+2017-12-09T09:40:51+00:00,814526560,812161615,0,2405:204:B10B:B332:AD8C:237D:D32:1516,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */
+2017-09-10T01:23:05+00:00,799817393,799725560,0,Iloveixe,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */
+2017-09-30T16:46:11+00:00,803128251,803127935,0,27.62.27.157,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */
+2017-11-26T09:33:34+00:00,812161615,812110651,0,103.222.20.53,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */
+2019-05-13T05:00:34+00:00,896839094,896839036,0,2405:204:B28E:E968:7A84:30D7:CB4C:F812,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */
+2019-06-04T16:06:27+00:00,900279591,900267444,0,User-duck,Lokpriya Gopinath Bordoloi International Airport,Fix cites.
+2018-06-15T08:35:16+00:00,845955990,842306225,0,103.222.20.53,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */
+2018-03-02T14:34:57+00:00,828433293,828197605,0,Prabal.dutta,Lokpriya Gopinath Bordoloi International Airport,Capital of Assam is Dispur. Not Guwahati. I have edited it.
+2017-08-22T04:47:25+00:00,796633983,795817001,0,Iloveixe,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */ Updated airlines and destinations
+2019-03-23T05:01:07+00:00,889061553,888615295,0,2409:4065:492:35F3:173A:F009:1C8F:F161,Lokpriya Gopinath Bordoloi International Airport,/* Cargo */
+2018-03-27T03:52:23+00:00,832633396,832619522,0,103.222.20.53,Lokpriya Gopinath Bordoloi International Airport,
+2019-06-30T15:30:14+00:00,904190580,904123469,0,180.148.214.53,Lokpriya Gopinath Bordoloi International Airport,/* Passenger */
+2018-09-18T16:14:44+00:00,860142651,859787123,0,103.75.161.230,Lokpriya Gopinath Bordoloi International Airport,
+2018-08-01T16:20:07+00:00,852976459,852961106,0,106.206.75.105,Mangalore International Airport,
+2019-01-30T21:25:14+00:00,881007364,880945865,0,KylieTastic,Mangalore International Airport,Reverted 1 edit by [[Special:Contributions/122.179.65.182|122.179.65.182]] ([[User talk:122.179.65.182|talk]]): Rvt brekaing images and links ([[WP:TW|TW]])
+2018-05-23T12:48:43+00:00,842594866,841933221,0,106.193.121.49,Mangalore International Airport,/* Airlines and destinations */
+2017-09-30T14:52:48+00:00,803112748,802596123,0,D7G1FV49C,Mangalore International Airport,"/* Airlines and destinations */  Mangalore - Chennai (IndiGo flight) details added, with citation"
+2019-02-26T18:15:19+00:00,885216490,885204875,0,Girth Summit,Mangalore International Airport,"Reverted 1 edit by 157.45.228.74: The article title is Mangalore International Airport. If the airport has changed its name, provide a source to demonstrate this and the name of the article can be changed along with the content ([[WP:TW|TW]])"
+2017-03-03T03:54:08+00:00,768327347,768050156,0,Aritrop,Lokpriya Gopinath Bordoloi International Airport,"Passenger statistic , shifted the comma, to reflect the number in terms of million instead of lakh"
+2017-06-11T04:22:37+00:00,785011931,784523355,0,Iloveixe,Mangalore International Airport,"/* Airlines and destinations */ IndiGo offers same plane connectivity to Patna via Bengaluru. Please refer to the schedule page. Deliberately omitting Varanasi, Vadodara and Kolkata as these are one-way only connections."
+2019-05-15T04:36:27+00:00,897157858,897007872,0,Aron shown dsouza,Mangalore International Airport,/* Airlines and destinations */
+2017-07-19T03:51:49+00:00,791261769,791260545,0,Premkudva,Mangalore International Airport,/* Accidents and incidents */
+2017-10-17T08:55:16+00:00,805735423,805686123,0,2405:204:51A9:9711:408:DD63:ABD8:4BE0,Mangalore International Airport,/* Airlines and destinations */
+2018-03-24T03:04:29+00:00,832147532,831734881,0,2601:243:600:70:3852:D4B9:217D:EC7B,Mangalore International Airport,/* Airlines and destinations */
+2018-05-14T12:45:25+00:00,841170051,841169893,0,106.206.127.172,Mangalore International Airport,/* Airlines and destinations */
+2018-01-05T19:07:32+00:00,818814752,818248347,0,2601:240:CC00:420:3596:61E4:6276:6238,Mangalore International Airport,/* Airlines and destinations */
+2017-12-20T21:28:05+00:00,816360114,816079552,0,2601:240:CC00:420:AD0D:3AA9:CD30:66A4,Mangalore International Airport,/* Airlines and destinations */
+2018-02-22T10:51:24+00:00,827031459,827031207,0,117.219.212.80,Mangalore International Airport,/* Airlines and destinations */
+2019-04-01T04:12:51+00:00,890405408,882961979,0,175.100.148.101,Mysore Airport,/* Airlines and destinations */
+2017-06-11T21:26:04+00:00,785137715,774038680,0,WOSlinker,Mysore Airport,remove old coord params
+2017-12-28T10:21:54+00:00,817435007,815938187,0,223.237.214.150,Mysore Airport,/* Scheduled air service */
+2018-07-11T20:37:28+00:00,849851919,846081109,0,Modulus12,Mysore Airport,Fixed reference
+2019-06-04T13:52:20+00:00,900263316,899358825,0,2409:4042:2E83:43D:0:0:FCC9:D307,Mysore Airport,/* Airlines and destinations */
+2018-01-21T08:36:43+00:00,821570969,818994461,0,106.206.12.69,Mysore Airport,/* Scheduled air service */
+2019-05-29T14:32:51+00:00,899358825,899358590,0,116.68.72.174,Mysore Airport,/* Airlines and destinations */
+2018-08-04T09:40:39+00:00,853376029,849851919,0,106.206.72.217,Mysore Airport,/* Airlines and destinations */There is no direct flight to Hyderabad and Cuddapah from Mysore. Flight route: Mysore > Chennai > Cuddapah > Hyderabad. Each sector has different flight numbers.
+2019-02-12T12:32:24+00:00,882961979,880743142,0,Zuhair.hamza,Mysore Airport,/* Airlines and destinations */
+2018-02-28T12:50:23+00:00,828079368,827321695,0,42.109.28.250,Mysore Airport,Wr
+2019-06-22T04:38:44+00:00,902906640,902106833,0,ImSonyR9,Mysore Airport,/* Airlines and destinations */
+2017-11-30T14:45:29+00:00,812896019,812895907,0,183.82.216.164,Rajahmundry Airport,/* Airlines and destinations */
+2019-05-09T14:02:56+00:00,896286996,895871511,0,2405:204:6300:6C1D:0:0:14BB:20A4,Mysore Airport,/* Airlines and destinations */
+2018-08-13T02:04:37+00:00,854678921,854678807,0,43.225.21.196,Rajahmundry Airport,/* Airlines and destinations */
+2018-02-19T12:31:34+00:00,826490583,821321884,0,FlyByNight,Rajahmundry Airport,/* Airlines and destinations */ SpicejJet begins Bangalore service > <ref>{{cite web|url=http://www.thehindu.com/news/cities/puducherry/spicejet-flight-service-to-bengaluru-from-february-15/article22423515.ece |title=SpiceJet flight service to Bengaluru f
+2019-03-20T20:19:34+00:00,888698940,888678609,0,KylieTastic,Rajahmundry Airport,Reverted 1 edit by [[Special:Contributions/Rohith munna|Rohith munna]] ([[User talk:Rohith munna|talk]]): Rvt back as per source ([[WP:TW|TW]])
+2017-09-10T23:32:20+00:00,799980106,796055938,0,2601:602:8702:F5BD:2D87:A61D:7285:C202,Rajahmundry Airport,Corrected IATA code in infobox
+2018-05-12T16:44:04+00:00,840856772,835939764,0,171.61.155.163,Rajahmundry Airport,/* Airlines and destinations */
+2017-05-26T04:39:36+00:00,782321702,782321681,0,Guanaco,Rajahmundry Airport,Reverted edits by [[Special:Contributions/2405:204:638F:A4A0:882D:BD93:2459:F0B7|2405:204:638F:A4A0:882D:BD93:2459:F0B7]] ([[User talk:2405:204:638F:A4A0:882D:BD93:2459:F0B7|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2017-07-16T18:49:17+00:00,790880739,784916197,0,Roland zh,Rajahmundry Airport,/* External links */ {{commons category|Rajahmundry Airport}}
+2019-05-04T07:54:05+00:00,895439083,895366242,0,182.58.188.239,Rajiv Gandhi International Airport,"/* Passenger */Provide specific date, and not just month"
+2019-06-01T08:46:29+00:00,899777762,899589006,0,Amayranjan2004,Rajiv Gandhi International Airport,/* Passenger */
+2019-04-12T03:05:22+00:00,892086537,891985298,0,2601:647:4A00:2401:3C27:DD86:5F97:643A,Rajiv Gandhi International Airport,/* Passenger */
+2018-08-02T16:05:24+00:00,853124798,853054978,0,14.141.64.5,Rajiv Gandhi International Airport,/* Passenger */
+2018-07-25T14:54:50+00:00,851937365,851908345,0,CommonsDelinker,Rajiv Gandhi International Airport,"Removing [[:c:File:RGIA_phase2_LB.jpg|RGIA_phase2_LB.jpg]], it has been deleted from Commons by [[:c:User:EugeneZelenko|EugeneZelenko]] because: Copyright violation; see [[:c:Commons:Licensing|]]: Advertisement."
+2018-04-04T04:52:42+00:00,834144955,833963124,0,Btarunr,Rajiv Gandhi International Airport,Image placement was wrong
+2018-12-21T03:09:51+00:00,874718165,874506300,0,Komen.212,Rajiv Gandhi International Airport,/* Passenger */
+2017-10-30T14:34:28+00:00,807859622,807815139,0,27.63.48.226,Rajiv Gandhi International Airport,/* Passenger */
+2017-12-10T22:40:13+00:00,814784123,814727296,0,Blessonprakash92,Rajiv Gandhi International Airport,Undid revision 814727296 by [[Special:Contributions/2402:3A80:A0A:B53F:0:F:A306:1C01]]
+2017-07-04T23:51:38+00:00,789038705,788989639,0,2601:240:CC00:420:89B5:4C18:3CC5:431E,Rajiv Gandhi International Airport,/* Passenger */
+2018-07-14T18:26:59+00:00,850249162,850215944,0,150.242.175.173,Rajiv Gandhi International Airport,/* Passenger */
+2018-02-27T07:32:20+00:00,827878643,822921962,0,Gokul Bas,Rajiv Gandhi International Airport,/* Passenger */
+2019-05-31T01:49:07+00:00,899589006,899174160,0,RevelationDirect,Rajiv Gandhi International Airport,removed [[Category:Memorials to Rajiv Gandhi]] using [[WP:HC|HotCat]] per [[WP:SHAREDNAME]]
+2018-12-17T07:45:45+00:00,874121403,873993714,0,2604:2D80:C802:96E5:DDE3:A856:1D97:858D,Rajiv Gandhi International Airport,/* Passenger */
+2018-06-03T12:03:20+00:00,844212923,843973411,0,2409:4070:2108:23F0:0:0:2ADF:48B0,Rajiv Gandhi International Airport,/* Passenger */
+2017-10-18T06:36:44+00:00,805880941,805686899,0,Achu02,Rajiv Gandhi International Airport,Stats changed as Per 2016-2017 FY.
+2019-02-02T18:33:32+00:00,881455958,881455890,0,Zurich00swiss,Rajiv Gandhi International Airport,/* Passenger */
+2018-09-02T19:16:08+00:00,857746817,857680192,0,182.64.49.151,Rajiv Gandhi International Airport,/* Passenger */
+2019-02-04T01:56:59+00:00,881667970,881635728,0,2001:4878:A062:3000:310E:EADD:E198:E4C9,Rajiv Gandhi International Airport,/* Passenger */
+2019-06-03T18:49:08+00:00,900144998,899985988,0,124.123.54.124,Rajiv Gandhi International Airport,/* Passenger */
+2019-07-05T03:46:08+00:00,904864049,904749614,0,Achu02,Rajiv Gandhi International Airport,Added AAI Trraffic News PDF page as reference and update as 2018-2019 FY year.
+2018-09-13T14:04:57+00:00,859355098,859079602,0,Narky Blert,Rajiv Gandhi International Airport,Link to DAB page repaired
+2017-04-11T04:04:24+00:00,774864721,774699155,0,2601:641:4000:5990:B1E0:7F92:7048:B1C4,Rajiv Gandhi International Airport,/* Passenger */
+2017-11-23T13:10:26+00:00,811716136,811681508,0,220.225.242.194,Rajiv Gandhi International Airport,/* Passenger */
+2019-03-17T12:12:30+00:00,888173786,887186992,0,49.248.228.37,Rajiv Gandhi International Airport,
+2017-03-09T16:10:43+00:00,769445346,769276540,0,14.194.215.156,Rajiv Gandhi International Airport,/* Passenger */
+2019-04-26T07:08:33+00:00,894192969,894014288,0,183.83.175.67,Rajiv Gandhi International Airport,missing info
+2018-06-01T18:28:14+00:00,843973411,843411135,0,223.190.26.187,Rajiv Gandhi International Airport,/* Passenger */
+2019-02-10T10:32:16+00:00,882623649,882606285,0,Cooltusshar,Rajiv Gandhi International Airport,/* Passenger */
+2019-02-26T05:01:10+00:00,885136057,885011231,0,202.136.70.79,Rajiv Gandhi International Airport,/* Passenger */
+2019-04-22T21:30:08+00:00,893670910,893337823,0,RussBot,Rajiv Gandhi International Airport,Robot: fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Outlook]]
+2017-12-01T18:45:43+00:00,813093761,812583691,0,2405:204:33A7:A43D:0:0:FEC:8A1,Rajiv Gandhi International Airport,/* Passenger */
+2018-11-16T02:15:38+00:00,869048477,868648422,0,Wbm1058,Rajiv Gandhi International Airport,"sp.: [[International Civil Aviation Organization]], per [[MOS:CONSISTENCY]], proper names use the subject's own spelling (via [[WP:JWB]])"
+2018-08-13T19:12:36+00:00,854784695,854742706,0,182.64.38.162,Rajiv Gandhi International Airport,/* Passenger */
+2018-05-22T00:03:55+00:00,842363811,842307655,0,Ilona.Meagher,Rajiv Gandhi International Airport,/* Planning (1997–2004) */ added greenfield airport wiki link
+2019-01-25T16:38:59+00:00,880141117,879702450,0,Vamshichakra87,Rajiv Gandhi International Airport,/* Passenger */
+2019-01-14T12:58:01+00:00,878373301,878373250,0,Abelmoschus Esculentus,Rajiv Gandhi International Airport,"Reverted edits by [[Special:Contributions/106.76.212.141|106.76.212.141]] ([[User talk:106.76.212.141|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.7)"
+2018-12-19T14:21:56+00:00,874478317,872929883,0,92.99.161.33,Sharjah International Airport,/* Passenger */
+2018-06-07T16:17:31+00:00,844852074,842171147,0,1.186.183.31,Sharjah International Airport,/* Airlines and destinations */
+2017-11-29T05:52:31+00:00,812674836,812462152,0,83.110.136.190,Sharjah International Airport,/* Passenger */
+2018-10-30T03:20:49+00:00,866404492,866036043,0,Wikiemirati,Sharjah International Airport,
+2017-04-28T16:34:37+00:00,777677168,775158100,0,Gyrofrog,Sharjah International Airport,"add ""See also"" section. [[Al Mahatta Fort]], at the previous site of the airport"
+2019-01-19T12:17:29+00:00,879157486,878976493,0,188.174.22.45,Sharjah International Airport,/* Passenger */ link fixed
+2018-01-07T22:31:32+00:00,819178152,819133304,0,Stinger20,Sharjah International Airport,"Changed '-' to '–' per [[WP:Airports]], Fixed Various Other Name Issues, RegEx Typo Fixing (via [[User:Joeytje50/JWB|JWB]])"
+2019-05-15T22:41:06+00:00,897270790,897215115,0,Kbeamsde,Sharjah International Airport,/* Cargo */
+2017-03-19T06:16:17+00:00,771050679,769734967,0,Iloveixe,Sharjah International Airport,/* Passenger */ Jet has cancelled Sharjah-Mangalore services permanently.
+2017-10-24T14:58:54+00:00,806849174,806820624,0,2405:204:5084:FBBA:8961:A28:763D:F22B,Sharjah International Airport,/* Passenger */
+2018-06-19T17:15:46+00:00,846582376,846216786,0,2405:204:808F:1469:B53B:2442:1D97:6E1F,Sharjah International Airport,/* Airlines and destinations */
+2018-12-10T03:25:14+00:00,872929883,872662859,0,Athulathe,Sharjah International Airport,/* Passenger */ Kannur(CNN) flight commences today 10 Dec 2018
+2018-03-27T08:56:27+00:00,832662080,832163563,0,2405:204:7389:1EEF:0:0:290C:90A0,Sharjah International Airport,/* Passenger */
+2017-08-25T04:34:01+00:00,797134853,795244572,0,C933103,Sharjah International Airport,/* Overview */
+2018-10-07T05:20:24+00:00,862860087,862859845,0,84.246.166.37,Sharjah International Airport,/* Passenger */
+2018-03-01T16:58:03+00:00,828280109,827374829,0,123.201.228.62,Surat Airport,/* Passenger */
+2019-04-18T02:55:51+00:00,892972314,891716262,0,210.111.221.107,Sharjah International Airport,/* Passenger */
+2017-11-03T11:44:24+00:00,808527646,808522784,0,Drmodi3370,Surat Airport,
+2017-10-03T13:13:59+00:00,803596096,803462511,0,KC Panchal,Surat Airport,/* top */ Old link had become invalid; replacing it with updated functional link
+2018-02-05T09:47:56+00:00,824103021,824098516,0,Arjayay,Surat Airport,Rv unsourced + unclear changes
+2019-02-14T19:26:28+00:00,883331907,883275448,0,219.91.238.1,Surat Airport,/* Airlines and destinations */
+2019-01-16T15:45:04+00:00,878722446,878691698,0,103.37.180.223,Surat Airport,
+2018-10-10T13:24:22+00:00,863388245,861705341,0,208.38.52.98,Surat Airport,
+2017-07-29T03:30:36+00:00,792850745,792850157,0,125.239.3.109,Surat Airport,/* Airlines and destinations */
+2018-10-15T02:44:07+00:00,864098457,864009570,0,Drmodi3370,Surat Airport,/* Airlines and destinations */
+2017-10-31T14:58:17+00:00,808043333,808043178,0,RegentsPark,Surat Airport,rm international
+2017-12-03T09:41:27+00:00,813372703,813170659,0,Nizil Shah,Surat Airport,/* Accidents and incidents */
+2017-03-20T02:30:03+00:00,771190334,770433517,0,130.195.253.27,Surat Airport,/* Airlines and destinations */
+2018-11-30T02:31:42+00:00,871290521,869933093,0,2405:204:828F:5868:7C6D:1F75:5601:1860,Surat Airport,/* Airlines and destinations */
+2019-04-30T20:52:28+00:00,894919849,894439206,0,Filips3,Suvarnabhumi Airport,/* Passenger */
+2019-04-07T12:58:36+00:00,891361957,891267946,0,ApprenticeFan,Suvarnabhumi Airport,/* Passenger */
+2018-11-29T10:01:23+00:00,871162687,871105666,0,Sgly,Suvarnabhumi Airport,/* Sky Lane */
+2017-07-29T05:24:38+00:00,792860946,792576406,0,BD2412,Suvarnabhumi Airport,"/* Passenger */clean up spacing around commas, replaced: ] , [ → ], [, ,t → , t, inline, title → inline,title using [[Project:AWB|AWB]]"
+2018-11-01T07:39:55+00:00,866741252,866741223,0,106.77.159.138,Surat Airport,
+2017-04-27T04:47:53+00:00,777437875,777287326,0,Amily7751,Suvarnabhumi Airport,/* Passenger */
+2018-09-11T04:21:50+00:00,859013899,858703318,0,Josephbernardlim,Suvarnabhumi Airport,
+2018-06-26T07:58:28+00:00,847565394,847454566,0,Antonbabich,Suvarnabhumi Airport,/* Passenger */
+2019-01-25T18:56:58+00:00,880160523,880100955,0,88.98.85.216,Suvarnabhumi Airport,/* Passenger */
+2017-06-05T14:25:31+00:00,783930827,783927800,0,Anna Frodesiak,Suvarnabhumi Airport,Reverted edits by [[Special:Contribs/171.5.68.168|171.5.68.168]] ([[User talk:171.5.68.168|talk]]) to last version by 122.174.230.2
+2018-04-02T11:39:15+00:00,833778390,833432835,0,80.2.140.157,Suvarnabhumi Airport,
+2019-01-08T02:30:42+00:00,877342614,876720168,0,103.113.209.47,Suvarnabhumi Airport,
+2017-06-01T09:09:02+00:00,783286513,783282609,0,Andrewgprout,Suvarnabhumi Airport,Reverted 1 edit by [[Special:Contributions/114.109.71.85|114.109.71.85]] ([[User talk:114.109.71.85|talk]]): [[WP:BURDEN]]. ([[WP:TW|TW]])
+2017-06-17T12:18:33+00:00,786124406,786087459,0,Paul 012,Suvarnabhumi Airport,"/* Airport Rail Link */Avoid link to misleading redirect, replaced: [[Bangkok Metro| → [[MRT (Bangkok)|, [[Bangkok Skytrain → [[BTS skytrain using [[Project:AWB|AWB]]"
+2017-12-21T11:52:08+00:00,816449470,816447924,0,Love Krittaya,Suvarnabhumi Airport,
+2018-07-13T18:48:48+00:00,850119907,849661252,0,Abhiram0903,Suvarnabhumi Airport,/* Passenger */
+2017-06-19T09:28:55+00:00,786413043,786410093,0,111.94.241.154,Suvarnabhumi Airport,/* Passenger */
+2018-02-19T11:34:51+00:00,826485789,825989238,0,20WashingtonPaul,Suvarnabhumi Airport,/* Passenger */
+2017-07-13T11:13:38+00:00,790379857,790374522,0,Amily7751,Suvarnabhumi Airport,
+2017-07-05T20:06:23+00:00,789171758,789171451,0,VishalK,Swami Vivekananda Airport,/* Airlines and destinations */
+2017-04-02T03:26:14+00:00,773392847,773392814,0,2405:204:E506:601:2D30:73F6:501B:F906,Swami Vivekananda Airport,
+2018-06-14T12:18:08+00:00,845827257,845084764,0,2409:4042:2088:5AED:8290:1F0C:FB19:9290,Swami Vivekananda Airport,/* Airlines and destinations */
+2017-06-09T12:02:57+00:00,784651025,784071991,0,2405:204:E187:158E:F237:EA4F:5A32:AC33,Swami Vivekananda Airport,/* Airlines and destinations */
+2018-05-13T06:42:51+00:00,840969018,840078968,0,2405:201:0:FE29:5950:5EDF:79A5:9209,Swami Vivekananda Airport,
+2017-10-31T07:48:38+00:00,807997502,807659735,0,103.61.54.153,Swami Vivekananda Airport,
+2019-05-20T19:07:04+00:00,898003824,897930339,0,60.254.82.69,Swami Vivekananda Airport,/* Airlines and destinations */
+2018-07-23T12:23:09+00:00,851605479,851231108,0,49.36.1.137,Swami Vivekananda Airport,/* Airlines and destinations */
+2019-01-17T01:58:36+00:00,878809407,878506485,0,2605:E000:9149:8300:D0AF:C667:EA05:3159,Swami Vivekananda Airport,sp
+2018-03-17T00:02:31+00:00,830794420,830330530,0,27.97.235.226,Swami Vivekananda Airport,
+2017-07-31T19:15:51+00:00,793277186,793276315,0,47.31.8.24,Swami Vivekananda Airport,/* Airlines and destinations */
+2018-09-03T22:53:42+00:00,857925428,857523978,0,60.254.82.4,Swami Vivekananda Airport,/* Airlines and destinations */
+2019-03-05T03:13:13+00:00,886255626,886255378,0,27.56.199.53,Swami Vivekananda Airport,/* Airlines and destinations */
+2018-02-27T22:35:19+00:00,827991177,827719679,0,2405:204:1484:B593:58C0:4067:127F:D8EF,Swami Vivekananda Airport,/* Airlines and destinations */
+2018-01-26T23:11:11+00:00,822536689,822535716,0,ImageRemovalBot,Swami Vivekananda Airport,Removing links to deleted file [[:File:Swami vivekananda airport Raipur.png]]
+2019-05-16T10:57:31+00:00,897337076,897206434,0,60.254.82.69,Swami Vivekananda Airport,/* Airlines and destinations */
+2019-06-01T22:46:30+00:00,899875023,899874817,0,59.102.82.97,Swami Vivekananda Airport,
+2018-04-02T16:11:06+00:00,833824072,833822915,0,175.101.137.11,Tirupati Airport,
+2019-05-31T06:22:29+00:00,899616258,899443599,0,2405:204:508F:EA44:0:0:BBD:A0AD,Tirupati Airport,
+2017-07-16T18:38:02+00:00,790879493,788584283,0,Roland zh,Tirupati Airport,/* External links */ {{commons category|Tirupati Airport}}
+2018-02-15T08:19:04+00:00,825766770,825766704,0,157.48.10.244,Tirupati Airport,/* Airlines and destinations */
+2018-03-27T06:43:27+00:00,832649014,832648510,0,2405:204:609F:419E:FCE5:337F:50F3:AF89,Tirupati Airport,/* Airlines and destinations */ Added links
+2017-06-15T05:08:08+00:00,785740950,785740340,0,Jonesey95,Tirupati Airport,Fix unsupported parameters in infobox
+2018-04-20T20:30:45+00:00,837438311,836740098,0,175.101.137.11,Tirupati Airport,/* Airlines and destinations */
+2017-09-23T03:46:01+00:00,801971431,800317592,0,2405:204:5102:529E:82C4:72C5:8E2B:E721,Tirupati Airport,/* Airlines and destinations */
+2019-02-04T14:51:21+00:00,881742374,881742046,0,223.238.3.127,Tirupati Airport,
+2017-03-06T12:42:25+00:00,768902593,768902547,0,175.100.146.127,Tirupati Airport,/* Airlines and destinations */
+2017-08-13T01:49:51+00:00,795257338,794482584,0,2405:204:638D:4251:0:0:1349:90A4,Tirupati Airport,/* Airlines and destinations */
+2018-12-28T01:03:12+00:00,875640649,875582310,0,107.15.100.51,Tirupati Airport,/* Airlines and destinations */
+2019-05-03T16:17:19+00:00,895344736,894887075,0,Jellysandwich0,Tirupati Airport,
+2017-08-08T09:07:46+00:00,794482584,794468092,0,Keith D,Tirupati Airport,Remove leading zero from date
+2019-03-27T19:45:01+00:00,889760333,888944227,0,Ohnoitsjamie,Tirupati Airport,Reverted edits by [[Special:Contribs/Rdjmcu|Rdjmcu]] ([[User talk:Rdjmcu|talk]]) to last version by 175.101.143.105
+2019-04-22T11:04:01+00:00,893584590,845251756,0,2405:204:6286:F1A9:CCB0:F7D0:5E0:1F8E,Tirupati–Jammu Tawi Humsafar Express,Zone
+2018-06-10T14:18:42+00:00,845251756,844500394,0,Adityamadhav83,Tirupati–Jammu Tawi Humsafar Express,
+2017-08-30T11:57:05+00:00,798002795,798002615,0,202.142.107.166,Tirupati–Jammu Tawi Humsafar Express,
+2019-04-25T03:33:44+00:00,894024302,894024157,0,Sai Aravind Kudipudi,Tirupati–Sainagar Shirdi Express,
+2018-07-23T19:44:30+00:00,851663004,842068707,0,183.82.0.176,Tirupati–Sainagar Shirdi Express,
+2018-12-05T12:57:25+00:00,872147358,867045105,0,Mir MohammadAk,TruJet,/* Destinations */
+2017-08-22T15:49:11+00:00,796703412,796702148,0,69.11.218.219,TruJet,
+2018-06-15T01:28:24+00:00,845920053,845919990,0,117.198.152.24,TruJet,/* Destinations */
+2017-05-02T10:55:04+00:00,778313345,777626672,0,Magioladitis,TruJet,"/* Fleet */Improved article to match Manual of Style, References after punctuation per [[WP:CITEFOOT]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (12151)"
+2018-05-15T16:53:37+00:00,841403745,834516750,0,AKS.9955,TruJet,Added key people
+2019-02-22T18:18:44+00:00,884600691,884356001,0,27.57.192.214,TruJet,
+2018-08-06T08:36:09+00:00,853676701,853253778,0,Manohar1990,TruJet,/* Destinations */
+2017-12-01T01:16:40+00:00,812982914,812499923,0,45.64.16.104,TruJet,/* Fleet */
+2017-06-19T10:20:26+00:00,786417786,784807452,0,Anshabhi,TruJet,updated market share
+2017-07-19T00:13:40+00:00,791236234,789148620,0,106.205.160.199,TruJet,Fixed typo
+2018-09-14T05:52:13+00:00,859461290,853676701,0,2405:204:928F:51A2:0:0:2968:F0AD,TruJet,/* Destinations */
+2018-10-12T12:29:31+00:00,863697091,863669090,0,149.155.223.46,TruJet,
+2019-01-31T07:58:12+00:00,881074180,880933447,0,113.193.181.58,TruJet,
+2017-05-21T17:11:46+00:00,781506226,778313345,0,49.207.202.234,TruJet,/* Destinations */
+2017-08-27T14:32:07+00:00,797513053,796703412,0,Citation bot,TruJet,Alter: page. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].
+2019-05-10T02:48:07+00:00,896379554,870842628,0,Materialscientist,User talk:Chinnuabhiram600,/* November 2018 */
+2017-02-26T16:03:43+00:00,767552073,0,0,HostBot,User talk:Chinnuabhiram600,"/* Chinnuabhiram600, you are invited to the Teahouse! */ new section"
+2017-03-01T10:11:23+00:00,768028512,768028397,0,83.171.178.147,Vijayawada Airport,/* Airlines and destinations */ updated according to http://www.aircosta.in/ebooking/Static/Route-map.aspx
+2019-03-11T21:42:59+00:00,887314929,887235845,0,165.225.0.198,Vijayawada Airport,
+2018-03-01T08:43:17+00:00,828225989,828185978,0,106.208.8.129,Vijayawada Airport,
+2018-12-23T17:06:11+00:00,875079143,874849798,0,2405:204:6217:5E19:0:0:26DD:98A0,Vijayawada Airport,
+2018-12-24T08:43:40+00:00,875171804,875083772,0,175.100.148.109,Vijayawada Airport,/* Airlines and destinations */
+2017-12-10T04:19:06+00:00,814662530,814659896,0,91.140.229.67,Vijayawada Airport,/* Airlines and destinations */
+2018-02-28T12:06:13+00:00,828074703,826875702,0,106.208.80.252,Vijayawada Airport,
+2018-11-08T22:52:20+00:00,867936047,867622607,0,Asianperu,Vijayawada Airport,/* Airlines and destinations */
+2018-01-27T02:20:41+00:00,822559096,822558712,0,2405:204:6217:5B70:DE74:3CB1:ECD9:94A5,Vijayawada Airport,/* Structure and amenities */
+2018-05-23T12:45:38+00:00,842594362,842285260,0,1.39.142.225,Vijayawada Airport,/* Statistics */Fixed typo
+2019-05-23T06:57:40+00:00,898385811,898379167,0,2405:204:609A:D061:0:0:1285:40A4,Vijayawada Airport,Citation missing.
+2018-04-07T13:59:00+00:00,835245200,835245157,0,123.201.157.75,Vijayawada Airport,/* Airlines and destinations */
+2018-04-16T17:10:13+00:00,836752338,836752323,0,CambridgeBayWeather,Vijayawada Airport,Adding {{pp-protected}} ([[WP:TW|TW]])
+2018-02-07T20:42:56+00:00,824517360,824200593,0,117.249.213.60,Vijayawada Airport,
+2018-08-13T14:30:52+00:00,854749411,853694252,0,61.2.12.94,Vijayawada Airport,
+2018-12-12T11:07:06+00:00,873307536,873274934,0,Pradhyumna c,Vijayawada Airport,New terminal
+2017-08-31T05:33:51+00:00,798133543,798133499,0,Jon Kolbert,Vijayawada Airport,Reverted edits by [[Special:Contribs/201.208.17.120|201.208.17.120]] ([[User talk:201.208.17.120|talk]]) to last version by Koushikanee
+2017-08-25T04:33:51+00:00,797134835,797134694,0,49.205.201.43,Vijayawada Airport,/* Structure and amenities */
+2018-02-05T22:44:30+00:00,824200593,824200568,0,2001:420:28E:1280:C4D9:83B3:B3B0:9097,Vijayawada Airport,/* Airlines and destinations */
+2019-04-30T17:17:09+00:00,894889311,894863707,0,2405:204:63A9:79C6:0:0:1012:80B0,Vijayawada Airport,/* Airlines and destinations */Indigo ends their flight services to  Singapore  from Vijayawada  on 27 June 2019 for confirmation go to Indigo website
+2018-05-05T15:48:23+00:00,839774041,839773748,0,Mbharatk19,Vijayawada Airport,
+2019-05-10T11:05:55+00:00,896420622,896315003,0,2409:4070:2185:16BD:0:0:1902:48A1,Vijayawada Airport,
+2017-10-01T19:24:37+00:00,803315035,802773851,0,2405:204:6084:31D1:0:0:1C0E:C8AD,Vijayawada Airport,/* Airlines and destinations */
+2019-03-22T10:25:46+00:00,888936907,888931363,0,2405:204:6082:F74B:0:0:38:8B1,Vijayawada Airport,Corrected.
+2019-02-04T03:54:05+00:00,881683817,881548059,0,2604:2D80:C808:8CD8:F1F2:4B7A:1E7D:E334,Vijayawada Airport,
+2019-01-27T18:11:39+00:00,880484166,880482952,0,Ssg2442,Vijayawada Airport,/* Airlines and destinations */ source added
+2019-03-02T05:06:58+00:00,885765657,885548165,0,103.37.201.77,Vijayawada Airport,website added
+2017-03-15T15:45:52+00:00,770461251,770410483,0,2405:204:6303:40DA:D058:BAC1:CD9D:4F83,Vijayawada Airport,/* Airlines and destinations */
+2019-02-12T14:16:53+00:00,882973321,882967684,0,Chaitu vnk,Vijayawada Airport,
+2018-01-23T21:37:15+00:00,822003499,822003150,0,117.206.237.248,Vijayawada Airport,
+2017-07-27T15:52:55+00:00,792617543,792617370,0,2405:204:660B:59A2:0:0:21BF:30B1,Vijayawada Airport,/* Airlines and destinations */
+2017-06-30T04:00:21+00:00,788212341,787951415,0,2001:420:C0C8:1001:0:0:0:213,Vijayawada Airport,/* Airlines and destinations */
+2018-05-21T13:25:05+00:00,842285260,841334055,0,103.194.135.94,Vijayawada Airport,
+2017-04-30T12:11:41+00:00,777972675,777630890,0,223.230.112.12,Vijayawada Airport,/* Airlines and destinations */VNS service ends today.
+2019-06-22T17:03:46+00:00,902971508,902711860,0,Iamraviteja,Vijayawada Airport,/* Airlines and destinations */
+2017-11-24T07:05:14+00:00,811827724,811809531,0,2405:204:8085:5D8F:7461:5EAC:D000:31B6,Vijayawada Airport,/* Airlines and destinations */
+2019-01-26T04:17:05+00:00,880225434,879641006,0,Hemanth kotipalli,Vijayawada Airport,/* Airlines and destinations */
+2019-02-13T08:21:30+00:00,883100977,883073702,0,2409:4070:210D:EF3A:ED12:82A5:D06B:86B8,Vijayawada Airport,There is no second runway bro. R2 is still on cards.It will take some more time.Still we have only one runway.
+2019-06-28T02:07:02+00:00,903801010,903796259,0,Iamraviteja,Vijayawada Airport,
+2017-03-02T18:12:15+00:00,768248984,768028512,0,Varmapak,Vijayawada Airport,ren
+2018-03-30T18:16:25+00:00,833293870,833293650,0,117.209.174.88,Vijayawada Airport,
+2017-09-14T06:30:07+00:00,800548826,800525638,0,Deepscooby,Vijayawada Airport,/* Airlines and destinations */
+2018-01-17T13:55:01+00:00,820938332,820923622,0,KylieTastic,Vijayawada Airport,Reverted 1 edit by [[Special:Contributions/Jagan mylapuru|Jagan mylapuru]] ([[User talk:Jagan mylapuru|talk]]): Rvt unsourced name change. ([[WP:TW|TW]])
+2019-04-17T03:01:38+00:00,892821087,892820961,0,2405:204:6404:AC26:0:0:FEC:18A0,Vijayawada Airport,/* Statistics */
+2019-04-27T15:14:10+00:00,894384144,894338930,0,99.135.195.202,Vijayawada Airport,
+2018-01-20T06:16:08+00:00,821397214,821265599,0,Chaitu vnk,Vijayawada Airport,
+2017-02-27T02:21:17+00:00,767636644,767483160,0,131.203.138.108,Visakhapatnam Airport,
+2017-03-19T19:07:54+00:00,771132726,771108153,0,122.175.14.95,Visakhapatnam Airport,"/* Airlines and destinations */Source: http://www.travelbizmonitor.com/Top-Stories/srilankan-airlines-to-open-three-new-routes-in-india-from-july-this-year-32924. 
+
+All 3 routes to start on same day."
+2017-03-31T15:06:33+00:00,773137289,773137233,0,ProgrammingGeek,Visakhapatnam Airport,Reverted edits by [[Special:Contributions/106.0.32.93|106.0.32.93]] ([[User talk:106.0.32.93|talk]]) ([[WP:HG|HG]]) (3.1.22)
+2017-04-15T19:38:29+00:00,775574988,775566935,0,223.230.40.127,Visakhapatnam Airport,This is how the airport is called in Telugu. It has same name board in the Airport also. This is native language. Don't make changes. And don't ask source for this.
+2018-04-08T12:20:16+00:00,835390965,835345872,0,Komen.212,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-25T22:51:57+00:00,772204617,772204544,0,59.89.11.121,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-13T09:52:40+00:00,873461370,873461301,0,171.76.121.51,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-17T15:40:35+00:00,892897688,892770790,0,88.217.113.48,Visakhapatnam Airport,/* Airlines and destinations */ typos
+2018-01-31T04:23:58+00:00,823257214,823257170,0,Padgriffin,Visakhapatnam Airport,Reverted 1 edit by [[Special:Contributions/2405:204:6019:DCF3:0:0:5D6:70A0|2405:204:6019:DCF3:0:0:5D6:70A0]] ([[User talk:2405:204:6019:DCF3:0:0:5D6:70A0|talk]]) to last revision by LeoFrank. ([[WP:TW|TW]])
+2017-03-27T23:57:16+00:00,772555207,772554025,0,2401:7400:4001:28EC:9855:E58E:A5EC:47A8,Visakhapatnam Airport,/* Airlines and destinations */
+2018-12-07T04:38:02+00:00,872417839,872403849,0,2405:204:6721:6A5A:B127:243D:DDAC:AFCF,Visakhapatnam Airport,/* Airlines and destinations */
+2017-08-25T02:43:13+00:00,797123232,796491684,0,157.48.23.161,Visakhapatnam Airport,/* Airlines and destinations */
+2017-04-16T09:31:01+00:00,775664650,775664646,0,NeilN,Visakhapatnam Airport,Adding {{pp-protected}} ([[WP:TW|TW]])
+2019-04-18T18:33:12+00:00,893061443,893060680,0,31.215.139.141,Visakhapatnam Airport,/* Airlines and destinations */
+2017-03-23T10:52:57+00:00,771760973,771750974,0,123.201.171.240,Visakhapatnam Airport,/* Airlines and destinations */ no related article
+2017-08-12T23:06:21+00:00,795240792,794804927,0,2405:204:638D:4251:0:0:1349:90A4,Visakhapatnam Airport,/* Airlines and destinations */
+2019-04-15T16:52:40+00:00,892600117,892562822,0,49.194.2.146,Visakhapatnam Airport,Undid revision 892562822 by [[Special:Contributions/Captaingunadeep|Captaingunadeep]] ([[User talk:Captaingunadeep|talk]])
+2019-02-08T15:40:24+00:00,882363489,882237308,0,2409:4070:2290:A39A:5771:830C:32E1:2530,Visakhapatnam Airport,
+2018-10-13T13:41:45+00:00,863849371,863729440,0,2409:4072:639D:7FEA:73DC:A868:7484:AD7C,Visakhapatnam Airport,/* Airlines and destinations */
+2017-02-07T13:34:02+00:00,764170871,764170691,0,59.92.255.140,Visakhapatnam railway station,
+2018-06-07T08:05:28+00:00,844802807,844802094,0,Jim1138,Visakhapatnam railway station,Reverted edits by [[Special:Contributions/157.48.234.39|157.48.234.39]] ([[User talk:157.48.234.39|talk]]) ([[WP:HG|HG]]) (3.4.3)
+2017-06-12T21:58:55+00:00,785325148,783173326,0,WereSpielChequers,Visakhapatnam railway station,"/* top */[[WP:AWB/T|Typo fixing]], replaced: east cost → east coast using [[Project:AWB|AWB]]"
+2018-01-19T11:14:54+00:00,821263798,818559660,0,27.59.181.130,Visakhapatnam railway station,
+2017-10-09T14:19:21+00:00,804511994,804511758,0,45.119.114.27,Visakhapatnam railway station,citation
+2018-10-12T16:21:39+00:00,863725620,859382038,0,Rvkrish8,Visakhapatnam railway station,
+2018-09-13T18:02:04+00:00,859382038,856077060,0,49.37.207.208,Visakhapatnam railway station,
+2017-07-06T05:12:21+00:00,789235406,789235364,0,160.16.212.214,Visakhapatnam railway station,
+2017-12-06T05:44:13+00:00,813971610,813970942,0,203.109.88.166,Visakhapatnam railway station,/* Sub-urban stations */

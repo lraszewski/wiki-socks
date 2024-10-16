@@ -1,0 +1,87 @@
+timestamp,revid,parentid,sock,user,page,message
+2022-01-03T17:30:46+00:00,1063553426,1063553301,1,Jdbolivar,Korean conflict,
+2022-01-03T17:29:55+00:00,1063553301,1063551044,1,Jdbolivar,Korean conflict,
+2022-01-03T17:28:21+00:00,1063553068,1063552961,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:27:42+00:00,1063552961,1063552883,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:27:11+00:00,1063552883,1063552792,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:26:36+00:00,1063552792,1063552719,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:26:09+00:00,1063552719,1063552551,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:25:02+00:00,1063552551,1063552429,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:24:15+00:00,1063552429,1063552336,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:23:47+00:00,1063552336,1063552248,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:23:15+00:00,1063552248,1063552133,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:22:35+00:00,1063552133,1063551978,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:21:40+00:00,1063551978,1063551880,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:21:03+00:00,1063551880,1063551752,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:20:20+00:00,1063551752,1063551652,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:19:41+00:00,1063551652,1063551489,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:18:36+00:00,1063551489,1060442840,1,Jdbolivar,Korean People's Army,
+2022-01-03T17:15:56+00:00,1063551044,1063550827,1,Jdbolivar,Korean conflict,
+2022-01-03T17:14:44+00:00,1063550827,1063546930,1,Jdbolivar,Korean conflict,
+2022-01-03T17:13:49+00:00,1063550675,1063550522,1,Jdbolivar,Indonesian National Armed Forces,
+2022-01-03T17:12:56+00:00,1063550522,1063547675,1,Jdbolivar,Indonesian National Armed Forces,
+2022-01-03T17:11:16+00:00,1063550292,1063548324,1,Jdbolivar,Armed Forces of the Philippines,
+2022-01-03T17:10:11+00:00,1063550133,1063549980,1,Jdbolivar,National Bolivarian Armed Forces of Venezuela,
+2022-01-03T17:09:13+00:00,1063549980,1063549634,1,Jdbolivar,National Bolivarian Armed Forces of Venezuela,
+2022-01-03T17:06:49+00:00,1063549634,1063549128,1,Jdbolivar,National Bolivarian Armed Forces of Venezuela,
+2022-01-03T17:03:40+00:00,1063549128,1063548771,1,Jdbolivar,National Bolivarian Armed Forces of Venezuela,
+2022-01-03T17:01:15+00:00,1063548771,1062187698,1,Jdbolivar,National Bolivarian Armed Forces of Venezuela,
+2022-01-03T16:58:33+00:00,1063548324,1063548244,1,Jdbolivar,Armed Forces of the Philippines,
+2022-01-03T16:58:06+00:00,1063548244,1063548069,1,Jdbolivar,Armed Forces of the Philippines,
+2022-01-03T16:56:54+00:00,1063548069,1063547479,1,Jdbolivar,Armed Forces of the Philippines,
+2022-01-03T16:54:27+00:00,1063547675,1062957519,1,Jdbolivar,Indonesian National Armed Forces,
+2022-01-03T16:53:12+00:00,1063547479,1063547367,1,Jdbolivar,Armed Forces of the Philippines,
+2022-01-03T16:52:31+00:00,1063547367,1063547301,1,Jdbolivar,Armed Forces of the Philippines,
+2022-01-03T16:52:00+00:00,1063547301,1063547178,1,Jdbolivar,Armed Forces of the Philippines,
+2022-01-03T16:51:07+00:00,1063547178,1063358608,1,Jdbolivar,Armed Forces of the Philippines,
+2022-01-03T16:49:32+00:00,1063546930,1063186665,1,Jdbolivar,Korean conflict,Yes
+2022-02-04T17:01:32+00:00,1069900003,1068540024,1,JamesMarcoscoronel,Armed Forces of Bolivia,
+2022-02-04T17:00:17+00:00,1069899797,1066590643,1,JamesMarcoscoronel,Cuban Revolutionary Armed Forces,
+2022-02-04T16:59:02+00:00,1069899624,1069899555,1,JamesMarcoscoronel,Republic of Korea Armed Forces,
+2022-02-04T16:58:39+00:00,1069899555,1069899352,1,JamesMarcoscoronel,Republic of Korea Armed Forces,
+2022-02-04T16:57:26+00:00,1069899352,1069540014,1,JamesMarcoscoronel,Republic of Korea Armed Forces,
+2022-02-04T16:55:54+00:00,1069899096,1069898896,1,JamesMarcoscoronel,Korean People's Army,
+2022-02-04T16:54:49+00:00,1069898896,1069898761,1,JamesMarcoscoronel,Korean People's Army,
+2022-02-04T16:54:07+00:00,1069898761,1069898634,1,JamesMarcoscoronel,Korean People's Army,
+2022-02-04T16:53:18+00:00,1069898634,1069898446,1,JamesMarcoscoronel,Korean People's Army,
+2022-02-04T16:52:02+00:00,1069898446,1065547635,1,JamesMarcoscoronel,Korean People's Army,
+2022-02-04T16:49:44+00:00,1069898098,1069897971,1,JamesMarcoscoronel,Korean conflict,
+2022-02-04T16:48:59+00:00,1069897971,1069897798,1,JamesMarcoscoronel,Korean conflict,
+2022-02-04T16:47:54+00:00,1069897798,1069897563,1,JamesMarcoscoronel,Korean conflict,
+2022-02-04T16:46:26+00:00,1069897563,1069897338,1,JamesMarcoscoronel,Korean conflict,
+2022-02-04T16:45:03+00:00,1069897338,1069022168,1,JamesMarcoscoronel,Korean conflict,
+2022-01-19T02:20:13+00:00,1066578855,1065550403,0,202.90.137.42,Armed Forces of the Philippines,/* Organization and branches */
+2022-01-05T08:55:43+00:00,1063863792,1063863692,0,202.90.137.42,Armed Forces of the Philippines,/* AFP Chain of Command */
+2022-02-02T06:06:04+00:00,1069416466,1069166453,0,136.158.11.58,Armed Forces of the Philippines,
+2022-01-14T03:54:02+00:00,1065550403,1064783503,0,Rlink2,Armed Forces of the Philippines,Fixing bare references [[Wikipedia:Bare_URLs]]
+2022-01-10T05:29:58+00:00,1064783503,1064783386,0,202.90.137.42,Armed Forces of the Philippines,/* Unified commands */
+2022-01-04T03:10:24+00:00,1063636909,1063563992,0,Peaceray,Armed Forces of Bolivia,Reverting edit(s) by [[Special:Contributions/JdbolivarChavez|JdbolivarChavez]] ([[User_talk:JdbolivarChavez|talk]]) to rev. 1063497090 by Platonk: [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16.1)]]
+2022-01-04T04:58:11+00:00,1063650266,1063649800,0,Nubia86,Cuban Revolutionary Armed Forces,rv
+2022-01-02T11:31:14+00:00,1063321901,1058269082,0,InternetArchiveBot,Cuban Revolutionary Armed Forces,Rescuing 3 sources and tagging 0 as dead.) #IABot (v2.0.8.5
+2022-01-23T05:26:51+00:00,1067380825,1063636909,0,BattyBot,Armed Forces of Bolivia,"/* Commander in Chief of the Armed Forces */Removed/fixed incorrect author parameter(s), performed [[WP:AWB/GF|general fixes]]"
+2022-01-04T04:54:30+00:00,1063649821,1063648373,0,Nubia86,Indonesian National Armed Forces,rv
+2022-01-06T03:16:12+00:00,1064009072,1064008737,0,EvoSwatch,Indonesian National Armed Forces,
+2022-01-14T03:42:50+00:00,1065547635,1063649437,0,Rlink2,Korean People's Army,Fixing bare references [[Wikipedia:Bare_URLs]]
+2022-01-04T04:51:07+00:00,1063649437,1063647586,0,Nubia86,Korean People's Army,Reverting to last known good edit
+2022-01-03T22:51:21+00:00,1063601654,1063563884,0,XxHalloweenx,Korean People's Army,
+2022-01-19T10:00:34+00:00,1066636857,1066636743,0,Ckfasdf,Indonesian National Armed Forces,/* Uniforms */ wrong location to paste
+2022-01-28T12:10:06+00:00,1068438505,1066226239,0,Theasiancowboy,Korean conflict,
+2022-01-31T08:14:51+00:00,1069022168,1069022093,0,87.3.84.149,Korean conflict,vc
+2022-01-17T10:32:05+00:00,1066226239,1065875333,0,Ser Amantio di Nicolao,Korean conflict,Copying from [[Category:Ongoing conflicts]] to [[Category:Conflicts in 2022]] using [[c:Help:Cat-a-lot|Cat-a-lot]]
+2022-01-06T21:09:17+00:00,1064150305,1064149917,0,FDW777,Korean conflict,Undid revision 1064149917 by [[Special:Contributions/37.236.120.239|37.236.120.239]] ([[User talk:37.236.120.239|talk]]) [[WP:EVASION]]
+2022-01-04T03:08:41+00:00,1063636676,1063550133,0,Peaceray,National Bolivarian Armed Forces of Venezuela,Restored revision 1062187698 by [[Special:Contributions/InternetArchiveBot|InternetArchiveBot]] ([[User talk:InternetArchiveBot|talk]]): Restoring last know good version — no citations provided for changes
+2022-01-16T17:34:14+00:00,1066070841,1065025875,0,GreenC bot,National Bolivarian Armed Forces of Venezuela,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2022-01-19T14:09:43+00:00,1066668696,1066665750,0,AnomieBOT,National Bolivarian Armed Forces of Venezuela,Dating maintenance tags: {{Citation needed}}
+2022-01-09T11:48:38+00:00,1064634725,1064104257,0,Shuipzv3,Republic of Korea Armed Forces,/* ROK Air Force */ Caption
+2022-01-15T18:59:04+00:00,1065875333,1065824753,0,Peaceray,Korean conflict,Reverting edit(s) by [[Special:Contributions/180.243.65.238|180.243.65.238]] ([[User_talk:180.243.65.238|talk]]) to rev. 1064150305 by FDW777: [[WP:CRV|Unexplained content removal]] [[w:en:WP:RW|(RW 16.1)]]
+2022-01-04T11:50:15+00:00,1063694657,1063650880,0,Skjoldbro,Republic of Korea Armed Forces,/* Personnel */
+2022-01-29T00:38:13+00:00,1068540024,1067380825,0,Citation bot,Armed Forces of Bolivia,"Alter: template type, date. Add: date, newspaper, authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 64/2173"
+2022-01-29T00:41:45+00:00,1068540358,1066578855,0,Citation bot,Armed Forces of the Philippines,Add: website. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 66/2173
+2022-01-31T23:13:03+00:00,1069166453,1069166358,0,Pipenavis,Armed Forces of the Philippines,
+2021-12-29T04:33:28+00:00,1062553752,1062079079,0,130.105.47.121,Armed Forces of the Philippines,"As of 12/29/2021, promotion of: Lieutenant General Andres C. Centino, PA to the rank of General; Major General Romeo Brawner Jr., PA to the rank of Lieutenant General; and Major General Connor Anthony D. Canlas Sr., PAF to the rank of Lieutenant General has been publicly released."
+2022-01-31T10:39:42+00:00,1069040327,1069012481,0,Axl7Rose,Indonesian National Armed Forces,fixed info
+2022-01-28T15:24:09+00:00,1068465619,1068465392,0,Ilhamajipratomo,Indonesian National Armed Forces,
+2022-01-16T11:01:25+00:00,1066007794,1065914140,0,Muhammad Alfiq Zhian,Indonesian National Armed Forces,Defence budget set for 2022 is $9.3 billion dollars.
+2022-01-11T12:11:42+00:00,1065025875,1063636676,0,Citation bot,National Bolivarian Armed Forces of Venezuela,"Alter: title. Add: newspaper, date. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 939/2196"
+2022-01-06T16:02:49+00:00,1064104257,1064104025,0,183.98.152.118,Republic of Korea Armed Forces,South Korean armed forces dont use British or Israeli weapons now.
+2022-01-03T15:55:49+00:00,1063537409,1062793400,0,Con Lươn,Republic of Korea Armed Forces,Undid revision 1062448379 by [[Special:Contributions/2A02:8440:3208:41FE:0:45:2496:8B01|2A02:8440:3208:41FE:0:45:2496:8B01]] ([[User talk:2A02:8440:3208:41FE:0:45:2496:8B01|talk]])

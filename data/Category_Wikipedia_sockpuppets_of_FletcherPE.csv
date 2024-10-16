@@ -1,0 +1,737 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-03-12T10:08:02+00:00,1011701171,1011529591,1,FletcherPE,Microsoft Word,
+2021-03-12T02:22:51+00:00,1011654082,1011654013,1,FletcherPE,User:FletcherPE,
+2021-03-12T02:22:14+00:00,1011654013,1011653845,1,FletcherPE,User:FletcherPE,
+2021-03-12T02:20:40+00:00,1011653845,1011653400,1,FletcherPE,User:FletcherPE,
+2021-03-12T02:16:50+00:00,1011653400,1011651778,1,FletcherPE,User:FletcherPE,
+2021-03-12T02:02:41+00:00,1011651778,1011649660,1,FletcherPE,User:FletcherPE,
+2021-03-12T01:46:23+00:00,1011649660,1011558091,1,FletcherPE,User:FletcherPE,
+2021-03-12T01:43:16+00:00,1011649266,1011231752,1,FletcherPE,Sandbox game,
+2021-03-11T15:13:02+00:00,1011558091,1011557802,1,FletcherPE,User:FletcherPE,
+2021-03-11T15:11:03+00:00,1011557802,1011556910,1,FletcherPE,User:FletcherPE,
+2021-03-11T15:05:12+00:00,1011556910,1011556082,1,FletcherPE,User:FletcherPE,
+2021-03-11T14:59:46+00:00,1011556082,1011555829,1,FletcherPE,User:FletcherPE,
+2021-03-11T14:58:11+00:00,1011555829,1009828652,1,FletcherPE,User:FletcherPE,[[WP:AES|←]]Replaced content with 'The main page by FletcherPE was not available in a few minutes'
+2021-03-10T12:30:25+00:00,1011351240,1011351014,1,FletcherPE,Google LLC,
+2021-03-10T12:07:03+00:00,1011348526,1011078133,1,FletcherPE,Google,
+2021-03-10T08:23:13+00:00,1011324847,1011324591,1,FletcherPE,Android Cupcake,
+2021-03-10T08:21:05+00:00,1011324591,1010015384,1,FletcherPE,Android Cupcake,
+2021-03-10T02:46:20+00:00,1011292737,1010997610,1,FletcherPE,Android Oreo,/* History */
+2021-03-10T02:33:46+00:00,1011291249,1011291157,1,FletcherPE,Android 10,
+2021-03-10T02:32:49+00:00,1011291157,1010781576,1,FletcherPE,Android 10,
+2021-03-09T12:26:02+00:00,1011170699,1010909304,1,FletcherPE,Android 11,
+2021-03-08T01:11:10+00:00,1010917033,1010815443,1,FletcherPE,Android Oreo,
+2021-03-07T08:53:33+00:00,1010782216,1010781837,1,FletcherPE,Android (operating system),
+2021-03-07T08:50:19+00:00,1010781837,1010754901,1,FletcherPE,Android (operating system),
+2021-03-07T08:15:23+00:00,1010779010,0,1,FletcherPE,User:FletcherPE/sandbox,[[WP:AES|←]]Created page with '{{Infobox software | name              = CubeCraft Games | logo              =  | developer         = CubeCraft LLC | platform          = ''[[Minecraft]]: Java E...'
+2021-03-07T07:19:32+00:00,1010774337,1010774223,1,FletcherPE,Mineplex,
+2021-03-07T07:18:15+00:00,1010774223,1010774055,1,FletcherPE,Mineplex,
+2021-03-07T07:16:07+00:00,1010774055,1008941938,1,FletcherPE,Mineplex,
+2021-03-07T03:47:26+00:00,1010754901,1010617247,1,FletcherPE,Android (operating system),
+2021-03-07T03:41:42+00:00,1010754330,1010754135,1,FletcherPE,Android Oreo,
+2021-03-07T03:39:50+00:00,1010754135,1010055477,1,FletcherPE,Android Oreo,
+2021-03-03T11:41:11+00:00,1010016597,1010016426,1,FletcherPE,Android Oreo,
+2021-03-03T11:39:40+00:00,1010016426,1009852324,1,FletcherPE,Android Oreo,
+2021-03-03T11:37:31+00:00,1010016142,1009052189,1,FletcherPE,Android Nougat,
+2021-03-03T11:37:06+00:00,1010016098,1009550402,1,FletcherPE,Android Marshmallow,
+2021-03-03T11:36:44+00:00,1010016050,1009554272,1,FletcherPE,Android Lollipop,
+2021-03-03T11:34:58+00:00,1010015854,1008752305,1,FletcherPE,Android KitKat,
+2021-03-03T11:33:57+00:00,1010015715,1009692141,1,FletcherPE,Android Jelly Bean,
+2021-03-03T11:33:36+00:00,1010015668,1009694404,1,FletcherPE,Android Ice Cream Sandwich,
+2021-03-03T11:33:12+00:00,1010015623,1009697758,1,FletcherPE,Android Honeycomb,
+2021-03-03T11:32:36+00:00,1010015550,1008139495,1,FletcherPE,Android Gingerbread,
+2021-03-03T11:32:15+00:00,1010015517,1008139410,1,FletcherPE,Android Froyo,
+2021-03-03T11:31:55+00:00,1010015484,1008139250,1,FletcherPE,Android Eclair,
+2021-03-03T11:31:31+00:00,1010015427,1008139115,1,FletcherPE,Android Donut,
+2021-03-03T11:31:11+00:00,1010015384,1008139004,1,FletcherPE,Android Cupcake,
+2021-03-02T14:01:16+00:00,1009828652,1009828436,1,FletcherPE,User:FletcherPE,
+2021-03-02T13:59:49+00:00,1009828436,1009823206,1,FletcherPE,User:FletcherPE,
+2021-03-02T13:23:14+00:00,1009823206,1009822537,1,FletcherPE,User:FletcherPE,
+2021-03-02T13:18:12+00:00,1009822537,1009822425,1,FletcherPE,User:FletcherPE,
+2021-03-02T13:17:27+00:00,1009822425,1009821104,1,FletcherPE,User:FletcherPE,
+2021-03-02T13:06:59+00:00,1009821104,1009802600,1,FletcherPE,User:FletcherPE,
+2021-03-02T10:42:35+00:00,1009802600,0,1,FletcherPE,User:FletcherPE,[[WP:AES|←]]Created page with 'I'm not doing anything else or vandalism promise I don't do anything the wikipedia article'
+2021-02-26T13:26:38+00:00,1009052189,1008850626,1,FletcherPE,Android Nougat,
+2021-02-26T13:26:18+00:00,1009052155,1008930982,1,FletcherPE,Android Marshmallow,
+2021-02-25T11:08:10+00:00,1008850713,1008752188,1,FletcherPE,Android Lollipop,
+2021-02-25T11:07:54+00:00,1008850684,1008826056,1,FletcherPE,Android Marshmallow,
+2021-02-25T11:07:23+00:00,1008850626,1008770115,1,FletcherPE,Android Nougat,
+2021-02-25T11:06:56+00:00,1008850580,1008751854,1,FletcherPE,Android Oreo,
+2021-02-25T11:06:00+00:00,1008850493,1008751177,1,FletcherPE,Android Pie,
+2021-02-25T11:04:42+00:00,1008850395,1008181727,1,FletcherPE,Android 10,
+2021-02-25T01:58:58+00:00,1008789000,1007731557,1,FletcherPE,Android (operating system),
+2021-02-24T21:52:04+00:00,1008752305,1008140223,1,FletcherPE,Android KitKat,
+2021-02-24T21:51:19+00:00,1008752188,1008752075,1,FletcherPE,Android Lollipop,
+2021-02-24T21:50:41+00:00,1008752075,1008690430,1,FletcherPE,Android Lollipop,
+2021-02-24T21:49:23+00:00,1008751854,1008691809,1,FletcherPE,Android Oreo,
+2021-02-24T21:48:31+00:00,1008751687,1008717845,1,FletcherPE,Android 11,
+2021-02-24T08:48:55+00:00,1008637450,1008584161,1,FletcherPE,Android Oreo,
+2021-02-22T03:57:37+00:00,1008213303,1008152990,1,FletcherPE,Android 12,
+2021-02-21T06:22:11+00:00,1008035043,1008033403,1,FletcherPE,Android 12,
+2021-02-21T06:14:22+00:00,1008034238,1008034198,1,FletcherPE,Android 11,/* History */
+2021-02-21T06:13:59+00:00,1008034198,1008034037,1,FletcherPE,Android 11,
+2021-02-21T06:12:26+00:00,1008034037,1007883986,1,FletcherPE,Android 11,
+2021-02-21T06:06:06+00:00,1008033403,1007941002,1,FletcherPE,Android 12,
+2021-02-20T12:30:53+00:00,1007885667,1007879199,1,FletcherPE,Android Oreo,/* History */
+2021-02-20T11:33:43+00:00,1007879404,1007879354,1,FletcherPE,Android 10,/* History */
+2021-02-20T11:33:16+00:00,1007879354,1007746116,1,FletcherPE,Android 10,
+2021-02-20T11:31:55+00:00,1007879199,1007879118,1,FletcherPE,Android Oreo,
+2021-02-20T11:31:09+00:00,1007879118,1007878307,1,FletcherPE,Android Oreo,
+2021-02-20T11:24:01+00:00,1007878307,1007439526,1,FletcherPE,Android Oreo,
+2021-02-16T13:08:01+00:00,1007097124,1006166231,1,FletcherPE,Android 11,
+2021-02-16T13:07:06+00:00,1007097016,1006332440,1,FletcherPE,Android 10,
+2021-02-16T13:06:18+00:00,1007096911,1006165970,1,FletcherPE,Android Pie,
+2021-02-16T13:04:05+00:00,1007096650,1007096552,1,FletcherPE,Android Oreo,
+2021-02-16T13:03:12+00:00,1007096552,1006165918,1,FletcherPE,Android Oreo,
+2021-02-16T13:00:38+00:00,1007096250,1000263949,1,FletcherPE,Android Cupcake,
+2021-02-16T13:00:21+00:00,1007096212,1006845529,1,FletcherPE,Android Donut,
+2021-02-16T13:00:06+00:00,1007096174,1000208008,1,FletcherPE,Android Eclair,
+2021-02-16T12:59:48+00:00,1007096138,1006844492,1,FletcherPE,Android Froyo,
+2021-02-16T12:59:28+00:00,1007096098,1006847841,1,FletcherPE,Android Gingerbread,
+2021-02-16T12:59:01+00:00,1007096044,1000330639,1,FletcherPE,Android Honeycomb,
+2021-02-16T12:58:33+00:00,1007095995,1006164837,1,FletcherPE,Android Ice Cream Sandwich,
+2021-02-16T12:58:04+00:00,1007095937,1006848808,1,FletcherPE,Android Jelly Bean,
+2021-02-16T12:57:43+00:00,1007095892,1006761156,1,FletcherPE,Android KitKat,
+2021-02-16T12:57:14+00:00,1007095838,1006850136,1,FletcherPE,Android Lollipop,
+2021-02-16T12:56:30+00:00,1007095753,1006165546,1,FletcherPE,Android Marshmallow,
+2021-02-16T12:55:49+00:00,1007095678,1006165834,1,FletcherPE,Android Nougat,
+2021-07-12T13:04:23+00:00,1033236356,1033236125,1,BLOXAuthority,User talk:BLOXAuthority,
+2021-07-12T13:02:46+00:00,1033236125,1033235879,1,BLOXAuthority,User talk:BLOXAuthority,
+2021-07-12T12:57:48+00:00,1033235601,1033235209,1,BLOXAuthority,User talk:BLOXAuthority,/* Unblock my account */ new section
+2021-07-12T12:54:01+00:00,1033235209,1033235016,1,BLOXAuthority,User talk:BLOXAuthority,
+2021-07-12T12:52:14+00:00,1033235016,1033230819,1,BLOXAuthority,User talk:BLOXAuthority,/* Unblock my account */ new section
+2021-07-12T11:20:57+00:00,1033224888,1033224647,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T11:18:42+00:00,1033224647,1033224229,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T11:14:34+00:00,1033224229,1033224106,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T11:13:22+00:00,1033224106,1033224002,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T11:12:15+00:00,1033224002,1033223620,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T11:08:38+00:00,1033223620,1033223556,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T11:07:54+00:00,1033223556,1033223329,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T11:05:38+00:00,1033223329,1033223086,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T11:03:06+00:00,1033223086,1033212626,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T09:21:54+00:00,1033213851,1033213791,1,BLOXAuthority,User talk:BLOXAuthority,
+2021-07-12T09:19:27+00:00,1033213612,1023983402,1,BLOXAuthority,User:Chompy Ace,
+2021-07-12T09:12:55+00:00,1033213001,1033212841,1,BLOXAuthority,User:Zzuuzz,
+2021-07-12T09:11:31+00:00,1033212841,1007206312,1,BLOXAuthority,User:Zzuuzz,[[WP:AES|←]]Replaced content with 'This user is BLOCKED'
+2021-07-12T09:09:19+00:00,1033212626,1033211849,1,BLOXAuthority,User:BLOXAuthority,[[WP:AES|←]]Removed redirect to [[Wikipedia administrators]]
+2021-07-12T09:00:19+00:00,1033211849,1033211769,1,BLOXAuthority,User:BLOXAuthority,[[WP:AES|←]]Changed redirect target from [[Administrator]] to [[Wikipedia administrators]]
+2021-07-12T08:59:18+00:00,1033211769,1033211719,1,BLOXAuthority,User:BLOXAuthority,[[WP:AES|←]]Redirected page to [[Administrator]]
+2021-07-12T08:58:43+00:00,1033211719,1033211701,1,BLOXAuthority,User:BLOXAuthority,[[WP:AES|←]]Blanked the page
+2021-07-12T08:58:35+00:00,1033211701,1033211689,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T08:58:27+00:00,1033211689,1033211666,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T08:58:17+00:00,1033211666,1033211657,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T08:58:10+00:00,1033211657,1033211625,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T08:57:52+00:00,1033211625,1033210700,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T08:52:11+00:00,1033211118,1033210747,1,BLOXAuthority,User talk:Rdp060707,/* Help user */ new section
+2021-07-12T08:49:43+00:00,1033210900,1033210819,1,BLOXAuthority,User talk:BLOXAuthority,
+2021-07-12T08:48:35+00:00,1033210806,1033058989,1,BLOXAuthority,Android 12,/* External links */
+2021-07-12T08:47:17+00:00,1033210700,1033200623,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T07:00:46+00:00,1033200623,1033200453,1,BLOXAuthority,User:BLOXAuthority,/* My thoughts */
+2021-07-12T06:59:18+00:00,1033200453,1033200373,1,BLOXAuthority,User:BLOXAuthority,/* My thoughts */
+2021-07-12T06:58:24+00:00,1033200373,1033200278,1,BLOXAuthority,User:BLOXAuthority,/* My thoughts */
+2021-07-12T06:57:16+00:00,1033200278,1033200250,1,BLOXAuthority,User:BLOXAuthority,/* My thoughts */
+2021-07-12T06:57:00+00:00,1033200250,1033199547,1,BLOXAuthority,User:BLOXAuthority,/* History */
+2021-07-12T06:48:59+00:00,1033199547,1033198879,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-12T06:42:51+00:00,1033198879,1033198818,1,BLOXAuthority,User:BLOXAuthority,[[WP:AES|←]]Blanked the page
+2021-07-12T06:42:23+00:00,1033198818,1032563980,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-09T04:36:39+00:00,1032707573,1032588947,1,BLOXAuthority,Android 10,
+2021-07-09T04:35:24+00:00,1032707475,1032624805,1,BLOXAuthority,Android Pie,
+2021-07-08T04:28:54+00:00,1032552860,1032552819,1,BLOXAuthority,User:BLOXAuthority,
+2021-07-08T04:28:16+00:00,1032552819,1032552749,1,BLOXAuthority,User:BLOXAuthority,[[WP:AES|←]]Blanked the page
+2021-07-08T04:27:33+00:00,1032552749,1032551848,1,BLOXAuthority,User:BLOXAuthority,My carrer
+2021-07-08T04:16:58+00:00,1032551848,0,1,BLOXAuthority,User:BLOXAuthority,[[WP:AES|←]]Created page with '== TESTING 1 == Testing on Wikipedia'
+2021-03-12T12:02:06+00:00,1011712802,1011711611,1,COCOMELON_PEWDIEPIE,Google LLC,
+2021-03-12T11:50:11+00:00,1011711583,1011711527,1,COCOMELON_PEWDIEPIE,Google LLC,
+2021-03-12T11:49:25+00:00,1011711527,1011711379,1,COCOMELON_PEWDIEPIE,Google LLC,
+2021-03-12T11:47:49+00:00,1011711379,1011355777,1,COCOMELON_PEWDIEPIE,Google LLC,[[WP:AES|←]]Removed redirect to [[Google]]
+2021-03-12T11:47:19+00:00,1011711328,1011291249,1,COCOMELON_PEWDIEPIE,Android 10,
+2021-03-12T11:43:14+00:00,1011710907,0,1,COCOMELON_PEWDIEPIE,User:COCOMELON PEWDIEPIE/sandbox,[[WP:AES|←]]Created page with '{{short description|Web mapping service developed by Google}} {{Infobox website | name = Google Maps | logo = Google Maps Logo.svg | screenshot = Google maps scr...'
+2021-03-12T11:39:44+00:00,1011710583,0,1,COCOMELON_PEWDIEPIE,User:COCOMELON PEWDIEPIE,[[WP:AES|←]]Created page with '{{short description|Personal computer operating system by Microsoft released in 2006}} {{pp-move|small=yes}} {{Use mdy dates|date=January 2020}} {{Infobox OS ver...'
+2021-03-12T11:35:53+00:00,1011710214,1011292737,1,COCOMELON_PEWDIEPIE,Android Oreo,
+2021-03-12T11:34:15+00:00,1011710029,1011709949,1,COCOMELON_PEWDIEPIE,Android Pie,[[WP:AES|←]]Redirected page to [[Windows Vista]]
+2021-03-12T11:33:30+00:00,1011709949,1011709850,1,COCOMELON_PEWDIEPIE,Android Pie,
+2021-03-12T11:32:41+00:00,1011709850,1011355851,1,COCOMELON_PEWDIEPIE,Android Pie,
+2021-03-12T04:20:55+00:00,1011667125,1011666792,1,Cupcake_Corporation,User talk:Cupcake Corporation,
+2021-03-12T04:11:10+00:00,1011666051,1011665981,1,Cupcake_Corporation,Android 1.0,
+2021-03-12T04:10:36+00:00,1011665981,1011664371,1,Cupcake_Corporation,Android 1.0,[[WP:AES|←]]Removed redirect to [[Android version history#Android 1.0]]
+2021-03-12T04:05:42+00:00,1011665427,1011664291,1,Cupcake_Corporation,Android 1.1,[[WP:AES|←]]Removed redirect to [[Android version history#Android 1.1]]
+2021-03-12T03:55:31+00:00,1011664378,1011661429,1,Cupcake_Corporation,Android Cupcake,
+2021-03-12T03:54:22+00:00,1011664267,1011401012,1,Cupcake_Corporation,Android Donut,
+2021-03-12T03:53:17+00:00,1011664171,1011400946,1,Cupcake_Corporation,Android Eclair,
+2021-03-12T03:52:05+00:00,1011664060,1011400813,1,Cupcake_Corporation,Android Froyo,
+2021-03-12T03:51:00+00:00,1011663955,1011400725,1,Cupcake_Corporation,Android Gingerbread,
+2021-03-12T03:49:58+00:00,1011663810,1011416764,1,Cupcake_Corporation,Android Honeycomb,
+2021-03-12T03:48:02+00:00,1011663561,1011400505,1,Cupcake_Corporation,Android Ice Cream Sandwich,
+2021-03-12T03:45:55+00:00,1011663287,1011663147,1,Cupcake_Corporation,Android KitKat,
+2021-03-12T03:44:43+00:00,1011663147,1011663101,1,Cupcake_Corporation,Android KitKat,
+2021-03-12T03:44:10+00:00,1011663101,1011400326,1,Cupcake_Corporation,Android KitKat,
+2021-03-12T03:40:43+00:00,1011662713,903065185,1,Cupcake_Corporation,Android 1.0,[[WP:AES|←]]Removed redirect to [[Android version history#Android 1.0]]
+2021-03-12T03:37:52+00:00,1011662374,1011662178,1,Cupcake_Corporation,Android 1.1,
+2021-03-12T03:36:02+00:00,1011662178,684464669,1,Cupcake_Corporation,Android 1.1,[[WP:AES|←]]Removed redirect to [[Android version history#Android 1.1]]
+2021-03-12T03:29:30+00:00,1011661429,1011415510,1,Cupcake_Corporation,Android Cupcake,
+2021-03-10T14:46:06+00:00,1011369377,1011369109,1,Cupcake_Corporation,Android 11,
+2021-03-10T14:44:21+00:00,1011369109,1011368756,1,Cupcake_Corporation,Android 11,
+2021-03-10T14:40:32+00:00,1011368516,1011345012,1,Cupcake_Corporation,Android 11,
+2021-03-10T14:37:20+00:00,1011368054,0,1,Cupcake_Corporation,User:Cupcake Corporation,[[WP:AES|←]]Created page with 'Staff on [[CubeCraft Games]]'
+2021-08-12T11:33:35+00:00,1038413056,1036286916,1,EjayDavid05,User talk:EjayDavid05,tag: Deactivated user
+2021-08-03T01:45:23+00:00,1036845586,0,1,EjayDavid05,Ikimedia Foundation,[[WP:AES|←]]Redirected page to [[Wikimedia Foundation]]
+2021-03-04T09:46:28+00:00,1010207318,1010207013,1,EmailAlertProfile101,Talk:Yahoo! Mail,/* Fuck you all */ new section
+2021-03-04T09:46:00+00:00,1010207262,1010206720,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:41:42+00:00,1010206752,973458912,1,EmailAlertProfile101,Talk:Yahoo! Mail,/* Bahoo! Gail */ new section
+2021-03-04T09:39:25+00:00,1010206490,1010206379,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:38:22+00:00,1010206379,1010206276,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:37:23+00:00,1010206276,1010206186,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:36:28+00:00,1010206186,1010206133,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:36:02+00:00,1010206133,1010203212,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:09:34+00:00,1010203127,1010203028,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:08:43+00:00,1010203028,1010202989,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:08:18+00:00,1010202989,1010202908,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:07:29+00:00,1010202908,1010202453,1,EmailAlertProfile101,Yahoo! Mail,
+2021-03-04T09:02:43+00:00,1010202453,1008084097,1,EmailAlertProfile101,Yahoo! Mail,/* Competition */
+2021-08-12T11:32:28+00:00,1038412945,1038412928,1,EnchanterPE,User talk:EnchanterPE,[[WP:AES|←]]Blanked the page
+2021-08-12T11:32:14+00:00,1038412928,1038412911,1,EnchanterPE,User talk:EnchanterPE,
+2021-08-12T11:32:01+00:00,1038412911,1038412886,1,EnchanterPE,User talk:EnchanterPE,
+2021-08-12T11:31:43+00:00,1038412886,1037759869,1,EnchanterPE,User talk:EnchanterPE,This user is didn't want to contribute to Wikipedia and other Wikimedia projects as the result EnchanterPE user is completely deactivated.
+2021-08-04T02:49:10+00:00,1037024674,1037024618,1,EnchanterPE,User talk:EnchanterPE,
+2021-08-04T02:48:45+00:00,1037024618,1036975799,1,EnchanterPE,User talk:EnchanterPE,/* I have a mistake */ new section
+2021-08-03T14:50:25+00:00,1036930200,1036926169,1,EnchanterPE,User talk:EnchanterPE,
+2021-08-03T13:55:31+00:00,1036923339,1036923248,1,EnchanterPE,Wikipedia:Requests for page protection/Increase,/* User:EnchanterPE */
+2021-08-03T13:54:44+00:00,1036923248,1036923023,1,EnchanterPE,Wikipedia:Requests for page protection/Increase,/* User:EnchanterPE */detailed information
+2021-08-03T13:53:10+00:00,1036923023,1036922674,1,EnchanterPE,Wikipedia:Requests for page protection/Increase,
+2021-08-02T06:00:55+00:00,1036698833,1035832283,1,EnchanterPE,Android version history,/* Overview */Android 10 is release in September 3 2019
+2021-08-02T01:37:03+00:00,1036672028,1036394201,1,EnchanterPE,Android 12,Android 12 is in Public beta since Beta 1
+2021-07-07T08:31:47+00:00,1032414197,1025335640,1,EnchanterPE,Android Cupcake,
+2021-07-21T12:15:58+00:00,1034715842,1034689478,1,Ffuuff,User talk:Ffuuff,/* Unblock Ffuuff */ new section
+2021-07-21T08:53:36+00:00,1034689455,0,1,Ffuuff,User:Ffuuff,[[WP:AES|←]]Created page with 'BLANK'
+2021-07-21T07:34:47+00:00,1034680600,0,1,Ffuuff,User:Ffuuff/sandbox,"[[WP:AES|←]]Created page with '{{Short description|Company logo}} [[File:Google_logo_(2013-2015).svg|thumb|368x368px|The current Google logo, in use since September 19, 2013]] <!-- IMPORTANT NOTICE: Please do not place Google Holiday Logos on Wikipedia. Please see this article's talk page for more information. --> The '''Google logo''' appears in numerous settings to identify the [[search engine]] company. [[Google]] has used several [[logo]]s over [[History of Google|its history]], with...'"
+2021-07-21T04:48:54+00:00,1034661874,1034661182,1,Ffuuff,Google logo,/* History */
+2021-07-21T04:42:50+00:00,1034661182,1034661125,1,Ffuuff,Google logo,
+2021-07-21T04:42:20+00:00,1034661125,1028106622,1,Ffuuff,Google logo,
+2021-07-20T12:01:45+00:00,1034531798,1034262085,1,Ffuuff,Alphabet Inc.,
+2021-07-16T09:09:28+00:00,1033861426,1033861253,1,Ffuuff,User talk:Ffuuff,
+2021-07-16T09:07:54+00:00,1033861253,0,1,Ffuuff,User talk:Ffuuff,[[WP:AES|←]]Created page with 'They are my rules for conversations for Ffuuff.  Don'ts *Don't swear. *Don't vandalized my user page or my conversation page. *Don't say inappropriate words. *Don't talk jokes or other not. important talk or conversations. *Don't make misunderstanding.  Do's *Respect Wikipedia user page. *Respect everyone's privacy. *Make conversations for Ffuuff for help me just clear.'
+2021-09-10T02:01:25+00:00,1043424752,1043424168,1,HEA42DAVFA,User talk:HEA42DAVFA,/* Request */ new section
+2021-09-10T01:57:44+00:00,1043424168,1043295714,1,HEA42DAVFA,User talk:HEA42DAVFA,/* How? */ new section
+2021-09-09T10:33:57+00:00,1043294519,1043294232,1,HEA42DAVFA,User talk:HEA42DAVFA,/* Apologize */ new section
+2021-09-09T10:31:28+00:00,1043294232,1043294184,1,HEA42DAVFA,User talk:HEA42DAVFA,
+2021-09-09T10:30:59+00:00,1043294184,1043294090,1,HEA42DAVFA,User talk:HEA42DAVFA,
+2021-09-09T10:30:12+00:00,1043294090,1043294033,1,HEA42DAVFA,User talk:HEA42DAVFA,
+2021-09-09T10:29:41+00:00,1043294033,1043293552,1,HEA42DAVFA,User talk:HEA42DAVFA,/* Requirements */ new section
+2021-09-09T10:25:08+00:00,1043293552,1043256940,1,HEA42DAVFA,User talk:HEA42DAVFA,
+2021-09-09T04:54:10+00:00,1043255421,1043255382,1,HEA42DAVFA,User talk:HEA42DAVFA,/* Unblock me */
+2021-09-09T04:53:48+00:00,1043255382,1043118325,1,HEA42DAVFA,User talk:HEA42DAVFA,/* Unblock me */ new section
+2021-09-08T12:34:28+00:00,1043118068,1043117992,1,HEA42DAVFA,User talk:Zzuuzz/Archive 40,HACKED
+2021-09-08T12:33:52+00:00,1043117992,1043117905,1,HEA42DAVFA,User talk:Zzuuzz/Archive 40,HACKED
+2021-09-08T12:33:10+00:00,1043117905,1043117849,1,HEA42DAVFA,User talk:Zzuuzz/Archive 40,
+2021-09-08T12:32:47+00:00,1043117849,1043117767,1,HEA42DAVFA,User talk:Zzuuzz/Archive 40,NO
+2021-09-08T12:32:09+00:00,1043117767,1043117732,1,HEA42DAVFA,User talk:Zzuuzz/Archive 40,
+2021-09-08T12:31:53+00:00,1043117732,1042739314,1,HEA42DAVFA,User talk:Zzuuzz/Archive 40,/* I HATE WIKIPEDIA */ new section
+2021-09-08T12:31:19+00:00,1043117657,1042650005,1,HEA42DAVFA,User:Zzuuzz,
+2021-09-08T12:22:07+00:00,1043116465,1040762922,1,HEA42DAVFA,BIOS,typo
+2021-09-04T03:31:12+00:00,1042273145,1042273014,1,HEA42DAVFA,Paul Allen,more
+2021-09-04T03:30:13+00:00,1042273014,1041332007,1,HEA42DAVFA,Paul Allen,lack of evidence please provide a reliable sources and cause of death
+2021-09-04T03:25:07+00:00,1042272379,1042272229,1,HEA42DAVFA,User talk:Liz,
+2021-09-04T03:23:56+00:00,1042272229,1042258900,1,HEA42DAVFA,User talk:Liz,/* But How? */ new section
+2021-09-03T06:51:39+00:00,1042104676,1041957662,1,HEA42DAVFA,User:HEA42DAVFA,changed
+2021-09-02T14:12:00+00:00,1041957662,1041957424,1,HEA42DAVFA,User:HEA42DAVFA,
+2021-09-02T14:10:19+00:00,1041957424,1041957324,1,HEA42DAVFA,User:HEA42DAVFA,/* My userboxes I created */renamed and merged
+2021-09-02T14:09:31+00:00,1041957324,1041956488,1,HEA42DAVFA,User:HEA42DAVFA,merged
+2021-09-02T14:08:28+00:00,1041957198,1041957117,1,HEA42DAVFA,User talk:HEA42DAVFA,removed duplication
+2021-09-02T14:07:48+00:00,1041957117,1041956986,1,HEA42DAVFA,User talk:HEA42DAVFA,/* Welcome to Wikipedia! */ new section
+2021-09-02T14:06:54+00:00,1041956986,0,1,HEA42DAVFA,User talk:HEA42DAVFA,creation
+2021-09-02T14:03:01+00:00,1041956488,1041954622,1,HEA42DAVFA,User:HEA42DAVFA,adding screenshots will be more added soon
+2021-09-02T13:48:06+00:00,1041954622,1041954229,1,HEA42DAVFA,User:HEA42DAVFA,
+2021-09-02T13:45:02+00:00,1041954229,1041953743,1,HEA42DAVFA,User:HEA42DAVFA,
+2021-09-02T13:40:56+00:00,1041953743,1041953185,1,HEA42DAVFA,User:HEA42DAVFA,People
+2021-09-02T13:36:22+00:00,1041953185,1041953002,1,HEA42DAVFA,User:HEA42DAVFA,Adding stuff on userpage
+2021-09-02T13:34:33+00:00,1041953002,1041952894,1,HEA42DAVFA,User:HEA42DAVFA,
+2021-09-02T13:33:40+00:00,1041952894,0,1,HEA42DAVFA,User:HEA42DAVFA,Test
+2021-09-02T13:26:56+00:00,1041952067,1041951963,1,HEA42DAVFA,User:HEA42DAVFA/userboxes/A10,forgotten
+2021-09-02T13:26:09+00:00,1041951963,0,1,HEA42DAVFA,User:HEA42DAVFA/userboxes/A10,created
+2021-09-02T13:19:57+00:00,1041951152,1041950525,1,HEA42DAVFA,Template:User Android10,fixing error
+2021-09-02T13:19:14+00:00,1041951067,1041950966,1,HEA42DAVFA,Template:User Android 10,
+2021-09-02T13:18:27+00:00,1041950966,1041950347,1,HEA42DAVFA,Template:User Android 10,fixing error
+2021-09-02T13:14:57+00:00,1041950525,1041949665,1,HEA42DAVFA,Template:User Android10,more
+2021-09-02T13:13:33+00:00,1041950347,1041948169,1,HEA42DAVFA,Template:User Android 10,adding stuff
+2021-09-02T13:08:07+00:00,1041949665,0,1,HEA42DAVFA,Template:User Android10,start
+2021-09-02T13:00:05+00:00,1041948169,0,1,HEA42DAVFA,Template:User Android 10,create
+2021-02-24T15:30:58+00:00,1008690430,1008690381,1,Mineplex_Pocket,Android Lollipop,
+2021-02-24T15:30:41+00:00,1008690381,1008140362,1,Mineplex_Pocket,Android Lollipop,
+2021-02-24T15:30:18+00:00,1008690322,1008436064,1,Mineplex_Pocket,Android Marshmallow,
+2021-02-24T15:29:37+00:00,1008690217,1008140776,1,Mineplex_Pocket,Android Nougat,
+2021-02-24T15:28:56+00:00,1008690105,1008637450,1,Mineplex_Pocket,Android Oreo,
+2021-02-24T15:28:31+00:00,1008690036,1008141272,1,Mineplex_Pocket,Android Pie,
+2021-02-24T15:19:09+00:00,1008688645,1008688607,1,Mineplex_Pocket,Android 11,
+2021-02-24T15:18:39+00:00,1008688569,1008568995,1,Mineplex_Pocket,Android 11,
+2021-03-10T14:13:46+00:00,1011364737,1010950004,1,QWERTY_Technology,Mojang Studios,
+2021-03-10T13:06:50+00:00,1011355720,1011355313,1,QWERTY_Technology,Google LLC,[[WP:AES|←]]Removed redirect to [[Google]]
+2021-03-10T13:03:38+00:00,1011355260,1011355160,1,QWERTY_Technology,Google LLC,[[WP:AES|←]]Changed redirect target from [[Google]] to [[Microsoft]]
+2021-03-10T13:03:03+00:00,1011355187,863777049,1,QWERTY_Technology,Yahoo,
+2021-03-10T13:02:29+00:00,1011355110,1011353683,1,QWERTY_Technology,Android Pie,
+2021-03-10T13:01:55+00:00,1011355039,1011354854,1,QWERTY_Technology,Google LLC,[[WP:AES|←]]Redirected page to [[Yahoo]]
+2021-03-10T12:56:50+00:00,1011354376,1011353806,1,QWERTY_Technology,Google LLC,
+2021-03-10T12:52:10+00:00,1011353806,1011353602,1,QWERTY_Technology,Google LLC,
+2021-03-10T12:48:38+00:00,1011353376,1011352384,1,QWERTY_Technology,Google LLC,[[WP:AES|←]]Removed redirect to [[Google]]
+2021-03-10T12:46:35+00:00,1011353115,1011348291,1,QWERTY_Technology,Android Pie,
+2021-03-10T12:39:12+00:00,1011352256,1011351606,1,QWERTY_Technology,Google LLC,
+2021-03-10T12:33:38+00:00,1011351606,1011351503,1,QWERTY_Technology,Google LLC,
+2021-03-10T12:32:45+00:00,1011351503,1011351478,1,QWERTY_Technology,Google LLC,
+2021-03-10T12:32:30+00:00,1011351478,1011351246,1,QWERTY_Technology,Google LLC,
+2021-03-10T12:28:28+00:00,1011351014,1011348490,1,QWERTY_Technology,Google LLC,[[WP:AES|←]]Removed redirect to [[Google]]
+2021-03-10T12:23:13+00:00,1011350395,1011301565,1,QWERTY_Technology,Talk:Google,/* Split Article [[Google LLC]] */ new section
+2021-03-10T12:05:30+00:00,1011348351,1011346846,1,QWERTY_Technology,Google LLC,[[WP:AES|←]]Removed redirect to [[Google]]
+2021-03-10T12:04:42+00:00,1011348248,1009852722,1,QWERTY_Technology,Android Pie,
+2021-03-10T11:59:40+00:00,1011347639,1011347495,1,QWERTY_Technology,User talk:QWERTY Technology,
+2021-03-10T11:58:12+00:00,1011347495,1011346801,1,QWERTY_Technology,User talk:QWERTY Technology,
+2021-03-10T11:47:22+00:00,1011346343,1011346260,1,QWERTY_Technology,Google LLC,[[WP:AES|←]]Removed redirect to [[Google]]
+2021-03-10T11:42:33+00:00,1011345827,1011345599,1,QWERTY_Technology,Google LLC,
+2021-03-10T11:39:23+00:00,1011345506,1011345432,1,QWERTY_Technology,Google LLC,[[WP:AES|←]]Removed redirect to [[Google]]
+2021-03-10T11:38:27+00:00,1011345418,1011345119,1,QWERTY_Technology,Google LLC,
+2021-03-10T11:35:06+00:00,1011345119,1009026335,1,QWERTY_Technology,Google LLC,[[WP:AES|←]]Removed redirect to [[Google]]
+2021-03-10T11:33:58+00:00,1011345002,1011170699,1,QWERTY_Technology,Android 11,
+2021-08-06T17:37:55+00:00,1037457802,1037354616,0,Cewbot,Android (operating system),"[[User:Cewbot/log/20201008/configuration|Fix broken anchor]]: [[Special:Diff/1013620511|2021-03-22]] #Android 7.1 Nougat (API 25)→[[Android version history#Android 7.1 Nougat]], [[Special:Diff/1013620511|2021-03-22]] #Android 7.0 Nougat (API 24)→[[Android version history#Android 7.0 Nougat]], [[Special:Diff/1013620511|2021-03-22]] #Android 5.1 Lollipop (API 22)→[[Android version history#Android 5.1 Lollipop]], [[Special:Diff/1013620511|2021-03-22]] #Android 5.0 Lollipop (API 21)→[[Android ver..."
+2021-07-01T04:40:24+00:00,1031353890,1031353872,0,ClueBot NG,Alphabet Inc.,"Reverting possible vandalism by [[Special:Contribs/Rameez Qaiser|Rameez Qaiser]] to version by Krotch Lockman. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4001692) (Bot)"
+2021-05-31T14:52:02+00:00,1026126346,1026125990,0,Hasala Abhilasha,Android (operating system),Undid revision 1026125990 by [[Special:Contributions/Hasala Abhilasha|Hasala Abhilasha]] ([[User talk:Hasala Abhilasha|talk]])
+2021-04-29T18:44:28+00:00,1020556997,1020473697,0,Iridescent 2,Android (operating system),"/* Applications */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ’s → 's"
+2021-04-12T05:54:01+00:00,1017335389,1017335387,0,ClueBot NG,Android 1.0,"Reverting possible vandalism by [[Special:Contribs/107.150.115.64|107.150.115.64]] to version by JalenFolf. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3945256) (Bot)"
+2021-03-12T04:17:15+00:00,1011666751,1011665427,0,JalenFolf,Android 1.1,Reverted 1 edit by [[Special:Contributions/Cupcake Corporation|Cupcake Corporation]] ([[User talk:Cupcake Corporation|talk]]) to last revision by Onel5969
+2021-02-26T04:27:35+00:00,1008997439,1008997327,0,Chompy Ace,Alphabet Inc.,Reverted edits by [[Special:Contribs/202.152.70.132|202.152.70.132]] ([[User talk:202.152.70.132|talk]]) to last version by Nightwolf1223
+2021-06-21T10:20:02+00:00,1029670423,1028754802,0,Jomart Allaguliyev,Android (operating system),
+2021-06-28T14:49:34+00:00,1030881392,1030307293,0,Ghettoblaster,Android (operating system),/* Applications */
+2021-02-26T15:04:38+00:00,1009065468,1008789000,0,Mayukh Bejoy,Android (operating system),/* Platform information */  Added LG V20 (First ever phone to release with android 7.0)
+2021-03-06T11:58:39+00:00,1010617247,1010544971,0,Rodw,Android (operating system),Disambiguating links to [[Split screen]] (link changed to [[Split screen (computing)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-03-12T04:17:23+00:00,1011666773,1011666051,0,JalenFolf,Android 1.0,Reverted 2 edits by [[Special:Contributions/Cupcake Corporation|Cupcake Corporation]] ([[User talk:Cupcake Corporation|talk]]) to last revision by Onel5969
+2021-04-19T09:37:31+00:00,1018684300,1018683685,0,DoebLoggs,Android 10,Reverted 1 edit by [[Special:Contributions/Technical babajiup|Technical babajiup]] ([[User talk:Technical babajiup|talk]]): == removing promotional link
+2021-08-24T02:40:41+00:00,1040354287,1040351193,0,InfiniteNexus,Android 10,"Undid revision 1040351193 by [[Special:Contributions/96.19.71.229|96.19.71.229]] ([[User talk:96.19.71.229|talk]]) destructive, edit warring. Please take it to talk."
+2021-08-03T18:56:19+00:00,1036966641,1034034459,0,MeltdownSpectre,Android 10,Android 10.0.0_r57 release added to infobox (August 2021)
+2021-06-13T05:25:32+00:00,1028305608,1028301214,0,Walter Görlitz,Android 10,Undid revision 1028301214 by [[Special:Contributions/103.135.135.170|103.135.135.170]] ([[User talk:103.135.135.170|talk]]) dates like this are always followed by a comma
+2021-08-09T00:07:49+00:00,1037831391,1036966641,0,DreamS9+,Android 10,Update Stats July 2021
+2021-05-06T16:46:45+00:00,1021778425,1021152643,0,MeltdownSpectre,Android 10,Android 10.0.0_r54 release added to infobox (May 2021)
+2021-02-22T00:11:54+00:00,1008181727,1008141407,0,ViperSnake151,Android 10,Reverted edits by [[Special:Contribs/78.56.3.228|78.56.3.228]] ([[User talk:78.56.3.228|talk]]) to last version by FletcherPE
+2021-07-17T11:06:31+00:00,1034034459,1034008417,0,InternetArchiveBot,Android 10,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8) ([[User:Tslawrk|Tslawrk]] - 8304
+2021-06-03T18:45:43+00:00,1026693722,1026681963,0,InfiniteNexus,Android 10,Reverted 1 edit by [[Special:Contributions/Jack.david121|Jack.david121]] ([[User talk:Jack.david121|talk]]) to last revision by The RedBurn
+2021-04-06T07:36:25+00:00,1016263539,1014830851,0,MeltdownSpectre,Android 10,Android 10.0.0_r53 release added to infobox (April 2021)
+2021-09-04T09:02:39+00:00,1042310345,1042310165,0,78.61.209.92,Android 11,
+2021-04-24T19:39:01+00:00,1019677580,1019159298,0,Jdun7801,Android 11,Capitalization of word within sentence.
+2021-07-08T10:50:25+00:00,1032588663,1032390296,0,MeltdownSpectre,Android 11,Android 11.0.0_r39 release added to infobox (July 2021)
+2021-04-08T23:03:21+00:00,1016764743,1016569521,0,Ridwan97,Android 11,#suggestededit-add 1.0
+2021-08-05T09:48:40+00:00,1037238868,1036839440,0,DreamS9+,Android 11,July 2021 Stats
+2021-06-25T17:46:12+00:00,1030399744,1030394411,0,Abobeck11,Android 11,Undid revision 1030394411 by [[Special:Contributions/105.100.8.194|105.100.8.194]] ([[User talk:105.100.8.194|talk]]) No
+2021-06-11T13:12:47+00:00,1028036138,1027575219,0,Veikk0.ma,Android 11,update market share
+2021-05-18T19:56:13+00:00,1023866026,1023865801,0,Ferien,Android 11,Reverted edits by [[Special:Contributions/148.76.42.203|148.76.42.203]] ([[User talk:148.76.42.203|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-08-24T12:44:45+00:00,1040417579,1040014336,0,Sebby249294,Android 11,Added some words regarding the media player
+2021-07-18T14:08:23+00:00,1034207815,1034184690,0,InfiniteNexus,Android 11,Undid revision 1034184690 by [[Special:Contributions/197.239.7.108|197.239.7.108]] ([[User talk:197.239.7.108|talk]]) Not an improvement
+2021-04-21T20:43:16+00:00,1019159298,1019027923,0,The Grid,Android 11,Reverted 1 edit by [[Special:Contributions/104.33.160.216|104.33.160.216]] ([[User talk:104.33.160.216|talk]]) to last revision by Plastikspork
+2021-07-07T04:08:37+00:00,1032389425,1030399744,0,136.158.41.240,Android 11,
+2021-05-03T00:09:28+00:00,1021114189,1021067663,0,Ken imperial14,Android 11,
+2021-04-06T07:35:22+00:00,1016263447,1014554563,0,MeltdownSpectre,Android 11,Android 11.0.0_r35 release added to infobox (April 2021)
+2021-05-24T22:28:14+00:00,1024951281,1024946151,0,InfiniteNexus,Android 11,Reverted 2 edits by [[Special:Contributions/2001:569:FC7C:C300:460:31C8:8271:DA8C|2001:569:FC7C:C300:460:31C8:8271:DA8C]] ([[User talk:2001:569:FC7C:C300:460:31C8:8271:DA8C|talk]]) to last revision by ViperSnake151
+2021-06-08T18:42:49+00:00,1027575219,1024963176,0,MeltdownSpectre,Android 11,Android 11.0.0_r38 release added to infobox (June 2021)
+2021-05-25T00:03:47+00:00,1024963176,1024951281,0,Abobeck11,Android 11,
+2021-03-08T00:21:47+00:00,1010909304,1010328500,0,Resonantia,Android 11,/* Features */ update reference title
+2021-02-24T15:18:27+00:00,1008688531,1008687241,0,78.56.3.228,Android 12,
+2021-03-15T21:00:34+00:00,1012338256,1012018128,0,Haideronwiki,Android 11,Don't use Android 11 Developer Preview logo.svg It was for Developer Preview and Beta version.
+2021-05-02T21:47:24+00:00,1021095690,1021092698,0,AnomieBOT,Android 12,Dating maintenance tags: {{Expand Italian}}
+2021-05-31T08:16:33+00:00,1026082398,1026061352,0,Megamanfan3,Android 12,Removed caption from the infobox as the screenshot was deleted.
+2021-03-16T12:24:01+00:00,1012445680,1012445252,0,Megamanfan3,Android 12,
+2021-05-07T11:29:58+00:00,1021916049,1021916029,0,Oshwah,Android 12,Reverted edits by [[Special:Contributions/2409:4043:2E89:A3D2:0:0:52C8:FB0B|2409:4043:2E89:A3D2:0:0:52C8:FB0B]] ([[User talk:2409:4043:2E89:A3D2:0:0:52C8:FB0B|talk]]): addition of unnecessary/inappropriate [[WP:EL|external links]] ([[WP:HG|HG]]) (3.4.10)
+2021-06-19T18:32:53+00:00,1029396610,1029395063,0,InfiniteNexus,Android 12,
+2021-06-13T06:46:24+00:00,1028312722,1026082398,0,2409:4053:318:A66A:0:0:2872:C8A5,Android 12,
+2021-05-27T01:27:24+00:00,1025335640,1023703674,0,JohnEdwardMS,Android Cupcake,
+2021-02-21T19:37:50+00:00,1008139004,1007096250,0,78.56.3.228,Android Cupcake,
+2021-07-17T12:26:14+00:00,1034042400,1033056625,0,WayKurat,Android Cupcake,Reverted edits by [[Special:Contribs/136.158.41.240|136.158.41.240]] ([[User talk:136.158.41.240|talk]]) to last version by Megamanfan3
+2021-03-12T04:19:05+00:00,1011666935,1011664378,0,JalenFolf,Android Cupcake,Undid revision 1011661429 by [[Special:Contributions/Cupcake Corporation|Cupcake Corporation]] ([[User talk:Cupcake Corporation|talk]])
+2021-03-10T19:34:11+00:00,1011415510,1011401126,0,Haideronwiki,Android Cupcake,Reverted.
+2021-03-29T09:38:21+00:00,1014830205,1011666935,0,Megamanfan3,Android Cupcake,/* Features */
+2021-05-17T21:30:32+00:00,1023703674,1023208961,0,119.160.99.229,Android Cupcake,Undid revision 1023208961 by [[Special:Contributions/2603:8081:5B01:F806:9D20:4A52:91C2:E909|2603:8081:5B01:F806:9D20:4A52:91C2:E909]] ([[User talk:2603:8081:5B01:F806:9D20:4A52:91C2:E909|talk]])
+2021-08-21T20:20:16+00:00,1039959168,1039958986,0,98.235.155.81,Android Cupcake,1.1
+2021-03-29T09:37:48+00:00,1014830157,1011790607,0,Megamanfan3,Android Donut,/* Features */
+2021-05-27T02:16:38+00:00,1025341473,1014830157,0,JohnEdwardMS,Android Donut,
+2021-06-19T12:52:00+00:00,1029352115,1025341473,0,Maxeto0910,Android Donut,Added short description.
+2021-07-17T12:26:15+00:00,1034042403,1033050918,0,WayKurat,Android Eclair,Reverted edits by [[Special:Contribs/136.158.41.240|136.158.41.240]] ([[User talk:136.158.41.240|talk]]) to last version by JohnEdwardMS
+2021-08-19T12:37:32+00:00,1039565562,1038805003,0,2601:981:4401:1CC0:649D:944D:D3AE:B2E4,Android Eclair,Gingerbread!!!!!
+2021-05-27T02:41:49+00:00,1025344354,1014830085,0,JohnEdwardMS,Android Eclair,
+2021-03-29T09:38:56+00:00,1014830270,1012495001,0,Megamanfan3,Android Froyo,/* Features */
+2021-02-21T19:39:22+00:00,1008139250,1007521997,0,78.56.3.228,Android Eclair,
+2021-02-21T19:38:32+00:00,1008139115,1007096212,0,78.56.3.228,Android Donut,
+2021-08-19T14:37:03+00:00,1039581380,1039565500,0,AnomieBOT,Android Donut,Dating maintenance tags: {{More citations needed}}
+2021-08-03T11:07:33+00:00,1036903267,1035731668,0,Megamanfan3,Android Froyo,
+2021-07-11T16:08:40+00:00,1033099824,1033099701,0,Megamanfan3,Android Gingerbread,Undid revision 1033099701 by [[Special:Contributions/Megamanfan3|Megamanfan3]] ([[User talk:Megamanfan3|talk]])
+2021-08-05T19:34:45+00:00,1037309678,1036903122,0,2600:8801:381A:1600:6466:15DB:49FD:2349,Android Gingerbread,Added now requireing
+2021-03-16T17:49:54+00:00,1012495001,1012408910,0,Walter Görlitz,Android Froyo,/* References */ responsiveness is automatic
+2021-05-27T03:05:01+00:00,1025347072,1014830310,0,JohnEdwardMS,Android Gingerbread,
+2021-03-29T09:39:24+00:00,1014830310,1012495028,0,Megamanfan3,Android Gingerbread,/* Features */
+2021-03-16T17:50:03+00:00,1012495028,1012408797,0,Walter Görlitz,Android Gingerbread,/* References */ responsiveness is automatic
+2021-02-18T15:50:12+00:00,1007522098,1007096044,0,Elephant2019,Android Honeycomb,
+2021-08-06T06:51:03+00:00,1037382666,1032230822,0,SPEEDYBEAVER,Android Honeycomb,
+2021-03-29T09:40:14+00:00,1014830381,1012408708,0,Megamanfan3,Android Honeycomb,/* Features */
+2021-03-08T05:19:05+00:00,1010946997,1010015623,0,103.91.142.194,Android Honeycomb,
+2021-03-29T17:05:40+00:00,1014892172,1014830442,0,Haideronwiki,Android Ice Cream Sandwich,SVG logo added.
+2021-05-28T00:40:41+00:00,1025512390,1014892172,0,JohnEdwardMS,Android Ice Cream Sandwich,
+2021-08-17T12:24:56+00:00,1039223160,1036902983,0,197.253.238.116,Android Ice Cream Sandwich,Fixed one small inaccurate detail
+2021-05-28T01:02:48+00:00,1025514946,1014830484,0,JohnEdwardMS,Android Jelly Bean,
+2021-03-29T09:41:13+00:00,1014830484,1011400394,0,Megamanfan3,Android Jelly Bean,/* Features */
+2021-05-28T01:12:10+00:00,1025515990,1023536056,0,JohnEdwardMS,Android KitKat,
+2021-03-18T14:24:59+00:00,1012822000,1011663287,0,71.120.8.38,Android KitKat,Fixed typo
+2021-02-17T23:43:31+00:00,1007403542,1007095892,0,Brennan1234567890,Android KitKat,
+2021-03-29T09:41:43+00:00,1014830525,1012822000,0,Megamanfan3,Android KitKat,/* Features */
+2021-05-16T22:45:49+00:00,1023536056,1014830525,0,Cedric Demian R. Moreno,Android KitKat,
+2021-07-17T06:43:35+00:00,1034008289,1034008227,0,ArglebargleIV,Android KitKat,Reverted edits by [[Special:Contributions/66.96.206.36|66.96.206.36]] ([[User talk:66.96.206.36|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.10)
+2021-07-17T06:42:25+00:00,1034008207,1034008162,0,ArglebargleIV,Android Lollipop,Reverted edits by [[Special:Contributions/66.96.206.36|66.96.206.36]] ([[User talk:66.96.206.36|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.10)
+2021-03-30T05:14:46+00:00,1015006052,1015006042,0,ClueBot NG,Android Lollipop,"Reverting possible vandalism by [[Special:Contribs/202.86.149.242|202.86.149.242]] to version by Megamanfan3. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3936138) (Bot)"
+2021-03-10T17:59:02+00:00,1011400248,1010016050,0,Haideronwiki,Android Lollipop,When software is suspended it is called discontinued but when a version is dropped it is called unsupported.
+2021-08-03T10:55:11+00:00,1036902099,1034008207,0,Megamanfan3,Android Lollipop,
+2021-08-15T14:01:02+00:00,1038907492,1038411263,0,Numbermaniac,Android Lollipop,November 2021? Jumping the gun a bit there aren't we?
+2021-06-05T19:46:08+00:00,1027046223,1025524902,0,107.127.25.55,Android Lollipop,
+2021-06-21T10:39:22+00:00,1029672506,1027046223,0,Megamanfan3,Android Lollipop,Undid revision 1027046223 by [[Special:Contributions/107.127.25.55|107.127.25.55]] ([[User talk:107.127.25.55|talk]])
+2021-05-28T02:19:56+00:00,1025524902,1025520391,0,JohnEdwardMS,Android Lollipop,
+2021-08-03T10:53:54+00:00,1036901976,1034008093,0,Megamanfan3,Android Marshmallow,
+2021-05-28T02:11:50+00:00,1025523745,1023796974,0,JohnEdwardMS,Android Marshmallow,
+2021-07-17T06:41:09+00:00,1034008093,1034008066,0,ArglebargleIV,Android Marshmallow,Reverted edits by [[Special:Contributions/66.96.206.36|66.96.206.36]] ([[User talk:66.96.206.36|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.10)
+2021-03-21T16:00:21+00:00,1013430754,1013370414,0,Haideronwiki,Android Marshmallow,Revert previous edit.
+2021-03-10T17:58:21+00:00,1011400136,1010016098,0,Haideronwiki,Android Marshmallow,When software is suspended it is called discontinued but when a version is dropped it is called unsupported.
+2021-05-18T11:53:05+00:00,1023796974,1023613709,0,Megamanfan3,Android Marshmallow,Converted logo to SVG.
+2021-02-21T19:47:52+00:00,1008140776,1007742020,0,78.56.3.228,Android Nougat,
+2021-05-28T02:47:28+00:00,1025528509,1021680469,0,JohnEdwardMS,Android Nougat,
+2021-07-17T06:40:22+00:00,1034008022,1034007981,0,ArglebargleIV,Android Nougat,Reverted edits by [[Special:Contributions/66.96.206.36|66.96.206.36]] ([[User talk:66.96.206.36|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.10)
+2021-08-30T13:20:35+00:00,1041425847,1041277167,0,136.158.41.13,Android Nougat,"Android Nougat is ""Unsupported"""
+2021-08-12T11:19:14+00:00,1038411695,1036901831,0,Comp.arch,Android Nougat,Stats.
+2021-05-06T02:24:17+00:00,1021680469,1014830776,0,Red dwarf,Android Nougat,
+2021-03-29T09:43:57+00:00,1014830776,1011399871,0,Megamanfan3,Android Nougat,/* Features */
+2021-02-19T18:13:56+00:00,1007742020,1007735716,0,78.56.3.228,Android Nougat,
+2021-04-06T07:38:40+00:00,1016263755,1013787017,0,MeltdownSpectre,Android Oreo,8.1.0_r87 release added to infobox (April 2021)
+2021-03-10T17:56:42+00:00,1011399871,1010016142,0,Haideronwiki,Android Nougat,When software is suspended it is called discontinued but when a version is dropped it is called unsupported.
+2021-07-17T11:11:02+00:00,1034034957,1034007915,0,InternetArchiveBot,Android Oreo,Rescuing 0 sources and tagging 1 as dead.) #IABot (v2.0.8) ([[User:Tslawrk|Tslawrk]] - 8304
+2021-05-13T08:09:59+00:00,1022919501,1021778807,0,174.255.3.249,Android Oreo,
+2021-06-08T18:47:06+00:00,1027575739,1026980354,0,MeltdownSpectre,Android Oreo,Android 8.1.0_r89 release added to infobox (June 2021)
+2021-07-07T05:07:45+00:00,1032394892,1032394505,0,136.158.41.240,Android Oreo,
+2021-03-03T16:04:45+00:00,1010055477,1010016597,0,78.56.3.228,Android Oreo,
+2021-07-09T04:47:23+00:00,1032708458,1032394892,0,36.73.183.41,Android Oreo,
+2021-09-03T02:02:40+00:00,1042068202,1041916380,0,DreamS9+,Android Oreo,Updating the Stats
+2021-08-03T20:59:32+00:00,1036982714,1036966957,0,Megamanfan3,Android Oreo,Updated access date for the website cited for the latest release
+2021-03-12T11:35:53+00:00,1011710214,1011292737,0,COCOMELON PEWDIEPIE,Android Oreo,
+2021-03-23T13:10:32+00:00,1013787183,1012408267,0,The Grid,Android Pie,/* Features */ Fix anchor target
+2021-05-06T16:48:10+00:00,1021778638,1016263653,0,MeltdownSpectre,Android Pie,Android 9.0.0_r68 release added to infobox (May 2021)
+2021-02-24T21:45:46+00:00,1008751177,1008690036,0,The Grid,Android Pie,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Mineplex Pocket|Mineplex Pocket]] ([[User talk:Mineplex Pocket|talk]]): Why the general logo?
+2021-06-08T18:45:51+00:00,1027575594,1021778638,0,MeltdownSpectre,Android Pie,Android 9.0.0_r69 release added to infobox (June 2021)
+2021-07-17T06:36:36+00:00,1034007716,1034007691,0,Oshwah,Android Pie,Reverted edits by [[Special:Contributions/66.96.206.36|66.96.206.36]] ([[User talk:66.96.206.36|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)
+2021-05-06T16:49:12+00:00,1021778807,1020906159,0,MeltdownSpectre,Android Oreo,Android 8.1.0_r88 release added to infobox (May 2021)
+2021-03-23T13:09:08+00:00,1013787017,1013433015,0,The Grid,Android Oreo,/* Features */ Fix anchor position
+2021-08-09T00:11:15+00:00,1037831827,1036966773,0,DreamS9+,Android Pie,Update Stats July 2021
+2021-04-06T07:37:41+00:00,1016263653,1013787183,0,MeltdownSpectre,Android Pie,Android 9.0.0_r67 release added to infobox (April 2021)
+2021-03-12T11:35:04+00:00,1011710122,1011710029,0,Ratekreel,Android Pie,Reverted edits by [[Special:Contribs/COCOMELON PEWDIEPIE|COCOMELON PEWDIEPIE]] ([[User talk:COCOMELON PEWDIEPIE|talk]]) to last version by Mvqr
+2021-02-21T19:51:17+00:00,1008141272,1007299948,0,78.56.3.228,Android Pie,
+2021-08-03T18:57:17+00:00,1036966773,1034007716,0,MeltdownSpectre,Android Pie,Android 9.0.0_r71 release added to infobox (August 2021)
+2021-03-16T06:35:07+00:00,1012408267,1011710122,0,Haideronwiki,Android Pie,Changed logo size.
+2021-07-07T04:18:14+00:00,1032390522,1032390431,0,136.158.41.240,Android Pie,
+2021-04-01T22:09:58+00:00,1015512376,1014683876,0,156.202.51.52,Android version history,/* Android 7.1 Nougat */
+2021-08-20T23:00:38+00:00,1039817642,1038563212,0,Citation bot,Android version history,Alter: title. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 944/2200
+2021-03-11T07:50:07+00:00,1011510990,1011385399,0,奧田95,BIOS,/* Operation */
+2021-07-08T12:08:42+00:00,1032595664,1032595542,0,Jochem van Hees,BIOS,/* top */ [[MOS:REPEATLINK]]
+2021-03-12T12:16:28+00:00,1011714277,1011712802,0,Zzuuzz,Google LLC,Restored revision 1011355777 by [[Special:Contributions/Volteer1|Volteer1]] ([[User talk:Volteer1|talk]])
+2021-03-21T00:23:59+00:00,1013326567,1011639687,0,Mandarax,Google,rm space before ref
+2020-04-09T00:40:14+00:00,949871497,947606188,0,Tridwoxi,Google LLC,Reverted edits by [[Special:Contribs/104.152.235.202|104.152.235.202]] ([[User talk:104.152.235.202|talk]]) to last version by The9Man
+2021-02-11T20:51:33+00:00,1006244032,1005663960,0,Wikiminds34,Google,Filled in 7 bare reference(s) with reFill 2
+2021-07-08T02:21:10+00:00,1032539811,1032539806,0,ClueBot NG,Google LLC,"Reverting possible vandalism by [[Special:Contribs/136.158.41.240|136.158.41.240]] to version by Zzuuzz. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4005026) (Bot)"
+2021-02-26T09:34:21+00:00,1009026335,1009026231,0,Chompy Ace,Google LLC,Reverted edits by [[Special:Contribs/2603:6010:7F00:43B4:546:3C0C:4F4E:288D|2603:6010:7F00:43B4:546:3C0C:4F4E:288D]] ([[User talk:2603:6010:7F00:43B4:546:3C0C:4F4E:288D|talk]]) to last version by Chompy Ace
+2021-06-11T22:03:02+00:00,1028106622,1027606042,0,Trappist the monk,Google logo,cite repair;
+2021-03-27T20:18:52+00:00,1014561149,1014475653,0,Fridolin freudenfett,Google logo,([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Google logo (1997-1999).png]] → [[File:Google 1998 logo.png]] [[c:COM:FR#FR2|Criterion 2]] (meaningless or ambiguous name) · 1997 is Wrong Date. This logo was released in 1998.
+2021-05-12T20:34:09+00:00,1022844818,1022844680,0,Sdkb,Google logo,Run-on sentence
+2021-07-21T05:14:24+00:00,1034664522,1034662202,0,InfiniteNexus,Google logo,/* History */ Resize images
+2021-03-17T08:08:17+00:00,1012599654,1012596718,0,117.215.179.154,Microsoft Word,/* Filename extensions */
+2021-06-29T13:38:20+00:00,1031045459,1031045334,0,Wadley bralsh 53,Mineplex,minor number change
+2021-09-01T23:07:29+00:00,1041859121,1041859047,0,Coolperson177,Microsoft Word,Reverting edit(s) by [[Special:Contributions/24.228.193.197|24.228.193.197]] ([[User_talk:24.228.193.197|talk]]) to rev. 1040168830 by Trental: non-constructive [[w:en:WP:RW|(RW 16.1)]]
+2021-04-27T02:31:46+00:00,1020083067,1017813290,0,Melofors,Mineplex,title
+2021-04-14T18:44:17+00:00,1017813290,1017812934,0,Bischnu,Mineplex,Corrected a mistake appeared in the last edit
+2021-08-16T07:19:42+00:00,1039030314,1039030266,0,Rdp060707,Mojang Studios,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/2604:3D09:A481:9600:18AB:8C14:CBCF:2AE6|2604:3D09:A481:9600:18AB:8C14:CBCF:2AE6]] ([[User talk:2604:3D09:A481:9600:18AB:8C14:CBCF:2AE6|talk]]) to last revision by Lazz R: nonconstructive edits
+2021-02-25T21:46:39+00:00,1008941938,1008941900,0,Ferien,Mineplex,Undid edits by [[Special:Contributions/Asmrr|Asmrr]] ([[User talk:Asmrr|talk]]) to last revision by SWinxy: nonconstructive edits
+2021-08-11T10:37:36+00:00,1038241927,1037809186,0,KajenCAT,Paul Allen,added [[Category:People named in the Paradise Papers]] using [[WP:HC|HotCat]]
+2021-08-26T23:14:38+00:00,1040832486,1040830062,0,IceWelder,Mojang Studios,Reverted edits by [[Special:Contribs/103.140.30.168|103.140.30.168]] ([[User talk:103.140.30.168|talk]]) to last version by IceWelder
+2021-02-19T16:19:39+00:00,1007723428,1007717656,0,LetterC,Paul Allen,/* Microsoft */ fix MS§Founding link
+2021-07-14T02:16:32+00:00,1033500252,1033475500,0,HAL333,Paul Allen,Deprecated parameter
+2021-08-06T16:43:59+00:00,1037450669,1036512191,0,GA-RT-22,Paul Allen,Filled in 2 bare reference(s) with reFill 2
+2021-08-28T02:38:23+00:00,1041020534,1041020485,0,InfiniteNexus,Talk:Google,Reverted 2 edits by [[Special:Contributions/2603:6010:7F00:141:516D:B2BB:6A60:EC96|2603:6010:7F00:141:516D:B2BB:6A60:EC96]] ([[User talk:2603:6010:7F00:141:516D:B2BB:6A60:EC96|talk]]) to last revision by InfiniteNexus
+2021-03-04T09:46:56+00:00,1010207370,1010207318,0,Wiki13,Talk:Yahoo! Mail,Reverted edits by [[Special:Contribs/EmailAlertProfile101|EmailAlertProfile101]] ([[User talk:EmailAlertProfile101|talk]]) to last version by Pahunkat
+2021-07-22T11:48:39+00:00,1034892353,1034876906,0,ScottishFinnishRadish,Talk:Google,/* Semi-protected edit request on 8 June 2021 */ Responded to edit request
+2021-04-23T11:41:15+00:00,1019447641,1018162522,0,Panchajanya5,Sandbox game,Added an link in this article
+2021-04-04T15:33:52+00:00,1015955403,1015955271,0,Masem,Sandbox game,/* top */ oops in the lede it doesn't
+2021-09-02T23:49:45+00:00,1042050831,1033236356,0,PrimeBOT,User talk:BLOXAuthority,/* July 2021 */[[User:PrimeBOT/24|Task 24]]: removal of a template following [[Wikipedia:Templates_for_discussion/Log/2021_August_16|a TFD]]
+2021-04-01T02:50:23+00:00,1015372593,1011667176,0,Eagles247,User talk:Cupcake Corporation,indeffed
+2021-08-08T15:06:08+00:00,1037759869,1037024674,0,Orangemike,User talk:EnchanterPE,removed [[Category:Wikipedia usernames with possible policy issues]] using [[WP:HC|HotCat]] - blocked
+2021-07-21T12:20:30+00:00,1034716471,1034715842,0,331dot,User talk:Ffuuff,/* Unblock Ffuuff */ decline
+2021-09-03T15:45:07+00:00,1042177944,1041957198,0,Liz,User talk:HEA42DAVFA,Notification: speedy deletion nomination of [[:Category:Wikipedians who use Android 10]].
+2021-06-25T02:45:30+00:00,1030298558,1030297360,0,Liz,User talk:Liz,/* Speedy Deletion Tagging */ Response
+2021-03-14T22:42:38+00:00,1012157981,1012149061,0,Iridescent,User talk:Liz,"/* Please consider restoring the page ""Netbackup"". Thank you. */ re"
+2021-03-24T20:10:41+00:00,1014032625,1014002041,0,SailorAlphaCentauri,User talk:Liz,/* Margaret G. Hays  */ new section
+2021-03-10T14:59:37+00:00,1011371330,1011370244,0,Drm310,User talk:QWERTY Technology,Notification: speedy deletion nomination of [[:User:QWERTY Technology]].
+2021-07-17T23:38:28+00:00,1034125040,1034124984,0,Liz,User talk:Liz,/* Deletion of draft:Vaush on april */ ME
+2021-07-01T02:06:55+00:00,1031333582,1031194286,0,BlitzkriegCat,User talk:Rdp060707,/* Mineral Fire */ new section
+2021-05-24T02:12:51+00:00,1024781432,1024781310,0,Rdp060707,User talk:Rdp060707,/* OK */
+2021-09-03T19:49:55+00:00,1042215826,1042075262,0,Drmies,User talk:Zzuuzz/Archive 40,/* DEVO */ new section
+2021-08-17T13:03:31+00:00,1039227561,1039225603,0,Bbb23,User talk:Zzuuzz/Archive 40,/* Do you think ... */ ah
+2021-08-26T02:29:24+00:00,1040688341,1040688286,0,HighInBC,User talk:Zzuuzz/Archive 40,Reverted edits by [[Special:Contribs/Acroterión 1984|Acroterión 1984]] ([[User talk:Acroterión 1984|talk]]) to last version by Acroterion
+2021-04-12T04:17:11+00:00,1017326537,1017326435,0,Oshwah,User talk:Zzuuzz/Archive 40,Reverted edits by [[Special:Contribs/Daudov Bolvan|Daudov Bolvan]] ([[User talk:Daudov Bolvan|talk]]) to last version by Acroterion
+2021-08-22T08:33:43+00:00,1040039478,1040039424,0,Longhair,User talk:Zzuuzz/Archive 40,Reverted edits by [[Special:Contribs/Zzuuz 1984|Zzuuz 1984]] ([[User talk:Zzuuz 1984|talk]]) to last version by EN-Jungwon
+2021-06-30T18:19:22+00:00,1031273272,1031273157,0,Izno,User talk:Zzuuzz/Archive 40,Reverted edits by [[Special:Contribs/ᡐᡆᡑᡆ ᡋᡅᡔᡅᡎ|ᡐᡆᡑᡆ ᡋᡅᡔᡅᡎ]] ([[User talk:ᡐᡆᡑᡆ ᡋᡅᡔᡅᡎ|talk]]) to last version by Hasley
+2021-05-28T23:02:44+00:00,1025682800,1025557592,0,Jafdfm,User talk:Zzuuzz/Archive 40,/* Insult */
+2021-06-02T15:07:13+00:00,1026483253,1026468609,0,MediaWiki message delivery,User talk:Zzuuzz/Archive 40,/* Invitation for Functionary consultation 2021 */ new section
+2021-08-23T13:10:45+00:00,1040248287,1040221211,0,GizzyCatBella,User talk:Zzuuzz/Archive 40,/* Three more to be removed */ new section
+2021-07-11T13:20:48+00:00,1033079414,1032718514,0,Zzuuzz,User talk:Zzuuzz/Archive 40,unbreak
+2021-04-06T01:09:11+00:00,1016221863,1016221680,0,TFESS,User talk:Zzuuzz/Archive 40,Undid revision 1016221680 by [[Special:Contributions/Хонгр Очиров|Хонгр Очиров]] ([[User talk:Хонгр Очиров|talk]])
+2021-07-08T06:29:59+00:00,1032563980,1032552860,0,Zinnober9,User:BLOXAuthority,Removed article only template. Doesn't belong in userspace
+2021-08-04T10:45:34+00:00,1037074845,1033224888,0,Blablubbs,User:BLOXAuthority,Adding sockpuppetry tag per [[:w:en:Wikipedia:Sockpuppet investigations/FletcherPE]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2021-03-12T14:08:44+00:00,1011727963,1011710634,0,Drm310,User:COCOMELON PEWDIEPIE,"Blanking, user blocked"
+2021-03-12T14:45:54+00:00,1011733390,1011710907,0,JJMC89 bot,User:COCOMELON PEWDIEPIE/sandbox,[[WP:NFCC#9]]: Non-free files are only permitted in articles
+2021-08-04T10:45:34+00:00,1037074844,1011727963,0,Blablubbs,User:COCOMELON PEWDIEPIE,Adding sockpuppetry tag per [[:w:en:Wikipedia:Sockpuppet investigations/FletcherPE]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2021-03-26T17:12:40+00:00,1014360658,1014360515,0,7&6=thirteen,User:Chompy Ace,/* Welcome back */ link
+2021-01-12T02:25:52+00:00,999811687,999594681,0,Chompy Ace,User:Chompy Ace,Undid revision 999594681 by [[Special:Contributions/Chompy Ace|Chompy Ace]] ([[User talk:Chompy Ace|talk]])
+2021-03-10T14:37:20+00:00,1011368054,0,0,Cupcake Corporation,User:Cupcake Corporation,[[WP:AES|←]]Created page with 'Staff on [[CubeCraft Games]]'
+2021-05-06T00:13:02+00:00,1021666360,1021666115,0,The Grid,User:FletcherPE,This is a userpage; should be nothing of promotion here
+2021-08-04T10:45:34+00:00,1037074839,1021666360,0,Blablubbs,User:FletcherPE,Adding sockpuppetry tag per [[:w:en:Wikipedia:Sockpuppet investigations/FletcherPE]] (using [[:w:en:User:GeneralNotability/spihelper|spihelper.js]])
+2021-02-17T00:10:49+00:00,1007206312,1007206194,0,Zzuuzz,User:Zzuuzz,Reverted edits by [[Special:Contribs/InternetUser723|InternetUser723]] ([[User talk:InternetUser723|talk]]) to last version by Ianmacm
+2021-07-12T09:21:09+00:00,1033213770,1033213001,0,DatGuy,User:Zzuuzz,Reverted edits by [[Special:Contribs/BLOXAuthority|BLOXAuthority]] ([[User talk:BLOXAuthority|talk]]) to last version by Zzuuzz
+2021-08-18T18:07:06+00:00,1039436779,1039434925,0,Cyberbot I,Wikipedia:Requests for page protection/Increase,"Bot clerking, 11 pending requests remain."
+2021-08-26T14:14:38+00:00,1040762180,1040760344,0,Cyberbot I,Wikipedia:Requests for page protection/Increase,"Bot clerking, archiving 4 threads, 8 pending requests remain."
+2020-11-21T09:42:10+00:00,989838600,989838574,0,Shahrizan94,Wikipedia:Requests for page protection/Increase,
+2021-03-10T13:06:08+00:00,1011355641,1011355187,0,Q2f96k1z09tsny5iva29,Yahoo,Undid revision 1011355187 by [[Special:Contributions/QWERTY Technology|QWERTY Technology]] ([[User talk:QWERTY Technology|talk]]) rv
+2021-05-24T09:28:28+00:00,1024830809,1024830657,0,HunMaster,Yahoo! Mail,Reverted edits by [[Special:Contribs/109.161.170.139|109.161.170.139]] ([[User talk:109.161.170.139|talk]]) to last version by Zzuuzz
+2021-04-13T17:07:50+00:00,1017595126,1017595020,0,RacoonyRE,Yahoo! Mail,Reverted edits by [[Special:Contributions/173.212.24.94|173.212.24.94]] ([[User talk:173.212.24.94|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-03-15T08:32:26+00:00,1012228232,1012228208,0,Rdp060707,Yahoo! Mail,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/2600:1700:F680:5AF0:60EF:F079:D8AD:5637|2600:1700:F680:5AF0:60EF:F079:D8AD:5637]] ([[User talk:2600:1700:F680:5AF0:60EF:F079:D8AD:5637|talk]]) to last revision by Zzuuzz: nonconstructive edits
+2021-06-17T10:43:43+00:00,1029011771,1028763573,0,DocWatson42,Yahoo! Mail,Performed minor cleanup and wikification.
+2021-08-02T01:32:07+00:00,1036671553,1032897723,0,Citation bot,Yahoo! Mail,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | #UCB_webform 839/2200
+2021-05-08T04:06:31+00:00,1022046755,1022037821,0,Mz7,Yahoo! Mail,Reverted edits by [[Special:Contribs/49.224.201.236|49.224.201.236]] ([[User talk:49.224.201.236|talk]]) to last version by Rdp060707
+2021-07-10T09:34:16+00:00,1032897723,1032629885,0,GreenC bot,Yahoo! Mail,Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-04-27T00:15:19+00:00,1020065978,1020065763,0,WildComet,Yahoo! Mail,Restored revision 1017595126 by [[Special:Contributions/RacoonyRE|RacoonyRE]] ([[User talk:RacoonyRE|talk]]): Rmv double link
+2021-05-03T02:45:05+00:00,1021135085,1021135060,0,Rdp060707,Yahoo! Mail,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/184.13.59.170|184.13.59.170]] ([[User talk:184.13.59.170|talk]]) to last revision by WildComet: not adhering to [[WP:MOS|manual of style]]
+2021-06-02T22:08:59+00:00,1026543393,1026533101,0,CCChapple,Yahoo! Mail,Changed had to has
+2020-05-23T03:45:57+00:00,958318850,958318761,0,202.166.153.120,Alphabet Inc.,
+2020-07-29T12:52:05+00:00,970130113,969299087,0,199.67.203.140,Alphabet Inc.,
+2021-08-04T16:52:51+00:00,1037121455,1037121445,0,MelanieN,Alphabet Inc.,Adding {{pp-vandalism}}
+2021-04-08T23:39:44+00:00,1016768862,1016768380,0,Blankzilch,Android (operating system),/* Rooting */ Adding missing code tags for consistency
+2020-08-01T14:32:49+00:00,970638608,970166328,0,Monica Poucheva-Murray,Android (operating system),Just a couple of grammatical edits
+2020-05-04T21:49:10+00:00,954901899,954802540,0,BanyanClimber,Android (operating system),Undid revision 954802540 by [[Special:Contributions/LOVEDROWNEDS123|LOVEDROWNEDS123]] ([[User talk:LOVEDROWNEDS123|talk]])
+2021-01-29T17:37:22+00:00,1003579687,1003579636,0,107.134.86.17,Alphabet Inc.,
+2020-10-04T15:18:37+00:00,981812324,981751019,0,Retimuko,Alphabet Inc.,Undid revision 981751019 by [[Special:Contributions/Shinigamikage|Shinigamikage]] ([[User talk:Shinigamikage|talk]])
+2020-05-28T15:41:30+00:00,959399040,958818914,0,Alawadhi3000,Android (operating system),/* Platform information */  Fixed 1st gen Pixel links
+2020-05-20T15:46:34+00:00,957790793,957789509,0,EJessup,Android (operating system),Fork
+2020-12-20T09:04:23+00:00,995303189,995302780,0,Spyglasses,Android (operating system),/* History */Copyedit - System or company?
+2021-07-14T03:07:16+00:00,1033505386,1033505262,0,Risacher,Android (operating system),/* Patent lawsuit with Oracle */ Fix punctuation
+2021-07-29T21:55:07+00:00,1036163232,1036162978,0,Indefensible,Android (operating system),/* History */ wiki link
+2019-06-23T09:01:09+00:00,903065185,903064485,0,Sasquatch,Android 1.0,restore last good revision
+2021-02-07T13:20:12+00:00,1005396652,1005380776,0,MrOllie,Android (operating system),Reverted 1 edit by [[Special:Contributions/Sohailhamza|Sohailhamza]] ([[User talk:Sohailhamza|talk]]) to last revision by RaviC
+2015-10-06T20:00:26+00:00,684464669,615364128,0,Claw of Slime,Android 1.1,[[WP:AES|←]]Redirected page to [[Android version history#Android 1.1]]
+2020-07-28T18:18:05+00:00,970011889,970011818,0,Materialscientist,Android 10,Reverted edits by [[Special:Contributions/14.173.58.3|14.173.58.3]] ([[User talk:14.173.58.3|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-01-28T04:17:39+00:00,1003262052,1003245815,0,2600:1700:CAD0:F00:9126:A60C:E4AB:549,Android 10,/* RISC-V Support */
+2021-01-04T03:02:42+00:00,998160640,997900667,0,Monkbot,Android 10,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 53 templates: hyphenate params (4×);
+2020-11-16T19:03:08+00:00,989043784,987251525,0,Danpengui,Android 10,Updated Android 10 until October.
+2021-05-15T07:39:06+00:00,1023239315,1022335042,0,The RedBurn,Android 10,/* Navigation */ gesture: +navigation
+2020-04-09T19:57:55+00:00,950014102,949591907,0,107.179.229.124,Android 10,"/* History */ minor syntax fix: changed ""}"" to "")"""
+2020-10-13T19:27:55+00:00,983354593,982325604,0,Danpengui,Android 10,Updated information until September.
+2021-02-04T00:27:35+00:00,1004714849,1004714690,0,MerelyPumpkin,Android 10,Undid revision 1004714690 by [[Special:Contributions/83.22.178.143|83.22.178.143]] ([[User talk:83.22.178.143|talk]])
+2020-07-15T18:19:24+00:00,967852595,967852464,0,Bridget,Android 11,Reverted edits by [[Special:Contribs/79.140.12.93|79.140.12.93]] ([[User talk:79.140.12.93|talk]]) to last version by 64.228.135.207
+2020-06-03T08:59:50+00:00,960499982,960489381,0,UKER,Android 11,"Restored projected release date, deleted for unspecified reasons."
+2020-08-02T23:59:51+00:00,970887484,970288140,0,Seasider53,Android 11,/* History */
+2020-08-13T11:13:46+00:00,972694326,971997507,0,WikiCleanerBot,Android 11,v2.03b - [[Wikipedia:Bots/Requests for approval/WikiCleanerBot 19|Bot T19 CW#25]] - [[WP:WCW]] project (Heading hierarchy)
+2020-11-15T16:44:34+00:00,988848399,988321670,0,Tom.Reding,Android 11,[[Category:CS1 errors: empty unknown parameters]]; [[WP:GenFixes]] on
+2020-05-26T15:32:45+00:00,958976394,958976324,0,73.85.5.212,Android 11,
+2021-01-23T11:35:40+00:00,1002220699,1001563236,0,Urbanoc,Android 11,
+2020-05-12T01:26:05+00:00,956197648,955795272,0,2601:143:8003:75F0:F8D9:2784:792:1AA9,Android 11,
+2020-10-16T12:52:56+00:00,983822345,983795990,0,Kajjul,Android 11,/* History */Improved the grammar a little bit.
+2021-02-28T10:13:03+00:00,1009394609,1008751687,0,Jon2guevarra,Android 11,/* Features */
+2020-10-13T19:52:41+00:00,983357888,983139933,0,50.224.51.210,Android 11,/* Privacy and security */ Apparently a proper noun
+2020-08-20T17:53:00+00:00,974029167,974022083,0,2601:18D:4A80:EAA0:3CD1:77C6:2916:B199,Android 11,
+2020-06-10T18:54:49+00:00,961849570,961848107,0,UKER,Android 11,/* History */
+2020-11-06T15:51:02+00:00,987367760,987266238,0,Hans Stream,Android 11,/* Android 11 */ Minor edit
+2020-10-06T11:01:29+00:00,982135679,982134917,0,189.158.250.198,Android 11,/* External links */add missing asterisk
+2020-07-30T12:24:34+00:00,970288140,969772624,0,142.162.115.33,Android 11,/* Android Seamless Updates */
+2020-11-02T13:01:58+00:00,986695575,985637322,0,BOO109,Android 11,Released version
+2020-07-09T18:28:46+00:00,966874479,966853938,0,Arjayay,Android 11,Duplicate word removed
+2020-05-08T12:28:30+00:00,955549566,955334362,0,Aquemarina,Android 11,
+2021-01-03T19:38:32+00:00,998090907,997900722,0,Monkbot,Android 11,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 31 templates: hyphenate params (4×); del |url-status= (1×);
+2021-09-08T14:04:18+00:00,1043130750,1043130704,0,2603:7000:C702:FBB1:A55C:BAF2:EBF3:D2B3,Android 11,
+2021-03-14T03:48:46+00:00,1012018128,1011666909,0,Jnss98b,Android 11,Using the actual android version logo inline with past android versions
+2021-04-28T14:33:58+00:00,1020333156,1020332920,0,102.115.173.145,Android 12,
+2020-10-05T23:04:15+00:00,982058620,981410582,0,2601:8B:C380:56A0:E0F6:BE20:3861:F428,Android Cupcake,
+2021-05-20T23:15:19+00:00,1024239184,1024034043,0,2405:201:C00D:804:4D5F:FD44:8BF0:5F06,Android 12,/* Android 12 */
+2020-10-24T13:01:20+00:00,985179949,985167871,0,189.153.50.125,Android Cupcake,"Undid revision 985167871 by [[Special:Contributions/Jan-lawrence-the-fandom-boi|Jan-lawrence-the-fandom-boi]] ([[User talk:Jan-lawrence-the-fandom-boi|talk]]) - 'Unsupported' is used elsewhere, e.g [[iOS 5]] and [[Android version history]]"
+2020-03-29T05:41:55+00:00,947921716,936861641,0,47.30.142.57,Android Cupcake,
+2020-09-03T18:06:57+00:00,976569949,971977746,0,190.232.74.220,Android Cupcake,
+2021-01-14T11:12:16+00:00,1000263949,997901497,0,Monkbot,Android Cupcake,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 3 templates: hyphenate params (3×);
+2020-07-07T11:29:28+00:00,966486791,966167567,0,Cepeli,Android Cupcake,"Reverted to revision 936846520 by [[Special:Contributions/182.71.244.226|182.71.244.226]] ([[User talk:182.71.244.226|talk]]): Not 'the' android, and version number is already mentioned. ([[WP:TW|TW]])"
+2020-08-09T13:14:59+00:00,971977746,967998701,0,70.15.91.96,Android Cupcake,
+2020-10-24T12:59:34+00:00,985179755,985167849,0,189.153.50.125,Android Donut,"Undid revision 985167849 by [[Special:Contributions/Jan-lawrence-the-fandom-boi|Jan-lawrence-the-fandom-boi]] ([[User talk:Jan-lawrence-the-fandom-boi|talk]]) - 'Unsupported' is used elsewhere, e.g [[iOS 5]] and [[Android version history]]"
+2020-07-07T11:26:07+00:00,966486376,966167755,0,Cepeli,Android Donut,grammar
+2020-09-29T17:23:00+00:00,980992141,980992047,0,Paleontologist99,Android Donut,
+2021-01-13T09:55:28+00:00,1000057101,997901636,0,2600:1700:CBD1:3E0:1DFA:FD99:F240:5293,Android Donut,
+2021-01-14T03:16:01+00:00,1000208008,997900837,0,Monkbot,Android Eclair,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 6 templates: hyphenate params (8×);
+2020-12-20T12:28:21+00:00,995324612,985179755,0,The RedBurn,Android Donut,+Features
+2020-07-07T11:22:38+00:00,966485927,966168080,0,Cepeli,Android Eclair,"Undid revision 966168080 by [[Special:Contributions/49.145.132.180|49.145.132.180]] ([[User talk:49.145.132.180|talk]]) not 'the' android, and version number is already mentioned."
+2020-07-16T16:00:16+00:00,967998707,967997585,0,Adam9007,Android Eclair,Reverted edits by [[Special:Contribs/212.178.4.2|212.178.4.2]] ([[User talk:212.178.4.2|talk]]) to last version by Tijmen Wil
+2021-01-02T20:06:58+00:00,997900781,995324443,0,Poweroffriendship,Android Froyo,/* Features */
+2021-07-11T16:47:00+00:00,1033104577,1033051953,0,SporkBot,Android Froyo,Repair [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]]
+2020-10-24T12:56:49+00:00,985179453,985167802,0,189.153.50.125,Android Froyo,"Undid revision 985167802 by [[Special:Contributions/Jan-lawrence-the-fandom-boi|Jan-lawrence-the-fandom-boi]] ([[User talk:Jan-lawrence-the-fandom-boi|talk]]) - 'Unsupported' is used elsewhere, e.g [[iOS 5]] and [[Android version history]]"
+2020-09-18T00:50:31+00:00,978969430,971978141,0,24.177.244.86,Android Froyo,
+2020-08-09T13:18:17+00:00,971978141,967998710,0,70.15.91.96,Android Froyo,
+2020-05-02T08:52:37+00:00,954418539,949233999,0,Tirock42,Android Gingerbread,
+2020-04-05T09:35:34+00:00,949233999,931918250,0,AndroidNerd123,Android Gingerbread,
+2020-10-30T12:46:48+00:00,986205138,986205040,0,31.29.193.109,Android Gingerbread,
+2020-07-07T11:21:25+00:00,966485774,966168515,0,Cepeli,Android Gingerbread,"Undid revision 966168515 by [[Special:Contributions/49.145.132.180|49.145.132.180]] ([[User talk:49.145.132.180|talk]]) not 'the' android, and version number is already mentioned."
+2020-08-13T07:06:32+00:00,972661315,972661263,0,Serols,Android Gingerbread,Reverted edits by [[Special:Contribs/107.77.161.8|107.77.161.8]] ([[User talk:107.77.161.8|talk]]) to last version by Maxaline Medium
+2020-08-28T18:01:18+00:00,975468682,972661315,0,157.43.242.247,Android Gingerbread,/* Android Gingerbread */
+2020-10-24T12:55:00+00:00,985179242,985167679,0,189.153.50.125,Android Honeycomb,"Undid revision 985167679 by [[Special:Contributions/Jan-lawrence-the-fandom-boi|Jan-lawrence-the-fandom-boi]] ([[User talk:Jan-lawrence-the-fandom-boi|talk]]) - 'Unsupported' is used elsewhere, e.g [[iOS 5]] and [[Android version history]]"
+2021-07-06T06:35:02+00:00,1032230822,1014830381,0,178.88.62.65,Android Honeycomb,
+2020-12-20T12:25:37+00:00,995324303,985179242,0,The RedBurn,Android Honeycomb,/* Features */ +see also
+2020-05-04T01:11:57+00:00,954733015,954418407,0,San Jae Jung,Android Honeycomb,→features : fixed vandalism
+2020-04-12T23:47:42+00:00,950607789,949658459,0,2400:AC40:89E:780A:D5C:5010:70EA:483B,Android Honeycomb,
+2021-01-02T20:03:00+00:00,997900036,995324303,0,Poweroffriendship,Android Honeycomb,
+2020-06-06T01:11:38+00:00,960988208,958405995,0,Cweisberg,Android Ice Cream Sandwich,/* Android Ice Cream Sandwich */ Added clarification
+2020-07-22T20:20:25+00:00,969003702,969003619,0,Naypta,Android Ice Cream Sandwich,Reverted edits by [[Special:Contribs/185.206.36.193|185.206.36.193]] ([[User talk:185.206.36.193|talk]]) to last version by Adam9007
+2020-07-16T16:00:19+00:00,967998719,967997573,0,Adam9007,Android Ice Cream Sandwich,Reverted edits by [[Special:Contribs/212.178.4.2|212.178.4.2]] ([[User talk:212.178.4.2|talk]]) to last version by Tijmen Wil
+2020-09-29T17:26:24+00:00,980992726,972206986,0,Paleontologist99,Android Ice Cream Sandwich,
+2020-05-23T16:34:01+00:00,958405995,955997493,0,2A02:C7F:3E75:E400:94F:4321:770:C729,Android Ice Cream Sandwich,It said ninth but the ninth OS is Android Pie not Android Ice Cream Sandwich.
+2020-02-20T03:44:56+00:00,941697189,938444218,0,DemonDays64 Bot,Android Jelly Bean,HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])
+2020-09-29T17:28:08+00:00,980992985,978233820,0,Paleontologist99,Android Jelly Bean,
+2021-01-02T20:03:45+00:00,997900165,995324116,0,Poweroffriendship,Android Jelly Bean,/* Features */
+2020-07-25T17:11:42+00:00,969474692,969472623,0,Adam9007,Android Jelly Bean,Reverted edits by [[Special:Contribs/79.140.12.6|79.140.12.6]] ([[User talk:79.140.12.6|talk]]) to last version by Aranya
+2020-12-20T12:24:19+00:00,995324116,995246647,0,The RedBurn,Android Jelly Bean,/* Features */ +see also
+2020-03-28T16:31:09+00:00,947809070,947292700,0,GeneralNotability,Android KitKat,Reverted 1 edit by [[Special:Contributions/2409:4063:4104:FB2E:C4F5:A27F:FE9:79CD|2409:4063:4104:FB2E:C4F5:A27F:FE9:79CD]] ([[User talk:2409:4063:4104:FB2E:C4F5:A27F:FE9:79CD|talk]]): Spam ([[WP:TW|TW]])
+2020-06-04T21:58:33+00:00,960783843,947809070,0,NickW1129,Android KitKat,Updated as of value for amount of devices using android kitkat this year.
+2020-07-15T18:19:14+00:00,967852562,967852499,0,Bridget,Android KitKat,Reverted edits by [[Special:Contribs/79.140.12.93|79.140.12.93]] ([[User talk:79.140.12.93|talk]]) to last version by Oshwah
+2020-09-03T18:05:38+00:00,976569771,976568377,0,190.232.74.220,Android KitKat,/* See also */
+2020-11-16T18:33:42+00:00,989039413,985270172,0,Danpengui,Android KitKat,Updated Android Kitkat until October.
+2021-01-10T06:40:02+00:00,999449783,999449692,0,49ersBelongInSanFrancisco,Android KitKat,Reverted 1 edit by [[Special:Contributions/Yodogwhatsup|Yodogwhatsup]] ([[User talk:Yodogwhatsup|talk]]) to last revision by ClueBot NG
+2020-10-13T19:13:01+00:00,983352378,983352182,0,Danpengui,Android Lollipop,Updated information until September.
+2020-07-07T11:17:29+00:00,966485250,966169262,0,Cepeli,Android Lollipop,Undid revision 966169262 by [[Special:Contributions/49.145.132.180|49.145.132.180]] ([[User talk:49.145.132.180|talk]]) not '''the''' android
+2020-12-21T07:20:38+00:00,995482428,995323953,0,117.230.29.109,Android Lollipop,Version 10
+2020-04-01T11:36:38+00:00,948502189,947040259,0,81.156.186.127,Android Lollipop,
+2020-11-16T18:52:14+00:00,989042157,989042076,0,Danpengui,Android Lollipop,
+2020-08-11T14:06:07+00:00,972336593,972336561,0,188.115.186.138,Android Lollipop,Undid revision 972336561 by [[Special:Contributions/188.115.186.138|188.115.186.138]] ([[User talk:188.115.186.138|talk]])
+2020-10-09T11:48:15+00:00,982639040,982523195,0,189.153.50.125,Android Lollipop,"change support status to 'Unsupported' in the infobox, because the parameter refers to whether the OS still receives updates - not 'third-party application support'. And the 'Support (security fixes)' column on [[Android_version_history#Overview]] simply states 'No' (for unsupported) too"
+2020-09-03T19:53:14+00:00,976584621,976567663,0,190.232.74.220,Android Lollipop,
+2020-09-29T17:34:56+00:00,980993975,976584621,0,Paleontologist99,Android Lollipop,
+2020-09-29T17:36:51+00:00,980994229,976683936,0,Paleontologist99,Android Marshmallow,
+2020-12-20T12:22:16+00:00,995323872,992839475,0,The RedBurn,Android Marshmallow,/* Features */ +see also
+2021-01-02T20:04:59+00:00,997900393,997072347,0,Poweroffriendship,Android Marshmallow,/* Features */
+2021-04-05T02:02:25+00:00,1016038052,1014830707,0,CommonsDelinker,Android Marshmallow,Removing [[:c:File:Android_Marshmallow_Logo.svg|Android_Marshmallow_Logo.svg]]; it has been deleted from Commons by [[:c:User:Magog the Ogre|Magog the Ogre]] because: Mass deletion of pages added by [[:c:Special:Contributions/Haideronwiki|Haideronwiki]]:
+2020-07-30T10:15:41+00:00,970275768,970246592,0,Wire723,Android Marshmallow,Revert 117.196.248.184
+2020-07-05T15:52:32+00:00,966184067,966169381,0,Cepeli,Android Marshmallow,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/49.145.132.180|49.145.132.180]] ([[User talk:49.145.132.180|talk]]): It isn't called ''the'' Android 6 ([[WP:TW|TW]])
+2021-01-02T20:05:18+00:00,997900451,996951646,0,Poweroffriendship,Android Nougat,/* Features */
+2020-11-16T18:53:59+00:00,989042452,985178083,0,Danpengui,Android Marshmallow,Updated Android Marshmallow until October.
+2020-06-22T09:55:44+00:00,963880639,963207338,0,Cepeli,Android Marshmallow,Added source to unsupported-ness
+2020-07-15T18:19:20+00:00,967852582,967852484,0,Bridget,Android Nougat,Reverted edits by [[Special:Contribs/79.140.12.93|79.140.12.93]] ([[User talk:79.140.12.93|talk]]) to last version by Tijmen Wil
+2020-06-06T11:00:45+00:00,961056955,961056851,0,2402:D000:A200:1D32:A9BC:71B8:AA96:91CC,Android Nougat,/* Reception */
+2021-01-19T01:16:13+00:00,1001286266,1001243702,0,MrOllie,Android Nougat,Reverted 2 edits by [[Special:Contributions/2607:FEA8:D1A1:6710:1D11:1642:52DC:CA9F|2607:FEA8:D1A1:6710:1D11:1642:52DC:CA9F]] ([[User talk:2607:FEA8:D1A1:6710:1D11:1642:52DC:CA9F|talk]]) to last revision by Poweroffriendship
+2020-11-16T18:58:59+00:00,989043219,989042808,0,Danpengui,Android Nougat,
+2020-04-28T18:13:42+00:00,953717842,949582244,0,209.87.29.201,Android Oreo,
+2020-08-09T13:35:01+00:00,971979966,971201153,0,70.15.91.96,Android Oreo,
+2020-12-20T12:20:34+00:00,995323678,994556254,0,The RedBurn,Android Oreo,/* Features */ +see also
+2020-09-21T08:50:31+00:00,979534153,979534068,0,Carolina2k22,Android Oreo,Reverted 1 edit by [[Special:Contributions/Natasha adongo|Natasha adongo]] ([[User talk:Natasha adongo|talk]]) to last revision by Dylsss
+2020-09-29T17:37:55+00:00,980994381,979534153,0,Paleontologist99,Android Oreo,
+2021-02-08T13:00:40+00:00,1005588199,1004474950,0,Haleth,Android Oreo,
+2020-08-25T16:54:50+00:00,974892587,974888557,0,J. M.,Android Oreo,Stack Overflow [[WP:RS|can not]] be used as a source on Wikipedia
+2020-10-13T19:21:20+00:00,983353564,983350445,0,Danpengui,Android Oreo,Updated information until September.
+2020-10-13T19:25:21+00:00,983354207,983065761,0,Danpengui,Android Pie,Updated information until September.
+2020-12-20T12:18:18+00:00,995323408,993021435,0,The RedBurn,Android Pie,/* Features */ +see also
+2020-11-24T14:10:07+00:00,990440527,989043578,0,39.41.248.77,Android Pie,
+2020-09-11T02:28:46+00:00,977802593,976565461,0,Cloudream,Android Pie,Update latest version to 9.0.0_r60
+2020-07-14T11:59:54+00:00,967638215,967638034,0,DB1729,Android Pie,Reverted 2 edits by [[Special:Contributions/79.140.12.93|79.140.12.93]] ([[User talk:79.140.12.93|talk]]): [[Googol]] is the number. It was eveloped by [[Google]]. ([[WP:TW|TW]])
+2020-08-09T15:31:36+00:00,971994417,971990810,0,Serols,Android Pie,Reverted edits by [[Special:Contributions/212.178.10.165|212.178.10.165]] ([[User talk:212.178.10.165|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2020-11-16T19:01:34+00:00,989043578,987198773,0,Danpengui,Android Pie,Updated Android Pie until October.
+2020-06-20T06:36:13+00:00,963517117,963207544,0,Animadversor,Android Pie,/* Android Pie */ Corrected register.
+2020-05-25T09:32:01+00:00,958710349,958709970,0,Tirock42,Android Pie,
+2021-04-17T13:17:55+00:00,1018325974,1018300407,0,The RedBurn,Android version history,/* Android 10 */ +ref
+2021-01-12T18:35:47+00:00,999939277,999059194,0,24.184.159.192,Android version history,
+2020-04-23T19:36:33+00:00,952724944,952699937,0,Robertsky,Android version history,Reverted 3 pending edits by [[Special:Contributions/2.123.196.200|2.123.196.200]] and [[Special:Contributions/2A02:C7D:69E3:ED00:F510:D46:BFF4:AB84|2A02:C7D:69E3:ED00:F510:D46:BFF4:AB84]] to revision 951526072 by DemonDays64 Bot
+2020-05-22T19:41:53+00:00,958258480,958250687,0,Hillelfrei,Android version history,Reverted 1 pending edit by [[Special:Contributions/2405:205:C84D:D588:5CF4:4E17:963D:FE7C|2405:205:C84D:D588:5CF4:4E17:963D:FE7C]] to revision 958227467 by Lucianojs: disruption of refs
+2021-03-28T14:58:26+00:00,1014683876,1014557523,0,Emir of Wikipedia,Android version history,"fixed [[Template:Broken ref/cite error list|10x extra whitespace in citation (url= ), 8x extra whitespace in citation (url =), 6x extra whitespace in citation ( url= ), 5x extra whitespace in citation ( url=), invalid ref position]] using [[User:TheJJJunk/ARA|ARA]]"
+2020-11-25T00:37:16+00:00,990529807,990529716,0,Mikeblas,Android version history,remove empty ref tag
+2021-05-14T16:44:11+00:00,1023144352,1022140869,0,108.171.16.246,BIOS,Fixed missing parenthesis
+2021-01-28T10:06:47+00:00,1003302053,1003301985,0,Babegriev,BIOS,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/37.111.0.252|37.111.0.252]] ([[User talk:37.111.0.252|talk]])
+2020-12-06T11:30:43+00:00,992649432,992437731,0,WikiCleanerBot,BIOS,v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)
+2020-04-22T21:44:33+00:00,952558423,952456000,0,Peter Flass,BIOS,Undid revision 952456000 by [[Special:Contributions/2409:4043:2205:9836:3101:EEAF:FF5:7691|2409:4043:2205:9836:3101:EEAF:FF5:7691]] ([[User talk:2409:4043:2205:9836:3101:EEAF:FF5:7691|talk]]) rv accidental delete of =
+2020-08-25T16:12:22+00:00,974886936,968598099,0,212.42.163.49,BIOS,shortcomings is a value judgement.
+2021-04-11T04:32:51+00:00,1017155686,1016443344,0,Wtshymanski,BIOS,unexplained alteration of link Undid revision 1016443344 by [[Special:Contributions/2400:1A00:B050:3DB0:DC90:B2B6:D0F6:271A|2400:1A00:B050:3DB0:DC90:B2B6:D0F6:271A]] ([[User talk:2400:1A00:B050:3DB0:DC90:B2B6:D0F6:271A|talk]])
+2021-07-26T20:43:02+00:00,1035636151,1034112210,0,UserTwoSix,BIOS,"Changing [[Wikipedia:Short description|short description]] from ""Firmware"" to ""Firmware for hardware initialization and OS runtime services"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-04-13T13:51:19+00:00,1017564323,1016791983,0,ASpacemanFalls,Google,/* 2012 onward */ Added mention of Project Bernanke
+2020-07-05T15:49:58+00:00,966183644,965221928,0,Wall03,Google,Changed wording to better reflect the DeGoogle movement.
+2020-09-13T14:44:36+00:00,978203873,978202665,0,Nemo bis,Google,"/* Web-based services */ better source, npov"
+2020-07-30T08:30:52+00:00,970265799,970265742,0,Abishe,Google,/* = Monopoly allegations */ ce
+2020-07-14T13:14:36+00:00,967647847,967605798,0,A Malteser,Google,update fiber cable Curie status - was completed in November 2019
+2021-08-22T08:25:51+00:00,1040038674,1039310699,0,Antoine Legrand,Google,"/* External links */ adding ""Corporate homepage"" archive link (url-status=dead)"
+2021-04-02T19:42:42+00:00,1015664912,1014473153,0,Awesome Aasim,Google,Added {{[[Template:Merge from|Merge from]]}} tag
+2021-04-01T17:22:44+00:00,1015469201,1015468898,0,2A03:F80:32:194:71:227:81:1,Google logo,Undid revision 1015468898 by [[Special:Contributions/92.97.78.115|92.97.78.115]] ([[User talk:92.97.78.115|talk]])
+2020-03-29T21:46:11+00:00,948047089,947004982,0,DannyS712,Google logo,Fixing the location of periods / full stops
+2021-01-18T16:17:49+00:00,1001183640,1000678418,0,Cósmico,Google logo,/* Favicon */
+2020-07-29T03:35:20+00:00,970079590,970077610,0,Dialectric,Google logo,Undid revision 970077610 by [[Special:Contributions/180.241.11.222|180.241.11.222]] ([[User talk:180.241.11.222|talk]]) not an improvement
+2020-12-20T00:30:59+00:00,995247940,992500474,0,Monkbot,Google logo,[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 22 templates: del empty params (11×); hyphenate params (16×); del |url-status= (1×);
+2021-02-23T02:21:47+00:00,1008391543,1008390911,0,Tol,Google logo,Reverted 1 edit by [[Special:Contributions/203.135.22.198|203.135.22.198]] ([[User talk:203.135.22.198|talk]]) to last revision by Somerandomuser
+2021-04-13T21:03:39+00:00,1017633466,1017252147,0,Ajshul,Google logo,added link to spoken wikipedia recording
+2020-05-20T05:05:16+00:00,957709601,957709537,0,AquariRajan282011,Google logo,/* Favicon */
+2021-08-14T10:12:54+00:00,1038727661,1038727486,0,Denisarona,Microsoft Word,Undid revision 1038727486 by [[Special:Contributions/39.41.103.121|39.41.103.121]] ([[User talk:39.41.103.121|talk]]) - unsourced
+2021-04-09T12:18:54+00:00,1016852826,1016851996,0,Timalean,Microsoft Word,
+2020-06-15T07:21:46+00:00,962645438,962645270,0,TheImaCow,Microsoft Word,Rollback edit(s) by [[Special:Contributions/5.193.4.47|5.193.4.47]] ([[User_talk:5.193.4.47|talk]]) to rev. 962470205 by Rodw: [[WP:VANDAL|Vandalism]] [[WP:REDWARN|(RedWarn rev14)]]
+2021-07-06T01:51:04+00:00,1032199116,1031948193,0,2A02:810C:C1BF:D300:709C:A08E:D0E0:DF0A,Microsoft Word,"/* Filename extensions */Removed Microsoft PR: An important filter does not constitute ""using"" the file format, that's misleading. The ""growing number"" is completely uncited and PR."
+2020-08-18T12:05:12+00:00,973649001,973648628,0,Theinstantmatrix,Microsoft Word,Reverted edits by [[Special:Contribs/Studyeducationm11288|Studyeducationm11288]] ([[User talk:Studyeducationm11288|talk]]) to last version by FrescoBot
+2020-06-21T21:37:17+00:00,963801468,962241252,0,Levixius,Google logo,
+2020-10-13T10:08:53+00:00,983281503,983272732,0,JPxG,Google logo,Reverted edits by [[Special:Contribs/2401:4900:51CF:287A:8FA3:E97B:29C4:D978|2401:4900:51CF:287A:8FA3:E97B:29C4:D978]] ([[User talk:2401:4900:51CF:287A:8FA3:E97B:29C4:D978|talk]]) to last version by ClueBot NG
+2020-04-15T06:19:27+00:00,951048532,951033526,0,Zac67,Microsoft Word,Reverted 1 edit by [[Special:Contributions/27.33.203.159|27.33.203.159]] ([[User talk:27.33.203.159|talk]]) to last revision by PrisonerB ([[WP:TW|TW]])
+2021-08-23T00:59:09+00:00,1040168830,1040168773,0,Trental,Microsoft Word,Reverted 1 edit by [[Special:Contributions/68.57.120.54|68.57.120.54]] ([[User talk:68.57.120.54|talk]]) to last revision by Denisarona
+2020-11-06T00:52:20+00:00,987278806,986480000,0,2A02:C7F:18F0:5700:8D8A:B462:8C56:F2AC,Mineplex,Mineplex is no longer co-owned by Caleb Applegate
+2021-07-16T13:33:21+00:00,1033889880,1032199116,0,Shantavira,Microsoft Word,deleted section per [[WP:YOU]] and [[WP:NOTHOWTO]]
+2020-06-03T20:31:24+00:00,960594983,960590043,0,Npthura,Mineplex,
+2020-10-14T17:38:12+00:00,983514225,975723301,0,89.212.203.210,Mineplex,/* History */
+2021-03-07T10:59:24+00:00,1010796067,1010774337,0,Hellknowz,Mineplex,Restored revision 1008941938 by [[Special:Contributions/Belwine|Belwine]] ([[User talk:Belwine|talk]]): Those are not paltforms
+2021-06-10T13:33:26+00:00,1027868333,1026632537,0,Ionmars10,Mineplex,"clean up, [[WP:AWB/T|typo(s) fixed]]: January 28, 2015 → January 28, 2015, (2), heavily- → heavily"
+2020-04-02T23:02:15+00:00,948771307,948770925,0,Ferret,Mojang Studios,Reverted 1 edit by [[Special:Contributions/2605:6000:101C:C0B6:CD21:6AB5:C880:21D2|2605:6000:101C:C0B6:CD21:6AB5:C880:21D2]] ([[User talk:2605:6000:101C:C0B6:CD21:6AB5:C880:21D2|talk]]) to last revision by CycloneYoris ([[WP:TW|TW]])
+2021-04-16T00:17:43+00:00,1018042117,1017352897,0,ConstructorRob18,Mojang Studios,minecraft dungeons
+2020-10-27T18:51:38+00:00,985748616,984235764,0,2601:601:D07F:FE75:DC14:D293:6CE1:17E2,Paul Allen,
+2021-08-13T21:31:19+00:00,1038653155,1035633561,0,Lazz R,Mojang Studios,IPA
+2020-06-15T03:58:31+00:00,962625550,960403179,0,Landingdude13,Paul Allen,/* External links */ r/m
+2020-07-16T14:35:16+00:00,967987992,967987218,0,Joey1niner,Paul Allen,not necessary in infobox
+2020-04-30T15:53:29+00:00,954082507,953958062,0,Arjayay,Paul Allen,Duplicate word removed
+2020-12-07T19:49:06+00:00,992913459,991542165,0,Joey1niner,Paul Allen,restored past well-referenced info
+2021-02-03T21:37:26+00:00,1004687077,1004105852,0,TPalkovitz,Paul Allen,/* Awards and recognition */ lowercase
+2021-06-24T18:24:19+00:00,1030236677,1030236647,0,Uranium Site,Sandbox game,Reverted 1 edit by [[Special:Contributions/CYBERBOY11|CYBERBOY11]] ([[User talk:CYBERBOY11|talk]]) to last revision by ClueBot NG
+2019-03-19T20:10:04+00:00,888539502,874249673,0,37.214.85.43,Sandbox game,It isn't just Openworld AT ALL.
+2020-07-06T21:55:02+00:00,966397780,964720099,0,IznoRepeat,Sandbox game,"replace soft-deprecated editors parameter, rm ref=harv as applic., gen fixes, misc cite cleaning"
+2020-11-03T00:52:31+00:00,986789218,986151234,0,14.192.212.197,Sandbox game,Capital
+2021-02-05T03:43:03+00:00,1004931156,1004331332,0,Benmite,Talk:Google,
+2020-10-04T01:03:33+00:00,981715936,981709649,0,ZimZalaBim,Talk:Google,Reverted 2 edits by [[Special:Contributions/188.108.172.6|188.108.172.6]] ([[User talk:188.108.172.6|talk]]) to last revision by Lowercase sigmabot III
+2021-05-25T13:42:51+00:00,1025056168,1025055513,0,Chipmunkdavis,Talk:Google,Reverted edits by [[Special:Contribs/Jaskaranq|Jaskaranq]] ([[User talk:Jaskaranq|talk]]) to last version by Ianmacm
+2020-07-20T01:42:01+00:00,968546925,966397780,0,Grayfell,Sandbox game,/* History */  Poorly attributed opinion supported by unreliable source.
+2020-04-20T01:28:10+00:00,951994122,951981603,0,Lowercase sigmabot III,Talk:Google,Archiving 2 discussion(s) to [[Talk:Google/Archive 4]]) (bot
+2020-08-06T21:38:40+00:00,971555311,970274874,0,Xwang2182,Talk:Google,Update [[Wikipedia:Wiki_Ed/New_York_University/Research_Process_and_Methodology_-_RPM_SU_2_2020_(Summer_2)|Research Process and Methodology - RPM SU 2 2020]] assignment details
+2020-09-23T01:48:33+00:00,979832836,979695450,0,Lowercase sigmabot III,Talk:Google,Archiving 2 discussion(s) to [[Talk:Google/Archive 4]]) (bot
+2020-08-17T09:51:03+00:00,973458912,973446749,0,Kashmiri,Talk:Yahoo! Mail,Reverted to revision 969417978 by [[Special:Contributions/Bruce1ee|Bruce1ee]] ([[User talk:Bruce1ee|talk]]): Rv unrelated to Wikipedia ([[WP:TW|TW]])
+2021-06-30T05:15:53+00:00,1031172599,1031172564,0,Dylansh99,User talk:Liz,"/* Deleting Sandbox for ""vandalism"" */"
+2021-08-18T16:47:27+00:00,1039424898,1039398861,0,Mover of molehills,User talk:Liz,/* Isaac Saul */ Reply
+2020-08-27T05:51:05+00:00,975180493,975179865,0,WWGB,User talk:Liz,/* Aftermath of Jacob Blake shooting */ done
+2020-11-29T10:31:57+00:00,991303360,991303291,0,Kartsriv,User talk:Liz,/* Humble request for advice on how to react to low quality articles */
+2020-05-12T20:47:10+00:00,956343652,955382508,0,Michelle2w,User talk:Liz,/* Bert Hesse */
+2021-02-13T20:56:25+00:00,1006613161,1006612329,0,Fences and windows,User talk:Liz,/* User talk deletion */  Thanks for the quick reply and explanation
+2020-08-09T08:02:26+00:00,971950017,971949919,0,SineBot,User talk:Liz,"Signing comment by [[User:Kavyachaudhary555|Kavyachaudhary555]] - ""/* speedy deletion for advertising */ new section"""
+2021-03-22T15:26:46+00:00,1013611136,1013368651,0,ClueBot III,User talk:Rdp060707,Archiving 2 discussions to [[User talk:Rdp060707/Archives/2021/March]]. (BOT)
+2021-02-14T19:16:04+00:00,1006778727,1006505045,0,ClueBot III,User talk:Rdp060707,Archiving 1 discussion to [[User talk:Rdp060707/Archives/2021/February]]. (BOT)
+2021-06-04T08:08:55+00:00,1026791807,1026791566,0,Renamed user 7z42t3k8qj,User talk:Rdp060707,Restored revision 1026781350 by [[Special:Contributions/Rdp060707|Rdp060707]] ([[User talk:Rdp060707|talk]]): Rvv
+2020-10-08T03:56:47+00:00,982436385,982436331,0,Firestar464,User talk:Rdp060707,/* A barnstar for you! */ new WikiLove message
+2020-09-13T07:50:35+00:00,978161001,978160943,0,Telsho,User talk:Rdp060707,/* September 2020 */ Error
+2020-07-24T06:14:31+00:00,969237562,968096555,0,DPL bot,User talk:Rdp060707,dablink notification message (see the [[User:DPL bot/Dablink notification FAQ|FAQ]])
+2021-03-27T19:56:52+00:00,1014558083,1014547527,0,PaleoNeonate,User talk:Zzuuzz/Archive 40,/* Lanza */ re
+2021-05-12T19:06:20+00:00,1022832359,1022822973,0,Laplorfill,User talk:Zzuuzz/Archive 40,/* IP Hopping vandal */ Thanks
+2021-05-05T05:39:36+00:00,1021526222,1021009751,0,49ersBelongInSanFrancisco,User talk:Zzuuzz/Archive 40,Revdel request
+2021-04-16T05:26:33+00:00,1018082337,1018082301,0,MarnetteD,User talk:Zzuuzz/Archive 40,Reverted edits by [[Special:Contribs/Эренцен Джалгаев|Эренцен Джалгаев]] ([[User talk:Эренцен Джалгаев|talk]]) to last version by Outlander07
+2021-05-19T12:54:34+00:00,1023983402,1014360658,0,LooneyTraceYT,User:Chompy Ace,Move to talk page.
+2020-12-29T07:50:03+00:00,996941356,996940999,0,Ianmacm,User:Zzuuzz,Reverted edits by [[Special:Contribs/SperxTrix22|SperxTrix22]] ([[User talk:SperxTrix22|talk]]) to last version by Sro23
+2020-09-26T00:54:40+00:00,980347109,980347079,0,Sro23,User:Zzuuzz,Reverted edits by [[Special:Contribs/Visiting lecturer JP|Visiting lecturer JP]] ([[User talk:Visiting lecturer JP|talk]]) to last version by Sro23
+2021-09-08T12:35:30+00:00,1043118202,1043117657,0,GoatLordServant,User:Zzuuzz,Reverted 1 edit by [[Special:Contributions/HEA42DAVFA|HEA42DAVFA]] ([[User talk:HEA42DAVFA|talk]]) to last revision by Sro23
+2019-04-29T21:57:39+00:00,894766974,894766898,0,Pppery,Wikipedia:Requests for page protection/Increase,Reverted 2 edits by [[Special:Contributions/Pppery|Pppery]] ([[User talk:Pppery|talk]]) ([[WP:TW|TW]])
+2021-08-03T10:49:27+00:00,1036901520,1036901497,0,Cwmhiraeth,Wikipedia:Requests for page protection/Increase,/* Thomas Woods */ Already protected by Materialscientist (using [[User:MusikAnimal/responseHelper|responseHelper]])
+2018-10-12T23:21:03+00:00,863777049,863775264,0,MelanieN,Yahoo,correcting redirect target. The latest edit makes this page point to itself.
+2020-07-11T22:53:45+00:00,967222631,967222556,0,Nkon21,Yahoo! Mail,Reverted edits by [[Special:Contribs/105.112.37.48|105.112.37.48]] ([[User talk:105.112.37.48|talk]]) to last version by SuperGoose007
+2021-08-26T20:17:12+00:00,1040810615,1036671553,0,65.123.151.74,Yahoo! Mail,
+2020-10-13T17:35:48+00:00,983338764,983337689,0,Bruce1ee,Yahoo! Mail,Reverted edits by [[Special:Contribs/Emailaccountguide|Emailaccountguide]] ([[User talk:Emailaccountguide|talk]]) to last version by Emir of Wikipedia
+2020-07-21T08:54:15+00:00,968753510,968749290,0,J. M.,Yahoo! Mail,Reverted edits by [[Special:Contribs/2405:205:1381:A94B:BD8B:C6B1:65EF:34B2|2405:205:1381:A94B:BD8B:C6B1:65EF:34B2]] ([[User talk:2405:205:1381:A94B:BD8B:C6B1:65EF:34B2|talk]]) to last version by Davey2010
+2020-12-03T12:00:11+00:00,992083875,991741197,0,Kuru,Yahoo! Mail,rmv reference to clearly identified wikipedia mirror per [[WP:CIRCULAR]]
+2020-05-31T05:28:22+00:00,959908753,955705408,0,201.138.130.102,Yahoo! Mail,/* 2002–2010 */
+2020-07-08T15:36:03+00:00,966687247,966687150,0,Renamed user a8hd6fjuco,Yahoo! Mail,Reverted edits by [[Special:Contribs/77.204.145.224|77.204.145.224]] ([[User talk:77.204.145.224|talk]]) to last version by 213.67.244.135
+2021-03-04T09:46:27+00:00,1010207317,1010207262,0,Pahunkat,Yahoo! Mail,Rollback edit(s) by [[Special:Contributions/EmailAlertProfile101|EmailAlertProfile101]] ([[User_talk:EmailAlertProfile101|talk]]): [[WP:CRV|Unexplained content removal]] [[w:en:WP:RW|(RW 16)]]

@@ -1,0 +1,273 @@
+timestamp,revid,parentid,sock,user,page,message
+2015-01-21T13:29:48+00:00,643516142,642450452,1,LadyGaga2015,Scooby-Doo! Curse of the Lake Monster,/* Cast */
+2015-01-21T13:28:28+00:00,643516017,642450350,1,LadyGaga2015,Scooby-Doo! The Mystery Begins,/* Cast */
+2015-09-11T15:14:13+00:00,680545899,680543825,1,AgentsOfShieldFan,Heroes Reborn (miniseries),/* Guest stars */
+2015-09-11T14:34:03+00:00,680541223,680510296,1,AgentsOfShieldFan,Agents of S.H.I.E.L.D. season 3,/* Main */
+2015-09-11T09:03:15+00:00,680509449,680509150,1,AgentsOfShieldFan,Agents of S.H.I.E.L.D. season 3,
+2015-09-11T08:59:31+00:00,680509150,680459997,1,AgentsOfShieldFan,Agents of S.H.I.E.L.D. season 3,/* Main */
+2016-07-09T06:26:59+00:00,729010769,728947341,1,AgentsOfShieldFan2016,Agents of S.H.I.E.L.D.,/* Premise */
+2015-08-08T11:53:34+00:00,675127434,666227771,1,BATMANFAN2015,The New Batman Adventures,/* Antagonists */
+2015-08-07T15:59:20+00:00,675006875,675006735,1,BATMANFAN2015,Batman: The Animated Series,/* Antagonists */
+2015-08-07T15:58:06+00:00,675006735,674124513,1,BATMANFAN2015,Batman: The Animated Series,/* Protagonists */
+2015-02-03T15:23:43+00:00,645461794,645419964,1,GailJones2015,Agents of S.H.I.E.L.D. season 1,/* Cast and characters */
+2015-02-03T15:21:01+00:00,645461482,645461206,1,GailJones2015,Agents of S.H.I.E.L.D.,/* Cast and characters */
+2015-02-03T15:18:25+00:00,645461206,645250893,1,GailJones2015,Agents of S.H.I.E.L.D.,/* Premise */
+2015-02-02T03:10:48+00:00,645251185,645251173,1,GloriaGaynor2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-02-02T03:09:48+00:00,645251109,645251038,1,GloriaGaynor2015,Agents of S.H.I.E.L.D. season 2,
+2015-02-02T03:08:47+00:00,645251036,645250919,1,GloriaGaynor2015,Agents of S.H.I.E.L.D. season 2,
+2015-02-02T03:07:20+00:00,645250919,644682940,1,GloriaGaynor2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-02-02T03:05:38+00:00,645250789,645147885,1,GloriaGaynor2015,Agents of S.H.I.E.L.D. season 1,/* Cast and characters */
+2015-02-02T03:02:14+00:00,645250570,645250559,1,GloriaGaynor2015,Agents of S.H.I.E.L.D.,/* Cast and characters */
+2015-02-02T03:00:37+00:00,645250451,645083048,1,GloriaGaynor2015,Agents of S.H.I.E.L.D.,/* Premise */
+2015-01-22T03:43:21+00:00,643617981,643341408,1,Kelly_ripa2015,Agents of S.H.I.E.L.D. season 2,/* Cast and characters */
+2015-01-22T03:38:35+00:00,643617273,643340350,1,Kelly_ripa2015,Agents of S.H.I.E.L.D. season 1,/* Cast and characters */
+2015-01-22T03:33:46+00:00,643616553,643616226,1,Kelly_ripa2015,Agents of S.H.I.E.L.D.,/* Cast and characters */
+2015-01-22T03:31:44+00:00,643616226,643479195,1,Kelly_ripa2015,Agents of S.H.I.E.L.D.,/* Premise */
+2015-01-23T12:23:16+00:00,643811842,643811769,1,LadyGloria2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-01-23T12:22:17+00:00,643811769,643811725,1,LadyGloria2015,Agents of S.H.I.E.L.D. season 2,
+2015-01-23T12:21:10+00:00,643811692,643811683,1,LadyGloria2015,Agents of S.H.I.E.L.D. season 2,
+2015-01-23T12:20:15+00:00,643811615,643811493,1,LadyGloria2015,Agents of S.H.I.E.L.D. season 2,
+2015-01-23T12:18:40+00:00,643811493,643751017,1,LadyGloria2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-01-23T12:16:32+00:00,643811347,643811252,1,LadyGloria2015,Agents of S.H.I.E.L.D. season 1,
+2015-01-23T12:15:05+00:00,643811252,643751019,1,LadyGloria2015,Agents of S.H.I.E.L.D. season 1,/* Main */
+2015-01-23T12:12:56+00:00,643811108,643810938,1,LadyGloria2015,Agents of S.H.I.E.L.D.,/* Cast and characters */
+2015-01-23T12:10:05+00:00,643810936,643751007,1,LadyGloria2015,Agents of S.H.I.E.L.D.,/* Premise */
+2015-01-23T01:05:02+00:00,643750521,643618394,1,LadyGloria2015,Agents of S.H.I.E.L.D. season 2,/* Cast and characters */
+2015-01-23T01:01:16+00:00,643750036,643617493,1,LadyGloria2015,Agents of S.H.I.E.L.D. season 1,/* Cast and characters */
+2015-01-23T00:58:47+00:00,643749723,643625751,1,LadyGloria2015,Agents of S.H.I.E.L.D.,
+2015-06-21T15:54:05+00:00,667945573,667945290,1,MarvelFan2015,Daredevil (TV series),
+2015-06-21T15:52:20+00:00,667945290,667822058,1,MarvelFan2015,Daredevil (TV series),/* Cast and characters */
+2015-01-23T18:51:05+00:00,643853310,643812007,1,Mc-Hammer2015,Agents of S.H.I.E.L.D. season 2,/* Cast and characters */
+2015-01-23T18:45:26+00:00,643852711,643819257,1,Mc-Hammer2015,Agents of S.H.I.E.L.D. season 1,/* Cast and characters */
+2015-01-23T18:42:46+00:00,643852419,643852246,1,Mc-Hammer2015,Agents of S.H.I.E.L.D.,/* Cast and characters */
+2015-01-23T18:41:29+00:00,643852246,643847292,1,Mc-Hammer2015,Agents of S.H.I.E.L.D.,/* Premise */
+2015-07-27T00:06:19+00:00,673226760,673226412,1,PixlesFan2015,Star Wars: The Clone Wars (2008 TV series),/* Guest */
+2015-07-27T00:03:09+00:00,673226398,673225985,1,PixlesFan2015,Star Wars: The Clone Wars (2008 TV series),/* Recurring */
+2015-07-26T23:59:59+00:00,673225985,672351458,1,PixlesFan2015,Star Wars: The Clone Wars (2008 TV series),/* Main */
+2015-07-31T21:47:00+00:00,673993522,673993315,1,SHIELDAvengers2015,Agents of S.H.I.E.L.D. season 3,
+2015-07-31T21:45:23+00:00,673993315,673993231,1,SHIELDAvengers2015,Agents of S.H.I.E.L.D. season 3,
+2015-07-31T21:44:44+00:00,673993231,673874290,1,SHIELDAvengers2015,Agents of S.H.I.E.L.D. season 3,/* Main */
+2015-03-12T03:55:11+00:00,650998302,650994796,1,SSRGirl2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-03-12T03:07:59+00:00,650994519,650994369,1,SSRGirl2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-03-12T03:06:12+00:00,650994369,650994252,1,SSRGirl2015,Agents of S.H.I.E.L.D. season 2,
+2015-03-12T03:05:04+00:00,650994251,650994161,1,SSRGirl2015,Agents of S.H.I.E.L.D. season 2,
+2015-03-12T03:03:53+00:00,650994161,650990354,1,SSRGirl2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-03-12T00:35:28+00:00,650978084,650977895,1,SSRGirl2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-03-12T00:33:57+00:00,650977895,650977693,1,SSRGirl2015,Agents of S.H.I.E.L.D. season 2,
+2015-03-12T00:19:41+00:00,650976120,650960493,1,SSRGirl2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-03-11T21:19:01+00:00,650956522,650931211,1,SSRGirl2015,Agents of S.H.I.E.L.D. season 2,/* Main */
+2015-07-25T17:39:03+00:00,673043308,673043022,1,Starwarsfan2015,Star Wars Rebels,
+2015-07-25T17:36:28+00:00,673043022,673042835,1,Starwarsfan2015,Star Wars Rebels,/* Guest */
+2015-07-25T17:34:44+00:00,673042835,673042690,1,Starwarsfan2015,Star Wars Rebels,/* Main */
+2015-07-25T17:33:25+00:00,673042690,673042474,1,Starwarsfan2015,Star Wars Rebels,/* Recurring */
+2015-07-25T17:31:35+00:00,673042464,673021375,1,Starwarsfan2015,Star Wars Rebels,/* Main */
+2015-07-25T01:53:07+00:00,672960390,672894398,1,Starwarsfan2015,Star Wars Rebels,/* Cast and characters */
+2015-08-14T01:59:37+00:00,676004146,672945873,1,Thebatmanfan2015,The Batman (TV series),/* Main cast */
+2015-07-27T23:19:07+00:00,673382503,673379321,1,XFilesFan2015,Cosmos: A Spacetime Odyssey,/* Episodes */
+2015-07-27T22:55:35+00:00,673379321,673379198,1,XFilesFan2015,Cosmos: A Spacetime Odyssey,
+2015-07-27T22:54:30+00:00,673379198,673378969,1,XFilesFan2015,Cosmos: A Spacetime Odyssey,/* Cast */
+2015-07-27T22:52:27+00:00,673378969,673378784,1,XFilesFan2015,Cosmos: A Spacetime Odyssey,/* Cast */
+2015-07-27T22:50:48+00:00,673378784,673378594,1,XFilesFan2015,Cosmos: A Spacetime Odyssey,/* Background */
+2015-07-27T22:49:10+00:00,673378574,673078075,1,XFilesFan2015,Cosmos: A Spacetime Odyssey,
+2015-07-27T19:45:44+00:00,673353045,673352471,1,XFilesFan2015,The X-Files,
+2015-07-27T19:41:01+00:00,673352471,672647857,1,XFilesFan2015,The X-Files,/* Cast and characters */
+2015-03-08T17:09:25+00:00,650469668,650468945,0,Mojo Hand,Agents of S.H.I.E.L.D.,Undid revision 650468945 by [[Special:Contributions/96.41.246.213|96.41.246.213]] ([[User talk:96.41.246.213|talk]]); better before
+2016-02-09T05:53:04+00:00,704050762,704020857,0,Adamstom.97,Agents of S.H.I.E.L.D.,Undid revision 704020857 by [[Special:Contributions/86.191.67.249|86.191.67.249]] ([[User talk:86.191.67.249|talk]]) ?
+2016-01-29T18:01:52+00:00,702294083,702028714,0,Welsh,Agents of S.H.I.E.L.D.,"clean up, replaced: Janaury → January using [[Project:AWB|AWB]]"
+2015-09-25T22:05:41+00:00,682768168,682768008,0,Favre1fan93,Agents of S.H.I.E.L.D.,hidden note
+2016-02-20T18:37:02+00:00,705980303,705977392,0,Drovethrughosts,Agents of S.H.I.E.L.D.,Reverted edits by [[Special:Contribs/81.97.242.72|81.97.242.72]] ([[User talk:81.97.242.72|talk]]) to last version by Trut-h-urts man
+2015-02-14T13:41:06+00:00,647099503,647057532,0,Richiekim,Agents of S.H.I.E.L.D.,/* Casting */
+2015-12-15T01:54:31+00:00,695293239,695289412,0,Alex 21,Agents of S.H.I.E.L.D.,Need a new source stating this.
+2015-08-05T23:15:35+00:00,674756324,674754627,0,Darkknight2149,Agents of S.H.I.E.L.D.,"Undid revision 674754627 by [[Special:Contributions/76.125.255.102|76.125.255.102]] ([[User talk:76.125.255.102|talk]]): When is she ever called that? This is show, not the comic."
+2016-03-24T00:55:03+00:00,711639582,711525250,0,24.244.29.56,Agents of S.H.I.E.L.D.,/* Filming */
+2015-02-16T00:32:56+00:00,647320089,647316934,0,Davejohnsan,Agents of S.H.I.E.L.D.,Reverted to revision 647312356 by [[Special:Contributions/Favre1fan93|Favre1fan93]] ([[User talk:Favre1fan93|talk]]): Not needed. ([[WP:TW|TW]])
+2015-09-28T02:12:05+00:00,683090484,683090323,0,Donner60,Agents of S.H.I.E.L.D.,Reverted edits by [[Special:Contributions/Jaohvuh|Jaohvuh]] ([[User talk:Jaohvuh|talk]]): Introduces [[WP:DISPUTED|factual errors]] ([[WP:HG|HG]]) (3.1.15)
+2016-01-14T19:46:06+00:00,699837062,699779686,0,Adamstom.97,Agents of S.H.I.E.L.D.,"Undid revision 699779686 by [[Special:Contributions/82.33.168.27|82.33.168.27]] ([[User talk:82.33.168.27|talk]]) this section is about the character of Ward, not the Inhuman."
+2016-06-07T23:39:16+00:00,724233423,724217414,0,Favre1fan93,Agents of S.H.I.E.L.D.,"/* Release */ move to proper location. syndication is broadcasting, not home media. also added better ref tag. not sure about tv news check. a reliable source (like variety) should pick up on the news shortly. (they covered last year's schedule at least)"
+2016-05-02T00:52:32+00:00,718183114,717431522,0,Adamstom.97,Agents of S.H.I.E.L.D.,/* Accolades */
+2016-04-22T08:45:34+00:00,716542807,716542684,0,Alex 21,Agents of S.H.I.E.L.D.,Reverted 1 edit by [[Special:Contributions/101.163.83.6|101.163.83.6]] ([[User talk:101.163.83.6|talk]]). ([[WP:TW|TW]])
+2015-02-09T02:20:31+00:00,646279985,646090238,0,Richiekim,Agents of S.H.I.E.L.D.,/* Cast and characters */
+2015-08-29T09:18:35+00:00,678426445,678425507,0,Nciszdabest,Agents of S.H.I.E.L.D.,Undid revision 678425507 by [[Special:Contributions/4.59.213.142|4.59.213.142]] ([[User talk:4.59.213.142|talk]])
+2016-02-24T23:08:31+00:00,706725484,706575579,0,Adamstom.97,Agents of S.H.I.E.L.D.,/* Accolades */
+2015-10-28T07:08:38+00:00,687870888,687795162,0,Adamstom.97,Agents of S.H.I.E.L.D.,
+2015-11-16T22:05:53+00:00,690976902,690976515,0,KylieTastic,Agents of S.H.I.E.L.D. season 1,Reverted 1 edit by [[Special:Contributions/JT1733|JT1733]] ([[User talk:JT1733|talk]]): Rvt filenames are case sensitive. ([[WP:TW|TW]])
+2016-06-09T12:12:02+00:00,724463836,724233423,0,Adamstom.97,Agents of S.H.I.E.L.D.,/* Accolades */
+2016-06-05T16:51:07+00:00,723843499,723842812,0,Favre1fan93,Agents of S.H.I.E.L.D.,/* Other media */
+2015-02-19T06:21:27+00:00,647837937,647758901,0,Djosiahr,Agents of S.H.I.E.L.D. season 1,
+2015-11-28T05:11:38+00:00,692770234,690976902,0,Adamstom.97,Agents of S.H.I.E.L.D. season 1,/* Cast and characters */ changing order per [[MOS:TVCAST]]
+2015-05-20T00:27:59+00:00,663174127,662822083,0,Artmanha,Agents of S.H.I.E.L.D. season 1,/* Episodes */
+2016-06-05T15:07:13+00:00,723830646,723830541,0,Alex 21,Agents of S.H.I.E.L.D. season 1,Reverted 1 edit by [[Special:Contributions/178.90.199.83|178.90.199.83]] ([[User talk:178.90.199.83|talk]]) to last revision by Adamstom.97. ([[WP:TW|TW]])
+2015-06-23T10:06:17+00:00,668268115,668216365,0,Gonnym,Agents of S.H.I.E.L.D. season 1,"/* External links */ Coulson's flying car is not really a major part of the show. If this category should be included, it should be included in the episodes where its used"
+2015-07-17T15:20:33+00:00,671868291,671848834,0,Favre1fan93,Agents of S.H.I.E.L.D. season 2,/* Accolades */
+2015-07-25T17:04:47+00:00,673039503,672873642,0,Favre1fan93,Agents of S.H.I.E.L.D. season 1,"""Compliance will be rewarded"""
+2016-02-09T03:06:32+00:00,704033125,703459504,0,Favre1fan93,Agents of S.H.I.E.L.D. season 1,/* Cast and characters */
+2016-05-11T06:03:01+00:00,719692715,716719226,0,LightandDark2000,Agents of S.H.I.E.L.D. season 1,/* Episodes */ Fix.
+2016-04-07T23:03:53+00:00,714149042,713262926,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,/* Episodes */
+2015-04-05T00:06:08+00:00,654980280,654733460,0,Adamstom.97,Agents of S.H.I.E.L.D. season 1,/* Episodes */ c/e
+2015-11-07T22:27:07+00:00,689549084,689548202,0,Dark Cocoa Frosting,Agents of S.H.I.E.L.D.,Undid revision 689548202 by [[Special:Contributions/70.79.70.205|70.79.70.205]] ([[User talk:70.79.70.205|talk]])
+2015-05-31T01:38:03+00:00,664792373,664790707,0,Fyddlestix,Agents of S.H.I.E.L.D.,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/CivilizationAce|CivilizationAce]] using [[WP:STiki|STiki]]
+2015-01-25T18:39:51+00:00,644133992,643869681,0,Tophet,Agents of S.H.I.E.L.D. season 1,/* Episodes */
+2016-05-02T00:51:00+00:00,718182921,716719241,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,/* Accolades */
+2015-10-19T05:33:31+00:00,686453052,684292756,0,Favre1fan93,Agents of S.H.I.E.L.D. season 2,
+2016-06-09T12:08:02+00:00,724463436,724126398,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,/* Accolades */
+2016-03-12T17:32:16+00:00,709721206,708957546,0,Favre1fan93,Agents of S.H.I.E.L.D. season 2,removed [[Category:Lists of Marvel Comics television series episodes]] using [[WP:HC|HotCat]] Category:Agents of S.H.I.E.L.D. seasons is more specific cat
+2015-03-19T04:18:22+00:00,652030488,652030374,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,/* Episodes */
+2015-03-01T00:47:57+00:00,649306735,649304015,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,"Undid revision 649304015 by [[Special:Contributions/Favre1fan93|Favre1fan93]] ([[User talk:Favre1fan93|talk]]) he was called Garrett and TC in the show and by the EPs. The Doctor has never been used in the show, and the EPs call him Cal or Zabo now"
+2015-08-06T06:58:15+00:00,674802773,674802763,0,ClueBot NG,Agents of S.H.I.E.L.D. season 2,"Reverting possible vandalism by [[Special:Contributions/49.144.133.199|49.144.133.199]] to version by Favre1fan93. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (2308781) (Bot)"
+2016-02-02T20:50:43+00:00,702989797,702983073,0,Favre1fan93,Agents of S.H.I.E.L.D. season 2,/* Accolades */ refs were incorrect
+2016-04-23T12:11:56+00:00,716719241,715979448,0,Artmanha,Agents of S.H.I.E.L.D. season 2,Removing poster size plus re-sizing table to better fit ep. 2 title
+2016-03-27T23:20:41+00:00,712244851,711938194,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,"Adjusting this colour back, as it has become progressively more brown rather than a more appropriate red. Also, c/e."
+2015-01-22T03:46:05+00:00,643618394,643617981,0,Nciszdabest,Agents of S.H.I.E.L.D. season 2,Undid revision 643617981 by [[Special:Contributions/Kelly ripa2015|Kelly ripa2015]] ([[User talk:Kelly ripa2015|talk]])
+2015-03-14T00:53:11+00:00,651271786,651271295,0,Favre1fan93,Agents of S.H.I.E.L.D. season 2,"Jamie Harris is a recurring character for the season (end of what we become, aftershocks, one of us(i think?) and one door closes)"
+2015-05-22T23:56:44+00:00,663607840,663531893,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,/* Critical response */
+2015-01-23T21:10:19+00:00,643869694,643869686,0,Bjelleklang,Agents of S.H.I.E.L.D. season 2,Adding {{pp-vandalism}} ([[WP:TW|TW]])
+2015-04-08T21:32:57+00:00,655588966,655588592,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,
+2015-08-15T01:33:58+00:00,676151397,676147008,0,Darkknight2149,Agents of S.H.I.E.L.D. season 2,Undid revision 676147008 by [[Special:Contributions/97.44.194.16|97.44.194.16]] ([[User talk:97.44.194.16|talk]])
+2015-09-21T21:53:19+00:00,682155085,681933055,0,Favre1fan93,Agents of S.H.I.E.L.D. season 2,archive
+2015-07-26T21:48:08+00:00,673210982,672450966,0,Favre1fan93,Agents of S.H.I.E.L.D. season 2,
+2016-04-13T01:29:54+00:00,714989903,714966014,0,Alex 21,Agents of S.H.I.E.L.D. season 2,Reverted to revision 714959241 by [[Special:Contributions/Adamstom.97|Adamstom.97]]: Restoring to status quo while discussion is in place. The editor has been reverted by multiple uses and has now violated [[WP:3RR]] over three pages. ([[WP:TW|TW]])
+2015-07-21T16:37:17+00:00,672450966,671868291,0,Favre1fan93,Agents of S.H.I.E.L.D. season 2,"ever so slight hue change of the red to made us fully accessibility compliant. see http://snook.ca/technical/colour_contrast/colour.html#fg=FFFFFF,bg=B11514 for more"
+2015-01-20T08:39:08+00:00,643341408,643339050,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,
+2016-02-18T14:23:17+00:00,705610474,705556197,0,Drovethrughosts,Agents of S.H.I.E.L.D. season 2,/* References */
+2015-07-11T03:32:01+00:00,670920047,670919907,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,this is something we keep consistent throughout all of our pages
+2016-04-02T23:55:07+00:00,713262926,712645352,0,LLArrow,Agents of S.H.I.E.L.D. season 2,/* Episodes */
+2015-10-05T19:14:15+00:00,684292756,684287777,0,Artmanha,Agents of S.H.I.E.L.D. season 2,Undid revision 684287777 by [[Special:Contributions/LLArrow|LLArrow]] ([[User talk:LLArrow|talk]]) Undoing resizing for consistency with other seasons
+2016-01-05T22:30:56+00:00,698405154,698405144,0,ClueBot NG,Agents of S.H.I.E.L.D. season 2,"Reverting possible vandalism by [[Special:Contribs/119.93.95.214|119.93.95.214]] to version by Adamstom.97. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2491564) (Bot)"
+2015-03-11T15:40:44+00:00,650914597,650913702,0,Drovethrughosts,Agents of S.H.I.E.L.D. season 2,"/* Episodes */ it is ""Kava"" per official synopsis on abc's website: http://abc.go.com/shows/marvels-agents-of-shield/episode-guide/season-02/12-who-you-really-are#recap"
+2016-02-09T03:05:28+00:00,704032993,704027138,0,Favre1fan93,Agents of S.H.I.E.L.D. season 2,/* Cast and characters */ more info in the hidden note
+2016-03-01T05:01:23+00:00,707679883,705610474,0,LLArrow,Agents of S.H.I.E.L.D. season 2,Changing colour shade slightly to more reflective of marketing material
+2015-06-20T21:27:11+00:00,667819938,667791897,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,/* Home media */
+2015-06-26T02:05:01+00:00,668701981,668701886,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,these names are never used in the series
+2015-06-28T18:09:55+00:00,669074404,669072019,0,Ditto51,Agents of S.H.I.E.L.D. season 2,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/172.90.72.188|172.90.72.188]] ([[User talk:172.90.72.188|talk]]): The latter sounds and flows better. ([[WP:TW|TW]])
+2015-07-16T00:48:24+00:00,671635436,671635185,0,Adamstom.97,Agents of S.H.I.E.L.D. season 2,"Undid revision 671635185 by [[Special:Contributions/Gothicfilm|Gothicfilm]] ([[User talk:Gothicfilm|talk]]) again, we already have that link in the section. It's for every character without their own page"
+2015-05-18T00:15:16+00:00,662852003,662370420,0,Adamstom.97,Agents of S.H.I.E.L.D. season 3,
+2016-02-07T21:15:23+00:00,703818626,703812800,0,Favre1fan93,Agents of S.H.I.E.L.D. season 3,/* Critical response */
+2016-01-13T20:44:55+00:00,699682767,699680572,0,Favre1fan93,Agents of S.H.I.E.L.D. season 3,/* Writing */ adding a comma
+2015-11-09T22:12:31+00:00,689868224,689847148,0,Favre1fan93,Agents of S.H.I.E.L.D. season 3,/* Ratings */ +archive
+2016-01-29T21:32:49+00:00,702321929,702321869,0,Adamstom.97,Agents of S.H.I.E.L.D. season 3,/* Episodes */
+2016-04-16T03:24:49+00:00,715486819,715447043,0,Adamstom.97,Agents of S.H.I.E.L.D. season 3,
+2016-03-25T17:13:04+00:00,711908196,711906724,0,DinoSlider,Agents of S.H.I.E.L.D. season 3,Undid revision 711906724 by [[Special:Contributions/75.100.94.22|75.100.94.22]] ([[User talk:75.100.94.22|talk]]) unexplained removal of sourced content
+2015-06-11T17:48:15+00:00,666513460,665706043,0,Favre1fan93,Agents of S.H.I.E.L.D. season 3,premiere date
+2016-01-20T03:39:24+00:00,700707576,699963446,0,2602:304:B119:4C40:788B:A702:AF5F:5BE0,Batman: The Animated Series,/* Supporting antagonists */
+2015-11-23T21:47:14+00:00,692109117,692101485,0,Cyphoidbomb,Batman: The Animated Series,Reverted 1 edit by [[Special:Contributions/Therealsonix41|Therealsonix41]] ([[User talk:Therealsonix41|talk]]): Parameter is for *original broadcast network* only. ([[WP:TW|TW]])
+2016-03-17T13:09:05+00:00,710524120,710517298,0,Morriswa,Batman: The Animated Series,"Filled in 3 bare reference(s) with [[:en:WP:REFILL|reFill]] (); formatting: 107x whitespace, 9x heading-style (using [[User:Cameltrader#Advisor.js|Advisor.js]])"
+2015-12-08T02:25:03+00:00,694253642,693936741,0,Alex 21,Cosmos: A Spacetime Odyssey,/* Episodes */
+2016-02-10T04:41:19+00:00,704203116,700707576,0,100.6.165.226,Batman: The Animated Series,/* Comic adaption and novelization */
+2015-11-01T23:05:19+00:00,688598992,685706356,0,Trivialist,Cosmos: A Spacetime Odyssey,removed [[Category:Works by Seth MacFarlane]] using [[WP:HC|HotCat]]
+2015-07-27T23:50:16+00:00,673386008,673382503,0,C.Fred,Cosmos: A Spacetime Odyssey,Reverted edits by [[Special:Contribs/XFilesFan2015|XFilesFan2015]] ([[User talk:XFilesFan2015|talk]]) to last version by ClueBot NG
+2015-02-12T15:49:44+00:00,646808976,646807679,0,Drbogdan,Cosmos: A Spacetime Odyssey,+text - seems better.
+2015-12-30T01:28:55+00:00,697364131,694253642,0,Unreal7,Cosmos: A Spacetime Odyssey,/* Reception */
+2015-08-26T17:19:30+00:00,677972984,677942691,0,Arthur Rubin,Cosmos: A Spacetime Odyssey,Reverted edits by [[Special:Contribs/99.109.124.94|99.109.124.94]] ([[User talk:99.109.124.94|talk]]) to last version by Drovethrughosts
+2016-03-08T12:47:59+00:00,708964650,708964521,0,Drovethrughosts,Cosmos: A Spacetime Odyssey,
+2015-05-11T00:32:58+00:00,661770965,661770351,0,Masem,Cosmos: A Spacetime Odyssey,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/MaddiWhitee|MaddiWhitee]] ([[User talk:MaddiWhitee|talk]]): This is how his name is spelled. ([[WP:TW|TW]])
+2016-02-26T12:30:22+00:00,706994253,706213784,0,Klbrain,Cosmos: A Spacetime Odyssey,Disambiguated: [[known universe]] → [[Observable universe]]
+2016-05-29T22:36:54+00:00,722744160,722737958,0,74thClarkBarHG,Cosmos: A Spacetime Odyssey,Corrected runtime rounded to the nearest minute and title for new source
+2015-12-19T04:37:55+00:00,695860949,695860130,0,Favre1fan93,Daredevil (TV series),Reverted 1 edit by [[Special:Contributions/99.226.101.11|99.226.101.11]] ([[User talk:99.226.101.11|talk]]). ([[WP:TW|TW]])
+2015-10-28T21:53:05+00:00,687983352,687554448,0,Ananyabhardwaj,Daredevil (TV series),Added a word.
+2016-02-20T17:07:27+00:00,705968245,705965530,0,Trut-h-urts man,Daredevil (TV series),Reverted edits by [[Special:Contribs/81.97.242.72|81.97.242.72]] ([[User talk:81.97.242.72|talk]]) to last version by Adamstom.97
+2015-04-08T00:48:59+00:00,655431281,655431179,0,Lg16spears,Heroes Reborn (miniseries),/* Cast */
+2015-09-28T06:20:32+00:00,683112875,680828797,0,Renamed user mou89p43twvqcvm8ut9w3,Scooby-Doo! Curse of the Lake Monster,Removing template as per [[Wikipedia:Templates_for_discussion/Log/2015_September_12#Template:Cartoon_Network_programming|this TfD]]; general fixes. using [[Project:AWB|AWB]]
+2015-02-02T22:07:12+00:00,645365034,645364944,0,Edokter,Heroes Reborn (miniseries),italics
+2015-09-13T12:25:38+00:00,680828797,676399756,0,24.61.162.95,Scooby-Doo! Curse of the Lake Monster,/* Plot */
+2016-02-13T16:38:50+00:00,704789102,704219723,0,KatnissEverdeen,Scooby-Doo! Curse of the Lake Monster,Undid revision 704219723 by [[Special:Contributions/121.219.41.147|121.219.41.147]] ([[User talk:121.219.41.147|talk]]) Revert vandal.
+2016-04-28T19:31:41+00:00,717620320,715785752,0,88.87.168.108,Scooby-Doo! Curse of the Lake Monster,
+2015-05-20T04:59:09+00:00,663205604,661575202,0,ArmandoBecker,Scooby-Doo! The Mystery Begins,/* Plot */
+2016-03-09T00:44:09+00:00,709073448,708699964,0,KatnissEverdeen,Scooby-Doo! The Mystery Begins,Undid revision 708689814 by [[Special:Contributions/216.75.177.67|216.75.177.67]] ([[User talk:216.75.177.67|talk]]) Unsourced / extraneous spaces.
+2016-06-06T21:50:53+00:00,724058340,724057551,0,Favre1fan93,Daredevil (TV series),"Reverted 1 edit by [[Special:Contributions/Oliver.kamer|Oliver.kamer]] ([[User talk:Oliver.kamer|talk]]): Per [[WP:TVIMAGE]], the title card should be used in the infobox. ([[WP:TW|TW]])"
+2015-11-24T20:51:30+00:00,692309638,691441401,0,Brooklyn Eagle,Cosmos: A Spacetime Odyssey,/* Development */
+2016-05-22T12:39:53+00:00,721526287,721526235,0,71.175.12.145,Scooby-Doo! The Mystery Begins,/* Plot */
+2016-05-18T04:04:22+00:00,720820746,720820697,0,Oknazevad,Star Wars Rebels,"/* Cast and characters */ not needed, as the season has aired"
+2015-02-12T14:06:07+00:00,646797843,646779007,0,TonyPS214,Star Wars Rebels,"/* Galactic Empire */ ""Moff"" is a title, not a name"
+2015-05-28T00:03:52+00:00,664344832,664196146,0,Rtkat3,Star Wars Rebels,
+2015-05-17T01:35:51+00:00,662689777,662635468,0,Adamstom.97,Star Wars Rebels,
+2015-05-09T16:57:14+00:00,661575202,656996239,0,AussieLegend2,Scooby-Doo! The Mystery Begins,replace and update infobox after merge using [[Project:AWB|AWB]]
+2016-04-08T18:45:30+00:00,714273949,713973504,0,173.48.97.100,Star Wars Rebels,/* Crew of the Ghost */
+2015-03-08T05:45:29+00:00,650405691,650383047,0,Rhatsa26X,Star Wars Rebels,/* Guest */
+2016-05-23T19:39:17+00:00,721739001,721681340,0,Refuteku,Star Wars Rebels,Undid revision 721681340 by [[Special:Contributions/176.194.59.36|176.194.59.36]] ([[User talk:176.194.59.36|talk]])
+2015-04-14T20:51:16+00:00,656501281,656444844,0,108.49.185.106,Star Wars Rebels,/* Recurring */
+2016-04-11T03:04:40+00:00,714660837,714657182,0,Oknazevad,Star Wars Rebels,caps
+2015-07-11T03:37:44+00:00,670920547,670920276,0,Oknazevad,Star Wars Rebels,Undid revision 670920276 by [[Special:Contributions/Amazing64|Amazing64]] ([[User talk:Amazing64|talk]])
+2016-01-04T20:11:17+00:00,698227662,698227335,0,VG31,Star Wars Rebels,Reverted 1 edit by [[Special:Contributions/XFilesFan2016|XFilesFan2016]] identified as test/vandalism using [[WP:STiki|STiki]]
+2016-03-02T00:21:31+00:00,707823725,707785745,0,Oknazevad,Star Wars: The Clone Wars (2008 TV series),Undid revision 707785745 by [[Special:Contributions/Kcorilol|Kcorilol]] ([[User talk:Kcorilol|talk]]) excessive
+2015-06-22T18:33:16+00:00,668157951,667981501,0,46.221.55.150,Star Wars: The Clone Wars (2008 TV series),/* Dark Disciple */
+2015-04-05T23:55:39+00:00,655111209,655111004,0,73.166.187.154,Star Wars: The Clone Wars (2008 TV series),/* Broadcast */ I don't know why you are continuously fighting over something but to be honest it's not worth fighting over it.
+2015-04-28T06:35:10+00:00,659630959,659289313,0,Wikicontributor12,Star Wars Rebels,/* Season 2 */
+2016-03-22T14:39:54+00:00,711377427,710944506,0,50.205.217.119,Star Wars: The Clone Wars (2008 TV series),
+2015-08-25T10:48:37+00:00,677762533,677447447,0,Sailor iain,Star Wars: The Clone Wars (2008 TV series),
+2016-05-30T16:27:59+00:00,722869652,722868129,0,TAnthony,Star Wars: The Clone Wars (2008 TV series),/* Broadcast */
+2015-03-20T08:22:10+00:00,652707882,651312361,0,NeoBatfreak,The New Batman Adventures,/* External links */
+2015-02-27T20:07:57+00:00,649130697,649082614,0,2.30.184.37,The X-Files,
+2016-04-11T22:55:27+00:00,714801791,713965262,0,190.237.183.22,The Batman (TV series),
+2015-05-08T12:06:28+00:00,661400654,661362038,0,Drovethrughosts,The X-Files,/* Home video release */
+2015-07-27T20:19:50+00:00,673357906,673353045,0,Gen. Quon,The X-Files,Reverted to revision 672647857 by [[Special:Contributions/198.217.64.23|198.217.64.23]] ([[User talk:198.217.64.23|talk]]): ? ([[WP:TW|TW]])
+2015-02-25T09:35:34+00:00,648765205,648764571,0,Babitaarora,The X-Files,Reverted edits by [[Special:Contribs/ThatSexyGuy69|ThatSexyGuy69]] ([[User talk:ThatSexyGuy69|talk]]) to last version by Excirial
+2015-04-11T04:34:24+00:00,655924697,652707882,0,184.156.0.181,The New Batman Adventures,
+2016-03-12T04:31:44+00:00,709645497,709439828,0,Primefac,The Batman (TV series),/* External links */rmv template being deleted using [[Project:AWB|AWB]]
+2016-05-15T22:34:53+00:00,720442206,720435738,0,LilHelpa,Agents of S.H.I.E.L.D.,"General fixes and [[WP:AWB/T|Typo fixing]], replaced: to due to  →  due to using [[Project:AWB|AWB]]"
+2016-02-24T02:15:40+00:00,706575579,706574013,0,TriiipleThreat,Agents of S.H.I.E.L.D.,Undid revision 706574013 by [[Special:Contributions/JesseRafe|JesseRafe]] ([[User talk:JesseRafe|talk]]) discuss this on the talk page
+2015-08-13T23:13:17+00:00,675981653,675981590,0,98.183.231.8,Agents of S.H.I.E.L.D.,/* Design */ punctuation
+2015-11-29T11:42:34+00:00,692945757,692909957,0,88.0.83.28,Agents of S.H.I.E.L.D.,/* Cast and characters */
+2015-06-14T02:09:36+00:00,666843046,666803619,0,104.55.194.116,Agents of S.H.I.E.L.D.,"/* Design */ Fix incorrect use of ""palate.""  Should be ""palette,"" referring to colors."
+2015-01-31T21:54:20+00:00,645051161,645049835,0,Topbanana,Agents of S.H.I.E.L.D. season 1,Link repair:  Youtube -> YouTube  - [[w:en:WP:RLR|You can help!]]
+2015-03-17T12:45:36+00:00,651775054,651283483,0,DumbBOT,Agents of S.H.I.E.L.D. season 1,removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])
+2015-03-29T06:49:53+00:00,654000721,653994084,0,Renamed user qh37rbwki62h19772b,Agents of S.H.I.E.L.D. season 1,GA+
+2016-01-15T05:30:06+00:00,699912397,699912217,0,Jlpryor,Agents of S.H.I.E.L.D. season 2,/* Episodes */
+2015-06-19T21:44:41+00:00,667685944,667243158,0,Jodosma,Agents of S.H.I.E.L.D. season 2,typo: possesion→possession
+2015-05-11T18:23:43+00:00,661877594,661765322,0,Edison lcy,Agents of S.H.I.E.L.D. season 2,/* Ratings */
+2016-06-18T17:59:37+00:00,725914016,725913387,0,Kaobear,Agents of S.H.I.E.L.D. season 2,Reverted 1 edit by [[Special:Contributions/109.158.244.197|109.158.244.197]] identified as test/vandalism using [[WP:STiki|STiki]]
+2016-04-19T03:15:05+00:00,715979448,714989903,0,EvergreenFir,Agents of S.H.I.E.L.D. season 2,Granulation of {{Infobox television season}} per discussion on template talk page; rm deprecated params; some MOS fixes using [[Project:AWB|AWB]]
+2015-06-07T14:34:47+00:00,665895075,665044051,0,98.168.177.116,Agents of S.H.I.E.L.D. season 2,
+2015-03-28T22:40:31+00:00,653954614,653954479,0,Padenton,Agents of S.H.I.E.L.D. season 2,Undid revision 653901596 by [[Special:Contributions/Ditto51|Ditto51]] ([[User talk:Ditto51|talk]]) This is not being sourced as commentary about the series. Primary sources are better when dealing with information like episode titles.
+2015-08-27T18:24:56+00:00,678156660,678156386,0,Mike210381,Agents of S.H.I.E.L.D. season 3,Undid revision 678156386 by [[Special:Contributions/177.47.142.161|177.47.142.161]] ([[User talk:177.47.142.161|talk]])
+2016-05-24T10:24:24+00:00,721835733,721834125,0,73.233.125.130,Agents of S.H.I.E.L.D. season 3,/* Episodes */
+2015-04-09T06:06:16+00:00,655637905,655594605,0,Martpol,Batman: The Animated Series,/* Adaptations */
+2015-05-17T21:39:46+00:00,662829941,660342973,0,Zarbon,Batman: The Animated Series,"Harvey Dent is credited much higher in the cast roll, both in the actual end credits, imdb, and appears in 14 episodes whereas Harleen Quinzel is only in 9 episodes. The Joker is the only one who appears briefly more than Harvey by 1 episode."
+2015-09-25T18:15:00+00:00,682739736,681842928,0,Taeyebar,Batman: The Animated Series,
+2015-06-12T21:07:05+00:00,666676464,666160974,0,98.111.205.241,Batman: The Animated Series,/* Feature films */
+2015-02-19T03:50:55+00:00,647818275,647464164,0,Razdower,Batman: The Animated Series,/* Adaptations */
+2016-02-25T20:54:53+00:00,706883032,706882364,0,2.100.212.59,Batman: The Animated Series,/* Protagonists */
+2016-02-10T09:36:39+00:00,704228098,704222848,0,Irn,Cosmos: A Spacetime Odyssey,Reverted edits by [[Special:Contribs/115.70.39.132|115.70.39.132]] ([[User talk:115.70.39.132|talk]]) to last version by Howiebraunstein
+2015-10-14T13:58:32+00:00,685706356,684944369,0,49.228.208.14,Cosmos: A Spacetime Odyssey,/* Reception */Fixed typo in name
+2016-03-08T03:38:40+00:00,708898799,708897734,0,115.70.39.132,Cosmos: A Spacetime Odyssey,
+2015-09-24T16:04:40+00:00,682575952,677972984,0,199.119.29.133,Cosmos: A Spacetime Odyssey,
+2015-03-26T20:34:10+00:00,653653785,651343033,0,Fdonck,Cosmos: A Spacetime Odyssey,/* Development */
+2015-12-05T23:51:12+00:00,693936741,692309638,0,204.113.88.231,Cosmos: A Spacetime Odyssey,"/* Episodes */ (minor edit in the episode list summary for Episode 6, ""Deeper, Deeper Still"") deleted a period and added a comma, and also added the word ""and"" (changed ""with water molecules. how neutrinos"" to ""with water molecules, and how neutrinos"""
+2015-03-27T00:16:29+00:00,653680560,653680358,0,108.206.220.151,Daredevil (TV series),
+2015-04-24T00:08:54+00:00,658916830,658885772,0,Gdeblois19,Cosmos: A Spacetime Odyssey,"fixed grammatical error ""praise"" to ""praised"", as sentence is meant to be past-tense"
+2016-06-18T05:34:09+00:00,725836415,725669734,0,Yobot,Heroes Reborn (miniseries),"Removed invisible unicode characters + other fixes, removed: ‎ using [[Project:AWB|AWB]] (12023)"
+2015-11-24T11:13:04+00:00,692190075,692189809,0,2macia22,Heroes Reborn (miniseries),/* top */ adding lead info from [[List of Heroes episodes]] for Dark Matters
+2015-11-03T01:19:28+00:00,688785852,688784640,0,Geraldo Perez,Scooby-Doo! Curse of the Lake Monster,Reverted edits by [[Special:Contribs/73.211.250.13|73.211.250.13]] ([[User talk:73.211.250.13|talk]]) to last version by 173.69.55.39
+2015-10-23T03:00:50+00:00,687064100,685934634,0,173.69.55.39,Scooby-Doo! Curse of the Lake Monster,
+2015-03-22T00:02:35+00:00,652945386,652942896,0,FilmandTVFan28,Scooby-Doo! Curse of the Lake Monster,Undid revision 652942896 by [[Special:Contributions/64.231.195.54|64.231.195.54]] ([[User talk:64.231.195.54|talk]])
+2015-01-26T16:34:34+00:00,644270310,644270210,0,Captain Assassin!,Scooby-Doo! Curse of the Lake Monster,added [[Category:Atlas Entertainment films]] using [[WP:HC|HotCat]]
+2015-08-28T15:04:14+00:00,678302964,678296645,0,Skywatcher68,Scooby-Doo! The Mystery Begins,Undid revision 678296645 by [[Special:Contributions/2602:306:25A5:8A59:994:53DC:37C2:1846|2602:306:25A5:8A59:994:53DC:37C2:1846]] ([[User talk:2602:306:25A5:8A59:994:53DC:37C2:1846|talk]]) rvv
+2015-10-15T22:40:24+00:00,685934608,685914097,0,Caringtype1,Scooby-Doo! The Mystery Begins,
+2015-07-29T15:22:56+00:00,673646823,673452231,0,174.236.38.124,Star Wars Rebels,/* Recurring */
+2015-02-28T16:26:05+00:00,649243982,649240565,0,Caringtype1,Scooby-Doo! The Mystery Begins,
+2015-01-25T16:44:57+00:00,644119765,643516017,0,90.219.144.246,Scooby-Doo! The Mystery Begins,
+2015-04-12T23:17:54+00:00,656190219,656190132,0,80.44.158.68,Scooby-Doo! The Mystery Begins,/* Plot */
+2015-07-17T03:46:45+00:00,671805421,671805267,0,Rsrikanth05,Star Wars Rebels,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/2605:E000:EFC0:4D:7454:4820:57E6:7F12|2605:E000:EFC0:4D:7454:4820:57E6:7F12]] using [[WP:STiki|STiki]]
+2016-06-29T13:59:27+00:00,727515115,727214654,0,68.132.126.185,Star Wars Rebels,/* Ratings */
+2015-04-18T23:05:29+00:00,657106934,657101471,0,67.80.120.160,Star Wars Rebels,/* Season 2 */
+2015-08-15T11:54:13+00:00,676203989,676180625,0,Onel5969,Star Wars Rebels,Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/119.95.129.146|119.95.129.146]] using [[WP:STiki|STiki]]
+2015-04-03T14:02:41+00:00,654779546,654777761,0,Marek69,Star Wars Rebels,Reverted edits by [[Special:Contributions/86.136.65.250|86.136.65.250]] ([[User talk:86.136.65.250|talk]]) ([[WP:HG|HG]])
+2015-05-17T11:14:26+00:00,662753568,662689777,0,Tony1,Star Wars Rebels,"[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+2015-10-17T19:20:30+00:00,686214150,686214109,0,37.180.18.58,Star Wars Rebels,/* Inquisitors */
+2015-04-17T14:47:25+00:00,656906228,656501281,0,RevisitorXV,Star Wars Rebels,/* Recurring */ Corrected typo and improved grammar.
+2015-12-14T02:05:35+00:00,695145827,695144899,0,Lemaroto,Star Wars Rebels,
+2015-03-11T01:55:37+00:00,650845516,650735742,0,24.79.36.94,Star Wars Rebels,/* Season 1 (2014–15) */ Sabine repaint
+2016-01-29T18:12:19+00:00,702295508,702040359,0,184.88.146.10,Star Wars Rebels,
+2016-01-22T13:24:57+00:00,701093771,700691839,0,81.39.103.174,Star Wars: The Clone Wars (2008 TV series),/* Recurring */
+2015-10-17T23:02:50+00:00,686240345,686240273,0,110.171.2.140,Star Wars Rebels,
+2015-05-14T04:33:26+00:00,662255405,661924741,0,Dino-drones,Star Wars Rebels,/* Recurring */
+2015-09-29T18:43:41+00:00,683346440,683112751,0,Taeyebar,Star Wars: The Clone Wars (2008 TV series),since this covers both the subgenres
+2016-06-15T21:25:35+00:00,725471117,723903510,0,J 1982,Star Wars: The Clone Wars (2008 TV series),added [[Category:Military science fiction television series]] using [[WP:HC|HotCat]]
+2015-10-30T19:48:37+00:00,688270313,687798084,0,Ubcule,Star Wars: The Clone Wars (2008 TV series),"Mutual dab symmetry; matches one in other article, and both have good reason to exist (easily confused titles)"
+2016-03-20T03:56:38+00:00,710964071,710935029,0,Smarty9108,The Batman (TV series),"It wasn't a primary show for CN, whereas Teen Titans (a DC TV show itself) was fully merged into CN to no longer air in 2005 when The Batman debuted as a WB primary show. Teen Titans was not."
+2015-04-08T03:18:11+00:00,655447476,655246660,0,SNUGGUMS,The Batman (TV series),"Removing link(s) to ""Evan Sabara"": redirected. ([[WP:TW|TW]])"
+2016-06-29T04:20:54+00:00,727462183,727461935,0,71.255.161.20,The Batman (TV series),
+2015-07-22T22:05:00+00:00,672642078,671925227,0,71.127.43.58,The Batman (TV series),
+2015-11-23T18:37:46+00:00,692083715,692080758,0,JBumgarner,The New Batman Adventures,
+2015-06-09T19:17:22+00:00,666227771,665357424,0,2607:FB90:25B2:5149:4484:97D2:601F:DB7,The New Batman Adventures,"""I"" expect sources validating such claims! hmm, Cya on wikiquote... Undid revision 665357424 by [[Special:Contributions/Zarbon|Zarbon]] ([[User talk:Zarbon|talk]])"
+2015-09-02T12:43:42+00:00,679098861,678003110,0,Monkbot,The X-Files,[[User:Monkbot/Task 7: CS1 et al. repair|Task 7c]]: repair/replace et al. in cs1 author/editor parameters;
+2016-01-17T23:14:02+00:00,700344115,699330139,0,Boston3346,The X-Files,Fixed a broken reference link.

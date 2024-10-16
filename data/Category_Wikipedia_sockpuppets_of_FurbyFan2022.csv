@@ -1,0 +1,329 @@
+timestamp,revid,parentid,sock,user,page,message
+2021-09-02T12:39:15+00:00,1041945758,1039135480,1,FurbyFan2022,Tinga Tinga Tales,
+2021-09-02T12:38:27+00:00,1041945655,1040513600,1,FurbyFan2022,Mike the Knight,
+2021-10-19T14:18:51+00:00,1050720272,1050693015,1,BBCFan21,Boj (TV series),Enough with pilot
+2021-10-19T14:16:28+00:00,1050719920,1050678298,1,BBCFan21,Zigby,enough with Disney Junior
+2021-10-19T14:15:58+00:00,1050719840,1050678187,1,BBCFan21,Peter Rabbit (TV series),enough with Disney Junior
+2021-10-19T14:15:16+00:00,1050719711,1050678101,1,BBCFan21,In the Night Garden...,enough with Smile of a Child
+2021-10-19T14:14:33+00:00,1050719584,1050678017,1,BBCFan21,Q Pootle 5,enough with Disney Junior
+2021-10-19T14:13:50+00:00,1050719485,1050677953,1,BBCFan21,Go Jetters,enough with Disney Junior
+2021-10-18T12:16:30+00:00,1050534370,1050204979,1,CbbcFan2021,Bing (TV series),
+2021-10-18T12:15:39+00:00,1050534278,1044380446,1,CbbcFan2021,Boj (TV series),
+2021-10-18T12:15:00+00:00,1050534194,1039072812,1,CbbcFan2021,Retry (video game),
+2021-11-02T15:29:52+00:00,1053209666,1052840553,1,Cbeebies_2023,Boo! (TV series),
+2021-11-02T15:29:18+00:00,1053209604,1052909850,1,Cbeebies_2023,Hey Duggee,
+2021-11-02T15:28:21+00:00,1053209430,1052917618,1,Cbeebies_2023,Bing (TV series),
+2021-11-02T15:27:24+00:00,1053209296,1053120141,1,Cbeebies_2023,Chuggington,
+2021-11-02T15:26:36+00:00,1053209159,1050739189,1,Cbeebies_2023,Boj (TV series),
+2021-11-02T15:24:34+00:00,1053208881,1050528920,1,Cbeebies_2023,Uki (TV series),
+2021-11-02T15:23:14+00:00,1053208677,1052328379,1,Cbeebies_2023,CBBC,
+2021-11-02T15:22:42+00:00,1053208599,1051850792,1,Cbeebies_2023,Elephant and Piggie,
+2021-11-02T15:21:51+00:00,1053208469,1050538361,1,Cbeebies_2023,Retry (video game),
+2021-11-02T15:21:31+00:00,1053208418,1053198480,1,Cbeebies_2023,Numberjacks,
+2021-11-02T15:20:47+00:00,1053208308,1050528693,1,Cbeebies_2023,Guess with Jess,
+2021-11-03T11:13:54+00:00,1053349931,1053095437,1,Cbeebies_2024,Alphablocks,
+2021-11-03T11:12:21+00:00,1053349745,1053121078,1,Cbeebies_2024,In the Night Garden...,
+2021-11-03T11:11:46+00:00,1053349694,1051661106,1,Cbeebies_2024,Nina and the Neurons,
+2021-11-03T11:10:55+00:00,1053349599,1053246362,1,Cbeebies_2024,Numberjacks,
+2021-11-03T11:09:45+00:00,1053349452,1052358294,1,Cbeebies_2024,BBC Kids (Canadian TV channel),
+2021-11-03T11:09:07+00:00,1053349371,1053112233,1,Cbeebies_2024,CBeebies,
+2021-11-03T11:07:25+00:00,1053349167,1053076504,1,Cbeebies_2024,Little Charley Bear,
+2021-11-03T11:06:24+00:00,1053349040,1053210450,1,Cbeebies_2024,Boj (TV series),
+2021-11-03T11:05:33+00:00,1053348930,1051249597,1,Cbeebies_2024,Raa Raa the Noisy Lion,
+2021-11-03T11:04:30+00:00,1053348803,1052771042,1,Cbeebies_2024,Driver Dan's Story Train,
+2021-11-03T11:03:52+00:00,1053348727,1053208954,1,Cbeebies_2024,Uki (TV series),
+2021-11-03T11:01:43+00:00,1053348482,1053208757,1,Cbeebies_2024,Guess with Jess,
+2021-11-03T14:31:55+00:00,1053375383,1051771259,1,Cbeebies_2025,Clangers,
+2021-11-03T14:30:29+00:00,1053375122,1052690156,1,Cbeebies_2025,Big & Small,
+2021-11-03T14:28:35+00:00,1053374852,1052493073,1,Cbeebies_2025,ZingZillas,
+2021-11-03T14:27:40+00:00,1053374731,1053358484,1,Cbeebies_2025,Little Charley Bear,
+2021-11-03T14:26:36+00:00,1053374571,1053358492,1,Cbeebies_2025,Uki (TV series),
+2021-11-03T14:25:28+00:00,1053374395,1053341089,1,Cbeebies_2025,RTÉjr,
+2021-11-03T14:24:51+00:00,1053374303,1053358487,1,Cbeebies_2025,Boj (TV series),
+2021-11-03T14:22:45+00:00,1053374005,1051391139,1,Cbeebies_2025,The Gruffalo,
+2021-11-03T14:21:20+00:00,1053373784,1053358471,1,Cbeebies_2025,In the Night Garden...,
+2021-11-03T14:20:53+00:00,1053373712,1037333738,1,Cbeebies_2025,Hoops & Yoyo,
+2021-11-03T14:20:19+00:00,1053373621,1053358467,1,Cbeebies_2025,Alphablocks,
+2021-11-03T14:19:32+00:00,1053373529,1052365262,1,Cbeebies_2025,The Numtums,
+2021-11-03T14:17:37+00:00,1053373254,1053358488,1,Cbeebies_2025,Raa Raa the Noisy Lion,
+2021-10-18T11:05:15+00:00,1050527680,1018023959,1,Cbeebies21,Uki (TV series),
+2021-10-18T11:04:23+00:00,1050527601,1046693138,1,Cbeebies21,Guess with Jess,
+2021-10-18T11:03:40+00:00,1050527536,1043478603,1,Cbeebies21,Driver Dan's Story Train,
+2021-10-18T11:02:47+00:00,1050527454,1048927850,1,Cbeebies21,Raa Raa the Noisy Lion,
+2021-10-18T11:01:03+00:00,1050527256,1043569064,1,Cbeebies21,Little Charley Bear,
+2021-09-06T09:29:34+00:00,1042702469,1042606072,1,Danny_Phantom_2021,Rabbids Invasion,
+2021-09-07T10:23:41+00:00,1042904501,1041906735,1,Danny_Phantom_2022,Driver Dan's Story Train,This show was cancelled in 2012.
+2021-09-07T11:03:20+00:00,1042908972,1038787054,1,Danny_Phantom_2023,Guess with Jess,
+2021-09-07T11:00:58+00:00,1042908675,1040330609,1,Danny_Phantom_2023,3rd & Bird,
+2021-09-08T08:55:22+00:00,1043092333,1042561938,1,Danny_Phantom_2024,Raa Raa the Noisy Lion,
+2021-09-08T08:53:43+00:00,1043092151,1042561120,1,Danny_Phantom_2024,Little Charley Bear,
+2021-09-08T10:46:05+00:00,1043105292,1042749822,1,Danny_Phantom_2025,Waybuloo,
+2021-09-08T10:43:40+00:00,1043105039,1042974801,1,Danny_Phantom_2025,3rd & Bird,
+2021-09-09T09:26:06+00:00,1043286352,1042326719,1,Danny_Phantom_2026,ZingZillas,
+2021-09-09T09:22:56+00:00,1043285919,1043105292,1,Danny_Phantom_2026,Waybuloo,
+2021-09-09T09:45:58+00:00,1043288772,1042904501,1,Danny_Phantom_2027,Driver Dan's Story Train,
+2021-09-09T09:44:12+00:00,1043288574,1042974991,1,Danny_Phantom_2027,Guess with Jess,This show was started
+2021-09-10T09:29:10+00:00,1043483971,1038992659,1,Danny_Phantom_2028,Boj (TV series),
+2021-09-10T09:27:41+00:00,1043483815,1041841964,1,Danny_Phantom_2028,Numberjacks,
+2021-09-13T11:03:36+00:00,1044063196,1042155088,1,FurbyFan_2024,Rabbids,
+2021-09-13T11:02:42+00:00,1044063067,1042452860,1,FurbyFan_2024,Postman Pat,
+2021-09-03T09:13:53+00:00,1042122397,1041897953,1,FurbyFan2023,Rabbids Invasion,
+2021-09-03T09:12:40+00:00,1042122270,1041777216,1,FurbyFan2023,Rabbids,
+2021-10-19T08:15:46+00:00,1050678298,1045042991,1,Nickelodeon2021,Zigby,
+2021-10-19T08:14:52+00:00,1050678187,1040729442,1,Nickelodeon2021,Peter Rabbit (TV series),
+2021-10-19T08:13:58+00:00,1050678101,1050280468,1,Nickelodeon2021,In the Night Garden...,
+2021-10-19T08:12:59+00:00,1050678017,1036418824,1,Nickelodeon2021,Q Pootle 5,
+2021-10-19T08:12:19+00:00,1050677953,1049676216,1,Nickelodeon2021,Go Jetters,
+2021-10-19T10:35:48+00:00,1050693102,1046509547,1,NickJr2021,BBC Kids (Canadian TV channel),
+2021-10-19T10:35:01+00:00,1050693015,1050538315,1,NickJr2021,Boj (TV series),
+2021-10-19T10:34:38+00:00,1050692976,1050538254,1,NickJr2021,Bing (TV series),
+2021-09-14T14:21:35+00:00,1044296898,1042500120,1,Nicktoons_2021,Kate & Mim-Mim,
+2021-09-14T14:17:27+00:00,1044296335,1043653011,1,Nicktoons_2021,Numberjacks,
+2021-10-19T14:11:19+00:00,1050719148,1029633105,1,NicktoonsFan21,WonderCon,
+2021-10-19T14:07:51+00:00,1050718699,1047938688,1,NicktoonsFan21,Rabbids Invasion,
+2021-10-19T14:05:32+00:00,1050718383,1048103757,1,NicktoonsFan21,3rd & Bird,enough with PBS Kids Sprout
+2021-11-05T14:38:02+00:00,1053702851,1053702741,1,Numberblocks2021,Clangers,
+2021-11-05T14:37:19+00:00,1053702741,1053375443,1,Numberblocks2021,Clangers,
+2021-11-05T14:34:33+00:00,1053702381,1053374343,1,Numberblocks2021,Boj (TV series),
+2021-11-05T14:33:06+00:00,1053702163,1051904989,1,Numberblocks2021,Disney Tsum Tsum,
+2021-11-05T14:32:09+00:00,1053702015,1050719840,1,Numberblocks2021,Peter Rabbit (TV series),
+2021-11-05T14:29:56+00:00,1053701670,1032829030,1,Numberblocks2021,Taylor Wimpey,
+2021-11-05T14:28:31+00:00,1053701499,1053358493,1,Numberblocks2021,Guess with Jess,
+2021-11-05T14:27:30+00:00,1053701349,1053701087,1,Numberblocks2021,Retry (video game),
+2021-11-05T14:25:30+00:00,1053701087,1053209190,1,Numberblocks2021,Retry (video game),
+2021-11-05T14:24:30+00:00,1053700934,1053697413,1,Numberblocks2021,Uki (TV series),/* Episodes */
+2021-11-05T14:22:32+00:00,1053700641,1053698093,1,Numberblocks2021,Numberjacks,
+2021-11-05T14:19:45+00:00,1053700263,1053374145,1,Numberblocks2021,Raa Raa the Noisy Lion,
+2021-11-05T14:15:07+00:00,1053699598,1053373536,1,Numberblocks2021,The Numtums,
+2021-11-05T14:13:14+00:00,1053699313,1053365660,1,Numberblocks2021,List of programs broadcast by Smile (TV network),
+2021-11-05T14:09:45+00:00,1053698814,1053210337,1,Numberblocks2021,Hey Duggee,
+2021-11-05T14:09:01+00:00,1053698718,1049829377,1,Numberblocks2021,Waybuloo,
+2021-11-05T14:07:01+00:00,1053698456,1053691590,1,Numberblocks2021,Rayman Raving Rabbids: TV Party,
+2021-11-05T14:06:33+00:00,1053698380,1053374059,1,Numberblocks2021,The Gruffalo,
+2021-11-05T14:06:06+00:00,1053698323,1053373976,1,Numberblocks2021,Hoops & Yoyo,
+2021-11-05T14:05:24+00:00,1053698223,1053358490,1,Numberblocks2021,Driver Dan's Story Train,
+2021-11-05T14:05:02+00:00,1053698174,1053375351,1,Numberblocks2021,Little Charley Bear,
+2021-11-05T14:04:30+00:00,1053698093,1053579921,1,Numberblocks2021,Numberjacks,
+2021-11-05T14:03:54+00:00,1053698008,1053659067,1,Numberblocks2021,RTÉjr,
+2021-11-05T14:02:32+00:00,1053697823,1053209042,1,Numberblocks2021,CBBC,
+2021-11-05T14:01:28+00:00,1053697672,1053532306,1,Numberblocks2021,Chuggington,
+2021-11-05T14:00:47+00:00,1053697581,1053356915,1,Numberblocks2021,CBeebies,
+2021-11-05T13:59:25+00:00,1053697413,1053374677,1,Numberblocks2021,Uki (TV series),
+2021-09-08T10:43:40+00:00,1043105039,1042974801,0,Danny Phantom 2025,3rd & Bird,
+2021-10-19T14:21:20+00:00,1050720596,1050718383,0,Ohnoitsjamie,3rd & Bird,Reverted edits by [[Special:Contribs/NicktoonsFan21|NicktoonsFan21]] ([[User talk:NicktoonsFan21|talk]]) to last version by 2A00:23C4:E89C:5F01:2CD3:5C1:41F6:25B3
+2021-09-29T21:58:32+00:00,1047259533,1047259489,0,173.77.217.188,Alphablocks,/* Numberblocks */
+2021-10-19T00:56:29+00:00,1050635563,1045005462,0,VenezuelanSpongeBobFan2004,Big & Small,
+2021-09-26T02:19:43+00:00,1046509547,1046438902,0,MrSchimpf,BBC Kids (Canadian TV channel),rmv a note from Captain Obvious
+2021-10-28T18:35:41+00:00,1052358294,1051219867,0,PrimeBOT,BBC Kids (Canadian TV channel),[[User:PrimeBOT/30|Task 30]]: replace deprecated parameter following [[Special:PermaLink/1052129994#web/website|a discussion]]
+2021-10-19T14:48:31+00:00,1050724575,1050692976,0,FilmandTVFan28,Bing (TV series),Reverted 1 edit by [[Special:Contributions/NickJr2021|NickJr2021]] ([[User talk:NickJr2021|talk]]): Sources say otherwise.
+2021-09-12T05:43:58+00:00,1043823681,1042557797,0,171.250.177.110,Alphablocks,
+2021-10-23T12:00:18+00:00,1051420733,1051250966,0,Bonusballs,Bing (TV series),Reverted edits by [[Special:Contribs/109.255.218.227|109.255.218.227]] ([[User talk:109.255.218.227|talk]]) to last version by FilmandTVFan28
+2021-09-14T12:23:09+00:00,1044279653,1044174918,0,Stelmaris,Big & Small,Undid revision 1044174918 by [[Special:Contributions/173.63.246.115|173.63.246.115]] ([[User talk:173.63.246.115|talk]])
+2021-09-18T23:38:04+00:00,1045124419,1045123832,0,64.231.141.64,BBC Kids (Canadian TV channel),
+2021-10-04T07:46:53+00:00,1048103757,1043105039,0,2A00:23C4:E89C:5F01:2CD3:5C1:41F6:25B3,3rd & Bird,/* Main characters */
+2021-10-02T23:17:00+00:00,1047862504,1047861966,0,86.2.193.120,Bing (TV series),/* Characters */
+2021-10-18T10:27:35+00:00,1050524107,1050455877,0,Dwarfbobs,Alphablocks,
+2021-09-14T23:00:40+00:00,1044380446,1043483977,0,107.195.41.121,Boj (TV series),/* External links */
+2021-11-03T14:25:04+00:00,1053374343,1053374303,0,My Pants Metal,Boj (TV series),Reverted 1 edit by [[Special:Contributions/Cbeebies 2025|Cbeebies 2025]] ([[User talk:Cbeebies 2025|talk]]) to last revision by Bonusballs
+2021-09-12T15:49:20+00:00,1043902349,1043735305,0,90.205.154.44,Bing (TV series),Fixed grammar describing Flop’s voice actors to align with other characters. Also pants should be called trousers in a UK programme.
+2021-10-19T16:31:42+00:00,1050739189,1050724898,0,FloorMadeOuttaFloor,Boj (TV series),[[MOS:TVLEAD]]
+2021-10-31T11:43:06+00:00,1052840553,1052553969,0,85.255.235.161,Boo! (TV series),
+2021-09-10T09:29:13+00:00,1043483977,1043483971,0,ClueBot NG,Boj (TV series),"Reverting possible vandalism by [[Special:Contribs/Danny Phantom 2028|Danny Phantom 2028]] to version by Grapesoda22. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4036423) (Bot)"
+2021-09-28T03:30:31+00:00,1046924757,1046871321,0,Geraldo Perez,Boo! (TV series),Reverted edits by [[Special:Contribs/VenezuelanSpongeBobFan2004|VenezuelanSpongeBobFan2004]] ([[User talk:VenezuelanSpongeBobFan2004|talk]]) to last version by 2A00:23C6:9595:CF01:E0A4:6601:5F3B:E3AB
+2021-10-16T11:03:19+00:00,1050197881,1050095068,0,185.69.144.73,CBBC,/* Management */
+2021-09-20T11:41:26+00:00,1045400327,1045400177,0,Annamargarita0,CBeebies,/* Presenters */
+2021-10-23T03:49:38+00:00,1051374716,1050197881,0,196.216.73.138,CBBC,
+2021-08-27T15:20:23+00:00,1040936448,1038775640,0,Abdul Muhammad1,CBeebies,
+2021-10-22T19:27:04+00:00,1051318853,1051258640,0,209.93.148.202,CBeebies,
+2021-08-26T15:05:31+00:00,1040768954,1039337642,0,47.16.192.53,Clangers,/* Series 3 (2015–2016) */
+2021-09-15T02:34:09+00:00,1044406241,1044405305,0,75.39.119.127,Chuggington,/* First appearing in Series 4 */
+2021-10-21T15:02:09+00:00,1051092893,1051050147,0,Izno,Chuggington,Restored revision 1050986220 by [[Special:Contributions/Jmmarcum47|Jmmarcum47]] ([[User talk:Jmmarcum47|talk]]): Socks
+2021-10-01T07:32:07+00:00,1047524775,1047131270,0,Malmsimp,Chuggington,Remove redlinks
+2021-10-17T11:20:38+00:00,1050364409,1050334482,0,Dr Greg,Clangers,/* top */ link Sprout in infobox
+2021-10-25T14:20:40+00:00,1051771259,1051766613,0,Dr Greg,Clangers,"date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]], date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]; remove repeats from infobox"
+2021-04-15T19:36:51+00:00,1018002427,1015949647,0,JJMC89 bot III,Disney Tsum Tsum,Moving [[:Category:Arcade games]] to [[:Category:Arcade video games]] per [[Wikipedia:Categories for discussion/Speedy]]
+2021-10-26T07:27:50+00:00,1051904989,1049223241,0,Red Jay,Disney Tsum Tsum,American English
+2021-10-13T08:22:48+00:00,1049691996,1049691715,0,92.39.186.135,Clangers,/* Production */Added factual content
+2021-09-10T08:44:04+00:00,1043478603,1043288772,0,ThisIsMarvy,Driver Dan's Story Train,
+2021-07-21T02:32:31+00:00,1034645670,1030161505,0,GreenC bot,Elephant and Piggie,Rescued 2 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-09-02T06:42:23+00:00,1041906735,1041822394,0,2601:201:4201:A4B0:B82B:857C:7A4D:F796,Driver Dan's Story Train,There is no season 3
+2021-10-18T11:19:46+00:00,1050528939,1050527536,0,FilmandTVFan28,Driver Dan's Story Train,Reverted 1 edit by [[Special:Contributions/Cbeebies21|Cbeebies21]] ([[User talk:Cbeebies21|talk]]) to last revision by ThisIsMarvy
+2021-10-31T00:33:10+00:00,1052771042,1052760732,0,GrindtXX,Driver Dan's Story Train,"sections, minor c/e"
+2021-10-01T14:08:23+00:00,1047576306,1046590656,0,Yaris678,Go Jetters,"/* Go Jetters */ Better hyphen location, as per source. Jet Pad is electically powered and Niagara only features once."
+2021-10-22T16:04:31+00:00,1051288462,1051285317,0,AnomieBOT,Go Jetters,Dating maintenance tags: {{Original research}} {{Allplot}} {{Tooshort}}
+2021-05-30T18:49:23+00:00,1025987052,1025905319,0,EvergreenFir,Go Jetters,Reverted edits by [[Special:Contribs/2A00:23C5:69FF:B601:9813:F995:EA06:4E44|2A00:23C5:69FF:B601:9813:F995:EA06:4E44]] ([[User talk:2A00:23C5:69FF:B601:9813:F995:EA06:4E44|talk]]) to last version by ThisIsMarvy
+2021-09-27T00:25:17+00:00,1046693138,1046690974,0,Geraldo Perez,Guess with Jess,"Undid revision 1046690974 by [[Special:Contributions/24.93.28.94|24.93.28.94]] ([[User talk:24.93.28.94|talk]]) unsourced, not used in UK, not mentioned in article"
+2021-11-03T12:28:50+00:00,1053358493,1053348482,0,Bonusballs,Guess with Jess,Reverted edits by [[Special:Contribs/Cbeebies 2024|Cbeebies 2024]] ([[User talk:Cbeebies 2024|talk]]) to last version by Fragrant Peony
+2021-09-13T14:52:32+00:00,1044094389,1043889402,0,142.68.132.219,Guess with Jess,End Date
+2021-10-18T11:16:50+00:00,1050528693,1050527601,0,FilmandTVFan28,Guess with Jess,Reverted 1 edit by [[Special:Contributions/Cbeebies21|Cbeebies21]] ([[User talk:Cbeebies21|talk]]) to last revision by Geraldo Perez
+2021-09-12T10:54:10+00:00,1043861098,1043860815,0,Fairysweetness,Hey Duggee,
+2021-09-09T09:44:12+00:00,1043288574,1042974991,0,Danny Phantom 2027,Guess with Jess,This show was started
+2021-09-07T18:23:00+00:00,1042974991,1042908972,0,EvergreenFir,Guess with Jess,Reverted edits by [[Special:Contribs/Danny Phantom 2023|Danny Phantom 2023]] ([[User talk:Danny Phantom 2023|talk]]) to last version by ARH99
+2021-10-20T19:09:50+00:00,1050938858,1050938796,0,BrownHairedGirl,Hey Duggee,Filled in 2 bare reference(s) with reFill 2
+2021-09-29T19:01:11+00:00,1047235895,1046898092,0,Max263,Hey Duggee,/* Awards and nominations */
+2021-08-05T22:47:34+00:00,1037333738,1035677535,0,PuyoPuyoOnline,Hoops & Yoyo,
+2021-09-06T10:31:55+00:00,1042709617,1042528347,0,LiamConnolly,Hey Duggee,/* Series 3 (2019-2021) */
+2021-10-12T21:10:35+00:00,1049616200,1049615727,0,2A02:C7F:709F:400:3422:5FED:4D6A:975B,In the Night Garden...,Fixed typo
+2021-10-25T01:26:37+00:00,1051690938,1051679881,0,DuncanHill,In the Night Garden...,Reverted edits by [[Special:Contribs/85.255.237.71|85.255.237.71]] ([[User talk:85.255.237.71|talk]]) to last version by DuncanHill
+2021-10-10T18:47:48+00:00,1049248075,1049247949,0,2A02:C7F:F49A:AE00:E0BF:7419:A307:2C09,In the Night Garden...,/* Broadcast */
+2021-09-15T02:48:44+00:00,1044408059,1044379881,0,NinjaRobotPirate,Kate & Mim-Mim,Undid revision 1044296898 by [[Special:Contributions/Nicktoons 2021|Nicktoons 2021]] ([[User talk:Nicktoons 2021|talk]]) unsourced
+2021-09-05T21:15:05+00:00,1042606315,1042606258,0,ARH99,In the Night Garden...,
+2021-08-28T08:43:02+00:00,1041055492,1041055173,0,Materialscientist,In the Night Garden...,Reverted edits by [[Special:Contributions/2A02:C7F:F49A:AE00:11E0:8AF:2241:2EC4|2A02:C7F:F49A:AE00:11E0:8AF:2241:2EC4]] ([[User talk:2A02:C7F:F49A:AE00:11E0:8AF:2241:2EC4|talk]]) ([[WP:HG|HG]]) (3.4.10)
+2021-11-02T22:39:52+00:00,1053268150,1053237555,0,71.167.78.110,List of programs broadcast by Smile (TV network),
+2021-10-01T07:36:44+00:00,1047525386,1047517638,0,Tommi1986,In the Night Garden...,Reverting edit(s) by [[Special:Contributions/2A00:23C7:E936:D201:91C3:4592:EA55:5DD7|2A00:23C7:E936:D201:91C3:4592:EA55:5DD7]] ([[User_talk:2A00:23C7:E936:D201:91C3:4592:EA55:5DD7|talk]]) to rev. 1047033085 by 2A02:C7F:F49A:AE00:BD41:5B29:B866:AFE8: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]
+2021-10-16T21:52:40+00:00,1050280468,1050280360,0,Loiseaulybre,In the Night Garden...,Reverted 4 edits by [[Special:Contributions/2A00:23C7:E936:D201:1464:A50B:6B15:B9B0|2A00:23C7:E936:D201:1464:A50B:6B15:B9B0]] ([[User talk:2A00:23C7:E936:D201:1464:A50B:6B15:B9B0|talk]]) to last revision by Tommi1986
+2021-09-10T19:31:22+00:00,1043569064,1043092151,0,Orangelamp777,Little Charley Bear,Removed vandalism by banned user
+2021-10-18T11:20:16+00:00,1050528989,1050527256,0,FilmandTVFan28,Little Charley Bear,Reverted 1 edit by [[Special:Contributions/Cbeebies21|Cbeebies21]] ([[User talk:Cbeebies21|talk]]) to last revision by Orangelamp777
+2021-10-02T19:47:23+00:00,1047834724,1047782742,0,Clip877876,List of programs broadcast by Smile (TV network),what is acutally wrong with you
+2021-11-01T19:19:04+00:00,1053076504,1050528989,0,Citation bot,Little Charley Bear,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 619/906
+2021-09-15T10:15:22+00:00,1044461586,1041945655,0,86.23.15.132,Mike the Knight,
+2021-09-10T09:27:41+00:00,1043483815,1041841964,0,Danny Phantom 2028,Numberjacks,
+2021-10-01T17:09:09+00:00,1047606926,1047223239,0,50.236.22.34,Numberjacks,/* The Meanies */
+2021-09-04T21:00:38+00:00,1042406880,1042405781,0,81.219.238.175,Nina and the Neurons,Mikołaj
+2021-10-23T21:03:59+00:00,1051493454,1051440671,0,51.171.198.187,Numberjacks,/* Episodes */
+2021-10-10T15:50:55+00:00,1049220990,1049219544,0,ThisIsMarvy,Numberjacks,
+2021-10-18T15:07:38+00:00,1050556608,1050556168,0,2A02:C7D:70BF:C500:B04C:E388:E3B4:5477,Numberjacks,Yes
+2021-09-15T02:49:44+00:00,1044408190,1044324756,0,NinjaRobotPirate,Numberjacks,Undid revision 1044296335 by [[Special:Contributions/Nicktoons 2021|Nicktoons 2021]] ([[User talk:Nicktoons 2021|talk]]) unsourced
+2021-09-11T07:10:56+00:00,1043653011,1043483815,0,Tama Fan,Numberjacks,Undid revision 1043483815 by [[Special:Contributions/Danny Phantom 2028|Danny Phantom 2028]] ([[User talk:Danny Phantom 2028|talk]])
+2021-08-26T09:17:11+00:00,1040729442,1040623839,0,X201,Peter Rabbit (TV series),Undid revision 1040623839 by [[Special:Contributions/2001:8F8:1425:B1E:96F:8E50:311A:51F5|2001:8F8:1425:B1E:96F:8E50:311A:51F5]] ([[User talk:2001:8F8:1425:B1E:96F:8E50:311A:51F5|talk]])
+2021-10-25T09:31:55+00:00,1051738195,1050820747,0,Citation bot,Postman Pat,"Alter: template type. Add: date, work. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 1488/2200"
+2021-09-16T13:18:33+00:00,1044672235,1044125040,0,Fuddle,Postman Pat,Disambiguating links to [[CBBC]] (link changed to [[CBBC (TV channel)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].
+2021-07-31T11:56:37+00:00,1036418824,1035252080,0,84.69.210.214,Q Pootle 5,
+2021-09-09T11:08:16+00:00,1043298571,1042893955,0,IrishTV,RTÉjr,"/* History */ BAI might have recommended that it carry no advertising but RTÉ own policy along with its submission to the Department always stated it would not carry advertising, which the minister agreed to."
+2021-09-17T13:29:47+00:00,1044866875,1044837247,0,DylanGee33,Raa Raa the Noisy Lion,"Raa Raa the Noisy Lion came out on May 9, 2011, not July 14, 2010."
+2021-10-02T09:45:40+00:00,1047738946,1047651503,0,Bonusballs,RTÉjr,Reverted edits by [[Special:Contribs/2A02:C7E:2CAB:8900:CC5C:5C8D:63A5:5F7D|2A02:C7E:2CAB:8900:CC5C:5C8D:63A5:5F7D]] ([[User talk:2A02:C7E:2CAB:8900:CC5C:5C8D:63A5:5F7D|talk]]) to last version by Bonusballs
+2021-10-08T20:07:17+00:00,1048927850,1044866875,0,Citation bot,Raa Raa the Noisy Lion,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 159/590
+2021-10-20T21:08:21+00:00,1050955439,1050933374,0,Bonusballs,RTÉjr,Undid revision 1050933374 by [[Special:Contributions/2A02:C7F:EC73:0:247E:112B:BDC1:D098|2A02:C7F:EC73:0:247E:112B:BDC1:D098]] ([[User talk:2A02:C7F:EC73:0:247E:112B:BDC1:D098|talk]]) original is correct
+2021-08-30T01:12:02+00:00,1041346190,1038225523,0,199.193.227.163,Raa Raa the Noisy Lion,
+2021-11-03T14:23:42+00:00,1053374145,1053373254,0,My Pants Metal,Raa Raa the Noisy Lion,Reverted 1 edit by [[Special:Contributions/Cbeebies 2025|Cbeebies 2025]] ([[User talk:Cbeebies 2025|talk]]) to last revision by Bonusballs
+2021-09-29T01:28:03+00:00,1047105603,1046471796,0,67.85.20.246,Rabbids,/* Characters */
+2021-09-06T11:46:35+00:00,1042718099,1042702469,0,Hammill Ten,Rabbids Invasion,Undid revision 1042702469 by [[Special:Contributions/Danny Phantom 2021|Danny Phantom 2021]] ([[User talk:Danny Phantom 2021|talk]])
+2021-09-03T17:53:17+00:00,1042198437,1040848427,0,BMA-Nation2020,Rayman Raving Rabbids: TV Party,/* Plot */
+2021-10-31T06:18:07+00:00,1052811363,1042198437,0,JJMC89 bot III,Rayman Raving Rabbids: TV Party,Moving [[:Category:Raving Rabbids]] to [[:Category:Rabbids]] per [[Wikipedia:Categories for discussion/Speedy]]
+2021-09-05T21:13:11+00:00,1042606072,1042604651,0,Ohnoitsjamie,Rabbids Invasion,Reverted edits by [[Special:Contribs/97.82.34.230|97.82.34.230]] ([[User talk:97.82.34.230|talk]]) to last version by Ferret
+2021-10-03T11:26:03+00:00,1047938688,1042718099,0,Citation bot,Rabbids Invasion,"Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 66/100"
+2021-08-16T14:16:23+00:00,1039072812,1039072488,0,2A00:1FA1:86A9:E005:0:48:9DF1:2A01,Retry (video game),/* Episodes */
+2021-10-19T14:20:54+00:00,1050720540,1050718699,0,Ohnoitsjamie,Rabbids Invasion,no evidence of this
+2021-10-18T12:49:12+00:00,1050538361,1050534194,0,FilmandTVFan28,Retry (video game),Reverted 1 edit by [[Special:Contributions/CbbcFan2021|CbbcFan2021]] ([[User talk:CbbcFan2021|talk]]) to last revision by 2A00:1FA1:86A9:E005:0:48:9DF1:2A01
+2021-11-02T15:26:47+00:00,1053209190,1053208469,0,Fragrant Peony,Retry (video game),Undid revision 1053208469 by [[Special:Contributions/Cbeebies 2023|Cbeebies 2023]] ([[User talk:Cbeebies 2023|talk]])
+2021-07-09T22:48:28+00:00,1032829030,1032067559,0,GreenC bot,Taylor Wimpey,Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]
+2021-07-07T22:54:49+00:00,1032519027,1022558868,0,Isabelle Belato,The Gruffalo,"Importing Wikidata [[Wikipedia:Short description|short description]]: ""Book by Julia Donaldson"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-10-28T19:19:28+00:00,1052365262,1032153941,0,85.255.234.219,The Numtums,/* External links */
+2021-09-07T00:05:40+00:00,1042825682,1042606117,0,Niceguyedc,Tinga Tinga Tales,"v2.04 - Repaired 2 links to disambiguation pages - [[WP:DPL|(You can help)]] - [[Buffalo]], [[Hen]]"
+2021-04-15T22:01:05+00:00,1018023959,1016177031,0,2603:7000:C702:FBB1:DC4B:F43F:425D:8A10,Uki (TV series),
+2021-07-05T19:56:25+00:00,1032153941,1030037744,0,Feline Hymnic,The Numtums,Reverted 8 edits by [[Special:Contributions/2600:8805:D48E:3600:5C60:5BFD:8670:1322|2600:8805:D48E:3600:5C60:5BFD:8670:1322]] ([[User talk:2600:8805:D48E:3600:5C60:5BFD:8670:1322|talk]]): Revert edits by a blocked anon-IP.  See also [[Sail bogey]] reverts.
+2021-10-18T11:19:31+00:00,1050528920,1050527680,0,FilmandTVFan28,Uki (TV series),Reverted 1 edit by [[Special:Contributions/Cbeebies21|Cbeebies21]] ([[User talk:Cbeebies21|talk]]) to last revision by 2603:7000:C702:FBB1:DC4B:F43F:425D:8A10
+2021-10-09T18:47:54+00:00,1049081403,1048942738,0,73.149.231.74,Waybuloo,/* Series 1 and 2 */
+2021-10-06T03:41:02+00:00,1048460604,1048255668,0,Citation bot,Waybuloo,Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 341/2037
+2021-09-09T09:22:56+00:00,1043285919,1043105292,0,Danny Phantom 2026,Waybuloo,
+2021-10-19T14:21:20+00:00,1050720593,1050719148,0,Ohnoitsjamie,WonderCon,Reverted edits by [[Special:Contribs/NicktoonsFan21|NicktoonsFan21]] ([[User talk:NicktoonsFan21|talk]]) to last version by SdkbBot
+2021-09-04T16:58:06+00:00,1042371350,1041975549,0,37.228.250.233,Waybuloo,
+2021-10-19T15:49:41+00:00,1050732987,1050719920,0,Geraldo Perez,Zigby,Australia and Germany don't use that
+2021-09-18T13:21:48+00:00,1045042991,1037759968,0,24.114.72.68,Zigby,
+2021-10-20T23:51:42+00:00,1050978153,1050546221,0,Explicit,ZingZillas,Removing link(s) [[Wikipedia:Articles for deletion/Rachelle Beinart]] closed as soft delete ([[WP:XFDC#4.0.12|XFDcloser]])
+2021-09-09T09:26:06+00:00,1043286352,1042326719,0,Danny Phantom 2026,ZingZillas,
+2021-09-23T22:46:25+00:00,1046091879,1045401318,0,184.99.26.123,ZingZillas,/* Characters */
+2021-08-02T14:30:17+00:00,1036756876,1036756317,0,MusikBot II,Alphablocks,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])
+2021-08-02T22:55:54+00:00,1036826709,1035591621,0,213.104.124.39,3rd & Bird,
+2021-08-31T23:52:52+00:00,1041696751,1041423433,0,E789999,BBC Kids (Canadian TV channel),"two years anniversary edit, and i know this one is a bit early than the other one."
+2021-08-04T03:49:36+00:00,1037030645,1036761844,0,2001:569:BD38:8400:FCFB:2B8:FE31:96C,BBC Kids (Canadian TV channel),
+2021-06-27T17:14:09+00:00,1030719539,1029401921,0,71.235.112.214,BBC Kids (Canadian TV channel),
+2021-07-17T17:00:24+00:00,1034077311,1032396837,0,92.9.11.43,Big & Small,/* Characters */
+2021-05-24T17:46:24+00:00,1024906053,1023861952,0,2001:569:BD38:8400:354D:F127:213B:510,BBC Kids (Canadian TV channel),/* Programming */ Fixed date
+2021-07-07T05:29:11+00:00,1032396837,1030734869,0,24.196.171.226,Big & Small,/* Characters */
+2021-08-13T02:45:29+00:00,1038524916,1038496459,0,Discospinster,Alphablocks,Reverted edits by [[Special:Contribs/97.116.116.202|97.116.116.202]] ([[User talk:97.116.116.202|talk]]) to last version by 173.77.217.188
+2021-05-30T05:03:37+00:00,1025888328,1020298293,0,2A00:23C5:69FF:B601:9813:F995:EA06:4E44,3rd & Bird,
+2021-04-28T09:49:03+00:00,1020298293,1020011813,0,AussieLegend,3rd & Bird,Reverted 1 edit by [[Special:Contributions/BluesCluesFan2021|BluesCluesFan2021]] ([[User talk:BluesCluesFan2021|talk]]): Rv sockpuppet edits
+2021-07-27T17:09:46+00:00,1035785208,1035784263,0,162.40.51.142,Bing (TV series),
+2021-08-25T20:19:26+00:00,1040645829,1040338123,0,108.35.2.225,Bing (TV series),
+2021-07-11T07:37:07+00:00,1033045995,1032461345,0,2A02:C7F:72A8:DE00:D0FC:E105:F55A:AA09,Bing (TV series),/* Main characters */
+2021-08-16T01:33:19+00:00,1038992659,1036932924,0,Grapesoda22,Boj (TV series),/* DVDs */
+2021-10-14T11:35:03+00:00,1049878643,1047862504,0,188.242.162.157,Bing (TV series),typo
+2021-05-10T23:57:43+00:00,1022520888,1020175836,0,DerpJobi,Big & Small,/* Characters */
+2021-06-10T02:52:20+00:00,1027801952,1027138848,0,202.52.36.57,Bing (TV series),Fixed typo
+2021-07-02T11:01:45+00:00,1031574680,1031224931,0,2402:7500:953:E4DD:0:0:262D:318B,Boj (TV series),"Undid revision 1031224931 by [[Special:Contributions/Drill it|Drill it]] ([[User talk:Drill it|talk]])This suspicious account deleted the content but couldn't find its rationality, so it was restored to the time when the content was not deleted."
+2021-05-15T06:45:20+00:00,1023235006,1023234912,0,2A00:23C5:69FF:B601:CD45:B915:F448:2EBA,Boj (TV series),/* References */
+2021-06-02T17:42:58+00:00,1026505658,1026457917,0,79.74.17.22,Boj (TV series),/* Pilot (2008) */
+2021-04-23T03:51:01+00:00,1019402383,1017879492,0,2603:8000:F201:6AC3:DCF7:623F:390:B6E2,Bing (TV series),/* External links */
+2021-08-18T09:17:57+00:00,1039370130,1039353451,0,84.67.105.133,Bing (TV series),/* Awards and nominations */
+2021-05-05T07:21:49+00:00,1021535730,1021444723,0,DuggeeFan2021,Boj (TV series),/* Pilot (2011) */
+2021-05-07T11:45:56+00:00,1021917785,1021853740,0,2600:1700:F2D0:3E40:CCBE:4E5C:F31B:B50B,Boo! (TV series),
+2021-05-11T12:12:47+00:00,1022598201,1022563086,0,49.183.143.59,Boo! (TV series),
+2021-05-22T21:01:10+00:00,1024554904,1023846424,0,MFlet1,CBBC,"This article is specifically about the channel, not the programming strand formerly on BBC1/2"
+2021-06-18T22:49:56+00:00,1029268795,1026859739,0,YuriNikolai,Boo! (TV series),Revert 2 eds
+2021-07-23T20:02:06+00:00,1035119823,1033695777,0,2A02:C7F:A11A:1E00:747C:2F3E:1B5A:7A4E,CBBC,/* Management */
+2021-05-09T07:17:22+00:00,1022222363,1022222289,0,TwirlywoosFan2021,CBeebies,
+2021-04-24T18:18:58+00:00,1019667021,1017969220,0,Oyin Bucknor Arigbede,CBeebies,
+2021-04-15T16:09:15+00:00,1017969220,1017150660,0,SporkBot,CBeebies,Remove template per [[Wikipedia:Templates for discussion/Log/2021 April 7|TFD outcome]]
+2021-06-25T02:37:35+00:00,1030297930,1030278928,0,TomCat9000,Chuggington,
+2021-05-16T15:45:43+00:00,1023471627,1023441756,0,CodeTalker,Chuggington,Reverted 1 edit by [[Special:Contributions/79.74.209.135|79.74.209.135]] ([[User talk:79.74.209.135|talk]]): Broke wikilink
+2021-06-26T20:08:06+00:00,1030575734,1030541245,0,Rhysw2007,CBeebies,
+2021-07-04T04:00:26+00:00,1031865581,1031856324,0,TomCat9000,Chuggington,
+2021-08-24T03:16:22+00:00,1040358312,1039534582,0,2001:8003:2671:1100:71E5:8090:FEAB:B60E,Chuggington,/* First appearing in Series 7 */
+2021-09-29T05:32:34+00:00,1047131270,1044406241,0,Tomoiery,Chuggington,/* First appearing in Series 4 */
+2021-04-04T16:31:02+00:00,1015962767,1015851284,0,Lotje,Clangers,fixing CS1 error
+2021-05-14T23:28:58+00:00,1023194331,1020732767,0,86.186.201.21,Clangers,/* External links */
+2021-05-07T18:36:58+00:00,1021977420,1021973898,0,AussieLegend,Driver Dan's Story Train,[[WP:EVADE]]
+2021-07-07T16:22:43+00:00,1032468442,1032286269,0,2601:201:4201:A4B0:A9BB:6CDD:D3EA:BFCB,Driver Dan's Story Train,
+2021-04-15T03:00:20+00:00,1017878859,1010627992,0,2603:8000:F201:6AC3:9CE7:2B78:22F2:549,Driver Dan's Story Train,/* External links */
+2021-04-28T10:11:31+00:00,1020300832,1020101297,0,Palhil,Driver Dan's Story Train,"Added line ""Animation and production was provided by A Productions Ltd in Bristol, UK."""
+2021-06-24T07:16:30+00:00,1030161505,1030161473,0,Davidgoodheart,Elephant and Piggie,
+2021-06-17T21:02:03+00:00,1029092885,1028598729,0,2603:8000:5B00:DEDB:D4C1:9B70:357C:5DC,Guess with Jess,/* External links */
+2021-05-03T15:11:48+00:00,1021220030,1018443717,0,Julian.exe,Guess with Jess,"The series was cancelled in 2013, it's no longer in production"
+2021-07-15T12:27:41+00:00,1033721850,1029437038,0,91.110.97.9,Guess with Jess,/* Characters */Jess is Actually a Girl not a Boy
+2021-06-20T00:07:40+00:00,1029437038,1029092885,0,Butlerblog,Guess with Jess,/* top */clean up unknown {{infobox television}} params
+2021-07-18T04:54:19+00:00,1034155442,1033686852,0,Rickrick93,Hey Duggee,/* External links */
+2021-10-17T00:03:34+00:00,1050294379,1050140595,0,2601:1C2:4F80:B010:51A1:4048:AA26:137A,Hey Duggee,/* Series 3 (2019-2021) */
+2021-10-25T16:33:18+00:00,1051791188,1051783844,0,2A02:C7F:7CFB:C100:D9F1:C6C7:E1F4:F880,In the Night Garden...,/* top */
+2021-06-29T19:04:15+00:00,1031087844,1029869977,0,ShelfSkewed,In the Night Garden...,Edited disambig hatnote
+2021-06-22T14:27:30+00:00,1029869977,1029862010,0,Chaheel Riens,In the Night Garden...,"/* Magazines */ This is hugely excessive, unsourced and non-notable in general."
+2021-08-09T05:57:46+00:00,1037872004,1037741765,0,Magitroopa,Hey Duggee,"Unneeded paramter, overlinking fix, [[MOS:NUMERAL]] as well"
+2021-06-12T21:04:06+00:00,1028257136,1024570016,0,5.70.202.41,In the Night Garden...,/* Cast */
+2021-07-24T21:49:02+00:00,1035303464,1035302280,0,DanielRigal,Hey Duggee,Reverted 1 edit by [[Special:Contributions/2601:586:5200:3350:CD51:81E1:61B:46D3|2601:586:5200:3350:CD51:81E1:61B:46D3]] ([[User talk:2601:586:5200:3350:CD51:81E1:61B:46D3|talk]]): That's not what that field is for.
+2021-04-24T17:09:05+00:00,1019657706,1019657477,0,213.104.124.9,In the Night Garden...,
+2021-07-18T07:15:22+00:00,1034168531,1034015232,0,Freyakatie1,In the Night Garden...,
+2021-05-01T01:21:54+00:00,1020790524,1020581249,0,Wbm1058,In the Night Garden...,redirect bypass from [[Play-doh]] to [[Play-Doh]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+2021-07-07T01:57:44+00:00,1032375202,1029090751,0,2601:586:C400:B1CD:E010:71DD:58AC:D161,Kate & Mim-Mim,
+2021-11-03T13:24:22+00:00,1053365660,1053268150,0,49.197.135.80,List of programs broadcast by Smile (TV network),
+2021-05-12T18:45:11+00:00,1022829453,1022601190,0,Johnashu,Little Charley Bear,
+2021-05-08T18:18:30+00:00,1022140243,1021599708,0,2A02:C7E:EC6:E500:ACA1:DA63:C26:E74E,Kate & Mim-Mim,
+2021-05-05T06:59:59+00:00,1021533925,1021447006,0,DuggeeFan2021,Little Charley Bear,
+2021-04-07T01:45:01+00:00,1016416068,1016225737,0,NOLA1982,Little Charley Bear,"Adding local [[Wikipedia:Short description|short description]]: ""British television series"", overriding Wikidata description ""television series"" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])"
+2021-07-20T19:58:40+00:00,1034594333,1034594277,0,109.249.185.120,Little Charley Bear,
+2021-06-11T20:55:04+00:00,1028099246,1026847928,0,2600:1700:1111:BBC0:1159:A3B7:D0D7:9B70,Nina and the Neurons,/* Characters and cast */
+2021-07-26T00:54:29+00:00,1035491773,1035408812,0,Magitroopa,Nina and the Neurons,Undid revision 1035408812 by [[Special:Contributions/124.13.65.65|124.13.65.65]] ([[User talk:124.13.65.65|talk]])
+2021-09-14T14:17:27+00:00,1044296335,1043653011,0,Nicktoons 2021,Numberjacks,
+2021-08-15T03:47:10+00:00,1038845034,1038132863,0,2603:7000:B23E:E18A:8152:DDA6:86DE:775E,Numberjacks,
+2021-04-24T14:08:28+00:00,1019634473,1019634274,0,Fences and windows,Numberjacks,/* top */  Protection template
+2021-05-28T23:05:50+00:00,1025683123,1023827526,0,Blubabluba9990,Numberjacks,/* Episodes */ Removing vandalism
+2021-06-04T18:38:18+00:00,1026875975,1025683123,0,Commyguy,Numberjacks,/* UK DVD Releases */ Removed [[DVD]] article link from section heading
+2021-09-18T00:55:34+00:00,1044961438,1044656551,0,2600:1700:275:2710:112C:73DB:77A8:B103,Numberjacks,/* Premise */
+2021-09-01T20:43:40+00:00,1041841964,1038845034,0,86.180.116.183,Numberjacks,
+2021-08-19T20:04:49+00:00,1039627339,1038996777,0,2605:8D80:326:723A:69C8:EDF4:B538:EBB8,Peter Rabbit (TV series),
+2021-05-29T11:59:53+00:00,1025761122,1025760780,0,Ubcule,Postman Pat,Meant to revert this change too
+2021-09-05T02:32:07+00:00,1042452860,1041272717,0,Grapesoda22,Postman Pat,
+2021-08-29T16:01:00+00:00,1041272717,1041272423,0,Gonnym,Postman Pat,Undid revision 1041272423 by [[Special:Contributions/2607:FEA8:FA2:E400:195:D943:A8FE:6BCD|2607:FEA8:FA2:E400:195:D943:A8FE:6BCD]] ([[User talk:2607:FEA8:FA2:E400:195:D943:A8FE:6BCD|talk]])
+2021-05-19T14:44:53+00:00,1023998753,1020100846,0,Wbm1058,Q Pootle 5,use sentence case in infobox (via [[WP:JWB]])
+2021-04-28T15:36:58+00:00,1020342247,1020298089,0,Rodw,RTÉjr,Disambiguated: [[Storytime (TV series)]] → [[Storytime (TV programme)]]; Help needed: [[Out and About]]
+2021-08-11T07:51:23+00:00,1038225523,1038190157,0,Magitroopa,Raa Raa the Noisy Lion,Rvv.- clearly block evasion
+2021-07-19T04:13:18+00:00,1034309955,1034267009,0,2601:201:4201:A4B0:ECF9:41F7:E781:1078,Raa Raa the Noisy Lion,/* List of episodes */
+2021-05-04T13:19:06+00:00,1021390838,1021277630,0,Waylif22,Raa Raa the Noisy Lion,
+2021-05-25T12:44:57+00:00,1025047554,1024565146,0,Cewbot,Rabbids,[[User:Cewbot/log/20201008/configuration|Fix broken anchor]]: #Plot#Donkey Kong Adventure→most alike anchor [[Mario + Rabbids Kingdom Battle#Donkey Kong Adventure]]
+2021-06-21T20:42:14+00:00,1029755191,1028286610,0,2603:8000:5B00:DEDB:AC7F:CD40:5D07:1C69,Raa Raa the Noisy Lion,/* External links */
+2021-08-01T04:55:02+00:00,1036532965,1036532943,0,Rdp060707,Rabbids Invasion,"[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/183.171.89.247|183.171.89.247]] ([[User talk:183.171.89.247|talk]]) to last revision by Discospinster: not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]])"
+2021-04-24T06:17:41+00:00,1019587808,1018344809,0,Ridwan97,Rabbids Invasion,#suggestededit-add 1.0
+2021-07-22T14:55:17+00:00,1034915476,1034915386,0,Discospinster,Rabbids Invasion,Reverted edits by [[Special:Contribs/84.64.25.1|84.64.25.1]] ([[User talk:84.64.25.1|talk]]) to last version by Hammill Ten
+2021-11-01T18:32:18+00:00,1053070101,1053062193,0,Ferret,Rayman Raving Rabbids: TV Party,Reverted 1 edit by [[Special:Contributions/2806:108E:22:8FF:71C8:CFE0:4F2:9308|2806:108E:22:8FF:71C8:CFE0:4F2:9308]] ([[User talk:2806:108E:22:8FF:71C8:CFE0:4F2:9308|talk]]): Unnecessary and atypical
+2021-02-09T08:46:10+00:00,1005762736,992778500,0,82.45.99.38,Retry (video game),
+2021-07-09T02:38:07+00:00,1032695928,1032695831,0,Ethan2345678,Retry (video game),Undid revision 1032695831 by [[Special:Contributions/2A00:1FA1:C493:1476:0:56:959F:101|2A00:1FA1:C493:1476:0:56:959F:101]] ([[User talk:2A00:1FA1:C493:1476:0:56:959F:101|talk]]) Unsourced
+2021-05-11T05:45:59+00:00,1022558868,1022558396,0,2001:569:7696:1700:2D5D:C39A:1385:C45C,The Gruffalo,
+2021-04-06T02:53:08+00:00,1016235491,1012455063,0,Սահակ,The Gruffalo,/* Translations */
+2021-05-08T13:58:54+00:00,1022105143,1022065736,0,AussieLegend,The Numtums,[[WP:EVADE]]
+2021-05-10T15:22:13+00:00,1022446201,1022445318,0,AussieLegend,Tinga Tinga Tales,[[WP:EVADE]]
+2021-05-26T03:57:23+00:00,1025170747,1025170567,0,2601:198:80:8B80:A028:F84C:CE39:2506,Waybuloo,Ii
+2021-05-13T18:22:05+00:00,1022996643,1022996444,0,37.228.249.245,Waybuloo,/* Main Characters */
+2021-08-11T11:38:43+00:00,1038247983,1037293122,0,Creoda,Waybuloo,
+2021-10-14T02:53:24+00:00,1049829377,1049717411,0,LTPHarry,Waybuloo,
+2021-07-04T15:54:51+00:00,1031936820,1031936750,0,146.200.215.15,Waybuloo,/* Series 3 and 4 */
+2021-06-21T04:34:05+00:00,1029633105,1015963083,0,SdkbBot,WonderCon,"[[WP:GENFIX|General fixes]], removed [[WP:REFPUNCT|erroneous]] space"
+2021-08-08T15:06:54+00:00,1037759968,1037759926,0,LTPHarry,Zigby,
