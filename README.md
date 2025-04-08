@@ -22,6 +22,10 @@ The dataset is structured as a set of CSV files. Each file represents an individ
 
 Several investigations that were scrapped contained no sockpuppet contributions. Either the banned sockpuppets made none, or these contributions no longer appear on their user contributions page. A list of these 984 investigations is included in `empty-investigations.txt`.
 
+## Problematic Investigations
+
+Please note that some investigations may have a limited number of positive or negative samples, or empty fields. This may be problematic for some learning architecture. We provide a `stats.csv` file containing information about each investigation, and suggest that this file be used to create a suitable distribution of tasks for a given architecture.
+
 ## Reading the Data
 
 Each investigation is easily read using pandas. To ensure the data is read to the desired datatype, you may use the function below.
