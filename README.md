@@ -1,4 +1,4 @@
-# Dataset for *Detecting Sockpuppetry on Wikipedia using Meta-Learning*
+# Wiki-Socks
 
 A dataset of Wikipedia Sockpuppet Investigations collected for my masters thesis, *Detecting Sockpuppetry on Wikipedia using Meta-Learning*. Sockpuppets are accounts that are controlled by the same user, typically deployed to create the illusion of majority support for political or vandalistic purposes. Detecting sockpuppets is imperative to reducing the spread of misinformation and distrust in online communities.
 
