@@ -20,7 +20,7 @@ The dataset is structured as a set of CSV files. Each file represents an individ
 
 ## Empty Investigations
 
-Several investigations that were scrapped contained no sockpuppet contributions. Either the banned sockpuppets made none, or these contributions no longer appear on their user contributions page. A list of these 984 investigations is included in `empty-investigations.txt`.
+Several investigations that were scraped contained no sockpuppet contributions. Either the banned sockpuppets made none, or these contributions no longer appear on their user contributions page. A list of these 984 investigations is included in `empty-investigations.txt`.
 
 ## Problematic Investigations
 
