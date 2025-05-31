@@ -2,7 +2,7 @@
 
 A dataset of Wikipedia Sockpuppet Investigations collected for my masters thesis, *Detecting Sockpuppetry on Wikipedia using Meta-Learning*. Sockpuppets are accounts that are controlled by the same user, typically deployed to create the illusion of majority support for political or vandalistic purposes. Detecting sockpuppets is imperative to reducing the spread of misinformation and distrust in online communities.
 
-The dataset was constructed using the English Wikipedia API, and contains the Wikipedia contributions of all confirmed sockpuppets listed [here](https://en.wikipedia.org/wiki/Category:Wikipedia_sockpuppets). It also contains randomly sampled contributions from non-sockpuppet users drawn from the same time and page distribution.
+The dataset was constructed using the English Wikipedia API, and contains the Wikipedia contributions of all confirmed sockpuppets listed [here](https://en.wikipedia.org/wiki/Category:Wikipedia_sockpuppets). It also contains randomly sampled contributions from non-sockpuppet users drawn from the same time and page distribution. If you are a non-sockpuppet user included in this dataset and would like your contributions removed, please submit a pull request or send me an email and I will be happy to remove them.
 
 ## Structure
 
